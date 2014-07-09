@@ -3,17 +3,17 @@
 ##Regeling van de Minister van Economische Zaken van 11 december 2013, nr. WJZ / 13201555, houdende regels inzake de vaststelling van de vergoeding voor werkzaamheden en diensten in 2014 op grond van de Telecommunicatiewet en de Postwet (Regeling vergoedingen Telecommunicatiewet en Postwet 2014)
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 3, tweede lid](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [4, derde lid](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [5](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [5a, eerste lid](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [5b, derde lid](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), en [7 van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [artikel 65, eerste lid, van de Postwet 2009](../../../../../../../../wet/postwet/2009/BWBR0025572/README.md) en [artikel 14 van het Postbesluit 2009](../../../../../../../../AMvB/postbesluit/2009/BWBR0025577/README.md);
+Gelet op de artikelen 3, tweede lid, 4, derde lid, 5, 5a, eerste lid, 5b, derde lid, en 7 van het Besluit vergoedingen Telecommunicatiewet, artikel 65, eerste lid, van de Postwet 2009 en artikel 14 van het Postbesluit 2009;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder besluit: [Besluit vergoedingen Telecommunicatiewet](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md). 
+In deze regeling wordt verstaan onder besluit: Besluit vergoedingen Telecommunicatiewet. 
 
 ### Artikel  2  
 
-1.  Het grensbedrag, bedoeld in [artikel 5a, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), bedraagt € 20.000.000.   
-2.  Het minimum, bedoeld in [artikel 5a, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), bedraagt € 2.000.000.  
+1.  Het grensbedrag, bedoeld in artikel 5a, eerste lid, onderdeel a, van het besluit, bedraagt € 20.000.000.   
+2.  Het minimum, bedoeld in artikel 5a, eerste lid, onderdeel b, van het besluit, bedraagt € 2.000.000.  
 
 ### Artikel  3  
 
@@ -21,12 +21,12 @@ Voor de kosten van het door de Autoriteit Consument en Markt verrichten van werk
 
 ### Artikel  4  
 
-1.  Indien sprake is van een overdracht van activiteiten als bedoeld in [artikel 5b, derde lid, van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), en indien de overdracht van activiteiten heeft plaatsgevonden na het jaar dat op grond van [artikel 5c, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) als referentiejaar geldt, wordt de omzet van de vergoedingsplichtige aanbieder gebaseerd op: 
+1.  Indien sprake is van een overdracht van activiteiten als bedoeld in artikel 5b, derde lid, van het besluit, en indien de overdracht van activiteiten heeft plaatsgevonden na het jaar dat op grond van artikel 5c, eerste lid, van het besluit als referentiejaar geldt, wordt de omzet van de vergoedingsplichtige aanbieder gebaseerd op: 
 
-a. bij een splitsing in de zin van [artikel 334a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md): het relevante deel van de omzet van de aanbieder waaruit de vergoedingsplichtige aanbieder is ontstaan;  
+a. bij een splitsing in de zin van artikel 334a van Boek 2 van het Burgerlijk Wetboek: het relevante deel van de omzet van de aanbieder waaruit de vergoedingsplichtige aanbieder is ontstaan;  
 
 b. bij een overdracht van activiteiten op een andere wijze dan bedoeld in onderdeel a: de omzet van de aanbieder of de aanbieders wiens respectievelijk wier activiteiten zijn overgedragen aan de vergoedingsplichtige aanbieder.     
-2.  Indien sprake is van een overdracht van activiteiten als bedoeld in [artikel 5b, derde lid, van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), en indien de overdracht van activiteiten heeft plaatsgevonden in het jaar dat op grond van [artikel 5c, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) als referentiejaar geldt, wordt de omzet van de vergoedingsplichtige aanbieder gebaseerd op: 
+2.  Indien sprake is van een overdracht van activiteiten als bedoeld in artikel 5b, derde lid, van het besluit, en indien de overdracht van activiteiten heeft plaatsgevonden in het jaar dat op grond van artikel 5c, eerste lid, van het besluit als referentiejaar geldt, wordt de omzet van de vergoedingsplichtige aanbieder gebaseerd op: 
 
 a. de omzet van de vergoedingsplichtige aanbieder, en  
 
@@ -43,7 +43,7 @@ Degene die de vergoeding verschuldigd is, behoeft de vergoeding voor werkzaamhed
 
 ### Artikel  7  
 
-De [Regeling vergoedingen 2013 Telecommunicatiewet en Postwet](../../../../../../../../ministeriele-regeling/regeling/vergoedingen/telecommunicatiewet/en/postwet/2013/BWBR0032520/README.md) wordt ingetrokken, met dien verstande dat die regeling van toepassing blijft met betrekking tot de in die regeling bedoelde werkzaamheden of diensten die in het kalenderjaar 2013 zijn verricht. 
+De Regeling vergoedingen 2013 Telecommunicatiewet en Postwet wordt ingetrokken, met dien verstande dat die regeling van toepassing blijft met betrekking tot de in die regeling bedoelde werkzaamheden of diensten die in het kalenderjaar 2013 zijn verricht. 
 
 ### Artikel  8  
 
@@ -74,7 +74,7 @@ De vergoedingen voor de kosten van de navolgende categorieën en subcategorieën
 | – met een omzet in 2012 van meer dan € 20.000.000,–  | nihil  | 0,069% van de omzet <sup>3</sup>  |
 |  *2. Post*   | --- | --- |
 | • universele dienst  | --- | € 400.000  |
-| • de verdeelsleutel voor 2014, omzet niet-universele dienst, bedoeld in [artikel 14 van het Postbesluit 2009](../../../../../../../../AMvB/postbesluit/2009/BWBR0025577/README.md)  | --- | 0,0463%  |
+| • de verdeelsleutel voor 2014, omzet niet-universele dienst, bedoeld in artikel 14 van het Postbesluit 2009  | --- | 0,0463%  |
 |  *3. Gekwalificeerde certificaten (TTP)*   | --- | --- |
 | Het aanbieden of afgeven van gekwalificeerde certificaten aan het publiek (TTP-diensten):  | --- | --- |
 | • met een geldig bewijs van toetsing<sup> 4</sup>   | --- | --- |
@@ -84,7 +84,7 @@ De vergoedingen voor de kosten van de navolgende categorieën en subcategorieën
 | – per certificatiedienstverlener  | € 3.000  | –  |
 | – per aan het publiek afgegeven certificaat  | –  | € 2,40  |
 
-<sup>1</sup>De in onderdeel 1 bedoelde omzet betreft op grond van [artikel 1, onderdeel d van het besluit](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) de omzet uit het in Nederland leveren van openbare elektronische communicatienetwerken, open elektronische communicatiediensten of bijbehorende faciliteiten.<sup>2</sup>Indien de aanbieder kan aantonen dat zijn omzet (uit in Nederland leveren van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten of bijbehorende faciliteiten) minder bedraagt dan € 2.000.000,– wordt de hoogte van de door hem verschuldigde vergoeding op nihil gesteld op grond van [artikel 5a, derde lid, van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md).<sup>3</sup>Dat wil zeggen een percentage van de omzet die de aanbieder in 2012 uit het in Nederland leveren van openbare elektronisch communicatienetwerk, openbare elektronische communicatiediensten of bijbehorende faciliteiten heeft gerealiseerd.<sup>4</sup>Certificatiedienstverlener die in het bezit is van een geldig bewijs van toetsing van een organisatie die is aangewezen op grond van [artikel 18.16, eerste lid, Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).<sup>5</sup>Certificatiedienstverlener die niet in het bezit is van een geldig bewijs van toetsing van een organisatie die is aangewezen op grond van [artikel 18.16, eerste lid, Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
+<sup>1</sup>De in onderdeel 1 bedoelde omzet betreft op grond van artikel 1, onderdeel d van het besluit de omzet uit het in Nederland leveren van openbare elektronische communicatienetwerken, open elektronische communicatiediensten of bijbehorende faciliteiten.<sup>2</sup>Indien de aanbieder kan aantonen dat zijn omzet (uit in Nederland leveren van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten of bijbehorende faciliteiten) minder bedraagt dan € 2.000.000,– wordt de hoogte van de door hem verschuldigde vergoeding op nihil gesteld op grond van artikel 5a, derde lid, van het Besluit vergoedingen Telecommunicatiewet.<sup>3</sup>Dat wil zeggen een percentage van de omzet die de aanbieder in 2012 uit het in Nederland leveren van openbare elektronisch communicatienetwerk, openbare elektronische communicatiediensten of bijbehorende faciliteiten heeft gerealiseerd.<sup>4</sup>Certificatiedienstverlener die in het bezit is van een geldig bewijs van toetsing van een organisatie die is aangewezen op grond van artikel 18.16, eerste lid, Telecommunicatiewet.<sup>5</sup>Certificatiedienstverlener die niet in het bezit is van een geldig bewijs van toetsing van een organisatie die is aangewezen op grond van artikel 18.16, eerste lid, Telecommunicatiewet. 
 
 | 4. Nummers als bedoeld in het ‘Nummerplan voor telefoon- en ISDN-diensten’ beginnend met de cijfers:  | Omschrijving  | Tariefklasse  |
 |:---|:---|:---|
@@ -106,15 +106,15 @@ De vergoedingen voor de kosten van de navolgende categorieën en subcategorieën
 | 0970  | 1. Elektronische communicatiediensten voor geautomatiseerde toepassingen  2. Overige elektronische communicatiediensten  | Tarief 8  |
 | 10  11  16  18  | Bijzondere korte nummers  | Tarief 1  |
 | 12  13  14  | Bijzondere korte nummers  | Tarief 3  |
-| Overige, hierboven niet genoemde nummers van het [Nummerplan voor telefoon- en ISDN-diensten](../../../../../../../../ministeriele-regeling/nummerplan/telefoon-/en/isdn-diensten/BWBR0010198/README.md) (uitgezonderd 01400)  | --- | Tarief 1  |
+| Overige, hierboven niet genoemde nummers van het Nummerplan voor telefoon- en ISDN-diensten (uitgezonderd 01400)  | --- | Tarief 1  |
 
 | 5. Overige nummerplannen:  | Omschrijving  | Tariefklasse  |
 |:---|:---|:---|
-| Nummers als bedoeld in het ‘[Nummerplan internationale signaleringspuntcodes](../../../../../../../../ministeriele-regeling/nummerplan/internationale/signaleringspuntcodes/BWBR0008836/README.md)’  | ISPC (internationale puntcode)  | Tarief 1  |
-| Nummers als bedoeld in het ‘[Nummerplan Transitnetwerk signaleringspuntcodes](../../../../../../../../ministeriele-regeling/nummerplan/transitnetwerk/signaleringspuntcodes/BWBR0009521/README.md)’  | TSPC (nationale puntcode)  | Tarief 1, per octet  |
-| Nummers als bedoeld in het ‘[Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)](../../../../../../../../ministeriele-regeling/nummerplan/voor/identiteitsnummers/ten/behoeve/van/internationale/etc/BWBR0010199/README.md)’  | MNC (Mobiele netwerkcode)  | Tarief 1  |
-| Nummers als bedoeld in het ‘[Nummerplan telexdiensten ](../../../../../../../../ministeriele-regeling/nummerplan/telexdiensten/BWBR0008189/README.md)’  | Telex  | Tarief 2  |
-| Nummers als bedoeld in het ‘[Nummerplan voor pakket en circuitgeschakelde datadiensten](../../../../../../../../ministeriele-regeling/nummerplan/pakket-/en/circuitgeschakelde/datadiensten/BWBR0008187/README.md)’  | DNIC  | Tarief 1, per 1/10 DNIC  |
+| Nummers als bedoeld in het ‘Nummerplan internationale signaleringspuntcodes’  | ISPC (internationale puntcode)  | Tarief 1  |
+| Nummers als bedoeld in het ‘Nummerplan Transitnetwerk signaleringspuntcodes’  | TSPC (nationale puntcode)  | Tarief 1, per octet  |
+| Nummers als bedoeld in het ‘Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)’  | MNC (Mobiele netwerkcode)  | Tarief 1  |
+| Nummers als bedoeld in het ‘Nummerplan telexdiensten ’  | Telex  | Tarief 2  |
+| Nummers als bedoeld in het ‘Nummerplan voor pakket en circuitgeschakelde datadiensten’  | DNIC  | Tarief 1, per 1/10 DNIC  |
 
 | 6. Overige diensten  | Tarief  |
 |:---|:---|

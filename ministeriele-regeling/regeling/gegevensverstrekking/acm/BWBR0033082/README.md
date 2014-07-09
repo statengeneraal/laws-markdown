@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 15 maart 2013, nr. WJZ/12356756, houdende regels omtrent het verstrekken van gegevens en inlichtingen door de Autoriteit Consument en Markt en wijziging van een aantal ministeriële regelingen in verband met de instelling van de Autoriteit Consument en Markt (Regeling gegevensverstrekking ACM)
 
 De Minister van Economische Zaken;  
-Gelet op [artikel 67, tweede lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 14, vierde lid, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md), de [artikelen 4a, derde lid](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [21, derde lid](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [40a](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [80, tweede lid](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), en [95k, vijfde lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de [artikelen 8, derde lid](../../../../../wet/gaswet/BWBR0011440/README.md), [52a, derde lid](../../../../../wet/gaswet/BWBR0011440/README.md), [66, tweede lid](../../../../../wet/gaswet/BWBR0011440/README.md), en [81e, tweede lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md), [artikel 7, derde lid, onderdeel a, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md), [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), de [artikelen 23, tweede lid](../../../../../wet/postwet/2009/BWBR0025572/README.md), [25, eerste, derde en zesde lid](../../../../../wet/postwet/2009/BWBR0025572/README.md), en [27, tweede lid, van de Postwet 2009](../../../../../wet/postwet/2009/BWBR0025572/README.md), [artikel 36, derde lid, onderdeel e, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), de [artikelen 2.1, vijfde lid, onderdeel b](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [2.3, derde en vierde lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [6a.19, tweede lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [artikel 65 Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [artikel 2, eerste lid, van het Besluit aanvraagprocedure nummers](../../../../../AMvB/besluit/aanvraagprocedure/nummers/BWBR0008157/README.md), [artikel 5 van het Besluit alternatieve verdeling nummers](../../../../../AMvB/besluit/alternatieve/verdeling/nummers/BWBR0014124/README.md), [artikel 3.5a, eerste lid, van het Besluit universele dienstverlening en eindgebruikersbelangen](../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md), [artikel 5 van het Besluit vergoedingen Telecommunicatiewet](../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [artikel 20 van het Besluit vergunningen mobiele telecommunicatie](../../../../../AMvB/besluit/vergunningen/mobiele/telecommunicatie/BWBR0006857/README.md), [artikel 8a, derde lid, van het Drinkwaterbesluit](../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), [artikel 12 van het Frequentiebesluit](../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) en [artikel 7, derde lid, van het Postbesluit 2009](../../../../../AMvB/postbesluit/2009/BWBR0025577/README.md);
+Gelet op artikel 67, tweede lid, onderdeel b, van de Algemene wet inzake rijksbelastingen, artikel 14, vierde lid, van de Dienstenwet, de artikelen 4a, derde lid, 21, derde lid, 40a, 80, tweede lid, en 95k, vijfde lid, van de Elektriciteitswet 1998, de artikelen 8, derde lid, 52a, derde lid, 66, tweede lid, en 81e, tweede lid, van de Gaswet, artikel 7, derde lid, onderdeel a, van de Instellingswet Autoriteit Consument en Markt, artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen, de artikelen 23, tweede lid, 25, eerste, derde en zesde lid, en 27, tweede lid, van de Postwet 2009, artikel 36, derde lid, onderdeel e, van de Spoorwegwet, de artikelen 2.1, vijfde lid, onderdeel b, 2.3, derde en vierde lid, en 6a.19, tweede lid, van de Telecommunicatiewet, artikel 65 Wet marktordening gezondheidszorg, artikel 2, eerste lid, van het Besluit aanvraagprocedure nummers, artikel 5 van het Besluit alternatieve verdeling nummers, artikel 3.5a, eerste lid, van het Besluit universele dienstverlening en eindgebruikersbelangen, artikel 5 van het Besluit vergoedingen Telecommunicatiewet, artikel 20 van het Besluit vergunningen mobiele telecommunicatie, artikel 8a, derde lid, van het Drinkwaterbesluit, artikel 12 van het Frequentiebesluit en artikel 7, derde lid, van het Postbesluit 2009;
 Besluit:     
 ### §  1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder wet: de [Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md). 
+In deze regeling wordt verstaan onder wet: de Instellingswet Autoriteit Consument en Markt. 
 
 ### Artikel  2  
 
@@ -19,37 +19,37 @@ In deze regeling wordt verstaan onder wet: de [Instellingswet Autoriteit Consume
 
 a.  *de Belastingdienst/FIOD-ECD:* gegevens en inlichtingen ten behoeve van het opsporen van overtredingen van fiscaal-economische wetgeving;  
 
-b.  *het Bureau bevordering integriteitsbeoordeling door het openbaar bestuur:* gegevens en inlichtingen nodig voor het op verzoek van de Autoriteit Consument en Markt uitbrengen van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+b.  *het Bureau bevordering integriteitsbeoordeling door het openbaar bestuur:* gegevens en inlichtingen nodig voor het op verzoek van de Autoriteit Consument en Markt uitbrengen van een advies als bedoeld in artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;  
 
-c.  *het Centraal Fonds voor de Volkshuisvesting:* gegevens en inlichtingen ten behoeve van de in [artikel 71a van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) opgedragen taak;  
+c.  *het Centraal Fonds voor de Volkshuisvesting:* gegevens en inlichtingen ten behoeve van de in artikel 71a van de Woningwet opgedragen taak;  
 
-d.  *het College bescherming persoonsgegevens:* gegevens en inlichtingen ten behoeve van de in [artikel 51 van de Wet op de persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) opgedragen taak;  
+d.  *het College bescherming persoonsgegevens:* gegevens en inlichtingen ten behoeve van de in artikel 51 van de Wet op de persoonsgegevens opgedragen taak;  
 
-e.  *het College van Toezicht collectieve beheersorganisaties Auteurs- en naburige rechten:* gegevens en inlichtingen ten behoeve van de in [artikel 2, tweede lid, van de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md) opgedragen taak;  
+e.  *het College van Toezicht collectieve beheersorganisaties Auteurs- en naburige rechten:* gegevens en inlichtingen ten behoeve van de in artikel 2, tweede lid, van de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten opgedragen taak;  
 
-f.  *het Commissariaat voor de Media:* gegevens en inlichtingen ten behoeve van de in [artikel 7.11 van de Mediawet 2008](../../../../../wet/mediawet/2008/BWBR0025028/README.md) opgedragen taak;  
+f.  *het Commissariaat voor de Media:* gegevens en inlichtingen ten behoeve van de in artikel 7.11 van de Mediawet 2008 opgedragen taak;  
 
 g.  *de Dienst Nationale Recherche van het Korps landelijke politiediensten:* gegevens en inlichtingen ten behoeve van het opsporen en bestrijden van computercriminaliteit;  
 
-h.  *de Inspectie voor de Gezondheidszorg:* gegevens en inlichtingen ten behoeve van het toezicht op de naleving van de [artikelen 82 tot en met 96 van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+h.  *de Inspectie voor de Gezondheidszorg:* gegevens en inlichtingen ten behoeve van het toezicht op de naleving van de artikelen 82 tot en met 96 van de Geneesmiddelenwet;  
 
-i.  *de Kansspelautoriteit:* gegevens en inlichtingen ten behoeve van de in [artikel 33b van de Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) opgedragen taak;  
+i.  *de Kansspelautoriteit:* gegevens en inlichtingen ten behoeve van de in artikel 33b van de Wet op de kansspelen opgedragen taak;  
 
-j.  *baten-lastendienst Logius:* gegevens en inlichtingen ten behoeve van het toezicht op certificatiedienstverleners als bedoeld in [artikel 1.1, onderdeel uu, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+j.  *baten-lastendienst Logius:* gegevens en inlichtingen ten behoeve van het toezicht op certificatiedienstverleners als bedoeld in artikel 1.1, onderdeel uu, van de Telecommunicatiewet;  
 
 k.  *het Nationaal Cyber Security Centrum:* gegevens en inlichtingen ten behoeve van het opsporen en bestrijden van computercriminaliteit;  
 
-l.  *de Nederlandsche Bank N.V.:* gegevens en inlichtingen ten behoeve van de in [artikel 1:24 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 151 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 146 van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) opgedragen taak;  
+l.  *de Nederlandsche Bank N.V.:* gegevens en inlichtingen ten behoeve van de in artikel 1:24 van de Wet op het financieel toezicht, artikel 151 van de Pensioenwet en artikel 146 van de Wet verplichte beroepspensioenregeling opgedragen taak;  
 
-m.  *de Nederlandse Zorgautoriteit:* gegevens en inlichtingen ten behoeve van de in [artikel 16 van de Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) opgedragen taak;  
+m.  *de Nederlandse Zorgautoriteit:* gegevens en inlichtingen ten behoeve van de in artikel 16 van de Wet marktordening gezondheidszorg opgedragen taak;  
 
-n.  *het openbaar ministerie:* gegevens en inlichtingen ten behoeve van de in [artikel 124 van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) opgedragen taak;  
+n.  *het openbaar ministerie:* gegevens en inlichtingen ten behoeve van de in artikel 124 van de Wet op de rechterlijke organisatie opgedragen taak;  
 
-o.  *de rijksbelastingdienst:* gegevens en inlichtingen ten behoeve van het uitvoeren van de belastingwet, genoemd in [artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+o.  *de rijksbelastingdienst:* gegevens en inlichtingen ten behoeve van het uitvoeren van de belastingwet, genoemd in artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen;  
 
-p.  *de Sociaal-Economische Raad:* gegevens en inlichtingen ten behoeve van de in [artikel 126, zevende lid, van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) opgedragen taak;  
+p.  *de Sociaal-Economische Raad:* gegevens en inlichtingen ten behoeve van de in artikel 126, zevende lid, van de Wet op de bedrijfsorganisatie opgedragen taak;  
 
-q.  *de Stichting Autoriteit Financiële Markten:* gegevens en inlichtingen ten behoeve van de in [artikel 3.1 van de Wet handhaving consumentenbescherming](../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en [artikel 1:25 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) opgedragen taak.     
+q.  *de Stichting Autoriteit Financiële Markten:* gegevens en inlichtingen ten behoeve van de in artikel 3.1 van de Wet handhaving consumentenbescherming en artikel 1:25 van de Wet op het financieel toezicht opgedragen taak.     
 2.  De Autoriteit Consument en Markt is bevoegd om aan personen of colleges, werkzaam onder de verantwoordelijkheid van de Minister van Economische Zaken of de Minister van Infrastructuur en Milieu, gegevens en inlichtingen te verstrekken voor zover dat noodzakelijk is voor de goede uitoefening van de aan hen bij wettelijk voorschrift toegedeelde bevoegdheid tot het nemen van besluiten of tot het verrichten van andere handelingen dan besluiten.  
 
 ### §  2  
@@ -130,7 +130,7 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ### Artikel  21  
 
-De [Regeling rechtspositie vaste leden van OPTA 2009](../../../../../ministeriele-regeling/regeling/rechtspositie/vaste/leden/van/opta/2009/BWBR0026207/README.md) wordt ingetrokken. 
+De Regeling rechtspositie vaste leden van OPTA 2009 wordt ingetrokken. 
 
 ### §  3  
 
@@ -138,7 +138,7 @@ De [Regeling rechtspositie vaste leden van OPTA 2009](../../../../../ministeriel
 
 ### Artikel  22  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 2 van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel 2 van de Instellingswet Autoriteit Consument en Markt in werking treedt. 
 
 ### Artikel  23  
 

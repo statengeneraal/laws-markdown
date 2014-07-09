@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 18 juli 1997, nr. 95044394 WJA/W; 
 
-Gelet op de [artikelen 18, eerste lid](../../../../../wet/mededingingswet/BWBR0008691/README.md), [35, eerste lid](../../../../../wet/mededingingswet/BWBR0008691/README.md), en [42, tweede lid, van de Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md); 
+Gelet op de artikelen 18, eerste lid, 35, eerste lid, en 42, tweede lid, van de Mededingingswet; 
 
 De Raad van State gehoord (advies van 6 oktober 1997, nr. W10.97.0485); 
 
@@ -20,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md);   
+a. wet: Mededingingswet;   
 
-b. mededingingsafspraak: een overeenkomst, besluit of onderling afgestemde feitelijke gedraging als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);   
+b. mededingingsafspraak: een overeenkomst, besluit of onderling afgestemde feitelijke gedraging als bedoeld in artikel 6, eerste lid, van de wet;   
 
-c. melding: een melding van een concentratie als bedoeld in [artikel 34 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);   
+c. melding: een melding van een concentratie als bedoeld in artikel 34 van de wet;   
 
-d. aanvraag om vergunning: een aanvraag om een vergunning voor een concentratie als bedoeld in [artikel 41 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);   
+d. aanvraag om vergunning: een aanvraag om een vergunning voor een concentratie als bedoeld in artikel 41 van de wet;   
 
-e. groep: een groep als bedoeld in [artikel 24b van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);   
+e. groep: een groep als bedoeld in artikel 24b van boek 2 van het Burgerlijk Wetboek;   
 
-f. concentratie: een concentratie in de zin van [artikel 27 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);   
+f. concentratie: een concentratie in de zin van artikel 27 van de wet;   
 
 g. door de concentratie te beïnvloeden markten:  
 
@@ -72,9 +72,9 @@ h. de aard van de werkzaamheden die zij verricht;
 
 i. de naam, het adres, het telefoonnummer en de functie van de contactpersoon die haar vertegenwoordigt;   
 
-j. de volgens [artikel 30 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md) te bepalen totale omzet over het voorafgaande kalenderjaar, alsmede de omzet in Nederland in dat jaar, uitgedrukt in euro’s, in voorkomend geval omgerekend vanuit een andere geldeenheid naar de gemiddelde koers in dat jaar van die andere geldeenheid, zoals gepubliceerd door De Nederlandsche Bank N.V. in de Officiële prijscourant Amsterdam Exchanges;      
-2.  Indien een bij de concentratie betrokken onderneming een bank of een financiële instelling is in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten de waarde van de vaste en van de vlottende activa, bedoeld in [artikel 364, tweede en derde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), alsmede de waarde van de materiële vaste activa in Nederland, aan het slot van het voorafgaande boekjaar aangegeven.    
-3.  Indien een bij een concentratie betrokken onderneming een verzekeraar is in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten, de waarden aangegeven van de bruto geboekte premies in het voorafgaande boekjaar.    
+j. de volgens artikel 30 van de wet te bepalen totale omzet over het voorafgaande kalenderjaar, alsmede de omzet in Nederland in dat jaar, uitgedrukt in euro’s, in voorkomend geval omgerekend vanuit een andere geldeenheid naar de gemiddelde koers in dat jaar van die andere geldeenheid, zoals gepubliceerd door De Nederlandsche Bank N.V. in de Officiële prijscourant Amsterdam Exchanges;      
+2.  Indien een bij de concentratie betrokken onderneming een bank of een financiële instelling is in de zin van de Wet op het financieel toezicht, worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten de waarde van de vaste en van de vlottende activa, bedoeld in artikel 364, tweede en derde lid, van boek 2 van het Burgerlijk Wetboek, alsmede de waarde van de materiële vaste activa in Nederland, aan het slot van het voorafgaande boekjaar aangegeven.    
+3.  Indien een bij een concentratie betrokken onderneming een verzekeraar is in de zin van de Wet op het financieel toezicht worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten, de waarden aangegeven van de bruto geboekte premies in het voorafgaande boekjaar.    
 4.  Ten aanzien van elke bij de concentratie betrokken onderneming die deel uit maakt van een groep, worden voorts de volgende gegevens verstrekt:  
 
 a. een aanduiding van de groep;   
@@ -109,7 +109,7 @@ b. de namen, adressen, telefoonnummers, contactpersonen en, in voorkomend geval,
 
 ### Artikel  11a  
 
-Bij een melding wordt aangegeven welke overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md) naar het oordeel van de bij de concentratie betrokken ondernemingen rechtstreeks verbonden zijn aan de concentratie en noodzakelijk zijn voor de verwezenlijking van de concentratie.  
+Bij een melding wordt aangegeven welke overeenkomsten, besluiten en gedragingen als bedoeld in artikel 6 van de wet naar het oordeel van de bij de concentratie betrokken ondernemingen rechtstreeks verbonden zijn aan de concentratie en noodzakelijk zijn voor de verwezenlijking van de concentratie.  
 
 ### Artikel  12  
 

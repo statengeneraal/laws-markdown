@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 28 november 2007, nr. WJZ 7137300;
 
-Gelet op [artikel 2, eerste lid, onderdeel b](../../../../wet/postwet/2009/BWBR0025572/README.md), [15, zevende lid](../../../../wet/postwet/2009/BWBR0025572/README.md), [17, eerste lid](../../../../wet/postwet/2009/BWBR0025572/README.md), [29, vierde lid](../../../../wet/postwet/2009/BWBR0025572/README.md), en [65, tweede lid, van de Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md);
+Gelet op artikel 2, eerste lid, onderdeel b, 15, zevende lid, 17, eerste lid, 29, vierde lid, en 65, tweede lid, van de Postwet 2009;
 
 De Raad van State gehoord (advies van 7 december 2007, nr. W.10.07.450/III);
 
@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *wet:* de [Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+a.  *wet:* de Postwet 2009;  
 
-b.  *vergoeding:* de vergoeding, bedoeld in [artikel 64, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+b.  *vergoeding:* de vergoeding, bedoeld in artikel 64, eerste lid, van de wet;  
 
-c.  *enkelstukstarief:* het overeenkomstig de [artikelen 24](../../../../wet/postwet/2009/BWBR0025572/README.md) en [25 van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) vastgestelde tarief voor het postvervoer ten aanzien van afzonderlijke poststukken van een bepaalde soort binnen een bepaalde gewichtsklasse of voor afzonderlijke postvervoerdiensten;  
+c.  *enkelstukstarief:* het overeenkomstig de artikelen 24 en 25 van de wet vastgestelde tarief voor het postvervoer ten aanzien van afzonderlijke poststukken van een bepaalde soort binnen een bepaalde gewichtsklasse of voor afzonderlijke postvervoerdiensten;  
 
 d.  *relevante omzet:* de in een bepaald kalenderjaar door een postvervoerbedrijf, met het verrichten van postvervoerdiensten binnen Nederland gerealiseerde omzet;  
 
@@ -32,7 +32,7 @@ e.  *postpakket:* een geadresseerd verpakt poststuk, dat zaken, niet zijnde brie
 
 ### Artikel  2  
 
-Als ander geadresseerd stuk als bedoeld in [artikel 2, eerste lid, onderdeel b, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), wordt aangewezen: 
+Als ander geadresseerd stuk als bedoeld in artikel 2, eerste lid, onderdeel b, van de wet, wordt aangewezen: 
 
 a. een postpakket met een gewicht tot 20 kilogram indien het postvervoer binnen Nederland en vanuit Nederland betreft en een postpakket met een gewicht tot 30 kilogram indien het postvervoer vanuit het buitenland betreft;  
 
@@ -46,7 +46,7 @@ c. een dagblad of een tijdschrift.
 
 ### Artikel  3  
 
-1.  Met betrekking tot poststukken als bedoeld in [artikel 16, eerste lid, onderdeel a en b, en het derde lid, onderdeel a en b, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) omvat de universele postdienst het postvervoer tegen enkelstukstarief.   
+1.  Met betrekking tot poststukken als bedoeld in artikel 16, eerste lid, onderdeel a en b, en het derde lid, onderdeel a en b, van de wet omvat de universele postdienst het postvervoer tegen enkelstukstarief.   
 2.  De universele postdienst omvat het teruggeven van onbestelbare poststukken aan de afzender.   
 3.  De universele postdienst omvat ten aanzien van het postvervoer naar een land buiten Nederland, niet de poststukken die vanuit een land buiten Nederland naar Nederland zijn gebracht om deze ten vervoer aan te bieden met als bestemming adressen buiten Nederland.  
 
@@ -75,17 +75,17 @@ d. de voorwaarden met betrekking tot de aansprakelijkheid van de verlener van de
 ### Artikel  6  
 
 1.  Een verlener van de universele postdienst draagt er zorg voor dat de voor het postvervoer binnen de universele postdienst verschuldigde porten op verschillende manieren kunnen worden voldaan, maar in elk geval door middel van postzegels of postzegelafdrukken.   
-2.  Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in [artikel 16, zevende lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) verkrijgbaar gesteld.  
+2.  Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in artikel 16, zevende lid, van de wet verkrijgbaar gesteld.  
 
 ### Artikel  7  
 
 1.  Poststukken die zijn bestemd voor postvervoer binnen de universele postdienst worden in voor het publiek bestemde brievenbussen van de verlener de universele postdienst gedeponeerd of bij daartoe bestemde dienstverleningspunten van de verlener van de universele postdienst afgegeven.   
-2.  Een verlener van de universele postdienst stelt in de algemene voorwaarden de voorwaarden vast waaraan verzenders van poststukken moeten voldoen om ervoor te zorgen dat de aangeboden poststukken worden vervoerd met de standaard overnight service, bedoeld in [artikel 16, zesde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+2.  Een verlener van de universele postdienst stelt in de algemene voorwaarden de voorwaarden vast waaraan verzenders van poststukken moeten voldoen om ervoor te zorgen dat de aangeboden poststukken worden vervoerd met de standaard overnight service, bedoeld in artikel 16, zesde lid, van de wet.   
 3.  Bij ministeriële regeling worden regels gesteld over de voorwaarden, bedoeld in het tweede lid.  
 
 ### Artikel  8  
 
-1.  Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in [artikel 16, achtste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.   
+1.  Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in artikel 16, achtste lid, van de wet, zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de toegankelijkheid van brievenbussen van een verlener van de universele postdienst.  
 
 ### Artikel  9  
@@ -96,7 +96,7 @@ d. de voorwaarden met betrekking tot de aansprakelijkheid van de verlener van de
 
 ### Artikel  10  
 
-1.  Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in [artikel 16, zevende lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+1.  Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in artikel 16, zevende lid, van de wet.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de kwaliteit van de universele postdienst.  
 
 ### §  4  
@@ -105,7 +105,7 @@ d. de voorwaarden met betrekking tot de aansprakelijkheid van de verlener van de
 
 ### Artikel  11  
 
-De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), zijn: 
+De bedragen, bedoeld in artikel 29, vierde lid, van de wet, zijn: 
 
 a. € 50,– bij registratie van een poststuk als aangetekend stuk;  
 
@@ -117,8 +117,8 @@ b. € 5500,– bij registratie van een poststuk als poststuk met aangegeven waa
 
 ### Artikel  12  
 
-1.  De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) in verband met de universele postdienst en stelt Onze Minister in kennis van de raming.   
-2.  De verlener van de universele postdienst is ter dekking van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) in verband met de universele postdienst, jaarlijks een vergoeding verschuldigd ter hoogte van die kosten minus de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.   
+1.  De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de wet in verband met de universele postdienst en stelt Onze Minister in kennis van de raming.   
+2.  De verlener van de universele postdienst is ter dekking van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de wet in verband met de universele postdienst, jaarlijks een vergoeding verschuldigd ter hoogte van die kosten minus de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.   
 3.  De artikelen 13, tweede tot en met het vierde lid, en 15, tweede en derde lid, zijn van overeenkomstige toepassing.  
 
 ### §  6  
@@ -127,8 +127,8 @@ b. € 5500,– bij registratie van een poststuk als poststuk met aangegeven waa
 
 ### Artikel  13  
 
-1.  De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md), met uitzondering van de werkzaamheden, bedoeld in artikel 12, eerste lid, en stelt Onze Minister in kennis van de raming.   
-2.  Ter zake van de kosten, bedoeld in [artikel 64, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) gelden als uitgangspunten dat: 
+1.  De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de wet, met uitzondering van de werkzaamheden, bedoeld in artikel 12, eerste lid, en stelt Onze Minister in kennis van de raming.   
+2.  Ter zake van de kosten, bedoeld in artikel 64, eerste lid, van de wet gelden als uitgangspunten dat: 
 
 a. de kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;  
 
@@ -140,7 +140,7 @@ d. voor zover de kosten bestaan uit afschrijvingskosten, deze kosten worden toeg
 
 e. de kosten op bedrijfseconomische wijze worden berekend door middel van een door de Autoriteit Consument en Markt toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.     
 3.  De Autoriteit Consument en Markt legt het kostencalculatiemodel ter inzage.   
-4.  De Autoriteit Consument en Markt neemt, ter compensatie van een door de Autoriteit Consument en Markt vastgesteld verschil tussen de werkelijke kosten voor een kalenderjaar en de in dat kalenderjaar ontvangen vergoedingen als bedoeld in [artikel 64 van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), een bedrag op in de ramingen van de kosten in de jaren, volgend op een verschil.  
+4.  De Autoriteit Consument en Markt neemt, ter compensatie van een door de Autoriteit Consument en Markt vastgesteld verschil tussen de werkelijke kosten voor een kalenderjaar en de in dat kalenderjaar ontvangen vergoedingen als bedoeld in artikel 64 van de wet, een bedrag op in de ramingen van de kosten in de jaren, volgend op een verschil.  
 
 ### Artikel  14  
 
@@ -149,35 +149,35 @@ e. de kosten op bedrijfseconomische wijze worden berekend door middel van een do
 
 a. de totale kosten van de Autoriteit Consument en Markt in het komende kalender jaar, geraamd met inachtneming van artikel 13, minus 
 
-1°. de kosten van de Autoriteit Consument en Markt voor de registratie, bedoeld in [artikel 42, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), en  
+1°. de kosten van de Autoriteit Consument en Markt voor de registratie, bedoeld in artikel 42, derde lid, van de wet, en  
 
 2°. de kosten van de behandeling van bezwaar- en beroepschriften,   en  
 
-b. de totale omzet van het voorafgaande jaar van de postvervoerbedrijven die ingevolge [artikel 64 van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) een vergoeding verschuldigd zijn.    
+b. de totale omzet van het voorafgaande jaar van de postvervoerbedrijven die ingevolge artikel 64 van de wet een vergoeding verschuldigd zijn.    
 
 ### Artikel  15  
 
 1.  De Autoriteit Consument en Markt berekent de vergoeding voor een kalenderjaar per postvervoerbedrijf door de relevante omzet van het postvervoerbedrijf in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarin de vergoeding wordt vastgesteld te vermenigvuldigen met de op basis van artikel 14 vastgestelde verdeelsleutel.   
 2.  De vergoeding wordt aan de Autoriteit Consument en Markt betaald binnen een termijn van 30 dagen na dagtekening van het verzoek tot betaling.   
 3.  Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door degene die de vergoeding is verschuldigd, bij vooruitbetaling voldaan.   
-4.  De relevante omzet, bedoeld in [artikel 64, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) bedraagt € 2.000.000. 
+4.  De relevante omzet, bedoeld in artikel 64, derde lid, van de wet bedraagt € 2.000.000. 
 
 ### Artikel  16  
 
-1.  De berekening van de omzet van het vervoer van poststukken geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
-2.  Indien een postvervoerbedrijf behoort tot een groep van ondernemingen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden voor de berekening van de omzet van het vervoer van poststukken van die postvervoerbedrijf de omzetten van het vervoer van poststukken van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.   
-3.  Indien een postvervoerbedrijf door de Autoriteit Consument en Markt is geregistreerd op grond van [artikel 41 van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere postvervoerbedrijven waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van dat postvervoerbedrijf of postvervoerbedrijven overeenkomstig bij ministeriële regeling te stellen regels.   
+1.  De berekening van de omzet van het vervoer van poststukken geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek voor de netto-omzet.   
+2.  Indien een postvervoerbedrijf behoort tot een groep van ondernemingen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek worden voor de berekening van de omzet van het vervoer van poststukken van die postvervoerbedrijf de omzetten van het vervoer van poststukken van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.   
+3.  Indien een postvervoerbedrijf door de Autoriteit Consument en Markt is geregistreerd op grond van artikel 41 van de wet in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere postvervoerbedrijven waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van dat postvervoerbedrijf of postvervoerbedrijven overeenkomstig bij ministeriële regeling te stellen regels.   
 4.  Indien een postvervoerbedrijf verlener van de universele postdienst is, wordt uitsluitend de omzet van vervoer van poststukken buiten de universele postdienst als omzet voor de vaststelling van de verdeelsleutel, bedoeld in artikel 14, gebruikt.   
 5.  Voor gevallen waarin berekening van de omzet van het vervoer van poststukken niet mogelijk is omdat de desbetreffende activiteiten zijn verweven met andere activiteiten, kan bij ministeriële regeling worden bepaald dat bij de berekening nader genoemde opbrengsten geheel of gedeeltelijk buiten beschouwing blijven.  
 
 ### Artikel  17  
 
-1.  Een postvervoerbedrijf dat ingevolge [artikel 64 van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) een vergoeding verschuldigd is, verstrekt jaarlijks voor 1 september aan de Autoriteit Consument en Markt: 
+1.  Een postvervoerbedrijf dat ingevolge artikel 64 van de wet een vergoeding verschuldigd is, verstrekt jaarlijks voor 1 september aan de Autoriteit Consument en Markt: 
 
-a. een opgave van de relevante omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dat de opgave voldoet aan artikel 16, of  
+a. een opgave van de relevante omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, dat de opgave voldoet aan artikel 16, of  
 
-b. een opgave van de netto-omzet die op grond van [artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
-2.  Een postvervoerbedrijf kan elk jaar een beroep doen op de omstandigheid dat de relevante omzet, die is gerealiseerd in het voorafgaande kalenderjaar, lager is dan het criterium met betrekking tot de relevante omzet, bedoeld in [artikel 64, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+b. een opgave van de netto-omzet die op grond van artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek.     
+2.  Een postvervoerbedrijf kan elk jaar een beroep doen op de omstandigheid dat de relevante omzet, die is gerealiseerd in het voorafgaande kalenderjaar, lager is dan het criterium met betrekking tot de relevante omzet, bedoeld in artikel 64, derde lid, van de wet.   
 3.  In elk jaar dat een postvervoerbedrijf een beroep doet op de omstandigheid, bedoeld in het tweede lid, doet het postvervoerbedrijf voor 1 september aan de Autoriteit Consument en Markt een onderbouwde opgave over zijn omzet op grond waarvan naar het oordeel van de Autoriteit Consument en Markt aannemelijk is dat de omzet minder bedraagt dan het in het tweede lid bedoelde criterium.   
 4.  Indien het postvervoerbedrijf aan de in het eerste of derde lid bedoelde verplichting niet tijdig heeft voldaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan en dit verzuim niet heeft hersteld na daartoe door de Autoriteit Consument en Markt in de gelegenheid te zijn gesteld, kan de Autoriteit Consument en Markt een schatting doen van zijn omzet en op basis daarvan de vergoeding voor het postvervoerbedrijf vaststellen.   
 5.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de opgave van de relevante omzet door het postvervoerbedrijf en over de verklaring van de accountant.  
@@ -188,15 +188,15 @@ b. een opgave van de netto-omzet die op grond van [artikel 377, derde lid, onder
 
 ### Artikel  18  
 
-1.  In de mededeling, bedoeld in [artikel 15, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), wordt opgenomen dat belangstellende postvervoerbedrijven een aanvraag om te worden aangewezen als verlener van de universele postdienst binnen drie maanden na de datum van de mededeling moeten hebben ingediend.   
+1.  In de mededeling, bedoeld in artikel 15, derde lid, van de wet, wordt opgenomen dat belangstellende postvervoerbedrijven een aanvraag om te worden aangewezen als verlener van de universele postdienst binnen drie maanden na de datum van de mededeling moeten hebben ingediend.   
 2.  Bij de aanvraag overlegt een postvervoerbedrijf: 
 
-a. een plan voor de uitvoering van de universele postdienst, voor zover die blijkens de mededeling, bedoeld in [artikel 15, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), wordt ingetrokken;  
+a. een plan voor de uitvoering van de universele postdienst, voor zover die blijkens de mededeling, bedoeld in artikel 15, derde lid, van de wet, wordt ingetrokken;  
 
 b. een bij de beoogde uitvoering behorend financieel plan, waaruit blijkt hoe de kosten worden gedekt en of er in de eerste vijf jaar van de aanwijzing sprake is van nettokosten.     
 3.  Onze Minister neemt bij zijn besluit tot aanwijzing in elk geval in aanmerking de geboden kwaliteit en duurzaamheid van de dienstverlening en aannemelijkheid van de verwachte opbrengsten of kosten ervan.   
-4.  In de mededeling, bedoeld in [artikel 15, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), worden zo nodig over te leggen onderdelen voor de gegevens, genoemd in het tweede lid, opgenomen.   
-5.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de aanwijzing van een postvervoerbedrijf dat is belast met de universele postdienst of een gedeelte hiervan.   
+4.  In de mededeling, bedoeld in artikel 15, derde lid, van de wet, worden zo nodig over te leggen onderdelen voor de gegevens, genoemd in het tweede lid, opgenomen.   
+5.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de aanwijzing van een postvervoerbedrijf dat is belast met de universele postdienst of een gedeelte hiervan.   
 6.  Van het besluit tot aanwijzing en de voorwaarden die daarbij gelden wordt mededeling gedaan in de Staatscourant.  
 
 ### §  8  
@@ -205,15 +205,15 @@ b. een bij de beoogde uitvoering behorend financieel plan, waaruit blijkt hoe de
 
 ### Artikel  19  
 
-De vergoeding, bedoeld in artikel 15, eerste lid, voor het kalenderjaar waarin de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md). 
+De vergoeding, bedoeld in artikel 15, eerste lid, voor het kalenderjaar waarin de wet in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in artikel 64, derde lid, van de wet. 
 
 ### Artikel  20  
 
-1.  In het kalenderjaar van de inwerkingtreding van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md): 
+1.  In het kalenderjaar van de inwerkingtreding van de wet: 
 
-a. worden de ramingen, bedoeld in artikel 12, eerste lid, en 13, eerste lid, in afwijking van artikel 13, tweede lid, binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;  
+a. worden de ramingen, bedoeld in artikel 12, eerste lid, en 13, eerste lid, in afwijking van artikel 13, tweede lid, binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de wet in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;  
 
-b. wordt de verdeelsleutel, bedoeld in artikel 14, eerste lid, in afwijking van artikel 14, tweede lid, onderdeel a, voor het eerste kalenderjaar waarin de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.     
+b. wordt de verdeelsleutel, bedoeld in artikel 14, eerste lid, in afwijking van artikel 14, tweede lid, onderdeel a, voor het eerste kalenderjaar waarin de wet van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.     
 2.  Postvervoerbedrijven delen binnen zes weken na de datum van inwerkingtreding van dit besluit aan de Autoriteit Consument en Markt de relevante omzet mee, die gerealiseerd is in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar van inwerkingtreding.  
 
 ### Artikel  21  
@@ -223,7 +223,7 @@ b. wordt de verdeelsleutel, bedoeld in artikel 14, eerste lid, in afwijking van 
 
 ### Artikel  22  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop de Postwet 2009 in werking treedt. 
 
 ### Artikel  23  
 

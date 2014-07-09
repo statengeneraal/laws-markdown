@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 18 november 1998, nr. HDTP/98/3612/CG, Hoofddirectie Telecommunicatie en Post;
 
-Gelet op [hoofdstuk 3](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en de [artikelen 16.1, eerste, vierde en vijfde lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [20.17 van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), alsmede op [artikel 13a, vierde lid, van de Postwet](../../../../../wet/postwet/BWBR0004423/README.md);
+Gelet op hoofdstuk 3 en de artikelen 16.1, eerste, vierde en vijfde lid, en 20.17 van de Telecommunicatiewet, alsmede op artikel 13a, vierde lid, van de Postwet;
 
 De Raad van State gehoord (advies van 29 januari 1999, no.W09.98.0533);
 
@@ -17,9 +17,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a. wet: Telecommunicatiewet;  
 
-b. vergoeding: vergoeding, bedoeld in [artikel 16.1 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+b. vergoeding: vergoeding, bedoeld in artikel 16.1 van de wet;  
 
 c.aanbieder: onderneming die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt;
 
@@ -27,14 +27,14 @@ d.omzet: omzet die een aanbieder realiseert uit het in Nederland leveren van ope
 
 ### Artikel  2  
 
-1.  De vergoeding dient ter dekking van de kosten van de werkzaamheden of diensten die ingevolge het bepaalde bij of krachtens de [wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) door Onze Minister of de Autoriteit Consument en Markt worden verricht.   
+1.  De vergoeding dient ter dekking van de kosten van de werkzaamheden of diensten die ingevolge het bepaalde bij of krachtens de wet door Onze Minister of de Autoriteit Consument en Markt worden verricht.   
 2.  De vergoeding bestaat uit: 
 
-a. een bedrag dat verband houdt met de kosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister of de Autoriteit Consument en Markt bij of krachtens de [wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) opgedragen uitvoeringstaak; of  
+a. een bedrag dat verband houdt met de kosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister of de Autoriteit Consument en Markt bij of krachtens de wet opgedragen uitvoeringstaak; of  
 
-b. een bedrag dat verband houdt met de kosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister of de Autoriteit Consument en Markt bij of krachtens de [wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) opgedragen toezichthoudende taak; of  
+b. een bedrag dat verband houdt met de kosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister of de Autoriteit Consument en Markt bij of krachtens de wet opgedragen toezichthoudende taak; of  
 
-c. een jaarlijkse bijdrage als bedoeld in [artikel 16.1, vierde of vijfde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).      
+c. een jaarlijkse bijdrage als bedoeld in artikel 16.1, vierde of vijfde lid, van de wet.      
 3.  De vergoeding wordt per kalenderjaar vastgesteld.   
 4.  Het bedrag, bedoeld in het tweede lid, onder a, wordt eenmaal in rekening gebracht.   
 5.  Het bedrag en de jaarlijkse bijdrage, bedoeld in het tweede lid, onder b en c, zijn per kalenderjaar verschuldigd en worden eens per kalenderjaar in rekening gebracht.  
@@ -57,7 +57,7 @@ d. deze kosten op bedrijfseconomische wijze worden berekend door middel van een 
 
 1.  Categorieën als bedoeld in artikel 3, eerste lid, onder b en c, zijn, voorzover het betreft werkzaamheden of diensten van Onze Minister, werkzaamheden of diensten met betrekking tot: 
 
-a. het gebruik van frequentieruimte, bedoeld in [§ 3.3](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [§ 3.5 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voor: 
+a. het gebruik van frequentieruimte, bedoeld in § 3.3 en § 3.5 van de wet, voor: 
 
 1°. vaste verbindingen,  
 
@@ -71,11 +71,11 @@ a. het gebruik van frequentieruimte, bedoeld in [§ 3.3](../../../../../wet/tel
 
 6°. omroep.    
 
-b. randapparaten en radiozendapparaten en overige apparaten als bedoeld in [hoofdstuk 10 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md),  
+b. randapparaten en radiozendapparaten en overige apparaten als bedoeld in hoofdstuk 10 van de wet,  
 
-c. de aanwijzing van certificatie-organisaties als bedoeld in [artikel 18.16, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md),  
+c. de aanwijzing van certificatie-organisaties als bedoeld in artikel 18.16, van de wet,  
 
-d. de aanwijzing van instellingen als bedoeld in [artikel 18.17, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).     
+d. de aanwijzing van instellingen als bedoeld in artikel 18.17, tweede lid, van de wet.     
 2. Categorieën als bedoeld in artikel 3, eerste lid, onder b en c, zijn, voor zover het betreft werkzaamheden of diensten van de Autoriteit Consument en Markt, werkzaamheden of diensten met betrekking tot:
 
 a.nummers;
@@ -106,16 +106,16 @@ waarbijA voorstelt: de omzet van de aanbieder wiens omzet meer bedraagt dan het 
 
 ### Artikel 5b 
 
-1. De berekening van de omzet geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet. 
-2. Indien een aanbieder behoort tot een groep van ondernemingen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden voor de berekening van de omzet van die aanbieder de omzetten van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten. 
-3. Indien een aanbieder door de Autoriteit Consument en Markt is geregistreerd op grond van [artikel 2.1, vierde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere aanbieders waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van die aanbieder of aanbieders overeenkomstig bij ministeriële regeling te stellen regels. 
+1. De berekening van de omzet geschiedt op de voet van het bepaalde in artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek voor de netto-omzet. 
+2. Indien een aanbieder behoort tot een groep van ondernemingen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek worden voor de berekening van de omzet van die aanbieder de omzetten van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten. 
+3. Indien een aanbieder door de Autoriteit Consument en Markt is geregistreerd op grond van artikel 2.1, vierde lid, van de wet in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere aanbieders waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van die aanbieder of aanbieders overeenkomstig bij ministeriële regeling te stellen regels. 
 4. Voor gevallen waarin berekening van de omzet niet mogelijk is omdat de desbetreffende activiteiten zijn verweven met andere activiteiten, kan bij ministeriële regeling worden bepaald dat bij de berekening nader vermelde opbrengsten geheel of gedeeltelijk buiten beschouwing kunnen blijven.
 
 ### Artikel 5c 
 
 1. Bij de toepassing van de verdeelsleutels, bedoeld in artikel 5a, eerste lid, wordt uitgegaan van de omzet die is gerealiseerd in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarvoor de vergoeding wordt vastgesteld. 
-2. Een aanbieder als bedoeld in artikel 5a, eerste lid, onder a, verstrekt jaarlijks vóór 1 september de Autoriteit Consument en Markt een opgave van de omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dat de opgave voldoet aan het eerste lid en aan de artikelen 5a en 5b. 
-3. De aanbieder kan voor de in het tweede lid bedoelde opgave volstaan met een opgave van de netto-omzet die op grond van [artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
+2. Een aanbieder als bedoeld in artikel 5a, eerste lid, onder a, verstrekt jaarlijks vóór 1 september de Autoriteit Consument en Markt een opgave van de omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, dat de opgave voldoet aan het eerste lid en aan de artikelen 5a en 5b. 
+3. De aanbieder kan voor de in het tweede lid bedoelde opgave volstaan met een opgave van de netto-omzet die op grond van artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek. 
 4. Op verzoek van de Autoriteit Consument en Markt verstrekt een aanbieder als bedoeld in artikel 5a, eerste lid, onder b, een opgave van de omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring als bedoeld in het tweede lid. Het derde lid is van overeenkomstige toepassing. 
 5. Indien de aanbieder aan de in het tweede of vierde lid bedoelde verplichting niet tijdig heeft voldaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan en dit verzuim niet heeft hersteld na daartoe door de Autoriteit Consument en Markt in de gelegenheid te zijn gesteld, kan de Autoriteit Consument en Markt een schatting doen van zijn omzet en op basis daarvan de vergoeding voor de aanbieder vaststellen. 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de opgave van de omzet door de aanbieder en over de verklaring van de accountant.
@@ -130,7 +130,7 @@ Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door
 
 ### Artikel  10  
 
-1.  Degene die de Autoriteit Consument en Markt verzoekt een geschil als bedoeld in [artikel 12.9 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) te beslechten, is ter bestrijding van de kosten aan de Autoriteit Consument en Markt een vergoeding verschuldigd van € 133,00.   
+1.  Degene die de Autoriteit Consument en Markt verzoekt een geschil als bedoeld in artikel 12.9 van de wet te beslechten, is ter bestrijding van de kosten aan de Autoriteit Consument en Markt een vergoeding verschuldigd van € 133,00.   
 2.  De hoogte van de vergoeding, bedoeld in het eerste lid, kan bij ministeriële regeling worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.   
 3.  De Autoriteit Consument en Markt wijst de aanvrager, bedoeld in het eerste lid, op het verschuldigd zijn van het bedrag en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dagtekening van haar mededeling moet zijn betaald. Indien het bedrag niet binnen deze termijn is betaald, wordt de aanvraag niet in behandeling genomen, tenzij redelijkerwijs niet kan worden geoordeeld dat de aanvrager in verzuim is geweest.   
 4.  De artikelen 2 tot en met 7 zijn niet van toepassing op de in dit artikel bedoelde vergoeding.  
@@ -165,8 +165,8 @@ Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 199
 
 ### Artikel  16  
 
-1. Indien de verplichtingen van een aanbieder die verbonden zijn aan een aanwijzing op grond van de [artikelen 6.4](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [7.2 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) zoals die luidden voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](../../../../../wet/wet/implementatie/europees/regelgevingskader/voor/de/elektronische/etc/BWBR0016635/README.md), gedurende het kalenderjaar maar vóór 15 november komen te vervallen als gevolg van de inwerkingtreding van besluiten als bedoeld in [artikel 19.4 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en indien de aanbieder voor dat jaar een vergoeding had betaald voor het toezicht op deze verplichtingen, vindt naar rato compensatie plaats voor de periode vanaf het tijdstip dat de aan de aanwijzing verbonden verplichtingen vervallen tot en met 31 december van het desbetreffende jaar. 
-2. Indien de omstandigheden die zijn bedoeld in het eerste lid, zich voordoen en indien de Autoriteit Consument en Markt op grond van [artikel 6a.2, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) een besluit neemt om verplichtingen op te leggen aan één of meer aanbieders met een aanmerkelijke marktmacht onderscheidenlijk om één of meer aanbieders aan te wijzen als aanbieder met een aanmerkelijke marktmacht, wordt bij ministeriële regeling een vergoeding vastgesteld voor de werkzaamheden of diensten die de Autoriteit Consument en Markt verricht in het kader van het toezicht ten aanzien van deze aanbieder of aanbieders, die slechts betrekking heeft op de periode vanaf het tijdstip van inwerkingtreding van de regeling tot en met 31 december van het desbetreffende jaar. 
+1. Indien de verplichtingen van een aanbieder die verbonden zijn aan een aanwijzing op grond van de artikelen 6.4 of 7.2 van de wet zoals die luidden voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002, gedurende het kalenderjaar maar vóór 15 november komen te vervallen als gevolg van de inwerkingtreding van besluiten als bedoeld in artikel 19.4 van de wet, en indien de aanbieder voor dat jaar een vergoeding had betaald voor het toezicht op deze verplichtingen, vindt naar rato compensatie plaats voor de periode vanaf het tijdstip dat de aan de aanwijzing verbonden verplichtingen vervallen tot en met 31 december van het desbetreffende jaar. 
+2. Indien de omstandigheden die zijn bedoeld in het eerste lid, zich voordoen en indien de Autoriteit Consument en Markt op grond van artikel 6a.2, van de wet een besluit neemt om verplichtingen op te leggen aan één of meer aanbieders met een aanmerkelijke marktmacht onderscheidenlijk om één of meer aanbieders aan te wijzen als aanbieder met een aanmerkelijke marktmacht, wordt bij ministeriële regeling een vergoeding vastgesteld voor de werkzaamheden of diensten die de Autoriteit Consument en Markt verricht in het kader van het toezicht ten aanzien van deze aanbieder of aanbieders, die slechts betrekking heeft op de periode vanaf het tijdstip van inwerkingtreding van de regeling tot en met 31 december van het desbetreffende jaar. 
 3. De Autoriteit Consument en Markt stelt ten aanzien van de in het eerste lid bedoelde aanbieder het bedrag van de compensatie vast. Indien de aanbieder op grond van het tweede lid een vergoeding is verschuldigd, kan de Autoriteit Consument en Markt het compensatiebedrag verrekenen met deze vergoeding. 
 
 ### Artikel  17  

@@ -28,7 +28,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *aannemer:* een ieder die de uitvoering van werken op de markt aanbiedt;  
 
-*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md); 
+*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt; 
 
 *bijzonder recht:* een recht dat bij wettelijk voorschrift of bij besluit van een bestuursorgaan aan een beperkt aantal ondernemingen wordt verleend en waarbij binnen een bepaald geografisch gebied: 
 
@@ -349,7 +349,7 @@ De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-se
 
 1.  Een ondernemer kan jegens een aanbestedende dienst of een speciale-sectorbedrijf, die uitsluitingsgronden stelt die betrekking hebben op onherroepelijke veroordelingen, door middel van een gedragsverklaring aanbesteden aantonen dat die gronden op hem niet van toepassing zijn.   
 2.  De in het eerste lid bedoelde gedragsverklaring aanbesteden is op het tijdstip van indienen van het verzoek tot deelneming of de inschrijving niet ouder dan twee jaar.   
-3.  In een geval als bedoeld in het eerste lid kan niet om overlegging van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) worden gevraagd.   
+3.  In een geval als bedoeld in het eerste lid kan niet om overlegging van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens worden gevraagd.   
 4.  De aanbestedende dienst of het speciale-sectorbedrijf betrekt bij de toepassing van het eerste lid uitsluitend veroordelingen die in de vier jaar voorafgaand aan het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving onherroepelijk zijn geworden.  
 
 ### Artikel  1.21  
@@ -561,9 +561,9 @@ c. wordt, indien de aanbestedende dienst in de voorschriften van de prijsvraag n
 
 a. die door aanbestedende diensten op het gebied van defensie worden geplaatst en die vallen onder de reikwijdte van artikel 346 van het Verdrag betreffende de werking van de Europese Unie;  
 
-b. waarop de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) van toepassing is;  
+b. waarop de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is;  
 
-c. waarop de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) niet van toepassing is ingevolge de [artikelen 2.3](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), [2.16](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) en [2.17 van die wet](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md);  
+c. waarop de Aanbestedingswet op defensie- en veiligheidsgebied niet van toepassing is ingevolge de artikelen 2.3, 2.16 en 2.17 van die wet;  
 
 d. voor civiele aankopen die worden geplaatst in een derde land, indien strijdkrachten zijn ingezet buiten het grondgebied van de Europese Unie en de operationele omstandigheden vereisen dat de overheidsopdracht wordt gegund aan ondernemers die in het operatiegebied gevestigd zijn; 
 
@@ -582,11 +582,11 @@ h. waarvoor andere procedurevoorschriften gelden en die worden geplaatst als gev
 i. waarvoor andere procedurevoorschriften gelden en die worden geplaatst volgens de specifieke procedure van een internationale organisatie.     
 2.  Voor de toepassing van het eerste lid, onder d, wordt onder civiele aankopen verstaan, opdrachten die: 
 
-a. niet onder het toepassingsgebied van [artikel 2.1 van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) vallen,  
+a. niet onder het toepassingsgebied van artikel 2.1 van de Aanbestedingswet op defensie- en veiligheidsgebied vallen,  
 
 b. betrekking hebben op niet-militaire producten, werken of diensten voor logistieke doeleinden en  
 
-c. worden aanbesteed overeenkomstig een procedure als bedoeld in de [hoofdstukken 2.3 tot en met 3.2 van de Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) zonder dat daartoe een verplichting bestaat.    
+c. worden aanbesteed overeenkomstig een procedure als bedoeld in de hoofdstukken 2.3 tot en met 3.2 van de Aanbestedingswet op defensie- en veiligheidsgebied zonder dat daartoe een verplichting bestaat.    
 3.  Een aanbestedende dienst brengt een internationale overeenkomst als bedoeld in het eerste lid, onderdeel g, ter kennis van de Europese Commissie.  
 
 ### Artikel  2.24  
@@ -1312,7 +1312,7 @@ b. omkoping in de zin van artikel 3 van het besluit van de Raad van 26 mei 1997
 c. fraude in de zin van artikel 1 van de overeenkomst aangaande de bescherming van de financiële belangen van de Gemeenschap (PbEG 1995, C 316);  
 
 d. witwassen van geld in de zin van artikel 1 van richtlijn nr. 91/308/EEG van de Raad van 10 juni 1991 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld (PbEG L 1991, L 166) zoals gewijzigd bij richtlijn nr. 2001/97/EG van het Europees Parlement en de Raad (PbEG L 2001, 344).     
-3.  Als veroordelingen als bedoeld in het tweede lid worden in ieder geval aangemerkt veroordelingen op grond van [artikel 140](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [177](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [177a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [178](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [225](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [226](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [227](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [227a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [227b](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [323a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [328ter, tweede lid](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [420bis](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [420ter](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [420quater van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+3.  Als veroordelingen als bedoeld in het tweede lid worden in ieder geval aangemerkt veroordelingen op grond van artikel 140, 177, 177a, 178, 225, 226, 227, 227a, 227b of 323a, 328ter, tweede lid, 420bis, 420ter of 420quater van het Wetboek van Strafrecht.   
 4.  De aanbestedende dienst betrekt bij de toepassing van het eerste lid uitsluitend rechterlijke uitspraken die in de vier jaar voorafgaand aan het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving onherroepelijk zijn geworden.  
 
 ### Artikel  2.87  
@@ -1760,7 +1760,7 @@ c. het gaat om opdrachten op grond van een raamovereenkomst of specifieke opdrac
 
 ### Artikel  2.129  
 
-De mededeling van de gunningsbeslissing van een aanbestedende dienst houdt geen aanvaarding in als bedoeld in [artikel 217, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van een aanbod van een ondernemer. 
+De mededeling van de gunningsbeslissing van een aanbestedende dienst houdt geen aanvaarding in als bedoeld in artikel 217, eerste lid, van Boek 6 van het Burgerlijk Wetboek van een aanbod van een ondernemer. 
 
 ### Artikel  2.130  
 
@@ -2323,7 +2323,7 @@ a. betreffende de verwerving of huur, ongeacht de financiële modaliteiten ervan
 
 b. van arbitrage en bemiddeling;  
 
-c. op financieel gebied betreffende de uitgifte, aankoop, verkoop of overdracht van effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of andere financiële instrumenten en door de centrale banken verleende diensten;  
+c. op financieel gebied betreffende de uitgifte, aankoop, verkoop of overdracht van effecten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of andere financiële instrumenten en door de centrale banken verleende diensten;  
 
 d. inzake arbeidsovereenkomsten;  
 
@@ -2345,9 +2345,9 @@ Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op het 
 
 Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten waarop: 
 
-a. de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) van toepassing is;  
+a. de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is;  
 
-b. de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) niet van toepassing is ingevolge de [artikelen 2.3](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), [2.16](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md) en [2.17 van die wet](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md).   
+b. de Aanbestedingswet op defensie- en veiligheidsgebied niet van toepassing is ingevolge de artikelen 2.3, 2.16 en 2.17 van die wet.   
 
 ### Artikel  3.31  
 
@@ -2928,22 +2928,22 @@ Met betrekking tot speciale-sectoropdrachten voor diensten als bedoeld in bijlag
 
 ### Artikel  4.1  
 
-Een gedragsverklaring aanbesteden is een verklaring van Onze Minister van Veiligheid en Justitie dat uit een onderzoek naar de in de artikel 4.7 bedoelde gegevens is gebleken dat tegen de betrokken natuurlijke persoon of rechtspersoon geen bezwaren bestaan in verband met inschrijving op overheidsopdrachten, speciale-sectoropdrachten, concessieovereenkomsten voor openbare werken, prijsvragen of opdrachten als bedoeld in de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md). 
+Een gedragsverklaring aanbesteden is een verklaring van Onze Minister van Veiligheid en Justitie dat uit een onderzoek naar de in de artikel 4.7 bedoelde gegevens is gebleken dat tegen de betrokken natuurlijke persoon of rechtspersoon geen bezwaren bestaan in verband met inschrijving op overheidsopdrachten, speciale-sectoropdrachten, concessieovereenkomsten voor openbare werken, prijsvragen of opdrachten als bedoeld in de Aanbestedingswet op defensie- en veiligheidsgebied. 
 
 ### Artikel  4.2  
 
-Voor de toepassing van dit hoofdstuk wordt onder rechtspersoon verstaan een rechtspersoon als bedoeld in [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) alsmede daarmee gelijkgestelde organisaties als bedoeld in [artikel 51, derde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
+Voor de toepassing van dit hoofdstuk wordt onder rechtspersoon verstaan een rechtspersoon als bedoeld in boek 2 van het Burgerlijk Wetboek alsmede daarmee gelijkgestelde organisaties als bedoeld in artikel 51, derde lid, van het Wetboek van Strafrecht. 
 
 ### Artikel  4.3  
 
-De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aangemerkt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aangemerkt als een beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht. 
 
 ### Artikel  4.4  
 
 1.  Een aanvraag om de afgifte van een gedragsverklaring aanbesteden wordt ingediend bij Onze Minister van Veiligheid en Justitie door degene omtrent wiens gedrag een verklaring wordt gevraagd of door een vertegenwoordiger van de rechtspersoon omtrent wiens gedrag een verklaring wordt gevraagd.   
 2.  De aanvrager verstrekt bij zijn aanvraag: 
 
-a. de in [artikel 32, eerste en tweede lid,van de Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) bedoelde gegevens en  
+a. de in artikel 32, eerste en tweede lid,van de Wet justitiële en strafvorderlijke gegevens bedoelde gegevens en  
 
 b. de naam, voornamen en adresgegevens van voormalige bestuurders, vennoten, maten of beheerders van de rechtspersoon in de 12 maanden voorafgaand aan de aanvraag die nog een beleidsbepalende functie binnen de rechtspersoon bekleden.     
 3.  Onze Minister van Veiligheid en Justitie onderzoekt de volledigheid van de bij de aanvraag verstrekte gegevens en verschaft zich de nodige zekerheid over de identiteit van de aanvrager.   
@@ -2960,7 +2960,7 @@ b. indien de aanvraag een rechtspersoon betreft: binnen acht weken na ontvangst 
 
 ### Artikel  4.6  
 
-[Artikel 39 van de Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) is van overeenkomstige toepassing. 
+Artikel 39 van de Wet justitiële en strafvorderlijke gegevens is van overeenkomstige toepassing. 
 
 ### Afdeling  4.1.2  
 
@@ -2970,14 +2970,14 @@ b. indien de aanvraag een rechtspersoon betreft: binnen acht weken na ontvangst 
 
 1.  Onze Minister van Veiligheid en Justitie betrekt in zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden uitsluitend de gegevens met betrekking tot: 
 
-a. onherroepelijke veroordelingen als bedoeld in artikel 2.86, derde lid, en onherroepelijke veroordelingen wegens overtreding van de [artikelen 134a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [140a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [285, derde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en wegens overtreding van de in [artikel 83 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) bedoelde misdrijven indien aan het bepaalde in dat artikel is voldaan;  
+a. onherroepelijke veroordelingen als bedoeld in artikel 2.86, derde lid, en onherroepelijke veroordelingen wegens overtreding van de artikelen 134a, 140a en 285, derde lid, van het Wetboek van Strafrecht en wegens overtreding van de in artikel 83 van het Wetboek van Strafrecht bedoelde misdrijven indien aan het bepaalde in dat artikel is voldaan;  
 
-b. onherroepelijke veroordelingen wegens misdrijven die zijn opgenomen in het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) voor zover aangewezen bij algemene maatregel van bestuur, onherroepelijke veroordelingen wegens misdrijven die zijn opgenomen in de [Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en bij algemene maatregel van bestuur aangewezen andere misdrijven;  
+b. onherroepelijke veroordelingen wegens misdrijven die zijn opgenomen in het Wetboek van Strafrecht voor zover aangewezen bij algemene maatregel van bestuur, onherroepelijke veroordelingen wegens misdrijven die zijn opgenomen in de Wet op de economische delicten en bij algemene maatregel van bestuur aangewezen andere misdrijven;  
 
-c. onherroepelijke beschikkingen op grond van [artikel 56 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) waarbij door de Autoriteit Consument en Markt geen boetevermindering op grond van clementie is verleend;  
+c. onherroepelijke beschikkingen op grond van artikel 56 van de Mededingingswet waarbij door de Autoriteit Consument en Markt geen boetevermindering op grond van clementie is verleend;  
 
 d. onherroepelijke beschikkingen van de Europese Commissie wegens overtreding van artikel 101 of artikel 102 van het Verdrag betreffende de werking van de Europese Unie waarbij door de Europese Commissie geen boete-immuniteit of boetevermindering op grond van clementie is verleend.     
-2.  Indien de aanvraag betrekking heeft op een rechtspersoon is [artikel 35, tweede lid, van de Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) van overeenkomstige toepassing.   
+2.  Indien de aanvraag betrekking heeft op een rechtspersoon is artikel 35, tweede lid, van de Wet justitiële en strafvorderlijke gegevens van overeenkomstige toepassing.   
 3.  In het in het tweede lid bedoelde geval betrekt Onze Minister van Veiligheid en Justitie bij zijn beoordeling tevens de in het eerste lid, onderdelen a en b, bedoelde gegevens van de in artikel 4,4 tweede lid, onderdeel b, bedoelde personen.  
 
 ### Artikel  4.8  
@@ -2986,8 +2986,8 @@ Veroordelingen en beschikkingen als bedoeld in artikel 4.7, eerste lid, worden i
 
 ### Artikel  4.9  
 
-1.  Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een natuurlijk persoon de met betrekking tot de aanvrager vermelde justitiële gegevens in de justitiële documentatie, bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
-2.  Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een rechtspersoon de gegevens in de justitiële documentatie, bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), op naam van de rechtspersoon en omtrent de in artikel 4.7, tweede en derde lid, bedoelde personen.  
+1.  Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een natuurlijk persoon de met betrekking tot de aanvrager vermelde justitiële gegevens in de justitiële documentatie, bedoeld in de Wet justitiële en strafvorderlijke gegevens.   
+2.  Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een rechtspersoon de gegevens in de justitiële documentatie, bedoeld in de Wet justitiële en strafvorderlijke gegevens, op naam van de rechtspersoon en omtrent de in artikel 4.7, tweede en derde lid, bedoelde personen.  
 
 ### Afdeling  4.1.3  
 
@@ -3014,7 +3014,7 @@ c. een beschikking als bedoeld in artikel 4.7, eerste lid, onderdeel c, waarin d
 
 ### Artikel  4.11  
 
-1.  Alvorens te beslissen tot weigering van de afgifte van de gedragsverklaring aanbesteden, stelt Onze Minister van Veiligheid en Justitie degene van wie een of meer gegevens als bedoeld in artikel 4.7, eerste lid, onderdelen a en b, ten grondslag hebben gelegen aan de beslissing, in de gelegenheid om binnen twee weken een verzoek als bedoeld in [artikel 22 van de Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) dan wel [artikel 36 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) te doen.   
+1.  Alvorens te beslissen tot weigering van de afgifte van de gedragsverklaring aanbesteden, stelt Onze Minister van Veiligheid en Justitie degene van wie een of meer gegevens als bedoeld in artikel 4.7, eerste lid, onderdelen a en b, ten grondslag hebben gelegen aan de beslissing, in de gelegenheid om binnen twee weken een verzoek als bedoeld in artikel 22 van de Wet justitiële en strafvorderlijke gegevens dan wel artikel 36 van de Wet bescherming persoonsgegevens te doen.   
 2.  De in artikel 4.5 gestelde termijn voor de beslissing op de aanvraag wordt opgeschort met ingang van de dag waarop Onze Minister van Veiligheid en Justitie de gelegenheid heeft geboden tot het doen van een verzoek als bedoeld in het eerste lid tot de dag waarop een schriftelijke mededeling is gedaan dat geen verzoek zal worden ingediend of twee weken zijn verstreken, dan wel tot de dag waarop de procedure naar aanleiding van een verzoek is beëindigd.   
 3.  De aanvrager van de gedragsverklaring aanbesteden wordt in kennis gesteld van de opschorting.  
 
@@ -3079,7 +3079,7 @@ j. de aankondiging, bedoeld in artikel 4.16, eerste lid, onder b,   overeenkomst
 3.  Op verzoek van de aanbestedende dienst, het speciale-sectorbedrijf of de concessiehouder wijst Onze Minister de Europese Commissie op gegevens die niet voor publicatie bestemd zijn. Deze gegevens worden niet door middel van het elektronische systeem van aanbesteden bekendgemaakt.   
 4.  Onze Minister draagt er zorg voor dat door middel van het elektronische systeem van aanbesteden de mededelingen, genoemd in artikel 4.13, onder a, langs elektronische weg ter publicatie worden gezonden aan de Europese Commissie overeenkomstig het model en op de wijze, bedoeld in bijlage XX van richtlijn nr. 2004/17/EG en in het derde punt van bijlage VIII van richtlijn nr. 2004/18/EG.   
 5.  Een wijziging van een formulier, bedoeld in artikel 70 van richtlijn nr. 2004/17/EG en artikel 79 van richtlijn nr. 2004/18/EG gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.   
-6.  Onze Minister is verantwoordelijke als bedoeld in [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+6.  Onze Minister is verantwoordelijke als bedoeld in artikel 1, onder d, van de Wet bescherming persoonsgegevens.   
 7.  Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het vijfde lid.  
 
 ### Hoofdstuk  4.3  
@@ -3176,7 +3176,7 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 
 ### Artikel  4.23  
 
-1.  De Autoriteit Consument en Markt kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De Autoriteit Consument en Markt kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders als bedoeld in artikel 5:48 van de Algemene wet bestuursrecht.   
 2.  Alvorens een boete op te leggen kan de Autoriteit Consument en Markt de overeenkomst onderzoeken teneinde de voor het vaststellen van de boete in aanmerking komende financiële gegevens te bepalen.   
 3.  De aanbestedende dienst of het speciale-sectorbedrijf is verplicht mee te werken aan de onderzoeken, bedoeld in het tweede lid.  
 
@@ -3192,9 +3192,9 @@ Indien de overeenkomst, bedoeld in artikel 4.21, is gesloten of mede is gesloten
 
 Indien terzake van een aanbestedingsgeschil arbitrage is overeengekomen: 
 
-a. voldoet de voorzitter van het scheidsgerecht aan de eisen, genoemd in [artikelen 1c](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [1d van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md);  
+a. voldoet de voorzitter van het scheidsgerecht aan de eisen, genoemd in artikelen 1c en 1d van de Wet rechtspositie rechterlijke ambtenaren;  
 
-b. kan tegen een arbitraal vonnis een vordering tot vernietiging als bedoeld in [artikel 1.064 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) worden ingesteld.   
+b. kan tegen een arbitraal vonnis een vordering tot vernietiging als bedoeld in artikel 1.064 van het Wetboek van Burgerlijke Rechtsvordering worden ingesteld.   
 
 ### Artikel  4.27  
 
@@ -3222,16 +3222,16 @@ Onze Minister onderzoekt binnen twee jaar na de inwerkingtreding van deze wet de
 
 ### Artikel  4.30  
 
-1.  Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip van inwerkingtreding van deel 2 onderscheidenlijk deel 3 van deze wet met toepassing van het [Besluit aanbestedingsregels voor overheidsopdrachten](../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) of het [Besluit aanbestedingen speciale sectoren](../../../../AMvB/besluit/aanbestedingen/speciale/sectoren/BWBR0018608/README.md) een aankondiging van een aanbesteding heeft gedaan dan wel overeenkomstig de bepalingen van het desbetreffende besluit een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbesteding het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van deel 2 onderscheidenlijk deel 3 van deze wet.   
+1.  Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip van inwerkingtreding van deel 2 onderscheidenlijk deel 3 van deze wet met toepassing van het Besluit aanbestedingsregels voor overheidsopdrachten of het Besluit aanbestedingen speciale sectoren een aankondiging van een aanbesteding heeft gedaan dan wel overeenkomstig de bepalingen van het desbetreffende besluit een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbesteding het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van deel 2 onderscheidenlijk deel 3 van deze wet.   
 2.  De afdelingen 1.2.2, 1.2.3 en hoofdstuk 1.3 zijn niet van toepassing op aanbestedingen met betrekking waartoe voor het tijdstip van inwerkingtreding van deel 1 van deze wet een aankondiging is bekendgemaakt of twee of meer ondernemers zijn uitgenodigd om een inschrijving in te dienen.  
 
 ### Artikel  4.31  
 
-Tot een jaar na het tijdstip van inwerkingtreding van artikel 2.89 kan een gegadigde of inschrijver, in afwijking van artikel 2.89, tweede lid, door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan een jaar, aantonen dat de uitsluitingsgronden, bedoeld in de artikelen 2.86 en 2.87, onderdelen b en cop hem niet van toepassing zijn. 
+Tot een jaar na het tijdstip van inwerkingtreding van artikel 2.89 kan een gegadigde of inschrijver, in afwijking van artikel 2.89, tweede lid, door middel van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan een jaar, aantonen dat de uitsluitingsgronden, bedoeld in de artikelen 2.86 en 2.87, onderdelen b en cop hem niet van toepassing zijn. 
 
 ### Artikel  4.32  
 
-In afwijking van artikel 4.7, eerste lid, onderdelen c en d, betrekt Onze Minister van Veiligheid en Justitie geen gegevens inzake onherroepelijke beschikkingen wegens overtreding van de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) als bedoeld in artikel 4.7, eerste lid, onderdeel c, of wegens overtreding van artikel 101 of artikel 102 van het Verdrag betreffende de werking van de Europese Unie als bedoeld in artikel 4.7, eerste lid, onderdeel d, bij zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden van een rechtspersoon die werkzaam is op het terrein van de bouwnijverheid indien; 
+In afwijking van artikel 4.7, eerste lid, onderdelen c en d, betrekt Onze Minister van Veiligheid en Justitie geen gegevens inzake onherroepelijke beschikkingen wegens overtreding van de Mededingingswet als bedoeld in artikel 4.7, eerste lid, onderdeel c, of wegens overtreding van artikel 101 of artikel 102 van het Verdrag betreffende de werking van de Europese Unie als bedoeld in artikel 4.7, eerste lid, onderdeel d, bij zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden van een rechtspersoon die werkzaam is op het terrein van de bouwnijverheid indien; 
 
 a. die rechtspersoon in het kader van die overtredingenvoor 1 mei 2004 vrijwillig zijn boekhouding bij de Nederlandse Mededingingsautoriteit heeft ingeleverd,  
 
@@ -3245,11 +3245,11 @@ Indien de artikelen 4.13 en 4.14 van deze wet op een later tijdstip in werking t
 
 ### Artikel  4.34  
 
-De [Raamwet EEG-voorschriften aanbestedingen](../../../../wet/raamwet/eeg-voorschriften/aanbestedingen/BWBR0005937/README.md) wordt ingetrokken. 
+De Raamwet EEG-voorschriften aanbestedingen wordt ingetrokken. 
 
 ### Artikel  4.35  
 
-De [Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden](../../../../wet/wet/implementatie/rechtsbeschermingsrichtlijnen/aanbesteden/BWBR0027221/README.md) wordt ingetrokken. 
+De Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden wordt ingetrokken. 
 
 ### Artikel  4.37  
 

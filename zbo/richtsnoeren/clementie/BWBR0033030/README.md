@@ -4,9 +4,9 @@
 
 ####Inleiding
 
-1.Een kartel in de zin van de Richtsnoeren Clementie (“Richtsnoeren”) is een overeenkomst en/of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel de mededinging te beperken met name door aan- of verkoopprijzen af te spreken, productie- of verkoopquota toe te wijzen of markten te verdelen, met inbegrip van offertevervalsing, in strijd met artikel 81 EG-Verdrag en/of [artikel 6 Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) (“Mw”).
+1.Een kartel in de zin van de Richtsnoeren Clementie (“Richtsnoeren”) is een overeenkomst en/of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel de mededinging te beperken met name door aan- of verkoopprijzen af te spreken, productie- of verkoopquota toe te wijzen of markten te verdelen, met inbegrip van offertevervalsing, in strijd met artikel 81 EG-Verdrag en/of artikel 6 Mededingingswet (“Mw”).
 
-2.De Richtsnoeren zijn uitvoeringsregels op grond waarvan de raad van bestuur van de Nederlandse Mededingingsautoriteit (“NMa”) boetevermindering of boete-immuniteit<sup>1Boete-immuniteit houdt in een boetevermindering van 100%.</sup> (tezamen “clementie”) verleent aan een onderneming die betrokken is geweest bij een kartel en/of aan een natuurlijke persoon die in de zin van [artikel 51, tweede lid, Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), daartoe opdracht of daaraan feitelijk leiding heeft gegeven (“Persoon”).<sup>2Een onderneming die heeft deelgenomen aan een kartel en een Persoon met betrekking tot hetzelfde kartel worden hierna tevens aangeduid als “betrokkene( n) bij het kartel”.</sup> Ondernemingen en/of natuurlijke personen die een beroep doen op de Richtsnoeren worden gezamenlijk aangeduid als “clementieverzoekers”.
+2.De Richtsnoeren zijn uitvoeringsregels op grond waarvan de raad van bestuur van de Nederlandse Mededingingsautoriteit (“NMa”) boetevermindering of boete-immuniteit<sup>1Boete-immuniteit houdt in een boetevermindering van 100%.</sup> (tezamen “clementie”) verleent aan een onderneming die betrokken is geweest bij een kartel en/of aan een natuurlijke persoon die in de zin van artikel 51, tweede lid, Wetboek van Strafrecht, daartoe opdracht of daaraan feitelijk leiding heeft gegeven (“Persoon”).<sup>2Een onderneming die heeft deelgenomen aan een kartel en een Persoon met betrekking tot hetzelfde kartel worden hierna tevens aangeduid als “betrokkene( n) bij het kartel”.</sup> Ondernemingen en/of natuurlijke personen die een beroep doen op de Richtsnoeren worden gezamenlijk aangeduid als “clementieverzoekers”.
 
 3.Het clementiebureau van de NMa (“Clementiebureau”) is belast met de toepassing van de Richtsnoeren. Het Clementiebureau is bereikbaar per telefoon op +31 70 330 17 10, per fax op +31 70 330 17 00 en per e-mail op clementie@nmanet.nl.  
 
@@ -90,7 +90,7 @@ d.hij aan zijn volledige medewerkingsplicht blijft voldoen.
 
 16.Het Clementiebureau zegt clementieverzoeker een boetevermindering van ten minste 60% en ten hoogste 100% toe indien:
 
-a.hij als eerste een clementieverzoek indient ten aanzien van een kartel waarnaar de NMa een onderzoek is begonnen maar de betrokkenen bij het kartel nog geen rapport zoals bedoeld in [artikel 59 Mw](../../../../wet/mededingingswet/BWBR0008691/README.md) (“rapport”) heeft verzonden; en
+a.hij als eerste een clementieverzoek indient ten aanzien van een kartel waarnaar de NMa een onderzoek is begonnen maar de betrokkenen bij het kartel nog geen rapport zoals bedoeld in artikel 59 Mw (“rapport”) heeft verzonden; en
 
 b.zijn clementieverzoek informatie bevat met aanzienlijke additionele waarde; en
 
@@ -136,7 +136,7 @@ c.hij aan zijn volledige medewerkingsplicht blijft voldoen.
 
 ####Inwerkingtreding
 
-28.De Richtsnoeren treden in werking op de datum waarop zij in de Staatscourant worden gepubliceerd. Het Clementiebureau behandelt clementieverzoeken die na die datum worden ingediend volgens de Richtsnoeren, tenzij het Clementiebureau in het kartel waarop het clementieverzoek betrekking heeft reeds een clementieverzoek in behandeling heeft genomen. In dat geval beoordeelt het Clementiebureau het verzoek volgens de [Richtsnoeren Clementietoezegging](../../../../zbo/richtsnoeren/clementietoezegging/(niet/opleggen/of/verminderen/van/etc/BWBR0033330/README.md) van 1 juli 2002 (Stcrt. 2002, nr. 122), zoals laatstelijk gewijzigd bij besluit van 28 maart 2006 (Stcrt. 2006, nr. 63), die hierbij worden ingetrokken.    Aldus, gelet op de [artikelen 51](../../../../wet/mededingingswet/BWBR0008691/README.md), [56, eerste en vierde lid](../../../../wet/mededingingswet/BWBR0008691/README.md), [57](../../../../wet/mededingingswet/BWBR0008691/README.md), [62](../../../../wet/mededingingswet/BWBR0008691/README.md), [88](../../../../wet/mededingingswet/BWBR0008691/README.md) en [89 Mw](../../../../wet/mededingingswet/BWBR0008691/README.md) vastgesteld door de Raad van Bestuur van de Nederlandse Mededingingsautoriteit,   
+28.De Richtsnoeren treden in werking op de datum waarop zij in de Staatscourant worden gepubliceerd. Het Clementiebureau behandelt clementieverzoeken die na die datum worden ingediend volgens de Richtsnoeren, tenzij het Clementiebureau in het kartel waarop het clementieverzoek betrekking heeft reeds een clementieverzoek in behandeling heeft genomen. In dat geval beoordeelt het Clementiebureau het verzoek volgens de Richtsnoeren Clementietoezegging van 1 juli 2002 (Stcrt. 2002, nr. 122), zoals laatstelijk gewijzigd bij besluit van 28 maart 2006 (Stcrt. 2006, nr. 63), die hierbij worden ingetrokken.    Aldus, gelet op de artikelen 51, 56, eerste en vierde lid, 57, 62, 88 en 89 Mw vastgesteld door de Raad van Bestuur van de Nederlandse Mededingingsautoriteit,   
 
 Den Haag 
 9 oktober 2007.   

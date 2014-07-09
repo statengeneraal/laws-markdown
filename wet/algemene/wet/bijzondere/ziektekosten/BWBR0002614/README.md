@@ -16,37 +16,37 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-a.Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+a.Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 
 b.verzekeraar: een verzekeringsonderneming als bedoeld in richtlijn nr. 73/239/EEG van de Raad van de Europese Gemeenschappen van 24 juli 1973 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringbranche en de uitoefening daarvan (PbEG L 228);
 
-c.zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die deze wet ten aanzien van de verzekerden wenst uit te voeren en zich overeenkomstig artikel 33 heeft aangemeld;
+c.zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, onderdeel b, van de Zorgverzekeringswet, die deze wet ten aanzien van de verzekerden wenst uit te voeren en zich overeenkomstig artikel 33 heeft aangemeld;
 
 d.vervallen;
 
 e.instelling:
 
-1°.een instelling in de zin van de [Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);
+1°.een instelling in de zin van de Wet toelating zorginstellingen;
 
 2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij of krachtens artikel 6; 
 
 f.Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-g. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md); 
+g. Zorginstituut: het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet; 
 
-h.zorgautoriteit: de zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+h.zorgautoriteit: de zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg;
 
-i.Algemeen Fonds Bijzondere Ziektekosten: het fonds, genoemd in [artikel 89 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+i.Algemeen Fonds Bijzondere Ziektekosten: het fonds, genoemd in artikel 89 van de Wet financiering sociale verzekeringen;
 
 j.zorgaanbieder: een instelling of persoon die zorg als bedoeld in artikel 6 verleent;
 
 k.lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;
 
-l.vreemdeling: een vreemdeling als bedoeld in de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);
+l.vreemdeling: een vreemdeling als bedoeld in de Vreemdelingenwet 2000;
 
-ll.  continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland; 
+ll.  continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland; 
 
-m.burgerservicenummer: het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);
+m.burgerservicenummer: het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;
 
 n.het CAK, genoemd in artikel 48, eerste lid.  
 2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:  
@@ -101,18 +101,18 @@ In de uitvoering van de in deze wet geregelde verzekering wordt, voor zover bij 
 a. ingezetene is;   
 
 b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.      
-2.  In afwijking van het eerste lid zijn vreemdelingen die niet rechtmatig in Nederland verblijf genieten als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), niet verzekerd.    
+2.  In afwijking van het eerste lid zijn vreemdelingen die niet rechtmatig in Nederland verblijf genieten als bedoeld in artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000, niet verzekerd.    
 3.  In afwijking van het tweede lid zijn verzekerd: 
 
-a. kinderen in Nederland geboren uit een in Nederland wonende vreemdeling die rechtmatig verblijf geniet als bedoeld in [artikel 8, onder a tot en met e of l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel in het buitenland geboren uit in Nederland wonende ouders die rechtmatig verblijf genieten als bedoeld in [artikel 8, onder a tot en met e of l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+a. kinderen in Nederland geboren uit een in Nederland wonende vreemdeling die rechtmatig verblijf geniet als bedoeld in artikel 8, onder a tot en met e of l, van de Vreemdelingenwet 2000, dan wel in het buitenland geboren uit in Nederland wonende ouders die rechtmatig verblijf genieten als bedoeld in artikel 8, onder a tot en met e of l, van de Vreemdelingenwet 2000;  
 
-b. kinderen die door in Nederland wonende personen met de Nederlandse nationaliteit dan wel met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e of l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), worden geadopteerd en voor wie met het oog op adoptie beginseltoestemming is verleend op grond van [artikel 2, van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md). De verzekering gaat in vanaf het moment van adoptie naar het recht van het land waar het kind zijn gewone verblijf heeft of vanaf het moment van de gezagsoverdracht van het kind met het oog op adoptie aan een echtpaar of een persoon die zijn gewone verblijf in Nederland heeft en die de procedure van opneming ter adoptie van een kind ingevolge de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) heeft gevolgd.    
+b. kinderen die door in Nederland wonende personen met de Nederlandse nationaliteit dan wel met rechtmatig verblijf als bedoeld in artikel 8, onder a tot en met e of l, van de Vreemdelingenwet 2000, worden geadopteerd en voor wie met het oog op adoptie beginseltoestemming is verleend op grond van artikel 2, van de Wet opneming buitenlandse kinderen ter adoptie. De verzekering gaat in vanaf het moment van adoptie naar het recht van het land waar het kind zijn gewone verblijf heeft of vanaf het moment van de gezagsoverdracht van het kind met het oog op adoptie aan een echtpaar of een persoon die zijn gewone verblijf in Nederland heeft en die de procedure van opneming ter adoptie van een kind ingevolge de Wet opneming buitenlandse kinderen ter adoptie heeft gevolgd.    
 4.   Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste lid, uitbreiding dan wel beperking worden gegeven aan de kring der verzekerden.   
 5.  Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste en tweede lid, uitbreiding worden gegeven aan de kring der verzekerden voor zover het betreft:  
 
 a. vreemdelingen die rechtmatig in Nederland arbeid verrichten dan wel hebben verricht;   
 
-b. vreemdelingen die, na in Nederland rechtmatig verblijf te hebben genoten als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tijdig toelating in aansluiting op dat verblijf hebben aangevraagd, dan wel bezwaar hebben gemaakt of beroep hebben ingesteld tegen de intrekking van het besluit tot toelating, totdat op die aanvraag, dat bezwaar of dat beroep is beslist.     
+b. vreemdelingen die, na in Nederland rechtmatig verblijf te hebben genoten als bedoeld in artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000, tijdig toelating in aansluiting op dat verblijf hebben aangevraagd, dan wel bezwaar hebben gemaakt of beroep hebben ingesteld tegen de intrekking van het besluit tot toelating, totdat op die aanvraag, dat bezwaar of dat beroep is beslist.     
 
 ### Artikel  5b  
 
@@ -148,17 +148,17 @@ De Sociale Verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 ### Artikel  9  
 
-1. De verzekerde, bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is met ingang van het tijdstip waarop de zorgverzekering ingevolge [die wet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) ingaat, voor de toepassing van deze wet als verzekerde ingeschreven bij zijn zorgverzekeraar in de zin van [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), mits deze zich overeenkomstig artikel 33 heeft aangemeld voor de uitvoering van deze wet. Indien de zorgverzekering is ingegaan binnen vier maanden nadat de verzekeringsplicht, bedoeld in de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is ontstaan, werkt de inschrijving terug tot en met de dag waarop die verzekeringsplicht ontstond. 
+1. De verzekerde, bedoeld in artikel 1, onderdeel f, van de Zorgverzekeringswet, is met ingang van het tijdstip waarop de zorgverzekering ingevolge die wet ingaat, voor de toepassing van deze wet als verzekerde ingeschreven bij zijn zorgverzekeraar in de zin van artikel 1, onderdeel b, van de Zorgverzekeringswet, mits deze zich overeenkomstig artikel 33 heeft aangemeld voor de uitvoering van deze wet. Indien de zorgverzekering is ingegaan binnen vier maanden nadat de verzekeringsplicht, bedoeld in de Zorgverzekeringswet, is ontstaan, werkt de inschrijving terug tot en met de dag waarop die verzekeringsplicht ontstond. 
 2. De verzekerde die voor de uitvoering van deze wet niet bij een zorgverzekeraar is ingeschreven, meldt zich voor de toepassing van deze wet met inachtneming van bij algemene maatregel van bestuur te stellen regels ter inschrijving aan bij een zorgverzekeraar die werkzaam is in de gemeente waar hij woont. Een in het buitenland woonachtige verzekerde meldt zich aan bij een zorgverzekeraar naar eigen keuze. De zorgverzekeraar is verplicht hem tot dat doel in te schrijven. 
-3. Het is een zorgverzekeraar verboden anderen dan personen met wie hij een zorgverzekering als bedoeld in de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is aangegaan, als verzekerde in te schrijven indien deze woonachtig zijn buiten het werkgebied van de zorgverzekeraar, tenzij het betreft een in het buitenland woonachtige verzekerde. 
+3. Het is een zorgverzekeraar verboden anderen dan personen met wie hij een zorgverzekering als bedoeld in de Zorgverzekeringswet is aangegaan, als verzekerde in te schrijven indien deze woonachtig zijn buiten het werkgebied van de zorgverzekeraar, tenzij het betreft een in het buitenland woonachtige verzekerde. 
 
 ###Artikel 9bis 
 
 1. De verzekerde die zich ingevolge artikel 9, tweede lid, bij een zorgverzekeraar aanmeldt ter inschrijving, vermeldt daarbij zijn burgerservicenummer.
 2. De zorgverzekeraar stelt, voor zover dat redelijkerwijs nodig is voor de uitvoering van deze wet, de identiteit van de te verzekeren persoon vast.
-3. De in het tweede lid bedoelde vaststelling geschiedt aan de hand van documenten als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), die de verzekerde hem desgevraagd ter inzage geeft.
+3. De in het tweede lid bedoelde vaststelling geschiedt aan de hand van documenten als bedoeld in artikel 1 van de Wet op de identificatieplicht, die de verzekerde hem desgevraagd ter inzage geeft.
 4. De zorgverzekeraar neemt aard en nummer van de in het derde lid bedoelde documenten in zijn administratie op.
-5. De zorgverzekeraar verlangt van de vreemdeling die zich ter inschrijving aanmeldt, een kopie van het document of de schriftelijke verklaring, bedoeld in [artikel 9, tweede lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dat wordt aangemerkt als een bescheid als bedoeld in [artikel 4:3, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+5. De zorgverzekeraar verlangt van de vreemdeling die zich ter inschrijving aanmeldt, een kopie van het document of de schriftelijke verklaring, bedoeld in artikel 9, tweede lid, van de Vreemdelingenwet 2000, dat wordt aangemerkt als een bescheid als bedoeld in artikel 4:3, tweede lid, van de Algemene wet bestuursrecht.
 
 ### Artikel  9a  
 
@@ -172,8 +172,8 @@ De Sociale Verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 1.  Aanspraak op zorg, aangewezen ingevolge artikel 9a, eerste lid, bestaat slechts indien en gedurende de periode waarvoor het bevoegde indicatieorgaan op een door de verzekerde ingediende aanvraag heeft besloten dat deze naar aard, inhoud en omvang op die zorg is aangewezen. De verzekerde vermeldt bij de aanvraag zijn burgerservicenummer.   
 2.  In afwijking van het eerste lid worden er bij algemene maatregel van bestuur regels gesteld voor gevallen waarin het besluit niet afgewacht kan worden.    
 3.  De aanspraak op andere vormen van zorg dan die zijn aangewezen ingevolge artikel 9a, eerste lid, kan slechts tot gelding worden gebracht voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, daarop naar aard, inhoud en omvang redelijkerwijs is aangewezen. Bij of krachtens algemene maatregel van bestuur kan worden geregeld door wie en op welke wijze wordt beoordeeld of de verzekerde aangewezen is op een bepaalde vorm van zorg. Deze regels zijn zodanig dat wordt gewaarborgd dat de beoordeling onafhankelijk geschiedt.   
-4.  In afwijking van het eerste tot en met derde lid hebben cliënten als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) slechts aanspraak op zorg aangewezen krachtens [artikel 5, tweede lid, onder b en c, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), indien de stichting die werkzaam is in de provincie waar de betrokken jeugdige duurzaam verblijft een besluit heeft genomen waaruit blijkt dat die cliënt op die zorg is aangewezen. De regels gesteld krachtens [artikel 3, vijfde lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) zijn van toepassing.   
-5.  Het vierde lid is niet van toepassing ten aanzien van zorg als bedoeld in [artikel 5, tweede lid, onder b, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), met betrekking tot een jeugdige van wie een beroepsbeoefenaar, behorende tot een bij of krachtens algemene maatregel van bestuur aangewezen beroepsgroep of een daarmee in die maatregel gelijkgestelde behandelaar, een redelijk vermoeden heeft dat bij de jeugdige sprake is van een bij of krachtens die maatregel aangewezen psychische stoornis van een bij die maatregel aan te geven ernst en tevens het vermoeden heeft dat de jeugdige, zijn ouders, stiefouders of anderen die de jeugdige als behorende tot hun gezin verzorgen en opvoeden, niet zijn aangewezen op jeugdzorg waarop aanspraak bestaat op grond van de [Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md). Bij de maatregel, bedoeld in de eerste volzin, worden tevens regels gesteld omtrent de informatie die de beroepsbeoefenaar in een geval als bedoeld in die volzin verstrekt aan de betrokken stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+4.  In afwijking van het eerste tot en met derde lid hebben cliënten als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg slechts aanspraak op zorg aangewezen krachtens artikel 5, tweede lid, onder b en c, van die wet, indien de stichting die werkzaam is in de provincie waar de betrokken jeugdige duurzaam verblijft een besluit heeft genomen waaruit blijkt dat die cliënt op die zorg is aangewezen. De regels gesteld krachtens artikel 3, vijfde lid, van de Wet op de jeugdzorg zijn van toepassing.   
+5.  Het vierde lid is niet van toepassing ten aanzien van zorg als bedoeld in artikel 5, tweede lid, onder b, van de Wet op de jeugdzorg, met betrekking tot een jeugdige van wie een beroepsbeoefenaar, behorende tot een bij of krachtens algemene maatregel van bestuur aangewezen beroepsgroep of een daarmee in die maatregel gelijkgestelde behandelaar, een redelijk vermoeden heeft dat bij de jeugdige sprake is van een bij of krachtens die maatregel aangewezen psychische stoornis van een bij die maatregel aan te geven ernst en tevens het vermoeden heeft dat de jeugdige, zijn ouders, stiefouders of anderen die de jeugdige als behorende tot hun gezin verzorgen en opvoeden, niet zijn aangewezen op jeugdzorg waarop aanspraak bestaat op grond van de Wet op de jeugdzorg of de Beginselenwet justitiële jeugdinrichtingen. Bij de maatregel, bedoeld in de eerste volzin, worden tevens regels gesteld omtrent de informatie die de beroepsbeoefenaar in een geval als bedoeld in die volzin verstrekt aan de betrokken stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.  
 6.  Op het indicatieorgaan, bedoeld in het eerste lid, is het bepaalde bij of krachtens artikel 52, tweede tot en met negende lid, van overeenkomstige toepassing met betrekking tot het nemen van het besluit, bedoeld in het eerste lid. 
 
 ### Artikel  10  
@@ -195,7 +195,7 @@ d. door wie in welke gevallen en onder welke voorwaarden werkzaamheden die zijn 
 
 ###Artikel 10a 
 
-1. Degene die als verzekerde zijn aanspraak op een bij ministeriële regeling aangewezen vorm van zorg geldend wil maken, verstrekt aan de persoon of instelling tot wie onderscheidenlijk welke hij zich wendt voor het ontvangen van de desbetreffende zorg, een identiteitsbewijs als bedoeld in [artikel 1, eerste lid van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) of een ander bij ministeriële regeling aan te wijzen document ter inzage waarmee zijn identiteit kan worden vastgesteld. Indien het identiteitsbewijs niet onmiddellijk ter inzage kan worden verstrekt, kan de persoon of instelling bepalen dat uiterlijk binnen een termijn van veertien dagen aan deze verplichting wordt voldaan. 
+1. Degene die als verzekerde zijn aanspraak op een bij ministeriële regeling aangewezen vorm van zorg geldend wil maken, verstrekt aan de persoon of instelling tot wie onderscheidenlijk welke hij zich wendt voor het ontvangen van de desbetreffende zorg, een identiteitsbewijs als bedoeld in artikel 1, eerste lid van de Wet op de identificatieplicht of een ander bij ministeriële regeling aan te wijzen document ter inzage waarmee zijn identiteit kan worden vastgesteld. Indien het identiteitsbewijs niet onmiddellijk ter inzage kan worden verstrekt, kan de persoon of instelling bepalen dat uiterlijk binnen een termijn van veertien dagen aan deze verplichting wordt voldaan. 
 2. De persoon of instelling die de in het eerste lid bedoelde zorg verleent, stelt de identiteit van degene aan wie deze zorg wordt verleend vast aan de hand van het ter inzage verstrekte document.
 
 ### Artikel  12  
@@ -287,7 +287,7 @@ Overeenkomsten die in strijd met het bij of krachtens de artikelen 15 of 16 bepa
 
 ### Artikel  32  
 
-De aan een verzekerde op grond van [hoofdstuk 5 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) verleende ontheffing geldt tevens als ontheffing van de verplichtingen opgelegd bij of krachtens artikel 17. 
+De aan een verzekerde op grond van hoofdstuk 5 van de Wet financiering sociale verzekeringen verleende ontheffing geldt tevens als ontheffing van de verplichtingen opgelegd bij of krachtens artikel 17. 
 
 ### Hoofdstuk  IVA  
 
@@ -301,9 +301,9 @@ Vervallen per 01-01-2006
 
 ### Artikel 33 
 
-1. Een zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die deze wet ten aanzien van de verzekerden wenst uit te voeren, meldt zich daartoe aan bij de zorgautoriteit, onder vermelding van de dag met ingang waarvan hij zulks gaat doen. 
+1. Een zorgverzekeraar als bedoeld in artikel 1, onderdeel b, van de Zorgverzekeringswet die deze wet ten aanzien van de verzekerden wenst uit te voeren, meldt zich daartoe aan bij de zorgautoriteit, onder vermelding van de dag met ingang waarvan hij zulks gaat doen. 
 2. Na aanmelding is de zorgverzekeraar verplicht te voldoen aan de voorschriften die bij of krachtens deze wet aan zorgverzekeraars zijn opgelegd. 
-3. [Artikel 26 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is van overeenkomstige toepassing.
+3. Artikel 26 van de Zorgverzekeringswet is van overeenkomstige toepassing.
 
 ### Artikel 34  
 
@@ -316,7 +316,7 @@ De zorgverzekeraar voert ter zake van de uitvoering van deze wet een van zijn ov
 ### Artikel 36 
 
 1. Een zorgverzekeraar en het CAK zenden elk voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. Daarin wordt onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekking van zorg en vergoedingen. 
-2. Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), alsmede van een verslag van zijn bevindingen over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer. 
+2. Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, alsmede van een verslag van zijn bevindingen over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer. 
 3. Bij ministeriële regeling kunnen nadere voorschriften worden gesteld omtrent de inhoud van het financieel verslag. 
 4. De zorgautoriteit zendt het College zorgverzekering onverwijld een exemplaar van de in het eerste en tweede lid bedoelde stukken. 
 5. Op aanvraag van een zorgverzekeraar is de zorgautoriteit bevoegd voor in haar besluit aan te wijzen baten en lasten te besluiten dat het ontbreken van een overeenkomst als bedoeld in artikel 15 geen gevolgen heeft voor de inhoud van de verklaring, bedoeld in het tweede lid.
@@ -329,7 +329,7 @@ a. rapporteren over de uitvoering van deze wet in het voorafgaande kalenderjaar,
 
 b. een overzicht geven van hun voornemens met betrekking tot de uitvoering van deze wet in het lopende kalenderjaar en het daaropvolgende kalenderjaar.    
 2. Bij ministeriële regeling kunnen nadere voorschriften worden gesteld omtrent de inhoud van het uitvoeringsverslag. De voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de regeling aan te wijzen gedragscode. 
-3. De zorgverzekeraar en het CAK voegen elk bij het uitvoeringsverslag twee exemplaren van een verslag met bevindingen van een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) over de vraag of:
+3. De zorgverzekeraar en het CAK voegen elk bij het uitvoeringsverslag twee exemplaren van een verslag met bevindingen van een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek over de vraag of:
 
 a.het uitvoeringsverslag overeenkomstig de daarvoor geldende regels is opgesteld;
 
@@ -338,7 +338,7 @@ b.de uitvoering is geschied overeenkomstig de verplichtingen die bij of krachten
 
 ### Artikel 39  
 
-1. Indien krachtens [afdeling 3.5.5 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) jegens een zorgverzekeraar of een voormalige zorgverzekeraar de noodregeling is uitgesproken, of een voormalige zorgverzekeraar failliet is verklaard, voldoet het Zorginstituut aan verzekerden en aan zorgaanbieders jegens die zorgverzekeraar of voormalige zorgverzekeraar bestaande vorderingen ter zake van op grond van deze wet verstrekte zorg of vergoeding van daarvoor gemaakte kosten. 
+1. Indien krachtens afdeling 3.5.5 van de Wet op het financieel toezicht jegens een zorgverzekeraar of een voormalige zorgverzekeraar de noodregeling is uitgesproken, of een voormalige zorgverzekeraar failliet is verklaard, voldoet het Zorginstituut aan verzekerden en aan zorgaanbieders jegens die zorgverzekeraar of voormalige zorgverzekeraar bestaande vorderingen ter zake van op grond van deze wet verstrekte zorg of vergoeding van daarvoor gemaakte kosten. 
 2. De vorderingen, bedoeld in het eerste lid, gaan bij wijze van subrogatie op het Zorginstituut over voor zover dat instituut deze heeft voldaan. 
 3. Het Rijk is tegenover het Zorginstituut aansprakelijk voor de betalingen, bedoeld in het eerste lid.
 
@@ -374,7 +374,7 @@ a.tijdelijk subsidies verstrekt voor zorg, ten aanzien waarvan het voornemen bes
 
 b.subsidies verstrekt om verzekerden de mogelijkheid te geven om in plaats van het tot gelding brengen van een aanspraak op grond van deze wet zelf te voorzien in de zorg die zij behoeven;
 
-c.subsidies verstrekt voor zwangerschapsafbrekingen in de zin van de [Wet afbreking zwangerschap](../../../../../../wet/wet/afbreking/zwangerschap/BWBR0003396/README.md), overtijdbehandelingen en aan beide behandelingsvormen verbonden nazorg. 
+c.subsidies verstrekt voor zwangerschapsafbrekingen in de zin van de Wet afbreking zwangerschap, overtijdbehandelingen en aan beide behandelingsvormen verbonden nazorg. 
 2. In een regeling als bedoeld in het eerste lid kan worden bepaald dat daarbij aan te wijzen bevoegdheden met betrekking tot de verstrekking van de subsidies, behorende tot een in die regeling genoemde categorie, worden uitgeoefend door een of meer door het Zorginstituut aan te wijzen rechtspersonen, als bedoeld in artikel 40. 
 3. Onze Minister kan jaarlijks voor een categorie van subsidies het subsidieplafond voor het komende jaar bekendmaken. 
 4. In een regeling als bedoeld in het eerste lid kan aan het Zorginstituut worden opgedragen nadere regels te stellen. 
@@ -383,15 +383,15 @@ c.subsidies verstrekt voor zwangerschapsafbrekingen in de zin van de [Wet afbrek
 
 ### Artikel  44a  
 
-1.  Het Zorginstituut zendt jaarlijks voor 15 april aan Onze Minister een zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ingericht financieel verslag uitvoeringstaken over het afgelopen kalenderjaar, met een financiële verantwoording over bij ministeriële regeling aan te wijzen, op die uitvoeringstaken betrekking hebbende geldstromen, alsmede het verslag van bevindingen, waarin per geldstroom de bevindingen worden aangegeven.   
+1.  Het Zorginstituut zendt jaarlijks voor 15 april aan Onze Minister een zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek ingericht financieel verslag uitvoeringstaken over het afgelopen kalenderjaar, met een financiële verantwoording over bij ministeriële regeling aan te wijzen, op die uitvoeringstaken betrekking hebbende geldstromen, alsmede het verslag van bevindingen, waarin per geldstroom de bevindingen worden aangegeven.   
 2.  Het financieel verslag uitvoeringstaken gaat vergezeld van een verklaring omtrent de getrouwheid.   
 3.  Het verslag van bevindingen geeft aan of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
-4.  De verklaring omtrent getrouwheid en het verslag van bevindingen worden opgesteld door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.  
+4.  De verklaring omtrent getrouwheid en het verslag van bevindingen worden opgesteld door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.  
 
 ### Artikel 45  
 
 1. Het Zorginstituut zendt jaarlijks voor 31 december aan Onze Minister met betrekking tot het Algemeen Fonds Bijzondere Ziektekosten een jaarrekening over het voorafgaande kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid. 
-2.  Het Zorginstituut legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt ingericht, rekening en verantwoording af over: 
+2.  Het Zorginstituut legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over: 
 
 a. de baten en lasten van het Algemeen Fonds Bijzondere Ziektekosten,  
 
@@ -400,7 +400,7 @@ b. de geldstromen, bedoeld in artikel 44a, eerste lid,
 c. de rechtmatigheid en doelmatigheid van het beheer van het Algemeen Fonds Bijzondere Ziektekosten,  
 
 d. de toestand van het Algemeen Fonds Bijzondere Ziektekosten per 31 december van het voorafgaande kalenderjaar.    
-3. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden. 
+3. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden. 
 4. De verklaring, bedoeld in het derde lid, heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen van het Algemeen Fonds Bijzondere Ziektekosten. 
 5. De accountant voegt bij de verklaring, bedoeld in het derde lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.
 
@@ -420,7 +420,7 @@ d. de bij het financieel verslag uitvoeringstaken, bedoeld in artikel 44a, en de
 
 ### Artikel 47 
 
-Het Zorginstituut rapporteert Onze Minister gevraagd en ongevraagd omtrent de benodigde omvang van de ten laste van het Algemeen Fonds Bijzondere Ziektekosten beschikbare middelen voor de in deze wet geregelde verzekering en van de premie, bedoeld in [artikel 90, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).
+Het Zorginstituut rapporteert Onze Minister gevraagd en ongevraagd omtrent de benodigde omvang van de ten laste van het Algemeen Fonds Bijzondere Ziektekosten beschikbare middelen voor de in deze wet geregelde verzekering en van de premie, bedoeld in artikel 90, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen.
 
 ###Hoofdstuk VII 
 
@@ -434,7 +434,7 @@ Het Zorginstituut rapporteert Onze Minister gevraagd en ongevraagd omtrent de be
 4.  Het CAK wordt in en buiten rechte vertegenwoordigd door de voorzitter.   
 5.  Benoeming vindt plaats op grond van de deskundigheid die nodig is voor de uitoefening van de taken van het CAK alsmede op grond van maatschappelijke kennis en ervaring.   
 6.  De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.   
-7.  In afwijking van [artikel 15 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) worden de personeelsleden van de in het eerste lid bedoelde rechtspersoon in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van [titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn op deze overeenkomst van toepassing  
+7.  In afwijking van artikel 15 van de Kaderwet zelfstandige bestuursorganen worden de personeelsleden van de in het eerste lid bedoelde rechtspersoon in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek zijn op deze overeenkomst van toepassing  
 
 ### Artikel  49  
 
@@ -442,13 +442,13 @@ Het CAK is belast met:
 
 a. de vaststelling en de inning van de eigen bijdragen, bedoeld in artikel 6, vierde lid;  
 
-b. de vaststelling en inning van de eigen bijdragen, bedoeld in [artikel 16 van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) alsmede de vaststelling en verstrekking van bedragen als bedoeld in [artikel 90, tweede lid, onderdeel g, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+b. de vaststelling en inning van de eigen bijdragen, bedoeld in artikel 16 van de Wet maatschappelijke ondersteuning alsmede de vaststelling en verstrekking van bedragen als bedoeld in artikel 90, tweede lid, onderdeel g, van de Wet financiering sociale verzekeringen;  
 
-c. de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in [artikel 2, eerste en tweede lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
+c. de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in artikel 2, eerste en tweede lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten;  
 
-d. de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in [artikel 11a van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md); 
+d. de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in artikel 11a van de Zorgverzekeringswet; 
 
-e. de vaststelling van het recht op en de verstrekking van de uitkeringen, bedoeld in [artikel 118a, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+e. de vaststelling van het recht op en de verstrekking van de uitkeringen, bedoeld in artikel 118a, eerste lid, van de Zorgverzekeringswet;  
 
 f. het namens zorgverzekeraars of het College zorgverzekeringen verrichten van betalingen aan zorgaanbieders, welke de zorgverzekeraars, of het College zorgverzekeringen, uit hoofde van de uitvoering van deze wet verschuldigd zijn.   
 
@@ -461,13 +461,13 @@ f. het namens zorgverzekeraars of het College zorgverzekeringen verrichten van b
 
 1.  Het CAK zendt Onze Minister jaarlijks voor 1 november een werkprogramma en een begroting.   
 2.  Het werkprogramma bevat een beschrijving van de activiteiten die het CAK voornemens is in het volgende kalenderjaar te verrichten. Het werkprogramma behoeft de goedkeuring van Onze Minister.   
-3.  Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bevat de begroting een meerjarenraming van de beheerskosten voor de vier kalenderjaren, volgend op het begrotingsjaar.   
-4.  De in de [artikelen 26](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [34 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bedoelde begroting en jaarrekening hebben betrekking op de beheerskosten van het CAK en op de tegemoetkomingen, bedoeld in [artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).   
-5.  Onverminderd [artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het CAK voldoen aan eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.  
+3.  Onverminderd artikel 27 van de Kaderwet zelfstandige bestuursorganen bevat de begroting een meerjarenraming van de beheerskosten voor de vier kalenderjaren, volgend op het begrotingsjaar.   
+4.  De in de artikelen 26 en 34 van de Kaderwet zelfstandige bestuursorganen bedoelde begroting en jaarrekening hebben betrekking op de beheerskosten van het CAK en op de tegemoetkomingen, bedoeld in artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten.   
+5.  Onverminderd artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het CAK voldoen aan eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.  
 
 ### Artikel  51a  
 
-1.  Onze Minister stelt jaarlijks voor 1 december het budget vast voor de door het CAK ter uitvoering van zijn in artikel 49 genoemde taken in het volgende kalenderjaar te maken beheerskosten alsmede voor de kosten van de tegemoetkomingen, bedoeld in [artikel 2 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).   
+1.  Onze Minister stelt jaarlijks voor 1 december het budget vast voor de door het CAK ter uitvoering van zijn in artikel 49 genoemde taken in het volgende kalenderjaar te maken beheerskosten alsmede voor de kosten van de tegemoetkomingen, bedoeld in artikel 2 van de Wet tegemoetkoming chronisch zieken en gehandicapten.   
 2.  Het door Onze Minister vastgestelde budget wordt gedekt uit ’s Rijks kas.   
 3.  Indien het budget niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het CAK bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het in het budget opgenomen bedrag voor beheerskosten dat laatstelijk voor hem voor een geheel jaar is vastgesteld.   
 4.  Het CAK gaat met betrekking tot de met de uitvoering van zijn taken gepaard gaande beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het in het budget opgenomen bedrag voor de beheerskosten.   
@@ -475,7 +475,7 @@ f. het namens zorgverzekeraars of het College zorgverzekeringen verrichten van b
 
 ### Artikel  51b  
 
-In afwijking van [artikel 29 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) behoeven wijzigingen in de bedragen die in de goedgekeurde begroting zijn opgenomen voor de beheerskosten geen goedkeuring van Onze Minister, mits: 
+In afwijking van artikel 29 van de Kaderwet zelfstandige bestuursorganen behoeven wijzigingen in de bedragen die in de goedgekeurde begroting zijn opgenomen voor de beheerskosten geen goedkeuring van Onze Minister, mits: 
 
 a. de totale omvang van het in die begroting opgenomen bedrag voor beheerskosten geen wijziging ondergaat, en  
 
@@ -483,7 +483,7 @@ b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetre
 
 ### Artikel  51c  
 
-Na de goedkeuring, bedoeld in artikel 51, tweede lid, alsmede de goedkeuring, bedoeld in de [artikelen 29, eerste lid](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), stelt het CAK het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar. 
+Na de goedkeuring, bedoeld in artikel 51, tweede lid, alsmede de goedkeuring, bedoeld in de artikelen 29, eerste lid, en 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, stelt het CAK het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar. 
 
 ### Artikel  51d  
 
@@ -491,13 +491,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 a. de inhoud en inrichting van het werkprogramma, bedoeld in artikel 51, eerste lid;  
 
-b. de inhoud en inrichting van de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
+b. de inhoud en inrichting van de begroting, bedoeld in artikel 26 van de Kaderwet zelfstandige bestuursorganen;  
 
-c. de inhoud en inrichting van het jaarverslag en de jaarrekening, bedoeld in de [artikelen 18](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [34 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
+c. de inhoud en inrichting van het jaarverslag en de jaarrekening, bedoeld in de artikelen 18 en 34 van de Kaderwet zelfstandige bestuursorganen;  
 
 d. de accountantscontrole van de jaarrekening;  
 
-e. de omvang van de door het CAK te vormen egalisatiereserve, bedoeld in [artikel 33 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
+e. de omvang van de door het CAK te vormen egalisatiereserve, bedoeld in artikel 33 van de Kaderwet zelfstandige bestuursorganen;  
 
 f. de wijze waarop en de voorwaarden waaronder het budget, bedoeld in artikel 51a, wordt vastgesteld;  
 
@@ -510,10 +510,10 @@ g. de gegevens die worden verstrekt ten behoeve van de vaststelling van het budg
 ### Artikel 52  
 
 1. De zorgverzekeraar neemt het burgerservicenummer van zijn verzekerden met het oog op de uitvoering van deze wet in zijn administratie op en bewaart deze gedurende zeven jaren na het einde van de inschrijving van de verzekerde.
-2. De zorgverzekeraar stelt bij de eerste opname in zijn administratie en vervolgens indien daartoe aanleiding is het burgerservicenummer van de verzekerde vast met overeenkomstige toepassing van [artikel 7 van de Wet gebruik burgerservicenummer in de zorg](../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md).
+2. De zorgverzekeraar stelt bij de eerste opname in zijn administratie en vervolgens indien daartoe aanleiding is het burgerservicenummer van de verzekerde vast met overeenkomstige toepassing van artikel 7 van de Wet gebruik burgerservicenummer in de zorg.
 3. De zorgverzekeraar gebruikt het burgerservicenummer van de verzekerde met het doel te waarborgen dat de in het kader van de verzekering van zorg te verwerken persoonsgegevens op die verzekerde betrekking hebben.
 4. Bij gegevensuitwisseling tussen de zorgverzekeraars en de in de artikelen 53 tot en met 56 genoemde personen en instanties wordt voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer gebruikt.
-5. Het vierde lid is van overeenkomstige toepassing op de gegevensuitwisseling tussen de zorgverzekeraars en de zorgaanbieders, indicatieorganen en zorgverzekeraars in de zin van de [Wet gebruik burgerservicenummer in de zorg](../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) die niet in de artikelen 53 tot en met 56 zijn genoemd. 
+5. Het vierde lid is van overeenkomstige toepassing op de gegevensuitwisseling tussen de zorgverzekeraars en de zorgaanbieders, indicatieorganen en zorgverzekeraars in de zin van de Wet gebruik burgerservicenummer in de zorg die niet in de artikelen 53 tot en met 56 zijn genoemd. 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 7. Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in het eerste, vierde en vijfde lid, voldoet.
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden over de bij de gegevensuitwisseling, bedoeld in het vierde en vijfde lid, te verwerken feiten of gegevens met betrekking tot verzekerden van wie het vaststellen van het burgerservicenummer onmogelijk blijkt of een onevenredige inspanning kost. Bij of krachtens die maatregel kan worden bepaald aan welke beveiligingseisen de verwerking van die feiten of gegevens voldoet.
@@ -525,9 +525,9 @@ g. de gegevens die worden verstrekt ten behoeve van de vaststelling van het budg
 
 a.een zorgaanbieder;
 
-b.een indicatieorgaan als bedoeld in artikel 9a, eerste lid, verstrekken elkaar kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die noodzakelijk zijn voor de uitvoering van deze wet, dan wel stellen elkaar deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking. 
-2. Voor zover de verzekerde daartoe uitdrukkelijk toestemming heeft verleend, verstrekken een indicatieorgaan als bedoeld in het eerste lid, en een zorgaanbieder elkaar kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). 
-3. Indien een zorgaanbieder anders dan krachtens een door hem met de zorgverzekeraar gesloten overeenkomst aan een verzekerde zorg heeft verleend als bedoeld in deze wet, verstrekt hij de verzekerde kosteloos de persoonsgegevens, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die voor zijn zorgverzekeraar of voor een door die zorgverzekeraar of door Onze Minister aangewezen persoon noodzakelijk zijn voor de uitvoering van deze wet. 
+b.een indicatieorgaan als bedoeld in artikel 9a, eerste lid, verstrekken elkaar kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van deze wet, dan wel stellen elkaar deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking. 
+2. Voor zover de verzekerde daartoe uitdrukkelijk toestemming heeft verleend, verstrekken een indicatieorgaan als bedoeld in het eerste lid, en een zorgaanbieder elkaar kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens. 
+3. Indien een zorgaanbieder anders dan krachtens een door hem met de zorgverzekeraar gesloten overeenkomst aan een verzekerde zorg heeft verleend als bedoeld in deze wet, verstrekt hij de verzekerde kosteloos de persoonsgegevens, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor zijn zorgverzekeraar of voor een door die zorgverzekeraar of door Onze Minister aangewezen persoon noodzakelijk zijn voor de uitvoering van deze wet. 
 4. Personen werkzaam ten behoeve van een zorgaanbieder of een indicatieorgaan als bedoeld in het eerste lid, verstrekken die zorgaanbieder of dat indicatieorgaan de persoonsgegevens die zij nodig hebben om te kunnen voldoen aan hun verplichtingen, bedoeld in het eerste, tweede of derde lid. 
 5. Personen werkzaam bij een door een zorgverzekeraar of Onze Minister aangewezen persoon als bedoeld in het eerste of derde lid, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingplicht geldt, zijn verplicht tot geheimhouding van de gegevens als bedoeld in het eerste of derde lid, behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat. 
 6. Bij ministeriële regeling kan worden bepaald:
@@ -540,7 +540,7 @@ c.volgens welke technische standaarden gegevensverwerking plaatsvindt;
 
 d.aan welke beveiligingseisen gegevensverwerking voldoet;
 
-e.in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden verwerkt met het oog op de uitvoering van deze wet, een zorgverzekering als bedoeld in de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of een aanvullende ziektekostenverzekering, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde voor een aanvullende verzekering en bovendien noodzakelijk zijn voor:
+e.in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden verwerkt met het oog op de uitvoering van deze wet, een zorgverzekering als bedoeld in de Zorgverzekeringswet of een aanvullende ziektekostenverzekering, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde voor een aanvullende verzekering en bovendien noodzakelijk zijn voor:
 
 1°.de betaling aan een zorgaanbieder of de vergoeding van zorgkosten aan een verzekerde,
 
@@ -552,14 +552,14 @@ e.in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden 
 
 ### Artikel 54  
 
-1. Een ieder verstrekt op verzoek aan de zorgverzekeraars, het Zorginstituut, de zorgautoriteit, Onze Minister, de rijksbelastingdienst, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders, Onze Minister van Sociale Zaken en Werkgelegenheid, een indicatieorgaan als bedoeld in artikel 9a, eerste lid, het CAK, of aan een daartoe door of vanwege een van deze zorgverzekeraars of instanties of door Onze Minister aangewezen persoon kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die noodzakelijk zijn voor de uitvoering van deze wet. 
+1. Een ieder verstrekt op verzoek aan de zorgverzekeraars, het Zorginstituut, de zorgautoriteit, Onze Minister, de rijksbelastingdienst, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders, Onze Minister van Sociale Zaken en Werkgelegenheid, een indicatieorgaan als bedoeld in artikel 9a, eerste lid, het CAK, of aan een daartoe door of vanwege een van deze zorgverzekeraars of instanties of door Onze Minister aangewezen persoon kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van deze wet. 
 2. De in het eerste lid bedoelde gegevens en inlichtingen worden op verzoek verstrekt in schriftelijke vorm of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een termijn die schriftelijk wordt gesteld bij het in het eerste lid bedoelde verzoek. 
 3. Een ieder geeft op verzoek van een rechtspersoon als bedoeld in het eerste lid, inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover dit noodzakelijk is voor de uitvoering van deze wet door de desbetreffende zorgverzekeraars of instanties. 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede of derde lid.
 
 ### Artikel 55  
 
-1. De in artikel 54, eerste lid, bedoelde zorgverzekeraars, instanties en personen zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet. 
+1. De in artikel 54, eerste lid, bedoelde zorgverzekeraars, instanties en personen zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet. 
 2. Een zorgverzekeraar en het CAK verlenen op verzoek van het Zorginstituut dan wel van de zorgautoriteit aan door het desbetreffende instituut aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover het desbetreffende instituut dit nodig acht voor de uitoefening van zijn taak. 
 3.  Onze Minister is bevoegd zorgverzekeraars en zorgaanbieders, ter handhaving van het bepaalde bij of krachtens het eerste lid, een aanwijzing te geven betreffende de verstrekking van gegevens die het CAK voor de uitvoering van zijn taak, bedoeld in artikel 49, aanhef en onderdeel a, nodig heeft.   
 4.  Indien een zorgverzekeraar of een zorgaanbieder niet binnen vier weken aan een aanwijzing als bedoeld in het derde lid voldoet, is Onze Minister bevoegd een last onder dwangsom op te leggen.  
@@ -570,12 +570,12 @@ e.in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden 
 ### Artikel 56  
 
 1. De zorgautoriteit, onderscheidenlijk het Zorginstituut, kan na overleg met het Zorginstituut, onderscheidenlijk de zorgautoriteit, bij regeling bepalen welke gegevens en inlichtingen regelmatig door de zorgverzekeraars en het CAK moeten worden verstrekt. 
-2. De regels kunnen mede omvatten het tijdstip en de wijze waarop de gegevens en inlichtingen moeten worden verstrekt, alsmede dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de juistheid van de verstrekte gegevens en inlichtingen bevestigt. 
+2. De regels kunnen mede omvatten het tijdstip en de wijze waarop de gegevens en inlichtingen moeten worden verstrekt, alsmede dat een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek de juistheid van de verstrekte gegevens en inlichtingen bevestigt. 
 3. Bij ministeriële regeling kan worden bepaald welke statistische gegevens de zorgverzekeraars en het CAK verzamelen betreffende vormen van zorg.
 
 ### Artikel 57  
 
-1. Het Zorginstituut en de zorgautoriteit verstrekken desgevraagd aan Onze Minister of aan het College bouw of het College sanering, genoemd in [artikel 19](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) respectievelijk [32 van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), de voor de uitoefening van hun taak benodigde inlichtingen en gegevens. 
+1. Het Zorginstituut en de zorgautoriteit verstrekken desgevraagd aan Onze Minister of aan het College bouw of het College sanering, genoemd in artikel 19 respectievelijk 32 van de Wet toelating zorginstellingen, de voor de uitoefening van hun taak benodigde inlichtingen en gegevens. 
 2. Het Zorginstituut en de zorgautoriteit verlenen aan door Onze Minister of door een bestuursorgaan, bedoeld in het eerste lid, aangewezen personen toegang tot en inzage in zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
 ### Artikel 57a  
@@ -593,18 +593,18 @@ d.de financiering van het gebruik van de infrastructuur en de wijze waarop de ko
 
 ### Artikel 57b  
 
-1. Het is een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [titel 5.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn verstrekt of verkregen of van De Nederlandsche Bank N.V. of de Stichting Autoriteit Financiële Markten zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of bij of krachtens deze wet wordt geëist. 
+1. Het is een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge titel 5.2 van de Algemene wet bestuursrecht zijn verstrekt of verkregen of van De Nederlandsche Bank N.V. of de Stichting Autoriteit Financiële Markten zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of bij of krachtens deze wet wordt geëist. 
 2. In afwijking van het eerste lid kunnen de zorgautoriteit en het Zorginstituut met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van hun taken op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen of ondernemingen. 
-3. In afwijking van het eerste lid en in overeenstemming met [artikel 1:89 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn de zorgautoriteit, het Zorginstituut, De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten, voor zover dat voor hun taakuitoefening noodzakelijk is, bevoegd aan elkaar en aan Onze Minister vertrouwelijk gegevens of inlichtingen omtrent afzonderlijke verzekeraars te verschaffen. 
+3. In afwijking van het eerste lid en in overeenstemming met artikel 1:89 van de Wet op het financieel toezicht zijn de zorgautoriteit, het Zorginstituut, De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten, voor zover dat voor hun taakuitoefening noodzakelijk is, bevoegd aan elkaar en aan Onze Minister vertrouwelijk gegevens of inlichtingen omtrent afzonderlijke verzekeraars te verschaffen. 
 4. Het eerste lid laat, ten aanzien van degene op wie dat lid van toepassing is, onverlet:
 
-a.de toepasselijkheid van de bepalingen van het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) welke betrekking hebben op het als getuige of deskundige in strafzaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van de ingevolge deze wet opgedragen taak;
+a.de toepasselijkheid van de bepalingen van het Wetboek van Strafvordering welke betrekking hebben op het als getuige of deskundige in strafzaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van de ingevolge deze wet opgedragen taak;
 
-b.de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en van [artikel 66 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voor zover het gaat om gegevens of inlichtingen omtrent een verzekeraar die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden;
+b.de toepasselijkheid van de bepalingen van het Wetboek van Burgerlijke Rechtsvordering en van artikel 66 van de Faillissementswet welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voor zover het gaat om gegevens of inlichtingen omtrent een verzekeraar die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden;
 
-c.de bevoegdheden van de Algemene Rekenkamer ingevolge [artikel 91 van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md). 
+c.de bevoegdheden van de Algemene Rekenkamer ingevolge artikel 91 van de Comptabiliteitswet 2001. 
 5. Het vierde lid, onderdeel b, geldt niet voor gegevens of inlichtingen die betrekking hebben op verzekeraars die betrokken zijn of zijn geweest bij een poging de desbetreffende verzekeraar in staat te stellen zijn bedrijf voort te zetten. 
-6. De Algemene Rekenkamer is bij het doen van mededelingen als bedoeld in [artikel 91, elfde tot en met veertiende lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), verplicht tot geheimhouding, voor zover het betreft gegevens en inlichtingen die haar ingevolge het vierde lid, onderdeel c, bekend zijn geworden.
+6. De Algemene Rekenkamer is bij het doen van mededelingen als bedoeld in artikel 91, elfde tot en met veertiende lid, van de Comptabiliteitswet 2001, verplicht tot geheimhouding, voor zover het betreft gegevens en inlichtingen die haar ingevolge het vierde lid, onderdeel c, bekend zijn geworden.
 
 ### Hoofdstuk VIIIA 
 
@@ -628,11 +628,11 @@ b. aan het bezwaar volledig tegemoet wordt gekomen, of
 
 c. het Zorginstituut geen advies heeft uitgebracht binnen de in het vierde lid genoemde termijn of heeft medegedeeld geen advies te zullen uitbrengen.      
 4.  Het Zorginstituut brengt een advies als bedoeld in het eerste lid uit binnen tien weken na ontvangst van alle gegevens en bescheiden die voor de beoordeling van het verzoek noodzakelijk zijn, en zendt gelijktijdig afschrift daarvan aan de belanghebbende.    
-5.  Indien het Zorginstituut is verzocht advies uit te brengen, wordt de beslissing op bezwaar in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genomen binnen een en twintig weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.   
+5.  Indien het Zorginstituut is verzocht advies uit te brengen, wordt de beslissing op bezwaar in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht genomen binnen een en twintig weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.   
 
 ### Artikel  59  
 
-Het beroep en het hoger beroep inzake een geschil van uitsluitend geneeskundige aard wordt behandeld met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Het beroep en het hoger beroep inzake een geschil van uitsluitend geneeskundige aard wordt behandeld met toepassing van afdeling 8.2.3 van de Algemene wet bestuursrecht.  
 
 ### Artikel  61  
 
@@ -667,12 +667,12 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 ### Artikel  65c  
 
 1.  Indien de verzekerde in dienstbetrekking werkzaam is, geldt artikel 65b, ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte persoon, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wie naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien het feit als genoemd in artikel 65a is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk persoon.   
-2.  Voor de toepassing van het eerste lid wordt mede als werkgever beschouwd de inlener, bedoeld in [artikel 34 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).  
+2.  Voor de toepassing van het eerste lid wordt mede als werkgever beschouwd de inlener, bedoeld in artikel 34 van de Invorderingswet 1990.  
 
 ### Artikel  65d  
 
 1.  Een zorgverzekeraar kan van hem, die, zonder daartoe gerechtigd te zijn, opzettelijk aanspraken als verzekerde bij hem doet gelden onderscheidenlijk deed gelden, alsmede van hem, die daaraan opzettelijk zijn medewerking verleent onderscheidenlijk heeft verleend, geheel of gedeeltelijk het bedrag vorderen van de zorg of van de vergoedingen die hem te veel of ten onrechte zijn verleend. Voorzover de geldswaarde van de in de eerste volzin bedoelde zorg niet vaststaat, kan deze worden vastgesteld op een geschat bedrag.  
-2. Het besluit tot terugvordering levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). 
+2. Het besluit tot terugvordering levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering. 
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende de in het eerste lid bedoelde terugvordering.  
 
 ### Hoofdstuk  X  
@@ -693,7 +693,7 @@ Overtreding van het bepaalde bij of krachtens een algemene maatregel van bestuur
 
 ### Artikel  73  
 
-1.  Met de opsporing van feiten die zijn strafbaar gesteld bij of krachtens deze wet, alsmede, voor zover het feit voor de toepassing van deze wet van belang is, van de feiten omschreven in de [artikelen 225 tot en met 227b](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [447c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [447d van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren, aangewezen bij besluit van Onze Minister en Onze Minister van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van feiten die zijn strafbaar gesteld bij of krachtens deze wet, alsmede, voor zover het feit voor de toepassing van deze wet van belang is, van de feiten omschreven in de artikelen 225 tot en met 227b, 447c en 447d van het Wetboek van Strafrecht zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren, aangewezen bij besluit van Onze Minister en Onze Minister van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  74  
@@ -711,7 +711,7 @@ De in de artikelen 68, 68a en 71 bedoelde strafbare feiten zijn overtredingen.
 ### Artikel  76a  
 
 1.  De voordracht tot het vaststellen van een algemene maatregel van bestuur als bedoeld in de artikel 5, derde en vierde lid, en artikel 6, wordt gedaan door Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.    
-2.   Indien een algemene maatregel van bestuur, bedoeld in artikel 6, geen zodanige invloed heeft op de geldelijke omvang van de verstrekkingen dat zulks verhoging of verlaging van de in [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde premies tot gevolg heeft, zal, in afwijking van het eerste lid, een voordracht tot het vaststellen daarvan worden gedaan door Onze Minister.   
+2.   Indien een algemene maatregel van bestuur, bedoeld in artikel 6, geen zodanige invloed heeft op de geldelijke omvang van de verstrekkingen dat zulks verhoging of verlaging van de in artikel 11, derde lid, van de Wet financiering sociale verzekeringen bedoelde premies tot gevolg heeft, zal, in afwijking van het eerste lid, een voordracht tot het vaststellen daarvan worden gedaan door Onze Minister.   
 
 ### Artikel  77  
 

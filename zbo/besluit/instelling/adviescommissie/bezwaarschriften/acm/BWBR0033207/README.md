@@ -3,14 +3,14 @@
 ##Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200835, tot instelling van een Adviescommissie bezwaarschriften (Besluit instelling Adviescommissie bezwaarschriften ACM)
 
 De Autoriteit Consument en Markt,  
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [artikel 42, eerste en tweede lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md) en [artikel 92, eerste lid, van de Mededingingswet](../../../../../../../wet/mededingingswet/BWBR0008691/README.md);
+Gelet op artikel 7:13 van de Algemene wet bestuursrecht, artikel 42, eerste en tweede lid, van de Instellingswet Autoriteit Consument en Markt en artikel 92, eerste lid, van de Mededingingswet;
 Besluit:    
 
 ### Artikel  1  
 
 In dit besluit wordt verstaan onder: 
 
-a.  *ACM:* de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+a.  *ACM:* de Autoriteit Consument en Markt als bedoeld in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 b.  *bezwaarde:* de natuurlijke of rechtspersoon die een bezwaarschrift heeft ingediend;  
 
@@ -19,7 +19,7 @@ c.  *commissie:* Adviescommissie bezwaarschriften ACM.
 ### Artikel  2  
 
 1.  Er is een Adviescommissie bezwaarschriften ACM.   
-2.  De commissie heeft tot taak ACM te adviseren over de te nemen besluiten op haar door ACM voorgelegde bezwaarschriften tegen beschikkingen genoemd in [artikel 92, eerste lid, van de Mededingingswet](../../../../../../../wet/mededingingswet/BWBR0008691/README.md).  
+2.  De commissie heeft tot taak ACM te adviseren over de te nemen besluiten op haar door ACM voorgelegde bezwaarschriften tegen beschikkingen genoemd in artikel 92, eerste lid, van de Mededingingswet.  
 
 ### Artikel  3  
 
@@ -40,8 +40,8 @@ De commissie wordt bijgestaan door een door ACM aan te wijzen secretaris, niet z
 
 ### Artikel  6  
 
-1.  De commissie beslist over de toepassing van [artikel 7:6, tweede en vierde lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Onverminderd [artikel 7:8 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de commissie daarvoor in aanmerking komende derden oproepen voor het verkrijgen van inlichtingen die zij behoeft.  
+1.  De commissie beslist over de toepassing van artikel 7:6, tweede en vierde lid, van de Algemene wet bestuursrecht.   
+2.  Onverminderd artikel 7:8 van de Algemene wet bestuursrecht kan de commissie daarvoor in aanmerking komende derden oproepen voor het verkrijgen van inlichtingen die zij behoeft.  
 
 ### Artikel  7  
 
@@ -51,12 +51,12 @@ De commissie wordt bijgestaan door een door ACM aan te wijzen secretaris, niet z
 
 ### Artikel  8  
 
-De bezwaarschriften die voor de inwerkingtreding van dit besluit zijn voorgelegd aan de Adviescommissie bezwaarschriften Mededingingswet, ingesteld bij het [Besluit tot instelling Adviescommissie bezwaarschriften Mededingingswet](../../../../../../../zbo/besluit/tot/instelling/adviescommissie/bezwaarschriften/etc/BWBR0033445/README.md), en waarover nog geen advies over de te nemen beslissing op bezwaar is uitgebracht, worden geacht te zijn voorgelegd aan de Adviescommissie bezwaarschriften ACM. 
+De bezwaarschriften die voor de inwerkingtreding van dit besluit zijn voorgelegd aan de Adviescommissie bezwaarschriften Mededingingswet, ingesteld bij het Besluit tot instelling Adviescommissie bezwaarschriften Mededingingswet, en waarover nog geen advies over de te nemen beslissing op bezwaar is uitgebracht, worden geacht te zijn voorgelegd aan de Adviescommissie bezwaarschriften ACM. 
 
 ### Artikel  9  
 
-1.  Het [Besluit tot instelling Adviescommissie bezwaarschriften Mededingingswet](../../../../../../../zbo/besluit/tot/instelling/adviescommissie/bezwaarschriften/mededingingswet/BWBR0033275/README.md) (Stcrt. 1998, nr. 146, laatst gewijzigd in Stcrt. 2007, nr. 234) en het [Besluit tot instelling Adviescommissie bezwaarschriften Consumentenautoriteit](../../../../../../../zbo/besluit/tot/instelling/adviescommissie/bezwaarschriften/etc/BWBR0033445/README.md) (Stcrt. 2007, nr. 224) worden ingetrokken.   
-2.  Bezwaarschriften gericht tegen besluiten op grond van [artikel 2.9, eerste lid, van de Wet handhaving consumentenbescherming](../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) die zijn genomen voor 1 april 2013 worden behandeld op basis van het [Besluit tot instelling Adviescommissie bezwaarschriften Consumentenautoriteit](../../../../../../../zbo/besluit/tot/instelling/adviescommissie/bezwaarschriften/etc/BWBR0033445/README.md).  
+1.  Het Besluit tot instelling Adviescommissie bezwaarschriften Mededingingswet (Stcrt. 1998, nr. 146, laatst gewijzigd in Stcrt. 2007, nr. 234) en het Besluit tot instelling Adviescommissie bezwaarschriften Consumentenautoriteit (Stcrt. 2007, nr. 224) worden ingetrokken.   
+2.  Bezwaarschriften gericht tegen besluiten op grond van artikel 2.9, eerste lid, van de Wet handhaving consumentenbescherming die zijn genomen voor 1 april 2013 worden behandeld op basis van het Besluit tot instelling Adviescommissie bezwaarschriften Consumentenautoriteit.  
 
 ### Artikel  10  
 

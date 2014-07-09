@@ -5,7 +5,7 @@
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 Overwegende dat het noodzakelijk is dat met betrekking tot de besteding van de gelden die voor de periode van 1 januari 2014 tot en met 31 december 2020 uit het Europees Sociaal Fonds aan Nederland worden toegewezen ter verwezenlijking van de strategie van de Europese Unie voor slimme, duurzame en inclusieve groei, bedoeld in artikel 4, eerste lid, van Verordening (EU) Nr. 1303/2013 van het Europees Parlement en de Raad van de Europese Unie van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van Verordening (EG) nr. 1083/2006 van de Raad (PbEU 2013, L 347), nadere regels worden gesteld in het verlengde van en met inachtneming van die verordening, alsmede Verordening (EU) nr. 1304/2013 van het Europees Parlement en de Raad van Europese Unie van 17 december 2013 betreffende het Europees Sociaal Fonds en tot intrekking van de Verordening (EG) nr. 1081/2006 van de Raad (PbEU 2013, L 347);
 
-Gelet op [artikel 3, eerste en vierde lid](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), [artikel 5](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en [artikel 8, eerste lid, van de Kaderwet SZW-subsidies](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
+Gelet op artikel 3, eerste en vierde lid, artikel 5 en artikel 8, eerste lid, van de Kaderwet SZW-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats aanspraak heeft op een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en naar het oordeel van dat college een lichamelijke, verstandelijke, psychische of psychosociale beperking heeft;  
+* *Adviseur investeringsprioriteit B:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van duurzame inzetbaarheid;
+
+*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats aanspraak heeft op een uitkering op grond van de Wet werk en bijstand en naar het oordeel van dat college een lichamelijke, verstandelijke, psychische of psychosociale beperking heeft; 
+
+* *Arbeidsorganisatie:* een onderneming als bedoeld in artikel 5, onderdelen a, b en d, van de Handelsregisterwet 2007 waarin door werknemers arbeid wordt verricht; 
 
 *  *brutoloon:* bruto salaris, inclusief eindejaarsuitkering of een beloning in de vorm van een dertiende maand, zijnde een vast bedrag of vastgesteld percentage van het salaris, dat werknemers als extra loon ontvangen, voor zover dit is geregeld in de geldende CAO of arbeidsovereenkomst, exclusief vakantiegeld, exclusief (overige) vergoedingen, bijzondere beloningen, winst- of prestatieafhankelijke uitkeringen en aanvullende werkgeverslasten. Het brutoloon kan worden verhoogd met de ploegentoeslag of inconveniëntentoeslag indien dit in de CAO is geregeld;  
 
@@ -28,11 +32,11 @@ In deze regeling wordt verstaan onder:
 
 *  *externe kosten projectcoördinatie en -administratie:* kosten die in rekening gebracht worden door derden en direct te relateren zijn aan het beheer van het project;  
 
-*  *gedetineerde:* een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in een justitiële inrichting plaatsvindt of ten aanzien van wie een bevel tot verpleging van overheidswege is gegeven als bedoeld in [artikel 37b](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38c van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+*  *gedetineerde:* een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in een justitiële inrichting plaatsvindt of ten aanzien van wie een bevel tot verpleging van overheidswege is gegeven als bedoeld in artikel 37b of 38c van het Wetboek van Strafrecht;  
 
-*  *IOAW:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+*  *IOAW:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-*  *IOAZ:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+*  *IOAZ:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
 *  *jongere:* een persoon jonger dan 28 jaar;  
 
@@ -40,13 +44,15 @@ In deze regeling wordt verstaan onder:
 
 *  *minister:* de minister van Sociale Zaken en Werkgelegenheid;  
 
-*  *niet-uitkeringsontvanger:* de persoon jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), die als werkloze werkzoekende staat geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen en die geen uitkering ontvangt of arbeidsondersteuning op grond van enige sociale zekerheidswet;  
+*  *niet-uitkeringsontvanger:* de persoon jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid van de Algemene Ouderdomswet, die als werkloze werkzoekende staat geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen en die geen uitkering ontvangt of arbeidsondersteuning op grond van enige sociale zekerheidswet; 
+
+**O&O-fonds:* een opleidings- en ontwikkelingsfonds, opgericht bij een bij de minister aangemelde collectieve arbeidsovereenkomst; 
 
 *  *Operationeel Programma:* het Operationeel Programma ESF 2014–2020;  
 
 *  *plaatsingssubsidie:* subsidie verstrekt aan een werkgever die met een persoon, als bedoeld in artikel A4, A13 en A21, een (tijdelijke) arbeidsovereenkomst sluit, of een leerwerkovereenkomst dan wel een stageovereenkomst met een looptijd van tenminste drie maanden niet zijnde een loonkostensubsidie als bedoeld in artikel 10d Participatiewet. Waarbij in het geval van een loonkostensubsidie maximaal het daadwerkelijk betaalde brutoloon vermeerderd met een opslag van 32% van het brutoloon subsidiabel is;  
 
-*  *praktijkonderwijs:* het onderwijs, bedoeld in [artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*  *praktijkonderwijs:* het onderwijs, bedoeld in artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs;  
 
 *  *project:* een samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in artikel 4;  
 
@@ -58,34 +64,34 @@ In deze regeling wordt verstaan onder:
 
 *  *subproject:* een op zichzelf staand onderdeel van een project;  
 
-*  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+*  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 *  *VNG:* Vereniging Nederlandse Gemeenten;  
 
 *  *Verordening:* Verordening (EU) nr. 1303/2013 van het Europees Parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij en tot intrekking van Verordening (EG) nr. 1083/2006 van de Raad en Verordening (EU) nr. 1304/2013 van het Europees Parlement en de Raad van Europese Unie van 17 december 2013 betreffende het Europees Sociaal Fonds en tot intrekking van de Verordening (EG) nr. 1081/2006 van de Raad (PbEU 2013, L 347);  
 
-*  *voortgezet speciaal onderwijs:* het onderwijs dat wordt gegeven op een school of instelling waaraan voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd;  
+*  *voortgezet speciaal onderwijs:* het onderwijs dat wordt gegeven op een school of instelling waaraan voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd;  
 
-*  *Wajong-uitkering:* uitkering op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+*  *Wajong-uitkering:* uitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-*  *WAO-uitkering:* uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+*  *WAO-uitkering:* uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;  
 
 *  *werkloze werkzoekende:* persoon zonder werk, of met werk voor minder dan twaalf uur per week, die actief op zoek is naar betaald werk voor twaalf uur of meer per week en die daarvoor direct beschikbaar is;  
 
-*  *WIA-uitkering:* uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+*  *WIA-uitkering:* uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;  
 
-*  *WWB-uitkering:* uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+*  *WWB-uitkering:* uitkering op grond van de Wet werk en bijstand;  
 
-*  *ZW-uitkering:* uitkering op grond van de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);  
+*  *ZW-uitkering:* uitkering op grond van de Ziektewet;  
 
-*  *55-plusser:* een persoon van 55 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
+*  *55-plusser:* een persoon van 55 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
 
 ### Artikel  2  
 
 ####Inleidende bepaling
 
 1.  De minister verstrekt, overeenkomstig deze regeling, subsidie aan de nader krachtens deze regeling aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het programma Europees Sociaal Fonds, zoals uitgewerkt in het Operationeel Programma. De minister neemt daarbij de Verordening in acht.   
-2.  De [Algemene Regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is niet van toepassing op de subsidieverlening krachtens deze regeling.   
+2.  De Algemene Regeling SZW-subsidies is niet van toepassing op de subsidieverlening krachtens deze regeling.   
 3.  Indien de Europese Commissie op het tijdstip van subsidieverlening nog niet heeft ingestemd met het Operationeel Programma, wordt de subsidie, bedoeld in het eerste lid, verleend onder de voorwaarde dat de Europese Commissie instemt met dat Operationeel Programma.   
 4.  In geval van het niet vervullen van de voorwaarde, bedoeld in het derde lid, kan de minister de subsidieverlening aanpassen aan het gewijzigde Operationeel Programma, dat de instemming van de Europese Commissie heeft verkregen.   
 5.  De bepalingen in de bijlagen gelden in aanvulling op hetgeen in het algemeen deel van de regeling is vastgelegd. Voor zover de bepalingen uit de bijlagen in tegenspraak zijn met bepalingen uit het algemeen deel van de regeling, prevaleren de bepalingen in de bijlagen boven de bepalingen in het algemeen deel in de regeling.  
@@ -162,7 +168,7 @@ e. een beschrijving van de benodigde en beschikbare operationele en financiële 
 1.  De minister verleent de subsidie aan de subsidieaanvrager.   
 2.  De minister verleent de subsidie voor het verrichten van het project, zoals vastgelegd in de bij de subsidieaanvraag gevoegde projectbeschrijving.   
 3.  De beschikking vermeldt de periode, de totale subsidiabele kosten alsmede het maximumbedrag van de subsidie. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in artikel 12 genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.   
-4.  Onverminderd [artikel 4:37 Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen aan de beschikking tot verlening van subsidie verplichtingen worden verbonden.   
+4.  Onverminderd artikel 4:37 Algemene wet bestuursrecht kunnen aan de beschikking tot verlening van subsidie verplichtingen worden verbonden.   
 5.  In de beschikking kunnen voorwaarden worden opgenomen waaronder de subsidie wordt verleend.  
 
 ### Artikel  10  
@@ -232,7 +238,7 @@ a. onredelijk of niet noodzakelijk gemaakte kosten voor uitvoering van het proje
 
 b. kosten van het project die qua prijsniveau niet in een redelijke verhouding staan tot de overeengekomen prestaties of hetgeen gebruikelijk is;  
 
-c. loonkosten van een persoon die werkzaam is in een dienstbetrekking op grond van de [Wet sociale werkvoorziening](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md);  
+c. loonkosten van een persoon die werkzaam is in een dienstbetrekking op grond van de Wet sociale werkvoorziening;  
 
 d. loonverletkosten;  
 
@@ -284,8 +290,8 @@ g. dezelfde kosten die reeds uit hoofde van nationale subsidieprogramma’s word
 ####Einddeclaratie en subsidievaststelling
 
 1.  De subsidieontvanger dient binnen dertien weken na beëindiging van het project een verzoek tot vaststelling van de subsidie in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt een verantwoording en een einddeclaratie gevoegd. De subsidieontvanger verstrekt bij de einddeclaratie het burgerservicenummer van de deelnemers aan het project.   
-2.  Het verzoek tot vaststelling wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.   
-3.  Indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan 60% van het verleende subsidiebedrag, genoemd in de laatst afgegeven beschikking tot verlening, is gerealiseerd, wordt het maximale subsidiepercentage, bedoeld in artikel 11 eerste lid, vastgesteld op 40%.   
+2.  Het verzoek tot vaststelling wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.  
+3. Indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan 60% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximale subsidiepercentage, bedoeld in artikel 11, eerste lid, vastgesteld op 40%.  
 4.  De minister betaalt binnen negentig dagen nadat het verzoek tot vaststelling van de subsidie is ontvangen, de op dat moment bekende verschuldigde subsidie.   
 5.  De betaling van het bedrag, genoemd in het vierde lid, kan worden opgeschort indien: 
 
@@ -318,7 +324,7 @@ Door het indienen van een aanvraag stemt de subsidieontvanger er mee in dat het 
 
 ####Intrekking en terugvordering
 
-1.  Onverminderd het bepaalde in [afdeling 4.2.6 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een beschikking tot subsidieverlening door de minister geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd: 
+1.  Onverminderd het bepaalde in afdeling 4.2.6 van de Algemene wet bestuursrecht kan een beschikking tot subsidieverlening door de minister geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd: 
 
 a. indien het project wordt uitgevoerd in afwijking van de projectbeschrijving, voor zover de subsidieverlening daarop was gebaseerd;  
 
@@ -356,7 +362,9 @@ J. Klijnsma.
 
 ####Specifieke bepalingen voor subsidie aanvragen per investeringsprioriteit
 
-####Investeringsprioriteit A. Bevordering van sociale inclusie en bestrijding van armoede en discriminatie
+### Investeringsprioriteit A 
+
+####: Actieve inclusie, mede met het oog op bevordering van gelijke kansen en actieve participatie, en het verbeteren van de inzetbaarheid
 
 ### Artikel  A1  
 
@@ -368,13 +376,13 @@ a. het college van burgemeester en wethouders van een centrumgemeente als bedoel
 
 b. het UWV;  
 
-c. de minister van Veiligheid en Justitie, en indien nodig, mede namens de Minister van Volksgezondheid Welzijn en Sport.    
+c. de minister van Veiligheid en Justitie.    
 
 2. Op aanvragen als bedoeld in het eerste lid, onderdeel a, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in hoofdstuk I van deze bijlage van toepassing. Op aanvragen als bedoeld in het eerste lid, onderdeel b, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in Hoofdstuk II van deze bijlage van toepassing. Op aanvragen als bedoeld in het eerste lid, onderdeel c, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in Hoofdstuk III van deze bijlage van toepassing. Op aanvragen als bedoeld in artikel 4, onderdeel b, zijn in aanvulling op het algemeen deel van de regeling de bepalingen in hoofdstuk IV van deze bijlage van toepassing.   
 
 ####Hoofdstuk I. Centrumgemeenten
 
-### Artikel  A1  
+### Artikel  A2  
 
 ####Aanvraagtijdvak
 
@@ -394,13 +402,13 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 a. niet-uitkeringsontvangers;  
 
-b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [IOAW](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [IOAZ](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) dan wel personen met een recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de Wet werk en inkomen naar arbeidsvermogen, Wet op de arbeidsongeschiktheidsverzekering, Wet arbeidsongeschiktheidsverzekering zelfstandigen, Wet werk en arbeidsondersteuning jonggehandicapten, IOAW, IOAZ en Ziektewet dan wel personen met een recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
 c. 55-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ-uitkering, of een uitkering van het UWV;  
 
 d. jongeren;  
 
-e. personen die een WWB-uitkering, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV ontvangen en in de twaalf maanden voorafgaand aan hun deelname aan een project deze uitkering(en) in totaal zes maanden of langer hebben ontvangen;  
+e. personen die algemene bijstand op grond van de WWB, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV ontvangen en in de twaalf maanden voorafgaand aan hun deelname aan een project deze uitkering(en) in totaal zes maanden of langer hebben ontvangen;  
 
 f. leerlingen, die vijftien jaar of ouder zijn en die geïndiceerd zijn voor, en ingeschreven staan bij een school voor voortgezet speciaal onderwijs dan wel praktijkonderwijs, alsmede leerlingen die vijftien jaar of ouder zijn en die in de periode 24 maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project, ingeschreven hebben gestaan bij een dergelijke school, en in aanvulling op het regulier onderwijs ondersteuning nodig hebben of die na het verlaten van de school begeleiding nodig hebben ten behoeve van arbeidsintegratie.    
 
@@ -454,7 +462,7 @@ c. activiteiten direct gericht op het vergroten van de mogelijkheden tot arbeids
 
 1. De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.  
 
-2. Indien uit de voortgangsrapportage, bedoeld in het eerste lid, blijkt dat na twaalf maanden minder dan 20% is gerealiseerd van het verleende subsidiebedrag, genoemd in de beschikking tot verlening, wordt het verleende subsidiebedrag verlaagd met het bedrag dat niet is gerealiseerd ten opzichte van de eerder genoemde 20%.   
+2. Indien uit de voortgangsrapportage, bedoel in het eerste lid, blijkt dat na twaalf maanden minder dan 20% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximumbedrag van de subsidie verlaagd met het bedrag dat niet daadwerkelijk is gerealiseerd ten opzichte van deze 20% van het maximumbedrag van de subsidie.   
 
 ### Artikel  A9  
 
@@ -468,7 +476,11 @@ In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger di
 
 1. Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van investeringsprioriteit A voor aanvragen, ingediend in de periode van 1 mei 2014 tot en met 31 oktober 2014 per centrumgemeente is vastgelegd in bijlage 3, behorende bij deze regeling.  
 
-2. De minister kan eventuele onderbenutting van het bedrag, bedoeld in artikel A3, herverdelen over subsidieaanvragers die meer hebben gerealiseerd dan het aan hen toegekende bedrag in de bijlage 3, voor zover het totale bedrag in de bijlage 3 niet wordt overschreden.   
+2. De minister kan eventuele onderbenutting van het bedrag, bedoeld in artikel A3, na controle en vaststelling, herverdelen over subsidieaanvragers die meer hebben gerealiseerd dan het aan hen toegekende bedrag in de bijlage 3, voor zover het totale bedrag in de bijlage 3 niet wordt overschreden.  
+
+3. Indien meer subsidieontvangers aanspraak maken op het onbenutte bedrag, bedoeld in het tweede lid, en het totale beschikbare bedrag, genoemd in bijlage 3 niet toereikend is, wordt het onbenutte bedrag naar rato van het percentage van de overrealisatie door een subsidieontvanger op het aan hem toegekende bedrag ten opzichte van de totale overrealisatie van alle subsidieontvangers verdeeld.  
+
+4. De verdeling in het derde lid kan er niet toe leiden dat meer subsidie wordt betaald dan het totale bedrag van de overrealisatie door een subsidieontvanger overeenkomstig de vaststelling van de subsidie. Indien de herverdeling leidt tot een dergelijke situatie, zal de extra subsidie worden vastgesteld op dat bedrag van de overrealisatie, waarna de resterende omvang van het onbenutte bedrag opnieuw wordt verdeeld conform het bepaalde in het derde lid.  
 
 ####Hoofdstuk II. UWV
 
@@ -476,7 +488,7 @@ In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger di
 
 ####Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 oktober 2014, 09.00 uur, tot en met 31 oktober 2014, 17.00 uur. 
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 juni 2015, 09.00 uur, tot en met 30 juni 2015, 17.00 uur. 
 
 ### Artikel  A12  
 
@@ -488,7 +500,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ####Doel en doelgroepen
 
-1. Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van actieve inclusie, gericht op het vergroten van mogelijkheden tot arbeidsinpassing van personen die op het moment van hun start van deelneming aan een project een UWV-uitkering ontvangen dan wel recht hebben op arbeidsondersteuning in het kader van de [WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [ZW ](../../../../../wet/ziektewet/BWBR0001888/README.md)en [Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).  
+1. Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van actieve inclusie, gericht op het vergroten van mogelijkheden tot arbeidsinpassing van personen die op het moment van hun start van deelneming aan een project een UWV-uitkering ontvangen dan wel recht hebben op arbeidsondersteuning in het kader van de WIA, WAO, ZW en Wajong.  
 
 2. Indien sprake is van een persoon die deelneemt aan twee opeenvolgende projecten en deze persoon behoort bij instroom in het eerste project aantoonbaar tot de doelgroep, dan behoort deze persoon ook het opvolgende project tot de doelgroep mits voor deze deelnemer sprake is van een individueel traject dat onafgebroken doorloopt in beide projecten.  
 
@@ -526,7 +538,7 @@ b. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datu
 
 1. De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.  
 
-2. Indien uit de voortgangsrapportage, bedoeld in het eerste lid, blijkt dat na twaalf maanden minder dan 20% is gerealiseerd van het verleende subsidiebedrag genoemd in de beschikking tot verlening, wordt het verleende subsidiebedrag verlaagd met het bedrag dat niet is gerealiseerd ten opzichte van de eerder genoemde 20%.   
+2. Indien uit de voortgangsrapportage, bedoeld in het eerste lid, blijkt dat na twaalf maanden minder dan 20% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximumbedrag van de subsidie verlaagd met het bedrag dat niet daadwerkelijk is gerealiseerd ten opzichte van deze 20% van het maximumbedrag van de subsidie.   
 
 ### Artikel  A18  
 
@@ -534,7 +546,7 @@ b. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datu
 
 In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A17 eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd. 
 
-####Hoofdstuk III. De minister van Veiligheid en Justitie, en indien nodig, mede namens de minister van Volksgezondheid Welzijn en Sport
+####Hoofdstuk III. De Minister van Veiligheid en Justitie
 
 ### Artikel  A19  
 
@@ -552,7 +564,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ####Doel en doelgroep
 
-1. Een project in het kader van dit hoofdstuk heeft tot doel de arbeidsmarktpositie van gedetineerden en jongeren verblijvend in een Justitiële jeugdinrichting dan wel een accommodatie als bedoeld in [hoofdstuk IVb Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) dan wel personen die in de periode twaalf maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project in een gevangenis, tbs-kliniek of jeugdinrichting of een accommodatie als bedoeld in hoofdstuk IVb Wet op de jeugdzorg hebben verbleven, zodanig te verbeteren, dat zij naar werk bemiddelbaar zijn of na detentie direct inpasbaar zijn in een arbeidsmarkt gerelateerd programma of regulier opleidingstraject.  
+1. Een project in het kader van dit hoofdstuk heeft tot doel de arbeidsmarktpositie van gedetineerden en jongeren verblijvend in een Justitiële jeugdinrichting dan wel een accommodatie als bedoeld in hoofdstuk IVb Wet op de jeugdzorg dan wel personen die in de periode twaalf maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project in een gevangenis, tbs-kliniek of jeugdinrichting of een accommodatie als bedoeld in hoofdstuk IVb Wet op de jeugdzorg hebben verbleven, zodanig te verbeteren, dat zij naar werk bemiddelbaar zijn of na detentie direct inpasbaar zijn in een arbeidsmarkt gerelateerd programma of regulier opleidingstraject.  
 
 2. Indien sprake is van een persoon die deelneemt aan twee opeenvolgende projecten en deze persoon behoort bij instroom in het eerste project aantoonbaar tot de doelgroep, dan behoort deze persoon ook het opvolgende project tot de doelgroep mits voor deze deelnemer sprake is van een individueel traject dat onafgebroken doorloopt in beide projecten.  
 
@@ -586,7 +598,119 @@ b. het project een duur heeft van ten hoogste vijftien maanden, gerekend vanaf d
 
 ####Hoofdstuk IV. Sociale innovatie en transnationale samenwerking
 
-*Investeringsprioriteit B. Bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit*   *Investeringsprioriteit C. Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven*  
+### Investeringsprioriteit B 
+
+####Actief en gezond ouder worden
+
+### Hoofdstuk  V  
+
+####Duurzame inzetbaarheid bedrijven/instellingen
+
+### Artikel  B1 
+
+####Subsidieaanvrager
+
+De subsidie met betrekking tot een project in het kader van investeringsprioriteit B als bedoeld in artikel 4, onderdeel c, wordt aangevraagd door een arbeidsorganisatie. 
+
+### Artikel  B2 
+
+####Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 15 oktober 2014, 9.00 uur, tot en met 7 november 2014, 17.00 uur. 
+
+### Artikel  B3 
+
+####Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B2, € 22.000.000,–. 
+
+### Artikel  B4 
+
+####Doel
+
+Een project heeft tot doel het verkrijgen van advies met een implementatieplan, dan wel het begeleiden van de implementatie van een advies, op het terrein van duurzame inzetbaarheid van werknemers. Het project dient een bijdrage te leveren aan het bevorderen van gezond, competent, gemotiveerd en productief werken van indiensttreding tot aan pensionering en is gericht op één of meerdere van onderstaande thema’s of activiteiten: 
+
+– het maken van een bedrijfs- of organisatiescan;  
+
+– het uitvoeren van (periodiek) onderzoek naar duurzame inzetbaarheid van werknemers;  
+
+– het bevorderen van gezond en veilig werken;  
+
+– het bevorderen van een leercultuur voor werknemers;  
+
+– het in dialoog met medewerkers aanpassen van de organisatie van het werk, gericht op het verhogen van de betrokkenheid en productiviteit;  
+
+– het stimuleren van interne en externe mobiliteit van werknemers, waaronder het begeleiden van werknemers naar ondernemerschap;  
+
+– het bevorderen van een flexibele werkcultuur met het oog op het beter kunnen combineren van arbeid en zorg;  
+
+– het invoeren van arbeidstijdenmanagement.   
+
+### Artikel  B5 
+
+####De aanvraag
+
+Per aanvrager wordt slechts één subsidieaanvraag in behandeling genomen. 
+
+### Artikel  B6 
+
+####Specifieke eisen
+
+Een project komt slechts voor subsidie in aanmerking indien: 
+
+a. Het project past binnen het in artikel B4 omschreven doel en een advies met implementatieplan oplevert of een verslag van de implementatie van een advies gericht op een van de thema’s of activiteiten uit artikel B4;  
+
+b. Bij de aanvraag tevens wordt aangetoond dat de aanvrager tenminste twee werknemers in dienst heeft;  
+
+c. De subsidiabele kosten worden gemaakt in een door de minister aangewezen periode. Deze periode start de dag na dagtekening van het besluit tot verlening van de subsidie en eindigt ten hoogste tien maanden daarna;  
+
+d. In het advies met implementatieplan dan wel in het verslag van de begeleiding bij de implementatie van een advies wordt aangegeven op welke wijze de werknemers zijn betrokken bij het project;  
+
+e. Per adviseur drie referenties worden ingediend, afkomstig van drie verschillende opdrachtgevers. Deze hebben betrekking op de kennis en ervaring van de beoogde adviseur op het terrein van duurzame inzetbaarheid. Ter vervanging van bovengenoemde drie referenties per adviseur, kan er ook één referentie van een O&O-fonds worden ingediend. Geen referentie hoeft te worden ingediend wanneer wordt aangetoond dat de beoogde adviseur in dienst is bij een O&O-fonds, dan wel een deskundige persoon is als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet.   
+
+### Artikel  B7 
+
+####Weigering van de subsidie
+
+In aanvulling op artikel 10 wordt geen subsidie verleend aan subsidieaanvragers aan wie op grond van enige andere subsidieregeling voor het project of vergelijkbare doeleinden subsidie is verstrekt. 
+
+### Artikel  B8 
+
+####Subsidiabele kosten
+
+In afwijking van artikel 12 komen slechts voor subsidie in aanmerking de kosten van de door de adviseur werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4: 
+
+a. het opstellen van een advies met implementatieplan;  
+
+b. het begeleiden bij het implementeren van een advies.   
+
+### Artikel  B9 
+
+####Hoogte subsidie
+
+1.  Wanneer de aanvraag aan de eisen van dit hoofdstuk voldoet, verleent de minister een subsidie van maximaal € 10.000,–. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur bepaald op maximaal € 100,– exclusief btw.   
+2.  Voor aan de subsidieaanvrager in rekening gebrachte btw wordt geen subsidie verleend, ook niet wanneer de aanvrager niet btw-plichtig is.  
+
+### Artikel  B10 
+
+####Einddeclaratie en subsidievaststelling
+
+1.  In afwijking van artikel 18, eerste lid, dient de subsidieontvanger binnen vier weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.   
+2.  In afwijking van artikel 18 derde lid wordt het maximale subsidiepercentage bedoeld in artikel 11, eerste lid, vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000 aan subsidiabele kosten is gerealiseerd.   
+3.  Bij het verzoek tot vaststelling van de subsidie wordt het door de adviseur opgestelde advies met implementatieplan of een verslag van de begeleiding van de implementatie van een advies gevoegd en de factuur of facturen van de adviseur(s) en de bijbehorende algemeen aanvaarde betalingsbewijzen.   
+4.  De minister beslist, in afwijking van artikel 18, zesde lid, binnen dertien weken na ontvangst van het verzoek tot vaststelling.  
+
+### Artikel  B11 
+
+####Uitzonderingen op algemeen deel
+
+De artikelen 7, eerste lid, 14 en 17, eerste lid, zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk. 
+
+### Investeringprioriteiten C 
+
+####Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven, met inbegrip van langdurig werklozen personen die ver van de arbeidsmarkt af staan, mede door plaatselijke werkgelegenheidsinitiatieven en ondersteuning van de arbeidsmobiliteit
+
+### Hoofdstuk  VI  
 
 ### Bijlage  2  
 

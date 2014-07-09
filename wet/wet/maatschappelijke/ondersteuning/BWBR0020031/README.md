@@ -54,17 +54,17 @@ i. steunfunctiewerk: activiteiten die het uitvoeren of voorbereiden daarvan, ond
 
 j. Richtlijn 2004/38/EG: Richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) 1612/68 en tot intrekking van Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU L 158); 
 
-j. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); 
+j. het CAK: het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten; 
 
 k.huiselijk geweld: lichamelijk, geestelijk of seksueel geweld of bedreiging daarmee door iemand uit de huiselijke kring;  
 
-l.kindermishandeling: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+l.kindermishandeling: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg;  
 
 m.steunpunt huiselijk geweld: Steunpunt Huiselijk Geweld als bedoeld in artikel 21b;  
 
-n.advies- en meldpunt kindermishandeling: stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van die wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+n.advies- en meldpunt kindermishandeling: stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg bij de uitvoering van de taak, bedoeld in artikel 10, eerste lid, onder e, van die wet;  
 
-o.persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, onderscheidenlijk betrokkene: hetgeen daaronder wordt verstaan in [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).    
+o.persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, onderscheidenlijk betrokkene: hetgeen daaronder wordt verstaan in artikel 1 van de Wet bescherming persoonsgegevens.    
 2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
 a. echtgenoot: geregistreerde partner;  
@@ -130,34 +130,34 @@ d. medemensen te ontmoeten en op basis daarvan sociale verbanden aan te gaan.
 
 ### Artikel  5  
 
-1.  De gemeenteraad stelt bij verordening en met inachtneming van het bepaalde bij of krachtens deze wet regels over de door het college van burgemeester en wethouders te verlenen individuele voorzieningen en over de voorwaarden waaronder personen die een aanspraak hebben op dergelijke voorzieningen recht hebben op het ontvangen van die voorziening in natura, het ontvangen van een financiële tegemoetkoming of een persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+1.  De gemeenteraad stelt bij verordening en met inachtneming van het bepaalde bij of krachtens deze wet regels over de door het college van burgemeester en wethouders te verlenen individuele voorzieningen en over de voorwaarden waaronder personen die een aanspraak hebben op dergelijke voorzieningen recht hebben op het ontvangen van die voorziening in natura, het ontvangen van een financiële tegemoetkoming of een persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964.   
 2.  De verordening, bedoeld in het eerste lid, bevat ten minste de bepaling: 
 
-a. op welke wijze de toegang tot het aanvragen van individuele voorzieningen in samenhang met voorzieningen op het gebied van wonen en zorg als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is geregeld;  
+a. op welke wijze de toegang tot het aanvragen van individuele voorzieningen in samenhang met voorzieningen op het gebied van wonen en zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten is geregeld;  
 
 b. op welke wijze de verkrijging van individuele voorzieningen samenhangend afgestemd op de situatie van de aanvrager worden bepaald.    
 
 ### Artikel  6  
 
-1.  Het college van burgemeester en wethouders biedt personen die aanspraak hebben op een individuele voorziening de keuze tussen het ontvangen van een voorziening in natura of het ontvangen van een hiermee vergelijkbaar en toereikend persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), tenzij hiertegen overwegende bezwaren bestaan.   
+1.  Het college van burgemeester en wethouders biedt personen die aanspraak hebben op een individuele voorziening de keuze tussen het ontvangen van een voorziening in natura of het ontvangen van een hiermee vergelijkbaar en toereikend persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964, tenzij hiertegen overwegende bezwaren bestaan.   
 2.  Indien een persoon gekozen heeft voor een individuele voorziening in natura, dan wordt hem deze voorziening door of namens het college van burgemeester en wethouders verstrekt. Het college van burgemeester en wethouders laat de voorziening in natura zoveel mogelijk door derden verrichten. Indien een derde de voorziening in natura verricht, draagt het college van burgemeester en wethouders er zorg voor dat op de persoon, die de voorziening in natura ontvangt, geen werkgevers- of opdrachtgeversverplichtingen komen te rusten.   
-3.  Het persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt door het college van burgemeester en wethouders als bedrag aan de persoon die aanspraak heeft op een individuele voorziening verstrekt.  
+3.  Het persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964, wordt door het college van burgemeester en wethouders als bedrag aan de persoon die aanspraak heeft op een individuele voorziening verstrekt.  
 
 ### Artikel  6a  
 
-1.  Het college van burgemeester en wethouders licht de personen, bedoeld in artikel 6, eerste lid, vooraf in duidelijke en begrijpelijke bewoordingen in over de gevolgen van de keuze voor een individuele voorziening in natura, een persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), of een financiële tegemoetkoming.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop een persoon als bedoeld in artikel 6, eerste lid, door het college van burgemeester en wethouders geïnformeerd wordt over de keuze die deze persoon heeft tussen de individuele voorziening in natura, een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), of een financiële tegemoetkoming.  
+1.  Het college van burgemeester en wethouders licht de personen, bedoeld in artikel 6, eerste lid, vooraf in duidelijke en begrijpelijke bewoordingen in over de gevolgen van de keuze voor een individuele voorziening in natura, een persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964, of een financiële tegemoetkoming.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop een persoon als bedoeld in artikel 6, eerste lid, door het college van burgemeester en wethouders geïnformeerd wordt over de keuze die deze persoon heeft tussen de individuele voorziening in natura, een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964, of een financiële tegemoetkoming.  
 
 ### Artikel  7  
 
-1.  Op het persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en de financiële tegemoetkomingen is [titel 4.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+1.  Op het persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964 en de financiële tegemoetkomingen is titel 4.2 van de Algemene wet bestuursrecht niet van toepassing.   
 2.  Een persoonsgebonden budget en een financiële tegemoetkoming voor een bouwkundige of woontechnische ingreep in of aan een woonruimte wordt verleend aan de eigenaar van de woonruimte. Artikel 6 is van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
-1.  Een vreemdeling kan voor het verlenen van een individuele voorziening, vrouwenopvang of het verstrekken van een uitkering als bedoeld in artikel 19a slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
-2.  Een vreemdeling kan voor het verlenen van maatschappelijke opvang slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), met uitzondering van de gevallen, bedoeld in artikel 24, tweede lid, van Richtlijn 2004/38/EG.   
-3.  In afwijking van het eerste of het tweede lid kunnen in bij of krachtens algemene maatregel van bestuur te noemen gevallen, zo nodig in afwijking van [artikel 10 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), bij of krachtens die maatregel aan te geven categorieën niet rechtmatig in Nederland verblijvende vreemdelingen, geheel of gedeeltelijk in aanmerking komen voor bij die maatregel aan te geven voorzieningen of voor een uitkering als bedoeld in artikel 19a. Het in aanmerking komen voor een voorziening of uitkering als bedoeld in artikel 19a geeft een vreemdeling geen recht op rechtmatig verblijf.   
+1.  Een vreemdeling kan voor het verlenen van een individuele voorziening, vrouwenopvang of het verstrekken van een uitkering als bedoeld in artikel 19a slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000.   
+2.  Een vreemdeling kan voor het verlenen van maatschappelijke opvang slechts in aanmerking komen indien hij rechtmatig verblijf houdt in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000, met uitzondering van de gevallen, bedoeld in artikel 24, tweede lid, van Richtlijn 2004/38/EG.   
+3.  In afwijking van het eerste of het tweede lid kunnen in bij of krachtens algemene maatregel van bestuur te noemen gevallen, zo nodig in afwijking van artikel 10 van de Vreemdelingenwet 2000, bij of krachtens die maatregel aan te geven categorieën niet rechtmatig in Nederland verblijvende vreemdelingen, geheel of gedeeltelijk in aanmerking komen voor bij die maatregel aan te geven voorzieningen of voor een uitkering als bedoeld in artikel 19a. Het in aanmerking komen voor een voorziening of uitkering als bedoeld in artikel 19a geeft een vreemdeling geen recht op rechtmatig verblijf.   
 4.  In de in het derde lid genoemde maatregel kan worden bepaald dat het college van burgemeester en wethouders zorg draagt voor het verlenen van bij die maatregel aangewezen voorzieningen. 
 
 ### Artikel  9  
@@ -198,7 +198,7 @@ b. indien een derde als bedoeld in het eerste lid beschikt over personeel, hij d
 
 ### Artikel  11  
 
-1.  Het college van burgemeester en wethouders betrekt de ingezetenen van de gemeente en in de gemeente een belang hebbende natuurlijke en rechtspersonen bij de voorbereiding van het beleid betreffende maatschappelijke ondersteuning, op de wijze voorzien in de krachtens [artikel 150 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening.   
+1.  Het college van burgemeester en wethouders betrekt de ingezetenen van de gemeente en in de gemeente een belang hebbende natuurlijke en rechtspersonen bij de voorbereiding van het beleid betreffende maatschappelijke ondersteuning, op de wijze voorzien in de krachtens artikel 150 van de Gemeentewet vastgestelde verordening.   
 2.  Het college van burgemeester en wethouders stelt ingezetenen van de gemeente en in de gemeente belang hebbende natuurlijke en rechtspersonen vroegtijdig in de gelegenheid zelfstandig voorstellen voor het beleid inzake maatschappelijke ondersteuning te doen.   
 3.  Het college van burgemeester en wethouders verschaft informatie die nodig is ter uitvoering van het bepaalde in het eerste en tweede lid.   
 4.  Onverminderd het eerste lid vergewist het college van burgemeester en wethouders zich bij de voorbereiding van het beleid tevens van de belangen en behoeften van ingezetenen die hun belangen en behoeften niet goed kenbaar kunnen maken.  
@@ -217,7 +217,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  12a  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Het college van burgemeester en wethouders draagt zorg voor de organisatie van een advies- en meldpunt huiselijk geweld en kindermishandeling. De artikelen 1.4 en [2.8 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) en de artikelen 9, eerste lid, onderdeel a, 11 en 12 van deze wet zijn daarop van overeenkomstige toepassing.   
+1.  Het college van burgemeester en wethouders draagt zorg voor de organisatie van een advies- en meldpunt huiselijk geweld en kindermishandeling. De artikelen 1.4 en 2.8 van de Jeugdwet en de artikelen 9, eerste lid, onderdeel a, 11 en 12 van deze wet zijn daarop van overeenkomstige toepassing.   
 2.  Het advies- en meldpunt huiselijk geweld en kindermishandeling verstrekt aan degene die een vermoeden van huiselijk geweld of kindermishandeling heeft, desgevraagd advies over de stappen die in verband daarmee kunnen worden ondernomen en verleent daarbij zo nodig ondersteuning.   
 3.  Het advies- en meldpunt huiselijk geweld en kindermishandeling oefent de volgende taken uit:  
 
@@ -247,21 +247,21 @@ Het advies- en meldpunt huiselijk geweld en kindermishandeling verwerkt persoons
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advies- en meldpunt huiselijk geweld en kindermishandeling kan zonder toestemming van degene die het betreft persoonsgegevens uitsluitend verwerken indien dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid.    
-2.  Een advies- en meldpunt huiselijk geweld en kindermishandeling kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld of kindermishandeling kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid.   
+2.  Een advies- en meldpunt huiselijk geweld en kindermishandeling kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld of kindermishandeling kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid.   
 3.  Derden die op grond van een wettelijk voorschrift of op grond van hun ambt of beroep tot geheimhouding zijn verplicht kunnen, zonder toestemming van degene die het betreft, aan een advies- en meldpunt huiselijk geweld en kindermishandeling desgevraagd of uit eigen beweging inlichtingen verstrekken waarover zij beroepshalve beschikken, indien dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
 
 ### Artikel  12d  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Het college van burgemeester en wethouders verstrekt een advies- en meldpunt huiselijk geweld en kindermishandeling op zijn verzoek terstond de algemene gegevens, bedoeld in [artikel 34, eerste lid, onderdeel a, onder 1 tot en met 6 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), die noodzakelijk zijn voor de uitvoering van de taken, bedoeld in artikel 12a, derde lid.   
-2.  In afwijking van [artikel 103, eerste en tweede lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) doet het college van burgemeester en wethouders geen mededeling aan de betrokkene of degene die namens deze daarom verzoekt, over de verstrekking van hem betreffende gegevens uit de gemeentelijke basisadministratie aan het meldpunt, voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling of een redelijk vermoeden daarvan te onderzoeken. Voor de toepassing van [artikel 110 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) heeft het achterwege blijven van een mededeling als hier bedoeld dezelfde gevolgen als het achterwege blijven van een mededeling ingevolge artikel 103, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens.  
+1.  Het college van burgemeester en wethouders verstrekt een advies- en meldpunt huiselijk geweld en kindermishandeling op zijn verzoek terstond de algemene gegevens, bedoeld in artikel 34, eerste lid, onderdeel a, onder 1 tot en met 6 van de Wet gemeentelijke basisadministratie persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de taken, bedoeld in artikel 12a, derde lid.   
+2.  In afwijking van artikel 103, eerste en tweede lid, van de Wet gemeentelijke basisadministratie persoonsgegevens doet het college van burgemeester en wethouders geen mededeling aan de betrokkene of degene die namens deze daarom verzoekt, over de verstrekking van hem betreffende gegevens uit de gemeentelijke basisadministratie aan het meldpunt, voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling of een redelijk vermoeden daarvan te onderzoeken. Voor de toepassing van artikel 110 van de Wet gemeentelijke basisadministratie persoonsgegevens heeft het achterwege blijven van een mededeling als hier bedoeld dezelfde gevolgen als het achterwege blijven van een mededeling ingevolge artikel 103, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens.  
 
 ### Artikel  12e  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Indien aan een advies- en meldpunt huiselijk geweld en kindermishandeling bij de uitoefening van de taken, bedoeld in artikel 12a, derde lid, persoonsgegevens worden verstrekt door een ander dan de betrokkene, brengt hij, in afwijking van [artikel 34, eerste lid, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), de betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
+1.  Indien aan een advies- en meldpunt huiselijk geweld en kindermishandeling bij de uitoefening van de taken, bedoeld in artikel 12a, derde lid, persoonsgegevens worden verstrekt door een ander dan de betrokkene, brengt hij, in afwijking van artikel 34, eerste lid, van de Wet bescherming persoonsgegevens, de betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
 2.  De in het eerste lid genoemde termijn kan door het advies- en meldpunt huiselijk geweld en kindermishandeling telkens met ten hoogste twee weken worden verlengd, voor zover dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid, en dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-3.  In afwijking van [artikel 35 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) kan een advies- en meldpunt huiselijk geweld en kindermishandeling de mededeling, bedoeld in dat artikel, aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
+3.  In afwijking van artikel 35 van de Wet bescherming persoonsgegevens kan een advies- en meldpunt huiselijk geweld en kindermishandeling de mededeling, bedoeld in dat artikel, aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
 4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of kindermishandeling of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.  
 
 ### Artikel  12f  
@@ -275,7 +275,7 @@ a. jonger dan twaalf jaar is, of
 b. de leeftijd van twaalf jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.      
 3.  Indien de betrokkene jonger is dan zestien jaar, of de leeftijd van zestien jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden desgevraagd aan de wettelijke vertegenwoordiger inlichtingen dan wel inzage in of afschrift van het dossier verstrekt, tenzij het belang van de betrokkene zich daartegen verzet.   
 4.  Inlichtingen over, inzage in of afschrift van het dossier kan worden geweigerd, voor zover de persoonlijke levenssfeer van een ander dan de betrokkene daardoor zou worden geschaad dan wel dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid, of om een situatie van huiselijk geweld of kindermishandeling te beëindigen dan wel een redelijk vermoeden daarvan te onderzoeken.   
-5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens [artikel 39 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) gestelde regels.   
+5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens artikel 39 van de Wet bescherming persoonsgegevens gestelde regels.   
 
 ### Artikel  12g  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -287,12 +287,12 @@ a. jonger is dan twaalf jaar, of
 
 b. de leeftijd van twaalf jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.      
 3.  Onder anderen dan de betrokkene zijn niet begrepen degenen van wie beroepshalve de medewerking vereist is bij de uitvoering van de taken, bedoeld in artikel 12a, derde lid, door het advies- en meldpunt huiselijk geweld en kindermishandeling.   
-4.  Bij regeling van Onze Minister, voor zover nodig in overeenstemming met Onze Minister van Veiligheid en Justitie, kunnen regels worden gesteld omtrent de wijze waarop het advies- en meldpunt huiselijk geweld en kindermishandeling gegevens verwerkt en over de uitwisseling van gegevens tussen advies- en meldpunten huiselijk geweld en kindermishandeling onderling en met de raad voor de kinderbescherming, jeugdhulpaanbieders en gecertificeerde instellingen als bedoeld in [artikel 1 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md).  
+4.  Bij regeling van Onze Minister, voor zover nodig in overeenstemming met Onze Minister van Veiligheid en Justitie, kunnen regels worden gesteld omtrent de wijze waarop het advies- en meldpunt huiselijk geweld en kindermishandeling gegevens verwerkt en over de uitwisseling van gegevens tussen advies- en meldpunten huiselijk geweld en kindermishandeling onderling en met de raad voor de kinderbescherming, jeugdhulpaanbieders en gecertificeerde instellingen als bedoeld in artikel 1 van de Jeugdwet.  
 
 ### Artikel  12h  
 Treedt in werking op een nader te bepalen tijdstip 
 
-[Artikel 7.3.12 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling, met dien verstande dat in het eerste lid voor «[artikel 7.3.11, eerste lid](../../../../../wet/jeugdwet/BWBR0034925/README.md),» wordt gelezen «artikel 12g, eerste lid,». 
+Artikel 7.3.12 van de Jeugdwet is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling, met dien verstande dat in het eerste lid voor «artikel 7.3.11, eerste lid,» wordt gelezen «artikel 12g, eerste lid,». 
 
 ### Artikel  12i  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -321,25 +321,25 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  12k  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Hetgeen in de [artikelen 4.1.1](../../../../../wet/jeugdwet/BWBR0034925/README.md), [4.1.4](../../../../../wet/jeugdwet/BWBR0034925/README.md), [4.1.5](../../../../../wet/jeugdwet/BWBR0034925/README.md), [4.1.6](../../../../../wet/jeugdwet/BWBR0034925/README.md), [4.1.8 tot en met 4.2.3](../../../../../wet/jeugdwet/BWBR0034925/README.md), [4.3.1](../../../../../wet/jeugdwet/BWBR0034925/README.md) en [4.3.2 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) is bepaald ten aanzien van de jeugdhulpaanbieder, bedoeld in [artikel 1.1 van die wet](../../../../../wet/jeugdwet/BWBR0034925/README.md), en de verlening van hulp is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling en de uitvoering van de taken als bedoeld in artikel 12a, tweede en derde lid. 
+Hetgeen in de artikelen 4.1.1, 4.1.4, 4.1.5, 4.1.6, 4.1.8 tot en met 4.2.3, 4.3.1 en 4.3.2 van de Jeugdwet is bepaald ten aanzien van de jeugdhulpaanbieder, bedoeld in artikel 1.1 van die wet, en de verlening van hulp is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling en de uitvoering van de taken als bedoeld in artikel 12a, tweede en derde lid. 
 
 ### Artikel  12l  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De [artikelen 7.2.1 tot en met 7.2.6 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) zijn van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling, met dien verstande dat voor «jeugdige» respectievelijk «jeugdhulpaanbieder» of «gecertificeerde instelling» steeds wordt gelezen «betrokkene» respectievelijk «advies- en meldpunt huiselijk geweld en kindermishandeling». 
+De artikelen 7.2.1 tot en met 7.2.6 van de Jeugdwet zijn van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling, met dien verstande dat voor «jeugdige» respectievelijk «jeugdhulpaanbieder» of «gecertificeerde instelling» steeds wordt gelezen «betrokkene» respectievelijk «advies- en meldpunt huiselijk geweld en kindermishandeling». 
 
 ### Artikel  12m  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Het advies- en meldpunt huiselijk geweld en kindermishandeling verstrekt kosteloos gegevens aan het college van burgemeester en wethouders, Onze Minister en aan Onze Minister van Veiligheid en Justitie, ten behoeve van de verwerking, bedoeld in [artikel 7.4.1, eerste en tweede lid, van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md). Deze verstrekking kan zowel een structureel als incidenteel karakter hebben.   
-2.  Op de in het eerste lid bedoelde gegevens is [artikel 7.4.4 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) van overeenkomstige toepassing.   
+1.  Het advies- en meldpunt huiselijk geweld en kindermishandeling verstrekt kosteloos gegevens aan het college van burgemeester en wethouders, Onze Minister en aan Onze Minister van Veiligheid en Justitie, ten behoeve van de verwerking, bedoeld in artikel 7.4.1, eerste en tweede lid, van de Jeugdwet. Deze verstrekking kan zowel een structureel als incidenteel karakter hebben.   
+2.  Op de in het eerste lid bedoelde gegevens is artikel 7.4.4 van de Jeugdwet van overeenkomstige toepassing.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inhoud van de in het eerste lid bedoelde gegevens, de wijze waarop de verstrekking plaatsvindt en de tijdvakken waarop de gegevens betrekking hebben. In die maatregel worden tevens geregeld de termijnen waarbinnen of de tijdstippen waarop de gegevens verstrekt dienen te worden.   
 4.  Bij of krachtens de in het derde lid bedoelde maatregel kan worden bepaald dat het advies- en meldpunt de in het eerste lid bedoelde gegevens op een bij of krachtens die maatregel aangewezen wijze bij Onze Minister en Onze Minister van Veiligheid en Justitie of een door hen aan te wijzen instantie indient.  
 
 ### Artikel  12n  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Hetgeen in de [artikelen 8.3.1](../../../../../wet/jeugdwet/BWBR0034925/README.md) en [8.3.2 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) is bepaald ten aanzien van de jeugdhulpaanbieder, bedoeld in [artikel 1 van die wet](../../../../../wet/jeugdwet/BWBR0034925/README.md), is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling. 
+Hetgeen in de artikelen 8.3.1 en 8.3.2 van de Jeugdwet is bepaald ten aanzien van de jeugdhulpaanbieder, bedoeld in artikel 1 van die wet, is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling. 
 
 ###§ 2c  
 
@@ -351,7 +351,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde omtrent het advies- en meldpunt huiselijk geweld en kindermishandeling zijn belast de door Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen ambtenaren.   
-2.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot inzage van de dossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.  
+2.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht, bevoegd tot inzage van de dossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.  
 
 ### Artikel  12p  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -367,7 +367,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  12q  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Hetgeen in de [artikelen 9.4](../../../../../wet/jeugdwet/BWBR0034925/README.md) en [9.5 van de Jeugdwet](../../../../../wet/jeugdwet/BWBR0034925/README.md) is bepaald ten aanzien van de bevoegdheden van Onze Minister en Onze Minister van Veiligheid en Justitie jegens de jeugdhulpaanbieder, bedoeld in [artikel 1 van die wet](../../../../../wet/jeugdwet/BWBR0034925/README.md), is van overeenkomstige toepassing jegens het advies- en meldpunt huiselijk geweld en kindermishandeling. 
+Hetgeen in de artikelen 9.4 en 9.5 van de Jeugdwet is bepaald ten aanzien van de bevoegdheden van Onze Minister en Onze Minister van Veiligheid en Justitie jegens de jeugdhulpaanbieder, bedoeld in artikel 1 van die wet, is van overeenkomstige toepassing jegens het advies- en meldpunt huiselijk geweld en kindermishandeling. 
 
 ### §  3  
 
@@ -390,7 +390,7 @@ Provinciale staten onderscheidenlijk gedeputeerde staten dragen zorg voor het vo
 
 1.  De gemeenteraad kan bij verordening bepalen dat een persoon van 18 jaren of ouder aan wie maatschappelijke ondersteuning is verleend, een eigen bijdrage verschuldigd is: 
 
-a. voor zover die ondersteuning bestaat uit het verlenen van een individuele voorziening in natura of een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en niet bestaat uit een aan hem verleende financiële tegemoetkoming,  
+a. voor zover die ondersteuning bestaat uit het verlenen van een individuele voorziening in natura of een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964, en niet bestaat uit een aan hem verleende financiële tegemoetkoming,  
 
 b. voor zover de ondersteuning bestaat uit maatschappelijke opvang, waaronder vrouwenopvang.    
 2.  De hoogte van de eigen bijdrage kan voor de verschillende soorten van maatschappelijke ondersteuning verschillend worden vastgesteld en mede afhankelijk gesteld worden van het inkomen en vermogen van degene aan wie maatschappelijke ondersteuning is verleend en van zijn echtgenoot.   
@@ -440,7 +440,7 @@ d. de betaling van de uitkering.
 
 ### Artikel  19b  
 
-De Stichting Centrum Indicatiestelling Zorg en een stichting als bedoeld in [artikel 4 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) verstrekken aan Onze Minister of in geval van toepassing van artikel 19a, derde lid, aan het bestuursorgaan, bedoeld in artikel 19a, derde lid, de persoonsgegevens die voor Onze Minister, respectievelijk het bestuursorgaan, noodzakelijk zijn voor de uitvoering van artikel 19a. 
+De Stichting Centrum Indicatiestelling Zorg en een stichting als bedoeld in artikel 4 van de Wet op de jeugdzorg verstrekken aan Onze Minister of in geval van toepassing van artikel 19a, derde lid, aan het bestuursorgaan, bedoeld in artikel 19a, derde lid, de persoonsgegevens die voor Onze Minister, respectievelijk het bestuursorgaan, noodzakelijk zijn voor de uitvoering van artikel 19a. 
 
 ### §  7  
 
@@ -521,14 +521,14 @@ Het steunpunt huiselijk geweld verwerkt persoonsgegevens ten behoeve van de goed
 ### Artikel  21d  
 
 1.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft persoonsgegevens uitsluitend verwerken indien dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
-2.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
+2.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
 3.  Derden die op grond van een wettelijk voorschrift of op grond van hun ambt of beroep tot geheimhouding zijn verplicht kunnen, zonder toestemming van degene die het betreft, aan een steunpunt huiselijk geweld desgevraagd of uit eigen beweging inlichtingen verstrekken waarover zij beroepshalve beschikken, indien dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden van huiselijk geweld te onderzoeken.  
 
 ### Artikel  21f  
 
-1.  Indien aan een steunpunt huiselijk geweld bij de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, persoonsgegevens worden verstrekt door een ander dan de betrokkene, brengt hij, in afwijking van [artikel 34, eerste lid, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), de betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
+1.  Indien aan een steunpunt huiselijk geweld bij de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, persoonsgegevens worden verstrekt door een ander dan de betrokkene, brengt hij, in afwijking van artikel 34, eerste lid, van de Wet bescherming persoonsgegevens, de betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
 2.  De in het eerste lid genoemde termijn kan door het steunpunt huiselijk geweld telkens met ten hoogste twee weken worden verlengd, voor zover dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, en dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-3.  In afwijking van [artikel 35 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) kan een steunpunt huiselijk geweld de mededeling als bedoeld in dat artikel aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
+3.  In afwijking van artikel 35 van de Wet bescherming persoonsgegevens kan een steunpunt huiselijk geweld de mededeling als bedoeld in dat artikel aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
 4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.  
 
 ### Artikel  21g  
@@ -541,7 +541,7 @@ a. jonger dan twaalf jaren is, of
 b. de leeftijd van twaalf jaren heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.     
 3.  Indien de betrokkene jonger is dan zestien jaren, of de leeftijd van zestien jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden desgevraagd aan de wettelijke vertegenwoordiger inlichtingen dan wel inzage in of afschrift van de bescheiden verstrekt, tenzij het belang van de betrokkene zich daartegen verzet.   
 4.  Inlichtingen over, inzage in of afschrift van bescheiden kan worden geweigerd, voor zover de persoonlijke levenssfeer van een ander dan de betrokkene daardoor zou worden geschaad dan wel dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, of om een situatie van huiselijk geweld te beëindigen dan wel een redelijk vermoeden daarvan te onderzoeken.   
-5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens [artikel 39 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) gestelde regels.  
+5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens artikel 39 van de Wet bescherming persoonsgegevens gestelde regels.  
 
 ### Artikel  21h  
 
@@ -604,7 +604,7 @@ Roerende zaken, voor de aanschaf waarvan krachtens deze wet een financiële tege
 ### Artikel  26  
 
 1.  De motivering van een beschikking op een aanvraag om een individuele voorziening vermeldt op welke wijze de genomen beschikking bijdraagt aan het behouden en het bevorderen van de zelfredzaamheid en de normale maatschappelijke participatie van mensen met een beperking of een chronisch psychisch probleem en van mensen met een psychosociaal probleem.   
-2.  Bij een beslissing op het bezwaar als bedoeld in [artikel 7:12 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een beslissing op het beroep als bedoeld in [artikel 7:26 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is het eerste lid van overeenkomstige toepassing.  
+2.  Bij een beslissing op het bezwaar als bedoeld in artikel 7:12 van de Algemene wet bestuursrecht en een beslissing op het beroep als bedoeld in artikel 7:26 van de Algemene wet bestuursrecht is het eerste lid van overeenkomstige toepassing.  
 
 ### §  12  
 
@@ -660,38 +660,38 @@ Wijzigt de Beroepswet.
 
 ### Artikel  38  
 
-Na de inwerkingtreding van artikel 20 van deze wet berust het [Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) op het eerste en tweede lid van dat artikel. 
+Na de inwerkingtreding van artikel 20 van deze wet berust het Besluit brede doeluitkering sociaal, integratie en veiligheid op het eerste en tweede lid van dat artikel. 
 
 ### Artikel  39  
 
-De [Welzijnswet 1994](../../../../../wet/welzijnswet/1994/BWBR0006705/README.md) wordt ingetrokken, met dien verstande dat zij van toepassing blijft:
+De Welzijnswet 1994 wordt ingetrokken, met dien verstande dat zij van toepassing blijft:
 
-a.op de financiële verantwoording, vaststelling en uitbetaling van op grond van de [Welzijnswet 1994](../../../../../wet/welzijnswet/1994/BWBR0006705/README.md) verleende subsidies en uitkeringen, aangevraagde en aan te vragen subsidies en uitkeringen tot aan het tijdstip van inwerkingtreding van de wet;
+a.op de financiële verantwoording, vaststelling en uitbetaling van op grond van de Welzijnswet 1994 verleende subsidies en uitkeringen, aangevraagde en aan te vragen subsidies en uitkeringen tot aan het tijdstip van inwerkingtreding van de wet;
 
-b.in wettelijke procedures en rechtsgedingen tegen besluiten die op grond van de [Welzijnswet 1994](../../../../../wet/welzijnswet/1994/BWBR0006705/README.md) zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, zowel in eerste aanleg als in verdere instantie.
+b.in wettelijke procedures en rechtsgedingen tegen besluiten die op grond van de Welzijnswet 1994 zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, zowel in eerste aanleg als in verdere instantie.
 
 ### Artikel  40  
 
-1.  De [Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) wordt ingetrokken, met dien verstande dat: 
+1.  De Wet voorzieningen gehandicapten wordt ingetrokken, met dien verstande dat: 
 
-a. zij van toepassing blijft op de financiële verantwoording, vaststelling en uitbetaling van op grond van de [Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) verleende uitkeringen, aangevraagde en aan te vragen uitkeringen tot aan het tijdstip van inwerkingtreding van de wet;  
+a. zij van toepassing blijft op de financiële verantwoording, vaststelling en uitbetaling van op grond van de Wet voorzieningen gehandicapten verleende uitkeringen, aangevraagde en aan te vragen uitkeringen tot aan het tijdstip van inwerkingtreding van de wet;  
 
-b. [artikel 9 van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) van toepassing blijft op roerende zaken, voor de aanschaf waarvan met toepassing van of krachtens die wet een financiële vergoeding is verleend, dan wel die met toepassing van of krachtens die wet in eigendom of bruikleen zijn verleend;  
+b. artikel 9 van de Wet voorzieningen gehandicapten van toepassing blijft op roerende zaken, voor de aanschaf waarvan met toepassing van of krachtens die wet een financiële vergoeding is verleend, dan wel die met toepassing van of krachtens die wet in eigendom of bruikleen zijn verleend;  
 
-c. andere rechten en verplichtingen dan die die voortvloeien uit [artikel 9 van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) als bedoeld onder b, die gelden op het tijdstip van de inwerkingtreding van deze wet met betrekking tot een beschikking waarbij op grond van de Wet voorzieningen gehandicapten een voorziening is verleend, blijven gelden gedurende de looptijd van de beschikking, doch ten hoogste een jaar na de inwerkingtreding van deze wet;  
+c. andere rechten en verplichtingen dan die die voortvloeien uit artikel 9 van de Wet voorzieningen gehandicapten als bedoeld onder b, die gelden op het tijdstip van de inwerkingtreding van deze wet met betrekking tot een beschikking waarbij op grond van de Wet voorzieningen gehandicapten een voorziening is verleend, blijven gelden gedurende de looptijd van de beschikking, doch ten hoogste een jaar na de inwerkingtreding van deze wet;  
 
 d. zij van toepassing blijft ten aanzien van een aanvraag om een woonvoorziening, vervoersvoorziening of rolstoel tot drie maanden nadat de gemeenteraad de verordening, bedoeld in artikel 5 van deze wet, heeft vastgesteld, doch uiterlijk tot een jaar na de inwerkingtreding van deze wet.     
-2.  Indien op een aanvraag als bedoeld in het eerste lid, onder d, met toepassing van de [Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) bij beschikking een voorziening is verleend, blijven de andere rechten en verplichtingen dan die die voortvloeien uit [artikel 9 van die wet](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) als bedoeld in het eerste lid, onder b, met betrekking tot die beschikking gelden gedurende de looptijd van de beschikking, doch ten hoogste een jaar na de inwerkingtreding van deze wet.   
-3.  In wettelijke procedures en rechtsgedingen tegen besluiten die op grond van de [Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijven, zowel in eerste aanleg als in verdere instantie, de regels van toepassing, die golden voor de intrekking van die wet.  
+2.  Indien op een aanvraag als bedoeld in het eerste lid, onder d, met toepassing van de Wet voorzieningen gehandicapten bij beschikking een voorziening is verleend, blijven de andere rechten en verplichtingen dan die die voortvloeien uit artikel 9 van die wet als bedoeld in het eerste lid, onder b, met betrekking tot die beschikking gelden gedurende de looptijd van de beschikking, doch ten hoogste een jaar na de inwerkingtreding van deze wet.   
+3.  In wettelijke procedures en rechtsgedingen tegen besluiten die op grond van de Wet voorzieningen gehandicapten zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijven, zowel in eerste aanleg als in verdere instantie, de regels van toepassing, die golden voor de intrekking van die wet.  
 
 ### Artikel  41  
 
 1.  In afwijking van artikel 1, eerste lid, onder h, wordt in dit artikel verstaan onder huishoudelijke verzorging: het ondersteunen bij of het overnemen van activiteiten op het gebied van het verzorgen van het huishouden in verband met een somatische, psychogeriatrische of psychiatrische aandoening of beperking, een verstandelijke, lichamelijke of zintuiglijke handicap of een psychosociaal probleem die of dat leidt of dreigt te leiden tot het disfunctioneren van de verzorging van het huishouden van een persoon dan wel van de leefeenheid waartoe een persoon behoort, te verlenen door een instelling.   
-2.  De aanspraken op zorg, bedoeld in [artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), omvatten niet huishoudelijke verzorging ten behoeve van het behoud van zelfstandig functioneren of deelname aan het maatschappelijke verkeer.   
-3.  De rechten en verplichtingen die gelden op het tijdstip van de inwerkingtreding van deze wet met betrekking tot huishoudelijke verzorging waarvoor op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een indicatiebesluit is afgegeven voor de inwerkingtreding van deze wet, tenzij de verzekerde in het buitenland woont, blijven gelden gedurende de looptijd van het indicatiebesluit, doch ten hoogste een jaar na de inwerkingtreding van deze wet, met dien verstande dat het college van burgemeester en wethouders in de plaats treedt van de zorgverzekeraar van betrokkene, bedoeld in [artikel 1, eerste lid, onder b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en dat betrokkene de bijdrage in de kosten, bedoeld in [artikel 6, vierde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), aan het college van burgemeester en wethouders is verschuldigd.   
-4.  Op een aanvraag om huishoudelijke verzorging wordt door het college van burgemeester en wethouders van de gemeente waar betrokkene woont, tot drie maanden nadat de gemeenteraad de verordening, bedoeld in artikel 5, heeft vastgesteld, doch uiterlijk tot een jaar na de inwerkingtreding van deze wet, een beslissing genomen overeenkomstig de regels zoals die voor de inwerkingtreding van deze wet op deze verzorging van toepassing waren, met dien verstande dat het college van burgemeester en wethouders optreedt als onafhankelijk indicatieorgaan als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+2.  De aanspraken op zorg, bedoeld in artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten, omvatten niet huishoudelijke verzorging ten behoeve van het behoud van zelfstandig functioneren of deelname aan het maatschappelijke verkeer.   
+3.  De rechten en verplichtingen die gelden op het tijdstip van de inwerkingtreding van deze wet met betrekking tot huishoudelijke verzorging waarvoor op grond van de Algemene Wet Bijzondere Ziektekosten een indicatiebesluit is afgegeven voor de inwerkingtreding van deze wet, tenzij de verzekerde in het buitenland woont, blijven gelden gedurende de looptijd van het indicatiebesluit, doch ten hoogste een jaar na de inwerkingtreding van deze wet, met dien verstande dat het college van burgemeester en wethouders in de plaats treedt van de zorgverzekeraar van betrokkene, bedoeld in artikel 1, eerste lid, onder b, van de Algemene Wet Bijzondere Ziektekosten, en dat betrokkene de bijdrage in de kosten, bedoeld in artikel 6, vierde lid, van de Algemene Wet Bijzondere Ziektekosten, aan het college van burgemeester en wethouders is verschuldigd.   
+4.  Op een aanvraag om huishoudelijke verzorging wordt door het college van burgemeester en wethouders van de gemeente waar betrokkene woont, tot drie maanden nadat de gemeenteraad de verordening, bedoeld in artikel 5, heeft vastgesteld, doch uiterlijk tot een jaar na de inwerkingtreding van deze wet, een beslissing genomen overeenkomstig de regels zoals die voor de inwerkingtreding van deze wet op deze verzorging van toepassing waren, met dien verstande dat het college van burgemeester en wethouders optreedt als onafhankelijk indicatieorgaan als bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten.   
 5.  Indien op grond van het vierde lid op een aanvraag een indicatiebesluit voor huishoudelijke verzorging is afgegeven, is het derde lid van overeenkomstige toepassing.   
-6.  In wettelijke procedures en rechtsgedingen tegen besluiten betreffende huishoudelijke verzorging die op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijft, zowel in eerste aanleg als in verdere instantie, het bepaalde bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) van toepassing.  
+6.  In wettelijke procedures en rechtsgedingen tegen besluiten betreffende huishoudelijke verzorging die op grond van de Algemene Wet Bijzondere Ziektekosten zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijft, zowel in eerste aanleg als in verdere instantie, het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten van toepassing.  
 
 ### Artikel  42  
 

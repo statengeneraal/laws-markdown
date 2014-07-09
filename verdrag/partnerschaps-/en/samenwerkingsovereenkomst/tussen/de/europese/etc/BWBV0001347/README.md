@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Georgië, anderzijds
+##Partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Georgië, anderzijds
 
 ####Partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Georgië, anderzijds
 
-Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md), hierna „Lid-Staten” te noemen, en de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, en Georgië, anderzijds, Gelet op de banden tussen de Gemeenschap, haar Lid-Staten en Georgië, en hun gemeenschappelijke waarden, Erkennende dat de Gemeenschap en Georgië deze banden wensen te verstevigen en partnerschap en samenwerking tot stand willen brengen om te komen tot versterking en verbreding van de betrekkingen die in het verleden zijn aangeknoopt, inzonderheid bij de op 18 december 1989 ondertekende Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, Gelet op de verbintenis van de Gemeenschap en haar Lid-Staten en van Georgië tot versterking van de politieke en economische vrijheden, die de grondslag van het partnerschap vormen, Gelet op de verbintenis van de partijen tot bevordering van internationale vrede en veiligheid en de vreedzame oplossing van geschillen, alsmede tot samenwerking op dit gebied in het kader van de Verenigde Naties en de Organisatie voor Veiligheid en Samenwerking in Europa, Gelet op de vaste verbintenis van de Gemeenschap en haar Lid-Staten en van Georgië tot volledige uitvoering van alle beginselen en bepalingen die zijn vervat in de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa (CVSE), de Slotdocumenten van de vervolgvergaderingen van Madrid en Wenen, het Document van de CVSE-Conferentie van Bonn betreffende economische samenwerking, het Handvest van Parijs voor een Nieuw Europa en het CVSE-Document van Helsinki 1992, „Uitdagingen van het Veranderingsproces”, en andere fundamentele documenten van de OVSE, Erkennende in die context dat de ondersteuning van de onafhankelijkheid, de soevereiniteit en de territoriale onschendbaarheid van Georgië zal bijdragen aan het waarborgen van vrede en stabiliteit in Europa, Overtuigd van het allesoverheersende belang van de beginselen van de rechtsstaat en eerbiediging van de mensenrechten, inzonderheid de rechten van minderheden, de totstandbrenging van een meerpartijenstelsel met vrije en democratische verkiezingen, en economische liberalisering om een markteconomie tot stand te brengen, en erkennende de inspanningen van Georgië om een op deze beginselen gebaseerd politiek en economisch stelsel tot stand te brengen, Van oordeel zijnde dat de volledige uitvoering van deze Partnerschaps- en samenwerkingsovereenkomst zowel zal afhangen van, als zal bijdragen tot de voortzetting en verwezenlijking van hervormingen in Georgië op politiek, economisch en juridisch vlak, en de invoering van de factoren die vereist zijn voor samenwerking, met name op grond van de conclusies van de CVSE-Conferentie van Bonn, Verlangende het proces van regionale samenwerking op de door deze Overeenkomst bestreken gebieden met de buurlanden te stimuleren om welvaart en stabiliteit in deze regio te bevorderen, en in het bijzonder initiatieven die gericht zijn op het bevorderen van samenwerking en wederzijds vertrouwen tussen de onafhankelijke staten van Transkaukasië en andere buurlanden, Verlangende regelmatige politieke dialoog over bilaterale, regionale en internationale vraagstukken van wederzijds belang tot stand te brengen en te bevorderen, Erkennende en ondersteunende de wens van Georgië om nauwe samenwerking met de Europese instellingen tot stand te brengen, Gelet op de noodzaak investeringen in Georgië te bevorderen, onder andere in de energiesector, en in deze context op het belang dat de Gemeenschap en haar Lid-Staten hechten aan eerlijke voorwaarden voor doorvoer voor de export het transport van energieprodukten; bevestigende de gehechtheid van de Gemeenschap en haar Lid-Staten en van Georgië aan het Europees Energiehandvest, en aan de volledige tenuitvoerlegging van het [Verdrag inzake het Energiehandvest](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md) en het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md) en daarmee samenhangende milieu-aspecten, Rekening houdende met het feit dat de Gemeenschap bereid is zorg te dragen voor passende economische samenwerking en technische bijstand, Rekening houdende met het nut van de Overeenkomst voor het bevorderen van geleidelijke toenadering tussen Georgië en een uitgestrekter gebied van samenwerking in Europa en naburige regio's, en haar geleidelijke integratie in het open internationaal systeem, Gelet op de verbintenis van de partijen tot liberalisering van de handel in overeenstemming met de regels van de Wereldhandelsorganisatie (WTO), Zich ervan bewust zijnde dat het noodzakelijk is om verbetering te brengen in de voorwaarden voor bedrijfsleven en investeringen, en de voorwaarden op terreinen als vestiging van vennootschappen, arbeid, dienstverlening en kapitaalverkeer, Ervan overtuigd zijnde dat deze Overeenkomst een nieuw klimaat zal scheppen voor de economische betrekkingen tussen de partijen, en vooral voor de ontwikkeling van handel en investeringen, die onontbeerlijk zijn voor economische herstructurering en technologische modernisering,  Verlangende nauwe samenwerking op het gebied van milieubescherming tot stand te brengen, rekening houdend met de onderlinge afhankelijkheid van de partijen op dit terrein, Erkennende dat samenwerking ten behoeve van de preventie van en de controle op illegale immigratie een van de hoofddoelstellingen van deze Overeenkomst vormt, Verlangende culturele samenwerking tot stand te brengen en de doorstroming van informatie te verbeteren,  Zijn als volgt overeengekomen:  
+Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, hierna „Lid-Staten” te noemen, en de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, en Georgië, anderzijds, Gelet op de banden tussen de Gemeenschap, haar Lid-Staten en Georgië, en hun gemeenschappelijke waarden, Erkennende dat de Gemeenschap en Georgië deze banden wensen te verstevigen en partnerschap en samenwerking tot stand willen brengen om te komen tot versterking en verbreding van de betrekkingen die in het verleden zijn aangeknoopt, inzonderheid bij de op 18 december 1989 ondertekende Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, Gelet op de verbintenis van de Gemeenschap en haar Lid-Staten en van Georgië tot versterking van de politieke en economische vrijheden, die de grondslag van het partnerschap vormen, Gelet op de verbintenis van de partijen tot bevordering van internationale vrede en veiligheid en de vreedzame oplossing van geschillen, alsmede tot samenwerking op dit gebied in het kader van de Verenigde Naties en de Organisatie voor Veiligheid en Samenwerking in Europa, Gelet op de vaste verbintenis van de Gemeenschap en haar Lid-Staten en van Georgië tot volledige uitvoering van alle beginselen en bepalingen die zijn vervat in de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa (CVSE), de Slotdocumenten van de vervolgvergaderingen van Madrid en Wenen, het Document van de CVSE-Conferentie van Bonn betreffende economische samenwerking, het Handvest van Parijs voor een Nieuw Europa en het CVSE-Document van Helsinki 1992, „Uitdagingen van het Veranderingsproces”, en andere fundamentele documenten van de OVSE, Erkennende in die context dat de ondersteuning van de onafhankelijkheid, de soevereiniteit en de territoriale onschendbaarheid van Georgië zal bijdragen aan het waarborgen van vrede en stabiliteit in Europa, Overtuigd van het allesoverheersende belang van de beginselen van de rechtsstaat en eerbiediging van de mensenrechten, inzonderheid de rechten van minderheden, de totstandbrenging van een meerpartijenstelsel met vrije en democratische verkiezingen, en economische liberalisering om een markteconomie tot stand te brengen, en erkennende de inspanningen van Georgië om een op deze beginselen gebaseerd politiek en economisch stelsel tot stand te brengen, Van oordeel zijnde dat de volledige uitvoering van deze Partnerschaps- en samenwerkingsovereenkomst zowel zal afhangen van, als zal bijdragen tot de voortzetting en verwezenlijking van hervormingen in Georgië op politiek, economisch en juridisch vlak, en de invoering van de factoren die vereist zijn voor samenwerking, met name op grond van de conclusies van de CVSE-Conferentie van Bonn, Verlangende het proces van regionale samenwerking op de door deze Overeenkomst bestreken gebieden met de buurlanden te stimuleren om welvaart en stabiliteit in deze regio te bevorderen, en in het bijzonder initiatieven die gericht zijn op het bevorderen van samenwerking en wederzijds vertrouwen tussen de onafhankelijke staten van Transkaukasië en andere buurlanden, Verlangende regelmatige politieke dialoog over bilaterale, regionale en internationale vraagstukken van wederzijds belang tot stand te brengen en te bevorderen, Erkennende en ondersteunende de wens van Georgië om nauwe samenwerking met de Europese instellingen tot stand te brengen, Gelet op de noodzaak investeringen in Georgië te bevorderen, onder andere in de energiesector, en in deze context op het belang dat de Gemeenschap en haar Lid-Staten hechten aan eerlijke voorwaarden voor doorvoer voor de export het transport van energieprodukten; bevestigende de gehechtheid van de Gemeenschap en haar Lid-Staten en van Georgië aan het Europees Energiehandvest, en aan de volledige tenuitvoerlegging van het Verdrag inzake het Energiehandvest en het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten, Rekening houdende met het feit dat de Gemeenschap bereid is zorg te dragen voor passende economische samenwerking en technische bijstand, Rekening houdende met het nut van de Overeenkomst voor het bevorderen van geleidelijke toenadering tussen Georgië en een uitgestrekter gebied van samenwerking in Europa en naburige regio's, en haar geleidelijke integratie in het open internationaal systeem, Gelet op de verbintenis van de partijen tot liberalisering van de handel in overeenstemming met de regels van de Wereldhandelsorganisatie (WTO), Zich ervan bewust zijnde dat het noodzakelijk is om verbetering te brengen in de voorwaarden voor bedrijfsleven en investeringen, en de voorwaarden op terreinen als vestiging van vennootschappen, arbeid, dienstverlening en kapitaalverkeer, Ervan overtuigd zijnde dat deze Overeenkomst een nieuw klimaat zal scheppen voor de economische betrekkingen tussen de partijen, en vooral voor de ontwikkeling van handel en investeringen, die onontbeerlijk zijn voor economische herstructurering en technologische modernisering,  Verlangende nauwe samenwerking op het gebied van milieubescherming tot stand te brengen, rekening houdend met de onderlinge afhankelijkheid van de partijen op dit terrein, Erkennende dat samenwerking ten behoeve van de preventie van en de controle op illegale immigratie een van de hoofddoelstellingen van deze Overeenkomst vormt, Verlangende culturele samenwerking tot stand te brengen en de doorstroming van informatie te verbeteren,  Zijn als volgt overeengekomen:  
 
 ### Artikel  1  
 
@@ -24,7 +24,7 @@ Er wordt een partnerschap tot stand gebracht tussen de Gemeenschap en haar Lid-S
 
 ### Artikel  2  
 
-Eerbiediging van de democratische beginselen, de beginselen van het volkenrecht en de mensenrechten, inzonderheid als vastgelegd in het [Handvest van de Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), de Slotakte van Helsinki en het Handvest van Parijs voor een nieuw Europa, en de beginselen van de markteconomie, waaronder de beginselen die zijn opgenomen in de documenten van de CVSE-Conferentie van Bonn, vormen de grondslag van het interne en externe beleid van de partijen en zijn een essentieel onderdeel van het partnerschap en van deze Overeenkomst. 
+Eerbiediging van de democratische beginselen, de beginselen van het volkenrecht en de mensenrechten, inzonderheid als vastgelegd in het Handvest van de Verenigde Naties, de Slotakte van Helsinki en het Handvest van Parijs voor een nieuw Europa, en de beginselen van de markteconomie, waaronder de beginselen die zijn opgenomen in de documenten van de CVSE-Conferentie van Bonn, vormen de grondslag van het interne en externe beleid van de partijen en zijn een essentieel onderdeel van het partnerschap en van deze Overeenkomst. 
 
 ### Artikel  3  
 
@@ -87,10 +87,10 @@ Op parlementair niveau vindt de politieke dialoog plaats in het kader van het kr
 
 a. voordelen die met het oog op de oprichting van een douane-unie of vrijhandelszone of na de oprichting van een dergelijke unie of zone worden toegekend;  
 
-b. voordelen die aan bepaalde landen worden toegekend krachtens de [WTO](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en andere internationale regelingen ten gunste van ontwikkelingslanden;  
+b. voordelen die aan bepaalde landen worden toegekend krachtens de WTO en andere internationale regelingen ten gunste van ontwikkelingslanden;  
 
 c. voordelen die aan buurlanden worden toegekend ten einde het grensverkeer te vereenvoudigen.     
-3.   De bepalingen van lid 1 zijn gedurende een overgangsperiode die eindigt op de datum waarop Georgië partij wordt bij de [GATT](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) of, indien dit vroeger is, op 31 december 1998, niet van toepassing op de in bijlage I bedoelde voordelen die door Georgië worden toegekend aan andere Staten die na het uiteenvallen van de Sovjet-Unie zijn ontstaan.  
+3.   De bepalingen van lid 1 zijn gedurende een overgangsperiode die eindigt op de datum waarop Georgië partij wordt bij de GATT of, indien dit vroeger is, op 31 december 1998, niet van toepassing op de in bijlage I bedoelde voordelen die door Georgië worden toegekend aan andere Staten die na het uiteenvallen van de Sovjet-Unie zijn ontstaan.  
 
 ### Artikel  10  
 
@@ -118,7 +118,7 @@ Goederen worden tegen marktprijzen tussen de partijen verhandeld.
 3.   Indien, na dit overleg, de partijen niet binnen 30 dagen nadat de kwestie naar de Samenwerkingsraad werd verwezen een akkoord bereiken over maatregelen om het probleem op te lossen, dan kan de partij die om het overleg heeft verzocht maatregelen ter beperking van de invoer van de betrokken produkten nemen in de mate en voor de tijd die nodig zijn om de schade te voorkomen of te verhelpen of kan zij andere passende maatregelen nemen.   
 4.   In kritieke omstandigheden, waarin uitstel moeilijk herstelbare schade zou veroorzaken, kunnen de partijen maatregelen nemen voor het overleg heeft plaatsgevonden, op voorwaarde dat onmiddellijk daarna een voorstel tot overleg wordt gedaan.   
 5.   Bij de keuze van de in het kader van dit artikel toe te passen maatregelen geven de overeenkomstsluitende partijen de voorkeur aan maatregelen die het bereiken van de doelstellingen van deze Overeenkomst het minst in de weg staan.   
-6.   Geen enkele bepaling van dit artikel belet de partijen anti-dumpingmaatregelen of compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT, de [Overeenkomst inzake de toepassing van artikel VI van de GATT](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), de Overeenkomst inzake de interpretatie en de toepassing van de artikelen VI, XVI en XXIII van de GATT of daarmee verband houdende interne wetgeving.  
+6.   Geen enkele bepaling van dit artikel belet de partijen anti-dumpingmaatregelen of compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT, de Overeenkomst inzake de toepassing van artikel VI van de GATT, de Overeenkomst inzake de interpretatie en de toepassing van de artikelen VI, XVI en XXIII van de GATT of daarmee verband houdende interne wetgeving.  
 
 ### Artikel  15  
 
@@ -139,7 +139,7 @@ Deze titel is niet van toepassing op de handel in textielprodukten van de Hoofds
 
 ### Artikel  19  
 
-De handel in kernmaterialen wordt geregeld overeenkomstig de bepalingen van het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md). Zo nodig zal de handel in kernmaterialen worden geregeld bij een tussen de Europese Gemeenschap voor Atoomenergie en Georgië te sluiten specifieke overeenkomst. 
+De handel in kernmaterialen wordt geregeld overeenkomstig de bepalingen van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie. Zo nodig zal de handel in kernmaterialen worden geregeld bij een tussen de Europese Gemeenschap voor Atoomenergie en Georgië te sluiten specifieke overeenkomst. 
 
 ### TITEL  IV  
 
@@ -296,7 +296,7 @@ Vennootschappen welke worden bestuurd door en de exclusieve eigendom zijn van Ge
 
 ### Artikel  37  
 
-De in het kader van deze Overeenkomst door een partij aan de andere toegekende behandeling is met ingang van de termijn van een maand vóór het in werking treden van de daarop betrekking hebbende voorschriften van de [Algemene Overeenkomst inzake de Handel in Diensten](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) (GATS), met betrekking tot de sectoren of maatregelen waarop de GATS betrekking heeft, in geen enkel geval gunstiger dan die welke door bedoelde eerstgenoemde partij in het kader van de GATS en met betrekking tot om het even welke dienstensector, dienstensubsector en wijze van dienstverlening wordt toegekend. 
+De in het kader van deze Overeenkomst door een partij aan de andere toegekende behandeling is met ingang van de termijn van een maand vóór het in werking treden van de daarop betrekking hebbende voorschriften van de Algemene Overeenkomst inzake de Handel in Diensten (GATS), met betrekking tot de sectoren of maatregelen waarop de GATS betrekking heeft, in geen enkel geval gunstiger dan die welke door bedoelde eerstgenoemde partij in het kader van de GATS en met betrekking tot om het even welke dienstensector, dienstensubsector en wijze van dienstverlening wordt toegekend. 
 
 ### Artikel  38  
 
@@ -535,7 +535,7 @@ De samenwerking op dit terrein is gericht op de landbouwhervorming, de modernise
 
 ####Energie
 
-1.   De samenwerking vindt plaats met inachtneming van de beginselen van de markteconomie en het Europese Energiehandvest, en rekening houdend met het [Verdrag inzake het Energiehandvest](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md) en het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md), tegen de achtergrond van de geleidelijke integratie van de energiemarkten in Europa.   
+1.   De samenwerking vindt plaats met inachtneming van de beginselen van de markteconomie en het Europese Energiehandvest, en rekening houdend met het Verdrag inzake het Energiehandvest en het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten, tegen de achtergrond van de geleidelijke integratie van de energiemarkten in Europa.   
 2.   De samenwerking strekt zich onder meer over de volgende terreinen uit: 
 
 –  het opstellen en uitwerken van energiebeleid;  
@@ -544,7 +544,7 @@ De samenwerking op dit terrein is gericht op de landbouwhervorming, de modernise
 
 –  verbetering van de energievoorziening, met inbegrip van de continuïteit van de energievoorziening, op een wijze die uit economisch en milieu-oogpunt verantwoord is;  
 
-–  de bevordering van energiebesparing en een efficiënt energiegebruik en de tenuitvoerlegging van het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md);  
+–  de bevordering van energiebesparing en een efficiënt energiegebruik en de tenuitvoerlegging van het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten;  
 
 –  de modernisering van de energie-infrastructuur;  
 
@@ -563,7 +563,7 @@ De samenwerking op dit terrein is gericht op de landbouwhervorming, de modernise
 
 ####Milieu
 
-1.   Met inachtneming van het Europese Energiehandvest en de Verklaring van de in 1993 in Luzern gehouden Conferentie, en het [Energiehandvestverdrag](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md), inzonderheid [artikel 19](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md), en het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md), ontwikkelen en versterken partijen hun samenwerking op het gebied van het milieu en de volksgezondheid.   
+1.   Met inachtneming van het Europese Energiehandvest en de Verklaring van de in 1993 in Luzern gehouden Conferentie, en het Energiehandvestverdrag, inzonderheid artikel 19, en het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten, ontwikkelen en versterken partijen hun samenwerking op het gebied van het milieu en de volksgezondheid.   
 2.   De samenwerking beoogt bestrijding van het milieubederf en met name: 
 
 – daadwerkelijke controle van de verontreinigingsniveaus en beoordeling van het milieu; informatiesysteem met betrekking tot de milieutoestand;  
@@ -580,7 +580,7 @@ De samenwerking op dit terrein is gericht op de landbouwhervorming, de modernise
 
 – verbetering van de kwaliteit van het water;  
 
-– beperking, recycling en veilige verwijdering van afval; tenuitvoerlegging van het [Verdrag van Bazel](../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md);  
+– beperking, recycling en veilige verwijdering van afval; tenuitvoerlegging van het Verdrag van Bazel;  
 
 – onderzoek van de milieu-effecten van de landbouw, bodemerosie en chemische verontreiniging;  
 
@@ -598,7 +598,7 @@ De samenwerking op dit terrein is gericht op de landbouwhervorming, de modernise
 
 – technische bijstand bij de sanering van met radioactiviteit besmette zones en het oplossen van daaronder veroorzaakte gezondheids- en sociale problemen;  
 
-– tenuitvoerlegging van het [Verdrag van Espoo inzake milieu-effectrapportage in grensoverschrijdend verband](../../../../../../../../../verdrag/verdrag/inzake/milieu-effectrapportage/in/grensoverschrijdend/verband/BWBV0002731/README.md).     
+– tenuitvoerlegging van het Verdrag van Espoo inzake milieu-effectrapportage in grensoverschrijdend verband.     
 3.   De samenwerking vindt met name plaats via: 
 
 – opstelling van plannen voor rampen en andere noodsituaties;   
@@ -912,7 +912,7 @@ De Samenwerkingsraad kan besluiten ieder ander speciaal comité of lichaam dat h
 
 ### Artikel  85  
 
-Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van de Overeenkomst met betrekking tot een bepaling betreffende een artikel van de [GATT](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md)/[WTO](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT in kwestie door de leden van de GATT/WTO. 
+Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van de Overeenkomst met betrekking tot een bepaling betreffende een artikel van de GATT/WTO houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT in kwestie door de leden van de GATT/WTO. 
 
 ### Artikel  86  
 
@@ -983,7 +983,7 @@ In de Overeenkomst wordt onder de term „partijen” verstaan Georgië enerzijd
 
 ### Artikel  96  
 
-Het [Verdrag inzake het Europees Energiehandvest](../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md) en de protocollen daarvan zijn bij de inwerkingtreding van toepassing op zaken die onder deze Overeenkomst ressorteren en onder dit Verdrag en de protocollen daarvan vallen maar alleen in de mate waarin een dergelijke toepassing hierin is voorzien. 
+Het Verdrag inzake het Europees Energiehandvest en de protocollen daarvan zijn bij de inwerkingtreding van toepassing op zaken die onder deze Overeenkomst ressorteren en onder dit Verdrag en de protocollen daarvan vallen maar alleen in de mate waarin een dergelijke toepassing hierin is voorzien. 
 
 ### Artikel  97  
 
@@ -1004,7 +1004,7 @@ Totdat er onder de onderhavige Overeenkomst gelijkwaardige rechten zijn verworve
 
 ### Artikel  101  
 
-De Overeenkomst is van toepassing, enerzijds, op de gebieden waar de [Verdragen tot oprichting van de Europese Gemeenschap](../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), de Europese Gemeenschap voor Kolen en Staal en de [Europese Gemeenschap voor Atoomenergie](../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md) van toepassing zijn en onder de in die Verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van Georgië. 
+De Overeenkomst is van toepassing, enerzijds, op de gebieden waar de Verdragen tot oprichting van de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie van toepassing zijn en onder de in die Verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van Georgië. 
 
 ### Artikel  102  
 
@@ -1040,27 +1040,27 @@ Alle onafhankelijke staten:
 
 1.  Artikel 42, lid 2, heeft betrekking op de hierna volgende multilaterale overeenkomsten: 
 
-– [ Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties](../../../../../../../../../verdrag/international/convention/for/the/protection/of/performers/producers/of/etc/BWBV0004329/README.md) (Rome, 1961);  
+–  Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties (Rome, 1961);  
 
-–  [Protocol bij de schikking van Madrid betreffende de internationale inschrijving van merken](../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) (Madrid, 1989);  
+–  Protocol bij de schikking van Madrid betreffende de internationale inschrijving van merken (Madrid, 1989);  
 
-– [ Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken](../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md) (Genève 1977, geamendeerd in 1979);  
+–  Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken (Genève 1977, geamendeerd in 1979);  
 
-–  [Verdrag van Budapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening ](../../../../../../../../../verdrag/budapest/treaty/on/the/international/recognition/of/the/deposit/of/etc/BWBV0004052/README.md)(1977, gewijzigd in 1980);  
+–  Verdrag van Budapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening (1977, gewijzigd in 1980);  
 
-–  [Internationaal Verdrag tot bescherming van kweekprodukten](../../../../../../../../../verdrag/internationaal/verdrag/tot/bescherming/van/kweekprodukten/van/2/december/etc/BWBV0002685/README.md) (UPOV) (Akte van Genève, 1991).  
+–  Internationaal Verdrag tot bescherming van kweekprodukten (UPOV) (Akte van Genève, 1991).  
 
 2.  De Samenwerkingsraad kan aanbevelen dat artikel 42, lid 2, van toepassing is op andere multilaterale overeenkomsten. Indien zich problemen voordoen op het gebied van de intellectuele, de industriële en de commerciële eigendom die gevolgen hebben voor de omstandigheden waaronder het handelsverkeer plaats vindt, wordt op verzoek van een der Partijen ten spoedigste overleg gepleegd ten einde een voor beide Partijen bevredigende oplossing te vinden voor het probleem.  
 
 3.  De partijen bevestigen het belang dat zij hechten aan de verplichtingen die voortvloeien uit de hiernavolgende multilaterale overeenkomsten: 
 
-–  [Berner-conventie voor de bescherming van werken van letterkunde en kunst](../../../../../../../../../verdrag/berner/conventie/voor/de/bescherming/van/werken/van/letterkunde/en/kunst/etc/BWBV0003977/README.md) (Akte van Parijs, 1971);  
+–  Berner-conventie voor de bescherming van werken van letterkunde en kunst (Akte van Parijs, 1971);  
 
-–  [Verdrag van Parijs tot bescherming van de industriële eigendom ](../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md)(Akte van Stockholm, 1967, geamendeerd in 1979);  
+–  Verdrag van Parijs tot bescherming van de industriële eigendom (Akte van Stockholm, 1967, geamendeerd in 1979);  
 
-–  [Schikking van Madrid betreffende de internationale inschrijving van merken](../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) (Akte van Stockholm, 1967, geamendeerd in 1979);  
+–  Schikking van Madrid betreffende de internationale inschrijving van merken (Akte van Stockholm, 1967, geamendeerd in 1979);  
 
-–  [Verdrag tot samenwerking inzake octrooien](../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) (Octrooiensamenwerkingsverdrag) (Washington 1970, geamendeerd in 1979 en gewijzigd in 1984).   
+–  Verdrag tot samenwerking inzake octrooien (Octrooiensamenwerkingsverdrag) (Washington 1970, geamendeerd in 1979 en gewijzigd in 1984).   
 
 4.  Met ingang van de datum van inwerkingtreding van deze overeenkomst kent Georgië aan vennootschappen en onderdanen van de Gemeenschap wat de erkenning en de bescherming van intellectuele, industriële en commerciële eigendom betreft, een behandeling toe die niet minder gunstig is dan die welke dit land uit hoofde van bilaterale overeenkomsten aan enig ander derde land toekent.   
 
@@ -1351,7 +1351,7 @@ Onverminderd artikel 10 doet geen overeenkomst inzake wederzijdse bijstand die t
 
 ### Slotakte  
 
-De gevolmachtigden van: Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md), hierna „de Lid-Staten” te noemen, en van de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, en de gevolmachtigden van Georgië, anderzijds, bijeengekomen te Luxemburg, op 22-04-1996, voor de ondertekening van de Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Georgië, anderzijds, hierna „de Partnerschaps- en samenwerkingsovereenkomst” te noemen, hebben de volgende teksten aangenomen: De Overeenkomst, waaronder de bijlagen en het volgende protocol: Het Protocol betreffende wederzijdse bijstand in douanezaken. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Georgië hebben de volgende gemeenschappelijke verklaringen aangenomen, die aan deze Slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende artikel 6 Gemeenschappelijke verklaring betreffende artikel 15 Gemeenschappelijke verklaring betreffende het begrip „zeggenschap” in artikel 25, onder b), en artikel 36 Gemeenschappelijke verklaring betreffende artikel 35 Gemeenschappelijke verklaring betreffende artikel 42 Gemeenschappelijke verklaring betreffende artikel 98 De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Georgië hebben voorts nota genomen van de volgende aan deze Slotakte gehechte briefwisseling: Briefwisseling tussen de Gemeenschap en Georgië met betrekking tot de vestiging van vennootschappen. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Georgië hebben ook nota genomen van de volgende aan deze Slotakte gehechte Verklaring: Verklaring van de Franse Regering   
+De gevolmachtigden van: Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, hierna „de Lid-Staten” te noemen, en van de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, en de gevolmachtigden van Georgië, anderzijds, bijeengekomen te Luxemburg, op 22-04-1996, voor de ondertekening van de Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Georgië, anderzijds, hierna „de Partnerschaps- en samenwerkingsovereenkomst” te noemen, hebben de volgende teksten aangenomen: De Overeenkomst, waaronder de bijlagen en het volgende protocol: Het Protocol betreffende wederzijdse bijstand in douanezaken. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Georgië hebben de volgende gemeenschappelijke verklaringen aangenomen, die aan deze Slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende artikel 6 Gemeenschappelijke verklaring betreffende artikel 15 Gemeenschappelijke verklaring betreffende het begrip „zeggenschap” in artikel 25, onder b), en artikel 36 Gemeenschappelijke verklaring betreffende artikel 35 Gemeenschappelijke verklaring betreffende artikel 42 Gemeenschappelijke verklaring betreffende artikel 98 De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Georgië hebben voorts nota genomen van de volgende aan deze Slotakte gehechte briefwisseling: Briefwisseling tussen de Gemeenschap en Georgië met betrekking tot de vestiging van vennootschappen. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Georgië hebben ook nota genomen van de volgende aan deze Slotakte gehechte Verklaring: Verklaring van de Franse Regering   
 
 ####Gemeenschappelijke verklaring betreffende artikel 6  
 
@@ -1359,7 +1359,7 @@ Indien de partijen menen dat de omstandigheden ontmoetingen op het hoogste nivea
 
 ####Gemeenschappelijke verklaring betreffende artikel 15  
 
-Tot Georgië toetreedt tot de [GATT](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md)/[WTO](../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) overleggen de Partijen binnen het Samenwerkingscomité over hun beleid inzake invoertarieven, met inbegrip van veranderingen in de tariefbescherming. In het bijzonder voorafgaand aan een verhoging van de tariefbescherming wordt dergelijk overleg aangeboden.   
+Tot Georgië toetreedt tot de GATT/WTO overleggen de Partijen binnen het Samenwerkingscomité over hun beleid inzake invoertarieven, met inbegrip van veranderingen in de tariefbescherming. In het bijzonder voorafgaand aan een verhoging van de tariefbescherming wordt dergelijk overleg aangeboden.   
 
 ####Gemeenschappelijke verklaring betreffende het begrip „zeggenschap" in artikel 25, onder b , en artikel 36  
 
@@ -1379,7 +1379,7 @@ Het feit dat een visum wordt vereist voor natuurlijke personen van bepaalde part
 
 ####Gemeenschappelijke verklaring betreffende artikel 42  
 
-De partijen komen overeen dat intellectuele, industriële en commerciële eigendom voor de toepassing van de Overeenkomst inzonderheid het volgende omvat: auteursrechten, met inbegrip van de auteursrechten op computerprogramma's, en naburige rechten, de rechten voor octrooien, industriële ontwerpen, geografische aanduidingen, met inbegrip van benamingen van oorsprong, warenmerken en dienstmerken, topografieën van geïntegreerde schakelingen, alsmede bescherming tegen oneerlijke mededinging als bedoeld in [artikel 10 bis van het Verdrag van Parijs voor de bescherming van industriële eigendom](../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) en bescherming van niet-openbaargemaakte informatie over know-how.   
+De partijen komen overeen dat intellectuele, industriële en commerciële eigendom voor de toepassing van de Overeenkomst inzonderheid het volgende omvat: auteursrechten, met inbegrip van de auteursrechten op computerprogramma's, en naburige rechten, de rechten voor octrooien, industriële ontwerpen, geografische aanduidingen, met inbegrip van benamingen van oorsprong, warenmerken en dienstmerken, topografieën van geïntegreerde schakelingen, alsmede bescherming tegen oneerlijke mededinging als bedoeld in artikel 10 bis van het Verdrag van Parijs voor de bescherming van industriële eigendom en bescherming van niet-openbaargemaakte informatie over know-how.   
 
 ####Gemeenschappelijke verklaring betreffende artikel 98  
 
@@ -1402,7 +1402,7 @@ Mijnheer, Ik dank u voor uw brief van heden welke als volgt luidt: (Zoals in A)I
 
 ####Verklaring van de Franse Regering 
 
-De Franse Republiek merkt op dat de Partnerschaps- en Samenwerkingsovereenkomst met Georgië niet van toepassing is op de landen en gebieden overzee die krachtens het [Verdrag tot oprichting van de Europese Gemeenschap](../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) met de Europese Gemeenschap geassocieerd zijn.   
+De Franse Republiek merkt op dat de Partnerschaps- en Samenwerkingsovereenkomst met Georgië niet van toepassing is op de landen en gebieden overzee die krachtens het Verdrag tot oprichting van de Europese Gemeenschap met de Europese Gemeenschap geassocieerd zijn.   
 
 ####Verklaring van de Gemeenschap 
 
@@ -1410,6 +1410,4 @@ De Gemeenschap verbindt zich ertoe technische bijstand te verlenen in de vorm va
 
 ####Protocol
 
-Wordt voorlopig toegepast per 12-12-2013 
-
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU L 2014, 8.

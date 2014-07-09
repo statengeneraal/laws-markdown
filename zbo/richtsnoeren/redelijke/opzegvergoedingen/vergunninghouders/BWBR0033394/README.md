@@ -3,7 +3,7 @@
 ##Richtsnoeren Redelijke Opzegvergoedingen Vergunninghouders
 
 Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit 
-gelet op [artikelen 5](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [77i lid 1 sub b](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95b lid 1](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [95m lid 11 van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [artikelen 44 lid 1](../../../../../../wet/gaswet/BWBR0011440/README.md), [52b lid 11](../../../../../../wet/gaswet/BWBR0011440/README.md) en [60ad lid 1 sub b van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md) en [artikel 4:81 van de Algemene Wet Bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+gelet op artikelen 5, 77i lid 1 sub b, 95b lid 1 en 95m lid 11 van de Elektriciteitswet 1998, artikelen 44 lid 1, 52b lid 11 en 60ad lid 1 sub b van de Gaswet en artikel 4:81 van de Algemene Wet Bestuursrecht.
 
 ###Titel 1 
 
@@ -13,11 +13,11 @@ gelet op [artikelen 5](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/
 
 In deze richtsnoeren wordt verstaan onder:
 
-1.ACM: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);
+1.ACM: de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;
 
-2.vergunninghouder: de houder van een leveringsvergunning als bedoeld in [artikel 95a van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of in [artikel 43 van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);
+2.vergunninghouder: de houder van een leveringsvergunning als bedoeld in artikel 95a van de Elektriciteitswet 1998 of in artikel 43 van de Gaswet;
 
-3.kleinverbruiker: een afnemer als bedoeld in [artikel 95a van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of in [artikel 43 van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md).
+3.kleinverbruiker: een afnemer als bedoeld in artikel 95a van de Elektriciteitswet 1998 of in artikel 43 van de Gaswet.
 
 4.overeenkomst: een overeenkomst tussen een vergunninghouder en een kleinverbruiker voor de levering van elektriciteit en/of gas.
 
@@ -35,7 +35,7 @@ Voor de uitleg van deze regeling wordt een kleinverbruiker onderscheiden in:
 
 ####Redelijke opzegvergoeding
 
-Op grond van [artikel 95m lid 11 van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 52b lid 11 van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md) kan de leverancier in een overeenkomst voor bepaalde duur opnemen dat de afnemer, bij tussentijdse beëindiging van de overeenkomst, een redelijke vergoeding is verschuldigd. In de afdelingen een tot en met drie van deze titel geeft de ACM weer wat zij onder een redelijke opzegvergoeding verstaat.
+Op grond van artikel 95m lid 11 van de Elektriciteitswet 1998 en artikel 52b lid 11 van de Gaswet kan de leverancier in een overeenkomst voor bepaalde duur opnemen dat de afnemer, bij tussentijdse beëindiging van de overeenkomst, een redelijke vergoeding is verschuldigd. In de afdelingen een tot en met drie van deze titel geeft de ACM weer wat zij onder een redelijke opzegvergoeding verstaat.
 ###Afdeling 1 
 
 ####- Redelijke opzegvergoeding algemeen
@@ -87,7 +87,7 @@ De ACM oordeelt dat er sprake is van een redelijke opzegvergoeding voor kleinzak
 
 ####Redelijke voorwaarden met betrekking tot de opzegvergoeding
 
-Op grond van [artikel 95b lid 1 van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 44 lid 1 van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md) heeft een vergunninghouder de plicht tegen redelijke voorwaarden zorg te dragen voor de levering van elektriciteit respectievelijk gas aan iedere afnemer die daarom verzoekt. In de eerste en tweede afdeling van deze titel geeft de ACM weer wat zij, met betrekking tot het in rekening brengen van een opzegvergoeding, onder redelijke voorwaarden verstaat.
+Op grond van artikel 95b lid 1 van de Elektriciteitswet 1998 en artikel 44 lid 1 van de Gaswet heeft een vergunninghouder de plicht tegen redelijke voorwaarden zorg te dragen voor de levering van elektriciteit respectievelijk gas aan iedere afnemer die daarom verzoekt. In de eerste en tweede afdeling van deze titel geeft de ACM weer wat zij, met betrekking tot het in rekening brengen van een opzegvergoeding, onder redelijke voorwaarden verstaat.
 ###Afdeling 1 
 
 ####– Onredelijke tariefverhoging in overeenkomsten met consumenten

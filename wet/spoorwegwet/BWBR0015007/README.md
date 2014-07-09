@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *aangemelde instantie:* aangemelde instantie als bedoeld in artikel 2, onderdeel j, van richtlijn 2008/57/EG;  
 
-*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md); 
+*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt; 
 
 *beheerder:* houder van een concessie als bedoeld in artikel 16, eerste lid;  
 
@@ -115,8 +115,8 @@ a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan t
 
 b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan een halve milligram alcohol per milliliter bloed.     
 3.  Het is verboden een veiligheidsfunctie te doen uitoefenen dan wel op de uitoefening van zodanige functie toezicht te doen houden door een persoon waarvan men weet of redelijkerwijs moet weten dat deze verkeert in een toestand als in het eerste of tweede lid is omschreven.   
-4.  Op de eerste vordering van bij of krachtens artikel 86 van deze wet of [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met de opsporing van strafbare feiten belaste ambtenaren zijn personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige functie toezicht houden, of daartoe aanstalten maken, verplicht hun medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar aangewezen apparaat.   
-5.  Dit artikel is niet van toepassing voorzover [artikel 8 van de Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van toepassing is.  
+4.  Op de eerste vordering van bij of krachtens artikel 86 van deze wet of artikel 141 van het Wetboek van Strafvordering met de opsporing van strafbare feiten belaste ambtenaren zijn personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige functie toezicht houden, of daartoe aanstalten maken, verplicht hun medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar aangewezen apparaat.   
+5.  Dit artikel is niet van toepassing voorzover artikel 8 van de Wegenverkeerswet 1994 van toepassing is.  
 
 ### Hoofdstuk  2  
 
@@ -274,16 +274,16 @@ b. het verstrekken van gegevens aan Onze Minister ten behoeve van:
 
 1°. het toezicht op de naleving van de concessie;  
 
-2°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge de [artikelen 11.6](../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [11.11 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter uitvoering van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
+2°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge de artikelen 11.6 en 11.11 van de Wet milieubeheer ter uitvoering van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
 
-3°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge [artikel 12.13, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
+3°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge artikel 12.13, eerste lid, van de Wet milieubeheer;    
 
 c. het opstellen van een financiële verantwoording van het uitvoeren van de concessie, welke verantwoording gescheiden is van die voor andere werkzaamheden, en  
 
 d. wijzigingen van hoofdspoorweginfrastructuur die de beheerder aanbesteedt en als een verbetering of een vernieuwing als bedoeld in artikel 9, eerste lid, worden aangemerkt.    
 3.  Aan een concessie kan het voorschrift worden verbonden dat de beheerder, indien hij tekortschiet in het verrichten van een bepaalde prestatie, gehouden is een geldsom te voldoen aan Onze Minister.   
-4.  Indien toepassing is gegeven aan het derde lid is de concessieverlener niet bevoegd ten aanzien van het verrichten van de desbetreffende prestatie aan de concessiehouder een last onder dwangsom op te leggen. [Artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
-5.  Onze Minister kan aan de beheerder een bijzondere volmacht als bedoeld in [artikel 32, vierde lid, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) verlenen met betrekking tot hoofdspoorweginfrastructuur die aan de Staat toebehoort. 
+4.  Indien toepassing is gegeven aan het derde lid is de concessieverlener niet bevoegd ten aanzien van het verrichten van de desbetreffende prestatie aan de concessiehouder een last onder dwangsom op te leggen. Artikel 5:32, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing.  
+5.  Onze Minister kan aan de beheerder een bijzondere volmacht als bedoeld in artikel 32, vierde lid, van de Comptabiliteitswet 2001 verlenen met betrekking tot hoofdspoorweginfrastructuur die aan de Staat toebehoort. 
 
 ### Artikel  17a  
 
@@ -292,7 +292,7 @@ d. wijzigingen van hoofdspoorweginfrastructuur die de beheerder aanbesteedt en a
 
 ### Artikel  17b  
 
-1.  De beheerder vraagt advies aan de gerechtigden, bedoeld in artikel 57, met uitzondering van de concessieverlener, bedoeld in [artikel 20, eerste lid, van de Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), over de bij of krachtens algemene maatregel van bestuur aangewezen onderdelen van het beheerplan, bedoeld in artikel 17a.   
+1.  De beheerder vraagt advies aan de gerechtigden, bedoeld in artikel 57, met uitzondering van de concessieverlener, bedoeld in artikel 20, eerste lid, van de Wet personenvervoer 2000, over de bij of krachtens algemene maatregel van bestuur aangewezen onderdelen van het beheerplan, bedoeld in artikel 17a.   
 2.  De beheerder stelt de gerechtigden in de gelegenheid met hem overleg te voeren voordat advies wordt uitgebracht.   
 3.  Het advies, bedoeld in het eerste lid, wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op het door de beheerder op te stellen beheerplan.   
 4.  Indien na het advies van de gerechtigden een beslissing wordt genomen ten aanzien van de onderdelen van het beheerplan, bedoeld in het eerste lid, worden de gerechtigden door de beheerder zo spoedig mogelijk, doch uiterlijk vier weken voor deze gevolg geeft aan de beslissing, schriftelijk hiervan in kennis gesteld. Indien het advies van de gerechtigden niet of niet geheel is gevolgd, wordt aan hen tevens meegedeeld, waarom van dat advies is afgeweken en wordt hen de gelegenheid geboden binnen vier weken nader te overleggen met de beheerder alvorens deze gevolg geeft aan de beslissing.   
@@ -383,7 +383,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 1.  Onverminderd de bij of krachtens andere wetten ter zake gegeven voorschriften wordt aanraking, doorsnijding of overbrugging van andere infrastructuur van openbaar nut door hoofdspoorwegen waarvan de aanleg vanwege het Rijk is opgedragen of toegestaan, gedoogd door de rechthebbende ten aanzien van die andere infrastructuur. Onder infrastructuur van openbaar nut wordt in ieder geval begrepen infrastructuur waarvan het beheer bij of krachtens wet is opgedragen en infrastructuur in beheer bij een openbaar lichaam.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over financiering, onderhoud, instandhouding, aanleg, uitbreiding, gedeeld gebruik en verdeling van de gebruiksmogelijkheden van kunstwerken voorzover deze dienen tot aanraking, doorsnijding of overbrugging als bedoeld in het eerste lid.   
-3.  Een hoofdspoorweg die is of wordt aangelegd, hersteld, vernieuwd of uitgebreid, wordt voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbaar werk van algemeen nut.  
+3.  Een hoofdspoorweg die is of wordt aangelegd, hersteld, vernieuwd of uitgebreid, wordt voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht aangemerkt als openbaar werk van algemeen nut.  
 
 ### Artikel  25  
 
@@ -725,7 +725,7 @@ e. taalbeheersing.
 
 a. één of meer beoordelingen door Onze Minister waaruit blijkt dat hij voldoet aan de krachtens artikel 49, eerste lid, voor de desbetreffende veiligheidsfunctie vastgestelde eisen inzake algemene kennis, bekwaamheid en ervaring en een geldige verklaring van medische geschiktheid en een geldige verklaring van psychologische geschiktheid, afgegeven door een door Onze Minister erkend keuringsinstituut, of  
 
-b. een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+b. een geldige erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties.     
 2.  Een persoon die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid uitoefent, beschikt over: 
 
 a. één of meer beoordelingen van Onze Minister waaruit blijkt dat hij voldoet aan de krachtens artikel 49, tweede lid, voor de desbetreffende veiligheidsfunctie vastgestelde eisen inzake algemene kennis en vaardigheden en een geldige verklaring van medische geschiktheid en een geldige verklaring van psychologische geschiktheid, afgegeven door een door Onze Minister erkend keuringsinstituut, of  
@@ -834,7 +834,7 @@ Degene onder wiens gezag een persoon die binnen het hoofdspoorwegverkeerssysteem
 
 1.  De spoorwegonderneming die van de hoofdspoorweg gebruik maakt, is verplicht ter zake van dat gebruik een verzekering te sluiten en in stand te houden, waarmee haar uit wettelijke aansprakelijkheid voortvloeiende financiële risico's voldoende zijn gedekt.   
 2.  Bij algemene maatregel van bestuur worden bedragen vastgesteld waarboven de verzekeringsplicht zich niet uitstrekt. Afzonderlijke bedragen kunnen worden bepaald naar gelang van onder meer de aard van de gebeurtenis, de aard van de schade, de grond van de aansprakelijkheid en de aard van de onderneming.   
-3.   [Artikel 6 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) is van overeenkomstige toepassing.  
+3.   Artikel 6 van de Wet aansprakelijkheidsverzekering motorrijtuigen is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -851,7 +851,7 @@ Degene onder wiens gezag een persoon die binnen het hoofdspoorwegverkeerssysteem
 
 a. spoorwegondernemingen die in het bezit zijn van een bedrijfsvergunning of deze hebben aangevraagd, voorzover zij daarmee gerechtigd zijn van de hoofdspoorwegen gebruik te maken op de wijze waarvoor zij de overeenkomst willen sluiten;  
 
-b. concessieverleners als bedoeld in [artikel 20 van de Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) ten behoeve van openbaar vervoer per trein;  
+b. concessieverleners als bedoeld in artikel 20 van de Wet personenvervoer 2000 ten behoeve van openbaar vervoer per trein;  
 
 c. andere natuurlijke personen of rechtspersonen die om commerciële redenen aantoonbaar belang hebben bij de verwerving van capaciteit voor het doen vervoeren van personen of lading door middel van spoorvervoerdiensten.     
 3.  Overdracht van capaciteit als bedoeld in artikel 13, eerste lid, van richtlijn 2001/14/EG is verboden.   
@@ -889,7 +889,7 @@ a. de door de beheerder te bieden kwaliteit van de hoofdspoorweginfrastructuur;
 
 b. de gebruiksvergoeding.     
 2.  In de toegangsovereenkomst wordt voor het gebruik van capaciteit voor in opdracht van de beheerder uit te voeren werkzaamheden op of aan hoofdspoorweginfrastructuur ten behoeve van de uitoefening van de taken, bedoeld in artikel 16, eerste lid, een gebruiksvergoeding van nihil overeengekomen.   
-3.  Bij algemene maatregel van bestuur kunnen ten behoeve van de overeenkomst algemene voorwaarden als bedoeld in [artikel 231 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden vastgesteld. In dat geval wordt in de overeenkomst naar die algemene voorwaarden verwezen.  
+3.  Bij algemene maatregel van bestuur kunnen ten behoeve van de overeenkomst algemene voorwaarden als bedoeld in artikel 231 van Boek 6 van het Burgerlijk Wetboek worden vastgesteld. In dat geval wordt in de overeenkomst naar die algemene voorwaarden verwezen.  
 
 ### §  4  
 
@@ -899,7 +899,7 @@ b. de gebruiksvergoeding.
 
 1.  Een tussen de beheerder en een gerechtigde gesloten kaderovereenkomst voldoet aan artikel 10, vijfde lid, van richtlijn 91/440/EEG en artikel 17 van richtlijn 2001/14/EG.   
 2.  Een kaderovereenkomst met een geldigheidsduur van meer dan vijf jaar behoeft de voorafgaande instemming van de Autoriteit Consument en Markt.   
-3.  Bij algemene maatregel van bestuur kunnen ten behoeve van de kaderovereenkomst algemene voorwaarden als bedoeld in [artikel 231 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden vastgesteld. In dat geval wordt in de kaderovereenkomst naar die algemene voorwaarden verwezen.  
+3.  Bij algemene maatregel van bestuur kunnen ten behoeve van de kaderovereenkomst algemene voorwaarden als bedoeld in artikel 231 van Boek 6 van het Burgerlijk Wetboek worden vastgesteld. In dat geval wordt in de kaderovereenkomst naar die algemene voorwaarden verwezen.  
 
 ### §  5  
 
@@ -931,7 +931,7 @@ b. de gebruiksvergoeding.
 ### Artikel  63  
 
 1.  Onderhandelingen tussen een gerechtigde en de beheerder betreffende de hoogte van de gebruiksvergoeding zijn niet toegestaan dan na een melding aan en onder toezicht van de Autoriteit Consument en Markt.   
-2.  De Autoriteit Consument en Markt legt, indien de onderhandelingen naar haar oordeel in strijd zijn met richtlijn 2001/14/EG, aan de overtreder zo nodig een last onder dwangsom op. Aan de last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt. De [artikelen 54a](../../../wet/mededingingswet/BWBR0008691/README.md), [62](../../../wet/mededingingswet/BWBR0008691/README.md) en [65 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) zijn van overeenkomstige toepassing.  
+2.  De Autoriteit Consument en Markt legt, indien de onderhandelingen naar haar oordeel in strijd zijn met richtlijn 2001/14/EG, aan de overtreder zo nodig een last onder dwangsom op. Aan de last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt. De artikelen 54a, 62 en 65 van de Mededingingswet zijn van overeenkomstige toepassing.  
 
 ### §  7  
 
@@ -964,7 +964,7 @@ e. verplichtingen – in verband met storingen, ongevallen, incidenten en andere
 ###Artikel 66 
 
 1. Onze Minister kan onderzoek verrichten naar de oorzaken van ongevallen en incidenten op hoofdspoorwegen en naar andere onregelmatigheden in de afwikkeling van het spoorverkeer waardoor de veiligheid van het spoorverkeer of van daarbij betrokken personen in gevaar is gebracht of in gevaar gebracht had kunnen worden, indien hij dit onderzoek nodig acht ter evaluatie van de wettelijke voorschriften en het beleid op het terrein van de veiligheid van het spoorverkeer.
-2. Ten behoeve van het onderzoek hebben de door Onze Minister aangewezen ambtenaren jegens spoorwegondernemingen en de beheerder de bevoegdheden, bedoeld in de [artikelen 5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot en met [5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.
+2. Ten behoeve van het onderzoek hebben de door Onze Minister aangewezen ambtenaren jegens spoorwegondernemingen en de beheerder de bevoegdheden, bedoeld in de artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
 3. Onze Minister onthoudt zich van het onderzoek naar de oorzaken van ongevallen en incidenten op hoofdspoorwegen voorzover de Onderzoeksraad voor veiligheid naar het betreffende voorval een onderzoek instelt.
 
 ### Hoofdstuk  5  
@@ -1016,9 +1016,9 @@ b. voor de dienst of voorziening een afzonderlijke boekhouding voert en deze ter
 
 a. voor de toepassing van het eerste lid: het toezicht op de naleving van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, en het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 63, 67, 68 en 95, eerste volzin;  
 
-b. voor de toepassing van het eerste lid en artikel 71: het onderzoek, bedoeld in [artikel 1 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md).     
+b. voor de toepassing van het eerste lid en artikel 71: het onderzoek, bedoeld in artikel 1 van de Mededingingswet.     
 3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-4.  Op het tweede lid, onderdeel a, is [artikel 51 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) van toepassing. Op het tweede lid, onderdeel b, zijn de [artikelen 52, tweede lid](../../../wet/mededingingswet/BWBR0008691/README.md), en [53 tot en met 55 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.  
+4.  Op het tweede lid, onderdeel a, is artikel 51 van de Mededingingswet van toepassing. Op het tweede lid, onderdeel b, zijn de artikelen 52, tweede lid, en 53 tot en met 55 van de Mededingingswet van overeenkomstige toepassing.  
 
 ### Artikel  71  
 
@@ -1026,7 +1026,7 @@ b. voor de toepassing van het eerste lid en artikel 71: het onderzoek, bedoeld i
 2.  Een partij bij een toegangsovereenkomst of een kaderovereenkomst als bedoeld in hoofdstuk 4 kan de Autoriteit Consument en Markt schriftelijk verzoeken om een oordeel over het gedrag van de wederpartij.   
 3.  De Autoriteit Consument en Markt geeft haar oordeel over de klacht uiterlijk twee maanden na ontvangst van de gegevens en bescheiden die voor haar oordeel nodig zijn.   
 4.  Indien de Autoriteit Consument en Markt van oordeel is dat de klacht gegrond is, legt zij zo nodig een last onder dwangsom op.   
-5.  Aan een last als bedoeld in het vierde lid kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt. De [artikelen 54a](../../../wet/mededingingswet/BWBR0008691/README.md) en [65 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) zijn van overeenkomstige toepassing.   
+5.  Aan een last als bedoeld in het vierde lid kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt. De artikelen 54a en 65 van de Mededingingswet zijn van overeenkomstige toepassing.   
 6.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot ten behoeve van het onderzoek te verstrekken gegevens en bescheiden, alsmede met betrekking tot de termijnen voor het verstrekken van de gegevens en bescheiden.  
 
 ### Artikel  72  
@@ -1043,7 +1043,7 @@ Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de 
 
 ### Artikel  75  
 
-De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel 70, tweede lid, aangewezen ambtenaar in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien het een onderneming of ondernemingsvereniging als bedoeld in [artikel 1 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking. De [artikelen 69, tweede lid](../../../wet/mededingingswet/BWBR0008691/README.md), [70](../../../wet/mededingingswet/BWBR0008691/README.md), [75a](../../../wet/mededingingswet/BWBR0008691/README.md), [77](../../../wet/mededingingswet/BWBR0008691/README.md), [80](../../../wet/mededingingswet/BWBR0008691/README.md) en [82 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) zijn van overeenkomstige toepassing. 
+De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel 70, tweede lid, aangewezen ambtenaar in strijd handelt met artikel 5:20 van de Algemene wet bestuursrecht, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien het een onderneming of ondernemingsvereniging als bedoeld in artikel 1 van de Mededingingswet betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking. De artikelen 69, tweede lid, 70, 75a, 77, 80 en 82 van de Mededingingswet zijn van overeenkomstige toepassing. 
 
 ### Artikel  76  
 
@@ -1053,8 +1053,8 @@ De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-3.  Op het tweede lid zijn de [artikelen 54a](../../../wet/mededingingswet/BWBR0008691/README.md), [57](../../../wet/mededingingswet/BWBR0008691/README.md), [58](../../../wet/mededingingswet/BWBR0008691/README.md), [59a](../../../wet/mededingingswet/BWBR0008691/README.md), [62](../../../wet/mededingingswet/BWBR0008691/README.md) en [64 tot en met 68 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.  
-4. [Artikel 70b van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md) is van overeenkomstige toepassing.
+3.  Op het tweede lid zijn de artikelen 54a, 57, 58, 59a, 62 en 64 tot en met 68 van de Mededingingswet van overeenkomstige toepassing.  
+4. Artikel 70b van de Mededingingswet is van overeenkomstige toepassing.
 
 ### Artikel  77  
 
@@ -1081,7 +1081,7 @@ b. een onderneming, gelijk aan de geldsom van ten hoogste € 225.000,–.
 
 ### Artikel  86  
 
-1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onderdeel 2°, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de met betrekking tot deze wet krachtens artikel 17, eerste lid, onderdeel 2°, van de Wet op de economische delicten aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn voorts belast de bij besluit van Onze Minister en Onze Minister van Justitie tezamen aangewezen personen.   
 3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
@@ -1096,7 +1096,7 @@ b. een onderneming, gelijk aan de geldsom van ten hoogste € 225.000,–.
 
 ### Artikel  88  
 
-1.  Een van de bij of krachtens artikel 86 van deze wet of [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met de opsporing van strafbare feiten belaste ambtenaren, kan een in artikel 4, eerste lid, bedoelde persoon van wie, uit het in artikel 4, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 4, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.   
+1.  Een van de bij of krachtens artikel 86 van deze wet of artikel 141 van het Wetboek van Strafvordering met de opsporing van strafbare feiten belaste ambtenaren, kan een in artikel 4, eerste lid, bedoelde persoon van wie, uit het in artikel 4, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 4, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.   
 2.  De ambtenaar die een verbod als bedoeld in het eerste lid oplegt, legt dit vast in een beschikking die het tijdstip van ingang en de duur van het verbod bevat.   
 3.  Het is degene aan wie een verbod als bedoeld in het eerste lid is opgelegd, verboden een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, gedurende de tijd waarvoor dat verbod geldt.  
 
@@ -1200,7 +1200,7 @@ De rechthebbende ten aanzien van een bijzondere of lokale spoorweg die onder de 
 
 ### Artikel  97  
 
-Voorzover dit noodzakelijk is ter beoordeling van het voldoen aan de bij of krachtens deze wet gestelde voorschriften kunnen gegevens betreffende het gedrag van bestuurders, het gedrag van een vergunninghouder en de gezondheid van personeel worden verwerkt. Onze Minister is verantwoordelijke voor de verwerking van de gegevens als bedoeld in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). 
+Voorzover dit noodzakelijk is ter beoordeling van het voldoen aan de bij of krachtens deze wet gestelde voorschriften kunnen gegevens betreffende het gedrag van bestuurders, het gedrag van een vergunninghouder en de gezondheid van personeel worden verwerkt. Onze Minister is verantwoordelijke voor de verwerking van de gegevens als bedoeld in de Wet bescherming persoonsgegevens. 
 
 ### Hoofdstuk  7  
 
@@ -1216,17 +1216,17 @@ Vervallen per 16-03-2005
 
 De volgende wetten worden ingetrokken op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld: 
 
-a. de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) (Stb. 1875, 67);  
+a. de Spoorwegwet (Stb. 1875, 67);  
 
-b. de [wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118);  
+b. de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 118);  
 
-c. de [wet van 1 november 1924, houdende wettelijke maatregelen tegen aantasting van metalen voorwerpen in den bodem door zwerfstroomen, afkomstig van spoorstaven van electrische spoor- en tramwegen](../../../wet/wet/zwerfstromen/BWBR0001921/README.md) (Stb. 498);  
+c. de wet van 1 november 1924, houdende wettelijke maatregelen tegen aantasting van metalen voorwerpen in den bodem door zwerfstroomen, afkomstig van spoorstaven van electrische spoor- en tramwegen (Stb. 498);  
 
-d. de [wet van 15 december 1917, houdende voorschriften omtrent aanleg en instandhouding van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd, op wegen niet onder beheer van het Rijk](../../../wet/wet/aanleg/locaalspoor-/en/tramwegen/BWBR0001892/README.md) (Stb. 703);  
+d. de wet van 15 december 1917, houdende voorschriften omtrent aanleg en instandhouding van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd, op wegen niet onder beheer van het Rijk (Stb. 703);  
 
-e. de [wet van 26 mei 1937 tot reorganisatie van het spoorwegbedrijf](../../../wet/wet/tot/reorganisatie/van/het/spoorwegbedrijf/BWBR0001988/README.md) (Stb. 520);  
+e. de wet van 26 mei 1937 tot reorganisatie van het spoorwegbedrijf (Stb. 520);  
 
-f. de [wet van 11 juni 1998, houdende wijziging van de Spoorwegwet ter implementatie van richtlijn nr. 95/18/EG en richtlijn nr. 95/19/EG](../../../wet/wijzigingswet/spoorwegwet/ter/implementatie/van/richtlijn/nr./9518eg/en/etc/BWBR0009683/README.md) (Stb. 374).   
+f. de wet van 11 juni 1998, houdende wijziging van de Spoorwegwet ter implementatie van richtlijn nr. 95/18/EG en richtlijn nr. 95/19/EG (Stb. 374).   
 
 ###Artikel 104 
 
@@ -1290,7 +1290,7 @@ Na de inwerkingtreding van deze wet berusten de hierna genoemde algemene maatreg
 
 a.dit onderdeel is nog niet in werking getreden;
 
-b.het [Algemeen Reglement Vervoer](../../../AMvB/algemeen/reglement/vervoer/BWBR0002548/README.md) berust op dit artikel;
+b.het Algemeen Reglement Vervoer berust op dit artikel;
 
 c.dit onderdeel is nog niet in werking getreden;
 
@@ -1302,21 +1302,21 @@ d.dit onderdeel is nog niet in werking getreden.
 
 ### Artikel  117  
 
-De schadevergoedingsplicht, bedoeld in [artikel 57, eerste en tweede lid, van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), rust niet op de eigenaar van een erf met een recht van uitweg over de hoofdspoorweg, indien dat recht van kracht was op de dag voorafgaande aan de dag waarop artikel 103, onderdeel a, in werking treedt. 
+De schadevergoedingsplicht, bedoeld in artikel 57, eerste en tweede lid, van Boek 5 van het Burgerlijk Wetboek, rust niet op de eigenaar van een erf met een recht van uitweg over de hoofdspoorweg, indien dat recht van kracht was op de dag voorafgaande aan de dag waarop artikel 103, onderdeel a, in werking treedt. 
 
 ### Artikel  118  
 
-1.  Tot en met de eerste dag van de vierde kalendermaand na de dag waarop artikel 28 in werking treedt, worden houders van een vergunning voor openbaar vervoer per trein, verleend ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en houders van een erkenning als spoorwegonderneming, afgegeven door Onze Minister, voor de toepassing van deze wet aangemerkt als houders van een bedrijfsvergunning.   
+1.  Tot en met de eerste dag van de vierde kalendermaand na de dag waarop artikel 28 in werking treedt, worden houders van een vergunning voor openbaar vervoer per trein, verleend ingevolge de Wet personenvervoer of de Wet personenvervoer 2000, en houders van een erkenning als spoorwegonderneming, afgegeven door Onze Minister, voor de toepassing van deze wet aangemerkt als houders van een bedrijfsvergunning.   
 2.  Het eerste lid geldt ook na de daarin bedoelde periode ten aanzien van de in het eerste lid bedoelde houders, indien zij voor de afloop van die periode een aanvraag hebben ingediend voor een vergunning als bedoeld in artikel 28 en zolang als daarop niet onherroepelijk is beslist.  
 
 ### Artikel  119  
 
-1.  Vergunningen die ingevolge [artikel 29a van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) (Stb. 1875, 67) zijn verleend en gelden op het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop artikel 28 in werking treedt, aangemerkt als verleend op grond van artikel 28.   
-2.  Vergunningaanvragen die ingevolge [artikel 29a van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) (Stb. 1875, 67) door Onze Minister in behandeling zijn genomen voor het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop artikel 28 in werking treedt, aangemerkt als vergunningaanvragen op grond van artikel 28.  
+1.  Vergunningen die ingevolge artikel 29a van de Spoorwegwet (Stb. 1875, 67) zijn verleend en gelden op het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop artikel 28 in werking treedt, aangemerkt als verleend op grond van artikel 28.   
+2.  Vergunningaanvragen die ingevolge artikel 29a van de Spoorwegwet (Stb. 1875, 67) door Onze Minister in behandeling zijn genomen voor het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop artikel 28 in werking treedt, aangemerkt als vergunningaanvragen op grond van artikel 28.  
 
 ### Artikel  120  
 
-1.  Een geldende concessie ter uitoefening van de dienst verleend op grond van [artikel 2 van de Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118) wordt tot en met de eerste dag van de vierde kalendermaand na de dag waarop artikel 103, onderdeel b, in werking treedt, aangemerkt als een veiligheidscertificaat als bedoeld in artikel 32.   
+1.  Een geldende concessie ter uitoefening van de dienst verleend op grond van artikel 2 van de Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 118) wordt tot en met de eerste dag van de vierde kalendermaand na de dag waarop artikel 103, onderdeel b, in werking treedt, aangemerkt als een veiligheidscertificaat als bedoeld in artikel 32.   
 2.  De in het eerste lid bedoelde concessie wordt ook na de daarin bedoelde periode aangemerkt als een veiligheidscertificaat als bedoeld in artikel 32, indien de houder voor die dag een aanvraag heeft ingediend voor een veiligheidscertificaat als bedoeld in artikel 32 en zolang daarop niet onherroepelijk is beslist.  
 
 ### Artikel  121  
@@ -1329,7 +1329,7 @@ Een spoorvoertuig dat in overeenstemming met de daarvoor geldende voorschriften 
 
 ### Artikel  123  
 
-Erkenningen op grond van [artikel 32d, zevende lid, van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) (Stb. 1875, 67) berusten met ingang van de dag waarop artikel 93 in werking treedt op artikel 93, eerste lid. 
+Erkenningen op grond van artikel 32d, zevende lid, van de Spoorwegwet (Stb. 1875, 67) berusten met ingang van de dag waarop artikel 93 in werking treedt op artikel 93, eerste lid. 
 
 ### Artikel  124  
 
@@ -1339,10 +1339,10 @@ Erkenningen op grond van [artikel 32d, zevende lid, van de Spoorwegwet](../../..
 ### Artikel  125  
 
 1.  Indien de Staat houder is van alle aandelen in het kapitaal van Railinfratrust b.v., gevestigd te Utrecht, gaan op een bij koninklijk besluit te bepalen tijdstip alle vermogensbestanddelen van deze vennootschap om niet onder algemene titel over op de Staat.   
-2.  De overgang van registergoederen ingevolge het eerste lid doet Onze Minister van Financiën onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
+2.  De overgang van registergoederen ingevolge het eerste lid doet Onze Minister van Financiën onverwijld inschrijven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.   
 3.  Ter zake van de overgang, bedoeld in het eerste lid, is geen dividendbelasting, omzetbelasting of overdrachtsbelasting verschuldigd. Ter zake van het in ontvangst nemen en het in de openbare registers verwerken is geen tarief verschuldigd.   
 4.  In wettelijke procedures en rechtsgedingen waarbij de in het eerste lid genoemde vennootschap is betrokken, treedt met ingang van de het in het eerste lid bedoelde tijdstip de Staat in de plaats van die vennootschap.   
-5.  Met ingang van het in het eerste lid bedoelde tijdstip is de in het eerste lid genoemde vennootschap ontbonden. [Artikel 23 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van overeenkomstige toepassing.  
+5.  Met ingang van het in het eerste lid bedoelde tijdstip is de in het eerste lid genoemde vennootschap ontbonden. Artikel 23 van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing.  
 
 ### §  3  
 

@@ -16,13 +16,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1.1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  adviseurs: bestuursorganen die krachtens wettelijk voorschrift in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het geven van een beschikking of het nemen van een ander besluit;  afvalbeheerplan: afvalbeheerplan, bedoeld in artikel 10.3; afvalstoffen: alle stoffen, preparaten of voorwerpen, waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen; afvalstoffenhandelaar: natuurlijke of rechtspersoon die als verantwoordelijke optreedt bij het bedrijfsmatig aankopen en vervolgens verkopen van afvalstoffen, met inbegrip van natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenhouder: afvalstoffenproducent dan wel de natuurlijke of rechtspersoon die de afvalstoffen in zijn bezit heeft; afvalstoffenmakelaar: natuurlijke of rechtspersoon die ten behoeve van anderen bedrijfsmatig de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van de natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenproducent: natuurlijke of rechtspersoon wiens activiteiten afvalstoffen voortbrengen of die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;afvalstoffenverordening: de verordening, bedoeld in artikel 10.23;afvalvoorziening: inrichting waar uitsluitend winningsafvalstoffen worden gestort of verzameld, dan wel het gedeelte van een inrichting waar winningsafvalstoffen worden gestort of verzameld;afvalvoorziening categorie A: afvalvoorziening, welke door het bevoegd gezag is ingedeeld in categorie A, overeenkomstig de criteria gesteld in bijlage III bij de richtlijn beheer winningsafval;afvalwater: alle water waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;bedrijfsafvalstoffen: afvalstoffen, niet zijnde huishoudelijke afvalstoffen of gevaarlijke afvalstoffen; bedrijfsafvalwater: afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is; beheer van afvalstoffen: inzameling, vervoer, nuttige toepassing en verwijdering van afvalstoffen, met inbegrip van het toezicht op die handelingen en de nazorg voor stortplaatsen na sluiting en met inbegrip van de activiteiten van afvalstoffenhandelaars en afvalstoffenmakelaars;betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in artikel 13.1, eerste lid, bedoelde beschikkingen. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit;  bijlage: bij deze wet behorende bijlage;biochemisch zuurstofverbruik: massaconcentratie aan opgeloste zuurstof die gedurende vijf dagen wordt verbruikt door biochemische oxydatie van organische bestanddelen onder uitsluiting van ammoniumoxydatie onder omstandigheden die zijn gespecificeerd in een door Onze Minister aangewezen norm van het Nederlands Normalisatie Instituut; broeikasgas: gas, genoemd in bijlage II bij de EG-richtlijn handel in broeikasgasemissierechten;broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens hoofdstuk 16 overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken;Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in artikel 2.26;Commissie voor de milieueffectrapportage: de Commissie voor de milieueffectrapportage, bedoeld in artikel 2.17;doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende afvalbeheerplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in artikel 10.4, en de criteria, genoemd in artikel 10.5;EEG-richtlijn milieu-effectbeoordeling: richtlijn nr. 85/337/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (PbEG L 175), zoals gewijzigd bij richtlijn nr. 97/11/EG van de Raad van de Europese gemeenschappen van 3 maart 1997 (PbEG L 73) tot wijziging van richtlijn 85/337/EEG betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;één ton kooldioxide-equivalent: een metrische ton kooldioxide of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingsvermogen;de EG-richtlijn handel in broeikasgasemissierechten: richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275); EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);EG-verordening overbrenging van afvalstoffen: verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190);EG-verordening PRTR: verordening (EG) nr. 166/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 januari 2006 betreffende de instelling van een Europees register inzake de uitstoot en overbrenging van verontreinigende stoffen en tot wijziging van de Richtlijnen 91/689/EEG en 96/61/EG van de Raad (PbEU L 33);EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);emissie: stoffen, trillingen, warmte, die of geluid dat direct of indirect vanuit een bron in de lucht, het water of de bodem worden, onderscheidenlijk wordt gebracht;de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in artikel 2.1;emissiegrenswaarde: massa gerelateerd aan bepaalde parameters, dan wel concentratie of niveau van een emissie uit een of meer bronnen, die gedurende een bepaalde periode niet mag worden overschreden;emissiereductie-eenheid: eenheid, uitgegeven overeenkomstig artikel 6 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (ERU);  energie uit hernieuwbare bronnen: energie geproduceerd uit hernieuwbare energiebronnen als bedoeld in artikel 2, onderdeel a, van richtlijn nr.2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140); gecertificeerde emissiereductie: eenheid, uitgegeven overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (CER);  geluid: met het menselijk oor waarneembare luchttrillingen; geluidhinder: gevaar, schade of hinder, als gevolg van geluid;gemeentelijk milieubeleidsplan: het gemeentelijke milieubeleidsplan, bedoeld in artikel 4.16; gescheiden inzameling: inzameling waarbij een afvalstoffenstroom gescheiden gehouden wordt naar soort en aard van de afvalstoffen om een specifieke behandeling te vergemakkelijken; gevaarlijke afvalstof: afvalstof die een of meer van de in bijlage III bij de kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit; hergebruik: elke handeling waarbij producten of componenten die geen afvalstoffen zijn, opnieuw worden gebruikt voor hetzelfde doel als dat waarvoor zij waren bedoeld;huishoudelijk afvalwater: afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;huishoudelijke afvalstoffen: afvalstoffen afkomstig uit particuliere huishoudens, behoudens voor zover het ingezamelde bestanddelen van die afvalstoffen betreft, die zijn aangewezen als gevaarlijke afvalstoffen;inrichting: elke door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid die binnen een zekere begrenzing pleegt te worden verricht;inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;inwonerequivalent: biochemisch zuurstofverbruik van 54 gram per etmaal; inzameling: verzameling van afvalstoffen, met inbegrip van de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een afvalverwerkingsinstallatie; kaderrichtlijn afvalstoffen: richtlijn nr. 2008/98/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen (PbEU L 312);de kaderrichtlijn water: richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327), zoals deze is gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001 tot vaststelling van de lijst van prioritaire stoffen op het gebied van het waterbeleid en tot wijziging van richtlijn 2000/60/EG (PbEG L 331) en met inbegrip van wijzigingen uit hoofde van artikel 20, eerste lid, van de richtlijn, doch voor het overige naar de tekst zoals deze bij de richtlijn is vastgesteld; luchtverontreiniging: aanwezigheid in de buitenlucht van vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radioactieve stoffen als bedoeld in de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), die op zichzelf dan wel tezamen of in verbinding met andere stoffen nadelige gevolgen voor het milieu kunnen veroorzaken;nationaal milieubeleidsplan: het nationale milieubeleidsplan, bedoeld in artikel 4.3;  nuttige toepassing: elke handeling met als voornaamste resultaat dat afvalstoffen een nuttig doel dienen door hetzij in de betrokken installatie, hetzij in de ruimere economie, andere materialen te vervangen die anders voor een specifieke functie zouden zijn gebruikt, of waardoor de afvalstof voor die functie wordt klaargemaakt, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage II bij de kaderrichtlijn afvalstoffen; omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); omgevingsvergunning voor een inrichting: omgevingsvergunning voor een activiteit met betrekking tot een inrichting als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);Onze Minister: Onze Minister van Infrastructuur en Milieu; openbaar hemelwaterstelsel: voorziening voor de inzameling en verdere verwerking van afvloeiend hemelwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;openbaar ontwateringsstelsel: voorziening voor de inzameling en verdere verwerking van grondwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast; openbaar vuilwaterriool: voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;preparaten: mengsels of oplossingen van twee of meer stoffen; preventie: maatregelen die worden genomen voordat een stof, materiaal of product afvalstof is geworden, ter vermindering van:
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  adviseurs: bestuursorganen die krachtens wettelijk voorschrift in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het geven van een beschikking of het nemen van een ander besluit;  afvalbeheerplan: afvalbeheerplan, bedoeld in artikel 10.3; afvalstoffen: alle stoffen, preparaten of voorwerpen, waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen; afvalstoffenhandelaar: natuurlijke of rechtspersoon die als verantwoordelijke optreedt bij het bedrijfsmatig aankopen en vervolgens verkopen van afvalstoffen, met inbegrip van natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenhouder: afvalstoffenproducent dan wel de natuurlijke of rechtspersoon die de afvalstoffen in zijn bezit heeft; afvalstoffenmakelaar: natuurlijke of rechtspersoon die ten behoeve van anderen bedrijfsmatig de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van de natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenproducent: natuurlijke of rechtspersoon wiens activiteiten afvalstoffen voortbrengen of die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;afvalstoffenverordening: de verordening, bedoeld in artikel 10.23;afvalvoorziening: inrichting waar uitsluitend winningsafvalstoffen worden gestort of verzameld, dan wel het gedeelte van een inrichting waar winningsafvalstoffen worden gestort of verzameld;afvalvoorziening categorie A: afvalvoorziening, welke door het bevoegd gezag is ingedeeld in categorie A, overeenkomstig de criteria gesteld in bijlage III bij de richtlijn beheer winningsafval;afvalwater: alle water waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;bedrijfsafvalstoffen: afvalstoffen, niet zijnde huishoudelijke afvalstoffen of gevaarlijke afvalstoffen; bedrijfsafvalwater: afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is; beheer van afvalstoffen: inzameling, vervoer, nuttige toepassing en verwijdering van afvalstoffen, met inbegrip van het toezicht op die handelingen en de nazorg voor stortplaatsen na sluiting en met inbegrip van de activiteiten van afvalstoffenhandelaars en afvalstoffenmakelaars;betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in artikel 13.1, eerste lid, bedoelde beschikkingen. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit;  bijlage: bij deze wet behorende bijlage;biochemisch zuurstofverbruik: massaconcentratie aan opgeloste zuurstof die gedurende vijf dagen wordt verbruikt door biochemische oxydatie van organische bestanddelen onder uitsluiting van ammoniumoxydatie onder omstandigheden die zijn gespecificeerd in een door Onze Minister aangewezen norm van het Nederlands Normalisatie Instituut; broeikasgas: gas, genoemd in bijlage II bij de EG-richtlijn handel in broeikasgasemissierechten;broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens hoofdstuk 16 overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken;Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in artikel 2.26;Commissie voor de milieueffectrapportage: de Commissie voor de milieueffectrapportage, bedoeld in artikel 2.17;doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende afvalbeheerplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in artikel 10.4, en de criteria, genoemd in artikel 10.5;EEG-richtlijn milieu-effectbeoordeling: richtlijn nr. 85/337/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (PbEG L 175), zoals gewijzigd bij richtlijn nr. 97/11/EG van de Raad van de Europese gemeenschappen van 3 maart 1997 (PbEG L 73) tot wijziging van richtlijn 85/337/EEG betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;één ton kooldioxide-equivalent: een metrische ton kooldioxide of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingsvermogen;de EG-richtlijn handel in broeikasgasemissierechten: richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275); EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);EG-verordening overbrenging van afvalstoffen: verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190);EG-verordening PRTR: verordening (EG) nr. 166/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 januari 2006 betreffende de instelling van een Europees register inzake de uitstoot en overbrenging van verontreinigende stoffen en tot wijziging van de Richtlijnen 91/689/EEG en 96/61/EG van de Raad (PbEU L 33);EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);emissie: stoffen, trillingen, warmte, die of geluid dat direct of indirect vanuit een bron in de lucht, het water of de bodem worden, onderscheidenlijk wordt gebracht;de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in artikel 2.1;emissiegrenswaarde: massa gerelateerd aan bepaalde parameters, dan wel concentratie of niveau van een emissie uit een of meer bronnen, die gedurende een bepaalde periode niet mag worden overschreden;emissiereductie-eenheid: eenheid, uitgegeven overeenkomstig artikel 6 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (ERU);  energie uit hernieuwbare bronnen: energie geproduceerd uit hernieuwbare energiebronnen als bedoeld in artikel 2, onderdeel a, van richtlijn nr.2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140); gecertificeerde emissiereductie: eenheid, uitgegeven overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (CER);  geluid: met het menselijk oor waarneembare luchttrillingen; geluidhinder: gevaar, schade of hinder, als gevolg van geluid;gemeentelijk milieubeleidsplan: het gemeentelijke milieubeleidsplan, bedoeld in artikel 4.16; gescheiden inzameling: inzameling waarbij een afvalstoffenstroom gescheiden gehouden wordt naar soort en aard van de afvalstoffen om een specifieke behandeling te vergemakkelijken; gevaarlijke afvalstof: afvalstof die een of meer van de in bijlage III bij de kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit; hergebruik: elke handeling waarbij producten of componenten die geen afvalstoffen zijn, opnieuw worden gebruikt voor hetzelfde doel als dat waarvoor zij waren bedoeld;huishoudelijk afvalwater: afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;huishoudelijke afvalstoffen: afvalstoffen afkomstig uit particuliere huishoudens, behoudens voor zover het ingezamelde bestanddelen van die afvalstoffen betreft, die zijn aangewezen als gevaarlijke afvalstoffen;inrichting: elke door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid die binnen een zekere begrenzing pleegt te worden verricht;inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;inwonerequivalent: biochemisch zuurstofverbruik van 54 gram per etmaal; inzameling: verzameling van afvalstoffen, met inbegrip van de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een afvalverwerkingsinstallatie; kaderrichtlijn afvalstoffen: richtlijn nr. 2008/98/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen (PbEU L 312);de kaderrichtlijn water: richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327), zoals deze is gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001 tot vaststelling van de lijst van prioritaire stoffen op het gebied van het waterbeleid en tot wijziging van richtlijn 2000/60/EG (PbEG L 331) en met inbegrip van wijzigingen uit hoofde van artikel 20, eerste lid, van de richtlijn, doch voor het overige naar de tekst zoals deze bij de richtlijn is vastgesteld; luchtverontreiniging: aanwezigheid in de buitenlucht van vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radioactieve stoffen als bedoeld in de Kernenergiewet, die op zichzelf dan wel tezamen of in verbinding met andere stoffen nadelige gevolgen voor het milieu kunnen veroorzaken;nationaal milieubeleidsplan: het nationale milieubeleidsplan, bedoeld in artikel 4.3;  nuttige toepassing: elke handeling met als voornaamste resultaat dat afvalstoffen een nuttig doel dienen door hetzij in de betrokken installatie, hetzij in de ruimere economie, andere materialen te vervangen die anders voor een specifieke functie zouden zijn gebruikt, of waardoor de afvalstof voor die functie wordt klaargemaakt, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage II bij de kaderrichtlijn afvalstoffen; omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht; omgevingsvergunning voor een inrichting: omgevingsvergunning voor een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht;Onze Minister: Onze Minister van Infrastructuur en Milieu; openbaar hemelwaterstelsel: voorziening voor de inzameling en verdere verwerking van afvloeiend hemelwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;openbaar ontwateringsstelsel: voorziening voor de inzameling en verdere verwerking van grondwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast; openbaar vuilwaterriool: voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;preparaten: mengsels of oplossingen van twee of meer stoffen; preventie: maatregelen die worden genomen voordat een stof, materiaal of product afvalstof is geworden, ter vermindering van:
 
 a. de hoeveelheden afvalstoffen, al dan niet via het hergebruik van producten of de verlenging van de levensduur van producten;  
 
 b. de negatieve gevolgen van de geproduceerde afvalstoffen voor het milieu en de menselijke gezondheid, of  
 
-c. het gehalte aan schadelijke stoffen in materialen en producten;  Protocol van Kyoto: op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110);provinciaal milieubeleidsplan: het provinciale milieubeleidsplan, bedoeld in artikel 4.9;provinciale milieucommissie: de provinciale milieucommissie, bedoeld in artikel 2.41; provinciale milieuverordening: de verordening, bedoeld in artikel 1.2; Raamverdrag van de Verenigde Naties inzake klimaatverandering: op 9 mei 1992 te New York totstandgekomen Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1992, 189); recycling: nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten, materialen of stoffen, voor het oorspronkelijke doel of voor een ander doel, met inbegrip van het opnieuw bewerken van organische afvalstoffen, en met uitsluiting van energieterugwinning en het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal;richtlijn beheer winningsafval: richtlijn nr. 2006/21/EG van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 betreffende het beheer van afval van de winningsindustrieën en houdende wijziging van Richtlijn nr. 2004/35/EG (PbEU L 102);stedelijk afvalwater: huishoudelijk afvalwater of een mengsel daarvan met bedrijfsafvalwater, afvloeiend hemelwater, grondwater of ander afvalwater;stoffen: chemische elementen en de verbindingen ervan, zoals deze voorkomen in natuurlijke toestand of bij de vervaardiging ontstaan, met inbegrip van alle additieven die nodig zijn voor het behoud van de stabiliteit ervan en alle onzuiverheden ten gevolge van het toegepaste procédé, doch met uitzondering van elk oplosmiddel dat kan worden afgescheiden zonder dat de stabiliteit van de stof wordt aangetast of de samenstelling ervan wordt gewijzigd; storten: op of in de bodem brengen van afvalstoffen om deze daar te laten; Verordening EU-register handel in emissierechten: registerverordening als bedoeld in artikel 19, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten; Verordening monitoring en rapportage emissiehandel: Verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad *(PbEU 2012, L181);*  Verordening verificatie en accreditatie emissiehandel: Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad *(PbEU 2012, L181);*  verwerking: nuttige toepassing of verwijdering, met inbegrip van aan toepassing of verwijdering voorafgaande voorbereidende handelingen;  verwijdering: elke handeling met afvalstoffen die geen nuttige toepassing is zelfs indien de handeling er in tweede instantie toe leidt dat stoffen of energie worden teruggewonnen, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage I bij de kaderrichtlijn afvalstoffen; vliegtuigexploitant: vliegtuigexploitant als bedoeld in artikel 3, onder o, van de EG-richtlijn handel in broeikasgasemissierechten; voorbereiding voor hergebruik: nuttige toepassing bestaande uit controleren, schoonmaken of repareren, waarbij producten of componenten van producten, die afvalstoffen zijn geworden, worden klaargemaakt zodat ze zullen worden hergebruikt zonder dat verdere voorbehandeling nodig is;winningsafvalstoffen: afvalstoffen die rechtstreeks afkomstig zijn uit de prospectie, winning, behandeling en opslag van mineralen en de exploitatie van groeven, met uitzondering van afvalstoffen afkomstig van offshore-prospectie, -winning en -behandeling;RIVM: Rijksinstituut voor volksgezondheid en milieu, genoemd in de [Wet op het RIVM](../../../../wet/wet/op/het/rivm/BWBR0008289/README.md).  
+c. het gehalte aan schadelijke stoffen in materialen en producten;  Protocol van Kyoto: op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110);provinciaal milieubeleidsplan: het provinciale milieubeleidsplan, bedoeld in artikel 4.9;provinciale milieucommissie: de provinciale milieucommissie, bedoeld in artikel 2.41; provinciale milieuverordening: de verordening, bedoeld in artikel 1.2; Raamverdrag van de Verenigde Naties inzake klimaatverandering: op 9 mei 1992 te New York totstandgekomen Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1992, 189); recycling: nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten, materialen of stoffen, voor het oorspronkelijke doel of voor een ander doel, met inbegrip van het opnieuw bewerken van organische afvalstoffen, en met uitsluiting van energieterugwinning en het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal;richtlijn beheer winningsafval: richtlijn nr. 2006/21/EG van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 betreffende het beheer van afval van de winningsindustrieën en houdende wijziging van Richtlijn nr. 2004/35/EG (PbEU L 102);stedelijk afvalwater: huishoudelijk afvalwater of een mengsel daarvan met bedrijfsafvalwater, afvloeiend hemelwater, grondwater of ander afvalwater;stoffen: chemische elementen en de verbindingen ervan, zoals deze voorkomen in natuurlijke toestand of bij de vervaardiging ontstaan, met inbegrip van alle additieven die nodig zijn voor het behoud van de stabiliteit ervan en alle onzuiverheden ten gevolge van het toegepaste procédé, doch met uitzondering van elk oplosmiddel dat kan worden afgescheiden zonder dat de stabiliteit van de stof wordt aangetast of de samenstelling ervan wordt gewijzigd; storten: op of in de bodem brengen van afvalstoffen om deze daar te laten; Verordening EU-register handel in emissierechten: registerverordening als bedoeld in artikel 19, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten; Verordening monitoring en rapportage emissiehandel: Verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad *(PbEU 2012, L181);*  Verordening verificatie en accreditatie emissiehandel: Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad *(PbEU 2012, L181);*  verwerking: nuttige toepassing of verwijdering, met inbegrip van aan toepassing of verwijdering voorafgaande voorbereidende handelingen;  verwijdering: elke handeling met afvalstoffen die geen nuttige toepassing is zelfs indien de handeling er in tweede instantie toe leidt dat stoffen of energie worden teruggewonnen, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage I bij de kaderrichtlijn afvalstoffen; vliegtuigexploitant: vliegtuigexploitant als bedoeld in artikel 3, onder o, van de EG-richtlijn handel in broeikasgasemissierechten; voorbereiding voor hergebruik: nuttige toepassing bestaande uit controleren, schoonmaken of repareren, waarbij producten of componenten van producten, die afvalstoffen zijn geworden, worden klaargemaakt zodat ze zullen worden hergebruikt zonder dat verdere voorbehandeling nodig is;winningsafvalstoffen: afvalstoffen die rechtstreeks afkomstig zijn uit de prospectie, winning, behandeling en opslag van mineralen en de exploitatie van groeven, met uitzondering van afvalstoffen afkomstig van offshore-prospectie, -winning en -behandeling;RIVM: Rijksinstituut voor volksgezondheid en milieu, genoemd in de Wet op het RIVM.  
 2.   In deze wet en de daarop berustende bepalingen:  
 
 a.worden onder gevolgen voor het milieu in ieder geval verstaan gevolgen voor het fysieke milieu, gezien vanuit het belang van de bescherming van mensen, dieren, planten en goederen, van water, bodem en lucht en van landschappelijke, natuurwetenschappelijke en cultuurhistorische waarden en van de beheersing van het klimaat, alsmede van de relaties daartussen;
@@ -64,7 +64,7 @@ b. hoewel deze niet als gevaarlijke afvalstof is aangewezen, toch de eigenschapp
 
 1.  Een ieder neemt voldoende zorg voor het milieu in acht.    
 2.   De zorg, bedoeld in het eerste lid, houdt in ieder geval in dat een ieder die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten nadelige gevolgen voor het milieu kunnen worden veroorzaakt, verplicht is dergelijk handelen achterwege te laten voor zover zulks in redelijkheid kan worden gevergd, dan wel alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde die gevolgen te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, deze zoveel mogelijk te beperken of ongedaan te maken.    
-3.   Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in [artikel 1, boek 2, van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), om uit dien hoofde in rechte op te treden.   
+3.   Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in artikel 1, boek 2, van het Burgerlijk Wetboek, om uit dien hoofde in rechte op te treden.   
 
 ### §  1.2  
 
@@ -83,7 +83,7 @@ b. regels inzake het voorkomen of beperken van geluidhinder in bij de verordenin
 5.   De verordening bevat geen regels met betrekking tot de samenstelling of eigenschappen van produkten. Ten aanzien van gebieden die door Onze Minister in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit zijn aangewezen, houdt de verordening geen regels in, die betrekking hebben op de agrarische bedrijfsvoering.    
 6.   De verordening kan slechts, voor zover dit uit een oogpunt van doelmatige regelgeving bijzonder aangewezen is, regels bevatten die rechtstreeks betrekking hebben op bij die regels aangewezen categorieën van inrichtingen, voor zover:  
 
-a. ten aanzien van die inrichtingen het in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) gestelde verbod niet geldt en die regels noodzakelijk zijn ter bescherming van de kwaliteit van het grondwater met het oog op de waterwinning in bij de verordening aangewezen gebieden, of  
+a. ten aanzien van die inrichtingen het in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht gestelde verbod niet geldt en die regels noodzakelijk zijn ter bescherming van de kwaliteit van het grondwater met het oog op de waterwinning in bij de verordening aangewezen gebieden, of  
 
 b. het regels betreft, inhoudende een verbod tot het oprichten of in werking hebben van dergelijke inrichtingen in gebieden als bedoeld onder a, dan wel tot het op een bij die verordening aan te geven wijze veranderen van dergelijke inrichtingen in die gebieden, of het veranderen van de werking daarvan.      
 7.   Bij de verordening kan, voor zover het gevallen betreft als bedoeld in het zesde lid, worden bepaald dat het orgaan dat bevoegd is een omgevingsvergunning voor een inrichting te verlenen, bij het verlenen of wijzigen van de vergunning met betrekking tot de daarbij aangegeven onderwerpen in de daaraan verbonden voorschriften van bij de verordening gestelde regels kan afwijken. In dat geval wordt bij de verordening aangegeven in hoeverre het bevoegd gezag van de regels kan afwijken. Bij de verordening kan tevens worden bepaald dat de bevoegdheid tot afwijken slechts geldt in daarbij aangegeven categorieën van gevallen.    
@@ -98,7 +98,7 @@ Bij de provinciale milieuverordening worden geen regels gesteld, die het naar of
 1.  Bij de provinciale milieuverordening kan worden bepaald dat daarbij aangewezen bestuursorganen in daarbij aangegeven categorieën van gevallen ontheffing kunnen verlenen van bij die verordening aangewezen regels, indien het belang van de bescherming van het milieu zich daartegen niet verzet.    
 2.   De bevoegdheid, bedoeld in het eerste lid, geldt niet met betrekking tot inrichtingen waarvoor een omgevingsvergunning is vereist.    
 3.   Het betrokken orgaan houdt bij de beslissing op de aanvraag om een ontheffing in ieder geval rekening met het voor hem geldende milieubeleidsplan.    
-4.   Op de voorbereiding van een beschikking krachtens het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Indien uit het oogpunt van bescherming van het milieu redelijkerwijs geen zienswijzen zijn te verwachten, kan bij de provinciale milieuverordening anders worden bepaald. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een beschikking krachtens het eerste lid.  
+4.   Op de voorbereiding van een beschikking krachtens het eerste lid is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Indien uit het oogpunt van bescherming van het milieu redelijkerwijs geen zienswijzen zijn te verwachten, kan bij de provinciale milieuverordening anders worden bepaald. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een beschikking krachtens het eerste lid.  
 
 ### Artikel  1.3a  
 
@@ -112,13 +112,13 @@ c. andere bij provinciale milieuverordening daartoe aangewezen regels, draagt er
 2.  Het eerste lid is niet van toepassing voor zover de activiteit is toegestaan krachtens een ontheffing als bedoeld in artikel 1.3, eerste lid, of voor de activiteit een zodanige ontheffing is aangevraagd.   
 3.  De krachtens artikel 1.3, eerste lid, aangewezen regels gelden niet voor zover de activiteiten waarop die regels betrekking hebben, zijn toegestaan krachtens een omgevingsvergunning als bedoeld in het eerste lid.   
 4.  Het is verboden te handelen in strijd met een voorschrift van een omgevingsvergunning dat betrekking heeft op een activiteit als bedoeld in het eerste lid.   
-5.  [Artikel 2.2 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op ontheffingen die ingevolge een provinciale milieuverordening zijn vereist.  
+5.  Artikel 2.2 van de Wet algemene bepalingen omgevingsrecht is niet van toepassing op ontheffingen die ingevolge een provinciale milieuverordening zijn vereist.  
 
 ### Artikel  1.3b  
 
-1.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning als bedoeld in artikel 1.3a, eerste lid.   
+1.  Afdeling 3.4 van de Algemene wet bestuursrecht en paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht zijn van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning als bedoeld in artikel 1.3a, eerste lid.   
 2.  Voor zover de aanvraag om een omgevingsvergunning betrekking heeft op een activiteit als bedoeld in artikel 1.3a, eerste lid, kan de omgevingsvergunning slechts worden verleend en wordt de omgevingsvergunning geweigerd op de gronden die ten aanzien van een ontheffing voor de activiteit zijn aangegeven in de provinciale milieuverordening.   
-3.  Indien toepassing wordt gegeven aan [artikel 2.5 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is het tweede lid van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.   
+3.  Indien toepassing wordt gegeven aan artikel 2.5 van de Wet algemene bepalingen omgevingsrecht, is het tweede lid van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.   
 4.  Voor zover de omgevingsvergunning betrekking heeft op een activiteit als bedoeld in artikel 1.3a, eerste lid, kan deze geheel of gedeeltelijk worden ingetrokken of kunnen de daaraan verbonden voorschriften worden gewijzigd, aangevuld of ingetrokken, dan wel kunnen alsnog voorschriften worden verbonden aan de omgevingsvergunning, op de gronden die ten aanzien van een ontheffing voor die activiteit zijn aangegeven in de provinciale milieuverordening.   
 5.  Indien bij provinciale milieuverordening regels zijn aangewezen als bedoeld in artikel 1.3a, eerste lid, onder c, worden bij de verordening regels gesteld met betrekking tot de gegevens en bescheiden die door de aanvrager om een omgevingsvergunning worden verstrekt met het oog op de beslissing op de aanvraag met betrekking tot de activiteiten waarop die regels van toepassing zijn.  
 
@@ -183,19 +183,19 @@ De emissieautoriteit stelt een bestuursreglement vast waarin haar werkwijze word
 
 ### Artikel  2.9  
 
-In afwijking van [artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) stelt het bestuur van de emissieautoriteit jaarlijks voor 1 juli een jaarverslag op. 
+In afwijking van artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen stelt het bestuur van de emissieautoriteit jaarlijks voor 1 juli een jaarverslag op. 
 
 ### Artikel  2.16  
 
 1.  Het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een inrichting waarop hoofdstuk 16 betrekking heeft, verstrekken elkaar desgevraagd of uit eigen beweging tijdig alle voor de uitoefening van hun taken redelijkerwijs benodigde inlichtingen.   
 2.  Bij het verstrekken van de in het eerste lid bedoelde inlichtingen wordt waar nodig aangegeven welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijk karakter kan voortvloeien uit de aard van de gegevens, dan wel uit het feit dat personen deze aan de bestuursorganen, bedoeld in het eerste lid, hebben verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.   
 3.  Vervallen.   
-4.  In geval voor een inrichting waarop hoofdstuk 16 betrekking heeft, het in [artikel 40, tweede lid, van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) vervatte verbod geldt, verstrekken het bestuur van de emissieautoriteit en Onze Minister van Economische Zaken elkaar desgevraagd of uit eigen beweging tijdig alle voor de uitoefening van hun taken redelijkerwijs benodigde inlichtingen. Het tweede en derde lid zijn van overeenkomstige toepassing.  
+4.  In geval voor een inrichting waarop hoofdstuk 16 betrekking heeft, het in artikel 40, tweede lid, van de Mijnbouwwet vervatte verbod geldt, verstrekken het bestuur van de emissieautoriteit en Onze Minister van Economische Zaken elkaar desgevraagd of uit eigen beweging tijdig alle voor de uitoefening van hun taken redelijkerwijs benodigde inlichtingen. Het tweede en derde lid zijn van overeenkomstige toepassing.  
 
 ###Artikel 2.16a 
 
-1.  Onverminderd artikel 16.8 van deze wet en het bepaalde krachtens [artikel 5.3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) stemmen het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een inrichting waarop hoofdstuk 16 van deze wet betrekking heeft, onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens de hoofdstukken 16 en 18 van deze wet, onderscheidenlijk de [hoofdstukken 2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
-2.  Onverminderd artikel 16.8 stemmen het bestuur van de emissieautoriteit en Onze Minister van Economische Zaken ingeval voor een inrichting waarop hoofdstuk 16 van deze wet betrekking heeft, het in [artikel 40, tweede lid, van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) vervatte verbod geldt, onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens hoofdstuk 16 van deze wet, onderscheidenlijk artikel 40 van de Mijnbouwwet. 
+1.  Onverminderd artikel 16.8 van deze wet en het bepaalde krachtens artikel 5.3 van de Wet algemene bepalingen omgevingsrecht stemmen het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een inrichting waarop hoofdstuk 16 van deze wet betrekking heeft, onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens de hoofdstukken 16 en 18 van deze wet, onderscheidenlijk de hoofdstukken 2, 3 en 5 van de Wet algemene bepalingen omgevingsrecht.   
+2.  Onverminderd artikel 16.8 stemmen het bestuur van de emissieautoriteit en Onze Minister van Economische Zaken ingeval voor een inrichting waarop hoofdstuk 16 van deze wet betrekking heeft, het in artikel 40, tweede lid, van de Mijnbouwwet vervatte verbod geldt, onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens hoofdstuk 16 van deze wet, onderscheidenlijk artikel 40 van de Mijnbouwwet. 
 
 ### §  2.2  
 
@@ -239,7 +239,7 @@ De commissie heeft een secretaris, die door de voorzitter wordt benoemd en ontsl
 1.  De kosten van de commissie en het bureau worden gedekt uit door de commissie vast te stellen en in rekening te brengen tarieven voor de uit te brengen adviezen.   
 2.  De in het eerste lid bedoelde tarieven hebben een rechtstreeks verband met de in dat lid bedoelde adviezen en belopen niet meer dan nodig is ter dekking van de gemaakte kosten voor die adviezen.   
 3.  De in het eerste lid bedoelde tarieven behoeven de goedkeuring van Onze Minister.   
-4.  De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op de goedkeuring, bedoeld in het derde lid.  
+4.  De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op de goedkeuring, bedoeld in het derde lid.  
 
 ### Artikel  2.24  
 
@@ -312,7 +312,7 @@ Telkens binnen een termijn van vier jaren brengt de commissie een rapport uit aa
 ### Artikel  2.36  
 
 1.  De vergaderingen van de commissie zijn openbaar. De commissie stelt bij haar in artikel 2.40 bedoelde besluit regels betreffende de openbaarheid van de vergaderingen van de subcommissies.    
-2.   Een vergadering of een gedeelte daarvan is niet openbaar in gevallen als bedoeld in [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in [artikel 10, tweede lid](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), van die wet genoemde belangen.   
+2.   Een vergadering of een gedeelte daarvan is niet openbaar in gevallen als bedoeld in artikel 10, eerste lid, van de Wet openbaarheid van bestuur en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in artikel 10, tweede lid, van die wet genoemde belangen.   
 
 ### Artikel  2.37  
 
@@ -339,7 +339,7 @@ De commissie stelt nadere regels betreffende haar werkwijze en de werkwijze van 
 
 ### Artikel  2.41  
 
-1. Provinciale staten en gedeputeerde staten stellen overeenkomstig [artikel 82 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) gezamenlijk een provinciale milieucommissie in, die door provinciale staten en gedeputeerde staten vooraf wordt gehoord over maatregelen en plannen, die van betekenis zijn voor het provinciale milieubeheer. 
+1. Provinciale staten en gedeputeerde staten stellen overeenkomstig artikel 82 van de Provinciewet gezamenlijk een provinciale milieucommissie in, die door provinciale staten en gedeputeerde staten vooraf wordt gehoord over maatregelen en plannen, die van betekenis zijn voor het provinciale milieubeheer. 
 2. Provinciale staten en gedeputeerde staten benoemen elk een gelijk aantal leden. 
 3. De inspecteur is ambtshalve lid van de commissie. 
 
@@ -365,8 +365,8 @@ In dit hoofdstuk wordt onder Onze Ministers verstaan: Onze Minister, te zamen me
 
 ###Artikel 4.1a 
 
-1. Indien ter uitvoering van een voor Nederland verbindend besluit van een volkenrechtelijke organisatie een plan of programma moet worden vastgesteld waarvoor geen grondslag in de wet is opgenomen en ten aanzien waarvan ingevolge artikel 2, tweede lid, van richtlijn nr. 2003/35/EG van het Europees Parlement en de Raad van 26 mei 2003 tot voorziening in inspraak van het publiek in de opstelling van bepaalde plannen en programma’s betreffende het milieu en, met betrekking tot inspraak van het publiek en toegang tot de rechter, tot wijziging van de Richtlijnen 85/337/EEG en 96/61/EG van de Raad (PbEU L 156) in inspraak van het publiek moet worden voorzien, is op de voorbereiding van dat plan of programma [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. De eerste volzin is van overeenkomstige toepassing op een herziening van een plan of programma.
-2. Zienswijzen als bedoeld in [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen naar voren worden gebracht door een ieder.
+1. Indien ter uitvoering van een voor Nederland verbindend besluit van een volkenrechtelijke organisatie een plan of programma moet worden vastgesteld waarvoor geen grondslag in de wet is opgenomen en ten aanzien waarvan ingevolge artikel 2, tweede lid, van richtlijn nr. 2003/35/EG van het Europees Parlement en de Raad van 26 mei 2003 tot voorziening in inspraak van het publiek in de opstelling van bepaalde plannen en programma’s betreffende het milieu en, met betrekking tot inspraak van het publiek en toegang tot de rechter, tot wijziging van de Richtlijnen 85/337/EEG en 96/61/EG van de Raad (PbEU L 156) in inspraak van het publiek moet worden voorzien, is op de voorbereiding van dat plan of programma afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. De eerste volzin is van overeenkomstige toepassing op een herziening van een plan of programma.
+2. Zienswijzen als bedoeld in artikel 3:15 van de Algemene wet bestuursrecht kunnen naar voren worden gebracht door een ieder.
 3. Een wijziging van de in het eerste lid genoemde richtlijn of van een bijlage bij die richtlijn gaat voor de toepassing van dit hoofdstuk gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij een besluit van Onze Minister, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ### Artikel  4.1b  
@@ -410,12 +410,12 @@ c. de aanduiding van gebieden waarin de kwaliteit van het milieu of van een of m
 d. de wijze waarop het bereiken en instandhouden van de onder a , b en c bedoelde resultaten zal worden nagestreefd en de termijnen die daarbij zullen worden gehanteerd, alsmede de mate van prioriteit die aan het bereiken van die resultaten wordt gegeven;   
 
 e. de redelijkerwijze te verwachten financiële, economische en ruimtelijke gevolgen van het te voeren milieubeleid.      
-4.  In het plan geven Onze Ministers voorts aan in hoeverre het voorgenomen beleid is afgestemd op, dan wel leidt tot aanpassing van het nationale waterbeleid en het nationale natuurbeleid, en in hoeverre en binnen welke termijn zij voornemens zijn het nationale waterplan, bedoeld in [artikel 4.1, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), respectievelijk het Natuurbeleidsplan, bedoeld in [artikel 4 van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) te herzien. Met het geldende nationale milieubeleidsplan wordt tevens rekening gehouden bij de vaststelling van beleid op andere beleidsterreinen, voor zover daarbij het belang van de bescherming van het milieu wordt geraakt.   
+4.  In het plan geven Onze Ministers voorts aan in hoeverre het voorgenomen beleid is afgestemd op, dan wel leidt tot aanpassing van het nationale waterbeleid en het nationale natuurbeleid, en in hoeverre en binnen welke termijn zij voornemens zijn het nationale waterplan, bedoeld in artikel 4.1, eerste lid, van de Waterwet, respectievelijk het Natuurbeleidsplan, bedoeld in artikel 4 van de Natuurbeschermingswet 1998 te herzien. Met het geldende nationale milieubeleidsplan wordt tevens rekening gehouden bij de vaststelling van beleid op andere beleidsterreinen, voor zover daarbij het belang van de bescherming van het milieu wordt geraakt.   
 
 ###Artikel 4.4 
 
 1. Onze Ministers betrekken bij de voorbereiding van het nationale milieubeleidsplan de naar hun oordeel bij de te behandelen onderwerpen meest belanghebbende bestuursorganen, instellingen en organisaties. Daartoe behoren in elk geval gedeputeerde staten van de provincies. 
-2. Op de voorbereiding van het nationale milieubeleidsplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+2. Op de voorbereiding van het nationale milieubeleidsplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
 ### Artikel  4.5  
 
@@ -429,7 +429,7 @@ e. de redelijkerwijze te verwachten financiële, economische en ruimtelijke gevo
 3.   De organen van het Rijk houden in elk geval rekening met het geldende nationale milieubeleidsplan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in bijlage 1, voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.    
 4.   Het derde lid is niet van toepassing op besluiten:  
 
-a. met betrekking tot het nationale waterplan, bedoeld in [artikel 4.1, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md);   
+a. met betrekking tot het nationale waterplan, bedoeld in artikel 4.1, eerste lid, van de Waterwet;   
 
 b. die door een orgaan van het Rijk worden genomen in de plaats van een orgaan van een ander openbaar lichaam, wegens het in gebreke blijven van dat orgaan.      
 5.   Voor de toepassing van het derde lid worden gevolgtrekkingen die overeenkomstig het bepaalde in het eerste lid aan de Staten-Generaal zijn meegedeeld, aangemerkt als onderdeel van het plan.   
@@ -465,8 +465,8 @@ a. de gebieden die krachtens de Natuurbeschermingswet zijn aangewezen als besche
 
 b. de gebieden die zijn aangewezen ter uitvoering van de Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats voor watervogels (Conventie van Ramsar, *Trb.* 1975, 84), en  
 
-c.de archeologische attentiegebieden, die zijn aangewezen op grond van [artikel 44 van de Monumentenwet 1998](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) behoudens voor zover bij die aanwijzing anders is bepaald.    
-5.   In het plan geven provinciale staten voorts aan in hoeverre het voorgenomen beleid is afgestemd op, dan wel leidt tot aanpassing van het regionale waterbeleid, het provinciale ruimtelijk beleid of het provinciale verkeers- en vervoerbeleid en in hoeverre en binnen welke termijn zij voornemens zijn het geldende regionale waterplan, bedoeld in [artikel 4.4, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), een of meer geldende structuurvisies als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of het geldende provinciale verkeers- en vervoerplan als bedoeld in [artikel 5 van de Planwet verkeer en vervoer](../../../../wet/planwet/verkeer/en/vervoer/BWBR0009642/README.md), te herzien.   
+c.de archeologische attentiegebieden, die zijn aangewezen op grond van artikel 44 van de Monumentenwet 1998 behoudens voor zover bij die aanwijzing anders is bepaald.    
+5.   In het plan geven provinciale staten voorts aan in hoeverre het voorgenomen beleid is afgestemd op, dan wel leidt tot aanpassing van het regionale waterbeleid, het provinciale ruimtelijk beleid of het provinciale verkeers- en vervoerbeleid en in hoeverre en binnen welke termijn zij voornemens zijn het geldende regionale waterplan, bedoeld in artikel 4.4, eerste lid, van de Waterwet, een of meer geldende structuurvisies als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening of het geldende provinciale verkeers- en vervoerplan als bedoeld in artikel 5 van de Planwet verkeer en vervoer, te herzien.   
 
 ###Artikel 4.10 
 
@@ -478,7 +478,7 @@ a.gedeputeerde staten van de aangrenzende provincies,
 b.de bestuursorganen waaraan provinciale bevoegdheden zijn gedelegeerd bij de uitoefening waarvan met het plan rekening moet worden gehouden, en 
 
 c.Onze Minister. 
-3. Gedeputeerde staten betrekken bij de voorbereiding van het plan voorts de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens [artikel 147 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) vastgestelde verordening.
+3. Gedeputeerde staten betrekken bij de voorbereiding van het plan voorts de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens artikel 147 van de Provinciewet vastgestelde verordening.
 
 ### Artikel  4.11  
 
@@ -492,7 +492,7 @@ c.Onze Minister.
 3.   Provinciale staten en gedeputeerde staten houden in elk geval rekening met het geldende provinciale milieubeleidsplan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in bijlage 1, voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.    
 4.   Het derde lid is niet van toepassing op besluiten:  
 
-a. met betrekking tot een regionaal waterplan als bedoeld in [artikel 4.4, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md);   
+a. met betrekking tot een regionaal waterplan als bedoeld in artikel 4.4, eerste lid, van de Waterwet;   
 
 b. die door provinciale staten of gedeputeerde staten worden genomen in de plaats van een orgaan van een ander openbaar lichaam, wegens het in gebreke blijven van dat orgaan.      
 5.   Het derde lid is van overeenkomstige toepassing op besluiten:  
@@ -513,7 +513,7 @@ Vervallen per 25-04-2013
 
 ### Artikel  4.15a  
 
-1. Het algemeen bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, kan een regionaal milieubeleidsplan vaststellen, dat met het oog op de bescherming van het milieu richting geeft aan beslissingen tot het nemen waarvan de bevoegdheid bij of krachtens de wet aan een orgaan van dat lichaam is toegekend.  
+1. Het algemeen bestuur van een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, kan een regionaal milieubeleidsplan vaststellen, dat met het oog op de bescherming van het milieu richting geeft aan beslissingen tot het nemen waarvan de bevoegdheid bij of krachtens de wet aan een orgaan van dat lichaam is toegekend.  
 2.   De artikelen 4.16, tweede lid, 4.17, 4.18 en 4.19 zijn van overeenkomstige toepassing, met dien verstande dat naast de in artikel 4.17, tweede lid, genoemde bestuursorganen ook burgemeester en wethouders van de in de plusregio gelegen gemeenten bij de voorbereiding van het plan worden betrokken.   
 
 ### §  4.5b  
@@ -541,7 +541,7 @@ a.gedeputeerde staten,
 b.burgemeester en wethouders van de aangrenzende gemeenten, en 
 
 c.Onze Minister. 
-3. Burgemeester en wethouders betrekken bij de voorbereiding van het plan voorts de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens [artikel 150 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening.
+3. Burgemeester en wethouders betrekken bij de voorbereiding van het plan voorts de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens artikel 150 van de Gemeentewet vastgestelde verordening.
 
 ### Artikel  4.18  
 
@@ -570,7 +570,7 @@ Vervallen per 25-04-2013
 1.  De gemeenteraad stelt telkens voor een daarbij vast te stellen periode een gemeentelijk rioleringsplan vast.    
 2.   Het plan bevat ten minste:  
 
-a. een overzicht van de in de gemeente aanwezige voorzieningen voor de inzameling en het transport van stedelijk afvalwater als bedoeld in artikel 10.33, alsmede de inzameling en verdere verwerking van afvloeiend hemelwater als bedoeld in [artikel 3.5 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), en maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, als bedoeld in [artikel 3.6 van laatstgenoemde wet](../../../../wet/waterwet/BWBR0025458/README.md) en een aanduiding van het tijdstip waarop die voorzieningen naar verwachting aan vervanging toe zijn;   
+a. een overzicht van de in de gemeente aanwezige voorzieningen voor de inzameling en het transport van stedelijk afvalwater als bedoeld in artikel 10.33, alsmede de inzameling en verdere verwerking van afvloeiend hemelwater als bedoeld in artikel 3.5 van de Waterwet, en maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, als bedoeld in artikel 3.6 van laatstgenoemde wet en een aanduiding van het tijdstip waarop die voorzieningen naar verwachting aan vervanging toe zijn;   
 
 b. een overzicht van de in de door het plan bestreken periode aan te leggen of te vervangen voorzieningen als bedoeld onder a ;   
 
@@ -580,7 +580,7 @@ d. de gevolgen voor het milieu van de aanwezige voorzieningen als bedoeld onder 
 
 e. een overzicht van de financiële gevolgen van de in het plan aangekondigde activiteiten.      
 3.   Indien in de gemeente een gemeentelijk milieubeleidsplan geldt, houdt de gemeenteraad met dat plan rekening bij de vaststelling van een gemeentelijk rioleringsplan.    
-4. Onze Minister kan, in overeenstemming met Onze Minister van Verkeer en Waterstaat, aan gemeenten de plicht opleggen tot prestatievergelijking ten aanzien van de uitvoering van de taak, bedoeld in artikel 10.33, alsmede de taken, bedoeld in de [artikelen 3.5](../../../../wet/waterwet/BWBR0025458/README.md) en [3.6 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md). Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de frequentie, inhoud en omvang van de prestatievergelijking.
+4. Onze Minister kan, in overeenstemming met Onze Minister van Verkeer en Waterstaat, aan gemeenten de plicht opleggen tot prestatievergelijking ten aanzien van de uitvoering van de taak, bedoeld in artikel 10.33, alsmede de taken, bedoeld in de artikelen 3.5 en 3.6 van de Waterwet. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de frequentie, inhoud en omvang van de prestatievergelijking.
 
 ### Artikel  4.23  
 
@@ -646,11 +646,11 @@ c. de bij die maatregel ter uitvoering van een EU-richtlijn of EU-verordening ge
 3. Bij een maatregel als bedoeld in artikel 5.1, eerste lid, wordt overeenkomstig artikel 4, vierde, vijfde en zevende lid, van de kaderrichtlijn water bepaald in hoeverre en onder welke voorwaarden kan worden afgeweken van de ter uitvoering van artikel 4, eerste en tweede lid, van die richtlijn gestelde milieukwaliteitseisen en termijnen. 
 4.  In: 
 
-a. het nationale waterplan, bedoeld in [artikel 4.1, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md),  
+a. het nationale waterplan, bedoeld in artikel 4.1, eerste lid, van de Waterwet,  
 
-b. een regionaal waterplan als bedoeld in [artikel 4.4, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md),  
+b. een regionaal waterplan als bedoeld in artikel 4.4, eerste lid, van de Waterwet,  
 
-c. een beheerplan als bedoeld in [artikel 4.6, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), worden de maatregelen opgenomen of uiteengezet ter voorkoming van achteruitgang van de toestand van alle oppervlaktewaterlichamen en grondwaterlichamen die in verband met de uitvoering van de verplichtingen van de kaderrichtlijn water zijn aangewezen, behoudens voor zover overeenkomstig artikel 4, zesde, zevende en achtste lid, van die richtlijn bij een algemene maatregel van bestuur als bedoeld in artikel 5.1, eerste lid, is bepaald dat achteruitgang van een toestand is toegelaten.    
+c. een beheerplan als bedoeld in artikel 4.6, eerste lid, van de Waterwet, worden de maatregelen opgenomen of uiteengezet ter voorkoming van achteruitgang van de toestand van alle oppervlaktewaterlichamen en grondwaterlichamen die in verband met de uitvoering van de verplichtingen van de kaderrichtlijn water zijn aangewezen, behoudens voor zover overeenkomstig artikel 4, zesde, zevende en achtste lid, van die richtlijn bij een algemene maatregel van bestuur als bedoeld in artikel 5.1, eerste lid, is bepaald dat achteruitgang van een toestand is toegelaten.    
 5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de toepassing van het vierde lid. 
 
 ### Artikel  5.3  
@@ -689,7 +689,7 @@ Indien ter uitvoering van deze titel een ministeriële regeling als bedoeld in a
 
 ### Artikel 5.7 
 
-1. In deze titel, bijlage 2 en de op deze titel berustende bepalingen met betrekking tot de kwaliteit van de buitenlucht wordt verstaan onder:*acht-uurgemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over acht achtereenvolgende uurgemiddelde concentraties, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal;*agglomeratie*: stedelijk gebied met ten minste 250 000 inwoners;*alarmdrempel*: kwaliteitsniveau bij het bereiken waarvan het waarschuwen van de bevolking noodzakelijk is teneinde de risico’s voor de gezondheid van de mens ingeval van een kortstondige overschrijding van dat kwaliteitsniveau te beperken;*AOT40-waarde*: gesommeerd verschil tussen de uurgemiddelde concentraties van ozon boven 80 microgram per m<sup>3</sup> en 80 microgram per m<sup>3</sup> tussen 08.00 uur en 20.00 uur Midden-Europese-Tijd, over een bepaalde periode, uitgedrukt in (microgram per m<sup>3</sup>) • uur;*autosnelweg*: autosnelweg als bedoeld in [artikel 1, onder c, van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md); *beoordelen van de luchtkwaliteit:* vaststellen van het kwaliteitsniveau en bepalen van de mate waarin een vastgesteld kwaliteitsniveau voldoet aan een grenswaarde, blootstellingsconcentratieverplichting, richtwaarde, plandrempel, alarmdrempel of informatiedrempel als bedoeld in bijlage 2; *blootstellingsconcentratieverplichting:* een op grond van de gemiddelde blootstellingsindex bepaald kwaliteitsniveau met het doel de schadelijke gevolgen voor de gezondheid van de mens te verminderen, waaraan binnen een bepaalde termijn moet worden voldaan; *buitenlucht:* buitenlucht in de troposfeer; *bijdragen van natuurlijke bronnen:* emissies van verontreinigende stoffen die niet direct of indirect zijn veroorzaakt door menselijke activiteiten, met inbegrip van natuurverschijnselen zoals vulkanische uitbarstingen, seismische activiteiten, geothermische activiteiten, bosbranden, stormen, zeezout als gevolg van verstuivend zeewater of de atmosferische opwerveling of verplaatsing van natuurlijke deeltjes uit droge regio’s; *EG-richtlijn luchtkwaliteit:* richtlijn nr. 2008/50/EG van het Europees Parlement en de Raad van de Europese Unie van 21 mei 2008 betreffende de luchtkwaliteit en schonere lucht voor Europa (PbEG L 152); *gemiddelde blootstellingsindex:* gemiddeld kwaliteitsniveau dat overeenkomstig de [Regeling beoordeling luchtkwaliteit](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md) wordt bepaald op basis van stedelijke achtergrondlocaties verspreid over het gehele Nederlandse grondgebied en dat de blootstelling van de bevolking weergeeft;*grenswaarde*: kwaliteitsniveau met als doel schadelijke gevolgen voor de menselijke gezondheid of het milieu als geheel te vermijden, te voorkomen of te verminderen en dat binnen een bepaalde termijn moet worden bereikt en, wanneer het eenmaal is bereikt, niet meer mag worden overschreden;*informatiedrempel*: kwaliteitsniveau bij het bereiken waarvan het informeren van de bevolking noodzakelijk is, teneinde de risico’s voor de gezondheid van bijzonder gevoelige bevolkingsgroepen ingeval van een kortstondige overschrijding van dat kwaliteitsniveau te beperken;*jaargemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over vierentwintig-uurgemiddelde concentraties in een kalenderjaar, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal voor zwaveldioxide, stikstofdioxide, stikstofoxiden, lood en benzeen en bij heersende temperatuur en druk voor zwevende deeltjes (PM<sub>10</sub>) en voor zwevende deeltjes (PM<sub>2,5</sub>);*kwaliteitsniveau*: concentratie in de buitenlucht of de depositiesnelheid van een verontreinigende stof;*luchtverontreiniging*: aanwezigheid in de buitenlucht van verontreinigende stoffen;*plandrempel*: kwaliteitsniveau bij het bereiken waarvan een planmatige aanpak van de luchtverontreiniging noodzakelijk is;*richtwaarde*: kwaliteitsniveau dat is vastgesteld met het doel om schadelijke gevolgen voor de menselijke gezondheid of het milieu als geheel te vermijden, te voorkomen of te verminderen en dat voor zover mogelijk binnen een bepaalde termijn moet worden bereikt;*stikstofoxiden*: het totale aantal volumedelen stikstofmonoxide en stikstofdioxide per miljard volumedelen, uitgedrukt in microgrammen stikstofdioxide per m<sup>3</sup>;*uurgemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over een heel uur, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal; *vaststellen van het kwaliteitsniveau:* door middel van meting of berekening bepalen of prognosticeren van de concentratie van een verontreinigende stof in de buitenlucht of van de depositie van die stof; *verontreinigende stof:* stof die zich in de lucht bevindt en die waarschijnlijk schadelijke gevolgen voor de menselijke gezondheid of het milieu als geheel heeft;*vierentwintig-uurgemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over het tijdvak van 0.00 uur tot 24.00 uur Midden-Europese-Tijd, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal voor zwaveldioxide en bij heersende temperatuur en druk voor zwevende deeltjes (PM<sub>10</sub>);*winterhalfjaargemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over vierentwintig-uurgemiddelde concentraties van 1 oktober tot en met 31 maart, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kilo Pascal;*zone*: gedeelte van het Nederlandse grondgebied;*zwevende deeltjes (PM<sub>10</sub>)*: in de buitenlucht voorkomende stofdeeltjes die een op grootte selecterende instroomopening passeren met een efficiencygrens van 50 procent bij een aërodynamische diameter van 10 micrometer; *zwevende deeltjes (PM<sub>2,5</sub>):* in de buitenlucht voorkomende stofdeeltjes die een op grootte selecterende instroomopening passeren met een efficiencygrens van 50 procent bij een aerodynamische diameter van 2,5 micrometer. 
+1. In deze titel, bijlage 2 en de op deze titel berustende bepalingen met betrekking tot de kwaliteit van de buitenlucht wordt verstaan onder:*acht-uurgemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over acht achtereenvolgende uurgemiddelde concentraties, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal;*agglomeratie*: stedelijk gebied met ten minste 250 000 inwoners;*alarmdrempel*: kwaliteitsniveau bij het bereiken waarvan het waarschuwen van de bevolking noodzakelijk is teneinde de risico’s voor de gezondheid van de mens ingeval van een kortstondige overschrijding van dat kwaliteitsniveau te beperken;*AOT40-waarde*: gesommeerd verschil tussen de uurgemiddelde concentraties van ozon boven 80 microgram per m<sup>3</sup> en 80 microgram per m<sup>3</sup> tussen 08.00 uur en 20.00 uur Midden-Europese-Tijd, over een bepaalde periode, uitgedrukt in (microgram per m<sup>3</sup>) • uur;*autosnelweg*: autosnelweg als bedoeld in artikel 1, onder c, van het Reglement verkeersregels en verkeerstekens 1990; *beoordelen van de luchtkwaliteit:* vaststellen van het kwaliteitsniveau en bepalen van de mate waarin een vastgesteld kwaliteitsniveau voldoet aan een grenswaarde, blootstellingsconcentratieverplichting, richtwaarde, plandrempel, alarmdrempel of informatiedrempel als bedoeld in bijlage 2; *blootstellingsconcentratieverplichting:* een op grond van de gemiddelde blootstellingsindex bepaald kwaliteitsniveau met het doel de schadelijke gevolgen voor de gezondheid van de mens te verminderen, waaraan binnen een bepaalde termijn moet worden voldaan; *buitenlucht:* buitenlucht in de troposfeer; *bijdragen van natuurlijke bronnen:* emissies van verontreinigende stoffen die niet direct of indirect zijn veroorzaakt door menselijke activiteiten, met inbegrip van natuurverschijnselen zoals vulkanische uitbarstingen, seismische activiteiten, geothermische activiteiten, bosbranden, stormen, zeezout als gevolg van verstuivend zeewater of de atmosferische opwerveling of verplaatsing van natuurlijke deeltjes uit droge regio’s; *EG-richtlijn luchtkwaliteit:* richtlijn nr. 2008/50/EG van het Europees Parlement en de Raad van de Europese Unie van 21 mei 2008 betreffende de luchtkwaliteit en schonere lucht voor Europa (PbEG L 152); *gemiddelde blootstellingsindex:* gemiddeld kwaliteitsniveau dat overeenkomstig de Regeling beoordeling luchtkwaliteit wordt bepaald op basis van stedelijke achtergrondlocaties verspreid over het gehele Nederlandse grondgebied en dat de blootstelling van de bevolking weergeeft;*grenswaarde*: kwaliteitsniveau met als doel schadelijke gevolgen voor de menselijke gezondheid of het milieu als geheel te vermijden, te voorkomen of te verminderen en dat binnen een bepaalde termijn moet worden bereikt en, wanneer het eenmaal is bereikt, niet meer mag worden overschreden;*informatiedrempel*: kwaliteitsniveau bij het bereiken waarvan het informeren van de bevolking noodzakelijk is, teneinde de risico’s voor de gezondheid van bijzonder gevoelige bevolkingsgroepen ingeval van een kortstondige overschrijding van dat kwaliteitsniveau te beperken;*jaargemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over vierentwintig-uurgemiddelde concentraties in een kalenderjaar, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal voor zwaveldioxide, stikstofdioxide, stikstofoxiden, lood en benzeen en bij heersende temperatuur en druk voor zwevende deeltjes (PM<sub>10</sub>) en voor zwevende deeltjes (PM<sub>2,5</sub>);*kwaliteitsniveau*: concentratie in de buitenlucht of de depositiesnelheid van een verontreinigende stof;*luchtverontreiniging*: aanwezigheid in de buitenlucht van verontreinigende stoffen;*plandrempel*: kwaliteitsniveau bij het bereiken waarvan een planmatige aanpak van de luchtverontreiniging noodzakelijk is;*richtwaarde*: kwaliteitsniveau dat is vastgesteld met het doel om schadelijke gevolgen voor de menselijke gezondheid of het milieu als geheel te vermijden, te voorkomen of te verminderen en dat voor zover mogelijk binnen een bepaalde termijn moet worden bereikt;*stikstofoxiden*: het totale aantal volumedelen stikstofmonoxide en stikstofdioxide per miljard volumedelen, uitgedrukt in microgrammen stikstofdioxide per m<sup>3</sup>;*uurgemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over een heel uur, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal; *vaststellen van het kwaliteitsniveau:* door middel van meting of berekening bepalen of prognosticeren van de concentratie van een verontreinigende stof in de buitenlucht of van de depositie van die stof; *verontreinigende stof:* stof die zich in de lucht bevindt en die waarschijnlijk schadelijke gevolgen voor de menselijke gezondheid of het milieu als geheel heeft;*vierentwintig-uurgemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over het tijdvak van 0.00 uur tot 24.00 uur Midden-Europese-Tijd, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal voor zwaveldioxide en bij heersende temperatuur en druk voor zwevende deeltjes (PM<sub>10</sub>);*winterhalfjaargemiddelde concentratie*: concentratie in de buitenlucht, gemiddeld over vierentwintig-uurgemiddelde concentraties van 1 oktober tot en met 31 maart, uitgedrukt in microgram per m<sup>3</sup> lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kilo Pascal;*zone*: gedeelte van het Nederlandse grondgebied;*zwevende deeltjes (PM<sub>10</sub>)*: in de buitenlucht voorkomende stofdeeltjes die een op grootte selecterende instroomopening passeren met een efficiencygrens van 50 procent bij een aërodynamische diameter van 10 micrometer; *zwevende deeltjes (PM<sub>2,5</sub>):* in de buitenlucht voorkomende stofdeeltjes die een op grootte selecterende instroomopening passeren met een efficiencygrens van 50 procent bij een aerodynamische diameter van 2,5 micrometer. 
 2. In afwijking van artikel 1.1, eerste lid, wordt in deze titel, bijlage 2 en de op deze titel berustende bepalingen onder *stoffen* verstaan: chemische elementen en hun verbindingen, zoals deze voorkomen in de natuur of door toedoen van de mens worden voortgebracht.
 
 ### Artikel 5.8 
@@ -705,7 +705,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 ### Artikel 5.9 
 
 1. Burgemeester en wethouders stellen in de in bijlage 2, voorschrift 13.1, aangegeven gevallen waarin een plandrempel wordt overschreden een plan vast, waarin wordt aangegeven op welke wijze en door middel van welke maatregelen voldaan zal worden aan de desbetreffende in de bijlage genoemde grenswaarde, binnen de voor die waarde gestelde termijn. Zij dragen zorg voor de uitvoering van het plan.
-2. Op de voorbereiding van een plan als bedoeld in het eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+2. Op de voorbereiding van een plan als bedoeld in het eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 3. Gedeputeerde staten, Onze Minister, Onze Ministers van Landbouw, Natuur en Voedselkwaliteit en van Verkeer en Waterstaat en andere bestuursorganen die maatregelen kunnen treffen leveren op verzoek van burgemeester en wethouders een bijdrage aan het opstellen en uitvoeren van een plan als bedoeld in het eerste lid. Daarbij geven de desbetreffende bestuursorganen in het plan gemotiveerd rekenschap van het al dan niet treffen van maatregelen. Omtrent het opstellen en uitvoeren van het plan bevorderen burgemeester en wethouders overleg met die bestuursorganen.
 4. Voor 1 mei van het jaar volgend op het jaar waarin de overschrijding van de desbetreffende plandrempel, met inachtneming van de krachtens artikel 5.20 gestelde regels, is vastgesteld en gerapporteerd, stellen burgemeester en wethouders gedeputeerde staten in kennis van een vastgesteld plan als bedoeld in het eerste lid. Voor 1 juli van dat jaar stellen gedeputeerde staten Onze Minister in kennis van alle door hen ontvangen plannen.
 5. Burgemeester en wethouders rapporteren eenmaal in de drie jaar, voor 1 mei van het op die periode volgende jaar, aan gedeputeerde staten omtrent de voortgang van de uitvoering van een plan of plannen als bedoeld in het eerste lid. Voor 1 juli van dat jaar stellen gedeputeerde staten Onze Minister in kennis van alle door hen ontvangen voortgangsrapportages.
@@ -752,7 +752,7 @@ a.alle onderscheiden delen binnen een tijdvak van ten hoogste dertien weken word
 
 b.met elkaar, vanwege de daarin opgenomen ontwikkelingen, voorgenomen besluiten of maatregelen, samenhangende delen zoveel mogelijk tegelijkertijd worden vastgesteld. 
 7. Na een daartoe strekkend verzoek van Onze Minister verstrekken de desbetreffende bestuursorganen hem binnen een daarbij aangegeven termijn de daarbij gevraagde gegevens over de ontwikkelingen en besluiten, bedoeld in het derde lid, onder c, en de maatregelen, bedoeld in dat lid, onder b en d. 
-8. Op de voorbereiding van een programma als bedoeld in het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht ](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder. 
+8. Op de voorbereiding van een programma als bedoeld in het eerste lid is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder. 
 9. De daartoe bevoegde bestuursorganen dragen zorg voor de tijdige uitvoering van de maatregelen die in het programma zijn genoemd of beschreven, met dien verstande dat maatregelen die onlosmakelijk verbonden zijn met de ontwikkelingen en besluiten als bedoeld in het derde lid, onder c, ten behoeve van deze ontwikkelingen en besluiten worden uitgevoerd. 
 10. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord de Eerste en Tweede Kamer der Staten-Generaal, het programma, bedoeld in het eerste lid, ambtshalve wijzigen indien naar zijn oordeel:
 
@@ -772,8 +772,8 @@ Indien op of na het daarbij behorende tijdstip niet wordt voldaan of dreigt te w
 
 1.  Indien krachtens enig wettelijk voorschrift een besluit is vereist voor de door of vanwege Onze Minister van Verkeer en Waterstaat met betrekking tot het hoofdwegennet uit te voeren maatregelen als bedoeld in artikel 5.12, negende lid, zijn deze wettelijke voorschriften op die uitvoering niet van toepassing.   
 2.  Het eerste lid is niet van toepassing voor zover het vereist zijn van een besluit voortvloeit uit Europeesrechtelijke of internationaalrechtelijke verplichtingen.   
-3.  Voor zover het uitvoeren van de in het eerste lid bedoelde maatregelen niet in overeenstemming is met het bestemmingsplan of de beheerverordening, geldt het op die maatregelen betrekking hebbende onderdeel van het programma, bedoeld in artikel 5.12, eerste lid, als een omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van [artikel 2.10 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) worden onder bestemmingsplan of beheersverordening mede de betrokken onderdelen van het programma, bedoeld in artikel 5.12, eerste lid, begrepen.   
-4.  In de gevallen waarin het derde lid van toepassing is, stelt de gemeenteraad een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vast overeenkomstig de onderdelen van het programma, bedoeld in het derde lid. Dit geschiedt binnen een jaar na de datum van inwerkingtreding van de [Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) of, ingeval van een wijziging van dat programma die of nieuw programma dat na die datum wordt vastgesteld, binnen een jaar nadat die wijziging of dat programma onherroepelijk is geworden.   
+3.  Voor zover het uitvoeren van de in het eerste lid bedoelde maatregelen niet in overeenstemming is met het bestemmingsplan of de beheerverordening, geldt het op die maatregelen betrekking hebbende onderdeel van het programma, bedoeld in artikel 5.12, eerste lid, als een omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht, van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van artikel 2.10 van de Wet algemene bepalingen omgevingsrecht worden onder bestemmingsplan of beheersverordening mede de betrokken onderdelen van het programma, bedoeld in artikel 5.12, eerste lid, begrepen.   
+4.  In de gevallen waarin het derde lid van toepassing is, stelt de gemeenteraad een bestemmingsplan of een beheersverordening als bedoeld in de Wet ruimtelijke ordening vast overeenkomstig de onderdelen van het programma, bedoeld in het derde lid. Dit geschiedt binnen een jaar na de datum van inwerkingtreding van de Crisis- en herstelwet of, ingeval van een wijziging van dat programma die of nieuw programma dat na die datum wordt vastgesteld, binnen een jaar nadat die wijziging of dat programma onherroepelijk is geworden.   
 5.  Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in de onderdelen van het programma, bedoeld in het derde lid, kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerp van het bestemmingsplan.  
 
 ### Artikel 5.13 
@@ -823,23 +823,23 @@ a. de artikelen 1.2, 7.27, 7.35, 7.42 en 8.40, eerste lid;
 
 b. de artikelen 9.5.1 en 9.5.6;  
 
-c. de [artikelen 3.1](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+c. de artikelen 3.1, 3.26 en 3.28 van de Wet ruimtelijke ordening;  
 
-d. [artikel 9, eerste lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+d. artikel 9, eerste lid, van de Tracéwet;  
 
-e. [artikel 9 van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md); 
+e. artikel 9 van de Spoedwet wegverbreding; 
 
-f. [artikel 2 van de Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md);  
+f. artikel 2 van de Interimwet stad-en-milieubenadering;  
 
-g. [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), voor zover die bevoegdheid betrekking heeft op: 
+g. artikel 2.4 van de Wet algemene bepalingen omgevingsrecht, voor zover die bevoegdheid betrekking heeft op: 
 
-1°. activiteiten met betrekking tot een inrichting als bedoeld in [artikel 2.1, eerste lid, onder e, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+1°. activiteiten met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van die wet;  
 
-2°. activiteiten die op grond van [artikel 2.1, eerste lid, onder i, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), bij algemene maatregel van bestuur zijn aangewezen, voor zover die activiteiten plaatsvinden binnen een inrichting en voor zover dat bij die maatregel is bepaald; 
+2°. activiteiten die op grond van artikel 2.1, eerste lid, onder i, van die wet, bij algemene maatregel van bestuur zijn aangewezen, voor zover die activiteiten plaatsvinden binnen een inrichting en voor zover dat bij die maatregel is bepaald; 
 
-3°. gevallen waarin van het bestemmingsplan wordt afgeweken met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of artikel 2.12, tweede lid, van die wet;   
+3°. gevallen waarin van het bestemmingsplan wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, of artikel 2.12, tweede lid, van die wet;   
 
-h. [artikel 2.3 van de Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md).  
+h. artikel 2.3 van de Crisis- en herstelwet.  
 3.  Bij de uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in het eerste lid, aanhef en onder c of d, gedurende de periode waar een programma als bedoeld in artikel 5.12, eerste lid, of 5.13, eerste lid, betrekking op heeft, vindt met betrekking tot de effecten van de desbetreffende ontwikkeling of het desbetreffende besluit op de luchtkwaliteit geen afzonderlijke beoordeling van de luchtkwaliteit plaats voor een in bijlage 2 opgenomen grenswaarde voor die periode, noch voor enig jaar daarna.  
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in betekenende mate bijdragen als bedoeld in het eerste lid, aanhef en onder c, waaronder begrepen het aanwijzen van categorieën van gevallen die in ieder geval al dan niet in betekenende mate bijdragen in de daar bedoelde zin. 
 5. Voor de toepassing van het eerste lid, aanhef en onder b, aanhef en sub 2, of onder c, voor zover het betreft de onlosmakelijk met een uitoefening of toepassing samenhangende maatregelen:
@@ -855,7 +855,7 @@ d.worden waarborgen getroffen opdat de maatregelen ter vermindering van de conce
 
 ### Artikel 5.16a 
 
-1. Bij algemene maatregel van bestuur kan worden bepaald dat de uitoefening van een bevoegdheid of de toepassing van een wettelijk voorschrift, bedoeld in artikel 5.16, eerste lid, in daarbij aangewezen categorieën van gevallen waarin een in bijlage 2 opgenomen grenswaarde op of na het tijdstip van ingang wordt overschreden of dreigt te worden overschreden, en waarin de betreffende uitoefening of toepassing betrekking heeft op een bestaand of nieuw te bouwen bouwwerk in de zin van de [Woningwet](../../../../wet/woningwet/BWBR0005181/README.md), op een zodanige wijze plaatsvindt dat deze niet leidt tot een toename van het aantal ter plaatse verblijvende personen met een verhoogde gevoeligheid voor de concentraties in de buitenlucht van een stof waar de betreffende grenswaarde betrekking op heeft.
+1. Bij algemene maatregel van bestuur kan worden bepaald dat de uitoefening van een bevoegdheid of de toepassing van een wettelijk voorschrift, bedoeld in artikel 5.16, eerste lid, in daarbij aangewezen categorieën van gevallen waarin een in bijlage 2 opgenomen grenswaarde op of na het tijdstip van ingang wordt overschreden of dreigt te worden overschreden, en waarin de betreffende uitoefening of toepassing betrekking heeft op een bestaand of nieuw te bouwen bouwwerk in de zin van de Woningwet, op een zodanige wijze plaatsvindt dat deze niet leidt tot een toename van het aantal ter plaatse verblijvende personen met een verhoogde gevoeligheid voor de concentraties in de buitenlucht van een stof waar de betreffende grenswaarde betrekking op heeft.
 2. Bij of krachtens de maatregel, bedoeld in het eerste lid, kunnen nadere regels worden gegeven omtrent de wijze waarop uitvoering wordt gegeven aan dat lid, met inbegrip van het beperken van een categorie tot gevallen waarin niet wordt voldaan aan daarbij gestelde eisen met betrekking tot de locatie of afstand van een bouwwerk ten opzichte van een bron of bronnen van luchtverontreiniging.
 
 ### Artikel  5.17  
@@ -867,7 +867,7 @@ d.worden waarborgen getroffen opdat de maatregelen ter vermindering van de conce
 
 1. De commissaris van de Koningin doet van een overschrijding van een in bijlage 2 genoemde alarmdrempel of informatiedrempel in zijn provincie zo spoedig mogelijk mededeling aan het publiek. Wanneer overschrijding van een informatiedrempel of alarmdrempel voorkomt in samenhang met overschrijding van een in bijlage 2 genoemde grenswaarde voor een andere verontreinigende stof in de buitenlucht, doet de commissaris van de Koningin tevens mededeling van laatstbedoelde overschrijding.
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de in het eerste lid bedoelde mededeling en de daarbij aan het publiek te verstrekken gegevens alsmede met betrekking tot de wijze waarop uitvoering wordt gegeven aan artikel 24 van de EG-richtlijn luchtkwaliteit.
-3. [Artikel 48, derde lid, van de Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) is van overeenkomstige toepassing.
+3. Artikel 48, derde lid, van de Wet inzake de luchtverontreiniging is van overeenkomstige toepassing.
 
 ### §  5.2.5  
 
@@ -976,7 +976,7 @@ b. indien het bevoegd gezag een ander bestuursorgaan is:
 
 1º. een door Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen bestuursorgaan en een door Onze Minister van Onderwijs, Cultuur en Wetenschap aangewezen bestuursorgaan, en  
 
-2º. de inspecteur, voor zover het betreft een activiteit met betrekking tot een inrichting als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) in een geval dat behoort tot een krachtens [artikel 2.26, derde lid, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) aangewezen categorie.    
+2º. de inspecteur, voor zover het betreft een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht in een geval dat behoort tot een krachtens artikel 2.26, derde lid, van die wet aangewezen categorie.    
 
 ### §  7.2  
 
@@ -1003,7 +1003,7 @@ b.een of meerdere locaties of tracés voor die activiteiten worden overwogen.
 
 ###Artikel 7.2a 
 
-1. Een milieueffectrapport wordt gemaakt bij de voorbereiding van een op grond van een wettelijke of bestuursrechtelijke bepaling verplicht vast te stellen plan waarvoor, in verband met een daarin opgenomen activiteit, een passende beoordeling moet worden gemaakt op grond van [artikel 19j, tweede lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md). 
+1. Een milieueffectrapport wordt gemaakt bij de voorbereiding van een op grond van een wettelijke of bestuursrechtelijke bepaling verplicht vast te stellen plan waarvoor, in verband met een daarin opgenomen activiteit, een passende beoordeling moet worden gemaakt op grond van artikel 19j, tweede lid, van de Natuurbeschermingswet 1998. 
 2.  Bij algemene maatregel van bestuur kunnen categorieën van gevallen worden aangewezen, waarin sprake is van kleine gebieden en kleine wijzigingen die geen aanzienlijke milieueffecten hebben, waarop de verplichting tot het maken van een milieueffectrapport, als bedoeld in het eerste lid, niet van toepassing is.  
 3.  Tot een activiteit als bedoeld in het eerste lid behoort een activiteit als bedoeld in dat lid die plaatsvindt in de exclusieve economische zone. 
 
@@ -1011,17 +1011,17 @@ b.een of meerdere locaties of tracés voor die activiteiten worden overwogen.
 
 1. Bij de maatregel, bedoeld in artikel 7.2, worden geen plannen aangewezen die:
 
-a.uitsluitend betrekking hebben op de landsverdediging of op een noodsituatie als bedoeld in de [Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md);
+a.uitsluitend betrekking hebben op de landsverdediging of op een noodsituatie als bedoeld in de Coördinatiewet uitzonderingstoestanden;
 
 b.betrekking hebben op de begroting of financiën van het Rijk, de provincie, de gemeente of een waterschap. 
 2. Artikel 7.2a is niet van toepassing met betrekking tot plannen als bedoeld in het eerste lid.
 
 ### Artikel  7.6  
 
-1. Provinciale staten kunnen met het oog op de bescherming van het milieu in binnen hun provincie gelegen gebieden, niet zijnde gebieden als bedoeld in [artikel 10a, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), die van bijzondere betekenis zijn of waarin het milieu reeds in ernstige mate is verontreinigd of aangetast in de provinciale milieuverordening activiteiten aanwijzen, die niet zijn opgenomen in een algemene maatregel van bestuur krachtens artikel 7.2, eerste lid, onder a, en die belangrijke nadelige gevolgen kunnen hebben voor het milieu in die gebieden. Artikel 7.2, zesde en achtste lid, is van overeenkomstige toepassing.  
+1. Provinciale staten kunnen met het oog op de bescherming van het milieu in binnen hun provincie gelegen gebieden, niet zijnde gebieden als bedoeld in artikel 10a, eerste lid, van de Natuurbeschermingswet 1998, die van bijzondere betekenis zijn of waarin het milieu reeds in ernstige mate is verontreinigd of aangetast in de provinciale milieuverordening activiteiten aanwijzen, die niet zijn opgenomen in een algemene maatregel van bestuur krachtens artikel 7.2, eerste lid, onder a, en die belangrijke nadelige gevolgen kunnen hebben voor het milieu in die gebieden. Artikel 7.2, zesde en achtste lid, is van overeenkomstige toepassing.  
 2. Terzake van die activiteiten kunnen zij de categorieën van plannen aanwijzen bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt indien die activiteiten binnen hun provincie worden uitgevoerd. De artikelen 7.2, tweede lid, tweede en derde volzin, vijfde en achtste lid, en 7.3, eerste lid, zijn van overeenkomstige toepassing. 
 3. Terzake van die activiteiten wijzen zij de categorieën van besluiten aan bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt indien die activiteiten binnen hun provincie worden uitgevoerd. 
-4.   Op de voorbereiding van een besluit, houdende een aanwijzing krachtens het eerste tot en met derde lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing; zienswijzen kunnen naar voren worden gebracht door een ieder. Gedeputeerde staten plegen over het ontwerp overleg met burgemeester en wethouders van de gemeenten en de dagelijkse besturen van de waterschappen in hun provincie. Zij stellen de bestuursorganen, bedoeld in artikel 7.1, vijfde lid, onder b, onder 1, en Onze Minister in de gelegenheid omtrent het ontwerp advies uit te brengen.    
+4.   Op de voorbereiding van een besluit, houdende een aanwijzing krachtens het eerste tot en met derde lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing; zienswijzen kunnen naar voren worden gebracht door een ieder. Gedeputeerde staten plegen over het ontwerp overleg met burgemeester en wethouders van de gemeenten en de dagelijkse besturen van de waterschappen in hun provincie. Zij stellen de bestuursorganen, bedoeld in artikel 7.1, vijfde lid, onder b, onder 1, en Onze Minister in de gelegenheid omtrent het ontwerp advies uit te brengen.    
 5.   Gedeputeerde staten leggen met het ontwerp van het besluit aan provinciale staten een verslag over van het gevoerde overleg, de uitgebrachte adviezen en de naar voren gebrachte zienswijzen, waarbij zij onder opgave van redenen aangeven in hoeverre daarmee rekening is gehouden.    
 6.   Tegelijkertijd met de bekendmaking van het besluit, houdende een aanwijzing als bedoeld in het eerste tot en met derde lid, wordt daarvan mededeling gedaan door toezending van een exemplaar aan ieder van Onze Ministers en, voorzover het de aanwijzing betreft van categorieën van besluiten als bedoeld in het derde lid, aan de commissie.   
 
@@ -1068,7 +1068,7 @@ Alvorens het milieueffectrapport op te stellen, raadpleegt het bevoegd gezag de 
 
 ### Artikel 7.9 
 
-1. Zo spoedig mogelijk nadat het bevoegd gezag het voornemen heeft opgevat tot het voorbereiden van een plan, maar uiterlijk op het moment dat het toepassing geeft aan artikel 7.8, geeft het kennis van dat voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+1. Zo spoedig mogelijk nadat het bevoegd gezag het voornemen heeft opgevat tot het voorbereiden van een plan, maar uiterlijk op het moment dat het toepassing geeft aan artikel 7.8, geeft het kennis van dat voornemen, met overeenkomstige toepassing van artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht. 
 2.  In de kennisgeving wordt vermeld: 
 
 a. dat stukken betreffende het voornemen openbaar zullen worden gemaakt, en waar en wanneer,  
@@ -1078,7 +1078,7 @@ b. dat er gelegenheid wordt geboden zienswijzen over het voornemen naar voren te
 c. of de commissie of een andere onafhankelijke instantie in de gelegenheid wordt gesteld advies uit te brengen over het voornemen, en  
 
 d. of met betrekking tot het ontwerp van het plan toepassing moet worden gegeven aan artikel 7.11.    
-3.  In de kennisgeving wordt voorts vermeld dat in het milieueffectrapport tevens een passende beoordeling wordt opgenomen in verband met de mogelijk significante gevolgen voor een Natura 2000-gebied als bedoeld in [artikel 1, onderdeel n, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) indien dat milieueffectrapport betrekking heeft op: 
+3.  In de kennisgeving wordt voorts vermeld dat in het milieueffectrapport tevens een passende beoordeling wordt opgenomen in verband met de mogelijk significante gevolgen voor een Natura 2000-gebied als bedoeld in artikel 1, onderdeel n, van de Natuurbeschermingswet 1998 indien dat milieueffectrapport betrekking heeft op: 
 
 a. een krachtens artikel 7.2, tweede lid, aangewezen plan, en voor dat plan een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura-2000 gebied;  
 
@@ -1098,17 +1098,17 @@ b. een plan als bedoeld in artikel 7.2a, eerste lid.
 
 1. Indien de procedure van totstandkoming van een plan er niet in voorziet dat het ontwerp van dat plan ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld zijn zienswijze over dat ontwerp naar voren te brengen, wordt in afwijking van die procedure:
 
-a.met betrekking tot het ontwerp van dat plan toepassing gegeven aan de [artikelen 3:11](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:12 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en
+a.met betrekking tot het ontwerp van dat plan toepassing gegeven aan de artikelen 3:11 en 3:12 van de Algemene wet bestuursrecht, en
 
-b.een ieder in de gelegenheid gesteld zijn zienswijze over het ontwerp naar voren te brengen, overeenkomstig de [artikelen 3:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:16 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+b.een ieder in de gelegenheid gesteld zijn zienswijze over het ontwerp naar voren te brengen, overeenkomstig de artikelen 3:15 en 3:16 van die wet. 
 2. Indien het milieueffectrapport niet is opgenomen in het ontwerp van het plan:
 
-a.wordt bij de terinzagelegging, bedoeld in [artikel 3:11, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tevens het rapport ter inzage gelegd,
+a.wordt bij de terinzagelegging, bedoeld in artikel 3:11, van de Algemene wet bestuursrecht, tevens het rapport ter inzage gelegd,
 
-b.wordt bij de kennisgeving, bedoeld in [artikel 3:12, van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tevens kennisgegeven van het rapport, en
+b.wordt bij de kennisgeving, bedoeld in artikel 3:12, van die wet, tevens kennisgegeven van het rapport, en
 
-c.kan een zienswijze als bedoeld in [artikel 3:15 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tevens betrekking hebben op het rapport. 
-3.  Indien het eerste lid, onder a, van toepassing is, wordt, indien krachtens wettelijk voorschrift een plan binnen een bepaalde termijn moet worden vastgesteld, welke termijn korter is dan de termijn, bedoeld in [artikel 3:16 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), die termijn verlengd tot de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht, vermeerderd met twee weken. 
+c.kan een zienswijze als bedoeld in artikel 3:15 van die wet tevens betrekking hebben op het rapport. 
+3.  Indien het eerste lid, onder a, van toepassing is, wordt, indien krachtens wettelijk voorschrift een plan binnen een bepaalde termijn moet worden vastgesteld, welke termijn korter is dan de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht, die termijn verlengd tot de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht, vermeerderd met twee weken. 
 
 ### Artikel  7.12  
 
@@ -1146,9 +1146,9 @@ b. hetgeen is overwogen omtrent de uitkomsten van het overleg, bedoeld in artike
 
 1.  Indien de procedure van totstandkoming van een plan niet voorziet in: 
 
-a. een openbare kennisgeving van een vastgesteld plan, wordt dat plan bekend gemaakt op de wijze, voorzien in [artikel 3:42 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a. een openbare kennisgeving van een vastgesteld plan, wordt dat plan bekend gemaakt op de wijze, voorzien in artikel 3:42 van de Algemene wet bestuursrecht;  
 
-b. mededeling door toezending van een exemplaar van een vastgesteld plan aan de commissie en degenen die bij de voorbereiding ervan hun zienswijze naar voren hebben gebracht, wordt mededeling gedaan zoals voorzien in [artikel 3:43 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+b. mededeling door toezending van een exemplaar van een vastgesteld plan aan de commissie en degenen die bij de voorbereiding ervan hun zienswijze naar voren hebben gebracht, wordt mededeling gedaan zoals voorzien in artikel 3:43 van de Algemene wet bestuursrecht.    
 2. Indien het milieueffectrapport niet is opgenomen in het plan wordt van dat rapport kennisgegeven tegelijk met het plan.
 
 ### §  7.6  
@@ -1266,14 +1266,14 @@ j. alsmede de gegevens die zijn aangewezen in bijlage IV van de EEG-richtlijn mi
 
 ### Artikel  7.24  
 
-1.  Degene die een activiteit wil ondernemen, aangewezen krachtens de artikelen 7.2, eerste lid, onder a, onder b in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, of 7.6, derde lid, en waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een of meer artikelen van afdeling 13.2 van toepassing zijn, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.   
+1.  Degene die een activiteit wil ondernemen, aangewezen krachtens de artikelen 7.2, eerste lid, onder a, onder b in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, of 7.6, derde lid, en waarop afdeling 3.4 van de Algemene wet bestuursrecht en een of meer artikelen van afdeling 13.2 van toepassing zijn, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.   
 2.  Op verzoek van de aanvrager brengt het bevoegd gezag advies uit inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport.   
 3.  Bij afwezigheid van een verzoek als bedoeld in het tweede lid kan het bevoegd gezag ambtshalve advies uitbrengen.   
 4.  In afwijking van deze paragraaf is paragraaf 7.9 van overeenkomstige toepassing op de voorbereiding van een milieueffectrapport, ten aanzien van een activiteit als bedoeld in het eerste lid, dat betrekking heeft op een besluit als bedoeld in dat lid en voor welke activiteit tevens: 
 
-a. een besluit is vereist waarvoor op grond van [artikel 19f, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) een passende beoordeling moet worden gemaakt,  
+a. een besluit is vereist waarvoor op grond van artikel 19f, eerste lid, van de Natuurbeschermingswet 1998 een passende beoordeling moet worden gemaakt,  
 
-b. een besluit is vereist dat mede uitvoering geeft aan [artikel 2.1, eerste lid, onder c](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), juncto [artikel 2.12, eerste lid, onder a, onder 3°, of het tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of  
+b. een besluit is vereist dat mede uitvoering geeft aan artikel 2.1, eerste lid, onder c, juncto artikel 2.12, eerste lid, onder a, onder 3°, of het tweede lid, van de Wet algemene bepalingen omgevingsrecht, of  
 
 c. een plan is vereist als bedoeld in artikel 14.4b.   
 
@@ -1291,9 +1291,9 @@ Het bevoegd gezag geeft uiterlijk zes weken na ontvangst van het verzoek dan wel
 
 ### Artikel  7.27  
 
-1.  Degene die een activiteit wil ondernemen, aangewezen krachtens artikel 7.2, eerste lid, onder a, dan wel onder b, in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, en waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of een of meer artikelen van afdeling 13.2 niet van toepassing zijn, deelt dat voornemen zo spoedig mogelijk schriftelijk mee aan het bevoegd gezag.   
+1.  Degene die een activiteit wil ondernemen, aangewezen krachtens artikel 7.2, eerste lid, onder a, dan wel onder b, in samenhang met artikel 7.18, of 7.6, eerste lid, en die voornemens is een aanvraag in te dienen tot het nemen van een besluit, aangewezen krachtens artikel 7.2, derde of vierde lid, en waarop afdeling 3.4 van de Algemene wet bestuursrecht of een of meer artikelen van afdeling 13.2 niet van toepassing zijn, deelt dat voornemen zo spoedig mogelijk schriftelijk mee aan het bevoegd gezag.   
 2.  Zo spoedig mogelijk na ontvangst van de mededeling, bedoeld in het eerste lid, dan wel alvorens het milieueffectrapport op te stellen, indien het bevoegd gezag degene is die de activiteit wil ondernemen, raadpleegt het bevoegd gezag de adviseurs en de bestuursorganen die ingevolge het wettelijk voorschrift waarop het besluit berust bij de voorbereiding van het besluit worden betrokken, over de reikwijdte en het detailniveau van de informatie die is gericht op wat relevant is voor het besluit en die op grond van artikel 7.23 in het milieueffectrapport moet worden opgenomen.   
-3.  Zo spoedig mogelijk na ontvangst van de mededeling dan wel na het opvatten van het voornemen door het bevoegd gezag, maar uiterlijk op het moment dat het toepassing geeft aan het tweede lid, geeft het bevoegd gezag kennis van het voornemen, bedoeld in het eerste lid, dan wel van zijn eigen voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Zo spoedig mogelijk na ontvangst van de mededeling dan wel na het opvatten van het voornemen door het bevoegd gezag, maar uiterlijk op het moment dat het toepassing geeft aan het tweede lid, geeft het bevoegd gezag kennis van het voornemen, bedoeld in het eerste lid, dan wel van zijn eigen voornemen, met overeenkomstige toepassing van artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht.   
 4.  In de kennisgeving wordt vermeld: 
 
 a. dat stukken betreffende het voornemen openbaar zullen worden gemaakt, en waar en wanneer,  
@@ -1301,7 +1301,7 @@ a. dat stukken betreffende het voornemen openbaar zullen worden gemaakt, en waar
 b. dat er gelegenheid wordt geboden zienswijzen over het voornemen naar voren te brengen, aan wie, op welke wijze en binnen welke termijn, en  
 
 c. of de commissie of een andere onafhankelijke instantie in de gelegenheid wordt gesteld advies uit te brengen over het voornemen.     
-5.  In de kennisgeving wordt voorts vermeld indien het milieueffectrapport betrekking heeft op een krachtens artikel 7.2, derde of vierde lid, aangewezen besluit en voor de daarin voorgenomen, krachtens het eerste lid, onder a, van dat artikel aangewezen, activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied, bedoeld in [artikel 1, onderdeel n, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md): dat voor de activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied, bedoeld in artikel 1, onderdeel n, van de Natuurbeschermingswet 1998.   
+5.  In de kennisgeving wordt voorts vermeld indien het milieueffectrapport betrekking heeft op een krachtens artikel 7.2, derde of vierde lid, aangewezen besluit en voor de daarin voorgenomen, krachtens het eerste lid, onder a, van dat artikel aangewezen, activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied, bedoeld in artikel 1, onderdeel n, van de Natuurbeschermingswet 1998: dat voor de activiteit een passende beoordeling moet worden gemaakt in verband met de mogelijke significante gevolgen voor een Natura 2000-gebied, bedoeld in artikel 1, onderdeel n, van de Natuurbeschermingswet 1998.   
 6.  Kennisgeving vindt plaats in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land. Degene die de activiteit wil ondernemen overlegt op verzoek van het bevoegd gezag binnen een bij dat verzoek te bepalen termijn een vertaling van de mededeling in de landstaal van het gebied in het andere land waar de activiteit belangrijke nadelige gevolgen kan hebben.   
 7.  In het geval het bevoegd gezag niet degene is die de activiteit wil ondernemen, geeft het uiterlijk zes weken na ontvangst van de mededeling, een advies inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport. Het bevoegd gezag kan de termijn eenmaal met ten hoogste zes weken verlengen.  
 
@@ -1333,15 +1333,15 @@ b. geen beslissing is genomen krachtens artikel 7.17, eerste lid, dan wel is bes
 
 1.  Indien de procedure van totstandkoming van het besluit voorziet in openbare kennisgeving van het ontwerp van een besluit, wordt van het milieueffectrapport gelijktijdig openbaar kennisgegeven, behoudens in gevallen als bedoeld in artikel 7.29.   
 2.  Het eerste lid is van overeenkomstige toepassing op de openbare kennisgeving in een publicatie in een ander land in het geval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land.   
-3.  Indien de procedure van totstandkoming van het besluit niet voorziet in openbare kennisgeving van de aanvraag of het ontwerp van een besluit, wordt in afwijking van die procedure, van het milieueffectrapport gelijktijdig met het ontwerp van het besluit openbaar kennisgegeven met toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3.  Indien de procedure van totstandkoming van het besluit niet voorziet in openbare kennisgeving van de aanvraag of het ontwerp van een besluit, wordt in afwijking van die procedure, van het milieueffectrapport gelijktijdig met het ontwerp van het besluit openbaar kennisgegeven met toepassing van artikel 3:12 van de Algemene wet bestuursrecht.  
 
 ### Artikel  7.32  
 
 1.  Indien een aanvraag als bedoeld in artikel 7.28, dan wel het ontwerp van een besluit als bedoeld in artikel 7.30, ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld daarover zienswijzen naar voren te brengen, kunnen zienswijzen over het milieueffectrapport gelijktijdig naar voren worden gebracht met zienswijzen over die aanvraag dan wel dat ontwerp, waarmee het milieueffectrapport ter inzage is gelegd.   
-2.  Indien de procedure van totstandkoming van een besluit er niet in voorziet dat de aanvraag of het ontwerp van het besluit ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld zijn zienswijze daarover naar voren te brengen, zijn in afwijking van die procedure de [artikelen 3:11](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:16 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen over het milieueffectrapport kunnen naar voren worden gebracht door een ieder. Zienswijzen over het milieueffectrapport kunnen gelijktijdig naar voren worden gebracht met de zienswijzen over het ontwerp van het besluit.   
+2.  Indien de procedure van totstandkoming van een besluit er niet in voorziet dat de aanvraag of het ontwerp van het besluit ter inzage wordt gelegd en een ieder in de gelegenheid wordt gesteld zijn zienswijze daarover naar voren te brengen, zijn in afwijking van die procedure de artikelen 3:11, 3:12, 3:15 en 3:16 van de Algemene wet bestuursrecht van toepassing. Zienswijzen over het milieueffectrapport kunnen naar voren worden gebracht door een ieder. Zienswijzen over het milieueffectrapport kunnen gelijktijdig naar voren worden gebracht met de zienswijzen over het ontwerp van het besluit.   
 3.  De zienswijzen op het milieueffectrapport kunnen slechts betrekking hebben op de inhoud van het milieueffectrapport, het niet voldoen van het rapport aan de bij of krachtens artikel 7.23 gestelde regels dan wel op onjuistheden die het rapport bevat.   
-4.  Indien het eerste lid van toepassing is en de procedure van totstandkoming van een besluit voorziet in de vaststelling van een besluit binnen een bepaalde termijn, dan wordt die termijn, wanneer deze korter is dan de termijn, bedoeld in [artikel 3:16 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verlengd tot de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht vermeerderd met twee weken.   
-5.  Artikel 7.12 is van overeenkomstige toepassing op een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of een of meer artikelen van afdeling 13.2, met uitzondering van artikel 13.2 niet van toepassing zijn, en op een besluit ter zake van een activiteit als bedoeld in artikel 7.24, vierde lid.  
+4.  Indien het eerste lid van toepassing is en de procedure van totstandkoming van een besluit voorziet in de vaststelling van een besluit binnen een bepaalde termijn, dan wordt die termijn, wanneer deze korter is dan de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht, verlengd tot de termijn, bedoeld in artikel 3:16 van de Algemene wet bestuursrecht vermeerderd met twee weken.   
+5.  Artikel 7.12 is van overeenkomstige toepassing op een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht of een of meer artikelen van afdeling 13.2, met uitzondering van artikel 13.2 niet van toepassing zijn, en op een besluit ter zake van een activiteit als bedoeld in artikel 7.24, vierde lid.  
 
 ### Artikel  7.35  
 
@@ -1352,8 +1352,8 @@ b. geen beslissing is genomen krachtens artikel 7.17, eerste lid, dan wel is bes
 a. naast de voorwaarden, voorschriften en beperkingen tot het opnemen waarvan het ingevolge die wettelijke regeling bevoegd is, in het besluit tevens alle andere voorwaarden, voorschriften en beperkingen opnemen, die nodig zijn ter bescherming van het milieu;   
 
 b. een beslissing nemen, ertoe strekkende dat de activiteit niet wordt ondernomen, indien het ondernemen van die activiteit tot ontoelaatbare nadelige gevolgen voor het milieu kan leiden.      
-4.  Op de voorbereiding van een besluit als bedoeld in het derde lid is, ongeacht hetgeen ter zake in de betrokken wettelijke regeling is bepaald, [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. 
-5.   Indien op de voorbereiding van meer dan een van de ter zake van eenzelfde activiteit aangewezen besluiten [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, wordt een van die besluiten aangewezen als het besluit waarop het derde lid van toepassing is. Bij die aanwijzing kan worden bepaald dat zij slechts geldt in daarbij aangegeven gevallen. De aanwijzing geschiedt bij algemene maatregel van bestuur.    
+4.  Op de voorbereiding van een besluit als bedoeld in het derde lid is, ongeacht hetgeen ter zake in de betrokken wettelijke regeling is bepaald, afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. 
+5.   Indien op de voorbereiding van meer dan een van de ter zake van eenzelfde activiteit aangewezen besluiten afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, wordt een van die besluiten aangewezen als het besluit waarop het derde lid van toepassing is. Bij die aanwijzing kan worden bepaald dat zij slechts geldt in daarbij aangegeven gevallen. De aanwijzing geschiedt bij algemene maatregel van bestuur.    
 6.   Met betrekking tot het krachtens het vijfde lid aangewezen besluit is het derde lid van toepassing, met dien verstande dat slechts voorwaarden, voorschriften en beperkingen kunnen worden gesteld met betrekking tot onderwerpen waaromtrent geen voorwaarden, voorschriften en beperkingen kunnen worden gesteld bij de andere in het vijfde lid bedoelde besluiten.    
 7.   Bij algemene maatregel van bestuur kunnen regelen worden gesteld met betrekking tot de toepassing van het derde lid.   
 
@@ -1392,9 +1392,9 @@ c. indien van toepassing, hetgeen is overwogen omtrent de uitkomsten van het ove
 
 Indien de procedure van totstandkoming van een besluit niet voorziet in: 
 
-a. bekendmaking van een besluit, wordt dat besluit bekend gemaakt op de wijze, voorzien in [afdeling 3.6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a. bekendmaking van een besluit, wordt dat besluit bekend gemaakt op de wijze, voorzien in afdeling 3.6 van de Algemene wet bestuursrecht;  
 
-b. mededeling door toezending van een exemplaar van een besluit aan degenen die bij de voorbereiding ervan hun zienswijze naar voren hebben gebracht en, voor zover van toepassing, aan de commissie, de adviseurs en de bestuursorganen die bij de voorbereiding worden betrokken, wordt mededeling gedaan zoals voorzien in [artikel 3:44 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+b. mededeling door toezending van een exemplaar van een besluit aan degenen die bij de voorbereiding ervan hun zienswijze naar voren hebben gebracht en, voor zover van toepassing, aan de commissie, de adviseurs en de bestuursorganen die bij de voorbereiding worden betrokken, wordt mededeling gedaan zoals voorzien in artikel 3:44 van de Algemene wet bestuursrecht.   
 
 ### §  7.11  
 
@@ -1413,7 +1413,7 @@ b. het vastgestelde plan, en, indien het milieueffectrapport niet is opgenomen i
 a. de aanvraag, bedoeld in artikel 7.28, onderscheidenlijk het ontwerp van het besluit alsmede de milieueffectrapportage en, indien van toepassing, een advies als bedoeld in artikel 7.26 onderscheidenlijk artikel 7.27, gelijktijdig met de terinzagelegging daarvan in Nederland;  
 
 b. het besluit en het milieueffectrapport gelijktijdig met de bekendmaking daarvan in Nederland.     
-4.  Op de instanties die daartoe door de bevoegde autoriteit van het andere land zijn aangewezen op grond van hun specifieke verantwoordelijkheid op milieugebied zijn de [artikelen 3:16, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 7.9, tweede lid, onder c, artikel 7.25, onderscheidenlijk artikel 7.27, vierde lid, van overeenkomstige toepassing. Tevens worden de in het tweede en derde lid bedoelde bescheiden toegezonden aan deze instanties.  
+4.  Op de instanties die daartoe door de bevoegde autoriteit van het andere land zijn aangewezen op grond van hun specifieke verantwoordelijkheid op milieugebied zijn de artikelen 3:16, eerste en tweede lid, van de Algemene wet bestuursrecht en de artikelen 7.9, tweede lid, onder c, artikel 7.25, onderscheidenlijk artikel 7.27, vierde lid, van overeenkomstige toepassing. Tevens worden de in het tweede en derde lid bedoelde bescheiden toegezonden aan deze instanties.  
 5.  De ingevolge het tweede of derde lid te verstrekken stukken dienen als grondslag voor het overleg met bestuursorganen in het betrokken andere land over de belangrijke nadelige gevolgen die de activiteit voor het milieu in dat andere land kan hebben, en de maatregelen die worden overwogen om die gevolgen te voorkomen of te beperken.   
 6.  Het bevoegd gezag is belast met de taken die voortvloeien uit de toepassing van het eerste tot en met vierde lid. Het bevoegd gezag geeft informatie en zendt de ingevolge het tweede en derde lid verstrekte stukken tevens aan Onze Minister, welke stukken eveneens dienen als grondslag voor het door het bevoegd gezag te voeren overleg, bedoeld in het vijfde lid.   
 7.  Onze Minister is in algemene zin belast met het onderhouden van contacten met de regering van het andere land en is betrokken bij overleg op regeringsniveau indien het overleg over een voorgenomen activiteit tussen het bevoegd gezag en de bestuursorganen van dat land niet tot het gewenste resultaat heeft geleid.   
@@ -1444,7 +1444,7 @@ Indien een voorgenomen activiteit in een ander land belangrijke nadelige gevolge
 
 1. Het bevoegd gezag stelt een verslag op van het onderzoek. 
 2.  Indien het milieueffectrapport betrekking heeft op een plan zendt het bevoegd gezag het verslag aan de adviseurs, de bestuursorganen, bedoeld in artikel 7.8, en aan de commissie.  
-3. Indien het milieueffectrapport betrekking heeft op een besluit zendt het bevoegd gezag het verslag aan degene die de activiteit onderneemt, aan de bestuursorganen en aan de adviseurs. Het maakt het verslag gelijktijdig bekend met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3. Indien het milieueffectrapport betrekking heeft op een besluit zendt het bevoegd gezag het verslag aan degene die de activiteit onderneemt, aan de bestuursorganen en aan de adviseurs. Het maakt het verslag gelijktijdig bekend met overeenkomstige toepassing van artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht.  
 4.  Indien het milieueffectrapport betrekking heeft op een besluit waarover de commissie overeenkomstig artikel 7.32, vijfde lid, in samenhang met artikel 7.12, advies heeft uitgebracht, zendt het bevoegd gezag het verslag tevens aan die commissie. 
 
 ### Artikel  7.42  
@@ -1474,7 +1474,7 @@ d. de mogelijkheden tot bescherming van het milieu, door de nadelige gevolgen vo
 e. de voor onderdelen van het milieu, waarvoor de betrokken categorieën van inrichtingen gevolgen kunnen hebben, geldende milieukwaliteitseisen, vastgesteld krachtens of overeenkomstig artikel 5.1 of bij Bijlage 2;   
 
 f. de redelijkerwijs te verwachten financiële en economische gevolgen van de maatregel.    In een toelichting bij de maatregel wordt aangegeven op welke wijze deze aspecten bij de voorbereiding van de maatregel zijn betrokken.    
-3.   Ten aanzien van bij de regels te stellen voorschriften zijn de bij of krachtens [artikel 2.22, tweede en derde lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), gestelde regels over activiteiten met betrekking tot inrichtingen als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), alsmede de [artikelen 2.23](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30, eerste lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, onder b](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, onder b](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [4.1 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van overeenkomstige toepassing, met dien verstande dat het stellen van financiële zekerheid slechts kan worden voorgeschreven in de vorm van het sluiten van een verzekering tegen aansprakelijkheid voor schade, voortvloeiend uit de nadelige gevolgen voor het milieu, die de inrichting veroorzaakt.    
+3.   Ten aanzien van bij de regels te stellen voorschriften zijn de bij of krachtens artikel 2.22, tweede en derde lid, gestelde regels over activiteiten met betrekking tot inrichtingen als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht, alsmede de artikelen 2.23, 2.30, eerste lid, 2.31, eerste lid, onder b, 2.33, eerste lid, onder b, en 4.1 van die wet van overeenkomstige toepassing, met dien verstande dat het stellen van financiële zekerheid slechts kan worden voorgeschreven in de vorm van het sluiten van een verzekering tegen aansprakelijkheid voor schade, voortvloeiend uit de nadelige gevolgen voor het milieu, die de inrichting veroorzaakt.    
 4.  Deze paragraaf en de daarop berustende bepalingen zijn mede van toepassing op inrichtingen die gevolgen voor het milieu kunnen veroorzaken binnen de exclusieve economische zone, voor zover dat bij een algemene maatregel van bestuur als bedoeld in het eerste lid, is bepaald. 
 
 ###Artikel 8.40a 
@@ -1501,7 +1501,7 @@ d.in welke gevallen de melding geheel of gedeeltelijk elektronisch wordt verrich
 
 ### Artikel  8.41a  
 
-1.  Indien activiteiten ten aanzien waarvan ingevolge het bepaalde krachtens artikel 8.41 een melding moet worden gedaan, tevens zijn aan te merken als activiteiten die behoren tot een categorie waarvoor ingevolge [artikel 2.1](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of [2.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een omgevingsvergunning is vereist, wordt, indien de melding nog niet gedaan is of de bij de melding te verstrekken gegevens niet volledig zijn, tegelijkertijd met de indiening van de aanvraag om een omgevingsvergunning een melding van die activiteiten overeenkomstig het bepaalde krachtens artikel 8.41 gedaan.   
+1.  Indien activiteiten ten aanzien waarvan ingevolge het bepaalde krachtens artikel 8.41 een melding moet worden gedaan, tevens zijn aan te merken als activiteiten die behoren tot een categorie waarvoor ingevolge artikel 2.1 of 2.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht een omgevingsvergunning is vereist, wordt, indien de melding nog niet gedaan is of de bij de melding te verstrekken gegevens niet volledig zijn, tegelijkertijd met de indiening van de aanvraag om een omgevingsvergunning een melding van die activiteiten overeenkomstig het bepaalde krachtens artikel 8.41 gedaan.   
 2.  Indien niet is voldaan aan het bepaalde in het eerste lid besluit het bevoegd gezag de aanvraag niet te behandelen, mits de aanvrager de gelegenheid heeft gehad binnen de door dat bestuursorgaan gestelde termijn alsnog te melden dan wel de ontbrekende gegevens te verstrekken.   
 3.  Een besluit om de aanvraag niet te behandelen wordt aan de aanvrager bekendgemaakt nadat de krachtens het tweede lid gestelde termijn ongebruikt is verstreken of binnen die termijn de gegevens, bedoeld in het tweede lid, niet of niet volledig zijn verstrekt.   
 4.  In gevallen als bedoeld in het eerste lid wordt de melding gedaan bij het bestuursorgaan waarbij de aanvraag om een omgevingsvergunning wordt ingediend.   
@@ -1515,7 +1515,7 @@ d.in welke gevallen de melding geheel of gedeeltelijk elektronisch wordt verrich
 4. Het bestuursorgaan kan de voorschriften aanvullen, wijzigen of intrekken indien dat nodig is ter bescherming van het milieu. 
 5. Bij of krachtens de maatregel worden categorieën van gevallen aangegeven, waarin van de beschikking waarbij het voorschrift wordt gesteld, mededeling wordt gedaan door kennisgeving in één of meer dag-, nieuws- of huis-aan-huisbladen.  
 6.  Voorschriften als bedoeld in het eerste lid die betrekking hebben op activiteiten die direct verband houden met activiteiten waarvoor een aanvraag om een omgevingsvergunning is ingediend of die zijn toegestaan krachtens een omgevingsvergunning, worden afgestemd op de betrokken aanvraag om een omgevingsvergunning, onderscheidenlijk de betrokken omgevingsvergunning.   
-7.  Op de voorbereiding van een beschikking op de aanvraag tot het stellen van voorschriften zijn de [artikelen 3.8](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [3.9, eerste en tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van overeenkomstige toepassing, tenzij [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) daarop van toepassing is. 
+7.  Op de voorbereiding van een beschikking op de aanvraag tot het stellen van voorschriften zijn de artikelen 3.8 en 3.9, eerste en tweede lid, van de Wet algemene bepalingen omgevingsrecht van overeenkomstige toepassing, tenzij afdeling 3.4 van de Algemene wet bestuursrecht daarop van toepassing is. 
 
 ### Artikel  8.42a  
 
@@ -1534,7 +1534,7 @@ a. met de kosten van het totstandbrengen, instandhouden en in werking hebben van
 
 b. met de kosten van de voorzieningen die bewerkstelligen dat de inrichting, nadat zij buiten gebruik is gesteld, geen nadelige gevolgen voor het milieu veroorzaakt, daaronder mede begrepen de kosten van de krachtens artikel 15.44, eerste lid, verschuldigde heffing, en  
 
-c. met de kosten van financiële zekerheid in categorieën van gevallen waarvoor het stellen van financiële zekerheid krachtens [artikel 4.1 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is voorgeschreven.     
+c. met de kosten van financiële zekerheid in categorieën van gevallen waarvoor het stellen van financiële zekerheid krachtens artikel 4.1 van de Wet algemene bepalingen omgevingsrecht is voorgeschreven.     
 2.  Onze Minister kan nadere regels stellen met betrekking tot het eerste lid.  
 
 ### Artikel  8.46  
@@ -1559,7 +1559,7 @@ a. het storten van afvalstoffen is beëindigd,
 
 b. voor zover een daartoe strekkend voorschrift voor de inrichting geldt, een bovenafdichting is aangebracht, en   
 
-c. een eindinspectie door het bevoegd gezag is uitgevoerd waaruit is gebleken dat aan alle voorschriften, verbonden aan de omgevingsvergunning voor de inrichting, is voldaan en dat ook geen andere maatregelen ingevolge de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) getroffen dienen te worden door degene die de stortplaats drijft, in geval van verontreiniging of aantasting van de bodem onder de stortplaats.     
+c. een eindinspectie door het bevoegd gezag is uitgevoerd waaruit is gebleken dat aan alle voorschriften, verbonden aan de omgevingsvergunning voor de inrichting, is voldaan en dat ook geen andere maatregelen ingevolge de Wet bodembescherming getroffen dienen te worden door degene die de stortplaats drijft, in geval van verontreiniging of aantasting van de bodem onder de stortplaats.     
 
 ### Artikel  8.47a  
 
@@ -1569,7 +1569,7 @@ Het bevoegd gezag stelt Onze Minister zo spoedig mogelijk op de hoogte van een v
 
 1. Deze paragraaf is van toepassing op stortplaatsen waarvoor een omgevingsvergunning is vereist, waar op of na 1 september 1996 afvalstoffen worden gestort, en 
 
-a. waarvoor een algemene maatregel van bestuur geldt als bedoeld in [artikel 2.22, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of   
+a. waarvoor een algemene maatregel van bestuur geldt als bedoeld in artikel 2.22, derde lid, van de Wet algemene bepalingen omgevingsrecht, of   
 
 b. uitsluitend baggerspecie wordt gestort.     
 2. Deze paragraaf is, met uitzondering van het eerste lid van dit artikel, van overeenkomstige toepassing op afvalvoorzieningen. 
@@ -1597,7 +1597,7 @@ c. het regelmatig onderzoeken van de bodem onder de stortplaats.
 
 a.gesloten stortplaatsen waar baggerspecie is gestort en die worden gedreven of mede worden gedreven door Onze Minister van Verkeer en Waterstaat, bij die minister;
 
-b.gesloten afvalvoorzieningen waarin zich een mijnbouwwerk als bedoeld in [artikel 1, onder n, van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) bevindt, bij degene die de afvalvoorziening het laatst heeft gedreven.  
+b.gesloten afvalvoorzieningen waarin zich een mijnbouwwerk als bedoeld in artikel 1, onder n, van de Mijnbouwwet bevindt, bij degene die de afvalvoorziening het laatst heeft gedreven.  
 4.  Op verzoek van degene die een bedrijfsgebonden stortplaats het laatst heeft gedreven, wordt bij het al dan niet toepassen van het tweede lid rekening gehouden met de mogelijkheid die zorg aan die persoon op te dragen.   
 
 ### Artikel  8.51  
@@ -1709,19 +1709,19 @@ a. in het belang van de bescherming van de gezondheid van de mens en van het mil
 
 b. indien de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt, of  
 
-c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), indien dat bij de maatregel is bepaald.    
-3.  Voordat toepassing wordt gegeven aan het tweede lid, aanhef en onder b, of het zesde lid, aanhef en onder b, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
-4. Op de voorbereiding van de beschikking op de aanvraag om een vergunning zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 van toepassing. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen categorieën van gevallen worden aangewezen, waarin [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 geheel of gedeeltelijk buiten toepassing blijven. 
+c. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, indien dat bij de maatregel is bepaald.    
+3.  Voordat toepassing wordt gegeven aan het tweede lid, aanhef en onder b, of het zesde lid, aanhef en onder b, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
+4. Op de voorbereiding van de beschikking op de aanvraag om een vergunning zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen categorieën van gevallen worden aangewezen, waarin afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 geheel of gedeeltelijk buiten toepassing blijven. 
 5. Een vergunning kan in het belang van de bescherming van de gezondheid van de mens en van het milieu onder beperkingen worden verleend. Aan een vergunning kunnen in het belang van de bescherming van de gezondheid van de mens en van het milieu voorschriften worden verbonden. Deze kunnen, voorzover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen die bij het voorschrift zijn aangewezen, in het belang van de bescherming van de gezondheid van de mens en van het milieu gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat. 
-6.  Onverminderd [artikel 5.19, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan een vergunning worden ingetrokken: 
+6.  Onverminderd artikel 5.19, eerste lid, van de Wet algemene bepalingen omgevingsrecht kan een vergunning worden ingetrokken: 
 
 a. indien de handeling aanmerkelijk gevaar oplevert voor de gezondheid van de mens of voor het milieu en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden;  
 
 b. indien de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt, of  
 
-c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), indien dat bij de maatregel is bepaald.    
+c. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, indien dat bij de maatregel is bepaald.    
 7. Voor zover bij algemene maatregel van bestuur is bepaald, kan de vergunning in het belang van de bescherming van de gezondheid van de mens en van het milieu worden gewijzigd. 
-8. Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 niet van toepassing, tenzij uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.
+8. Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 niet van toepassing, tenzij uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.
 
 ### Artikel 9.2.2.4 
 
@@ -1747,7 +1747,7 @@ Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder k, l of m
 
 1. Onze Minister kan in bijzondere gevallen van het krachtens artikel 9.2.1.4, 9.2.2.1, 9.2.2.6 of 9.2.2.6a bepaalde op een daartoe strekkende aanvraag ontheffing verlenen, indien het belang van de bescherming van de gezondheid van de mens en van het milieu zich daartegen niet verzet. 
 2. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen de voorschriften worden verbonden, die naar het oordeel van Onze Minister in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk zijn. 
-3. Op de voorbereiding van een beschikking op een aanvraag om een ontheffing als bedoeld eerste lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en afdeling 13.2 van toepassing. 
+3. Op de voorbereiding van een beschikking op een aanvraag om een ontheffing als bedoeld eerste lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing. 
 4. Een ontheffing kan door Onze Minister worden gewijzigd of ingetrokken, indien dat in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk is.
 
 ### § 9.2.3 
@@ -1842,7 +1842,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter
 2. Het is eveneens verboden te handelen in strijd met de volgende bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: de artikelen 6, eerste en derde lid, 7, eerste, tweede en vijfde lid, 9, tweede lid, 11, eerste lid, 13, eerste, derde en vierde lid, 17, eerste lid, 18, eerste lid, 19, eerste lid, 22, eerste, tweede en vierde lid, 24, tweede lid, 25, eerste en tweede lid, 26, eerste en derde lid, 30, eerste, tweede, derde en vierde lid, 31, vijfde en achtste lid, 32, tweede lid, 36, 37, tweede en derde lid, 41, vierde lid, 46, tweede lid, 49, 50, tweede en derde lid, 61, eerste en derde lid, 63, derde lid, 66, eerste lid en 105. 
 3. Het is verboden handelingen te verrichten of na te laten in strijd met andere bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen dan genoemd in het eerste of tweede lid, voor zover die bepalingen ter uitvoering van artikel 126 van die verordening bij algemene maatregel van bestuur zijn aangewezen. 
 4. Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt een jaar nadat hij in werking is getreden, dan wel, indien binnen die termijn een voorstel van wet tot wijziging van het eerste of tweede lid bij de Staten-Generaal is ingediend, op het tijdstip waarop dat voorstel is verworpen of, na tot wet te zijn verheven, in werking is getreden. 
-5. Het eerste tot en met vierde lid zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md).
+5. Het eerste tot en met vierde lid zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de Warenwet.
 
 ### Titel   9.3a  
 
@@ -1994,16 +1994,16 @@ Onze Minister kan, indien naar zijn oordeel in het belang van het voorkomen of b
 4.  Aan een ontheffing als bedoeld in het eerste tot en met derde lid kunnen voorschriften en beperkingen worden verbonden in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
 5.  De voorschriften en beperkingen, bedoeld in het vierde lid, kunnen worden gewijzigd, aangevuld of ingetrokken in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
 6.  Een ontheffing als bedoeld in het eerste tot en met derde lid kan geheel of gedeeltelijk worden ingetrokken in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
-7.  Bij algemene maatregel van bestuur krachtens artikel 9.5.2 kan worden bepaald dat in daarbij aangegeven categorieën van gevallen op de voorbereiding van een beschikking op de aanvraag om ontheffing te verlenen, [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is.  
+7.  Bij algemene maatregel van bestuur krachtens artikel 9.5.2 kan worden bepaald dat in daarbij aangegeven categorieën van gevallen op de voorbereiding van een beschikking op de aanvraag om ontheffing te verlenen, afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is.  
 
 ### Artikel  9.5.6  
 
-1.  Indien toepassing wordt gegeven aan artikel 9.5.1, zesde lid, onder a, of artikel 9.5.2, zesde lid, in samenhang met artikel 9.5.1, zesde lid, onder a, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op de voorbereiding van een beschikking op de aanvraag om een vergunning. Artikel 8.7 is van overeenkomstige toepassing.   
+1.  Indien toepassing wordt gegeven aan artikel 9.5.1, zesde lid, onder a, of artikel 9.5.2, zesde lid, in samenhang met artikel 9.5.1, zesde lid, onder a, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing op de voorbereiding van een beschikking op de aanvraag om een vergunning. Artikel 8.7 is van overeenkomstige toepassing.   
 2.  Een vergunning kan slechts worden geweigerd in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
 3.  Een vergunning kan onder beperkingen worden verleend.   
 4.  Aan een vergunning kunnen voorschriften worden verbonden. Hiertoe kan behoren het voorschrift, dat met betrekking tot in het voorschrift geregelde onderwerpen moet worden voldaan aan nadere eisen, die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld.   
 5.  Bij de betrokken algemene maatregel van bestuur kunnen categorieën van gevallen worden aangewezen waarin het eerste lid niet van toepassing is.   
-6.  Voor zover dat bij de betrokken maatregel is bepaald, kan de vergunning worden gewijzigd of ingetrokken. Op de voorbereiding van een zodanige wijziging of intrekking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Artikel 8.7 is van overeenkomstige toepassing.  
+6.  Voor zover dat bij de betrokken maatregel is bepaald, kan de vergunning worden gewijzigd of ingetrokken. Op de voorbereiding van een zodanige wijziging of intrekking is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Artikel 8.7 is van overeenkomstige toepassing.  
 
 ### Titel  9.6  
 
@@ -2056,7 +2056,7 @@ h.
 1°. dierlijke bijproducten, met inbegrip van verwerkte producten, in de zin van verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van de Europese Unie van 3 oktober 2002, behalve die welke bestemd zijn om te worden verbrand of gestort of voor gebruik in een biogas- of composteerinstallatie;  
 
 2°. kadavers van niet door slachting gestorven dieren, met inbegrip van dieren die worden gedood om een epizoötie uit te roeien en overeenkomstig de onder 1° genoemde verordening worden verwijderd;     voor zover daarover bij of krachtens communautaire regelgeving regels zijn gesteld.   
-2.  Op de in het eerste lid bedoelde stoffen, preparaten en voorwerpen is, voor zover het afvalstoffen betreft, het bepaalde bij of krachtens de artikelen 15.33, 15.35 en 15.36, alsmede de [artikelen 2.4](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.22, derde lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [2.23, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), evenmin van toepassing.  
+2.  Op de in het eerste lid bedoelde stoffen, preparaten en voorwerpen is, voor zover het afvalstoffen betreft, het bepaalde bij of krachtens de artikelen 15.33, 15.35 en 15.36, alsmede de artikelen 2.4, 2.22, derde lid, en 2.23, tweede lid, van de Wet algemene bepalingen omgevingsrecht, evenmin van toepassing.  
 
 ### Artikel  10.2  
 
@@ -2122,7 +2122,7 @@ d. een beschrijving van het beleid ter uitvoering van de EG-verordening overbren
 
 ### Artikel  10.9  
 
-1.  Met betrekking tot de voorbereiding van het afvalbeheerplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Met betrekking tot de voorbereiding van het afvalbeheerplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 2.  Het ontwerp van het afvalbeheerplan wordt, gelijktijdig met de terinzagelegging ervan, overgelegd aan de beide kamers der Staten-Generaal.  
 
 ### Artikel  10.10  
@@ -2213,7 +2213,7 @@ c. in een gedeelte van het grondgebied van de gemeente geen huishoudelijke afval
 d. daarbij aangegeven bestanddelen van het groente-, fruit- en tuinafval afzonderlijk worden ingezameld;  
 
 e. groente-, fruit- en tuinafval met andere daarbij aangegeven bestanddelen van huishoudelijke afvalstoffen afzonderlijk van het overige huishoudelijk afval wordt ingezameld.   
-2. De gemeenteraad betrekt bij de voorbereiding van een zodanig besluit de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens [artikel 150 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening. 
+2. De gemeenteraad betrekt bij de voorbereiding van een zodanig besluit de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens artikel 150 van de Gemeentewet vastgestelde verordening. 
 
 ### Artikel  10.27  
 
@@ -2244,13 +2244,13 @@ b.verontreiniging van afvalwater wordt voorkomen of beperkt;
 
 c.afvalwaterstromen gescheiden worden gehouden, tenzij het niet gescheiden houden geen nadelige gevolgen heeft voor een doelmatig beheer van afvalwater;
 
-d.huishoudelijk afvalwater en, voor zover doelmatig en kostenefficiënt, afvalwater dat daarmee wat biologische afbreekbaarheid betreft overeenkomt worden ingezameld en naar een inrichting als bedoeld in [artikel 3.4 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) getransporteerd;
+d.huishoudelijk afvalwater en, voor zover doelmatig en kostenefficiënt, afvalwater dat daarmee wat biologische afbreekbaarheid betreft overeenkomt worden ingezameld en naar een inrichting als bedoeld in artikel 3.4 van de Waterwet getransporteerd;
 
 e.ander afvalwater dan bedoeld in onderdeel d zo nodig na retentie of zuivering bij de bron, wordt hergebruikt;
 
 f.ander afvalwater dan bedoeld in onderdeel d lokaal, zo nodig na retentie of zuivering bij de bron, in het milieu wordt gebracht en
 
-g.ander afvalwater dan bedoeld in onderdeel d naar een inrichting als bedoeld in [artikel 3.4 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) wordt getransporteerd.
+g.ander afvalwater dan bedoeld in onderdeel d naar een inrichting als bedoeld in artikel 3.4 van de Waterwet wordt getransporteerd.
 
 ###Artikel 10.31 
 
@@ -2271,7 +2271,7 @@ b.het brengen van afvloeiend hemelwater of van grondwater in een voorziening voo
 
 ### Artikel  10.33  
 
-1. De gemeenteraad of burgemeester en wethouders dragen zorg voor de inzameling en het transport van stedelijk afvalwater dat vrijkomt bij de binnen het grondgebied van de gemeente gelegen percelen, door middel van een openbaar vuilwaterriool naar een inrichting als bedoeld in [artikel 3.4 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md). 
+1. De gemeenteraad of burgemeester en wethouders dragen zorg voor de inzameling en het transport van stedelijk afvalwater dat vrijkomt bij de binnen het grondgebied van de gemeente gelegen percelen, door middel van een openbaar vuilwaterriool naar een inrichting als bedoeld in artikel 3.4 van de Waterwet. 
 2. In plaats van een openbaar vuilwaterriool en een inrichting als bedoeld in het eerste lid kunnen afzonderlijke systemen of andere passende systemen in beheer bij een gemeente, waterschap of een rechtspersoon die door een gemeente of waterschap met het beheer is belast, worden toegepast, indien met die systemen blijkens het gemeentelijk rioleringsplan eenzelfde graad van bescherming van het milieu wordt bereikt. 
 3. Op verzoek van burgemeester en wethouders kunnen gedeputeerde staten in het belang van de bescherming van het milieu ontheffing verlenen van de verplichting, bedoeld in het eerste lid, voor:
 
@@ -2321,9 +2321,9 @@ b. die bevoegd is de betrokken afvalstoffen nuttig toe te passen of te verwijder
 
 c. die krachtens artikel 10.50 is vrijgesteld van de verplichtingen, gesteld bij of krachtens de artikelen 10.38 tot en met 10.40, 10.45, 10.46 en 10.48;  
 
-d. die op grond van een krachtens de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) verleende vergunning bevoegd is de betrokken afvalstoffen te lozen, dan wel aan boord van een vaartuig of luchtvaartuig te nemen met het oogmerk ze te lozen;  
+d. die op grond van een krachtens de Waterwet verleende vergunning bevoegd is de betrokken afvalstoffen te lozen, dan wel aan boord van een vaartuig of luchtvaartuig te nemen met het oogmerk ze te lozen;  
 
-e. die krachtens de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) bevoegd is afvalstoffen van de betrokken aard en samenstelling te brengen in oppervlaktewateren;  
+e. die krachtens de Waterwet bevoegd is afvalstoffen van de betrokken aard en samenstelling te brengen in oppervlaktewateren;  
 
 f. die in een ander land dan Nederland is gevestigd, en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en titel 10.7 die afvalstoffen naar dat land brengt;  
 
@@ -2377,7 +2377,7 @@ f. ingeval de afgifte geschiedt door tussenkomst van een ander die opdracht had 
 ### Artikel  10.40a  
 
 1. De in artikel 10.38 gestelde verplichting de afgifte van afvalstoffen te registreren of te melden, geldt niet voor degene die zich ontdoet van bij algemene maatregel van bestuur aangewezen afvalstoffen afkomstig van schepen.
-2. Degene die bij algemene maatregel van bestuur aangewezen afvalstoffen afkomstig van schepen in ontvangst neemt, bevestigt deze ontvangst op een bij algemene maatregel van bestuur aan te geven wijze op een formulier, vastgesteld ingevolge [artikel 10.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md).
+2. Degene die bij algemene maatregel van bestuur aangewezen afvalstoffen afkomstig van schepen in ontvangst neemt, bevestigt deze ontvangst op een bij algemene maatregel van bestuur aan te geven wijze op een formulier, vastgesteld ingevolge artikel 10.1 van de Waterwet.
 
 ### Artikel  10.41  
 
@@ -2448,7 +2448,7 @@ b. daarbij aangewezen categorieën van bedrijfsafvalstoffen of gevaarlijke afval
 ### Artikel  10.48  
 
 1.  Bij algemene maatregel van bestuur kan in het belang van een doelmatig beheer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden bepaald dat voor het inzamelen van daarbij aangewezen categorieën van zodanige afvalstoffen een vergunning van Onze Minister is vereist.   
-2.  Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de [artikelen 2.8](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.14](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.20](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.22](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.23](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.25](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.26, derde en vierde lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.29](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, onder a en b, en tweede lid, onder b](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, onder a tot en met d, en tweede lid, onder a, b en d](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.10](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.12](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.13](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.15](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [4.1 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in het eerste lid, met dien verstande dat voor de toepassing van genoemde artikelen het belang van de bescherming van het milieu beperkt wordt tot het belang van een doelmatig beheer van afvalstoffen.   
+2.  Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de artikelen 2.8, 2.14, 2.20, 2.22, 2.23, 2.25, 2.26, derde en vierde lid, 2.29, 2.30, 2.31, eerste lid, onder a en b, en tweede lid, onder b, 2.33, eerste lid, onder a tot en met d, en tweede lid, onder a, b en d, 3.2, 3.10, 3.12, 3.13, 3.15 en 4.1 van de Wet algemene bepalingen omgevingsrecht bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in het eerste lid, met dien verstande dat voor de toepassing van genoemde artikelen het belang van de bescherming van het milieu beperkt wordt tot het belang van een doelmatig beheer van afvalstoffen.   
 3.  Onze Minister kan in het belang van een doelmatig beheer van afvalstoffen de tarieven vaststellen, die ten minste dan wel ten hoogste in rekening worden gebracht bij het in ontvangst nemen van afvalstoffen door de houder van een vergunning als bedoeld in het eerste lid.  
 
 ### Artikel  10.49  
@@ -2492,7 +2492,7 @@ b. ingeval van afgifte aan een ander, die afvalstoffen gescheiden af te geven.
 
 ### Artikel  10.53  
 
-Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de [artikelen 2.8](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.14](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.20](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.22](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.23](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.25](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.26, derde en vierde lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.29](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, onder a en b, en tweede lid, onder b](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, onder a tot en met d, en tweede lid, onder a, b en d](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.10](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.12](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.13](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.15](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [4.1 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in artikel 10.52, tweede lid. 
+Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de artikelen 2.8, 2.14, 2.20, 2.22, 2.23, 2.25, 2.26, derde en vierde lid, 2.29, 2.30, 2.31, eerste lid, onder a en b, en tweede lid, onder b, 2.33, eerste lid, onder a tot en met d, en tweede lid, onder a, b en d, 3.2, 3.10, 3.12, 3.13, 3.15 en 4.1 van de Wet algemene bepalingen omgevingsrecht bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in artikel 10.52, tweede lid. 
 
 ### Artikel  10.54  
 
@@ -2549,7 +2549,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in artikel 53 van de EG-verorde
 
 ### Artikel  10.59  
 
-Op een kennisgeving als bedoeld in de EG-verordening overbrenging van afvalstoffen is [artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing. 
+Op een kennisgeving als bedoeld in de EG-verordening overbrenging van afvalstoffen is artikel 4:15 van de Algemene wet bestuursrecht niet van toepassing. 
 
 ### Artikel  10.60  
 
@@ -2588,14 +2588,14 @@ c.artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c
 
 ### Artikel  10.63  
 
-1.  Burgemeester en wethouders kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in artikel 10.2, eerste lid, gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te verbranden, voorzover het geen gevaarlijke afvalstoffen betreft. Op de ontheffing, bedoeld in de vorige volzin, is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Burgemeester en wethouders kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in artikel 10.2, eerste lid, gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te verbranden, voorzover het geen gevaarlijke afvalstoffen betreft. Op de ontheffing, bedoeld in de vorige volzin, is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van toepassing.   
 2.  Gedeputeerde staten kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in artikel 10.2, eerste lid, gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te storten of anderszins op of in de bodem te brengen, voorzover het geen gevaarlijke afvalstoffen betreft, en, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van de in de artikelen 10.37 en 10.54 gestelde verboden.   
 3.  Onze Minister kan, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van het bepaalde in een algemene maatregel van bestuur krachtens de artikelen 10.28, 10.29, 10.47, 10.51 en, indien het belang van de bescherming van het milieu zich daartegen niet verzet, van 10.52, van het bepaalde bij of krachtens een algemene maatregel van bestuur op grond van de artikelen 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, en 10.46, eerste lid, alsmede van het bepaalde in de artikelen 10.23, derde lid, en 10.48.  
 
 ### Artikel  10.64  
 
-1.   Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de [artikelen 2.8](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.14](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.20](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.22](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.23](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.25](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.26, derde en vierde lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.29](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, onder a en b, en tweede lid, onder b](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, onder a tot en met d, en tweede lid, onder a, b en d](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.10](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.12](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.13](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3.15](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [4.1 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een ontheffing als bedoeld in artikel 10.63, met dien verstande dat – behalve ten aanzien van een ontheffing van de in artikel 10.2, eerste lid, en artikel 10.54, eerste lid, gestelde verboden –, voor die toepassing het belang van de bescherming van het milieu wordt beperkt tot het belang van een doelmatig beheer van de betrokken categorie van afvalstoffen.  
-2. In afwijking van het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een ontheffing als bedoeld in artikel 10.63, eerste lid.
+1.   Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de artikelen 2.8, 2.14, 2.20, 2.22, 2.23, 2.25, 2.26, derde en vierde lid, 2.29, 2.30, 2.31, eerste lid, onder a en b, en tweede lid, onder b, 2.33, eerste lid, onder a tot en met d, en tweede lid, onder a, b en d, 3.2, 3.10, 3.12, 3.13, 3.15 en 4.1 van de Wet algemene bepalingen omgevingsrecht bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een ontheffing als bedoeld in artikel 10.63, met dien verstande dat – behalve ten aanzien van een ontheffing van de in artikel 10.2, eerste lid, en artikel 10.54, eerste lid, gestelde verboden –, voor die toepassing het belang van de bescherming van het milieu wordt beperkt tot het belang van een doelmatig beheer van de betrokken categorie van afvalstoffen.  
+2. In afwijking van het eerste lid is afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing op een ontheffing als bedoeld in artikel 10.63, eerste lid.
 
 ### Hoofdstuk  11  
 
@@ -2611,9 +2611,9 @@ c.artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c
 
 *beheerder:* beheerder van de weg of spoorweg;  
 
-*beheersverordening:* verordening als bedoeld in [artikel 3.38, eerste lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md); 
+*beheersverordening:* verordening als bedoeld in artikel 3.38, eerste lid, van de Wet ruimtelijke ordening; 
 
-*bestemmingsplan:* bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+*bestemmingsplan:* bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening;  
 
 *binnenwaarde:* binnenwaarde als bedoeld in artikel 11.2;  
 
@@ -2623,7 +2623,7 @@ c.artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c
 
 *geluidplafondkaart:* kaart met daarop aangegeven de wegen en spoorwegen, alsmede de geprojecteerde wegen en spoorwegen, waarop titel 11.3 en de daarop berustende bepalingen van toepassing zijn;  
 
-*geluidplan:* plan als bedoeld in [artikel 6, vijfde lid, van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md); 
+*geluidplan:* plan als bedoeld in artikel 6, vijfde lid, van de Spoedwet wegverbreding; 
 
 *geluidproductie: * geluidwaarde vanwege een weg of spoorweg in L<sub>den</sub>;  
 
@@ -2633,15 +2633,15 @@ c.artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c
 
 *geluidsbelasting L<sub>night</sub>:* geluidsbelasting van een plaats en vanwege een bron over alle perioden van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 2, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
 
-*geluidsgevoelig object:* bij algemene maatregel van bestuur als zodanig aangewezen gebouw of terrein dat vanwege de bestemming daarvan bijzondere bescherming tegen geluid behoeft, waarbij wat betreft de bestemming wordt uitgegaan van het gebruik dat is toegestaan op grond van het bestemmingsplan, bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) daaronder mede begrepen, de beheersverordening, bedoeld in [artikel 3.38 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of, indien met toepassing van [artikel 2.12, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning, bedoeld in [artikel 1.1, eerste lid, van laatstgenoemde wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*geluidsgevoelig object:* bij algemene maatregel van bestuur als zodanig aangewezen gebouw of terrein dat vanwege de bestemming daarvan bijzondere bescherming tegen geluid behoeft, waarbij wat betreft de bestemming wordt uitgegaan van het gebruik dat is toegestaan op grond van het bestemmingsplan, bedoeld in artikel 3.1 van de Wet ruimtelijke ordening, een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van die wet daaronder mede begrepen, de beheersverordening, bedoeld in artikel 3.38 van die wet, of, indien met toepassing van artikel 2.12, eerste lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning, bedoeld in artikel 1.1, eerste lid, van laatstgenoemde wet;  
 
 *geluidsgevoelige ruimte:* bij algemene maatregel van bestuur als zodanig aangewezen ruimte van een geluidsgevoelig object;  
 
 *geluidwerende maatregel:* maatregel aan een geluidsgevoelig object die de geluidsbelasting binnen de geluidsgevoelige ruimten van dat object beperkt;  
 
-*geprojecteerde weg of spoorweg:* nog niet aangelegde weg of spoorweg, in de aanleg waarvan wordt voorzien door een geldend bestemmingsplan, tracébesluit, of wegaanpassingsbesluit als bedoeld in de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), dan wel door een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken;  
+*geprojecteerde weg of spoorweg:* nog niet aangelegde weg of spoorweg, in de aanleg waarvan wordt voorzien door een geldend bestemmingsplan, tracébesluit, of wegaanpassingsbesluit als bedoeld in de Spoedwet wegverbreding, dan wel door een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken;  
 
-*hoofdspoorweg:* krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorweg;  
+*hoofdspoorweg:* krachtens artikel 2 van de Spoorwegwet aangewezen hoofdspoorweg;  
 
 *L<sub>den</sub>:* maat ter bepaling van de geluidsbelasting of een andere geluidwaarde op een plaats en vanwege een bron over alle perioden van 07.00–19.00 uur, van 19.00–23.00 uur en van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 1, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
 
@@ -2651,13 +2651,13 @@ c.artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c
 
 *saneringsobject:* object als bedoeld in artikel 11.57; 
 
-*spoorweg:* spoorweg als bedoeld in [artikel 1 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+*spoorweg:* spoorweg als bedoeld in artikel 1 van de Spoorwegwet;  
 
-* tracébesluit:* tracébesluit als bedoeld in de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+* tracébesluit:* tracébesluit als bedoeld in de Tracéwet;  
 
 *verzameling van inrichtingen:*
 
-a. inrichtingen op een industrieterrein als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+a. inrichtingen op een industrieterrein als bedoeld in artikel 1 van de Wet geluidhinder;  
 
 b. bij algemene maatregel van bestuur aangewezen inrichtingen, die zijn gelegen binnen een daarbij aangegeven gebied;    
 
@@ -2665,12 +2665,12 @@ b. bij algemene maatregel van bestuur aangewezen inrichtingen, die zijn gelegen 
 
 *weg:* voor het openbaar rij- of ander verkeer openstaande weg, met inbegrip van de daarin liggende bruggen of viaducten;  
 
-*woonwagenstandplaats:* standplaats als bedoeld in [artikel 1, eerste lid, onder e, van de Huisvestingswet](../../../../wet/huisvestingswet/BWBR0005674/README.md).    
+*woonwagenstandplaats:* standplaats als bedoeld in artikel 1, eerste lid, onder e, van de Huisvestingswet.    
 2.  Voor de toepassing van het bij of krachtens dit hoofdstuk bepaalde wordt mede verstaan onder: 
 
-a. bestemmingsplan: inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+a. bestemmingsplan: inpassingsplan als bedoeld in artikel 3.26 of artikel 3.28 van de Wet ruimtelijke ordening;  
 
-b. geluidsgevoelig object: nog niet aanwezig geluidsgevoelig object waarvoor een geldend bestemmingsplan verlening van een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, ongeacht of deze vergunning reeds is afgegeven, dan wel waarvoor een zodanige omgevingsvergunning met afwijking van het bestemmingsplan is afgegeven;  
+b. geluidsgevoelig object: nog niet aanwezig geluidsgevoelig object waarvoor een geldend bestemmingsplan verlening van een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht toelaat, ongeacht of deze vergunning reeds is afgegeven, dan wel waarvoor een zodanige omgevingsvergunning met afwijking van het bestemmingsplan is afgegeven;  
 
 c. weg, spoorweg of hoofdspoorweg: deel van een weg, spoorweg of hoofdspoorweg.    
 
@@ -2741,9 +2741,9 @@ a. wegen, daaronder begrepen spoorwegen die deel uitmaken van een weg;
 
 b. spoorwegen die niet deel uitmaken van een weg;  
 
-c. luchthavens als bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+c. luchthavens als bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart;  
 
-d. de luchthaven Schiphol, bedoeld in [hoofdstuk 8 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+d. de luchthaven Schiphol, bedoeld in hoofdstuk 8 van de Wet luchtvaart;  
 
 e. inrichtingen of verzamelingen van inrichtingen.     
 5.  De geluidsbelastingkaarten geven ten minste een weergave van: 
@@ -2757,7 +2757,7 @@ b. het aantal geluidsgevoelige objecten en bewoners van woningen die aan bepaald
 ### Artikel  11.7  
 
 1.  Ten behoeve van de vaststelling van een geluidsbelastingkaart als bedoeld in artikel 11.6, eerste en tweede lid, verstrekken burgemeester en wethouders aan Onze Minister onderscheidenlijk gedeputeerde staten op hun verzoek, alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van die kaart noodzakelijk zijn.   
-2.  Ten behoeve van de vaststelling van een geluidsbelastingkaart als bedoeld in artikel 11.6, vierde lid, verstrekken Onze Minister, gedeputeerde staten en burgemeester en wethouders aan betrokken burgemeester en wethouders op hun verzoek, alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van die kaart noodzakelijk zijn. Op een dergelijk verzoek verstrekt Onze Minister van Defensie de contourenkaarten, bedoeld in [artikel 10.23 van de Wet Luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+2.  Ten behoeve van de vaststelling van een geluidsbelastingkaart als bedoeld in artikel 11.6, vierde lid, verstrekken Onze Minister, gedeputeerde staten en burgemeester en wethouders aan betrokken burgemeester en wethouders op hun verzoek, alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van die kaart noodzakelijk zijn. Op een dergelijk verzoek verstrekt Onze Minister van Defensie de contourenkaarten, bedoeld in artikel 10.23 van de Wet Luchtvaart.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake de te verstrekken inlichtingen en gegevens, waaronder de wijze waarop en de termijn waarbinnen of de datum waarvoor deze verstrekt worden.  
 
 ### Artikel  11.8  
@@ -2778,8 +2778,8 @@ b. voegen bij de geluidsbelastingkaart een overzicht van de belangrijkste punten
 
 ### Artikel  11.10  
 
-1.  Indien gedeputeerde staten niet of niet tijdig voldoen aan een verplichting als bedoeld in artikel 11.6, tweede lid, is [artikel 121 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing met dien verstande dat Onze Minister in de plaats treedt van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-2.  Indien burgemeester en wethouders niet of niet tijdig voldoen aan een verplichting als bedoeld in artikel 11.6, vierde lid, is [artikel 124 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing met dien verstande dat Onze Minister in de plaats treedt van gedeputeerde staten.  
+1.  Indien gedeputeerde staten niet of niet tijdig voldoen aan een verplichting als bedoeld in artikel 11.6, tweede lid, is artikel 121 van de Provinciewet van overeenkomstige toepassing met dien verstande dat Onze Minister in de plaats treedt van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
+2.  Indien burgemeester en wethouders niet of niet tijdig voldoen aan een verplichting als bedoeld in artikel 11.6, vierde lid, is artikel 124 van de Gemeentewet van overeenkomstige toepassing met dien verstande dat Onze Minister in de plaats treedt van gedeputeerde staten.  
 
 ### §  11.2.3  
 
@@ -2818,7 +2818,7 @@ d. de planning van de sanering voor de eerstvolgende vijf jaar.
 
 ### Artikel  11.14  
 
-1.  Een actieplan wordt voorbereid met overeenkomstige toepassing van de in [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde procedure, met dien verstande dat in afwijking van [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een ieder zienswijzen naar voren kan brengen.   
+1.  Een actieplan wordt voorbereid met overeenkomstige toepassing van de in afdeling 3.4 van de Algemene wet bestuursrecht geregelde procedure, met dien verstande dat in afwijking van artikel 3:15 van de Algemene wet bestuursrecht, een ieder zienswijzen naar voren kan brengen.   
 2.  Burgemeester en wethouders stellen een actieplan niet vast dan nadat de gemeenteraad een ontwerp van het actieplan is toegezonden en deze in de gelegenheid is gesteld zijn wensen en zienswijze ter kennis van burgemeester en wethouders te brengen.  
 
 ### Artikel  11.15  
@@ -2831,7 +2831,7 @@ Artikel 11.9 is van overeenkomstige toepassing op de vaststelling van actieplann
 
 ### Artikel  11.16  
 
-1.  Onze Minister, gedeputeerde staten en burgemeester en wethouders verstrekken op verzoek van een bevoegde autoriteit van een van de lidstaten van de Europese Unie alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van een geluidsbelastingkaart in de desbetreffende lidstaat noodzakelijk zijn. Op een dergelijk verzoek verstrekt Onze Minister van Defensie de contourenkaarten, bedoeld in [artikel 10.23 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+1.  Onze Minister, gedeputeerde staten en burgemeester en wethouders verstrekken op verzoek van een bevoegde autoriteit van een van de lidstaten van de Europese Unie alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van een geluidsbelastingkaart in de desbetreffende lidstaat noodzakelijk zijn. Op een dergelijk verzoek verstrekt Onze Minister van Defensie de contourenkaarten, bedoeld in artikel 10.23 van de Wet luchtvaart.   
 2.  Artikel 11.7, derde lid, is van overeenkomstige toepassing.  
 
 ### Titel  11.3  
@@ -2863,7 +2863,7 @@ b. dat vastgesteld is op grond van artikel 11.27, of
 
 c. dat gewijzigd is op grond van artikel 11.28.     
 3.  In bijzondere gevallen bevinden de referentiepunten zich langs een samenstel van wegen of geprojecteerde wegen dan wel langs een samenstel van spoorwegen of geprojecteerde spoorwegen. Voor de toepassing van titel 11.3 wordt onder weg of spoorweg dan wel geprojecteerde weg of geprojecteerde spoorweg een dergelijk samenstel van al dan niet geprojecteerde wegen of spoorwegen begrepen.   
-4.  Voor de toepassing van dit hoofdstuk wordt onder een geluidproductieplafond als bedoeld in het tweede lid, onder a of b, mede begrepen een geluidproductieplafond dat is opgenomen in een tracébesluit, een wegaanpassingsbesluit als bedoeld in [artikel 5 van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), of een geluidplan. 
+4.  Voor de toepassing van dit hoofdstuk wordt onder een geluidproductieplafond als bedoeld in het tweede lid, onder a of b, mede begrepen een geluidproductieplafond dat is opgenomen in een tracébesluit, een wegaanpassingsbesluit als bedoeld in artikel 5 van de Spoedwet wegverbreding, of een geluidplan. 
 
 ### Afdeling  11.3.2  
 
@@ -2897,7 +2897,7 @@ c. een verantwoording van de validatie van de berekende waarden voor de referent
 
 ### Artikel  11.23  
 
-1.  Artikel 11.20 geldt niet met betrekking tot geluidproductieplafonds voor een spoorweg, die tot stand zijn gekomen met toepassing van artikel 11.45, waarvoor door de beheerder op verzoek van een gerechtigde als bedoeld in [artikel 57 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) extra capaciteit is verdeeld, indien: 
+1.  Artikel 11.20 geldt niet met betrekking tot geluidproductieplafonds voor een spoorweg, die tot stand zijn gekomen met toepassing van artikel 11.45, waarvoor door de beheerder op verzoek van een gerechtigde als bedoeld in artikel 57 van de Spoorwegwet extra capaciteit is verdeeld, indien: 
 
 a. op die spoorweg op een of meer dagen in het kalenderjaar voorafgaand aan 1 juli 2012  een of meer goederentreinen hebben gereden tussen 23.00 en 07.00 uur, en  
 
@@ -2918,7 +2918,7 @@ c. is voldaan aan de voorwaarden van dit artikel.
 ### Artikel  11.24  
 
 1.  Onze Minister kan op verzoek van de beheerder in verband met bijzondere omstandigheden voor een termijn van ten hoogste vijf jaar ontheffing verlenen van de verplichting tot naleving van een geluidproductieplafond.   
-2.  Onze Minister beslist binnen vier weken na ontvangst van de aanvraag. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  Onze Minister beslist binnen vier weken na ontvangst van de aanvraag. Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing.   
 3.  Onze Minister kan aan de ontheffing voorschriften verbinden met betrekking tot: 
 
 a. de mate en de duur van de overschrijding van het geluidproductieplafond;  
@@ -2968,7 +2968,7 @@ d. indien van toepassing:
 
 ### Artikel  11.26  
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/267.In deze afdeling wordt onder bevoegd gezag verstaan: het bevoegd gezag, genoemd in [artikel 11 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md), dan wel indien de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md) niet van toepassing is, de Minister van Verkeer en Waterstaat. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/267.In deze afdeling wordt onder bevoegd gezag verstaan: het bevoegd gezag, genoemd in artikel 11 van de Tracéwet, dan wel indien de Tracéwet niet van toepassing is, de Minister van Verkeer en Waterstaat. 
 
 ### Artikel  11.27  
 
@@ -2977,7 +2977,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Artikel  11.28  
 
-1.  Onze Minister kan een geluidproductieplafond wijzigen. Ingeval een ambtshalve wijziging geen deel uitmaakt van een tracébesluit, een wegaanpassingsbesluit als bedoeld in [artikel 5 van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), of een geluidplan, zijn de artikelen 11.29 en 11.30 niet van toepassing.   
+1.  Onze Minister kan een geluidproductieplafond wijzigen. Ingeval een ambtshalve wijziging geen deel uitmaakt van een tracébesluit, een wegaanpassingsbesluit als bedoeld in artikel 5 van de Spoedwet wegverbreding, of een geluidplan, zijn de artikelen 11.29 en 11.30 niet van toepassing.   
 2.  Indien de beheerder een verzoek heeft ingediend tot verhoging van een geluidproductieplafond, wordt dat geluidproductieplafond niet verhoogd indien: 
 
 a. de beheerder niet heeft voldaan aan de verplichting, bedoeld in artikel 11.3, tweede lid, of  
@@ -3020,12 +3020,12 @@ b. stuit op overwegende bezwaren van stedenbouwkundige, verkeerskundige, vervoer
 
 a. waarin het desbetreffende referentiepunt is gelegen, of  
 
-b. waartoe gronden behoren die zijn gelegen langs de betreffende weg of spoorweg binnen de zone, bedoeld in [hoofdstuk VI van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
+b. waartoe gronden behoren die zijn gelegen langs de betreffende weg of spoorweg binnen de zone, bedoeld in hoofdstuk VI van de Wet geluidhinder.     
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die bij de aanvraag worden verstrekt.  
 
 ### Artikel  11.32  
 
-[Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van een besluit tot vaststelling of wijziging van een geluidproductieplafond dat wordt genomen op een verzoek als bedoeld in artikel 11.31, tweede of derde lid. Zienswijzen kunnen naar voren worden gebracht door een ieder. 
+Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van een besluit tot vaststelling of wijziging van een geluidproductieplafond dat wordt genomen op een verzoek als bedoeld in artikel 11.31, tweede of derde lid. Zienswijzen kunnen naar voren worden gebracht door een ieder. 
 
 ### Artikel  11.33  
 
@@ -3065,7 +3065,7 @@ Een afschrift van het besluit tot vaststelling of wijziging van een geluidproduc
 
 a. waarin het desbetreffende referentiepunt is gelegen;  
 
-b. waartoe de gronden behoren die zijn gelegen langs de desbetreffende weg of spoorweg binnen de zone, bedoeld in [hoofdstuk VI van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md).   
+b. waartoe de gronden behoren die zijn gelegen langs de desbetreffende weg of spoorweg binnen de zone, bedoeld in hoofdstuk VI van de Wet geluidhinder.   
 
 ### §  11.3.3.3  
 
@@ -3083,7 +3083,7 @@ b. waartoe de gronden behoren die zijn gelegen langs de desbetreffende weg of sp
 1.  Indien de rechthebbende ten aanzien van een geluidsgevoelig object niet heeft toegestemd mee te werken aan maatregelen die moeten worden getroffen ingevolge artikel 11.38, eerste lid, verklaart Onze Minister, op verzoek van de beheerder, de verplichting, bedoeld in artikel 11.38, eerste lid, vervallen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop aan de rechthebbende wordt verzocht om mee te werken aan de realisatie van de maatregelen en de wijze waarop deze zijn toestemming verleent of onthoudt.   
 3.  Onze Minister zendt een afschrift van de vervallenverklaring bij aangetekend schrijven aan de rechthebbende.   
-4.  Onze Minister zendt onverwijld een afschrift van de vervallenverklaring aan de Dienst voor het kadaster en de openbare registers ter inschrijving van die verklaring in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). De [artikelen 24, eerste lid](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [26 van Boek 3 van dat wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn niet van toepassing.  
+4.  Onze Minister zendt onverwijld een afschrift van de vervallenverklaring aan de Dienst voor het kadaster en de openbare registers ter inschrijving van die verklaring in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. De artikelen 24, eerste lid, en 26 van Boek 3 van dat wetboek zijn niet van toepassing.  
 
 ### §  11.3.3.4  
 
@@ -3095,7 +3095,7 @@ De artikelen 11.30 en 11.38 zijn niet van toepassing op een geluidsgevoelig obje
 
 ### Artikel  11.41  
 
-Bij vaststelling of wijziging van een geluidproductieplafond wordt de geluidproductie vanwege een spoorwegemplacement als bedoeld in het [Besluit omgevingsrecht, bijlage I, onderdeel C, categorie 14.1](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), alleen betrokken voor zover op die geluidproductie de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en hoofdstuk 8 niet van toepassing zijn. 
+Bij vaststelling of wijziging van een geluidproductieplafond wordt de geluidproductie vanwege een spoorwegemplacement als bedoeld in het Besluit omgevingsrecht, bijlage I, onderdeel C, categorie 14.1, alleen betrokken voor zover op die geluidproductie de Wet algemene bepalingen omgevingsrecht en hoofdstuk 8 niet van toepassing zijn. 
 
 ### Artikel  11.42  
 
@@ -3111,8 +3111,8 @@ b. het zesde lid slechts van toepassing is indien toepassing van het vierde of v
 
 ### Artikel  11.43  
 
-1.  Voor zover de in artikel 11.35 bedoelde maatregelen en het bestemmingsplan, of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit tot vaststelling of wijziging van het geluidproductieplafond voor de uitvoering van de daarin opgenomen maatregelen als een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken.   
-2.  Voor zover een bestemmingsplan of een ander besluit een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet voor de uitvoering van de in het eerste lid bedoelde maatregelen.  
+1.  Voor zover de in artikel 11.35 bedoelde maatregelen en het bestemmingsplan, of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit tot vaststelling of wijziging van het geluidproductieplafond voor de uitvoering van de daarin opgenomen maatregelen als een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken.   
+2.  Voor zover een bestemmingsplan of een ander besluit een omgevingsvergunning voor een aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht vereist, geldt zodanige eis niet voor de uitvoering van de in het eerste lid bedoelde maatregelen.  
 
 ### Afdeling  11.3.4  
 
@@ -3229,7 +3229,7 @@ b. het ter beschikking stellen van budget voor het treffen van bedoelde maatrege
 
 ### Artikel  11.53  
 
-1.  Onze Minister zendt onverwijld een afschrift van het overschrijdingsbesluit aan de Dienst voor het kadaster en de openbare registers ter inschrijving van dat besluit in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). De [artikelen 24, eerste lid](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [26 van Boek 3 van dat wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn niet van toepassing.   
+1.  Onze Minister zendt onverwijld een afschrift van het overschrijdingsbesluit aan de Dienst voor het kadaster en de openbare registers ter inschrijving van dat besluit in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. De artikelen 24, eerste lid, en 26 van Boek 3 van dat wetboek zijn niet van toepassing.   
 2.  Indien een overschrijdingsbesluit ingevolge een besluit of uitspraak in rechte is vernietigd, is ingetrokken of gewijzigd, doet Onze Minister daarvan mededeling aan de Dienst, bedoeld in het eerste lid. Het eerste lid is van overeenkomstige toepassing.  
 
 ### Artikel  11.54  
@@ -3268,12 +3268,12 @@ d. een voorstel voor de saneringsmaatregelen, bedoeld in artikel 11.59.
 
 1. Saneringsobjecten zijn objecten die vallen onder een of meer van de volgende categorieën: 
 
-a. woningen en andere geluidsgevoelige objecten langs wegen en spoorwegen die op de geluidplafondkaart zijn aangegeven, die op grond van [artikel 88 van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), zoals dat luidde voor 1 januari 2007, of [artikel 4.17 van het Besluit geluidhinder](../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) bij Onze Minister tijdig zijn gemeld, voor zover deze nog niet zijn gesaneerd, en de geluidsbelasting bij volledige benutting van de geluidproductieplafonds hoger is dan 60 dB als het een weg betreft of 65 dB als het een spoorweg betreft,  
+a. woningen en andere geluidsgevoelige objecten langs wegen en spoorwegen die op de geluidplafondkaart zijn aangegeven, die op grond van artikel 88 van de Wet geluidhinder, zoals dat luidde voor 1 januari 2007, of artikel 4.17 van het Besluit geluidhinder bij Onze Minister tijdig zijn gemeld, voor zover deze nog niet zijn gesaneerd, en de geluidsbelasting bij volledige benutting van de geluidproductieplafonds hoger is dan 60 dB als het een weg betreft of 65 dB als het een spoorweg betreft,  
 
 b. woningen alsmede in een bestemmingsplan opgenomen ligplaatsen voor woonschepen en standplaatsen voor woonwagens, waarvan de geluidsbelasting vanwege een in artikel 11.56 bedoelde weg of spoorweg bij volledige benutting van de geluidproductieplafonds hoger is dan 65 dB als het een weg betreft of 70 dB als het een spoorweg betreft,  
 
 c. woningen alsmede in een bestemmingsplan opgenomen ligplaatsen voor woonschepen en standplaatsen voor woonwagens, waarvan de geluidsbelasting vanwege bij algemene maatregel van bestuur genoemde delen van wegen of spoorwegen bij volledige benutting van de geluidproductieplafonds hoger is dan 55 dB als het een weg betreft of 60 dB als het een spoorweg betreft.    
-2.  Onder saneringsobjecten als bedoeld in het eerste lid worden niet verstaan geluidsgevoelige objecten met betrekking waartoe met toepassing van de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) een hogere geluidsbelasting is toegestaan dan de wettelijke maximumwaarde ingevolge de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md). 
+2.  Onder saneringsobjecten als bedoeld in het eerste lid worden niet verstaan geluidsgevoelige objecten met betrekking waartoe met toepassing van de Interimwet stad-en-milieubenadering een hogere geluidsbelasting is toegestaan dan de wettelijke maximumwaarde ingevolge de Wet geluidhinder. 
 
 ### Artikel  11.58  
 
@@ -3289,7 +3289,7 @@ c. woningen alsmede in een bestemmingsplan opgenomen ligplaatsen voor woonschepe
 ### Artikel  11.60  
 
 1.  Een saneringsplan wordt vastgesteld door Onze Minister.   
-2.  Op de voorbereiding van de vaststelling van een saneringplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing. Zienswijzen kunnen naar voren worden gebracht door eenieder.   
+2.  Op de voorbereiding van de vaststelling van een saneringplan is afdeling 3.4 van de Algemene wet bestuursrecht van overeenkomstige toepassing. Zienswijzen kunnen naar voren worden gebracht door eenieder.   
 3.  Bij zijn beslissing geeft Onze Minister aan binnen hoeveel tijd na het onherroepelijk worden van het saneringsplan, de saneringsmaatregelen uit het saneringsplan getroffen moeten zijn.   
 4.  Artikel 11.37 is van overeenkomstige toepassing.  
 
@@ -3299,7 +3299,7 @@ In bijzondere gevallen kan Onze Minister het saneringsplan of de termijn waarbin
 
 ### Artikel  11.62  
 
-1.  Voor zover de in een vastgesteld saneringsplan opgenomen saneringsmaatregelen en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit tot vaststelling van het saneringsplan voor de uitvoering van de daarin opgenomen saneringsmaatregelen als een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken.   
+1.  Voor zover de in een vastgesteld saneringsplan opgenomen saneringsmaatregelen en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit tot vaststelling van het saneringsplan voor de uitvoering van de daarin opgenomen saneringsmaatregelen als een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken.   
 2.  Artikel 11.43, tweede en derde lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  11.63  
@@ -3328,7 +3328,7 @@ b. het tijdstip met ingang waarvan de maatregelen ingevolge artikel 11.60, derde
 ### Artikel  11.65  
 
 1.  Op saneringsobjecten waarop de geluidsbelasting, vanwege de weg of spoorweg, bij volledige benutting van het op grond van artikel 11.63 gewijzigde geluidproductieplafond, de maximale waarde overschrijdt, zijn het tweede en derde lid van toepassing.   
-2.  Onze Minister zendt onverwijld een afschrift van het besluit inzake wijziging van het geluidproductieplafond aan de Dienst voor het kadaster en de openbare registers ter inschrijving van dat besluit in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). De [artikelen 24, eerste lid](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [26 van Boek 3 van dat wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn niet van toepassing.   
+2.  Onze Minister zendt onverwijld een afschrift van het besluit inzake wijziging van het geluidproductieplafond aan de Dienst voor het kadaster en de openbare registers ter inschrijving van dat besluit in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. De artikelen 24, eerste lid, en 26 van Boek 3 van dat wetboek zijn niet van toepassing.   
 3.  Indien de geluidsbelasting vanwege de weg of spoorweg, voor een saneringsobject als bedoeld in het eerste lid niet meer de maximale waarde zal overschrijden ingevolge een besluit tot wijziging van een geluidproductieplafond, doet Onze Minister daarvan mededeling aan de Dienst, bedoeld in het tweede lid. Het tweede lid is van overeenkomstige toepassing.  
 
 ### Afdeling  11.3.7  
@@ -3416,7 +3416,7 @@ b.ter voldoening aan een bij of krachtens deze wet, dan wel bij of krachtens de 
 
 ###Artikel 12.10 
 
-1. Onze Minister, Onze Minister van Economische Zaken, provinciale besturen, gemeentebesturen alsmede beheerders als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), dragen er zorg voor dat overeenkomstig artikel 6 van de kaderrichtlijn water één of meer registers worden bijgehouden van de in bijlage IV van de kaderrichtlijn water bedoelde beschermde gebieden, voor zover die gebieden onder hun beheer vallen. 
+1. Onze Minister, Onze Minister van Economische Zaken, provinciale besturen, gemeentebesturen alsmede beheerders als bedoeld in artikel 1.1 van de Waterwet, dragen er zorg voor dat overeenkomstig artikel 6 van de kaderrichtlijn water één of meer registers worden bijgehouden van de in bijlage IV van de kaderrichtlijn water bedoelde beschermde gebieden, voor zover die gebieden onder hun beheer vallen. 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld aangaande de registers. Daarbij kan, in afwijking van het eerste lid, worden voorzien in de mogelijkheid dat de registratie van beschermde gebieden wordt gedaan door provinciale besturen dan wel Onze in het eerste lid genoemde ministers, mede als het gaat om gebieden die in beheer zijn bij andere bestuursorganen.
 
 ###Titel 12.2 
@@ -3433,9 +3433,9 @@ a.bevoegd gezag:
 
 2°.bestuursorgaan waaraan krachtens artikel 8.41, tweede lid, onder a, een melding wordt gericht;
 
-3°.Onze Minister voor zover de bevoegdheid tot vergunningverlening betrekking heeft op inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md);
+3°.Onze Minister voor zover de bevoegdheid tot vergunningverlening betrekking heeft op inrichtingen als bedoeld in artikel 15, onder b, van de Kernenergiewet;
 
-4°.Onze Minister voor openbare wegen en vaarwegen voorzover deze door het Rijk worden beheerd en voor krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorwegen;
+4°.Onze Minister voor openbare wegen en vaarwegen voorzover deze door het Rijk worden beheerd en voor krachtens artikel 2 van de Spoorwegwet aangewezen hoofdspoorwegen;
 
 5°.gedeputeerde staten voor openbare wegen en vaarwegen voor zover deze door de provincie worden beheerd;
 
@@ -3445,15 +3445,15 @@ a.bevoegd gezag:
 
 8°. Onze Minister voor de buisleidingen die behoren tot een krachtens artikel 12.12, tweede lid, aangewezen categorie; 
 
-9°.Onze Minister van Economische Zaken voor inrichtingen waarop de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) van toepassing is;
+9°.Onze Minister van Economische Zaken voor inrichtingen waarop de Mijnbouwwet van toepassing is;
 
 b.gevaarlijke stoffen:
 
-1°.voor zover het betreft inrichtingen en buisleidingen: stoffen die behoren tot een of meer van de in artikel 9.2.3.1, tweede lid, bedoelde categorieën, alsmede splijtstoffen en radioactieve stoffen als bedoeld in [artikel 1 van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md);
+1°.voor zover het betreft inrichtingen en buisleidingen: stoffen die behoren tot een of meer van de in artikel 9.2.3.1, tweede lid, bedoelde categorieën, alsmede splijtstoffen en radioactieve stoffen als bedoeld in artikel 1 van de Kernenergiewet;
 
-2°.voor zover het betreft transportroutes: stoffen die ingevolge de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) als gevaarlijk zijn aangewezen;
+2°.voor zover het betreft transportroutes: stoffen die ingevolge de Wet vervoer gevaarlijke stoffen als gevaarlijk zijn aangewezen;
 
-c.transportroute: openbare weg, krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorweg of vaarweg;
+c.transportroute: openbare weg, krachtens artikel 2 van de Spoorwegwet aangewezen hoofdspoorweg of vaarweg;
 
 d. buisleiding: leiding bestemd of gebruikt voor het vervoer van gevaarlijke stoffen, met de daarbij behorende voorzieningen; 
 
@@ -3482,7 +3482,7 @@ e.externe veiligheid: veiligheid buiten inrichtingen waar gevaarlijke stoffen aa
 3. Het eerste en tweede lid blijven buiten toepassing voor zover de gegevens reeds door het bevoegd gezag zijn verkregen of door het bevoegd gezag op grond van het vijfde lid kunnen worden verkregen. 
 4. Tot de ingevolge het eerste lid op verzoek van het bevoegd gezag te verstrekken gegevens behoren mede de berekeningen die aan de te verstrekken gegevens ten grondslag liggen. 
 5. Een bestuursorgaan dat beschikt over gegevens benodigd voor de uitvoering van artikel 12.13, eerste lid, verstrekt op verzoek van het bevoegd gezag die gegevens. 
-6. De verstrekking van gegevens, bedoeld in het eerste lid, heeft geen betrekking op het uitvoeren van nieuwe berekeningen in verband met de vaststelling van besluiten krachtens de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) die betrekking hebben op het gebied dat van belang is voor de externe veiligheid, indien reeds eerder berekeningen ingevolge het eerste lid aan het bevoegd gezag zijn verstrekt, dan wel anderszins bij dat gezag beschikbaar zijn. 
+6. De verstrekking van gegevens, bedoeld in het eerste lid, heeft geen betrekking op het uitvoeren van nieuwe berekeningen in verband met de vaststelling van besluiten krachtens de Wet ruimtelijke ordening die betrekking hebben op het gebied dat van belang is voor de externe veiligheid, indien reeds eerder berekeningen ingevolge het eerste lid aan het bevoegd gezag zijn verstrekt, dan wel anderszins bij dat gezag beschikbaar zijn. 
 7. Het verzoek om gegevens te verstrekken wordt schriftelijk gedaan en vermeldt een termijn van ten hoogste drie maanden waarbinnen aan het verzoek moet worden voldaan. 
 8. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de op grond van het eerste en tweede lid te verstrekken gegevens, en de wijze waarop deze aan het bevoegd gezag worden verstrekt. 
 
@@ -3534,7 +3534,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder: *PRTR*: r
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen andere gegevens dan de in artikel 5, eerste lid, van de EG-verordening PRTR bedoelde gegevens worden aangewezen, die in het PRTR-verslag moeten worden opgenomen. Als gegevens als bedoeld in de eerste volzin worden uitsluitend aangewezen gegevens omtrent de nadelige gevolgen voor het milieu die de inrichting in het verslagjaar heeft veroorzaakt, en die redelijkerwijs nodig zijn voor: 
 
-a. de vervulling door het bestuursorgaan dat bevoegd is een omgevingsvergunning dan wel een vergunning krachtens [artikel 6.2, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) voor de betrokken inrichting te verlenen, van de in onderscheidenlijk artikel 18.2 van deze wet, [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [artikel 8.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) bedoelde taak,  
+a. de vervulling door het bestuursorgaan dat bevoegd is een omgevingsvergunning dan wel een vergunning krachtens artikel 6.2, eerste lid, van de Waterwet voor de betrokken inrichting te verlenen, van de in onderscheidenlijk artikel 18.2 van deze wet, artikel 5.2 van de Wet algemene bepalingen omgevingsrecht en artikel 8.1 van de Waterwet bedoelde taak,  
 
 b. de vaststelling van het door die bestuursorganen of andere bestuursorganen te voeren milieubeleid en de controle op de voortgang van de uitvoering van dat beleid, of  
 
@@ -3547,7 +3547,7 @@ Degene die de inrichting drijft, zendt gelijktijdig met toezending van het PRTR-
 
 ### Artikel 12.21 
 
-1. Als bevoegde instantie als bedoeld in artikel 2, onder 2, van de EG-verordening PRTR en ingevolge deze titel wordt aangewezen het bestuursorgaan dat voor de inrichting bevoegd is een omgevingsvergunning of een vergunning als bedoeld in [artikel 6.2, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) te verlenen, dan wel, in geval op de inrichting de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) van toepassing is, Onze Minister van Economische Zaken.
+1. Als bevoegde instantie als bedoeld in artikel 2, onder 2, van de EG-verordening PRTR en ingevolge deze titel wordt aangewezen het bestuursorgaan dat voor de inrichting bevoegd is een omgevingsvergunning of een vergunning als bedoeld in artikel 6.2, eerste lid, van de Waterwet te verlenen, dan wel, in geval op de inrichting de Mijnbouwwet van toepassing is, Onze Minister van Economische Zaken.
 2. In afwijking van het eerste lid wordt Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen als bevoegde instantie voor inrichtingen waar activiteiten worden verricht als bedoeld in bijlage I, nummer 7, onder a, bij de EG-verordening PRTR.
 
 ### Artikel 12.22 
@@ -3574,7 +3574,7 @@ b.het verslag anderszins onjuist was, en degene die het verslag heeft ingediend,
 a.op gegevens, opgenomen in een PRTR-verslag ten aanzien waarvan een verklaring als bedoeld in artikel 12.23, eerste lid, is afgegeven, en
 
 b.indien een verklaring als bedoeld in artikel 12.23, vijfde lid, is afgegeven, in welke gevallen de bevoegde instantie uiterlijk op het in het eerste lid bedoelde tijdstip aan Onze Minister meldt dat een verklaring als bedoeld onder a onderscheidenlijk b is afgegeven. 
-3. De bevoegde instantie kan op verzoek van degene die de inrichting drijft, of ambtshalve bepalen dat bepaalde in een PRTR-verslag opgenomen gegevens niet aan Onze Minister worden verstrekt. [Artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing. Een verzoek als bedoeld in de eerste volzin wordt ingediend gelijktijdig met het toezenden van het PRTR-verslag, doch uiterlijk op 31 maart van het kalenderjaar volgend op het verslagjaar. Een ambtshalve bepaling als bedoeld in de eerste volzin vindt plaats uiterlijk op 30 september van het kalenderjaar volgend op het verslagjaar.
+3. De bevoegde instantie kan op verzoek van degene die de inrichting drijft, of ambtshalve bepalen dat bepaalde in een PRTR-verslag opgenomen gegevens niet aan Onze Minister worden verstrekt. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing. Een verzoek als bedoeld in de eerste volzin wordt ingediend gelijktijdig met het toezenden van het PRTR-verslag, doch uiterlijk op 31 maart van het kalenderjaar volgend op het verslagjaar. Een ambtshalve bepaling als bedoeld in de eerste volzin vindt plaats uiterlijk op 30 september van het kalenderjaar volgend op het verslagjaar.
 4. Indien toepassing is gegeven aan het derde lid, deelt de bevoegde instantie uiterlijk op het in het eerste lid, tweede volzin, genoemde tijdstip aan Onze Minister mee:
 
 a.welk type informatie geheim is gehouden;
@@ -3689,8 +3689,8 @@ b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
 
 ### Artikel  13.1  
 
-1.  Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de voorbereiding van beschikkingen krachtens deze wet en van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.    
-2.   De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn:  de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md),  de [artikelen 3.1](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.3 tot en met 3.6](../../../../wet/wet/dieren/BWBR0030250/README.md), [6.4](../../../../wet/wet/dieren/BWBR0030250/README.md) en [7.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md) met betrekking tot dierlijke bijproducten,  de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md),  de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md),  de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md),  de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md),  de [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md),  de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md),de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md),de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).  
+1.  Bij de toepassing van afdeling 3.4 van de Algemene wet bestuursrecht op de voorbereiding van beschikkingen krachtens deze wet en van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.    
+2.   De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn:  de Mijnbouwwet,  de artikelen 3.1, 3.3 tot en met 3.6, 6.4 en 7.1 van de Wet dieren met betrekking tot dierlijke bijproducten,  de Kernenergiewet,  de Wet geluidhinder,  de Wet inzake de luchtverontreiniging,  de Wet bodembescherming,  de Ontgrondingenwet,  de Wet bescherming Antarctica,de Waterwet,de Wet algemene bepalingen omgevingsrecht.  
 
 ### Afdeling  13.2  
 
@@ -3698,29 +3698,29 @@ b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
 
 ### Artikel  13.2  
 
-Indien bij de voorbereiding van de beslissing op de aanvraag om een vergunning of een ontheffing een milieueffectrapport moet worden gemaakt, wordt van die aanvraag kennisgegeven. Met betrekking tot die kennisgeving zijn de [artikelen 3:11](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3:12, eerste en tweede lid, en derde lid, onder a](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [3:14 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 13.4 en 13.6 van overeenkomstige toepassing. 
+Indien bij de voorbereiding van de beslissing op de aanvraag om een vergunning of een ontheffing een milieueffectrapport moet worden gemaakt, wordt van die aanvraag kennisgegeven. Met betrekking tot die kennisgeving zijn de artikelen 3:11, 3:12, eerste en tweede lid, en derde lid, onder a, en 3:14 van de Algemene wet bestuursrecht en de artikelen 13.4 en 13.6 van overeenkomstige toepassing. 
 
 ###Artikel 13.3 
 
-Zienswijzen als bedoeld in [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen naar voren worden gebracht door een ieder.
+Zienswijzen als bedoeld in artikel 3:15 van de Algemene wet bestuursrecht, kunnen naar voren worden gebracht door een ieder.
 
 ###Artikel 13.4 
 
-Indien de aanvraag om een vergunning of ontheffing betrekking heeft op een inrichting of werk, geschiedt de terinzagelegging, bedoeld in [artikel 3:13, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in ieder geval ter secretarie van de gemeente waarin de inrichting of het werk geheel of in hoofdzaak zal zijn gelegen.
+Indien de aanvraag om een vergunning of ontheffing betrekking heeft op een inrichting of werk, geschiedt de terinzagelegging, bedoeld in artikel 3:13, eerste lid, van de Algemene wet bestuursrecht, in ieder geval ter secretarie van de gemeente waarin de inrichting of het werk geheel of in hoofdzaak zal zijn gelegen.
 
 ### Artikel  13.5  
 
 1.  Bij het geven van een beschikking als bedoeld in artikel 13.1 kan het bevoegd gezag zich in ieder geval baseren op gegevens en onderzoeken die niet ouder zijn dan twee jaar.   
-2.  Het eerste lid is niet van toepassing op een beschikking die krachtens de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) wordt genomen.  
+2.  Het eerste lid is niet van toepassing op een beschikking die krachtens de Wet bescherming Antarctica wordt genomen.  
 
 ### Artikel  13.6  
 
-Indien de aanvrager daarom heeft verzocht, stelt het bevoegd gezag hem, voordat het stukken ter inzage legt die niet van zijn kant zijn ingebracht, in de gelegenheid die stukken in te zien met het oog op de toepassing van de artikelen 19.3 tot en met 19.5. Tot de in de eerste volzin bedoelde stukken behoren niet de verslagen, gemaakt overeenkomstig [artikel 3:17, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en afschriften van zienswijzen, door anderen dan betrokken bestuursorganen ingebracht overeenkomstig [artikel 3:15 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). [Artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is niet van toepassing. 
+Indien de aanvrager daarom heeft verzocht, stelt het bevoegd gezag hem, voordat het stukken ter inzage legt die niet van zijn kant zijn ingebracht, in de gelegenheid die stukken in te zien met het oog op de toepassing van de artikelen 19.3 tot en met 19.5. Tot de in de eerste volzin bedoelde stukken behoren niet de verslagen, gemaakt overeenkomstig artikel 3:17, tweede lid, van de Algemene wet bestuursrecht, en afschriften van zienswijzen, door anderen dan betrokken bestuursorganen ingebracht overeenkomstig artikel 3:15 van die wet. Artikel 10 van de Wet openbaarheid van bestuur is niet van toepassing. 
 
 ### Artikel  13.8  
 
-1.  Indien op de voorbereiding van de beschikking op een of meerdere van de aanvragen die gecoördineerd worden behandeld met andere aanvragen [artikel 31, vierde lid, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) van toepassing is, is dat lid van toepassing op de voorbereiding van alle beschikkingen op die aanvragen.   
-2.  Indien de termijn voor het geven van een beschikking op een aanvraag wordt verlengd overeenkomstig [artikel 31, vierde lid, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) of [artikel 3:18, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geldt die termijn tevens voor de beschikking op de andere aanvragen waarmee de aanvraag gecoördineerd wordt behandeld.  
+1.  Indien op de voorbereiding van de beschikking op een of meerdere van de aanvragen die gecoördineerd worden behandeld met andere aanvragen artikel 31, vierde lid, van de Dienstenwet van toepassing is, is dat lid van toepassing op de voorbereiding van alle beschikkingen op die aanvragen.   
+2.  Indien de termijn voor het geven van een beschikking op een aanvraag wordt verlengd overeenkomstig artikel 31, vierde lid, van de Dienstenwet of artikel 3:18, tweede lid, van de Algemene wet bestuursrecht, geldt die termijn tevens voor de beschikking op de andere aanvragen waarmee de aanvraag gecoördineerd wordt behandeld.  
 
 ###Artikel 13.9 
 
@@ -3728,11 +3728,11 @@ Indien een beslissing op een aanvraag om een vergunning of ontheffing of een bes
 
 ### Artikel  13.10  
 
-In gevallen waarin Onze Minister bevoegd is een vergunning of ontheffing te verlenen, kan hij in overeenstemming met Onze betrokken Minister in het belang van de veiligheid van de Staat de toepassing van [afdeling 3.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 3:44 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geheel of gedeeltelijk achterwege laten, voor zover dat belang zulks vereist.  
+In gevallen waarin Onze Minister bevoegd is een vergunning of ontheffing te verlenen, kan hij in overeenstemming met Onze betrokken Minister in het belang van de veiligheid van de Staat de toepassing van afdeling 3.4 en artikel 3:44 van de Algemene wet bestuursrecht geheel of gedeeltelijk achterwege laten, voor zover dat belang zulks vereist.  
 
 ### Artikel  13.11  
 
-Het bevoegd gezag kan bepalen dat [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing blijft bij de voorbereiding van de beschikking op een aanvraag om een vergunning of ontheffing of van een beschikking tot wijziging daarvan, indien die beschikking: 
+Het bevoegd gezag kan bepalen dat afdeling 3.4 van de Algemene wet bestuursrecht buiten toepassing blijft bij de voorbereiding van de beschikking op een aanvraag om een vergunning of ontheffing of van een beschikking tot wijziging daarvan, indien die beschikking: 
 
 a. betrekking heeft op het beheer van gevaarlijke afvalstoffen waarvan het beheer door een ongewone omstandigheid op korte termijn nodig is;   
 
@@ -3751,7 +3751,7 @@ Indien de aanvraag om een omgevingsvergunning betrekking heeft op een afvalvoorz
 ### Artikel 13.13 
 
 1. Indien de aanvraag om een omgevingsvergunning betrekking heeft op een afvalvoorziening categorie A, die is gelegen in een ander land en die belangrijke nadelige gevolgen voor het milieu in Nederland kan hebben, wordt de aanvraag met de daarop betrekking hebbende stukken door gedeputeerde staten van de provincie waarbinnen bedoelde gevolgen zich kunnen voordoen, ter inzage gelegd. 
-2. [Artikel 3:12, derde lid, onderdelen a, b en c, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.
+2. Artikel 3:12, derde lid, onderdelen a, b en c, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
 
 ### Hoofdstuk  14  
 
@@ -3763,15 +3763,15 @@ Indien de aanvraag om een omgevingsvergunning betrekking heeft op een afvalvoorz
 
 ###Artikel 14.1 
 
-1. Ingeval ten behoeve van een zelfde inrichting aanvragen zijn gedaan tot het geven van met elkaar samenhangende beschikkingen en op de voorbereiding van ten minste een daarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, kunnen gedeputeerde staten van de provincie waar die inrichting geheel of in hoofdzaak is of zal zijn gelegen, indien ten minste één van die aanvragen tot hen is gericht, een gecoördineerde behandeling van die aanvragen bevorderen. 
+1. Ingeval ten behoeve van een zelfde inrichting aanvragen zijn gedaan tot het geven van met elkaar samenhangende beschikkingen en op de voorbereiding van ten minste een daarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, kunnen gedeputeerde staten van de provincie waar die inrichting geheel of in hoofdzaak is of zal zijn gelegen, indien ten minste één van die aanvragen tot hen is gericht, een gecoördineerde behandeling van die aanvragen bevorderen. 
 2.  Gedeputeerde staten zijn gehouden een gecoördineerde behandeling van aanvragen als bedoeld in de aanhef van het eerste lid, indien zij zijn gericht tot verschillende bestuursorganen, te bevorderen wanneer een van die organen dan wel de aanvrager of een der aanvragers hun daarom verzoekt. 
 3.  Gedeputeerde staten zijn voorts gehouden op verzoek van degene die voornemens is een of meer aanvragen te doen als in de aanhef van het eerste lid bedoeld, indien die aanvragen zullen worden gericht tot verschillende bestuursorganen, een gecoördineerde voorbereiding van die aanvragen te bevorderen. 
-4.  De verplichtingen, bedoeld in het tweede en derde lid, gelden, voor zover het betreft aanvragen om beschikkingen op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is, slechts voor zover nakoming daarvan mogelijk is in verband met de wettelijke voorschriften betreffende de totstandkoming van die beschikkingen. 
+4.  De verplichtingen, bedoeld in het tweede en derde lid, gelden, voor zover het betreft aanvragen om beschikkingen op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing is, slechts voor zover nakoming daarvan mogelijk is in verband met de wettelijke voorschriften betreffende de totstandkoming van die beschikkingen. 
 5.  Indien gedeputeerde staten toepassing geven aan het eerste, tweede of derde lid, delen zij dit onverwijld schriftelijk mede aan de aanvragers en elk der andere bestuursorganen waartoe één of meer der aanvragen mocht zijn gericht. 
 
 ###Artikel 14.2 
 
-1. Ten aanzien van aanvragen als bedoeld in de aanhef van artikel 14.1, eerste lid, die binnen een tijdsverloop van zes weken zijn gedaan, kunnen gedeputeerde staten, indien ten minste één van die aanvragen tot hen is gericht, bepalen dat als datum van ontvangst van die aanvragen geldt de datum waarop de laatste daarvan is ontvangen. Indien het ontwerp van de beschikking op een aanvraag al overeenkomstig [artikel 3:13 eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is toegezonden, blijft de eerste volzin met betrekking tot die aanvraag buiten toepassing. 
+1. Ten aanzien van aanvragen als bedoeld in de aanhef van artikel 14.1, eerste lid, die binnen een tijdsverloop van zes weken zijn gedaan, kunnen gedeputeerde staten, indien ten minste één van die aanvragen tot hen is gericht, bepalen dat als datum van ontvangst van die aanvragen geldt de datum waarop de laatste daarvan is ontvangen. Indien het ontwerp van de beschikking op een aanvraag al overeenkomstig artikel 3:13 eerste lid, van de Algemene wet bestuursrecht is toegezonden, blijft de eerste volzin met betrekking tot die aanvraag buiten toepassing. 
 2.  Gedeputeerde staten zijn gehouden ten aanzien van aanvragen als bedoeld in het eerste lid een bepaling als daar bedoeld te stellen wanneer een ander bestuursorgaan waartoe één of meer der aanvragen is gericht, dan wel de aanvrager of een der aanvragers hun daarom verzoekt. Een verzoek wordt schriftelijk bij gedeputeerde staten ingediend. 
 3.  Indien gedeputeerde staten toepassing geven aan het eerste of tweede lid, delen zij dit onverwijld mede aan de aanvragers en aan elk der andere bestuursorganen waartoe één of meer der aanvragen mocht zijn gericht, onder vermelding van de datum waarop de laatste aanvraag is ontvangen.
 
@@ -3780,11 +3780,11 @@ Indien de aanvraag om een omgevingsvergunning betrekking heeft op een afvalvoorz
 1. In geval van gecoördineerde behandeling van aanvragen bevorderen gedeputeerde staten in ieder geval, dat bij de beoordeling van de aanvragen door de onderscheidene bestuursorganen die bevoegd zijn daarop te beslissen, rekening wordt gehouden met de onderlinge samenhang tussen de betrokken aanvragen en dat door die organen tevens gelet wordt op de samenhang tussen de beschikkingen die op de aanvragen worden gegeven. 
 2.  Zij dragen er daarnaast ten minste zorg voor dat zoveel mogelijk: 
 
-a.ten aanzien van de ontwerpen van de betrokken beschikkingen gezamenlijk toepassing wordt gegeven aan de [artikelen 3:11, eerste lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [3:12 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 13.4;
+a.ten aanzien van de ontwerpen van de betrokken beschikkingen gezamenlijk toepassing wordt gegeven aan de artikelen 3:11, eerste lid, en 3:12 van de Algemene wet bestuursrecht en artikel 13.4;
 
-b.de gelegenheid tot het mondeling naar voren brengen van zienswijzen overeenkomstig [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt gegeven met betrekking tot de ontwerpen van de betrokken beschikkingen te zamen; 
+b.de gelegenheid tot het mondeling naar voren brengen van zienswijzen overeenkomstig artikel 3:15 van de Algemene wet bestuursrecht wordt gegeven met betrekking tot de ontwerpen van de betrokken beschikkingen te zamen; 
 
-c.de betrokken beschikkingen gezamenlijk overeenkomstig [artikel 3:44 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden bekendgemaakt. 
+c.de betrokken beschikkingen gezamenlijk overeenkomstig artikel 3:44 van de Algemene wet bestuursrecht worden bekendgemaakt. 
 
 ### Artikel  14.4  
 
@@ -3871,7 +3871,7 @@ a. kan het rapport aan dat orgaan worden overgelegd;
 
 b. kunnen de adviseurs en de bestuursorganen, bedoeld in artikel 7.25 onderscheidenlijk artikel 7.27, tweede lid, en de Comissie voor de milieueffectrapportage hun adviezen over het geven van adviezen inzake de inhoud van het rapport en over het rapport bij dat orgaan indienen;  
 
-c. kan degene die gebruik maakt van de in [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) juncto artikel 7.32 geboden gelegenheid zijn zienswijze naar voren te brengen over het rapport, die zienswijze bij dat orgaan naar voren brengen.     
+c. kan degene die gebruik maakt van de in artikel 3:15, eerste lid, van de Algemene wet bestuursrecht juncto artikel 7.32 geboden gelegenheid zijn zienswijze naar voren te brengen over het rapport, die zienswijze bij dat orgaan naar voren brengen.     
 2.   Indien stukken met een inhoud als bedoeld in het eerste lid worden overgelegd onderscheidenlijk ingediend bij een ander bevoegd gezag, zendt het deze onverwijld aan het met de coördinatie belaste orgaan.  
 
 ### Artikel  14.12  
@@ -3948,7 +3948,7 @@ Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betr
 
 ### Artikel  15.12  
 
-In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is [titel 4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op subsidies die krachtens deze titel uitsluitend worden verstrekt aan rechtspersonen die krachtens publiekrecht zijn ingesteld.  
+In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht, is titel 4.2 van de Algemene wet bestuursrecht van toepassing op subsidies die krachtens deze titel uitsluitend worden verstrekt aan rechtspersonen die krachtens publiekrecht zijn ingesteld.  
 
 ### Artikel  15.13  
 
@@ -3969,17 +3969,17 @@ f. het bedrag van de subsidie dan wel de wijze waarop dit wordt bepaald;
 
 g. de betaling van de subsidie en het verlenen van voorschotten.      
 3.  Onze Minister kan ieder jaar bij ministeriële regeling subsidieplafonds vaststellen voor de verschillende activiteiten waarvoor subsidie kan worden verstrekt. Daarbij bepaalt hij de wijze van verdeling van het beschikbare bedrag.    
-4.  Een aanvraag kan worden afgewezen en een beschikking inhoudende de verstrekking van een subsidie op grond van deze wet kan worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald. De [artikelen 4:49, derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [4:57, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de intrekking of wijziging.   
+4.  Een aanvraag kan worden afgewezen en een beschikking inhoudende de verstrekking van een subsidie op grond van deze wet kan worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald. De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de intrekking of wijziging.   
 
 ### Artikel  15.14  
 
-1.  De door Onze Minister aangewezen personen zijn bevoegd van de aanvrager van een subsidie inlichtingen te vorderen. De [artikelen 5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het door de aanvrager gebruikte plaatsen betreft, en [5:17 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.    
+1.  De door Onze Minister aangewezen personen zijn bevoegd van de aanvrager van een subsidie inlichtingen te vorderen. De artikelen 5:13, 5:15, voor zover het door de aanvrager gebruikte plaatsen betreft, en 5:17 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.    
 2.  Een aanvraag kan worden afgewezen, indien de aanvrager geen medewerking verleent bij de uitoefening van de in het eerste lid bedoelde bevoegdheden.   
 
 ### Artikel  15.15  
 
 1.  Met het toezicht op de naleving van de aan de subsidie-ontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.    
-2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.    
 3.  Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de Staatscourant.    
 4.  Aan de krachtens deze wet verstrekte subsidies is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 
@@ -3995,9 +3995,9 @@ a.artikel 9.2.2.1, eerste lid, juncto artikel 9.2.2.3, zevende lid,
 
 b. de artikelen 10.48 of 10.52 juncto één of meer der onder *a* genoemde bepalingen,   
 
-c. de [artikelen 13, eerste lid, onder b](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), juncto [16, vijfde lid](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), of [43, eerste lid, van de Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md),   
+c. de artikelen 13, eerste lid, onder b, juncto 16, vijfde lid, of 43, eerste lid, van de Wet inzake de luchtverontreiniging,   
 
-d. de [artikelen 30](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) of [31 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md),    zich ten gevolge daarvan voor kosten ziet gesteld dan wel schade lijdt, welke redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kent het gezag dat de beschikking in eerste aanleg heeft gegeven, hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op zijn verzoek dan wel uit eigen beweging een naar billijkheid te bepalen vergoeding toe.    
+d. de artikelen 30 of 31 van de Wet bodembescherming,    zich ten gevolge daarvan voor kosten ziet gesteld dan wel schade lijdt, welke redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kent het gezag dat de beschikking in eerste aanleg heeft gegeven, hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op zijn verzoek dan wel uit eigen beweging een naar billijkheid te bepalen vergoeding toe.    
 2.   Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die tengevolge van een maatregel als bedoeld in artikel 17.19 zich voor kosten ziet gesteld dan wel daardoor schade lijdt, als in het eerste lid bedoeld.    
 3.   Indien een beschikking als bedoeld in het eerste lid op aanvraag wordt gegeven, kan een verzoek om vergoeding worden ingediend na de toezending van een exemplaar van het ontwerp van die beschikking aan de aanvrager.    
 4.   Indien het in het eerste lid bedoelde gezag een advies van deskundigen heeft ingewonnen omtrent een verzoek om vergoeding of omtrent het voornemen tot een toekenning daarvan uit eigen beweging zendt het een exemplaar van het advies aan de belanghebbende. Het vermeldt daarbij de termijn waarbinnen de belanghebbende zijn opvattingen omtrent het advies kenbaar kan maken.    
@@ -4014,18 +4014,18 @@ b.de artikelen 9.2.2.1 en 9.2.2.6,
 
 c. artikel 9.5.2, eerste lid,  
 
-d. de [artikelen 6 tot en met 11 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md),    van toepassing worden en die zich daardoor voor kosten ziet gesteld dan wel schade lijdt, die redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven.    
+d. de artikelen 6 tot en met 11 van de Wet bodembescherming,    van toepassing worden en die zich daardoor voor kosten ziet gesteld dan wel schade lijdt, die redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven.    
 2.   In gevallen als bedoeld in het eerste lid, beslist Onze Minister over het toekennen van de vergoeding, behoudens in gevallen als bedoeld in het eerste lid, onder *a*. In die gevallen beslissen gedeputeerde staten.   
 
 ### Artikel  15.22  
 
 1.  Voor zover de toekenning van de vergoeding niet is geschied met instemming van Onze Minister, komen de kosten daarvan ten laste van het bevoegd gezag.    
-2.   In afwijking van het eerste lid komen in gevallen als bedoeld in [artikel 4.2, eerste lid, onder a, d, f of h, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in artikel 1.2, tweede lid, onder a, en de verlening van schadevergoeding niet is geschied met instemming van gedeputeerde staten, de kosten daarvan ten laste van het bevoegd gezag.   
+2.   In afwijking van het eerste lid komen in gevallen als bedoeld in artikel 4.2, eerste lid, onder a, d, f of h, van de Wet algemene bepalingen omgevingsrecht voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in artikel 1.2, tweede lid, onder a, en de verlening van schadevergoeding niet is geschied met instemming van gedeputeerde staten, de kosten daarvan ten laste van het bevoegd gezag.   
 
 ### Artikel  15.23  
 
 1.  Bij koninklijk besluit kan, naar aanleiding van een daartoe strekkend verzoek van het bevoegd gezag, worden bepaald dat de kosten van een toegekende vergoeding alsnog geheel of gedeeltelijk ten laste van het Rijk komen.    
-2.   [Artikel 20 van de Wet op de Raad van State](../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.   
+2.   Artikel 20 van de Wet op de Raad van State is van overeenkomstige toepassing.   
 
 ### Titel  15.5  
 
@@ -4047,7 +4047,7 @@ a.artikel 9.2.2.4;
 
 b. artikel 9.5.1, derde lid, onder e en f;  
 
-c.  [artikel 15, tweede lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md).    
+c.  artikel 15, tweede lid, van de Wet bodembescherming.    
 
 ### Titel  15.8  
 
@@ -4077,23 +4077,23 @@ b. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van
 1.  De gemeenteraad kan ter bestrijding van de kosten die voor haar verbonden zijn aan het beheer van huishoudelijke afvalstoffen een heffing instellen, waaraan kunnen worden onderworpen degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, gebruik maken van een perceel ten aanzien waarvan krachtens de artikelen 10.21 en 10.22 een verplichting tot het inzamelen van huishoudelijke afvalstoffen geldt.    
 2.  Voor de toepassing van het eerste lid, wordt: 
 
-a. gebruikmaken van een perceel door de leden van een huishouden aangemerkt als gebruikmaken door het door de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar aangewezen lid van dat huishouden;  
+a. gebruikmaken van een perceel door de leden van een huishouden aangemerkt als gebruikmaken door het door de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar aangewezen lid van dat huishouden;  
 
 b. gebruikmaken door degene aan wie een deel van een perceel in gebruik is gegeven, aangemerkt als gebruikmaken door degene die dat deel in gebruik heeft gegeven, met dien verstande dat degene die het deel in gebruik heeft gegeven, bevoegd is de heffing als zodanig te verhalen op degene aan wie dat deel in gebruik is gegeven;  
 
 c. het ter beschikking stellen van een perceel voor volgtijdig gebruik aangemerkt als gebruikmaken door degene die dat perceel ter beschikking heeft gesteld, met dien verstande dat degene die het perceel ter beschikking heeft gesteld, bevoegd is de heffing als zodanig te verhalen op degene aan wie het perceel ter beschikking is gesteld.    
-3.  Onder de in het eerste lid bedoelde kosten wordt mede verstaan de omzetbelasting die ingevolge de [Wet op het BTW-compensatiefonds](../../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md) recht geeft op een bijdrage uit het fonds.   
-4.   Met betrekking tot deze heffingen zijn [de artikelen 216 tot en met 219](../../../../wet/gemeentewet/BWBR0005416/README.md) en [230 tot en met 257 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
+3.  Onder de in het eerste lid bedoelde kosten wordt mede verstaan de omzetbelasting die ingevolge de Wet op het BTW-compensatiefonds recht geeft op een bijdrage uit het fonds.   
+4.   Met betrekking tot deze heffingen zijn de artikelen 216 tot en met 219 en 230 tot en met 257 van de Gemeentewet van overeenkomstige toepassing.   
 
 ### Artikel  15.34  
 
-1.  Voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding krachtens [artikel 4.2, eerste lid, onder a, d, f of h, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of artikel 15.21, eerste lid, onder a, van deze wet, vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in artikel 1.2, tweede lid, onder a, kunnen provinciale staten ter bestrijding van die kosten een heffing instellen ter zake van het onttrekken van grondwater.    
+1.  Voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding krachtens artikel 4.2, eerste lid, onder a, d, f of h, van de Wet algemene bepalingen omgevingsrecht of artikel 15.21, eerste lid, onder a, van deze wet, vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in artikel 1.2, tweede lid, onder a, kunnen provinciale staten ter bestrijding van die kosten een heffing instellen ter zake van het onttrekken van grondwater.    
 2.  De heffing wordt geheven van houders van inrichtingen, bestemd tot het onttrekken van grondwater, daaronder niet begrepen inrichtingen welke uitsluitend dienen tot het regelen van de vrije grondwaterspiegel of van de stijghoogte van het grondwater.    
 3.  In de verordening tot instelling van de heffing kan worden bepaald dat de heffing wordt geheven van houders van inrichtingen als bedoeld in het tweede lid in één of meer beschermingsgebieden als bedoeld in hoofdstuk VI, paragraaf 2, van de Wet bodembescherming, dan wel van houders van zodanige inrichtingen in de gehele provincie.    
 4.  Als grondslag voor de heffing geldt de onttrokken hoeveelheid water.    
 5.  Tot het instellen van een heffing wordt overgegaan binnen een jaar nadat de beschikking waarbij de in het eerste lid bedoelde schadevergoeding is verleend, ingevolge artikel 20.3 in werking is getreden.    
 6.  De heffing wordt jaarlijks geheven gedurende een termijn van ten hoogste tien jaren. In de verordening tot instelling van de heffing kan worden bepaald dat de heffing op verzoek van de heffingplichtige voor de ten tijde van de indiening van het verzoek nog niet aangevangen jaren waarover de heffing wordt geheven, ineens kan worden voldaan volgens een in de verordening op te nemen regeling.    
-7.   [Hoofdstuk XV van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) is van overeenkomstige toepassing.  
+7.   Hoofdstuk XV van de Provinciewet is van overeenkomstige toepassing.  
 
 ### Titel  15.9A  
 
@@ -4119,7 +4119,7 @@ Voor de toepassing van deze titel en de daarop berustende bepalingen wordt verst
 ### Artikel  15.37  
 
 1.  Een verzoek als bedoeld in artikel 15.36 kan slechts worden ingediend door degenen die, onderscheidenlijk organisaties van degenen die wat betreft de gezamenlijke omzet van de betrokken stoffen, preparaten of produkten een naar het oordeel van Onze Minister belangrijke meerderheid vormen van degenen die deze stoffen, preparaten of produkten in Nederland invoeren of op de markt brengen. Onze Minister betrekt bij zijn oordeel met betrekking tot de vraag of degenen die, onderscheidenlijk de organisaties van degenen die het verzoek hebben ingediend, een belangrijke meerderheid vormen, in ieder geval het aantal van hen in verhouding met het totale aantal van degenen die deze stoffen, preparaten of produkten in Nederland invoeren of op de markt brengen.   
-2. Op de voorbereiding van een besluit op het verzoek is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
+2. Op de voorbereiding van een besluit op het verzoek is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
 3.   Indien een besluit niet kan worden genomen dan nadat is voldaan aan een uit een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie voortvloeiende verplichting, wordt de termijn voor het nemen van dat besluit opgeschort tot de ten aanzien van die verplichting geldende procedure is afgerond. Van de opschorting wordt mededeling gedaan aan de verzoeker.    
 4.   Indien bij het besluit een overeenkomst over een afvalbeheersbijdrage algemeen verbindend wordt verklaard, wordt de tekst van de overeenkomst in de *Staatscourant* geplaatst.  
 
@@ -4172,8 +4172,8 @@ a. de in artikel 8.49 bedoelde zorg voor de in de betrokken provincie gelegen st
 b. een voor de betrokken provincie geldende verplichting tot afdracht aan een fonds als bedoeld in artikel 15.48;   
 
 c. de door de provincie uitgevoerde inventarisatie van plaatsen waar afvalstoffen zijn gestort en waar dat storten vóór 1 september 1996 is beëindigd, en het onderzoek naar en systematische controle van aanwezigheid, aard en omvang van eventuele verontreiniging aldaar.      
-2.  De in het eerste lid bedoelde heffing kan mede betrekking hebben op de kosten die gemoeid zullen zijn met de dekking van de aansprakelijkheid, bedoeld in [artikel 176 van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).    
-3.  Met betrekking tot de heffing en invordering zijn de [artikelen 227](../../../../wet/provinciewet/BWBR0005645/README.md) tot en met [232h van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
+2.  De in het eerste lid bedoelde heffing kan mede betrekking hebben op de kosten die gemoeid zullen zijn met de dekking van de aansprakelijkheid, bedoeld in artikel 176 van Boek 6 van het Burgerlijk Wetboek.    
+3.  Met betrekking tot de heffing en invordering zijn de artikelen 227 tot en met 232h van de Provinciewet van overeenkomstige toepassing.   
 
 ### Artikel  15.45  
 
@@ -4212,7 +4212,7 @@ a. worden gemaakt in verband met de uitvoering van de in artikel 8.49 bedoelde z
 
 b. zijn verbonden aan de werkzaamheden van het fonds dat in de betrokken provincie, onderscheidenlijk provincies werkzaam is;   
 
-c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), doch slechts voor zover de in artikel 15.44 bedoelde heffing mede op deze kosten betrekking heeft.      
+c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek, doch slechts voor zover de in artikel 15.44 bedoelde heffing mede op deze kosten betrekking heeft.      
 8.  Onder de kosten, bedoeld in het zevende lid, worden niet begrepen de kosten die in verband met de in artikel 8.49 bedoelde zorg voor gesloten stortplaatsen door de betrokken provincie, onderscheidenlijk provincies worden gemaakt ten behoeve van haar bestuurlijk apparaat.   
 
 ### Artikel  15.48  
@@ -4223,8 +4223,8 @@ c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in [artikel 176,
 
 ### Artikel  15.49  
 
-1.  Ter zake van door een stortplaats veroorzaakte schade, die bekend is geworden na het tijdstip waarop een verklaring als bedoeld in artikel 8.47, derde lid, met betrekking tot die stortplaats is afgegeven, doet noch een provincie, noch het in deze titel bedoelde fonds een beroep op de aansprakelijkheid van degene die als laatste de stortplaats heeft gedreven op grond van [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).    
-2.  Indien degene die als laatste een stortplaats heeft gedreven, waarvoor een verklaring als bedoeld in artikel 8.47, derde lid, is afgegeven, aansprakelijk is voor de door die stortplaats veroorzaakte schade op grond van [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), kan degene jegens wie deze aansprakelijkheid bestaat, zijn recht op schadevergoeding geldend maken tegen het in deze titel bedoelde fonds dat in de betrokken provincie werkzaam is.   
+1.  Ter zake van door een stortplaats veroorzaakte schade, die bekend is geworden na het tijdstip waarop een verklaring als bedoeld in artikel 8.47, derde lid, met betrekking tot die stortplaats is afgegeven, doet noch een provincie, noch het in deze titel bedoelde fonds een beroep op de aansprakelijkheid van degene die als laatste de stortplaats heeft gedreven op grond van artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek.    
+2.  Indien degene die als laatste een stortplaats heeft gedreven, waarvoor een verklaring als bedoeld in artikel 8.47, derde lid, is afgegeven, aansprakelijk is voor de door die stortplaats veroorzaakte schade op grond van artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek, kan degene jegens wie deze aansprakelijkheid bestaat, zijn recht op schadevergoeding geldend maken tegen het in deze titel bedoelde fonds dat in de betrokken provincie werkzaam is.   
 
 ###Titel 15.12 
 
@@ -4232,7 +4232,7 @@ c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in [artikel 176,
 
 ### Artikel 15.50 
 
-1. Onze Minister kan uitkeringen verlenen aan personen bij wie ten gevolge van blootstelling aan asbest maligne mesothelioom is vastgesteld en die niet in aanmerking kunnen komen voor een daarmee verband houdende uitkering op grond van de [Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md).
+1. Onze Minister kan uitkeringen verlenen aan personen bij wie ten gevolge van blootstelling aan asbest maligne mesothelioom is vastgesteld en die niet in aanmerking kunnen komen voor een daarmee verband houdende uitkering op grond van de Kaderwet SZW-subsidies.
 2. Onze Minister stelt nadere regels ter uitvoering van het eerste lid.
 
 ### Titel  15.13  
@@ -4259,10 +4259,10 @@ Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt over
 
 ### Artikel  15.53  
 
-1.  Bij algemene maatregel van bestuur kan ten behoeve van de uitvoering van de artikelen 15.51 en 15.52 medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in [artikel 66 van de Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+1.  Bij algemene maatregel van bestuur kan ten behoeve van de uitvoering van de artikelen 15.51 en 15.52 medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
 2.  Indien de in het eerste lid bedoelde medewerking bestaat uit het stellen van nadere regels bij verordening, behoeft die verordening de goedkeuring van Onze Minister. Krachtens de verordening genomen besluiten behoeven, voor zover zulks bij de maatregel, bedoeld in het eerste lid, is bepaald, de goedkeuring van Onze Minister.   
-3.  Bij de maatregel, bedoeld in het eerste lid, kunnen overtredingen van de verordening, bedoeld in het tweede lid, worden aangewezen als feiten waarvoor een tuchtrechtelijke maatregel als bedoeld in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) kan worden opgelegd.   
-4.  De [artikelen 1, onderdeel b](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [2](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [3 tot en met 6](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [15 tot en met 44, eerste lid](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), en [46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 46 van die wet genoemde instemming dient te worden verkregen van Onze Minister.   
+3.  Bij de maatregel, bedoeld in het eerste lid, kunnen overtredingen van de verordening, bedoeld in het tweede lid, worden aangewezen als feiten waarvoor een tuchtrechtelijke maatregel als bedoeld in de Wet tuchtrechtspraak bedrijfsorganisatie 2004 kan worden opgelegd.   
+4.  De artikelen 1, onderdeel b, 2, 3 tot en met 6, 15 tot en met 44, eerste lid, en 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 46 van die wet genoemde instemming dient te worden verkregen van Onze Minister.   
 5.  Met het toezicht op de naleving van de verordening, bedoeld in het tweede lid, zijn belast de bij besluit van het bestuur van het op grond van het eerste lid aangewezen bedrijfslichaam aangewezen personen. Dat besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het bestuur van het bedrijfslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.  
 
 ###Hoofdstuk 16 
@@ -4330,7 +4330,7 @@ Een wijziging van de EG-richtlijn handel in broeikasgasemissierechten of van een
 ### Artikel  16.4a  
 
 1.  Het bestuur van de emissieautoriteit draagt er zorg voor dat alle besluiten en verslagen die verband houden met de hoeveelheid emissierechten en de toewijzing daarvan en met de bewaking, rapportage en verificatie van emissies onverwijld op passende wijze openbaar worden gemaakt.   
-2.  [Artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing.  
+2.  Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.  
 
 ### Paragraaf  16.2.1.2  
 
@@ -4352,12 +4352,12 @@ Het bestuur van de emissieautoriteit beslist binnen vier maanden op de aanvraag 
 
 ### Artikel  16.8  
 
-1.  Het bestuur van de emissieautoriteit zendt het monitoringsplan dat is ingediend bij de aanvraag om een vergunning krachtens artikel artikel 16.5, aan het bestuursorgaan dat voor de inrichting waarop de aanvraag betrekking heeft, bevoegd is een omgevingsvergunning te verlenen, dan wel, in geval voor de inrichting het in [artikel 40, tweede lid, van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) vervatte verbod geldt, Onze Minister van Economische Zaken.   
-2. Het bestuur van de emissieautoriteit stelt het betrokken andere bestuursorgaan, bedoeld in het eerste lid, gedurende vier weken in de gelegenheid advies uit te brengen over het monitoringsplan met het oog op de samenhang tussen dit plan en de betrokken omgevingsvergunning of vergunning, bedoeld in [artikel 40 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), dan wel de betrokken aanvraag om een omgevingsvergunning of vergunning als hiervoor bedoeld. 
+1.  Het bestuur van de emissieautoriteit zendt het monitoringsplan dat is ingediend bij de aanvraag om een vergunning krachtens artikel artikel 16.5, aan het bestuursorgaan dat voor de inrichting waarop de aanvraag betrekking heeft, bevoegd is een omgevingsvergunning te verlenen, dan wel, in geval voor de inrichting het in artikel 40, tweede lid, van de Mijnbouwwet vervatte verbod geldt, Onze Minister van Economische Zaken.   
+2. Het bestuur van de emissieautoriteit stelt het betrokken andere bestuursorgaan, bedoeld in het eerste lid, gedurende vier weken in de gelegenheid advies uit te brengen over het monitoringsplan met het oog op de samenhang tussen dit plan en de betrokken omgevingsvergunning of vergunning, bedoeld in artikel 40 van de Mijnbouwwet, dan wel de betrokken aanvraag om een omgevingsvergunning of vergunning als hiervoor bedoeld. 
 
 ### Artikel  16.9  
 
-Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag zorg voor dat geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk, hoofdstuk 8 van deze wet of de [hoofdstukken 2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). 
+Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag zorg voor dat geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk, hoofdstuk 8 van deze wet of de hoofdstukken 2 en 3 van de Wet algemene bepalingen omgevingsrecht. 
 
 ### Artikel  16.10  
 
@@ -4453,7 +4453,7 @@ Voordat het bestuur van de emissieautoriteit toepassing geeft aan artikel 70, ee
 
 1. Het bestuur van de emissieautoriteit kan een vergunning intrekken, indien:
 
-a.met betrekking tot de inrichting een krachtens [artikel 2.33 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) genomen beschikking in werking is getreden;
+a.met betrekking tot de inrichting een krachtens artikel 2.33 van de Wet algemene bepalingen omgevingsrecht genomen beschikking in werking is getreden;
 
 b.deze afdeling niet meer op de inrichting van toepassing is. 
 2.  De verplichting tot het indienen van een emissieverslag als bedoeld in artikel 67, eerste lid, van de Verordening monitoring en rapportage emissiehandel blijft, voor wat betreft het kalenderjaar waarin de beschikking tot intrekking van de vergunning van kracht is geworden, na intrekking van de vergunning op de laatste houder daarvan rusten, totdat aan die verplichting is voldaan. 
@@ -4535,10 +4535,10 @@ d. de berekening van de aantal broeikasgasemissierechten met het oog op die toew
 
 ### Artikel  16.30  
 
-1.  Op de voorbereiding van het nationale toewijzingsbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Op de voorbereiding van het nationale toewijzingsbesluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 2.  Zienswijzen kunnen naar voren worden gebracht door een ieder.   
 3.  Het nationale toewijzingsbesluit wordt vastgesteld en bekendgemaakt uiterlijk twaalf weken na de terinzagelegging van het ontwerp van het te nemen besluit en ten minste 15 maanden voor het begin van de handelsperiode.   
-4.  In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het vastgestelde nationale toewijzingsbesluit bekendgemaakt door kennisgeving van het besluit in de Staatscourant. Het nationale toewijzingsbesluit wordt tevens toegezonden aan de Europese Commissie. 
+4.  In afwijking van artikel 3:41, eerste lid, van de Algemene wet bestuursrecht wordt het vastgestelde nationale toewijzingsbesluit bekendgemaakt door kennisgeving van het besluit in de Staatscourant. Het nationale toewijzingsbesluit wordt tevens toegezonden aan de Europese Commissie. 
 
 ### Artikel  16.30a  
 
@@ -4558,7 +4558,7 @@ c. uitsluiting van het systeem van handel in broeikasgasemissierechten van inric
 
 ### Artikel  16.31  
 
-1.  Indien de Afdeling bestuursrechtspraak van de Raad van State met toepassing van artikel 20.5a een tussenuitspraak heeft gedaan, wijzigt Onze Minister het nationale toewijzingsbesluit met inachtneming van die uitspraak. Op de voorbereiding van het besluit tot wijziging van het nationale toewijzingsbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+1.  Indien de Afdeling bestuursrechtspraak van de Raad van State met toepassing van artikel 20.5a een tussenuitspraak heeft gedaan, wijzigt Onze Minister het nationale toewijzingsbesluit met inachtneming van die uitspraak. Op de voorbereiding van het besluit tot wijziging van het nationale toewijzingsbesluit is afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing.   
 2.  Het besluit tot wijziging van het nationale toewijzingsbesluit wordt genomen binnen tien weken na de dag waarop de tussenuitspraak, bedoeld in artikel 20.5a, in het openbaar is uitgesproken.   
 3.  Voor de toepassing van dit hoofdstuk vervangt een met toepassing van het eerste lid gewijzigd nationaal toewijzingsbesluit het oorspronkelijke nationale toewijzingsbesluit.  
 
@@ -4625,7 +4625,7 @@ Bij intrekking of wijziging op grond van artikel 16.34b of artikel 16.34c kan wo
 
 ### Artikel  16.34e  
 
-Op de voorbereiding van een krachtens artikel 16.34a, 16.34b of 16.34c genomen besluit, voor zover een dergelijk besluit strekt tot wijziging van het nationale toewijzingsbesluit, zijn artikel 16.30, vierde lid, van deze wet en [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing. 
+Op de voorbereiding van een krachtens artikel 16.34a, 16.34b of 16.34c genomen besluit, voor zover een dergelijk besluit strekt tot wijziging van het nationale toewijzingsbesluit, zijn artikel 16.30, vierde lid, van deze wet en afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing. 
 
 ### Subparagraaf  16.2.1.3.3  
 
@@ -4703,7 +4703,7 @@ a. vliegtuigexploitanten ten aanzien waarvan Nederland verantwoordelijk is voor 
 b. emissies van bij algemene maatregel van bestuur aangewezen broeikasgassen veroorzaakt door luchtvaartactiviteiten als bedoeld onder a.     
 2.  Nederland is ten aanzien van een vliegtuigexploitant administrerende lidstaat als bedoeld in het eerste lid, onder a: 
 
-a. indien de vliegtuigexploitant beschikt over een geldige vergunning als bedoeld in [artikel 16 van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) die valt onder verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293);  
+a. indien de vliegtuigexploitant beschikt over een geldige vergunning als bedoeld in artikel 16 van de Luchtvaartwet die valt onder verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293);  
 
 b. in gevallen waarin de vliegtuigexploitant niet beschikt over een geldige, door een lidstaat overeenkomstig de verordening, genoemd onder a, verleende exploitatievergunning: indien aan Nederland het grootste deel van de geschatte luchtvaartemissies van door de betrokken vliegtuigexploitant in het basisjaar uitgevoerde vluchten kan worden toegeschreven als bedoeld in artikel 18bis, eerste lid, onder b, van de EG-richtlijn handel in broeikasgasemissierechten.     
 3.  Voor de toepasselijkheid van het tweede lid, aanhef en onder b, wordt uitgegaan van de meest actuele uitgave van de door de Commissie van de Europese Gemeenschappen op grond van artikel 18bis, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten gepubliceerde lijst.   
@@ -4895,7 +4895,7 @@ b.bijschrijving op een rekening in een register als bedoeld onder a, die op naam
 
 1. Nietigheid of vernietiging van de overeenkomst die tot de overdracht heeft geleid, of onbevoegdheid van degene die overdraagt, heeft, nadat de overdracht is voltooid, geen gevolgen voor de geldigheid van de overdracht.  
 2.  Elk voorbehoud met betrekking tot de overdracht is uitgewerkt op het moment dat de overdracht tot stand is gekomen.   
-3.  In afwijking van [artikel 228 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) kan op een broeikasgasemissierecht geen recht van pand worden gevestigd.   
+3.  In afwijking van artikel 228 van Boek 3 van het Burgerlijk Wetboek kan op een broeikasgasemissierecht geen recht van pand worden gevestigd.   
 4.  Op een broeikasgasemissierecht kan geen recht van vruchtgebruik worden gevestigd.   
 5.  Een broeikasgasemissierecht is niet vatbaar voor beslag.  
 
@@ -4963,7 +4963,7 @@ d. is voldaan aan de nadere regels, bedoeld in het vierde lid.
 6. Een verleende instemming omvat mede de machtiging van de betrokken projectdeelnemer, voorzover een dergelijke machtiging op grond van de artikelen 6, derde lid, en 12, negende lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is vereist. Indien de eerste volzin van toepassing is, wordt in de beslissing op het verzoek aangegeven dat de instemming mede de machtiging omvat. 
 7.  Een verleende instemming kan worden ingetrokken, indien niet meer wordt voldaan aan de eisen, gesteld in het derde lid, onder a of b, of, voor zover van toepassing, onder c, of de nadere regels, bedoeld in het vierde lid.  
 8. Bij regeling van Onze Minister kan worden bepaald dat voor het verlenen van instemming een vergoeding is verschuldigd. In dat geval worden bij die regeling tevens nadere regels gesteld met betrekking tot de hoogte van de vergoeding en de wijze waarop deze moet worden betaald. 
-9. Onze Minister stelt bij hem berustende informatie over projectactiviteiten waarvoor hij instemming heeft verleend, voor het publiek beschikbaar. [Artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing.
+9. Onze Minister stelt bij hem berustende informatie over projectactiviteiten waarvoor hij instemming heeft verleend, voor het publiek beschikbaar. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.
 
 ###Titel 16.3 
 
@@ -5066,7 +5066,7 @@ b. herhaling van het gemelde voorval te voorkomen of
 c. ervoor te zorgen dat wordt voldaan aan de voorschriften verbonden aan een omgevingsvergunning voor de inrichting of aan de bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 8.40 voor de inrichting geldende regels.     
 2.  Het bevoegde bestuursorgaan ziet erop toe dat de nodige gegevens worden verzameld om het voorval te analyseren en de oorzaken ervan te achterhalen.   
 3.  Om herhaling te voorkomen wijzigt het bevoegde bestuursorgaan zo nodig de omgevingsvergunning, doet het daarop gerichte aanbevelingen of, indien voor de inrichting regels gelden krachtens artikel 8.40, stelt het voorschriften in een beschikking. Van laatstbedoelde beschikking wordt mededeling gedaan door kennisgeving in één of meer dag-, nieuws- of huis-aan-huisbladen.   
-4.  Met betrekking tot een beschikking tot wijziging van een omgevingsvergunning als bedoeld in het derde lid is [artikel 3.15, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van overeenkomstige toepassing.  
+4.  Met betrekking tot een beschikking tot wijziging van een omgevingsvergunning als bedoeld in het derde lid is artikel 3.15, derde lid, van de Wet algemene bepalingen omgevingsrecht van overeenkomstige toepassing.  
 
 ### Artikel  17.4  
 
@@ -5083,7 +5083,7 @@ d. een verbod die afvalstoffen langer onder zich te houden dan gedurende een bij
 e. een verplichting die afvalstoffen af te geven aan een persoon behorende tot een bij de beschikking aangewezen categorie, of te brengen naar een daartoe aangewezen plaats.     
 2.  Een verplichting of verbod als bedoeld in het eerste lid, wordt opgelegd: 
 
-a. voor zover de verplichting of het verbod betrekking heeft op een inrichting: door het bestuursorgaan dat ingevolge het bepaalde bij of krachtens [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) het bevoegd gezag is voor de omgevingsvergunning voor de inrichting, of, indien voor de inrichting regels gelden krachtens artikel 8.40, door het bestuursorgaan waaraan een melding als bedoeld in artikel 8.41, eerste lid, met betrekking tot die inrichting zou moeten worden gedaan of, in andere gevallen, door burgemeester en wethouders;  
+a. voor zover de verplichting of het verbod betrekking heeft op een inrichting: door het bestuursorgaan dat ingevolge het bepaalde bij of krachtens artikel 2.4 van de Wet algemene bepalingen omgevingsrecht het bevoegd gezag is voor de omgevingsvergunning voor de inrichting, of, indien voor de inrichting regels gelden krachtens artikel 8.40, door het bestuursorgaan waaraan een melding als bedoeld in artikel 8.41, eerste lid, met betrekking tot die inrichting zou moeten worden gedaan of, in andere gevallen, door burgemeester en wethouders;  
 
 b. in andere gevallen: door gedeputeerde staten.     
 3.  Het bestuursorgaan, bedoeld in het tweede lid, geeft bij zijn beschikking aan binnen welke termijn de verplichting moet worden uitgevoerd en kan aangeven op welke wijze de verplichting moet worden uitgevoerd.  
@@ -5107,7 +5107,7 @@ Indien de situatie, bedoeld in artikel 17.5a, eerste lid, betrekking heeft op ee
 2. Degene die de afvalvoorziening drijft, volgt de in het eerste lid bedoelde instructies op en draagt de kosten voor de getroffen preventieve of herstelmaatregelen. 
 3. Het bevoegd gezag kan zelf elke nodige preventieve of herstelmaatregel treffen of de uitvoering daarvan opdragen aan derden. 
 4. Een beslissing als bedoeld in het derde lid wordt op schrift gesteld. De schriftelijke beslissing is een beschikking. 
-5. In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteiten verricht. [Artikel 5:26 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+5. In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteiten verricht. Artikel 5:26 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 6. Artikel 17.4 is van overeenkomstige toepassing.
 
 ###Artikel 17.5d 
@@ -5182,7 +5182,7 @@ b. milieuschade aan beschermde soorten of natuurlijke habitats bestaande uit de 
 
 1°. in overeenstemming met bepalingen ter uitvoering van artikel 6, derde en vierde lid, of artikel 16 van richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna, artikel 9 van richtlijn nr. 2009/147/EG van het Europees Parlement en de Raad van de Europese Unie van 30 november 2009 inzake het behoud van de vogelstand, of,  
 
-2°. in het geval van niet onder het Gemeenschapsrecht vallende soorten of habitats, in overeenstemming met het bepaalde bij of krachtens de [artikelen 3](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [4](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [5 van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) of de [artikelen 10](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en [10a van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);    
+2°. in het geval van niet onder het Gemeenschapsrecht vallende soorten of habitats, in overeenstemming met het bepaalde bij of krachtens de artikelen 3, 4 en 5 van de Flora- en faunawet of de artikelen 10 en 10a van de Natuurbeschermingswet 1998;    
 
 c. milieuschade of een onmiddellijke dreiging daarvan veroorzaakt door een emissie of gebeurtenis: 
 
@@ -5198,11 +5198,11 @@ c. milieuschade of een onmiddellijke dreiging daarvan veroorzaakt door een emiss
 2.  In afwijking van het eerste lid is het bevoegd gezag, indien de milieuschade of een onmiddellijke dreiging daarvan geheel of in hoofdzaak betrekking heeft op wateren, het bestuursorgaan waarbij de betrokken wateren in beheer zijn.   
 3.  Indien de activiteit waardoor de milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, wordt verricht buiten een inrichting is het bevoegd gezag voor zover de milieuschade of een onmiddellijke dreiging daarvan betrekking heeft op: 
 
-a. de bodem: het bestuursorgaan, bedoeld in [artikel 95, derde en vierde lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+a. de bodem: het bestuursorgaan, bedoeld in artikel 95, derde en vierde lid, van de Wet bodembescherming;  
 
-b. beschermde soorten: het bestuursorgaan, bedoeld in [artikel 112 van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+b. beschermde soorten: het bestuursorgaan, bedoeld in artikel 112 van de Flora- en faunawet;  
 
-c. natuurlijke habitats: het bestuursorgaan, bedoeld in [artikel 16](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), [19d](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of [57 van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);  
+c. natuurlijke habitats: het bestuursorgaan, bedoeld in artikel 16, 19d of 57 van de Natuurbeschermingswet 1998;  
 
 d. wateren: het bestuursorgaan, waarbij de betrokken wateren in beheer zijn.     
 4.  In afwijking van het eerste tot en met het derde lid is Onze Minister het bevoegd gezag, indien de activiteit waardoor de milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, betrekking heeft op genetisch gemodificeerde organismen.   
@@ -5257,7 +5257,7 @@ De rechthebbende ten aanzien van de plaats waar de activiteit wordt verricht of 
 ### Artikel  17.15  
 
 1.  Belanghebbenden, alsmede de bestuursorganen of overheidsdiensten, bedoeld in artikel 17.2, derde lid, kunnen in geval van milieuschade of een onmiddellijke dreiging daarvan het bevoegd gezag verzoeken een beschikking tot het treffen van maatregelen als bedoeld in artikel 17.10, derde lid, artikel 17.12, vierde lid, of artikel 17.13, vijfde lid, te geven.   
-2.  Onze Minister kan, indien dat in het belang van de bescherming van het milieu geboden is en indien ter zake van een geval van milieuschade of een onmiddellijke dreiging daarvan het dagelijks bestuur van een waterschap het bevoegd gezag is, vorderen dat dit bestuursorgaan binnen een door hem te stellen termijn toepassing geeft aan artikel 17.12, vierde lid, artikel 17.13, vijfde lid, of artikel 17.14, eerste, tweede en derde lid. De [artikelen 121 tot en met 121f van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) zijn van overeenkomstige toepassing.  
+2.  Onze Minister kan, indien dat in het belang van de bescherming van het milieu geboden is en indien ter zake van een geval van milieuschade of een onmiddellijke dreiging daarvan het dagelijks bestuur van een waterschap het bevoegd gezag is, vorderen dat dit bestuursorgaan binnen een door hem te stellen termijn toepassing geeft aan artikel 17.12, vierde lid, artikel 17.13, vijfde lid, of artikel 17.14, eerste, tweede en derde lid. De artikelen 121 tot en met 121f van de Provinciewet zijn van overeenkomstige toepassing.  
 
 ### Artikel  17.16  
 
@@ -5316,8 +5316,8 @@ d.het verwijderen van personen, dieren, planten of goederen uit bepaalde gebiede
 
 ### Artikel  18.1a  
 
-1.  De [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de [artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens deze wet.   
-2.  Artikel 18.18 van deze wet en de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de [artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens: 
+1.  De artikelen 5.3 tot en met 5.16 en de artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht zijn van toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens deze wet.   
+2.  Artikel 18.18 van deze wet en de artikelen 5.3 tot en met 5.16 en de artikelen 5.18 tot en met 5.26 van de Wet algemene bepalingen omgevingsrecht zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens: 
 
 a. de EG-verordening overbrenging van afvalstoffen;  
 
@@ -5326,13 +5326,13 @@ b. de EG-verordening PRTR;
 c. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;  
 
 d. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.     
-3.  In afwijking van het eerste lid is [artikel 5.15, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) niet van toepassing voor zover het betreft de handhaving van het bij of krachtens hoofdstuk 16 bepaalde.   
-3.  Dit hoofdstuk is niet van toepassing op het bij verordening als bedoeld in artikel 15.53 bepaalde, voor zover daarvoor een tuchtrechtelijke maatregel als bedoeld in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) kan worden opgelegd.  
-4.  Tot de bevoegdheid tot toepassing van bestuursdwang krachtens [artikel 5.15 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.  
+3.  In afwijking van het eerste lid is artikel 5.15, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht niet van toepassing voor zover het betreft de handhaving van het bij of krachtens hoofdstuk 16 bepaalde.   
+3.  Dit hoofdstuk is niet van toepassing op het bij verordening als bedoeld in artikel 15.53 bepaalde, voor zover daarvoor een tuchtrechtelijke maatregel als bedoeld in de Wet tuchtrechtspraak bedrijfsorganisatie 2004 kan worden opgelegd.  
+4.  Tot de bevoegdheid tot toepassing van bestuursdwang krachtens artikel 5.15 van de Wet algemene bepalingen omgevingsrecht behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.  
 
 ### Artikel  18.1b  
 
-Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet, de EG-verordening PRTR en de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften. 
+Het in artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet, de EG-verordening PRTR en de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften. 
 
 ### Artikel  18.2  
 
@@ -5351,12 +5351,12 @@ a. zorg te dragen voor de bestuursrechtelijke handhaving van de voorschriften di
 b. gegevens die met het oog op de uitoefening van de taak als bedoeld onder a van belang zijn te verzamelen en te registreren;  
 
 c. klachten die betrekking hebben op de naleving van het met betrekking tot de inrichting bij of krachtens de betrokken wetten bepaalde, te behandelen.     
-2.  [Artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is van overeenkomstige toepassing met betrekking tot een beschikking als bedoeld in dat lid die met betrekking tot een inrichting is gegeven door het krachtens het eerste lid bevoegde bestuursorgaan.  
+2.  Artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht is van overeenkomstige toepassing met betrekking tot een beschikking als bedoeld in dat lid die met betrekking tot een inrichting is gegeven door het krachtens het eerste lid bevoegde bestuursorgaan.  
 
 ### Artikel  18.2a  
 
-1.  Voor zover [artikel 5.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) niet van toepassing is, hebben Onze betrokken Minister, gedeputeerde staten, burgemeester en wethouders en het bestuursorgaan dat tot verlening van vergunningen als bedoeld in [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) bevoegd is tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de artikelen 1.1a en 10.1.   
-2.  Gedeputeerde staten, burgemeester en wethouders en het bestuursorgaan dat tot verlening van vergunningen als bedoeld in [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) bevoegd is hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 10.2 en 10.54.  
+1.  Voor zover artikel 5.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht niet van toepassing is, hebben Onze betrokken Minister, gedeputeerde staten, burgemeester en wethouders en het bestuursorgaan dat tot verlening van vergunningen als bedoeld in artikel 6.2 van de Waterwet bevoegd is tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de artikelen 1.1a en 10.1.   
+2.  Gedeputeerde staten, burgemeester en wethouders en het bestuursorgaan dat tot verlening van vergunningen als bedoeld in artikel 6.2 van de Waterwet bevoegd is hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 10.2 en 10.54.  
 3. Onverminderd artikel 18.2, eerste lid, onder a, heeft Onze betrokken Minister tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 11A.2 en 11A.3.
 
 ### Artikel  18.2b  
@@ -5379,7 +5379,7 @@ c. verhandelen, bemiddelen of vervoeren als bedoeld in artikel 10.55.
 
 ### Artikel  18.2d  
 
-1.  Voor zover [artikel 5.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) niet van toepassing is, hebben burgemeester en wethouders tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de verplichtingen, gesteld bij of krachtens: 
+1.  Voor zover artikel 5.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht niet van toepassing is, hebben burgemeester en wethouders tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de verplichtingen, gesteld bij of krachtens: 
 
 a. de afvalstoffenverordening;  
 
@@ -5419,7 +5419,7 @@ Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhavi
 
 1.  Met het toezicht op de naleving van het bij of krachtens hoofdstuk 16 bepaalde, alsmede de naleving van de in artikel 18.5 genoemde bepalingen van de Verordening monitoring en rapportage emissiehandel en van de in artikel 18.6 genoemde bepalingen van de Verordening verificatie en accreditatie emissiehandel, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Met het onderzoek met betrekking tot overtredingen als bedoeld in artikel 18.16a, eerste en tweede lid, zijn belast de krachtens het eerste lid aangewezen ambtenaren.   
-3.  Ten dienste van het onderzoek beschikken zij over de bevoegdheden, bedoeld in de [artikelen 5:15 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3.  Ten dienste van het onderzoek beschikken zij over de bevoegdheden, bedoeld in de artikelen 5:15 tot en met 5:20 van de Algemene wet bestuursrecht.  
 
 ### Artikel  18.5  
 
@@ -5441,12 +5441,12 @@ In geval van overtreding van het bepaalde bij of krachtens de artikelen 9.2.2.1,
 
 ### Artikel  18.8  
 
-Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens [artikel 5.15 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.  
+Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens artikel 5.15 van de Wet algemene bepalingen omgevingsrecht behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.  
 
 ### Artikel  18.16a  
 
 1. In geval van overtreding van het bepaalde bij of krachtens de artikel 16.5, artikel 16.12, eerste, tweede en derde lid, artikel 16.12, tweede lid, aanhef en onder a, in verbinding met artikel 16.39h, artikel 16.12, eerste, tweede en derde lid, in verbinding met artikel 16.49, tweede lid, 16.13, 16.13 in verbinding met artikel 16.39h, 16.13a, 16.14, artikel 16.19, artikel 16.20c, tweede lid, 16.21, 16.21 in verbinding met artikel 16.39h, artikel 16.29, de onderdelen b en c, artikel 16.34, of van de artikelen 18.5 en 18.6 of van artikel 18.18, voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen. 
-2.  Het bestuur van de emissieautoriteit legt een bestuurlijke boete op in geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid. [Artikel 5:41 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+2.  Het bestuur van de emissieautoriteit legt een bestuurlijke boete op in geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid. Artikel 5:41 van de Algemene wet bestuursrecht is niet van toepassing.   
 3.  In geval van overtreding van het bepaalde bij of krachtens artikel 16.21 of van artikel 18.18, voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, kunnen een bestuurlijke boete en een last onder dwangsom tezamen worden opgelegd.   
 4. In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, wordt een bestuurlijke boete als bedoeld in het tweede lid, onderscheidenlijk kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten dat degene die de betrokken inrichting drijft, met betrekking tot een kalenderjaar overeenkomstig artikel 16.39 dient in te leveren. In geval van overtreding van het bepaalde bij artikel 16.39t, eerste lid, wordt een bestuurlijke boete als bedoeld in het tweede lid en kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten dat de vliegtuigexploitant met betrekking tot een kalenderjaar overeenkomstig artikel 16.39w dient in te leveren. 
 5.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, neemt het bestuur van de emissieautoriteit, naast het opleggen van een bestuurlijke boete, de overtreder op in het overzicht, bedoeld in artikel 18.16p, eerste lid.  
@@ -5458,20 +5458,20 @@ Indien de gedraging tevens een strafbaar feit is en de ernst van de overtreding 
 ### Artikel  18.16e  
 
 1.  Een bestuurlijke boete als bedoeld in artikel 18.16a, eerste lid, bedraagt ten hoogste € 450 000 per overtreding of, indien de omzet van de betrokken onderneming in het boekjaar voorafgaand aan het jaar waarin de beschikking tot oplegging van de bestuurlijke boete is gegeven, meer dan € 4 500 000 bedraagt, ten hoogste 10% van die omzet.   
-2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, bedraagt een bestuurlijke boete als bedoeld in artikel 18.16a, tweede lid, het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton emissie van een kooldioxide-equivalent, die meer is veroorzaakt dan overeenkomt met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat overeenkomstig artikel 16.37, eerste lid, onderscheidenlijk artikel 16.39t, eerste lid, is ingeleverd. [Artikel 5:46, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, bedraagt een bestuurlijke boete als bedoeld in artikel 18.16a, tweede lid, het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton emissie van een kooldioxide-equivalent, die meer is veroorzaakt dan overeenkomt met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat overeenkomstig artikel 16.37, eerste lid, onderscheidenlijk artikel 16.39t, eerste lid, is ingeleverd. Artikel 5:46, derde lid, van de Algemene wet bestuursrecht is niet van toepassing.   
 3.  In afwijking van het tweede lid bedraagt de bestuurlijke boete, bedoeld in dat lid, met betrekking tot het kalenderjaar 2013 en daarop volgende kalenderjaren per ton emissie van een kooldioxide-equivalent het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag, jaarlijks verhoogd overeenkomstig de Europese consumentenprijsindex.   
 4.  Artikel 16.4 is van overeenkomstige toepassing.   
-5.  De berekening van de omzet, bedoeld in het eerste lid, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.  
+5.  De berekening van de omzet, bedoeld in het eerste lid, geschiedt op de voet van het bepaalde in artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek voor de netto-omzet.  
 
 ### Artikel  18.16g  
 
-1.  [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing bij overtreding van het bepaalde bij of krachtens de in artikel 18.16a, eerste en tweede lid, eerste volzin, genoemde artikelen.   
-2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, vermeldt het rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), naast de in het [tweede lid van dat artikel](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in artikel 18.16p, eerste lid.   
+1.  Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing bij overtreding van het bepaalde bij of krachtens de in artikel 18.16a, eerste en tweede lid, eerste volzin, genoemde artikelen.   
+2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, vermeldt het rapport, bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht, naast de in het tweede lid van dat artikel bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in artikel 18.16p, eerste lid.   
 3.  Indien de gedraging aan het openbaar ministerie wordt voorgelegd op grond van artikel 18.16d, wordt een afschrift van het rapport aan het openbaar ministerie toegezonden.  
 
 ### Artikel  18.16i  
 
-In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, hebben de [artikelen 5:49](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:50](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:51](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:53, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in artikel 18.16p, eerste lid.
+In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, hebben de artikelen 5:49, 5:50, 5:51 en 5:53, derde lid, van de Algemene wet bestuursrecht mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in artikel 18.16p, eerste lid.
 
 ### Artikel  18.16k  
 
@@ -5479,7 +5479,7 @@ In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of arti
 
 ### Artikel  18.16l  
 
-In afwijking van [artikel 5:45, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van artikel 18.16a, eerste en tweede lid, tien jaren nadat de overtreding heeft plaatsgevonden.
+In afwijking van artikel 5:45, eerste lid, van de Algemene wet bestuursrecht vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van artikel 18.16a, eerste en tweede lid, tien jaren nadat de overtreding heeft plaatsgevonden.
 
 ### Artikel  18.16p  
 
@@ -5488,8 +5488,8 @@ In afwijking van [artikel 5:45, eerste lid, van de Algemene wet bestuursrecht](.
 
 ### Artikel  18.16q  
 
-1.  Het bestuur van de emissieautoriteit kan degene die jegens de in artikel 18.4, eerste of tweede lid, bedoelde personen in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 4 500.   
-2.  [Artikel 184 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is niet van toepassing op de in het eerste lid bedoelde overtreding.  
+1.  Het bestuur van de emissieautoriteit kan degene die jegens de in artikel 18.4, eerste of tweede lid, bedoelde personen in strijd handelt met artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, een bestuurlijke boete opleggen van ten hoogste € 4 500.   
+2.  Artikel 184 van het Wetboek van Strafrecht is niet van toepassing op de in het eerste lid bedoelde overtreding.  
 
 ### Artikel  18.16r  
 
@@ -5540,26 +5540,26 @@ d.verslagen over de toepassing van de milieuwetgeving;
 e.kosten-baten- en andere economische analyses en veronderstellingen die worden gebruikt in het kader van de onder c bedoelde maatregelen en activiteiten;
 
 f.de toestand van de gezondheid en veiligheid van de mens, met inbegrip van de verontreiniging van de voedselketen, indien van toepassing, de levensomstandigheden van de mens, waardevolle cultuurgebieden en bouwwerken, voorzover zij worden of kunnen worden aangetast door de onder a bedoelde toestand van elementen van het milieu of, via deze elementen, door de onder b en c bedoelde factoren, maatregelen of activiteiten. 
-2.  [Artikel 1, aanhef en onder a, van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing.  
+2.  Artikel 1, aanhef en onder a, van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.  
 
 ### Artikel  19.1b  
 
-1. Na het einde van de termijn waarbinnen beroep kan worden ingesteld tegen een beschikking als bedoeld in artikel 13.1 op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, wordt, zolang zij niet is tenietgegaan, door het bevoegd gezag aan een ieder desgevraagd kosteloos inzage gegeven in en tegen vergoeding van ten hoogste de kosten een exemplaar verstrekt van de beschikking en voor zover mogelijk van de stukken die in verband met de totstandkoming daarvan overeenkomstig deze wet dan wel [afdeling 3.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [artikel 3:44 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter inzage dienden te worden gelegd.   
-2.  Nadat een beschikking krachtens de in artikel 13.1, tweede lid, genoemde wetten tot verlening of wijziging van een vergunning, die betrekking heeft op een IPPC-installatie als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), onherroepelijk is geworden, stelt het bevoegd gezag in afwijking van het eerste lid de tekst daarvan voor eenieder elektronisch beschikbaar. 
+1. Na het einde van de termijn waarbinnen beroep kan worden ingesteld tegen een beschikking als bedoeld in artikel 13.1 op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, wordt, zolang zij niet is tenietgegaan, door het bevoegd gezag aan een ieder desgevraagd kosteloos inzage gegeven in en tegen vergoeding van ten hoogste de kosten een exemplaar verstrekt van de beschikking en voor zover mogelijk van de stukken die in verband met de totstandkoming daarvan overeenkomstig deze wet dan wel afdeling 3.4 of artikel 3:44 van de Algemene wet bestuursrecht ter inzage dienden te worden gelegd.   
+2.  Nadat een beschikking krachtens de in artikel 13.1, tweede lid, genoemde wetten tot verlening of wijziging van een vergunning, die betrekking heeft op een IPPC-installatie als bedoeld in artikel 1.1 van de Wet algemene bepalingen omgevingsrecht, onherroepelijk is geworden, stelt het bevoegd gezag in afwijking van het eerste lid de tekst daarvan voor eenieder elektronisch beschikbaar. 
 
 ### Artikel  19.1c  
 
-Onverminderd [artikel 8 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) verstrekt een bestuursorgaan uit eigen beweging informatie over de openbare verantwoordelijkheden en functies die het heeft alsmede de openbare diensten die het verleent met betrekking tot het milieu. 
+Onverminderd artikel 8 van de Wet openbaarheid van bestuur verstrekt een bestuursorgaan uit eigen beweging informatie over de openbare verantwoordelijkheden en functies die het heeft alsmede de openbare diensten die het verleent met betrekking tot het milieu. 
 
 ### Artikel  19.2  
 
-1.  In het geval van een gebeurtenis waardoor een onmiddellijke bedreiging van het leven of de gezondheid van personen, van het milieu of van grote materiële belangen is ontstaan, verstrekt de burgemeester voor zover deze informatie niet reeds ingevolge [artikel 7 van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) of een ander wettelijk voorschrift moet worden verstrekt, aan de personen die getroffen kunnen worden, terstond op passende wijze alle informatie over de maatregelen die zijn getroffen ter voorkoming en beperking van de bedreiging en de daaruit voortvloeiende nadelige gevolgen en de daartoe door die personen te volgen gedragslijn. In geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) wordt de informatie verstrekt door de voorzitter van de veiligheidsregio.   
+1.  In het geval van een gebeurtenis waardoor een onmiddellijke bedreiging van het leven of de gezondheid van personen, van het milieu of van grote materiële belangen is ontstaan, verstrekt de burgemeester voor zover deze informatie niet reeds ingevolge artikel 7 van de Wet veiligheidsregio’s of een ander wettelijk voorschrift moet worden verstrekt, aan de personen die getroffen kunnen worden, terstond op passende wijze alle informatie over de maatregelen die zijn getroffen ter voorkoming en beperking van de bedreiging en de daaruit voortvloeiende nadelige gevolgen en de daartoe door die personen te volgen gedragslijn. In geval van een situatie als bedoeld in artikel 39 van de Wet veiligheidsregio’s wordt de informatie verstrekt door de voorzitter van de veiligheidsregio.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de gevallen waarin ingevolge het eerste lid informatie wordt verstrekt, over de inhoud van de te verstrekken informatie en over de wijze waarop de informatie wordt verstrekt.  
 
 ###Artikel 19.3 
 
-1. Indien in een stuk ten aanzien waarvan bij of krachtens deze wet of door [afdeling 3.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [3.6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) openbaarmaking wordt voorgeschreven, milieu-informatie voorkomt of uit zodanig stuk milieu-informatie kan worden afgeleid, waarvan de geheimhouding op grond van [artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend schriftelijk verzoek van de belanghebbende toestaan dat deze ten behoeve van de openbaarmaking een, door het bevoegd gezag goedgekeurde, tweede tekst overlegt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid. Het bevoegd gezag maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Bij een algemene maatregel van bestuur krachtens deze wet kunnen ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie gegevens worden aangewezen waarvoor de in de eerste volzin bedoelde bevoegdheid eveneens geldt.
-2. Indien in een stuk ten aanzien waarvan bij of krachtens deze wet of door [afdeling 3.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [3.6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) openbaarmaking wordt voorgeschreven, milieu-informatie voorkomt of uit zodanig stuk milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van [artikel 10, eerste lid, aanhef en onder b](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), onderscheidenlijk [artikel 10, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), wordt op aanwijzing van Onze betrokken Minister ten behoeve van de openbaarmaking een tweede tekst overgelegd, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.
+1. Indien in een stuk ten aanzien waarvan bij of krachtens deze wet of door afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht openbaarmaking wordt voorgeschreven, milieu-informatie voorkomt of uit zodanig stuk milieu-informatie kan worden afgeleid, waarvan de geheimhouding op grond van artikel 10 van de Wet openbaarheid van bestuur gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend schriftelijk verzoek van de belanghebbende toestaan dat deze ten behoeve van de openbaarmaking een, door het bevoegd gezag goedgekeurde, tweede tekst overlegt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid. Het bevoegd gezag maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Bij een algemene maatregel van bestuur krachtens deze wet kunnen ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie gegevens worden aangewezen waarvoor de in de eerste volzin bedoelde bevoegdheid eveneens geldt.
+2. Indien in een stuk ten aanzien waarvan bij of krachtens deze wet of door afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht openbaarmaking wordt voorgeschreven, milieu-informatie voorkomt of uit zodanig stuk milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van artikel 10, eerste lid, aanhef en onder b, onderscheidenlijk artikel 10, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur, wordt op aanwijzing van Onze betrokken Minister ten behoeve van de openbaarmaking een tweede tekst overgelegd, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.
 
 ### Artikel  19.4  
 
@@ -5570,8 +5570,8 @@ Onverminderd [artikel 8 van de Wet openbaarheid van bestuur](../../../../wet/wet
 ### Artikel  19.5  
 
 1.  Op een verzoek tot geheimhouding beslist het bevoegd gezag binnen vier weken na ontvangst. Van de beslissing wordt mededeling gedaan aan de betrokken bestuursorganen. Indien het verzoek in het kader van de toepassing van hoofdstuk 7 is gedaan en betrekking heeft op een plan onderscheidenlijk besluit waarover de Commissie voor de milieueffectrapportage overeenkomstig artikel 7.12 onderscheidenlijk artikel 7.32, vijfde lid, in samenhang met artikel 7.12, in de gelegenheid wordt gesteld advies uit te brengen, wordt van de beslissing tevens mededeling gedaan aan die commissie.   
-2.   Indien een verzoek tot geheimhouding in het kader van de toepassing van [afdeling 3.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [3.6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) indien het een besluit op aanvraag betreft of van paragraaf 7.2 of 7.8 onderscheidenlijk 7.9 is gedaan, schort het bevoegd gezag de verdere behandeling van de aanvraag op totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in artikel 19.4, eerste lid, bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden. De krachtens de [artikelen 3:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [artikel 31 van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md), [artikel 3.9 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en artikel 7.21, vijfde lid, en 13.8 geldende termijnen lopen niet zolang de behandeling is opgeschort.    
-3.   Indien een verzoek tot geheimhouding in het kader van de toepassing van [afdeling 3.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [3.6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) indien het geen besluit op aanvraag betreft of van paragraaf 7.10 is gedaan, laat het bevoegd gezag de openbaarmaking van het stuk waarop het verzoek betrekking heeft, achterwege totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in artikel 19.4, eerste lid, bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden.   
+2.   Indien een verzoek tot geheimhouding in het kader van de toepassing van afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht indien het een besluit op aanvraag betreft of van paragraaf 7.2 of 7.8 onderscheidenlijk 7.9 is gedaan, schort het bevoegd gezag de verdere behandeling van de aanvraag op totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in artikel 19.4, eerste lid, bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden. De krachtens de artikelen 3:18 en 4:5 van de Algemene wet bestuursrecht, artikel 31 van de Dienstenwet, artikel 3.9 van de Wet algemene bepalingen omgevingsrecht en artikel 7.21, vijfde lid, en 13.8 geldende termijnen lopen niet zolang de behandeling is opgeschort.    
+3.   Indien een verzoek tot geheimhouding in het kader van de toepassing van afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht indien het geen besluit op aanvraag betreft of van paragraaf 7.10 is gedaan, laat het bevoegd gezag de openbaarmaking van het stuk waarop het verzoek betrekking heeft, achterwege totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in artikel 19.4, eerste lid, bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden.   
 
 ### Artikel  19.6a  
 
@@ -5579,18 +5579,18 @@ De artikelen 19.3 tot en met 19.5 zijn van overeenkomstige toepassing op gegeven
 
 ### Artikel  19.6b  
 
-Indien bij de voorbereiding van een besluit dat is aangewezen krachtens artikel 7.2 ter zake van een activiteit bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt, dan wel van een besluit inzake een omgevingsvergunning voor een inrichting, ingevolge een wettelijk voorschrift of een besluit van het bevoegd gezag informatie openbaar wordt gemaakt, en dat wettelijk voorschrift of besluit zich op andere gronden dan voorzien in [artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) tegen de openbaarmaking verzet, is [artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) van overeenkomstige toepassing en blijft het wettelijk voorschrift of besluit dat zich tegen de openbaarmaking verzet, buiten toepassing. Indien milieu-informatie niet ter inzage wordt gelegd, wordt daarvan mededeling gedaan. 
+Indien bij de voorbereiding van een besluit dat is aangewezen krachtens artikel 7.2 ter zake van een activiteit bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt, dan wel van een besluit inzake een omgevingsvergunning voor een inrichting, ingevolge een wettelijk voorschrift of een besluit van het bevoegd gezag informatie openbaar wordt gemaakt, en dat wettelijk voorschrift of besluit zich op andere gronden dan voorzien in artikel 10 van de Wet openbaarheid van bestuur tegen de openbaarmaking verzet, is artikel 10 van de Wet openbaarheid van bestuur van overeenkomstige toepassing en blijft het wettelijk voorschrift of besluit dat zich tegen de openbaarmaking verzet, buiten toepassing. Indien milieu-informatie niet ter inzage wordt gelegd, wordt daarvan mededeling gedaan. 
 
 ### Artikel  19.7  
 
-1.  Indien in een emissieverslag als bedoeld in artikel 16.1 milieu-informatie voorkomt of milieu-informatie daaruit kan worden afgeleid, waarvan de geheimhouding op grond van [artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) gerechtvaardigd is, kan het bestuur van de emissieautoriteit op een daartoe strekkend verzoek van degene die de inrichting drijft, toestaan dat een door het bestuur van de emissieautoriteit goedgekeurde, tweede tekst openbaar wordt gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit die informatie niet kan worden afgeleid. Het bestuur van de emissieautoriteit maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Het in de eerste volzin bedoelde verzoek wordt gedaan uiterlijk drie maanden na afloop van het verslagjaar. Bij het verzoek wordt een tweede tekst overgelegd.    
-2.  Indien in een emissieverslag als bedoeld in artikel 16.1 milieu-informatie voorkomt of daaruit milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van [artikel 10, eerste lid, aanhef en onder b](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), onderscheidenlijk [artikel 10, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), wordt een door degene die de inrichting drijft, op aanwijzing van het bestuur van de emissieautoriteit opgestelde tweede tekst openbaar gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.   
+1.  Indien in een emissieverslag als bedoeld in artikel 16.1 milieu-informatie voorkomt of milieu-informatie daaruit kan worden afgeleid, waarvan de geheimhouding op grond van artikel 10 van de Wet openbaarheid van bestuur gerechtvaardigd is, kan het bestuur van de emissieautoriteit op een daartoe strekkend verzoek van degene die de inrichting drijft, toestaan dat een door het bestuur van de emissieautoriteit goedgekeurde, tweede tekst openbaar wordt gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit die informatie niet kan worden afgeleid. Het bestuur van de emissieautoriteit maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Het in de eerste volzin bedoelde verzoek wordt gedaan uiterlijk drie maanden na afloop van het verslagjaar. Bij het verzoek wordt een tweede tekst overgelegd.    
+2.  Indien in een emissieverslag als bedoeld in artikel 16.1 milieu-informatie voorkomt of daaruit milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van artikel 10, eerste lid, aanhef en onder b, onderscheidenlijk artikel 10, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur, wordt een door degene die de inrichting drijft, op aanwijzing van het bestuur van de emissieautoriteit opgestelde tweede tekst openbaar gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.   
 3.   De artikelen 19.4 en 19.5, eerste lid, zijn van overeenkomstige toepassing, met dien verstande dat het bestuursorgaan, bedoeld in het eerste lid, wordt aangemerkt als het bevoegd gezag.   
 4.  Indien een verzoek als bedoeld in het eerste lid is gedaan, kan openbaarmaking van het betrokken emissieverslag achterwege blijven tot uiterlijk vier weken nadat op dat verzoek onherroepelijk is beslist.  
 
 ###Artikel 19.8 
 
-1. Indien in de gegevens die ingevolge artikel 12.12, vierde lid, in het register, bedoeld in artikel 12.12, eerste lid, moeten worden opgenomen gegevens voorkomen of kunnen worden afgeleid waarvan de geheimhouding op grond van [artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend verzoek van degene die de inrichting drijft waar gevaarlijke stoffen aanwezig zijn, onderscheidenlijk degene die een buisleiding gebruikt voor het vervoer van gevaarlijke stoffen, onderscheidenlijk degene aan wie een concessie voor die buisleiding is verleend, of uit eigen beweging in afwijking van artikel 12.13, eerste lid, besluiten dat die gegevens niet aan de instantie, bedoeld in artikel 12.12, derde lid, worden verstrekt onderscheidenlijk niet wordt ingestemd met de voorgestelde weergave, bedoeld in artikel 12.15, tweede lid. 
+1. Indien in de gegevens die ingevolge artikel 12.12, vierde lid, in het register, bedoeld in artikel 12.12, eerste lid, moeten worden opgenomen gegevens voorkomen of kunnen worden afgeleid waarvan de geheimhouding op grond van artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend verzoek van degene die de inrichting drijft waar gevaarlijke stoffen aanwezig zijn, onderscheidenlijk degene die een buisleiding gebruikt voor het vervoer van gevaarlijke stoffen, onderscheidenlijk degene aan wie een concessie voor die buisleiding is verleend, of uit eigen beweging in afwijking van artikel 12.13, eerste lid, besluiten dat die gegevens niet aan de instantie, bedoeld in artikel 12.12, derde lid, worden verstrekt onderscheidenlijk niet wordt ingestemd met de voorgestelde weergave, bedoeld in artikel 12.15, tweede lid. 
 2. Op een verzoek tot geheimhouding beslist het bevoegd gezag binnen vier weken na ontvangst. 
 3. Indien een verzoek tot geheimhouding is gedaan, verstrekt het bevoegd gezag de gegevens ingevolge artikel 12.13, eerste lid, over de externe veiligheid betreffende die inrichting of buisleiding niet onderscheidenlijk geeft het bevoegd gezag geen instemming als bedoeld in artikel 12.15, tweede lid, totdat de beslissing op het verzoek onherroepelijk is geworden.
 
@@ -5605,9 +5605,9 @@ Indien bij de voorbereiding van een besluit dat is aangewezen krachtens artikel 
 ### Artikel  20.1  
 
 1.  De Afdeling bestuursrechtspraak van de Raad van State beslist op een beroep tegen een besluit op grond van deze wet of tegen besluiten als bedoeld in artikel 20.3, eerste lid, binnen twaalf maanden na afloop van de beroepstermijn. In afwijking van de eerste volzin beslist de Afdeling op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, of een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, binnen veertig weken na afloop van de termijn voor het indienen van een beroepschrift tegen eerstbedoeld besluit.   
-2.  Het beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, kan uitsluitend worden ingesteld door een belanghebbende die rechtstreeks in zijn belang is getroffen door de wijzigingen die ten opzichte van het oorspronkelijke nationale toewijzingsbesluit zijn aangebracht. [Artikel 6:13 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-3.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het instellen van beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, aan met ingang van de dag na die waarop in de Staatscourant een mededeling is gedaan als bedoeld in artikel 16.30a, eerste lid, dan wel met ingang van de dag na die waarop het gewijzigde nationale toewijzingsbesluit overeenkomstig artikel 16.30a, derde lid, tweede volzin, in verbinding met artikel 16.30, vierde lid, in de Staatscourant is bekendgemaakt. In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het maken van bezwaar tegen een besluit houdende kosteloze toewijzing van broeikasgasemissierechten op grond van artikel 16.32, eerste lid, aan met ingang van de dag na die waarop aan de aanvrager een mededeling is gedaan als bedoeld in artikel 16.32, vierde lid, dan wel met ingang van de dag na die waarop het overeenkomstig artikel 16.32, vijfde lid, gewijzigde toewijzingsbesluit is bekendgemaakt. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het instellen van beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, vier weken.   
-4.  In afwijking van [artikel 6:19, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het beroep tegen het nationale toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geacht mede gericht te zijn tegen het gewijzigde nationale toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid.  
+2.  Het beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, kan uitsluitend worden ingesteld door een belanghebbende die rechtstreeks in zijn belang is getroffen door de wijzigingen die ten opzichte van het oorspronkelijke nationale toewijzingsbesluit zijn aangebracht. Artikel 6:13 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+3.  In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het instellen van beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, aan met ingang van de dag na die waarop in de Staatscourant een mededeling is gedaan als bedoeld in artikel 16.30a, eerste lid, dan wel met ingang van de dag na die waarop het gewijzigde nationale toewijzingsbesluit overeenkomstig artikel 16.30a, derde lid, tweede volzin, in verbinding met artikel 16.30, vierde lid, in de Staatscourant is bekendgemaakt. In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het maken van bezwaar tegen een besluit houdende kosteloze toewijzing van broeikasgasemissierechten op grond van artikel 16.32, eerste lid, aan met ingang van de dag na die waarop aan de aanvrager een mededeling is gedaan als bedoeld in artikel 16.32, vierde lid, dan wel met ingang van de dag na die waarop het overeenkomstig artikel 16.32, vijfde lid, gewijzigde toewijzingsbesluit is bekendgemaakt. In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het instellen van beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, vier weken.   
+4.  In afwijking van artikel 6:19, eerste lid, van de Algemene wet bestuursrecht wordt het beroep tegen het nationale toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geacht mede gericht te zijn tegen het gewijzigde nationale toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid.  
 
 ###Artikel 20.2a 
 
@@ -5619,23 +5619,23 @@ In een rechterlijke procedure ten aanzien van een besluit, andere rechtshandelin
 
 deze wet;
 
-de [artikelen 34](../../../../wet/mijnbouwwet/BWBR0014168/README.md), [39, eerste lid](../../../../wet/mijnbouwwet/BWBR0014168/README.md), en [40 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), met uitzondering van een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de [bijlage bij de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) vastgelegde lijn en een besluit omtrent instemming met een winningsplan of opslagplan, voor zover het winnen van delfstoffen of aardwarmte dan wel het opslaan van stoffen geschiedt vanuit of in een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn;
+de artikelen 34, 39, eerste lid, en 40 van de Mijnbouwwet, met uitzondering van een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn en een besluit omtrent instemming met een winningsplan of opslagplan, voor zover het winnen van delfstoffen of aardwarmte dan wel het opslaan van stoffen geschiedt vanuit of in een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn;
 
-de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md);
+de Kernenergiewet;
 
-de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md);
+de Wet geluidhinder;
 
-de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);
+de Wet inzake de luchtverontreiniging;
 
-de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
+de Wet bodembescherming;
 
-de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md);
+de Wet bescherming Antarctica;
 
 de EG-verordening overbrenging van afvalstoffen;
 
-de [artikelen 125 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), [122 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), [61 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md) en [5:32 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het besluit betrekking heeft op handhaving van het bepaalde bij of krachtens andere wetten dan de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) waarop [hoofdstuk 5 van laatstgenoemde wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing is, waartegen ingevolge artikel 2 van de bij de Algemene wet bestuursrecht behorende [Bevoegdheidsregeling bestuursrechtspraak](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beroep bij de Afdeling bestuursrechtspraak van de Raad van State kan worden ingesteld, treedt in werking met ingang van de dag na de dag waarop de termijn voor het indienen van een bezwaarschrift afloopt, dan wel, indien ingevolge [artikel 7:1, eerste lid, onderdeel d of e, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen bezwaar kan worden gemaakt, met ingang van de dag na de dag waarop de termijn voor het indienen van een beroepschrift afloopt. Indien gedurende die termijn bij de bevoegde rechter een verzoek om voorlopige voorziening is gedaan, treedt het besluit niet in werking voordat op dat verzoek is beslist.    
-2.  In afwijking van het eerste lid treedt een besluit als bedoeld in artikel 8.40a of 8.42 in werking met ingang van de dag na zijn bekendmaking, tenzij deze is voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-3.  In afwijking van het eerste lid, eerste volzin, treedt een besluit op een aanvraag om een vergunning voor een activiteit met betrekking tot een inrichting als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) die tevens is aan te merken als een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) waarvoor een omgevingsvergunning is vereist, niet eerder in werking dan nadat de betrokken omgevingsvergunning is verleend.  
+de artikelen 125 van de Gemeentewet, 122 van de Provinciewet, 61 van de Waterschapswet en 5:32 van de Algemene wet bestuursrecht, voor zover het besluit betrekking heeft op handhaving van het bepaalde bij of krachtens andere wetten dan de Wet algemene bepalingen omgevingsrecht waarop hoofdstuk 5 van laatstgenoemde wet van toepassing is, waartegen ingevolge artikel 2 van de bij de Algemene wet bestuursrecht behorende Bevoegdheidsregeling bestuursrechtspraak beroep bij de Afdeling bestuursrechtspraak van de Raad van State kan worden ingesteld, treedt in werking met ingang van de dag na de dag waarop de termijn voor het indienen van een bezwaarschrift afloopt, dan wel, indien ingevolge artikel 7:1, eerste lid, onderdeel d of e, van de Algemene wet bestuursrecht geen bezwaar kan worden gemaakt, met ingang van de dag na de dag waarop de termijn voor het indienen van een beroepschrift afloopt. Indien gedurende die termijn bij de bevoegde rechter een verzoek om voorlopige voorziening is gedaan, treedt het besluit niet in werking voordat op dat verzoek is beslist.    
+2.  In afwijking van het eerste lid treedt een besluit als bedoeld in artikel 8.40a of 8.42 in werking met ingang van de dag na zijn bekendmaking, tenzij deze is voorbereid met toepassing van afdeling 3.4 van de Algemene wet bestuursrecht.   
+3.  In afwijking van het eerste lid, eerste volzin, treedt een besluit op een aanvraag om een vergunning voor een activiteit met betrekking tot een inrichting als bedoeld in artikel 15, onder b, van de Kernenergiewet die tevens is aan te merken als een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht waarvoor een omgevingsvergunning is vereist, niet eerder in werking dan nadat de betrokken omgevingsvergunning is verleend.  
 4.   Indien het gebruik maken van een besluit als bedoeld in het eerste lid, eerste volzin, voordat op een beroep is beslist, wegens de daaraan verbonden kosten, dan wel wegens de daardoor veroorzaakte wijziging in feitelijke omstandigheden die bij de beslissing op het beroep een rol kunnen spelen, aanmerkelijke invloed kan hebben op die beslissing, wordt een zodanige voorlopige voorziening getroffen dat die invloed zich niet kan voordoen.   
 
 ### Artikel  20.4  
@@ -5644,17 +5644,17 @@ Artikel 20.3 is niet van toepassing op besluiten:
 
 a. houdende vergunning of bezwaren krachtens de EG-verordening overbrenging van afvalstoffen;   
 
-b. krachtens de [artikelen 125 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), [122 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), [61 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md) en [5:32 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, eerste volzin, bedoelde wetten of wettelijke bepalingen.    
+b. krachtens de artikelen 125 van de Gemeentewet, 122 van de Provinciewet, 61 van de Waterschapswet en 5:32 van de Algemene wet bestuursrecht, voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, eerste volzin, bedoelde wetten of wettelijke bepalingen.    
 
 ### Artikel  20.5  
 
 1. In gevallen waarin het onverwijld in werking treden van een besluit als bedoeld in artikel 20.3, eerste lid, eerste volzin, naar het oordeel van het bevoegd gezag noodzakelijk is, kan het in afwijking van dat lid in het besluit bepalen dat het terstond in werking treedt.  
-2.  Het eerste lid is niet van toepassing op besluiten op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is.  
+2.  Het eerste lid is niet van toepassing op besluiten op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is.  
 
 ### Artikel  20.5a  
 
 1.  De Afdeling bestuursrechtspraak van de Raad van State voegt de behandeling van bij haar aanhangige zaken over een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, die op dezelfde handelsperiode betrekking hebben. De eerste volzin is niet van toepassing op latere wijzigingen van een nationaal toewijzingsbesluit overeenkomstig subparagraaf 16.2.1.3.2.   
-2.  Alvorens te beslissen op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geeft de Afdeling, in gevallen waarin het beroep naar haar oordeel gegrond is, toepassing aan [artikel 8:51d van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat de tussenuitspraak, bedoeld in [artikel 8:80a, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt gedaan binnen achttien weken na afloop van de voor dat besluit geldende beroepstermijn.   
+2.  Alvorens te beslissen op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geeft de Afdeling, in gevallen waarin het beroep naar haar oordeel gegrond is, toepassing aan artikel 8:51d van de Algemene wet bestuursrecht, met dien verstande dat de tussenuitspraak, bedoeld in artikel 8:80a, eerste lid, van de Algemene wet bestuursrecht, wordt gedaan binnen achttien weken na afloop van de voor dat besluit geldende beroepstermijn.   
 3.  De Afdeling voegt bij haar aanhangig gemaakte zaken met betrekking tot een naar aanleiding van haar tussenuitspraak gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, ter behandeling met zaken over het oorspronkelijke nationale toewijzingsbesluit die reeds bij haar aanhangig zijn.  
 
 ###§ 20.2 
@@ -5669,7 +5669,7 @@ b. krachtens de [artikelen 125 van de Gemeentewet](../../../../wet/gemeentewet/B
 
 ### Artikel  20.15  
 
-De stichting heeft tot taak aan de bestuursrechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen tegen besluiten als bedoeld in artikel 20.3, eerste lid, van deze wet alsmede beroepen tegen beschikkingen krachtens de [hoofdstukken 6](../../../../wet/waterwet/BWBR0025458/README.md), [7](../../../../wet/waterwet/BWBR0025458/README.md) en [8 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) met betrekking tot het lozen of storten van stoffen en het onttrekken van grondwater als bedoeld in [artikel 6.1 van die wet](../../../../wet/waterwet/BWBR0025458/README.md). Op verzoek van de bestuursrechter brengt de stichting tevens deskundigenbericht uit inzake beroepen op grond van andere wetten, voor zover het onderwerpen betreft die samenhangen met aspecten van het milieubeheer waarvoor Onze Minister verantwoordelijk is.  
+De stichting heeft tot taak aan de bestuursrechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen tegen besluiten als bedoeld in artikel 20.3, eerste lid, van deze wet alsmede beroepen tegen beschikkingen krachtens de hoofdstukken 6, 7 en 8 van de Waterwet met betrekking tot het lozen of storten van stoffen en het onttrekken van grondwater als bedoeld in artikel 6.1 van die wet. Op verzoek van de bestuursrechter brengt de stichting tevens deskundigenbericht uit inzake beroepen op grond van andere wetten, voor zover het onderwerpen betreft die samenhangen met aspecten van het milieubeheer waarvoor Onze Minister verantwoordelijk is.  
 
 ### Artikel  20.16  
 
@@ -5678,7 +5678,7 @@ De personen die deel uitmaken van de organen van de stichting, en het personeel 
 ### Artikel  20.17  
 
 1.  Indien met toepassing van artikel 20.14 een stichting is opgericht, verstrekt Onze Minister aan de stichting subsidie overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen voorschriften, voor zover dat redelijkerwijs noodzakelijk is voor een goede taakuitoefening.    
-2.   [Artikel 8:36, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+2.   Artikel 8:36, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing.   
 
 ### Hoofdstuk  21  
 
@@ -5689,7 +5689,7 @@ De personen die deel uitmaken van de organen van de stichting, en het personeel 
 1.  Burgemeester en wethouders, gedeputeerde staten en ieder Onzer betrokken Ministers doen jaarlijks verslag aan onderscheidenlijk de gemeenteraad, provinciale staten en de Staten-Generaal over hun beleid met betrekking tot de uitvoering van de hoofdstukken 8, 13 en 18 en paragraaf 14.1 van deze wet. Burgemeester en wethouders en gedeputeerde staten zenden het verslag gelijktijdig met de aanbieding aan de gemeenteraad, onderscheidenlijk provinciale staten, aan de inspecteur.    
 2.   Zij vermelden in hun verslag in ieder geval:  
 
-a. het aantal malen dat in de periode waarop het verslag betrekking heeft, de termijnen zijn overschreden, die ingevolge [artikel 3:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gelden voor het geven van de beschikking, de oorzaken daarvan en de maatregelen die zij hebben getroffen of zullen treffen om het overschrijden van die termijnen zo veel mogelijk te voorkomen;   
+a. het aantal malen dat in de periode waarop het verslag betrekking heeft, de termijnen zijn overschreden, die ingevolge artikel 3:18 van de Algemene wet bestuursrecht gelden voor het geven van de beschikking, de oorzaken daarvan en de maatregelen die zij hebben getroffen of zullen treffen om het overschrijden van die termijnen zo veel mogelijk te voorkomen;   
 
 b. afzonderlijk de wijze waarop zij de in het eerste lid genoemde hoofdstukken van deze wet hebben uitgevoerd ten aanzien van inrichtingen die geheel of gedeeltelijk gedreven worden door onderscheidenlijk de betrokken gemeente, de betrokken provincie of het rijk.      
 3.   Gevallen ten aanzien waarvan artikel 13.10 is toegepast, worden in het verslag van Onze Minister niet vermeld.   
@@ -5719,7 +5719,7 @@ Voor de uitvoering van deze wet ten aanzien van gebieden die niet deel uitmaken 
 4.   Het ontwerp van een algemene maatregel van bestuur krachtens artikel 1.1, eerste, derde, zesde, zevende of achtste lid, 2.2, derde lid, 5.1, eerste lid, 5.2b, vijfde lid, 5.3, eerste lid, 7.2, eerste lid, 8.40, 8.49, vijfde lid, 9.2.1.3, tweede lid, 9.2.1.4, 9.2.2.1, eerste lid, 9.2.3.1, derde lid, 9.2.3.2, 9.2.3.3, vierde lid, 9.5.2, 10.2, tweede lid, 10.22, tweede lid, 10.28, eerste lid, 10.29, eerste lid, 10.32, 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, 10.46, eerste lid, 10.47, eerste lid, 10.48, eerste lid, 10.51, eerste lid, 10.52, eerste lid, 10.54, derde lid, 10.61, eerste lid, 11.1, eerste lid, 11.3, eerste lid, 11.11, tweede lid, 11.29, vierde lid, 12.10, tweede lid, 12.12, tweede en vierde lid, 12.13, tweede en derde lid, 12.16, derde lid, 12.20a, eerste lid, 12.29, 15.13, eerste lid, 15.32, eerste of tweede lid, 15.46, vijfde lid, 17.7 of 21.4 wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.    
 5.   Een algemene maatregel van bestuur als bedoeld in het vierde lid wordt, nadat hij is vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Een krachtens artikel 5.1, eerste lid, vastgestelde algemene maatregel van bestuur treedt in werking op een tijdstip dat, nadat vier weken na de toezending ervan aan de beide kamers der Staten-Generaal zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers der Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in de algemene maatregel van bestuur geregelde onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel van bestuur onverwijld ingetrokken.    
 6.   Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, wordt in afwijking daarvan bij ministeriële regeling geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Indien wijziging van een algemene maatregel van bestuur noodzakelijk is, wordt daarvan, gelijktijdig met de voordracht aan Ons, gemotiveerd kennis gegeven aan de beide kamers der Staten-Generaal, onder korte vermelding van de inhoud van de voorgenomen algemene maatregel van bestuur. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Op de vaststelling van een ministeriële regeling zijn het tweede en het derde lid van overeenkomstige toepassing.    
-7.  Het tweede tot en met vijfde lid en het zesde lid, tweede, derde en vierde volzin, gelden niet voor een algemene maatregel van bestuur krachtens artikel 8.40, voorzover deze uitsluitend betrekking heeft op inrichtingen die een krachtens [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) aangewezen mijnbouwwerk zijn. De voordracht voor een algemene maatregel van bestuur wordt Ons in dit geval gedaan door Onze Minister van Economische Zaken. Bij toepassing in dit geval van het zesde lid, eerste volzin, wordt de ministeriële regeling vastgesteld door Onze Minister van Economische Zaken. 
+7.  Het tweede tot en met vijfde lid en het zesde lid, tweede, derde en vierde volzin, gelden niet voor een algemene maatregel van bestuur krachtens artikel 8.40, voorzover deze uitsluitend betrekking heeft op inrichtingen die een krachtens artikel 1 van de Mijnbouwwet aangewezen mijnbouwwerk zijn. De voordracht voor een algemene maatregel van bestuur wordt Ons in dit geval gedaan door Onze Minister van Economische Zaken. Bij toepassing in dit geval van het zesde lid, eerste volzin, wordt de ministeriële regeling vastgesteld door Onze Minister van Economische Zaken. 
 
 ### Artikel  21.7  
 
@@ -5735,16 +5735,16 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ### Artikel  22.1  
 
-1.   De hoofdstukken 8 en 17 en titel 12.3 van deze wet zijn niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens [artikel 15, onder b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), behoudens voor zover uit de bepalingen van die wet anders blijkt. Die hoofdstukken en die titel zijn evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.    
-2.   Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen, voor zover daarvoor een vergunning of erkenning is vereist of algemene voorschriften gelden krachtens de [artikelen 3.1](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.3 tot en met 3.6](../../../../wet/wet/dieren/BWBR0030250/README.md), [6.4](../../../../wet/wet/dieren/BWBR0030250/README.md) en [7.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md) met betrekking tot dierlijke bijproducten of de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), behoudens voor zover uit de bepalingen van die wetten anders blijkt.    
-3.   Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.   
-4. De titels 9.2, 9.3 en 9.3a zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of de [hoofdstuk 2, paragraaf 3, van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md).
-5. Titel 9.2 laat het met betrekking tot stoffen of preparaten bij of krachtens de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) bepaalde onverlet.
-6. Titel 9.2 is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het nederleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) ten aanzien van stoffen, preparaten of micro-organismen, voorzover daaromtrent regels zijn gesteld bij of krachtens [die wet](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md). In afwijking van de eerste volzin is titel 9.2 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die terzake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) of de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).
-7. Krachtens titel 9.2 worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en preparaten door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien krachtens [artikel 6.6](../../../../wet/waterwet/BWBR0025458/README.md) juncto [artikel 6.2](../../../../wet/waterwet/BWBR0025458/README.md) of [6.3 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md). 
-8.  Titel 9.5 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).   
-9.   Artikel 9.5.2 en hoofdstuk 10 zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:  de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md),  de [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md),  de hoofdstuk 3, paragraaf 3, van de Wet dieren, de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md),  de [Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md),  de [artikelen 3.1](../../../../wet/wet/dieren/BWBR0030250/README.md), [3.3 tot en met 3.6](../../../../wet/wet/dieren/BWBR0030250/README.md), [6.4](../../../../wet/wet/dieren/BWBR0030250/README.md) en [7.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md) met betrekking tot dierlijke bijproducten,  de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.    
-10.  Artikel 9.5.2 en hoofdstuk 10, met uitzondering van titel 10.7, zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de [Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md). 
+1.   De hoofdstukken 8 en 17 en titel 12.3 van deze wet zijn niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens artikel 15, onder b, van de Kernenergiewet, behoudens voor zover uit de bepalingen van die wet anders blijkt. Die hoofdstukken en die titel zijn evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.    
+2.   Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen, voor zover daarvoor een vergunning of erkenning is vereist of algemene voorschriften gelden krachtens de artikelen 3.1, 3.3 tot en met 3.6, 6.4 en 7.1 van de Wet dieren met betrekking tot dierlijke bijproducten of de Waterwet, behoudens voor zover uit de bepalingen van die wetten anders blijkt.    
+3.   Hoofdstuk 8 van deze wet is niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de Meststoffenwet worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.   
+4. De titels 9.2, 9.3 en 9.3a zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de Geneesmiddelenwet, de Wet gewasbeschermingsmiddelen en biociden of de hoofdstuk 2, paragraaf 3, van de Wet dieren.
+5. Titel 9.2 laat het met betrekking tot stoffen of preparaten bij of krachtens de Kernenergiewet bepaalde onverlet.
+6. Titel 9.2 is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het nederleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voorzover daaromtrent regels zijn gesteld bij of krachtens de Wet luchtvaart, dan wel op de handelingen, genoemd in artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen ten aanzien van stoffen, preparaten of micro-organismen, voorzover daaromtrent regels zijn gesteld bij of krachtens die wet. In afwijking van de eerste volzin is titel 9.2 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die terzake zijn gesteld bij of krachtens de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart.
+7. Krachtens titel 9.2 worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en preparaten door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien krachtens artikel 6.6 juncto artikel 6.2 of 6.3 van de Waterwet. 
+8.  Titel 9.5 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de Wet vervoer gevaarlijke stoffen.   
+9.   Artikel 9.5.2 en hoofdstuk 10 zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:  de Wet gewasbeschermingsmiddelen en biociden,  de Wet voorkoming verontreiniging door schepen,  de hoofdstuk 3, paragraaf 3, van de Wet dieren, de Meststoffenwet,  de Scheepvaartverkeerswet,  de artikelen 3.1, 3.3 tot en met 3.6, 6.4 en 7.1 van de Wet dieren met betrekking tot dierlijke bijproducten,  de Kernenergiewet, de Waterwet, behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.    
+10.  Artikel 9.5.2 en hoofdstuk 10, met uitzondering van titel 10.7, zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de Kaderwet diervoeders. 
 
 ### Artikel  22.2  
 
@@ -5772,7 +5772,7 @@ J. de Ruiter
 
 ####bij de Wet milieubeheer 
 
-Wetten, als bedoeld in de artikelen 4.6, derde lid, 4.12, derde lid, en 4.19, derde lid, van de Wet milieubeheer:   [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md)  [Drinkwaterwet](../../../../wet/drinkwaterwet/BWBR0026338/README.md)   [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md)  [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) [Boswet](../../../../wet/boswet/BWBR0002357/README.md)   [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md)   [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md)   [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md)   [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md)   Interimwet bodemsanering   [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md)   [Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md)   [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md)   [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md)  [ Wet implementatie EG-richtlijnen energie-efficiëntie](../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md)   [Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)  [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) (*Stb.* 1995, 525)  [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)   [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md)[Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) 
+Wetten, als bedoeld in de artikelen 4.6, derde lid, 4.12, derde lid, en 4.19, derde lid, van de Wet milieubeheer:   Mijnbouwwet  Drinkwaterwet   Luchtvaartwet  Wet luchtvaart Boswet   Wet gewasbeschermingsmiddelen en biociden   Kernenergiewet   Ontgrondingenwet   Wet geluidhinder   Wet inzake de luchtverontreiniging   Interimwet bodemsanering   Wet voorkoming verontreiniging door schepen   Wet inrichting landelijk gebied   Wet bodembescherming   Meststoffenwet   Wet implementatie EG-richtlijnen energie-efficiëntie   Natuurbeschermingswet 1998  Wet vervoer gevaarlijke stoffen (*Stb.* 1995, 525)  Tracéwet   Wegenverkeerswet 1994   Flora- en faunawet WaterwetWet algemene bepalingen omgevingsrecht 
 
 ###Bijlage 2 
 
@@ -5794,7 +5794,7 @@ b.125 microgram per m<sup>3</sup> als vierentwintig-uurgemiddelde concentratie, 
 
 ### Voorschrift 1.2 
 
-Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van ecosystemen, in gebieden met een oppervlakte van ten minste 1000 km<sup>2</sup> die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gebruik maken, waar het ecosysteem naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft:
+Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van ecosystemen, in gebieden met een oppervlakte van ten minste 1000 km<sup>2</sup> die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in artikel 1 van de Wegenverkeerswet 1994 gebruik maken, waar het ecosysteem naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft:
 
 a.20 microgram per m<sup>3</sup> als jaargemiddelde concentratie;
 
@@ -5868,7 +5868,7 @@ Voor stikstofdioxide geldt 400 microgram per m<sup>3</sup> als uurgemiddelde con
 
 ###Voorschrift 3.1 
 
-Voor stikstofoxiden geldt 30 microgram per m<sup>3</sup> als jaargemiddelde concentratie als grenswaarde voor de bescherming van vegetatie, in gebieden met een oppervlakte van ten minste 1000 km<sup>2</sup> die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gebruik maken, waar de vegetatie naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft.
+Voor stikstofoxiden geldt 30 microgram per m<sup>3</sup> als jaargemiddelde concentratie als grenswaarde voor de bescherming van vegetatie, in gebieden met een oppervlakte van ten minste 1000 km<sup>2</sup> die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in artikel 1 van de Wegenverkeerswet 1994 gebruik maken, waar de vegetatie naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft.
 
 ### §  4  
 

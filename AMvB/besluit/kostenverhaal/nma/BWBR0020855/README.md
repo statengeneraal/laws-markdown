@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 24 juli 2006, nr. WJZ 6051546;
 
-Gelet op [artikel 93a van de Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md);
+Gelet op artikel 93a van de Mededingingswet;
 
 De Raad van State gehoord (advies van 7 september 2006 no. W10.06.0338/II);
 
@@ -15,22 +15,22 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md). 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: Mededingingswet. 
 
 ### Artikel  2  
 
-1.  De vergoeding die verschuldigd is op grond van [artikel 93a van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md) bestaat uit een vast bedrag.   
-2.  Het vaste bedrag, bedoeld in het eerste lid, kan verschillen voor de verschillende in [artikel 93a van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md) bedoelde beschikkingen.  
+1.  De vergoeding die verschuldigd is op grond van artikel 93a van de wet bestaat uit een vast bedrag.   
+2.  Het vaste bedrag, bedoeld in het eerste lid, kan verschillen voor de verschillende in artikel 93a van de wet bedoelde beschikkingen.  
 
 ### Artikel  3  
 
 Het vaste bedrag, bedoeld in artikel 2, eerste lid, is: 
 
-a. € 15 000 voor het geven van een beschikking als bedoeld in [artikel 37 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+a. € 15 000 voor het geven van een beschikking als bedoeld in artikel 37 van de wet;  
 
-b. € 30 000 voor het geven van een beschikking als bedoeld in [artikel 44 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+b. € 30 000 voor het geven van een beschikking als bedoeld in artikel 44 van de wet;  
 
-c. € 2 000 voor het geven van een beschikking als bedoeld in de [artikelen 25](../../../../../wet/mededingingswet/BWBR0008691/README.md), [40](../../../../../wet/mededingingswet/BWBR0008691/README.md), [46](../../../../../wet/mededingingswet/BWBR0008691/README.md) en [47 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md).   
+c. € 2 000 voor het geven van een beschikking als bedoeld in de artikelen 25, 40, 46 en 47 van de wet.   
 
 ### Artikel  4  
 
