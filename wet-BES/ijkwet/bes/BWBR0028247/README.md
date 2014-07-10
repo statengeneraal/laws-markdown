@@ -243,7 +243,7 @@ f. alle plaatsen, bedoeld in artikel 19, onderdeel a, met uitzondering van wonin
 
 ### Artikel  29  
 
-Met gevangenisstraf van ten hoogste drie jaren wordt, voor zover het [Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) er niet in voorziet, gestraft: 
+Met gevangenisstraf van ten hoogste drie jaren wordt, voor zover het Wetboek van Strafrecht BES er niet in voorziet, gestraft: 
 
 1e. hij, die op maten, gewichten, meet- of weegwerktuigen valse ijkmerken plaatst;  
 
@@ -253,7 +253,7 @@ Met gevangenisstraf van ten hoogste drie jaren wordt, voor zover het [Wetboek va
 
 ### Artikel  30  
 
-Met gevangenisstraf van ten hoogste drie jaren wordt, voor zover het [Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) er niet in voorziet, gestraft: 
+Met gevangenisstraf van ten hoogste drie jaren wordt, voor zover het Wetboek van Strafrecht BES er niet in voorziet, gestraft: 
 
 1e. hij, die maten, gewichten, meet- en weegwerktuigen, nadat zij van een ijkmerk zijn voorzien, vervalst, met het oogmerk om ze als echt en onvervalst te gebruiken of te doen gebruiken;  
 
@@ -261,7 +261,7 @@ Met gevangenisstraf van ten hoogste drie jaren wordt, voor zover het [Wetboek va
 
 ### Artikel  31  
 
-Met gevangenisstraf van ten hoogste een jaar wordt, voor zover het [Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) er niet in voorziet, gestraft: 
+Met gevangenisstraf van ten hoogste een jaar wordt, voor zover het Wetboek van Strafrecht BES er niet in voorziet, gestraft: 
 
 1e. hij, die een geijkt voorwerp ontdoet van het daarop geplaatste afkeuringsmerk, met het oogmerk dat voorwerp te gebruiken of te doen gebruiken als ware het niet afgekeurd;  
 
@@ -269,7 +269,7 @@ Met gevangenisstraf van ten hoogste een jaar wordt, voor zover het [Wetboek van 
 
 ### Artikel  32  
 
-Met gevangenisstraf van ten hoogste een jaar wordt, voor zover het [Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) er niet in voorziet, gestraft, hij, die ten behoeve van handel en bedrijf getal, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, wetende of redelijkerwijze kunnende vermoeden, dat de vastgestelde netto-hoeveelheid in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid. 
+Met gevangenisstraf van ten hoogste een jaar wordt, voor zover het Wetboek van Strafrecht BES er niet in voorziet, gestraft, hij, die ten behoeve van handel en bedrijf getal, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, wetende of redelijkerwijze kunnende vermoeden, dat de vastgestelde netto-hoeveelheid in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid. 
 
 ### Artikel  33  
 
@@ -301,7 +301,7 @@ In beslag genomen maten, gewichten, meet- en weegwerktuigen worden niet aan de r
 
 ### Artikel  39  
 
-Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering Bonaire, Sint Eustatius en Saba](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren. 
+Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd artikel 184 van het Wetboek van Strafvordering Bonaire, Sint Eustatius en Saba, belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren. 
 
 ### Artikel  40  
 

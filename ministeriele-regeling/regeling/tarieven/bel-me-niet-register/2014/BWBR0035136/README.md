@@ -3,20 +3,20 @@
 ##Regeling van de Minister van Economische Zaken van 15 mei 2014, nr. WJZ/14059862, houdende de vaststelling van de tarieven voor het bel-me-niet-register (Regeling tarieven bel-me-niet-register 2014)
 
 De Minister van Economische Zaken;  
-Gelet op [artikel 16.1, zesde lid van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [artikel 12, vierde lid, van het Besluit bel-me-niet-register](../../../../../../AMvB/besluit/bel-me-niet-register/BWBR0025522/README.md);
+Gelet op artikel 16.1, zesde lid van de Telecommunicatiewet en artikel 12, vierde lid, van het Besluit bel-me-niet-register;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*callcenter:* een onderneming die als dienst aanbiedt natuurlijke personen te benaderen door middel van telefonische oproepen, met het doel daardoor communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) aan te bieden;  
+*callcenter:* een onderneming die als dienst aanbiedt natuurlijke personen te benaderen door middel van telefonische oproepen, met het doel daardoor communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet aan te bieden;  
 
-*gebruiker:* degene die de communicatie, bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), aanbiedt;  
+*gebruiker:* degene die de communicatie, bedoeld in artikel 11.7, vijfde lid, van de wet, aanbiedt;  
 
-*markeerbestand:* het bestand, bedoeld in [artikel 12, tweede lid, van het Besluit bel-me-niet-register](../../../../../../AMvB/besluit/bel-me-niet-register/BWBR0025522/README.md);  
+*markeerbestand:* het bestand, bedoeld in artikel 12, tweede lid, van het Besluit bel-me-niet-register;  
 
-*ontdubbelingsbestand:* het bestand, bedoeld in [artikel 12, eerste lid, van het Besluit bel-me-niet-register](../../../../../../AMvB/besluit/bel-me-niet-register/BWBR0025522/README.md)  
+*ontdubbelingsbestand:* het bestand, bedoeld in artikel 12, eerste lid, van het Besluit bel-me-niet-register  
 
 *record:* een bestandsdeel waarin de gegevens van één persoon zijn vermeld.   
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 16 juli 2008, nr. WJZ / 8081961;
 
-Gelet op [artikel 11.7, dertiende lid](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [artikel 16.1, eerste en zesde lid, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op artikel 11.7, dertiende lid, en artikel 16.1, eerste en zesde lid, van de Telecommunicatiewet;
 
 De Raad van State gehoord (advies van 13 augustus 2008 nr. W10.08.0338/III);
 
@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *wet:* de [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a.  *wet:* de Telecommunicatiewet;  
 
-b.  *register:* register, bedoeld in [artikel 11.7, zesde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+b.  *register:* register, bedoeld in artikel 11.7, zesde lid, van de wet;  
 
 c.  *beheerder:* de beheerder van het register;  
 
-d.  *belbestand:* het bestand van degene die de communicatie als bedoeld in [artikel 11.7, vijfde lid van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) wil overbrengen met de contactgegevens van de abonnee;  
+d.  *belbestand:* het bestand van degene die de communicatie als bedoeld in artikel 11.7, vijfde lid van de wet wil overbrengen met de contactgegevens van de abonnee;  
 
 e.  *ontdubbelen:* het verwijderen of markeren in een belbestand van de contactgegevens van abonnees die zijn ingeschreven in het register.   
 
@@ -83,14 +83,14 @@ g. het doen van aangifte tot zijn faillissement of het aanvragen van zijn sursé
 
 ### Artikel  10  
 
-1.  De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-2.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de beheerder aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Bij de aanwijzing van de accountant bedingt de beheerder dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.   
+1.  De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek.   
+2.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de beheerder aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Bij de aanwijzing van de accountant bedingt de beheerder dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.   
 3.  De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door de beheerder.   
 4.  De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de beheerder voldoen aan eisen van doelmatigheid.  
 
 ### Artikel  11  
 
-Indien de beheerder de bij de [wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), of de in dit besluit opgedragen taken en daaruit onmiddellijk voortvloeiende werkzaamheden uitvoert naast andere activiteiten: 
+Indien de beheerder de bij de wet, of de in dit besluit opgedragen taken en daaruit onmiddellijk voortvloeiende werkzaamheden uitvoert naast andere activiteiten: 
 
 a. houdt hij een afzonderlijke boekhouding bij ter zake van die taken en werkzaamheden en  
 
@@ -98,20 +98,20 @@ b. verantwoordt hij in zijn jaarrekening die taken en werkzaamheden afzonderlijk
 
 ### Artikel  12  
 
-1.  Op verzoek van degene die de communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) overbrengt verstrekt de beheerder een bestand met daarin de telefoonnummers van de abonnees die zich hebben laten inschrijven in het register. Dit bestand bevat tevens de datum waarop het is verstrekt, en de naam van degene aan wie het is verstrekt.   
-2.  Op verzoek van degene die de communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) overbrengt ontvangt de beheerder een bestand en markeert daarin of verwijdert daaruit de contactgegevens van abonnees die zich hebben laten inschrijven in het register.   
-3.  Een verzoek als bedoeld in het eerste of tweede lid kan worden gedaan door degene die de communicatie overbrengt als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), of door iemand die namens hem optreedt. Indien laatstbedoelde reeds een bestand als bedoeld in het eerste lid heeft ontvangen, kan hij dit aanwenden voor het ontdubbelen van belbestanden van meerdere organisaties, mits hij de beheerder meedeelt ten behoeve van welke organisaties hij de belbestanden zal ontdubbelen.   
+1.  Op verzoek van degene die de communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet overbrengt verstrekt de beheerder een bestand met daarin de telefoonnummers van de abonnees die zich hebben laten inschrijven in het register. Dit bestand bevat tevens de datum waarop het is verstrekt, en de naam van degene aan wie het is verstrekt.   
+2.  Op verzoek van degene die de communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet overbrengt ontvangt de beheerder een bestand en markeert daarin of verwijdert daaruit de contactgegevens van abonnees die zich hebben laten inschrijven in het register.   
+3.  Een verzoek als bedoeld in het eerste of tweede lid kan worden gedaan door degene die de communicatie overbrengt als bedoeld in artikel 11.7, vijfde lid, van de wet, of door iemand die namens hem optreedt. Indien laatstbedoelde reeds een bestand als bedoeld in het eerste lid heeft ontvangen, kan hij dit aanwenden voor het ontdubbelen van belbestanden van meerdere organisaties, mits hij de beheerder meedeelt ten behoeve van welke organisaties hij de belbestanden zal ontdubbelen.   
 4.  Bij ministeriële regeling wordt nader geregeld hoe het bestand dat door de beheerder wordt aangeboden en hoe het bestand dat door de beheerder kan worden ontvangen is opgebouwd.   
 5.  Het aanbieden van de bestanden wordt gedaan door middel van een daartoe door de beheerder beschikbaar gesteld kanaal.  
 
 ### Artikel  13  
 
-1.  De termijn gedurende welke een belbestand dat door de beheerder is ontdubbeld, gebruikt kan worden voor het aanbieden van communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), is vier weken, te rekenen vanaf de datum waarop het ontdubbelde belbestand door de beheerder is verzonden naar degene die het aan de beheerder heeft aangeboden.   
-2.  De termijn dat een belbestand dat door een ander dan de beheerder is ontdubbeld, gebruikt kan worden voor het aanbieden van communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), is vier weken, te rekenen vanaf de datum waarop het bestand, met behulp waarvan het belbestand is ontdubbeld, door de beheerder is verstrekt.  
+1.  De termijn gedurende welke een belbestand dat door de beheerder is ontdubbeld, gebruikt kan worden voor het aanbieden van communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet, is vier weken, te rekenen vanaf de datum waarop het ontdubbelde belbestand door de beheerder is verzonden naar degene die het aan de beheerder heeft aangeboden.   
+2.  De termijn dat een belbestand dat door een ander dan de beheerder is ontdubbeld, gebruikt kan worden voor het aanbieden van communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet, is vier weken, te rekenen vanaf de datum waarop het bestand, met behulp waarvan het belbestand is ontdubbeld, door de beheerder is verstrekt.  
 
 ### Artikel  14  
 
-1.  Indien een abonnee bij degene die de communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) overbrengt, heeft aangegeven dat hij in het register opgenomen wil worden, worden de gegevens, bedoeld in artikel 15, eerste en tweede lid, zo snel mogelijk, doch ten hoogste binnen 10 werkdagen bij het register aangeboden.   
+1.  Indien een abonnee bij degene die de communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet overbrengt, heeft aangegeven dat hij in het register opgenomen wil worden, worden de gegevens, bedoeld in artikel 15, eerste en tweede lid, zo snel mogelijk, doch ten hoogste binnen 10 werkdagen bij het register aangeboden.   
 2.  De beheerder van het register verwerkt de aangeleverde gegevens zo snel mogelijk, doch ten hoogste binnen twee werkdagen in het register.  
 
 ### Artikel  15  
@@ -125,7 +125,7 @@ b. de vier cijfers van de postcode;
 c. het huisnummer en  
 
 d. de datum en het tijdstip van inschrijving.     
-2.  Indien de gegevens van de abonnee door degene die de communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), overbrengt, worden opgegeven ter opname in het register, worden naast de gegevens, bedoeld in het eerste lid, over een abonnee eveneens opgenomen: 
+2.  Indien de gegevens van de abonnee door degene die de communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet, overbrengt, worden opgegeven ter opname in het register, worden naast de gegevens, bedoeld in het eerste lid, over een abonnee eveneens opgenomen: 
 
 a. de naam,  
 
@@ -151,7 +151,7 @@ c. gegevens die noodzakelijk zijn voor een goede werking van het register, waaro
 
 ### Artikel  16  
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot de bijdragen ter financiering van het register die zijn verschuldigd door degene die communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) overbrengt. 
+Bij ministeriële regeling worden regels gesteld met betrekking tot de bijdragen ter financiering van het register die zijn verschuldigd door degene die communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet overbrengt. 
 
 ### Artikel  17  
 

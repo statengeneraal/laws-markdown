@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordrachten van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 september 2003, kenmerk DJB/JZ-2408602, van 13 mei 2004, kenmerk DJB/JZ-481048, van 18 september 2003, kenmerk DJB/JZ-2409926, van 18 september 2003, kenmerk DJB/JZ-2408604, van 18 september 2003, kenmerk DJB/JZ-2408605, van 13 november 2003, kenmerk DJB/JZ-2422233 en van 6 mei 2004, kenmerk DJB/JZ-2481049, gedaan mede namens Onze Minister van Justitie;
 
-Gelet op [artikel 3, eerste en vijfde, achtste en negende lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [artikel 5, tweede lid, onder b](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [artikel 6, vijfde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [artikel 13, zevende lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [artikel 38, vijfde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [artikel 57, derde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), de [artikelen 69, eerste en tweede lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [70, tweede lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [71, eerste lid, onder e](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [112, derde lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [artikel 9b, tweede en vijfde lid van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), [artikel 11a, eerste lid, derde en vierde volzin, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [artikel 238, vijfde lid, van boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [artikel 77ff, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);
+Gelet op artikel 3, eerste en vijfde, achtste en negende lid, artikel 5, tweede lid, onder b, artikel 6, vijfde lid, artikel 13, zevende lid, artikel 38, vijfde lid, en artikel 57, derde lid, de artikelen 69, eerste en tweede lid, 70, tweede lid, 71, eerste lid, onder e, en 112, derde lid, van de Wet op de jeugdzorg, artikel 9b, tweede en vijfde lid van de Algemene Wet Bijzondere Ziektekosten, artikel 11a, eerste lid, derde en vierde volzin, van de Beginselenwet justitiële jeugdinrichtingen, artikel 238, vijfde lid, van boek 1 van het Burgerlijk Wetboek en artikel 77ff, tweede lid, van het Wetboek van Strafrecht;
 
 De Raad van State gehoord (adviezen van 24 november 2003, nr. W13.03.0399/III, van 30 augustus 2004, nr. W13.04.0213/III, van 24 november 2004, nr. W13.03.0396/III, van 24 november 2003, nr. W13.03.0398/III, van 24 november 2003, nr. W13.03.0397/III, van 19 december 2003, nr. W13.03.0476/III en van 3 augustus 2004, nr. W13.04.0210/III);
 
@@ -22,45 +22,45 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 aanvrager: degene die de aanvraag indient voor een indicatiebesluit; 
 
-advies- en meldpunt kindermishandeling: de stichting bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+advies- en meldpunt kindermishandeling: de stichting bij de uitvoering van de taak, bedoeld in artikel 10, eerste lid, onder e, van de wet; 
 
-autorisatielijst: autorisatielijst van jeugdzorgaanbieders, bedoeld in [artikel 2y van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+autorisatielijst: autorisatielijst van jeugdzorgaanbieders, bedoeld in artikel 2y van de wet; 
 
-de wet: de [Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+de wet: de Wet op de jeugdzorg;  
 
 geautoriseerde: in de autorisatielijst opgenomen zorgaanbieder; 
 
 gekwalificeerde gedragswetenschapper: degene die lid is van het Nederlands Instituut voor Psychologen en is opgenomen in het Register Klinisch Psychologen of het register Kinder- en Jeugdpsychologen en beschikt over de Basisaantekening Psychodiagnostiek van dit instituut of degene die lid is van de Nederlandse Vereniging van Orthopedagogen en Onderwijskundigen en geregistreerd is als Orthopedagoog-Generalist dan wel een BIG-geregistreerde gezondheidszorgpsycholoog; 
 
-gezinsvoogdijwerker: medewerker van de stichting die belast is met de uitoefening van de taak, bedoeld in [artikel 10, eerste lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+gezinsvoogdijwerker: medewerker van de stichting die belast is met de uitoefening van de taak, bedoeld in artikel 10, eerste lid, onder b, van de wet; 
 
-indicatiebesluit: een besluit waarbij wordt vastgesteld of een cliënt is aangewezen op zorg als bedoeld in [artikel 5, tweede lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+indicatiebesluit: een besluit waarbij wordt vastgesteld of een cliënt is aangewezen op zorg als bedoeld in artikel 5, tweede lid, van de wet;  
 
-inrichting: een justitiële jeugdinrichting als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md); 
+inrichting: een justitiële jeugdinrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen; 
 
-jeugdbeschermings- en reclasseringstaken: de taken, bedoeld in [artikel 10, eerste lid, onderdelen a tot en met d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+jeugdbeschermings- en reclasseringstaken: de taken, bedoeld in artikel 10, eerste lid, onderdelen a tot en met d, van de wet; 
 
 jeugdhulp: jeugdhulp als bedoeld in artikel 3;  
 
-jeugdreclassering: de stichting bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+jeugdreclassering: de stichting bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onder c en d, van de wet; 
 
-jeugdreclasseringswerker: medewerker van de stichting die belast is met de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder c en d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). 
+jeugdreclasseringswerker: medewerker van de stichting die belast is met de uitvoering van de taak, bedoeld in artikel 10, eerste lid, onder c en d, van de wet. 
 
 melding: een melding van kindermishandeling of van een vermoeden daarvan; 
 
 observatiediagnostiek: observatiediagnostiek als bedoeld in artikel 5; 
 
-SBV-Z: sectorale berichtenvoorziening in de zorg, bedoeld in [artikel 11 van het Besluit gebruik burgerservicenummer in de zorg](../../../../../../../AMvB/besluit/burgerservicenummer/BWBR0022829/README.md); 
+SBV-Z: sectorale berichtenvoorziening in de zorg, bedoeld in artikel 11 van het Besluit gebruik burgerservicenummer in de zorg; 
 
 toegangsmiddel: middel als bedoeld in artikel 24g, met inbegrip van de drager van het middel; 
 
 verblijf: verblijf als bedoeld in artikel 4;  
 
-verwijsindex: verwijsindex als bedoeld in [artikel 2d van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+verwijsindex: verwijsindex als bedoeld in artikel 2d van de wet; 
 
-voogdijwerker: medewerker van de stichting die belast is met de uitoefening van de taak, bedoeld in [artikel 10, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+voogdijwerker: medewerker van de stichting die belast is met de uitoefening van de taak, bedoeld in artikel 10, eerste lid, onder a, van de wet; 
 
-vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+vreemdeling: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000.   
 
 ### Hoofdstuk  1a  
 
@@ -72,71 +72,71 @@ vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../.
 
 ### Artikel  1a  
 
-Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein jeugdzorg worden aangewezen: 
+Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein jeugdzorg worden aangewezen: 
 
-a. bureaus jeugdzorg als bedoeld in [artikel 4 van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+a. bureaus jeugdzorg als bedoeld in artikel 4 van de wet;  
 
-b. instanties die voor de stichting taken als bedoeld in [artikel 10, eerste lid, onder a, b, c of d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) uitoefenen;  
+b. instanties die voor de stichting taken als bedoeld in artikel 10, eerste lid, onder a, b, c of d, van de wet uitoefenen;  
 
-c. instanties die, daartoe aanvaard door Onze Minister van Veiligheid en Justitie als rechtspersoon, bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de voogdij of de voorlopige voogdij uitoefenen met betrekking tot minderjarige vreemdelingen.   
+c. instanties die, daartoe aanvaard door Onze Minister van Veiligheid en Justitie als rechtspersoon, bedoeld in de artikelen 254, tweede lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, de voogdij of de voorlopige voogdij uitoefenen met betrekking tot minderjarige vreemdelingen.   
 
 ### Artikel  1b  
 
-Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein jeugdgezondheidszorg worden aangewezen: 
+Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein jeugdgezondheidszorg worden aangewezen: 
 
-a. instanties die de in [artikel 5, tweede lid, van de Wet publieke gezondheid](../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) genoemde werkzaamheden in opdracht van het college van burgemeester en wethouders uitvoeren;  
+a. instanties die de in artikel 5, tweede lid, van de Wet publieke gezondheid genoemde werkzaamheden in opdracht van het college van burgemeester en wethouders uitvoeren;  
 
-b. aanbieders van zorg als bedoeld in [artikel 5, tweede lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+b. aanbieders van zorg als bedoeld in artikel 5, tweede lid, onder b, van de wet.   
 
 ### Artikel  1c  
 
-1.  Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein gezondheidszorg worden aangewezen: 
+1.  Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein gezondheidszorg worden aangewezen: 
 
-a. instanties voor verslavingszorg voor wie het op grond van [artikel 35 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) niet verboden is een tarief in rekening te brengen;  
+a. instanties voor verslavingszorg voor wie het op grond van artikel 35 van de Wet marktordening gezondheidszorg niet verboden is een tarief in rekening te brengen;  
 
-b. instanties voor gehandicaptenzorg, die zorg verlenen waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b. instanties voor gehandicaptenzorg, die zorg verlenen waarop aanspraak bestaat op grond van de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;  
 
 c. instanties die integrale eerstelijns geneeskundige zorg aanbieden, zoals die door huisartsen pleegt te geschieden;  
 
-d. ziekenhuizen die krachtens [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) als zodanig zijn toegelaten, voor zover het spoedeisende hulp betreft.     
-2.  Als categorie van functionarissen als bedoeld in [artikel 2b, tweede lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein gezondheidszorg worden artsen aangewezen die integrale eerstelijns geneeskundige zorg aanbieden, zoals die door huisartsen pleegt te geschieden.  
+d. ziekenhuizen die krachtens artikel 5 van de Wet toelating zorginstellingen als zodanig zijn toegelaten, voor zover het spoedeisende hulp betreft.     
+2.  Als categorie van functionarissen als bedoeld in artikel 2b, tweede lid, onder a, van de wet in het domein gezondheidszorg worden artsen aangewezen die integrale eerstelijns geneeskundige zorg aanbieden, zoals die door huisartsen pleegt te geschieden.  
 
 ### Artikel  1d  
 
-1.  Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein onderwijs worden aangewezen: 
+1.  Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein onderwijs worden aangewezen: 
 
-a. scholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+a. scholen als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-b. scholen als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
+b. scholen als bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-c. scholen als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. scholen als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs;  
 
-d. instellingen als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. instellingen als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs;  
 
-e. instellingen voor hoger onderwijs als bedoeld in [artikel 1.2, onder a of b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e. instellingen voor hoger onderwijs als bedoeld in artikel 1.2, onder a of b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-f. contactgemeenten als bedoeld in [artikel 162b, derde lid, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 118h, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 8.3.2, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) ten behoeve van de regionale meld- en coördinatiefunctie.     
-2.  Als categorie van functionarissen als bedoeld in [artikel 2b, tweede lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein onderwijs worden ambtenaren als bedoeld in [artikel 16 van de Leerplichtwet 1969](../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) aangewezen.  
+f. contactgemeenten als bedoeld in artikel 162b, derde lid, van de Wet op de expertisecentra, artikel 118h, derde lid, van de Wet op het voortgezet onderwijs en artikel 8.3.2, derde lid, van de Wet educatie en beroepsonderwijs ten behoeve van de regionale meld- en coördinatiefunctie.     
+2.  Als categorie van functionarissen als bedoeld in artikel 2b, tweede lid, onder a, van de wet in het domein onderwijs worden ambtenaren als bedoeld in artikel 16 van de Leerplichtwet 1969 aangewezen.  
 
 ### Artikel  1e  
 
-1.  Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein maatschappelijke ondersteuning worden aangewezen de instanties voor maatschappelijke ondersteuning als bedoeld in [artikel 1, eerste lid, onder g, onder 2°, 3°, 6°, 7° en 9°, van de Wet maatschappelijke ondersteuning](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+1.  Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein maatschappelijke ondersteuning worden aangewezen de instanties voor maatschappelijke ondersteuning als bedoeld in artikel 1, eerste lid, onder g, onder 2°, 3°, 6°, 7° en 9°, van de Wet maatschappelijke ondersteuning.   
 2.  Een functionaris die werkzaam is voor een instantie als bedoeld in het eerste lid, kan door die instantie slechts worden aangewezen als meldingsbevoegde indien zijn beroep hoofdzakelijk bestaat uit het verlenen van hulp, zorg of bijsturing aan jeugdigen.   
-3.  Als categorie van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein maatschappelijke ondersteuning worden tevens gemeenten voor zover het betreft de coördinatie van doelgroepenbeleid voor jeugdigen aangewezen.  
+3.  Als categorie van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein maatschappelijke ondersteuning worden tevens gemeenten voor zover het betreft de coördinatie van doelgroepenbeleid voor jeugdigen aangewezen.  
 
 ### Artikel  1f  
 
-Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein werk en inkomen worden aangewezen de gemeentelijke kredietbanken, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein werk en inkomen worden aangewezen de gemeentelijke kredietbanken, bedoeld in artikel 1:1 van de Wet op het financieel toezicht. 
 
 ### Artikel  1g  
 
-Als categorieën van instanties als bedoeld in [artikel 2b, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het domein politie en justitie worden aangewezen: 
+Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein politie en justitie worden aangewezen: 
 
-a. de politie, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+a. de politie, bedoeld in artikel 25, eerste lid, van de Politiewet 2012;  
 
-b. Halt-bureaus als bedoeld in [artikel 48f, onder c, van de Wet Justitie-subsidies](../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);  
+b. Halt-bureaus als bedoeld in artikel 48f, onder c, van de Wet Justitie-subsidies;  
 
-c. de regionale locaties van de raad voor de kinderbescherming, bedoeld in [artikel 2 van het Organisatiebesluit raad voor de kinderbescherming 2006](../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/2006/BWBR0019732/README.md).   
+c. de regionale locaties van de raad voor de kinderbescherming, bedoeld in artikel 2 van het Organisatiebesluit raad voor de kinderbescherming 2006.   
 
 ### Artikel  1h  
 
@@ -149,7 +149,7 @@ Een instantie die behoort tot een van de categorieën als bedoeld in de artikele
 ### Artikel  1i  
 
 1.  Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een gemeentelijk signaleringssysteem, draagt het college van burgemeester en wethouders zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.   
-2.  Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een ander digitaal systeem dan een gemeentelijk signaleringssysteem, draagt de daarvoor verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.   
+2.  Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een ander digitaal systeem dan een gemeentelijk signaleringssysteem, draagt de daarvoor verantwoordelijke in de zin van de Wet bescherming persoonsgegevens zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.   
 3.  Een aansluiting als bedoeld in het eerste of tweede lid wordt vermoed voldoende zorgvuldig en veilig te zijn als het voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NTA 8023, Maatschappelijke zorg – Informatiearchitectuur in de jeugdsector – Deel 1 : Landelijke verwijsindex risicojongeren.  
 
 ### Artikel  1j  
@@ -178,11 +178,11 @@ c. het geslacht.
 
 ###Hoofdstuk 2 
 
-####Aanspraken op jeugdzorg ingevolge de [wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md)
+####Aanspraken op jeugdzorg ingevolge de wet
 
 ###Artikel 2 
 
-De aanspraak op jeugdzorg ingevolge de [wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) omvat: jeugdhulp, verblijf en observatiediagnostiek.
+De aanspraak op jeugdzorg ingevolge de wet omvat: jeugdhulp, verblijf en observatiediagnostiek.
 
 ### Artikel  3  
 
@@ -204,9 +204,9 @@ b. de psychosociale, psychische of gedragsproblemen hun oorzaak vinden of mede v
 
 a. de jeugdige geen psychosociale, psychische of gedragsproblemen heeft, dan wel de jeugdige of zijn ouders, stiefouder, of anderen die hem als behorende tot hun gezin verzorgen en opvoeden, de psychosociale, psychische of gedragsproblemen van die jeugdige het hoofd kunnen bieden, al dan niet met jeugdhulp als bedoeld in artikel 3, met behulp van personen uit hun directe omgeving of met behulp van andere voorzieningen die hulp bieden dan zorgaanbieders,  
 
-b. het verblijf noodzakelijk is voor persoonlijke verzorging, begeleiding of behandeling als bedoeld in [artikel 2, eerste lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of zorg als bedoeld in [artikel 2.4 van het Besluit zorgverzekering](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) in verband met een verstandelijke, lichamelijke of zintuiglijke handicap, dan wel een psychiatrische of somatische aandoening of beperking of  
+b. het verblijf noodzakelijk is voor persoonlijke verzorging, begeleiding of behandeling als bedoeld in artikel 2, eerste lid, van het Besluit zorgaanspraken AWBZ of zorg als bedoeld in artikel 2.4 van het Besluit zorgverzekering in verband met een verstandelijke, lichamelijke of zintuiglijke handicap, dan wel een psychiatrische of somatische aandoening of beperking of  
 
-c. het verblijf in een justitiële jeugdinrichting als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) betreft.     
+c. het verblijf in een justitiële jeugdinrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen betreft.     
 3.  In afwijking van het tweede lid, onder a, bestaat aanspraak op verblijf: 
 
 a. indien het een minderjarige betreft die onder voogdij van een stichting staat;  
@@ -217,7 +217,7 @@ b. als door verblijf bij een pleegouder het hoofd kan worden geboden aan de psyc
 ###Artikel 5 
 
 1. Observatiediagnostiek omvat het onderzoeken van een jeugdige gericht op het verkrijgen van gegevens die een stichting nodig heeft voor het nemen van een indicatiebesluit.
-2. Geen aanspraak op observatiediagnostiek bestaat als aannemelijk is dat een jeugdige is aangewezen op zorg als bedoeld in [artikel 5, tweede lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).
+2. Geen aanspraak op observatiediagnostiek bestaat als aannemelijk is dat een jeugdige is aangewezen op zorg als bedoeld in artikel 5, tweede lid, onder b, van de wet.
 3. Aanspraak op observatiediagnostiek bestaat slechts indien voor het verkrijgen van de gegevens, bedoeld in het eerste lid, observatie tijdens verblijf gedurende het etmaal of een deel daarvan noodzakelijk is.
 4. Aanspraak op observatiediagnostiek bestaat voor een termijn van ten hoogste zes weken. De aanspraak kan eenmaal met ten hoogste zes weken worden verlengd.
 
@@ -232,7 +232,7 @@ b. als door verblijf bij een pleegouder het hoofd kan worden geboden aan de psyc
 
 ###Artikel 7 
 
-Als categorie niet rechtmatig in Nederland verblijvende vreemdelingen tot wie de aanspraken ingevolge de [wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) worden uitgebreid, wordt aangemerkt de categorie vreemdelingen die geen rechtmatig verblijf in Nederland hebben en die de leeftijd van achttien jaren nog niet hebben bereikt.
+Als categorie niet rechtmatig in Nederland verblijvende vreemdelingen tot wie de aanspraken ingevolge de wet worden uitgebreid, wordt aangemerkt de categorie vreemdelingen die geen rechtmatig verblijf in Nederland hebben en die de leeftijd van achttien jaren nog niet hebben bereikt.
 
 ###Artikel 8 
 
@@ -245,11 +245,11 @@ Als categorie niet rechtmatig in Nederland verblijvende vreemdelingen tot wie de
 
 ### Artikel  9  
 
-Als vormen van zorg als bedoeld in [artikel 5, tweede lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) worden, voor zover deze zorg of het verblijf betrekking heeft op een jeugdige en verband houdt met een psychiatrische aandoening, aangewezen: 
+Als vormen van zorg als bedoeld in artikel 5, tweede lid, onder b, van de wet worden, voor zover deze zorg of het verblijf betrekking heeft op een jeugdige en verband houdt met een psychiatrische aandoening, aangewezen: 
 
-a. persoonlijke verzorging, begeleiding, verblijf, kortdurend verblijf en voortgezet verblijf als bedoeld in de [artikelen 4](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [6](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [artikel 9a](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [10](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [13, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+a. persoonlijke verzorging, begeleiding, verblijf, kortdurend verblijf en voortgezet verblijf als bedoeld in de artikelen 4, 6, 9, artikel 9a, 10 en 13, tweede lid, van het Besluit zorgaanspraken AWBZ;  
 
-b. geneeskundige zorg en verblijf als bedoeld in de [artikelen 2.4](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md)en [2.10 van het Besluit zorgverzekering](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md).   
+b. geneeskundige zorg en verblijf als bedoeld in de artikelen 2.4en 2.10 van het Besluit zorgverzekering.   
 
 ###Hoofdstuk 5 
 
@@ -257,21 +257,21 @@ b. geneeskundige zorg en verblijf als bedoeld in de [artikelen 2.4](../../../../
 
 ###Artikel 10 
 
-1. Als beroepsgroep als bedoeld in [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) wordt aangewezen de beroepsgroep huisarts.
-2. Met een huisarts wordt gelijkgesteld de arts naar wie de huisarts een jeugdige heeft verwezen, alsmede de andere behandelaar van een jeugdige die in verband met een psychische stoornis een aanspraak heeft op grond van die wet waaraan geen indicatiebesluit ten grondslag ligt, omdat [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) toepassing heeft gevonden.
-3. Met een huisarts wordt bovendien gelijkgesteld de arts, bedoeld in [artikel 47, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), voor zover het betreft jeugdigen die anders dan met toepassing van [artikel 261](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of [305, derde lid, van Boek 1 van het Burgerlijk Wet boek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) in een inrichting zijn geplaatst.
+1. Als beroepsgroep als bedoeld in artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten wordt aangewezen de beroepsgroep huisarts.
+2. Met een huisarts wordt gelijkgesteld de arts naar wie de huisarts een jeugdige heeft verwezen, alsmede de andere behandelaar van een jeugdige die in verband met een psychische stoornis een aanspraak heeft op grond van die wet waaraan geen indicatiebesluit ten grondslag ligt, omdat artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten toepassing heeft gevonden.
+3. Met een huisarts wordt bovendien gelijkgesteld de arts, bedoeld in artikel 47, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen, voor zover het betreft jeugdigen die anders dan met toepassing van artikel 261 of 305, derde lid, van Boek 1 van het Burgerlijk Wet boek in een inrichting zijn geplaatst.
 
 ###Artikel 11 
 
-Als psychische stoornis als bedoeld in [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) wordt aangewezen de psychische stoornis, beschreven op as I of as II van het classificatiesysteem Diagnostic and Statistical Manual of Mental Disorders.
+Als psychische stoornis als bedoeld in artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten wordt aangewezen de psychische stoornis, beschreven op as I of as II van het classificatiesysteem Diagnostic and Statistical Manual of Mental Disorders.
 
 ###Artikel 12 
 
-Als ernst als bedoeld in [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) wordt aangegeven het functioneren van een jeugdige op een psychisch niveau dat leidt tot een score van 40 of minder op de Children’s Global Assessment Scale in de Nederlandse vertaling van 1994 dan wel een score van 50 als het betreft een jeugdige waarbij sprake is van een ernstig verminderd functioneren op één van de in de schaal opgenomen terreinen, terwijl redelijkerwijs vermoed kan worden dat dit verminderde functioneren samenhangt met de psychische stoornis.
+Als ernst als bedoeld in artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten wordt aangegeven het functioneren van een jeugdige op een psychisch niveau dat leidt tot een score van 40 of minder op de Children’s Global Assessment Scale in de Nederlandse vertaling van 1994 dan wel een score van 50 als het betreft een jeugdige waarbij sprake is van een ernstig verminderd functioneren op één van de in de schaal opgenomen terreinen, terwijl redelijkerwijs vermoed kan worden dat dit verminderde functioneren samenhangt met de psychische stoornis.
 
 ###Artikel 13 
 
-Indien [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) toepassing heeft gevonden, geeft de betrokken huisarts, arts of andere behandelaar, bedoeld in artikel 10, tweede lid, aan de stichting, die werkzaam is in de provincie waar de betrokken jeugdige duurzaam verblijft, gemotiveerd aan welke psychische stoornis hij vermoedt aanwezig te zijn en op welk psychisch niveau de jeugdige functioneert.
+Indien artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten toepassing heeft gevonden, geeft de betrokken huisarts, arts of andere behandelaar, bedoeld in artikel 10, tweede lid, aan de stichting, die werkzaam is in de provincie waar de betrokken jeugdige duurzaam verblijft, gemotiveerd aan welke psychische stoornis hij vermoedt aanwezig te zijn en op welk psychisch niveau de jeugdige functioneert.
 
 ###Hoofdstuk 6 
 
@@ -279,7 +279,7 @@ Indien [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../
 
 ### Artikel  14  
 
-1.  Een cliënt heeft, in afwijking van [artikel 3, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), in situaties waarin naar het oordeel van de stichting die werkzaam is in de provincie waarin de jeugdige duurzaam verblijft, onmiddellijke verlening van jeugdzorg als bedoeld in [artikel 5, tweede lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), geboden is, aanspraak op deze jeugdzorg zonder dat die stichting een indicatiebesluit heeft genomen.   
+1.  Een cliënt heeft, in afwijking van artikel 3, derde lid, van de wet, in situaties waarin naar het oordeel van de stichting die werkzaam is in de provincie waarin de jeugdige duurzaam verblijft, onmiddellijke verlening van jeugdzorg als bedoeld in artikel 5, tweede lid, onder a, van de wet, geboden is, aanspraak op deze jeugdzorg zonder dat die stichting een indicatiebesluit heeft genomen.   
 2.  Een aanspraak als bedoeld in het eerste lid vervalt zodra met betrekking tot de cliënt een indicatiebesluit is genomen, doch in ieder geval na vier weken.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing bij plaatsing van een jeugdige in een inrichting.  
 
@@ -293,7 +293,7 @@ Indien [artikel 9b, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](../
 
 ### Artikel  15  
 
-Indien de stichting voorziet dat de zorg waarop een cliënt is aangewezen niet tijdig beschikbaar is, kan zij vervangende zorg aanduiden, waarop de cliënt alsdan is aangewezen. Een cliënt heeft aanspraak op de vervangende zorg tot het moment waarop hij zijn aanspraak op de eerst aangewezen zorg tot gelding heeft gebracht, of de met betrekking tot de vervangende zorg genoemde termijn, bedoeld in [artikel 6, eerste lid, onder c, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), is verstreken. 
+Indien de stichting voorziet dat de zorg waarop een cliënt is aangewezen niet tijdig beschikbaar is, kan zij vervangende zorg aanduiden, waarop de cliënt alsdan is aangewezen. Een cliënt heeft aanspraak op de vervangende zorg tot het moment waarop hij zijn aanspraak op de eerst aangewezen zorg tot gelding heeft gebracht, of de met betrekking tot de vervangende zorg genoemde termijn, bedoeld in artikel 6, eerste lid, onder c, van de wet, is verstreken. 
 
 ### Artikel  16  
 
@@ -301,7 +301,7 @@ Indien ten behoeve van één jeugdige meer dan één cliënt op zorg is aangewez
 
 ### Artikel  17  
 
-Bij regeling van Onze Ministers kan worden geregeld dat een indicatiebesluit inhoudende dat de cliënt is aangewezen op zorg als bedoeld in [artikel 5, tweede lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) wordt vastgelegd op een formulier dat overeenkomt met een bij die regeling vast te stellen model. 
+Bij regeling van Onze Ministers kan worden geregeld dat een indicatiebesluit inhoudende dat de cliënt is aangewezen op zorg als bedoeld in artikel 5, tweede lid, van de wet wordt vastgelegd op een formulier dat overeenkomt met een bij die regeling vast te stellen model. 
 
 ###Paragraaf 2 
 
@@ -331,9 +331,9 @@ Indien de stichting vaststelt dat een jeugdige is aangewezen op observatiediagno
 ### Artikel  21  
 
 1.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in artikel 9, geeft zij in het indicatiebesluit aan op welke van deze vormen de jeugdige is aangewezen.   
-2.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in de [artikelen 4](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of [6 van het Besluit zorgaanspraken AWBZ](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), vermeldt het indicatiebesluit de omvang van de benodigde zorg, uitgedrukt in een minimum en een maximum aantal contacturen, waarbij de marge twintig procent ten opzichte van het gemiddelde van het minimum en maximum bedraagt.  
-3.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in de [artikelen 9](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), onderscheidenlijk [13, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), vermeldt het indicatiebesluit de omvang van het benodigde verblijf, uitgedrukt in het benodigde aantal uren per etmaal en het aantal dagen waarover de uren worden gespreid. Het aantal dagen waarover de uren worden gespreid wordt uitgedrukt in een minimum en maximum aantal dagen, waarbij de marge twintig procent ten opzichte van het gemiddelde van het minimum en het maximum bedraagt.  
-4.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in [artikel 9](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of [artikel 13, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), is, [artikel 13 van het Zorgindicatiebesluit](../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) van overeenkomstige toepassing.  
+2.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in de artikelen 4 of 6 van het Besluit zorgaanspraken AWBZ, vermeldt het indicatiebesluit de omvang van de benodigde zorg, uitgedrukt in een minimum en een maximum aantal contacturen, waarbij de marge twintig procent ten opzichte van het gemiddelde van het minimum en maximum bedraagt.  
+3.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in de artikelen 9, 9a, onderscheidenlijk 13, tweede lid, van het Besluit zorgaanspraken AWBZ, vermeldt het indicatiebesluit de omvang van het benodigde verblijf, uitgedrukt in het benodigde aantal uren per etmaal en het aantal dagen waarover de uren worden gespreid. Het aantal dagen waarover de uren worden gespreid wordt uitgedrukt in een minimum en maximum aantal dagen, waarbij de marge twintig procent ten opzichte van het gemiddelde van het minimum en het maximum bedraagt.  
+4.  Indien de stichting vaststelt dat een jeugdige is aangewezen op een vorm van zorg als bedoeld in artikel 9, 9a of artikel 13, tweede lid, van het Besluit zorgaanspraken AWBZ, is, artikel 13 van het Zorgindicatiebesluit van overeenkomstige toepassing.  
 
 ###Paragraaf 4 
 
@@ -341,7 +341,7 @@ Indien de stichting vaststelt dat een jeugdige is aangewezen op observatiediagno
 
 ###Artikel 22 
 
-Indien de stichting vaststelt dat een jeugdige is aangewezen op verblijf in een inrichting geeft zij in het indicatiebesluit aan of sprake moet zijn van verblijf in een beperkt beveiligde of normaal beveiligde inrichting als bedoeld in [artikel 14, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).
+Indien de stichting vaststelt dat een jeugdige is aangewezen op verblijf in een inrichting geeft zij in het indicatiebesluit aan of sprake moet zijn van verblijf in een beperkt beveiligde of normaal beveiligde inrichting als bedoeld in artikel 14, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen.
 
 ### Hoofdstuk  8  
 
@@ -353,8 +353,8 @@ Indien de stichting vaststelt dat een jeugdige is aangewezen op verblijf in een 
 
 a. verblijf bij een pleegouder van een jeugdige die al langer dan twee jaar bij eenzelfde pleegouder verblijft en voorzien wordt dat van terugkeer naar het gezin van herkomst geen sprake kan zijn;  
 
-b. een aanspraak op een vorm van zorg als bedoeld in [artikel 5, tweede lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in verband met een aandoening die maakt dat een jeugdige langer dan twee jaar is aangewezen op eenzelfde vorm van zorg en voorzien wordt dat de jeugdige op deze vorm van zorg aangewezen blijft.     
-2.  De in het eerste lid bedoelde termijn is met betrekking tot rechtmatig in Nederland verblijvende minderjarige vreemdelingen wier verblijf tijdelijk is als bedoeld in [artikel 3.5, tweede lid, aanhef en onder i, van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ten hoogste een half jaar.   
+b. een aanspraak op een vorm van zorg als bedoeld in artikel 5, tweede lid, onder b, van de wet in verband met een aandoening die maakt dat een jeugdige langer dan twee jaar is aangewezen op eenzelfde vorm van zorg en voorzien wordt dat de jeugdige op deze vorm van zorg aangewezen blijft.     
+2.  De in het eerste lid bedoelde termijn is met betrekking tot rechtmatig in Nederland verblijvende minderjarige vreemdelingen wier verblijf tijdelijk is als bedoeld in artikel 3.5, tweede lid, aanhef en onder i, van het Vreemdelingenbesluit 2000, ten hoogste een half jaar.   
 3.  De in het eerste lid bedoelde termijn is met betrekking tot vreemdelingen, bedoeld in artikel 7, in overeenstemming met de verwachte duur van het verblijf in Nederland, en ten hoogste een half jaar.  
 
 ### Hoofdstuk  8a  
@@ -388,7 +388,7 @@ a. indien de geautoriseerde een natuurlijke persoon is:
 
 4°. geboorteplaats;  
 
-5°. titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);    
+5°. titel in de zin van de Wet op de beroepen in de individuele gezondheidszorg;    
 
 b. indien de geautoriseerde een rechtspersoon is: de naam.     
 2.  In de autorisatielijst wordt voorts per inschrijving opgenomen: 
@@ -413,7 +413,7 @@ De geautoriseerde stelt Onze Minister onmiddellijk op de hoogte van een wijzigin
 a. op verzoek van de geautoriseerde, of  
 
 b. indien de geautoriseerde geen zorgaanbieder meer is.     
-2.  Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), is geschorst, is zijn opname in de autorisatielijst van jeugdzorgaanbieders geschorst.  
+2.  Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg, is geschorst, is zijn opname in de autorisatielijst van jeugdzorgaanbieders geschorst.  
 
 ### Artikel  24e  
 
@@ -422,7 +422,7 @@ b. indien de geautoriseerde geen zorgaanbieder meer is.
 a. een zorgaanbieder is opgenomen op de autorisatielijst;  
 
 b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.     
-2.  Indien het verzoek wordt gedaan door de voorzieningen als bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.  
+2.  Indien het verzoek wordt gedaan door de voorzieningen als bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer, wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.  
 
 ### §  2  
 
@@ -430,11 +430,11 @@ b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.
 
 ### Artikel  24f  
 
-Zorgaanbieders kunnen uitsluitend gebruik maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) uitsluitend door tussenkomst van de SBV-Z. 
+Zorgaanbieders kunnen uitsluitend gebruik maken van de voorzieningen, bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer uitsluitend door tussenkomst van de SBV-Z. 
 
 ### Artikel  24g  
 
-Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De [artikelen 18 tot en met 25](../../../../../../../AMvB/besluit/gebruik/burgerservicenummer/in/de/zorg/BWBR0023902/README.md) en [33 van het Besluit gebruik burgerservicenummer in de zorg](../../../../../../../AMvB/besluit/gebruik/burgerservicenummer/in/de/zorg/BWBR0023902/README.md) zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde. 
+Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De artikelen 18 tot en met 25 en 33 van het Besluit gebruik burgerservicenummer in de zorg zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde. 
 
 ###Hoofdstuk 9 
 
@@ -446,7 +446,7 @@ Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toe
 
 ###Artikel 25 
 
-1. Medewerkers die zijn belast met de uitvoering van de taken, bedoeld in [artikel 5, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), voogdijwerkers, gezinsvoogdijwerkers, jeugdreclasseringswerkers en medewerkers die taken uitvoeren van een advies- en meldpunt kindermishandeling, alsmede medewerkers die belast zijn met de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder f tot en met j, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), zijn werkzaam op basis van een arbeidsovereenkomst met de stichting of op basis van een detacheringsovereenkomst tussen hun werkgever en de stichting.
+1. Medewerkers die zijn belast met de uitvoering van de taken, bedoeld in artikel 5, eerste lid, van de wet, voogdijwerkers, gezinsvoogdijwerkers, jeugdreclasseringswerkers en medewerkers die taken uitvoeren van een advies- en meldpunt kindermishandeling, alsmede medewerkers die belast zijn met de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onder f tot en met j, van de wet, zijn werkzaam op basis van een arbeidsovereenkomst met de stichting of op basis van een detacheringsovereenkomst tussen hun werkgever en de stichting.
 2. In afwijking van het eerste lid, kan een medewerker anders dan op basis van een arbeidsovereenkomst of detacheringsovereenkomst bij de stichting werkzaam zijn:
 
 a.indien hij zodanig gespecialiseerd is dat een arbeidsovereenkomst of een detacheringsovereenkomst een doelmatige werkwijze van de stichting belemmert;
@@ -457,7 +457,7 @@ b.ten behoeve van een tijdelijke functievervulling.
 ###Artikel 26 
 
 1. De stichting is zeven maal vierentwintig uur per week telefonisch bereikbaar.
-2. De stichting is zeven maal vierentwintig uur per week beschikbaar voor situaties waarin onmiddellijke uitvoering van de taken, bedoeld in artikel 3, vijfde lid, of [artikel 10, eerste lid, onder a tot en met f, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), geboden is.
+2. De stichting is zeven maal vierentwintig uur per week beschikbaar voor situaties waarin onmiddellijke uitvoering van de taken, bedoeld in artikel 3, vijfde lid, of artikel 10, eerste lid, onder a tot en met f, van de wet, geboden is.
 
 ###Artikel 27 
 
@@ -466,7 +466,7 @@ b.ten behoeve van een tijdelijke functievervulling.
 
 ###Artikel 28 
 
-De stichting stuurt, onverminderd [artikel 51 van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), aan de huisarts van de cliënt een afschrift van het indicatiebesluit of het document waarin de zorg, bedoeld in [artikel 8, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), is vastgelegd.
+De stichting stuurt, onverminderd artikel 51 van de wet, aan de huisarts van de cliënt een afschrift van het indicatiebesluit of het document waarin de zorg, bedoeld in artikel 8, van de wet, is vastgelegd.
 
 ###Paragraaf 2 
 
@@ -500,7 +500,7 @@ h.de juridische aspecten van de haar opgedragen taken.
 
 ###Artikel 30 
 
-1. Ter uitvoering van de taak, bedoeld in [artikel 5, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), beziet de stichting de problemen van een cliënt en de ernst hiervan. Zij onderzoekt hiertoe de psychosociale, psychische of gedragsproblemen, dan wel de psychiatrische aandoening van de jeugdige, de problemen van de cliënt, niet zijnde de jeugdige, die het onbedreigd opgroeien van de jeugdige belemmeren, en besteedt bovendien aandacht aan de opvoedingssituatie.
+1. Ter uitvoering van de taak, bedoeld in artikel 5, eerste lid, van de wet, beziet de stichting de problemen van een cliënt en de ernst hiervan. Zij onderzoekt hiertoe de psychosociale, psychische of gedragsproblemen, dan wel de psychiatrische aandoening van de jeugdige, de problemen van de cliënt, niet zijnde de jeugdige, die het onbedreigd opgroeien van de jeugdige belemmeren, en besteedt bovendien aandacht aan de opvoedingssituatie.
 2. De stichting betrekt in haar onderzoek tevens factoren die de ontwikkeling van de jeugdige gunstig beïnvloeden of kunnen beïnvloeden.
 
 ###Artikel 31 
@@ -509,16 +509,16 @@ De stichting beziet hoe de problemen met inzet van jeugdzorg of andere zorg kunn
 
 ###Artikel 32 
 
-Bij de uitvoering van de taken, bedoeld in de [artikelen 5, eerste lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [10, eerste lid, onder a tot en met e, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), vindt een multidisciplinaire beoordeling van de problemen plaats, indien de aard van de problematiek dit vergt.
+Bij de uitvoering van de taken, bedoeld in de artikelen 5, eerste lid en 10, eerste lid, onder a tot en met e, van de wet, vindt een multidisciplinaire beoordeling van de problemen plaats, indien de aard van de problematiek dit vergt.
 
 ###Artikel 33 
 
-Bij regeling van Onze Ministers kunnen nadere regels worden gesteld omtrent de werkwijze van de stichting bij de uitvoering van de in de [artikelen 5, eerste lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [10, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), genoemde taken indien het niveau van de uitvoering door de bureaus jeugdzorg dit vereist.
+Bij regeling van Onze Ministers kunnen nadere regels worden gesteld omtrent de werkwijze van de stichting bij de uitvoering van de in de artikelen 5, eerste lid, en 10, eerste lid, van de wet, genoemde taken indien het niveau van de uitvoering door de bureaus jeugdzorg dit vereist.
 
 ###Artikel 34 
 
-1. Het indicatiebesluit komt niet tot stand dan nadat over een ontwerp daarvan in ieder geval overleg is gepleegd met de aanvrager en met degene wiens instemming is vereist op grond van [artikel 7, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).
-2. In een geval als bedoeld in [artikel 7, zesde lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) neemt de stichting geen indicatiebesluit dan na overleg met het openbaar ministerie of de raad voor de kinderbescherming.
+1. Het indicatiebesluit komt niet tot stand dan nadat over een ontwerp daarvan in ieder geval overleg is gepleegd met de aanvrager en met degene wiens instemming is vereist op grond van artikel 7, van de wet.
+2. In een geval als bedoeld in artikel 7, zesde lid, onder b, van de wet neemt de stichting geen indicatiebesluit dan na overleg met het openbaar ministerie of de raad voor de kinderbescherming.
 
 ### Artikel  35  
 
@@ -536,11 +536,11 @@ De stichting kan, alvorens het indicatiebesluit te nemen, een ontwerp daarvan te
 
 ### Artikel  37  
 
-Indien de stichting ten aanzien van een jeugdige meer dan één van de jeugdbeschermings- en reclasseringstaken uitoefent, bevat het plan, bedoeld in [artikel 13, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), een beschrijving van de wijze waarop de uitvoering van de verschillende taken op elkaar worden afgestemd. 
+Indien de stichting ten aanzien van een jeugdige meer dan één van de jeugdbeschermings- en reclasseringstaken uitoefent, bevat het plan, bedoeld in artikel 13, derde lid, van de wet, een beschrijving van de wijze waarop de uitvoering van de verschillende taken op elkaar worden afgestemd. 
 
 ### Artikel  38  
 
-Onverminderd [artikel 10, eerste lid, onder i, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) stelt de stichting bij beëindiging van de jeugdbeschermings- en reclasseringstaken ten aanzien van de jeugdige een rapport op waarin beschreven wordt op welke wijze zij haar taak heeft verricht. In het rapport wordt aangegeven of de jeugdige naar het oordeel van de stichting, behoefte heeft aan nazorg en op welke wijze hierin kan worden voorzien. 
+Onverminderd artikel 10, eerste lid, onder i, van de wet stelt de stichting bij beëindiging van de jeugdbeschermings- en reclasseringstaken ten aanzien van de jeugdige een rapport op waarin beschreven wordt op welke wijze zij haar taak heeft verricht. In het rapport wordt aangegeven of de jeugdige naar het oordeel van de stichting, behoefte heeft aan nazorg en op welke wijze hierin kan worden voorzien. 
 
 ### Artikel  39  
 
@@ -552,7 +552,7 @@ Bij regeling van Onze Ministers kunnen regels worden gesteld over het verrichten
 
 ###Artikel 40 
 
-1. De stichting stelt uiterlijk zes weken nadat de voogdij aan haar is opgedragen en zij hiervan in kennis is gesteld, een plan vast als bedoeld in [artikel 13, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).
+1. De stichting stelt uiterlijk zes weken nadat de voogdij aan haar is opgedragen en zij hiervan in kennis is gesteld, een plan vast als bedoeld in artikel 13, derde lid, van de wet.
 2. Het plan bevat in ieder geval:
 
 a.een beschrijving van de doelen die met de voogdij worden nagestreefd, zo nodig uitgesplitst in doelen op korte en lange termijn,
@@ -595,7 +595,7 @@ b.de medewerker van de stichting die de voogdijwerker bij afwezigheid vervangt.
 
 ###Artikel 43 
 
-1. De stichting stelt uiterlijk zes weken nadat de minderjarige onder haar toezicht is gesteld en zij hiervan in kennis is gesteld, een plan vast als bedoeld in [artikel 13, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).
+1. De stichting stelt uiterlijk zes weken nadat de minderjarige onder haar toezicht is gesteld en zij hiervan in kennis is gesteld, een plan vast als bedoeld in artikel 13, derde lid, van de wet.
 2. Het plan bevat in ieder geval:
 
 a.een beschrijving van de doelen die met de ondertoezichtstelling worden nagestreefd, zo nodig uitgesplitst in doelen op korte en lange termijn,
@@ -628,12 +628,12 @@ b.de medewerker van de stichting die de gezinsvoogdijwerker bij diens afwezighei
 
 c.informatie over de bevoegdheden van de stichting bij de uitoefening van de ondertoezichtstelling en
 
-d.de wijze waarop een verzoek als bedoeld in [artikel 259, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [artikel 260, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [artikel 263, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) moet worden gedaan.
+d.de wijze waarop een verzoek als bedoeld in artikel 259, eerste lid, artikel 260, eerste lid, en artikel 263, tweede lid, van Boek 1 van het Burgerlijk Wetboek moet worden gedaan.
 3. De stichting kan, al dan niet op verzoek van de minderjarige, de met het gezag belaste ouder of voogd, een andere medewerker als gezinsvoogdijwerker aanwijzen.
 
 ###Artikel 45 
 
-De stichting beziet bij de uitoefening van de ondertoezichtstelling regelmatig of een ontheffing van de ouders als bedoeld in [artikel 268 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) overwogen moet worden. Zodra de stichting tot het oordeel komt dat een ontheffing overwogen dient te worden, stelt zij de raad voor de kinderbescherming hiervan in kennis.
+De stichting beziet bij de uitoefening van de ondertoezichtstelling regelmatig of een ontheffing van de ouders als bedoeld in artikel 268 van Boek 1 van het Burgerlijk Wetboek overwogen moet worden. Zodra de stichting tot het oordeel komt dat een ontheffing overwogen dient te worden, stelt zij de raad voor de kinderbescherming hiervan in kennis.
 
 ###Paragraaf 7 
 
@@ -641,7 +641,7 @@ De stichting beziet bij de uitoefening van de ondertoezichtstelling regelmatig o
 
 ###Artikel 46 
 
-1. De stichting stelt uiterlijk zes weken nadat zij een taak, bedoeld in [artikel 10, eerste lid, onder c of d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) heeft gekregen en zij hiervan in kennis is gesteld, een plan vast als bedoeld in [artikel 13, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).
+1. De stichting stelt uiterlijk zes weken nadat zij een taak, bedoeld in artikel 10, eerste lid, onder c of d, van de wet heeft gekregen en zij hiervan in kennis is gesteld, een plan vast als bedoeld in artikel 13, derde lid, van de wet.
 2. Het plan bevat in ieder geval:
 
 a.een beschrijving van de doelen die met de jeugdreclassering worden nagestreefd , zo nodig uitgesplitst in doelen op korte en lange termijn,
@@ -664,7 +664,7 @@ b.de ouders, voogd of anderen die de jeugdige als behorend tot hun gezin verzorg
 
 ###Artikel 47 
 
-1. De stichting wijst binnen vijf dagen nadat zij een taak, bedoeld in [artikel 10, eerste lid, onder c of d van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) heeft gekregen en zij daarvan op de hoogte is gesteld, een jeugdreclasseringswerker aan, en doet hiervan mededeling aan de jeugdige en de met het gezag belaste ouder, voogd of anderen die de jeugdige als behorend tot hun gezin verzorgen en opvoeden.
+1. De stichting wijst binnen vijf dagen nadat zij een taak, bedoeld in artikel 10, eerste lid, onder c of d van de wet heeft gekregen en zij daarvan op de hoogte is gesteld, een jeugdreclasseringswerker aan, en doet hiervan mededeling aan de jeugdige en de met het gezag belaste ouder, voogd of anderen die de jeugdige als behorend tot hun gezin verzorgen en opvoeden.
 2. In deze mededeling wordt tevens opgenomen:
 
 a.de datum van het eerste contact van de jeugdige met de jeugdreclasseringswerker dat uiterlijk vijf dagen nadat de stichting de taak als bedoeld in eerste lid heeft gekregen, plaats vindt en
@@ -674,7 +674,7 @@ b.de medewerker die de jeugdreclasseringswerker bij afwezigheid vervangt.
 ###Artikel 48 
 
 1. Onverminderd de aan de raad voor de kinderbescherming toekomende taken en bevoegdheden, voldoet de jeugdreclassering aan verzoeken van de rechter en het openbaar ministerie om advies omtrent een jeugdige die wordt verdacht van een strafbaar feit of die op grond daarvan is veroordeeld.
-2. De jeugdreclassering brengt voor zover het de uitvoering betreft van de taak, bedoeld in [artikel 10, eerste lid, onder c en d](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), geregeld verslag uit aan het openbaar ministerie dat is belast met het toezicht op de naleving van de voorwaarden, over de wijze waarop de jeugdige zich houdt aan de voorwaarden door de rechter of het openbaar ministerie opgelegd.
+2. De jeugdreclassering brengt voor zover het de uitvoering betreft van de taak, bedoeld in artikel 10, eerste lid, onder c en d, geregeld verslag uit aan het openbaar ministerie dat is belast met het toezicht op de naleving van de voorwaarden, over de wijze waarop de jeugdige zich houdt aan de voorwaarden door de rechter of het openbaar ministerie opgelegd.
 3. Indien de jeugdige een opgelegde voorwaarde niet of niet geheel nakomt, meldt de jeugdreclassering dit onverwijld aan het openbaar ministerie.
 4. De jeugdreclassering zendt de raad voor de kinderbescherming een afschrift van het verslag, bedoeld in het tweede lid en de melding, bedoeld in het derde lid.
 
@@ -708,7 +708,7 @@ Bij een advies- en meldpunt kindermishandeling is in ieder geval een arts werkza
 
 ###Artikel 53 
 
-Onverminderd artikel 27, draagt de stichting er zorg voor dat aan iedere betrokkene bij een advies, melding of onderzoek naar aanleiding van een melding bij het eerste contact informatie wordt verschaft over de procedure met betrekking tot een advies, melding of onderzoek, de verwerking van persoonsgegevens, met inachtneming van de [artikelen 43](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [53](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [54 van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), het recht op inzage in of afschrift van de hem betreffende bescheiden alsmede de wijze van behandeling van klachten. Als betrokkenen worden aangemerkt degene die advies vraagt, degene die een melding doet, degene op wie een melding betrekking heeft en degene die om informatie in het kader van een onderzoek naar aanleiding van een melding wordt verzocht.
+Onverminderd artikel 27, draagt de stichting er zorg voor dat aan iedere betrokkene bij een advies, melding of onderzoek naar aanleiding van een melding bij het eerste contact informatie wordt verschaft over de procedure met betrekking tot een advies, melding of onderzoek, de verwerking van persoonsgegevens, met inachtneming van de artikelen 43, 53 en 54 van de wet, het recht op inzage in of afschrift van de hem betreffende bescheiden alsmede de wijze van behandeling van klachten. Als betrokkenen worden aangemerkt degene die advies vraagt, degene die een melding doet, degene op wie een melding betrekking heeft en degene die om informatie in het kader van een onderzoek naar aanleiding van een melding wordt verzocht.
 
 ###Artikel 54 
 
@@ -718,7 +718,7 @@ Onverminderd artikel 27, draagt de stichting er zorg voor dat aan iedere betrokk
 
 ###Artikel 55 
 
-1. In dit artikel wordt onder persoonsgegeven verstaan hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+1. In dit artikel wordt onder persoonsgegeven verstaan hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens.
 2. Een advies- en meldpunt kindermishandeling verstrekt aan degene op de persoonsgegevens betrekking hebben, inlichtingen over de herkomst van de persoonsgegevens die het naar aanleiding van een melding verkrijgt.
 3. In afwijking van het tweede lid verstrekt het advies- en meldpunt kindermishandeling geen inlichtingen over de herkomst van persoonsgegevens die het naar aanleiding van een melding heeft verkregen indien:
 
@@ -740,11 +740,11 @@ b.het andere personen betreft dan die bedoeld onder a, behoudens voor zover zij 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a.  *klachtencommissie:* klachtencommissie, bedoeld in [artikel 68 van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), voor zover deze klachten behandelt over een beslissing als bedoeld in [artikel 29w, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of over de toepassing van [artikel 29t van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+a.  *klachtencommissie:* klachtencommissie, bedoeld in artikel 68 van de wet, voor zover deze klachten behandelt over een beslissing als bedoeld in artikel 29w, eerste lid, van de wet of over de toepassing van artikel 29t van de wet;  
 
-b.  *klacht:* klacht als bedoeld in [artikel 29w, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+b.  *klacht:* klacht als bedoeld in artikel 29w, eerste lid, van de wet.  
 
-c.  *klager:* degene die een klacht als bedoeld in [artikel 29w, eerste lid van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), indient.   
+c.  *klager:* degene die een klacht als bedoeld in artikel 29w, eerste lid van de wet, indient.   
 
 ### Artikel  55b  
 
@@ -763,7 +763,7 @@ a. een jurist,
 
 b. een gekwalificeerde gedragswetenschapper, alsmede  
 
-c. een arts, indien het een klacht betreft tegen een geneeskundige behandelingsmethode als bedoeld in [artikel 29p, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), niet zijnde een behandeling van een stoornis van de geestvermogens of een psychiater, indien het een klacht betreft tegen een geneeskundige behandelingsmethode als bedoeld in [artikel 29p, derde lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) indien het gaat om een behandeling van een stoornis van de geestvermogens.   
+c. een arts, indien het een klacht betreft tegen een geneeskundige behandelingsmethode als bedoeld in artikel 29p, derde lid, van de wet, niet zijnde een behandeling van een stoornis van de geestvermogens of een psychiater, indien het een klacht betreft tegen een geneeskundige behandelingsmethode als bedoeld in artikel 29p, derde lid, van de wet indien het gaat om een behandeling van een stoornis van de geestvermogens.   
 
 ###Hoofdstuk 10 
 
@@ -809,22 +809,22 @@ d.een beschrijving van de werkwijze van de stichting en de raad voor de kinderbe
 e.de wijze waarop de raad voor de kinderbescherming de stichting informeert over de resultaten van zijn onderzoek.
 3. In het protocol worden met betrekking tot het indicatiebesluit in ieder geval vastgelegd:
 
-a.de procedure die de stichting hanteert bij het nemen van een indicatiebesluit ingeval de raad voor de kinderbescherming voornemens is een machtiging als bedoeld in [artikel 261, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) te verzoeken en;
+a.de procedure die de stichting hanteert bij het nemen van een indicatiebesluit ingeval de raad voor de kinderbescherming voornemens is een machtiging als bedoeld in artikel 261, eerste lid, van Boek 1 van het Burgerlijk Wetboek te verzoeken en;
 
-b.een beschrijving van de criteria op grond waarvan de raad voor de kinderbescherming een indicatiebesluit in de gevallen, bedoeld in [artikel 7, zesde lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), verzoekt.
+b.een beschrijving van de criteria op grond waarvan de raad voor de kinderbescherming een indicatiebesluit in de gevallen, bedoeld in artikel 7, zesde lid, onder b, van de wet, verzoekt.
 4. In het protocol wordt met betrekking tot de jeugdreclassering in ieder geval vastgelegd:
 
-a.een omschrijving van de criteria op grond waarvan de raad voor de kinderbescherming zijn bevoegdheid, bedoeld in [artikel 10, tweede lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), gebruikt en;
+a.een omschrijving van de criteria op grond waarvan de raad voor de kinderbescherming zijn bevoegdheid, bedoeld in artikel 10, tweede lid, van de wet, gebruikt en;
 
-b.de wijze van samenwerking in het kader van de taak, bedoeld in [artikel 77hh van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).
+b.de wijze van samenwerking in het kader van de taak, bedoeld in artikel 77hh van het Wetboek van Strafrecht.
 
 ### Hoofdstuk  11  
 
-####Rechtspersonen aanvaard als bedoeld in de [artikelen 254](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [302 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)
+####Rechtspersonen aanvaard als bedoeld in de artikelen 254 en 302 van Boek 1 van het Burgerlijk Wetboek
 
 ### Artikel  61  
 
-1. Op een door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon, bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn de artikelen 26, 27, 29, eerste lid, onder b en h, en 38 tot en met 45 van overeenkomstige toepassing, met dien verstande dat de wijze van uitvoering van de taken door de rechtspersoon past bij de aard van het verblijf van de minderjarige en zijn verwachte verblijfsduur.  
+1. Op een door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon, bedoeld in de artikelen 254, tweede lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek zijn de artikelen 26, 27, 29, eerste lid, onder b en h, en 38 tot en met 45 van overeenkomstige toepassing, met dien verstande dat de wijze van uitvoering van de taken door de rechtspersoon past bij de aard van het verblijf van de minderjarige en zijn verwachte verblijfsduur.  
 2. De rechtspersoon, bedoeld in het eerste lid, die de voogdij uitoefent over een minderjarige zorgt dat die minderjarige wordt ondergebracht:
 
 a.bij meerderjarige familieleden;
@@ -841,11 +841,11 @@ d.in andere voor minderjarige geschikte tehuizen. Voorzover mogelijk is de verbl
 
 ###Artikel 62 
 
-Voor de toepassing van dit hoofdstuk is onder stichting mede begrepen een rechtspersoon als bedoeld in de [artikelen 254, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).
+Voor de toepassing van dit hoofdstuk is onder stichting mede begrepen een rechtspersoon als bedoeld in de artikelen 254, tweede lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  63  
 
-Het verlenen door de vertrouwenspersoon van ondersteuning in aangelegenheden samenhangend met de door de stichting uitgeoefende taken onderscheidenlijk aangelegenheden samenhangend met de door de zorgaanbieder geboden jeugdzorg, bedoeld in [artikel 1, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), is met name gericht op de uitoefening door de cliënt van zijn rechten. 
+Het verlenen door de vertrouwenspersoon van ondersteuning in aangelegenheden samenhangend met de door de stichting uitgeoefende taken onderscheidenlijk aangelegenheden samenhangend met de door de zorgaanbieder geboden jeugdzorg, bedoeld in artikel 1, eerste lid, van de wet, is met name gericht op de uitoefening door de cliënt van zijn rechten. 
 
 ###Artikel 64 
 
@@ -873,7 +873,7 @@ De vertrouwenspersoon die ondersteuning verleent aan een cliënt, onthoudt zich 
 
 ###Artikel 69 
 
-Als vorm van zorg waarvoor een bijdrage als bedoeld in de [artikelen 69](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [70 van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is verschuldigd, wordt aangewezen een tot gelding gebrachte aanspraak op verblijf.
+Als vorm van zorg waarvoor een bijdrage als bedoeld in de artikelen 69 en 70 van de wet is verschuldigd, wordt aangewezen een tot gelding gebrachte aanspraak op verblijf.
 
 ### Artikel  70  
 
@@ -895,29 +895,29 @@ Bij ministeriële regeling worden de bedragen, genoemd in artikel 70, onder a, j
 
 ###Artikel 71a 
 
-Het bedrag per maand, bedoeld in [artikel 71, eerste lid, onder e, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), wordt vastgesteld op € 226,89.
+Het bedrag per maand, bedoeld in artikel 71, eerste lid, onder e, van de wet, wordt vastgesteld op € 226,89.
 
 ### Artikel 71b 
 
 Het Landelijk Bureau Inning Onderhoudsbijdragen kan de verschuldigde ouderbijdrage slechts buiten invordering stellen indien het betreft een bijdrageplichtige die:
 
-a. algemene bijstand ontvangt op grond van [artikel 20, eerste lid](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), of [artikel 23, eerste lid, onder a, van de Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md); 
+a. algemene bijstand ontvangt op grond van artikel 20, eerste lid, of artikel 23, eerste lid, onder a, van de Wet werk en bijstand; 
 
-b.een verstrekking ontvangt als bedoeld in [artikel 9, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) en geen ander inkomen heeft;
+b.een verstrekking ontvangt als bedoeld in artikel 9, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 en geen ander inkomen heeft;
 
-c.zak- en kleedgeld ontvangt op grond van [artikel 41 van het Reglement verpleging ter beschikking gestelden](../../../../../../../AMvB/reglement/verpleging/ter/beschikking/gestelden/BWBR0008690/README.md) of;
+c.zak- en kleedgeld ontvangt op grond van artikel 41 van het Reglement verpleging ter beschikking gestelden of;
 
-d.rechtens zijn vrijheid is ontnomen en de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt in een penitentiaire inrichting, in een inrichting voor de verpleging van ter beschikking gestelden, in een inrichting als bedoeld in [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) of in een psychiatrisch ziekenhuis als bedoeld in [artikel 1, eerste lid, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) en geen inkomen heeft.
+d.rechtens zijn vrijheid is ontnomen en de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt in een penitentiaire inrichting, in een inrichting voor de verpleging van ter beschikking gestelden, in een inrichting als bedoeld in artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen of in een psychiatrisch ziekenhuis als bedoeld in artikel 1, eerste lid, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en geen inkomen heeft.
 
 ### Artikel  72  
 
 1.  De hoogte van de eigen bijdrage in de kosten van verblijf gedurende het etmaal van een jeugdige die over een inkomen beschikt of die recht kan doen gelden op een inkomen, wordt vastgesteld op een bedrag gelijk aan het netto-maandinkomen, verminderd met eenvierde van het minimumloon dat geldt voor een vijftienjarige of indien de jeugdige zestien jaar of ouder is, het voor die leeftijd geldende minimumloon.   
 2.  De eigen bijdrage berekend volgens het eerste lid, wordt voor een jeugdige met een netto jaarinkomen uit tegenwoordige arbeid verminderd met een vierde van deze bijdrage. Indien het inkomen uit tegenwoordige arbeid minder is dan € 635,29 op jaarbasis wordt deze bijdrage verminderd met dat inkomen.   
-3.  Indien het inkomen, bedoeld in het eerste lid betrekking heeft op een uitkering ingevolge de [Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), wordt de bijdrage verminderd met: 
+3.  Indien het inkomen, bedoeld in het eerste lid betrekking heeft op een uitkering ingevolge de Wet studiefinanciering 2000, wordt de bijdrage verminderd met: 
 
 a. het deel van de uitkering dat volgens de normen van het Ministerie van Onderwijs, Cultuur en Wetenschappen bedoeld is voor boeken, leermiddelen of onderwijsbijdrage, en  
 
-b.  de te betalen premie voor een door of ten behoeve van de jeugdige gesloten zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).     
+b.  de te betalen premie voor een door of ten behoeve van de jeugdige gesloten zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet.     
 4.  De eigen bijdrage is niet hoger dan de kosten van het verblijf.  
 
 ###Artikel 73 
@@ -937,9 +937,9 @@ b.  de te betalen premie voor een door of ten behoeve van de jeugdige gesloten z
 
 In dit hoofdstuk wordt verstaan onder: 
 
-1. uitkering bureau jeugdzorg: de uitkering, bedoeld in [artikel 37, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+1. uitkering bureau jeugdzorg: de uitkering, bedoeld in artikel 37, eerste lid, onder a, van de wet;  
 
-2. uitkering zorgaanbod: de uitkering, bedoeld in [artikel 37, eerste lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2. uitkering zorgaanbod: de uitkering, bedoeld in artikel 37, eerste lid, onder b, van de wet.   
 
 ### Paragraaf  2  
 
@@ -951,7 +951,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 a. een bedrag voor de uitvoering van de jeugdbeschermings- en reclasseringstaken, op basis van het aantal minderjarigen voor wie de stichting deze taken heeft uitgevoerd in het jaar voorafgaand aan het jaar waarvoor de uitkering wordt verstrekt en de daartoe vastgestelde normbedragen, en  
 
-b. een bedrag voor de uitvoering van de overige wettelijke taken, dat overeenkomt met het verschil tussen het bedrag dat de provinciebesturen ontvingen in het jaar voorafgaande aan het jaar waarin de uitkering wordt verstrekt en het bedrag bedoeld in artikel 73e, vermeerderd met een door Onze Ministers vast te stellen bedrag, dat is gerelateerd aan de uitvoering door de stichting van de taak, bedoeld in [artikel 5, tweede lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en de uitvoering door de stichting van de taak, bedoeld in artikel 5 van de wet.     
+b. een bedrag voor de uitvoering van de overige wettelijke taken, dat overeenkomt met het verschil tussen het bedrag dat de provinciebesturen ontvingen in het jaar voorafgaande aan het jaar waarin de uitkering wordt verstrekt en het bedrag bedoeld in artikel 73e, vermeerderd met een door Onze Ministers vast te stellen bedrag, dat is gerelateerd aan de uitvoering door de stichting van de taak, bedoeld in artikel 5, tweede lid, onder b, van de wet, en de uitvoering door de stichting van de taak, bedoeld in artikel 5 van de wet.     
 2.  De normbedragen, bedoeld in het eerste lid, onder a, worden per onderscheiden taak vastgesteld bij regeling van Onze Ministers.  
 
 ### Artikel  73c  
@@ -961,20 +961,20 @@ b. een bedrag voor de uitvoering van de overige wettelijke taken, dat overeenkom
 a. de voorlopige vaststelling door vermenigvuldiging van het aantal minderjarigen voor wie de stichting in het tweede jaar voorafgaand aan het jaar waarvoor de uitkering wordt verstrekt, de jeugdbeschermings- en reclasseringstaken heeft uitgevoerd, met de vastgestelde normbedragen, en  
 
 b. de definitieve vaststelling door vermenigvuldiging van het aantal minderjarigen voor wie de stichting in het eerste jaar, voorafgaand aan het jaar waarvoor de uitkering wordt verstrekt, de jeugdbeschermings- en reclasseringstaken heeft uitgevoerd, met de vastgestelde normbedragen.     
-2.  Het aantal minderjarigen, bedoeld in het eerste lid, is het gemiddelde van het aantal minderjarigen op de eerste dag van elke kalendermaand met uitsluiting van het aantal minderjarigen voor wie een persoon in dienst van een landelijke instelling als bedoeld in [artikel 104, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), de taak uitoefent, met uitzondering van de taken als bedoeld in [artikel 10, eerste lid, onder c en d, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), waarvoor de regeling waarbij het normbedrag of de normbedragen worden vastgesteld anders bepaalt.  
+2.  Het aantal minderjarigen, bedoeld in het eerste lid, is het gemiddelde van het aantal minderjarigen op de eerste dag van elke kalendermaand met uitsluiting van het aantal minderjarigen voor wie een persoon in dienst van een landelijke instelling als bedoeld in artikel 104, eerste lid, van de wet, de taak uitoefent, met uitzondering van de taken als bedoeld in artikel 10, eerste lid, onder c en d, van de wet, waarvoor de regeling waarbij het normbedrag of de normbedragen worden vastgesteld anders bepaalt.  
 
 ### Artikel  73d  
 
-1.  De uitkering bureau jeugdzorg, kan, in afwijking van de artikelen 73b en 73c, voor zover in de begroting de benodigde gelden ter beschikking zijn gesteld, worden verhoogd, indien aannemelijk is dat de uitkering, vastgesteld overeenkomstig artikel 73b, onvoldoende is om te voorzien in de behoefte aan de uitvoering van de wettelijke taken van het bureau jeugdzorg en de andere activiteiten, genoemd in [artikel 37, eerste lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+1.  De uitkering bureau jeugdzorg, kan, in afwijking van de artikelen 73b en 73c, voor zover in de begroting de benodigde gelden ter beschikking zijn gesteld, worden verhoogd, indien aannemelijk is dat de uitkering, vastgesteld overeenkomstig artikel 73b, onvoldoende is om te voorzien in de behoefte aan de uitvoering van de wettelijke taken van het bureau jeugdzorg en de andere activiteiten, genoemd in artikel 37, eerste lid, onder a, van de wet.   
 2.  De uitkering bureau jeugdzorg kan, in afwijking van de artikelen 73b en 73c, worden verminderd, indien aannemelijk is dat de behoefte aan subsidie voor door de stichting te leveren activiteiten, in het jaar waarop de uitkering betrekking heeft, substantieel lager zal zijn dan die in het tweede jaar voorafgaand aan dat jaar.   
 3.  Onze Ministers kunnen bij ministeriële regeling factoren aanwijzen die in aanmerking worden genomen bij de vaststelling van de behoefte en regels stellen omtrent de mate waarin de factoren, de vaststelling van de behoefte beïnvloeden.   
 4.  Het overeenkomstig artikel 73b, eerste lid, onder b, berekende bedrag van de uitkering bureau jeugdzorg voor het jaar 2013 wordt verminderd met 2,65%. 
 
 ### Artikel  73e  
 
-1.  De uitkering zorgaanbod bestaat, onverminderd [artikel 104, tweede lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), uit het bedrag dat het provinciebestuur in het jaar voorafgaande aan het jaar waarin de uitkering wordt verstrekt ontving voor jeugdzorg waarop aanspraak bestaat ingevolge de [wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), voor de vertrouwenspersoon voor de cliënten van zorgaanbieders, voor experimenten, voor de steunfunctie met betrekking tot die jeugdzorg, voor cliëntenorganisaties en voor het verwerken van gegevens, bedoeld in de [artikelen 43](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [44, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+1.  De uitkering zorgaanbod bestaat, onverminderd artikel 104, tweede lid, van de wet, uit het bedrag dat het provinciebestuur in het jaar voorafgaande aan het jaar waarin de uitkering wordt verstrekt ontving voor jeugdzorg waarop aanspraak bestaat ingevolge de wet, voor de vertrouwenspersoon voor de cliënten van zorgaanbieders, voor experimenten, voor de steunfunctie met betrekking tot die jeugdzorg, voor cliëntenorganisaties en voor het verwerken van gegevens, bedoeld in de artikelen 43 en 44, eerste lid, van de wet.   
 2.  De uitkering zorgaanbod wordt verhoogd met een bedrag uit de in de begroting beschikbaar gestelde gelden voor extra aanbod, volgens bij circulaire van Onze Ministers vast te stellen regels over de verdeling van dit bedrag aan de hand van het aantal jeugdigen in de provincie, het aantal allochtone jeugdigen en het aantal jeugdigen dat behoort tot een eenoudergezin.   
-3.  De uitkering zorgaanbod kan, in afwijking van het eerste lid, en onverminderd het tweede lid, voor zover in de begroting de benodigde gelden ter beschikking zijn gesteld, worden verhoogd, indien aannemelijk is dat de uitkering, vastgesteld overeenkomstig het eerste en tweede lid, onvoldoende is om te voorzien in de behoefte aan jeugdzorg waarop aanspraak bestaat ingevolge de [wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+3.  De uitkering zorgaanbod kan, in afwijking van het eerste lid, en onverminderd het tweede lid, voor zover in de begroting de benodigde gelden ter beschikking zijn gesteld, worden verhoogd, indien aannemelijk is dat de uitkering, vastgesteld overeenkomstig het eerste en tweede lid, onvoldoende is om te voorzien in de behoefte aan jeugdzorg waarop aanspraak bestaat ingevolge de wet.   
 4.  De uitkering zorgaanbod kan, in afwijking van het eerste lid, worden verminderd, indien aannemelijk is dat de behoefte aan subsidie voor door zorgaanbieders te leveren activiteiten in het jaar waarop de uitkering betrekking heeft, substantieel lager zal zijn dan die in het tweede jaar voorafgaand aan dat jaar.   
 5.  Artikel 73d, derde lid, is van overeenkomstige toepassing.   
 6.  Het overeenkomstig het eerste lid berekende bedrag van de uitkering zorgaanbod voor het jaar 2013 wordt verminderd met 2,65%. 
@@ -990,12 +990,12 @@ b. de definitieve vaststelling door vermenigvuldiging van het aantal minderjarig
 
 ### Artikel  73g  
 
-1.  Een aanvraag van de uitkering bureau jeugdzorg en van de uitkering zorgaanbod voor het eerstvolgende jaar wordt gedaan door de toezending van het ontwerp van het uitvoeringsprogramma, bedoeld in [artikel 32, eerste lid, tweede volzin, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+1.  Een aanvraag van de uitkering bureau jeugdzorg en van de uitkering zorgaanbod voor het eerstvolgende jaar wordt gedaan door de toezending van het ontwerp van het uitvoeringsprogramma, bedoeld in artikel 32, eerste lid, tweede volzin, van de wet.   
 2.  Bij regeling van Onze Ministers kunnen nadere regels worden gesteld omtrent de bij de aanvraag te voegen gegevens en de wijze waarop deze worden verstrekt.  
 
 ### Artikel  73h  
 
-Gedeputeerde staten verstrekken ter verantwoording de informatie, bedoeld in [artikel 32, tweede lid, onder a, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md). 
+Gedeputeerde staten verstrekken ter verantwoording de informatie, bedoeld in artikel 32, tweede lid, onder a, van de wet, op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet. 
 
 ### Paragraaf  4  
 
@@ -1013,14 +1013,14 @@ Gedeputeerde staten verstrekken ter verantwoording de informatie, bedoeld in [ar
 
 ### Artikel  73j  
 
-De [artikelen 4:49](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:56](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 4:49, 4:56 en 4:57 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. 
 
 ### Artikel  73k  
 
 1.  Het provinciebestuur vormt een egalisatiereserve jeugdzorg.   
 2.  Het verschil tussen de som van vastgestelde uitkeringen en de vastgestelde subsidies in het jaar waarop de uitkeringen betrekking hebben, komt ten gunste of ten laste van de egalisatiereserve.   
 3.  De van de egalisatiereserve genoten rente wordt aan de egalisatiereserve toegevoegd.   
-4.  In de gevallen, bedoeld in [artikel 4:41, tweede lid, onder c, d, en e, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is het provinciebestuur terzake van de egalisatiereserve vergoedingsplichtig naar evenredigheid van de mate waarin de uitkering aan de egalisatiereserve heeft bijgedragen.   
+4.  In de gevallen, bedoeld in artikel 4:41, tweede lid, onder c, d, en e, van de Algemene wet bestuursrecht, is het provinciebestuur terzake van de egalisatiereserve vergoedingsplichtig naar evenredigheid van de mate waarin de uitkering aan de egalisatiereserve heeft bijgedragen.   
 5.  De egalisatiereserve wordt uitsluitend besteed voor een van de doeleinden waarvoor de uitkeringen zijn verstrekt.  
 
 ###Hoofdstuk 14 
@@ -1045,7 +1045,7 @@ Wijzigt het Reglement justitiële jeugdinrichtingen.
 
 ###Artikel 77 
 
-Tot het tijdstip, bedoeld in [artikel 104, eerste lid, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), kan de stichting een medewerker van een instelling met een landelijk bereik, die op het moment van inwerkingtreding van de [Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) als voogdij-instelling op grond van [artikel 60, eerste lid, onder a, van de Wet op de jeugdhulpverlening](../../../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) of als gezinsvoogdij-instelling op grond van [artikel 60, eerste lid, onder b, van die wet](../../../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) aanvaard was, aanwijzen als voogdij- onderscheidenlijk gezinsvoogdij- of jeugdreclasseringswerker.
+Tot het tijdstip, bedoeld in artikel 104, eerste lid, van de wet, kan de stichting een medewerker van een instelling met een landelijk bereik, die op het moment van inwerkingtreding van de Wet op de jeugdzorg als voogdij-instelling op grond van artikel 60, eerste lid, onder a, van de Wet op de jeugdhulpverlening of als gezinsvoogdij-instelling op grond van artikel 60, eerste lid, onder b, van die wet aanvaard was, aanwijzen als voogdij- onderscheidenlijk gezinsvoogdij- of jeugdreclasseringswerker.
 
 ###Artikel 78 
 

@@ -12,16 +12,16 @@ Gelet op Verordening (EEG) nr. 3254/91 van de Raad van de Europese Gemeenschappe
 
 Gelet op Richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);  
 
-Gelet op [artikel 75, tweede lid, Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+Gelet op artikel 75, tweede lid, Flora- en faunawet;  
 
-Gelet op [artikel 17a, tweede lid, Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md);     Besluit:     
+Gelet op artikel 17a, tweede lid, Besluit vrijstelling beschermde dier- en plantensoorten;     Besluit:     
 ### § 1  
 
 ####Begripsbepalingen
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder:   a.  wet:   [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);    b. de Minister:   de Minister van Landbouw, Natuurbeheer en Visserij;    c.  overeenkomst:   Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten (Trb. 1975, 23);    d.  basisverordening:   verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);    e. uitvoeringsverordening:   verordening (EG) nr. 1808/2001 van de Commissie van de Europese Gemeenschappen van 30 augustus 2001, houdende uitvoeringsbepalingen van Verordening (EG) nr. 338/97 van de Raad inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG L 250);  f.verordening (EG) 1007/2009:verordening (EG) nr. 1007/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de handel in zeehondenproducten (PbEU L 286);  g. lid-staat:   land behorende tot de Europese Unie;    h.  derde land:   land niet behorende tot de Europese Unie;    i. naadloos gesloten pootring:   pootring die voldoet aan de criteria van artikel 36, vijfde lid, van de uitvoeringsverordening;    j.  in gevangenschap geboren en gefokte specimens van een diersoort:   specimens van een diersoort die voldoen aan de criteria van artikel 24 van de uitvoeringsverordening;    k. kunstmatig gekweekte specimens van een plantensoort:   specimens van een plantensoort die voldoen aan de criteria van artikel 26 van de uitvoeringsverordening.      
+1.  In deze regeling wordt verstaan onder:   a.  wet:   Flora- en faunawet;    b. de Minister:   de Minister van Landbouw, Natuurbeheer en Visserij;    c.  overeenkomst:   Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten (Trb. 1975, 23);    d.  basisverordening:   verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);    e. uitvoeringsverordening:   verordening (EG) nr. 1808/2001 van de Commissie van de Europese Gemeenschappen van 30 augustus 2001, houdende uitvoeringsbepalingen van Verordening (EG) nr. 338/97 van de Raad inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG L 250);  f.verordening (EG) 1007/2009:verordening (EG) nr. 1007/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de handel in zeehondenproducten (PbEU L 286);  g. lid-staat:   land behorende tot de Europese Unie;    h.  derde land:   land niet behorende tot de Europese Unie;    i. naadloos gesloten pootring:   pootring die voldoet aan de criteria van artikel 36, vijfde lid, van de uitvoeringsverordening;    j.  in gevangenschap geboren en gefokte specimens van een diersoort:   specimens van een diersoort die voldoen aan de criteria van artikel 24 van de uitvoeringsverordening;    k. kunstmatig gekweekte specimens van een plantensoort:   specimens van een plantensoort die voldoen aan de criteria van artikel 26 van de uitvoeringsverordening.      
 2.  De begripsbepalingen van artikel 2 van de basisverordening en artikel 1 van de uitvoeringsverordening zijn van toepassing.   
 3.  Voor de toepassing van deze regeling wordt in de bepalingen van de basisverordening en de uitvoeringsverordening waarnaar in deze regeling wordt verwezen verstaan onder: 
 
@@ -35,19 +35,19 @@ b.  douanekantoor aan de grens: douanekantoor dat, indien in Nederland gelegen, 
 
 ###Artikel 1a 
 
-Deze regeling berust op [artikel 75, tweede lid, van de Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [artikel 107 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 4, eerste lid](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), [11](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), [16, tweede lid, onderdeel b](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), [16h](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) en [artikel 17a, tweede lid, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md). 
+Deze regeling berust op artikel 75, tweede lid, van de Flora- en faunawet, artikel 107 van de Gezondheids- en welzijnswet voor dieren en de artikelen 4, eerste lid, 11, 16, tweede lid, onderdeel b, 16h en artikel 17a, tweede lid, van het Besluit vrijstelling beschermde dier- en plantensoorten. 
 
 ###Artikel 1b 
 
-1.  Als beschermde inheemse diersoort als bedoeld in [artikel 4, eerste lid, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) worden aangewezen de soorten, genoemd in bijlage 1 bij deze regeling.   
-2.  Als dieren als bedoeld in [artikel 11, eerste lid, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) worden aangewezen dieren, behorende tot de soorten genoemd in bijlage 2 bij deze regeling.   
-3.  Als dieren als bedoeld in [artikel 11, tweede lid, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) worden aangewezen dieren, behorende tot de soorten genoemd in bijlage 3 bij deze regeling.   
-4.  Als beschermde inheemse dier- en plantensoorten als bedoeld in [artikel 16b, tweede lid, onderdeel a, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) worden aangewezen de soorten, genoemd in bijlage 4 bij deze regeling.   
-5.  Als diersoorten als bedoeld in [artikel 16h, eerste lid, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) worden aangewezen de soorten, genoemd in de bijlagen 5 tot en met 7 bij deze regeling.  
+1.  Als beschermde inheemse diersoort als bedoeld in artikel 4, eerste lid, van het Besluit vrijstelling beschermde dier- en plantensoorten worden aangewezen de soorten, genoemd in bijlage 1 bij deze regeling.   
+2.  Als dieren als bedoeld in artikel 11, eerste lid, van het Besluit vrijstelling beschermde dier- en plantensoorten worden aangewezen dieren, behorende tot de soorten genoemd in bijlage 2 bij deze regeling.   
+3.  Als dieren als bedoeld in artikel 11, tweede lid, van het Besluit vrijstelling beschermde dier- en plantensoorten worden aangewezen dieren, behorende tot de soorten genoemd in bijlage 3 bij deze regeling.   
+4.  Als beschermde inheemse dier- en plantensoorten als bedoeld in artikel 16b, tweede lid, onderdeel a, van het Besluit vrijstelling beschermde dier- en plantensoorten worden aangewezen de soorten, genoemd in bijlage 4 bij deze regeling.   
+5.  Als diersoorten als bedoeld in artikel 16h, eerste lid, van het Besluit vrijstelling beschermde dier- en plantensoorten worden aangewezen de soorten, genoemd in de bijlagen 5 tot en met 7 bij deze regeling.  
 
 ###Artikel 1c 
 
-Van het verbod, bedoeld in [artikel 34, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), wordt ten behoeve van de bestrijding van ziekten, plagen of onkruiden vrijstelling verleend voor het houden van dieren, behorende tot de soorten genoemd in bijlage 6 bij deze regeling, met het oog op de productie van van die dieren afkomstige producten. 
+Van het verbod, bedoeld in artikel 34, eerste lid, van de Gezondheids- en welzijnswet voor dieren, wordt ten behoeve van de bestrijding van ziekten, plagen of onkruiden vrijstelling verleend voor het houden van dieren, behorende tot de soorten genoemd in bijlage 6 bij deze regeling, met het oog op de productie van van die dieren afkomstige producten. 
 
 ### Artikel  2  
 
@@ -65,13 +65,13 @@ b.  het bewijs daarvan door de houder van de betrokken specimens desgevraagd aan
 
 ### Artikel  3  
 
-1.  Indien is voldaan aan artikel 4, eerste onderscheidenlijk tweede, derde of vierde lid, van de basisverordening, geldt een vrijstelling van het verbod op het binnen het grondgebied van Nederland brengen, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die vanuit een derde land op het grondgebied van de Europese Gemeenschap worden gebracht en bestemd zijn voor Nederland.   
-2.  Onverminderd het bepaalde in het eerste lid, geldt vanaf de plaats van binnenkomst in Nederland tot de plaats van bestemming een vrijstelling van het verbod op het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor specimens van soorten, genoemd in bijlage A bij de basisverordening, specimens van soorten, behorende tot beschermde inheemse dier- of plantensoorten, genoemd in bijlage B, C of D bij de basisverordening, alsmede specimens van soorten als aangewezen in artikel 2 of artikel 4, eerste lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voorzover deze soorten voorkomen op één van de bijlagen bij de basisverordening.   
+1.  Indien is voldaan aan artikel 4, eerste onderscheidenlijk tweede, derde of vierde lid, van de basisverordening, geldt een vrijstelling van het verbod op het binnen het grondgebied van Nederland brengen, bedoeld in artikel 13, eerste lid, van de wet voor specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die vanuit een derde land op het grondgebied van de Europese Gemeenschap worden gebracht en bestemd zijn voor Nederland.   
+2.  Onverminderd het bepaalde in het eerste lid, geldt vanaf de plaats van binnenkomst in Nederland tot de plaats van bestemming een vrijstelling van het verbod op het vervoer, bedoeld in artikel 13, eerste lid, van de wet voor specimens van soorten, genoemd in bijlage A bij de basisverordening, specimens van soorten, behorende tot beschermde inheemse dier- of plantensoorten, genoemd in bijlage B, C of D bij de basisverordening, alsmede specimens van soorten als aangewezen in artikel 2 of artikel 4, eerste lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet, voorzover deze soorten voorkomen op één van de bijlagen bij de basisverordening.   
 
 ### Artikel  4  
 
-1.  Indien is voldaan aan artikel 4, eerste onderscheidenlijk tweede, derde of vierde lid, van de basisverordening, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die vanuit een derde land op het grondgebied van de Europese Gemeenschap worden gebracht en bestemd zijn voor een andere lid-staat dan Nederland.   
-2.  Onverminderd het bepaalde in het eerste lid, geldt vanaf de plaats van binnenkomst in Nederland tot aan de grens een vrijstelling van het verbod op het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor specimens van soorten, genoemd in bijlage A bij de basisverordening, specimens van soorten, behorende tot beschermde inheemse dier- of plantensoorten, genoemd in bijlage B, C of D bij de basisverordening, alsmede specimens van soorten als aangewezen in artikel 2 of artikel 4, eerste lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voorzover deze soorten voorkomen op één van de bijlagen bij de basisverordening.   
+1.  Indien is voldaan aan artikel 4, eerste onderscheidenlijk tweede, derde of vierde lid, van de basisverordening, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen, bedoeld in artikel 13, eerste lid, van de wet voor specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die vanuit een derde land op het grondgebied van de Europese Gemeenschap worden gebracht en bestemd zijn voor een andere lid-staat dan Nederland.   
+2.  Onverminderd het bepaalde in het eerste lid, geldt vanaf de plaats van binnenkomst in Nederland tot aan de grens een vrijstelling van het verbod op het vervoer, bedoeld in artikel 13, eerste lid, van de wet voor specimens van soorten, genoemd in bijlage A bij de basisverordening, specimens van soorten, behorende tot beschermde inheemse dier- of plantensoorten, genoemd in bijlage B, C of D bij de basisverordening, alsmede specimens van soorten als aangewezen in artikel 2 of artikel 4, eerste lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet, voorzover deze soorten voorkomen op één van de bijlagen bij de basisverordening.   
 
 ### Artikel  5  
 
@@ -83,8 +83,8 @@ De vrijstellingen genoemd in deze paragraaf gelden met inachtneming van artikel 
 
 ### Artikel  6  
 
-1.  Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, alsmede het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt ten behoeve van doorvoer vrijstelling verleend voor specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die zijn verzonden vanuit een derde land en via Nederland bestemd zijn voor een derde land.   
-2.  Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, alsmede op het vervoeren, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt ten behoeve van doorvoer vrijstelling verleend voor dieren en producten van dieren van de soorten, genoemd in [artikel 4, tweede lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/dier-/en/plantensoorten/flora-/en/faunawet/BWBR0013485/README.md), die zijn verzonden vanuit een derde land en bestemd zijn voor doorvoer via Nederland naar een derde land.  
+1.  Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, alsmede het vervoer, bedoeld in artikel 13, eerste lid, van de wet wordt ten behoeve van doorvoer vrijstelling verleend voor specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die zijn verzonden vanuit een derde land en via Nederland bestemd zijn voor een derde land.   
+2.  Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, alsmede op het vervoeren, bedoeld in artikel 13, eerste lid, van de wet wordt ten behoeve van doorvoer vrijstelling verleend voor dieren en producten van dieren van de soorten, genoemd in artikel 4, tweede lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet, die zijn verzonden vanuit een derde land en bestemd zijn voor doorvoer via Nederland naar een derde land.  
 3.  De vrijstellingen als bedoeld in het eerste lid gelden met inachtneming van artikel 7, tweede lid, van de basisverordening.   
 
 ### § 5  
@@ -93,11 +93,11 @@ De vrijstellingen genoemd in deze paragraaf gelden met inachtneming van artikel 
 
 ### Artikel  7  
 
-Ten behoeve van het intracommunautaire verkeer geldt een vrijstelling van [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voor het binnen of buiten het grondgebied van Nederland brengen van: 
+Ten behoeve van het intracommunautaire verkeer geldt een vrijstelling van artikel 13, eerste lid, van de wet, voor het binnen of buiten het grondgebied van Nederland brengen van: 
 
 a. specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, voorzover betreffende specimens aantoonbaar overeenkomstig de in een lid-staat geldende wetgeving en met inachtneming van de basisverordening en uitvoeringsverordening zijn verkregen;  
 
-b. geprepareerde producten van dieren, waarop het verbod als bedoeld in [artikel 62, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) van toepassing is, niet behorende tot soorten als bedoeld in onderdeel a, voorzover betreffende producten aantoonbaar overeenkomstig de in een lid-staat geldende wetgeving zijn verkregen.   
+b. geprepareerde producten van dieren, waarop het verbod als bedoeld in artikel 62, eerste lid, van de wet van toepassing is, niet behorende tot soorten als bedoeld in onderdeel a, voorzover betreffende producten aantoonbaar overeenkomstig de in een lid-staat geldende wetgeving zijn verkregen.   
 
 ### § 6  
 
@@ -105,10 +105,10 @@ b. geprepareerde producten van dieren, waarop het verbod als bedoeld in [artikel
 
 ### Artikel  8  
 
-1.  Indien is voldaan aan artikel 5, eerste onderscheidenlijk vierde lid, van de basisverordening, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor specimens van soorten, genoemd in bijlage A, B of C bij de basisverordening, die vanuit Nederland of vanuit een andere lid-staat via Nederland buiten het grondgebied van de Europese Gemeenschap worden gebracht.   
-2.  Indien een fytosanitair certificaat, dat voldoet aan artikel 8, zesde en zevende lid, van de uitvoeringsverordening, is afgegeven door de Plantenziektenkundige Dienst of door een bevoegde administratieve instantie van een andere lid-staat, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor kunstmatig gekweekte hybriden van niet van een annotatie voorziene soorten genoemd in bijlage A bij de basisverordening en kunstmatig gekweekte planten van soorten, genoemd in bijlage B of C bij de basisverordening, die vanuit Nederland of vanuit een andere lid-staat via Nederland buiten het grondgebied van de Europese Gemeenschap worden gebracht.   
-3.  Onverminderd het bepaalde in het eerste en tweede lid, geldt ten behoeve van uitvoer een vrijstelling voor het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voor specimens van soorten, genoemd in bijlage A bij de basisverordening, specimens van soorten, behorende tot beschermde inheemse dier- of plantensoorten, genoemd in bijlage B of C bij de basisverordening, alsmede specimens van soorten als aangewezen in artikel 2 of artikel 4, eerste lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voorzover deze soorten voorkomen op één van de bijlagen bij de basisverordening.   
-4.  Van het verbod op het binnen of buiten het grondgebied van Nederland brengen en het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vrijstelling verleend voor specimens van soorten, genoemd in bijlage D bij de basisverordening, die vanuit Nederland of vanuit een andere lid-staat via Nederland buiten het grondgebied van de Europese Gemeenschap worden gebracht.   
+1.  Indien is voldaan aan artikel 5, eerste onderscheidenlijk vierde lid, van de basisverordening, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen, bedoeld in artikel 13, eerste lid, van de wet voor specimens van soorten, genoemd in bijlage A, B of C bij de basisverordening, die vanuit Nederland of vanuit een andere lid-staat via Nederland buiten het grondgebied van de Europese Gemeenschap worden gebracht.   
+2.  Indien een fytosanitair certificaat, dat voldoet aan artikel 8, zesde en zevende lid, van de uitvoeringsverordening, is afgegeven door de Plantenziektenkundige Dienst of door een bevoegde administratieve instantie van een andere lid-staat, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen, bedoeld in artikel 13, eerste lid, van de wet voor kunstmatig gekweekte hybriden van niet van een annotatie voorziene soorten genoemd in bijlage A bij de basisverordening en kunstmatig gekweekte planten van soorten, genoemd in bijlage B of C bij de basisverordening, die vanuit Nederland of vanuit een andere lid-staat via Nederland buiten het grondgebied van de Europese Gemeenschap worden gebracht.   
+3.  Onverminderd het bepaalde in het eerste en tweede lid, geldt ten behoeve van uitvoer een vrijstelling voor het vervoer, bedoeld in artikel 13, eerste lid, van de wet, voor specimens van soorten, genoemd in bijlage A bij de basisverordening, specimens van soorten, behorende tot beschermde inheemse dier- of plantensoorten, genoemd in bijlage B of C bij de basisverordening, alsmede specimens van soorten als aangewezen in artikel 2 of artikel 4, eerste lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet, voorzover deze soorten voorkomen op één van de bijlagen bij de basisverordening.   
+4.  Van het verbod op het binnen of buiten het grondgebied van Nederland brengen en het vervoer, bedoeld in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor specimens van soorten, genoemd in bijlage D bij de basisverordening, die vanuit Nederland of vanuit een andere lid-staat via Nederland buiten het grondgebied van de Europese Gemeenschap worden gebracht.   
 
 ### § 6  
 
@@ -116,7 +116,7 @@ b. geprepareerde producten van dieren, waarop het verbod als bedoeld in [artikel
 
 ### Artikel  9  
 
-Indien voldaan is aan artikel 7, derde lid, van de basisverordening en artikel 27 onderscheidenlijk artikel 28 van de uitvoeringsverordening, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen alsmede het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor dode specimens, delen daarvan of daaruit verkregen producten van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die vallen onder persoonlijke bezittingen of huisraad die vanuit een derde land op het grondgebied van de Gemeenschap worden gebracht en bestemd zijn voor een lid-staat of die vanuit een lid-staat worden uitgevoerd naar een derde land.  
+Indien voldaan is aan artikel 7, derde lid, van de basisverordening en artikel 27 onderscheidenlijk artikel 28 van de uitvoeringsverordening, geldt een vrijstelling van het verbod op het binnen of buiten het grondgebied van Nederland brengen alsmede het vervoer, bedoeld in artikel 13, eerste lid, van de wet voor dode specimens, delen daarvan of daaruit verkregen producten van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, die vallen onder persoonlijke bezittingen of huisraad die vanuit een derde land op het grondgebied van de Gemeenschap worden gebracht en bestemd zijn voor een lid-staat of die vanuit een lid-staat worden uitgevoerd naar een derde land.  
 
 ### § 7  
 
@@ -124,7 +124,7 @@ Indien voldaan is aan artikel 7, derde lid, van de basisverordening en artikel 2
 
 ### Artikel  10  (handel)  
 
-1.  Met uitzondering van het verbod op het binnen of buiten het grondgebied van Nederland brengen of het onder zich hebben, geldt een vrijstelling van de verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor: 
+1.  Met uitzondering van het verbod op het binnen of buiten het grondgebied van Nederland brengen of het onder zich hebben, geldt een vrijstelling van de verboden, bedoeld in artikel 13, eerste lid, van de wet voor: 
 
 a.  specimens van soorten, genoemd in bijlage A bij de basisverordening, indien een certificaat is afgegeven op grond van artikel 8, derde lid, van de basisverordening;  
 
@@ -133,8 +133,8 @@ b.  in gevangenschap geboren en gefokte specimens van de in bijlage VIII bij de 
 c.  kunstmatig gekweekte specimens van plantensoorten, genoemd in bijlage A bij de basisverordening;  
 
 d.  meer dan 50 jaar geleden verkregen bewerkte specimens, genoemd in bijlage A bij de basisverordening, als omschreven in artikel 2, onder w, van de basisverordening.     
-2.  Onverminderd [artikel 13, vierde lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldt met uitzondering van het verbod op het binnen of buiten het grondgebied van Nederland brengen of onder zich hebben, een vrijstelling van de verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor specimens van soorten, genoemd in bijlage B, C of D bij de basisverordening, indien kan worden aangetoond dat betreffende specimens overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening in Nederland zijn gebracht of verkregen.   
-3.  De vrijstellingen, bedoeld in het eerste en tweede lid, zijn van toepassing, voorzover voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) gestelde regels.   
+2.  Onverminderd artikel 13, vierde lid, van de wet, geldt met uitzondering van het verbod op het binnen of buiten het grondgebied van Nederland brengen of onder zich hebben, een vrijstelling van de verboden, bedoeld in artikel 13, eerste lid, van de wet voor specimens van soorten, genoemd in bijlage B, C of D bij de basisverordening, indien kan worden aangetoond dat betreffende specimens overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening in Nederland zijn gebracht of verkregen.   
+3.  De vrijstellingen, bedoeld in het eerste en tweede lid, zijn van toepassing, voorzover voldaan is aan de krachtens artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten gestelde regels.   
 4.  De vrijstellingen, bedoeld in het eerste en tweede lid, zijn niet van toepassing op aan de natuur onttrokken specimens van soorten die voorkomen op bijlage IV bij richtlijn 92/43 EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206).   
 
 ### § 8  
@@ -143,14 +143,14 @@ d.  meer dan 50 jaar geleden verkregen bewerkte specimens, genoemd in bijlage A 
 
 ### Artikel  11  
 
-1.  Van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt een vrijstelling voor dode specimens van in gevangenschap geboren en gefokte of uit het wild afkomstige dieren, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, indien: 
+1.  Van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet geldt een vrijstelling voor dode specimens van in gevangenschap geboren en gefokte of uit het wild afkomstige dieren, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, indien: 
 
 a.  het meer dan 50 jaar geleden verkregen bewerkte specimens betreft als omschreven in artikel 2, onder w, van de basisverordening;  
 
 b.  het persoonlijke bezittingen of huisraad betreft als omschreven in artikel 2, onderdeel j, van de basisverordening of  
 
 c.  kan worden aangetoond dat betreffende specimens overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening in Nederland zijn gebracht of verkregen.     
-2.  Onverminderd [artikel 13, vierde lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldt een vrijstelling van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor levende en dode specimens van in gevangenschap geboren en gefokte dieren, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage B, C of D bij de basisverordening, indien kan worden aangetoond dat de dieren in Nederland zijn gefokt, of indien het eieren, nesten of producten van die soorten betreft, betrokken producten van gefokte dieren afkomstig zijn.   
+2.  Onverminderd artikel 13, vierde lid, van de wet, geldt een vrijstelling van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet voor levende en dode specimens van in gevangenschap geboren en gefokte dieren, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage B, C of D bij de basisverordening, indien kan worden aangetoond dat de dieren in Nederland zijn gefokt, of indien het eieren, nesten of producten van die soorten betreft, betrokken producten van gefokte dieren afkomstig zijn.   
 3.  De vrijstellingen, bedoeld in het eerste en tweede lid, zijn niet van toepassing op: 
 
 a.  aan de natuur onttrokken dode specimens van soorten die voorkomen op bijlage IV, letter a), bij richtlijn 92/43 EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);  
@@ -159,7 +159,7 @@ b.  te prepareren producten van dieren, behorende tot de soorten roofvogels (ord
 
 c.  dode specimens van soorten, genoemd in bijlage A bij de basisverordening, voorzover het betreft botten en daarvan of daarmede vervaardigde producten van de tijger (Panthera tigris) en hoorns en daarvan of daarmede vervaardigde producten anders dan jachttrofeeën van Ceratotherium simum simum afkomstig van de populatie van Zuid-Afrika, van de soorten van de familie neushoorns (Rhinocerotidea);  
 
-d.  levende specimens van soorten, behorende tot de orde van de primaten (Primates), de familie van de katachtigen (Felidae) genoemd in Bijlage 3 van de Regeling aanwijzing beschermde dier- en plantensoorten [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) of de fretkat (Cryptoprocta ferox), genoemd in bijlage B bij de basisverordening, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage B bij de basisverordening;  
+d.  levende specimens van soorten, behorende tot de orde van de primaten (Primates), de familie van de katachtigen (Felidae) genoemd in Bijlage 3 van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet of de fretkat (Cryptoprocta ferox), genoemd in bijlage B bij de basisverordening, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage B bij de basisverordening;  
 
 e.  voorzover het het bezit in het veld betreft, levende specimens van de soorten roofvogels (orde Falconiformes) of uilen (orde Strigiformes), behorende tot beschermde uitheemse diersoorten, genoemd in bijlage B bij de basisverordening.    
 
@@ -169,13 +169,13 @@ e.  voorzover het het bezit in het veld betreft, levende specimens van de soorte
 
 ### Artikel  12  
 
-1.  Van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt een vrijstelling voor levende en dode specimens van in gevangenschap geboren en gefokte vogels, behorende tot beschermde inheemse diersoorten, genoemd in bijlage A, B, C of D bij de basisverordening, en levende specimens van in gevangenschap geboren en gefokte vogels, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, indien kan worden aangetoond dat de vogels gefokt zijn, of, indien het eieren, nesten of producten van die vogels betreft, betrokken producten van gefokte vogels afkomstig zijn en voorzover: 
+1.  Van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet geldt een vrijstelling voor levende en dode specimens van in gevangenschap geboren en gefokte vogels, behorende tot beschermde inheemse diersoorten, genoemd in bijlage A, B, C of D bij de basisverordening, en levende specimens van in gevangenschap geboren en gefokte vogels, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, indien kan worden aangetoond dat de vogels gefokt zijn, of, indien het eieren, nesten of producten van die vogels betreft, betrokken producten van gefokte vogels afkomstig zijn en voorzover: 
 
 a.  deze vogels zijn voorzien van een naadloos gesloten pootring, met uitzondering van de vogelsoorten, bedoeld in bijlage VIII bij de uitvoeringsverordening, voorzover deze soorten niet van een annotatie zijn voorzien;  
 
-b.  registratie heeft plaatsgevonden in de administratie, bedoeld in [artikel 8 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md);  
+b.  registratie heeft plaatsgevonden in de administratie, bedoeld in artikel 8 van het Besluit vrijstelling beschermde dier- en plantensoorten;  
 
-c.  voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) gestelde regels.     
+c.  voldaan is aan de krachtens artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten gestelde regels.     
 2.  De vrijstelling, bedoeld in het eerste lid, geldt eveneens voor levende en dode specimens van in gevangenschap geboren en gefokte vogels, behorende tot beschermde inheemse of uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, indien deze vogels in overeenstemming met artikel 36 van de uitvoeringsverordening zijn voorzien van een microchiptransponder.   
 3.  Indien een naadloos gesloten pootring of microchiptransponder als bedoeld in het eerste of tweede lid, wegens lichamelijke kenmerken van de betrokken specimens aantoonbaar niet veilig kan worden aangebracht, geldt de vrijstelling, bedoeld in het eerste lid, eveneens, indien een daartoe strekkende door de Minister of een door een overheidsorgaan van een andere lid-staat afgegeven verklaring kan worden overgelegd.   
 4.  Het eerste lid is niet van toepassing op: 
@@ -197,23 +197,23 @@ c.  onverminderd onderdeel b, voorzover het het bezit in het veld betreft, leven
 
 ### Artikel  14  
 
-1.  Van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt een vrijstelling voor levende specimens van in gevangenschap geboren en gefokte gewervelde dieren, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, die geen in gevangenschap geboren en gefokte vogels zijn, indien kan worden aangetoond dat de betreffende dieren gefokt zijn en voorzover: 
+1.  Van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet geldt een vrijstelling voor levende specimens van in gevangenschap geboren en gefokte gewervelde dieren, behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening, die geen in gevangenschap geboren en gefokte vogels zijn, indien kan worden aangetoond dat de betreffende dieren gefokt zijn en voorzover: 
 
 a.  gewervelde dieren in overeenstemming met artikel 36, eerste lid, onderdeel b, van de uitvoeringsverordening, zijn voorzien van een microchiptransponder en  
 
-b.  voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) gestelde regels.     
+b.  voldaan is aan de krachtens artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten gestelde regels.     
 2.  De vrijstelling, bedoeld in het eerste lid, geldt eveneens, indien in overeenstemming met artikel 36 van de uitvoeringsverordening een ander merkteken is aangebracht, voorzover de Minister of een overheidsorgaan van een andere lid-staat dan Nederland een schriftelijke verklaring heeft afgegeven.   
 3.  Indien een microchiptransponder of een ander merkteken als bedoeld in het eerste of tweede lid, wegens lichamelijke kenmerken van de betrokken specimens aantoonbaar niet veilig kan worden aangebracht, geldt de vrijstelling, bedoeld in het eerste lid, eveneens, indien een daartoe strekkende door de Minister of een door een overheidsorgaan van een andere lid-staat afgegeven verklaring kan worden overgelegd.   
 4.  De vrijstellingen, bedoeld in het eerste lid, zijn niet van toepassing op levende specimens van soorten, behorende tot de orde van de primaten (Primates) of de familie van de katachtigen (Felidae), behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening. 
 
 ### Artikel  14a  
 
-1.  Er geldt een vrijstelling van het verbod, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voor het onder zich hebben van levende of dode wolven, indien kan worden aangetoond dat: 
+1.  Er geldt een vrijstelling van het verbod, bedoeld in artikel 13, eerste lid, van de wet, voor het onder zich hebben van levende of dode wolven, indien kan worden aangetoond dat: 
 
 – de dieren in gevangenschap zijn geboren en gefokt, en  
 
 – dat de dieren vóór 1 juli 2014 in Nederland zijn gebracht of verkregen.     
-2.  Er geldt een vrijstelling van het verbod, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor het onder zich hebben van producten van wolven, indien kan worden aangetoond dat die producten afkomstig zijn van wolven als bedoeld in het eerste lid.  
+2.  Er geldt een vrijstelling van het verbod, bedoeld in artikel 13, eerste lid, van de wet voor het onder zich hebben van producten van wolven, indien kan worden aangetoond dat die producten afkomstig zijn van wolven als bedoeld in het eerste lid.  
 
 ### § 11  
 
@@ -221,16 +221,16 @@ b.  voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling bescher
 
 ### Artikel  15  
 
-1.  Van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt een vrijstelling voor dode specimens van kunstmatig gekweekte of uit het wild afkomstige planten, behorende tot beschermde uitheemse plantensoorten, genoemd in bijlage A bij de basisverordening, indien: 
+1.  Van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet geldt een vrijstelling voor dode specimens van kunstmatig gekweekte of uit het wild afkomstige planten, behorende tot beschermde uitheemse plantensoorten, genoemd in bijlage A bij de basisverordening, indien: 
 
 a.  het meer dan 50 jaar verkregen bewerkte specimens betreft als omschreven in artikel 2, onder w, van de basisverordening;  
 
 b.  het persoonlijke bezittingen of huisraad betreft als omschreven in artikel 2, onderdeel j, van de basisverordening of indien  
 
 c.  kan worden aangetoond dat betreffende specimens overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening in Nederland zijn gebracht of verkregen.     
-2.  Onverminderd [artikel 13, vierde lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldt een vrijstelling van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor levende en dode specimens van kunstmatig gekweekte planten, behorende tot beschermde uitheemse plantensoorten, genoemd in bijlage B, C of D bij de basisverordening, indien kan worden aangetoond dat de planten in Nederland zijn gekweekt, of, indien het producten van die planten betreft, betrokken producten van gekweekte planten afkomstig zijn.   
-3.  Van het verbod op het onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt een vrijstelling voor levende en dode specimens van kunstmatig gekweekte planten, behorende tot beschermde inheemse plantensoorten, genoemd in bijlage A, B, C of D bij de basisverordening, en levende specimens van kunstmatig gekweekte planten, behorende tot beschermde uitheemse plantensoorten, genoemd in bijlage A bij de basisverordening, indien kan worden aangetoond dat betreffende specimens overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening in Nederland zijn gebracht of verkregen, of, indien kan worden aangetoond dat de planten in Nederland zijn gekweekt, of, indien het producten van die planten betreft, betrokken producten van gekweekte planten afkomstig zijn.   
-4.  De vrijstellingen, bedoeld in het eerste, tweede of derde lid, zijn van toepassing, voorzover voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) gestelde regels.   
+2.  Onverminderd artikel 13, vierde lid, van de wet, geldt een vrijstelling van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet voor levende en dode specimens van kunstmatig gekweekte planten, behorende tot beschermde uitheemse plantensoorten, genoemd in bijlage B, C of D bij de basisverordening, indien kan worden aangetoond dat de planten in Nederland zijn gekweekt, of, indien het producten van die planten betreft, betrokken producten van gekweekte planten afkomstig zijn.   
+3.  Van het verbod op het onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet geldt een vrijstelling voor levende en dode specimens van kunstmatig gekweekte planten, behorende tot beschermde inheemse plantensoorten, genoemd in bijlage A, B, C of D bij de basisverordening, en levende specimens van kunstmatig gekweekte planten, behorende tot beschermde uitheemse plantensoorten, genoemd in bijlage A bij de basisverordening, indien kan worden aangetoond dat betreffende specimens overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening in Nederland zijn gebracht of verkregen, of, indien kan worden aangetoond dat de planten in Nederland zijn gekweekt, of, indien het producten van die planten betreft, betrokken producten van gekweekte planten afkomstig zijn.   
+4.  De vrijstellingen, bedoeld in het eerste, tweede of derde lid, zijn van toepassing, voorzover voldaan is aan de krachtens artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten gestelde regels.   
 5.  De vrijstelling, bedoeld in het eerste lid, is niet van toepassing op aan de natuur onttrokken dode specimens van soorten die voorkomen op bijlage IV, letter b), bij richtlijn 92/43 EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206).   
 
 ### § 12  
@@ -239,14 +239,14 @@ c.  kan worden aangetoond dat betreffende specimens overeenkomstig het bij of kr
 
 ### Artikel  16  
 
-1.  Indien kan worden aangetoond dat specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en de uitvoeringsverordening rechtmatig binnen het grondgebied van Nederland zijn gebracht of verkregen, geldt, met inachtneming van artikel 9 van de basisverordening, een vrijstelling van het verbod op het vervoer, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).   
+1.  Indien kan worden aangetoond dat specimens van soorten, genoemd in bijlage A, B, C of D bij de basisverordening, overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en de uitvoeringsverordening rechtmatig binnen het grondgebied van Nederland zijn gebracht of verkregen, geldt, met inachtneming van artikel 9 van de basisverordening, een vrijstelling van het verbod op het vervoer, bedoeld in artikel 13, eerste lid, van de wet.   
 2.  De vrijstelling, bedoeld in het eerste lid, geldt niet voor levende specimens van de soorten roofvogels (orde Falconiformes) of uilen (orde Strigiformes), behorende tot beschermde inheemse of uitheemse diersoorten, zoals opgenomen in bijlage A of B bij de basisverordening, voorzover het het vervoer in het veld betreft.   
 
 ### Artikel  17  
 
 ####(bewijs gefokte havik)
 
-Onverminderd de bepalingen van de basisverordening en de uitvoeringsverordening, wordt een ontheffing als bedoeld in [artikel 75 van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) van de verboden voor het vervoer of onder zich hebben van een levende gefokte havik (Accipiter gentilis) slechts verleend, indien in overeenstemming met artikel 25 van de uitvoeringsverordening de aanvrager door het overleggen van DNA-fingerprints van zowel de oudervogels als de jonge vogel het bewijs levert dat de vogels inderdaad in gevangenschap zijn gefokt.  
+Onverminderd de bepalingen van de basisverordening en de uitvoeringsverordening, wordt een ontheffing als bedoeld in artikel 75 van de wet van de verboden voor het vervoer of onder zich hebben van een levende gefokte havik (Accipiter gentilis) slechts verleend, indien in overeenstemming met artikel 25 van de uitvoeringsverordening de aanvrager door het overleggen van DNA-fingerprints van zowel de oudervogels als de jonge vogel het bewijs levert dat de vogels inderdaad in gevangenschap zijn gefokt.  
 
 ### § 13  
 
@@ -254,7 +254,7 @@ Onverminderd de bepalingen van de basisverordening en de uitvoeringsverordening,
 
 ### Artikel  18  
 
-Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, vervoeren en onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vrijstelling verleend voor specimens uit herbaria en andere geconserveerde, gedroogde of ingesloten specimens uit musea en voor levende planten, van soorten genoemd in bijlage A, B, C of D bij de basisverordening, indien is voldaan aan artikel 7, vierde lid, van de basisverordening en artikel 22 van de uitvoeringsverordening.  
+Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, vervoeren en onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor specimens uit herbaria en andere geconserveerde, gedroogde of ingesloten specimens uit musea en voor levende planten, van soorten genoemd in bijlage A, B, C of D bij de basisverordening, indien is voldaan aan artikel 7, vierde lid, van de basisverordening en artikel 22 van de uitvoeringsverordening.  
 
 ### § 14  
 
@@ -264,28 +264,28 @@ Van de verboden op het binnen of buiten het grondgebied van Nederland brengen, v
 
 ####(kunstmatig gekweekte planten en gefokte dieren, die niet vallen onder basisverordening)
 
-1.  Van de verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vrijstelling verleend voor in gevangenschap geboren en gefokte dieren of kunstmatig gekweekte planten, behorende tot beschermde uitheemse dier- of plantensoorten, bedoeld in artikel 4, eerste lid, onderdeel b, van de Regeling aanwijzing beschermde dier- en plantensoorten [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), indien: 
+1.  Van de verboden, bedoeld in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor in gevangenschap geboren en gefokte dieren of kunstmatig gekweekte planten, behorende tot beschermde uitheemse dier- of plantensoorten, bedoeld in artikel 4, eerste lid, onderdeel b, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet, indien: 
 
 a.  kan worden aangetoond dat de planten in Nederland gekweekt of de dieren in Nederland gefokt zijn, of, indien het producten van die planten of dieren betreft, betrokken producten van gekweekte planten of gefokte dieren afkomstig zijn, of,  
 
 b.  bedoelde gefokte dieren of gekweekte planten of producten daarvan aantoonbaar in overeenstemming met de in een lid-staat geldende regelgeving zijn verkregen.     
-2.  De vrijstelling, bedoeld in het eerste lid, is van toepassing, voorzover voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) gestelde regels.   
+2.  De vrijstelling, bedoeld in het eerste lid, is van toepassing, voorzover voldaan is aan de krachtens artikel 18 van het Besluit vrijstelling beschermde dier- en plantensoorten gestelde regels.   
 
 ### Artikel  20  
 
 ####(specimens van pelsdieren)
 
-1.  Van de verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vrijstelling verleend voor dieren en producten van dieren van de soorten, genoemd in artikel 4, tweede lid, onderdeel b, van de Regeling aanwijzing beschermde dier- en plantensoorten [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).   
+1.  Van de verboden, bedoeld in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor dieren en producten van dieren van de soorten, genoemd in artikel 4, tweede lid, onderdeel b, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet.   
 2.  De in het eerste lid bedoelde vrijstelling geldt niet voor het vanuit derde landen binnen het grondgebied van Nederland brengen van pelzen en goederen die pelzen of delen daarvan bevatten, tenzij voldaan is aan Verordening (EEG) nr. 3254/91 van de Raad van de Europese Gemeenschappen van 4 november 1991 houdende een verbod op het gebruik van de wildklem in de Gemeenschap en op het binnenbrengen in de Gemeenschap van pelzen en producten die vervaardigd zijn van bepaalde in het wild levende diersoorten uit landen waar gebruik wordt gemaakt van de wildklem of andere vangmethoden die niet stroken met de internationale normen voor humane vangst met behulp van vallen (PbEG L 308) en Verordening (EG) nr. 35/97 van de Commissie van de Europese Gemeenschappen van 10 januari 1997 tot vaststelling van bepalingen betreffende de certificatie van pelzen en goederen die vallen onder Verordening (EEG) nr. 3254/91 van de Raad (PbEG L 8).   
 
 ### Artikel 20a  
 
 ####(aal)
 
-1.  Van de verboden, bedoeld in de [artikelen 9](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [10 van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en het verbod op het onder zich hebben van beschermde inheemse diersoorten, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), wordt vrijstelling verleend voor de aal (Anguilla anguilla).   
+1.  Van de verboden, bedoeld in de artikelen 9 en 10 van de wet, en het verbod op het onder zich hebben van beschermde inheemse diersoorten, bedoeld in artikel 13, eerste lid, van de wet, wordt vrijstelling verleend voor de aal (Anguilla anguilla).   
 2.  De vrijstelling, bedoeld in het eerste lid, is alleen van toepassing, indien kan worden aangetoond: 
 
-− dat is voldaan aan het bij of krachtens de [Visserijwet 1963](../../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) bepaalde, of  
+− dat is voldaan aan het bij of krachtens de Visserijwet 1963 bepaalde, of  
 
 – dat de aal in Nederland is gebracht of verkregen overeenkomstig het bij of krachtens de wet bepaalde en met inachtneming van de basisverordening en uitvoeringsverordening.    
 
@@ -293,7 +293,7 @@ b.  bedoelde gefokte dieren of gekweekte planten of producten daarvan aantoonbaa
 
 ####(zeehonden)
 
-1.  De verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van producten van dieren van de soorten, genoemd in [artikel 4, tweede lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/dier-/en/plantensoorten/flora-/en/faunawet/BWBR0013485/README.md), voor zover is voldaan aan de voorwaarden, genoemd in artikel 3 van verordening (EG) 1007/2009, en evenmin ten aanzien van dieren van deze soorten.   
+1.  De verboden, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van producten van dieren van de soorten, genoemd in artikel 4, tweede lid, onderdeel c, van de Regeling aanwijzing beschermde dier- en plantensoorten Flora- en faunawet, voor zover is voldaan aan de voorwaarden, genoemd in artikel 3 van verordening (EG) 1007/2009, en evenmin ten aanzien van dieren van deze soorten.   
 2.  De artikelen 3 tot en met 5, 7 tot en met 11 en 16 zijn niet van toepassing op producten van dieren van de soorten, bedoeld in het eerste lid, die eveneens worden genoemd in bijlage A, B, C of D bij de basisverordening, tenzij is voldaan aan de voorwaarden, genoemd in artikel 3, eerste en tweede lid, van verordening (EG) 1007/2009.   
 3.  De in het eerste lid bedoelde vrijstelling is niet van toepassing op het vanuit andere landen dan lidstaten van de Europese Unie binnen het grondgebied van Nederland brengen van huiden van jonge dieren, of delen of producten daarvan, van de soorten klapmuts (Cystophora cristata) en zadelrob (Phoca groenlandica), voor zover deze producten niet afkomstig zijn van de traditionele jacht van de Inuit en andere inheemse gemeenschappen. 
 
@@ -307,7 +307,7 @@ Een wijziging van bijlage IV bij Richtlijn nr. 92/43/EEG van de Raad van de Euro
 
 ### Artikel  22  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 75, tweede lid, van de Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [artikel 17a van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) in werking treden.  
+Deze regeling treedt in werking op het tijdstip waarop artikel 75, tweede lid, van de Flora- en faunawet en artikel 17a van het Besluit vrijstelling beschermde dier- en plantensoorten in werking treden.  
 
 ### Artikel  23  
 

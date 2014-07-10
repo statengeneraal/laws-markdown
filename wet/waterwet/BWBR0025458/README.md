@@ -20,13 +20,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder: 
 
-*beheer:* de overheidszorg met betrekking tot een of meer afzonderlijke watersystemen of onderdelen daarvan, gericht op de in artikel 2.1 genoemde doelstellingen;  
+*beheer:* overheidszorg met betrekking tot een of meer afzonderlijke watersystemen of onderdelen daarvan, gericht op de in artikel 2.1 genoemde doelstellingen;  
 
-*beheerder:* het bevoegde bestuursorgaan van het overheidslichaam dat belast is met beheer;  
+*beheerder:* bevoegd bestuursorgaan van het overheidslichaam dat belast is met beheer;  
 
-*bergingsgebied:* een krachtens de [Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) voor waterstaatkundige doeleinden bestemd gebied, niet zijnde een oppervlaktewaterlichaam of onderdeel daarvan, dat dient ter verruiming van de bergingscapaciteit van een of meer watersystemen en ook als bergingsgebied op de legger is opgenomen;  
+*bergingsgebied:* krachtens de Wet ruimtelijke ordening voor waterstaatkundige doeleinden bestemd gebied, niet zijnde een oppervlaktewaterlichaam of onderdeel daarvan, dat dient ter verruiming van de bergingscapaciteit van een of meer watersystemen en ook als bergingsgebied op de legger is opgenomen;  
 
-*beschermingszone:* aan een waterstaatswerkgrenzende zone, waarin ter bescherming van dat werk voorschriften en beperkingen kunnen gelden;  
+*beschermingszone:* aan een waterstaatswerkgrenzende zone, waarin ter bescherming van dat werk voorschriften en beperkingen kunnen gelden; 
+
+*bevoegd gezag:* tot verlening van een watervergunning bevoegd bestuursorgaan, in voorkomend geval met toepassing van artikel 6.17;  
 
 *buitenwater:* water van een oppervlaktewaterlichaam waarvan de waterstand direct invloed ondergaat bij hoge stormvloed, bij hoog opperwater van een van de grote rivieren, bij hoog water van het IJsselmeer of het Markermeer, dan wel bij een combinatie daarvan;  
 
@@ -44,13 +46,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *kaderrichtlijn water:* richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327);  
 
+*legger:* legger als bedoeld in artikel 5.1; 
+
 *onttrekken van grondwater:* onttrekken van grondwater door middel van een onttrekkingsinrichting;  
 
 *onttrekkingsinrichting:* inrichting of werk, bestemd voor het onttrekken van grondwater;  
 
-*Onze Minister:* Onze Minister van Verkeer en Waterstaat;  
+*Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-*Onze Ministers:* Onze Minister van Verkeer en Waterstaat tezamen met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit, ieder voor zover het aangelegenheden betreft die mede tot zijn verantwoordelijkheid behoren;  
+*Onze Ministers:* Onze Minister van Infrastructuur en Milieu tezamen met Onze Minister van Economische Zaken, Landbouw en Innovatie, ieder voor zover het aangelegenheden betreft die mede tot zijn verantwoordelijkheid behoren;  
 
 *openbaar vuilwaterriool:* voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;  
 
@@ -81,8 +85,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 *zee:* mariene wateren, met uitzondering van de binnenwateren van staten, met inbegrip van de zeebodem en ondergrond daarvan;  
 
 *zuiveringtechnisch werk:* werk voor het zuiveren van stedelijk afvalwater, in exploitatie bij een waterschap of gemeente, dan wel een rechtspersoon die door het bestuur van een waterschap met de zuivering van stedelijk afvalwater is belast, met inbegrip van het bij dat werk behorende werk voor het transport van stedelijk afvalwater.     
-2.  Voor de toepassing van deze wet worden onttrekkingsinrichtingen die een samenhangend geheel vormen, als één onttrekkingsinrichting aangemerkt.   
-3.  Voor de toepassing van deze wet ten aanzien van de zee wordt onder oppervlaktewaterlichaam mede begrepen de ondergrond van de zeebodem. 
+2.  Voor de toepassing van deze wet en de daarop berustende bepalingen worden onttrekkingsinrichtingen die een samenhangend geheel vormen, als één onttrekkingsinrichting aangemerkt.   
+3.  Voor de toepassing van deze wet en de daarop berustende bepalingen ten aanzien van de zee wordt onder oppervlaktewaterlichaam mede begrepen de ondergrond van de zeebodem. 
 
 ### §  2  
 
@@ -90,7 +94,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1.2  
 
-1.  Voor de toepassing van het begrip stroomgebieddistrict in deze wet wordt het Nederlandse grondgebied ingedeeld in de op Nederlands grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde. Onder het Nederlandse grondgebied wordt in dit artikel mede verstaan de territoriale zee, voor zover die is gelegen aan de landzijde van de lijn waarvan elk punt zich bevindt op een afstand van een internationale zeemijl, gemeten zeewaarts vanaf de laagwaterlijn, bedoeld in [artikel 1 van de Wet grenzen Nederlandse territoriale zee](../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md) of de basislijn, bedoeld in [artikel 2 van die wet](../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md).   
+1.  Voor de toepassing van het begrip stroomgebieddistrict in deze wet en de daarop berustende bepalingen wordt het Nederlandse grondgebied ingedeeld in de op Nederlands grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde. Onder het Nederlandse grondgebied wordt in dit artikel en de daarop berustende bepalingen mede verstaan de territoriale zee, voor zover die is gelegen aan de landzijde van de lijn waarvan elk punt zich bevindt op een afstand van een internationale zeemijl, gemeten zeewaarts vanaf de laagwaterlijn, bedoeld in artikel 1 van de Wet grenzen Nederlandse territoriale zee of de basislijn, bedoeld in artikel 2 van die wet.   
 2.  De onderlinge grenzen van de Nederlandse delen van de stroomgebieddistricten worden vastgesteld bij of krachtens algemene maatregel van bestuur. Daarbij wordt tevens voorzien in de toedeling van de grondwaterlichamen aan de stroomgebieddistricten.   
 3.  Bij de voorbereiding van de maatregel horen Onze Ministers gedeputeerde staten van de betrokken provincies en de beheerders alsmede de bevoegde autoriteiten van de andere staten in het stroomgebieddistrict.  
 
@@ -170,7 +174,7 @@ Bij provinciale verordening worden, met het oog op de bergings- en afvoercapacit
 
 ### Artikel  2.10  
 
-Normen voor de chemische en ecologische kwaliteit van watersystemen worden vastgesteld op de voet van [hoofdstuk 5 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), in overeenstemming met het stelsel van milieudoelstellingen, opgenomen in artikel 4 van de kaderrichtlijn water. 
+Normen voor de chemische en ecologische kwaliteit van watersystemen worden vastgesteld krachtens hoofdstuk 5 van de Wet milieubeheer, in overeenstemming met het stelsel van milieudoelstellingen, opgenomen in artikel 4 van de kaderrichtlijn water. 
 
 ### Artikel  2.11  
 
@@ -185,7 +189,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor rijkswateren en, met
 1.  Iedere twaalf jaren brengt de beheerder verslag uit aan Onze Minister over de algemene waterstaatkundige toestand van de primaire waterkering.   
 2.  Iedere twaalf jaren brengt de beheerder van het buitenwater, zijnde de grote rivieren, verslag uit aan Onze Minister over de mate waarin voldaan wordt aan de voor deze wateren opgestelde legger, mede in het licht van de hoogwaterstanden als bedoeld in artikel 2.3, eerste lid.   
 3.  Onze Minister brengt telkens over de in het eerste lid genoemde periode over elke dijkring verslag uit aan de beide Kamers der Staten-Generaal.   
-4.  De in het eerste lid bedoelde verslagen bevatten een beoordeling van de veiligheid. Die beoordeling geschiedt onder meer in het licht van de ingevolge artikel 2.2, eerste of tweede lid, vastgestelde veiligheidsnorm, de ingevolge artikel 2.3, eerste lid, vastgestelde factoren, de in artikel 2.6, eerste lid, bedoelde technische leidraden en de in artikel 5.1 bedoelde legger. Bij ministeriële regeling worden nadere regels gesteld over de beoordeling. Bij de voorbereiding van de regeling worden de besturen van de waterschappen gehoord.   
+4.  De in het eerste lid bedoelde verslagen bevatten een beoordeling van de veiligheid. Die beoordeling geschiedt onder meer in het licht van de ingevolge artikel 2.2, eerste of tweede lid, vastgestelde veiligheidsnorm, de ingevolge artikel 2.3, eerste lid, vastgestelde factoren, de in artikel 2.6, eerste lid, bedoelde technische leidraden en de legger. Bij ministeriële regeling worden nadere regels gesteld over de beoordeling. Bij de voorbereiding van de regeling worden de besturen van de waterschappen gehoord.   
 5.  Indien de beoordeling van de veiligheid daartoe aanleiding geeft, bevatten de in het eerste lid bedoelde verslagen een omschrijving van de voorzieningen die op een daarbij aan te geven termijn nodig worden geacht.  
 
 ### Artikel  2.13  
@@ -210,11 +214,12 @@ Onverminderd artikel 2.12 kunnen bij of krachtens algemene maatregel van bestuur
 2.  Bij of krachtens algemene maatregel van bestuur wordt voor de onder de aanwijzing vallende oppervlaktewaterlichamen tevens de begrenzing vastgesteld. Daarbij worden de oppervlaktewaterlichamen van de rivieren begrensd door de buitenkruinlijn van de primaire waterkering voor zover die primaire waterkering is aangegeven op de kaart die als bijlage I bij deze wet behoort, dan wel, waar deze ontbreekt, de daarbij vast te stellen lijn van de hoogwaterkerende gronden.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen gronden binnen een oppervlaktewaterlichaam worden aangewezen als drogere oevergebieden als bedoeld in de begripsomschrijving van oppervlaktewaterlichaam in artikel 1.1.   
 4.  De voordracht voor de maatregel, bedoeld in het eerste lid, wordt gedaan nadat gedeputeerde staten van alle provincies alsmede alle waterschapsbesturen zijn geraadpleegd over de inhoud daarvan.   
-5.  De voordracht voor een algemene maatregel van bestuur houdende wijziging van de in het eerste lid bedoelde aanwijzing kan slechts worden gedaan indien over een daarin besloten liggende overdracht dan wel overneming van het beheer door Onze Minister overeenstemming is bereikt met de betrokken andere beheerder en gedeputeerde staten. 
+5.  De voordracht voor een algemene maatregel van bestuur houdende wijziging van de in het eerste lid bedoelde aanwijzing kan slechts worden gedaan indien over een daarin besloten liggende overdracht dan wel overneming van het beheer door Onze Minister overeenstemming is bereikt met de betrokken andere beheerder en gedeputeerde staten.  
+6.  Bij ministeriële regeling kunnen niet tot het Rijk behorende overheidslichamen worden aangewezen die geheel of gedeeltelijk zijn belast met het beheer van daarbij aangewezen rijkswateren. De aanwijzing gebeurt in overeenstemming met het desbetreffende bestuursorgaan. 
 
 ### Artikel  3.2  
 
-1.  Bij provinciale verordening worden voor de niet bij het Rijk in beheer zijnde watersystemen of onderdelen daarvan overheidslichamen aangewezen die belast zijn met het beheer, met inachtneming van [artikel 2, tweede lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md).   
+1.  Bij provinciale verordening worden voor de regionale wateren overheidslichamen aangewezen geheel of gedeeltelijk zijn belast met het beheer, met inachtneming van artikel 2, tweede lid, van de Waterschapswet.   
 2.  Voor zover bij provinciale verordening andere lichamen dan waterschappen worden belast met beheer, zijn de artikelen 4.6, 5.1, 7.2, 8.1 en 8.3 van deze wet niet van toepassing voor de betrokken beheerders en, indien het provincies en gemeenten betreft, evenmin artikel 5.29, behoudens voor zover dat artikel bij of krachtens die verordening van toepassing wordt verklaard voor daarbij aan te wijzen waterstaatswerken, in verband met de bijzondere betekenis van die waterstaatswerken.   
 3.  Artikel 3.1, derde lid, is van overeenkomstige toepassing. 
 
@@ -224,7 +229,7 @@ Het waterschap draagt zo goed mogelijk zorg voor het voorkomen van schade aan wa
 
 ### Artikel  3.3  
 
-1.  In het belang van het tijdig nemen van maatregelen bij hoog water dat gevaar voor een tot directe kering van het buitenwater bestemde primaire waterkering kan opleveren, draagt Onze Minister zorg dat: 
+1.  In het belang van het tijdig nemen van maatregelen bij hoog water dat gevaar voor een tot directe kering van het buitenwater bestemde primaire waterkering kan opleveren, draagt Onze Minister er zorg voor dat: 
 
 a. informatie beschikbaar is over de verwachte afwijkingen van de daartoe door Onze Minister gepubliceerde hoogwaterstanden;  
 
@@ -322,16 +327,16 @@ Onze Minister oefent het toezicht uit op de primaire waterkeringen.
 
 ### Artikel  3.12  
 
-1.  Gedeputeerde staten kunnen, indien een samenhangend en doelmatig regionaal waterbeheer dat vordert, het bestuur van een waterschap een aanwijzing geven omtrent de uitoefening van taken of bevoegdheden. Indien het een waterschap betreft waarvan het gebied in twee of meer provincies is gelegen, wordt de aanwijzing gegeven door gedeputeerde staten van de provincie of provincies waaraan het toezicht op het waterschap is opgedragen.   
+1.  Gedeputeerde staten kunnen, indien een samenhangend en doelmatig regionaal waterbeheer dat vordert, het bestuur van een waterschap een aanwijzing geven omtrent de uitoefening van bevoegdheden of de uitvoering van taken. Indien het een waterschap betreft waarvan het gebied in twee of meer provincies is gelegen, wordt de aanwijzing gegeven door gedeputeerde staten van de provincie of provincies waaraan het toezicht op het waterschap is opgedragen.   
 2.  Bij de aanwijzing wordt een termijn gesteld waarbinnen uitvoering wordt gegeven aan de aanwijzing.   
 3.  Een aanwijzing wordt niet gegeven dan nadat het bestuur van het waterschap in de gelegenheid is gesteld van zijn gevoelen omtrent het voornemen tot het geven van de aanwijzing te doen blijken, tenzij spoedeisende omstandigheden zich daartegen verzetten.   
-4.  Wanneer het bestuur van een waterschap een krachtens het eerste lid gevorderde beslissing niet of niet naar behoren neemt, zijn gedeputeerde staten bevoegd daarin namens dat bestuur en ten laste van dat waterschap te voorzien. Indien gedeputeerde staten gebruikmaken van deze bevoegdheid, melden zij dit onverwijld aan Onze Minister.  
+4.  Wanneer het bestuur van een waterschap niet, niet tijdig of niet naar behoren gevolg geeft aan de aanwijzing, zijn gedeputeerde staten bevoegd daarin namens dat bestuur en ten laste van dat waterschap te voorzien. Indien gedeputeerde staten gebruikmaken van deze bevoegdheid, melden zij dit onverwijld aan Onze Minister.  
 
 ### Artikel  3.13  
 
-1.  Onze Minister kan, indien internationale verplichtingen of bovenregionale belangen dat noodzakelijk maken, gedeputeerde staten of het bestuur van een waterschap een aanwijzing geven omtrent de uitoefening van taken of bevoegdheden in het kader van het waterbeheer. Artikel 3.12, tweede lid, is van overeenkomstige toepassing.   
+1.  Onze Minister kan, indien internationale verplichtingen of bovenregionale belangen dat noodzakelijk maken, gedeputeerde staten of het bestuur van een waterschap een aanwijzing geven omtrent de uitoefening van bevoegdheden of de uitvoering van taken in het kader van het waterbeheer. Artikel 3.12, tweede lid, is van overeenkomstige toepassing.   
 2.  Een aanwijzing wordt niet gegeven dan nadat het betrokken bestuursorgaan en, indien de aanwijzing is gericht tot het bestuur van een waterschap, gedeputeerde staten van de provincie of provincies waaraan het toezicht op dat waterschap is opgedragen, in de gelegenheid zijn gesteld van hun gevoelen omtrent het voornemen tot het geven van de aanwijzing te doen blijken, tenzij spoedeisende omstandigheden zich daartegen verzetten.   
-3.  Wanneer het bestuur van een waterschap een krachtens het eerste lid gevorderde beslissing niet of niet naar behoren neemt dan wel een krachtens het eerste lid gevorderde handeling niet of niet naar behoren verricht, besluit Onze Minister daarin te voorzien ten laste van het waterschap. De [artikelen 121, tweede en vierde lid](../../../wet/provinciewet/BWBR0005645/README.md), [121a tot en met 121e van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) zijn van overeenkomstige toepassing.  
+3.  Wanneer het bestuur van een waterschap een krachtens het eerste lid gevorderde beslissing niet of niet naar behoren neemt dan wel een krachtens het eerste lid gevorderde handeling niet of niet naar behoren verricht of anderszins een krachtens het eerste lid gevorderd resultaat niet, niet tijdig of niet naar behoren tot stand brengt, besluit Onze Minister daarin te voorzien ten laste van het waterschap. De artikelen 121, tweede en vierde lid, 121a tot en met 121e van de Provinciewet zijn van overeenkomstige toepassing.  
 
 ### Artikel  3.14  
 
@@ -348,7 +353,7 @@ Onze Minister oefent het toezicht uit op de primaire waterkeringen.
 
 ### Artikel  4.1  
 
-1.  Onze Ministers leggen in een nationaal waterplan de hoofdlijnen vast van het nationale waterbeleid en de daartoe behorende aspecten van het nationale ruimtelijke beleid. Het plan is voor de ruimtelijke aspecten tevens een structuurvisie als bedoeld in [artikel 2.3, tweede lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+1.  Onze Ministers leggen in een nationaal waterplan de hoofdlijnen vast van het nationale waterbeleid en de daartoe behorende aspecten van het nationale ruimtelijke beleid. Het plan is voor de ruimtelijke aspecten tevens een structuurvisie als bedoeld in artikel 2.3, tweede lid, van de Wet ruimtelijke ordening.   
 2.  De hoofdlijnen omvatten in ieder geval: 
 
 a. een aanduiding, in het licht van de wettelijke doelstellingen en normen, van de gewenste ontwikkeling, werking en bescherming van de watersystemen, alsmede van de bijbehorende termijnen;  
@@ -389,7 +394,7 @@ d. inspraak van ingezetenen en belanghebbenden.
 
 ### Artikel  4.4  
 
-1.  Provinciale staten leggen in een of meer regionale waterplannen de hoofdlijnen vast van het in de provincie te voeren waterbeleid en de daartoe behorende aspecten van het provinciale ruimtelijke beleid. Deze plannen zijn voor de ruimtelijke aspecten tevens structuurvisies als bedoeld in [artikel 2.2, tweede lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+1.  Provinciale staten leggen in een of meer regionale waterplannen de hoofdlijnen vast van het in de provincie te voeren waterbeleid en de daartoe behorende aspecten van het provinciale ruimtelijke beleid. Deze plannen zijn voor de ruimtelijke aspecten tevens structuurvisies als bedoeld in artikel 2.2, tweede lid, van de Wet ruimtelijke ordening.   
 2.  De hoofdlijnen omvatten in ieder geval: 
 
 a. de vastlegging van de functies van de regionale wateren;  
@@ -431,13 +436,11 @@ d. een overzicht van de financiële middelen, die voor de uitvoering van het pro
 
 ### Artikel  4.7  
 
-1.  Bij of krachtens algemene maatregel van bestuur of provinciale verordening worden regels gesteld omtrent de voorbereiding en goedkeuring, alsmede de vormgeving en inrichting van beheerplannen betreffende rijkswateren, onderscheidenlijk regionale wateren. Deze regels hebben in elk geval betrekking op: 
+1.  Bij of krachtens algemene maatregel van bestuur of provinciale verordening worden regels gesteld omtrent de voorbereiding, alsmede de vormgeving en inrichting van beheerplannen betreffende rijkswateren, onderscheidenlijk regionale wateren. Deze regels hebben in elk geval betrekking op: 
 
 a. de raadpleging van de in artikel 4.6, eerste lid, bedoelde beheerders alsmede gedeputeerde staten van de provincies en de besturen van de veiligheidsregio’s waarbinnen de watersystemen of onderdelen daarvan zijn gelegen, alsmede de ten aanzien van grensvormende of grensoverschrijdende wateren bevoegde Belgische, Duitse of Britse autoriteiten; 
 
-b. inspraak van belanghebbenden en ingezetenen van het beheersgebied;  
-
-c. de goedkeuring van een beheerplan betreffende regionale wateren door gedeputeerde staten.     
+b. inspraak van belanghebbenden en ingezetenen van het beheersgebied.     
 2.  Bij de maatregel of verordening, bedoeld in het eerste lid, wordt voorzien in toezending of kennisgeving van een vastgesteld beheerplan aan de ingevolge het eerste lid geraadpleegde instanties alsmede Onze Minister.  
 
 ### §  4  
@@ -510,7 +513,7 @@ De beheerder neemt, met inachtneming van de bij of krachtens hoofdstuk 2 gesteld
 3.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen regels worden gesteld over de wijze waarop de inventarisatie wordt uitgevoerd en private partijen daarbij betrokken worden.   
 4.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 5.  Indien het plan de verlegging van een primaire waterkering betreft, kan het voorts voorzieningen bevatten met betrekking tot de inpassing in de omgeving van het gebied tussen de plaats waar de oorspronkelijke primaire waterkering is gelegen, en de plaats waar de nieuwe primaire waterkering komt te liggen.   
-6.  Het eerste lid is niet van toepassing, indien ten aanzien van een in dat lid bedoeld werk de [Tracéwet](../../../wet/tracéwet/BWBR0006147/README.md) of de [Spoedwet wegverbreding](../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) van toepassing is, of indien ten aanzien van dat werk toepassing wordt gegeven aan [afdeling 3.5 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).  
+6.  Het eerste lid is niet van toepassing, indien ten aanzien van een in dat lid bedoeld werk de Tracéwet of de Spoedwet wegverbreding van toepassing is, of indien ten aanzien van dat werk toepassing wordt gegeven aan afdeling 3.5 van de Wet ruimtelijke ordening.  
 
 ### §  2  
 
@@ -518,19 +521,19 @@ De beheerder neemt, met inachtneming van de bij of krachtens hoofdstuk 2 gesteld
 
 ### Artikel  5.5  
 
-Deze paragraaf is van toepassing op projectplannen tot aanleg, verlegging of versterking van primaire waterkeringen en, in de gevallen bij of krachtens provinciale verordening bepaald, op projectplannen van besturen van waterschappen voor de aanleg of wijziging van andere waterkeringen dan primaire waterkeringen en op andere waterstaatswerken van bovenlokale betekenis die met spoed en op gecoördineerde wijze tot stand moeten worden gebracht. 
+Deze paragraaf is van toepassing op projectplannen tot aanleg of wijziging van primaire waterkeringen en, in de gevallen bij of krachtens provinciale verordening bepaald, op projectplannen van besturen van waterschappen voor de aanleg of wijziging van andere waterkeringen dan primaire waterkeringen en op andere waterstaatswerken van bovenlokale betekenis die met spoed en op gecoördineerde wijze tot stand moeten worden gebracht. 
 
 ### Artikel  5.6  
 
-1.  Op de voorbereiding van het projectplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-2.  De terinzagelegging, bedoeld in [artikel 3:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geschiedt tevens ten kantore van de betrokken bestuursorganen. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
-3.  De beheerder stelt een projectplan tot aanleg, verlegging of versterking van een primaire waterkering vast binnen twaalf weken nadat de termijn voor het naar voren brengen van zienswijzen is verstreken. Na vaststelling zendt hij het plan onverwijld aan gedeputeerde staten.  
+1.  Op de voorbereiding van het projectplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+2.  De terinzagelegging, bedoeld in artikel 3:11 van de Algemene wet bestuursrecht, geschiedt tevens ten kantore van de betrokken bestuursorganen. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
+3.  De beheerder stelt een projectplan tot aanleg of wijziging van een primaire waterkering vast binnen twaalf weken nadat de termijn voor het naar voren brengen van zienswijzen is verstreken. Na vaststelling zendt hij het plan onverwijld aan gedeputeerde staten.  
 
 ### Artikel  5.7  
 
-1.  Het projectplan behoeft de goedkeuring van gedeputeerde staten van de provincie op wier grondgebied het wordt uitgevoerd.   
+1.  Het projectplan behoeft de goedkeuring van gedeputeerde staten van de provincie op wier grondgebied het wordt uitgevoerd. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
 2.  Indien het een waterstaatswerk betreft dat in meer dan één provincie is gelegen, kunnen gedeputeerde staten van de desbetreffende provincies bij overeenstemmende besluiten bepalen dat gedeputeerde staten van de provincie waarin het waterstaatswerk in hoofdzaak is gelegen, belast zijn met de goedkeuring van het projectplan.   
-3.  In afwijking van [artikel 10:31, tweede en derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het nemen van een besluit omtrent de goedkeuring van een projectplan tot aanleg, verlegging of versterking van een primaire waterkering niet worden verdaagd.  
+3.  In afwijking van artikel 10:31, tweede en derde lid, van de Algemene wet bestuursrecht kan het nemen van een besluit omtrent de goedkeuring van een projectplan tot aanleg of wijziging van een primaire waterkering niet worden verdaagd.  
 
 ### Artikel  5.8  
 
@@ -541,23 +544,23 @@ Deze paragraaf is van toepassing op projectplannen tot aanleg, verlegging of ver
 
 ### Artikel  5.9  
 
-Op de voorbereiding van de in artikel 5.8, eerste lid, bedoelde besluiten is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat: 
+Op de voorbereiding van de in artikel 5.8, eerste lid, bedoelde besluiten is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing, met dien verstande dat: 
 
-a. de ontwerpen van de besluiten binnen een door gedeputeerde staten te bepalen termijn worden toegezonden aan gedeputeerde staten, die zorg dragen voor de in [artikel 3:13, eerste lid, van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde toezending;  
+a. de ontwerpen van de besluiten binnen een door gedeputeerde staten te bepalen termijn worden toegezonden aan gedeputeerde staten, die zorg dragen voor de in artikel 3:13, eerste lid, van die wet bedoelde toezending;  
 
-b. gedeputeerde staten ten aanzien van de ontwerpen van de besluiten gezamenlijk toepassing kunnen geven aan de [artikelen 3:11, eerste lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [3:12 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b. gedeputeerde staten ten aanzien van de ontwerpen van de besluiten gezamenlijk toepassing kunnen geven aan de artikelen 3:11, eerste lid, en 3:12 van die wet;  
 
 c. zienswijzen naar voren kunnen worden gebracht door een ieder;  
 
-d. in afwijking van [artikel 3:18 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de besluiten worden genomen binnen een door gedeputeerde staten te bepalen termijn;  
+d. in afwijking van artikel 3:18 van die wet de besluiten worden genomen binnen een door gedeputeerde staten te bepalen termijn;  
 
 e. de besluiten onverwijld worden gezonden aan gedeputeerde staten;  
 
-f. gedeputeerde staten beslissen over de toepassing van [artikel 3:18, tweede lid, van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+f. gedeputeerde staten beslissen over de toepassing van artikel 3:18, tweede lid, van die wet.   
 
 ### Artikel  5.10  
 
-Voor zover een bestemmingsplan voor de uitvoering van werken en werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet in het gebied dat is begrepen in een vastgesteld projectplan. 
+Voor zover een bestemmingsplan voor de uitvoering van werken en werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht vereist, geldt zodanige eis niet in het gebied dat is begrepen in een vastgesteld projectplan. 
 
 ### Artikel  5.11  
 
@@ -571,12 +574,13 @@ De in artikel 5.8, eerste lid, bedoelde besluiten worden, voor zover zij gecoör
 
 ### Artikel  5.13  
 
-In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen de besluiten, bedoeld in artikel 5.8, eerste lid, aan met ingang van de dag na die waarop de in artikel 5.12 bedoelde bekendmaking is geschied.
+2.  Tegen een besluit als bedoeld in artikel 5.7, eerste lid, kan geen beroep bij de bestuursrechter worden ingesteld door een belanghebbende aan wie redelijkerwijze kan worden verweten dat hij geen zienswijzen als bedoeld in artikel 3:15 van de Algemene wet bestuursrecht naar voren heeft gebracht tegen het ontwerp van het projectplan waarop de goedkeuring betrekking heeft. 
+2.  In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het indienen van een beroepschrift tegen de besluiten, bedoeld in artikel 5.8, eerste lid, aan met ingang van de dag na die waarop de in artikel 5.12 bedoelde bekendmaking is geschied.
 
 ### Artikel  5.14  
 
-1. Onteigening ingevolge [titel II](../../../wet/onteigeningswet/BWBR0001842/README.md) of [IIa van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) kan mede geschieden ter uitvoering van de in een projectplan opgenomen voorzieningen, bedoeld in artikel 5.4, tweede of vijfde lid.  
-2.  De in [artikel 18, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) bedoelde dagvaarding kan geschieden nadat het projectplan door gedeputeerde staten is goedgekeurd. De rechtbank spreekt de onteigening niet uit dan nadat het projectplan onherroepelijk is geworden. 
+1. Onteigening ingevolge titel II of IIa van de onteigeningswet kan mede geschieden ter uitvoering van de in een projectplan opgenomen voorzieningen, bedoeld in artikel 5.4, tweede of vijfde lid.  
+2.  De in artikel 18, eerste lid, van de onteigeningswet bedoelde dagvaarding kan geschieden nadat het projectplan door gedeputeerde staten is goedgekeurd. De rechtbank spreekt de onteigening niet uit dan nadat het projectplan onherroepelijk is geworden. 
 
 ### §  3  
 
@@ -585,7 +589,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/al
 ### Artikel  5.15  
 
 1.  Indien ten gevolge van een ongewoon voorval de bodem of oever van een oppervlaktewaterlichaam zodanig is of dreigt te worden verontreinigd of aangetast dat de kwaliteit van die bodem of oever een belemmering vormt voor het bereiken van de gewenste gebiedskwaliteit, neemt de beheerder onverwijld de naar zijn oordeel noodzakelijke maatregelen ten einde de oorzaak van de verontreiniging of aantasting weg te nemen en de verontreiniging of de aantasting en de directe gevolgen daarvan te beperken en zoveel mogelijk ongedaan te maken.   
-2.  De [artikelen 30, tweede tot en met vierde lid](../../../wet/wet/bodembescherming/BWBR0003994/README.md), en [74 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) zijn van overeenkomstige toepassing, met dien verstande dat voor «gedeputeerde staten» wordt gelezen: de beheerder.  
+2.  De artikelen 30, tweede tot en met vierde lid, en 74 van de Wet bodembescherming zijn van overeenkomstige toepassing, met dien verstande dat voor «gedeputeerde staten» wordt gelezen: de beheerder.  
 
 ### Artikel  5.16  
 
@@ -601,12 +605,12 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/al
 a. de bron van de verontreiniging of aantasting in de bodem of oever van het oppervlaktewaterlichaam is gelegen, en  
 
 b. de verontreiniging of aantasting van de bodem die niet tot de bodem of oever van een oppervlaktewaterlichaam behoort tot ernstige risico’s leidt.     
-2.  In een geval als bedoeld in het eerste lid pleegt de beheerder, alvorens de maatregelen of voorzieningen te treffen, ter zake overleg met het bevoegde bestuursorgaan ingevolge de [Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md).   
-3.  [Paragraaf 3 van hoofdstuk IV van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) is niet van toepassing op maatregelen of voorzieningen als bedoeld in het eerste lid die de beheerder treft in de bodem die niet behoort tot de bodem of oever van een oppervlaktewaterlichaam.  
+2.  In een geval als bedoeld in het eerste lid pleegt de beheerder, alvorens de maatregelen of voorzieningen te treffen, ter zake overleg met het bevoegde bestuursorgaan ingevolge de Wet bodembescherming.   
+3.  Paragraaf 3 van hoofdstuk IV van de Wet bodembescherming is niet van toepassing op maatregelen of voorzieningen als bedoeld in het eerste lid die de beheerder treft in de bodem die niet behoort tot de bodem of oever van een oppervlaktewaterlichaam.  
 
 ### Artikel  5.18  
 
-Indien een verontreiniging of aantasting van de bodem of oever van een oppervlaktewaterlichaam als bedoeld in artikel 6.8 zich niet beperkt tot die bodem of oever, pleegt de beheerder, alvorens van zijn bevoegdheden gebruik te maken, ter zake overleg met het bevoegde bestuursorgaan ingevolge de [Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md). 
+Indien een verontreiniging of aantasting van de bodem of oever van een oppervlaktewaterlichaam als bedoeld in artikel 6.8 zich niet beperkt tot die bodem of oever, pleegt de beheerder, alvorens van zijn bevoegdheden gebruik te maken, ter zake overleg met het bevoegde bestuursorgaan ingevolge de Wet bodembescherming. 
 
 ### Artikel  5.19  
 
@@ -619,12 +623,11 @@ Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke geva
 ### Artikel  5.20  
 
 1.  De met de inspectie van watersystemen of onderdelen daarvan belaste personen, werkzaam onder verantwoordelijkheid van de beheerder, zijn bevoegd, met medeneming van de benodigde apparatuur, elke plaats te betreden met uitzondering van woningen zonder toestemming van de bewoner.   
-2.  De in het eerste lid bedoelde personen zijn, indien zij daartoe bij besluit van de beheerder zijn aangewezen, tevens bevoegd woningen zonder toestemming van de bewoner te betreden, voorzover die woningen deel uitmaken van een waterstaatswerk of daarmee rechtstreeks in verbinding staan.   
-3.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15, tweede en derde lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+2.  De artikelen 5:13, 5:15, tweede en derde lid, 5:16 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 
 ### Artikel  5.21  
 
-1.  De beheerder kan, voor zover dat voor de vervulling van zijn taken redelijkerwijs nodig is, rechthebbenden ten aanzien van gronden de verplichting opleggen om op of in die gronden onderzoeken en daarmee verband houdende werkzaamheden te gedogen.   
+1.  De beheerder of, in voorkomende gevallen, gedeputeerde staten kunnen, voor zover dat voor de vervulling van hun taken redelijkerwijs nodig is, rechthebbenden ten aanzien van gronden de verplichting opleggen om op of in die gronden onderzoeken en daarmee verband houdende werkzaamheden te gedogen.   
 2.  Spoedeisende gevallen uitgezonderd, wordt de beschikking waarbij de gedoogplicht wordt opgelegd, ten minste twee weken voor aanvang van het onderzoek aan de rechthebbenden bekendgemaakt.  
 
 ### Artikel  5.22  
@@ -646,7 +649,7 @@ Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke geva
 ### Artikel  5.25  
 
 1.  Rechthebbenden ten aanzien van onroerende zaken zijn gehouden te gedogen dat op of aan die zaken door of vanwege de beheerder meetmiddelen, seinen, merken of andere tekens worden aangebracht en in stand gehouden, indien dat naar het oordeel van de beheerder nodig is in verband met de functievervulling van een waterstaatswerk.   
-2.  Het eerste lid is van overeenkomstige toepassing op verkeerstekens die door of vanwege het op grond van de [Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) bevoegde gezag worden aangebracht en in stand gehouden.  
+2.  Het eerste lid is van overeenkomstige toepassing op verkeerstekens die door of vanwege het op grond van de Scheepvaartverkeerswet bevoegde gezag worden aangebracht en in stand gehouden.  
 
 ### Artikel  5.26  
 
@@ -663,17 +666,17 @@ Rechthebbenden ten aanzien van gronden waarin het grondwater invloed ondergaat d
 ### Artikel  5.28  
 
 1.  In deze paragraaf wordt verstaan onder gevaar: omstandigheden waardoor de goede staat van een of meer waterstaatswerken onmiddellijk en ernstig in het ongerede is of dreigt te geraken.   
-2.  Deze paragraaf is niet van toepassing op gevaren die het gevolg zijn van een ongeval als bedoeld in de [Wet bestrijding ongevallen Noordzee](../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md).  
+2.  Deze paragraaf is niet van toepassing op gevaren die het gevolg zijn van een ongeval als bedoeld in de Wet bestrijding ongevallen Noordzee.  
 
 ### Artikel  5.29  
 
 1.  De beheerder draagt zorg voor het houden van oefeningen in doeltreffend optreden bij gevaar. Tevens stelt hij voor de waterstaatswerken onder zijn beheer een calamiteitenplan vast, dat voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels.   
-2.  In het calamiteitenplan wordt de afstemming op crisisplannen als bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) en voor het waterbeheer van belang zijnde rampbestrijdingsplannen, vastgesteld voor het gebied waarin de waterstaatswerken zijn gelegen, gewaarborgd.   
+2.  In het calamiteitenplan wordt de afstemming op crisisplannen als bedoeld in artikel 16 van de Wet veiligheidsregio’s en voor het waterbeheer van belang zijnde rampbestrijdingsplannen, vastgesteld voor het gebied waarin de waterstaatswerken zijn gelegen, gewaarborgd.   
 3.  Het ontwerp van een calamiteitenplan wordt in elk geval voor commentaar gezonden aan de besturen van de veiligheidsregio’s waarbinnen de waterstaatswerken zijn gelegen.  
 
 ### Artikel  5.30  
 
-1.  De beheerder is in geval van gevaar, zolang de daardoor ontstane situatie zulks noodzakelijk maakt, bevoegd de maatregelen te treffen die hij nodig oordeelt, zo nodig in afwijking van wettelijke voorschriften, met dien verstande dat hij geen maatregelen treft die in strijd zijn met de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) of met internationaalrechtelijke verplichtingen.   
+1.  De beheerder is in geval van gevaar, zolang de daardoor ontstane situatie zulks noodzakelijk maakt, bevoegd de maatregelen te treffen die hij nodig oordeelt, zo nodig in afwijking van wettelijke voorschriften, met dien verstande dat hij geen maatregelen treft die in strijd zijn met de Grondwet of met internationaalrechtelijke verplichtingen.   
 2.  Indien het bestuur van een waterschap gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, meldt hij dit onverwijld aan gedeputeerde staten.   
 3.  Indien het bestuur van een waterschap in verband met gevaar voor een primaire waterkering gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, meldt hij dit, in afwijking van het tweede lid, onverwijld aan Onze Minister.  
 4.  De beheerder brengt, zodra de feitelijke omstandigheden op grond waarvan toepassing is gegeven aan het eerste lid, dat toelaten, het waterstaatswerk weer zoveel mogelijk in overeenstemming met de in de legger voorgeschreven staat.   
@@ -689,7 +692,7 @@ Rechthebbenden ten aanzien van gronden waarin het grondwater invloed ondergaat d
 
 ### Artikel  5.32  
 
-1.  Onze Minister is in de openbare lichamen Bonaire, Sint Eustatius en Saba in geval van een watersnood, zolang de daardoor ontstane situatie zulks noodzakelijk maakt, bevoegd maatregelen te treffen die hij nodig oordeelt, zo nodig in afwijking van wettelijke voorschriften, met dien verstande dat hij geen maatregelen treft die in strijd zijn met de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) of met internationaalrechtelijke verplichtingen.   
+1.  Onze Minister is in de openbare lichamen Bonaire, Sint Eustatius en Saba in geval van een watersnood, zolang de daardoor ontstane situatie zulks noodzakelijk maakt, bevoegd maatregelen te treffen die hij nodig oordeelt, zo nodig in afwijking van wettelijke voorschriften, met dien verstande dat hij geen maatregelen treft die in strijd zijn met de Grondwet of met internationaalrechtelijke verplichtingen.   
 2.  Onder watersnood wordt mede verstaan een dringend of dreigend gevaar voor overstroming.   
 3.  Onze Minister draagt zorg voor het houden van oefeningen in doeltreffend optreden bij watersnood.   
 4.  Onze Minister draagt zorg voor een evaluatie van het optreden en verder handelen bij toepassing van het eerste lid.  
@@ -705,8 +708,6 @@ Rechthebbenden ten aanzien van gronden waarin het grondwater invloed ondergaat d
 ### Artikel  6.1  
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder: 
-
-*bevoegd gezag:* tot verlening van een watervergunning bevoegd bestuursorgaan, in voorkomend geval met toepassing van artikel 6.17;  
 
 *lozen:* brengen van stoffen in een oppervlaktewaterlichaam of brengen van water of stoffen op een zuiveringtechnisch werk;  
 
@@ -731,7 +732,7 @@ a. een daartoe strekkende vergunning is verleend door het bestuur van het in art
 
 b. daarvoor vrijstelling is verleend bij of krachtens algemene maatregel van bestuur.     
 3.  Voor de toepassing van het eerste lid worden de gronden binnen een oppervlaktewaterlichaam die ingevolge artikel 3.1 of 3.2 zijn aangewezen als drogere oevergebieden, niet tot dat oppervlaktewaterlichaam gerekend.   
-4.  Het eerste lid is niet van toepassing op het lozen ten gevolge van het gebruik van meststoffen op agrarische gronden in uiterwaarden en buitendijkse gebieden in het kader van de normale agrarische bedrijfsuitoefening, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Meststoffenwet](../../../wet/meststoffenwet/BWBR0004054/README.md).  
+4.  Het eerste lid is niet van toepassing op het lozen ten gevolge van het gebruik van meststoffen op agrarische gronden in uiterwaarden en buitendijkse gebieden in het kader van de normale agrarische bedrijfsuitoefening, voor zover daaromtrent regels zijn gesteld bij of krachtens de Meststoffenwet.  
 
 ### Artikel  6.3  
 
@@ -756,7 +757,7 @@ b. ten behoeve van de openbare drinkwatervoorziening of een bodemenergiesysteem.
 
 ### Artikel  6.5  
 
-Bij of krachtens algemene maatregel van bestuur kan voor rijkswateren en, met het oog op internationale verplichtingen of bovenregionale belangen, voor regionale wateren worden bepaald dat het verboden is zonder vergunning van Onze Minister, onderscheidenlijk het bestuur van het waterschap: 
+Bij of krachtens algemene maatregel van bestuur kan voor rijkswateren en, met het oog op internationale verplichtingen of bovenregionale belangen, voor regionale wateren worden bepaald dat het verboden is zonder daartoe strekkende vergunning van Onze Minister, onderscheidenlijk het bestuur van het waterschap: 
 
 a. water te brengen in of te onttrekken aan een oppervlaktewaterlichaam;  
 
@@ -772,7 +773,7 @@ c. gebruik te maken van een waterstaatswerk of een daartoe behorende bescherming
 
 ### Artikel  6.7  
 
-De in artikel 6.6, eerste lid, bedoelde regels kunnen mede een vrijstelling van een in de artikelen 6.3 tot en met 6.5 bedoelde vergunningplicht of een verbod op het verrichten van daarbij aangegeven handelingen inhouden, alsmede de verplichting om, met inachtneming van bij of krachtens algemene maatregel van bestuur te stellen regels, het verrichten van handelingen te melden, metingen uit te voeren, gegevens te registreren en daarvan opgave te doen aan een daarbij aangewezen bestuursorgaan. 
+De in artikel 6.6, eerste lid, bedoelde regels kunnen mede een vrijstelling van een verbod als bedoeld in artikel 6.3, 6.4 of 6.5 inhouden of een verbod op het verrichten van daarbij aangegeven handelingen, alsmede de verplichting om, met inachtneming van bij of krachtens algemene maatregel van bestuur te stellen regels, het verrichten van handelingen te melden, metingen uit te voeren, gegevens te registreren en daarvan opgave te doen aan een daarbij aangewezen bestuursorgaan. 
 
 ### Artikel  6.8  
 
@@ -797,15 +798,15 @@ Ieder die handelingen verricht of nalaat en die weet of redelijkerwijs had kunne
 
 Dit hoofdstuk is niet van toepassing op: 
 
-a. handelingen waaromtrent regels zijn gesteld bij of krachtens de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md) of de [Wet voorkoming verontreiniging door schepen](../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md);  
+a. handelingen waaromtrent regels zijn gesteld bij of krachtens de Kernenergiewet of de Wet voorkoming verontreiniging door schepen;  
 
 b. handelingen aan boord van vaartuigen of luchtvaartuigen in zee, voor zover die handelingen samenhangen met of voortvloeien uit het normale gebruik van het vaartuig of luchtvaartuig, mits dat gebruik niet ten doel heeft het zich ontdoen van stoffen;  
 
 c. handelingen aan boord van oorlogsschepen, marinehulpschepen en andere schepen die in gebruik zijn voor de uitvoering van de militaire taak, ongeacht hun nationaliteit;  
 
-d. handelingen in zee waaromtrent regels zijn gesteld bij of krachtens de [Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md) alsmede het onttrekken van grondwater bij of ten behoeve van het opsporen of winnen van delfstoffen of aardwarmte in de zin van [artikel 1 van die wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), voor zover het onttrekken op een diepte van meer dan 500 meter beneden de oppervlakte van de aardbodem plaatsvindt; 
+d. handelingen in zee waaromtrent regels zijn gesteld bij of krachtens de Mijnbouwwet alsmede het onttrekken van grondwater bij of ten behoeve van het opsporen of winnen van delfstoffen of aardwarmte in de zin van artikel 1 van die wet, voor zover het onttrekken op een diepte van meer dan 500 meter beneden de oppervlakte van de aardbodem plaatsvindt; 
 
-e. handelingen waaromtrent regels zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), voor zover bij algemene maatregel van bestuur niet anders wordt bepaald.   
+e. handelingen waaromtrent regels zijn gesteld bij of krachtens de Wet gewasbeschermingsmiddelen en biociden, voor zover bij algemene maatregel van bestuur niet anders wordt bepaald.   
 
 ### §  2  
 
@@ -817,7 +818,7 @@ Deze paragraaf is mede van toepassing op de krachtens verordening van een waters
 
 ### Artikel  6.14  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een watervergunning geschiedt en de gegevens en bescheiden die door de aanvrager worden verstrekt met het oog op de beslissing op de aanvraag. Bij de maatregel kan, in afwijking van [artikel 2:15, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden bepaald dat de aanvraag geheel of gedeeltelijk elektronisch wordt ingediend, of dat het bevoegd gezag geheel of gedeeltelijk elektronisch ingediende aanvragen in ontvangst neemt. Daarbij kan worden bepaald dat de verplichtingen slechts gelden in daarbij aangegeven categorieën van gevallen.   
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een watervergunning geschiedt en de gegevens en bescheiden die door de aanvrager worden verstrekt met het oog op de beslissing op de aanvraag. Bij de maatregel kan, in afwijking van artikel 2:15, eerste en tweede lid, van de Algemene wet bestuursrecht, worden bepaald dat de aanvraag geheel of gedeeltelijk elektronisch wordt ingediend, of dat het bevoegd gezag geheel of gedeeltelijk elektronisch ingediende aanvragen in ontvangst neemt. Daarbij kan worden bepaald dat de verplichtingen slechts gelden in daarbij aangegeven categorieën van gevallen.   
 2.  Bij een verordening als bedoeld in artikel 6.13, kunnen eveneens regels worden gesteld met betrekking tot de gegevens over de bij die verordening aangewezen handeling, die door de aanvrager worden verstrekt met het oog op de beslissing op de aanvraag.  
 
 ### Artikel  6.15  
@@ -828,14 +829,14 @@ Deze paragraaf is mede van toepassing op de krachtens verordening van een waters
 
 ### Artikel  6.16  
 
-1.  Op de voorbereiding van een beschikking tot verlening, wijziging of intrekking van een vergunning voor het lozen of storten van stoffen of, in de gevallen bedoeld in artikel 6.4, het onttrekken van grondwater of infiltreren van water, zijn, tenzij bij algemene maatregel van bestuur anders wordt bepaald, de [afdelingen 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing. Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden de stukken als bedoeld in [artikel 3:11 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tevens ter inzage gelegd in de gemeente waar de handeling geheel of in hoofdzaak wordt verricht.   
+1.  Op de voorbereiding van een beschikking tot verlening, wijziging of intrekking van een vergunning voor het lozen of storten van stoffen of, in de gevallen bedoeld in artikel 6.4, het onttrekken van grondwater of infiltreren van water, zijn, tenzij bij algemene maatregel van bestuur anders wordt bepaald, de afdelingen 3.4 van de Algemene wet bestuursrecht en 13.2 van de Wet milieubeheer van toepassing. Bij de toepassing van afdeling 3.4 van de Algemene wet bestuursrecht worden de stukken als bedoeld in artikel 3:11 van die wet tevens ter inzage gelegd in de gemeente waar de handeling geheel of in hoofdzaak wordt verricht.   
 2.  Een vergunning voor het onttrekken van grondwater of infiltreren van water als bedoeld in artikel 6.4, wordt niet verleend of gewijzigd dan nadat het bestuur van het betrokken waterschap door gedeputeerde staten in de gelegenheid is gesteld advies te geven omtrent de aanvraag of het ontwerp van de op de aanvraag te nemen beschikking.   
 3.  Bij algemene maatregel van bestuur kunnen bestuursorganen worden aangewezen, die door het bevoegd gezag in de gelegenheid worden gesteld advies uit te brengen omtrent het ontwerp van de beschikking tot verlening of wijziging van een vergunning.  
 
 ### Artikel  6.17  
 
 1.  Indien een aanvraag om vergunning betrekking heeft op een handeling of samenstel van handelingen ten aanzien waarvan meer dan één bestuursorgaan bevoegd is, wordt de aanvraag in behandeling genomen en wordt daarop beslist door het bestuursorgaan van het hoogste gezag. Ontbreekt een hoogste gezag, dan wordt de aanvraag in behandeling genomen en wordt daarop beslist door het bestuursorgaan op wiens grondgebied de handeling of het samenstel van handelingen in hoofdzaak wordt verricht.   
-2.  In afwijking van het eerste lid kunnen de betrokken bestuursorganen gezamenlijk uit hun midden een ander bestuursorgaan aanwijzen dat de aanvraag in behandeling zal nemen en daarop zal beslissen.   
+2.  In afwijking van het eerste lid kunnen de betrokken bestuursorganen gezamenlijk uit hun midden een ander bestuursorgaan aanwijzen dat de aanvraag in behandeling zal nemen en daarop zal beslissen. De bevoegdheid tot aanwijzing kan steeds in mandaat worden uitgeoefend.   
 3.  Op een aanvraag als bedoeld in het eerste lid wordt niet beslist dan nadat de medebetrokken bestuursorganen in de gelegenheid zijn gesteld advies te geven omtrent de aanvraag of het ontwerp van de op de aanvraag te nemen beschikking.   
 4.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op aanvragen tot wijziging van een vergunning waardoor het aantal betrokken bestuursorganen toeneemt.  
 
@@ -894,43 +895,43 @@ c. indien een voor Nederland verbindend verdrag of besluit van een volkenrechtel
 
 ### Artikel  6.25  
 
-1.  De [artikelen 8.40, tweede en derde lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [8.40a van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn, voor zover een krachtens artikel 6.6 vast te stellen algemene maatregel van bestuur betrekking heeft op het lozen of storten van stoffen, op die maatregel van overeenkomstige toepassing.   
+1.  De artikelen 8.40, tweede en derde lid, en 8.40a van de Wet milieubeheer zijn, voor zover een krachtens artikel 6.6 vast te stellen algemene maatregel van bestuur betrekking heeft op het lozen of storten van stoffen, op die maatregel van overeenkomstige toepassing.   
 2.  De voordracht voor een krachtens artikel 6.6 vast te stellen algemene maatregel van bestuur wordt, voor zover die maatregel betrekking heeft op het lozen of storten van stoffen, niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.  
 
 ### Artikel  6.26  
 
-1.  Op vergunningen voor het lozen of storten van stoffen zijn de volgende bepalingen van de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van overeenkomstige toepassing: 
+1.  Op vergunningen voor het lozen of storten van stoffen zijn de volgende bepalingen van de Wet algemene bepalingen omgevingsrecht van overeenkomstige toepassing: 
 
-a. [2.14, eerste lid en derde tot en met zesde lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md),  
+a. 2.14, eerste lid en derde tot en met zesde lid,  
 
-b. [2.22, vijfde lid, eerste en tweede volzin](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), met dien verstande dat aan de watervergunning voorschriften worden verbonden die strengere eisen bevatten dan de algemeen verbindende voorschriften, bedoeld in de eerste volzin van dat lid, voor zover deze eisen naar het oordeel van het bevoegd gezag noodzakelijk zijn ter verwezenlijking van de voor het desbetreffende oppervlaktewaterlichaam in het beheerplan, bedoeld in hoofdstuk 4, paragraaf 3, van deze wet, opgenomen maatregelen;  
+b. 2.22, vijfde lid, eerste en tweede volzin, met dien verstande dat aan de watervergunning voorschriften worden verbonden die strengere eisen bevatten dan de algemeen verbindende voorschriften, bedoeld in de eerste volzin van dat lid, voor zover deze eisen naar het oordeel van het bevoegd gezag noodzakelijk zijn ter verwezenlijking van de voor het desbetreffende oppervlaktewaterlichaam in het beheerplan, bedoeld in hoofdstuk 4, paragraaf 3, van deze wet, opgenomen maatregelen;  
 
-c. [2.25, eerste lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, aanhef en onder b](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, aanhef en onder b](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [8.1](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), met dien verstande dat voor «omgevingsvergunning» wordt gelezen «vergunning» dat voor «milieu» wordt gelezen «chemische en ecologische kwaliteit van watersystemen» en voor «een inrichting of mijnbouwwerk of de werking daarvan»: het storten of lozen van stoffen.    
-2.  In afwijking van artikel 6.16, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de voorbereiding van een beschikking op de aanvraag tot wijziging van een vergunning voor het lozen van stoffen, die niet leidt tot andere of grotere nadelige gevolgen voor de chemische en ecologische kwaliteit van watersystemen dan volgens de geldende vergunning zijn toegestaan. De [artikelen 3.8](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [3.9, eerste lid, onderdeel a, en tweede tot en met vierde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing op de voorbereiding, bedoeld in de eerste volzin, met dien verstande dat voor «omgevingsvergunning» wordt gelezen: vergunning.  
-3.  Een vergunning voor het infiltreren van water wordt slechts verleend, indien er geen gevaar is voor verontreiniging van het grondwater. Bij de beoordeling van dat gevaar worden de krachtens [artikel 12 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) gestelde regels in acht genomen.   
-4.  Onverminderd artikel 6.20 worden aan een vergunning als bedoeld in het derde lid voorschriften verbonden volgens de krachtens [artikel 12 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) gestelde regels. Aan de vergunning worden in ieder geval voorschriften verbonden ter verzekering van de controle op de kwaliteit van het grondwater.   
+c. 2.25, eerste lid, 2.30, 2.31, eerste lid, aanhef en onder b, 2.33, eerste lid, aanhef en onder b, en 8.1, met dien verstande dat voor «omgevingsvergunning» wordt gelezen «vergunning» dat voor «milieu» wordt gelezen «chemische en ecologische kwaliteit van watersystemen» en voor «een inrichting of mijnbouwwerk of de werking daarvan»: het storten of lozen van stoffen.    
+2.  In afwijking van artikel 6.16, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing op de voorbereiding van een beschikking op de aanvraag tot wijziging van een vergunning voor het lozen van stoffen, die niet leidt tot andere of grotere nadelige gevolgen voor de chemische en ecologische kwaliteit van watersystemen dan volgens de geldende vergunning zijn toegestaan. De artikelen 3.8 en 3.9, eerste lid, onderdeel a, en tweede tot en met vierde lid, van de Wet algemene bepalingen omgevingsrecht zijn van overeenkomstige toepassing op de voorbereiding, bedoeld in de eerste volzin, met dien verstande dat voor «omgevingsvergunning» wordt gelezen: vergunning.  
+3.  Een vergunning voor het infiltreren van water wordt slechts verleend, indien er geen gevaar is voor verontreiniging van het grondwater. Bij de beoordeling van dat gevaar worden de krachtens artikel 12 van de Wet bodembescherming gestelde regels in acht genomen.   
+4.  Onverminderd artikel 6.20 worden aan een vergunning als bedoeld in het derde lid voorschriften verbonden volgens de krachtens artikel 12 van de Wet bodembescherming gestelde regels. Aan de vergunning worden in ieder geval voorschriften verbonden ter verzekering van de controle op de kwaliteit van het grondwater.   
 5.  Het derde en vierde lid zijn van overeenkomstige toepassing op de aan een vergunning voor het onttrekken van grondwater te verbinden voorschriften, voor zover die voorschriften betrekking hebben op het infiltreren van water.  
 
 ### §  4  
 
-####Coördinatie met [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md)
+####Coördinatie met Wet algemene bepalingen omgevingsrecht of Kernenergiewet
 
 ### Artikel  6.27  
 
-1.  Een aanvraag tot verlening of wijziging van een vergunning voor het lozen vanuit een inrichting waartoe een IPPC-installatie als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) behoort, of vanuit een inrichting als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md), wordt gelijktijdig ingediend met een aanvraag tot verlening of wijziging van een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of een vergunning krachtens de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md).   
-2.  De beslissing op een in het eerste lid bedoelde aanvraag om een watervergunning wordt overeenkomstig [hoofdstuk 14 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) gecoördineerd voorbereid met de beslissing op de betrokken aanvraag krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md). Daarbij worden in ieder geval de in [artikel 14.3, tweede lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) genoemde handelingen gelijktijdig verricht.   
-3.  De in het eerste lid bedoelde aanvraag om een watervergunning wordt in ieder geval buiten behandeling gelaten, indien niet binnen zes weken na het tijdstip van indiening ervan tevens een aanvraag krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md) is ingediend, dan wel de aanvraag krachtens die wetten buiten behandeling wordt gelaten.   
-4.  Het orgaan dat krachtens de betrokken wet bevoegd is op de aanvraag om vergunning te beslissen, brengt binnen acht weken na ontvangst van de in het eerste lid eerstbedoelde aanvraag advies uit met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen. Dat orgaan wordt voorts in de gelegenheid gesteld advies uit te brengen over het ontwerp van de beschikking op de aanvraag. In een geval als bedoeld in [artikel 3:18, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het bevoegd gezag besluiten de in de eerste volzin bedoelde termijn met een bij zijn besluit te bepalen redelijke termijn te verlengen. Indien [artikel 30, vierde lid, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) op de aanvraag van toepassing is, wordt de verlengingstermijn afgestemd op de duur waarmee ingevolge dat artikellid de termijn voor het geven van de beschikking op de aanvraag kan worden verlengd.   
-5.  Wordt in de vergunning krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een bepaling opgenomen over de termijn waarvoor zij geldt, dan wordt in de watervergunning een gelijke bepaling opgenomen.   
-6.  Wordt een betrokken vergunning krachtens de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md) ingetrokken, dan kan de watervergunning eveneens worden ingetrokken.   
+1.  Een aanvraag tot verlening of wijziging van een vergunning voor het lozen vanuit een inrichting waartoe een IPPC-installatie als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht behoort, of vanuit een inrichting als bedoeld in artikel 15, onder b, van de Kernenergiewet, wordt gelijktijdig ingediend met een aanvraag tot verlening of wijziging van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht of een vergunning krachtens de Kernenergiewet.   
+2.  De beslissing op een in het eerste lid bedoelde aanvraag om een watervergunning wordt overeenkomstig hoofdstuk 14 van de Wet milieubeheer gecoördineerd voorbereid met de beslissing op de betrokken aanvraag krachtens de Wet algemene bepalingen omgevingsrecht of de Kernenergiewet. Daarbij worden in ieder geval de in artikel 14.3, tweede lid, van de Wet milieubeheer genoemde handelingen gelijktijdig verricht.   
+3.  De in het eerste lid bedoelde aanvraag om een watervergunning wordt in ieder geval buiten behandeling gelaten, indien niet binnen zes weken na het tijdstip van indiening ervan tevens een aanvraag krachtens de Wet algemene bepalingen omgevingsrecht of de Kernenergiewet is ingediend, dan wel de aanvraag krachtens die wetten buiten behandeling wordt gelaten.   
+4.  Het orgaan dat krachtens de betrokken wet bevoegd is op de aanvraag om vergunning te beslissen, brengt binnen acht weken na ontvangst van de in het eerste lid eerstbedoelde aanvraag advies uit met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen. Dat orgaan wordt voorts in de gelegenheid gesteld advies uit te brengen over het ontwerp van de beschikking op de aanvraag. In een geval als bedoeld in artikel 3:18, tweede lid, van de Algemene wet bestuursrecht kan het bevoegd gezag besluiten de in de eerste volzin bedoelde termijn met een bij zijn besluit te bepalen redelijke termijn te verlengen. Indien artikel 30, vierde lid, van de Dienstenwet op de aanvraag van toepassing is, wordt de verlengingstermijn afgestemd op de duur waarmee ingevolge dat artikellid de termijn voor het geven van de beschikking op de aanvraag kan worden verlengd.   
+5.  Wordt in de vergunning krachtens de Wet algemene bepalingen omgevingsrecht een bepaling opgenomen over de termijn waarvoor zij geldt, dan wordt in de watervergunning een gelijke bepaling opgenomen.   
+6.  Wordt een betrokken vergunning krachtens de Wet algemene bepalingen omgevingsrecht of de Kernenergiewet ingetrokken, dan kan de watervergunning eveneens worden ingetrokken.   
 7.  Het tweede, vierde en vijfde lid en de artikelen 6.28 en 6.29 zijn van overeenkomstige toepassing op een ambtshalve wijziging van een in het eerste lid bedoelde vergunning. Voorts dragen gedeputeerde staten er ten minste zorg voor dat de betrokken beschikkingen gezamenlijk worden bekendgemaakt en daarvan gezamenlijk mededeling wordt gedaan.   
-8.  Wordt in een geval als bedoeld in [artikel 3.16 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel in de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md) juncto dat artikel, beroep ingesteld tegen een beschikking inzake een vergunning krachtens een van die wetten, dan kan de uitspraak in beroep ook betrekking hebben op een daarmee samenhangende, inzake een watervergunning gegeven beschikking.   
-9.  Dit artikel is niet van toepassing indien op de voorbereiding van de vergunning voor het lozen van stoffen, de omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de vergunning krachtens de [Kernenergiewet](../../../wet/kernenergiewet/BWBR0002402/README.md) [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is. 
+8.  Wordt in een geval als bedoeld in artikel 3.16 van de Wet algemene bepalingen omgevingsrecht, dan wel in de Kernenergiewet juncto dat artikel, beroep ingesteld tegen een beschikking inzake een vergunning krachtens een van die wetten, dan kan de uitspraak in beroep ook betrekking hebben op een daarmee samenhangende, inzake een watervergunning gegeven beschikking.   
+9.  Dit artikel is niet van toepassing indien op de voorbereiding van de vergunning voor het lozen van stoffen, de omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht of de vergunning krachtens de Kernenergiewet afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing is. 
 
 ### Artikel  6.28  
 
-1.  In een geval als bedoeld in artikel 6.27, eerste lid, waarin gedeputeerde staten of een van Onze Ministers bevoegd zijn de krachtens de betrokken wet vereiste vergunning te verlenen, kunnen gedeputeerde staten, onderscheidenlijk Onze betrokken Minister, indien dat met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen in het belang van de bescherming van het milieu geboden is, en zo nodig in afwijking van regels, gesteld krachtens een provinciale verordening als bedoeld in [artikel 1.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), aan het bevoegd gezag een aanwijzing geven ter zake van de inhoud van die beschikking.   
-2.  Een aanwijzing wordt gegeven binnen acht weken na de dag waarop het ontwerp van de beschikking op de aanvraag overeenkomstig [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter inzage is gelegd. Zij wordt niet gegeven dan na overleg met het bevoegd gezag.   
+1.  In een geval als bedoeld in artikel 6.27, eerste lid, waarin gedeputeerde staten of een van Onze Ministers bevoegd zijn de krachtens de betrokken wet vereiste vergunning te verlenen, kunnen gedeputeerde staten, onderscheidenlijk Onze betrokken Minister, indien dat met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen in het belang van de bescherming van het milieu geboden is, en zo nodig in afwijking van regels, gesteld krachtens een provinciale verordening als bedoeld in artikel 1.2 van de Wet milieubeheer, aan het bevoegd gezag een aanwijzing geven ter zake van de inhoud van die beschikking.   
+2.  Een aanwijzing wordt gegeven binnen acht weken na de dag waarop het ontwerp van de beschikking op de aanvraag overeenkomstig artikel 3:11, eerste lid, van de Algemene wet bestuursrecht ter inzage is gelegd. Zij wordt niet gegeven dan na overleg met het bevoegd gezag.   
 3.  De aanwijzing wordt vermeld in de beschikking van het bevoegd gezag, ter zake waarvan zij is gegeven. Een exemplaar ervan wordt gevoegd bij ieder exemplaar van die beschikking.  
 
 ### Artikel  6.29  
@@ -943,7 +944,7 @@ In een geval als bedoeld in artikel 6.27, eerste lid, waarin burgemeester en wet
 
 ### Artikel  6.30  
 
-Het bevoegd gezag en de bestuursorganen die zijn betrokken bij de beslissing op de aanvraag om een watervergunning, maken gebruik van de voorziening, bedoeld in [artikel 7.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Artikel 7.6, tweede lid, tweede en derde volzin, van die wet zijn van overeenkomstige toepassing. 
+Het bevoegd gezag en de bestuursorganen die zijn betrokken bij de beslissing op de aanvraag om een watervergunning, maken gebruik van de voorziening, bedoeld in artikel 7.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht. Artikel 7.6, tweede lid, tweede en derde volzin, van die wet zijn van overeenkomstige toepassing. 
 
 ### Hoofdstuk  7  
 
@@ -957,15 +958,15 @@ Het bevoegd gezag en de bestuursorganen die zijn betrokken bij de beslissing op 
 
 1.  In dit hoofdstuk en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder: 
 
-*Algemene wet:* [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+*Algemene wet:* Algemene wet inzake rijksbelastingen;  
 
 *bedrijfsruimte:* een naar zijn aard en inrichting als afzonderlijk geheel te beschouwen ruimte of terrein, niet zijnde een woonruimte, een zuiveringtechnisch werk of een openbaar vuilwaterriool;  
 
-*gebouwde onroerende zaak:* gebouwde onroerende zaak als bedoeld in [artikel 117, eerste lid, onder d, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md); 
+*gebouwde onroerende zaak:* gebouwde onroerende zaak als bedoeld in artikel 117, eerste lid, onder d, van de Waterschapswet; 
 
-*heffingsambtenaar:* ambtenaar, bedoeld in [artikel 123, derde lid, onder b, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) onderscheidenlijk ambtenaar, bedoeld in artikel 7.10, vierde lid, die voor de toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) in de plaats treedt van de inspecteur;  
+*heffingsambtenaar:* ambtenaar, bedoeld in artikel 123, derde lid, onder b, van de Waterschapswet onderscheidenlijk ambtenaar, bedoeld in artikel 7.10, vierde lid, die voor de toepassing van de Algemene wet in de plaats treedt van de inspecteur;  
 
-*ingezetene:* ingezetene als bedoeld in [artikel 116, onder a, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md); 
+*ingezetene:* ingezetene als bedoeld in artikel 116, onder a, van de Waterschapswet; 
 
 *lozen:* het brengen van afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;  
 
@@ -999,30 +1000,7 @@ c. het ter beschikking stellen van een woonruimte of bedrijfsruimte voor volgtij
 ### Artikel  7.3  
 
 1.  Voor de verontreinigingsheffing geldt als grondslag de hoeveelheid en hoedanigheid van de stoffen die in een kalenderjaar worden geloosd. Als heffingsmaatstaf geldt de vervuilingswaarde van de stoffen die in een kalenderjaar worden geloosd, uitgedrukt in vervuilingseenheden.   
-2.  Eén vervuilingseenheid vertegenwoordigt met betrekking tot: 
-
-a. het zuurstofverbruik: het jaarlijks verbruik van 54,8 kilogram zuurstof;  
-
-b. de gewichtshoeveelheden van de groep van stoffen chroom, koper, lood, nikkel, zilver en zink: 1,00 kilogram;  
-
-c. de gewichtshoeveelheden van de groep van stoffen arseen, kwik en cadmium: 0,100 kilogram;  
-
-d. de gewichtshoeveelheden van de stof chloride: 650 kilogram;  
-
-e. de gewichtshoeveelheden van de stof sulfaat: 650 kilogram;  
-
-f. de gewichtshoeveelheden van de stof fosfor: 20,0 kilogram.     
-3.  De verontreinigingsheffing van het Rijk wordt niet geheven ter zake van het lozen van de stoffen chloride, sulfaat, fosfor en zilver.  
-
-### Artikel  7.4  
-
-1.  Het aantal vervuilingseenheden met betrekking tot de gewichtshoeveelheden van de onderstaande groepen stoffen die in een kalenderjaar in een oppervlaktewaterlichaam in beheer bij het Rijk worden geloosd, wordt per bedrijfsruimte, riolering of zuiveringtechnisch werk tot minimaal nihil verminderd met het product van het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik van de in dat kalenderjaar vanuit die bedrijfsruimte, riolering of dat zuiveringtechnisch werk in een oppervlaktewaterlichaam in beheer bij het Rijk gebrachte stoffen, en: 
-
-a. voor de groep stoffen chroom, koper, lood, nikkel en zink: 0,04;  
-
-b. voor de groep stoffen kwik, cadmium en arseen: 0,006.     
-2.  Het aantal vervuilingseenheden, berekend na toepassing van het eerste lid, wordt voor elk van de in dat lid bedoelde groepen stoffen op nihil gesteld indien dat aantal minder bedraagt dan 10.   
-3.  Op een heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij een waterschap is [artikel 122f, derde lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) van overeenkomstige toepassing.  
+2.  Eén vervuilingseenheid vertegenwoordigt met betrekking tot: het zuurstofverbruik: het jaarlijks verbruik van 54,8 kilogram zuurstof.  
 
 ### Artikel  7.5  
 
@@ -1030,13 +1008,13 @@ b. voor de groep stoffen kwik, cadmium en arseen: 0,006.
 2.  Op aanvraag van de heffingplichtige staat de heffingsambtenaar onder nader te stellen voorwaarden toe dat van de frequentie van meting, bemonstering en analyse, bedoeld in het eerste lid, wordt afgeweken indien door de heffingplichtige aannemelijk wordt gemaakt dat voor de berekening van de vervuilingswaarde met gegevens over meting, bemonstering en analyse van een beperkt aantal etmalen kan worden volstaan. Deze beslissing wordt genomen bij voor bezwaar vatbare beschikking.   
 3.  De bepaling van het zuurstofverbruik van de stoffen welke in een kalenderjaar worden geloosd, geschiedt op basis van de som van het chemisch zuurstofverbruik en het zuurstofverbruik door omzetting van stikstofverbindingen.   
 4.  Indien de uitkomst van de methode tot bepaling van het chemisch zuurstofverbruik in belangrijke mate is beïnvloed door biologisch niet of nagenoeg niet afbreekbare stoffen, wordt op die uitkomst een correctie toegepast, overeenkomstig bij ministeriële regeling, onderscheidenlijk belastingverordening te stellen regels.   
-5.  [Artikel 122h, eerste, vijfde en zesde lid](../../../wet/waterschapswet/BWBR0005108/README.md), en [artikel 122i tot en met 122l van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) zijn van overeenkomstige toepassing. [Artikel 122i, eerste lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) is eveneens van overeenkomstige toepassing op lozingen vanuit een openbaar vuilwaterriool of vanuit een zuiveringtechnisch werk.  
+5.  Artikel 122h, eerste, vijfde en zesde lid, en artikel 122i tot en met 122k van de Waterschapswet zijn van overeenkomstige toepassing. Artikel 122i, eerste lid, van de Waterschapswet is eveneens van overeenkomstige toepassing op lozingen vanuit een zuiveringtechnisch werk.  
 
 ### Artikel  7.6  
 
-1.  Het tarief van de heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij het Rijk bedraagt € 35,50 per vervuilingseenheid.   
+1.  Het tarief van de heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij het Rijk bedraagt € 37,28 per vervuilingseenheid.   
 2.  In afwijking van het eerste lid bedraagt het tarief per vervuilingseenheid van de heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij het Rijk vanuit een zuiveringtechnisch werk voor het biologisch zuiveren van huishoudelijk afvalwater 50% van het in het eerste lid genoemde bedrag.   
-3.  Het tarief van de heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij een waterschap is gelijk aan het door dat waterschap voor het desbetreffende belastingjaar vastgestelde tarief van de zuiveringsheffing, bedoeld in [artikel 122d van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md).   
+3.  Het tarief van de heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij een waterschap is gelijk aan het door dat waterschap voor het desbetreffende belastingjaar vastgestelde tarief van de zuiveringsheffing, bedoeld in artikel 122d van de Waterschapswet.   
 4.  In afwijking van het eerste lid is van heffing vrijgesteld de in het tweede lid bedoelde lozing indien deze plaatsvindt anders dan door de beheerder, mits de hoeveelheid afvalstoffen, verontreinigende of schadelijke stoffen niet is toegenomen.  
 
 ### Artikel  7.7  
@@ -1053,13 +1031,20 @@ d. in verband met de vergoeding ingevolge artikel 7.14, eerste lid, van schade, 
 
 e. in verband met de uitvoering van artikel 7.19.     
 2.  Aan de heffing worden onderworpen de bij provinciale verordening aan te wijzen houders van inrichtingen of werken, bestemd tot het onttrekken van grondwater.   
-3.  Als grondslag voor de heffing geldt de onttrokken hoeveelheid grondwater. Indien op grond van vergunningvoorschriften water wordt geïnfiltreerd, wordt voor het vaststellen van de grondslag de geïnfiltreerde hoeveelheid volgens bij provinciale verordening te stellen nadere regels in mindering gebracht op de onttrokken hoeveelheid grondwater.  
+3.  Als de houder van de inrichting of het werk wordt aangemerkt: 
+
+a. indien het daartoe krachtens deze wet of de Waterschapswet bevoegde gezag een vergunning heeft verleend voor de onttrekking van het grondwater: degene aan wie deze vergunning is verleend;  
+
+b. indien ter zake van de onttrekking van het grondwater de krachtens deze wet of de Waterschapswet voorgeschreven melding is gedaan: degene die deze melding heeft gedaan;  
+
+c. in overige gevallen: degene ten behoeve van wie de onttrekking plaatsvindt.    
+4.  Als grondslag voor de heffing geldt de onttrokken hoeveelheid grondwater. Indien op grond van vergunningvoorschriften water wordt geïnfiltreerd, wordt voor het vaststellen van de grondslag de geïnfiltreerde hoeveelheid volgens bij provinciale verordening te stellen nadere regels in mindering gebracht op de onttrokken hoeveelheid grondwater.  
 
 ### Artikel  7.8  
 
 1.  Van verontreinigingsheffing zijn vrijgesteld: 
 
-a. lozingen die plaatsvinden met behulp van een vuilwaterriool;  
+a. lozingen die plaatsvinden met behulp van een openbaar vuilwaterriool;  
 
 b. lozingen van stoffen vanuit een zuiveringtechnisch werk door een beheerder op een oppervlaktewaterlichaam dat bij hem in beheer is;  
 
@@ -1078,9 +1063,9 @@ Van de aanvrager kunnen, volgens bij ministeriële regeling te stellen regels, d
 ### Artikel  7.10  
 
 1.  De verontreinigingsheffing ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk wordt door Onze Minister bij wege van aanslag geheven. De heffing wordt geheven over het kalenderjaar.   
-2.  Onverminderd het overigens in deze paragraaf bepaalde, wordt de in het eerste lid bedoelde heffing geheven met overeenkomstige toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 2, vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [37 tot en met 39](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [54](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [76](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80, tweede, derde en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [82](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [87 van die wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
-3.  Voor de toepassing van de [Algemene wet ](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) treedt Onze Minister in de plaats van Onze Minister van Financiën.   
-4.  Voorts treden voor de toepassing van de [Algemene wet ](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) de daartoe bij besluit van Onze Minister aangewezen ambtenaar of ambtenaren in de plaats van het bestuur van 's Rijksbelastingen en van de inspecteur, onderscheidenlijk van de ambtenaren van de rijksbelastingdienst.   
+2.  Onverminderd het overigens in deze paragraaf bepaalde, wordt de in het eerste lid bedoelde heffing geheven met overeenkomstige toepassing van de Algemene wet, met uitzondering van de artikelen 2, vierde lid, 37 tot en met 39, 47a, 48, 52, 53, 54, 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87 van die wet.   
+3.  Voor de toepassing van de Algemene wet  treedt Onze Minister in de plaats van Onze Minister van Financiën.   
+4.  Voorts treden voor de toepassing van de Algemene wet  de daartoe bij besluit van Onze Minister aangewezen ambtenaar of ambtenaren in de plaats van het bestuur van 's Rijksbelastingen en van de inspecteur, onderscheidenlijk van de ambtenaren van de rijksbelastingdienst.   
 5.  Van een besluit als bedoeld in het vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  7.11  
@@ -1090,7 +1075,7 @@ Van de aanvrager kunnen, volgens bij ministeriële regeling te stellen regels, d
 
 ### Artikel  7.12  
 
-De door Onze Minister aangewezen ambtenaren die voor de toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) in de plaats treden van de ambtenaren van de rijksbelastingdienst, zijn, voor zover dit voor het heffen van de in artikel 7.10, eerste lid, bedoelde heffing redelijkerwijs nodig is, bevoegd: 
+De door Onze Minister aangewezen ambtenaren die voor de toepassing van de Algemene wet in de plaats treden van de ambtenaren van de rijksbelastingdienst, zijn, voor zover dit voor het heffen van de in artikel 7.10, eerste lid, bedoelde heffing redelijkerwijs nodig is, bevoegd: 
 
 a. elke plaats met medeneming van de benodigde apparatuur, zo nodig met behulp van de sterke arm, met uitzondering van een woonruimte zonder toestemming van de gebruiker of de gebruikers, te betreden;  
 
@@ -1098,7 +1083,7 @@ b. monsters te nemen ter zake van lozingen op oppervlaktewaterlichamen in beheer
 
 ### Artikel  7.13  
 
-1.  De heffing ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk wordt ingevorderd met toepassing van de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als was deze heffing een rijksbelasting in de zin van [artikel 2, eerste lid, onderdeel a, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en geschiedt door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van die wet, alsmede door de overige in die wet genoemde functionarissen.   
+1.  De heffing ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk wordt ingevorderd met toepassing van de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen als was deze heffing een rijksbelasting in de zin van artikel 2, eerste lid, onderdeel a, van de Invorderingswet 1990 en geschiedt door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van die wet, alsmede door de overige in die wet genoemde functionarissen.   
 2.  Een voorlopige aanslag voor de in het eerste lid bedoelde heffing waarvan het aanslagbiljet een dagtekening heeft die ligt in het jaar waarover deze is vastgesteld, is invorderbaar in zoveel gelijke termijnen als er na de maand die in de dagtekening van het aanslagbiljet is vermeld, nog maanden van het jaar overblijven. De eerste termijn vervalt één maand na de dagtekening van het aanslagbiljet en elk van de volgende termijnen telkens een maand later.   
 3.  Indien toepassing van het tweede lid niet leidt tot meer dan twee maandelijkse termijnen, is de in dat lid bedoelde belastingaanslag twee maanden na de dagtekening van het aanslagbiljet invorderbaar.  
 
@@ -1120,7 +1105,7 @@ Voor de toepassing van artikel 7.14 wordt onder schade mede verstaan schade in v
 
 ### Artikel  7.16  
 
-[Afdeling 6.1 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) blijft buiten toepassing, voor zover een belanghebbende met betrekking tot de schade een beroep doet of kan doen op een schadevergoeding als bedoeld in artikel 7.14, eerste lid. 
+Afdeling 6.1 van de Wet ruimtelijke ordening blijft buiten toepassing, voor zover een belanghebbende met betrekking tot de schade een beroep doet of kan doen op een schadevergoeding als bedoeld in artikel 7.14, eerste lid. 
 
 ### Artikel  7.17  
 
@@ -1143,9 +1128,9 @@ Voor de toepassing van artikel 7.14 wordt onder schade mede verstaan schade in v
 
 ### Artikel  7.20  
 
-1.  Ingeval de rechtbank de vordering, bedoeld in artikel 7.18, derde lid, gegrond acht, veroordeelt zij de vergunninghouder tot overneming en tot betaling van de overnemingssom. Tegen het vonnis staat geen ander rechtsmiddel open dan beroep in cassatie. Het beroep in cassatie moet op straffe van niet-ontvankelijkheid binnen acht dagen na het instellen ervan worden ingeschreven in de registers, bedoeld in [artikel 433 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
-2.  Op de vaststelling van de overnemingssom zijn de [artikelen 27, eerste en tweede lid](../../../wet/onteigeningswet/BWBR0001842/README.md), [28, eerste, tweede en derde lid](../../../wet/onteigeningswet/BWBR0001842/README.md), [29 tot en met 35](../../../wet/onteigeningswet/BWBR0001842/README.md) en [37, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) van overeenkomstige toepassing, met dien verstande, dat de rechtbank in plaats van één of een oneven aantal deskundigen ook twee deskundigen kan benoemen.   
-3.  Het vonnis waarbij de vergunninghouder tot overneming is veroordeeld, kan worden ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), nadat het in kracht van gewijsde is gegaan. Door inschrijving van het vonnis gaat de eigendom op de vergunninghouder over.  
+1.  Ingeval de rechtbank de vordering, bedoeld in artikel 7.18, derde lid, gegrond acht, veroordeelt zij de vergunninghouder tot overneming en tot betaling van de overnemingssom. Tegen het vonnis staat geen ander rechtsmiddel open dan beroep in cassatie. Het beroep in cassatie moet op straffe van niet-ontvankelijkheid binnen acht dagen na het instellen ervan worden ingeschreven in de registers, bedoeld in artikel 433 van het Wetboek van Burgerlijke Rechtsvordering.   
+2.  Op de vaststelling van de overnemingssom zijn de artikelen 27, eerste en tweede lid, 28, eerste, tweede en derde lid, 29 tot en met 35 en 37, eerste lid, van de onteigeningswet van overeenkomstige toepassing, met dien verstande, dat de rechtbank in plaats van één of een oneven aantal deskundigen ook twee deskundigen kan benoemen.   
+3.  Het vonnis waarbij de vergunninghouder tot overneming is veroordeeld, kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, nadat het in kracht van gewijsde is gegaan. Door inschrijving van het vonnis gaat de eigendom op de vergunninghouder over.  
 
 ### §  4  
 
@@ -1163,7 +1148,7 @@ Voor de toepassing van artikel 7.14 wordt onder schade mede verstaan schade in v
 2.  De Staat kan, indien de kosten bedoeld in het eerste lid mede ten laste komen van een waterschap, ook deze kosten overeenkomstig dat lid verhalen.   
 3.  De Staat kan ten laste van het Rijk komende kosten als bedoeld in het eerste lid overeenkomstig de regels betreffende ongerechtvaardigde verrijking verhalen op degene die door dat onderzoek of die maatregelen ongerechtvaardigd wordt verrijkt. Het tweede lid is van overeenkomstige toepassing.   
 4.  De bevoegdheden, bedoeld in het eerste en derde lid, komen toe aan het waterschap in gevallen waarin kosten als bedoeld in het eerste lid geheel te haren laste komen, alsmede in gevallen waarin de Staat niet van deze bevoegdheid gebruik maakt, voor zover zodanige kosten te haren laste komen.   
-5.  [Artikel 75, vijfde lid, van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) is van overeenkomstige toepassing.  
+5.  Artikel 75, vijfde lid, van de Wet bodembescherming is van overeenkomstige toepassing.  
 
 ### §  4a  
 
@@ -1180,7 +1165,7 @@ b. het inwinnen, bewerken en verspreiden van met onderdeel a samenhangende gegev
 
 ### Artikel  7.22b  
 
-1.  Het deltafonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+1.  Het deltafonds is een begrotingsfonds als bedoeld in artikel 9, eerste lid, van de Comptabiliteitswet 2001.   
 2.  Onze Minister beheert het deltafonds.  
 
 ### Artikel  7.22c  
@@ -1214,8 +1199,8 @@ a. aanleg, verbetering, beheer, onderhoud en bediening van waterstaatswerken die
 b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen, voor zover deze onderdeel uitmaken van de opgaven, bedoeld in artikel 4.9, tweede lid, onderdeel a;  
 
 c. met de onderdelen a en b samenhangende onderzoeken.     
-3.  Op subsidies die ten laste komen van het deltafonds zijn de [artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) van toepassing.   
-4.  Subsidies als bedoeld in het tweede lid die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Op subsidies die ten laste komen van het deltafonds zijn de artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat van toepassing.   
+4.  Subsidies als bedoeld in het tweede lid die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 5.  Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in artikel 7.22a, tweede lid, onderdeel a, alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel b, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.   
 6.  Ten laste van het deltafonds komen tevens uitgaven ten behoeve van het bureau ter ondersteuning van de werkzaamheden van de deltacommissaris, de huisvestingskosten van het bureau en verdere aan de taakvervulling van de deltacommissaris verbonden uitgaven.   
 7.  Ten laste van het deltafonds komen voorts andere uitgaven in het kader van het bereiken van de doelen van dat fonds.   
@@ -1229,14 +1214,14 @@ c. met de onderdelen a en b samenhangende onderzoeken.
 
 1.  Onze Minister verleent op aanvraag een subsidie aan de beheerder die vanwege wijziging van de krachtens artikel 2.2, 2.3 of 2.12, vierde lid, gestelde regels maatregelen dient te treffen, indien de desbetreffende maatregelen voor het kalenderjaar waarin de subsidie wordt verstrekt zijn opgenomen in een jaarlijks door Onze Minister vast te stellen programma.   
 2.  De subsidie, bedoeld in het eerste lid, wordt verleend voor negentig procent van de geraamde kosten van een sober en doelmatig ontwerp van de maatregelen. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de kostenraming en de subsidiabele kosten.   
-3.  De [artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) zijn van toepassing.  
+3.  De artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat zijn van toepassing.  
 4. Bij de voorbereiding van het programma, bedoeld in het eerste lid, en van de regeling, bedoeld in het tweede lid, worden de besturen van de waterschappen gehoord.
 5. Bij algemene maatregel van bestuur worden de maatregelen aangewezen waarvoor in afwijking van het tweede lid subsidie wordt verleend voor honderd procent van de kosten van uitvoering. Daarbij worden de aard en omvang van deze maatregelen aangeduid en de locaties en de betrokken beheerders vermeld.
 
 ### Artikel  7.24  
 
 1.  Ter bestrijding van de kosten verbonden aan de verstrekking van subsidies voor maatregelen die nodig zijn vanwege wijziging van de krachtens artikel 2.3 of 2.12, vierde lid, gestelde regels, is een waterschap een jaarlijkse bijdrage aan Onze Minister verschuldigd.   
-2.  De jaarlijkse bijdrage wordt berekend volgens de formule: B = 0,50 x R1 (I/IT + WG/WGT) + 0,40 x R2 (I/IT + WG/WGT), waarin B voorstelt: de te berekenen bijdrage in euro’s; R1 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in artikel 7.22c, eerste lid, onder a of b, ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor de maatregelen die zijn aangewezen krachtens artikel 7.23, vijfde lid, en dat tezamen met R2 niet hoger is dan het in het vierde lid genoemde maximum; R2 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in artikel 7.22c, eerste lid, onder a of b, ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor maatregelen die nodig zijn vanwege wijziging van de krachtens artikel 2.3 of 2.12, vierde lid, gestelde regels en niet zijn aangewezen krachtens artikel 7.23, vijfde lid, en dat tezamen met R1 niet hoger is dan het in het vierde lid genoemde maximum; I voorstelt: het aantal ingezetenen in het gebied van het waterschap op de peildatum; IT voorstelt: het aantal ingezetenen in de gebieden van de waterschappen tezamen op de peildatum; WG voorstelt: de som van de op basis van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum; WGT voorstelt: de som van de op basis van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden van de gebouwde onroerende zaken in de gebieden van de waterschappen tezamen op de peildatum.   
+2.  De jaarlijkse bijdrage wordt berekend volgens de formule: B = 0,50 x R1 (I/IT + WG/WGT) + 0,40 x R2 (I/IT + WG/WGT), waarin B voorstelt: de te berekenen bijdrage in euro’s; R1 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in artikel 7.22c, eerste lid, onder a of b, ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor de maatregelen die zijn aangewezen krachtens artikel 7.23, vijfde lid, en dat tezamen met R2 niet hoger is dan het in het vierde lid genoemde maximum; R2 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in artikel 7.22c, eerste lid, onder a of b, ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor maatregelen die nodig zijn vanwege wijziging van de krachtens artikel 2.3 of 2.12, vierde lid, gestelde regels en niet zijn aangewezen krachtens artikel 7.23, vijfde lid, en dat tezamen met R1 niet hoger is dan het in het vierde lid genoemde maximum; I voorstelt: het aantal ingezetenen in het gebied van het waterschap op de peildatum; IT voorstelt: het aantal ingezetenen in de gebieden van de waterschappen tezamen op de peildatum; WG voorstelt: de som van de op basis van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum; WGT voorstelt: de som van de op basis van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarden van de gebouwde onroerende zaken in de gebieden van de waterschappen tezamen op de peildatum.   
 3.  De peildatum, bedoeld in het tweede lid, is 1 januari 2010 voor de jaarlijkse bijdrage voor de kalenderjaren 2011 tot en met 2014 en voor elke daaropvolgende aaneengesloten periode van vier kalenderjaren telkens 1 januari van het laatste kalenderjaar dat voorafgaat aan de betrokken periode.   
 4.  Het in het tweede lid aan de som van R1 en R2 gestelde maximum bedraagt in 2014 131 x 10<sup>6</sup> euro’s en vanaf 2015 181 x 10<sup>6</sup> euro’s, met dien verstande dat met ingang van 2016 het laatstgenoemde bedrag ten opzichte van het loon- en prijspeil van 2011 jaarlijks wordt geĩndexeerd volgens de Index Bruto Overheidsinvesteringen, zoals toegepast door Onze Minister van Financiën in de Voorjaarsnota.  
 
@@ -1246,7 +1231,7 @@ Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in artike
 
 a. het aantal ingezetenen in het gebied van het waterschap op de peildatum, en  
 
-b. de som van de op basis van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum.   
+b. de som van de op basis van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum.   
 
 ### Artikel  7.26  
 
@@ -1264,7 +1249,7 @@ b. de som van de op basis van [hoofdstuk IV van de Wet waardering onroerende zak
 
 1. De beheerder heeft tot taak: 
 
-a. zorg te dragen voor de bestuursrechtelijke handhaving van het bij of krachtens de hoofdstukken 5 en 6 of krachtens artikel 10.1 bepaalde, voor zover betrekking hebbend op de door hem beheerde watersystemen en de daarbij behorende beschermingszones en van het bij of krachtens [titel 12.3 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) bepaalde met betrekking tot het brengen van stoffen in een oppervlaktewaterlichaam;  
+a. zorg te dragen voor de bestuursrechtelijke handhaving van het bij of krachtens de hoofdstukken 5 en 6 of krachtens artikel 10.1 bepaalde, voor zover betrekking hebbend op de door hem beheerde watersystemen en de daarbij behorende beschermingszones en van het bij of krachtens titel 12.3 van de Wet milieubeheer bepaalde met betrekking tot het brengen van stoffen in een oppervlaktewaterlichaam;  
 
 b. gegevens die met het oog op de uitoefening van de onder a bedoelde taak van belang zijn, te verzamelen en te registreren;  
 
@@ -1301,11 +1286,11 @@ Onze Minister is bevoegd tot het toepassen van bestuursdwang ter handhaving van 
 
 ### Artikel  8.6  
 
-Met betrekking tot de handhaving van het bij of krachtens de hoofdstukken 5 en 6 of krachtens artikel 10.1 bepaalde zijn de [paragrafen 5.2](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.5 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing, met dien verstande dat in [artikel 5.8, vijfde lid, onder b, van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) in plaats van «intrekking van een vergunning of ontheffing op grond van [artikel 5.19](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)» wordt gelezen: intrekking van een vergunning op grond van artikel 8.4 van de Waterwet. 
+Met betrekking tot de handhaving van het bij of krachtens de hoofdstukken 5 en 6 of krachtens artikel 10.1 bepaalde zijn de paragrafen 5.2 en 5.5 van de Wet algemene bepalingen omgevingsrecht van toepassing, met dien verstande dat in artikel 5.8, vijfde lid, onder b, van die wet in plaats van «intrekking van een vergunning of ontheffing op grond van artikel 5.19» wordt gelezen: intrekking van een vergunning op grond van artikel 8.4 van de Waterwet. 
 
 ### Artikel  8.7  
 
-Het bestuursorgaan waaraan de zorg voor bestuursrechtelijke handhaving van het bij of krachtens de hoofdstukken 5 en 6 of krachtens artikel 10.1 bepaalde is opgedragen, is bevoegd tot het toepassen van bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het betreft de verplichting tot het verlenen van medewerking aan de krachtens artikel 8.3 aangewezen ambtenaren. 
+Het bestuursorgaan waaraan de zorg voor bestuursrechtelijke handhaving van het bij of krachtens de hoofdstukken 5 en 6 of krachtens artikel 10.1 bepaalde is opgedragen, is bevoegd tot het toepassen van bestuursdwang ter handhaving van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, voor zover het betreft de verplichting tot het verlenen van medewerking aan de krachtens artikel 8.3 aangewezen ambtenaren. 
 
 ### Artikel  8.8  
 
@@ -1337,12 +1322,6 @@ Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van intern
 ### Artikel  10.2  
 
 Een wijziging van de kaderrichtlijn water of van een andere op grond van deze wet uitgevoerde richtlijn van een of meer instellingen van de Europese Unie alleen of gezamenlijk gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld. 
-
-### Artikel  10.3  
-
-1.  Er is een Commissie van advies inzake de waterstaatswetgeving.   
-2.  De commissie heeft als taak de regering en de beide Kamers der Staten-Generaal te adviseren over de inhoud en structuur van de wetgeving op het gebied van de waterstaatszorg.   
-3.  De commissie bestaat uit een voorzitter en ten hoogste zes andere leden.  
 
 ### Artikel  10.4  
 

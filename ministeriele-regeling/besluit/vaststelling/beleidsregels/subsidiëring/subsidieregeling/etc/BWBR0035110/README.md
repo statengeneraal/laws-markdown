@@ -3,14 +3,14 @@
 ##Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 mei 2014, nr. DSO/MO-113/2014 tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Strategische partnerschappen pleiten en beïnvloeden 2016–2020)
 
 De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,  
-Gelet op de [artikelen 6](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);
+Gelet op de artikelen 6 en 7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken;
 
-Gelet op de [artikelen 4.1 tot en met 4.7 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op de artikelen 4.1 tot en met 4.7 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 Besluit:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van [afdeling 4 Strategische partnerschappen pleiten en beïnvloeden van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 de als bijlage bij dit besluit gevoegde beleidsregels. 
+Voor subsidieverlening op grond van afdeling 4 Strategische partnerschappen pleiten en beïnvloeden van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 gelden voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 
@@ -18,7 +18,7 @@ Aanvragen om in aanmerking te komen voor een strategisch partnerschap in het kad
 
 ### Artikel  3  
 
-De selectie van de strategische partners vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor een strategisch partnerschap in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md). 
+De selectie van de strategische partners vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor een strategisch partnerschap in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken. 
 
 ### Artikel  4  
 
@@ -205,13 +205,13 @@ Per subsidie zal de omvang van de financiële envelop per jaar minimaal EUR 2 mi
 
 Tot en met 1 september 2014, 12.00 uur kunnen voorstellen worden ingediend. Tussen 1–30 september worden de aanvragen voor een strategisch partnerschap op drempelcriteria getoetst. Bij het niet voldoen aan één of meer van deze drempelcriteria volgt een afwijzing en wordt de aanvraag niet verder beoordeeld. De aanvragen van de organisaties of allianties die aan alle drempelcriteria voldoen worden verder beoordeeld aan de hand van de maatstaven voor de kwaliteit van hun track record en ‘*Theory of Change*’. Besluitvorming over de selectie van de partners vindt plaats op uiterlijk 31 januari 2015. 
 
-### Annex  
+####Herzien aanvraagstramien ‘Samenspraak en tegenspraak’ strategische partnerschappen voor pleiten en beinvloeden
 
-####Aanvraagstramien ‘Samenspraak en tegenspraak’ strategische partnerschappen voor pleiten en beinvloeden
+###*Publicatie Staatscourant: zie www.officielebekendmakingen.nl*
 
 ####Inleiding
 
-Voor u ligt het aanvraagstramien voor de *selectie van partners ten behoeve van het aangaan van strategische partnerschappen in het kader van pleiten en beïnvloeden.*  Ten grondslag aan dit aanvraagstramien liggen de beleidsregels zoals die gepubliceerd in zijn in bovengenoemd besluit. Het aanvraagstramien maakt onderdeel uit van het beleidskader, aanvragers zijn *verplicht* dit aanvraagstramien te gebruiken bij hun voorstel om in aanmerking te komen voor een strategisch partnerschap. Per voorstel dient één aanvraagstramien te worden ingevuld en ingediend, voorzien van de in dit stramien genoemde bijlagen. 
+Voor u ligt het aanvraagstramien voor de *selectie van partners ten behoeve van het aangaan van strategische partnerschappen in het kader van pleiten en beïnvloeden.* Ten grondslag aan dit aanvraagstramien liggen de beleidsregels zoals die gepubliceerd in zijn in bovengenoemd besluit. Het aanvraagstramien maakt onderdeel uit van het beleidskader, aanvragers zijn *verplicht*dit aanvraagstramien te gebruiken bij hun voorstel om in aanmerking te komen voor een strategisch partnerschap. Per voorstel dient één aanvraagstramien te worden ingevuld en ingediend, voorzien van de in dit stramien genoemde bijlagen. 
 
 ####Opbouw van het aanvraagstramien
 
@@ -233,7 +233,7 @@ Voor de wijze van beoordeling van de ingediende voorstellen en de bijbehorende p
 
 ####Indiening van de voorstellen
 
-Indien u uw voorstel digitaal aanlevert, dient u het te zenden naar samen-tegenspraak@minbuza.nl o.v.v. tender ‘Samenspraak en tegenspraak’, Strategische partnerschappen voor pleiten en beïnvloeden 2016–2020. Originele papieren versies dient u te sturen aan het Ministerie van Buitenlandse Zaken t.a.v. DSO/MO, Bezuidenhoutseweg 67, 2594 AC ’s-Gravenhage, o.v.v. tender strategisch partnerschap pleiten en beïnvloeden 2016–2020. Voorstellen dienen uiterlijk op 1 september 2014 om 12.00 uur te zijn ontvangen door het ministerie van Buitenlandse Zaken. Als u het voorstel persoonlijk of per koerier wilt aanleveren, dan kunt u het voorstel (laten) afgeven bij het afgifteloket voor poststukken (expeditie) van het ministerie van Buitenlandse Zaken, Bezuidenhoutseweg 67, te 's-Gravenhage. 
+Indien u uw voorstel digitaal aanlevert, dient u het te zenden naar samen-tegenspraak@minbuza.nl o.v.v. tender ‘Samenspraak en tegenspraak’, Strategische partnerschappen voor pleiten en beïnvloeden 2016-2020. Originele papieren versies dient u te sturen aan het Ministerie van Buitenlandse Zaken t.a.v. DSO/MO, Bezuidenhoutseweg 67, 2594 AC ’s-Gravenhage, o.v.v. tender strategisch partnerschap pleiten en beïnvloeden 2016-2020. Voorstellen dienen uiterlijk op **1 september 2014 om 12.00 uur **te zijn ontvangen door het ministerie van Buitenlandse Zaken. Als u het voorstel persoonlijk of per koerier wilt aanleveren, dan kunt u het voorstel (laten) afgeven bij het afgifteloket voor poststukken (expeditie) van het ministerie van Buitenlandse Zaken, Bezuidenhoutseweg 67, te 's-Gravenhage. 
 
 ####Vereisten aan de voorstellen
 
@@ -243,95 +243,101 @@ Indien u uw voorstel digitaal aanlevert, dient u het te zenden naar samen-tegens
 
 3. Indien het voorstel per post wordt ingediend (anders dan met de aanduiding ‘port betaald’) wordt het voorstel nog als tijdig ingediend beschouwd, mits het voorstel voor het einde van de termijn ter post is bezorgd, waarbij de datumstempel van de post doorslaggevend is, en niet later dan een week na afloop van de termijn is ontvangen (uiterlijke ontvangstdatum: 8 september 2014)  
 
-4. Bij gebruikmaking van een enveloppe met de aanduiding ‘port betaald’ is de datum van ontvangst bepalend bij het vaststellen of het voorstel tijdig, d.w.z. uiterlijk 1 september 2014, 12.00 uur, is ingediend. Houdt hierbij rekening met de omstandigheid dat de datum van ontvangst wordt vastgesteld aan de hand van het tijdstip van inschrijving en dat op zaterdag en zondag geen post wordt ingeschreven.  
+4. Bij gebruikmaking van een enveloppe met de aanduiding "port betaald" is de datum van ontvangst bepalend bij het vaststellen of het voorstel tijdig, d.w.z. uiterlijk 1 september 2014, 12.00 uur, is ingediend. Houdt hierbij rekening met de omstandigheid dat de datum van ontvangst wordt vastgesteld aan de hand van het tijdstip van inschrijving en dat op zaterdag en zondag geen post wordt ingeschreven.  
 
 5. Indien het voorstel niet aangetekend wordt verzonden berust het risico dat het voorstel nimmer of te laat wordt ontvangen bij de verzender.  
 
-6. Voorstellen die later dan genoemde datum en tijdstip worden ingediend, worden niet in behandeling genomen. De aanvragende organisatie is de enige verantwoordelijke voor een tijdige en volledige indiening van een aanvraag.   In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit ministerie van Buitenlandse Zaken](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md). Mocht een voorstel onvolledig worden ingediend, dan kan de minister vragen om een aanvulling. Als datum van ontvangst van het voorstel zal vervolgens gelden de datum waarop het voorstel is aangevuld. Indien een voorstel pas in de laatste vier weken voor het verstrijken van de deadline van 1 september 2014 12.00 uur wordt ingediend, loopt de indiener het risico dat de Minister geen toepassing zal geven aan zijn bevoegdheid om de indiener om een aanvulling te vragen aangezien een dergelijke aanvulling niet meer mogelijk is zonder de deadline te overschrijden. In dat geval zal het voorstel derhalve niet meer kunnen worden aangevuld, maar zal deze worden beoordeeld zoals hij primair was ingediend. 
+6. Voorstellen die later dan genoemde datum en tijdstip worden ingediend, worden niet in behandeling genomen. De aanvragende organisatie is de enige verantwoordelijke voor een tijdige en volledige indiening van een aanvraag.   In het kader van de aanvraagprocedure wordt met nadruk gewezen op artikel 7, derde lid, van het Subsidiebesluit ministerie van Buitenlandse Zaken. Mocht een voorstel onvolledig worden ingediend, dan kan de minister vragen om een aanvulling. Als datum van ontvangst van het voorstel zal vervolgens gelden de datum waarop het voorstel is aangevuld. Indien een voorstel pas in de laatste vier weken voor het verstrijken van de deadline van 1 september 2014 12.00 uur wordt ingediend, loopt de indiener het risico dat de Minister geen toepassing zal geven aan zijn bevoegdheid om de indiener om een aanvulling te vragen aangezien een dergelijke aanvulling niet meer mogelijk is zonder de deadline te overschrijden. In dat geval zal het voorstel derhalve niet meer kunnen worden aangevuld, maar zal deze worden beoordeeld zoals hij primair was ingediend. 
 
 ####Meer informatie
 
-Mochten er vragen ontstaan naar aanleiding van dit document of andere zaken dan kunt u deze indienen uiterlijk voor 6 juni 17.00 uur 2014, waarna de vragen geanonimiseerd beantwoord worden, uiterlijk op 16 juni, 17.00 uur door middel van publicatie via internet op http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties . Vragen kunnen uitsluitend schriftelijk worden ingediend per e-mail op samen-tegenspraak@minbuza.nl Praktische aanwijzingen ten aanzien van de voorstellen 
+Mochten er vragen ontstaan naar aanleiding van dit document of andere zaken dan kunt u deze indienen uiterlijk voor 6 juni 17.00 uur 2014, waarna de vragen geanonimiseerd beantwoord worden, uiterlijk op 16 juni, 17.00 uur door middel van publicatie via internet op http://www.rijksoverheid.nl/documenten-en-publicaties/brochures/2014/06/16/vragen-naar-aanleiding-van-het-beleidskader-samenspraak-en-tegenspraak.html. Vragen kunnen uitsluitend schriftelijk worden ingediend per e-mail op samen-tegenspraak@minbuza.nl 
+
+####Praktische aanwijzingen ten aanzien van de voorstellen
 
 ####Algemene instructies voor het opstellen van het voorstel
 
-* Probeer bij de beantwoording van de onderdelen uit het aanvraagstramien zoveel mogelijk de SMART <sup> 9 SMART staat voor: Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden. </sup>-principes te volgen.  
+* Probeer bij de beantwoording van de onderdelen uit het aanvraagstramien zoveel mogelijk de SMART<sup> 9 SMART staat voor: Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden. </sup>-principes te volgen.  
 
 * Bij dit formulier dient een aantal bijlagen te worden meegezonden. Bij de betreffende onderdelen in het stramien wordt dit vermeld; tevens staat aan het eind van dit stramien een overzicht van deze verplicht bij uw voorstel mee te sturen bijlagen. U dient de aangegeven nummering te volgen.  
 
-* Indien aangegeven kan er bij de beantwoording worden verwezen naar externe documenten die als bijlage moeten of kunnen worden toegevoegd. U dient steeds aan te geven naar welke passage / bladzijde in de tekst wordt verwezen en u dient alle bijlagen te nummeren.   
-Inhoudsopgave Onderstaande volgorde houdt u aan met vermelding van eventuele sub paragrafen en bijbehorende paginanummers.  
+* Indien aangegeven kan er bij de beantwoording worden verwezen naar externe documenten die als bijlage moeten of kunnen worden toegevoegd. U dient steeds aan te geven naar welke passage / bladzijde in de tekst wordt verwezen en u dient alle bijlagen te nummeren.  
+
+###*Inhoudsopgave*
+
+*Onderstaande volgorde houdt u aan met vermelding van eventuele sub paragrafen en bijbehorende paginanummers.*  
 
 | --- | --- | --- |
 |:---|:---|:---|
-| I.  |  Algemene informatie aanvrager  | 13  |
-| II.  | Drempelcriteria  | 13  |
-| III.  | Selectiecriteria partner  | 15  |
-| III.1  | Track record  | 15  |
-| III.2.  | Theory of Change  | 16  |
-| IV.  | Afsluiting: ondertekening  | 16  |
-| V.  | Verplicht mee te sturen bijlagen  | 17  |
-| --- | ANNEXEN  | --- |
-| 1.  | Landenlijst lage- en lage-middeninkomenslanden  | --- |
-| 2.  | Corporate Rates voor conversie vreemde valuta naar euro’s  | --- |
-| 3.  | Organisatietoets: COCA format  | --- |
+| I.  | Algemene informatie aanvrager  |
+| II.  | Drempelcriteria  |
+| III.  | Selectiecriteria partner  |
+| --- | III.1  | Track record  |
+| --- | III.2  | Theory of Change  |
+| IV.  | Afsluiting: ondertekening  |
+| V.  | Verplicht mee te sturen bijlagen  |
+| *ANNEXEN*  |
+| 1.  | Landenlijst lage- en lage-middeninkomenslanden  |
+| 2.  | Corporate Rates voor conversie vreemde valuta naar euro’s  |
+| 3.  | Organisatietoets: COCA format  |
 
-### I  
+### I 
 
 ####Algemene informatie
 
-Algemene gegevens van de aanvrager en voorstel  
+*Algemene gegevens van de aanvrager en voorstel*  
 
-| --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
-| a.  | Naam aanvragende organisatie  | --- |
-| b.  | Adres en Telefoon  | --- |
-| c.  | E-mail adres  | --- |
-| d.  | Indien u per e-mail bereikbaar bent, geef aan of u akkoord gaat met correspondentie, inclusief formele besluiten, door het mpinisterie via genoemd e-mail adres.  | --- |
-| e.  | Naam directeur(en), met vermelding van de heer/mevrouw  | --- |
-| f.  | Naam contactpersoon aanvraag, met vermelding van de heer/mevrouw  | --- |
-| f.  | Indien u penvoerder bent van een alliantie, geef aan welke overige organisaties participeren in deze aanvraag als mede-indieners. Gaarne volledige adresgegevens, naam directeur en naam contactpersoon toevoegen. Deze gegevens kunt u eventueel in een bijlage duidelijk vermelden.  | --- |
-| h.  | Naam bank + rekeningnummer (IBAN) van de aanvrager  | --- |
-| i.  |  Inkomsten aanvrager (totaalbedrag jaarlijkse organisatiebegroting)  | --- | EUR  | Lokale munt  | Totaal  |
-| --- | --- | 2011:  2012:  2013:  | --- | --- | --- |
-| j.  | Geef aan of en zo ja welke subsidie(s) uw organisatie al ontvangt van het ministerie van Buitenlandse Zaken (inclusief bijdragen en subsidies van Nederlandse ambassades), welk bedrag, welke looptijd en welke activiteit het betreft (activiteitennummer). Indien u de gegevens in een bijlage opneemt, gaarne deze bijlage hier vermelden.  | --- |
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| a. Naam aanvragende organisatie  | --- |
+| b. Adres en Telefoon  | --- |
+| c. E-mail adres  | --- |
+| d. Indien u per e-mail bereikbaar bent, geef aan of u akkoord gaat met correspondentie, inclusief formele besluiten, door het ministerie via genoemd e-mail adres.  | --- |
+| e. Naam directeur(en), met vermelding van  de heer/mevrouw  | --- |
+| f. Naam contactpersoon aanvraag, met vermelding van de heer/mevrouw  | --- |
+| g. Indien u penvoerder bent van een alliantie, geef aan welke overige organisaties participeren in deze aanvraag als mede-indieners. Gaarne volledige adresgegevens, naam directeur en naam contactpersoon toevoegen. Deze gegevens kunt u eventueel in een bijlage duidelijk vermelden.  | --- |
+| h. Naam bank + rekeningnummer (IBAN) van de aanvrager  | --- |
+| i. Inkomsten aanvrager (totaalbedrag jaarlijkse organisatiebegroting) en in geval van een alliantie tevens inkomsten alliantiepartners (per partner totaalbedrag jaarlijkse organisatiebegroting)  | 2011:  2012:  2013:  | EUR  | Lokale munt  | Totaal  |
+| j. Geef aan of en zo ja welke subsidie(s) uw organisatie en eventuele alliantiepartners al ontvangt, c.q. ontvangen van het ministerie van Buitenlandse Zaken (inclusief bijdragen en subsidies van Nederlandse ambassades), welk bedrag, welke looptijd en welke activiteit het betreft (activiteitennummer). Indien u de gegevens in een bijlage opneemt, gaarne deze bijlage hier vermelden.  | --- |
 
-### II  
+### II 
 
 ####Drempelcriteria
 
-*Indien een voorstel niet aan één of meerdere criteria voldoet wordt deze afgewezen en niet verder beoordeeld. Deze criteria worden hieronder vermeld en indien nodig toegelicht.*   *De organisatie voldoet aan de onderstaande criteria:*   
+*Indien een voorstel niet aan één of meerdere criteria voldoet wordt deze afgewezen en niet verder beoordeeld. Deze criteria worden hieronder vermeld en indien nodig toegelicht.* *De *organisatie* voldoet aan de onderstaande criteria:*  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|  *D.1: de aanvrager, of in het geval van een alliantie, de penvoerder, is een Nederlandse of een in een lage- of lage-middeninkomensland (zie annex 1) gevestigde maatschappelijke organisatie zonder winstoogmerk en bezit rechtspersoonlijkheid.*   Toelichting: Dit blijkt uit de statuten van de organisatie. Hierbij geldt dat een Nederlandse organisatie is opgericht in Nederland, volgens Nederlands recht en statutair in Nederland is gevestigd.  Een in een lage- of lage-middeninkomensland gevestigde maatschappelijke organisatie is een organisatie die statutair is gevestigd in één van de landen opgenomen in annex 1<sup> 10  Indien het land van vestiging geen statuten kent geldt het lokale equivalent ten aanzien van statutaire vestiging.  </sup> en is opgericht in het land van vestiging volgens het daar geldende recht.  Internationale maatschappelijke organisaties (INGO’s) gevestigd in een hooginkomensland of hoger-middeninkomensland komen niet in aanmerking als aanvrager en/of penvoerder. Wel kunnen zij in een alliantie deelnemen.  --------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
-|  *D.1.a: Maatschappelijke organisaties gevestigd in een lage- of lage-middeninkomensland opgenomen op de landenlijst van annex 1 bij dit aanvraagstramien kunnen op twee manieren deelnemen in een strategisch partnerschap:*   • als penvoerder van een alliantie, onder voorwaarde dat tenminste één Nederlandse maatschappelijke organisatie lid is van deze alliantie.  • als één van de partners die deel uitmaken van een Nederlandse alliantie (d.w.z. een alliantie met een Nederlandse penvoerder).   *Toelichting:* Dit wordt aangetoond door overlegging van een door betrokken partners getekende samenwerkingsovereenkomst in het kader van de alliantie. De samenwerkingsovereenkomst bevat een beschrijving van de wijze waarop elk van de partijen bijdraagt aan de werkzaamheden van de alliantie en van de wijze waarop de besluitvorming in de alliantie plaats vindt, alsook een overeenkomst tussen de partijen op grond waarvan de naleving van de aan de subsidie verbonden verplichtingen jegens de Minister is gewaarborgd.  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------   *D.2: De aanvrager/penvoerder zet zich in voor structurele armoedebestrijding en inclusieve ontwikkeling door samenwerking met maatschappelijke organisaties in meer dan 3 lage- en lage-middeninkomenslanden (zie annex 1).*    *Toelichting:* Dit wordt aangetoond aan de hand van de doelstellingen van de organisatie zoals vermeld in de statuten en/of missie. Organisaties kunnen dit ook aantonen door overlegging van (of via hyperlink naar) interne (beleids-)documenten zoals (meerjaren)plannen en/of jaarverslagen. Geef de passage/bladzijde aan waarnaar wordt verwezen.  --------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
-|  *D.3: De aanvrager/penvoerder heeft binnen het onder D.2 genoemde werkterrein en in de daar genoemde landen minimaal drie jaar gewerkt aan capaciteitsversterking van maatschappelijke organisaties in lage- en lage-middeninkomenslanden (zie annex 1) op het gebied van pleiten en beïnvloeden.*    *Toelichting:* Dit wordt aangetoond door overlegging van (of via hyperlink naar) interne (beleids)documenten zoals jaarplannen en jaarverslagen, evaluaties en/of documenten van derden. Geef de passage/bladzijde aan waarnaar wordt verwezen.  --------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
-|  *D.4: De aanvrager/penvoerder beschikt over meerdere relevante netwerken in het kader van pleiten en beïnvloeden.*    *Toelichting:* de aanvrager toont dit aan door overlegging van (of hyperlink naar) interne en/of externe documenten waaruit blijkt dat er sprake is van reguliere deelname aan voor pleiten en beïnvloeden relevante lokale, nationale en/of internationale netwerken. Geef de passage/bladzijde aan waarnaar wordt verwezen.  --------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
-|  *D.5: De aanvrager/penvoerder maakt aannemelijk dat vanaf 1 januari 2014 ten minste 25% van de jaarlijkse inkomsten afkomstig is uit bronnen anders dan BZ-bijdragen.*    *Toelichting:*   De aanvrager onderbouwt dit aan de hand van de inkomsten over de periode 2011 t/m 2013. Indien de aanvrager penvoerder is voor een alliantie geldt dit criterium voor de gehele alliantie. Dat wil zeggen dat indien één van de deelnemende organisaties minder dan 25% van de jaarlijkse inkomsten uit andere dan BZ bijdragen verwerft, dit kan worden gecompenseerd door een andere partij uit de alliantie. Alle gelden die direct of indirect worden verkregen ten laste van de begroting van het Ministerie van Buitenlandse Zaken (bijvoorbeeld een subsidie of bijdrage van een Nederlandse ambassade) tellen niet mee bij het bepalen van de omvang van de eigen inkomsten.  --------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
-| Jaarlijkse totale inkomsten in 2011: EUR ............., waarvan niet BZ: ............  Jaarlijkse totale inkomsten in 2012: EUR ............., waarvan niet BZ: ...........  Jaarlijkse totale inkomsten in 2013: EUR.............., waarvan niet BZ:  Verwachte inkomsten in 2014: EUR......................., waarvan niet BZ:  |
-|  *D.6: Wanneer de aanvrager/penvoerder een organisatie binnen Nederland betreft, dient het bruto salaris van management en bestuur van de aanvrager/ penvoerder aan de DG-norm te voldoen (maximaal EUR 129.500 per jaar, op grond van een 36-urige werkweek). Indien de aanvraag wordt ingediend namens een alliantie geldt dit criterium behalve voor de penvoerder tevens voor de in de alliantie participerende Nederlandse organisaties.*    *Het bruto salaris van management en bestuur van een aanvrager/penvoerder van buiten de EU staat niet later dan met ingang van het tijdvak waarvoor subsidie wordt verleend in redelijke verhouding tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie. Indien de aanvraag wordt ingediend namens een alliantie geldt dit criterium behalve voor de penvoerder tevens voor de in de alliantie participerende organisaties van buiten de EU.*    *Toelichting:*    *Toelichting:* De aanvrager specificeert de hoogte van de salarissen (inclusief toeslagen) van de leden van het management (inclusief CEO) en het bestuur.  |
+| *D.1:* *de aanvrager, of in het geval van een alliantie, de penvoerder, is een Nederlandse of een in een lage- of lage-middeninkomensland (zie annex 1) gevestigde maatschappelijke organisatie zonder winstoogmerk en bezit rechtspersoonlijkheid.*  *Toelichting:* Dit blijkt uit de statuten van de organisatie. Hierbij geldt dat een Nederlandse organisatie is opgericht in Nederland, volgens Nederlands recht en statutair in Nederland is gevestigd.  Een in een lage- of lage-middeninkomensland gevestigde maatschappelijke organisatie is een organisatie die statutair is gevestigd in één van de landen opgenomen in annex 1<sup>1</sup> en is opgericht in het land van vestiging volgens het daar geldende recht.  Internationale maatschappelijke organisaties (INGO’s) gevestigd in een hooginkomensland of hoger-middeninkomensland komen niet in aanmerking als aanvrager en/of penvoerder. Wel kunnen zij in een alliantie deelnemen.  |
+| *D.1.a:* *Maatschappelijke organisaties gevestigd in een lage- of lage-middeninkomensland opgenomen op de landenlijst van annex 1 bij dit aanvraagstramien kunnen op twee manieren deelnemen in een strategisch partnerschap:*  • als penvoerder van een alliantie, onder voorwaarde dat tenminste één Nederlandse maatschappelijke organisatie lid is van deze alliantie.  • als één van de partners die deel uitmaken van een Nederlandse alliantie (d.w.z. een alliantie met een Nederlandse penvoerder).  *Toelichting:* Dit wordt aangetoond door overlegging van een door betrokken partners getekende samenwerkingsovereenkomst in het kader van de alliantie. De samenwerkingsovereenkomst bevat een beschrijving van de wijze waarop elk van de partijen bijdraagt aan de werkzaamheden van de alliantie en van de wijze waarop de besluitvorming in de alliantie plaats vindt, alsook een overeenkomst tussen de partijen op grond waarvan de naleving van de aan de subsidie verbonden verplichtingen jegens de Minister is gewaarborgd.  |
+| *D.2:* *De aanvrager/penvoerder en eventuele alliantiepartners zet (zetten) zich in voor structurele armoedebestrijding en inclusieve ontwikkeling door samenwerking met maatschappelijke organisaties in meer dan 3 lage- en lage-middeninkomenslanden (zie annex 1), waarbij de peildatum 1 januari 2014 is.*  *Toelichting:* Dit wordt aangetoond aan de hand van de doelstellingen van de organisatie zoals vermeld in de statuten en/of missie. Organisaties kunnen dit ook aantonen door overlegging van (of via hyperlink naar) interne (beleids-)documenten zoals (meerjaren)plannen en/of jaarverslagen. Geef de passage/bladzijde aan waarnaar wordt verwezen.  |
+| *D.3:* *De aanvrager/penvoerder en eventuele alliantiepartners heeft (hebben) binnen het onder D.2 genoemde werkterrein en in de daar genoemde landen minimaal drie jaar gewerkt aan capaciteitsversterking van maatschappelijke organisaties in lage- en lage-middeninkomenslanden (zie annex 1) op het gebied van pleiten en beïnvloeden. Peildatum is 1 januari 2014.*  *Toelichting:* Dit wordt aangetoond door overlegging van (of via hyperlink naar) interne (beleids)documenten zoals jaarplannen en jaarverslagen, evaluaties en/of documenten van derden. Geef de passage/bladzijde aan waarnaar wordt verwezen.  |
+| *D.4:* *De aanvrager/alliantie beschikt over meerdere relevante netwerken in het kader van pleiten en beïnvloeden.* *Toelichting:* de aanvrager toont dit aan door overlegging van (of hyperlink naar) interne en/of externe documenten waaruit blijkt dat er sprake is van reguliere deelname aan voor pleiten en beïnvloeden relevante lokale, nationale en/of internationale netwerken. Geef de passage/bladzijde aan waarnaar wordt verwezen. Indien de aanvraag wordt ingediend namens een alliantie geldt dit criterium voor de alliantie als geheel en niet ten aanzien van elke van de deelnemende organisaties.  |
+| *D.5:* *De aanvrager/penvoerder maakt aannemelijk dat vanaf 1 januari 2014 ten minste 25% van de jaarlijkse inkomsten afkomstig is uit bronnen anders dan BZ-bijdragen.*  *Toelichting:*  De aanvrager onderbouwt dit aan de hand van de inkomsten over de periode 2011 t/m 2013. Indien de aanvrager penvoerder is voor een alliantie geldt dit criterium voor de gehele alliantie. Dat wil zeggen dat indien één van de deelnemende organisaties minder dan 25% van de jaarlijkse inkomsten uit andere dan BZ bijdragen verwerft, dit kan worden gecompenseerd door een andere partij uit de alliantie. Alle gelden die direct of indirect worden verkregen ten laste van de begroting van het Ministerie van Buitenlandse Zaken (bijvoorbeeld een subsidie of bijdrage van een Nederlandse ambassade) tellen niet mee bij het bepalen van de omvang van de eigen inkomsten.  | --- |
+| Jaarlijkse totale inkomsten in 2011: EUR ....., waarvan niet BZ: .....  Jaarlijkse totale inkomsten in 2012: EUR ....., waarvan niet BZ: .....  Jaarlijkse totale inkomsten in 2013: EUR ....., waarvan niet BZ:  Verwachte inkomsten in 2014: EUR ....., waarvan niet BZ:  |
+| *D.6:* *Wanneer de aanvrager/penvoerder een organisatie binnen Nederland betreft, dient het bruto salaris van management en bestuur van de aanvrager/ penvoerder aan de DG-norm te voldoen (maximaal EUR 129.500 per jaar, op grond van een 36-urige werkweek).Indien de aanvraag wordt ingediend namens een alliantie geldt dit criterium behalve voor de penvoerder tevens voor in de alliantie participerende Nederlandse organisaties en in de alliantie participerende organisaties binnen de EU.*  *Het bruto salaris van management en bestuur van een aanvrager/penvoerder van buiten de EU staat niet later dan met ingang van het tijdvak waarvoor subsidie wordt verleend in redelijke verhouding tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie. Indien de aanvraag wordt ingediend namens een alliantie geldt dit criterium behalve voor de penvoerder tevens voor in de alliantie participerende organisaties van buiten de EU.*  *Toelichting:*  *Toelichting:* De aanvrager specificeert de hoogte van de salarissen (inclusief toeslagen) van de leden van het management (inclusief CEO) en het bestuur.  |
 | Naam functie  | Jaarsalaris (netto)  | Overige inkomsten/toelagen  |
 | --- | --- | --- |
 | --- | --- | --- |
 | --- | --- | --- |
-| Aantal medewerkers organisatie:....  1 Aantal medewerkers organisatie(onderdeel):  2 Jaarlijkse totale inkomsten in 2013:  3 Toelichting op complexiteit en strategische positionering van de organisatie (bijv. rol in het internationale beleid, werkterrein, kennisfunctie), op grond waarvan de hoogte van de salarissen is gerechtvaardigd: .....................................................................   *Gebruik voor de conversie naar Euro’s, de corporate rates (annex 2)*   |
-|  *D.7: De aanvrager/penvoerder is in staat tot een adequaat financieel beheer. De aanvrager kan door ervaringsdeskundigheid een doelgerichte en doelmatige uitvoering van de programma’s op het terrein van pleiten en beïnvloeden waarborgen.*    *Toelichting:*   a) Dit blijkt uit een geldige (minder dan vier jaar oude) en positief beoordeelde organisatietoets dan wel COCA (Checklist Organisational Capacity Assessment) die namens de minister is uitgevoerd in het kader van een subsidie aanvraag. Indien er sindsdien geen veranderingen hebben plaatsgevonden waardoor resultaten geheel of gedeeltelijk achterhaald zijn, dan hoeft de aanvrager geen documenten in te dienen, maar volstaat hij met verwijzing naar deze toets en het activiteitnummer. In het geval dat de aanvrager PARTOS ISO-9001 gecertificeerd is, wordt de aanvrager geacht te voldoen aan drempelcriterium D.7;  b) Indien feiten en omstandigheden sinds de toets zoals vermeld onder a) zodanig zijn gewijzigd dat de resultaten van de toets geheel of gedeeltelijk achterhaald zijn, dan dient de aanvrager hieronder aan te geven op welke aspecten verandering heeft plaatsgevonden en zo nodig additionele documenten toe te sturen.  c) Indien de aanvrager geen positief beoordeelde organisatietoets dan wel COCA heeft, noch PARTOS ISO-9001 gecertificeerd is, vult de aanvrager de organisatietoets in a.d.h.v. het bijgevoegde COCA format (annex 3).  --------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
+| Aantal medewerkers organisatie:….  1 Aantal medewerkers organisatie(onderdeel):  2 Jaarlijkse totale inkomsten in 2013:  3 Toelichting op complexiteit en strategische positionering van de organisatie (bijv. rol in het internationale beleid, werkterrein, kennisfunctie), op grond waarvan de hoogte van de salarissen is gerechtvaardigd: .....  *Gebruik voor de conversie naar Euro’s, de corporate rates (annex 2)*  |
+| *D.7:* *De aanvrager/penvoerder is in staat tot een adequaat financieel beheer. De aanvrager kan door ervaringsdeskundigheid een doelgerichte en doelmatige uitvoering van de programma’s op het terrein van pleiten en beïnvloeden waarborgen.*  *Toelichting:*  |
+|*a)* Dit blijkt uit een *geldige (minder dan vier jaar oude) en positief beoordeelde organisatietoets dan wel COCA* (Checklist Organisational Capacity Assessment) die namens de minister is uitgevoerd in het kader van een subsidie aanvraag. Indien er sindsdien geen veranderingen hebben plaatsgevonden waardoor resultaten geheel of gedeeltelijk achterhaald zijn, dan hoeft de aanvrager geen documenten in te dienen, maar volstaat hij met verwijzing naar deze toets en het activiteitnummer. In het geval dat de aanvrager PARTOS ISO-9001 gecertificeerd is, wordt de aanvrager geacht te voldoen aan drempelcriterium D.7;  *b)* *Indien feiten en omstandigheden sinds de toets zoals vermeld onder a) zodanig zijn gewijzigd dat de resultaten van de toets geheel of gedeeltelijk achterhaald zijn*, dan dient de aanvrager hieronder aan te geven op welke aspecten verandering heeft plaatsgevonden en zo nodig additionele documenten toe te sturen.  *c)* *Indien de aanvrager geen positief beoordeelde organisatietoets dan wel COCA heeft, noch PARTOS ISO-9001 gecertificeerd is*, vult de aanvrager de organisatietoets in a.d.h.v. het bijgevoegde COCA format (annex 3). |
 
-### III  
+<sup>1</sup>Indien het land van vestiging geen statuten kent geldt het lokale equivalent ten aanzien van statutaire vestiging.
+
+### III 
 
 ####Selectie criteria partnerschap
 
-### III..1  
+### III.1 
 
 ####Track record
 
-####CASUSSEN
+####Casussen
 
-Beschrijf aan de hand van casussen (minimaal 3 en maximaal 5) uit de laatste 3 jaar de ervaring van de organisatie of de alliantie op het terrein van ‘pleiten en beïnvloeden’. De casussen stelt u zo op dat het beoordelingsteam zich een oordeel kan vormen over de visie, werkwijze en capaciteit van de organisatie of alliantie wat betreft ‘pleiten en beïnvloeden’. De vorm van presenteren is vrij, en het geheel van de beschreven voorbeelden geven inzicht in: 
-
-####Expertise en effectiviteit
+Beschrijf aan de hand van casussen (*minimaal 3 en maximaal 5*) uit de laatste 3 jaar voorafgaand aan 1 januari 2014 de ervaring van de organisatie of de alliantie op het terrein van ‘pleiten en beïnvloeden’. De casussen stelt u zo op dat het beoordelingsteam zich een oordeel kan vormen over de visie, werkwijze en capaciteit van de organisatie of alliantie wat betreft ‘pleiten en beïnvloeden’. De vorm van presenteren is vrij, en het geheel van de beschreven voorbeelden geven inzicht in: 
+###Expertise en effectiviteit
 
 * Op basis van welke analyse en strategie de interventies zijn uitgevoerd en welke resultaten zijn behaald. Op welke wijze de analyse is uitgevoerd (gebruikte instrumenten, methoden en bronnen).  
 
@@ -342,50 +348,47 @@ Beschrijf aan de hand van casussen (minimaal 3 en maximaal 5) uit de laatste 3 j
 * Het gebruik van relevante netwerken om de effectiviteit van de interventie te vergroten.  
 
 * De mate van effectiviteit van de door de organisatie/alliantie geleverde capaciteitsversterking van de partners van de organisatie/alliantie op het gebied van pleiten en beïnvloeden inclusief de uitdagingen en hoe hiermee is omgegaan.   
-
-####Flexibiliteit en lerend vermogen
+###Flexibiliteit en lerend vermogen
 
 * Het lerende vermogen van de organisatie/alliantie. Wijze waarop de organisatie op basis van haar PME geleerde lessen heeft gebruikt om processen bij te stellen en/of andere keuzes te maken.  
 
 * Het vermogen van de organisatie/alliantie om flexibel, actief en innovatief (samen) te werken.   
-
-####Transparantie, verantwoording en draagvlak
+###Transparantie, verantwoording en draagvlak
 
 * De wijze waarop de organisatie/alliantie verantwoording aflegt.  
 
 * Of en hoe lokale partners betrokken zijn geweest bij de voorbereiding, planning en uitvoering van de interventies.   
-
-####Inclusiviteit
+###Inclusiviteit
 
 * Hoe de organisatie/ alliantie gender mainstreamt en zich specifiek heeft ingezet voor de verbetering van positie en empowerment van vrouwen en met welke resultaten.  
 
-* Hoe de organisatie/alliantie zich richt op het verbeteren van de kansen en toegang tot basisvoorzieningen van kwetsbare en gemarginaliseerde groepen, en met welke resultaten.   
-
-####Duurzaamheid
+* Hoe de organisatie/alliantie zich richt op het verbeteren van de kansen en toegang tot basisvoorzieningen van kwetsbare en gemarginaliseerde groepen, en met welke resultaten.  
+###Duurzaamheid
 
 * Hoe een structurele inbedding van de resultaten heeft plaatsgevonden.   
+###Toegevoegde waarde van organisatie of de alliantie
 
-####Toegevoegde waarde van organisatie of de alliantie
+* De toegevoegde waarde van de organisatie/alliantie op het gebied van pleiten en beïnvloeden  
 
-* De toegevoegde waarde van de organisatie/alliantie op het gebied van pleiten en beïnvloeden   In het geval van een alliantie beschrijven de cases tevens: 
+* In het geval van een alliantie beschrijven de cases tevens:  
 
 * Waarom gekozen is voor een alliantie, en wat de meerwaarde is van het werken in een alliantie.  
 
-* De ervaring van iedere alliantiepartner op het gebied van ‘pleiten en beïnvloeden’.   U onderbouwt de cases met verwijzing naar evaluaties en/of impactstudies en/of ander materiaal. Iedere casus mag niet langer zijn dan 4.000 woorden (ongeveer 8 pagina’s). 
+* De ervaring van iedere alliantiepartner op het gebied van ‘pleiten en beïnvloeden’.   U onderbouwt de cases met verwijzing naar evaluaties en/of impactstudies en/of ander materiaal. Iedere casus mag niet langer zijn dan *4.000* woorden (ongeveer 8 pagina’s). 
 
-####ALGEMEEN
+####Algemeen
 
-Daarnaast beschrijft u in maximaal 500 woorden: 
+Daarnaast beschrijft u in maximaal *500* woorden: 
 
 * Welk aandeel ‘pleiten en beïnvloeden’ inneemt in het totale programma van de organisatie/alliantie (in termen van beslag van menskracht en middelen).  
 
-* Hoe door middel van het plannings-, monitoring- en evaluatiesysteem (PME) van de organisatie/alliantie de monitoring, bijsturing en resultaatmeting van interventies op het gebied van ‘pleiten en beïnvloeden’ vorm krijgt.   U noemt 3 referenten waaronder in ieder geval 
+* Hoe door middel van het plannings-, monitoring- en evaluatiesysteem (PME) van de organisatie/alliantie de monitoring, bijsturing en resultaatmeting van interventies op het gebied van ‘pleiten en beïnvloeden’ vorm krijgt.   U noemt *3 referenten* waaronder in ieder geval 
 
-− Een ambassade, afdeling of directie van het ministerie van Buitenlandse Zaken die namens de minister eerder een financiële bijdrage heeft verstrekt *of* een andere donor.  
+– Een ambassade, afdeling of directie van het ministerie van Buitenlandse Zaken die namens de minister eerder een financiële bijdrage heeft verstrekt *of* een andere donor.  
 
-− Een partnerorganisatie uit een lage- of lage-middeninkomensland.   Het moet gaan om referenten die in staat zijn een goed beeld te schetsen van uw ervaring met en resultaten van ‘pleiten en beïnvloeden’. U overlegt de naam, telefoon en e-mail gegevens. 
+– Een partnerorganisatie uit een lage- of lage-middeninkomensland. Het moet gaan om referenten die in staat zijn een goed beeld te schetsen van uw ervaring met en resultaten van ‘pleiten en beïnvloeden’. U overlegt de naam, telefoon en e-mail gegevens.   
 
-### III.2  
+### III.2 
 
 ####Theory of change
 
@@ -393,21 +396,21 @@ Beschrijf in de ‘*Theory of Change’* welke sociale verandering u voor een be
 
 * een lange termijn doelstelling en de tussenliggende stappen die nodig zijn om deze te bereiken.  
 
-* voorgenomen interventies  
+* voorgenomen interventies.  
 
-* relevante actoren (stakeholders) en hun onderlinge relaties  
+* relevante actoren (stakeholders) en hun onderlinge relaties.  
 
-* een visie op de eigen positie binnen het partnerschap alsook op de rol van de Minister binnen het partnerschap  
+* een visie op de eigen positie binnen het partnerschap alsook op de rol van de Minister binnen het partnerschap.  
 
-* meetbare proces- en impactindicatoren ten behoeve van monitoring en bijstelling  
+* meetbare proces- en impactindicatoren ten behoeve van monitoring en bijstelling.  
 
-* bepalende factoren voor succes, maar ook potentiële bedreigingen, risico’s en een beschrijving van stappen om deze zoveel mogelijk te beperken.   Ook maakt u de onderliggende aannames expliciet. Deze aannames beschrijven en verklaren de grondslag van het beoogde veranderproces (sociaal, politiek, economisch en cultureel) en de verwachtingen over hoe en waarom de voorgestelde interventies bijdragen aan het realiseren van de beoogde verandering. Tevens verklaren zij de verbinding tussen het uiteindelijk te bereiken doel (impact) en de tussenliggende stappen van output en outcome. NB: Een organisatie of alliantie die op meer thema’s aan ‘pleiten en beïnvloeden’ werkt, *kan *voor maximaal 4 thema’s een ‘*Theory of Change*’ inleveren. De ‘*Theory of Change*’ is niet langer dan 3.000 woorden (ongeveer 6 pagina’s). 
+* bepalende factoren voor succes, maar ook potentiële bedreigingen, risico’s en een beschrijving van stappen om deze zoveel mogelijk te beperken.   Ook maakt u de onderliggende aannames expliciet. Deze aannames beschrijven en verklaren de grondslag van het beoogde veranderproces (sociaal, politiek, economisch en cultureel) en de verwachtingen over hoe en waarom de voorgestelde interventies bijdragen aan het realiseren van de beoogde verandering. Tevens verklaren zij de verbinding tussen het uiteindelijk te bereiken doel (impact) en de tussenliggende stappen van output en outcome. Een geografische focus is voor de *‘Theory of Change’* niet per se noodzakelijk. Indien geografische keuzes worden gemaakt geldt dat de *‘Theory of Change*’ zich bij voorkeur richt op de landen opgenomen in Annex 1 bij dit aanvraagstramien en op andere landen indien dat noodzakelijk is voor het behalen van het strategisch doel van het beleidskader, dat zich richt op de landen van Annex 1. NB: Een organisatie of alliantie die op meer thema’s aan ‘pleiten en beïnvloeden’ werkt, *kan *voor maximaal 4 thema’s een ‘*Theory of Change*’ inleveren. De ‘*Theory of Change*’ is niet langer dan *3.000* woorden (ongeveer 6 pagina’s). 
 
-### IV  
+### IV 
 
 ####Afsluiting: ondertekening
 
-Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhorende bijlagen naar waarheid zijn ingevuld en bijgevoegd.  
+*Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhorende bijlagen naar waarheid zijn ingevuld en bijgevoegd. *  
 
 | --- | --- |
 |:---|:---|
@@ -417,19 +420,21 @@ Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhor
 | Plaats  | --- |
 | Handtekening  | --- |
 
-### V  
+### V 
 
 ####Verplichte bijlagen
 
-Bij uw aanvraag voegt u in elk geval de volgende bijlagen, die u nummert ten behoeve van een juiste verwijzing in de onderdelen waar daar om wordt gevraagd in dit aanvraagstramien.  
+*Bij uw aanvraag voegt u in elk geval de volgende bijlagen, die u nummert ten behoeve van een juiste verwijzing in de onderdelen waar daar om wordt gevraagd in dit aanvraagstramien.*  
 
 |--- | Bijlage  |
 |:---|:---|
-| 1.1  | Kopie van de statuten en oprichtingsakte *indien er geen sprake* is van een geldende, positieve organisatie toets.  |
-| 1.2  | Jaarrekeningen van de aanvrager/penvoerder over de jaren 2011 t/m 2013: een link volstaat; indien deze niet beschikbaar is, dienen de originele documenten te worden meegestuurd.  |
-| 1.3  | In geval van een alliantie een door de betrokken organisaties getekende samenwerkingsovereenkomst.<sup> 11  De samenwerkingsovereenkomst bevat een beschrijving van de wijze waarop elk van de partijen bijdraagt aan de werkzaamheden van de alliantie en van de wijze waarop de besluitvorming in de alliantie plaats vindt, alsook een overeenkomst tussen de partijen op grond waarvan de naleving van de aan de subsidie verbonden verplichtingen jegens de Minister is gewaarborgd.  </sup>   |
-| 1.4  | Het goedgekeurde/vastgestelde inhoudelijke jaarverslag over 2013 van de aanvragende organisatie: een link volstaat; indien deze niet beschikbaar is, dienen de originele documenten te worden meegestuurd.  |
-| 1.5  | De accountantsverklaring en management letter (indien aanwezig) over 2013 van de aanvragende organisatie.  |
+| 1.1  | Kopie van de statuten en oprichtingsakte. Indien er sprake is van een geldende, positieve organisatie toets is het meesturen van deze stukken niet verplicht, tenzij de statuten worden gebruikt om aan te tonen dat aan een drempelcriterium wordt voldaan.  |
+| 1.2  | Jaarrekeningen van de aanvrager/penvoerder en van eventuele alliantiepartners over de jaren 2011 t/m 2013: een link volstaat; indien deze niet beschikbaar is, dienen de originele documenten te worden meegestuurd.  |
+| 1.3  | In geval van een alliantie een door de betrokken organisaties getekende samenwerkingsovereenkomst.<sup>1</sup>  |
+| 1.4  | Het goedgekeurde/vastgestelde inhoudelijke jaarverslag over 2013 van de aanvragende organisatie en van eventuele alliantiepartners: een link volstaat; indien deze niet beschikbaar is, dienen de originele documenten te worden meegestuurd.  |
+| 1.5  | De accountantsverklaring en management letter (indien aanwezig) over 2013 van de aanvragende organisatie en van eventuele alliantiepartners.  |
 | 1.6  | Track record in de vorm van minimaal 3 en maximaal 5 cases, inclusief 3 referenten.  |
-| 1.7  |  *‘Theory of Change’.*   |
+| 1.7  | *‘Theory of Change’.*  |
+
+<sup>1</sup>De samenwerkingsovereenkomst bevat een beschrijving van de wijze waarop elk van de partijen bijdraagt aan de werkzaamheden van de alliantie en van de wijze waarop de besluitvorming in de alliantie plaats vindt, alsook een overeenkomst tussen de partijen op grond waarvan de naleving van de aan de subsidie verbonden verplichtingen jegens de Minister is gewaarborgd.
 

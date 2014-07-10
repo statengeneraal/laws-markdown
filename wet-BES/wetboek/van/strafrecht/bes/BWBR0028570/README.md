@@ -2241,7 +2241,7 @@ Hij die een getuigschrift van goed gedrag, bekwaamheid, armoede, gebreken of and
 
 ### Artikel  236  
 
-1.  Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md) of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse gegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.   
+1.  Hij die een reisdocument, een identiteitsbewijs als bedoeld in artikel 2 van de Wet identificatieplicht BES of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse gegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.   
 2.  Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.   
 3.  Artikel 230, derde lid, is van overeenkomstige toepassing. 
 
@@ -2774,7 +2774,7 @@ De in de artikelen 303 en 304 omschreven misdrijven worden ten aanzien van ander
 ### Artikel  306  
 
 1.  Hij die opzettelijk het leven van een ander op diens uitdrukkelijk en ernstig verlangen beëindigt, wordt gestraft met een gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.   
-2.  Het in het eerste lid bedoelde feit is niet strafbaar, indien het is begaan door een arts die daarbij voldoet aan de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md), en hiervan mededeling doet aan de gemeentelijke lijkschouwer overeenkomstig [artikel 7, tweede lid, van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).  
+2.  Het in het eerste lid bedoelde feit is niet strafbaar, indien het is begaan door een arts die daarbij voldoet aan de zorgvuldigheidseisen, bedoeld in artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding, en hiervan mededeling doet aan de gemeentelijke lijkschouwer overeenkomstig artikel 7, tweede lid, van de Wet op de lijkbezorging.  
 
 ### Artikel  307  
 
@@ -2795,7 +2795,7 @@ Bij veroordeeling wegens doodslag, wegens moord of wegens een der in de artikele
 2.  Indien het feit de dood van de vrouw ten gevolge heeft, wordt gevangenisstraf van ten hoogste zes jaren opgelegd of geldboete van de vierde categorie.   
 3.  Indien het feit is begaan zonder toestemming van de vrouw, wordt gevangenisstraf van ten hoogste twaalf jaren opgelegd of geldboete van de vijfde categorie.   
 4.  Indien het feit is begaan zonder toestemming van de vrouw en tevens haar dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste vijftien jaren opgelegd of geldboete van de vijfde categorie.   
-5.  Het in het eerste lid bedoelde feit is niet strafbaar, indien de behandeling is verricht door een arts in een ziekenhuis of kliniek waarin zodanige behandeling volgens de [Wet afbreking zwangerschap](../../../../../../wet/wet/afbreking/zwangerschap/BWBR0003396/README.md) mag worden verricht.  
+5.  Het in het eerste lid bedoelde feit is niet strafbaar, indien de behandeling is verricht door een arts in een ziekenhuis of kliniek waarin zodanige behandeling volgens de Wet afbreking zwangerschap mag worden verricht.  
 
 ### Titel  XX  
 
@@ -3713,7 +3713,7 @@ b. hij die zich of een ander opzettelijk middelen of inlichtingen verschaft dan 
 
 – de artikelen 124a tot en met 124c alsmede artikel 298, indien dat misdrijf is gericht tegen een internationaal beschermd persoon of diens beschermde goederen;  
 
-– de [artikelen 79](../../../../../../wet/kernenergiewet/BWBR0002402/README.md) en [80 van de Kernenergiewet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md), de artikelen 167c, 179a en 297a alsmede de artikelen 146, 163, 230, 323 tot en met 325, 330, 331, 334, 335 en 339, indien het feit opzettelijk wederrechtelijk handelen betreft met betrekking tot kernmateriaal;  
+– de artikelen 79 en 80 van de Kernenergiewet, de artikelen 167c, 179a en 297a alsmede de artikelen 146, 163, 230, 323 tot en met 325, 330, 331, 334, 335 en 339, indien het feit opzettelijk wederrechtelijk handelen betreft met betrekking tot kernmateriaal;  
 
 – de artikelen 168, 168a, 172, 174, 295ao, 370, 399a tot en met 399d;  
 
@@ -3967,7 +3967,7 @@ Met hechtenis van ten hoogste eene maand of geldboete van de eerste categorie wo
 
 ### Artikel  460  
 
-Hij die drukwerken of andere voorwerpen in een vorm die ze op munt- of bankbiljetten, op muntspeciën, op van rijksmerken voorziene platina, gouden of zilveren werken, op postzegels of op reisdocumenten, identiteitsbewijzen als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md) of andere identiteitsbewijzen die afgegeven zijn door een dienst of organisatie van vitaal of nationaal belang of Nederlandse identiteitskaarten doet gelijken, vervaardigt, verspreidt of ter verspreiding in voorraad heeft, wordt gestraft met een geldboete van de tweede categorie. 
+Hij die drukwerken of andere voorwerpen in een vorm die ze op munt- of bankbiljetten, op muntspeciën, op van rijksmerken voorziene platina, gouden of zilveren werken, op postzegels of op reisdocumenten, identiteitsbewijzen als bedoeld in artikel 2 van de Wet identificatieplicht BES of andere identiteitsbewijzen die afgegeven zijn door een dienst of organisatie van vitaal of nationaal belang of Nederlandse identiteitskaarten doet gelijken, vervaardigt, verspreidt of ter verspreiding in voorraad heeft, wordt gestraft met een geldboete van de tweede categorie. 
 
 ### Artikel  461  
 
@@ -4027,7 +4027,7 @@ Met geldboete van de tweede categorie wordt gestraft:
 
 ### Artikel  466b  
 
-Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md) of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, dat hij voorhanden heeft, waarvan hij niet de houder is, of dat ingevolge een wettelijke bepaling moet worden ingeleverd, niet terstond wanneer hem dit mondeling door een daartoe bevoegde ambtenaar is bevolen, danwel binnen veertien dagen, nadat hem dit bij aangetekend schrijven in persoon is medegedeeld, inlevert, wordt gestraft met geldboete van de tweede categorie. 
+Hij die een reisdocument, een identiteitsbewijs als bedoeld in artikel 2 van de Wet identificatieplicht BES of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, dat hij voorhanden heeft, waarvan hij niet de houder is, of dat ingevolge een wettelijke bepaling moet worden ingeleverd, niet terstond wanneer hem dit mondeling door een daartoe bevoegde ambtenaar is bevolen, danwel binnen veertien dagen, nadat hem dit bij aangetekend schrijven in persoon is medegedeeld, inlevert, wordt gestraft met geldboete van de tweede categorie. 
 
 ### Artikel  466c  
 

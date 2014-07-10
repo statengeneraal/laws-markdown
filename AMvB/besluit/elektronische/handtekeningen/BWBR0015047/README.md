@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 13 november 2002, nr. DGTP/02/03931, Directie Wetgeving en Juridische Zaken;
 
-Gelet op richtlijn nr. 1999/93/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG 2000, L 13), alsmede op de [artikelen 16.1](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [18.15, eerste en tweede lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [18.17, eerste en vijfde lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op richtlijn nr. 1999/93/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG 2000, L 13), alsmede op de artikelen 16.1, 18.15, eerste en tweede lid, en 18.17, eerste en vijfde lid, van de Telecommunicatiewet;
 
 De Raad van State gehoord (advies van 12 december 2002, nr. W 10.02.0509/II);
 
@@ -18,13 +18,13 @@ Hebben goedgevonden en verstaan:
 | --- | --- |
 |:---|:---|
 |  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:   |
-| a. wet:  | [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  |
+| a. wet:  | Telecommunicatiewet;  |
 | b. certificatiediensten:  | het afgeven, beheren en intrekken van gekwalificeerde certificaten door certificatiedienstverleners, alsmede andere diensten die samenhangen met het gebruik van elektronische handtekeningen;   |
 | c. sleutelbeheerdiensten:  | het genereren, opslaan, verstrekken of vernietigen van cryptografisch sleutelmateriaal dat gebruikt wordt voor het aanmaken of het verifiëren van elektronische handtekeningen.  |
 
 ### Artikel  2  
 
-1.  Een certificatiedienstverlener als bedoeld in [artikel 18.15, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet aan de volgende eisen:  
+1.  Een certificatiedienstverlener als bedoeld in artikel 18.15, eerste lid, van de wet voldoet aan de volgende eisen:  
 
 a. hij beschikt over betrouwbare middelen en hanteert betrouwbare procedures voor het aanbieden van certificatiediensten aan het publiek;  
 
@@ -34,7 +34,7 @@ c. hij maakt uitsluitend gebruik van betrouwbare systemen en producten die proce
 
 d. hij neemt adequate maatregelen tegen het vervalsen van de gekwalificeerde certificaten die hij heeft uitgegeven en tegen het uitgeven van illegale gekwalificeerde certificaten en, indien hij gegevens voor het aanmaken van handtekeningen genereert, garandeert hij de vertrouwelijkheid van het proces waarmee dit gebeurt;  
 
-e. hij houdt voldoende financiële middelen ter beschikking om in overeenstemming met de eisen van de [wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) te kunnen functioneren;  
+e. hij houdt voldoende financiële middelen ter beschikking om in overeenstemming met de eisen van de wet te kunnen functioneren;  
 
 f. hij heeft personeel in dienst dat deskundig is op het gebied van de aangeboden diensten, met name op het gebied van beheer, van de technologie voor elektronische handtekeningen, en van de beveiligingsprocedures die worden toegepast;  
 
@@ -94,7 +94,7 @@ r. hij stelt schriftelijk, met behulp van een duurzaam communicatiemiddel en uit
 
 s. hij toont door middel van een verklaring van een daartoe bevoegde instantie aan dat hij, ieder van de bestuurders van de onderneming, en de medewerkers die binnen zijn onderneming in het kader van het verlenen van certificatiediensten verantwoordelijk zijn voor de verwerking van vertrouwelijke of gevoelige gegevens, niet binnen de laatste vier jaar wegens een misdrijf onherroepelijk zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een rechter in Nederland, de Nederlandse Antillen of Aruba, en  
 
-t. hij zorgt onverwijld na iedere veiligheidsinbreuk die of ieder integriteitsverlies dat aanzienlijke gevolgen heeft of kan hebben voor de betrouwbaarheid van door hem aangeboden of afgegeven gekwalificeerde certificaten voor een melding van die inbreuk of dat verlies aan de Autoriteit Consument en Markt, bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md), en aan Onze Minister van Veiligheid en Justitie, met een kennisgeving aan beiden van: 
+t. hij zorgt onverwijld na iedere veiligheidsinbreuk die of ieder integriteitsverlies dat aanzienlijke gevolgen heeft of kan hebben voor de betrouwbaarheid van door hem aangeboden of afgegeven gekwalificeerde certificaten voor een melding van die inbreuk of dat verlies aan de Autoriteit Consument en Markt, bedoeld in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt, en aan Onze Minister van Veiligheid en Justitie, met een kennisgeving aan beiden van: 
 
 1°. de aard en omvang van de inbreuk of het verlies;  
 
@@ -107,12 +107,12 @@ t. hij zorgt onverwijld na iedere veiligheidsinbreuk die of ieder integriteitsve
 5°. zo mogelijk de door de certificatiedienstverlener genomen of te nemen maatregelen om de gevolgen van de inbreuk of het verlies te beperken of herhaling hiervan te voorkomen;  
 
 6°. de contactgegevens van de in Nederland gevestigde functionaris die verantwoordelijk is voor het doen van de kennisgeving.      
-2.  Met een veroordeling als bedoeld in het eerste lid, onderdeel s, wordt gelijkgesteld een onherroepelijke veroordeling tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een andere rechter wegens een misdrijf waarvoor naar Nederlands recht een bevel tot voorlopige hechtenis ingevolge [artikel 67, eerste lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is toegelaten;   
+2.  Met een veroordeling als bedoeld in het eerste lid, onderdeel s, wordt gelijkgesteld een onherroepelijke veroordeling tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een andere rechter wegens een misdrijf waarvoor naar Nederlands recht een bevel tot voorlopige hechtenis ingevolge artikel 67, eerste lid, van het Wetboek van Strafvordering is toegelaten;   
 3.  Met een veroordeling tot een onvoorwaardelijke vrijheidsstraf als bedoeld in het tweede lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige onvoorwaardelijke vrijheidsstraf.  
 
 ### Artikel  3  
 
-Certificaten als bedoeld in [artikel 18.15, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevatten ten minste: 
+Certificaten als bedoeld in artikel 18.15, tweede lid, van de wet bevatten ten minste: 
 
 a. de vermelding dat het certificaat als gekwalificeerd certificaat wordt afgegeven;  
 
@@ -128,7 +128,7 @@ f. vermelding van het tijdstippen van het begin en van het einde van de geldighe
 
 g. de identiteitscode van het gekwalificeerde certificaat;  
 
-h. de elektronische handtekening van de afgevende certificatiedienstverlener die voldoet aan de criteria van [artikel 15a, tweede lid, onderdeel a tot en met d, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+h. de elektronische handtekening van de afgevende certificatiedienstverlener die voldoet aan de criteria van artikel 15a, tweede lid, onderdeel a tot en met d, van Boek 3 van het Burgerlijk Wetboek;  
 
 i. eventuele beperkingen betreffende het gebruik van het gekwalificeerde certificaat, en  
 
@@ -136,18 +136,18 @@ j. eventuele grenzen met betrekking tot de waarde van de transacties waarvoor he
 
 ###Artikel 3a 
 
-1. Een organisatie die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.16 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dient daartoe een aanvraag in en voldoet aan de volgende eisen:
+1. Een organisatie die in aanmerking wenst te komen voor een aanwijzing als bedoeld in artikel 18.16 van de wet dient daartoe een aanvraag in en voldoet aan de volgende eisen:
 
 a.de organisatie heeft voldoende gekwalificeerd personeel in dienst dat als auditor kan worden ingezet om een conformiteitsbeoordeling uit te voeren van een certificatiedienstverlener;
 
-b.de reglementen van de organisatie bieden voldoende waarborgen dat een overeenkomstig deze reglementen door de aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan [artikel 18.15, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en dat de door een zodanige certificatiedienstverlener aan het publiek aangeboden of afgegeven gekwalificeerde certificaten voldoen aan [artikel 18.15, tweede lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+b.de reglementen van de organisatie bieden voldoende waarborgen dat een overeenkomstig deze reglementen door de aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan artikel 18.15, eerste lid, van de wet en dat de door een zodanige certificatiedienstverlener aan het publiek aangeboden of afgegeven gekwalificeerde certificaten voldoen aan artikel 18.15, tweede lid, van de wet;
 
 c.de organisatie hanteert voorwaarden die objectief, transparant, evenredig en niet-discriminerend zijn;
 
 d. de organisatie is geaccrediteerd op basis van de norm NEN-EN 45011: 1998, norm NEN-EN-ISO/IEC 17065:2012 of ISO 17021:2011 of een gelijkwaardige norm, welke accreditatie het vakgebied «gekwalificeerde certificaten» dient te omvatten, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008.  
-2. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als organisatie als bedoeld in [artikel 18.16 van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) wordt ingediend, de informatie die daarbij wordt overgelegd, en het verlenen van medewerking terzake van een ingediende aanvraag. 
+2. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als organisatie als bedoeld in artikel 18.16 van de wet wordt ingediend, de informatie die daarbij wordt overgelegd, en het verlenen van medewerking terzake van een ingediende aanvraag. 
 3. Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking kunnen hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie. 
-4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen organisatie afgegeven bewijzen van toetsing bedoeld in [artikel 18.16, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsmede omtrent de medewerking die door een aangewezen organisatie wordt verleend met het oog op het voldoen door die organisatie aan de aan haar gestelde eisen.
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen organisatie afgegeven bewijzen van toetsing bedoeld in artikel 18.16, eerste lid, van de wet alsmede omtrent de medewerking die door een aangewezen organisatie wordt verleend met het oog op het voldoen door die organisatie aan de aan haar gestelde eisen.
 
 ### Artikel 3b 
 
@@ -201,14 +201,14 @@ b.het beoordelingsteam is competent om indicaties van kwetsbaarheden in de certi
 
 ### Artikel  4  
 
-1. Een instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dient daartoe een aanvraag in en voldoet aan de volgende eisen:
+1. Een instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in artikel 18.17a, eerste lid, van de wet dient daartoe een aanvraag in en voldoet aan de volgende eisen:
 
 a.zij hanteert een toetsingskader dat waarborgt dat de beoordeelde veilige middelen voor het aanmaken van elektronische handtekeningen voldoen aan de wettelijke eisen;
 
 b. zij is op basis van de norm NEN-EN 45011: 1998 of de norm ISO/IEC 17065:2012 geaccrediteerd, welke accreditatie het vakgebied veilige middelen voor het aanmaken van elektronische handtekeningen omvat, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008;  
 
 c. zij maakt gebruik van testlaboratoria die voldoen aan norm NEN-EN-ISO 17025 voor het testen van veilige middelen voor het aanmaken van elektronische handtekeningen volgens de norm ISO/IEC 15408:2005.  
-2.  De instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voldoet, onverminderd het eerste lid, aan de volgende eisen: 
+2.  De instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in artikel 18.17a, eerste lid, van de wet voldoet, onverminderd het eerste lid, aan de volgende eisen: 
 
 a. zij houdt zich niet bezig met activiteiten die een bedreiging kunnen vormen voor de onafhankelijkheid van haar oordeel en de integriteit bij de uitoefening van haar taak;  
 
@@ -240,15 +240,15 @@ f. het personeel dat belast is met de beoordeling van de overeenstemming van de 
 
 g. zij waarborgt de onpartijdigheid van het personeel, onder meer door de bezoldiging niet afhankelijk te stellen van het aantal uitgevoerde overeenstemmingbeoordelingen of van de resultaten van deze beoordelingen;  
 
-h. zij houdt voldoende financiële middelen ter beschikking om in overeenstemming met de eisen van de [wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) te kunnen functioneren;  
+h. zij houdt voldoende financiële middelen ter beschikking om in overeenstemming met de eisen van de wet te kunnen functioneren;  
 
 i. zij behandelt de gegevens die haar ter kennis komen vertrouwelijk, en  
 
 j. zij staat in voor de overeengekomen activiteiten van de instellingen door welke zij een deel van de overeenstemmingbeoordeling laat uitvoeren en kan aantonen dat deze instelling in staat is de betrokken dienst te verlenen.     
-3.  De instelling die deel uitmaakt van een organisatie die zich bezighoudt met andere activiteiten dan de beoordeling van de overeenstemming van veilige middelen voor het aanmaken van elektronische handtekeningen met de eisen van artikel 5, is binnen die organisatie herkenbaar als aangewezen instelling als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en scheidt haar werkzaamheden zodanig van de andere activiteiten, dat daardoor de correcte beoordeling van overeenstemming van veilige middelen is gewaarborgd.   
-4. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als instelling als bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geschiedt, de informatie die daarbij wordt overgelegd en het verlenen van medewerking terzake van een ingediende aanvraag. 
+3.  De instelling die deel uitmaakt van een organisatie die zich bezighoudt met andere activiteiten dan de beoordeling van de overeenstemming van veilige middelen voor het aanmaken van elektronische handtekeningen met de eisen van artikel 5, is binnen die organisatie herkenbaar als aangewezen instelling als bedoeld in artikel 18.17a, eerste lid, van de wet, en scheidt haar werkzaamheden zodanig van de andere activiteiten, dat daardoor de correcte beoordeling van overeenstemming van veilige middelen is gewaarborgd.   
+4. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als instelling als bedoeld in artikel 18.17a, eerste lid, van de wet geschiedt, de informatie die daarbij wordt overgelegd en het verlenen van medewerking terzake van een ingediende aanvraag. 
 5. Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie. 
-6. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen instelling afgegeven verklaringen bedoeld in [artikel 18.17a, eerste lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsmede omtrent de medewerking die door een aangewezen instelling wordt verleend met het oog op het voldoen door die instelling aan de aan haar gestelde eisen.
+6. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verstrekken van informatie in verband met door een aangewezen instelling afgegeven verklaringen bedoeld in artikel 18.17a, eerste lid, van de wet alsmede omtrent de medewerking die door een aangewezen instelling wordt verleend met het oog op het voldoen door die instelling aan de aan haar gestelde eisen.
 
 ### Artikel  5  
 
@@ -272,7 +272,7 @@ Wijzigt het Besluit vergoedingen Telecommunicatiewet.
 
 ### Artikel  8  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet elektronische handtekeningen](../../../../../wet/wet/elektronische/handtekeningen/BWBR0015046/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop de Wet elektronische handtekeningen in werking treedt. 
 
 ### Artikel  9  
 

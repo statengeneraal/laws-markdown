@@ -3,7 +3,7 @@
 ##Regeling tarieven Dienst Wegverkeer 2014
 
 De Directie van de Dienst Wegverkeer,  
-Gelet op de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [artikel 12:38, derde lid, van de Arbeidstijdenwet](../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), [artikel 38, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), [artikel 1 van de Wet van 17 maart 1979](../../../../../../../wet/wet/regeling/van/de/vergoeding/van/de/kosten/van/registratie/motorboten/BWBR0003233/README.md), houdende Regeling van de vergoeding van de kosten van registratie van snelle motorboten, [artikel 3 van de Tariefregeling vervoer gevaarlijke stoffen](../../../../../../../ministeriele-regeling/tariefregeling/vervoer/gevaarlijke/stoffen/BWBR0008118/README.md), [artikel 9, vijfde lid, van de Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](../../../../../../../wet/wet/grensoverschrijdend/vervoer/van/aan/bederf/onderhevige/levensmiddelen/BWBR0003186/README.md), de [Regeling dierlijke producten](../../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), de [Regeling Dierenvervoer 2007](../../../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md), [artikel 32 Regeling boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/boordcomputer/taxi/BWBR0026626/README.md) en de [Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995](../../../../../../../ministeriele-regeling/regeling/typegoedkeuring/en/installatie/tachografen/rijnvaart/1995/BWBR0007382/README.md);
+Gelet op de Wegenverkeerswet 1994, de Wet Personenvervoer 2000, artikel 12:38, derde lid, van de Arbeidstijdenwet, artikel 38, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen, artikel 1 van de Wet van 17 maart 1979, houdende Regeling van de vergoeding van de kosten van registratie van snelle motorboten, artikel 3 van de Tariefregeling vervoer gevaarlijke stoffen, artikel 9, vijfde lid, van de Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen, de Regeling dierlijke producten, de artikel 4.4 van de Wet dieren, artikel 32 Regeling boordcomputer taxi en de Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995;
 Besluit:     
 ### §  1  
 
@@ -13,59 +13,59 @@ Besluit:
 
 ####Begrippen regeling
 
-Voor de toepassing van deze regeling gelden de begripsbepalingen van de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [Besluit voertuigen](../../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md), het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en de [Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md). Voorts wordt verstaan onder: 
+Voor de toepassing van deze regeling gelden de begripsbepalingen van de Wegenverkeerswet 1994, het Besluit voertuigen, het Kentekenreglement en de Regeling voertuigen. Voorts wordt verstaan onder: 
 
-a.  *Wet:* [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a.  *Wet:* Wegenverkeerswet 1994;  
 
 b.  *RDW:* Dienst Wegverkeer;  
 
 c.  *controlekeuring:* eenmalige keuring van hetzelfde voertuig door de RDW binnen 6 weken nadat het betreffende voertuig bij de eerste keuring dan wel kentekenonderzoek nog niet voor goedkeuring in aanmerking komt;  
 
-d.  *erkenning:* de door de RDW afgegeven erkenningen en bevoegdheden op grond van de [Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [Arbeidstijdenwet](../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), te weten: 
+d.  *erkenning:* de door de RDW afgegeven erkenningen en bevoegdheden op grond van de Wet, Wet Personenvervoer 2000 en Arbeidstijdenwet en het Kentekenreglement, te weten: 
 
-1. APK-erkenning, erkenning als bedoeld in [artikel 83 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij APK-I staat voor voertuigen met een toegestane maximum massa van 3.500 kg of meer en APK-II voor voertuigen met een maximum massa van niet meer dan 3.500 kg;  
+1. APK-erkenning, erkenning als bedoeld in artikel 83 van de Wet, waarbij APK-I staat voor voertuigen met een toegestane maximum massa van 3.500 kg of meer en APK-II voor voertuigen met een maximum massa van niet meer dan 3.500 kg;  
 
-2. erkenning wijziging constructie LPG; erkenning als bedoeld in [artikel 100 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+2. erkenning wijziging constructie LPG; erkenning als bedoeld in artikel 100 van de Wet;  
 
-3. erkenning controleapparaat, CA: erkenning als bedoeld in [artikel 3 van de Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md);  
+3. erkenning controleapparaat, CA: erkenning als bedoeld in artikel 3 van de Regeling controleapparaten 2005;  
 
-4. erkenning boordcomputer taxi, BT: erkenning als bedoeld in [artikel 1 van de Regeling erkenning werkplaatsen boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
+4. erkenning boordcomputer taxi, BT: erkenning als bedoeld in artikel 1 van de Regeling erkenning werkplaatsen boordcomputer taxi;  
 
-5. erkenning alcoholslotprogramma, ASP: erkenning als bedoeld in [artikel 132k, eerste lid, van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+5. erkenning alcoholslotprogramma, ASP: erkenning als bedoeld in artikel 132k, eerste lid, van de Wet;  
 
-6. erkenning bedrijfsvoorraad, BV: erkenning als bedoeld in [artikel 62 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+6. erkenning bedrijfsvoorraad, BV: erkenning als bedoeld in artikel 62 van de Wet;  
 
-7. erkenning exportdienstverlening, ED: erkenning als bedoeld in [artikel 66a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+7. erkenning exportdienstverlening, ED: erkenning als bedoeld in artikel 66a van de Wet;  
 
-8. erkenning tenaamstelling, kentekenloket: erkenning als bedoeld in [artikel 61a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+8. erkenning tenaamstelling, kentekenloket: erkenning als bedoeld in artikel 61a van de Wet;  
 
-9. erkenning gecontroleerde afgifte en inname kentekenplaten, GAIK: erkenning als bedoeld in [artikel 70a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+9. erkenning gecontroleerde afgifte en inname kentekenplaten, GAIK: erkenning als bedoeld in artikel 70a van de Wet;  
 
-10. bevoegdheid tot het versnelt aanvragen van de inschrijving van voertuigen, VI: bevoegdheid als bedoelt in [artikel 46, tweede lid, onder a van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
+10. bevoegdheid tot het versnelt aanvragen van de inschrijving van voertuigen, VI: bevoegdheid als bedoelt in artikel 46, tweede lid, onder a van het Kentekenreglement;  
 
-11. bevoegdheid tot het versneld melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten Nederland worden gebracht, OREH: bevoegdheid als bedoeld in [artikel 46, tweede lid, onder b, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
+11. bevoegdheid tot het versneld melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten Nederland worden gebracht, OREH: bevoegdheid als bedoeld in artikel 46, tweede lid, onder b, van het Kentekenreglement;  
 
-12. bevoegdheid tot het melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten gebruik worden gesteld, ORAD: bevoegdheid als bedoeld in [artikel 46, tweede lid, onder c, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
+12. bevoegdheid tot het melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten gebruik worden gesteld, ORAD: bevoegdheid als bedoeld in artikel 46, tweede lid, onder c, van het Kentekenreglement;  
 
-13. bevoegdheid om in geval van verkoop van een voertuig uit eigen bedrijfsvoorraad, namens de aanvrager, een aanvraag van een tenaamstelling in te dienen, TV: bevoegdheid als bedoelt in [artikel 46, tweede lid, onder d, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);    
+13. bevoegdheid om in geval van verkoop van een voertuig uit eigen bedrijfsvoorraad, namens de aanvrager, een aanvraag van een tenaamstelling in te dienen, TV: bevoegdheid als bedoelt in artikel 46, tweede lid, onder d, van het Kentekenreglement;    
 
-e.  *handelaarskenteken:* kenteken als bedoeld in [artikel 3 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
+e.  *handelaarskenteken:* kenteken als bedoeld in artikel 3 van het Kentekenreglement;  
 
-f.  *kentekenonderzoek:* onderzoek verricht ten behoeve van de inschrijving in het kentekenregister en tenaamstelling als bedoeld in [artikel 48 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+f.  *kentekenonderzoek:* onderzoek verricht ten behoeve van de inschrijving in het kentekenregister en tenaamstelling als bedoeld in artikel 48 van de Wet;  
 
-g.  *keuringsplaats:* hetgeen daaronder in [artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md) wordt verstaan;  
+g.  *keuringsplaats:* hetgeen daaronder in artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK wordt verstaan;  
 
-h.  *mobiele keuringseenheid, ME:* keuringseenheid als bedoeld in [artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);  
+h.  *mobiele keuringseenheid, ME:* keuringseenheid als bedoeld in artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK;  
 
-i.  *mobiele installatie-eenheid, MAE:* installatie-eenheid als bedoeld in de [Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) dan wel de [Regeling werkplaatsen BCT](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
+i.  *mobiele installatie-eenheid, MAE:* installatie-eenheid als bedoeld in de Regeling controleapparaten 2005 dan wel de Regeling werkplaatsen BCT;  
 
-j.  *RDW registers:* de registers als bedoeld in [artikel 42](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 70k](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 126](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 129a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+j.  *RDW registers:* de registers als bedoeld in artikel 42, artikel 70k, artikel 126 en artikel 129a van de Wet;  
 
-k.  *recall:* handelingen en verstrekkingen in verband de uitvoering van [artikel 25e van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+k.  *recall:* handelingen en verstrekkingen in verband de uitvoering van artikel 25e van de Wet;  
 
-l.  *taxi:* personenauto, bestemd voor taxivervoer als bedoeld in [artikel 1, onderdeel j, van de Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+l.  *taxi:* personenauto, bestemd voor taxivervoer als bedoeld in artikel 1, onderdeel j, van de Wet Personenvervoer 2000;  
 
-m.  *werkplaats, WP:* inrichting waarin een bedrijf werkzaamheden verricht als bedoeld in de [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md), de [Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) dan wel de [Regeling werkplaatsen BCT](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
+m.  *werkplaats, WP:* inrichting waarin een bedrijf werkzaamheden verricht als bedoeld in de Regeling aanpassing voertuigen, de Regeling controleapparaten 2005 dan wel de Regeling werkplaatsen BCT;  
 
 n.  *voertuig licht:* voertuigen met een toegestane maximum massa van 3.500 kg;  
 
@@ -91,7 +91,7 @@ a. basis technisch uurtarief: € 97,00;
 
 b. uurtarief technisch medewerker: € 108,00;  
 
-c. uurtarief ICT specialist, technisch inspecteur en beoordelingen aanwijzing bromfietsen als bedoeld in [artikel 20b van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): € 125,00;  
+c. uurtarief ICT specialist, technisch inspecteur en beoordelingen aanwijzing bromfietsen als bedoeld in artikel 20b van de Wet: € 125,00;  
 
 d. uurtarief administratieve medewerkers: € 92,00;  
 
@@ -116,7 +116,7 @@ Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven
 
 ####Bepaling van tijdstip van meting en restitutie
 
-1.  Degene, aan wie een erkenning, bevoegdheid of handelaarskenteken als bedoeld in de [Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) dan wel [Arbeidstijdenwet](../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) is verleend, dan wel gebruik maakt van een beveiligde aansluiting en wiens erkenning, bevoegdheid of beveiligingsmaatregel niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari van het jaar waarin deze regeling van kracht is, is voor de instandhouding van het voor dat kalenderjaar geldende toezicht tarief verschuldigd.   
+1.  Degene, aan wie een erkenning, bevoegdheid of handelaarskenteken als bedoeld in de Wet, de Wet Personenvervoer 2000 dan wel Arbeidstijdenwet is verleend, dan wel gebruik maakt van een beveiligde aansluiting en wiens erkenning, bevoegdheid of beveiligingsmaatregel niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari van het jaar waarin deze regeling van kracht is, is voor de instandhouding van het voor dat kalenderjaar geldende toezicht tarief verschuldigd.   
 2.  Indien een erkenning wordt geschorst, tijdelijk of voor onbepaalde tijd wordt ingetrokken, dan wel wordt beëindigd op eigen verzoek, vindt geen restitutie plaats voor het nog resterende kalenderjaar.   
 3.  Indien een abonnement als bedoeld in deze regeling geschorst, tijdelijk of definitief wordt ingetrokken, dan wel wordt beëindigd op eigen verzoek, vindt geen restitutie plaats voor het nog resterende aantal maanden van het abonnement.   
 4.  Degene die op grond van hoofdstuk III van de Wet aan toezicht is onderworpen en wiens aanwijzing dan wel goedkeuring niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari van het jaar waarin deze regeling van kracht is, is voor de instandhouding van het voor dat kalenderjaar geldende toezicht tarief verschuldigd. Het bepaalde in het tweede lid is van overeenkomstige toepassing.  
@@ -279,7 +279,7 @@ Voor aanvragen waarvoor de tarieven en bedragen zijn vastgesteld in deze regelin
 
 ####Intrekking regeling
 
-1.  De [Regeling tarieven Dienst Wegverkeer 2013](../../../../../../../zbo/regeling/tarieven/dienst/wegverkeer/2013/BWBR0032592/README.md) wordt ingetrokken met ingang van 1 januari 2014.   
+1.  De Regeling tarieven Dienst Wegverkeer 2013 wordt ingetrokken met ingang van 1 januari 2014.   
 2.  De Regeling wijze van betaling tarieven Dienst Wegverkeer van 9 oktober 1996/nr. VIZ96/1655 wordt ingetrokken.  
 
 ### Artikel  27  
@@ -324,7 +324,7 @@ Algemeen Directeur.
 | Aanvraag van een handelaarskenteken in kader van de erkenning bedrijfsvoorraad, HKB  | STK  | 185,00  |
 | Aanvraag erkenning tenaamstelling, Kentekenloket  | STK  | 1450,00  |
 | Aanvraag erkenning European Electronic Toll Service, EETS  | STK  | 6500,00  |
-| Aanvraag erkenning als installateur of reparateur van een Tachograaf, als bedoeld in de [Regeling Binnenvaart](../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md)  | STK  | uurtarieven zoals vermeld in artikel 3   |
+| Aanvraag erkenning als installateur of reparateur van een Tachograaf, als bedoeld in de Regeling Binnenvaart  | STK  | uurtarieven zoals vermeld in artikel 3   |
 |  *Variabele (toezicht) kosten*   | --- | --- |
 | Afmelding APK II, bij goedkeuring  | STK  | 3,35  |
 | Afmelding APK II, bij goedkeuring (via internet)  | STK  | 3,85  |
@@ -383,15 +383,15 @@ Algemeen Directeur.
 |:---|:---|:---|
 |  *Algemeen*   | --- | --- |
 | Controlekeuring  | STK  | 27,00  |
-| Controlekeuring schadevoertuig op grond van [artikel 106 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  | STK  | 27,00  |
+| Controlekeuring schadevoertuig op grond van artikel 106 van de Wet  | STK  | 27,00  |
 | Reiskosten (Voorrijkosten keuren aan huis)  | STK  | 110,00  |
 |  *Kentekenonderzoeken* *ten behoeve van inschrijving*   | --- | --- |
 | Identiteitsonderzoek VIN  | STK  | 46,00  |
 | Verklaring van geen bezwaar  | STK  | 46,00  |
 | (her) inslag VIN  | STK  | 46,00  |
 | COP/CEMT Document  | STK  | 15,00  |
-| Inschrijving in het kentekenregister zonder tenaamstelling op grond van [art. 21 Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) bij RDW locatie  | STK  | 15,00  |
-| Inschrijving in het kentekenregister zonder tenaamstelling op grond van [art. 21 Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) bij keuren aan huis  | STK  | 26,00  |
+| Inschrijving in het kentekenregister zonder tenaamstelling op grond van art. 21 Kentekenreglement bij RDW locatie  | STK  | 15,00  |
+| Inschrijving in het kentekenregister zonder tenaamstelling op grond van art. 21 Kentekenreglement bij keuren aan huis  | STK  | 26,00  |
 | Eerste Keuring Taxi  | STK  | 34,00  |
 | Vervangend goedkeuringsbewijs taxi  | STK  | 15,00  |
 | Identificatie voertuig licht  | STK  | 58,50  |
@@ -493,7 +493,7 @@ Algemeen Directeur.
 | Typegoedkeuring ADR  | STK  | 327,00  |
 | Wijziging/aanvulling van ADR typegoedkeuring  | STK  | 202,00  |
 | Wijziging ADR-certificaat  | STK  | 93,00  |
-| [Binnenvaartregeling](../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md) (tachografen Rijnvaart)  | --- | --- |
+| Binnenvaartregeling (tachografen Rijnvaart)  | --- | --- |
 | Indien de keuring plaatsvindt door het beproevingslaboratorium van de RDW te Lelystad  | Per keuring  | Uurtarief  |
 | Indien de keuring plaatsvindt op de door de aanvrager gewenste locatie  | Per keuring  | Uurtarief en reiskosten  |
 
@@ -596,6 +596,8 @@ Algemeen Directeur.
 | Vervangende tenaamstellingscode  | STK  | 20,00  |
 | Vervangende kentekencard inclusief tenaamstellingcode  | STK  | 31,50  |
 | Vervangend handelaarskenteken  | STK  | 31,50  |
+| Aanvraag omwisseling vóór 1 januari 2014 afgegeven kentekenbewijs naar kentekencard  | STK  | 9,70  |
+| Aanvraag omwisseling vóór 1 januari 2014 afgegeven kentekenbewijs naar kentekencard > 50, mits van dezelfde eigenaar/houder  | STK  | 5.50  |
 |  *Tenaamstelling*   | --- | --- |
 | Tenaamstelling bij RDW vestiging: inclusief identiteitsvaststelling & administratieve handelingen  | STK  | 9,70  |
 | Tenaamstelling bij RDW erkenninghouder, exclusief identiteitsvaststelling & administratieve handelingen  | STK  | 6,00  |
@@ -615,7 +617,7 @@ Algemeen Directeur.
 | Schorsing voertuigen ingediend binnen één jaar na beëindiging van een schorsing, en waarbij tevens de tenaamstelling in het kentekenregister na het eindigen van die schorsing niet is gewijzigd  | Inschrijving  | 115,30  |
 | Maximaal tarief dat een erkenninghouder voor een schorsing aan de aanvrager in rekening mag brengen voor identiteitsvaststelling & administratieve handelingen (waaronder inning leges)  | Inschrijving  | 4,70  |
 | Schorsing zesde en volgende motorrijtuig of aanhangwagen/oplegger zelfde eigenaar/houder  | Inschrijving  | 0,00  |
-| Opheffen schorsing als bedoeld in [artikel 61a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  | Inschrijving  | 0,00  |
+| Opheffen schorsing als bedoeld in artikel 61a van de Wet  | Inschrijving  | 0,00  |
 |  *Verval tenaamstelling kentekenregister*   | --- | --- |
 | Verval tenaamstelling in verband met voorgoed buiten Nederland brengen van het voertuig of overdracht aan een in het buitenland woonachtig of gevestigd persoon  | Inschrijving  | 11,70  |
 |  *Rijbewijzen*   | --- | --- |
@@ -685,7 +687,7 @@ Algemeen Directeur.
 | Indien het verzoek op geautomatiseerde wijze wordt ingediend en geen informatie betreft die een persoonsgegeven bevat  | Persoon  | 4,90  |
 | Indien het verzoek schriftelijk, mondeling of geautomatiseerd wordt ingediend en informatie betreft die een persoonsgegeven bevat  | Persoon  | 4,50  |
 |  *Kennisneming Centraal Rijbewijzen- en Bromfietsenregister*   | --- | --- |
-| Kennisneming van gegevens door degenen omtrent wie gegevens in het register, bedoeld in de [artikelen 126, eerste lid](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [142, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), zijn opgenomen  | Persoon  | 4,50  |
+| Kennisneming van gegevens door degenen omtrent wie gegevens in het register, bedoeld in de artikelen 126, eerste lid, en 142, eerste lid, van de wet, zijn opgenomen  | Persoon  | 4,50  |
 
 Legenda en begrippen 
 

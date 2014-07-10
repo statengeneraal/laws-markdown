@@ -84,7 +84,7 @@ Indien bij de indiening en de behandeling van het verzoek zowel het inroepen van
 
 ####Vergoeding van wettelijke rente
 
-Een vergoeding van wettelijke rente als bedoeld in [artikel 6:119 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) kan deel uitmaken van de toe te kennen vergoeding. Het tijdstip waarop de wettelijke rente ingaat wordt gesteld op de datum van ontvangst van het verzoek door de minister.  
+Een vergoeding van wettelijke rente als bedoeld in artikel 6:119 van het Burgerlijk Wetboek kan deel uitmaken van de toe te kennen vergoeding. Het tijdstip waarop de wettelijke rente ingaat wordt gesteld op de datum van ontvangst van het verzoek door de minister.  
 
 ### Hoofdstuk 2  
 
@@ -156,7 +156,7 @@ d.  de vraag of vergoeding van de schade niet, of niet voldoende, anderszins is 
 
 ####Bevoegdheden en verplichtingen
 
-1.  De minister stelt de commissie, al dan niet op verzoek, de gegevens ter beschikking die nodig zijn voor een goede vervulling van haar taak. [Artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (Stb. 1991, 703) is van overeenkomstige toepassing.   
+1.  De minister stelt de commissie, al dan niet op verzoek, de gegevens ter beschikking die nodig zijn voor een goede vervulling van haar taak. Artikel 10 van de Wet openbaarheid van bestuur (Stb. 1991, 703) is van overeenkomstige toepassing.   
 2.  De verzoeker verschaft de commissie de gegevens en bescheiden die voor de advisering nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.   
 3.  De commissie kan inlichtingen en adviezen inwinnen bij derden. Indien met het verstrekken van inlichtingen, of het verlenen van adviezen door derden kosten gemoeid zijn, oefent de commissie deze bevoegdheid eerst uit na instemming van de minister.   
 4.  De commissie kan een plaatsopneming houden, indien zij dit nodig acht.   

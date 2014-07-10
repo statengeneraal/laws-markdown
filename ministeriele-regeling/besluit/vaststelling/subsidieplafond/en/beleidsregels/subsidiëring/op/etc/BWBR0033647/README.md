@@ -3,14 +3,14 @@
 ##Besluit van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 juli 2013, nr. DSO/OO-201/13, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, Beleidsregels en subsidieplafond voor het Netherlands Fellowships Programme II (NFP II), het MENA (Middle-East North-Africa) Scholarship programme II (MSP II), het MSP Syrië programma en het Netherlands Initiative for Capacity Development in Higher Education II (NICHE II),
 
 De Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,  
-Gelet op de [artikelen 6](../../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md), [7](../../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en [10 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);
+Gelet op de artikelen 6, 7 en 10 van het Subsidiebesluit Ministerie van Buitenlandse Zaken;
 
-Gelet op de [artikelen 6.4](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op de artikelen 6.4 en 6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 Besluiten:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van de [artikelen 6.4](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode van 1 juli 2013 tot en met 30 juni 2017 de als bijlagen 1, 2, 3 en 4 bij dit besluit gevoegde beleidsregels met betrekking tot het (het Netherlands Fellowships Programme II (NFP II), het MENA (Middle-East North-Africa) Scholarship programme II (MSP II), het MENA (Middle-East North-Africa) scholarship programme/Syrië (MSP Syrië) programma en het Netherlands Initiative for Capacity Development in Higher Education II (NICHE II). 
+Voor subsidieverlening op grond van de artikelen 6.4 en 6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 gelden voor de periode van 1 juli 2013 tot en met 30 juni 2017 de als bijlagen 1, 2, 3 en 4 bij dit besluit gevoegde beleidsregels met betrekking tot het (het Netherlands Fellowships Programme II (NFP II), het MENA (Middle-East North-Africa) Scholarship programme II (MSP II), het MENA (Middle-East North-Africa) scholarship programme/Syrië (MSP Syrië) programma en het Netherlands Initiative for Capacity Development in Higher Education II (NICHE II). 
 
 ### Artikel  2  
 
@@ -71,7 +71,7 @@ Landenlijst NFP beurzenprogramma
 
 | --- | --- |
 |:---|:---|
-| 1. Afghanistan  2. Albanië  3. Armenië  4. Bangladesh  5. Benin  6. Bhutan  7. Bolivia  8. Burkina Faso  9. Burundi  10. Cambodja  11. Colombia  12. Congo Dem. Republiek  13. Djibouti  14. Egypte  15. Eritrea  16. Ethiopië  17. Filipijnen  18. Georgië  19. Ghana  20. Guatemala  21. India  22. Indonesië  23. Jemen  24. Jordanië  25. Kenia  | 26. Macedonië  27. Mali  28. Mongolië  29. Mozambique  30. Myanmar  31. Nicaragua  32. Nepal  33. Nigeria  34. Pakistan  35. Palestijnse Gebieden  36. Peru  37. Rwanda  38. Senegal  39. Somalië  40. Sri Lanka  41. Sudan  42. Suriname  43. Tanzania  44. Thailand  45. Uganda  46. Vietnam  47. Zambia  48. Zimbabwe  49. Zuid Afrika  50. Zuid-Sudan  |
+| 1. Afghanistan  2. Albanië  3. Armenië  4. Bangladesh  5. Benin  6. Bhutan  7. Bolivia  8. Burkina Faso  9. Burundi  10. Cambodja  11. Colombia  12. Congo Dem. Republiek  13. Cuba 14. Djibouti  15. Egypte  16. Eritrea  17. Ethiopië  18. Filipijnen  19. Georgië  20. Ghana  21. Guatemala  22. India  23. Indonesië  24. Jemen  25. Jordanië  26. Kenia  | 27. Macedonië  28. Mali  29. Mongolië  30. Mozambique  31. Myanmar  32. Nicaragua  33. Nepal  34. Nigeria  35. Pakistan  36. Palestijnse Gebieden  37. Peru  38. Rwanda  39. Senegal  40. Somalië  41. Sri Lanka  42. Sudan  43. Suriname  44. Tanzania  45. Thailand  46. Uganda  47. Vietnam  48. Zambia  49. Zimbabwe  50. Zuid Afrika  51. Zuid-Sudan  |
 
 ### Bijlage  2  
 

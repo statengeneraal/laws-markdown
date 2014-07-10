@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a.*verantwoordelijke:*
 
-1°. Onze Ministers, bedoeld in de [artikelen 12](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en [51 van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+1°. Onze Ministers, bedoeld in de artikelen 12 en 51 van de Comptabiliteitswet 2001;  
 
 2°. gedeputeerde staten van de provincies;  
 
@@ -26,7 +26,7 @@ a.*verantwoordelijke:*
 
 4°. de dagelijkse besturen van de waterschappen;  
 
-5°. de dagelijkse besturen van de bedrijfslichamen in de zin van de [Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de dagelijkse besturen van de overige openbare lichamen voor beroep en bedrijf;  
+5°. de dagelijkse besturen van de bedrijfslichamen in de zin van de Wet op de bedrijfsorganisatie en de dagelijkse besturen van de overige openbare lichamen voor beroep en bedrijf;  
 
 6°. de organen van een rechtspersoon als bedoeld in artikel 1.2, onderdelen f, g en h, die eindverantwoordelijk zijn voor de binnen de rechtspersoon betaalde bezoldiging of bij of krachtens de wet belast zijn met het vaststellen van een financieel verslaggevingsdocument, en  
 
@@ -34,7 +34,7 @@ a.*verantwoordelijke:*
 
 b.*topfunctionaris:*
 
-1°. de secretarissen-generaal, de directeuren-generaal, de inspecteurs-generaal en de overige leden van de topmanagementgroep bij het Rijk, de vice-admiraals, de generaals, de luitenant-admiraals en de luitenant-generaals, degene of degenen die zijn belast met de dagelijkse leiding van de in [artikel 1, onderdelen e tot en met h, van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) genoemde organen, alsmede de leden van een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid en de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen die zijn belast met de dagelijkse leiding van dat orgaan;  
+1°. de secretarissen-generaal, de directeuren-generaal, de inspecteurs-generaal en de overige leden van de topmanagementgroep bij het Rijk, de vice-admiraals, de generaals, de luitenant-admiraals en de luitenant-generaals, degene of degenen die zijn belast met de dagelijkse leiding van de in artikel 1, onderdelen e tot en met h, van de Comptabiliteitswet 2001 genoemde organen, alsmede de leden van een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid en de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen die zijn belast met de dagelijkse leiding van dat orgaan;  
 
 2°. de secretarissen bij de provincies, de gemeenten en de waterschappen en de griffiers bij de provincies en de gemeenten;  
 
@@ -52,13 +52,13 @@ e.  *bezoldiging:* de som van de beloning, de belastbare vaste en variabele onko
 
 f.  *beloning:* de som van de periodiek betaalde beloningen en de winstdelingen en bonusbetalingen, met uitzondering van belastbare vaste en variabele onkostenvergoedingen en met uitzondering van door werkgevers wettelijk of krachtens een algemeen verbindend verklaarde collectieve arbeidsovereenkomst verschuldigde niet op de beloning ingehouden sociale verzekeringspremies;  
 
-g.  *dienstbetrekking:* dienstbetrekking of fictieve dienstbetrekking in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+g.  *dienstbetrekking:* dienstbetrekking of fictieve dienstbetrekking in de zin van de Wet op de loonbelasting 1964;  
 
 h. *beloningen betaalbaar op termijn:* het werkgeversdeel van de beloningen betaalbaar op termijn met uitzondering van het werkgeversdeel van de beloningen betaalbaar op termijn die betrekking hebben op de beëindiging van het dienstverband;  
 
 i. *uitkeringen wegens beëindiging van het dienstverband:* de som van uitkeringen bij beëindiging van het dienstverband en beloningen betaalbaar op termijn die betrekking hebben op de beëindiging van het dienstverband, met uitzondering van uitkeringen die voortvloeien uit een algemeen verbindend verklaarde collectieve arbeidsovereenkomst of een wettelijk voorschrift;  
 
-j. *financieel verslaggevingsdocument:* jaarverslag als bedoeld in [artikel 51 van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), jaarrekening als bedoeld in [artikel 201 van de Provinciewet](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md), jaarrekening als bedoeld in [artikel 197 van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) of jaarrekening in de zin van [Boek 2, titel 9, van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) dan wel, indien deze artikelen niet van toepassing zijn, een ander bij of krachtens de wet voorgeschreven document dat jaarlijks wordt opgesteld tot verschaffing van inzicht in de financiële positie van een rechtspersoon of een organisatie van een rechtspersoon;  
+j. *financieel verslaggevingsdocument:* jaarverslag als bedoeld in artikel 51 van de Comptabiliteitswet 2001, jaarrekening als bedoeld in artikel 201 van de Provinciewet, jaarrekening als bedoeld in artikel 197 van de Gemeentewet of jaarrekening in de zin van Boek 2, titel 9, van het Burgerlijk Wetboek dan wel, indien deze artikelen niet van toepassing zijn, een ander bij of krachtens de wet voorgeschreven document dat jaarlijks wordt opgesteld tot verschaffing van inzicht in de financiële positie van een rechtspersoon of een organisatie van een rechtspersoon;  
 
 k. *betaling:* ten laste van de rechtspersoon waartoe de verantwoordelijke behoort verrichte betaling wegens bezoldiging of uitkering wegens beëindiging van het dienstverband 
 
@@ -96,7 +96,7 @@ n. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 1.  De paragrafen 2 en 4 zijn van toepassing op: 
 
-a. de organisaties waarover de ministers, bedoeld in [artikel 51, eerste lid](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), juncto [artikel 1 van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), uitgezonderd artikel 1, onderdeel d, van die wet, gehouden zijn financiële verantwoording af te leggen;  
+a. de organisaties waarover de ministers, bedoeld in artikel 51, eerste lid, juncto artikel 1 van de Comptabiliteitswet 2001, uitgezonderd artikel 1, onderdeel d, van die wet, gehouden zijn financiële verantwoording af te leggen;  
 
 b. de provincies;  
 
@@ -106,12 +106,12 @@ d. de waterschappen;
 
 e. de openbare lichamen voor beroep en bedrijf;  
 
-f. de andere lichamen waaraan krachtens de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) verordenende bevoegdheid is toegekend;  
+f. de andere lichamen waaraan krachtens de Grondwet verordenende bevoegdheid is toegekend;  
 
 g. de Europese groeperingen voor territoriale samenwerking met een statutaire zetel in Nederland;  
 
 h. de andere bij of krachtens publiekrecht ingestelde rechtspersonen, met uitzondering van die rechtspersonen die zijn opgenomen in de bijlage bij artikel 1.3, eerste lid, onderdeel d, of artikel 1.4, eerste lid.     
-2.  In afwijking van het eerste lid zijn de paragrafen 2 en 4 niet van toepassing op ambtsdragers als bedoeld in [artikel 2, tweede lid, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) en als bedoeld in [artikel 1 van de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman](../../../../../../../../../../wet/wet/rechtspositie/raad/van/state/algemene/rekenkamer/en/nationale/etc/BWBR0024788/README.md).  
+2.  In afwijking van het eerste lid zijn de paragrafen 2 en 4 niet van toepassing op ambtsdragers als bedoeld in artikel 2, tweede lid, van de Algemene pensioenwet politieke ambtsdragers en als bedoeld in artikel 1 van de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.  
 
 ### Artikel  1.3  
 
@@ -177,7 +177,7 @@ c. wegens wijziging van in de bijlage gebruikte aanduidingen of in geval van red
 
 ### Artikel  1.7  
 
-1.  Voor zover zulks niet reeds bij of krachtens wettelijk voorschrift is bepaald, wordt het financieel verslaggevingsdocument onderworpen aan het oordeel van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Voor zover zulks niet reeds bij of krachtens wettelijk voorschrift is bepaald, wordt het financieel verslaggevingsdocument onderworpen aan het oordeel van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  In het financieel verslaggevingsdocument worden onverschuldigde betalingen als bedoeld in artikel 1.6 opgenomen als vorderingen op de betrokken topfunctionaris en altijd afzonderlijk vermeld in de toelichting.  
 
 ### Artikel  1.8  
@@ -384,7 +384,7 @@ b. in geval van een dienstverband met een kortere duur dan het kalenderjaar, en 
 c. in geval de functie in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking en de bezoldiging per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, zonodig aangepast overeenkomstig de onderdelen a en b, waarbij in het financieel verslaggevingsdocument in afwijking van het eerste lid, onderdelen a, b en c, de bezoldiging wordt vermeld.     
 3.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de in het boekjaar verrichte uitkeringen wegens beëindiging van het dienstverband, alsmede de functie of functies die tijdens het dienstverband zijn bekleed en het jaar waarin het dienstverband is geëindigd van eenieder 
 
-a. wiens gegevens in enig voorafgaand jaar op grond van het eerste lid of op grond van [artikel 6, eerste lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md), zoals dat artikel luidde voorafgaand aan de inwerkingtreding van dit artikel, in het financieel verslaggevingsdocument zijn opgenomen of hadden moeten worden opgenomen, of  
+a. wiens gegevens in enig voorafgaand jaar op grond van het eerste lid of op grond van artikel 6, eerste lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens, zoals dat artikel luidde voorafgaand aan de inwerkingtreding van dit artikel, in het financieel verslaggevingsdocument zijn opgenomen of hadden moeten worden opgenomen, of  
 
 b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverband meer bedraagt of zal bedragen dan de maximale bezoldiging, bedoeld in artikel 2.3, dat gold in het jaar waarin het dienstverband is geëindigd, indien van toepassing herrekend overeenkomstig het tweede lid, onderdeel a. Het tweede lid, onderdeel c, is van overeenkomstige toepassing.     
 4.  Indien het boekjaar niet overeenkomt met een kalenderjaar, betreft de vermelding, bedoeld in het eerste lid, de bezoldiging, de functie of functies die betrekking hebben op het kalenderjaar direct voorafgaande aan het boekjaar.   
@@ -403,7 +403,7 @@ b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverba
 
 ### Artikel  5.2  
 
-1.  De accountant, bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), meldt een onverschuldigde betaling aan Onze Minister, of aan Onze Minister wie het aangaat indien deze de mogelijkheid tot elektronische verstrekking heeft opengesteld, indien een vordering op een topfunctionaris of gewezen topfunctionaris uit onverschuldigde betaling: 
+1.  De accountant, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, meldt een onverschuldigde betaling aan Onze Minister, of aan Onze Minister wie het aangaat indien deze de mogelijkheid tot elektronische verstrekking heeft opengesteld, indien een vordering op een topfunctionaris of gewezen topfunctionaris uit onverschuldigde betaling: 
 
 a. niet in het financieel verslaggevingsdocument is opgenomen, of  
 
@@ -424,7 +424,7 @@ De Belastingdienst, pensioenfondsen, alsmede verzekeraars aan wie ten behoeve va
 
 1.  Indien de opgelegde last niet wordt uitgevoerd, eist Onze Minister wie het aangaat, onder intrekking van de last onder dwangsom, de in de last vermelde onverschuldigde betalingen op van de topfunctionaris. Met de bekendmaking van het besluit tot opeisen vervalt de vordering uit onverschuldigde betaling. De opgeëiste bedragen komen toe aan de Staat.   
 2.  In de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, kan de onverschuldigde betaling worden opgeëist van de topfunctionaris en de natuurlijke of rechtspersoon die de topfunctionaris ter beschikking heeft gesteld gezamenlijk.   
-3.  De opgeëiste bedragen worden binnen drie weken voldaan. Onze Minister wie het aangaat kan de opgeëiste bedragen bij dwangbevel invorderen. De [artikelen 5:38](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:39 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  De opgeëiste bedragen worden binnen drie weken voldaan. Onze Minister wie het aangaat kan de opgeëiste bedragen bij dwangbevel invorderen. De artikelen 5:38 en 5:39 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 4.  Onze Minister wie het aangaat eist geen onverschuldigde betaling op als de vordering uit onverschuldigde betaling is verjaard. De last, bedoeld in artikel 5.4, stuit de verjaring. Onze Minister wie het aangaat kan de verjaring van de vordering uit onverschuldigde betaling stuiten door hiervan mededeling te doen aan partijen.  
 
 ### Artikel  5.6  
@@ -503,8 +503,8 @@ Wijzigt de Drinkwaterwet.
 
 ### Artikel  7.8  
 
-1. De [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) wordt ingetrokken.  
-2.  De verantwoordelijke is bevoegd in het financieel verslaggevingsdocument over 2012 de gegevens, bedoeld in [artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md), zoals dat artikel luidde op 31 december 2012, te vermelden. 
+1. De Wet openbaarmaking uit publieke middelen gefinancierde topinkomens wordt ingetrokken.  
+2.  De verantwoordelijke is bevoegd in het financieel verslaggevingsdocument over 2012 de gegevens, bedoeld in artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens, zoals dat artikel luidde op 31 december 2012, te vermelden. 
 
 ### Artikel  7.9  
 
@@ -534,7 +534,7 @@ I. W. Opstelten
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
 
-1. De krachtens [artikel 70, eerste lid, van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md) toegelaten rechtpersonen.  
+1. De krachtens artikel 70, eerste lid, van de Woningwet toegelaten rechtpersonen.  
 
 2. De Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel te Den Haag.  
 
@@ -559,28 +559,28 @@ I. W. Opstelten
 12. De Stichting Waarborgfonds Sociale Woningbouw te Hilversum.  
 ### Ministerie van Infrastructuur en Milieu 
 
-1. De drinkwaterbedrijven, bedoeld in [artikel 1 van de Drinkwaterwet](../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md).  
+1. De drinkwaterbedrijven, bedoeld in artikel 1 van de Drinkwaterwet.  
 
-2. De stichting, bedoeld in de [artikelen 6.5b van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [20.14 van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [8.5 van de Wet ruimtelijke ordening](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+2. De stichting, bedoeld in de artikelen 6.5b van de Wet algemene bepalingen omgevingsrecht, 20.14 van de Wet milieubeheer en 8.5 van de Wet ruimtelijke ordening.   
 ### Ministerie van Onderwijs, Cultuur en Wetenschap 
 
-1. De privaatrechtelijke en openbare rechtspersonen die scholen als bedoeld in de [artikelen 1](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [185 van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) in stand houden, alsmede de openbare scholen, bedoeld in artikel 1 van de Wet op het primair onderwijs, die anders dan door een privaatrechtelijke of openbare rechtspersoon in stand worden gehouden, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+1. De privaatrechtelijke en openbare rechtspersonen die scholen als bedoeld in de artikelen 1 en 185 van de Wet op het primair onderwijs in stand houden, alsmede de openbare scholen, bedoeld in artikel 1 van de Wet op het primair onderwijs, die anders dan door een privaatrechtelijke of openbare rechtspersoon in stand worden gehouden, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-2. De rechtspersoon, bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md).  
+2. De rechtspersoon, bedoeld in artikel 68 van de Wet op het primair onderwijs.  
 
-3. De erkende regionale verwijzingscommissies, bedoeld in [artikel 24 van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md).  
+3. De erkende regionale verwijzingscommissies, bedoeld in artikel 24 van de Wet op het primair onderwijs.  
 
-4. De privaatrechtelijke en openbare rechtspersonen die scholen als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) in stand houden, alsmede de openbare scholen, bedoeld in dat artikel, die anders dan door een privaatrechtelijke of openbare rechtspersoon in stand worden gehouden, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+4. De privaatrechtelijke en openbare rechtspersonen die scholen als bedoeld in artikel 1 van de Wet op de expertisecentra in stand houden, alsmede de openbare scholen, bedoeld in dat artikel, die anders dan door een privaatrechtelijke of openbare rechtspersoon in stand worden gehouden, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-5. De regionale expertisecentra, bedoeld in [artikel 28b van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+5. De regionale expertisecentra, bedoeld in artikel 28b van de Wet op de expertisecentra.  
 
-6. De rechtspersoon, bedoeld in [artikel 69 van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+6. De rechtspersoon, bedoeld in artikel 69 van de Wet op de expertisecentra.  
 
-7. De rechtspersonen die scholen als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) in stand houden, alsmede de openbare scholen, bedoeld in dat artikel, die anders dan door een privaatrechtelijke of openbare rechtspersoon in stand worden gehouden, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+7. De rechtspersonen die scholen als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs in stand houden, alsmede de openbare scholen, bedoeld in dat artikel, die anders dan door een privaatrechtelijke of openbare rechtspersoon in stand worden gehouden, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-8. De erkende regionale verwijzingscommissies, bedoeld in [artikel 10g, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+8. De erkende regionale verwijzingscommissies, bedoeld in artikel 10g, tweede lid, van de Wet op het voortgezet onderwijs.  
 
-9. De rechtspersonen, bedoeld in [artikel 53b van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+9. De rechtspersonen, bedoeld in artikel 53b van de Wet op het voortgezet onderwijs.  
 
 10. Het Instituut voor Leerplanontwikkeling (SLO) te Enschede.  
 
@@ -590,19 +590,19 @@ I. W. Opstelten
 
 13. De Stichting Expertisecentrum Beroepsonderwijs (ECBO) te ’s-Hertogenbosch.  
 
-14. De instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1° en 2°](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+14. De instellingen, bedoeld in de artikelen 1.1.1, onderdeel b, onder 1° en 2°, 12.3.8 en 12.3.9 van de Wet educatie en beroepsonderwijs, behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-15. De kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw en de natuurlijke omgeving.  
+15. De kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs, met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw en de natuurlijke omgeving.  
 
-16. De rechtspersonen, bedoeld in de [artikelen 2.8.1](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [7.4.7 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+16. De rechtspersonen, bedoeld in de artikelen 2.8.1 en 7.4.7 van de Wet educatie en beroepsonderwijs.  
 
-17. De instellingen, bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), behoudens de instellingen waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
+17. De instellingen, bedoeld in artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, behoudens de instellingen waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
 
-18. De landelijke publieke media-instellingen, NPO en de Ster, bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), met uitzondering van de kerkgenootschappen en genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), doch met inbegrip van door deze genootschappen opgerichte rechtspersonen als bedoeld in [artikel 2.49, derde lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+18. De landelijke publieke media-instellingen, NPO en de Ster, bedoeld in artikel 1.1 van de Mediawet 2008, met uitzondering van de kerkgenootschappen en genootschappen op geestelijke grondslag, bedoeld in artikel 2.42 van de Mediawet 2008, doch met inbegrip van door deze genootschappen opgerichte rechtspersonen als bedoeld in artikel 2.49, derde lid, van de Mediawet 2008.  
 
-19. De instellingen, bedoeld in [artikel 2.146, onderdelen i en j, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+19. De instellingen, bedoeld in artikel 2.146, onderdelen i en j, van de Mediawet 2008.  
 
-20. De instellingen die een vierjaarlijkse instellingssubsidie ontvangen krachtens [artikel 4a van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).  
+20. De instellingen die een vierjaarlijkse instellingssubsidie ontvangen krachtens artikel 4a van de Wet op het specifiek cultuurbeleid.  
 
 21. Stichting Dedicon te Grave.  
 
@@ -617,30 +617,30 @@ I. W. Opstelten
 26. De Stichting Kennisnet te Zoetermeer.  
 ### Ministerie van Economische Zaken
 
-1. De instellingen, bedoeld in [artikel 1.1.1, onderdeel b, onder 3°, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+1. De instellingen, bedoeld in artikel 1.1.1, onderdeel b, onder 3°, van de Wet educatie en beroepsonderwijs.  
 
-2. Het kenniscentrum beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) op het gebied van de landbouw en de natuurlijke omgeving.  
+2. Het kenniscentrum beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving.  
 
-3. De instellingen, bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
+3. De instellingen, bedoeld in artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
 
 4. De Stichting Dienst Landbouwkundig Onderzoek te Wageningen.  
 
-5. De netbeheerders, bedoeld in [artikel 1, onderdeel k, van de Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, bedoeld in [artikel 1, onderdeel j, van de Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).  
+5. De netbeheerders, bedoeld in artikel 1, onderdeel k, van de Elektriciteitswet 1998, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, bedoeld in artikel 1, onderdeel j, van de Elektriciteitswet 1998.  
 
-6. De netbeheerders, bedoeld in [artikel 1, onderdeel e, van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), met uitzondering van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 1, onderdeel n, van de Gaswet.  
+6. De netbeheerders, bedoeld in artikel 1, onderdeel e, van de Gaswet, met uitzondering van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 1, onderdeel n, van de Gaswet.  
 
-7. De Stichting Centraal Orgaan Voorraadvorming Aardolieprodukten, bedoeld in [artikel 1, onderdeel b, van de Wet voorraadvorming aardolieproducten 2001](../../../../../../../../../../wet/wet/voorraadvorming/aardolieproducten/2001/BWBR0012373/README.md).   
+7. De Stichting Centraal Orgaan Voorraadvorming Aardolieprodukten, bedoeld in artikel 1, onderdeel b, van de Wet voorraadvorming aardolieproducten 2001.   
 ### Ministerie van Volksgezondheid, Welzijn en Sport 
 
-1. De stichtingen die een bureau jeugdzorg in stand houden, bedoeld in [artikel 4, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+1. De stichtingen die een bureau jeugdzorg in stand houden, bedoeld in artikel 4, eerste lid, van de Wet op de jeugdzorg.  
 
-2. De in Nederland gevestigde rechtspersoonlijkheid bezittende zorgaanbieders, bedoeld in [artikel 18, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) behoudens de instellingen die tevens zijn toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+2. De in Nederland gevestigde rechtspersoonlijkheid bezittende zorgaanbieders, bedoeld in artikel 18, eerste lid, van de Wet op de jeugdzorg behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-3. De rechtspersonen met volledige rechtsbevoegdheid, bedoeld in [artikel 41, derde lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) die de steunfunctie, bedoeld in [artikel 1, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), uitvoeren behoudens de instellingen die tevens zijn toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+3. De rechtspersonen met volledige rechtsbevoegdheid, bedoeld in artikel 41, derde lid, van de Wet op de jeugdzorg die de steunfunctie, bedoeld in artikel 1, van de Wet op de jeugdzorg, uitvoeren behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-4. De rechtspersonen met volledige rechtsbevoegdheid met volledige rechtsbevoegdheid, bedoeld in [artikel 41, vierde lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) die de vertrouwenspersoon, bedoeld in [artikel 1, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), beschikbaar stellen behoudens de instellingen die tevens zijn toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+4. De rechtspersonen met volledige rechtsbevoegdheid met volledige rechtsbevoegdheid, bedoeld in artikel 41, vierde lid, van de Wet op de jeugdzorg die de vertrouwenspersoon, bedoeld in artikel 1, van de Wet op de jeugdzorg, beschikbaar stellen behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-5. De instellingen die zijn aangewezen op grond van [artikel 104, eerste en tweede lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), behoudens de instellingen die tevens zijn toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+5. De instellingen die zijn aangewezen op grond van artikel 104, eerste en tweede lid, van de Wet op de jeugdzorg, behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
 6. De stichting Vilans te Utrecht.  
 
@@ -648,9 +648,9 @@ I. W. Opstelten
 
 8. De stichting Nederlands Jeugdinstituut/NJi te Utrecht.  
 
-9. De op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten instellingen, waaronder begrepen de academische ziekenhuizen, bedoeld in [artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+9. De op grond van artikel 5 van de Wet toelating zorginstellingen toegelaten instellingen, waaronder begrepen de academische ziekenhuizen, bedoeld in artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
-10. De rechtspersoon, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md).  
+10. De rechtspersoon, bedoeld in artikel 3 van de Wet inzake bloedvoorziening.  
 
 11. De Nederlandse Patiënten Consumenten Federatie te Utrecht.  
 
@@ -663,33 +663,33 @@ I. W. Opstelten
 15. De vereniging Ieder-In te Utrecht.   
 ### Ministerie van Veiligheid en Justitie 
 
-1. De in Nederland gevestigde particuliere justitiële jeugdinrichtingen die zijn aangewezen krachtens [artikel 3b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), behoudens de inrichtingen die onderdeel uitmaken van een rechtspersoonlijkheid bezittende zorgaanbieder als bedoeld in [artikel 18, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+1. De in Nederland gevestigde particuliere justitiële jeugdinrichtingen die zijn aangewezen krachtens artikel 3b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen, behoudens de inrichtingen die onderdeel uitmaken van een rechtspersoonlijkheid bezittende zorgaanbieder als bedoeld in artikel 18, eerste lid, van de Wet op de jeugdzorg.  
 
-2. De rechtspersoon die is aangewezen krachtens [artikel 7, eerste lid, van de Wet Justitie-subsidies](../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md).  
+2. De rechtspersoon die is aangewezen krachtens artikel 7, eerste lid, van de Wet Justitie-subsidies.  
 
-3. De rechtspersoon, bedoeld in [artikel 48n, eerste lid, van de Wet Justitie-subsidies](../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md).  
+3. De rechtspersoon, bedoeld in artikel 48n, eerste lid, van de Wet Justitie-subsidies.  
 
-4. De reclasseringsinstellingen die zijn aangewezen krachtens de in [artikel 14d, tweede lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) bedoelde algemene maatregel van bestuur, behoudens behoudens de instellingen die tevens zijn toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+4. De reclasseringsinstellingen die zijn aangewezen krachtens de in artikel 14d, tweede lid, van het Wetboek van Strafrecht bedoelde algemene maatregel van bestuur, behoudens behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-5. Een samenwerkingsverband van reclasseringsinstellingen, bedoeld in [artikel 48e, eerste lid, van de Wet Justitie-subsidies](../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md).  
+5. Een samenwerkingsverband van reclasseringsinstellingen, bedoeld in artikel 48e, eerste lid, van de Wet Justitie-subsidies.  
 
-6. De voorziening, bedoeld in [artikel 7, tweede lid, van de Wet op de rechtsbijstand](../../../../../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).  
+6. De voorziening, bedoeld in artikel 7, tweede lid, van de Wet op de rechtsbijstand.  
 
-7. De Stichting Donorgegevens kunstmatige bevruchting, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet donorgegevens kunstmatige bevruchting](../../../../../../../../../../wet/wet/donorgegevens/kunstmatige/bevruchting/BWBR0013642/README.md).  
+7. De Stichting Donorgegevens kunstmatige bevruchting, bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet donorgegevens kunstmatige bevruchting.  
 
-8. De rechtspersoon die is aanvaard krachtens de [artikelen 254, tweede lid](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+8. De rechtspersoon die is aanvaard krachtens de artikelen 254, tweede lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek.   
 ### Ministerie van Buitenlandse Zaken 
 
-1. In Nederland gevestigde rechtspersonen die een subsidie ontvangen krachtens de [Kaderwet subsidies Ministerie van Buitenlandse Zaken](../../../../../../../../../../wet/kaderwet/subsidies/ministerie/van/buitenlandse/zaken/BWBR0010178/README.md) ten behoeve van de integrale kosten van de werkzaamheden van een instelling.  
+1. In Nederland gevestigde rechtspersonen die een subsidie ontvangen krachtens de Kaderwet subsidies Ministerie van Buitenlandse Zaken ten behoeve van de integrale kosten van de werkzaamheden van een instelling.  
 
 2. In Nederland gevestigde rechtspersonen die een subsidie ontvangen krachtens de Kaderwet subsidies Ministerie van Buitenlandse Zaken die tezamen met een andere vanwege de centrale overheid verstrekte subsidie meer bedraagt dan 50% van de jaarlijkse inkomsten van de rechtspersoon.  
 
-3. De Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 2.72 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+3. De Stichting Radio Nederland Wereldomroep, bedoeld in artikel 2.72 van de Mediawet 2008.  
 ### Ministerie van Financiën 
 
-1. Het Waarborgfonds Motorverkeer, bedoeld in [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).  
+1. Het Waarborgfonds Motorverkeer, bedoeld in artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen.  
 
-2. Het informatiecentrum, bedoeld in [artikel 27b, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).   
+2. Het informatiecentrum, bedoeld in artikel 27b, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen.   
 ###Ministerie van Sociale Zaken en Werkgelegenheid
 
 1. De Stichting Forum, Instituut voor Multiculturele Vraagstukken te Utrecht. 
@@ -716,7 +716,7 @@ I. W. Opstelten
 
 ### Ministerie van Volksgezondheid, Welzijn en Sport 
 
-De zorgverzekeraars die zich overeenkomstig [artikel 25 van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of [artikel 33 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) als zodanig hebben aangemeld. 
+De zorgverzekeraars die zich overeenkomstig artikel 25 van de Zorgverzekeringswet of artikel 33 van de Algemene Wet Bijzondere Ziektekosten als zodanig hebben aangemeld. 
 
 ### Bijlage 4 
 
@@ -724,7 +724,7 @@ De zorgverzekeraars die zich overeenkomstig [artikel 25 van de Zorgverzekeringsw
 
 ### Ministerie van Infrastructuur en Milieu 
 
-1. De krachtens de [artikelen 15a, tweede lid](../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), en [15b, eerste lid, van de Scheepvaartverkeerswet](../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) aangewezen organisatie.  
+1. De krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet aangewezen organisatie.  
 
 |  Oud   |--- |  Nieuw   |
 |:---|:---|:---|

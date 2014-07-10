@@ -3,7 +3,7 @@
 ##Beleidsregels uitgifte en beheer van nummers met bestemming mobiele telefonie (Uitgiftebeleid mobiele nummers OPTA 2011)
 
 Het college van de Onafhankelijke Post en Telecommunicatie Autoriteit,  
-Gelet op [artikel 15.1, derde lid, j° Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) [artikel 4.2](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [4.3 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op artikel 15.1, derde lid, j° Telecommunicatiewet artikel 4.2 en 4.3 van de Telecommunicatiewet;
 Besluit:     
 ### §  1  
 
@@ -61,11 +61,11 @@ Nummerhouders die op het moment van publicatie van deze beleidsregels minder dan
 
 ### Artikel  7  
 
-De Autoriteit Consument en Markt kan in bijzondere omstandigheden, bedoeld in [artikel 4.84 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van deze beleidsregels afwijken. 
+De Autoriteit Consument en Markt kan in bijzondere omstandigheden, bedoeld in artikel 4.84 van de Algemene wet bestuursrecht, van deze beleidsregels afwijken. 
 
 ### Artikel  8  
 
-Deze beleidsregels bevatten het beleid van de Autoriteit Consument en Markt inzake uitgifte en beheer van nummers met mobiele bestemming op grond van [hoofdstuk 4 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). De Autoriteit Consument en Markt behoudt zich uitdrukkelijk de mogelijkheid wijzigingen aan te brengen in deze beleidsregels. Toepassing van deze beleidsregels in de praktijk en voorschrijdend inzicht zullen zo nodig tot aanpassing of herziening ervan leiden. 
+Deze beleidsregels bevatten het beleid van de Autoriteit Consument en Markt inzake uitgifte en beheer van nummers met mobiele bestemming op grond van hoofdstuk 4 van de Telecommunicatiewet. De Autoriteit Consument en Markt behoudt zich uitdrukkelijk de mogelijkheid wijzigingen aan te brengen in deze beleidsregels. Toepassing van deze beleidsregels in de praktijk en voorschrijdend inzicht zullen zo nodig tot aanpassing of herziening ervan leiden. 
 
 ### Artikel  9  
 

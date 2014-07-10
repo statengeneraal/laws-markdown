@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 5 september 2012, Directie Financiële Markten, FM/2012/1280M;
 
-Gelet op de [artikelen 1:24, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:25, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:25a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:25c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:79, eerste lid, onderdeel b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:80, eerste lid, onderdeel b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:81](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [1:97, eerste lid, onderdeel e, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op de artikelen 1:24, derde lid, 1:25, derde lid, 1:25a, tweede lid, 1:25c, 1:79, eerste lid, onderdeel b, 1:80, eerste lid, onderdeel b, 1:81, en 1:97, eerste lid, onderdeel e, van de Wet op het financieel toezicht;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 5 oktober 2012, nr. W06.12.0379/III);
 
@@ -81,7 +81,7 @@ l. voor verordening (EU) nr. 575/2013 (Kapitaalvereisten): de Nederlandsche Bank
 
 ### Artikel  2a  
 
-1.  Indien de Nederlandsche Bank in het kader van een in de artikelen 14, 15 en 17 van verordening (EU) nr. 648/2012 (EMIR) bedoelde aanvraag, of [artikel 4:27a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dient te beoordelen of wordt voldaan aan het bij of krachtens het [Deel Gedragstoezicht financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde vraagt zij, alvorens te beslissen op die aanvraag, daarover advies aan de Autoriteit Financiële Markten. De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.   
+1.  Indien de Nederlandsche Bank in het kader van een in de artikelen 14, 15 en 17 van verordening (EU) nr. 648/2012 (EMIR) bedoelde aanvraag, of artikel 4:27a van de wet, dient te beoordelen of wordt voldaan aan het bij of krachtens het Deel Gedragstoezicht financiële ondernemingen bepaalde vraagt zij, alvorens te beslissen op die aanvraag, daarover advies aan de Autoriteit Financiële Markten. De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.   
 2.  De Nederlandsche Bank volgt het advies, bedoeld in het eerste lid, tenzij zwaarwegende redenen betreffende de soliditeit van de aanvrager of de stabiliteit van het financiële stelsel naar het oordeel van de Nederlandsche Bank aanleiding tot afwijking geven. Indien de Nederlandsche Bank overweegt af te wijken, stelt zij de Autoriteit Financiële Markten in de gelegenheid om haar advies mondeling toe te lichten. De Nederlandsche Bank motiveert een afwijking schriftelijk.   
 3.  Het advies, bedoeld in het eerste lid, maakt deel uit van het besluit ten aanzien van de vergunning of de instemming.  
 
@@ -96,7 +96,7 @@ De bevoegde autoriteit kan ter zake van overtreding van voorschriften gesteld in
 ### Artikel  5  
 
 1.  De bevoegde autoriteit kan ter zake van overtreding van voorschriften gesteld ingevolge de in de bijlage 2 genoemde artikelen, met toepassing van de in die bijlage aangegeven tariefnummers, een bestuurlijke boete opleggen.   
-2.  [Paragraaf 1 van het Besluit bestuurlijke boetes financiële sector](../../../../../../../AMvB/besluit/bestuurlijke/boetes/financiële/sector/BWBR0026204/README.md) is voor de toepassing van het eerste lid van overeenkomstige toepassing.  
+2.  Paragraaf 1 van het Besluit bestuurlijke boetes financiële sector is voor de toepassing van het eerste lid van overeenkomstige toepassing.  
 
 ### Artikel  6  
 

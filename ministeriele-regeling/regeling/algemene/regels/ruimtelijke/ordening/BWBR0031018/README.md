@@ -5,7 +5,7 @@
 De Minister van Infrastructuur en Milieu,  
 Handelende in overeenstemming met de Minister van Defensie,
 
-Gelet op de [artikelen 2.6.2](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), [2.6.5](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md) en [2.6.6 van het Besluit algemene regels ruimtelijke ordening](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md);
+Gelet op de artikelen 2.6.2, 2.6.5 en 2.6.6 van het Besluit algemene regels ruimtelijke ordening;
 Besluit:     
 ### Paragraaf  1  
 
@@ -15,11 +15,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:  
 
-*besluit:* [Besluit algemene regels ruimtelijke ordening](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md);  
+*besluit:* Besluit algemene regels ruimtelijke ordening;  
 
 * bijlage:* bij deze regeling behorende bijlage;  
 
-*GML-bestand:* elektronisch geografisch databestand met kenmerk NL.IMRO.0000.IMmr11Rarro-3000 en NL.IMRO.0000.IMmr11Rarro-3005, opgemaakt in Geography Markup Language;  
+*GML-bestand bij deze regeling:* elektronisch geografisch databestand dat is opgemaakt in Geography Markup Language en is gepubliceerd via www.ruimtelijkeplannen.nl, met kenmerk: 
+
+a.  NL.IMRO.0000.IMmr11Rarro-3000, of  
+
+b.  NL.IMRO.0000.IMmr11Rarro-3005, of  
+
+c.  NL.IMRO.0000.IMmr11Rarro-3010, of  
+
+d.  NL.IMRO.0000.IMmr11Rarro-3015, of  
+
+e.  NL.IMRO.0000.IMmr11Rarro-3020.    
 
 *middelingsgebied:* cirkelvormig gebied op variabele locatie in een radardetectiegebied waarbinnen de berekende detectiekansen worden gemiddeld;  
 
@@ -45,24 +55,24 @@ In deze regeling wordt verstaan onder:
 
 ####(aanwijzing terreinen, gebieden en installaties)
 
-1.  Als militaire terreinen, bedoeld in [artikel 2.6.2, eerste lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 1 vermelde terreinen.   
-2.  Als onveilige gebieden buiten militair terrein van schietterreinen, bedoeld in [artikel 2.6.2, tweede lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 2 vermelde gebieden.   
-3.  Als militaire luchtvaartterreinen, bedoeld in [artikel 2.6.2, derde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 3 vermelde terreinen.   
-4.  Als geluidszones voor de militaire luchtvaartterreinen, bedoeld in [artikel 2.6.2, vierde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 4 vermelde zones.   
-5.  Als obstakelbeheergebieden voor de militaire luchtvaartterreinen, bedoeld in [artikel 2.6.2, vijfde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 5 vermelde gebieden.   
-6.  Als zend- en ontvangstinstallaties buiten militaire luchtvaartterreinen, bedoeld in [artikel 2.6.2, zesde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 6 vermelde installaties.   
-7.  Als bouwbeperkingengebieden rondom zend- en ontvangstinstallaties buiten militaire luchtvaartterreinen, bedoeld in [artikel 2.6.2, zevende lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 7 vermelde gebieden.   
-8.  Als radarstations, bedoeld in [artikel 2.6.2, achtste lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 8 vermelde radarstations.   
-9.  Als radarverstoringsgebied, bedoeld in [artikel 2.6.2, negende lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 9 vermelde gebieden.   
-10.  Als begrenzingen van de laagvliegroutes voor jacht- en transportvliegtuigen, bedoeld in [artikel 2.6.2, tiende lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 11 vermelde begrenzingen.   
-11.  Als munitieopslagplaatsen, bedoeld in [artikel 2.6.2, elfde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), en bijbehorende veiligheidszones, bedoeld in [artikel 2.6.5, tweede lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md) worden aangewezen de in bijlage 12 vermelde opslagplaatsen en de in bijlage 13 vermelde veiligheidszones.   
-12.  Van de in de het eerste tot en met elfde lid bedoelde terreinen, gebieden, zones en objecten zijn de geometrische plaatsbepalingen vastgelegd in het GML-bestand en zijn de kaarten, waarop die plaatsbepalingen zijn verbeeld, in de in het eerste tot en met elfde lid bedoelde bijlagen opgenomen.  
+1.  Als militaire terreinen, bedoeld in artikel 2.6.2, eerste lid, van het besluit, worden aangewezen de in bijlage 1 vermelde terreinen.   
+2.  Als onveilige gebieden buiten militair terrein van schietterreinen, bedoeld in artikel 2.6.2, tweede lid, van het besluit, worden aangewezen de in bijlage 2 vermelde gebieden.   
+3.  Als militaire luchtvaartterreinen, bedoeld in artikel 2.6.2, derde lid, van het besluit, worden aangewezen de in bijlage 3 vermelde terreinen.   
+4.  Als geluidszones voor de militaire luchtvaartterreinen, bedoeld in artikel 2.6.2, vierde lid, van het besluit, worden aangewezen de in bijlage 4 vermelde zones.   
+5.  Als obstakelbeheergebieden voor de militaire luchtvaartterreinen, bedoeld in artikel 2.6.2, vijfde lid, van het besluit, worden aangewezen de in bijlage 5 vermelde gebieden.   
+6.  Als zend- en ontvangstinstallaties buiten militaire luchtvaartterreinen, bedoeld in artikel 2.6.2, zesde lid, van het besluit, worden aangewezen de in bijlage 6 vermelde installaties.   
+7.  Als bouwbeperkingengebieden rondom zend- en ontvangstinstallaties buiten militaire luchtvaartterreinen, bedoeld in artikel 2.6.2, zevende lid, van het besluit, worden aangewezen de in bijlage 7 vermelde gebieden.   
+8.  Als radarstations, bedoeld in artikel 2.6.2, achtste lid, van het besluit, worden aangewezen de in bijlage 8 vermelde radarstations.   
+9.  Als radarverstoringsgebied, bedoeld in artikel 2.6.2, negende lid, van het besluit, worden aangewezen de in bijlage 9 vermelde gebieden.   
+10.  Als begrenzingen van de laagvliegroutes voor jacht- en transportvliegtuigen, bedoeld in artikel 2.6.2, tiende lid, van het besluit, worden aangewezen de in bijlage 11 vermelde begrenzingen.   
+11.  Als munitieopslagplaatsen, bedoeld in artikel 2.6.2, elfde lid, van het besluit, en bijbehorende veiligheidszones, bedoeld in artikel 2.6.5, tweede lid, van het besluit worden aangewezen de in bijlage 12 vermelde opslagplaatsen en de in bijlage 13 vermelde veiligheidszones.   
+12.  Van de in de het eerste tot en met elfde lid bedoelde terreinen, gebieden, zones en objecten zijn de geometrische plaatsbepalingen vastgelegd in het GML-bestand bij deze regeling en zijn de kaarten, waarop die plaatsbepalingen zijn verbeeld, in de in het eerste tot en met elfde lid bedoelde bijlagen opgenomen.  
 
 ### Artikel  2.2  
 
 ####(beoordeling veiligheidsrisico)
 
-1.  Bij de beoordeling van de veiligheidssituatie en het risico van de activiteiten in de veiligheidszones, bedoeld in [artikel 2.6.7, vijfde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden de volgende elementen betrokken: 
+1.  Bij de beoordeling van de veiligheidssituatie en het risico van de activiteiten in de veiligheidszones, bedoeld in artikel 2.6.7, vijfde lid, van het besluit, worden de volgende elementen betrokken: 
 
 a. de op grond van de verleende omgevingsvergunning toegestane hoeveelheid munitie en explosieve stoffen;  
 
@@ -78,7 +88,7 @@ c. de bestaande objecten en bestemmingen, met inbegrip van reeds toegestane ontw
 
 ####(civiele inrichtingen met explosieven)
 
-Als civiele inrichtingen voor activiteiten met explosieven, bedoeld in [artikel 2.6.2, twaalfde lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), en bijbehorende veiligheidszones, bedoeld in [artikel 2.6.6 van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md) worden aangewezen de in bijlage 14 vermelde begrenzingen en de in bijlage 15 vermelde veiligheidszones, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en waarvan in voornoemde bijlage de kaarten waarop die plaatsbepalingen zijn verbeeld, zijn opgenomen. 
+Als civiele inrichtingen voor activiteiten met explosieven, bedoeld in artikel 2.6.2, twaalfde lid, van het besluit, en bijbehorende veiligheidszones, bedoeld in artikel 2.6.6 van het besluit worden aangewezen de in bijlage 14 vermelde begrenzingen en de in bijlage 15 vermelde veiligheidszones, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand bij deze regeling en waarvan in voornoemde bijlage de kaarten waarop die plaatsbepalingen zijn verbeeld, zijn opgenomen. 
 
 ### Artikel  2.4  
 
@@ -130,14 +140,19 @@ c. een gebied vanaf een hoogte van 300 voet tot een hoogte van 500 voet ten opzi
 
 ####(aanwijzing reserveringsgebieden)
 
-1.  Als reserveringsgebied ten behoeve van de mogelijke uitbreiding van een hoofdweg of delen daarvan, bedoeld in [artikel 2.7.2, eerste lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 16 aangewezen gebieden bij de in die bijlage genoemde hoofdwegen.   
-2.  Als reserveringsgebied ten behoeve van de mogelijke aanleg van een nieuwe hoofdweg of landelijke spoorweg, bedoeld in [artikel 2.7.3, eerste lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 17 aangewezen gebieden.  
+1.  Als reserveringsgebied ten behoeve van de mogelijke uitbreiding van een hoofdweg of delen daarvan, bedoeld in artikel 2.7.2, eerste lid, van het besluit, worden aangewezen de in bijlage 16 aangewezen gebieden bij de in die bijlage genoemde hoofdwegen.   
+2.  Als reserveringsgebied ten behoeve van de mogelijke aanleg van een nieuwe hoofdweg of landelijke spoorweg, bedoeld in artikel 2.7.3, eerste lid, van het besluit, worden aangewezen de in bijlage 17 aangewezen gebieden.  
 
 ### Paragraaf  4  
 
-####: Buisleidingen van nationaal belang voor vervoer van gevaarlijke stoffen
+####Voorkeurstracés buisleidingen van nationaal belang voor het vervoer van gevaarlijke stoffen
 
-Gereserveerd    
+### Artikel  4.1  
+
+####(aanwijzing voorkeurstracés)
+
+Als voorkeurstracés met aan weerszijden daarvan een zoekgebied als bedoeld in artikel 2.9.2, eerste lid, van het besluit, worden aangewezen de tracés en zoekgebieden die zijn opgenomen in bijlage 19. De geometrische plaatsbepaling van de voorkeurstracés en zoekgebieden is vastgelegd in een GML-bestand bij deze regeling. 
+
 ### Paragraaf  5  
 
 ####Ecologische hoofdstructuur
@@ -146,7 +161,7 @@ Gereserveerd
 
 ####(aanwijzing militaire terreinen geen deel uitmakend van de ecologische hoofdstructuur)
 
-Als militaire terreinen die geen onderdeel vormen van de ecologische hoofdstructuur, bedoeld in [artikel 2.10.2, tweede lid, van het besluit](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), worden aangewezen de in bijlage 18 vermelde terreinen. De geometrische plaatsbepaling van de terreinen is vastgelegd in een GML-bestand en verbeeld op de kaarten, behorende bij de voornoemde bijlage. 
+Als militaire terreinen die geen onderdeel vormen van de ecologische hoofdstructuur, bedoeld in artikel 2.10.2, tweede lid, van het besluit, worden aangewezen de in bijlage 18 vermelde terreinen. De geometrische plaatsbepaling van de terreinen is vastgelegd in een GML-bestand bij deze regeling en verbeeld op de kaarten, behorende bij de voornoemde bijlage. 
 
 ### Paragraaf  6  
 
@@ -156,8 +171,8 @@ Als militaire terreinen die geen onderdeel vormen van de ecologische hoofdstruct
 
 ####(inwerkingtreding)
 
-1.  Deze regeling treedt in werking met ingang van de dag waarop het [Besluit algemene regels ruimtelijke ordening](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md) in werking treedt.   
-2.  Indien bekendmaking van deze regeling geschiedt na de datum van bekendmaking van het tijdstip van inwerkingtreding van het [Besluit algemene regels ruimtelijke ordening](../../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md), treedt deze regeling in afwijking van het eerste lid in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de dag waarop het Besluit algemene regels ruimtelijke ordening in werking treedt.   
+2.  Indien bekendmaking van deze regeling geschiedt na de datum van bekendmaking van het tijdstip van inwerkingtreding van het Besluit algemene regels ruimtelijke ordening, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
 ### Artikel  6.2  
 
@@ -195,7 +210,6 @@ Militaire terreinen
 | oefenterrein De Kamp/Lunetten  | 1.14  |
 | oefenterrein De Vlasakkers  | 1.16  |
 | oefenterrein De Zande  | 1.17  |
-| oefenterrein Dijkveld  | 1.18  |
 | oefenterrein Doorn-Driebergen / Hoog Moersbergen  | 1.19  |
 | oefenterrein Eder- en Ginkelse heide  | 1.20  |
 |oefenterrein Engelense Gat |1.20a |
@@ -216,13 +230,11 @@ Militaire terreinen
 | oefenterrein Olst-Welsum  | 1.34  |
 | oefenterrein Ossendrechtsche heide  | 1.35  |
 | oefenterrein Oude Kamp  | 1.36  |
-| oefenterrein Oude Molen  | 1.37  |
 |oefenterrein Overdiepse Polder |1.37a |
 | oefenterrein Rucphense Heide  | 1.38  |
 | oefenterrein Scherpenberg  | 1.39  |
 | oefenterrein Soerel Oost  | 1.40  |
 | oefenterrein Soerel West  | 1.41  |
-| oefenterrein Sparrendaal  | 1.42  |
 | oefenterrein Stroese Zand  | 1.43  |
 | oefenterrein Vijf Eiken  | 1.44  |
 | oefenterrein Vlakte van Waalsdorp  | 1.45  |
@@ -334,11 +346,6 @@ Kaart militair terrein – oefenterrein De Vlasakkers
 ![249610](http://wetten.overheid.nl/Illustration/249610)
 Kaart militair terrein – oefenterrein De Zande  
 
-### Bijlage  1.18  
-
-![249611](http://wetten.overheid.nl/Illustration/249611)
-Kaart militair terrein – oefenterrein Dijkveld  
-
 ### Bijlage  1.19  
 
 ![249740](http://wetten.overheid.nl/Illustration/249740)
@@ -358,8 +365,10 @@ Kaart militair terrein – oefenterrein Engelense Gat
 
 ### Bijlage  1.21  
 
-![249614](http://wetten.overheid.nl/Illustration/249614)
-Kaart militair terrein – oefenterrein Ermelose Heide  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253765](http://wetten.overheid.nl/Illustration/253765)
+Kaart militair terrein – militair terrein oefenterrein Ermelose Heide 
 
 ### Bijlage  1.21a  
 
@@ -390,8 +399,10 @@ Kaart militair terrein – oefenterrein Groote Veld
 
 ### Bijlage  1.26  
 
-![249619](http://wetten.overheid.nl/Illustration/249619)
-Kaart militair terrein – oefenterrein Havelte-Oost  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253771](http://wetten.overheid.nl/Illustration/253771)
+Kaart militair terrein – militair terrein oefenterrein Havelte-Oost
 
 ### Bijlage  1.27  
 
@@ -425,8 +436,10 @@ Kaart militair terrein – oefenterrein Marnewaard
 
 ### Bijlage  1.33  
 
-![249626](http://wetten.overheid.nl/Illustration/249626)
-Kaart militair terrein – oefenterrein Oirschotse Heide  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253773](http://wetten.overheid.nl/Illustration/253773)
+Kaart militair terrein – militair terrein oefenterrein Oirschotse Heide
 
 ### Bijlage  1.34  
 
@@ -442,11 +455,6 @@ Kaart militair terrein – oefenterrein Ossendrechtsche heide
 
 ![249629](http://wetten.overheid.nl/Illustration/249629)
 Kaart militair terrein – oefenterrein Oude Kamp  
-
-### Bijlage  1.37  
-
-![249630](http://wetten.overheid.nl/Illustration/249630)
-Kaart militair terrein – oefenterrein Oude Molen  
 
 ### Bijlage  1.37a  
 
@@ -476,11 +484,6 @@ Kaart militair terrein – oefenterrein Soerel Oost
 
 ![249634](http://wetten.overheid.nl/Illustration/249634)
 Kaart militair terrein – oefenterrein Soerel West  
-
-### Bijlage  1.42  
-
-![249635](http://wetten.overheid.nl/Illustration/249635)
-Kaart militair terrein – oefenterrein Sparrendaal  
 
 ### Bijlage  1.43  
 
@@ -544,13 +547,17 @@ Kaart militair terrein – schietbaan Petten
 
 ### Bijlage  1.55  
 
-![249648](http://wetten.overheid.nl/Illustration/249648)
-Kaart militair terrein – schietbaan Witten  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253774](http://wetten.overheid.nl/Illustration/253774)
+Kaart militair terrein – militair terrein schietbaan Witten
 
 ### Bijlage  1.56  
 
-![249649](http://wetten.overheid.nl/Illustration/249649)
-Kaart militair terrein – schietrange De Vliehors  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253775](http://wetten.overheid.nl/Illustration/253775)
+Kaart militair terrein – militair terrein schietrange De Vliehors  
 
 ### Bijlage  1.57  
 
@@ -744,9 +751,9 @@ Zend- en ontvangstinstallaties buiten militair luchtvaartterrein
 | antennepark Kornwerderzand   | 6.5  |
 | antennepark Ouddorp  | 6.6  |
 | antennepark Scharendijke  | 6.7  |
-| antennepark Scheveningen   | 6.8  |
 | antennepark Schiermonnikoog   | 6.9  |
 | antennepark Schoorl   | 6.10  |
+|antennepark Zeewolde  |6.10a  |
 | complex Burum  | 6.11  |
 | complex De Lier  | 6.12  |
 | complex Eemnes   | 6.13  |
@@ -797,11 +804,6 @@ Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein antennepar
 ![249677](http://wetten.overheid.nl/Illustration/249677)
 Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein antennepark Scharendijke  
 
-### Bijlage  6.8  
-
-![249678](http://wetten.overheid.nl/Illustration/249678)
-Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein antennepark Scheveningen  
-
 ### Bijlage  6.9  
 
 ![249679](http://wetten.overheid.nl/Illustration/249679)
@@ -815,8 +817,6 @@ Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein antennepar
 ### Bijlage 6.10a 
 
 ####bij de Regeling algemene regels ruimtelijke ordening
-
-Treedt in werking per 01-07-2014 
 
 ![253776](http://wetten.overheid.nl/Illustration/253776)
 Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein Antennepark Zeewolde
@@ -1031,7 +1031,6 @@ Munitieopslagplaatsen
 | MMC Coevorden  | 12.18  |
 | MMC De Kom  | 12.19  |
 | MMC Hoenderloo II  | 12.20  |
-| MMC Oirschot  | 12.21  |
 | MMC Ritthem  | 12.22  |
 | MMC Ruinen  | 12.23  |
 | MMC Staphorst  | 12.24  |
@@ -1063,7 +1062,9 @@ Kaart munitieopslagplaats cavalerieschietkamp Vlieland
 
 ### Bijlage  12.3  
 
-![249700](http://wetten.overheid.nl/Illustration/249700)
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253777](http://wetten.overheid.nl/Illustration/253777)
 Kaart munitieopslagplaats complex Terschelling  
 
 ### Bijlage  12.4  
@@ -1073,7 +1074,9 @@ Kaart munitieopslagplaats Fort Erfprins
 
 ### Bijlage  12.5  
 
-![249702](http://wetten.overheid.nl/Illustration/249702)
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253778](http://wetten.overheid.nl/Illustration/253778)
 Kaart munitieopslagplaats generaal-majoor De Ruyter van Steveninckkazerne  
 
 ### Bijlage  12.6  
@@ -1098,8 +1101,10 @@ Kaart munitieopslagplaats Legerplaats bij Oldebroek
 
 ### Bijlage  12.10  
 
-![249707](http://wetten.overheid.nl/Illustration/249707)
-Kaart munitieopslagplaats Legerplaats Ermelo  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253779](http://wetten.overheid.nl/Illustration/253779)
+Kaart munitieopslagplaats Legerplaats Ermelo 
 
 ### Bijlage  12.11  
 
@@ -1128,8 +1133,10 @@ Kaart munitieopslagplaats MC Rucphen
 
 ### Bijlage  12.17  
 
-![249714](http://wetten.overheid.nl/Illustration/249714)
-Kaart munitieopslagplaats MMC Beetgumermolen  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253780](http://wetten.overheid.nl/Illustration/253780)
+Kaart munitieopslagplaats MMC Beetgumermolen 
 
 ### Bijlage  12.18  
 
@@ -1145,11 +1152,6 @@ Kaart munitieopslagplaats MMC De Kom
 
 ![249717](http://wetten.overheid.nl/Illustration/249717)
 Kaart munitieopslagplaats MMC Hoenderloo II  
-
-### Bijlage  12.21  
-
-![249718](http://wetten.overheid.nl/Illustration/249718)
-Kaart munitieopslagplaats MMC Oirschot  
 
 ### Bijlage  12.22  
 
@@ -1220,8 +1222,10 @@ Kaart munitieopslagplaats Vliegbasis Gilze-Rijen
 
 ### Bijlage  12.35  
 
-![249732](http://wetten.overheid.nl/Illustration/249732)
-Kaart munitieopslagplaats Vliegbasis Leeuwarden  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253781](http://wetten.overheid.nl/Illustration/253781)
+Kaart munitieopslagplaats Vliegbasis Leeuwarden 
 
 ### Bijlage  12.36  
 
@@ -1257,7 +1261,7 @@ Veiligheidszones bij munitieopslagplaatsen
 | cavalerieschietkamp Vlieland  | 12.2  |
 | complex Terschelling  | 12.3  |
 | Fort Erfprins (B-zone)  | 12.4  |
-| generaal-majoor De Ruyter van Steveninckkazerne (gecombineerd met kaart 12.21)  | 12.5  |
+| generaal-majoor De Ruyter van Steveninckkazerne  | 12.5  |
 | Johannes Postkazerne (A-zone, B-zone)  | 12.6  |
 | Kamp Alphen  | 12.8  |
 | Legerplaats bij Oldebroek (B-zone, C-zone)  | 12.9  |
@@ -1272,7 +1276,6 @@ Veiligheidszones bij munitieopslagplaatsen
 | MMC Coevorden  | 12.18  |
 | MMC De Kom  | 12.19  |
 | MMC Hoenderloo II (C-zone)  | 12.20  |
-| MMC Oirschot (gecombineerd met kaart 12.5)  | 12.21  |
 | MMC Ritthem  | 12.22  |
 | MMC Ruinen  | 12.23  |
 | MMC Staphorst  | 12.24  |
@@ -1314,8 +1317,10 @@ Kaart civiele inrichting voor activiteiten met explosieven complex TNO Ypenburg
 
 ### Bijlage  14.3  
 
-![249739](http://wetten.overheid.nl/Illustration/249739)
-Kaart civiele inrichting voor activiteiten met explosieven complex Ulicoten  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![253782](http://wetten.overheid.nl/Illustration/253782)
+Kaart civiele inrichtingen voor activiteiten met explosieven complex Ulicoten 
 
 ### Bijlage 15 
 
@@ -1343,7 +1348,6 @@ Reserveringsgebieden voor de mogelijke aanleg van een nieuwe hoofdweg of landeli
 
 | Reserveringsgebied:  | Verbeeld op de bij deze regeling behorende kaart:  |
 |:---|:---|
-| nieuwe hoofdweg A9 omlegging Badhoevendorp  | 17.1  |
 | nieuwe hoofdweg A13/A16/A20 Rotterdam  | 17.2  |
 | nieuwe hoofdweg N18 Varsseveld- Enschede  | 17.3  |
 | nieuwe hoofdweg A12/A15 Bereikbaarheid regio Arnhem-Nijmegen  | 17.4  |
@@ -1351,13 +1355,6 @@ Reserveringsgebieden voor de mogelijke aanleg van een nieuwe hoofdweg of landeli
 | nieuwe hoofdweg A6/A7 Knooppunt Joure  | 17.6  |
 | nieuwe hoofdweg Rotterdam Vooruit (Nieuwe westelijke oeververbinding)  | 17.7  |
 | nieuwe landelijke spoorweg IJzeren rijn  | 17.8  |
-
-###Bijlage 17.1 
-
-####bij de Regeling algemene regels ruimtelijke ordening
-
-![250811](http://wetten.overheid.nl/Illustration/250811)
-Kaart reserveringsgebied nieuwe hoofdweg – A9 Omlegging Badhoevedorp
 
 ###Bijlage 17.2 
 
@@ -1368,17 +1365,42 @@ Kaart reserveringsgebied nieuwe hoofdweg – A13/A16/A20 Rotterdam
 
 ###Bijlage 17.3 
 
-####bij de Regeling algemene regels ruimtelijke ordening
+####als bedoeld in artikel 3.1, eerste lid  van de Regeling algemene regels ruimtelijke ordening
 
-![250813](http://wetten.overheid.nl/Illustration/250813)
-Kaart reserveringsgebied nieuwe hoofdweg – N18 Varsseveld-Enschede
+![253783](http://wetten.overheid.nl/Illustration/253783)
+Overzichtskaart reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253784](http://wetten.overheid.nl/Illustration/253784)
+Detailkaart 1 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253785](http://wetten.overheid.nl/Illustration/253785)
+Detailkaart 2 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253786](http://wetten.overheid.nl/Illustration/253786)
+Detailkaart 3 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253787](http://wetten.overheid.nl/Illustration/253787)
+Detailkaart 4 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede  ![253788](http://wetten.overheid.nl/Illustration/253788)
+Detailkaart 5 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253789](http://wetten.overheid.nl/Illustration/253789)
+Detailkaart 6 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253790](http://wetten.overheid.nl/Illustration/253790)
+Detailkaart 7 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253791](http://wetten.overheid.nl/Illustration/253791)
+Detailkaart 8 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253792](http://wetten.overheid.nl/Illustration/253792)
+Detailkaart 9 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253793](http://wetten.overheid.nl/Illustration/253793)
+Detailkaart 10 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253794](http://wetten.overheid.nl/Illustration/253794)
+Detailkaart 11 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede 
 
 ###Bijlage 17.4 
 
-####bij de Regeling algemene regels ruimtelijke ordening
+####als bedoeld in artikel 3.1, eerste lid  van de Regeling algemene regels ruimtelijke ordening
 
-![250814](http://wetten.overheid.nl/Illustration/250814)
-Kaart reserveringsgebied nieuwe hoofdweg – A12/A15 Bereikbaarheid regio Arnhem-Nijmegen
+![253795](http://wetten.overheid.nl/Illustration/253795)
+Overzichtskaart reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253796](http://wetten.overheid.nl/Illustration/253796)
+Detailkaart 1 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253797](http://wetten.overheid.nl/Illustration/253797)
+Detailkaart 2 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253798](http://wetten.overheid.nl/Illustration/253798)
+Detailkaart 3 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253799](http://wetten.overheid.nl/Illustration/253799)
+Detailkaart 4 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253800](http://wetten.overheid.nl/Illustration/253800)
+Detailkaart 5 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253801](http://wetten.overheid.nl/Illustration/253801)
+Detailkaart 6 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253802](http://wetten.overheid.nl/Illustration/253802)
+Detailkaart 7 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253803](http://wetten.overheid.nl/Illustration/253803)
+Detailkaart 8 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253804](http://wetten.overheid.nl/Illustration/253804)
+Detailkaart 9 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253805](http://wetten.overheid.nl/Illustration/253805)
+Detailkaart 10 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253806](http://wetten.overheid.nl/Illustration/253806)
+Detailkaart 11 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253807](http://wetten.overheid.nl/Illustration/253807)
+Detailkaart 12 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253808](http://wetten.overheid.nl/Illustration/253808)
+Detailkaart 13 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253809](http://wetten.overheid.nl/Illustration/253809)
+Detailkaart 14 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen 
 
 ###Bijlage 17.5 
 
@@ -1435,6 +1457,5 @@ Kaart militair terrein – oefenterrein Oirschotse Heide (gedeelte COT en ‘vak
 ####als bedoeld in artikel 4.1  van de Regeling algemene regels ruimtelijke ordening
 
 Kaarten met voorkeurstracés voor de aanleg van buisleidingen van nationaal belang voor het vervoer van gevaarlijke stoffen 
-Treedt in werking per 01-07-2014 
 
 Deze bijlage is raadpleegbaar op de website http://www.ruimtelijkeplannen.nl, door via ‘een plan bekijken/algemene regels overheden’ onder ‘naam/zoek op plannaam’ te zoeken op ‘regeling algemene regels ruimtelijke ordening’ dan wel rechtstreeks via http://www.ruimtelijkeplannen.nl/?dossierid=NL.IMRO.0000.IMmr11Rarro. 

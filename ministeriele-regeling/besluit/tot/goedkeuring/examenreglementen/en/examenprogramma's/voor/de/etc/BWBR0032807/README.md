@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Infrastructuur en Milieu, van 21 januari 2013, nr. IENM/BSK-2013/6117, tot goedkeuring van de examenreglementen en examenprogramma's voor de binnenvaart 2013
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op de [artikelen 1.12](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md), [2.3](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md), [2.10, achtste lid](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md), [7.8, tiende lid](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md), [7.9, vierde lid](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md), en [7.21 van de Binnenvaartregeling](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md) en [artikel 3, tweede lid, van bijlage 4 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md);
+Gelet op de artikelen 1.12, 2.3, 2.10, achtste lid, 7.8, tiende lid, 7.9, vierde lid, en 7.21 van de Binnenvaartregeling en artikel 3, tweede lid, van bijlage 4 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen;
 BESLUIT:    
 
 ### Artikel  1  
@@ -190,7 +190,7 @@ Voor het behalen van het diploma Radar moeten de volgende examenonderdelen zijn 
 
 ####Aanvullende toelatingseisen
 
-De kandidaat moet op de examendatum in het bezit zijn van een geldig schipperspatent als bedoeld in het [Besluit Reglement radarpatenten](../../../../../../../../../../../AMvB/besluit/reglement/radarpatenten/BWBR0010916/README.md) en een geldig basiscertificaat marifonie. 
+De kandidaat moet op de examendatum in het bezit zijn van een geldig schipperspatent als bedoeld in het Besluit Reglement radarpatenten en een geldig basiscertificaat marifonie. 
 
 ####ADN
 
@@ -232,7 +232,7 @@ Zie algemeen examenreglement CCV op de website van CBR.
 
 ####Examenprogramma
 
-Een kandidaat die het praktijkexamen schipper binnenvaart, zoals bedoeld in artikel 7.19a van de Binnenvaartregeling, met goed gevolg aflegt, ontvangt een Verklaring Praktijkexamen Vaartijd afgegeven door CBR. De Verklaring Praktijkexamen Vaartijd is onbeperkt geldig en geeft recht op vermindering van de vaartijd, bedoeld in [artikel 7.18, eerste lid, van de Binnenvaartregeling](../../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md), met drie jaar. Het praktijkexamen schipper binnenvaart bestaat uit minimaal 180 dagen vaartijd, een portfolio en vier praktijktoetsen: Praktijktoets 1; Praktijktoets 2; Praktijktoets 3; Praktijktoets 4. Voor het behalen van de Verklaring Praktijkexamen Vaartijd moet de kandidaat voor alle vier de praktijktoetsen zijn geslaagd, een goedgekeurd portfolio hebben en 180 dagen vaartijd kunnen aantonen. Voor iedere praktijktoets is een toetsmatrijs vastgesteld. De toetsmatrijs bestaat uit competenties/eindtermen, die aangeven waar een kandidaat aan moet voldoen. Tevens staan de cesuur en de vorm van de toetsen in de toetsmatrijs. De toetsmatrijzen zijn terug te vinden op de website van het CBR. Het portfolio moet voldoen aan het format van het CBR. Dit vaste format staat op de website van het CBR. De praktijktoetsen 1, 2 en 3 worden namens het CBR afgenomen door een organisatie, vermeld op de website van het CBR. Praktijktoets 4 wordt afgenomen door een CBR-examinator. Deze toets wordt afgenomen op een schip van een organisatie, genoemd op de website van het CBR. Het praktijkexamen start op de dag dat een kandidaat zich aanmeldt bij één van de organisaties, die praktijktoets 1 tot en met 3 afneemt. Alle praktijktoetsen bestaan uit een aantal deeltoetsen. Alle deeltoetsen moeten zijn behaald om te zijn geslaagd voor de betreffende praktijktoets. Een kandidaat is voor een deeltoets geslaagd als tenminste een voldoende is behaald. De resultaten van de praktijktoetsen zijn geldig voor een termijn van twee jaar na de examendatum. Een kandidaat die slaagt voor praktijktoets 1, minimaal 60 dagen vaartijd kan aantonen, en in het bezit is van het CBR-diploma Aspirant Schipper kan de functie Matroos aanvragen in zijn dienstboekje. De Verklaring Praktijkexamen Vaartijd geeft vrijstelling voor het CBR-examen Navigatie 1. De Verklaring geeft geen vrijstelling voor de overige theorie-examens. Een herkansing kan niet eerder plaatsvinden dan wanneer de onderdelen waar de kandidaat voor is gezakt opnieuw zijn aangetoond in het portfolio. 
+Een kandidaat die het praktijkexamen schipper binnenvaart, zoals bedoeld in artikel 7.19a van de Binnenvaartregeling, met goed gevolg aflegt, ontvangt een Verklaring Praktijkexamen Vaartijd afgegeven door CBR. De Verklaring Praktijkexamen Vaartijd is onbeperkt geldig en geeft recht op vermindering van de vaartijd, bedoeld in artikel 7.18, eerste lid, van de Binnenvaartregeling, met drie jaar. Het praktijkexamen schipper binnenvaart bestaat uit minimaal 180 dagen vaartijd, een portfolio en vier praktijktoetsen: Praktijktoets 1; Praktijktoets 2; Praktijktoets 3; Praktijktoets 4. Voor het behalen van de Verklaring Praktijkexamen Vaartijd moet de kandidaat voor alle vier de praktijktoetsen zijn geslaagd, een goedgekeurd portfolio hebben en 180 dagen vaartijd kunnen aantonen. Voor iedere praktijktoets is een toetsmatrijs vastgesteld. De toetsmatrijs bestaat uit competenties/eindtermen, die aangeven waar een kandidaat aan moet voldoen. Tevens staan de cesuur en de vorm van de toetsen in de toetsmatrijs. De toetsmatrijzen zijn terug te vinden op de website van het CBR. Het portfolio moet voldoen aan het format van het CBR. Dit vaste format staat op de website van het CBR. De praktijktoetsen 1, 2 en 3 worden namens het CBR afgenomen door een organisatie, vermeld op de website van het CBR. Praktijktoets 4 wordt afgenomen door een CBR-examinator. Deze toets wordt afgenomen op een schip van een organisatie, genoemd op de website van het CBR. Het praktijkexamen start op de dag dat een kandidaat zich aanmeldt bij één van de organisaties, die praktijktoets 1 tot en met 3 afneemt. Alle praktijktoetsen bestaan uit een aantal deeltoetsen. Alle deeltoetsen moeten zijn behaald om te zijn geslaagd voor de betreffende praktijktoets. Een kandidaat is voor een deeltoets geslaagd als tenminste een voldoende is behaald. De resultaten van de praktijktoetsen zijn geldig voor een termijn van twee jaar na de examendatum. Een kandidaat die slaagt voor praktijktoets 1, minimaal 60 dagen vaartijd kan aantonen, en in het bezit is van het CBR-diploma Aspirant Schipper kan de functie Matroos aanvragen in zijn dienstboekje. De Verklaring Praktijkexamen Vaartijd geeft vrijstelling voor het CBR-examen Navigatie 1. De Verklaring geeft geen vrijstelling voor de overige theorie-examens. Een herkansing kan niet eerder plaatsvinden dan wanneer de onderdelen waar de kandidaat voor is gezakt opnieuw zijn aangetoond in het portfolio. 
 
 ####Aanvullende toelatingseisen praktijkexamen
 
@@ -276,17 +276,17 @@ Het examen KVB1 omvat de volgende onderdelen:
 
 A. De wettelijke bepalingen voor zover deze van belang zijn voor de veiligheid van de vaart op die wateren. 
 
-1.  [Scheepvaartverkeerswet](../../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) (SVW)  SVW als basis voor de scheepvaartreglementen.  
+1.  Scheepvaartverkeerswet (SVW)  SVW als basis voor de scheepvaartreglementen.  
 
-2. [Binnenvaartwet](../../../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) (BVW)  Het belang van de BVW voor de recreatievaart.  
+2. Binnenvaartwet (BVW)  Het belang van de BVW voor de recreatievaart.  
 
-3. [Wetboek van Koophandel](../../../../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) Verplichting tot hulpverlening in gevaarsituaties en bij aanvaring en tot het verstrekken van gegevens bij aanvaring.  
+3. Wetboek van Koophandel Verplichting tot hulpverlening in gevaarsituaties en bij aanvaring en tot het verstrekken van gegevens bij aanvaring.  
 
-4. Het [Binnenvaartpolitiereglement](../../../../../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) (BPR) Toepassingsgebied. Betekenis van enige uitdrukkingen. Verplichtingen van de schipper, de bemanning en andere personen die zich aan boord bevinden. Kentekens op schepen. Lichten en dagtekens. Geluidsseinen en regels voor marifoon. Vaarregels. Regels voor het stilliggen. Bijzondere bepalingen voor snelle motorboten en andere kleine schepen.  
+4. Het Binnenvaartpolitiereglement (BPR) Toepassingsgebied. Betekenis van enige uitdrukkingen. Verplichtingen van de schipper, de bemanning en andere personen die zich aan boord bevinden. Kentekens op schepen. Lichten en dagtekens. Geluidsseinen en regels voor marifoon. Vaarregels. Regels voor het stilliggen. Bijzondere bepalingen voor snelle motorboten en andere kleine schepen.  
 
-5.  Het[Rijnvaartpolitiereglement 1995](../../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) (RPR) Toepassingsgebied. Betekenis van enige uitdrukkingen. Verplichtingen van de schipper, de bemanning en andere personen die zich aan boord bevinden. Lichten, dagtekens, geluidsseinen en vaarregels, in het bijzonder voor zover afwijkend van het Binnenvaartpolitiereglement. BPR-bepalingen die van toepassing zijn op RPR-gebied.  
+5.  HetRijnvaartpolitiereglement 1995 (RPR) Toepassingsgebied. Betekenis van enige uitdrukkingen. Verplichtingen van de schipper, de bemanning en andere personen die zich aan boord bevinden. Lichten, dagtekens, geluidsseinen en vaarregels, in het bijzonder voor zover afwijkend van het Binnenvaartpolitiereglement. BPR-bepalingen die van toepassing zijn op RPR-gebied.  
 
-6.  [Scheepvaartreglement voor het kanaal van Gent naar Terneuzen](../../../../../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md) (SRKGT)  Toepassingsgebied. Betekenis van enige uitdrukkingen. Verplichtingen van de schipper, de bemanning en andere personen die zich aan boord bevinden. Lichten, Dagtekens, Geluidsseinen. Vaarregels.    
+6.  Scheepvaartreglement voor het kanaal van Gent naar Terneuzen (SRKGT)  Toepassingsgebied. Betekenis van enige uitdrukkingen. Verplichtingen van de schipper, de bemanning en andere personen die zich aan boord bevinden. Lichten, Dagtekens, Geluidsseinen. Vaarregels.    
 
 B. De behandeling van de voortstuwingswerktuigen; de veiligheidsmaatregelen. 
 
@@ -314,9 +314,9 @@ Het examen KVB2 omvat de volgende onderdelen:
 
 E. De wettelijke bepalingen voor zover deze van belang zijn voor de veiligheid van de vaart op de Westerschelde, de Eems en de Dollard. 
 
-1.  [Scheepvaartreglement Westerschelde 1990](../../../../../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md) (SRW)  Toepassingsgebied. Algemene begripsomschrijvingen. Verantwoordelijkheid. Voorschriften betreffende uitwijken. Lichten en dagmerken. Geluid- en lichtseinen. Bijzondere bepalingen voor het redegebied Vlissingen. Bepalingen voor kleine vaartuigen.  
+1.  Scheepvaartreglement Westerschelde 1990 (SRW)  Toepassingsgebied. Algemene begripsomschrijvingen. Verantwoordelijkheid. Voorschriften betreffende uitwijken. Lichten en dagmerken. Geluid- en lichtseinen. Bijzondere bepalingen voor het redegebied Vlissingen. Bepalingen voor kleine vaartuigen.  
 
-2.  [Scheepvaartreglement Eemsmonding](../../../../../../../../../../../AMvB/scheepvaartreglement/eemsmonding/BWBR0004552/README.md) (SRE) en Internationale Bepalingen ter Voorkoming van Aanvaringen op zee 1972 (BVA)  Toepassingsgebied SRE. Van belang zijnde voorschriften uit de BVA. De op de BVA aanvullende en de van de BVA afwijkende bepalingen in het SRE, voor zover van toepassing op kleine vaartuigen.    
+2.  Scheepvaartreglement Eemsmonding (SRE) en Internationale Bepalingen ter Voorkoming van Aanvaringen op zee 1972 (BVA)  Toepassingsgebied SRE. Van belang zijnde voorschriften uit de BVA. De op de BVA aanvullende en de van de BVA afwijkende bepalingen in het SRE, voor zover van toepassing op kleine vaartuigen.    
 
 F. Navigatie 
 

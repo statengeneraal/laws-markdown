@@ -22,7 +22,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a.  *Onze Minister:* Onze Minister van Economische Zaken;  
 
-b.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+b.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 c. vervallen;  
 
@@ -132,7 +132,7 @@ Een postvervoerbedrijf heeft met een bij algemene maatregel van bestuur te bepal
 
 ### Artikel  9  
 
-1.  Indien een postvervoerbedrijf, dat beschikt over een netwerk waarmee poststukken op ten minste vijf dagen per week kunnen worden bezorgd op alle adressen in Nederland, met gebruikmaking van dat netwerk postvervoer verricht tegen speciale voorwaarden en tarieven, verricht hij dit postvervoer voor andere postvervoerbedrijven tegen non-discriminatoire en transparante voorwaarden en tarieven ten opzichte van andere afzenders en andere postvervoerbedrijven. Onder andere postvervoerbedrijven vallen ook groepsmaatschappijen die in een groep verbonden zijn in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) met het postvervoerbedrijf dat beschikt over een netwerk als bedoeld in de eerste volzin.   
+1.  Indien een postvervoerbedrijf, dat beschikt over een netwerk waarmee poststukken op ten minste vijf dagen per week kunnen worden bezorgd op alle adressen in Nederland, met gebruikmaking van dat netwerk postvervoer verricht tegen speciale voorwaarden en tarieven, verricht hij dit postvervoer voor andere postvervoerbedrijven tegen non-discriminatoire en transparante voorwaarden en tarieven ten opzichte van andere afzenders en andere postvervoerbedrijven. Onder andere postvervoerbedrijven vallen ook groepsmaatschappijen die in een groep verbonden zijn in de zin van artikel 24b van Boek 2 van het Burgerlijk Wetboek met het postvervoerbedrijf dat beschikt over een netwerk als bedoeld in de eerste volzin.   
 2.  Indien blijkt dat op de nationale postmarkt of een onderdeel daarvan daadwerkelijke concurrentie ontbreekt, kunnen bij algemene maatregel van bestuur nadere regels worden gesteld met betrekking tot de voorwaarden en tarieven die worden gehanteerd bij het verrichten van postvervoerdiensten tegen speciale voorwaarden en tarieven door postvervoerbedrijven die over een netwerk beschikken als bedoeld in het eerste lid.   
 3.  Een postvervoerbedrijf als bedoeld in het eerste lid zorgt ervoor dat de geldende speciale voorwaarden en tarieven voor eenieder kenbaar zijn.   
 4.  Bij ministeriële regeling kunnen in aanvulling op het eerste lid regels worden gesteld over het verlenen van toegang tot het in dat lid bedoelde netwerk. Deze regels kunnen inhouden dat: 
@@ -182,15 +182,15 @@ Onder een postvervoerbedrijf dat beschikt over aanmerkelijke marktmacht wordt ve
 
 ### Artikel  13d  
 
-1.  Op de voorbereiding van een besluit als bedoeld in artikel 13b, eerste lid, of 13c is de [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Op de voorbereiding van een besluit als bedoeld in artikel 13b, eerste lid, of 13c is de afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 2.  In afwijking van het eerste lid kan de Autoriteit Consument en Markt besluiten om de in het eerste lid bedoelde procedure niet toe te passen: 
 
 a. indien het besluit geen aanzienlijke gevolgen heeft voor de desbetreffende markt,  
 
 b. in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedure, teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.     
 3.  Een besluit als bedoeld in artikel 13b dat wordt genomen met toepassing van onderdeel b geldt voor een periode van maximaal 26 weken.   
-4.  Indien het een besluit op aanvraag betreft, is [artikel 3.18, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
-5.  Van een besluit als bedoeld in de artikelen 13b of 13c of het tweede lid wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.  
+4.  Indien het een besluit op aanvraag betreft, is artikel 3.18, derde lid, van de Algemene wet bestuursrecht niet van toepassing.   
+5.  Van een besluit als bedoeld in de artikelen 13b of 13c of het tweede lid wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur wordt geen mededeling gedaan.  
 
 ### Artikel  13e  
 
@@ -309,7 +309,7 @@ a. vervoer van aangetekende poststukken;
 
 b. vervoer van poststukken met aangegeven waarde;  
 
-c. de uitreiking van het gerechtelijk schrijven, bedoeld in de [artikelen 585, tweede lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [587, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
+c. de uitreiking van het gerechtelijk schrijven, bedoeld in de artikelen 585, tweede lid, en 587, eerste lid, van het Wetboek van Strafvordering.     
 4.  Onder de universele postdienst vallen bij postvervoer van en naar gebieden buiten Nederland ten minste de postvervoerdiensten, opgenomen in de akten van de Wereldpostunie.   
 5.  Een verlener van de universele postdienst haalt ten minste vijf dagen per week poststukken op uit de voor het publiek bestemde brievenbussen dan wel uit andere daartoe bestemde inrichtingen, en voert ten minste vijf dagen per week overal in Nederland een bestelling uit, met dien verstande dat hij ten minste zes dagen per week rouwbrieven en medische brieven ophaalt uit daartoe bestemde inrichtingen, en ten minste zes dagen per week overal in Nederland een bestelling uitvoert van rouwbrieven en medische brieven.   
 6.  Een verlener van de universele postdienst zorgt ervoor dat de brieven, die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor postvervoer binnen Nederland met de standaard overnight service, per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zon- of maandag of officiële feestdag, volgend op de dag van aanbieding, met dien verstande dat rouwbrieven en medische brieven per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zon-, of officiële feestdag, volgend op de dag van aanbieding.   
@@ -518,12 +518,12 @@ De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft Diens go
 1.  Een ieder verstrekt de Autoriteit Consument en Markt desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van hem bij of krachtens deze wet opgedragen taken.   
 2.  Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet opgedragen taken.   
 3.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen een door de Autoriteit Consument en Markt respectievelijk Onze Minister gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar respectievelijk zijn bevoegdheden.   
-4.  Gegevens en inlichtingen welke door Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet en de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) worden gebruikt.   
+4.  Gegevens en inlichtingen welke door Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet en de Mededingingswet worden gebruikt.   
 5.  Met inachtneming van een goede vervulling van haar toezichthoudende taken ingevolge deze wet draagt de Autoriteit Consument en Markt er zorg voor dat het verzamelen van de gegevens of inlichtingen, bedoeld in het eerste lid, op zodanige wijze geschiedt dat de daaruit voortvloeiende administratieve lasten voor postvervoerbedrijven of andere bedrijven en instellingen zo laag mogelijk zijn.  
 
 ### Artikel  40  
 
-Voor zover bij de uitoefening van bevoegdheden op grond van het bepaalde bij of krachtens deze wet begrippen worden uitgelegd die worden gehanteerd bij de toepassing van [artikel 24 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md), geschiedt de uitoefening van die bevoegdheden op een wijze die in overeenstemming is met de wijze waarop toepassing wordt gegeven aan artikel 24 van de Mededingingswet.
+Voor zover bij de uitoefening van bevoegdheden op grond van het bepaalde bij of krachtens deze wet begrippen worden uitgelegd die worden gehanteerd bij de toepassing van artikel 24 van de Mededingingswet, geschiedt de uitoefening van die bevoegdheden op een wijze die in overeenstemming is met de wijze waarop toepassing wordt gegeven aan artikel 24 van de Mededingingswet.
 
 ### §  7.2  
 
@@ -563,7 +563,7 @@ b. de op grond van artikel 41 en 42, eerste lid, te overleggen gegevens niet, on
 
 ### Artikel  46  
 
-De Autoriteit Consument en Markt is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor de gegevensverzameling, bedoeld in artikel 42, tweede lid, en voor het register, bedoeld in artikel 44, eerste lid. 
+De Autoriteit Consument en Markt is verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens voor de gegevensverzameling, bedoeld in artikel 42, tweede lid, en voor het register, bedoeld in artikel 44, eerste lid. 
 
 ### §  7.3  
 
@@ -590,11 +590,11 @@ De Autoriteit Consument en Markt is verantwoordelijke in de zin van [artikel 1, 
 
 ### Artikel  49  
 
-1.  De Autoriteit Consument en Markt kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, eerste lid, alsmede overtreding van het bepaalde bij of krachtens de artikelen 4, 5, 8, 9, 10, 12, 13, 13b tot en met 13k, 16, vijfde tot en met negende lid, 18, 19, 22, 23, 24, 26, 27, 28, 31, vierde lid, 32, 35, 36, 39, eerste en derde lid, 41, 59, 61, 63, tweede lid, en 64 van deze wet, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
+1.  De Autoriteit Consument en Markt kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, eerste lid, alsmede overtreding van het bepaalde bij of krachtens de artikelen 4, 5, 8, 9, 10, 12, 13, 13b tot en met 13k, 16, vijfde tot en met negende lid, 18, 19, 22, 23, 24, 26, 27, 28, 31, vierde lid, 32, 35, 36, 39, eerste en derde lid, 41, 59, 61, 63, tweede lid, en 64 van deze wet, alsmede artikel 5:20 van de Algemene wet bestuursrecht de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
 2.  Onze Minister kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, tweede lid, alsmede overtreding van het bepaalde bij of krachtens hoofdstuk 11 de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
 3.  De berekening van de netto-omzet, bedoeld in het eerste en het tweede lid, 
 
-a. geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 b. betreft het boekjaar voorafgaande aan de beschikking, bedoeld in het eerste en het tweede lid;  
 
@@ -688,7 +688,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ### Artikel  68  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan artikel 70 in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan artikel 70 in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -697,7 +697,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ### Artikel  69  
 
-In geval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, oefent Onze Minister de in artikel 70, eerste lid, bedoelde bevoegdheid uit in overeenstemming met Onze Minister van Defensie. 
+In geval voor Nederland of een gedeelte daarvan, op grond van de artikelen 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden, bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, oefent Onze Minister de in artikel 70, eerste lid, bedoelde bevoegdheid uit in overeenstemming met Onze Minister van Defensie. 
 
 ### Artikel  70  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -710,8 +710,8 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Artikel  71  
 
-1.  Bij toepassing van [artikel 14 van de Wet buitengewone bevoegdheden burgerlijk gezag](../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md) is een verlener van de universele postdienst verplicht de krachtens het [eerste lid van genoemd artikel](../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md) aangewezen autoriteiten alle medewerking te verlenen, daaronder begrepen het uitvoeren van door die autoriteiten gegeven opdrachten.   
-2.  Bij toepassing van [artikel 31 van de Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) is een verlener van de universele postdienst verplicht het militair gezag of een orgaan als bedoeld in het [tweede lid van genoemd artikel](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) alle medewerking te verlenen, daaronder begrepen het uitvoeren van door dat gezag of dat orgaan gegeven opdrachten.  
+1.  Bij toepassing van artikel 14 van de Wet buitengewone bevoegdheden burgerlijk gezag is een verlener van de universele postdienst verplicht de krachtens het eerste lid van genoemd artikel aangewezen autoriteiten alle medewerking te verlenen, daaronder begrepen het uitvoeren van door die autoriteiten gegeven opdrachten.   
+2.  Bij toepassing van artikel 31 van de Oorlogswet voor Nederland is een verlener van de universele postdienst verplicht het militair gezag of een orgaan als bedoeld in het tweede lid van genoemd artikel alle medewerking te verlenen, daaronder begrepen het uitvoeren van door dat gezag of dat orgaan gegeven opdrachten.  
 
 ### Artikel  72  
 
@@ -801,11 +801,11 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet en verv
 
 ### Artikel  86  
 
-De [Machtigingswet Koninklijke PTT Nederland NV](../../../../wet/machtigingswet/koninklijke/ptt/nederland/nv/BWBR0004422/README.md) wordt ingetrokken.
+De Machtigingswet Koninklijke PTT Nederland NV wordt ingetrokken.
 
 ### Artikel  87  
 
-De [Postwet](../../../../wet/postwet/BWBR0004423/README.md) wordt ingetrokken.
+De Postwet wordt ingetrokken.
 
 ### Artikel  88  
 

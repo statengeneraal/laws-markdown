@@ -140,7 +140,7 @@ b. het verlenen van de nodige medewerking aan Onze Minister-President bij de voo
 
 a. dood of lichamelijk letsel;  
 
-b. een handelen in strijd met de [artikelen 286a](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [286c](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [286d](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [286e van het Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).  
+b. een handelen in strijd met de artikelen 286a, 286c, 286d en 286e van het Wetboek van Strafrecht BES.  
 
 c. het niet of onjuist verstrekken, het onzorgvuldig beheren of verwerken van gegevens betreffende gebruikers van de bedoelde diensten en van vaste verbindingen dan wel fouten in administratieve verrichtingen samenhangend met die gegevens.     
 2.  Bij algemene maatregel van bestuur worden bedragen vastgesteld waarboven de aansprakelijkheid, bedoeld in het eerste lid, zich niet uitstrekt, waarbij de hoogte van de bedragen verschillend kan zijn voor onder meer de aard van de gebeurtenis, de onderscheiden aan de houder van de concessie krachtens artikel 3, eerste lid, opgedragen diensten en de zorg voor vaste verbindingen.   
@@ -530,7 +530,7 @@ d. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestem
 
 e. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkelijke toestemming van de bewoner binnen te treden.     
 3.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel d, verschaft met behulp van de sterke arm.   
-4.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en [160, eerste lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
+4.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is Titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de taakuitoefening van de krachtens het eerste lid aangewezen personen.   
 6.  Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.  
 
@@ -555,7 +555,7 @@ c. aan de houder van de machtiging voor de inrichting een administratieve boete 
 ### Artikel  34  
 
 1.  Onze Minister kan een krachtens de artikelen 7, zesde lid, en 31 verschuldigde vergoeding en artikel 32 of artikel 33 opgelegde boete alsmede de overige kosten als bedoeld in laatstgenoemd artikel, verhoogd met de op de invordering vallende kosten, bij dwangbevel invorderen.   
-2.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) kan worden tenuitvoergelegd. De betekening van het dwangbevel geschiedt op kosten van de overtreder.   
+2.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het Wetboek van Burgerlijke Rechtsvordering BES kan worden tenuitvoergelegd. De betekening van het dwangbevel geschiedt op kosten van de overtreder.   
 3.  Gedurende een maand na betekening staat verzet tegen het dwangbevel open door dagvaarding van een openbaar lichaam.   
 4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van een openbaar lichaam kan de rechter de schorsing van de tenuitvoerlegging opheffen.  
 
@@ -591,7 +591,7 @@ c. het niet naleven van de verplichting bedoeld in artikel 33, derde lid.
 
 ### Artikel  36  
 
-Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde ambtenaren, belast de daartoe, op gezamenlijke voordracht van Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. 
+Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde ambtenaren, belast de daartoe, op gezamenlijke voordracht van Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. 
 
 ### Artikel  37  
 
@@ -665,8 +665,8 @@ c. de taken en bevoegdheden van een dergelijke raad ten aanzien van:
 
 ### Artikel  44b  
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.   
-2.  In afwijking van hoofdstuk VIII kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md). Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van hoofdstuk VIII toe te passen.  
+1.  Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de Telecommunicatiewet geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.   
+2.  In afwijking van hoofdstuk VIII kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt. Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van hoofdstuk VIII toe te passen.  
 3.  Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.  
 
 ### Artikel  44c  

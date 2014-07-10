@@ -13,15 +13,15 @@ Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:
 
 De normbedragen voor voorzieningen, als bedoeld in: 
 
-– [artikelen 34a](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md),  
+– artikelen 34a en 35 van de Wet werk en inkomen naar arbeidsvermogen,  
 
-– [artikelen 2:22](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),  
+– artikelen 2:22 en 2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten,  
 
-– [artikel 19a van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),  
+– artikel 19a van de Wet overige OCW-subsidies,  
 
-– [artikelen 3](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [5](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [6](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [7](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [13](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [14](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [15](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [15a](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [15b](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md) en [18 van het Reïntegratiebesluit](../../../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md),  
+– artikelen 3, 5, 6, 7, 13, 14, 15, 15a, 15b en 18 van het Reïntegratiebesluit,  
 
-– [artikelen 3](../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md), [5](../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md), [6](../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md), [7](../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md) en [8 van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](../../../../../../../AMvB/uitvoeringsbesluit/onderwijsvoorzieningen/voor/jongeren/met/een/handicap/BWBR0024869/README.md),   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit Besluit. 
+– artikelen 3, 5, 6, 7 en 8 van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap,   worden vastgesteld op de bedragen, genoemd in de bijlage bij dit Besluit. 
 
 ### Artikel   2  
 
@@ -33,15 +33,15 @@ In dit besluit wordt verstaan onder:
 
 –  *Normbedrag:* de maximale vergoeding die voor de verstrekking van een dienst of middel wordt betaald.  
 
-–  *Werknemer:* een werknemer in de zin van de [Wet Werk en Inkomen naar Arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+–  *Werknemer:* een werknemer in de zin van de Wet Werk en Inkomen naar Arbeidsvermogen.  
 
-–  *Werkgever:* een werkgever in de zin van de [Wet Werk en Inkomen naar Arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md):  
+–  *Werkgever:* een werkgever in de zin van de Wet Werk en Inkomen naar Arbeidsvermogen:  
 
-–  *Jonggehandicapte:* de natuurlijke persoon in de zin van [artikel 2.3](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3.2 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).  
+–  *Jonggehandicapte:* de natuurlijke persoon in de zin van artikel 2.3 of 3.2 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten.  
 
 –  *Startende zelfstandige:* de persoon die, anders dan in dienstbetrekking, arbeid in eigen beroep of bedrijf gaat verrichten of recentelijk is gaan verrichten, teneinde daarmee inkomen te verwerven.  
 
-–  *Personen die in aanmerking komen voor onderwijsvoorzieningen:* de personen die zijn omschreven in [artikel 19a lid 1 van de Wet Overige OCW Subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md).  
+–  *Personen die in aanmerking komen voor onderwijsvoorzieningen:* de personen die zijn omschreven in artikel 19a lid 1 van de Wet Overige OCW Subsidies.  
 
 –  *Structureel functionele beperkingen:* beperkingen ten gevolge van ziekten of gebreken die de gevraagde voorziening noodzakelijk maken en die naar verwachting tenminste een jaar tot belemmeringen bij het verrichten van inkomensvormende arbeid zullen leiden.  
 
@@ -178,7 +178,7 @@ Voorzitter Raad van Bestuur UWV.
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *ALGEMENE NORMBEDRAGEN*   | --- | --- |
 | --- |  *Drempelbedrag voorzieningen*   | --- | --- | --- | --- | --- |
-| B11  | Drempelbedrag waar beneden geen vergoeding wordt verleend.  | Voorzieningen die minder dan dit bedrag kosten, worden niet vergoed. Meerdere aangevraagde voorzieningen die ieder minder kosten dan het drempelbedrag kunnen worden opgeteld en vergoed.  | € 128,00  | € 129,00  | X  | X  |
+| B11  | Drempelbedrag waar beneden geen vergoeding wordt verleend.  | Voorzieningen die minder dan dit bedrag kosten, worden niet vergoed. Meerdere aangevraagde voorzieningen die ieder minder kosten dan het drempelbedrag kunnen worden opgeteld en vergoed.  | € 128,00  | € 128,–  | X  | X  |
 |  *(kostenbedrag inclusief BTW)*   | € 128,00 geldt vanaf 1-7-2013  | --- | --- |
 | --- | --- | --- |
 | --- |  *Referentieauto*   | --- | --- | --- | --- | --- |
@@ -206,7 +206,7 @@ Voorzitter Raad van Bestuur UWV.
 | C71  | Vergoeding reiskosten begeleider per jaar  | Jaarlijkse vergoeding als de arbeidsgehandicapte klant niet zelf kan reizen en de begeleider een deel niet samen kan reizen (bijv. de terugweg).  | € 833,00  | € 842,00  | X  | X  |
 |  *VOORZIENINGEN VOOR INTERMEDIAIRE DIENSTVERLENING*   | --- | --- |
 | E17-I  | Uurvergoeding geregistreerde tolk gebarentaal of schrijftolk *(bedrag exclusief BTW)*   | Registratie van tolk op www.stichtingrtg.nl  | € 51,48  | € 52,05  | X  | X  |
-| E17-III  | Uurvergoeding communicatieassistent en overige intermediaire dienstverlener *(bedrag exclusief BTW*   | Bedrag verhoogd naar € 19.05 op 1 juli 2013  | € 19,05  | € 19,15  | X  | X  |
+| E17-III  | Uurvergoeding communicatieassistent en overige intermediaire dienstverlener *(bedrag exclusief BTW*   | Bedrag verhoogd naar € 19.05 op 1 juli 2013  | € 19,05  | € 19,27  | X  | X  |
 | E17-A1  | Reisvergoeding geregistreerde doventolk per kilometer *(bedrag exclusief BTW)*   | --- | € 0,67  | € 0,68  | X  | X  |
 | E17-A3  | Reisvergoeding communicatieassistent en overige intermediaire dienstverlener per kilometer *(bedrag exclusief BTW*   | Inclusief vergoeding voor gereisde werktijd; reisvergoeding voor student-tolk is vervallen.  | € 0,30  | € 0,30  | X  | X  |
 |  *MEENEEMBARE VOORZIENINGEN *   | --- | --- |

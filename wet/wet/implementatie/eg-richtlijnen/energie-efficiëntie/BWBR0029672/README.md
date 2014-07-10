@@ -34,7 +34,7 @@ f.  *eindafnemer:* een natuurlijke persoon of rechtspersoon die energie koopt vo
 
 g.  *energiegerelateerd product:* een in de Europese Unie in de handel gebrachte of in gebruik genomen zaak die tijdens het gebruik een effect heeft op het energieverbruik, met inbegrip van onderdelen die bedoeld zijn om in onder deze wet vallende energiegerelateerde producten te worden ingebouwd en die ten behoeve van eindgebruikers in de handel worden gebracht of in gebruik worden genomen als losse onderdelen waarvan de milieuprestaties onafhankelijk kunnen worden beoordeeld;  
 
-h.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md).   
+h.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt.   
 
 ### §  2  
 
@@ -83,7 +83,7 @@ d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,  
 
 ### Artikel  5  
 
-Bij algemene maatregel van bestuur worden regels gesteld over de informatie die netbeheerders, leveranciers van of handelaren in energie met uitzondering van elektriciteit en gas als bedoeld in [artikel 1, onderdeel b, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md), verstrekken in of bij contracten, facturen of ontvangstbewijzen over energie, welke regels per energiesoort en per categorie eindafnemers kunnen verschillen. 
+Bij algemene maatregel van bestuur worden regels gesteld over de informatie die netbeheerders, leveranciers van of handelaren in energie met uitzondering van elektriciteit en gas als bedoeld in artikel 1, onderdeel b, van de Gaswet, verstrekken in of bij contracten, facturen of ontvangstbewijzen over energie, welke regels per energiesoort en per categorie eindafnemers kunnen verschillen. 
 
 ### §  5  
 
@@ -93,13 +93,13 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 De artikelen 2, eerste lid en tweede lid, onderdeel a, 3, 4 en 5 zijn van overeenkomstige toepassing ten aanzien van elektriciteit, gas en warmte, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *beheerder van een elektriciteitsnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel k, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+a.  *beheerder van een elektriciteitsnet:* de netbeheerder, bedoeld in artikel 1, onderdeel k, van de Elektriciteitswet 1998;  
 
-b.  *beheerder van een gasnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel e, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
+b.  *beheerder van een gasnet:* de netbeheerder, bedoeld in artikel 1, onderdeel e, van de Gaswet;  
 
-c. *eindafnemer van elektriciteit:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+c. *eindafnemer van elektriciteit:* een afnemer, niet zijnde een afnemer als bedoeld in artikel 95a, eerste lid, van de Elektriciteitswet 1998;  
 
-d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 43, eerste lid, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md); 
+d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in artikel 43, eerste lid, van de Gaswet; 
 
 e.  *eindafnemer van warmte:* een persoon die warmte afneemt van een warmtenet en een aansluiting heeft die groter is dan 100 kW.  
 
@@ -242,7 +242,7 @@ Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij
 
 ### Artikel  17a  
 
-Voor zover energiegerelateerde producten bij of krachtens [titel 9.4 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing. 
+Voor zover energiegerelateerde producten bij of krachtens titel 9.4 van de Wet milieubeheer voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing. 
 
 ### Artikel  18  
 
@@ -262,11 +262,11 @@ Voor zover energiegerelateerde producten bij of krachtens [titel 9.4 van de Wet 
 
 1. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde.  
 2.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet zij daarvan een rapport opmaken.   
-3.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+3.  Afdeling 5.4.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  22  
 
-De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000. 
+De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde of van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000. 
 
 ### Artikel  28  
 
@@ -288,7 +288,7 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 
 ### Artikel  32  
 
-Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderzocht energiegerelateerde product, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd. 
+Van elk krachtens artikel 5:18 van de Algemene wet bestuursrecht onderzocht energiegerelateerde product, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd. 
 
 ### Artikel  33  
 
@@ -348,29 +348,29 @@ Wijzigt deze wet.
 
 Na de inwerkingtreding van deze wet berust: 
 
-a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](../../../../../../AMvB/besluit/energie-efficiëntienormen/koel-/en/vriesapparatuur/BWBR0008756/README.md) op de artikelen 10, 13 en 18 van deze wet;  
+a. het Besluit energie-efficiëntienormen koel- en vriesapparatuur op de artikelen 10, 13 en 18 van deze wet;  
 
-b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](../../../../../../AMvB/besluit/energierendementseisen/voorschakelapparaten/voor/etc/BWBR0012851/README.md) op de artikelen 10, 13 en 18 van deze wet;  
+b. het Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen op de artikelen 10, 13 en 18 van deze wet;  
 
-c. het [Besluit Energy Star-etiketteringsprogramma](../../../../../../AMvB/besluit/energy/star-etiketteringsprogramma/BWBR0013503/README.md) op de artikelen 13 en 18 van deze wet;  
+c. het Besluit Energy Star-etiketteringsprogramma op de artikelen 13 en 18 van deze wet;  
 
-d. het [Besluit etikettering energiegebruik personenauto’s](../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) op artikel 13 van deze wet;  
+d. het Besluit etikettering energiegebruik personenauto’s op artikel 13 van deze wet;  
 
-e. het [Besluit gastoestellen](../../../../../../AMvB/besluit/gastoestellen/BWBR0005384/README.md) op de artikelen 10, 11, 12, 13, 14, 15 en 18 van deze wet;  
+e. het Besluit gastoestellen op de artikelen 10, 11, 12, 13, 14, 15 en 18 van deze wet;  
 
-f. het [Besluit rendementseisen cv-ketels](../../../../../../AMvB/besluit/rendementseisen/cv-ketels/BWBR0005828/README.md) op de artikelen 10, 13 en 18 van deze wet;  
+f. het Besluit rendementseisen cv-ketels op de artikelen 10, 13 en 18 van deze wet;  
 
-g. het [Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur](../../../../../../AMvB/kaderbesluit/etikettering/energiegebruik/huishoudelijke/apparatuur/BWBR0007551/README.md) op de artikelen 13 en 18 van deze wet.   
+g. het Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur op de artikelen 13 en 18 van deze wet.   
 
 ### Artikel  41  
 
-Indien [artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten)](../../../../../../wet/implementatiewet/eg-richtlijn/ecologisch/ontwerp/energieverbruikende/etc/BWBR0022654/README.md) (Kamerstukken II 2006/07, 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop artikel 10 van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt: 
+Indien artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten) (Kamerstukken II 2006/07, 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop artikel 10 van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt: 
 
-a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](../../../../../../AMvB/besluit/energie-efficiëntienormen/koel-/en/vriesapparatuur/BWBR0008756/README.md) op de artikelen 10, 13 en 18 van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. het Besluit energie-efficiëntienormen koel- en vriesapparatuur op de artikelen 10, 13 en 18 van deze wet en artikel 9.4.4, eerste lid, van de Wet milieubeheer;  
 
-b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](../../../../../../AMvB/besluit/energierendementseisen/voorschakelapparaten/voor/etc/BWBR0012851/README.md) op de artikelen 10, 13 en 18 van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+b. het Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen op de artikelen 10, 13 en 18 van deze wet en artikel 9.4.4, eerste lid, van de Wet milieubeheer;  
 
-c. het [Besluit rendementseisen cv-ketels](../../../../../../AMvB/besluit/rendementseisen/cv-ketels/BWBR0005828/README.md) op de artikelen 10, 13 en 18 van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+c. het Besluit rendementseisen cv-ketels op de artikelen 10, 13 en 18 van deze wet en artikel 9.4.4, eerste lid, van de Wet milieubeheer.   
 
 ### Artikel  43  
 
