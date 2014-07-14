@@ -6,6 +6,10 @@ What is this?
 
 This is a repository that tracks changes of Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book.
 
+**NOTE:** Please don't use this repository as an authoritative source of law. I have initialized this repository once and and only look at legislative that happen *after the last update*. This means that if the government service adds an old law to the law database that wasn't in there before, say with a 'last modified' date in 1969, the script not catch that. There is too much bookkeeping involved to detect whether this new expression has already been processed or not. Anyway, I view this repository more as an art project than anything else. 
+
+That said, some truly useful tools have come out of this, to wit the expression tracker in CouchDB and Markdown transformation.
+
 Why?
 ----
 
