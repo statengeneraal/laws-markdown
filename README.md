@@ -29,12 +29,11 @@ The legal standard [MetaLex](http://www.metalex.eu/) goes a long way as a framew
 
 If you need more convincing, watch the following TED talk by Clay Shirky:
 
-[**How the Internet will (one day) transform government:**](http://www.youtube.com/watch?feature=player_embedded&v=CEN4XNth61o)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CEN4XNth61o
+<center>
+[**How the Internet will (one day) transform government**](http://www.youtube.com/watch?feature=player_embedded&v=CEN4XNth61o)<br /><a href="http://www.youtube.com/watch?feature=player_embedded&v=CEN4XNth61o
 " target="_blank"><img src="https://img.youtube.com/vi/CEN4XNth61o/0.jpg" 
 alt="Clay Shirky: How the Internet will (one day) transform government" width="240" height="180" border="10" /></a>
-
+</center>
 
 How do I use this?
 ------------------
