@@ -6,6 +6,8 @@ What is this?
 
 This is a repository that tracks changes of Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book.
 
+**NOTE:** This is not an official source of law. Use at your own peril.
+
 Why?
 ----
 
@@ -40,7 +42,7 @@ How do I use this?
 
 Every law in this repository is tucked away in a folder structure that has been based on the kind of law, its shortest name, and its unique identifier. I have done this because I don't want to dump 30,000+ files in a single folder with opaque filenames, but rather give them a semantically charged path. I have made sure that the names are Windows-safe (e.g., less than 260 characters without illegal characters). Find the path to a certain BWB ID using the daily-generated [`index.json`](index.json), which contains metadata on the laws in the repository.
 
-Every commit that has a message formatted as `YYYY-MM-DD` is guaranteed to only contain the document changes corresponding to that date. Note that these changes are assumed to be a proxy for legislative changes, but also occur when additional metadata is added to a document (for instance, references are made explicit). Also, it is based on the 'date last modified' field provided by the government metadata. This modification date is not necessarily the date on which a change is actually *in effect*. Beware.
+Every commit that has a message formatted as `YYYY-MM-DD` is guaranteed to only contain the document changes corresponding to that date. Note that these dates are based on the 'date last modified' field provided by the  government CRM. They are assumed to be a proxy for legislative changes, but do not necessarily correspond to official legislative modifications (for instance, fixing a typo), or to the date on which a change is actually *in effect*. Beware.
 
 Every commit that has a message that reads `index YYYY-MM-DD` is guaranteed to contain only the update of the [index.json](index.json) file of that day.
 
