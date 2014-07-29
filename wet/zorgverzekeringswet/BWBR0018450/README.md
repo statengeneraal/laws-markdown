@@ -276,23 +276,6 @@ b. de inhoud en omvang van de prestaties bestaande uit zorg als bedoeld in artik
 c. nadere regels kunnen worden gesteld over het deel van de kosten dat voor rekening van de verzekerde komt.   
 5.  Een zorgverzekeraar kan modelovereenkomsten aanbieden waarin, in geringe afwijking van het bepaalde bij of krachtens het eerste en derde lid, bepaalde om ethische of levensbeschouwelijke redenen controversiële prestaties buiten de dekking van de zorgverzekering blijven.  
 
-### Artikel  11a  
-
-1.  Een verzekerde heeft recht op een door het CAK te verstrekken, van de draagkracht afhankelijke tegemoetkoming voor een kalenderjaar in de kosten voor zorg zoals psychiaters of klinisch psychologen die plegen te bieden, die op grond van artikel 11, derde lid, in dat jaar voor zijn rekening zijn gekomen.   
-2.  De tegemoetkoming is gelijk aan het bedrag dat op grond van artikel 11, derde lid, voor zorg als bedoeld in het eerste lid, voor rekening van de verzekerde is gekomen.   
-3.  Het CAK neemt het burgerservicenummer van de personen, bedoeld in het eerste lid, en van hun partners, met het oog op de uitvoering van dit artikel in zijn administratie op.   
-4.  De zorgverzekeraars verstrekken aan het CAK de persoonsgegevens van de personen, bedoeld in het eerste lid, waaronder het burgerservicenummer, de geboortedatum, het rekeningnummer, de woonplaats en gegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn ter uitvoering van dit artikel.   
-5.  Het CAK verstrekt voor de uitvoering van dit artikel aan de inspecteur, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen het burgerservicenummer van de personen, bedoeld in het eerste lid, en van hun partner.   
-6.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot: 
-
-a. het tijdstip van vaststelling en verstrekking van de tegemoetkoming;  
-
-b. het inkomen waarboven geen recht bestaat op de tegemoetkoming, en  
-
-c. het in aanmerking te nemen inkomen en de in aanmerking te nemen partner, waarbij kan worden afgeweken van hoofdstuk 1 van de Algemene wet inkomensafhankelijke regelingen.     
-7.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verstrekking van persoonsgegevens, bedoeld in het vierde lid, en de verwerking van persoonsgegevens door het CAK.   
-8.  Onze Minister kan aan zorgverzekeraars voor het verstrekken van de persoonsgegevens, bedoeld in het vierde lid, een vergoeding verstrekken waarvan de hoogte bij ministeriële regeling wordt bepaald.  
-
 ### Artikel  12  
 
 1.  Bij algemene maatregel van bestuur kunnen ter bescherming van het algemeen belang vormen van zorg of overige diensten worden aangewezen die de zorgverzekeraar slechts verstrekt of vergoedt indien tussen hem en de aanbieder van de desbetreffende zorg of dienst een overeenkomst over de te leveren zorg of dienst en de daarvoor in rekening te brengen prijs is gesloten, dan wel indien de aanbieder bij hem in dienst is.   
@@ -722,7 +705,7 @@ d. uitgaven in verband met molest als bedoeld in artikel 55, inclusief vergoedin
 
 e. de uitgaven die in verband met deze wet voortvloeien uit internationale overeenkomsten;  
 
-f.tegemoetkomingen als bedoeld in artikel 11a en uitkeringen als bedoeld in artikel 118a;
+f.uitkeringen als bedoeld in artikel 118a;
 
 g. bedragen als bedoeld in artikel 56a van de Wet marktordening gezondheidszorg; 
 
@@ -847,7 +830,7 @@ Bij regeling van Onze Minister en Onze Minister van Financiën worden regels ges
 
 Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën en Onze Minister van Sociale Zaken en Werkgelegenheid, kunnen nadere regels worden gesteld met betrekking tot deze paragraaf. 
 
-###Paragraaf 5.4 
+### Paragraaf  5.4  
 
 ####De rijksbijdragen aan het Zorgverzekeringsfonds
 
@@ -856,6 +839,14 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 1.  Onze Minister verleent jaarlijks aan het Zorgverzekeringsfonds een bijdrage in de financiering van de zorgverzekering voor verzekerden jonger dan achttien jaar.   
 2.  De bijdrage is gelijk aan het bedrag dat daarvoor in de wet tot vaststelling van de begroting van zijn ministerie voor dat jaar is toegestaan.   
 3.  De bijdrage wordt betaald in gelijke maandelijkse delen.  
+
+### Artikel  54a  
+Treedt in werking per 01-01-2015 
+
+1.  Onze Minister verleent over de kalenderjaren 2015 tot en met 2018 aan het Zorgverzekeringsfonds een bijdrage in de financiering van de verzekeringsdekking van zorg die tot 1 januari 2015 op grond van de Algemene Wet Bijzondere Ziektekosten verzekerd was.   
+2.  De bijdrage voor het jaar 2015 is gelijk aan het bedrag dat daarvoor in de wet tot vaststelling van de begroting van zijn ministerie voor dat jaar is toegestaan, en de bijdragen voor de jaren 2016, 2017 en 2018 bedragen respectievelijk 75, 50 en 25% van de bijdrage voor het jaar 2015.   
+3.  De bijdrage wordt betaald in gelijke maandelijkse delen.   
+4.  Dit artikel en artikel 39, tweede lid, onderdeel bb, vervallen met ingang van 1 januari 2019.  
 
 ### Artikel  55  
 
@@ -1261,7 +1252,7 @@ Een ieder die uit hoofde van de toepassing van artikel 45 van de Wet marktordeni
 
 a.met meerjarige, onvermijdbare zorgkosten, of
 
-b.die in een instelling als bedoeld in de Algemene Wet Bijzondere Ziektekosten verblijven,hebben, indien zij behoren tot bij of krachtens algemene maatregel van bestuur aan te wijzen groepen, jegens het CAK voor het einde van het kalenderjaar recht op een jaarlijkse uitkering ter hoogte van het bedrag genoemd in artikel 19, eerste lid, verminderd met het geraamde gemiddelde bedrag dat een verzekerde die geen recht heeft op de in dit lid bedoelde uitkering naar verwachting in dat kalenderjaar ingevolge artikel 19 betaalt, en met een bedrag van € 54. 
+b.die in een instelling als bedoeld in de Algemene Wet Bijzondere Ziektekosten verblijven,hebben, indien zij behoren tot bij of krachtens algemene maatregel van bestuur aan te wijzen groepen, in het kalenderjaar recht op een jaarlijkse uitkering ter hoogte van het bedrag genoemd in artikel 19, eerste lid, verminderd met het geraamde gemiddelde bedrag dat een verzekerde die geen recht heeft op de in dit lid bedoelde uitkering naar verwachting in dat kalenderjaar ingevolge artikel 19 betaalt, en met een bedrag van € 54. 
 2. Vervallen. 
 3. Zorgverzekeraars verstrekken aan het CAK de persoonsgegevens van de personen bedoeld in het eerste lid, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn ter uitvoering van het eerste lid.
 4. Bij ministeriële regeling kan worden bepaald:
@@ -1274,7 +1265,10 @@ c.volgens welke technische standaarden gegevensverwerking plaatsvindt;
 
 d.aan welke beveiligingseisen gegevensverwerking voldoet;
 
-e.in welke gevallen gegevens, bedoeld in het derde lid, verder worden verwerkt met het oog op de uitvoering van het uitkeren van het bedrag, bedoeld in het eerste lid.
+e.in welke gevallen gegevens, bedoeld in het derde lid, verder worden verwerkt met het oog op de uitvoering van het uitkeren van het bedrag, bedoeld in het eerste lid. 
+5.  Er bestaat in afwijking van het eerste lid, met betrekking tot een kalenderjaar dat na 31 december 2013 aanvangt, geen recht op de uitkering, bedoeld in dat lid.   
+6.  Het CAK stelt het recht op de uitkering, bedoeld in het eerste lid, in het kalenderjaar waarop die uitkering betrekking heeft, ambtshalve vast, dan wel indien pas na dat kalenderjaar blijkt dat een persoon rechthebbende is, uiterlijk voor het einde van het kalenderjaar volgend op het kalenderjaar waarop de uitkering betrekking heeft.   
+7.  Het CAK kan op aanvraag uitsluitend binnen de termijn, bedoeld in het zesde lid, een uitkering als bedoeld in het eerste lid verlenen. 
 
 ### Artikel  119  
 
