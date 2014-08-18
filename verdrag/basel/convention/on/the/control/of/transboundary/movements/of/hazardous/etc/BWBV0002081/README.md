@@ -972,6 +972,8 @@ B1010Metal and metal-alloy wastes in metallic, non-dispersible form:
 
 *Rare earth scrap 
 
+*chromium scrap
+
 B1020Clean, uncontaminated metal scrap, including alloys, in bulk finished form (sheet, plate, beams, rods, etc), of:
 
 *Antimony scrap 
@@ -987,6 +989,8 @@ B1020Clean, uncontaminated metal scrap, including alloys, in bulk finished form 
 *Tellurium scrap 
 
 B1030Refractory metals containing residues 
+
+B1031Molybdenum, tungsten, titanium, tantalum, niobium and rhenium metal and metal alloy wastes in metallic dispersible form (metal powder), excluding such wastes as specified in list A under entry A1050, Galvanic sludges
 
 B1040Scrap assemblies from electrical power generation not contaminated with lubricating oil, PCB or PCT to an extent to render them hazardous 
 
@@ -1034,12 +1038,12 @@ B1110Electrical and electronic assemblies:
 
 *Electrical and electronic assemblies (including printed circuit boards, electronic components and wires) destined for direct reuse,<sup>2)Reuse can include repair, refurbishment or upgrading, but not major reassembly.</sup>and not for recycling or final disposal<sup>3)In some countries these materials destined for direct re-use are not considered wastes.</sup>
 
-B 1115Waste metal cables coated or insulated with plastics, not included in list A A1190, excluding those destined for Annex IVA operations or any other disposal operations involving, at any stage, uncontrolled thermal processes, such as open-burning.
+B1115Waste metal cables coated or insulated with plastics, not included in list A A1190, excluding those destined for Annex IVA operations or any other disposal operations involving, at any stage, uncontrolled thermal processes, such as open-burning.
 
 B1120Spent catalysts excluding liquids used as catalysts, containing any of: 
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 |Transition metals, excluding waste catalysts (spent catalysts, liquid used catalysts or other catalysts) on list A: |Scancium Vanadium Manganese Cobalt Copper Yttrium Niobium Hafnium Tungsten |Titanium Chromium Iron Nickel Zinc Zirconium Molybdenum Tantalum Rhenium |
 |Lanthanides (rare earth metals): |Lanthanum Praseodymium Samarium Gadolinium Dysprosium Erbium Ytterbium |Cerium Neodymium Europium Terbium Holmium Thulium Lutetium |
 
@@ -1066,13 +1070,15 @@ B1220Slag from zinc production, chemically stabilized, having a high iron conten
 B1230Mill scaling arising from the manufacture of iron and steel 
 
 B1240Copper oxide mill-scale
+
+B1250Waste end-of-life motor vehicles, containing neither liquids nor other hazardous components
 ###B2 Wastes containing principally inorganic constituents, which may contain metals and organic materials
 
 B2010 Wastes from mining operations in non-dispersible form:
 
 *Natural graphite waste 
 
-*Slate waste, whether or not roughly trimmed or merely cut, by sawing or otherwise 
+*Slate waste, whether or not roughly trimmed or merely cut, by sawing or otherwise • Mica waste 
 
 *Mica waste
 
@@ -1116,7 +1122,7 @@ B2040Other wastes containing principally inorganic constituents:
 
 B2050Coal-fired power plant fly-ash, not included on list A (note the related entry on list A A2060)
 
-B2060Spent activated caron resulting from the treatment of potable water and processes of the food industry and vitamin production (note the related entry on list A A4160) 
+B2060Spent activated carbon not containing any Annex I constituents to the extent that they exhibit Annex III characteristics, for example, carbon resulting from the treatment of potable water and processes of the food industry and vitamin production (note the related entry on list AA4160) 
 
 B2070Calcium fluoride sludge 
 
@@ -1129,6 +1135,8 @@ B2100Waste hydrates of aluminium and waste alumina and residues from alumina pro
 B2110Bauxite residue (“red mud”) (pH moderated to less than 11.5) 
 
 B2120Waste acidic or basic solutions with a pH greater than 2 and less than 11.5, which are not corrosive or otherwise hazardous (note the related entry on list A A4090)
+
+B2130Bituminous material (asphalt waste) from road construction and maintenance, not containing tar<sup>a</sup><sup>a)The concentration level of Benzol[a]pyrene should not be 50 mg/kg or more.</sup> (note the related entry on list A-A3200)
 ###B3 Wastes containing principally organic constituents, which may contain metals and inorganic materials
 
 B3010Solid plastic waste: The following plastic or mixed plastic materials, provided they are not mixed with other wastes and are prepared to a specification: 
@@ -1193,7 +1201,11 @@ B3010Solid plastic waste: The following plastic or mixed plastic materials, prov
 
 – perfluoroethylene/propylene (FEP) 
 
-– perfluoroalkoxy alkane (PFA) 
+– Perfluoro alkoxyl alkane 
+
+>Tetrafluoroethylene/per fluoro vinyl ether (PFA)
+
+>Tetrafluoroethylene/per fluoro methylvinyl ether (MFA)
 
 – perfluoroalkoxy alkane (MFA) 
 
@@ -1209,7 +1221,17 @@ B3020Paper, paperboard and paper product wastes The following materials, provide
 
 *paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter)
 
-*other, including but not limited to 1) laminated paperboard 2) unsorted scrap. 
+*other, including but not limited to 1) laminated paperboard 2) unsorted scrap.
+
+B3025Composite packaging waste consisting of mainly paper and some plastic [and aluminium], not containing residues and not containing Annex I materials in concentrations sufficient to exhibit Annex III characteristics
+
+B3026The following waste from the pre-treatment of composite packaging for liquids, not containing Annex I materials in concentrations sufficient to exhibit Annex III characteristics:
+
+– Non-separable plastic fraction  
+
+– Non-separable plastic-aluminium fraction  
+
+B3027Self-adhesive label laminate waste containing raw materials used in label material production
 
 B3030Textile wastes The following materials, provided they are not mixed with other wastes and are prepared to a specification:
 
@@ -1263,6 +1285,8 @@ B3030Textile wastes The following materials, provided they are not mixed with ot
 
 – other 
 
+B3035Waste textile floor coverings, carpets
+
 B3040Rubber wastes The following materials, provided they are not mixed with other wastes: 
 
 *Waste and scrap of hard rubber (e.g., ebonite) 
@@ -1290,6 +1314,8 @@ B3060Wastes arising from agro-food industrie provided it is not infectious:
 *Cocoa shells, husks, skins and other cocoa waste 
 
 *Other wastes from the agro-food industry excluding by-products which meet national and international requirements and standards for human or animal consumption
+
+B3065Waste edible fats and oils of animal or vegetable origin (e.g, frying oils), provided they do not exhibit an Annex III characteristic
 
 B3070The following wastes: 
 
@@ -2362,7 +2388,7 @@ B 1115Resten van metalen kabels bekleed of geïsoleerd met kunststoffen die niet
 B1120Gebruikte katalysatoren, met uitzondering van vloeistoffen die als katalysator worden gebruikt, die een van de volgende stoffen bevatten: 
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 |Overgangsmetalen, met uitzondering van afvalstoffen afkomstig van katalysatoren (gebruikte katalysatoren, vloeibare gebruikte katalysatoren of andere katalysatoren) die zijn opgenomen in Lijst A: |scandium vanadium mangaan kobalt koper yttrium niobium hafnium wolfraam |titaan chroom ijzer nikkel zink zirkonium molybdeen tantaal rhenium tag |
 |Lanthaniden (zeldzame aardmetalen): |lanthaan praseodymium samarium gadolinium dysprosium erbium ytterbium |cerium neodymium europium terbium holmium thulium lutetium |
 
@@ -2537,6 +2563,14 @@ B3020Afval van papier, karton en papierproducten De volgende stoffen, mits deze 
 *papier of karton hoofdzakelijk vervaardigd van houtslijp (bijvoorbeeld kranten, tijdschriften en soortgelijk drukwerk) 
 
 *andere, omvattende doch niet beperkt tot 1) gecacheerd karton 2) niet-gesorteerde restanten 
+
+B3026De volgende afvalstoffen afkomstig van de voorbehandeling van samengestelde verpakkingen voor vloeistoffen, die niet zodanige concentraties van in Bijlage I genoemde stoffen bevatten dat zij in Bijlage III genoemde eigenschappen bezitten:
+
+– niet-scheidbare kunststoffractie  
+
+– niet-scheidbare kunststof-aluminiumfractie 
+
+B3027Afvalstoffen van laminaat voor zelfklevende etiketten die grondstoffen bevatten die gebruikt worden bij de productie van etiketteringsmateriaal
 
 B3030Afval van textielstoffen De volgende stoffen, mits deze niet zijn gemengd met andere afvalstoffen en mits zij zijn samengesteld om aan een gedetailleerde beschrijving te voldoen: 
 

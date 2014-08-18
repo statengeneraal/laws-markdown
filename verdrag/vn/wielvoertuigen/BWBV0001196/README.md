@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-## Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen. 
+## Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen
 
 ####Agreement concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions. <sup>1) Former title of the Agreement: Agreement Concerning the Adoption of Uniform Conditions of Approval for Motor Vehicle Equipment and Parts, done at Geneva on 20 March 1958. </sup>
 
