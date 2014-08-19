@@ -3,7 +3,7 @@
 ##Verordening accountantsorganisaties
 
 De ledenvergadering van het Nederlands Instituut van Registeraccountants,  
-Gelet op [artikel 19, vierde lid, van de Wet op de Registeraccountants](../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md),
+Gelet op artikel 19, vierde lid, van de Wet op de Registeraccountants,
 
 Stelt de volgende verordening vast.
 
@@ -15,17 +15,17 @@ Stelt de volgende verordening vast.
 
 In deze verordening wordt verstaan onder: 
 
-a.accountantsorganisatie: onderneming of instelling die bedrijfsmatig wettelijke controles verricht, dan wel een organisatie waarin zodanige ondernemingen of instellingen met elkaar zijn verbonden, als bedoeld in [artikel 1, eerste lid, onderdeel a, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), waaraan een vergunning als bedoeld in [artikel 5 van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), is verleend, uitsluitend ter zake van de werkingssfeer van de [wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);
+a.accountantsorganisatie: onderneming of instelling die bedrijfsmatig wettelijke controles verricht, dan wel een organisatie waarin zodanige ondernemingen of instellingen met elkaar zijn verbonden, als bedoeld in artikel 1, eerste lid, onderdeel a, van de wet, waaraan een vergunning als bedoeld in artikel 5 van de wet, is verleend, uitsluitend ter zake van de werkingssfeer van de wet;
 
-b.besluit: [Besluit toezicht accountantsorganisaties](../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md);
+b.besluit: Besluit toezicht accountantsorganisaties;
 
 c.bestuur: bestuur van het Nederlands Instituut van Registeraccountants;
 
-d.compliance officer: persoon als bedoeld in [artikel 23, eerste lid, van het besluit](../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md);
+d.compliance officer: persoon als bedoeld in artikel 23, eerste lid, van het besluit;
 
-e. controlecliënt: onderneming of instelling als bedoeld in [artikel 1, eerste lid, onderdeel e, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md); 
+e. controlecliënt: onderneming of instelling als bedoeld in artikel 1, eerste lid, onderdeel e, van de wet; 
 
-f. externe accountant: persoon als bedoeld in [artikel 1, eerste lid, onderdeel f, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
+f. externe accountant: persoon als bedoeld in artikel 1, eerste lid, onderdeel f, van de wet;  
 
 g.financieel belang: een financieel belang in een controlecliënt, gehouden door een persoon die zich in de positie bevindt van waaruit hij invloed kan uitoefenen op de uitkomsten van de wettelijke controle bij die controlecliënt;
 
@@ -35,15 +35,15 @@ i.indirect financieel belang: een financieel belang in een entiteit, ongeacht of
 
 j.intern kwaliteitsonderzoek: procedures opgezet door de accountantsorganisatie gericht op het vaststellen dat afgeronde wettelijke controles voldoen aan de daaraan gestelde eisen;
 
-k. medewerker: medewerker als bedoeld in [artikel 1 van het besluit](../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md); 
+k. medewerker: medewerker als bedoeld in artikel 1 van het besluit; 
 
 l.naaste verwant: een niet-financieel afhankelijke eerste- of tweedegraadsbloedverwant of aanverwant of stiefkind;
 
-m. netwerk: samenwerkingsverband als bedoeld in [artikel 1, eerste lid, onderdeel j, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md); 
+m. netwerk: samenwerkingsverband als bedoeld in artikel 1, eerste lid, onderdeel j, van de wet; 
 
 n.onafhankelijkheidsfunctionaris: persoon belast met de uitvoering van de onafhankelijkheidsregeling, bedoeld in artikel 20, eerste lid;
 
-o. organisatie van openbaar belang: organisatie als bedoeld in [artikel 1, eerste lid, onderdeel l, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md); 
+o. organisatie van openbaar belang: organisatie als bedoeld in artikel 1, eerste lid, onderdeel l, van de wet; 
 
 p.persoon die deel uitmaakt van de hiërarchische structuur: een persoon die binnen de accountantsorganisatie een toezichthoudende of leidinggevende functie heeft ten aanzien van de uitvoering van een wettelijke controle of de persoon die de evaluatie van de prestatie van een bij de wettelijke controle betrokken medewerker voorbereidt, beoordeelt of hierop directe invloed uitoefent of anderszins de beloning van deze medewerker vaststelt;
 
@@ -51,9 +51,9 @@ q.verbonden derde: natuurlijk of rechtspersoon die feitelijk beleidsbepalend is 
 
 r.vestiging: een onderdeel van een accountantsorganisatie of van haar netwerk dat wordt onderscheiden op basis van vastgelegde geografische criteria of op grond van vastgelegde criteria die betrekking hebben op de aard van de werkzaamheden en activiteiten en waarbinnen een externe accountant hoofdzakelijk werkzaam is;
 
-s.wet: [Wet toezicht accountantsorganisaties](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);
+s.wet: Wet toezicht accountantsorganisaties;
 
-t. wettelijke controle: controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md). 
+t. wettelijke controle: controle als bedoeld in artikel 1, eerste lid, onderdeel p, van de wet. 
 
 ###Hoofdstuk  2 
 
@@ -107,7 +107,7 @@ c.voldoende gezag hebben.
 ###Artikel 5 
 
 1. De accountantsorganisatie zorgt ervoor dat zij over voldoende medewerkers beschikt om de aan de accountantsorganisatie verleende opdrachten tot het verrichten van een wettelijke controle uit te voeren in overeenstemming met de daarvoor geldende wet- en regelgeving.
-2. De accountantsorganisatie zorgt ervoor dat de in het eerste lid bedoelde medewerkers beschikken over de vereiste capaciteiten en zich houden aan het bepaalde in de [Verordening gedragscode](../../../../pbo/verordening/gedragscode/BWBR0026512/README.md).
+2. De accountantsorganisatie zorgt ervoor dat de in het eerste lid bedoelde medewerkers beschikken over de vereiste capaciteiten en zich houden aan het bepaalde in de Verordening gedragscode.
 
 ###Artikel 6 
 
@@ -136,7 +136,7 @@ c.de taken en bevoegdheden van de aangewezen externe accountant met hem worden b
 ###Artikel 8 
 
 1. De accountantsorganisatie die wettelijke controles verricht bij organisaties van openbaar belang stelt een complianceregeling vast.
-2. De complianceregeling beschrijft op welke wijze de compliance officer toeziet op de naleving van de bij of krachtens de [artikelen 13 tot en met 24 van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) gestelde regels.
+2. De complianceregeling beschrijft op welke wijze de compliance officer toeziet op de naleving van de bij of krachtens de artikelen 13 tot en met 24 van de wet gestelde regels.
 
 ###Artikel 9 
 
@@ -144,7 +144,7 @@ De accountantsorganisatie stelt regels vast ter zake van de uitvoering van perio
 
 ###Artikel 10 
 
-1. De accountantsorganisatie maakt ten minste eenmaal per jaar de uitkomsten van de in [artikel 22, tweede lid, van het besluit](../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md) bedoelde evaluatie bekend aan de bij haar werkzame of aan haar verbonden externe accountants en aan de overige medewerkers waarvoor deze informatie relevant is, teneinde deze personen in staat te stellen de geëigende acties te ondernemen.
+1. De accountantsorganisatie maakt ten minste eenmaal per jaar de uitkomsten van de in artikel 22, tweede lid, van het besluit bedoelde evaluatie bekend aan de bij haar werkzame of aan haar verbonden externe accountants en aan de overige medewerkers waarvoor deze informatie relevant is, teneinde deze personen in staat te stellen de geëigende acties te ondernemen.
 2. De bekendmaking omvat ten minste:
 
 a.een beschrijving van het uitgevoerde periodiek intern kwaliteitsonderzoek, bedoeld in artikel 9;
@@ -217,7 +217,7 @@ De accountantsorganisatie treft zodanige voorzieningen dat in geval van het over
 
 ###Artikel 15 
 
-De meerderheid van de stemrechten in een accountantsorganisatie is middellijk of onmiddellijk in het bezit van registeraccountants of Accountants-Administratieconsulenten ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van de Wet op de Accountants-Administratieconsulenten](../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md).
+De meerderheid van de stemrechten in een accountantsorganisatie is middellijk of onmiddellijk in het bezit van registeraccountants of Accountants-Administratieconsulenten ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in artikel 36, derde lid, van de Wet op de Accountants-Administratieconsulenten.
 
 ###Artikel 16 
 
@@ -225,10 +225,10 @@ De meerderheid van de stemrechten in een accountantsorganisatie is middellijk of
 
 a. zich periodiek scholen en trainen in de toepassing van de regelgeving inzake onafhankelijkheid en de daarop betrekking hebbende interne regels van de accountantsorganisatie; 
 
-b. tijdig aan de accountantsorganisatie de bij of krachtens de [wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) of de verordening vereiste informatie verstrekken met betrekking tot de voorgenomen aanvaarding en continuering van een opdracht tot het verrichten van een wettelijke controle en met betrekking tot de voorgenomen aanvaarding van een opdracht tot het verrichten van overige diensten aan een controlecliënt; 
+b. tijdig aan de accountantsorganisatie de bij of krachtens de wet of de verordening vereiste informatie verstrekken met betrekking tot de voorgenomen aanvaarding en continuering van een opdracht tot het verrichten van een wettelijke controle en met betrekking tot de voorgenomen aanvaarding van een opdracht tot het verrichten van overige diensten aan een controlecliënt; 
 
 c. de accountantsorganisatie onmiddellijk inlichten over omstandigheden en betrekkingen ter zake van een bij een controlecliënt uitgevoerde wettelijke controle die leiden tot een bedreiging voor de onafhankelijkheid van de accountantsorganisatie. 
-2. De accountantsorganisatie maakt de haar ter beschikking gestelde informatie, bedoeld in het eerste lid, onderdelen b en c, tijdig aan haar medewerkers bekend, voor zover de informatie voor de naleving van de bij of krachtens de [wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) of de verordening gestelde regels van belang is.
+2. De accountantsorganisatie maakt de haar ter beschikking gestelde informatie, bedoeld in het eerste lid, onderdelen b en c, tijdig aan haar medewerkers bekend, voor zover de informatie voor de naleving van de bij of krachtens de wet of de verordening gestelde regels van belang is.
 
 ###Artikel 17 
 
@@ -242,7 +242,7 @@ b.een externe accountant die niet is betrokken bij de desbetreffende controlecli
 
 c.een daartoe geëigende commissie of afdeling binnen de accountantsorganisatie;
 
-d.een in [artikel 1 van de Verordening kwaliteitstoetsing accountants](../../../../pbo/verordening/op/de/kwaliteitstoetsing/BWBR0014487/README.md) bedoelde koepelorganisatie; of
+d.een in artikel 1 van de Verordening kwaliteitstoetsing accountants bedoelde koepelorganisatie; of
 
 e.het Nederlands Instituut van Registeraccountants.
 4. De accountantsorganisatie beschrijft in welke omstandigheden, op welk tijdstip en op welke wijze het leidinggevende orgaan van de controlecliënt en, indien aanwezig, het toezichthoudende orgaan van de controlecliënt worden geraadpleegd.
@@ -261,7 +261,7 @@ b.de per boekjaar bij deze controlecliënt in rekening gebrachte vergoedingen vo
 
 ###Artikel 19 
 
-De accountantsorganisatie maakt de bij of krachtens de [wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en de [Wet op de Registeraccountants](../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) vigerende regels inzake onafhankelijkheid bekend aan haar medewerkers en aan anderen die aan deze regels zijn onderworpen.
+De accountantsorganisatie maakt de bij of krachtens de wet en de Wet op de Registeraccountants vigerende regels inzake onafhankelijkheid bekend aan haar medewerkers en aan anderen die aan deze regels zijn onderworpen.
 
 ###Artikel 20 
 
@@ -399,7 +399,7 @@ c.er niet langer sprake is van een dreigend geschil maar van een aangekondigd ge
 
 ###Artikel 31 
 
-De accountantsorganisatie maakt de bij of krachtens de [Wet op de Registeraccountants](../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) gestelde regels ter zake van de integere bedrijfsvoering bekend aan haar medewerkers.
+De accountantsorganisatie maakt de bij of krachtens de Wet op de Registeraccountants gestelde regels ter zake van de integere bedrijfsvoering bekend aan haar medewerkers.
 
 ###Artikel 32 
 
@@ -410,9 +410,9 @@ De accountantsorganisatie maakt de bij of krachtens de [Wet op de Registeraccoun
 
 De personen die het dagelijks beleid van de accountantsorganisatie bepalen zorgen ervoor dat vanaf het moment dat de accountantsorganisatie ophoudt te bestaan:
 
-a.de gegevens die de accountantsorganisatie op grond van het bepaalde bij of krachtens de [wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), het [besluit](../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md) of deze verordening moet bewaren, bewaard blijven gedurende de in die regelingen voorgeschreven periode;
+a.de gegevens die de accountantsorganisatie op grond van het bepaalde bij of krachtens de wet, het besluit of deze verordening moet bewaren, bewaard blijven gedurende de in die regelingen voorgeschreven periode;
 
-b.de vertrouwelijkheid van de in [artikelen 20](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [26, eerste lid, van de wet](../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) bedoelde gegevens gewaarborgd blijft.
+b.de vertrouwelijkheid van de in artikelen 20 en 26, eerste lid, van de wet bedoelde gegevens gewaarborgd blijft.
 
 ###Hoofdstuk  5 
 

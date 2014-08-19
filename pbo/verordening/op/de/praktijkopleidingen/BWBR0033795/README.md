@@ -3,7 +3,7 @@
 ##Verordening op de praktijkopleidingen
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), [19, tweede lid, aanhef en onderdeel j](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), [47](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), [48](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [49 van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op de artikelen 5, eerste lid, 19, tweede lid, aanhef en onderdeel j, 47, 48 en 49 van de Wet op het accountantsberoep;
 Stelt de volgende verordening vast:     
 ### Hoofdstuk  1  
 
@@ -13,11 +13,11 @@ Stelt de volgende verordening vast:
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder: 
 
-–  *accountant:* een accountant als bedoeld in [artikel 1 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountant:* een accountant als bedoeld in artikel 1 van de wet;  
 
-–  *accountantsregister:* het accountantsregister, bedoeld in [artikel 36, eerste lid, van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountantsregister:* het accountantsregister, bedoeld in artikel 36, eerste lid, van de wet;  
 
-–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2, eerste lid van de wet;  
 
 –  *bestuur:* het bestuur van de beroepsorganisatie;  
 
@@ -29,7 +29,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 –  *trainee:* een natuurlijk persoon welke de praktijkopleiding AA of de praktijkopleiding RA volgt;  
 
-–  *wet:* de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+–  *wet:* de Wet op het accountantsberoep.   
 
 ### Hoofdstuk  2  
 
@@ -105,7 +105,7 @@ c. voldoen aan door het bestuur bij nadere voorschriften te stellen eisen.
 
 Het bestuur laat tot de praktijkopleiding AA toe, degene die: 
 
-a. beschikt over een getuigschrift van een opleiding, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+a. beschikt over een getuigschrift van een opleiding, die voldoet aan de eindtermen, bedoeld in artikel 49, tweede lid, aanhef en onderdeel a van de wet;  
 
 b. de voltooiing van de opleiding, bedoeld in onderdeel a voldoende is genaderd, waarbij hij of zij ten minste de examens in de grondslagen van de kernvakgebieden Audit en Assurance, Externe Verslaggeving en Bestuurlijke Informatieverzorging heeft behaald, of daarvan is vrijgesteld; of  
 
@@ -119,7 +119,7 @@ c. beschikt over een in een ander land verkregen diploma of soortgelijk bewijsst
 
 Het bestuur laat tot de praktijkopleiding RA toe, degene die: 
 
-a. toelaatbaar is tot een postinitiële opleiding tot accountant, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md); of  
+a. toelaatbaar is tot een postinitiële opleiding tot accountant, die voldoet aan de eindtermen, bedoeld in artikel 49, tweede lid, aanhef en onderdeel a van de wet; of  
 
 b. toelaatbaar is tot een universitair masterprogramma, dat toegang geeft tot een opleiding als bedoeld in onderdeel a, dan wel tot een universitair masterprogramma op het gebied van accountancy, mits hij of zij ten minste de examens in de grondslagen van de kernvakgebieden Audit en Assurance, Externe Verslaggeving en Bestuurlijke Informatieverzorging heeft behaald of daarvan is vrijgesteld.   
 
@@ -142,9 +142,8 @@ b. het met goed gevolg afleggen van één of meer aanvullende toetsen.
 
 ### Artikel  11  
 
-1.  De praktijkopleiding AA duurt ten hoogste vijf jaren en duurt rekening houdend met onderbrekingen, niet meer dan negen jaren.   
-2.  Aan de voortzetting van de praktijkopleiding AA, na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.   
-3.  De trainee welke de praktijkopleiding AA volgt, besteedt aan voor de praktijkopleiding relevante werkzaamheden ten minste drieduizend uren.  
+1.  Aan de voortzetting van de praktijkopleiding AA, na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.   
+2.  De trainee welke de praktijkopleiding AA volgt, besteedt aan voor de praktijkopleiding relevante werkzaamheden ten minste drieduizend uren.  
 
 ### Artikel  12  
 
@@ -178,7 +177,7 @@ b. het met goed gevolg afleggen van één of meer aanvullende toetsen.
 
 ### Artikel  15  
 
-1.  Het examen ter afsluiting van de praktijkopleiding AA, toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in [artikel 46 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+1.  Het examen ter afsluiting van de praktijkopleiding AA, toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in artikel 46 van de wet.   
 2.  Het examen ter afsluiting van de praktijkopleiding AA omvat 
 
 a. het portfolio; en  
@@ -196,7 +195,7 @@ b. een mondeling examen waarin de vaardigheid, bedoeld in het eerste lid, wordt 
 
 ### Artikel  17  
 
-1.  Het examen ter afsluiting van de praktijkopleiding RA, toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in [artikel 46 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+1.  Het examen ter afsluiting van de praktijkopleiding RA, toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in artikel 46 van de wet.   
 2.  Het examen ter afsluiting van de praktijkopleiding RA omvat: 
 
 a. het portfolio;  
@@ -227,7 +226,7 @@ b. het getuigschrift voor de opleiding tot accountant, niet zijnde de praktijkop
 
 ### Artikel  20  
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in artikel 19, onderdeel a, toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md). 
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in artikel 19, onderdeel a, toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in artikel 46 van de wet. 
 
 ### Paragraaf  7.2  
 
@@ -245,7 +244,7 @@ c. het getuigschrift voor de opleiding tot accountant, niet zijnde de praktijkop
 
 ### Artikel  22  
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in artikel 21, onderdeel a, toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md). 
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in artikel 21, onderdeel a, toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in artikel 46 van de wet. 
 
 ### Hoofdstuk  8  
 
@@ -301,20 +300,20 @@ c. de beoordeling van een mondeling examen.
 
 ### Artikel  28  
 
-De [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md) (Stcrt. 2006, 252, nadien gewijzigd) wordt ingetrokken. 
+De Verordening op de praktijkstage (Stcrt. 2006, 252, nadien gewijzigd) wordt ingetrokken. 
 
 ### Artikel  29  
 
-De [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) (Stcrt. 2007,12) wordt ingetrokken. 
+De Verordening op de praktijkstage (Stcrt. 2007,12) wordt ingetrokken. 
 
 ### Artikel  30  
 
-1.  Op praktijkopleidingen welke zijn aangevangen voorafgaand aan de inwerkingtreding van deze verordening, blijven de [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md) (Stcrt. 2006, 252) en de daarop berustende bepalingen van toepassing, met uitzondering van de bepalingen houdende regels over de hoogte van de examengelden.   
-2.  Op praktijkopleidingen welke zijn aangevangen voorafgaand aan de inwerkingtreding van deze verordening, blijven de [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) (Stcrt. 2007, 12) en de daarop berustende bepalingen van toepassing, met uitzondering van de bepalingen houdende regels over de hoogte van de examengelden.  
+1.  Op praktijkopleidingen welke zijn aangevangen voorafgaand aan de inwerkingtreding van deze verordening, blijven de Verordening op de praktijkstage (Stcrt. 2006, 252) en de daarop berustende bepalingen van toepassing, met uitzondering van de bepalingen houdende regels over de hoogte van de examengelden.   
+2.  Op praktijkopleidingen welke zijn aangevangen voorafgaand aan de inwerkingtreding van deze verordening, blijven de Verordening op de praktijkstage (Stcrt. 2007, 12) en de daarop berustende bepalingen van toepassing, met uitzondering van de bepalingen houdende regels over de hoogte van de examengelden.  
 
 ### Artikel  31  
 
-Bij de inwerkingtreding van deze verordening, wordt de Raad voor de Praktijkopleidingen gevormd door de leden van het Stagebestuur zoals die op grond van de [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md) (Stcrt. 2006, 252) zijn benoemd en door de leden van de Raad voor de Praktijkopleiding zoals die op grond van de [Verordening op de praktijkstage](../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0022594/README.md) (Stcrt. 2007, 12) zijn benoemd, met inachtneming van het rooster van aftreden dat bij die benoemingen is vastgesteld. 
+Bij de inwerkingtreding van deze verordening, wordt de Raad voor de Praktijkopleidingen gevormd door de leden van het Stagebestuur zoals die op grond van de Verordening op de praktijkstage (Stcrt. 2006, 252) zijn benoemd en door de leden van de Raad voor de Praktijkopleiding zoals die op grond van de Verordening op de praktijkstage (Stcrt. 2007, 12) zijn benoemd, met inachtneming van het rooster van aftreden dat bij die benoemingen is vastgesteld. 
 
 ### Artikel  32  
 

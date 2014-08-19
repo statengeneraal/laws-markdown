@@ -3,7 +3,7 @@
 ##Verordening op de kwaliteitsbeoordelingen
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [19, eerste lid, van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op de artikelen 5, eerste lid en 19, eerste lid, van de Wet op het accountantsberoep;
 Stelt de volgende verordening vast:     
 ### Hoofdstuk  1  
 
@@ -13,45 +13,45 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening wordt verstaan onder: 
 
-–  *aan assurance verwante opdracht:* de aan assurance verwante opdracht, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *aan assurance verwante opdracht:* de aan assurance verwante opdracht, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *accountant:* een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountant:* een accountant als bedoeld in artikel 1 van de Wet op het accountantsberoep;  
 
 –  *bestuur:* het bestuur van de beroepsorganisatie;  
 
-–  *openbaar accountant:* de openbaar accountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *openbaar accountant:* de openbaar accountant, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *intern accountant:* de intern accountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *intern accountant:* de intern accountant, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *overheidsaccountant:* de overheidsaccountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md) met uitzondering van de overheidsaccountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de overheidsaccountant die aan deze controle direct leiding geeft;  
+–  *overheidsaccountant:* de overheidsaccountant, bedoeld in artikel 1 van de Verordening op de ledengroepen met uitzondering van de overheidsaccountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de overheidsaccountant die aan deze controle direct leiding geeft;  
 
-–  *accountantsafdeling:* de accountantsafdeling, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantsafdeling:* de accountantsafdeling, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *accountantspraktijk:* de accountantspraktijk, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantspraktijk:* de accountantspraktijk, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *assurance-opdracht:* de assurance-opdracht, bedoeld in [artikel 1 van Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md);  
+–  *assurance-opdracht:* de assurance-opdracht, bedoeld in artikel 1 van Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten;  
 
 –  *AFM:* de Stichting Autoriteit Financiële Markten;  
 
-–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2, eerste lid, van de Wet op het accountantsberoep;  
 
 –  *incidentenonderzoek:* een onderzoek naar vermeende tekortkomingen in de beroepsuitoefening met uitzondering van de uitvoering van een wettelijke controle;  
 
 –  *koepelorganisatie:* een organisatie waarvan de accountantspraktijk of de accountantsafdeling lid is of waarbij de accountantspraktijk of de accountantsafdeling is aangesloten en welke organisatie bevoegd is aan de accountantspraktijk of de accountantsafdeling bindende regels voor de kwaliteitsbeheersing op te leggen, te toetsen en de naleving daarvan af te dwingen;  
 
-–  *Raad:* de individuele personen die op grond van de [Verordening op de Raad voor Toezicht](../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0033787/README.md) zijn benoemd als lid van de Raad voor Toezicht;  
+–  *Raad:* de individuele personen die op grond van de Verordening op de Raad voor Toezicht zijn benoemd als lid van de Raad voor Toezicht;  
 
 –  *thematisch onderzoek:* een onderzoek naar een bepaald aspect van de uitvoering van assurance- of aan assurance verwante opdrachten;  
 
 –  *toetsing:* de beoordeling van de opzet en werking van het stelsel van kwaliteitsbeheersing van een accountantspraktijk of een accountantsafdeling;  
 
-–  *hertoetsing:* de toetsing waarbij mede wordt beoordeeld of de accountantspraktijk of de accountantsafdeling in voldoende mate opvolging heeft gegeven aan het goedgekeurde verbeterplan om de kwaliteit van de beroepsuitoefening in overeenstemming te brengen met het bij en krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bepaalde;  
+–  *hertoetsing:* de toetsing waarbij mede wordt beoordeeld of de accountantspraktijk of de accountantsafdeling in voldoende mate opvolging heeft gegeven aan het goedgekeurde verbeterplan om de kwaliteit van de beroepsuitoefening in overeenstemming te brengen met het bij en krachtens de Wet op het accountantsberoep bepaalde;  
 
 –  *stelsel van kwaliteitsbeheersing:* het totaal van ter zake van assurance- en aan assurance verwante opdrachten door de accountantspraktijk of de accountantsafdeling getroffen maatregelen en ingestelde procedures ter zake van: 
 
 1°. de interne beheersing van de accountantspraktijk of de accountantsafdeling met betrekking tot kwaliteit;  
 
-2°. het interne onderzoek naar de naleving van de in de [Verordening gedrags- en beroepsregels accountants](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) opgenomen fundamentele beginselen door de bij de accountantspraktijk of de accountantsafdeling werkzame of daaraan verbonden accountants en andere personen; en  
+2°. het interne onderzoek naar de naleving van de in de Verordening gedrags- en beroepsregels accountants opgenomen fundamentele beginselen door de bij de accountantspraktijk of de accountantsafdeling werkzame of daaraan verbonden accountants en andere personen; en  
 
 3°. het interne onderzoek ten aanzien van assurance- en aan assurance verwante opdrachten naar de kwaliteit van de door de bij de accountantspraktijk of de accountantsafdeling werkzame of daaraan verbonden accountants en andere personen uitgevoerde werkzaamheden;    
 
@@ -59,7 +59,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 –  *verbeterplan:* een op de in artikel 13, vierde en vijfde lid, bedoelde aanwijzingen en aanbevelingen gebaseerd document, waarin op planmatige en gestructureerde wijze wordt aangegeven welke maatregelen worden getroffen ter correctie van de geconstateerde tekortkomingen van de opzet en werking van het in artikel 3 bedoelde stelsel van kwaliteitsbeheersing;  
 
-–  *wettelijke controle:* de wettelijke controle, bedoeld in [artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).   
+–  *wettelijke controle:* de wettelijke controle, bedoeld in artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties.   
 
 ### Hoofdstuk  2  
 
@@ -67,13 +67,13 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Het bestuur verleent, voor zover dat zich verdraagt met [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor de uitoefening van de in deze verordening aan hem verstrekte bevoegdheden mandaat, volmacht en machtiging aan de Raad.   
+1.  Het bestuur verleent, voor zover dat zich verdraagt met afdeling 10.1.1 van de Algemene wet bestuursrecht, voor de uitoefening van de in deze verordening aan hem verstrekte bevoegdheden mandaat, volmacht en machtiging aan de Raad.   
 2.  Namens het bestuur kan de Raad binnen het gestelde in het eerste lid ondermandaat verlenen.   
 3.  Over de inrichting en samenstelling van de Raad worden bij verordening nadere regels gesteld.  
 
 ### Artikel  3  
 
-De openbaar accountant en intern of overheidsaccountant draagt er zorg voor dat de accountantspraktijk of accountantsafdeling waarbij hij werkzaam is of waaraan hij is verbonden, beschikt over een stelsel van kwaliteitsbeheersing dat is afgestemd op de aard, omvang en het belang van de opdrachten en waarmee wordt voldaan aan het bepaalde bij en krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md). 
+De openbaar accountant en intern of overheidsaccountant draagt er zorg voor dat de accountantspraktijk of accountantsafdeling waarbij hij werkzaam is of waaraan hij is verbonden, beschikt over een stelsel van kwaliteitsbeheersing dat is afgestemd op de aard, omvang en het belang van de opdrachten en waarmee wordt voldaan aan het bepaalde bij en krachtens de Wet op het accountantsberoep. 
 
 ### Artikel  4  
 
@@ -102,13 +102,13 @@ Een accountantspraktijk of accountantsafdeling wordt, om de kwaliteit van de ber
 
 1.  Teneinde inzicht te krijgen in de specifieke situatie van de accountantspraktijk of de accountantsafdeling wordt er door het bestuur aan de accountantspraktijk of aan de accountantsafdeling een jaarlijkse monitoringvragenlijst gestuurd. Degene die het dagelijks beleid binnen een accountantspraktijk bepaalt, zorgt ervoor dat deze vragenlijst binnen een termijn van zes weken na ontvangst door de accountantspraktijk of de accountantsafdeling ingevuld wordt geretourneerd.   
 2.  Het bestuur kan een accountantspraktijk of accountantsafdeling op basis van risico-indicatoren aan een nader onderzoek onderwerpen.   
-3.  Het bestuur kan een accountantsorganisatie welke beschikt over een vergunning als bedoeld in [artikel 6 van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) periodiek bezoeken ter verkrijging van nadere inlichtingen.  
+3.  Het bestuur kan een accountantsorganisatie welke beschikt over een vergunning als bedoeld in artikel 6 van de Wet toezicht accountantsorganisaties periodiek bezoeken ter verkrijging van nadere inlichtingen.  
 
 ### Artikel  9  
 
-1.  Een toetsing van een accountantspraktijk houdt een onderzoek in waarbij wordt nagegaan of het stelsel van kwaliteitsbeheersing van de accountantspraktijk, niet betrekking hebbend op het verrichten van wettelijke controles door accountantsorganisaties welke beschikken over een vergunning als bedoeld in [artikel 6, tweede lid, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), in opzet en werking voldoet aan het bij en krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bepaalde.   
-2.  Een toetsing van een accountantsafdeling houdt een onderzoek in waarbij wordt nagegaan of het stelsel van kwaliteitsbeheersing van de accountantsafdeling in opzet en werking voldoet aan het bij en krachtens de [Wet het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bepaalde.   
-3.  De toetsing kan omvatten assuranceopdrachten met uitzondering van wettelijke controles verricht door accountantsorganisaties welke beschikken over een vergunning als bedoeld in [artikel 6, tweede lid, van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), aan assurance verwante opdrachten en overige opdrachten binnen de accountantspraktijk of de accountantsafdeling waar de accountant optreedt.   
+1.  Een toetsing van een accountantspraktijk houdt een onderzoek in waarbij wordt nagegaan of het stelsel van kwaliteitsbeheersing van de accountantspraktijk, niet betrekking hebbend op het verrichten van wettelijke controles door accountantsorganisaties welke beschikken over een vergunning als bedoeld in artikel 6, tweede lid, van de Wet toezicht accountantsorganisaties, in opzet en werking voldoet aan het bij en krachtens de Wet op het accountantsberoep bepaalde.   
+2.  Een toetsing van een accountantsafdeling houdt een onderzoek in waarbij wordt nagegaan of het stelsel van kwaliteitsbeheersing van de accountantsafdeling in opzet en werking voldoet aan het bij en krachtens de Wet het accountantsberoep bepaalde.   
+3.  De toetsing kan omvatten assuranceopdrachten met uitzondering van wettelijke controles verricht door accountantsorganisaties welke beschikken over een vergunning als bedoeld in artikel 6, tweede lid, van de Wet toezicht accountantsorganisaties, aan assurance verwante opdrachten en overige opdrachten binnen de accountantspraktijk of de accountantsafdeling waar de accountant optreedt.   
 4.  De reikwijdte van de toetsing wordt bepaald door het bestuur.  
 
 ### Artikel  10  
@@ -153,18 +153,18 @@ Indien zich over de wijze van uitvoering van de (her)toetsing een meningsverschi
 2.  Het bestuur kan de in het eerste lid genoemde termijn van zes weken verlengen.   
 3.  Een eindoordeel na een toetsing kan als volgt luiden: 
 
-a. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking aan het bepaalde bij of krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+a. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking aan het bepaalde bij of krachtens de Wet op het accountantsberoep;  
 
-b. het stelsel van kwaliteitsbeheersing behoeft verbetering en voldoet in opzet of werking op belangrijke onderdelen niet aan het bepaalde bij of krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+b. het stelsel van kwaliteitsbeheersing behoeft verbetering en voldoet in opzet of werking op belangrijke onderdelen niet aan het bepaalde bij of krachtens de Wet op het accountantsberoep;  
 
-c. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het bepaalde bij of krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).     
+c. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het bepaalde bij of krachtens de Wet op het accountantsberoep.     
 4.  Een eindoordeel na een hertoetsing als bedoeld in artikel 16, eerste lid, kan als volgt luiden: 
 
-a. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking aan het bepaalde bij of krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+a. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking aan het bepaalde bij of krachtens de Wet op het accountantsberoep;  
 
-b. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het bepaalde bij of krachtens de [Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).     
+b. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het bepaalde bij of krachtens de Wet op het accountantsberoep.     
 5.  In het geval aan een accountantspraktijk of de accountantsafdeling een eindoordeel als bedoeld in het derde lid, onderdeel b, wordt gegeven, dan dient de accountantspraktijk of de accountantsafdeling binnen een door het bestuur te stellen termijn een door het bestuur goed te keuren verbeterplan in.   
-6.  Het bestuur stelt een termijn waarbinnen het stelsel van kwaliteitsbeheersing dient te worden aangepast en moet voldoen aan het bepaalde bij of krachtens de [Wet het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+6.  Het bestuur stelt een termijn waarbinnen het stelsel van kwaliteitsbeheersing dient te worden aangepast en moet voldoen aan het bepaalde bij of krachtens de Wet het accountantsberoep.   
 7.  Het bestuur kan volstaan met een gedeeltelijke goedkeuring van het verbeterplan. Het bestuur vermeldt daarbij op welke onderdelen het verbeterplan tekort schiet.   
 8.  Voor het beoordelen van het in het verbeterplan, bedoeld in het vijfde lid, wordt een tarief in rekening gebracht waarvan de hoogte bij verordening wordt vastgesteld.   
 9.  De tijd welke het bestuur besteedt aan de beoordeling van een verbeterplan, schort niet de termijn op bedoeld in het zesde lid.   
@@ -180,7 +180,7 @@ b. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het
 
 Indien de getoetste accountantspraktijk, accountantsafdeling of individuele accountant de inhoud van het toetsingsverslag of het eindoordeel openbaar maakt, 
 
-a. neemt hij de fundamentele beginselen, bedoeld in de [Verordening gedrags- en beroepsregels accountants](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) in acht en;  
+a. neemt hij de fundamentele beginselen, bedoeld in de Verordening gedrags- en beroepsregels accountants in acht en;  
 
 b. vermeldt hij de datum waarop de meest recente (her)toetsing heeft plaatsgevonden.   
 
@@ -227,13 +227,13 @@ Het bestuur bepaalt de wijze waarop en de vorm waarin het incidentenonderzoek pl
 
 ### Artikel  22  
 
-1.  Indien een accountantspraktijk beschikt over een vergunning, als bedoeld in [artikel 6 van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), meldt het bestuur het eindoordeel over een bij deze accountantspraktijk uitgevoerde (her)toetsing bij de AFM.   
-2.  Indien een accountantspraktijk beschikt over een vergunning, als bedoeld in [artikel 6 van de Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), draagt het bestuur, indien een eindoordeel over een bij deze accountantspraktijk uitgevoerde toetsing of hertoetsing luidt als bedoeld in artikel 15, derde lid, onderdeel c, respectievelijk artikel 15, vierde lid, onderdeel b, het toetsingsdossier over aan de AFM.  
+1.  Indien een accountantspraktijk beschikt over een vergunning, als bedoeld in artikel 6 van de Wet toezicht accountantsorganisaties, meldt het bestuur het eindoordeel over een bij deze accountantspraktijk uitgevoerde (her)toetsing bij de AFM.   
+2.  Indien een accountantspraktijk beschikt over een vergunning, als bedoeld in artikel 6 van de Wet toezicht accountantsorganisaties, draagt het bestuur, indien een eindoordeel over een bij deze accountantspraktijk uitgevoerde toetsing of hertoetsing luidt als bedoeld in artikel 15, derde lid, onderdeel c, respectievelijk artikel 15, vierde lid, onderdeel b, het toetsingsdossier over aan de AFM.  
 
 ### Artikel  23  
 
-1.  Indien uit een thematisch onderzoek als bedoeld in artikel 18, eerste lid, informatie blijkt die duidt op een ernstige overtreding van de bij of krachtens de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) gestelde voorschriften door een accountantsorganisatie dan wel door een (mede) beleidsbepaler of een externe accountant van een accountantsorganisatie, verstrekt het bestuur deze informatie aan de AFM.   
-2.  Indien uit een incidentenonderzoek als bedoeld in artikel 20, informatie blijkt die duidt op een ernstige overtreding van de bij of krachtens de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) gestelde voorschriften door een accountantsorganisatie dan wel door een (mede) beleidsbepaler of een externe accountant van een accountantsorganisatie, verstrekt het bestuur deze informatie aan de AFM.  
+1.  Indien uit een thematisch onderzoek als bedoeld in artikel 18, eerste lid, informatie blijkt die duidt op een ernstige overtreding van de bij of krachtens de Wet toezicht accountantsorganisaties gestelde voorschriften door een accountantsorganisatie dan wel door een (mede) beleidsbepaler of een externe accountant van een accountantsorganisatie, verstrekt het bestuur deze informatie aan de AFM.   
+2.  Indien uit een incidentenonderzoek als bedoeld in artikel 20, informatie blijkt die duidt op een ernstige overtreding van de bij of krachtens de Wet toezicht accountantsorganisaties gestelde voorschriften door een accountantsorganisatie dan wel door een (mede) beleidsbepaler of een externe accountant van een accountantsorganisatie, verstrekt het bestuur deze informatie aan de AFM.  
 
 ### Hoofdstuk  7  
 
@@ -307,15 +307,15 @@ In situaties die procedureel van aard zijn en waarin deze verordening niet voorz
 
 ### Artikel  31  
 
-De [Verordening Kwaliteitsonderzoek](../../../../../../pbo/verordening/kwaliteitsonderzoek/BWBR0025091/README.md) wordt ingetrokken. 
+De Verordening Kwaliteitsonderzoek wordt ingetrokken. 
 
 ### Artikel  32  
 
-De [Verordening op de Kwaliteitstoetsing NIVRA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) wordt ingetrokken. 
+De Verordening op de Kwaliteitstoetsing NIVRA wordt ingetrokken. 
 
 ### Artikel  33  
 
-De [Verordening op de Kwaliteitstoetsing NOvAA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md) wordt ingetrokken. 
+De Verordening op de Kwaliteitstoetsing NOvAA wordt ingetrokken. 
 
 ### Hoofdstuk  11  
 
@@ -324,10 +324,10 @@ De [Verordening op de Kwaliteitstoetsing NOvAA](../../../../../../pbo/verordenin
 ### Artikel  34  
 
 1.  Eindoordelen met betrekking tot toetsingen of hertoetsingen uitgevoerd in 2013 welke bij de inwerkingtreding van deze verordening nog niet tot stand zijn gekomen, worden tot stand gebracht met inachtneming en op grond van de bepalingen van deze verordening.   
-2.  Accreditaties verleend op grond van de [Verordening op de Kwaliteitstoetsing NIVRA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) en de [Verordening op de Kwaliteitstoetsing NOvAA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md), worden geacht te zijn verleend op grond van artikel 26 onder dezelfde beperkingen en voorwaarden.   
-3.  Accountantspraktijken of accountantsafdelingen welke op grond van de [Verordening op de Kwaliteitstoetsing NIVRA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) of de [Verordening op de Kwaliteitstoetsing NOvAA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md) zijn geselecteerd voor een toetsing in 2013, maar welke toetsing niet in 2013 heeft kunnen plaatsvinden, worden geacht te zijn geselecteerd op grond van artikel 11.   
-4.  Beslissingen genomen op grond van [artikel 24](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) of [25 van de Verordening op de Kwaliteitstoetsing NIVRA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) of de [Verordening op de Kwaliteitstoetsing NOvAA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md), worden geacht te zijn genomen op grond van [artikel 24](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md) respectievelijk [25](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md) onder dezelfde beperkingen en voorwaarden.   
-5.  Verzoeken op grond van [artikel 24](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) of [25 van de Verordening op de Kwaliteitstoetsing NIVRA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/nivra/BWBR0031868/README.md) of de [Verordening op de Kwaliteitstoetsing NOvAA](../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md) welke bij de inwerkingtreding van deze verordening nog aanhangig zijn, worden beoordeeld op grond van de bepalingen in deze verordening.  
+2.  Accreditaties verleend op grond van de Verordening op de Kwaliteitstoetsing NIVRA en de Verordening op de Kwaliteitstoetsing NOvAA, worden geacht te zijn verleend op grond van artikel 26 onder dezelfde beperkingen en voorwaarden.   
+3.  Accountantspraktijken of accountantsafdelingen welke op grond van de Verordening op de Kwaliteitstoetsing NIVRA of de Verordening op de Kwaliteitstoetsing NOvAA zijn geselecteerd voor een toetsing in 2013, maar welke toetsing niet in 2013 heeft kunnen plaatsvinden, worden geacht te zijn geselecteerd op grond van artikel 11.   
+4.  Beslissingen genomen op grond van artikel 24 of 25 van de Verordening op de Kwaliteitstoetsing NIVRA of de Verordening op de Kwaliteitstoetsing NOvAA, worden geacht te zijn genomen op grond van artikel 24 respectievelijk 25 onder dezelfde beperkingen en voorwaarden.   
+5.  Verzoeken op grond van artikel 24 of 25 van de Verordening op de Kwaliteitstoetsing NIVRA of de Verordening op de Kwaliteitstoetsing NOvAA welke bij de inwerkingtreding van deze verordening nog aanhangig zijn, worden beoordeeld op grond van de bepalingen in deze verordening.  
 
 ### Hoofdstuk  12  
 

@@ -3,7 +3,7 @@
 ##Verordening op de kostenvergoedingen
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [19, eerste lid, van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op de artikelen 5, eerste lid en 19, eerste lid, van de Wet op het accountantsberoep;
 Stelt de volgende verordening vast:    
 
 ### Artikel  1  
@@ -45,7 +45,7 @@ Als verblijfkosten worden vergoed de werkelijk gemaakte kosten voor consumpties,
 
 ### Artikel  6  
 
-De [Verordening op de kostenvergoedingen 2013](../../../../../../pbo/verordening/op/de/kostenvergoedingen/2013/BWBR0031871/README.md) (Stcrt. 2012, 16005) wordt ingetrokken. De [Verordening op de kostenvergoedingen](../../../../../../pbo/verordening/op/de/kostenvergoedingen/BWBR0006183/README.md) (laatstelijk Stcrt. 2012, 16169) wordt ingetrokken.
+De Verordening op de kostenvergoedingen 2013 (Stcrt. 2012, 16005) wordt ingetrokken. De Verordening op de kostenvergoedingen (laatstelijk Stcrt. 2012, 16169) wordt ingetrokken.
 
 ### Artikel  7  
 

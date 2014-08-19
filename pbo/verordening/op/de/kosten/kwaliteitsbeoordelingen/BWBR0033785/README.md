@@ -3,7 +3,7 @@
 ##Verordening op de kosten kwaliteitsbeoordelingen
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [19, eerste lid, van de Wet op het accountantsberoep](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op de artikelen 5, eerste lid en 19, eerste lid, van de Wet op het accountantsberoep;
 Stelt de volgende verordening vast:     
 ### Hoofdstuk  1  
 
@@ -13,29 +13,29 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening wordt verstaan onder: 
 
-–  *aan assurance verwante opdracht:* de aan assurance verwante opdracht, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *aan assurance verwante opdracht:* de aan assurance verwante opdracht, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *accountant:* een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountant:* een accountant als bedoeld in artikel 1 van de Wet op het accountantsberoep;  
 
-–  *accountantsafdeling:* de accountantsafdeling, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantsafdeling:* de accountantsafdeling, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *accountantspraktijk:* de accountantspraktijk, bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantspraktijk:* de accountantspraktijk, bedoeld in artikel 1 van de Verordening op de ledengroepen;  
 
-–  *assurance-opdracht:* de assurance-opdracht, bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](../../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md);  
+–  *assurance-opdracht:* de assurance-opdracht, bedoeld in artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten;  
 
-–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2, eerste lid, van de Wet op het accountantsberoep;  
 
 –  *bestuur:* het bestuur van de beroepsorganisatie;  
 
-–  *hertoetsing:* een hertoetsing als bedoeld in [artikel 1 van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md);  
+–  *hertoetsing:* een hertoetsing als bedoeld in artikel 1 van de Verordening op de kwaliteitsbeoordelingen;  
 
-–  *koepelorganisatie:* de koepelorganisatie, bedoeld in [artikel 1 van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md);  
+–  *koepelorganisatie:* de koepelorganisatie, bedoeld in artikel 1 van de Verordening op de kwaliteitsbeoordelingen;  
 
-–  *toetsing:* een toetsing als bedoeld in [artikel 9, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md);  
+–  *toetsing:* een toetsing als bedoeld in artikel 9, eerste lid, van de Verordening op de kwaliteitsbeoordelingen;  
 
-–  *vrijstellingsverzoek:* een verzoek als bedoeld in [artikel 25, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md);  
+–  *vrijstellingsverzoek:* een verzoek als bedoeld in artikel 25, eerste lid, van de Verordening op de kwaliteitsbeoordelingen;  
 
-–  *wettelijke controle:* een wettelijke controle als bedoeld in [artikel 1, onderdeel p, van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).   
+–  *wettelijke controle:* een wettelijke controle als bedoeld in artikel 1, onderdeel p, van de Wet toezicht accountantsorganisaties.   
 
 ### Artikel  2  
 
@@ -72,14 +72,14 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Artikel  3  
 
-1.  Ter vergoeding van de kosten, bedoeld in [artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), brengt het bestuur jaarlijks een tarief per accountant in rekening aan de accountantspraktijk waarbij de accountant werkzaam is of waaraan de accountant is verbonden, of aan de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort waarbij de accountant werkzaam is of waaraan de accountant is verbonden.   
-2.  Van de toepassing van het eerste lid zijn uitgezonderd de accountantspraktijken of de accountantsafdelingen die lid zijn van of aangesloten zijn bij een koepelorganisatie waaraan een accreditatie als bedoeld in [artikel 26, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md) is verleend.   
-3.  Onverminderd het eerste lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in [artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), voor de uitvoering van een toetsing of een hertoetsing een bedrag in rekening aan de accountantspraktijk welke is getoetst, of de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort welke is getoetst.   
+1.  Ter vergoeding van de kosten, bedoeld in artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, brengt het bestuur jaarlijks een tarief per accountant in rekening aan de accountantspraktijk waarbij de accountant werkzaam is of waaraan de accountant is verbonden, of aan de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort waarbij de accountant werkzaam is of waaraan de accountant is verbonden.   
+2.  Van de toepassing van het eerste lid zijn uitgezonderd de accountantspraktijken of de accountantsafdelingen die lid zijn van of aangesloten zijn bij een koepelorganisatie waaraan een accreditatie als bedoeld in artikel 26, eerste lid, van de Verordening op de kwaliteitsbeoordelingen is verleend.   
+3.  Onverminderd het eerste lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, voor de uitvoering van een toetsing of een hertoetsing een bedrag in rekening aan de accountantspraktijk welke is getoetst, of de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort welke is getoetst.   
 4.  Ter bepaling van de hoogte van het bedrag, bedoeld in het derde lid, wordt per categorie van getoetste accountantspraktijk of accountantsafdeling een tarief in rekening gebracht.   
-5.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in [artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), voor de uitvoering van een thematisch onderzoek, bedoeld in [artikel 18, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), een bedrag in rekening aan de accountantspraktijk of de accountantsafdeling   
-6.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in [artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), voor de uitvoering van een nader onderzoek, bedoeld in [artikel 8, tweede lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), een bedrag in rekening aan de accountantspraktijk of de accountantsafdeling.   
-7.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in [artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), voor een periodiek bezoek, bedoeld in [artikel 8, derde lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), een bedrag in rekening aan de accountantsorganisatie.   
-8.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in [artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), voor de uitvoering van een onderzoek, bedoeld in [artikel 8, derde lid, van de Verordening op de Raad voor Toezicht](../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032734/README.md), een bedrag in rekening aan de accountantspraktijk of de accountantsafdeling.  
+5.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, voor de uitvoering van een thematisch onderzoek, bedoeld in artikel 18, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, een bedrag in rekening aan de accountantspraktijk of de accountantsafdeling   
+6.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, voor de uitvoering van een nader onderzoek, bedoeld in artikel 8, tweede lid, van de Verordening op de kwaliteitsbeoordelingen, een bedrag in rekening aan de accountantspraktijk of de accountantsafdeling.   
+7.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, voor een periodiek bezoek, bedoeld in artikel 8, derde lid, van de Verordening op de kwaliteitsbeoordelingen, een bedrag in rekening aan de accountantsorganisatie.   
+8.  Onverminderd het eerste en derde lid, brengt het bestuur ter vergoeding van de kosten, bedoeld in artikel 30, eerste lid, van de Verordening op de kwaliteitsbeoordelingen, voor de uitvoering van een onderzoek, bedoeld in artikel 8, derde lid, van de Verordening op de Raad voor Toezicht, een bedrag in rekening aan de accountantspraktijk of de accountantsafdeling.  
 
 ### Artikel  3a  
 
@@ -92,11 +92,11 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Artikel  4  
 
-Het tarief, bedoeld in [artikel 15, achtste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md) bedraagt € 1.230,– per beoordeeld verbeterplan. 
+Het tarief, bedoeld in artikel 15, achtste lid, van de Verordening op de kwaliteitsbeoordelingen bedraagt € 1.230,– per beoordeeld verbeterplan. 
 
 ### Artikel  5  
 
-Het tarief, bedoeld [artikel 25, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md) bedraagt: 
+Het tarief, bedoeld artikel 25, eerste lid, van de Verordening op de kwaliteitsbeoordelingen bedraagt: 
 
 a. bij een eerste vrijstellingsverzoek € 205,–;  
 
@@ -176,7 +176,7 @@ Voor de bepaling van het bedrag, bedoeld in artikel 3, zevende lid, worden de ur
 
 ### Artikel  14  
 
-De uren welke een toetser optredend als teamleider besteedt aan een nader onderzoek, bedoeld in [artikel 8, tweede lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), een onderzoek, bedoeld in [artikel 8, derde lid, van de Verordening op de Raad voor Toezicht](../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032734/README.md), of een periodiek bezoek, bedoeld in [artikel 8, derde lid, van de Verordening op de kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md), worden aan hem vergoed tegen een tarief van € 165,–. 
+De uren welke een toetser optredend als teamleider besteedt aan een nader onderzoek, bedoeld in artikel 8, tweede lid, van de Verordening op de kwaliteitsbeoordelingen, een onderzoek, bedoeld in artikel 8, derde lid, van de Verordening op de Raad voor Toezicht, of een periodiek bezoek, bedoeld in artikel 8, derde lid, van de Verordening op de kwaliteitsbeoordelingen, worden aan hem vergoed tegen een tarief van € 165,–. 
 
 ### Hoofdstuk  7  
 
@@ -184,8 +184,8 @@ De uren welke een toetser optredend als teamleider besteedt aan een nader onderz
 
 ### Artikel  15  
 
-1.  Toetsers en toetsers optredend als teamleider ontvangen een vergoeding van reis- en verblijfkosten en reistijdkosten overeenkomstig [artikel 2 van de Verordening op de kostenvergoedingen](../../../../../../../pbo/verordening/op/de/kostenvergoedingen/BWBR0033783/README.md).   
-2.  Toetsers en toetsers optredend als teamleider die voor een toetsing, een hertoetsing, thematisch onderzoek of accreditatie worden ingeschakeld, ontvangen in afwijking van [artikel 2, zevende lid, van de Verordening op de kostenvergoedingen](../../../../../../../pbo/verordening/op/de/kostenvergoedingen/BWBR0033783/README.md), een afzonderlijke vergoeding voor de kosten van parkeergelden welke zijn gemaakt in verband met een toetsing, een hertoetsing of een thematisch onderzoek.   
+1.  Toetsers en toetsers optredend als teamleider ontvangen een vergoeding van reis- en verblijfkosten en reistijdkosten overeenkomstig artikel 2 van de Verordening op de kostenvergoedingen.   
+2.  Toetsers en toetsers optredend als teamleider die voor een toetsing, een hertoetsing, thematisch onderzoek of accreditatie worden ingeschakeld, ontvangen in afwijking van artikel 2, zevende lid, van de Verordening op de kostenvergoedingen, een afzonderlijke vergoeding voor de kosten van parkeergelden welke zijn gemaakt in verband met een toetsing, een hertoetsing of een thematisch onderzoek.   
 3.  Toetsers of toetsers optredend als teamleider verzoeken om toepassing van het vorige lid en overleggen daarbij bewijsstukken.  
 
 ### Artikel  16  
@@ -194,11 +194,11 @@ De in deze verordening genoemde tarieven gelden exclusief omzetbelasting.
 
 ### Artikel  17  
 
-De [Verordening op de kosten kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kosten/kwaliteitsbeoordelingen/BWBR0032727/README.md) (Stcrt. 2013, 449) wordt ingetrokken. 
+De Verordening op de kosten kwaliteitsbeoordelingen (Stcrt. 2013, 449) wordt ingetrokken. 
 
 ### Artikel  18  
 
-De [Verordening op de kosten kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kosten/kwaliteitsbeoordelingen/BWBR0032804/README.md) (Stcrt. 2013, 1404) wordt ingetrokken. 
+De Verordening op de kosten kwaliteitsbeoordelingen (Stcrt. 2013, 1404) wordt ingetrokken. 
 
 ### Hoofdstuk  8  
 
@@ -206,8 +206,8 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](../../../../../../../pbo/v
 
 ### Artikel  19  
 
-1.  Op facturen vastgesteld op grond van [Verordening op de kosten kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kosten/kwaliteitsbeoordelingen/BWBR0032727/README.md) (Stcrt. 2013, 449) en bekendgemaakt voor 1 januari 2014, blijft genoemde verordening van toepassing zoals deze luidde op 31 december 2013.   
-2.  Op facturen vastgesteld op grond van [Verordening op de kosten kwaliteitsbeoordelingen](../../../../../../../pbo/verordening/op/de/kosten/kwaliteitsbeoordelingen/BWBR0032804/README.md) (Stcrt. 2013, 1404) en bekendgemaakt voor 1 januari 2014, blijft genoemde verordening van toepassing zoals deze luidde op 31 december 2013.  
+1.  Op facturen vastgesteld op grond van Verordening op de kosten kwaliteitsbeoordelingen (Stcrt. 2013, 449) en bekendgemaakt voor 1 januari 2014, blijft genoemde verordening van toepassing zoals deze luidde op 31 december 2013.   
+2.  Op facturen vastgesteld op grond van Verordening op de kosten kwaliteitsbeoordelingen (Stcrt. 2013, 1404) en bekendgemaakt voor 1 januari 2014, blijft genoemde verordening van toepassing zoals deze luidde op 31 december 2013.  
 
 ### Artikel  20  
 

@@ -1,0 +1,17 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Overeenkomst inzake de conventionele wapensystemen van de Unie van Socialistische Sovjetrepublieken in Estland, Letland en Litouwen tussen de Staten die Partij zijn bij het Verdrag inzake conventionele strijdkrachten in Europa 
+
+####Statement by the Chairman of the Joint Consultative Group
+
+1.I hereby record that:
+
+a)The States Parties to the Treaty on Conventional Armed Forces in Europe of 19 November 1990, hereinafter referred to as the Treaty, acknowledge that in view of the sovereignty of Estonia, Latvia and Lithuania, the area of application defined in Article II of the Treaty does not include the territories of Estonia, Latvia and Lithuania.
+
+b)I have today received a statement from the Representative of the Union of Soviet Socialist Republics as follows:“In order to fulfill the legally-binding obligations of the Treaty on Conventional Armed Forces in Europe and of the agreements entered into by the States Parties on 14 June 1991, the Union of Soviet Socialist Republics shall treat all its conventional armaments and equipment in the categories defined in Article II of the Treaty present, on or after 19 November 1990, on the territories of Estonia, Latvia and Lithuania as subject to all provisions of the Treaty and associated documents. In particular, conventional armaments and equipment in the categories limited by the Treaty shall be notified as part of Soviet holdings and shall count towards the Soviet reduction liability. This statement shall be legally binding and shall have the same duration as the Treaty.”
+
+c)I have also received statements from the representatives of the Kingdom of Belgium, the Republic of Bulgaria, Canada, the Czech and Slovak Federal Republic, the Kingdom of Denmark, the French Republic, the Federal Republic of Germany, the Hellenic Republic, the Republic of Hungary, the Republic of Iceland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Kingdom of Norway, the Republic of Poland, the Portuguese Republic, Romania, the Kingdom of Spain, the Republic of Turkey, the United Kingdom of Great Britain and Northern Ireland and the United States of America that, in accordance with the legally-binding statement made by the Union of Soviet Socialist Republics, all Soviet conventional armaments and equipment in the categories defined in Article II of the Treaty present, on or after 19 November 1990, on the territories of Estonia, Latvia and Lithuania shall be treated as subject to all provisions of the Treaty, its associated documents and the legally-binding commitment entered into by the Union of Soviet Socialist Republics on 14 June 1991. In particular, conventional armaments and equipment in the categories limited by the Treaty shall be notified as part of Soviet holdings and shall count towards the Soviet reduction liability.
+
+d)The States Parties acknowledge that arrangements for inspection of the above-mentioned conventional armaments and equipment on the territories of Estonia, Latvia and Lithuania will require the consent and cooperation of those States.
+
+2.This Chairman's statement, recording the above legally binding agreement among the States Parties, which will not be considered a precedent, will be recorded in the Journal, transmitted to the Depositary and deposited together with the instruments of ratification.
