@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12347494, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2013)
 
 De Minister van Economische Zaken;  
-Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de [artikelen 3.9](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md), [5.5](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) en [5a.5 van de Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md);
+Gelet op artikel 16 van het Kaderbesluit EZ-subsidies en de artikelen 3.9, 5.5 en 5a.5 van de Subsidieregeling innoveren;
 Besluit:    
 
 ### Artikel  1  
@@ -15,7 +15,7 @@ Besluit:
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling 2013  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *Subsidieregeling starten, groeien en overdragen van ondernemingen*   |
-| 1.1  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | 01-01 t/m  31-12  | 680.000.000  |
+| 1.1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | 01-01 t/m  31-12  | 680.000.000  |
 | --- |Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) |2.3 |Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers) |15-07 t/m  31-12  |25.000.000 |
 | --- | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bodemsaneringsborgstellings-kredieten  | --- | --- |
 | 1.2  | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit)  | 3.2  | --- | 01-01 t/m  31-12  | 50.000.000  |
@@ -29,7 +29,7 @@ Besluit:
 | 1.9  | Subsidieregeling starten, groeien en overdragen van ondernemingen (garantie scheepsnieuwbouwfinanciering)  | 8.3  | --- | 01-01 t/m 31-12  | 1.000.000.000  |
 | 1.10  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.3  | --- | --- | --- |
 |  *Subsidieregeling innoveren*   |
-| 2.1  | [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (Eurostars Projecten)  | 2.2  | --- | 18-07 t/m 30-07  | 6.560.000  |
+| 2.1  | Subsidieregeling innoveren (Eurostars Projecten)  | 2.2  | --- | 18-07 t/m 30-07  | 6.560.000  |
 | 2.2  | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Klinische ontwikkelingsprojecten  | 01-01 t/m  31-12  | 25.000.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Technische ontwikkelingsprojecten  | 01-01 t/m  31-12  | 55.000.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Duurzame technische ontwikkelingsprojecten  | --- | --- |
@@ -45,7 +45,7 @@ Besluit:
 | 2.12  | Subsidieregeling innoveren (innovatievouchers elektrische mobiliteit)  | 5c.2  | Aantal beschikbare vouchers  | 01-01 t/m  31-12  |  *100*   |
 | 2.13  | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)  | 6.2  | --- | --- | --- |
 |  *Subsidieregeling sterktes in innovatie*   |
-| 3.1  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (TKI-toeslag)  | 1a.2, onderdeel a  | --- |02-12-2013 t/m 03-02-2014 | --- |
+| 3.1  | Subsidieregeling sterktes in innovatie (TKI-toeslag)  | 1a.2, onderdeel a  | --- |02-12-2013 t/m 03-02-2014 | --- |
 | --- |Subsidieregeling sterktes in innovatie (TKI-toeslag)  |1a.2, onderdeel b | --- |02-12-2013 t/m 15-09-2014 | --- |
 | 3.2  | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten  | --- | --- |
 | --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  |  *2*.2   | Opkomende markten innovatieprojecten  | --- | --- |
@@ -102,9 +102,9 @@ Besluit:
 | --- | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling)  | 10g.2  | Thermoplasten en composieten, vezel-metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen  | --- | --- |
 | 3.33  | Subsidieregeling sterktes in innovatie (service innovation & ICT)  | 10h.2  | --- | --- | --- |
 |  *Subsidieregeling sterktes in de regio*   |
-| 4.1  | [Subsidieregeling sterktes in de regio](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/de/regio/BWBR0024884/README.md) (regionale investeringsprojecten)  | 3.2  | --- | --- | --- |
+| 4.1  | Subsidieregeling sterktes in de regio (regionale investeringsprojecten)  | 3.2  | --- | --- | --- |
 |  *Subsidieregeling energie en innovatie*   |
-| 5.1  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (EOS: lange termijn)  | 2.1.2  | NEO haalbaarheidsstudie  | --- | --- |
+| 5.1  | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | NEO haalbaarheidsstudie  | --- | --- |
 | --- | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | Andere NEO projecten dan haalbaarheidsstudies  | --- | --- |
 | --- | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | LT ECN-consortia  | --- | --- |
 | --- | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | LT overige  | --- | --- |
@@ -137,13 +137,13 @@ Besluit:
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *Subsidieregeling starten, groeien en overdragen van ondernemingen*   |
-| 1  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (veiligheid kleine bedrijven)  | 9.7  | Aanvragen op basis van veiligheidsscans waarvoor op of na 1 maart 2012 subsidie is verstrekt  | 01-03-2012  t/m  31-07-2013  | 6.300.000  |
+| 1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.7  | Aanvragen op basis van veiligheidsscans waarvoor op of na 1 maart 2012 subsidie is verstrekt  | 01-03-2012  t/m  31-07-2013  | 6.300.000  |
 |  *Subsidieregeling energie en innovatie*   |
-| 2  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (fotovoltaïsche zonnepanelen)  | 3.11.2  | --- | 02-07-2012 t/m  28-12-2013  | 50.882.000  |
+| 2  | Subsidieregeling energie en innovatie (fotovoltaïsche zonnepanelen)  | 3.11.2  | --- | 02-07-2012 t/m  28-12-2013  | 50.882.000  |
 
 ### Artikel  3  
 
-De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md), bedragen voor de in 2013 aangevraagde subsidies voor innovatiekredieten: 
+De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2013 aangevraagde subsidies voor innovatiekredieten: 
 
 a. het basispercentage: 2 procent per jaar;  
 
@@ -155,8 +155,8 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
 ### Artikel  3a  
 
-1.  Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) voor de in kolom 1 genoemde artikelen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 4; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
-2.  Activiteiten komen slechts in aanmerking voor subsidie wanneer zij passen binnen de in kolom 3 genoemde thema’s, opgenomen in het programma in de in kolom 2 genoemde bijlage bij de [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md).   
+1.  Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de Subsidieregeling sterktes in innovatie voor de in kolom 1 genoemde artikelen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 4; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
+2.  Activiteiten komen slechts in aanmerking voor subsidie wanneer zij passen binnen de in kolom 3 genoemde thema’s, opgenomen in het programma in de in kolom 2 genoemde bijlage bij de Subsidieregeling sterktes in innovatie.   
 3.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste en tweede lid wordt per in kolom 4 genoemde periode vastgesteld: het daarbij behorende in kolom 5 genoemde bedrag in euro’s of voucheraantal.  
 
 | 1. Artikel  | 2. Programma  | 3. Thema’s  | 4. Openstelling  | 5. plafond  |
@@ -177,26 +177,26 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
 ### Artikel  3b  
 
-1.  Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
+1.  Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de Subsidieregeling energie en innovatie voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 3 genoemde periode vastgesteld: het daarbij behorende in kolom 4 genoemde bedrag in euro’s.  
 
-| 1.  Paragraaf van de [Subsidieregeling Energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | 2.  Project  | 3. openstellingsperiode in 2013  | 4.  subsidieplafond  |
+| 1.  Paragraaf van de Subsidieregeling Energie en innovatie  | 2.  Project  | 3. openstellingsperiode in 2013  | 4.  subsidieplafond  |
 |:---|:---|:---|:---|
-| [2.4.1](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | BBE innovatieproject  | t/m 19 september  | 3,7 mln  |
-| [2.4.2](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | BBE KEW-project  | t/m 19 september  | 6,7 mln  |
-| [2.4.3](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | STEM-project  | t/m 12 september  | 1 mln  |
-| [2.4.4](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | BBEG-project  | t/m 19 september  | 5,9 mln  |
-| [2.4.5](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | GG-project  | t/m 19 september  | 12 mln  |
-| [2.4.6](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | UGas-project  | t/m 5 september  | 0,5 mln  |
-| [2.4.7](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | LNG-project  | t/m 5 september  | 1,5 mln  |
-| [2.4.8](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | SGas-project  | t/m 5 september  | 0,9 mln  |
-| [2.4.9](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | SDGas-project  | t/m 5 september  | 0,4 mln  |
-| [2.4.10](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | GAS-project  | t/m 5 september  | 0,3 mln  |
-| [2.4.11](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | WBS-project  | t/m 19 september  | 3,5 mln  |
-| [2.4.12](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | ZEGO-project  | t/m 19 september  | 7 mln  |
-| [2.4.13](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | EnerGO-project  | t/m 19 september  | 4,8 mln  |
-|[2.4.14](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  |DFP-project  |t/m 19 september  |1,2 mln  |
-| [3.10](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  | Smartgrids-project  | t/m 12 september  | 5,35 mln  |
+| 2.4.1  | BBE innovatieproject  | t/m 19 september  | 3,7 mln  |
+| 2.4.2  | BBE KEW-project  | t/m 19 september  | 6,7 mln  |
+| 2.4.3  | STEM-project  | t/m 12 september  | 1 mln  |
+| 2.4.4  | BBEG-project  | t/m 19 september  | 5,9 mln  |
+| 2.4.5  | GG-project  | t/m 19 september  | 12 mln  |
+| 2.4.6  | UGas-project  | t/m 5 september  | 0,5 mln  |
+| 2.4.7  | LNG-project  | t/m 5 september  | 1,5 mln  |
+| 2.4.8  | SGas-project  | t/m 5 september  | 0,9 mln  |
+| 2.4.9  | SDGas-project  | t/m 5 september  | 0,4 mln  |
+| 2.4.10  | GAS-project  | t/m 5 september  | 0,3 mln  |
+| 2.4.11  | WBS-project  | t/m 19 september  | 3,5 mln  |
+| 2.4.12  | ZEGO-project  | t/m 19 september  | 7 mln  |
+| 2.4.13  | EnerGO-project  | t/m 19 september  | 4,8 mln  |
+|2.4.14  |DFP-project  |t/m 19 september  |1,2 mln  |
+| 3.10  | Smartgrids-project  | t/m 12 september  | 5,35 mln  |
 
 ### Artikel  4  
 

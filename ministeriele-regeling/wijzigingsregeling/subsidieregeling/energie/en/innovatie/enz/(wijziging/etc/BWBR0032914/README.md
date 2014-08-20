@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 13 februari 2013, nr. WJZ/12043892, tot wijziging van de Subsidieregeling energie en innovatie ter wijziging van de voorwaarden in het programma Risico's dekken voor aardwarmte
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 4](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [7, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [23, onderdeel c](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [32, derde lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [34, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [44 van het Kaderbesluit EZ-subsidies](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 5, 7, eerste lid, 15, 17, 19, eerste lid, 23, onderdeel c, 25, 32, derde lid, 34, eerste lid, en 44 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -16,7 +16,7 @@ Wijzigt de Regeling openstelling en subsidieplafonds EZ 2013.
 
 ### Artikel  III  
 
-Op subsidies die vóór de inwerkingtreding van deze regeling als gevolg van [artikel 3.4.2, eerste lid, van de Subsidieregeling energie en innovatie](../../../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) zijn verstrekt, blijft de regeling van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
+Op subsidies die vóór de inwerkingtreding van deze regeling als gevolg van artikel 3.4.2, eerste lid, van de Subsidieregeling energie en innovatie zijn verstrekt, blijft de regeling van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  IV  
 

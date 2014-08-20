@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ/13023889, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen alsmede wijziging van de Regeling openstelling en subsidieplafonds EZ 2012 (garantie scheepsnieuwbouwfinanciering)
 
 De Minister van Economische Zaken;  
-Gelet op [artikelen 4](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [16](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [18, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [30, vijfde lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [32, derde lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [44 van het Kaderbesluit EZ-subsidies](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op artikelen 4, 5, 15, 16, 17, eerste lid, 18, eerste lid, 19, 25, 30, vijfde lid, 32, derde lid, en 44 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  

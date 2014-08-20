@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 10 december 2009, nr. WJZ/9162315, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2010)
 
 De Minister van Economische Zaken,  
-Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en op de [artikelen 3.9](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md), [5.5](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) en [5a.5 van de Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md);
+Gelet op artikel 16 van het Kaderbesluit EZ-subsidies en op de artikelen 3.9, 5.5 en 5a.5 van de Subsidieregeling innoveren;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling 2010  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  |
+| Subsidieregeling starten, groeien en overdragen van ondernemingen  |
 | 1.1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)   | 2.3  | Bedrijfsborgstellingskredieten  | 01-01 t/m 31-12  | 805.000.000  |
 | 1.2  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)   | 2.3  | Bodemsaneringsborgstellingskredieten  | 01-01 t/m 31-12  | 65.344.122  |
 | 1.3  | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit)   | 3.2  | --- | 01-01 t/m 31-12  | 170.000.000  |
@@ -32,7 +32,7 @@ Vervallen | --- | --- | --- | --- |
 | 1.12  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.2  | --- |16-03 t/m 01-12 |7.700.000 |
 |1.13 |Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) |9.11 | --- |16-03 t/m 26-04 |4.900.000 |
 |1.14 |Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) |9.12 | --- |16-03 t/m 26-04 |2.300.000 |
-| [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)  |
+| Subsidieregeling innoveren  |
 | 2.1  | Subsidieregeling innoveren (Eurostars-projecten)  | 2.2  | --- | 15-01 t/m 29-01 14-06 t/m 13-08  | 2.500.000 3.750.000  |
 | 2.2  | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Klinische ontwikkelingsprojecten  | 01-01 t/m 31-12  | 15.917.000  |
 | 2.3  | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Technische ontwikkelingsprojecten  | 01-01 t/m 31-12  | 32.157.000  |
@@ -47,7 +47,7 @@ Vervallen | --- | --- | --- | --- |
 | 2.9  | Subsidieregeling innoveren (private innovatievouchers)  | 5a.2  | Aantal beschikbare grote vouchers  |23-2 t/m 31-12 | 1000 stuks  |
 | 2.10  | Subsidieregeling innoveren (private innovatievouchers)  | 5a.3  | Aantal beschikbare kleine vouchers  |23-2 t/m 31-12 | 1000 stuks  |
 | 2.11  | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)  | 6.2  | --- | --- | --- |
-| [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)  |
+| Subsidieregeling sterktes in innovatie  |
 | 3.1  | Subsidieregeling sterktes in innovatie (Internationaal innoveren)  | 2.2  | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten  |14-06 t/m 13-09 |2.911.000 |
 | 3.2  | Subsidieregeling sterktes in innovatie (Internationaal innoveren)  | 2.2  | Opkomende markten innovatieprojecten  | 01-01 t/m 25-06 28-06 t/m 13-09  | 3.000.000 1.000.000  |
 | 3.3  | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | --- | -  | -  |
@@ -106,7 +106,7 @@ Vervallen | --- | --- | --- | --- |
 |3.31 |Subsidieregeling sterktes in innovatie (Service Innovation & ICT) |10h.2 | --- |15-04 t/m 17-06 |4.500.000 |
 |3.31 |Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) |10g.2 |onderzoek op motorcomponenten |Tijdstip van inwerkingtreding van deze regeling t/m 26-04 |898.000 |
 |3.32 |Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) |10g.2 |thermoplasten en composieten, vezel-metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen |Tijdstip van inwerkingtreding van deze regeling t/m 26-04 |3.592.000 |
-| [Subsidieregeling sterktes in de regio](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/de/regio/BWBR0024884/README.md)  |
+| Subsidieregeling sterktes in de regio  |
 |4.1  |Subsidieregeling  sterktes in de regio  (Pieken in de delta)  |2.3  | --- | --- | --- |
 | --- | --- | --- |Oost-Nederland |15-03 t/m 27-04 |4.000.000 |
 | --- | --- | --- | Noordvleugel Randstad  |15-03 t/m 27-04 |9.000.000 |
@@ -120,7 +120,7 @@ Vervallen | --- | --- | --- | --- |
 | --- | --- | --- |Zuidwest-Nederland  |04-10 t/m 12/11  |2.500.000  |
 | --- | --- | --- |Zuidoost-Nederland  |04-10 t/m 12/11  |7.000.000  |
 |4.2 |Subsidieregeling sterktes in de regio (regionale investeringsprojecten) |3.2 | --- |12-07 t/m 15-11 |10.400.000 |
-| [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  |
+| Subsidieregeling energie en innovatie  |
 | 5.1  | Subsidieregeling energie en innovatie (EOS: lange termijn  | 2.1.2  | NEO haalbaarheidsstudie  | 11-02 t/m 14-10  | 500.000  |
 | --- | --- | --- | Andere NEO projecten dan haalbaarheidsstudies  | 01-01 t/m 09-09  | 1.000.000  |
 | --- | --- | --- | LT ECN-consortia  | 01-01 t/m 04-03  | 4.000.000  |
@@ -133,9 +133,9 @@ Vervallen | --- | --- | --- | --- |
 |5.6 |Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) |3.8.8 |Investeringprojecten industriële warmtebenutting |15-03 t/m 19-08 |8.000.000 |
 |5.7 |Subsidieregeling energie en innovatie (Effectieve en efficiënte vergistingketen) |3.9.2 |Pilotprojecten vergistingketen |10-06 t/m 02-09 |3.213.758 |
 | --- | --- | --- |Demonstratieprojecten vergistingketen |10-06 t/m 02-09 |4.000.000 |
-| [Subsidieregeling internationaal ondernemen](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/BWBR0026819/README.md)  |
+| Subsidieregeling internationaal ondernemen  |
 | 6.1  | Subsidieregeling internationaal ondernemen (Prepare2Start)  | 2.2  | --- | 01-01 t/m 31-12  | 15.000.000  |
-| [Subsidieregeling internationaal excelleren](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md)  |
+| Subsidieregeling internationaal excelleren  |
 | 7.1  | Subsidieregeling internationaal excelleren (Basismodule 2Getthere)  | 2.1  | Periode vooraanmelding  | --- | -  |
 | 7.2  | Subsidieregeling internationaal excelleren (Basismodule 2Getthere en demonstratieprojecten)  | 2.1 en 3.1  | --- | 01-01 t/m 31-12  | 6.600.000  |
 | 7.3  | Subsidieregeling internationaal excelleren (2xplore)  | 4.1  | --- | 01-01 t/m 31-12  | 1.500.000  |
@@ -150,25 +150,25 @@ Vervallen | --- | --- | --- | --- |
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (Duurzame warmte voor bestaande woningen)  | 3.1.2  | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen  | 10-09-2008 t/m 31-12-2010  | 32.000.000  |
+| 1  | Subsidieregeling energie en innovatie (Duurzame warmte voor bestaande woningen)  | 3.1.2  | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen  | 10-09-2008 t/m 31-12-2010  | 32.000.000  |
 | --- | --- | --- | Lucht/waterwarmtepompen  | 10-09-2008 t/m 31-12-2010  | 4.000.000  |
 | --- | --- | --- | Installaties voor micro-warmtekrachtkoppeling  | 10-09-2008 t/m 31-12-2010  | 4.000.000  |
 | 2  | Subsidieregeling energie en innovatie (Investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders)  | 3.3.2  | --- | 01-09-2009 t/m 15-12-2010  | 4.290.000  |
-| 3  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (Risico’s dekken voor aardwarmte)  | 3.4.2  | --- | 03-11-2009 t/m 01-05-2010  | 35.700.000  |
+| 3  | Subsidieregeling energie en innovatie (Risico’s dekken voor aardwarmte)  | 3.4.2  | --- | 03-11-2009 t/m 01-05-2010  | 35.700.000  |
 | --- | --- | --- | --- |01-10-2010 t/m 01-04-2011 |43.350.000 |
-| 4  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (Voorbereidingsstudies en demonstratieprojecten vergassing)  | 3.6.2, eerste lid  | Voorbereidingsstudies  | 20-11-2009 t/m 31-03-2010  | 200.000  |
+| 4  | Subsidieregeling energie en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing)  | 3.6.2, eerste lid  | Voorbereidingsstudies  | 20-11-2009 t/m 31-03-2010  | 200.000  |
 | --- | --- |3.6.2, tweede lid |Demonstratieprojecten |10-5 t/m 30-9 |12.650.000 |
-| 5  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (Experimenteerregeling Wind op Zee)  | 3.7.2  | --- | 19-11-2009 t/m 28-01-2010  | 9.000.000  |
-|6 |[Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (LSH-projecten; ETB-samenwerkingsverbanden) |4.2 | --- |01-10-2010 t/m 01-02-2011 |3.000.000 |
-|7. |[Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (IOP’s)  |3.2 |Maritiem (periode vooraanmelding)  |04-10-2010 t/m 29-10-2010  |–  |
+| 5  | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee)  | 3.7.2  | --- | 19-11-2009 t/m 28-01-2010  | 9.000.000  |
+|6 |Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden) |4.2 | --- |01-10-2010 t/m 01-02-2011 |3.000.000 |
+|7. |Subsidieregeling sterktes in innovatie (IOP’s)  |3.2 |Maritiem (periode vooraanmelding)  |04-10-2010 t/m 29-10-2010  |–  |
 | --- | --- | --- |Maritiem (Offshore)  |31-01-2011 t/m 25-02-2011  |1.075.000  |
-|8. |[Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m  | --- | 01-01-2010 t/m 31-12-2011  | 250.000.000  |
-|9. |[Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) |– 3.12b | --- |–01-01-2010 t/m 31-12-2011 |1.258.607.000 |
+|8. |Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m  | --- | 01-01-2010 t/m 31-12-2011  | 250.000.000  |
+|9. |Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) |– 3.12b | --- |–01-01-2010 t/m 31-12-2011 |1.258.607.000 |
 | --- | --- |– 3.12v | --- |–08-03-2010 t/m 31-12-2011 | --- |
 
 ### Artikel  3  
 
-De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md), bedragen voor de in 2010 aangevraagde subsidies voor innovatiekredieten: 
+De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2010 aangevraagde subsidies voor innovatiekredieten: 
 
 a. het basispercentage: 1,2 procent per jaar;  
 

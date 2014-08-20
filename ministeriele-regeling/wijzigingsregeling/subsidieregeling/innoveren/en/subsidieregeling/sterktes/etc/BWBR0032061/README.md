@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 1 oktober 2012, nr. WJZ/12302026, tot wijziging van de Subsidieregeling innoveren en de Subsidieregeling sterktes in innovatie (steunaspecten)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op [artikel 4 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md),
+Gelet op artikel 4 van het Kaderbesluit EZ-subsidies,
 Besluit:    
 
 ### Artikel  I  
 
-Een aanvraag om subsidie krachtens een op het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) gebaseerde regeling wordt afgewezen, indien de aanvrager reeds vóór de datum van indiening van de aanvraag met de subsidiabele activiteiten of het project is begonnen. 
+Een aanvraag om subsidie krachtens een op het Kaderbesluit EZ-subsidies gebaseerde regeling wordt afgewezen, indien de aanvrager reeds vóór de datum van indiening van de aanvraag met de subsidiabele activiteiten of het project is begonnen. 
 
 ### Artikel  II  
 

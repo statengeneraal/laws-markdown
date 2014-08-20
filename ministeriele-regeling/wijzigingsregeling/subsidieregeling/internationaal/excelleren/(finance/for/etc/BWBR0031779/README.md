@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 4 juli 2012, nr. WJZ / 11155512, tot wijziging van de Subsidieregeling internationaal excelleren (Finance for International Business)
 
 De Staatssecretaris van Economische Zaken, Landbouw en Innovatie;  
-Gelet op de [artikelen 2, tweede lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [3, tweede lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [4](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [16](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17, eerste lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [34](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [44 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 2, tweede lid, 3, tweede lid, 4, 16, 17, eerste lid, 19, 25, 34 en 44 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -16,7 +16,7 @@ Wijzigt de Subsidieregeling internationaal excelleren.
 
 ### Artikel  III  
 
-Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de [Subsidieregeling internationaal ondernemen](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/BWBR0026819/README.md) van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
+Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de Subsidieregeling internationaal ondernemen van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  IV  
 

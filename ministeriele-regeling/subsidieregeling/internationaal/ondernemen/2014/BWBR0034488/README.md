@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 december 2013, nr. Minbuza-2013.34529 inzake subsidieverstrekking voor activiteiten gericht op het versterken van de voorwaarden voor duurzaam internationaal ondernemen van MKB-ondernemers (Subsidieregeling internationaal ondernemen 2014)
 
 De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,  
-Gelet op de [artikelen 4](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [8](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [19 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 8, 17 en 19 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -24,7 +24,7 @@ Bij de toepassing van deze regeling neemt de minister de de-minimisverordening i
 
 ### Artikel  4  
 
-1.  Voor toepassing van deze regeling in 2014 geldt een subsidieplafond van € 1,44 miljoen. De minister maakt de subsidieplafonds voor de tijdvakken na 2014 in de Staatscourant bekend.   
+1.  Voor toepassing van deze regeling in 2014 geldt een subsidieplafond van € 2,44 miljoen. De minister maakt de subsidieplafonds voor de tijdvakken na 2014 in de Staatscourant bekend.   
 2.  De minister verdeelt de beschikbare internationaliseringsvouchers in volgorde van ontvangst van de aanvragen. Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het plafond zou worden overschreden, stelt de minister de volgorde van verstrekking vast door middel van loting.  
 
 ### Artikel  5  
@@ -36,10 +36,10 @@ a. een stichting of een vereniging met volledige rechtsbevoegdheid die blijkens 
 
 b. de kamer van koophandel;  
 
-c. een exportadviesonderneming, ingeschreven bij de kamer van koophandel.     
+c.een exportadviesonderneming, die statutair of naar werkzaamheden gericht of mede gericht is op het adviseren en begeleiden van MKB-ondernemingen op het gebied van internationaal ondernemen en export.    
 3.  Organisaties, bedoeld in het tweede lid, kunnen slechts voor subsidie in aanmerking komen indien: 
 
-a. zij in voldoende mate beschikken over deskundige personele capaciteit op ten minste hbo-niveau met drie of meer jaren relevante adviespraktijk en  
+a.zij in voldoende mate beschikken over deskundige personele capaciteit op ten minste hbo-niveau met drie of meer jaren ervaring met het in het kader van de in het tweede lid, onderdeel c, bedoelde kerntaken adviseren en begeleiden van en in een nauwe relatie met MKB-ondernemingen op het terrein van internationaal ondernemen en export, en 
 
 b. zij zich bereid verklaren om de gedragscode die als bijlage bij deze regeling is gevoegd, na te leven.     
 4.  Geen subsidie wordt verstrekt voor een ondersteuningstraject ten behoeve van een ondernemer aan wie krachtens hoofdstuk 2 van de Subsidieregeling internationaal ondernemen een subsidie is verleend die nog niet is vastgesteld.  
@@ -55,7 +55,7 @@ De subsidie bedraagt € 2.400 per ondersteuningstraject.
 
 ### Artikel  8  
 
-De [Subsidieregeling internationaal ondernemen 2012](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/2012/BWBR0031355/README.md) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op aanvragen om subsidie, die voor inwerkingtreding van deze regeling zijn ingediend en op subsidies die voor inwerkingtreding van deze regeling zijn verstrekt. 
+De Subsidieregeling internationaal ondernemen 2012 wordt ingetrokken, met dien verstande dat zij van toepassing blijft op aanvragen om subsidie, die voor inwerkingtreding van deze regeling zijn ingediend en op subsidies die voor inwerkingtreding van deze regeling zijn verstrekt. 
 
 ### Artikel  9  
 

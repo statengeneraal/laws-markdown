@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 14 december 2009, nr. WJZ/9223975, houdende wijzigingen van de regeling Sterktes in innovatie en de toevoeging van vier extra hoofdstukken
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 4](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17, eerste tot en met derde lid](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [18](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [44](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [48, eerste lid van het Kaderbesluit EZ-subsidies](../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 5, 17, eerste tot en met derde lid, 18, 44 en 48, eerste lid van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  

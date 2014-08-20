@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 27 oktober 2010, nr. WJZ / 10154263, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen en van de Regeling openstelling en subsidieplafonds EZ 2010
 
 De Minister van Economische Zaken, Landbouw en Innovatie;  
-Gelet op de [artikelen 16](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [19 van het Kaderbesluit EZ-subsidies](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 16 en 19 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -16,7 +16,7 @@ Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010.
 
 ### Artikel  III  
 
-[Artikel 3.12v, vijfde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md), zoals dat luidt na inwerkingtreding van deze regeling, geldt alleen voor aanvragen die zijn ingediend na 31 december 2010. 
+Artikel 3.12v, vijfde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen, zoals dat luidt na inwerkingtreding van deze regeling, geldt alleen voor aanvragen die zijn ingediend na 31 december 2010. 
 
 ### Artikel  IV  
 

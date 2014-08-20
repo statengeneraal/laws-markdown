@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 13 december 2011, nr. WJZ / 11109912, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen (Borgstelling MKB-kredieten, Tijdelijke garantie ondernemingsfinanciering en Tijdelijke garantie ondernemingsfinanciering curatieve zorg)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [30, vierde en vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 5, eerste lid, 19, eerste lid, en 30, vierde en vijfde lid, van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  

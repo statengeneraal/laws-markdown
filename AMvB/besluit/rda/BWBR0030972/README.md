@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 23 november 2011, nr. WJZ / 11165204;
 
-Gelet op [artikel 3.52a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+Gelet op artikel 3.52a van de Wet inkomstenbelasting 2001;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 14 december 2011, nr. W15.11.0507/IV);
 
@@ -19,11 +19,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *wet:* [Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a.  *wet:* Wet inkomstenbelasting 2001;  
 
 b.  *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
-c.  *speur- en ontwikkelingswerk:* hetgeen daaronder wordt verstaan in [artikel 3.52a, vijfde lid, van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+c.  *speur- en ontwikkelingswerk:* hetgeen daaronder wordt verstaan in artikel 3.52a, vijfde lid, van de wet;  
 
 d.  *kosten:* al hetgeen is betaald voor de realisatie van eigen speur- en ontwikkelingswerk en voor zover deze betalingen: 
 
@@ -45,19 +45,19 @@ f.  *bedrijfsmiddel:* goed dat voor het drijven van een onderneming wordt gebrui
 
 g.  *uitbesteed onderzoek:* werkzaamheden die voor de belastingplichtige als speur- en ontwikkelingswerk kunnen worden aangemerkt en door deze belastingplichtige worden uitbesteed aan een derde;  
 
-h.  *RDA-beschikking:* de beschikking, bedoeld in [artikel 3.52a, eerste lid, van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+h.  *RDA-beschikking:* de beschikking, bedoeld in artikel 3.52a, eerste lid, van de wet;  
 
-i.  *RDA-bedrag:* het bedrag, bedoeld in [artikel 3.52a, eerste lid van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+i.  *RDA-bedrag:* het bedrag, bedoeld in artikel 3.52a, eerste lid van de wet;  
 
-j.  *correctie-RDA-beschikking:* de beschikking, bedoeld in [artikel 3.52a, tweede lid, van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+j.  *correctie-RDA-beschikking:* de beschikking, bedoeld in artikel 3.52a, tweede lid, van de wet;  
 
-k.  *S&O-inhoudingsplichtige:* inhoudingsplichtige als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
+k.  *S&O-inhoudingsplichtige:* inhoudingsplichtige als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen;  
 
-l.  *S&O-uren:* het aantal uren, bedoeld in [artikel 23, tweede lid, onderdeel c, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
+l.  *S&O-uren:* het aantal uren, bedoeld in artikel 23, tweede lid, onderdeel c, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen;  
 
-m.  *S&O-verklaring:* verklaring als bedoeld in [artikel 1, eerste lid, onderdeel q, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md);  
+m.  *S&O-verklaring:* verklaring als bedoeld in artikel 1, eerste lid, onderdeel q, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen;  
 
-n.  *moedermaatschappij:* een belastingplichtige (moedermaatschappij), bedoeld in [artikel 15 van de Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+n.  *moedermaatschappij:* een belastingplichtige (moedermaatschappij), bedoeld in artikel 15 van de Wet op de vennootschapsbelasting 1969.   
 
 ### Artikel  2  
 
@@ -92,7 +92,7 @@ g. indien van toepassing de naam van de moedermaatschappij.
 
 ####(uitgaven)
 
-1.  Uitgaven die ten dele direct toerekenbaar zijn aan door de belastingplichtige verricht speur- en ontwikkelingswerk als bedoeld in [artikel 3.52a, eerste lid, van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), komen voor dat deel voor het RDA-bedrag in aanmerking.   
+1.  Uitgaven die ten dele direct toerekenbaar zijn aan door de belastingplichtige verricht speur- en ontwikkelingswerk als bedoeld in artikel 3.52a, eerste lid, van de wet, komen voor dat deel voor het RDA-bedrag in aanmerking.   
 2.  Een uitgave kan slechts in één RDA-beschikking worden opgenomen.   
 3.  Uitgaven van € 1.000.000 of meer per bedrijfsmiddel komen in enig kalenderjaar voor 20 percent voor het RDA-bedrag in aanmerking.   
 4.  In afwijking van het tweede lid kunnen uitgaven als bedoeld in het derde lid gedurende 5 jaar maximaal eenmaal per kalenderjaar in een RDA-beschikking worden opgenomen.  
@@ -121,7 +121,7 @@ e. kosten die een vergoeding vormen voor:
 a. de aanvrager onmiddellijk of middellijk, deelneemt aan de leiding van het of toezicht op, dan wel in het kapitaal van de belastingplichtige; of  
 
 b. de belastingplichtige onmiddellijk of middellijk, deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van de aanvrager.     
-3.  Tot de uitgaven worden niet gerekend investeringen die in aanmerking komen voor energie-investeringsaftrek, als bedoeld in [artikel 3.42 van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of voor milieu-investeringsaftrek, als bedoeld in [artikel 3.42a van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
+3.  Tot de uitgaven worden niet gerekend investeringen die in aanmerking komen voor energie-investeringsaftrek, als bedoeld in artikel 3.42 van de wet, of voor milieu-investeringsaftrek, als bedoeld in artikel 3.42a van de wet.  
 
 ### Artikel  6  
 
@@ -136,7 +136,7 @@ Indien een belastingplichtige die een aanvraag heeft ingediend voor een RDA-besc
 1.  Het RDA-bedrag beloopt 40 percent van de som van de kosten en uitgaven.   
 2.  Indien in een tijdvak waarvoor een S&O-verklaring is afgegeven het totaal aan erkende S&O-uren niet meer dan 150 per kalendermaand beloopt, wordt de som van de kosten en uitgaven, bedoeld in het eerste lid, vastgesteld door het totaal aantal erkende S&O-uren te vermenigvuldigen met € 15.   
 3.  Indien de aanvrager aantoont dat de som van de kosten en uitgaven meer dan € 50.000 per kalenderjaar bedraagt blijft het tweede lid op verzoek van de aanvrager in dat kalenderjaar buiten toepassing.   
-4.  Bij de toepassing van [artikel 3.52a, vierde lid, van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt het percentage niet hoger vastgesteld dan 100 en niet lager dan nihil.  
+4.  Bij de toepassing van artikel 3.52a, vierde lid, van de wet wordt het percentage niet hoger vastgesteld dan 100 en niet lager dan nihil.  
 
 ### Artikel  8  
 
@@ -181,19 +181,11 @@ c. de belastingplichtige niet tijdig de mededeling bedoeld in artikel 10, eerste
 
 ####(boetebepalingen)
 
-Als overtreding als bedoeld in [artikel 3.52a, elfde lid, van de wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangemerkt: 
+Als overtreding als bedoeld in artikel 3.52a, elfde lid, van de wet wordt aangemerkt: 
 
 a. het niet naleven van artikel 9; en  
 
 b. het verstrekken van gegevens of bescheiden die zodanig onjuist of onvolledig zijn dat het aannemelijk is dat op de aanvraag van een RDA-beschikking een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest.   
-
-### Artikel  13  
-
-####(aanvraag eerste RDA-beschikking 2012)
-
-1.  De aanvraag voor een RDA-beschikking met betrekking tot een periode van het kalenderjaar 2012, wordt niet eerder in behandeling genomen dan na 1 mei 2012.   
-2.  Als kosten en uitgaven zijn of worden gemaakt die samenhangen met S&O-projecten waarvoor een S&O-verklaring is afgegeven waarvan de periode aanvangt voor 1 juli 2012 dan komen deze kosten en uitgaven in afwijking van artikel 2, tweede lid, op aanvraag in aanmerking voor een RDA-beschikking.   
-3.  Voor een aanvraag als bedoeld in het tweede lid wordt door Onze Minister een formulier vastgesteld.  
 
 ### Artikel  14  
 

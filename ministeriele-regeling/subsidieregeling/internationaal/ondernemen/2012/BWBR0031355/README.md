@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 8 maart 2012, nr. WJZ / 12019931, houdende vaststelling van de Subsidieregeling internationaal ondernemen 2012 (Subsidieregeling internationaal ondernemen 2012)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op de [artikelen 4](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [8](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [19 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 8, 17 en 19 van het Kaderbesluit EZ-subsidies;
 Besluit:     
 ### §  1  
 
@@ -69,7 +69,7 @@ b. een subsidie als bedoeld in artikel 5 is opgenomen in bijlage 2.
 
 ### Artikel  9  
 
-1.  De [Subsidieregeling internationaal ondernemen](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/BWBR0026819/README.md) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op aanvragen om subsidie, die vóór de inwerkingtreding van de voorliggende regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van de voorliggende regeling zijn verstrekt.   
+1.  De Subsidieregeling internationaal ondernemen wordt ingetrokken, met dien verstande dat zij van toepassing blijft op aanvragen om subsidie, die vóór de inwerkingtreding van de voorliggende regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van de voorliggende regeling zijn verstrekt.   
 2.  Geen subsidie wordt verstrekt voor een ondersteuningstraject, dat betrekking heeft op een ondernemer, aan wie krachtens hoofdstuk 2 van de Subsidieregeling internationaal ondernemen een subsidie is verleend die nog niet is vastgesteld.  
 
 ### Artikel  10  

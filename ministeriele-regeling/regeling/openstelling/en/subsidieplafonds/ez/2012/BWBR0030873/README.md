@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 15 december 2011, nr. WJZ / 11144835, tot vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2012)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de [artikelen 3.9](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md), [5.5](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) en [5a.5 van de Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md);
+Gelet op artikel 16 van het Kaderbesluit EZ-subsidies en de artikelen 3.9, 5.5 en 5a.5 van de Subsidieregeling innoveren;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling 2012  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|  [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  |
+|  Subsidieregeling starten, groeien en overdragen van ondernemingen  |
 | 1.1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | 01-01 t/m 31-12  | 680.000.000  |
 | --- |Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  |2.3 |Bedrijfsborgstellings-kredieten (door de minister aangewezen kredietverstrekkers) |Tijdstip waarop de regeling WJZ/12316813 in werking treedt t/m 31-12  |25.000.000  |
 | --- | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bodemsaneringsborgstellingskredieten  | 01-01 t/m 31-12  | 65.344.000  |
@@ -28,7 +28,7 @@ Besluit:
 | 1.7  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw)  | 8.3  | --- | 01-01 t/m 31-12  | 1.000.000.000  |
 | 1.8  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.3  | --- | 01-03 t/m 01-12  | 2.700.000  |
 | --- |
-|  [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)  |
+|  Subsidieregeling innoveren  |
 | 2.1  | Subsidieregeling innoveren (Eurostars-projecten)  | 2.2  | --- | 12-01 t/m 31-01  14-06 t/m 3-07 | 5.000.000  4.384.000 |
 | 2.2  | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Klinische ontwikkelingsprojecten  | 01-01 t/m 31-12  | 30.000.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Technische ontwikkelingsprojecten  | 01-01 t/m 31-12  | 65.000.000  |
@@ -44,7 +44,7 @@ Besluit:
 | 2.11  | Subsidieregeling innoveren (private innovatievouchers)  | 5a.9  | --- | –  | –  |
 | 2.12  | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)  | 6.2  | --- | –  | –  |
 | --- |
-|  [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)  |
+|  Subsidieregeling sterktes in innovatie  |
 |3.01 |Subsidieregeling sterktes in innovatie (TKI-toeslag) |1a.2 | --- |01-10 t/m 30/11 |– |
 | 3.1  | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  |  *2*.2  | Opkomende markten innovatieprojecten  | –  | –  |
@@ -101,10 +101,10 @@ Besluit:
 | --- | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling)  | 10g.2  | Thermoplasten en composieten, vezel-metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen  | –  | –  |
 | 3.32  | Subsidieregeling sterktes in innovatie (service innovation & ICT)  | 10h.2  | --- | –  | –  |
 | --- |
-|  [Subsidieregeling sterktes in de regio](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/de/regio/BWBR0024884/README.md)  |
+|  Subsidieregeling sterktes in de regio  |
 | 4.1  | Subsidieregeling sterktes in de regio (regionale investeringsprojecten)  | 3.2  | --- | –  | –  |
 | --- |
-|  [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)  |
+|  Subsidieregeling energie en innovatie  |
 | 5.1  | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | NEO haalbaarheidsstudie  | –  | –  |
 | --- | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | Andere NEO projecten dan haalbaarheidsstudies  | –  | –  |
 | --- | Subsidieregeling energie en innovatie (EOS: lange termijn)  | 2.1.2  | LT ECN-consortia  | –  | –  |
@@ -129,10 +129,10 @@ Besluit:
 |5.15 |Subsidieregeling energie en innovatie (smart grids) | 3.10.2  | --- | 09-07 t/m 01-10  | 7.722.423  |
 |5.16 |Subsidieregeling energie en innovatie (fotovoltaïsche zonnepanelen) | 3.11.2  | --- | 02-07 9:00 t/m 28-12  | 21.550.000  |
 | --- |
-|  [Subsidieregeling internationaal ondernemen 2012](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/2012/BWBR0031355/README.md)  |
+|  Subsidieregeling internationaal ondernemen 2012  |
 | 6.1  | Subsidieregeling internationaal ondernemen 2012  | 2  |Aantal beschikbare internationaliseringsvouchers | 01-04 t/m 31-12  | 500  |
 | --- |
-|  [Subsidieregeling internationaal excelleren](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md)  |
+|  Subsidieregeling internationaal excelleren  |
 | 7.1  | Subsidieregeling internationaal excelleren (basismodule 2Getthere)  | 2.1  | --- | –  | –  |
 | 7.2  | Subsidieregeling internationaal excelleren (2Getthere demonstratieprojecten)  | 3.1  | --- | 01-01 t/m 31-12  | 2.200.000  |
 | 7.3  | Subsidieregeling internationaal excelleren (2xplore)  | 4.1  | --- | –  | –  |
@@ -148,19 +148,19 @@ Besluit:
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (veiligheid kleine bedrijven)  | 9.7  |Aanvragen op basis van veiligheidsscans waarvoor voor 1 maart 2012 subsidie is verstrekt | 01-02-2011 t/m 01-06-2012  | 7.000.000  |
+| 1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.7  |Aanvragen op basis van veiligheidsscans waarvoor voor 1 maart 2012 subsidie is verstrekt | 01-02-2011 t/m 01-06-2012  | 7.000.000  |
 |1a  |Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  |9.7  |Aanvragen op basis van veiligheidsscans waarvoor op of na 1 maart 2012 subsidie is verstrekt. |01-0 01-03-2012 t/m 31-07-2013   |6.300.000 |
 | 2  | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemersfinanciering en garantstelling gericht op bankgaranties)  | – 3.12b  en  – 3.12v  | --- | 01-01-2010 t/m 31-12-2012  08-03-2010 t/m 31-12-2012  | 1.258.607.000  |
 | 3  | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemersfaciliteit curatieve zorg)  | 3.12m  | --- | --- | --- |
-| 4  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (IOP’s)  | 3.2  | Self healing materials (periode vooraanmelding)  | 14-11-2011 t/m 5-12-2011  | –  |
+| 4  | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Self healing materials (periode vooraanmelding)  | 14-11-2011 t/m 5-12-2011  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Self healing materials  | 2-4-2012 t/m 11-5-2012  | 4.100.000  |
 | 5  | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Photonic devices (periode vooraanmelding)  | 1-11-2011 t/m 25-11-2011  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Photonic devices  | 26-3-2012 t/m 20-4-2012  | 4.750.000  |
-| 6  | [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (innovatieprestatiecontracten)  | 4.18  | --- | 22-11-2011 t/m 17-1-2012  | 17.500.000  |
+| 6  | Subsidieregeling innoveren (innovatieprestatiecontracten)  | 4.18  | --- | 22-11-2011 t/m 17-1-2012  | 17.500.000  |
 
 ### Artikel  3  
 
-De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md), bedragen voor de in 2012 aangevraagde subsidies voor innovatiekredieten: 
+De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2012 aangevraagde subsidies voor innovatiekredieten: 
 
 a. het basispercentage: 2 procent per jaar;  
 

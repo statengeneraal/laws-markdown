@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 13 december 2011, nr. WJZ/11067701, tot wijziging van de subsidieregeling innoveren en de subsidieregeling starten, groeien en overdragen van ondernemingen ten behoeve van het Innovatiefonds MKB+
 
 De Minister van Economische Zaken, Landbouw en Innovatie;  
-Gelet op de [artikelen 4](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5, eerste lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [23, onderdeel c](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [42, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 5, eerste lid, 15, 23, onderdeel c, 25, en 42, eerste lid, van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -16,7 +16,7 @@ Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen.
 
 ### Artikel  III  
 
-Op aanvragen om subsidie die voor de inwerkingtreding van deze regeling zijn ingediend en op subsidies die voor de inwerkingtreding van deze regeling zijn verstrekt, op grond van de [Subsidieregeling innoveren](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) en de [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md), zijn de betreffende regelingen van toepassing zoals deze luidden direct voor de inwerkingtreding van deze regeling. 
+Op aanvragen om subsidie die voor de inwerkingtreding van deze regeling zijn ingediend en op subsidies die voor de inwerkingtreding van deze regeling zijn verstrekt, op grond van de Subsidieregeling innoveren en de Subsidieregeling starten, groeien en overdragen van ondernemingen, zijn de betreffende regelingen van toepassing zoals deze luidden direct voor de inwerkingtreding van deze regeling. 
 
 ### Artikel  IV  
 

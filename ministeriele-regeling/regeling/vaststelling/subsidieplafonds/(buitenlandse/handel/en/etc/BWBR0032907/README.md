@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 12 februari 2013, nr. MinBuZa-2013.8076, tot vaststelling van enkele subsidieplafonds
 
 De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,  
-Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op artikel 16 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -13,9 +13,9 @@ Besluit:
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr  | Besluit  | Artikel  | Groep  | Openstelling 2013  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | [Subsidieregeling internationaal ondernemen 2012](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/2012/BWBR0031355/README.md)  | [2](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/2012/BWBR0031355/README.md)  | --- | 15-02 t/m 31-12  | 1.440.000  |
-| 2  | [Subsidieregeling internationaal excelleren](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md) (basismodule 2getthere)  | [2.1](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md)  | --- | 15-02 t/m 31-12  | 750.000  |
-| 3  | [Beleidsregel Partners for International Business](../../../../../../../../../beleidsregel/beleidsregel/partners/for/international/business/BWBR0031276/README.md)  | --- | --- | 15-02 t/m 31-12  | 7.150.000  |
+| 1  | Subsidieregeling internationaal ondernemen 2012  | 2  | --- | 15-02 t/m 31-12  | 1.440.000  |
+| 2  | Subsidieregeling internationaal excelleren (basismodule 2getthere)  | 2.1  | --- | 15-02 t/m 31-12  | 750.000  |
+| 3  | Beleidsregel Partners for International Business  | --- | --- | 15-02 t/m 31-12  | 7.150.000  |
 
 ### Artikel  II  
 

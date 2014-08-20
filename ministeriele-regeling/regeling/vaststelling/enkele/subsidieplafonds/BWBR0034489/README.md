@@ -2,7 +2,7 @@
 
 ##Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 december 2013, nr. MinBuza-2013.345221, tot vaststelling van enkele subsidieplafonds
 
-Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op artikel 16 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -12,9 +12,9 @@ Besluit:
 
 | 1  | 2  | 3  | 4  | 5  | Besluit  | Artikel  | Groep  | Openstelling 2014  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| [Subsidieregeling internationaal excelleren](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md) (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving)  | [3.1](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md), [4.1](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md), [5.19](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md)  | M.b.t. de landen Bahrein, Bangladesh, Brazilië, China<sup>1</sup>, Colombia, Egypte, Ethiopië, Ghana, India, Indonesië, Kenia, Koeweit, Maleisië, Nigeria, Oekraïne, Oman, Qatar, Rusland, Saudi-Arabië, Singapore, Turkije, Verenigde Arabische Emiraten, Vietnam, Zuid-Afrika, Zuid-Korea, Argentinië, Azerbeidzjan, Chili, Irak, Kazachstan, Mexico, Panama, Servië  | 01-01 t/m 31-12  | 5.867.000  |
-| Subsidieregeling internationaal excelleren (Finance for International Business-lening)  | [5.2](../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md)  | --- | 15-02 t/m 31-12  | 5.870.000  |
-| [Beleidsregel Partners for International Business](../../../../../../beleidsregel/beleidsregel/partners/for/international/business/BWBR0031276/README.md)  | --- | --- | 01-01 t/m 31-12  | 6.305.000  |
+| Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving)  | 3.1, 4.1, 5.19  | M.b.t. de landen Bahrein, Bangladesh, Brazilië, China<sup>1</sup>, Colombia, Egypte, Ethiopië, Ghana, India, Indonesië, Kenia, Koeweit, Maleisië, Nigeria, Oekraïne, Oman, Qatar, Rusland, Saudi-Arabië, Singapore, Turkije, Verenigde Arabische Emiraten, Vietnam, Zuid-Afrika, Zuid-Korea, Argentinië, Azerbeidzjan, Chili, Irak, Kazachstan, Mexico, Panama, Servië  | 01-01 t/m 31-12  | 5.867.000  |
+| Subsidieregeling internationaal excelleren (Finance for International Business-lening)  | 5.2  | --- | 15-02 t/m 31-12  | 5.870.000  |
+| Beleidsregel Partners for International Business  | --- | --- | 01-01 t/m 31-12  | 6.305.000  |
 
 <sup>1</sup> Inclusief Taiwan
 

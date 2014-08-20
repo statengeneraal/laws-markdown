@@ -5,7 +5,7 @@
 De Minister van Economische Zaken,  
 Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op de [artikelen 2, tweede lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [4](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [8](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [16](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17, eerste, derde en vierde lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [18, eerste en vijfde lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [23](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [44](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [48, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 2, tweede lid, 4, 5, 8, 15, 16, 17, eerste, derde en vierde lid, 18, eerste en vijfde lid, 19, eerste lid, 23, 25, 44 en 48, tweede lid, van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -18,7 +18,7 @@ Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010.
 
 ### Artikel  III  
 
-[Hoofdstuk 5](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) en [hoofdstuk 6, paragraaf 3](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md), blijven van toepassing op subsidies die op grond hiervan zijn verstrekt. 
+Hoofdstuk 5 en hoofdstuk 6, paragraaf 3, blijven van toepassing op subsidies die op grond hiervan zijn verstrekt. 
 
 ### Artikel  IV  
 

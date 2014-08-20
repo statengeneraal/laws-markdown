@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 7 februari 2012, nr. WJZ / 12013645, houdende wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven), wijziging van de Regeling openstelling en subsidieplafonds EZ 2012 (veiligheid kleine bedrijven en tijdelijke garantie ondernemingsfinanciering curatieve zorg) alsmede wijziging van enige andere regelingen in verband met vervanging van formulieren
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op de [artikelen 4](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [16](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19, eerste lid](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [50, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 16, 19, eerste lid, 25 en 50, tweede lid, van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
@@ -20,9 +20,9 @@ Wijzigt de Subsidieregeling energie en innovatie, de Subsidieregeling starten, g
 
 ### Artikel  IV  
 
-1.  Op voor 1 maart 2012 verstrekte subsidies en op voor 1 maart 2012 ingediende aanvragen om subsidie waarop op de datum van inwerkingtreding van deze regeling nog niet is beslist blijft de [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) van toepassing zoals zij voor de datum van inwerkingtreding van deze regeling luidde.   
-2.  Op aanvragen om subsidie als bedoeld in [artikel 9.3](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) voor veiligheidsscans die zijn uitgevoerd voor 1 maart 2012 is de definitie van ‘veiligheidsscan’ in [artikel 9.1](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) van toepassing zoals deze luidde voor de datum van inwerkingtreding van deze regeling.   
-3.  Op aanvragen om subsidie als bedoeld in [artikel 9.7](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) voor het treffen van veiligheidsmaatregelen die zijn opgenomen in een veiligheidsscan die is uitgevoerd voor 1 maart 2012 is [artikel 9.11, tweede lid, onder e](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md), niet van toepassing.  
+1.  Op voor 1 maart 2012 verstrekte subsidies en op voor 1 maart 2012 ingediende aanvragen om subsidie waarop op de datum van inwerkingtreding van deze regeling nog niet is beslist blijft de Subsidieregeling starten, groeien en overdragen van ondernemingen van toepassing zoals zij voor de datum van inwerkingtreding van deze regeling luidde.   
+2.  Op aanvragen om subsidie als bedoeld in artikel 9.3 voor veiligheidsscans die zijn uitgevoerd voor 1 maart 2012 is de definitie van ‘veiligheidsscan’ in artikel 9.1 van toepassing zoals deze luidde voor de datum van inwerkingtreding van deze regeling.   
+3.  Op aanvragen om subsidie als bedoeld in artikel 9.7 voor het treffen van veiligheidsmaatregelen die zijn opgenomen in een veiligheidsscan die is uitgevoerd voor 1 maart 2012 is artikel 9.11, tweede lid, onder e, niet van toepassing.  
 
 ### Artikel  V  
 

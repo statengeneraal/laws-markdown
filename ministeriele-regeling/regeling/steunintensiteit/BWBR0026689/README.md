@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 16 november 2009, nr. WJZ/9159989, tot vaststelling van een regeling krachtens artikel 5 van het Kaderbesluit EZ-subsidies (Regeling steunintensiteit)
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 5, eerste lid](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [14a](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [15 van het Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 5, eerste lid, 14a en 15 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 –  *algemene opleiding:* een algemene opleiding als bedoeld in artikel 38, onderdeel 2, van de algemene groepsvrijstellingsverordening;  
 
-–  *besluit:* [Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);  
+–  *besluit:* Kaderbesluit EZ-subsidies;  
 
 –  *communautaire norm:* communautaire norm als bedoeld in punt 70.3 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
 
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-Deze regeling is van toepassing op subsidies die worden verstrekt volgens de regels van het [Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md). 
+Deze regeling is van toepassing op subsidies die worden verstrekt volgens de regels van het Kaderbesluit EZ-subsidies. 
 
 ### Artikel  3  
 
@@ -58,7 +58,7 @@ De subsidie bedraagt, voor zover activiteiten vallen onder de bijlage bij deze r
 
 ### Artikel  4  
 
-1.  Onder de kostensoorten, genoemd in [artikel 14a, tweede lid, onderdeel a tot en met d, van het besluit](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) wordt verstaan: 
+1.  Onder de kostensoorten, genoemd in artikel 14a, tweede lid, onderdeel a tot en met d, van het besluit wordt verstaan: 
 
 a. wat betreft bedrijfsterreinen: de koopsom en overdrachtskosten met uitzondering van overdrachtsbelasting of de gekapitaliseerde erfpachtcanon exclusief de kosten van vestiging van de erfpacht, indien de grond van een gemeente of enig ander van overheidswege opgericht lichaam in erfpacht is verkregen;  
 
@@ -69,9 +69,9 @@ c. wat betreft machines en apparatuur voor zover deze na afloop van het project 
 d. wat betreft machines en apparatuur voor zover deze na afloop van het project voor andere doeleinden worden ingezet dan beoogd met het project of niet meer bijdragen aan een duurzame energiehuishouding: kosten voor de aanschaf ervan, met dien verstande dat wordt uitgegaan van de aan het project toe te rekenen afschrijvingskosten, berekend op basis van de historische aanschafprijzen en de door de belastingdienst geaccepteerde afschrijvingstermijnen, met uitzondering van mogelijkheden tot vervroegde afschrijving, of lease-termijnen, met uitzondering van financieringskosten, en gebaseerd op de bedrijfseconomische levensduur;  
 
 e. wat betreft materialen en hulpmiddelen: het verbruik ervan, gebaseerd op historische aanschafprijzen.     
-2.  Onder de kostensoorten, genoemd in [artikel 14a, tweede lid, onderdeel e en f, van het besluit](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), voor zover zij geactiveerd zijn op de fiscale balans, wordt verstaan: 
+2.  Onder de kostensoorten, genoemd in artikel 14a, tweede lid, onderdeel e en f, van het besluit, voor zover zij geactiveerd zijn op de fiscale balans, wordt verstaan: 
 
-a. wat betreft onderhoud en inspectie alsmede beheer en administratie met inbegrip van de rapportages, bedoeld in [artikel 39, eerste lid](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en het eindverslag, bedoeld in [artikel 50, tweede lid, onderdeel a, van het besluit](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md): kosten die rechtstreeks zijn toe te rekenen aan het eerste lid, onderdeel a tot en met d;  
+a. wat betreft onderhoud en inspectie alsmede beheer en administratie met inbegrip van de rapportages, bedoeld in artikel 39, eerste lid, en het eindverslag, bedoeld in artikel 50, tweede lid, onderdeel a, van het besluit: kosten die rechtstreeks zijn toe te rekenen aan het eerste lid, onderdeel a tot en met d;  
 
 b. wat betreft verzekeringen: kosten die rechtstreeks zijn toe te rekenen aan het eerste lid, onderdeel a tot en met d;  
 
