@@ -4,7 +4,7 @@
 
 ####Agreement between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 The Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China, Desiring to conclude an Agreement for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income,   Have agreed as follows:    
 
@@ -12,7 +12,7 @@ The Government of the Kingdom of the Netherlands and the Government of the Peopl
 
 ####Persons covered
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 This Agreement shall apply to persons who are residents of one or both of the Contracting States. 
 
@@ -20,7 +20,7 @@ This Agreement shall apply to persons who are residents of one or both of the Co
 
 ####Taxes covered
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  This Agreement shall apply to taxes on income imposed on behalf of a Contracting State or local authorities, irrespective of the manner in which they are levied.   
 2.  There shall be regarded as taxes on income all taxes imposed on total income, or on elements of income, including taxes on gains from the alienation of movable or immovable property and taxes on the total amounts of wages or salaries paid by enterprises.   
@@ -47,7 +47,7 @@ b) in the Netherlands:
 
 ####General definitions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  For the purposes of this Agreement, unless the context otherwise requires: 
 
@@ -86,7 +86,7 @@ i) the term “national”, in relation to a Contracting State, means:
 
 ####Resident
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  For the purposes of this Agreement, the term “resident of a Contracting State” means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of effective management or any other criterion of a similar nature, and also includes that State or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.   
 2.  Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows: 
@@ -104,7 +104,7 @@ d) if he is a national of both States or of neither of them, the competent autho
 
 ####Permanent establishment
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  For the purposes of this Agreement, the term “permanent establishment” means a fixed place of business through which the business of an enterprise is wholly or partly carried on.   
 2.  The term “permanent establishment” includes especially: 
@@ -146,7 +146,7 @@ f) the maintenance of a fixed place of business solely for any combination of ac
 
 ####Income from immovable property
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.   
 2.  The term “immovable property” shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.   
@@ -157,7 +157,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Business profits
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.   
 2.  Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.   
@@ -171,7 +171,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Shipping and air transport
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Profits from the operation of ships or aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.   
 2.  If the place of effective management of a shipping enterprise is aboard a ship, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship is situated, or, if there is no such home harbour, in the Contracting State of which the operator of the ship is a resident.   
@@ -181,7 +181,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Associated enterprises
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Where 
 
@@ -194,7 +194,7 @@ b) the same persons participate directly or indirectly in the management, contro
 
 ####Dividends
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.   
 2.  However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the beneficial owner of the dividends is a resident of the other Contracting State, the tax so charged shall not exceed: 
@@ -212,7 +212,7 @@ b) 10 per cent of the gross amount of the dividends in all other cases.   The co
 
 ####Interest
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.   
 2.  However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the interest. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.   
@@ -252,7 +252,7 @@ b) in the case of the Netherlands:
 
 ####Royalties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.   
 2.  However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed: 
@@ -274,7 +274,7 @@ b) payments of any kind received as a consideration for the use of, or the right
 
 ####Capital gains
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State.   
 2.  Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such a fixed base, may be taxed in that other State.   
@@ -292,7 +292,7 @@ b) held by the Government of a Contracting State, any of its institutions or any
 
 ####Independent personal services
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Income derived by a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State except in the following circumstances, when such income may also be taxed in the other Contracting State: 
 
@@ -305,7 +305,7 @@ b) if his stay in the other Contracting State is for a period or periods amounti
 
 ####Income from employment
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.   
 2.  Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if: 
@@ -321,7 +321,7 @@ c) the remuneration is not borne by a permanent establishment or a fixed base wh
 
 ####Directors’ fees
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Directors’ fees and other remuneration derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State.   
 2.  For the purpose of the provisions of paragraph 1, the term “member of the board of directors” includes any person who is charged with the general management of the company and any person who is charged with the supervision thereof.  
@@ -330,7 +330,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Artistes and sportsmen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.   
 2.  Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.   
@@ -340,7 +340,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Pensions and social security payments
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration paid to a resident of a Contracting State shall be taxable only in that State.   
 2.  However, pensions and other similar remuneration, whether or not periodic in nature, insofar as the contributions or payments associated with the pension or other similar remuneration, or the entitlements received from them, have qualified for tax relief in the other Contracting State, may also be taxed in that State.   
@@ -350,7 +350,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Government service
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1. 
 a) Salaries, wages and other similar remuneration paid by the Government of a Contracting State or a local authority thereof to an individual in respect of services rendered to the Government of that State or authority, shall be taxable only in that State.  
@@ -371,7 +371,7 @@ b) However, such pensions and other similar remuneration shall be taxable only i
 
 ####Students
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Payments which a student who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education receives for the purpose of his maintenance or education shall not be taxed in that State, provided that such payments arise from sources outside that State. 
 
@@ -379,7 +379,7 @@ Payments which a student who is or was immediately before visiting a Contracting
 
 ####Other income
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.   
 2.  The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.   
@@ -389,7 +389,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Elimination of double taxation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  In China, in accordance with the provisions of the law of China, double taxation shall be eliminated as follows: 
 
@@ -410,7 +410,7 @@ d) Notwithstanding the provisions of sub-paragraph b) of paragraph 2 of this Art
 
 ####Miscellaneous rule
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Nothing in this Agreement shall prejudice the right of each Contracting State to apply its domestic laws and measures concerning the prevention of tax evasion and avoidance, whether or not described as such, insofar as they do not give rise to taxation contrary to this Agreement. 
 
@@ -418,7 +418,7 @@ Nothing in this Agreement shall prejudice the right of each Contracting State to
 
 ####Non-discrimination
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.   
 2.  The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.   
@@ -430,7 +430,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Mutual Agreement procedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 24, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.   
 2.  The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.   
@@ -441,7 +441,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Exchange of information
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States or local authorities, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.   
 2.  Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.   
@@ -459,7 +459,7 @@ c) to supply information which would disclose any trade, business, industrial, c
 
 ####Assistance in the collection of taxes
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  The Contracting States shall endeavour to lend assistance to each other in the collection of the taxes covered by Article 2. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this Article.   
 2.  In no case shall the provisions of this Article be construed so as to impose on a Contracting State the obligation: 
@@ -476,7 +476,7 @@ d) to provide assistance in those cases where the administrative burden for that
 
 ####Members of diplomatic missions and consular posts
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Nothing in this Agreement shall affect the fiscal privileges of members of diplomatic missions or consular posts under the general rules of international law or under the provisions of special agreements. 
 
@@ -484,16 +484,16 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 ####Entry into force
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Both Contracting States shall notify each other through diplomatic channels that they have completed the internal legal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force on the last day of the month following the date of the last notification. This Agreement shall have effect as regards income derived during the taxable years and periods beginning on or after the first day of January next following the calendar year in which this Agreement enters into force.   
-2.  The [Agreement between the Kingdom of the Netherlands and the People’s Republic of China for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/volksrepubliek/etc/BWBV0002398/README.md), with Protocol, signed at Beijing on May 13th, 1987 (the prior Agreement), shall cease to have effect in relation to any tax with effect from the date on which this Agreement has effect in relation to that tax in accordance with paragraph 1 of this Article.  
+2.  The Agreement between the Kingdom of the Netherlands and the People’s Republic of China for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income, with Protocol, signed at Beijing on May 13th, 1987 (the prior Agreement), shall cease to have effect in relation to any tax with effect from the date on which this Agreement has effect in relation to that tax in accordance with paragraph 1 of this Article.  
 
 ### Article  30  
 
 ####Termination
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 This Agreement shall continue in effect indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year beginning after the expiration of a period of five years from the date of its entry into force, give written notice of termination to the other Contracting State through diplomatic channels. In such event this Agreement shall cease to have effect as respects income derived during the taxable years and periods beginning on or after the first day of January in the calendar year next following that in which the notice of termination is given. 
 
@@ -501,7 +501,7 @@ IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Ag
 
 ####Protocol
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 At the moment of signing the Agreement for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, this day concluded between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China, the undersigned have agreed that the following provisions shall form an integral part of the Agreement. 
 
@@ -517,12 +517,12 @@ b) differences in qualification (for example of an element of income or of a per
 
 4. Ad Article 7 It is understood that in the case of profits from survey, supply, installation or construction activities, only so much of these profits shall be attributable to a permanent establishment as results from the functions performed, assets used and risks assumed at or through the permanent establishment.  
 
-5. Ad Article 8 The provisions of Article 8 of this Agreement shall not affect the provisions of [Article 8 of the Agreement between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China relating to maritime shipping](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/regering/van/het/koninkrijk/der/nederlanden/en/de/etc/BWBV0003818/README.md), signed at Beijing on 14 August 1975, nor the provisions of paragraph 2 of Article 10 of the Agreement between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China relating to civil air transport, signed at Beijing on 20 January 1979, nor the provisions of the [letters exchanged on 14 December 2004 and 21 December 2004 between the Embassy of the Kingdom of the Netherlands and the State Administration of Taxation of the People’s Republic of China relating to the reciprocal exemption from taxation on revenue arising from international transportation by air transport enterprises](../../../../../../../../../../../../../../../verdrag/briefwisseling/houdende/een/verdrag/tussen/de/regering/van/het/koninkrijk/etc/BWBV0001696/README.md).     
+5. Ad Article 8 The provisions of Article 8 of this Agreement shall not affect the provisions of Article 8 of the Agreement between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China relating to maritime shipping, signed at Beijing on 14 August 1975, nor the provisions of paragraph 2 of Article 10 of the Agreement between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China relating to civil air transport, signed at Beijing on 20 January 1979, nor the provisions of the letters exchanged on 14 December 2004 and 21 December 2004 between the Embassy of the Kingdom of the Netherlands and the State Administration of Taxation of the People’s Republic of China relating to the reciprocal exemption from taxation on revenue arising from international transportation by air transport enterprises.     
 IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Protocol. DONE at Beijing, on the 31<sup>st</sup> day of May, 2013, in duplicate in the Netherlands, Chinese and English languages, all texts being equally authentic. In case of divergence in interpretation, the English text shall prevail.  *For the Government of the Kingdom of the Netherlands,*  F.H.H. WEEKERS  *For the Government of the People’s Republic of China,*  WANG LI  
 
 ####Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China, Geleid door de wens een verdrag te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,   Zijn het volgende overeengekomen:    
 
@@ -530,7 +530,7 @@ De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubl
 
 ####Personen op wie het verdrag van toepassing is
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide verdragsluitende staten. 
 
@@ -538,7 +538,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 ####Belastingen waarop het verdrag van toepassing is
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Dit Verdrag is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een verdragsluitende staat of plaatselijke publiekrechtelijke lichamen.   
 2.  Als belastingen naar het inkomen worden beschouwd alle belastingen die worden geheven naar het gehele inkomen of naar bestanddelen van het inkomen, waaronder begrepen belastingen naar voordelen verkregen uit de vervreemding van roerende of onroerende zaken en belastingen naar het totale bedrag van de door ondernemingen betaalde lonen of salarissen.   
@@ -565,7 +565,7 @@ iv. de dividendbelasting;   (hierna te noemen: „Nederlandse belasting”).
 
 ####Algemene begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Voor de toepassing van dit Verdrag, tenzij de context anders vereist: 
 
@@ -604,7 +604,7 @@ ii. elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die 
 
 ####Inwoner
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een verdragsluitende staat” iedere persoon die, ingevolge de wetgeving van die staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van oprichting, plaats van werkelijke leiding of enige andere soortgelijke omstandigheid en omvat tevens de staat zelf of een plaatselijk publiekrechtelijk lichaam daarvan. Deze uitdrukking omvat echter niet een persoon die in die staat slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in die staat.   
 2.  Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide verdragsluitende staten is, wordt zijn positie als volgt bepaald: 
@@ -622,7 +622,7 @@ d. indien hij onderdaan is van beide staten of van geen van beide, regelen de be
 
 ####Vaste inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Voor de toepassing van dit verdrag betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.   
 2.  De uitdrukking „vaste inrichting” omvat in het bijzonder: 
@@ -664,7 +664,7 @@ f. het aanhouden van een vaste bedrijfsinrichting, uitsluitend voor een combinat
 
 ####Inkomsten uit onroerende zaken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Inkomsten verkregen door een inwoner van een verdragsluitende staat uit onroerende zaken (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere verdragsluitende staat zijn gelegen, mogen in die andere staat worden belast.   
 2.  De uitdrukking „onroerende zaken” heeft de betekenis welke die uitdrukking heeft volgens de wetgeving van de verdragsluitende staat waar de desbetreffende zaken zijn gelegen. De uitdrukking omvat in ieder geval de zaken die bij de onroerende zaken behoren, levende en dode have van landbouw- en bosbedrijven, rechten waarop de bepalingen van het privaatrecht betreffende de grondeigendom van toepassing zijn, vruchtgebruik van onroerende zaken en rechten op variabele of vaste vergoedingen ter zake van de exploitatie, of concessie tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen; schepen en luchtvaartuigen worden niet als onroerende zaken beschouwd.   
@@ -675,7 +675,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Winst uit onderneming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  De voordelen van een onderneming van een verdragsluitende staat zijn slechts in die staat belastbaar, tenzij de onderneming in de andere verdragsluitende staat haar bedrijf uitoefent door middel van een aldaar gelegen vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen van de onderneming in de andere staat worden belast, maar slechts in zoverre zij aan die vaste inrichting kunnen worden toegerekend.   
 2.  Onder voorbehoud van het bepaalde in het derde lid worden, indien een onderneming van een verdragsluitende staat in de andere verdragsluitende staat haar bedrijf uitoefent door middel van een aldaar gelegen vaste inrichting, in elk van de verdragsluitende staten aan die vaste inrichting de voordelen toegerekend die zij geacht zou kunnen worden te behalen, indien zij een zelfstandige en onafhankelijke onderneming zou zijn die dezelfde of soortgelijke werkzaamheden zou uitoefenen onder dezelfde of soortgelijke omstandigheden en die geheel onafhankelijk transacties zou aangaan met de onderneming waarvan zij een vaste inrichting is.   
@@ -689,7 +689,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Zee- en luchtvaart
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de verdragsluitende staat waarin de plaats van de werkelijke leiding van de onderneming is gelegen.   
 2.  Indien de plaats van de werkelijke leiding van een scheepvaartonderneming zich aan boord van een schip bevindt, wordt deze geacht te zijn gelegen in de verdragsluitende staat waar de thuishaven van het schip is gelegen, of indien er geen thuishaven is, in de verdragsluitende staat waarvan de exploitant van het schip inwoner is.   
@@ -699,7 +699,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gelieerde ondernemingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Indien 
 
@@ -712,7 +712,7 @@ b. dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aa
 
 ####Dividenden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Dividenden betaald door een lichaam dat inwoner is van een verdragsluitende staat aan een inwoner van de andere verdragsluitende staat, mogen in die andere staat worden belast.   
 2.  Deze dividenden mogen echter ook in de verdragsluitende staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die staat worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden inwoner van de andere verdragsluitende staat is, mag de aldus geheven belasting niet overschrijden: 
@@ -730,7 +730,7 @@ b. 10 percent van het brutobedrag van de dividenden in alle overige gevallen.   
 
 ####Interest
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Interest afkomstig uit een verdragsluitende staat en betaald aan een inwoner van de andere verdragsluitende staat, mag in die andere staat worden belast.   
 2.  Deze interest mag echter ook in de verdragsluitende staat waaruit zij afkomstig is, overeenkomstig de wetgeving van die staat worden belast, maar indien de uiteindelijk gerechtigde tot de interest inwoner van de andere verdragsluitende staat is, mag de aldus geheven belasting 10 percent van het brutobedrag van de interest niet overschrijden. De bevoegde autoriteiten van de verdragsluitende staten regelen in onderling overleg de wijze van toepassing van deze beperking.   
@@ -770,7 +770,7 @@ iii. elke andere instelling zoals van tijd tot tijd door de bevoegde autoriteite
 
 ####Royalty’s
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Royalty’s afkomstig uit een verdragsluitende staat die worden betaald aan een inwoner van de andere verdragsluitende staat mogen in die andere staat worden belast.   
 2.  Deze royalty’s mogen echter ook in de verdragsluitende staat waaruit zij afkomstig zijn, overeenkomstig de wetgeving van die staat, worden belast, maar indien de uiteindelijk gerechtigde tot de royalty’s inwoner van de andere verdragsluitende staat is, mag de aldus geheven belasting niet overschrijden: 
@@ -792,7 +792,7 @@ b. vergoedingen van welke aard ook voor het gebruik van, of het recht van gebrui
 
 ####Vermogenswinsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Voordelen verkregen door een inwoner van een verdragsluitende staat uit de vervreemding van onroerende zaken als bedoeld in artikel 6 en die zijn gelegen in de andere verdragsluitende staat, mogen in die andere staat worden belast.   
 2.  Voordelen verkregen uit de vervreemding van roerende zaken die deel uitmaken van het bedrijfsvermogen van een vaste inrichting die een onderneming van een verdragsluitende staat in de andere verdragsluitende staat heeft of van roerende zaken die behoren tot een vast middelpunt waarover een inwoner van een verdragsluitende staat in de andere verdragsluitende staat beschikt voor het verrichten van zelfstandige arbeid, waaronder begrepen voordelen verkregen uit de vervreemding van die vaste inrichting (afzonderlijk of met de gehele onderneming) of van dat vaste middelpunt, mogen in die andere staat worden belast.   
@@ -810,7 +810,7 @@ b. die in het bezit zijn van de regering van een verdragsluitende staat, een van
 
 ####Zelfstandige arbeid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Inkomsten verkregen door een inwoner van een verdragsluitende staat in de uitoefening van een vrij beroep of ter zake van andere werkzaamheden van zelfstandige aard zijn slechts in die staat belastbaar, behalve onder de volgende omstandigheden waarin deze inkomsten tevens mogen worden belast in de andere verdragsluitende staat: 
 
@@ -823,7 +823,7 @@ b. indien hij in de andere verdragsluitende staat verblijft gedurende een tijdva
 
 ####Inkomsten uit dienstbetrekking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Onder voorbehoud van de bepalingen van de artikelen 16, 18 en 19, zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een verdragsluitende staat ter zake van een dienstbetrekking slechts in die staat belastbaar, tenzij de dienstbetrekking in de andere verdragsluitende staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere staat worden belast.   
 2.  Niettegenstaande de bepalingen van het eerste lid, is de beloning verkregen door een inwoner van een verdragsluitende staat ter zake van een in de andere verdragsluitende staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde staat belastbaar, indien: 
@@ -839,7 +839,7 @@ c. de beloning niet ten laste komt van een vaste inrichting die of een vast midd
 
 ####Directeursbeloningen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Directeursbeloningen en andere beloningen verkregen door een inwoner van een verdragsluitende staat in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van de andere verdragsluitende staat, mogen in die andere staat worden belast.   
 2.  Voor de toepassing van de bepalingen van het eerste lid omvat de uitdrukking „lid van de raad van beheer” zowel personen die zijn belast met de algemene leiding van het lichaam als personen die zijn belast met het toezicht daarop.  
@@ -848,7 +848,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Artiesten en sportbeoefenaars
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Niettegenstaande de bepalingen van de artikelen 14 en 15, mogen inkomsten verkregen door een inwoner van een verdragsluitende staat als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere verdragsluitende staat, worden belast in die andere staat.   
 2.  Indien inkomsten ter zake van persoonlijke werkzaamheden die door een artiest of een sportbeoefenaar in die hoedanigheid worden verricht, niet aan de artiest of sportbeoefenaar zelf toekomen, maar aan een andere persoon, mogen die inkomsten, niettegenstaande de bepalingen van de artikelen 7, 14 en 15, worden belast in de verdragsluitende staat waarin de werkzaamheden van de artiest of sportbeoefenaar worden verricht.   
@@ -858,7 +858,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Pensioenen en socialezekerheidsuitkeringen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Onder voorbehoud van het bepaalde in het tweede lid van artikel 19, zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een verdragsluitende staat slechts in die staat belastbaar.   
 2.  Pensioenen en andere soortgelijke beloningen, ongeacht of zij een periodiek karakter dragen of niet, mogen, voor zover de met dit pensioen of andere soortgelijke beloning samenhangende bijdragen of betalingen, dan wel de aanspraken op dit pensioen of deze andere soortgelijke beloning, in de andere verdragsluitende staat in aanmerking zijn gekomen voor een fiscale faciliëring, echter ook in die staat worden belast.   
@@ -868,7 +868,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overheidsfuncties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  
 
@@ -890,7 +890,7 @@ b. Deze pensioenen en andere soortgelijke beloningen zijn echter slechts in de a
 
 ####Studenten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Betalingen die een student die inwoner is, of onmiddellijk voorafgaande aan zijn bezoek aan een verdragsluitende staat inwoner was, van de andere verdragsluitende staat en die uitsluitend voor zijn studie in de eerstbedoelde staat verblijft, ontvangt ten behoeve van zijn onderhoud of studie, zijn in die staat niet belastbaar, mits deze afkomstig zijn uit bronnen buiten die staat. 
 
@@ -898,7 +898,7 @@ Betalingen die een student die inwoner is, of onmiddellijk voorafgaande aan zijn
 
 ####Overige inkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Bestanddelen van het inkomen van een inwoner van een verdragsluitende staat, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die staat belastbaar.   
 2.  De bepalingen van het eerste lid zijn niet van toepassing op inkomsten, niet zijnde inkomsten uit onroerende zaken zoals omschreven in artikel 6, tweede lid, indien de genieter van die inkomsten, die inwoner is van een verdragsluitende staat, in de andere verdragsluitende staat een bedrijf uitoefent door middel van een aldaar gelegen vaste inrichting of in die andere staat zelfstandige arbeid verricht vanuit een vast middelpunt aldaar, en het recht of de zaak ter zake waarvan de inkomsten worden betaald tot het vermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn de bepalingen van artikel 7 of van artikel 14 naargelang van het geval, van toepassing.   
@@ -908,7 +908,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vermijding van dubbele belasting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Dubbele belasting wordt in China, met inachtneming van het bepaalde in de wetgeving van China, als volgt vermeden: 
 
@@ -929,7 +929,7 @@ d. Niettegenstaande de bepalingen van het tweede lid, onderdeel b, van dit artik
 
 ####Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Geen enkele bepaling van dit Verdrag doet afbreuk aan het recht van elk van de verdragsluitende staten hun nationale wetgeving en maatregelen inzake het voorkomen van het ontgaan en ontwijken van belasting toe te passen, ongeacht of deze als zodanig zijn omschreven, voor zover zij geen aanleiding geven tot belastingheffing die in strijd is met dit Verdrag. 
 
@@ -937,7 +937,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan het recht van elk van de v
 
 ####Non-discriminatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Onderdanen van een verdragsluitende staat worden in de andere verdragsluitende staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen waaraan onderdanen van die andere staat onder dezelfde omstandigheden, in het bijzonder met betrekking tot woonplaats, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in artikel 1, ook van toepassing op personen die geen inwoner zijn van een of van beide verdragsluitende staten.   
 2.  De belastingheffing ter zake van een vaste inrichting die een onderneming van een verdragsluitende staat in de andere verdragsluitende staat heeft, is in die andere staat niet ongunstiger dan de belastingheffing ter zake van ondernemingen van die andere staat die dezelfde werkzaamheden uitoefenen. Deze bepaling mag niet aldus worden uitgelegd, dat zij een verdragsluitende staat verplicht aan inwoners van de andere verdragsluitende staat bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen uit hoofde van de burgerlijke staat, de samenstelling van het gezin of gezinslasten te verlenen, die eerstbedoelde verdragsluitende staat aan zijn eigen inwoners verleent.   
@@ -949,7 +949,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Procedure voor onderling overleg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Indien een persoon van oordeel is dat de maatregelen van een of van beide verdragsluitende staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die staten voorziet, zijn kwestie voorleggen aan de bevoegde autoriteit van de verdragsluitende staat waarvan hij inwoner is, of, indien zijn kwestie valt onder artikel 24, eerste lid, aan die van de verdragsluitende staat waarvan hij onderdaan is. De kwestie moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.   
 2.  De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, de kwestie in onderling overleg met de bevoegde autoriteit van de andere verdragsluitende staat op te lossen teneinde belastingheffing die niet in overeenstemming is met het Verdrag te vermijden. De bereikte overeenstemming wordt ten uitvoer gelegd niettegenstaande de eventuele verjaringstermijnen in de nationale wetgeving van de verdragsluitende staten.   
@@ -960,7 +960,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitwisseling van informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  De bevoegde autoriteiten van de verdragsluitende staten wisselen de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van dit Verdrag of voor de toepassing of handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van de verdragsluitende staten of plaatselijke publiekrechtelijke lichamen daarvan, voor zover de heffing ingevolge die wetgeving niet in strijd is met het Verdrag. De uitwisseling van informatie wordt niet beperkt door de artikelen 1 en 2.   
 2.  Alle uit hoofde van het eerste lid door een verdragsluitende staat ontvangen informatie wordt op dezelfde wijze geheim gehouden als informatie die volgens de nationale wetgeving van die staat is verkregen en wordt alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke en bestuursrechtelijke instanties) die betrokken zijn bij de vaststelling of invordering van, de handhaving of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de in het eerste lid bedoelde belastingen, of het toezicht daarop. Deze personen of autoriteiten mogen alleen voor deze doeleinden van de informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen.   
@@ -978,7 +978,7 @@ c. informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel
 
 ####Bijstand bij de invordering van belastingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  De verdragsluitende staten trachten elkaar bijstand te verlenen bij de invordering van de belastingen waarop artikel 2 van toepassing is. De bevoegde autoriteiten van de verdragsluitende staten regelen in onderling overleg de wijze van toepassing van dit artikel.   
 2.  In geen geval worden de bepalingen van dit artikel zo uitgelegd dat zij een verdragsluitende staat de verplichting opleggen: 
@@ -995,7 +995,7 @@ d. bijstand te verlenen in gevallen waarin de administratieve last voor die staa
 
 ####Leden van diplomatieke vertegenwoordigingen en consulaire posten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die leden van diplomatieke vertegenwoordigingen of leden van consulaire posten ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten. 
 
@@ -1003,16 +1003,16 @@ De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 1.  Beide verdragsluitende staten stellen elkaar langs diplomatieke weg ervan in kennis dat zij alle vereiste nationale wettelijke procedures voor de inwerkingtreding van dit Verdrag hebben voltooid. Dit Verdrag treedt in werking op de laatste dag van de maand die volgt op de datum van de laatste kennisgeving. Dit Verdrag is van toepassing op inkomsten verkregen gedurende belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het jaar dat volgt op het kalenderjaar waarin dit Verdrag in werking treedt.   
-2.  De [Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/volksrepubliek/etc/BWBV0002398/README.md), met Protocol, getekend te Beijing op 13 mei 1987 (de vorige Overeenkomst) houdt op van toepassing te zijn op enige belasting met ingang van de datum waarop dit Verdrag van toepassing is op die belasting in overeenstemming met het eerste lid van dit artikel.  
+2.  De Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, met Protocol, getekend te Beijing op 13 mei 1987 (de vorige Overeenkomst) houdt op van toepassing te zijn op enige belasting met ingang van de datum waarop dit Verdrag van toepassing is op die belasting in overeenstemming met het eerste lid van dit artikel.  
 
 ### Artikel  30  
 
 ####Beëindiging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Dit Verdrag blijft voor onbepaalde tijd van kracht, maar elk van de verdragsluitende staten kan op of voor 30 juni van enig kalenderjaar beginnend na het verstrijken van een tijdvak van vijf jaar na de datum van haarinwerkingtreding, langs diplomatieke weg de andere verdragsluitende staat schriftelijk kennis geven van beëindiging. In dat geval houdt dit Verdrag op van toepassing te zijn ter zake van inkomsten verkregen gedurende de belastingjaren en -tijdvakken die beginnen op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin de kennisgeving van beëindiging is gedaan. 
 
@@ -1020,7 +1020,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 ####Protocol
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-08-2014 
 
 Bij de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, heden gesloten tussen de regering van het Koninkrijk der Nederlanden en de regering van de Volksrepubliek China, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend onderdeel van het Verdrag vormen. 
 
@@ -1036,6 +1036,6 @@ b. sprake is van verschillen in kwalificatie (bijvoorbeeld van een bestanddeel v
 
 4. Ad artikel 7 Het is wel te verstaan dat in het geval van voordelen uit toezicht, leverings-, installatie- of constructiewerkzaamheden alleen dat deel van deze voordelen aan een vaste inrichting is toe te rekenen dat voortvloeit uit taken verricht, vermogensbestanddelen gebruikt en risico’s aangegaan door of door middel van de vaste inrichting.  
 
-5. Ad artikel 8 De bepalingen van artikel 8 van dit Verdrag laten onverlet de bepalingen van [artikel 8 van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake het zeevervoer](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/regering/van/het/koninkrijk/der/nederlanden/en/de/etc/BWBV0003818/README.md), ondertekend te Beijing op 14 augustus 1975, evenals de bepalingen van artikel 10, tweede lid, van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China betreffende de burgerluchtvaart, ondertekend te Beijing op 20 januari 1979, evenals de bepalingen van de [briefwisseling van 14 december 2004 en 21 december 2004 tussen de ambassade van het Koninkrijk der Nederlanden en de State Administration of Taxation van de Volksrepubliek China betreffende de wederzijdse vrijstelling van belasting van inkomsten uit internationaal vervoer door luchtvaartondernemingen](../../../../../../../../../../../../../../../verdrag/briefwisseling/houdende/een/verdrag/tussen/de/regering/van/het/koninkrijk/etc/BWBV0001696/README.md).     
+5. Ad artikel 8 De bepalingen van artikel 8 van dit Verdrag laten onverlet de bepalingen van artikel 8 van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake het zeevervoer, ondertekend te Beijing op 14 augustus 1975, evenals de bepalingen van artikel 10, tweede lid, van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China betreffende de burgerluchtvaart, ondertekend te Beijing op 20 januari 1979, evenals de bepalingen van de briefwisseling van 14 december 2004 en 21 december 2004 tussen de ambassade van het Koninkrijk der Nederlanden en de State Administration of Taxation van de Volksrepubliek China betreffende de wederzijdse vrijstelling van belasting van inkomsten uit internationaal vervoer door luchtvaartondernemingen.     
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Protocol hebben ondertekend. GEDAAN te Beijing, op 31 mei 2013, in tweevoud in de Nederlandse, de Chinese en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.  *Voor de Regering van het Koninkrijk der Nederlanden,*  F.H.H. WEEKERS  *Voor de Regering van de Volksrepubliek China,*  WANG LI  
 

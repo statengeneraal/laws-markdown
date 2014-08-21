@@ -510,7 +510,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 (b) The budget of the Union shall include the income and expenses proper to the Union and its contribution to the budget of expenses common to the Unions administered by the Organization.  
 
-(c) Expenses not attributable exclusively to the Union but also to one or more other Unions administered by the Organization shall be considered to be expenses common to the Unions The share of the Union in such common expenses shall be in proportion to the interest the Union has in them.     
+(c) Expenses not attributable exclusively to the Union but also to one or more other Unions administered by the Organization shall be considered to be expenses common to the Unions. The share of the Union in such common expenses shall be in proportion to the interest the Union has in them.     
 2.   [*Coordination with Budgets of Other Unions*] The budget of the Union shall be established with due regard to the requirements of coordination with the budgets of the other Unions administered by the Organization.    
 3.   [*Sources of Financing of the Budget*] The budget of the Union shall be financed from the following sources:  
 
@@ -2761,7 +2761,7 @@ b. Wanneer, bij het verstrijken van de in het eerste lid, onder c, bedoelde term
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  [*Aantekening en ingangsdatum van de vernieuwing*] De vernieuwing wordt aangetekend in het internationale register met de datum waarop de vernieuwing diende te worden verricht, zelfs indien de vereiste taksen zijn betaald gedurende de in regel 24, eerste lid, ond er c, bedoelde termijn van uitstel van betaling.   
+1.  [*Aantekening en ingangsdatum van de vernieuwing*] De vernieuwing wordt aangetekend in het internationale register met de datum waarop de vernieuwing diende te worden verricht, zelfs indien de vereiste taksen zijn betaald gedurende de in regel 24, eerste lid, onder c, bedoelde termijn van uitstel van betaling.   
 2.  [*Certificaat*] Het Internationaal Bureau zendt de houder een vernieuwingscertificaat.  
 
 ### HOOFDSTUK  6  

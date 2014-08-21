@@ -9,13 +9,13 @@ Gelezen het verzoek van het hoofd van de Afdeling Vergunningen, Toezicht en Hand
 
 Gelet op:
 
-– [artikel 142, eerste lid, onder b en c en derde lid, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+– artikel 142, eerste lid, onder b en c en derde lid, van het Wetboek van Strafvordering;  
 
-– [artikel 8, zevende lid](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en [artikel 9, van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+– artikel 8, zevende lid en artikel 9, van de Politiewet 1993;  
 
-– het [Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);  
+– het Besluit buitengewoon opsporingsambtenaar;  
 
-– de [Regeling Toetsing Geweldsbeheersing Buitengewoon Opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten](../../../../../../../../../../ministeriele-regeling/regeling/toetsing/geweldsbeheersing/buitengewoon/opsporingsambtenaar/en/etc/BWBR0021973/README.md);     Besluit:    
+– de Regeling Toetsing Geweldsbeheersing Buitengewoon Opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten;     Besluit:    
 
 ### Artikel  1  
 
@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: De persone
 
 ### Artikel  2  
 
-1.  De in artikel 1 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten genoemd in domein I Openbare Ruimte, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
+1.  De in artikel 1 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten genoemd in domein I Openbare Ruimte, van bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het domein waarin hij is aangesteld.  
 
@@ -34,7 +34,7 @@ Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporings
 ### Artikel  4  
 
 1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Midden-Nederland.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in artikel 27 van de Politiewet 2012.  
 
 ### Artikel  5  
 

@@ -11,7 +11,7 @@ Gelet op:
 
 – verordening (EG) nr. 1857/2006 van de Commissie van de Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van verordening (EG) nr. 70/2001 (PbEU L 358);
 
-– de [artikelen 2](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md), [4](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [7 van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md);
+– de artikelen 2, 4 en 7 van de Kaderwet LNV-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -188,7 +188,7 @@ e. de verwachte realisatietermijn, met een beschrijving van het tijdpad en mijlp
 
 ####Subsidieverlening ten laste van niet vastgestelde begroting
 
-Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht. 
 
 ### Artikel  1:12  
 
@@ -207,7 +207,7 @@ a. zijn alle ontvangsten en uitgaven vastgelegd met de onderliggende bewijsstukk
 b. zijn bewijsstukken ten name van de subsidieontvanger aanwezig, waaruit de aard van geleverde goederen en diensten duidelijk blijkt.     
 4.  De administratie, bedoeld in het tweede lid, wordt ten minste gedurende vijf jaar na de datum van subsidievaststelling bewaard.   
 5.  De subsidieontvanger verstrekt aan de ambtenaren, bedoeld in artikel 6:1, desgevraagd de nodige gegevens en bescheiden waaruit blijkt dat wordt voldaan aan de vereisten, voorwaarden of voorschriften, bedoeld in het eerste lid.   
-6.  [Artikel 8 van het Besluit aanbestedingsregels voor overheidsopdrachten](../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) is van overeenkomstige toepassing op de verstrekking van opdrachten voor werken of diensten aan derden door een subsidieontvanger die geen aanbestedende dienst als bedoeld in [artikel 1, onderdeel r, van dat besluit](../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) is.   
+6.  Artikel 8 van het Besluit aanbestedingsregels voor overheidsopdrachten is van overeenkomstige toepassing op de verstrekking van opdrachten voor werken of diensten aan derden door een subsidieontvanger die geen aanbestedende dienst als bedoeld in artikel 1, onderdeel r, van dat besluit is.   
 7.  De Minister kan de subsidieontvanger bij subsidieverlening ook andere verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie, waaronder een termijn waarbinnen de activiteiten waarop de subsidie betrekking heeft worden uitgevoerd.   
 8.  Indien de verleende subsidie minder bedraagt dan € 125.000 zijn het tweede tot en met het vierde lid niet van toepassing; in dat geval levert de subsidie-ontvanger tot vijf jaar na de datum van de beschikking tot subsidievaststelling desgevraagd die gegevens die nodig zijn om aan te tonen dat de subsidiabele activiteiten waarvoor subsidie is verstrekt zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.   
 9.  In afwijking van het achtste lid zijn het tweede tot en met het vierde lid van toepassing op verleende Europese subsidies lager dan € 125.000. 
@@ -238,7 +238,7 @@ b. verhoging van het bedrag van de subsidie of het bedrag waarop de subsidie ove
 
 1.  Tenzij de beschikking tot subsidieverlening tevens de subsidievaststelling inhoudt, dient de subsidie-ontvanger zijn aanvraag om subsidievaststelling in, binnen dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid, tenzij de Minister bij subsidieverlening een andere periode voor het indienen van de aanvraag heeft vastgesteld.   
 2.  Bij een aanvraag tot subsidievaststelling wordt in voorkomend geval mededeling gedaan van andere inkomsten, waaronder subsidies, waarmee de activiteit waarop de subsidie betrekking heeft is gefinancierd.   
-3.  Bij de rekening en verantwoording, bedoeld in [artikel 4:45, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), maakt de subsidieontvanger een onderverdeling naar de onderscheiden subsidiabele kosten.   
+3.  Bij de rekening en verantwoording, bedoeld in artikel 4:45, tweede lid, van de Algemene wet bestuursrecht, maakt de subsidieontvanger een onderverdeling naar de onderscheiden subsidiabele kosten.   
 4.  Een aanvraag tot vaststelling van een subsidie voor de uitvoering van een project gaat vergezeld van een eindverslag, dat ten minste bevat: 
 
 a. een beschrijving van de activiteiten die in het kader van het project zijn verricht;  
@@ -289,7 +289,7 @@ De subsidieontvanger doet onverwijld een schriftelijke melding zodra aannemelijk
 
 1. De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring van een accountant indien dat in deze regeling of in de beschikking tot subsidieverlening is bepaald.
 2. In de beschikking tot subsidieverlening kan uitsluitend worden bepaald dat de aanvraag tot subsidievaststelling vergezeld gaat van een controleverklaring, indien het in die beschikking vermelde subsidiebedrag € 125.000 of meer bedraagt.
-3. De controleverklaring bestaat uit een verklaring van een accountant of een accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften uit [artikel 4:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+3. De controleverklaring bestaat uit een verklaring van een accountant of een accountant-administratieconsulent als bedoeld in artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek, waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften uit artikel 4:45 van de Algemene wet bestuursrecht.
 4. De accountant of accountant-administratiefconsulent controleert en stelt de controleverklaring vast met inachtneming de voorschriften, gesteld in bijlage 1 bij deze regeling.
 
 ### Artikel  1:15  
@@ -344,7 +344,7 @@ b. komen de kosten uitsluitend in aanmerking tot ten hoogste het bedrag dat word
 
 ####Wettelijke rente bij terugvordering
 
-Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [artikel 6 van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) of artikel 1:20, derde of vijfde lid, worden terug te vorderen bedragen vermeerderd met de wettelijke rente die wordt berekend over de periode die verstrijkt tussen de kennisgeving van de terugvorderingsverplichting aan de subsidieontvanger en de terugbetaling door de subsidieontvanger. 
+Indien toepassing wordt gegeven aan artikel 4:57 van de Algemene wet bestuursrecht, artikel 6 van de Kaderwet LNV-subsidies of artikel 1:20, derde of vijfde lid, worden terug te vorderen bedragen vermeerderd met de wettelijke rente die wordt berekend over de periode die verstrijkt tussen de kennisgeving van de terugvorderingsverplichting aan de subsidieontvanger en de terugbetaling door de subsidieontvanger. 
 
 ### Artikel  1:19  
 
@@ -359,8 +359,8 @@ b. waarvan de deelnemers natuurlijke personen of rechtspersonen, ieder met een a
 
 a. berusten de verplichtingen die daaruit voortvloeien hoofdelijk op iedere deelnemer aan het samenwerkingsverband;  
 
-b. kunnen onverschuldigd betaalde subsidiebedragen overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) hoofdelijk worden teruggevorderd bij iedere deelnemer aan het samenwerkingsverband.     
-3.  De Minister kan bij de openstelling, bedoeld in artikel 1:3, eerste lid, in afwijking van het tweede lid bepalen dat ingeval een subsidie wordt verstrekt aan een samenwerkingsverband, onverschuldigde betaalde subsidiebedragen overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden teruggevorderd bij iedere deelnemer aan het samenwerkingsverband voor wat betreft het door de deelnemer ontvangen deel van de onverschuldigde betaalde subsidiebedragen. 
+b. kunnen onverschuldigd betaalde subsidiebedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht hoofdelijk worden teruggevorderd bij iedere deelnemer aan het samenwerkingsverband.     
+3.  De Minister kan bij de openstelling, bedoeld in artikel 1:3, eerste lid, in afwijking van het tweede lid bepalen dat ingeval een subsidie wordt verstrekt aan een samenwerkingsverband, onverschuldigde betaalde subsidiebedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd bij iedere deelnemer aan het samenwerkingsverband voor wat betreft het door de deelnemer ontvangen deel van de onverschuldigde betaalde subsidiebedragen. 
 
 ### Artikel  1:20  
 
@@ -372,7 +372,7 @@ b. kunnen onverschuldigd betaalde subsidiebedragen overeenkomstig [artikel 4:57 
 a. de Commissie van de Europese Gemeenschappen goedkeuring als bedoeld in artikel 18, vierde lid, van verordening (EG) nr. 1698/2005 verleent aan een programma als bedoeld in het eerste lid, en  
 
 b. de activiteit waarop de subsidie betrekking heeft op grond van het programma, bedoeld in onderdeel a, kan worden gefinancierd.     
-3.  Onverminderd de [artikelen 4:35](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:48](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:49 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) weigert de Minister subsidieverlening of trekt de Minister een subsidieverlening of subsidievaststelling in, indien: 
+3.  Onverminderd de artikelen 4:35, 4:48 en 4:49 van de Algemene wet bestuursrecht weigert de Minister subsidieverlening of trekt de Minister een subsidieverlening of subsidievaststelling in, indien: 
 
 a. in het kader van de aanvraag met opzet onjuiste of onvolledige gegevens zijn verstrekt;  
 
@@ -380,7 +380,7 @@ b. in het voorafgaande of hetzelfde jaar met opzet onjuiste of onvolledige gegev
 
 c. de aanvrager kunstgrepen heeft uitgevoerd om aan de eisen voor subsidieverstrekking te kunnen voldoen.     
 4.  Indien het bij de aanvraag tot subsidievaststelling of de betalingsaanvraag gevraagde subsidiebedrag meer dan drie procent hoger is dan het bedrag dat op grond van deze regeling kan worden verstrekt, wordt een subsidiebedrag vastgesteld dat is verlaagd met het verschil tussen die twee bedragen, tenzij de aanvrager aantoont dat de aanvraag buiten zijn schuld onjuist is.   
-5.  Indien subsidie wordt verstrekt voor een investering, wordt de beschikking tot subsidievaststelling onverminderd [artikel 4:49 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ingetrokken indien de investering gedurende vijf jaar te rekenen vanaf de datum van subsidievaststelling een belangrijke wijziging ondergaat die: 
+5.  Indien subsidie wordt verstrekt voor een investering, wordt de beschikking tot subsidievaststelling onverminderd artikel 4:49 van de Algemene wet bestuursrecht ingetrokken indien de investering gedurende vijf jaar te rekenen vanaf de datum van subsidievaststelling een belangrijke wijziging ondergaat die: 
 
 a. de aard van de investering of de bij of krachtens deze regeling opgelegde uitvoeringsvoorwaarden raakt;  
 
@@ -426,7 +426,9 @@ d. titel VI van verordening (EG) nr. 1493/1999 van de Raad van de Europese Unie 
 
 – deskundige: persoon die vanuit zijn beroep deskundig is op het terrein waarvoor zijn kennis wordt ingezet en die onafhankelijk is van de subsidieontvanger;  
 
-– groep: groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+–  *dierlijke productieketen:* keten van veehouderijbedrijven, ondernemingen die dieren en dierlijke producten verwerken en verhandelen, en ondernemingen die productiegerelateerde producten, zoals grondstoffen, uitgangsmateriaal, installaties en houderijsystemen leveren aan veehouderijbedrijven, met uitzondering van adviseurs en adviesbureaus; 
+
+– groep: groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek;  
 
 – innovatieproject: project dat een samenhangend geheel van activiteiten vormt, welke zijn gericht op: 
 
@@ -443,6 +445,16 @@ b. volledig in eigendom, pacht of erfpacht heeft met een andere natuurlijke pers
 – kleine of middelgrote onderneming: kleine of middelgrote onderneming als bedoeld in artikel 2, zevende lid, van verordening (EG) nr. 800/2008;  
 
 – producentengroepering: organisatie, van welke juridische vorm dan ook, bestaande uit personen die actief opereren in een voedselkwaliteitsregeling, met uitzondering van een professionele of interprofessionele organisatie die een of meer sectoren vertegenwoordigt;  
+
+–  *udv-ambities:* doelstellingen, geformuleerd in de Uitvoeringsagenda duurzame veehouderij, die zijn opgenomen in de bijlage 4 bij deze regeling; 
+
+–  *udv-project:* samenhangend geheel van activiteiten, gericht op: 
+
+a. het uitvoeren van een verbeterplan;  
+
+b. de ontwikkeling van een nieuwe bedrijfsvoering, een nieuw bedrijfsproces, een nieuw product of een prototype, met het oog op het wegnemen van drempels die de ontwikkeling of toepassing belemmeren van een nieuw product of proces dat bijdraagt aan de verbetering van de duurzaamheid binnen een of meer udv- ambities;   
+
+–  *udv-verbeterplan:* document waarin een beschrijving is opgenomen van samenhangende activiteiten, gericht op het oplossen van een of meer problemen die verduurzaming in ten minste één van de udv-ambities in de weg staan; 
 
 – verordening (EG) nr. 73/2009: Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 (PbEU L 30);  
 
@@ -1296,11 +1308,11 @@ a. de subsidie in totaal € 5.000 of minder bedraagt;
 
 b. de jonge landbouwer met het oog op de investeringen een geldlening is aangegaan voordat de verlening van de subsidie hem schriftelijk is bevestigd;  
 
-c. op grond van deze paragraaf of de [Subsidieregeling jonge agrariërs](../../../../ministeriele-regeling/subsidieregeling/jonge/agrariërs/BWBR0018190/README.md), zoals deze gold voor het tijdstip van inwerkingtreding van deze regeling, eerder aan de jonge landbouwer subsidie is verstrekt of terzake van een eerdere aanvraag op grond van deze paragraaf nog een beslissing tot vaststelling van de subsidie moet worden genomen;  
+c. op grond van deze paragraaf of de Subsidieregeling jonge agrariërs, zoals deze gold voor het tijdstip van inwerkingtreding van deze regeling, eerder aan de jonge landbouwer subsidie is verstrekt of terzake van een eerdere aanvraag op grond van deze paragraaf nog een beslissing tot vaststelling van de subsidie moet worden genomen;  
 
 d. het eigen vermogen van de jonge landbouwer meer dan 60% van de fiscale balanswaarde van zijn landbouwonderneming bedraagt;  
 
-e. de jonge landbouwer uitsluitend beschikt over grond, waarvoor hij een pachtovereenkomst als bedoeld in [artikel 7:396 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) heeft afgesloten.  
+e. de jonge landbouwer uitsluitend beschikt over grond, waarvoor hij een pachtovereenkomst als bedoeld in artikel 7:396 van het Burgerlijk Wetboek heeft afgesloten.  
 
 ### Artikel  2:43  
 
@@ -1325,7 +1337,7 @@ In afwijking van artikel 2:38 gaat de aanvraag tot verlening van een subsidie al
 a. de daaraan verbonden kosten, met uitzondering van kosten van overdrachtsbelasting, notariële kosten en de kosten van inschrijving bij het kadaster, niet hoger zijn dan een door een taxateur vastgestelde vrije verkoopwaarde van de onroerende zaken;  
 
 b. een taxateur heeft vastgesteld dat gebouwen voldoen aan de nationale voorschriften die op gebouwen van toepassing zijn, voor zover de onroerende zaken gebouwen betreffen.     
-4.  Een taxateur als bedoeld in het tweede lid voldoet aan de vakbekwaamheidseisen, bedoeld in [artikel 3 van de Uitvoeringsregeling vakbekwaamheidseisen Wet waardering onroerende zaken](../../../../ministeriele-regeling/uitvoeringsregeling/vakbekwaamheidseisen/wet/waardering/onroerende/zaken/BWBR0007229/README.md).  
+4.  Een taxateur als bedoeld in het tweede lid voldoet aan de vakbekwaamheidseisen, bedoeld in artikel 3 van de Uitvoeringsregeling vakbekwaamheidseisen Wet waardering onroerende zaken.  
 
 ### Artikel  2:46  
 
@@ -1439,7 +1451,7 @@ De Minister verleent jaarlijks ambtshalve voorschot.
 
 ####Subsidiabele activiteiten
 
-1.  In aanvulling op paragraaf 1 is deze paragraaf van toepassing ingeval de subsidie, bedoeld in artikel 2:50, wordt aangevraagd ter stimulering van de omschakeling naar of voortzetting van de biologische productiemethode, bedoeld in [artikel 1, eerste lid, van het Landbouwkwaliteitsbesluit biologische productiemethode](../../../../AMvB/landbouwkwaliteitsbesluit/biologische/produktiemethode/BWBR0005740/README.md).   
+1.  In aanvulling op paragraaf 1 is deze paragraaf van toepassing ingeval de subsidie, bedoeld in artikel 2:50, wordt aangevraagd ter stimulering van de omschakeling naar of voortzetting van de biologische productiemethode, bedoeld in artikel 1, eerste lid, van het Landbouwkwaliteitsbesluit biologische productiemethode.   
 2.  Voor de subsidie komt in aanmerking een landbouwonderneming die is aangesloten bij de Stichting Skal, statutair gevestigd te Zwolle.  
 
 ### Artikel  2:56  
@@ -1454,9 +1466,9 @@ Met de indiening van een aanvraag tot verlening van de subsidie stemt de aanvrag
 
 1.  De volgende kosten komen in aanmerking voor de subsidie: 
 
-a. de eenmalige aansluitingsbijdrage, bedoeld in [artikel 2 van het Skal-bijdragereglement](../../../../zbo/skal-bijdragereglement/BWBR0018852/README.md), en  
+a. de eenmalige aansluitingsbijdrage, bedoeld in artikel 2 van het Skal-bijdragereglement, en  
 
-b. de basisbijdrage, bedoeld in [artikel 3, onderdeel a, van het Skal-bijdragereglement](../../../../zbo/skal-bijdragereglement/BWBR0018852/README.md).     
+b. de basisbijdrage, bedoeld in artikel 3, onderdeel a, van het Skal-bijdragereglement.     
 2.  Incassokosten, administratiekosten en overige kosten die zijn verbonden aan de inning van de in het eerste lid bedoelde bijdragen komen niet in aanmerking voor de subsidie.  
 
 ### Titel  9  
@@ -1630,9 +1642,9 @@ Artikel 2:1a, onderdeel a, is niet van toepassing.
 
 1.  De minister kan subsidie verstrekken aan een onderneming die zodanig ernstig is getroffen door maatregelen ter bestrijding van: 
 
-a. een dierziekte als bedoeld in de [artikelen 2 tot en met 8 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), of  
+a. een dierziekte als bedoeld in de artikelen 2 tot en met 8 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, of  
 
-b. een schadelijk organisme als bedoeld in [artikel 3 van de Regeling aanwijzing schadelijke organismen 1998](../../../../ministeriele-regeling/regeling/aanwijzing/schadelijke/organismen/1998/BWBR0009774/README.md),   dat zij als rechtstreeks gevolg daarvan als een onderneming in moeilijkheden als bedoeld in paragraaf 2.1 van de communautaire richtsnoeren is aan te merken.   
+b. een schadelijk organisme als bedoeld in artikel 3 van de Regeling aanwijzing schadelijke organismen 1998,   dat zij als rechtstreeks gevolg daarvan als een onderneming in moeilijkheden als bedoeld in paragraaf 2.1 van de communautaire richtsnoeren is aan te merken.   
 2.  De subsidie, bedoeld in het eerste lid, wordt verstrekt in de vorm van reddingssteun of herstructureringssteun.   
 3.  De subsidie, bedoeld in het eerste lid, wordt niet verstrekt: 
 
@@ -1891,7 +1903,7 @@ b. voor zover rechtens is toegestaan, op alle hen toebehorende zaken goederenrec
 
 c. beschikken over de wettelijk vereiste bescheiden ter zake van de vestiging en uitoefening van de landbouwonderneming waarop de aanvraag tot garantstelling betrekking heeft, en  
 
-d. de Minister machtigen tot gebruik van de door hen op grond van [artikel 24, eerste lid, van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) verstrekte gegevens voor de controle van de te verlenen garantstelling. 
+d. de Minister machtigen tot gebruik van de door hen op grond van artikel 24, eerste lid, van de Landbouwwet verstrekte gegevens voor de controle van de te verlenen garantstelling. 
 2. Voor de garantstelling komen natuurlijke personen in aanmerking indien:
 
 a. zij de landbouwonderneming waarop de aanvraag tot garantstelling betrekking heeft voor eigen rekening en risico beheren;  
@@ -2060,7 +2072,7 @@ a. investeringen in een duurzame melkveestal, varkensstal of pluimveestal die:
 
 2. bestaat uit ruimten waarin dieren worden gehuisvest, stalinrichting, klimaattechnische en voertechnische systemen, ammoniakemissiereducerende systemen, mestafvoer en mestopslag;  
 
-b. investeringen in een Groen Label Kas, die is bestemd voor het bedrijfsmatig telen van gewassen, en is aangewezen op grond van de [artikelen 3.31, eerste lid](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); 
+b. investeringen in een Groen Label Kas, die is bestemd voor het bedrijfsmatig telen van gewassen, en is aangewezen op grond van de artikelen 3.31, eerste lid, of 3.42a, tweede lid, van de Wet inkomstenbelasting 2001; 
 
 c.aankoop van grond voor de uitoefening van de glastuinbouw, mits de betrokken kavel ten minste 80 meter breed is met een lengte-breedte-verhouding van ten hoogste 2:1.
 3. De garantstelling wordt verstrekt ter zake van een investeringsplan, waarbij ten minste de helft van de investeringen betrekking heeft op investeringen als bedoeld in het tweede lid.
@@ -2191,6 +2203,12 @@ De Minister verleent de subsidie, bedoelt in artikel 2:82, binnen twee weken na 
 
 Gedurende de periode van 1 januari 2008 tot en met 31 december 2011 bedraagt het totaal aan de-minimissteun, steun verstrekt op grond van punt 4.2.2 van de Tijdelijke kaderregeling en steun verstrekt op grond van punt 2.2 van de Tijdelijke communautaire kaderregeling 2011, met in begrip van steun die in de vorm van een garantstelling aan een landbouwonderneming op grond van deze paragraaf is toegekend, niet meer dan het subsidie-equivalent van ten hoogste € 15.000. 
 
+###Titel 13 
+
+####Uitvoeringsagenda duurzame veehouderij
+
+Vervallen per 20-08-2014 
+
 ### Hoofdstuk  3  
 
 ####Natuur, landelijk erfgoed en recreatie
@@ -2207,7 +2225,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 – beheer: al hetgeen in een terrein wordt verricht ten behoeve van instandhouding en ontwikkeling van de in dat terrein aanwezige waarden van natuurwetenschappelijke, landschappelijke of cultuurhistorische betekenis of vanwege de bosbouwkundige waarden, alsmede de daarmee verbonden administratie;  
 
-– bos: aaneengesloten terrein, waarop de meldings- en herplantplicht, bedoeld in de [artikelen 2](../../../../wet/boswet/BWBR0002357/README.md) en [3 van de Boswet](../../../../wet/boswet/BWBR0002357/README.md), van toepassing is;  
+– bos: aaneengesloten terrein, waarop de meldings- en herplantplicht, bedoeld in de artikelen 2 en 3 van de Boswet, van toepassing is;  
 
 – bosgroep: coöperatieve vereniging van bos-, natuur en landgoedeigenaren die bos-, natuur en landgoedeigenaren ondersteunt bij het beheer van hun bos, natuur en landschap;  
 
@@ -2221,9 +2239,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 – natuurgebied: natuurgebied dat als zodanig is begrensd in een natuurgebiedsplan: 
 
-a. als bedoeld in [artikel 13 van de Subsidieregeling natuurbeheer 2000](../../../../ministeriele-regeling/subsidieregeling/natuurbeheer/2000/BWBR0010999/README.md), zoals die luidde tot 1 januari 2007, of  
+a. als bedoeld in artikel 13 van de Subsidieregeling natuurbeheer 2000, zoals die luidde tot 1 januari 2007, of  
 
-b. dat is vastgesteld op grond van een ingevolge [artikel 11, derde lid, van de Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) door provinciale staten van de onderscheiden provincies vastgestelde verordening inzake subsidies voor natuurbeheer;    
+b. dat is vastgesteld op grond van een ingevolge artikel 11, derde lid, van de Wet inrichting landelijk gebied door provinciale staten van de onderscheiden provincies vastgestelde verordening inzake subsidies voor natuurbeheer;    
 
 – natuurontwikkeling: het scheppen van de abiotische en biotische omstandigheden voor de ontwikkeling van natuurwaarden van nationale of internationale betekenis door middel van daarop toegesneden eenmalige maatregelen voor inrichting en beheer;  
 
@@ -2450,9 +2468,9 @@ b. het verzamelen van natuurgegevens;
 
 c. het opstellen van aanvragen tot verlening van een subsidie als bedoeld in:
 
-a.[artikel 20a van de Subsidieregeling natuurbeheer 2000](../../../../ministeriele-regeling/subsidieregeling/natuurbeheer/2000/BWBR0010999/README.md), zoals die luidde tot 1 januari 2007, of
+a.artikel 20a van de Subsidieregeling natuurbeheer 2000, zoals die luidde tot 1 januari 2007, of
 
-b.een met de subsidie, bedoeld onder 1, overeenkomende subsidie die door provinciale staten kan worden verstrekt op grond van een ingevolge [artikel 11, derde lid, van de Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) door hen vastgestelde verordening, of
+b.een met de subsidie, bedoeld onder 1, overeenkomende subsidie die door provinciale staten kan worden verstrekt op grond van een ingevolge artikel 11, derde lid, van de Wet inrichting landelijk gebied door hen vastgestelde verordening, of
 
 c.artikel 3:11 van deze regeling.   
 
@@ -2598,7 +2616,7 @@ In deze titel wordt verstaan onder:
 
 *kennisinstelling:*
 
-1° een onder a, b, c, g of h van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde instelling voor hoger onderwijs,  
+1° een onder a, b, c, g of h van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde instelling voor hoger onderwijs,  
 
 2° een andere dan onder 1° bedoelde geheel of gedeeltelijk door de rijksoverheid gefinancierde onderzoeksorganisatie die activiteiten verricht met als doel de algemene wetenschappelijke en technische kennis uit te breiden,  
 
@@ -2828,7 +2846,7 @@ b. Voor kuddes met 250 ooien of meer: € 28.000.
 
 In deze titel wordt verstaan onder: 
 
-–  *jacht:* bemachtigen, doden of het met het oog daarop opsporen van wild alsmede het doen van pogingen daartoe, als bedoeld in [titel II van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+–  *jacht:* bemachtigen, doden of het met het oog daarop opsporen van wild alsmede het doen van pogingen daartoe, als bedoeld in titel II van de Flora- en faunawet;  
 
 –  *natuur- en landschapsbeheer:* geheel van activiteiten die de instandhouding van de natuur of het landschap bevorderen, daaronder begrepen het inventariseren en monitoren van de aanwezigheid van dier- of plantensoorten in een bepaald gebied;  
 
@@ -2927,7 +2945,7 @@ c. een opgave van de kosten die de activiteiten met zich zullen brengen.
 
 – verordening nr. 1077/2008: Verordening (EG) nr. 1077/2008 van de Commissie van de Europese Gemeenschappen van 3 november 2008 tot vaststelling van toepassingsbepalingen voor Verordening (EG) 06/1966 van de Raad betreffende de elektronische registratie en melding van visserijactiviteiten en een systeem voor teledetectie en tot intrekking van Verordening (EG) nr. 07/1566; 
 
-– Besluit: [Besluit registratie vissersvaartuigen 1998](../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md);  
+– Besluit: Besluit registratie vissersvaartuigen 1998;  
 
 – kleine, middelgrote en micro-ondernemingen: kleine, middelgrote en micro-onderneming in de zin van Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU L 124);  
 
@@ -2935,7 +2953,7 @@ c. een opgave van de kosten die de activiteiten met zich zullen brengen.
 
 – visser: natuurlijk persoon die zijn hoofdberoep uitoefent aan boord van een in bedrijf zijnd vissersvaartuig;  
 
-– vissersvaartuig: vaartuig dat gebruikt wordt voor de uitoefening van de bedrijfsmatige visserij, dat overeenkomstig [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md) als Nederlands geldt en dat overeenkomstig het bij of krachtens het besluit bepaalde staat geregistreerd;  
+– vissersvaartuig: vaartuig dat gebruikt wordt voor de uitoefening van de bedrijfsmatige visserij, dat overeenkomstig artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967 als Nederlands geldt en dat overeenkomstig het bij of krachtens het besluit bepaalde staat geregistreerd;  
 
 – binnenvisserij: visserij voor commerciële doeleinden met vaartuigen die uitsluitend actief zijn in de binnenwateren en die niet in het communautaire register van vissersvaartuigen zijn opgenomen;  
 
@@ -2943,13 +2961,13 @@ c. een opgave van de kosten die de activiteiten met zich zullen brengen.
 
 – gangbare praktijk in de aquacultuursector: aquacultuuractiviteiten die worden uitgevoerd overeenkomstig de bindende gezondheids-, veterinaire of milieuwetgeving;  
 
-– visvergunning: aan een ondernemer ten aanzien van een vissersvaartuig toegekende visvergunning als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md);  
+– visvergunning: aan een ondernemer ten aanzien van een vissersvaartuig toegekende visvergunning als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij;  
 
-– garnalenvergunning: vergunning als bedoeld in [artikel 11 van de Beschikking visserij visserijzone, zeegebied en kustwateren](../../../../ministeriele-regeling/beschikking/visserij/visserijzone/zeegebied/en/kustwateren/BWBR0003150/README.md) verleend voor het vissen met enig vistuig geschikt voor het vangen van garnalen (Crangon, crangon) in de visserijzone, het zeegebied of de kustwateren;  
+– garnalenvergunning: vergunning als bedoeld in artikel 11 van de Beschikking visserij visserijzone, zeegebied en kustwateren verleend voor het vissen met enig vistuig geschikt voor het vangen van garnalen (Crangon, crangon) in de visserijzone, het zeegebied of de kustwateren;  
 
-– contingent: contingent als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md);  
+– contingent: contingent als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij;  
 
-– meetbrief: document als bedoeld in [artikel 4 van de Meetbrievenwet 1981](../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md);  
+– meetbrief: document als bedoeld in artikel 4 van de Meetbrievenwet 1981;  
 
 – brutoton: maat ter bepaling van de scheepsinhoud overeenkomstig bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen (Trb. 1970, 122 en 194);  
 
@@ -3054,11 +3072,11 @@ De aanvraag tot subsidieverlening gaat vergezeld van een kopie van de meetbrief.
 
 a. hetzij de sloop van het vissersvaartuig, hetzij de definitieve bestemming van het vissersvaartuig voor andere doeleinden dan de visserij heeft plaatsgevonden, waarbij in het laatstbedoelde geval de op het vissersvaartuig aanwezige vistuigen en de overige apparatuur specifiek bestemd en geschikt voor de visserij zijn verwijderd;  
 
-b. het registratienummer van het vissersvaartuig, bedoeld in [artikel 9, eerste lid, van de Regeling eisen, administratie en registratie inzake uitoefening visserij](../../../../ministeriele-regeling/regeling/eisen/administratie/en/registratie/inzake/uitoefening/visserij/BWBR0020043/README.md) is verwijderd;  
+b. het registratienummer van het vissersvaartuig, bedoeld in artikel 9, eerste lid, van de Regeling eisen, administratie en registratie inzake uitoefening visserij is verwijderd;  
 
-c. de inschrijving van het vissersvaartuig in het register, bedoeld in [artikel 4 van het besluit](../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md), is doorgehaald;  
+c. de inschrijving van het vissersvaartuig in het register, bedoeld in artikel 4 van het besluit, is doorgehaald;  
 
-d. de teboekstelling van het vissersvaartuig in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), ongedaan is gemaakt;  
+d. de teboekstelling van het vissersvaartuig in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, ongedaan is gemaakt;  
 
 e.het vaartuig wordt ingeschreven in het register van de lidstaat van de Europese Unie onder de vlag van welke het vaartuig wordt gebracht, indien de visserijactiviteit wordt beëindigd overeenkomstig artikel 4:2, tweede lid, onderdeel b.
 2. De Minister kan de in het eerste lid genoemde termijn op een met redenen omkleed verzoek van de subsidieontvanger eenmalig met ten hoogste vier weken verlengen.
@@ -3083,7 +3101,7 @@ c. het originele exemplaar van de ten aanzien van het betreffende vissersvaartui
 
 d. het originele exemplaar van de garnalenvergunning en van de vergunning voor het vissen met een sleepnet in de Oosterschelde, voor zover deze vergunningen ten aanzien van het betreffende vissersvaartuig zijn toegekend;  
 
-e. het originele exemplaar van de vismachtiging, bedoeld in artikel 7, eerste lid, van de controleverordening, bedoeld in [artikel 1, tweede lid, van de Uitvoeringregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md), voor zover ten aanzien van het desbetreffende vissersvaartuig een vismachtiging is toegekend;  
+e. het originele exemplaar van de vismachtiging, bedoeld in artikel 7, eerste lid, van de controleverordening, bedoeld in artikel 1, tweede lid, van de Uitvoeringregeling zeevisserij, voor zover ten aanzien van het desbetreffende vissersvaartuig een vismachtiging is toegekend;  
 
 f. een taxatierapport van het vaartuig van een beëdigd taxateur, indien de visserijactiviteit beëindigd wordt overeenkomstig artikel 4:2, tweede lid, onderdeel b. 
 
@@ -3099,7 +3117,7 @@ f. een taxatierapport van het vaartuig van een beëdigd taxateur, indien de viss
 
 ### Artikel 4:8  
 
-Ten aanzien van contingenten die zijn toegekend ten behoeve van vaartuigen waarvoor subsidie wordt verleend, wordt de periode van aanhouden van een contingent als bedoeld in [artikel 14 van de Regeling contingentering zeevis](../../../../ministeriele-regeling/regeling/contingentering/zeevis/BWBR0008477/README.md) vastgesteld op ten hoogste 36 maanden.
+Ten aanzien van contingenten die zijn toegekend ten behoeve van vaartuigen waarvoor subsidie wordt verleend, wordt de periode van aanhouden van een contingent als bedoeld in artikel 14 van de Regeling contingentering zeevis vastgesteld op ten hoogste 36 maanden.
 
 ### § 2 
 
@@ -3118,7 +3136,7 @@ b. voor de omscholing naar een beroep buiten de zeevisserij;
 c. als eenmalige compensatie indien de visserijactiviteit van het vaartuig waarop de visser ten minste twaalf maanden heeft gewerkt, definitief is beëindigd in de zin van artikel 4:2;  
 
 d. voor het vroegtijdig uittreden uit de visserij  
-2. De aanvraag voor subsidie wordt afgewezen indien de aanvrager reeds eerder een subsidie voor een activiteit als bedoeld in het eerste lid, onderdeel b en d, heeft ontvangen op grond van deze paragraaf, de Vergoedingsregeling voor uittreding van vissers uit de visserij, de [Vergoedingsregeling voor uittreding van vissers uit de visserij 2002](../../../../ministeriele-regeling/vergoedingsregeling/voor/uittreding/van/vissers/uit/de/visserij/2002/BWBR0021774/README.md), de [Vergoedingsregeling voor uittreding van vissers uit de visserij 2003](../../../../ministeriele-regeling/vergoedingsregeling/voor/uittreding/van/vissers/uit/de/visserij/2003/BWBR0016104/README.md) of in de twaalf maanden voorafgaande aan de aanvraag op grond van paragraaf 1 van hoofdstuk 4 een aanvraag tot subsidieverlening heeft gedaan.
+2. De aanvraag voor subsidie wordt afgewezen indien de aanvrager reeds eerder een subsidie voor een activiteit als bedoeld in het eerste lid, onderdeel b en d, heeft ontvangen op grond van deze paragraaf, de Vergoedingsregeling voor uittreding van vissers uit de visserij, de Vergoedingsregeling voor uittreding van vissers uit de visserij 2002, de Vergoedingsregeling voor uittreding van vissers uit de visserij 2003 of in de twaalf maanden voorafgaande aan de aanvraag op grond van paragraaf 1 van hoofdstuk 4 een aanvraag tot subsidieverlening heeft gedaan.
 
 ### Artikel 4:10 
 
@@ -3906,7 +3924,7 @@ b. bijdraagt aan een vergroting van de productie van forel, paling, meerval, zee
 
 c. betrekking heeft op siervissen;  
 
-d. betrekking heeft op aquacultuur van dieren die niet mogen worden gehouden op grond van de [Gezondheids- en welzijnswet](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor dieren of in strijd is met overige wet- of regelgeving;  
+d. betrekking heeft op aquacultuur van dieren die niet mogen worden gehouden op grond van de Gezondheids- en welzijnswet voor dieren of in strijd is met overige wet- of regelgeving;  
 
 e. in vergelijking met de gangbare praktijk in de aquacultuursector leidt tot een zwaardere belasting van het milieu;  
 
@@ -4169,7 +4187,7 @@ c. de liquiditeitstoename voldoende ruimte biedt om tegenvallers in de exploitat
 
 1. Jaarlijks kan de Minister overeenkomstig artikel 1:3 een aanvraagperiode en een maximumbedrag vaststellen voor het totaal van de leningen waarvoor in het betrokken jaar garantstellingen kunnen worden verstrekt.
 2. Een garantstelling wordt niet verstrekt indien door verstrekking daarvan het maximumbedrag, bedoeld in het eerste lid, wordt overschreden.
-3. Aanvragen voor garantstellingen worden overeenkomstig artikel 1:6 gerangschikt, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag volledig is, als datum van ontvangst geldt.
+3. Aanvragen voor garantstellingen worden overeenkomstig artikel 1:6 gerangschikt, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag volledig is, als datum van ontvangst geldt.
 4. De Minister kan besluiten dat indien het krachtens het eerste lid vastgestelde maximumbedrag is bereikt, de mogelijkheid tot het indienen van aanvragen tot verstrekking van garantstellingen uit hoofde van deze regeling voor de rest van het betrokken begrotingsjaar wordt geschorst.
 5. De Minister maakt een besluit als bedoeld in het vierde lid bekend in de Staatscourant
 
@@ -4218,8 +4236,8 @@ e. de natuurlijke personen of rechtspersonen die zich hoofdelijk aansprakelijk d
 
 ####Overgangsbepaling
 
-1. Na inwerkingtreding van deze regeling berust het [Besluit maximumbedrag garantstelling visserij 2007](../../../../ministeriele-regeling/besluit/maximumbedrag/garantstelling/visserij/2007/BWBR0022477/README.md) op artikel 4:57 van deze regeling en geldt het als een besluit op grond van artikel 1:3 van deze regeling.
-2. De [Regeling garantstelling visserij](../../../../ministeriele-regeling/regeling/garantstelling/visserij/BWBR0022476/README.md) blijft van kracht voor zover dat nodig is voor een juiste toepassing van de raamovereenkomst, bedoeld in artikel 4:54, die is gesloten tussen de banken en de Minister.
+1. Na inwerkingtreding van deze regeling berust het Besluit maximumbedrag garantstelling visserij 2007 op artikel 4:57 van deze regeling en geldt het als een besluit op grond van artikel 1:3 van deze regeling.
+2. De Regeling garantstelling visserij blijft van kracht voor zover dat nodig is voor een juiste toepassing van de raamovereenkomst, bedoeld in artikel 4:54, die is gesloten tussen de banken en de Minister.
 
 ### §  4a  
 
@@ -4262,7 +4280,7 @@ e. aan een onderneming ten aanzien waarvan een uitstaand bevel tot terugvorderin
 
 a. de in artikel 4:54, derde lid, genoemde termijn 20 jaar bedraagt en de bank de looptijd met ten hoogste twee jaar kan verlengen in geval van betalingsmoeilijkheden;  
 
-b. in artikel 4:55, eerste lid, onder f, voor ‘een visvergunning’ wordt gelezen: een vergunning op grond van [artikel 2.1.1 van de Regeling aquacultuur](../../../../ministeriele-regeling/regeling/aquacultuur/BWBR0024256/README.md);  
+b. in artikel 4:55, eerste lid, onder f, voor ‘een visvergunning’ wordt gelezen: een vergunning op grond van artikel 2.1.1 van de Regeling aquacultuur;  
 
 c. bij de rangschikking van de aanvragen overeenkomstig artikel 4:57, derde lid, een aanvraag hoger wordt gerangschikt indien het wordt uitgevoerd door een kleine of micro-onderneming;  
 
@@ -4449,9 +4467,9 @@ b. kosten voor eigen arbeid.
 
 In deze paragraaf wordt verstaan onder: 
 
-a.  *kustwateren:* wateren als bedoeld in [artikel 2 van het Besluit aanwijzing zeegebied en kustwateren 1970](../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md);  
+a.  *kustwateren:* wateren als bedoeld in artikel 2 van het Besluit aanwijzing zeegebied en kustwateren 1970;  
 
-b.  *binnenwateren:* overige wateren als bedoeld in [artikel 1, vierde lid, onderdeel d, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
+b.  *binnenwateren:* overige wateren als bedoeld in artikel 1, vierde lid, onderdeel d, van de Visserijwet 1963;  
 
 c.  *referentieperiode:* maanden september, oktober en november van de jaren 2006, 2007 en 2008.   
 
@@ -4459,7 +4477,7 @@ c.  *referentieperiode:* maanden september, oktober en november van de jaren 200
 
 ####Subsidiabele activiteiten
 
-De Minister kan op aanvraag een tegemoetkoming verstrekken aan beroepsvissers die vissen in de kust- en binnenwateren en die als gevolg van het visverbod op aal, bedoeld in [artikel 32a van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md), in de maanden september, oktober en november 2012 schade lijden en aan beroepsvissers die deelnemen aan een pilot in het kader van decentraal aalbeheer, waarvoor op grond van [artikel 11 van het Reglement voor de binnenvisserij 1985](../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md) ontheffing is verleend. 
+De Minister kan op aanvraag een tegemoetkoming verstrekken aan beroepsvissers die vissen in de kust- en binnenwateren en die als gevolg van het visverbod op aal, bedoeld in artikel 32a van de Uitvoeringsregeling visserij, in de maanden september, oktober en november 2012 schade lijden en aan beroepsvissers die deelnemen aan een pilot in het kader van decentraal aalbeheer, waarvoor op grond van artikel 11 van het Reglement voor de binnenvisserij 1985 ontheffing is verleend. 
 
 ### Artikel  4:69  
 
@@ -4485,7 +4503,7 @@ a. kopieën van verkoopbonnen;
 
 b. kopieën van kasboekoverzichten;  
 
-c. kopieën van veilingbonnen van visafslagen als genoemd in [artikel 1 van het Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen](../../../../pbo/besluit/aanwijzing/bevoegde/afslagen/voor/inning/productschapsheffingen/BWBR0026263/README.md), of  
+c. kopieën van veilingbonnen van visafslagen als genoemd in artikel 1 van het Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen, of  
 
 d. een combinatie van a, b en c.     
 2.  Indien de aanvrager een aanvraag heeft ingediend op grond van de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 januari 2010, nr 79904, houdende wijziging van de Regeling LNV-subsidies en het Openstellingsbesluit LNV-subsidies 2010 (Stcrt. 2012, 284) of de Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 14 juli 2011 houdende wijziging van het Mandaatbesluit LNV Dienst Regelingen 2011, de Regeling LNV-subsidies en de Uitvoeringsregeling visserij in verband met een compensatieregeling voor aalvisserij en enkele andere zaken (Stcrt. 2011, 13462), en deze geleid heeft tot verstrekking van de in die regelingen bedoelde tegemoetkomingen, wordt, voor zover het de maanden september, oktober en november uit de jaren van de referentieperiode betreft, uitgegaan van de opbrengsten uit de verkoop van door de betreffende aanvrager gevangen aal zoals deze in het kader van die regelingen in aanmerking zijn genomen voor de verstrekking van de daar bedoelde tegemoetkomingen en behoeft de aanvrager in afwijking van het eerste lid de gegevens over de maanden september, oktober en november niet te verstrekken.  
@@ -4494,8 +4512,8 @@ d. een combinatie van a, b en c.
 
 ####Afwijzen aanvraag
 
-1.  Een aanvraag tot een verstrekking van een tegemoetkoming van een beroepsvisser die zich niet voor het einde van de openstellingperiode waarin hij zijn aanvraag heeft gedaan, heeft geregistreerd bij het Productschap Vis overeenkomstig de op grond van [artikel 93, tweede lid, onderdeel a, van de Wet op de bedrijfsorganisaties](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) geldende registratieplicht, wordt afgewezen.   
-2.  Een aanvraag tot verstrekking van een tegemoetkoming van een beroepsvisser met visrechten op de binnenwateren, uitgezonderd het IJsselmeer, die zich niet voor het einde van de openstellingsperiode waarin de aanvraag is gedaan overeenkomstig [artikel 55](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md) of [56 van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md) heeft gemeld bij de Minister, of die vist in dienst van een rechtspersoon en deze rechtspersoon zich niet overeenkomstig artikel 55 of 56 van de Uitvoeringsregeling visserij heeft gemeld bij de Minister, wordt afgewezen.  
+1.  Een aanvraag tot een verstrekking van een tegemoetkoming van een beroepsvisser die zich niet voor het einde van de openstellingperiode waarin hij zijn aanvraag heeft gedaan, heeft geregistreerd bij het Productschap Vis overeenkomstig de op grond van artikel 93, tweede lid, onderdeel a, van de Wet op de bedrijfsorganisaties geldende registratieplicht, wordt afgewezen.   
+2.  Een aanvraag tot verstrekking van een tegemoetkoming van een beroepsvisser met visrechten op de binnenwateren, uitgezonderd het IJsselmeer, die zich niet voor het einde van de openstellingsperiode waarin de aanvraag is gedaan overeenkomstig artikel 55 of 56 van de Uitvoeringsregeling visserij heeft gemeld bij de Minister, of die vist in dienst van een rechtspersoon en deze rechtspersoon zich niet overeenkomstig artikel 55 of 56 van de Uitvoeringsregeling visserij heeft gemeld bij de Minister, wordt afgewezen.  
 3. Het tweede lid is niet van toepassing indien de aanvrager op grond van artikel 4:68 een aanvraag heeft ingediend in de periode van 7 november tot en met 19 december 2011 en die aanvraag heeft geleid tot het verstrekken van een tegemoetkoming.
 
 ### Artikel  4:73  
@@ -4504,7 +4522,7 @@ Een beschikking omtrent verstrekking van de tegemoetkoming wordt gegeven binnen 
 
 ### §  2  
 
-####Tegemoetkoming verbod ex [artikel 23b](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md) en [28b Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md)
+####Tegemoetkoming verbod ex artikel 23b en 28b Uitvoeringsregeling visserij
 
 ### Artikel  4:75  
 
@@ -4512,7 +4530,7 @@ In deze paragraaf wordt verstaan onder ‘nettoresultaat’; omzet verminderd me
 
 ### Artikel  4:76  
 
-1.  De Minister kan op aanvraag een tegemoetkoming verstrekken aan degene die tenminste tot 1 september 2010 viste in de wateren, bedoeld in [bijlage 15](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md) en [16 van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md), en die schade lijdt als gevolg van het visverbod, bedoeld in de [artikelen 23b](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md) en [28b van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md).   
+1.  De Minister kan op aanvraag een tegemoetkoming verstrekken aan degene die tenminste tot 1 september 2010 viste in de wateren, bedoeld in bijlage 15 en 16 van de Uitvoeringsregeling visserij, en die schade lijdt als gevolg van het visverbod, bedoeld in de artikelen 23b en 28b van de Uitvoeringsregeling visserij.   
 2.  De tegemoetkoming, bedoeld in het eerste lid, bedraagt een gemiddeld nettojaarresultaat, berekend uit de nettojaarresultaten die zijn behaald in de jaren 2009 en 2010 uit de vangst van aal en wolhandkrab in de gebieden, waarop het verbod, bedoeld in het eerste lid, ziet, vermenigvuldigd met vijf.   
 3.  In afwijking van het tweede lid kan de Minister het nettojaarresultaat behaald uit de visserij op aal in het jaar 2009 of 2010 hanteren, indien 
 
@@ -4523,7 +4541,7 @@ b. de aanvrager aannemelijk maakt dat dit te wijten is aan omstandigheden die bu
 c. de aanvrager zulks verzoekt.     
 4.  Indien de aanvrager aannemelijk maakt dat de opbrengsten uit de visserij op aal zowel in 2009 als in 2010, als gevolg van omstandigheden, als bedoeld in lid 3, onderdeel b, significant lager zijn geweest dan hetgeen in normale omstandigheden te verwachten is, kan de Minister het nettojaarresultaat behaald uit de visserij op aal in 2008 hanteren, indien van dat resultaat in de boekhouding separaat melding wordt gemaakt en indien de aanvrager zulks verzoekt.   
 5.  In afwijking van het tweede lid kan de Minister het nettojaarresultaat behaald uit de visserij op wolhandkrab in het jaar 2009 of 2010 hanteren, indien van dat resultaat in de boekhouding separaat melding wordt gemaakt en indien de aanvrager zulks verzoekt.   
-6.  Het bedrag, bedoeld in het tweede lid, in voorkomend geval berekend met inachtneming van het bepaalde in het derde, vierde of vijfde lid, wordt vermeerderd met een bedrag dat gelijkstaat aan vijf maal het gemiddelde nettojaarresultaat in de jaren 2009 en 2010, voor zover dat resultaat is verkregen uit de vangst van schubvissen in de gebieden, bedoeld in [artikel 23](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md) en [28 van de Uitvoeringsregeling visserij](../../../../ministeriele-regeling/uitvoeringsregeling/visserij/BWBR0024539/README.md), die ingevolge een toestemming als bedoeld in [artikel 7, tweede lid, onderdeel a](../../../../wet/visserijwet/1963/BWBR0002416/README.md), en [21, eerste lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), voor het vissen op aal of wolhandkrab, of ingevolge een huurovereenkomst als bedoeld in [artikel 25, eerste lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), voor het vissen op aal of wolhandkrab door de aanvrager, mag worden behouden en verkocht, voor zover van dat resultaat in de boekhouding separaat melding wordt gemaakt.   
+6.  Het bedrag, bedoeld in het tweede lid, in voorkomend geval berekend met inachtneming van het bepaalde in het derde, vierde of vijfde lid, wordt vermeerderd met een bedrag dat gelijkstaat aan vijf maal het gemiddelde nettojaarresultaat in de jaren 2009 en 2010, voor zover dat resultaat is verkregen uit de vangst van schubvissen in de gebieden, bedoeld in artikel 23 en 28 van de Uitvoeringsregeling visserij, die ingevolge een toestemming als bedoeld in artikel 7, tweede lid, onderdeel a, en 21, eerste lid, van de Visserijwet 1963, voor het vissen op aal of wolhandkrab, of ingevolge een huurovereenkomst als bedoeld in artikel 25, eerste lid, van de Visserijwet 1963, voor het vissen op aal of wolhandkrab door de aanvrager, mag worden behouden en verkocht, voor zover van dat resultaat in de boekhouding separaat melding wordt gemaakt.   
 7.  Indien een aanvrager aannemelijk maakt dat de afschrijvingskosten in de jaren die als referentie worden gehanteerd, of in geval van toepassing van het derde, vierde of vijfde lid, in het jaar dat als referentie wordt gehanteerd, significant hoger zijn dan de kosten die in de jaren 2011 tot en met 2015, redelijkerwijs hadden mogen worden verwacht, wordt het nettojaarresultaat vermeerderd met het verschil tussen op de boekhouding opgenomen afschrijving en de afschrijving die redelijkerwijs mag worden verwacht.   
 8.  In voorkomend geval wordt het nettoresultaat verminderd met de tegemoetkoming die in het betreffende jaar voor de betreffende wateren is uitgekeerd op grond van artikel 4:68.   
 9.  Bij toepassing van het vierde lid wordt het nettoresultaat uit de vangst van aal over het jaar 2008 verminderd met het resultaat dat in de betreffende wateren met die vangst is behaald in de maanden september tot en met november van dat jaar.  
@@ -4535,7 +4553,7 @@ c. de aanvrager zulks verzoekt.
 1.  Een aanvraag als bedoeld in artikel 4:75, eerste lid, kan gedurende een periode van zes weken worden ingediend. De periode vangt aan met ingang van de zevende dag volgend op de dag van inwerkingtreding van deze paragraaf van de regeling.   
 2.  Een aanvraag gaat in ieder geval vergezeld van: 
 
-a. een toestemming als bedoeld in [artikel 7, tweede lid, onderdeel a](../../../../wet/visserijwet/1963/BWBR0002416/README.md), en [21, eerste lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), voor het vissen op aal of wolhandkrab, of ingevolge een huurovereenkomst als bedoeld in [artikel 25, eerste lid, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), op grond waarvan de aanvrager in ieder geval tot 1 april 2011 gerechtigd was te vissen;  
+a. een toestemming als bedoeld in artikel 7, tweede lid, onderdeel a, en 21, eerste lid, van de Visserijwet 1963, voor het vissen op aal of wolhandkrab, of ingevolge een huurovereenkomst als bedoeld in artikel 25, eerste lid, van de Visserijwet 1963, op grond waarvan de aanvrager in ieder geval tot 1 april 2011 gerechtigd was te vissen;  
 
 b. de jaarrekeningen en de boekhouding van 2008, 2009 of 2010 voor zover relevant op grond van artikel 4:76, en  
 
@@ -4545,126 +4563,20 @@ c. documenten ter onderbouwing van een beroep op het derde tot en met zesde lid 
 
 ####Onderwijs
 
+Vervallen per 20-08-2014 
+
 ### Titel  1  
 
 ####Algemene bepalingen
 
 [gereserveerd] 
+Vervallen per 20-08-2014 
 
 ### Titel  2  
 
 ####Groene-plus lectoraten
 
-### Artikel  4a:2  
-
-####Begripsbepalingen
-
-In deze titel wordt verstaan onder: 
-
-−  *HBO:* Hoger beroepsonderwijs, als bedoeld in [artikel 1.1, onderdeel d, van de Wet op Hoger Onderwijs en Wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
-
-–  *agrarische HBO-instelling:* instelling voor hoger onderwijs, als bedoeld in [artikel 1.2., onderdeel a, van de Wet op het Hoger Onderwijs en Wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), op het gebied van landbouw en natuurlijke omgeving;  
-
-–  *lector:* hoog gekwalificeerde professional die ruime ervaring heeft met onderwijs en onderzoek op een bepaald vakgebied en die door zijn prestaties een groot gezag geniet als deskundige;  
-
-–  *lectoraat:* samenwerkingsverband dat onder leiding staat van een lector;  
-
-–  *groene-plus lectoraat:* lectoraat dat zich op basis van deze regeling bezighoudt met thema’s op het gebied van landbouw en natuurlijke omgeving;  
-
-–  *kenniskring:* samenwerkingsverband van een lectoraat, docenten en anderen waarbinnen inhoudelijke expertise op een bepaald gebied gebundeld en verder ontwikkeld wordt.   
-
-### Artikel  4a:3  
-
-####Subsidiabele activiteiten
-
-1.  Ter versterking van de lectoraten op het gebied van landbouw en natuurlijke omgeving, kan de Minister subsidie aan het bevoegd gezag van een agrarische HBO-instelling verstrekken voor activiteiten die leiden tot het vergroten van kennisinnovatie en de daarmee samenhangende kwaliteitsverbetering van het onderwijs en de externe oriëntatie naar bedrijfsleven en maatschappelijke organisaties.   
-2.  De activiteiten, bedoeld in het eerste lid, zijn gericht op: 
-
-a. het uitvoeren van vraaggestuurd praktijkgericht onderzoek;  
-
-b. de doorvertaling van de kennisontwikkeling in het onderwijs;  
-
-c. het professionaliseren van docenten en kenniskringleden;  
-
-d. een landelijke doorwerking, het versterken van de kenniscirculatie tussen onderwijs, onderzoek en praktijk via kenniskringen op het gebied van landbouw en natuurlijke omgeving;  
-
-e. het op waarde schatten van elders ontwikkelde nieuwe kennis en het benutten en overdragen van deze kennis aan docenten, studenten en andere kenniskringleden.   
-
-### Artikel  4a:4  
-
-####Rangschikking naar geschiktheid
-
-De Minister rangschikt een aanvraag overeenkomstig artikel 1:4 hoger naarmate de activiteiten waarop de aanvraag betrekking heeft: 
-
-a. qua thema waarop het groene-plus lectoraat betrekking heeft, beter aansluiten bij de agenda’s van de topsectoren Agro & Food en Tuinbouw en Uitgangsmaterialen, de beleidsreactie van het kabinet op deze agenda’s en de beleidsagenda’s in de begroting van het Ministerie van Economische Zaken, Landbouw en Innovatie in het domein Landbouw en Natuurlijke omgeving;  
-
-b. qua werkveld meer vernieuwend zijn ten opzichte van de werkvelden van bestaande lectoraten op het gebied van landbouw en natuurlijke omgeving;  
-
-c. een grotere bijdrage leveren aan de doelstelling en subsidiabele activiteiten, bedoeld in artikel 4a:3;  
-
-d.  meer kwaliteitswinst in de groene kennisinfrastructuur opleveren, waarbij een landelijke doorwerking van verworven kennis beter geborgd wordt en verdergaande zwaartepuntvorming bij de HBO-instellingen passend bij het profiel van de instellingen verkregen wordt;  
-
-e. een goede benutting van eerder gedane investeringen in de groene kennisinfrastructuur bewerkstelligen;  
-
-f. beter uitvoerbaar zijn;  
-
-g. een grotere betrokkenheid van het bedrijfsleven of maatschappelijke organisaties in de regio van de subsidieaanvrager bewerkstelligen;  
-
-h. meer vertrouwen geven dat na afloop van de subsidieperiode een structurele verankering van de resultaten plaatsvindt binnen de instelling.   
-
-### Artikel  4a:6  
-
-####Indiening van een aanvraag subsidieverlening
-
-De aanvraag tot subsidieverlening gaat vergezeld van een beschrijving van de doelen en van de activiteiten die ondernomen worden, welke bijdrage aan innovatie en duurzaamheid gerealiseerd wordt, welke partijen, doelgroepen en bestaande kennisnetwerken betrokken worden en welke instrumenten ingezet worden om het doel te bereiken. 
-
-### Artikel  4a:7  
-
-####Verplichtingen subsidieontvanger
-
-1.  De subsidieontvanger draagt zorg voor een functionerend kwaliteitszorg-mechanisme dat zorgt voor een samenhang tussen de doelstelling en activiteiten van de groene-plus lectoraten.   
-2.  De subsidieontvanger vangt met de activiteiten aan binnen zes maanden na de datum van subsidieverlening.  
-3.  De subsidieontvanger moet in elk geval meer dan 40% van de kosten, bedoeld in artikel 4a:9, onderdeel a, gebruiken voor docenten van de aanvragende instelling.   
-4.  De subsidieontvanger en de deelnemers aan de groene-plus lectoraten werken mee aan door of namens de Minister ingestelde activiteiten die gericht zijn op het monitoren en verspreiden van kennis.   
-5.  De subsidieontvanger brengt uiterlijk op 1 oktober van elk jaar een tussenrapportage uit van de voortgang van het groene-plus electoraat voor wat betreft de doelstelling en de subsidiabele activiteiten, bedoeld in artikel 4a:3.   
-6.  De tussenrapportages bedoeld in het vijfde lid worden ingediend bij de Minister volgens een daartoe vastgesteld format en bevatten een beschrijving van 
-
-a. de activiteiten die tot dan toe zijn verricht;  
-
-b. de mate waarin de activiteiten hebben bijgedragen aan de in de aanvraag omschreven doelstelling;  
-
-c.  de stand van zaken en planning ter zake van de financiën, waarbij de subsidieontvanger jaarlijks in een door een accountant gecontroleerde jaarrekening, waarin uitgaven en ontvangsten van het lectoraat inzichtelijk worden gemaakt, verantwoording aflegt over de uitgaven en ontvangsten van het lectoraat.     
-7.  In de administratie, bedoeld in artikel 1:12, tweede lid, zijn de loonkosten en de kosten voor door het personeel van de subsidieontvanger verrichte arbeid door middel van een sluitende urenregistratie vastgelegd.   
-8.  De subsidieontvanger legt jaarlijks in het jaarverslag verantwoording af over de inzet van de op basis van deze titel verstrekte subsidie.   
-9.   De subsidieontvanger dient binnen 3 maanden na aanstelling van een lector een uitgewerkt activiteitenplan in.  
-
-### Artikel  4a:8  
-
-####Indiening aanvraag subsidievaststelling
-
-De aanvraag tot subsidievaststelling gaat vergezeld van: 
-
-a. een rapport over de activiteiten waarvoor subsidie is verleend en het eindresultaat daarvan;  
-
-b.  een door een accountant goedgekeurde financiële verantwoording van de activiteiten waarvoor subsidie is verleend, waarin alle uitgaven en ontvangsten met betrekking tot het lectoraat inzichtelijk worden gemaakt.   
-
-### Artikel  4a:9  
-
-####Subsidiabele kosten
-
-De volgende kosten komen in aanmerking voor de subsidie: 
-
-a. de loonkosten van het bij de uitvoering van de in artikel 4a:3 bedoelde activiteiten betrokken personeel van de subsidieontvanger, waarbij de loonkosten van docenten uitsluitend in aanmerking komen tot ten hoogste het bedrag dat als normbedrag is opgenomen in de Handleiding Overheidstarieven van het Ministerie van Financiën, behorende bij salarisschaal 11, en de loonkosten van de lectoren uitsluitend in aanmerking komen tot ten hoogste het bedrag dat als normbedrag is opgenomen in de Handleiding Overheidstarieven van het Ministerie van Financiën, behorende bij ten hoogste salarisschaal 16;  
-
-b. de kosten, die aantoonbaar noodzakelijk zijn en daadwerkelijk door de subsidieontvanger zijn betaald voor het inhuren van ondersteuning, ondersteuningsinstellingen, bedrijven, maatschappelijke organisaties en onderzoeksinstellingen vanwege hun expertise of specifieke voorzieningen tot ten hoogste 10% van de subsidiabele kosten, bedoeld in onderdeel a;  
-
-c. materiële kosten die aantoonbaar noodzakelijk zijn en daadwerkelijk door de subsidieontvanger zijn betaald voor de uitvoering van de activiteiten tot ten hoogste 15% van de subsidiabele kosten, bedoeld in onderdeel a.   
-
-### Artikel  4a:10  
-
-####Hoogte subsidie
-
-De subsidie bedraagt ten hoogste 80% van de subsidiabele kosten. 
+Vervallen per 20-08-2014 
 
 ### Hoofdstuk  5  
 
@@ -4771,7 +4683,7 @@ d. kosten voor de ontwikkeling en operationalisering van processen, procédés, 
 e. algemene kosten verbonden aan de kosten, bedoeld in de onderdelen a tot en met d, zoals kosten voor de architecten en ingenieurs, honoraria van adviseurs tot een hoogte van 15% van het totale subsidiebedrag, haalbaarheidsstudies, controleverklaring van een accountant, verwerven van patenten en vergunningen.     
 3.  Voor de subsidie voor de uitvoering van activiteiten bedoeld in artikel 5:3, tweede lid, onderdeel a, komen niet in aanmerking kosten voor de verwerving van onroerende zaken, ten behoeve waarvan subsidie door een bestuursorgaan is verleend in de periode van tien jaar voorafgaand aan de ontvangstdatum van de aanvraag tot subsidieverlening.   
 4.  Geen subsidie wordt verstrekt voor kosten voor de uitvoering van de activiteiten, bedoeld in artikel 5:3, tweede lid, onderdeel b, met betrekking tot een leasecontract, zoals de marge van de leaseorganisatie, herfinancieringskosten, overheadkosten en verzekeringspremies.   
-5..  Indien subsidie wordt verstrekt voor een investering, wordt de beschikking tot subsidievaststelling onverminderd [artikel 4:49 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ingetrokken indien de investering gedurende vijf jaar te rekenen vanaf de datum van subsidievaststelling een belangrijke wijziging ondergaat die: 
+5..  Indien subsidie wordt verstrekt voor een investering, wordt de beschikking tot subsidievaststelling onverminderd artikel 4:49 van de Algemene wet bestuursrecht ingetrokken indien de investering gedurende vijf jaar te rekenen vanaf de datum van subsidievaststelling een belangrijke wijziging ondergaat die: 
 
 a. de aard van de investering of de bij of krachtens deze regeling opgelegde uitvoeringsvoorwaarden raakt;  
 
@@ -4848,7 +4760,7 @@ c. een bewijs van deelname aan de opleiding, training of voorlichtingsbijeenkoms
 
 ####Aanwijzing toezichthouders
 
-Als personen als bedoeld in [artikel 8 van de Kaderwet EZ-subsidies](../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md) worden aangewezen de ambtenaren van: 
+Als personen als bedoeld in artikel 8 van de Kaderwet EZ-subsidies worden aangewezen de ambtenaren van: 
 
 a. de Rijksdienst voor Ondernemend Nederland;   
 
@@ -4862,73 +4774,73 @@ c. de Auditdienst Rijk.
 
 De volgende regelingen en besluiten worden ingetrokken:
 
-a.[Beëindigingsregeling varkensbedrijven in de EHS](../../../../ministeriele-regeling/beëindigingsregeling/varkensbedrijven/in/de/ehs/BWBR0010149/README.md);
+a.Beëindigingsregeling varkensbedrijven in de EHS;
 
-b.[Besluit aanwijzing toezichthouders Kaderwet LNV-subsidies](../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/kaderwet/lnv-subsidies/BWBR0011970/README.md);
+b.Besluit aanwijzing toezichthouders Kaderwet LNV-subsidies;
 
-c.[Investeringsregeling biologische varkenshouderij](../../../../ministeriele-regeling/investeringsregeling/biologische/varkenshouderij/BWBR0013021/README.md);
+c.Investeringsregeling biologische varkenshouderij;
 
-d.[Investeringsregeling energiebesparing](../../../../ministeriele-regeling/investeringsregeling/energiebesparing/BWBR0020502/README.md);
+d.Investeringsregeling energiebesparing;
 
-e.[Investeringsregeling markt en concurrentiekracht](../../../../ministeriele-regeling/investeringsregeling/markt/en/concurrentiekracht/BWBR0008830/README.md);
+e.Investeringsregeling markt en concurrentiekracht;
 
-f.[Kaderregeling kennis en advies](../../../../ministeriele-regeling/kaderregeling/kennis/en/advies/BWBR0014105/README.md);
+f.Kaderregeling kennis en advies;
 
-g.[Kaderregeling subsidiëring natuurprojecten](../../../../ministeriele-regeling/kaderregeling/subsidiëring/natuurprojecten/BWBR0009851/README.md);
+g.Kaderregeling subsidiëring natuurprojecten;
 
-h.[Regeling beëindiging veehouderijtakken](../../../../ministeriele-regeling/regeling/beëindiging/veehouderijtakken/BWBR0011234/README.md);
+h.Regeling beëindiging veehouderijtakken;
 
-i.[Regeling delegatie Stichting Fonds MKZ-AI](../../../../ministeriele-regeling/regeling/delegatie/stichting/fonds/mkz-ai/BWBR0016485/README.md);
+i.Regeling delegatie Stichting Fonds MKZ-AI;
 
-j.[Regeling diverse subsidieplafonds en aanvraagperioden LNV](../../../../ministeriele-regeling/regeling/diverse/subsidieplafonds/en/aanvraagperioden/lnv/BWBR0016764/README.md);
+j.Regeling diverse subsidieplafonds en aanvraagperioden LNV;
 
-k.[Regeling draagvlak natuur](../../../../ministeriele-regeling/regeling/draagvlak/natuur/BWBR0012519/README.md);
+k.Regeling draagvlak natuur;
 
-l.[Regeling effectgerichte maatregelen in bossen en natuurterreinen](../../../../ministeriele-regeling/regeling/effectgerichte/maatregelen/in/bossen/en/natuurterreinen/BWBR0007715/README.md);
+l.Regeling effectgerichte maatregelen in bossen en natuurterreinen;
 
-m.[Regeling handelwijze bij vervreemding](../../../../ministeriele-regeling/regeling/handelwijze/bij/vervreemding/BWBR0012190/README.md);
+m.Regeling handelwijze bij vervreemding;
 
-n.[Regeling herstel historische buitenplaatsen](../../../../ministeriele-regeling/regeling/herstel/historische/buitenplaatsen/BWBR0014003/README.md);
+n.Regeling herstel historische buitenplaatsen;
 
-o.[Regeling inkomensvoorziening voor oudere gewezen zelfstandigen in de veehouderij](../../../../ministeriele-regeling/regeling/inkomensvoorziening/voor/oudere/gewezen/zelfstandigen/in/de/etc/BWBR0011391/README.md);
+o.Regeling inkomensvoorziening voor oudere gewezen zelfstandigen in de veehouderij;
 
-p.[Regeling kennisontwikkeling en regionale samenwerking culturele diversiteit](../../../../ministeriele-regeling/regeling/kennisontwikkeling/en/regionale/samenwerking/culturele/etc/BWBR0013945/README.md);
+p.Regeling kennisontwikkeling en regionale samenwerking culturele diversiteit;
 
-q.[Regeling stimulering biologische productiemethode](../../../../ministeriele-regeling/regeling/stimulering/biologische/productiemethode/BWBR0006677/README.md);
+q.Regeling stimulering biologische productiemethode;
 
-r.[Regeling Structuurverbetering Glastuinbouw 2002](../../../../ministeriele-regeling/regeling/structuurverbetering/glastuinbouw/2002/BWBR0013595/README.md);
+r.Regeling Structuurverbetering Glastuinbouw 2002;
 
-s.[Regeling subsidie nationale en grensoverschrijdende parken](../../../../ministeriele-regeling/regeling/subsidie/nationale/en/grensoverschrijdende/parken/BWBR0009250/README.md);
+s.Regeling subsidie nationale en grensoverschrijdende parken;
 
-t.[Regeling subsidie plattelandsontwikkelingsprogramma provincies](../../../../ministeriele-regeling/regeling/subsidie/plattelandsontwikkelingsprogramma/provincies/BWBR0013683/README.md);
+t.Regeling subsidie plattelandsontwikkelingsprogramma provincies;
 
-u.[Regeling versterking recreatie](../../../../ministeriele-regeling/regeling/versterking/recreatie/BWBR0009652/README.md);
+u.Regeling versterking recreatie;
 
-v.[Subsidieregeling demonstratie- en kennisoverdrachtprojecten duurzame landbouw](../../../../ministeriele-regeling/subsidieregeling/demonstratie-/en/kennisoverdrachtprojecten/duurzame/etc/BWBR0012670/README.md);
+v.Subsidieregeling demonstratie- en kennisoverdrachtprojecten duurzame landbouw;
 
-w.[Subsidieregeling jonge agrariërs](../../../../ministeriele-regeling/subsidieregeling/jonge/agrariërs/BWBR0018190/README.md);
+w.Subsidieregeling jonge agrariërs;
 
-x.[Subsidieregeling sanering verzamelcentra varkens](../../../../ministeriele-regeling/subsidieregeling/sanering/verzamelcentra/varkens/BWBR0009818/README.md);
+x.Subsidieregeling sanering verzamelcentra varkens;
 
-y.[Subsidieregeling zeldzame landbouwhuisdierrassen](../../../../ministeriele-regeling/subsidieregeling/zeldzame/landbouwhuisdierrassen/BWBR0009766/README.md);
+y.Subsidieregeling zeldzame landbouwhuisdierrassen;
 
-z.[Stimuleringsregeling innovatie markt en concurrentiekracht](../../../../ministeriele-regeling/stimuleringsregeling/innovatie/markt/en/concurrentiekracht/BWBR0008493/README.md);
+z.Stimuleringsregeling innovatie markt en concurrentiekracht;
 
-aa.[Stimuleringsregeling vernieuwing landelijk gebied](../../../../ministeriele-regeling/stimuleringsregeling/vernieuwing/landelijk/gebied/BWBR0008661/README.md);
+aa.Stimuleringsregeling vernieuwing landelijk gebied;
 
-ab.[Vaststelling aanvraagperiode 2005 Subsidieregeling nieuwe agrarische schadeverzekeringen](../../../../ministeriele-regeling/vaststelling/aanvraagperiode/2005/subsidieregeling/nieuwe/agrarische/etc/BWBR0018035/README.md);
+ab.Vaststelling aanvraagperiode 2005 Subsidieregeling nieuwe agrarische schadeverzekeringen;
 
-ac.[Verspreidingsregeling vernieuwing landelijk gebied](../../../../ministeriele-regeling/verspreidingsregeling/vernieuwing/landelijk/gebied/BWBR0012624/README.md).
+ac.Verspreidingsregeling vernieuwing landelijk gebied.
 
-ad.[Vergoedingsregeling voor uittreding van vissers uit de visserij 2002](../../../../ministeriele-regeling/vergoedingsregeling/voor/uittreding/van/vissers/uit/de/visserij/2002/BWBR0021774/README.md);
+ad.Vergoedingsregeling voor uittreding van vissers uit de visserij 2002;
 
-ae.[Vergoedingsregeling voor uittreding van vissers uit de visserij 2003](../../../../ministeriele-regeling/vergoedingsregeling/voor/uittreding/van/vissers/uit/de/visserij/2003/BWBR0016104/README.md);
+ae.Vergoedingsregeling voor uittreding van vissers uit de visserij 2003;
 
-af.[Subsidieregeling capaciteitsvermindering IJsselmeervisserij en innovatie aquacultuur](../../../../ministeriele-regeling/tijdelijke/regeling/capaciteitsvermindering/ijsselmeervisserij/2000/BWBR0011535/README.md);
+af.Subsidieregeling capaciteitsvermindering IJsselmeervisserij en innovatie aquacultuur;
 
-ag.[Regeling garantstelling visserij](../../../../ministeriele-regeling/regeling/garantstelling/visserij/BWBR0022476/README.md);
+ag.Regeling garantstelling visserij;
 
-ah.[Subsidieregeling duurzame ontwikkeling cacao- en chocoladesector](../../../../ministeriele-regeling/subsidieregeling/duurzame/ontwikkeling/cacao-/en/chocoladesector/BWBR0016140/README.md).
+ah.Subsidieregeling duurzame ontwikkeling cacao- en chocoladesector.
 
 ### Artikel  6:3  
 
@@ -4964,7 +4876,7 @@ b. met betrekking tot een subsidie die is of wordt verleend op een aanvraag tot 
 
 ####Grondslag
 
-Deze regeling berust mede op [artikel 3 van de Kaderwet EZ-subsidies](../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md). 
+Deze regeling berust mede op artikel 3 van de Kaderwet EZ-subsidies. 
 
 ### Artikel  6:4  
 
@@ -5007,7 +4919,7 @@ De subsidieontvanger verzoekt de accountant een controleverklaring op te stellen
 
 ####Definities
 
-*Een accountant:* Een openbaar accountant zoals bedoeld in [artikel 393, lid 1 Burgerlijk Wetboek, boek 2](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), aan wie de eindbegunstigde de opdracht heeft toegekend de aanvraag tot vaststelling (eindafrekening) ten behoeve van de subsidieaanvraag te controleren.  
+*Een accountant:* Een openbaar accountant zoals bedoeld in artikel 393, lid 1 Burgerlijk Wetboek, boek 2, aan wie de eindbegunstigde de opdracht heeft toegekend de aanvraag tot vaststelling (eindafrekening) ten behoeve van de subsidieaanvraag te controleren.  
 
 *Subsidieontvanger:* Een natuurlijke of rechtspersoon of diens gemachtigde aan wie de Minister, een subsidie heeft toegekend.  
 
@@ -5082,15 +4994,15 @@ De eindafrekening is opgesteld voor de Minister met als doel <naam instelling/pe
 
 Twee of vier ten aanzien van de milieuparameters gelijke stallen op respectievelijk twee of vier locaties, die voldoen aan de volgende voorwaarden: 
 
-1. De stallen beschikken niet over een emissiefactor, als bedoeld in [artikel 2 van de Regeling ammoniak en veehouderij](../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md).  
+1. De stallen beschikken niet over een emissiefactor, als bedoeld in artikel 2 van de Regeling ammoniak en veehouderij.  
 
 2. De stallen zijn ten minste twee maanden in gebruik op het moment van aanvang van de onderzoeksactiviteiten, bedoeld in onderdeel B van dit hoofdstuk.  
 
 3. De stallen voldoen naar verwachting aan de volgende eisen: 
 
-a. de uitstoot van ammoniak wordt verminderd met minimaal 25% ten opzichte van de maximale emissiewaarde bedoeld in het [Besluit ammoniakemissie huisvesting veehouderij](../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md) of ten opzichte van de emissiefactor voor overige huisvesting in de bijlage bij de [Regeling ammoniak en veehouderij](../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md);  
+a. de uitstoot van ammoniak wordt verminderd met minimaal 25% ten opzichte van de maximale emissiewaarde bedoeld in het Besluit ammoniakemissie huisvesting veehouderij of ten opzichte van de emissiefactor voor overige huisvesting in de bijlage bij de Regeling ammoniak en veehouderij;  
 
-b. de uitstoot van geur is lager dan of gelijk aan de uitstoot van geur, bedoeld in de [Regeling geurhinder en veehouderij](../../../../ministeriele-regeling/regeling/geurhinder/en/veehouderij/BWBR0020711/README.md);  
+b. de uitstoot van geur is lager dan of gelijk aan de uitstoot van geur, bedoeld in de Regeling geurhinder en veehouderij;  
 
 c. de uitstoot van fijn stof PM10 is lager dan of gelijk aan de uitstoot, bedoeld in het overzicht emissiefactoren fijn stof voor veehouderij;  
 
@@ -5751,7 +5663,7 @@ c. de bereikte opbrengststijging voor zover van toepassing.   De hiervoor bedoel
 
 ###A. Beschrijving van de investering, bedoeld in artikel 2:37, eerste lid .
 
-Gecombineerde luchtwassystemen als bedoeld in de [Regeling ammoniak en veehouderij](../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md). 
+Gecombineerde luchtwassystemen als bedoeld in de Regeling ammoniak en veehouderij. 
 ###B. De landbouwonderneming, bedoeld in artikel 2:37, eerste lid , *is een landbouwonderneming met een of meer stalruimten waarbinnen dieren worden gehouden.* 
 
 ###C. Beschrijving van de kosten, bedoeld in artikel 2:40, vierde lid .
@@ -5832,9 +5744,9 @@ De integraal duurzame stal of het integraal duurzame houderijsysteem is uiterlij
 
 Investeringen in technieken ter vermindering van de uitstoot van fijn stof, die: 
 
-a. op grond van [artikel 66, aanhef en onder i, van de Regeling beoordeling luchtkwaliteit 2007](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md), zijn aangemerkt in eindnoot 2 van de gepubliceerde lijst van emissiefactoren fijn stof voor veehouderij;  
+a. op grond van artikel 66, aanhef en onder i, van de Regeling beoordeling luchtkwaliteit 2007, zijn aangemerkt in eindnoot 2 van de gepubliceerde lijst van emissiefactoren fijn stof voor veehouderij;  
 
-b. leiden tot een vermindering van de uitstoot van fijn stof per inrichting, bedoeld in [artikel 1:1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), met ten minste 30 procent ten opzichte van de emissie die maximaal is toegestaan op grond van de [Regeling beoordeling luchtkwaliteit 2007](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md) en het aantal dierplaatsen dat maximaal is toegestaan op grond van de omgevingsvergunning bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).  
+b. leiden tot een vermindering van de uitstoot van fijn stof per inrichting, bedoeld in artikel 1:1, eerste lid, van de Wet milieubeheer, met ten minste 30 procent ten opzichte van de emissie die maximaal is toegestaan op grond van de Regeling beoordeling luchtkwaliteit 2007 en het aantal dierplaatsen dat maximaal is toegestaan op grond van de omgevingsvergunning bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht.  
 ###B. De landbouwondernemingen, bedoeld in artikel 2:37, eerste lid , zijn kleine of middelgrote landbouwondernemingen.
 
 Geen subsidie wordt verstrekt indien er ten aanzien van de onderneming een uitstaand bevel tot terugvordering is ingevolge een eerdere beschikking van de Europese Commissie waarin steun onrechtmatig en onverenigbaar met de gemeenschappelijke markt is verklaard.
@@ -5875,7 +5787,7 @@ c. in afwijking van onderdeel a, komen de volgende kosten niet voor subsidie in 
 
 a. een op naam van de aanvrager gestelde offerte van een leverancier of bouwer van de techniek, bedoeld in punt A. De offerte is zodanig gespecificeerd dat de verschillende onderdelen expliciet herkenbaar zijn;  
 
-b. een kopie van de door het bevoegde gezag ten behoeve van de investeringen verstrekte omgevingsvergunning, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of bewijsstukken waaruit blijkt dat deze vergunning is aangevraagd, of een een kopie van de melding, bedoeld in [afdeling 1.2 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+b. een kopie van de door het bevoegde gezag ten behoeve van de investeringen verstrekte omgevingsvergunning, bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht of bewijsstukken waaruit blijkt dat deze vergunning is aangevraagd, of een een kopie van de melding, bedoeld in afdeling 1.2 van het Activiteitenbesluit milieubeheer;  
 
 c. voor zover de vergunning, bewijsstukken of melding, bedoeld in onderdeel b, geen omschrijving bevat respectievelijk bevatten van de situatie zoals die van toepassing was voorafgaand aan de investeringen, een kopie van de vergunning, melding of bewijsstukken, bedoeld in onderdeel b, die betrekking hebben op de situatie zoals die van toepassing was voorafgaand aan de investeringen.    
 
@@ -5967,45 +5879,45 @@ f. een met GPS-systeem uitgevoerde kunstmeststrooier.
 2. Geen subsidie wordt verstrekt voor een landbouwtrekker of een zelfrijdende land- of tuinbouwmachine.   
 ### Categorie 3: mestopslag voor dierlijke meststoffen
 
-1. Een mestbassin, niet zijnde een mestkelder, als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md).  
+1. Een mestbassin, niet zijnde een mestkelder, als bedoeld in artikel 1.1 van het Activiteitenbesluit milieubeheer.  
 
-2. Subsidie wordt uitsluitend verstrekt indien de opslagcapaciteit, bedoeld in [artikel 28 van het Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt vergroot naar minimaal 12 maanden en maximaal 14 maanden.  
+2. Subsidie wordt uitsluitend verstrekt indien de opslagcapaciteit, bedoeld in artikel 28 van het Uitvoeringsbesluit Meststoffenwet, wordt vergroot naar minimaal 12 maanden en maximaal 14 maanden.  
 
 3. Geen subsidie wordt verstrekt voor: 
 
-a. de opslag van de hoeveelheid dierlijke meststoffen die in de periode van augustus tot en met februari op het bedrijf wordt geproduceerd, bedoeld in [artikel 28 van het Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md);  
+a. de opslag van de hoeveelheid dierlijke meststoffen die in de periode van augustus tot en met februari op het bedrijf wordt geproduceerd, bedoeld in artikel 28 van het Uitvoeringsbesluit Meststoffenwet;  
 
 b. de afdekking.     
 ### Categorie 4: energie-efficiëntie
 
 1. De hierna opgesomde apparatuur, installaties of machines: 
 
-a. een warmtepomp als bedoeld in [nummers 211103, 211104 en 221103 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+a. een warmtepomp als bedoeld in nummers 211103, 211104 en 221103 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
-b. een warmtepompboiler als bedoeld in [nummer 211102 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+b. een warmtepompboiler als bedoeld in nummer 211102 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
 c. een klimaatcomputer voor bewaarruimten van agrarische producten;  
 
-d. een debietregeling ventilatoren voor bewaarruimten van agrarische producten als bedoeld in [nummer 210301 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+d. een debietregeling ventilatoren voor bewaarruimten van agrarische producten als bedoeld in nummer 210301 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
 e. energiezuinige klimaatbeheersing door dakisolatie van stallen (Rc-waarde minimaal 2,5 voor gehele dak inclusief geïsoleerde lichtdoorlatende dakplaten);  
 
 f. automatisch aangestuurde natuurlijke ventilatie met klimaatcomputer voor stallen (ACNV);  
 
-g. een LED-verlichtingssysteem als bedoeld onder [nummer 210506 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+g. een LED-verlichtingssysteem als bedoeld onder nummer 210506 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
-h. een warmteterugwinningssysteem op koel- of persluchtinstallaties als bedoeld onder [nummer 220813 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+h. een warmteterugwinningssysteem op koel- of persluchtinstallaties als bedoeld onder nummer 220813 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
 i. een vacuümpomp voorzien van een frequentie gestuurde besturing voor een melkinstallatie;  
 
-j. een organisch rankineproces als bedoeld onder [nummer 221102 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md).    
+j. een organisch rankineproces als bedoeld onder nummer 221102 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001.    
 
 2. Subsidie wordt uitsluitend verstrekt indien de energie uitsluitend wordt gebruikt door de landbouwonderneming die de subsidie heeft aangevraagd ten behoeve van landbouwdoeleinden van die onderneming.   
 ### Categorie 5: hernieuwbare energie
 
 1. De hierna opgesomde apparatuur, installaties of machines: 
 
-a. een ketel of kachel gestookt op biomassa als bedoeld in [nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+a. een ketel of kachel gestookt op biomassa als bedoeld in nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
 b. een zonneboiler;  
 
@@ -6035,7 +5947,7 @@ e. de aansluiting op een warmtenetwerk of -cluster;
 
 f. de aansluiting op een biogas- of kooldioxide-netwerk of -cluster;  
 
-g. een ketel of kachel gestookt op biomassa als bedoeld in [nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md).    
+g. een ketel of kachel gestookt op biomassa als bedoeld in nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001.    
 
 2. Geen subsidie wordt verstrekt voor: 
 
@@ -6184,11 +6096,11 @@ c.de verzekerbare fruitgewassen op de landbouwonderneming worden uiterlijk vanaf
 
 4.De aanvrager verleent de Minister toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Minister op grond van:
 
-a.[artikel 4, tweede lid](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en [artikel 7, punt a, van de Regeling Landbouwtelling en gecombineerde opgave 2005](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en
+a.artikel 4, tweede lid, en artikel 7, punt a, van de Regeling Landbouwtelling en gecombineerde opgave 2005, en
 
-b.[artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003](../../../../ministeriele-regeling/subsidieregeling/nieuwe/agrarische/schadeverzekeringen/2003/BWBR0015740/README.md).
+b.artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003.
 
-5.Overeenkomstig [artikel 4:43, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geschiedt de subsidievaststelling zonder voorafgaande beschikking tot subsidieverlening.
+5.Overeenkomstig artikel 4:43, eerste lid, van de Algemene wet bestuursrecht, geschiedt de subsidievaststelling zonder voorafgaande beschikking tot subsidieverlening.
 ###B. Omvang tegemoetkoming
 
 1.De ingevolge punt A, onderdeel 1, in aanmerking te nemen vorstschade wordt vastgesteld volgens de formule:A = (B×C<sub>j</sub>) – (D<sub>k</sub>×E<sub>k</sub>)waarbij:A = de voor het betreffende fruitgewas berekende schadebedrag;B = de totale oppervlakte in hectare die in de schadeperiode door de landbouwonderneming was beteeld met één van de in tabel 1 en 2 genoemde fruitgewassen;C<sub>j</sub> = het in tabel 1 voor het betreffende fruitgewas vastgestelde normbedrag voor de gemiddelde opbrengst in euro per hectare, onderscheiden naar leeftijd en teeltmethode;D<sub>k</sub> = de getaxeerde productie per fruitgewas per landbouwonderneming in kilogrammen, onderscheiden naar kwaliteitsklasse en teeltmethode;E<sub>k</sub> = het in tabel 2 voor het betreffende fruitgewas vastgestelde normbedrag voor de opbrengst in eurocent per kilogram, onderscheiden naar kwaliteitsklasse en teeltmethode.
@@ -6199,7 +6111,7 @@ b.[artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische s
 
 4.De steunintensiteit bedraagt 100% van de overeenkomstig het onderdeel 3 in aanmerking te nemen vorstschade per fruitgewas met dien verstande dat de steunintensiteit evenredig wordt verlaagd over de voor tegemoetkoming in aanmerking te nemen schade indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per fruitgewas het subsidieplafond voor deze tegemoetkoming overstijgt.
 
-5.Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27, eerste lid, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt het in aanmerking te nemen schadebedrag, berekend op grond van het onderdeel 4, met 6/106e deel verminderd. Tabel 1. Normbedragen als bedoeld in punt B, onderdeel 1, variabele C<sub>j</sub>.
+5.Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in artikel 27, eerste lid, van de Wet op de omzetbelasting 1968, wordt het in aanmerking te nemen schadebedrag, berekend op grond van het onderdeel 4, met 6/106e deel verminderd. Tabel 1. Normbedragen als bedoeld in punt B, onderdeel 1, variabele C<sub>j</sub>.
 
 | Fruitgewas  | leeftijd  | Normbedrag in euro per hectare (€/ha)  |
 |:---|:---|:---|
@@ -6316,7 +6228,7 @@ b. van de voor deze regeling vereiste gegevens wordt een juiste en volledige opg
 
 c. alle boomkwekerijgewassen op de landbouwonderneming zijn uiterlijk vanaf 15 november 2008 voor een aaneengesloten periode van ten minste vijf jaren verzekerd tegen sneeuwdrukschade.    
 
-4. De aanvrager verleent de Minister toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Minister op grond van [artikel 4, tweede lid](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en [artikel 7, onderdeel a, van de Regeling Landbouwtelling en gecombineerde opgave 2005](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md).  
+4. De aanvrager verleent de Minister toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Minister op grond van artikel 4, tweede lid, en artikel 7, onderdeel a, van de Regeling Landbouwtelling en gecombineerde opgave 2005.  
 
 5. In zoverre in afwijking van artikel 1:3, eerste lid, geschiedt de subsidievaststelling zonder voorafgaande beschikking tot subsidieverlening.  
 
@@ -6332,7 +6244,7 @@ c. alle boomkwekerijgewassen op de landbouwonderneming zijn uiterlijk vanaf 15 
 
 4. De steunintensiteit bedraagt 100% van de overeenkomstig punt 3 in aanmerking te nemen sneeuwdrukschade per boomkwekerijgewas met dien verstande dat de steunintensiteit evenredig wordt verlaagd over de voor tegemoetkoming in aanmerking te nemen schade indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per boomkwekerijgewas het subsidieplafond voor deze tegemoetkoming overstijgt.  
 
-5. Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27, eerste lid, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt het in aanmerking te nemen schadebedrag, berekend op grond van punt 4, met 6/106e deel verminderd.  
+5. Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in artikel 27, eerste lid, van de Wet op de omzetbelasting 1968, wordt het in aanmerking te nemen schadebedrag, berekend op grond van punt 4, met 6/106e deel verminderd.  
 
 6. Het maximumbedrag van de overeenkomstig dit onderdeel van de bijlage voor steun in aanmerking te nemen schade wordt verminderd met kosten die door andere factoren dan sneeuwdrukschade in de schadetermijn zijn veroorzaakt. 
 ###Tabel 1
@@ -6389,7 +6301,7 @@ In deze bijlage wordt verstaan onder:
 
 a. verzekering: een door de landbouwonderneming in het jaar 2007 afgesloten verzekering voor schade aan gewassen als gevolg van zware regenval.  
 
-b. verzekeringspremie: de som van de voor- en naheffing van de verzekering, inclusief de door de landbouwonderneming ontvangen garantiesubsidie ingevolge [artikel 2, onderdeel a, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003](../../../../ministeriele-regeling/subsidieregeling/nieuwe/agrarische/schadeverzekeringen/2003/BWBR0015740/README.md).  
+b. verzekeringspremie: de som van de voor- en naheffing van de verzekering, inclusief de door de landbouwonderneming ontvangen garantiesubsidie ingevolge artikel 2, onderdeel a, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003.  
 
 ### § 2 
 
@@ -6397,9 +6309,9 @@ b. verzekeringspremie: de som van de voor- en naheffing van de verzekering, incl
 
 a.De tegemoetkoming, bedoeld in artikel 2:69, kan worden verstrekt aan landbouwondernemingen die een verzekering hebben afgesloten.
 
-b.De aanvrager verleent de Minister toestemming om de gegevens, bedoeld in [artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003](../../../../ministeriele-regeling/subsidieregeling/nieuwe/agrarische/schadeverzekeringen/2003/BWBR0015740/README.md) te gebruiken ten behoeve van de aanvraag.
+b.De aanvrager verleent de Minister toestemming om de gegevens, bedoeld in artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003 te gebruiken ten behoeve van de aanvraag.
 
-c.[Artikel 4:43, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.
+c.Artikel 4:43, eerste lid, van de Algemene wet bestuursrecht is van toepassing.
 
 ### § 3 
 
@@ -6407,7 +6319,7 @@ c.[Artikel 4:43, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/
 
 a.De tegemoetkoming bedraagt 50% van de verzekeringspremie.
 
-b.De tegemoetkoming, bedoeld in onderdeel a, wordt verminderd met de in 2007 ontvangen garantiesubsidie op grond van de [Subsidieregeling nieuwe agrarische schadeverzekeringen 2003](../../../../ministeriele-regeling/subsidieregeling/nieuwe/agrarische/schadeverzekeringen/2003/BWBR0015740/README.md).
+b.De tegemoetkoming, bedoeld in onderdeel a, wordt verminderd met de in 2007 ontvangen garantiesubsidie op grond van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003.
 
 c.De tegemoetkoming, bedoeld in onderdeel a, bedraagt maximaal € 7.500 per landbouwonderneming, verminderd met de door de landbouwonderneming ontvangen de-minimissteun in de jaren 2006, 2007 en 2008.
 
@@ -6818,4 +6730,40 @@ ii) Vermijding en behandeling van ongewenste bijvangsten leidt tot onevenredige 
 7.  **Voor de soorten niet onderhevig aan de aanlandplicht zoals genoemd in paragraaf 1 de vangsten van soorten beneden de minimum instandhoudings referentie maat zal niet aan boord blijven, maar direct teruggegooid worden in zee.  
 
 8. Lidstaten zullen zorg dragen voor een gedetailleerde en accurate registratie van visreizen en adequate capaciteit en middelen met als doel de aanlandplicht van alle vangsten te controleren en handhaven, met waarnemers, CCTV en andere middelen. Daarbij zullen lidstaten principes als efficiëntie en proportionaliteit respecteren.   
+
+###Bijlage 
+
+####bij artikel 2.1.1 
+
+####udv-ambities
+
+1. Fossiele energie: De Nederlandse veehouderij gebruikt geen energie uit eindige bronnen, zoals fossiele brandstoffen, zowel op het primaire bedrijf als in de ketenschakels ervoor en erna.  
+
+2. Klimaat: De Nederlandse veehouderij heeft naar rato bijgedragen aan het beperken van de globale temperatuurstijging tot maximaal 2˚C.  
+
+3. Soortenrijkdom globaal: De Nederlandse veehouderij draagt bij aan het behoud en uiteindelijk herstel van soorten wereldwijd.  
+
+4. Soortenrijkdom nationaal: Gewenste soortenrijkdom in natuurgebieden wordt niet beperkt door de Nederlandse veehouderij. Ze herstelt de soortenrijkdom op eigen grond.  
+
+5. Mineralen: De Nederlandse veehouderij gebruikt alleen mineralen uit niet-gemijnde bronnen, zowel op het primaire bedrijf als in de ketenschakels ervoor. Daardoor zijn er geen eindige voorraden mineralen meer nodig voor dierlijke productie.  
+
+6. Bodemkwaliteit: De grond die voor en door de Nederlandse veehouderij wordt gebruikt blijft geschikt voor toekomstige landbouwkundige en andere toepassingen.  
+
+7. Watervoorraad: De Nederlandse veehouderij draagt niet bij aan de uitputting van strategische watervoorraden.  
+
+8. Waterkwaliteit: De Nederlandse veehouderij houdt het grond- en oppervlaktewater op, onder en rond haar bedrijven zuiver, zodat het geschikt blijft als basis voor drinkwater, en als vitaal ecosysteem.  
+
+9. Dierenwelzijn: Dieren in de Nederlandse veehouderij kunnen hun hele leven lang volledig voorzien in hun ethologische behoeften en die zonder pijn of beperkingen uitvoeren. Routinematige ingrepen aan het dier vinden niet meer plaats.  
+
+10. Diergezondheid: Dieren in de Nederlandse veehouderij zijn gezond, en in staat dat te blijven zonder structurele medicatie.  
+
+11. Volksgezondheid: Burgers worden niet ziek vanwege de Nederlandse veehouderij. Niet via het voedsel en niet via andere routes.  
+
+12. Lokale verbinding: Nederlandse veehouderijbedrijven zijn een vanzelfsprekend en geaccepteerd onderdeel van hun lokale omgeving. De omgeving ervaart geen noemenswaardige overlast.  
+
+13. Rentabiliteit: De Nederlandse veehouderij is rendabel  
+
+14. Arbeid: Arbeid in de Nederlandse veehouderij is aantrekkelijk, goed vol te houden tot de pensioengerechtigde leeftijd, en wordt goed beloond.  
+
+15. Kennis, leervermogen en innovatie: De Nederlandse veehouderij is door kennis & innovatie in staat om zich continu aan te passen aan veranderende omstandigheden.   
 

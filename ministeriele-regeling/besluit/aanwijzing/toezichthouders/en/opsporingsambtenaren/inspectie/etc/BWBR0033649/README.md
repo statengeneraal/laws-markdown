@@ -5,24 +5,24 @@
 De Staatssecretaris van Infrastructuur en Milieu,  
 Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
 
-Gelet op [artikel 5.1, eerste lid, onderdeel b, van de Wet wegvervoer goederen](../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [artikel 3, eerste lid, van het Besluit van 7 april 1995 houdende aanwijzingen van ambtenaren belast met opsporing als bedoeld in artikel 159, onderdeel c, van de Wegenverkeerswet 1994](../../../../../../../../../AMvB/besluit/aanwijzing/ambtenaren/belast/met/opsporing/ex/artikel/159/etc/BWBR0007325/README.md), [artikel 7, onderdeel b, van de Wet capaciteitsbeheersing binnenvaartvloot](../../../../../../../../../wet/wet/capaciteitsbeheersing/binnenvaartvloot/BWBR0012950/README.md) en [artikel 87, eerste lid, onderdeel a, en vierde lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 5.1, eerste lid, onderdeel b, van de Wet wegvervoer goederen, artikel 3, eerste lid, van het Besluit van 7 april 1995 houdende aanwijzingen van ambtenaren belast met opsporing als bedoeld in artikel 159, onderdeel c, van de Wegenverkeerswet 1994, artikel 7, onderdeel b, van de Wet capaciteitsbeheersing binnenvaartvloot en artikel 87, eerste lid, onderdeel a, en vierde lid, van de Wet personenvervoer 2000;
 Besluit:    
 
 ### Artikel  1  
 
 De ambtenaren van de Inspectie Leefomgeving en Transport belast met toezicht en opsporing worden aangewezen als de ambtenaren van het Ministerie van Infrastructuur en Milieu bedoeld in: 
 
-a. [artikel 5.1, eerste lid, onderdeel b, van de Wet wegvervoer goederen](../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);  
+a. artikel 5.1, eerste lid, onderdeel b, van de Wet wegvervoer goederen;  
 
-b. [artikel 3, eerste lid, van het Besluit van 7 april 1995 houdende aanwijzing van ambtenaren belast met opsporing als bedoeld in artikel 159, onderdeel c, van de Wegenverkeerswet 1994](../../../../../../../../../AMvB/besluit/aanwijzing/ambtenaren/belast/met/opsporing/ex/artikel/159/etc/BWBR0007325/README.md) (Stb. 247);  
+b. artikel 3, eerste lid, van het Besluit van 7 april 1995 houdende aanwijzing van ambtenaren belast met opsporing als bedoeld in artikel 159, onderdeel c, van de Wegenverkeerswet 1994 (Stb. 247);  
 
-c. [artikel 7, onderdeel b, van de Wet capaciteitsbeheersing binnenvaartvloot](../../../../../../../../../wet/wet/capaciteitsbeheersing/binnenvaartvloot/BWBR0012950/README.md);  
+c. artikel 7, onderdeel b, van de Wet capaciteitsbeheersing binnenvaartvloot;  
 
-d. [artikel 87, eerste lid, onderdeel a, en vierde lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), met uitzondering van het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [hoofdstuk II van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) voor zover dit betrekking heeft op concessies door de Minister van Infrastructuur en Milieu verleend voor openbaar vervoer per trein.   
+d. artikel 87, eerste lid, onderdeel a, vierde en zesde lid, van de Wet personenvervoer 2000, met uitzondering van het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 12 tot en met 14 en hoofdstuk II van de Wet personenvervoer 2000 voor zover dit betrekking heeft op concessies door de Minister van Infrastructuur en Milieu verleend voor openbaar vervoer per trein.   
 
 ### Artikel  2  
 
-Het [Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Leefomgeving en Transport op het gebied van de vervoerswetgeving](../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/en/opsporingsambtenaren/inspectie/etc/BWBR0031529/README.md), vastgesteld bij besluit van 23 april 2012 (Stcrt. 2012, nr. 8845), wordt ingetrokken. 
+Het Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Leefomgeving en Transport op het gebied van de vervoerswetgeving, vastgesteld bij besluit van 23 april 2012 (Stcrt. 2012, nr. 8845), wordt ingetrokken. 
 
 ### Artikel  3  
 
