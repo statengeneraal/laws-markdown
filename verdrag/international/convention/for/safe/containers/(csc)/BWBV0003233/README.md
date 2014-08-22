@@ -207,6 +207,10 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 
 ####REGULATIONS COMMON TO ALL SYSTEMS OF APPROVAL
 
+###General Provisions
+
+The following definitions shall be applied for the purpose of this annex: The letter *g* means the standard acceleration of gravity; *g* equals 9.8 m/s<sup>2</sup>. The word *load*, when used to describe a physical quantity to which units may be ascribed, signifies mass. *Maximum operating gross mass* or *Rating* or *R* means the maximum allowable sum of the mass of the container and its cargo. The letter R is expressed in units of mass. Where the annexes are based on gravitational forces derived from this value, that force, which is an inertial force, is indicated as *Rg*. *Maximum permissible payload or P *means the difference between maximum operating gross mass or rating and tare. The letter *P* is expressed in units of mass. Where the annexes are based on the gravitational forces derived from this value, that force, which is an inertial force, is indicated as *Pg*. *Tare* means the mass of the empty container, including permanently affixed ancillary equipment.
+
 ### Regulation  1  
 
 ####Safety Approval Plate
@@ -214,7 +218,7 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 1. 
 (a)A Safety Approval Plate conforming to the specifications set out in the Appendix to this Annex shall be permanently affixed to every approved container at a readily visible place, adjacent to any other approval plate issued for official purposes, where it would not be easily damaged.
 
-(b)On each container, all maximum gross weight markings shall be consistent with the maximum gross weight information on the Safety Approval Plate.
+(b)On each container, all maximum operating gross mass markings shall be consistent with the maximum operating gross mass information on the Safety Approval Plate.
 
 (c)The owner of the container shall remove the Safety Approval Plate on the container if:
 
@@ -225,11 +229,12 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 - if the approval has been withdrawn by the Administration.     
 2.  
 
-(a)The Plate shall contain the following information in at least the English or French language: “CSC SAFETY APPROVAL” Country of approval and approval reference Date (month and year) of manufacture Manufacturer's identification number of the container or, in the case of existing containers for which that number is unknown, the number allotted by the Administration Maximum operating gross weight (kilogrammes and lbs) Allowable stacking weight for 1.8 g (kilogrammes and lbs) Transverse racking test load value (kilogrammes and lbs)
+(a)The plate shall contain the following information in at least the English or French language: “CSC SAFETY APPROVAL” Country of approval and approval reference Date (month and year) of manufacture Manufacturer’s identification number of the container or, in the case of existing containers for which that number is unknown,the number allotted by the AdministrationMaximum operating gross mass (kg and lbs)Allowable stacking load for 1.8 g (kg and lbs)Transverse racking test force (newtons)
 
 (b) A blank space should be reserved on the Plate for insertion of end-wall and/or side-wall strength values (factors) in accordance with paragraph 3 of this Regulation and Annex II, tests 6 and 7. A blank space should also be reserved on the Plate for the first and subsequent maintenance examination dates (month and year) when used.     
-3.  Where the Administration considers that a new container satisfies the requirements of the present Convention in respect of safety and if, for such container, the end-wall and/or side-wall strenght values (factor) are designed to be greater or less than those stipulated in Annex II, such values shall be indicated on the Safety Approval Plate. Where the stacking or racking values are less than 192,000 kg or 150 kN, respectively, the container shall be considered as having limited stacking or racking capacity and shall be conspicuously marked, as required under the relevant standards<sup>*Refer to standard ISO 6346, Freight containers – Coding, identification and marking.</sup>.   
+3.  Where the Administration considers that a new container satisfies the requirements of the present Convention in respect of safety and if, for such container, the end-wall and/or side-wall strenght values (factor) are designed to be greater or less than those stipulated in Annex II, such values shall be indicated on the Safety Approval Plate. Where the stacking or racking values are less than 192,000 kg or 150 kN, respectively, the container shall be considered as having limited stacking or racking capacity and shall be conspicuously marked, as required under the relevant standards<sup>*Refer to standard ISO 6346, Freight containers – Coding, identification and marking.</sup>, at or before their next scheduled examination or before any other date approved by the Administration, provided this is not later than 1 July 2015.   
 4.  The presence of the Safety Approval Plate does not remove the necessity of displaying such labels or other information as may be required by other regulations which may be in force.  
+5. A container, the construction of which was completed prior to 1 July 2014, may retain the Safety Approval Plate as permitted by the Convention prior to that date as long as no structural modifications occur to that container.
 
 ### Regulation  2  
 
@@ -343,11 +348,11 @@ Approval of individual containers may be granted where the Administration, after
 
 ### CHAPTER  IV  
 
-####- REGULATIONS FOR APPROVAL OF EXISTING CONTAINERS AND NEW CONTAINERS NOT APROVED AT THE TIME OF MANUFACTURE
+####REGULATIONS FOR APPROVAL OF EXISTING CONTAINERS AND NEW CONTAINERS NOT APPROVED AT TIME OF MANUFACTURE
 
 ### Regulation  9  
 
-####Approval of Existing Containers
+####Approval of existing containers
 
 1.  If, within 5 years from the date of entry into force of the present Convention, the owner of an existing container presents the following information to an Administration: 
 
@@ -355,7 +360,7 @@ Approval of individual containers may be granted where the Administration, after
 
 (b) manufacturer's identification number of the container if available;  
 
-(c) maximum operating gross weight capability;  
+(c) maximum operating gross mass capability;  
 
 (d) 
 
@@ -365,14 +370,14 @@ Approval of individual containers may be granted where the Administration, after
 
 (iii) evidence that the container was constructed to standards which, in the opinion of the Administration, were equivalent to the technical conditions set out in Annex II, with the exception of those technical conditions relating to the end-wall and side-wall strength tests;    
 
-(e) allowable stacking weight for 1.8 g (kilogrammes and lbs); and  
+(e) allowable stacking load for 1.8 g (kg and lbs); and  
 
 (f) such other data as required for the Safety Approval Plate,   then the Administration, after investigation, shall notify the owner in writing whether approval is granted; and if so, this notification shall entitle the owner to affix the Safety Approval Plate after an examination of the container concerned has been carried out in accordance with Regulation 2.The examination of the container concerned and the affixing of the Safety Approval Plate shall be accomplished not later than 1 January 1985.  
 2.  Existing containers which do not qualify for approval under paragraph 1 of this Regulation may be presented for approval under the provisions of Chapter II or Chapter III of this Annex. For such containers the requirements of Annex II relating to end-wall and/or sidewall strength tests shall not apply. The Administration may, if it is satisfied that the containers in question have been in service, waive such of the requirements in respect of presentation of drawings and testing, other than the lifting and floor-strength tests, as it may deem appropriate.  
 
 ###Regulation 10 
 
-####Approval of New Containers Not Approved at Time of Manufacture
+####Approval of new containers not approved at time of manufacture
 
 If, on or before 6 September 1982, the owner of a new container which was not approved at the time of manufacture presents the following information to an Administration:
 
@@ -380,11 +385,11 @@ If, on or before 6 September 1982, the owner of a new container which was not ap
 
 (b)manufacturer's identification number of the container if available;
 
-(c)maximum operating gross weight capability;
+(c)maximum operating gross mass capability;
 
 (d)evidence to the satisfaction of the Administration that the container was manufactured to a design type which had been tested and found to comply with the technical conditions set out in Annex II;
 
-(e)allowable stacking weight for 1.8 g (kilogrammes and lbs); and
+(e)allowable stacking load for 1.8 g (kg and lbs); and
 
 (f)such other data as required for the Safety Approval Plate;the Administration, after investigation, may approve the container, notwithstanding the provisions of Chapter II. Where approval is granted, such approval shall be notified to the owner in writing, and this notification shall entitle the owner to affix the Safety Approval Plate after an examination of the container concerned has been carried out in accordance with Regulation 2. The examination of the container concerned and the affixing of the Safety Approval Plate shall be accomplished not later than 1 January 1985.
 
@@ -400,7 +405,21 @@ The owner of an approved container that has been modified in a manner resulting 
 
 ### Appendix  
 
-The Safety Approval Plate, conforming to the model reproduced below, shall take the form of a permanent, non-corrosive, fire-proof rectangular plate measuring not less than 200 mm by 100 mm. The words “CSC Safety Approval” of a minimum letter height of 8 mm and all other words and numbers of a minimum height of 5 mm shall be stamped into, embossed on or indicated on the surface of the Plate in any other permanent and legible way.  ![10000051545](http://wetten.overheid.nl/Illustration/10000051545)
+The Safety Approval Plate, conforming to the model reproduced below, shall take the form of a permanent, non-corrosive, fire-proof rectangular plate measuring not less than 200 mm by 100 mm. The words “CSC Safety Approval” of a minimum letter height of 8 mm and all other words and numbers of a minimum height of 5 mm shall be stamped into, embossed on or indicated on the surface of the Plate in any other permanent and legible way. 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| --- |CSC SAFETY APPROVAL  | --- |
+|1 ........... |[GB - L/749/2/7/75] | --- |
+|2 ........... |Date manufactured .......... | --- |
+|3 ........... |Identification No. .......... | --- |
+|4 ........... |MAXIMUM OPERATING GROSS MASS .... kg .... lbs |↑ |
+|5 ........... |ALLOWABLE STACKING LOAD FOR 1.8 g ...... kg ......lbs |>= 100 mm |
+|6 ........... |TRANSVERSE RACKING TEST FORCE ...... newtons |↓ |
+|7 ........... | --- | --- |
+|8 ........... | --- | --- |
+|9 ........... | --- | --- |
+| --- | ← >= 200 mm → | --- |
 
 1. County of Approval and Approval Reference as given in the example on line 1. (The country of Approval should be indicated by means of the distinguishing sign used to indicate country of registration of motor vehicles in international road traffic).  
 
@@ -408,29 +427,32 @@ The Safety Approval Plate, conforming to the model reproduced below, shall take 
 
 3. Manufacturer's identification number of the container or, in the case of existing containers for which that number is unknown, the number allotted by the Administration.  
 
-4. Maximum Operating Gross Weight (kilogrammes and lbs.).  
+4.Maximum operating gross mass (kg and lbs).
 
-5. Allowance Stacking Weight for 1.8 g (kilogrammes and lbs.).  
+5.Allowable stacking load for 1.8 g (kg and lbs).
 
-6. Transverse Racking Test Load Value (kilogrammes and lbs.).  
+6.Transverse racking test force (newtons).
 
-7. End Wall Strength to be indicated on plate only if end walls are designed to withstand a load of less or greater than 0.4 times the maximum permissible payload, i.e. 0.4 P.  
+7.End-wall strength to be indicated on plate only if end-walls are designed to withstand a force of less or greater than 0.4 times the gravitational force by maximum permissible payload, i.e. 0.4Pg.
 
-8. Side Wall Strength to be indicated on plate only if the side walls are designed to withstand a load of less or greater than 0.6 times the maximum permissible payload, i.e. 0.6 P.  
+8.Side-wall strength to be indicated on plate only if the side-walls are designed to withstand a force of less or greater than 0.6 times the gravitational force by maximum permissible payload, i.e. 0.6Pg. 
 
 9. First maintenance examination date (month and year) for new containers and subsequent maintenance examination dates (month and year) if plate used for this purpose.  
 
-10. One door off stacking strength to be indicated on plate only if the container is approved for one door off operation. The marking shall show: ALLOWABLE STACKING MASS ONE DOOR OFF FOR 1.8 g (… kg … lbs). This marking shall be displayed immediately near the racking test value (see line 5).  
+10.One door off stacking strength to be indicated on plate only if the container is approved for one door off operation. The marking shall show: ALLOWABLE STACKING LOAD ONE DOOR OFF FOR 1.8 g (... kg ... lbs). This marking shall be displayed immediately near the stacking test value (see line 5).
 
-11. One door off racking strength to be indicated on plate only if the container is approved for one door off operation. The marking shall show: RACKING TEST LOAD VALUE ONE DOOR OFF (… kg … lbs). This marking shall be displayed immediately near the stacking test value (see line 6).    
+11.11 One door off racking strength to be indicated on plate only if the container is approved for one door off operation. The marking shall show: TRANSVERSE RACKING TEST FORCE (... newtons). This marking shall be displayed immediately near the racking test value (see line 6).   
 
 ### Annex  II  
 
 ####Structural safety requirements and tests
 
+###General Provisions
+
+The following definitions shall be applied for the purpose of this annex: The letter *g* means the standard acceleration of gravity; *g* equals 9.8 m/s<sup>2</sup>. The word *load*, when used to describe a physical quantity to which units may be ascribed, signifies mass. *Maximum operating gross mass* or *Rating* or *R* means the maximum allowable sum of the mass of the container and its cargo. The letter R is expressed in units of mass. Where the annexes are based on gravitational forces derived from this value, that force, which is an inertial force, is indicated as *Rg*. *Maximum permissible payload or P* means the difference between maximum operating gross mass or rating and tare. The letter *P* is expressed in units of mass. Where the annexes are based on the gravitational forces derived from this value, that force, which is an inertial force, is indicated as *Pg*. *Tare* means the mass of the empty container, including permanently affixed ancillary equipment.
 ###*Introduction* 
 
-In setting the requirements of this Annex, it is implicit that in all phases of the operation of containers the forces as a result of motion, location, stacking and weight of the loaded container and external forces will not exceed the design strength of the container. In particular, the following assumptions have been made: 
+In setting the requirements of this annex, it is implicit that, in all phases of the operation of containers, the forces as a result of motion, location, stacking and gravitational effect of the loaded container and external forces will not exceed the design strength of the container. In particular, the following assumptions have been made: 
 
 (a) the container will so be restrained that it is not subjected to forces in excess of those for which it has been designed;  
 
@@ -446,80 +468,80 @@ Where appropriate to the design of the container, the following test loads and t
 
 | --- | --- |
 |:---|:---|
-| TEST LOADINGS AND APPLIED FORCES  | TEST PROCEDURES  |
+| TEST LOAD AND APPLIED FORCES  | TEST PROCEDURES  |
 | 1. LIFTING  |
 | The container, having the prescribed internal loading, shall be lifted in such a way that no significant acceleration forces are applied. After lifting, the container shall be suspended or supported for five minutes and then lowered to the ground.  | --- |
 |  *(A) LIFTING FROM CORNER FITTINGS*   |
-| *Internal loading:*  | (i) *Lifting from top corner fittings:*   |
-| A uniformly distributed load such that the combined weight of container and test load is equal to 2R. In the case of a tank-container, when the test weight of the internal load plus the tare weight is less than 2R, a supplementary load distributed over the length of the tank is to be applied to the container.  | Containers greater than 3,000 mm (10 ft.) (nominal) in length shall have lifting forces applied vertically at all four top corner fittings.  |
+| *Internal load:*  | (i) *Lifting from top corner fittings:*   |
+| A uniformly distributed load such that the sum of the mass of container and test load is equal to 2R. In the case of a tank container, when the test load of the internal load plus the tare is less than 2R, a supplementary load, distributed over the length of the tank, is to be added to the container.  | Containers greater than 3,000 mm (10 ft.) (nominal) in length shall have lifting forces applied vertically at all four top corner fittings.  |
 | --- | Containers of 3,000 mm (10 ft.) (nominal) in length nor less shall have lifting forces applied at all four top corner fittings, in such a way that the angle between each lifting device and the vertical shall be 30°.  |
 | *Externally applied forces:*  | (ii) *Lifting from bottom corner fittings:*   |
-| Such as to lift the combined weight of 2R in the manner prescribed (under the heading TEST PROCEDURES).  | Containers shall have lifting forces applied in such a manner that the lifting devices bear on the bottom corner fittings only. The lifting forces shall be applied at angles to the horizontal of:  30° for containers of length 12,000 mm (40 ft.) (nominal) or greater;  37° for containers of length 9,000 mm (30 ft.) (nominal) and up to but not including 12,000 mm (40 ft.) (nominal);  45° for containers of length 6,000 mm (20 ft.) (nominal) and up to but not including 9,000 mm (30 ft.) (nominal);  60° for containers of less than 6,000 mm (20 ft.) (nominal). |
+| Such as to lift the sum of a mass of 2R in the manner prescribed (under the heading TEST PROCEDURES).  | Containers shall have lifting forces applied in such a manner that the lifting devices bear on the bottom corner fittings only. The lifting forces shall be applied at angles to the horizontal of:  30° for containers of length 12,000 mm (40 ft.) (nominal) or greater;  37° for containers of length 9,000 mm (30 ft.) (nominal) and up to but not including 12,000 mm (40 ft.) (nominal);  45° for containers of length 6,000 mm (20 ft.) (nominal) and up to but not including 9,000 mm (30 ft.) (nominal);  60° for containers of less than 6,000 mm (20 ft.) (nominal). |
 |  *(B) LIFTING BY ANY OTHER ADDITIONAL METHODS*   |
-| *Internal loading:*  | (i) *Lifting from fork lift pockets:*   |
-| A uniformly distributed load such that the combined weight of container and test load is equal to 1.25 R. In the case of a tank-container, when the test weight of the internal load plus the tare weight is less than 1.25R, a supplementary load distributed over the length of the tank is to be applied to the container.  | The container shall be placed on bars which are in the same horizontal plane, one bar centred within each fork lift pocket which is used for lifting the loaded container. The bars shall be of the same width as the forks intended to be used in the handling, and shall project into the fork pocket 75 per cent of the length of the fork pocket.  |
+| *Internal load:*  | (i) *Lifting from fork-lift pockets:*   |
+| A uniformly distributed load such that the sum of the mass of container and test load is equal to 1.25R.  | The container shall be placed on bars which are in the same horizontal plane, one bar being centred within each fork-lift pocket which is used for lifting the loaded container. The bars shall be of the same width as the forks intended to be used in the handling, and shall project into the fork pocket 75% of the length of the fork pocket.  |
 | *Externally applied forces:*  |
-| Such as to lift the combined weight of 1.25 R in the manner prescribed (under the heading TEST PROCEDURES).  |
-| *Internal loading:*  | (ii) *Lifting from grappler arm positions:*   |
-| A uniformly distributed load such that the combined weight of containers and test load is equal to 1.25 R.  | The container shall be placed on pads in the same horizontal plane, one under each grappler arm position. These pads shall be of the same sizes as the lifting area of the grappler arms intended to be used.  |
+| Such as to lift the sum of a mass of 1.25R in the manner prescribed (under the heading TEST PROCEDURES).  |
+| *Internal load:*  | (ii) *Lifting from grappler-arm positions:*   |
+| A uniformly distributed load such that the sum of the mass of container and test load is equal to 1.25R. In the case of a tank container, when the test load of the internal load plus the tare is less than 1.25R, a supplementary load, distributed over the length of the tank, is to be added to the container.  | The container shall be placed on pads in the same horizontal plane, one under each grappler-arm position. These pads shall be of the same sizes as the lifting area of the grappler arms intended to be used.  |
 | *Externally applied forces:*  |
-| Such as to lift the combined weight of 1.25 R in the manner prescribed (under the heading TEST PROCEDURES).  |
-| --- | (iii) *Other Methods*   |
-| --- | Where containers are designed to be lifted in the loaded condition by any method not mentioned in (A) or (B) (i) and (ii) they shall also be tested with the INTERNAL LOADING AND EXTERNALLY APPLIED FORCES representative of the acceleration conditions appropriate to that method.  |
+| Such as to lift the sum of a mass of 1.25R in the manner prescribed (under the heading TEST PROCEDURES).  |
+| --- | iii) *Other methods:*   |
+| --- | Where containers are designed to be lifted in the loaded condition by any method not mentioned in (A) or (B)(i) and (ii) they shall also be tested with the internal load and externally applied forces representative of the acceleration conditions appropriate to that method.  |
 | 2. STACKING  |
-| 1. For conditions of international transport where the maximum vertical acceleration forces vary significantly from 1.8 g and when the container is reliably and effectively limited to such conditions of transport, the stacking load may be varied by the appropriate ratio of acceleration forces.  |
-| 2. On successful completion of this test the container may be rated for the allowable superimposed static stacking weight which should be indicated on the Safety Approval Plate against the heading “Allowable stacking weight for 1.8 g (kilogrammes and lbs)”.  |
-| *Internal loading:*  | --- |
-|  A uniformly distributed load such that the combined weight of container and test load is equal to 1.8 R. Tank containers may be tested in the tare condition. | The container, having the prescribed INTERNAL LOADING, shall be placed on four level pads which are in turn supported on a rigid horizotal surface, one under each bottom corner fitting or equivalent corner structure. The pads shall be centralized under the fittings and shall be of approximately the same plan dimensions as the fittings. |
+| 1. For conditions of international transport where the maximum vertical acceleration varies significantly from 1.8 g and when the container is reliably and effectively limited to such conditions of transport, the stacking load may be varied by the appropriate ratio of acceleration.  |
+| 2. On successful completion of this test, the container may be rated for the allowable superimposed static stacking load, which should be indicated on the Safety Approval Plate against the heading ALLOWABLE STACKING LOAD FOR 1.8 g (kg and lbs).  |
+| *Internal load:*  | --- |
+| A uniformly distributed load such that the sum of the mass of container and test load is equal to 1.8R. Tank containers may be tested in the tare condition. | The container, having the prescribed INTERNAL LOADING, shall be placed on four level pads which are in turn supported on a rigid horizotal surface, one under each bottom corner fitting or equivalent corner structure. The pads shall be centralized under the fittings and shall be of approximately the same plan dimensions as the fittings. |
 | *Externally applied forces:*  | --- |
-| Such as to subject each of the four top corner fittings to a vertical downward force equal to 1 x 1.8 x the allowable superimposed static stacking weight.  | Each EXTERNALLY APPLIED FORCE shall be applied to each of the corner fittings through a corresponding test corner fitting or through a pad of the same plan dimensions. The test corner fitting or pad shall be offset with respect to the top corner fitting of the container by 25 mm (1 in.) laterally and 38 mm (1½ in.) longitudinally.  |
+| Such as to subject each of the four top corner fittings to a vertical downward force equal to 0.25 x 1.8 x the gravitational force of the allowable superimposed static stacking load.  | Each EXTERNALLY APPLIED FORCE shall be applied to each of the corner fittings through a corresponding test corner fitting or through a pad of the same plan dimensions. The test corner fitting or pad shall be offset with respect to the top corner fitting of the container by 25 mm (1 in.) laterally and 38 mm (1½ in.) longitudinally.  |
 | 3. CONCENTRATED LOADS  |
-| --- | (a) ON ROOF |
-| *Internal loading:*  | --- |
+| (a) On roof |
+| *Internal load:*  | --- |
 | None.  | --- |
 | *Externally applied forces:*  | --- |
-| A concentrated load of 300 kg (660 lb) uniformly distributed over an area of 600 mm x 300 mm (24 in. x 12 in.).  | The EXTERNALLY APPLIED FORCES shall be applied vertically downwards to the outer surface of the weakest area of the roof of the container.  |
+| A concentrated gravitational force of 300 kg (660 lbs) uniformly distributed over an area of 600 mm x 300 mm (24 in x 12 in).  | The externally applied forces shall be applied vertically downwards to the outer surface of the weakest area of the roof of the container.  |
 | 3. CONCENTRATED LOADS  |
-| --- |(b) ON FLOOR |
-| *Internal loading:*  | --- |
-| Two concentrated loads each of 2,730 kg (6,000 lb.) and each applied to the container floor through a contact area of 142 cm<sup>2</sup>(22 sq.in.)  | The test should be made with the container resting on four level supports under its four bottom corners in such a manner that the base structure of the container is free to deflect.  |
-| --- | A testing device loaded to a weight of 5,460 kilogrammes (12,000 lbs.) that is 2,730 kg (6,000 lbs.) on each of two surfaces having, when loaded, a total contact area of 284 cm<sup>2</sup> (44 sq.in.) that is 142 cm<sup>2</sup> (22 sq.in.) on each surface, the surface width being 180 mm (7 in.) spaced 760 mm (30 in.) apart, centre to centre, should be manoeuvred over the entire floor area of the container.  |
-| *Externally applied forces:*  | --- |
-| None.  | --- |
-| 4. TRANSVERCE RACKING  |
-| *Internal loading:*  | --- |
+|(b) On floor |
+| *Internal load:*  | The test should be made with the container resting on four level supports under its four bottom corners in such a manner that the base structure of the container is free to deflect.  |
+| Two concentrated loads each of 2,730 kg (6,000 lbs) and each added to the container floor within a contact area of 142 cm<sup>2</sup> (22 sq in).  |
+| --- | --- |
+| *Externally applied forces:*  |A testing device loaded to a mass of 5,460 kg (12,000 lbs), that is, 2,730 kg (6,000 lbs) on each of two surfaces, having, when loaded, a total contact area of 284 cm<sup>2</sup> (44 sq in), that is, 142 cm<sup>2</sup> (22 sq in) on each surface, the surface width being 180 mm (7 in) spaced 760 mm (30 in) apart, centre to centre, should be manoeuvred over the entire floor area of the container. |
+| None.  |
+| 4. TRANSVERSE RACKING  |
+| *Internal load:*  | --- |
 | None.  | The container in tare condition shall be placed on four level supports one under each bottom corner and shall be restrained against lateral and vertical movement by means of anchor devices so arranged that the lateral restraint is provided only at the bottom corners diagonally opposite to those at which the forces are applied.  |
 | *Externally applied forces:*  | --- |
 | Such as to rack the end structures of the container sideways. The forces shall be equal to those for which the container was designed.  | The EXTERNALLY APPLIED FORCES shall be applied either separately or simultaneously to each of the top corner fittings on one side of the container in lines parallel both to the base and to the planes of the ends of the container. The forces shall be applied first towards and then away from the top corner fittings. In the case of containers in which each end is symmetrical about its own vertical centreline, one side only need be tested, but both sides of containers with asymmetric ends shall be tested.  |
 | 5. LONGITUDINAL RESTRAINT (STATIC TEST)  |
 | When designing and constructing containers, it must be borne in mind that containers, when carried by inland modes of transport may sustain accelerations of 2 g applied horizontally in a longitudinal direction.  | --- |
-| *Internal loading:*  | --- |
-| A uniformly distributed load, such that the combined weight of a container and test load is equal to the maximum operating gross weight or rating, R. In the case of a tank container, when the weight of the internal load plus the tare is less than the maximum gross weight or rating, R, a supplementary load is to be applied to the container. | The container having the prescribed INTERNAL LOADING shall be restrained longitudinally by securing the two bottom corner fittings or equivalent corner structures at one end to suitable anchor points. |
+| *Internal load:*  | --- |
+| A uniformly distributed load, such that the sum of the mass of a container and test load is equal to the maximum operating gross mass or rating R. In the case of a tank container, when the mass of the internal load plus the tare is less than the maximum gross mass or rating, R, a supplementary load is to be added to the container. | The container having the prescribed INTERNAL LOADING shall be restrained longitudinally by securing the two bottom corner fittings or equivalent corner structures at one end to suitable anchor points. |
 | *Externally applied forces:*  | --- |
-| Such as to subject each side of the container to longitudinal compressive and tensile forces of magnitude R, that is, a combined force of 2R on the base of the container as a whole  | The EXTERNALLY APPLIED FORCES shall be applied first towards and then away from the anchor points. Each side of the container shall be tested.  |
+| Such as to subject each side of the container to longitudinal compressive and tensile forces of magnitude Rg, that is, a combined force of 2Rg on the base of the container as a whole.  | The EXTERNALLY APPLIED FORCES shall be applied first towards and then away from the anchor points. Each side of the container shall be tested.  |
 | 6. END-WALLS  |
-| The end-walls should be capable of withstanding a load of not less than 0.4 times the maximum permissible payload. If, however, the end-walls are designed to withstand a load of less or greater than 0.4 times the maximum permissible payload such a strength factor shall be indicated on the Safety Approval Plate in accordance with Annex I, Regulation 1.  |
-| *Internal loading:*  | --- |
-| Such as to subject the inside of an end-wall to a uniformly distributed load of 0.4P or such other load for which the container may be designed.  | The prescribed INTERNAL LOADING shall be applied as follows: Both ends of a container shall be tested except where the ends are identical only one end need be tested. The end-walls of containers which do not have open sides or side doors may be tested separately or simultaneously.  |
+| The end-walls should be capable of withstanding a force of not less than 0.4 times the force equal to gravitational force by maximum permissible payload. If, however, the end-walls are designed to withstand a force of less or greater than 0.4 times the gravitational force by maximum permissible payload, such a strength factor shall be indicated on the Safety Approval Plate in accordance with annex I, regulation 1.  |
+| *Internal load:*  | --- |
+| Such as to subject the inside of an end-wall to a uniformly distributed force of 0.4Pg or such other force for which the container may be designed.  | The prescribed INTERNAL LOADING shall be applied as follows: Both ends of a container shall be tested except where the ends are identical only one end need be tested. The end-walls of containers which do not have open sides or side doors may be tested separately or simultaneously.  |
 | --- | The end-walls of containers which do have open sides or side doors should be tested separately. When the ends are tested separately the reactions to the forces applied to the end-wall shall be confined to the base structure of the container. |
 | *Externally applied forces:*  | --- |
 | None.  | --- |
 | 7. SIDE-WALLS  |
-| The side-walls should be capable of withstanding a load of not less than 0.6 times the maximum permissible payload. If, however, the side-walls are designed to withstand a load of less or greater than 0.6 times the maximum permissible payload, such a strength factor shall be indicated on the Safety Approval Plate in accordance with Annex I, Regulation 1.  | --- |
-| *Internal loading:*  | --- |
-| Such as to subject the inside of a side-wall to a uniformly distributed load of 0.6P or such other load for which the container may be designed.  | The prescribed INTERNAL LOADING shall be applied as follows: Both sides of a container shall be tested except where the sides are identical only one side need be tested. Side-walls shall be tested separately and the reactions to the internal loading shall be confined to the corner fittings or equivalent corner structures. Open topped containers shall be tested in the condition in which they are designed to be operated, for example, with removable top members in position.  |
+| The side-walls should be capable of withstanding a force of not less than 0.6 times the force equal to the gravitational force by maximum permissible payload. If, however, the side-walls are designed to withstand a force of less or greater than 0.6 times the gravitational force by maximum permissible payload, such a strength factor shall be indicated on the Safety Approval Plate in accordance with annex I, regulation 1.  | --- |
+| *Internal load:*  | --- |
+| Such as to subject the inside of a side-wall to a uniformly distributed force of 0.6Pg or such other force for which the container may be designed.  | The prescribed INTERNAL LOADING shall be applied as follows: Both sides of a container shall be tested except where the sides are identical only one side need be tested. Side-walls shall be tested separately and the reactions to the internal loading shall be confined to the corner fittings or equivalent corner structures. Open topped containers shall be tested in the condition in which they are designed to be operated, for example, with removable top members in position.  |
 | *Externally applied forces:*  | --- |
 | None.  | --- |
 |8. ONE DOOR OFF OPERATION |
-| 1  Containers with one door removed have a significant reduction in their ability to withstand racking loads and, potentially, a reduction in stacking strength. The removal of a door on a container in operation is considered a modification of the container. Containers must be approved for one door off operation. Such approval should be based on test results as set forth below.     2  On successful completion of the stacking test the container may be rated for the allowable superimposed stacking mass, which should be indicated on the Safety Approval Plate immediately below line 5: ALLOWABLE STACKING MASS FOR 1.8 g (kg and lbs) ONE DOOR OFF.     3  On successful completion of the racking test the racking test load should be indicated on the Safety Approval Plate immediately below line 6: RACKING TEST LOAD VALUE (kg and lbs) ONE DOOR OFF.    | --- |
+| 8.1.  Containers with one door removed have a significant reduction in their ability to withstand racking forces and, potentially, a reduction in stacking strength. The removal of a door on a container in operation is considered a modification of the container. Containers must be approved for one door off operation. Such approval shall be based on test results as set forth below.     8.2.  On successful completion of the stacking test the container may be rated for the allowable superimposed stacking load, which shall be indicated on the Safety Approval Plate immediately below line 5: ALLOWABLE STACKING LOAD FOR 1.8 g (kg and lbs) ONE DOOR OFF.     8.3.  On successful completion of the racking test the transverse racking test force shall be indicated on the Safety Approval Plate immediately below line 6: TRANSVERSE RACKING TEST FORCE ONE DOOR OFF (newtons).    | --- |
 | * *Stacking**  | --- |
-| *Internal loading:*  | --- |
-|A uniformly distributed load such that the combined mass of the container and test load is equal to 1.8R. |The test procedures should be as set forth under *2 STACKING*  |
+| *Internal load:*  | --- |
+|A uniformly distributed load such that the sum of the mass of container and test load is equal to 1.8R. |The test procedures shall be as set forth under *2 STACKING* |
 | *Externally applied forces:*  | --- |
-|Such as to subject each of the four corner fittings to a vertical downward force equal to 0.25 x 1.8 x the allowable superimposed static stacking mass. | --- |
+|Such as to subject each of the four top corner fittings to a vertical downward force equal to 0.25 x 1.8 x the gravitational force of the allowable superimposed static stacking load. | --- |
 | * *Transverse racking**   | --- |
-| *Internal loading:*  | --- |
-|None. |The test procedures should be as set forth under *4 TRANSVERSE RACKING*  |
+| *Internal load:*  | --- |
+|None. |The test procedures shall be as set forth under *4 TRANSVERSE RACKING* |
 | *Externally applied forces:*  | --- |
 |Such as to rack the end structures of the container sideways. The forces shall be equal to those for which the container was designed. | --- |
 
@@ -547,26 +569,28 @@ Where appropriate to the design of the container, the following test loads and t
 
 3 Training of authorized officers The Contracting Party exercising control should ensure that authorized officers tasked to carry out these assessments and control measures receive the necessary training. This training should involve both theoretical and practical instruction. 
 
-4Structurally sensitive components and definition of serious structural deficiencies in each
+4Structurally sensitive components
 
-4.1 The following components are structurally sensitive and should be examined for serious deficiencies:  
+4.1 The following components are structurally sensitive and should be examined for deficiencies in accordance with the following table:  
 
-|  *Structurally sensitive component*   |  *Serious structural deficiency*   |
-|:---|:---|
-| Top rail  | Local deformation to the rail in excess of 60 mm or separation or cracks or tears in the rail material in excess of 45 mm in length.  Note: On some designs of tank containers the top rail is not a structurally significant component.  |
-| Bottom rail  | Local deformation perpendicular to the rail in excess of 100 mm or separation or cracks or tears in the rail’s material in excess of 75 mm in length.  |
-| Header  | Local deformation to the header in excess of 80 mm or cracks or tears in excess of 80 mm in length.  |
-| Sill  | Local deformation to the sill in excess of 100 mm or cracks or tears in excess of 100 mm in length.  |
-| Corner posts  | Local deformation to the post exceeding 50 mm or tears or cracks in excess of 50 mm in length.  |
-| Corner and intermediate fittings (Castings)  | Missing corner fittings, any through cracks or tears in the fitting, any deformation of the fitting that precludes full engagement of securing or lifting fittings, any deformation of the fitting beyond 5 mm from its original plane, any aperture width greater than 66 mm, any aperture length greater than 127 mm, any reduction in thickness of the plate containing the top aperture that makes it less than 23 mm thick or any weld separation of adjoining components in excess of 50 mm in length.  |
-| Under structure  | Two or more adjacent cross members missing or detached from the bottom rails. Twenty per cent (20%) or more of the total number of cross members are missing or detached.  Note: If onward transportation is permitted, it is essential that detached cross members are precluded from falling free.  |
-| Locking rods  | One or more inner locking rod is non-functional.  Note: Some containers are designed and approved (and so recorded on the CSC Plate) to operate with one door open or removed.  |
-
-4.2 The effect of two or more incidents of damage in the same structurally sensitive component, even though each is less than in the above table, could be equal to, or greater than, the effect of the single damage noted in the table. In such circumstances, the authorized officer may stop the container and seek further guidance from the Contracting Party.  
-
-4.3 For tank containers, the attachment of the shell to the container frame should also be examined for any readily visible serious structural deficiency comparable to that specified in the table. If any such serious structural deficiency is found in any of these attachments, the control officer should stop the container.  
-
-4.4 For platform containers with folding end frames, the end frame locking mechanism and the hinge pins about which the end frame rotates are structurally sensitive and should also be inspected for damage. 
+| *(i)*  | *(ii)*  | *(iii)*  | *(iv)*  | *(v)*  | *(vi)*  | *(vii)*  | *Structurally sensitive component*  | *Serious deficiency requiring immediate out-of-service determination*  | *Deficiency requiring advice to owner and restrictions for transport*  | *Restrictions to be applied in case of deficiencies according to column (iii)*  | *Empty container*  | *Loaded container*  | *Sea transport*  | *Other modes*  | *Sea transport*  | *Other modes*  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| *Top rail*  | Local deformation to the rail in excess of 60 mm or separation or cracks or tears in the rail material in excess of 45 mm in length. (see Note 1)  | Local deformation to the rail in excess of 40 mm or separation or cracks or tears in the rail material in excess of 10 mm in length.  (see Note 1)  | No restriction  | No restriction  | Bottom lifting not allowed, Top lifting allowed only by use of spreaders without chains  | Bottom lifting not allowed, Top lifting allowed only by use of spreaders without chains  |
+| Note 1: On some designs of tank containers the top rail is not a structurally significant component.  |
+| *Bottom rail*  | Local deformation perpendicular to the rail in excess of 100 mm or separation cracks or tears in the rail’s material in excess of 75 mm in length  (see Note 2)  | Local deformation perpendicular to the rail in excess of 60 mm or separation cracks or tears in the rail's material: in excess of 25 mm in length in the upper flange; or b) of web in any length (see Note 2)  | No restriction  | No restriction  | Lifting at (any) corner fitting not allowed  | Lifting at (any) corner fitting not allowed  |
+| Note 2: The rails material does not include the rail's bottom flange.  |
+| *Header*  | Local deformation to the header in excess of 80 mm or cracks or tears in excess of 80 mm in length  | Local deformation to the header in excess of 50 mm or cracks or tears in excess of 10 mm in length  | Container shall not be overstowed  | No restriction  | Container shall not be overstowed  | No restriction  |
+| *Sill*  | Local deformation to the sill in excess of 100 mm or cracks or tears in excess of 100 mm in length.  | Local deformation to the sill in excess of 60 mm or cracks or tears in excess of 10 mm in length  | Container shall not be overstowed  | No restrictions  | Container shall not be overstowed  | No restrictions  |
+| *Corner posts*  | Local deformation to the post in excess of 50 mm or cracks or tears in excess of 50 mm in length  | Local deformation to the post in excess of 30 mm or cracks or tears of any length  | Container shall not be overstowed  | No restrictions  | Container shall not be overstowed  | No restrictions  |
+| *Corner and intermediate fittings*  | Missing corner fittings, any through cracks or tears in the fitting, any deformation of the fitting that precludes full engagement of the securing or lifting fittings (see Note 3) or any weld separation of adjoining components in excess of 50 mm in length  | Weld separation of adjoining components of 50 mm or less  | Container shall not be lifted on board a ship if the damaged fittings prevent safe lifting or securing.  | Container shall be lifted and handled with special care  | Container shall not be loaded on board a ship.  | Container shall be lifted and handled with special care  |
+| Any reduction in the thickness of the plate containing the top aperture that makes it less than 25 mm thick  | Container shall be lifted and handled with special care Container shall not be overstowed when twistlocks have to be used  | Container shall be lifted and handled with special care  | Container shall not be lifted by the top corner fittings.  | Container shall be lifted and handled with special care.  |
+| Any reduction in the thickness of the plate containing the top aperture that makes it less than 26 mm thick  | Container shall not be overstowed when fully automatic twistlocks are to be used  | Container shall be lifted and handled with special care  | Container shall not be used with fully automatic twistlocks.  | Container shall be lifted and handled with special care.  |
+| Note 3  The full engagement of securing or lifting fittings is precluded if there is any deformation of the fitting beyond 5 mm from its original plane, any aperture width greater than 66 mm, any aperture length greater than 127 mm or any reduction in thickness of the plate containing the top aperture that makes it less than 23 mm thick.  |
+| *Understructure*  | Two or more  adjacent cross members missing or detached from the bottom rails. 20% or more of the total number of cross members missing or detached.  (see Note 4)  | One or two cross members missing or detached (see Note 4)  | No restrictions  | No restrictions  | No restrictions  | No restrictions  |
+| More than two cross members missing or detached  (see Notes 4 and 5)  | No restrictions  | No restrictions  | Maximum payload shall be restricted to 0.5 x P  | Maximum payload shall be restricted to 0.5 x P  |
+| Note 4: If onward transport is permitted, it is essential that detached cross members are precluded from falling free.  Note 5: Careful cargo discharge is required as forklift capability of the understructure might be limited.  |
+| *Locking rods*  | One or more inner locking rods are non-functional  (see Note 6)  | One or more outer locking rods are non-functional  (see Note 6)  | Container shall not be overstowed  | No restriction  | Container shall not be overstowed. Cargo shall be secured against the container frame and the door shall not be used to absorb acceleration forces – otherwise maximum payload shall be restricted to 0.5 P  | Cargo shall be secured against the container frame and the door shall not be used to absorb acceleration forces – otherwise maximum payload shall be restricted to 0.5 P  |
+| --- | Note 6: Some containers are designed and approved (and so recorded on the CSC Plate) to operate with one door open or removed.  |
 
 ####Internationale overeenkomst voor veilige containers (CSC)
 
@@ -773,6 +797,10 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, hiertoe door hun ondersche
 
 ####BEPALINGEN DIE ALLE GOEDKEURINGSSYSTEMEN GEMEEN HEBBEN
 
+###Algemene bepalingen
+
+Voor de toepassing van deze Overeenkomst worden de volgende definities gehanteerd: De letter *g* staat voor standaardversnelling van de zwaartekracht; *g* is gelijk aan 9,8 m/s<sup>2</sup>. Het begrip *belasting*, wanneer gebruikt om een fysieke kwantiteit te beschrijven waaraan eenheden kunnen worden toegeschreven, staat voor massa. *Maximale brutomassa tijdens vervoer* of *toegestaan gewicht* of *R* is de maximaal toegestane massa van de container tezamen met zijn lading. De letter R wordt uitgedrukt in eenheden van massa. Waar de bijlagen gebaseerd zijn op vormen van zwaartekracht die van deze waarde zijn afgeleid, wordt die kracht, die een inertiekracht is, aangeduid als *Rg*. *Maximaal toegestaan ladinggewicht of P* is het verschil tussen de maximale brutomassa tijdens het vervoer of toegestaan gewicht en tarra. De letter *P* wordt uitgedrukt in eenheden van massa. Waar de bijlagen gebaseerd zijn op de vormen van zwaartekracht die van deze waarde zijn afgeleid, wordt die kracht, die een inertiekracht is, aangeduid als *Pg*. *Tarra* is de massa van de lege container, met inbegrip van de daaraan vast aangebrachte voorzieningen.
+
 ### Bepaling  1  
 
 ####Veiligheidskeurplaat
@@ -781,7 +809,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, hiertoe door hun ondersche
 
 (a)Op elke goedgekeurde container dient op een gemakkelijk zichtbare plaats blijvend een veiligheidskeurplaat overeenkomstig de omschrijving in het aanhangsel bij deze Bijlage te zijn aangebracht, nabij eventuele andere goedkeuringsmerken voor officiële doeleinden en daar waar deze niet gemakkelijk kan worden beschadigd.
 
-(b)Op elke container dienen alle aanduidingen van het maximale bruto gewicht overeen te stemmen met de gegevens inzake het maximale bruto gewicht op de veiligheidskeurplaat.
+(b)Op elke container dienen alle aanduidingen van de maximale brutomassa tijdens vervoer overeen te stemmen met de gegevens inzake de maximale brutomassa tijdens vervoer op de veiligheidskeurplaat.
 
 (c)De eigenaar van de container dient de veiligheidskeurplaat op de container te verwijderen indien:
 
@@ -792,11 +820,12 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, hiertoe door hun ondersche
 - de goedkeuring door de Administratie is ingetrokken.     
 2.  
 
-a)De plaat bevat de volgende gegevens in ten minste de Engelse of de Franse taal: „CSC VEILIGHEIDSKEUR” Land waar de goedkeuring is verkregen en goedkeuringsnummer Datum (maand en jaar) van fabricage Door de fabrikant van de container toegewezen identificatienummer of, in het geval van bestaande containers waarvan dat nummer onbekend is, het door de Administratie toegewezen nummer Maximaal brutogewicht (in kg en lb) Toelaatbaar stapelgewicht bij 1,8 g (in kg en lb) Belastingswaarde bij de torsiebeproeving.
+a)De plaat bevat de volgende gegevens in ten minste de Engelse of de Franse taal: „CSC VEILIGHEIDSKEUR” Land waar de goedkeuring is verkregen en goedkeuringsnummer Datum (maand en jaar) van fabricage Door de fabrikant van de container toegewezen identificatienummer of, in het geval van bestaande containers waarvan dat nummer onbekend is, het door de Administratie toegewezen nummer, Maximale brutomassa tijdens vervoer (in kg en lb) Toelaatbare stapelbelasting bij 1,8 g (in kg en lb) Kracht bij de torsiebeproeving (in newton)
 
 b) Op de plaat dient een ruimte te worden opengelaten voor het noteren van de waarden (factoren) die sterkte van kop- en/of zijwanden aangeven overeenkomstig paragraaf 3 van deze Bepaling en Bijlage II, beproevingen 6 en 7. Op de plaat dient ook een ruimte te worden opengelaten voor de data (maand en jaar) van de eerste en de daarop volgende controles van het onderhoud wanneer de containers in gebruik zijn.     
-3.  Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen of verminderde bestendigheid bij torsiebelasting te hebben en wordt de container op een in het oog springende plaats gemarkeerd, zoals vereist uit hoofde van de relevante normen<sup>*Zie norm ISO 6346, Vrachtcontainers – Codering, identificatie en markering.</sup>.   
+3.  Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen of verminderde bestendigheid bij torsiebelasting te hebben en wordt de container op een in het oog springende plaats gemarkeerd, zoals vereist uit hoofde van de relevante normen<sup>*Zie norm ISO 6346, Vrachtcontainers – Codering, identificatie en markering.</sup> op het moment van of voor de volgende geplande controle of voor een andere datum, goedgekeurd door de Administratie, mits dat uiterlijk 1 juli 2015 is.   
 4.  De aanwezigheid van de veiligheidskeurplaat betekent geen ontheffing van de verplichting de containers te voorzien van labels of andere gegevens die door eventueel van kracht zijnde andere voorschriften worden vereist.  
+5. Een container waarvan de constructie voltooid was vóór 1 juli 2014, kan de veiligheidskeurplaat die vóór die datum op grond van de Overeenkomst was toegestaan, behouden, zo lang er geen structurele wijzigingen aan die container plaatsvinden.
 
 ### Bepaling  2  
 
@@ -910,7 +939,7 @@ Er kan goedkeuring van afzonderlijke containers worden verleend wanneer na contr
 
 ### HOOFDSTUK  IV  
 
-####– BEPALINGEN VOOR DE GOEDKEURING VAN BESTAANDE CONTAINERS EN VAN NIEUW VERVAARDIGDE MAAR NOG NIET ONDERZOCHTE CONTAINERS
+####BEPALINGEN VOOR DE GOEDKEURING VAN BESTAANDE CONTAINERS EN VAN NIEUW VERVAARDIGDE MAAR NOG NIET GOEDGEKEURDE CONTAINERS
 
 ### Bepaling  9  
 
@@ -922,7 +951,7 @@ a) datum en plaats van fabricage;
 
 b) door de fabrikant van de container toegewezen identificatienummer indien voorhanden;  
 
-c) werkelijk maximum brutogewicht;  
+c) maximale brutomassa tijdens vervoer;  
 
 d) 
 
@@ -932,14 +961,14 @@ d)
 
 (iii) het bewijs dat de container was gebouwd volgens normen die naar de mening van de Administratie gelijkwaardig waren aan de technische voorwaarden neergelegd in Bijlage II, met uitzondering van de technische voorwaarden betreffende de proeven inzake de sterkte van kop- en zijwanden;    
 
-e) toelaatbaar stapelgewicht bij 1,8 g (in kg en lb); en  
+e) toelaatbare stapelbelasting bij 1,8 g (in kg en lb); en  
 
 f) de eventuele andere gegevens vereist voor de veiligheidskeurplaat, dan geeft de Administratie, na onderzoek, de eigenaar schriftelijk ervan kennis of de goedkeuring is verleend; en indien zulks het geval is, geeft deze kennisgeving de eigenaar het recht de veiligheidskeurplaat aan te brengen nadat controle van de betrokken container is verricht overeenkomstig Bepaling 2.   De controle van de betrokken container en het aanbrengen van de veiligheidskeurplaat dienen uiterlijk 1 januari 1985 te zijn geschied.  
 2.  Bestaande containers die niet in aanmerking komen voor goedkeuring krachtens paragraaf 1 van deze Bepaling kunnen ter goedkeuring worden voorgelegd krachtens de bepalingen van Hoofdstuk II of Hoofdstuk III van deze Bijlage. Voor zodanige containers zijn de vereisten van Bijlage II betreffende de proeven inzake de sterkte van kop- en/of zijwanden niet van toepassing. Indien ten genoegen van de Administratie is aangetoond dat de betrokken containers gebruikt zijn, kan zij, naar het haar passend voorkomt, de vereisten van voorlegging van tekeningen en de beproeving, behalve de hijsen vloersterkteproeven, terzijde stellen.  
 
 ###Bepaling 10 
 
-####Goedkeuring van nieuw vervaardigde maar nog niet onderzochte containers
+####Goedkeuring van nieuw vervaardigde maar nog niet goedgekeurde containers
 
 Indien op of voor 6 september 1982 de eigenaar van een nieuw vervaardigde maar nog niet onderzochte container, de volgende gegevens aan een Administratie voorlegt:
 
@@ -947,11 +976,11 @@ Indien op of voor 6 september 1982 de eigenaar van een nieuw vervaardigde maar n
 
 (b)het door de fabrikant van de container toegewezen identificatienummer, indien voorhanden;
 
-(c)werkelijk maximaal brutogewicht;
+(c)maximale brutomassa tijdens vervoer;
 
 (d)het bewijs, ten genoegen van de Administratie, dat de container was vervaardigd volgens een ontwerptype dat was beproefd en bevonden te voldoen aan de technische voorwaarden neergelegd in Bijlage II;
 
-(e)toelaatbaar stapelgewicht bij 1,8 g (in kg en lb); en
+(e) toelaatbare stapelbelasting bij 1,8 g (in kg en lb); en
 
 (f)de eventuele andere gegevens, vereist voor de veiligheidskeurplaat, kan de Administratie, na onderzoek, de container goedkeuren, niettegenstaande de bepalingen van Hoofdstuk II. Wanneer de goedkeuring is verleend, wordt de eigenaar schriftelijk ervan in kennis gesteld, en deze kennisgeving geeft de eigenaar het recht de veiligheidskeurplaat aan te brengen, nadat controle van de betrokken container is verricht overeenkomstig Bepaling 2. De controle van de betrokken container en het aanbrengen van de veiligheidskeurplaat dienen uiterlijk 1 januari 1985 te zijn geschied.
 
@@ -967,7 +996,21 @@ De eigenaar van een goedgekeurde container die zodanig is gewijzigd dat daardoor
 
 ### Aanhangsel  
 
-De veiligheidskeurplaat overeenkomstig het onderstaand afgebeelde model dient de vorm te hebben van een duurzame, corrosie- en brandbestendige rechthoekige plaat van niet minder dan 200 mm bij 100 mm. De woorden „CSC goedgekeurde veiligheid” met een minimum letterhoogte van 8 mm en alle andere woorden en nummers met een minimum hoogte van 5 mm dienen in het oppervlak van de plaat te worden geslagen, dan wel in reliëf of op een andere duurzame en leesbare manier te zijn aangebracht.  ![10000051547](http://wetten.overheid.nl/Illustration/10000051547)
+De veiligheidskeurplaat overeenkomstig het onderstaand afgebeelde model dient de vorm te hebben van een duurzame, corrosie- en brandbestendige rechthoekige plaat van niet minder dan 200 mm bij 100 mm. De woorden „CSC goedgekeurde veiligheid” met een minimum letterhoogte van 8 mm en alle andere woorden en nummers met een minimum hoogte van 5 mm dienen in het oppervlak van de plaat te worden geslagen, dan wel in reliëf of op een andere duurzame en leesbare manier te zijn aangebracht. 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| --- |CSC VEILIGHEIDSKEUR  | --- |
+|1 ........... |(GB - L/749/2/7/75) | --- |
+|2 ........... |Fabricagedatum .......... | --- |
+|3 ........... |Identificatienummer .......... | --- |
+|4 ........... |MAXIMUM OPERATING GROSS MASS .... kg .... lbs |↑ |
+|5 ........... |ALLOWABLE STACKING LOAD FOR 1.8 g ...... kg ......lbs |>= 100 mm |
+|6 ........... |TRANSVERSE RACKING TEST FORCE ...... newtons |↓ |
+|7 ........... | --- | --- |
+|8 ........... | --- | --- |
+|9 ........... | --- | --- |
+| --- | ← >= 200 mm → | --- |
 
 1. Land van goedkeuring en goedkeuringsnummer zoals aangeduid in het voorbeeld op regel 1. (Het land van goedkeuring dient te worden aangegeven door middel van het teken gebruikt ter aanduiding van het land van registratie van motorvoertuigen in het internationale wegverkeer).  
 
@@ -975,29 +1018,32 @@ De veiligheidskeurplaat overeenkomstig het onderstaand afgebeelde model dient de
 
 3. Door de fabrikant van de container toegewezen identificatienummer, of, in het geval van bestaande containers waarvoor dat nummer onbekend is, het door de Administratie toegewezen nummer.  
 
-4. Werkelijk maximum brutogewicht (in kg en lb).  
+4.maximale brutomassa tijdens vervoer (kg and lbs).
 
-5. Toelaatbaar stapelgewicht bij 1,8 g (in kg en lb).  
+5.toelaatbare stapelbelasting bij 1,8 g (in kg en lb).
 
-6. Belastingswaarde bij torsieproef (in kg en lb).  
+6.kracht bij de torsiebeproeving (in newton).
 
-7. De kopwandsterkte dient alleen op het merk te worden aangegeven indien de wanden zo zijn ontworpen dat ze een belading van minder of meer dan 0,4 maal de maximum toelaatbare nuttige belading, d.w.z. 0,4 P kunnen weerstaan.  
+7.De kopwandsterkte dient alleen op de plaat te worden aangegeven indien de kopwanden zo zijn ontworpen dat zij een kracht van minder of meer dan 0,4 maal de zwaartekracht bij het maximaal toegestaan ladinggewicht, d.w.z. 0,4 Pg, kunnen weerstaan.
 
-8. De zijwandsterkte dient alleen op het merk te worden aangegeven indien de wanden zo zijn ontworpen dat ze een belasting van minder of meer dan 0,6 maal de maximum toelaatbare nuttige belading, d.w.z. 0,6 P kunnen weerstaan.  
+8.De zijwandsterkte dient alleen op de plaat te worden aangegeven indien de zijwanden zo zijn ontworpen dat zij een kracht van minder of meer dan 0,6 maal de zwaartekracht bij het maximaal toegestaan ladinggewicht, d.w.z. 0,6 Pg, kunnen weerstaan. 
 
 9. Datum van eerste onderhoudscontrole (maand en jaar) voor nieuwe containers en volgende data van onderhoudscontrole (maand en jaar) indien de plaat voor dit doel wordt gebruikt.  
 
-10.De stapelsterkte bij één ontbrekende deur dient alleen op de plaat te worden aangegeven indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt als volgt: TOELAATBAAR STAPELGEWICHT BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (… kg … lbs). Deze markering wordt vlak naast de waarde van de torsiebeproeving aangegeven (zie regel 5).
+10. De stapelsterkte bij één ontbrekende deur dient alleen op de plaat te worden aangegeven indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt als volgt: ALLOWABLE STACKING LOAD ONE DOOR OFF FOR 1,8 g (... kg ... lbs) / toelaatbare stapelbelasting bij één ontbrekende deur bij 1,8 g (... kg ... lbs). Deze markering wordt vlak naast de waarde van de stapelbeproeving aangegeven (zie regel 5).  
 
-11.De belastingswaarde bij torsiebeproeving bij één ontbrekende deur dient alleen op de plaat te worden aangegeven indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt als volgt: BELASTINGSWAARDE BIJ TORSIEBEPROEVING BIJ EEN ONTBREKENDE DEUR (… kg … lbs). Deze markering wordt vlak naast de waarde van de stapelbeproeving aangegeven (zie regel 6).   
+11. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur dient alleen op de plaat te worden aangegeven indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt als volgt: TRANSVERSE RACKING TEST FORCE (... newtons) kracht bij. Deze markering wordt vlak naast de waarde van de torsiebeproeving aangegeven (zie regel 6).    
 
 ### Bijlage  II  
 
 ####Vereisten en proeven inzake structurele veiligheid
 
+###Algemene bepalingen
+
+Voor de toepassing van deze Overeenkomst worden de volgende definities gehanteerd: De letter *g* staat voor standaardversnelling van de zwaartekracht; *g* is gelijk aan 9.8 m/s<sup>2</sup>. Het begrip *belasting*, wanneer gebruikt om een fysieke kwantiteit te beschrijven waaraan eenheden kunnen worden toegeschreven, staat voor massa. *Maximale brutomassa tijdens vervoer* of *toegestaan gewicht* of *R* is de maximaal toegestane massa van de container tezamen met zijn lading. De letter R wordt uitgedrukt in eenheden van massa. Waar de bijlagen gebaseerd zijn op vormen van zwaartekracht die van deze waarde zijn afgeleid, wordt die kracht, die een inertiekracht is, aangeduid als *Rg*. *Maximaal toegestaan ladinggewicht of P* is het verschil tussen de maximale brutomassa tijdens het vervoer of toegestaan gewicht en tarra. De letter *P* wordt uitgedrukt in eenheden van massa. Waar de bijlagen gebaseerd zijn op de vormen van zwaartekracht die van deze waarde zijn afgeleid, wordt die kracht, die een inertiekracht is, aangeduid als *Pg*. *Tarra* is de massa van de lege container, met inbegrip van de daaraan vast aangebrachte voorzieningen.
 ###*Inleiding* 
 
-Bij het vaststellen van de vereisten in deze Bijlage is men ervan uitgegaan dat in alle fasen van behandeling van containers de krachten ten gevolge van beweging, plaatsing, stapeling en gewicht van de beladen container, alsook de krachten van buitenaf, de ontwerpsterkte van de container niet te boven zullen gaan. In het bijzonder is uitgegaan van de volgende veronderstellingen: 
+Bij het vaststellen van de vereisten in deze bijlage is men ervan uitgegaan dat in alle fasen van behandeling van containers de krachten ten gevolge van beweging, plaatsing, stapeling en het zwaartekrachteffect van de beladen container, alsook krachten van buitenaf, de ontwerpsterkte van de container niet te boven zullen gaan. In het bijzonder is uitgegaan van de volgende veronderstellingen: 
 
 a) de container dient zodanig vastgezet te zijn dat hij niet wordt onderworpen aan grotere krachten dan waarvoor hij is ontworpen;  
 
@@ -1016,41 +1062,44 @@ Naar gelang het ontwerp van de container zulks toelaat, dienen voor alle te bepr
 | BEPROEVINGSBELASTING EN TOEGEPASTE KRACHTEN  | BEPROEVINGSPROCEDURES  |
 | 1. HIJSEN  |
 | De container met de voorgeschreven inwendige belasting wordt zodanig opgehesen dat er geen versnellingskrachten van betekenis ontstaan. Na het ophijsen dient de container gedurende vijf minuten te blijven hangen of te worden gesteund en dan neergezet op de grond.  | --- |
-|  *(A) HET HIJSEN GEBRUIKMAKEND VAN DE HOEKSTUKKEN*   |
+|  *(A) HIJSEN GEBRUIK MAKEND VAN DE HOEKSTUKKEN*   |
 | *Inwendige belasting:*  | (i) *Hijsen vanuit de bovenhoekstukken:*   |
-| Een zodanig uniform verdeelde belasting dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan 2R. Bij een tankcontainer dient, wanneer het proefgewicht van de inwendige belasting te samen met de tarra minder is dan 2R, een aanvullende belasting verdeeld over de lengte van de tank op de container te worden aangebracht.  | Op containers langer dan 3000 mm (10 ft) (nominaal) dienen de hijskrachten verticaal te worden uitgeoefend op alle vier bovenhoekstukken. Op containers van 3000 mm (10 ft) (nominaal) lengte of minder dienen op alle vier bovenhoekstukken krachten te worden uitgeoefend zodanig dat de hoek tussen elk part van het hijsgereedschap en de verticaal 30° beloopt.  |
+| Een zodanig uniform verdeelde belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan 2R. In het geval van een tankcontainer dient, indien de beproevingsbelasting van de inwendige belasting plus de tarra minder is dan 2R, een aanvullende belasting, verdeeld over de lengte van de tank, aan de container te worden toegevoegd.  | Op containers langer dan 3000 mm (10 ft) (nominaal) dienen de hijskrachten verticaal te worden uitgeoefend op alle vier bovenhoekstukken. Op containers van 3000 mm (10 ft) (nominaal) lengte of minder dienen op alle vier bovenhoekstukken krachten te worden uitgeoefend zodanig dat de hoek tussen elk part van het hijsgereedschap en de verticaal 30° beloopt.  |
 | *Uitwendige belasting:*  | (ii) *Hijsen gebruikmakend van de bodemhoekstukken:*   |
-| Zodanig dat het gezamenlijke gewicht van 2R wordt opgehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  | Er dienen op zodanige wijze hijskrachten op de containers te worden uitgeoefend, dat de parts van het gereedschap alleen trekken aan de bodemhoekstukken. De hijskrachten dienen te worden uitgeoefend in een hoek met het horizontale vlak van:  |
+| Zodanig dat de totale massa van 2R wordt gehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  | Er dienen op zodanige wijze hijskrachten op de containers te worden uitgeoefend, dat de parts van het gereedschap alleen trekken aan de bodemhoekstukken. De hijskrachten dienen te worden uitgeoefend in een hoek met het horizontale vlak van:  |
 | --- |30° voor containers met een lengte van 12.000 mm (40 ft) (nominaal) of meer; 37° voor containers met een lengte van 9000 mm (30 ft) (nominaal) en tot, doch met uitsluiting van, 12.000 mm (40 ft) (nominaal);  45° voor containers met een lengte van 6000 mm (20 ft) (nominaal) en tot, doch met uitsluiting van, 9000 mm (30 ft) (nominaal);  60° voor containers minder dan 6000 mm (20 ft) (nominaal). |
 |  *(B) HIJSEN VOLGENS ANDERE AANVULLENDE METHODEN*   |
-| *Inwendige belasting:*  | (i) *Heffen met behulp van lepelsleuven:*   |
-| Een zodanig uniform verdeelde belasting dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan 1,25 R. Bij een tankcontainer dient, wanneer het proefgewicht van de inwendige belasting te samen met de tarra minder is dan 1,25 R een aanvullende belasting verdeeld over de lengte van de tank op de container te worden aangebracht.  | De container dient te worden geplaatst op staven die zich in hetzelfde horizontale vlak bevinden, met een staaf geschoven in elke lepelsleuf die wordt gebruikt voor het heffen van de beladen container.  |
-| *Uitwendige belasting:*  | De staven dienen dezelfde breedte te hebben als de lepels bestemd voor gebruik bij het hanteren van de container en dienen voor 75% van de lengte van de lepelsleuf daarin te steken. |
-| Zodanig dat het gecombineerde gewicht van 1,25 R wordt opgehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  |
-| *Inwendige belasting:*  | (ii) *Hijsen met behulp van aangrijpingspunten voor hijsarmen:*  |
-| Een zodanig uniform verdeelde belasting dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan 1,25 R.  |De container dient te worden geplaatst op steunblokjes waarvan de bovenzijden zich in hetzelfde horizontale vlak bevinden, met een blokje onder elk aangrijpingspunt voor de hijsarmen. Deze steunblokjes dienen dezelfde grootte te hebben als het aangrijpingsoppervlak van de te gebruiken punten.  |
+| *Inwendige belasting:*  | i) *Heffen met behulp van lepelsleuven:*   |
+| Een zodanig uniform verdeelde belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan 1,25 R.  | De container dient te worden geplaatst op staven die zich in hetzelfde horizontale vlak bevinden, met een staaf geschoven in elke lepelsleuf die wordt gebruikt voor het heffen van de beladen container. De staven dienen dezelfde breedte te hebben als de lepels bestemd voor gebruik bij het hanteren van de container en dienen voor 75% van de lengte van de lepelsleuf daarin te steken.  |
 | *Uitwendige belasting:*  |
-| Zodanig dat het gezamenlijke gewicht van 1,25 R wordt opgehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  |
-| --- | (iii) *Andere methoden*   |
-| --- | Wanneer containers zo zijn ontworpen dat zij in beladen toestand moeten worden opgehesen volgens een niet in (A) of (B) (i) en (ii) genoemde methode, dienen zij tevens te worden beproefd met de in- en uitwendige belasting die representatief is voor de aan die methode eigen verversnellingswaarden.  |
+| Zodanig dat de totale massa van 1,25 R wordt opgehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  |
+| *Inwendige belasting:*  | ii) *Hijsen met behulp van aangrijpingspunten voor hijsarmen:*  |
+| Een zodanig uniform verdeelde belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan 1,25 R. In het geval van een tankcontainer dient, indien de beproevingsbelasting van de inwendige belasting plus de tarra minder is dan 1,25 R, een aanvullende belasting, verdeeld over de lengte van de tank, aan de container te worden toegevoegd.  |De container dient te worden geplaatst op steunblokjes waarvan de bovenzijden zich in hetzelfde horizontale vlak bevinden, met een blokje onder elk aangrijpingspunt voor de hijsarmen. Deze steunblokjes dienen dezelfde grootte te hebben als het aangrijpingsoppervlak van de te gebruiken punten.  |
+| --- |
+| --- |
+| --- |
+| *Uitwendige belasting:*  |
+| Zodanig dat de totale massa van 1,25 R wordt opgehesen op de voorgeschreven wijze (onder het hoofd BEPROEVINGSPROCEDURES).  |
+| --- | iii) *Andere methoden*   |
+| --- | Wanneer de containers zo zijn ontworpen dat zij in beladen toestand dienen te worden opgehesen volgens een niet in (A) of (B) (i) en (ii) genoemde methode, dienen zij tevens te worden beproefd met de in- en uitwendige belasting die representatief is voor de aan die methode eigen versnellingswaarden.  |
 | 2. STAPELEN  |
-| 1. Wanneer bij internationaal vervoer de omstandigheden zodanig zijn dat de maximale verticale versnellingskrachten aanmerkelijk afwijken van 1,8 g en wanneer het gebruik van de container op betrouwbare en doeltreffende wijze is beperkt tot zodanige vervoersomstandigheden, mag het stapelgewicht worden aangepast aan de bijbehorende versnellingskrachten.  |
-| 2. Na geslaagde voltooiing van deze beproeving kan het toelaatbare statische stapelgewicht op de bovenzijde van de container worden bepaald, dat dient te worden aangegeven op de veiligheidskeurplaat in de rubriek „toelaatbaar stapelgewicht voor 1,8 g (in kg en lb)“.  |
+| 1. Wanneer bij internationaal vervoer de omstandigheden zodanig zijn dat de maximale verticale versnelling aanmerkelijk afwijkt van 1,8 g en wanneer het gebruik van de container op betrouwbare en doeltreffende wijze is beperkt tot zodanige vervoersomstandigheden, mag het stapelgewicht worden aangepast aan de bijbehorende versnellingswaarden.  |
+| 2. Na geslaagde voltooiing van deze beproeving kan de toelaatbare statische stapelbelasting op de bovenzijde van de container worden bepaald, die dient te worden aangegeven op de veiligheidskeurplaat in de rubriek TOELAATBARE STAPELBELASTING VAN 1,8 g (in kg en lb).  |
 | *Inwendige belasting:*  | --- |
-| Een zodanig uniform verdeelde belasting dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan 1,8 R. Tankcontainers mogen in lege toestand worden beproefd.  |De container met de voorgeschreven inwendige belasting wordt geplaatst op vier horizontale steunblokjes die op hun beurt steunen op een niet vervormbaar horizontaal oppervlak, één blokje onder elk bodemhoekstuk of gelijkwaardige hoekstructuur. De steunblokjes dienen midden onder de hoekstukken te worden geplaatst en ongeveer dezelfde oppervlaktematen als de hoekstukken te hebben. |
+| Een zodanig uniform verdeelde belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan 1,8 R. Tankcontainers kunnen in tarratoestand worden beproefd.  |De container met de voorgeschreven inwendige belasting wordt geplaatst op vier horizontale steunblokjes die op hun beurt steunen op een niet vervormbaar horizontaal oppervlak, één blokje onder elk bodemhoekstuk of gelijkwaardige hoekstructuur. De steunblokjes dienen midden onder de hoekstukken te worden geplaatst en ongeveer dezelfde oppervlaktematen als de hoekstukken te hebben. |
 | *Uitwendige belasting:*  | --- |
-| Zodanig dat zij elk van de vier bovenhoekstukken onderwerpen aan een verticale neerwaartse kracht gelijk aan 1/4 x 1,8 x het toelaatbare statische stapelgewicht.  | Elke uitwendige belasting dient te worden uitgeoefend op elk van de hoekstukken door middel van een overeenkomstig beproevingshoekstuk of door middel van een steunblokje met dezelfde oppervlaktematen. De plaatsing van het beproevingshoekstuk of het steunblokje ten opzichte van het bovenhoekstuk van de container dient een afwijking te hebben van 25 mm in zijdelingse- en 38 mm in de lengterichting.  |
+| Zodanig dat elk van de vier bovenhoekstukken wordt onderworpen aan een verticale neerwaartse kracht gelijk aan 0,25 x 1,8 x de toelaatbare statische stapelbelasting.  | Elke uitwendige belasting dient te worden uitgeoefend op elk van de hoekstukken door middel van een overeenkomstig beproevingshoekstuk of door middel van een steunblokje met dezelfde oppervlaktematen. De plaatsing van het beproevingshoekstuk of het steunblokje ten opzichte van het bovenhoekstuk van de container dient een afwijking te hebben van 25 mm in zijdelingse- en 38 mm in de lengterichting.  |
 | 3. PUNTBELASTING  |
-| --- |(a) OP HET DAK |
-| *Inwendige belasting:*  | --- |
-|Geen. | --- |
+|a. Op het dak |
+| *Inwendige belasting:*  |De uitwendige krachten dienen verticaal in neerwaarse richting te worden uitgeoefend op het buitenoppervlak van het zwakste gedeelte van het dak van de container. |
+|Geen. |
 |*Uitwendige belasting:* | --- |
-| Een geconcentreerde belasting van 300 kg, gelijkmatig verdeeld over een oppervlak van 600 mm x 300 mm.  | De uitwendige krachten dienen verticaal in neerwaartse richting te worden uitgeoefend op het buitenoppervlak van het zwakste gedeelte van het dak van de container.  |
-| --- | (b) OP DE VLOER  |
-| *Inwendige belasting:*  | --- |
-| Twee geconcentreerde belastingen van elk 2730 kg, ieder op de containervloer aangebracht over een oppervlak van 142 cm<sup>2</sup>.  | De beproeving dient te geschieden met de container rustend op vier steunen waarvan de bovenzijden in één horizontaal vlak liggen onder zijn vier bodemhoeken, op zodanige wijze dat de structuur van het bodemraam van de container vrij kan buigen. Er dient een beproevingsapparaat over het gehele vloeroppervlak van de container te worden bewogen. Dit apparaat dient te voldoen aan de volgende kenmerken: beladen tot een gewicht van 5460 kg, d.w.z. 2730 kg op elk van de twee oppervlakken, dus in beladen staat met een totaal raakvlak van 284 cm<sup>2</sup>, 142 cm<sup>2</sup> op elk oppervlak, met een breedte van 180 mm op onderlinge afstand van 760 mm van hart tot hart. |
-|*Uitwendige belasting:* | --- |
-| Geen.  | --- |
+| Een geconcentreerde zwaartekracht van 300 kg, gelijkmatig verdeeld over een oppervlak van 600 mm x 300 mm.  | --- |
+| b. Op de vloer  |
+| *Inwendige belasting:*  | De beproeving dient te geschieden met de container rustend op vier steunen waarvan de bovenzijden in één horizontaal vlak liggen onder zijn vier bodemhoeken, op zodanige wijze dat de structuur van het bodemraam van de container vrij kan buigen. |
+| Twee geconcentreerde massa’s van elk 2.730 kg, ieder toegevoegd aan de containervloer binnen een oppervlak van142 cm<sup>2</sup>  |
+|*Uitwendige belasting:* |Er dient een beproevingsapparaat (beladen tot een massa van 5.460 kg, d.w.z. 2.730 kg op elk van de twee oppervlakken, dus in beladen staat met een totaal raakvlak van 284 cm<sup>2</sup>, 142 cm<sup>2</sup>, op elk oppervlak, met een breedte van 180 mm op onderlinge afstand van 76  mm van hart tot hart over het gehele vloeroppervlak van de container te worden bewogen. |
+| Geen.  |
 | 4. TORSIEBEPROEVING  |
 | *Inwendige belasting:*  | --- |
 | Geen.  | De lege container dient te worden geplaatst op vier steunen waarvan de bovenzijden in één horizontaal vlak liggen, één onder elke bodemhoek, en hij dient te worden vastgezet zodat hij zich niet kan verplaatsen; de bevestigingsmiddelen dienen zo te worden aangebracht dat de zijwaartse beweging alleen wordt verhinderd aan de bodemhoeken gelegen diagonaal tegenover de hoeken waarop de krachten worden uitgeoefend.  |
@@ -1059,32 +1108,32 @@ Naar gelang het ontwerp van de container zulks toelaat, dienen voor alle te bepr
 | 5. WEERSTAND TEGEN VERVORMING IN DE LENGTERICHTING (STATISCHE TEST)  |
 | Bij het ontwerpen en vervaardigen van containers dient men zich ervan bewust te zijn dat containers bij vervoer over land onderworpen kunnen worden aan versnellingen van 2 g, horizontaal in de lengterichting.  |
 |*Inwendige belasting:* | --- |
-| Een zodanig gelijkmatig verdeelde belasting, dat het gecombineerde gewicht van de container en de beproevingsbelasting gelijk is aan het maximum brutogewicht of de gebruikslimiet R. Bij een tankcontainer dient, wanneer het gewicht van de inwendige belasting te zamen met het ledig gewicht minder is dan het maximaal brutogewicht of de gebruikslimiet R, een aanvullende belasting op de container te worden aangebracht.  | De container met de voorgeschreven inwendige belasting dient in de lengterichting te worden vastgezet door de twee bodemhoekstukken of gelijkwaardige hoekstructuren aan één einde vast te maken aan geschikte verankeringspunten.  |
+| Een zodanig gelijkmatig verdeelde belasting, dat de totale massa van de container en de beproevingsbelasting gelijk is aan de maximale brutomassa tijdens vervoer of het toegestaan gewicht R. In het geval van een tankcontainer dient, wanneer de massa van de inwendige belasting plus de tarra minder is dan de maximale brutomassa of het toegestaan gewicht R, een aanvullende belasting aan de container te worden toegevoegd.  | De container met de voorgeschreven inwendige belasting dient in de lengterichting te worden vastgezet door de twee bodemhoekstukken of gelijkwaardige hoekstructuren aan één einde vast te maken aan geschikte verankeringspunten.  |
 |*Uitwendige belasting:* | --- |
-| Zodanig dat elke zijkant van de container in de lengterichting wordt onderworpen aan druk- en trekkrachten van de grootte R, d.w.z. een gecombineerde kracht van 2 R op het bodemraam van de container in zijn geheel.  | De uitwendige belasting dient eerst naar de bevestigingspunten toe en daarna van de bevestigingspunten af te worden uitgeoefend. Elke zijde van de container dient te worden beproefd.  |
+| Zodanig dat elke zijkant van de container in de lengterichting wordt onderworpen aan druk- en trekkrachten van de grootte Rg, d.w.z. een gecombineerde kracht van 2 Rg op het bodemraam van de container in zijn geheel.  | De uitwendige belasting dient eerst naar de bevestigingspunten toe en daarna van de bevestigingspunten af te worden uitgeoefend. Elke zijde van de container dient te worden beproefd.  |
 | 6. KOPWANDEN  |
-| De kopwanden dienen een belasting te kunnen weerstaan van niet minder dan 0,4 maal het maximaal toelaatbaar laadvermogen. Indien de kopwanden evenwel zo zijn ontworpen dat zij een belasting van minder of meer dan 0,4 maal het maximum toelaatbaar laadvermogen kunnen weerstaan, dient een zodanige sterktefactor te worden aangegeven op de veiligheidskeurplaat overeenkomstig Bijlage I, Bepaling 1.  |
+| De kopwanden dienen een kracht te kunnen weerstaan van niet minder dan 0,4 maal de kracht die gelijk is aan de zwaartekracht bij het maximaal toelaatbare laadvermogen. Indien de kopwanden evenwel zo zijn ontworpen dat zij een kracht van minder of meer dan 0,4 maal de zwaartekracht bij het maximaal toelaatbare laadvermogen kunnen weerstaan, dient een zodanige sterktefactor te worden aangegeven op de veiligheidskeurplaat overeenkomstig bijlage I, bepaling 1.  |
 | *Inwendige belasting:*  | --- |
-| Zodanig dat de kopwand van binnen wordt onderworpen aan een gelijkmatig verdeelde belasting van 0,4 P of aan zodanige andere belasting waarvoor de container is ontworpen.  | De voorgeschreven inwendige belasting dient als volgt te worden aangebracht: beide uiteinden van een container dienen te worden beproefd, behalve wanneer de uiteinden identiek zijn; in dat geval behoeft slechts één uiteinde te worden beproefd. De kopwanden van containers die geen open zijden of zijdeuren hebben kunnen afzonderlijk of gelijktijdig worden beproefd.  |
+| Zodanig dat de kopwand van binnen wordt onderworpen aan een gelijkmatig verdeelde kracht van 0,4 Pg of aan een zodanige andere kracht waarvoor de container is ontworpen.  | De voorgeschreven inwendige belasting dient als volgt te worden aangebracht: beide uiteinden van een container dienen te worden beproefd, behalve wanneer de uiteinden identiek zijn; in dat geval behoeft slechts één uiteinde te worden beproefd. De kopwanden van containers die geen open zijden of zijdeuren hebben kunnen afzonderlijk of gelijktijdig worden beproefd.  |
 | --- |De kopwanden van containers die open zijden of zijdeuren hebben, dienen afzonderlijk te worden beproefd. Wanneer de kopwanden afzonderlijk worden beproefd, mag de reactie van de op de kopwand uitgeoefende krachten slechts worden opgenomen door de structuur van het bodemraam van de container. |
 | *Uitwendige belasting:*  | --- |
 | Geen.  | --- |
 | 7. ZIJWANDEN  |
-| De zijwanden dienen een belasting van niet minder dan 0,6 maal het maximaal toelaatbaar laadvermogen te kunnen weerstaan. Indien de zijwanden evenwel zo zijn ontworpen dat zij een belasting kleiner of groter dan 0,6 maal het maximaal toelaatbaar laadvermogen kunnen weerstaan, dan dient een zodanige sterktefactor te worden aangegeven op de veiligheidskeurplaat overeenkomstig Bijlage I, Bepaling 1. |
+| De zijwanden dienen een kracht te kunnen weerstaan van niet minder dan 0,6 maal de kracht die gelijk is aan de zwaartekracht bij het maximaal toelaatbare laadvermogen. Indien de zijwanden evenwel zo zijn ontworpen dat zij een kracht van minder of meer dan 0,6 maal de zwaartekracht bij het maximaal toelaatbare laadvermogen kunnen weerstaan, dient een zodanige sterktefactor te worden aangegeven op de veiligheidskeurplaat overeenkomstig bijlage I, bepaling 1. |
 |*Inwendige belasting:* | --- |
-|Zodanig dat de zijwand van binnen wordt onderworpen aan een gelijkmatig verdeelde belasting van 0,6 P of aan zodanige andere belasting waarvoor de container is ontworpen.  | De voorgeschreven inwendige belasting dient als volgt te worden aangebracht: beide zijden van een container dienen te worden beproefd, behalve wanneer de zijden identiek zijn; in dat geval behoeft slechts één zijde te worden beproefd. Zijwanden dienen afzonderlijk te worden beproefd en de reactie van de belasting mag slechts door de hoekstukken of gelijkwaardige hoekstructuren worden opgenomen. Containers zonder vaste bovenafdekking dienen te worden beproefd in de toestand zoals zij zijn ontworpen, bijvoorbeeld met de afneembare bovenbalken op de bestemde plaats aangebracht.  |
+|Zodanig dat de zijwand van binnen wordt onderworpen aan een gelijkmatig verdeelde kracht van 0,6 Pg of aan een zodanige andere kracht waarvoor de container is ontworpen.  | De voorgeschreven inwendige belasting dient als volgt te worden aangebracht: beide zijden van een container dienen te worden beproefd, behalve wanneer de zijden identiek zijn; in dat geval behoeft slechts één zijde te worden beproefd. Zijwanden dienen afzonderlijk te worden beproefd en de reactie van de belasting mag slechts door de hoekstukken of gelijkwaardige hoekstructuren worden opgenomen. Containers zonder vaste bovenafdekking dienen te worden beproefd in de toestand zoals zij zijn ontworpen, bijvoorbeeld met de afneembare bovenbalken op de bestemde plaats aangebracht.  |
 | *Uitwendige belasting:*  | --- |
 | Geen.  | --- |
 |8. GEBRUIK MET ÉÉN ONTBREKENDE DEUR |
-| 1.  Containers waarvan één deur is verwijderd zijn aanzienlijk minder goed bestand tegen belasting door het stapelen van containers en hebben mogelijk een verminderde stapelsterkte. Het verwijderen van een deur van een container die in gebruik is, wordt beschouwd als een wijziging van de container. Containers dienen te worden goedgekeurd voor gebruik met één ontbrekende deur. Deze goedkeuring dient te worden gebaseerd op de onderstaande beproevingsresultaten.     2.  Nadat de stapelbeproeving met succes is voltooid, kan de toelaatbare statische stapelbelasting op de bovenzijde van de container worden bepaald, die op de veiligheidskeurplaat dient te worden aangegeven, vlak onder regel 5: TOELAATBAAR STAPELGEWICHT BIJ 1,8 g (kg en lbs) BIJ ÉÉN ONTBREKENDE DEUR.     3.  Nadat de torsiebeproeving met succes is voltooid, dient de belastingswaarde bij torsiebeproeving op de veiligheidskeurplaat te worden aangegeven, vlak onder regel 6: BELASTINGSWAARDE BIJ TORSIEBEPROEVING (kg en lbs) BIJ ÉÉN ONTBREKENDE DEUR    |
+| 8.1.  Containers waarvan één deur is verwijderd zijn aanzienlijk minder goed bestand tegen belasting door het stapelen van containers en hebben mogelijk een verminderde stapelsterkte. Het verwijderen van een deur van een container die in gebruik is, wordt beschouwd als een wijziging van de container. Containers dienen te worden goedgekeurd voor gebruik met één ontbrekende deur. Deze goedkeuring dient te worden gebaseerd op de onderstaande beproevingsresultaten.     8.2.  Nadat de stapelbeproeving met succes is voltooid, kan de toelaatbare statische stapelbelasting op de bovenzijde van de container worden bepaald, die op de veiligheidskeurplaat dient te worden aangegeven, vlak onder regel 5: TOELAATBAAR STAPELGEWICHT BIJ 1,8 g (kg en lbs) BIJ ÉÉN ONTBREKENDE DEUR.     8.3.  Nadat de torsiebeproeving met succes is voltooid, dient de kracht bij torsiebeproeving op de veiligheidskeurplaat te worden aangegeven, vlak onder regel 6: TORSIEBEPROEVING MET EEN ONTBREKENDE DEUR (newton)    |
 | * *Stapelen* *  | --- |
 | *Inwendige belasting:*   | --- |
-|Een zodanig uniform verdeelde belasting dat de gecombineerde massa van de container en de beproevingsbelasting gelijk is aan 1,8 R. |De beproevingsprocedures dienen in overeenstemming te zijn met het bepaalde onder 2 STAPELEN. |
+|Een zodanig uniform verdeelde belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan 1,8R. |De beproevingsprocedures dienen in overeenstemming te zijn met het bepaalde onder *2 STAPELEN* |
 | *Uitwendige belasting:*   | --- |
-|Zodanig dat elk van de vier hoekstukken wordt onderworpen aan een verticale neerwaartse kracht gelijk aan 0,25 x 1,8 x de toelaatbare statische stapelbelasting.  | --- |
+|Zodanig dat elk van de vier bovenste hoekstukken wordt onderworpen aan een verticale neerwaartse kracht gelijk aan 0,25 x 1,8 x de toelaatbare statische stapelbelasting  | --- |
 | * *Torsiebeproeving* *  | --- |
 | *Inwendige belasting:*   | --- |
-|Geen.  |De beproevingsprocedures dienen in overeenstemming te zijn met het bepaalde onder 4 TORSIEBEPROEVING |
+|Geen.  |De beproevingsprocedures dienen in overeenstemming te zijn met het bepaalde onder *4 TORSIEBEPROEVING*. |
 | *Uitwendige belasting:*  | --- |
 |Zodanig dat aan de kopstructuren van de containers zijwaarts wordt getrokken en geduwd. De krachten dienen gelijk te zijn aan die waarvoor de container werd ontworpen.  | --- |
 
@@ -1112,23 +1161,26 @@ Naar gelang het ontwerp van de container zulks toelaat, dienen voor alle te bepr
 
 3. Opleiding van bevoegde functionarissen De Overeenkomstsluitende Partij die de controle uitoefent dient te waarborgen dat de bevoegde functionarissen die belast zijn met het uitvoeren van deze beoordelingen en controlemaatregelen de noodzakelijke opleiding krijgen. Deze opleiding dient zowel theoretische als praktische scholing te omvatten. 
 
-4.Onderdelen met een kwetsbare constructie en omschrijving van ernstige gebreken in de constructie bij elk van deze onderdelen.
+4.Kwetsbare constructies
 
-4.1 De volgende onderdelen hebben een kwetsbare constructie en dienen op ernstige gebreken te worden gecontroleerd:  
+4.1 De volgende onderdelen hebben een kwetsbare constructie en dienen conform de volgende tabel op ernstige gebreken te worden gecontroleerd:  
 
-|  *Onderdeel met een kwetsbare constructie*   |  *Ernstig gebrek in de constructie*   |
-|:---|:---|
-| Bovenrail  | Plaatselijke vervorming van de rail groter dan 60 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 45 mm in de lengte.  Noot: Bij sommige tankcontainerontwerpen is de bovenrail geen onderdeel dat voor de constructie belangrijk is.  |
-| Onderrail  | Plaatselijke vervorming loodrecht op de rail groter dan 100 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 75 mm in de lengte.  |
-| Bovenligger  | Plaatselijke vervorming van de bovenligger groter dan 80 mm of barsten of scheuren groter dan 80 mm in de lengte.  |
-| Onderligger  | Plaatselijke vervorming van de onderligger groter dan 100 mm of barsten of scheuren groter dan 100 mm in de lengte.  |
-| Hoekstijlen  | Plaatselijke vervorming van de stijl groter dan 50 mm of barsten of scheuren groter dan 50 mm in de lengte.  |
-| Hoekstukken en tussenstukken (castings)  | Ontbrekende hoekstukken, doorlopende barsten of scheuren in de stukken, vervorming van de stukken waardoor de container niet meer goed gezekerd kan worden voor vervoer, vervorming van het stuk groter dan 5 mm ten opzichte van het oorspronkelijke vlak, een opening die breder is dan 66 mm, een opening die langer is dan 127 mm, een verminderde dikte van de plaat met de bovenopening waardoor deze minder dan 23 mm dik wordt, of een loslatende lasverbinding tussen aangrenzende onderdelen over meer dan 50 mm in de lengte.  |
-| Onderstructuur  | Twee of meer aangrenzende dwarsprofielen ontbreken of zijn losgeraakt van de onderrail. Twintig procent (20%) of meer van het totale aantal dwarsprofielen ontbreekt of is losgeraakt.  Noot: Indien verder vervoer wordt toegestaan, is het essentieel dat voorkomen wordt dat losgeraakte dwarsprofielen kunnen vallen.  |
-| Grendelstangen  | Een of meer van de grendelstangen aan de binnenzijde werkt niet meer.  Noot: Sommige containers zijn ontworpen en goedgekeurd (en als zodanig op de veiligheidskeurplaat vermeld) om te kunnen worden gebruikt met een openstaande of ontbrekende deur.  |
+| *i.*  | *ii.*  | *iii.*  | *iv.*  | *v.*  | *vi.*  | *vii.*  | *Onderdeel met een kwetsbare constructie*  | *Ernstig gebrek op grond waarvan de container onmiddellijk buiten bedrijf moet worden gesteld*  | *Gebrek waarover de eigenaar moet worden bericht en beperkingen moeten worden gesteld aan het vervoer*  | *Op te leggen beperkingen in het geval van gebreken uit kolom iii*  | *Lege container*  | *Beladen container*  | *Vervoer over zee*  | *Andere vervoerswijzen*  | *Vervoer over zee*  | *Andere vervoerswijzen*  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| *Bovenrail*  | Plaatselijke vervorming van de rail groter dan 60 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 45 mm in de lengte.  (Zie noot 1)  | Plaatselijke vervorming van de rail groter dan 40 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 10 mm in de lengte.  (Zie noot 1)  | Geen beperkingen  | Geen beperkingen  | Heffen door bevestiging aan de onderzijde verboden. Heffen door bevestiging aan de bovenzijde uitsluitend toegestaan met spreaders zonder ketting  | Heffen door bevestiging aan de onderzijde verboden. Heffen door bevestiging aan de bovenzijde uitsluitend toegestaan met spreaders zonder ketting  |
+| Noot 1: Bij sommige tankcontainerontwerpen is de bovenrail geen onderdeel dat voor de constructie belangrijk is.  |
+| *Onderrail*  | Plaatselijke vervorming loodrecht op de rail groter dan 100 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 75 mm in de lengte.  (Zie noot 2)  | Plaatselijke vervorming loodrecht op de rail groter dan 60 mm of scheurvorming in de las of barsten of scheuren in het railmateriaal groter dan 25 mm in de lengte: groter dan 25 mm in de lengte in de bovenste flens; of b) van een spant van willekeurige lengte. (Zie noot 2)  | Geen beperkingen  | Geen beperkingen  | Hijsen aan een  hoekstuk verboden  | Hijsen aan een hoekstuk  verboden  |
+| Noot 2: De bodemflens behoort niet tot het railmateriaal.  |
+| *Bovenligger*  | Plaatselijke vervorming van de bovenligger groter dan 80 mm of barsten of scheuren groter dan 80 mm in de lengte.  | Plaatselijke vervorming van de bovenligger groter dan 50 mm of barsten of scheuren groter dan 10 mm in de lengte.  | Container mag niet overbeladen worden  | Geen beperkingen  | Container mag niet overbeladen worden  | Geen beperkingen  |
+| *Onderligger*  | Plaatselijke vervorming van de onderligger groter dan 100 mm of barsten of scheuren groter dan 100 mm in de lengte.  | Plaatselijke vervorming van de onderligger groter dan 60 mm of barsten of scheuren groter dan 10 mm in de lengte.  | Container mag niet overbeladen worden  | Geen beperkingen  | Container mag niet overbeladen worden  | Geen beperkingen  |
+| *Hoekstijlen*  | Plaatselijke vervorming vande hoekstijl groter dan 50 mm of barsten of scheuren groter dan 50 mm in de lengte.  | Plaatselijke vervorming van de hoekstijl groter dan 30 mm of barsten of scheuren, ongeacht de lengte  | Container mag niet overbeladen worden  | Geen beperkingen  | Container mag niet overbeladen worden  | Geen beperkingen  |
+| *Hoekstukken en tussenstukken *  | Ontbrekende hoekstukken, doorlopende barsten of scheuren in de stukken, vervorming van de stukken waardoor de container niet meer goed gezekerd kan worden (zie noot 3) voor vervoer, of een loslatende lasverbinding tussen aangrenzende onderdelen over meer dan 50 mm in de lengte  | Loslatende lasverbinding tussen aangrenzende onderdelen over minder dan 50 mm  | Een container mag niet aan boord van een schip gehesen worden, indien gezekerd hijsen of bevestigen onmogelijk is vanwege beschadigde stukken  | De container dient met extra zorg gehesen en behandeld te worden.  | De container mag niet aan boord van een schip geplaatst worden.  | De container dient met extra zorg gehesen en behandeld te worden.  |
+| Een verminderde dikte van de plaat met de bovenopening waardoor deze minder dan 25 mm dik wordt  | De container dient met extra zorg gehesen en behandeld te worden. De container mag niet overbeladen worden wanneer er twistlocks moeten worden gebruikt  | De container dient met extra zorg gehesen en behandeld te worden.  | De container mag niet aan de bovenste hoekstukken gehesen worden.  | De container dient met extra zorg gehesen en behandeld te worden.  |
+| Een verminderde dikte van de plaat met de bovenopening waardoor deze minder dan 26 mm dik wordt  | Container mag niet overbeladen worden wanneer er volautomatische twistlocks moeten worden gebruikt.  | De container dient met extra zorg gehesen en behandeld te worden.  | Container mag niet worden gebruikt met volautomatische twistlocks  | De container dient met extra zorg gehesen en behandeld te worden.  |
+| Noot 3:  De container kan niet meer goed gezekerd worden voor vervoer indien de vervorming van het stuk groter dan 5 mm ten opzichte van het oorspronkelijke vlak, een opening die breder is dan 66 mm, een opening die langer is dan 127 mm, een verminderde dikte van de plaat met de bovenopening waardoor deze minder dan 23 mm dik wordt.  |
+| *Onderstructuur*  | Twee of meer aangrenzende dwarsprofielen ontbreken of zijn losgeraakt van de onderrail. Twintig procent of meer van het totale aantal dwarsprofielen ontbreekt of is losgeraakt.  (Zie noot 4)  | Twee of meer dwarsprofielen ontbreken of zijn losgeraakt (Zie noot 4)  | Geen beperkingen  | Geen beperkingen  | Geen beperkingen  | Geen beperkingen  |
+| Meer dan twee dwarsprofielen ontbreken of zijn losgeraakt  (Zie noot 4 en 5)  | Geen beperkingen  | Geen beperkingen  | Maximaal laadvermogen is beperkt tot 0,5 x P  | Maximaal laadvermogen is beperkt tot 0,5 x P  |
+| Noot 4: Indien verder vervoer wordt toegestaan, is het essentieel dat voorkomen wordt dat losgeraakte dwarsprofielen kunnen vallen.  Noot 5: Het lossen van de lading dient zorgvuldig te geschieden, aangezien de onderstructuur mogelijk minder geschikt is voor verplaatsing met vorkheftrucks.  |
+| *Grendelstangen*  | Een of meer van de grendelstangen aan de binnenzijde werkt niet meer.  (Zie noot 6)  | Een of meer van de grendelstangen aan de buitenzijde werkt niet meer.  (Zie noot 6)  | De container mag niet overbeladen worden  | Geen beperkingen  | De container mag niet overbeladen worden De lading dient te worden vastgezet aan het containerframe en en de deur mag niet worden gebruikt om versnellingskrachten op te vangen – het maximale laadvermogen wordt anders beperkt tot 0,5 P  | De lading dient te worden vastgezet aan het containerframe en de deur mag niet worden gebruikt om versnellingskrachten op te vangen – het maximale laadvermogen wordt anders beperkt tot 0,5 P  |
+| Noot 6: Sommige containers zijn ontworpen en goedgekeurd (en als zodanig op de veiligheidskeurplaat vermeld) om te kunnen worden gebruikt met een openstaande of ontbrekende deur.  |
 
-4.2 Het gevolg van twee of meer schadegevallen aan hetzelfde onderdeel met een kwetsbare constructie, ook al is de ernst in elk van beide gevallen minder dan in de tabel hierboven vermeld, kan gelijk zijn aan of groter zijn dan het gevolg van een enkel schadegeval zoals in de tabel vermeld. In dergelijke omstandigheden kan de bevoegde functionaris de container tegenhouden en de Overeenkomstsluitende Partij om aanwijzingen verzoeken.  
-
-4.3 Bij tankcontainers dient de plaats waar de containerwand aan het containerframe is bevestigd ook te worden onderzocht op duidelijk zichtbare ernstige gebreken in de constructie die vergelijkbaar zijn met de in de tabel gespecificeerde gebreken. Indien dergelijke ernstige gebreken in de constructie bij deze bevestigingen worden aangetroffen, dient de bevoegde functionaris de container tegen te houden.  
-
-4.4 Bij platformcontainers met neerklapbare kopschotten vormen de vergrendelingsmechanismen en scharnierpinnen waarop het kopschot draait kwetsbare onderdelen die ook op schade dienen te worden onderzocht. 

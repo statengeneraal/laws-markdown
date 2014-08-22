@@ -68,7 +68,7 @@ Vervallen per 23-08-2014
 
 ### 3  
 
-####Bepalingen validatie DBC’s
+####Bepalingen validatie DBC's
 
 Vervallen per 23-08-2014 
 
@@ -90,6 +90,48 @@ Vervallen per 23-08-2014
 
 Vervallen per 23-08-2014 
 
+### 1  
+
+####Privacyverklaring
+
+Vervallen per 23-08-2014 
+
+### 2  
+
+####Inzenden verklaring
+
+Vervallen per 23-08-2014 
+
+### 3  
+
+####Bewaren afschrift
+
+Vervallen per 23-08-2014 
+
+### 4  
+
+####Aanpassen tarief
+
+Vervallen per 23-08-2014 
+
+### 5  
+
+####Controle door medisch adviseur
+
+Vervallen per 23-08-2014 
+
+### 6  
+
+####Uitzondering voor zelfbetalers
+
+Vervallen per 23-08-2014 
+
+### 7  
+
+####Factuur alsnog ter betaling indienen
+
+Vervallen per 23-08-2014 
+
 ### 7  
 
 ####Intrekking oude regels
@@ -98,17 +140,11 @@ Vervallen per 23-08-2014
 
 ### 8  
 
-####Overgangsbepaling
-
-Vervallen per 23-08-2014 
-
-### 9  
-
 ####Uitzondering
 
 Vervallen per 23-08-2014 
 
-### 10  
+### 9  
 
 ####Inwerkingtreding en citeerregel
 

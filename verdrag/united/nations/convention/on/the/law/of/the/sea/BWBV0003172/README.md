@@ -4,7 +4,7 @@
 
 #### United Nations Convention on the Law of the Sea
 
-The States Parties to this Convention, Prompted by the desire to settle, in a spirit of mutual understanding and co-operation, all issues relating to the law of the sea and aware of the historic significance of this Convention as an important contribution to the maintenance of peace, justice and progress for all peoples of the world, Noting that developments since the United Nations Conferences on the Law of the Sea held at Geneva in 1958 and 1960 have accentuated the need for a new and generally acceptable Convention on the law of the sea, Conscious that the problems of ocean space are closely interrelated and need to be considered as a whole, Recognizing the desirability of establishing through this Convention, with due regard for the sovereignty of all States, a legal order for the seas and oceans which will facilitate international communication, and will promote the peaceful uses of the seas and oceans, the equitable and efficient utilization of their resources, the conservation of their living resources, and the study, protection and preservation of the marine environment, Bearing in mind that the achievement of these goals will contribute to the realization of a just and equitable international economic order which takes into account the interests and needs of mankind as a whole and, in particular, the special interests and needs of developing countries, whether coastal or land-locked, Desiring by this Convention to develop the principles embodied in resolution 2749 (XXV) of 17 December 1970 in which the General Assembly of the United Nations solemnly declared *inter alia* that the area of the sea-bed and ocean floor and the subsoil thereof, beyond the limits of national jurisdiction, as well as its resources, are the common heritage of mankind, the exploration and exploitation of which shall be carried out for the benefit of mankind as a whole, irrespective of the geographical location of States, Believing that the codification and progressive development of the law of the sea achieved in this Convention will contribute to the strengthening of peace, security, co-operation and friendly relations among all nations in conformity with the principles of justice and equal rights and will promote the economic and social advancement of all peoples of the world, in accordance with the Purposes and Principles of the United Nations as set forth in the [Charter](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), Affirming that matters not regulated by this Convention continue to be governed by the rules and principles of general international law,  Have agreed as follows:   
+The States Parties to this Convention, Prompted by the desire to settle, in a spirit of mutual understanding and co-operation, all issues relating to the law of the sea and aware of the historic significance of this Convention as an important contribution to the maintenance of peace, justice and progress for all peoples of the world, Noting that developments since the United Nations Conferences on the Law of the Sea held at Geneva in 1958 and 1960 have accentuated the need for a new and generally acceptable Convention on the law of the sea, Conscious that the problems of ocean space are closely interrelated and need to be considered as a whole, Recognizing the desirability of establishing through this Convention, with due regard for the sovereignty of all States, a legal order for the seas and oceans which will facilitate international communication, and will promote the peaceful uses of the seas and oceans, the equitable and efficient utilization of their resources, the conservation of their living resources, and the study, protection and preservation of the marine environment, Bearing in mind that the achievement of these goals will contribute to the realization of a just and equitable international economic order which takes into account the interests and needs of mankind as a whole and, in particular, the special interests and needs of developing countries, whether coastal or land-locked, Desiring by this Convention to develop the principles embodied in resolution 2749 (XXV) of 17 December 1970 in which the General Assembly of the United Nations solemnly declared *inter alia* that the area of the sea-bed and ocean floor and the subsoil thereof, beyond the limits of national jurisdiction, as well as its resources, are the common heritage of mankind, the exploration and exploitation of which shall be carried out for the benefit of mankind as a whole, irrespective of the geographical location of States, Believing that the codification and progressive development of the law of the sea achieved in this Convention will contribute to the strengthening of peace, security, co-operation and friendly relations among all nations in conformity with the principles of justice and equal rights and will promote the economic and social advancement of all peoples of the world, in accordance with the Purposes and Principles of the United Nations as set forth in the Charter, Affirming that matters not regulated by this Convention continue to be governed by the rules and principles of general international law,  Have agreed as follows:   
 ### PART  I  
 
 ####INTRODUCTION
@@ -426,14 +426,14 @@ This section applies to straits which are used for international navigation betw
 
 (a) proceed without delay through or over the strait;  
 
-(b) refrain from any threat or use of force against the sovereignty, territorial integrity or political independence of States bordering the strait, or in any other manner in violation of the principles of international law embodied in the [Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md);  
+(b) refrain from any threat or use of force against the sovereignty, territorial integrity or political independence of States bordering the strait, or in any other manner in violation of the principles of international law embodied in the Charter of the United Nations;  
 
 (c) refrain from any activities other than those incident to their normal modes of continuous and expeditious transit unless rendered necessary by *force majeure* or by distress;  
 
 (d) comply with other relevant provisions of this Part.     
 2.  Ships in transit passage shall: 
 
-(a) comply with generally accepted international regulations, procedures and practices for safety at sea, including the [International Regulations for Preventing Collisions at Sea](../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+(a) comply with generally accepted international regulations, procedures and practices for safety at sea, including the International Regulations for Preventing Collisions at Sea;  
 
 (b) comply with generally accepted international regulations, procedures and practices for the prevention, reduction and control of pollution from ships.     
 3.  Aircraft in transit passage shall: 
@@ -821,7 +821,7 @@ The provisions of articles 69 and 70 do not apply in the case of a coastal State
 
 ####Delimitation of the exclusive economic zone between States with opposite or adjacent coasts
 
-1.  The delimitation of the exclusive economic zone between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in [Article 38 of the Statute of the International Court of Justice](../../../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), in order to achieve an equitable solution.   
+1.  The delimitation of the exclusive economic zone between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in Article 38 of the Statute of the International Court of Justice, in order to achieve an equitable solution.   
 2.  If no agreement can be reached within a reasonable period of time, the States concerned shall resort to the procedures provided for in Part XV.   
 3.  Pending agreement as provided for in paragraph 1, the States concerned, in a spirit of understanding and co-operation, shall make every effort to enter into provisional arrangements of a practical nature and, during this transitional period, not to jeopardize or hamper the reaching of the final agreement. Such arrangements shall be without prejudice to the final delimitation.   
 4.  Where there is an agreement in force between the States concerned, questions relating to the delimitation of the exclusive economic zone shall be determined in accordance with the provisions of that agreement.  
@@ -911,7 +911,7 @@ The coastal State shall have the exclusive right to authorize and regulate drill
 
 ####Delimitation of the continental shelf between States with opposite or adjacent coasts
 
-1.  The delimitation of the continental shelf between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in [Article 38 of the Statute of the International Court of Justice](../../../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), in order to achieve an equitable solution.   
+1.  The delimitation of the continental shelf between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in Article 38 of the Statute of the International Court of Justice, in order to achieve an equitable solution.   
 2.  If no agreement can be reached within a reasonable period of time, the States concerned shall resort to the procedures provided for in Part XV.   
 3.  Pending agreement as provided for in paragraph 1, the States concerned, in a spirit of understanding and co-operation, shall make every effort to enter into provisional arrangements of a practical nature and, during this transitional period, not to jeopardize or hamper the reaching of the final agreement. Such arrangements shall be without prejudice to the final delimitation.   
 4.  Where there is an agreement in force between the States concerned, questions relating to the delimitation of the continental shelf shall be determined in accordance with the provisions of that agreement.  
@@ -1425,7 +1425,7 @@ The Area and its resources are the common heritage of mankind.
 
 ####General conduct of States in relation to the Area
 
-The general conduct of States in relation to the Area shall be in accordance with the provisions of this Part, the principles embodied in the [Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) and other rules of international law in the interests of maintaining peace and security and promoting international co-operation and mutual understanding. 
+The general conduct of States in relation to the Area shall be in accordance with the provisions of this Part, the principles embodied in the Charter of the United Nations and other rules of international law in the interests of maintaining peace and security and promoting international co-operation and mutual understanding. 
 
 ### Article  139  
 
@@ -3068,7 +3068,7 @@ The competent international organizations referred to in this Part and in Part X
 
 ####Obligation to settle disputes by peaceful means
 
-States Parties shall settle any dispute between them concerning the interpretation or application of this Convention by peaceful means in accordance with [Article 2, paragraph 3, of the Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) and, to this end, shall seek a solution by the means indicated in [Article 33, paragraph 1, of the Charter](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
+States Parties shall settle any dispute between them concerning the interpretation or application of this Convention by peaceful means in accordance with Article 2, paragraph 3, of the Charter of the United Nations and, to this end, shall seek a solution by the means indicated in Article 33, paragraph 1, of the Charter. 
 
 ### Article  280  
 
@@ -3270,7 +3270,7 @@ Any dispute between States Parties concerning the interpretation or application 
 
 (b) disputes concerning military activities, including military activities by government vessels and aircraft engaged in non-commercial service, and disputes concerning law enforcement activities in regard to the exercise of sovereign rights or jurisdiction excluded from the jurisdiction of a court or tribunal under article 297, paragraph 2 or 3;  
 
-(c) disputes in respect of which the Security Council of the United Nations is exercising the functions assigned to it by the [Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), unless the Security Council decides to remove the matter from its agenda or calls upon the parties to settle it by the means provided for in this Convention.     
+(c) disputes in respect of which the Security Council of the United Nations is exercising the functions assigned to it by the Charter of the United Nations, unless the Security Council decides to remove the matter from its agenda or calls upon the parties to settle it by the means provided for in this Convention.     
 2.  A State Party which has made a declaration under paragraph 1 may at any time withdraw it, or agree to submit a dispute excluded by such declaration to any procedure specified in this Convention.   
 3.  A State Party which has made a declaration under paragraph 1 shall not be entitled to submit any dispute falling within the excepted category of disputes to any procedure in this Convention as against another State Party, without the consent of that party.   
 4.  If one of the States Parties has made a declaration under paragraph l(a), any other State Party may submit any dispute falling within an excepted category against the declarant party to the procedure specified in such declaration.   
@@ -3298,7 +3298,7 @@ States Parties shall fulfil in good faith the obligations assumed under this Con
 
 ####Peaceful uses of the seas
 
-In exercising their rights and performing their duties under this Convention, States Parties shall refrain from any threat or use of force against the territorial integrity or political independence of any State, or in any other manner inconsistent with the principles of international law embodied in the [Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
+In exercising their rights and performing their duties under this Convention, States Parties shall refrain from any threat or use of force against the territorial integrity or political independence of any State, or in any other manner inconsistent with the principles of international law embodied in the Charter of the United Nations. 
 
 ### Article  302  
 
@@ -5165,7 +5165,7 @@ Nothing in this resolution shall derogate from Annex III, article 6, paragraph 3
 
 ### Resolution   III  
 
-The Third United Nations Conference on the Law of the Sea, Having regard to the Convention on the Law of the Sea, Bearing in mind the [Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), in particular [Article 73](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), 
+The Third United Nations Conference on the Law of the Sea, Having regard to the Convention on the Law of the Sea, Bearing in mind the Charter of the United Nations, in particular Article 73, 
 
 1. Declares that: 
 
@@ -5181,7 +5181,7 @@ The Third United Nations Conference on the Law of the Sea, Bearing in mind that 
 
 ####Verdrag van de Verenigde Naties inzake het recht van de zee
 
-De Staten die Partij zijn bij dit Verdrag, Geleid door de wens om in een geest van wederzijds begrip en wederzijdse samenwerking alle problemen met betrekking tot het recht van de zee te regelen, en zich bewust van de historische betekenis van dit Verdrag als een belangrijke bijdrage tot de handhaving van vrede, gerechtigheid en vooruitgang voor alle volkeren van de wereld, Vaststellend dat de ontwikkelingen, die zich hebben voorgedaan sinds de Conferenties van de Verenigde Naties inzake het recht van de zee, gehouden te Genève in 1958 en 1960, de noodzaak hebben beklemtoond van de totstandkoming van een nieuw en algemeen aanvaardbaar Verdrag inzake het recht van de zee, Zich ervan bewust dat de problemen van de oceanen nauw met elkaar zijn verbonden en als een geheel dienen te worden beschouwd, Erkennend dat het wenselijk is om door middel van dit Verdrag, met inachtneming van de soevereiniteit van alle staten, een rechtsorde voor de zeeën en oceanen in te stellen, die de internationale verbindingen vergemakkelijkt en het vreedzame gebruik van de zeeën en oceanen, het rechtvaardige en doelmatige gebruik van de rijkdommen ervan en de instandhouding van de levende rijkdommen ervan alsmede de studie, de bescherming en het behoud van het mariene milieu bevordert, Indachtig het feit dat de verwezenlijking van deze doeleinden zal bijdragen tot de totstandkoning van een billijke en rechtvaardige internationale economische orde die rekening houdt met de belangen en behoeften van de gehele mensheid en in het bijzonder met de specifieke belangen en behoeften van de ontwikkelingslanden, of deze nu aan zee grenzen of door land worden omsloten, Verlangend door middel van dit Verdrag de beginselen nader tot ontwikkeling te brengen die zijn neergelegd in resolutie 2749 (XXV) van 17 december 1970, waarin de Algemene Vergadering van de Verenigde Naties onder andere plechtig heeft verklaard, dat het gebied van de zee- en oceaanbodem en de ondergrond ervan voorbij de grenzen van de nationale rechtsmacht alsmede de rijkdommen ervan, het gemeenschappelijk erfdeel van de mensheid zijn, waarvan de exploratie en exploitatie zullen worden uitgevoerd ten bate van de gehele mensheid, zonder rekening te houden met de geografische ligging van de Staten, Van oordeel zijnde dat de codificatie en de geleidelijke ontwikkeling van het recht van de zee, die in dit Verdrag zijn bereikt, zullen bijdragen tot de versterking van de vrede, de veiligheid, de samenwerking en de vriendschappelijke betrekkingen tussen alle naties in overeenstemming met de beginselen van rechtvaardigheid en gelijke rechten, en de economische en sociale vooruitgang zullen bevorderen van alle volkeren van de wereld, zulks overeenkomstig de doeleinden en beginselen van de Verenigde Naties, zoals deze zijn vervat in het [Handvest](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), Bevestigend dat de aangelegenheden die niet door dit Verdrag worden geregeld, beheerst zullen blijven door de regels en de beginselen van het algemene internationale recht,  Zijn overeengekomen als volgt:   
+De Staten die Partij zijn bij dit Verdrag, Geleid door de wens om in een geest van wederzijds begrip en wederzijdse samenwerking alle problemen met betrekking tot het recht van de zee te regelen, en zich bewust van de historische betekenis van dit Verdrag als een belangrijke bijdrage tot de handhaving van vrede, gerechtigheid en vooruitgang voor alle volkeren van de wereld, Vaststellend dat de ontwikkelingen, die zich hebben voorgedaan sinds de Conferenties van de Verenigde Naties inzake het recht van de zee, gehouden te Genève in 1958 en 1960, de noodzaak hebben beklemtoond van de totstandkoming van een nieuw en algemeen aanvaardbaar Verdrag inzake het recht van de zee, Zich ervan bewust dat de problemen van de oceanen nauw met elkaar zijn verbonden en als een geheel dienen te worden beschouwd, Erkennend dat het wenselijk is om door middel van dit Verdrag, met inachtneming van de soevereiniteit van alle staten, een rechtsorde voor de zeeën en oceanen in te stellen, die de internationale verbindingen vergemakkelijkt en het vreedzame gebruik van de zeeën en oceanen, het rechtvaardige en doelmatige gebruik van de rijkdommen ervan en de instandhouding van de levende rijkdommen ervan alsmede de studie, de bescherming en het behoud van het mariene milieu bevordert, Indachtig het feit dat de verwezenlijking van deze doeleinden zal bijdragen tot de totstandkoning van een billijke en rechtvaardige internationale economische orde die rekening houdt met de belangen en behoeften van de gehele mensheid en in het bijzonder met de specifieke belangen en behoeften van de ontwikkelingslanden, of deze nu aan zee grenzen of door land worden omsloten, Verlangend door middel van dit Verdrag de beginselen nader tot ontwikkeling te brengen die zijn neergelegd in resolutie 2749 (XXV) van 17 december 1970, waarin de Algemene Vergadering van de Verenigde Naties onder andere plechtig heeft verklaard, dat het gebied van de zee- en oceaanbodem en de ondergrond ervan voorbij de grenzen van de nationale rechtsmacht alsmede de rijkdommen ervan, het gemeenschappelijk erfdeel van de mensheid zijn, waarvan de exploratie en exploitatie zullen worden uitgevoerd ten bate van de gehele mensheid, zonder rekening te houden met de geografische ligging van de Staten, Van oordeel zijnde dat de codificatie en de geleidelijke ontwikkeling van het recht van de zee, die in dit Verdrag zijn bereikt, zullen bijdragen tot de versterking van de vrede, de veiligheid, de samenwerking en de vriendschappelijke betrekkingen tussen alle naties in overeenstemming met de beginselen van rechtvaardigheid en gelijke rechten, en de economische en sociale vooruitgang zullen bevorderen van alle volkeren van de wereld, zulks overeenkomstig de doeleinden en beginselen van de Verenigde Naties, zoals deze zijn vervat in het Handvest, Bevestigend dat de aangelegenheden die niet door dit Verdrag worden geregeld, beheerst zullen blijven door de regels en de beginselen van het algemene internationale recht,  Zijn overeengekomen als volgt:   
 ### DEEL  I  
 
 ####INLEIDING
@@ -5604,14 +5604,14 @@ Deze afdeling is van toepassing op zeestraten die voor de internationale scheepv
 
 a. zonder verwijl door of over de zeestraat te gaan;  
 
-b. zich te onthouden van bedreiging met of gebruik van geweld tegen de soevereiniteit, territoriale integriteit of politieke onafhankelijkheid van aan de zeestraat grenzende Staten of van enigerlei andere handelwijze die in strijd is met de beginselen van het internationale recht vervat in het [Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md);  
+b. zich te onthouden van bedreiging met of gebruik van geweld tegen de soevereiniteit, territoriale integriteit of politieke onafhankelijkheid van aan de zeestraat grenzende Staten of van enigerlei andere handelwijze die in strijd is met de beginselen van het internationale recht vervat in het Handvest van de Verenigde Naties;  
 
 c. zich te onthouden van andere activiteiten dan die welke behoren bij een normale ononderbroken en snelle doortocht, tenzij zulks noodzakelijk is wegens overmacht of het verkeren in nood;  
 
 d. andere ter zake dienende bepalingen van dit Deel na te komen,     
 2.  Schepen in doortocht dienen: 
 
-a. te voldoen aan algemeen aanvaarde internationale voorschriften, procedures en praktijken voor de veiligheid op zee, met inbegrip van de [Internationale Voorschriften ter voorkoming van aanvaringen op zee](../../../../../../../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md);  
+a. te voldoen aan algemeen aanvaarde internationale voorschriften, procedures en praktijken voor de veiligheid op zee, met inbegrip van de Internationale Voorschriften ter voorkoming van aanvaringen op zee;  
 
 b. te voldoen aan algemeen aanvaarde internationale voorschriften, procedures en praktijken ter voorkoming, vermindering en bestrijding van verontreiniging door schepen.     
 3.  Luchtvaartuigen in doortocht dienen: 
@@ -5998,7 +5998,7 @@ De bepalingen van de artikelen 69 en 70 zijn niet van toepassing in het geval va
 
 ####Afbakening van de exclusieve economische zone tussen Staten met tegenover elkaar liggende of aan elkaar grenzende kusten
 
-1.  De afbakening van de exclusieve economische zone tussen Staten met tegenover elkaar liggende of aan elkaar grenzende kusten geschiedt bij overeenkomst op basis van het internationale recht, zoals bedoeld in [artikel 38 van het Statuut van het Internationaal Gerechtshof](../../../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), ten einde een billijke oplossing te bereiken.   
+1.  De afbakening van de exclusieve economische zone tussen Staten met tegenover elkaar liggende of aan elkaar grenzende kusten geschiedt bij overeenkomst op basis van het internationale recht, zoals bedoeld in artikel 38 van het Statuut van het Internationaal Gerechtshof, ten einde een billijke oplossing te bereiken.   
 2.  Indien niet binnen een redelijke termijn een overeenkomst tot stand komt, maken de betrokken Staten gebruik van de procedures, bepaald in Deel XV.   
 3.  In afwachting van de totstandkoming van een overeenkomst zoals bepaald in het eerste lid stellen de betrokken Staten in een geest van onderling begrip en samenwerking, alles in het werk om voorlopige regelingen van praktische aard aan te gaan en tijdens deze overgangsperiode de totstandkoming van een definitieve overeenkomst niet in gevaar te brengen of te belemmeren. Zodanige regelingen laten de definitieve afbakening onverlet.   
 4.  Wanneer er een overeenkomst tussen de betrokken Staten van kracht is, worden vraagstukken betreffende de afbakening van de exclusieve economische zone opgelost overeenkomstig de bepalingen van die overeenkomst.  
@@ -6088,7 +6088,7 @@ De kuststaat bezit het exclusieve recht machtiging te verlenen tot het boren op 
 
 ####Afbakening van het continentale plat tussen Staten met tegenover elkaar liggende of aan elkaar grenzende kusten
 
-1.  De afbakening van het continentale plat tussen Staten met tegenover elkaar liggende of aan elkaar grenzende kusten geschiedt bij overeenkomst op basis van het internationaal recht, zoals bedoeld in [artikel 38 van het Statuut van het Internationaal Gerechtshof](../../../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md) ten einde een billijke oplossing te bereiken.   
+1.  De afbakening van het continentale plat tussen Staten met tegenover elkaar liggende of aan elkaar grenzende kusten geschiedt bij overeenkomst op basis van het internationaal recht, zoals bedoeld in artikel 38 van het Statuut van het Internationaal Gerechtshof ten einde een billijke oplossing te bereiken.   
 2.  Indien niet binnen een redelijke termijn een overeenkomst tot stand komt, maken de betrokken Staten gebruik van de procedures bepaald in deel XV.   
 3.  In afwachting van de totstandkoming van een overeenkomst zoals bepaald in het eerste lid stellen de betrokken Staten in een geest van wederzijds begrip en samenwerking, alles in het werk om voorlopige overeenkomsten van praktische aard aan te gaan en tijdens deze overgangsperiode de totstandkoming van een definitieve overeenkomst niet te verstoren of te belemmeren. Zodanige regelingen laten de definitieve afbakening onverlet.   
 4.  Wanneer er een overeenkomst tussen de betrokken Staten van kracht is, worden vraagstukken betreffende de afbakening van het continentale plat opgelost overeenkomstig de bepalingen van die overeenkomst.  
@@ -6602,7 +6602,7 @@ Het Gebied en zijn rijkdommen zijn het gemeenschappelijk erfdeel van de mensheid
 
 ####Algemeen gedrag van Staten met betrekking tot het Gebied
 
-Het algemeen gedrag van Staten met betrekking tot het Gebied dient in overeenstemming te zijn met de bepalingen van dit Deel, de beginselen vervat in het [Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) en andere regels van het internationale recht in het belang van de handhaving van vrede en veiligheid en de bevordering van internationale samenwerking en wederzijds begrip. 
+Het algemeen gedrag van Staten met betrekking tot het Gebied dient in overeenstemming te zijn met de bepalingen van dit Deel, de beginselen vervat in het Handvest van de Verenigde Naties en andere regels van het internationale recht in het belang van de handhaving van vrede en veiligheid en de bevordering van internationale samenwerking en wederzijds begrip. 
 
 ### Artikel  139  
 
@@ -8245,7 +8245,7 @@ De bevoegde internationale organisaties, bedoeld in dit Deel en in Deel XIII nem
 
 ####Verplichting geschillen langs vreedzame weg te regelen
 
-De Staten die Partij zijn, regelen elk geschil tussen hen betreffende de uitlegging of toepassing van dit Verdrag langs vreedzame weg in overeenstemming met [artikel 2, derde lid, van het Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) en zoeken te dien einde een oplossing ervan met de middelen als aangegeven in [artikel 33, eerste lid, van het Handvest](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
+De Staten die Partij zijn, regelen elk geschil tussen hen betreffende de uitlegging of toepassing van dit Verdrag langs vreedzame weg in overeenstemming met artikel 2, derde lid, van het Handvest van de Verenigde Naties en zoeken te dien einde een oplossing ervan met de middelen als aangegeven in artikel 33, eerste lid, van het Handvest. 
 
 ### Artikel  280  
 
@@ -8447,7 +8447,7 @@ a.
 
 b. geschillen betreffende militaire activiteiten, met inbegrip van militaire activiteiten van staatsschepen en staatsluchtvaartuigen die voor andere dan commerciële doeleinden worden gebruikt, en geschillen betreffende daden van rechtshandhaving met betrekking tot soevereine rechten of jurisdictie, welke zijn uitgesloten van de rechtsmacht van een hof of scheidsgerecht krachtens artikel 297, tweede of derde lid;  
 
-c. geschillen met betrekking waartoe de Veiligheidsraad van de Verenigde Naties de functies uitoefent die deze door het [Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) zijn opgedragen, tenzij de Veiligheidsraad besluit de zaak van de agenda te schrappen of de partijen verzoekt de zaak te regelen door de in dit Verdrag voorziene middelen.     
+c. geschillen met betrekking waartoe de Veiligheidsraad van de Verenigde Naties de functies uitoefent die deze door het Handvest van de Verenigde Naties zijn opgedragen, tenzij de Veiligheidsraad besluit de zaak van de agenda te schrappen of de partijen verzoekt de zaak te regelen door de in dit Verdrag voorziene middelen.     
 2.  Een Staat die Partij is, die een verklaring ingevolge het eerste lid heeft afgelegd, kan deze op ieder tijdstip intrekken of instemmen met de onderwerping van een geschil, dat door een dergelijke verklaring is uitgesloten, aan elke in dit Verdrag bedoelde procedure.   
 3.  Een Staat die Partij is, die een verklaring ingevolge het eerste lid heeft afgelegd is niet bevoegd een geschil dat onder een uitgesloten groep geschillen valt te onderwerpen aan enige in dit Verdrag bedoelde procedure zonder de toestemming van de Staat die Partij is waarmee hij het geschil heeft.   
 4.  Indien een van de Staten die Partij zijn een verklaring ingevolge het eerste lid, letter a, heeft afgelegd, kan elke andere Staat die Partij is een geschil dat onder een uitgesloten groep geschillen valt en dat deze met de verklarende partij heeft, onderwerpen aan de in die verklaring genoemde procedure.   
@@ -8475,7 +8475,7 @@ De Staten die Partij zijn, komen te goeder trouw de verplichtingen na die zij op
 
 ####Vreedzaam gebruik van de zee
 
-Bij de uitoefening van hun rechten en de nakoming van hun plichten op grond van dit Verdrag onthouden de Staten die Partij zijn zich van elke bedreiging met of elk gebruik van geweld tegen de territoriale integriteit of politieke onafhankelijkheid van enige Staat, en van enigerlei andere handelwijze die onverenigbaar is met de beginselen van het internationale recht, neergelegd in het [Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
+Bij de uitoefening van hun rechten en de nakoming van hun plichten op grond van dit Verdrag onthouden de Staten die Partij zijn zich van elke bedreiging met of elk gebruik van geweld tegen de territoriale integriteit of politieke onafhankelijkheid van enige Staat, en van enigerlei andere handelwijze die onverenigbaar is met de beginselen van het internationale recht, neergelegd in het Handvest van de Verenigde Naties. 
 
 ### Artikel  302  
 

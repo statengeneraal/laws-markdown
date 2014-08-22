@@ -12,17 +12,17 @@ In deze regeling wordt verstaan onder:minister:Minister van Landbouw, Natuur en 
 
 ### Artikel  2  
 
-1.  Voor de afgifte en wijziging van een ontheffing als bedoeld in [artikel 75, derde lid, van de wet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt door de minister aan de aanvrager de volgende vergoeding in rekening gebracht: 
+1.  Voor de afgifte en wijziging van een ontheffing als bedoeld in artikel 75, derde lid, van de wet wordt door de minister aan de aanvrager de volgende vergoeding in rekening gebracht: 
 
 a. € 60,–, indien de ontheffing voor de duur van maximaal één jaar wordt verleend;  
 
 b. € 100,– indien de ontheffing voor de duur van meer dan één jaar wordt verleend.    
-2.  In afwijking van het bepaalde in het eerste lid wordt door de minister aan de aanvrager voor de afgifte en wijziging van een ontheffing als bedoeld in [artikel 75, derde lid, van de wet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) een vergoeding van € 300,– in rekening gebracht, indien de ontheffing wordt verleend met het oog op belangen als bedoeld in [artikel 2, derde lid, onderdelen e en h tot en met j, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md).  
-3.  In afwijking van het bepaalde in het eerste lid wordt door de minister aan de aanvrager voor de afgifte en wijziging van een ontheffing als bedoeld in [artikel 75, derde lid, van de wet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) een vergoeding van € 15,– in rekening gebracht, indien er een ontheffing voor levende dieren wordt verleend van uitsluitend [artikel 13 van de wet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md). 
+2.  In afwijking van het bepaalde in het eerste lid wordt door de minister aan de aanvrager voor de afgifte en wijziging van een ontheffing als bedoeld in artikel 75, derde lid, van de wet een vergoeding van € 300,– in rekening gebracht, indien de ontheffing wordt verleend met het oog op belangen als bedoeld in artikel 2, derde lid, onderdelen e en h tot en met j, van het Besluit vrijstelling beschermde dier- en plantensoorten.  
+3.  In afwijking van het bepaalde in het eerste lid wordt door de minister aan de aanvrager voor de afgifte en wijziging van een ontheffing als bedoeld in artikel 75, derde lid, van de wet een vergoeding van € 15,– in rekening gebracht, indien er een ontheffing voor levende dieren wordt verleend van uitsluitend artikel 13 van de wet. 
 
 ###Artikel 3 
 
-Voor de afgifte van een vergunning als bedoeld in de [artikelen 62, eerste lid, van de wet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), wordt door de minister aan de aanvrager een vergoeding van kosten in rekening gebracht ten bedrage van € 60,-. 
+Voor de afgifte van een vergunning als bedoeld in de artikelen 62, eerste lid, van de wet, wordt door de minister aan de aanvrager een vergoeding van kosten in rekening gebracht ten bedrage van € 60,-. 
 
 ###Artikel 4 
 
@@ -40,7 +40,7 @@ e. een certificaat als bedoeld in de artikelen 8, derde lid, en 9, tweede lid, o
 
 f. een certificaat als bedoeld in artikel 30 van de uitvoeringsverordening: € 60,-;
 
-g. een door de minister afgegeven verklaring als bedoeld in [artikel 12, derde lid](../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md), of [artikel 14, derde lid, van de Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md): € 15,-.
+g. een door de minister afgegeven verklaring als bedoeld in artikel 12, derde lid, of artikel 14, derde lid, van de Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet: € 15,-.
 
 ### Artikel  5  
 
@@ -55,6 +55,11 @@ b.  de aanvrager niet schriftelijk op de hoogte is gesteld van de vertraging.
 ### Artikel  6  
 
 Indien ter uitvoering van een door de minister op grond van artikel 112 van de wet genomen besluit een ontheffing of document benodigd is, kan de minister in afwijking van de artikelen 2 en 4 van deze regeling bepalen dat geen vergoeding van kosten in rekening wordt gebracht.  
+
+### Artikel  6a  
+Treedt in werking per 01-10-2014 
+
+Voor de behandeling van een aanvraag voor een tegemoetkoming als bedoeld in artikel 84, eerste lid, van de Flora- en faunawet, vraagt het Faunafonds aan de aanvrager een vergoeding van kosten ten bedrage van € 300,–. 
 
 ### Artikel  7  
 
