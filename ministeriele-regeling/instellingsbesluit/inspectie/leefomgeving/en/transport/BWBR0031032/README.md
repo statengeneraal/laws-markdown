@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Infrastructuur en Milieu van 13 december 2011, nr. IENM/IVW-2011/14993, houdende de instelling van de Inspectie Leefomgeving en Transport (Instellingsbesluit Inspectie Leefomgeving en Transport)
 
 De minister van Infrastructuur en Milieu,  
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
+Gelet op artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;
 Besluit:    
 
 ### Artikel  1  
@@ -26,7 +26,9 @@ c. het verrichten van ongevalonderzoek verband houdende met de taken genoemd in 
 
 a. het toetsen van de uitvoerbaarheid en handhaafbaarheid van alle beleidsnota’s en nieuwe wet- en regelgeving, die voor de uitvoering van de taken genoemd in het eerste lid, onderdelen a tot en met c, van belang zijn;  
 
-b. het geven van signalen over de naleving van wet- en regelgeving die betrekking kunnen hebben op wenselijke wijzigingen van de wetgeving.     
+b. het geven van signalen over de naleving van wet- en regelgeving die betrekking kunnen hebben op wenselijke wijzigingen van de wetgeving;  
+
+c. de taken van de bevoegde autoriteit, bedoeld in Verordening (EG) nr. 216/2008 van het Europees parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en nadien gewijzigd, en de verordeningen die zijn vastgesteld krachtens voornoemde Verordening, tenzij deze taken bij of krachtens wettelijk voorschrift elders zijn belegd.    
 3.  Onverminderd het bepaalde in het eerste en het tweede lid kan de Inspectie Leefomgeving en Transport specifieke taken uitvoeren die voortvloeien uit verdragsrechtelijke verplichtingen of Europese regelgeving, waaronder: 
 
 a. de taken van de veiligheidsinstantie, bedoeld in artikel 3, onderdeel g, van richtlijn nr. 2004/49/EG, van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (Spoorwegveiligheidsrichtlijn) (PbEG L 164);  
@@ -47,9 +49,9 @@ De Inspectie Leefomgeving en Transport stelt jaarlijks een meerjarenplan en een 
 
 De volgende besluiten worden ingetrokken: 
 
-a. het [Instellingsbesluit Inspectie Verkeer en Waterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/inspectie/verkeer/en/waterstaat/BWBR0012546/README.md);  
+a. het Instellingsbesluit Inspectie Verkeer en Waterstaat;  
 
-b. de [Regeling Inspectie Verkeer en Waterstaat 2002](../../../../../../../ministeriele-regeling/regeling/inspectie/verkeer/en/waterstaat/2002/BWBR0013627/README.md).   
+b. de Regeling Inspectie Verkeer en Waterstaat 2002.   
 
 ### Artikel  6  
 

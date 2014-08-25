@@ -238,8 +238,9 @@ b) request such information only where it is necessary for the purpose of detect
 
 c) not unreasonably withhold information;  
 
-d) answer the information requests in relation to paragraph 4, in accordance with its national law; and     
-e).  protect and treat as confidential, as mutually agreed, any information that is exchanged.   
+d) answer the information requests in relation to paragraph 4, in accordance with its national law; and  
+
+e)protect and treat as confidential, as mutually agreed, any information that is exchanged.   
 10.  Each Party shall require the further development and expansion of the scope of the applicable tracking and tracing system up to the point that all duties, relevant taxes, and where appropriate, other obligations have been discharged at the point of manufacture, import or release from customs or excise control.   
 11.  Parties shall cooperate with each other and with competent international organizations, as mutually agreed, in sharing and developing best practices for tracking and tracing systems including: 
 

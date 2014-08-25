@@ -22,9 +22,9 @@ For the purposes of this Act:
 
 (ii) “this Act” means the Hague Agreement as established by the present Act;  
 
-(iii) “Regulations” means the Regulations under this Act;   
+(iii) “Regulations” means the Regulations under this Act; 
 
-(iv) “prescribed” means prescribed in the Regulations;   
+(iv) “prescribed” means prescribed in the Regulations;  
 
 (v) “Paris Convention” means the Paris Convention for the Protection of Industrial Property, signed at Paris on March 20, 1883, as revised and amended;  
 
@@ -52,7 +52,7 @@ For the purposes of this Act:
 
 (xvii)  “Examining Office” means an Office which *ex officio* examines applications filed with it for the protection of industrial designs at least to determine whether the industrial designs satisfy the condition of novelty;   
 
-(xviii) “designation” means a request that an international registration have effect in a Contracting Party; it also means the recording, in the International Register, of that request;   
+(xviii) “designation” means a request that an international registration have effect in a Contracting Party; it also means the recording, in the International Register, of that request;  
 
 (xix) “designated Contracting Party” and “designated Office” means the Contracting Party and the Office of the Contracting Party, respectively, to which a designation applies;  
 
@@ -74,7 +74,7 @@ For the purposes of this Act:
 
 (xxviii) “International Bureau” means the International Bureau of the Organization;  
 
-(xxix) “instrument of ratification” shall be construed as including instruments of acceptance or approval.   
+(xxix) “instrument of ratification” shall be construed as including instruments of acceptance or approval.  
 
 ### Article  2  
 
@@ -135,7 +135,7 @@ Treedt in werking op een nader te bepalen tijdstip
 (vii) any other prescribed particulars.     
 2.   [*Additional Mandatory Contents of the International Application*]  
 
-(a) Any Contracting Party whose Office is an Examining Office and whose law, at the time it becomes party to this Act, requires that an application for the grant of protection to an industrial design contain any of the elements specified in subparagraph (b) in order for that application to be accorded a filing date under that law may, in a declaration, notify the Director General of those elements.    
+(a) Any Contracting Party whose Office is an Examining Office and whose law, at the time it becomes party to this Act, requires that an application for the grant of protection to an industrial design contain any of the elements specified in subparagraph (b) in order for that application to be accorded a filing date under that law may, in a declaration, notify the Director General of those elements.  
 
 (b) The elements that may be notified pursuant to subparagraph (a) are the following: 
 
@@ -228,7 +228,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.   [*Provisions of Laws of Contracting Parties Concerning Deferment of Publication*]  
 
-(a) Where the law of a Contracting Party provides for the deferment of the publication of an industrial design for a period which is less than the prescribed period, that Contracting Party shall, in a declaration, notify the Director General of the allowable period of deferment.    
+(a) Where the law of a Contracting Party provides for the deferment of the publication of an industrial design for a period which is less than the prescribed period, that Contracting Party shall, in a declaration, notify the Director General of the allowable period of deferment.  
 
 (b) Where the law of a Contracting Party does not provide for the deferment of the publication of an industrial design, the Contracting Party shall, in a declaration, notify the Director General of that fact.    
 2.   [*Deferment of Publication*] Where the international application contains a request for deferment of publication, the publication shall take place,  
@@ -243,7 +243,7 @@ Treedt in werking op een nader te bepalen tijdstip
 (ii) where, instead of containing reproductions of the industrial design, the international application was accompanied by specimens of the industrial design, the International Bureau shall disregard the designation of the said Contracting Party and shall notify the applicant accordingly.     
 4.   [*Request for Earlier Publication or for Special Access to the International Registration*]  
 
-(a) At any time during the period of deferment applicable under paragraph (2), the holder may request publication of any or all of the industrial designs that are the subject of the international registration, in which case the period of deferment in respect of such industrial design or designs shall be considered to have expired on the date of receipt of such request by the International Bureau.    
+(a) At any time during the period of deferment applicable under paragraph (2), the holder may request publication of any or all of the industrial designs that are the subject of the international registration, in which case the period of deferment in respect of such industrial design or designs shall be considered to have expired on the date of receipt of such request by the International Bureau.  
 
 (b) The holder may also, at any time during the period of deferment applicable under paragraph (2), request the International Bureau to provide a third party specified by the holder with an extract from, or to allow such a party access to, any or all of the industrial designs that are the subject of the international registration.    
 5.   [*Renunciation and Limitation*]  
@@ -638,7 +638,7 @@ Treedt in werking op een nader te bepalen tijdstip
 1.   [*Instruments to Be Taken into Consideration*] For the purposes of this Article, only instruments of ratification or accession that are deposited by States or intergovernmental organizations referred to in Article 27(1) and that have an effective date according to Article 27(3) shall be taken into consideration.    
 2.   [*Entry into Force of This Act*] This Act shall enter into force three months after six States have deposited their instruments of ratification or accession, provided that, according to the most recent annual statistics collected by the International Bureau, at least three of those States fulfill at least one of the following conditions:  
 
-(i) at least 3,000 applications for the protection of industrial designs have been filed in or for the State concerned, or    
+(i) at least 3,000 applications for the protection of industrial designs have been filed in or for the State concerned, or  
 
 (ii) at least 1,000 applications for the protection of industrial designs have been filed in or for the State concerned by residents of States other than that State.    
 3.   [*Entry into Force of Ratifications and Accessions*]  
@@ -767,7 +767,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 (a) The applicant or the holder may have a representative before the International Bureau.  
 
-(b) Only one representative may be appointed in respect of a given international application or international registration. Where the appointment indicates several representatives, only the one indicated first shall be considered to be a representative and be recorded as such.    
+(b) Only one representative may be appointed in respect of a given international application or international registration. Where the appointment indicates several representatives, only the one indicated first shall be considered to be a representative and be recorded as such.  
 
 (c) Where a partnership or firm composed of attorneys or patent or trademark agents has been indicated as representative to the International Bureau, it shall be regarded as one representative.    
 2.   [*Appointment of the Representative*]  
@@ -2654,7 +2654,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  [*Indiening van het verzoek*] a. Een verzoek tot aantekening dient bij het Internationaal Bureau te worden ingediend op het desbetreffende officiële formulier wanneer dit verzoek betrekking heeft op: 
+1.  [*Indiening van het verzoek*] 
+
+a.Een verzoek tot aantekening dient bij het Internationaal Bureau te worden ingediend op het desbetreffende officiële formulier wanneer dit verzoek betrekking heeft op: 
 
 i. een wijziging in de eigendom van de internationale inschrijving voor het geheel of een gedeelte van de tekeningen of modellen van nijverheid die het onderwerp zijn van de internationale inschrijving;  
 
@@ -2662,13 +2664,13 @@ ii. een wijziging van de naam of van het adres van de houder;
 
 iii. een afstand van een internationale inschrijving ten aanzien van een, meerdere of alle aangewezen Verdragsluitende Partijen;  
 
-iv. een beperking ten aanzien van een, meerdere of alle aangewezen Verdragsluitende Partijen, met betrekking tot alle of een deel van de tekeningen of modellen van nijverheid die het onderwerp zijn van de internationale inschrijving.   
+iv. een beperking ten aanzien van een, meerdere of alle aangewezen Verdragsluitende Partijen, met betrekking tot alle of een deel van de tekeningen of modellen van nijverheid die het onderwerp zijn van de internationale inschrijving.  
 
 b. Het verzoek dient te worden ingediend en ondertekend door de houder; een verzoek tot inschrijving van een wijziging in de eigendom kan evenwel worden ingediend door de nieuwe eigenaar, mits dit verzoek: 
 
 i. door de houder is ondertekend; of  
 
-ii. is ondertekend door de nieuwe eigenaar en vergezeld gaat van een door de bevoegde autoriteit van de Verdragsluitende Partij van de houder opgestelde verklaring dat de nieuwe eigenaar de rechtsverkrijgende lijkt te zijn van de houder.       
+ii. is ondertekend door de nieuwe eigenaar en vergezeld gaat van een door de bevoegde autoriteit van de Verdragsluitende Partij van de houder opgestelde verklaring dat de nieuwe eigenaar de rechtsverkrijgende lijkt te zijn van de houder.      
 2.  [*Inhoud van het verzoek*] Het verzoek tot aantekening van een wijziging dient, naast de gevraagde wijziging, de volgende gegevens te bevatten of te vermelden: 
 
 i. het nummer van de desbetreffende internationale inschrijving;  

@@ -48,7 +48,7 @@ g. EU-douaneregeling: de EU-regelingen met betrekking tot douanevervoer, entrepo
 
 h. schorsing van belasting: het stelsel waarin van goederen die worden vervaardigd, worden verwerkt, voorhanden zijn of worden vervoerd, op grond van de bepalingen van deze wet de belasting nog niet is geheven;  
 
-i. ondernemer: een ondernemer in de zin van de [Wet op de omzetbelasting 1968](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
+i. ondernemer: een ondernemer in de zin van de Wet op de omzetbelasting 1968.   
 
 ### Artikel  3  
 
@@ -123,7 +123,7 @@ e. onder ambtelijk toezicht vernietigen van alcoholvrije dranken, pruimtabak of 
 
 ### Artikel  6  
 
-Onder alcoholvrije dranken worden verstaan vruchte- en groentesap, mineraalwater en limonade, ook indien zij alcohol bevatten, voor zover zij niet worden aangemerkt als bier, wijn, tussenprodukten of overige alcoholhoudende produkten in de zin van de [Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md). 
+Onder alcoholvrije dranken worden verstaan vruchte- en groentesap, mineraalwater en limonade, ook indien zij alcohol bevatten, voor zover zij niet worden aangemerkt als bier, wijn, tussenprodukten of overige alcoholhoudende produkten in de zin van de Wet op de accijns. 
 
 ### Artikel  7  
 
@@ -191,7 +191,7 @@ De belasting bedraagt voor pruimtabak en snuiftabak € 24,04 per kilogram.
 ### Artikel  14  
 
 1.  Een plaats kan alleen als inrichting worden gebruikt indien daartoe een vergunning is verstrekt door de inspecteur.   
-2.   De [artikelen 40](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [41 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.  
+2.   De artikelen 40 en 41 van de Wet op de accijns zijn van overeenkomstige toepassing.  
 
 ### Afdeling  2  
 
@@ -200,7 +200,7 @@ De belasting bedraagt voor pruimtabak en snuiftabak € 24,04 per kilogram.
 ### Artikel  15  
 
 1.  Degene die een vergunning voor een inrichting wil verkrijgen, dient daartoe een verzoek in bij de inspecteur.   
-2.   De [artikelen 42](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [43 tot en met 50 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.  
+2.   De artikelen 42 en 43 tot en met 50 van de Wet op de accijns zijn van overeenkomstige toepassing.  
 
 ### Artikel  15a  
 
@@ -246,12 +246,12 @@ In afwijking van artikel 18 wordt de belasting bij toepassing van artikel 4, eer
 
 ### Artikel  21  
 
-1.  Bij toepassing van artikel 19 dient in afwijking van [artikel 20, eerste lid](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en van [artikel 10, tweede lid](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) uiterlijk op de dag na het in artikel 19 bedoelde tijdstip aangifte te worden gedaan en de belasting op aangifte te worden voldaan.   
+1.  Bij toepassing van artikel 19 dient in afwijking van artikel 20, eerste lid, en van artikel 10, tweede lid, en artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen uiterlijk op de dag na het in artikel 19 bedoelde tijdstip aangifte te worden gedaan en de belasting op aangifte te worden voldaan.   
 2.  In afwijking van het eerste lid kan de inspecteur, bij toepassing van artikel 4, eerste lid, onderdeel a, op verzoek toestemming verlenen om de in een week op de voet van artikel 19 verschuldigd geworden belasting uiterlijk op de vrijdag van de week daaropvolgend op aangifte te voldoen.   
 
 ### Artikel  22  
 
-De [artikelen 54](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [55 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 54 en 55 van de Wet op de accijns zijn van overeenkomstige toepassing. 
 
 ### Afdeling  4  
 
@@ -260,7 +260,7 @@ De [artikelen 54](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/R
 ### Artikel  23  
 
 1.  De vergunninghouder stelt zekerheid voor de belasting die hij verschuldigd is of kan worden.   
-2.   De [artikelen 56, vijfde tot en met achtste lid](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [57](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) tot en met [60 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.  
+2.   De artikelen 56, vijfde tot en met achtste lid, en 57 tot en met 60 van de Wet op de accijns zijn van overeenkomstige toepassing.  
 
 ### Afdeling  5  
 
@@ -269,7 +269,7 @@ De [artikelen 54](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/R
 ### Artikel  24  
 
 1.  De vergunninghouder van een inrichting heeft voor de belasting die is begrepen in de verkoopprijs van de door hem geleverde alcoholvrije dranken, pruimtabak of snuiftabak, zolang hij ter zake geen betaling heeft ontvangen doch niet langer dan een half jaar nadat hij die belasting verschuldigd is geworden, voorrecht op alle goederen van de koper.   
-2.   Het voorrecht, bedoeld in het eerste lid, heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van [artikel 21 van de Invorderingswet 1990](../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).  
+2.   Het voorrecht, bedoeld in het eerste lid, heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van artikel 21 van de Invorderingswet 1990.  
 
 ### Afdeling  6  
 
@@ -285,7 +285,7 @@ De vervoerder van alcoholvrije dranken, pruimtabak of snuiftabak is hoofdelijk a
 
 ### Artikel  26  
 
-Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), met uitzondering van artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.  
+Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, met uitzondering van artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.  
 
 ### Artikel  27  
 
@@ -317,7 +317,7 @@ a. vruchte- en groentesappen waarvan de in artikel 28 aangegeven bestemming niet
 
 b. alcoholvrije dranken, pruimtabak of snuiftabak die door degene die die goederen betrekt, worden gebruikt als grondstof voor het vervaardigen van andere goederen dan alcoholvrije dranken, pruimtabak of snuiftabak.     
 2.   Om de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling te kunnen betrekken, dient degene die deze goederen betrekt in het bezit te zijn van een daartoe strekkende vergunning.   
-3.   [Artikel 65, vierde tot en met zevende lid, van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.   
+3.   Artikel 65, vierde tot en met zevende lid, van de Wet op de accijns zijn van overeenkomstige toepassing.   
 4.   Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit artikel.  
 
 ### Artikel  30  
@@ -331,7 +331,7 @@ b. aan boord van luchtvaartuigen in het verkeer van Nederland naar een andere li
 
 ### Artikel  31  
 
-De [artikelen 68](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [69 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de [artikelen 21a](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [21b van de Wet op de omzetbelasting 1968](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 68 en 69 van de Wet op de accijns en de artikelen 21a en 21b van de Wet op de omzetbelasting 1968 zijn van overeenkomstige toepassing. 
 
 ### Afdeling  2  
 
@@ -378,7 +378,7 @@ De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare besch
 ### Artikel  35  
 
 1.  Pruimtabak en snuiftabak moeten bij de uitslag en de invoer zijn voorzien van het voor het desbetreffende produkt voorgeschreven belastingzegel.   
-2.  De [artikelen 73, tweede en derde lid, tot en met 76](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [77](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [78, eerste, tweede en vierde lid](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [79 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.  
+2.  De artikelen 73, tweede en derde lid, tot en met 76, 77, 78, eerste, tweede en vierde lid, en 79 van de Wet op de accijns zijn van overeenkomstige toepassing.  
 
 ### Afdeling  2  
 
@@ -386,7 +386,7 @@ De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare besch
 
 ### Artikel  36  
 
-De [artikelen 80](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [81](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [83](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [84 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 80, 81, 83 en 84 van de Wet op de accijns zijn van overeenkomstige toepassing. 
 
 ### Afdeling  3  
 
@@ -394,7 +394,7 @@ De [artikelen 80](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/R
 
 ### Artikel  37  
 
-De [artikelen 2, vijfde, zesde, zevende en tiende lid](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [85 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 2, vijfde, zesde, zevende en tiende lid, en 85 van de Wet op de accijns zijn van overeenkomstige toepassing. 
 
 ### Artikel  38  
 
@@ -420,7 +420,7 @@ b. alcoholvrije dranken, pruimtabak of snuiftabak voorhanden te hebben die niet 
 
 ### Artikel  40  
 
-Met betrekking tot pruimtabak en snuiftabak zijn de [artikelen 93 tot en met 96 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van overeenkomstige toepassing. 
+Met betrekking tot pruimtabak en snuiftabak zijn de artikelen 93 tot en met 96 van de Wet op de accijns van overeenkomstige toepassing. 
 
 ### Afdeling  2  
 
@@ -436,7 +436,7 @@ Degene die opzettelijk alcoholvrije dranken, pruimtabak of snuiftabak waarvoor v
 
 ### Artikel  43  
 
-1.  Met betrekking tot degene die een bij artikel 40 van overeenkomstige toepassing verklaard verbod overtreedt, zijn de in [artikel 101 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) opgenomen strafbepalingen van overeenkomstige toepassing.   
+1.  Met betrekking tot degene die een bij artikel 40 van overeenkomstige toepassing verklaard verbod overtreedt, zijn de in artikel 101 van de Wet op de accijns opgenomen strafbepalingen van overeenkomstige toepassing.   
 2.   Degene die pruimtabak of snuiftabak die in strijd met de wettelijke bepalingen niet is voorzien van de voorgeschreven belastingzegels uitslaat of invoert, wordt gestraft met geldboete van de derde categorie.   
 3.   Degene die het in het tweede lid bedoelde verbod opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.  
 

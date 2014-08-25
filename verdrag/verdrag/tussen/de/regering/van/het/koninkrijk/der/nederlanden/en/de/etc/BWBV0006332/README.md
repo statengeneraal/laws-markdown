@@ -518,7 +518,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.   In een geest van nauwe samenwerking plegen de luchtvaartautoriteiten van de Verdragsluitende Partijen van tijd tot tijd overleg met elkaar teneinde te verzekeren dat de bepalingen van dit Verdrag worden uitgevoerd en naar tevredenheid worden nageleefd.   
-2.   Elk van de Verdragsluitende Partijen kan verzoeken om overleg teneinde dit Verdrag of de Bijlage daarbij te wijzigen. Dit overleg vangt aan binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere Verdragsluitende Partij, tenzij beide Verdragsluitende Partijen instemmen met een verlenging van deze termijn.  Dit overleg kan in de vorm van discussies of via correspondentie plaatshebben.  
+2.   Elk van de Verdragsluitende Partijen kan verzoeken om overleg teneinde dit Verdrag of de Bijlage daarbij te wijzigen. Dit overleg vangt aan binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere Verdragsluitende Partij, tenzij beide Verdragsluitende Partijen instemmen met een verlenging van deze termijn. Dit overleg kan in de vorm van discussies of via correspondentie plaatshebben.  
 3.   Een door de Verdragsluitende Partijen overeengekomen wijziging van dit Verdrag wordt van kracht op de datum waarop de Verdragsluitende Partijen elkaar er schriftelijk van in kennis hebben gesteld dat aan hun respectieve constitutionele vereisten is voldaan.   
 4.   Wijzigingen van de Bijlage van dit Verdrag worden schriftelijk overeengekomen tussen de luchtvaartautoriteiten en worden van kracht op een door bedoelde autoriteiten vast te stellen datum.  
 

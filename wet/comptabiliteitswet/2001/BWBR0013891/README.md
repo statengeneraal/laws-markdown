@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten.
 
-Alzo Wij in overweging genomen hebben dat het wenselijk is de [Comptabiliteitswet](../../../../wet/comptabiliteitswet/BWBR0003075/README.md) te vervangen door nieuwe wettelijke bepalingen over het beheer van de financiën van het Rijk, mede ter uitvoering van de [artikelen 78](../../../../wet/grondwet/BWBR0001840/README.md) en [105 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md);
+Alzo Wij in overweging genomen hebben dat het wenselijk is de Comptabiliteitswet te vervangen door nieuwe wettelijke bepalingen over het beheer van de financiën van het Rijk, mede ter uitvoering van de artikelen 78 en 105 van de Grondwet;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan gelijk Wij goedvinden en verstaan bij deze.     
 ### Hoofdstuk  1  
 
@@ -177,7 +177,7 @@ h. de uitgaven en ontvangsten van het personeel en het materieel met betrekking 
 ### Artikel  9a  
 
 1.  In afwijking van artikel 1, eerste lid, onder i, artikel 1, tweede en derde lid, en artikel 12, eerste lid, kan vanaf het begrotingsjaar 2012 worden afgezien van het indienen van een voorstel van wet tot vaststelling van de begrotingsstaat van het Fonds economische structuurversterking.   
-2.  Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de [artikelen 2](../../../../wet/wet/fonds/economische/structuurversterking/BWBR0007788/README.md) en [3 van de Wet Fonds economische structuurversterking](../../../../wet/wet/fonds/economische/structuurversterking/BWBR0007788/README.md), de ontvangsten, respectievelijk de uitgaven van het fonds voor dat begrotingsjaar op nihil gesteld.   
+2.  Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de artikelen 2 en 3 van de Wet Fonds economische structuurversterking, de ontvangsten, respectievelijk de uitgaven van het fonds voor dat begrotingsjaar op nihil gesteld.   
 3.  Dit artikel vervalt op het moment dat een voorstel als bedoeld in het eerste lid wordt ingediend.  
 
 ### Paragraaf  2  
@@ -566,20 +566,20 @@ b.verantwoordingen, gegevens en documenten die nodig zijn voor de definitieve va
 
 c.verslagen van onderzoeken van accountants die de bescheiden, bedoeld onder a en b, hebben gecontroleerd. 
 3. Indien de bescheiden, bedoeld in het tweede lid, Onze Ministers daartoe aanleiding geven, of een of meer bescheiden ontbreken, zijn Onze Ministers bevoegd bij de betrokken rechtspersoon, vennootschap en natuurlijke persoon daarover nadere inlichtingen in te winnen dan wel inzage in ontbrekende bescheiden, documenten en andere informatiedragers te vorderen, alsmede, mede aan de hand van de administratie van de betrokken rechtspersoon, vennootschap of natuurlijke persoon dan wel bij de derde die de administratie in opdracht van de rechtspersoon, vennootschap of natuurlijke persoon voert, een onderzoek in te stellen. Artikel 87, eerste lid, is van overeenkomstige toepassing.
-4. De [artikelen 5:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17, tweede en derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheden bedoeld in het derde lid. 
+4. De artikelen 5:12, 5:13, 5:15 en 5:17, tweede en derde lid, van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheden bedoeld in het derde lid. 
 
 ###Artikel 43a 
 
 1. Onze Ministers zijn bevoegd inzage te vorderen in de controledossiers van de accountant die de bescheiden, bedoeld in artikel 43, tweede lid, onder a en b, heeft gecontroleerd om te bepalen of bij de vaststelling van de nakoming van de in artikel 43b, derde lid, bedoelde verplichtingen kan worden gesteund op de door deze accountant uitgevoerde controle. 
 2. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. 
 3. Onze Ministers zijn bevoegd van stukken uit de controledossiers, bedoeld in het eerste lid, kopieën te maken. 
-4. De [artikelen 5:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheden bedoeld in het eerste en derde lid. 
+4. De artikelen 5:12, 5:13, 5:15 en 5:17, derde lid, van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheden bedoeld in het eerste en derde lid. 
 5. De accountant, die op grond van artikel 43a, eerste lid, artikel 91, zesde lid, of artikel 92, vierde lid, inzage in het controledossier verleent en kopieën van stukken uit dit dossier verstrekt, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat hij gelet op alle feiten en omstandigheden in redelijkheid niet hiertoe had mogen overgaan.
 
 ###Artikel 43b 
 
 1. Onze Ministers wijzen de personen aan die namens hen zijn belast met de uitoefening van de bevoegdheden, bedoeld in de artikelen 43 en 43a. 
-2. De bevoegdheden als bedoeld in artikel 43a worden uitgeoefend onder verantwoordelijkheid van een registeraccountant of een accountant-administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md). 
+2. De bevoegdheden als bedoeld in artikel 43a worden uitgeoefend onder verantwoordelijkheid van een registeraccountant of een accountant-administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep. 
 3. De toepassing van de in de artikelen 43 en 43a bedoelde bevoegdheden is gericht op de nakoming door de in artikel 43, eerste lid, bedoelde rechtspersonen, vennootschappen en natuurlijke personen van:
 
 a.bij of krachtens de wet opgelegde verplichtingen aangaande beheer, controle of toezicht ten aanzien van de rechtmatige en doelmatige besteding van collectieve middelen als bedoeld in artikel 43, eerste lid, onder a en c;
@@ -592,7 +592,7 @@ b.bij of krachtens het Verdrag betreffende de werking van de Europese Unie aan d
 1. Ter bewaking van de ontwikkeling van het EMU-saldo kan Onze Minister van Financiën regels stellen ten aanzien van de verstrekking van gegevens door de rechtspersonen die op basis van het geldende Europees Stelsel van Rekeningen (PbEG L310) tot de sector overheid worden gerekend.
 2. Indien een dreigende overschrijding van de geldende norm voor het EMU-saldo van de overheid wordt veroorzaakt door een ongewenste ontwikkeling van het EMU-saldo van de rechtspersonen, bedoeld in het eerste lid, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ter beheersing van het EMU-saldo van die rechtspersonen.
 3. Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
-4. Tot de rechtspersonen, bedoeld in het eerste lid, worden voor de toepassing van het bepaalde in het tweede lid, niet gerekend de openbare lichamen, bedoeld in [artikel 1, onder a, van de Wet financiering decentrale overheden](../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md).
+4. Tot de rechtspersonen, bedoeld in het eerste lid, worden voor de toepassing van het bepaalde in het tweede lid, niet gerekend de openbare lichamen, bedoeld in artikel 1, onder a, van de Wet financiering decentrale overheden.
 
 ### Artikel  44a  
 
@@ -700,7 +700,7 @@ f. meerjarige bedragen van de gerealiseerde ontvangsten;    waarbij voor de onde
 2.  Het meerjarige inzicht dient, uitgaande van jaar t als verslagjaar, betrekking te hebben op de jaren t-4 tot en met jaar t, dat wil zeggen op de periode lopende van vier jaar voorafgaand aan het verslagjaar tot en met het verslagjaar.   
 3.  In aansluiting op artikel 5, derde lid, bevat een jaarverslag per beleidsartikel de realisatiegegevens met betrekking tot de doeltreffendheidsgegevens, gegevens over de doelmatigheid van beleid, beide al dan niet verkregen uit beleidsevaluatieonderzoeken en de doelmatigheidsgegevens over de apparaatsuitgaven, waarbij deze gegevens geconfronteerd worden met de in de ontwerp-begroting opgenomen ramingen. Opmerkelijke verschillen worden toegelicht.   
 4.  Indien met toepassing van artikel 5, vierde lid, een begroting een beleidsartikel bevat ten laste waarvan een meerjarige begrotingsreserve wordt aangehouden, biedt het jaarverslag voor dat beleidsartikel inzicht in de gerealiseerde omvang van de reserve, alsmede in de toevoeging en of de onttrekking aan de reserve in het verslagjaar.   
-5.  Indien een specifieke uitkering als bedoeld in [artikel 15a, eerste lid, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) of een bijzondere uitkering als bedoeld in artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba wordt gevormd door bijdragen uit verschillende begrotingen als bedoeld in artikel 1, dan wordt de informatie, bedoeld in het eerste tot en met het derde lid, opgenomen in de toelichting bij het betrokken beleidsartikel in het jaarverslag van Onze Minister die als eerste verantwoordelijk is voor die uitkering.   
+5.  Indien een specifieke uitkering als bedoeld in artikel 15a, eerste lid, van de Financiële-verhoudingswet of een bijzondere uitkering als bedoeld in artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba wordt gevormd door bijdragen uit verschillende begrotingen als bedoeld in artikel 1, dan wordt de informatie, bedoeld in het eerste tot en met het derde lid, opgenomen in de toelichting bij het betrokken beleidsartikel in het jaarverslag van Onze Minister die als eerste verantwoordelijk is voor die uitkering.   
 6.  Onze Minister van Financiën kan nadere regels stellen met betrekking tot de informatie die Onze overige verantwoordelijke Minister(s) in hun jaarverslag opnemen. 
 
 ### Artikel  55  
@@ -717,7 +717,7 @@ d. de bedragen van de gerealiseerde ontvangsten;   waarbij voor het verslagjaar 
 
 ### Artikel  55a  
 
-1.  Indien voor een specifieke uitkering als bedoeld in [artikel 15a, eerste en derde lid, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) of een bijzondere uitkering als bedoeld in artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba geen jaarlijkse verantwoording verplicht is gesteld aan de ontvanger van de uitkering, volstaat Onze Minister wie het aangaat met het opnemen in het jaarverslag, bedoeld in artikel 51, van die verantwoordingsinformatie, die volgens het wettelijk voorschrift aan Onze Minister moet worden verstrekt.   
+1.  Indien voor een specifieke uitkering als bedoeld in artikel 15a, eerste en derde lid, van de Financiële-verhoudingswet of een bijzondere uitkering als bedoeld in artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba geen jaarlijkse verantwoording verplicht is gesteld aan de ontvanger van de uitkering, volstaat Onze Minister wie het aangaat met het opnemen in het jaarverslag, bedoeld in artikel 51, van die verantwoordingsinformatie, die volgens het wettelijk voorschrift aan Onze Minister moet worden verstrekt.   
 2.  Onze Minister van Financiën kan nadere regels stellen met betrekking tot de verantwoordingsinformatie.  
 
 ### Artikel  56  
@@ -898,19 +898,19 @@ Aan de Algemene Rekenkamer wordt toegevoegd een secretaris die op voordracht van
 ### Artikel  74  
 
 1.  Een lid wordt ontslag verleend op eigen verzoek en bij het bereiken van de leeftijd van zeventig jaar. Het ontslag gaat in op de eerste dag van de volgende maand.   
-2.  De leden kunnen door de Hoge Raad der Nederlanden worden ontslagen of geschorst. [Hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), met uitzondering van de [artikelen 46b](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46c, eerste lid, onder b, tweede en derde lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, eerste lid, onder c](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46k](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46q](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), is daarbij van overeenkomstige toepassing, met dien verstande dat: 
+2.  De leden kunnen door de Hoge Raad der Nederlanden worden ontslagen of geschorst. Hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren, met uitzondering van de artikelen 46b, 46c, eerste lid, onder b, tweede en derde lid, 46d, 46i, eerste lid, onder c, 46k en 46q, is daarbij van overeenkomstige toepassing, met dien verstande dat: 
 
 – de disciplinaire maatregel van schriftelijke waarschuwing wordt opgelegd door de president van de Algemene Rekenkamer;  
 
-– in [artikel 46e](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) voor «de rechterlijk ambtenaar, tevens zijnde president van het gerechtshof of de rechtbank, de president van de Hoge Raad onderscheidenlijk procureur-generaal bij de Hoge Raad» wordt gelezen« de president van de Algemene Rekenkamer»;  
+– in artikel 46e voor «de rechterlijk ambtenaar, tevens zijnde president van het gerechtshof of de rechtbank, de president van de Hoge Raad onderscheidenlijk procureur-generaal bij de Hoge Raad» wordt gelezen« de president van de Algemene Rekenkamer»;  
 
 – de president van de Algemene Rekenkamer als functionele autoriteit wordt aangemerkt;  
 
 – voor «Onze Minister» wordt gelezen «Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties»;  
 
-– de voordracht, bedoeld in de [artikelen 46i, vijfde lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46l, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), wordt gedaan door de Algemene Rekenkamer;  
+– de voordracht, bedoeld in de artikelen 46i, vijfde lid, en 46l, tweede lid, wordt gedaan door de Algemene Rekenkamer;  
 
-– in [artikel 46p, vijfde lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), in plaats van «het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad» wordt gelezen «de Algemene Rekenkamer».     
+– in artikel 46p, vijfde lid, in plaats van «het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad» wordt gelezen «de Algemene Rekenkamer».     
 3.  Grond voor ontslag is voorts dat het lid handelt in strijd met artikel 73, derde lid.  
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot wachtgeld en voorzieningen in verband met ziekte en arbeidsongeschiktheid.
 
@@ -1053,7 +1053,7 @@ d. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uito
 5.  Onverminderd het tweede lid en onverminderd haar bevoegdheid tot eigen onderzoek maakt de Algemene Rekenkamer zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles. Artikel 86, tweede lid, is van overeenkomstige toepassing.   
 6. De Algemene Rekenkamer is bevoegd inzage te vorderen in de controledossiers van de accountant die de bescheiden, bedoeld in artikel 43, tweede lid, onder a en b, heeft gecontroleerd van de in het eerste lid, onder c en d, bedoelde rechtspersonen en vennootschappen. Artikel 43a, tweede en derde lid, is van overeenkomstige toepassing. 
 7.  De Algemene Rekenkamer kan haar bevoegdheden uitoefenen zolang als en over de jaren dat de Staat daarbij belang heeft dan wel, voor zover het betreft rechtspersonen of commanditaire vennootschappen of vennootschappen onder firma als bedoeld onder d van het eerste lid, zolang als en over de jaren dat het algemeen belang dit vordert.   
-8.  De [artikelen 5:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheid vermeld in het derde lid.   
+8.  De artikelen 5:12, 5:13, 5:15 en 5:17 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheid vermeld in het derde lid.   
 9.  Een instelling die bij of krachtens de wet is belast met het uitoefenen van controle op een rechtspersoon als bedoeld in het eerste lid, onder d, licht de Algemene Rekenkamer op door deze aan te geven wijze volledig in omtrent de controlebevindingen en stelt op aanvraag haar controleprogramma aan de Algemene Rekenkamer ter beschikking.   
 10.  Op aanvraag van Onze verantwoordelijke Minister verstrekt een rechtspersoon, een commanditaire vennootschap of vennootschap onder firma of een instelling als bedoeld in het negende lid zo spoedig mogelijk aan hem kopieën van brieven aan de Algemene Rekenkamer.   
 11.  De Algemene Rekenkamer doet Onze betrokken Minister kopie toekomen van de brieven die zij toezendt aan een rechtspersoon, aan een commanditaire vennootschap of vennootschap onder firma of aan een instelling als bedoeld in het negende lid.   
@@ -1061,8 +1061,8 @@ d. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uito
 13.  De Algemene Rekenkamer verstrekt aan Onze Minister van Financiën, Onze betrokken Minister en aan de Staten-Generaal zodanige mededelingen als zij in het algemeen belang nodig oordeelt.   
 14.  In geval de Algemene Rekenkamer dit in het algemeen belang geboden acht, maakt zij van haar bevindingen melding in een rapport of het verslag, bedoeld in artikel 95, eerste onderscheidenlijk tweede lid.   
 15.  Van gegevens en bevindingen die naar hun aard vertrouwelijk zijn, maakt de Algemene Rekenkamer in afwijking van het veertiende lid geen melding in een rapport of het verslag, bedoeld in artikel 95, eerste onderscheidenlijk tweede lid. Mededelingen aan de Staten-Generaal als bedoeld in het dertiende lid die zodanige gegevens of bevindingen bevatten, verstrekt zij ter vertrouwelijke kennisneming.  
-16. Voor de toepassing van dit artikel worden onder rechtspersonen, commanditaire vennootschappen en vennootschappen onder firma, bedoeld in het eerste lid, onderdeel c, niet verstaan financiële ondernemingen met zetel in Nederland die een vergunning hebben voor het uitoefenen van het bedrijf van bank of van elektronischgeldinstelling ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of het bedrijf van kredietinstelling ingevolge de [Wet financiële markten BES](../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md).  
-17.  Dit artikel is niet van toepassing op provincies, gemeenten, de openbare lichamen Bonaire, Sint Eustatius en Saba, rechtspersoonlijkheid bezittende lichamen, bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), voor zover deze niet bij de wet zijn ingesteld, waterschappen en openbare lichamen voor beroep en bedrijf.  
+16. Voor de toepassing van dit artikel worden onder rechtspersonen, commanditaire vennootschappen en vennootschappen onder firma, bedoeld in het eerste lid, onderdeel c, niet verstaan financiële ondernemingen met zetel in Nederland die een vergunning hebben voor het uitoefenen van het bedrijf van bank of van elektronischgeldinstelling ingevolge de Wet op het financieel toezicht of het bedrijf van kredietinstelling ingevolge de Wet financiële markten BES.  
+17.  Dit artikel is niet van toepassing op provincies, gemeenten, de openbare lichamen Bonaire, Sint Eustatius en Saba, rechtspersoonlijkheid bezittende lichamen, bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen, voor zover deze niet bij de wet zijn ingesteld, waterschappen en openbare lichamen voor beroep en bedrijf.  
 
 ### Artikel  92  
 
@@ -1074,7 +1074,7 @@ d. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uito
 6.  De Algemene Rekenkamer kan de in dit artikel vermelde bevoegdheden uitoefenen zolang als en over de jaren dat de Staat daarbij belang heeft.   
 7.  Artikel 91, vierde, vijfde, twaalfde, dertiende, veertiende, vijftiende en zestiende lid, is van overeenkomstige toepassing.   
 8.  De Algemene Rekenkamer voert overleg met de Europese Rekenkamer teneinde te komen tot afspraken over de te hanteren normen en criteria bij het in dit artikel bedoelde onderzoek en over de wijze van samenwerking met de Europese Rekenkamer.   
-9.  De [artikelen 5:12](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:17 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheid vermeld in het derde lid.  
+9.  De artikelen 5:12, 5:13, 5:15 en 5:17 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van het gebruik van de bevoegdheid vermeld in het derde lid.  
 
 ### Artikel  93  
 
@@ -1103,7 +1103,7 @@ Indien de zorg voor een administratie aan een derde wordt uitbesteed, dan is de 
 
 ### Artikel  97  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, aan Onze Minister van Financiën de bevoegdheid worden verleend om regels te stellen in afwijking van deze wet en de wetten, bedoeld in artikel 9, tweede lid.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, aan Onze Minister van Financiën de bevoegdheid worden verleend om regels te stellen in afwijking van deze wet en de wetten, bedoeld in artikel 9, tweede lid.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -1169,8 +1169,8 @@ Deze wet wordt aangehaald als: Comptabiliteitswet 2001.
 ### Artikel  111  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vindt voor het eerst toepassing voor het begrotingsjaar 2002.   
-2.  De [Comptabiliteitswet](../../../../wet/comptabiliteitswet/BWBR0003075/README.md) wordt ingetrokken.   
-3.  Met betrekking tot de begrotingsjaren voorafgaande aan het begrotingsjaar 2002 blijven de artikelen van de [Comptabiliteitswet](../../../../wet/comptabiliteitswet/BWBR0003075/README.md), zoals deze luidden vóór de inwerkingtreding van deze wet, van toepassing.   
+2.  De Comptabiliteitswet wordt ingetrokken.   
+3.  Met betrekking tot de begrotingsjaren voorafgaande aan het begrotingsjaar 2002 blijven de artikelen van de Comptabiliteitswet, zoals deze luidden vóór de inwerkingtreding van deze wet, van toepassing.   
 4.  Voor zover het meerjarige inzicht, bedoeld in artikel 5, eerste lid juncto tweede lid, en artikel 54, eerste lid juncto tweede lid, in de jaren 2002 tot en met 2006 niet zonder meer beschikbaar is, kan Onze Minister van Financiën bepalen dat andere informatie wordt verstrekt.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   

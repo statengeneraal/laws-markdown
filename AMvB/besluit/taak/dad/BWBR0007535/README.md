@@ -19,18 +19,18 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder:  
 
-a. DAD: de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+a. DAD: de accountantsdienst, bedoeld in artikel 66, eerste lid, van de Comptabiliteitswet 2001;  
 
 b. Onze Minister: de minister onder wie de betrokken DAD ressorteert.   
 
 ### Artikel  2  
 
-1.  De DAD staat onder leiding van een accountant bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De DAD staat onder leiding van een accountant bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.   De DAD is in de organisatie van het ministerie rechtstreeks geplaatst onder de secretaris-generaal en rapporteert aan Onze Minister.  
 
 ### Artikel  3  
 
-Naast de controle, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) is de DAD belast met de volgende controle- en adviestaken:  
+Naast de controle, bedoeld in artikel 66, eerste lid, van de Comptabiliteitswet 2001 is de DAD belast met de volgende controle- en adviestaken:  
 
 a. bijzondere controletaken in opdracht van Onze Minister;  
 
@@ -42,8 +42,8 @@ d. bijzondere adviestaken in opdracht van Onze Minister.
 
 ### Artikel  4  
 
-1.  Het onderzoek, bedoeld in [artikel 66, tweede lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) is gericht op het geven van oordelen over het financieel beheer, het materieel beheer en de ten behoeve van dat beheer bijgehouden administraties.   
-2.  Naast de accountantsverklaring, bedoeld in [artikel 66, vijfde lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) geeft de DAD een acccountantsverklaring af omtrent de verantwoordingen van de baten-lastendiensten, bedoeld in [artikel 52, tweede lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en omtrent de door Onze Minister aangewezen verantwoordingen van andere delen van het ministerie.  
+1.  Het onderzoek, bedoeld in artikel 66, tweede lid, van de Comptabiliteitswet 2001 is gericht op het geven van oordelen over het financieel beheer, het materieel beheer en de ten behoeve van dat beheer bijgehouden administraties.   
+2.  Naast de accountantsverklaring, bedoeld in artikel 66, vijfde lid, van de Comptabiliteitswet 2001 geeft de DAD een acccountantsverklaring af omtrent de verantwoordingen van de baten-lastendiensten, bedoeld in artikel 52, tweede lid, van de Comptabiliteitswet 2001, en omtrent de door Onze Minister aangewezen verantwoordingen van andere delen van het ministerie.  
 
 ### Artikel  5  
 
@@ -53,7 +53,7 @@ d. bijzondere adviestaken in opdracht van Onze Minister.
 ### Artikel  6  
 
 1.  De directeur DAD draagt zorg voor een systematische, duidelijke, toereikende en tijdige rapportering van de uitkomsten van de controlewerkzaamheden van de DAD aan Onze Minister.   
-2.   Elk jaar wordt het samenvattende rapport bedoeld in [artikel 66, vijfde lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), tijdig voor de wettelijke datum waarop de jaarlijkse financiële verantwoording aan Onze Minister van Financiën moet worden toegezonden, aan Onze Minister ter beschikking gesteld.  
+2.   Elk jaar wordt het samenvattende rapport bedoeld in artikel 66, vijfde lid, van de Comptabiliteitswet 2001, tijdig voor de wettelijke datum waarop de jaarlijkse financiële verantwoording aan Onze Minister van Financiën moet worden toegezonden, aan Onze Minister ter beschikking gesteld.  
 
 ### Artikel  7  
 
@@ -71,7 +71,7 @@ Binnen een ministerie vindt in een commissie onder leiding van de secretaris-gen
 
 ### Artikel  10  
 
-Onze Minister van Financiën kan, gehoord het interdepartementale overleg bedoeld in artikel 9, eerste lid, nadere regels stellen met betrekking tot de controle, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md). 
+Onze Minister van Financiën kan, gehoord het interdepartementale overleg bedoeld in artikel 9, eerste lid, nadere regels stellen met betrekking tot de controle, bedoeld in artikel 66, eerste lid, van de Comptabiliteitswet 2001. 
 
 ### Artikel  11  
 
