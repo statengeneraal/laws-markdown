@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 3 juli 1995, No. 959812, Directie Juridische Zaken; 
 
-Gelet op richtlijn nr. 91/630/EEG van de Raad van de Europese Gemeenschappen van 19 november 1991 tot vaststelling van minimumnormen ter bescherming van varkens en gelet op [artikel 40, tweede lid, onderdeel *c*, en derde lid, van de Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), alsmede op [artikel 1, vierde lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md); 
+Gelet op richtlijn nr. 91/630/EEG van de Raad van de Europese Gemeenschappen van 19 november 1991 tot vaststelling van minimumnormen ter bescherming van varkens en gelet op artikel 40, tweede lid, onderdeel *c*, en derde lid, van de Gezondheids- en welzijnswet voor dieren, alsmede op artikel 1, vierde lid, van de Wet op de uitoefening van de diergeneeskunde 1990; 
 
 Gezien de adviezen van de Raad voor dierenaangelegenheden (29 juni 1994, RDA/94219/HJ), de Nederlandse Vereniging tot Bescherming van Dieren (14 juli 1994, 194.00753/U94.02069/RV), de Koninklijke Nederlandse Maatschappij voor Diergeneeskunde (25 mei 1994, 0527.94/Jsve), het Landbouwschap (17 mei 1994, B042404a.Wo1), het Produktschap voor Vis en Visprodukten (10 mei 1994, 0555/95/JvS/MZ), de Organisatie ter Verbetering van de Binnenvisserij (23 maart 1994, 0637/Ra/Pe), het Produktschap Pluimvee en Eieren tezamen met het Produktschap Vee en Vlees (16 mei 1994, mha nr. 19972), de Nederlandse Vereniging van Sportvissersfederaties (10 mei 1994, JW/IR.05002), de Stichting voor Gezelschapsdieren (19 mei 1994, 9405.30/RW), Rechten voor al wat leeft (30 mei 1994) en de Koninklijke Vereniging "Het Nederlandsche Trekpaard" (2 mei 1994); 
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);   
+a. wet: Gezondheids- en welzijnswet voor dieren;   
 
 b. ingreep: lichamelijke ingreep bij een dier waarbij een deel of delen van het lichaam wordt of worden verwijderd of beschadigd;   
 
@@ -34,7 +34,7 @@ c. ongewervelden: halfgewervelde en ongewervelde dieren, alsmede ééncellige di
 
 ### Artikel  2  
 
-1.  Als ingrepen als bedoeld in [artikel 40, tweede lid, onderdeel c , van de wet](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), worden aangewezen:  
+1.  Als ingrepen als bedoeld in artikel 40, tweede lid, onderdeel c , van de wet, worden aangewezen:  
 
 a. ingrepen bij ongewervelden;   
 
@@ -108,7 +108,7 @@ j. het aanbrengen bij vissen van een uitwendig door middel van een draad in huid
 k. vervallen;  
 
 l. het vriesbranden bij runderen, paarden en vissen;      
-3.   Het verkorten van de boven- en ondersnavel van eenden wordt aangewezen als ingreep als bedoeld in [artikel 40, tweede lid, onderdeel c, van de wet](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor de duur van een tijdvak van tien jaar vanaf het tijdstip van inwerkingtreding van dit besluit voorzover de ingreep wordt uitgevoerd bij eenden die worden gehouden in een huisvestingssysteem met volledig roostervloer waarvan de gebruiker kan aantonen dat het op het moment van inwerkingtreding van dit besluit reeds bestond en nadien niet is herbouwd of verbouwd.   
+3.   Het verkorten van de boven- en ondersnavel van eenden wordt aangewezen als ingreep als bedoeld in artikel 40, tweede lid, onderdeel c, van de wet voor de duur van een tijdvak van tien jaar vanaf het tijdstip van inwerkingtreding van dit besluit voorzover de ingreep wordt uitgevoerd bij eenden die worden gehouden in een huisvestingssysteem met volledig roostervloer waarvan de gebruiker kan aantonen dat het op het moment van inwerkingtreding van dit besluit reeds bestond en nadien niet is herbouwd of verbouwd.   
 
 ### Artikel  3  
 
@@ -116,7 +116,7 @@ De in artikel 40, tweede lid, onderdeel *d*, van de wet en de in artikel 2 bedoe
 
 ### Artikel  4  
 
-1.  De ingrepen, bedoeld in artikel 2, eerste lid, onderdelen e, f, g, voor zover het betreft het verkorten van de boven- en ondersnavel bij kippen of kalkoenen die worden gehouden of bestemd zijn om te worden gehouden, in een huisvestingssysteem waarin de dieren zich vrijelijk over de vloer van de stal of op en naar verschillende niveaus binnen de stal kunnen bewegen, dan wel dat voldoet aan [artikel 4 van het Legkippenbesluit 2003](../../../AMvB/legkippenbesluit/2003/BWBR0015138/README.md), en onderdeel h, voor zover het betreft het verwijderen van kammen bij mannelijke kippen bestemd voor de fokkerij, waarvan de nakomelingen gewoonlijk worden gehouden voor het leggen van eieren bestemd voor de menselijke consumptie, worden aangewezen tot 1 september 2006.   
+1.  De ingrepen, bedoeld in artikel 2, eerste lid, onderdelen e, f, g, voor zover het betreft het verkorten van de boven- en ondersnavel bij kippen of kalkoenen die worden gehouden of bestemd zijn om te worden gehouden, in een huisvestingssysteem waarin de dieren zich vrijelijk over de vloer van de stal of op en naar verschillende niveaus binnen de stal kunnen bewegen, dan wel dat voldoet aan artikel 4 van het Legkippenbesluit 2003, en onderdeel h, voor zover het betreft het verwijderen van kammen bij mannelijke kippen bestemd voor de fokkerij, waarvan de nakomelingen gewoonlijk worden gehouden voor het leggen van eieren bestemd voor de menselijke consumptie, worden aangewezen tot 1 september 2006.   
 2.   In afwijking van het eerste lid, worden de ingrepen, bedoeld in artikel 2, eerste lid, onderdelen g, h en s, aangewezen tot 1 september 2011, voor zover zij worden verricht bij dieren die worden gehouden of aantoonbaar bestemd zijn om te worden gehouden in een huisvestingssysteem waarvan de gebruiker kan aantonen dat het op 1 september 2001 reeds bestond en nadien niet is herbouwd of verbouwd.   
 3.   In afwijking van artikel 2, tweede lid, mag het aantal ingrepen ter identificatie na afloop van een tijdvak van vijf jaar vanaf het tijdstip van inwerkingtreding van dit besluit, slechts één bedragen indien bij het dier reeds één ingreep ter identificatie verplicht dan wel toegestaan is bij of krachtens enig ander wettelijk voorschrift. Indien reeds twee of meer ingrepen bij of krachtens ander wettelijk voorschrift verplicht of toegestaan zijn, mogen vanaf het voornoemde tijdstip geen ingrepen ter identificatie meer worden verricht.   
 

@@ -3,7 +3,7 @@
 ## Aanwijzing ontsmettingsmiddel Virkon s
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 23 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 9, onderdeel c, van de Regeling betreffende uitvoering bestrijdingsmaatregelen besmettelijke dierziekten](../../../../../../ministeriele-regeling/regeling/betreffende/uitvoering/bestrijdingsmaatregelen/besmettelijke/etc/BWBR0007936/README.md);
+Gelet op artikel 23 van de Gezondheids- en welzijnswet voor dieren en artikel 9, onderdeel c, van de Regeling betreffende uitvoering bestrijdingsmaatregelen besmettelijke dierziekten;
 Besluit:     
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ De directeur van de Voedsel en Waren Autoriteit, onderdeel Rijksdienst voor de k
 
 ### Artikel 2a  
 
-Dit besluit berust mede op [artikel 108, onderdeel c, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).
+Dit besluit berust mede op artikel 108, onderdeel c, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s.
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 

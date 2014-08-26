@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij 
 
 Gelet op Richtlijn nr. 89/556/EEG van de Raad van de Europese Gemeenschappen van 25 september 1989 tot vaststelling van veterinairrechtelijke voorschriften voor het intracommunautaire handelsverkeer in embryo's van als huisdier gehouden runderen en de invoer daarvan uit derde landen (*PbEG* L 302) en op Richtlijn nr. 92/65/EEG van de Raad van de Europese Gemeenschappen van 13 juli 1992 tot vaststelling van de veterinairrechtelijke voorschriften voor het handelsverkeer en de invoer in de Gemeenschap van dieren, sperma, eicellen en embryo's waarvoor ten aanzien van de veterinairrechtelijke voorschriften geen specifieke communautaire regelgeving als bedoeld in bijlage A, onder I, van Richtlijn 90/425/EEG geldt (*PbEG* L 268);
 
-Gelet op [artikel 1, tweede lid, van de Gezondheids- en Welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op artikel 1, tweede lid, van de Gezondheids- en Welzijnswet voor dieren;
 
 Gezien het advies van de Raad voor dierenaangelegenheden en het Landbouwschap;
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Hetgeen bij of krachtens de [hoofdstukken II](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [VII](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) tot en met [IX van de Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) met betrekking tot produkten of produkten van dierlijke oorsprong is bepaald, is van overeenkomstige toepassing op handelingen met embryo's voor zover deze zich buiten de baarmoeder van het dier bevinden. 
+Hetgeen bij of krachtens de hoofdstukken II en VII tot en met IX van de Gezondheids- en welzijnswet voor dieren met betrekking tot produkten of produkten van dierlijke oorsprong is bepaald, is van overeenkomstige toepassing op handelingen met embryo's voor zover deze zich buiten de baarmoeder van het dier bevinden. 
 
 ### Artikel  2  
 

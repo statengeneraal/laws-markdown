@@ -30,7 +30,7 @@ c. “sportsmen and sportswomen” means those persons who participate regularly
 ####Domestic co-ordination
 
 1.  The Parties shall co-ordinate the policies and actions of their government departments and other public agencies concerned with combating doping in sport.   
-2.  They shall ensure that there is practical application of this Convention, and in particular that the requirements under Article 7 are met, by entrusting, where appropriate, the implementation of some of the provisions of this Convention to a designated governmental or non-governmental sports authority or to a sports oranisation.  
+2.  They shall ensure that there is practical application of this Convention, and in particular that the requirements under Article 7 are met, by entrusting, where appropriate, the implementation of some of the provisions of this Convention to a designated governmental or non-governmental sports authority or to a sports organisation.  
 
 ### Article  4  
 
@@ -182,12 +182,12 @@ After each meeting, the Monitoring Group shall forward to the Committee of Minis
 
 ### Article  14  
 
-1.  This Convention shall be open for signature by member States of the Council of Europe, other States party to the [European Cultural Convention](../../../../verdrag/europees/cultureel/verdrag/BWBV0005098/README.md) and non-member States which have participated in the elaboration of this Convention, which may express their consent to be bound by: 
+1.  This Convention shall be open for signature by member States of the Council of Europe, other States party to the European Cultural Convention and non-member States which have participated in the elaboration of this Convention, which may express their consent to be bound by: 
 
 a. signature without reservation as to ratification, acceptance or approval, or  
 
 b. signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.     
-2.  Instruments of ratification, acceptance or approval shall be desposited with the Secretary General of the Council of Europe.  
+2.  Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.  
 
 ### Article  15  
 
@@ -196,7 +196,7 @@ b. signature subject to ratification, acceptance or approval, followed by ratifi
 
 ### Article  16  
 
-1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties; may invite to accede to the Convention any non-member State by a decision, taken by the majority provided for in [Article 20.d of the Statue of the Council of Europe](../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) and by the unanimous vote of the representatives of the Contracting States-entitled to sit on the Committee.   
+1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties; may invite to accede to the Convention any non-member State by a decision, taken by the majority provided for in Article 20.d of the Statue of the Council of Europe and by the unanimous vote of the representatives of the Contracting States-entitled to sit on the Committee.   
 2.  In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of accession with the Secretary General of the Council of Europe.  
 
 ### Article  17  
@@ -212,7 +212,7 @@ b. signature subject to ratification, acceptance or approval, followed by ratifi
 
 ### Article  19  
 
-The Secretary General of the Council of Europe shall notify the Parties, the other member States of the Council of Europe, the other States party to the [European Cultural Convention](../../../../verdrag/europees/cultureel/verdrag/BWBV0005098/README.md), the non-member States which have participated in the elaboration of this Convention and any State which has acceded or has been invited to accede to it of: 
+The Secretary General of the Council of Europe shall notify the Parties, the other member States of the Council of Europe, the other States party to the European Cultural Convention, the non-member States which have participated in the elaboration of this Convention and any State which has acceded or has been invited to accede to it of: 
 
 a. any signature in accordance with Article 14;  
 
@@ -476,7 +476,7 @@ d. het sluiten van overeenkomsten door sportorganisaties waarbij wordt toegestaa
 a. het oprichten of het vergemakkelijken van de oprichting op haar grondgebied van één of meer laboratoria voor dopingcontrole die in aanmerking kunnen komen voor erkenning krachtens de criteria die zijn aangenomen door de bevoegde internationale sportorganisaties en zijn goedgekeurd door de Commissie van Toezicht overeenkomstig het bepaalde in artikel 11, eerste lid, letter b; of  
 
 b. het ondersteunen van haar sportorganisaties bij het verkrijgen van toegang tot een dergelijk laboratorium op het grondgebied van een andere Partij.     
-2.  Deze labortoria worden aangemoedigd om: 
+2.  Deze laboratoria worden aangemoedigd om: 
 
 a. passende maatregelen te nemen om bekwaam personeel in dienst te nemen en te behouden, op te leiden en bij te scholen;  
 
@@ -489,7 +489,7 @@ c. nieuwe gegevens uit hun onderzoeken snel te publiceren en te verspreiden.
 ####Onderwijs
 
 1.  De Partijen verbinden zich ertoe voorlichtingsprogramma's en informatiecampagnes te ontwerpen en uit te voeren, wanneer er aanleiding toe is in samenwerking met de betrokken sportorganisaties en de massamedia, waarin de nadruk wordt gelegd op de gevaren voor de gezondheid inherent aan doping en op de schade die doping toebrengt aan de ethische waarden in de sport. Die programma's en campagnes worden gericht op zowel jongeren op scholen en bij sportverenigingen als hun ouders, alsmede op volwassen sportmensen, sportfunctionarissen, coaches en trainers. Voor degenen die werkzaam zijn op medisch gebied, zal in deze onderwijsprogramma's de nadruk worden gelegd op de medische ethiek.   
-2.  De Partijen verbinden zich tot het stimuleren en bevorderen van onderzoek, in samenwerking met de betrokken regionale, nationale en internationale sportorganisaties, naar manieren en middelen om wetenschappelijk gebaseerde fysiologische en psychologische trainingsprogramma's te ontwerpen waarin de integriteit van de individu wordt geëerbiedigd.  
+2.  De Partijen verbinden zich tot het stimuleren en bevorderen van onderzoek, in samenwerking met de betrokken regionale, nationale en internationale sportorganisaties, naar manieren en middelen om wetenschappelijk gebaseerde fysiologische en psychologische trainingsprogramma's te ontwerpen waarin de integriteit van het individu wordt geëerbiedigd.  
 
 ### Artikel  7  
 
@@ -600,7 +600,7 @@ Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers v
 
 ### Artikel  14  
 
-1.  Deze Overeenkomst staat ter ondertekening open voor de lidstaten van de Raad van Europa, andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](../../../../verdrag/europees/cultureel/verdrag/BWBV0005098/README.md), en niet-lidstaten die hebben deelgenomen aan de opstelling van deze Overeenkomst, die hun instemming te worden gebonden tot uitdrukking kunnen brengen door: 
+1.  Deze Overeenkomst staat ter ondertekening open voor de lidstaten van de Raad van Europa, andere Staten die Partij zijn bij het Europees Cultureel Verdrag, en niet-lidstaten die hebben deelgenomen aan de opstelling van deze Overeenkomst, die hun instemming te worden gebonden tot uitdrukking kunnen brengen door: 
 
 a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of  
 
@@ -614,7 +614,7 @@ l.  Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt 
 
 ### Artikel  16  
 
-1.  Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen, iedere Staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot de Overeenkomst, zulks bij een besluit genomen met de meerderheid, voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) en met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die het recht hebben in het Comité van Ministers zitting te hebben.   
+1.  Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen, iedere Staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot de Overeenkomst, zulks bij een besluit genomen met de meerderheid, voorzien in artikel 20, letter d, van het Statuut van de Raad van Europa en met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die het recht hebben in het Comité van Ministers zitting te hebben.   
 2.  Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.  
 
 ### Artikel  17  
@@ -630,7 +630,7 @@ l.  Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt 
 
 ### Artikel  19  
 
-De Secretaris-Generaal van de Raad van Europa stelt de Partijen, de andere lidstaten van de Raad van Europa, de andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](../../../../verdrag/europees/cultureel/verdrag/BWBV0005098/README.md), de niet-lidstaten die hebben deelgenomen aan het opstellen van deze Overeenkomst, alsmede iedere Staat die ertoe is toegetreden of is uitgenodigd ertoe toe te treden, in kennis van: 
+De Secretaris-Generaal van de Raad van Europa stelt de Partijen, de andere lidstaten van de Raad van Europa, de andere Staten die Partij zijn bij het Europees Cultureel Verdrag, de niet-lidstaten die hebben deelgenomen aan het opstellen van deze Overeenkomst, alsmede iedere Staat die ertoe is toegetreden of is uitgenodigd ertoe toe te treden, in kennis van: 
 
 a. iedere ondertekening overeenkomstig artikel 14;  
 

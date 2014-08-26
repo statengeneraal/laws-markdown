@@ -23,7 +23,7 @@ Gelet op:
 
 – verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165);
 
-Gelet op de [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de Gezondheids- en welzijnswet voor dieren,](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) de[ artikelen 2](../../../../../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md), [3](../../../../../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md), [4](../../../../../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md) en [5 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten](../../../../../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md) en [artikel 2, onderdeel b, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong](../../../../../../../../AMvB/besluit/uitvoer/dieren/en/produkten/van/dierlijke/oorsprong/BWBR0006427/README.md);
+Gelet op de artikelen 10 en 11 van de Gezondheids- en welzijnswet voor dieren, de artikelen 2, 3, 4 en 5 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten en artikel 2, onderdeel b, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong;
 Besluit:     
 ### Titel  1  
 
@@ -60,7 +60,7 @@ j. verordening (EG) nr. 882/2004: verordening (EG) nr. 882/2004 van het Europees
 k. verordening (EG) nr. 852/2004: verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake levensmiddelenhygiëne (PbEU L 226);  
 
 l. verordening (EG) nr. 853/2004: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 226).     
-2.  Deze regeling berust mede op [artikel 2, onderdeel c, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong](../../../../../../../../AMvB/besluit/uitvoer/dieren/en/produkten/van/dierlijke/oorsprong/BWBR0006427/README.md).  
+2.  Deze regeling berust mede op artikel 2, onderdeel c, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong.  
 
 ### Artikel  1.1.2  
 
@@ -72,7 +72,7 @@ b. communautaire uitvoeringsmaatregel: verordening, richtlijn of beschikking als
 
 c. minister: Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
-d. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../../../rijksKB/besluit/kapittel/voor/de/civiele/orden/BWBR0007026/README.md).   
+d. wet: Gezondheids- en welzijnswet voor dieren.   
 
 ### §  1.2  
 
@@ -668,7 +668,7 @@ b. de verplichting tot, in voorkomend geval, herstel van gebreken in het certifi
 
 ### Artikel   6.1  
 
-Vergunningen, erkenningen, toestemmingen, goedkeuringen en registraties, die ter uitvoering van communautaire maatregelen zijn verleend, onderscheidenlijk hebben plaatsgevonden op grond van de [hoofdstukken 2](../../../../../../../../ministeriele-regeling/regeling/keuring/en/handel/dierlijke/producten/BWBR0006727/README.md),[ 3](../../../../../../../../ministeriele-regeling/regeling/keuring/en/handel/dierlijke/producten/BWBR0006727/README.md), [10](../../../../../../../../ministeriele-regeling/regeling/keuring/en/handel/dierlijke/producten/BWBR0006727/README.md), [11](../../../../../../../../ministeriele-regeling/regeling/keuring/en/handel/dierlijke/producten/BWBR0006727/README.md) of [11A van de Regeling keuring en handel dierlijke producten](../../../../../../../../ministeriele-regeling/regeling/keuring/en/handel/dierlijke/producten/BWBR0006727/README.md), de [Regeling in- en doorvoer vlees 1979](../../../../../../../../ministeriele-regeling/regeling/in-/en/doorvoer/vlees/1979/BWBR0003217/README.md), de [Regeling in- en doorvoer vleesproducten 1985](../../../../../../../../ministeriele-regeling/regeling/in-/en/doorvoer/vleesproducten/1985/BWBR0003776/README.md), de [Regeling in- en doorvoer van pluimveeproducten 1993](../../../../../../../../ministeriele-regeling/regeling/in/en/doorvoer/van/pluimveeproducten/1993/BWBR0005907/README.md) of de [Regeling invoer konijne- en hazevlees 1993](../../../../../../../../ministeriele-regeling/regeling/invoer/konijne-/en/hazevlees/1993/BWBR0006049/README.md), worden geacht te zijn verleend, onderscheidenlijk te hebben plaatsgevonden op grond van deze regeling. 
+Vergunningen, erkenningen, toestemmingen, goedkeuringen en registraties, die ter uitvoering van communautaire maatregelen zijn verleend, onderscheidenlijk hebben plaatsgevonden op grond van de hoofdstukken 2, 3, 10, 11 of 11A van de Regeling keuring en handel dierlijke producten, de Regeling in- en doorvoer vlees 1979, de Regeling in- en doorvoer vleesproducten 1985, de Regeling in- en doorvoer van pluimveeproducten 1993 of de Regeling invoer konijne- en hazevlees 1993, worden geacht te zijn verleend, onderscheidenlijk te hebben plaatsgevonden op grond van deze regeling. 
 
 ### Artikel  6.2  
 
@@ -680,16 +680,16 @@ Wijzigt de Regeling handel levende dieren en levende producten.
 
 ### Artikel  6.4  
 
-De [Regeling invoer hooi en stro](../../../../../../../../ministeriele-regeling/regeling/invoer/hooi/en/stro/BWBR0007458/README.md) wordt ingetrokken. 
+De Regeling invoer hooi en stro wordt ingetrokken. 
 
 ### Artikel  6.5  
 
-1.  De[ Regeling keuring en handel dierlijke producten](../../../../../../../../ministeriele-regeling/regeling/keuring/en/handel/dierlijke/producten/BWBR0006727/README.md) wordt ingetrokken.   
-2.  Dit artikel berust mede op de [artikelen 19](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [26](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md),[ 27 ](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md)en [28 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
+1.  De Regeling keuring en handel dierlijke producten wordt ingetrokken.   
+2.  Dit artikel berust mede op de artikelen 19, 26, 27 en 28 van de Landbouwwet.  
 
 ### Artikel  6.6  
 
-De [Regeling uitvoering Europese vrijwaringsmaatregelen dieren en producten](../../../../../../../../ministeriele-regeling/regeling/uitvoering/europese/vrijwaringsmaatregelen/dieren/en/producten/BWBR0018875/README.md) wordt ingetrokken. 
+De Regeling uitvoering Europese vrijwaringsmaatregelen dieren en producten wordt ingetrokken. 
 
 ### Artikel  6.7  
 

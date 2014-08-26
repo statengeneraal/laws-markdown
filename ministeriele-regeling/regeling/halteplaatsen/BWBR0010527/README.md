@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuurbeheer en Visserij,  
 Handelende in overeenstemming met de Minister van Verkeer en Waterstaat;
 
-Gelet op Verordening (EG) Nr. 1255/97 van de Raad van de Europese Unie van 25 juni 1997 betreffende de communautaire criteria voor halteplaatsen en tot aanpassing van het in richtlijn 91/628/EEG bedoelde reisschema (PbEG L 174) alsmede op [artikel 7, vijfde lid, Besluit dierenvervoer 1994](../../../../AMvB/besluit/dierenvervoer/1994/BWBR0006990/README.md);
+Gelet op Verordening (EG) Nr. 1255/97 van de Raad van de Europese Unie van 25 juni 1997 betreffende de communautaire criteria voor halteplaatsen en tot aanpassing van het in richtlijn 91/628/EEG bedoelde reisschema (PbEG L 174) alsmede op artikel 7, vijfde lid, Besluit dierenvervoer 1994;
 Besluit:     
 
 ###Artikel  1  
@@ -52,7 +52,7 @@ Deze regeling wordt aangehaald als: Regeling controleposten.
 
 ### Artikel  6  
 
-Deze regeling berust op [artikel 59a van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). 
+Deze regeling berust op artikel 59a van de Gezondheids- en welzijnswet voor dieren. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

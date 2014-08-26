@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 december 2006, nr. TRCJZ/2006/3773, houdende regels omtrent de bescherming van dieren tijdens vervoer en daarmee samenhangende activiteiten
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op verordening (EG) nr. 1/2005 van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en Verordening (EG) nr. 1255/97, en de [artikelen 59](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [59a, eerste en vijfde lid](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [94, eerste lid, onderdelen d, e en f, van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op verordening (EG) nr. 1/2005 van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en Verordening (EG) nr. 1255/97, en de artikelen 59, 59a, eerste en vijfde lid en 94, eerste lid, onderdelen d, e en f, van de Gezondheids- en welzijnswet voor dieren;
 Besluit:     
 ### §  1  
 
@@ -89,11 +89,11 @@ Wijzigt de Vrijstellingsregeling dierenwelzijn.
 
 De volgende regelingen worden ingetrokken:
 
-a.de [Regeling aanwijzing slachtinrichtingen 2004](../../../../../ministeriele-regeling/regeling/aanwijzing/slachtinrichtingen/2004/BWBR0016107/README.md);
+a.de Regeling aanwijzing slachtinrichtingen 2004;
 
-b.de [Regeling dierenvervoer](../../../../../ministeriele-regeling/regeling/dierenvervoer/BWBR0007482/README.md);
+b.de Regeling dierenvervoer;
 
-c.de [Regeling vrijstelling dierenvervoer](../../../../../ministeriele-regeling/regeling/vrijstelling/dierenvervoer/BWBR0007480/README.md).
+c.de Regeling vrijstelling dierenvervoer.
 
 ### Artikel  14  
 

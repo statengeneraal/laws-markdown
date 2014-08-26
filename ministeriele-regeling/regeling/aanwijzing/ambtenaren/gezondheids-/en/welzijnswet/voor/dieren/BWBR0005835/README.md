@@ -3,12 +3,12 @@
 ##Regeling aanwijzing ambtenaren Gezondheids- en welzijnswet voor dieren
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 114 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) (Stb. 1992, 585);
+Gelet op artikel 114 van de Gezondheids- en welzijnswet voor dieren (Stb. 1992, 585);
 Besluit:    
 
 ### Artikel  1  
 
-Als ambtenaren als bedoeld in [artikel 114, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), belast met het toezicht op de naleving van die wet en de daarop berustende bepalingen worden aangewezen: 
+Als ambtenaren als bedoeld in artikel 114, eerste lid, van de Gezondheids- en welzijnswet voor dieren, belast met het toezicht op de naleving van die wet en de daarop berustende bepalingen worden aangewezen: 
 
 a. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit; 
 
@@ -18,7 +18,7 @@ c.vervallen;
 
 d.vervallen;
 
-e.de ambtenaren van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+e.de ambtenaren van politie, bedoeld in artikel 2, onderdeel a, van de Politiewet 2012;
 
 f. militairen van de Koninklijke marechaussee;
 
@@ -30,17 +30,17 @@ i.ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane;
 
 j. ambtenaren van de Inspectie Leefomgeving en Transport;
 
-k. ten hoogste vier daartoe door het College van Burgemeester en Wethouders van de gemeente Capelle aan den IJssel aangewezen ambtenaren van die gemeente, voor zover het betreft het toezicht op de naleving van de [artikelen 36](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [37 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), met uitzondering van de bevoegdheid, bedoeld in [artikel 115, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), voor een periode tot 15 februari 2016; 
+k. ten hoogste vier daartoe door het College van Burgemeester en Wethouders van de gemeente Capelle aan den IJssel aangewezen ambtenaren van die gemeente, voor zover het betreft het toezicht op de naleving van de artikelen 36 en 37 van de Gezondheids- en welzijnswet voor dieren, met uitzondering van de bevoegdheid, bedoeld in artikel 115, tweede lid, van de Gezondheids- en welzijnswet voor dieren, voor een periode tot 15 februari 2016; 
 
 l. ambtenaren van de gemeente Horst aan de Maas, van de gemeente Venray en van het waterschap Peel en Maasvallei, voor zover het betreft het grondgebied van de gemeenten Horst aan de Maas en Venray.  
 
 ###Artikel 1a 
 
-Als ambtenaren als bedoeld in [artikel 114, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), belast met het onderzoek naar de aanwezigheid van besmettelijke dierziekten, worden aangewezen de in artikel 1, onderdeel a, bedoelde ambtenaren.
+Als ambtenaren als bedoeld in artikel 114, tweede lid, van de Gezondheids- en welzijnswet voor dieren, belast met het onderzoek naar de aanwezigheid van besmettelijke dierziekten, worden aangewezen de in artikel 1, onderdeel a, bedoelde ambtenaren.
 
 ### Artikel  2  
 
-Als ambtenaren als bedoeld in [artikel 114, derde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), belast met de opsporing van feiten strafbaar gesteld bij [artikel 121 van die wet](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), worden aangewezen de in artikel 1, onderdeel a, bedoelde ambtenaren. 
+Als ambtenaren als bedoeld in artikel 114, derde lid, van de Gezondheids- en welzijnswet voor dieren, belast met de opsporing van feiten strafbaar gesteld bij artikel 121 van die wet, worden aangewezen de in artikel 1, onderdeel a, bedoelde ambtenaren. 
 
 ### Artikel  4  
 
@@ -48,7 +48,7 @@ Deze regeling treedt in werking met ingang van 1 februari 1993.
 
 ### Artikel  5  
 
-Deze regeling kan worden aangehaald als: [Regeling aanwijzing ambtenaren Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/ambtenaren/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005835/README.md). 
+Deze regeling kan worden aangehaald als: Regeling aanwijzing ambtenaren Gezondheids- en welzijnswet voor dieren. 
 Deze regeling zal in de Staatscourant worden geplaatst. 
 
 's-Gravenhage 

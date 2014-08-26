@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 1 februari 1994, No. J. 941220, Directie Juridische en Bedrijfsorganisatorische Zaken;
 
-Gelet op richtlijn nr. 77/504/EEG van de Raad van de Europese Gemeenschappen van 25 juli 1977 betreffende raszuivere fokrunderen (*PbEG* L 206), richtlijn nr. 87/328/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1987 betreffende de toelating van raszuivere fokrunderen tot de voortplanting (*PbEG* L 167), richtlijn nr. 88/661/EEG van de Raad van de Europese Gemeenschappen van 19 december 1988 betreffende zoötechnische normen die gelden voor fokvarkens (*PbEG* L 382), richtlijn nr. 89/361/EEG van de Raad van de Europese Gemeenschappen van 30 mei 1989 betreffende raszuivere fokschapen en -geiten (*PbEG* L 153), richtlijn nr. 90/118/EEG van de Raad van de Europese Gemeenschappen van 5 maart 1990 betreffende de toelating van raszuivere fokvarkens tot de voortplanting (*PbEG* L 71), richtlijn nr. 90/119/EEG van de Raad van de Europese Gemeenschappen van 5 maart 1990 betreffende de toelating van hybride fokvarkens tot de voortplanting (*PbEG* L 71), richtlijn nr. 90/427/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het intracommunautaire handelsverkeer in paardachtigen (*PbEG* L 224), richtlijn nr. 91/174/EEG van de Raad van de Europese Gemeenschappen van 25 maart 1991 inzake zoötechnische en genealogische voorschriften voor de handel in rasdieren en tot wijziging van de richtlijnen 77/504/EEG en 90/425/EEG (*PbEG* L 85), richtlijn nr. 94/28/EG van de Raad van de Europese Unie van 23 juni 1994 tot vaststelling van de beginselen inzake de zoötechnische en genealogische voorschriften voor de invoer uit derde landen van dieren, alsmede van sperma, eicellen en embryo’s en tot wijziging van Richtlijn 77/504/EEG betreffende raszuivere fokrunderen (*PbEG* L 178) en op de op voormelde richtlijnen gebaseerde regelgeving van de Europese Gemeenschap alsmede op de [artikelen 76](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), eerste lid, [108](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [111](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [130, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op richtlijn nr. 77/504/EEG van de Raad van de Europese Gemeenschappen van 25 juli 1977 betreffende raszuivere fokrunderen (*PbEG* L 206), richtlijn nr. 87/328/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1987 betreffende de toelating van raszuivere fokrunderen tot de voortplanting (*PbEG* L 167), richtlijn nr. 88/661/EEG van de Raad van de Europese Gemeenschappen van 19 december 1988 betreffende zoötechnische normen die gelden voor fokvarkens (*PbEG* L 382), richtlijn nr. 89/361/EEG van de Raad van de Europese Gemeenschappen van 30 mei 1989 betreffende raszuivere fokschapen en -geiten (*PbEG* L 153), richtlijn nr. 90/118/EEG van de Raad van de Europese Gemeenschappen van 5 maart 1990 betreffende de toelating van raszuivere fokvarkens tot de voortplanting (*PbEG* L 71), richtlijn nr. 90/119/EEG van de Raad van de Europese Gemeenschappen van 5 maart 1990 betreffende de toelating van hybride fokvarkens tot de voortplanting (*PbEG* L 71), richtlijn nr. 90/427/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het intracommunautaire handelsverkeer in paardachtigen (*PbEG* L 224), richtlijn nr. 91/174/EEG van de Raad van de Europese Gemeenschappen van 25 maart 1991 inzake zoötechnische en genealogische voorschriften voor de handel in rasdieren en tot wijziging van de richtlijnen 77/504/EEG en 90/425/EEG (*PbEG* L 85), richtlijn nr. 94/28/EG van de Raad van de Europese Unie van 23 juni 1994 tot vaststelling van de beginselen inzake de zoötechnische en genealogische voorschriften voor de invoer uit derde landen van dieren, alsmede van sperma, eicellen en embryo’s en tot wijziging van Richtlijn 77/504/EEG betreffende raszuivere fokrunderen (*PbEG* L 178) en op de op voormelde richtlijnen gebaseerde regelgeving van de Europese Gemeenschap alsmede op de artikelen 76, eerste lid, 108, 111 en 130, eerste lid, van de Gezondheids- en welzijnswet voor dieren;
 
 Gezien het advies van de Raad voor Dierenaangelegenheden en het advies van het Landbouwschap;
 
@@ -61,6 +61,16 @@ c. voor schapen en geiten: bij regelgeving van de Europese Gemeenschap op grond 
 d. voor paardachtigen: bij regelgeving van de Europese Gemeenschap op grond van artikel 4 van richtlijn 90/427/EEG zijn gesteld.     
 2.   Een erkenning als bedoeld in het eerste lid wordt niet verleend indien niet gewaarborgd is dat de betrokken organisatie artikel 2, eerste lid, in acht neemt.   
 3.   Onze Minister doet mededeling in de *Staatscourant* van de in het eerste lid bedoelde regelgeving van de Europese Gemeenschap, waarbij tevens de datum van inwerkingtreding van deze regelgeving wordt vermeld.  
+
+### Artikel  3a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een erkenning als bedoeld in artikel 3, eerste, tweede en derde lid, wordt niet verleend indien niet gewaarborgd is dat de betrokken organisatie artikel 2, eerste lid, en artikel 6, eerste lid, in acht neemt.   
+2.  Onze Minister trekt een erkenning in indien: 
+
+a. een organisatie niet meer voldoet aan de erkenningsvoorwaarden;  
+
+b. een organisatie de in artikel 2, eerste lid of artikel 6, eerste lid, bedoelde regels niet naleeft.    
 
 ### Artikel  4  
 
@@ -135,9 +145,14 @@ b.het verrichten van werkzaamheden en het bij verordening stellen van nadere reg
 2.   Een wijziging van een of meer onderdelen van de op de in het eerste lid bedoelde richtlijnen gebaseerde uitvoeringsregelgeving van de Europese Gemeenschap treedt voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, in werking met ingang van de dag waarop aan de betrokken wijzigingsregelgeving uitvoering moet zijn gegeven.   
 3.   Onze Minister doet van een wijzigingsrichtlijn of van wijzigingsregelgeving als bedoeld in de voorgaande leden, mededeling in de *Staatscourant*, waarbij tevens de datum van inwerkingtreding van deze regelgeving wordt vermeld.  
 
+### Artikel  12a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij ministeriële regeling kunnen ter uitvoering van artikel 6bis van verordening (EG) nr. 999/2001 regels worden gesteld over het fokken van schapen op resistentie tegen overdraagbare spongiforme encefalopathieën. 
+
 ### Artikel  13  
 
-De artikelen 76 en 129, onderdeel *a*, van de [Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) alsmede dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
+De artikelen 76 en 129, onderdeel *a*, van de Gezondheids- en welzijnswet voor dieren alsmede dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 ### Artikel  14  
 

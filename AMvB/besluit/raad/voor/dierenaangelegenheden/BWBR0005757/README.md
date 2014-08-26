@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 12 februari 1992, nr. J. 921117, Directie Juridische en Bedrijfsorganisatorische Zaken, gedaan in overeenstemming met de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur;
 
-Gelet op [artikel 2 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) (*Stb.* 1992, 585);
+Gelet op artikel 2 van de Gezondheids- en welzijnswet voor dieren (*Stb.* 1992, 585);
 
 De Raad van State gehoord (advies van 19 mei 1992, nr. W11.92.0075);
 
@@ -22,9 +22,9 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Landbouw, Natuurbeheer en Visserij;  
 
-b. Raad: Raad voor dierenaangelegenheden als bedoeld in [artikel 2 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) (*Stb.* 1992, 585);  
+b. Raad: Raad voor dierenaangelegenheden als bedoeld in artikel 2 van de Gezondheids- en welzijnswet voor dieren (*Stb.* 1992, 585);  
 
-c. Afdeling: een afdeling als bedoeld in [artikel 2, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
+c. Afdeling: een afdeling als bedoeld in artikel 2, tweede lid, van de Gezondheids- en welzijnswet voor dieren.   
 
 ### §  2  
 
@@ -244,7 +244,7 @@ Telkens binnen een termijn van zes jaren brengt de Raad een rapport uit aan Onze
 
 ### Artikel  23  
 
-[Artikel 2 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. 
+Artikel 2 van de Gezondheids- en welzijnswet voor dieren en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. 
 
 ### Artikel  24  
 

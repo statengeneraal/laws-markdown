@@ -5,7 +5,7 @@
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
 Gelet op titel I en III, van verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van Verordening (EG) nr. 820/97 van de Raad; op verordening (EG) nr. 2629/97 van de Commissie van de Europese Gemeenschappen van 29 december 1997 houdende uitvoeringsbepalingen van Verordening (EG) nr. 820/97 van de Raad inzake oormerken, bedrijfsregisters en paspoorten overeenkomstig de identificatie- en registratieregeling voor runderen (PbEG L 354); op verordening (EG) nr. 494/98 van de Commissie van de Europese Gemeenschappen van 27 februari 1998 houdende uitvoeringsbepalingen voor Verordening (EG) nr. 820/97 van de Raad wat de toepassing van de minimale administratieve sancties in het kader van de identificatie- en registratieregeling voor runderen betreft (PbEG L 060); op richtlijn nr. 64/432/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1964, inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautair handelsverkeer in runderen en varkens (PbEG L 121); op richtlijn nr. 92/102/EEG van de Raad van de Europese Gemeenschappen van 27 november 1992 met betrekking tot de identificatie en de registratie van dieren (PbEG L 355); op beschikking nr. 2000/678/EG van de Commissie van de Europese Gemeenschappen van 23 oktober 2000 houdende vaststelling van uitvoeringsbepalingen inzake de registratie van bedrijven in nationale gegevensbanken voor varkens, zoals bedoeld in Richtlijn 64/432/EEG van de Raad (PbEG L 281);
 
-Gelet op de [artikelen 105](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [107 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en op [artikel 3 van het Besluit identificatie en registratie van dieren](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md);
+Gelet op de artikelen 105 en 107 van de Gezondheids- en welzijnswet voor dieren en op artikel 3 van het Besluit identificatie en registratie van dieren;
 Besluit:     
 ### § 1 
 
@@ -31,7 +31,7 @@ g.  beschikking 2000/678/EG: beschikking nr. 2000/678/EG van de Commissie van de
 
 h. beschikking 2006/968/EG: beschikking 2006/968/EG van de Commissie van 15 december 2006 tot uitvoering van Verordening (EG) nr. 21/2004 van de Raad wat betreft richtsnoeren en procedures voor de elektronische identificatie van schapen en geiten (PbEU L 401); 
 
-i.  besluit: [Besluit identificatie en registratie van dieren](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md);  
+i.  besluit: Besluit identificatie en registratie van dieren;  
 
 j.  *minister:* Minister van Economische Zaken;  
 
@@ -87,7 +87,7 @@ ff.  categorie 1-verwerkingsbedrijf: een bedrijf dat overeenkomstig artikel 24, 
 
 gg.  categorie 2-verwerkingsbedrijf: een bedrijf dat overeenkomstig artikel 24, eerste lid, onderdeel a, van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002, is erkend om categorie 2-materiaal te verwerken;  
 
-hh. relatienummer: uniek nummer dat door Dienst Regelingen van het ministerie aan een houder van dieren is toegekend; 
+hh. relatienummer: uniek nummer dat door de minister aan een houder van dieren is toegekend; 
 
 ii.  verhandelen: het voorhanden of in voorraad hebben, afleveren, te koop aanbieden, kopen, vervreemden, afvoeren en aanvoeren; 
 
@@ -101,11 +101,11 @@ mm.  *richtlijn 92/102/EEG:* richtlijn nr. 92/102/EEG van de Raad van de Europe
 
 nn.  *richtlijn 2008/71/EG:* richtlijn nr. 2008/71/EG van de Raad van de Europese Unie van 15 juli 2008 met betrekking tot de identificatie en registratie van varkens (PbEU L 213); 
 
-oo.  *stallijst:* overzicht van alle op een bepaald moment onder een UBN in het I&R-systeem geregistreerde runderen, schapen of geiten en van oormerken die op dat moment op dat UBN in voorraad zijn;  
+oo.  *stallijst:* overzicht van alle op een bepaald moment onder een UBN in het I&R-systeem geregistreerde runderen, schapen of geiten en van oormerken die op dat moment op het relatienummer van de houder geregistreerd staan;  
 
 pp.  *bedrijfsregister:* door de houder op zijn bedrijf bij te houden register, bedoeld in artikel 5, eerste lid, van verordening 21/2004 voor wat betreft schapen en geiten of zoals bedoeld in artikel 7, eerste lid, eerste gedachtestreepje, van verordening 1760/2000 voor wat betreft runderen;  
 
-qq.  *wet:* [Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+qq.  *wet:* Gezondheids- en welzijnswet voor dieren;  
 
 rr.  *I&R-systeem:* door de bevoegde autoriteit bijgehouden, gecentraliseerd en gecomputeriseerd gegevensbestand als bedoeld in artikel 5 van verordening 1760/2000 of artikel 5 van verordening 21/2004; 
 
@@ -118,7 +118,7 @@ ss:  *Verordening (EG) nr. 504/2008:* Verordening (EG) nr. 504/2008 van de Commi
 ### Artikel  2  
 
 1.  De houder van dieren meldt zich binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop hij dieren is gaan houden aan bij de minister.   
-2.  De aanmelding, bedoeld in het eerste lid, geschiedt telefonisch of via het internet bij de Dienst Regelingen van het ministerie.  
+2.  De aanmelding, bedoeld in het eerste lid, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
 3.  Bij de aanmelding, bedoeld in het eerste lid, verstrekt de houder de volgende gegevens:
 
 a. naam, adres en woonplaats van de houder;  
@@ -168,7 +168,7 @@ De gegevens, bedoeld in artikel 2, derde lid, worden in het gecomputeriseerde ge
 1.  De merken worden uitsluitend op bestelling aan de houder verstrekt door de minister of door een leverancier die door de minister als leverancier van merken en slachtmerken is geregistreerd.   
 2.  De bestelling, bedoeld in het eerste lid, geschiedt, voor zover de bestelling betrekking heeft op: 
 
-a. runderen, elektronisch bij de Dienst Regelingen van het ministerie of rechtstreeks bij de leverancier, bedoeld in het eerste lid;  
+a. runderen, bij de minister met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld of rechtstreeks bij de leverancier, bedoeld in het eerste lid;  
 
 b. schapen en geiten en varkens, rechtstreeks bij de leverancier bedoeld in het eerste lid.     
 3.  De leverancier, bedoeld in het eerste lid, voldoet aan de volgende eisen: 
@@ -202,8 +202,7 @@ c. een ambtenaar van de NVWA.
 ### Artikel  11  
 
 1.  De houder draagt er zorg voor dat de merken aan of in de dieren die hij houdt, bevestigd, onderscheidenlijk aanwezig blijven.   
-2.  Indien een merk voor runderen, overeenkomstig de toestemming, bedoeld in [artikel 104, tweede lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), is verwijderd, meldt de houder de identificatiecode, bedoeld in artikel 14, onderdeel b, van dat merk aan de minister.   
-3.  Het is verboden een merk te hergebruiken   
+2.  Het is verboden een merk te hergebruiken   
 
 ### Artikel  12  
 
@@ -219,8 +218,8 @@ b. dieren die hij houdt te merken met merken die blijkens de op het merk vermeld
 2°. ingeval van varkens met merken die niet door de minister of een leverancier als bedoeld in artikel 9, eerste lid, ter beschikking zijn gesteld;  
 
 3°.ingeval van schapen en geiten, met merken die niet afkomstig zijn van een leverancier als bedoeld in artikel 12f, eerste lid, onderdeel c.    
-3. In afwijking van het eerste lid, is het de houder van runderen, schapen of geiten toegestaan de in dat lid bedoelde handelingen te verrichten, indien de houder die de merken verstrekt, voorafgaand aan die verstrekking melding maakt van de beoogde verstrekking bij Dienst Regelingen van het ministerie.
-4. De melding, bedoeld in het derde lid, geschiedt per telefoon via het daartoe ingerichte voice response systeem, of elektronisch.
+3. In afwijking van het eerste lid, is het de houder van runderen, schapen of geiten toegestaan de in dat lid bedoelde handelingen te verrichten, indien de houder die de merken verstrekt, voorafgaand aan die verstrekking melding maakt van de beoogde verstrekking bij de minister.
+4. De melding, bedoeld in het derde lid, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
 5. In afwijking van het tweede lid, onderdeel b, is het de houder van runderen, schapen of geiten toegestaan de runderen onderscheidenlijk schapen of geiten te merken met merken die overeenkomstig het eerste lid door een andere houder zijn verstrekt, nadat de melding, bedoeld in het derde lid, is gedaan.
 
 ###§ 3.1 
@@ -239,13 +238,13 @@ c. op het merk is een door de minister afgegeven identificatiecode aangebracht.
 
 ### Artikel 12b  
 
-1. De aanvraag tot goedkeuring van een model van het merk, dan wel merken, en de wijzigingen daarvan, bedoeld in artikel 12a, eerste lid, onderdeel a, geschiedt schriftelijk in papieren versie en wordt ingediend bij Dienst Regelingen van het ministerie. De aanvraag gaat vergezeld van het model van het merk, dan wel de merken, waarvoor goedkeuring wordt aangevraagd.
+1. De aanvraag tot goedkeuring van een model van het merk, dan wel merken, en de wijzigingen daarvan, bedoeld in artikel 12a, onderdeel a, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld. De aanvraag gaat vergezeld van het model van het merk, dan wel de merken, waarvoor goedkeuring wordt aangevraagd.
 2. Een model van het merk, dan wel merken en de wijzigingen daarvan worden door de minister goedgekeurd indien: 
 
 a. het merk, dan wel de merken voldoen aan de artikelen 1, 2, 3 en in voorkomend geval artikel 4 van verordening 911/2004, en  
 
 b. het merk, dan wel de merken een gele kleur hebben.  
-3.. Het is toegestaan op een merk ter aanvulling op de gegevens die ingevolge artikel 1 en in voorkomend geval artikel 4 van verordening 911/2004 op het merk worden vermeld, een streepjescode als bedoeld in artikel 1, derde lid, van verordening 911/2004, aan te brengen.
+3. Het is toegestaan op een merk ter aanvulling op de gegevens die ingevolge artikel 1 en in voorkomend geval artikel 4 van verordening 911/2004 op het merk worden vermeld, een streepjescode als bedoeld in artikel 1, derde lid, van verordening 911/2004, aan te brengen.
 
 ### Artikel 12c  
 
@@ -302,7 +301,7 @@ b.voor de tatoeage de eisen in artikel 12j.
 
 ### Artikel 12g  
 
-1. De aanvraag tot goedkeuring van een model geschiedt schriftelijk en wordt ingediend bij de Algemeen Directeur van de Dienst Regelingen van het Ministerie. De schriftelijke aanvraag gaat vergezeld van de modellen van de merken waarvoor goedkeuring wordt aangevraagd.
+1.  De aanvraag tot goedkeuring van een model geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld. De aanvraag gaat vergezeld van de modellen van de merken waarvoor goedkeuring wordt gevraagd. 
 2. Een model van een conventioneel merk wordt door de Minister goedgekeurd indien:
 
 a.het voldoet aan deel A, onderdelen 1 tot en met 4, van de bijlage bij verordening 21/2004, en
@@ -378,7 +377,7 @@ b. het merk of slachtmerk is afkomstig van een door de minister geregistreerde l
 
 ### Artikel  12l  
 
-1.  De aanvraag tot goedkeuring van een model van het merk of slachtmerk, en de wijzigingen daarvan, bedoeld in artikel 12k, onderdeel a, geschiedt schriftelijk en wordt ingediend bij Dienst Regelingen van het ministerie. De aanvraag gaat vergezeld van het model van het merk of slachtmerk waarvoor goedkeuring wordt aangevraagd.   
+1.  De aanvraag tot goedkeuring van een model van het merk of slachtmerk, en de wijzigingen daarvan, bedoeld in artikel 12k, onderdeel a, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld. De aanvraag gaat vergezeld van het model van het merk of slachtmerk waarvoor goedkeuring wordt aangevraagd.   
 2.  Een model van het merk of slachtmerk en de wijzigingen daarvan, worden door de minister goedgekeurd indien: 
 
 a. het merk of slachtmerk voldoet aan artikel 5 van de richtlijn 92/102;  
@@ -408,7 +407,7 @@ h. een slachtmerk een lengte heeft van maximaal 55 millimeter, een rond oormerk 
 
 ### Artikel  12m  
 
-1.  De tatoeage van raszuivere of hybride fokvarkens bestaat uit een uniek door de minister verstrekt nummer dat in een voor de ambtenaren als bedoeld in [artikel 114, eerste en tweede lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) toegankelijk geautomatiseerd gegevensbestand door de stamboekhouder is verbonden met het UBN van het bedrijf van geboorte van het fokvarken.   
+1.  De tatoeage van raszuivere of hybride fokvarkens bestaat uit een uniek door de minister verstrekt nummer dat in een voor de ambtenaren als bedoeld in artikel 114, eerste en tweede lid, van de wet toegankelijk geautomatiseerd gegevensbestand door de stamboekhouder is verbonden met het UBN van het bedrijf van geboorte van het fokvarken.   
 2.  De tatoeage wordt aangebracht in de kleuren zwart of groen.   
 3.  De tatoeage wordt aangebracht met een daarvoor geschikte tang op een zodanige wijze dat de tekens goed leesbaar blijven.  
 
@@ -455,11 +454,11 @@ a.  I&R-systeem rund: gecomputeriseerd gegevensbestand als bedoeld in artikel 5 
 
 b. identificatiecode: op het voor een rund bestemd merk vermelde identificatiecode als bedoeld in artikel 4, eerste lid, van verordening 1760/2000, bestaande uit de in artikel 1, tweede lid, van verordening 911/2004 bedoelde landcode gevolgd door maximaal twaalf cijfers, die, blijkens de in het I&R-systeem rund opgenomen gegevens bij het betrokken rund behoort en aan de hand waarvan elk individueel dier kan worden geïdentificeerd en kan worden nagegaan op welk bedrijf het is geboren;  
 
-c.  stallijst: overzicht van alle op een bepaald moment onder een UBN in het I&R-systeem rund geregistreerde runderen en van de oormerken die op dat moment op dat UBN in voorraad zijn;  
+c. vervallen;  
 
-d.  paspoort: paspoort als bedoeld in [artikel 3.1 van de Regeling handel levende dieren en levende producten](../../../../../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md);  
+d.  paspoort: paspoort als bedoeld in artikel 3.1 van de Regeling handel levende dieren en levende producten;  
 
-e.  bedrijfsregister: het door de houder op zijn bedrijf bij te houden register, bedoeld in artikel 7, eerste lid, eerste gedachtestreepje, van verordening 1760/2000;  
+e.  vervallen;  
 
 f.doodgeboorte: de geboorte van een kalf na een draagtijd door de moeder van minimaal 7 maanden, waarbij het kalf op het moment van geboorte niet levend is, of niet levensvatbaar is en sterft voordat bij het kalf een merk is aangebracht. 
 
@@ -499,7 +498,7 @@ Indien een rund één merk heeft verloren, bestelt de houder binnen 3 werkdagen 
 ### Artikel  20  
 
 1.  De termijn, bedoeld in artikel 7, eerste lid, tweede gedachtestreepje, van verordening 1760/2000, waarbinnen de houder de minister in kennis stelt van de in dat onderdeel bedoelde gegevens, bedraagt 3 werkdagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis waarvan kennisgeving wordt gedaan, heeft plaatsgevonden.   
-2.  Bij de in het eerste lid bedoelde kennisgeving doet de houder opgave van zijn relatienummer, het UBN van het betrokken bedrijf en van de identificatiecode van het betrokken rund, alsmede in voorkomend geval van het feit dat merkverlies is opgetreden.   
+2.  Bij de in het eerste lid bedoelde kennisgeving doet de houder opgave van zijn relatienummer, het UBN van het betrokken bedrijf en van de identificatiecode van het betrokken rund.   
 3.  Indien de in het eerste lid bedoelde kennisgeving betrekking heeft op de geboorte van een rund wordt tevens opgave gedaan van de in artikel 14, derde lid, onder C, punt 1, derde, vierde en vijfde gedachtestreepje, van richtlijn 64/432/EEG, bedoelde gegevens.  
 4. Indien de in het eerste lid bedoelde kennisgeving betrekking heeft op de aanvoer van een uit een lidstaat ingevoerd rund op een bedrijf, niet zijnde een slachthuis, dat het bestemmingsadres is, wordt tevens opgave gedaan van de in artikel 14, derde lid, onder C, punt 1, eerste tot en met vijfde gedachtestreepje van richtlijn 64/432/EEG bedoelde gegevens, alsmede het land van geboorte, het land van herkomst en de datum van aanvoer van het rund op het bedrijf, alvorens uitvoering wordt gegeven aan het bepaalde in artikel 21a, eerste lid. 
 5.  Indien de in het eerste lid bedoelde kennisgeving betrekking heeft op de aanvoer van een uit een derde land ingevoerd rund op een bedrijf dat het bestemmingsadres is, wordt tevens opgave gedaan van de in artikel 14, derde lid, onder C, punt 1, derde, vierde en vijfde gedachtestreepje, van richtlijn 64/432/EEG, bedoelde gegevens en van de in artikel 4, derde lid, van verordening 1760/2000, bedoelde oorspronkelijke identificatie door het derde land.   
@@ -509,7 +508,7 @@ Indien een rund één merk heeft verloren, bestelt de houder binnen 3 werkdagen 
 
 ### Artikel  21  
 
-1. De kennisgevingen, bedoeld in artikel 20, eerste, vijfde en zesde lid, geschieden per telefoon via het daartoe ingerichte voice response systeem, of elektronisch.
+1. De kennisgevingen, bedoeld in artikel 20, eerste, vijfde en zesde lid, geschieden met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
 2. Het eerste lid is tevens van toepassing op een kennisgeving die niet binnen de termijn, bedoeld in artikel 20, eerste en zesde lid, is gedaan. 
 
 ### Artikel  21a  
@@ -525,12 +524,12 @@ Indien een rund één merk heeft verloren, bestelt de houder binnen 3 werkdagen 
 ### Artikel  23  
 
 1.  De houder kan een kennisgeving herstellen of intrekken.  
-2. Het verzoek tot herstel of intrekking van een kennisgeving geschiedt per telefoon via het daartoe ingerichte voice response systeem of elektronisch of via een schriftelijke, papieren versie.  
+2. Het verzoek tot herstel of intrekking van een kennisgeving geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.  
 3.  De minister kan nadere voorwaarden stellen waaronder het herstel of de intrekking, bedoeld in het eerste lid, wordt geaccepteerd.   
 
 ### Artikel  24  
 
-De ambtenaren, bedoeld in [artikel 114, eerste lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) zijn tevens belast met het toezicht op de naleving van titel I van verordening 1760/2000.  
+De ambtenaren, bedoeld in artikel 114, eerste lid, van de wet zijn tevens belast met het toezicht op de naleving van titel I van verordening 1760/2000.  
 
 ### Artikel  25  
 
@@ -550,7 +549,7 @@ b.  voorzover het runderen betreft die zijn geïdentificeerd met één of twee m
 
 c.  voor zover het voor 1 januari 1998 geboren runderen betreft die zijn geïdentificeerd met één of twee merken en waarvan uitsluitend de gegevens, bedoeld in artikel 14, derde lid, onder C, onderdeel 1, vijfde gedachtestreepje, van richtlijn 64/432/EEG, niet, niet juist of niet volledig in het I&R-systeem rund zijn vermeld, is gebleken dat dit onderscheidenlijk deze merken bij het rund behoren en ten aanzien van deze runderen, indien deze 12 maanden of ouder zijn, een onderzoek als bedoeld in bijlage II, onderdeel 1 heeft plaatsgevonden;  
 
-d. voor zover het runderen betreft die zijn geïdentificeerd met één of twee merken en waarvan uitsluitend de gegevens, bedoeld in artikel 14, derde lid, onder C, onderdeel 1, zevende gedachtestreepje, van richtlijn 64/432/EEG, niet juist of niet volledig in het I&R-systeem rund zijn vermeld, is gebleken dat dit onderscheidenlijk deze oormerken bij het rund behoren, tenzij als gevolg van de ontbrekende gegevens de ambtenaar, bedoeld in [artikel 114, eerste lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), niet in staat is de herkomst van het rund vast te stellen in welk geval plaatsvindt, afhankelijk van de aard van de onjuistheid of onvolledigheid: 
+d. voor zover het runderen betreft die zijn geïdentificeerd met één of twee merken en waarvan uitsluitend de gegevens, bedoeld in artikel 14, derde lid, onder C, onderdeel 1, zevende gedachtestreepje, van richtlijn 64/432/EEG, niet juist of niet volledig in het I&R-systeem rund zijn vermeld, is gebleken dat dit onderscheidenlijk deze oormerken bij het rund behoren, tenzij als gevolg van de ontbrekende gegevens de ambtenaar, bedoeld in artikel 114, eerste lid, van de wet, niet in staat is de herkomst van het rund vast te stellen in welk geval plaatsvindt, afhankelijk van de aard van de onjuistheid of onvolledigheid: 
 
 1°. een onderzoek als bedoeld in bijlage II, onderdelen 2 en 3, naar het gebruik van stoffen met hormonale, dan wel antihormonale werking of naar de aanwezigheid van ß-agonisten, daaronder begrepen bestanddelen daarvan en eventuele omzettingsproducten;  
 
@@ -575,7 +574,7 @@ In deze paragraaf wordt verstaan onder spenen: het blijvend onttrekken van bigge
 1.  Op een bedrijf geboren varkens worden gemerkt binnen één week nadat zij zijn gespeend, of uiterlijk binnen 3 maanden na de geboorte, of zoveel eerder als zij van het bedrijf worden afgevoerd.   
 2.  Uit een derde land ingevoerde varkens worden op het bestemmingsadres gemerkt binnen 3 werkdagen vanaf de dag van aanvoer op het bestemmingsadres.   
 3.  Het tweede lid geldt niet indien het bestemmingsadres een slachthuis is, mits betrokken varkens op dit slachthuis binnen 3 werkdagen na aanvoer worden geslacht.   
-4.  Onverminderd het eerste lid, worden slachtvarkens voordat ze van een bedrijf worden afgevoerd naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum, gemerkt met een slachtmerk als bedoeld in artikel 8, derde lid.   
+4.  Onverminderd het eerste lid, worden slachtvarkens voordat ze van een bedrijf worden afgevoerd naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum, gemerkt met een slachtmerk als bedoeld in artikel 8, vierde lid.   
 5.  Varkens, waarbij merkverlies is opgetreden, worden binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop het merkverlies is opgetreden, hermerkt met een merk met daarop het UBN van het bedrijf waarop het varken op dat moment verblijft, met uitzondering van slachthuizen of verzamelcentra.  
 
 ### Artikel  30  
@@ -588,7 +587,7 @@ a. datum van de aanvoer en de afvoer;
 
 b. UBN en naam, adres en woonplaats van het bedrijf van herkomst en van het bedrijf van bestemming;  
 
-c. de UBN’s van het oormerk, indien deze afwijken van het in onderdeel b bedoelde UBN van het bedrijf van herkomst;  
+c. UBN of UBN’s van het oormerk, indien deze afwijken van het in onderdeel b bedoelde UBN van het bedrijf van herkomst;  
 
 d. het aantal varkens;  
 
@@ -636,7 +635,7 @@ d. het aantal en het soort varkens;
 e. de datum, en 
 
 f. het kenteken van het transportmiddel.    
-3.  De melding geschiedt per telefoon via het daartoe ingerichte voice response systeem of wordt op elektronische wijze toegezonden overeenkomstig de door de minister aangegeven wijze.   
+3.  De melding geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
 4.  In afwijking van het eerste lid, kan het melden van de afvoer van dode varkens naar een categorie 1-verwerkingsbedrijf of een categorie 2-verwerkingsbedrijf geschieden door tussenkomst van het desbetreffende bedrijf, indien de houder het desbetreffende bedrijf hiertoe schriftelijk in papieren versie heeft gemachtigd.  
 
 ### Artikel  33  
@@ -721,32 +720,24 @@ b.de kennisgeving als bedoeld in artikel 38d, zesde lid, in afwijking van artik
 
 ###Artikel 38ea 
 
-1. De houder van schapen en geiten als bedoeld in de [artikelen 5.2.1 tot en met 5.2.3 van de Regeling tijdelijke maatregelen dierziekten](../../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md) stelt de minister overeenkomstig [artikel 5.2.4, vierde lid, van de Regeling tijdelijke maatregelen dierziekten](../../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md) na een voltooide eerste vaccinatie of na elke jaarlijkse herhalingsvaccinatie in kennis van de datum waarop het dier is gevaccineerd. 
+1. De houder van schapen en geiten als bedoeld in de artikelen 5.2.1 tot en met 5.2.3 van de Regeling tijdelijke maatregelen dierziekten stelt de minister overeenkomstig artikel 5.2.4, vierde lid, van de Regeling tijdelijke maatregelen dierziekten na een voltooide eerste vaccinatie of na elke jaarlijkse herhalingsvaccinatie in kennis van de datum waarop het dier is gevaccineerd. 
 2.  De kennisgevingen, bedoeld in het eerste lid, geschieden binnen 7 dagen nadat de in dat lid bedoelde vaccinaties zijn uitgevoerd, met dien verstande dat de kennisgevingen van de jaarlijkse herhalingsvaccinaties uiterlijk voor 1 augustus van het betreffende jaar geschieden. 
 3. De minister kan aan een ander dan de houder van een schaap of geit de datum waarop het dier is gevaccineerd en de status van de vaccinatie kenbaar maken.
 
 ###Artikel 38f 
 
-1. De kennisgevingen, bedoeld in artikel 38d, eerste tot en met zesde lid en 38e, eerste, tot en met derde lid, geschieden:
-
-a.per telefoon via het daartoe ingerichte voice response systeem, of
-
-b.elektronisch.
-2. Het eerste lid is tevens van toepassing op een kennisgeving die niet binnen de termijn, bedoeld in artikel 38d, zevende lid en 38e, vierde lid, is gedaan.
-3. De kennisgeving, bedoeld in artikel 38ea, eerste lid, geschiedt:
-
-a.elektronisch, of
-
-b.via het DR-loket.
+1.  De kennisgevingen, bedoeld in artikel 38d, eerste tot en met zesde lid en 38e, eerste tot en met derde lid, geschieden met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld. 
+2. Het eerste lid is tevens van toepassing op een kennisgeving die niet binnen de termijn, bedoeld in artikel 38d, zevende en achtste lid, en 38e, vierde lid, is gedaan. 
+3.  De kennisgeving, bedoeld in artikel 38ea, eerste lid, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld. 
 4. Het derde lid is tevens van toepassing op een kennisgeving die niet binnen de termijn, bedoeld in artikel 38ea, derde lid, is gedaan.
 5. De minister kan nadere voorwaarden stellen waaronder de kennisgeving, bedoeld in het derde lid, wordt geaccepteerd.
 
 ###Artikel 38g 
 
-1. De houder kan een kennisgeving herstellen.
-2. Het verzoek tot herstel van een kennisgeving, bedoeld in artikel 38d, eerste tot en met zesde lid, en 38e, eerste tot en met derde lid, geschiedt via het voice response systeem of elektronisch.
-3. Het verzoek tot herstel van een kennisgeving, bedoeld in artikel 38ea, eerste lid, geschiedt elektronisch of via het DR-loket.
-4. De minister kan nadere voorwaarden stellen waaronder het herstel, bedoeld in het eerste lid, wordt geaccepteerd.
+1. De houder kan een kennisgeving herstellen of intrekken.
+2. Het verzoek tot herstel van een kennisgeving, bedoeld in artikel 38d, eerste tot en met zesde lid, en 38e, eerste tot en met derde lid, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+3. Het verzoek tot herstel van een kennisgeving, bedoeld in artikel 38ea, eerste lid, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+4. De minister kan nadere voorwaarden stellen waaronder het herstel of de intrekking, bedoeld in het eerste lid, wordt geaccepteerd.
 
 ###Artikel 38h 
 
@@ -754,15 +745,19 @@ Het is verboden in strijd te handelen met de artikelen 4, eerste, vierde en vijf
 
 ###Artikel 38i 
 
-De ambtenaren, bedoeld in [artikel 114, eerste lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) zijn tevens belast met het toezicht op de naleving van verordening 21/2004.
+De ambtenaren, bedoeld in artikel 114, eerste lid, van de wet zijn tevens belast met het toezicht op de naleving van verordening 21/2004.
 
 ###Artikel 38j 
 
 1. Indien het bedrijf een slachthuis is, controleert de houder, overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer of de schapen of geiten overeenkomstig artikel 13, eerste lid, onderdeel c, zijn geïdentificeerd en geregistreerd.
 2. Indien bij de in het eerste lid bedoelde controle blijkt dat schapen of geiten niet volledig zijn geïdentificeerd en geregistreerd, doet de houder hiervan terstond melding aan de NVWA.
 3. De schapen of geiten, bedoeld in het tweede lid, worden terstond afgezonderd van de overige schapen en geiten in het slachthuis. De ambtenaar van de NVWA kan ter zake aanwijzingen geven.
-4. Schapen en geiten worden slechts geslacht indien bij de in het eerste lid bedoelde controle is gebleken dat de schapen en geiten overeenkomstig artikel 13, eerste lid, onderdeel c, zijn geïdentificeerd en geregistreerd.
-5. In afwijking van het vierde lid, is het toegestaan de in het tweede lid bedoelde schapen of geiten te slachten indien een onderzoek als bedoeld in bijlage II, onderdeel 2 of 3, bij deze regeling heeft plaatsgevonden.
+4. Schapen en geiten worden slechts geslacht indien bij de in het eerste lid bedoelde controle is gebleken dat de schapen en geiten overeenkomstig artikel 13, eerste lid, onderdeel c, zijn geïdentificeerd en geregistreerd. 
+5.  In afwijking van het vierde lid, is het toegestaan om de in het tweede lid bedoelde schapen of geiten te slachten: 
+
+a. indien een onderzoek als bedoeld in bijlage II, onderdeel 2 en 3, heeft plaatsgevonden, of  
+
+b. voor zover het schapen of geiten betreft die zijn geïdentificeerd met één merk, is gebleken dat dit oormerk bij het dier behoort en dat van deze schapen en geiten de gegevens, bedoeld in artikel 13, eerste lid, onderdeel c, juist en volledig in het I&R systeem schapen en geiten zijn vermeld.   
 6. Indien een schaap of geit dat, onderscheidenlijk die is gemerkt met merken als bedoeld in artikel 12e, eerste lid, onderdelen b, d, g of h ter slacht wordt gebracht, vernietigt de houder, onder toezicht van de officiële dierenarts, het elektronische merk terstond na de slacht.
 
 ### §  7a  
@@ -771,27 +766,26 @@ De ambtenaren, bedoeld in [artikel 114, eerste lid, van de wet](../../../../../
 
 ### Artikel  38k  
 
-1.  De gegevens, bedoeld in [artikel 7, derde tot en met vijfde lid](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), [8, eerste en tweede lid](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), en [9, tweede en derde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), worden schriftelijk of digitaal aangeleverd.   
+1.  De gegevens, bedoeld in artikel 7, derde tot en met vijfde lid, 8, eerste en tweede lid, en 9, tweede en derde lid, van het besluit, worden schriftelijk of digitaal aangeleverd.   
 2.  De houder van een hond doet de melding of registratie, bedoeld in: 
 
-a. [artikel 7, vijfde lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), binnen veertien dagen nadat de wijziging zich heeft voorgedaan;  
+a. artikel 7, vijfde lid, onderdeel a, van het besluit, binnen veertien dagen nadat de wijziging zich heeft voorgedaan;  
 
-b. [artikel 7, vijfde lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), binnen veertien dagen nadat de hond overleden of blijvend vermist is;  
+b. artikel 7, vijfde lid, onderdeel b, van het besluit, binnen veertien dagen nadat de hond overleden of blijvend vermist is;  
 
-c. [artikel 8, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), binnen veertien dagen, nadat de hond is overgedragen;  
+c. artikel 8, eerste lid, van het besluit, binnen veertien dagen, nadat de hond is overgedragen;  
 
-d. [artikel 8, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), binnen veertien dagen nadat de hond is verkregen, of  
+d. artikel 8, tweede lid, van het besluit, binnen veertien dagen nadat de hond is verkregen, of  
 
-e. [artikel 9, tweede en derde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), binnen veertien dagen nadat de hond in Nederland is gebracht.    
+e. artikel 9, tweede en derde lid, van het besluit, binnen veertien dagen nadat de hond in Nederland is gebracht.    
 
 ### Artikel  38l  
 
-1.  Een aanvraag tot aanwijzing als databank als bedoeld in [artikel 10 van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), wordt ingediend bij de Dienst Regelingen van het ministerie.   
-2.  Op een aanvraag tot aanwijzing wordt binnen zes weken na de datum van ontvangst van de aanvraag een besluit genomen.   
-3.  De minister kan de termijn eenmaal met zes weken verlengen.   
-4.  Een aanvraag tot aanwijzing gaat vergezeld van: 
+1.  Op een aanvraag tot aanwijzing als databank als bedoeld in artikel 10 van het besluit wordt binnen zes weken na de datum van ontvangst van de aanvraag een besluit genomen.   
+2.  De minister kan de termijn eenmaal met zes weken verlengen.   
+3.  Een aanvraag tot aanwijzing gaat vergezeld van: 
 
-a. bewijsstukken dat voldaan wordt aan [artikel 10, vierde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), waaronder bewijs dat de gegevens, bedoeld in artikel 10, derde lid, van het besluit, elektronisch kunnen worden uitgewisseld met de minister;  
+a. bewijsstukken dat voldaan wordt aan artikel 10, vierde lid, van het besluit, waaronder bewijs dat de gegevens, bedoeld in artikel 10, derde lid, van het besluit, elektronisch kunnen worden uitgewisseld met de minister;  
 
 b. bewijsstukken dat voldaan wordt aan artikel 38m van deze regeling;  
 
@@ -809,8 +803,8 @@ a. inzage geven aan een houder in de geregistreerde gegevens van die houder;
 b. op verzoek aangeven of een hond geregistreerd is in zijn databank, en  
 
 c. indien de beheerder meent dat de gegevens van een houder correct zijn vastgelegd, maar de houder van een hond dit standpunt bestrijdt, vastleggen dat de houder van een hond zijn gegevens als niet correct beschouwt en dit melden aan de minister.     
-3.  De beheerder van een aangewezen databank levert de gegevens, bedoeld in de [artikelen 7, derde tot en met vijfde lid](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), [8, eerste en tweede lid](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), en [9, tweede en derde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), binnen één werkdag na het verkrijgen van de gegevens van de houder aan bij de minister.   
-4.  De gegevens, bedoeld in de [artikelen 7, derde tot en met vijfde lid](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), [8, eerste en tweede lid](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) en [9, tweede en derde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) worden dertig jaar bewaard, met dien verstande dat na melding van overlijden of blijvende vermissing als bedoeld in artikel 7, vijfde lid, onderdeel b, van het besluit, de gegevens vijf jaar na die melding worden bewaard.   
+3.  De beheerder van een aangewezen databank levert de gegevens, bedoeld in de artikelen 7, derde tot en met vijfde lid, 8, eerste en tweede lid, en 9, tweede en derde lid, van het besluit, binnen één werkdag na het verkrijgen van de gegevens van de houder aan bij de minister.   
+4.  De gegevens, bedoeld in de artikelen 7, derde tot en met vijfde lid, 8, eerste en tweede lid en 9, tweede en derde lid, van het besluit worden dertig jaar bewaard, met dien verstande dat na melding van overlijden of blijvende vermissing als bedoeld in artikel 7, vijfde lid, onderdeel b, van het besluit, de gegevens vijf jaar na die melding worden bewaard.   
 5.  Indien de beheerder van een databank te maken krijgt met een onvoorziene situatie waardoor hij niet kan voldoen aan de verplichtingen uit dit artikel, stelt hij onverwijld de minister daarvan op de hoogte.  
 
 ### Artikel  38n  
@@ -830,27 +824,27 @@ d. die het welzijn en de gezondheid van de hond niet negatief beïnvloedt.
 ### Artikel  38o  
 
 1.  Een chip wordt onderhuids aan de linkerzijde van de hals of aan de dorsale zijde tussen de schouderbladen ingebracht.   
-2.  De administratie, bedoeld in [artikel 15 van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md): 
+2.  De administratie, bedoeld in artikel 15 van het besluit: 
 
 a. bevat de plaats in de hond waar de chip is ingebracht, bedoeld in het eerste lid, en  
 
-b. bevat de gegevens van de houder van de hond, bedoeld in [artikel 7, derde of vierde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md).     
-3.  De administratie, bedoeld in [artikel 15 van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), wordt gedurende zeven jaar bewaard.  
+b. bevat de gegevens van de houder van de hond, bedoeld in artikel 7, derde of vierde lid, van het besluit.     
+3.  De administratie, bedoeld in artikel 15 van het besluit, wordt gedurende zeven jaar bewaard.  
 
 ### Artikel  38p  
 
-1.  De verstrekking van unieke nummers aan degene die chips vervaardigt of laat vervaardigen, geschiedt door de Dienst Regelingen van het ministerie.   
-2.  De administratie, bedoeld in [artikel 16 van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), wordt gedurende dertig jaar bewaard.  
+1.  De verstrekking van unieke nummers aan degene die chips vervaardigt of laat vervaardigen, geschiedt door de minister.   
+2.  De administratie, bedoeld in artikel 16 van het besluit, wordt gedurende dertig jaar bewaard.  
 
 ### Artikel  38q  
 
-Indien een chip wordt verwijderd als bedoeld in [artikel 14, vierde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), registreert de houder in een aangewezen databank: 
+Indien een chip wordt verwijderd als bedoeld in artikel 14, vierde lid, van het besluit, registreert de houder in een aangewezen databank: 
 
 a. de datum van vervanging van de chip;  
 
 b. het nummer van de nieuwe chip, en  
 
-c. de gegevens, bedoeld in [artikel 7, derde of vierde lid, van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md).   
+c. de gegevens, bedoeld in artikel 7, derde of vierde lid, van het besluit.   
 
 ### §  7b  
 
@@ -890,7 +884,7 @@ d. tot afgifte en wijziging van een duplicaat identificatiedocument, bedoeld in 
 e. tot afgifte en wijziging van een vervangend identificatiedocument, bedoeld in artikel 17, van Verordening (EG) nr. 504/2008.     
 2.  De minister is de bevoegde autoriteit, bedoeld in de artikelen 15, tweede lid, en 16, tweede lid, van Verordening (EG) nr. 504/2008.   
 3.  Indien in Verordening (EG) nr. 504/2008 een taak wordt opgedragen aan de officiële dierenarts is een dierenarts, verbonden aan de NVWA, daartoe bevoegd, voor zover die taak niet bestaat uit het nemen van besluiten.   
-4.  De contactinstantie, bedoeld in artikel 23, vierde lid, van Verordening (EG) nr. 504/2008, is de Dienst Regelingen van het ministerie.  
+4.  De contactinstantie, bedoeld in artikel 23, vierde lid, van Verordening (EG) nr. 504/2008, is de minister.  
 
 ### Artikel  38u  
 
@@ -929,7 +923,7 @@ Artikel 38v, derde tot en met zevende lid, zijn van overeenkomstige toepassing o
 ### Artikel  38y  
 
 1.  In aanvulling op artikel 19, eerste lid, onderdeel b, van Verordening (EG) nr. 504/2008 wordt een identificatiedocument ongeldig gemaakt door het document te perforeren.   
-2.  Een identificatiedocument dat overeenkomstig artikel 19, eerste lid, onderdeel b, van Verordening (EG) nr. 504/2008 ongeldig is gemaakt wordt door de persoon of instantie, bedoeld in artikel 19, tweede lid, van Verordening (EG) nr. 504/2008 naar Dienst Regelingen gestuurd en teruggestuurd aan de organisatie, bedoeld in artikel 38v, derde of vierde lid, die het identificatiedocument heeft afgegeven.   
+2.  Een identificatiedocument dat overeenkomstig artikel 19, eerste lid, onderdeel b, van Verordening (EG) nr. 504/2008 ongeldig is gemaakt wordt door de persoon of instantie, bedoeld in artikel 19, tweede lid, van Verordening (EG) nr. 504/2008 naar de minister gestuurd en teruggestuurd aan de organisatie, bedoeld in artikel 38v, derde of vierde lid, die het identificatiedocument heeft afgegeven.   
 3.  Een identificatiedocument waarop in strijd met Verordening (EG) nr. 504/2008 wijzigingen of aantekeningen zijn aangebracht, is ongeldig.   
 4.  Indien een duplicaat identificatiedocument of een vervangend identificatiedocument is afgegeven, is het oorspronkelijk voor die paardachtige afgegeven identificatiedocument ongeldig.  
 
@@ -940,7 +934,7 @@ Artikel 38v, derde tot en met zevende lid, zijn van overeenkomstige toepassing o
 
 ### Artikel  38aa  
 
-1.  Degene die de transponder, bedoeld in artikel 2, onderdeel b, van Verordening (EG) nr. 504/2008 ten behoeve van identificatie van paardachtigen vervaardigt of laat vervaardigen, maakt gebruik van unieke nummers die zijn verstrekt door de Dienst Regelingen van het ministerie.   
+1.  Degene die de transponder, bedoeld in artikel 2, onderdeel b, van Verordening (EG) nr. 504/2008 ten behoeve van identificatie van paardachtigen vervaardigt of laat vervaardigen, maakt gebruik van unieke nummers die zijn verstrekt door de minister.   
 2.  Indien degene, bedoeld in het eerste lid, de transponders levert aan een andere persoon of onderneming, houdt diegene een administratie bij van: 
 
 a. de gegevens van de persoon aan wie of onderneming waaraan de transponders worden geleverd, en  
@@ -959,7 +953,6 @@ c. de naam en adresgegevens van degene aan wie de transponder is geleverd;
 d. de naam van de instantie, bedoeld in artikel 38v, derde of vierde lid, dat het identificatiedocument van de paardachtige waarbij de transponder is ingebracht, heeft afgegeven.    
 
 ### Artikel  38bb  
-Treedt in werking per 01-07-2014 
 
 1.  Indien paarden worden aangevoerd op een slachthuis, controleert de houder, overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer of de paarden overeenkomstig artikel 13, eerste lid, onderdeel d, zijn geïdentificeerd en geregistreerd.   
 2.  Indien bij de in het eerste lid bedoelde controle blijkt dat paarden niet volledig zijn geïdentificeerd en geregistreerd of op grond van de identificatie en registratie niet geslacht mogen worden voor menselijke consumptie, doet de houder hiervan terstond melding aan de NVWA.   
@@ -985,7 +978,7 @@ c. de houder van het desbetreffende rund toestaat dat door een ambtenaar van de 
 
 d. voor zover het desbetreffende rund één of twee merken heeft verloren, de houder van het rund er zorg voor draagt dat het rund, overeenkomstig artikel 16 en met inachtneming van de bepalingen van paragraaf 3 en 3.1, wordt hermerkt en dat overeenkomstig onderdeel b een inkeping wordt aangebracht in het merk, onderscheidenlijk de merken.     
 2.  De houder van het rund doet bij de kennisgeving, bedoeld in het eerste lid, onderdeel a, opgave van de in artikel 14, derde lid, onder C, punt 1, derde en vierde gedachtestreepje, van richtlijn 64/432/EEG, bedoelde gegevens.   
-3.  De kennisgeving, bedoeld in het eerste lid, onderdeel a, geschiedt schriftelijk door middel van een door Dienst Regelingen van het Ministerie verstrekt formulier.   
+3.  De kennisgeving, bedoeld in het eerste lid, onderdeel a, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
 4.  De kennisgeving, bedoeld in het eerste lid, onderdeel a, kan niet ongedaan worden gemaakt.   
 5.  Paragraaf 3 en 3.1 zijn van overeenkomstige toepassing op de oormerken, bedoeld in het eerste lid, onderdeel b.   
 6.   In afwijking van artikel 39 is het toegestaan een rund ten aanzien waarvan wordt voldaan aan het eerste lid rechtstreeks af te voeren en te vervoeren naar het slachthuis met het oog op afvoer naar een categorie 1-verwerkingsbedrijf of, onder voorwaarden, via het slachthuis naar categorie 2-verwerkingsbedrijven.  
@@ -999,7 +992,7 @@ d. voor zover het desbetreffende rund één of twee merken heeft verloren, de ho
 
 ### Artikel  41  
 
-1.  In afwijking van de artikelen 39 en 40 kan de minister uit het oogpunt van de gezondheid en het welzijn van de dieren op het bedrijf toestemming geven voor het rechtstreekse vervoer naar het slachthuis, dat plaatsvindt onder toezicht van ambtenaren als bedoeld in [artikel 114, tweede lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). 
+1.  In afwijking van de artikelen 39 en 40 kan de minister uit het oogpunt van de gezondheid en het welzijn van de dieren op het bedrijf toestemming geven voor het rechtstreekse vervoer naar het slachthuis, dat plaatsvindt onder toezicht van ambtenaren als bedoeld in artikel 114, tweede lid, van de wet. 
 2. Aan de toestemming, bedoeld in het eerste lid, kunnen voorwaarden worden verbonden.  
 3.  De artikelen 39 en 40 gelden niet met betrekking tot de afvoer van kadavers van runderen van een bedrijf en bij vervoer van kadavers van runderen, mits de kadavers rechtstreeks worden vervoerd naar een categorie 1-verwerkingsbedijf of een categorie 2-verwerkingsbedrijf en de kadavers ten minste in één oor zijn gemerkt.   
 
@@ -1024,7 +1017,7 @@ d. voor zover het desbetreffende rund één of twee merken heeft verloren, de ho
 
 ### Artikel  43a  
 
-1.  Ter zake van het voorhanden of het in voorraad hebben van runderen is de houder van een of meer runderen jaarlijks een bedrag verschuldigd dat bestaat uit: 
+1.  Degene aan wie een UBN is toegekend ten aanzien van runderen is jaarlijks een bedrag verschuldigd dat bestaat uit: 
 
 a. een vast bedrag per aan de houder toegekend UBN van € 33,50, en  
 
@@ -1050,7 +1043,7 @@ De aantallen runderen die op het bedrijf van een houder zijn geboren, dan wel aa
 ### Artikel  43e  
 
 1.  Voor het verwerken van een kennisgeving als bedoeld in artikel 21, tweede lid, is de houder door wie of namens wie de kennisgeving is verricht een vergoeding van € 1,08 per kennisgeving per rund verschuldigd.   
-2.  Voor het in artikel 22, derde lid, bedoelde invoeren van ontbrekende of juiste gegevens is de houder namens wie de kennisgeving is verricht de volgende vergoedingen per kennisgeving per rund verschuldigd: 
+2.  De houder namens wie de kennisgeving, bedoeld in artikel 22, tweede lid, is verricht, is de volgende vergoeding per kennisgeving per rund verschuldigd: 
 
 a. ingeval aanvullend onderzoek nodig is: € 27,91;  
 
@@ -1058,8 +1051,8 @@ b. ingeval geen aanvullend onderzoek nodig is: € 16,84.
 
 ### Artikel  43f  
 
-1.  Voor het verwerken van een verzoek tot herstel als bedoeld in artikel 23, tweede lid is de houder die het verzoek tot herstel doet een vergoeding verschuldigd van € 1,08 per gegeven.   
-2.  Voor het verwerken van een schriftelijke kennisgeving als bedoeld in artikel 23, tweede lid, is de houder door wie of namens wie de kennisgeving is verricht een vergoeding van € 10,00 per kennisgeving per rund verschuldigd.   
+1.  Voor het verwerken van een verzoek als bedoeld in artikel 23, tweede lid is de houder die het verzoek doet een vergoeding verschuldigd van € 1,08 per gegeven.   
+2.  Voor het verwerken van een schriftelijke kennisgeving als bedoeld in artikel 22, eerste lid, en artikel 23, tweede lid, is de houder door wie of namens wie de kennisgeving is verricht een vergoeding van € 10,00 per kennisgeving per rund verschuldigd.   
 3.  Voor het verwerken van een verzoek tot registratie, na het verstrijken van een termijn van 80 werkdagen als bedoeld in artikel 22, tweede lid, van een geboortemelding van een kalf waarvan de moeder niet meer leeft en waardoor geen afstammingsonderzoek meer mogelijk is, is de houder die het verzoek doet een vergoeding van € 103,– per rund verschuldigd. 
 
 ### Artikel  43g  
@@ -1072,7 +1065,7 @@ Ter zake van het afleggen van een bedrijfsbezoek ten behoeve van het hermerken v
 
 ### Artikel  43h  
 
-1.  Ter zake van het voorhanden of het in voorraad hebben van varkens is de houder van een of meer varkens jaarlijks een bedrag verschuldigd dat bestaat uit: 
+1.  Degene aan wie een UBN is toegekend ten aanzien van varkens is jaarlijks een bedrag verschuldigd dat bestaat uit: 
 
 a. een vast bedrag per aan de houder toegekend UBN, zoals opgenomen in het tweede en derde lid, en  
 
@@ -1094,8 +1087,16 @@ b. € 99,00 indien het door de houder op het desbetreffende UBN aantal gehoude
 
 ### Artikel  43i  
 
-1.  Ter zake van het voorhanden of het in voorraad hebben van een of meer schapen of geiten is de houder van schapen of geiten jaarlijks een bedrag van € 33,50 per aan de houder toegekend UBN verschuldigd.   
-2.  In aanvulling op het eerste lid is de houder per aan de houder toegekend UBN, waar op 1 november van het voorgaande jaar meer dan 100 schapen of geiten worden gehouden, jaarlijks een bedrag van € 540 verschuldigd.  
+1.  Degene aan wie een UBN is toegekend ten aanzien van schapen of geiten is jaarlijks een bedrag verschuldigd dat bestaat uit: 
+
+a. een vast bedrag per aan de houder toegekend UBN van € 26.  
+
+b. een bedrag afhankelijk van de aantallen schapen of geiten die op het bedrijf van de houder zijn geboren, zijn aangevoerd vanuit Nederland, of zijn aangevoerd uit het buitenland.     
+2.  Het verschuldigde bedrag, bedoeld in het eerste lid, onderdeel b, bedraagt € 0,25 per schaap of geit.   
+3.  In afwijking van het tweede lid, onderdeel b, is het verschuldigde bedrag per schaap of geit dat wordt aangevoerd op een verzamelcentrum of slachthuis, € 0,05 per schaap of geit.   
+4.  De aantallen schapen of geiten die op het bedrijf van een houder zijn geboren, dan wel aangevoerd vanuit Nederland of uit het buitenland, zoals bedoeld in artikel 43i, eerste lid, onderdeel b, zijn de aantallen in een kalenderjaar op het bedrijf van de houder geboren of aangevoerde schapen of geiten zoals geregistreerd onder het aan het de houder toegekende UBN in het I&R-systeem schapen en geiten.   
+5.  Voor het verwerken van een schriftelijke kennisgeving, als bedoeld in artikel 38g, tweede lid, is de houder door wie of namens wie de kennisgeving is verricht een bedrag verschuldigd van € 10,– per kennisgeving per schaap of geit.   
+6.  Voor het verwerken van een kennisgeving als bedoeld in artikel 38f, tweede en vierde lid, is de houder door wie of namens wie de kennisgeving is verricht een bedrag van € 0,50 per kennisgeving per schaap of geit verschuldigd.  
 
 ### Artikel  43j  
 
@@ -1108,8 +1109,8 @@ b. € 99,00 indien het door de houder op het desbetreffende UBN aantal gehoude
 
 ### Artikel  43ja  
 
-1.  De beheerder van een aangewezen databank, bedoeld in [artikel 10 van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), is de minister jaarlijks een bedrag verschuldigd van € 2000,–.   
-2.  Voor het verwerken van de gegevens bedoeld in [artikel 7, derde en vierde lid van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), is de beheerder van een aangewezen databank, bedoeld in [artikel 10 van het besluit](../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), een vergoeding verschuldigd aan de minister van € 0,85.  
+1.  De beheerder van een aangewezen databank, bedoeld in artikel 10 van het besluit, is de minister jaarlijks een bedrag verschuldigd van € 2000,–.   
+2.  Voor het verwerken van de gegevens bedoeld in artikel 7, derde en vierde lid van het besluit, is de beheerder van een aangewezen databank, bedoeld in artikel 10 van het besluit, een vergoeding verschuldigd aan de minister van € 0,85.  
 
 ### §  8a.3b  
 
@@ -1166,7 +1167,7 @@ Vervallen per 01-01-2014
 ### Artikel  44b  
 
 1. Van de toegelaten oormerken voor schapen en geiten, bedoeld in bijlage I, onderdeel D, onder 1, 2 en 3, bij de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit, van 27 november 2006, houdende wijziging van de Regeling identificatie en registratie van dieren in verband met modernisering van voorschriften I&R runderen (TRCJZ/2006/3606), wordt het model goedgekeurd op grond van artikel 12f, eerste lid, onderdeel a.
-2. Leveranciers van voor schapen en geiten toegelaten oormerken, bedoeld in bijlage I, onderdeel D, onder 1, 2 en 3, bij de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van 27 november 2006, TRCJZ/2006/3606 worden geacht te zijn geregistreerd door Dienst Regelingen van het Ministerie op grond van artikel 12f, eerste lid, onderdeel c.
+2. Leveranciers van voor schapen en geiten toegelaten oormerken, bedoeld in bijlage I, onderdeel D, onder 1, 2 en 3, bij de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van 27 november 2006, TRCJZ/2006/3606 worden geacht te zijn geregistreerd door de minister op grond van artikel 12f, eerste lid, onderdeel c.
 3. Merken die zijn gebruikt in de Pilot Elektronische identificatie en registratie voor schapen en geiten, als bedoeld in de beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 april 2006 houdende een ontheffing op de Regeling Identificatie en Registratie van dieren en het Ingrepenbesluit, VD/06/920, worden geacht te zijn goedgekeurd op grond van artikel 12f, eerste lid, onderdeel a.
 4. Leveranciers van merken die zijn gebruikt in de Pilot Elektronische identificatie en registratie voor schapen en geiten, als bedoeld in de beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 april 2006 houdende een ontheffing op de Regeling Identificatie en Registratie van dieren en het Ingrepenbesluit, VD/06/920, worden geacht te zijn geregistreerd op grond van artikel 12f, tweede lid, onderdeel b.
 
@@ -1184,17 +1185,17 @@ Vervallen per 01-01-2014
 10. Vervallen.. 
 11. Vervallen.. 
 12.  Vervallen..   
-13.  In afwijking van het eerste, tweede en derde lid, stelt de houder van schapen of geiten op een bedrijf waar op grond van [artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor dieren vanaf 1 juli 2010 een besmetting met Q-koorts is geconstateerd, de minister binnen twee weken na voornoemde constatering ten aanzien van alle door hem gehouden schapen en geiten in kennis van de gegevens, bedoeld in deel B, onderdeel 2, onder a, b en d, van de bijlage bij verordening 21/2004. 
+13.  In afwijking van het eerste, tweede en derde lid, stelt de houder van schapen of geiten op een bedrijf waar op grond van artikel 22, eerste lid, onderdeel d, van de Gezondheids- en welzijnswet voor dieren vanaf 1 juli 2010 een besmetting met Q-koorts is geconstateerd, de minister binnen twee weken na voornoemde constatering ten aanzien van alle door hem gehouden schapen en geiten in kennis van de gegevens, bedoeld in deel B, onderdeel 2, onder a, b en d, van de bijlage bij verordening 21/2004. 
 
 ### Artikel  44ca  
 
-1.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen bij of krachtens de [Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md), die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen op grond van deze regeling, onder dezelfde voorschriften, beperkingen en voorwaarden.   
-2.  Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de [Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md), worden geacht te zijn gedaan op grond van deze regeling.   
+1.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen bij of krachtens de Verordening identificatie en registratie van paardachtigen (PVV) 2009, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen op grond van deze regeling, onder dezelfde voorschriften, beperkingen en voorwaarden.   
+2.  Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de Verordening identificatie en registratie van paardachtigen (PVV) 2009, worden geacht te zijn gedaan op grond van deze regeling.   
 3.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige aanvragen, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag.  
 
 ### Artikel  44d  
 
-Deze regeling berust mede op [artikel 13 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), de [artikelen 94](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [108a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 2 van het Besluit verdachte dieren](../../../../../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md). 
+Deze regeling berust mede op artikel 13 van de Landbouwwet, de artikelen 94, 108 en 108a van de Gezondheids- en welzijnswet voor dieren en artikel 2 van het Besluit verdachte dieren. 
 
 ### Artikel  45  
 
@@ -1203,8 +1204,8 @@ Deze regeling berust mede op [artikel 13 van de Landbouwwet](../../../../../../.
 
 ### Artikel  45a  
 
-1.  De [Regeling tarieven I&R](../../../../../../../../ministeriele-regeling/regeling/tarieven/i&r/BWBR0014539/README.md) wordt ingetrokken.   
-2.  De [Regeling medebewind vergoeding en tuchtrechtelijke maatregelen identificatie en registratie eenhoevige dieren](../../../../../../../../ministeriele-regeling/regeling/medebewind/vergoeding/en/tuchtrechtelijke/maatregelen/etc/BWBR0016030/README.md) wordt ingetrokken.   
+1.  De Regeling tarieven I&R wordt ingetrokken.   
+2.  De Regeling medebewind vergoeding en tuchtrechtelijke maatregelen identificatie en registratie eenhoevige dieren wordt ingetrokken.   
 3.  In afwijking van het eerste lid blijft de regeling, bedoeld in het eerste lid, van toepassing ten aanzien van de bevoegdheid van de minister om de hoogte van de totaal verschuldigde bedragen overeenkomstig die regeling vast te stellen.  
 
 ### Artikel  46  
@@ -1224,7 +1225,7 @@ B.J.Odink
 
 ####Onderzoeken als bedoeld in artikel 26 
 
-1. Een onderzoek van hersenweefsel met één van de testen als bedoeld in bijlage X, hoofdstuk C, punt 4, van verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG L 147). 2. Een onderzoek naar stoffen waarvan de toediening bij of krachtens een wettelijk voorschrift is verboden. 3. Een onderzoek naar stoffen waarvan de aanwezigheid een bij of krachtens wettelijk voorschrift vastgestelde hoeveelheid overschrijdt. 4. Een onderzoek naar de aanwezigheid van residuen van bacteriegroeiremmende stoffen met behulp van de Nieuwe Nederlandse Niertest (NNNT).
+1. Een onderzoek van hersenweefsel met één van de testen als bedoeld in bijlage X, hoofdstuk C, punt 4, van verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG L 147). 2. Een onderzoek naar stoffen waarvan de toediening bij of krachtens een wettelijk voorschrift is verboden. 3. Een onderzoek naar stoffen waarvan de aanwezigheid een bij of krachtens wettelijk voorschrift vastgestelde hoeveelheid overschrijdt. 4. Een onderzoek naar de aanwezigheid van residuen van bacteriegroeiremmende stoffen met behulp van de Nouws Antibioticum Test (NAT).
 
 ###Bijlage III 
 
@@ -1236,49 +1237,76 @@ B.J.Odink
 
 ####, behorende bij artikel 38r 
 
-| Naam natuurterrein  | Adres  |
+| --- | --- |
 |:---|:---|
-| Asseltse plassen  | Horsterweg/Buggenumseweg, Asselt  |
-| Ballastplaat  | Strandweg, Lauwersoog  |
-| Beuningse uiterwaarden  | Dijk Beuningen  |
-| Bochtjesplaat  | Bochtjesplaat, Oostmahorn  |
-| Boerenpad  | Strandweg, Zoutkamp  |
-| De Horst  | Voortsestraat 18  6051 JP Maasbracht  |
-| De Kom  | Laan van Rhemen van Rhemenshuizen 24A  2242 PT Wassenaar  |
-| De Rug  | Maaseikerweg 42, Roosteren  |
-| Diezemonding  | Engelsedijk, Den Bosch  |
-| Duingebied Dunea  | Meijndelseweg, Wassenaar  |
-| Duingebied Dunea  | Haagweg, Monster  |
-| Erlecomse waard  | Duffeltdijk 18  6578 JH Leuth  |
-| Ezumakeeg  | Ezumakeeg, Anjum  |
-| Geuzenbos  | Europaweg/Brielse  Maasdam  Oostvoorne  |
-| Geuzenbos Amsterdam uiterwaarden  | Wethouder van Essenweg, Amsterdam  |
-| Grafelijkheidsduinen  | Graflijkheidsweg 0  1783 AT Den Helder  |
-| Groenlanden/Bison baai  | Langstraat 10  6576 JP Ooij  |
-| Hoek v/d Bant  | Mr Gerbrandyweg, Anjum  |
-| Horsterwold Stille Kern  | Groenewoudseweg 7  3896 LS Zeewolde  |
+| Diezenmonding  | Engelsedijk, Den Bosch  |
+| De Horst  | Voortstraat 18  6051 JB Maasbracht  |
+| Beuningse uiterwaarden  | Dijk, Beuningen  |
+| Weurtse buitenlanden  | Dijk, Weurt  |
+| Leeuwense Waard  | Waalbandijk, Boven-Leeuwen  |
+| Oude Waal/ Stadswaard  | Oude Waal  Vlietberg 1  6576 JB Ooij  |
+| Groenlanden/Bisonbaai  | Langstraat 10  6576 JP Ooij  |
+| Millingerwaard  | Waaiboerhoeveweg 5  Millingen  |
 | Klompenwaard  | Waaldijk 1  6686 MV Doornenburg  |
-| Landtong Rozenburg  | Noordzeeweg 0  3181 ML Rozenburg  |
-| Leeuwense Waard  | Waalbandijk Boven-Leeuwen  |
-| Lentevreugd  | Duinweg 81  2204 AT Noordwijk  |
-| Lippenhuisterheide  | Van Harinxmaweg 1  9244 CJ Beesterzwaag  |
-| Loevestein  | Loevestein 1  5307 TG Pederoijen  |
 | Loowaard  | Loowaard 1  6924 SG Loo  |
-| Maasvallei  | Meerdere subterreinen in gemeenten Maasgouw, Echt-Susteren, Sittard-Geleen en Stein  |
-| Meerlebroek  | Kruising Prinsendijk/Muiterdijk, Beesel  |
-| Meinderswijk  | Meginhardweg, Arnhem  |
-| Millingerwaard  | Waaierboerhoeveweg 5  Millingen  |
-| Nationaal park Zuid-Kennemerland  | Duin en kruidbengerweg 66a  2071 LE Santpoort  |
-| Oude Waal/Stadswaard  | Oude Waal, Vlietberg 1  6576 JB Ooij  |
-| Pampusplaat/Schildhoek  | Strandweg, Zoutkamp  |
-| Passewaaij  | Ophemertse dijk 40  4007 PB Tiel  |
-| Schipperswaard  | Prins Willemsweg 1  4054 ME Echteld  |
-| Spaarnwoude  | Duinlustweg 24  2051 AB Overveen  |
 | Vijfhoek  | Overdiemerweg 41  1111 PP Diemen  |
-| Weurtse buitenlanden  | Dijk Weurt  |
-| Zomerhuisplaat  | De Rijsdammen, Kollumerpomp  |
-| Zoutkamperplaat  | Kwelderweg, Warfstermolen  |
-| Zwaagstergaarden  | Van Harinxmaweg 1  9244 CJ Beesterzwaag  |
+| Loevestein  | Loevestein 1  5307 TG Pederoijen  |
+| Geuzenbos Amsterdam uiterwaarden  | Wethouder van Essenweg  Amsterdam  |
+| Landtong Rozenburg  | Noordzeeweg 0  3181 ML Rozenburg  |
+| Erlecomse waard  | Duffeltdijk 18  6578 JH Leuth  |
+| De Staart  | Zalmpad 11, 3261 MD Oud-Beijerland  |
+| Kroondomein  | ’t Hof 33, 3888 MH Uddel  |
+| Lobberdense Waard  | Rijndijk, 6911 Pannerden  |
+| Oranjezon  | Koniningin Emmaweg 22, 4354 KE Vrouwenpolder  |
+| Slikken van de Heen  | Campweg, 4675 PW Sint Philipsland  |
+| Grafelijkheidsduinen  | Grafelijkheidsweg 0, 1783 AT Den Helder  |
+| Lentevreugd  | Duinweg 81, 2204 AT Noordwijk  |
+| Nationaal Park Zuid-Kennemerland  | Duin en Kruidbergerweg 661, 2071 LE Santpoort  |
+| Sint Aagtendijk  | Sint Aagtendijk langs ‘De Buitenlanden’ in Beverwijk  |
+| Binnen Liede  | Oever van de Binnenliede in Haarlem  |
+| Batterij en Spaarnwouderveen  | Ten noorden van Zwanenburg en ten westen van Halfweg, aan de westzijde van de splitsing van de Spaarndammerdijk en de Batterijweg in Halfweg  |
+| Het Ooievaarslandje  | Fazantenlaan in Heemstede  |
+| Ryptsjerksterpolder  | Westerdijk 19, Ryptsjerk  |
+| Sippen-finnen  | Nabij kruising Ottemaweg/Koekoekspaed tussen Raedtsjerk en Hurdegaryp  |
+| Bouwepet  | Halligenweg 23, Munein  |
+| Delleboersterheide  | Aan de Oosterwoldseweg 195  |
+| Heide van Allardseach en Bakkensterduinen  | Jarig van de Wielenwei 2, 9243 SH Bakkeveen  |
+| Amerongse bovenpolder  | Noordoever Nederrijn onder Amerongen  |
+| Blauwe Kamer  | Noordoever Nederrijn tussen Wageningen en Rhenen  |
+| Palmerswaard  | Noordoever Nederrijn ten westen van Rhenen  |
+| Plantage Willem 3  | Noordoever Nederrijn ten oosten van Elst (Utrecht)  |
+| Ballastplaat  | Strandweg te Lauwersoog  |
+| Pampusplaat/Schildhoek  | Strandweg te Zoutkamp  |
+| Boerenpad  | Strandweg te Zoutkamp  |
+| Zoutkamperplaat  | De Hooge Zuidwal te Zoutkamp  |
+| Kollumerwaard  | Kwelderweg te Warfstermolen  |
+| Zomerhuisplaat  | De Rijsdammen te Kollumerpomp  |
+| Ezumakeeg  | Ezumakeeg te Anjum  |
+| Bochtjesplaat  | Bochtjesplaat te Oostmahorn  |
+| Hoek v/d Bant  | Mr Gerbrandyweg te Anjum  |
+| Meinerswijk  | Meginhardweg te Arnhem  |
+| Meggelveld  | Panheeldersteeg in Thorn  |
+| Koningssteen  | Waterstraat in Thorn  |
+| Koeweide Spije/landtong  | Waage Naak in Wessem  |
+| Bunkerhaven  | Bunkerhaven in Maasbracht  |
+| Visplas/Huyskensplas  | Brandt in Stevensweert  |
+| Molenplas  | Weg langs de Grinderkens in Stevensweert  |
+| Perceel a/h Juliakanaal  | Verlengde oude Maasweg in Stevensweert  |
+| Molensteenseplas  | In’t Broek in Stevenseert  |
+| Dilkensplas/Teggerseplas  | Moeder Magdalenastraat in Ohé en Laak  |
+| Schroevendaalseplas  | Daalderweg/Contelmostraat in Ohé en Laak  |
+| Oude Maas  | Aasterbergerweg in Aasterberg  |
+| Vissersweerd  | Ruitersdijk in Vissersweerd  |
+| Elba Grevenbicht  | Batstraat in Grevenbicht  |
+| Koeweide Grevenbicht  | Dijk in Grevenbicht  |
+| Nattenhoven  | Bergerstraat in Nattenhoven  |
+| Meers  | Koegrienddijkweg/Middelveldjensvoetpad in Meers  |
+| Horsterwold Stille Kern  | Groenewoudseweg 7  3896 LS Zeewolde  |
+| Lippenhuisterheide  | v. Harinxmaweg 1  9244 CJ Beetsterzwaag  |
+| Zwaagstergaarden  | v. Harinxmaweg 1  9244 CJ Beetsterzwaag  |
+| Duingebied Dunea  | Meijendelseweg 34  2243 GN Wassenaar  |
+| Duingebied Dunea  | Haagweg 80  2681 PD Monster  |
+| De Rug  | Maaseikerweg 42  6116 AG Roosteren  |
 
 ### Bijlage  V 
 

@@ -3,11 +3,11 @@
 ##Verordening van het Productschap pluimvee en Eieren van 11 februari 2010 houdende een tegemoetkoming voor de aankoop van vaccindoses ten behoeve van de bestrijding van salmonella in de pluimveesector (Verordening tegemoetkoming aankoop vaccindoses ter bestrijding van salmonella (PPE) 2010)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 96](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [97, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 96 en 97, van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gelet op de [Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md);
+Gelet op de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007;
 
-Gelet op [artikel 108, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) juncto [artikel 3a van het Besluit bescherming zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) juncto [artikel 96, tweede lid, sub b. onder 6°, en sub d., van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);
+Gelet op artikel 108, eerste lid, van de Gezondheids- en welzijnswet voor dieren juncto artikel 3a van het Besluit bescherming zoönosen en bestrijding besmettelijke dierziekten juncto artikel 96, tweede lid, sub b. onder 6°, en sub d., van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s;
 
 Gelet op de Beschikking van de Commissie van .26 november 2009 tot goedkeuring van de door de lidstaten voor 2010, en volgende jaren ingediende jaarlijkse en meerjarenprogramma’s en van de financiële bijdrage van de Gemeenschap voor de uitroeiing, bestrijding en bewaking van bepaalde dierziekten en zoönosen (2009/883/EG);
 Besluit:    
@@ -20,7 +20,7 @@ Materieel uitgewerkt per 03-07-2011
 ###Artikel 1 
 Materieel uitgewerkt per 03-07-2011 
 
-Deze verordening neemt de terminologie als omschreven in [artikel 1 van de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md) (hierna: de Verordening) over, en verstaat voorts onder: 
+Deze verordening neemt de terminologie als omschreven in artikel 1 van de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007 (hierna: de Verordening) over, en verstaat voorts onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -46,12 +46,12 @@ Materieel uitgewerkt per 03-07-2011
 ###Artikel 3 
 Materieel uitgewerkt per 03-07-2011 
 
-De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien het bedrijf van de ondernemer en de vermeerderingsdieren van een legras of de leghennen waarop de tegemoetkoming betrekking heeft, zijn geregistreerd overeenkomstig de [Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005](../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/broedeieren/etc/BWBR0019280/README.md). 
+De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien het bedrijf van de ondernemer en de vermeerderingsdieren van een legras of de leghennen waarop de tegemoetkoming betrekking heeft, zijn geregistreerd overeenkomstig de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005. 
 
 ###Artikel 4 
 Materieel uitgewerkt per 03-07-2011 
 
-De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien de voorzitter heeft vastgesteld dat de gevaccineerde vermeerderingsdieren van een legras of gevaccineerde, leghennen zijn geplaatst op een overeenkomstig de [Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005](../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/broedeieren/etc/BWBR0019280/README.md) geregistreerd fokbedrijf, vermeerderingsbedrijf of leghennenbedrijf in de periode vanaf 1 januari 2010 tot en met 31 december 2010. 
+De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien de voorzitter heeft vastgesteld dat de gevaccineerde vermeerderingsdieren van een legras of gevaccineerde, leghennen zijn geplaatst op een overeenkomstig de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005 geregistreerd fokbedrijf, vermeerderingsbedrijf of leghennenbedrijf in de periode vanaf 1 januari 2010 tot en met 31 december 2010. 
 
 ###3 
 
@@ -120,8 +120,8 @@ Materieel uitgewerkt per 03-07-2011
 ###Artikel 9 
 Materieel uitgewerkt per 03-07-2011 
 
-1. De tegemoetkoming wordt door de voorzitter ingetrokken of ten nadele van de ondernemer gewijzigd indien de ondernemer niet voldoet aan het bepaalde in artikel 3 en artikel 4 of indien de ondernemer niet voldoet aan het bepaalde bij of krachtens de [Verordening](../../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md) of indien de ondernemer onjuiste of onvolledige informatie met betrekking tot het bepaalde in artikel 3 en artikel 4 heeft verstrekt aan de leverancier van de vaccindoses, de leverancier van de gevaccineerde vermeerderingsdieren van een legras of van de leverancier van de gevaccineerde leghennen. 
-2. Indien de tegemoetkoming door de voorzitter wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd overeenkomstig [artikel 4:48](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk [4:49 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen de verstrekte bedragen overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening. 
+1. De tegemoetkoming wordt door de voorzitter ingetrokken of ten nadele van de ondernemer gewijzigd indien de ondernemer niet voldoet aan het bepaalde in artikel 3 en artikel 4 of indien de ondernemer niet voldoet aan het bepaalde bij of krachtens de Verordening of indien de ondernemer onjuiste of onvolledige informatie met betrekking tot het bepaalde in artikel 3 en artikel 4 heeft verstrekt aan de leverancier van de vaccindoses, de leverancier van de gevaccineerde vermeerderingsdieren van een legras of van de leverancier van de gevaccineerde leghennen. 
+2. Indien de tegemoetkoming door de voorzitter wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd overeenkomstig artikel 4:48 onderscheidenlijk 4:49 van de Algemene wet bestuursrecht, kunnen de verstrekte bedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening. 
 3. De te betalen rente is de wettelijke rente zoals deze geldt op de laatste dag van de maand waarin de betaling van de tegemoetkoming aan de leverancier van de vaccindoses of de gevaccineerde vermeerderingsdieren van een legras of gevaccineerde leghennen heeft plaatsgevonden.
 4. Geen wettelijke rente is verschuldigd indien de oorzaak van het onverschuldigd betalen van de tegemoetkoming bij de voorzitter is gelegen.
 

@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Vee en Vlees van 11 juni 2008 houdende regels ter bestrijding van de Ziekte van Aujeszky bij varkens (Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees,  
-Gelet op de [artikelen 108](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [108a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [artikelen 101a](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [101b van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten, zoönosen en TSE’s](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), en de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [96](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 108 en 108a van de Gezondheids- en welzijnswet voor dieren, de artikelen 101a en 101b van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten, zoönosen en TSE’s, en de artikelen 95, 96 en 104 van de Wet op de bedrijfsorganisatie;
 
 Gezien richtlijn 64/432/EEG van de Raad van 26 juni 1964 inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautaire handelsverkeer in runderen en varkens (Pb EG L121);
 
 Gezien beschikking 2008/185/EG van de Commissie van 21 februari 2008 betreffende aanvullende garanties ten aanzien van de Ziekte van Aujeszky voor het intracommunautaire handelsverkeer van varkens, en betreffende criteria voor de over deze ziekte te verstrekken gegevens (Pb EG L59);
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:    
 
 ####Begripsbepalingen
@@ -39,7 +39,7 @@ In deze verordening wordt verstaan onder:
 | q.  | singleton-reactor  | :  | elk seropositief varken dat bij serologisch onderzoek naar de Ziekte van Aujeszky positief reageert, maar waar bij vervolgonderzoek aannemelijk is geworden dat het dier niet in aanraking is geweest met het virus van de Ziekte van Aujeszky, aangezien er geen aanwijzingen zijn dat een eventuele infectie zich heeft verspreid naar de varkens die met de singleton-reactor in aanraking zijn geweest;  |
 | r.  | specialistenteam  | :  | twee dierenartsen bestaande uit een dierenarts in dienst van de aangewezen uitvoerende dienst en een dierenarts, of zijn vervanger, die regulier werkzaamheden op het bedrijf pleegt te verrichten, die in opdracht van het PVV een bedrijf bezoeken om nader onderzoek te doen;  |
 | s.  | aandachts- en verdenkingsfase  | :  | fases voorafgaand aan een uitbraakfase waarbij sprake is van een veterinair verhoogd-risico-situatie ten opzichte van een normaalfase;  |
-| t.  | Regeling  | :  | [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) (Stcrt. 120, 2005);  |
+| t.  | Regeling  | :  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s (Stcrt. 120, 2005);  |
 |u. |slachtvarken |: |varken zoals bedoeld in artikel 2, tweede lid, onder b., van Richtlijn nr. 64/432/EEG van de Raad van 26 juni 1964 inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautaire handelsverkeer in runderen en varkens; |
 |v. |fok- en gebruiksvarken |: |varken zoals bedoeld in artikel 2, tweede lid, onder c., van Richtlijn nr. 64/432/EEG van de Raad van 26 juni 1964 inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautaire handelsverkeer in runderen en varkens, andere dan de onder u. bedoelde varkens. |
 
@@ -56,7 +56,7 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  3  
 
-1.  De ondernemer is verplicht iedere vier maanden het door het bestuur bij het [Besluit monitoring Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/monitoring/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024469/README.md) vast te stellen aantal bloedmonsters van door hem gehouden varkens aan te leveren aan een ingevolge de [Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) inzake de Ziekte van Aujeszky erkend dan wel aangewezen laboratorium.  
+1.  De ondernemer is verplicht iedere vier maanden het door het bestuur bij het Besluit monitoring Ziekte van Aujeszky bij varkens (PVV) 2008 vast te stellen aantal bloedmonsters van door hem gehouden varkens aan te leveren aan een ingevolge de Regeling erkenning en aanwijzing veterinaire laboratoria inzake de Ziekte van Aujeszky erkend dan wel aangewezen laboratorium.  
 2. Op kosten van de ondernemer worden de bloedmonsters bedoeld in het eerste lid door middel van een gB-test onderzocht op de aanwezigheid van antistoffen tegen het Aujeszky-virus en op de aanwezigheid van het Aujeszky-vaccin. Het bloedmonster wordt beschikbaar gehouden voor eventueel nader onderzoek.
 3. Op aanwijzing van de voorzitter kunnen bloedmonsters, naast de reguliere basismonitoringsverplichting, worden onderzocht door middel van een gB-test, dan wel een gE-test of een virus neutralisatie test en kan de voorzitter aanwijzing geven tot het doen van onderzoek naar DNA. 
 
@@ -64,10 +64,10 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  4  
 
-1.  De voorzitter is bevoegd de ondernemer te gelasten in zijn onderneming aanwezige varkens, op de in het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) bepaalde wijze, door een door het bestuur aangewezen dienst te doen onderzoeken op de aanwezigheid van het Aujeszky-virus, dan wel op de aanwezigheid van antistoffen tegen het Aujeszky-virus.   
+1.  De voorzitter is bevoegd de ondernemer te gelasten in zijn onderneming aanwezige varkens, op de in het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 bepaalde wijze, door een door het bestuur aangewezen dienst te doen onderzoeken op de aanwezigheid van het Aujeszky-virus, dan wel op de aanwezigheid van antistoffen tegen het Aujeszky-virus.   
 2.  De ondernemer is verplicht toegang te verlenen tot zijn bedrijf aan het door de voorzitter ingeschakelde specialistenteam, alsmede medewerking te verlenen aan dit specialistenteam ten behoeve van het te verrichten onderzoek.   
 3.  Het specialistenteam verricht klinisch onderzoek, neemt bloedmonsters voor onderzoek naar de aanwezigheid van antistoffen tegen het Aujeszky-virus en kan keelswabs nemen die aan de hand van de PCR-test worden onderzocht op de aanwezigheid van het Aujeszky-virus.   
-4.  In geval van een uitbraak, dan wel een verdenking van een uitbraak, van de Ziekte van Aujeszky, in Nederland of in een buurland, kan de voorzitter, in de in het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) bepaalde gevallen, de ondernemer gelasten: 
+4.  In geval van een uitbraak, dan wel een verdenking van een uitbraak, van de Ziekte van Aujeszky, in Nederland of in een buurland, kan de voorzitter, in de in het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 bepaalde gevallen, de ondernemer gelasten: 
 
 a. zijn varkens te laten onderzoeken door een dierenarts, door middel van klinische inspectie en het nemen van bloedmonsters en keelswabs;  
 
@@ -76,18 +76,18 @@ b. varkens tegen de Ziekte van Aujeszky te doen vaccineren;
 c. een verbod tot aan-, af- of vervoer van varkens en varkensproducten in acht te nemen;  
 
 d. een singleton-reactor ter destructie af te voeren.     
-5.  In geval van een uitbraak, dan wel een verdenking van een uitbraak, van de Ziekte van Aujeszky, in Nederland of in een buurland, kan de voorzitter, in de in het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) bepaalde gevallen, de vervoerder van varkens en varkensproducten gelasten: 
+5.  In geval van een uitbraak, dan wel een verdenking van een uitbraak, van de Ziekte van Aujeszky, in Nederland of in een buurland, kan de voorzitter, in de in het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 bepaalde gevallen, de vervoerder van varkens en varkensproducten gelasten: 
 
 a. een verbod tot aan-, af- of vervoer van varkens en varkensproducten in acht te nemen;  
 
-b. naast de regulier geldende verplichting een vervoermiddel waarmee varkens zijn vervoerd te reinigen en te ontsmetten, zoals voorgeschreven in de [Regeling](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), de vervoermiddelen waarin varkens en varkensproducten worden vervoerd, die zich bevonden in een gebied waar sprake is van een uitbraak onverwijld na het transport bij binnenkomst in Nederland te reinigen en te ontsmetten bij een op grond van [artikel 78 van de Regeling](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) geregistreerde reinigings- en ontsmettingsplaats.     
+b. naast de regulier geldende verplichting een vervoermiddel waarmee varkens zijn vervoerd te reinigen en te ontsmetten, zoals voorgeschreven in de Regeling, de vervoermiddelen waarin varkens en varkensproducten worden vervoerd, die zich bevonden in een gebied waar sprake is van een uitbraak onverwijld na het transport bij binnenkomst in Nederland te reinigen en te ontsmetten bij een op grond van artikel 78 van de Regeling geregistreerde reinigings- en ontsmettingsplaats.     
 6.  De ondernemer en de vervoerder zijn verplicht de op grond van dit artikel Door de voorzitter opgelegde bestrijdingsmaatregelen in acht te nemen.  
 
 ####Bestrijdingsmaatregelen
 
 ### Artikel  5  
 
-1.  In geval uit het onderzoek bedoeld in de artikelen 3 en 4 blijkt dat er sprake is van de aanwezigheid van de Ziekte van Aujeszky, is de voorzitter in de in het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) en het [Besluit opschorting leveringen tussen varkensbedrijven bij uitbraak Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/opschorting/leveringen/tussen/varkensbedrijven/bij/uitbraak/ziekte/etc/BWBR0024473/README.md) beschreven gevallen bevoegd in het kader van een bestrijding van een uitbraak van de Ziekte van Aujeszky: 
+1.  In geval uit het onderzoek bedoeld in de artikelen 3 en 4 blijkt dat er sprake is van de aanwezigheid van de Ziekte van Aujeszky, is de voorzitter in de in het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 en het Besluit opschorting leveringen tussen varkensbedrijven bij uitbraak Ziekte van Aujeszky bij varkens (PVV) 2008 beschreven gevallen bevoegd in het kader van een bestrijding van een uitbraak van de Ziekte van Aujeszky: 
 
 a. een uitbraak van de Ziekte van Aujeszky vast te stellen en af te kondigen;  
 
@@ -100,13 +100,13 @@ d. de afvoer van varkens op een besmet bedrijf naar de slacht te gelasten;
 e. nader onderzoek bij varkens en bij andere dieren te gelasten;  
 
 f.de beperking van de afzet van gevaccineerde fok- en gebruiksvarkens te gelasten.   
-2.  In geval de voorzitter, op de in het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) bepaalde wijze, vaststelt en bekendmaakt dat er in Nederland sprake is van een uitbraak van de Ziekte van Aujeszky: 
+2.  In geval de voorzitter, op de in het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 bepaalde wijze, vaststelt en bekendmaakt dat er in Nederland sprake is van een uitbraak van de Ziekte van Aujeszky: 
 
 a. Is de ondernemer verplicht een opgelegde last tot vaccinatie tegen de Ziekte van Aujeszky bij varkens in acht te nemen;  
 
 b. Is de ondernemer verplicht mee te werken aan nader onderzoek naar de aanwezigheid van de Ziekte van Aujeszky bij varkens;  
 
-c. Is het verboden varkens en varkensproducten te aan-, af-, of vervoeren in door het bestuur bij het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) nader bepaalde situaties;  
+c. Is het verboden varkens en varkensproducten te aan-, af-, of vervoeren in door het bestuur bij het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 nader bepaalde situaties;  
 
 d. Is de ondernemer verplicht gevolg te geven aan de last tot afvoer van varkens, die zich bevinden op een besmet bedrijf, naar de slachterij;  
 
@@ -143,7 +143,7 @@ c. aan de door het bestuur aangewezen dienst en personen te allen tijde toegang 
 
 d. te gedogen dat de door het bestuur aangewezen dienst en personen monsters nemen uit de voorraden van het bedrijf van de ondernemer (waaronder begrepen varkens, karkassen, monsters en verpakkingsmateriaal), ongeacht de plaats waar of waarin zich die voorraden bevinden en de ondernemer zal alsdan de van hem gevorderde medewerking verlenen overeenkomstig de aanwijzingen van de door het bestuur aangewezen dienst en personen.     
 3.  De in het eerste lid bedoelde personen zijn bevoegd berechtingsrapporten ten behoeve van tuchtrechtelijke afhandeling van overtredingen op te maken.   
-4.  De in het eerste lid aangewezen personen houden toezicht op de naleving van het bij of krachtens deze verordening bepaalde overeenkomstig het bepaalde in [afdeling 5.2 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+4.  De in het eerste lid aangewezen personen houden toezicht op de naleving van het bij of krachtens deze verordening bepaalde overeenkomstig het bepaalde in afdeling 5.2 van de Algemene wet bestuursrecht.  
 
 ####Gegevensverwerking
 
@@ -170,13 +170,13 @@ d. te gedogen dat de door het bestuur aangewezen dienst en personen monsters nem
 ### Artikel  10  
 
 1. Overtreding van de verboden, het niet opvolgen van een opgelegde last en het niet naleven van de verplichtingen als gesteld bij of krachtens de artikelen 2, eerste lid, 4, eerste, tweede, vierde, vijfde en zesde lid, 5, eerste en tweede lid, 6, tweede lid, alsmede het niet naleven van de voorwaarden verbonden aan een ontheffing als bedoeld bij of krachtens artikel 8, eerste lid, is een strafbaar feit.  
-2.  Op overtreding van het bepaalde bij of krachtens deze verordening worden, uitgezonderd de in het eerste lid genoemde artikelen, tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+2.  Op overtreding van het bepaalde bij of krachtens deze verordening worden, uitgezonderd de in het eerste lid genoemde artikelen, tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ####Slotbepalingen
 
 ### Artikel  11  
 
-De [Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2006](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2006/BWBR0020988/README.md) wordt ingetrokken. 
+De Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2006 wordt ingetrokken. 
 
 ### Artikel  12  
 

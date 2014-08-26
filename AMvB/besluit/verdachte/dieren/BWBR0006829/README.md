@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij,
 
 Gelet op Richtlijn nr. 85/511/EEG van de Raad van de Europese Gemeenschappen van 18 november 1985 tot vaststelling van gemeenschappelijke maatregelen ter bestrijding van mond- en klauwzeer (*PbEG* L 315), Richtlijn nr. 92/40/EEG van de Raad van de Europese Gemeenschappen van 19 mei 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van aviaire influenza (*PbEG* L 167), Richtlijn nr. 92/66/EEG van de Raad van de Europese Gemeenschappen van 14 juli 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van de ziekte van Newcastle (*PbEG* L 260) en Richtlijn nr. 92/119/EEG van de Raad van de Europese Gemeenschappen van 17 december 1992 tot vaststelling van algemene communautaire maatregelen voor de bestrijding van bepaalde dierziekten en van specifieke maatregelen ten aanzien van vesiculaire varkensziekte (*PbEG* 1993, L 62);
 
-Gelet op de [artikelen 15](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), vierde lid, en [111 van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op de artikelen 15, vierde lid, en 111 van de Gezondheids- en welzijnswet voor dieren;
 
 Gezien het advies van de Raad voor dierenaangelegenheden (d.d. 21 december 1993), het Landbouwschap (d.d. 23 december 1993), het Produktschap Vee en Vlees (d.d. 16 december 1993), het Produktschap voor Pluimvee en Eieren (d.d. 20 december 1993), het Produktschap voor Vis en Visprodukten (d.d. 5 januari 1994), het Bedrijfschap voor de Pluimveehandel en -industrie (d.d. 20 december 1993), het Bedrijfschap voor de Handel in Vee (d.d. 24 december 1993) en de Stichting voor Gezelschapsdieren (d.d. 23 december 1993);
 
@@ -21,9 +21,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a. wet: Gezondheids- en welzijnswet voor dieren;  
 
-b. ambtenaar: ambtenaar, bedoeld in [artikel 114, tweede lid, van de wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+b. ambtenaar: ambtenaar, bedoeld in artikel 114, tweede lid, van de wet;  
 
 c.richtlijn nr. 2006/88/EG: richtlijn nr. 2006/88/EG van de Raad van de Europese Gemeenschappen van 24 oktober 2006, betreffende veterinairrechtelijke voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG L 328);
 

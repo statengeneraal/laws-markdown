@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 2 december 1996, nr. J. 9611696, Directie Juridische Zaken; 
 
-Gelet op [artikel 34, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); 
+Gelet op artikel 34, eerste lid, van de Gezondheids- en welzijnswet voor dieren; 
 
 De Raad van State gehoord (advies van 27 januari 1997, No. W11.96.0576.); 
 

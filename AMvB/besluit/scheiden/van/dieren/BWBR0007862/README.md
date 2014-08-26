@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 12 juni 1995, No. J. 958480, Directie Juridische Zaken; 
 
-Gelet op de [artikelen 35](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [39 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); 
+Gelet op de artikelen 35 en 39 van de Gezondheids- en welzijnswet voor dieren; 
 
 Gezien het advies van de Raad voor dierenaangelegenheden (29 juni 1994, RDA/94218/HJ), het Landbouwschap (19 mei 1994, B042444.W01), de Stichting Nationaal Onderzoek Dierentuinen (21 juni 1994), de Stichting voor Gezelschapsdieren (22 juni 1994, 9406.21/RW), de Nederlandse Vereniging voor Proefdierkunde (24 juni 1994, fvdb9405), het Produktschap Vee en Vlees te zamen met het Produktschap Pluimvee en Eieren (28 juni 1994, mha nr. 23601), de Nederlandse Vereniging tot Bescherming van Dieren (28 juni 1994, U94.01064/YK), Rechten voor al wat leeft (25 juni 1994) en het TNO (21 juli 1994, WK/mv/94.138); 
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als soorten van dieren als bedoeld in [artikel 39 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) worden aangewezen: honden, katten, konijnen alsmede apen behorend tot de soort van de Chimpansee, de Rhesus-aap, de Beermakaak, de Java-aap, de Marmoset, de Doeroecoeli en de Doodshoofdaap.  
+Als soorten van dieren als bedoeld in artikel 39 van de Gezondheids- en welzijnswet voor dieren worden aangewezen: honden, katten, konijnen alsmede apen behorend tot de soort van de Chimpansee, de Rhesus-aap, de Beermakaak, de Java-aap, de Marmoset, de Doeroecoeli en de Doodshoofdaap.  
 
 ### Artikel  2  
 

@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 15
 
 Gelet op artikel 3, derde lid, van richtlijn nr. 90/425/EEG van de Raad van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautaire handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de tostandbrenging van de interne markt (PbEG L 224) en gelet op de artikelen 13 en 14 van richtlijn nr. 64/432/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1996 inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautair handelsverkeer in runderen en varkens, zoals gewijzigd bij richtlijn nr. 97/12/EG (PbEG L109); 
 
-Gelet op de artikelen 3, onderdelen b, c, h en i, en 111 van de Gezondheids- [welzijnswet](../../../../../wet/welzijnswet/1994/BWBR0006705/README.md) voor dieren; 
+Gelet op de artikelen 3, onderdelen b, c, h en i, en 111 van de Gezondheids- welzijnswet voor dieren; 
 
 Gezien het advies van de Raad voor Dierenaangelegenheden, LTO-Nederland en het Produktschap Vee en Vlees; 
 
@@ -33,7 +33,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Een bedrijf is vrij van varkensziekten indien:  
 
-a. de op het bedrijf aanwezige varkens klinisch zijn onderzocht en daarbij geen verschijnselen zijn vastgesteld van een krachtens [artikel 15, eerste lid, Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen besmettelijke dierziekte en   
+a. de op het bedrijf aanwezige varkens klinisch zijn onderzocht en daarbij geen verschijnselen zijn vastgesteld van een krachtens artikel 15, eerste lid, Gezondheids- en welzijnswet voor dieren aangewezen besmettelijke dierziekte en   
 
 b. onderzoek heeft plaatsgevonden op de aanwezigheid van antistoffen, agentia of delen daarvan betreffende door Onze Minister aangewezen varkensziekten en de uitslag daarvan negatief is bevonden    
 
@@ -58,7 +58,7 @@ Treedt in werking op een nader te bepalen tijdstip
 1.  De verklaring, bedoeld in artikel 2, eerste lid, is vanaf de dag van afgifte vier maanden geldig.    
 2.  Onze Minister kan de geldigheidstermijn van de verklaring, bedoeld in het eerste lid, bekorten wanneer sprake is van een besmetting of een vermoeden daarvan van:  
 
-a. een krachtens [artikel 15, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen dierziekte   
+a. een krachtens artikel 15, eerste lid, van de Gezondheids- en welzijnswet voor dieren aangewezen dierziekte   
 
 b. een krachtens het onderhavige besluit aangewezen varkensziekte.     
 

@@ -3,7 +3,7 @@
 ##Beleidsregels van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 december 2008, nr. TRCJZ/2008/3638, houdende vaststelling van beleidsregels inzake dierenwelzijn
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op de [artikelen 3](../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md), [5](../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md) en [8 van de Regeling dierenvervoer 2007](../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md), de [artikelen 4](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), [5](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), [7](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md) en [19 van het Varkensbesluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), de [artikelen 6](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), [7](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md) en [8 van de Vrijstellingsregeling dierenwelzijn](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), [artikel 106 Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 4:81 tot en met 4:84 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 3, 5 en 8 van de Regeling dierenvervoer 2007, de artikelen 4, 5, 7 en 19 van het Varkensbesluit, de artikelen 6, 7 en 8 van de Vrijstellingsregeling dierenwelzijn, artikel 106 Gezondheids- en welzijnswet voor dieren en de artikelen 4:81 tot en met 4:84 van de Algemene wet bestuursrecht;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -35,7 +35,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 –  *houder;* houder als bedoeld in artikel 2, onderdeel k, van de Verordening (EG) nr. 1/2005 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de richtlijnen 64/432/EEG en 93/119/EG en van verordening 1255/97 (PbEU 2005 L 1);  
 
-–  *last onder dwangsom;* last onder dwangsom als bedoeld in [artikel 5:31d van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+–  *last onder dwangsom;* last onder dwangsom als bedoeld in artikel 5:31d van de Algemene wet bestuursrecht;  
 
 –  *organisator:* organisator als bedoeld in artikel 2, onderdeel q, van de Verordening (EG) nr. 1/2005 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de richtlijnen 64/432/EEG en 93/119/EG en van verordening 1255/97 (PbEU 2005 L 1);  
 
@@ -224,7 +224,7 @@ c. Voor schapen en geiten: ten minste 20 centimeter ruimte boven de kruin van he
 
 d. Voor varkens: ten minste 30 centimeter ruimte boven het hoogste punt van het grootste dier.     
 2.  Indien het vervoermiddels is voorzien van een geforceerd ventilatiesysteem wordt in afwijking van het eerste lid, onderdeel c, 15 centimeter ruimte boven het hoogste punt van het grootste dier als voldoende stahoogte beschouwd.   
-3.  Voor de toepassing van deze beleidsregels wordt als maximum toegestane hoogte van bedrijfsauto’s de hoogte gehanteerd die bepaald is bij [artikel 5.3.6 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md). 
+3.  Voor de toepassing van deze beleidsregels wordt als maximum toegestane hoogte van bedrijfsauto’s de hoogte gehanteerd die bepaald is bij artikel 5.3.6 van de Regeling voertuigen. 
 
 ### Hoofdstuk  III  
 
@@ -250,23 +250,23 @@ a.  *plateaustal:* een stal, waarin gebruiksvarkens beschikken over twee verblij
 
 6°. een plateau is bereikbaar via een loopplank van tenminste 0,75 meter breed en zodanig geplaatst en ontworpen dat de varkens zonder veel moeite het plateau kunnen bereiken;    
 
-b. besluit: [Besluit houders van dieren](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md);  
+b. besluit: Besluit houders van dieren;  
 
-c. regeling: [Regeling houders van dieren](../../../../../ministeriele-regeling/regeling/houders/van/dieren/BWBR0035248/README.md).   
+c. regeling: Regeling houders van dieren.   
 
 ### Artikel  18  
 
 ####(trog)
 
-1.   Bij gebruik van een zwevende trog waarvan de onderkant zich minimaal 20 centimeter boven de vloer bevindt, mag in de gevallen dat het varken ongehinderd met zijn kop onder de trog kan rusten, de ruimte onder de zwevende trog als vrije ruimte als bedoeld in [artikel 2.19, derde lid, van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden meegerekend.   
-2.   Bij gebruik van een verzonken trog zonder obstakels mag van de vrije ruimte als bedoeld in [artikel 2.19, derde lid, van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), 15 centimeter verzonken zijn.  
+1.   Bij gebruik van een zwevende trog waarvan de onderkant zich minimaal 20 centimeter boven de vloer bevindt, mag in de gevallen dat het varken ongehinderd met zijn kop onder de trog kan rusten, de ruimte onder de zwevende trog als vrije ruimte als bedoeld in artikel 2.19, derde lid, van het besluit, worden meegerekend.   
+2.   Bij gebruik van een verzonken trog zonder obstakels mag van de vrije ruimte als bedoeld in artikel 2.19, derde lid, van het besluit, 15 centimeter verzonken zijn.  
 
 ### Artikel  19  
 
 ####(plateaustal)
 
-1.   Bij gebruik van een plateaustal mag de voor gebruiksvarkens beschikbare oppervlakte van een plateau als beschikbare oppervlakte als bedoeld in [artikel 2.17 van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden meegerekend.   
-2.   Bij gebruik van een plateaustal mag het dichte deel van de voor gebruiksvarkens beschikbare vloer van een plateau als het dichte deel van de beschikbare vloer als bedoeld in [artikel 2.18, derde lid, van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden meegerekend.  
+1.   Bij gebruik van een plateaustal mag de voor gebruiksvarkens beschikbare oppervlakte van een plateau als beschikbare oppervlakte als bedoeld in artikel 2.17 van het besluit, worden meegerekend.   
+2.   Bij gebruik van een plateaustal mag het dichte deel van de voor gebruiksvarkens beschikbare vloer van een plateau als het dichte deel van de beschikbare vloer als bedoeld in artikel 2.18, derde lid, van het besluit, worden meegerekend.  
 
 ### Hoofdstuk  IV  
 

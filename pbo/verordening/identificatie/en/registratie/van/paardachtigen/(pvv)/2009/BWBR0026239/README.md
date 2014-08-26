@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 8 april 2009 houdende regels ter zake van de identificatie en registratie van paardachtigen (Verordening identificatie en registratie van paardachtigen (PVV) 2009)
 
 Het Bestuur van het Productschap Vee en Vlees;  
-Gelet op Verordening (EG) Nr. 504/2008 van de Commissie van 6 juni 2008 ter uitvoering van de Richtlijnen 90/426/EEG en 90/427/EEG van de Raad wat betreft de methoden voor de identificatie van paardachtigen (PB L 149), de [artikelen 96](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [105](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [108a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) (Stb. 1992, 585), [artikel 2 van het Besluit identificatie en registratie van dieren](../../../../../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md), de [artikelen 1](../../../../../../../../../../ministeriele-regeling/regeling/medebewind/vergoeding/en/tuchtrechtelijke/maatregelen/etc/BWBR0016030/README.md) en [2 van de Regeling medebewind vergoeding en tuchtrechtelijke maatregelen identificatie en registratie van eenhoevige dieren](../../../../../../../../../../ministeriele-regeling/regeling/medebewind/vergoeding/en/tuchtrechtelijke/maatregelen/etc/BWBR0016030/README.md) (Stcrt. 2003, 241) en de [artikelen 96](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+Gelet op Verordening (EG) Nr. 504/2008 van de Commissie van 6 juni 2008 ter uitvoering van de Richtlijnen 90/426/EEG en 90/427/EEG van de Raad wat betreft de methoden voor de identificatie van paardachtigen (PB L 149), de artikelen 96, 105, 108 en 108a van de Gezondheids- en welzijnswet voor dieren (Stb. 1992, 585), artikel 2 van het Besluit identificatie en registratie van dieren, de artikelen 1 en 2 van de Regeling medebewind vergoeding en tuchtrechtelijke maatregelen identificatie en registratie van eenhoevige dieren (Stcrt. 2003, 241) en de artikelen 96, 97, 98 en 104 van de Wet op de bedrijfsorganisatie,
 
 Gezien Richtlijn 90/426/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van veterinairrechtelijke voorschriften voor het verkeer van paardachtigen en de invoer van paardachtigen uit derde landen (PB L 224), Richtlijn 90/427/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het intracommunautaire handelsverkeer in paardachtigen (PB L 224);
 Besluit:    
@@ -21,9 +21,9 @@ In deze verordening wordt verstaan onder:
 |b. voorzitter |:  |de voorzitter van het productschap; |
 |c.bestuur |:  |het bestuur van het productschap; |
 |d. Verordening (EG) Nr. 504/2008 |:  |Verordening (EG) Nr. 504/2008 van de Commissie van 6 juni 2008 ter uitvoering van de Richtlijnen 90/426/EEG en 90/427/EEG van de Raad wat betreft de methoden voor de identificatie van paardachtigen (PB L 149); |
-|e. erkende instelling |:  |een krachtens het [Fokkerijbesluit ](../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md)erkende organisatie die één of meer stamboeken of registers bijhoudt; |
+|e. erkende instelling |:  |een krachtens het Fokkerijbesluit erkende organisatie die één of meer stamboeken of registers bijhoudt; |
 |f. hippische sportorganisatie |:  |een organisatie die de paardensport professioneel bevordert en daartoe onder andere wedstrijden of paardenrennen organiseert; |
-|g. dierenarts |:  |degene die krachtens de [Wet op de uitoefening van de diergeneeskunde](../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (Stb. 1990, 214) is toegelaten tot de uitoefening van de diergeneeskunde; |
+|g. dierenarts |:  |degene die krachtens de Wet op de uitoefening van de diergeneeskunde (Stb. 1990, 214) is toegelaten tot de uitoefening van de diergeneeskunde; |
 |h. gekwalificeerde dierenarts |:  |een in het register Identificatie en Registratie paardendierenarts van de Stichting Veterinair Administratie Kantoor ingeschreven dierenarts; |
 |i. paardenpaspoortconsulent |:  |een door de voorzitter aangewezen persoon die in het bezit is van een getuigschrift van het met goed gevolg afgelegd hebben van het afsluitend examen van de onder auspiciën van het productschap georganiseerde opleiding paardenpaspoortconsulent, en beroepsmatig ten minste 50 transponders per jaar implanteert; |
 |j. paspoort |:  |het identificatiedocument als bedoeld in artikel 3, derde lid, onder a, van Verordening (EG) Nr. 504/2008; |
@@ -138,7 +138,7 @@ b.in het geval het een andere dan een geregistreerde paardachtige betreft: naar 
 
 ###Artikel 15 
 
-Op overtreding van het bepaalde in de artikelen 7, eerste en tweede lid, 9, tweede lid, 10, derde lid en 12, worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het bepaalde in de artikelen 7, eerste en tweede lid, 9, tweede lid, 10, derde lid en 12, worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ###7 
 
@@ -146,7 +146,7 @@ Op overtreding van het bepaalde in de artikelen 7, eerste en tweede lid, 9, twee
 
 ###Artikel 16 
 
-De [Verordening identificatie en registratie van paardachtigen (PVV) 2004](../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2004/BWBR0015767/README.md) wordt ingetrokken. 
+De Verordening identificatie en registratie van paardachtigen (PVV) 2004 wordt ingetrokken. 
 
 ###Artikel 17 
 

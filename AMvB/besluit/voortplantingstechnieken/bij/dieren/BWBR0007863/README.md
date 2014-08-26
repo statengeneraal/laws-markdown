@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 12 juni 1995, No. J. 958479, Directie Juridische Zaken; 
 
-Gelet op de [artikelen 42](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [55, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) alsmede [artikel 1, tweede lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md); 
+Gelet op de artikelen 42 en 55, eerste lid, van de Gezondheids- en welzijnswet voor dieren alsmede artikel 1, tweede lid, van de Wet op de uitoefening van de diergeneeskunde 1990; 
 
 Gezien de adviezen van de Raad voor dierenaangelegenheden (d.d. 31 augustus 1994, kenmerk RDA/94306/HJ), de Koninklijke Nederlandse Maatschappij voor Diergeneeskunde (d.d. 23 augustus 1994, kenmerk 0781.94/Jsve), het Landbouwschap (d.d. 29 augustus 1994, kenmerk B042560.W01), de Nederlandse Organisatie van Pluimveehouders (d.d. 28 september 1994, kenmerk M/B 4.140 7.1.1), Natura Artis Magistra (d.d. 5 juli 1994), de Nederlandse Vereniging tot Bescherming van Dieren (d.d. 24 augustus 1994, kenmerk 194.02556/U94.02269/RV), het Produktschap Pluimvee en Eieren en het Produktschap Vee en Vlees (d.d. 30 augustus 1994, kenmerk mha nr. 26615), het Produktschap voor Vis en Visprodukten (d.d. 22 augustus 1994, kenmerk 0975/95/JvS/AK), Rechten voor al wat leeft (d.d. 9 september 1994), Regelgeving Veeverbetering Nederland (d.d. 1 september 1994, kenmerk 94-R0021/WW/JvG), de Stichting voor Gezelschapsdieren (d.d. 19 augustus 1994, kenmerk 9408.40/RW), de Stichting Nationaal Onderzoek Dierentuinen (d.d. 29 augustus 1994), de Vereniging voor Fokkerijinstellingen van Varkens (d.d. 10 augustus 1994, kenmerk JvL/MK/472) en Zuid-Oost Genetics (d.d. 9 augustus 1994); 
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);   
+a. wet: Gezondheids- en welzijnswet voor dieren;   
 
 b. voortplantingstechniek: handeling of direct met elkaar samenhangende handelingen, bestemd om  
 
@@ -56,7 +56,7 @@ Het operatief winnen van eicellen bij zoogdieren door middel van een transvagina
 
 ### Artikel  7  
 
-Dit besluit is niet van toepassing op dierproeven in de zin van de [Wet op de dierproeven](../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md).  
+Dit besluit is niet van toepassing op dierproeven in de zin van de Wet op de dierproeven.  
 
 ### Artikel  8  
 

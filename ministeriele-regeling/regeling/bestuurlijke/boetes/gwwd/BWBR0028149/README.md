@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 31 augustus 2010, nr. 146184, houdende voorschriften betreffende bestuurlijke boetes onder de Gezondheids- en Welzijnswet voor Dieren (Regeling bestuurlijke boetes GWWD)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op [artikel 120b van de Gezondheids- en Welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 4:81 tot en met 4:84 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 120b van de Gezondheids- en Welzijnswet voor dieren en de artikelen 4:81 tot en met 4:84 van de Algemene wet bestuursrecht;
 Besluit:     
 ### §  1  
 
@@ -15,11 +15,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*wet:* [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+*wet:* Gezondheids- en welzijnswet voor dieren;  
 
 *Minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
-*vervoersverbod:* vervoersverbod als bedoeld in [artikel 30, eerste lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)  
+*vervoersverbod:* vervoersverbod als bedoeld in artikel 30, eerste lid, van de wet  
 
 *EU-maatregel:* een richtlijn, verordening onderscheidenlijk besluit als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie.   
 
@@ -31,7 +31,7 @@ In deze regeling wordt verstaan onder:
 
 ####(hoogte bestuurlijke boetes)
 
-1.  De hoogte van de bestuurlijke boetes die de Minister op grond van [artikel 120b van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor overtredingen als bedoeld in [artikel 120a, eerste lid, onderdeel a, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) kan opleggen, wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlagen 1 of 2 voor de desbetreffende overtredingen zijn vastgelegd.   
+1.  De hoogte van de bestuurlijke boetes die de Minister op grond van artikel 120b van de wet voor overtredingen als bedoeld in artikel 120a, eerste lid, onderdeel a, van de wet kan opleggen, wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlagen 1 of 2 voor de desbetreffende overtredingen zijn vastgelegd.   
 2.  De bedragen bij de boetecategorieën, bedoeld in het eerste lid, zijn: 
 
 a. voor de categorie geringe overtredingen: € 500,−;  
@@ -54,7 +54,7 @@ d. voor de categorie overtredingen met verhoogde boete, zijnde overtredingen beg
 
 ####(overtredingen bij uitbraak besmettelijke dierziekte)
 
-Indien in Nederland of in bepaalde gedeelten van Nederland een vervoersverbod geldt ten gevolge van een uitbraak van een krachtens [artikel 15 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of van een krachtens een EU-maatregel aangewezen dierziekte, en door de beboetbare gedraging een risico op verspreiding van deze ziekte kan ontstaan, is de bestuurlijke boete die wordt opgelegd gelijk aan het voor die overtreding ingevolge artikel 2 bepaalde boetebedrag, vermenigvuldigd met een factor 1,5. 
+Indien in Nederland of in bepaalde gedeelten van Nederland een vervoersverbod geldt ten gevolge van een uitbraak van een krachtens artikel 15 van de wet of van een krachtens een EU-maatregel aangewezen dierziekte, en door de beboetbare gedraging een risico op verspreiding van deze ziekte kan ontstaan, is de bestuurlijke boete die wordt opgelegd gelijk aan het voor die overtreding ingevolge artikel 2 bepaalde boetebedrag, vermenigvuldigd met een factor 1,5. 
 
 ### Artikel  4  
 
@@ -68,13 +68,13 @@ Indien binnen een tijdsbestek van vijf jaren door dezelfde persoon of rechtspers
 
 ### Artikel  5  
 
-####(wijziging [Beleidsregels dierenwelzijn 2009](../../../../../../beleidsregel/beleidsregels/dierenwelzijn/2009/BWBR0025046/README.md))
+####(wijziging Beleidsregels dierenwelzijn 2009)
 
 Wijzigt de Beleidsregels dierenwelzijn 2009.
 
 ### Artikel  6  
 
-####(wijziging [Mandaatbesluit LNV Voedsel en Warenautoriteit](../../../../../../ministeriele-regeling/mandaatbesluit/lnv/voedsel/en/waren/autoriteit/BWBR0019265/README.md))
+####(wijziging Mandaatbesluit LNV Voedsel en Warenautoriteit)
 
 Wijzigt het Mandaatbesluit LNV Voedsel en Waren Autoriteit.
 
@@ -217,26 +217,26 @@ In deze bijlage worden de definities gebruikt van de Europese Transportverordeni
 
 ### Bijlage  2  
 
-In deze bijlage worden de definities gebruikt van de [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).  
+In deze bijlage worden de definities gebruikt van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s.  
 
 | Titel  | artikel  | normadressaat  | vervoerde / te vervoeren diersoort  | omschrijving normoverschrijding  | categorieindeling overtreding  |
 |:---|:---|:---|:---|:---|:---|
-| regeling preventie  | [artikel 30, eerste en tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), juncto [artikel 31, eerste lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | op de plaats van lossing is niet gereinigd en ontsmet  | ernstige overtreding  |
-| regeling preventie  | [artikel 30, eerste en tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), juncto [artikel 31, eerste lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | op de plaats van lossing is niet correct gereinigd en ontsmet  | overtreding  |
-| Regeling Preventie  | [artikel 30 eerste lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), juncto [artikel 31, eerste lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | Vervoerder  | evenhoevigen  | Vervoermiddel bevindt zich op de openbare weg en is voorafgaand daaraan niet gereinigd en ontsmet  | ernstige overtreding  |
-| regeling preventie  | [artikel 31, tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen, niet zijnde varkens  | vervoermiddel waarmee rechtstreeks van stal of weide is vervoerd naar een andere weide van het zelfde bedrijf, is niet zo spoedig mogelijk na vervoer gereinigd en ontsmet  | ernstige overtreding  |
-| regeling preventie  | [artikel 31, derde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen, niet zijnde varkens  | vervoermiddel waarmee rechtstreeks van bedrijf is vervoerd naar een weide van een ander bedrijf, is niet zo spoedig mogelijk na vervoer gereinigd en ontsmet  | ernstige overtreding  |
-| regeling preventie  | [artikel 31, vierde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen, niet zijnde varkens  | vervoermiddel is niet direct na lossing op een slachtplaats met geringe capaciteit vervoerd langs de kortste weg naar de in de vergunning van die slachtplaats aangewezen R&O plaats vervoerd om daar gereinigd en ontsmet te worden  | ernstige overtreding  |
-| regeling preventie  | [artikel 32, eerste tot en met vierde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | register is niet bijgehouden of kan niet worden overgelegd  | ernstige overtreding  |
-| regeling preventie  | [artikel 32, eerste en tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | het bijgehouden register is incompleet (een of meer gegevens bedoeld in [artikel 32, eerste en tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) ontbreken)  | overtreding  |
-| regeling preventie  | [artikel 32, derde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | gegevens van de laatste reiniging en ontsmetting zijn niet op het vervoermiddel aanwezig  | overtreding  |
-| regeling preventie  | [artikel 32, vierde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | register wordt niet voldoende lang bewaard (meer dan 1 jaar, maar minder dan 3 jaar)  | geringe overtreding  |
-| regeling preventie  | [artikel 32, vierde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | register wordt niet voldoende lang bewaard (minder dan 1 jaar)  | overtreding  |
-| regeling preventie  | [artikel 33, eerste lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder, verzamelcentrum en slachthuis die/dat niet deelneemt aan een kwaliteitssysteem als bedoeld in artikel 56  | evenhoevigen  | vervoermiddel is niet in zijn geheel gelost na aankomst  | ernstige overtreding  |
-| regeling preventie  | [artikel 33, tweede en vierde lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder, verzamelcentrum en slachthuis die/dat niet deelneemt aan een kwaliteitssysteem als bedoeld in artikel 56  | evenhoevigen, met uitzondering van varkens die worden gelost op een varkenshouderijbedrijf  | vervoerseenheid is niet in een keer geheel gelost  | ernstige overtreding  |
-| Regeling Preventie  | [artikel 34, eerste lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | Vervoerder  | evenhoevigen  | vervoermiddel, gebruikt voor transport van dieren uit buitenland en gelost op plaats die niet beschikt over een erkende R&O plaats, wordt na eerste R&O niet onmiddellijk vervoerd naar een erkende R&O-plaats  | ernstige overtreding  |
-| regeling preventie  | [artikel 34, tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | bewijs van R&O van vervoermiddel, gebruikt voor transport van dieren uit lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in [artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van de Regeling preventie](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is bevestigd, wordt niet tijdig (meer dan 24 uur na terugkeer) overgelegd  | geringe overtreding  |
-| regeling preventie  | [artikel 34, tweede lid](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | bewijs van R&O van vervoermiddel, gebruikt voor transport van dieren uit lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in [artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is bevestigd, wordt niet overgelegd  | overtreding  |
-| regeling preventie  | [artikel 35](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | vervoerder  | evenhoevigen  | bewijs van R&O van leeg vervoermiddel, gebruikt voor transport van dieren in lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in [artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van d Regeling preventie](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is bevestigd of in derde land, wordt niet of niet tijdig overgelegd  | overtreding  |
-| Regeling Preventie  | [35](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | Vervoerder  |    | leeg vervoermiddel, gebruikt voor transport van dieren in lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in [artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van de Regeling preventie](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is bevestigd of in derde land, wordt niet onmiddellijk gereinigd en ontsmet op een erkende R&O-plaats  | ernstige overtreding  |
+| regeling preventie  | artikel 30, eerste en tweede lid, juncto artikel 31, eerste lid  | vervoerder  | evenhoevigen  | op de plaats van lossing is niet gereinigd en ontsmet  | ernstige overtreding  |
+| regeling preventie  | artikel 30, eerste en tweede lid, juncto artikel 31, eerste lid  | vervoerder  | evenhoevigen  | op de plaats van lossing is niet correct gereinigd en ontsmet  | overtreding  |
+| Regeling Preventie  | artikel 30 eerste lid, juncto artikel 31, eerste lid  | Vervoerder  | evenhoevigen  | Vervoermiddel bevindt zich op de openbare weg en is voorafgaand daaraan niet gereinigd en ontsmet  | ernstige overtreding  |
+| regeling preventie  | artikel 31, tweede lid  | vervoerder  | evenhoevigen, niet zijnde varkens  | vervoermiddel waarmee rechtstreeks van stal of weide is vervoerd naar een andere weide van het zelfde bedrijf, is niet zo spoedig mogelijk na vervoer gereinigd en ontsmet  | ernstige overtreding  |
+| regeling preventie  | artikel 31, derde lid  | vervoerder  | evenhoevigen, niet zijnde varkens  | vervoermiddel waarmee rechtstreeks van bedrijf is vervoerd naar een weide van een ander bedrijf, is niet zo spoedig mogelijk na vervoer gereinigd en ontsmet  | ernstige overtreding  |
+| regeling preventie  | artikel 31, vierde lid  | vervoerder  | evenhoevigen, niet zijnde varkens  | vervoermiddel is niet direct na lossing op een slachtplaats met geringe capaciteit vervoerd langs de kortste weg naar de in de vergunning van die slachtplaats aangewezen R&O plaats vervoerd om daar gereinigd en ontsmet te worden  | ernstige overtreding  |
+| regeling preventie  | artikel 32, eerste tot en met vierde lid  | vervoerder  | evenhoevigen  | register is niet bijgehouden of kan niet worden overgelegd  | ernstige overtreding  |
+| regeling preventie  | artikel 32, eerste en tweede lid  | vervoerder  | evenhoevigen  | het bijgehouden register is incompleet (een of meer gegevens bedoeld in artikel 32, eerste en tweede lid ontbreken)  | overtreding  |
+| regeling preventie  | artikel 32, derde lid  | vervoerder  | evenhoevigen  | gegevens van de laatste reiniging en ontsmetting zijn niet op het vervoermiddel aanwezig  | overtreding  |
+| regeling preventie  | artikel 32, vierde lid  | vervoerder  | evenhoevigen  | register wordt niet voldoende lang bewaard (meer dan 1 jaar, maar minder dan 3 jaar)  | geringe overtreding  |
+| regeling preventie  | artikel 32, vierde lid  | vervoerder  | evenhoevigen  | register wordt niet voldoende lang bewaard (minder dan 1 jaar)  | overtreding  |
+| regeling preventie  | artikel 33, eerste lid  | vervoerder, verzamelcentrum en slachthuis die/dat niet deelneemt aan een kwaliteitssysteem als bedoeld in artikel 56  | evenhoevigen  | vervoermiddel is niet in zijn geheel gelost na aankomst  | ernstige overtreding  |
+| regeling preventie  | artikel 33, tweede en vierde lid  | vervoerder, verzamelcentrum en slachthuis die/dat niet deelneemt aan een kwaliteitssysteem als bedoeld in artikel 56  | evenhoevigen, met uitzondering van varkens die worden gelost op een varkenshouderijbedrijf  | vervoerseenheid is niet in een keer geheel gelost  | ernstige overtreding  |
+| Regeling Preventie  | artikel 34, eerste lid  | Vervoerder  | evenhoevigen  | vervoermiddel, gebruikt voor transport van dieren uit buitenland en gelost op plaats die niet beschikt over een erkende R&O plaats, wordt na eerste R&O niet onmiddellijk vervoerd naar een erkende R&O-plaats  | ernstige overtreding  |
+| regeling preventie  | artikel 34, tweede lid  | vervoerder  | evenhoevigen  | bewijs van R&O van vervoermiddel, gebruikt voor transport van dieren uit lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van de Regeling preventie is bevestigd, wordt niet tijdig (meer dan 24 uur na terugkeer) overgelegd  | geringe overtreding  |
+| regeling preventie  | artikel 34, tweede lid  | vervoerder  | evenhoevigen  | bewijs van R&O van vervoermiddel, gebruikt voor transport van dieren uit lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z is bevestigd, wordt niet overgelegd  | overtreding  |
+| regeling preventie  | artikel 35  | vervoerder  | evenhoevigen  | bewijs van R&O van leeg vervoermiddel, gebruikt voor transport van dieren in lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van d Regeling preventie is bevestigd of in derde land, wordt niet of niet tijdig overgelegd  | overtreding  |
+| Regeling Preventie  | 35  | Vervoerder  |    | leeg vervoermiddel, gebruikt voor transport van dieren in lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van de Regeling preventie is bevestigd of in derde land, wordt niet onmiddellijk gereinigd en ontsmet op een erkende R&O-plaats  | ernstige overtreding  |
 

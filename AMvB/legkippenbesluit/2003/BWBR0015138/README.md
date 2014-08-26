@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 26 maart 2003, nr. TRCJZ/2003/2049, Directie Juridische Zaken;
 
-Gelet op richtlijn 1999/74/EG van de Raad van de Europese Unie van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen (PbEG L 203) alsmede op de [artikelen 35](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [38](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [40, tweede lid, onderdeel c](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [45](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [111 van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op richtlijn 1999/74/EG van de Raad van de Europese Unie van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen (PbEG L 203) alsmede op de artikelen 35, 38, 40, tweede lid, onderdeel c, 45, 108 en 111 van de Gezondheids- en welzijnswet voor dieren;
 
 De Raad van State gehoord (advies van 9 mei 2003; nr. W11.03.0114/V);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a. wet: Gezondheids- en welzijnswet voor dieren;  
 
 b. legkip: legrijpe kip van de soort Gallus gallus die wordt gehouden voor de productie van andere eieren dan broedeieren;  
 
@@ -47,13 +47,13 @@ a. het voor 18 april 2008 is gebouwd, of
 
 b. ten behoeve van dit huisvestingssysteem voor 18 april 2008: 
 
-1°. een milieuvergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend, of  
+1°. een milieuvergunning als bedoeld in artikel 8.1 van de Wet milieubeheer is verleend, of  
 
-2°. een aanvraag voor een bouwvergunning als bedoeld in [artikel 40 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md), is gedaan en: 
+2°. een aanvraag voor een bouwvergunning als bedoeld in artikel 40 van de Woningwet, is gedaan en: 
 
 – een aanvraag voor een milieuvergunning is gedaan, of  
 
-– een melding als bedoeld in [artikel 7 van het Besluit landbouw milieubeheer](../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) is gedaan,   en dat het huisvestingssysteem voor 18 april 2010 is gebouwd en in gebruik is genomen.       
+– een melding als bedoeld in artikel 7 van het Besluit landbouw milieubeheer is gedaan,   en dat het huisvestingssysteem voor 18 april 2010 is gebouwd en in gebruik is genomen.       
 5.  In afwijking van het tweede lid is het tot en met 31 december 2011 toegestaan legkippen te houden in een kooi als bedoeld in artikel 6 indien de legkippen ten minste worden gehuisvest en verzorgd overeenkomstig de artikelen 6, 7, 8, eerste, tweede en vijfde lid, 9 en 10, voor zover het een huisvestingssysteem betreft waarvan de gebruiker kan aantonen dat het voor 1 januari 2003 is gebouwd en in gebruik is genomen. 
 
 ### Artikel  3  

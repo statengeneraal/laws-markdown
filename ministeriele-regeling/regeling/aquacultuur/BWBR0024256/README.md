@@ -6,9 +6,9 @@ De Minister van Landbouw, Natuur en Voedselkwaliteit,
 
 Gelet op Verordening (EG) nr. 136/2004 van de Commissie van de Europese Gemeenschappen van 22 januari 2004 tot vaststelling van procedures voor de veterinaire controles in de grensinspectieposten van de Gemeenschap bij het binnenbrengen van producten uit derde landen (PbEU 21), Verordening (EG) nr. 282/2004 van de Commissie van de Europese Gemeenschappen van 18 februari 2004 betreffende de vaststelling van een document voor de aangifte en de veterinaire controle van uit derde landen afkomstige dieren die in de Gemeenschap worden binnengebracht (PbEU L 49), Richtlijn nr. 89/662/EEG van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandbrenging van de interne markt (PbEG L 395/13), Richtlijn nr. 90/425/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautaire handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de totstandbrenging van de interne markt (PbEG L 224/29), Richtlijn nr. 91/496/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor dieren uit derde landen die in de Gemeenschap worden binnengebracht en tot wijziging van de Richtlijnen nrs. 89/662/EEG, 90/425/EEG en 90/675/EEG (PbEG L 268/56), Richtlijn nr. 96/22/EG van de Raad van de Europese Gemeenschappen van 29 april 1996 betreffende het gebruik, in de veehouderij, van bepaalde stoffen met thyreostatische werking, alsmede van ß-agonisten en tot intrekking van de Richtlijnen nrs. 81/602/EEG, 88/146/EEG en 88/299/EEG (PbEG L 125), Richtlijn nr. 97/78/EG van de Raad van de Europese Unie van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten die uit derde landen in de Gemeenschap worden binnengebracht (PbEG L 24), Richtlijn nr. 2006/88/EG van de Raad van de Europese Gemeenschappen van 24 oktober 2006 betreffende veterinairrechtelijke voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG L 328);
 
-Gelet op [artikel 2b van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), [artikel 19 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md), en de [artikelen 10](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [11](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [13](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [15](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [19, tweede lid](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [25](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [26](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [30](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [78](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [100](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [102](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [107](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [111 van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op artikel 2b van de Visserijwet 1963, artikel 19 van de Landbouwwet, en de artikelen 10, 11, 13, 15, 19, tweede lid, 25, 26, 30, 78, 100, 102, 107 en 111 van de Gezondheids- en welzijnswet voor dieren;
 
-Gelet op [artikel 3 van het Reglement zee- en kustvisserij](../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md), de [artikelen 2](../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md) en [4 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten](../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md), [artikel 3, onderdeel hh](../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md), en [artikel 5, eerste lid, onderdeel ff, van het Besluit verdachte dieren](../../../../AMvB/besluit/verdachte/dieren/BWBR0006829/README.md);
+Gelet op artikel 3 van het Reglement zee- en kustvisserij, de artikelen 2 en 4 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten, artikel 3, onderdeel hh, en artikel 5, eerste lid, onderdeel ff, van het Besluit verdachte dieren;
 Besluit:     
 ### Titel  1  
 
@@ -52,7 +52,7 @@ a. Minister: de Minister van Economische Zaken;
 
 b. VWA: Voedsel en Waren Autoriteit;  
 
-c. ambtenaar: ambtenaar als bedoeld in [artikel 114, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+c. ambtenaar: ambtenaar als bedoeld in artikel 114, tweede lid, van de Gezondheids- en welzijnswet voor dieren;  
 
 d. lidstaat: land, niet zijnde Nederland, dat lid is van de Europese Gemeenschappen;  
 
@@ -295,7 +295,7 @@ c. de gezondheidsstatus van aquacultuurdieren op de plaats van bestemming of op 
 
 ### Artikel  3.1.1 
 
-1.  De Minister kan een gebied of compartiment vrij verklaren van één of meer van de niet-exotische ziekten, genoemd in [artikel 8 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), indien het gebied of compartiment voldoet aan de voorwaarden, bedoeld in artikel 50, eerste lid, onderdeel a, b of c, van richtlijn nr. 2006/88/EG.   
+1.  De Minister kan een gebied of compartiment vrij verklaren van één of meer van de niet-exotische ziekten, genoemd in artikel 8 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, indien het gebied of compartiment voldoet aan de voorwaarden, bedoeld in artikel 50, eerste lid, onderdeel a, b of c, van richtlijn nr. 2006/88/EG.   
 2.  De Minister geeft de verklaring, bedoeld in het eerste lid, slechts af voor een gebied of compartiment: 
 
 a. dat 75% of minder van het Nederlands grondgebied omvat;  
@@ -649,7 +649,7 @@ b. de aanvaarding daarvan tot een onevenredige belasting voor de Minister zou le
 c. de betrouwbaarheid of vertrouwelijkheid van het bericht waarmee de aanmelding is gedaan onvoldoende is gewaarborgd, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.     
 6.  De Minister deelt een weigering op grond van het vijfde lid zo spoedig mogelijk aan de afzender mede.   
 7.  De Minister kan besluiten de elektronische melding niet te behandelen, indien het elektronisch bericht geheel of gedeeltelijk is geweigerd op grond van het vijfde lid.   
-8.  Op de beslissing, bedoeld in het zevende lid, is [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+8.  Op de beslissing, bedoeld in het zevende lid, is artikel 4:5 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  6.3.4 
 
@@ -735,7 +735,7 @@ b. zijn onderworpen geweest aan alle controles als bedoeld in artikel 4, eerste 
 c. voldoen aan het bepaalde in artikel 12, eerste lid, van deze richtlijn.     
 4.  Op de in- en doorvoer van producten van aquacultuurdieren, bedoeld in het eerste tot en met het derde lid, is het bepaalde in de artikelen 6.2.2, derde lid, 6.2.3, eerste en tweede lid, 6.2.4 en 6.2.6 van overeenkomstige toepassing, met dien verstande dat het woord ‘ontvanger’ telkenmale vervangen dient te worden door ‘handelaar’ en dat bij het in artikel 6.2.3, tweede lid, bedoelde onderzoek, de documenten, bedoeld in het eerste of tweede lid, worden overgelegd.   
 5.  Het vervoer van de in het derde lid bedoelde producten van aquacultuurdieren geschiedt onder douanetoezicht tot op de plaats waar het Nederlands grondgebied wordt verlaten in verzegelde voertuigen of verzegelde containers en zonder splitsing of, tenzij de partij overeenkomstig het derde lid wordt opgeslagen, lossing van de partij.   
-6.  Op de in het vijfde lid bedoelde partij is [paragraaf 3.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md) van overeenkomstige toepassing.  
+6.  Op de in het vijfde lid bedoelde partij is paragraaf 3.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten van overeenkomstige toepassing.  
 
 ### Artikel  7.2.3 
 
@@ -786,7 +786,7 @@ b. dat zij in overeenstemming met communautaire maatregelen zijn afgegeven;
 c. dat daaruit blijkt dat is voldaan aan nadere voorwaarden, die bij communautaire maatregelen zijn gesteld aan de invoer van producten van aquacultuurdieren vanuit het betrokken derde land of deel van dat derde land, en  
 
 d. de geldigheidsduur niet is verstreken.     
-7.  Op de in het eerste lid bedoelde partij producten zijn de [artikelen 3.2.2.4, tweede lid](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), en [3.2.2.5 tot en met 3.2.4.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md) van overeenkomstige toepassing. Deze partij gaat vergezeld van een Gemeenschappelijk veterinair document van binnenkomst als bedoeld in verordening nr. 136/2004. Opslag in een vrije zone, een vrij entrepot of een douane-entrepot is slechts toegestaan voor zover elders geen opslag heeft plaatsgevonden.   
+7.  Op de in het eerste lid bedoelde partij producten zijn de artikelen 3.2.2.4, tweede lid, en 3.2.2.5 tot en met 3.2.4.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten van overeenkomstige toepassing. Deze partij gaat vergezeld van een Gemeenschappelijk veterinair document van binnenkomst als bedoeld in verordening nr. 136/2004. Opslag in een vrije zone, een vrij entrepot of een douane-entrepot is slechts toegestaan voor zover elders geen opslag heeft plaatsgevonden.   
 8.  Voor de toepassing van de in het zevende lid bedoelde artikelen wordt voor ‘keuringsdierenarts’ gelezen: ambtenaar.   
 9.  In geval een partij aquacultuurdieren afkomstig is uit Nieuw-Zeeland, mag deze in afwijking van het vierde lid, vergezeld gaan van een certificaat dat is vastgesteld bij een communautaire maatregel ter uitvoering van de Overeenkomst van 17 december 1996 tussen de Europese Gemeenschap en Nieuw-Zeeland inzake sanitaire maatregelen voor de handel in levende dieren en dierlijke producten (PbEG 1997, L 57), indien: 
 
@@ -813,7 +813,7 @@ b. de aanvaarding daarvan tot een onevenredige belasting voor de Minister zou le
 c. de betrouwbaarheid of vertrouwelijkheid van het bericht waarmee de aanmelding is gedaan onvoldoende is gewaarborgd, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.     
 6.  De Minister deelt een weigering op grond van het vijfde lid zo spoedig mogelijk aan de afzender mede.   
 7.  De Minister kan besluiten de elektronische melding niet te behandelen, indien het elektronisch bericht geheel of gedeeltelijk is geweigerd op grond van het vijfde lid.   
-8.  Op de beslissing, bedoeld in het zevende lid, is [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+8.  Op de beslissing, bedoeld in het zevende lid, is artikel 4:5 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  7.3.4 
 
@@ -833,7 +833,7 @@ Met betrekking tot het bepaalde in artikel 7.3.2 is het gestelde in de artikelen
 a. artikel 7.3.2, eerste, tweede en derde lid, en  
 
 b. artikel 15, eerste lid, onderdeel a, van richtlijn nr. 97/78/EG.     
-2.  Op de in het eerste lid bedoelde partij producten zijn de [artikelen 3.2.2.4, tweede lid](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md), en [3.2.2.5 tot en met 3.2.4.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md) van overeenkomstige toepassing.   
+2.  Op de in het eerste lid bedoelde partij producten zijn de artikelen 3.2.2.4, tweede lid, en 3.2.2.5 tot en met 3.2.4.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten van overeenkomstige toepassing.   
 3.  Indien de in het eerste lid bedoelde partij producten naar het derde land is verzonden vanuit een lidstaat, heeft de Minister vooraf toestemming verleend voor het binnenbrengen van de producten en heeft de bevoegde autoriteit van de lidstaat die het in artikel 15, eerste lid, onderdeel a, van richtlijn nr. 97/78/EG bedoelde certificaat heeft afgegeven met de terugname van de partij ingestemd.  
 
 ### Artikel  7.3.7 
@@ -981,11 +981,11 @@ Wijzigt het Mandaatbesluit LNV Voedsel en Waren Autoriteit.
 
 ### Artikel  10.1.4  
 
-De [Regeling aquicultuur](../../../../ministeriele-regeling/regeling/aquicultuur/BWBR0005834/README.md) wordt ingetrokken. 
+De Regeling aquicultuur wordt ingetrokken. 
 
 ### Artikel  10.1.5  
 
-De [Regeling voorkoming ziekten bij zalmachtigen](../../../../ministeriele-regeling/regeling/voorkoming/ziekten/bij/zalmachtigen/BWBR0005632/README.md) wordt ingetrokken. 
+De Regeling voorkoming ziekten bij zalmachtigen wordt ingetrokken. 
 
 ### Artikel  10.1.6  
 

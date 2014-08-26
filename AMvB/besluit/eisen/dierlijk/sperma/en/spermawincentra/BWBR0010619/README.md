@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 21 december 1998, nr. TRCJZ/1998/2743, Directie Juridische Zaken;
 
-Gelet op de [artikelen 3](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [4](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [6](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [7](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [96](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [108 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op de artikelen 3, 4, 6, 7, 96 en 108 van de Gezondheids- en welzijnswet voor dieren;
 
 De Raad van State gehoord (advies van 30 maart 1999, nr. W11.98.0599/V);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: de [Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a. wet: de Gezondheids- en welzijnswet voor dieren;  
 
 b. beer: geslachtsrijp varken van het mannelijk geslacht dat kennelijk bestemd is voor de fokkerij;  
 
@@ -52,7 +52,7 @@ o. richtlijn 88/407/EEG: Richtlijn nr. 88/407/EEG van de Raad van 14 juni 1988 t
 
 ### Artikel  1a  
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag tot erkenning als bedoeld in de artikelen 3 en 9. 
+Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet, is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag tot erkenning als bedoeld in de artikelen 3 en 9. 
 
 ### §  2  
 
@@ -108,7 +108,7 @@ Het is verboden varkenssperma te vervoeren of te verhandelen, tenzij is voldaan 
 
 ###Artikel 6 
 
-Het varkenssperma is overeenkomstig het bepaalde bij of krachtens de artikelen 3 en 4 op een varkensspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het varkenssperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.
+Het varkenssperma is overeenkomstig het bepaalde bij of krachtens de artikelen 3 en 4 op een varkensspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het varkenssperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens artikelen 10 en 11 van de wet gestelde regels binnen Nederland gebracht.
 
 ### Artikel  7  
 
@@ -181,7 +181,7 @@ Het is verboden rundersperma te vervoeren of te verhandelen, tenzij is voldaan a
 
 ###Artikel 12 
 
-Het rundersperma is overeenkomstig het bepaalde bij of krachtens de artikelen 9 en 10 op een runderspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het rundersperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.
+Het rundersperma is overeenkomstig het bepaalde bij of krachtens de artikelen 9 en 10 op een runderspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het rundersperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens artikelen 10 en 11 van de wet gestelde regels binnen Nederland gebracht.
 
 ### Artikel  13  
 
@@ -246,7 +246,7 @@ Het is verboden paardensperma te vervoeren of te verhandelen, tenzij is voldaan 
 
 ###Artikel 17 
 
-Het paardensperma is overeenkomstig het bepaalde bij of krachtens artikel 15 op een paardenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het paardensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.
+Het paardensperma is overeenkomstig het bepaalde bij of krachtens artikel 15 op een paardenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het paardensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens artikelen 10 en 11 van de wet gestelde regels binnen Nederland gebracht.
 
 ### Artikel  18  
 
@@ -315,7 +315,7 @@ Het is verboden schapen- of geitensperma te vervoeren of te verhandelen, tenzij 
 ### Artikel  22  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Het schapen- of geitensperma is overeenkomstig het bepaalde bij of krachtens artikel 20 op een schapen- of geitenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het schapen- of geitensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht. 
+Het schapen- of geitensperma is overeenkomstig het bepaalde bij of krachtens artikel 20 op een schapen- of geitenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het schapen- of geitensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens artikelen 10 en 11 van de wet gestelde regels binnen Nederland gebracht. 
 
 ### Artikel  23  
 Treedt in werking op een nader te bepalen tijdstip 

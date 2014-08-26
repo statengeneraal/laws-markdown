@@ -1712,7 +1712,14 @@ De IND verstaat onder een intra-concern uitzending een vorm van uitzending waarb
 * specialisten.  
 ###Middelen van bestaan
 
-De IND neemt aan dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan in de zin van artikel 3.74, eerste lid, Vb juncto artikel 3.19, eerste lid, VV als het UWV een TWV heeft verleend voor de te verrichten arbeid.  
+De IND neemt aan dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan in de zin van artikel 3.74, eerste lid, Vb juncto artikel 3.19, eerste lid, VV als het UWV een TWV heeft verleend voor de te verrichten arbeid.
+### 2.1.4  
+
+####Arbeid in loondienst na verblijf als familie- of gezinslid
+
+Treedt in werking per 01-09-2014 
+
+De IND verleent een verblijfsvergunning voor bepaalde tijd regulier onder de beperking ‘arbeid in loondienst’ aan de vreemdeling waarvan het verblijf als familie- of gezinslid is beëindigd, als wordt voldaan aan artikel 3.31, eerste lid, Vb.  
 ### 2.2  
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur

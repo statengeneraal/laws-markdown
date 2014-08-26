@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuurbeheer en Visserij,  
 Gelet op Richtlijn nr. 90/429/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van varkens en de invoer daarvan (PbEG L 224);
 
-Gelet op artikel 17 van de Gezondheids- en welzijnswet voor dieren, op [artikel 2, onderdeel b, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong](../../../../AMvB/besluit/uitvoer/dieren/en/produkten/van/dierlijke/oorsprong/BWBR0006427/README.md) en op de [artikelen 3, derde lid](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md), [4, tweede lid](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md), en [7 van het Besluit eisen dierlijk sperma en spermawincentra](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);
+Gelet op artikel 17 van de Gezondheids- en welzijnswet voor dieren, op artikel 2, onderdeel b, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong en op de artikelen 3, derde lid, 4, tweede lid, en 7 van het Besluit eisen dierlijk sperma en spermawincentra;
 Besluit:      
 ### 1  
 
@@ -28,7 +28,7 @@ e. winning: hoeveelheid sperma die op een bepaald moment van een donor is verkre
 f. dierenarts van het centrum: dierenarts verbonden aan het erkende spermawincentrum;  
 
 g. quarantaineruimte: door de Minister voor de toepassing van deze regeling erkende afzonderingsruimte waarin zich slechts varkens bevinden die tenminste dezelfde gezondheidsstatus bezitten.     
-2.  Deze regeling berust mede op [artikel 2, onderdeel c, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong](../../../../AMvB/besluit/uitvoer/dieren/en/produkten/van/dierlijke/oorsprong/BWBR0006427/README.md).  
+2.  Deze regeling berust mede op artikel 2, onderdeel c, van het Besluit uitvoer dieren en produkten van dierlijke oorsprong.  
 
 ### 2  
 
@@ -94,7 +94,7 @@ h.  een ruimte voor de opslag en distributie van sperma, die op efficiënte wijz
 
 ### Artikel  6  
 
-1.  Ten behoeve van het toezicht, bedoeld in Bijlage A, Hoofdstuk II, punt 2, van richtlijn 90/429/EEG zijn de in het varkensspermawincentrum aanwezige beren, onverminderd de krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) gestelde regels, voorzien van een onverbrekelijk met het dier verbonden, goed leesbaar nummer aan de hand waarvan de betrokken beer individueel geïdentificeerd kan worden en beschikt het varkensspermawincentrum over een door de keuringsdierenarts vanuit één plaats op het varkensspermawincentrum te raadplegen register, dat dagelijks wordt bijgehouden en dat zodanig is ingericht, dat daaruit te allen tijde op eenvoudige wijze met betrekking tot elk varken kan worden afgeleid: 
+1.  Ten behoeve van het toezicht, bedoeld in Bijlage A, Hoofdstuk II, punt 2, van richtlijn 90/429/EEG zijn de in het varkensspermawincentrum aanwezige beren, onverminderd de krachtens het Besluit identificatie en registratie van dieren gestelde regels, voorzien van een onverbrekelijk met het dier verbonden, goed leesbaar nummer aan de hand waarvan de betrokken beer individueel geïdentificeerd kan worden en beschikt het varkensspermawincentrum over een door de keuringsdierenarts vanuit één plaats op het varkensspermawincentrum te raadplegen register, dat dagelijks wordt bijgehouden en dat zodanig is ingericht, dat daaruit te allen tijde op eenvoudige wijze met betrekking tot elk varken kan worden afgeleid: 
 
 a.  het ras; 
 
@@ -143,7 +143,7 @@ Als laboratorium bedoeld in Bijlage B, Hoofdstuk I, punt 2, en in Bijlage B, Hoo
 
 a.  de naam, het adres en de vestigingsplaats van het varkensspermawincentrum; 
 
-b.  het aan het varkensspermawincentrum krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) uitgegeven uniek bedrijfsnummer; 
+b.  het aan het varkensspermawincentrum krachtens het Besluit identificatie en registratie van dieren uitgegeven uniek bedrijfsnummer; 
 
 c.  een plattegrond van kadastrale eenheden waarop het varkensspermawincentrum is gesitueerd, waarbij is aangegeven: 
 
@@ -160,7 +160,7 @@ e.  de naam van de dierenarts van het centrum.
 
 ### Artikel  10  
 
-1. De erkenning wordt door de minister verleend, nadat uit een door de keuringsdierenarts ingesteld onderzoek is gebleken, dat voldaan wordt aan de in [artikel 3, tweede lid, van het besluit](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) bedoelde voorschriften.  
+1. De erkenning wordt door de minister verleend, nadat uit een door de keuringsdierenarts ingesteld onderzoek is gebleken, dat voldaan wordt aan de in artikel 3, tweede lid, van het besluit bedoelde voorschriften.  
 2. De minister neemt gelijktijdig met de verlening van de erkenning, bedoeld in het eerste lid, een besluit omtrent de aanvraag om erkenning, bedoeld in artikel 15.
 
 ### Artikel  11  
@@ -170,7 +170,7 @@ e.  de naam van de dierenarts van het centrum.
 
 ### Artikel  12  
 
-1.  De minister trekt de verleende erkenning in, indien de keuringsdierenarts heeft geconstateerd dat de in [artikel 3, tweede lid, van het besluit](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) bedoelde voorschriften niet worden nageleefd dan wel dat niet voldaan wordt aan artikel 11, tweede lid, en artikel 14, doch niet dan nadat gedurende een redelijke termijn gelegenheid is gegeven de voor het behoud van de erkenning noodzakelijke voorzieningen te treffen.   
+1.  De minister trekt de verleende erkenning in, indien de keuringsdierenarts heeft geconstateerd dat de in artikel 3, tweede lid, van het besluit bedoelde voorschriften niet worden nageleefd dan wel dat niet voldaan wordt aan artikel 11, tweede lid, en artikel 14, doch niet dan nadat gedurende een redelijke termijn gelegenheid is gegeven de voor het behoud van de erkenning noodzakelijke voorzieningen te treffen.   
 2.  De minister schorst de verleende erkenning, indien: 
 
 a.  een of meer van de krachtens Bijlage B, Hoofdstuk II van richtlijn 90/429/EEG uit te voeren routinetests een positief resultaat heeft opgeleverd; 
@@ -205,7 +205,7 @@ Een erkend varkensspermawincentrum stelt de minister in kennis van elke wijzigin
 
 a.  de naam, het adres en de vestigingsplaats van de quarantaineruimte; 
 
-b.  het aan de quarantaineruimte krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) uitgegeven uniek bedrijfsnummer; 
+b.  het aan de quarantaineruimte krachtens het Besluit identificatie en registratie van dieren uitgegeven uniek bedrijfsnummer; 
 
 c.  een plattegrond van kadastrale eenheden waarop de quarantaineruimte is gesitueerd, waarbij is aangegeven: 
 
@@ -258,11 +258,11 @@ h.  de keuringsdierenarts wordt in verband met het door hem uit te oefenen toezi
 
 ### Artikel  17  
 
-Het in [artikel 4, eerste lid, van het besluit](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) bedoelde calamiteitenplan bevat ten minste voorschriften omtrent: 
+Het in artikel 4, eerste lid, van het besluit bedoelde calamiteitenplan bevat ten minste voorschriften omtrent: 
 
 a.  de onverwijlde interne melding aan de dierenarts van het centrum van afwijkingen van de wettelijke voorschriften en de daarop gebaseerde interne procedures; 
 
-b.  het onverwijld melden aan de keuringsdierenarts van mogelijke verdenking van ingevolge [artikel 15 van de wet](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen ziekten; 
+b.  het onverwijld melden aan de keuringsdierenarts van mogelijke verdenking van ingevolge artikel 15 van de wet aangewezen ziekten; 
 
 c.  het uitoefenen van de interne controle op de naleving van de relevante wettelijke voorschriften en de daarop gebaseerde interne procedures, en 
 
@@ -303,7 +303,7 @@ d.  naam en adres van de ontvanger of de leverancier;
 
 e.  het registratienummer van het varkensspermawincentrum waar het sperma gewonnen is, en 
 
-f.  indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in [artikel 9.5, onderdeel b](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), of in [artikel 9.6, derde lid, onderdeel b, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), alsmede de datum waarop dit sperma binnen Nederland is gebracht.    
+f.  indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in artikel 9.5, onderdeel b, of in artikel 9.6, derde lid, onderdeel b, van de Regeling handel levende dieren en levende producten, alsmede de datum waarop dit sperma binnen Nederland is gebracht.    
 2.  De in het eerste lid, bedoelde gegevens worden tot één jaar na afvoer van het varken waarvan het sperma afkomstig is, bewaard.   
 
 ### Artikel  21  
@@ -364,7 +364,7 @@ d.  het identificatienummer van het varkensspermawincentrum.
 
 ### Artikel  27  
 
-1.  De op het tijdstip van inwerkingtreding van deze regeling ingevolge [artikel 9.10 van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), zoals dit luidde voor het tijdstip van inwerkingtreding van de regeling, erkende varkensspermawincentra, worden voor de duur van twaalf maanden na inwerkingtreding van deze regeling voorlopig erkend als varkensspermawincentrum.   
+1.  De op het tijdstip van inwerkingtreding van deze regeling ingevolge artikel 9.10 van de Regeling handel levende dieren en levende producten, zoals dit luidde voor het tijdstip van inwerkingtreding van de regeling, erkende varkensspermawincentra, worden voor de duur van twaalf maanden na inwerkingtreding van deze regeling voorlopig erkend als varkensspermawincentrum.   
 2.  Niet ingevolge de in het eerste lid bedoelde bepaling erkende varkensspermawincentra worden, onder de voorwaarde dat een daartoe strekkende volledige aanvraag als bedoeld in artikel 15 binnen drie maanden na inwerkingtreding van deze regeling is ingediend, voor de duur van zes maanden na inwerkingtreding van deze regeling voorlopig erkend als varkensspermawincentrum of tot zoveel eerder als op die aanvraag onherroepelijk zal zijn besloten.   
 3.  Quarantaineruimten worden, onder de voorwaarde dat een daartoe strekkende volledige aanvraag als bedoeld in artikel 15 binnen drie maanden na inwerkingtreding van deze regeling is ingediend, voor de duur van zes maanden na inwerkingtreding van deze regeling voorlopig erkend als quarantaineruimte of tot zoveel eerder als op die aanvraag onherroepelijk zal zijn besloten.   
 

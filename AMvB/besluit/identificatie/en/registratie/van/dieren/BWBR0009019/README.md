@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 15
 
 Gelet op richtlijn nr. 92/102/EEG van de Raad van Europese Gemeenschappen van 27 november 1992 met betrekking tot de identificatie en de registratie van dieren (PbEG L 355), richtlijn nr. 97/12/EG van de Raad van de Europese Unie van 17 maart 1997 tot wijziging en bijwerking van richtlijn 64/432/EEG inzake veterinairrechtelijke vraagstukken op het gebied het intracommunautaire handelsverkeer in runderen en varkens (PbEG L109) en Verordening (EG) nr. 820/97 van de Raad van de Europese Unie van 21 april 1997 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten (PbEG L 117); 
 
-Gelet op de [artikelen 4](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [96](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), en [111 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md): 
+Gelet op de artikelen 4, 96, 108, en 111 van de Gezondheids- en welzijnswet voor dieren: 
 
 De Raad van State gehoord (advies van 7 oktober 1997, nr. W11.97.0478); 
 
@@ -24,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);   
+a. wet: Gezondheids- en welzijnswet voor dieren;   
 
 b. richtlijn 92/102/EEG: richtlijn nr. 92/102/EEG van de Raad van Europese Gemeenschappen van 27 november 1992 met betrekking tot de identificatie en de registratie van dieren (PbEG L 355);   
 
@@ -37,12 +37,12 @@ e. richtlijn 90/427/EEG: richtlijn nr. 90/427/EEG van de Raad van Europese Gemee
 f. eenhoevige dieren: paardachtigen als bedoeld in artikel 2, onderdeel b, van richtlijn 90/426/EEG;  
 
 g. dieren: eenhoevige dieren en dieren van de in artikel 1 van richtlijn nr. 64/432/EEG van de Raad van Europese Gemeenschappen van 26 juni 1964, inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautair handelsverkeer in runderen en varkens (PbEG L 121) en in artikel 1 van richtlijn nr. 91/68/EEG van de Raad van Europese Gemeenschappen van 28 januari 1991, inzake veterinairrechtelijke voorschriften op het gebied van het intracommunautaire handelsverkeer in schapen en geiten (PbEG L 46) bedoelde soorten.      
-2.  In zoverre in afwijking van [artikel 1, eerste lid, van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt voor de toepassing dit hoofdstuk en de daarop berustende bepalingen onder houder verstaan: 
+2.  In zoverre in afwijking van artikel 1, eerste lid, van de wet wordt voor de toepassing dit hoofdstuk en de daarop berustende bepalingen onder houder verstaan: 
 
 a. houder als bedoeld in artikel 2, derde gedachtenstreepje, van verordening 1760/2000, voor zover dit begrip betrekking heeft op diersoorten waarop deze verordeningen van toepassing zijn;  
 
 b. houder als bedoeld in artikel 2, onderdeel c van richtlijn 92/102/EEG, voorzover dit begrip betrekking heeft op andere diersoorten dan eenhoevige dieren en de in onderdeel a bedoelde diersoorten.    
-3. Dit besluit berust mede op de [artikelen 34](../../../../../../../../wet/meststoffenwet/BWBR0004054/README.md) en [37 van de Meststoffenwet](../../../../../../../../wet/meststoffenwet/BWBR0004054/README.md) en op [artikel 12.29, aanhef en onder e en f, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+3. Dit besluit berust mede op de artikelen 34 en 37 van de Meststoffenwet en op artikel 12.29, aanhef en onder e en f, van de Wet milieubeheer.
 
 ### Artikel  2  
 
@@ -98,7 +98,7 @@ In dit hoofdstuk en de op de artikelen van dit hoofdstuk berustende bepalingen w
 
 –  *databank:* geautomatiseerde gegevensbank als bedoeld in artikel 10, eerste lid, waarin de gegevens worden verwerkt, bedoeld in artikel 10, derde lid;  
 
-–  *persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, betrokkene onderscheidenlijk bewerker:* hetgeen daaronder wordt verstaan in [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+–  *persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, betrokkene onderscheidenlijk bewerker:* hetgeen daaronder wordt verstaan in artikel 1 van de Wet bescherming persoonsgegevens.   
 
 ### §  2  
 
@@ -112,7 +112,7 @@ In dit hoofdstuk en de op de artikelen van dit hoofdstuk berustende bepalingen w
 2.  Een hond wordt slechts verhandeld, geschonken of anderszins overgedragen aan een opvolgende houder, nadat de hond is geïdentificeerd en geregistreerd overeenkomstig dit hoofdstuk en de op dit hoofdstuk berustende bepalingen.   
 3.  De verplichting, bedoeld in het eerste lid, is niet van toepassing op: 
 
-a. de houder van een hond in een asiel als bedoeld in [artikel 1 van het Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), mits de hond twee weken na de binnenkomst in het asiel wordt geïdentificeerd en na vier weken is geregistreerd;  
+a. de houder van een hond in een asiel als bedoeld in artikel 1 van het Honden- en kattenbesluit 1999, mits de hond twee weken na de binnenkomst in het asiel wordt geïdentificeerd en na vier weken is geregistreerd;  
 
 b. de houder die afkomstig is uit een Europese lidstaat of een derde land, en voornemens is met zijn hond in Nederland te verblijven voor een periode korter dan drie maanden.    
 
@@ -133,7 +133,7 @@ c. de geboortedatum van de hond;
 d. de datum van identificatie;  
 
 e. de naam, adres en woonplaats van de persoon die de chip inbrengt.     
-4.  Indien de houder een onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), geeft de houder bij de registratie, bedoeld in het tweede lid, in ieder geval de volgende gegevens door: 
+4.  Indien de houder een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007, geeft de houder bij de registratie, bedoeld in het tweede lid, in ieder geval de volgende gegevens door: 
 
 a. vestigingsadres van de onderneming waarop de hond wordt gehouden;  
 
@@ -141,7 +141,7 @@ b. naam van de onderneming en de beheerder van de onderneming;
 
 c. het nummer van de inschrijving in het handelsregister;  
 
-d. het registratienummer dat op basis van [artikel 5 van het Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) is toegekend, en  
+d. het registratienummer dat op basis van artikel 5 van het Honden- en kattenbesluit 1999 is toegekend, en  
 
 e. de gegevens, bedoeld in het derde lid, onderdelen c tot en met e.     
 5.  De houder meldt in een databank: 
@@ -175,7 +175,7 @@ c. de datum van overdracht.
 
 ####In Nederland brengen van buitenlandse honden
 
-1.  Indien een natuurlijk persoon die woonachtig is in Nederland of een onderneming als bedoeld in [artikel 5 van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), een hond in Nederland brengt, registreert hij de hond in een databank.   
+1.  Indien een natuurlijk persoon die woonachtig is in Nederland of een onderneming als bedoeld in artikel 5 van de Handelsregisterwet 2007, een hond in Nederland brengt, registreert hij de hond in een databank.   
 2.  Indien de houder een natuurlijk persoon is, geeft de houder bij de registratie, bedoeld in het eerste en tweede lid, in ieder geval de volgende gegevens door: 
 
 a. naam, adres en woonplaats;  
@@ -189,7 +189,7 @@ d. de datum van identificatie;
 e. datum van het in Nederland brengen van de hond, en  
 
 f. land van herkomst van de hond.     
-3.  Indien de houder een onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), geeft de houder bij de registratie, bedoeld in het tweede lid, de volgende gegevens door: 
+3.  Indien de houder een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007, geeft de houder bij de registratie, bedoeld in het tweede lid, de volgende gegevens door: 
 
 a. vestigingsadres van de onderneming waarop de hond wordt gehouden;  
 
@@ -197,7 +197,7 @@ b. naam van de onderneming en de beheerder van de onderneming;
 
 c. het nummer van de inschrijving in het handelsregister;  
 
-d. het registratienummer dat op basis van [artikel 5 van het Honden- en kattenbesluit 1999](../../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) is toegekend, en  
+d. het registratienummer dat op basis van artikel 5 van het Honden- en kattenbesluit 1999 is toegekend, en  
 
 e. de gegevens, bedoeld in het tweede lid, onderdelen c tot en met f.     
 4.  Bij ministeriële regeling worden regels gesteld over: 
@@ -219,7 +219,7 @@ b. de wijze van registratie, bedoeld in het eerste tot en met derde lid.
 3.  Een beheerder van een databank verwerkt de gegevens, bedoeld in artikel 7, derde tot en met vijfde lid, 8, eerste en tweede lid, en 9, tweede en derde lid, en stelt deze gegevens beschikbaar aan Onze Minister.   
 4.  Onze Minister wijst een databank aan indien: 
 
-a. de beheerder van de databank een onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;  
+a. de beheerder van de databank een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007 of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;  
 
 b. de databank schriftelijk of elektronisch voldoende bereikbaar is voor houders;  
 
@@ -233,10 +233,10 @@ e. de beheerder van de databank de geregistreerde gegevens:
 
 2°. slechts voor andere doelen dan bedoeld in artikel 12, derde lid, gebruikt, nadat toestemming is verkregen van de betrokkene;    
 
-f. de beheerder van de databank informatie verstrekt aan de houder van een hond en ook overigens maatregelen treft om hem zijn rechten te kunnen laten uitoefenen en de plichten na te leven als bedoeld in [hoofdstuk 5](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [6 van de Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en  
+f. de beheerder van de databank informatie verstrekt aan de houder van een hond en ook overigens maatregelen treft om hem zijn rechten te kunnen laten uitoefenen en de plichten na te leven als bedoeld in hoofdstuk 5 en 6 van de Wet bescherming persoonsgegevens, en  
 
 g. de beheerder zorg draagt voor de kwaliteit van de gegevens en deze slechts bewaart gedurende een bij ministeriële regeling bepaalde termijn.     
-5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanwijzing door Onze Minister, bedoeld in het eerste lid.   
+5.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanwijzing door Onze Minister, bedoeld in het eerste lid.   
 6.  Bij ministeriële regeling worden nadere regels gesteld over: 
 
 a. de voorwaarden, bedoeld in het vierde lid, onderdelen b, c, d, en f;  
@@ -271,10 +271,10 @@ b. verleent de beheerder van de databank alle medewerking ter zake van de overdr
 
 ### Artikel  13  
 
-####Naleving [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en andere privacywetgeving
+####Naleving Wet bescherming persoonsgegevens en andere privacywetgeving
 
-1.  Onze Minister en de beheerder van een databank verstrekken elkaar over en weer alle benodigde informatie teneinde een goede naleving van de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en andere privacywetgeving mogelijk te maken. Op verzoek van Onze Minister toont de beheerder aan dat de noodzakelijke maatregelen zijn genomen.   
-2.  De beheerder van de databank stelt Onze Minister te allen tijde kosteloos in de gelegenheid alle benodigde controles, gericht op de uitvoering van dit besluit en de naleving van privacywetgeving zoals de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), uit te voeren of uit te doen voeren.   
+1.  Onze Minister en de beheerder van een databank verstrekken elkaar over en weer alle benodigde informatie teneinde een goede naleving van de Wet bescherming persoonsgegevens en andere privacywetgeving mogelijk te maken. Op verzoek van Onze Minister toont de beheerder aan dat de noodzakelijke maatregelen zijn genomen.   
+2.  De beheerder van de databank stelt Onze Minister te allen tijde kosteloos in de gelegenheid alle benodigde controles, gericht op de uitvoering van dit besluit en de naleving van privacywetgeving zoals de Wet bescherming persoonsgegevens, uit te voeren of uit te doen voeren.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over het tweede lid.  
 
 ### §  4  
@@ -299,7 +299,7 @@ b. regels worden gesteld over de plichten van de houder met betrekking tot de af
 
 ####Administratieplicht dierenarts en beroepsmatige inbrenger van chips
 
-1.  Degene die gerechtigd is op grond van [artikel 2 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) of [artikel 1, aanhef en onderdeel h, van het Besluit tot uitvoering van artikel 1, vierde lid, WUD](../../../../../../../../AMvB/besluit/tot/uitvoering/van/artikel/1/vierde/lid/wud/BWBR0005208/README.md), een chip in te brengen, houdt een administratie bij van: 
+1.  Degene die gerechtigd is op grond van artikel 4.1 van de Wet dieren of artikel 2.8, onderdeel a, van het Besluit diergeneeskundigen, een chip in te brengen, houdt een administratie bij van: 
 
 a. de datum van inbrengen van de chip, en  
 

@@ -3,12 +3,12 @@
 ##Regeling aanwijzing ambtenaar ex artikel 19 Gezondheids- en welzijnswet voor dieren
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 19, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op artikel 19, tweede lid, van de Gezondheids- en welzijnswet voor dieren;
 Besluit:    
 
 ### Artikel  1  
 
-Als ambtenaar als bedoeld in [artikel 19, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt aangewezen de hoofdinspecteur van de divisie Veterinair en import van de Nederlandse Voedsel- en Warenautoriteit. 
+Als ambtenaar als bedoeld in artikel 19, tweede lid, van de Gezondheids- en welzijnswet voor dieren wordt aangewezen de hoofdinspecteur van de divisie Veterinair en import van de Nederlandse Voedsel- en Warenautoriteit. 
 
 ### Artikel  2  
 

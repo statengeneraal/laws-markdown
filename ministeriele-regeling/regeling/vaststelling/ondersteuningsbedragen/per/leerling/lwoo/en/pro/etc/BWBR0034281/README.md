@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 28 november 2013, nr. VO/F-561596, houdende vaststelling van de ondersteuningsbedragen per leerling voor het leerwegondersteunend onderwijs (lwoo) en het praktijkonderwijs (pro), kalenderjaar 2014 (Regeling vaststelling ondersteuningsbedragen per leerling lwoo en pro, kalenderjaar 2014)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Staatssecretaris van Economische Zaken,  
-Gelet op [artikel 8, derde lid, van het Formatiebesluit WVO](../../../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md) en [artikel 2.3.2, tweede lid, van het Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);
+Gelet op artikel 8, derde lid, van het Formatiebesluit WVO en artikel 2.3.2, tweede lid, van het Uitvoeringsbesluit WEB;
 Besluit:     
 ### §  1  
 
@@ -29,19 +29,19 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ####Vaststelling ondersteuningsbedrag per leerling per 1 januari 2014
 
-Het ondersteuningsbedrag, bedoeld in [artikel 8, derde lid, van het Formatiebesluit WVO](../../../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md), dat beschikbaar wordt gesteld voor extra ondersteuning van geïndiceerde leerlingen in het praktijkonderwijs en leerwegondersteunend onderwijs, bedraagt voor 2014 per leerling: 
+Het ondersteuningsbedrag, bedoeld in artikel 8, derde lid, van het Formatiebesluit WVO, dat beschikbaar wordt gesteld voor extra ondersteuning van geïndiceerde leerlingen in het praktijkonderwijs en leerwegondersteunend onderwijs, bedraagt voor 2014 per leerling: 
 
-a. € 3.850,47 voor schoolsoortgroep 1;  
+a. € 3.867,14 voor schoolsoortgroep 1;  
 
-b. € 4.153,62 voor schoolsoortgroep 3; en  
+b. € 4.171,61 voor schoolsoortgroep 3; en  
 
-c. € 3.952,93 voor schoolsoortgroep 4.   
+c. € 3.970,05 voor schoolsoortgroep 4.   
 
 ### Artikel  3  
 
 ####Wijziging Uitvoeringsregeling WEB 2007 in verband met vaststelling van het ondersteuningsbedrag per leerling per 1 januari 2014 voor vmbo-groen
 
-Wijzigt de [Uitvoeringsregeling WEB 2007](../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/web/2007/BWBR0024795/README.md). 
+Wijzigt de Uitvoeringsregeling WEB 2007. 
 
 ### §  3  
 

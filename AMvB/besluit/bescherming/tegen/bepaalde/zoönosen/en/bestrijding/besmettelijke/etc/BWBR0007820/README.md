@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij 
 
 Gelet op artikel 4, eerste lid, eerste gedachtenstreepje en artikel 6*bis*, tweede lid, onderdeel *a*, van Richtlijn nr. 80/217/EEG van de Raad van de Europese Gemeenschappen van 22 januari 1980 tot vaststelling van gemeenschappelijke maatregelen ter bestrijding van klassieke varkenspest (*PbEG* L 47), artikel 4, eerste lid, eerste gedachtenstreepje, van Richtlijn nr. 85/511/EEG van de Raad van de Europese Gemeenschappen van 18 november 1985 tot vaststelling van gemeenschappelijke maatregelen ter bestrijding van mond- en klauwzeer (*PbEG* L 315), artikel 4, tweede lid, onderdeel *b*, subonderdeel *i*, en derde lid, van Richtlijn nr. 92/35/EEG van de Raad van de Europese Gemeenschappen van 29 april 1992 tot vaststelling van controlevoorschriften en van maatregelen ter bestrijding van paardepest (*PbEG* L 157), artikel 4, tweede lid, onderdeel *a*, en derde lid, van Richtlijn nr. 92/40/EEG van de Raad van de Europese Gemeenschappen van 19 mei 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van aviaire influenza (*PbEG* L 167), artikel 4, tweede lid, onderdeel *a*, en derde lid, van Richtlijn nr. 92/66/EEG van de Raad van de Europese Gemeenschappen van 14 juli 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van de ziekte van Newcastle (*PbEG* L 260); artikel 3, derde lid, artikel 4, eerste lid, onderdelen *a* en *d*, en Bijlage III, deel II van Richtlijn nr. 92/117/EEG van de Raad van de Europese Gemeenschappen van 17 december 1992 inzake maatregelen voor de bescherming tegen bepaalde zoönoses en bepaalde zoönoseverwekkers bij dieren en in produkten van dierlijke oorsprong ten einde door voedsel overgedragen infecties en vergiftigingen te voorkomen (*PbEG* 1993, L 62), artikel 4, tweede lid, onderdeel *a*, en derde lid van Richtlijn nr. 92/119/EEG van de Raad van de Europese Gemeenschappen van 17 december 1992 tot vaststelling van algemene communautaire maatregelen voor de bestrijding van bepaalde dierziekten en van specifieke maatregelen ten aanzien van de vesiculaire varkensziekte (*PbEG* 1993, L 62), artikel 5, tweede lid, onderdeel *a*, en derde lid, van Richtlijn nr. 93/53/EEG van de Raad van de Europese Gemeenschappen van 24 juni 1993 tot vaststelling van minimale communautaire maatregelen voor de bestrijding van bepaalde visziekten (*PbEG* L 175);
 
-Gelet op de [artikelen 15](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), vierde lid, [25](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), eerste lid, [86](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), tweede lid, [97](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [111 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op de artikelen 15, vierde lid, 25, eerste lid, 86, tweede lid, 97, 108 en 111 van de Gezondheids- en welzijnswet voor dieren;
 
 Gezien het advies van de Raad voor dierenaangelegenheden (d.d. 23 februari 1994), het Landbouwschap (d.d. 25 februari 1994), het Produktschap Vee en Vlees (d.d. 18 februari 1994), het Produktschap voor Pluimvee en Eieren (d.d. 3 maart 1994), het Produktschap voor Vis en Visprodukten (d.d. 3 maart 1994), Produktschap voor Veevoeder (d.d. 7 februari 1994), het Bedrijfschap voor de Pluimveehandel en -industrie (d.d. 3 maart 1994) en het Bedrijfschap voor de Handel in Vee (d.d. 11 maart 1994);
 
@@ -21,7 +21,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-a.*wet:* [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+a.*wet:* Gezondheids- en welzijnswet voor dieren;
 
 b.*verordening (EG) nr. 2160/2003:* verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van de Europese Unie van 17 november 2003 inzake de bestrijding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU L 325);
 
@@ -73,21 +73,21 @@ d.het stellen van voorwaarden aan het handelsverkeer met derde landen, bij of kr
 
 ### Artikel  5  
 
-Zodra een gebouw of terrein door het plaatsen van een kenteken, ingevolge [artikel 22, eerste lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), besmet of van besmetting verdacht is verklaard met klassieke varkenspest, mond- en klauwzeer, aviaire influenza, ziekte van Newcastle, paardepest, of de in bijlage I van richtlijn nr. 92/119/EEG genoemde dierziekten, legt de houder van de zieke of verdachte dieren per voor de ziekte vatbare diersoort schriftelijk vast het aantal dieren, het aantal gestorven dieren en het aantal dieren dat verschijnselen van een besmettelijke dierziekte vertoont. De gegevens van de telling dienen, totdat het kenteken is verwijderd, na een mutatie in bovengenoemde aantallen zo spoedig mogelijk te worden bijgewerkt. 
+Zodra een gebouw of terrein door het plaatsen van een kenteken, ingevolge artikel 22, eerste lid, van de wet, besmet of van besmetting verdacht is verklaard met klassieke varkenspest, mond- en klauwzeer, aviaire influenza, ziekte van Newcastle, paardepest, of de in bijlage I van richtlijn nr. 92/119/EEG genoemde dierziekten, legt de houder van de zieke of verdachte dieren per voor de ziekte vatbare diersoort schriftelijk vast het aantal dieren, het aantal gestorven dieren en het aantal dieren dat verschijnselen van een besmettelijke dierziekte vertoont. De gegevens van de telling dienen, totdat het kenteken is verwijderd, na een mutatie in bovengenoemde aantallen zo spoedig mogelijk te worden bijgewerkt. 
 
 ### Artikel  6  
 
 Indien de houder van een dier vermoedt dat dat dier door aviaire influenza, ziekte van Newcastle, paardepest, of de in Bijlage I van richtlijn nr. 92/119/EEG genoemde dierziekten is aangetast,  
 
-a. treft hij, totdat Onze Minister de nodig geachte maatregelen neemt, dienstige maatregelen als bedoeld in [artikel 22, eerste lid, onderdelen a, b, en i van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a. treft hij, totdat Onze Minister de nodig geachte maatregelen neemt, dienstige maatregelen als bedoeld in artikel 22, eerste lid, onderdelen a, b, en i van de wet;  
 
 b. draagt hij er zorg voor dat dat dier zijn verblijfplaats niet verlaat;  
 
 c. legt hij per voor de ziekte vatbare diersoort schriftelijk vast het aantal dieren, het aantal gestorven dieren en het aantal dieren dat verschijnselen van een besmettelijke dierziekte vertoont en brengt hij mutaties zo spoedig mogelijk in deze telling aan;  
 
-d. is het hem verboden de bij of krachtens [artikel 25, eerste lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen soorten of categorieën van dieren, produkten of voorwerpen te vervoeren van en naar het gebouw of terrein, en  
+d. is het hem verboden de bij of krachtens artikel 25, eerste lid, van de wet aangewezen soorten of categorieën van dieren, produkten of voorwerpen te vervoeren van en naar het gebouw of terrein, en  
 
-e. is het hem verboden het gebouw of terrein te verlaten, tenzij na toepassing van de door Onze Minister krachtens [artikel 26 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voorgeschreven maatregelen van ontsmetting.   
+e. is het hem verboden het gebouw of terrein te verlaten, tenzij na toepassing van de door Onze Minister krachtens artikel 26 van de wet voorgeschreven maatregelen van ontsmetting.   
 
 ### Artikel  9  
 
