@@ -16,11 +16,11 @@ b.*NVWA:* Nederlandse Voedsel- en Warenautoriteit.
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 9.1, eerste lid, van de Wet dieren](../../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [artikel 94, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 19](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [22a van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md). 
+Deze regeling berust op artikel 9.1, eerste lid, van de Wet dieren, artikel 94, tweede lid, van de Gezondheids- en welzijnswet voor dieren en de artikelen 19 en 22a van de Landbouwwet. 
 
 ### Artikel  2  
 
-Deze regeling is van toepassing op retributies, verschuldigd aan de NVWA ingevolge de [Regeling NVWA-tarieven](../../../../../../../../ministeriele-regeling/regeling/nvwa-tarieven/BWBR0034876/README.md). 
+Deze regeling is van toepassing op retributies, verschuldigd aan de NVWA ingevolge de Regeling NVWA-tarieven. 
 
 ### Artikel  3  
 
@@ -58,7 +58,7 @@ In bijzondere omstandigheden kan de minister ontheffing van het in deze regeling
 
 ### Artikel  8a  
 
-Op een zekerheid, die op grond van artikel 3, eerste lid, ter voldoening van een retributie als bedoeld in de [Regeling VWA retributies veterinaire en hygiënische aangelegenheden](../../../../../../../../ministeriele-regeling/regeling/retributies/vwa/veterinaire/en/hygiënische/aangelegenheden/BWBR0019325/README.md), de [Regeling retributies veterinaire en hygiënische aangelegenheden](../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/BWBR0023098/README.md), de [Regeling retributies veterinaire en hygiënische aangelegenheden I](../../../../../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/i/BWBR0025812/README.md) en [hoofdstuk 5 van de Regeling diervoeders 2012](../../../../../../../../ministeriele-regeling/regeling/diervoeders/2010/BWBR0028123/README.md) werd gesteld voor 1 maart 2014, is met ingang van 1 maart 2014 deze regeling van toepassing. 
+Op een zekerheid, die op grond van artikel 3, eerste lid, ter voldoening van een retributie als bedoeld in de Regeling VWA retributies veterinaire en hygiënische aangelegenheden, de Regeling retributies veterinaire en hygiënische aangelegenheden, de Regeling retributies veterinaire en hygiënische aangelegenheden I en hoofdstuk 5 van de Regeling diervoeders 2012 werd gesteld voor 1 maart 2014, is met ingang van 1 maart 2014 deze regeling van toepassing. 
 
 ### Artikel  9  
 

@@ -3,12 +3,12 @@
 ##Regeling vergunning biotechnologie bij dieren
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 67, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op artikel 67, tweede lid, van de Gezondheids- en welzijnswet voor dieren;
 Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);b.besluit: [Besluit biotechnologie bij dieren](../../../../../../../AMvB/besluit/biotechnologie/bij/dieren/BWBR0008392/README.md);c.vergunning: vergunning als bedoeld in [artikel 66 van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);d. minister: Minister van Landbouw, Natuur en Voedselkwaliteit. 
+In deze regeling wordt verstaan onder: a. wet: Gezondheids- en welzijnswet voor dieren;b.besluit: Besluit biotechnologie bij dieren;c.vergunning: vergunning als bedoeld in artikel 66 van de wet;d. minister: Minister van Landbouw, Natuur en Voedselkwaliteit. 
 
 ### Artikel  2  
 
@@ -54,7 +54,7 @@ Bij de indiening van een aanvraag voor een vergunning en van een verzoek tot wij
 
 ### Artikel  6  
 
-1.  Een verzoek tot wijziging van geringe aard van een vergunning als bedoeld in [artikel 12, derde lid, van het besluit](../../../../../../../AMvB/besluit/biotechnologie/bij/dieren/BWBR0008392/README.md) wordt bij de minister ingediend op een bij hem verkrijgbaar formulier.   
+1.  Een verzoek tot wijziging van geringe aard van een vergunning als bedoeld in artikel 12, derde lid, van het besluit wordt bij de minister ingediend op een bij hem verkrijgbaar formulier.   
 2.  Een verzoek als bedoeld in het eerste lid bevat een gemotiveerde omschrijving van de gewenste wijziging.   
 3.  Als wijziging van geringe aard wordt beschouwd een wijziging: 
 
@@ -76,7 +76,7 @@ Deze regeling treedt in werking op het tijdstip waarop het besluit in werking tr
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: [Regeling vergunning biotechnologie bij dieren](../../../../../../../ministeriele-regeling/regeling/vergunning/biotechnologie/bij/dieren/BWBR0008586/README.md). 
+Deze regeling wordt aangehaald als: Regeling vergunning biotechnologie bij dieren. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de staatssecretaris van onderwijs, kunsten en wetenschappen van 5 november 1962, nr. 90636 II, afdeling Oudheidkunde en Natuurbescherming;
 
-Gelet op [artikel 1 van de Wet op de dierenbescherming](../../../../../../../../../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) (*Stb.* 1961, 19);
+Gelet op artikel 1 van de Wet op de dierenbescherming (*Stb.* 1961, 19);
 
 De Raad van State gehoord (advies van 28 november 1962, nr. 31);
 

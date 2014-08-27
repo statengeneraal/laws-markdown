@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Minister van Landbouw, Natuurbeheer en Visserij van 29 mei 2000, No. TRCJZ/2000/7243, Directie Juridische Zaken;
 
-Gelet op [artikel 86, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op artikel 86, tweede lid, van de Gezondheids- en welzijnswet voor dieren;
 
 De Raad van State gehoord (advies van 21 juli 2000, no. W11.00.0223/V);
 
@@ -17,39 +17,39 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+a. wet: Gezondheids- en welzijnswet voor dieren;  
 
-b. aangewezen dierziekte: krachtens [artikel 15, eerste lid, van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) aangewezen besmettelijke dierziekte;  
+b. aangewezen dierziekte: krachtens artikel 15, eerste lid, van de wet aangewezen besmettelijke dierziekte;  
 
-c. maatregel: maatregel als bedoeld in [artikel 22 van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+c. maatregel: maatregel als bedoeld in artikel 22 van de wet;  
 
-d. tegemoetkoming: tegemoetkoming als bedoeld in [artikel 86, eerste lid, van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
+d. tegemoetkoming: tegemoetkoming als bedoeld in artikel 86, eerste lid, van de wet.   
 
 ### Artikel  2  
 
-Het in [artikel 86, tweede lid, onderdeel b, van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bedoelde gedeelte van de waarde van de dieren in gezonde toestand bedraagt 50%. 
+Het in artikel 86, tweede lid, onderdeel b, van de wet bedoelde gedeelte van de waarde van de dieren in gezonde toestand bedraagt 50%. 
 
 ### Artikel  3  
 
-1.  De in [artikel 86, tweede lid, van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bedoelde percentages tot verlaging van de tegemoetkoming bedragen: 
+1.  De in artikel 86, tweede lid, van de wet bedoelde percentages tot verlaging van de tegemoetkoming bedragen: 
 
-a. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen de [artikelen 19](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [25](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [29](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [101](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [104 van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) niet naleven: 100%;  
+a. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen de artikelen 19, 25, 29, 101 of 104 van de wet niet naleven: 100%;  
 
 b. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen handelingen verrichten, waarmee het effect van een maatregel ongedaan wordt gemaakt: 100%;  
 
-c. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen op de eerste vordering van een ambtenaar als bedoeld in [artikel 114, eerste of tweede lid, van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) niet kan aantonen van welke bedrijven de op het bedrijf aanwezige dieren afkomstig zijn, en niet kan aantonen dat de op het bedrijf aanwezige dieren langer dan zeventien weken voorafgaand aan de vordering ononderbroken op het bedrijf aanwezig zijn: 100%;  
+c. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen op de eerste vordering van een ambtenaar als bedoeld in artikel 114, eerste of tweede lid, van de wet niet kan aantonen van welke bedrijven de op het bedrijf aanwezige dieren afkomstig zijn, en niet kan aantonen dat de op het bedrijf aanwezige dieren langer dan zeventien weken voorafgaand aan de vordering ononderbroken op het bedrijf aanwezig zijn: 100%;  
 
 d. indien de eigenaar niet aantoont dat hij heeft voldaan aan een op grond van een wettelijk voorschrift voor diens dieren geldende plicht tot vaccinatie tegen de aangewezen dierziekte waarmee de dieren zijn aangetast of waarvan de dieren worden verdacht: 100%;  
 
-e. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen een verplichting als bedoeld in [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of als bedoeld in [artikel 115, eerste lid, van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) niet nakomen: 100%;  
+e. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen een verplichting als bedoeld in artikel 5:20 van de Algemene wet bestuursrecht of als bedoeld in artikel 115, eerste lid, van de wet niet nakomen: 100%;  
 
-f. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde bij of krachtens de [artikelen 10a](../../../../../../../wet/veewet/BWBR0001900/README.md), [35](../../../../../../../wet/veewet/BWBR0001900/README.md), [36](../../../../../../../wet/veewet/BWBR0001900/README.md) of [38, eerste of derde lid, van de Veewet](../../../../../../../wet/veewet/BWBR0001900/README.md) of de [artikelen 3](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [6](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [8](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [9](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [10](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [11](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [17](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [20,](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) [26, eerste lid](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [30](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [97 van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) niet naleven, voorzover de bepaling betrekking heeft op de dierziekte in verband waarmee de maatregel is toegepast of op de diersoort waarop de maatregel is toegepast: 35% per gebeurtenis;  
+f. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde bij of krachtens de artikelen 10a, 35, 36 of 38, eerste of derde lid, van de Veewet of de artikelen 3, 6, 8, 9, 10, 11, 17, 18, 20, 26, eerste lid, 30 of 97 van de wet niet naleven, voorzover de bepaling betrekking heeft op de dierziekte in verband waarmee de maatregel is toegepast of op de diersoort waarop de maatregel is toegepast: 35% per gebeurtenis;  
 
-g. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde bij of krachtens de [Destructiewet](../../../../../../../wet/destructiewet/BWBR0002244/README.md) niet naleven: 35% per gebeurtenis;  
+g. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde bij of krachtens de Destructiewet niet naleven: 35% per gebeurtenis;  
 
 h. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen door een bedrijfslichaam vastgestelde regels niet naleven die betrekking hebben op de preventieve gezondheidszorg bij het houden van dieren van de soort waarop de maatregel is toegepast: 35% per gebeurtenis;  
 
-i. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde bij of krachtens de [artikelen 4](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [96 van de wet](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) niet naleven, voorzover de bepaling betrekking heeft op de diersoort waarop de maatregel is toegepast: 15% bij één, twee, drie of vier gebeurtenissen of 35% bij vijf of meer gebeurtenissen;  
+i. indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde bij of krachtens de artikelen 4 of 96 van de wet niet naleven, voorzover de bepaling betrekking heeft op de diersoort waarop de maatregel is toegepast: 15% bij één, twee, drie of vier gebeurtenissen of 35% bij vijf of meer gebeurtenissen;  
 
 j. in afwijking van onderdeel f, indien de eigenaar of onder diens verantwoordelijkheid werkzame personen het bepaalde in de Regeling inzake hygiënevoorschriften besmettelijke dierziekten 2000 niet naleven, 15% bij één, twee, drie of vier gebeurtenissen of 35% bij vijf of meer gebeurtenissen.     
 2.  De verlaging wordt niet toegepast op de tegemoetkoming voorzover deze betrekking heeft op producten en voorwerpen.   

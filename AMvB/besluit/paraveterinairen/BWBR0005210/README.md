@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 25 september 1990, No. J. 9013239, Directie Juridische en Bedrijfsorganisatorische Zaken; 
 
-Gelet op de [artikelen 1, tweede lid](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), en[ 4 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (*Stb.* 214); 
+Gelet op de artikelen 1, tweede lid, en 4 van de Wet op de uitoefening van de diergeneeskunde 1990 (*Stb.* 214); 
 
 De Raad van State gehoord (advies van 14 januari 1991, No. W11.90.0479); 
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  wet: [Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (*Stb.* 214).  fysiotherapie bij dieren: een of meer van de volgende vormen van therapie bij dieren:  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  wet: Wet op de uitoefening van de diergeneeskunde 1990 (*Stb.* 214).  fysiotherapie bij dieren: een of meer van de volgende vormen van therapie bij dieren:  
 
 a. bewegingstherapie, als hoedanig wordt aangemerkt het uitvoeren van bewegingen op dieren;   
 
@@ -72,7 +72,7 @@ Met uitoefening van de diergeneeskunde wordt gelijkgesteld het als beroep winnen
 
 ### Artikel  6  
 
-Tot het als beroep verrichten van handelingen met betrekking tot het winnen en overzetten van embryo's of eicellen bij dieren en het bij runderen toepassen van epiduraalanesthesie in relatie tot dat winnen en overzetten laat Onze Minister toe degene die de krachtens de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificatie van embryotransplanteur of embryotransplanteur/-winner heeft behaald, dan wel de combinatie van deelkwalificaties die recht geeft op de desbetreffende kwalificatie.  
+Tot het als beroep verrichten van handelingen met betrekking tot het winnen en overzetten van embryo's of eicellen bij dieren en het bij runderen toepassen van epiduraalanesthesie in relatie tot dat winnen en overzetten laat Onze Minister toe degene die de krachtens de Wet educatie en beroepsonderwijs vastgestelde kwalificatie van embryotransplanteur of embryotransplanteur/-winner heeft behaald, dan wel de combinatie van deelkwalificaties die recht geeft op de desbetreffende kwalificatie.  
 
 ### Artikel  7  
 
@@ -92,12 +92,12 @@ b. de wijze waarop de dierenarts dient te worden geïnformeerd over de verrichte
 
 ### Artikel  9  
 
-1.  Tot het als beroep verrichten van diergeneeskundige handelingen als bedoeld in het tweede lid, laat Onze Minister toe degene die de krachtens de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificatie van dierenartsassistent paraveterinair heeft behaald, dan wel de combinatie van deelkwalificaties die recht geeft op de desbetreffende erkenning.   
+1.  Tot het als beroep verrichten van diergeneeskundige handelingen als bedoeld in het tweede lid, laat Onze Minister toe degene die de krachtens de Wet educatie en beroepsonderwijs vastgestelde kwalificatie van dierenartsassistent paraveterinair heeft behaald, dan wel de combinatie van deelkwalificaties die recht geeft op de desbetreffende erkenning.   
 2.   De handelingen, bedoeld in het eerste lid, zijn:  
 
 a. het onderzoeken van een dier, het toepassen van een behandeling, een operatie daaronder niet begrepen, bij een dier, één en ander voor zover zulks strekt ter voorkoming of genezing van een infectieziekte of een parasitaire ziekte bij een dier dan wel ter genezing, leniging, onderkenning of opheffing van een aandoening, ziekte of ziekteverschijnsel, in- of uitwendig letsel, pijn of gebrek bij dat dier;   
 
-b. het afnemen van bloed en het geven van injecties, andere dan met diergeneesmiddelen als bedoeld in [artikel 30, vierde lid, van de Diergeneesmiddelenwet](../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);   
+b. het afnemen van bloed en het geven van injecties, andere dan met diergeneesmiddelen als bedoeld in artikel 30, vierde lid, van de Diergeneesmiddelenwet;   
 
 c. het toepassen bij een dier van een algemene of plaatselijke verdoving;   
 
@@ -167,7 +167,7 @@ c. door de minister is geregistreerd als ingeschreven aan een door hem aangeweze
 
 ### Artikel  16  
 
-Dit besluit treedt in werking op hetzelfde tijdstip als waarop de [artikelen 1, tweede lid](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), en [4 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (*Stb.* 214) in werking treden.  
+Dit besluit treedt in werking op hetzelfde tijdstip als waarop de artikelen 1, tweede lid, en 4 van de Wet op de uitoefening van de diergeneeskunde 1990 (*Stb.* 214) in werking treden.  
 
 ### Artikel  17  
 

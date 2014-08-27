@@ -15,13 +15,13 @@ Overwegende dat bedoelde bezuiniging van f 100 miljoen in drie jaar dient te wor
 
 Overwegende dat de onderhavige aanwijzing uitsluitend betrekking kan hebben op kruisorganisaties, welke naar rato van de totale kosten behoren bij te dragen aan de taakstelling;
 
-Gelet op [artikel 14 van de wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md), (Stb. 1980, 646) laatstelijk gewijzigd bij Wet van 20 november 1991;
+Gelet op artikel 14 van de wet tarieven gezondheidszorg, (Stb. 1980, 646) laatstelijk gewijzigd bij Wet van 20 november 1991;
 
 Gehoord het Centraal orgaan tarieven gezondheidszorg (advies van 22 oktober 1992, kenmerk vdP/mvd/A/92/070 vastgesteld in de vergadering van 19 oktober 1992);
 
-Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 27 oktober 1992, kenmerk [VMP/O-922582](../../../../../../../../ministeriele-regeling/aanwijzingen/tarievenbeleid/en/tarievenbudgetbeleid/1993/(algemene/etc/BWBR0005711/README.md));
+Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 27 oktober 1992, kenmerk VMP/O-922582);
 Besluiten:      
-1.  Aan het Centraal orgaan tarieven gezondheidszorg wordt de in de bijlage bij dit besluit neergelegde aanwijzing als bedoeld in [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md), laatstelijk gewijzigd bij wet van 20 november 1991 (Stb. 1991, 584) gegeven betrekking hebbend op de kruisorganisaties.   
+1.  Aan het Centraal orgaan tarieven gezondheidszorg wordt de in de bijlage bij dit besluit neergelegde aanwijzing als bedoeld in artikel 14 van de Wet tarieven gezondheidszorg, laatstelijk gewijzigd bij wet van 20 november 1991 (Stb. 1991, 584) gegeven betrekking hebbend op de kruisorganisaties.   
 2.  Dit besluit met bijbehorende bijlage wordt in de Staatscourant geplaatst.      
 
 De 
@@ -32,9 +32,11 @@ De
 Minister van Economische Zaken, 
 J.E. Andriessen    
 
-####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
+####Aanwijzing op grond van artikel 14 van de Wet tarieven gezondheidszorg
 
-De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder nummer 20 van het Besluit werkingssfeer van de [Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992, als orgaan voor gezondheidszorg aangewezen instellingen (kruisorganisaties). 
+Materieel uitgewerkt per 01-10-2006 
+
+De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder nummer 20 van het Besluit werkingssfeer van de Wet tarieven gezondheidszorg 1992, als orgaan voor gezondheidszorg aangewezen instellingen (kruisorganisaties). 
 
 1 Het stelsel van budgettering, inclusief de bestaande aanpassingsmechanismen, wordt gehandhaafd en verder ontwikkeld.  
 

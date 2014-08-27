@@ -3,12 +3,12 @@
 ##Regeling aanwijzing toezichthoudende en opsporingsambtenaren WUD 1990
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 42, eerste en tweede lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (Stb. 214);
+Gelet op artikel 42, eerste en tweede lid, van de Wet op de uitoefening van de diergeneeskunde 1990 (Stb. 214);
 Besluit:    
 
 ### Artikel  1  
 
-Als ambtenaren, belast met het toezicht op de naleving van de [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (Stb. 214) en de daarop berustende bepalingen worden aangewezen: 
+Als ambtenaren, belast met het toezicht op de naleving van de Wet op de uitoefening van de diergeneeskunde 1990 (Stb. 214) en de daarop berustende bepalingen worden aangewezen: 
 
 a. de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij; 
 
@@ -16,11 +16,11 @@ b. de ambtenaren van de Voedsel en Waren Autoriteit van het Ministerie van Volks
 
 ### Artikel  2  
 
-Als ambtenaren, belast met de opsporing van bij de [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) strafbaar gestelde feiten worden aangewezen de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij. 
+Als ambtenaren, belast met de opsporing van bij de Wet op de uitoefening van de diergeneeskunde 1990 strafbaar gestelde feiten worden aangewezen de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van hetzelfde tijdstip als waarop [artikel 42 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) in werking treedt. 
+Deze regeling treedt in werking met ingang van hetzelfde tijdstip als waarop artikel 42 van de Wet op de uitoefening van de diergeneeskunde 1990 in werking treedt. 
 
 ### Artikel  4  
 

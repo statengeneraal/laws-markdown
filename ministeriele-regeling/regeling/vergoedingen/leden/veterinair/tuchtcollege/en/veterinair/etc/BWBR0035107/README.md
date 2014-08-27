@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken en de Minister van Veiligheid en Justitie van 8 mei 2014, nr. WJZ/14011655, houdende vergoedingen voor de leden van het veterinair tuchtcollege en het veterinair beroepscollege (Regeling vergoedingen leden veterinair tuchtcollege en veterinair beroepscollege)
 
 De Minister van Economische Zaken en de Minister van Veiligheid en Justitie,  
-Gelet op de [artikelen 25](../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en [26, vijfde lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);
+Gelet op de artikelen 25 en 26, vijfde lid, van de Wet op de uitoefening van de diergeneeskunde 1990;
 Besluit:    
 
 ### Artikel  1  
@@ -20,7 +20,7 @@ c. de klager niet-ontvankelijk wordt verklaard;
 
 d. de klacht kennelijk ongegrond wordt verklaard;  
 
-e. de zaak wordt afgehandeld na het intrekken van de klacht op grond van [artikel 29, vierde lid van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  
+e. de zaak wordt afgehandeld na het intrekken van de klacht op grond van artikel 29, vierde lid van de Wet op de uitoefening van de diergeneeskunde 1990;  
 
 f. een wrakingsverzoek wordt afgehandeld; of  
 
@@ -28,12 +28,12 @@ g. een verschoningsverzoek wordt afgehandeld.
 
 ### Artikel  2  
 
-1.  Aan de voorzitter van het veterinair tuchtcollege wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op 20% van het maximum van schaal 15 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+1.  Aan de voorzitter van het veterinair tuchtcollege wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op 20% van het maximum van schaal 15 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 2.  Aan de overige leden en hun plaatsvervangers van het veterinair tuchtcollege wordt een vergoeding per eindbeslissing toegekend van € 95.  
 
 ### Artikel  3  
 
-1.  Aan de voorzitter van het veterinair beroepscollege wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op 10% van het maximum van schaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+1.  Aan de voorzitter van het veterinair beroepscollege wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op 10% van het maximum van schaal 17 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 2.  Aan de overige leden en hun plaatsvervangers van het veterinair beroepscollege wordt een vergoeding per eindbeslissing toegekend van € 95.  
 
 ### Artikel  4  
@@ -50,11 +50,11 @@ g. een verschoningsverzoek wordt afgehandeld.
 
 ### Artikel  6  
 
-Aan de voorzitter, de overige leden en hun plaatsvervangers, de leden-beroepsgenoten en de plaatsvervangende leden-beroepsgenoten worden reis- en verblijfskosten toegekend op grond van het [Reisbesluit binnenland](../../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) op basis van declaratie achteraf. 
+Aan de voorzitter, de overige leden en hun plaatsvervangers, de leden-beroepsgenoten en de plaatsvervangende leden-beroepsgenoten worden reis- en verblijfskosten toegekend op grond van het Reisbesluit binnenland op basis van declaratie achteraf. 
 
 ### Artikel  7  
 
-De [Regeling vaststelling vergoedingen leden veterinaire tuchtcolleges, en aanwijzing ambtenaren artikelen 16 en 29 WUD 1990](../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/vergoedingen/leden/veterinaire/tuchtcolleges/en/etc/BWBR0025956/README.md) wordt ingetrokken.
+De Regeling vaststelling vergoedingen leden veterinaire tuchtcolleges, en aanwijzing ambtenaren artikelen 16 en 29 WUD 1990 wordt ingetrokken.
 
 ### Artikel  8  
 

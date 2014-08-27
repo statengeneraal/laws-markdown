@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn ziet enerzijds op dierenmishandeling, zoals omschreven in [art 36, lid 1 Gezondheids- en Welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), te weten het (doelloos) bij een dier veroorzaken van pijn of letsel dan wel het benadelen van de gezondheid of het welzijn van een dier (dat kan een eigen dier zijn of een dier in de vrije natuur). Het gaat daarbij in deze richtlijn om het zonder aanleiding mishandelen/verwaarlozen door particulieren, dus niet om het (structureel) niet nakomen van de dierenwelzijnsregels door bedrijven. Tevens bevat de richtlijn bepalingen voor de dierenverwaarlozing, zoals omschreven in [art 37 Gezondheids- en Welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), gericht op (particuliere) houders van dieren (waaronder begrepen hobbyfokkers), die aan hun dier(en) de nodige zorg onthouden. Op het beschadigen, onbruikbaar maken, wegmaken of doden van een dier, dat (geheel of ten dele) toebehoort aan een ander, zijn de basisdelicten beschadigen en doden van een dier onder de richtlijn vernieling 5.30 ([art. 350, lid 2 Sr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) van toepassing. Indien een dier tevens letsel is toegebracht of uiteindelijk is bezweken (al dan niet geëuthanaseerd), wordt dit als ernstiger beoordeeld dan het veroorzaken van pijn bij een dier. Bij het bepalen van het uitgangspunten is gedacht aan een dier in de ordegrootte van een kat/hond en, wat betekent dat afhankelijk van het dier een mogelijke verzwaring of vermindering van toepassing kan zijn.    
+Deze richtlijn ziet enerzijds op dierenmishandeling, zoals omschreven in art 36, lid 1 Gezondheids- en Welzijnswet voor dieren, te weten het (doelloos) bij een dier veroorzaken van pijn of letsel dan wel het benadelen van de gezondheid of het welzijn van een dier (dat kan een eigen dier zijn of een dier in de vrije natuur). Het gaat daarbij in deze richtlijn om het zonder aanleiding mishandelen/verwaarlozen door particulieren, dus niet om het (structureel) niet nakomen van de dierenwelzijnsregels door bedrijven. Tevens bevat de richtlijn bepalingen voor de dierenverwaarlozing, zoals omschreven in art 37 Gezondheids- en Welzijnswet voor dieren, gericht op (particuliere) houders van dieren (waaronder begrepen hobbyfokkers), die aan hun dier(en) de nodige zorg onthouden. Op het beschadigen, onbruikbaar maken, wegmaken of doden van een dier, dat (geheel of ten dele) toebehoort aan een ander, zijn de basisdelicten beschadigen en doden van een dier onder de richtlijn vernieling 5.30 (art. 350, lid 2 Sr) van toepassing. Indien een dier tevens letsel is toegebracht of uiteindelijk is bezweken (al dan niet geëuthanaseerd), wordt dit als ernstiger beoordeeld dan het veroorzaken van pijn bij een dier. Bij het bepalen van het uitgangspunten is gedacht aan een dier in de ordegrootte van een kat/hond en, wat betekent dat afhankelijk van het dier een mogelijke verzwaring of vermindering van toepassing kan zijn.    
 
 ####Aard van de richtlijn
 
@@ -12,17 +12,17 @@ Bijzondere wetten
 
 ####Basisdelicten
 
-− dierenmishandeling ([36, lid 1 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))  
+− dierenmishandeling (36, lid 1 GWD)  
 
-− dierenverwaarlozing ([37 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))      
+− dierenverwaarlozing (37 GWD)      
 
 ####Wettekst
 
-− [Gezondheids- en Welzijnswet voor dieren, art 36, lid 1](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)  
+− Gezondheids- en Welzijnswet voor dieren, art 36, lid 1  
 
-− [Gezondheids- en Welzijnswet voor dieren, art 37](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)      
+− Gezondheids- en Welzijnswet voor dieren, art 37      
 
-####Basisdelict dierenmishandeling ([36, lid 1 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)) 5.38.01
+####Basisdelict dierenmishandeling (36, lid 1 GWD) 5.38.01
 
 ####Beschrijving
 
@@ -106,7 +106,7 @@ Geen
 
 Geen     
 
-####Basisdelict dierenverwaarlozing ([37 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)) 5.38.02
+####Basisdelict dierenverwaarlozing (37 GWD) 5.38.02
 
 ####Beschrijving
 
@@ -214,15 +214,15 @@ Basisfactor
 
 ####Bijzonderheden
 
-Gezien de ernst van de gevolgen dient bij onherstelbaar letsel (verminking) of uiteindelijke dood (al dan niet door euthanasie) in beginsel een taakstraf te worden opgelegd/gevorderd, mits wordt voldaan aan de voorwaarden, genoemd in de [Aanwijzing Taakstraffen](../../../../../../../../../beleidsregel/aanwijzing/taakstraffen/BWBR0021490/README.md). Contra-indicaties voor een taakstraf zijn onder meer het weigeren van schadevergoeding.    
+Gezien de ernst van de gevolgen dient bij onherstelbaar letsel (verminking) of uiteindelijke dood (al dan niet door euthanasie) in beginsel een taakstraf te worden opgelegd/gevorderd, mits wordt voldaan aan de voorwaarden, genoemd in de Aanwijzing Taakstraffen. Contra-indicaties voor een taakstraf zijn onder meer het weigeren van schadevergoeding.    
 
 ####Zie basisdelicten
 
 – beschadigen dier  
 
-– dierenmishandeling ([36, lid 1 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))  
+– dierenmishandeling (36, lid 1 GWD)  
 
-– dierenverwaarlozing ([37 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))       
+– dierenverwaarlozing (37 GWD)       
 
 ####Aantal dieren 3.01.74
 
@@ -244,9 +244,9 @@ Geen
 
 ####Zie basisdelicten
 
-– dierenmishandeling ([36, lid 1 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))  
+– dierenmishandeling (36, lid 1 GWD)  
 
-– dierenverwaarlozing ([37 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))       
+– dierenverwaarlozing (37 GWD)       
 
 ####Toelichting: aan deze richtlijn is een nieuwe maatwerkfactor ‘Reclasseringsrapportage’ toegevoegd:
 
@@ -280,6 +280,6 @@ Geen Zie basisdelicten
 
 – doden dier  
 
-– dierenmishandeling ([36/1 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))  
+– dierenmishandeling (36/1 GWD)  
 
-– dierenverwaarlozing ([37 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md))        
+– dierenverwaarlozing (37 GWD)        

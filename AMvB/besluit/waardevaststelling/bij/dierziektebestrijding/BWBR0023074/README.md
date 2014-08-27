@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 9 juli 2007, no. TRCJZ/2007/2208, Directie Juridische Zaken;
 
-Gelet op de [artikelen 87a](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [87b van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op de artikelen 87a en 87b van de Gezondheids- en welzijnswet voor dieren;
 
 De Raad van State gehoord (advies van 25 juli 2007, nummer W11.07.0209/IV);
 
@@ -23,15 +23,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-– wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– wet: Gezondheids- en welzijnswet voor dieren;  
 
-– bestrijdingsmaatregel: maatregel als bedoeld in [artikel 22, eerste lid, onderdeel f of g, of tweede lid, onderdeel f of g, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– bestrijdingsmaatregel: maatregel als bedoeld in artikel 22, eerste lid, onderdeel f of g, of tweede lid, onderdeel f of g, van de wet;  
 
 – waardetabel: tabel waarin voor een bepaald dier of product, afhankelijk van gebruiksdoel, aanwending en leeftijd, waarden zijn opgenomen;  
 
-– waardevaststelling: waardevaststelling als bedoeld in [artikel 87 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– waardevaststelling: waardevaststelling als bedoeld in artikel 87 van de wet;  
 
-– deskundige: deskundige als bedoeld in [artikel 87a van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
+– deskundige: deskundige als bedoeld in artikel 87a van de wet.   
 
 ### Artikel  2  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -47,7 +47,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De vakbekwaamheidseisen, bedoeld in [artikel 87a, eerste lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), zijn per relevante diersoort de volgende: 
+De vakbekwaamheidseisen, bedoeld in artikel 87a, eerste lid, van de wet, zijn per relevante diersoort de volgende: 
 
 a. theoretische kennis over: 
 
@@ -76,9 +76,9 @@ c. een goede beheersing van de Nederlandse taal.
 ### Artikel  4  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Degene die een bij ministeriële regeling aangewezen kwalificatie, vastgesteld krachtens de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), heeft behaald of een aangewezen combinatie van deelkwalificaties heeft behaald die recht geeft op de desbetreffende kwalificatie, voldoet aan de vakbekwaamheidseisen, bedoeld in artikel 3, onderdeel a.   
+1.  Degene die een bij ministeriële regeling aangewezen kwalificatie, vastgesteld krachtens de Wet educatie en beroepsonderwijs, heeft behaald of een aangewezen combinatie van deelkwalificaties heeft behaald die recht geeft op de desbetreffende kwalificatie, voldoet aan de vakbekwaamheidseisen, bedoeld in artikel 3, onderdeel a.   
 2.  Een kwalificatie of een combinatie van deelkwalificaties wordt op grond van het eerste lid aangewezen indien zij deelkwalificaties omvatten die betrekking hebben op de onderwerpen, bedoeld in artikel 3, onderdeel a.   
-3.  Degene aan wie ten aanzien van zijn beroepswerkzaamheden als deskundige erkenning van beroepskwalificaties is verleend als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), voldoet aan de vakbekwaamheidseisen, bedoeld in artikel 3, onderdelen a en b.  
+3.  Degene aan wie ten aanzien van zijn beroepswerkzaamheden als deskundige erkenning van beroepskwalificaties is verleend als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties, voldoet aan de vakbekwaamheidseisen, bedoeld in artikel 3, onderdelen a en b.  
 
 ### §  3  
 
@@ -91,7 +91,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  De waardevaststelling op grond van de artikelen 6, 7, 8 en 9 geschiedt op basis van:  
 
-a. het op grond van [artikel 24 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) vastgestelde aantal aanwezige dieren dat op het moment waarop de verdenking is ontstaan ziek is door, of verdacht wordt van besmetting met de ziekte ter bestrijding waarvan de bestrijdingsmaatregel wordt toegepast;  
+a. het op grond van artikel 24 van de wet vastgestelde aantal aanwezige dieren dat op het moment waarop de verdenking is ontstaan ziek is door, of verdacht wordt van besmetting met de ziekte ter bestrijding waarvan de bestrijdingsmaatregel wordt toegepast;  
 
 b. de waarde die het dier, product of voorwerp had op het moment waarop aan de desbetreffende houder is medegedeeld dat ten aanzien van zijn dier, product of voorwerp een bestrijdingsmaatregel wordt of is toegepast; en  
 
@@ -122,7 +122,7 @@ b. de genetische eigenschappen van het dier;
 c. de uitzonderlijke conditie van het dier;  
 
 d. de bijzondere productiemethode van een product.    
-3.  De deskundige, bedoeld in het eerste lid, vermeldt op het formulier, bedoeld in [artikel 87c van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), zijn motivering om af te wijken.  
+3.  De deskundige, bedoeld in het eerste lid, vermeldt op het formulier, bedoeld in artikel 87c van de wet, zijn motivering om af te wijken.  
 
 ### Artikel  8  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -138,7 +138,7 @@ De waarde van een voorwerp is de vervangingswaarde.
 ### Artikel  10  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  In de vastgestelde waarde is, voor de eigenaar die de in [artikel 27 van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) opgenomen landbouwregeling toepast, begrepen de compensatie voor de niet door hem in aftrek te brengen omzetbelasting.   
+1.  In de vastgestelde waarde is, voor de eigenaar die de in artikel 27 van de Wet op de omzetbelasting 1968 opgenomen landbouwregeling toepast, begrepen de compensatie voor de niet door hem in aftrek te brengen omzetbelasting.   
 2.  Indien een eigenaar geen gebruik maakt van de in het eerste lid bedoelde landbouwregeling wordt de waarde verminderd met de omzetbelasting.  
 
 ### Artikel  11  
@@ -157,7 +157,7 @@ c. een andere deskundige, aangedragen door de eigenaar.
 ### Artikel  12  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De deskundige, of ingeval van herwaardering ieder van de deskundigen, vult het formulier, bedoeld in [artikel 87c, eerste lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in. 
+De deskundige, of ingeval van herwaardering ieder van de deskundigen, vult het formulier, bedoeld in artikel 87c, eerste lid, van de wet in. 
 
 ### Artikel  13  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -173,7 +173,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  14  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Het [Besluit verlaging tegemoetkoming aangewezen dierziekten](../../../../../../AMvB/besluit/verlaging/tegemoetkoming/aangewezen/dierziekten/BWBR0011707/README.md) wordt ingetrokken. 
+Het Besluit verlaging tegemoetkoming aangewezen dierziekten wordt ingetrokken. 
 
 ### Artikel  15  
 Treedt in werking op een nader te bepalen tijdstip 

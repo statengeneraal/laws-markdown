@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuurbeheer en Visserij,  
 Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport;
 
-Gelet op de artikel 16 van richtlijn nr. 92/40/EEG van de Raad van 19 mei 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van aviaire influenza, artikel 7 van richtlijn nr. 2001/82/EG van het Europees Parlement en de Raad van de Europese Unie van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG L 311), artikel 29, eerste lid, 30, vierde lid, en 45, [eerste en derde lid, van de Diergeneesmiddelenwet, artikel 30 van de Gezondheids- en Welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md);
+Gelet op de artikel 16 van richtlijn nr. 92/40/EEG van de Raad van 19 mei 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van aviaire influenza, artikel 7 van richtlijn nr. 2001/82/EG van het Europees Parlement en de Raad van de Europese Unie van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG L 311), artikel 29, eerste lid, 30, vierde lid, en 45, eerste en derde lid, van de Diergeneesmiddelenwet, artikel 30 van de Gezondheids- en Welzijnswet voor dieren en artikel 3 van het Besluit gebruik sera en entstoffen;
 Besluit:      
 ### § 1 
 
@@ -29,15 +29,15 @@ d.  *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ### Artikel  2  
 
-Ter voorkoming van AI kan een diergeneesmiddel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend. 
+Ter voorkoming van AI kan een diergeneesmiddel worden toegepast waarvoor bij artikel 3.12 van de Regeling diergeneesmiddelen een vrijstelling is verleend. 
 
 ### Artikel  3  
 
 Toepassing van het middel, bedoeld in artikel 2, geschiedt uitsluitend bij gevoelige vogels die worden gehouden in een dierentuin en voor zover aan een van de volgende voorwaarden is voldaan: 
 
-a. de exploitant van de dierentuin beschikt met betrekking tot die dierentuin over een vergunning als bedoeld in [artikel 4.2, eerste lid, van het Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), of  
+a. de exploitant van de dierentuin beschikt met betrekking tot die dierentuin over een vergunning als bedoeld in artikel 4.2, eerste lid, van het Besluit houders van dieren, of  
 
-b. de exploitant van de dierentuin heeft met betrekking tot die dierentuin uiterlijk op 17 november 2005 een aanvraag tot vergunning als bedoeld in [artikel 4.2, eerste lid, van het Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) ingediend.   
+b. de exploitant van de dierentuin heeft met betrekking tot die dierentuin uiterlijk op 17 november 2005 een aanvraag tot vergunning als bedoeld in artikel 4.2, eerste lid, van het Besluit houders van dieren ingediend.   
 
 ### Artikel  4  
 
@@ -91,7 +91,7 @@ De aanwezige voorraad van het middel wordt voor een door de minister nader te be
 
 ### Artikel  10  
 
-Van het verbod gesteld in [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt ontheffing verleend aan dierenartsen voor het enten van gevoelige vogels overeenkomstig deze regeling.  
+Van het verbod gesteld in artikel 3 van het Besluit gebruik sera en entstoffen wordt ontheffing verleend aan dierenartsen voor het enten van gevoelige vogels overeenkomstig deze regeling.  
 
 ### § 5  
 
@@ -110,7 +110,7 @@ Van het verbod gesteld in [artikel 3 van het Besluit gebruik sera en entstoffen]
 
 ### Artikel 11a 
 
-Deze regeling berust mede op [artikel 17 van de Gezondheids- en Welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 3.18 van het Besluit diergeneesmiddelen](../../../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md). 
+Deze regeling berust mede op artikel 17 van de Gezondheids- en Welzijnswet voor dieren en artikel 3.18 van het Besluit diergeneesmiddelen. 
 
 ### Artikel  12  
 

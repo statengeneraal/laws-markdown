@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 5 januari 1972, nr. 6416, hoofdafdeling Natuur- en Landschapsbescherming;
 
-Gelet op [artikel 3 van de Wet op de dierenbescherming](../../../../../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) (*Stb.* 1961, 19);
+Gelet op artikel 3 van de Wet op de dierenbescherming (*Stb.* 1961, 19);
 
 De Raad van State gehoord (advies van 9 februari 1972, nr. 15);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van het bij dit besluit bepaalde wordt verstaan onder "wet": [Wet op de dierenbescherming](../../../../../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md). 
+Voor de toepassing van het bij dit besluit bepaalde wordt verstaan onder "wet": Wet op de dierenbescherming. 
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ c. alle soorten reptielen, amfibieën en vissen die in Nederland niet in het wil
 
 ### Artikel  3  
 
-Ingevolge [artikel 3, tweede lid, van de wet](../../../../../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) wordt ontheffing verleend ten aanzien van:  
+Ingevolge artikel 3, tweede lid, van de wet wordt ontheffing verleend ten aanzien van:  
 
 a. inrichtingen, gehouden door of vanwege een publiekrechtelijk lichaam, waarin dieren van in artikel 2 aangewezen soorten om niet worden tentoongesteld of vertoond;  
 

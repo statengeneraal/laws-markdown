@@ -3,16 +3,18 @@
 ##Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2007, nr. MC-U-2808582, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake voorbereiding ziekenhuiszorg 2009
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+Gelet op artikel 7 van de Wet marktordening gezondheidszorg;
 
 Na schriftelijk mededeling gedaan te hebben aan beide Kamers der Staten-Generaal bij brief van 13 juni 2007 (Kamerstukken II, 2006/07, 29 248, nr. 37);
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2014 
 
 De Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, treft voorbereidingen ten behoeve van de wijziging van de bekostiging van zorg als bedoeld in de bijlage bij deze aanwijzing. De zorgautoriteit werkt ten behoeve van die wijziging en voor zover van toepassing het kader zoals geschetst in de bijlage uit. De zorgautoriteit werkt voor zover mogelijk de bekostigingsprincipes uit in beleidsregels binnen het kader zoals geschetst in de bijlage. De zorgautoriteit rapporteert en signaleert de minister over die onderwerpen waarover zij in de bijlage expliciet een rapportage of signalement wordt gevraagd. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2014 
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting en bijbehorende bijlage in de Staatscourant geplaatst. 
 
@@ -23,6 +25,8 @@ A. Klink
 ### Bijlage 
 
 ####bij aanwijzing voorbereidingen ziekenhuiszorg 2009
+
+Materieel uitgewerkt per 01-01-2014 
 
 Deze bijlage bevat het kader van de wijziging van curatieve medisch specialistische zorg. 
 
@@ -46,7 +50,7 @@ De bekostiging in het A1-segment geschiedt op basis van prestaties met vaste of 
 De bekostiging in het B1-segment betreft prestaties die zich lenen voor onderhandelbare tarieven. De bekostiging in B1-segment geschiedt op basis van prestaties die individueel in rekening kunnen worden gebracht met vrij onderhandelbare tarieven met in achtneming van de maatstaf. Met uitzondering van het uurtarief van de medisch specialisten, waarbij normtijden en uurtarief zijn vastgesteld. 
 ###B
 
-De bekostiging in het B-segment betreft prestaties die zich lenen voor onderhandelbare tarieven. De bekostiging in het B-segment geschiedt op basis van individueel declareerbare prestaties met vrije tarieven. Met uitzondering van het uurtarief van de medisch specialisten, waarbij normtijden en uurtarief zijn vastgesteld. Met uitzondering van het A0 segment onderhandelen instellingen en (individuele) zorgverzekeraars over de tarieven van de prestaties. De Nederlandse Mededingingsautoriteit ziet er op toe dat betrokken partijen de [mededingingswet](../../../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) naleven. De Nederlandse Zorgautoriteit schaft per 1 januari 2009 de budgetsystematiek af voor curatieve medisch specialistische zorg. 
+De bekostiging in het B-segment betreft prestaties die zich lenen voor onderhandelbare tarieven. De bekostiging in het B-segment geschiedt op basis van individueel declareerbare prestaties met vrije tarieven. Met uitzondering van het uurtarief van de medisch specialisten, waarbij normtijden en uurtarief zijn vastgesteld. Met uitzondering van het A0 segment onderhandelen instellingen en (individuele) zorgverzekeraars over de tarieven van de prestaties. De Nederlandse Mededingingsautoriteit ziet er op toe dat betrokken partijen de mededingingswet naleven. De Nederlandse Zorgautoriteit schaft per 1 januari 2009 de budgetsystematiek af voor curatieve medisch specialistische zorg. 
 
 #### *A0 segment* 
 

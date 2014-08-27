@@ -14,24 +14,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minister: Onze Minister van Economische Zaken; bedrijfslichaam: een produktschap of bedrijfschap bedoeld in [artikel 66 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  samenwerkingslichaam: rechtspersoonlijkheid bezittend lichaam als bedoeld in [artikel 110 Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); dier: dier dat wordt gehouden, voor zover niet uitdrukkelijk anders is bepaald en met dien verstande dat artikel 36 tevens van toepassing is op dieren die niet worden gehouden;  vee: herkauwende en eenhoevige dieren en varkens;  pluimvee: dieren zijnde hoenderachtigen, eenden of ganzen;  besmettelijke dierziekte: elke aantasting van de gezondheid van een dier die gevaar kan opleveren voor de gezondheid van andere dieren of van de mens;  smetstof: elk micro-organisme of virus dat, of elke andere biologische eenheid die, een infectieziekte en elke parasiet, die een parasitaire ziekte bij dieren kan veroorzaken;  schadelijke stoffen: stoffen die de gezondheid van mens of dier kunnen aantasten;  zieke dieren: dieren die zijn aangetast door een krachtens artikel 15, eerste lid, aangewezen dierziekte;  verdachte dieren: dieren die overeenkomstig artikel 15, vierde lid, verdacht worden gevaar op te leveren voor verspreiding van een krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekte;  produkten van dierlijke oorsprong: van dier afkomstige produkten al dan niet be- of verwerkt;  houder: eigenaar, houder of hoeder; Diergezondheidsfonds: fonds als bedoeld in artikel 95a.    
-2.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 93a en 96a bepaalde wordt verstaan onder bedrijf: bedrijf als bedoeld in [artikel 1, eerste lid, van de Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md).   
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minister: Onze Minister van Economische Zaken; bedrijfslichaam: een produktschap of bedrijfschap bedoeld in artikel 66 van de Wet op de Bedrijfsorganisatie;  samenwerkingslichaam: rechtspersoonlijkheid bezittend lichaam als bedoeld in artikel 110 Wet op de bedrijfsorganisatie; dier: dier dat wordt gehouden, voor zover niet uitdrukkelijk anders is bepaald en met dien verstande dat artikel 36 tevens van toepassing is op dieren die niet worden gehouden;  vee: herkauwende en eenhoevige dieren en varkens;  pluimvee: dieren zijnde hoenderachtigen, eenden of ganzen;  besmettelijke dierziekte: elke aantasting van de gezondheid van een dier die gevaar kan opleveren voor de gezondheid van andere dieren of van de mens;  smetstof: elk micro-organisme of virus dat, of elke andere biologische eenheid die, een infectieziekte en elke parasiet, die een parasitaire ziekte bij dieren kan veroorzaken;  schadelijke stoffen: stoffen die de gezondheid van mens of dier kunnen aantasten;  zieke dieren: dieren die zijn aangetast door een krachtens artikel 15, eerste lid, aangewezen dierziekte;  verdachte dieren: dieren die overeenkomstig artikel 15, vierde lid, verdacht worden gevaar op te leveren voor verspreiding van een krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekte;  produkten van dierlijke oorsprong: van dier afkomstige produkten al dan niet be- of verwerkt;  houder: eigenaar, houder of hoeder; Diergezondheidsfonds: fonds als bedoeld in artikel 95a.    
+2.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 93a en 96a bepaalde wordt verstaan onder bedrijf: bedrijf als bedoeld in artikel 1, eerste lid, van de Meststoffenwet.   
 3.  Voor de toepassing van artikel 91e wordt verstaan onder vestiging: op één plaats gelegen bedrijf of deel van een bedrijf, bestaande uit alle aldaar gelegen aangrenzende percelen grond, gebouwen of afgescheiden gedeelten daarvan dat, naar de feitelijke omstandigheden beoordeeld, als functionele eenheid voor het houden van varkens in gebruik is of daartoe bestemd is.    
 4.  Bij ministeriële regeling worden regels gesteld waaraan percelen grond, gebouwen of afgescheiden gedeelten daarvan moeten voldoen om als aangrenzend in de zin van het derde lid te worden aangemerkt.    
 5.   Bij algemene maatregel van bestuur kan worden bepaald dat het bepaalde bij of krachtens deze wet geheel of gedeeltelijk van toepassing is op handelingen met embryo’s voor zover deze zich buiten de baarmoeder van het dier bevinden.   
-
-### Artikel  2  
-
-1.  Er is een Raad voor dierenaangelegenheden waarin overleg plaatsvindt over vraagstukken betreffende het nationaal en internationaal beleid op het gebied van: 
-
-a. de gezondheid van dieren,  
-
-b. het welzijn van dieren en  
-
-c. de biotechnologische toepassingen bij dieren, de ethische aspecten daaronder begrepen.     
-2.   De Raad bestaat uit een Afdeling gezondheidsvraagstukken, een Afdeling welzijnsvraagstukken en een Afdeling biotechnologische vraagstukken, ethische vraagstukken daaronder begrepen.    
-3.   Onze Minister benoemt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport de leden van de Raad.    
-4.   Bij algemene maatregel van bestuur worden regelen gesteld ter zake van de samenstelling en de werkwijze van de Raad.   
 
 ### Hoofdstuk  II  
 
@@ -124,7 +111,7 @@ b. de eisen waaraan de vervoermiddelen en de verpakkingen moeten voldoen;
 
 c. het aanmelden van het voornemen om dieren, produkten of voorwerpen binnen te brengen;   
 
-d. het in overleg met Onze Minister van Financiën aanwijzen van douanekantoren in de zin van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), waar de dieren, produkten of voorwerpen, die anders dan over de Belgisch-Nederlandse of de Duits-Nederlandse grens worden binnengebracht, moeten worden aangebracht;   
+d. het in overleg met Onze Minister van Financiën aanwijzen van douanekantoren in de zin van de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, waar de dieren, produkten of voorwerpen, die anders dan over de Belgisch-Nederlandse of de Duits-Nederlandse grens worden binnengebracht, moeten worden aangebracht;   
 
 e. het aanwijzen van de plaatsen waar dieren, produkten of voorwerpen, die via de Belgisch-Nederlandse of de Duits-Nederlandse grens worden binnengebracht, ter onderzoek moeten worden aangeboden;   
 
@@ -342,7 +329,7 @@ Vervallen.
 
 ### Artikel  31  
 
-Indien in het belang van het weren, de preventie of de bestrijding van besmettelijke dierziekten naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan hij bepalen dat door hem krachtens dit hoofdstuk vastgestelde regelingen onmiddellijk na hun bekendmaking in werking treden. In dat geval kan hij zodanige regeling, in afwijking van [artikel 4 van de Bekendmakingswet](../../../../../../../wet/bekendmakingswet/BWBR0004287/README.md), op andere dan de daar genoemde wijze bekend maken.  
+Indien in het belang van het weren, de preventie of de bestrijding van besmettelijke dierziekten naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan hij bepalen dat door hem krachtens dit hoofdstuk vastgestelde regelingen onmiddellijk na hun bekendmaking in werking treden. In dat geval kan hij zodanige regeling, in afwijking van artikel 4 van de Bekendmakingswet, op andere dan de daar genoemde wijze bekend maken.  
 
 ### Artikel  31a  
 
@@ -361,7 +348,7 @@ b. tot het stellen van de regels, bedoeld in artikel 17 en 18, indien in het bel
 
 ### Artikel  32  
 
-Bij het stellen van regelen en het voorschrijven van maatregelen krachtens dit hoofdstuk kan worden afgeweken van het bepaalde bij of krachtens de [Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md) en de [Flora- en faunawet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).  
+Bij het stellen van regelen en het voorschrijven van maatregelen krachtens dit hoofdstuk kan worden afgeweken van het bepaalde bij of krachtens de Meststoffenwet en de Flora- en faunawet.  
 
 ### Hoofdstuk  III  
 
@@ -372,120 +359,30 @@ Bij het stellen van regelen en het voorschrijven van maatregelen krachtens dit h
 ####Algemene bepalingen 
 
 ### Artikel  33  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Het is verboden dieren te houden, tenzij deze behoren tot bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren.    
 2.   Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat het houden slechts onder bepaalde voorwaarden is toegestaan.   
 
-### Artikel  34  
-
-1.  Het is verboden dieren met het oog op de produktie van van die dieren afkomstige produkten te houden, tenzij deze behoren tot bij algemene maatregel van bestuur aangewezen soorten of categorieën daarvan.   
-
-### Artikel  35  
-
-1.  Bij algemene maatregel van bestuur worden regelen gesteld omtrent de wijze waarop dieren van bij die maatregel aangewezen soorten of categorieën van dieren mogen worden gehouden.    
-2.   De krachtens het eerste lid gestelde regelen kunnen onder meer betrekking hebben op:  
-
-a. het vastleggen of aangebonden houden van dieren;   
-
-b. het gescheiden houden van dieren van verschillende leeftijd, geslacht of soort;   
-
-c. de ruimte waarover dieren moeten kunnen beschikken.     
-
-### Artikel  36  
-
-1.  Het is verboden om zonder redelijk doel of met overschrijding van hetgeen ter bereiking van zodanig doel toelaatbaar is, bij een dier pijn of letsel te veroorzaken dan wel de gezondheid of het welzijn van een dier te benadelen.    
-2.   Tot de in het eerste lid verboden gedragingen worden in ieder geval gerekend:  
-
-a. een dier arbeid doen verrichten, welke kennelijk zijn krachten te boven gaat of waartoe het uit hoofde van zijn toestand ongeschikt is;   
-
-b. een koe met overvolle uier vervoeren of op een markt of openbare verkoping ten verkoop houden;   
-
-c. bij de verlossing van een koe gebruik te maken van dierlijke trekkracht of van een niet door Onze Minister daarvoor toegelaten krachttoestel;   
-
-d. een hond als trekkracht gebruiken.      
-3.   Een ieder is verplicht hulpbehoevende dieren de nodige zorg te verlenen.   
-
-### Artikel  37  
-
-Het is de houder van een dier verboden aan een dier de nodige verzorging te onthouden.  
-
 ### Artikel  38  
 
 Bij algemene maatregel van bestuur worden voor bij die maatregel aangewezen categorieën van houders van dieren van bij die maatregel aangewezen soorten of categorieën van dieren regelen gesteld omtrent de verzorging, voedering, drenking, behandeling en het africhten van dieren.  
-
-### Artikel  39  
-
-Het is verboden dieren van bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren van het ouderdier te scheiden voordat die dieren een bij die maatregel vastgestelde leeftijd hebben bereikt.  
 
 ### Afdeling  2  
 
 ####Lichamelijke ingrepen bij dieren 
 
-### Artikel  40  
-
-1.  Het is verboden een of meer lichamelijke ingrepen bij een dier te verrichten, waarbij een deel of delen van het lichaam wordt of worden verwijderd of beschadigd.    
-2.   Het bepaalde in het eerste lid is niet van toepassing op:  
-
-a. ingrepen betreffende het onvruchtbaar maken van een dier;   
-
-b. ingrepen waarvoor een diergeneeskundige noodzaak bestaat;   
-
-c. bij algemene maatregel van bestuur aangewezen ingrepen;   
-
-d. overige bij of krachtens enig wettelijk voorschrift verplichte dan wel toegestane ingrepen.      
-3.   Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de wijze waarop en de gevallen waarin de lichamelijke ingrepen, bedoeld in het tweede lid, onderdelen *c* en *d*, slechts mogen worden verricht.   
-
-### Artikel  41  
-
-1.  Het is verboden deel te nemen aan tentoonstellingen, keuringen of wedstrijden met dieren waarbij een bij artikel 40 verboden ingreep is verricht.    
-2.   Het is verboden dieren waarbij een bij artikel 40 verboden ingreep is verricht, tot een tentoonstelling, keuring of wedstrijd toe te laten.    
-3.   Het ten verkoop in voorraad hebben, ten verkoop aanbieden, verkopen en kopen van dieren waarbij een bij artikel 40 verboden ingreep is verricht, is verboden.   
-
-### Artikel  42  
-
-Bij algemene maatregel van bestuur worden regelen gesteld omtrent embryotransplantatie bij dieren van bij die maatregel aangewezen soorten of categorieën van dieren.  
+Vervallen per 01-07-2014 
 
 ### Afdeling  3  
 
 ####Het doden van dieren 
 
+Vervallen per 01-07-2014 
+
 ### Artikel  43  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Het is verboden om dieren te doden in andere dan bij algemene maatregel van bestuur aangewezen gevallen.  
-
-### Artikel  44  
-
-1.  Bij of krachtens algemene maatregel van bestuur worden regelen gesteld omtrent het doden van dieren van bij die maatregel aangewezen soorten of categorieën van dieren.    
-2.   De krachtens het eerste lid gestelde regelen hebben in ieder geval betrekking op:  
-
-- de wijze waarop, de situaties waarin en de personen door wie dieren mogen worden gedood;   
-
-- de bedwelming van slachtdieren;   
-
-- de bedrijfsuitrusting en installatie in slachterijen.      
-3.   Het slachten van dieren zonder voorafgaande bedwelming volgens de israëlitische of de islamitische ritus is toegestaan.    
-4.   Het slachten, bedoeld in het derde lid, mag slechts geschieden in door Onze Minister, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport aan te wijzen inrichtingen.    
-5.   Een aanwijzing als bedoeld in het vierde lid vindt plaats:  
-
-a. indien het betreft het slachten volgens de israëlitische ritus: op verzoek van de Permanente Commissie tot de Algemene Zaken van het Nederlands-Israëlitisch Kerkgenootschap;   
-
-b. indien het betreft het slachten volgens de islamitische ritus: op verzoek van één of meer organisaties die geacht kunnen worden alle of een bepaalde groep islamieten in Nederland te vertegenwoordigen;    een en ander voor zover uit het desbetreffende verzoek blijkt dat in het deel van het land dat vanuit de aan te wijzen inrichtingen pleegt te worden bediend behoefte bestaat aan vlees, afkomstig van volgens de desbetreffende ritus geslachte dieren.    
-6.   Een aanwijzing als bedoeld in het vierde lid vindt voorts plaats op verzoek van een israëlitische of islamitische groepering in een ander land, waarmee wordt ingestemd door de in het vijfde lid, onderdeel *a*, genoemde commissie, onderscheidenlijk de in onderdeel *b* bedoelde organisaties indien in het verzoek wordt aangetoond dat bij die israëlitische of islamitische groepering behoefte bestaat aan de import van vlees afkomstig van volgens de desbetreffende ritus geslachte dieren.    
-7.   Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport en in overleg met de aangewezen inrichting en  
-
-a. voor zover het betreft de behoefte aan vlees, afkomstig van volgens de israëlitische ritus geslachte dieren: in overleg met de Permanente Commissie tot de Algemene Zaken van het Nederlands-Israëlitisch Kerkgenootschap, of   
-
-b. voor zover het betreft de behoefte aan vlees, afkomstig van volgens de islamitische ritus geslachte dieren: in overleg met de in het vijfde lid, onderdeel *b*, bedoelde organisaties,    het aantal in een bepaald tijdvak per inrichting ritueel te slachten dieren vast, waarmede in de bedoelde behoefte aan vlees kan worden voorzien.    
-8.   Het slachten zonder voorafgaande bedwelming mag slechts geschieden:  
-
-a. voor zover het betreft het slachten volgens de israëlitische ritus: door personen die daartoe door het Opperrabbinaat voor Nederland zijn gemachtigd, en   
-
-b. voor zover het betreft het slachten volgens de islamitische ritus: door personen die daartoe door de in het vijfde lid, onderdeel *b*, bedoelde organisaties zijn aangewezen, mits die personen daarvan door een schriftelijk bewijs aan de keuringsdierenarts hebben doen blijken.    Deze personen voegen zich ten aanzien van het aantal door hen ritueel te slachten dieren naar de voor elke inrichting aangewezen hoeveelheid; zij volgen ter zake de aanwijzingen van de keuringsdierenarts op, die toeziet, dat het vastgestelde aantal niet wordt overschreden.    
-9.   Bij algemene maatregel van bestuur worden in het belang van de bescherming van het slachtdier regelen gesteld omtrent het slachten volgens de israëlitische of de islamitische ritus.    
-10.   Een voordracht voor een algemene maatregel van bestuur als bedoeld in het negende lid wordt Ons gedaan door Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport.   
 
 ### Afdeling  4  
 
@@ -513,7 +410,6 @@ b. voor zover het betreft het slachten volgens de islamitische ritus: door perso
 6.   Tenzij bij een maatregel als bedoeld in het eerste of derde lid of een regeling als bedoeld in het vierde lid anders wordt bepaald, is het bepaalde bij of krachtens de artikelen 46 tot en met 54 niet van toepassing in het geval voor de dieren van de aangewezen soort of categorie van dieren bij die maatregel of regeling, regelen zijn gesteld omtrent de huisvesting.   
 
 ### Artikel  46  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Het is verboden een seriematig vervaardigd huisvestingssysteem voor dieren van bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren, voorhanden te hebben, ten verkoop in voorraad te hebben, te verkopen, af te leveren of te gebruiken.    
@@ -521,7 +417,6 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 3.   Het verbod, bedoeld in het eerste lid, geldt eveneens niet ten aanzien van huisvestingssystemen die worden doorgevoerd of kennelijk bestemd zijn voor uitvoer.   
 
 ### Artikel  47  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Een huisvestingssysteem wordt slechts toegelaten indien op grond van de door de aanvrager overgelegde gegevens met redelijke zekerheid mag worden aangenomen dat het systeem geen schadelijke effecten heeft op het welzijn van dieren waarvoor het bestemd is, in een mate die niet aanvaardbaar is. Bij het bepalen van de mate van aanvaardbaarheid wordt mede rekening gehouden met de uit het betrokken huisvestingssysteem voortvloeiende gevolgen voor andere belangen dan het welzijn van dieren.    
@@ -554,14 +449,12 @@ d. in welke gevallen een aanvraag voor een toelating niet ontvankelijk wordt ver
 6.   Aan een toelating kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend.   
 
 ### Artikel  48  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Huisvestingssystemen waarvan kan worden aangetoond dat zij vóór de inwerkingtreding van een maatregel als bedoeld in artikel 46, eerste lid, voorhanden zijn, ten verkoop in voorraad zijn gehouden, zijn verkocht, zijn afgeleverd dan wel in gebruik zijn, zijn toegelaten voor een door Onze Minister vastgestelde termijn. Deze termijn kan verschillen naar gelang het huisvestingssysteem en naar gelang de in de eerste volzin genoemde handeling.    
 2.   Onze Minister stelt regelen omtrent de wijze waarop dient te worden aangetoond dat huisvestingssystemen vóór de inwerkingtreding van een maatregel als bedoeld in artikel 46, eerste lid, voorhanden zijn, ten verkoop in voorraad zijn gehouden, zijn verkocht, zijn afgeleverd dan wel in gebruik zijn.   
 
 ### Artikel  49  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Onze Minister kan een toelating intrekken, indien ter zake daarvan:  
@@ -574,31 +467,26 @@ c. een ander huisvestingssysteem is toegelaten dat uit een oogpunt van welzijn v
 2.   Onze Minister kan bepalen dat een huisvestingssysteem waarvan de toelating ingevolge het eerste lid is ingetrokken, nog gedurende een daarbij vast te stellen termijn voorhanden mag worden gehouden, ten verkoop in voorraad mag worden gehouden, mag worden verkocht, mag worden afgeleverd of mag worden gebruikt. Deze termijn kan verschillen naar gelang de in de eerste volzin genoemde handeling.   
 
 ### Artikel  50  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Er is een Commissie toelating huisvestingssystemen landbouwhuisdieren die is belast met de advisering van Onze Minister over de toelating van huisvestingssystemen en de intrekking daarvan.    
 2.   Bij algemene maatregel van bestuur worden regelen gesteld omtrent onder meer de samenstelling en de werkwijze van de commissie, bedoeld in het eerste lid. Deze regelen hebben mede betrekking op de zittingsduur, de schorsing en het ontslag van de leden van de commissie.   
 
 ### Artikel  51  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Van een toelating of intrekking daarvan wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  52  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld betreffende het voorhanden hebben, ten verkoop in voorraad hebben, verkopen, afleveren of gebruiken van huisvestingssystemen die kennelijk in een proefstadium verkeren. Daarbij kan worden afgeweken van het bepaalde bij of krachtens deze wet.    
 2.   Voor zover krachtens het eerste lid wordt bepaald dat proefnemingen slechts na daartoe gedane aanvraag kunnen worden toegestaan, kunnen de kosten voortvloeiende uit deze aanvraag ten laste van de aanvrager worden gebracht volgens door Onze Minister gestelde regelen.   
 
 ### Artikel  53  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld ter uitvoering van het bepaalde in de artikelen 46 tot en met 49.  
 
 ### Artikel  54  
-Treedt in werking per 01-07-2014 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Bij algemene maatregel van bestuur kan worden bepaald dat het bepaalde bij of krachtens de artikelen 46 tot en met 53 geheel of gedeeltelijk van overeenkomstige toepassing is voor bij die maatregel aangewezen seriematig vervaardigde onderdelen van dan wel aangewezen seriematig vervaardigde voorzieningen binnen huisvestingssystemen.  
 
@@ -626,96 +514,17 @@ c. het voorafgaand aan het fokken door de fokker te verrichten of te doen verric
 
 Bij algemene maatregel van bestuur worden regelen gesteld omtrent het bedrijfsmatig verkopen, ten verkoop in voorraad hebben, ten verkoop aanbieden, verhuren en afleveren van dieren van bij die maatregel aangewezen soorten of categorieën van dieren.  
 
-### Artikel  57  
-
-Het is verboden dieren als prijs, beloning of gift uit te loven of uit te reiken bij wedstrijden, verlotingen, weddenschappen of andere dergelijke evenementen.  
-
 ### Afdeling  7  
 
 ####Het vervoeren van dieren 
 
-### Artikel  58  
-
-1. In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
-
-a.EG-verordening: verordening van de Raad van de Europese Unie of van het Europees Parlement en de Raad van de Europese Unie gezamenlijk, die geheel of gedeeltelijk berust op de artikelen 37 of 95 van het Verdrag tot oprichting van de Europese Gemeenschap en waarin voorschriften zijn neergelegd inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten;
-
-b.EG-richtlijn: richtlijn van de Raad van de Europese Unie of het Europees Parlement en de Raad van de Europese Unie gezamenlijk, die geheel of gedeeltelijk berust op de artikelen 37 of 95 van het Verdrag tot oprichting van de Europese Gemeenschap en waarin voorschriften zijn neergelegd inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten;
-
-c.EG-beschikking: beschikking die gebaseerd is op een EG-verordening of een EG-richtlijn. 
-2. Voor de toepassing van deze afdeling en de daarop berustende bepalingen gelden de begripsomschrijvingen zoals die zijn neergelegd in EG-verordeningen. Daar waar deze begripsbepalingen afwijken van de in artikel 1 van deze wet opgenomen begripsbepalingen, gelden de begripsbepalingen zoals die zijn neergelegd in de EG-verordening. 
-
-### Artikel  59  
-
-Het is verboden te handelen in strijd met bij ministeriële regeling aan te wijzen voorschriften van EG-verordeningen. 
-
-###Artikel 59a 
-
-1. Bij ministeriële regeling kunnen regels worden gesteld voor een goede uitvoering van EG-verordeningen. 
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van EG-richtlijnen. 
-3. Bij ministeriële regeling kunnen regels worden gesteld ter implementatie van EG-beschikkingen. 
-4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van een overeenkomst betreffende de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten tussen de Europese Gemeenschap en een derde land of een internationale organisatie. 
-5. De regels bedoeld in het eerste tot en met vierde lid kunnen betrekking hebben op:
-
-a.het aanwijzen van een bevoegde autoriteit;
-
-b.het aanwijzen van officiële dierenartsen;
-
-c.het verlenen, schorsen en intrekken van certificaten, erkenningen, vergunningen en getuigschriften van vakbekwaamheid;
-
-d.het erkennen van examens;
-
-e.het uitvoeren van controles en inspecties die relevant zijn voor de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten;
-
-f.de vervoermiddelen die ten behoeve van het vervoeren van dieren worden gebruikt, alsmede hun uitrusting en inrichting;
-
-g.kooien, kisten, kratten, dozen en dergelijke voorwerpen die ten behoeve van het vervoer van dieren worden gebruikt en daartoe kennelijk bestemd zijn;
-
-h.de beladingsdichtheid van vervoermiddelen als bedoeld in onderdeel f;
-
-i.het in- en uitladen van dieren, of
-
-j.de duur en de afstand van vervoer.
-
-### Artikel 59b 
-
-1. Bij ministeriële regeling kunnen in aanvulling op de krachtens artikel 59a, eerste lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen die zijn geregeld in de EG-verordening, voor een goede uitvoering waarvan die regels zijn gesteld. 
-2. Bij of krachtens algemene maatregel van bestuur kunnen in aanvulling op de krachtens artikel 59a, tweede en vierde lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen waarop die regels betrekking hebben. 
-3. Bij ministeriële regeling kunnen in aanvulling op de krachtens artikel 59a, derde lid, gestelde regels, nadere voorschriften worden gesteld over de onderwerpen waarop die regels betrekking hebben. 
-4. De krachtens het eerste en tweede lid gestelde regels hebben slechts betrekking op ander vervoer dan vervoer dat geschiedt in de uitoefening van of ten behoeve van een beroep, onderneming of bedrijf, voor zover dat bij die regels is bepaald.
+Vervallen per 01-07-2014 
 
 ### Afdeling  8  
 
 ####Het gebruik van dieren bij wedstrijden 
 
-### Artikel  61  
-
-1.  Het is verboden om dierengevechten te organiseren of dieren aan dierengevechten te doen deelnemen.    
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
-4.   Dit lid is nog niet in werking getreden.   
-
-### Artikel  62  
-
-1.  Onze Minister kan substanties aanwijzen die het kunstmatig beïnvloeden van het prestatievermogen van dieren in wedstrijden tot gevolg kunnen hebben.    
-2.   Het is verboden een dier ingeschreven te hebben voor een wedstrijd of met een dier deel te nemen aan een wedstrijd, indien bij een onderzoek blijkt dat in het lichaam van dat dier een hoeveelheid van een of meer van de krachtens het eerste lid aangewezen substanties, bestanddelen daarvan of omzettingsprodukten aanwezig is, welke groter is dan een door Onze Minister vastgestelde hoogst toelaatbare hoeveelheid. Deze hoeveelheid kan op nul worden gesteld.    
-3.   In de krachtens het tweede lid vastgestelde hoeveelheid is mede begrepen de in voorkomend geval uit anderen hoofde in het lichaam van het dier aanwezige hoeveelheid van dezelfde substantie, bestanddeel daarvan of omzettingsprodukt.    
-4.   Onze Minister kan de aard en de wijze van uitvoering van het in het tweede lid bedoelde onderzoek voorschrijven.   
-
-### Artikel  63  
-
-1.  Het is verboden een of meer van de krachtens artikel 62, eerste lid, aangewezen substanties toe te passen op dieren die zijn ingeschreven voor een wedstrijd.    
-2.   Het in het eerste lid bedoelde verbod is niet van toepassing op dierenartsen die ten genoegen van de ambtenaren die door Onze Minister met het toezicht op de naleving van deze afdeling zijn belast, aantonen dat die dieren niet aan de wedstrijd zullen deelnemen.    
-3.   Het is verboden op wedstrijdterreinen of op nader door Onze Minister aangewezen plaatsen een of meer van de krachtens artikel 62, eerste lid, aangewezen substanties aanwezig te hebben.    
-4.   Het derde lid is niet van toepassing op dierenartsen die ten genoegen van de in het tweede lid bedoelde ambtenaren aantonen dat de substanties niet zijn of worden gebruikt bij dieren die nog moeten deelnemen aan de wedstrijd.   
-
-### Artikel  64  
-
-In het belang van een doelmatige handhaving van deze afdeling kan Onze Minister regelen stellen met betrekking tot de organisatie van wedstrijden en de inrichting van wedstrijdterreinen. Daarbij kan worden bepaald dat de organisatie van nader aan te wijzen wedstrijden slechts is toegestaan aan instellingen die:  
-
-a. in hun statuten hebben bepaald dat overtreding van het bepaalde in deze afdeling aan intern tuchtrecht is onderworpen, tenzij de officier van justitie beslist dat een overtreding strafrechtelijk zal worden afgedaan;   
-
-b. met betrekking tot de onder hun verantwoordelijkheid georganiseerde wedstrijden nader aan te wijzen werkzaamheden in het kader van het verlenen van bijstand aan het toezicht op de naleving van deze afdeling verrichten.    
+Vervallen per 01-07-2014 
 
 ### Afdeling  9  
 
@@ -729,87 +538,13 @@ Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent het hou
 
 ####Biotechnologie 
 
-### Artikel  66  
-
-1.  Het is zonder vergunning verboden:  
-
-a. het genetisch materiaal van dieren te wijzigen op een wijze die voorbij gaat aan de natuurlijke barrières van geslachtelijke voortplanting en van recombinatie;   
-
-b. biotechnologische technieken bij een dier of een embryo toe te passen.     
-2.   Op een aanvraag voor een vergunning als bedoeld in het eerste lid beslist Onze Minister, gehoord de Commissie biotechnologie bij dieren, bedoeld in artikel 69.    
-3.   Een vergunning als bedoeld in het eerste lid wordt slechts verleend indien naar het oordeel van Onze Minister:  
-
-a. de handelingen geen onaanvaardbare gevolgen hebben voor de gezondheid of het welzijn van dieren en   
-
-b. tegen de handelingen geen ethische bezwaren bestaan.      
-4.   In de vergunning wordt bepaald voor welke handelingen zij is bedoeld.    
-5.   Aan een vergunning kunnen voorschriften worden verbonden. Een vergunning kan onder beperkingen worden verleend.   
-
-### Artikel  67  
-
-1.  Bij een aanvraag voor een vergunning als bedoeld in artikel 66 dient in ieder geval te worden overgelegd:  
-
-a. een overzicht van de handelingen welke de aanvrager voornemens is te verrichten dan wel te laten verrichten;   
-
-b. een door of vanwege de aanvrager opgestelde rapportage ter zake van de effecten van de handelingen op dieren, waaronder begrepen de gezondheid en het welzijn van dieren.      
-2.   Onze Minister stelt regelen omtrent het indienen van een aanvraag en omtrent de behandeling daarvan. Daarbij kan onder meer worden bepaald:  
-
-a. welke gegevens en bescheiden moeten worden overgelegd alvorens een aanvraag in behandeling kan worden genomen;   
-
-b. dat een aanvraag eerst in behandeling wordt genomen nadat een daarvoor vastgesteld bedrag is voldaan;   
-
-c. welke kosten van het onderzoek, voortvloeiend uit een aanvraag, ten laste van de aanvrager worden gebracht;   
-
-d. in welke gevallen een aanvraag voor een vergunning niet ontvankelijk wordt verklaard.     
-
-### Artikel  68  
-
-1.  Het bepaalde in artikel 66, eerste lid, is niet van toepassing op bij algemene maatregel van bestuur aangewezen handelingen voor zover deze handelingen worden uitgevoerd overeenkomstig bij die maatregel gestelde regelen.    
-2.   Bij algemene maatregel van bestuur kan worden bepaald dat geen vergunning als bedoeld in artikel 66, eerste lid, wordt verleend voor bij die maatregel aangewezen handelingen met betrekking tot dieren van bij die maatregel aangewezen soorten of categorieën van dieren indien:  
-
-a. de handelingen onaanvaardbare gevolgen hebben voor de gezondheid of het welzijn van dieren of   
-
-b. tegen die handelingen ethische bezwaren bestaan.     
-
-### Artikel  69  
-
-1.  Er is een Commissie biotechnologie bij dieren die is belast met de advisering van Onze Minister over de verlening van vergunning als bedoeld in artikel 66 en de intrekking daarvan.    
-2.   Bij algemene maatregel van bestuur worden regelen gesteld omtrent onder meer de samenstelling en de werkwijze van de commissie, bedoeld in het eerste lid. Deze regelen hebben mede betrekking op de zittingsduur, de schorsing en het ontslag van de leden van de commissie.   
-
-### Artikel  70  
-
-Bij algemene maatregel van bestuur worden nadere regelen gesteld omtrent de procedure van voorbereiding van beslissingen omtrent de verlening, wijziging of intrekking van vergunningen als bedoeld in artikel 66.  
-
-### Artikel  71  
-
-Van een verlening van een vergunning als bedoeld in artikel 66 of de intrekking daarvan wordt mededeling gedaan in de *Staatscourant*.  
-
-### Artikel  72  
-
-Onze Minister kan in ieder geval een vergunning met onmiddellijke ingang schorsen, wijzigen dan wel intrekken indien:  
-
-a. de bij de aanvraag verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn, dat op de aanvraag een andere beslissing zou zijn genomen, indien bij de beoordeling daarvan de juiste gegevens bekend waren geweest;   
-
-b. na de verlening van de vergunning is gebleken van feiten en omstandigheden die, waren zij bekend op het moment van de verlening van de vergunning, aanleiding zouden zijn geweest om de aanvraag te wijzigen dan wel af te wijzen;   
-
-c. de vergunning in strijd met wettelijke voorschriften is verleend of   
-
-d. in strijd wordt gehandeld met de aan de vergunning verbonden voorschriften of met de beperkingen waaronder de vergunning is verleend.    
+Vervallen per 01-07-2014 
 
 ### Hoofdstuk  V  
 
 ####Regelen met betrekking tot agressieve dieren 
 
-### Artikel  73  
-
-1.  Het is verboden dieren, behorende tot door Onze Minister aangewezen soorten of categorieën van dieren te fokken, in Nederland te brengen, te koop aan te bieden of te verkopen.    
-2.   Het is verboden dieren behorende tot ingevolge het eerste lid aangewezen soorten of categorieën van dieren voorhanden te hebben.    
-3.   Ingevolge het eerste lid worden slechts aangewezen soorten of categorieën, waarvan de dieren een gevaar kunnen opleveren voor de veiligheid van mens of dier.   
-
-### Artikel  74  
-
-1.  De burgemeester van de gemeente waar een dier dat in strijd met het bepaalde in artikel 73 is gefokt of voorhanden wordt gehouden, zich bevindt, kan bepalen dat dat dier naar een nader door hem aangewezen plaats moet worden vervoerd en aldaar moet worden gedood.    
-2.   De burgemeester legt een maatregel als bedoeld in het eerste lid, voor zover het betreft het doden van het dier, niet ten uitvoer indien binnen zes weken, nadat de desbetreffende beschikking aan de houder van het dier is bekendgemaakt, de houder een verzoek als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) heeft ingediend en op dat verzoek niet afwijzend is beslist.   
+Vervallen per 01-07-2014 
 
 ### Hoofdstuk  VI  
 
@@ -1104,7 +839,7 @@ c. ten hoogste 50% van de door het Diergezondheidsfonds gemaakte kosten, bedoeld
 
 1.  Het tarief van de varkensheffing wordt verminderd met:  
 
-a. het aantal procentpunten dat overeenkomt met de uitkomst van de vermenigvuldiging van het aantal tot het bedrijf behorende vestigingen waarvan elke opstal of elk perceel grond op 1 januari van het desbetreffende kalenderjaar is gelegen buiten een concentratiegebied als bedoeld in [artikel 1, eerste lid, van de Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md) en de deling van het cijfer 15 door het totaal aantal vestigingen van het desbetreffende bedrijf;   
+a. het aantal procentpunten dat overeenkomt met de uitkomst van de vermenigvuldiging van het aantal tot het bedrijf behorende vestigingen waarvan elke opstal of elk perceel grond op 1 januari van het desbetreffende kalenderjaar is gelegen buiten een concentratiegebied als bedoeld in artikel 1, eerste lid, van de Meststoffenwet en de deling van het cijfer 15 door het totaal aantal vestigingen van het desbetreffende bedrijf;   
 
 b. 40 procentpunten indien in het desbetreffende kalenderjaar ten aanzien van elke tot het bedrijf behorende vestiging noch sprake is van aanvoer van varkens, noch sprake is van afvoer van varkens aan enige andere vestiging van dat bedrijf of van enig ander bedrijf;   
 
@@ -1187,32 +922,32 @@ b. ten hoogste 50% van het totaal van de door het Diergezondheidsfonds tot 1 jan
 c. ten hoogste 50% van het totaal van de door het Diergezondheidsfonds tot 1 januari van het kalenderjaar, voorafgaande aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, gemaakte kosten, bedoeld in artikel 92, tweede lid, voor zover die kosten meer bedragen dan de totale som van de varkensheffing, bestemd voor de bestrijding van de kosten, bedoeld in artikel 91a, tweede lid, de totale som van krachtens artikel 91h, eerste lid, ingevoerde heffingen, bestemd voor de bestrijding van de in artikel 91h, tweede lid, bedoelde kosten, alsmede de totale som van krachtens artikel 92, eerste lid, ingevoerde heffingen, bestemd voor de bestrijding van de in artikel 92, tweede lid bedoelde kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren.      
 4.  In geval van toepassing van artikel 92, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de desbetreffende heffing verhoogd met ingang van 1 januari van het in artikel 92, tweede lid, bedoelde kalenderjaar. De verhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, voor zover die kosten betrekking hebben op de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de desbetreffende heffing kan worden gewijzigd en rekening houdend met de over die periode geraamde som van de varkensheffing en krachtens artikel 91h, eerste lid, ingevoerde heffingen.   
 
-###Artikel 93 
+### Artikel  93  
 
-1. De heffing, bedoeld in artikel 91a, alsmede bij algemene maatregel van bestuur op grond van de artikelen 91h en 92 ingevoerde heffingen worden door Onze Minister geheven. 
-2. Onverminderd het overigens bij of krachtens deze afdeling bepaalde worden de in het eerste lid bedoelde heffingen geheven met overeenkomstige toepassing van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met dien verstande dat van die wet buiten toepassing blijven de artikelen 2, vierde lid, 37 tot en met 39, 47a, 53, tweede en derde lid, 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87. 
-3. Voor de toepassing van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) treedt Onze Minister in de plaats van Onze Minister van Financiën. Voor de in de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) genoemde functionarissen treden in de plaats de door Onze Minister aangewezen functionarissen. 
-4. Voor de toepassing van [artikel 18, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt met een onherroepelijke veroordeling gelijk gesteld het vervallen van het recht op strafvordering op de voet van de [artikelen 74](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74a van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
-5. Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde wordt [artikel 52, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) als volgt gelezen: Administratieplichtigen zijn: de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in artikel 91a, respectievelijk de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in de artikelen 91h en 92. 
-6. Voor de toepassing van [artikel 66 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn de bij regeling van Onze Minister van Financiën gestelde regels van toepassing. Door Onze Minister worden de afwijkingen daarop vastgesteld die voor de juiste toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde noodzakelijk zijn. 
+1.  De heffing, bedoeld in artikel 91a, alsmede bij algemene maatregel van bestuur op grond van de artikelen 91h en 92 ingevoerde heffingen worden door Onze Minister geheven.    
+2.  Onverminderd het overigens bij of krachtens deze afdeling bepaalde worden de in het eerste lid bedoelde heffingen geheven met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen, met dien verstande dat van die wet buiten toepassing blijven de artikelen 2, vierde lid, 37 tot en met 39, 47a, 53, tweede en derde lid, 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87.    
+3.  Voor de toepassing van de Algemene wet inzake rijksbelastingen treedt Onze Minister in de plaats van Onze Minister van Financiën. Voor de in de Algemene wet inzake rijksbelastingen genoemde functionarissen treden in de plaats de door Onze Minister aangewezen functionarissen.    
+4.  Voor de toepassing van artikel 18, derde lid, van de Algemene wet inzake rijksbelastingen wordt met een onherroepelijke veroordeling gelijk gesteld het vervallen van het recht op strafvordering op de voet van de artikelen 74 en 74a van het Wetboek van Strafrecht.    
+5.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde wordt artikel 52, tweede lid, van de Algemene wet inzake rijksbelastingen als volgt gelezen:  Administratieplichtigen zijn: de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in artikel 91a, respectievelijk de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in de artikelen 91h en 92.    
+6.  Voor de toepassing van artikel 66 van de Algemene wet inzake rijksbelastingen zijn de bij regeling van Onze Minister van Financiën gestelde regels van toepassing. Door Onze Minister worden de afwijkingen daarop vastgesteld die voor de juiste toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde noodzakelijk zijn.   
 
 ### Artikel  93a  
 
-1.  De heffing, bedoeld in artikel 91a, alsmede bij algemene maatregel van bestuur op grond van artikel 91h of artikel 92 ingevoerde heffingen, worden ingevorderd door de door Onze Minister aangewezen functionaris en door de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).    
-2.  Onverminderd het overigens bij of krachtens deze afdeling bepaalde worden de heffingen ingevorderd met overeenkomstige toepassing van de [Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md), met dien verstande dat van de [Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing blijven artikel 17, tweede lid, tweede volzin, alsmede de artikelen 59 en 62. Voorts blijven bij de toepassing van artikel 66 van die wet de [artikelen 76](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), tweede, derde en vierde lid, [82](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [87 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing.    
-3.  Behoudens voor zover de invordering is opgedragen aan de ontvanger, bedoeld in het eerste lid, treedt voor de toepassing van de [Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) Onze Minister in de plaats van Onze Minister van Financiën.    
+1.  De heffing, bedoeld in artikel 91a, alsmede bij algemene maatregel van bestuur op grond van artikel 91h of artikel 92 ingevoerde heffingen, worden ingevorderd door de door Onze Minister aangewezen functionaris en door de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990.    
+2.  Onverminderd het overigens bij of krachtens deze afdeling bepaalde worden de heffingen ingevorderd met overeenkomstige toepassing van de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen, met dien verstande dat van de Invorderingswet 1990 buiten toepassing blijven artikel 17, tweede lid, tweede volzin, alsmede de artikelen 59 en 62. Voorts blijven bij de toepassing van artikel 66 van die wet de artikelen 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87 van de Algemene wet inzake rijksbelastingen buiten toepassing.    
+3.  Behoudens voor zover de invordering is opgedragen aan de ontvanger, bedoeld in het eerste lid, treedt voor de toepassing van de Invorderingswet 1990 Onze Minister in de plaats van Onze Minister van Financiën.    
 4.  Met betrekking tot de invordering geldt dat:  
 
-a. voor de toepassing van [artikel 8, eerste lid, van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) uitsluitend bevoegd is de door Onze Minister aangewezen functionaris;   
+a. voor de toepassing van artikel 8, eerste lid, van de Invorderingswet 1990 uitsluitend bevoegd is de door Onze Minister aangewezen functionaris;   
 
-b. de in de [artikelen 10](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), eerste lid, [11](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [12](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [26 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde bevoegdheden uitsluitend toekomen aan de door Onze Minister aangewezen functionaris, met dien verstande dat voor de toepassing van [artikel 26 van die wet](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) de bij regeling van Onze Minister van Financiën gestelde regels van toepassing zijn;   
+b. de in de artikelen 10, eerste lid, 11, 12, en 26 van de Invorderingswet 1990 bedoelde bevoegdheden uitsluitend toekomen aan de door Onze Minister aangewezen functionaris, met dien verstande dat voor de toepassing van artikel 26 van die wet de bij regeling van Onze Minister van Financiën gestelde regels van toepassing zijn;   
 
-c. de overige bij invordering van toepassing zijnde bevoegdheden, met uitzondering van die bedoeld in de [artikelen 24](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [58 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), uitsluitend toekomen aan de ontvanger, bedoeld in het eerste lid;   
+c. de overige bij invordering van toepassing zijnde bevoegdheden, met uitzondering van die bedoeld in de artikelen 24, 25, en 58 van de Invorderingswet 1990, uitsluitend toekomen aan de ontvanger, bedoeld in het eerste lid;   
 
-d. de bevoegdheid, bedoeld in [artikel 24 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), zowel toekomt aan de door Onze Minister aangewezen functionaris als aan de ontvanger, bedoeld in het eerste lid;   
+d. de bevoegdheid, bedoeld in artikel 24 van de Invorderingswet 1990, zowel toekomt aan de door Onze Minister aangewezen functionaris als aan de ontvanger, bedoeld in het eerste lid;   
 
-e. de bevoegdheden, bedoeld in de [artikelen 25](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [58 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), toekomen aan de door Onze Minister aangewezen functionaris indien hij met de invordering is belast, en toekomen aan de ontvanger, bedoeld in het eerste lid, indien deze laatste met de invordering is belast.      
-5.  In het kader van het verzet tegen de tenuitvoerlegging van het dwangbevel wordt voor de toepassing van [artikel 17 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de ontvanger die het dwangbevel heeft uitgevaardigd» telkens gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.    
+e. de bevoegdheden, bedoeld in de artikelen 25 en 58 van de Invorderingswet 1990, toekomen aan de door Onze Minister aangewezen functionaris indien hij met de invordering is belast, en toekomen aan de ontvanger, bedoeld in het eerste lid, indien deze laatste met de invordering is belast.      
+5.  In het kader van het verzet tegen de tenuitvoerlegging van het dwangbevel wordt voor de toepassing van artikel 17 van de Invorderingswet 1990 voor «de ontvanger die het dwangbevel heeft uitgevaardigd» telkens gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.    
 6.  Na de betekening van het dwangbevel dient te worden betaald aan de ontvanger, bedoeld in het eerste lid, die is vermeld op het dwangbevel.   
 
 ### Artikel  94  
@@ -1225,11 +960,11 @@ b. een krachtens artikel 11 voorgeschreven nader onderzoek, voorbehoedende behan
 
 c. de controle, bedoeld in artikel 18, tweede lid;  
 
-d. de afgifte van een certificaat, erkenning of vergunning als bedoeld in artikel 59a, vijfde lid, onderdeel c;  
+d. vervallen;  
 
-e.een krachtens artikel 59a, vijfde lid, onderdeel e, uitgevoerde controle of inspectie;
+e.vervallen;
 
-f. een krachtens artikel 59a, vijfde lid, onderdeel f, voorgeschreven onderzoek naar vervoermiddelen;  
+f. vervallen;  
 
 g. een krachtens de artikelen 77 of 78 voorgeschreven onderzoek;  
 
@@ -1265,7 +1000,7 @@ De kosten die zijn verbonden aan het toezicht bij een wedstrijd op de naleving v
 ### Artikel  95a  
 
 1.  Er is een Diergezondheidsfonds, hierna te noemen: het fonds.    
-2.  Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).    
+2.  Het fonds is een begrotingsfonds als bedoeld in artikel 9, eerste lid, van de Comptabiliteitswet 2001.    
 3.  Onze Minister beheert de begroting van het fonds.   
 
 ### Artikel  95b  
@@ -1317,7 +1052,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen ten behoeve van de algeme
 
 ### Artikel  96a  
 
-Bij een algemene maatregel van bestuur als bedoeld in de artikelen 3, 35, 45 en 96 kan worden bepaald dat op een bedrijf waarnaar een varkensrecht als bedoeld in [artikel 1, eerste lid, van de Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md), of een gedeelte daarvan, is overgegaan, of op een bedrijf dat tezamen met het daarop rustende varkensrecht is overgedragen aan een andere persoon of rechtspersoon, vanaf het tijdstip van registratie van de kennisgeving van overgang overeenkomstig [hoofdstuk V, titel 4, van de Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md), onderscheidenlijk het tijdstip van de bedrijfsoverdracht, het bij of krachtens de maatregel geregelde overgangsrecht niet van toepassing is ten aanzien van de op dat tijdstip gestelde regels, voor zover deze betrekking hebben op varkens.
+Bij een algemene maatregel van bestuur als bedoeld in de artikelen 3, 35, 45 en 96 kan worden bepaald dat op een bedrijf waarnaar een varkensrecht als bedoeld in artikel 1, eerste lid, van de Meststoffenwet, of een gedeelte daarvan, is overgegaan, of op een bedrijf dat tezamen met het daarop rustende varkensrecht is overgedragen aan een andere persoon of rechtspersoon, vanaf het tijdstip van registratie van de kennisgeving van overgang overeenkomstig hoofdstuk V, titel 4, van de Meststoffenwet, onderscheidenlijk het tijdstip van de bedrijfsoverdracht, het bij of krachtens de maatregel geregelde overgangsrecht niet van toepassing is ten aanzien van de op dat tijdstip gestelde regels, voor zover deze betrekking hebben op varkens.
 
 ### Artikel  98  
 
@@ -1334,7 +1069,7 @@ Bij een algemene maatregel van bestuur als bedoeld in de artikelen 3, 35, 45 en 
 
 ### Artikel  99a  
 
-Indien naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de op grond de artikelen 80, 97, 98 of 99 gestelde regels onmiddellijk na hun bekendmaking in werking treden. In dat geval kan hij zodanige regels, in afwijking van [artikel 4 van de Bekendmakingswet](../../../../../../../wet/bekendmakingswet/BWBR0004287/README.md), op andere dan de daar genoemde wijze bekend maken. 
+Indien naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de op grond de artikelen 80, 97, 98 of 99 gestelde regels onmiddellijk na hun bekendmaking in werking treden. In dat geval kan hij zodanige regels, in afwijking van artikel 4 van de Bekendmakingswet, op andere dan de daar genoemde wijze bekend maken. 
 
 ### Artikel  100  
 
@@ -1391,7 +1126,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 ### Artikel  108a  
 
 1.  Bij toepassing van artikel 108, eerste en tweede lid, kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij die maatregel of regeling genoemde nadere regelen die door het bestuur van het betrokken bedrijfslichaam of samenwerkingslichaam krachtens artikel 108, eerste lid, bij verordening als bedoeld in artikel 108, tweede lid, zijn of worden gesteld, voorzover handelen in strijd met deze nadere regelen als overtreding strafbaar is gesteld.   
-2.  De [artikelen 1, onderdeel b](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [2](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [3 tot en met 6](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [15 tot en met 44, eerste lid](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) en [46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing, met dien verstande dat de in [artikel 46](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) genoemde instemming dient te worden verkregen van Onze Minister.   
+2.  De artikelen 1, onderdeel b, 2, 3 tot en met 6, 15 tot en met 44, eerste lid en 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 46 genoemde instemming dient te worden verkregen van Onze Minister.   
 3.  Onverminderd artikel 114, eerste lid, kan bij algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.  
 
 ### Artikel  110  
@@ -1410,7 +1145,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van kracht
 
 ### Artikel  111a  
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op: 
+Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op: 
 
 a. een aanvraag tot een vergunning als bedoeld in artikel 66;  
 
@@ -1420,7 +1155,7 @@ c. een aanvraag tot een vrijstelling of ontheffing als bedoeld in artikel 107, e
 
 ### Artikel  113  
 
-Deze wet treedt niet in hetgeen bij of krachtens de [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) (*Stb.* 1977, 67) is geregeld, met dien verstande dat onverminderd van kracht blijft hetgeen is of wordt bepaald bij of krachtens de artikelen 35, 38, 42, 45 tot en met 54, 55, 66 en 76.  
+Deze wet treedt niet in hetgeen bij of krachtens de Wet op de dierproeven (*Stb.* 1977, 67) is geregeld, met dien verstande dat onverminderd van kracht blijft hetgeen is of wordt bepaald bij of krachtens de artikelen 35, 38, 42, 45 tot en met 54, 55, 66 en 76.  
 
 ### Hoofdstuk  X  
 
@@ -1430,18 +1165,18 @@ Deze wet treedt niet in hetgeen bij of krachtens de [Wet op de dierproeven](../.
 
 1.  Onverminderd artikel 108a, derde lid, zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet de bij besluit van Onze Minister aangewezen ambtenaren belast.   
 2.  Onze Minister wijst ambtenaren aan die zijn belast met onderzoek naar de aanwezigheid van besmettelijke dierziekten.    
-3.  Met de opsporing van de bij artikel 121 strafbaar gestelde feiten zijn, onverminderd [artikel 141 Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de daartoe aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) voor zover deze feiten betrekking hebben op een bevel, vordering of handeling gedaan of ondernomen door henzelf.    
+3.  Met de opsporing van de bij artikel 121 strafbaar gestelde feiten zijn, onverminderd artikel 141 Wetboek van Strafvordering, belast de daartoe aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht voor zover deze feiten betrekking hebben op een bevel, vordering of handeling gedaan of ondernomen door henzelf.    
 4.  Van een besluit als bedoeld in dit artikel wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  115  
 
-1.  De [artikelen 5:13](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:15](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot en met [5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in artikel 114, tweede en derde lid, bedoelde ambtenaren.    
+1.  De artikelen 5:13 en 5:15 tot en met 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in artikel 114, tweede en derde lid, bedoelde ambtenaren.    
 2.  De in artikel 114 bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.   
 
 ### Artikel  118  
 
-1.  In het in [artikel 5:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde geval verpakken en verzegelen de in artikel 114 bedoelde ambtenaren het monster ter plaatse.    
-2.  In het in [artikel 5:18, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde geval laten de in artikel 114 bedoelde ambtenaren een tweede monster verpakt en verzegeld in het bezit van de belanghebbende.   
+1.  In het in artikel 5:18, eerste lid, van de Algemene wet bestuursrecht bedoelde geval verpakken en verzegelen de in artikel 114 bedoelde ambtenaren het monster ter plaatse.    
+2.  In het in artikel 5:18, tweede lid, van de Algemene wet bestuursrecht bedoelde geval laten de in artikel 114 bedoelde ambtenaren een tweede monster verpakt en verzegeld in het bezit van de belanghebbende.   
 
 ### Artikel  119  
 
@@ -1482,7 +1217,7 @@ Mandaat tot het opleggen van een bestuurlijke boete van meer dan € 340 wordt 
 ### Artikel  120g  
 
 1.  Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, wordt zij aan het openbaar ministerie voorgelegd.   
-2.  Indien ter zake van een overtreding aan de overtreder een bestuurlijke boete is opgelegd, dan wel een mededeling als bedoeld in [artikel 5.4.2.3, tweede lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is verzonden, heeft dit dezelfde rechtsgevolgen als een kennisgeving van niet verdere vervolging als bedoeld in [artikel 246, eerste lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+2.  Indien ter zake van een overtreding aan de overtreder een bestuurlijke boete is opgelegd, dan wel een mededeling als bedoeld in artikel 5.4.2.3, tweede lid, onderdeel a, van de Algemene wet bestuursrecht, is verzonden, heeft dit dezelfde rechtsgevolgen als een kennisgeving van niet verdere vervolging als bedoeld in artikel 246, eerste lid, van het Wetboek van Strafvordering.  
 
 ### Afdeling  2  
 
@@ -1490,7 +1225,7 @@ Mandaat tot het opleggen van een bestuurlijke boete van meer dan € 340 wordt 
 
 ### Artikel  120j  
 
-De bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap. 
+De bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap. 
 
 ### Afdeling  3  
 
@@ -1521,7 +1256,7 @@ Wijzigt deze wet.
 
 1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 36, eerste lid, 37, 40, 43, 61, eerste lid, en 73, tweede lid, worden gestraft met gevangenisstraf van ten hoogste drie jaren of een geldboete van de vierde categorie.  
 2.   Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 33 en 35, voorzover deze gedragingen plaatsvinden anders dan in de uitoefening van een bedrijf waarop voorschriften gesteld op grond van artikel 45 van toepassing zijn, 36, derde lid, 41, eerste en tweede lid, 59b, derde lid, 61, tweede en derde lid, 62, 63 en 64 worden gestraft met een hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie.    
-3.   Indien een strafbaar feit als omschreven in artikel 62, tweede lid, of artikel 63, eerste lid, wordt gepleegd in verband met een paardenren of harddraverij met betrekking tot welke een totalisator als bedoeld in [artikel 23, tweede lid, van de Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) (*Stb.* 1964, 483) is georganiseerd, worden de ingevolge het tweede lid geldende strafmaxima met een derde verhoogd.   
+3.   Indien een strafbaar feit als omschreven in artikel 62, tweede lid, of artikel 63, eerste lid, wordt gepleegd in verband met een paardenren of harddraverij met betrekking tot welke een totalisator als bedoeld in artikel 23, tweede lid, van de Wet op de kansspelen (*Stb.* 1964, 483) is georganiseerd, worden de ingevolge het tweede lid geldende strafmaxima met een derde verhoogd.   
 4.  Indien een der misdrijven omschreven in artikel 36, eerste lid, en 37 in de uitoefening van beroep of bedrijf zijn gepleegd, kan een geldboete worden opgelegd van de naast hogere categorie.
 
 ### Artikel  122a  
@@ -1530,7 +1265,7 @@ Onze Minister zendt binnen drie jaar na de inwerkingtreding van de artikelen 91a
 
 ### Artikel  123  
 
-In hetgeen bij of krachtens de [Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) (*Stb.* 312) is of wordt voorzien, wordt niet voorzien krachtens deze wet.  
+In hetgeen bij of krachtens de Visserijwet 1963 (*Stb.* 312) is of wordt voorzien, wordt niet voorzien krachtens deze wet.  
 
 ### Artikel  124  
 
@@ -1552,31 +1287,31 @@ a. de Paardenwet 1939 (Stb. 620);
 
 b. de Bijenwet 1947 (Stb. H 13);   
 
-c. de [Vogelziektenwet](../../../../../../../wet/vogelziektenwet/BWBR0002056/README.md) (Stb. 1949, J 585);  
+c. de Vogelziektenwet (Stb. 1949, J 585);  
 
-d. de [Runderhorzelwet](../../../../../../../wet/runderhorzelwet/BWBR0002109/README.md) (Stb. 1953, 189);  
+d. de Runderhorzelwet (Stb. 1953, 189);  
 
-e. de [Wet tot wering van besmettelijke ziekten bij knaagdieren](../../../../../../../wet/wet/tot/wering/van/besmettelijke/ziekten/bij/knaagdieren/BWBR0002115/README.md) (Stb. 1953, 416);  
+e. de Wet tot wering van besmettelijke ziekten bij knaagdieren (Stb. 1953, 416);  
 
-f. de [Nertsen-Ziektenwet](../../../../../../../wet/nertsen-ziektenwet/BWBR0002338/README.md) (Stb. 1960, 102);  
+f. de Nertsen-Ziektenwet (Stb. 1960, 102);  
 
 g. dit onderdeel is nog niet in werking getreden;  
 
 h. de Wet dierenvervoer (Stb. 1977, 338);   
 
-i. de [Wet houdende vaststelling van minimumeisen voor het houden van legkippen](../../../../../../../wet/wet/houdende/vaststelling/van/minimumeisen/voor/het/houden/van/legkippen/BWBR0003684/README.md) (Stb. 1984, 272).    
+i. de Wet houdende vaststelling van minimumeisen voor het houden van legkippen (Stb. 1984, 272).    
 
 ### Artikel  130  
 
 1.  Deze wet treedt in werking op een door Ons te bepalen tijdstip dat voor de verschillende artikelen of onderdelen van artikelen verschillend kan worden vastgesteld.    
 2.   Het gestelde in artikel 41 is niet van toepassing ten aanzien van dieren die geboren zijn voor de eerste dag van de maand volgend op de datum van inwerkingtreding van dat artikel.    
 3.   Ten aanzien van zaken betreffende overtredingen van ingevolge artikel 124 vervallen en ingevolge artikel 129 ingetrokken voorschriften die op het tijdstip van vervallen en intrekking bij de tot dat tijdstip bevoegde rechter aanhangig waren blijft deze rechter bevoegd. Ook in hoger beroep dat in de zaken bedoeld in de vorige volzin wordt ingesteld, blijft de rechter bevoegd die tot het daar bedoelde tijdstip bevoegd was van dat beroep kennis te nemen.    
-4.   De in het derde lid bedoelde zaken worden, onverminderd [artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), afgedaan volgens de tot het in het derde lid bedoelde tijdstip geldende regelen.   
+4.   De in het derde lid bedoelde zaken worden, onverminderd artikel 1, tweede lid, van het Wetboek van Strafrecht, afgedaan volgens de tot het in het derde lid bedoelde tijdstip geldende regelen.   
 
 ### Artikel  130a  
 
 1.  De verschillende artikelen van deze wet, of onderdelen daarvan, komen te vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden bepaald.   
-2.  Op het in het eerste lid bedoelde tijdstip vervallen in de [artikelen 1](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en [1a van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) de verwijzingen naar de betrokken artikelen of onderdelen. 
+2.  Op het in het eerste lid bedoelde tijdstip vervallen in de artikelen 1 en 1a van de Wet op de economische delicten de verwijzingen naar de betrokken artikelen of onderdelen. 
 
 ### Artikel  131  
 

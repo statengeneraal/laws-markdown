@@ -5,13 +5,13 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport,
 
-Gelet op de [artikelen 29, eerste lid](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), [30, vierde lid](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), en [45, eerste en derde lid, van de Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) en [artikel 7, derde lid, van de Wet op de uitoefening van de diergeneeskunde](../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);
+Gelet op de artikelen 29, eerste lid, 30, vierde lid, en 45, eerste en derde lid, van de Diergeneesmiddelenwet en artikel 7, derde lid, van de Wet op de uitoefening van de diergeneeskunde;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Voor de verdoving van biggen kan een gasmengsel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend.   
-2.  Deze regeling berust mede op [artikel 3.16 van het Besluit diergeneesmiddelen](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
+1.  Voor de verdoving van biggen kan een gasmengsel worden toegepast waarvoor bij artikel 3.12 van de Regeling diergeneesmiddelen een vrijstelling is verleend.   
+2.  Deze regeling berust mede op artikel 3.16 van het Besluit diergeneesmiddelen.  
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ Degene die het gasverdovingsapparaat, bedoeld in artikel 4, bedient, heeft zich 
 
 ### Artikel  6  
 
-De eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen bedoeld in [artikel 1.1 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md). 
+De eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen bedoeld in artikel 1.1 van de Regeling diergeneesmiddelen. 
 
 ### Artikel  7  
 

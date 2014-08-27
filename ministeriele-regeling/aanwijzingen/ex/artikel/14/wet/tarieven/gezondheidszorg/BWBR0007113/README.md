@@ -3,7 +3,7 @@
 ##Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake budgetkorting 1995 bij ziekenhuizen
 
 De Minister van Volksgezondheid, Welzijn en Sport, en de Minister van Economische Zaken, en de Minister van Onderwijs, Cultuur en Wetenschappen,   
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md);
+Gelet op artikel 14 van de Wet tarieven gezondheidszorg;
 
 Gehoord het Centraal orgaan tarieven gezondheidszorg (advies van 25 november 1994, kenmerk Ba/th/V/94/367, vastgesteld in de vergadering van 21 november 1994);
 
@@ -11,22 +11,26 @@ Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der S
 Besluiten:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-10-2006 
 
-Het Centraal orgaan tarieven gezondheidszorg (verder te noemen: Cotg) wijzigt voor de prestaties van instellingen, die in artikel 1, onder A, onder de nummers 1, 3, 4, 6, 8, 9, 20 en 31 en in artikel 2b van het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 als organen voor gezondheidszorg zijn aangewezen, de richtlijnen zodanig dat vanaf 1 januari 1995 de richtlijnen, die door het Cotg zijn vastgesteld ter uitvoering van de aanwijzing van 11 november 1993 (brief [VMP/O, 933223](../../../../../../../../../ministeriele-regeling/aanwijzing/ex/artikel/14/wet/tarieven/gezondheidszorg/inzake/het/etc/BWBR0006247/README.md)) voor zover het betreft Artikel 1, sub 1, onderdeel ‘incidentele verlaging van f 104 mln’, worden omgezet in richtlijnen, die bewerkstelligen dat genoemde verlaging een structureel karakter krijgt. 
+Het Centraal orgaan tarieven gezondheidszorg (verder te noemen: Cotg) wijzigt voor de prestaties van instellingen, die in artikel 1, onder A, onder de nummers 1, 3, 4, 6, 8, 9, 20 en 31 en in artikel 2b van het Besluit werkingssfeer Wet tarieven gezondheidszorg 1992 als organen voor gezondheidszorg zijn aangewezen, de richtlijnen zodanig dat vanaf 1 januari 1995 de richtlijnen, die door het Cotg zijn vastgesteld ter uitvoering van de aanwijzing van 11 november 1993 (brief VMP/O, 933223) voor zover het betreft Artikel 1, sub 1, onderdeel ‘incidentele verlaging van f 104 mln’, worden omgezet in richtlijnen, die bewerkstelligen dat genoemde verlaging een structureel karakter krijgt. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-10-2006 
 
-Het Cotg zal voor de prestaties van instellingen, die in artikel 1, onder A, onder nummer 2 in het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 als organen voor gezondheidszorg zijn aangewezen, 
+Het Cotg zal voor de prestaties van instellingen, die in artikel 1, onder A, onder nummer 2 in het Besluit werkingssfeer Wet tarieven gezondheidszorg 1992 als organen voor gezondheidszorg zijn aangewezen, 
 
-de richtlijnen zodanig wijzigen dat vanaf 1 januari 1995 de richtlijnen, die door het Cotg zijn vastgesteld ter uitvoering van de aanwijzing van 11 november 1993 (brief [VMP/O, 933223](../../../../../../../../../ministeriele-regeling/aanwijzing/ex/artikel/14/wet/tarieven/gezondheidszorg/inzake/het/etc/BWBR0006247/README.md)) voor zover het betreft Artikel 1, sub 2, onderdeel ‘incidentele verlaging van f 21 mln’, worden omgezet in richtlijnen, die bewerkstelligen dat genoemde verlaging een structureel karakter krijgt.  
+de richtlijnen zodanig wijzigen dat vanaf 1 januari 1995 de richtlijnen, die door het Cotg zijn vastgesteld ter uitvoering van de aanwijzing van 11 november 1993 (brief VMP/O, 933223) voor zover het betreft Artikel 1, sub 2, onderdeel ‘incidentele verlaging van f 21 mln’, worden omgezet in richtlijnen, die bewerkstelligen dat genoemde verlaging een structureel karakter krijgt.  
 
 een richtlijn vaststellen zodanig, dat daarenboven een incidentele verlaging van f 8, 6 mln ten opzichte van de aanvaardbare kosten 1994 wordt gerealiseerd (exclusief definitieve loon- en prijsbijstellingen).   
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-10-2006 
 
 In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt bepaald dat het Cotg bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-10-2006 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

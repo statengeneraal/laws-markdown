@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 6 mei 1991, No. J. 915604, Directie Juridische en Bedrijfsorganisatorische Zaken; 
 
-Gelet op [artikel 1, vierde lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (*Stb.* 214); 
+Gelet op artikel 1, vierde lid, van de Wet op de uitoefening van de diergeneeskunde 1990 (*Stb.* 214); 
 
 De Raad van State gehoord (advies van 4 juni 1991, No. W11.91.0249); 
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als handelingen bedoeld in [artikel 1, vierde lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) (*Stb.* 214), worden aangewezen:  
+Als handelingen bedoeld in artikel 1, vierde lid, van de Wet op de uitoefening van de diergeneeskunde 1990 (*Stb.* 214), worden aangewezen:  
 
 a. het leewieken van kuikens van kippen, kalkoenen en ganzen tot de leeftijd van twee dagen;   
 

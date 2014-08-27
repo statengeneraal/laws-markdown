@@ -3,7 +3,7 @@
 ##Aanwijzing inzake inkoopkorting zorginstellingen vanaf 2000 
 
 De Minister van Volksgezondheid, Welzijn en Sport en de Minister van Economische Zaken, en de Minister van Onderwijs, Cultuur en Wetenschappen;  
-Gelet op [artikel 14, eerste lid, van de Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md);
+Gelet op artikel 14, eerste lid, van de Wet tarieven gezondheidszorg;
 
 Gehoord het Centraal orgaan tarieven gezondheidszorg, (brief van 26 oktober 1999, kenmerk Ho/at/A/99/133), vastgesteld in de vergadering van 18 oktober 1999;
 
@@ -11,8 +11,9 @@ Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der St
 Besluiten:     
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-10-2006 
 
-Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt voor prestaties van instellingen, die in artikel 1, onderdeel A, onder 1 (ziekenhuizen), 2 (academische ziekenhuizen), 10 (psychiatrische ziekenhuizen), 12 (verpleeghuizen), 13 (zwakzinnigeninrichtingen), 14 (instellingen voor zintuiglijk gehandicapten), 15 (Het Dorp), 23 (regionale instellingen voor ambulante geestelijke gezondheidszorg), 28 (regionale instellingen voor beschermd wonen), onderdeel C, onder 1 (dagverblijven voor gehandicapten), 2 (gezinsvervangende tehuizen voor gehandicapten), 4 (instellingen voor zover de werkzaamheden daarvan zijn gericht op sociaal-pedagogische zorg), van het [Besluit werkingssfeer WTG 1992](../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md) als organen voor gezondheidszorg zijn aangewezen de beleidsregels materiële kosten vast met inachtneming van de hierna vermelde neerwaartse bijstellingen voor de onderscheiden sectoren. Ten opzichte van 1999 zijn de mutaties als volgt (mln gld): 
+Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt voor prestaties van instellingen, die in artikel 1, onderdeel A, onder 1 (ziekenhuizen), 2 (academische ziekenhuizen), 10 (psychiatrische ziekenhuizen), 12 (verpleeghuizen), 13 (zwakzinnigeninrichtingen), 14 (instellingen voor zintuiglijk gehandicapten), 15 (Het Dorp), 23 (regionale instellingen voor ambulante geestelijke gezondheidszorg), 28 (regionale instellingen voor beschermd wonen), onderdeel C, onder 1 (dagverblijven voor gehandicapten), 2 (gezinsvervangende tehuizen voor gehandicapten), 4 (instellingen voor zover de werkzaamheden daarvan zijn gericht op sociaal-pedagogische zorg), van het Besluit werkingssfeer WTG 1992 als organen voor gezondheidszorg zijn aangewezen de beleidsregels materiële kosten vast met inachtneming van de hierna vermelde neerwaartse bijstellingen voor de onderscheiden sectoren. Ten opzichte van 1999 zijn de mutaties als volgt (mln gld): 
 
 | --- | --- | --- | --- |
 |---|---|---|---|
@@ -40,10 +41,12 @@ Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt voor prestaties van in
 |– ziekenhuizen voor zover het betreft de PAAZ’en | --- | --- | --- |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-10-2006 
 
 In de bedoelde beleidsregels ter uitvoering van onderhavige aanwijzing wordt bepaald dat het Cotg bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-10-2006 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

@@ -3,7 +3,7 @@
 ##Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake prijsbijstelling materiële kosten van organen voor de gezondheidszorg
 
 De Minister van Volksgezondheid, Welzijn en Sport, de Minister van Economische Zaken en de Minister van Onderwijs, Cultuur en Wetenschappen,  
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md);
+Gelet op artikel 14 van de Wet tarieven gezondheidszorg;
 
 Gehoord het Centraal orgaan tarieven gezondheidszorg, (brief van 22 oktober 1997, kenmerk BA/tbk/A/97/118, vastgesteld in de vergadering van 20 oktober 1997);
 
@@ -11,8 +11,9 @@ Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der St
 Besluiten:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-10-2006 
 
-Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt met het oog op de jaarlijkse aanpassing van de materiële component in de budgetten en de kostenbestanddelen in de tarieven (exclusief de loonkosten) in verband met de prijsontwikkeling, nieuwe richtlijnen vast ten behoeve van organen voor gezondheidszorg aangewezen in het [Besluit werkingssfeer WTG 1992](../../../../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md) met in achtneming van het volgende: 
+Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt met het oog op de jaarlijkse aanpassing van de materiële component in de budgetten en de kostenbestanddelen in de tarieven (exclusief de loonkosten) in verband met de prijsontwikkeling, nieuwe richtlijnen vast ten behoeve van organen voor gezondheidszorg aangewezen in het Besluit werkingssfeer WTG 1992 met in achtneming van het volgende: 
 
 a  de prijsbijstelling particuliere consumptie voor het jaar t wordt bepaald door de particuliere consumptie jaar t in prijzen jaar t te delen door de particuliere consumptie jaar t in prijzen jaar t-1 zoals gepubliceerd in het Centraal Economisch Plan (CEP) t, in de tabel ’middelen en bestedingen’ jaar t,
 
@@ -27,10 +28,12 @@ een eventueel verschil tussen de prijsbijstelling particuliere consumptie jaar t
 c  de verwerking van eventuele verschillen tussen de prijsbijstelling particuliere consumptie jaar t zoals bepaald op grond van het CEP t+1 en de prijsbijstelling particuliere concumptie zoals bepaald op grond van het CEP t+2 en volgende jaren blijft achterwege. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-10-2006 
 
 De in artikel 1 bedoelde richtlijnen treden in werking met ingang van 1 januari 1998. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-10-2006 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

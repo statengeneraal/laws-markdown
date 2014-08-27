@@ -15,13 +15,13 @@ Voorts overwegende dat het kabinet, daarbij gesteund door het parlement, heeft b
 
 Overwegende dat de taakstelling 1992 geheel aan de academische ziekenhuizen is opgelegd, en dat de taakstelling 1993 geheel bij de algemene topziekenhuizen dient te worden gelegd;
 
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md), (Stb. 1980, 646) laatstelijk gewijzigd bij wet van 20 november 1991;
+Gelet op artikel 14 van de Wet tarieven gezondheidszorg, (Stb. 1980, 646) laatstelijk gewijzigd bij wet van 20 november 1991;
 
 Gehoord het Centraal orgaan tarieven gezondheidszorg (brief van 22 oktober 1992, kenmerk Ho/mvd/A/069, vastgesteld in de vergadering van 19 oktober 1992);
 
 Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 27 oktober 1992, kenmerk VMP/O-922582);
 Besluiten:      
-1.  Aan het Centraal orgaan tarieven gezondheidszorg worden de in de bijlagen bij dit besluit neergelegde aanwijzingen als bedoeld in [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md), laatstelijk gewijzigd bij wet van 20 november 1991 (Stb. 1991, 584) gegeven, betrekking hebbend op de algemene en de categorale, respectievelijk de academische ziekenhuizen.   
+1.  Aan het Centraal orgaan tarieven gezondheidszorg worden de in de bijlagen bij dit besluit neergelegde aanwijzingen als bedoeld in artikel 14 van de Wet tarieven gezondheidszorg, laatstelijk gewijzigd bij wet van 20 november 1991 (Stb. 1991, 584) gegeven, betrekking hebbend op de algemene en de categorale, respectievelijk de academische ziekenhuizen.   
 2.  Dit besluit met bijbehorende bijlagen wordt in de Staatscourant geplaatst.      
 
 De 
@@ -37,9 +37,11 @@ Minister van
 Onderwijs en Wetenschappen, 
 J.M.M. Ritzen     
 
-####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
+####Aanwijzing op grond van artikel 14 van de Wet tarieven gezondheidszorg
 
-De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder de nummers 1,3,4,6,8,9,20 en 31, en de in artikel 2b van het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 (Stb. 1991, 732) als orgaan voor gezondheidszorg aangewezen instellingen. 
+Materieel uitgewerkt per 01-10-2006 
+
+De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder de nummers 1,3,4,6,8,9,20 en 31, en de in artikel 2b van het Besluit werkingssfeer Wet tarieven gezondheidszorg 1992 (Stb. 1991, 732) als orgaan voor gezondheidszorg aangewezen instellingen. 
 
 1. Het stelsel van budgettering wordt gehandhaafd. 
 
@@ -49,9 +51,11 @@ De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder 
 
 4. In de richtlijnen ter uitvoering van onderhavige aanwijzing dient op basis van artikel 14, lid 1, wtg te worden opgenomen dat het Centraal orgaan tarieven gezondheidszorg de betreffende tarieven ambtshalve vaststelt. Bij deze vaststelling dient te worden vermeden dat het tarief te vaak wijziging ondergaat.  
 
-####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
+####Aanwijzing op grond van artikel 14 van de Wet tarieven gezondheidszorg
 
-De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder nummer 2 van het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 (Stb. 1991, 732) als orgaan voor gezondheidszorg aangewezen instellingen. 
+Materieel uitgewerkt per 01-10-2006 
+
+De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder nummer 2 van het Besluit werkingssfeer Wet tarieven gezondheidszorg 1992 (Stb. 1991, 732) als orgaan voor gezondheidszorg aangewezen instellingen. 
 
 1. Het stelsel van budgettering wordt gehandhaafd. 
 
