@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 2 april 2008, MEVA/BO-2839188;
 
-Gelet op de [artikelen 30](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) en [31 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);
+Gelet op de artikelen 30 en 31 van de Wet op de beroepen in de individuele gezondheidszorg;
 
 De Raad van State gehoord (advies van 8 mei 2008, no. W13.08.0119/I);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *wet* de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);  
+a.  *wet* de Wet op de beroepen in de individuele gezondheidszorg;  
 
-b.  *studiepunt* de in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde eenheid waarin de studielast wordt uitgedrukt;  
+b.  *studiepunt* de in artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bedoelde eenheid waarin de studielast wordt uitgedrukt;  
 
 c.  *EBM* Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk onderzoek op medisch, in het bijzonder verloskundig, gebied, die gebruikt worden ter onderbouwing van het verloskundige handelen.   
 
@@ -32,7 +32,7 @@ c.  *EBM* Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk o
 
 ### Artikel  2  
 
-Om in het krachtens [artikel 3 van de wet](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in het Centraal register opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en die voldoet aan de artikelen 3 en 4. 
+Om in het krachtens artikel 3 van de wet ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in het Centraal register opleidingen hoger onderwijs, genoemd in artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en die voldoet aan de artikelen 3 en 4. 
 
 ### §  3  
 
@@ -324,12 +324,12 @@ o. optreden bij acute shock of fluxus postpartum, waaronder wordt begrepen het i
 
 ### Artikel  6  
 
-1.  Degene aan wie op grond van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) een getuigschrift is uitgereikt, behoudt op basis van dit getuigschrift het recht op inschrijving in het krachtens [artikel 3 van de wet](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van verloskundigen.   
-2.  Onverminderd artikel 5 blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) volgen, de [artikelen 2 tot en met 10](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) en [12 tot en met 18 van dat Besluit](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) van kracht, met dien verstande dat in [artikel 13, tweede lid](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md), in plaats van richtlijn 80/155/EEG gelezen wordt richtlijn 2005/36/EG.  
+1.  Degene aan wie op grond van het Besluit opleidingseisen en deskundigheidsgebied verloskundige een getuigschrift is uitgereikt, behoudt op basis van dit getuigschrift het recht op inschrijving in het krachtens artikel 3 van de wet ingestelde register van verloskundigen.   
+2.  Onverminderd artikel 5 blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het Besluit opleidingseisen en deskundigheidsgebied verloskundige volgen, de artikelen 2 tot en met 10 en 12 tot en met 18 van dat Besluit van kracht, met dien verstande dat in artikel 13, tweede lid, in plaats van richtlijn 80/155/EEG gelezen wordt richtlijn 2005/36/EG.  
 
 ### Artikel  7  
 
-Het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) wordt ingetrokken. 
+Het Besluit opleidingseisen en deskundigheidsgebied verloskundige wordt ingetrokken. 
 
 ### Artikel  8  
 

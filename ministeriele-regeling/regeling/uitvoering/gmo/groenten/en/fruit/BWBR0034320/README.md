@@ -7,7 +7,7 @@ Gelet op artikelen 1 tot en met 3, 103 ter tot en met 103 octies, 122 tot en met
 
 Gelet op artikelen 19 tot en met 35, 50 tot en met 90, 96 tot en met 110, 113 tot en met 115, 117 tot en met 127 en 143 tot en met 148 Verordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PBEU L 157);
 
-Gelet op [artikelen 13, eerste lid, onderdeel b](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [15](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [19, eerste lid, onderdeel a, van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);
+Gelet op artikelen 13, eerste lid, onderdeel b, 15 en 19, eerste lid, onderdeel a, van de Landbouwwet;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -93,9 +93,13 @@ In deze regeling wordt verstaan onder:
 
 –  *forfaitair standaardtarief:* een vast of maximaal bedrag per eenheid dat wordt gebruikt om de te declareren bedragen vast te stellen;  
 
-–  *accountant:* een accountant die is ingeschreven in het accountantsregister, bedoeld in [artikel 36, eerste lid, van de Wet op het Accountantsberoep](../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountant:* een accountant die is ingeschreven in het accountantsregister, bedoeld in artikel 36, eerste lid, van de Wet op het Accountantsberoep;  
 
-–  *stadium af producentenorganisatie:* het moment waarop er een verkooptransactie plaatsvindt door of namens de producentenorganisatie met een derde partij of een minder dan 90 procent dochteronderneming.   
+–  *stadium af producentenorganisatie:* het moment waarop er een verkooptransactie plaatsvindt door of namens de producentenorganisatie met een derde partij of een minder dan 90 procent dochteronderneming;  
+
+–  *denatureren:* het ongeschikt maken voor menselijke consumptie;  
+
+–  *verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad.  
 
 ### Artikel  2  
 
@@ -139,7 +143,7 @@ Van een producentenorganisatie kunnen lid zijn:
 
 a. een natuurlijk persoon;  
 
-b. een rechtspersoon als bedoeld in [artikel 2:3 Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een rechtspersoon naar buitenlands recht, of  
+b. een rechtspersoon als bedoeld in artikel 2:3 Burgerlijk Wetboek of een rechtspersoon naar buitenlands recht, of  
 
 c. een in het Handelsregister van de Kamer van Koophandel ingeschreven maatschap, vennootschap onder firma of commanditaire vennootschap.   
 
@@ -3031,6 +3035,182 @@ f. reclame.
 1.  Uitgaven van de producentenorganisatie voor collectieve generieke promotie-uitingen op het gebied van crisis zijn subsidiabel.   
 2.  Bij de indiening van het operationeel programma legt de producentenorganisatie in het kader van de uitgaven, bedoeld in het eerste lid, een plan inhoudende de concrete invulling van de acties en begroting voor aan de minister.  
 
+### Paragraaf  2a  
+
+####Uitgaven ten behoeve van het uit de markt nemen van producten
+
+### Artikel  230a  
+
+1.  Uitgaven van de producentenorganisatie voor het uit de markt nemen van producten als bedoeld in artikel 33, derde lid, onderdeel f, van verordening 1308/2013 zijn subsidiabel.   
+2.  Als producten bedoeld in artikel 33, derde lid, onderdeel f, van verordening 1308/2013 worden aangewezen: 
+
+a. Tomaten met GN code 0702 00 00;  
+
+b. Wortels met GN code 0706 10 00;  
+
+c. Witte kool met GN code 0704 90 10;  
+
+d. Niet-scherpsmakende pepers (paprika’s) met GN code 0709 60 10;  
+
+e. Bloemkool met GN code 0704 10 00;  
+
+f. Komkommers met GN code 0707 00 05;  
+
+g. Augurken met GN code 0707 00 90;  
+
+h. Champignons Agaricus met GN code 0709 51 00;  
+
+i. Appelen met GN code 0808 10;  
+
+j. Peren met GN code 0808 30;  
+
+k. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;  
+
+l. Druiven voor tafelgebruik met GN code 0806 10 10, en  
+
+m. Kiwi’s met GN code 0810 50 00.     
+3.  Als certificaat als bedoeld in artikel 78, eerste lid, van verordening 543/2011 wordt aangemerkt een verklaring van een producentenorganisatie waarin staat dat de uit de markt genomen producten voldoen aan de in artikel 76 van verordening 543/2011 bedoelde handelsnormen of minimumeisen.   
+4.  Als toegestane bestemmingen bedoeld in artikel 80, eerste lid, van verordening 543/2011 worden aangewezen: 
+
+a. Afvoer naar de afvalverwerkende industrie, nadat het product is gedenatureerd.  
+
+b. Afvoer naar veehouders ten behoeve van vervoedering, nadat het product is gedenatureerd.  
+
+c. Gratis uitreiking, als bedoeld in artikel 80, tweede lid, van verordening 543/2011, aan liefdadigheidsinstellingen of -organisaties als bedoeld in artikel 230d, eerste lid.     
+5.  Afvalverwerkers, bedoeld in het vierde lid, onderdeel a, beschikken over een geldige milieuvergunning.  
+
+### Artikel  230b  
+
+1.  Een voorafgaande melding, bedoeld in artikel 78, eerste lid, van verordening 543/2011, wordt elektronisch ingediend bij de minister.   
+2.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
+3.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats.  
+
+### Artikel  230c  
+
+De minister stelt de door de lidstaten vast te stellen maximale steunbedragen bedoeld in artikel 79, eerste lid, van verordening 543/2011 vast. 
+
+### Artikel  230d  
+
+1.  Als erkende liefdadigheidsinstellingen of -organisaties als bedoeld in artikel 34, vierde lid, onderdeel a, van verordening 1308/2013 worden aangewezen voedselbanken die op grond van artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen zijn aangemerkt als algemeen nut beogende instelling.   
+2.  Als personen die op grond van de nationale wetgeving recht hebben op overheidsbijstand, met name omdat zij over onvoldoende middelen beschikken om in hun onderhoud te voorzien, bedoeld in artikel 34, vierde lid, onderdeel a, van verordening 1308/2013, worden aangemerkt: 
+
+a. personen die op grond van artikel 11, eerste lid, van de Wet werk en bijstand recht hebben op een overheidsuitkering, en  
+
+b. andere personen die ten genoegen van de voedselbanken kunnen aantonen niet over voldoende middelen te beschikken om in hun onderhoud te voorzien.     
+3.  Het overnamecertificaat bedoeld in artikel 83, eerste lid, onderdeel d, van verordening 543/2011 wordt getekend door de voedselbank die de uit de markt genomen producten daadwerkelijk uitreikt aan de eindontvangers.   
+4.  Indien een voedselbank van haar aanvragers een symbolische bijdrage vraagt voor de voedselpakketten vraagt de voedselbank hiervoor vooraf toestemming aan onze minister en houdt zij hiervoor een financiële boekhouding bij.   
+5.  Indien een voedselbank de op grond van deze regeling ontvangen producten verwerkt of laat verwerken toont de voedselbank aan dat de verwerkte producten volledig ten goede komen aan de personen bedoeld in het tweede lid.  
+
+### Artikel  230e  
+
+1.  Producentenorganisaties sluiten schriftelijke overeenkomsten met afnemers als bedoeld in artikel 230a, vierde lid, en transporteurs van uit de markt genomen producten waarin de afnemers en transporteurs worden verplicht: 
+
+a. tot naleving van de voorwaarden uit artikel 83 van verordening 543/2011;  
+
+b. bij ontvangst van de uit de markt genomen producten de daarbij behorende door de minister ter beschikking gestelde vrachtbrief te ondertekenen, en  
+
+c. de vrachtbrief, bedoeld in onderdeel b, en de overeenkomst met de producentenorganisatie gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.     
+2.  In aanvulling op het eerste lid worden ontvangers van uit de markt genomen producten als bedoeld in artikel 230a, vierde lid, onderdelen a en b, verplicht om de uit de markt genomen producten in geval van de bestemmingen bedoeld in artikel 230a, vierde lid, onderdelen a en b: 
+
+a. een niet voor menselijke consumptie geschikte bestemming te geven die: 
+
+i. de normale afzet van de betrokken productie niet in de weg staat, en  
+
+ii. geen negatieve milieu-impact of negatieve fytosanitaire gevolgen heeft als bedoeld in artikel 80, eerste lid, van verordening 543/2011, en    
+
+b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.    
+
+### Artikel  230f  
+
+Uit de bewijsstukken bedoeld in artikel 81, tweede lid, van verordening 543/2011 blijkt: 
+
+a. vanaf welk adres de uit de markt genomen producten bestemd voor gratis uitreiking vervoerd zijn;  
+
+b. het adres waar de uit de markt genomen goederen bestemd voor gratis uitreiking zijn afgeleverd aan een voedselbank als bedoeld in artikel 230d, eerste lid, en  
+
+c. het aantal afgelegde kilometers.   
+
+### Paragraaf  2b  
+
+####Uitgaven ten behoeve van het groen oogsten of niet oogsten van groenten en fruit
+
+### Artikel  230g  
+
+1.  Uitgaven van de producentenorganisatie voor het groen oogsten en niet oogsten van producten als bedoeld in artikel 33, derde lid, onderdeel g, van verordening 1308/2013 zijn subsidiabel.   
+2.  Als producten bedoeld in artikel 33, derde lid, onderdeel g, van verordening 1308/2013 worden aangewezen: 
+
+a. Tomaten met GN code 0702 00 00;  
+
+b. Wortels met GN code 0706 10 00;  
+
+c. Witte kool met GN code 0704 90 10;  
+
+d. Niet-scherpsmakende pepers (paprika’s) met GN code 0709 60 10;  
+
+e. Bloemkool met GN code 0704 10 00;  
+
+f. Komkommers met GN code 0707 00 05;  
+
+g. Augurken met GN code 0707 00 90;  
+
+h. Champignons Agaricus met GN code 0709 51 00;  
+
+i. Appelen met GN code 0808 10;  
+
+j. Peren met GN code 0808 30;  
+
+k. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;  
+
+l. Druiven voor tafelgebruik met GN code 0806 10 10, en  
+
+m. Kiwi's met GN code 0810 50 00.    
+
+### Artikel  230h  
+
+De minister stelt de voor groen oogsten en niet oogsten te betalen vergoedingen, bedoeld in artikel 85, vierde lid, onderdeel b, van verordening 543/2011 vast. 
+
+### Artikel  230i  
+
+1.  Een voorafgaande melding, bedoeld in artikel 85, tweede lid, van verordening 543/2011, wordt elektronisch ingediend bij de minister.   
+2.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
+3.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats.  
+
+### Artikel  230j  
+
+Voor producten als bedoeld in artikel 85, derde lid, van verordening 543/2011 waarvan de normale oogst reeds begonnen is maar die een langere oogstperiode dan een maand hebben wordt de resterende oogstcapaciteit door de producentenorganisatie ten genoegen van de minister bepaald aan de hand van: 
+
+a. afleverbonnen van de planten;  
+
+b. de normale productiecyclus van een gewas, en  
+
+c. de oorspronkelijk geplande ruimdatum.   
+
+### Artikel  230k  
+
+1.  De producentenorganisatie voert het vernietigde gewas, indien van toepassing, of het groen geoogste product af.   
+2.  Als toegestane bestemmingen voor de in het eerste lid bedoelde afvoer worden aangewezen: 
+
+a. afvalverwerkers, en  
+
+b. veehouders ten behoeve van vervoedering.     
+3.  Afvalverwerkers bedoeld in het tweede lid, onderdeel a, beschikken over een geldige milieuvergunning.   
+4.  Producentenorganisaties sluiten schriftelijke overeenkomsten met afnemers als bedoeld in het tweede lid en transporteurs van de in het eerste lid bedoelde gewassen en producten waarin de afnemers en transporteurs worden verplicht: 
+
+a. tot naleving van de voorwaarden uit artikel 83, tweede lid, van verordening 543/2011;  
+
+b. bij ontvangst van de in het eerste lid bedoelde gewassen en producten de daarbij behorende door de minister ter beschikking gestelde vrachtbrief te ondertekenen, en  
+
+c. de vrachtbrief, bedoeld in onderdeel b, en de overeenkomst met de producentenorganisatie gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.     
+5.  In aanvulling op het vierde lid worden ontvangers van de gewassen en producten bedoeld in het eerste lid verplicht om deze gewassen en producten: 
+
+a. een niet voor menselijke consumptie geschikte bestemming te geven die: 
+
+i. de normale afzet van de betrokken productie niet in de weg staat, en  
+
+ii. geen negatieve milieu-impact of negatieve fytosanitaire gevolgen heeft als bedoeld in artikel 80, eerste lid, van verordening 543/2011, en    
+
+b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.    
+
 ### Paragraaf  3  
 
 ####Uitgaven ten behoeve van opleidingsacties
@@ -3500,13 +3680,13 @@ b. officieel zijn toegelaten op de lijst van autorisaties voor het in het verkee
 
 1.  Uitgaven voor middelen voor biologische of geïntegreerde gewasbescherming en het voorkomen van ziekten en plagen zijn subsidiabel indien het uitgaven betreft voor: 
 
-a. macrobiologische bestrijders en aaltjes, die zijn toegelaten op grond van de [Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md);  
+a. macrobiologische bestrijders en aaltjes, die zijn toegelaten op grond van de Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet;  
 
-b. microbiologische bestrijders die zijn toegelaten op grond van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+b. microbiologische bestrijders die zijn toegelaten op grond van de Wet gewasbeschermingsmiddelen en biociden;  
 
-c. overige gewasbeschermingsmiddelen van natuurlijke oorsprong die zijn toegelaten op grond van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+c. overige gewasbeschermingsmiddelen van natuurlijke oorsprong die zijn toegelaten op grond van de Wet gewasbeschermingsmiddelen en biociden;  
 
-d. middelen voor feromoonverwarring die zijn toegelaten op grond van de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+d. middelen voor feromoonverwarring die zijn toegelaten op grond van de Wet gewasbeschermingsmiddelen en biociden;  
 
 e. feromonen als lokstof in vallen of op rollertraps en vangplaten;  
 
@@ -3983,7 +4163,7 @@ Bij samenloop van diverse subsidieverlagende factoren als bedoeld in de artikele
 
 ### Artikel  311  
 
-Archiefbescheiden van Productschap Tuinbouw betreffende zaken die op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats. 
+Archiefbescheiden van Productschap Tuinbouw betreffende zaken die op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ### Artikel  312  
 
@@ -4463,7 +4643,7 @@ Tabel 1: Toegelaten GNO’s op basis van microörganismen
 | Turex 50 WP  | 11702 N  | 1996  | 09-09-9999<sup>*</sup>   | Bacillus thuringiensis ssp. aizawai  | insecticide  | brede toepassing  |
 | Xen Tari WG  | 12437 N  | 2003  | 30-04-2014  | Bacillus thuringiensis ssp. aizawai  | insecticide  | brede toepassing  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU ([artikel 122, lid 1 Wgb](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)). Tabel 2: Toegelaten GNO’s op basis van feromonen 
+* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb). Tabel 2: Toegelaten GNO’s op basis van feromonen 
 
 | Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum (d.d. 31 jan. 2013 CTGB-site)  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -4473,14 +4653,14 @@ Tabel 1: Toegelaten GNO’s op basis van microörganismen
 | RAK 3+4  | 12467 N  | 2003  | 01-08-2013  | Codlemon en (Z)-11-tetradecenylacetaat  | insecticide (lokstof)  |
 | RAK 4  | 12469 N  | 2003  | 01-08-2013  | (Z)-11-tetradecenylacetaat  | insecticide (lokstof)  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU ([artikel 122, lid 1 Wgb](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)). Tabel 3: Toegelaten GNO’s op basis van plantextracten of planteigen-verbindingen 
+* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb). Tabel 3: Toegelaten GNO’s op basis van plantextracten of planteigen-verbindingen 
 
 | Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
 | Spruzit vloeibaar  | 7229 N  | 1988  | 09-09-9999<sup>*</sup>   | pyrethrinen/piperonylbutoxide  | insecticide  | groenten en kleinfruit  |
 | NeemAzal T/S  | 12455 N  | 2003  | 31-05-2015  | azadirachtine  | Insecticide  | appel vs spint en larven van diverse insecten  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU ([artikel 122, lid 1 Wgb](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)). Tabel 4: Toegelaten overige GNO’s  
+* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb). Tabel 4: Toegelaten overige GNO’s  
 
 | Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -4497,7 +4677,7 @@ Tabel 1: Toegelaten GNO’s op basis van microörganismen
 | Smart Bayt  | 13107 N  | 2008  | 01-10-2018  | ferri fosfaat  | molluscicide  | vs huisjesslakken, naaktslakken  |
 | Thiovit Jet  | 5395 N  | 1970  | 09-09-9999*  | zwavel  | fungicide, acaricide  | vs mijten:  peren, bramen  vs schimmels:  appels, peren, kersen, perziken, pruimen, aardbeien, bessen, druiven (vollegrond), schorseneren  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU ([artikel 122, lid 1 Wgb](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)).
+* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb).
 
 ####Toegelaten toepassingen
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 maart 2012, nr. BVE/387639, houdende voorschriften inzake het terugdringen van het aantal voortijdig schoolverlaters in de studiejaren 2012–2013 tot en met 2014–2015, de verstrekking van aanvullende middelen aan vo-scholen en de regionale meld- en coördinatiefunctie voortijdig schoolverlaten (Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op de [artikelen 2](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md), [4, eerste lid](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [5 van de Wet overige OCW-subsidies](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md), de [artikelen 74](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [118i, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [artikelen 8.3.2, vijfde lid](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [8.3.3, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 1](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md) en [4, eerste lid, onderdelen a, b, c en d, van het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md);
+Gelet op de artikelen 2, 4, eerste lid en 5 van de Wet overige OCW-subsidies, de artikelen 74 en 118i, derde lid, van de Wet op het voortgezet onderwijs, de artikelen 8.3.2, vijfde lid en 8.3.3, derde lid, van de Wet educatie en beroepsonderwijs en de artikelen 1 en 4, eerste lid, onderdelen a, b, c en d, van het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,15 +17,15 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b.  *RMC-contactgemeente:* contactgemeente als bedoeld in [artikel 8.3.2, derde lid, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 118h, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b.  *RMC-contactgemeente:* contactgemeente als bedoeld in artikel 8.3.2, derde lid, van de wet en artikel 118h, derde lid, van de Wet op het voortgezet onderwijs;  
 
 c.  *RMC-regio:* regio als bedoeld in artikel 37;  
 
-d.  *basisregister:* basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+d.  *basisregister:* basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
-e.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1.1, onderdeel w, subonderdeel 2, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e.  *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1.1.1, onderdeel w, subonderdeel 2, van de wet en artikel 1 van de Wet op het voortgezet onderwijs;  
 
-f.  *onderwijsinstelling:* regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), vakinstelling als bedoeld in [artikel 1.3.2a van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), alsmede school voor voortgezet onderwijs, met uitzondering van een school voor praktijkonderwijs, als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f.  *onderwijsinstelling:* regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de wet, vakinstelling als bedoeld in artikel 1.3.2a van de wet, agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de wet, alsmede school voor voortgezet onderwijs, met uitzondering van een school voor praktijkonderwijs, als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs;  
 
 g.  *convenant:* per RMC-regio tussen de minister, de RMC-contactgemeente en het bevoegd gezag van onderwijsinstellingen gesloten convenant inzake het terugdringen van het aantal voortijdig schoolverlaters in de studiejaren 2012–2013 tot en met 2014–2015;  
 
@@ -33,13 +33,13 @@ h.  *beheers- en coördinatiekosten:* kosten die voor de subsidieontvanger voort
 
 i.  *studiejaar:* tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar;  
 
-j.  *deelnemer:* deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en leerling als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+j.  *deelnemer:* deelnemer als bedoeld in de Wet educatie en beroepsonderwijs en leerling als bedoeld in de Wet op het voortgezet onderwijs;  
 
 k.  *contactschool:* een contactschool als bedoeld in artikel 8;  
 
 l.  *regionaal programma:* het regionaal programma voortijdig schoolverlaten als bedoeld in artikel 6;  
 
-m.  *wet:* de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+m.  *wet:* de Wet educatie en beroepsonderwijs.   
 
 ### Artikel  2  
 
@@ -49,7 +49,7 @@ m.  *wet:* de [Wet educatie en beroepsonderwijs](../../../../../../../../../../w
 
 a. niet is ingeschreven bij een onderwijsinstelling terwijl de desbetreffende jongere op 1 oktober van het voorafgaande jaar wel was ingeschreven bij een onderwijsinstelling en op die datum jonger was dan 22 jaar;  
 
-b. niet in het bezit is van een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een diploma beroepsonderwijs als bedoeld in [artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); en  
+b. niet in het bezit is van een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de Wet op het voortgezet onderwijs of een diploma beroepsonderwijs als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de wet; en  
 
 c. niet is toegelaten tot een instelling voor hoger onderwijs.     
 2.  Onder een nieuwe voortijdig schoolverlater, als bedoeld in het eerste lid, wordt niet verstaan, degene die is opgenomen in bijlage A van de Regeling prestatiebox mbo.  
@@ -58,7 +58,7 @@ c. niet is toegelaten tot een instelling voor hoger onderwijs.
 
 ####Gegevens berekening nieuwe voortijdig schoolverlaters
 
-1.  Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in [artikel 2.5.5a van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), de [artikelen 4, eerste lid, onderdelen e en f](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md), en [10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md) en [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+1.  Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in artikel 2.5.5a van de wet, de artikelen 4, eerste lid, onderdelen e en f, en 10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron en artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 2.  Wat betreft de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters is artikel 7 van de Regeling prestatiebox mbo van toepassing op deze regeling.  
 
 ### Artikel  4  
@@ -75,9 +75,9 @@ c. het geven van uitvoeringsvoorschriften ter zake van de regionale meld- en co�
 
 ### Artikel  5  
 
-####Toepassing [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md)
+####Toepassing Regeling OCW-subsidies
 
-De [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is van toepassing op de hoofdstukken 2, 2A en 3 van deze regeling. 
+De Regeling OCW-subsidies is van toepassing op de hoofdstukken 2, 2A en 3 van deze regeling. 
 
 ### Hoofdstuk  2  
 
@@ -92,7 +92,7 @@ De [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/
 ####Regionaal programma voortijdig schoolverlaten
 
 1.  Het regionaal programma dat in een RMC-regio wordt uitgevoerd met als doel het voorkomen van voortijdig schoolverlaten, bevat maatregelen die, blijkens een regionale analyse door de contactschool over de RMC-regio, zijn gericht op structurele borging van het voorkomen van voortijdig schoolverlaten in het onderwijsproces van de onderwijsinstellingen en het bevorderen van de samenwerking tussen de onderwijsinstellingen onderling en gemeenten in de RMC-regio.   
-2.  Van het regionaal programma maakt in ieder geval deel uit een maatregel gericht op het voorkomen van uitval van deelnemers die één van de beroepsopleidingen, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c tot en met e, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), volgen.   
+2.  Van het regionaal programma maakt in ieder geval deel uit een maatregel gericht op het voorkomen van uitval van deelnemers die één van de beroepsopleidingen, bedoeld in artikel 7.2.2, eerste lid, onderdelen c tot en met e, van de wet, volgen.   
 3.  Het regionaal programma, bedoeld in het eerste lid, omvat ten minste één plusvoorziening, bedoeld in artikel 19, onderdeel a.   
 4.  Het bedrag per maatregel van het regionaal programma dient in redelijke verhouding te staan tot het aantal deelnemers en de doelgroep waarvoor de maatregel is bedoeld.   
 5.  Het bevoegd gezag van de contactschool motiveert de keuze van de maatregelen in het regionaal programma op het formulier in bijlage A van deze regeling, als bedoeld in artikel 10.   
@@ -252,7 +252,7 @@ In deze paragraaf wordt verstaan onder:
 
 a.  *plusvoorziening:* een voorziening ten behoeve van de onderwijsinstellingen en scholen in een RMC-regio, die bestaat uit een gecombineerd programma van onderwijs leidend naar het behalen van een startkwalificatie, zorg, hulpverlening en waar nodig arbeidstoeleiding, dat wordt aangeboden aan jongeren tot 23 jaar, die zodanig ernstige problemen ondervinden op het gebied van financiën, gezondheid, huisvesting, sociale omgeving of maatschappelijk functioneren dat zij de onderwijsinstelling zonder diploma dreigen te verlaten;  
 
-b.  *leerling:* de leerling aan een school voor het voortgezet onderwijs die voor bekostiging wordt meegeteld op grond van [artikel 2.3.2 van het Uitvoeringsbesluit WEB](../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) of [artikel 7 van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), met uitzondering van een leerling die praktijkonderwijs volgt, of de deelnemer aan een opleiding, bedoeld in [artikel 7.2.2, eerste lid, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) die voor bekostiging wordt meegeteld op grond van [artikel 2.2.3 van het Uitvoeringsbesluit WEB](../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);  
+b.  *leerling:* de leerling aan een school voor het voortgezet onderwijs die voor bekostiging wordt meegeteld op grond van artikel 2.3.2 van het Uitvoeringsbesluit WEB of artikel 7 van het Bekostigingsbesluit W.V.O., met uitzondering van een leerling die praktijkonderwijs volgt, of de deelnemer aan een opleiding, bedoeld in artikel 7.2.2, eerste lid, van de wet die voor bekostiging wordt meegeteld op grond van artikel 2.2.3 van het Uitvoeringsbesluit WEB;  
 
 c.  *armoedeprobleemcumulatiegebied:* gebied als bedoeld in de armoedemonitor 2008 van het Sociaal en Cultureel Planbureau en het Centraal Bureau voor de Statistiek;  
 
@@ -275,7 +275,7 @@ Het subsidieplafond op grond van deze paragraaf bedraagt € 30.400.000,– per
 ####Berekening subsidiebedrag
 
 1.  Het bedrag van de subsidie voor een RMC-regio wordt bepaald op grond van het aantal apc-leerlingen tot 22 jaar die op 1 oktober 2010 als daadwerkelijk schoolgaand zijn ingeschreven bij onderwijsinstellingen en voor de bekostiging worden meegeteld bij die onderwijsinstellingen in één RMC-regio.   
-2.  Bij de berekening van het aantal leerlingen maakt de minister gebruik van de gegevens, bedoeld in de [artikelen 4, eerste lid, onderdeel e](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md), en [10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron](../../../../../../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md).   
+2.  Bij de berekening van het aantal leerlingen maakt de minister gebruik van de gegevens, bedoeld in de artikelen 4, eerste lid, onderdeel e, en 10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron.   
 3.  Het bedrag wordt vastgesteld op grond van onderstaande tabel:  Tabel 2. Maximumbedragen plusvoorzieningen beschikbaar per RMC-regio 
 
 | Aantal apc-leerlingen tot 22 jaar op de onderwijsinstellingen in één RMC-regio  | Bedrag per RMC-regio  |
@@ -306,7 +306,7 @@ Het subsidieplafond op grond van deze paragraaf bedraagt € 30.400.000,– per
 
 ####Begripsbepalingen
 
-In dit hoofdstuk wordt onder een onderwijsinstelling niet verstaan een school voor voortgezet onderwijs, als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
+In dit hoofdstuk wordt onder een onderwijsinstelling niet verstaan een school voor voortgezet onderwijs, als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs. 
 
 ### Artikel  23b  
 
@@ -347,7 +347,7 @@ f. de inrichting en uitvoering van het experiment wordt begeleid door het Centra
 
 ####Besteding van de subsidie
 
-De subsidie kan ook worden besteed aan andere activiteiten dan waarvoor zij wordt verstrekt, zoals bedoeld in [artikel 13, eerste lid, van de Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md). 
+De subsidie kan ook worden besteed aan andere activiteiten dan waarvoor zij wordt verstrekt, zoals bedoeld in artikel 13, eerste lid, van de Regeling OCW-subsidies. 
 
 ### Artikel  23f  
 
@@ -375,25 +375,25 @@ d. risico-inventarisatie en haalbaarheid.
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a.  *de wet:* de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+a.  *de wet:* de Wet op het voortgezet onderwijs;  
 
-b.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b.  *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1 van de wet;  
 
-c.  *leerling:* leerling als bedoeld in de [wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c.  *leerling:* leerling als bedoeld in de wet;  
 
-d.  *school:* een school voor voortgezet onderwijs, met inbegrip van het voorbereidend beroepsonderwijs dat wordt verzorgd in een agrarisch opleidingscentrum en met uitzondering van een school of afdeling voor praktijkonderwijs, als bedoeld in [artikel 1 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+d.  *school:* een school voor voortgezet onderwijs, met inbegrip van het voorbereidend beroepsonderwijs dat wordt verzorgd in een agrarisch opleidingscentrum en met uitzondering van een school of afdeling voor praktijkonderwijs, als bedoeld in artikel 1 van de wet;  
 
 e.  *schooljaar:* tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar;  
 
-f.  *vmbo:* het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs tezamen, als bedoeld in [artikel 5, onderdelen b en c, van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f.  *vmbo:* het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs tezamen, als bedoeld in artikel 5, onderdelen b en c, van de wet;  
 
-g.  *havo:* het hoger en middelbaar algemeen voortgezet onderwijs, als bedoeld in [artikel 8 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+g.  *havo:* het hoger en middelbaar algemeen voortgezet onderwijs, als bedoeld in artikel 8 van de wet;  
 
-h.  *vwo:* het voorbereidend wetenschappelijk onderwijs, als bedoeld in [artikel 7 van de wet](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+h.  *vwo:* het voorbereidend wetenschappelijk onderwijs, als bedoeld in artikel 7 van de wet;  
 
 i.  *onderbouw:* het eerste en tweede leerjaar van het vmbo en het eerste, tweede en derde leerjaar van het havo en vwo;  
 
-j.  *bovenbouw vmbo:* het derde en vierde leerjaar van het vmbo en het eerste en twee leerjaar van de leergang vmbo-mbo2, bedoeld in [artikel 3 van de Tijdelijke regeling subsidiëring experimenten leergang vmbo-mbo2 2008–2013](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/subsidiëring/experimenten/leergang/vmbo-mbo2/2008–2013/BWBR0023974/README.md);  
+j.  *bovenbouw vmbo:* het derde en vierde leerjaar van het vmbo en het eerste en twee leerjaar van de leergang vmbo-mbo2, bedoeld in artikel 3 van de Tijdelijke regeling subsidiëring experimenten leergang vmbo-mbo2 2008–2013;  
 
 k.  *bovenbouw havo/vwo:* het vierde en vijfde leerjaar van het havo en het vierde, vijfde en zesde leerjaar van het vwo.   
 
@@ -532,22 +532,22 @@ Tabel 5. Maximumbedragen per school beschikbaar voor de onderbouw
 
 In deze paragraaf wordt verstaan onder: 
 
-a.  *besluit:* [Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md);  
+a.  *besluit:* Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten;  
 
-b.  *effectrapportage:* effectrapportage als bedoeld in [artikel 118h, zevende lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 8.3.2, zevende lid, van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 162b, zevende lid van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+b.  *effectrapportage:* effectrapportage als bedoeld in artikel 118h, zevende lid, van de Wet op het voortgezet onderwijs, artikel 8.3.2, zevende lid, van de wet en artikel 162b, zevende lid van de Wet op de expertisecentra;  
 
-c.  *bevoegd gezag:* bevoegd gezag zoals bedoeld in artikel 1, onderdeel e, alsmede het bevoegd gezag, bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+c.  *bevoegd gezag:* bevoegd gezag zoals bedoeld in artikel 1, onderdeel e, alsmede het bevoegd gezag, bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-d.  *voortijdig schoolverlater:* voortijdig schoolverlater als bedoeld in [artikel 8.3.1. van de wet](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 118g van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 162a van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md).   
+d.  *voortijdig schoolverlater:* voortijdig schoolverlater als bedoeld in artikel 8.3.1. van de wet, artikel 118g van de Wet op het voortgezet onderwijs en artikel 162a van de Wet op de expertisecentra.   
 
 ### Artikel  35  
 
 ####Vaststelling bedrag en budgetten
 
-1.  Het vaste bedrag, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md) bedraagt met ingang van het kalenderjaar 2012 € 8.825.447, –.   
-2.  Het budget, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md), dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 3.624.384, –.   
-3.  Het budget, bedoeld in [artikel 4 eerste lid, onderdeel c, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md), dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 5.675.776, –.   
-4.  Het budget, bedoeld in [artikel 4, eerste lid, onderdeel d, van het besluit](../../../../../../../../../../AMvB/besluit/regionale/meld-/en/coördinatiefunctie/voortijdig/schoolverlaten/BWBR0013111/README.md), dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 13.473.229, –.  
+1.  Het vaste bedrag, bedoeld in artikel 4, eerste lid, onderdeel a, van het besluit bedraagt met ingang van het kalenderjaar 2012 € 8.825.447, –.   
+2.  Het budget, bedoeld in artikel 4, eerste lid, onderdeel b, van het besluit, dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 3.624.384, –.   
+3.  Het budget, bedoeld in artikel 4 eerste lid, onderdeel c, van het besluit, dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 5.675.776, –.   
+4.  Het budget, bedoeld in artikel 4, eerste lid, onderdeel d, van het besluit, dat over de RMC-regio’s wordt verdeeld, bedraagt met ingang van het kalenderjaar 2012 € 13.473.229, –.  
 
 ### Artikel  36  
 
@@ -570,9 +570,9 @@ De vaststelling van de RMC-regio’s geschiedt conform bijlage C bij deze regeli
 
 ####Intrekking regeling
 
-1. De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) en de [Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren](../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/plusvoorzieningen/overbelaste/jongeren/BWBR0026422/README.md) worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven. 
-2. De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012 blijft voorts van toepassing voor het toekennen, het betalen, het verantwoorden en het vaststellen van de subsidie voor het kalenderjaar 2013.
-3. In afwijking van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs blijft [bijlage G van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012 voorts van toepassing voor het kalenderjaar 2013.
+1. De Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten en de Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven. 
+2. De Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012 blijft voorts van toepassing voor het toekennen, het betalen, het verantwoorden en het vaststellen van de subsidie voor het kalenderjaar 2013.
+3. In afwijking van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs blijft bijlage G van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012 voorts van toepassing voor het kalenderjaar 2013.
 
 ### Artikel  39  
 
@@ -781,13 +781,13 @@ Deze herziene RMC-effectrapportage wordt in 2014 voor het eerst gebruikt (over h
 
 ####Doel van de RMC-effectrapportage
 
-De RMC-effectrapportage geeft invulling aan een wettelijke verplichting en maakt het werk van de 39 RMC-regio’s zichtbaar zodat het beleid zo nodig kan worden aangepast. Tevens kan de rapportage dienen als benchmark voor een individuele RMC-regio ten opzichte van de landelijke resultaten. In de [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) ([artikel 8.3.2](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) ([artikel 118h](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)) en de [Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) ([artikel 162b](../../../../../../../../../../wet/isovso/BWBR0003549/README.md)) staan de taken van de gemeenten en in het bijzonder de contactgemeenten bij het bestrijden van voortijdig schoolverlaten. In het zevende lid van voornoemde artikelen staat: ‘*Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks* *een effectrapportage* *vast....*’. Deze wettelijke verplichting is nader ingevuld in artikel 36 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs. Met het invullen van het formulier in deze bijlage geeft de RMC-contactgemeente uitvoering aan deze wettelijke verplichting tot een jaarlijkse inhoudelijke verantwoording. De RMC-effectrapportage wordt jaarlijks voor 1 december door alle RMC-coördinatoren ingevuld en ingediend bij DUO. In opdracht van het ministerie van OCW wordt daarna een samenvattende rapportage van alle RMC-effectrapportages gemaakt welke in het voorjaar beschikbaar komt. Op die manier wordt het werk van de 39 RMC-regio’s zichtbaar gemaakt. Wanneer daar aanleiding toe is, kan dit rapport een ander accent in de beleidsinzet van het ministerie van OCW bewerkstelligen of een voorgenomen beleidswijziging onderbouwen. Deze RMC-effectrapportage dient daarnaast in zijn geheel als benchmark. De regionale score van de RMC-functie wordt op een breed palet van kwalitatieve aspecten vergeleken met de landelijke resultaten. Deze landelijke score staat in de samenvattende rapportage die het ministerie van OCW laat maken van alle RMC-effectrapportages. Bij bijeenkomsten van Ingrado of in een ander verband kunnen de resultaten worden besproken. 
+De RMC-effectrapportage geeft invulling aan een wettelijke verplichting en maakt het werk van de 39 RMC-regio’s zichtbaar zodat het beleid zo nodig kan worden aangepast. Tevens kan de rapportage dienen als benchmark voor een individuele RMC-regio ten opzichte van de landelijke resultaten. In de Wet educatie en beroepsonderwijs (artikel 8.3.2) en de Wet op het voortgezet onderwijs (artikel 118h) en de Wet op de expertisecentra (artikel 162b) staan de taken van de gemeenten en in het bijzonder de contactgemeenten bij het bestrijden van voortijdig schoolverlaten. In het zevende lid van voornoemde artikelen staat: ‘*Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks* *een effectrapportage* *vast....*’. Deze wettelijke verplichting is nader ingevuld in artikel 36 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs. Met het invullen van het formulier in deze bijlage geeft de RMC-contactgemeente uitvoering aan deze wettelijke verplichting tot een jaarlijkse inhoudelijke verantwoording. De RMC-effectrapportage wordt jaarlijks voor 1 december door alle RMC-coördinatoren ingevuld en ingediend bij DUO. In opdracht van het ministerie van OCW wordt daarna een samenvattende rapportage van alle RMC-effectrapportages gemaakt welke in het voorjaar beschikbaar komt. Op die manier wordt het werk van de 39 RMC-regio’s zichtbaar gemaakt. Wanneer daar aanleiding toe is, kan dit rapport een ander accent in de beleidsinzet van het ministerie van OCW bewerkstelligen of een voorgenomen beleidswijziging onderbouwen. Deze RMC-effectrapportage dient daarnaast in zijn geheel als benchmark. De regionale score van de RMC-functie wordt op een breed palet van kwalitatieve aspecten vergeleken met de landelijke resultaten. Deze landelijke score staat in de samenvattende rapportage die het ministerie van OCW laat maken van alle RMC-effectrapportages. Bij bijeenkomsten van Ingrado of in een ander verband kunnen de resultaten worden besproken. 
 
 ### 2  
 
 ####Inhoud van de RMC-effectrapportage
 
-De RMC-functie is ingericht voor jongeren van 18 tot 23 jaar. Als in deze RMC-effectrapportage wordt gevraagd naar aantallen jongeren en aantallen meldingen, gaat het om ‘jongeren van 18 tot 23 jaar’, tenzij expliciet anders wordt vermeld. In de praktijk werken RMC-regio’s op allerlei manieren samen met de gemeentelijke leerplichtafdelingen. In deze RMC-effectrapportage wordt gevraagd naar de manier waarop u samenwerkt met de gemeentelijke leerplichtafdelingen. Een gedetailleerde inhoudelijke verantwoording van de inzet op de 18-minners is hier niet aan de orde, omdat er een jaarlijkse enquête voor alle gemeenten in Nederland naar de uitvoering van de [Leerplichtwet](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) bestaat. Sinds de introductie van het onderwijsnummer in het voortgezet onderwijs en het middelbaar beroepsonderwijs is het Basisregister Onderwijs (BRON) een betrouwbare dataset geworden voor het genereren van landelijke en regionale cijfers over het aantal voortijdig schoolverlaters. Sinds 2007 wordt BRON gebruikt voor het regionale en landelijke beeld van de bestrijding van de schooluitval. De aantallen voortijdig schoolverlaters worden, samen met diverse achtergrondkenmerken, beschikbaar gesteld door DUO. In de RMC-effectrapportage staat daarom sindsdien het verzamelen van deze basisinformatie niet meer centraal. In 2008 is het vragenformulier in deze zin aangepast en uitgebreid met vragen over de uitvoering van de regionale vsv-convenanten 2008–2011. De RMC-effectrapportage is daarmee een instrument geworden voor de RMC-regio’s om de doeltreffendheid en doelmatigheid van hun aanpak van voortijdig schoolverlaten te toetsen en onderling te vergelijken en om de voortgang te monitoren van de uitvoering van de vsv-convenanten 2008–2011. Het formulier is nu wederom herzien met als doel een actualisering van de vraagstelling en een verbeterde opbouw van de vragen. Nog meer dan eerst staat de ervaring, de waarneming en de mening van de RMC-functionaris centraal. In de RMC-effectrapportage staan vragen opgenomen over de wettelijke functies van de RMC-regio. Dit zijn de meld- en registratiefunctie en de doorverwijsfunctie. Deze functies zijn weergegeven in [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 118h van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 162b van de Wet op de expertise centra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md):  
+De RMC-functie is ingericht voor jongeren van 18 tot 23 jaar. Als in deze RMC-effectrapportage wordt gevraagd naar aantallen jongeren en aantallen meldingen, gaat het om ‘jongeren van 18 tot 23 jaar’, tenzij expliciet anders wordt vermeld. In de praktijk werken RMC-regio’s op allerlei manieren samen met de gemeentelijke leerplichtafdelingen. In deze RMC-effectrapportage wordt gevraagd naar de manier waarop u samenwerkt met de gemeentelijke leerplichtafdelingen. Een gedetailleerde inhoudelijke verantwoording van de inzet op de 18-minners is hier niet aan de orde, omdat er een jaarlijkse enquête voor alle gemeenten in Nederland naar de uitvoering van de Leerplichtwet bestaat. Sinds de introductie van het onderwijsnummer in het voortgezet onderwijs en het middelbaar beroepsonderwijs is het Basisregister Onderwijs (BRON) een betrouwbare dataset geworden voor het genereren van landelijke en regionale cijfers over het aantal voortijdig schoolverlaters. Sinds 2007 wordt BRON gebruikt voor het regionale en landelijke beeld van de bestrijding van de schooluitval. De aantallen voortijdig schoolverlaters worden, samen met diverse achtergrondkenmerken, beschikbaar gesteld door DUO. In de RMC-effectrapportage staat daarom sindsdien het verzamelen van deze basisinformatie niet meer centraal. In 2008 is het vragenformulier in deze zin aangepast en uitgebreid met vragen over de uitvoering van de regionale vsv-convenanten 2008–2011. De RMC-effectrapportage is daarmee een instrument geworden voor de RMC-regio’s om de doeltreffendheid en doelmatigheid van hun aanpak van voortijdig schoolverlaten te toetsen en onderling te vergelijken en om de voortgang te monitoren van de uitvoering van de vsv-convenanten 2008–2011. Het formulier is nu wederom herzien met als doel een actualisering van de vraagstelling en een verbeterde opbouw van de vragen. Nog meer dan eerst staat de ervaring, de waarneming en de mening van de RMC-functionaris centraal. In de RMC-effectrapportage staan vragen opgenomen over de wettelijke functies van de RMC-regio. Dit zijn de meld- en registratiefunctie en de doorverwijsfunctie. Deze functies zijn weergegeven in artikel 8.3.2 van de Wet educatie en beroepsonderwijs en artikel 118h van de Wet op het voortgezet onderwijs en artikel 162b van de Wet op de expertise centra:  
 
 | --- |
 |:---|
@@ -833,7 +833,7 @@ Deze handleiding en het herziene formulier gelden voor het eerst voor de RMC-eff
 
 ####Bestuurlijke organisatie en samenwerking binnen de RMC-regio
 
-Vraag 1 heeft betrekking op de wettelijke taken van de RMC-contactgemeente van de RMC-regio zoals die in [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 118h van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 162b van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) benoemd zijn.  
+Vraag 1 heeft betrekking op de wettelijke taken van de RMC-contactgemeente van de RMC-regio zoals die in artikel 8.3.2 van de Wet educatie en beroepsonderwijs, artikel 118h van de Wet op het voortgezet onderwijs en artikel 162b van de Wet op de expertisecentra benoemd zijn.  
 
 | --- |
 |:---|
@@ -1142,11 +1142,11 @@ H. Anders, namelijk…= indien u RMC-gelden inzet voor andere zaken, dan kunt u 
 
 ####Terugblik behaalde resultaten bij reduceren van de uitval
 
-Bij vraag 5 wordt u gevraagd kort te reflecteren op de behaalde resultaten uit het vorige verslagjaar conform de OCW-cijfers voor de regio met betrekking tot de aanpak van vsv’ers. In [artikel 8.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) staan de taken van de contactgemeente van de RMC-regio. Het zevende lid van dit artikel stelt de verplichting om terug te kijken op behaalde resultaten in vergelijking met de streefcijfers.  
+Bij vraag 5 wordt u gevraagd kort te reflecteren op de behaalde resultaten uit het vorige verslagjaar conform de OCW-cijfers voor de regio met betrekking tot de aanpak van vsv’ers. In artikel 8.3.2 van de Wet educatie en beroepsonderwijs staan de taken van de contactgemeente van de RMC-regio. Het zevende lid van dit artikel stelt de verplichting om terug te kijken op behaalde resultaten in vergelijking met de streefcijfers.  
 
 | --- |
 |:---|
-| [Artikel 8.3.2, zevende lid van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md):    *De gemeenteraden in een regio stellen streefcijfers vast voor de in die regio te behalen resultaten. Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks een effectrapportage vast waarin zowel de* *streefcijfers* *als de* *bereikte resultaten* *zijn aangegeven en waarin* *afwijkingen* *worden* *toegelicht.*   |
+| Artikel 8.3.2, zevende lid van de Wet educatie en beroepsonderwijs:    *De gemeenteraden in een regio stellen streefcijfers vast voor de in die regio te behalen resultaten. Burgemeester en wethouders van de contactgemeente stellen mede namens de andere gemeenten in de regio jaarlijks een effectrapportage vast waarin zowel de* *streefcijfers* *als de* *bereikte resultaten* *zijn aangegeven en waarin* *afwijkingen* *worden* *toegelicht.*   |
 
 Betrek in uw antwoord de behaalde resultaten in relatie tot de regionale streefcijfers en de landelijke normen op basis van de definitieve cijfers over het vorig schooljaar. Daarnaast wordt u gevraagd de uitvalpercentages op de verschillende onderdelen (mbo 1, mbo 2, mbo 3/4) te behandelen.  
 
@@ -1188,7 +1188,7 @@ Tot de scholen op de onderscheiden sectoren kunnen worden gerekend:
 
 * Scholen voor regulier voortgezet onderwijs (waaronder praktijkonderwijs)  
 
-* Instellingen in de BVE-sector. Volgens [artikel 1.3.1. van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vallen hieronder roc’s, aoc’s en vakinstellingen   
+* Instellingen in de BVE-sector. Volgens artikel 1.3.1. van de Wet educatie en beroepsonderwijs vallen hieronder roc’s, aoc’s en vakinstellingen   
 
 ### 2  
 
@@ -1258,7 +1258,7 @@ Jongeren die in het verslagjaar zijn benaderd met de vraag of een begeleidingstr
 | vsv  | voortijdig schoolverlaten  |
 | vsv’er  | voortijdig schoolverlater  |
 | vwo  | voorbereidend wetenschappelijk onderwijs  |
-| wvo  | [Wet op het Voortgezet Onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  |
+| wvo  | Wet op het Voortgezet Onderwijs  |
 
 ### Bijlage C 
 
@@ -1294,13 +1294,13 @@ Ameland, Boarnsterhim, Dantumadiel, Dongeradeel, Ferwerderadiel, Franekeradeel, 
 
 ####Zuid-West Friesland
 
-Gaasterlân-Sleat, Lemsterland, Littenseradiel, Súdwest Fryslân. 
+De Friese Meren, Littenseradiel, Súdwest Fryslân. 
 
 ### Regio  6:  
 
 ####Friesland-Oost («de Friese Wouden»)
 
-Achtkarspelen, Heerenveen, Ooststellingwerf, Opsterland, Skarsterlân, Smallingerland, Tytjerksteradiel, Weststellingwerf. 
+Achtkarspelen, Heerenveen, Ooststellingwerf, Opsterland, Smallingerland, Tytjerksteradiel, Weststellingwerf. 
 
 ### Regio  7:  
 

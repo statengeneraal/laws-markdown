@@ -810,6 +810,35 @@ Bij algemene maatregel van bestuur worden regels vastgesteld omtrent het toepass
 1. De in artikel 15 bedoelde verkeerstekens en onderborden worden geplaatst of verwijderd, en de daar bedoelde maatregelen worden getroffen, door de zorg van het gezag dat het verkeersbesluit heeft genomen. 
 2.  Verkeerstekens en onderborden, die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst of verwijderd door de zorg van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, door de zorg van de eigenaar van de weg. 
 
+### Artikel  16a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onze Minister stelt, na overleg met de betrokken openbare lichamen en eigenaren van wegen, ontwerpen vast voor de bewegwijzering.   
+2.  Een ontwerp bevat: 
+
+a. de bestemmingen waarop het ontwerp betrekking heeft;  
+
+b. een overzicht van de bestaande bewegwijzering en van de mogelijke routes waarlangs die bestemmingen veilig en efficiënt kunnen worden bereikt;  
+
+c. te plaatsen en te verwijderen bewegwijzering alsmede een aanduiding van de locaties waar de bewegwijzering moet worden geplaatst of verwijderd;  
+
+d. de vormgeving van de te plaatsen bewegwijzering, en  
+
+e. de consequenties van het ontwerp voor de bewegwijzering op andere wegen.     
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de inhoud van een ontwerp en de uitvoering van het eerste lid.  
+
+### Artikel  16b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onze Minister houdt een register bij waarin gegevens worden verwerkt inzake ontwerpen voor bewegwijzering, alsmede de uitvoering daarvan.   
+2.  Het openbaar lichaam dat het beheer heeft over de weg waarop het ontwerp betrekking heeft of waarvoor het ontwerp mogelijk gevolgen heeft, of, indien geen openbaar lichaam het beheer heeft, de eigenaar van die weg, verstrekt aan Onze Minister de gegevens: 
+
+a. die nodig zijn om het ontwerp, bedoeld in artikel 16a, eerste lid, tot stand te kunnen brengen, en  
+
+b. inzake de uitvoering van die ontwerpen, zoals gerealiseerd.     
+3.  Onze Minister verstrekt gegevens uit het register aan de in het tweede lid bedoelde openbare lichamen of eigenaren voor de uitvoering van hun publieke taken. Openbare gegevens uit het register waarop geen intellectuele eigendomsrechten van derden rusten, worden tevens beschikbaar gesteld voor hergebruik als bedoeld in de Wet openbaarheid van bestuur, zonder dat een daartoe strekkend verzoek als bedoeld in die wet hoeft te worden ingediend.   
+4.  Bij ministeriële regeling kunnen ter uitvoering van het eerste tot en met het derde lid nadere regels worden gesteld.  
+
 ###Artikel 17 
 
 In de bij algemene maatregel van bestuur aangewezen gevallen kan bij de plaatsing en verwijdering van verkeerstekens en het treffen van maatregelen op of aan de weg, worden afgeweken van de artikelen 15 en 16. Indien het als gevolg van dringende omstandigheden niet mogelijk is de verkeerstekens in de voorgeschreven uitvoering te plaatsen, kan de door het teken aangeduide informatie op andere duidelijke wijze kenbaar worden gemaakt. 
@@ -2927,7 +2956,7 @@ Bij ministeriële regeling kunnen ter uitvoering van de richtlijn aanvullende re
 1.  Intelligente vervoerssystemen als bedoeld in de richtlijn voldoen aan de op grond van de richtlijn vastgestelde specificaties.   
 2.  Bij ministeriele regeling kunnen ter uitvoering van de richtlijn aanvullende regels worden gesteld.  
 
-###Hoofdstuk VII 
+### Hoofdstuk  VII  
 
 ####Vrijstelling en ontheffing 
 
@@ -2981,6 +3010,11 @@ d. voor andere wegen door burgemeester en wethouders of krachtens besluit van he
 5. De Dienst Wegverkeer trekt verleende ontheffingen in of wijzigt deze voorzover de door de wegbeheerder ingevolge het eerste lid verstrekte gegevens of andere door hem aan de Dienst Wegverkeer verstrekte informatie daartoe aanleiding geeft.
 6. Voor de mogelijkheid van beroep ingevolge hoofdstuk 8 van de Algemene wet bestuursrecht worden als één besluit aangemerkt de ontheffing of de weigering daarvan door de Dienst Wegverkeer en de toestemming onderscheidenlijk de weigering daarvan door de wegbeheerder.
 7. De wegbeheerder ontvangt voor het verstrekken van gegevens en informatie, bedoeld in het eerste lid, en voor het verlenen van toestemming, bedoeld in het tweede lid, van de Dienst Wegverkeer een bij ministeriële regeling vastgestelde vergoeding, die is gebaseerd op het aantal en de aard van de verleende ontheffingen voor wegen die onder zijn beheer staan.
+
+### Artikel  149c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 149, eerste lid, kan uitsluitend door Onze Minister ontheffing worden verleend of geweigerd van het bepaalde krachtens artikel 16, vierde lid, overeenkomstig bij of krachtens algemene maatregel van bestuur vastgestelde regels. 
 
 ### Artikel  150  
 
@@ -3137,6 +3171,18 @@ Een wijziging van de richtlijn vakbekwaamheid bestuurders gaat voor de toepassin
 ### Artikel  153  
 
 Verkeerstekens die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst en verwijderd op kosten van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, de eigenaar van de weg.  
+
+### Artikel  153a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De kosten voor het door Onze Minister: 
+
+a. tot stand brengen en vaststellen van ontwerpen voor bewegwijzering;  
+
+b. verwerken van gegevens inzake die ontwerpen of de plaatsing of verwijdering van bewegwijzering, en  
+
+c. beheren en onderhouden van het register, bedoeld in artikel 16b, eerste lid,   komen voor rekening van het openbaar lichaam dat het beheer heeft over de weg waarop het ontwerp betrekking heeft of, indien geen openbaar lichaam het beheer heeft, de eigenaar van die weg.   
+2.  Onze Minister stelt na overleg met door hem aangewezen representatieve organisaties van wegbeheerders het tarief vast dat dient ter dekking van de krachtens het eerste lid inzake bewegwijzering aan Onze Minister verschuldigde kosten.  
 
 ###Artikel 154 
 
