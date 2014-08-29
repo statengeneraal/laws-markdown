@@ -22,15 +22,15 @@ b. instelling:
 
 1°. elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin:  
 
-a. zorg wordt verleend als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a. zorg wordt verleend als omschreven bij of krachtens de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;  
 
-b. maatschappelijke ondersteuning wordt geboden door derden als bedoeld in [artikel 10 van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);   
+b. maatschappelijke ondersteuning wordt geboden door derden als bedoeld in artikel 10 van de Wet maatschappelijke ondersteuning;   
 
 c. verslavingszorg wordt verleend;     
 
-2°. een gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+2°. een gemeentelijke gezondheidsdienst als bedoeld in artikel 14 van de Wet publieke gezondheid;  
 
-3°.een kindercentrum als bedoeld in [artikel 1.1, eerste lid](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), een gastouderbureau als bedoeld in artikel 1.1, eerste lid, en een peuterspeelzaal als bedoeld in [artikel 2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).  
+3°.een kindercentrum als bedoeld in artikel 1.1, eerste lid, een gastouderbureau als bedoeld in artikel 1.1, eerste lid, en een peuterspeelzaal als bedoeld in artikel 2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.  
 
 c. zorgaanbieder:  
 
@@ -38,7 +38,7 @@ c. zorgaanbieder:
 
 2°. de rechtspersonen of natuurlijke personen, die gezamenlijk een instelling in stand houden;   
 
-3°. een natuurlijk persoon die anders dan in het kader van een dienstverband met een instelling, zorg als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) verleent;     
+3°. een natuurlijk persoon die anders dan in het kader van een dienstverband met een instelling, zorg als omschreven bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten verleent;     
 
 d. cliënt: een natuurlijk persoon aan wie de zorgaanbieder maatschappelijke ondersteuning of gezondheidszorg verleent of heeft verleend;   
 
@@ -87,12 +87,12 @@ f.de strekking van de oordelen en aanbevelingen van die klachtencommissie;
 
 g.de aard van de maatregelen, bedoeld in het vijfde lid. 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het verslag. 
-9. De zorgaanbieder zendt het verslag voor 1 juni van het daaropvolgende kalenderjaar aan Onze Minister en aan de bevoegde regionale inspecteur van het staatstoezicht op de volksgezondheid, alsmede aan de organisatie die in de regio de belangen van de patiënten in algemene zin behartigt. In het geval van een zorgaanbieder van een instelling als bedoeld in artikel 1, onder b, onder 3°, zendt hij het verslag, in afwijking van de eerste zin, aan de toezichthouder, genoemd in de [artikelen 1.61, eerste lid](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [2.19, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).
+9. De zorgaanbieder zendt het verslag voor 1 juni van het daaropvolgende kalenderjaar aan Onze Minister en aan de bevoegde regionale inspecteur van het staatstoezicht op de volksgezondheid, alsmede aan de organisatie die in de regio de belangen van de patiënten in algemene zin behartigt. In het geval van een zorgaanbieder van een instelling als bedoeld in artikel 1, onder b, onder 3°, zendt hij het verslag, in afwijking van de eerste zin, aan de toezichthouder, genoemd in de artikelen 1.61, eerste lid, en 2.19, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ###Artikel 2a 
 
 1. Indien een klacht zich richt op een ernstige situatie met een structureel karakter, stelt de klachtencommissie de zorgaanbieder daarvan in kennis. Indien de klachtencommissie niet is gebleken dat de zorgaanbieder ter zake maatregelen heeft getroffen, meldt de klachtencommissie deze klacht aan de ingevolge artikel 3a met het toezicht op de naleving van deze wet belaste ambtenaar. Onder een klacht over een ernstige situatie wordt verstaan een klacht over een situatie waarbij sprake is van onverantwoorde zorg. 
-2. In afwijking van het eerste lid worden klachten ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°, die naar het oordeel van de klachtencommissie ernstig van aard zijn, door haar gemeld aan de ingevolge de [artikelen 1.61](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [2.19 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) met het toezicht op de naleving van [die wet](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) belaste ambtenaren.
+2. In afwijking van het eerste lid worden klachten ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°, die naar het oordeel van de klachtencommissie ernstig van aard zijn, door haar gemeld aan de ingevolge de artikelen 1.61 en 2.19 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen met het toezicht op de naleving van die wet belaste ambtenaren.
 
 ### Hoofdstuk  III  
 
@@ -108,7 +108,7 @@ g.de aard van de maatregelen, bedoeld in het vijfde lid.
 ###Artikel 3a 
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van het staatstoezicht op de volksgezondheid.
-2. De toezichthouders, genoemd in het eerste lid, beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+2. De toezichthouders, genoemd in het eerste lid, beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.
 
 ### Artikel  3b  
 
@@ -118,7 +118,7 @@ g.de aard van de maatregelen, bedoeld in het vijfde lid.
 ###Artikel 3c 
 
 1. De artikelen 3, 3a en 3b zijn niet van toepassing ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°.
-2. Met het toezicht op de naleving van deze wet ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°, zijn belast de op grond van de [artikelen 1.61, eerste lid](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [2.19, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) door het college van burgemeester en wethouders bij besluit aangewezen ambtenaren. Het bepaalde bij of krachtens [hoofdstuk 1, afdelingen 4](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [5](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [hoofdstuk 2, afdelingen 3](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [4, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) is van overeenkomstige toepassing.
+2. Met het toezicht op de naleving van deze wet ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°, zijn belast de op grond van de artikelen 1.61, eerste lid, en 2.19, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen door het college van burgemeester en wethouders bij besluit aangewezen ambtenaren. Het bepaalde bij of krachtens hoofdstuk 1, afdelingen 4 en 5 en hoofdstuk 2, afdelingen 3 en 4, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen is van overeenkomstige toepassing.
 
 ### Hoofdstuk  IV  
 

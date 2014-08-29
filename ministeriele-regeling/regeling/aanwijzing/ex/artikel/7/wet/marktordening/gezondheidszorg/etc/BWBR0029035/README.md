@@ -3,7 +3,7 @@
 ##Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 november 2010, nr. DLZ/SFI-U-3030940, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2011
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+Gelet op artikel 7 van de Wet marktordening gezondheidszorg;
 
 Na 29 september 2010 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal over de zakelijke inhoud van mijn voornemen aan de Nederlandse Zorgautoriteit een aanwijzing te geven (Kamerstukken II 2009/10, 30 597, nr. 157);
 Besluit:     
@@ -11,24 +11,32 @@ Besluit:
 
 ####Algemeen
 
+Materieel uitgewerkt per 01-01-2013 
+
 ### Artikel  1  
 
 ####Werkingssfeer
 
-1.  Deze aanwijzing is van toepassing op zorg waarop ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) aanspraak bestaat.   
+Materieel uitgewerkt per 01-01-2013 
+
+1.  Deze aanwijzing is van toepassing op zorg waarop ingevolge de Algemene Wet Bijzondere Ziektekosten aanspraak bestaat.   
 2.  Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, waar nodig regels en beleidsregels vast.  
 
 ### Hoofdstuk  II  
 
 ####Financiële middelen
 
+Materieel uitgewerkt per 01-01-2013 
+
 ### Artikel  2  
 
 ####Totale contracteerruimte
 
+Materieel uitgewerkt per 01-01-2013 
+
 De zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 2011 via dezelfde systematiek als voor de jaren 2005 tot en met 2010 is toegepast. De zorgautoriteit berekent de totale contracteerruimte voor 2011 met inachtneming van de volgende onderdelen: 
 
-1.  *startpunt*  Startpunt voor het bepalen van de totale contracteerruimte voor het jaar 2011 is 100% van de totale contracteerruimte voor het jaar 2010 zoals de zorgautoriteit die heeft vastgesteld, waaronder mede begrepen de niet-benutte contracteerruimte 2010. De extra middelen in verband met de doelmatige uitvoering [AWBZ](../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) 2010, te weten 0,5% van de totale contracteerruimte anticiperend op de jaarlijkse onderuitputting, worden niet opgenomen in de contracteerruimte 2011. De productieafspraken betrekking hebbend op de in de loop van in 2010 nieuw in gebruik genomen of uitgebreide intramurale capaciteit worden aan het startpunt op jaarbasis toegevoegd.  
+1.  *startpunt*  Startpunt voor het bepalen van de totale contracteerruimte voor het jaar 2011 is 100% van de totale contracteerruimte voor het jaar 2010 zoals de zorgautoriteit die heeft vastgesteld, waaronder mede begrepen de niet-benutte contracteerruimte 2010. De extra middelen in verband met de doelmatige uitvoering AWBZ 2010, te weten 0,5% van de totale contracteerruimte anticiperend op de jaarlijkse onderuitputting, worden niet opgenomen in de contracteerruimte 2011. De productieafspraken betrekking hebbend op de in de loop van in 2010 nieuw in gebruik genomen of uitgebreide intramurale capaciteit worden aan het startpunt op jaarbasis toegevoegd.  
 
 2.  *verhoging contracteerruimte*  Het bedrag voorvloeiend uit het startpunt bedoeld in onderdeel 1 wordt *verhoogd* met de volgende bedragen: 
 
@@ -58,6 +66,8 @@ g. € 5 miljoen vanwege het schrappen van het recht op zorg in het kader van de
 
 ####Groeimiddelen
 
+Materieel uitgewerkt per 01-01-2013 
+
 In 2011 is voor de groei van de totale AWBZ-uitgaven een bedrag van ten hoogste € 683 miljoen beschikbaar, waarvan € 340 miljoen resteert voor het maken van extra productieafspraken, omdat op dat maximum in totaal € 343 miljoen in mindering wordt gebracht voor de navolgende uitgaven waarvoor geen andere dekking dan de groeiruimte is: 
 
 a. € 33 miljoen, in verband met de groei van de kapitaallasten, de beheerskosten en een post overig;  
@@ -73,6 +83,8 @@ e. € 25 miljoen, als herverdelingsruimte.
 ### Artikel  4  
 
 ####Geoormerkte middelen
+
+Materieel uitgewerkt per 01-01-2013 
 
 Naast de contracteerruimte en naast de in artikel 3 opgesomde middelen zijn geoormerkte middelen beschikbaar voor het maken van specifieke productieafspraken en doelen. Het betreft: 
 
@@ -92,9 +104,13 @@ f) middelen die eventueel nog noodzakelijk zijn voor de afwikkeling van de nog l
 
 ####Budgetrondes en regionale contracteerruimte
 
+Materieel uitgewerkt per 01-01-2013 
+
 ### Artikel  5  
 
 ####Budgetrondes
+
+Materieel uitgewerkt per 01-01-2013 
 
 1.  De zorgautoriteit houdt voor productieafspraken voor het jaar 2011 een budgetronde in november 2010 en een budgetronde in november 2011. In de budgetronde van november 2011 kan de herschikking plaatsvinden.   
 2.  De zorgautoriteit houdt voor productieafspraken met betrekking tot het jaar  2012 een budgetronde in november 2011 en een budgetronde in november 2012. In de ronde van november 2012 kan de herschikking plaatsvinden.   
@@ -103,6 +119,8 @@ f) middelen die eventueel nog noodzakelijk zijn voor de afwikkeling van de nog l
 ### Artikel  6  
 
 ####Regionale contracteerruimte
+
+Materieel uitgewerkt per 01-01-2013 
 
 1.  De zorgautoriteit stelt ten behoeve van de productieafspraken voor de budgetronde in november van het jaar 2010, met inachtneming van de berekening van de totale contracteerruimte op grond van artikel 2, tijdig de maximale contracteerruimte per zorgkantoorregio vast en deelt deze mee aan de zorgkantoren.   
 2.  De zorgautoriteit gaat bij de verdeling bedoeld in het eerste lid uit van het volgende: 
@@ -119,6 +137,8 @@ d. de mutaties van € 95 miljoen, € 50 miljoen en € 142 miljoen genoemd 
 
 ####Toetsing regionale contracteerruimte en geoormerkte middelen
 
+Materieel uitgewerkt per 01-01-2013 
+
 De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van de productieafspraken aan de contracteerruimte, die voor het desbetreffende zorgkantoor is vastgesteld. De zorgautoriteit stelt beleidsregels vast waarin wordt aangegeven op welke wijze de toetsing zal plaatsvinden en welke indieningstermijnen zullen gelden. Daarbij hanteert de zorgautoriteit een systematiek alsook in voorgaande jaren is toegepast: 
 
 a. indien de zorgautoriteit constateert dat de ingediende productieafspraken niet passen binnen de contracteerruimte van het desbetreffende zorgkantoor, wordt de overschrijding op de contracteerruimte niet gehonoreerd;  
@@ -128,6 +148,8 @@ b. indien de zorgautoriteit constateert dat de ingediende afspraken niet passen 
 ### Artikel  8  
 
 ####Overheveling en knelpunten
+
+Materieel uitgewerkt per 01-01-2013 
 
 1.  De zorgautoriteit: 
 
@@ -142,15 +164,21 @@ c. handhaaft de procedure in haar beleidsregels over een verplichting tot overhe
 
 ####Monitoring
 
+Materieel uitgewerkt per 01-01-2013 
+
 De zorgautoriteit informeert mij in mei 2011 over de ontwikkelingen in de contracteerruimte 2011 en de regionale contracteerruimtes 2011 in relatie tot de indicatie-ontwikkeling en betrekt daarbij het Centrum Indicatiestelling Zorg. In haar rapport gaat de zorgautoriteit ook in op de mogelijke inzet van de herverdelingsmiddelen van € 25 miljoen. Indien de monitor daartoe volgens mij aanleiding geeft, zal ik de zorgautoriteit toestemming geven ook de margeregeling te hanteren. 
 
 ### Hoofdstuk  IV  
 
 ####slotbepaling
 
+Materieel uitgewerkt per 01-01-2013 
+
 ### Artikel  10  
 
 ####Inwerkingtreding en publicatie
+
+Materieel uitgewerkt per 01-01-2013 
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 

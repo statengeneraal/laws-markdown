@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Binnenlandse Zaken, van 12 juli 199
 
 Overwegende, dat het gewenst is nadere regels te stellen omtrent de naheffingsaanslag, het aanbrengen en verwijderen van de wielklem alsmede omtrent het wegslepen en in bewaring stellen van een voertuig met betrekking tot de gemeentelijke parkeerbelastingen;
 
-Gelet op de artikelen 283*a*, zevende lid, en 283*b*, dertiende en vijftiende lid, van de [gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md);
+Gelet op de artikelen 283*a*, zevende lid, en 283*b*, dertiende en vijftiende lid, van de gemeentewet;
 
 Gezien het advies van de Raad voor de gemeentefinanciën (advies van 27 april 1990, nr. 63948 RGF 1/187);
 
@@ -21,17 +21,17 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder:  
 
-a. wet: de [Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md);  
+a. wet: de Gemeentewet;  
 
 b. wielklem: het in artikel 235, eerste lid, van de wet bedoelde mechanisch hulpmiddel waardoor wordt verhinderd dat het voertuig wordt weggereden;  
 
 c. bewaringsregister: het in artikel 235, zesde lid, van de wet bedoelde register;  
 
-d. bewaarder: de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar.   
+d. bewaarder: de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar.   
 
 ### Artikel  1a  
 
-1.  De voorschriften van het college van burgemeester en wethouders bedoeld in [artikel 234, tweede lid, onder a, van de wet](../../../../../wet/gemeentewet/BWBR0005416/README.md) kunnen inhouden dat het in werking stellen van een parkeermeter of een parkeerautomaat uitsluitend langs elektronische weg kan geschieden. Het college gaat daartoe slechts over indien de belastingplichtigen voldoende praktische middelen voor de voldoening op aangifte ten dienste staan.   
+1.  De voorschriften van het college van burgemeester en wethouders bedoeld in artikel 234, tweede lid, onder a, van de wet kunnen inhouden dat het in werking stellen van een parkeermeter of een parkeerautomaat uitsluitend langs elektronische weg kan geschieden. Het college gaat daartoe slechts over indien de belastingplichtigen voldoende praktische middelen voor de voldoening op aangifte ten dienste staan.   
 2.  In de situatie, bedoeld in het eerste lid, zal de belastingplichtige voor de voldoening op aangifte tenminste moeten kunnen kiezen tussen een rekening-gebonden chipkaart en een niet-rekening gebonden chipkaart met landelijke dekking. Voorts dienen in de lokale situatie voldoende oplaad- en verkooppunten beschikbaar te zijn.   
 
 ### Artikel  2  
@@ -75,7 +75,7 @@ d. kosten van interest;
 
 e. kosten van verzekering ter dekking van de aansprakelijkheid voor schade als bedoeld in artikel 235, zestiende lid, van de wet.     
 2.   Op basis van een raming van het jaarlijkse totaal van deze kosten stelt de raad, in verhouding tot het geraamde jaarlijkse aantal aangebrachte wielklemmen, het bedrag vast dat per aanbrenging en verwijdering aan de belastingschuldige in rekening wordt gebracht.   
-3.   Voor zover het aanbrengen en verwijderen van een wielklem aan een voertuig geschiedt op andere wijze dan in eigen beheer, bedragen de gemeentelijke kosten daar voor ten hoogste de door degene die het aanbrengen c.q. verwijderen van een wielklem in opdracht van de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar verricht ter zake daarvan in rekening gebrachte kosten.  
+3.   Voor zover het aanbrengen en verwijderen van een wielklem aan een voertuig geschiedt op andere wijze dan in eigen beheer, bedragen de gemeentelijke kosten daar voor ten hoogste de door degene die het aanbrengen c.q. verwijderen van een wielklem in opdracht van de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar verricht ter zake daarvan in rekening gebrachte kosten.  
 
 ###Artikel 6 
 
@@ -134,7 +134,7 @@ d. ingeval van vernietiging de waarde van het voertuig, bedoeld in artikel 17 va
 
 ### Artikel  12  
 
-De in het bewaringsregister opgenomen gegevens blijven daarin bewaard gedurende vijf jaren na de laatste dag van het kalenderjaar waarin het voertuig overeenkomstig artikel 235, achtste lid, van de wet door de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar aan de rechthebbende is teruggegeven, dan wel overeenkomstig artikel 235, elfde lid, van de wet door de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar is verkocht, om niet aan een derde in eigendom overgedragen of vernietigd. 
+De in het bewaringsregister opgenomen gegevens blijven daarin bewaard gedurende vijf jaren na de laatste dag van het kalenderjaar waarin het voertuig overeenkomstig artikel 235, achtste lid, van de wet door de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar aan de rechthebbende is teruggegeven, dan wel overeenkomstig artikel 235, elfde lid, van de wet door de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar is verkocht, om niet aan een derde in eigendom overgedragen of vernietigd. 
 
 ### Artikel  13  
 
@@ -157,7 +157,7 @@ e. kosten van verzekering ter dekking van de aansprakelijkheid voor schade als b
 f. ingeval van toepassing van artikel 235, negende lid, van de wet de personele en materiële kosten, verbonden aan het doen uitgaan van de kennisgeving, waaronder begrepen de kosten van opsporing van degene aan wie de kennisgeving dient te worden verzonden;  
 
 g. ingeval van toepassing van artikel 235, elfde lid, van de wet de personele en materiële kosten van verkoop, eigendomsoverdracht om niet of vernietiging, waaronder begrepen de kosten van taxatie van het voertuig.     
-2.   Voor zover de overbrenging en bewaring op andere wijze dan in eigen beheer geschieden, bedragen de gemeentelijke kosten daar voor ten hoogste de door degene die de overbrenging c.q. bewaring in opdracht van de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar verricht, ter zake daarvan in rekening gebrachte kosten.  
+2.   Voor zover de overbrenging en bewaring op andere wijze dan in eigen beheer geschieden, bedragen de gemeentelijke kosten daar voor ten hoogste de door degene die de overbrenging c.q. bewaring in opdracht van de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar verricht, ter zake daarvan in rekening gebrachte kosten.  
 
 ### Artikel  15  
 
@@ -170,7 +170,7 @@ Ingeval van toepassing van de in artikel 235, elfde lid, van de wet vervatte bev
 
 ### Artikel  17  
 
-Indien de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar overeenkomstig artikel 235, elfde lid, van de wet besluit dat een in bewaring gesteld voertuig zal worden vernietigd, vindt de vernietiging niet plaats dan nadat door een beëdigd taxateur een taxatierapport met betrekking tot de waarde van dat voertuig is opgemaakt. 
+Indien de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar overeenkomstig artikel 235, elfde lid, van de wet besluit dat een in bewaring gesteld voertuig zal worden vernietigd, vindt de vernietiging niet plaats dan nadat door een beëdigd taxateur een taxatierapport met betrekking tot de waarde van dat voertuig is opgemaakt. 
 
 ### Artikel  18  
 

@@ -5,7 +5,7 @@
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
 Gelet op richtlijn nr. 96/5/EG van de Commissie van de Europese Gemeenschappen van 16 februari 1996 inzake bewerkte voedingsmiddelen op basis van granen en babyvoeding voor zuigelingen en peuters (PbEG L 49);
 
-alsmede op [artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding](../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md);
+alsmede op artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding;
 Besluit:      
 ### § 1:  
 
@@ -21,7 +21,7 @@ Besluit:
 
 3º  deegwaren die vóór consumptie bereid worden in kokend water of andere geschikte vloeistoffen; en 
 
-4º  beschuiten en biscuits die als zodanig worden genuttigd, of eerst worden verkruimeld en vervolgens met water, melk of een andere geschikte vloeistof worden vermengd;   d. babyvoeding:   voor bijzondere voeding bestemde eet- of drinkwaren, met uitzondering van bewerkte eet- of drinkwaren op basis van granen;  e. residu van bestrijdingsmiddelen:   het residu in bewerkte eet- of drinkwaren op basis van granen, en in babyvoeding, van een gewasbeschermingsmiddel als bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), met inbegrip van de metabolieten daarvan en de producten die bij de afbraak of de reactie vrijkomen.     
+4º  beschuiten en biscuits die als zodanig worden genuttigd, of eerst worden verkruimeld en vervolgens met water, melk of een andere geschikte vloeistof worden vermengd;   d. babyvoeding:   voor bijzondere voeding bestemde eet- of drinkwaren, met uitzondering van bewerkte eet- of drinkwaren op basis van granen;  e. residu van bestrijdingsmiddelen:   het residu in bewerkte eet- of drinkwaren op basis van granen, en in babyvoeding, van een gewasbeschermingsmiddel als bedoeld in artikel 1 van de Wet gewasbeschermingsmiddelen en biociden, met inbegrip van de metabolieten daarvan en de producten die bij de afbraak of de reactie vrijkomen.     
 2.  Deze regeling is van toepassing op bewerkte eet- of drinkwaren op basis van granen en op babyvoeding, die: 
 
 voorzien in de specifieke behoeften van in goede gezondheid verkerende zuigelingen en peuters; en  
@@ -70,7 +70,7 @@ Bij bewerkte eet- of drinkwaren op basis van granen en bij babyvoeding wordt nie
 
 ### Artikel 5  
 
-Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) worden bij eet- of drinkwaren op basis van granen en bij babyvoeding de volgende vermeldingen gebezigd: 
+Onverminderd het Warenwetbesluit Etikettering van levensmiddelen worden bij eet- of drinkwaren op basis van granen en bij babyvoeding de volgende vermeldingen gebezigd: 
 
 a.  een vermelding van de geschikte leeftijd van waaraf de eetwaar, rekening houdend met de samenstelling, de substantie of andere specifieke eigenschappen, kan worden genuttigd; 
 

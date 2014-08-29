@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26�
 
 Gelet op
 
-– Richtlijn 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitro diagnostiek (PbEG L 331), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md);
+– Richtlijn 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitro diagnostiek (PbEG L 331), artikel 3, eerste lid, van de Wet op de medische hulpmiddelen;
 
 De Raad van State gehoord (advies van 16 maart 2001, No. W13.00.0503/III);
 
@@ -83,14 +83,14 @@ q.  *CE-markering: *de markering overeenkomstig het model opgenomen in bijlage X
 – een recipiënt voor specimens;  
 
 – een product voor laboratoriumgebruik, uit de kenmerken waarvan blijkt dat het door de fabrikant speciaal is bestemd om bij in-vitro diagnostiek te worden gebruikt.     
-3.  Onder een hulpstuk wordt niet begrepen een onder de toepassing van het [Besluit medische hulpmiddelen](../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md) vallend invasief medisch hulpmiddel voor het nemen van specimens, alsmede een medisch hulpmiddel dat rechtstreeks in aanraking met het menselijk lichaam wordt gebracht om specimens te verkrijgen.   
+3.  Onder een hulpstuk wordt niet begrepen een onder de toepassing van het Besluit medische hulpmiddelen vallend invasief medisch hulpmiddel voor het nemen van specimens, alsmede een medisch hulpmiddel dat rechtstreeks in aanraking met het menselijk lichaam wordt gebracht om specimens te verkrijgen.   
 4.  Onder een fabrikant wordt niet begrepen een persoon, rechtspersoon daaronder begrepen, die in-vitro diagnostica die reeds in de handel zijn gebracht, assembleert voor een individuele patiënt, of aanpast overeenkomstig hun beoogde bestemming.   
 5.  Een wijziging van een of meer bijlagen van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven. 
 
 ### Artikel  2  
 
 1.  Dit besluit is mede van toepassing op het hulpstuk en op de software die voor de goede werking van het in-vitro diagnosticum benodigd zijn.   
-2.  Dit besluit is niet van toepassing op een in-vitro diagnosticum dat uitsluitend wordt toegepast in één en dezelfde instelling in de zin van de [Kwaliteitswet zorginstellingen](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md) en binnen de bedrijfsruimte waarin het is vervaardigd of in een belendende ruimte, zonder dat er sprake is van aflevering aan een andere rechtspersoon.  
+2.  Dit besluit is niet van toepassing op een in-vitro diagnosticum dat uitsluitend wordt toegepast in één en dezelfde instelling in de zin van de Kwaliteitswet zorginstellingen en binnen de bedrijfsruimte waarin het is vervaardigd of in een belendende ruimte, zonder dat er sprake is van aflevering aan een andere rechtspersoon.  
 
 ### Artikel  3  
 
@@ -109,7 +109,7 @@ b. een apotheker.
 
 1.  De fabrikant die een in-vitro diagnosticum in de handel brengt, deelt alvorens de aflevering plaatsvindt, aan de daartoe door Onze Minister aangewezen overheidsinstantie mee: 
 
-a. zijn woonplaats in de zin van [artikel 10, Boek 1, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+a. zijn woonplaats in de zin van artikel 10, Boek 1, van het Burgerlijk Wetboek;  
 
 b. met betrekking tot de reagentia, de reactieve producten, het calibratie- en controlemateriaal, de gegevens in termen van gemeenschappelijke technologische kenmerken of de te onderzoeken stoffen, alsmede alle belangrijke wijzigingen daarvan, met inbegrip van beëindiging van het in de handel brengen;  
 
@@ -262,7 +262,7 @@ b. ingeval het in-vitro diagnosticum in de handel is gebracht:
 
 – de juiste interpretatie van de testresultaten.    
 
-####Wijzigingen [Besluit medische hulpmiddelen](../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md) 
+####Wijzigingen Besluit medische hulpmiddelen 
 
 ### Artikel  14  
 

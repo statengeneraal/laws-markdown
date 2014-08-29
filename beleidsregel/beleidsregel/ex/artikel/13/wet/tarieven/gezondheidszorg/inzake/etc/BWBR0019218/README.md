@@ -3,16 +3,18 @@
 ##Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2005, nr. MC/MO-2641215, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake de vaststelling van de contracteerruimte 2006 voor de Algemene Wet Bijzondere Ziektekosten
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](../../../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md);
+Gelet op artikel 13 van de Wet tarieven gezondheidszorg;
 
 Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 17 oktober 2005, kenmerk MC/MO-2621194 en MC/MO-2621191);
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 19-08-2014 
 
-Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in [artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992](../../../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md). Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College Tarieven Gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen. 
+Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992. Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College Tarieven Gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 19-08-2014 
 
 Deze beleidsregel verstaat onder: 
 
@@ -23,6 +25,7 @@ b. totale contracteerruimte: het totale bedrag – exclusief de in artikel 6 geo
 c. contracteerruimte per zorgkantoorregio: het aan een zorgkantoorregio toegerekende aandeel in de totale contracteerruimte.   
 
 ### Artikel  3  
+Materieel uitgewerkt per 19-08-2014 
 
 Het College berekent de totale contracteerruimte, als bedoeld in artikel 2, onder b, voor het jaar 2006 als volgt: 
 
@@ -30,7 +33,7 @@ a. Startpunt is de som van de totale gehonoreerde productieafspraken 2005 ten la
 
 b. Het College schaalt de productieafspraken betrekking hebbend op in de loop van 2005 in gebruik genomen of uitgebreide capaciteit van intramurale AWBZ-voorzieningen op naar jaarbasis.  
 
-c. Het College brengt in mindering de bedragen die in het jaar 2005 incidenteel aan de contracteerruimte 2005 zijn toegevoegd (€ 166,0 mln.), en bedragen die samenhangen met relevante overhevelingen van de [AWBZ](../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) naar elders.  
+c. Het College brengt in mindering de bedragen die in het jaar 2005 incidenteel aan de contracteerruimte 2005 zijn toegevoegd (€ 166,0 mln.), en bedragen die samenhangen met relevante overhevelingen van de AWBZ naar elders.  
 
 d. Het College verhoogt het resultaat van c. met de bedragen die in het jaar 2005 geen onderdeel waren van de ongeoormerkte contracteerruimte maar landelijk, of op het niveau van de zorgkantoorregio waren gemaximeerd. Het gaat om AIV-verpleging (€ 28,5 mln.), het extra geld voor de justitiële jeugdinrichtingen (€ 8,8 mln.), en de methadonbehandeling (€ 10,8 mln.). Tevens voegt het College middelen toe voor de kosten van methadon waarvoor in het jaar 2005 nog subsidie beschikbaar is (€ 2,6 mln.).  
 
@@ -45,6 +48,7 @@ h. Van het bedrag voortvloeiend uit g. brengt het College in mindering het geld 
 i. Het College indexeert de uitkomst na toepassing van h. naar het prijspeil 2006.   
 
 ### Artikel  4  
+Materieel uitgewerkt per 19-08-2014 
 
 1.  Het College berekent de totale contracteerruimte, bepaalt de maximale contracteerruimte voor iedere zorgkantoorregio, en deelt deze mede aan de uitvoeringsorganen. Het College hanteert hierbij de volgende uitgangspunten: 
 
@@ -56,6 +60,7 @@ c. De resterende groeiruimte voegt het College toe naar rato van hun aandeel in 
 2.  Het College kan binnen de totale contracteerruimte op basis van een tweezijdig verzoek contracteerruimte incidenteel of structureel overhevelen tussen individuele zorgkantoren.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 19-08-2014 
 
 1.  Het College toetst per zorgkantoorregio de totale financiële gevolgen van productieafspraken aan de contracteerruimte die voor dat betreffende zorgkantoor in de regio is vastgesteld. Voor deze toetsing zijn niet relevant: 
 
@@ -85,10 +90,12 @@ l. productieafspraken die behoren bij nieuwe of gewijzigde toelatingen voor intr
 2.  Indien het College constateert dat de ingediende productieafspraken niet passen binnen de contracteerruimte van het zorgkantoor, wordt de overschrijding op de contracteerruimte niet gehonoreerd. In zijn beleidsregels werkt het College uit hoe dit uitwerkt per instelling.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 19-08-2014 
 
 Het College voegt aan de contracteerruimte een bedrag toe op basis van de 1% marge-regeling. Dit bedrag volgt uit door het ministerie van VWS nader te verstrekken gegevens. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 19-08-2014 
 
 Naast de contracteerruimte zijn geoormerkte gelden beschikbaar voor: 
 
@@ -99,6 +106,7 @@ b. het bekostigen van zorgbehoefte van cliënten met een extreme zorgzwaarte in 
 c. de kosten van advies, instructie en voorlichting (AIV)-preventie en kosten van voedingsvoorlichting (kader per zorgkantoorregio met een landelijk maximum van € 16,0 mln.).   
 
 ### Artikel  8  
+Materieel uitgewerkt per 19-08-2014 
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.  

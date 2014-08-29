@@ -3,7 +3,7 @@
 ##Aanwijzing van de Staatssecretaris van Volksgezondheid. Welzijn en Sport van 13 november 2008, nr. DLZ/SFI-U-2893681, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2009 en enkele andere aangelegenheden
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+Gelet op artikel 7 van de Wet marktordening gezondheidszorg;
 
 Na 26 september 2008 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal over de zakelijke inhoud van mijn voornemen aan de Nederlandse Zorgautoriteit een aanwijzing te geven (Kamerstukken II, 2008/09, 26 631, nr. 274).
 Besluit:     
@@ -11,25 +11,35 @@ Besluit:
 
 ####Algemeen
 
+Materieel uitgewerkt per 25-08-2014 
+
 ### Artikel  1  
 
 ####definities
 
-De definities als bedoeld in [artikel 1 van de aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten](../../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/inzake/invoering/prestatiebekostiging/intramurale/etc/BWBR0024676/README.md) zijn van overeenkomstige toepassing voor deze aanwijzing (Kamerstukken II, 2008/09, 26 631, nr. 280, bijlage). 
+Materieel uitgewerkt per 25-08-2014 
+
+De definities als bedoeld in artikel 1 van de aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten zijn van overeenkomstige toepassing voor deze aanwijzing (Kamerstukken II, 2008/09, 26 631, nr. 280, bijlage). 
 
 ### Artikel  2  
 
 ####werkingssfeer
 
-Deze aanwijzing is van toepassing op zorg waarop ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) aanspraak bestaat. Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels op. 
+Materieel uitgewerkt per 25-08-2014 
+
+Deze aanwijzing is van toepassing op zorg waarop ingevolge de Algemene Wet Bijzondere Ziektekosten aanspraak bestaat. Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels op. 
 
 ### Hoofdstuk  II  
 
 ####Financiële middelen
 
+Materieel uitgewerkt per 25-08-2014 
+
 ### Artikel  3  
 
 ####totale contracteerruimte
+
+Materieel uitgewerkt per 25-08-2014 
 
 De zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 2009 via eenzelfde systematiek alsook voor de jaren 2005 tot en met 2008 is toegepast. De totale contracteerruimte voor 2009 berekent de zorgautoriteit met inachtneming van de volgende onderdelen: 
 
@@ -59,6 +69,8 @@ d. € 5 miljoen, ten behoeve van de overheveling naar het gemeentefonds van da
 
 ####groeimiddelen
 
+Materieel uitgewerkt per 25-08-2014 
+
 In 2009 is voor de groei van de totale AWBZ-uitgaven een bedrag van maximaal € 591 miljoen beschikbaar, waarvan € 192 miljoen resteert voor het maken van extra productieafspraken, omdat op dat maximum in totaal € 399 miljoen in mindering wordt gebracht voor de navolgende uitgaven waarvoor geen andere dekking dan de groeiruimte is: 
 
 a. € 20 miljoen, in verband met de groei van de kapitaallasten, de beheerskosten en een post overig;  
@@ -83,6 +95,8 @@ i. € 25 miljoen, herverdelingsruimte.
 
 ####geoormerkte middelen
 
+Materieel uitgewerkt per 25-08-2014 
+
 Naast de contracteerruimte en naast de in artikel 4 opgesomde middelen zijn geoormerkte middelen beschikbaar voor het maken van specifieke productieafspraken over zorg bedoeld in artikel 2. Het betreft: 
 
 a. het bekostigen van toeslagen voor zware zorg in verpleeghuizen (regionaal financieel kader van maximaal € 114 miljoen);  
@@ -101,6 +115,8 @@ f. het bekostigen van innovatie in het kader van het Nationaal Programma Ouderen
 
 ####middelen anticiperend op onderuitputting
 
+Materieel uitgewerkt per 25-08-2014 
+
 1.  Ik overweeg de zorgkantoren de mogelijkheid te geven incidentele contractafspraken voor het jaar 2009 te maken tot 100,5% van de contracteerruimte 2009, anticiperend op de jaarlijkse onderuitputting. Ik neem een definitief besluit op basis van een evaluatie die de zorgautoriteit mij eind mei 2009 verstrekt. Ik zal de zorgautoriteit bij brief van mijn besluit op de hoogte stellen.   
 2.  In het kader van de invoering zorgzwaartebekostiging en het daarmee gepaard gaande herallocatietraject heeft de zorgautoriteit de mogelijkheid om 0,25% van de contracteerruimte 2009 aan te wenden voor de maatwerkregeling en 0,25% voor de opbouwregeling. Hierbij wordt eveneens geanticipeerd op de jaarlijkse onderuitputting.  
 
@@ -108,9 +124,13 @@ f. het bekostigen van innovatie in het kader van het Nationaal Programma Ouderen
 
 ####Budgetrondes en regionale contracteerruimte
 
+Materieel uitgewerkt per 25-08-2014 
+
 ### Artikel  7  
 
 ####budgetrondes
+
+Materieel uitgewerkt per 25-08-2014 
 
 1.  De zorgautoriteit houdt voor productieafspraken met betrekking tot het jaar 2009 een budgetronde in maart 2009 en een budgetronde in november 2009. In de budgetronde in november 2009 kan de herschikking 2009 plaatsvinden in verband met de productie 2009.   
 2.  De zorgautoriteit maakt de vermoedelijke contracteerruimte 2010 bekend in augustus 2009. Voor de zomer 2009 geef ik de zorgautoriteit daartoe bij brief inzicht in de verwachte contracteerruimte 2010. Beide bekendmakingen geschieden onder voorbehoud van politieke besluitvorming in het najaar van 2009.   
@@ -119,6 +139,8 @@ f. het bekostigen van innovatie in het kader van het Nationaal Programma Ouderen
 ### Artikel  8  
 
 ####regionale contracteerruimte
+
+Materieel uitgewerkt per 25-08-2014 
 
 1.  De zorgautoriteit stelt tijdig ten behoeve van de productieafspraken voor de budgetronde in maart van het jaar 2009, met inachtneming van de berekening van de totale contracteerruimte op grond van artikel 3, de maximale contracteerruimte per zorgkantoorregio vast en deelt deze mee aan de zorgkantoren.   
 2.  De zorgautoriteit gaat bij de verdeling als bedoeld in het eerste lid uit van het volgende: 
@@ -134,6 +156,8 @@ d. de mutatie van € 36 miljoen genoemd in artikel 3, onderdeel 3, onder b, di
 ### Artikel  9  
 
 ####herallocatie zorgzwaartebekostiging zzp
+
+Materieel uitgewerkt per 25-08-2014 
 
 1.  Ten behoeve van de herallocatie in het kader van invoering van zorgzwaartebekostiging voor intramurale AWBZ-zorg: 
 
@@ -152,6 +176,8 @@ e. worden, indien de vaststelling van het herallocatiebedrag per intramurale zor
 
 ####toetsing regionale contracteerruimte en geoormerkte middelen
 
+Materieel uitgewerkt per 25-08-2014 
+
 De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van de productieafspraken aan de contracteerruimte, die voor het desbetreffende zorgkantoor is vastgesteld. De zorgautoriteit stelt beleidsregels vast waarin wordt aangegeven op welke wijze de toetsing zal plaatsvinden en welke indieningtermijnen zullen gelden. Daarbij hanteert de zorgautoriteit een systematiek als ook in voorgaande jaren is toegepast: 
 
 a. indien de zorgautoriteit constateert dat de ingediende productieafspraken niet passen binnen de contracteerruimte van het desbetreffende zorgkantoor, wordt de overschrijding op de contracteerruimte niet gehonoreerd;  
@@ -161,6 +187,8 @@ b. indien de zorgautoriteit constateert dat de ingediende afspraken niet passen 
 ### Artikel  11  
 
 ####overheveling en knelpunten
+
+Materieel uitgewerkt per 25-08-2014 
 
 1.  De zorgautoriteit: 
 
@@ -175,6 +203,8 @@ c. handhaaft de procedure in haar beleidsregel over een verplichting tot overhev
 
 ####advisering contracteerruimte (in tijdvolgorde)
 
+Materieel uitgewerkt per 25-08-2014 
+
 1.  Na de budgetronde in maart 2009 informeert de zorgautoriteit mij over de verdeling van de regionale contracteerruimte 2009 rekening houdend met de nieuwe bekostigingsparameters, een eerste indruk van de verdeling contracteerruimte 2010 bij ongewijzigd beleid, en de op- of afbouw bij de zorgkantoorregio’s als gevolg van de ZZP-herallocatie;   
 2.  De zorgautoriteit adviseert mij eind mei 2009 over de contracteerruimte 2009 en regionale contracteerruimtes 2009 in relatie tot de indicatie-ontwikkeling en betrekt daarbij het Centrum Indicatiestelling Zorg. In dit advies gaat de zorgautoriteit ook in op de mogelijke inzet van de herverdelingsmiddelen van € 25 miljoen.   
 3.  De zorgautoriteit presenteert eind mei 2009 de evaluatie van de in 2008 geïntroduceerde mogelijkheid incidentele contractafspraken voor het jaar 2008 te maken tot 100,5% van de contracteerruimte 2008, anticiperend op de jaarlijkse onderuitputting.   
@@ -186,15 +216,21 @@ c. handhaaft de procedure in haar beleidsregel over een verplichting tot overhev
 
 ####Overige en slotbepalingen
 
+Materieel uitgewerkt per 25-08-2014 
+
 ### Artikel  13  
 
 ####volledig pakket thuis
+
+Materieel uitgewerkt per 25-08-2014 
 
 De zorgautoriteit past de thans gehanteerde beleidsregels met betrekking tot volledig pakket thuis zodanig aan dat met ingang van 2009 de regeling voor volledig pakket thuis wordt uitgebreid door het laten vervallen van de beperking dat de levering van het volledig pakket thuis binnen de toegelaten capaciteit voor verblijf dient te gebeuren. 
 
 ### Artikel  14  
 
 ####nacalculatie kapitaallasten
+
+Materieel uitgewerkt per 25-08-2014 
 
 De zorgautoriteit past in verband met afschaffing bouwregime voor intramurale AWBZ-zorg met ingang van 2009 de thans gehanteerde beleidsregels zodanig aan dat sprake blijft van een vergoeding van kapitaallasten op nacalculatiebasis en besteedt daarbij aandacht aan de volgende onderwerpen: 
 
@@ -208,25 +244,31 @@ c. de inbreng van de zogenaamde trekkingrechten in de berekening van de voor ver
 
 ####afschrijving interimhuisvesting
 
+Materieel uitgewerkt per 25-08-2014 
+
 De zorgautoriteit ontwerpt een beleidsregel dan wel past een bestaande beleidsregel aan zodanig dat de kosten van investeringen in interimhuisvesting waarvan een intramurale zorgaanbieder gebruik moet maken in verband met bouwactiviteiten kunnen worden afgeschreven in een bij de gebruiksduur passend aantal jaren. 
 
 ### Artikel  16  
 
 ####ketenzorg dementie experiment
 
-De regels en beleidsregels die de zorgautoriteit heeft vastgesteld op grond van de [aanwijzing inzake kortdurende kleinschalige experimenten van 8 mei 2008](../../../../../../../../../../../ministeriele-regeling/besluit/inzake/aanvulling/procedure/en/uitbreiding/van/kortdurende/etc/BWBR0023862/README.md), Staatscourant nr. 92, zijn van overeenkomstige toepassing voor experimenten met ketenzorg met betrekking tot dementie, met dien verstande dat: 
+Materieel uitgewerkt per 25-08-2014 
+
+De regels en beleidsregels die de zorgautoriteit heeft vastgesteld op grond van de aanwijzing inzake kortdurende kleinschalige experimenten van 8 mei 2008, Staatscourant nr. 92, zijn van overeenkomstige toepassing voor experimenten met ketenzorg met betrekking tot dementie, met dien verstande dat: 
 
 a. voor ketenzorg dementie experimenten een afzonderlijk landelijk financieel kader, als bedoeld in artikel 5, aanhef en onder e, geldt dat voor het jaar 2009 is vastgesteld op een bedrag van € 10 miljoen;  
 
 b. de zorgautoriteit het landelijk financieel kader dementie verdeelt en toedeelt aan de zorgkantoorregio’s zoals dat met betrekking tot de groeimiddelen, bedoeld in artikel 8, tweede lid, aanhef en onder b, geschiedt en  
 
-c. onder experiment-overeenkomst moet worden verstaan:   een tussen een of meer intra- of extramurale zorgaanbieders en een zorgkantoor gesloten en door hen ondertekende overeenkomst waarin aard, inhoud en omvang van het door hen te houden ketenzorg dementie experiment is beschreven en waarbij van een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een door deze ondertekende verklaring is gevoegd dat bij die overeenkomst is overeengekomen dat overeenkomstsluitende partijen bij het experiment de Leidraad ketenzorg dementie, vastgesteld door het ministerie van Volksgezondheid, Welzijn en Sport in samenwerking met de stichting Alzheimer Nederland en Zorgverzekeraars Nederland, laatstelijk vastgesteld 28 juli 2008, nakomen. 
+c. onder experiment-overeenkomst moet worden verstaan:   een tussen een of meer intra- of extramurale zorgaanbieders en een zorgkantoor gesloten en door hen ondertekende overeenkomst waarin aard, inhoud en omvang van het door hen te houden ketenzorg dementie experiment is beschreven en waarbij van een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek een door deze ondertekende verklaring is gevoegd dat bij die overeenkomst is overeengekomen dat overeenkomstsluitende partijen bij het experiment de Leidraad ketenzorg dementie, vastgesteld door het ministerie van Volksgezondheid, Welzijn en Sport in samenwerking met de stichting Alzheimer Nederland en Zorgverzekeraars Nederland, laatstelijk vastgesteld 28 juli 2008, nakomen. 
 
 ### Artikel  17  
 
 ####Nationaal Programma Ouderenzorg
 
-De regels en beleidsregels die de zorgautoriteit heeft vastgesteld op grond van de [aanwijzing inzake kortdurende kleinschalige experimenten van 8 mei 2008](../../../../../../../../../../../ministeriele-regeling/besluit/inzake/aanvulling/procedure/en/uitbreiding/van/kortdurende/etc/BWBR0023862/README.md), Staatscourant nr. 92, zijn van overeenkomstige toepassing voor experimenten in het kader van het Nationaal Programma Ouderenzorg, met dien verstande dat: 
+Materieel uitgewerkt per 25-08-2014 
+
+De regels en beleidsregels die de zorgautoriteit heeft vastgesteld op grond van de aanwijzing inzake kortdurende kleinschalige experimenten van 8 mei 2008, Staatscourant nr. 92, zijn van overeenkomstige toepassing voor experimenten in het kader van het Nationaal Programma Ouderenzorg, met dien verstande dat: 
 
 a. voor het bedoelde programma een afzonderlijk landelijk financieel kader, als bedoeld in artikel 5, aanhef en onder f, geldt, dat voor het jaar 2009 is vastgesteld op een bedrag van € 10 miljoen;  
 
@@ -236,11 +278,15 @@ b. onder experiment-overeenkomst moet worden verstaan:   een tussen een of meer 
 
 ####wijziging aanwijzing zzp
 
+Materieel uitgewerkt per 25-08-2014 
+
 Wijzigt de Regeling aanwijzing inzake invoering prestatiebekostiging intramurale langdurige zorg op grond van zorgzwaartepakketten. 
 
 ### Artikel  19  
 
 ####Inwerkingtreding en publicatie
+
+Materieel uitgewerkt per 25-08-2014 
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 

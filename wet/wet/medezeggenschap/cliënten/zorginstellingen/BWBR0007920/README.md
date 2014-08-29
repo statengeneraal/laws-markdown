@@ -20,13 +20,13 @@ a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b. instelling:
 
-1°.een instelling in de zin van de [Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);
+1°.een instelling in de zin van de Wet toelating zorginstellingen;
 
 2°.elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin maatschappelijke zorg of gezondheidszorg wordt verleend en dat wordt gefinancierd:
 
-a.door het Zorginstituut Nederland op grond van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+a.door het Zorginstituut Nederland op grond van de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;
 
-b.door Onze Minister op grond van [Kaderwet VWS-subsidies](../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md) of een gemeente op grond van de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);
+b.door Onze Minister op grond van Kaderwet VWS-subsidies of een gemeente op grond van de Wet maatschappelijke ondersteuning;
 
 3°.elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin verslavingszorg wordt verleend en dat wordt gefinancierd door Onze Minister, een gemeente of een provincie;  
 
@@ -38,7 +38,7 @@ c. zorgaanbieder:
 
 d. cliënt: een natuurlijk persoon ten behoeve van wie de instelling werkzaam is.     
 2.  Bij ministeriële regeling kunnen in de maatschappij als zelfstandige eenheid optredende organisatorische verbanden waarin maatschappelijke zorg of gezondheidszorg wordt verleend en die, anders dan op grond van een wettelijke bekostigingsregeling door Onze Minister worden gefinancierd, worden aangemerkt als instelling in de zin van deze wet.   
-3.  Deze wet is niet van toepassing op justitiële inrichtingen voor verpleging van ter beschikking gestelden als bedoeld in [artikel 90 quinquies, tweede lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
+3.  Deze wet is niet van toepassing op justitiële inrichtingen voor verpleging van ter beschikking gestelden als bedoeld in artikel 90 quinquies, tweede lid, van het Wetboek van Strafrecht.  
 
 ### Hoofdstuk  II  
 
@@ -140,7 +140,7 @@ d. een regeling inzake de behandeling van klachten van cliënten en andere voor 
 e. het verslag, bedoeld in artikel 8.     
 2.  De openbaarmaking geschiedt door de stukken voor cliënten ter inzage te leggen en hen op verzoek daarvan afschriften te verstrekken.   
 3.  Van de terinzagelegging wordt mededeling gedaan op de in de instelling voor het doen van mededelingen aan cliënten gebruikelijke wijze.   
-4.  Voor het op verzoek verstrekken van afschriften kan een tarief in rekening worden gebracht, ten hoogste gelijk aan de kostprijs, tenzij ten aanzien van de instelling de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) van toepassing is.  
+4.  Voor het op verzoek verstrekken van afschriften kan een tarief in rekening worden gebracht, ten hoogste gelijk aan de kostprijs, tenzij ten aanzien van de instelling de Wet openbaarheid van bestuur van toepassing is.  
 
 ### Hoofdstuk  V  
 

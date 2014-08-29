@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 28 oktober 1992, gedaan na bekendmaking van het ontwerp van dit besluit in de *Staatscourant* van 16 augustus 1991, nr. 158; 
 
-Gelet op Richtlijn 90/385/EEG van de Raad van de Europese Gemeenschappen van 20 juni 1990 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake actieve implanteerbare medische hulpmiddelen ( *PbEG* L 189), alsmede op [artikel 3, eerste lid, onder *a* en *f*, van de Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) en de [artikelen 1](../../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md), derde lid, en [26, onder *f*, van de Wet op de Geneesmiddelenvoorziening](../../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md); 
+Gelet op Richtlijn 90/385/EEG van de Raad van de Europese Gemeenschappen van 20 juni 1990 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake actieve implanteerbare medische hulpmiddelen ( *PbEG* L 189), alsmede op artikel 3, eerste lid, onder *a* en *f*, van de Wet op de medische hulpmiddelen en de artikelen 1, derde lid, en 26, onder *f*, van de Wet op de Geneesmiddelenvoorziening; 
 
 Gezien het advies van de Geneesmiddelencommissie (advies van 26 augustus 1991, Geco 4560); 
 
@@ -45,7 +45,7 @@ j.  *aangemelde instantie*: de ter uitvoering van artikel 11 van de richtlijn aa
 
 k. lid-staat: de staat, die lid is van de Europese Unie, alsmede de staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;   
 
-l. wet: de [Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md);   
+l. wet: de Wet op de medische hulpmiddelen;   
 
 m. *gemachtigde*: de in een lid-staat gevestigde natuurlijke of rechtspersoon die uitdrukkelijk door de fabrikant als zodanig is aangewezen, die namens de fabrikant handelt en die door de autoriteiten en instanties in een lid-staat in diens plaats in rechte kan worden aangesproken ten aanzien van de verplichtingen van de fabrikant uit hoofde van de richtlijn;  
 
@@ -128,7 +128,7 @@ b. de in bijlage 3 van de richtlijn omschreven procedure inzake het EG-typeonder
 3.   In afwijking van artikel 3, eerste lid, behoeft een actief implantaat bestemd voor klinisch onderzoek op het punt waarop het onderzoek is gericht, niet te voldoen aan de in bijlage 1 van de richtlijn opgenomen eisen.    
 4.   De fabrikant doet het actieve implantaat bestemd voor klinisch onderzoek slechts toepassen indien:  
 
-- een op grond van [artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) erkende commissie een positief advies omtrent het onderzoeksprogramma, met inbegrip van het klinisch onderzoeksplan, heeft uitgebracht; en   
+- een op grond van artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen erkende commissie een positief advies omtrent het onderzoeksprogramma, met inbegrip van het klinisch onderzoeksplan, heeft uitgebracht; en   
 
 - hij vóór het tijdstip waarop het klinisch onderzoek aanvangt een verzekering heeft afgesloten die zijn aansprakelijkheid dekt voor door het klinisch onderzoek veroorzaakte schade.       
 5.   Het klinisch onderzoek wordt uitgevoerd overeenkomstig bijlage 7 van de richtlijn.    
@@ -170,7 +170,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  14  
 
-1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met dien verstande dat tot 1 januari 1995 blijft toegestaan het in de handel brengen en het toepassen van actieve implantaten die voldoen aan de bij of krachtens de [Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) gestelde voorschriften zoals die golden op 31 december 1992.    
+1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met dien verstande dat tot 1 januari 1995 blijft toegestaan het in de handel brengen en het toepassen van actieve implantaten die voldoen aan de bij of krachtens de Wet op de medische hulpmiddelen gestelde voorschriften zoals die golden op 31 december 1992.    
 2.   In afwijking van artikel 2, eerste lid, is het de fabrikant tot 14 juni 1998 toegestaan om actieve implantaten voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden op 31 december 1994.    
 3.   In afwijking van artikel 2, tweede lid, is het de in dat lid bedoelde persoon toegestaan om de overeenkomstig het eerste lid afgeleverde actieve implantaten voor handen te hebben of af te leveren, indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden op 31 december 1994.    
 4.   In afwijking van artikel 2, derde lid, is het toegestaan om actieve implantaten toe te passen die vóór 1 januari 1995 zijn afgeleverd of die overeenkomstig het eerste of tweede lid bepaalde zijn afgeleverd.   

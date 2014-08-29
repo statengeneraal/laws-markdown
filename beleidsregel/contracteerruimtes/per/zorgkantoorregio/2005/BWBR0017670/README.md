@@ -3,16 +3,18 @@
 ##Contracteerruimtes per zorgkantoorregio 2005
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md);
+Gelet op artikel 13 van de Wet tarieven gezondheidszorg;
 
 Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 11 november 2004, kenmerk Z/P-2529975 en Z/P-2529932);
 Besluit: 
 
 ###Artikel 1 
+Materieel uitgewerkt per 19-08-2014 
 
-Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in [artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992](../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md). Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College tarieven gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen. 
+Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992. Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College tarieven gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen. 
 
 ###Artikel 2 
+Materieel uitgewerkt per 19-08-2014 
 
 Deze beleidsregel verstaat onder:
 
@@ -23,6 +25,7 @@ b.totale contracteerruimte: het totaal bedrag - exclusief de in artikel 6 geoorm
 c.contracteerruimte per zorgkantoorregio: het aan een zorgkantoorregio toegerekende aandeel in de totale contracteerruimte. 
 
 ###Artikel 3 
+Materieel uitgewerkt per 19-08-2014 
 
 Het College berekent de totale contracteerruimte, als bedoeld in artikel 2, onder b, voor het jaar 2005 als volgt:
 
@@ -63,6 +66,7 @@ h.het College voegt op de uitkomst onder g. middelen toe in verband met overheve
 i.het College indexeert de uitkomst na toepassing van h. naar het prijspeil 2005. 
 
 ###Artikel 4 
+Materieel uitgewerkt per 19-08-2014 
 
 Het College verdeelt de totale contracteerruimte over zorgkantoorregio's, stelt voor iedere zorgkantoorregio de contracteerruimte vast en deelt deze mede aan de uitvoeringsorganen. Het College hanteert bij de verdeling de volgende uitgangspunten:
 
@@ -73,6 +77,7 @@ b.de bedragen genoemd in artikel 3, onderdeel h. voegt het College toe aan de co
 c.het College kan binnen de totale contracteerruimte op basis van een tweezijdig verzoek contracteerruimte overhevelen tussen individuele zorgkantoren. 
 
 ###Artikel 5 
+Materieel uitgewerkt per 19-08-2014 
 
 1. Het College toetst per zorgkantoorregio de totale financiële gevolgen van productieafspraken aan de contracteerruimte die voor dat betreffende zorgkantoor in de regio is vastgesteld. Voor deze toetsing zijn niet relevant:
 
@@ -86,11 +91,13 @@ c.het College kan binnen de totale contracteerruimte op basis van een tweezijdig
 2. Indien het College constateert dat de netto kosten van de gemaakte productieafspraken de contracteerruimte van het zorgkantoor overschrijden, wordt de overschrijding op de contracteerruimte niet gehonoreerd. In zijn beleidsregels werkt het College uit hoe dit uitwerkt per instelling. 
 
 ###Artikel 6 
+Materieel uitgewerkt per 19-08-2014 
 
 1. In het kader van de uitvoering van het urgentieplan justitiële jeugdinrichtingen is maximaal € 5,0 miljoen beschikbaar voor extra extramurale GGZ-zorg.
 2. Voor toeslagen voor zware zorg in verpleeghuizen is maximaal een bedrag van € 15,0 mln. beschikbaar. 
 
 ###Artikel 7 
+Materieel uitgewerkt per 19-08-2014 
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin hij wordt geplaatst.
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
@@ -98,4 +105,4 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport,
 C.I.J.M.Ross-van Dorp
-Op grond van [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het CTG binnen zes weken na de dag waarop het aangevallen besluit bekend is gemaakt, een bezwaarschrift indienen bij het bestuursorgaan dat het besluit heeft genomen. Een dergelijk bezwaarschrift dient te worden geadresseerd aan de Directie Wetgeving en Juridische Zaken van het Ministerie van VWS. 
+Op grond van artikel 7:1 van de Algemene wet bestuursrecht kan het CTG binnen zes weken na de dag waarop het aangevallen besluit bekend is gemaakt, een bezwaarschrift indienen bij het bestuursorgaan dat het besluit heeft genomen. Een dergelijk bezwaarschrift dient te worden geadresseerd aan de Directie Wetgeving en Juridische Zaken van het Ministerie van VWS. 

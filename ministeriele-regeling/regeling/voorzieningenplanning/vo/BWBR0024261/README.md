@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit,
 
-Gelet op de [artikelen 71, tweede lid](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [72, derde lid](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [76](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [85a van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op de artikelen 71, tweede lid, 72, derde lid, 76 en 85a van de Wet op het voortgezet onderwijs;
 Besluit:     
 ### Paragraaf  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder: afdeling: een afdeling als bedoeld in [artikel 10c van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); bevoegd gezag: het bevoegd gezag, bedoeld in [artikel 1 van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); Minister: de Minister van Onderwijs, Cultuur en Wetenschap of, voor zover het betreft het landbouwonderwijs, de Minister van Landbouw, Natuur en Voedselkwaliteit; school: een school als bedoeld in [artikel 1 van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); scholengemeenschap: een scholengemeenschap als bedoeld in [artikel 16, eerste lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); tijdelijke nevenvestiging: een tijdelijke nevenvestiging als bedoeld in [artikel 16, tweede lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); wet: de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
+In deze regeling wordt verstaan onder: afdeling: een afdeling als bedoeld in artikel 10c van de wet; bevoegd gezag: het bevoegd gezag, bedoeld in artikel 1 van de wet; Minister: de Minister van Onderwijs, Cultuur en Wetenschap of, voor zover het betreft het landbouwonderwijs, de Minister van Landbouw, Natuur en Voedselkwaliteit; school: een school als bedoeld in artikel 1 van de wet; scholengemeenschap: een scholengemeenschap als bedoeld in artikel 16, eerste lid, van de wet; tijdelijke nevenvestiging: een tijdelijke nevenvestiging als bedoeld in artikel 16, tweede lid, van de wet; wet: de Wet op het voortgezet onderwijs. 
 
 ### Paragraaf  2  
 
@@ -25,20 +25,20 @@ In deze regeling wordt verstaan onder: afdeling: een afdeling als bedoeld in [ar
 
 ####Stichting van scholen, scholengemeenschappen en afdelingen
 
-1.  De methodiek voor het opstellen van de leerlingprognose die voor stichting van een school, scholengemeenschap of afdeling vereist is op grond van de [artikelen 65, eerste en tweede lid](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [68, eerste lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt vastgesteld overeenkomstig bijlage 1.   
+1.  De methodiek voor het opstellen van de leerlingprognose die voor stichting van een school, scholengemeenschap of afdeling vereist is op grond van de artikelen 65, eerste en tweede lid, en 68, eerste lid, van de wet, wordt vastgesteld overeenkomstig bijlage 1.   
 2.  Het bevoegd gezag maakt bij de aanvraag gebruik van het aanvraagformulier dat is opgenomen in bijlage 2.  
 
 ### Artikel  3  
 
 ####Splitsing van scholen en scholengemeenschappen
 
-De methodiek voor het opstellen van de leerlingprognose die voor splitsing van een school of scholengemeenschap vereist is op grond van [artikel 65, eerste en tweede lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt vastgesteld overeenkomstig bijlage 3. 
+De methodiek voor het opstellen van de leerlingprognose die voor splitsing van een school of scholengemeenschap vereist is op grond van artikel 65, eerste en tweede lid, van de wet, wordt vastgesteld overeenkomstig bijlage 3. 
 
 ### Artikel  4  
 
 ####Leerwegondersteunend onderwijs aan een school of scholengemeenschap
 
-1.  De Minister kan op aanvraag van het bevoegd gezag leerwegondersteunend onderwijs als bedoeld in [artikel 69 van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor bekostiging in aanmerking brengen, indien redelijkerwijs kan worden aangenomen dat dit onderwijs zal worden gevolgd door ten minste 40 leerlingen. Indien het betreft een school of scholengemeenschap op de Waddeneilanden, kan de Minister ten gunste van het bevoegd gezag afwijken van het vereiste aantal leerlingen, genoemd in de eerste volzin.   
+1.  De Minister kan op aanvraag van het bevoegd gezag leerwegondersteunend onderwijs als bedoeld in artikel 69 van de wet voor bekostiging in aanmerking brengen, indien redelijkerwijs kan worden aangenomen dat dit onderwijs zal worden gevolgd door ten minste 40 leerlingen. Indien het betreft een school of scholengemeenschap op de Waddeneilanden, kan de Minister ten gunste van het bevoegd gezag afwijken van het vereiste aantal leerlingen, genoemd in de eerste volzin.   
 2.  De methodiek voor het opstellen van de prognose, vereist op grond van het eerste lid, wordt vastgesteld overeenkomstig bijlage 4.   
 3.  Het bevoegd gezag maakt bij de aanvraag gebruik van het aanvraagformulier dat is opgenomen in bijlage 5.   
 4.  De aanvraag gaat vergezeld van een document waaruit blijkt dat de meerderheid van de bevoegde gezagsorganen van de overige scholen en scholengemeenschappen in het desbetreffende samenwerkingsverband instemt met de aanvraag.  
@@ -59,7 +59,7 @@ De methodiek voor het opstellen van de leerlingprognose die voor splitsing van e
 
 ####Omzetting openbare in bijzondere school
 
-1.  Het bevoegd gezag kan een aanvraag voor een omzetting als bedoeld in [artikel 70, eerste lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), indienen voor 1 november van enig kalenderjaar.   
+1.  Het bevoegd gezag kan een aanvraag voor een omzetting als bedoeld in artikel 70, eerste lid, van de wet, indienen voor 1 november van enig kalenderjaar.   
 2.  De Minister besluit voor 1 mei volgend op de aanvraag. Indien het besluit niet voor 1 mei genomen kan worden, stelt de Minister het bevoegd gezag daarvan in kennis en noemt hij daarbij een termijn waarbinnen het besluit wel tegemoet kan worden gezien.   
 3.  De aanvraag gaat vergezeld van een advies van gedeputeerde staten over de voorgenomen omzetting.  
 
@@ -69,21 +69,29 @@ De methodiek voor het opstellen van de leerlingprognose die voor splitsing van e
 
 Het bevoegd gezag meldt voor 1 april van enig kalenderjaar schriftelijk aan de Dienst Uitvoering Onderwijs het voornemen van de omzetting van een bijzondere school in een school van een andere richting per 1 augustus van dat kalenderjaar. 
 
+### Artikel  7a  
+
+####Omzetting bijzondere school in een openbare school
+
+Treedt in werking per 01-10-2014 
+
+Het bevoegd gezag meldt voor 1 april van enig kalenderjaar schriftelijk aan de Minister het voornemen van de omzetting van een bijzondere school in een openbare school per 1 augustus van dat kalenderjaar. Bij de melding toont het bevoegd gezag aan dat het overleg heeft gevoerd met burgemeester en wethouders van de betreffende gemeente. 
+
 ### Artikel  8  
 
 ####Samenvoeging
 
-Het percentage, bedoeld in [artikel 71, tweede lid, onderdelen a en b, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), bedraagt twintig. 
+Het percentage, bedoeld in artikel 71, tweede lid, onderdelen a en b, van de wet, bedraagt twintig. 
 
 ### Artikel  9  
 
 ####Tijdelijke nevenvestiging
 
-1.  Het bevoegd gezag meldt het voornemen tot ingebruikname van een tijdelijke nevenvestiging schriftelijk aan de Dienst Uitvoering Onderwijs uiterlijk vier maanden voorafgaande aan de datum van de feitelijke ingebruikname. Bij die melding wordt aangegeven voor welke hoofdvestiging of nevenvestiging, bedoeld in [artikel 16, tweede lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de tijdelijke nevenvestiging in de tijdelijke huisvestingsbehoefte voorziet.   
+1.  Het bevoegd gezag meldt het voornemen tot ingebruikname van een tijdelijke nevenvestiging schriftelijk aan de Dienst Uitvoering Onderwijs uiterlijk vier maanden voorafgaande aan de datum van de feitelijke ingebruikname. Bij die melding wordt aangegeven voor welke hoofdvestiging of nevenvestiging, bedoeld in artikel 16, tweede lid, van de wet, de tijdelijke nevenvestiging in de tijdelijke huisvestingsbehoefte voorziet.   
 2.  De melding gaat vergezeld van een document waaruit blijkt dat burgemeester en wethouders van de desbetreffende gemeente met ingang van de datum van de feitelijke ingebruikname als bedoeld in het eerste lid de benodigde huisvesting ter beschikking zullen stellen.   
-3.  In afwijking van het tweede lid doet het bevoegd gezag van een school waarvoor jaarlijks een bedrag voor huisvestingskosten wordt betaald op grond van [artikel 76v van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of van een scholengemeenschap als bedoeld in [artikel 2.6, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), de melding vergezeld gaan van een document waaruit blijkt: 
+3.  In afwijking van het tweede lid doet het bevoegd gezag van een school waarvoor jaarlijks een bedrag voor huisvestingskosten wordt betaald op grond van artikel 76v van de wet of van een scholengemeenschap als bedoeld in artikel 2.6, eerste lid, van de Wet educatie en beroepsonderwijs, de melding vergezeld gaan van een document waaruit blijkt: 
 
-a. dat er bij de desbetreffende hoofdvestiging of nevenvestiging sprake is van tijdelijke huisvestingsbehoefte voor een periode van korter dan vijftien jaar, gelet op de prognose van het aantal leerlingen van de desbetreffende hoofdvestiging of nevenvestiging voor vijftien jaar en de normen voor de huisvesting zoals opgenomen in het [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO](../../../../../AMvB/uitvoeringsbesluit/voorzieningen/in/de/huisvesting/povo/BWBR0008562/README.md), en  
+a. dat er bij de desbetreffende hoofdvestiging of nevenvestiging sprake is van tijdelijke huisvestingsbehoefte voor een periode van korter dan vijftien jaar, gelet op de prognose van het aantal leerlingen van de desbetreffende hoofdvestiging of nevenvestiging voor vijftien jaar en de normen voor de huisvesting zoals opgenomen in het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO, en  
 
 b. dat er met ingang van de datum van de feitelijke ingebruikname huisvesting voor de desbetreffende tijdelijke nevenvestiging beschikbaar is.     
 4.  Bij de prognose, bedoeld in het derde lid, wordt uitgegaan van de gegevens, vermeld onder punten A tot en met D, van bijlage 1.  
@@ -102,37 +110,37 @@ Het bevoegd gezag dat een vestiging van een school of scholengemeenschap verplaa
 
 ####Aanvraagprocedure
 
-Het bevoegd gezag van een school of scholengemeenschap maakt voor een aanvraag voor een onderwijsvoorziening als bedoeld in [artikel 72, derde lid, onderdelen a tot en met f, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gebruik van het aanvraagformulier dat is opgenomen in bijlage 6. 
+Het bevoegd gezag van een school of scholengemeenschap maakt voor een aanvraag voor een onderwijsvoorziening als bedoeld in artikel 72, derde lid, onderdelen a tot en met f, van de wet gebruik van het aanvraagformulier dat is opgenomen in bijlage 6. 
 
 ### Artikel  12  
 
 ####Percentage overlap in voedingsgebied nieuwe nevenvestiging
 
-Het percentage, bedoeld in [artikel 72, derde lid, onderdeel b, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), bedraagt twintig. 
+Het percentage, bedoeld in artikel 72, derde lid, onderdeel b, van de wet, bedraagt twintig. 
 
 ### Artikel  13  
 
 ####Berekening leerlingverlies
 
-De methodiek voor het berekenen van het leerlingverlies, bedoeld in [artikel 72, zesde lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt vastgesteld overeenkomstig bijlage 7. 
+De methodiek voor het berekenen van het leerlingverlies, bedoeld in artikel 72, zesde lid, van de wet, wordt vastgesteld overeenkomstig bijlage 7. 
 
 ### Artikel  14  
 
 ####Gebruik gegevens bij leerlingprognose bij regionale samenwerking
 
-Bij het opstellen van een prognose van het aantal leerlingen per vestiging, bedoeld in [artikel 72, tweede lid onder 3°, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt uitgegaan van de gegevens, vermeld onder punten A tot en met D, van bijlage 1. 
+Bij het opstellen van een prognose van het aantal leerlingen per vestiging, bedoeld in artikel 72, tweede lid onder 3°, van de wet, wordt uitgegaan van de gegevens, vermeld onder punten A tot en met D, van bijlage 1. 
 
 ### Artikel  15  
 
 ####Aanvang bekostiging
 
-De bekostiging van een onderwijsvoorziening als bedoeld in [artikel 72, derde lid, onderdelen c tot en met f, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), vangt aan op 1 augustus van het kalenderjaar volgend op de aanvraag of op 1 augustus van een later kalenderjaar indien het bevoegd gezag daarom heeft verzocht, met dien verstande dat de bekostiging niet later aanvangt dan op 1 augustus volgend op het verstrijken van de looptijd van het desbetreffende regionaal plan onderwijsvoorzieningen. 
+De bekostiging van een onderwijsvoorziening als bedoeld in artikel 72, derde lid, onderdelen c tot en met f, van de wet, vangt aan op 1 augustus van het kalenderjaar volgend op de aanvraag of op 1 augustus van een later kalenderjaar indien het bevoegd gezag daarom heeft verzocht, met dien verstande dat de bekostiging niet later aanvangt dan op 1 augustus volgend op het verstrijken van de looptijd van het desbetreffende regionaal plan onderwijsvoorzieningen. 
 
 ### Artikel  16  
 
 ####Aanvullende bekostiging regionaal plan onderwijsvoorzieningen
 
-1.  De Minister kan aanvullende bekostiging verstrekken aan bevoegde gezagsorganen die een regionaal plan onderwijsvoorzieningen als bedoeld in [artikel 72, tweede lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voorbereiden.   
+1.  De Minister kan aanvullende bekostiging verstrekken aan bevoegde gezagsorganen die een regionaal plan onderwijsvoorzieningen als bedoeld in artikel 72, tweede lid, van de wet, voorbereiden.   
 2.  De aanvullende bekostiging, bedoeld in het eerste lid, kan door één van de betrokken bevoegde gezagsorganen worden aangevraagd. De aanvraag wordt ingediend voor 1 augustus 2010.   
 3.  De aanvraag gaat vergezeld van een door betrokken bevoegde gezagsorganen ondertekende intentieverklaring om tot een regionaal plan onderwijsvoorzieningen te komen.   
 4.  De aanvullende bekostiging geldt slechts voor de vestigingen van scholen of scholengemeenschappen van betrokken bevoegde gezagsorganen die gelegen zijn binnen de beoogde regio. Een vestiging van een school of scholengemeenschap kan slechts éénmaal voor de aanvullende bekostiging in aanmerking komen.   
@@ -164,7 +172,7 @@ J.M. van Bijsterveldt-Vliegenthart
 
 ####bij de Regeling voorzieningenplanning VO
 
-Voor bekostiging komt in aanmerking een afdeling, school of scholengemeenschap indien wordt voldaan aan de toekomstige aantallen leerlingen, vereist op grond van de [artikelen 65, eerste en tweede lid](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [68 van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (de zogenaamde stichtingsnormen of in termen van deze bijlage en de aanvraagformulieren: netto-potentiëlen genoemd). Het aantonen van het voldoen aan de stichtingsnormen kan op twee wijzen plaatsvinden: een indirecte meting of een directe meting. 
+Voor bekostiging komt in aanmerking een afdeling, school of scholengemeenschap indien wordt voldaan aan de toekomstige aantallen leerlingen, vereist op grond van de artikelen 65, eerste en tweede lid, en 68 van de wet (de zogenaamde stichtingsnormen of in termen van deze bijlage en de aanvraagformulieren: netto-potentiëlen genoemd). Het aantonen van het voldoen aan de stichtingsnormen kan op twee wijzen plaatsvinden: een indirecte meting of een directe meting. 
 
 #### *Stichting nieuwe school, scholengemeenschap of afdeling op grond van een indirecte meting* 
 
@@ -194,7 +202,7 @@ E. Het bruto potentieel (A×B×C×D).
 
 F. Het deel van het bruto potentieel van de betrokken gemeente dat valt in het voedingsgebied van een bestaande school of afdeling van dezelfde soort en richting.  
 
-G. Het netto potentieel (E–F).   Het totale potentieel voor de nieuwe school is de optelling van de netto potentiëlen over het voedingsgebied. Het totale potentieel moet gelijk zijn aan of groter zijn dan het aantal leerlingen per schoolsoort of afdeling als bedoeld in artikel 65, eerste en tweede lid, of [artikel 68, eerste lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
+G. Het netto potentieel (E–F).   Het totale potentieel voor de nieuwe school is de optelling van de netto potentiëlen over het voedingsgebied. Het totale potentieel moet gelijk zijn aan of groter zijn dan het aantal leerlingen per schoolsoort of afdeling als bedoeld in artikel 65, eerste en tweede lid, of artikel 68, eerste lid, van de wet. 
 
 #### *Termijn* 
 
@@ -240,7 +248,7 @@ Niet opgenomen.
 
 ####Splitsing school of scholengemeenschap
 
-Onder splitsing wordt verstaan het opsplitsen van een bestaande school of scholengemeenschap in twee scholen of scholengemeenschappen van dezelfde schoolsoort(en) en van dezelfde richting. De vraag naar splitsing van een school of scholengemeenschap in twee gelijksoortige scholen of scholengemeenschappen doet zich met name voor bij een zodanige groei van het aantal leerlingen van de school of scholengemeenschap dat het totaal aantal leerlingen ten minste tweemaal de stichtingsnorm bedraagt. Bij een splitsing is het mogelijk een nieuwe school of scholengemeenschap te vormen die niet alle schoolsoorten of niet alle vbo-afdelingen omvat van de te splitsen school of scholengemeenschap. Bij splitsing is [artikel 66, eerste tot en met het derde lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) van toepassing, met dien verstande dat in het tweede lid ‘de verlangde richting’ wordt uitgezonderd en voor ‘prognose over de te verwachten omvang’ wordt gelezen: ‘splitsingsplan’. Artikel 66, vierde lid, van de wet is slechts onverkort op splitsing van toepassing indien voor de nieuwe school of scholengemeenschap nieuwe huisvesting benodigd is. Indien de nieuwe school in een reeds bestaand schoolgebouw wordt gehuisvest, dient bij splitsing voor artikel 66, vierde lid, te worden gelezen: De bekostiging vangt aan op 1 augustus van het eerste kalenderjaar na het besluit van Onze Minister. 
+Onder splitsing wordt verstaan het opsplitsen van een bestaande school of scholengemeenschap in twee scholen of scholengemeenschappen van dezelfde schoolsoort(en) en van dezelfde richting. De vraag naar splitsing van een school of scholengemeenschap in twee gelijksoortige scholen of scholengemeenschappen doet zich met name voor bij een zodanige groei van het aantal leerlingen van de school of scholengemeenschap dat het totaal aantal leerlingen ten minste tweemaal de stichtingsnorm bedraagt. Bij een splitsing is het mogelijk een nieuwe school of scholengemeenschap te vormen die niet alle schoolsoorten of niet alle vbo-afdelingen omvat van de te splitsen school of scholengemeenschap. Bij splitsing is artikel 66, eerste tot en met het derde lid, van de wet van toepassing, met dien verstande dat in het tweede lid ‘de verlangde richting’ wordt uitgezonderd en voor ‘prognose over de te verwachten omvang’ wordt gelezen: ‘splitsingsplan’. Artikel 66, vierde lid, van de wet is slechts onverkort op splitsing van toepassing indien voor de nieuwe school of scholengemeenschap nieuwe huisvesting benodigd is. Indien de nieuwe school in een reeds bestaand schoolgebouw wordt gehuisvest, dient bij splitsing voor artikel 66, vierde lid, te worden gelezen: De bekostiging vangt aan op 1 augustus van het eerste kalenderjaar na het besluit van Onze Minister. 
 
 ####Definitie van het voedingsgebied
 
@@ -248,7 +256,7 @@ In afwijking van de definitie van het voedingsgebied in bijlage 1 geldt bij spli
 
 ####Vereisten
 
-1.  *Tweemaal de stichtingsnorm.*  Van de te splitsen school of scholengemeenschap dient het aantal leerlingen op de teldatum voorafgaand aan het jaar van de aanvraag, minimaal gelijk te zijn aan tweemaal de stichtingsnorm, bedoeld in de [artikelen 65, eerste en tweede lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+1.  *Tweemaal de stichtingsnorm.*  Van de te splitsen school of scholengemeenschap dient het aantal leerlingen op de teldatum voorafgaand aan het jaar van de aanvraag, minimaal gelijk te zijn aan tweemaal de stichtingsnorm, bedoeld in de artikelen 65, eerste en tweede lid, van de wet.  
 
 2.  *Splitsingsplan*  Bij de aanvraag tot splitsing van een school of scholengemeenschap dient een splitsingsplan te worden bijgesloten. Een splitsingsplan voldoet aan de volgende voorwaarden: 
 
@@ -313,9 +321,9 @@ Prognoses voor beide scholen over 10 jaar: Zie boven maar dan met basisgeneratie
 
 #### *Het aanbieden van leerwegondersteunend onderwijs voor een school* 
 
-Op grond van [artikel 69, tweede lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is het mogelijk dat een school of scholengemeenschap in aanmerking komt voor bekostiging van leerwegondersteunend onderwijs, de zogenaamde licentie leerwegondersteunend onderwijs. In dit verband wordt een tweetal situaties onderscheiden, namelijk de aanvraag door een school of scholengemeenschap die tot nu toe niet over een licentie beschikt, of de aanvraag voor verbreding van de bestaande licentie naar meer leerwegen of vestigingen. Een school of scholengemeenschap die tot nu toe niet over een licentie beschikt Voor het verkrijgen van bekostiging is een aantal van 40 leerlingen vereist. Dit kan op twee manier worden aangetoond: 
+Op grond van artikel 69, tweede lid, van de wet is het mogelijk dat een school of scholengemeenschap in aanmerking komt voor bekostiging van leerwegondersteunend onderwijs, de zogenaamde licentie leerwegondersteunend onderwijs. In dit verband wordt een tweetal situaties onderscheiden, namelijk de aanvraag door een school of scholengemeenschap die tot nu toe niet over een licentie beschikt, of de aanvraag voor verbreding van de bestaande licentie naar meer leerwegen of vestigingen. Een school of scholengemeenschap die tot nu toe niet over een licentie beschikt Voor het verkrijgen van bekostiging is een aantal van 40 leerlingen vereist. Dit kan op twee manier worden aangetoond: 
 
-1. Door middel van het aantal ingeschreven en doorverwezen leerlingen met een indicatie voor leerwegondersteunend onderwijs van de Regionale Verwijzingscommissie, bedoeld in de [artikelen 10e](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10g van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) van de afgelopen vier jaren, voorzien van de herkomstgegevens van de leerlingen voor de betreffende vestiging waarvoor de aanvraag wordt gedaan;  
+1. Door middel van het aantal ingeschreven en doorverwezen leerlingen met een indicatie voor leerwegondersteunend onderwijs van de Regionale Verwijzingscommissie, bedoeld in de artikelen 10e en 10g van de wet van de afgelopen vier jaren, voorzien van de herkomstgegevens van de leerlingen voor de betreffende vestiging waarvoor de aanvraag wordt gedaan;  
 
 2. Door middel van het aantal reeds ingeschreven leerlingen met een indicatie als bedoeld onder 1, voorzien van de herkomstgegevens van de leerlingen voor de betreffende vestiging waarvoor de aanvraag wordt gedaan.   Voor beide wijzen van aantonen worden bij de berekening van het potentieel niet meegenomen, leerlingen die woonachtig zijn binnen een straal van 10 kilometer van het vestigingsadres van omliggende scholen met leerwegondersteunend onderwijs van dezelfde richting en dezelfde schoolsoort als de aanvrager. 
 
@@ -341,7 +349,7 @@ Niet opgenomen.
 
 #### *Berekening leerlingverlies*
 
-Bij een aanvraag op grond van [artikel 72, derde of vierde lid, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt het leerlingverlies bij een vestiging van een school of scholengemeenschap van een bevoegd gezag dat niet deelneemt aan de regionale samenwerking, door dat bevoegd gezag als volgt berekend. In het volgende wordt onder een school tevens een scholengemeenschap verstaan. 
+Bij een aanvraag op grond van artikel 72, derde of vierde lid, van de wet, wordt het leerlingverlies bij een vestiging van een school of scholengemeenschap van een bevoegd gezag dat niet deelneemt aan de regionale samenwerking, door dat bevoegd gezag als volgt berekend. In het volgende wordt onder een school tevens een scholengemeenschap verstaan. 
 
 #### *a. Algemeen* 
 
@@ -349,11 +357,11 @@ Op basis van het jaar voorafgaand aan het jaar van de aanvraag wordt het leerlin
 
 #### *b. Nadere uitwerking berekeningsmethode bij verplaatsing, uitbreiding met afsluitend onderwijs, gemengde leerweg of een vbo-afdeling* 
 
-Het leerlingverliespercentage wordt bij een voorziening als bedoeld in [artikel 72, derde lid, onderdelen a, d, e en f, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gelijkgesteld aan het leerlingverliespercentage van de betreffende vestiging, berekend op basis van de leerjaren drie en hoger. Dit houdt in, dat het leerlingverliespercentage in de leerjaren één en twee gelijkgesteld wordt aan dat voor de leerjaren drie en hoger. Bij een categoriale school wordt het leerlingverlies berekend op basis van alle leerjaren. 
+Het leerlingverliespercentage wordt bij een voorziening als bedoeld in artikel 72, derde lid, onderdelen a, d, e en f, van de wet gelijkgesteld aan het leerlingverliespercentage van de betreffende vestiging, berekend op basis van de leerjaren drie en hoger. Dit houdt in, dat het leerlingverliespercentage in de leerjaren één en twee gelijkgesteld wordt aan dat voor de leerjaren drie en hoger. Bij een categoriale school wordt het leerlingverlies berekend op basis van alle leerjaren. 
 
 #### *c. Nadere uitwerking berekeningsmethode bij een nieuwe nevenvestiging* 
 
-Het leerlingverlies van een vestiging van de betreffende school of scholengemeenschap wordt bij een voorziening als bedoeld in [artikel 72, derde lid onderdeel b, van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) berekend op basis van de eerste twee leerjaren voor wat betreft vbo en mavo en voor de eerste drie leerjaren voor wat betreft havo en vwo; daarbij wordt het aandeel van de schoolsoorten voor alle leerjaren in de onderbouw gelijkgesteld aan het aandeel van die schoolsoorten in leerjaar drie. Voor het voedingsgebied van de vestiging van de school van de aanvrager (dus van de nieuwe nevenvestiging) geldt de definitie als in bijlage 1. Bij het toerekenen van de leerlingen per schoolsoort aan de vestiging van de school van de aanvrager – op basis van de kortste afstand, hemelsbreed gemeten – worden de viercijferige postcodegebieden gehanteerd die geheel of gedeeltelijk op de kortste afstand van de nieuwe vestiging zijn gelegen. 
+Het leerlingverlies van een vestiging van de betreffende school of scholengemeenschap wordt bij een voorziening als bedoeld in artikel 72, derde lid onderdeel b, van de wet berekend op basis van de eerste twee leerjaren voor wat betreft vbo en mavo en voor de eerste drie leerjaren voor wat betreft havo en vwo; daarbij wordt het aandeel van de schoolsoorten voor alle leerjaren in de onderbouw gelijkgesteld aan het aandeel van die schoolsoorten in leerjaar drie. Voor het voedingsgebied van de vestiging van de school van de aanvrager (dus van de nieuwe nevenvestiging) geldt de definitie als in bijlage 1. Bij het toerekenen van de leerlingen per schoolsoort aan de vestiging van de school van de aanvrager – op basis van de kortste afstand, hemelsbreed gemeten – worden de viercijferige postcodegebieden gehanteerd die geheel of gedeeltelijk op de kortste afstand van de nieuwe vestiging zijn gelegen. 
 
 #### *d. Vermindering leerlingverlies bij als de aanvraag uitgaat van een andere richting dan de bestaande school* 
 
@@ -361,5 +369,5 @@ Van het leerlingverlies zoals berekend op grond van de berekeningsmethode onder 
 
 #### *Rekenvoorbeeld* 
 
-Stel school A wil op vestiging 01 (A01) een uitbreiding met havo afsluitend onderwijs. Op korte afstand ligt vestiging 02 van school B (B02). Gelet op de kortste afstand kan het leerlingverlies voor de vestiging B02 voor havo, leerjaren drie tot en met vijf berekend worden op 60 leerlingen (20%). Vervolgens wordt aangenomen, dat ook voor de leerjaren één en twee van het havo op vestiging B02 een leerlingverlies van 20% geldt. Daarmee komt het totale leerlingverlies voor het havo bijvoorbeeld op 80 leerlingen. Vestiging B02 omvat naast havo ook een andere schoolsoort namelijk vwo. Het aantal leerlingen van B02 is 660. Het leerlingverliespercentage voor de vestiging met havo en vwo is 80 gedeeld door 660 is 12%. Daarvan wordt, als de bestaande vestiging B02 van een andere richting is dan het aangevraagde havo afsluitend onderwijs, 25% afgetrokken (zie onder d). Het leerlingverliespercentage is dan 9% (kleiner dan 10%). Een eventueel bezwaar van het bevoegd gezag van school B tegen de uitbreiding wordt dan niet gehonoreerd. Zou B02 van dezelfde richting zijn als het aangevraagde havo afsluitend onderwijs dan wordt het bezwaar gehonoreerd (verliespercentage is 12% en dus hoger dan de grens van 10%). Verplaatsing over een afstand van minder dan drie kilometer hemelsbreed is toegestaan op basis van [artikel 71, eerste lid, van de Wet op het Voorgezet Onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Daarvoor is dus geen leerlingverliesberekening nodig. 
+Stel school A wil op vestiging 01 (A01) een uitbreiding met havo afsluitend onderwijs. Op korte afstand ligt vestiging 02 van school B (B02). Gelet op de kortste afstand kan het leerlingverlies voor de vestiging B02 voor havo, leerjaren drie tot en met vijf berekend worden op 60 leerlingen (20%). Vervolgens wordt aangenomen, dat ook voor de leerjaren één en twee van het havo op vestiging B02 een leerlingverlies van 20% geldt. Daarmee komt het totale leerlingverlies voor het havo bijvoorbeeld op 80 leerlingen. Vestiging B02 omvat naast havo ook een andere schoolsoort namelijk vwo. Het aantal leerlingen van B02 is 660. Het leerlingverliespercentage voor de vestiging met havo en vwo is 80 gedeeld door 660 is 12%. Daarvan wordt, als de bestaande vestiging B02 van een andere richting is dan het aangevraagde havo afsluitend onderwijs, 25% afgetrokken (zie onder d). Het leerlingverliespercentage is dan 9% (kleiner dan 10%). Een eventueel bezwaar van het bevoegd gezag van school B tegen de uitbreiding wordt dan niet gehonoreerd. Zou B02 van dezelfde richting zijn als het aangevraagde havo afsluitend onderwijs dan wordt het bezwaar gehonoreerd (verliespercentage is 12% en dus hoger dan de grens van 10%). Verplaatsing over een afstand van minder dan drie kilometer hemelsbreed is toegestaan op basis van artikel 71, eerste lid, van de Wet op het Voorgezet Onderwijs. Daarvoor is dus geen leerlingverliesberekening nodig. 
 

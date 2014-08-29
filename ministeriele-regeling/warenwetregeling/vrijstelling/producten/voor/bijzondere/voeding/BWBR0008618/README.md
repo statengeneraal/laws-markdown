@@ -5,7 +5,7 @@
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op richtlijn nr. 96/84/EG van het Europees Parlement en de Raad van 19 december 1996 (PbEG 1997, L 48) tot wijziging van Richtlijn 89/398/EEG betreffende de onderlinge aanpassing van de wetgeving van de Lid-Staten inzake voor bijzondere voeding bestemde levensmiddelen, alsmede op [artikel 16, eerste lid, van de Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op richtlijn nr. 96/84/EG van het Europees Parlement en de Raad van 19 december 1996 (PbEG 1997, L 48) tot wijziging van Richtlijn 89/398/EEG betreffende de onderlinge aanpassing van de wetgeving van de Lid-Staten inzake voor bijzondere voeding bestemde levensmiddelen, alsmede op artikel 16, eerste lid, van de Warenwet;
 Besluit:     
 
 ### Artikel 1  
