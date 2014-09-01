@@ -4,8 +4,6 @@
 
 ####Inleiding
 
-Treedt in werking per 01-09-2014 
-
 Het sluitstuk van de strafrechtsketen wordt gevormd door de executie van de door de rechter opgelegde straffen en maatregelen of door de officier van justitie getroffen ontnemingsschikkingen en uitgevaardigde strafbeschikkingen.<sup> 1 De Wet OM-afdoening, op grond waarvan een strafbeschikking kan worden uitgevaardigd, wordt gefaseerd ingevoerd. In die gevallen waarvoor (nog) geen strafbeschikking kan worden uitgevaardigd, kan het OM transactievoorwaarden stellen (zie nader de Aanwijzing OM-afdoening). Het CJIB voert ook deze voorwaarden in bepaalde gevallen uit; in dit geval is echter geen sprake van executie in de zin van art. 553 Sv. </sup>  Het Centraal Justitieel Incassobureau (CJIB) is de landelijke dienst die een belangrijk deel van het administratieve traject van de executiefase verzorgt en bewaakt, en daarnaast is belast met de tenuitvoerlegging van het overgrote deel van de strafrechtelijke sancties, te weten de financiële sancties. Om het executietraject zo snel, zo volledig en zo efficiënt mogelijk te laten verlopen, gelden de in deze aanwijzing opgenomen (keten)afspraken. Deze aanwijzing is onderverdeeld in drie hoofdstukken: 
 
 1) De formeel-wettelijke verantwoordelijkheid van het Openbaar Ministerie  
@@ -16,8 +14,6 @@ Het sluitstuk van de strafrechtsketen wordt gevormd door de executie van de door
 ### Hoofdstuk  I  
 
 ####De formeel-wettelijke verantwoordelijkheid van het Openbaar Ministerie
-
-Treedt in werking per 01-09-2014 
 
 *Opbouw hoofdstuk*  Dit hoofdstuk is onderverdeeld in de volgende paragrafen:  
 
@@ -31,21 +27,15 @@ Treedt in werking per 01-09-2014
 
 ####Wettelijk kader
 
-Treedt in werking per 01-09-2014 
-
 Art. 553 Sv bepaalt dat de tenuitvoerlegging van rechterlijke beslissingen geschiedt door het Openbaar Ministerie (OM), dan wel op voordracht van het OM door Onze Minister. Ingevolge art. 78b Sr geldt dit eveneens voor de tenuitvoerlegging van strafbeschikkingen. Art. 553 Sv geeft daarmee aan dat naast het OM ook landelijke diensten die vallen onder de verantwoordelijkheid van de Minister van Veiligheid en Justitie, belast zijn met de tenuitvoerlegging van rechterlijke beslissingen en strafbeschikkingen. Het OM is verplicht door de rechter opgelegde straffen en maatregelen te executeren. Dit betekent dat het OM in geen geval de bevoegdheid heeft straffen te compenseren anders dan van rechtswege of krachtens een rechterlijke uitspraak ex art. 90 lid 4 Sv. Op grond van art. 257a Sv kan de officier van justitie een strafbeschikking uitvaardigen en op grond van art. 74 Sr kan hij transactievoorwaarden stellen. Verder kan de officier van justitie op grond van art. 511c Sv een ontnemingsschikking treffen.    
 ### Paragraaf  2  
 
 ####Betrokken landelijke diensten en andere uitvoeringsinstanties
 
-Treedt in werking per 01-09-2014 
-
 Het CJIB is de landelijke dienst die de tenuitvoerlegging verzorgt van het overgrote deel van de strafrechtelijke sancties, te weten de financiële sancties. De executie van alle vrijheidsbenemende straffen en maatregelen vindt plaats door de Dienst Justitiële Inrichtingen (DJI). Tevens heeft de DJI de verantwoordelijkheid voor de toeleiding naar forensische zorg als bedoeld in het Interimbesluit forensische zorg. De tenuitvoerlegging van taakstraffen bij meerderjarigen en het feitelijke toezicht op de naleving van bijzondere voorwaarden bij meerderjarigen in het kader van de TBS met voorwaarden, de voorwaardelijke invrijheidstelling, de voorwaardelijke veroordeling, de schorsing van de voorlopige hechtenis en het voorwaardelijk sepot vinden plaatst door de Reclassering. Het CJIB bewaakt de voortgang en termijnen van tenuitvoerlegging van deze voorwaardelijke sancties. Als de aard van de bijzondere voorwaarde dit noodzakelijk maakt, wordt ook de politie bij de handhaving betrokken. De tenuitvoerlegging van jeugdtaakstraffen en de voorwaardelijke jeugdsancties vindt plaats door de Raad voor de Kinderbescherming en de Bureaus voor Jeugdzorg. De tenuitvoerlegging van de rechterlijke vrijheidsbeperkende maatregel en de gedragsaanwijzing in verband met overlast worden gehandhaafd door de politie. Het OM levert met uitzondering van rechterlijke geldboetes (vonnissen zowel als arresten) en strafbeschikkingen in beginsel alleen onherroepelijke beslissingen aan bij het CJIB. Bij de aanlevering levert het OM de executieverjaringstermijn mee. OM en CJIB kunnen nadere werkafspraken maken over de aanlevering van nog niet onherroepelijke rechterlijke beslissingen, met het oog op de centrale coördinatie en bewaking daarvan door het CJIB.    
 ### Paragraaf  3  
 
 ####Taken en bevoegdheden OM
-
-Treedt in werking per 01-09-2014 
 
 ###*• Aanlevering van te executeren beslissingen*
 
@@ -100,8 +90,6 @@ Het OM geeft een gratie-advies in alle zaken die door een meervoudige kamer zijn
 
 ####De taken en werkprocessen van het CJIB
 
-Treedt in werking per 01-09-2014 
-
 *Opbouw hoofdstuk*  Dit hoofdstuk is onderverdeeld in de volgende paragrafen:  
 
 | --- | --- |
@@ -125,14 +113,10 @@ Treedt in werking per 01-09-2014
 
 ####Definities en uitgangspunten
 
-Treedt in werking per 01-09-2014 
-
 Alle rechterlijke beslissingen, ontnemingsschikkingen ex art. 511c Sv en strafbeschikkingen die door het CJIB ten uitvoer moeten worden gelegd, moeten door het parket en de CVOM zo snel mogelijk aan het CJIB worden aangeboden. Het besluit waarbij bijzondere voorwaarden aan de voorwaardelijke invrijheidstelling zijn verbonden wordt zo snel mogelijk door de Centrale Voorziening voorwaardelijke invrijheidstelling van het OM (hierna: CVvi) aan het CJIB aangeboden. De aanwijzing is tevens van toepassing op minderjarigen, tenzij anders is bepaald of tenzij dit uit de context van de aanwijzing voortvloeit. Waar gesproken wordt over vrijheidsstraf dient mede te worden verstaan jeugddetentie en waar gesproken wordt over vervangende hechtenis dient mede te worden verstaan vervangende jeugddetentie, eveneens tenzij anders is bepaald of tenzij dit uit de context van de Aanwijzing voortvloeit. De regeling omtrent de voorwaardelijke invrijheidstelling en het zelfmeldbeleid zoals opgenomen in bijlage 1 is niet van toepassing op jeugddetentie. De inning van de kosten van openbaarmaking van de uitspraak vindt ingevolge art. 36 lid 3 Sr plaats overeenkomstig de inning en incasso van een geldboete opgelegd in een vonnis of arrest. Wanneer in het navolgende wordt gesproken over executie van de geldboete wordt daaronder tevens de inning van de kosten van openbaarmaking van de uitspraak verstaan. Vonnissen/arresten waarin als bijkomende straf is opgelegd dat de uitspraak wordt gepubliceerd, worden door het CJIB geëxecuteerd indien deze uitspraken onherroepelijk zijn. Naast de inning draagt het CJIB in die gevallen zorg voor de publicatie van de door het OM aangeleverde tekst van de uitspraak. Onder verwijzing naar de Richtlijn voor strafvordering bij meerderjarige veelplegers bepaalt het OM welke reeds opgelegde straffen en maatregelen worden ‘uitgezeten’ voordat met de tenuitvoerlegging van de ISD-maatregel wordt aangevangen. Van overige openstaande straffen en maatregelen wordt de executie persoonsgericht voortgezet dan wel wordt de executie gestopt.   
 ### 1.1  
 
 ####Definities
-
-Treedt in werking per 01-09-2014 
 
 *Bestrafte:* degene jegens wie een strafbeschikking is uitgevaardigd.  
 
@@ -161,8 +145,6 @@ Treedt in werking per 01-09-2014
 
 ####Uitgangspunten bij de inning van geldboetes, schadevergoedings- en ontnemingsmaatregelen, Europese geldelijke sancties en Europese confiscatiebeslissingen
 
-Treedt in werking per 01-09-2014 
-
 Alle opgelegde geldboetes, toegewezen schadevergoedings- en ontnemingsmaatregelen, Europese geldelijke sancties en Europese confiscatiebeslissingen dienen zo snel mogelijk te worden geëxecuteerd, bij voorkeur door inning. De executie van de geldboetes en schadevergoedingsmaatregelen wordt gestaakt en de vordering wordt afgeboekt indien de veroordeelde/bestrafte overlijdt. De executie van ontnemingsmaatregelen behoeft niet te worden gestaakt indien de veroordeelde overlijdt. De executie van inkomende Europese geldelijke sancties wordt gesloten en geretourneerd aan de beslissingsstaat indien de veroordeelde/bestrafte overlijdt. De executie van inkomende Europese confiscatiebeslissingen kan, afhankelijk van de kwalificatie van de zaak door het CJIB en de executie mogelijkheden die door de beslissingsstaat zijn meegegeven met de betreffende zaak, worden gesloten en geretourneerd indien de veroordeelde/bestrafte overlijdt. Wanneer de geldboete, schadevergoedingsmaatregel of ontnemingsmaatregel bij rechterlijke beslissing is opgelegd, wordt een arrestatiebevel uitgevaardigd indien de inning en/of het verhaal met/zonder dwangbevel niet succesvol kan worden afgesloten. Bij ontnemingsmaatregelen gewezen bij vonnis/arrest na 1 september 2003 dient dan wel eerst machtiging tot tenuitvoerlegging van lijfsdwang te zijn verkregen Indien de beslissingsstaat heeft aangegeven de vervangende hechtenis te willen toepassen dan zal in geval van een inkomende Europese geldelijke sanctie eerst door de officier van justitie te Leeuwarden verlof tot tenuitvoerlegging van vervangende hechtenis moeten zijn verkregen. Bij een inkomende Europese confiscatiebeslissing zal – wanneer de zaak voor tenuitvoerlegging is gekwalificeerd als een ontneming – verlof tot tenuitvoerlegging van lijfsdwang door de officier van justitie te Leeuwarden moeten zijn verkregen. Voor toepassing van lijfsdwang is niet nodig dat de beslissingsstaat bij overdracht heeft aangegeven vervangende hechtenis toe te willen passen. Bij een inkomende Europese confiscatiebeslissing – die voor de tenuitvoerlegging wordt gekwalificeerd als een verbeurdverklaring – kan indien de beslissingsstaat heeft aangegeven de vervangende hechtenis te willen toepassen deze direct, zonder verlof tot tenuitvoerlegging, worden toegepast. Als datum van betaling zal in beginsel gelden de datum waarop de rekening van het CJIB is gecrediteerd. De kosten van het verhaal komen binnen wettelijke grenzen ten laste van veroordeelde. De door de parketten ontvangen betalingen worden, onder vermelding van het parketnummer, overgemaakt naar het CJIB. Indien bij betaling aan het CJIB geen betalingskenmerk is vermeld en er sprake is van een samenloop van financiële vorderingen wordt bij de bestemming van gelden op de openstaande vorderingen de volgende volgorde in acht genomen: 
 
 – schadevergoedingsmaatregelen  
@@ -183,8 +165,6 @@ Alle opgelegde geldboetes, toegewezen schadevergoedings- en ontnemingsmaatregele
 ### 1.3  
 
 ####Uitgangspunten bij de tenuitvoerlegging van (vervangende) vrijheidsstraffen
-
-Treedt in werking per 01-09-2014 
 
 In het algemeen geldt ter zake de executie van vrijheidsstraffen/vervangende hechtenis en overige vrijheidsbenemende sancties de volgorde van tenuitvoerlegging: 
 
@@ -227,33 +207,23 @@ In het algemeen geldt ter zake de executie van vrijheidsstraffen/vervangende hec
 
 ####Taken CJIB
 
-Treedt in werking per 01-09-2014 
-
 Het CJIB is belast met het verzenden of het doen uitreiken van strafbeschikkingen wanneer uitreiking nog niet heeft plaatsgevonden. Verder is het CJIB belast met de executie van geldboetes, schadevergoedings- en ontnemingsmaatregelen en de publicatie en inning van de kosten voor publicatie van de uitspraak opgelegd bij rechterlijke beslissing of strafbeschikking. Tevens is het CJIB belast met de tenuitvoerlegging van Europese geldelijke sancties, Europese confiscatiebeslissingen en de inning van ontnemingsschikkingen ex art. 511c Sv. Het CJIB is in opdracht van het OM belast met de administratieve ondersteuning van het OM waaronder registratie en proces/termijnbewaking van de tenuitvoerlegging van de vrijheidsstraffen en taakstraffen van meerderjarigen en met het toezicht op de voorwaarden verbonden aan de voorwaardelijke invrijheidstelling. Het CJIB legt in een geautomatiseerd systeem de gegevens vast omtrent verzending of uitreiking van de strafbeschikkingen en de inning en incasso van geldboetes, schadevergoedings- en ontnemingsmaatregelen en de tenuitvoerlegging van vrijheidsstraffen, taakstraffen van meerderjarigen, de bijzondere voorwaarden verbonden aan het voorwaardelijk sepot, de schorsing van de voorlopige hechtenis of de voorwaardelijke veroordeling voor meerderjarigen zover daarop toezicht door de Reclassering of de politie van toepassing is en de bijzondere voorwaarden verbonden aan de voorwaardelijke invrijheidstelling. Het CJIB draagt zorg voor de routering van te betekenen gerechtelijke stukken aan personen die in het opsporingsregister zijn opgenomen en aan personen die gedetineerd zijn in een PI. Het CJIB is verantwoordelijk voor de routering en coördinatie van de arrestaties ter zake van de schorsing / gehele of gedeeltelijke herroeping van de voorwaardelijke invrijheidstelling, ‘lopende’ vrijheidsstraffen, de vervangende hechtenis, de gijzeling en de lijfsdwang in ontnemingszaken. Het CJIB is daarnaast verantwoordelijk voor het vervaardigen, toedelen en verzenden van arrestatiebevelen en opdrachten gijzeling aan de regionale eenheden van de politie. Het CJIB legt de gegevens omtrent de arrestatiebevelen en opdrachten gijzeling vast in een geautomatiseerd systeem. Het CJIB zorgt ervoor dat vrijheidsbeperkende voorwaarden in het kader van een voorwaardelijke veroordeling aan de politie worden gerouteerd en na de afloop van de proeftijd weer worden beëindigd.    
 ### Paragraaf  3  
 
 ####Afbakening bevoegdheden CJIB
-
-Treedt in werking per 01-09-2014 
 
 Het CJIB is belast met het verzenden of het doen uitreiken van strafbeschikkingen wanneer uitreiking nog niet heeft plaatsgevonden. Verder is het CJIB belast met de executie van geldboetes, schadevergoedings- en ontnemingsmaatregelen, de inning van ontnemingsschikkingen ex art. 511c Sv en de publicatie en inning van de kosten voor publicatie van de uitspraak opgelegd bij rechterlijke beslissing of strafbeschikking. Tevens is het CJIB als Centrale Autoriteit belast met de tenuitvoerlegging van Europese geldelijke sancties, Europese confiscatiebeslissingen en is het CJIB als Centrale Autoriteit verantwoordelijk voor de overdracht van sancties binnen de EU voor Europese geldelijke sanctie en Europese confiscatiebeslissingen. Het CJIB is bevoegd tot het verschaffen van informatie aan het OM, de Reclassering en in voorkomende gevallen DJI ten behoeve van een goede uitvoering van de taakstraf van meerderjarigen en het toezicht op de voorwaarden verbonden aan de voorwaardelijke invrijheidstelling. De coördinatie van de tenuitvoerlegging van voorlopige hechtenis, uitleveringsdetentie en aanhoudingen op internationale buitenlandse signaleringen blijft de verantwoordelijkheid van het parket. Indien het CJIB vermoedelijke onjuistheden constateert in de aangeleverde gegevens, dan kan het de gegevens bij het parket verifiëren. Wanneer sprake is van onjuistheden in de aangeleverde gegevens wordt met het parket overlegd over de te ondernemen stappen.    
 ### Paragraaf  4  
 
 ####Tenuitvoerlegging van geldboetes, schadevergoedings- en ontnemingsmaatregelen, Europese geldelijke sancties en Europese confiscatiebeslissingen
 
-Treedt in werking per 01-09-2014 
-
 ### 4.1  
 
 ####Algemene uitgangspunten
 
-Treedt in werking per 01-09-2014 
-
 ### 4.1.1  
 
 ####Inningsfase algemeen
-
-Treedt in werking per 01-09-2014 
 
 ### *Vonnissen en arresten* 
 
@@ -268,47 +238,33 @@ Door het OM afgesloten ontnemingsschikkingen worden zo spoedig mogelijk na het a
 
 ####Incassofase algemeen
 
-Treedt in werking per 01-09-2014 
-
 Als op grond van de eerste aanschrijving en eventuele aanmaningen met aangehechte OLA’s geen – volledige – betaling plaatsvindt, wordt getracht te executeren door middel van toepassing van verhaal met of zonder dwangbevel. De dwangbevelen worden door het CJIB ter executie in handen gesteld van een deurwaarder. Het CJIB bewaakt de voortgang van de afhandeling. Van toepassing van verhaal kan worden afgezien indien er voldoende aanwijzingen zijn die aannemelijk maken dat dit niet zal leiden tot afdoening van de zaak. Onherroepelijke geldboetevonnissen, schadevergoedingsmaatregelen, ontnemingsmaatregelen en verbeurdverklaringen kunnen ter executie worden overgedragen aan de centrale/bevoegde autoriteit van de EU-lidstaat waar de veroordeelde/bestrafte inkomsten of vermogen of zijn vaste woon- of verblijfplaats heeft. In de incassofase wordt zo veel mogelijk slechts één lokale instantie, bijvoorbeeld een gerechtsdeurwaarder, belast met de executie van de vonnissen/arresten/strafbeschikkingen tegen een veroordeelde/bestrafte. Indien verhaal niet tot (voldoende) resultaat leidt, wordt in het geval van een vonnis of arrest een arrestatiebevel uitgevaardigd om vervangende hechtenis ten uitvoer te leggen. Tevens kan signalering in het OPS plaatsvinden. In het geval van een strafbeschikking kan, indien er sprake is van een geldboete, een vordering gijzeling ex art. 578b Sv worden ingediend. Als van gijzeling wordt afgezien, de vordering wordt afgewezen of als gijzeling geen betaling oplevert wordt beoordeeld of overdracht van de zaak aan het OM zal plaatsvinden. In het geval de uitvaardigende lidstaat heeft aangegeven vervangende hechtenis te willen toepassen ter zake van een inkomende Europese geldelijke sanctie dan zal hiertoe eerst door de officier van justitie te Leeuwarden verlof verkregen dienen te zijn. Bij een inkomende Europese confiscatiebeslissing zal – wanneer de zaak voor tenuitvoerlegging is gekwalificeerd als een ontneming – verlof tot tenuitvoerlegging van lijfsdwang door de officier van justitie te Leeuwarden moeten zijn verkregen. Voor toepassing van lijfsdwang is niet nodig dat de beslissingsstaat bij overdracht heeft aangegeven vervangende hechtenis toe te willen passen. Bij een inkomende Europese confiscatiebeslissing – die voor de tenuitvoerlegging wordt gekwalificeerd als een verbeurdverklaring – kan indien de beslissingsstaat heeft aangegeven de vervangende hechtenis te willen toepassen deze direct, zonder verlof tot tenuitvoerlegging, worden toegepast. Indien blijkt dat een veroordeelde/bestrafte uit anderen hoofde is gedetineerd, wordt in beginsel de gewone procedure gevolgd, dat wil zeggen toezending van aanschrijvingen aan het detentieadres, en vervolgens overdracht aan een gerechtsdeurwaarder. Wordt van verhaal afgezien of blijkt verhaal onmogelijk, dan zal ten aanzien van een veroordeelde de vervangende hechtenis, lijfsdwang of gijzeling zoveel mogelijk aansluitend aan de detentie worden ten uitvoer gelegd. In de zaken waarin een geldboete of een schadevergoedingsmaatregel is opgelegd in combinatie met een (deels) onvoorwaardelijke gevangenisstraf, probeert het CJIB het incassotraject zo mogelijk af te werken tijdens de executie van het onvoorwaardelijk deel van de gevangenisstraf, zodat de vervangende hechtenis zo veel mogelijk aansluitend kan worden geëxecuteerd.     
 ### 4.2  
 
 ####Tenuitvoerlegging van schadevergoedingsmaatregelen
 
-Treedt in werking per 01-09-2014 
-
 ### 4.2.1  
 
 ####Algemeen
-
-Treedt in werking per 01-09-2014 
 
 Een schadevergoedingsmaatregel is een door de strafrechter opgelegde maatregel tot betaling aan de staat ten behoeve van een slachtoffer als bedoeld in art. 36f Sr. Aan het CJIB worden uitsluitend vonnissen en arresten met betrekking tot schadevergoedingsmaatregelen overgedragen die onherroepelijk zijn.    
 ### 4.2.2  
 
 ####Inningsfase
 
-Treedt in werking per 01-09-2014 
-
 De door het CJIB ontvangen gelden worden onverwijld afgedragen aan het slachtoffer. Als sprake is van meer slachtoffers worden de ontvangen gelden naar rato van het toegewezen schadevergoedingsbedrag verdeeld. Indien de veroordeelde het verschuldigde bedrag op de eerste aanschrijving niet (tijdig of volledig) heeft betaald, wordt na het verstrijken van de betalingstermijn een eerste wettelijke verhoging opgelegd (art. 24 b Sr). Voor betaling van het op dat moment verschuldigde bedrag wordt een eerste aanmaning met OLA gezonden. Indien de veroordeelde op de eerste aanmaning niet tijdig of volledig betaalt, wordt hem een tweede wettelijke verhoging opgelegd (art. 24 b Sr). De veroordeelde kan hiervan door middel van een tweede aanmaning in kennis worden gesteld. Reageert de veroordeelde in de inningsfase niet door betaling of anderszins, dan gaat de zaak door naar de incassofase. Het CJIB stopt de inning en incasso van de schadevergoedingsmaatregel definitief wanneer het slachtoffer zelf afspraken maakt met de veroordeelde omtrent de betaling van de vordering.    
 ### 4.2.3  
 
 ####Incassofase
-
-Treedt in werking per 01-09-2014 
 
 In de incassofase wordt zo veel mogelijk slechts één lokale instantie, bijvoorbeeld een gerechtsdeurwaarder, belast met de executie van de vonnissen en arresten tegen een veroordeelde. Wanneer de innings- en incassofase niet voldoende financieel resultaat hebben opgeleverd, wordt een arrestatiebevel uitgevaardigd voor tenuitvoerlegging van de vervangende hechtenis. De tenuitvoerlegging van de vervangende hechtenis heft de verplichting ingevolge de maatregel tot schadevergoeding ten behoeve van het slachtoffer niet op. In de zaken waarin tevens een (deels) onvoorwaardelijke vrijheidsstraf is opgelegd, probeert het CJIB het incassotraject zo mogelijk af te werken tijdens de executie van het onvoorwaardelijk deel van deze vrijheidsstraf, zodat de vervangende hechtenis zo veel mogelijk aansluitend kan worden geëxecuteerd.     
 ### 4.3  
 
 ####Tenuitvoerlegging van geldboetes
 
-Treedt in werking per 01-09-2014 
-
 ### 4.3.1  
 
 ####Inningsfase
-
-Treedt in werking per 01-09-2014 
 
 ### *Vonnissen en arresten* 
 
@@ -320,62 +276,44 @@ Wanneer op de vervaldatum die geldt voor de voldoening van de geldboete opgelegd
 
 ####Incassofase
 
-Treedt in werking per 01-09-2014 
-
 In de incassofase biedt het CJIB zaken tegen dezelfde persoon zoveel mogelijk gebundeld aan, aan een gerechtsdeurwaarder. Als de deurwaarder geen succes boekt, wordt een arrestatiebevel uitgevaardigd of een vordering gijzeling ingediend. Het CJIB bereidt de vordering gijzeling strafbeschikking voor. Na ondertekening van de vordering wordt deze ingediend bij de kantonrechter van de rechtbank van het arrondissement waar het (BRP)adres is van bestrafte met het oog op het verkrijgen van een machtiging tot toepassing van het dwangmiddel gijzeling. Een vordering wordt niet ingediend als bekend is dat de bestrafte de geldboete niet kan betalen. Een vordering gijzeling wordt niet ingediend wanneer bestrafte voor langere tijd gedetineerd is. Wanneer bestrafte binnen zes maanden in vrijheid zal worden gesteld, wordt de vordering gijzeling in beginsel aangehouden tot zijn invrijheidstelling. Wanneer de bestrafte nog zes maanden of langer gedetineerd zal zijn blijft een vordering gijzeling achterwege en wordt de zaak in beginsel overgedragen aan het OM ter beoordeling (met het oog op verdere vervolging). Nadat de machtiging tot gijzeling is verkregen wordt een opdracht gijzeling verstrekt aan de politie. In de zaken waarin tevens een (deels) onvoorwaardelijke gevangenisstraf is opgelegd, probeert het CJIB het incassotraject zo mogelijk af te werken tijdens de executie van het onvoorwaardelijk deel van deze gevangenisstraf, zodat de vervangende hechtenis zo veel mogelijk aansluitend kan worden geëxecuteerd. Indien de gerechtsdeurwaarder er niet in slaagt de inkomende Europese geldelijke sanctie te innen en de uitvaardigende lidstaat heeft aangegeven vervangende hechtenis te willen toepassen, dient eerst door de officier van justitie verlof tot tenuitvoerlegging van vervangende hechtenis te worden verkregen. Na verkregen verlof wordt een arrestatiebevel uitgevaardigd.     
 ### 4.4  
 
 ####Tenuitvoerlegging Europese geldelijke sancties en Europese confiscatie beslissingen
-
-Treedt in werking per 01-09-2014 
 
 Het CJIB heeft als Centrale Autoriteit een centrale rol bij de uitvoering van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties.   
 ### 4.4.1  
 
 ####Inkomende Europese geldelijke sancties
 
-Treedt in werking per 01-09-2014 
-
 Vatbaar voor erkenning en tenuitvoerlegging in Nederland zijn beslissingen, houdende een geldelijke sanctie genomen in een andere lidstaat van de Europese Unie bij rechterlijke uitspraak, bij beschikking of bij onherroepelijke rechterlijke beslissing genomen in beroep tegen een beschikking. Europese geldelijke sancties worden door centrale autoriteiten of bevoegde autoriteiten uit Europese lidstaten rechtstreeks aan het CJIB gestuurd. Het CJIB controleert de ontvangen documenten bij de sanctie op volledigheid en kan aanvullende documenten c.q. informatie opvragen om zodoende de weigeringsgronden voor erkenning en executie in Nederland te kunnen beoordelen. Ten aanzien van de Europese geldelijke sancties geldt dat verlof tot toepassing vervangende hechtenis verkregen dient te worden. Vervangende hechtenis kan alleen worden toegepast als de beslissingsstaat heeft aangegeven dit te willen toepassen.    
 ### 4.4.2  
 
 ####Inkomende Europese confiscatie beslissingen
-
-Treedt in werking per 01-09-2014 
 
 Confiscatiebeslissingen genomen in een andere lidstaat van de Europese Unie zijn vatbaar voor erkenning en tenuitvoerlegging in Nederland indien ze strekken tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel dan wel verbeurdverklaring, waarbij de rechter heeft bepaald op welke voorwerpen deze sanctie ten uitvoer moet worden gelegd. Europese confiscatiebeslissingen worden door centrale autoriteiten of bevoegde autoriteiten uit Europese lidstaten rechtstreeks aan het CJIB gestuurd. Het CJIB controleert de ontvangen documenten bij de confiscatiebeslissing op volledigheid en kan aanvullende documenten c.q. informatie opvragen om zodoende de weigeringsgronden voor erkenning en executie in Nederland te kunnen beoordelen. In afwijking van hetgeen is opgenomen in deze aanwijzing aangaande de aanschrijvingen geldt voor de ontneming van wederrechtelijk verkregen voordeel dat geen verhogingen worden gehanteerd. Ten aanzien van Europese confiscatiebeslissingen die voor tenuitvoerlegging worden gekwalificeerd als ontneming geldt dat voor toepassing van lijfsdwang verlof tot tenuitvoerlegging van lijfsdwang door de officier van justitie te Leeuwarden moeten zijn verkregen. Voor toepassing van lijfsdwang is niet nodig dat de beslissingsstaat bij overdracht heeft aangegeven vervangende hechtenis toe te willen passen.    
 ### 4.4.3  
 
 ####Uitgaande Europese geldelijke sancties
 
-Treedt in werking per 01-09-2014 
-
 Een in Nederland bij rechterlijke uitspraak opgelegde geldboete, bij rechterlijke uitspraak opgelegde verplichting tot betaling aan de staat van een geldsom ten behoeve van het slachtoffer, door de bevoegde autoriteiten bij beschikking opgelegde administratieve sanctie als bedoeld in art. 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften zijn vatbaar voor overdracht van de tenuitvoerlegging aan een andere lidstaat van de Europese Unie als Europese geldelijke sanctie. Het CJIB draagt zorg voor de overdracht van deze geldelijke sancties door een certificaat op te stellen en een kopie conforme beslissing op te sturen naar de centrale autoriteit of bevoegde autoriteit in de lidstaat van de Europese Unie, indien de veroordeelde (rechts-) persoon daar een woon-, verblijfplaats of statutaire zetel heeft dan wel inkomen of vermogen.    
 ### 4.4.4  
 
 ####Uitgaande Europese confiscatie beslissingen
-
-Treedt in werking per 01-09-2014 
 
 In Nederland opgelegde beslissing tot confiscatie betreffende een geldbedrag (ontnemingsmaatregel) en de genomen beslissing tot confiscatie betreffende een specifiek voorwerp (verbeurdverklaring) kunnen als Europese confiscatiebeslissing in aanmerking komen voor geheel of gedeeltelijke overdracht van de tenuitvoerlegging aan een andere lidstaat van de Europese Unie, wanneer die lidstaat het betreffende Kaderbesluit heeft geratificeerd en geïmplementeerd. Het CJIB draagt zorg voor de overdracht van deze confiscatiebeslissingen door een certificaat op te stellen en een kopie conforme beslissing op te sturen naar de centrale autoriteit of bevoegde autoriteit in de lidstaat van de Europese Unie, indien de veroordeelde (rechts-) persoon daar een woon-, verblijfplaats of statutaire zetel heeft dan wel inkomen of vermogen. De tenuitvoerlegging van een confiscatiebeslissing kan gelijktijdig naar meer dan één lidstaat van de Europese Unie geheel of gedeeltelijk worden overgedragen.     
 ### 4.5  
 
 ####Tenuitvoerlegging ontnemingsmaatregelen
 
-Treedt in werking per 01-09-2014 
-
 ### 4.5.1  
 
 ####Inningsfase
-
-Treedt in werking per 01-09-2014 
 
 Indien er conservatoir beslag is gelegd, wordt de veroordeelde in de inningsfase door middel van een acceptgiro in de gelegenheid gesteld het ontnemingsbedrag te betalen en op die manier verdere executie van het conservatoir beslag te voorkomen. Indien het ontnemingsbedrag niet of niet geheel wordt betaald, wordt het beslag uitgewonnen volgens de regels van het Wetboek van Burgerlijke Rechtsvordering. Er worden geen verhogingen bij ontnemingsmaatregelen gehanteerd.    
 ### 4.5.2  
 
 ####Incassofase
-
-Treedt in werking per 01-09-2014 
 
 In eerste instantie wordt getracht de ontnemingsmaatregel te executeren door middel van toepassing van verhaal met of zonder dwangbevel, in het eerste geval door de deurwaarder. Heeft dit geen of onvoldoende resultaat, dan kan de landelijk executieofficier ontnemingsmaatregelen, zo nodig in overleg met het executerende parket: 
 
@@ -390,47 +328,33 @@ In eerste instantie wordt getracht de ontnemingsmaatregel te executeren door mid
 
 ####Taakstraffen van meerderjarigen
 
-Treedt in werking per 01-09-2014 
-
 ### 5.1  
 
 ####Taakstraf opgelegd bij strafbeschikking of aangeboden bij transactie
-
-Treedt in werking per 01-09-2014 
 
 Wanneer bij strafbeschikking een taakstraf is opgelegd en de zaak ter executie aan het CJIB is aangeleverd, verifieert het CJIB de adresgegevens van betrokkene en kijkt of er openstaande executeerbare vrijheidsstraffen en/of vervangende hechtenis ter zake een opgelegde schadevergoedingsmaatregel zijn met betrekking tot degene die de taakstraf moet verrichten. Zo ja, dan vindt executie van die vrijheidsstraffen plaats volgens de onder 1.3 opgenomen prioritering en wordt de uitvoering van de taakstraf in beginsel aangehouden. Zo nee, dan wordt de taakstraf door het CJIB doorgeleid naar de Reclassering. Het CJIB bewaakt de termijnen waarbinnen de taakstraf moet worden volbracht en verzendt zo nodig een rappel aan de Reclassering. Kan de taakstraf niet binnen de gestelde termijn worden volbracht, dan meldt de Reclassering dit uiterlijk 21 dagen voor expiratiedatum via een rapportage aan het CJIB waarna het CJIB het OM verzoekt de termijn te verlengen. Heeft na deze verlenging nog steeds geen uitvoering van de taakstraf kunnen plaatsvinden, dan treedt in beginsel de dagvaardingsprocedure in werking als de overschrijding te wijten is aan degene die de taakstraf moet verrichten. Als de overschrijding te wijten is aan de Reclassering en/of het OM, kan uitvoering van de taakstraf niet meer plaats vinden. Dit laatste dient uiteraard te allen tijde te worden voorkomen. De Reclassering informeert het CJIB over de afloop of het verloop van de uitvoering van de taakstraf. Het CJIB informeert vervolgens het OM.    
 ### 5.2  
 
 ####Taakstraf opgelegd bij vonnis/arrest
 
-Treedt in werking per 01-09-2014 
-
 Het onherroepelijke taakstrafvonnis/-arrest wordt door het OM overgedragen aan het CJIB. Het CJIB verifieert de adresgegevens van de betrokkene en onderzoekt of er openstaande, dat wil zeggen onherroepelijke vrijheidsstraffen lopen tegen degene die de taakstraf moet verrichten. Zo ja, dan vindt executie plaats volgens de onder 1.3 opgenomen uitgangspunten. Zo nee, dan wordt de taakstraf door het CJIB doorgeleid naar de Reclassering. Het CJIB bewaakt de termijnen waarbinnen de taakstraf moet worden volbracht en verzendt zo nodig een rappel. Kan de taakstraf niet binnen de gestelde termijn worden volbracht, dan meldt de Reclassering dit uiterlijk 21 dagen voor het einde van de uitvoeringstermijn via een rapportage aan het CJIB waarna het CJIB het OM verzoekt de termijn te verlengen. Het OM bericht binnen 14 dagen aan het CJIB over dit verlengingsverzoek. Indien het CJIB na deze 14 dagen geen beslissing of anderszins bericht van het OM heeft ontvangen, wordt de verlenging geacht ambtshalve met 1 jaar te zijn verlengd. De Reclassering informeert het CJIB over de afloop of het verloop van de uitvoering van de taakstraf. Het CJIB informeert het OM over de afloop of het verloop van de uitvoering van de taakstraf. Heeft na deze verlenging nog steeds geen uitvoering van de taakstraf kunnen plaatsvinden, dan treedt de omzettingsprocedure in werking als de overschrijding te wijten is aan degene die de taakstraf moet verrichten. Is de overschrijding te wijten is aan de Reclassering/ het OM, dan vervalt het recht van executie. Dit laatste moet uiteraard te allen tijde worden voorkomen. Indien de tenuitvoerlegging van de taakstraf is mislukt, beoordeelt het OM of degene die de taakstraf moet verrichten de door de rechter opgelegde vervangende hechtenis moet ondergaan. Het CJIB stuurt het OM een afloopbericht, waarop de desbetreffende executieofficier of executieadvocaat-generaal aangeeft of hij de tenuitvoerlegging van de vervangende hechtenis beveelt (art. 22g Sr) en zo ja, welk gedeelte. Na ontvangst van een ondertekend afloopbericht van het OM, draagt het CJIB zorg voor de betekening van de kennisgeving waarin de veroordeelde op de hoogte wordt gesteld van het feit dat executie van de vervangende hechtenis is bevolen. Na betekening van deze kennisgeving maakt het CJIB een arrestatiebevel aan. Voor de verwerking van dit arrestatiebevel wordt verwezen naar paragraaf 9 van dit hoofdstuk.     
 ### Paragraaf  6  
 
 ####Tenuitvoerlegging voorwaardelijke sancties meerderjarigen en voorwaardelijke invrijheidstelling
 
-Treedt in werking per 01-09-2014 
-
 ### 6.1  
 
 ####Voorwaardelijke sancties meerderjarigen
-
-Treedt in werking per 01-09-2014 
 
 Het CJIB zorgt ervoor dat door de rechter opgelegd reclasseringstoezicht en/of vrijheidsbeperkende voorwaarden aan de Reclassering dan wel de politie worden doorgegeven. Het CJIB houdt de ingangsdatum en de eventuele schorsing van de proeftijd bij. Na afloop van de proeftijd zorgt het CJIB ervoor dat aan de Reclassering en de politie wordt doorgegeven dat de proeftijd is geëindigd. De Reclassering informeert het OM over het verloop van het toezicht op de naleving van de bijzondere voorwaarden. Het CJIB ontvangt de afloopberichten van de Reclassering en geeft in geval van niet-naleving van de voorwaarden de uitkomst van de eventuele tenuitvoerleggingszitting aan de Reclassering door.    
 ### 6.2  
 
 ####Voorwaardelijke invrijheidstelling
 
-Treedt in werking per 01-09-2014 
-
 Van rechtswege is aan de voorwaardelijke invrijheidstelling de algemene voorwaarde verbonden dat de voorwaardelijk in vrijheid gestelde persoon gedurende de proeftijd geen strafbare feiten mag plegen. Het OM neemt in beginsel ten minste 30 dagen voorafgaande aan de datum van de voorwaardelijke invrijheidstelling een besluit over het instellen van een vordering tot uitstel / achterwege laten van de voorwaardelijke invrijheidstelling. Indien deze vordering niet wordt ingediend, neemt het OM een beslissing over het stellen van bijzondere voorwaarden verbonden aan de voorwaardelijke invrijheidstelling. De Reclassering informeert het OM over het verloop van het toezicht op de naleving van de bijzondere voorwaarden. Indien een schending van de voorwaarden is geconstateerd door de Reclassering dan wel door het lokale parket (in geval van een overtreding van de algemene voorwaarde) dan wordt de CVvi, door tussenkomst van het CJIB, op de hoogte gesteld. De CVvi neemt daarop een besluit omtrent het vorderen van (gehele of gedeeltelijke) herroeping, al dan niet in combinatie met aanhouding en het vorderen van schorsing van de voorwaardelijke invrijheidstelling, wijziging van de bijzondere voorwaarden of het waarschuwen van de voorwaardelijk invrijheidgestelde. Het CJIB zendt het besluit van de CVvi aan de Reclassering en in voorkomende gevallen aan de DJI. In opdracht van het OM zet het CJIB tevens een arrestatiebevel uit ter zake de schorsing en/of de herroeping van de voorwaardelijke invrijheidstelling.     
 ### Paragraaf  7  
 
 ####Tenuitvoerlegging van onvoorwaardelijke vrijheidsstraffen
-
-Treedt in werking per 01-09-2014 
 
 Aan de executie van vrijheidsstraffen wordt een zoveel mogelijk persoonsgerichte invulling gegeven. Hieruit vloeit voort dat het CJIB een aantal (door het College van procureurs-generaal opgedragen) taken en verantwoordelijkheden van de parketten uitvoert. Het gaat hierbij om: 
 
@@ -447,27 +371,19 @@ Aan de executie van vrijheidsstraffen wordt een zoveel mogelijk persoonsgerichte
 
 ####Tenuitvoerlegging van vervangende hechtenis, lijfsdwang en gijzeling
 
-Treedt in werking per 01-09-2014 
-
 Indien de toepassing van verhaal door de deurwaarder niet leidt tot (volledige) afdoening, of indien aannemelijk is dat toepassing van verhaal niet succesvol zal zijn, volgt tenuitvoerlegging door middel van een arrestatiebevel om de vervangende hechtenis ten uitvoer te leggen of kan voor ontnemingsmaatregelen na verleend verlof tot tenuitvoerlegging van de lijfsdwang of vervangende hechtenis worden overgegaan. In geval van een geldboete die bij strafbeschikking is opgelegd wordt de kantonrechter verzocht de officier van justitie te machtigen het dwangmiddel gijzeling toe te passen. Wanneer deze machtiging is verkregen wordt een opdracht gijzeling aan de politie verstrekt. Indien de tenuitvoerlegging van de taakstraf mislukt, kan het OM overgaan tot executie van de vervangende hechtenis. Het CJIB draagt bij meerderjarigen zorg voor betekening van de beslissing inhoudende tenuitvoerlegging van de vervangende hechtenis. De arrestatiebevelen worden door het CJIB naar een centraal punt in de politieregio gestuurd. Het CJIB bewaakt de voortgang. In geval van een ontnemingsmaatregel kan lijfsdwang worden toegepast indien een bevel tot toepassing van lijfsdwang door de rechter is verleend en de beslissing aan de veroordeelde is betekend. In geval van een inkomende Europese geldelijke sanctie kan overeenkomstig het bepaalde in art. 16 van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008 vervangende hechtenis worden toegepast. De selectiefunctionaris van DJI kan op grond van art. 15a van de Penitentiaire beginselenwet de betrokkene ten hoogste tien dagen in een politiecel laten verblijven indien sprake is van capaciteitstekort. Voor jeugdigen geldt – afhankelijk van hun leeftijd – een maximale periode van 3 dagen (jeugdigen van 12 tot 16 jaar) tot 10 dagen (jeugdigen van 16 jaar en ouder) (art. 16a Beginselenwet Justitiële Jeugdinrichtingen). Voor jeugdigen in de leeftijd van 12 tot 16 jaar geldt dat het verblijf in een politiecel alleen mag worden toegepast in afwachting van het regelen van vervoer naar de plaats in een inrichting.    
 ### Paragraaf  9  
 
 ####Aanmaken, uitzetten en terugmelden arrestatiebevelen, opdrachten lijfdwang en opdrachten gijzeling
 
-Treedt in werking per 01-09-2014 
-
 ### 9.1  
 
 ####Uitvaardigen arrestatiebevel, opdracht lijfsdwang en opdracht gijzeling
-
-Treedt in werking per 01-09-2014 
 
 Het CJIB maakt de arrestatiebevelen, opdrachten lijfsdwang en opdrachten gijzeling aan en draagt zorg voor de noodzakelijke verificaties, waarna de tenuitvoerlegging van de arrestatiebevelen, opdrachten lijfsdwang en opdrachten gijzeling geschiedt doordat het CJIB deze rechtstreeks aanbiedt aan de regionale eenheid van de politie waar de woon- of verblijfplaats van de veroordeelde/bestrafte is gelegen. Het CJIB bewaakt de voortgang van de afhandeling van de arrestatiebevelen, opdrachten lijfdwang en de opdrachten gijzeling, conform de door het OM met de politie afgesproken executietaakstellingen.    
 ### 9.2  
 
 ####Afloopbericht arrestatiebevel/opdracht lijfsdwang/opdracht gijzeling
-
-Treedt in werking per 01-09-2014 
 
 Na het afhandelen van het arrestatiebevel of de opdracht gijzeling meldt de politie de wijze van afloop aan het CJIB. Mogelijke wijzen van afloop zijn: 
 ### *• Boete volledig betaald* 
@@ -501,95 +417,67 @@ Om verschillende redenen (nieuw adres, alsnog betaling etc.) kan het CJIB de pol
 
 ####Taken politie
 
-Treedt in werking per 01-09-2014 
-
 De politie registreert de data en tijdstippen van de door haar afgelegde bezoeken aan het door het CJIB opgegeven woon- en verblijfsadres van de veroordeelde/bestrafte, eventuele adresverificaties en de uitoefening van dwangmiddelen bij de tenuitvoerlegging van arrestatiebevelen, opdrachten lijfsdwang of gijzeling of OPS-signaleringen.    
 ### 9.4  
 
 ####Arrestanten met medische problemen
-
-Treedt in werking per 01-09-2014 
 
 Indien de GGD-arts van oordeel is dat de arrestant op medische gronden naar een ziekenhuis moet worden overgebracht en derhalve niet (langer) in een politiecel kan verblijven, neemt de politie (wachtcommandant) contact op met de (piket)officier van het executerend parket. Deze beslist of de arrestant moet worden overgeplaatst naar het Justitieel Centrum voor Somatische Zorg (JCvSZ). Indien opname in het JCvSZ wegens plaatsgebrek onverhoopt niet mogelijk is, dan wordt de arrestant naar een regulier ziekenhuis overgebracht. Kosten van ambulancevervoer of ander bijzonder (invaliden)vervoer zijn voor rekening van de DJI/DV&O. Eventueel door het OM opgedragen bewaking in een regulier ziekenhuis kan in eerste instantie worden uitgevoerd door de regiopolitie. Na verloop van maximaal 24 uur dient de verantwoordelijkheid voor de bewaking te worden overgenomen door de DJI/DV&O.     
 ### Paragraaf  10  
 
 ####Signalering in het OPS
 
-Treedt in werking per 01-09-2014 
-
 ### 10.1  
 
 ####Vrijheidsstraffen, voorwaardelijke invrijheidstellingen, taakstraffen, geldboetes, schadevergoedingsmaatregelen, ontnemingsmaatsregelen en zachte onttrekkers aan detentie
-
-Treedt in werking per 01-09-2014 
 
 Vrijheidsstraffen, geheel of gedeeltelijk herroepen voorwaardelijke invrijheidstellingen, geldboetevonnissen, geldboetes opgelegd bij strafbeschikking waarvoor een machtiging tot gijzeling is verleend en schadevergoedingsmaatregelen en ontnemingsmaatregelen (voor zaken na OH of gewezen na 1 september 2003 in geval een machtiging lijfsdwang) is afgegeven van veroordeelden zonder bekende woon- of verblijfplaats in Nederland worden na registratie en adresverificatie door het CJIB rechtstreeks ter signalering aangeboden aan de DNRI van de landelijke eenheid politiediensten ter opname in het OPS. Indien de veroordeelde/bestrafte een bekende woon- of verblijfplaats dan wel vermogen heeft in een Europese lidstaat kan overdracht van de beslissing aan de betreffende lidstaat plaatsvinden. Signalering blijft dan achterwege. Ook geldboetevonnissen, geldboetes opgelegd bij strafbeschikking waarvoor een machtiging tot gijzeling is verleend en schadevergoedingsmaatregelen en ontnemingsmaatregelen voor zaken na OH of gewezen na 1 september 2003 ingeval een machtiging lijfsdwang van niet-ingezetenen die niet (voldoende) hebben betaald op de aanschrijving naar het buitenland, worden ter signalering aangeboden aan de DNRI van de landelijke eenheid politiediensten indien geen vermogen, inkomen of woon- of verblijfplaats bekend is in een lidstaat van de Europese Unie. Vrijheidsstraffen, geheel of gedeeltelijk herroepen voorwaardelijke invrijheidstellingen, geldboetevonnissen, geldboetes opgelegd bij strafbeschikking waarvoor een machtiging tot gijzeling is verleend en schadevergoedings- en ontnemingsmaatregelen van veroordeelden/bestraften die bij de tenuitvoerlegging van een arrestatiebevel of een opdracht gijzeling of opdracht lijfsdwang onvindbaar blijken, zullen ook ter signalering worden aangeboden aan de DNRI van de landelijke eenheid politiediensten. Signalering voor taakstraffen kan alleen indien sprake is van een bevel tot tenuitvoerlegging van vervangende hechtenis. Het CJIB is bevoegd tot intrekking van signaleringen. Toestemming van de officier van justitie of advocaat-generaal is dus niet nodig. Indien een gedetineerde zich onttrekt aan detentie registreert DJI de onttrekking in het CRO-register. Als het om een zachte onttrekker gaat, meldt DJI de onttrekking aan het CJIB. Het CJIB signaleert de veroordeelde die zich heeft onttrokken in het OPS en doet melding van de onttrekking en signalering aan het executerend parket, aan de regiokorpsen van de huidige en voorlaatste woon- en verblijfplaats van veroordeelde en de regionale eenheid in de regio van de PI waar de onttrekking heeft plaatsgevonden. Daarnaast vaardigt het CJIB arrestatiebevelen uit voor zachte onttrekkers met een bekende woon- of verblijfplaats. Het CJIB bewaakt de termijnen van de signalering en rappelleert de regionale eenheid in de regio van de woonplaats van de onttrekker op de openstaande onttrekkingen. Na aanhouding op het arrestatiebevel of aanhouding naar aanleiding van de signalering in het OPS wordt de procedure gevolgd zoals onder paragraaf 9.2 beschreven. Indien aanhouding op grond van de OPS-signalering heeft plaats gevonden, vraagt het CJIB het arrestatiebevel terug van de betreffende regionale eenheid en trekt de OPS-signalering in. Het BCL van DJI voert de centrale registratie van de onttrekkingen (CRO) en beheert de penitentiaire dossiers van de veroordeelden. Indien aanhouding op grond van een arrestatiebevel plaatsvindt, trekt het CJIB de OPS-signalering in.    
 ### 10.2  
 
 ####Afhandeling OPS-signalering door de opsporingsinstantie ter fine van aanhouding
 
-Treedt in werking per 01-09-2014 
-
 Bij aanhouding op grond van een OPS-signalering handelt de betreffende opsporingsinstantie de zaak af op dezelfde wijze als beschreven bij de afhandeling van arrestatiebevelen. De versluiering (de voorlopige intrekking) van het bericht bij de DNRI van de landelijke eenheid politiediensten blijft echter een verantwoordelijkheid van de opsporingsinstantie. Deze versluiering wordt door de DNRI van de landelijke eenheid politiediensten gemeld aan het CJIB. De politie meldt de afloop van de behandeling van de OPS-signalering aan het CJIB, overeenkomstig de berichten zoals die zijn omschreven in paragraaf 9.2. Afloopbericht arrestatiebevel/opdracht gijzeling.    
 ### 10.3  
 
 ####Werkwijze en afhandeling in het kader van OPS-signalering ten behoeve van betekening gerechtelijke stukken
-
-Treedt in werking per 01-09-2014 
 
 Het CJIB draagt er zorg voor dat de van het parket ontvangen signaleringstekst wordt aangeboden aan de DNRI van de landelijke eenheid politiediensten om in het OPS te worden geplaatst. Wanneer de politie een gesignaleerde persoon aantreft, gaat zij over tot betekening. De betekeningstukken worden vervolgens naar het signalerende parket gezonden en de signalering wordt voorlopig vervallen verklaard door de politie. Het signalerend parket stelt het CJIB in kennis en het CJIB trekt vervolgens de signalering definitief in. Als het CJIB bericht van de Strafrechtsketendatabase (SKDB) ontvangt dat een gesignaleerde persoon is gedetineerd, stuurt het CJIB de te betekenen gerechtelijke stukken naar de penitentiaire inrichting waar betrokkene is gedetineerd. Na betekening worden de gerechtelijke stukken door de penitentiaire inrichting naar het signalerende parket gezonden. Het CJIB trekt de signalering definitief in.    
 ### 10.4  
 
 ####Controle BRP op nieuw adres
 
-Treedt in werking per 01-09-2014 
-
 Met uitzondering van signaleringen in het kader Wahv en geldboetevonnissen en Europese geldelijk sancties, geldt dat het CJIB automatisch wordt geïnformeerd over een nieuw adres in de BRP. Voor signaleringen ter zake van Wahv en geldboetevonnissen wordt periodiek gecontroleerd of een persoon die is opgenomen in het OPS inmiddels (weer) staat ingeschreven in de gemeentelijke basisadministratie. Indien een nieuw BRP-adres bekend is, wordt de signalering in het OPS ingetrokken en vindt gerichte executie plaats in de fase waar de zaak zich het laatst bevond. Een uitzondering hierop geldt voor de TES-zaken (vrijheidsstraffen ≥ 120 dagen). Indien een vrijheidsstraf is overgedragen aan het TES en de veroordeelde krijgt de beschikking over een nieuw BRP-adres, dan vindt eerst overleg plaats met het TES of het uitvaardigen van een arrestatiebevel gewenst is.     
 ### Paragraaf  11  
 
 ####Betalingsregelingen
-
-Treedt in werking per 01-09-2014 
 
 Alle verzoeken om betalingsregelingen, voor zover deze betrekking hebben op bij het CJIB geregistreerde en in behandeling zijnde zaken, worden door de parketten of de CVOM doorgezonden naar het CJIB. Het betalingsregelingenbeleid is op hoofdlijnen verwerkt in bijlage 3. Wanneer het parket of de griffie al betaling heeft ontvangen, wordt dit aan het CJIB gemeld. Betalingen lager dan de opgelegde geldboete of aangeboden transactie mogen niet worden geaccepteerd, tenzij bij betaling wordt vastgesteld dat geen verdere inning hoeft plaats te vinden (bijvoorbeeld bij speciale inningsacties uitgevoerd door de regionale eenheid van de politie in opdracht van het parket). Dit wordt aan het CJIB gemeld.    
 ### Paragraaf  12  
 
 ####Logistieke afstemming tussen het CJIB, het OM, de politie, DJI en de Reclassering
 
-Treedt in werking per 01-09-2014 
-
 Het is de politie niet toegestaan een betalingsregeling aan te gaan met de veroordeelde/bestrafte. Het CJIB zal in het geval van daadwerkelijke arrestatie of toepassing gijzeling en beschikbare celruimte de politie of de DV&O voorzien van de noodzakelijke transportorder. De politie is verantwoordelijk voor de opsporing, de aanhouding en het binnen-arrondissementale vervoer van de veroordeelden/bestraften op basis van de door het CJIB verstrekte gegevens. Het CJIB registreert op basis van door de politie verkregen gegevens het aantal in een politiecel doorgebrachte dagen. Zodra het parket beschikt over de informatie over een gratieverzoek met opschortende werking meldt het parket dit aan het CJIB. Het CJIB zal dan tot nader bericht de tenuitvoerlegging opschorten. Ook andere gegevens die van belang zijn voor de voortzetting dan wel de schorsing of stopzetting van de tenuitvoerlegging van een arrestatiebevel of de opdracht gijzeling, zal het parket terstond melden aan het CJIB. Indien het CJIB op andere wijze kennis krijgt van dergelijke informatie, zal hiervan onverwijld melding aan DJI of de politie geschieden. De Reclassering is verantwoordelijk voor de inhoudelijke/daadwerkelijke tenuitvoerlegging van de taakstraf voor meerderjarigen en de bijzondere voorwaarden verbonden aan de voorwaardelijke invrijheidstelling. Het OM levert, door tussenkomst van het CJIB, de gegevens met betrekking tot de opgelegde taakstraf en de gegevens voor het toezicht op het naleven van de bijzondere voorwaarden verbonden aan de voorwaardelijke invrijheidstelling aan de Reclassering. De Reclassering meldt tijdig aan het OM, door tussenkomst van het CJIB, wanneer de termijn van tenuitvoerlegging verlengd moet worden. De Reclassering meldt aan het OM, door tussenkomst van het CJIB, het moment waarop de taakstraf dan wel de toepassing van de bijzondere voorwaarden verbonden aan de voorwaardelijke invrijheidstelling beëindigd is. De Reclassering meldt tevens aan het OM, door tussenkomst van het CJIB, het moment waarop de taakstraf is mislukt dan wel of de bijzondere voorwaarden verbonden aan de voorwaardelijke invrijheidstelling zijn geschonden dan wel of de bijzondere voorwaarden verbonden aan de schorsing van de voorlopige hechtenis zijn overtreden.    
 ### Paragraaf  13  
 
 ####Executie van lopende vonnissen en arresten waarin een (deels) onvoorwaardelijke gevangenisstraf is opgelegd
-
-Treedt in werking per 01-09-2014 
 
 Voor de executie van zogenaamde lopende vonnissen en arresten waarin een (deels) onvoorwaardelijke gevangenisstraf is opgelegd, wordt verwezen naar de aan deze aanwijzing gehechte bijlagen 1 en 2.    
 ### Paragraaf  14  
 
 ####Internationaal signaleren
 
-Treedt in werking per 01-09-2014 
-
 Het CJIB levert aan het TES vonnissen of arresten aan ter zake van onvoorwaardelijke vrijheidsstraffen van 120 (openstaande) dagen of meer die niet staan ingeschreven in de BRP. De signalering in OPS voor deze zaken blijft gedurende de periode dat de zaak in behandeling is bij het TES opgenomen. In geval van aanhouding van de veroordeelde in het buitenland wordt het CJIB per omgaande door het TES geïnformeerd. Na aankomst van de veroordeelde in Nederland wordt de tenuitvoerlegging van het vonnis/arrest op dezelfde wijze als bij reguliere arrestanten afgehandeld.     
 ### Hoofdstuk  III  
 
 ####Informatieverstrekking
 
-Treedt in werking per 01-09-2014 
-
 ### Paragraaf  1  
 
 ####Informatie aan slachtoffer
 
-Treedt in werking per 01-09-2014 
-
 ### 1.1  
 
 ####Rol CJIB
-
-Treedt in werking per 01-09-2014 
 
 Het CJIB informeert de slachtoffers<sup> 2 Slachtoffers in wier zaak een schadevergoedingsmaatregel onherroepelijk is geworden, wordt gevraagd of zij informatie willen ontvangen over de inningsfase van de maatregel. Alleen slachtoffers die hebben aangegeven dat ze deze informatie willen ontvangen, zullen door het CJIB worden geïnformeerd. </sup> *uitsluitend in zaken waarin een schadevergoedingsmaatregel is opgelegd* over de voortgang met betrekking tot de executie van die zaken. Daartoe wordt van elke fase in het innings- en incassotraject bericht gedaan aan het slachtoffer. Het gaat daarbij om de volgende informatiemomenten: 
 
@@ -612,56 +500,42 @@ Het CJIB informeert de slachtoffers<sup> 2 Slachtoffers in wier zaak een schadev
 
 ####Rol slachtofferinformatiepunt schadevergoedingsmaatregelen
 
-Treedt in werking per 01-09-2014 
-
 Het slachtofferinformatiepunt schadevergoedingsmaatregelen bij het CJIB verzorgt de informatie met betrekking tot de tenuitvoerlegging van de schadevergoedingsmaatregel richting het slachtoffer. Verzoeken van slachtoffers om informatie die aan de parketten of aan het CJIB zijn gezonden worden onverwijld doorgestuurd naar het slachtofferinformatiepunt schadevergoedingsmaatregelen bij het CJIB.     
 ### Paragraaf  2  
 
 ####Behandeling klachten/verzoeken om informatie/correspondentie
 
-Treedt in werking per 01-09-2014 
-
 ### 2.1  
 
 ####Rol CJIB
-
-Treedt in werking per 01-09-2014 
 
 Uit informatie op de aanschrijvingen die in het kader van de executie van vonnissen en arresten worden verstuurd blijkt dat het CJIB in deze zaken voor de veroordeelde de eerst aan te schrijven organisatie is. Dit betekent dat algemene vragen, klachten die betrekking hebben op de behandeling van de zaak, verzoeken en klachten betreffende betalingsregelingen enzovoort, in eerste instantie door het CJIB worden beoordeeld en behandeld. Indien gewenst zal het CJIB informatie opvragen bij de parketten. Op de strafbeschikkingen en eventueel hierop volgende aanschrijvingen staat aangegeven bij welke instantie bestrafte terecht kan voor nadere informatie. Voor informatie betreffende het feit is dit veelal de politie of het OM, voor algemene informatie is dit het CJIB. In beginsel zal het CJIB alle verzoeken van derden om informatie zoveel mogelijk zelfstandig afhandelen. Vragen waarvoor raadpleging van het strafdossier bij het parket of de CVOM nodig is, worden door het CJIB ter kennis gebracht van het (de) betreffende parket(ten) of de CVOM. De op het strafdossier betrekking hebbende vragen dienen zo spoedig mogelijk te worden beantwoord en te worden gestuurd aan het CJIB dat de zaak verder zal afhandelen. Klachten die specifiek de inhoudelijkheid van de zaak betreffen en geen enkel verband hebben met de door het CJIB gehanteerde procedures, zullen ter verdere behandeling worden doorgezonden aan het parket, de CVOM of politie, onder kennisgeving daarvan aan de veroordeelde. Het parket of de CVOM stelt het CJIB per brief van de afhandeling op de hoogte. In beginsel schorst correspondentie de executie niet. Het CJIB kan naar aanleiding van correspondentie gelet op de bijzondere omstandigheden van het geval contact opnemen met het (de) betreffende parket(ten) of de CVOM over de voortzetting van de executie.    
 ### 2.2  
 
 ####Rol parketten en CVOM
 
-Treedt in werking per 01-09-2014 
-
 Verzoeken om informatie die zijn gezonden aan een parket of de CVOM en die betrekking hebben op bij het CJIB in behandeling zijnde zaken worden, zo nodig vergezeld van commentaar, aan het CJIB doorgezonden. Indien voor beantwoording tevens het strafdossier moet worden geraadpleegd, meldt het parket of de CVOM aan het CJIB dat het dat onderdeel van het verzoek reeds in behandeling heeft genomen. Indien een dergelijk aan het parket of de CVOM gezonden verzoek betrekking heeft op meer zaken van verschillende parketten of de CVOM, verzorgt het CJIB de doorzending naar die parketten of CVOM. Beantwoording aan het CJIB moet zo spoedig mogelijk plaats vinden zodat het CJIB het gehele verzoek van veroordeelde zo spoedig mogelijk kan afhandelen. De parketten en CVOM zijn verantwoordelijk voor het zo spoedig mogelijk melden aan het CJIB van een bericht dat de executie moet worden gestopt of hervat. Indien naar aanleiding van een verzoek om informatie of een klacht blijkt dat de executie van een straf of maatregel moet worden stopgezet of hervat, is het behandelend parket of de CVOM verantwoordelijk voor de onverwijlde schriftelijke melding (en onder opgaaf van redenen) daarvan aan het CJIB. Voordat de beslissing tot stopzetting van de executie wordt genomen, wordt afstemming met het CJIB gezocht over de betreffende zaak.     
 ### Paragraaf  3  
 
 ####Executiedocumentatie
 
-Treedt in werking per 01-09-2014 
-
 Het CJIB verstrekt de executiedocumentatie ten behoeve van het OM voor zover dat noodzakelijk is voor een goede taakvervulling van het OM.     
 
 ####Overgangsrecht
-
-Treedt in werking per 01-09-2014 
 
 De beleidsregels in deze aanwijzing hebben onmiddellijke gelding vanaf de datum van inwerkingtreding.    
 
 ### Bijlage  1  
 
-####Beleidsregels om met betrekking tot het zelfmeldbeleid
+####Beleidsregels OM met betrekking tot het zelfmeldbeleid
 
-Treedt in werking per 01-09-2014 
-
-Een zelfmelder is een veroordeelde met een onherroepelijke onvoorwaardelijke vrijheidsstraf, die zich, na een daartoe ontvangen oproep, zelf dient te melden bij een penitentiaire inrichting voor het ondergaan van de opgelegde vrijheidsstraf. Het CJIB bepaalt in opdracht van het OM of een veroordeelde met een lopend vonnis in aanmerking komt voor de status van zelfmelder. Wanneer een veroordeelde voor toewijzing van de status van zelfmelder in aanmerking komt, verzendt het CJIB aan de veroordeelde per brief een zogenaamde vooraankondiging met een verklaring die binnen 30 dagen dient te worden geretourneerd. Door het terugsturen van de verklaring verplicht de veroordeelde zich gevolg te geven aan de oproep die hem door het CJIB respectievelijk door het Bureau Capaciteitsbenutting en Logistiek (BCL) van DJI vervolgens wordt verzonden. Indien de veroordeelde niet voor de status van zelfmelder in aanmerking komt wordt een arrestatiebevel (AB) uitgevaardigd. Veroordeelden komen in beginsel niet in aanmerking voor de status van zelfmelder indien: 
+Een zelfmelder is een veroordeelde met een onherroepelijke onvoorwaardelijke vrijheidsstraf, die zich, na een daartoe ontvangen oproep, zelf dient te melden bij een penitentiaire inrichting voor het ondergaan van de opgelegde vrijheidsstraf. Het CJIB bepaalt in opdracht van het OM of een veroordeelde met een lopend vonnis in aanmerking komt voor de status van zelfmelder. Indien de veroordeelde niet voor de status van zelfmelder in aanmerking komt wordt een arrestatiebevel (AB) uitgevaardigd. Veroordeelden komen in beginsel niet in aanmerking voor de status van zelfmelder indien: 
 
 1. de veroordeelde in de afgelopen 12 maanden niet is verschenen op een oproep;  
 
-2. de ten uitvoer te leggen vrijheidsstraf het gevolg is van een gehele of gedeeltelijke herroeping van de voorwaardelijke invrijheidstelling.  
+2. de ten uitvoer te leggen vrijheidsstraf het gevolg is van een gehele of gedeeltelijke herroeping van de voorwaardelijke invrijheidstelling;  
 
-3. de veroordeelde zich heeft onttrokken aan detentie.  
+3. de veroordeelde zich heeft onttrokken aan detentie;  
 
 4. de veroordeelde geen BRP-adres heeft;  
 
@@ -671,15 +545,13 @@ Een zelfmelder is een veroordeelde met een onherroepelijke onvoorwaardelijke vri
 
 7. de executie van een vrijheidsstraf wordt hervat in opdracht van het OM omdat binnen een termijn van twee jaar na de einddatum van de ISD-maatregel opnieuw een misdrijf is gepleegd waarvoor voorlopige hechtenis is toegelaten;  
 
-8. de tenuitvoerlegging is gelast van een eerder voorwaardelijk opgelegde straf.  
+8. de tenuitvoerlegging is gelast van een eerder voorwaardelijk opgelegde straf;  
 
 9. de bijzondere aard en ernst van het strafbaar feit waarvoor aan de veroordeelde straf is opgelegd daaraan in de weg staan.   Wanneer iemand de zelfmeldstatus heeft verkregen en naar aanleiding van een oproep zich te melden om uitstel vraagt, wordt de procedure zoals opgenomen in bijlage 2 toegepast. 
 
 ### Bijlage  2  
 
 ####Regels voor het uitstelbeleid van ‘lopende vonnissen’ in het kader van de zelfmeldprocedure
-
-Treedt in werking per 01-09-2014 
 
 Een verzoek tot uitstel dient de selectiefunctionaris van bij het Bureau Capaciteitsbeheersing en Logistiek (BCL) van DJI ingediend te worden. Het verzoek dient uiterlijk 7 dagen na ontvangst van de oproepbrief schriftelijk, met redenen omkleed en met voldoende bewijsmateriaal onderbouwd ingediend te worden. Indien een verzoek niet aan deze criteria voldoet, wordt het verzoek afgewezen. Het verzoek wordt aan de indiener geretourneerd, vergezeld van de reden van afwijzing. Redenen tot het inwilligen van verzoeken tot uitstel, kunnen zijn: 
 
@@ -694,8 +566,6 @@ Een verzoek tot uitstel dient de selectiefunctionaris van bij het Bureau Capacit
 ### Bijlage  3  
 
 ####Betalingsregelingen
-
-Treedt in werking per 01-09-2014 
 
 1. Indien uit het vonnis, het arrest of de strafbeschikking blijkt dat op grond van art. 24a Sr aan veroordeelde/bestrafte een betalingsregeling is toegestaan, voert het CJIB die uit na de overdracht ter executie.  
 

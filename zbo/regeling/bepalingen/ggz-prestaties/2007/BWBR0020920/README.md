@@ -2,25 +2,25 @@
 
 ##Regeling bepalingen GGZ-prestaties 2007
 
-De Nederlandse Zorgautoriteit (NZa), Gelet op [artikelen 37](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [38 van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg); Heeft de volgende regeling vastgesteld:     
+De Nederlandse Zorgautoriteit (NZa), Gelet op artikelen 37 en 38 van de Wet marktordening gezondheidszorg (Wmg); Heeft de volgende regeling vastgesteld:     
 
 ### Artikel  1  
 
 ####Algemeen
 
-a. Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en wordt geleverd door ziekenhuizen (voor zover het de psychiatrische afdelingen betreft), zorgaanbieders die zijn toegelaten voor zorg aan verzekerden met een psychiatrische aandoening of zorgaanbieders van wie de zorgverlening is gericht op verzekerden met een psychiatrische aandoening. b. Het in deze regeling bepaalde is op grond van [artikel 44 Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) mede van toepassing ten aanzien van degene die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling. 
+a. Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de AWBZ of de Zvw en wordt geleverd door ziekenhuizen (voor zover het de psychiatrische afdelingen betreft), zorgaanbieders die zijn toegelaten voor zorg aan verzekerden met een psychiatrische aandoening of zorgaanbieders van wie de zorgverlening is gericht op verzekerden met een psychiatrische aandoening. b. Het in deze regeling bepaalde is op grond van artikel 44 Wmg mede van toepassing ten aanzien van degene die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling. 
 
 ### Artikel  2  
 
 ####Definitie GGZ-aanbieder
 
-Een op basis van de [WTZi](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten zorgaanbieder, waarbij de zorgverlening voornamelijk gericht is op verzekerden met een psychiatrische aandoening. 
+Een op basis van de WTZi toegelaten zorgaanbieder, waarbij de zorgverlening voornamelijk gericht is op verzekerden met een psychiatrische aandoening. 
 
 ### Artikel  3  
 
 ####Doel
 
-Het doel van deze regeling is dat gegevens beschikbaar komen met het oog op de overheveling in 2008 van de op genezing gerichte geestelijke gezondheidszorg van [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) naar [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Vanaf 1 januari 2008 worden zorgverzekeraars en zorgaanbieders die geestelijke gezondheidszorg leveren contractpartners. Vanaf dat moment zenden zorgaanbieders rekeningen voor de geleverde zorg aan de zorgverzekeraars op basis van Diagnose Behandeling Combinaties (DBC’s) ter financiering van het budget van de onder artikel 1.a genoemde zorgaanbieder. Voor het inzicht van de zorgverzekeraars in de mate waarin verzekerden gebruik maken van geestelijke gezondheidszorg die onder de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) valt en voor de verdere ontwikkeling van het model van risicoverevening is het noodzakelijk een bron van gegevens beschikbaar te hebben ten behoeve van gegevensuitwisseling tussen zorgverzekeraars en zorgaanbieders in 2007. De levering van gegevens is verplicht voor alle zorgaanbieders die geestelijke gezondheidszorg leveren. 
+Het doel van deze regeling is dat gegevens beschikbaar komen met het oog op de overheveling in 2008 van de op genezing gerichte geestelijke gezondheidszorg van AWBZ naar Zorgverzekeringswet. Vanaf 1 januari 2008 worden zorgverzekeraars en zorgaanbieders die geestelijke gezondheidszorg leveren contractpartners. Vanaf dat moment zenden zorgaanbieders rekeningen voor de geleverde zorg aan de zorgverzekeraars op basis van Diagnose Behandeling Combinaties (DBC’s) ter financiering van het budget van de onder artikel 1.a genoemde zorgaanbieder. Voor het inzicht van de zorgverzekeraars in de mate waarin verzekerden gebruik maken van geestelijke gezondheidszorg die onder de Zorgverzekeringswet valt en voor de verdere ontwikkeling van het model van risicoverevening is het noodzakelijk een bron van gegevens beschikbaar te hebben ten behoeve van gegevensuitwisseling tussen zorgverzekeraars en zorgaanbieders in 2007. De levering van gegevens is verplicht voor alle zorgaanbieders die geestelijke gezondheidszorg leveren. 
 
 ### Artikel  4  
 
@@ -63,11 +63,11 @@ Onderstaande door de zorgaanbieders aan te leveren basisgegevens worden maandeli
 
 ### Artikel  5  
 
-####Overzicht van bekostigingsbedragen en toerekening naar [ZVW](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)/[AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Overzicht van bekostigingsbedragen en toerekening naar ZVW/AWBZ
 
-Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in kosten en voor de vaststelling van de zorg/kosten die wordt overgeheveld naar de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De verwijzing naar [zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)/[awbz](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is globaal van aard en voor statistische doeleinden.  
+Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in kosten en voor de vaststelling van de zorg/kosten die wordt overgeheveld naar de Zorgverzekeringswet. De verwijzing naar zvw/awbz is globaal van aard en voor statistische doeleinden.  
 
-| Zorgprestatie  | Code  | Bedrag  | [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)/[awbz](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)  |
+| Zorgprestatie  | Code  | Bedrag  | Zvw/awbz  |
 |:---|:---|:---|:---|
 | Eerste opnamen  |
 | Eerste opname kinder- en  jeugdpsychiatrie  | F001  | 355,60  | zvw  |

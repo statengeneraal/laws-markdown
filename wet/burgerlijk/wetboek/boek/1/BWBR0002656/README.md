@@ -99,7 +99,7 @@ Hij die de naam van een ander zonder diens toestemming voert, handelt jegens die
 1.  Een minderjarige volgt de woonplaats van hem die het gezag over hem uitoefent, de onder curatele gestelde die van zijn curator. Oefenen beide ouders tezamen het gezag over hun minderjarige kind uit, doch hebben zij niet dezelfde woonplaats, dan volgt het kind de woonplaats van de ouder bij wie het feitelijk verblijft dan wel laatstelijk heeft verbleven.    
 2.   Wanneer iemands goederen onder bewind staan, volgt hij voor alles wat de uitoefening van dit bewind betreft, de woonplaats van de bewindvoerder.    
 3.   Wanneer ten behoeve van een persoon een mentorschap is ingesteld, volgt hij voor alles wat de uitoefening van dit mentorschap betreft, de woonplaats van de mentor.  
-4. Het eerste, tweede en derde lid zijn niet van toepassing voor zover het betreft de relatieve bevoegdheid van de rechter gedurende een curatele, een bewind als bedoeld in titel 19 en een mentorschap. Hetzelfde geldt indien ten aanzien van een persoon een curatele, een mentorschap of een bewind als bedoeld in titel 19 en tevens een bewind als bedoeld in [afdeling 7 van titel 5 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) of een bewind als bedoeld in [artikel 182 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van kracht zijn en de bevoegde kantonrechter de andere kantonrechter als uitsluitend bevoegde heeft aangewezen.  
+4. Het eerste, tweede en derde lid zijn niet van toepassing voor zover het betreft de relatieve bevoegdheid van de rechter gedurende een curatele, een bewind als bedoeld in titel 19 en een mentorschap. Hetzelfde geldt indien ten aanzien van een persoon een curatele, een mentorschap of een bewind als bedoeld in titel 19 en tevens een bewind als bedoeld in afdeling 7 van titel 5 van Boek 4 of een bewind als bedoeld in artikel 182 van Boek 7 van kracht zijn en de bevoegde kantonrechter de andere kantonrechter als uitsluitend bevoegde heeft aangewezen.  
 5.   Wanneer de persoon, van wie de woonplaats wordt afgeleid, overlijdt of zijn gezag of zijn hoedanigheid verliest, duurt de afgeleide woonplaats voort, totdat een nieuwe woonplaats is verkregen.   
 
 ### Artikel  13  
@@ -112,7 +112,7 @@ Een persoon die een kantoor of een filiaal houdt, heeft ten aanzien van aangeleg
 
 ### Artikel  15  
 
-Een persoon kan een andere woonplaats dan zijn werkelijke slechts kiezen, wanneer de wet hem daartoe verplicht, of wanneer de keuze bij schriftelijk of langs elektronische weg aangegane overeenkomst voor een of meer bepaalde rechtshandelingen of rechtsbetrekkingen geschiedt en voor de gekozen woonplaats een redelijk belang aanwezig is. Indien de keuze bij langs elektronische weg aangegane overeenkomst geschiedt, is [artikel 227a lid 1 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van overeenkomstige toepassing. 
+Een persoon kan een andere woonplaats dan zijn werkelijke slechts kiezen, wanneer de wet hem daartoe verplicht, of wanneer de keuze bij schriftelijk of langs elektronische weg aangegane overeenkomst voor een of meer bepaalde rechtshandelingen of rechtsbetrekkingen geschiedt en voor de gekozen woonplaats een redelijk belang aanwezig is. Indien de keuze bij langs elektronische weg aangegane overeenkomst geschiedt, is artikel 227a lid 1 van Boek 6 van overeenkomstige toepassing. 
 
 ### Titel  4  
 
@@ -158,7 +158,7 @@ Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van de door
 
 ### Artikel  17a  
 
-1.  De registers van de burgerlijke stand worden in het gemeentehuis bewaard totdat zij naar een gemeentelijke archiefbewaarplaats in de zin van de [Archiefwet 1995](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 276) worden overgebracht.    
+1.  De registers van de burgerlijke stand worden in het gemeentehuis bewaard totdat zij naar een gemeentelijke archiefbewaarplaats in de zin van de Archiefwet 1995 (*Stb.* 276) worden overgebracht.    
 2.   De overbrenging naar de gemeentelijke archiefbewaarplaats van de in het gemeentehuis berustende registers van geboorten, van huwelijken dan wel geregistreerde partnerschappen en van overlijden vindt eerst plaats onderscheidenlijk honderd jaar, vijfenzeventig jaar en vijftig jaar na de afsluiting van deze registers.   
 
 ### Artikel  17b  
@@ -242,7 +242,7 @@ b. de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks 
 4.   Voor een in het derde lid, onder *b*, genoemde persoon bestaat de verplichting alleen indien een onder *a* genoemde persoon ontbreekt of verhinderd is.    
 5.   Wanneer tot de aangifte bevoegde of verplichte personen ontbreken of nalaten de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de geboorteakte moet worden opgemaakt.    
 6.   De verplichting tot aangifte moet worden vervuld binnen drie dagen na de dag der bevalling. Van een aangifte later dan de derde dag, bedoeld in de eerste zin van dit lid, wordt door de ambtenaar van de burgerlijke stand mededeling gedaan aan het openbaar ministerie.    
-7.   De ambtenaar van de burgerlijke stand stelt de identiteit van de aangever vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).    
+7.   De ambtenaar van de burgerlijke stand stelt de identiteit van de aangever vast aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.    
 8.   Bij de aangifte kan de ambtenaar van de burgerlijke stand zich doen overleggen een door de arts of de verloskundige die bij het ter wereld komen van het kind tegenwoordig was, opgemaakte verklaring dat het kind uit de als moeder opgegeven persoon is geboren. Is het kind buiten de tegenwoordigheid van een arts of verloskundige ter wereld gekomen, dan kan hij zich een door een zodanige hulpverlener nadien opgemaakte verklaring doen overleggen.    
 9.   Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het achtste lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is artikel 19b van toepassing.   
 
@@ -260,8 +260,8 @@ b. de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks 
 ### Artikel  19h  
 
 1.  Tot de aangifte van een overlijden is bevoegd wie daarvan uit eigen wetenschap kennis draagt.    
-2.   Binnen de in de [Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) (*Stb.* 1991, 130) gestelde termijn voor de begraving of verbranding, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.    
-3.   Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de [Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) gestelde termijn voor de begraving of verbranding de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.    
+2.   Binnen de in de Wet op de lijkbezorging (*Stb.* 1991, 130) gestelde termijn voor de begraving of verbranding, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.    
+3.   Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de Wet op de lijkbezorging gestelde termijn voor de begraving of verbranding de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.    
 4.   In de gevallen bedoeld in artikel 19*f*, tweede en derde lid, geschiedt de aangifte schriftelijk door de hulpofficier van justitie.   
 
 ### Artikel  19i  
@@ -283,7 +283,7 @@ b. op welke wijze en waar overlijdensakten zullen worden opgemaakt van militaire
 ### Artikel  19k  
 
 1.  Een ieder die zijn gewone verblijfplaats in Nederland heeft, kan de ambtenaar van de burgerlijke stand van zijn woonplaats verzoeken om afgifte van een attestatie de vita opgesteld overeenkomstig bijlage 1 van de op 10 september 1998 te Parijs tot stand gekomen Overeenkomst betreffende de afgifte van een attestatie de vita (Trb. 2004, 283).   
-2.  De verzoeker verschijnt in persoon voor de ambtenaar van de burgerlijke stand van zijn woonplaats, dan wel voor de daartoe in Nederland bevoegde diplomatieke of consulaire autoriteit, tenzij hij in de onmogelijkheid hiertoe verkeert. Hij toont zijn identiteit aan aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+2.  De verzoeker verschijnt in persoon voor de ambtenaar van de burgerlijke stand van zijn woonplaats, dan wel voor de daartoe in Nederland bevoegde diplomatieke of consulaire autoriteit, tenzij hij in de onmogelijkheid hiertoe verkeert. Hij toont zijn identiteit aan aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
 3.  De attestatie de vita is gedurende zes maanden geldig, te rekenen vanaf de datum van afgifte. Zij is vrijgesteld van de vereisten van vertaling en van legalisatie dan wel van enig soortgelijk formeel vereiste.   
 4.  De attestatie de vita wordt afgegeven in de Nederlandse taal en in de Franse taal. Op verzoek wordt daarbij tevens afgegeven: 
 
@@ -302,9 +302,9 @@ b. een vertaling van de attestatie de vita in het Nederlands.
 
 ### Artikel  20  
 
-1.  De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap of moederschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap,, alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:  
+1.  De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap of moederschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap, wijziging van de vermelding van het geslacht na een aangifte als bedoeld in artikel 28, alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:  
 
-a. een last tot wijziging van de voornamen of van de geslachtsnaam, een last tot wijziging van de vermelding van het geslacht, een adoptie, een herroeping van een adoptie, een vernietiging van een erkenning, een gerechtelijke vaststelling van het ouderschap, een gegrondverklaring van een ontkenning van het vaderschap of moederschap of, of een vernietiging van zulk een uitspraak;   
+a. een last tot wijziging van de voornamen of van de geslachtsnaam, een adoptie, een herroeping van een adoptie, een vernietiging van een erkenning, een gerechtelijke vaststelling van het ouderschap, een gegrondverklaring van een ontkenning van het vaderschap of moederschap of, of een vernietiging van zulk een uitspraak;   
 
 b. de nietigverklaring van een huwelijk of van een geregistreerd partnerschap of de vernietiging van zulk een uitspraak tussen echtelieden of geregistreerde partners wier huwelijksakte onderscheidenlijk akte van een geregistreerd partnerschap, dan wel akte van omzetting van een geregistreerd partnerschap of huwelijk in de Nederlandse registers van de burgerlijke stand is opgenomen.      
 2.   De ambtenaar van de burgerlijke stand voegt eveneens aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van in kracht van gewijsde gegane rechterlijke uitspraken die een echtscheiding of een ontbinding van een geregistreerd partnerschap, een ontbinding van een huwelijk na scheiding van tafel en bed of de vernietiging van zulk een uitspraak tussen echtelieden wier huwelijksakte, akte van registratie van een partnerschap of akte van omzetting van een geregistreerd partnerschap of huwelijk in de Nederlandse registers van de burgerlijke stand is opgenomen, inhouden.   
@@ -421,14 +421,14 @@ De dubbelen van de akten van de burgerlijke stand zijn openbaar zolang zij onder
 
 a. de akte een persoon betreft die op het ogenblik van het verzoek Nederlander is of te eniger tijd Nederlander dan wel Nederlands onderdaan niet-Nederlander is geweest;   
 
-b. de akte een persoon betreft die rechtmatig verblijft op grond van [artikel 8, onder c en d, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
+b. de akte een persoon betreft die rechtmatig verblijft op grond van artikel 8, onder c en d, van de Vreemdelingenwet 2000.     
 2.   Buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akten van geboorte worden op bevel van het openbaar ministerie of op verzoek van een belanghebbende ingeschreven in het register van geboorten van de gemeente 's-Gravenhage, indien de akte een persoon van vreemde nationaliteit betreft en op grond van enige bepaling van dit boek een latere vermelding aan de akte van geboorte moet worden toegevoegd.    
 3.   De ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage kan ook ambtshalve de in de vorige leden bedoelde akten inschrijven.    
-4.  Alvorens op grond van het eerste of derde lid tot de inschrijving van een huwelijksakte of van een akte van registratie van een partnerschap over te gaan, doet de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage zich een door de korpschef in de zin van de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgegeven verklaring als bedoeld in artikel 44, eerste lid, onder k, overleggen. Deze verklaring wordt opgesteld op verzoek van de echtgenoot of de geregistreerde partner op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld in artikel 44, eerste lid, onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere echtgenoot of de andere geregistreerde partner. De verklaring is niet vereist indien: 
+4.  Alvorens op grond van het eerste of derde lid tot de inschrijving van een huwelijksakte of van een akte van registratie van een partnerschap over te gaan, doet de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage zich een door de korpschef in de zin van de Vreemdelingenwet 2000 afgegeven verklaring als bedoeld in artikel 44, eerste lid, onder k, overleggen. Deze verklaring wordt opgesteld op verzoek van de echtgenoot of de geregistreerde partner op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld in artikel 44, eerste lid, onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere echtgenoot of de andere geregistreerde partner. De verklaring is niet vereist indien: 
 
 a. de echtgenoten of geregistreerde partners aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben;  
 
-b. de betrokken echtgenoot of geregistreerde partner die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van [artikel 8, onder b, d of e, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+b. de betrokken echtgenoot of geregistreerde partner die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000;  
 
 c. het huwelijk of het geregistreerd partnerschap ten minste tien jaren vóór de inschrijving is voltrokken, of  
 
@@ -453,7 +453,7 @@ Aan de akte van inschrijving, bedoeld in artikel 25, worden de latere vermelding
 
 a. die persoon Nederlander is of te eniger tijd Nederlander dan wel Nederlands onderdaan niet-Nederlander is geweest;   
 
-b. die persoon rechtmatig verblijft op grond van [artikel 8, onder c en d, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);   
+b. die persoon rechtmatig verblijft op grond van artikel 8, onder c en d, van de Vreemdelingenwet 2000;   
 
 c. op grond van dit boek een latere vermelding aan de akte van geboorte moet worden toegevoegd.      
 2.   De rechtbank houdt rekening met alle bewijzen en aanwijzingen omtrent de omstandigheden waaronder, en het tijdstip waarop de geboorte moet hebben plaatsgehad. De geslachtsnaam, de voornamen, alsmede de plaats en de dag van de geboorte van de vader en van de moeder worden vastgesteld, voor zover daarvoor aanwijzingen zijn verkregen.    
@@ -493,7 +493,7 @@ Is met betrekking tot de verzoeker geen akte in de Nederlandse registers van de 
 
 ### Artikel  26d  
 
-De overlegging van een authentiek afschrift van de buitenlandse akte of uitspraak waarop het verzoek betrekking heeft, kan worden verlangd. [Artikel 986, derde en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.  
+De overlegging van een authentiek afschrift van de buitenlandse akte of uitspraak waarop het verzoek betrekking heeft, kan worden verlangd. Artikel 986, derde en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.  
 
 ### Artikel  26e  
 
@@ -517,34 +517,31 @@ De griffier zendt een afschrift van de beschikking aan de belanghebbende partije
 
 ### Afdeling  13  
 
-####De rechterlijke last tot wijziging van de vermelding van het geslacht in de akte van geboorte 
+####Wijziging van de vermelding van het geslacht in de akte van geboorte
 
 ### Artikel  28  
 
-1.  Iedere Nederlander die de overtuiging heeft tot het andere geslacht te behoren dan is vermeld in de akte van geboorte en lichamelijk aan het verlangde geslacht is aangepast voor zover dit uit medisch of psychologisch oogpunt mogelijk en verantwoord is, kan de rechtbank verzoeken wijziging van de vermelding van het geslacht in de akte van geboorte te gelasten, indien deze persoon als mannelijk in de akte van geboorte vermeld staande, nimmer meer in staat zal zijn kinderen te verwekken, dan wel als vrouwelijk in de akte van geboorte vermeld staande, nimmer meer in staat zal zijn kinderen te baren.   
-2.   Voor de toepassing van het bepaalde in het eerste lid en de artikelen 28a en 28b van dit boek wordt onder akte van geboorte mede verstaan een akte van inschrijving van een buiten Nederland opgemaakte akte van geboorte of van een beschikking als bedoeld in artikel 25c van dit boek.    
-3.   Degene, die de Nederlandse nationaliteit niet bezit, kan een verzoek als bedoeld in het eerste lid doen, indien hij reeds gedurende een tijdvak van ten minste één jaar, onmiddellijk voorafgaande aan het verzoek, woonplaats in Nederland heeft en een rechtsgeldige verblijfstitel heeft en voor het overige voldoet aan de in het eerste lid gestelde voorwaarden. Indien de akte van geboorte niet hier te lande in de registers van de burgerlijke stand is ingeschreven, wordt tevens de rechtbank verzocht de inschrijving te gelasten van de akte van geboorte in het register van geboorten van de gemeente 's-Gravenhage.   
+1.  Iedere Nederlander van zestien jaar of ouder die de overtuiging heeft tot het andere geslacht te behoren dan is vermeld in de akte van geboorte, kan van die overtuiging aangifte doen bij de ambtenaar van de burgerlijke stand onder wie de desbetreffende akte berust. Indien de akte van geboorte niet hier te lande in de registers van de burgerlijke stand is ingeschreven, geschiedt de aangifte bij de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage.   
+2.  Voor de toepassing van het eerste lid en het derde lid alsmede de artikelen 28a en 28b wordt onder akte van geboorte mede verstaan een akte van inschrijving van een buiten Nederland opgemaakte akte van geboorte of van een beschikking als bedoeld in artikel 25c.   
+3.  Degene die de Nederlandse nationaliteit niet bezit kan een aangifte als bedoeld in het eerste lid doen, indien hij gedurende een tijdvak van ten minste één jaar, onmiddellijk voorafgaande aan de aangifte, woonplaats in Nederland heeft en een rechtsgeldige verblijfstitel heeft. In dat geval wordt tevens een afschrift van de akte van geboorte overgelegd.   
+4.  De minderjarige van zestien jaar of ouder is bekwaam tot het doen van de in het eerste lid bedoelde aangifte ten behoeve van zichzelf, alsmede om ter zake in en buiten rechte op te treden.  
 
 ### Artikel  28a  
 
-1.  Bij het verzoek moeten worden overgelegd een afschrift van de akte van geboorte alsmede een gezamenlijk ondertekende verklaring van bij algemene maatregel van bestuur aangewezen deskundigen, afgegeven ten hoogste zes maanden voor de datum van indiening van het verzoek, waaruit blijkt:  
-
-a. de overtuiging van de verzoeker dat hij tot het andere geslacht behoort dan in de akte van geboorte is vermeld en waarin is vervat het oordeel van de daartoe bevoegde deskundige dat die overtuiging, gelet op de periode waarin de verzoeker als zodanig heeft geleefd en zo mogelijk op andere daarbij te vermelden feiten of omstandigheden, als van blijvende aard kan worden beschouwd;   
-
-b. of en zo ja, in hoeverre de verzoeker lichamelijk aan het verlangde geslacht zodanig is aangepast als uit medisch of psychologisch oogpunt mogelijk en verantwoord is;   
-
-c. dat de verzoeker als mannelijk in de akte van geboorte vermeld staande, nimmer meer in staat zal zijn kinderen te verwekken, dan wel als vrouwelijk in de akte van geboorte vermeld staande, nimmer meer in staat zal zijn kinderen te baren.      
-2.   In de verklaring behoeft het in het eerste lid onder *a* bedoelde onderdeel niet te worden opgenomen indien de verzoeker lichamelijk reeds aan het verlangde geslacht is aangepast.   
+1.  Bij de aangifte wordt overgelegd een verklaring van een bij of krachtens algemene maatregel van bestuur aangewezen deskundige, afgegeven ten hoogste zes maanden voor de datum van de aangifte.   
+2.  De deskundigenverklaring vermeldt dat degene op wie de aangifte betrekking heeft jegens de deskundige heeft verklaard de overtuiging te hebben tot het andere geslacht te behoren dan is vermeld in zijn akte van geboorte en jegens de deskundige er blijk van heeft gegeven diens voorlichting omtrent de reikwijdte en de betekenis van deze staat te hebben begrepen en de wijziging van de vermelding van het geslacht in de akte van geboorte weloverwogen te blijven wensen. De deskundige geeft de verklaring niet af indien hij gegronde reden heeft om aan de gegrondheid van bedoelde overtuiging te twijfelen.  
 
 ### Artikel  28b  
 
-1.  Het verzoek wordt toegewezen indien de rechtbank van oordeel is dat voldoende is komen vast te staan dat de verzoeker de overtuiging heeft tot het andere geslacht te behoren dan in de akte van geboorte is vermeld en dat deze overtuiging als van blijvende aard kan worden beschouwd en de verzoeker voldoet aan de in het eerste lid van artikel 28 gestelde voorwaarden.    
-2.   Indien de rechtbank het verzoek om wijziging van de vermelding van het geslacht inwilligt, kan zij desverzocht tevens de wijziging van de voornamen van de verzoeker gelasten.   
+1.  Indien aan artikel 28a is voldaan voegt de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding toe van wijziging van het geslacht. Artikel 27 is van overeenkomstige toepassing.   
+2.  In het in de eerste zin van het eerste lid bedoelde geval kan de ambtenaar van de burgerlijke stand desverzocht tevens overgaan tot wijziging van de voornamen van degene op wie de aangifte betrekking heeft.   
+3.  In het geval bedoeld in artikel 28, eerste lid, tweede zin, schrijft de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage de akte van geboorte tevens in het register van geboorten van die gemeente in.  
 
 ### Artikel  28c  
 
-1.  De wijziging van de vermelding van het geslacht heeft haar gevolgen, die uit dit boek voortvloeien, vanaf de dag waarop de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding toevoegt van de last tot wijziging.    
-2.   De wijziging van de vermelding van het geslacht laat de op het in het eerste lid genoemde tijdstip bestaande familierechtelijke betrekkingen en de daaruit voortvloeiende op dit boek gegronde rechten, bevoegdheden en verplichtingen onverlet. De verzoeken in verband met artikel 157 en in verband met artikel 394 van dit boek kunnen ook worden gedaan na het in het eerste lid genoemde tijdstip.   
+1.  De wijziging van de vermelding van het geslacht in de akte van geboorte heeft haar gevolgen, die uit dit boek voortvloeien, vanaf de dag waarop de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding van wijziging van het geslacht toevoegt. Dit tijdstip geldt eveneens voor de wijziging van de voornamen, bedoeld in artikel 28b, tweede lid.   
+2.  De wijziging van de vermelding van het geslacht laat de op het in het eerste lid genoemde tijdstip bestaande familierechtelijke betrekkingen en de daaruit voortvloeiende op dit boek gegronde rechten, bevoegdheden en verplichtingen onverlet.   
+3.  Indien de betrokkene na de wijziging van de vermelding van het geslacht een kind baart, wordt voor de toepassing van titel 11 en hetgeen daaruit voortvloeit uitgegaan van het geslacht dat deze voor de wijziging had. In geval van adoptie van een kind op verzoek van degene die dit na de wijziging van de vermelding van het geslacht heeft verwekt of heeft ingestemd met een daad die de verwekking van het kind met eigen zaad tot gevolg heeft gehad, en het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, is de maatstaf van het vierde lid van artikel 227 van toepassing.  
 
 ### Afdeling  14  
 
@@ -678,8 +675,8 @@ i. de verklaring, bedoeld in artikel 31, tweede lid, van dit boek, ingeval deze 
 
 j. een schriftelijke opgave van de namen en de adressen van de personen die zijn uitgenodigd om als getuigen bij de voltrekking van het huwelijk aanwezig te zijn;   
 
-k. een door de korpschef in de zin van de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aan de ambtenaar van de burgerlijke stand afgegeven verklaring waaruit blijkt dat de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, rechtmatig in Nederland verblijft als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel voornemens is niet in Nederland te verblijven. De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot.      
-2.  De verklaring, bedoeld in het eerste lid, onderdeel k, is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van [artikel 8, onder b, d of e, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+k. een door de korpschef in de zin van de Vreemdelingenwet 2000 aan de ambtenaar van de burgerlijke stand afgegeven verklaring waaruit blijkt dat de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, rechtmatig in Nederland verblijft als bedoeld in artikel 8 van de Vreemdelingenwet 2000, dan wel voornemens is niet in Nederland te verblijven. De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Bij het verzoek wordt een gewaarmerkt afschrift als bedoeld onder a, overgelegd. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot.      
+2.  De verklaring, bedoeld in het eerste lid, onderdeel k, is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000.   
 3.   Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inhoud van het in het eerste lid onder *a* bedoelde gewaarmerkt afschrift van gegevens uit de basisregistratie personen, alsmede de in hetzelfde lid onder *k* bedoelde verklaring.   
 
 ### Artikel  45  
@@ -699,7 +696,7 @@ Wanneer het huwelijk binnen een jaar, te rekenen van de datum van de akte van hu
 ### Artikel  47  
 
 1.  Indien een minderjarige een huwelijk wenst aan te gaan, onderzoekt de ambtenaar van de burgerlijke stand, van welke personen daartoe de toestemming wordt vereist.    
-2.   Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) onverwijld van het voorgenomen huwelijk.   
+2.   Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg onverwijld van het voorgenomen huwelijk.   
 
 ### Artikel  48  
 
@@ -781,7 +778,7 @@ Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de art
 
 1.  Komt vast te staan dat op het tijdstip waarop de voltrekking van het huwelijk zal plaatsvinden meer dan zes maanden zullen zijn verstreken sinds de afgifte van een verklaring als bedoeld in artikel 44, eerste lid, onder k, dan doet de ambtenaar van de burgerlijke stand zich, alvorens tot de voltrekking van het huwelijk wordt overgegaan, wederom een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.    
 2.   Indien de overlegging van een verklaring als bedoeld in artikel 44, eerste lid, onder k, op het tijdstip van de aangifte van het huwelijk niet werd vereist, doet de ambtenaar van de burgerlijke stand zich, alvorens tot voltrekking van het huwelijk wordt overgegaan, alsnog een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.    
-3.  De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot. De verklaring is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van [artikel 8, onder b, d of e, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+3.  De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot. De verklaring is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000.  
 
 ### Artikel  62  
 
@@ -937,7 +934,7 @@ c. met wederzijds goedvinden door inschrijving door de ambtenaar van de burgerli
 d. door ontbinding op verzoek van de partners of een van hen;   
 
 e. door omzetting van een geregistreerd partnerschap in een huwelijk.     
-2.  Tot inschrijving van verklaringen als bedoeld in het eerste lid, onder c, is de ambtenaar van de burgerlijke stand steeds bevoegd indien het geregistreerd partnerschap in Nederland is aangegaan. Indien het partnerschap buiten Nederland is aangegaan, is de ambtenaar van de burgerlijke stand tot inschrijving van verklaringen als bedoeld in het eerste lid, onder c, bevoegd indien voldaan is aan de voorwaarden van [artikel 4, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voor de bevoegdheid van de rechter in geval van de ontbinding van het geregistreerd partnerschap.   
+2.  Tot inschrijving van verklaringen als bedoeld in het eerste lid, onder c, is de ambtenaar van de burgerlijke stand steeds bevoegd indien het geregistreerd partnerschap in Nederland is aangegaan. Indien het partnerschap buiten Nederland is aangegaan, is de ambtenaar van de burgerlijke stand tot inschrijving van verklaringen als bedoeld in het eerste lid, onder c, bevoegd indien voldaan is aan de voorwaarden van artikel 4, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering voor de bevoegdheid van de rechter in geval van de ontbinding van het geregistreerd partnerschap.   
 3.   Een geregistreerd partnerschap kan niet met wederzijds goedvinden als bedoeld in het eerste lid, onder c, worden beëindigd indien de partners: 
 
 a. al dan niet gezamenlijk het gezag uitoefenen over een of meer van hun gezamenlijke kinderen;  
@@ -1047,8 +1044,8 @@ d. overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uits
 
 1.  Een rechtshandeling die een echtgenoot in strijd met het vorige artikel heeft verricht, is vernietigbaar; slechts de andere echtgenoot kan een beroep op de vernietigingsgrond doen.    
 2.   Het vorige lid geldt niet voor een andere handeling dan een gift, indien de wederpartij te goeder trouw was.    
-3.   Het einde van het huwelijk en scheiding van tafel en bed hebben geen invloed op de bevoegdheid om ter vernietiging van een rechtshandeling van een echtgenoot een beroep op de vernietigingsgrond te doen, die voordien was ontstaan. Indien de andere echtgenoot dientengevolge schuldenaar uit die rechtshandeling wordt, geldt [artikel 51 lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) voor hem slechts, zolang de termijn van [artikel 52 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet is verstreken.    
-4.   De verklaring of rechtsvordering tot vernietiging behoeft in afwijking van de [artikelen 50 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [51 lid 2 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet mede te worden gericht tot de echtgenoot die de handeling heeft verricht.    
+3.   Het einde van het huwelijk en scheiding van tafel en bed hebben geen invloed op de bevoegdheid om ter vernietiging van een rechtshandeling van een echtgenoot een beroep op de vernietigingsgrond te doen, die voordien was ontstaan. Indien de andere echtgenoot dientengevolge schuldenaar uit die rechtshandeling wordt, geldt artikel 51 lid 3 van Boek 3 voor hem slechts, zolang de termijn van artikel 52 lid 1 van Boek 3 niet is verstreken.    
+4.   De verklaring of rechtsvordering tot vernietiging behoeft in afwijking van de artikelen 50 lid 1 en 51 lid 2 van Boek 3 niet mede te worden gericht tot de echtgenoot die de handeling heeft verricht.    
 5.   De echtgenoot die een beroep op de vernietigingsgrond heeft gedaan, kan tevens alle uit de nietigheid voortvloeiende rechtsvorderingen instellen.  
 
 ### Artikel  90  
@@ -1056,7 +1053,7 @@ d. overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uits
 1.  Een echtgenoot is bevoegd tot het bestuur van zijn eigen goederen en, volgens de regels van artikel 97, tot het bestuur van goederen van een gemeenschap.    
 2.  Het bestuur van een echtgenoot over een goed omvat de uitoefening van de daaraan verbonden bevoegdheden, daaronder begrepen de bevoegdheid tot beschikking en tot beheer en de bevoegdheid om ten aanzien van dat goed feitelijke handelingen te verrichten en toe te laten, onverminderd de bevoegdheden tot genot en gebruik die de andere echtgenoot overeenkomstig de huwelijksverhouding toekomen.   
 3.   Tussen de echtgenoot die het hem toekomend bestuur overlaat aan de andere echtgenoot, en deze laatste zijn de bepalingen omtrent opdracht van overeenkomstige toepassing, met inachtneming van de aard van de huwelijksverhouding en de aard der goederen.    
-4.   De echtgenoot die een goed bestuurt, kan als partij naast de andere echtgenoot toetreden tot een rechtshandeling die deze laatste met betrekking tot dat goed heeft verricht. De verklaring van toetreding wordt gericht tot hen die partij bij de rechtshandeling zijn; [artikel 56 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van overeenkomstige toepassing. Is voor het verrichten van de rechtshandeling een bepaalde vorm voorgeschreven, dan geldt voor de toetreding hetzelfde vereiste. De echtgenoot kan toetreding tot bijkomstige en tot reeds opeisbare rechten en verplichtingen uitsluiten; hij wordt geacht zich slechts te hebben verbonden onder eerbiediging van tevoren aan derden verleende rechten.   
+4.   De echtgenoot die een goed bestuurt, kan als partij naast de andere echtgenoot toetreden tot een rechtshandeling die deze laatste met betrekking tot dat goed heeft verricht. De verklaring van toetreding wordt gericht tot hen die partij bij de rechtshandeling zijn; artikel 56 van Boek 3 is van overeenkomstige toepassing. Is voor het verrichten van de rechtshandeling een bepaalde vorm voorgeschreven, dan geldt voor de toetreding hetzelfde vereiste. De echtgenoot kan toetreding tot bijkomstige en tot reeds opeisbare rechten en verplichtingen uitsluiten; hij wordt geacht zich slechts te hebben verbonden onder eerbiediging van tevoren aan derden verleende rechten.   
 
 ### Artikel  91  
 
@@ -1094,16 +1091,16 @@ Bij huwelijkse voorwaarden kan uitdrukkelijk of door de aard der bedingen worden
 
 a. goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen;  
 
-b. pensioenrechten waarop de [Wet verevening pensioenrechten bij scheiding](../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) van toepassing is alsmede met die pensioenrechten verband houdende rechten op nabestaandenpensioen;  
+b. pensioenrechten waarop de Wet verevening pensioenrechten bij scheiding van toepassing is alsmede met die pensioenrechten verband houdende rechten op nabestaandenpensioen;  
 
-c. rechten op het vestigen van vruchtgebruik als bedoeld in de [artikelen 29](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [30 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge [artikel 34 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).     
+c. rechten op het vestigen van vruchtgebruik als bedoeld in de artikelen 29 en 30 van Boek 4, vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge artikel 34 van Boek 4.     
 3.  Goederen en schulden die aan een der echtgenoten op enigerlei bijzondere wijze verknocht zijn, vallen slechts in de gemeenschap voor zover die verknochtheid zich hiertegen niet verzet.   
 4.  Vruchten van goederen die niet in de gemeenschap vallen, vallen evenmin in de gemeenschap. Buiten de gemeenschap valt hetgeen wordt geïnd op een vordering die buiten de gemeenschap valt, alsmede een vordering tot vergoeding die in de plaats van een eigen goed van een echtgenoot treedt, waaronder begrepen een vordering ter zake van waardevermindering van zulk een goed.   
 5.  De gemeenschap omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten, met uitzondering van schulden: 
 
 a. betreffende van de gemeenschap uitgezonderde goederen;  
 
-b. uit door een der echtgenoten gedane giften, gemaakte bedingen en aangegane omzettingen als bedoeld in [artikel 126, eerste lid, en tweede lid, onder a en c, van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).     
+b. uit door een der echtgenoten gedane giften, gemaakte bedingen en aangegane omzettingen als bedoeld in artikel 126, eerste lid, en tweede lid, onder a en c, van Boek 4.     
 6.  Bestaat tussen echtgenoten een geschil aan wie van hen beiden een goed toebehoort en kan geen van beiden zijn recht op dit goed bewijzen, dan wordt dat goed als gemeenschapsgoed aangemerkt. Het vermoeden werkt niet ten nadele van de schuldeisers der echtgenoten.  
 
 ### Artikel  95  
@@ -1133,7 +1130,7 @@ Echtgenoten kunnen bij overeenkomst het beloop van vergoedingen ingevolge de art
 
 ### Artikel  97  
 
-1.  Een goed dat op naam van een echtgenoot staat of dat hij krachtens erfopvolging bij versterf, making, lastbevoordeling of gift heeft verkregen, staat onder diens bestuur. Voor het overige is ieder der echtgenoten bevoegd tot het bestuur over de goederen van de gemeenschap. [Artikel 170, eerste lid, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van overeenkomstige toepassing.   
+1.  Een goed dat op naam van een echtgenoot staat of dat hij krachtens erfopvolging bij versterf, making, lastbevoordeling of gift heeft verkregen, staat onder diens bestuur. Voor het overige is ieder der echtgenoten bevoegd tot het bestuur over de goederen van de gemeenschap. Artikel 170, eerste lid, van Boek 3 is van overeenkomstige toepassing.   
 2.  Is een goed der gemeenschap met toestemming, verleend door de echtgenoot onder wiens bestuur dat goed alleen of mede stond, dienstbaar aan een beroep of bedrijf van de andere echtgenoot, dan berust het bestuur van dat goed, voor zover het handelingen betreft die als normale uitoefening van dat beroep of bedrijf zijn te beschouwen, uitsluitend bij laatstbedoelde echtgenoot en voor het overige bij de echtgenoten gezamenlijk. Een verleende toestemming geldt voor de gehele duur van het beroep of bedrijf, tenzij de echtgenoten anders overeenkomen, doch de rechtbank kan de dienstbaarheid op verzoek van een echtgenoot te allen tijde wegens gegronde redenen beëindigen.   
 3.  Geschillen tussen de echtgenoten over het bestuur ten aanzien van tot de gemeenschap behorende goederen, kunnen op verzoek van de echtgenoten of van een van hen aan de rechtbank worden voorgelegd.  
 
@@ -1160,7 +1157,7 @@ f. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partn
 g. in geval van opheffing bij latere huwelijkse voorwaarden: op het tijdstip, bedoeld in artikel 120, eerste lid.    
 2.  De ontbinding van de gemeenschap door indiening van een verzoek als bedoeld in het eerste lid, onder b, c en d, alsmede door sluiting van een overeenkomst als bedoeld onder e, kan aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien het desbetreffende verzoek dan wel de overeenkomst ingeschreven was in het huwelijksgoederenregister, bedoeld in artikel 116.   
 3.  Indien vast komt te staan dat een verzoek als bedoeld in het eerste lid, onder b, c en d, dan wel een overeenkomst als bedoeld in het eerste lid, onder e, niet meer kan leiden tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed, opheffing van de gemeenschap door een beschikking, onderscheidenlijk beëindiging van het geregistreerd partnerschap met wederzijds goedvinden, herleven van rechtswege alle gevolgen van de gemeenschap, alsof er geen verzoek was ingediend of overeenkomst was gesloten, tenzij zich inmiddels een andere grond voor ontbinding heeft voorgedaan. Nochtans wordt de geldigheid van rechtshandelingen die zijn verricht tussen het tijdstip van indiening van het verzoek of sluiting van de overeenkomst en het tijdstip waarop komt vast te staan dat het verzoek of de overeenkomst niet meer tot het in de eerste zin bedoelde gevolg kan leiden, beoordeeld naar het tijdstip van de handeling.   
-4.   Tezamen met een verzoek als bedoeld in het eerste lid, onder b, c of d kan reeds overeenkomstig [titel 7 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling.  
+4.   Tezamen met een verzoek als bedoeld in het eerste lid, onder b, c of d kan reeds overeenkomstig titel 7 van Boek 3 een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling.  
 
 ### Artikel  100  
 
@@ -1173,7 +1170,7 @@ Na de ontbinding der gemeenschap heeft ieder der echtgenoten de bevoegdheid de t
 
 ### Artikel  102  
 
-Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden waarvoor hij voordien aansprakelijk was. Voor andere gemeenschapsschulden is hij hoofdelijk met de andere echtgenoot verbonden, met dien verstande evenwel dat daarvoor slechts kan worden uitgewonnen hetgeen hij uit hoofde van verdeling van de gemeenschap heeft verkregen, onverminderd de [artikelen 190, eerste lid](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [191, eerste lid, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). De rechtsvordering tot voldoening van de in de tweede volzin bedoelde schuld verjaart tegelijkertijd met de rechtsvordering tegen de echtgenoot, in wiens persoon de in die volzin bedoelde gemeenschapsschuld is ontstaan. 
+Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden waarvoor hij voordien aansprakelijk was. Voor andere gemeenschapsschulden is hij hoofdelijk met de andere echtgenoot verbonden, met dien verstande evenwel dat daarvoor slechts kan worden uitgewonnen hetgeen hij uit hoofde van verdeling van de gemeenschap heeft verkregen, onverminderd de artikelen 190, eerste lid, en 191, eerste lid, van Boek 3. De rechtsvordering tot voldoening van de in de tweede volzin bedoelde schuld verjaart tegelijkertijd met de rechtsvordering tegen de echtgenoot, in wiens persoon de in die volzin bedoelde gemeenschapsschuld is ontstaan. 
 
 ### Artikel  103  
 
@@ -1205,7 +1202,7 @@ De rechtbank van de plaats waar de akte van afstand moet worden ingeschreven, ka
 
 ### Artikel  108  
 
-1.  Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 103 leden 2 en 3 van dit boek, en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. [Afdeling 3 van titel 6 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) betreffende de vereffening van nalatenschappen is zoveel mogelijk van overeenkomstige toepassing.    
+1.  Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 103 leden 2 en 3 van dit boek, en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. Afdeling 3 van titel 6 van Boek 4 betreffende de vereffening van nalatenschappen is zoveel mogelijk van overeenkomstige toepassing.    
 2.   Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid artikel 103 lid 4 van dit boek in te roepen.   
 
 ### Afdeling  4  
@@ -1218,7 +1215,7 @@ Een echtgenoot kan opheffing van de gemeenschap verzoeken, wanneer de andere ech
 
 ### Artikel  110  
 
-De echtgenoot die de opheffing van de gemeenschap verzoekt, kan tot behoud van zijn recht de maatregelen nemen, die in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) nader zijn aangegeven.  
+De echtgenoot die de opheffing van de gemeenschap verzoekt, kan tot behoud van zijn recht de maatregelen nemen, die in het Wetboek van Burgerlijke Rechtsvordering nader zijn aangegeven.  
 
 ### Artikel  111  
 
@@ -1297,7 +1294,7 @@ Een echtgenoot kan tegen derden zijn aanbreng van bij huwelijkse voorwaarden bui
 ### Artikel  133  
 
 1.  De verplichting tot verrekening van inkomsten of van vermogen is wederkerig.  
-2.  De verplichting tot verrekening heeft uitsluitend betrekking op inkomsten die of op vermogen dat de echtgenoten tijdens het bestaan van deze verplichting hebben verkregen. De verplichting tot verrekening heeft geen betrekking op vermogen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift wordt verkregen en ook niet op de vruchten daaruit of de voor dat vermogen of voor die vruchten in de plaats getreden goederen. Evenmin heeft de verplichting tot verrekening betrekking op vermogen dat bestaat uit rechten op het vestigen van vruchtgebruik als bedoeld in de [artikelen 29](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [30 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge de [artikelen 34](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [35](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [36](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [38](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [126, tweede lid, onder a en c, van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), en [afdeling 3 van titel 4 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).  
+2.  De verplichting tot verrekening heeft uitsluitend betrekking op inkomsten die of op vermogen dat de echtgenoten tijdens het bestaan van deze verplichting hebben verkregen. De verplichting tot verrekening heeft geen betrekking op vermogen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift wordt verkregen en ook niet op de vruchten daaruit of de voor dat vermogen of voor die vruchten in de plaats getreden goederen. Evenmin heeft de verplichting tot verrekening betrekking op vermogen dat bestaat uit rechten op het vestigen van vruchtgebruik als bedoeld in de artikelen 29 en 30 van Boek 4, vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge de artikelen 34, 35, 36, 38 en 126, tweede lid, onder a en c, van Boek 4, en afdeling 3 van titel 4 van Boek 4.  
 
 ### Artikel  134  
 
@@ -1306,7 +1303,7 @@ Bij uiterste wilsbeschikking of bij de gift kan worden bepaald dat geen verreken
 ### Artikel  135  
 
 1.  De verrekening van inkomsten of van vermogen geschiedt bij helfte.   
-2.  Op de verrekening zijn de [artikelen 181](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [183](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [195 tot en met 200 van Boek 3 van dit wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van overeenkomstige toepassing, met dien verstande dat voor de beoordeling van de vraag of benadeling als bedoeld in [artikel 196 van Boek 3 van dit wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft plaatsgevonden, de in artikel 142 genoemde tijdstippen bepalend zijn. De [artikelen 677 tot en met 680 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
+2.  Op de verrekening zijn de artikelen 181, 183 en 195 tot en met 200 van Boek 3 van dit wetboek van overeenkomstige toepassing, met dien verstande dat voor de beoordeling van de vraag of benadeling als bedoeld in artikel 196 van Boek 3 van dit wetboek heeft plaatsgevonden, de in artikel 142 genoemde tijdstippen bepalend zijn. De artikelen 677 tot en met 680 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.   
 3.  Een echtgenoot die opzettelijk een tot het te verrekenen vermogen behorend goed verzwijgt, zoek maakt of verborgen houdt waardoor de waarde daarvan niet in de verrekening is betrokken, dient de waarde daarvan niet te verrekenen, maar geheel aan de andere echtgenoot te vergoeden.  
 
 ### Artikel  136  
@@ -1379,7 +1376,7 @@ h. in geval van opheffing van de wederzijdse verplichting tot verrekening bij hu
 ### Artikel  143  
 
 1.  Vanaf de in het eerste lid van artikel 142 vermelde tijdstippen kan ieder der echtgenoten verzoeken dat het te verrekenen vermogen van de andere echtgenoot wordt beschreven.   
-2.  De [artikelen 671 tot en met 676](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [679 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
+2.  De artikelen 671 tot en met 676 en 679 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.   
 3.  Hetgeen in de vorige leden omtrent een echtgenoot is bepaald, geldt op overeenkomstige wijze na zijn overlijden voor zijn rechtverkrijgenden onder algemene titel.   
 4.  Van het eerste tot en met het derde lid kan niet worden afgeweken.  
 
@@ -1437,7 +1434,7 @@ b. indien de duurzame ontwrichting van het huwelijk in overwegende mate te wijte
 
 ### Artikel  155  
 
-In geval van echtscheiding en voor zover de ene echtgenoot na de huwelijkssluiting en voor de echtscheiding pensioenaanspraken heeft opgebouwd, heeft de andere echtgenoot overeenkomstig het bepaalde bij of krachtens de [Wet verevening pensioenrechten bij scheiding](../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) recht op pensioenverevening, tenzij de echtgenoten op de wijze voorzien in deze Wet toepasselijkheid daarvan hebben uitgesloten.  
+In geval van echtscheiding en voor zover de ene echtgenoot na de huwelijkssluiting en voor de echtscheiding pensioenaanspraken heeft opgebouwd, heeft de andere echtgenoot overeenkomstig het bepaalde bij of krachtens de Wet verevening pensioenrechten bij scheiding recht op pensioenverevening, tenzij de echtgenoten op de wijze voorzien in deze Wet toepasselijkheid daarvan hebben uitgesloten.  
 
 ### Artikel  157  
 
@@ -1460,7 +1457,7 @@ Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenk
 
 ### Artikel  159a  
 
-Een overeenkomst als bedoeld in de artikelen 158 en 159 van dit boek staat niet in de weg aan verhaal op grond van [paragraaf 6.5 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en laat de vaststelling van het te verhalen bedrag onverlet.  
+Een overeenkomst als bedoeld in de artikelen 158 en 159 van dit boek staat niet in de weg aan verhaal op grond van paragraaf 6.5 van de Wet werk en bijstand en laat de vaststelling van het te verhalen bedrag onverlet.  
 
 ### Artikel  160  
 
@@ -1572,7 +1569,7 @@ Een kind, zijn ouders en hun bloedverwanten staan in familierechtelijke betrekki
 
 a. uit wie het kind is geboren;  
 
-b. die op het tijdstip van de geboorte van het kind is gehuwd of door een geregistreerd partnerschap is verbonden met de vrouw uit wie het kind is geboren, indien dit kind is verwekt door kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, sub 1, van de Wet donorgegevens kunstmatige bevruchting](../../../../../../wet/wet/donorgegevens/kunstmatige/bevruchting/BWBR0013642/README.md) en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring is overgelegd, waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, tenzij de laatste zin van dit onderdeel of de eerste zin van artikel 199, onder b, geldt. De verklaring dient bij de aangifte van de geboorte te worden overgelegd aan de ambtenaar van de burgerlijke stand en werkt terug tot aan de geboorte van het kind. Indien het huwelijk of geregistreerd partnerschap na de kunstmatige donorbevruchting en voor de geboorte van het kind is ontbonden door de dood van de echtgenote of geregistreerde partner van de vrouw uit wie het kind is geboren, is de overleden echtgenote of geregistreerde partner eveneens moeder van het kind als de voornoemde verklaring wordt overgelegd bij de aangifte van de geboorte van het kind, zelfs indien de vrouw uit wie het kind is geboren was hertrouwd of een nieuw partnerschap had laten registreren;  
+b. die op het tijdstip van de geboorte van het kind is gehuwd of door een geregistreerd partnerschap is verbonden met de vrouw uit wie het kind is geboren, indien dit kind is verwekt door kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, sub 1, van de Wet donorgegevens kunstmatige bevruchting en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring is overgelegd, waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, tenzij de laatste zin van dit onderdeel of de eerste zin van artikel 199, onder b, geldt. De verklaring dient bij de aangifte van de geboorte te worden overgelegd aan de ambtenaar van de burgerlijke stand en werkt terug tot aan de geboorte van het kind. Indien het huwelijk of geregistreerd partnerschap na de kunstmatige donorbevruchting en voor de geboorte van het kind is ontbonden door de dood van de echtgenote of geregistreerde partner van de vrouw uit wie het kind is geboren, is de overleden echtgenote of geregistreerde partner eveneens moeder van het kind als de voornoemde verklaring wordt overgelegd bij de aangifte van de geboorte van het kind, zelfs indien de vrouw uit wie het kind is geboren was hertrouwd of een nieuw partnerschap had laten registreren;  
 
 c. die het kind heeft erkend;  
 
@@ -1775,7 +1772,7 @@ In zaken van afstamming wordt het minderjarige kind, optredende als verzoeker of
 1.  Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens artikel 41 geen huwelijk zouden mogen aangaan of krachtens artikel 80a, zesde lid, geen partnerschap zouden mogen aangaan.   
 2.  Het verzoek door twee personen tezamen kan slechts worden gedaan, indien zij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met elkaar hebben samengeleefd. Het verzoek door de adoptant die echtgenoot, geregistreerde partner of andere levensgezel van de ouder is, kan slechts worden gedaan, indien hij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met die ouder heeft samengeleefd. De in de tweede zin bedoelde voorwaarde geldt evenwel niet indien het kind is of wordt geboren binnen de relatie van de adoptant en die ouder.   
 3.  Het verzoek kan alleen worden toegewezen, indien de adoptie in het kennelijk belang van het kind is, op het tijdstip van het verzoek tot adoptie vaststaat en voor de toekomst redelijkerwijs te voorzien is dat het kind niets meer van zijn ouder of ouders in de hoedanigheid van ouder te verwachten heeft, en aan de voorwaarden, genoemd in artikel 228, wordt voldaan.  
-4.  Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, en het kind door en tengevolge van kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting](../../../../../../wet/wet/donorgegevens/kunstmatige/bevruchting/BWBR0013642/README.md) is verwekt en een door de stichting, bedoeld in [die wet](../../../../../../wet/wet/donorgegevens/kunstmatige/bevruchting/BWBR0013642/README.md), ter bevestiging hiervan afgegeven verklaring wordt overgelegd waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is of niet is voldaan aan de voorwaarden, genoemd in artikel 228.   
+4.  Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, en het kind door en tengevolge van kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting is verwekt en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring wordt overgelegd waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is of niet is voldaan aan de voorwaarden, genoemd in artikel 228.   
 5.  Zijn de voornamen van het kind niet bekend, dan stelt de rechter, nadat hij de adoptant of adoptanten en het kind, indien dat twaalf jaren of ouder is, heeft gehoord, bij de adoptiebeschikking tevens een of meer voornamen vast.    
 6.  In zaken van adoptie is de minderjarige ouder bekwaam in rechte op te treden.  
 
@@ -1802,7 +1799,7 @@ a. indien het kind en de ouder niet of nauwelijks in gezinsverband hebben sameng
 
 b. indien de ouder het gezag over het kind heeft misbruikt of de verzorging en opvoeding van het kind op grove wijze heeft verwaarloosd; of   
 
-c. indien de ouder onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de[ titels XIII tot en met XV](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).      
+c. indien de ouder onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII tot en met XV en XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht.      
 3.  De voorwaarde, bedoeld in het eerste lid, onder f, geldt niet indien het kind wordt geboren binnen de relatie van de moeder met een levensgezel van gelijk geslacht. 
 
 ### Artikel  229  
@@ -1879,7 +1876,7 @@ Minderjarigen zijn zij, die de ouderdom van achttien jaren niet hebben bereikt e
 2.  De wet bepaalt de taken en bevoegdheden van de raad voor de kinderbescherming. Deze worden door de raad voor de kinderbescherming namens onze Minister van Justitie uitgevoerd.   
 3.  Ten behoeve van de vervulling van zijn taak houdt de raad zich in ieder geval op de hoogte van de ontwikkeling van de kinderbescherming, bevordert hij de samenwerking met de instellingen van kinderbescherming en jeugdhulpverlening en dient hij op verzoek of uit eigen beweging autoriteiten en instellingen van advies.   
 4.  Zijn bemoeiingen laten de godsdienstige of levensbeschouwelijke grondslag van de instellingen van kinderbescherming onverlet.    
-5.  Bij algemene maatregel van bestuur worden de zetel, de werkwijze, voor zover het de samenwerking met de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), betreft en de organisatie van de raad geregeld.  
+5.  Bij algemene maatregel van bestuur worden de zetel, de werkwijze, voor zover het de samenwerking met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, betreft en de organisatie van de raad geregeld.  
 
 ### Artikel  239  
 
@@ -1896,16 +1893,16 @@ Degene die op grond van een wettelijk voorschrift of op grond van zijn ambt of b
 ### Artikel  241  
 
 1.  Indien de raad voor de kinderbescherming blijkt, dat een minderjarige niet onder het wettelijk vereiste gezag staat, of dat dit gezag niet over hem wordt uitgeoefend, verzoekt hij de rechter in de gezagsuitoefening over deze minderjarige te voorzien.    
-2.  Indien dit ter voorkoming van ernstig gevaar voor de zedelijke of geestelijke belangen of voor de gezondheid van zulk een minderjarige dringend en onverwijld noodzakelijk is, kan de kinderrechter een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), belasten met de voorlopige voogdij over de minderjarige. De raad voor de kinderbescherming wendt zich in dit geval binnen zes weken tot de rechter teneinde een voorziening in het gezag over deze minderjarige te verkrijgen.   
+2.  Indien dit ter voorkoming van ernstig gevaar voor de zedelijke of geestelijke belangen of voor de gezondheid van zulk een minderjarige dringend en onverwijld noodzakelijk is, kan de kinderrechter een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, belasten met de voorlopige voogdij over de minderjarige. De raad voor de kinderbescherming wendt zich in dit geval binnen zes weken tot de rechter teneinde een voorziening in het gezag over deze minderjarige te verkrijgen.   
 3.  De in het tweede lid bedoelde maatregel kan eveneens worden getroffen indien een minderjarige, de leeftijd van zes maanden nog niet bereikt hebbende en niet staande onder voogdij van een rechtspersoon, zonder voorafgaande schriftelijke toestemming van de raad voor de kinderbescherming als pleegkind is opgenomen.   
 4.  De kinderrechter beschikt op verzoek van de raad voor de kinderbescherming of van de officier van justitie. Hij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van deze minderjarige worden toegekend en bepaalt de duur van de maatregel.   
-5.  De maatregel vervalt na verloop van zes weken na de dag van de beschikking, tenzij voor het einde van deze termijn om een voorziening in het gezag over de minderjarige is verzocht. De kinderrechter kan deze termijn op ten hoogste twaalf weken bepalen, dit evenwel uitsluitend op de grond dat het in de eerste volzin bedoelde verzoek aan de vereisten van [artikel 278 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zal kunnen voldoen.   
+5.  De maatregel vervalt na verloop van zes weken na de dag van de beschikking, tenzij voor het einde van deze termijn om een voorziening in het gezag over de minderjarige is verzocht. De kinderrechter kan deze termijn op ten hoogste twaalf weken bepalen, dit evenwel uitsluitend op de grond dat het in de eerste volzin bedoelde verzoek aan de vereisten van artikel 278 van het Wetboek van Burgerlijke Rechtsvordering zal kunnen voldoen.   
 6.  De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het vijfde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.  
-7. In afwijking van het tweede lid, kan de rechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in artikel 302, tweede lid.
+7. In afwijking van het tweede lid, kan de rechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in artikel 302, tweede lid.
 
 ### Artikel  241a  
 
-Op de uitoefening van de voorlopige voogdij door een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is artikel 243 van dit Boek van overeenkomstige toepassing. 
+Op de uitoefening van de voorlopige voogdij door een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg is artikel 243 van dit Boek van overeenkomstige toepassing. 
 
 ### Artikel  242  
 
@@ -1913,7 +1910,7 @@ De raad voor de kinderbescherming stelt zich op de hoogte van alle gevallen, waa
 
 ### Artikel  243  
 
-1.  De colleges van burgemeester en wethouders en ambtenaren van de burgerlijke stand verschaffen de raad voor de kinderbescherming kosteloos alle inlichtingen, en verstrekken de raad kosteloos alle afschriften en uittreksels uit hun registers, die de raad ter uitvoering van zijn taak van hen vraagt. Wanneer de raad voor de kinderbescherming een taak vervult of een bevoegdheid uitoefent op grond van een van de bepalingen van deze titel of van de titels 9, 10, 14, 15 en 17 van dit boek, alsmede op grond van de daarmee verband houdende bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), verschaffen de bij algemene maatregel van bestuur aan te wijzen instanties of personen de raad kosteloos die inlichtingen die voor een goede uitoefening van hun taak noodzakelijk zijn.   
+1.  De colleges van burgemeester en wethouders en ambtenaren van de burgerlijke stand verschaffen de raad voor de kinderbescherming kosteloos alle inlichtingen, en verstrekken de raad kosteloos alle afschriften en uittreksels uit hun registers, die de raad ter uitvoering van zijn taak van hen vraagt. Wanneer de raad voor de kinderbescherming een taak vervult of een bevoegdheid uitoefent op grond van een van de bepalingen van deze titel of van de titels 9, 10, 14, 15 en 17 van dit boek, alsmede op grond van de daarmee verband houdende bepalingen van het Wetboek van Burgerlijke Rechtsvordering, verschaffen de bij algemene maatregel van bestuur aan te wijzen instanties of personen de raad kosteloos die inlichtingen die voor een goede uitoefening van hun taak noodzakelijk zijn.   
 2.  Alle verzoeken die de raad voor de kinderbescherming ter uitvoering van zijn taak tot de rechter richt, worden kosteloos behandeld; de grossen, afschriften en uittreksels, die hij tot dat doel aanvraagt, worden hem door de griffiers vrij van alle kosten uitgereikt.   
 3.   Exploiten door de deurwaarders ten verzoeke van de raad voor de kinderbescherming uitgebracht, worden volgens het gewone tarief vergoed. Advocaten kunnen voor hun aan de raad voor de kinderbescherming bewezen diensten salaris in rekening brengen.    
 4.  Wanneer de raad voor de kinderbescherming op grond van een van de bepalingen van deze titel, of van de titels 9, 10, 12, 14, 15 en 17 van dit boek in rechte optreedt, kan hij dit zonder advocaat doen, behalve in gedingen die met een dagvaarding aanvangen.  
@@ -1956,7 +1953,7 @@ Onbevoegd tot het gezag zijn minderjarigen, zij die onder curatele zijn gesteld 
 
 ### Artikel  247a  
 
-Indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in [artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). 
+Indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  248  
 
@@ -2022,7 +2019,7 @@ e. de ouder die het gezag heeft, dit gezamenlijk met een ander dan een ouder uit
 1.  In geval van gezamenlijke uitoefening van het gezag kunnen geschillen hieromtrent op verzoek van de ouders of van een van hen aan de rechtbank worden voorgelegd. De rechtbank neemt een zodanige beslissing als haar in het belang van het kind wenselijk voorkomt.   
 2.  De rechtbank kan eveneens op verzoek van de ouders of een van hen een regeling vaststellen inzake de uitoefening van het ouderlijk gezag. Deze regeling kan omvatten: 
 
-a. een toedeling aan ieder der ouders van de zorg- en opvoedingstaken, alsmede met overeenkomstige toepassing van artikel 377a, derde lid, een tijdelijk verbod aan een ouder om met het kind contact te hebben.  
+a. een toedeling aan ieder der ouders van de zorg- en opvoedingstaken, alsmede met overeenkomstige toepassing van artikel 377a, derde lid, een tijdelijk verbod aan een ouder om met het kind contact te hebben;  
 
 b. de beslissing bij welke ouder het kind zijn hoofdverblijfplaats heeft;  
 
@@ -2031,7 +2028,7 @@ c. de wijze waarop informatie omtrent gewichtige aangelegenheden met betrekking 
 d. de wijze waarop informatie door derden overeenkomstig artikel 377c, eerste en tweede lid, wordt verschaft.     
 3.  Indien op de ouders de verplichting van artikel 247a rust en zij daaraan niet hebben voldaan, houdt de rechter de beslissing op een in het tweede lid bedoeld verzoek ambtshalve aan, totdat aan die verplichting is voldaan. Aanhouding blijft achterwege indien het belang van het kind dit vergt.   
 4.  De artikelen 377e en 377g zijn van overeenkomstige toepassing. Daar waar in deze bepalingen gesproken wordt over omgang of een omgangsregeling wordt in plaats daarvan gelezen: een verdeling van de zorg- en opvoedingstaken.   
-5.  De rechtbank beproeft alvorens te beslissen op een verzoek als in het eerste of tweede lid bedoeld, een vergelijk tussen de ouders en kan desverzocht en ook ambtshalve, zulks indien geen vergelijk tot stand komt en het belang van het kind zich daartegen niet verzet, een door de wet toegelaten dwangmiddel opleggen, dan wel bepalen dat de beschikking of onderdelen daarvan met toepassing van [artikel 812, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) ten uitvoer kunnen worden gelegd.   
+5.  De rechtbank beproeft alvorens te beslissen op een verzoek als in het eerste of tweede lid bedoeld, een vergelijk tussen de ouders en kan desverzocht en ook ambtshalve, zulks indien geen vergelijk tot stand komt en het belang van het kind zich daartegen niet verzet, een door de wet toegelaten dwangmiddel opleggen, dan wel bepalen dat de beschikking of onderdelen daarvan met toepassing van artikel 812, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering ten uitvoer kunnen worden gelegd.   
 6.  De rechtbank behandelt het verzoek binnen zes weken.  
 
 ### Paragraaf  1a  
@@ -2265,7 +2262,7 @@ Treedt in werking op een nader te bepalen tijdstip
 1.  De kinderrechter kan een maatregel van opgroeiondersteuning opleggen.   
 2.  De kinderrechter kan dit doen indien een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling wordt bedreigd, en de zorg die in verband met het wegnemen van de bedreiging noodzakelijk is voor de minderjarige of voor zijn ouders of de ouder die het gezag uitoefenen, door dezen niet of onvoldoende wordt geaccepteerd.   
 3.  Artikel 255, tweede, vijfde en zesde lid, zijn van overeenkomstige toepassing.   
-4.  De kinderrechter vermeldt in de beschikking waar de maatregel op is gericht en draagt een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) op de met gezag belaste ouders of ouder en de minderjarige ondersteuning te bieden bij de uitvoering van de maatregel.   
+4.  De kinderrechter vermeldt in de beschikking waar de maatregel op is gericht en draagt een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg op de met gezag belaste ouders of ouder en de minderjarige ondersteuning te bieden bij de uitvoering van de maatregel.   
 5.  Indien de stichting, bedoeld in het vorige lid, van oordeel is dat de met gezag belaste ouders of ouder of de minderjarige de maatregel van opgroeiondersteuning niet of onvoldoende aanvaarden, doet zij hiervan onverwijld mededeling aan de raad voor de kinderbescherming.  
 
 ### Artikel  253za  
@@ -2297,12 +2294,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  254  
 
-1. Indien een minderjarige zodanig opgroeit, dat zijn zedelijke of geestelijke belangen of zijn gezondheid ernstig worden bedreigd, en andere middelen ter afwending van deze bedreiging hebben gefaald of, naar is te voorzien, zullen falen, kan de kinderrechter hem onder toezicht stellen van een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). 
-2. De kinderrechter kan een in het eerste lid bedoelde minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is ingediend en die in verband daarmee in een opvangcentrum als bedoeld in [artikel 1, onder d, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) verblijft, onder toezicht stellen van een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon. 
+1. Indien een minderjarige zodanig opgroeit, dat zijn zedelijke of geestelijke belangen of zijn gezondheid ernstig worden bedreigd, en andere middelen ter afwending van deze bedreiging hebben gefaald of, naar is te voorzien, zullen falen, kan de kinderrechter hem onder toezicht stellen van een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg. 
+2. De kinderrechter kan een in het eerste lid bedoelde minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend en die in verband daarmee in een opvangcentrum als bedoeld in artikel 1, onder d, van de Wet Centraal Orgaan opvang asielzoekers verblijft, onder toezicht stellen van een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon. 
 3. Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het tweede lid, en de rechtspersoon voor een bepaalde tijd aanvaarden. 
 4. De kinderrechter kan een minderjarige onder toezicht stellen op verzoek van een ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt, de raad voor de kinderbescherming, of het openbaar ministerie. 
-5. Op verzoek van de stichting, dan wel op verzoek van de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder, kan de kinderrechter de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), die het toezicht heeft, vervangen door een zodanige stichting in een andere provincie. De raad voor de kinderbescherming is bevoegd het in de vorige volzin bedoelde verzoek in te dienen, indien de raad van oordeel blijft dat de uithuisplaatsing niet op de voet van artikel 263, eerste lid, dient te worden beëindigd. Indien ten tijde van een verlenging van de duur van de ondertoezichtstelling niet meer wordt voldaan aan de eisen voor benoembaarheid, bedoeld in het tweede lid, vervangt de kinderrechter ambtshalve de door Onze Minister van Justitie aanvaarde rechtspersoon door een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), tenzij voortzetting van de taken door bedoelde rechtspersoon hem om reden van continuïteit noodzakelijk voorkomt. 
-6. Op een rechtspersoon als bedoeld in het tweede lid, zijn de bepalingen van de afdelingen 4 en 5 alsmede artikel 326 van overeenkomstige toepassing. In geval van vervanging op de voet van het vijfde lid van de in het tweede lid bedoelde rechtspersoon, wordt de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in de provincie waar de desbetreffende minderjarige duurzaam verblijft benoemd.
+5. Op verzoek van de stichting, dan wel op verzoek van de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder, kan de kinderrechter de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, die het toezicht heeft, vervangen door een zodanige stichting in een andere provincie. De raad voor de kinderbescherming is bevoegd het in de vorige volzin bedoelde verzoek in te dienen, indien de raad van oordeel blijft dat de uithuisplaatsing niet op de voet van artikel 263, eerste lid, dient te worden beëindigd. Indien ten tijde van een verlenging van de duur van de ondertoezichtstelling niet meer wordt voldaan aan de eisen voor benoembaarheid, bedoeld in het tweede lid, vervangt de kinderrechter ambtshalve de door Onze Minister van Justitie aanvaarde rechtspersoon door een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, tenzij voortzetting van de taken door bedoelde rechtspersoon hem om reden van continuïteit noodzakelijk voorkomt. 
+6. Op een rechtspersoon als bedoeld in het tweede lid, zijn de bepalingen van de afdelingen 4 en 5 alsmede artikel 326 van overeenkomstige toepassing. In geval van vervanging op de voet van het vijfde lid van de in het tweede lid bedoelde rechtspersoon, wordt de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg in de provincie waar de desbetreffende minderjarige duurzaam verblijft benoemd.
 
 ### Artikel  255  
 
@@ -2311,85 +2308,85 @@ De kinderrechter kan hangende het onderzoek de minderjarige voorlopig onder toez
 ### Artikel  256  
 
 1.  De kinderrechter bepaalt de duur van de ondertoezichtstelling op ten hoogste een jaar.    
-2.   De kinderrechter kan de duur telkens voor ten hoogste een jaar verlengen. Hij kan dit doen op verzoek van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), een ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt, de raad voor de kinderbescherming of het openbaar ministerie.   
-3.   Indien de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) niet overgaat tot een verzoek tot verlenging doet zij hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de ondertoezichtstelling mededeling aan de raad voor de kinderbescherming.    
-4.   De kinderrechter kan de ondertoezichtstelling opheffen indien de grond daarvoor niet langer bestaat. Hij kan dit doen op verzoek van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder.   
+2.   De kinderrechter kan de duur telkens voor ten hoogste een jaar verlengen. Hij kan dit doen op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, een ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt, de raad voor de kinderbescherming of het openbaar ministerie.   
+3.   Indien de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg niet overgaat tot een verzoek tot verlenging doet zij hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de ondertoezichtstelling mededeling aan de raad voor de kinderbescherming.    
+4.   De kinderrechter kan de ondertoezichtstelling opheffen indien de grond daarvoor niet langer bestaat. Hij kan dit doen op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder.   
 
 ### Artikel  257  
 
-1.  De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) houdt toezicht op de minderjarige en zorgt dat aan de minderjarige en de met het gezag belaste ouder hulp en steun worden geboden teneinde de bedreiging van de zedelijke of geestelijke belangen of de gezondheid van de minderjarige af te wenden.    
+1.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg houdt toezicht op de minderjarige en zorgt dat aan de minderjarige en de met het gezag belaste ouder hulp en steun worden geboden teneinde de bedreiging van de zedelijke of geestelijke belangen of de gezondheid van de minderjarige af te wenden.    
 2.   Deze hulp en steun zijn erop gericht de met het gezag belaste ouder de verantwoordelijkheid voor de verzorging en opvoeding zoveel mogelijk te doen behouden. Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van de hulp en steun.   
 3.   Indien het leeftijds- en ontwikkelingsniveau van de minderjarige en diens bekwaamheid en behoefte zelfstandig te handelen en zijn leven naar eigen inzicht in te richten daartoe noodzaken, zijn de hulp en steun, meer dan op het vergroten van de mogelijkheden van de ouders om hun kind te verzorgen en op te voeden, gericht op het vergroten van de zelfstandigheid van de minderjarige.    
-4.   De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bevordert de gezinsband tussen de met het gezag belaste ouder en de minderjarige.   
+4.   De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg bevordert de gezinsband tussen de met het gezag belaste ouder en de minderjarige.   
 
 ### Artikel  258  
 
-1.  De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) kan ter uitvoering van haar taak schriftelijk aanwijzingen geven betreffende de verzorging en opvoeding van de minderjarige.    
+1.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg kan ter uitvoering van haar taak schriftelijk aanwijzingen geven betreffende de verzorging en opvoeding van de minderjarige.    
 2.   De met het gezag belaste ouder en de minderjarige dienen deze aanwijzingen op te volgen.    
-3.   Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt, behoudens in de gevallen dat de met het gezag belaste ouder daartoe zonder bezwaar van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) overgaat, alleen krachtens artikel 261.   
+3.   Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt, behoudens in de gevallen dat de met het gezag belaste ouder daartoe zonder bezwaar van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg overgaat, alleen krachtens artikel 261.   
 
 ### Artikel  259  
 
 1.  Op verzoek van de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder kan de kinderrechter een aanwijzing geheel of gedeeltelijk vervallen verklaren. Het verzoek heeft geen schorsende kracht, tenzij de kinderrechter het tegendeel bepaalt.    
-2.   Bij de indiening van het verzoek wordt de beslissing van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) overgelegd.    
+2.   Bij de indiening van het verzoek wordt de beslissing van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg overgelegd.    
 3.   De termijn voor het indienen van het verzoek bij de kinderrechter bedraagt twee weken en vangt aan met ingang van de dag na die waarop de beslissing is toegezonden of uitgereikt.    
 4.   Ten aanzien van een na afloop van de termijn ingediend verzoek blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien de verzoeker redelijkerwijs niet geoordeeld kan worden in verzuim te zijn geweest.   
 
 ### Artikel  260  
 
-1.  De met het gezag belaste ouder en de minderjarige van twaalf jaren of ouder kunnen de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) verzoeken een aanwijzing wegens gewijzigde omstandigheden geheel of gedeeltelijk in te trekken.    
-2.   De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.    
+1.  De met het gezag belaste ouder en de minderjarige van twaalf jaren of ouder kunnen de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg verzoeken een aanwijzing wegens gewijzigde omstandigheden geheel of gedeeltelijk in te trekken.    
+2.   De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.    
 3.   Artikel 259 is van overeenkomstige toepassing.    
-4.   Het niet of niet tijdig nemen van een beslissing door de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) wordt voor de toepassing van deze bepaling gelijkgesteld met afwijzing van het verzoek. De termijn voor het indienen van het verzoek bij de kinderrechter loopt in dat geval door zolang de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) niet heeft beslist en eindigt, indien de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) alsnog beslist, twee weken daarna.   
+4.   Het niet of niet tijdig nemen van een beslissing door de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg wordt voor de toepassing van deze bepaling gelijkgesteld met afwijzing van het verzoek. De termijn voor het indienen van het verzoek bij de kinderrechter loopt in dat geval door zolang de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg niet heeft beslist en eindigt, indien de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg alsnog beslist, twee weken daarna.   
 
 ### Artikel  261  
 
-1.  Indien dit noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot onderzoek van diens geestelijke of lichamelijke gesteldheid, kan de kinderrechter de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) op haar verzoek machtigen de minderjarige gedurende dag en nacht uit huis te plaatsen. De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of van het openbaar ministerie.   
-2.  Indien de uithuisplaatsing betrekking heeft op zorg als bedoeld in [artikel 5, tweede lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), is het verzoek gericht op effectuering van het besluit, bedoeld in [artikel 6, eerste lid, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). Dit besluit wordt bij het verzoek overgelegd. Indien de uithuisplaatsing geen betrekking heeft op zorg als bedoeld in [artikel 5, tweede lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), wordt bij het verzoek vermeld voor welke verblijfplaats de machtiging wordt gevraagd.   
-3.  In afwijking van de eerste volzin van het tweede lid kan in de gevallen, omschreven in de regels, gesteld krachtens [artikel 3, vijfde lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en van [artikel 9b, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een machtiging tot uithuisplaatsing worden verleend zonder een daartoe strekkend besluit. De machtiging tot uithuisplaatsing geldt in dat geval totdat een besluit als bedoeld in [artikel 6, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is genomen. De kinderrechter kan bepalen dat de machtiging tot uithuisplaatsing van kracht blijft indien het besluit, bedoeld in [artikel 6, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) strekt tot uithuisplaatsing.   
-4.  De kinderrechter kan eveneens een machtiging tot uithuisplaatsing verlenen zonder dat daarbij een besluit als bedoeld in [artikel 6, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) wordt overgelegd, indien het verzoek daartoe wordt gedaan door de raad voor de kinderbescherming en de stichting, bedoeld in [artikel 1, onder f, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) geen besluit strekkend tot uithuisplaatsing neemt. In deze gevallen wordt bij het verzoek vermeld voor welke verblijfplaats de machtiging wordt gevraagd. Indien de kinderrechter de machtiging verleent, is de stichting gehouden deze ten uitvoer te leggen, tenzij de raad met niet-tenuitvoerlegging instemt.   
-5. Voor opneming en verblijf als bedoeld in [artikel 29b, eerste lid](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), of [29c, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van de artikelen 258, derde lid, 268, tweede lid, 269, eerste lid, onder d, en 327, eerste lid, onder g, als een machtiging als bedoeld in het eerste lid. 
+1.  Indien dit noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot onderzoek van diens geestelijke of lichamelijke gesteldheid, kan de kinderrechter de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg op haar verzoek machtigen de minderjarige gedurende dag en nacht uit huis te plaatsen. De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of van het openbaar ministerie.   
+2.  Indien de uithuisplaatsing betrekking heeft op zorg als bedoeld in artikel 5, tweede lid, van de Wet op de jeugdzorg, is het verzoek gericht op effectuering van het besluit, bedoeld in artikel 6, eerste lid, van die wet. Dit besluit wordt bij het verzoek overgelegd. Indien de uithuisplaatsing geen betrekking heeft op zorg als bedoeld in artikel 5, tweede lid, van de Wet op de jeugdzorg, wordt bij het verzoek vermeld voor welke verblijfplaats de machtiging wordt gevraagd.   
+3.  In afwijking van de eerste volzin van het tweede lid kan in de gevallen, omschreven in de regels, gesteld krachtens artikel 3, vijfde lid, van de Wet op de jeugdzorg en van artikel 9b, tweede lid, van de Algemene Wet Bijzondere Ziektekosten een machtiging tot uithuisplaatsing worden verleend zonder een daartoe strekkend besluit. De machtiging tot uithuisplaatsing geldt in dat geval totdat een besluit als bedoeld in artikel 6, eerste lid, van de Wet op de jeugdzorg is genomen. De kinderrechter kan bepalen dat de machtiging tot uithuisplaatsing van kracht blijft indien het besluit, bedoeld in artikel 6, eerste lid, van de Wet op de jeugdzorg strekt tot uithuisplaatsing.   
+4.  De kinderrechter kan eveneens een machtiging tot uithuisplaatsing verlenen zonder dat daarbij een besluit als bedoeld in artikel 6, eerste lid, van de Wet op de jeugdzorg wordt overgelegd, indien het verzoek daartoe wordt gedaan door de raad voor de kinderbescherming en de stichting, bedoeld in artikel 1, onder f, van die wet geen besluit strekkend tot uithuisplaatsing neemt. In deze gevallen wordt bij het verzoek vermeld voor welke verblijfplaats de machtiging wordt gevraagd. Indien de kinderrechter de machtiging verleent, is de stichting gehouden deze ten uitvoer te leggen, tenzij de raad met niet-tenuitvoerlegging instemt.   
+5. Voor opneming en verblijf als bedoeld in artikel 29b, eerste lid, of 29c, eerste lid, van de Wet op de jeugdzorg is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van de artikelen 258, derde lid, 268, tweede lid, 269, eerste lid, onder d, en 327, eerste lid, onder g, als een machtiging als bedoeld in het eerste lid. 
 
 ### Artikel  262  
 
-1.  De kinderrechter bepaalt de duur van de machtiging tot uithuisplaatsing op ten hoogste een jaar. Op verzoek van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of van de raad voor de kinderbescherming kan hij de duur telkens met ten hoogste een jaar verlengen.    
-2.   Indien de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) niet overgaat tot een verzoek tot verlenging, doet zij hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.    
+1.  De kinderrechter bepaalt de duur van de machtiging tot uithuisplaatsing op ten hoogste een jaar. Op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg of van de raad voor de kinderbescherming kan hij de duur telkens met ten hoogste een jaar verlengen.    
+2.   Indien de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg niet overgaat tot een verzoek tot verlenging, doet zij hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.    
 3.   Een machtiging vervalt, indien deze gedurende drie maanden niet ten uitvoer is gelegd.   
 
 ### Artikel  263  
 
-1.  Een uithuisplaatsing kan worden beëindigd door de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), doet hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.    
-2.   De met het gezag belaste ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt en de minderjarige van twaalf jaren of ouder kunnen wegens gewijzigde omstandigheden de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) verzoeken:  
+1.  Een uithuisplaatsing kan worden beëindigd door de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg. De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, doet hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.    
+2.   De met het gezag belaste ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt en de minderjarige van twaalf jaren of ouder kunnen wegens gewijzigde omstandigheden de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg verzoeken:  
 
 a. de uithuisplaatsing te beëindigen;   
 
 b. de duur ervan te bekorten;   
 
 c. af te zien van een krachtens de machtiging toegestane wijziging van de verblijfplaats van de minderjarige. Onder wijziging van de verblijfplaats wordt mede verstaan de plaatsing van de minderjarige bij de ouder die het gezag heeft.      
-3.  De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.    
+3.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.    
 4.   Op verzoek van de in het tweede lid genoemde personen kan de kinderrechter de machtiging geheel of gedeeltelijk intrekken of de duur ervan bekorten. Artikel 259, eerste lid, tweede volzin, tweede, derde en vierde lid, alsmede artikel 260, vierde lid, zijn van toepassing.   
 
 ### Artikel  263a  
 
-1.  Voor zover noodzakelijk met het oog op het doel van de uithuisplaatsing van een minderjarige als bedoeld in artikel 261, kan de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) voor de duur van de uithuisplaatsing de contacten tussen de met het gezag belaste ouder en het kind beperken.    
-2.   De beslissing van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) geldt als een aanwijzing. Artikel 259 en artikel 260 zijn van overeenkomstige toepassing, met dien verstande dat de kinderrechter een zodanige regeling kan vaststellen als hem in het belang van het kind wenselijk voorkomt.   
+1.  Voor zover noodzakelijk met het oog op het doel van de uithuisplaatsing van een minderjarige als bedoeld in artikel 261, kan de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg voor de duur van de uithuisplaatsing de contacten tussen de met het gezag belaste ouder en het kind beperken.    
+2.   De beslissing van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg geldt als een aanwijzing. Artikel 259 en artikel 260 zijn van overeenkomstige toepassing, met dien verstande dat de kinderrechter een zodanige regeling kan vaststellen als hem in het belang van het kind wenselijk voorkomt.   
 
 ### Artikel  263b  
 
-1.  Voor de duur van de maatregel kan de kinderrechter op verzoek van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) een rechterlijke beslissing tot vaststelling van een regeling inzake de uitoefening van het omgangsrecht wijzigen voor zover dat noodzakelijk is met het oog op het doel van de ondertoezichtstelling.    
-2.   Op het verzoek van de met het gezag belaste ouder, de omgangsgerechtigde, de minderjarige van twaalf jaren of ouder en de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) kan de kinderrechter de in het eerste lid genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.    
+1.  Voor de duur van de maatregel kan de kinderrechter op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg een rechterlijke beslissing tot vaststelling van een regeling inzake de uitoefening van het omgangsrecht wijzigen voor zover dat noodzakelijk is met het oog op het doel van de ondertoezichtstelling.    
+2.   Op het verzoek van de met het gezag belaste ouder, de omgangsgerechtigde, de minderjarige van twaalf jaren of ouder en de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg kan de kinderrechter de in het eerste lid genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.    
 3.   Zodra de ondertoezichtstelling is geëindigd, geldt een ingevolge deze bepaling vastgestelde regeling als een regeling bedoeld in artikel 377a dan wel 377f.   
 
 ### Artikel  264  
 
-Indien een medische behandeling van een minderjarige jonger dan twaalf jaren noodzakelijk is om ernstig gevaar voor diens gezondheid te voorkomen en de ouder die het gezag heeft zijn toestemming daarvoor weigert, kan deze toestemming op verzoek van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) worden vervangen door die van de kinderrechter.  
+Indien een medische behandeling van een minderjarige jonger dan twaalf jaren noodzakelijk is om ernstig gevaar voor diens gezondheid te voorkomen en de ouder die het gezag heeft zijn toestemming daarvoor weigert, kan deze toestemming op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg worden vervangen door die van de kinderrechter.  
 
 ### Artikel  265  
 
 1.  Verzoeken op grond van artikel 254, vijfde lid, en de artikelen 256-264 moeten schriftelijk worden gedaan. Voor zover zij zich tot de kinderrechter richten, kunnen zij worden ingediend zonder advocaat.    
-2.   De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) die een verzoek indient of wordt opgeroepen, zendt bij het verzoekschrift of onverwijld na de oproep, het plan, bedoeld in [artikel 13, derde lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en een verslag van het verloop van de ondertoezichtstelling aan de kinderrechter.    
+2.   De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg die een verzoek indient of wordt opgeroepen, zendt bij het verzoekschrift of onverwijld na de oproep, het plan, bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg en een verslag van het verloop van de ondertoezichtstelling aan de kinderrechter.    
 3.   Het plan en het verslag, bedoeld in het tweede lid, worden eveneens gezonden aan de raad voor de kinderbescherming.    
-4.   De verzoeken die de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) ter uitvoering van haar taak tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld; de grossen, afschriften en uittreksels, die zij tot dat doel aanvraagt, worden haar door de griffiers vrij van alle kosten uitgereikt.   
+4.   De verzoeken die de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg ter uitvoering van haar taak tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld; de grossen, afschriften en uittreksels, die zij tot dat doel aanvraagt, worden haar door de griffiers vrij van alle kosten uitgereikt.   
 
 ### Afdeling  5  
 
@@ -2429,11 +2426,11 @@ c. onherroepelijke veroordeling:
 
 1°. wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;   
 
-2°. wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de [titels XIII-XV](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en[ XVIII-XX van het tweede boek van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);   
+2°. wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII-XV en XVIII-XX van het tweede boek van het Wetboek van Strafrecht;   
 
 3°. tot een vrijheidsstraf van twee jaar of langer;     
 
-d. het in ernstige mate veronachtzamen van de aanwijzingen van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of belemmering van een uithuisplaatsing krachtens het bepaalde in artikel 261;   
+d. het in ernstige mate veronachtzamen van de aanwijzingen van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg of belemmering van een uithuisplaatsing krachtens het bepaalde in artikel 261;   
 
 e. het bestaan van gegronde vrees voor verwaarlozing van de belangen van het kind, doordat de ouder het kind terugeist of terugneemt van anderen, die diens verzorging en opvoeding op zich hebben genomen.      
 2.   Onder misdrijf worden in dit artikel begrepen medeplichtigheid aan en poging tot misdrijf.   
@@ -2448,7 +2445,7 @@ e. het bestaan van gegronde vrees voor verwaarlozing van de belangen van het kin
 1.  Indien dit dringend en onverwijld noodzakelijk is, kan de rechtbank een ouder, wiens ontzetting verzocht is, hangende het onderzoek geheel of gedeeltelijk in de uitoefening van het gezag over een of meer van zijn kinderen schorsen. Gelijke bevoegdheid komt haar toe ten opzichte van een ouder, wiens ontheffing verzocht is, in de gevallen bedoeld in artikel 268, tweede lid, van dit boek.    
 2.   Indien de andere ouder mede het gezag uitoefent, wordt gedurende de schorsing het gezag door hem alleen uitgeoefend.    
 3.   Acht de rechtbank in dit laatste geval de schorsing van de te ontzetten ouder onvoldoende om de kinderen aan diens invloed te onttrekken, dan kan zij ook de andere ouder schorsen.    
-4.  Betreft de schorsing beide ouders of een ouder die het gezag alleen uitoefent, dan belast de rechtbank een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) met de voorlopige voogdij over het kind. Zij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van dit kind worden toegekend.    
+4.  Betreft de schorsing beide ouders of een ouder die het gezag alleen uitoefent, dan belast de rechtbank een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg met de voorlopige voogdij over het kind. Zij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van dit kind worden toegekend.    
 5.   De in dit artikel bedoelde beschikkingen blijven van kracht, totdat de uitspraak omtrent de ontzetting of de ontheffing in kracht van gewijsde is gegaan. De rechtbank kan zodanige beschikking evenwel met ingang van een vroeger tijdstip herroepen.   
 
 ### Artikel  271a  
@@ -2457,9 +2454,9 @@ In plaats van schorsing van beide ouders of van een ouder in de uitoefening van 
 
 ### Artikel  272  
 
-1.  Op grond van feiten die tot ontzetting of tot de in het tweede lid van artikel 268 van dit Boek bedoelde ontheffing van een ouder kunnen leiden, en indien dit dringend en onverwijld noodzakelijk is, kan de kinderrechter de ouders geheel of gedeeltelijk in de uitoefening van het gezag over een kind schorsen en een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) belasten met de voorlopige voogdij over een kind.   
+1.  Op grond van feiten die tot ontzetting of tot de in het tweede lid van artikel 268 van dit Boek bedoelde ontheffing van een ouder kunnen leiden, en indien dit dringend en onverwijld noodzakelijk is, kan de kinderrechter de ouders geheel of gedeeltelijk in de uitoefening van het gezag over een kind schorsen en een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg belasten met de voorlopige voogdij over een kind.   
 2.  De kinderrechter beschikt op verzoek van de raad voor de kinderbescherming of de officier van justitie. Hij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van dit kind worden toegekend en bepaalt de duur van de maatregel.   
-3.  De maatregel vervalt na verloop van zes weken na de dag van de beschikking, tenzij voor het einde van deze termijn een verzoek tot ontzetting of ontheffing aanhangig is gemaakt. De kinderrechter kan deze termijn op ten hoogste twaalf weken bepalen, dit evenwel uitsluitend op de grond dat het in de eerste volzin bedoelde verzoek aan de vereisten van [artikel 278 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zal kunnen voldoen. Ingeval voor het einde van de van toepassing zijnde termijn een verzoek tot ontzetting of ontheffing aanhangig is gemaakt, blijft de maatregel van kracht totdat over het verzoek bij gewijsde is beslist, tenzij de kinderrechter een kortere termijn heeft vastgesteld.   
+3.  De maatregel vervalt na verloop van zes weken na de dag van de beschikking, tenzij voor het einde van deze termijn een verzoek tot ontzetting of ontheffing aanhangig is gemaakt. De kinderrechter kan deze termijn op ten hoogste twaalf weken bepalen, dit evenwel uitsluitend op de grond dat het in de eerste volzin bedoelde verzoek aan de vereisten van artikel 278 van het Wetboek van Burgerlijke Rechtsvordering zal kunnen voldoen. Ingeval voor het einde van de van toepassing zijnde termijn een verzoek tot ontzetting of ontheffing aanhangig is gemaakt, blijft de maatregel van kracht totdat over het verzoek bij gewijsde is beslist, tenzij de kinderrechter een kortere termijn heeft vastgesteld.   
 4.  De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het derde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.  
 
 ### Artikel  272a  
@@ -2528,7 +2525,7 @@ c. de voogdij overeenkomstig artikel 299a van dit boek aan een andere voogd is o
 3.  Het verzoek wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.    
 4.  Gezamenlijke uitoefening van de voogdij is niet mogelijk ten aanzien van tijdelijke voogdij als bedoeld in de artikelen 296 en 297. Zij staat niet open voor rechtspersonen.    
 5.   Artikel 253a is van overeenkomstige toepassing.    
-6.  In afwijking van artikel 336 hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. Artikel 253w is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in [artikel 28b van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+6.  In afwijking van artikel 336 hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. Artikel 253w is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in artikel 28b van de Wet op de jeugdzorg.   
 7.  Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van een van de voogden. Een zodanig verzoek wordt afgewezen, indien:  
 
 a. het kind van twaalf jaar of ouder ter gelegenheid van zijn verhoor niet heeft ingestemd met het verzoek;   
@@ -2547,7 +2544,7 @@ Na de dood van een voogd die de voogdij samen met een ander uitoefende, oefent d
 
 ###Artikel 283 
 
-De verzoeken die de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
+De verzoeken die de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
 
 ### §  2  
 
@@ -2628,29 +2625,29 @@ b. van de aangifte van geboorte van ieder kind, over wie de moeder uit wie het k
 
 ### Artikel  302  
 
-1.  De rechter kan de voogdij opdragen aan een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
-2.  Onverminderd diens bevoegdheid een natuurlijke persoon tot voogd te benoemen, kan de rechter de voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, uitsluitend opdragen aan een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon.   
+1.  De rechter kan de voogdij opdragen aan een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.   
+2.  Onverminderd diens bevoegdheid een natuurlijke persoon tot voogd te benoemen, kan de rechter de voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, uitsluitend opdragen aan een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon.   
 3.  Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het tweede lid, en de rechtspersoon voor een bepaalde tijd aanvaarden.   
 4.  Op een rechtspersoon als bedoeld in het tweede lid, zijn de artikelen 303, 304, 305 en 328 van overeenkomstige toepassing.  
 
 ### Artikel  303  
 
-Voor zover de wet niet anders bepaalt, heeft de met voogdij belaste stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), dezelfde bevoegdheden en verplichtingen als andere voogden. 
+Voor zover de wet niet anders bepaalt, heeft de met voogdij belaste stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, dezelfde bevoegdheden en verplichtingen als andere voogden. 
 
 ### Artikel  304  
 
-1.  Met de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) zijn de bestuurders hoofdelijk en persoonlijk aansprakelijk voor iedere schade, die te wijten is aan een niet-behoorlijke uitoefening van de voogdij.    
+1.  Met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg zijn de bestuurders hoofdelijk en persoonlijk aansprakelijk voor iedere schade, die te wijten is aan een niet-behoorlijke uitoefening van de voogdij.    
 2.   Iedere bestuurder zal zich echter van zijn aansprakelijkheid kunnen bevrijden door te bewijzen, dat hij geen schuld heeft aan de schade.   
 
 ### Artikel  305  
 
-1.  De stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), die hem toevertrouwde minderjarigen uit huis plaatst, houdt de raad voor de kinderbescherming schriftelijk op de hoogte van de plaatsen waar zij zich bevinden.    
-2.  De plaatsen, waar een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), minderjarigen heeft geplaatst, worden door de raad voor de kinderbescherming bezocht, zo vaak hij dit ter beoordeling van de toestand der minderjarigen dienstig acht.    
-3.  De artikelen 261, vijfde lid, 262, eerste en derde lid, 263, eerste lid, eerste volzin, en vierde lid, eerste volzin, en 265, eerste lid, zijn van overeenkomstige toepassing. [Artikel 3, vierde lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) is eveneens van overeenkomstige toepassing.  
+1.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, die hem toevertrouwde minderjarigen uit huis plaatst, houdt de raad voor de kinderbescherming schriftelijk op de hoogte van de plaatsen waar zij zich bevinden.    
+2.  De plaatsen, waar een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, minderjarigen heeft geplaatst, worden door de raad voor de kinderbescherming bezocht, zo vaak hij dit ter beoordeling van de toestand der minderjarigen dienstig acht.    
+3.  De artikelen 261, vijfde lid, 262, eerste en derde lid, 263, eerste lid, eerste volzin, en vierde lid, eerste volzin, en 265, eerste lid, zijn van overeenkomstige toepassing. Artikel 3, vierde lid, van de Wet op de jeugdzorg is eveneens van overeenkomstige toepassing.  
 
 ### Artikel  306  
 
-1.  Zonder toestemming van de rechtbank mag een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.    
+1.  Zonder toestemming van de rechtbank mag een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.    
 2.   De rechter verleent deze toestemming slechts, indien hij de plaatsing voor de minderjarige wenselijk acht.   
 
 ### Artikel  306a  
@@ -2667,7 +2664,7 @@ De zesde afdeling van deze titel is niet van toepassing op de uitoefening van de
 
 a. hij aantoont, dat hij tengevolge van een sedert de aanvang van zijn bediening opgekomen geestelijk of lichamelijk gebrek niet meer in staat is deze waar te nemen;   
 
-b. hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
+b. hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt;  
 
 c. een daartoe bevoegd persoon zich schriftelijk heeft bereid verklaard de voogdij over te nemen, en de rechtbank deze overneming in het belang van de minderjarigen acht.      
 2.  Bij gezamenlijke uitoefening van de voogdij is het eerste lid slechts van toepassing indien beide voogden zich van hun bediening willen doen ontslaan.   
@@ -2718,20 +2715,20 @@ f. onherroepelijke veroordeling:
 
 1°. wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;   
 
-2°. wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de [titels XIII-XV](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [XVIII-XX van het tweede boek van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);   
+2°. wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de titels XIII-XV en XVIII-XX van het tweede boek van het Wetboek van Strafrecht;   
 
 3°. tot een vrijheidsstraf van twee jaar of langer;     
 
-g. het in ernstige mate veronachtzamen van de aanwijzingen van de stichting, bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of belemmering van een uithuisplaatsing krachtens het bepaalde in artikel 261;   
+g. het in ernstige mate veronachtzamen van de aanwijzingen van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg of belemmering van een uithuisplaatsing krachtens het bepaalde in artikel 261;   
 
 h. het bestaan van gegronde vrees voor verwaarlozing van de belangen van een onder zijn gezag staande minderjarige, doordat hij de minderjarige terugeist of terugneemt van anderen, die diens verzorging en opvoeding op zich hebben genomen;   
 
-i. de omstandigheid dat hij niet beschikt over de ingevolge [artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) vereiste beginseltoestemming.      
+i. de omstandigheid dat hij niet beschikt over de ingevolge artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie vereiste beginseltoestemming.      
 2.   Onder misdrijf worden in dit artikel begrepen medeplichtigheid aan en poging tot misdrijf.   
 
 ### Artikel  328  
 
-Ontzetting van een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) kan slechts op de in het eerste lid van het vorige artikel onder b-e genoemde gronden geschieden. Zijn ontzetting kan echter bovendien plaats hebben, indien hij nalaat de raad voor de kinderbescherming overeenkomstig artikel 305 van dit boek op de hoogte te houden van de plaatsen, waar de hem toevertrouwde minderjarigen zich bevinden, ofwel indien hij het door de raad voor de kinderbescherming uit te oefenen toezicht belemmert of verhindert.  
+Ontzetting van een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg kan slechts op de in het eerste lid van het vorige artikel onder b-e genoemde gronden geschieden. Zijn ontzetting kan echter bovendien plaats hebben, indien hij nalaat de raad voor de kinderbescherming overeenkomstig artikel 305 van dit boek op de hoogte te houden van de plaatsen, waar de hem toevertrouwde minderjarigen zich bevinden, ofwel indien hij het door de raad voor de kinderbescherming uit te oefenen toezicht belemmert of verhindert.  
 
 ### Artikel  329  
 
@@ -2744,7 +2741,7 @@ Ontzetting van een stichting als bedoeld in [artikel 1, onder f, van de Wet op d
 1.  Indien dit dringend en onverwijld noodzakelijk is, kan de rechtbank een voogd, wiens ontzetting verzocht is, hangende haar onderzoek geheel of gedeeltelijk in de uitoefening van zijn voogdij over een of meer der minderjarigen schorsen.    
 2.  Indien in geval van gezamenlijke uitoefening van de voogdij de rechtbank de schorsing van de te ontzetten voogd onvoldoende acht om de kinderen aan diens invloed te onttrekken, dan kan zij ook de andere voogd schorsen.    
 3.  Indien in geval van gezamenlijke uitoefening van de voogdij slechts een van de voogden wordt geschorst, wordt gedurende de schorsing het gezag door de andere voogd alleen uitgeoefend.    
-4.  In de in het eerste en tweede lid bedoelde gevallen vertrouwt de rechtbank een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) met de voorlopige voogdij over de minderjarige. Zij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van deze minderjarige worden toegekend.   
+4.  In de in het eerste en tweede lid bedoelde gevallen vertrouwt de rechtbank een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg met de voorlopige voogdij over de minderjarige. Zij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van deze minderjarige worden toegekend.   
 5.   De in dit artikel bedoelde beschikkingen blijven van kracht, totdat de uitspraak omtrent de ontzetting in kracht van gewijsde is gegaan. De rechtbank kan zodanige beschikking evenwel met ingang van een vroeger tijdstip herroepen.   
 
 ### Artikel  331a  
@@ -2753,7 +2750,7 @@ In plaats van schorsing van de voogd in de uitoefening van de voogdij en voorzie
 
 ### Artikel  332  
 
-Op grond van feiten die tot ontzetting van de voogdij kunnen leiden, en indien dit dringend en onverwijld noodzakelijk is, kan de kinderrechter de voogd of voogden geheel of gedeeltelijk schorsen in de uitoefening van het gezag over een minderjarige en een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) belasten met de voorlopige voogdij over deze minderjarige. Artikel 272, tweede, derde en vierde lid, van dit Boek is van overeenkomstige toepassing. 
+Op grond van feiten die tot ontzetting van de voogdij kunnen leiden, en indien dit dringend en onverwijld noodzakelijk is, kan de kinderrechter de voogd of voogden geheel of gedeeltelijk schorsen in de uitoefening van het gezag over een minderjarige en een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg belasten met de voorlopige voogdij over deze minderjarige. Artikel 272, tweede, derde en vierde lid, van dit Boek is van overeenkomstige toepassing. 
 
 ### Artikel  332a  
 
@@ -2836,8 +2833,8 @@ De voogd kan, onverminderd zijn aansprakelijkheid voor de door zijn slecht bewin
 
 a.de Nederlandsche Bank N.V.;
 
-b.een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen;  
-2.   De kantonrechter kan aanwijzingen geven omtrent de wijze, waarop spaarbankboekjes en gelden van de minderjarige moeten worden bewaard. De kantonrechter onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen als hier bedoeld geven. Overigens is de kantonrechter, aangewezen in de [tweede afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bevoegd.    
+b.een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen;  
+2.   De kantonrechter kan aanwijzingen geven omtrent de wijze, waarop spaarbankboekjes en gelden van de minderjarige moeten worden bewaard. De kantonrechter onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen als hier bedoeld geven. Overigens is de kantonrechter, aangewezen in de tweede afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering bevoegd.    
 3.   Voor effecten aan toonder, spaarbankboekjes en gelden, die de minderjarige tezamen met een of meer andere personen toekomen, geldt het bepaalde in de vorige leden, wanneer de voogd die onder zijn berusting heeft.   
 
 ### Artikel  345  
@@ -2853,8 +2850,8 @@ c. een making of gift, waaraan lasten of voorwaarden zijn verbonden, aannemen;
 d. geld lenen of de minderjarige als borg of hoofdelijke medeschuldenaar verbinden;   
 
 e. overeenkomen dat een boedel, waartoe de minderjarige gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten.      
-2.   De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) daaronder begrepen.    
-3.   Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van [artikel 87 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.   
+2.   De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht daaronder begrepen.    
+3.   Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.   
 
 ### Artikel  346  
 
@@ -2993,9 +2990,9 @@ De raad voor de kinderbescherming die van de kantonrechter zodanige mededeling o
 3.   Op het bewind zijn de bepalingen omtrent het bewind van een voogd van overeenkomstige toepassing. De bewindvoerder is bij uitsluiting bevoegd tot vernietiging van rechtshandelingen van de minderjarige, strekkend tot beheer of beschikking met betrekking tot de onder bewind staande goederen.    
 4.   De kantonrechter bepaalt welke uitkeringen de bewindvoerder uit de onder het bewind gestelde goederen en de vruchten daarvan aan de voogd en bij gezamenlijke uitoefening van de voogdij aan de voogden, moet doen ten behoeve van de verzorging en opvoeding van de minderjarige of ten behoeve van het beheer van diens niet onder het bewind gestelde goederen. Hij kan deze beschikkingen te allen tijde op verzoek van een voogd of de bewindvoerder, of ambtshalve wijzigen.    
 5.   De bewindvoerder is verplicht aan de kantonrechter te allen tijde alle door deze gewenste inlichtingen te verstrekken.    
-6.   Hij is voorts verplicht jaarlijks en aan het einde van zijn bewind aan de voogd, en bij gezamenlijke uitoefening van de voogdij aan de voogden,, de meerderjarig gewordene of de erfgenamen van de minderjarige, wanneer deze overleden is, ten overstaan van de kantonrechter rekening en verantwoording af te leggen.    
+6.   Hij is voorts verplicht jaarlijks en aan het einde van zijn bewind aan de voogd, en bij gezamenlijke uitoefening van de voogdij aan de voogden, de meerderjarig gewordene of de erfgenamen van de minderjarige, wanneer deze overleden is, ten overstaan van de kantonrechter rekening en verantwoording af te leggen.    
 7.   Geschillen die bij de rekening en verantwoording rijzen, beslist de kantonrechter.    
-8.   Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de [artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing.    
+8.   Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering van toepassing.    
 9.   De kantonrechter kan te allen tijde op verzoek van de bewindvoerder, een voogd of ambtshalve het bewind opheffen of de bewindvoerder ontslaan en door een ander vervangen.   
 
 ### Artikel  371  
@@ -3024,7 +3021,7 @@ Na het einde van zijn bewind doet de voogd daarvan onverwijld rekening en verant
 
 1.  Bedoelde rekening en verantwoording wordt afgelegd ten overstaan van de kantonrechter, binnen wiens rechtsgebied de voogd wiens bewind eindigt woonplaats heeft.    
 2.   Geschillen, die bij de aflegging van de rekening en verantwoording mochten rijzen, beslist de kantonrechter.    
-3.   Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de [artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing.   
+3.   Blijft een der partijen in gebreke tot deze aflegging van rekening en verantwoording mede te werken, dan zijn de artikelen 771 en volgende van het Wetboek van Burgerlijke Rechtsvordering van toepassing.   
 
 ### Artikel  375  
 
@@ -3092,7 +3089,7 @@ a. zijn lichamelijke of geestelijke toestand, dan wel
 
 b. gewoonte van drank- of drugsmisbruik,   en een voldoende behartiging van die belangen niet met een meer passende en minder verstrekkende voorziening kan worden bewerkstelligd.   
 2.   Indien te verwachten is dat ten aanzien van een minderjarige op het tijdstip waarop hij meerderjarig zal worden, van een der in het vorige lid genoemde gronden voor curatele sprake zal zijn, kan de curatele reeds voor de meerderjarigheid worden uitgesproken.   
-3. De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), dan wel een machtiging als bedoeld in [artikel 33, eerste lid van die wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot ondercuratelestelling.
+3. De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot ondercuratelestelling.
 
 ### Artikel  379  
 
@@ -3132,7 +3129,7 @@ a. handelingsonbekwamen;
 
 b. zij ten behoeve van wie een mentorschap is ingesteld;  
 
-c. de bewindvoerder van de onder curatele gestelde in de zin [artikel 287, derde lid, van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+c. de bewindvoerder van de onder curatele gestelde in de zin artikel 287, derde lid, van de Faillissementswet;  
 
 d. een direct betrokken of behandelend hulpverlener;  
 
@@ -3142,21 +3139,21 @@ f. personen verbonden met de instelling waar de onder curatele gestelde wordt ve
 
 1° de instelling of personen behorende tot de leiding van de instelling, alleen of samen meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kunnen uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kunnen benoemen of ontslaan,  
 
-2° de persoon en de instelling deel uitmaken van een groep in de zin van [artikel 24b van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of  
+2° de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of  
 
 3° de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.       
 6.  Zij van wie één of meer goederen onder een bewind als bedoeld in titel 19 staan, zij die in staat van faillissement verkeren en zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, kunnen niet tot curator worden benoemd, tenzij het gaat om een persoon als bedoeld in het derde lid en het bewind over het vermogen van de onder curatele gestelde door de medecurator wordt gevoerd.   
-7.  Een andere persoon dan in het derde lid bedoeld, die ten behoeve van drie of meer personen curator, bewindvoerder of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een curator uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 386, derde lid, en in [artikel 15i van boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+7.  Een andere persoon dan in het derde lid bedoeld, die ten behoeve van drie of meer personen curator, bewindvoerder of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een curator uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 386, derde lid, en in artikel 15i van boek 3.   
 8.  De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over: 
 
 a. zijn verklaring dat hij aan de in het zevende lid bedoelde kwaliteitseisen en verplichtingen voldoet,  
 
-b. een verslag van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en  
+b. een verslag van een accountant als bedoeld in artikel 393, eerste lid, van boek 2, van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en  
 
-c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). [Artikel 396, zevende lid, van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is ten aanzien van artikel 393 lid 1 niet van toepassing.   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.   
+c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in artikel 10 van boek 2, dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig titel 9 van boek 2. Artikel 396, zevende lid, van boek 2 is ten aanzien van artikel 393 lid 1 niet van toepassing.   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.   
 9.  Van de overlegging van de in het achtste lid bedoelde verklaring van de accountant zijn vrijgesteld: 
 
-a. zij die een financiële onderneming zijn die ingevolge de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) het bedrijf van bank mogen uitoefenen,  
+a. zij die een financiële onderneming zijn die ingevolge de Wet op het financieel toezicht het bedrijf van bank mogen uitoefenen,  
 
 b. notarissen,  
 
@@ -3177,7 +3174,7 @@ Indien een beschikking, waarbij curatele is uitgesproken, in hoger beroep of cas
 
 a. in geval van benoeming van een ouder tot curator een bereidverklaring als bedoeld in artikel 280 onder b niet is vereist;   
 
-b. voor rechtbank of rechter wordt gelezen kantonrechter.  
+b. voor rechtbank of rechter wordt gelezen kantonrechter;  
 
 c. aan de raad voor de kinderbescherming terzake geen bevoegdheden toekomen;   
 
@@ -3190,7 +3187,7 @@ e.de curator de rekening en verantwoording, bedoeld in artikel 374, aflegt ten o
 
 1.  Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator, bedoeld in artikel 383, zevende lid, legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 383, achtste lid. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter.   
 2.  De curator draagt zorg voor een doelmatige belegging van het vermogen van de onder curatele gestelde, voor zover dit niet besteed behoort te worden voor een voldoende verzorging van de onder curatele gestelde.   
-3.  Tenzij de kantonrechter anders bepaalt, is de curator verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen; de curator is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.  
+3.  Tenzij de kantonrechter anders bepaalt, is de curator verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen; de curator is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.  
 4.   Voor de toepassing van de artikelen 365 tot en met 367 treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in artikel 385, lid 1 onder d in de plaats van de ontzetting van de voogd op grond van artikel 327 lid 1 onder b. Mededelingen en zendingen als bedoeld in artikel 371a, geschieden alleen dan indien artikel 12, vierde lid, op de desbetreffende curatele niet van toepassing is.   
 5.   Indien een gehuwde of een geregistreerde partner onder curatele wordt gesteld, en tussen de echtgenoten of de geregistreerde partners het bestuur over hun goederen en de goederen der gemeenschap anders is verdeeld dan volgens de regels van de wet en van huwelijkse voorwaarden, bepaalt de rechter bij het uitspreken van de curatele, of en in hoeverre die verdeling ook voor de curator zal gelden.    
 6.  De kantonrechter kan van de curator verlangen dat hij inzage geeft van zijn boeken, bescheiden en andere gegevensdragers. Hij kan voorts een afschrift daarvan verlangen. 
@@ -3228,7 +3225,7 @@ Alle uitspraken waarbij een curatele wordt verleend of opgeheven of waarbij een 
 6° een uittreksel van de rechterlijke beslissingen, waarbij een curator of bewindvoerder wordt benoemd, geschorst of ontslagen;  
 
 7° de naam en woonplaats van de curator of curatoren en de bewindvoerder of bewindvoerders en de taakverdeling, voor zover de rechter deze heeft vastgesteld.     
-2.  Een ieder heeft kosteloze inzage in het register en kan tegen betaling een uittreksel daaruit verkrijgen, met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.   
+2.  Een ieder heeft kosteloze inzage in het register en kan tegen betaling een uittreksel daaruit verkrijgen, met inachtneming van het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde.   
 3.  De griffier van de rechtbank geeft de in het eerste lid, onder 1° tot en met 7° genoemde gegevens, alsmede het bericht van het overlijden van de onder curatele gestelde dan wel rechthebbende, door aan het in het eerste lid bedoelde orgaan ten behoeve van het in het eerste lid genoemde register.   
 4.  Het einde van de curatele en het bewind door het verstrijken van de tijdsduur waarvoor de maatregel is ingesteld, leidt tot doorhaling van de inschrijving in het openbaar register op de dag na het verstrijken van de tijdsduur. Een beschikking tot opheffing van de curatele of het bewind leidt tot doorhaling van de inschrijving in het openbaar register op het tijdstip waarop de beschikking in kracht van gewijsde is gegaan. Het overlijden van de onder curatele gestelde of de rechthebbende leidt tot doorhaling van de inschrijving in het openbaar register, nadat de griffie van de rechtbank het bericht van het overlijden heeft ontvangen.  
 
@@ -3268,7 +3265,7 @@ Een stiefouder is, onverminderd het bepaalde in artikel 395a van dit boek, allee
 ### Artikel  395b  
 
 1.  Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig artikel 394, de verwekker of de persoon die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in artikel 395*a* van dit boek bedoeld.    
-2.   Hetzelfde geldt, indien met toepassing van [Hoofdstuk XIII van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) het bedrag is vastgesteld dat de ouder of stiefouder ter bestrijding van de kosten van de in [artikel 69, eerste lid van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bedoelde maatregelen aan het Landelijk Bureau Inning Onderhoudsbijdragen moet uitkeren.   
+2.   Hetzelfde geldt, indien met toepassing van Hoofdstuk XIII van de Wet op de jeugdzorg het bedrag is vastgesteld dat de ouder of stiefouder ter bestrijding van de kosten van de in artikel 69, eerste lid van die wet bedoelde maatregelen aan het Landelijk Bureau Inning Onderhoudsbijdragen moet uitkeren.   
 
 ### Artikel  396  
 
@@ -3347,7 +3344,7 @@ Gelijktijdig met een door de rechtbank te geven uitspraak betreffende het over d
 
 ### Artikel  408  
 
-1.  Een uitkering tot voorziening in de kosten van verzorging en opvoeding of tot voorziening in de kosten van levensonderhoud en studie, waarvan het bedrag in een rechterlijke beslissing, daaronder begrepen de beslissing op grond van [artikel 822, eerste lid, onder c, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), is vastgelegd, wordt ten behoeve van de minderjarige aan de ouder die het kind verzorgt en opvoedt of aan de voogd onderscheidenlijk aan de meerderjarige betaald.    
+1.  Een uitkering tot voorziening in de kosten van verzorging en opvoeding of tot voorziening in de kosten van levensonderhoud en studie, waarvan het bedrag in een rechterlijke beslissing, daaronder begrepen de beslissing op grond van artikel 822, eerste lid, onder c, van het Wetboek van Burgerlijke Rechtsvordering, is vastgelegd, wordt ten behoeve van de minderjarige aan de ouder die het kind verzorgt en opvoedt of aan de voogd onderscheidenlijk aan de meerderjarige betaald.    
 2.   Op verzoek van een gerechtigde als bedoeld in het eerste lid, van een onderhoudsplichtige dan wel op gezamenlijk verzoek van een gerechtigde en onderhoudsplichtige neemt het Landelijk Bureau Inning Onderhoudsbijdragen de invordering van de onderhoudsgelden op zich. De executoriale titel wordt daartoe door de onderhoudsgerechtigde in handen gesteld van dit Bureau. De overhandiging daarvan machtigt het Bureau tot het doen van de invordering, zo nodig door middel van executie.    
 3.   Kosten van invordering door het Landelijk Bureau Inning Onderhoudsbijdragen worden verhaald op de onderhoudsplichtige, onverminderd de kosten van gerechtelijke vervolging en executie. Het verhaal van kosten vindt plaats door wijziging van het bedrag, bedoeld in het eerste lid, volgens bij algemene maatregel van bestuur te stellen regels.    
 4.   Tot invordering op verzoek van een onderhoudsgerechtigde wordt slechts overgegaan, indien de gerechtigde ter gelegenheid van de indiening van het verzoek aannemelijk heeft gemaakt dat binnen ten hoogste zes maanden voorafgaande aan de indiening van het verzoek de onderhoudsplichtige ten aanzien van ten minste één periodieke betaling tekort is geschoten in zijn verplichtingen. In deze gevallen geschiedt de invordering van bedragen die verschuldigd zijn vanaf een tijdstip van ten hoogste zes maanden voorafgaande aan de indiening van het verzoek.    
@@ -3525,7 +3522,7 @@ a. zijn lichamelijke of geestelijke toestand, dan wel
 b. verkwisting of het hebben van problematische schulden,  kan de kantonrechter een bewind instellen over één of meer van de goederen, die hem als rechthebbende toebehoren of zullen toebehoren. Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot zijn huwelijksgemeenschap of gemeenschap van geregistreerd partnerschap en die niet uitsluitend onder het bestuur van zijn echtgenoot dan wel geregistreerd partner staan.   
 2.   Indien te verwachten is dat een minderjarige op het tijdstip waarop hij meerderjarig zal worden, in de in het vorige lid bedoelde toestand zal verkeren, kan het bewind reeds voor de meerderjarigheid worden ingesteld.    
 3.  Het bewind kan eveneens worden ingesteld indien te verwachten is dat de rechthebbende binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.  
-4.   De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), dan wel een machtiging als bedoeld in [artikel 33, eerste lid, van die wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.   
+4.   De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.   
 
 ### Artikel  432  
 
@@ -3564,7 +3561,7 @@ d. zij die in staat van faillissement verkeren;
 
 e. zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is;  
 
-f. de bewindvoerder van de rechthebbende in de zin [artikel 287, derde lid, van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+f. de bewindvoerder van de rechthebbende in de zin artikel 287, derde lid, van de Faillissementswet;  
 
 g. een direct betrokken of behandelend hulpverlener;  
 
@@ -3574,20 +3571,20 @@ i. personen verbonden met de instelling waar de rechthebbende wordt verzorgd of 
 
 1° de instelling of personen behorende tot de leiding van de instelling, alleen of samen meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kunnen uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kunnen benoemen of ontslaan,  
 
-2° de persoon en de instelling deel uitmaken van een groep in de zin van [artikel 24b van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of  
+2° de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of  
 
 3° de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.       
-7.  Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen bewindvoerder, curator of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een bewindvoerder uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 436, vierde lid, en [artikel 15i van boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+7.  Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen bewindvoerder, curator of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een bewindvoerder uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 436, vierde lid, en artikel 15i van boek 3.   
 8.  De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over: 
 
 a. zijn verklaring dat hij aan de in het zevende lid bedoelde kwaliteitseisen en verplichtingen voldoet,  
 
-b. een verslag van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en  
+b. een verslag van een accountant als bedoeld in artikel 393, eerste lid, van boek 2, van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en  
 
-c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). [Artikel 396, zevende lid, van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is ten aanzien van artikel 393 lid 1 niet van toepassing.   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.   
+c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in artikel 10 van boek 2, dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig titel 9 van boek 2. Artikel 396, zevende lid, van boek 2 is ten aanzien van artikel 393 lid 1 niet van toepassing.   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.   
 9.  Van de overlegging van de in het achtste lid bedoelde verklaring van de accountant zijn vrijgesteld: 
 
-a. zij die een financiële onderneming zijn die ingevolge de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) het bedrijf van bank mogen uitoefenen,  
+a. zij die een financiële onderneming zijn die ingevolge de Wet op het financieel toezicht het bedrijf van bank mogen uitoefenen,  
 
 b. notarissen,  
 
@@ -3598,10 +3595,10 @@ d. accountants.   Bij algemene maatregel van bestuur kunnen de in de vorige zin 
 
 ### Artikel  436  
 
-1.  De bewindvoerder is verplicht zo spoedig mogelijk een beschrijving van de aan het bewind onderworpen goederen op te maken en een afschrift daarvan in te leveren ter griffie van de ingevolge [artikel 266 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bevoegde rechtbank.    
+1.  De bewindvoerder is verplicht zo spoedig mogelijk een beschrijving van de aan het bewind onderworpen goederen op te maken en een afschrift daarvan in te leveren ter griffie van de ingevolge artikel 266 van het Wetboek van Burgerlijke Rechtsvordering bevoegde rechtbank.    
 2.  De artikelen 339, 363 en 364 van dit boek zijn van overeenkomstige toepassing.    
-3.   Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in artikel 432, eerste en tweede lid, of van de bewindvoerder, hetzij ambtshalve bepalen dat een beschikking tot onderbewindstelling wegens een lichamelijke of geestelijke toestand, voor zover het bewind alle goederen betreft, die de rechthebbende toebehoren of zullen toebehoren, en een beschikking houdende benoeming, schorsing of ontslag van de bewindvoerder vanwege de griffier in het register, bedoeld in artikel 391, worden ingeschreven.   
-4.   Tenzij de kantonrechter anders bepaalt, is de bewindvoerder verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen; de bewindvoerder is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt zoveel mogelijk van deze rekening gebruik te maken.    
+3.   Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in artikel 432, eerste en tweede lid, of van de bewindvoerder, hetzij ambtshalve bepalen dat een beschikking tot onderbewindstelling wegens een lichamelijke of geestelijke toestand, voor zover het bewind alle goederen betreft, die de rechthebbende toebehoren of zullen toebehoren, en een beschikking houdende benoeming, schorsing of ontslag van de bewindvoerder vanwege de griffier in het register, bedoeld in artikel 391, worden ingeschreven.   
+4.   Tenzij de kantonrechter anders bepaalt, is de bewindvoerder verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen; de bewindvoerder is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt zoveel mogelijk van deze rekening gebruik te maken.    
 5.   De kantonrechter kan te allen tijde de bewindvoerder ten verhore doen oproepen. Deze is verplicht alle door de kantonrechter gewenste inlichtingen te verstrekken.    
 6.  De kantonrechter kan van de bewindvoerder verlangen dat hij inzage geeft van zijn boeken, bescheiden en andere gegevensdragers. Hij kan voorts een afschrift daarvan verlangen. 
 
@@ -3639,17 +3636,17 @@ c. geld lenen of de rechthebbende als borg of hoofdelijke medeschuldenaar verbin
 
 d. overeenkomen dat een boedel, waartoe de rechthebbende gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten;   
 
-e. het aangaan, buiten het geval van [artikel 87 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van € 700 niet te boven gaat;   
+e. het aangaan, buiten het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van € 700 niet te boven gaat;   
 
 f. andere bij de instelling van het bewind of nadien aangewezen handelingen.      
 3.   De kantonrechter kan ook aan de bewindvoerder een doorlopende machtiging met zodanige voorwaarden als hij geraden acht, verlenen om handelingen als in het vorige lid bedoeld te verrichten en een verleende machtiging te allen tijde wijzigen of intrekken.    
-4.   De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van [artikel 181 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.    
+4.   De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.    
 5.   De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen nalatenschap te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.   
 
 ### Artikel  442  
 
-1.  Heeft iemand als bewindvoerder een rechtshandeling verricht, dan richten de rechten en verplichtingen van de wederpartij zich naar hetgeen dienaangaande is bepaald in [titel 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). Regels die de bevoegdheid van een bewindvoerder betreffen en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze daarmee niet bekend was of had behoren te zijn.    
-2.   De rechthebbende is, onverminderd het bepaalde in [artikel 172 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de bewindvoerder in zijn hoedanigheid in naam van de rechthebbende verricht. Wanneer hij onder bewind staande goederen aanwijst die voor de schuld voldoende verhaal bieden, is hij niet verplicht de schuld ten laste van zijn overige vermogen te voldoen.   
+1.  Heeft iemand als bewindvoerder een rechtshandeling verricht, dan richten de rechten en verplichtingen van de wederpartij zich naar hetgeen dienaangaande is bepaald in titel 3 van Boek 3. Regels die de bevoegdheid van een bewindvoerder betreffen en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze daarmee niet bekend was of had behoren te zijn.    
+2.   De rechthebbende is, onverminderd het bepaalde in artikel 172 van Boek 6, aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de bewindvoerder in zijn hoedanigheid in naam van de rechthebbende verricht. Wanneer hij onder bewind staande goederen aanwijst die voor de schuld voldoende verhaal bieden, is hij niet verplicht de schuld ten laste van zijn overige vermogen te voldoen.   
 
 ### Artikel  443  
 
@@ -3715,7 +3712,7 @@ e. door ontslag dat hem door de kantonrechter met ingang van een door deze bepaa
 1.  Indien een meerderjarige als gevolg van zijn geestelijke of lichamelijke toestand tijdelijk of duurzaam niet in staat is of bemoeilijkt wordt zijn belangen van niet-vermogensrechtelijke aard zelf behoorlijk waar te nemen, kan de kantonrechter te zijnen behoeve een mentorschap instellen.    
 2.   Indien te verwachten is dat een minderjarige op het tijdstip waarop hij meerderjarig zal worden, in de in het eerste lid bedoelde toestand zal verkeren, kan het mentorschap reeds voor de meerderjarigheid worden ingesteld.    
 3.   Het mentorschap kan eveneens worden ingesteld, indien te verwachten is dat een meerderjarige binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.    
-4.   De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), dan wel een machtiging als bedoeld in [artikel 33, eerste lid, van die wet](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.   
+4.   De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.   
 
 ### Artikel  451  
 
@@ -3746,17 +3743,17 @@ e. personen verbonden met de instelling waar de betrokkene wordt verzorgd of die
 
 1° de instelling of personen behorende tot de leiding van de instelling, alleen of samen meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kunnen uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kunnen benoemen of ontslaan,  
 
-2° de persoon en de instelling deel uitmaken van een groep in de zin van [artikel 24b van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of  
+2° de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of  
 
 3° de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.       
-7.  Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen mentor, curator of bewindvoerder is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een mentor uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in [artikel 15i van boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+7.  Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen mentor, curator of bewindvoerder is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een mentor uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 15i van boek 3.   
 8.  De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over: 
 
 a. zijn verklaring dat hij aan de in het zevende lid bedoelde kwaliteitseisen en verplichtingen voldoet,  
 
-b. een verslag van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dan wel van een door de kantonrechter benoemde deskundige, van diens bevindingen over de wijze waarop aan de eisen wordt voldaan, en  
+b. een verslag van een accountant als bedoeld in artikel 393, eerste lid, van boek 2, dan wel van een door de kantonrechter benoemde deskundige, van diens bevindingen over de wijze waarop aan de eisen wordt voldaan, en  
 
-c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). [Artikel 396, zevende lid, van boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is ten aanzien van artikel 393 lid 1 niet van toepassing.   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, de benoeming van de deskundige, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaring en het verslag, bedoeld in het zevende lid, onderdelen a en b, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van de verklaring en het verslag vrijgesteld. Toont de persoon aan dat hij in de 24 maanden voorafgaande aan zijn benoeming de verklaring, bedoeld in het zevende lid, onderdeel c, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van deze verklaring vrijgesteld.   
+c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in artikel 10 van boek 2, dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig titel 9 van boek 2. Artikel 396, zevende lid, van boek 2 is ten aanzien van artikel 393 lid 1 niet van toepassing.   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, de benoeming van de deskundige, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaring en het verslag, bedoeld in het zevende lid, onderdelen a en b, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van de verklaring en het verslag vrijgesteld. Toont de persoon aan dat hij in de 24 maanden voorafgaande aan zijn benoeming de verklaring, bedoeld in het zevende lid, onderdeel c, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van deze verklaring vrijgesteld.   
 9.  De rechter kan twee mentoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee mentoren, dan kan ieder van hen de taken die aan een mentor toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de mentoren vaststellen. Bij verschil van mening tussen de mentoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in artikel 451, tweede lid, de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.  
 10.   De taak van de mentor vangt aan daags nadat de beschikking, houdende de benoeming, is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.   
 
@@ -3780,7 +3777,7 @@ c. een verklaring van de accountant omtrent de balans en staat van baten en last
 
 ### Artikel  455  
 
-Degene ten behoeve van wie het mentorschap is ingesteld, is, onverminderd het bepaalde in [artikel 172 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de mentor in zijn hoedanigheid in naam van de betrokkene verricht.  
+Degene ten behoeve van wie het mentorschap is ingesteld, is, onverminderd het bepaalde in artikel 172 van Boek 6, aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de mentor in zijn hoedanigheid in naam van de betrokkene verricht.  
 
 ### Artikel  456  
 

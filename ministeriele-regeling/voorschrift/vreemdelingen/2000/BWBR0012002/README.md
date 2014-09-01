@@ -5,7 +5,7 @@
 De Minister van Justitie,
 in overeenstemming, voor zoveel nodig, met zijn ambtgenoten van Buitenlandse Zaken, Defensie en Financiën,
 
-Gelet op de [artikelen 6, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [9, derde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [20](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [24, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [25, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [33](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [42, vierde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [47, eerste lid, onder c](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [50, vierde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [55, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [56. eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [59](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [62, vierde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [63, tweede en derde lid, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) (Stb. 2000, 495) en de [artikelen 1.4](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.2, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.3, derde lid, onder a en b](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.4, derde lid, zesde lid onder a, en achtste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.6, zesde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.7, vijfde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.11, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.1](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.4, vierde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.12, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.21](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.23, vierde lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.29, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.31, tweede lid, onder d](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.33, tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.43, vierde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.44, tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.74, onder b en c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.75, vierde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.77, vierde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.79, tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.86, negende lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.99, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.108, eerste en tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.110, tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.2, tweede en vierde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.9, onder a](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.11 eerste lid, onder a](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.15, tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.21, eerste lid, onder a, b en c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.29, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.36](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.38](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.51, tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [5.5, eerste en tweede lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [6.1](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [6.2](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [8.1](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [8.2 van het Vreemdelingenbesluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) (Stb. 2000, 497),
+Gelet op de artikelen 6, eerste lid, 9, derde lid, 14, 20, 24, tweede lid, 25, tweede lid, 28, 33, 42, vierde lid, 47, eerste lid, onder c, 50, vierde lid, 55, eerste lid, 56. eerste lid, 59, 62, vierde lid, en 63, tweede en derde lid, van de Vreemdelingenwet 2000 (Stb. 2000, 495) en de artikelen 1.4, 2.2, eerste lid, 2.3, derde lid, onder a en b, 2.4, derde lid, zesde lid onder a, en achtste lid, 2.6, zesde lid, 2.7, vijfde lid, 2.11, derde lid, 3.1, 3.4, vierde lid, 3.12, derde lid, 3.21, 3.23, vierde lid, onder c, 3.29, derde lid, 3.31, tweede lid, onder d, 3.33, tweede lid, 3.43, vierde lid, 3.44, tweede lid, 3.74, onder b en c, 3.75, vierde lid, 3.77, vierde lid, 3.79, tweede lid, 3.86, negende lid, 3.99, eerste lid, 3.108, eerste en tweede lid, 3.110, tweede lid, 4.2, tweede en vierde lid, 4.9, onder a, 4.11 eerste lid, onder a, 4.15, tweede lid, 4.21, eerste lid, onder a, b en c, 4.29, derde lid, 4.36, 4.38, 4.51, tweede lid, 5.5, eerste en tweede lid, 6.1, 6.2, 8.1 en 8.2 van het Vreemdelingenbesluit (Stb. 2000, 497),
 Besluit:   
 ### Hoofdstuk 1  
 
@@ -19,7 +19,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.*het Besluit:* het [Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);
+a.*het Besluit:* het Vreemdelingenbesluit 2000;
 
 b.*EVRM*: Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden;
 
@@ -27,7 +27,7 @@ c. *de BRP:* de basisregistratie personen;
 
 d.  *vervolging:* vervolging als bedoeld in het Vluchtelingenverdrag;  
 
-e.  *ernstige schade:* daden als bedoeld in [artikel 29, eerste lid, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en artikel 15 van richtlijn 2011/95/EU van het Europees Parlement en de Raad van 13 december 2011 inzake normen voor de erkenning van onderdanen van derde landen of staatlozen als personen die internationale bescherming genieten, voor een uniforme status voor vluchtelingen of voor personen die in aanmerking komen voor subsidiaire bescherming, en voor de inhoud van de verleende bescherming (herschikking) (PbEU 2011 L 337).  
+e.  *ernstige schade:* daden als bedoeld in artikel 29, eerste lid, onder b, van de Wet en artikel 15 van richtlijn 2011/95/EU van het Europees Parlement en de Raad van 13 december 2011 inzake normen voor de erkenning van onderdanen van derde landen of staatlozen als personen die internationale bescherming genieten, voor een uniforme status voor vluchtelingen of voor personen die in aanmerking komen voor subsidiaire bescherming, en voor de inhoud van de verleende bescherming (herschikking) (PbEU 2011 L 337).  
 
 ### Artikel  1.2  
 
@@ -97,13 +97,13 @@ De referent van een vreemdeling die in Nederland wil verblijven voor studie in h
 
 ### Artikel  1.9  
 
-Ten behoeve van het verblijf van een vreemdeling die in Nederland verblijft of wil verblijven voor studie, kan ook als referent optreden de krachtens [artikel 2c van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) als referent erkende onderwijsinstelling, waaraan de vreemdeling voortgezet onderwijs volgt of wil volgen, die, voor zover op grond van de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) vereist, is ingeschreven in het handelsregister, bedoeld in [artikel 2 van die wet](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en die: 
+Ten behoeve van het verblijf van een vreemdeling die in Nederland verblijft of wil verblijven voor studie, kan ook als referent optreden de krachtens artikel 2c van de Wet als referent erkende onderwijsinstelling, waaraan de vreemdeling voortgezet onderwijs volgt of wil volgen, die, voor zover op grond van de Handelsregisterwet 2007 vereist, is ingeschreven in het handelsregister, bedoeld in artikel 2 van die wet, en die: 
 
 a. door de Internationale Baccalaureaat Organisatie geaccrediteerd is;  
 
 b. het Internationale Baccalaureaat diplomaprogramma aanbiedt;  
 
-c. op grond van de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd wordt, en  
+c. op grond van de Wet op het voortgezet onderwijs bekostigd wordt, en  
 
 d. deel uitmaakt van een internationale organisatie, waarbij een uitwisseling van leerlingen over de wereld plaatsvindt en het land van plaatsing wordt bepaald door landelijke comités van deze internationale organisatie, of die zijn leerlingen in een internaat plaatst.   
 
@@ -126,11 +126,11 @@ b. een religieuze of levensbeschouwelijke organisatie die deel uitmaakt van een 
 
 ### Artikel  1.12  
 
-De aanvrager om erkenning als referent die niet op grond van de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) inschrijvingsplichtig is en niet is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), verstrekt bij de aanvraag de naam, de voornamen, de geboortedatum, de geboorteplaats, de nationaliteit, het burgerservicenummer en de functie van iedere bestuurder van de onderneming of rechtspersoon. 
+De aanvrager om erkenning als referent die niet op grond van de Handelsregisterwet 2007 inschrijvingsplichtig is en niet is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, verstrekt bij de aanvraag de naam, de voornamen, de geboortedatum, de geboorteplaats, de nationaliteit, het burgerservicenummer en de functie van iedere bestuurder van de onderneming of rechtspersoon. 
 
 ### Artikel  1.13  
 
-1.  De aanvrager om erkenning als referent legt bij de aanvraag een verklaring van betalingsgedrag als bedoeld in [artikel 1.1.12 van de Leidraad Invordering 2008](../../../../../beleidsregel/leidraad/invordering/2008/BWBR0024096/README.md) over, die op de datum van de aanvraag niet ouder is dan drie maanden.   
+1.  De aanvrager om erkenning als referent legt bij de aanvraag een verklaring van betalingsgedrag als bedoeld in artikel 1.1.12 van de Leidraad Invordering 2008 over, die op de datum van de aanvraag niet ouder is dan drie maanden.   
 2.  In afwijking van het eerste lid verstrekt de aanvrager een ondernemingsplan indien de onderneming nog geen anderhalf jaar bestaat.   
 3.  Voor de beoordeling of de continuïteit en solvabiliteit van de startende onderneming voldoende is gewaarborgd wordt het ondernemingsplan, bedoeld in het tweede lid, ter advisering voorgelegd aan de Rijksdienst voor Ondernemend Nederland.  
 
@@ -140,12 +140,12 @@ Een uitzendonderneming kan slechts worden erkend als referent indien de uitzendo
 
 ### Artikel  1.15  
 
-De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) over. 
+De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens over. 
 
 ### Artikel  1.16  
 
-1.  Als administraties, bedoeld in [artikel 2d, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [2t, eerste lid, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen de administraties vermeld in kolom A van bijlage 20 bij deze regeling.   
-2.  Als gegevens en bescheiden, bedoeld in [artikel 2d, derde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [2t, vierde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van bijlage 20 bij deze regeling.  
+1.  Als administraties, bedoeld in artikel 2d, eerste lid, en 2t, eerste lid, onder a, van de Wet, zijn aangewezen de administraties vermeld in kolom A van bijlage 20 bij deze regeling.   
+2.  Als gegevens en bescheiden, bedoeld in artikel 2d, derde lid, en 2t, vierde lid, van de Wet, zijn aangewezen de gegevens en bescheiden vermeld in kolom B van bijlage 20 bij deze regeling.  
 
 ### Hoofdstuk 1a  
 
@@ -154,7 +154,7 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 ### Artikel  1.17  
 
 1.  Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen van een terugkeervisum is de vreemdeling een bedrag van € 142 verschuldigd.   
-2.  In afwijking van het eerste lid is de vreemdeling die valt onder [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md), geen leges verschuldigd.   
+2.  In afwijking van het eerste lid is de vreemdeling die valt onder artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers, geen leges verschuldigd.   
 3.  In afwijking van het eerste lid is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 2963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971,70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, een bedrag van € 41 verschuldigd.  
 
 ### Hoofdstuk 2  
@@ -163,27 +163,27 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 
 ### Artikel  2.1  
 
-1.  Als luchthavens, bedoeld in [artikel 2.2, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen: 
+1.  Als luchthavens, bedoeld in artikel 2.2, eerste lid, van het Besluit, zijn aangewezen: 
 
 a.  de luchthavens die zijn opgenomen in bijlage 1 bij deze regeling, en 
 
-b.  de luchthavens, vanaf welke vluchten vertrekken voor het vervoer van personen in het ongeregeld vervoer, als bedoeld in het [Besluit Vracht- en overige vluchten](../../../../../ministeriele-regeling/regeling/vracht-/en/overige/vluchten/BWBR0003376/README.md) van de Minister van Infrastructuur en Milieu, met uitzondering van de vluchten die door onze Minister door tussenkomst van de Minister van Infrastructuur en Milieu van de verplichting tot het maken van een afbeelding zijn ontheven.    
-2.  De Minister kan bepalen dat de verplichtingen ingevolge [artikel 2.2 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) voor één of meer vervoerders vanaf één of meer van de in het eerste lid, onder a, genoemde luchthavens tijdelijk worden opgeschort.   
-3.  De Minister kan bepalen dat de verplichtingen ingevolge [artikel 2.2 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) van toepassing zijn op één of meer vervoerders door wiens tussenkomst de aanvoer van niet- of onvoldoende gedocumenteerde vreemdelingen op korte termijn vanaf een bepaalde, niet in het eerste lid, onder a, genoemde luchthaven aanzienlijk is toegenomen.   
+b.  de luchthavens, vanaf welke vluchten vertrekken voor het vervoer van personen in het ongeregeld vervoer, als bedoeld in het Besluit Vracht- en overige vluchten van de Minister van Infrastructuur en Milieu, met uitzondering van de vluchten die door onze Minister door tussenkomst van de Minister van Infrastructuur en Milieu van de verplichting tot het maken van een afbeelding zijn ontheven.    
+2.  De Minister kan bepalen dat de verplichtingen ingevolge artikel 2.2 van het Besluit voor één of meer vervoerders vanaf één of meer van de in het eerste lid, onder a, genoemde luchthavens tijdelijk worden opgeschort.   
+3.  De Minister kan bepalen dat de verplichtingen ingevolge artikel 2.2 van het Besluit van toepassing zijn op één of meer vervoerders door wiens tussenkomst de aanvoer van niet- of onvoldoende gedocumenteerde vreemdelingen op korte termijn vanaf een bepaalde, niet in het eerste lid, onder a, genoemde luchthaven aanzienlijk is toegenomen.   
 
 ### Artikel 2.1a  
 
-1.  De vervoerder, bedoeld in [artikel 2.2a, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verzamelt de passagiersgegevens, bedoeld in artikel 2.2a, derde lid, van het Besluit ten aanzien van alle passagiers die hij naar de luchthaven Schiphol vervoert vanaf een luchthaven, genoemd in bijlage 1a.   
+1.  De vervoerder, bedoeld in artikel 2.2a, eerste lid, van het Besluit, verzamelt de passagiersgegevens, bedoeld in artikel 2.2a, derde lid, van het Besluit ten aanzien van alle passagiers die hij naar een luchthaven in Nederland vervoert vanaf een luchthaven, genoemd in bijlage 1a.   
 2.  De vervoerder zendt de krachtens het eerste lid verzamelde passagiersgegevens elektronisch, voor het einde van de instapcontroles aan de ambtenaar belast met de grensbewaking aan het door die ambtenaar aangegeven adres.   
 3.  De ingevolge het tweede lid te zenden gegevens worden verzonden in een bericht met de structuur die is gebaseerd op de vanwege de Economische Commissie voor Europa van de Verenigde Naties vastgestelde indeling voor elektronische gegevensuitwisseling voor overheid, handel en vervoer, gepubliceerd onder de titel: Electronic Data Interchange For Administration, Commerce and Transport (EDIFACT) Passenger List Message (PAXLST). 
 
 ### Artikel  2.2  
 
-Als de staten, bedoeld in [artikel 2.3, derde lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen de staten, vermeld in bijlage 2 bij deze regeling. 
+Als de staten, bedoeld in artikel 2.3, derde lid, onder a, van het Besluit, zijn aangewezen de staten, vermeld in bijlage 2 bij deze regeling. 
 
 ### Artikel  2.3  
 
-Als de categorieën vreemdelingen, bedoeld in [artikel 2.3, derde lid, onder b, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) zijn aangewezen de vreemdelingen die behoren tot een van de categorieën, opgenomen in bijlage 3 bij deze regeling, voor zover de vreemdeling: 
+Als de categorieën vreemdelingen, bedoeld in artikel 2.3, derde lid, onder b, van het Besluit zijn aangewezen de vreemdelingen die behoren tot een van de categorieën, opgenomen in bijlage 3 bij deze regeling, voor zover de vreemdeling: 
 
 a.  voldoet aan de voor hem gestelde voorwaarden, en 
 
@@ -191,16 +191,16 @@ b.  zich naar Nederland begeeft voor een tijdsduur of doel als aangegeven bij di
 
 ### Artikel  2.4  
 
-Als de vliegvelden in Nederland, bedoeld in [artikel 2.4, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen de vliegvelden, vermeld in bijlage 4 bij deze regeling.  
+Als de vliegvelden in Nederland, bedoeld in artikel 2.4, derde lid, van het Besluit, zijn aangewezen de vliegvelden, vermeld in bijlage 4 bij deze regeling.  
 
 ### Artikel  2.6  
 
-1.  De aantekening, bedoeld in [artikel 2.4, vijfde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), luidt: 'Toegang tot het Beneluxgebied verleend van (datum) tot (datum), [artikel 2.4, tweede/vijfde lid, Vreemdelingenbesluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) (inreisstempel en handtekening van ambtenaar die toegang verleent)'.   
-2.  Het model van de afzonderlijke verklaring, waaruit het verlenen van toegang op grond van [artikel 2.4, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) blijkt, is opgenomen in bijlage 5 bij deze regeling.  
+1.  De aantekening, bedoeld in artikel 2.4, vijfde lid, van het Besluit, luidt: 'Toegang tot het Beneluxgebied verleend van (datum) tot (datum), artikel 2.4, tweede/vijfde lid, Vreemdelingenbesluit (inreisstempel en handtekening van ambtenaar die toegang verleent)'.   
+2.  Het model van de afzonderlijke verklaring, waaruit het verlenen van toegang op grond van artikel 2.4, tweede lid, van het Besluit blijkt, is opgenomen in bijlage 5 bij deze regeling.  
 
 ### Artikel  2.9  
 
-Voor de ondertekening door een daartoe solvabele derde van de garantverklaring, bedoeld in [artikel 2.11, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), wordt bij het verlenen van toegang aan: 
+Voor de ondertekening door een daartoe solvabele derde van de garantverklaring, bedoeld in artikel 2.11, derde lid, van het Besluit, wordt bij het verlenen van toegang aan: 
 
 a.  een zeeman of meerdere zeelieden gebruik gemaakt van het model, dat als bijlage 6a onderscheidenlijk als bijlage 6b bij deze regeling is gevoegd; 
 
@@ -208,9 +208,9 @@ b.  een andere vreemdeling gebruik gemaakt van het model, dat als bijlage 6c bij
 
 ### Artikel  2.10  
 
-1.  De ambtenaren, bedoeld in [artikel 46, eerste lid, onder a en b](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel [47, eerste lid, onder a en b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn bevoegd een machtiging tot voorlopig verblijf dan wel terugkeervisum in te trekken dan wel te annuleren op de gronden en in de gevallen, bedoeld in [artikel 2m, derde en vierde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
-2.  De ambtenaren belast met de grensbewaking zijn bevoegd de vreemdeling aan wie de toegang is geweigerd, de maatregel, bedoeld in [artikel 6, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), op te leggen dan wel deze in overeenstemming met [artikel 6a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) voort te zetten.   
-3.  De bevoegde ambtenaren van de Immigratie- en Naturalisatiedienst kunnen besluiten de maatregel, bedoeld in artikel 6, eerste en tweede lid, voort te zetten in overeenstemming met [artikel 6a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+1.  De ambtenaren, bedoeld in artikel 46, eerste lid, onder a en b, dan wel 47, eerste lid, onder a en b, van de Wet, zijn bevoegd een machtiging tot voorlopig verblijf dan wel terugkeervisum in te trekken dan wel te annuleren op de gronden en in de gevallen, bedoeld in artikel 2m, derde en vierde lid, van de Wet.  
+2.  De ambtenaren belast met de grensbewaking zijn bevoegd de vreemdeling aan wie de toegang is geweigerd, de maatregel, bedoeld in artikel 6, eerste lid, van de Wet, op te leggen dan wel deze in overeenstemming met artikel 6a van de Wet voort te zetten.   
+3.  De bevoegde ambtenaren van de Immigratie- en Naturalisatiedienst kunnen besluiten de maatregel, bedoeld in artikel 6, eerste en tweede lid, voort te zetten in overeenstemming met artikel 6a van de Wet.  
 
 ### Hoofdstuk 3  
 
@@ -222,18 +222,18 @@ b.  een andere vreemdeling gebruik gemaakt van het model, dat als bijlage 6c bij
 
 ### Artikel  3.1  
 
-1.  Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a tot en met d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), blijkt, zijn aangewezen de volgende documenten, waarbij het vastgestelde model van dat document wordt aangegeven: 
+1.  Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a tot en met d, van de Wet, blijkt, zijn aangewezen de volgende documenten, waarbij het vastgestelde model van dat document wordt aangegeven: 
 
-a.  voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document I van het model dat als bijlage 7a bij deze regeling is gevoegd; 
+a.  voor vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder a, van de Wet: het document I van het model dat als bijlage 7a bij deze regeling is gevoegd; 
 
-b. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document II van het model dat als bijlage 7b bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); 
+b. voor vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder b, van de Wet: het document II van het model dat als bijlage 7b bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20 van de Wet; 
 
-c.  voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document III van het model dat als bijlage 7c bij deze regeling is gevoegd; 
+c.  voor vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder c, van de Wet: het document III van het model dat als bijlage 7c bij deze regeling is gevoegd; 
 
-d. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document IV van het model dat als bijlage 7d bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en 
+d. voor vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder d, van de Wet: het document IV van het model dat als bijlage 7d bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de Wet, en 
 
-e. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder b en d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document V van het model dat als bijlage 7d2 bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in [artikel 45a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
-2.  De beperking waaronder de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt verleend, wordt vermeld op het document, bedoeld in het eerste lid, onder a.   
+e. voor vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder b en d, van de Wet: het document V van het model dat als bijlage 7d2 bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 45a van de Wet.    
+2.  De beperking waaronder de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Wet, wordt verleend, wordt vermeld op het document, bedoeld in het eerste lid, onder a.   
 3.  Op het document, bedoeld in het eerste lid, onder b, c, d en e, wordt de aantekening gesteld ‘arbeid vrij toegestaan, TWV niet vereist’. Op het document, bedoeld in het eerste lid, onder a, wordt de aantekening gesteld: 
 
 a. ‘Arbeid vrij toegestaan, TWV niet vereist’;  
@@ -261,13 +261,13 @@ k. ‘Arbeid toegestaan, TWV alleen gedurende eerste 12 maanden vereist’;
 l. ‘Arbeid niet toegestaan’, of  
 
 m. ‘arbeid toegestaan conform aanvullend document’.    
-4.  De aantekening, bedoeld in [artikel 3.4, vierde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) luidt: ‘beroep op algemene middelen kan gevolgen hebben voor verblijfsrecht’.   
-5.  De documenten, bedoeld in het eerste lid, zijn ingevolge [artikel 4.21, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) tevens vastgesteld als document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+4.  De aantekening, bedoeld in artikel 3.4, vierde lid, van het Besluit luidt: ‘beroep op algemene middelen kan gevolgen hebben voor verblijfsrecht’.   
+5.  De documenten, bedoeld in het eerste lid, zijn ingevolge artikel 4.21, eerste lid, onder a, van het Besluit tevens vastgesteld als document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder a tot en met d, van de Wet.    
 6.  Als aanvullend document is aangewezen het document van het model dat als bijlage 7l bij deze regeling is gevoegd. 
 
 ### Artikel  3.2  
 
-1.  Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
+1.  Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder e, van de Wet, blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
 
 a.  voor gemeenschapsonderdanen die zes maanden in Nederland als werkzoekende of als grensarbeider verblijven: de sticker Verblijfsaantekeningen Gemeenschapsonderdanen van het model dat als bijlage 7h bij deze regeling is gevoegd; 
 
@@ -280,64 +280,64 @@ c.  voor de overige gemeenschapsonderdanen: het document EU/EER van het model da
 a. ‘een beroep op publieke middelen kan gevolgen hebben voor het verblijfsrecht’, of  
 
 b. ‘een meer dan aanvullend beroep op publieke middelen kan gevolgen hebben voor het verblijfsrecht’.     
-4.  De documenten, bedoeld in het eerste lid, onder b en c, zijn ingevolge [artikel 4.21, eerste lid, onder b, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) tevens vastgesteld als document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder e, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+4.  De documenten, bedoeld in het eerste lid, onder b en c, zijn ingevolge artikel 4.21, eerste lid, onder b, van het Besluit tevens vastgesteld als document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder e, van de Wet.   
 
 ### Artikel  3.2a  
 
 1. In afwijking van artikel 3.2, tweede lid, wordt op de documenten en verklaringen, bedoeld in het eerste lid van dat artikel, de aantekening gesteld: ‘arbeid in loondienst alleen toegestaan indien werkgever beschikt over TWV’, indien het een vreemdeling betreft die de nationaliteit bezit van Bulgarije of Roemenië. Dezelfde aantekening wordt gesteld op de documenten en verklaringen van de echtgenote dan wel geregistreerde partner, van de in de voorgaande volzin bedoelde vreemdeling, en bloedverwanten in neergaande lijn beneden de leeftijd van 21 jaar of die te hunnen laste zijn, ongeacht hun nationaliteit, voorzover zij geen onderdaan zijn van een staat die op 31 december 2006 partij was, bedoeld in artikel 3.2, eerste lid, onder b, en evenmin van Cyprus of Malta.
-2. Het voorgaande lid is niet van toepassing indien de vreemdeling, bedoeld in de eerste volzin ervan, op of na 1 januari 2007 legaal in Nederland verbleef en diens toegang tot de Nederlandse arbeidsmarkt die dag gold voor de duur van ten minste twaalf onafgebroken maanden, ingevolge een tewerkstellingsvergunning of blijkens een daartoe strekkende aantekening op een eerder verleende verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), van zodanige duur.
+2. Het voorgaande lid is niet van toepassing indien de vreemdeling, bedoeld in de eerste volzin ervan, op of na 1 januari 2007 legaal in Nederland verbleef en diens toegang tot de Nederlandse arbeidsmarkt die dag gold voor de duur van ten minste twaalf onafgebroken maanden, ingevolge een tewerkstellingsvergunning of blijkens een daartoe strekkende aantekening op een eerder verleende verblijfsvergunning, bedoeld in artikel 14 van de Wet, van zodanige duur.
 
 ### Artikel  3.3  
 
-1.  Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder f tot en met h, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
+1.  Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder f tot en met h, van de Wet, blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
 
-a.  voor vreemdelingen die in afwachting zijn van een besluit of een rechterlijke beslissing omtrent een verblijfsvergunning als bedoeld in de [artikelen 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document W van het model dat als bijlage 7f bij deze regeling is gevoegd;  
+a.  voor vreemdelingen die in afwachting zijn van een besluit of een rechterlijke beslissing omtrent een verblijfsvergunning als bedoeld in de artikelen 28 en 33 van de Wet: het document W van het model dat als bijlage 7f bij deze regeling is gevoegd;  
 
-b. voor vreemdelingen die in afwachting zijn van een besluit of een rechterlijke uitspraak omtrent een aanvraag tot verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder de beperking genoemd in [artikel 3.4, eerste lid, aanhef en onder x, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder g of h, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;  
+b. voor vreemdelingen die in afwachting zijn van een besluit of een rechterlijke uitspraak omtrent een aanvraag tot verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder de beperking genoemd in artikel 3.4, eerste lid, aanhef en onder x, van het Besluit en die rechtmatig verblijf als bedoeld in artikel 8, aanhef en onder g of h, van de Wet hebben: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;  
 
-c.voor vreemdelingen die in afwachting zijn van een besluit of rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, g of h van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben en in het verleden een aanvraag om verlening van een verblijfsvergunning als bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben ingediend: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;
+c.voor vreemdelingen die in afwachting zijn van een besluit of rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in artikel 14 van de Wet en die rechtmatig verblijf als bedoeld in artikel 8, aanhef en onder f, g of h van de Wet hebben en in het verleden een aanvraag om verlening van een verblijfsvergunning als bedoeld in artikel 28 van de Wet hebben ingediend: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;
 
-d. voor overige vreemdelingen die in afwachting zijn van een besluit of een rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in de [artikelen 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, g of h van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben en waarbij naar oordeel van de Minister sprake is van zeer bijzondere omstandigheden: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;  
+d. voor overige vreemdelingen die in afwachting zijn van een besluit of een rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in de artikelen 14 en 20 van de Wet en die rechtmatig verblijf als bedoeld in artikel 8, aanhef en onder f, g of h van de Wet hebben en waarbij naar oordeel van de Minister sprake is van zeer bijzondere omstandigheden: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;  
 
-e.  voor overige vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder f of g, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): de sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het derde lid, en  
+e.  voor overige vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder f of g, van de Wet: de sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het derde lid, en  
 
-f.  voor overige vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder h, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): de sticker Verblijfsaantekeningen Vervolgprocedures van het model dat als bijlage 7i bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het vierde lid;  
+f.  voor overige vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onder h, van de Wet: de sticker Verblijfsaantekeningen Vervolgprocedures van het model dat als bijlage 7i bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het vierde lid;  
 
-g. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder m, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md): het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd.    
-2.  Het document, bedoeld in het eerste lid, onder a, b, c en d, zijn ingevolge [artikel 4.21, eerste lid, onder c en d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) tevens vastgesteld als geldend document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen.   
-3.  De aantekening, bedoeld in het eerste lid, onder e, luidt: 'aanvraag ingediend/verlenging aangevraagd voor een verblijfsvergunning op grond van [artikel 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)/[20](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)/[33](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)/45a Vw 2000 op (datum). arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist. Geldig tot (datum), tenzij voor deze datum op voormelde aanvraag is beslist'.   
+g. voor vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, aanhef en onder m, van de Wet: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd.    
+2.  Het document, bedoeld in het eerste lid, onder a, b, c en d, zijn ingevolge artikel 4.21, eerste lid, onder c en d, van het Besluit tevens vastgesteld als geldend document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen.   
+3.  De aantekening, bedoeld in het eerste lid, onder e, luidt: 'aanvraag ingediend/verlenging aangevraagd voor een verblijfsvergunning op grond van artikel 14/20/33/45a Vw 2000 op (datum). arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist. Geldig tot (datum), tenzij voor deze datum op voormelde aanvraag is beslist'.   
 4.  De aantekening, bedoeld in het eerste lid, onder f, luidt: 'bezwaarschrift ingediend of beroep rechtbank ingediend op (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist. Geldig tot (datum), tenzij voor deze datum op voormeld bezwaar/beroep is beslist.'   
-5.  De aantekening bedoeld in het eerste lid, onder g, luidt: ‘verblijf als bedoeld in [artikel 8, onder m, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Arbeid niet toegestaan. Geldig tot (datum).’  
+5.  De aantekening bedoeld in het eerste lid, onder g, luidt: ‘verblijf als bedoeld in artikel 8, onder m, van de Wet. Arbeid niet toegestaan. Geldig tot (datum).’  
 6.  De aantekeningen, bedoeld in het derde en vierde lid, hebben een geldigheidsduur van ten hoogste zes maanden. Indien de geldigheidsduur van de aantekening verstrijkt voordat een beslissing is genomen op de aanvraag, onderscheidenlijk het bezwaar of beroep, kan de desbetreffende aantekening wederom worden gesteld met een geldigheidsduur van ten hoogste zes maanden. Indien afwijzend is beslist, wordt de aantekening 'vervallen' geplaatst.   
 
 ### Artikel  3.4  
 
-1.  Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder i, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is aangewezen de Sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het tweede lid.   
-2.  De tekst van de aantekening, bedoeld in het eerste lid, luidt: 'aangemeld op (datum) voor verblijf op grond van [artikel 12 Vw 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot (datum). arbeid wel/niet toegestaan; tewerkstellingvergunning wel/niet vereist'. Indien het betreft een vreemdeling die naar Nederland is gekomen om als zeeman werk te zoeken aan boord van een zeeschip, wordt de aantekening omtrent aanmelding aangevuld met 'voor verblijf als zeeman tot (datum)'.   
+1.  Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder i, van de Wet blijkt, is aangewezen de Sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het tweede lid.   
+2.  De tekst van de aantekening, bedoeld in het eerste lid, luidt: 'aangemeld op (datum) voor verblijf op grond van artikel 12 Vw 2000 tot (datum). arbeid wel/niet toegestaan; tewerkstellingvergunning wel/niet vereist'. Indien het betreft een vreemdeling die naar Nederland is gekomen om als zeeman werk te zoeken aan boord van een zeeschip, wordt de aantekening omtrent aanmelding aangevuld met 'voor verblijf als zeeman tot (datum)'.   
 
 ### Artikel  3.5  
 
-Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder j, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
+Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder j, van de Wet, blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
 
-a.  in de gevallen, bedoeld in [artikel 4.29, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd; 
+a.  in de gevallen, bedoeld in artikel 4.29, derde lid, van het Besluit: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd; 
 
-b.  in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening 'verblijf als bedoeld in [artikel 8, onder j, Vw 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist'.   
+b.  in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening 'verblijf als bedoeld in artikel 8, onder j, Vw 2000 tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist'.   
 
 ### Artikel  3.6  
 
-Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder k, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), blijkt, zijn aangewezen de volgende documenten en verklaringen: 
+Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder k, van de Wet, blijkt, zijn aangewezen de volgende documenten en verklaringen: 
 
-a. in het geval, bedoeld in [artikel 4.21, eerste lid onder d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;  
+a. in het geval, bedoeld in artikel 4.21, eerste lid onder d, van het Besluit: het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;  
 
-b. in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening “verblijf als bedoeld in [artikel 8, onder k, Vw 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist”.   
+b. in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als bijlage 7g bij deze regeling is gevoegd, voorzien van de aantekening “verblijf als bedoeld in artikel 8, onder k, Vw 2000 tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist”.   
 
 ### Artikel  3.7  
 
-1.  Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder l, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
+1.  Als document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder l, van de Wet blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven: 
 
-a.  voor vreemdelingen die niet tevens rechtmatig verblijf als bedoeld in [artikel 8, onder b, c, of d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben: het document I van het model dat als bijlage 7a bij deze regeling is gevoegd; 
+a.  voor vreemdelingen die niet tevens rechtmatig verblijf als bedoeld in artikel 8, onder b, c, of d, van de Wet hebben: het document I van het model dat als bijlage 7a bij deze regeling is gevoegd; 
 
-b.  voor vreemdelingen die tevens rechtmatig verblijf als bedoeld in [artikel 8, onder b, c dan wel d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben: het document II, III respectievelijk IV van de modellen die als bijlage 7b, respectievelijk bijlagen 7c en 7d bij deze regeling zijn gevoegd.    
+b.  voor vreemdelingen die tevens rechtmatig verblijf als bedoeld in artikel 8, onder b, c dan wel d, van de Wet hebben: het document II, III respectievelijk IV van de modellen die als bijlage 7b, respectievelijk bijlagen 7c en 7d bij deze regeling zijn gevoegd.    
 2.  Artikel 3.1, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  3.8  
@@ -346,7 +346,7 @@ b.  voor vreemdelingen die tevens rechtmatig verblijf als bedoeld in [artikel 8,
 
 a.  in het document voor grensoverschrijding van de vreemdeling, of 
 
-b.  in de gevallen, aangewezen in [artikel 4.29, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): op het afzonderlijk inlegblad van het model dat als bijlage 8 bij deze regeling is gevoegd.    
+b.  in de gevallen, aangewezen in artikel 4.29, derde lid, van het Besluit: op het afzonderlijk inlegblad van het model dat als bijlage 8 bij deze regeling is gevoegd.    
 2.  Op de stickers, bedoeld in het eerste lid, wordt aangetekend: 
 
 a. het V-nummer; 
@@ -355,9 +355,9 @@ b. het paspoortnummer.
 
 ### Artikel  3.9  
 
-1.  Documenten of schriftelijke verklaringen waaruit het rechtmatig verblijf op grond van [artikel 8, onder a, b, d, e, f, g](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – laatstgenoemde twee onderdelen voor zover sprake is van een aanvraag tot het verlenen of wijzigen van een verblijfsvergunning bedoeld in [artikel 14 – alsmede i, l en m van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, worden verstrekt door de Immigratie- en Naturalisatiedienst.  
-2.  Documenten of schriftelijke verklaringen waaruit het rechtmatig verblijf op grond van [artikel 8, onder c, f, g](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – laatstgenoemde twee onderdelen voor zover sprake is van een aanvraag tot het verlenen of verlengen van een verblijfsvergunning bedoeld in de [artikelen 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 – alsmede j en k van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, worden verstrekt door de korpschef.   
-3.  In afwijking van het eerste lid worden documenten of schriftelijke verklaringen waaruit het rechtmatig verblijf op grond van [artikel 8, onder a, f of g, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) – voor zover sprake is van een aanvraag tot het verlenen, verlengen of wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder p, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) in het kader van mensenhandel of eergerelateerd geweld – blijkt, verstrekt door de korpschef. 
+1.  Documenten of schriftelijke verklaringen waaruit het rechtmatig verblijf op grond van artikel 8, onder a, b, d, e, f, g – laatstgenoemde twee onderdelen voor zover sprake is van een aanvraag tot het verlenen of wijzigen van een verblijfsvergunning bedoeld in artikel 14 – alsmede i, l en m van de Wet blijkt, worden verstrekt door de Immigratie- en Naturalisatiedienst.  
+2.  Documenten of schriftelijke verklaringen waaruit het rechtmatig verblijf op grond van artikel 8, onder c, f, g – laatstgenoemde twee onderdelen voor zover sprake is van een aanvraag tot het verlenen of verlengen van een verblijfsvergunning bedoeld in de artikelen 28 en 33 – alsmede j en k van de Wet blijkt, worden verstrekt door de korpschef.   
+3.  In afwijking van het eerste lid worden documenten of schriftelijke verklaringen waaruit het rechtmatig verblijf op grond van artikel 8, onder a, f of g, van de Wet – voor zover sprake is van een aanvraag tot het verlenen, verlengen of wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel als bedoeld in artikel 3.4, eerste lid, onder p, van het Besluit in het kader van mensenhandel of eergerelateerd geweld – blijkt, verstrekt door de korpschef. 
 
 ###Afdeling 2 
 
@@ -369,21 +369,21 @@ b. het paspoortnummer.
 
 ### Artikel  3.10  
 
-1.  De vreemdeling die door een geestelijke of lichamelijke belemmering blijvend niet in staat is het basisexamen inburgering, bedoeld in [artikel 3.98a van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) af te leggen, overlegt een verklaring van het model dat als bijlage 19 bij deze regeling is gevoegd, dat is ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige.   
+1.  De vreemdeling die door een geestelijke of lichamelijke belemmering blijvend niet in staat is het basisexamen inburgering, bedoeld in artikel 3.98a van het Besluit af te leggen, overlegt een verklaring van het model dat als bijlage 19 bij deze regeling is gevoegd, dat is ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige.   
 2.  De kosten van een consult bij een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige zoals bedoeld in het eerste lid, komen voor rekening van de vreemdeling.  
 
 ### Artikel  3.11  
 
-1.  De examenprogramma’s, bedoeld in [artikel 3.98a, derde en zesde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die zijn opgenomen in het zelfstudiepakket Naar Nederland, zijn verkrijgbaar bij alle erkende boekhandels en via internetboekhandels.   
+1.  De examenprogramma’s, bedoeld in artikel 3.98a, derde en zesde lid, van het Besluit, die zijn opgenomen in het zelfstudiepakket Naar Nederland, zijn verkrijgbaar bij alle erkende boekhandels en via internetboekhandels.   
 2.  De adviesprijs van het zelfstudiepakket bedraagt € 110.  
 
 ### Artikel  3.12  
 
-De kosten, bedoeld in [artikel 3.98b, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) worden voldaan door storting of overschrijving van het verschuldigde bedrag in Euro op een door de Minister van Buitenlandse Zaken aan te wijzen bankrekening. 
+De kosten, bedoeld in artikel 3.98b, tweede lid, van het Besluit worden voldaan door storting of overschrijving van het verschuldigde bedrag in Euro op een door de Minister van Buitenlandse Zaken aan te wijzen bankrekening. 
 
 ### Artikel  3.13  
 
-De vreemdeling met de Surinaamse nationaliteit die lager onderwijs in de Nederlandse taal, als bedoeld in [artikel 16, derde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), heeft gevolgd, overlegt: 
+De vreemdeling met de Surinaamse nationaliteit die lager onderwijs in de Nederlandse taal, als bedoeld in artikel 16, derde lid, van de Wet, heeft gevolgd, overlegt: 
 
 a. een schooldiploma of getuigschrift behaald in Suriname voor 25 november 1975 waaruit blijkt dat tenminste de lagere school in de Nederlandse taal is afgerond en een verklaring van het Centraal Bureau Burgerzaken voorzien van een apostille waaruit blijkt dat de vreemdeling ten tijde van afronding van deze school woonachtig is geweest in Suriname;  
 
@@ -401,14 +401,14 @@ e. een afschrift uit de BRP waaruit blijkt dat de vreemdeling ten tijde van de a
 
 ### Artikel  3.16  
 
-1.  Bij een beroep op [artikel 3.80a, tweede lid, onder e](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of [artikel 3.96a, tweede lid, onder e, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) overlegt de aanvrager de beschikking, waarbij ontheffing van de inburgeringsplicht op grond van [artikel 6, eerste lid, onderdeel a of b, van de Wet inburgering](../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verleend.   
-2.  Bij een beroep op [artikel 3.80a, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of [artikel 3.96a, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) overlegt de aanvrager het advies, bedoeld in [artikel 2.8, eerste lid, van het Besluit inburgering](../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), dat niet ouder is dan zes maanden.   
-3.  Ter zake van de door de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap afgenomen toets of de vreemdeling het leervermogen heeft om het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](../../../../../wet/wet/inburgering/BWBR0020611/README.md) of een diploma, certificaat of ander document als bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../../wet/wet/inburgering/BWBR0020611/README.md), te behalen, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.   
+1.  Bij een beroep op artikel 3.80a, tweede lid, onder e, of artikel 3.96a, tweede lid, onder e, van het Besluit overlegt de aanvrager de beschikking, waarbij ontheffing van de inburgeringsplicht op grond van artikel 6, eerste lid, onderdeel a of b, van de Wet inburgering is verleend.   
+2.  Bij een beroep op artikel 3.80a, derde lid, of artikel 3.96a, derde lid, van het Besluit overlegt de aanvrager het advies, bedoeld in artikel 2.8, eerste lid, van het Besluit inburgering, dat niet ouder is dan zes maanden.   
+3.  Ter zake van de door de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap afgenomen toets of de vreemdeling het leervermogen heeft om het examen, bedoeld in artikel 7, tweede lid, onderdeel a, van de Wet inburgering of een diploma, certificaat of ander document als bedoeld in artikel 5, eerste lid, onderdeel c, van die wet, te behalen, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.   
 4.  Ter zake van het advies, bedoeld in het tweede lid, is de vreemdeling aan de door de Minister voor Sociale Zaken en Werkgelegenheid aangewezen onafhankelijk medisch adviseur een bedrag van € 240,79 verschuldigd. 
 
 ### Artikel  3.17  
 
-De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan ambtshalve worden verleend onder een beperking verband houdend met: 
+De verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Wet, kan ambtshalve worden verleend onder een beperking verband houdend met: 
 
 a. afwikkeling nalatenschap oude Vreemdelingenwet;  
 
@@ -420,7 +420,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Wet, kan
 
 ### Artikel  3.18  
 
-Als de landen, bedoeld in de [artikelen 3.21](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.23, vierde lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.24a, eerste lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.30c, tweede lid, onder d](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [3.33, tweede lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [3.79, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen: 
+Als de landen, bedoeld in de artikelen 3.21, 3.23, vierde lid, onder c, 3.24a, eerste lid, onder c, 3.30c, tweede lid, onder d, 3.33, tweede lid, onder c en 3.79, tweede lid, van het Besluit, zijn aangewezen: 
 
 a. de staten die partij zijn bij het Verdrag betreffende de werking van de Europese Unie;  
 
@@ -430,11 +430,11 @@ c. Australië, Canada, Israël, Japan, Monaco, Nieuw Zeeland, Suriname, de Veren
 
 ### Artikel  3.19  
 
-1.  Voor alleenstaanden in de zin van [artikel 4, onderdeel a, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) zijn de in [artikel 16, eerste lid, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bedoelde middelen van bestaan in ieder geval voldoende, indien de som van het loon, bedoeld in [artikel 16 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), uit arbeid in loondienst, het bruto inkomen uit een inkomensvervangende uitkering krachtens een socialeverzekeringswet waarvoor premies zijn afgedragen, de bruto-winst uit arbeid als zelfstandige en het inkomen uit eigen vermogen ten minste gelijk is aan 70 procent van het minimumloon, bedoeld in de [artikelen 8, eerste lid, onder a](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), en [14, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), met inbegrip van de vakantiebijslag, bedoeld in [artikel 15 van die wet](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
-2.  Voor alleenstaande ouders in de zin van [artikel 4, onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) zijn de in [artikel 16, eerste lid, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bedoelde middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan 90 procent van het in het eerste lid bedoelde minimumloon.   
-3.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor zover de vreemdeling als au pair verblijft of wil verblijven of van medische behandeling, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of [artikel 3.74, eerste lid, onderdeel a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met 50 procent van het in het eerste lid bedoelde minimumloon.   
-4.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van studie, zijn de middelen van bestaan voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het normbedrag voor uitwonende studenten, bedoeld in de [Wet op de Studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), aangevuld met het eerste of tweede lid of [artikel 3.74, eerste lid, onderdeel a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde bedrag voor de categorie waartoe de persoon behoort die het verblijf financiert.   
-5.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van medische behandeling en van zijn gezinsleden, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of [artikel 3.74, eerste lid, onderdeel a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met: 
+1.  Voor alleenstaanden in de zin van artikel 4, onderdeel a, van de Wet werk en bijstand zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de som van het loon, bedoeld in artikel 16 van de Wet financiering sociale verzekeringen, uit arbeid in loondienst, het bruto inkomen uit een inkomensvervangende uitkering krachtens een socialeverzekeringswet waarvoor premies zijn afgedragen, de bruto-winst uit arbeid als zelfstandige en het inkomen uit eigen vermogen ten minste gelijk is aan 70 procent van het minimumloon, bedoeld in de artikelen 8, eerste lid, onder a, en 14, van de Wet minimumloon en minimumvakantiebijslag, met inbegrip van de vakantiebijslag, bedoeld in artikel 15 van die wet.   
+2.  Voor alleenstaande ouders in de zin van artikel 4, onderdeel b, van de Wet werk en bijstand zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan 90 procent van het in het eerste lid bedoelde minimumloon.   
+3.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor zover de vreemdeling als au pair verblijft of wil verblijven of van medische behandeling, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met 50 procent van het in het eerste lid bedoelde minimumloon.   
+4.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van studie, zijn de middelen van bestaan voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het normbedrag voor uitwonende studenten, bedoeld in de Wet op de Studiefinanciering 2000, aangevuld met het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe de persoon behoort die het verblijf financiert.   
+5.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van medische behandeling en van zijn gezinsleden, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met: 
 
 a. 90 procent van het in het eerste lid bedoelde minimumloon in het geval dat hij het verblijf van de vreemdeling die alleenstaande ouder is financiert of  
 
@@ -443,45 +443,45 @@ b. 100 procent in het geval dat de derde het verblijf van een gezin financiert.
 ### Artikel  3.20  
 
 1.  Middelen van bestaan uit arbeid als zelfstandige zijn eerst duurzaam, indien zij gedurende ten minste anderhalf jaar zijn verworven en nog een jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven.   
-2.  Het eerste lid is niet van toepassing, indien de aanvraag strekt tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking verband houdend met het verrichten van arbeid als zelfstandige.   
+2.  Het eerste lid is niet van toepassing, indien de aanvraag strekt tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder een beperking verband houdend met het verrichten van arbeid als zelfstandige.   
 
 ### Artikel  3.20a  
 
-1.  Het puntenstelsel, bedoeld in [artikel 3.30, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is opgenomen in bijlage 8a bij deze regeling.   
+1.  Het puntenstelsel, bedoeld in artikel 3.30, tweede lid, van het Besluit, is opgenomen in bijlage 8a bij deze regeling.   
 2.  Met de arbeid als zelfstandige is een wezenlijk Nederlands belang gediend, indien aan de vreemdeling met toepassing van het puntenstelsel, bedoeld in het eerste lid, ten minste 30 punten worden toegekend voor elk van de drie navolgende criteria: diens persoonlijke ervaring, diens ondernemingsplan als voor diens toegevoegde waarde voor de Nederlandse economie.   
 3.  In afwijking van het tweede lid geldt dat met de arbeid als zelfstandige tevens een wezenlijk Nederlands belang is gediend, indien aan de vreemdeling met toepassing van het puntenstel, bedoeld in het eerste lid, minder dan 30 punten worden toegekend voor diens toegevoegde waarde voor de Nederlandse economie en ten minste 45 punten worden toegekend voor diens persoonlijke ervaring en ten minste 45 punten voor diens ondernemingsplan.   
 4.  Het puntenstelsel is niet van toepassing op vreemdelingen met de nationaliteit van de Republiek Turkije die zelfstandig een beroep of bedrijf uitoefenen.  
 
 ### Artikel  3.21  
 
-Als opleiding of studie, bedoeld in [artikel 3.41, eerste lid, onder c, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) zijn aangewezen: 
+Als opleiding of studie, bedoeld in artikel 3.41, eerste lid, onder c, van het Besluit zijn aangewezen: 
 
 a. opleidingen die worden verzorgd in het kader van het ontwikkelingssamenwerkingsbeleid van het Ministerie van Buitenlandse Zaken, en  
 
-b. opleidingsactiviteiten in het kader van de [Wet op het specifiek cultuurbeleid](../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).   
+b. opleidingsactiviteiten in het kader van de Wet op het specifiek cultuurbeleid.   
 
 ### Artikel  3.22  
 
 1.  In het kader van studie wordt onder voldoende middelen van bestaan verstaan: 
 
-a. indien de vreemdeling of een buiten Nederland gevestigde persoon of rechtspersoon de studie en het verblijf bekostigt: een netto-inkomen als bedoeld in [artikel 3.74, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of  
+a. indien de vreemdeling of een buiten Nederland gevestigde persoon of rechtspersoon de studie en het verblijf bekostigt: een netto-inkomen als bedoeld in artikel 3.74, tweede lid, van het Besluit, of  
 
-b. indien een in Nederland gevestigde persoon of rechtspersoon de studie en het verblijf van de vreemdeling bekostigt: een netto-inkomen als bedoeld in [artikel 3.74, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), aangevuld met het in artikel 3.74, tweede lid, van het Besluit bedoelde bedrag.     
-2.  Indien de studie en het verblijf middels periodieke betalingen worden bekostigd, zijn middelen van bestaan in afwijking van [artikel 3.75 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) slechts duurzaam, indien naar het oordeel van Onze Minister voldoende zekerheid is verschaft over het ongestoorde verloop van de periodieke geldstroom.   
+b. indien een in Nederland gevestigde persoon of rechtspersoon de studie en het verblijf van de vreemdeling bekostigt: een netto-inkomen als bedoeld in artikel 3.74, eerste lid, van het Besluit, aangevuld met het in artikel 3.74, tweede lid, van het Besluit bedoelde bedrag.     
+2.  Indien de studie en het verblijf middels periodieke betalingen worden bekostigd, zijn middelen van bestaan in afwijking van artikel 3.75 van het Besluit slechts duurzaam, indien naar het oordeel van Onze Minister voldoende zekerheid is verschaft over het ongestoorde verloop van de periodieke geldstroom.   
 3.  Middelen van bestaan zijn duurzaam, indien deze op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, voor een jaar of zoveel korter als de voorgenomen studie in Nederland zal duren, beschikbaar zijn.   
 4.  Middelen van bestaan zijn eveneens duurzaam, indien op een ten name van de vreemdeling gestelde bankrekening in Nederland, dan wel op de bankrekening van de onderwijsinstelling waar de student zich heeft ingeschreven, een bedrag beschikbaar is, gelijk aan het maandelijkse normbedrag, bedoeld in het eerste lid, vermenigvuldigd met twaalf of zoveel minder als het aantal maanden dat de voorgenomen studie in Nederland zal duren.  
 
 ### Artikel  3.23  
 
-1.  Als buitenlandse onderwijsinstelling, bedoeld in [artikel 3.42, tweede lid, onder a, subonderdeel 3, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen de onderwijsinstellingen, opgenomen in de top-200 ranglijsten van: 
+1.  Als buitenlandse onderwijsinstelling, bedoeld in artikel 3.42, tweede lid, onder a, subonderdeel 3, van het Besluit, zijn aangewezen de onderwijsinstellingen, opgenomen in de top-200 ranglijsten van: 
 
 a. de Times Higher Education World Ranking;  
 
 b. de QS World University Ranking;  
 
 c. de Academic Ranking of World Universities.     
-2.  Het puntenstelsel, bedoeld in [artikel 3.42, tweede lid, onder b, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is opgenomen in bijlage 10 bij deze regeling.   
-3.  Het aantal punten, bedoeld in [artikel 3.42, tweede lid, onder b, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), bedraagt tenminste 35.  
+2.  Het puntenstelsel, bedoeld in artikel 3.42, tweede lid, onder b, van het Besluit, is opgenomen in bijlage 10 bij deze regeling.   
+3.  Het aantal punten, bedoeld in artikel 3.42, tweede lid, onder b, van het Besluit, bedraagt tenminste 35.  
 
 ### Artikel  3.24  
 
@@ -491,7 +491,7 @@ c. de Academic Ranking of World Universities.
 a. de vreemdeling niet als au pair in Nederland verblijft of wil verblijven, en  
 
 b. de mogelijkheid daartoe is opgenomen in het culturele uitwisselingsprogramma.     
-3.  In een uitwisselingsprogramma, als bedoeld in [artikel 3.43, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), wordt in ieder geval opgenomen: 
+3.  In een uitwisselingsprogramma, als bedoeld in artikel 3.43, eerste lid, onder a, van het Besluit, wordt in ieder geval opgenomen: 
 
 a. op welke wijze de vreemdeling gedurende het tijdelijk verblijf in Nederland kennis maakt met de Nederlandse samenleving en cultuur;  
 
@@ -500,15 +500,15 @@ b. de wijze waarop de referent invulling geeft aan de zorgplicht;
 c. de aard en omvang van de werkzaamheden die de vreemdeling gaat verrichten, en  
 
 d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen.     
-4.  Indien de vreemdeling de Zuid-Koreaanse nationaliteit heeft, wordt de aanvraag niet afgewezen op de grond, bedoeld in [artikel 3.42, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). 
+4.  Indien de vreemdeling de Zuid-Koreaanse nationaliteit heeft, wordt de aanvraag niet afgewezen op de grond, bedoeld in artikel 3.42, eerste lid, onder a, van het Besluit. 
 
 ### Artikel  3.24a  
 
-De aanvraag om een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in het kader van uitwisseling, ten behoeve van een uitwisselingsjongere, niet zijnde een au pair, wordt niet op grond van [artikel 16, eerste lid, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgewezen indien de uitwisselingsjongere in zijn eigen levensonderhoud voorziet. 
+De aanvraag om een verblijfsvergunning als bedoeld in artikel 14 van de Wet in het kader van uitwisseling, ten behoeve van een uitwisselingsjongere, niet zijnde een au pair, wordt niet op grond van artikel 16, eerste lid, onder c, van de Wet afgewezen indien de uitwisselingsjongere in zijn eigen levensonderhoud voorziet. 
 
 ### Artikel  3.25  
 
-Het model van de antecedentenverklaring, bedoeld in de [artikelen 3.77, zevende lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [en 3.86, negentiende lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is opgenomen in bijlage 12 bij deze regeling.  
+Het model van de antecedentenverklaring, bedoeld in de artikelen 3.77, zevende lid, en 3.86, negentiende lid, van het Besluit, is opgenomen in bijlage 12 bij deze regeling.  
 
 ###Paragraaf 3 
 
@@ -516,26 +516,26 @@ Het model van de antecedentenverklaring, bedoeld in de [artikelen 3.77, zevende 
 
 ### Artikel  3.26  
 
-1.  De door de vreemdeling ingediende aanvraag, bedoeld in [artikel 3.99, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), wordt ingediend door tussenkomst van de erkende referent.   
-2.  De erkende referent kan de aanvraag indienen ten behoeve van een gezinslid als bedoeld in [artikel 3.14 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).  
+1.  De door de vreemdeling ingediende aanvraag, bedoeld in artikel 3.99, eerste lid, van het Besluit, wordt ingediend door tussenkomst van de erkende referent.   
+2.  De erkende referent kan de aanvraag indienen ten behoeve van een gezinslid als bedoeld in artikel 3.14 van het Besluit.  
 
 ### Artikel  3.33  
 
-Bij de indiening van de aanvraag, bedoeld in de [artikelen 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen de vreemdelingenadministratie en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
+Bij de indiening van de aanvraag, bedoeld in de artikelen 14 en 20 van de Wet, verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen de vreemdelingenadministratie en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
 
 ### Artikel  3.33a  
 
-De [artikelen 3.99a](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [3.102b van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) zijn niet van toepassing op de vreemdeling: 
+De artikelen 3.99a en 3.102b van het Besluit zijn niet van toepassing op de vreemdeling: 
 
 a. wiens vrijheid rechtens is ontnomen;  
 
 b. die door de Minister is geïnformeerd over de datum van de vlucht ter fine van zijn verwijdering;  
 
-c. tegen wie de Minister het overdrachtsbesluit, bedoeld in de [artikelen 44a](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [62b van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), heeft uitgevaardigd en die in afwachting is van de overdracht naar de verantwoordelijke lidstaat.   
+c. tegen wie de Minister het overdrachtsbesluit, bedoeld in de artikelen 44a en 62b van de Wet, heeft uitgevaardigd en die in afwachting is van de overdracht naar de verantwoordelijke lidstaat.   
 
 ### Artikel 3.34  
 
-Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen onderscheidenlijk verlengen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling die niet in het bezit is van een machtiging tot voorlopig verblijf geldig voor het doel waar verblijf voor wordt gevraagd, voor een verblijfsdoel als bedoeld in kolom I, het daarachter vermelde bedrag in kolom II onderscheidenlijk kolom III verschuldigd.  
+Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen onderscheidenlijk verlengen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, is de vreemdeling die niet in het bezit is van een machtiging tot voorlopig verblijf geldig voor het doel waar verblijf voor wordt gevraagd, voor een verblijfsdoel als bedoeld in kolom I, het daarachter vermelde bedrag in kolom II onderscheidenlijk kolom III verschuldigd.  
 
 | I. Verblijfsdoel  | II. Verlening of wijziging  | III. Verlenging  |
 |:---|:---|:---|
@@ -555,7 +555,7 @@ Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen ondersch
 | n. ‘uitwisseling, al dan niet in het kader van een verdrag’  | € 608  | niet van toepassing  |
 | o. ‘medische behandeling’  | € 962  | € 380  |
 | p. ‘tijdelijke humanitaire gronden’  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 304, de regeling langdurig verblijvende kinderen € 152, overige € 0  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 304, de regeling langdurig verblijvende kinderen € 152, overige € 0  |
-| q. ‘het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)’  | € 962  | € 380  |
+| q. ‘het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap’  | € 962  | € 380  |
 | r. ‘niet-tijdelijke humanitaire gronden’  | € 962  | € 380  |
 | s. alle overige verblijfsdoelen  | € 962  | € 380  |
 
@@ -567,21 +567,21 @@ In afwijking van artikel 3.34 geldt voor de navolgende categorieën vreemdelinge
 |:---|:---|:---|
 | a. ”verblijf als familie- of gezinslid” indien het een kind betreft die verblijf vraagt bij een ouder  | € 228  | € 152  |
 | b. gezinslid van een houder van een EU-verblijfsvergunning voor langdurig ingezetenen welk gezinslid het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt  | € 152  | € 152  |
-| c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aanvraagt  | € 152  | € 152  |
+| c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in artikel 14 van de Wet aanvraagt  | € 152  | € 152  |
 | d. vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie  | € 53  | € 53  |
-| e. vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md)  | € 53  | € 53  |
+| e. vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van artikel 8 van de Remigratiewet  | € 53  | € 53  |
 | f. vreemdeling met de nationaliteit van Australië, Canada, Nieuw-Zeeland dan wel Zuid-Korea die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Program  | € 53  | niet van toepassing  |
 | g. vreemdeling met de nationaliteit van Canada die het verblijfsdoel ‘lerend werken’ aanvraagt, in het kader van het Young Workers Exchange Programme  | € 53  | niet van toepassing  |
 | h. vreemdeling die werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 61  | € 61  |
 | i. vreemdeling die met het oog op de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 61  | € 61  |
 | j. vreemdeling die het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt en die om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen  | € 0  | € 0  |
-| k. vreemdeling die blijkens een schriftelijke verklaring van de Minister in aanmerking komt voor een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden of met een ander verblijfsdoel dan genoemd in [artikel 3.4, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | € 0  | niet van toepassing  |
-| l. minderjarig kind dat een aanvraag indient voor ‘verblijf als familie- of gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’, tenzij die verblijfsvergunning is verleend op grond van [artikel 3.48, eerste lid, onder d](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of 3.48, tweede lid, onder a, van het Besluit  | € 0  | € 0  |
-| m. de vreemdeling in aanmerking komt voor verlenging van de verblijfsvergunning als bedoeld in [artikel van 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met verblijf als familie- of gezinslid voor verblijf bij een vreemdeling aan wie in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met tijdelijke humanitaire gronden is verleend  | niet van toepassing  | € 0  |
+| k. vreemdeling die blijkens een schriftelijke verklaring van de Minister in aanmerking komt voor een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden of met een ander verblijfsdoel dan genoemd in artikel 3.4, eerste lid, van het Besluit  | € 0  | niet van toepassing  |
+| l. minderjarig kind dat een aanvraag indient voor ‘verblijf als familie- of gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’, tenzij die verblijfsvergunning is verleend op grond van artikel 3.48, eerste lid, onder d, of 3.48, tweede lid, onder a, van het Besluit  | € 0  | € 0  |
+| m. de vreemdeling in aanmerking komt voor verlenging van de verblijfsvergunning als bedoeld in artikel van 14 van de Wet, onder een beperking verband houdend met verblijf als familie- of gezinslid voor verblijf bij een vreemdeling aan wie in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met tijdelijke humanitaire gronden is verleend  | niet van toepassing  | € 0  |
 | n. de broer en zus die een aanvraag indienen voor ‘verblijf als familie- en gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’ in het kader van het beleid voor de Afghaanse vreemdeling die een verwesterde, schoolgaande en minderjarige vrouw is  | € 0  | € 0  |
-| o. vreemdeling die een aanvraag indient in het geval, bedoeld in [artikel 3.101, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | € 0  | niet van toepassing  |
+| o. vreemdeling die een aanvraag indient in het geval, bedoeld in artikel 3.101, tweede lid, van het Besluit  | € 0  | niet van toepassing  |
 | p. vreemdeling die een aanvraag indient voor het verblijfsdoel ‘niet-tijdelijke humanitaire gronden’ in het kader van de definitieve regeling langdurig verblijvende kinderen.  | € 0  | niet van toepassing  |
-| q. gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking verband houdend met verblijf als familie- of gezinslid indient  | € 0  | € 0  |
+| q. gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet, die gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder een beperking verband houdend met verblijf als familie- of gezinslid indient  | € 0  | € 0  |
 
 ### Artikel 3.34b  
 
@@ -589,72 +589,76 @@ In aanvulling op artikel 3.34 en 3.34a kan de Minister in overleg met de Ministe
 
 ### Artikel 3.34c  
 
-1. In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een bedrag van € 355 verschuldigd die: 
+1. In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet een bedrag van € 355 verschuldigd die: 
 
-a. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met tijdelijke humanitaire gronden in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld;  
+a. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met tijdelijke humanitaire gronden in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld;  
 
-b. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van een verbroken relatie wegens ondervonden huiselijk geweld of eergerelateerd geweld;  
+b. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder de beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van een verbroken relatie wegens ondervonden huiselijk geweld of eergerelateerd geweld;  
 
-c. als minderjarige vreemdeling een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van ondervonden huiselijk geweld of eergerelateerd geweld;  
+c. als minderjarige vreemdeling een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder de beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van ondervonden huiselijk geweld of eergerelateerd geweld;  
 
-d. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van achterlating.   
-2.  In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van [artikel 3.50, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of [artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 228 verschuldigd. 
+d. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in artikel 14 van de Wet, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van achterlating.   
+2.  In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van artikel 3.50, eerste lid, of artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit, een bedrag van € 228 verschuldigd. 
 
 ### Artikel 3.34d  
 
-In afwijking van artikel 3.34 is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien: 
+In afwijking van artikel 3.34 is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, indien: 
 
 a. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het wijzigen van een verblijfsvergunning, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de verblijfsvergunning afloopt;  
 
-b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt.  
+b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt.  
 
 ### Artikel 3.34g  
 
-1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling een bedrag van € 152 verschuldigd.
-2. In afwijking van het eerste lid is de vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md) en in aanmerking komt voor verlening van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 53 verschuldigd. 
-3.  In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit en aan wie het verrichten van arbeid is toegestaan ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 53 verschuldigd.   
-4.  In afwijking van het eerste lid is het toegelaten gezinslid van een vreemdeling als bedoeld in het derde lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 53 verschuldigd.  
-5.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en e, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
+1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, is de vreemdeling een bedrag van € 152 verschuldigd.
+2. In afwijking van het eerste lid is de vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van artikel 8 van de Remigratiewet en in aanmerking komt voor verlening van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd. 
+3.  In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit en aan wie het verrichten van arbeid is toegestaan ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd.   
+4.  In afwijking van het eerste lid is het toegelaten gezinslid van een vreemdeling als bedoeld in het derde lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd.  
+5.  Ter zake van de afgifte ter uitvoering van artikel 4.22, tweede lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b en e, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
 
 ### Artikel 3.34h  
 
 1. Ter zake van de afdoening van een aanvraag om toetsing aan het gemeenschapsrecht en afgifte van het daaraan verbonden verblijfsdocument, is de vreemdeling een bedrag van € 53 verschuldigd. 
-2.  Onverminderd artikel 3.34g, derde en vierde lid, is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 53 verschuldigd. 
+2.  Onverminderd artikel 3.34g, derde en vierde lid, is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd. 
 
 ### Artikel  3.34j  
 
-1.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 253 verschuldigd.   
-2.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.  
-3.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 53 verschuldigd.   
+1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, is de vreemdeling een bedrag van € 253 verschuldigd.   
+2.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.  
+3.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder e, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd.   
 4.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 53 verschuldigd ter zake van de afgifte van een vervangend document: 
 
-a. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, voor zover de vreemdeling van Turkse nationaliteit is en de verblijfsvergunning is verleend onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;  
+a. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, voor zover de vreemdeling van Turkse nationaliteit is en de verblijfsvergunning is verleend onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;  
 
-b. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt voor zover de vreemdeling van Turkse nationaliteit is en de vreemdeling direct voorafgaande aan de aanvraag houder is van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;  
+b. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet blijkt voor zover de vreemdeling van Turkse nationaliteit is en de vreemdeling direct voorafgaande aan de aanvraag houder is van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;  
 
-c. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, b of l, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt voor zover de vreemdeling van Turkse nationaliteit is en het verrichten van arbeid is toegestaan;  
+c. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, b of l, van de Wet blijkt voor zover de vreemdeling van Turkse nationaliteit is en het verrichten van arbeid is toegestaan;  
 
-d. waaruit het rechtmatig verblijf bedoeld in [artikel 8, onder a, b of l, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, voor zover de vreemdeling het gezinslid is van een vreemdeling als bedoeld in onderdeel c.     
-5.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 228 verschuldigd ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, voor zover de verblijfsvergunning is verleend onder een beperking verband houdend met verblijf als familie- of gezinslid. 
+d. waaruit het rechtmatig verblijf bedoeld in artikel 8, onder a, b of l, van de Wet blijkt, voor zover de vreemdeling het gezinslid is van een vreemdeling als bedoeld in onderdeel c.     
+5.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 228 verschuldigd ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, voor zover de verblijfsvergunning is verleend onder een beperking verband houdend met verblijf als familie- of gezinslid. 
 
 ### Artikel  3.34ja 
 
 In afwijking van de tarieftabel in artikel 3.34a, rij d tot en met g, en de artikelen 3.34g, tweede tot en met het vijfde lid, 3.34h, eerste en tweede lid, en 3.34j, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd. 
 
+### Artikel  3.34jb  
+
+In afwijking van de tarieftabel in artikel 3.34, rij a, de tarieftabel in artikel 3.34a, rij a tot en met c, en de artikelen 3.34c, tweede lid, 3.34g, eerste lid, en 3.34j, tweede en vijfde lid, is de minderjarige vreemdeling een bedrag van € 53 verschuldigd. 
+
 ### Artikel  3.34k  
 
-1.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a of b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, aan de minderjarige vreemdeling die voor de eerste keer een zelfstandig verblijfsdocument aanvraagt, is de vreemdeling een bedrag van € 101 verschuldigd.   
-2.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd.   
+1.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a of b, van de Wet blijkt, aan de minderjarige vreemdeling die voor de eerste keer een zelfstandig verblijfsdocument aanvraagt, is de vreemdeling een bedrag van € 101 verschuldigd.   
+2.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder e, van de Wet blijkt, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd.   
 3.  In afwijking van het eerste lid is de minderjarige vreemdeling die het gezinslid is van een vreemdeling als bedoeld in artikel 3.34j, vierde lid, onderdeel c een bedrag van € 28 verschuldigd.  
 
 ### Artikel  3.34l  
 
-1.  Als administraties, bedoeld in [artikel 24a, eerste lid, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen de administraties vermeld in kolom A van bijlage 21 bij deze regeling.   
-2.  Als gegevens en bescheiden, bedoeld in [artikel 24a, vierde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van bijlage 21 bij deze regeling.  
+1.  Als administraties, bedoeld in artikel 24a, eerste lid, onder a, van de Wet, zijn aangewezen de administraties vermeld in kolom A van bijlage 21 bij deze regeling.   
+2.  Als gegevens en bescheiden, bedoeld in artikel 24a, vierde lid, van de Wet, zijn aangewezen de gegevens en bescheiden vermeld in kolom B van bijlage 21 bij deze regeling.  
 
 ### Artikel  3.34m  
 
-Indien de referent de eigen verklaring, bedoeld in [artikel 24a, tweede lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), niet kan afleggen, legt hij voor zover dit redelijkerwijs mogelijk is, de gegevens en bescheiden over op basis waarvan de Minister kan vaststellen of aan de voorwaarden wordt voldaan. 
+Indien de referent de eigen verklaring, bedoeld in artikel 24a, tweede lid, van de Wet, niet kan afleggen, legt hij voor zover dit redelijkerwijs mogelijk is, de gegevens en bescheiden over op basis waarvan de Minister kan vaststellen of aan de voorwaarden wordt voldaan. 
 
 ###Afdeling 3 
 
@@ -666,7 +670,7 @@ Indien de referent de eigen verklaring, bedoeld in [artikel 24a, tweede lid, van
 
 ### Artikel  3.35 
 
-1.  De beoordeling of een vreemdeling op grond van [artikel 29, eerste lid, onder a dan wel b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komt voor een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) vindt plaats op individuele basis en houdt onder meer rekening met: 
+1.  De beoordeling of een vreemdeling op grond van artikel 29, eerste lid, onder a dan wel b, van de Wet in aanmerking komt voor een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet vindt plaats op individuele basis en houdt onder meer rekening met: 
 
 a. alle relevante feiten in verband met het land van herkomst op het tijdstip waarop een beslissing inzake de aanvraag wordt genomen met inbegrip van wettelijke en bestuursrechtelijke bepalingen van het land van herkomst en de wijze waarop deze worden toegepast;  
 
@@ -682,7 +686,7 @@ e. de vraag of in redelijkheid kan worden verwacht dat de vreemdeling zich onder
 
 a. de vreemdeling heeft een oprechte inspanning geleverd om zijn aanvraag te staven;  
 
-b. alle relevante gegevens, als bedoeld in [artikel 3.111, eerste lid van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), waarover de vreemdeling beschikt, zijn overgelegd, en er is een bevredigende verklaring gegeven omtrent het ontbreken van andere relevante gegevens;  
+b. alle relevante gegevens, als bedoeld in artikel 3.111, eerste lid van het Besluit, waarover de vreemdeling beschikt, zijn overgelegd, en er is een bevredigende verklaring gegeven omtrent het ontbreken van andere relevante gegevens;  
 
 c. de verklaringen van de vreemdeling zijn samenhangend en aannemelijk bevonden en zijn niet in strijd met beschikbare algemene en specifieke informatie die relevant is voor zijn aanvraag;  
 
@@ -759,16 +763,16 @@ b. partijen of organisaties, met inbegrip van internationale organisaties, die d
 
 ### Artikel  3.37d 
 
-1.  Bij de beoordeling of een vreemdeling op grond van [artikel 29, eerste lid, onder a of b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komt voor een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geldt dat een vreemdeling geen behoefte heeft aan bescherming, indien hij in een deel van het land van herkomst: 
+1.  Bij de beoordeling of een vreemdeling op grond van artikel 29, eerste lid, onder a of b, van de Wet in aanmerking komt voor een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van die wet geldt dat een vreemdeling geen behoefte heeft aan bescherming, indien hij in een deel van het land van herkomst: 
 
 a. geen gegronde vrees heeft voor vervolging of geen reëel risico op ernstige schade loopt; of  
 
 b. toegang heeft tot bescherming als bedoeld in artikel 3.37c tegen vervolging of tegen ernstige schade,   en hij op een veilige en wettige manier kan reizen naar en zich toegang verschaffen tot dat deel van het land, en redelijkerwijs kan worden verwacht dat hij er zich vestigt.   
-2.  Bij de beoordeling of de vreemdeling een gegronde vrees heeft voor vervolging of een reëel risico op ernstige schade loopt, of toegang heeft tot bescherming tegen vervolging of tegen ernstige schade in een deel van het land van herkomst overeenkomstig het eerste lid, wordt rekening gehouden met de algemene omstandigheden in dat deel van het land en met de persoonlijke omstandigheden van de vreemdeling in overeenstemming met de artikelen 3.35 en 3.45 en met [artikel 3.111, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). Daartoe wordt ervoor gezorgd dat wordt beschikt over nauwkeurige en actuele informatie uit relevante bronnen, zoals de Hoge Commissaris van de Verenigde Naties voor vluchtelingen en het Europees Ondersteuningsbureau voor asielzaken. 
+2.  Bij de beoordeling of de vreemdeling een gegronde vrees heeft voor vervolging of een reëel risico op ernstige schade loopt, of toegang heeft tot bescherming tegen vervolging of tegen ernstige schade in een deel van het land van herkomst overeenkomstig het eerste lid, wordt rekening gehouden met de algemene omstandigheden in dat deel van het land en met de persoonlijke omstandigheden van de vreemdeling in overeenstemming met de artikelen 3.35 en 3.45 en met artikel 3.111, eerste lid, van het Besluit. Daartoe wordt ervoor gezorgd dat wordt beschikt over nauwkeurige en actuele informatie uit relevante bronnen, zoals de Hoge Commissaris van de Verenigde Naties voor vluchtelingen en het Europees Ondersteuningsbureau voor asielzaken. 
 
 ### Artikel  3.37e 
 
-Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleend op grond van [artikel 29, eerste lid, onder a of b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt ingetrokken op grond van [artikel 32, eerste lid, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of de aanvraag voor verlenging van de geldigheidsduur ervan wordt afgewezen op die grond, wordt in aanmerking genomen of de wijziging van de omstandigheden een voldoende ingrijpend en niet-voorbijgaand karakter heeft om de gegronde vrees voor vervolging dan wel het reële risico op ernstige schade weg te nemen. De rechtsgrond voor verlening van de desbetreffende verblijfsvergunning heeft niet opgehouden te bestaan indien de vreemdeling dwingende redenen kan aanvoeren die voorvloeien uit vroegere vervolging dan wel uit vroegere ernstige schade, om te weigeren de bescherming in te roepen van het land waarvan hij de nationaliteit bezit, of, in het geval van een staatloze, van het land waar hij vroeger zijn gewone verblijfsplaats had. 
+Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleend op grond van artikel 29, eerste lid, onder a of b, van de Wet, wordt ingetrokken op grond van artikel 32, eerste lid, onder c, van de Wet, of de aanvraag voor verlenging van de geldigheidsduur ervan wordt afgewezen op die grond, wordt in aanmerking genomen of de wijziging van de omstandigheden een voldoende ingrijpend en niet-voorbijgaand karakter heeft om de gegronde vrees voor vervolging dan wel het reële risico op ernstige schade weg te nemen. De rechtsgrond voor verlening van de desbetreffende verblijfsvergunning heeft niet opgehouden te bestaan indien de vreemdeling dwingende redenen kan aanvoeren die voorvloeien uit vroegere vervolging dan wel uit vroegere ernstige schade, om te weigeren de bescherming in te roepen van het land waarvan hij de nationaliteit bezit, of, in het geval van een staatloze, van het land waar hij vroeger zijn gewone verblijfsplaats had. 
 
 ###Paragraaf 2 
 
@@ -776,11 +780,11 @@ Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleen
 
 ### Artikel  3.41  
 
-Bij de indiening van de aanvraag, bedoeld in de [artikelen 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen het IND-informatiesysteem en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
+Bij de indiening van de aanvraag, bedoeld in de artikelen 28 en 33 van de Wet, verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen het IND-informatiesysteem en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
 
 ### Artikel 3.43a  
 
-Aan de vreemdeling die te kennen geeft de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in te willen dienen wordt een brochure uitgereikt waarin hij, in een taal waarvan redelijkerwijze kan worden aangenomen dat hij die begrijpt, wordt ingelicht over: 
+Aan de vreemdeling die te kennen geeft de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, in te willen dienen wordt een brochure uitgereikt waarin hij, in een taal waarvan redelijkerwijze kan worden aangenomen dat hij die begrijpt, wordt ingelicht over: 
 
 a. de te volgen procedure;  
 
@@ -790,52 +794,56 @@ c. de gevolgen die kunnen ontstaan indien hij zijn verplichtingen niet nakomt of
 
 d. de termijnen die gelden binnen de procedure;  
 
-e. de wijze waarop hij kan voldoen aan zijn verplichting tot het indienen van de gegevens als bedoeld in [artikel 3.111, eerste lid van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).   
+e. de wijze waarop hij kan voldoen aan zijn verplichting tot het indienen van de gegevens als bedoeld in artikel 3.111, eerste lid van het Besluit.   
 
 ### Artikel  3.43b  
 
-1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling een bedrag van € 152 verschuldigd.   
-2.   In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een verblijfsvergunning als bedoeld in [artikel 33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 53 verschuldigd.  
+1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 33 van de Wet, is de vreemdeling een bedrag van € 152 verschuldigd.   
+2.   In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een verblijfsvergunning als bedoeld in artikel 33 van de Wet, een bedrag van € 53 verschuldigd.  
 3.  De leges, bedoeld in het eerste lid, worden door de vreemdeling door middel van een in opdracht van de IND toegezonden acceptgirokaart voldaan.   
-4.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c en d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
+4.  Ter zake van de afgifte ter uitvoering van artikel 4.22, tweede lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c en d, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
 
 ### Artikel  3.43c  
 
-1.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
-2.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
-3.  In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, een bedrag van € 53 verschuldigd.   
-4.  In afwijking van het eerste en tweede lid is de vreemdeling die het gezinslid is van een vreemdeling als bedoeld in het derde lid ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, een bedrag van € 53 verschuldigd.  
+1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
+2.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder d, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
+3.  In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c of d, van de Wet blijkt, een bedrag van € 53 verschuldigd.   
+4.  In afwijking van het eerste en tweede lid is de vreemdeling die het gezinslid is van een vreemdeling als bedoeld in het derde lid ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c of d, van de Wet blijkt, een bedrag van € 53 verschuldigd.  
 
 ### Artikel  3.43d  
 
 In afwijking van de artikelen 3.43b, tweede en vierde lid en 3.43c, derde en vierde lid, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd. 
 
+### Artikel  3.43e  
+
+In afwijking van de artikelen 3.43b, eerste lid, en 3.43c, eerste en tweede lid, is de minderjarige vreemdeling een bedrag van € 53 verschuldigd. 
+
 ### Artikel  3.44  
 
-1.  De in [artikel 3.112, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde vragenlijst bevat in ieder geval vragen omtrent de personalia van de vreemdeling, zijn geboorteplaats en geboortedatum, zijn nationaliteit en etnische afkomst, de datum van zijn vertrek uit het land van herkomst, de datum van zijn aankomst in Nederland, eventueel verblijf in derde landen, en het bezit van een paspoort en identiteitsdocumenten.   
+1.  De in artikel 3.112, tweede lid, van het Besluit bedoelde vragenlijst bevat in ieder geval vragen omtrent de personalia van de vreemdeling, zijn geboorteplaats en geboortedatum, zijn nationaliteit en etnische afkomst, de datum van zijn vertrek uit het land van herkomst, de datum van zijn aankomst in Nederland, eventueel verblijf in derde landen, en het bezit van een paspoort en identiteitsdocumenten.   
 2.  Indien de beantwoording van de vastgestelde vragen onvoldoende duidelijkheid verschaft kunnen aanvullende vragen worden gesteld.   
 
 ### Artikel 3.45  
 
-De gegevens, bedoeld in [artikel 3.111, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), bestaan uit de verklaringen van de vreemdeling en alle in zijn bezit zijnde documentatie over zijn achtergrond en die van relevante familieleden, zijn leeftijd, identiteit, nationaliteit(en), land(en) en plaats(en) van eerder verblijf, eerdere asielaanvragen, reisroutes, identiteits- en reisdocumenten en de redenen waarom hij een aanvraag voor een verblijfsvergunning als bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) indient. 
+De gegevens, bedoeld in artikel 3.111, eerste lid, van het Besluit, bestaan uit de verklaringen van de vreemdeling en alle in zijn bezit zijnde documentatie over zijn achtergrond en die van relevante familieleden, zijn leeftijd, identiteit, nationaliteit(en), land(en) en plaats(en) van eerder verblijf, eerdere asielaanvragen, reisroutes, identiteits- en reisdocumenten en de redenen waarom hij een aanvraag voor een verblijfsvergunning als bedoeld in artikel 28 van de Wet indient. 
 
 ### Artikel 3.46  
 
-De in [artikel 3.122 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde informatie wordt verschaft door het verzenden dan wel uitreiken van een brochure aan de vreemdeling tegelijk met, dan wel zo spoedig mogelijk na de bekendmaking van de beschikking waarin de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt ingewilligd.
+De in artikel 3.122 van het Besluit bedoelde informatie wordt verschaft door het verzenden dan wel uitreiken van een brochure aan de vreemdeling tegelijk met, dan wel zo spoedig mogelijk na de bekendmaking van de beschikking waarin de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet wordt ingewilligd.
 
 ### Artikel 3.47  
 
-Indien de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de [artikelen 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt ingetrokken, wordt daarvan een aantekening gemaakt in het dossier van de vreemdeling.
+Indien de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de artikelen 28 en 33 van de Wet, wordt ingetrokken, wordt daarvan een aantekening gemaakt in het dossier van de vreemdeling.
 
 ### Artikel  3.48  
 
-1.  Bij een beroep op [artikel 3.107a, tweede lid, onder e, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) overlegt de aanvrager de beschikking, waarbij ontheffing van de inburgeringsplicht op grond van [artikel 6, eerste lid, onderdeel a of b, van de Wet inburgering](../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verleend.   
-2.  Bij een beroep op [artikel 3.107a, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) overlegt de aanvrager het advies, bedoeld in [artikel 2.8, eerste lid, van het Besluit inburgering](../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), dat niet ouder is dan zes maanden.  
+1.  Bij een beroep op artikel 3.107a, tweede lid, onder e, van het Besluit overlegt de aanvrager de beschikking, waarbij ontheffing van de inburgeringsplicht op grond van artikel 6, eerste lid, onderdeel a of b, van de Wet inburgering is verleend.   
+2.  Bij een beroep op artikel 3.107a, derde lid, van het Besluit overlegt de aanvrager het advies, bedoeld in artikel 2.8, eerste lid, van het Besluit inburgering, dat niet ouder is dan zes maanden.  
 3. Het derde en vierde lid van artikel 3.16 zijn van overeenkomstige toepassing.
 
 ### Artikel  3.50  
 
-[Artikel 3.118b van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is niet van toepassing op de vreemdeling: 
+Artikel 3.118b van het Besluit is niet van toepassing op de vreemdeling: 
 
 a. aan wie rechtens zijn vrijheid is ontnomen;  
 
@@ -843,7 +851,7 @@ b. die aannemelijk heeft gemaakt dat hij na afwijzing van de eerdere aanvraag is
 
 c. die door de Minister is geïnformeerd over de datum van de vlucht ter fine van zijn verwijdering, of 
 
-d. wiens eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is afgewezen op grond van [artikel 30, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en: 
+d. wiens eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet is afgewezen op grond van artikel 30, eerste lid, van de Wet en: 
 
 1°. deze afwijzingsgrond niet meer van toepassing is; of  
 
@@ -859,24 +867,28 @@ d. wiens eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepa
 
 ### Artikel  3.51  
 
-1.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
+1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b en d, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
 2.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 53 verschuldigd ter zake van de afgifte van een vervangend document: 
 
-a. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt voor zover de vreemdeling van Turkse nationaliteit is en de vreemdeling direct voorafgaande aan de aanvraag houder is van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;  
+a. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet blijkt voor zover de vreemdeling van Turkse nationaliteit is en de vreemdeling direct voorafgaande aan de aanvraag houder is van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;  
 
-b. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt voor zover de vreemdeling van Turkse nationaliteit is en het verrichten van arbeid is toegestaan;  
+b. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet blijkt voor zover de vreemdeling van Turkse nationaliteit is en het verrichten van arbeid is toegestaan;  
 
-c. waaruit het rechtmatig verblijf bedoeld in [artikel 8, onder b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, voor zover de vreemdeling het gezinslid is van een vreemdeling als bedoeld in onderdeel b;  
+c. waaruit het rechtmatig verblijf bedoeld in artikel 8, onder b, van de Wet blijkt, voor zover de vreemdeling het gezinslid is van een vreemdeling als bedoeld in onderdeel b;  
 
-d. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt voor zover de vreemdeling van Turkse nationaliteit is of het gezinslid is van een dergelijke vreemdeling.    
+d. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder d, van de Wet blijkt voor zover de vreemdeling van Turkse nationaliteit is of het gezinslid is van een dergelijke vreemdeling.    
 
 ### Artikel  3.52  
 
-Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
+Ter zake van de afgifte ter uitvoering van artikel 4.22, tweede lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b en d, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
 
 ### Artikel  3.52a  
 
 In afwijking van de artikelen 3.51, tweede lid en 3.52, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd. 
+
+### Artikel  3.52b  
+
+In afwijking van artikel 3.51, eerste lid, is de minderjarige vreemdeling een bedrag van € 53 verschuldigd. 
 
 ### Artikel  3.53  
 
@@ -892,7 +904,7 @@ Bij de indiening van de aanvraag, bedoeld in artikel 45a van de Wet, verklaart d
 
 ### Artikel  4.1  
 
-Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen zijn belast de ambtenaren, bedoeld in [artikel 142 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), die ingevolge een akte en proces-verbaal van beëdiging van de Minister van Veiligheid en Justitie zijn belast met opsporing van een of meer strafbare feiten ingevolge de [Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen zijn belast de ambtenaren, bedoeld in artikel 142 van het Wetboek van Strafvordering, die ingevolge een akte en proces-verbaal van beëdiging van de Minister van Veiligheid en Justitie zijn belast met opsporing van een of meer strafbare feiten ingevolge de Wet.  
 
 ### Artikel  4.1a  
 
@@ -915,42 +927,42 @@ Met het toezicht op de naleving van de wettelijke voorschriften met betrekking t
 
 ### Artikel  4.3  
 
-Het teken, bedoeld in [artikel 4.9, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is een blauw flikkerlicht.  
+Het teken, bedoeld in artikel 4.9, onder a, van het Besluit, is een blauw flikkerlicht.  
 
 ### Artikel  4.4  
 
 ####Modellen bemanningslijst/passagierslijst zeeschip
 
-1.  Het model van de bemanningslijst, bedoeld in [artikel 4.11, eerste lid onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is opgenomen in bijlage 14a en 14b bij deze regeling. Op de bemanningslijst worden de gegevens verstrekt omtrent de familienaam, voornamen, rang, nationaliteit, geboortedatum en geboorteplaats, van zowel de gezagvoerder als van alle bij het binnenvaren van Nederland aan boord aanwezige personen die deel uitmaken van de bemanning en als zodanig op de monsterrol voorkomen.   
-2.  Voor schepen die zijn gecertificeerd voor het vervoer van ten hoogste twaalf passagiers wordt de schriftelijke opgave, bedoeld in [artikel 4.11, eerste lid onder b, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verstrekt met het model van de passagierslijst, opgenomen in bijlage 14c en 14d bij deze regeling.  
+1.  Het model van de bemanningslijst, bedoeld in artikel 4.11, eerste lid onder a, van het Besluit is opgenomen in bijlage 14a en 14b bij deze regeling. Op de bemanningslijst worden de gegevens verstrekt omtrent de familienaam, voornamen, rang, nationaliteit, geboortedatum en geboorteplaats, van zowel de gezagvoerder als van alle bij het binnenvaren van Nederland aan boord aanwezige personen die deel uitmaken van de bemanning en als zodanig op de monsterrol voorkomen.   
+2.  Voor schepen die zijn gecertificeerd voor het vervoer van ten hoogste twaalf passagiers wordt de schriftelijke opgave, bedoeld in artikel 4.11, eerste lid onder b, van het Besluit, verstrekt met het model van de passagierslijst, opgenomen in bijlage 14c en 14d bij deze regeling.  
 
 ### Artikel  4.5  
 
-1.  Het model van de bemanningslijst, bedoeld in [artikel 4.15, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is opgenomen in bijlage 15 bij deze regeling.   
-2.  Het model van de passagierslijst, bedoeld in [artikel 4.15, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is opgenomen in bijlage 16 bij deze regeling.   
+1.  Het model van de bemanningslijst, bedoeld in artikel 4.15, eerste lid, onder a, van het Besluit, is opgenomen in bijlage 15 bij deze regeling.   
+2.  Het model van de passagierslijst, bedoeld in artikel 4.15, eerste lid, onder a, van het Besluit, is opgenomen in bijlage 16 bij deze regeling.   
 
 ### Artikel  4.6  
 
-1.  De aantekening, bedoeld in de [artikelen 4.24, eerste lid, onder d](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en [4.26 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), luidt: 'aanmelden binnen drie dagen bij de korpschef te (plaats), (datum waarop de aantekening wordt gesteld, handtekening en stempel)'.   
+1.  De aantekening, bedoeld in de artikelen 4.24, eerste lid, onder d, en 4.26 van het Besluit, luidt: 'aanmelden binnen drie dagen bij de korpschef te (plaats), (datum waarop de aantekening wordt gesteld, handtekening en stempel)'.   
 2.  Het opleggen van een verplichting tot aanmelding bij de korpschef aan een vreemdeling, aan wie een bijzonder doorlaatbewijs als bedoeld in bijlage 3 onder I bij deze regeling is afgegeven, geschiedt door in dat document achter de woorden 'zich melden binnen drie dagen na afgifte van dit doorlaatbewijs bij' aan te tekenen: 'de korpschef te (plaats)'.   
 
 ### Artikel  4.7  
 
-1.  De aantekening, bedoeld in de [artikelen 4.24, eerste lid, onder f,](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [4.27 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), luidt: 'toegang geweigerd (datum) (handtekening en stempel)'.   
+1.  De aantekening, bedoeld in de artikelen 4.24, eerste lid, onder f, en 4.27 van het Besluit, luidt: 'toegang geweigerd (datum) (handtekening en stempel)'.   
 2.  De aantekening, bedoeld in het eerste lid, kan worden aangevuld met een aantekening omtrent de grond waarop de weigering van toegang tot Nederland berust.   
 
 ### Artikel  4.8  
 
-1.  De aantekening, bedoeld in de [artikelen 4.24, eerste lid, onder g](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en [4.28 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), luidt: 'vertrokken/uitgezet verwijderd op (datum) (handtekening en stempel)'.   
+1.  De aantekening, bedoeld in de artikelen 4.24, eerste lid, onder g, en 4.28 van het Besluit, luidt: 'vertrokken/uitgezet verwijderd op (datum) (handtekening en stempel)'.   
 2.  De aantekening, bedoeld in het eerste lid, kan worden aangevuld met een aantekening omtrent de reden van de verwijdering uit Nederland.   
 
 ### Artikel  4.9  
 
-Voor het stellen van aantekeningen in de reis- en identiteitspapieren van de vreemdeling, bedoeld in [artikel 4.29 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), wordt gebruik gemaakt van het model dat als bijlage 7j bij deze regeling is gevoegd. 
+Voor het stellen van aantekeningen in de reis- en identiteitspapieren van de vreemdeling, bedoeld in artikel 4.29 van het Besluit, wordt gebruik gemaakt van het model dat als bijlage 7j bij deze regeling is gevoegd. 
 
 ### Artikel  4.10  
 
-De aantekening, bedoeld in [artikel 4.29 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), omtrent het voldoen aan een verplichting tot aanmelding of vervoeging bij een korpschef ingevolge de [artikelen 4.39](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [4.47 tot en met 4.51 van het Besluit luidt](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): 'Aangemeld op (datum)'. Indien het betreft een vreemdeling die naar Nederland is gekomen om als zeeman werk te zoeken aan boord van een zeeschip, wordt de aantekening aangevuld met de zinsnede 'voor verblijf als zeeman tot (datum)'.  
+De aantekening, bedoeld in artikel 4.29 van het Besluit, omtrent het voldoen aan een verplichting tot aanmelding of vervoeging bij een korpschef ingevolge de artikelen 4.39, 4.47 tot en met 4.51 van het Besluit luidt: 'Aangemeld op (datum)'. Indien het betreft een vreemdeling die naar Nederland is gekomen om als zeeman werk te zoeken aan boord van een zeeschip, wordt de aantekening aangevuld met de zinsnede 'voor verblijf als zeeman tot (datum)'.  
 
 ### Artikel  4.11  
 
@@ -961,29 +973,29 @@ De aantekening, bedoeld in [artikel 4.29 van het Besluit](../../../../../AMvB/vr
 
 ### Artikel  4.12  
 
-De aantekening omtrent verandering van woon- of verblijfplaats binnen Nederland, bedoeld in [artikel 4.29, eerste lid, onder b, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), luidt: 'verhuisd op (datum)'.  
+De aantekening omtrent verandering van woon- of verblijfplaats binnen Nederland, bedoeld in artikel 4.29, eerste lid, onder b, van het Besluit, luidt: 'verhuisd op (datum)'.  
 
 ### Artikel  4.13  
 
-De korpschef is bevoegd om met toepassing van [artikel 4.51 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): 
+De korpschef is bevoegd om met toepassing van artikel 4.51 van het Besluit: 
 
-a. ontheffing te verlenen van de verplichting tot periodieke aanmelding, bedoeld in [artikel 4.51 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en  
+a. ontheffing te verlenen van de verplichting tot periodieke aanmelding, bedoeld in artikel 4.51 van het Besluit, en  
 
-b. de termijn van een week, genoemd in [artikel 4.51, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), te verkorten of te verlengen.  
+b. de termijn van een week, genoemd in artikel 4.51, tweede lid, van het Besluit, te verkorten of te verlengen.  
 
 ### Artikel  4.14  
 
-1.  De aantekening omtrent de ontheffing met toepassing van [artikel 4.51, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) van de verplichting tot wekelijkse aanmelding, luidt: 'ontheffing verleend van de verplichting tot wekelijkse aanmelding onder de volgende beperking(en) en/of voorschrift(en) (beperkingen/voorschriften) (datum)'.   
-2.  Indien met toepassing van [artikel 4.51, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) een andere dan een wekelijkse termijn voor periodieke aanmelding is gesteld, wordt de aantekening gesteld 'Verplichting tot periodieke aanmelding krachtens [artikel 4.51 Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)', aangevuld met de periode van aanmelding en eventuele bijzonderheden.   
+1.  De aantekening omtrent de ontheffing met toepassing van artikel 4.51, tweede lid, van het Besluit van de verplichting tot wekelijkse aanmelding, luidt: 'ontheffing verleend van de verplichting tot wekelijkse aanmelding onder de volgende beperking(en) en/of voorschrift(en) (beperkingen/voorschriften) (datum)'.   
+2.  Indien met toepassing van artikel 4.51, tweede lid, van het Besluit een andere dan een wekelijkse termijn voor periodieke aanmelding is gesteld, wordt de aantekening gesteld 'Verplichting tot periodieke aanmelding krachtens artikel 4.51 Vreemdelingenbesluit 2000', aangevuld met de periode van aanmelding en eventuele bijzonderheden.   
 
 ### Artikel  4.15  
 
-1.  Indien met toepassing van [artikel 54, tweede lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een individuele verplichting tot periodieke aanmelding is opgelegd, wordt de aantekening gesteld 'Verplichting tot periodieke aanmelding krachtens [artikel 54, tweede lid, Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)', aangevuld met de periode van aanmelding en eventuele bijzonderheden.   
-2.  Indien de verplichting, bedoeld in [54, tweede lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt opgeheven, wordt de aantekening gesteld: 'Verplichting tot periodieke aanmelding opgeheven op (datum)'.   
+1.  Indien met toepassing van artikel 54, tweede lid, van de Wet een individuele verplichting tot periodieke aanmelding is opgelegd, wordt de aantekening gesteld 'Verplichting tot periodieke aanmelding krachtens artikel 54, tweede lid, Vreemdelingenwet 2000', aangevuld met de periode van aanmelding en eventuele bijzonderheden.   
+2.  Indien de verplichting, bedoeld in 54, tweede lid, van de Wet, wordt opgeheven, wordt de aantekening gesteld: 'Verplichting tot periodieke aanmelding opgeheven op (datum)'.   
 
 ### Artikel  4.15a  
 
-1.  Aan de verplichting op grond van [artikel 4.52 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), om het verblijfsdocument in te leveren, wordt voldaan door inlevering in persoon door de vreemdeling, diens referent of gemachtigde bij een loket van de Immigratie- en Naturalisatiedienst of door verzending per post naar een door de Immigratie- en Naturalisatiedienst bepaald postadres.   
+1.  Aan de verplichting op grond van artikel 4.52 van het Besluit, om het verblijfsdocument in te leveren, wordt voldaan door inlevering in persoon door de vreemdeling, diens referent of gemachtigde bij een loket van de Immigratie- en Naturalisatiedienst of door verzending per post naar een door de Immigratie- en Naturalisatiedienst bepaald postadres.   
 2.  Indien de vreemdeling een nieuw verblijfsdocument in persoon komt afhalen bij het loket van de Immigratie- en Naturalisatiedienst, kan aan de verplichting om het verblijfsdocument in te leveren uitsluitend worden voldaan door inlevering in persoon door de vreemdeling, bij het loket van de Immigratie- en Naturalisatiedienst.   
 3.  Indien de vreemdeling gebruikmaakt van terugkeerfaciliteiten, kan aan de verplichting om het verblijfsdocument in te leveren uitsluitend worden voldaan door inlevering in persoon door de vreemdeling, bij het loket van de Immigratie- en Naturalisatiedienst.  
 
@@ -991,10 +1003,10 @@ b. de termijn van een week, genoemd in [artikel 4.51, tweede lid, van het Beslui
 
 1.  De korpschef, alsmede de daartoe bevoegde ambtenaar van de Immigratie- en Naturalisatiedienst zijn bevoegd om 
 
-a. de plaats aan te wijzen waar de vreemdeling met rechtmatig verblijf als bedoeld in [artikel 8, onder f, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zich in verband met het onderzoek naar de inwilligbaarheid van de aanvraag om een verblijfsvergunning dient op te houden; en  
+a. de plaats aan te wijzen waar de vreemdeling met rechtmatig verblijf als bedoeld in artikel 8, onder f, van de Wet, zich in verband met het onderzoek naar de inwilligbaarheid van de aanvraag om een verblijfsvergunning dient op te houden; en  
 
-b. aanwijzingen als bedoeld in [artikel 55, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), te geven.     
-2.  De korpschef is bevoegd om de verstrekking van gegevens, bedoeld in [artikel 4.38 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), te vorderen.   
+b. aanwijzingen als bedoeld in artikel 55, eerste lid, van de Wet, te geven.     
+2.  De korpschef is bevoegd om de verstrekking van gegevens, bedoeld in artikel 4.38 van het Besluit, te vorderen.   
 3.  Een vordering als bedoeld in het tweede lid wordt niet bij algemene bekendmaking gedaan dan na goedkeuring van, en volgens voorschrift te geven door, de Minister. 
 
 ### Afdeling  2  
@@ -1027,7 +1039,7 @@ a. de vreemdeling niet langer in Nederland verblijft;
 b. de vreemdeling geen overkomst naar Nederland meer wenst.     
 2.  De erkende referent geeft kennis van het feit dat: 
 
-a. een uitschrijving van de onderneming, organisatie of rechtspersoon in het handelsregister, als bedoeld in [artikel 2 van het Handelsregisterwet](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), heeft plaatsgevonden;  
+a. een uitschrijving van de onderneming, organisatie of rechtspersoon in het handelsregister, als bedoeld in artikel 2 van het Handelsregisterwet, heeft plaatsgevonden;  
 
 b. een surseance van betaling of faillissement van de onderneming, organisatie, natuurlijke of rechtspersoon is uitgesproken of aangevraagd;  
 
@@ -1041,7 +1053,7 @@ d. er geen aansluiting meer is bij een voor erkenning als referent verplicht ges
 
 a. de tussen het gastgezin en de au pair overeengekomen dagindeling niet wordt nageleefd of is gewijzigd;  
 
-b. de vreemdeling arbeid in strijd met de [Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) verricht;  
+b. de vreemdeling arbeid in strijd met de Wet arbeid vreemdelingen verricht;  
 
 c. de vreemdeling bij een ander gastgezin gaat verblijven;  
 
@@ -1090,7 +1102,7 @@ a. de hoger onderwijsinstelling niet meer geregistreerd is bij de registerbeheer
 
 b. er geen opleiding meer wordt verzorgd in het kader van het ontwikkelingssamenwerkingsbeleid van het Ministerie van Buitenlandse Zaken;  
 
-c. er geen opleidingsactiviteiten meer worden gefaciliteerd in het kader van de [Wet op het specifiek cultuurbeleid](../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).    
+c. er geen opleidingsactiviteiten meer worden gefaciliteerd in het kader van de Wet op het specifiek cultuurbeleid.    
 
 ### Artikel  4.21  
 
@@ -1105,7 +1117,7 @@ c. de vreemdeling aan het begin van een nieuw studiejaar niet zelfstandig en duu
 
 a. niet langer door de Internationale Baccalaureaat Organisatie geaccrediteerd is;  
 
-b. niet meer op grond van de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) wordt bekostigd;  
+b. niet meer op grond van de Wet op het voortgezet onderwijs wordt bekostigd;  
 
 c. geen deel meer uitmaakt van een internationale organisatie, waarbij een uitwisseling van leerlingen over de wereld plaatsvindt en het land van plaatsing wordt bepaald door landelijke comités van deze internationale organisatie of deze internationale organisatie zijn leerlingen niet langer in een internaat plaatst.    
 
@@ -1125,13 +1137,13 @@ c. de vreemdeling andere werkzaamheden gaat verrichten.
 
 a. de vreemdeling niet meer bij de referent werkzaam is;  
 
-b. de vreemdeling, die in Nederland verblijft of wil verblijven in het kader van arbeid als kennismigrant, niet meer aan het looncriterium, bedoeld in [artikel 1d, eerste lid, onder a, subonderdelen 1 en 2 van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), voldoet of, indien het looncriterium niet van toepassing is, de vreemdeling niet meer zelfstandig en duurzaam over voldoende middelen van bestaan beschikt;  
+b. de vreemdeling, die in Nederland verblijft of wil verblijven in het kader van arbeid als kennismigrant, niet meer aan het looncriterium, bedoeld in artikel 1d, eerste lid, onder a, subonderdelen 1 en 2 van het Besluit uitvoering Wet arbeid vreemdelingen, voldoet of, indien het looncriterium niet van toepassing is, de vreemdeling niet meer zelfstandig en duurzaam over voldoende middelen van bestaan beschikt;  
 
-c. de vreemdeling, die in Nederland verblijft of wil verblijven als houder van de Europese blauwe kaart, niet meer aan het looncriterium, bedoeld in [artikel 1i, eerste lid, onder b van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), voldoet;  
+c. de vreemdeling, die in Nederland verblijft of wil verblijven als houder van de Europese blauwe kaart, niet meer aan het looncriterium, bedoeld in artikel 1i, eerste lid, onder b van het Besluit uitvoering Wet arbeid vreemdelingen, voldoet;  
 
 d. de vreemdeling, die een beroep in de individuele gezondsheidszorg verricht of wil verrichten waarvoor registratie verplicht is, niet in het Beroepen Individuele Gezondheidszorg register is geregistreerd;  
 
-e. de vreemdeling, die in Nederland verblijft of wil verbijven als houder van de Europese blauwe kaart, een gereglementeerd beroep in de zin van [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in de zin van [artikel 5 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) uitoefent, niet meer beschikt over de voor de desbetreffende sector benodigde getuigschriften van hoger onderwijs in de zin van artikel 2, onder h, van richtlijn 2009/50/EG.     
+e. de vreemdeling, die in Nederland verblijft of wil verbijven als houder van de Europese blauwe kaart, een gereglementeerd beroep in de zin van artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties in de zin van artikel 5 van die wet uitoefent, niet meer beschikt over de voor de desbetreffende sector benodigde getuigschriften van hoger onderwijs in de zin van artikel 2, onder h, van richtlijn 2009/50/EG.     
 2.  De referent, bedoeld in het eerste lid, verstrekt inlichtingen over de nakoming van zijn verplichtingen als referent indien hij niet meer kan voldoen aan een zorgvuldige werving en selectie van de vreemdeling.  
 
 ### Artikel  4.24  
@@ -1145,13 +1157,13 @@ b. de vreemdeling niet langer aan de onderzoeksinstelling is verbonden;
 c. de vreemdeling niet langer zelfstandig en duurzaam beschikt over voldoende middelen van bestaan.     
 2.  De referent, bedoeld in het eerste lid, verstrekt inlichtingen over diens positie als referent indien: 
 
-a. hij geen publieke onderzoeksinstelling die is opgenomen in de [bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) meer is;  
+a. hij geen publieke onderzoeksinstelling die is opgenomen in de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek meer is;  
 
-b. hij geen onderzoeksinstelling als bedoeld in [artikel 1d, eerste lid, onder b, van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md) meer is;  
+b. hij geen onderzoeksinstelling als bedoeld in artikel 1d, eerste lid, onder b, van het Besluit uitvoering Wet arbeid vreemdelingen meer is;  
 
 c. hij niet meer als particuliere onderzoeksinstelling in het National Academic Research and Collaborations Information System is opgenomen;  
 
-d. de verklaring betreffende Speur- en Ontwikkelingswerk, bedoeld in [artikel 1, eerste lid, onderdeel q, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), is ingetrokken.    
+d. de verklaring betreffende Speur- en Ontwikkelingswerk, bedoeld in artikel 1, eerste lid, onderdeel q, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen, is ingetrokken.    
 
 ### Artikel  4.25  
 
@@ -1238,7 +1250,7 @@ e. een bewijsstuk waaruit blijkt dat door de vreemdeling het Internationale Bacc
 
 a. een bewijs van zijn accreditatie door de Internationale Baccalaureaat Organisatie;  
 
-b. een bewijsstuk waaruit blijkt dat de referent op grond van de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) wordt bekostigd.    
+b. een bewijsstuk waaruit blijkt dat de referent op grond van de Wet op het voortgezet onderwijs wordt bekostigd.    
 
 ### Artikel  4.31  
 
@@ -1314,13 +1326,13 @@ a. de arbeidsovereenkomst of het aanstellingsbesluit waaruit de duur en de aard 
 
 b. een verklaring van het bedrijf in het buitenland waaruit de duur en aard van het dienstverband en het overeengekomen inkomen blijkt, indien er sprake is van overplaatsing in concernverband en er geen arbeidsovereenkomst is aangegaan met het in Nederland gevestigde onderdeel van het bedrijf;  
 
-c. indien de vreemdeling in Nederland verblijf of wil verblijven in het kader van arbeid als kennismigrant, loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in [artikel 1d, eerste lid, onder a, subonderdelen 1 en 2 van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), voldoet of, indien het looncriterium niet van toepassing is, zelfstandig en duurzaam over voldoende middelen van bestaan beschikt;  
+c. indien de vreemdeling in Nederland verblijf of wil verblijven in het kader van arbeid als kennismigrant, loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in artikel 1d, eerste lid, onder a, subonderdelen 1 en 2 van het Besluit uitvoering Wet arbeid vreemdelingen, voldoet of, indien het looncriterium niet van toepassing is, zelfstandig en duurzaam over voldoende middelen van bestaan beschikt;  
 
-d. indien de vreemdeling in Nederland verblijft of wil verblijven als houder van de Europese blauwe kaart, loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in [artikel 1i, eerste lid, onder b, van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), voldoet;  
+d. indien de vreemdeling in Nederland verblijft of wil verblijven als houder van de Europese blauwe kaart, loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in artikel 1i, eerste lid, onder b, van het Besluit uitvoering Wet arbeid vreemdelingen, voldoet;  
 
 e. een bewijs van inschrijving in het opleidingsregister van de Medisch Specialisten Registratie Commissie, de Sociaal-Geneeskundigen Registratie Commissie of de Huisarts en Verpleeghuisarts Registratie Commissie in het geval de vreemdeling een arts in opleiding tot specialist is;  
 
-f. de voor de desbetreffende sector benodigde getuigschriften van hoger onderwijs in de zin van artikel 2, onder h, van richtlijn 2009/50/EG, voor zover de vreemdeling in Nederland verblijft of wil verbijven als houder van de Europese blauwe kaart en een gereglementeerd beroep in de zin van [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in de zin van [artikel 5 van die wet](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) uitoefent.     
+f. de voor de desbetreffende sector benodigde getuigschriften van hoger onderwijs in de zin van artikel 2, onder h, van richtlijn 2009/50/EG, voor zover de vreemdeling in Nederland verblijft of wil verbijven als houder van de Europese blauwe kaart en een gereglementeerd beroep in de zin van artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties in de zin van artikel 5 van die wet uitoefent.     
 2.  De referent, bedoeld in het eerste lid, neemt met betrekking tot de nakoming van zijn verplichtingen als referent in de administratie op de stukken omtrent de wijze waarop hij invulling heeft gegeven aan de zorgplicht.  
 
 ### Artikel  4.36  
@@ -1339,7 +1351,7 @@ Bewijsstukken als bedoeld in artikel 4.36, onder c, zijn:
 
 a. een afschrift van de arbeidsovereenkomst, een recente werkgeversverklaring voorzien van datum, handtekening van de werkgever en firmastempel en afschriften van loonspecificaties;  
 
-b. een verklaring inkomen van een gevestigde ondernemer en een uittreksel van de Kamer van Koophandel, voor zover inschrijving van de zelfstandig ondernemer op grond van de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) is vereist;  
+b. een verklaring inkomen van een gevestigde ondernemer en een uittreksel van de Kamer van Koophandel, voor zover inschrijving van de zelfstandig ondernemer op grond van de Handelsregisterwet 2007 is vereist;  
 
 c. sponsorovereenkomst(en) waaruit de hoogte van de sponsorgelden en de duur van de sponsorovereenkomst(en) blijken;  
 
@@ -1403,7 +1415,7 @@ a. indien de referent beschikt over inkomen uit arbeid in loondienst:
 
 3°. afschriften van loonstroken over de drie maanden direct voorafgaand aan de aanvraag;    
 
-b. indien de referent beschikt over middelen van bestaan als bedoeld in [artikel 3.75, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): 
+b. indien de referent beschikt over middelen van bestaan als bedoeld in artikel 3.75, derde lid, van het Besluit: 
 
 1°. de bewijsstukken genoemd onder a;  
 
@@ -1417,17 +1429,17 @@ c. indien de referent beschikt over inkomen als zelfstandige:
 
 1°. een verklaring inkomen van een gevestigde ondernemer, en  
 
-2°. een uittreksel van de Kamer van Koophandel, voor zover inschrijving van de zelfstandig ondernemer op grond van de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) is vereist.    
+2°. een uittreksel van de Kamer van Koophandel, voor zover inschrijving van de zelfstandig ondernemer op grond van de Handelsregisterwet 2007 is vereist.    
 
 d. indien de referent naar het oordeel van de Minister blijvend en volledig arbeidsongeschikt is: 
 
-1°. de toekenningsbeschikking van de uitkerende instantie ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheid zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet arbeidsongeschiktheidsvoorziening voor jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) waaruit blijkt dat de referent volledig arbeidsongeschikt is, en  
+1°. de toekenningsbeschikking van de uitkerende instantie ingevolge de Wet op de Arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheid zelfstandigen, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsvoorziening voor jonggehandicapten waaruit blijkt dat de referent volledig arbeidsongeschikt is, en  
 
 2°. de uitkeringsspecificaties;    
 
 e. indien de referent blijvend niet in staat is aan de plicht tot arbeidsinschakeling te voldoen: 
 
-1°. alle toekenningsbesluiten ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die betrekking hebben op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;  
+1°. alle toekenningsbesluiten ingevolge de Wet werk en bijstand die betrekking hebben op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;  
 
 2°. voor zover van toepassing correspondentie met het college van burgemeester en wethouders omtrent ontheffing van de plicht tot arbeidsinschakeling, die betrekking heeft op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, en  
 
@@ -1449,14 +1461,14 @@ De referent van een vreemdeling die arbeid voor een religieuze of levensbeschouw
 
 ### Artikel  4.41  
 
-1.  De referent of de gewezen referent houdt de administratie ter plaatse waar hij in Nederland kantoor houdt, dan wel ter plaatse waar hij in Nederland een vaste inrichting voor de uitoefening van zijn bedrijf of beroep heeft, of ter plaatse waar hij woont of gevestigd is. Bij gebreke aan een van vorenstaande plaatsen houdt hij de administratie onder zijn berusting. De referent doet bij het model, bedoeld in [artikel 2a, derde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), opgave van de plaats waar de administratie wordt gehouden.   
+1.  De referent of de gewezen referent houdt de administratie ter plaatse waar hij in Nederland kantoor houdt, dan wel ter plaatse waar hij in Nederland een vaste inrichting voor de uitoefening van zijn bedrijf of beroep heeft, of ter plaatse waar hij woont of gevestigd is. Bij gebreke aan een van vorenstaande plaatsen houdt hij de administratie onder zijn berusting. De referent doet bij het model, bedoeld in artikel 2a, derde lid, van de Wet, opgave van de plaats waar de administratie wordt gehouden.   
 2.  Indien het adres ter plaatse waar de administratie wordt gevoerd, wijzigt, doet de referent binnen twee weken melding van het nieuwe adres aan de Minister.   
 3.  De referent of gewezen referent verstrekt schriftelijk op verzoek van de Minister de gegevens of bescheiden binnen een periode van vier weken na ontvangst van het daartoe strekkend verzoek, of, indien dit redelijkerwijs niet mogelijk is, binnen een door de Minister te bepalen termijn.   
 4.  In bijzondere gevallen kan de Minister de in het derde lid bedoelde termijn verkorten.  
 
 ### Artikel  4.42  
 
-Indien de referent of gewezen referent niet aan de op hem ingevolge [artikel 4.53 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) rustende verplichtingen kan voldoen, stelt hij de Minister daarvan binnen vier weken op de hoogte, alsmede van de redenen daarvan. 
+Indien de referent of gewezen referent niet aan de op hem ingevolge artikel 4.53 van het Besluit rustende verplichtingen kan voldoen, stelt hij de Minister daarvan binnen vier weken op de hoogte, alsmede van de redenen daarvan. 
 
 ### Hoofdstuk 5  
 
@@ -1464,23 +1476,23 @@ Indien de referent of gewezen referent niet aan de op hem ingevolge [artikel 4.5
 
 ### Artikel  5.1  
 
-Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegdheid, bedoeld in [artikel 50, vierde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), mandateert, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.  
+Indien de korpschef of de bevelhebber van de Koninklijke marechaussee de bevoegdheid, bedoeld in artikel 50, vierde lid, van de Wet, mandateert, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.  
 
 ### Artikel  5.2  
 
-1.  De ambtenaar van de Dienst Terugkeer en Vertrek en de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd zijn, kunnen de maatregel van beperking van vrijheid van beweging, bedoeld in [artikel 56, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), opleggen, wijzigen of opheffen.   
-2.  De korpschef kan de maatregel van beperking van vrijheid van beweging, bedoeld in [artikel 56, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in spoedeisende gevallen opleggen.   
+1.  De ambtenaar van de Dienst Terugkeer en Vertrek en de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd zijn, kunnen de maatregel van beperking van vrijheid van beweging, bedoeld in artikel 56, eerste lid, van de Wet, opleggen, wijzigen of opheffen.   
+2.  De korpschef kan de maatregel van beperking van vrijheid van beweging, bedoeld in artikel 56, eerste lid, van de Wet in spoedeisende gevallen opleggen.   
 3.  Indien de korpschef van deze bevoegdheid ondermandaat verleent, doet hij dat niet dan aan een ambtenaar, belast met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is.   
 
 ### Artikel  5.3  
 
-1.  De maatregel, bedoeld in [artikel 59](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [59a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt opgelegd door de ambtenaar bedoeld in [artikel 47, eerste lid, onder a en b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) die tevens hulpofficier van justitie is.   
-2.  De maatregel, bedoeld in [artikel 59](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [59a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt gewijzigd en opgeheven door de ambtenaar van Dienst Terugkeer en Vertrek, die daartoe bevoegd is, of door de ambtenaar bedoeld in [artikel 47, eerste lid, onder a en b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) die tevens hulpofficier van justitie is.   
-3.  De maatregel, bedoeld in artikel 59, eerste lid, van de Wet, wordt verlengd als bedoeld in artikel 59, zesde lid, van de Wet, door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe bevoegd is, of door de ambtenaar, bedoeld in [artikel 47, eerste lid, onder a of b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die tevens hulpofficier van justitie is. 
+1.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt opgelegd door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet die tevens hulpofficier van justitie is, of door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe is aangewezen door de Minister.   
+2.  De maatregel, bedoeld in artikel 59 of 59a van de Wet, wordt gewijzigd en opgeheven door de ambtenaar van Dienst Terugkeer en Vertrek, die daartoe bevoegd is, of door de ambtenaar bedoeld in artikel 47, eerste lid, onder a en b, van de Wet die tevens hulpofficier van justitie is.   
+3.  De maatregel, bedoeld in artikel 59, eerste lid, van de Wet, wordt verlengd als bedoeld in artikel 59, zesde lid, van de Wet, door de ambtenaar van de Dienst Terugkeer en Vertrek die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet, die tevens hulpofficier van justitie is. 
 
 ### Artikel  5.4  
 
-De ambtenaar van de Dienst Terugkeer en Vertrek en de hulpofficier van justitie die bevoegd is tot inbewaringstelling, zijn bevoegd tot het nemen van het besluit, bedoeld in [artikel 5.5, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
+De ambtenaar van de Dienst Terugkeer en Vertrek en de hulpofficier van justitie die bevoegd is tot inbewaringstelling, zijn bevoegd tot het nemen van het besluit, bedoeld in artikel 5.5, eerste lid, van het Besluit en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
 
 ### Hoofdstuk 6  
 
@@ -1497,13 +1509,13 @@ De ambtenaar van de Dienst Terugkeer en Vertrek en de hulpofficier van justitie 
 
 ### Artikel  6.1a  
 
-[Artikel 6.1c van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is niet van toepassing op de vreemdeling: 
+Artikel 6.1c van het Besluit is niet van toepassing op de vreemdeling: 
 
 a. wiens vrijheid rechtens is ontnomen;  
 
 b. die door de Minister is geïnformeerd over de datum van de vlucht ter fine van zijn verwijdering;  
 
-c. tegen wie de Minister het overdrachtsbesluit, bedoeld in de [artikelen 44a](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [62b van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), heeft uitgevaardigd en die in afwachting is van de overdracht naar de verantwoordelijke lidstaat.   
+c. tegen wie de Minister het overdrachtsbesluit, bedoeld in de artikelen 44a en 62b van de Wet, heeft uitgevaardigd en die in afwachting is van de overdracht naar de verantwoordelijke lidstaat.   
 
 ###Afdeling 2 
 
@@ -1519,7 +1531,7 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 ### Artikel  6.3  
 
-1.  De verlenging, bedoeld in [artikel 62, derde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), van de vertrektermijn, bedoeld in artikel 62, eerste lid, van de Wet, vindt uitsluitend plaats indien de vreemdeling ervoor zorg heeft gedragen dat de voor zijn vertrek uit eigen beweging noodzakelijke bescheiden voorhanden zijn dan wel binnen korte termijn voorhanden zullen zijn.   
+1.  De verlenging, bedoeld in artikel 62, derde lid, van de Wet, van de vertrektermijn, bedoeld in artikel 62, eerste lid, van de Wet, vindt uitsluitend plaats indien de vreemdeling ervoor zorg heeft gedragen dat de voor zijn vertrek uit eigen beweging noodzakelijke bescheiden voorhanden zijn dan wel binnen korte termijn voorhanden zullen zijn.   
 2.  De verlenging van de vertrektermijn bedraagt maximaal 90 dagen.   
 3.  In afwijking van het tweede lid, kan de vertrektermijn met ten hoogste zes maanden worden verlengd indien de duur van het aan de vreemdeling verleende visum niet kan worden verlengd en zijn aanwezigheid in Nederland noodzakelijk is voor de goede uitvoering van de procedure voor het Internationale Strafhof, het Speciale Tribunaal voor Libanon, het Internationaal Joegoslavië Tribunaal, het Speciale Hof voor Sierra Leone, dan wel het Internationaal Residumechanisme voor Straftribunalen.   
 4.  Bij het besluit omtrent verlenging van de vertrektermijn worden onder meer de aanwezigheid van schoolgaande kinderen of het bestaan van andere gezinsbanden en sociale banden betrokken.   
@@ -1527,13 +1539,13 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 ### Artikel  6.4  
 
-1.  De kennisgeving, bedoeld in [artikel 62a, eerste lid van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt gegeven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, of door de ambtenaar, bedoeld in [artikel 47, eerste lid, onder a of b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
-2.  Indien de kennisgeving, bedoeld in [artikel 62a, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt gegeven, wordt de vreemdeling in een taal die de vreemdeling begrijpt of redelijkerwijze geacht mag worden te begrijpen mondeling of schriftelijk op de inhoud en de rechtsgevolgen daarvan gewezen, en wordt de vreemdeling gewezen op de mogelijkheid daartegen rechtsmiddelen aan te wenden.  
+1.  De kennisgeving, bedoeld in artikel 62a, eerste lid van de Wet, wordt gegeven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet.   
+2.  Indien de kennisgeving, bedoeld in artikel 62a, eerste lid, van de Wet, wordt gegeven, wordt de vreemdeling in een taal die de vreemdeling begrijpt of redelijkerwijze geacht mag worden te begrijpen mondeling of schriftelijk op de inhoud en de rechtsgevolgen daarvan gewezen, en wordt de vreemdeling gewezen op de mogelijkheid daartegen rechtsmiddelen aan te wenden.  
 
 ### Artikel  6.5  
 
-1.  Het inreisverbod, bedoeld in [artikel 66a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, of door de ambtenaar, bedoeld in [artikel 47, eerste lid, onder a en b, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die tevens hulpofficier van justitie is.   
-2.  Het inreisverbod wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, indien daaraan de rechtgevolgen, bedoeld in [artikel 66a, zevende lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn verbonden.   
+1.  Het inreisverbod, bedoeld in artikel 66a van de Wet, wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is.   
+2.  Het inreisverbod wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, indien daaraan de rechtgevolgen, bedoeld in artikel 66a, zevende lid, van de Wet, zijn verbonden.   
 3.  Indien het inreisverbod wordt uitgevaardigd, wordt in een taal die de vreemdeling begrijpt of redelijkerwijze geacht mag worden te begrijpen mondeling of schriftelijk op de inhoud en de rechtsgevolgen daarvan gewezen, en wordt de vreemdeling gewezen op de mogelijkheid daartegen rechtsmiddelen aan te wenden.  
 
 ### Hoofdstuk 7  
@@ -1542,34 +1554,34 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 ### Artikel  7.1  
 
-1.  Het bestuursorgaan of orgaan als bedoeld in [artikel 107 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dat de Minister met toepassing van [artikel 8.1, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) vraagt om onverwijld nadere gegevens over de verblijfsrechtelijke positie van de vreemdeling te verstrekken, maakt daarvoor gebruik van het formulier van het in bijlage 17a bij deze regeling aangeduide model. Op dit formulier wordt tevens aangegeven om welke reden onduidelijkheid bestaat over de verblijfsrechtelijke positie van de vreemdeling.   
+1.  Het bestuursorgaan of orgaan als bedoeld in artikel 107 van de Wet, dat de Minister met toepassing van artikel 8.1, derde lid, van het Besluit vraagt om onverwijld nadere gegevens over de verblijfsrechtelijke positie van de vreemdeling te verstrekken, maakt daarvoor gebruik van het formulier van het in bijlage 17a bij deze regeling aangeduide model. Op dit formulier wordt tevens aangegeven om welke reden onduidelijkheid bestaat over de verblijfsrechtelijke positie van de vreemdeling.   
 2.  De verstrekking van de nadere gegevens over de verblijfsrechtelijke positie van een vreemdeling aan de in het eerste lid bedoelde bestuursorgaan, vindt plaats door gebruikmaking van het formulier van het in bijlage 17b bij deze regeling aangeduide model.   
-3.  Bij het vragen van gegevens omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning bij het in het eerste lid bedoelde bestuursorgaan of orgaan op grond van [artikel 8.2, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), wordt gebruik gemaakt van het formulier van het in bijlage 17c van deze regeling aangeduide model.   
-4.  Het in het eerste lid bedoelde bestuursorgaan of orgaan dat de Minister desgevraagd of uit eigen beweging op grond van [artikel 8.2, tweede of derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), gegevens verstrekt omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning, maakt daarvoor gebruik van het formulier van het in bijlage 17d bij deze regeling aangeduide model.   
+3.  Bij het vragen van gegevens omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning bij het in het eerste lid bedoelde bestuursorgaan of orgaan op grond van artikel 8.2, eerste lid, van het Besluit, wordt gebruik gemaakt van het formulier van het in bijlage 17c van deze regeling aangeduide model.   
+4.  Het in het eerste lid bedoelde bestuursorgaan of orgaan dat de Minister desgevraagd of uit eigen beweging op grond van artikel 8.2, tweede of derde lid, van het Besluit, gegevens verstrekt omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning, maakt daarvoor gebruik van het formulier van het in bijlage 17d bij deze regeling aangeduide model.   
 
 ### Artikel  7.1a  
 
-1.  De verwerking van bijzondere persoonsgegevens als bedoeld in [artikel 107a, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is noodzakelijk: 
+1.  De verwerking van bijzondere persoonsgegevens als bedoeld in artikel 107a, eerste lid, van de Wet is noodzakelijk: 
 
-a. voor de beoordeling van het bij een aanvraag om een verblijfsvergunning als bedoeld in de [artikelen 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [20 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) beoogde verblijfsdoel, voor de beoordeling van een aanvraag om verlenging van de geldigheidsduur alsmede voor de beoordeling van de algemene weigeringsgronden of intrekkingsgronden van de verblijfsvergunning en ambtshalve beoordelingen;  
+a. voor de beoordeling van het bij een aanvraag om een verblijfsvergunning als bedoeld in de artikelen 14 en 20 van de Wet beoogde verblijfsdoel, voor de beoordeling van een aanvraag om verlenging van de geldigheidsduur alsmede voor de beoordeling van de algemene weigeringsgronden of intrekkingsgronden van de verblijfsvergunning en ambtshalve beoordelingen;  
 
-b. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in de [artikelen 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor de beoordeling van een aanvraag om verlenging van de geldigheidsduur alsmede voor de beoordeling van de algemene weigeringsgronden of intrekking van de verblijfsvergunning en ambtshalve beoordelingen;  
+b. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in de artikelen 28 en 33 van de Wet, voor de beoordeling van een aanvraag om verlenging van de geldigheidsduur alsmede voor de beoordeling van de algemene weigeringsgronden of intrekking van de verblijfsvergunning en ambtshalve beoordelingen;  
 
-c. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in [artikel 45a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), alsmede voor de beoordeling van de algemene weigeringsgronden of intrekkingsgronden van de EU-verblijfsvergunning voor langdurig ingezetenen en ambtshalve beoordelingen; 
+c. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in artikel 45a van de Wet, alsmede voor de beoordeling van de algemene weigeringsgronden of intrekkingsgronden van de EU-verblijfsvergunning voor langdurig ingezetenen en ambtshalve beoordelingen; 
 
 d. voor het beoordelen van de gronden voor het ongewenst verklaren van een vreemdeling en de opheffing van de ongewenstverklaring;  
 
-e. voor de beoordeling van de voorwaarden voor het verlenen van de toegang als bedoeld in [artikel 2.1](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), [2.9](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [2.10 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+e. voor de beoordeling van de voorwaarden voor het verlenen van de toegang als bedoeld in artikel 2.1, 2.9 en 2.10 van het Besluit;  
 
-f. voor de toepassing van vrijheidsbeperkende en -ontnemende maatregelen krachtens de [artikelen 6](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [56](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [57](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [58](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [59 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+f. voor de toepassing van vrijheidsbeperkende en -ontnemende maatregelen krachtens de artikelen 6, 56, 57, 58 en 59 van de Wet;  
 
-g. voor de handhaving van de afschriftplicht van vervoerders als bedoeld in [artikel 2.2, tweede lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+g. voor de handhaving van de afschriftplicht van vervoerders als bedoeld in artikel 2.2, tweede lid, van het Besluit;  
 
-h. voor de beoordeling van de voorwaarden voor verblijf in de vrije termijn als bedoeld in de [artikelen 3.2](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) en [3.3 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+h. voor de beoordeling van de voorwaarden voor verblijf in de vrije termijn als bedoeld in de artikelen 3.2 en 3.3 van het Besluit;  
 
-i. bij de uitoefening van de bevoegdheid tot het uitzetten van een vreemdeling als bedoeld in [6.1 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), daaronder begrepen de verwerking van bijzondere gegevens in het kader van de beoordeling of de uitzetting achterwege dient te blijven als bedoeld in [artikel 64 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+i. bij de uitoefening van de bevoegdheid tot het uitzetten van een vreemdeling als bedoeld in 6.1 van het Besluit, daaronder begrepen de verwerking van bijzondere gegevens in het kader van de beoordeling of de uitzetting achterwege dient te blijven als bedoeld in artikel 64 van de Wet;  
 
-j. voor de beoordeling van de voorwaarden voor de erkenning als referent, bedoeld in [artikel 2c van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); 
+j. voor de beoordeling van de voorwaarden voor de erkenning als referent, bedoeld in artikel 2c van de Wet; 
 
 k. voor de beoordeling van de gronden voor het uitvaardigen van een inreisverbod tegen een vreemdeling en de opheffing of tijdelijke opheffing van het inreisverbod.    
 2.  De bijzondere persoonsgegevens worden ten behoeve van de in het eerste lid bedoelde doeleinden opgenomen in documenten die in een persoonsgebonden dossier en in een geautomatiseerd bestand worden neergelegd. De gegevens in het geautomatiseerde bestand worden gebruikt voor het opstellen van beschikkingen.  
@@ -1581,12 +1593,12 @@ k. voor de beoordeling van de gronden voor het uitvaardigen van een inreisverbod
 a. het toekennen van autorisaties aan alleen die personen, die voor het uitoefenen van hun taak toegang tot de opgeslagen informatie moeten hebben;  
 
 b. het bewaren van een reservebestand op een voor niet-geautoriseerde personen ontoegankelijke plaats.     
-2.  De autorisaties als bedoeld in het eerste lid worden toegekend aan medewerkers van de Immigratie- en Naturalisatiedienst (IND) en de Dienst Terugkeer en Vertrek en de ambtenaren, bedoeld in de [artikelen 46 tot en met 48 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+2.  De autorisaties als bedoeld in het eerste lid worden toegekend aan medewerkers van de Immigratie- en Naturalisatiedienst (IND) en de Dienst Terugkeer en Vertrek en de ambtenaren, bedoeld in de artikelen 46 tot en met 48 van de Wet.   
 3.  De Minister stelt richtlijnen op voor het verwerken van bijzondere persoonsgegevens in het geautomatiseerde systeem.  
 
 ### Artikel  7.1c  
 
-1.  Bijzondere persoongegevens als bedoeld in [artikel 107a, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kunnen worden verstrekt aan de volgende derde personen en instanties: 
+1.  Bijzondere persoongegevens als bedoeld in artikel 107a, eerste lid, van de Wet kunnen worden verstrekt aan de volgende derde personen en instanties: 
 
 a. de Minister van Buitenlandse Zaken, voor het verrichten van onderzoek in het buitenland op verzoek van de Minister alsmede ten behoeve van de beoordeling van visumaanvragen;  
 
@@ -1599,131 +1611,131 @@ b. artsen, voor het beoordelen van de gezondheidstoestand van de vreemdeling op 
 
 a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatiseerde bestand is voorbehouden aan die personen, die voor het uitoefenen van hun taak, bedoeld in de artikelen 7.1a en 7.1c toegang tot de informatie moeten hebben;  
 
-b. de verantwoordelijke stelt een Functionaris voor de Gegevensbescherming aan, die toeziet op de naleving van de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+b. de verantwoordelijke stelt een Functionaris voor de Gegevensbescherming aan, die toeziet op de naleving van de Wet bescherming persoonsgegevens;  
 
 c. de verantwoordelijke verricht integriteits- en kwaliteitsaudits ten aanzien van de verwerking van de persoonsgegevens en rapporteert deze aan de Functionaris voor de Gegevensbescherming.   
-2. De vernietiging van de gezichtsopnames en vingerafdrukken na afloop van de bewaartermijn, bedoeld in [artikel 8.35 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en de verwijdering en de vernietiging van de gezichtsopname en vingerafdrukken op verzoek van de vreemdeling, op grond dat deze de hoedanigheid heeft gekregen van gemeenschapsonderdaan anders dan door verkrijging van het Nederlanderschap, geschiedt op de wijze als voorgeschreven in artikel 8 van de WPB-regeling Basisvoorziening vreemdelingen en paragraaf 8.2 van het Protocol Identificatie en Labeling.
+2. De vernietiging van de gezichtsopnames en vingerafdrukken na afloop van de bewaartermijn, bedoeld in artikel 8.35 van het Besluit, en de verwijdering en de vernietiging van de gezichtsopname en vingerafdrukken op verzoek van de vreemdeling, op grond dat deze de hoedanigheid heeft gekregen van gemeenschapsonderdaan anders dan door verkrijging van het Nederlanderschap, geschiedt op de wijze als voorgeschreven in artikel 8 van de WPB-regeling Basisvoorziening vreemdelingen en paragraaf 8.2 van het Protocol Identificatie en Labeling.
 
 ### Artikel  7.1e  
 
-Als wettelijke voorschriften, bedoeld in [artikel 107, tweede lid, onder b, van de wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen: 
+Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van de wet, zijn aangewezen: 
 
-– [Boek 10 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/10/BWBR0030068/README.md);  
+– Boek 10 van het Burgerlijk Wetboek;  
 
-– de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
+– de Algemene Kinderbijslagwet;  
 
-– de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+– de Algemene nabestaandenwet;  
 
-– de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+– de Algemene Ouderdomswet;  
 
-– de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+– de Algemene Wet Bijzondere Ziektekosten;  
 
-– de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+– de Algemene wet erkenning EG-beroepskwalificaties;  
 
-– de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+– de Algemene wet inzake rijksbelastingen;  
 
-– de [Faillisementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+– de Faillisementswet;  
 
-– de [Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+– de Huisvestingswet;  
 
-– de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+– de Paspoortwet;  
 
-– de [Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+– de Politiewet 2012;  
 
-– de [Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md);  
+– de Remigratiewet;  
 
-– de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+– de Toeslagenwet;  
 
-– de [Uitleveringswet](../../../../../wet/uitleveringswet/BWBR0002559/README.md);  
+– de Uitleveringswet;  
 
-– de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+– de Werkloosheidswet;  
 
-– de [Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
+– de Wet algemene bepalingen burgerservicenummer;  
 
-– de [Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+– de Wet arbeid en zorg;  
 
-– de [Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
+– de Wet arbeid vreemdelingen;  
 
-– de [Wet beëdigde tolken en vertalers](../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md);  
+– de Wet beëdigde tolken en vertalers;  
 
-– de [Wet beperking export uitkeringen](../../../../../wet/wet/beperking/export/uitkeringen/BWBR0010479/README.md);  
+– de Wet beperking export uitkeringen;  
 
-– de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md);  
+– de Wet betreffende de positie van Molukkers;  
 
-– de [Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md);  
+– de Wet Centraal Orgaan opvang asielzoekers;  
 
-– de [Wet eenmalige gegevensuitvraag werk en inkomen](../../../../../wet/wet/eenmalige/gegevensuitvraag/werk/en/inkomen/BWBR0023299/README.md);  
+– de Wet eenmalige gegevensuitvraag werk en inkomen;  
 
-– de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+– de Wet educatie en beroepsonderwijs;  
 
-– de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+– de Wet financiering sociale verzekeringen;  
 
-– de [Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+– de Wet basisregistratie personen;  
 
-– de [Wet inburgering](../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+– de Wet inburgering;  
 
-– de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+– de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
-– de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+– de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-– de [Wet inkomensvoorziening oudere werklozen](../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md);  
+– de Wet inkomensvoorziening oudere werklozen;  
 
-– de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md);  
+– de Wet justitiële en strafvorderlijke gegevens;  
 
-– de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+– de Wet maatschappelijke ondersteuning;  
 
-– de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+– de Wet op de arbeidsongeschiktheidsverzekering;  
 
-– de [Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md);  
+– de Wet op de identificatieplicht;  
 
-– de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);  
+– de Wet op de inlichtingen- en veiligheidsdiensten 2002;  
 
-– de [Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+– de Wet op de jeugdzorg;  
 
-– de [Wet op de Kamer van Koophandel](../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md);  
+– de Wet op de Kamer van Koophandel;  
 
-– de [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+– de Wet op de loonbelasting 1964;  
 
-– de [Wet op de rechtsbijstand](../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+– de Wet op de rechtsbijstand;  
 
-– de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+– de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-– de [Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md);  
+– de Wet op het primair onderwijs;  
 
-– de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+– de Wet op het voortgezet onderwijs;  
 
-– de [Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+– de Wet politiegegevens;  
 
-– de [Wet publieke gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+– de Wet publieke gezondheid;  
 
-– de [Wet sociale werkvoorziening](../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md);  
+– de Wet sociale werkvoorziening;  
 
-– de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);  
+– de Wet studiefinanciering 2000;  
 
-– de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+– de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-– de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+– de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-– de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+– de Wet werk en bijstand;  
 
-– de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+– de Wet werk en inkomen naar arbeidsvermogen;  
 
-– de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);  
+– de Ziektewet;  
 
-– de in [artikel 8.3 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) genoemde wettelijke voorschriften.   
+– de in artikel 8.3 van het Vreemdelingenbesluit 2000 genoemde wettelijke voorschriften.   
 
 ### Artikel  7.1f  
 
-Indien aan een vreemdeling die arbeid voor een religieuze of levensbeschouwelijke organisatie wil verrichten rechtmatig verblijf op grond van [artikel 8, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt verleend stelt de Minister de Dienst Uitvoering Onderwijs, in het kader van de uitvoering van de [Wet inburgering](../../../../../wet/wet/inburgering/BWBR0020611/README.md), daarvan op de hoogte. 
+Indien aan een vreemdeling die arbeid voor een religieuze of levensbeschouwelijke organisatie wil verrichten rechtmatig verblijf op grond van artikel 8, onder a, van de Wet, wordt verleend stelt de Minister de Dienst Uitvoering Onderwijs, in het kader van de uitvoering van de Wet inburgering, daarvan op de hoogte. 
 
 ### Artikel  7.1g  
 
-1.  De rijksbelastingdienst verstrekt de Minister desgevraagd gegevens over fiscale vergrijpboetes die op grond van de [artikelen 67d](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67e](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet inzake de Rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn opgelegd, ten behoeve van de beoordeling van de erkenning als referent.   
+1.  De rijksbelastingdienst verstrekt de Minister desgevraagd gegevens over fiscale vergrijpboetes die op grond van de artikelen 67d, 67e en 67f van de Algemene wet inzake de Rijksbelastingen zijn opgelegd, ten behoeve van de beoordeling van de erkenning als referent.   
 2.  De gegevens, bedoeld in het eerste lid, worden niet doorgeleverd.  
 
 ### Artikel  7.1h  
 
-Als voorschriften vastgesteld bij of krachtens de Schengengrenscode, bedoeld in [artikel 108, eerste lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen: 
+Als voorschriften vastgesteld bij of krachtens de Schengengrenscode, bedoeld in artikel 108, eerste lid, van de Wet, zijn aangewezen: 
 
 – Bijlage VI, onder 2.3.1, van de Schengengrenscode  
 
@@ -1743,7 +1755,7 @@ Als voorschriften vastgesteld bij of krachtens de Schengengrenscode, bedoeld in 
 
 ### Artikel  7.1i  
 
-Als bestand in de vreemdelingenadministratie, bedoeld in [artikel 8.29, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), is aangewezen de Basisvoorziening vreemdelingen. 
+Als bestand in de vreemdelingenadministratie, bedoeld in artikel 8.29, eerste lid, van het Besluit, is aangewezen de Basisvoorziening vreemdelingen. 
 
 ### Artikel  7.1j  
 
@@ -1751,12 +1763,12 @@ De vreemdeling van wie is vastgesteld dat de vingers niet blijvend fysiek bescha
 
 ### Artikel  7.1k  
 
-Als documenten, bedoeld in [artikel 8.32, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen de documenten, bedoeld in artikel 3.3, eerste lid. 
+Als documenten, bedoeld in artikel 8.32, eerste lid, van het Besluit, zijn aangewezen de documenten, bedoeld in artikel 3.3, eerste lid. 
 
 ### Artikel  7.1l  
 
-1.  Als gemachtigden, bedoeld in [artikel 8.34, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen de ambtenaren, bedoeld in artikel 9 van de WPB-regeling Basisvoorziening vreemdelingen.   
-2.  Als gemachtigden, bedoeld in [artikel 8.34, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zijn aangewezen de ambtenaar of medewerker van de ketenpartners, bedoeld in hoofdstuk 2.2 van het Protocol Identificatie en Labeling die uit hoofde van hun functie de verificatie van persoonsgegevens uitvoeren.  
+1.  Als gemachtigden, bedoeld in artikel 8.34, eerste lid, van het Besluit, zijn aangewezen de ambtenaren, bedoeld in artikel 9 van de WPB-regeling Basisvoorziening vreemdelingen.   
+2.  Als gemachtigden, bedoeld in artikel 8.34, derde lid, van het Besluit, zijn aangewezen de ambtenaar of medewerker van de ketenpartners, bedoeld in hoofdstuk 2.2 van het Protocol Identificatie en Labeling die uit hoofde van hun functie de verificatie van persoonsgegevens uitvoeren.  
 
 ### Artikel  7.2  
 
@@ -1764,7 +1776,7 @@ De artikelen 3.1 en 3.2 zijn niet van toepassing op kinderen beneden de leeftijd
 
 ### Artikel  7.2a  
 
-1.  Indien de vreemdeling, bedoeld in [artikel 8.7, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zich aanmeldt voor inschrijving in de vreemdelingenadministratie, legt hij de volgende gegevens en bescheiden over: 
+1.  Indien de vreemdeling, bedoeld in artikel 8.7, eerste lid, van het Besluit, zich aanmeldt voor inschrijving in de vreemdelingenadministratie, legt hij de volgende gegevens en bescheiden over: 
 
 a. een geldige identiteitskaart of een geldig paspoort;  
 
@@ -1772,44 +1784,44 @@ b. voor zover hij in Nederland verblijft als werknemer: een werkgeversverklaring
 
 c. voor zover hij in Nederland verblijft als zelfstandige: een bewijs van inschrijving in het handelsregister en bewijs waaruit blijkt dat hij in Nederland reële en daadwerkelijke arbeid verricht anders dan louter marginaal en bijkomstig van aard, zoals een daartoe strekkende balans, winst- of verliesrekening, maandelijkse opgaven van bedrijfsresultaten of, als de genoemde bewijsstukken nog niet aanwezig zijn, verklaring of prognose, opgesteld door een accountant of financieel adviseur;  
 
-d. voor zover hij in Nederland verblijft als student: een bewijs van inschrijving voor een opleiding, bedoeld in [artikel 8.12, eerste lid, onder c, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een verklaring of een gelijkwaardig middel naar zijn keuze waaruit blijkt hij beschikt over voldoende middelen van bestaan en een bewijs van een verzekering die de ziektekosten in Nederland volledig dekt;  
+d. voor zover hij in Nederland verblijft als student: een bewijs van inschrijving voor een opleiding, bedoeld in artikel 8.12, eerste lid, onder c, van het Besluit, een verklaring of een gelijkwaardig middel naar zijn keuze waaruit blijkt hij beschikt over voldoende middelen van bestaan en een bewijs van een verzekering die de ziektekosten in Nederland volledig dekt;  
 
 e. voor zover hij in Nederland verblijft als economisch niet-actieve: een bewijsstuk waaruit blijkt dat wordt beschikt over toereikende bestaansmiddelen om te voorkomen dat de vreemdeling tijdens het verblijf ten laste komt van de algemene middelen en een bewijs van een verzekering die de ziektekosten in Nederland volledig dekt.     
-2.  Indien de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, zich aanmeldt voor inschrijving in de vreemdelingenadministratie, legt hij de volgende gegevens en bescheiden over: 
+2.  Indien de vreemdeling, bedoeld in artikel 8.7, tweede, derde of vierde lid, van het Besluit, die de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, zich aanmeldt voor inschrijving in de vreemdelingenadministratie, legt hij de volgende gegevens en bescheiden over: 
 
 a. een geldige identiteitskaart of een geldig paspoort;  
 
-b. de verklaring van inschrijving van de vreemdeling, bedoeld in [artikel 8.7, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), bij wie hij in Nederland verblijft;  
+b. de verklaring van inschrijving van de vreemdeling, bedoeld in artikel 8.7, eerste lid, van het Besluit, bij wie hij in Nederland verblijft;  
 
 c. een document waaruit de familierechtelijke relatie of duurzame relatie blijkt met de vreemdeling, bedoeld onder b; en  
 
-d. voor zover hij in Nederland verblijft als familielid als bedoeld in [artikel 8.7, tweede lid, onder c of d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): bewijs dat hij een dergelijk familielid is;  
+d. voor zover hij in Nederland verblijft als familielid als bedoeld in artikel 8.7, tweede lid, onder c of d, van het Besluit: bewijs dat hij een dergelijk familielid is;  
 
-e. voor zover hij in Nederland verblijft als familielid als bedoeld in [artikel 8.7, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): een door de bevoegde instantie van het land van herkomst afgegeven verklaring dat hij ten laste komt van of inwoont bij de vreemdeling, bedoeld onder b, onderscheidenlijk bewijs van ernstige gezondheidsredenen die de persoonlijke zorg door die vreemdeling noodzakelijk maken;  
+e. voor zover hij in Nederland verblijft als familielid als bedoeld in artikel 8.7, derde lid, van het Besluit: een door de bevoegde instantie van het land van herkomst afgegeven verklaring dat hij ten laste komt van of inwoont bij de vreemdeling, bedoeld onder b, onderscheidenlijk bewijs van ernstige gezondheidsredenen die de persoonlijke zorg door die vreemdeling noodzakelijk maken;  
 
-f. voor zover hij in Nederland verblijft als partner als bedoeld in [artikel 8.7, vierde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): een relatieverklaring als bedoeld in bijlage 23 bij deze regeling;  
+f. voor zover hij in Nederland verblijft als partner als bedoeld in artikel 8.7, vierde lid, van het Besluit: een relatieverklaring als bedoeld in bijlage 23 bij deze regeling;  
 
-g. voor zover hij in Nederland verblijft als rechtstreekse bloedverwant in de neergaande lijn, jonger dan 18 jaar, van een partner als bedoeld onder f: bewijs dat is voldaan aan de [artikelen 3.13 tot en met 3.22 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).    
+g. voor zover hij in Nederland verblijft als rechtstreekse bloedverwant in de neergaande lijn, jonger dan 18 jaar, van een partner als bedoeld onder f: bewijs dat is voldaan aan de artikelen 3.13 tot en met 3.22 van het Besluit.    
 
 ### Artikel  7.2b  
 
-Een op het tijdstip van inwerkingtreding van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) geldige verblijfsvergunning, verleend onder een beperking als genoemd in kolom A, wordt vanaf dat tijdstip aangemerkt als een verblijfsvergunning, verleend onder een beperking als genoemd in kolom B:  
+Een op het tijdstip van inwerkingtreding van de Wet modern migratiebeleid geldige verblijfsvergunning, verleend onder een beperking als genoemd in kolom A, wordt vanaf dat tijdstip aangemerkt als een verblijfsvergunning, verleend onder een beperking als genoemd in kolom B:  
 
 | A  | B  |
 |:---|:---|
 | Beschikking conform minister op grond van B20 Vc 2000 eergerelateerd geweld  | Tijdelijke humanitaire gronden  |
 | Beschikking conform minister op grond van B20 Vc 2000 huiselijk geweld  | Tijdelijke humanitaire gronden  |
-| Beschikking conform minister op grond van [B9/12 Vc 2000](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md) slachtoffer van mensenhandel  | Tijdelijke humanitaire gronden  |
-| Beschikking conform minister op grond van [B19 Vc 2000](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md) verblijf op religieuze of levensbeschouwelijke gronden  | Arbeid in loondienst  |
-| Beschikking conform minister op grond van [B7/5](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md) Europees vrijwilligerswerk  | Uitwisseling  |
-| Verblijf in het kader van de [Zetelovereenkomst B12](../../../../../circulaire/vreemdelingencirculaire/2000/(b)/BWBR0012289/README.md)  | Arbeid in loondienst  |
+| Beschikking conform minister op grond van B9/12 Vc 2000 slachtoffer van mensenhandel  | Tijdelijke humanitaire gronden  |
+| Beschikking conform minister op grond van B19 Vc 2000 verblijf op religieuze of levensbeschouwelijke gronden  | Arbeid in loondienst  |
+| Beschikking conform minister op grond van B7/5 Europees vrijwilligerswerk  | Uitwisseling  |
+| Verblijf in het kader van de Zetelovereenkomst B12  | Arbeid in loondienst  |
 | Overgangsregeling langdurig verblijvende kinderen  | Niet-tijdelijke humanitaire gronden  |
 | Definitieve regeling langdurig verblijvende kinderen  | Niet-tijdelijke humanitaire gronden  |
 | Verblijf als alleenstaande minderjarige vreemdeling  | Tijdelijke humanitaire gronden  |
 
 ### Artikel  7.2c  
 
-Op aanvragen om verlening van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), waarbij de vreemdeling in het bezit dient te zijn van een machtiging tot voorlopig verblijf, en de aanvraag om de machtiging tot voorlopig verblijf is ingediend voor inwerkingtreding van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md), is het processuele recht en het bijbehorende legesbedrag van toepassing zoals dat gold op de dag voor inwerkingtreding van de Wet modern migratiebeleid. 
+Op aanvragen om verlening van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, waarbij de vreemdeling in het bezit dient te zijn van een machtiging tot voorlopig verblijf, en de aanvraag om de machtiging tot voorlopig verblijf is ingediend voor inwerkingtreding van de Wet modern migratiebeleid, is het processuele recht en het bijbehorende legesbedrag van toepassing zoals dat gold op de dag voor inwerkingtreding van de Wet modern migratiebeleid. 
 
 ### Artikel  7.3  
 
@@ -1817,7 +1829,7 @@ Het Voorschrift Vreemdelingen wordt ingetrokken.
 
 ### Artikel  7.4  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de Wet in werking treedt.  
 
 ### Artikel  7.5  
 
@@ -2433,12 +2445,12 @@ Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburg
 
 | Kolom A  Administratie  | Kolom B  Gegeven(s) of bescheid  |
 |:---|:---|
-| Het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  | Inschrijving in het Handelsregister  Gegevens over surseance van betaling of faillissement  Gegevens over de doelstelling van een uitwisselingsreferent  Statuten van levensbeschouwelijke of religieuze organisaties  Het gehele bedrijfsprofiel  |
+| Het Handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007  | Inschrijving in het Handelsregister  Gegevens over surseance van betaling of faillissement  Gegevens over de doelstelling van een uitwisselingsreferent  Statuten van levensbeschouwelijke of religieuze organisaties  Het gehele bedrijfsprofiel  |
 | Centraal Insolventieregister  | Gegevens over surséance van betaling of faillissement  |
 | Het Centraal Register Opleidingen Hoger Onderwijs  | Vermelding van de opleiding in het register  |
 | Het openbare register van onderwijsinstellingen die de gedragscode internationale student in het Nederlandse hoger onderwijs hebben ondertekend  | Vermelding van de onderwijsinstelling in het register  |
 | Het openbare register van toegelaten onderwijsinstellingen voor het verzorgen van opleidingen in het kader van het ontwikkelingssamenwerkingsbeleid van het Ministerie van Buitenlandse Zaken  | Vermelding van de onderwijsinstelling in het register  |
-| Het openbare register van toegelaten onderwijsinstellingen die opleidingen faciliteren in het kader van de [Wet op het specifiek cultuurbeleid](../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md)  | Vermelding van de onderwijsinstelling in het register  |
+| Het openbare register van toegelaten onderwijsinstellingen die opleidingen faciliteren in het kader van de Wet op het specifiek cultuurbeleid  | Vermelding van de onderwijsinstelling in het register  |
 | Het National Academic Research and Collaborations Information System  | Vermelding van de onderzoeksinstelling in het informatiesysteem  |
 | Register Normering Arbeid  | Vermelding van het uitzendbureau in het register  |
 
@@ -2449,9 +2461,9 @@ Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburg
 | Kolom A  Administratie  | Kolom B  Gegeven(s) of bescheid  |
 |:---|:---|
 | de BRP  | Bewijs van inschrijving  Bewijs van inschrijving huwelijk  Bewijs van verbreking huwelijk  Bewijs van de burgerlijke staat  Bewijs van de adresgegevens  |
-| De polisadministratie, bedoeld in bijlage I behorend bij [artikel 5.2, eerste lid, besluit SUWI](../../../../../AMvB/besluit/suwi/BWBR0013267/README.md)  | Gegevens ter beoordeling van de hoogte en duurzaamheid van middelen van bestaan, verworven uit arbeid in loondienst als bedoeld in [artikel 3.73, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) of inkomensvervangende uitkeringen als bedoeld in artikel 3.73, eerste lid, onder c, van het Besluit, waaronder:  Afschrift van een arbeidsovereenkomst  Afschrift van een uitzendovereenkomst  Afschrift van een uitkeringsbeschikking  Afschrift van een toekenningsbeschikking van de uitkerende instantie ingevolge de [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [WAZ](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)  Afschrift van een loonstrook  Afschrift van een uitkeringsspecifatie  Afschrift van een jaaropgave  |
+| De polisadministratie, bedoeld in bijlage I behorend bij artikel 5.2, eerste lid, besluit SUWI  | Gegevens ter beoordeling van de hoogte en duurzaamheid van middelen van bestaan, verworven uit arbeid in loondienst als bedoeld in artikel 3.73, eerste lid, onder a, van het Besluit of inkomensvervangende uitkeringen als bedoeld in artikel 3.73, eerste lid, onder c, van het Besluit, waaronder:  Afschrift van een arbeidsovereenkomst  Afschrift van een uitzendovereenkomst  Afschrift van een uitkeringsbeschikking  Afschrift van een toekenningsbeschikking van de uitkerende instantie ingevolge de WAO, WAZ, WIA of Wajong  Afschrift van een loonstrook  Afschrift van een uitkeringsspecifatie  Afschrift van een jaaropgave  |
 | Het register Beroepen in de Individuele Gezondheidszorg  | Vermelding in het register  |
-| Het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  | Uittreksel uit het Handelsregister  |
+| Het Handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007  | Uittreksel uit het Handelsregister  |
 
 ### Bijlage 22 
 

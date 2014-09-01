@@ -3,12 +3,12 @@
 ##Besluit gedifferentieerde premie Whk 2014
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 38 van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
 
-Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) over het jaar 2014 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:  
+Voor de berekening van de gedifferentieerde premie op grond van artikel 38 van de Wet financiering sociale verzekeringen over het jaar 2014 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:  
 
 | --- | --- |
 |:---|:---|
@@ -18,7 +18,7 @@ Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van 
 
 ### Artikel  2  
 
-Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) over het jaar 2014 worden voor de premiecomponent WGA voor vaste dienstbetrekkkingen voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:  
+Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van artikel 38 van de Wet financiering sociale verzekeringen over het jaar 2014 worden voor de premiecomponent WGA voor vaste dienstbetrekkkingen voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:  
 
 | --- | --- |
 |:---|:---|
@@ -34,7 +34,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 ### Artikel  3  
 
-Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) over het jaar 2014 worden voor de premiecomponent WGA voor flexibele dienstbetrekkingen voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:  
+Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van artikel 38 van de Wet financiering sociale verzekeringen over het jaar 2014 worden voor de premiecomponent WGA voor flexibele dienstbetrekkingen voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:  
 
 | --- | --- |
 |:---|:---|
@@ -52,7 +52,7 @@ Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximum
 
 ### Artikel  4  
 
-Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) over het jaar 2014 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:  
+Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van artikel 38 van de Wet financiering sociale verzekeringen over het jaar 2014 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:  
 
 | --- | --- |
 |:---|:---|

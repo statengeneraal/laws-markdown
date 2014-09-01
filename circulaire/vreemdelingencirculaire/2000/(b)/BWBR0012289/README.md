@@ -1717,8 +1717,6 @@ De IND neemt aan dat de vreemdeling zelfstandig en duurzaam beschikt over voldoe
 
 ####Arbeid in loondienst na verblijf als familie- of gezinslid
 
-Treedt in werking per 01-09-2014 
-
 De IND verleent een verblijfsvergunning voor bepaalde tijd regulier onder de beperking ‘arbeid in loondienst’ aan de vreemdeling waarvan het verblijf als familie- of gezinslid is beëindigd, als wordt voldaan aan artikel 3.31, eerste lid, Vb.  
 ### 2.2  
 
@@ -1899,7 +1897,7 @@ De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling behoor
 
 ####Zoekperiode
 
-Op grond van artikel 3.91, eerste lid, Vb, verleent de IND de vreemdeling gedurende de geldigheidsduur van zijn gecombineerde vergunning voor verblijf en arbeid een zoekperiode van drie maanden om een nieuwe arbeidsplaats te vinden als de vreemdeling werkloos raakt.   
+Op grond van artikel 3.91, eerste lid, Vb, verleent de IND de vreemdeling gedurende de geldigheidsduur van zijn gecombineerde vergunning voor verblijf en arbeid een zoekperiode van drie maanden om een nieuwe arbeidsplaats te vinden als de vreemdeling werkloos raakt. In aanvulling op artikel 3.91, eerste lid, Vb verleent de IND ook een zoekperiode van drie maanden om in geval van werkloosheid een nieuwe arbeidsplaats te vinden aan de vreemdeling met een verblijfsvergunning regulier voor bepaalde tijd met als doel ‘arbeid in loondienst’, die geen aanvullend document bevat, gedurende de geldigheidsduur van zijn verblijfsvergunning. De IND trekt de verblijfsvergunning in nadat deze zoekperiode is verstreken. De zoekperiode vangt aan op de dag waarop de arbeidsovereenkomst is ontbonden.    
 ### B6  
 
 ####Kennis en talent

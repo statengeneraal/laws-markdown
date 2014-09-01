@@ -42,7 +42,8 @@ j. een andere begroting, indien die begroting aan de Rijksbegroting wordt toegev
 2.  Begrotingen bestaan uit een begrotingsstaat als bedoeld in artikel 4, eerste lid, waarin zijn opgenomen de begrotingsartikelen, en een bij die staat behorende toelichting.   
 3.  De begrotingsstaten worden elk afzonderlijk bij de wet vastgesteld.   
 4.  In afwijking van het derde lid worden de begrotingsstaten van het Kabinet van de Koning en van de Commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten vastgesteld bij de wet waarmee de departementale begrotingsstaat van het Ministerie van Algemene Zaken wordt vastgesteld.  
-5.  In afwijking van het derde lid kan Onze betrokken Minister besluiten de begrotingsstaat van de departementale begroting en de begrotingsstaat van een begrotingsfonds waarover hij het beheer voert, in één wet te laten vaststellen.  
+5.  In afwijking van het derde lid kan Onze betrokken Minister besluiten de begrotingsstaat van de departementale begroting en de begrotingsstaat van een begrotingsfonds waarover hij het beheer voert, in één wet te laten vaststellen.   
+6.  In afwijking van het derde lid wordt de begrotingsstaat van nationale schuld vastgesteld bij de wet waarmee de departementale begrotingsstaat van het Ministerie van Financiën wordt vastgesteld. 
 
 ### Artikel  2  
 
@@ -61,7 +62,9 @@ b. de niet-geldelijke betalingen en ontvangsten in dat jaar, bedoeld in artikel 
 
 c. de verrekeningen, bedoeld in artikel 31, eerste lid, die in dat jaar plaatsvinden;  
 
-d. de toevoegingen en onttrekkingen aan een begrotingsreserve als bedoeld in artikel 5, vierde lid.     
+d. de toevoegingen en onttrekkingen aan een begrotingsreserve als bedoeld in artikel 5, vierde lid;  
+
+e. de toevoegingen en onttrekkingen aan een kasreserve als bedoeld in artikel 11a, zevende lid.    
 2.  Als verplichting van een jaar wordt geraamd het bedrag van de verplichting die in dat jaar rechtstreeks ontstaat op grond van een verdrag, een wet, een koninklijk besluit, een ministeriële regeling, een beschikking, een verbintenis of een op een controleerbare wijze vastgelegde afspraak tussen dienstonderdelen en die in dat jaar dan wel in een later jaar tot uitgaven leidt of kan leiden.   
 3.  In afwijking van het tweede lid kan als verplichting van een jaar worden opgenomen het bedrag dat in dat jaar als uitgave wordt geraamd met betrekking tot: 
 
@@ -92,31 +95,11 @@ e. bruto het bedrag dat aan ontvangsten in het begrotingsjaar geraamd wordt.
 
 ### Artikel  5  
 
-1.  De toelichting bij de begrotingsstaat biedt per beleidsartikel in elk geval inzicht in de met het beleid samenhangende: 
-
-a. algemene en indien van toepassing nader geoperationaliseerde doelstellingen die worden nagestreefd;  
-
-b. instrumenten die ter bereiking van die doelstellingen worden ingezet;  
-
-c. meerjarig beschikbare bedragen voor het aangaan van verplichtingen;  
-
-d. meerjarig beschikbare bedragen voor het verrichten van programma-uitgaven;  
-
-e. meerjarig beschikbare bedragen voor het verrichten van apparaatsuitgaven;  
-
-f. meerjarige bedragen die aan ontvangsten zijn geraamd.     
-2.  Het meerjarige inzicht dient, uitgaande van jaar t als begrotingsjaar, betrekking te hebben op het jaar t-2 tot en met het jaar t+4, dat wil zeggen op de periode lopende van twee jaar voorafgaand tot en met vier jaar volgend op het begrotingsjaar.   
-3.  De toelichting bij de begrotingsstaat bevat per beleidsartikel: 
-
-a. doeltreffendheidsgegevens over de in het eerste lid bedoelde algemene en/of nader geoperationaliseerde doelstellingen, alsmede gegevens over de doelmatigheid van het beleid, alle al dan niet verkregen uit beleidsevaluatieonderzoek;  
-
-b. waar mogelijk doelmatigheidsgegevens, al dan niet verkregen uit beleidsevaluatieonderzoek, voor de in het eerste lid bedoelde apparaatsuitgaven;  
-
-c. informatie over de mate waarin de meerjarig beschikbare bedragen voor het verrichten van uitgaven juridisch verplicht of anderszins gebonden zijn;  
-
-d. informatie over de veronderstellingen in effectbereiking, doelmatigheid en raming.     
-4.  Met toestemming van Onze Minister van Financiën kan ten laste van een beleidsartikel een meerjarige begrotingsreserve worden aangehouden.   
-5.  De toelichting bij een beleidsartikel ten laste waarvan een begrotingsreserve wordt aangehouden, vermeldt de motieven voor het aanhouden ervan en biedt inzicht in de omvang van de reserve, alsmede zo mogelijk in de toevoeging en of onttrekking aan de reserve die in het begrotingsjaar worden verwacht.  
+1.  De toelichting bij de begrotingsstaat biedt in algemene zin of per begrotingsartikel inzicht in relevante met de beleids- en bedrijfsvoering samenhangende aspecten, waarvoor Onze betrokken Minister mede op grond van de artikelen 20 en 21 verantwoordelijk is.   
+2.  Onze Minister van Financiën schrijft met toepassing van artikel 18, eerste lid, aanhef en onder a, de relevante aspecten, bedoeld in het eerste lid, voor.   
+3.  Vervallen.   
+4.  Met toestemming van Onze Minister van Financiën kan ten laste van een begrotingsartikel een meerjarige begrotingsreserve worden aangehouden.   
+5.  De toelichting bij een begrotingsartikel ten laste waarvan een begrotingsreserve wordt aangehouden, vermeldt de motieven voor het aanhouden ervan en biedt inzicht in de omvang van de reserve, alsmede zo mogelijk in de toevoeging en of onttrekking aan de reserve die in het begrotingsjaar worden verwacht.  
 
 ### Artikel  6  
 
@@ -129,15 +112,7 @@ b. een begrotingsartikel met de omschrijving *Geheim* voor de verplichtingen, ui
 c. een administratief begrotingsartikel met de omschrijving*Nominaal en onvoorzien*.     
 2.  De bij het administratieve begrotingsartikel *Nominaal en onvoorzien* opgenomen bedragen voor verplichtingen en voor uitgaven kunnen zowel positief als negatief zijn.   
 3.  Ten laste van het begrotingsartikel *Nominaal en onvoorzien* kunnen geen uitgaven worden gedaan en verplichtingen worden aangegaan; de bedragen worden bij een wijziging van de begroting toegedeeld aan een ander begrotingsartikel en wel zodanig dat in het betrokken jaarverslag de gerealiseerde bedragen bij het begrotingsartikel *Nominaal en onvoorzien* uitkomen op nihil.    
-4.  De toelichting bij de begrotingsstaat biedt per niet-beleidsartikel meerjarig in elk geval inzicht in: 
-
-a. de beschikbare bedragen voor het aangaan van verplichtingen;  
-
-b. de beschikbare bedragen voor het verrichten van programma-uitgaven;  
-
-c. de beschikbare bedragen voor het doen van apparaatsuitgaven;  
-
-d. de bedragen die aan ontvangsten zijn geraamd.   Artikel 5, tweede lid, is van toepassing.   
+4.  Vervallen.   
 5.  In afwijking van het eerste lid en in overeenstemming met Onze Minister van Financiën kan een begroting andere niet-beleidsartikelen bevatten.  
 
 ### Artikel  7  
@@ -164,15 +139,13 @@ h. de uitgaven en ontvangsten van het personeel en het materieel met betrekking 
 
 ### Artikel  8  
 
-1.  De begroting van de Koning bevat de uitkeringen aan de leden van het koninklijk huis, alsmede de uitgaven die functioneel samenhangen met het koningschap. De begrotingsartikelen waarin die uitkeringen worden opgenomen hebben het karakter van een niet-beleidsartikel.   
-2.  In overeenstemming met Onze Minister van Financiën kan de toepassing van artikel 5 op een of meer van de begrotingen van de colleges, genoemd in artikel 1, eerste lid, onder e tot en met h, gelet op de staatsrechtelijke positie van de colleges, geheel of gedeeltelijk achterwege blijven.  
+De begroting van de Koning bevat de uitkeringen aan de leden van het koninklijk huis, alsmede de uitgaven die functioneel samenhangen met het koningschap. De begrotingsartikelen waarin die uitkeringen worden opgenomen hebben het karakter van een niet-beleidsartikel. 
 
 ### Artikel  9  
 
 1.  Ten behoeve van een afzonderlijk beheer van ontvangsten en uitgaven van het Rijk kan een begrotingsfonds worden ingesteld.   
 2.  De instelling van een begrotingsfonds geschiedt bij de wet.   
-3.  De wet tot instelling van een begrotingsfonds bepaalt de aard van de uitgaven en van de ontvangsten van het betrokken fonds, de bestemming van een batig dan wel de aanvulling van een nadelig jaarsaldo van het fonds, alsmede wie van Onze Ministers verantwoordelijk is voor het beheer van de begroting van het fonds.   
-4.  In overeenstemming met Onze Minister van Financien kan de toepassing van de artikelen 5 en 6 op de begroting van een begrotingsfonds geheel of gedeeltelijk achterwege blijven. In het geval artikel 5 niet wordt toegepast, worden de begrotingsartikelen van het betrokken begrotingsfonds geacht het karakter van een niet-beleidsartikel te hebben.  
+3.  De wet tot instelling van een begrotingsfonds bepaalt de aard van de uitgaven en van de ontvangsten van het betrokken fonds, de bestemming van een batig dan wel de aanvulling van een nadelig jaarsaldo van het fonds, alsmede wie van Onze Ministers verantwoordelijk is voor het beheer van de begroting van het fonds.  
 
 ### Artikel  9a  
 
@@ -207,6 +180,21 @@ b. het geraamde saldo van baten en lasten;
 c. het totaal van de geraamde kapitaaluitgaven en van de geraamde kapitaalontvangsten.     
 4.  Tot de uitgaven en ontvangsten in een jaar van een baten-lastendienst en van een ministerie worden, behalve die bedoeld in artikel 3, eerste lid, ook gerekend de verrekeningen tussen de baten-lastendienst en het ministerie waaronder die dienst ressorteert.   
 5.  In afwijking van artikel 14, tweede lid, mogen alle wijzigingen in de bedragen, bedoeld in het derde lid van dit artikel, worden opgenomen als slotwetwijzigingen.  
+
+###Paragraaf 2a 
+
+####De verplichtingen-kasagentschappen
+
+### Artikel  11a  
+
+1.  Indien voor een dienstonderdeel van een ministerie een afwijkend beheer wenselijk is, kan Onze betrokken Minister in overeenstemming met Onze Minister van Financiën besluiten dat dienstonderdeel in te richten als een verplichtingen-kasagentschap.   
+2.  Een verplichtingen-kasagentschap is een dienstonderdeel waarvoor beheersregels gelden die afwijken van zowel de regels die gelden voor reguliere dienstonderdelen als van de regels die gelden voor baten-lastendiensten.   
+3.  Op een besluit als bedoeld in het eerste lid, is artikel 10, tweede tot en met vijfde en zevende lid, van overeenkomstige toepassing.   
+4.  De artikelen 11, eerste, tweede, vierde en vijfde lid, en 52, tweede lid, zijn op een verplichtingen-kasagentschap van overeenkomstige toepassing.   
+5.  In de aparte staat in de begroting voor de verplichtingen-kasagentschappen wordt voor elk verplichtingen-kasagentschap het totaal van de geraamde financiële verplichtingen, het totaal van de geraamde uitgaven en het totaal van de geraamde ontvangsten opgenomen.   
+6.  In de aparte staat in het departementaal jaarverslag voor de verplichtingen-kasagentschappen wordt voor elk verplichtingen-kasagentschap het totaal van de gerealiseerde financiële verplichtingen, het totaal van de gerealiseerde uitgaven en het totaal van de gerealiseerde ontvangsten opgenomen.   
+7.  Een verplichtingen-kasagentschap kan met instemming van Onze Minister van Financiën en onder door hem te stellen voorwaarden een kasreserve aanhouden.   
+8.  Onze Minister van Financiën stelt nadere regels met betrekking tot verplichtingen-kasagentschappen.  
 
 ### Paragraaf  3  
 
@@ -284,7 +272,7 @@ b. de instrumenten die ter bereiking van de doelstellingen worden ingezet;
 
 c. de financiële gevolgen voor het Rijk en, waar mogelijk, de financiële gevolgen voor andere maatschappelijke sectoren.     
 2.  In het afzonderlijk onderdeel van de toelichting wordt tevens aangegeven in hoeverre de financiële gevolgen voor het Rijk meerjarig zijn begrepen in de laatste bij de Tweede Kamer ingediende begroting.   
-3.  De doelstellingen en de financiële gevolgen worden zoveel mogelijk toegelicht met prestatiegegevens als bedoeld in artikel 5, derde lid.  
+3.  De doelstellingen en de financiële gevolgen worden zoveel mogelijk toegelicht met prestatiegegevens.  
 
 ### Paragraaf  6  
 
@@ -378,6 +366,20 @@ b. voor het verrichten van uitgaven beschikken over de bedragen die in het voors
 6.  Onze Minister van Financiën kan ten behoeve van een doelmatig en risico-arm kasbeheer aan derden voor zover deze collectieve middelen beheren, toestaan deze middelen in rekening-courant aan te houden bij het Ministerie van Financiën.   
 7.  Over een debet- en een creditstand van een rekening-courant kan door Onze Minister van Financiën een rentevergoeding worden vastgesteld.  
 
+### Artikel  24a  
+
+1.  Voor de toepassing van dit artikel wordt onder subsidieregeling verstaan een algemene maatregel van bestuur of een ministeriële regeling op grond waarvan een subsidie kan worden verstrekt, waarop ingevolge artikel 4:21 van de Algemene wet bestuursrecht titel 4.2 van die wet van toepassing is.   
+2.  Een subsidieregeling van het Rijk bevat een tijdstip waarop die regeling vervalt. Dit tijdstip valt niet later dan het tijdstip waarop na de inwerkingtreding van die regeling vijf jaren zijn verstreken.   
+3.  Een regeling die strekt tot het verstrekken van subsidie onder in belangrijke mate dezelfde criteria voor in belangrijke mate dezelfde activiteiten als een in overeenstemming met het tweede lid vervallen regeling, wordt niet eerder vastgesteld dan 30 dagen nadat het ontwerp van die regeling met motieven omkleed aan de Tweede Kamer der Staten-Generaal is overgelegd.   
+4.  Een regeling die strekt tot wijziging van het tijdstip waarop een subsidieregeling vervalt, wordt niet eerder vastgesteld dan 30 dagen nadat het ontwerp van die regeling met motieven omkleed aan de Tweede Kamer der Staten-Generaal is overgelegd.   
+5.  In afwijking van het tweede lid, tweede volzin, kan een subsidieregeling een tijdstip bevatten waarop de regeling vervalt, dat is gelegen later dan vijf jaren, doch niet later dan tien jaren, na de inwerkingtreding van de regeling, indien: 
+
+a. uit de toelichting van de regeling blijkt dat het vervallen van de regeling binnen vijf jaren na inwerkingtreding ervan, gelet op de activiteiten waarvoor de subsidie wordt verleend, afbreuk doet aan de effectiviteit van die activiteiten, en  
+
+b. door Onze betrokken Minister gedurende de looptijd van de regeling een verslag over de doeltreffendheid en de doelmatigheid van de subsidie aan de Tweede Kamer der Staten-Generaal wordt gezonden.   Een dergelijke regeling wordt niet eerder vastgesteld dan 30 dagen nadat het ontwerp van die regeling met motieven omkleed aan de Tweede Kamer der Staten-Generaal is overgelegd.   
+6.  Indien binnen de in het vijfde lid genoemde termijn van 30 dagen door of namens de Tweede Kamer der Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van de Tweede Kamer de wens te kennen wordt gegeven nadere inlichtingen te ontvangen over het ontwerp van de regeling, zal deze niet worden vastgesteld dan nadat deze inlichtingen zijn verstrekt.   
+7.  Subsidieregelingen die eindigen op of na 1 juli 2014 en subsidieregelingen die geen einddatum kennen bij inwerkingtreding van dit artikel worden voorzien van een vervaldatum die niet later ligt dan 1 juli 2017, tenzij het ontwerp van een subsidieregeling daartoe met overeenkomstige toepassing van het vijfde lid met een langere geldingsduur aan de Tweede Kamer is overgelegd.  
+
 ### Paragraaf  3.2  
 
 ####Het materieelbeheer
@@ -387,7 +389,8 @@ b. voor het verrichten van uitgaven beschikken over de bedragen die in het voors
 1.  Het materieelbeheer voldoet aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid en wordt overigens zo doelmatig mogelijk ingericht.   
 2.  De verantwoordelijkheid voor het materieelbeheer omvat voor ieder van Onze Ministers zowel het materieel dat aan zijn ministerie toebehoort als het materieel dat aan zijn ministerie is toevertrouwd.   
 3.  De verantwoordelijkheid voor het materieelbeheer strekt zich voor ieder van Onze Ministers slechts uit tot het beheer dat niet bij of krachtens de wet aan een of meer van Onze andere Ministers is opgedragen.   
-4.  Onze Minister van Financiën is verantwoordelijk voor het beheer van het overtollige materieel bij het Rijk.   
+4.  Onze Minister van Financiën is verantwoordelijk voor het beheer van de overtollige roerende zaken bij het Rijk.   
+5.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor het beheer van de overtollige onroerende zaken bij het Rijk. 
 
 ### Paragraaf  3.3  
 
@@ -459,7 +462,7 @@ d. het deel van de raming van de uitgaven waarvoor nog geen verplichtingen zijn 
 ### Artikel  32  
 
 1.  Onze Ministers, ieder met betrekking tot de begrotingen waarvoor hij verantwoordelijk is, verrichten namens de Staat de privaatrechtelijke rechtshandelingen die uit het te voeren beheer voortvloeien, tenzij bij of krachtens de wet is bepaald dat een van Onze andere Ministers de rechtshandeling verricht.   
-2.  Onze Minister van Financiën is verantwoordelijk voor het privaatrechtelijke beheer van de roerende en de onroerende zaken die aan de Staat toebehoren dan wel zijn toevertrouwd, een en ander voor zover voor dat beheer niet bij of krachtens de wet een of meer van Onze andere Ministers verantwoordelijk zijn gesteld.   
+2.  Onze Minister van Financiën is verantwoordelijk voor het privaatrechtelijk beheer van de roerende zaken die aan de Staat toebehoren dan wel zijn toevertrouwd en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor het privaatrechtelijk beheer van de onroerende zaken die aan de Staat toebehoren dan wel zijn toevertrouwd, een en ander voor zover voor dat beheer niet bij of krachtens de wet een of meer van Onze andere Ministers verantwoordelijk zijn gesteld.   
 3.  In afwijking van het eerste lid kunnen de privaatrechtelijke rechtshandelingen, voor zover die voortvloeien uit het beheer van de begroting van de colleges, genoemd in artikel 1, eerste lid, onder e tot en met h, worden verricht door de colleges en wel ieder met betrekking tot hun begroting of hun begrotingsdeel, tenzij bij of krachtens de wet is bepaald dat een andere Minister dan Onze betrokken Minister de rechtshandeling verricht.   
 4.  Privaatrechtelijke rechtshandelingen kunnen namens Onze Ministers dan wel namens de colleges, bedoeld in het derde lid, worden verricht, indien zij daartoe een algemene of bijzondere volmacht hebben verleend.  
 
@@ -472,11 +475,41 @@ Onze Minister van Financiën sluit overeenkomsten tot het aangaan van geldlening
 1.  Het oprichten of mede-oprichten, dan wel het doen oprichten van een privaatrechtelijke rechtspersoon door de Staat zal niet eerder plaatsvinden dan 30 dagen, nadat van het voornemen daartoe door Onze betrokken Minister, in overeenstemming met het oordeel van de ministerraad, schriftelijk mededeling is gedaan aan de Staten-Generaal.   
 2.  Het oordeel van de ministerraad wordt door Onze betrokken Minister niet gevraagd, dan nadat hij met de Algemene Rekenkamer overleg heeft gevoerd over de voorgenomen rechtshandeling.   
 3.  Indien binnen de in het eerste lid genoemde termijn door of namens een der Kamers van de Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van een der Kamers de wens te kennen wordt gegeven nadere inlichtingen te ontvangen over de voorgenomen rechtshandeling, zal deze niet eerder plaatsvinden dan nadat deze inlichtingen zijn verstrekt.   
-4.  Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van de bedoelde inlichtingen, als haar oordeel uitspreekt dat de voorgenomen rechtshandeling een voorafgaande machtiging bij de wet behoeft, zal de rechtshandeling eerst plaatsvinden nadat die machtiging is verleend.   
-5.  Deelneming door de Staat in een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, waarvan de Staat ten minste 5% van het geplaatste aandelenkapitaal houdt dan wel door die deelneming zal verkrijgen, zal, indien daarmede een groter financieel belang is gemoeid dan een door Onze Minister van Financiën vast te stellen bedrag, niet eerder plaatsvinden dan 30 dagen nadat van het voornemen daartoe aan de Staten-Generaal schriftelijk mededeling is gedaan. Het derde en vierde lid zijn van overeenkomstige toepassing.   
-6.  Het vijfde lid is tevens van toepassing op verstrekking van in aandelen converteerbare leningen door de Staat aan een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, waarvan de Staat ten minste 5% van het geplaatste aandelenkapitaal heeft dan wel door die verstrekking zou verkrijgen in geval onmiddellijk conversie zou plaatsvinden, indien met die verstrekking een groter financieel belang is gemoeid dan een door Onze Minister van Financiën vast te stellen bedrag.   
-7.  Het vijfde en zesde lid zijn niet van toepassing, indien de Staat met een deelneming of een verstrekking niet beoogt zijn relatieve belang in een in die leden bedoelde vennootschap alsdan of in de toekomst een verhoging te laten ondergaan.   
-8.  Van andere dan in het vijfde lid bedoelde deelnemingen, van andere dan in het zesde lid bedoelde verstrekkingen, van in het zevende lid bedoelde deelnemingen en verstrekkingen alsmede van het geheel of gedeeltelijk vervreemden van deelnemingen en van in aandelen converteerbare leningen door de Staat doet Onze desbetreffende Minister na het verrichten van de rechtshandeling schriftelijk mededeling aan de Staten-Generaal.  
+4.  Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van de bedoelde inlichtingen, als haar oordeel uitspreekt dat de voorgenomen rechtshandeling een voorafgaande machtiging bij de wet behoeft, zal de rechtshandeling eerst plaatsvinden nadat die machtiging is verleend.  
+
+### Artikel  34a  
+
+De procedure, bedoeld in artikel 34, eerste, derde en vierde lid, is tevens van toepassing op een voornemen tot het verrichten van de volgende privaatrechtelijke rechtshandelingen door de Staat: 
+
+a. het verstrekken aan een privaatrechtelijke rechtspersoon van eigen vermogen, van leningen met wezenlijke kenmerken van eigen vermogen of van garanties ten aanzien van de omvang van het eigen vermogen;  
+
+b. het overnemen van schuldtitels of aandelen van een privaatrechtelijke rechtspersoon die door een derde partij worden gehouden;  
+
+c. het overnemen van risico’s van financiële activa van een privaatrechtelijke rechtspersoon, indien dat overnemen bedoeld is ter versterking van de solvabiliteit van de privaatrechtelijke rechtspersoon.   
+
+### Artikel  34b  
+
+1.  De procedure, bedoeld in artikel 34, eerste, derde en vierde lid, is niet van toepassing op een voornemen tot het verrichten van een privaatrechtelijke rechtshandeling, bedoeld in artikel 34, eerste lid, en in artikel 34a, aanhef en onder a tot en met c, indien: 
+
+a. een wettelijke regeling voorziet in een rechtsgrond specifiek voor het verrichten van die rechtshandeling;  
+
+b. het verstrekken van eigen vermogen voortvloeit uit een eerder verstrekte garantie als bedoeld in artikel 34a, aanhef en onder a;  
+
+c. een rechtshandeling niet ten doel heeft het relatieve belang van de Staat in het eigen vermogen van de betrokken rechtspersoon te verhogen;  
+
+d. het volgen van de procedure, bedoeld in artikel 34, eerste, derde en vierde lid, strijdig is met een wettelijke regeling;  
+
+e. met de rechtshandeling een geringer financieel belang is gemoeid dan een door Onze Minister van Financiën vast te stellen bedrag, dat voor de verschillende categorieën rechtshandelingen verschillend kan worden vastgesteld.     
+2.  Over een voorstel van een wettelijke regeling als bedoeld in het eerste lid, aanhef en onder a, wordt, indien dat voorstel betrekking heeft op rechtshandelingen, bedoeld in artikel 34, eerste lid, vóór de indiening van het voorstel bij de Tweede Kamer met de Algemene Rekenkamer overleg gevoerd.  
+
+### Artikel  34c  
+
+1.  Onze Minister van Financiën informeert de Staten-Generaal jaarlijks over het te voeren en gevoerde beleid met betrekking tot: 
+
+a. het verwerven, het bezit en het vervreemden van vermogen in privaatrechtelijke rechtspersonen, indien aan dat vermogen wezenlijke kenmerken van eigen vermogen zijn verbonden;  
+
+b. het overnemen, het beheer en het afstoten van risico’s van financiële activa, bedoeld in artikel 34a, onder c.     
+2.  De verstrekte informatie bevat met betrekking tot het vervreemden van vermogen, bedoeld in het eerste lid, onder a, en het overdragen van risico’s, bedoeld in het eerste lid, onder b, in elk geval de daarbij te hanteren of gehanteerde uitgangspunten.  
 
 ### Artikel  35  
 
@@ -508,7 +541,7 @@ c.het verrichten van privaatrechtelijke rechtshandelingen en kan worden voorgesc
 
 ### Artikel  38  
 
-1.  Onze Minister van Financiën stelt regels met betrekking tot het financieel beheer, het materieelbeheer en de administraties die ten behoeve van dat beheer worden bijgehouden.   
+1.  Onze Minister van Financiën stelt regels met betrekking tot het financieel beheer, het materieelbeheer en de administraties die ten behoeve van dat beheer worden bijgehouden. Voor zover de regels inzake het materieelbeheer betrekking hebben op onroerend materieel worden die regels gesteld door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 2.  Onze Minister van Financiën kan regels stellen met betrekking tot: 
 
 a. de taken en bevoegdheden die behoren bij de verantwoordelijkheden, bedoeld in de artikelen 20 en 21;  
@@ -642,10 +675,6 @@ Onze Minister van Financiën kan nadere regels stellen met betrekking tot het be
 
 ####De verantwoording van het Rijk
 
-### Artikel  50  
-
-Onze Minister van Financiën biedt uiterlijk op 1 maart na afloop van elk jaar aan de Staten-Generaal de Voorlopige Rekening aan, waarin een overzicht wordt gegeven van de voorlopige stand van de gerealiseerde bedragen aan uitgaven en ontvangsten. 
-
 ### Artikel  51  
 
 1.  Onze Ministers leggen na afloop van een begrotingsjaar verantwoording af over het gevoerde beleid en de bedrijfsvoering aan de hand van: 
@@ -684,38 +713,14 @@ e. bruto het bedrag dat aan ontvangsten in de begrotingsstaat behorende bij de o
 
 ### Artikel  54  
 
-1.  De toelichting bij de verantwoordingsstaat biedt per beleidsartikel in elk geval inzicht in de met het beleid samenhangende: 
-
-a. algemene en indien van toepassing nader geoperationaliseerde doelstellingen die zijn nagestreefd en in de mate waarin deze zijn gerealiseerd;  
-
-b. instrumenten die ter bereiking van de doelstellingen zijn ingezet;  
-
-c. meerjarige bedragen van de aangegane verplichtingen;  
-
-d. meerjarige bedragen van de verrichte programma-uitgaven;  
-
-e. meerjarige bedragen van de verrichte apparaatsuitgaven;  
-
-f. meerjarige bedragen van de gerealiseerde ontvangsten;    waarbij voor de onderdelen c tot en met f voor het verslagjaar t ter vergelijking de overeenkomstige ramingen uit de ontwerp-begroting daarnaast worden gesteld. Opmerkelijke verschillen worden toegelicht.   
+1.  De toelichting bij de verantwoordingsstaat biedt in algemene zin of per begrotingsartikel inzicht in de relevante met de beleids- en bedrijfsvoering samenhangende aspecten, waaraan in de toelichting bij de begrotingsstaat, bedoeld in artikel 5, eerste lid, aandacht is geschonken.   
 2.  Het meerjarige inzicht dient, uitgaande van jaar t als verslagjaar, betrekking te hebben op de jaren t-4 tot en met jaar t, dat wil zeggen op de periode lopende van vier jaar voorafgaand aan het verslagjaar tot en met het verslagjaar.   
-3.  In aansluiting op artikel 5, derde lid, bevat een jaarverslag per beleidsartikel de realisatiegegevens met betrekking tot de doeltreffendheidsgegevens, gegevens over de doelmatigheid van beleid, beide al dan niet verkregen uit beleidsevaluatieonderzoeken en de doelmatigheidsgegevens over de apparaatsuitgaven, waarbij deze gegevens geconfronteerd worden met de in de ontwerp-begroting opgenomen ramingen. Opmerkelijke verschillen worden toegelicht.   
-4.  Indien met toepassing van artikel 5, vierde lid, een begroting een beleidsartikel bevat ten laste waarvan een meerjarige begrotingsreserve wordt aangehouden, biedt het jaarverslag voor dat beleidsartikel inzicht in de gerealiseerde omvang van de reserve, alsmede in de toevoeging en of de onttrekking aan de reserve in het verslagjaar.   
+3.  Vervallen.   
+4.  Indien met toepassing van artikel 5, vierde lid, een begroting een begrotingsartikel bevat ten laste waarvan een meerjarige begrotingsreserve wordt aangehouden, biedt het jaarverslag voor dat begrotingsartikel inzicht in de gerealiseerde omvang van de reserve, alsmede in de toevoeging en of de onttrekking aan de reserve in het verslagjaar.   
 5.  Indien een specifieke uitkering als bedoeld in artikel 15a, eerste lid, van de Financiële-verhoudingswet of een bijzondere uitkering als bedoeld in artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba wordt gevormd door bijdragen uit verschillende begrotingen als bedoeld in artikel 1, dan wordt de informatie, bedoeld in het eerste tot en met het derde lid, opgenomen in de toelichting bij het betrokken beleidsartikel in het jaarverslag van Onze Minister die als eerste verantwoordelijk is voor die uitkering.   
 6.  Onze Minister van Financiën kan nadere regels stellen met betrekking tot de informatie die Onze overige verantwoordelijke Minister(s) in hun jaarverslag opnemen. 
 
 ### Artikel  55  
-
-De toelichting bij de verantwoordingsstaat biedt per niet-beleidsartikel meerjarig in elk geval inzicht in: 
-
-a. de bedragen van de aangegane verplichtingen;  
-
-b. de bedragen van de verrichte programma-uitgaven;  
-
-c. de bedragen van de verrichte apparaatsuitgaven;  
-
-d. de bedragen van de gerealiseerde ontvangsten;   waarbij voor het verslagjaar t ter vergelijking de overeenkomstige ramingen uit de ontwerp-begroting daarnaast worden gesteld. Opmerkelijke verschillen worden toegelicht.  Artikel 54, tweede lid is van toepassing.  
-
-### Artikel  55a  
 
 1.  Indien voor een specifieke uitkering als bedoeld in artikel 15a, eerste en derde lid, van de Financiële-verhoudingswet of een bijzondere uitkering als bedoeld in artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba geen jaarlijkse verantwoording verplicht is gesteld aan de ontvanger van de uitkering, volstaat Onze Minister wie het aangaat met het opnemen in het jaarverslag, bedoeld in artikel 51, van die verantwoordingsinformatie, die volgens het wettelijk voorschrift aan Onze Minister moet worden verstrekt.   
 2.  Onze Minister van Financiën kan nadere regels stellen met betrekking tot de verantwoordingsinformatie.  
@@ -753,7 +758,7 @@ b. de erin opgenomen balansposten zijn rechtmatig tot stand gekomen.
 
 1.  Onze Ministers zenden het jaarverslag en de departementale saldibalans waarvoor zij verantwoordelijk zijn, te zamen met de ontwerp-slotwet en het samenvattende rapport, bedoeld in artikel 66, vijfde lid, aan Onze Minister van Financiën uiterlijk op een door hem te bepalen datum in de maand maart van het jaar volgend op het begrotingsjaar.   
 2.  Onze Minister van Financiën zendt deze stukken zo mogelijk binnen 14 dagen na ontvangst naar de Algemene Rekenkamer, voorzien van de opmerkingen waartoe deze stukken hem aanleiding geven. Zijn opmerkingen stuurt Onze Minister van Financiën tevens aan Onze betrokken Ministers.   
-3.  Onze Ministers zenden binnen 14 dagen na de datum, bedoeld in het eerste lid, aan de Algemene Rekenkamer en aan Onze Minister van Financiën een overzicht, waarin per begrotingsartikel de controlebevindingen van de accountantsdiensten zijn opgenomen.   
+3.  Onze Ministers zenden binnen 14 dagen na de datum, bedoeld in het eerste lid, aan de Algemene Rekenkamer en aan Onze Minister van Financiën een overzicht, waarin per begrotingsartikel de controlebevindingen van de auditdienst van het Rijk zijn opgenomen.   
 
 ### Artikel  61  
 
@@ -764,9 +769,7 @@ a. beschouwingen over de budgettaire betekenis van het gevoerde beleid voor het 
 
 b. een beschouwing over de bedrijfsvoering van het Rijk;  
 
-c. de rekening van uitgaven en ontvangsten van het Rijk, voorzien van een toelichting;  
-
-d. een balans van de bezittingen, de vorderingen en de schulden van de Staat naar de toestand per 31 december van het verslagjaar met een toelichting, waaruit onder meer blijkt naar welke grondslagen deze zijn gewaardeerd.     
+c. de rekening van uitgaven en ontvangsten van het Rijk, voorzien van een toelichting.     
 3.  De in het Financieel jaarverslag van het Rijk opgenomen rekening van uitgaven en ontvangsten sluit aan op in de departementale en niet-departementale jaarverslagen opgenomen verantwoordingsstaten.   
 4.  De Saldibalans van het Rijk sluit aan op de departementale saldibalansen.  
 
@@ -799,7 +802,7 @@ Onze Minister van Financiën zendt uiterlijk op 21 april van het jaar volgend op
 
 ### Artikel  66  
 
-1.  Onze Ministers, ieder met betrekking tot de begrotingen waarvoor hij verantwoordelijk is, dragen aan de accountantsdienst van hun ministerie de controle op van: 
+1.  Onze Ministers, ieder met betrekking tot de begrotingen waarvoor hij verantwoordelijk is, dragen aan de auditdienst van het Rijk de controle op van: 
 
 a. het gevoerde financieel en materieelbeheer;  
 
@@ -810,19 +813,19 @@ c. de financiële informatie in de jaarverslagen, bedoeld in artikel 51;
 d. de departementale saldibalansen;  
 
 e. de totstandkoming van de informatie over het gevoerde beleid en de bedrijfsvoering.     
-2.  De accountantsdienst onderzoekt of het financieel beheer, het materieelbeheer en de ten behoeve van dat beheer bijgehouden administraties voldoen aan de eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid, gesteld in artikel 22, eerste lid, respectievelijk artikel 25, eerste lid, en artikel 26, eerste lid.   
-3.  Van een jaarverslag onderzoekt de accountantsdienst: 
+2.  De auditdienst van het Rijk onderzoekt of het financieel beheer, het materieelbeheer en de ten behoeve van dat beheer bijgehouden administraties voldoen aan de eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid, gesteld in artikel 22, eerste lid, respectievelijk artikel 25, eerste lid, en artikel 26, eerste lid.   
+3.  Van een jaarverslag onderzoekt de auditdienst van het Rijk: 
 
 a. of dit overeenkomstig de verslaggevingsvoorschriften inzake de financiële informatie is opgesteld;  
 
 b. of voldaan is aan de in artikel 58, eerste lid, onder a en b, gestelde eisen.     
-4.  Van een departementale saldibalans onderzoekt de accountantsdienst: 
+4.  Van een departementale saldibalans onderzoekt de auditdienst van het Rijk: 
 
 a. of deze overeenkomstig de verslaggevingsvoorschriften is opgesteld;  
 
 b. of voldaan is aan de in artikel 59 gestelde eisen.     
-5. De resultaten van de controle worden jaarlijks vastgelegd in rapporten die zijn gericht aan Onze betrokken Minister. Het samenvattende rapport bevat, behalve de belangrijkste bevindingen van de controle, een accountantsverklaring. 
-6. De in het vijfde lid bedoelde accountantsverklaring heeft betrekking op:
+5. De resultaten van de controle worden jaarlijks vastgelegd in rapporten die zijn gericht aan Onze betrokken Minister. Het samenvattende rapport bevat, behalve de belangrijkste bevindingen van de controle, een controleverklaring. 
+6. De in het vijfde lid bedoelde controleverklaring heeft betrekking op:
 
 a.de deugdelijke weergave van de in het jaarverslag en de saldibalans opgenomen financiële informatie;
 
@@ -834,14 +837,14 @@ d.de niet-strijdigheid van de in het jaarverslag opgenomen niet-financiële info
 
 ### Artikel  67  
 
-1.  Onze Minister van Financiën draagt aan de accountantsdienst van zijn ministerie het onderzoek op van: 
+1.  Onze Minister van Financiën draagt aan de auditdienst van het Rijk het onderzoek op van: 
 
 a. de centrale administratie van 's Rijks schatkist;  
 
 b. het Financieel jaarverslag van het Rijk;  
 
 c. de Saldibalans van het Rijk.     
-2.  De accountantsdienst onderzoekt: 
+2.  De auditdienst van het Rijk onderzoekt: 
 
 a. of de centrale administratie aansluit op de administraties, bedoeld in artikel 21, tweede lid;  
 
@@ -856,14 +859,13 @@ e. of de Saldibalans van het Rijk aansluit op de departementale saldibalansen.
 
 ### Artikel  68  
 
-1.  In overeenstemming met Onze Minister van Financiën en na overleg met de Algemene Rekenkamer kunnen Onze Ministers op een andere wijze in de controle voorzien dan door een opdracht aan de accountantsdienst van hun ministerie.   
-2.  In overeenstemming met Onze Minister van Financiën wijzen Onze Ministers het hoofd aan van de accountantsdienst van hun ministerie.   
-3.  Onze Ministers doen schriftelijk mededeling aan de Algemene Rekenkamer van een aanwijzing.  
+1.  Onze Minister van Financiën benoemt na overleg met Onze andere Ministers het hoofd van de auditdienst van het Rijk.   
+2.  Onze Minister van Financiën doet schriftelijk mededeling aan de Algemene Rekenkamer van een benoeming.  
 
 ### Artikel  69  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de plaats en de taak van de departementale accountantsdiensten.   
-2.  Onze Minister van Financiën kan regels stellen met betrekking tot de accountantsverklaring omtrent het jaarverslag en de saldibalans.   
+1.  Onze Minister van Financiën stelt regels met betrekking tot de controle, bedoeld in artikel 66, eerste tot en met vierde lid.   
+2.  Onze Minister van Financiën kan regels stellen met betrekking tot de controleverklaring omtrent het jaarverslag en de saldibalans.   
 
 ### Hoofdstuk  VII  
 
@@ -1062,7 +1064,7 @@ d. rechtspersonen voor zover die een bij of krachtens de wet geregelde taak uito
 14.  In geval de Algemene Rekenkamer dit in het algemeen belang geboden acht, maakt zij van haar bevindingen melding in een rapport of het verslag, bedoeld in artikel 95, eerste onderscheidenlijk tweede lid.   
 15.  Van gegevens en bevindingen die naar hun aard vertrouwelijk zijn, maakt de Algemene Rekenkamer in afwijking van het veertiende lid geen melding in een rapport of het verslag, bedoeld in artikel 95, eerste onderscheidenlijk tweede lid. Mededelingen aan de Staten-Generaal als bedoeld in het dertiende lid die zodanige gegevens of bevindingen bevatten, verstrekt zij ter vertrouwelijke kennisneming.  
 16. Voor de toepassing van dit artikel worden onder rechtspersonen, commanditaire vennootschappen en vennootschappen onder firma, bedoeld in het eerste lid, onderdeel c, niet verstaan financiële ondernemingen met zetel in Nederland die een vergunning hebben voor het uitoefenen van het bedrijf van bank of van elektronischgeldinstelling ingevolge de Wet op het financieel toezicht of het bedrijf van kredietinstelling ingevolge de Wet financiële markten BES.  
-17.  Dit artikel is niet van toepassing op provincies, gemeenten, de openbare lichamen Bonaire, Sint Eustatius en Saba, rechtspersoonlijkheid bezittende lichamen, bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen, voor zover deze niet bij de wet zijn ingesteld, waterschappen en openbare lichamen voor beroep en bedrijf.  
+17.  Dit artikel is niet van toepassing op provincies, gemeenten, de openbare lichamen Bonaire, Sint Eustatius en Saba, rechtspersoonlijkheid bezittende lichamen, bedoeld in de Wet gemeenschappelijke regelingen waterschappen en openbare lichamen voor beroep en bedrijf.  
 
 ### Artikel  92  
 

@@ -1028,7 +1028,8 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-A.  Erkenning van de status inzake dierziekten, besmetting bij dieren of plagen 
+A.  
+###Erkenning van de status inzake dierziekten, besmetting bij dieren of plagen
 
 1. Wat dierziekten en besmettingen bij dieren (met inbegrip van zoönose) betreft, gelden onderstaande bepalingen: 
 
@@ -1045,7 +1046,8 @@ d. onverminderd de artikelen 67, 69 en 73 van deze overeenkomst, en tenzij de pa
 a. de partijen erkennen in het kader van het handelsverkeer hun status inzake plagen met betrekking tot de in bijlage VI-B bij deze overeenkomst vermelde plagen.  
 
 b. onverminderd de artikelen 67, 69 en 73 van deze overeenkomst, en tenzij de partij van invoer uitdrukkelijk bezwaar maakt en om ondersteunende of bijkomende gegevens of overleg en/of verificatie verzoekt, neemt elk van beide partijen onverwijld de nodige wettelijke en bestuursrechtelijke maatregelen om de handel mogelijk te maken op basis van punt a) van dit lid.       
-B.  Erkenning van regionalisatie/zonering, plagenvrije gebieden, hierna „PVG's” genoemd, en beschermde gebieden, hierna „BG's” genoemd 
+B.  
+###Erkenning van regionalisatie/zonering, plagenvrije gebieden, hierna „PVG's” genoemd, en beschermde gebieden, hierna „BG's” genoemd
 
 3. De partijen erkennen de begrippen regionalisatie en PVG's zoals omschreven in het desbetreffende Verdrag van de Voedsel- en landbouworganisatie/Internationaal Verdrag voor de bescherming van planten van 1997 en de internationale normen voor fytosanitaire maatregelen, hierna „ISPM's” genoemd, van de Voedsel- en landbouworganisatie, en het begrip beschermde gebieden overeenkomstig Richtlijn 2000/29/EG, en komen overeen dat deze begrippen op de handel tussen hen van toepassing zijn.  
 
@@ -1063,7 +1065,10 @@ a. Wat plagen betreft, draagt elk van beide partijen er zorg voor dat bij de han
 b. het onder a) bedoelde overleg vindt plaats in overeenstemming met artikel 68, lid 3, van deze overeenkomst. De partij van invoer beoordeelt de bijkomende gegevens binnen drie maanden na ontvangst ervan. De onder a) bedoelde verificatie geschiedt in overeenstemming met artikel 71 van deze overeenkomst binnen 12 maanden na ontvangst van het verzoek daartoe, rekening houdende met de biologische kenmerken van de plaag en het gewas in kwestie.    
 
 7. Na voltooiing van de procedures van de leden 4 tot en met 6 van dit artikel, en onverminderd artikel 73 van deze overeenkomst, neemt elke partij onverwijld de nodige wettelijke en bestuursrechtelijke maatregelen om de handel mogelijk te maken op basis van de in die leden vervatte bepalingen.     
-C.  Compartimentering De partijen verbinden zich tot het voeren van verdere besprekingen met het oog op de implementatie van het in bijlage XIV bij deze overeenkomst bedoelde compartimenteringsbeginsel.  
+C.  
+###Compartimentering
+
+De partijen verbinden zich tot het voeren van verdere besprekingen met het oog op de implementatie van het in bijlage XIV bij deze overeenkomst bedoelde compartimenteringsbeginsel.  
 
 ### Artikel  66  
 
@@ -6737,13 +6742,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 |  *PROTOCOLLEN*   |
 |:---|
-| Protocol I  | Protocol betreffende de definitie van het begrip „producten van oorsprong”en regelingen voor administratieve samenwerking  |
+| Protocol I   | Protocol betreffende de definitie van het begrip „producten van oorsprong”en regelingen voor administratieve samenwerking  |
 | --- | --- |
-| Protocol II  | Protocol inzake wederzijdse administratieve bijstand in douanezaken  |
+| Protocol II   | Protocol inzake wederzijdse administratieve bijstand in douanezaken  |
 | --- | --- |
-| Protocol III  | Protocol inzake een kaderovereenkomst tussen de Europese Unie en Oekraïne inzake de algemene beginselen voor deelname van Oekraïne aan EU-programma’s  |
-| --- | --- |
+| Protocol III   | Protocol inzake een kaderovereenkomst tussen de Europese Unie en Oekraïne inzake de algemene beginselen voor deelname van Oekraïne aan EU-programma’s  |
+
 |  *GEZAMENLIJKE VERKLARING*   |
+|:---|
+| --- | --- |
 
 ### Protocol I 
 
@@ -6882,7 +6889,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. de totale waarde ervan bedraagt niet meer dan 10 % van de prijs af fabriek van het product;  
 
-b. de in de lijst vermelde maximumwaarden voor niet van oorsprong zijnde materialen worden door de toepassing van dit lid niet overschreden. Dit lid is niet van toepassing op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.     
+b. de in de lijst vermelde maximumwaarden voor niet van oorsprong zijnde materialen worden door de toepassing van dit lid niet overschreden.   Dit lid is niet van toepassing op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.  
 3.  De leden 1 tot en met 2 zijn van toepassing behoudens het bepaalde in artikel 7 van dit protocol.  
 
 ### Artikel  7  
@@ -7680,7 +7687,7 @@ De vertegenwoordigers van; het Koninkrijk België, de Republiek Bulgarije, de Ts
 – de titels III, IV, V en VI en de desbetreffende bijlagen en protocollen,   en bevestigen dat de overeenkomst één enkel instrument vormt. De ondertekenende partijen komen overeen dat artikel 486, lid 4 van de overeenkomst betreffende de voorlopige toepassing, ingevolge deze slotakte van toepassing is op de overeenkomstige delen van de overeenkomst. De ondertekenende partijen komen overeen dat de overeenkomst van toepassing is op het volledige grondgebied van Oekraïne zoals erkend in het internationaal recht en dat zij overleg zullen plegen teneinde te bepalen wat de gevolgen van de overeenkomst zijn ten aanzien van de het illegaal ingelijfde grondgebied van de Autonome Republiek de Krim en van de stad Sebastopol waarover de regering van Oekraïne momenteel niet feitelijk het gezag uitoefent.   
 GEDAAN te Brussel, op zevenentwintig juni tweeduizend veertien.  
 
-####Slotakte van de topbijeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Oekraïne, anderzijds, betreffende de Associatieovereenkomst
+####Slotakte van de topbijeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Oekraïne, anderzijds, betreffende de Associatieovereenkomst 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
