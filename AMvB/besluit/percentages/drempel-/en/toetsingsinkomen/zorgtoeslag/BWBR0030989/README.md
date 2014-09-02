@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport, van 25 oktober 2011, Z/F-3087929;
 
-Gelet op [artikel 2, derde lid, van de Wet op de zorgtoeslag](../../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md);
+Gelet op artikel 2, derde lid, van de Wet op de zorgtoeslag;
 
 De Afdeling advisering van de Raad van State gehoord advies van 28 november 2011, nummer W13.11.0452/III;
 
@@ -14,22 +14,18 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
-Materieel uitgewerkt per 01-01-2014 
 
 Wijzigt de Wet op de zorgtoeslag.
 
 ### Artikel  2  
-Materieel uitgewerkt per 01-01-2014 
 
 Het Besluit van 9 september 2010, houdende wijziging van de percentages van het drempel- en toetsingsinkomen, benodigd voor de berekening van de zorgtoeslag (Stb. 2010, 714) wordt ingetrokken. 
 
 ### Artikel  3  
-Materieel uitgewerkt per 01-01-2014 
 
 Dit besluit wordt aangehaald als: Besluit percentages drempel- en toetsingsinkomen zorgtoeslag. 
 
 ### Artikel  4  
-Materieel uitgewerkt per 01-01-2014 
 
 Dit besluit treedt in werking met ingang van 1 januari 2012. 
 

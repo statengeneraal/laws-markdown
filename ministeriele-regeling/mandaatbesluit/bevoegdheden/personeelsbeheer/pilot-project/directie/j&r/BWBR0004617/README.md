@@ -7,7 +7,7 @@ Gelet op de Instellingsbeschikking van de projectgroep Deconcentratie van 1 sept
 
 Gelet op de aanwijzing door de stuurgroep directoraat-generaal Jeugdbescherming & Delinquentenzorg van zes Raden voor de Kinderbescherming als pilot-project Directie Jeugdbescherming en Reclassering;
 
-Gelet op [artikel 238 van Boek I van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), artikel 21 van het Organisatiebesluit Raden voor de Kinderbescherming 1982, S. 16 en 534, alsmede de [artikelen 4, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en 1 van het Arbeidsovereenkomstenbesluit;
+Gelet op artikel 238 van Boek I van het Burgerlijk Wetboek, artikel 21 van het Organisatiebesluit Raden voor de Kinderbescherming 1982, S. 16 en 534, alsmede de artikelen 4, eerste lid, van het Algemeen Rijksambtenarenreglement en 1 van het Arbeidsovereenkomstenbesluit;
 
 Overwegende de door de stuurgroep directoraat-generaal Jeugdbescherming & Delinquentenzorg uitgesproken aanbeveling binnen het pilot-project Jeugdbescherming en Reclassering op korte termijn over te gaan tot deconcentratie van een aantal onderdelen van personeelsbeheer;
 Besluit:  
@@ -26,7 +26,7 @@ De directeuren oefenen de in het vorige artikel genoemde bevoegdheden uit met in
 
 ### Artikel  4  
 
-De directeuren worden voor het uitoefenen van de in artikel 2 genoemde bevoegdheden aangewezen als hoofd van dienst in de zin van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het Arbeidsovereenkomstenbesluit. 
+De directeuren worden voor het uitoefenen van de in artikel 2 genoemde bevoegdheden aangewezen als hoofd van dienst in de zin van het Algemeen Rijksambtenarenreglement en het Arbeidsovereenkomstenbesluit. 
 
 ### Artikel  5  
 

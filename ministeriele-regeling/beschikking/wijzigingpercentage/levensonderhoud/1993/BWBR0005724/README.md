@@ -9,14 +9,17 @@ Gelet op artikel 402a van Boek 1 van het Burgerlijk Wetboek;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-1995 
 
 Het percentage, bedoeld in artikel 402*a*, eerste lid, van Boek 1 van het Burgerlijk Wetboek, waarmede bedragen voor levensonderhoud met ingang van 1 januari 1993 worden verhoogd, wordt vastgesteld op 4,2. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-1995 
 
 Deze beschikking en de daarbij behorende toelichting worden bekendgemaakt in de Staatscourant. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-1995 
 
 Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage levensonderhoud 1993. 
 

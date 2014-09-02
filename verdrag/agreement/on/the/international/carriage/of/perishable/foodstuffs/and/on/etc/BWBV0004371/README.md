@@ -921,7 +921,7 @@ If the equipment is fitted with a removable or non-independent thermal appliance
 
 2.Accordingly, the foodstuffs at any point in the load must be at or below the indicated value on loading during carriage and on unloading.
 
-3.Where it is necessary to open the equipment, e.g. to carry out inspections, it is essential to ensure that the foodstuffs are not exposed to procedures or conditions contrary to the objectives of this annex and those of the [International Convention on the Harmonization of Frontier Controls of Goods](../../../../../../../../../../../../../verdrag/international/convention/on/the/harmonization/of/frontier/controls/of/etc/BWBV0002346/README.md).
+3.Where it is necessary to open the equipment, e.g. to carry out inspections, it is essential to ensure that the foodstuffs are not exposed to procedures or conditions contrary to the objectives of this annex and those of the International Convention on the Harmonization of Frontier Controls of Goods.
 
 4.During certain operations, such as defrosting the evaporator of mechanically refrigerated equipment, a brief rise of the temperature of the surface of the foodstuffs of not more than 3° C in apart of the load, e.g. near the evaporator, above the appropriate temperature may be permitted. 
 
@@ -1034,7 +1034,7 @@ top or bottom corners of the front surface of the consignment (ie closest to the
 
 2. Accordingly, the temperature of the foodstuffs at any point in the load must not exceed the temperature as indicated below on loading, during carriage and on unloading. 
 
-3. Where it is necessary to open the equipment, e.g. to carry out inspections, it is essential to ensure that the foodstuffs are not exposed to procedures or conditions contrary to the objectives of this Annex and those of the [International Convention on the Harmonization of Frontier Controls of Goods](../../../../../../../../../../../../../verdrag/international/convention/on/the/harmonization/of/frontier/controls/of/etc/BWBV0002346/README.md).
+3. Where it is necessary to open the equipment, e.g. to carry out inspections, it is essential to ensure that the foodstuffs are not exposed to procedures or conditions contrary to the objectives of this Annex and those of the International Convention on the Harmonization of Frontier Controls of Goods.
 
 4. The temperature control of foodstuffs specified in this Annex should be such as not to cause freezing at any point of the load.   
 
@@ -1250,7 +1250,7 @@ De tekst van de vertaling is niet beschikbaar.
 
 *Formulier voor een certificaat van goedkeuring voor geïsoleerde, niet-mechanisch zowel als mechanisch gekoelde of verwarmde vervoermiddelen gebruikt bij het internationale vervoer over land van aan bederf onderhevige levensmiddelen* 
 
-De tekst van de vertaling is niet beschikbaar.
+De tekst van de vertaling is niet beschikbaar. 
 
 ###Bijlage  1  
 

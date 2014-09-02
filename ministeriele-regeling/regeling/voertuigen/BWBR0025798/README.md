@@ -72,16 +72,6 @@ b. het uitvoeren van andere werkzaamheden;   in ieder geval wordt als bedrijfsau
 
 *dimlicht:* licht waarmee de weg vóór het voertuig wordt verlicht zonder dat hierdoor andere weggebruikers worden verblind of gehinderd;  
 
-*dolly:* aanhangwagen met carrosserietype DA, DB of DC, bestemd voor: 
-
-a. het koppelen van een oplegger aan een trekkend voertuig waarbij de dolly de voorzijde van een oplegger draagt;  
-
-b. het dragen van de achterzijde van in de lengte ondeelbare lading, indien deze lading het chassis van het voertuig vervangt;  
-
-c. het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras(sen) van het trekkend voertuig en de as(sen) van de dolly; of  
-
-d. het dragen van één van de assen van een motorvoertuig; de afsleepdolly;   in ieder geval wordt als dolly aangemerkt een voertuig dat blijkens het kentekenregister een dolly is;  
-
 *dolly:* aanhangwagen met carrosserietype DB, DC of subcategorie SJ, bestemd voor: 
 
 a. het koppelen van een oplegger aan een trekkend voertuig waarbij de dolly de voorzijde van een oplegger draagt;  
@@ -422,7 +412,7 @@ c. ten aanzien van na 31 maart 1983 in gebruik genomen opleggers of na 29 apri
 
 ### Afdeling  2  
 
-####Besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de europese unie
+####Besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie
 
 ### Artikel  1.2  
 
@@ -592,7 +582,7 @@ De artikelen 1.8 en 1.9 laten onverlet de bevoegdheid tot schorsing of intrekkin
 
 ### Artikel  3.5  
 
-1. De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artikel 16, derde lid, van richtlijn 2002/24/EG, artikel 11 van richtlijn 2003/37/EG of artikel 20 van richtlijn 2007/46/EG verlenen aan voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers indien hierin nieuwe technologieën of nieuwe concepten zijn toegepast die onverenigbaar zijn met een of meer bijzondere EG-richtlijnen EG-verordeningen of VN/ECE-reglementen. 
+1. De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artikel 16, derde lid, van richtlijn 2002/24/EG, artikel 11 van richtlijn 2003/37/EG of artikel 20 van richtlijn 2007/46/EG verlenen aan voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers indien hierin nieuwe technologieën of nieuwe concepten zijn toegepast die onverenigbaar zijn met een of meer bijzondere EG-richtlijnen, EG-verordeningen of VN/ECE-reglementen. 
 2.  De Dienst Wegverkeer kan bepalen dat voor een type waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen in bijlage IV bij deze regeling kunnen voldoen, een tijdelijke nationale kleine serie goedkeuring kan worden verleend, mits er naar het oordeel van de Dienst Wegverkeer geen gevaar is voor de verkeersveiligheid.  
 
 ### Artikel  3.6  
@@ -5193,7 +5183,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 ###§ 10 
 
-####Lichten lichtsignalen en retroreflecterende voorzieningen
+####Lichten, lichtsignalen en retroreflecterende voorzieningen
 
 ### Artikel  5.7.51  
 
@@ -8668,7 +8658,7 @@ e. de lastdrager die in de breedte meer dan 0,10 m buiten de zijkant van het voe
 
 ### A  
 
-####Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen dolly’s of aanhangwagens en samenstellen hiervan
+####Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen, dolly’s of aanhangwagens en samenstellen hiervan
 
 ### Artikel  5.18.11  
 
@@ -8983,7 +8973,13 @@ d. in het geval van een dolly:
 
 3°. de daarvoor ten aanzien van het remsysteem van de dolly opgegeven technisch toegestane maximummassa;  
 
-4°. het samenstel van een dolly en oplegger: 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt.      
+4°. het samenstel van een dolly en oplegger: 
+
+– de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg is;  
+
+– 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg met een aantekening ‘G’ op de kentekencard, het kentekenbewijs of in het kentekenregister is of;  
+
+– 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van meer dan 3.500 kg is.        
 
 ### Artikel  5.18.17h  
 
@@ -14079,6 +14075,2784 @@ a. de fabrikant stelt de Dienst Wegverkeer in de gelegenheid op de door deze Die
 
 b. een verklaring omtrent de juistheid van de opgave van een registeraccountant of een Accountant-Administratieconsulent, als bedoeld in artikel 36, derde lid, van de Wet op de Accountants-Administratieconsulenten dan wel een daaraan gelijk te stellen buitenlandse accountant, in de Nederlandse taal opgesteld.   
 
+### Bijlage VIII 
+
+####, behorende bij hoofdstuk 5 
+
+####Aanvullende permanente eisen en gebruikseisen
+
+### Hoofdstuk  1  
+
+#### *Voertuigeisen* 
+
+### Titel  1  
+
+#### *Algemeen* 
+
+### §  1  
+
+#### *Vaststelling afmetingen* 
+
+### Artikel  1  
+
+1.Voor de vaststelling van afmetingen van voertuigen of samenstel van voertuigen wordt verstaan onder:
+
+a.  *as:* de horizontale lijn die loodrecht staat op het middenlangsvlak van het voertuig en gaat door het midden van één of meer wielen wanneer deze zich in de stand van rechtuitrijden bevinden;  
+
+b.  *lengte van een voertuig of samenstel van voertuigen:* de horizontale afstand tussen twee verticale vlakken die loodrecht staan op het middenlangsvlak van het voertuig of het samenstel van voertuigen en gaan door de uiterste voor- en achterzijde van het voertuig of het samenstel, gemeten in de stand van rechtuitrijden op een horizontaal wegdek; de spiegels en de bevestigingsdelen daarvan worden buiten beschouwing gelaten; een zonneklep die niet meer dan 0,20 m voor het voorste verticale vlak, zoals is bepaald bij een niet gemonteerde zonneklep, uitsteekt en die met eenvoudige middelen afneembaar is, wordt buiten beschouwing gelaten;  
+
+c.  *breedte van een voertuig:* de horizontale afstand tussen twee verticale vlakken die evenwijdig lopen aan het middenlangsvlak van het voertuig en gaan door de uiterste linker- en rechterzijde van het voertuig, gemeten in de stand van rechtuitrijden op een horizontaal wegdek; de spiegels en de bevestigingsdelen daarvan worden buiten beschouwing gelaten;  
+
+d.  *hoogte van een voertuig:* de verticale afstand tussen het wegdek en een horizontaal vlak dat gaat door het hoogst gelegen deel van het voertuig, gemeten op een horizontaal wegdek in de rijstand.  
+
+2.Onder voorbehoud van de in de volgende tabellen opgenomen aanvullende beperkingen, hoeven de in de tabellen I, II en III opgenomen voorzieningen en uitrusting niet voor de bepaling van de buitenste afmetingen in aanmerking te worden genomen als aan de volgende voorschriften wordt voldaan: 
+
+a. wanneer aan de voorzijde meerdere voorzieningen zijn gemonteerd, mogen deze in totaal niet meer dan 25 cm uitsteken;  
+
+b. voorzieningen en apparatuur die in de lengterichting aan het voertuig worden toegevoegd, mogen in totaal niet meer dan 75 cm uitsteken;  
+
+c. met uitzondering van achteruitkijkspiegels, mogen voorzieningen en apparatuur die in de breedterichting aan het voertuig worden toegevoegd in totaal niet meer dan 10 cm uitsteken.  
+
+3.De voorschriften van het tweede lid, onderdelen a en b, zijn niet van toepassing op voorzieningen voor indirect zicht.  Tabel I Voertuiglengte 
+
+|--- |--- | Personenauto’s  | Bussen  | Bedrijfsauto’s met een technisch toegestane maximummassa van ten hoogste 3.500 kg  | Bedrijfsauto’s met een technisch toegestane maximummassa van meer dan 3.500 kg  | Aanhangwagens met een technisch toegestane maximummassa van ten hoogste 750 kg  | Aanhangwagens met een technisch toegestane maximummassa van meer dan 750 kg  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1.  | Voorzieningen voor indirect zicht en voor het waarnemen van de ruimte achter het voertuig  | x  | x  | x  | x  | x  | X  |
+| 2.  | Wis- en sproeivoorzieningen  | x  | x  | x  | x  | --- | --- |
+| 3.  | Zonnekleppen aan buitenzijde  | --- | --- | --- | x  | --- | --- |
+| 4.  | Frontbeschermingsinrichting  | x  | --- | x  | --- | --- | --- |
+| 5.  | Voetsteunen en handgrepen  | --- | x  | x  | x  | x  | x  |
+| 6.  | Koppeling  | x  | x  | x  | x  | --- | --- |
+| 7.  | Extra koppeling  | --- | --- | --- | --- | x  | x  |
+| 8.  | Fietsenrek (verwijderbaar / opklapbaar)  | x  | --- | x  | --- | --- | --- |
+| 9.  | Hefplatforms, oprijplaten en soortgelijke uitrustingen, voor zover het laadvermogen niet wordt vergroot en deze uitrustingen niet meer dan 0,30 m uitsteken  | x  | x  | x  | x  | x  | x  |
+| 10.  | Observatie- en detectiemiddelen, met inbegrip van radars  | --- | x  | --- | x  | x  | x  |
+| 11.  | Veerkrachtige buffers en vergelijkbare uitrusting  | --- | --- | x  | x  | x  | x  |
+| 12.  | Voorzieningen voor douaneverzegeling en de afscherming ervan  | --- | --- | x  | x  | x  | x  |
+| 13.  | Voorzieningen voor de bevestiging van het dekzeil en de afscherming ervan  | --- | --- | x  | x  | x  | x  |
+| 14.  | Langsaanslagen voor afneembare carrosserieën  | --- | --- | x  | x  | x  | x  |
+| 15.  | Trolleystangen en stroomafnemers van elektrisch aangedreven voertuigen  | --- | Alleen bussen met een technisch toegestane maximummassa van meer dan 5.000 kg  | x  | x  | --- | x  |
+| 16.  | Voor- en achterkentekenplaten  | --- | x  | x  | x  | x  | x  |
+| 17.  | Verlichtingsuitrusting  | x  | x  | x  | x  | x  | x  |
+| 18.  | Opvouwbare voorzieningen en uitrusting die zijn ontworpen om de luchtweerstand te verminderen, mits deze niet meer dan 0,50 m voorbij de achterzijde van het voertuig uitsteken en de lengte van de laadruimte niet vergroten. Dergelijke voorzieningen moeten zo zijn ontworpen dat ze kunnen worden ingetrokken wanneer het voertuig stilstaat, zodat de maximaal toegestane lengte niet wordt overschreden en zij geen nadelige invloed hebben op de bruikbaarheid van het voertuig voor intermodaal vervoer.  | --- | x  | --- | x  | --- | Alleen aanhangwagens met een technisch toegestane maximummassa van meer dan 3.500 kg  |
+| 19.  | Luchtinlaatpijpen  | --- | --- | x  | x  | --- | x  |
+
+Tabel II Voertuigbreedte 
+
+|--- |--- | Personenauto’s  | Bussen  | Bedrijfsauto’s met een technisch toegestane maximummassa van ten hoogste 3.500 kg  | Bedrijfsauto’s met een technisch toegestane maximummassa van meer dan 3.500 kg  | Aanhangwagens met een technisch toegestane maximummassa van ten hoogste 750 kg  | Aanhangwagens met een technisch toegestane maximummassa van meer dan 750 kg  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1.  | Voorzieningen voor indirect zicht  | x  | x  | x  | x  | x  | x  |
+| 2.  | De bolling van de zijwanden van de banden op het contactpunt met het wegdek  | x  | x  | x  | x  | x  | x  |
+| 3.  | Verklikkers voor lekke banden  | --- | Alleen bussen met een technisch toegestane maximummassa van meer dan 5.000 kg  | x  | x  | x  | x  |
+| 4.  | Bandenspanningsmeters  | --- | Alleen bussen met een technisch toegestane maximummassa van meer dan 5.000 kg  | x  | x  | x  | x  |
+| 5.  | Verlichtingsuitrusting  | x  | x  | x  | x  | x  | x  |
+| 6.  | Oprijplaten, hefplatforms en soortgelijke uitrusting, indien deze zijn ingeschoven en niet meer dan 0,10 m buiten de zijkant van het voertuig uitsteken, en de hoeken van de naar voren of naar achteren gerichte oprijplaten zijn afgerond met een straal van ten minste 5 mm; de randen moeten afgerond zijn tot een straal van ten minste 2,5 mm  | --- | x  | --- | x  | x  | x  |
+| 7.  | Intrekbare zijdelingse geleidingsvoorzieningen bestemd voor gebruik op geleid bussysteem, indien zij niet zijn ingetrokken intrekbare treden, indien deze zijn uitgeschoven en het voertuig stilstaat  | --- | Alleen bussen met een technisch toegestane maximummassa van meer dan 5.000 kg  | --- | --- | --- | --- |
+| 8.  | Observatie- en detectiemiddelen, met inbegrip van radars  | --- | x  | --- | x  | x  | x  |
+| 9.  | Voorzieningen en uitrusting die speciaal zijn ontworpen om de luchtweerstand te verminderen, mits deze niet meer dan 5 cm aan beide zijden buiten de grootste breedte van het voertuig uitsteken en het laadvermogen niet vergroten. Dergelijke voorzieningen moeten zo zijn ontworpen dat ze kunnen worden ingetrokken wanneer het voertuig stilstaat, zodat de maximaal toegestane breedte niet wordt overschreden en zij geen nadelige invloed hebben op de bruikbaarheid van het voertuig voor intermodaal vervoer. Wanneer de voorzieningen en uitrusting in gebruik zijn, mag de breedte van het voertuig niet meer dan 2,65 m bedragen.  | --- | --- | x  | x  | x  | x  |
+| 10.  | Voorzieningen voor douaneverzegeling en de afscherming ervan  | --- | --- | x  | x  | x  | x  |
+| 11.  | Voorzieningen voor de bevestiging van het dekzeil en de afscherming daarvan  | --- | --- | x  | x  | x  | x  |
+| 12.  | Uitstekende flexibele delen van een opspatafschermingssysteem, flexibele spatborden en spatlappen  | --- | x  | x  | x  | x  | x  |
+| 14.  | Sneeuwkettingen  | x  | x  | x  | x  | x  | x  |
+| 15.  | Veiligheidshekwerken op voertuigen voor voertuigvervoer. Alleen voor voertuigen die voor het vervoer van ten minste twee andere voertuigen zijn ontworpen en gebouwd en waarbij de veiligheidshekwerken zich meer dan 2,00 m, maar niet meer dan 3,70 m van de grond bevinden en aan de zijkant niet meer dan 5 cm buiten het buitenste punt van het voertuig uitsteken. De breedte van het voertuig mag, als gevolg van deze veiligheidshekwerken, niet meer dan 2,65 m bedragen.  | --- | --- | --- | x  | --- | Alleen aanhangwagens met een technisch toegestane maximummassa van meer dan 3.500 kg  |
+| 16.  | Opklapbare treden en andere uitschuifbare en uitklapbare delen, voor zover uitgeschoven of uitklapbaar  | --- | --- | x  | x  | --- | x  |
+
+Tabel III Voertuighoogte 
+
+|--- |--- | Personenauto’s  | Bussen  | Bedrijfsauto’s met een technisch toegestane maximummassa van ten hoogste 3.500 kg  | Bedrijfsauto’s met een technisch toegestane maximummassa van meer dan 3.500 kg  | Aanhangwagens met een technisch toegestane maximummassa van ten hoogste 750 kg  | Aanhangwagens met een technisch toegestane maximummassa van meer dan 750 kg  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1.  | Antenne voor radio of radionavigatie  | x  | x  | x  | x  | x  | x  |
+| 2.  | Stroomafnemers of trolleystangen in de uitgeschoven stand  | --- | Alleen bussen met een technisch toegestane maximummassa van meer dan 5.000 kg  | x  | x  | --- | x  |
+
+### §  2  
+
+#### *Overeenstemming voertuig met kentekenregister* 
+
+### Artikel  2  
+
+De volgende gegevens, voor zover in het kentekenregister vermeld, moeten in overeenstemming zijn met het voertuig: 
+
+a. kenteken;  
+
+b. voertuigidentificatienummer; 
+
+c. hoofdbrandstof, waarbij: 
+
+– ‘A’ staat voor alcohol;  
+
+– ‘B’ staat voor benzine;  
+
+– ‘C’ staat voor cryogeen (gas onder hoge druk en bij lage temperatuur, LNG);  
+
+– ‘D’ staat voor dieselolie;  
+
+– ‘E’ staat voor elektriciteit;  
+
+– ‘E/B’, ‘E/D’ of ‘E/G’ staat voor hybride;  
+
+– ‘G’, ‘G2’, of ‘G3’ staat voor LPG;  
+
+– ‘H’ staat voor CNG;  
+
+– ‘W’ staat voor waterstof.   Gecombineerde brandstoffen kunnen worden aangeduid met twee letters, waarbij de eerste letter de hoofdbrandstof is. Indien in het kentekenregister de brandstofcode ‘B’ is vermeld en in het voertuig is een LPG- of CNG-installatie gemonteerd geweest, moeten ten minste de volgende onderdelen van deze installatie zijn verwijderd: 
+
+– verdamper/drukregelaar en/of een ander brandstofdoseringssysteem (een uitlaatstift, die bij een luchtgekoelde motor als verdamper fungeert, hoeft niet te worden verwijderd);  
+
+– LPG- of CNG-tank;  
+
+– gasafsluiter;  
+
+– gasmengstuk;  
+
+– inspuitstukken, tenzij deze definitief zijn afgeplugd;  
+
+– inspuitstukadapter, tenzij deze definitief is afgeplugd;  
+
+– buitenvulklep, tenzij deze definitief is afgeplugd;  
+
+– hogedrukleiding, met uitzondering van het gedeelte, dat rechtstreeks vast tegen de onderzijde van het voertuig is bevestigd.    
+
+d. wielbasis. Bij personenauto’s, bedrijfsauto’s en bussen met een toegestane maximummassa van niet meer dan 3.500 kg de wielbasis waarbij deze niet meer dan 2,0% mag afwijken van de waarde die in het kentekenregister is vermeld. Bij twijfel wordt de wielbasis gemeten. Als de wielbasis van fabriekswege links en rechts verschilt, wordt de gemiddelde waarde als wielbasis aangemerkt;  
+
+e. aanwezigheid van een koppeling. Indien het een bedrijfsauto of een bus betreft met een toegestane maximummassa van meer dan 3.500 kg en in het kentekenregister is geen waarde voor de afstandsmaat van de voorzijde van het voertuig tot het hart van de koppeling vermeld, mag geen koppeling op de bedrijfsauto of bus zijn gemonteerd. Dit geldt niet indien het een brandweerauto betreft waarvoor blijkens het kentekenregister een kentekenbewijs is afgegeven vóór 12 december 1983;  
+
+f. aanwezigheid van meerdere koppelingen. Indien op de bedrijfsauto of bus met een toegestane maximummassa van meer dan 3.500 kg meerdere koppelingen zijn gemonteerd, moet van elke koppeling de waarde voor de afstand van de voorzijde van het voertuig tot het hart van de koppeling in het kentekenregister zijn vermeld. Dit geldt niet indien het een vangmuilkoppeling ten behoeve van een besturing betreft;  
+
+g. aantal cilinders. Bij personenauto’s, bedrijfsauto’s en bussen met een toegestane maximummassa van niet meer dan 3.500 kg, wordt het aantal cilinders bij twijfel gecontroleerd. De controle op het aantal cilinders blijft achterwege als het een wankelmotor betreft.   
+
+### §  3  
+
+#### *Kentekenplaat* 
+
+### Artikel  3  
+
+1. Een personenauto, bedrijfsauto, bus, aanhangwagen of driewielig motorrijtuig moet zijn voorzien van gele retroreflecterende kentekenplaten, voor een aanhangwagenéén, voor een driewielig motorrijtuig één of twee platen, welke aan de linkerzijde zijn voorzien van een in het laminaat geïntegreerd Eurosymbool. Hiervan zijn uitgezonderd: 
+
+a. voertuigen waarvan in het kentekenregister de toestemming tot het voeren van kentekenplaten model 18.2 staat vermeld; deze voertuigen mogen zijn voorzien van het kleine model kentekenplaten;  
+
+b. voertuigen met een datum eerste toelating welke ligt vóór 1 januari 1978; deze voertuigen mogen zijn voorzien van donkerblauwe kentekenplaten;  
+
+c. taxi’s moeten zijn voorzien van lichtblauwe kentekenplaten als bedoeld in de Regeling Kentekens en Kentekenplaten, en  
+
+d. voertuigen waarvoor tijdelijke kentekenplaten, voor een aanhangwagens één, voor een driewielig motorrijtuig één of twee platen, zijn afgegeven tot en met de op de kentekenplaat vermelde maand.    
+
+2. Personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen en gekentekende aanhangwagens mogen geen andere kentekenplaten voeren dan vermeld in deze bijlage.   
+
+### Titel  2  
+
+#### *Algemene bouwwijze van het voertuig* 
+
+### Afdeling  1  
+
+#### *Voertuigen zonder een volledig dragend chassis* 
+
+### Artikel  4  
+
+1. In deze afdeling wordt verstaan onder roestschade: door corrosie over de gehele dikte verdwenen materiaal.  
+
+2. Roestschade wordt per onderdeel, per bevestiging van een onderdeel of per sectie van de bodemplaat uitgedrukt in de schade-eenheid ‘E’.   
+
+### Artikel  5  
+
+De in annex 1 vermelde onderdelen en bevestigingen van onderdelen van motorvoertuigen met een zelfdragende carrosserie mogen per onderdeel, per bevestiging van een onderdeel, of per sectie van een bodemplaat niet meer roestschade hebben dan 2E. 
+
+### Artikel  6  
+
+Voor de bepaling van de mate van roestschade in schade-eenheden ‘E’ moet de volgende procedure worden gevolgd: 
+
+a. de roestschade-omvang wordt per onderdeel, per bevestiging van een onderdeel of per sectie van de bodemplaat in procenten bepaald volgens het van toepassing zijnde beoordelingsprincipe zoals vermeld in deze afdeling;  
+
+b. aan de hand van annex 1 wordt de te hanteren roestschadegradatie bij maximaal functieverlies van het beschadigde onderdeel, de beschadigde bevestiging van een onderdeel dan wel de beschadigde sectie van de bodemplaat bepaald;  
+
+c. het onder a bepaalde percentage roestschade wordt vermenigvuldigd met de onder b bepaalde roestschadegradatie.   
+
+### Artikel  7  
+
+1. De bepaling van de roestschade-omvang van langs- en dwarsliggers geschiedt aan de hand van de volgende beoordelingsprincipes, waarbij het hoogste percentage maatgevend is: 
+
+a. de verhouding uitgedrukt in procenten tussen het beschadigde deel van de omtrek en de gehele omtrek van de dwarsdoorsnede, een eventuele versterking in de langs- of dwarsligger daarbij inbegrepen. Bij de berekening van de omtrek van de dwarsdoorsnede worden de bevestigingsflenzen niet meegerekend, en  
+
+b. de verhouding uitgedrukt in procenten tussen de lengte van de schade en de werkelijke lengte van de langs- of dwarsligger tussen de draagpunten, zoals weergegeven in figuur 1, of zoals bij het betreffende onderdeel in annex 1 is omschreven. Bij de bepaling van de roestschade worden de bevestigingsflenzen meegerekend.    
+
+2. Indien een plaatdeel samen met een voorgevormd profiel een koker vormt, wordt het geheel beoordeeld als een langs- of dwarsligger.  ![244442](http://wetten.overheid.nl/Illustration/244442)
+Figuur 1. Lengte langs- of dwarsligger tussen de draagpunten.    
+
+### Artikel  8  
+
+1. Voor de bepaling van de roestschade-omvang van de bodemplaat van de personenruimte wordt de bodemplaat in secties verdeeld, zoals weergegeven in figuur 2, waarna elke sectie afzonderlijk wordt beoordeeld.  
+
+2. De secties worden gevormd door de volgende sectielijnen: 
+
+a. sectielijn 1: de middenkoker of de lengtehartlijn;  
+
+b. sectielijn 2: het begin van de vlakke bodemplaat;  
+
+c. sectielijn 3: de dwarsligger ter plaatse van de voorzijde van de voorste zitplaatsen of indien ter plaatse geen dwarsligger aanwezig is de voorzijde van de voorste zitplaatsen in de achterste gebruiksstand;  
+
+d. sectielijn 4: elke voorzijde van de achter de voorste zitplaatsen (achter elkaar) gelegen zitplaatsen in de achterste gebruiksstand;  
+
+e. sectielijn 5: het einde van de bodemplaat onder de personenruimte.    ![244443](http://wetten.overheid.nl/Illustration/244443)
+Figuur 2. Sectieverdeling bodemplaat personenruimte.    
+
+### Artikel  9  
+
+1. De bepaling van de roestschade-omvang van de bodemplaat van de personenruimte geschiedt aan de hand van de volgende beoordelingsprincipes, waarbij het hoogste percentage maatgevend is: 
+
+a. de verhouding uitgedrukt in procenten tussen het beschadigde oppervlak van de sectie en het gehele oppervlak van de sectie, en  
+
+b. de verhouding tussen de lengte van de schade aan de randen van de sectie en de totale randlengte van de sectie.    
+
+2. Roestschade die doorloopt in verschillende secties moet worden beoordeeld als schade die aanwezig is in de grootste van de betrokken secties.  
+
+3. Bij dubbele bodemplaten wordt de bovenste plaat beoordeeld zoals is aangegeven in het eerste lid, waarbij de onderste plaat wordt beoordeeld als één grote sectie.  
+
+4. Indien een gedeelte van de bodemplaat tevens deel uitmaakt van een langs- of dwarsligger (koker), moet dit gedeelte worden meegerekend voor de bepaling van het oppervlak dan wel de randlengte.   
+
+### Artikel  10  
+
+De bepaling van de roestschade-omvang van wielkasten geschiedt aan de hand van de volgende beoordelingsprincipes, waarbij het hoogste percentage maatgevend is: 
+
+a. de verhouding uitgedrukt in procenten tussen het beschadigde oppervlak en het gehele oppervlak;  
+
+b. de verhouding tussen de totale lengte van de schade aan de randen en de totale randlengte, en  
+
+c. de verhouding tussen de lengte van de schade per zijde van de wielkast en de bevestigingslengte van die zijde aan een ander onderdeel.   
+
+### Artikel  11  
+
+1. De bepaling van de roestschade-omvang van plaatdelen, met uitzondering van de bodemplaat en de wielkasten, geschiedt aan de hand van de volgende beoordelingsprincipes waarbij het hoogste percentage maatgevend is: 
+
+a. de verhouding uitgedrukt in procenten tussen het beschadigde oppervlak en het gehele oppervlak, en  
+
+b. de verhouding tussen de lengte van de schade aan de randen en de totale randlengte.    
+
+2. Indien een gedeelte van een plaatdeel tevens deel uitmaakt van een langs- of dwarsligger (koker), moet dit gedeelte worden meegerekend voor de bepaling van het oppervlak dan wel de randlengte.   
+
+### Artikel  12  
+
+1. De roestschade-omvang van de bevestiging van onderdelen, met uitzondering van de bevestiging van plaatdelen en wielkasten, wordt bepaald door een schatting te maken omtrent de afname in procenten van de sterkte van de bevestiging van het ene onderdeel aan het andere, in het gebied dat wordt omsloten door een denkbeeldige lijn gelegen op een afstand van 100 mm rondom de bevestiging.  
+
+2. De roestschade in het gebied buiten de denkbeeldige lijn wordt buiten beschouwing gelaten.   
+
+### Artikel  13  
+
+De beoordeling van roestschade vindt plaats: 
+
+a. door visuele controle terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt, en  
+
+b. in geval van twijfel: 
+
+1°. door gebruik te maken van een hamertje met een bolle of afgeronde kop;  
+
+2°. door middel van meten met een meetmiddel van voldoende bereik.     
+
+### Afdeling  2  
+
+#### *Voertuigen met een volledig dragend chassis* 
+
+### §  1  
+
+#### *Chassisraam* 
+
+### Artikel  14  
+
+1. In deze paragraaf wordt onder roestschade verstaan: gedeeltelijk door corrosie verdwenen materiaal.  
+
+2. Roestschade in het chassisraam wordt per langs- of dwarsligger dan wel per profiel uitgedrukt in procenten.   
+
+### Artikel  15  
+
+1. De langs- en dwarsliggers en asbevestigingen van het chassisraam, de trekinrichting van een middenasaanhangwagen en een aanhangwagen met een stijve dissel, en alle profielen die deel uitmaken van de ondersteuning van de draaikrans of opleggerkoppeling dan wel koppelingsplaat mogen niet meer roestschade hebben dan het percentage, vermeld in annex 2 bij deze bijlage.  
+
+2. De beoordeling van de roestschade-omvang van de langs- en dwarsliggers van het chassisraam geschiedt aan de hand van de lengte van de langs- en dwarsliggers tussen de draagpunten.  
+
+3. In afwijking van het bepaalde in het eerste lid moeten langs- en dwarsliggers van het chassisraam die uitsluitend voor de ondersteuning van de laadvloer zijn aangebracht, als hulplangs- of hulpdwarsbalk worden aangemerkt waarop paragraaf 2 van deze afdeling van toepassing is.  
+
+4. In afwijking van het bepaalde in het eerste lid is op langs- en dwarsliggers en asbevestigingen van het chassisraam, die zijn vervaardigd uit plaatmateriaal, waarvan de dikte maximaal 2 mm bedraagt, paragraaf 2 van deze afdeling van toepassing.  
+
+5. Op een gedeeltelijk zelfdragende carrosserie in combinatie met een chassisraam zijn voor het zelfdragende deel de eisen van afdeling 1 van toepassing.   
+
+### §  2  
+
+#### *Overige onderdelen* 
+
+### Artikel  16  
+
+1. In deze paragraaf wordt onder roestschade verstaan: door corrosie over de gehele dikte verdwenen materiaal.  
+
+2. Roestschade wordt per onderdeel of per bevestiging van een onderdeel uitgedrukt in de schade-eenheid ‘E’.   
+
+### Artikel  17  
+
+De in annex 3 vermelde onderdelen en bevestigingen van onderdelen van motorvoertuigen die niet zijn voorzien van een zelfdragende carrosserie en aanhangwagens met een toegestane maximummassa van meer dan 3.500  kg mogen per onderdeel dan wel per bevestiging van een onderdeel niet meer roestschade hebben dan 2E. 
+
+### Artikel  18  
+
+Voor de bepaling van de mate van roestschade in schade-eenheden ‘E’ moet de volgende procedure worden gevolgd: 
+
+a. de roestschade-omvang wordt per onderdeel of per bevestiging van een onderdeel in procenten bepaald volgens het van toepassing zijnde beoordelingsprincipe;  
+
+b. aan de hand van annex 3 wordt de te hanteren roestschadegradatie bij maximaal functieverlies van het beschadigde onderdeel of de beschadigde bevestiging van een onderdeel bepaald;  
+
+c. het in onderdeel a bepaalde percentage roestschade wordt vermenigvuldigd met de in onderdeel b bepaalde roestschadegradatie.   
+
+### Artikel  19  
+
+1. De bepaling van de roestschade-omvang van langs- en dwarsliggers geschiedt aan de hand van de volgende beoordelingsprincipes, waarbij het hoogste percentage maatgevend is: 
+
+a. de verhouding uitgedrukt in procenten tussen het beschadigde deel van de omtrek en de gehele omtrek van de dwarsdoorsnede, een eventuele versterking in de langs- of dwarsligger daarbij inbegrepen. Bij de berekening van de omtrek van de dwarsdoorsnede worden de bevestigingsflenzen niet meegerekend, en  
+
+b. de verhouding uitgedrukt in procenten tussen de lengte van de schade en de werkelijke lengte van de langs- of dwarsligger tussen de draagpunten, zoals weergegeven in figuur 3, of zoals bij het betreffende onderdeel in annex 3 is omschreven. Bij de bepaling van de roestschade worden de bevestigingsflenzen meegerekend.    
+
+2. Indien een plaatdeel samen met een voorgevormd profiel een koker vormt, wordt het geheel beoordeeld als een langs- of dwarsligger.  ![244444](http://wetten.overheid.nl/Illustration/244444)
+Figuur 3. Lengte dwars- of langsligger tussen de draagpunten.    
+
+### Artikel  20  
+
+1. De bepaling van de roestschade-omvang van plaatdelen geschiedt aan de hand van de volgende beoordelingsprincipes, waarbij het hoogste percentage maatgevend is: 
+
+a. de verhouding uitgedrukt in procenten tussen het beschadigde oppervlak en het gehele oppervlak, en  
+
+b. de verhouding uitgedrukt in procenten tussen de lengte van de schade aan de randen en de totale randlengte.    
+
+2. Indien een gedeelte van een plaatdeel tevens deel uitmaakt van een langs- of dwarsligger (koker), moet dit gedeelte worden meegerekend voor de bepaling van het oppervlak dan wel de randlengte.   
+
+### Artikel  21  
+
+1. De roestschade-omvang van de bevestiging van onderdelen, met uitzondering van de bevestiging van plaatdelen, wordt bepaald door een schatting te maken omtrent de afname in procenten van de sterkte van de bevestiging van het ene onderdeel aan het andere in het gebied dat wordt omsloten door een denkbeeldige lijn, gelegen op een afstand van 100 mm rondom de bevestiging.  
+
+2. De roestschade in het gebied buiten de denkbeeldige lijn wordt buiten beschouwing gelaten.   
+
+### Artikel  22  
+
+De beoordeling van roestschade vindt plaats: 
+
+a. door visuele controle terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt, en  
+
+b. in geval van twijfel: 
+
+1°. door gebruik te maken van een hamertje met een bolle of afgeronde kop;  
+
+2°. door middel van meten met een meetmiddel van voldoende bereik.     
+
+### Afdeling  3  
+
+#### *Beoordelingsnorm voor roestschadereparaties* 
+
+### Artikel  23  
+
+Een roestschadereparatie moet zodanig zijn uitgevoerd dat het onderdeel, de bevestiging van het onderdeel of de sectie van de bodemplaat zijn oorspronkelijke functie weer kan vervullen. 
+
+### Artikel  24  
+
+1. Voor alle onderdelen, bevestigingen van onderdelen of secties van de bodemplaat waarvoor een roestschadegradatie is gegeven, geldt dat: 
+
+a. reparaties met pasklare gedeelten, waarbij elk deel deugdelijk aan het oorspronkelijke materiaal is gelast, toegestaan zijn;  
+
+b. vervanging van delen is toegestaan mits deugdelijk gelast, dan wel bevestigd met bouten indien de oorspronkelijke bevestiging heeft plaatsgevonden door middel van bouten of klinknagels;  
+
+c. een reparatie die niet volgens onderdeel a of b is uitgevoerd als roestschade wordt aangemerkt en beoordeeld, waarbij de grootte van de reparatie wordt gezien als de grootte van de roestschade, tenzij anders wordt aangetoond.    
+
+2. Onder deugdelijk gelast zoals bedoeld in het eerste lid wordt verstaan: 
+
+a. kettinglassen welke ten minste 50% van de omtrek van het te lassen gedeelte bestrijken en goed zijn verdeeld over die omtrek, of  
+
+b. proplassen (gatlassen) met ten minste een diameter van 4 mm en een onderlinge afstand van niet meer dan 20 mm.     
+
+### Artikel  25  
+
+1. De trekinrichting van een middenasaanhangwagen en een aanhangwagen met een stijve dissel, langs- en dwarsliggers en asbevestigingen die deel uitmaken van het chassisraam, bedoeld in paragraaf 1 van afdeling 2, mogen niet zijn gerepareerd met plaatdelen welke over de roestschade zijn aangebracht.  
+
+2. In afwijking van het eerst lid mogen de trekinrichting van een middenasaanhangwagen en een aanhangwagen met een stijve dissel, langs- en dwarsliggers en asbevestigingen wel gerepareerd worden met plaatdelen welke over de roestschade zijn aangebracht indien de dikte van deze plaatdelen ten minste gelijk is aan de grootste dikte van het te repareren deel. De plaatdelen moeten deugdelijk zijn gelast. Hieronder worden verstaan kettinglassen welke ten minste 75% van de omtrek van het te lassen gedeelte bestrijken. De lassen moeten goed zijn verdeeld over de omtrek.  
+
+3. De profielen die deel uitmaken van de ondersteuning van de draaikrans of opleggerkoppeling dan wel koppelingsplaat mogen niet zijn gerepareerd met plaatdelen welke over de roestschade zijn aangebracht.   
+
+### Artikel  26  
+
+Een afwijkende reparatie als bedoeld in de artikelen 24 en 25 is toegestaan, indien dit door middel van documentatie van de voertuigfabrikant wordt aangetoond. De reparatie moet volgens voorschrift van de voertuigfabrikant zijn uitgevoerd. 
+
+### Artikel  27  
+
+De beoordeling van de roestschadereparatie vindt plaats: 
+
+a. door visuele controle terwijl het voertuig zich boven een inspectieput of op een hefinrichting bevindt, en  
+
+b. in geval van twijfel door middel van meten met een meetmiddel van voldoende bereik.   
+
+### Titel  3  
+
+#### *Motor en brandstofsystemen* 
+
+### Afdeling  1  
+
+#### *Constructiesnelheid* 
+
+### Artikel  28  
+
+1.De maximumconstructiesnelheid van bromfietsen wordt gemeten met behulp van een bromfietsrollentestbank die voldoet aan de daaromtrent in hoofdstuk 8 van deze regeling gestelde eisen, waarbij de in artikel 29 bedoelde meetcondities in acht moeten worden genomen.
+
+2.De maximumconstructiesnelheid van bromfietsen waarvan de maximumconstructiesnelheid niet met een bromfietsrollentestbank kan worden gemeten en van overige motorvoertuigen wordt gemeten door middel van een rijproef, waarbij de in artikel 29a bedoelde meetcondities in acht moeten worden genomen. 
+
+### Artikel  29  
+
+Bij het gebruik van de bromfietsrollentestbank om de maximumconstructiesnelheid te meten: 
+
+a. wordt, bij in werking zijnde motor bij die versnelling waarbij de hoogste snelheid wordt bereikt, de gastoevoer zover geopend dat de bromfietsrollentestbank een maximale waarde aangeeft;  
+
+b. wordt de motor van de bromfiets voldoende gekoeld;  
+
+c. is de bromfietsrollentestbank goedgekeurd voor het testen van een bromfiets met het aantal aangedreven wielen dat overeenkomt met het aantal aangedreven wielen van het te testen voertuig, en  
+
+d. wordt de meting uitgevoerd conform de bij de desbetreffende bromfietsrollentestbank behorende handleiding, mits de door de fabrikant in de handleiding opgenomen aanwijzingen niet strijdig zijn met de in deze en de vorige paragraaf opgenomen technische eisen en gebruikseisen. De handleiding vermeldt in ieder geval: 
+
+1°. of de bromfiets bij gebruik van de bromfietsrollentestbank moet worden belast en zo ja, met hoeveel kilogram, en  
+
+2°. welke invloed de bandenspanning heeft op de meting.     
+
+###Artikel 29a 
+
+1.Een rijproef om de maximumconstructiesnelheid te meten wordt in twee tegengestelde rijrichtingen uitgevoerd: 
+
+a. op een nagenoeg vlak en horizontaal wegdek;  
+
+b. door een bestuurder met een massa van minimaal 75 kg;  
+
+c. met behulp van een daarvoor geschikt meetmiddel, waarbij de meting dient te geschieden terwijl het voertuig de maximaal haalbare snelheid heeft bereikt.  
+
+2.De gemeten maximumconstructiesnelheid is het gemiddelde van twee metingen, waarbij de gemiddelde waarde op een heel getal wordt afgekapt.
+
+### Afdeling  2  
+
+#### *Geluid* 
+
+### §  1  
+
+#### *Personenauto’s, bedrijfsauto’s en bussen* 
+
+### Artikel  30  
+
+1. Het geluidsniveau moet worden gemeten met gebruikmaking van een: 
+
+a. geluidsniveaumeter;  
+
+b. calibratiegeluidsbron;  
+
+c. toerenteller.    
+
+2. De in het eerste lid vermelde apparatuur moet voldoen aan hetgeen voor het desbetreffende meetmiddel is bepaalde in hoofdstuk 8 van deze regeling.  
+
+3. Bij het meten van het geluidsniveau worden de meetcondities als bedoeld in artikel 31 in acht genomen.   
+
+### Artikel  31  
+
+1. De meting vindt plaats in de open lucht.  
+
+2. Het proefterrein mag niet blootstaan aan sterke akoestische storingen. Hieraan wordt voldaan indien het oppervlak van het terrein bestaat uit beton, asfalt, tegels of een vergelijkbaar hard materiaal.  
+
+3. Het proefterrein moet minimaal de afmetingen van een rechthoek hebben, waarvan de zijden zich op ten minste 3,00 m afstand van de personenauto, bedrijfsauto of bus bevinden, zoals weergegeven in figuur 4. Binnen deze rechthoek mogen zich geen personen of voorwerpen bevinden die niet noodzakelijk zijn voor de meting. De personenauto, bedrijfsauto of bus wordt op zodanige wijze binnen de rechthoek geplaatst dat de microfoon zich op ten minste 1,00 m afstand van eventueel aanwezige trottoirbanden bevindt.  
+
+4. De waarden die door de geluidsniveaumeter voor het omgevingsgeluid en de wind worden aangegeven, moeten ten minste 10 dB (A) lager zijn dan het geluidsniveau dat in het kentekenregister is vermeld. Dit wordt gecontroleerd door vaststelling van het achtergrondgeluidsniveau voor en na de meting. De microfoon van de geluidsniveaumeter mag van een passende windkap worden voorzien, mits rekening wordt gehouden met de invloed daarvan op de gevoeligheid van de microfoon.  
+
+5. Voor aanvang van de meting moet de motor van de personenauto, bedrijfsauto of bus op bedrijfstemperatuur worden gebracht.  
+
+6. De meting vindt plaats bij een stilstaande personenauto, bedrijfsauto of bus.  ![244445](http://wetten.overheid.nl/Illustration/244445)
+Figuur 4. Afmetingen proefterrein.    
+
+### Artikel  32  
+
+De meting van het geluidsniveau wordt uitgevoerd aan de hand van de onderstaande wijze van keuren: 
+
+a. voor de aanvang van de meting wordt de geluidsniveaumeter ingesteld op de tijdweging ‘F’ , voorheen aangeduid met ‘Fast’, en de frequentieweging ‘A’;  
+
+b. de motor is op bedrijfstemperatuur indien deze ongeveer vijftien minuten onder normale bedrijfsomstandigheden heeft gefunctioneerd;  
+
+c. aan het begin en einde van iedere serie metingen moet de geluidsniveaumeter gecalibreerd worden volgens de aanwijzingen van de fabrikant met behulp van een calibratiegeluidsbron;  
+
+d. de afwijking tussen het geluidsdrukniveau van de calibratiegeluidsbron en de aanwijzing van de geluidsniveaumeter mag niet groter zijn dan 1 dB(A). Indien deze waarde bij de aanvangscontrole wordt overschreden moet de geluidsniveaumeter zodanig gejusteerd worden dat wel aan deze eis wordt voldaan. Als aan het einde van de serie metingen wordt geconstateerd dat deze afwijking groter is dan 1 dB(A), is de serie metingen ongeldig;  
+
+e. de microfoon van de geluidsniveaumeter moet in de volgende positie worden geplaatst, zoals weergegeven in figuur 5: 
+
+1°. ter hoogte van de uitlaatmonding, in ieder geval ten minste 0,20 m boven het wegdek;  
+
+2°. het membraan van de microfoon is naar de uitlaatmonding gericht en bevindt zich op een afstand van 0,50 m, waarbij een afwijking van 50 mm is toegestaan;  
+
+3°. de hoofdgevoeligheidsas van de microfoon loopt evenwijdig aan het wegdek en vormt een hoek van niet minder dan 35° en niet meer dan 55° met het loodrechte vlak waarin de emissierichting van de uitlaatgassen ligt; de microfoon is zo geplaatst dat de afstand tussen de microfoon en de personenauto het grootst is;  
+
+4°. indien het uitlaatsysteem meerdere uitmondingen heeft, die zijn aangesloten op eenzelfde geluidsdemper, waarvan de middelpunten niet meer dan 0,30 m van elkaar zijn verwijderd, is de microfoon gericht op de uitmonding die zich het dichtst bij de omtrek van de personenauto, bedrijfsauto of bus of zich het hoogst boven het wegdek bevindt. Indien de middelpunten van de uitmondingen meer dan 0,30 m van elkaar zijn verwijderd, wordt bij iedere uitmonding een afzonderlijke meting verricht, waarbij alleen de hoogst gemeten waarde wordt aangehouden;    
+
+f. het toerental van de motor wordt op de waarde gebracht die in het kentekenregister voor de betreffende personenauto, bedrijfsauto of bus is vermeld. Indien het kentekenregister geen toerental vermeld wordt de motor van de personenauto, bedrijfsauto of bus met een toegestane maximummassa van niet meer dan 3.500 kg op 3.500 min<sup>-1</sup> gebracht voor zover het betreft een voertuig met een verbrandingsmotor met elektrische ontsteking en op 2.000 min<sup>-1</sup> voor zover het betreft een voertuig met een verbrandingsmotor met compressieontsteking. Voor personenauto’s, bedrijfauto’s en bussen met een toegestane maximummassa van meer dan 3.500 kg wordt een toerental van 1.500 min<sup>-1</sup> aangehouden;.  
+
+g. na het bereiken van de in onderdeel f vermelde waarde wordt het gaspedaal snel losgelaten. De tijdsduur van de meting van het geluidsniveau omvat de periode, waarin het toerental constant wordt gehouden, en de gehele duur van de vermindering van het toerental tot het stationaire toerental weer is bereikt;  
+
+h. er wordt per meetpunt ten minste een serie van drie metingen verricht, waarbij: 
+
+1°. de hoogste waarde die de geluidsniveaumeter heeft aangegeven, als meetwaarde per meting geldt;  
+
+2°. de meetwaarde per meting op de meest nabijgelegen hele decibel wordt afgerond;  
+
+3°. alleen meetwaarden die bij drie opeenvolgende metingen worden verkregen en onderling niet meer dan 2 dB(A) verschillen, mogen worden aangehouden;  
+
+4°. als meetresultaat de hoogste van deze drie meetwaarden geldt.      ![244446](http://wetten.overheid.nl/Illustration/244446)
+Figuur 5. Plaatsing microfoon.  
+
+### §  2  
+
+#### *Motorfietsen en driewielige motorrijtuigen* 
+
+### Artikel  33  
+
+1. Het geluidsniveau moet worden gemeten met gebruikmaking van een: 
+
+a. geluidsniveaumeter;  
+
+b. calibratiegeluidsbron;  
+
+c. toerenteller.    
+
+2. De in het eerste lid vermelde apparatuur moet voldoen aan hetgeen voor het desbetreffende meetmiddel is bepaalde in hoofdstuk 8 van deze regeling.  
+
+3. Bij het meten van het geluidsniveau worden de meetcondities als bedoeld in artikel 34 in acht genomen.   
+
+### Artikel  34  
+
+1. De meting vindt plaats in de open lucht.  
+
+2. Het proefterrein mag niet blootstaan aan sterke akoestische storingen. Hieraan wordt voldaan indien het oppervlak van het terrein bestaat uit beton, asfalt, tegels of een vergelijkbaar hard materiaal.  
+
+3 Het proefterrein moet minimaal de afmetingen van een rechthoek hebben, waarvan de zijden zich op ten minste 3,00 m afstand van de motorfiets of het driewielig motorrijtuig bevinden, met uitzondering van het stuur van de motorfiets of het driewielig motorrijtuig, zoals weergegeven in figuur 6. Binnen deze rechthoek mogen zich geen personen of voorwerpen bevinden die niet noodzakelijk zijn voor de meting. De motorfiets of het driewielig motorrijtuig wordt op zodanige wijze binnen de rechthoek geplaatst dat de microfoon zich op ten minste 1,00 m afstand van eventueel aanwezige trottoirbanden bevindt.  
+
+4. De waarden die door de geluidsniveaumeter voor het omgevingsgeluid en de wind worden aangegeven, moeten ten minste 10 dB(A) lager zijn dan het geluidsniveau dat in het kentekenregister is vermeld. Dit wordt gecontroleerd door vaststelling van het achtergrondgeluidsniveau voor en na de meting. De microfoon van de geluidsniveaumeter mag van een passende windkap worden voorzien, mits rekening wordt gehouden met de invloed daarvan op de gevoeligheid van de microfoon.  
+
+5. Voor aanvang van de meting moet de motor van de motorfiets of het driewielig motorrijtuig op bedrijfstemperatuur worden gebracht.  
+
+6. De meting vindt plaats bij een stilstaande motorfiets of driewielig motorrijtuig.  ![244447](http://wetten.overheid.nl/Illustration/244447)
+Figuur 6. Afmetingen proefterrein.    
+
+### Artikel  35  
+
+De meting van het geluidsniveau wordt uitgevoerd aan de hand van de onderstaande wijze van keuren: 
+
+a. voor aanvang van de meting wordt de geluidsniveaumeter ingesteld op de tijdweging ‘F’ , voorheen aangeduid met ‘Fast’, en de frequentieweging ‘A’;  
+
+b. de motor is op bedrijfstemperatuur indien deze ongeveer vijftien minuten onder normale bedrijfsomstandigheden heeft gefunctioneerd;  
+
+c. indien het niet mogelijk is de overbrenging te ontkoppelen, moet het aangedreven wiel vrij kunnen draaien;  
+
+d. aan het begin en einde van iedere serie metingen moet de geluidsniveaumeter gecalibreerd worden volgens de aanwijzingen van de fabrikant met behulp van een calibratiegeluidsbron;  
+
+e. de afwijking tussen het geluidsdrukniveau van de calibratiegeluidsbron en de aanwijzing van de geluidsniveaumeter mag niet groter zijn dan 1 dB(A). Indien deze waarde bij de aanvangscontrole wordt overschreden moet de geluidsniveaumeter zodanig gejusteerd worden dat wel aan deze eis wordt voldaan. Als aan het einde van de serie metingen wordt geconstateerd dat deze afwijking groter is dan 1 dB(A), is de serie metingen ongeldig;  
+
+f. de microfoon van de geluidsniveaumeter moet in de volgende positie worden geplaatst, zoals weergegeven in figuur 7: 
+
+1°. ter hoogte van de uitlaatmonding, in ieder geval ten minste 0,20 m boven het wegdek;  
+
+2°. het membraan van de microfoon is naar de uitlaatmonding gericht en bevindt zich op een afstand van 0,50 m, waarbij een afwijking van 50 mm is toegestaan;  
+
+3°. de hoofdgevoeligheidsas van de microfoon loopt evenwijdig aan het wegdek en vormt een hoek van niet minder dan 35° en niet meer dan 55° met het loodrechte vlak waarin de emissierichting van de uitlaatgassen ligt; de microfoon is zo geplaatst dat de afstand tussen de microfoon en de motorfiets of het driewielig motorrijtuig het grootst is;  
+
+4°. indien het uitlaatsysteem meerdere uitmondingen heeft, aangesloten op eenzelfde geluiddemper waarvan de middelpunten niet meer dan 0,30 m van elkaar zijn verwijderd, is de microfoon gericht op de uitmonding die zich het dichtst bij de omtrek van de motorfiets of het driewielig motorrijtuig of zich het hoogst boven het wegdek bevindt. Indien de middelpunten van de uitmondingen meer dan 0,30 m van elkaar zijn verwijderd, wordt bij iedere uitmonding een afzonderlijke meting verricht, waarbij alleen de hoogst gemeten waarde wordt aangehouden;    
+
+g. het toerental van de motor wordt op de waarde gebracht die in het kentekenregister voor de betreffende motorfiets of het betreffende driewielige motorrijtuig is vermeld indien in het kentekenregister een dB(A)waarde en een toerental zijn vermeld; Indien bij een motorfiets in het kentekenregister geen dB(A)waarde, maar wel het toerental waarbij het maximumvermogen van de betreffende motorfiets wordt bereikt (toerental n), is vermeld, dan wordt de dB(A)waarde vastgesteld volgens tabel 1 en het toerental op: 1?. 3/4 n, indien toerental n lager dan of gelijk is aan 5000 min<sup>-1</sup>; en 2?. 1/2 n, indien toerental n hoger is dan 5000 min<sup>-1</sup>; In de overige gevallen wordt de dB(A)waarde vastgesteld volgens tabel 1 en het toerental vastgesteld volgens onderstaande tabel:  
+
+| --- | --- |
+|:---|:---|
+| Bouwjaar voor 1960  | - 2-takt: 2250 min<sup>-1</sup>   - 4-takt: 2000 min<sup>-1</sup>   |
+| Bouwjaar vanaf 1960  | - 2-takt: 4500 min<sup>-1</sup>   - 4-takt: 4000 min<sup>-1</sup>   |
+
+h. na het bereiken van de in onderdeel g vermelde waarde wordt de gashandel snel losgelaten. De tijdsduur van de meting van het geluidsniveau omvat de periode, waarin het toerental constant wordt gehouden, en de gehele duur van de vermindering van het toerental tot het stationaire toerental weer is bereikt;  
+
+i. er wordt per meetpunt ten minste een serie van drie metingen verricht, waarbij: 
+
+1°. de hoogste waarde die de geluidsniveaumeter heeft aangegeven, als meetwaarde per meting geldt;  
+
+2°. de meetwaarde per meting op de meest nabijgelegen hele decibel wordt afgerond;  
+
+3°. alleen meetwaarden die bij drie opeenvolgende metingen worden verkregen en onderling niet meer dan 2 dB(A) verschillen, mogen worden aangehouden;  
+
+4°. als meetresultaat de hoogste van deze drie meetwaarden geldt.    ![244448](http://wetten.overheid.nl/Illustration/244448)
+Figuur 7. Plaatsing microfoon.   Tabel 1. Maximum geluidswaarde motorfiets 
+
+| Cilinderinhoud t/m  | Maximum toegestane waarde  |
+|:---|:---|
+| 80 cm<sup>3</sup>   | 91 dB(A)  |
+| 125 cm<sup>3</sup>   | 92 dB(A)  |
+| 350 cm<sup>3</sup>   | 95 dB(A)  |
+| 500 cm<sup>3</sup>   | 97 dB(A)  |
+| 750 cm<sup>3</sup>   | 100 dB(A)  |
+| 1000 cm<sup>3</sup>   | 103 dB(A)  |
+| >1000 cm<sup>3</sup>   | 106 dB(A)  |
+
+### §  3  
+
+#### *Bromfietsen* 
+
+### Artikel  36  
+
+1. Het geluidsniveau moet worden gemeten met gebruikmaking van een: 
+
+a. geluidsniveaumeter;  
+
+b. calibratiegeluidsbron;  
+
+c. toerenteller.    
+
+2. De in het eerste lid vermelde apparatuur moet voldoen aan hetgeen voor het desbetreffende meetmiddel is bepaalde in hoofdstuk 8 van deze regeling.  
+
+3. Bij het meten van het geluidsniveau worden de meetcondities als bedoeld in artikel 37 in acht genomen.   
+
+### Artikel  37  
+
+1. De meting vindt plaats in de open lucht.  
+
+2. Het proefterrein mag niet blootstaan aan sterke akoestische storingen. Hieraan wordt voldaan indien het oppervlak van het terrein bestaat uit beton, asfalt, tegels of een vergelijkbaar hard materiaal.  
+
+3. Voor de meting van het geluidsniveau van bromfietsen: 
+
+a. als bedoeld in artikel 5.6.11, vijfde lid, van hoofdstuk 5 van deze regeling, mogen zich binnen een straal van 2,00 m van de microfoon van de geluidsniveaumeter, zoals weergegeven in figuur 8, geen personen of voorwerpen bevinden die niet noodzakelijk zijn voor de meting, waarbij de bromfiets op zodanige wijze wordt geplaatst dat de microfoon zich op ten minste 1,00 m afstand van eventueel aanwezige trottoirbanden bevindt;  
+
+b. als bedoeld in artikel 5.6.11, vierde lid, van hoofdstuk 5 van deze regeling, moet het proefterrein minimaal de afmetingen van een rechthoek hebben, waarvan de zijden zich op ten minste 3,00 m afstand van de bromfiets bevinden, met uitzondering van het stuur van de bromfiets, zoals weergegeven in figuur 9, waarbij geldt dat zich binnen deze rechthoek geen personen of voorwerpen mogen bevinden die niet noodzakelijk zijn voor de meting en de bromfiets op zodanige wijze binnen de rechthoek wordt geplaatst dat de microfoon zich op ten minste 1,00 m afstand van eventueel aanwezige trottoirbanden bevindt.    
+
+4. De waarden die door de geluidsniveaumeter voor het omgevingsgeluid en de wind worden aangegeven moeten ten minste 10 dB(A) lager zijn dan het gestelde maximum geluidsniveau als bedoeld in artikel 5.6.11 van deze regeling. Dit wordt gecontroleerd door vaststelling van het achtergrondgeluidsniveau voor en na de meting. De microfoon van de geluidsniveaumeter mag van een passende windkap worden voorzien, mits rekening wordt gehouden met de invloed daarvan op de gevoeligheid van de microfoon.  
+
+5. Voor aanvang van de meting moet de motor van de bromfiets op bedrijfstemperatuur worden gebracht.  
+
+6. De meting vindt plaats bij een stilstaande bromfiets.  ![244449](http://wetten.overheid.nl/Illustration/244449)
+Figuur 8.   ![244450](http://wetten.overheid.nl/Illustration/244450)
+Figuur 9.    
+
+### Artikel  38  
+
+De meting van het geluidsniveau wordt uitgevoerd aan de hand van de onderstaande wijze van keuren: 
+
+a. voor aanvang van de meting wordt de geluidsniveaumeter ingesteld op de tijdweging ‘F’ , voorheen aangeduid met ‘Fast’, en de frequentieweging ‘A’;  
+
+b. de motor is op bedrijfstemperatuur indien deze ongeveer vijftien minuten onder normale bedrijfsomstandigheden heeft gefunctioneerd;  
+
+c. indien het niet mogelijk is de overbrenging te ontkoppelen, moet het aangedreven wiel vrij kunnen draaien;  
+
+d. aan het begin en einde van iedere serie metingen moet de geluidsniveaumeter gecalibreerd worden volgens de aanwijzingen van de fabrikant met behulp van een calibratiegeluidsbron;  
+
+e. de afwijking tussen het geluidsdrukniveau van de calibratiegeluidsbron en de aanwijzing van de geluidsniveaumeter mag niet groter zijn dan 1dB(A). Indien deze waarde bij de aanvangscontrole wordt overschreden moet de geluidsniveaumeter zodanig gejusteerd worden dat wel aan deze eis wordt voldaan. Als aan het einde van de serie metingen wordt geconstateerd dat deze afwijking groter is dan 1 dB(A), is de serie metingen ongeldig;  
+
+f. voor bromfietsen als bedoeld in artikel 5.6.11, vijfde lid, van hoofdstuk 5 van deze regeling: de microfoon van de geluidsniveaumeter wordt gericht naar de uitlaatmonding op niet minder dan 0,50 m afstand van het hart van de uitlaatmonding, waarbij een afwijking van 50 mm is toegestaan, in een vlak nagenoeg loodrecht op de richting van de gasstroom, op nagenoeg dezelfde hoogte boven het wegdek als de uitlaatmonding; indien deze hoogte minder dan 0,20 m is, wordt de microfoon op een hoogte van 0,20 m boven het wegdek gehouden;  
+
+g. voor bromfietsen als bedoeld in artikel 5.6.11, vierde lid, van hoofdstuk 5 van deze regeling: de microfoon van de geluidsniveaumeter moet in de volgende positie worden geplaatst, zoals weergegeven in figuur 10: 
+
+1°. ter hoogte van de uitlaatmonding, doch in ieder geval ten minste 0,20 m boven het wegdek;  
+
+2°. het membraan van de microfoon is naar de uitlaatmonding gericht en bevindt zich op een afstand van 0,50 m, waarbij een afwijking van 50 mm is toegestaan;  
+
+3°. de hoofdgevoeligheidsas van de microfoon loopt evenwijdig aan het wegdek en vormt een hoek van niet minder dan 35° en niet meer dan 55° met het loodrechte vlak waarin de emissierichting van de uitlaatgassen ligt, waarbij de microfoon zo is geplaatst dat de afstand tussen de microfoon en de bromfiets het grootst is;  
+
+4°. indien het uitlaatsysteem meerdere uitmondingen heeft, aangesloten op eenzelfde geluiddemper waarvan de middelpunten niet meer dan 0,30 m van elkaar zijn verwijderd, is de microfoon gericht op de uitmonding die zich het dichtst bij de omtrek van de bromfiets of zich het hoogst boven het wegdek bevindt, met dien verstande dat indien de middelpunten van de uitmondingen meer dan 0,30 m van elkaar zijn verwijderd, bij iedere uitmonding een afzonderlijke meting wordt verricht, waarbij alleen de hoogst gemeten waarde wordt aangehouden;    
+
+h. voor bromfietsen als bedoeld in artikel 5.6.11, vijfde lid, van hoofdstuk 5 van deze regeling: 
+
+1°. tijdens de meting wordt de gastoevoer geheel geopend, waarbij het toerental van de motor de maximum waarde moet bereiken, en snel gesloten;  
+
+2°. de meting wordt zodanig verricht dat de tijd tussen het begin van het openen van de gastoevoer en het begin van het sluiten daarvan ten minste 2 seconden bedraagt. De geluidsmeting omvat ook de gehele duur van de vermindering van het toerental, tot het stationaire toerental weer is bereikt;    
+
+i. voor bromfietsen als bedoeld in artikel 5.6.11, vierde lid, van hoofdstuk 5 van deze regeling: 
+
+1°. het toerental van de motor wordt op de waarde gebracht die in het kentekenregister voor de desbetreffende bromfiets is vermeld;  
+
+2°. na het bereiken van de in onderdeel 1° bedoelde waarde, wordt de gastoevoer snel gesloten. De geluidsmeting omvat ook de gehele duur van de vermindering van het toerental, tot het stationaire toerental weer is bereikt;    
+
+j. er wordt per meetpunt ten minste een serie van drie metingen verricht, waarbij: 
+
+1°. de hoogste waarde die de geluidsniveaumeter heeft aangegeven, als meetwaarde per meting geldt;  
+
+2°. de meetwaarde per meting op de meest nabijgelegen hele decibel wordt afgerond;  
+
+3°. alleen meetwaarden die bij drie opeenvolgende metingen worden verkregen en onderling niet meer dan 2 dB(A) verschillen, mogen worden aangehouden;  
+
+4°. als meetresultaat de hoogste van deze drie meetwaarden geldt.      ![244451](http://wetten.overheid.nl/Illustration/244451)
+Figuur 10. Plaats van de microfoon.  
+
+### Afdeling  3  
+
+#### *Emissie* 
+
+### §  1  
+
+#### *Koolmonoxide* 
+
+### Artikel  39  
+
+#### *Aanwezigheid emissiebestrijdingssysteem* 
+
+1. Personenauto’s met een verbrandingsmotor met elektrische ontsteking, die in gebruik zijn genomen na 31 december 1995, moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem, dat bestaat uit een katalysator en een lambdasonde.  
+
+2. Bedrijfsauto’s en bussen met een toegestane maximummassa van niet meer dan 3.500 kg, die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997, moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem, dat bestaat uit een katalysator en een lambdasonde.   
+
+### Artikel  40  
+
+#### *Controle werking emissiebestrijdingssysteem* 
+
+1. De goede werking van het emissiebestrijdingssysteem wordt gecontroleerd door meting van de lambdawaarde en het koolmonoxidegehalte van de uitlaatgassen bij verhoogd toerental en door meting van het koolmonoxidegehalte bij stationair toerental.  
+
+2. Voor elke meting wordt gecontroleerd of de motor en het emissiebestrijdingssysteem op bedrijfstemperatuur zijn. Hieraan wordt voldaan indien de motor gedurende 3 minuten op een toerental van ongeveer 3000 omw/min heeft gedraaid en: 
+
+a. een proefrit heeft plaatsgevonden, of  
+
+b. de motorolietemperatuur minimaal 80 °C bedraagt.   De motorolietemperatuur moet worden gecontroleerd met behulp van een olietemperatuurmeter die is voorzien van een geldig certificaat van eerste keuring dan wel herkeuring.   
+
+### Artikel  41  
+
+#### *Koolmonoxide gehalte bij stationair toerental* 
+
+1. De uitlaatgassen van personenauto’s, bedrijfsauto’s en bussen met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor, niet meer koolmonoxide bevatten dan: 
+
+a. 4.5% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 31 december 1973, maar voor 1 oktober 1986;  
+
+b. 3.5% vol. Koolmonoxide, indien het voertuig in gebruik is genomen na 30 september 1986, maar voor 1 juli 2002;  
+
+c. 0.5% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 31 december 1985 maar voor 1 juli 2002 en het voertuig is uitgerust met een emissiebestrijdingssysteem, dat bestaat uit een katalysator en een lambdasonde;  
+
+d. 0.3% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 30 juni 2002;  
+
+e. 1.5% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 31 december 1973 maar voor 1 juli 2002 en het voertuig volgens een aantekening in het kentekenregister voor dat voertuig wordt gevoed door een al dan niet tot vloeistof verdicht gas;  
+
+f. 0.5% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 30 juni 2002 en blijkens een aantekening in het kentekenregister voor dat voertuig wordt gevoed door een al dan niet tot vloeistof verdicht gas.   Bij het vaststellen van het koolmonoxidegehalte mag het tweede cijfer achter de komma buiten beschouwing worden gelaten.  
+
+2. Het eerste lid is niet van toepassing op hybride elektrische voertuigen.   
+
+### Artikel  42  
+
+#### *Koolmonoxidegehalte en lambdawaarde bij verhoogd toerental* 
+
+1. Personenauto’s, bedrijfsauto’s en bussen uitgerust met een verbrandingsmotor met elektrische ontsteking, die zijn voorzien van een emissiebestrijdingssysteem, moeten om de goede werking van het emissiebestrijdingssysteem te controleren voldoen aan de onderstaande eisen. Het koolmonoxidegehalte en de lambdawaarde mag bij verhoogd toerental en met een motor op bedrijfstemperatuur de onderstaande waarden niet overschrijden: 
+
+a. 0.3% vol. koolmonoxide, indien: 
+
+1°. het een personenauto betreft die in gebruik is genomen na 31 december 1992, maar voor 1 juli 2002, waarbij de lambdawaarde moet liggen tussen 0.97 en 1.03;  
+
+2°. het een bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg betreft die in gebruik is genomen na 31 december 1994, maar voor 1 juli 2002, waarbij de lambdawaarde moet liggen tussen 0.97 en 1.03;    
+
+b. 0.2% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 30 juni 2002, waarbij de lambdawaarde moet liggen tussen 0.97 en 1.03.    
+
+2. De in het eerste lid, onder a en b, vermelde waarden worden bepaald bij een verhoogd toerental gelegen tussen de 2.000 omw/min. en 3200 omw/min. Hierbij mogen alle elektrische stroomverbruikers zijn ingeschakeld.  
+
+3. Indien het voertuig is voorzien van een rotatiemotor of een C.N.G.-installatie kan de controle op de werking van het emissiebestrijdingssysteem achterwege blijven.  
+
+4. Bij het vaststellen van het koolmonoxidegehalte bij verhoogd toerental mag het tweede cijfer achter de komma buiten beschouwing worden gelaten. Bij het vaststellen van de lambdawaarde mag het derde cijfer achter de komma buiten beschouwing worden gelaten. Indien het voertuig is voorzien van een LPG-installatie moet de meting bij verhoogd toerental worden uitgevoerd indien; 
+
+1°. het een personenauto betreft, die in gebruik is genomen na 31 december 1997;  
+
+2°. het een personenauto betreft, die in gebruik is genomen na 31 december 1992, doch vóór 1 januari 1998, waarvan in het kentekenregister de vermelding ‘G3’ is vermeld;  
+
+3°. het een bedrijfsauto of een bus betreft met een toegestane maximummassa van niet meer dan 3.500 kg, die in gebruik is genomen na 31 december 1997.    
+
+5. Het eerste tot en met vierde lid is niet van toepassing op voertuigen die voorkomen in de lijst met voertuigspecifieke gegevens of indien dit door middel van documentatie van de voertuigfabrikant wordt aangetoond. Voor deze voertuigen gelden de in de lijst met voertuigspecifieke gegevens opgenomen eisen, of de in de documentatie van de voertuigfabrikant vermelde eisen. De lijst met voertuigspecifieke gegevens is niet van toepassing op motorvoertuigen voorzien van een LPG installatie.  
+
+6. Het eerste tot en met vijfde lid zijn niet van toepassing op seriehybride elektrische voertuigen.   
+
+### Artikel  43  
+
+#### *Wijze van keuren* 
+
+1. De controle als bedoeld in artikel 41 en 42 geschiedt door meting aan een stilstaande personenauto, bedrijfsauto of bus met een koolmonoxidemeter die ten minste gedurende de door de fabrikant van de koolmonoxidemeter opgegeven opwarmtijd onder elektrische spanning heeft gestaan.  
+
+2. Bij de meting moet de omgevingstemperatuur hoger zijn dan 0 °C, Vóór elke meting wordt het nulpunt van de koolmonoxidemeter gecontroleerd en indien nodig bijgesteld.  
+
+3. Vóór elke meting wordt gecontroleerd of: 
+
+a. de motor met het stationaire toerental draait en op bedrijfstemperatuur is, en  
+
+b. de carterontluchting op het voertuig is aangesloten.    
+
+4. Vóór elke meting wordt gecontroleerd of het monsternamesysteem in goede staat verkeert, waarbij in het bijzonder moet worden gelet op beschadiging van de monsternameslang en sonde.  
+
+5. De sonde wordt ten minste 0,30 m. in de uitmonding van het uitlaatsysteem ingebracht. De eindwaarde van een meting wordt gelijkgesteld met de waarde die na 30 sec is bereikt.  
+
+6. Het verhoogd toerental moet worden gecontroleerd met behulp van een toerenteller.  
+
+7. Indien het uitlaatsysteem meer dan één uitmonding heeft, beperkt de meting zich tot één uitmonding.  
+
+8. Indien de personenauto, bedrijfsauto of bus is uitgerust met meer dan één brandstofsysteem, wordt de controle uitgevoerd met de brandstof zoals deze het eerst of als enige vermeld is in het kentekenregister.  
+
+9. In afwijking van de voorgaande leden is het toegestaan bij voertuigen die voorzien zijn van een emissiegerelateerd diagnostisch boordsysteem (EOBD-systeem), uitgezonderd voertuigen met een LPG-installatie, de controle als bedoeld in artikel 41 uit te voeren door het uitlezen van het EOBD-systeem met behulp van het uitleesapparaat. De weergave kan de P-code bevatten, een beschrijvende tekst, of een combinatie van beide. Er is voldaan aan artikel 41 indien er sprake is van een foutloos EOBD-systeem. Hiertoe dient het EOBD-systeem een aantal interne controles te hebben afgerond, de zogenaamde readiness-test. Indien emissiegerelateerde foutcodes worden geconstateerd of de readiness-test niet is afgerond, vindt alsnog een beoordeling plaats overeenkomstig leden 1 tot en met 8 van dit artikel.  Lijst met voertuigspecifieke gegevens. 
+
+| Merk  | Type  | Motorcode  (op motor of typeplaatje)  | Max. CO% bij verhoogd toerental  | Lambdawaarde bij verhoogd toerental  | Verhoogd toerental tussen  |
+|:---|:---|:---|:---|:---|:---|
+| Aston Martin  | V8 Virage Volante  | 6,3 achter motornr.  | 3,5.  | 1,2–1,4  | 2500–2700  |
+| Indien de auto is uitgerust met een volautomatische versnellingsbak mag voor het op temperatuur brengen van het emissiesysteem de motor maximaal 1 minuut op 2500 omw/min draaien. Geadviseerd wordt de motor op temperatuur (minimaal 80 °C) te brengen door middel van het maken van een proefrit.  |
+| --- | --- | --- | --- | --- | --- |
+| BMW  | Alle typen  | N43...  | 0,2  | 0,7–4,0  | 2300–2700  |
+| --- | --- | N53…  | 0,2  | 0,7–4,0  | 2300–2700  |
+| --- | --- | --- | --- | --- | --- |
+| Citroën  | ZX en Xantia  | XU5JP (BFZ)  | 0,3  | 0,97–1,03  | 1400–1600  |
+| --- | ZX, Xsara en Xantia  | XU7JP (LFZ)  | 0,3  | 0,97–1,03  | 1400–1600  |
+| --- | C5 2.0 HPI  | RLZ  | > 0,3  | > 4,00 of 0,97–1,03  | 2250–3000  |
+| --- | --- | --- | --- | bij losgenomen EGR klep  | --- |
+| --- | De volgende gebruikers dienen bij het verhoogd toerental te zijn ingeschakeld: Grootlicht, achterruitverwarming, interieur ventilator (hoogste stand) en bij auto’s met stuurbekrachtiging maximale stuuruitslag.  |
+| --- | Indien de auto is uitgerust met een volautomatische versnellingsbak mag het verhoogd toerental onbelast maximaal 2400 omw/min bedragen.  |
+| --- | --- |
+| Daimler  | Indien de auto is uitgerust met een volautomatische versnellingsbak mag voor het op temperatuur brengen van het emissiesysteem de motor maximaal 1 minuut op 2500 omw/min draaien. Geadviseerd wordt de motor op temperatuur (minimaal 80 °C) te brengen door middel van het maken van een proefrit.  |
+| Ford  | Alle typen  | --- | 0,3  | 0,95–1,09  | 2000–3200  |
+| Fiesta 1.4 i  | Motor CVH  | 0,3  | 0,95–1,09  | 3600–3900  |
+| --- | Escort 1.4 i  | Code F6E  | 0,3  | 0,95–1,09  | 3600–3900  |
+| --- | Orion 1.4 i  | Code F6G  | 0,3  | 0,95–1,09  | 3600–3900  |
+| --- | Type CVH  | Code F6F  | 0,3  | 0,95–1,09  | 3600–3900  |
+| --- | --- | --- | --- | --- | --- |
+| Ford  | Mustang  | --- | 0,3  | 1,57–1,79  | 2500–3200  |
+| Geldt voor de auto’s waarbij op de 8<sup>e</sup> positie van het voertuigidentificatienummer de letter T is vermeld. Tijdens de meting mag de luchtpomp niet worden uitgeschakeld.  |
+| --- | --- |
+| Jaguar  | Indien de auto is uitgerust met een volautomatische versnellingsbak mag voor het op temperatuur brengen van het emissiesysteem de motor maximaal 1 minuut op 2500 omw/min draaien. Geadviseerd wordt de motor op temperatuur (minimaal 80 °C) te brengen door middel van het maken van een proefrit.  |
+| --- | --- | --- | --- | --- | --- |
+| Rover  | alle typen  | --- | 0,3  | 0,95–1,09  | 2000–3200  |
+| Landrover  | idem  | --- | --- | --- | --- |
+| Mini  | idem  | --- | --- | --- | --- |
+| MG  | idem  | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| Mitsubishi  | Carisma GDI  | --- | 0,3  | 3,50–4,00 of 0,97–1,03 bij ingeschakelde verbruiker(s)  | 2500–3000  |
+| --- | --- | --- | --- | --- | --- |
+| Peugeot  | 306  | XU7JP (LFZ)  | 0,3  | 0,97–1,03  | 1400–1600  |
+| --- | 405  | XU5JP (BFZ)  | 0,3  | 0,97–1,03  | 1400–1600  |
+| --- | 405  | XU7JP (LFZ)  | 0,3  | 0,97–1,03  | 1400–1600  |
+| --- | 406  | XU5JP (BFZ)  | 0,3  | 0,97–1,03  | 1400–1600  |
+| --- | 406  | RLZ  | > 0,3  | > 4,00 of 0,97–1,03  | 2250–3000  |
+| --- | --- | --- | --- | bij losgenomen EGR klep  | --- |
+| --- | De volgende gebruikers dienen bij het verhoogd toerental te zijn ingeschakeld: Grootlicht, achterruitverwarming, interieur ventilator (hoogste stand) en bij auto’s met stuurbekrachtiging maximale stuuruitslag.  |
+| --- | Indien de auto is uitgerust met een volautomatische versnellingsbak mag het verhoogd toerental maximaal 2400 omw/min bedragen  |
+| --- | --- |
+| Toyota  | Carina 1600/1800  | 4AFE  | 0,3  | 0,97–1,60  | 2400–2600  |
+| --- | 7AFE  | 0,3  | 0,97–1,60  | 2400–2600  |
+| Indien de auto is uitgerust met een volautomatische versnellingsbak moet voor het op temperatuur brengen van het emissiebestrijdingssysteem en de motor een proefrit worden gemaakt van minimaal 5 kilometer.  |
+| --- | --- | --- | --- | --- | --- |
+| Volvo  | 400 serie  | --- | 0,3  | 0,96–1,04  | 2000–3200  |
+| --- | 850 serie  | --- | 0,3  | 0,96–1,04  | 2000–3200  |
+| --- | 940 serie  | --- | 0,3  | 0,96–1,04  | 2000–3200  |
+| --- | 960 serie  | --- | 0,3  | 0,96–1,04  | 2000–3200  |
+| --- | Indien auto’s uit de 400-serie zijn uitgerust met een volautomatische versnellingsbak mag het verhoogd toerental maximaal 1500 omw/min bedragen  |
+
+### §  2  
+
+#### *Roet* 
+
+### Artikel  44  
+
+#### *Eisen Roetmeting* 
+
+1. Van personenauto’s, bedrijfsauto’s en bussen met een verbrandingsmotor met compressieontsteking mag de hoeveelheid roet, uitgedrukt in de absorptiecoëfficiënt (k-waarde) van de uitlaatgassen, de volgende waarden niet overschrijden: 
+
+a. 3.0 m<sup>–1</sup> voor een motor met drukvulling, indien het voertuig in gebruik genomen is na 31 december 1979, maar voor 1 juli 2008;  
+
+b. 2.5 m<sup>–1</sup> voor voertuigen met natuurlijke aanzuiging, indien het voertuig in gebruik genomen is na 31 december 1979, maar voor 1 juli 2008;  
+
+c. 1.5 m<sup>–1</sup> voor een motor met drukvulling of voor een motor met natuurlijke aanzuiging, indien het voertuig in gebruik genomen is na 30 juni 2008;  
+
+d. Wanneer in het kentekenregister een hogere absorptiecoëfficiënt staat vermeld, dan mag deze waarde worden aangehouden.    
+
+2. Om de in het eerste lid vermelde maximum hoeveelheid roet te bepalen moeten de volgende meetwaarden worden gehanteerd, welke in de roetmeter worden ingevoerd: 
+
+a. stationaire toerental. Het werkelijke stationair toerental, waarbij ten behoeve van het invoeren in de roetmeter moet worden aangehouden een: 
+
+1°. minimum toerental van 400 min<sup>–1</sup>;  
+
+2°. maximum toerental: 1000 min<sup>–1</sup>;    
+
+b. afregeltoerental. Het afregeltoerental wordt geschat. Voor het in te voeren minimum toerental en maximum toerental wordt een ruime marge aangehouden, opdat het geschatte afregeltoerental binnen deze waarden zal vallen;  
+
+c. de minimum motorolietemperatuur: 60° C.    
+
+3. De roetmeting blijft achterwege, indien de personenauto, de bedrijfsauto of de bus is uitgerust met een comprex-lader of indien het een seriehybride elektrisch voertuig betreft.  
+
+4. Indien een personenauto, bedrijfsauto of bus met een toegestane maximummassa van niet meer dan 3.500 kg is uitgerust met een volautomatische versnellingsbak: 
+
+a. wordt de motorolie op temperatuur gebracht door stationair draaien van de motor of door middel van een rit, en  
+
+b. vinden per test niet meer dan zes metingen plaats.    
+
+5. De motorolietemperatuur moet de minimum waarde hebben bereikt. Indien het technisch niet mogelijk is de olietemperatuur te meten, waardoor de roetmeter aangeeft dat de olietemperatuur te laag is, mag de meting worden uitgevoerd met uitgeschakelde beveiliging. Indien de temperatuuropnemer niet in de motor is ingebracht, omdat duidelijk is dat de motorolie op de vereiste temperatuur is, mag eveneens met uitgeschakelde beveiliging worden gemeten.  
+
+6. Het stationaire toerental dient binnen de in de roetmeter ingebrachte waarden te vallen. Indien dit niet het geval is, moet het stationaire toerental van de motor worden bijgesteld tot een waarde, die ligt tussen de ingebrachte waarden. Hierna kan verder worden gegaan met de meting. Is bijstellen niet mogelijk of wenselijk dan moet worden gestopt met de meting en kan het voertuig niet worden goedgekeurd.  
+
+7. Het afregeltoerental dient binnen de in de roetmeter ingebrachte waarden te vallen. Indien dit niet het geval is, dan moet het afregeltoerental in de roetmeter worden gewijzigd, zodat het afregeltoerental van de motor binnen de ingebrachte waarden valt.  
+
+8. Indien tijdens de keuring blijkt, dat de brandstofpomp zodanig is afgesteld, waardoor de maximum snelheid van het voertuig lager is dan 60 km/uur, zal het voertuig alsnog worden afgekeurd. De brandstofpomp dient in dergelijk geval opnieuw te worden afgesteld, waarna de roetmeting opnieuw moet worden uitgevoerd.  
+
+9. De meetprocedure mag worden afgebroken, indien de roetmeter aangeeft, dat de absorptiecoëfficiënt van de eerste of tweede meting kleiner of gelijk is dan de maximale absorptiecoëfficiënt minus 0.5 m<sup>–1</sup> , waarbij is voldaan aan het gestelde in het tweede tot en met het vierde lid.  
+
+10. Indien de absorptiecoëfficiënt aan de hand van de roetmeetstrook moet worden bepaald, omdat de absorptiecoëfficiënt van de eerste en tweede meting niet kleiner of gelijk is dan de maximale absorptiecoëfficiënt minus 0.5 m<sup>1</sup>, dan mogen de verschillen van de afregeltoerentallen van de metingen, waarmee de gemiddelde absorptiecoëfficiënt wordt bepaald, niet meer dan 10% bedragen van het hoogste afregeltoerental. Het onderling verschil in absorptiecoëfficiënt (de bandbreedte) tussen drie opeenvolgende testen mag niet groter zijn dan: 
+
+a. 0,5 m<sup>–1</sup> als de berekende k-waarde kleiner of gelijk is aan 2,5 m<sup>–1</sup>, en  
+
+b. 0,7 m<sup>–1</sup> als de berekende k-waarde groter is dan 2,5 m<sup>–1</sup>.     
+
+### Artikel  45  
+
+#### *Wijze van keuren* 
+
+1. De controle geschiedt door meting aan een stilstaande personenauto, bedrijfsauto of bus met een roetmeter, die ten minste gedurende de door de fabrikant van de roetmeter opgegeven opwarmtijd onder elektrische spanning heeft gestaan.  
+
+2. Vóór elke meting wordt gecontroleerd of het monsterafnamesysteem en de desbetreffende verbindingskabels in goede staat verkeren, waarbij in het bijzonder moet worden gelet op beschadigingen.  
+
+3. De sonde wordt op de wijze, zoals beschreven in de handleiding van de desbetreffende roetmeter, in de uitmonding van het uitlaatsysteem ingebracht. Eventuele aanwijzingen in de handleiding met betrekking tot de te gebruiken sonde moeten worden gevolgd.  
+
+4. Indien het uitlaatsysteem meer dan één uitmonding heeft, beperkt de meting zich tot één uitmonding.  
+
+5. De motorolietemperatuur wordt gemeten met behulp van een temperatuuropnemer welke op de wijze, zoals beschreven in de handleiding van de desbetreffende roetmeter, in de motor wordt ingebracht. Eventuele aanwijzingen in de handleiding met betrekking tot de te gebruiken temperatuuropnemer moeten worden gevolgd.  
+
+6. Het stationaire toerental en afregeltoerental moeten worden ingevoerd in de roetmeter en gecontroleerd met behulp van een toerenteller. Zonodig wordt het stationair toerental afgesteld, alvorens met de meting wordt begonnen. Eventuele aanwijzingen in de handleiding moeten worden gevolgd.  
+
+7. Bij elke meting moet het ‘gaspedaal’ snel en zonder onderbreking binnen één seconde tot aan de aanslag worden ingedrukt.   
+
+###§ 3 
+
+####Emissiegerelateerd diagnostisch boordsysteem (EOBD)
+
+### Artikel  45a  
+
+Deze paragraaf is van toepassing voor zover communicatie tussen het uitleesapparaat en het voertuig mogelijk is.
+
+### Artikel  45b  
+
+1.De aanwezigheid en de goede werking van de waarschuwingsinrichting van het emissiegerelateerd diagnostisch boordsysteem wordt visueel of auditief gecontroleerd. De waarschuwingsinrichting in het voertuig moet gaan branden of een akoestisch signaal geven als het contact wordt ingeschakeld.
+
+2.Onverminderd het eerste lid moet het uitleesapparaat aangesloten worden op het emissiegerelateerd diagnostisch boordsysteem. Vervolgens moet worden vastgesteld dat de status van de waarschuwingsinrichting zoals die weergegeven wordt op het uitleesapparaat overeenkomt met de feitelijke toestand van de waarschuwingsinrichting in het voertuig.
+
+### Artikel  45c  
+
+Om emissiegerelateerde fouten te kunnen vaststellen moet het uitleesapparaat worden aangesloten op het emissiegerelateerd diagnostisch boordsysteem. Indien het uitleesapparaat geen foutcodes in modus 03 weergeeft die in de lijst met emissiegerelateerde foutcodes zijn vermeld bevat het systeem geen emissiegerelateerde fouten.
+
+### Artikel  45d  
+
+1.Indien wordt voldaan aan artikel 45b en 45c hoeft de meting als bedoeld in de artikelen 39 tot en met 43 dan wel de meting als bedoeld in de artikelen 44 en 45 van deze bijlage niet te worden uitgevoerd.
+
+2.In afwijking van het eerste lid wordt de meting als bedoeld in de artikelen 39 tot en met 43 dan wel de meting als bedoeld in de artikelen 44 en 45 van deze bijlage uitgevoerd, indien het uitleesapparaat foutcodes beginnend met de letter P weergeeft die niet op de lijst met emissiegerelateerde foutcodes zijn vermeld of aangeeft dat de readiness-test niet is afgerond.
+### *Lijst met emissiegerelateerde foutcodes.* 
+
+Voertuigen met verbrandingsmotor met elektrische ontsteking, welke gevoed wordt door benzine:  
+
+| --- |
+|:---|
+| P01xx  |
+| P02xx  |
+| P03xx  |
+| P04xx  |
+| P0650  |
+| P0Axx  |
+
+Voertuigen met verbrandingsmotor met compressie-ontsteking:  
+
+| --- |
+|:---|
+| P01xx  |
+| P02xx  |
+| P03xx  |
+| P04xx  |
+| P06xx  |
+| P0Axx  |
+
+De ‘xx’ in de code geven alfanumerieke variabelen weer. 
+
+### Titel  4  
+
+#### *Assen* 
+
+### §  1  
+
+#### *Fusees* 
+
+### Artikel  46  
+
+1. Fuseepennen, -lageringen en -bussen mogen, naast eventuele oorspronkelijke speling, door slijtageverschijnselen niet meer speling hebben dan: 
+
+a. in radiale richting, zoals weergegeven in figuur 11: 1,5 mm in het bovenste of onderste draaipunt, en 2,0 mm in het bovenste en onderste draaipunt samen;  
+
+b. in axiale richting, zoals weergegeven in figuur 11: 1,0 mm.    
+
+2. De in het eerste lid vermelde oorspronkelijke speling wordt met behulp van het werkplaatshandboek of informatie van de fabrikant van het desbetreffende onderdeel vastgesteld.  ![244452](http://wetten.overheid.nl/Illustration/244452)
+Figuur 11. Fuseespeling.    
+
+### Artikel  47  
+
+1. Fuseekogels mogen, naast eventuele oorspronkelijke speling, door slijtageverschijnselen niet meer speling hebben dan: 
+
+a. 1,0 mm, in radiale richting, zoals weergegeven in figuur 12;  
+
+b. 1,0 mm, in axiale richting, zoals weergegeven in figuur 12.    
+
+2. De in het eerste lid vermelde oorspronkelijke speling die het gevolg is van indrukking van het veerelement in de kogel, wordt vastgesteld: 
+
+a. met behulp van het werkplaatshandboek of soortgelijke informatie, dan wel  
+
+b. door middel van indrukking van een nieuwe kogel.    ![244453](http://wetten.overheid.nl/Illustration/244453)
+Figuur 12. Fuseekogelspeling.    
+
+### §  2  
+
+#### *Draaipunten* 
+
+### Artikel  48  
+
+1. De draaipunten in een volledig onafhankelijke wielophanging anders dan bedoeld in de artikelen 46 en 47, met uitzondering van kogelgewrichten, mogen: 
+
+a. in de richting van de belasting door slijtageverschijnselen niet meer speling hebben dan 1,0 mm, waarbij de elasticiteit van het rubber buiten beschouwing wordt gelaten;  
+
+b. ten gevolge van de zijdelingse verplaatsing geen kontaktplekken vertonen.    
+
+2. Het eerste lid geldt niet voor het bovenste draaipunt van een wielgeleidend systeem waarin elementen van de sturing, vering en schokdemping zijn gecombineerd, het zogenaamde Mc Pherson-wielophangingsysteem.  
+
+3. Indien het draaipunt een kogelgewricht betreft, mag deze door slijtageverschijnselen niet meer speling hebben dan: 
+
+a. 1,0 mm, in radiale richting;  
+
+b. 1,0 mm, in axiale richting.     
+
+### §  3  
+
+#### *Wiellagers* 
+
+### Artikel  49  
+
+1. De speling van wiellagers of hun opsluiting mag niet zodanig zijn dat de bewegingsmogelijkheid meer bedraagt dan 0,5% van de afstand van de hartlijn van de as of astap tot het meetpunt, zoals weergegeven in figuur 13.  
+
+2. Bij voertuigen met vrijdragende achterassen mag de axiale bewegingsmogelijkheid, zoals weergegeven in figuur 14, niet meer bedragen dan 0,5 mm, tenzij voor de betreffende constructie hogere waarden zijn toegestaan die worden vastgesteld met behulp van het werkplaatshandboek of soortgelijke informatie.  
+
+3. In geval van assen met opsluiting in het differentieel is de in het tweede lid vermelde waarde 1,5 mm.  ![244454](http://wetten.overheid.nl/Illustration/244454)
+Figuur 13. Speling wiellagers.   ![244455](http://wetten.overheid.nl/Illustration/244455)
+Figuur 14. Vrijdragende achteras.    
+
+### Titel  5  
+
+#### *Ophanging* 
+
+### §  1  
+
+#### *Loadindex* 
+
+### Artikel  50  
+
+1. Indien van een bedrijfsauto, een bus, of een aanhangwagen die na 31 december 1997 in gebruik is genomen de afzonderlijke maximum last per as in het kentekenregister is vermeld, moet per as de volgende procedure worden gevolgd: 
+
+a. de in het kentekenregister vermelde maximum last per as wordt gedeeld door het aantal banden op die as;  
+
+b. aan de hand van annex 4 wordt bepaald welke loadindex behoort bij de onder a gevonden maximum last per band;  
+
+c. de loadindex van elke band op die as mag niet lager zijn dan de onder b gevonden loadindex.    
+
+2. Indien op de band een groep is gevormd met twee loadindexen achter elkaar, geldt, met betrekking tot het bepaalde in het eerste lid, onderdeel a, in het geval van enkele montage de eerst vermelde loadindex en in het geval van dubbele montage de tweede loadindex.  
+
+3. De in het eerste lid, onderdeel a, gevonden waarde wordt: 
+
+a. met 4% verminderd indien het betreft een aanhangwagen uitgerust met dubbel gemonteerde personenautobanden;  
+
+b. met 10% verminderd indien het betreft: 
+
+1°. een aanhangwagen met een toegestane maximum last onder de as of assen van niet meer dan 3.500 kg en uitgerust met enkelvoudig gemonteerde personenautobanden;  
+
+2°. een vuilniswagen;  
+
+3°. een reinigingswagen;  
+
+4°. een straatveegwagen;  
+
+5°. een sproeiwagen,   voorzover deze inrichtingsomschrijvingen zijn vermeld in het kentekenregister; 
+
+c. met 15% verminderd indien het een bus betreft, ingericht mede om staande passagiers te vervoeren en met een technisch toegestane maximummassa van meer dan 5.000 kg.    
+
+4. De in het eerste lid, onderdeel a, gevonden waarde kan worden verminderd met een percentage overeenkomstig het gestelde in annex 5: 
+
+a. bij een snelheid van 100 km/h, indien het een aanhangwagen betreft met een technisch toegestane maximummassa van meer dan 750  kg;  
+
+b. bij een snelheid van 90 km/h, indien het een bedrijfsauto betreft met een snelheidsbegrenzer;  
+
+c. bij een snelheid van 100 km/h, indien het een bus betreft met een snelheidsbegrenzer, of  
+
+d. indien onder ‘bijzonderheden’ in het kentekenregister een maximumsnelheid is aangegeven.     
+
+### Titel  6  
+
+#### *Stuurinrichting* 
+
+### §  1  
+
+#### *Stuurkoppeling* 
+
+### Artikel  51  
+
+#### *Controle Stuurkoppeling* 
+
+1. Het flexibele materiaal van de koppeling mag niet voor 50% of meer, over iedere volledige doorsnede (in één vlak), door scheurvorming of door het loslaten van de vulcanisatie zijn beschadigd, zoals weergegeven in figuur 15.  
+
+2. Het eerste lid geldt niet voor aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg.   
+
+### §  2  
+
+#### *Stuurkogels* 
+
+### Artikel  52  
+
+#### *Maximale toegestane speling stuurkogels* 
+
+1. Stuurkogels en de overige stuurverbindingen in het stangenstelsel mogen, naast eventuele oorspronkelijke speling, door slijtageverschijnselen niet meer speling hebben dan: 
+
+a. 1,0 mm, in radiale richting, zoals weergegeven in figuur 16;  
+
+b. 1,0 mm, in axiale richting, zoals weergegeven in figuur 16.    
+
+2. De in het eerste lid vermelde oorspronkelijke speling van de stuurkogel die het gevolg is van de indrukking van het veerelement in de kogel, wordt vastgesteld: 
+
+a. met behulp van het werkplaatshandboek of informatie van de fabrikant van het desbetreffende onderdeel, dan wel  
+
+b. door middel van indrukking van een nieuwe kogel.    ![244456](http://wetten.overheid.nl/Illustration/244456)
+Figuur 15. Flexibele koppeling stuurinrichting.   ![244457](http://wetten.overheid.nl/Illustration/244457)
+Figuur 16. Stuurkogelspeling.    
+
+### Titel  7  
+
+#### *Reminrichting* 
+
+### Afdeling  1  
+
+#### *Onderdelen van de reminrichting* 
+
+### §  1  
+
+#### *Remleiding* 
+
+### Artikel  53  
+
+Een remleiding mag niet zodanig door corrosie zijn aangetast dat deze na verwijdering van de corrosie van het oppervlak nog zogenaamde putcorrosie vertoont, zoals weergegeven in figuur 17.  ![244458](http://wetten.overheid.nl/Illustration/244458)
+Figuur 17. Remleiding.  
+
+### §  2  
+
+#### *Remschijf* 
+
+### Artikel  54  
+
+#### *Remschijf* 
+
+1. Een remschijf mag niet zodanig door corrosie zijn aangetast dat per kant de breedte van het effectieve gedeelte, over de gehele omtrek van de remschijf, minder bedraagt dan 50% van de maximumbreedte van het remblok.  
+
+2. Onder het in het eerste lid bedoelde effectief gedeelte wordt verstaan: een nagenoeg glad oppervlak, zonder blijvende corrosievorming (‘glimmend’ gedeelte).   
+
+### §  3  
+
+#### *Remslang* 
+
+### Artikel  55  
+
+#### *Remslangen* 
+
+Remslangen mogen: 
+
+a. geen scherpe knikken of sterke tordering vertonen, en  
+
+b. in hydraulische remsystemen geen door de druk veroorzaakte vervormingen vertonen die opzwellen ten gevolge van het bedienen van het remsysteem met een pedaalkracht van 700 N gedurende ongeveer 30 seconden.   
+
+### §  4  
+
+#### *Wijze van keuren* 
+
+### Artikel  56  
+
+#### *Wijze van keuren* 
+
+1. De in deze afdeling gestelde eisen worden beoordeeld door middel van visuele controle, terwijl het voertuig, met uitzondering van driewielige motorrijtuigen, zich boven een inspectieput of op een hefinrichting bevindt.  
+
+2. Bij de controle van artikel 55, onderdeel b, moet het rempedaal worden ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht moet gedurende ongeveer 30 seconden worden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, moet de controle worden uitgevoerd met draaiende motor. Indien een remhandel aanwezig is, moet de controle worden uitgevoerd met de maximale handkracht.   
+
+### Afdeling  2  
+
+#### *Remvertraging personenauto’s, bedrijfsauto’s, bussen en aanhangwagens* 
+
+### §  1  
+
+#### *Wijze van bepaling van remvertraging* 
+
+### Artikel  57  
+
+#### *Wijze van bepaling remvertraging personenauto’s, bedrijfsauto’s, bussen en aanhangwagens* 
+
+1. De controle van de remvertraging van personenauto’s, bedrijfsauto’s, bussen en aanhangwagens vindt plaats door middel van een beproeving op de weg met behulp van een zelfregistrerende remvertragingsmeter dan wel door middel van een beproeving van het voertuig op een platenremtestbank of een rollenremtestbank.  
+
+2. Bij de in het eerste lid beschreven meetmiddelen wordt de pedaalkracht alleen in geval van twijfel gemeten met een pedaalkrachtmeter.  
+
+3. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsbewijs moet, in afwijking van het eerste lid, bij voertuigen met een toegestane maximummassa van niet meer dan 3.500 kg de controle van de remvertraging plaatsvinden door middel van de in paragraaf 3 van deze afdeling omschreven beproeving van het voertuig op een platenremtestbank of door middel van de in paragraaf 2.1 van deze afdeling omschreven beproeving van het voertuig op een rollenremtestbank.  
+
+4. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsbewijs moet, in afwijking van het eerste lid, bij voertuigen met een toegestane maximummassa van meer dan 3.500 kg alsmede bij aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg de controle van de remvertraging plaatsvinden door middel van de in paragraaf 2.1, respectievelijk paragraaf 2.2 van deze afdeling omschreven beproeving van het voertuig op een rollenremtestbank.  
+
+5. Het derde en vierde lid zijn niet van toepassing op voertuigen waarbij het om technische redenen niet mogelijk is het voertuig op een rollenremtestbank of platenremtestbank te remmen. Hieronder worden onder andere verstaan: 
+
+a. voertuigen die breder zijn dan 2,60 m;  
+
+b. voertuigen met een zodanig kleine wieldiameter dat beproeving niet mogelijk is;  
+
+c. voertuigen die zijn voorzien van een permanente, niet automatische of met de hand uitschakelbare aandrijving op meer dan één as;  
+
+d. aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg met één of meerdere achter elkaar gelegen aslijnen en waarbij één of meerdere aslijnen bestaan uit twee in elkaars verlengde gelegen enkele assen.     
+
+### Artikel  58  
+
+#### *Pedaal- en remkrachten* 
+
+De bij de vaststelling van de remvertraging uitgeoefende pedaalkrachten en remkrachten worden uitgedrukt in Newton (N). 
+
+### §  2  
+
+#### *Rollenremtestbank* 
+
+### §  2.1  
+
+#### *Voertuigen met een toegestane maximummassa van niet meer dan 3.500 kg* 
+
+### Artikel  59  
+
+#### *Bepalen van de remvertraging* 
+
+1. Voor het bepalen van de remvertraging moeten: 
+
+a. per as de maximale remkrachten aan de wielen met, indien vereist, de bijbehorende pedaalkrachten worden vastgesteld;  
+
+b. de remkrachten van de voorste as en de achterste as of het achterste asstel bij elkaar worden opgeteld en vervolgens worden gedeeld door de in het kentekenregister vermelde massa in rijklare toestand. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan moet hiervoor gerekend worden met de in het kentekenregister vermelde massa ledig voertuig, vermeerderd met 100 kg. De uitkomst wordt met een factor 10 vermenigvuldigd en het resultaat wordt gelezen als procenten ‘relatieve beremming’;  
+
+c. met behulp van de gevonden waarden ‘relatieve beremming’ en ‘pedaalkracht op de voorste as’, aan de hand van de bij dit artikel behorende tabel 2 worden beoordeeld of de remwerking voldoende is;  
+
+d. indien de gevonden waarden niet leiden tot een directe beslissing, een remproef op de weg plaatsvinden.    
+
+2. Bij de beoordeling van het eerste lid, onderdeel d, wordt gebruik gemaakt van een geschikte remvertragingsmeter, indien deze aanwezig is. De remvertraging met de bijbehorende pedaalkracht wordt beoordeeld even voor het moment van blokkeren van één of meer wielen van het voertuig.  
+
+3. Voertuigen in gebruik genomen voor 1 januari 1967 moeten voldoen aan de voor het voertuig gestelde remvertraging en is tabel 2 niet van toepassing.  
+
+Tabel 2 
+
+|--- | REMTEST OP EEN ROLLENREMTESTBANK  | REMWERKING VOLDOET  | REMWERKING VOLDOET NIET  | NADER ONDERZOEK  | relatieve beremming  | pedaalkracht op voorste as  | relatieve beremming  | pedaalkracht op voorste as  | remproef op de weg bij waarden, niet leidend tot directe beslissing  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Personenauto's, in gebruik genomen na 30-06-1967 en voor 1-1-2012  | **  ≥ 40% en  ≥ 52% en  | **  ≤ 400 N  ≤ 500 N  | < 52 % en  | > 500 N  | ja  |
+| Personenauto's, in gebruik genomen na 31-12-2011  | **  ≥ 45% en  ≥ 58% en  | **  ≤ 400 N  ≤ 500 N  | < 58% en  | > 500 N  | ja  |
+| Bedrijfsauto's*, in gebruik genomen na 30-06-1967 en voor 1-1-1998  | ≥ 40% en  | ≤ 700 N  | < 40% en  | > 700 N  | ja  |
+| Bedrijfsauto's*, in gebruik genomen na 31-12-1997 en voor 1-1-2012  | ≥ 45% en  | ≤ 700 N  | < 45% en  | > 700 N  | ja  |
+| Bedrijfsauto's*, in gebruik genomen na 31-12-2011  | ≥ 50% en  | ≤ 700 N  | < 50% en  | > 700 N  | ja  |
+| Bussen*, in gebruik genomen na 30-06-1967 en voor 1-1-2012  | ≥ 45% en  | ≤ 700 N  | < 45% en  | > 700 N  | ja  |
+| Bussen*, in gebruik genomen na 31-12-2011  | ≥ 50% en  | ≤ 700 N  | < 50% en  | > 700 N  | ja  |
+
+* Maximum toegestane massa ≤ 3500 kg ** Indien VROEGTIJDIG één of beide wielen van de voorste as van het voertuig blokkeren of de rollenremtestbank afslaat. (≥ betekent: groter of gelijk aan) (≤ betekent: kleiner of gelijk aan) 
+
+### Artikel  60  
+
+#### *Bepalen van de remkrachten bedrijfsrem* 
+
+1. Voor het bepalen van de maximale remkrachten zoals bedoeld in artikel 61, onderdeel a, is het volgende van toepassing: 
+
+a. de pedaalkracht die bij de voorste as wordt gebruikt, hoeft niet dezelfde te zijn als die van de achterste as of het achterste asstel;  
+
+b. bij de remtest wordt het rempedaal langzaam ingetrapt en op het moment van aflezen vastgehouden;  
+
+c. de maximale remkracht wordt bereikt wanneer: 
+
+1°. in een personenauto, in gebruik genomen na 30 juni 1967, een pedaalkracht van 500 N wordt uitgeoefend;  
+
+2°. in een bedrijfsauto of bus, in gebruik genomen na 30 juni 1967, een pedaalkracht van 700 N wordt uitgeoefend;  
+
+3°. één of meer wielen van het voertuig blokkeren, of  
+
+4°. de rollenremtestbank afslaat.      
+
+2. Indien de remkracht op één wiel tussen twee waarden schommelt of de remkrachten op beide wielen tussen twee waarden schommelen, worden per wiel de minimale en maximale remkracht gemiddeld en wordt dit gemiddelde gebruikt als de remkracht voor dat wiel.   
+
+### Artikel  61  
+
+#### *Beoordeling verschil in remkrachten bedrijfsrem* 
+
+Het verschil in remkrachten tussen de wielen op één as mag niet meer bedragen dan 30% van de hoogst gemeten remkracht (bovenwaarde), waarbij de wielen niet blokkeren. 
+
+### Artikel  62  
+
+Vervallen. 
+
+### Artikel  63  
+
+#### *Bepalen remvertraging parkeerrem* 
+
+Voor het bepalen van de remvertraging van de parkeerrem moet de bij de remproef behaalde remkrachten aan de wielen worden gedeeld door de in het kentekenregister vermelde massa in rijklare toestand. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan moet hiervoor gerekend worden met de in het kentekenregister vermelde massa van het ledig voertuig, vermeerderd met 100 kg. 
+
+### §  2.2  
+
+#### *Voertuig met een toegestane maximummassa van meer dan 3.500 kg, met uitzondering van een aanhangwagen met elektrisch bekrachtigde remmen* 
+
+### Artikel  64  
+
+#### *Gebruik van de rollenremtestbank* 
+
+1. De beproeving wordt uitgevoerd volgens de procedure zoals beschreven in de gebruiksaanwijzing van de rollenremtestbank.  
+
+2. Het resultaat van de rembeproeving wordt op een printuitdraai van de rollenremtestbank gepresenteerd en aan de hand van de gepresenteerde gegevens wordt bepaald of het voertuig voldoet aan de wettelijke remvertraging.  
+
+3. Indien de beproeving niet kan worden uitgevoerd volgens de procedure zoals beschreven in de gebruiksaanwijzing van de rollenremtestbank, wordt de remvertraging bepaald door: 
+
+a. per as de maximale remkrachten vast te stellen, en  
+
+b. de totale remkrachten bij elkaar op te tellen en vervolgens te delen door de in het kentekenregister vermelde massa in rijklare toestand. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan geldt voor een personenauto of bedrijfsauto de in het kentekenregister vermelde massa van het ledig voertuig vermeerderd met 100 kg en voor een aanhangwagen de in het kentekenregister vermelde massa van het ledig voertuigof, anders dan bij de periodieke keuring ten behoeve van de afgifte van een keuringsrapport, de gemeten massa van de aanhangwagen of de last onder de assen van de oplegger.     
+
+### Artikel  65  
+
+#### *Extrapolatiedruk bedrijfsauto, bus en aanhangwagen bedrijfsrem* 
+
+1. De extrapolatiedruk bij bedrijfsauto’s en bussen wordt gesteld op 7,0 bar, tenzij uit documentatie van de voertuigfabrikant of de gegevens op de ALR/ABS-EBS plaat wordt aangetoond dat deze druk hoger is. De extrapolatiedruk voor die as is dan gelijk aan deze hogere druk.  
+
+2. De extrapolatiedruk van aanhangwagens die in gebruik zijn genomen voor 1 januari 2012 wordt gesteld op 6,5 bar. De extrapolatiedruk van aanhangwagens die in gebruik zijn genomen na 31 december 2011 wordt gesteld op 7,0 bar. Indien het een aanhangwagen betreft met een éénleidingremsysteem wordt de extrapolatiedruk gesteld op 4,5 bar.   
+
+### Artikel  66  
+
+#### *Bepaling remkrachten bedrijfsrem* 
+
+Bij de vaststelling van de maximale remkrachten moet het volgende in acht genomen worden genomen: 
+
+a. de pedaalkracht respectievelijk de remdruk hoeft niet bij alle assen gelijk te zijn;  
+
+b. bij de remtest moet het rempedaal langzaam worden ingetrapt en kort voor het bereiken van de blokkeergrens enige tijd worden vastgehouden, de aanwijzingen van de remtestinrichting moeten worden opgevolgd;  
+
+c. de maximale remkracht wordt bereikt wanneer: 
+
+1°. een pedaalkracht van 700 N wordt uitgeoefend, dan wel de maximale remcilinderdruk wordt bereikt;  
+
+2°. één of meer wielen van het voertuig blokkeren, of  
+
+3°. de rollenremtestbank afslaat.     
+
+### Artikel  67  
+
+#### *Beoordeling verschil in remkrachten bedrijfsrem* 
+
+Bij de beoordeling van het verschil in remkrachten op een rollenremtestbank mag het verschil in remkrachten tussen de wielen op één as niet meer bedragen dan 30% van de hoogst gemeten remkracht (bovenwaarde), waarbij de wielen niet blokkeren. 
+
+### Artikel  68  
+
+#### *Bepalen remvertraging parkeerrem* 
+
+Voor het bepalen van de remvertraging van de parkeerrem moet de bij de remproef behaalde remkrachten aan de wielen worden gedeeld door de in het kentekenregister vermelde massa in rijklare toestand. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan geldt voor een personenauto of bedrijfsauto de in het kentekenregister vermelde massa van het ledig voertuig vermeerderd met 100 kg. 
+
+### §  2.3  
+
+#### *Voertuig met een toegestane maximummassa van meer dan 3.500 kg, met behulp van referentieremkrachten* 
+
+### Artikel  69  
+
+#### *Referentieremkracht* 
+
+De referentieremkracht is de remkracht van een as ontwikkeld aan de omtrek van de band op een rollenremtestbank, in relatie tot de remcilinderdruk en bekend gemaakt ten tijde van de goedkeuring. De referentieremkrachten worden voor voertuigen met luchtdrukremmen door de voertuigfabrikant zodanig aangegeven dat het voertuig geschikt is om een remvertraging te behalen gelijk aan 5,0 m/s<sup>2</sup> in het geval van motorvoertuigen en aanhangwagens en 4,5 m/s<sup>2</sup> in het geval van opleggers, indien, ongeacht de beladingstoestand, de gemeten remkrachten op de rollenremtestbank bij een gegeven remcilinderdruk groter of gelijk zijn aan de referentieremkrachten. 
+
+### Artikel  70  
+
+#### *Bepalen remvertraging bedrijfsrem* 
+
+1. De referentiewaarden worden vastgesteld bij de door de fabrikant opgegeven druk in de luchtdrukremcilinders die zo dicht mogelijk ligt bij de druk in de luchtdrukremcilinder op het moment van slip, maar ten minste bij een druk van 2,5 bar.  
+
+2. Indien de referentieremkrachten door de fabrikant zijn vastgesteld bij een remvertraging van 5,0 m/s<sup>2</sup> worden de referentieremkrachten, indien van toepassing, herberekend met de factor 4,5/5,0. Indien de referentieremkrachten, indien van toepassing, voor een oplegger zijn vastgesteld bij een remvertraging van 4,5m/s<sup>2</sup> worden de referentieremkrachten herberekend met de factor 4,0/4,5.  
+
+3. Met de door de fabrikant gegeven meetcondities en toleranties dient rekening te worden gehouden waarbij, indien vereist, specifieke gegevens worden vergeleken.   
+
+### Artikel  71  
+
+#### *Beoordeling verschil in remkrachten bedrijfsrem* 
+
+Indien de remwerking wordt vastgesteld door middel van referentieremkrachten mag het verschil in remwerking tussen de wielen op één as niet meer bedragen dan 30% van de hoogst gemeten remkracht, zoals vastgesteld volgens artikel 70, eerste lid. 
+
+### Artikel  72  
+
+#### *Bepalen remvertraging parkeerrem* 
+
+Voor het bepalen van de remvertraging van de parkeerrem moet de bij de remproef behaalde remkrachten aan de wielen worden gedeeld door de in het kentekenregister vermelde massa in rijklare toestand. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan geldt voor een personenauto of bedrijfsauto de in het kentekenregister vermelde massa van het ledig voertuig vermeerderd met 100 kg en voor een aanhangwagen de in het kentekenregister vermelde massa van het ledig voertuig. 
+
+### §  2.4  
+
+#### *Aanhangwagen met elektrisch bekrachtigde remmen, met een toegestane maximummassa van meer dan 3.500 kg* 
+
+### Artikel  73  
+
+#### *Bepaling remvertraging bedrijfsrem* 
+
+Indien de controle van de remvertraging van de bedrijfsrem van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg plaats vindt door middel van een beproeving van het voertuig op een rollenremtestbank waarbij de belasting van het voertuig door middel van spanbanden of spankettingen wordt gesimuleerd. 
+
+a. moeten, nadat de gesimuleerde belasting is aangebracht, per as de maximale remkrachten aan de wielen worden vastgesteld;  
+
+b. moet de bij de remproef behaalde remvertraging worden berekend door de remkrachten bij elkaar op te tellen en vervolgens te delen door de in het kentekenregister vermelde toegestane maximummassa onder de assen.   
+
+### Artikel  74  
+
+#### *Bepaling remkrachten bedrijfsrem* 
+
+1. Bij de vaststelling van de maximale remkrachten zoals bedoeld in artikel 73, moet het volgende in acht worden genomen: 
+
+a. bij de remtest moet de remwerking door middel van het activeren van de remmodule (EBC) langzaam worden opgevoerd en op het moment van aflezen worden vastgehouden;  
+
+b. de maximale remkracht wordt bereikt wanneer: 
+
+1°. één of meer wielen van het voertuig blokkeren, of  
+
+2°. de rollenremtestbank afslaat.      
+
+2. Indien de wielen niet blokkeren of de rollenremtestbank niet afslaat bij de maximale remkrachtgelden de dan afgelezen remkrachten als maximale remkrachten.  
+
+3. Indien de remkracht op één wiel tussen twee waarden schommelt of de remkrachten op beide wielen van een as tussen twee waarden schommelen, moeten per wiel de minimale en maximale remkracht worden gemiddeld en wordt dit gemiddelde gebruikt als remkracht voor dat wiel.   
+
+### Artikel  75  
+
+#### *Maximale remkrachten bedrijfsrem* 
+
+Bij de controle van de remvertraging van de bedrijfsrem van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg door middel van een beproeving van het voertuig op een rollenremtestbank zonder dat de belasting van het voertuig wordt gesimuleerd, moet voor iedere as de maximale remkrachten aan de wielen worden vastgesteld. 
+
+### Artikel  76  
+
+#### *Formules bepaling remvertraging bedrijfsrem* 
+
+1. Voor de toepassing van de formule wordt verstaan onder: a<sub>vol</sub> = berekende relatieve remvertraging; F<sub>b(n)</sub> = som van de remkrachten aan de wielen per as ‘n’; M<sub>max</sub> = maximale massa onder de assen;  
+
+2. Van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg moet de vaststelling van de remvertraging van de bedrijfsrem plaats vinden volgens de volgende formule:  ![244460](http://wetten.overheid.nl/Illustration/244460)
+
+### §  3  
+
+#### *Platenremtestbank* 
+
+### §  3.1  
+
+#### *Personenauto, bedrijfsauto of bus met een toegestane maximummassa van niet meer dan 3.500 kg* 
+
+### Artikel  77  
+
+#### *Bepalen remvertraging* 
+
+Voor het bepalen van de remvertraging moet: 
+
+a. gebruik worden gemaakt van een pedaalkrachtmeter waarbij het mogelijk is om, door middel van arreteerstand, na afloop van de remproef de daarbij gebruikte pedaalkracht af te lezen;  
+
+b. de snelheid bij de aanvang van de remproef ongeveer 10 km/h bedragen;  
+
+c. de remproef op iedere as twee maal worden uitgevoerd. Indien de met deze proeven behaalde remkrachten aan de wielen per as nagenoeg gelijk zijn, mede gelet op de gebruikte pedaalkracht, worden deze gebruikt voor het bepalen van de remvertraging. Indien de met deze proeven behaalde remkrachten aan de wielen per as niet nagenoeg gelijk zijn, moet per as een derde remproef worden uitgevoerd. De behaalde remkrachten aan de wielen van deze laatste proef en van de voorgaande proef die de behaalde remkrachten aan de wielen het dichtst benadert, worden gebruikt voor het bepalen van de remvertraging;  
+
+d. de remkrachten, die op de hiervoor beschreven wijze zijn verkregen uit twee remproeven per as, bij elkaar worden opgeteld en worden gedeeld door de in het kentekenregister vermelde massa in rijklare toestand, vermenigvuldigd met twee. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan moet worden gedeeld door de in het kentekenregister vermelde massa ledig voertuig, vermeerderd met 100 kg en vermenigvuldigd met twee.   
+
+### Artikel  78  
+
+#### *Bepalen verschil in remwerking bedrijfsrem* 
+
+Voor het bepalen van het verschil in remwerking tussen de wielen op één as: 
+
+a. moet de snelheid bij aanvang van de remproef ongeveer 10 km/h bedragen;  
+
+b. moet de remproef op iedere as ten minste tweemaal worden uitgevoerd;  
+
+c. kunnen de resultaten van de remproeven voor het bepalen van de remvertraging van de bedrijfsrem worden gebruikt;  
+
+d. moet de beoordeling van de resultaten geschieden aan de hand van de bij dit artikel behorende tabel 3, waarin de vermelde percentages zijn gerelateerd aan de hoogst gemeten remkracht.    Tabel 3. Verschil in remwerking links en rechts op platenremtestbank. 
+
+|--- | Resultaten van twee maatgevende remproeven  VERSCHIL LINKS EN RECHTS.  | Extra remproef nodig op de platenbank  | Resultaat remproef  | CONCLUSIE  |
+|:---|:---|:---|:---|:---|
+| Verschil op één as  | Verschil beide proeven < 30%  | –  | –  | TOEGESTAAN  |
+| Verschil ene proef < 30 %  | ja  | Verschil proef > 30%  | NIET TOEGESTAAN  |
+| andere proef > 30%  | Verschil proef < 30%  | TOEGESTAAN  |
+| Verschil beide proeven > 30%  | –  | –  | NIET TOEGESTAAN  |
+
+### Artikel  79  
+
+Vervallen. 
+
+### Artikel  80  
+
+Vervallen. 
+
+### Artikel  81  
+
+#### *Bepalen remvertraging parkeerrem* 
+
+Voor het bepalen van de remvertraging van de parkeerrem moet: 
+
+a. de snelheid bij de aanvang van de remproef ongeveer 10 km/h bedragen;  
+
+b. het voertuig aan het einde van de remproef geheel of nagenoeg geheel stilstaan;  
+
+c. de bij de remproef behaalde remkrachten aan de wielen worden gedeeld door de in het kentekenregister vermelde massa in rijklare toestand. Indien de massa in rijklare toestand niet in het kentekenregister vermeld is dan moet hiervoor gerekend worden met de in het kentekenregister vermelde massa van het ledig voertuig, vermeerderd met 100 kg.   
+
+### §  4  
+
+#### *Elektronische zelfregistrerende remvertragingsmeter* 
+
+### §  4.1  
+
+#### *Personenauto, bedrijfsauto of bus* 
+
+### Artikel  82  
+
+#### *Pedaalkracht bedrijfsrem* 
+
+Voor het bepalen van de remvertraging door middel van een beproeving op de weg, moet de kracht die wordt uitgeoefend op het rempedaal, nagenoeg constant gehouden worden. De hoogst bereikbare remvertraging wordt vastgesteld wanneer iets minder druk wordt ingestuurd, dan wel iets minder pedaalkracht wordt gebruikt dan nodig is om de blokkeergrens van één of meer wielen van het voertuig te bereiken. 
+
+### Artikel  83  
+
+#### *Bepalen remvertraging* 
+
+De remvertraging wordt met een elektronische, zelfregistrerende remvertragingsmeter als volgt vastgesteld: 
+
+a. indien door de remvertragingsmeter een resulterende of gemiddelde waarde wordt aangegeven, geldt deze waarde als de minimaal behaalde remvertraging;  
+
+b. indien de remvertraging niet volgens onderdeel a kan worden vastgesteld, geldt de remvertraging die met behulp van de meetwaardentabel op de registratiestrook wordt vastgesteld, door het gemiddelde te nemen van alle gemeten remvertragingen, die gelijk of groter zijn aan de minimaal vereiste remvertraging en gedurende minimaal een halve seconde zijn gemeten;  
+
+c. indien de remvertraging niet volgens onderdeel a of b kan worden vastgesteld, geldt de remvertraging die met behulp van de grafiek op de registratiestrook als volgt is vastgesteld: 
+
+1°. indien op het moment dat het voertuig nagenoeg stilstond geen plotselinge stijging van de remvertraging is waar te nemen, is de hoogst behaalde waarde van remvertraging bepalend;  
+
+2°. indien op het moment dat het voertuig nagenoeg stilstond een plotselinge stijging van de remvertraging is waar te nemen, is de behaalde remvertraging vlak vóór deze stijging bepalend.     
+
+### Artikel  84  
+
+#### *Bepalen uitbreken van het voertuig door bediening bedrijfsrem* 
+
+Voor het bepalen van het uitbreken van een voertuig bij een beproeving op de weg moet: 
+
+a. in geval van een personenauto geremd worden tot de hoogst bereikbare remvertraging met een maximum van 8 m/s<sup>2</sup>;  
+
+b. in geval van een bedrijfsauto of bus moet worden geremd tot de minimaal vereiste remvertraging, zoals voor de betreffende voertuigcategorie is vermeld in hoofdstuk 5 van regeling voertuigen;  
+
+c. het gebruik van een remvertragingsmeter is niet noodzakelijk.   
+
+### Artikel  85  
+
+#### *Bepalen remvertraging parkeerrem* 
+
+De remvertraging van de parkeerrem van een personenauto, bedrijfsauto of bus met een toegestane maximummassa van niet meer dan 3.500 kg wordt met een zelfregistrerende remvertragingsmeter vastgesteld. Het voertuig moet aan het einde van de remproef geheel of nagenoeg geheel stilstaan. 
+
+### §  4.2  
+
+#### *Aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg* 
+
+### Artikel  86  
+
+#### *Voorwaarden beproeving bedrijfsrem* 
+
+1. De bedrijfsrem van de aanhangwagen moet regelbaar en onafhankelijk van het trekkende motorvoertuig kunnen worden bediend; dit geschiedt door middel van de strekrem die de volledige druk van de bedrijfsrem kan doorsturen of met behulp van een inrichting waarmee vanuit het trekkende motorvoertuig door middel van de bedrijfsrem van de aanhangwagen het samenstel van voertuigen kan worden afgeremd, waarbij het functioneren van de bedrijfsrem van het samenstel niet mag worden beïnvloed.  
+
+2. De gewichtsverhouding tussen het trekkende motorvoertuig en de aanhangwagen mag niet extreem groot zijn.   
+
+### Artikel  87  
+
+#### *Bepalen remvertraging bedrijfsrem* 
+
+Voor het bepalen van de remvertraging van een aanhangwagen moet: 
+
+a. de ingestuurde druk door middel van de strekrem of de inrichting worden opgevoerd tot de blokkeergrens van één of meer wielen, waarna met een iets lagere druk de remvertraging wordt geregistreerd;  
+
+b. indien door de remvertragingsmeter een resulterende of gemiddelde waarde wordt aangegeven, geldt deze waarde als de gemiddelde remvertraging van de combinatie;  
+
+c. indien de remvertraging niet volgens onderdeel a kan worden vastgesteld, geldt de remvertraging die met behulp van de meetwaardentabel op de registratiestrook wordt vastgesteld, door het gemiddelde te nemen van alle gemeten remvertragingen die gedurende minimaal een halve seconde zijn gemeten;  
+
+d. indien de remvertraging niet volgens onderdeel a of b kan worden vastgesteld, geldt de remvertraging die met behulp van de grafiek op de registratiestrook als volgt is vastgesteld: 
+
+1°. indien op het moment dat het voertuig nagenoeg stilstond geen plotselinge stijging van de remvertraging is waar te nemen, is de hoogst behaalde waarde van remvertraging bepalend;  
+
+2°. indien op het moment dat het voertuig nagenoeg stilstond een plotselinge stijging van de remvertraging is waar te nemen, is de behaalde remvertraging vlak vóór deze stijging bepalend.     
+
+### Artikel  88  
+
+####Formule bepaling remvertraging bedrijfsrem
+
+De remvertraging van de bedrijfsrem moet plaatsvinden volgens de volgende formule: ![249402](http://wetten.overheid.nl/Illustration/249402)
+Voor de toepassing van dit artikel wordt verstaan onder: a<sub>ahw</sub> = remvertraging aanhangwagen; a = gemiddelde remvertraging van de combinatie; m <sub>tot.geremd</sub> = de in het kentekenregister van het trekkende en getrokken voertuig vermelde totale massa in rijklare toestand van de combinatie die met de aanhangwagen is afgeremd. Indien de massa in rijklare toestand niet in het kentekenregister van het trekkende en getrokken voertuig vermeld is dan geldt voor een bedrijfsauto de in het kentekenregister vermelde massa van het ledig voertuig vermeerderd met 100 kg en voor een aanhangwagen de in het kentekenregister vermelde massa van het ledig voertuig of, anders dan bij de periodieke keuring ten behoeve van de afgifte van een keuringsrapport, de totale gemeten massa van de combinatie die met de aanhangwagen is afgeremd; m <sub>ahw</sub> = de in het kentekenregister vermelde massa in rijklare toestand van de aanhangwagen. Indien de massa in rijklare toestand niet in het kentekenregister is vermeld dan moet hiervoor gerekend worden met de in het kentekenregister vermelde massa ledig voertuig of, anders dan bij de periodieke keuring ten behoeve van de afgifte van een keuringsrapport, de gemeten massa van de aanhangwagen of de last onder de assen van de oplegger. 
+
+### Afdeling  3  
+
+#### *Remvertraging motorfietsen* 
+
+### Artikel  89  
+
+#### *Afgelegde remweg* 
+
+Aan de hand van de in onderstaande tabel vermelde afgelegde remweg, wordt bepaald of aan de vereiste remvertraging wordt voldaan. Aanvangssnelheid 40 km/h: 5,2 m/s<sup>2</sup>: remweg max. 11,9 m 4,8 m/s<sup>2</sup>: remweg max. 12,9 m 4,5 m/s<sup>2</sup>: remweg max. 13,7 m 4,2 m/s<sup>2</sup>: remweg max. 14,7 m 4,1 m/s<sup>2</sup>: remweg max. 15,1 m 3,9 m/s<sup>2</sup>: remweg max. 15,5 m 3,8 m/s<sup>2</sup>: remweg max. 16,2 m 3,5 m/s<sup>2</sup>: remweg max. 17,6 m 3,2 m/s<sup>2</sup>: remweg max. 18,9 m 2,8 m/s<sup>2</sup>: remweg max. 22,0 m 2,6 m/s<sup>2</sup>: remweg max. 23,7 m 2,2 m/s<sup>2</sup>: remweg max. 28,0 m 
+
+### Afdeling  4  
+
+#### *Remvertraging bromfietsen* 
+
+### Artikel  90  
+
+#### *afgelegde remweg* 
+
+Aan de hand van de in onderstaande tabel vermelde afgelegde remweg, wordt bepaald of aan de vereiste remvertraging wordt voldaan. Aanvangssnelheid 25 km/h: 4,0 m/s<sup>2</sup>: remweg max. 6,0 m 2,5 m/s<sup>2</sup>: remweg max. 9,6 m 2,4 m/s<sup>2</sup>: remweg max. 10,0 m Aanvangssnelheid 40 km/h: 4,0 m/s<sup>2</sup>: remweg max. 15,4 m 2,5 m/s<sup>2</sup>: remweg max. 24,7 m 2,4 m/s<sup>2</sup>: remweg max. 25,7 m 
+
+### Titel  8  
+
+#### *Carrosserie* 
+
+### Afdeling  1  
+
+#### *Voorruiten* 
+
+### §  1  
+
+#### *Voertuigen met een toegestane maximummassa van niet meer dan 3.500 kg* 
+
+### Artikel  91  
+
+Voorruiten van personenauto’s, bedrijfsauto’s of bussen met een toegestane maximummassa van niet meer dan 3.500 kg en driewielige motorrijtuigen mogen in de artikel 92 aangegeven vlakken niet meer beschadigd of verkleurd zijn dan zoals bepaald in de artikelen 93 en 94. 
+
+### Artikel  92  
+
+1. De voorruit wordt verdeeld in de volgende drie denkbeeldige vlakken, zoals weergegeven in figuur 18: 
+
+a. het vlak voor het directe gezichtsveld van de bestuurder: dit is het gedeelte van de voorruit dat zich voor de bestuurderszitplaats bevindt, ter grootte van een op de voorruit te projecteren vlak met een horizontale zijde van 0,30 m en een verticale zijde van 0,20 m;  
+
+b. het vlak voor het indirecte gezichtsveld van de bestuurder, hetgeen als volgt wordt gevormd: het directe gezichtsveld wordt ten opzichte van het midden van de voorruit gespiegeld naar het rechter voorruitgedeelte. Het hierdoor gevonden vlak en de tussenruimte naar het directe gezichtsveld vormt het indirecte gezichtsveld;  
+
+c. het randvlak: dit is het nog resterende deel van de voorruit.    
+
+2. Het middelpunt van het in het eerste lid, onderdeel a, geprojecteerde vlak moet samenvallen met het snijpunt van: 
+
+a. de verticale lijn, denkbeeldig getrokken op de voorruit, vanuit de zitpositie van de bestuurder, door het hart van het stuur, en  
+
+b. de door het middelpunt van het ruitewisserblad beschreven baan op de voorruit of bij een centrale ruitewisser de horizontale raaklijn aan de vermelde beschreven baan, zoals weergegeven in figuur 19.    ![244462](http://wetten.overheid.nl/Illustration/244462)
+Figuur 18. Voorruit.   ![244463](http://wetten.overheid.nl/Illustration/244463)
+Figuur 19. Centrale wisser.    
+
+### Artikel  93  
+
+1. In het vlak voor het directe gezichtsveld mogen, in afwijking van artikel 94 de volgende beschadigingen of verkleuringen aanwezig zijn: 
+
+a. enkelvoudige scheuren, ongeacht de lengte;  
+
+b. oppervlakkige krassen waarvan de breedte niet meer dan 5 mm bedraagt;  
+
+c. beschadigingen of verkleuringen waarvan de afmetingen zodanig zijn, dat een denkbeeldig getrokken cirkel om de gehele beschadiging of verkleuring heen een diameter heeft van niet meer dan 20 mm.    
+
+2. In het vlak voor het indirecte gezichtsveld mogen, in afwijking van artikel 94, de volgende beschadigingen of verkleuringen aanwezig zijn: 
+
+a. enkelvoudige scheuren, ongeacht de lengte;  
+
+b. oppervlakkige krassen waarvan de breedte niet meer dan 5 mm bedraagt;  
+
+c. beschadigingen of verkleuringen waarvan de afmetingen zodanig zijn, dat een denkbeeldig getrokken cirkel om de gehele beschadiging of verkleuring heen een diameter heeft van niet meer dan 50 mm.    
+
+3. Onder de in het eerste en tweede lid vermelde enkelvoudige scheuren worden scheuren verstaan die in de gezichtsvelden geen vertakkingen vertonen tussen begin- en eindpunt, zoals weergegeven in figuur 20.  
+
+4. In het randvlak mogen beschadigingen of verkleuringen aanwezig zijn.  
+
+5. Indien een beschadiging of verkleuring doorloopt in de verschillende te beoordelen vlakken van de ruit, dan moet alleen dat deel van de beschadiging of verkleuring in ogenschouw worden genomen dat in het te beoordelen vlak aanwezig is.  ![244464](http://wetten.overheid.nl/Illustration/244464)
+Figuur 20. Toegestane scheuren.    
+
+### Artikel  94  
+
+De voorruit mag meerdere luchtbellen, beschadigingen of verkleuringen vertonen die ten aanzien van de afmetingen ieder afzonderlijk voldoen aan artikel 93, mits het uitzicht van de bestuurder daardoor niet wordt belemmerd. 
+
+### Artikel  95  
+
+De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle;  
+
+b. door in geval van twijfel te meten met een meetmiddel van voldoende bereik.   
+
+### §  2  
+
+#### *Voertuig met een toegestane maximummassa van meer dan 3.500 kg* 
+
+### Artikel  96  
+
+Voorruiten van bedrijfsauto’s of bussen met een toegestane maximummassa van meer dan 3.500 kg mogen in de artikel 97 aangegeven vlakken niet meer beschadigd of verkleurd zijn dan zoals bepaald in de artikelen 98 en 99. 
+
+### Artikel  97  
+
+1. De voorruit wordt verdeeld in de volgende drie denkbeeldige vlakken: 
+
+a. het vlak voor het directe gezichtsveld van de bestuurder: dit is het gedeelte van de voorruit dat zich voor de bestuurderszitplaats bevindt, ter grootte van een op de voorruit te projecteren vlak met een horizontale zijde van 0,40 m en een verticale zijde van 0,40 m, zoals weergegeven in figuur 21;  
+
+b. het vlak voor het indirecte gezichtsveld van de bestuurder, hetgeen als volgt wordt gevormd: het directe gezichtsveld wordt ten opzichte van het midden van de voorruit gespiegeld naar het rechter voorruitgedeelte: het hierdoor gevonden vlak en de tussenruimte naar het directe gezichtsveld vormt het indirecte gezichtsveld;  
+
+c. het randvlak; dit is het nog resterende deel van de voorruit.    
+
+2. Het middelpunt van het in het eerste lid, onderdeel a, geprojecteerde vlak moet samenvallen met het snijpunt van: 
+
+a. de verticale lijn, denkbeeldig getrokken op de voorruit, vanuit de zitpositie van de bestuurder, door het hart van het stuur, en  
+
+b. de horizontale lijn op 0,65 m boven het laagste punt van de zitting van de onbelaste bestuurdersstoel in de achterste en onderste gebruiksstand, waarbij moet worden uitgegaan van de meest gebruikelijke zitpositie voor een bestuurder van gemiddelde lengte, indien de onderste gebruiksstand lager uitkomt dan voor het besturen noodzakelijk is.    ![244465](http://wetten.overheid.nl/Illustration/244465)
+Figuur 21. Voorruit.  A is gelijk aan B H = geprojecteerde hoogte op de voorruit   
+
+### Artikel  98  
+
+1. In het vlak voor het directe gezichtsveld mogen, in afwijking van artikel 99, de volgende beschadigingen of verkleuringen aanwezig zijn: 
+
+a. enkelvoudige scheuren, ongeacht de lengte;  
+
+b. oppervlakkige krassen waarvan de breedte niet meer dan 8 mm bedraagt;  
+
+c. beschadigingen of verkleuringen waarvan de afmetingen zodanig zijn, dat een denkbeeldig getrokken cirkel om de gehele beschadiging of verkleuring heen een diameter heeft van niet meer dan 30 mm.    
+
+2. In het vlak voor het indirecte gezichtsveld mogen, in afwijking van artikel 99, de volgende beschadigingen of verkleuringen aanwezig zijn: 
+
+a. enkelvoudige scheuren, ongeacht de lengte;  
+
+b. oppervlakkige krassen waarvan de breedte niet meer dan 8 mm bedraagt;  
+
+c. beschadigingen of verkleuringen waarvan de afmetingen zodanig zijn, dat een denkbeeldig getrokken cirkel om de gehele beschadiging of verkleuring heen een diameter heeft van niet meer dan 100 mm.    
+
+3. Onder de in het eerste en tweede lid vermelde enkelvoudige scheuren worden scheuren verstaan die in de gezichtsvelden geen vertakkingen vertonen tussen begin- en eindpunt, zoals weergegeven in figuur 22.  
+
+4. In het randvlak mogen beschadigingen of verkleuringen aanwezig zijn.  
+
+5. Indien een beschadiging of verkleuring doorloopt in de verschillende te beoordelen vlakken van de ruit, dan moet alleen dat deel van de beschadiging of verkleuring in ogenschouw worden genomen dat in het te beoordelen vlak aanwezig is.  ![244466](http://wetten.overheid.nl/Illustration/244466)
+Figuur 22. Toegestane scheuren.    
+
+### Artikel  99  
+
+De voorruit mag meerdere luchtbellen, beschadigingen of verkleuringen vertonen die ten aanzien van de afmetingen ieder afzonderlijk voldoen aan artikel 98, mits het uitzicht van de bestuurder daardoor niet wordt belemmerd. 
+
+### Artikel  100  
+
+De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle;  
+
+b. door in geval van twijfel te meten met een meetmiddel van voldoende bereik.   
+
+### Afdeling  2  
+
+#### *Trottoirspiegel* 
+
+Vervallen.
+
+### Artikel  101  
+
+Vervallen. 
+
+### Afdeling  3  
+
+#### *Afscherming* 
+
+### §  1  
+
+#### *Wielafscherming* 
+
+### Artikel  102  
+
+1. Bedrijfsauto’s en aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen na 31 december 1974, moeten ten aanzien van de wielafscherming voldoen aan de artikelen 103 tot en met 106.  
+
+2. Het eerste lid is niet van toepassing op opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens met een toegestane maximummassa van meer dan 3.500 kg en waarvan de som van de aslasten niet meer bedraagt dan 3.500 kg.   
+
+### Artikel  103  
+
+De wielafscherming moet het gehele horizontale projectievlak boven ieder wiel afdekken. De wielen, inclusief alle bevestigingsmiddelen en naven, mogen in de breedterichting niet meer dan 30 mm buiten deze afscherming uitsteken, zoals weergegeven in figuur 26.  ![244470](http://wetten.overheid.nl/Illustration/244470)
+Figuur 26. Projectievlak.  
+
+### Artikel  104  
+
+1. De wielen van de achterste as moeten aan de achterzijde zijn voorzien van een wielafscherming die niet mag eindigen boven een denkbeeldig horizontaal vlak gelegen op 0,15 m boven het middelpunt van de wielen en op niet meer dan 0,30 m achter het wiel. Bovendien moet het achterste gedeelte minimaal reiken tot de denkbeeldige lijn die een hoek van 45° vormt met het wegdek, zoals weergegeven in figuur 27.  
+
+2. Indien de achterste wielen zijn bestuurd of gestuurd is de maat van 0,30 m niet van toepassing, zoals weergegeven in figuur 27.  ![244471](http://wetten.overheid.nl/Illustration/244471)
+Figuur 27. Uiteinde wielafscherming.    
+
+### Artikel  105  
+
+1. De wielafscherming moet: 
+
+a. vormvast zijn, en  
+
+b. deugdelijk zijn bevestigd.    
+
+2. In afwijking van het bepaalde in het eerste lid, onderdeel a, is, indien het een voertuig betreft in gebruik genomen vóór 1 januari 1995, een permanent aangebracht roldoek toegestaan.  
+
+3. Aan het bepaalde in het eerste lid wordt voldaan indien de wielafscherming bestaat uit een constructie van scharnierende of verschuifbare delen dan wel gevormd wordt door een demontabele afscherming waarvoor een opbergruimte op het voertuig aanwezig is.  
+
+4. Een eventuele spatlap aan de achterzijde van het wiel is als wielafscherming toegestaan, mits deze vormvast is of voldoende ondersteund.   
+
+### Artikel  106  
+
+Delen van de permanente opbouw kunnen als deel van de wielafscherming dienen. 
+
+###§ 1a 
+
+####Opspatafscherming
+
+### Artikel  106a  
+
+1.  Bedrijfsauto’s in gebruik genomen na 31 december 2016 met een toegestane maximummassa van meer dan 7.500 kg en aanhangwagens in gebruik genomen na 31 december 2016 waarbij de som van de aslasten meer bedraagt dan 3.500 kg, moeten zijn voorzien van een deugdelijke opspatafscherming die de verstuiving van water door de banden beperkt.   
+2.  Het eerste lid is niet van toepassing op bedrijfsauto’s die een aantekening in het kentekenregister ‘G’ hebben.  
+
+### Artikel  106b  
+
+De opspatafscherming moet: 
+
+a. zijn aangebracht achter de wielen van de vooras of voorassen en achter de wielen van de achterste achteras;  
+
+b. reiken tot maximaal 30 cm boven het wegdek;  
+
+c. minimaal de gehele breedte van het loopvlak van de band bedekken, en  
+
+d. deugdelijk zijn bevestigd.   
+
+### Artikel  106c  
+
+Delen van de permanente opbouw kunnen als deel van de opspatafscherming dienen. 
+
+### §  2  
+
+#### *Zijdelingse afscherming* 
+
+### Artikel  107  
+
+1. Bedrijfsauto’s en aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen na 31 december 1969 met uitzondering van middenasaanhangwagens, aanhangwagens met een stijve dissel en dolly’s, moeten ten aanzien van de zijdelingse afscherming voldoen aan de artikel 108 tot en met artikel 111.  
+
+2. Het eerste lid is niet van toepassing op opleggers met een toegestane maximummassa van meer dan 3.500 kg en waarvan de som van de aslasten niet meer bedraagt dan 3.500 kg.   
+
+### Artikel  108  
+
+Bedrijfsauto’s en aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen na 31 december 1969, moeten aan weerszijden zijn voorzien van zijdelingse afscherming. De volgende gebieden moeten zijn beveiligd: 
+
+a. met betrekking tot de bedrijfsauto, het verticale vlak dat begint op ten hoogste 30 cm achter de cabine, of in het geval van een bestuurd of gestuurd wiel op ten hoogste 50 cm achter het achterste voorwiel en eindigt op 50 cm voor het voorste achterwiel (zie figuur 28);  
+
+b. met betrekking tot de autonome aanhangwagen, het verticale vlak dat begint op ten hoogste 50 cm achter het achterste voorwiel en eindigt op 50 cm voor het voorste achterwiel (zie figuur 29);  
+
+c. met betrekking tot de oplegger, het verticale vlak dat begint op ten hoogste 25 cm achter het hart van de opleggersteunen, met een maximum van 275 cm achter hart koppelingspen en eindigt op 50 cm voor het voorste achterwiel (zie figuur 30).    ![244472](http://wetten.overheid.nl/Illustration/244472)
+Figuur 28. Zijdelingse afscherming bedrijfsauto.   ![244473](http://wetten.overheid.nl/Illustration/244473)
+Figuur 29. Zijdelingse afscherming autonome aanhangwagen.   ![245212](http://wetten.overheid.nl/Illustration/245212)
+Figuur 30. Zijdelingse afscherming oplegger.  
+
+### Artikel  109  
+
+1.Bij bedrijfsauto’s en aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen na 31 december 1969 maar voor 1 januari 1998, moet de zijdelingse afscherming in de gebieden genoemd in artikel 108 voldoen aan de volgende eisen: 
+
+a. de onderrand van de zijdelingse afscherming mag zich op niet meer dan 130 cm boven het wegdek bevinden;  
+
+b. de hoogte van de horizontaal gemonteerde profielen moet ten minste 3 cm zijn;  
+
+c. de zijdelingse afscherming kan onder meer worden gevormd door permanent aanwezige carrosseriedelen, randprofielen, wielafscherming, accubakken, lucht- of brandstof reservoirs en gereedschapskisten, dan wel door afzonderlijk aangebrachte vormvaste delen;  
+
+d. de zijdelingse afscherming dient deugdelijk te zijn bevestigd;  
+
+e. de zijdelingse afscherming mag in lengterichting niet meer dan 30 cm zijn onderbroken;  
+
+f. de zijdelingse afscherming moet aanwezig zijn op een afstand van niet meer dan 12 cm binnenwaarts ten opzichte van het breedste punt van het voertuig. 
+
+2. Indien het voertuig uitschuifbaar is, worden het eerste lid, onderdeel e, en artikel 108 buiten beschouwing gelaten indien het voertuig is uitgeschoven.  
+
+### Artikel  110  
+
+1.Bij bedrijfsauto’s en aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen na 31 december 1997, moet de zijdelingse afscherming in de gebieden genoemd in artikel 108 voldoen aan de volgende eisen (zie figuur 28, 29 en 30): 
+
+a. de zijdelingse afscherming moet zijn opgebouwd uit één of meerdere horizontaal gemonteerde profielen;  
+
+b. de onderlinge afstand van de profielen mag niet meer zijn dan 0,30 m;  
+
+c. de profielhoogte moet ten minste 5 cm zijn;  
+
+d. de onderrand van de zijdelingse afscherming mag zich op niet meer dan 0,55 m boven het wegdek bevinden;  
+
+e. de bovenrand van de zijdelingse afscherming mag zich niet verder dan 0,35 m onder de bovenbouw bevinden, of de bovenrand moet zich op 95 cm boven het wegdek bevinden. De bovenzijde van de bevestigingspunten van een verwisselbare opbouw wordt daarbij als bovenbouw beschouwd. De bovenrand hoeft niet hoger te liggen dan de bovenzijde van de langsliggers van het chassis of de laadvloer;  
+
+f. de zijdelingse afscherming moet aanwezig zijn op een afstand van niet meer dan 0,12 m binnenwaarts ten opzichte van het breedste punt van het voertuig;  
+
+g. de zijdelingse afscherming mag in de lengterichting niet meer dan 5 cm zijn onderbroken;  
+
+h. de zijdelingse afscherming kan onder meer worden gevormd door permanent aanwezige carrosserie delen, randprofielen, wielafscherming, accubakken, lucht- of brandstofreservoirs en gereedschapskisten, dan wel door afzonderlijk aangebrachte vormvaste delen;  
+
+i. De zijdelingse afscherming dient deugdelijk te zijn bevestigd.  
+
+2. Indien het voertuig uitschuifbaar is, worden het eerste lid, onderdeel g, en artikel 108 buiten beschouwing gelaten indien het voertuig is uitgeschoven. 
+
+3.Bij een voertuig met uitschuifbare steunen mag de onderbreking van de zijdelingse afscherming niet groter zijn dan noodzakelijk voor het uitschuiven van de steunen. 
+
+### Artikel  111  
+
+De in deze afdeling gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle;  
+
+b. door in geval van twijfel te meten met een meetmiddel van voldoende bereik, waarbij het volgende in acht moet worden genomen: 
+
+1°. het voertuig is op een horizontaal of nagenoeg horizontaal en vlak wegdek geplaatst;  
+
+2°. alle wielen zijn in de stand van rechtuitrijden geplaatst;  
+
+3°. de banden zijn op de juiste spanning;    
+
+c. indien het een oplegger betreft is deze op zodanige wijze op steunen geplaatst, dat de laadvloer horizontaal is dan wel in overeenstemming met de normale rijstand.   
+
+### §  3  
+
+#### *Frontbeschermingsinrichting* 
+
+### Artikel  112  
+
+1. Het EG-typegoedkeuringsmerk voorfrontbeschermingsinrichtingen moet zijn vormgegeven overeenkomstig figuur 31 en moet in gemonteerde toestand duidelijk leesbaar en onuitwisbaar zijn aangebracht.  
+
+2. Het eerste lid wordt getoetst door middel van visuele controle.  ![244475](http://wetten.overheid.nl/Illustration/244475)
+Figuur 31. EG-typegoedkeuringsmerk.  waarbij de volgende codes de daarbijvermelde betekenis hebben: e1: EG-typegoedkeuring. De lidstaat die de goedkeuring heeft verleend wordt aangeduid met een variabele kenletter (‘1’ is Duitsland, ‘4’ is Nederland); 01: variabel volgnummer waarmee de (wijzigings)richtlijn wordt aangeduid overeenkomstig welke de EG-typegoedkeuring heeft plaatsgevonden. Achter het volgnummer is een asterisk of een spatie geplaatst; 1471: variabel basisgoedkeuringsnummer.   
+
+### Titel  9  
+
+#### *Verlichting en retroreflecterende voorzieningen* 
+
+### Afdeling  1  
+
+#### *Dimlicht* 
+
+### Artikel  113  
+
+Het dimlicht moet zodanig zijn afgesteld dat bij controle met een koplamptestapparaat dan wel een lichtscherm het geprojecteerde beeld, na fixatie van het apparaat dan wel het scherm, voldoet aan de volgende eisen: 
+
+a. het lichte vlak moet zich onder het donkere vlak bevinden;  
+
+b. een duidelijke, geheel of ten dele horizontale scheidingslijn tussen licht en donker moet zichtbaar zijn;  
+
+c. het horizontale gedeelte van de scheidingslijn moet zich bevinden tussen of op de lijnen op het scherm van het koplamptestapparaat dan wel op het lichtscherm, die overeenkomen met een daling van de lichtbundel ten opzichte van de horizontale middenlijn van de koplamp van 5 tot 40 mm/m;  
+
+d. indien een ten dele horizontale scheidingslijn zichtbaar is: 
+
+1°. moet het horizontale gedeelte van de scheidingslijn zich grotendeels links bevinden van de verticale hartlijn op het scherm van het koplamptestapparaat dan wel op het verlichtingsscherm;  
+
+2°. mag het snijpunt van het horizontale en het niet-horizontale gedeelte: 
+
+– bij controle met een koplamptestapparaat niet links van de verticale hartlijn op het scherm van het koplamptestapparaat vallen, dan wel  
+
+– bij controle met een lichtscherm maximaal 20 mm/m links van de geprojecteerde verticale hartlijn van de koplamp op het lichtscherm vallen.       
+
+### Artikel  114  
+
+1. De stand van de lichtbundel van het dimlicht wordt gecontroleerd met behulp van een koplamptestapparaat dat juist voor het voertuig moet zijn opgesteld en waarbij: 
+
+a. de voorwielen van het voertuig in de stand van rechtuitrijden staan;  
+
+b. de handrem van het voertuig los staat, en  
+
+c. het voertuig en het koplamptestapparaat op een vlakke en horizontale vloer zijn geplaatst.    
+
+2. Indien het voertuig is uitgerust met een inrichting waarmee de dimlichtafstelling eenvoudig aan de beladingstoestand kan worden aangepast, moet tijdens de controle deze afstelinrichting staan op de stand die overeenkomt met de beladingstoestand.  
+
+3. Indien het voertuig is uitgerust met een automatische niveauregeling, wordt de controle uitgevoerd met stationair draaiende motor. Een eventuele bedieningsmogelijkheid moet in de normale rijstand staan.  
+
+4. Voertuigen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Het dimlicht wordt niet als verblindend aangemerkt indien deze als volgt is afgesteld: 
+
+a. globaal mag het geprojecteerde lichtste vlak, voor zowel een beladen als een onbeladen voertuig, zich niet bevinden boven de horizontale lijn die overeenkomt met een daling van 2 cm/m van de lichtbundel ten opzichte van het midden van de koplamp;  
+
+b. tevens mag het midden van dit vlak zich niet duidelijk links bevinden van de verticale hartlijn op het scherm van het koplamptestapparaat.     
+
+### Afdeling  2  
+
+#### *Gasontladingslichtbronnen* 
+
+### Artikel  115  
+
+Gasontladingslichtbronnen zijn lampen die gevoed worden door een (veel) hogere spanning dan de boordspanning. Er is in ieder geval sprake van een gasontladingslichtbronnen indien: 
+
+a. de lichtopbrengst van het dimlicht pas een moment na het inschakelen op maximale sterkte is;  
+
+b. de voedingsspanning van de dimlichtlamp verzorgd wordt via een hoogspanningstransformator, al dan niet voorzien van het volgende symbool:  ![244476](http://wetten.overheid.nl/Illustration/244476)
+
+### Artikel  116  
+
+Vervallen. 
+
+### Artikel  117  
+
+Bij dimlichten met gasontladingslichtbronnen blijven de gasontladingslichtbronnen ingeschakeld wanneer het groot licht brandt. 
+
+### Artikel  118  
+
+Vervallen.
+
+### Afdeling  3  
+
+#### *Zijmarkeringslichten en retroreflectoren* 
+
+### §  1  
+
+#### *Zijmarkeringslichten en ambergele retroreflecterende voorzieningen* 
+
+### Artikel  119  
+
+Zijmarkeringslichten en ambergele retroreflectoren moeten zijn aangebracht aan elke zijkant van het voertuig. 
+
+### Artikel  120  
+
+1. Zijmarkeringslichten en ambergele retroreflectoren moeten op de volgende wijze zijn geplaatst: 
+
+a. indien het voertuig langer is dan 6,00 m moet ten minste één zijmarkeringslicht en één retroreflector zich in het middelste derde gedeelte van het voertuig bevinden;  
+
+b. de onderlinge afstand tussen de zijmarkeringslichten en de onderlinge afstand tussen de retroreflectoren mag niet meer dan 4.00 m bedragen;  
+
+c. de afstand van het meest naar voren gelegen zijmarkeringslicht en van de meest naar voren gelegen retroreflector tot de uiterste voorzijde van het voertuig mag niet meer dan 4,00 m bedragen;  
+
+d. de afstand van het meest naar achteren gelegen zijmarkeringslicht en van de meest naar achteren gelegen retroreflector tot de uiterste achterzijde van het voertuig mag niet meer dan 1,00 m bedragen.    
+
+2. Indien het voertuig niet langer is dan 6,00 m, dan wel in het kentekenregister wordt aangeduid als kaal chassis, mag zich, bij verdeling van de lengte van het voertuig in drie gelijke delen, één zijmarkeringslicht op het voorste derde gedeelte en één zijmarkeringslicht op het achterste derde gedeelte van de lengte van het voertuig bevinden, waarbij één aanwezig zijmarkeringslicht volstaat.   
+
+### Artikel  121  
+
+Zijmarkeringslichten en ambergele retroreflectoren moeten zijn aangebracht op een hoogte van niet minder dan 0,25 m doch niet meer dan 1,50 m boven het wegdek. Indien het in verband met de constructie van het voertuig niet mogelijk is, mogen de zijmarkeringslichten zijn aangebracht op een hoogte van meer dan 1,50 m doch niet meer dan 2,10 m boven het wegdek. 
+
+### Artikel  122  
+
+De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle;  
+
+b. in geval van twijfel te meten met een meetmiddel van voldoende bereik.   
+
+### §  2  
+
+#### *Rode retroreflectoren in de vorm van een afgeknotte driehoek* 
+
+### Artikel  123  
+
+Rode retroreflectoren in de vorm van een afgeknotte driehoek moeten zijn voorzien van een goedkeuringsmerk zoals weergegeven in figuur 32.  ![244477](http://wetten.overheid.nl/Illustration/244477)
+Figuur. 32. Goedkeuringsmerk.  
+
+### Artikel  124  
+
+Vervallen. 
+
+### §  3  
+
+#### *Retroreflecterende voorzieningen fietsen* 
+
+### Artikel  125  
+
+Rode retroreflectoren, witte of gele retroreflectoren aan de wielen moeten zijn voorzien van een goedkeuringsmerk dat is samengesteld uit de aanduiding NL, omlijnd door een cirkel, en een volgnummer voorafgegaan door een letter of zijn voorzien van een goedkeuringsmerk zoals weergegeven in figuur 34.  ![244479](http://wetten.overheid.nl/Illustration/244479)
+Figuur 34.  
+
+### Artikel  126  
+
+Banden waarvan de zijkanten zijn voorzien van retroreflecterend materiaal, zijn voorzien van één van de goedkeuringsmerken zoals weergegeven in figuur 35.  ![244480](http://wetten.overheid.nl/Illustration/244480)
+Figuur 35. Goedkeuringsmerken banden met retroreflecterend materiaal.  
+
+### §  4  
+
+#### *Retroreflecterende voorzieningen gehandicaptenvoertuigen* 
+
+### Artikel  127  
+
+Rode retroreflectoren moeten zijn voorzien van een goedkeuringsmerk zoals weergegeven in figuur 36 of zijn voorzien van een goedkeuringsmerk dat is samengesteld uit de aanduiding NL, omlijnd door een cirkel, en een volgnummer voorafgegaan door een letter.  ![244481](http://wetten.overheid.nl/Illustration/244481)
+Figuur 36. Goedkeuringsmerk rode retroreflectoren.  
+
+### §  5  
+
+#### *Opvallende markering van begeleidingsvoertuigen* 
+
+### Artikel  127a  
+
+Met betrekking tot opvallende markering op begeleidingsvoertuigen als bedoeld in artikel 1, onderdeel a, van het BABW, is artikel 153 van deze bijlage van overeenkomstige toepassing. 
+
+### Afdeling  4  
+
+#### *Beschadigingen en bewerkingen* 
+
+### Artikel  128  
+
+1. De glazen van de lichtarmaturen mogen niet zijn bespoten, geverfd of beplakt.  
+
+2. De glazen van de lichtarmaturen aan de achterzijde van het voertuig, met uitzondering van de achteruitrijlichten, mogen geen barsten of gaten vertonen waardoor wit licht naar achteren kan worden gestraald.   
+
+### Titel  10  
+
+#### *Verbinding tussen trekkend voertuig en aanhangwagen* 
+
+### Artikel  129  
+
+Kogelkoppelingen moeten zijn voorzien van één van de goedkeuringsmerken zoals weergegeven in figuur 37.  ![244482](http://wetten.overheid.nl/Illustration/244482)
+Figuur 37. Goedkeuringsmerken koppelingen.  
+
+### Hoofdstuk  2  
+
+#### *Gebruikseisen* 
+
+### Titel  1  
+
+#### *Afmetingen en massa’s* 
+
+### Artikel  130  
+
+De lengtemarkering moet bestaan uit: 
+
+a. een vierkant bord van ten minste 0,42 m bij 0,42 m, voorzien van parallel lopende diagonale strepen die afwisselend wit en fluorescerend of retroreflecterend rood zijn, en een breedte hebben van niet minder dan 0,07 m en niet meer dan 0,10 m, en  
+
+b. ten minste één wit respectievelijk rood licht, indien het vervoer bij nacht plaatsvindt.  
+
+### Artikel  131  
+
+1.Het bord, bedoeld in artikel 130, wordt aangebracht in een verticaal vlak loodrecht op de lengte-as van het voertuig, waarbij de afstand van het wegdek tot de onderzijde van het bord niet minder dan 0,25 m, en tot de bovenzijde niet meer dan 1,90 m bedraagt. Indien dit in verband met de constructie niet mogelijk is mag de afstand tot de bovenzijde van het bord meer dan 1,90 m doch niet meer dan 2,30 m bedragen. 
+
+2.Het witte en het rode licht, bedoeld in artikel 130, worden zodanig aan de voorzijde respectievelijk achterzijde van het voertuig aangebracht dat zij zoveel mogelijk de grootste lengte aangeven, waarbij de afstand tot de lichten gemeten vanaf het langste punt van de lading of het verwisselbare uitrustingsstuk naar binnen toe niet meer dan 0,10 m bedraagt.
+
+3.Het witte en het rode licht moeten duidelijk zichtbaar zijn voor het tegemoetkomende respectievelijk achteropkomende verkeer.
+
+### Artikel  132  
+
+De breedtemarkering moet bestaan uit: 
+
+a. een vierkant bord van ten minste 0,42 m bij 0,42 m, of een rechthoekig bord van ten minste 0,28 m bij 0,56 m of 0,14 m bij 0,80 m, voorzien van parallel lopende diagonale strepen die afwisselend wit en fluorescerend of retroreflecterend rood zijn, en een breedte hebben van niet minder dan 0,07 m en niet meer dan 0,10 m, en  
+
+b. ten minste één wit respectievelijk rood licht, indien het vervoer bij nacht plaats vindt.  
+
+### Artikel  133  
+
+1.Het bord, bedoeld in artikel 132, wordt aangebracht in een verticaal vlak loodrecht op de lengte-as van het voertuig, waarbij de afstand van het wegdek tot de onderzijde van het bord niet minder dan 0,25 m, en tot de bovenzijde niet meer dan 1,90 m bedraagt. Indien dit in verband met de constructie niet mogelijk is, mag de afstand tot de bovenzijde van het bord meer dan 1,90 m doch niet meer dan 2,30 m bedragen, zoals weergegeven in figuur 38.
+
+2.Het bord wordt aan de voor- en achterzijde van de in de breedte uitstekende lading of het verwisselbaar uitrustingsstuk aangebracht, zodanig dat zoveel mogelijk de grootste breedte wordt aangegeven, zonder dat het bord de breedte vergroot.
+
+3.Het witte en het rode licht, bedoeld in artikel 132 worden zodanig aan de voorzijde onderscheidenlijk achterzijde van het voertuig aangebracht, dat zij zoveel mogelijk de grootste breedte aangeven, waarbij de afstand tot de lichten gemeten vanaf het breedste punt van de lading of het verwisselbaar uitrustingsstuk naar binnen toe niet meer dan 0,10 m bedraagt.
+
+4.Het witte en het rode licht moeten duidelijk zichtbaar zijn voor het tegemoetkomende respectievelijk achteropkomende verkeer.![246539](http://wetten.overheid.nl/Illustration/246539)
+Figuur 38. Bord ter markering van in breedte uitstekende lading.
+
+### Titel  2  
+
+#### *Carrosserie* 
+
+### §  1  
+
+#### *Linker en rechter buitenspiegel* 
+
+### Artikel  134  
+
+De linker- en rechterbuitenspiegel moeten zo zijn geplaatst dat de bestuurder in normale rijhouding het vereiste gezichtsveld heeft. 
+
+### Artikel  135  
+
+De spiegels van bedrijfsauto’s en bussen moeten zodanig zijn geplaatst dat de bestuurder in normale rijhouding de vereiste gezichtsvelden, zoals bepaald in de artikelen 136 tot en met 149 kan overzien. 
+
+### Artikel  136  
+
+1. De linkerbuitenspiegel van de bedrijfsauto of bus met een toegestane maximummassa van meer dan 3.500 kg die in gebruik is genomen voor 26 januari 2008, of van de bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg die in gebruik is genomen voor 26 januari 2011 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 39, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 10,00 m achter de oogpunten van de bestuurder en 2,50 m naast het verlengde van de linkerzijde van het voertuig kan zien;  
+
+b. een deel van de linkerzijde van het voertuig kan zien;  
+
+c. de horizon kan zien, en  
+
+d. tevens recht naar achteren kan kijken.    
+
+2. De linkerbuitenspiegel van de bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg die in gebruik is genomen na 25 januari 2011, is zodanig geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 40, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 20,00 m achter de oogpunten van de bestuurder en 4,00 m naast het verlengde van de linkerzijde van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en 1,00 m naast het verlengde van de linkerzijde van het voertuig kan zien;  
+
+c. en een deel van de linkerzijde van het voertuig kan zien;  
+
+d. de horizon kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    
+
+3. De linkerbuitenspiegel van de bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg die in gebruik is genomen na 25 januari 2008 en van de bus met een toegestane maximummassa van niet meer dan 3.500 kg die in gebruik is genomen na 25 januari 2011 is zodanig geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergeven in figuur 41 waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 30,00 m achter de oogpunten van de bestuurder en 5,00 m naast het verlengde van de linkerzijde van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en 1,00 m naast het verlengde van de linkerzijde van het voertuig kan zien;  
+
+c. een deel van de linkerzijde van het voertuig kan zien;  
+
+d. de horizon kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    ![244484](http://wetten.overheid.nl/Illustration/244484)
+Figuur 39. Linkerbuitenspiegel.   ![244485](http://wetten.overheid.nl/Illustration/244485)
+Figuur 40. Linkerbuitenspiegel en rechterbuitenspiegel.   ![244486](http://wetten.overheid.nl/Illustration/244486)
+Figuur 41. Linkerbuitenspiegel en rechterbuitenspiegel.    
+
+### Artikel  137  
+
+1. De rechterbuitenspiegel van de bus of de bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg die in gebruik is genomen na 25 januari 2008, moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 41, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 30,00 m achter de oogpunten van de bestuurder en 5,00 m naast het verlengde van de rechterzijde van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en 1,00 m naast het verlengde van de rechterzijde van het voertuig kan zien;  
+
+c. een deel van de rechterzijde van het voertuig kan zien;  
+
+d. de horizon kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    
+
+2. De rechterbuitenspiegel van de bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg die in gebruik is genomen na 25 januari 2011 is zodanig geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 40, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 20,00 m achter de oogpunten van de bestuurder en 4,00 m naast het verlengde van de rechterzijde van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en 1,00 m naast het verlengde van de rechterzijde van het voertuig kan zien;  
+
+c. en een deel van de rechterzijde van het voertuig kan zien;  
+
+d. de horizon kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    
+
+3. De rechterbuitenspiegel van de bedrijfsauto met een technisch toegestane maximummassa van niet meer dan 2.000 kg die in gebruik is genomen na 30 september 1988 doch voor 26 januari 2011 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 42, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 20,00 m achter de oogpunten van de bestuurder en 4,00 m naast het verlengde van de rechterzijde van het voertuig kan zien;  
+
+b. een deel van de rechterzijde van het voertuig kan zien;  
+
+c. de horizon kan zien, en  
+
+d. tevens recht naar achteren kan kijken.    
+
+4. De rechterbuitenspiegel van de bedrijfsauto met een technisch toegestane maximummassa van niet meer dan 2.000 kg die in gebruik is genomen vóór 1 oktober 1988 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 43, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 30,00 m achter de oogpunten van de bestuurder en 3,50 m naast het verlengde van de rechterzijde van het voertuig kan zien;  
+
+b. een deel van de rechterzijde van het voertuig kan zien;  
+
+c. de horizon kan zien, en  
+
+d. tevens recht naar achteren kan kijken.    
+
+5. De rechterbuitenspiegel van de bus, of de bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg die in gebruik is genomen voor 26 januari 2008 en de rechterbuitenspiegel van de bedrijfsauto met een toegestane maximummassa van meer dan 2.000 kg maar niet meer dan 3.500 kg die in gebruik is genomen voor 26 januari 2011 is zodanig geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 43a waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en 0,75 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 30,00 m achter de oogpunten van de bestuurder en 3,50 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+c. een deel van de rechterzijde van het voertuig kan zien;  
+
+d. de horizon kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    ![244487](http://wetten.overheid.nl/Illustration/244487)
+Figuur 42. Rechterbuitenspiegel.   ![244488](http://wetten.overheid.nl/Illustration/244488)
+Figuur 43. Rechterbuitenspiegel.   ![244489](http://wetten.overheid.nl/Illustration/244489)
+Figuur 43a. Rechterbuitenspiegel.    
+
+### Artikel  138  
+
+De linkerbuitenspiegel van het motorvoertuig, met uitzondering van een motorfiets, moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 44 of 45, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 10,00 m achter de oogpunten van de bestuurder en 2,50 m naast het meest links gelegen punt van de lading of aanhangwagen;  
+
+b. een deel van de linkerzijde van de lading of aanhangwagen, en  
+
+c. de horizon kan zien, en hij tevens recht naar achteren kan kijken.    ![244490](http://wetten.overheid.nl/Illustration/244490)
+Figuur 44. Linkerbuitenspiegel.   ![244491](http://wetten.overheid.nl/Illustration/244491)
+Figuur 45. Linkerbuitenspiegel.  
+
+### Artikel  139  
+
+De rechterbuitenspiegel van een personenauto of een bedrijfsauto, die na 30 september 1988 in gebruik is genomen, met een technisch toegestane maximummassa van niet meer dan 2.000 kg, moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 46 of 47, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 20,00 m achter de oogpunten van de bestuurder en 4,00 m naast het meest rechts gelegen punt van de lading of aanhangwagen;  
+
+b. een deel van de rechterzijde van de lading of aanhangwagen, en  
+
+c. de horizon kan zien, en hij tevens recht naar achteren kan kijken.    ![244492](http://wetten.overheid.nl/Illustration/244492)
+Figuur 46. Rechterbuitenspiegel.   ![244493](http://wetten.overheid.nl/Illustration/244493)
+Figuur 47. Rechterbuitenspiegel.  
+
+### Artikel  140  
+
+De rechterbuitenspiegel van een personenauto of bedrijfsauto, die vóór 1 oktober 1988 in gebruik is genomen, met een technisch toegestane maximummassa van niet meer dan 2.000 kg, moet zodanig zijn geplaatst dat de bestuurder hiermee een gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 48 of 49, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 30,00 m achter de oogpunten van de bestuurder en 3,50 m naast het meest rechts gelegen punt van de lading of aanhangwagen;  
+
+b. een deel van de rechterzijde van de lading of aanhangwagen;  
+
+c. de horizon kan zien, en hij tevens recht naar achteren kan kijken.    ![244494](http://wetten.overheid.nl/Illustration/244494)
+Figuur 48. Rechterbuitenspiegel.   ![244495](http://wetten.overheid.nl/Illustration/244495)
+Figuur 49. Rechterbuitenspiegel.  
+
+### Artikel  141  
+
+De rechterbuitenspiegel van een bus, en van een bedrijfsauto, met een technisch toegestane maximummassa van meer dan 2.000 kg, moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 50 of 51, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en 0,75 m naast het meest rechts gelegen punt van de lading of aanhangwagen;  
+
+b. een punt op het wegdek, gelegen op 30,00 m achter de oogpunten van de bestuurder en 3,50 m naast het meest rechts gelegen punt van de lading of aanhangwagen;  
+
+c. een deel van de rechterzijde van de lading of aanhangwagen, en  
+
+d. de horizon kan zien, en hij tevens recht naar achteren kan kijken.    ![244496](http://wetten.overheid.nl/Illustration/244496)
+Figuur 50. Rechterbuitenspiegel.   ![244497](http://wetten.overheid.nl/Illustration/244497)
+Figuur 51. Rechterbuitenspiegel.  
+
+### §  2  
+
+#### *Troittoirspiegel* 
+
+### Artikel  142  
+
+1. De trottoirspiegel van de bedrijfsauto die in gebruik is genomen voor 26 januari 2008 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien zoals weergegeven in figuur 52.  
+
+2. De trottoirspiegel van de bedrijfsauto die in gebruik is genomen na 25 januari 2008 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien zoals weergegeven in figuur 53.  
+
+3. Indien het verticale dwarsvlak door de voorste zijde van de bumper op minder dan 1,00 m is gelegen van de oogpunten van de bestuurder mag het gezichtveld van de trottoirspiegel worden beperkt tot dat dwarsvlak zoals weergegeven in figuur 54.  ![244498](http://wetten.overheid.nl/Illustration/244498)
+Figuur 52. Trottoirspiegel.   ![244499](http://wetten.overheid.nl/Illustration/244499)
+Figuur 53. Trottoirspiegel.   ![244500](http://wetten.overheid.nl/Illustration/244500)
+Figuur 54. Trottoirspiegel.    
+
+### §  3  
+
+#### *Breedtespiegel* 
+
+### Artikel  143  
+
+1. De aan de passagierszijde gemonteerde breedtespiegel van de bedrijfsauto die in gebruik is genomen voor 26 januari 2008 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 55, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 3,00 m achter de oogpunten van de bestuurder en 2,50 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 15,00 m achter de oogpunten van de bestuurder en 12,50 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+c. een punt op het wegdek, gelegen op 4,00 m achter de oogpunten van de bestuurder en op de projectie van de rechterzijkant van het voertuig of het verlengde van deze projectie kan zien;  
+
+d. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en in het verlengde van de rechterzijkant van het voertuig kan zien, en  
+
+e. tevens recht naar achteren kan kijken.   Deze verplichting geldt niet indien het voertuig is voorzien van een breedtespiegel waarmee wordt voldaan aan het bepaalde in artikel 145.  
+
+2. De aan de passagierszijde gemonteerde breedtespiegel van de bedrijfsauto die in gebruik is genomen na 25 januari 2008 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 56, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 1,50 m achter de oogpunten van de bestuurder en 4,50 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 10,00 m achter de oogpunten van de bestuurder en 15,00 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+c. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en 15,00 m naast het verlengde van de rechterzijkant van het voertuig kan zien;  
+
+d. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en op het verlengde van de projectie van de rechterzijkant van het voertuig kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    
+
+3. De aan de bestuurderszijde gemonteerde breedtespiegel van de bedrijfsauto die in gebruik is genomen na 25 januari 2008 moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld op grondniveau kan overzien, zoals weergegeven in figuur 56, waarbij de bestuurder: 
+
+a. een punt op het wegdek, gelegen op 1,50 m achter de oogpunten van de bestuurder en 4,50 m naast het verlengde van de linkerzijkant van het voertuig kan zien;  
+
+b. een punt op het wegdek, gelegen op 10,00 m achter de oogpunten van de bestuurder en 15,00 m naast het verlengde van de linkerzijkant van het voertuig kan zien;  
+
+c. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en 15,00 m naast het verlengde van de linkerzijkant van het voertuig kan zien;  
+
+d. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en op het verlengde van de projectie van de linkerzijkant van het voertuig kan zien, en  
+
+e. tevens recht naar achteren kan kijken.    ![244501](http://wetten.overheid.nl/Illustration/244501)
+Figuur 55. Breedtespiegel.   ![244502](http://wetten.overheid.nl/Illustration/244502)
+Figuur 56. Breedtespiegel.    
+
+### §  4  
+
+#### *Gezichtsveldverbeterende voorziening* 
+
+### Artikel  144  
+
+1. De gezichtsveldverbeterende voorziening, bedoeld in artikel 5.3.45, zesde en elfde lid, voldoet aan de in de artikelen 145 tot en met 147 gestelde eisen.  
+
+2. De Minister van Infrastructuur en Milieu maakt door publicatie in de Staatscourant de gezichtsveldverbeterende voorzieningen bekend die in ieder geval voldoen aan het bepaalde in de artikelen 145 tot en met 147.   
+
+### Artikel  145  
+
+De gezichtsveldverbeterende voorziening is zodanig geplaatst dat de bestuurder hiermee, eventueel in combinatie met andere spiegels, het gezichtsveld kan overzien zoals weergegeven in figuur 57, waarbij de bestuurder zicht heeft op: 
+
+a. een punt op het wegdek, gelegen op 1,50 m achter de oogpunten van de bestuurder en op de projectie van de rechterzijkant of het verlengde daarvan van het voertuig;  
+
+b. een punt op het wegdek, gelegen op 1,50 m achter de oogpunten van de bestuurder en op 4,50 m naast de rechterzijkant of het verlengde daarvan van het voertuig;  
+
+c. een punt op het wegdek, gelegen op 10,00 m achter de oogpunten van de bestuurder en op 15,00 m naast de rechterzijkant of het verlengde daarvan van het voertuig;  
+
+d. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en op de projectie van het verlengde van de rechterzijkant van het voertuig, en  
+
+e. een punt op het wegdek, gelegen op 25,00 m achter de oogpunten van de bestuurder en op 15,00 m naast het verlengde van de rechterzijkant van het voertuig.  ![244503](http://wetten.overheid.nl/Illustration/244503)
+Figuur 57. Gezichtsveldverbeterende voorziening.    
+
+### Artikel  146  
+
+De gezichtsveldverbeterende voorziening is: 
+
+a. deugdelijk bevestigd;  
+
+b. steekt niet verder buiten het voertuig uit dan noodzakelijk is om de in artikel 145 voorgeschreven gezichtsvelden te verkrijgen;  
+
+c. belemmert het rechtstreekse zicht van de bestuurder zo min mogelijk, en  
+
+d. steekt niet verder dan 250 mm uit, gemeten vanaf het breedste punt van het voertuig zonder de spiegels of gezichtsveldverbeterende voorzieningen, indien de onderrand van de gezichtsveldverbeterende voorziening zich op een hoogte van minder dan 2 m boven het wegdek bevindt.   
+
+### Artikel  147  
+
+1. De gezichtsveldverbeterende voorziening bestaat uit een spiegel of een camera-monitorsysteem.  
+
+2. Een spiegel voldoet aan de volgende aanvullende eisen: 
+
+a. hij is verstelbaar;  
+
+b. het spiegeloppervlak is vlak of bolrond, en  
+
+c. het proces van scannen en weergeven duurt niet langer dan 2 seconden, in het geval dat de spiegel uitsluitend het voorgeschreven gezichtsveld kan weergeven via het scannen ervan.    
+
+3. Een camera-monitorsysteem voldoet aan de volgende aanvullende eisen: 
+
+a. het is zonder gereedschap te verstellen in het geval dat het systeem verstelbaar is, en  
+
+b. het beeldscherm biedt bij normale gebruiksomstandigheden voldoende contrast en de helderheid kan handmatig aan de omgevingsomstandigheden worden aangepast of wordt automatisch hieraan aangepast.     
+
+### §  5  
+
+#### *Vooruitkijkspiegel of camera-monitorsysteem* 
+
+### Artikel  148  
+
+De vooruitkijkspiegel of het camera-monitorsysteem van de bedrijfsauto die in gebruik is genomen na 25 januari 2008, moet zodanig zijn geplaatst dat de bestuurder hiermee het gezichtsveld kan overzien zoals weergegeven in figuur 58, waarbij de bestuurder zicht heeft op: 
+
+a. een 2,00 m lang voor de uiterste voorzijde van het voertuig gelegen vlak dat begrensd wordt door de projectie of het verlengde van de projectie van de linker- en rechterzijkant van het voertuig, en  
+
+b. een daarop aansluitende kwartcirkel met een straal van 2,00 m waarvan het middelpunt is gelegen op de projectie of het verlengde van de projecties van de voorzijde en de rechterzijkant van het voertuig.    ![244504](http://wetten.overheid.nl/Illustration/244504)
+Figuur 58. Vooruitkijkspiegel.  
+
+### Artikel  149  
+
+Het beeldscherm van het camera-monitorsysteem moet dusdanig zijn gemonteerd dat de kijkrichting voor het beeldscherm ongeveer overeenkomt met die voor de linker- of de rechterbuitenspiegel. 
+
+### §  6  
+
+#### *Wijze van keuren* 
+
+### Artikel  150  
+
+De in deze titel gestelde eisen worden alleen getoetst indien dit noodzakelijk is voor het bepalen van het aantal spiegels of gezichtsveldverbeterende voorzieningen; indien er getoetst wordt, gebeurt dit visueel. 
+
+### Titel  3  
+
+#### *Verlichting en retroreflecterende voorzieningen* 
+
+### Artikel  151  
+
+Achterlichten van aanhangwagens achter fietsen moeten zijn voorzien van een goedkeuringsmerk dat is samengesteld uit de aanduiding NL, e of E, omlijnd door een cirkel, en een volgnummer voorafgegaan door een letter. 
+
+### Artikel  152  
+
+Vervallen. 
+
+### Artikel  153  
+
+1.Opvallende markeringen zijn niet verplicht voor voertuigen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren.
+
+2.In plaats van lijnmarkering mag aan de achterzijde van het voertuig volledige contourmarkering zijn aangebracht.
+
+3.In plaats van lijnmarkering mag aan de zijkant van het voertuig gedeeltelijke of volledige contourmarkering zijn aangebracht 
+
+4.In het geval van gedeeltelijke contourmarkering wordt iedere bovenhoek beschreven door twee lijnen loodrecht op elkaar en ieder ten minste 0,25 m lang. Indien het niet mogelijk is de lijnen loodrecht op elkaar aan te brengen, moet zoveel mogelijk de contour van het voertuig worden gevolgd.
+
+5.Het materiaal van opvallende markeringen voldoet aan VN/ECE-reglement 104, klasse C.
+
+6.Lijnmarkeringen en de onderste elementen van contourmarkeringen mogen niet hoger zijn gemonteerd dan 2,50 m.
+
+7.Opvallende markeringen worden als doorlopend beschouwd als de onderbrekingen niet groter zijn dan 1,00 m.
+
+8.Binnen een volledige contourmarkering aan de zijkant van het voertuig mogen retroreflecterende cijfers, letters of afbeeldingen zijn aangebracht waarvan het materiaal voldoet aan VN/ECE-reglement 104, klasse D of E, met dien verstande dat deze geen nadelige invloed hebben op de effectiviteit van de contourmarkering en de verplichte lichten en retroreflecterende voorzieningen. In ieder geval mogen de retroreflecterende cijfers, letters of afbeeldingen niet meer dan 1/3 deel van de totale oppervlakte binnen de omtrek van de volledige contourmarkering uitmaken.
+
+9.Aan de eis, als bedoeld in het vijfde en achtste lid, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport.
+
+#### *Annex 1, behorend bij de artikelen 5 tot en met 7* 
+
+Motorvoertuigen welke geen volledig dragend chassis hebben; roestschadegradatie bij maximum functieverlies per onderdeel, per bevestiging van een onderdeel of per sectie van de bodemplaat.  
+
+| Algemene bouwwijze van het voertuig  | Roest- schadegradatie  | Beoordelingsprincipe volgens afdeling 1, artikel:  |
+|:---|:---|:---|
+|  *Langs- en dwarsliggers*   | --- | --- |
+| --- | --- | --- |
+|  *Dwarsliggers*   | --- | --- |
+| dwarsbalk achter achterwielophanging bij motor achterin  | 6E  | 7  |
+| dwarsbalk vóór voorwielophanging  | 6E  | --- |
+| hoofddwarsbalk  | 6E  | 7  |
+| hulpdwarsbalk  | 4E  | 7  |
+| balkje ter versteviging van een plaatdeel  | 1E  | 7  |
+| en niet bevestigd aan een andere balk of ander plaatdeel  | --- | --- |
+| --- | --- | --- |
+|  *Langsliggers*   | --- | --- |
+| dorpel: de dorpellengte is de onderzijde van een deur respectievelijk twee deuren indien geen tussenstijl aanwezig is. Indien een tussenstijl aanwezig is en de twee deuren sluiten niet geheel aan, moet voor de lengtebepaling het gedeelte tussen de deuren in twee helften worden verdeeld. Iedere helft wordt bij de lengte van de ene respectievelijk de andere dorpel opgeteld.  | 6E  | 7  |
+| --- | --- | --- |
+|  *Eindlangsbalk*   | --- | --- |
+| eindlangsbalk: de lengte van de eindlangsbalk wordt gemeten vanaf de achterzijde van de balk tot het begin van het horizontale deel van de bodemplaat.  | 8E  | 7  |
+| bevestiging aan bodemplaat of laadvloer  | 8E  | 12  |
+| --- | --- | --- |
+|  *Frontlangsbalk*   | --- | --- |
+| frontlangsbalk: de lengte van de frontlangsbalk wordt gemeten vanaf de voorzijde van de balk tot het begin van het horizontale deel van de bodemplaat.  | 8E  | 7  |
+| bevestiging aan bodemplaat of schutbord  | 8E  | 12  |
+| hoofdlangsbalk  | 6E  | 7  |
+| hulplangsbalk  | 4E  | 7  |
+| --- | --- | --- |
+|  *Subframe*   | --- | --- |
+| subframe voor of achter  | 6E  | 7  |
+| bevestiging subframe per punt aan carrosserie of balk  | 6E  | 12  |
+| --- | --- | --- |
+| Begin- en eindstukken van een balk die buiten de vastgestelde lengte vallen met een maximum van 150 mm  | 1E  | 7  |
+| --- | --- | --- |
+| Deurstijl: de lengte is zoals weergegeven in figuur 1   | 6E  | 7  |
+| Raamstijl: de lengte is zoals weergegeven in figuur 1   | 6E  | 7  |
+| --- | --- | --- |
+|  *Plaatdelen*   | --- | --- |
+| Bodemplaatsectie  | 8E  | 8 9  |
+| Deurplaat  | 1E  | 11  |
+| Kofferbodem  | 4E  | 11  |
+| Kofferbodem belast door bevestiging brandstoftank of koppelinrichting (trekhaak)  | 8E  | 11  |
+| Kofferdeksel  | 1E  | 11  |
+| Motorkap  | 1E  | 11  |
+| Plaatdeel waaraan lichtarmatuur is bevestigd  | 4E  | 11  |
+| Schutbord  | 4E  | 11  |
+| Schoorplaat (verstevigingsplaat) tussen schutbord of deurstijl en bovenzijde wielkast  | 6E  | 11  |
+| Voorste of achterste buitenscherm  | 4E  | 11  |
+| --- | --- | --- |
+|  *Schroefveerkoker*   | --- | --- |
+| Bevestiging schroefveerkoker  | 8E  | 12  |
+| --- | --- | --- |
+|  *Wielkast*   | --- | --- |
+| Wielkast  | 8E  | 10  |
+| --- | --- | --- |
+|  *Wielkast ter plaatse van voorwiel (gedeeltelijk) belast door schokdemper of schroefveer*   | --- | --- |
+| bevestiging aan bovenzijde  | 6E  | 10  |
+| bevestiging aan schutbord  | 6E  | 10  |
+| bevestiging aan onderzijde  | 6E  | 10  |
+| --- | --- | --- |
+|  *Wielkast ter plaatse van achterwiel (gedeeltelijk) belast door schokdemper of schroefveer*   | --- | --- |
+| bevestiging aan buitenscherm  | 4E  | 10  |
+| bevestiging van de helften van de wielkast  | 6E  | 10  |
+| bevestiging aan bodemplaat of kofferbodem  | 6E  | 10  |
+| --- | --- | --- |
+|  *Wielkast ter plaatse van achterwiel zonder bevestiging van de schokdemper of schroefveer*   | --- | --- |
+| bevestiging van de helften van de wielkast  | 4E  | 10  |
+| --- | --- | --- |
+|  *Motor*   | --- | --- |
+| Totale motorbevestiging  | 8E  | 12  |
+| Totale brandstoftankbevestiging aan carrosserie of chassis  | 8E  | 12  |
+| --- | --- | --- |
+|  *Krachtoverbrenging*   | --- | --- |
+| Bevestiging per punt van de aandrijving  | 8E  | 12  |
+| --- | --- | --- |
+|  *Assen*   | --- | --- |
+| Bevestiging van de reactie-arm of panhardstang  | 8E  | 12  |
+| Bevestiging van het bovenste of onderste wielgeleidingselement  | 8E  | 12  |
+| --- | --- | --- |
+|  *Ophanging*   | --- | --- |
+| Bevestiging van de schokdemper  | 6E  | 12  |
+| Bevestiging van de veer  | 8E  | 12  |
+| Bevestiging van de veerhand of veerschommel  | 8E  | 12  |
+| --- | --- | --- |
+|  *Stuurinrichting*   | --- | --- |
+| Bevestiging van de hulppitmanarm  | 8E  | 12  |
+| Bevestiging van het stuurhuis per bout  | 8E  | 12  |
+| Bevestiging van de overige onderdelen  | 8E  | 12  |
+| --- | --- | --- |
+|  *Reminrichting*   | --- | --- |
+| Bevestiging van de hoofdremcilinder  | 8E  | 12  |
+| Bevestiging van het rempedaal  | 8E  | 12  |
+| --- | --- | --- |
+|  *Carrosserie*   | --- | --- |
+| Bevestiging per punt van de autogordel  | 8E  | 12  |
+| --- | --- | --- |
+|  *Deursloten en -scharnieren*   | --- | --- |
+| bevestiging van de scharnieren dan wel geleiding schuifdeur per deur  | 6E  | 12  |
+| bevestiging van de sloten per deur  | 6E  | 12  |
+| --- | --- | --- |
+|  *Indien de autogordel aan de deur is gemonteerd:*   | --- | --- |
+| bevestiging van de scharnieren dan wel geleiding schuifdeur per deur  | 8E  | 12  |
+| bevestiging van de sloten per deur  | 8E  | 12  |
+| --- | --- | --- |
+|  *motorkap of kofferdeksel*   | --- | --- |
+| totale bevestiging van de scharnieren  | 6E  | 12  |
+| totale bevestiging van de sloten  | 6E  | 12  |
+| --- | --- | --- |
+|  *Zitplaatsen*   | --- | --- |
+| bevestiging per punt van de zitplaats  | 6E  | 12  |
+| --- | --- | --- |
+|  *Indien de autogordel aan de zitplaats is bevestigd:*   | --- | --- |
+| bevestiging per punt van de zitplaats  | 8E  | 12  |
+| --- | --- | --- |
+|  *Lichten*   | --- | --- |
+| Bevestiging van het lichtarmatuur  | 4E  | 12  |
+| --- | --- | --- |
+|  *Verbinding tussen motorvoertuig en aanhangwagen*   | --- | --- |
+| Bevestiging per punt van de koppelinrichting voor een aanhangwagen  | 8E  | 12  |
+
+![244505](http://wetten.overheid.nl/Illustration/244505)
+Figuur 1. Lengte deurstijl en raamstijl.  
+
+#### *Annex 2, behorend bij artikel 15, eerste lid* 
+
+Motorvoertuigen met een volledig dragend chassis, ongeacht de massa, alsmede aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg; langs- en dwarsliggers, asbevestigingen, profielen en trekinrichting middenasaanhangwagen en aanhangwagen met een stijve dissel.  
+
+| Te beoordelen onderdelen  | Maximum toegestane dikteafname van het materiaal ten opzichte van de oorspronkelijke dikte  |
+|:---|:---|
+|Dwarsliggers |30% |
+|Langsliggers |20% |
+|Asbevestigingen |20% |
+|Alle profielen die deel uitmaken van een ondersteuning van de draaikans of opleggerkoppeling dan wel koppelingsplaat |20% |
+|Trekinrichting middenasaanhangwagen en aanhangwagen met een stijve dissel |20% |
+
+#### *Annex 3, behorend bij de artikelen 17 tot en met 19* 
+
+Onderdelen van motorvoertuigen met een volledig dragend chassis, ongeacht de massa, alsmede aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg; roestschadegradatie bij maximum functieverlies per onderdeel of per bevestiging van een onderdeel.  
+
+| Algemene bouwwijze van het voertuig  | Roestschadegradatie  | Beoordelingsprincipe volgens afdeling 2, artikel …   |
+|:---|:---|:---|
+| Totale bevestiging van de personenruimte en niet-kantelbare cabine aan het chassis  | 8E  | 21  |
+| --- | --- | --- |
+|  *Kantelcabine*   | --- | --- |
+| totale bevestiging van de vergrendeling  | 6E  | 21  |
+| totale bevestiging van de scharnieren  | 6E  | 21  |
+| --- | --- | --- |
+|  *Deurstijl*   | 4E  | 19  |
+| Dorpel: de dorpellengte is de lengte tussen de deurstijlen per deuropening.  | 4E  | 19  |
+| Hoofdlangsbalk  | 6E  | 19  |
+| Hoofddwarsbalk  | 6E  | 19  |
+| Hulplangsbalk  | 4E  | 19  |
+| Hulpdwarsbalk  | 4E  | 19  |
+| Balkje zonder dragende functie, ter versteviging van een plaatdeel  | 1E  | 19  |
+| --- | --- | --- |
+|  *Plaatdelen*   | --- | --- |
+| Bodemplaat ter plaatse van ‘voetsteun’  | 4E  | 20  |
+| Deurplaat  | 1E  | 20  |
+| Kofferbodem  | 4E  | 20  |
+| Kofferbodem belast door bevestiging brandstoftank of koppelinrichting  | 8E  | 20  |
+| Kofferdeksel  | 1E  | 20  |
+| Motorkap  | 1E  | 20  |
+| Plaatdeel waaraan lichtarmatuur is bevestigd  | 4E  | 20  |
+| Schutbord  | 2E  | 20  |
+| Voorste of achterste buitenscherm  | 2E  | 20  |
+| Wielkast  | 2E  | 20  |
+| --- | --- | --- |
+| Raamstijl  | 4E  | 19  |
+| --- | --- | --- |
+|  *Motor*   | --- | --- |
+| Totale motorbevestiging  | 8E  | 21  |
+| Totale brandstoftankbevestiging aan carrosserie of chassis  | 8E  | 21  |
+| --- | --- | --- |
+|  *Krachtoverbrenging*   | --- | --- |
+| Bevestiging per punt van de aandrijving  | 8E  | 21  |
+| --- | --- | --- |
+|  *Assen*   | --- | --- |
+| Bevestiging van de reactie-arm of panhardstang  | 8E  | 21  |
+| Bevestiging van het bovenste of onderste  | 8E  | 21  |
+| wielgeleidingselement  | --- | --- |
+| --- | --- | --- |
+|  *Ophanging*   | --- | --- |
+| Bevestiging van de schokdemper  | 6E  | 21  |
+| Bevestiging van de veer  | 8E  | 21  |
+| Bevestiging van de veerhand of veerschommel  | 8E  | 21  |
+| --- | --- | --- |
+|  *Stuurinrichting*   | --- | --- |
+| Bevestiging van de hulppitmanarm  | 8E  | 21  |
+| Bevestiging van het stuurhuis per bout  | 8E  | 21  |
+| Bevestiging van de overige onderdelen  | 8E  | 21  |
+| --- | --- | --- |
+|  *Reminrichting*   | --- | --- |
+| Bevestiging van de hoofdremcilinder  | 8E  | 21  |
+| Bevestiging van het rempedaal  | 8E  | 21  |
+| --- | --- | --- |
+|  *Carrosserie*   | --- | --- |
+| Bevestiging per punt van de autogordel  | 8E  | 21  |
+| --- | --- | --- |
+|  *Deursloten en -scharnieren*   | --- | --- |
+| bevestiging van de scharnieren dan wel geleiding schuifdeur per deur  | 6E  | 21  |
+| bevestiging van de sloten per deur  | 6E  | 21  |
+| --- | --- | --- |
+|  *Indien de autogordel aan de deur is gemonteerd:*   | --- | --- |
+| bevestiging van de scharnieren dan wel geleiding schuifdeur per deur  | 8E  | 21  |
+| bevestiging van de sloten per deur  | 8E  | 21  |
+| --- | --- | --- |
+|  *motorkap of kofferdeksel*   | --- | --- |
+| totale bevestiging van de scharnieren  | 6E  | 21  |
+| totale bevestiging van de sloten  | 6E  | 21  |
+| --- | --- | --- |
+|  *Zitplaatsen*   | --- | --- |
+| bevestiging per punt van de zitplaats  | 6E  | 21  |
+| --- | --- | --- |
+|  *Indien de autogordel aan de zitplaats is bevestigd:*   | --- | --- |
+| bevestiging per punt van de zitplaats  | 8E  | 21  |
+| --- | --- | --- |
+|  *Lichten*   | --- | --- |
+| Bevestiging van het lichtarmatuur  | 4E  | 21  |
+| --- | --- | --- |
+|  *Verbinding tussen motorvoertuig en aanhangwagen*   | --- | --- |
+| Bevestiging per punt van de koppelinrichting voor een aanhangwagen  | 8E  | 21  |
+
+#### *Annex 4, behorend bij artikel 50* 
+
+Loadindex 
+
+| LI  | Max. last  | LI  | Max. last  | LI  | Max. Last  | LI  | Max. last  |--- | (kg)  |--- | (kg)  |--- | (kg)  |--- | (kg)  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 0  | 45  | 51  | 195  | 101  | 825  | 151  | 3450  |
+| 1  | 46,2  | 52  | 200  | 102  | 850  | 152  | 3550  |
+| 2  | 47,5  | 53  | 206  | 103  | 875  | 153  | 3650  |
+| 3  | 48,7  | 54  | 212  | 104  | 900  | 154  | 3750  |
+| 4  | 50  | 55  | 218  | 105  | 925  | 155  | 3875  |
+| 5  | 51,5  | 56  | 224  | 106  | 950  | 156  | 4000  |
+| 6  | 53  | 57  | 230  | 107  | 975  | 157  | 4125  |
+| 7  | 54,5  | 58  | 236  | 108  | 1000  | 158  | 4250  |
+| 8  | 56  | 59  | 240  | 109  | 1030  | 159  | 4375  |
+| 9  | 58  | 60  | 250  | 110  | 1060  | 160  | 4500  |
+| 10  | 60  | 61  | 257  | 111  | 1090  | 161  | 4625  |
+| 11  | 61,5  | 62  | 265  | 112  | 1120  | 162  | 4750  |
+| 12  | 63  | 63  | 272  | 113  | 1150  | 163  | 4875  |
+| 13  | 65  | 64  | 280  | 114  | 1180  | 164  | 5000  |
+| 14  | 67  | 65  | 290  | 115  | 1215  | 165  | 5150  |
+| 15  | 69  | 66  | 300  | 116  | 1250  | 166  | 5300  |
+| 16  | 71  | 67  | 307  | 117  | 1285  | 167  | 5450  |
+| 17  | 73  | 68  | 315  | 118  | 1320  | 168  | 5600  |
+| 18  | 75  | 69  | 325  | 119  | 1360  | 169  | 5800  |
+| 19  | 77,5  | 70  | 335  | 120  | 1400  | 170  | 6000  |
+| 20  | 80  | 71  | 345  | 121  | 1450  | 171  | 6150  |
+| 21  | 82,5  | 72  | 355  | 122  | 1500  | 172  | 6300  |
+| 22  | 85  | 73  | 365  | 123  | 1550  | 173  | 6500  |
+| 23  | 87,5  | 74  | 375  | 124  | 1600  | 174  | 6700  |
+| 24  | 90  | 75  | 387  | 125  | 1650  | 175  | 6900  |
+| 25  | 92,5  | 76  | 400  | 126  | 1700  | 176  | 7100  |
+| 26  | 95  | 77  | 412  | 127  | 1750  | 177  | 7300  |
+| 27  | 97,5  | 78  | 425  | 128  | 1800  | 178  | 7500  |
+| 28  | 100  | 79  | 437  | 129  | 1850  | 179  | 7750  |
+| 29  | 103  | 80  | 450  | 130  | 1900  | 180  | 8000  |
+| 30  | 106  | 81  | 462  | 131  | 1950  | 181  | 8250  |
+| 31  | 109  | 82  | 475  | 132  | 2000  | 182  | 8500  |
+| 32  | 112  | 83  | 487  | 133  | 2060  | 183  | 8750  |
+| 33  | 115  | 84  | 500  | 134  | 2120  | 184  | 9000  |
+| 34  | 118  | 85  | 515  | 135  | 2180  | 185  | 9250  |
+| 35  | 121  | 86  | 530  | 136  | 2240  | 186  | 9500  |
+| 36  | 125  | 87  | 545  | 137  | 2300  | 187  | 9750  |
+| 37  | 128  | 88  | 560  | 138  | 2360  | 188  | 10000  |
+| 38  | 132  | 89  | 580  | 139  | 2430  | 189  | 10300  |
+| 39  | 136  | 90  | 600  | 140  | 2500  | 190  | 10600  |
+| 40  | 140  | 91  | 615  | 141  | 2575  | 191  | 10900  |
+| 41  | 145  | 92  | 630  | 142  | 2650  | 192  | 11200  |
+| 42  | 150  | 93  | 650  | 143  | 2725  | 193  | 11500  |
+| 43  | 155  | 94  | 670  | 144  | 2800  | 194  | 11800  |
+| 44  | 160  | 95  | 690  | 145  | 2900  | 195  | 12150  |
+| 45  | 165  | 96  | 710  | 146  | 3000  | 196  | 12500  |
+| 46  | 170  | 97  | 730  | 147  | 3075  | 197  | 12850  |
+| 47  | 175  | 98  | 750  | 148  | 3150  | 198  | 13200  |
+| 48  | 180  | 99  | 775  | 149  | 3250  | 199  | 13600  |
+| 49  | 185  | 100  | 800  | 150  | 3350  | 200  | 14000  |
+
+#### *Annex 5, behorend bij artikel 50* 
+
+Variatie in aslasten 
+
+|--- | Variatie in aslast (%)  | Snelheid (km/uur)  | Alle loadindexen  | Loadindexen<sup>1</sup>   ≥ 122  | Loadindexen<sup>1</sup>   ≤ 121  |--- | Snelheidssymbool  | Snelheidssymbool  | Snelheidssymbool  |--- | F  | G  | J  | K  | L  | M  | L  | M  | N  | P<sup>2</sup>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 0  | + 150  | + 150  | + 150  | + 150  | + 150  | + 150  | + 110  | + 110  | + 110  | + 110  |
+| 5  | + 110  | + 110  | + 110  | + 110  | + 110  | + 110  | + 90  | + 90  | + 90  | + 90  |
+| 10  | + 80  | + 80  | + 80  | + 80  | + 80  | + 80  | + 75  | + 75  | + 75  | + 75  |
+| 15  | + 65  | + 65  | + 65  | + 65  | + 65  | + 65  | + 60  | + 60  | + 60  | + 60  |
+| 20  | + 50  | + 50  | + 50  | + 50  | + 50  | + 50  | + 50  | + 50  | + 50  | + 50  |
+| 25  | + 35  | + 35  | + 35  | + 35  | + 35  | + 35  | + 42  | + 42  | + 42  | + 42  |
+| 30  | + 25  | + 25  | + 25  | + 25  | + 25  | + 25  | + 35  | + 35  | + 35  | + 35  |
+| 35  | + 19  | + 19  | + 19  | + 19  | + 19  | + 19  | + 29  | + 29  | + 29  | + 29  |
+| 40  | + 15  | + 15  | + 15  | + 15  | + 15  | + 15  | + 25  | + 25  | + 25  | + 25  |
+| 45  | + 13  | + 13  | + 13  | + 13  | + 13  | + 13  | + 22  | + 22  | + 22  | + 22  |
+| 50  | + 12  | + 12  | + 12  | + 12  | + 12  | + 12  | + 20  | + 20  | + 20  | + 20  |
+| 55  | + 11  | + 11  | + 11  | + 11  | + 11  | + 11  | + 17,5  | + 17,5  | + 17,5  | + 17,5  |
+| 60  | + 10  | + 10  | + 10  | + 10  | + 10  | + 10  | + 15,0  | + 15,0  | + 15,0  | + 15,0  |
+| 65  | + 7,5  | + 8,5  | + 8,5  | + 8,5  | + 8,5  | + 8,5  | + 13,5  | + 13,5  | + 13,5  | + 13,5  |
+| 70  | + 5,0  | + 7,0  | + 7,0  | + 7,0  | + 7,0  | + 7,0  | + 12,5  | + 12,5  | + 12,5  | + 12,5  |
+| 75  | + 2,5  | + 5,5  | + 5,5  | + 5,5  | + 5,5  | + 5,5  | + 11,0  | + 11,0  | + 11,0  | + 11 0  |
+| 80  | 0  | + 4,0  | + 4,0  | + 4,0  | + 4,0  | + 4,0  | + 10,0  | + 10,0  | + 10,0  | + 10,0  |
+| 85  | – 3  | + 2,0  | + 3,0  | + 3,0  | + 3,0  | + 3,0  | + 8,5  | + 8,5  | + 8,5  | + 8,5  |
+| 90  | – 6  | 0  | + 2,0  | + 2,0  | + 2,0  | + 2,0  | + 7,5  | + 7,5  | + 7,5  | + 7,5  |
+| 95  | – 10  | – 2,5  | + 1,0  | + 1,0  | + 1,0  | + 1,0  | + 6,5  | + 6,5  | + 6,5  | + 6,5  |
+| 100  | – 15  | – 5  | 0  | 0  | 0  | 0  | + 5,0  | + 5,0  | + 5,0  | + 5,0  |
+| 105  | --- | – 8  | – 2  | 0  | 0  | 0  | + 3,75  | + 3,75  | + 3,75  | + 3,75  |
+| 110  | --- | – 13  | – 4  | 0  | 0  | 0  | + 2,5  | + 2,5  | + 2,5  | + 2,5  |
+| 115  | --- | --- | – 7  | – 3  | 0  | 0  | + 1,25  | + 1,25  | + 1,25  | + 1,25  |
+| 120  | --- | --- | – 12  | – 7  | 0  | 0  | 0  | 0  | 0  | 0  |
+| 125  | --- | --- | --- | --- | --- | 0  | – 2,5  | 0  | 0  | 0  |
+| 130  | --- | --- | --- | --- | --- | 0  | – 5  | 0  | 0  | 0  |
+| 135  | --- | --- | --- | --- | --- | --- | – 7,5  | – 2,5  | 0  | 0  |
+| 140  | --- | --- | --- | --- | --- | --- | – 10  | – 5  | 0  | 0  |
+| 145  | --- | --- | --- | --- | --- | --- | --- | – 7,5  | – 2,5  | 0  |
+| 150  | --- | --- | --- | --- | --- | --- | --- | – 10  | – 5  | 0  |
+| 155  | --- | --- | --- | --- | --- | --- | --- | --- | – 7,5  | – 2,5  |
+| 160  | --- | --- | --- | --- | --- | --- | --- | --- | – 10  | – 5  |
+
+<sup>1</sup> De load indexen hebben betrekking op enkel-gemonteerde banden. De aslast in dubbele montage bedraagt twee maal de aslast in enkele montage. <sup>2</sup> Bij snelheidssymbolen hoger dan ‘P’ mag voor de waarde van de variatie in aslast, de waarde worden gehanteerd die onder ‘P’ is aangegeven.
+
 ### Bijlage IX 
 
 ####, behorende bij hoofdstuk 6, artikel 6.3, tweede lid , en bijlage IV , artikelen 1, tweede lid, en artikel 2, tweede lid
@@ -14257,6 +17031,937 @@ Figuur 5.
 
 2. De schokdempers mogen tijdens de beproeving niet warmer worden dan volgens de schokdemperfabrikant toelaatbaar is. Zo nodig worden de schokdempers gekoeld of wordt de beproeving intermitterend uitgevoerd. Indien het voertuig met verschillende schokdempers kan worden uitgerust, wordt beproefd in combinatie met de schokdempers die de grootste schokdemperkrachten uitoefenen.   
 
+### Bijlage X 
+
+####, behorende bij artikel 6.3
+
+#### *Wijziging van de motorbrandstof van een voertuig* 
+
+### Hoofdstuk  0  
+
+#### *Algemeen* 
+
+### Artikel  1.0  
+
+In deze bijlage wordt verstaan onder: 
+
+*VN/ECE-reglement 67:* VN/ECE-reglement 67 als bedoeld in bijlage IV, deel 2, van richtlijn 2007/46/EG;  
+
+*VN/ECE-reglement 110:* VN/ECE-reglement 110 als bedoeld in bijlage IV, deel 2, van richtlijn 2007/46/EG;  
+
+*VN/ECE-reglement 115:* VN/ECE-reglement 115 als bedoeld in bijlage VA bij deze regeling.   
+
+### Hoofdstuk  1  
+
+#### *Wijziging van de motorbrandstof van een voertuig in een al dan niet tot vloeistof verdicht gas* 
+
+### Afdeling  1  
+
+#### *Eisen LPG* 
+
+### Artikel  1.1  
+
+Bij wijziging van de brandstofsoort in LPG van een motorvoertuig, als bedoeld in artikel 6.3, tweede lid, van deze regeling, moet het brandstofsysteem voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren of voldoen aan en zijn aangebracht overeenkomstig VN/ECE-reglement 115.  
+
+|--- | Eisen  | Wijze van keuren  |
+|:---|:---|:---|
+| --- |  *§ 0. Algemeen*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.2*   | --- |
+| --- | De in het voertuig geïnstalleerde LPG-installatie moet zodanig functioneren dat de maximale bedrijfsdruk waarvoor deze is ontworpen en goedgekeurd, niet kan worden overschreden.  | –  |
+| --- | --- | --- |
+| --- |  *Artikel 1.3*   | --- |
+| 1.  | De volgende LPG-onderdelen moeten voldoen aan het bepaalde in VN/ECE-reglement 67:  | Visuele controle van het ECE goedkeurmerk.  |
+| --- | a. de LPG-tank;  | --- |
+| --- | b. de 80%-vulklep voorzien van terugslagklep;  | --- |
+| --- | c. de niveaumeter;  | --- |
+| --- | d. de veerveiligheid;  | --- |
+| --- | e. de op afstand bediende afnamekraan met doorstroombegrenzer;  | --- |
+| --- | f. de gasdichte behuizing;  | --- |
+| --- | g. de drukregelaar en verdamper, eventueel gecombineerd;  | --- |
+| --- | h. de op een afstand bediende gasafsluiter;  | --- |
+| --- | i. de flexibele slang die wordt toegepast in een gedeelte waar de druk hoger is dan 0,2 bar;  | --- |
+| --- | j. de vuleenheid;  | --- |
+| --- | k. de terugslagklep;  | --- |
+| --- | l. de overdrukklep van de gasleiding;  | --- |
+| --- | m. de LPG-brandstofpomp;  | --- |
+| --- | n. de gasdoseringseenheid;  | --- |
+| --- | o. de gasinjector;  | --- |
+| --- | p. het LPG-filter, met uitzondering van het LPG-filter die in de LPG-tank wordt gemonteerd;  | --- |
+| --- | q. de druk- of temperatuursensor;  | --- |
+| --- | r. de overdrukinrichting(smeltprop);  | --- |
+| --- | s. de doorvoerisolator voor de voeding van de LPG-brandstofpomp of het vloeistofniveau;  | --- |
+| --- | t. de elektronische regeleenheid;  | --- |
+| --- | u. de servicekoppeling.  | --- |
+| 2.  | De tankappendages als bedoeld in het eerste lid, onderdeel b tot en met e, en de appendage, als bedoeld in het eerste lid, onderdeel s, kunnen met elkaar zijn gecombineerd tot een multiklep.  | De beoordeling van het gestelde vindt plaats aan de hand van de informatie vermeld op het goedkeuringscertificaat van de LPG-tank.  |
+| 3.  | De op afstand bediende gasafsluiter als bedoeld in het eerste lid, onderdeel h, kan zijn gecombineerd met de verdamper/drukregelaar, genoemd in het eerste lid onderdeel g.  | Bij twijfel vindt de beoordeling van het gestelde plaats aan de hand van de informatie vermeld op het goedkeuringscertificaat van de verdamper/drukregelaar.  |
+| 4.  | Indien de LPG-brandstofpomp in de LPG-tank is aangebracht moeten het identificatiemerk van de LPG-brandstofpomp en de aanduiding ‘PUMP INSIDE’ op de identificatieplaat van de LPG-tank zijn ingeslagen.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.4*   | --- |
+| --- | De voor de installatie gebruikte materialen moeten geschikt zijn voor LPG.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.5*   | --- |
+| --- | Alle onderdelen van het systeem moeten op de juiste wijze worden vastgezet.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.6*   | --- |
+| --- | De LPG-installatie mag geen lekkage vertonen.  | Visuele of auditieve controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt, met behulp van een middel dat lekkage aantoonbaar maakt, waarbij het contact moet zijn ingeschakeld.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.7*   | --- |
+| --- | De LPG-installatie moet zodanig worden geplaatst dat de best mogelijke bescherming wordt geboden tegen schade, zoals schade door bewegende voertuigonderdelen, botsingen, steenslag of als gevolg van het laden of lossen van het voertuig of het verschuiven van de lading.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.8*   | --- |
+| --- | Alle LPG-onderdelen vermeld in artikel 1.3, eerste lid, moeten zodanig zijn aangebracht dat ze controleerbaar zijn en dat de identificatiemerken leesbaar zijn, met uitzondering van de controle van de LPG-brandstofpomp indien deze in de LPG-tank is aangebracht. In dit geval moeten het identificatiemerk van de LPG-brandstofpomp en de aanduiding ‘PUMP INSIDE’ op de identificatieplaat van de LPG-tank zijn ingeslagen.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.9*   | --- |
+| 1.  | Er mogen geen andere apparaten op de LPG-installatie worden aangesloten dan strikt noodzakelijk voor het goed functioneren van de motor van het voertuig.  | Lid 1 en 2: visuele controle.  |
+| 2.  | In afwijking van het bepaalde in het eerste lid mogen voertuigen van de voertuigclassificaties M<sub>1</sub> met een toegestane maximummassa van meer dan 3.500 kg, M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> en N<sub>3</sub> worden uitgerust met een verwarmingssysteem voor de passagiersruimte dat is aangesloten op de LPG-installatie.  | --- |
+| 3.  | Het verwarmingssysteem als bedoeld in het tweede lid is toegestaan indien dit verwarmingssysteem volgens de Dienst Wegverkeer voldoende is beschermd en de voorgeschreven werking van de normale LPG-installatie niet wordt beïnvloed.  | Controle van de bijgevoegde verklaring.  |
+| 4.  | In afwijking van het bepaalde in het eerste lid mag een voertuig dat is voorzien van een motor die uitsluitend gevoed wordt door LPG worden uitgerust met een servicekoppeling in de LPG-installatie.  | Lid 4 en 5: visuele controle.  |
+| 5.  | De servicekoppeling moet voldoen aan de volgende voorwaarden:  | --- |
+| --- | a. de elektronische controle-eenheid van het motorvoertuig mag geen instelling hebben voor het functioneren van de motor in noodsituaties;  | --- |
+| --- | b. de servicekoppeling moet adequaat zijn beschermd;  | --- |
+| --- | c. de normale werking van het oorspronkelijke LPG-systeem mag niet worden aangetast, en  | --- |
+| --- | d. de servicekoppeling moet gecombineerd zijn met een separate gasbestendige terugslagklep waardoor uitsluitend de motor wordt gevoed.  | --- |
+| 6.  | In de nabijheid van de servicekoppeling moet het volgende herkenningsteken zijn aangebracht.  Model herkenningsteken aanwezigheid service aansluiting:  | Visuele controle, bij twijfel meten met een geschikt meetmiddel.  |
+| --- | --- | --- |
+| --- | Het herkenningsteken moet bestaan uit een weersbestendige sticker. De tekst ‘FOR SERVICE PURPOSES ONLY’ moet gecentreerd staan in het midden van de sticker. De kleur en afmetingen moeten zijn:  | --- |
+| --- | --- | --- |
+| --- | Kleur:  | --- | --- |
+| --- | achtergrond:  | rood  | --- |
+| --- | letters:  | wit  | --- |
+| --- | Afmetingen:  | --- |
+| --- | hoogte letters:  | ten minste 5 mm  | --- |
+| --- | dikte letters:  | ten minste 1 mm  | --- |
+| --- | Breedte sticker:  | 70–90 mm  | --- |
+| --- | Hoogte sticker:  | 20–30mm  | --- |
+| --- | --- | --- |
+| --- |  *§ 1. Herkenning van voertuigen van de voertuigclassificatie M<sub>2</sub> * *en M<sub>3</sub> * *die voorzien zijn van een LPG-installatie.*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.10*   | --- |
+| 1.  | Voertuigen van de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub>, die zijn voorzien van een LPG-installatie moeten zijn voorzien van het volgende herkenningsteken:  | Visuele controle, bij twijfel meten met een geschikt meetmiddel.  |
+| --- | --- | --- |
+| --- | Het herkenningsteken moet bestaan uit een sticker die weersbestendig is en de hierboven aangegeven parallelvormen weergeeft.  | --- |
+| --- | De aanduiding ‘LPG’ moet onuitwisbaar en duidelijk leesbaar in het midden van de sticker zijn aangebracht.  | --- |
+| --- | De kleur en afmetingen moeten zijn:  | --- |
+| --- | Kleur  | --- |
+| --- | achtergrond:  | groen  | --- |
+| --- | rand:  | Wit  | --- |
+| --- | letters:  | Wit  | --- |
+| --- | Afmetingen:  | --- |
+| --- | breedte rand:  | 4–6 mm  | --- |
+| --- | hoogte letters:  | ten minste 25 mm  | --- |
+| --- | dikte letters:  | ten minste 4 mm  | --- |
+| --- | Breedte sticker:  | 110–150 mm  | --- |
+| --- | Hoogte sticker:  | 80–110 mm  | --- |
+| 2.  | Het herkenningsteken moet aan de voorzijde, achterzijde en op de buitenzijde van minimaal één deur bevestigd zijn.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *§ 2. Overige voorschriften*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.11*   | --- |
+| --- | Er mogen geen onderdelen van de LPG-installatie, waaronder beschermende materialen die deel uitmaken van dergelijke onderdelen, uitsteken buiten de omtrek van het voertuig, met uitzondering van de vuleenheid indien deze niet verder uitsteekt dan 10 mm buiten de nominale omtrek van de carrosseriepanelen.  | Visuele controle, bij twijfel meten met een geschikt meetmiddel.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.12*   | --- |
+| --- | In geen enkele dwarsdoorsnede van het voertuig mag enig onderdeel van de LPG-installatie of daarvan deel uitmakend beschermingsmateriaal met uitzondering van de LPG-tank onder de onderzijde van het voertuig uitsteken tenzij een ander deel van het voertuig zich binnen een straal van 150 mm nog lager bevindt.  | Visuele controle, bij twijfel meten met een geschikt meetmiddel. De gestelde eis wordt beoordeeld met het voertuig in onbeladen toestand met behulp van een rei die horizontaal tegen de onderzijde van het voertuig wordt gehouden, waarbij de wielen niet en de LPG-tank wel als deel van de voertuigconstructie worden aangemerkt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.13*   | --- |
+| --- | Er mogen zich geen onderdelen van de LPG-installatie binnen 100 mm van de uitlaat of een soortgelijke warmtebron bevinden, tenzij dergelijke onderdelen voldoende tegen warmte zijn afgeschermd.  | Visuele controle, bij twijfel meten met een geschikt meetmiddel.  |
+| --- | --- | --- |
+| --- |  *§ 3. LPG-installatie*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.14*   | --- |
+| 1.  | Een LPG-installatie moet ten minste uit de volgende onderdelen bestaan:  | Lid 1en 2: visuele controle.  |
+| --- | a. een LPG-tank:  | --- |
+| --- | b. een 80%-vulklep voorzien van terugslagklep;  | --- |
+| --- | c. een niveaumeter;  | --- |
+| --- | d. een veerveiligheid;  | --- |
+| --- | e. een op afstand bediende afnamekraan met doorstroombegrenzer;  | --- |
+| --- | f. een drukregelaar en verdamper, eventueel gecombineerd;  | --- |
+| --- | g. een op afstand bediende gasafsluiter;  | --- |
+| --- | h. een vuleenheid;  | --- |
+| --- | i. gasleidingen en -stangen;  | --- |
+| --- | j. gas voerende verbindingen tussen onderdelen van de LPG-installatie;  | --- |
+| --- | k. een gasinjector of -mengstuk;  | --- |
+| --- | l. een elektronische regeleenheid indien het voertuig na 31 december 2001 in gebruik is genomen;  | --- |
+| --- | m. een overdrukinrichting (smeltprop).  | --- |
+| 2.  | De LPG-installatie mag eveneens uit de volgende onderdelen bestaan:  | --- |
+| --- | a. een gasdichte behuizing, waarmee de op de tank gemonteerde appendages worden bedekt;  | --- |
+| --- | b. een terugslagklep;  | --- |
+| --- | c. een overdrukklep van de gasleiding;  | --- |
+| --- | d. een gasdoseringseenheid;  | --- |
+| --- | e. een LPG-filter;  | --- |
+| --- | f. een druk- of temperatuursensor;  | --- |
+| --- | g. een LPG-brandstofpomp;  | --- |
+| --- | h. de doorvoerisolator voor de voeding van de LPG-brandstofpomp of ten behoeve van de vloeistofniveaumeter;  | --- |
+| --- | i. een servicekoppeling;  | --- |
+| --- | j. een brandstofkeuzeschakelaar en elektrisch systeem;  | --- |
+| --- | k. een brandstofrail.  | --- |
+| 3.  | De tankappendages als bedoeld in het eerste lid, onderdeel b tot en met e, en de appendage, als bedoeld in het tweede lid, onderdeel h, kunnen met elkaar zijn gecombineerd tot een multiklep.  | De beoordeling van het gestelde vindt plaats aan de hand van de informatie vermeld op het goedkeuringscertificaat van de LPG-tank.  |
+| 4.  | De op afstand bediende gasafsluiter, genoemd in het eerste lid, onderdeel g kan zijn gecombineerd met de verdamper/drukregelaar, als bedoeld in het eerste lid, onderdeel f.  | Bij twijfel vindt de beoordeling van het gestelde plaats aan de hand van de informatie vermeld op het goedkeuringscertificaat van de verdamper/drukregelaar.  |
+| 5.  | Aanvullende onderdelen die nodig zijn voor de goede werking van de motor mogen worden geïnstalleerd in dat deel van de LPG-installatie waarin de druk lager is dan 20 kPa.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *§ 5. Installatie van de brandstoftank*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.15*   | --- |
+| 1.  | De LPG-installatie moet vergezeld gaan van een verklaring met bijbehorende detailtekening door of namens de fabrikant van het motorvoertuig, indien er sprake is van één of meer van de volgende situaties:  | Lid 1 en 2: visuele controle aan de hand van de bijgeleverde verklaring waaruit moet blijken dat wordt voldaan aan het gestelde in het elfde lid.  |
+| --- | a. in de carrosseriebodem is een gat gemaakt, niet zijnde een gat in de bodemplaat van ten hoogste 150 bij 150 mm ten behoeve van een inspectieluikje dan wel doorvoergaten ten behoeve van leidingen en gaten voor de montage van de LPG-tank;  | --- |
+| --- | b.de carrosseriebodem is in ernstige mate vervormd waardoor de stijfheid en sterkte van de carrosserie nadelig is beïnvloed;  | --- |
+| --- | c. langs- of dwarsprofielen, dan wel versterkingsdelen van de mee- of zelfdragende carrosserie zijn verwijderd die de stijfheid en sterkte van de carrosserie beïnvloeden;  | --- |
+| --- | d. het motorvoertuig is voorzien van een lastafhankelijke remkrachtregelaar en de vering is gewijzigd om te kunnen voldoen aan het gestelde in het dertiende lid.  | --- |
+| 2.  | Indien de LPG-tank op het dak van het motorvoertuig wordt aangebracht moet een verklaring met bijbehorende detailtekening door of namens de fabrikant van het motorvoertuig worden overgelegd.  | --- |
+| 3.  | De beproevingsdatum van de LPG-tank mag niet verder terug zijn gelegen dan 10 jaar.  | Visuele controle.  |
+| 4.  | De LPG-tank mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 5.  | De LPG-tank mag geen deuken vertonen.  | Visuele controle.  |
+| 6.  | Indien de LPG-tank achter een zitplaats is aangebracht, moet in lengterichting van het motorvoertuig een vrije ruimte van ten minste 100 mm aanwezig zijn, die verdeeld mag zijn tussen de LPG-tank en de achterwand van het voertuig en tussen de LPG-tank en de zitplaats, waarbij de kortste afstand bepalend is.  | Visuele controle, bij twijfel meten met een geschikt meetmiddel. De vrije ruimte moet zodanig worden gemeten dat de LPG-tank, op denkbeeldige wijze, over een afstand van ten minste 100 mm in lengterichting van het voertuig kan worden verplaatst.  |
+| 7.  | De tank moet permanent in het voertuig zijn gemonteerd en mag niet in de motorruimte zijn geplaatst.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 8.  | De brandstoftank moet in de juiste positie worden geïnstalleerd overeenkomstig de aanwijzingen van de fabrikant van de LPG-tank.  | Gestelde eis wordt beoordeeld aan de hand van documentatie van de fabrikant van de LPG-tank, tenzij de tank een merkteken draagt waaruit blijkt wat de juiste stand is.  |
+| 9.  | De brandstoftank moet zodanig zijn gemonteerd dat er geen metaal met metaal in contact is, met uitzondering van de permanente bevestigingspunten van de tank.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 10.  | De LPG-tank moet hetzij van permanente bevestigingspunten voor de bevestiging aan het voertuig zijn voorzien, hetzij aan het voertuig kunnen worden bevestigd door middel van een tankhouder en tankbanden.  | Visuele controle.  |
+| 11.  | De LPG-tank(s) moet zodanig zijn gemonteerd en bevestigd dat bij volle tank(s) de volgende versnellingen kunnen worden geabsorbeerd (zonder dat schade wordt veroorzaakt):  | Visuele controle aan de hand van de overgelegde documentatie.  |
+| --- | a. voertuigen van de voertuigclassificaties M<sub>1</sub> en N<sub>1</sub>:  | --- |
+| --- | 1° 20 g in de rijrichting;  | --- |
+| --- | 2° 8 g in horizontale richting loodrecht op de rijrichting;  | --- |
+| --- | b. voertuigen van de voertuigclassificaties M<sub>2</sub> en N<sub>2</sub>:  | --- |
+| --- | 1° 10 g in de rijrichting;  | --- |
+| --- | 2° 5 g in horizontale richting loodrecht op de rijrichting;  | --- |
+| --- | c. voertuigen van de categorieën M<sub>3</sub> en N<sub>3</sub>:  | --- |
+| --- | 1° 6,6 g in de rijrichting;  | --- |
+| --- | 2° 5 g in horizontale richting loodrecht op de rijrichting.  | --- |
+| --- | Er mag in plaats van een praktijktest een berekeningsmethode worden toegepast indien de gelijkwaardigheid daarvan tot genoegen van de Dienst Wegverkeer wordt aangetoond door de aanvrager van de goedkeuring.  | --- |
+| 12.  | De bevestiging zoals vermeld in het elfde lid wordt geacht te voldoen in het geval de LPG-tank op een andere plaats dan op het dak van het motorvoertuig is aangebracht en indien de bevestiging is uitgevoerd volgens onderstaande voorschriften:  | Lid 12 en 13: visuele controle, bij twijfel meten met een geschikt meetmiddel.  |
+| --- | a. bestaat uit ten minste vier bouten, tenzij uit een door de Dienst Wegverkeer goedgekeurde berekening blijkt dat wordt voldaan aan het elfde lid;  | --- |
+| --- | b. is voorzien van onderlegringen of -platen, in het geval het plaatwerk ter plaatse enkelvoudig is uitgevoerd;  | --- |
+| --- | c. deze bouten en onderlegringen of -platen, uitgaande van materiaalsoort St 37 en bevestigingsbouten van klasse 8.8 ten minste voldoen aan de hieronder in tabel 1 aangegeven afmetingen, en  | --- |
+| --- | d. ter plaatse van de bevestiging geen samendrukbare stoffen aanwezig zijn, tenzij de bevestiging voldoet aan het bepaalde in het elfde lid.  | --- |
+| --- | --- | --- |
+| --- | Tabel 1.  | --- |
+| --- | tankinhoud meer dan – tot en met(in liter)  | afmetingen onderlegringen of onderlegplaten (in mm)  | boutdiameter (in mm)  | --- |
+| --- | ..–100  | rond 30 × 1,5  rond 25 × 2,5  | 8  | --- |
+| --- | 100–150  | rond 50 × 2  rond 30 × 3  | 10  | --- |
+| --- | 150–..  | constructie moet voldoen aan het bepaalde in het elfde lid.  | --- |
+| 13.  | In rijklare toestand van het voertuig mag de LPG-tank zich niet minder dan 200 mm boven het wegdek bevinden.  | --- |
+| --- | Tenzij de LPG-tank geplaatst is op de originele plaats van de benzinetank en de hoogte boven het wegdek minimaal gelijk is aan de hoogte van de benzinetank boven het wegdek.  | --- |
+| 14.  | De bepalingen van het dertiende lid zijn niet van toepassing indien de tank voldoende is beschermd aan de voor- en zijkanten en geen deel van de tank lager is geplaatst dan deze beschermende constructie.  | De gestelde eis wordt beoordeeld met het voertuig in onbeladen toestand met behulp van een rei die horizontaal tegen de onderzijde van het voertuig wordt gehouden, waarbij de wielen niet en de LPG-tank wel als deel van de voertuigconstructie worden aangemerkt.  |
+| 15.  | De LPG-tank mag niet door middel van kabels zijn aangebracht.  | Visuele controle.  |
+| 16.  | De LPG-tank moet met ten minste twee tankbanden op het tankframe zijn bevestigd. Indien de tankbanden tevens het gewicht van de LPG-tank dragen, moeten ten minste drie tankbanden zijn aangebracht, tenzij de LPG-tank door middel van de vaste bevestigingspunten is bevestigd.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 17.  | De tankbanden moeten voorkomen dat de LPG-tank kan gaan schuiven, draaien of losraken.  | Leden 17 tot en met 19: visuele controle.  |
+| 18.  | Tussen de LPG-tank en de tankbanden moet beschermend materiaal, zoals vilt, leer of kunststof, zijn aangebracht.  | --- |
+| 19.  | De tankbanden moeten de tankomtrek geheel of nagenoeg geheel omsluiten, waarbij het tankframe een gedeelte van de omsluiting vormt.  | --- |
+| 20.  | De LPG-tank die door middel van een tankframe en tankbanden aan het motorvoertuig is bevestigd, mag zich nagenoeg niet verplaatsen wanneer de tank wordt onderworpen aan de acceleraties, genoemd in het elfde lid.  | Indien wordt voldaan aan het gestelde in het twaalfde en eenentwintigste lid of de aanvrager overgelegt een door de Dienst Wegverkeer goedgekeurde berekening of beproeving wordt geacht aan deze eis te zijn voldaan.  |
+| 21.  | In het geval de LPG-tank op een andere plaats dan op het dak van het voertuig is aangebracht, wordt geacht aan het bepaalde in het elfde lid te voldoen indien:  a. de tankbanden, uitgaande van materiaalsoort St 37, en de bevestigingsbouten, uitgaande van klasse 8.8, ten minste voldoen aan de in tabel 2 aangegeven afmetingen, en  | Visuele controle; in geval van twijfel te meten met een geschikt meetmiddel.  Voor de toepassing van het bepaalde in onderdeel b, wordt onder de LPG-tank in lengterichting verstaan een tank waarvan de hartlijn is gelegen tussen 0° en 30° ten opzichte van het verticale mediaanlangsvlak van het motorvoertuig.  |
+| --- | b. de LPG-tank in lengterichting van het motorvoertuig is aangebracht en aan de voorzijde van het tankframe een dwarsverbinding is aangebracht die:  | --- |
+| --- | 1°. ten minste dezelfde dikte heeft als het tankframe;  | --- |
+| --- | 2°. ten minste 30 mm hoog is waarbij de bovenzijde van de dwarsverbinding zich ten minste 30 mm boven de onderzijde van de tank moet bevinden, en  | --- |
+| --- | 3°. zich zo dicht mogelijk dan wel binnen de bolling van de tank bevindt.  | --- |
+| --- | --- | --- |
+| --- | Tabel 2.  | --- |
+| --- | tankinhoud meer dan – tot en met (in liter)  | afmetingen van de tankbanden (in mm)  | boutdiameter (in mm)  | --- |
+| --- | ..–85  | 20 × 3  | 8  | --- |
+| --- | 29 × 1,5<sup>1</sup>   | 8  | --- |
+| --- | 85–100  | 30 × 3  | 10  | --- |
+| --- | 20 × 3<sup>2</sup>   | 8  | --- |
+| --- | 100–150  | 50 × 6  | 12  | --- |
+| --- | 50 × 3<sup>3</sup>   | 10  | --- |
+| --- | 150–...  | constructie moet voldoen aan het bepaalde in het elfde lid  | --- | --- |
+| --- |  <sup>1</sup> Een tankband met een afmeting van 29 × 1,5 mm moet zijn gemonteerd overeenkomstig de aanwijzingen van de fabrikant van de tankband.  | --- |
+| --- |  <sup>2</sup> In dit geval moet de LPG-tank met ten minste drie tankbanden zijn aangebracht.  | --- |
+| --- |  <sup>3</sup> In dit geval moet de LPG-tank met ten minste vier tankbanden zijn aangebracht.  | --- |
+| --- | --- | --- |
+| --- |  *§ 6. Overige voorschriften voor de LPG-tank*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.16 Terugslagklep*   | --- |
+| 1.  | Indien meerdere LPG-tanks met één enkele gasleiding zijn verbonden, moet elke tank zijn voorzien van een terugslagklep die stroomafwaarts van de op afstand bediende afnamekraan wordt gemonteerd en moet in de gasleiding stroomafwaarts van de terugslagklep een overdrukklep worden gemonteerd. Stroomopwaarts van de terugslagklep(pen) moet een doeltreffend filtersysteem worden gemonteerd om verstopping van de terugslagklep(pen) te voorkomen.  | Gestelde eis wordt beoordeeld aan de hand van documentatie van de fabrikant van de betreffende onderdelen.  |
+| 2.  | Een terugslagklep en overdrukklep in de gasleiding zijn niet nodig als de terugstroomdruk van de op afstand bediende afnamekraan in gesloten toestand meer dan 500 kPa bedraagt. In dat geval dienen de op afstand bediende afnamekranen zodanig te zijn ontworpen dat niet meer dan één op afstand bediende klep tegelijk in geopende toestand kan verkeren. De overlap bij het omschakelen mag niet meer dan twee minuten bedragen.  | Gestelde eis wordt beoordeeld aan de hand van documentatie van de fabrikant van de op afstand bediende afnamekraan.  |
+| --- | --- | --- |
+| --- |  *§ 7. Op de tank gemonteerde appendages*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.17 Tankconfiguratie*   | --- |
+| --- | De tankappendages en de overdrukvoorziening zijn voor de LPG-tank specifiek gedefinieerd in een bijlage bij het afgegeven ECE-goedkeuringscertificaat van de LPG-tank.  | Visuele controle aan de hand van het bij de tank behorend ECE-goedkeuringscertificaat.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.18 Op afstand bediende afnamekraan met doorstroombegrenzer*   | --- |
+| 1.  | De op afstand bediende afnamekraan met doorstroombegrenzer moet zonder extra koppelstukken direct op de LPG-tank worden gemonteerd.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 2.  | De op afstand bediende afnamekraan met doorstroombegrenzer moet zodanig zijn geschakeld dat deze automatisch wordt gesloten wanneer de motor niet loopt, ongeacht de stand van de contactsleutel, en moet gesloten blijven zolang de motor niet loopt.  | Controle door het contact in te schakelen en te controleren of de spoel wordt bekrachtigd. Vervolgens wordt de motor gestart waarna de handrem wordt aangetrokken en de hoogste versnelling wordt ingeschakeld. Met behulp van de koppeling de motor laten afslaan waarna de bekrachtiging moet wegvallen. Indien een controle op deze wijze niet mogelijk is, wordt de motor gestart en nadat is overgeschakeld op LPG wordt gecontroleerd of de spoel is bekrachtigd waarna met het contact uitgeschakeld wordt gecontroleerd of de bekrachtiging is weggevallen.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.19 Veerveiligheid in de tank*   | --- |
+| --- | De veerveiligheid moet zodanig in de LPG-tank worden gemonteerd dat deze in verbinding staat met de gasruimte van de tank en dat het gas naar de omgeving kan worden afgevoerd. De veerveiligheid met veerbekrachtiging mag het gas afvoeren naar de gasdichte behuizing indien deze aan de eisen van artikel 1.23 voldoet.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.20 Automatische begrenzer van het vulniveau*   | --- |
+| --- | De automatische begrenzer van het vulniveau, voorzien van een terugslagklep, moet geschikt zijn voor de LPG-tank waarin deze wordt aangebracht, en in de juiste positie te worden gemonteerd om te verhinderen dat de tank voor meer dan 80% wordt gevuld.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.21 Niveaumeter*   | --- |
+| --- | De niveaumeter moet geschikt zijn voor de LPG-tank waarin deze is aangebracht en moet in de juiste positie zijn gemonteerd.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.22 Overdrukinrichting*   | --- |
+| --- | Op de LPG-tank(s) moet op zodanige wijze een overdrukinrichting worden gemonteerd dat het uitstroompunt uitkomt in de gasdichte behuizing, voor zover de aanwezigheid hiervan is voorgeschreven.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| --- | --- | --- |
+| --- |  *Artikel 1.23 Gasdichte behuizing op de tank*   | --- |
+| 1.  | Een gasdichte behuizing die voldoet aan de eisen van het tweede tot en met vijfde lid, moet over de op de tank gemonteerde appendages worden gemonteerd, tenzij de tank niet in een personenruimte of gesloten ruimte is gemonteerd en de appendages van de tank tegen vuil en water zijn beschermd.  | Leden 1 tot en met 3: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 2.  | De gasdichte behuizing moet in open verbinding met de buitenlucht staan, zo nodig via een verbindingsslang en een doorvoer.  | --- |
+| 3.  | De ontluchtingsopening van de gasdichte behuizing moet naar beneden gericht zijn op de plaats waar deze het voertuig verlaat.  De opening mag niet uitmonden in een wielkast of mag niet gericht zijn op de uitlaat of een andere warmtebron.  | --- |
+| 4.  | Een verbindingsslang en doorvoer in de bodem van de carrosserie van het motorvoertuig voor de ventilatie van de gasdichte behuizing moet een vrije opening hebben van minimaal 450 mm<sup>2</sup>. Indien een gasleiding, andere buis of elektrische leiding door de verbindingsslang en doorvoer loopt, moet de doorsnede van de vrije opening eveneens ten minste 450 mm<sup>2</sup> bedragen.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt, in geval van twijfel te meten met een geschikt meetmiddel.  Aan de eis voldaan indien de inwendige diameter 25 mm bedraagt met een tolerantie van + of – 0,3 mm en er geen leidingen door de verbindingsslang en de doorvoeren lopen.  |
+| 5.  | De gasdichte behuizing en de verbindingsslangen dienen bij een druk van 10 kPa en gesloten openingen lekdicht te zijn, geen permanente vervorming te vertonen en een maximale lekstroom van 100 cm<sup>3</sup>/uur te hebben.  | Aan deze eis wordt voldaan indien de gasdichte behuizing deugdelijk is bevestigd en geen zichtbare gebreken vertoont.  |
+| 6.  | De verbindingsslang moet op deugdelijke wijze worden bevestigd op de gasdichte behuizing en de doorvoer zodat een gasdichte verbinding wordt gevormd.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *§ 8. Gasleidingen en -slangen*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.24*   | --- |
+| 1.  | Gasleidingen moeten zijn vervaardigd van naadloos materiaal: koper, roestvast staal of staal met een corrosiewerende coating.  | Lid 1 en 2: visuele controle.  |
+| 2.  | Indien naadloos koper wordt gebruikt moet de gasleiding door een rubberen of plastic mantel worden beschermd.  | --- |
+| 3.  | Koperen gasleidingen moeten een buitendiameter van ten hoogste 12 mm en een wanddikte van ten minste 0,8 mm hebben, en stalen en roestvast stalen gasleidingen moeten een buitendiameter van ten hoogste 25 mm en een voor gas geschikte wanddikte hebben.  | Visuele controle, in geval van twijfel te meten met een geschikt meetmiddel.  |
+| 4.  | Niet-metalen gasleidingen zijn toegestaan mits zij aan de eisen van artikel 1.3 voldoen.  | Lid 4 en 5: de wijze van keuren van artikel 1.3 is van toepassing.  |
+| 5.  | In plaats van een gasleiding mag ook een gasslang worden gebruikt mits deze aan de eisen van artikel 1.3 voldoet.  | --- |
+| 6.  | De fabricagedatum van de flexibele slangen die worden toegepast in een gedeelte waar de druk hoger is dan 0,2 bar mag niet verder terug zijn gelegen dan 1 jaar.  | Leden 6 tot en met 9: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 7.  | Gasleidingen met uitzondering van niet-metalen gasleidingen dienen zodanig te worden bevestigd dat zij niet aan trillingen of spanningen blootstaan.  | --- |
+| 8.  | Gasslangen en niet-metalen gasleidingen dienen zodanig te worden bevestigd dat zij niet aan spanningen blootstaan.  | --- |
+| 9.  | Een gasleiding mag niet door middel van lassen of solderen dan wel met behulp van aluminium bevestigingsmiddelen zijn bevestigd.  | --- |
+| 10.  | De onderlinge afstand tussen de bevestigingspunten van een stalen gasleiding mag ten hoogste 0,60 m en van een koperen gasleiding of flexibele leiding of slang ten hoogste 0,40 m bedragen.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt, en door in geval van twijfel te meten met een geschikt meetmiddel.  |
+| 11.  | Op het bevestigingspunt moet de gasleiding van een bescherming worden voorzien.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 12.  | Een gasleiding of -slang mag over een lengte van ten hoogste 0,40 m door een kokerbalk worden geleid.  | Visuele controle zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt, en door in geval van twijfel te meten met een geschikt meetmiddel.  |
+| 13.  | Gasleidingen of -slangen mogen zich niet bij steunpunten voor de krik bevinden.  | Lid 13 en 14: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.   |
+| 14.  | Bij doorgangen dienen gasleidingen of -slangen, al dan niet met een beschermende mantel, van een bescherming te worden voorzien.  | --- |
+| --- | --- | --- |
+| --- |  *§ 9. Gasverbindingen tussen de onderdelen van de LPG-installatie*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.25*   | --- |
+| 1.  | Soldeer- of lasverbindingen alsmede snijringverbindingen zijn niet toegestaan.  | Leden 1 tot en met 7: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 2.  | Gasleidingen mogen alleen met elkaar worden verbonden door middel van koppelstukken die wat corrosie betreft gelijkwaardig zijn.  | --- |
+| 3.  | Roestvast stalen leidingen mogen alleen aan elkaar worden gekoppeld met behulp van roestvast stalen koppelingen.  | --- |
+| 4.  | Verdeelblokken moeten zijn vervaardigd van corrosiebestendig materiaal.  | --- |
+| 5.  | Gasleidingen dienen door middel van geschikte koppelingen met elkaar te worden verbonden, bijvoorbeeld tweedelige klemkoppelingen in stalen leidingen en koppelingen met tonnetjes met taps toelopende uiteinden aan beide zijden in koperen leidingen. Gasleidingen dienen te worden aangesloten met behulp van geschikte koppelingen. Onder geen beding mogen koppelstukken worden gebruikt waardoor de leidingen worden beschadigd. De barstdruk van de gemonteerde koppelingen moet ten minste even hoog liggen als die van de leiding zelf.  | --- |
+| 6.  | Het aantal verbindingen moet tot een minimum worden beperkt.  | --- |
+| 7.  | Alle verbindingen moeten zich op plaatsen bevinden die voor controle toegankelijk zijn.  | --- |
+| 8.  | De gasleidingen in een passagiersruimte of gesloten bagageruimte mogen niet langer zijn dan redelijkerwijs noodzakelijk is; aan deze eis is voldaan indien de gasleiding of -slang niet langer is dan de afstand van de LPG-tank tot de zijkant van het voertuig.  | Leden 8 tot en met 10: visuele controle.  |
+| 9.  | Door een passagiersruimte of gesloten bagageruimte mogen geen gasvoerende verbindingen lopen behalve:  | --- |
+| --- | a. de aansluitingen op de gasdichte behuizing, en  | --- |
+| --- | b. de aansluiting van de gasleiding of -slang op de vuleenheid, als deze aansluiting van een LPG-bestendige mantel is voorzien en als lekkend gas onmiddellijk naar de buitenlucht wordt afgevoerd.  | --- |
+| 10.  | De eisen van het achtste en negende lid gelden niet voor voertuigen met de voertuigclassificaties M<sub>2 </sub>en M<sub>3</sub> als de gasleidingen of -slangen en -aansluitingen van een LPG-bestendige mantel zijn voorzien en in directe verbinding met de buitenlucht staan. Het open uiteinde van de mantel of het kanaal moet zich op het laagste punt bevinden.  | --- |
+| --- | --- | --- |
+| --- |  *§ 10. Op afstand bediende gasafsluiter*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.26*   | --- |
+| 1.  | Een op afstand bediende gasafsluiter moet in de gasleiding tussen de LPG-tank en de drukregelaar/verdamper worden geïnstalleerd op zo kort mogelijke afstand van de drukregelaar/verdamper.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 2.  | De op afstand bediende gasafsluiter mag worden opgenomen in de drukregelaar/verdamper.  | Bij twijfel vindt de beoordeling van het gestelde plaats aan de hand van de informatie vermeld op het goedkeuringscertificaat van de verdamper/drukregelaar.  |
+| 3.  | In afwijking van het bepaalde in eerste lid mag, indien er een retoursysteem bestaat tussen drukregelaar en LPG-tank, de op afstand bediende gasafsluiter worden geïnstalleerd op een door de fabrikant van de LPG-installatie voorgeschreven plaats in de motorruimte.  | Visuele controle, bij twijfel fabrieksdocumentatie raadplegen.  |
+| 4.  | De op afstand bediende gasafsluiter moet zodanig worden geïnstalleerd dat de brandstoftoevoer wordt afgesloten wanneer de motor niet loopt of, indien het voertuig nog over een ander brandstofsysteem beschikt, wanneer de andere brandstof wordt geselecteerd.  Een vertraging van 2 seconde is toegestaan voor diagnostische doeleinden.  | Controle door het contact in te schakelen en te controleren of de spoel wordt bekrachtigd. Vervolgens wordt het contact uitgeschakeld en wordt gecontroleerd of de bekrachtiging wegvalt. Indien een controle op deze wijze niet mogelijk is, wordt de motor gestart en nadat is overgeschakeld op LPG gecontroleerd of de spoel is bekrachtigd waarna met het contact uitgeschakeld wordt gecontroleerd of de bekrachtiging is weggevallen.  |
+| --- | --- | --- |
+| --- |  *§ 11. Vuleenheid*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.27*   | --- |
+| 1.  | De vuleenheid moet tegen verdraaiing zijn geborgd en tegen vuil en water zijn beschermd.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 2.  | Wanneer de LPG-tank zich in de passagiersruimte of een gesloten (bagage)ruimte bevindt, moet de vuleenheid aan de buitenzijde van het voertuig zijn geplaatst.  | Visuele controle.  |
+| --- | --- | --- |
+| --- |  *§ 12. Brandstofkeuzeschakelaar en elektrische installatie*   | --- |
+| --- | --- | --- |
+| --- |  *Artikel 1.28*   | --- |
+| 1.  | De elektrische onderdelen van de LPG-installatie moeten tegen overbelasting zijn beschermd en in de voedingskabel moet ten minste één afzonderlijke zekering zijn aangebracht.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 2.  | De zekering moet op een bekende plaats worden gemonteerd waar deze zonder gereedschappen kan worden bereikt.  | Visuele controle.  |
+| 3.  | De elektrische voeding van gasvoerende onderdelen van de LPG-installatie mag niet door een gasleiding lopen.  | Leden 3 tot en met 5: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 4.  | Alle elektrische onderdelen die geïnstalleerd worden in een deel van de LPG-installatie waar de druk meer dan 20 kPa bedraagt, dienen zo te worden aangesloten en geïsoleerd dat er geen stroom door LPG bevattende onderdelen loopt.  | --- |
+| 5.  | Elektrische bedrading moeten afdoende tegen beschadiging worden beschermd.  | --- |
+| 6.  | Voertuigen met meer dan een brandstof-systeem moeten voorzien zijn van een brandstofkeuzeschakelaar, zodat te allen tijde niet meer dan een brandstof naar de motor wordt toegevoerd. Bij het schakelen is evenwel een korte overlap toegestaan.  | Controle door de motor te starten en vervolgens de schakelaar te bedienen.  |
+| 7.  | De elektrische verbindingen en onderdelen in de gasdichte behuizing moeten zo zijn vervaardigd dat er geen vonken kunnen ontstaan.  | Visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+
+### Afdeling  2  
+
+#### *Eisen CNG* 
+
+### Artikel  1.29  
+
+1. Het brandstofsysteem van motorvoertuigen die zijn voorzien van een motor die wordt gevoed door CNG, moet voldoen aan het bepaalde in VN/ECE-reglement 110.  
+
+2. Bij wijziging van de brandstofsoort van een motorvoertuig als bedoeld in artikel 6.3, tweede lid, van deze regeling in CNG, moet het brandstofsysteem, in afwijking van het bepaalde in het eerste lid, ten aanzien van de CNG-onderdelen voldoen aan het gestelde in paragraaf 2.1 en op de in paragraaf 2.2 voorgeschreven wijze zijn aangebracht, of voldoen aan en zijn aangebracht overeenkomstig VN/ECE-reglement 115.   
+
+### §  2.1  
+
+#### *Eisen toelating CNG-onderdelen* 
+
+### Artikel  1.30  
+
+1. De volgende CNG-onderdelen moeten voldoen aan het bepaalde in VN/ECE-reglement 110: 
+
+a. de CNG-tank;  
+
+b. de overdrukbeveiliging ten behoeve van de CNG-tank;  
+
+c. de automatische tankafsluiter;  
+
+d. de gasdichte behuizing;  
+
+e. de flexibele slang die wordt toegepast in een gedeelte waar de druk hoger is dan 0,2 bar;  
+
+f. de drukregelaar;  
+
+g. de automatische afsluitklep;  
+
+h. de vulaansluiting;  
+
+i. de terugslagklep;  
+
+j. de handafsluiter;  
+
+k. de gasregeleenheid welke functioneert bij een druk hoger dan 0,2 bar;  
+
+l. het inspuitstuk welke functioneert bij een druk hoger dan 0,2 bar;  
+
+m. de CNG-filtereenheid die wordt toegepast in een gedeelte waar de druk hoger is dan 0,2 bar;  
+
+n. de druk- of temperatuursensor;  
+
+o. de doorstroombegrenzer;  
+
+p. de veerveiligheid;  
+
+q. de elektronische controle-eenheid.    
+
+2. De CNG-onderdelen, bedoeld in het eerste lid, onderdelen b, c en j, mogen met elkaar zijn gecombineerd.   
+
+### Artikel  1.31  
+
+1. De beoordeling van het bepaalde in artikel 1.30, eerste lid, vindt plaats door middel van visuele controle.  
+
+2. De in artikel 1.30, tweede lid, gestelde eisen worden, in geval van twijfel, beoordeeld aan de hand van het goedkeuringscertificaat.   
+
+### §  2.2  
+
+#### *Inbouwvoorschriften* 
+
+### §  2.2.1  
+
+#### *Algemeen* 
+
+### Artikel  1.32  
+
+Een CNG-installatie moet ten minste zijn voorzien van de volgende onderdelen: 
+
+a. een CNG-tank;  
+
+b. een overdrukbeveiliging ten behoeve van de tank;  
+
+c. een automatische tankafsluiter;  
+
+d. een drukindicator of brandstofmeter;  
+
+e. een drukregelaar;  
+
+f. een automatische afsluitklep die gecombineerd mag zijn met de drukregelaar;  
+
+g. een vulaansluiting;  
+
+h. gasleidingen en flexibele slangen;  
+
+i. gasvoerende verbindingen tussen de CNG-onderdelen;  
+
+j. een inspuitstuk dan wel gasmengstuk;  
+
+k. een handafsluiter;  
+
+l. een gasregeleenheid;  
+
+m. een doorstroombegrenzer;  
+
+n. een elektronische controle-eenheid;  
+
+o. een gasdichte behuizing indien CNG-onderdelen zich in de personenruimte of gesloten laadruimte bevinden.   
+
+### Artikel  1.33  
+
+Een CNG-onderdeel waarop paragraaf 2.1 van deze afdeling van toepassing is, moet zijn voorzien van het volgende goedkeuringsmerk. Het goedkeuringsmerk ingevolge VN/ECE-reglement 110 ziet er als volgt uit:  ![244513](http://wetten.overheid.nl/Illustration/244513)
+waarbij de volgende codes de daarbij vermelde betekenis hebben: 4: aanduiding van het land dat goedkeuring heeft verleend (‘4’ is Nederland); 110R: vast gegeven (aanduiding goedkeuring volgens ECE-Reglement nr. 110); 00: goedkeuring volgens de originele niet geamendeerde versie van het Reglement; 2439: nummer en aantal posities kan variëren: dit is het goedkeuringsnummer specifiek voor het merk en type van het onderdeel. 
+
+### Artikel  1.34  
+
+De onderdelen van de CNG-installatie moeten bestand zijn tegen de druk die, onder normale bedrijfsomstandigheden, maximaal kan heersen in het gedeelte van de CNG-installatie waar deze onderdelen zijn aangebracht. 
+
+### Artikel  1.35  
+
+1. Alle onderdelen van de CNG-installatie moeten deugdelijk zijn bevestigd.  
+
+2. De CNG-installatie mag geen lekkage vertonen.   
+
+### Artikel  1.36  
+
+1. De CNG-installatie moet zodanig zijn aangebracht dat deze zo goed mogelijk is beschermd tegen beschadigingen, zoals beschadigingen die kunnen worden veroorzaakt door aanrijdingen, bewegende voertuigdelen, steenslag, boomtakken of als gevolg van het laden of lossen van het motorvoertuig dan wel het verschuiven van de lading.  
+
+2. Geen enkel onderdeel van de CNG-installatie inclusief eventueel beschermend materiaal dat deel uitmaakt van het desbetreffende onderdeel mag buiten de zijdelingse contouren van het motorvoertuig uitsteken, met uitzondering van de vulaansluiting indien deze ten opzichte van de plaats van de bevestiging niet meer dan 10 mm uitsteekt.  
+
+3. Met uitzondering van de CNG-tank mogen, gezien in elke dwarsdoorsnede van het motorvoertuig, geen onderdelen van de CNG-installatie inclusief eventueel beschermend materiaal dat deel uitmaakt van het desbetreffende onderdeel, aan de onderzijde van de voertuigconstructie uitsteken, tenzij binnen een straal van 150 mm een deel van het voertuig lager is gelegen.  
+
+4. Alle CNG-onderdelen waarop paragraaf 2.1 van deze afdeling van toepassing is, moeten zodanig zijn aangebracht dat ze controleerbaar zijn en dat de identificatiemerken leesbaar zijn.   
+
+### Artikel  1.37  
+
+1. Indien de CNG-tank is aangebracht in de personenruimte of in de gesloten laadruimte van het voertuig, moet deze zijn voorzien van een gasdichte behuizing.  
+
+2. Gasleidingen en -slangen die in de personenruimte of in de gesloten laadruimte van het voertuig aanwezig zijn, mogen niet langer zijn dan noodzakelijk is om vanuit de CNG-tank één van beide zijkanten van het motorvoertuig te bereiken.  
+
+3. In de personenruimte of gesloten laadruimte mogen geen gasvoerende verbindingen aanwezig zijn met uitzondering van: 
+
+a. de verbindingen in de gasdichte behuizing, en  
+
+b. de verbinding tussen gasleiding of -slang en de vulaansluiting indien deze verbinding is voorzien van een omkapseling die bestand is tegen CNG en in open verbinding staat met de buitenlucht.    
+
+4. Het bepaalde in het tweede lid is niet van toepassing indien het een bus betreft en de gasleidingen zijn voorzien van een omkapseling die bestand is tegen CNG en in open verbinding staan met de buitenlucht.   
+
+### Artikel  1.38  
+
+Geen deel van de CNG-installatie mag dichter dan 100 mm bij de uitlaat of vergelijkbare hittebron zijn gelegen, tenzij het desbetreffende deel door middel van een schild afdoende tegen hitte is beschermd. 
+
+### Artikel  1.39  
+
+1. Op de CNG-installatie mogen geen andere verbruikers zijn aangesloten dan die welke strikt noodzakelijk zijn voor het goed functioneren van de motor van het motorvoertuig.  
+
+2. In afwijking van het bepaalde in het eerste lid mag een voertuig zijn voorzien van een verwarmingsinstallatie die is aangesloten op de CNG-installatie en bedoeld is voor het verwarmen van de personenruimte en de laadruimte.  
+
+3. De in het tweede lid genoemde verwarmingsinstallatie moet naar het oordeel van de RDW voldoende zijn beveiligd en de vereiste werking van de normale CNG-installatie niet beïnvloeden.   
+
+### Artikel  1.40  
+
+Bussen voorzien van een CNG-installatie moeten zijn voorzien van het volgende herkenningsteken. Het herkenningsteken moet zijn aangebracht op de voor- en achterzijde van de bus en aan de buitenzijde van de deuren in de rechterzijkant van de bus. Model herkenningsteken aanwezigheid CNG-installatie in een bus.  ![244514](http://wetten.overheid.nl/Illustration/244514)
+Het herkenningsteken bestaat uit een sticker die weersbestendig is en de hierboven aangegeven parallelvormen weergeeft. De aanduiding ‘CNG’ moet onuitwisbaar en duidelijk leesbaar in het midden van de sticker zijn aangebracht. De kleur en afmetingen moeten zijn:  
+
+| --- | --- |
+|:---|:---|
+| achtergrond:  | blauw of groen  |
+| rand:  | wit, dan wel wit retroreflecterend  |
+| breedte:  | 4–6 mm  |
+| letters:  | wit, dan wel wit retroreflecterend  |
+| hoogte letters:  | ten minste 25 mm  |
+| dikte letters:  | ten minste 4 mm  |
+| afmeting:  | breedte: 110–150 mm  |
+| hoogte:  | 80–110 mm  |
+
+### Artikel  1.41  
+
+1. De CNG-installatie moet zijn voorzien van een verklaring met bijbehorende detailtekening door of namens de fabrikant van het motorvoertuig, indien er sprake is van één of meer van de volgende situaties: 
+
+a. in de carrosseriebodem is een gat gemaakt, niet zijnde een gat in de bodemplaat van ten hoogste 150 bij 150 mm ten behoeve van een inspectieluikje dan wel doorvoergaten ten behoeve van leidingen en gaten voor de montage van de CNG-tank;  
+
+b. de carrosseriebodem is in ernstige mate vervormd waardoor de stijfheid en sterkte van de carrosserie is beïnvloed;  
+
+c. langs- of dwarsprofielen dan wel versterkingsdelen van de mee- of zelfdragende carrosserie zijn verwijderd die de stijfheid en sterkte van de carrosserie beïnvloeden;  
+
+d. het motorvoertuig is voorzien van een lastafhankelijke remkrachtregelaar en de vering is gewijzigd om te kunnen voldoen aan het gestelde in artikel 1.44, eerste lid.    
+
+2. Indien de CNG-tank op het dak van het motorvoertuig wordt aangebracht is een verklaring met bijbehorende detailtekening door of namens de fabrikant van het motorvoertuig vereist.   
+
+### Artikel  1.42  
+
+1. De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt;  
+
+b. met behulp van een middel dat lekkage aantoonbaar maakt, waarbij het contact moet zijn ingeschakeld;  
+
+c. door in geval van twijfel te meten met een geschikt meetmiddel.    
+
+2. Bij de in artikel 1.34 te bepalen druk moet worden uitgegaan van 120 °C in de motorruimte en 65 °C elders in het voertuig.  
+
+3. De in artikel 1.36, derde lid, gestelde eis wordt beoordeeld bij het voertuig in onbeladen toestand met behulp van een rei die horizontaal tegen de onderzijde van de voertuigconstructie wordt gehouden, waarbij de wielen niet en de CNG-tank wel als deel van de voertuigconstructie worden aangemerkt.   
+
+### §  2.2.2  
+
+#### *CNG-tank* 
+
+### Artikel  1.43  
+
+1. CNG-tanks zijn te onderscheiden in vier typen: 
+
+a. volledig metaal (staal of aluminium) (type CNG-1);  
+
+b. metalen tank met vezelversterkt cilindrisch deel (type CNG-2);  
+
+c. metalen binnentank met volledig vezelversterkte buitentank (type CNG-3);  
+
+d. kunststof binnentank met volledig vezelversterkte buitentank (type CNG-4).    
+
+2. De geldigheidstermijn tot de eerstvolgende periodieke controle zoals voorgeschreven door de fabrikant van de CNG-tank mag niet zijn overschreden.  
+
+3. Bij elk CNG-tank moet een verklaring van de fabrikant van de tank aanwezig zijn betreffende het controleprogramma en de procedure voor de periodieke controle zoals de herkeurfrequentie, de testmethode en de afkeurcriteria.  
+
+4. De CNG-tank moet permanent aan het motorvoertuig zijn bevestigd en mag niet in de motorruimte zijn geplaatst.  
+
+5. De CNG-tank moet zodanig zijn bevestigd dat er geen metallisch contact bestaat, met uitzondering van de vaste bevestigingspunten aan de CNG-tank.  
+
+6. De CNG-tank moet, onverminderd het bepaalde in de artikelen 1.46 en 1.53, overeenkomstig de aanwijzingen van de fabrikant van de tank zijn aangebracht.   
+
+### Artikel  1.44  
+
+1. De CNG-tank mag in bedrijfsklare toestand van het motorvoertuig niet lager zijn gelegen dan 200 mm boven het wegdek.  
+
+2. Het bepaalde in het eerste lid is niet van toepassing indien de tank aan de voorzijde en aan de zijkanten voldoende is beschermd door originele dragende delen welke tot de constructie van het motorvoertuig behoren, en geen deel van de tank lager dan die bescherming is gelegen.   
+
+### Artikel  1.45  
+
+1. De CNG-tank moet zijn voorzien van een gasdichte behuizing die voldoet aan het bepaalde in artikel 1.30, indien de CNG-tank in de personenruimte of de gesloten laadruimte is aangebracht.  
+
+2. De tankappendages moet zijn beschermd tegen vuil en water indien de CNG-tank op een andere plaats is aangebracht dan bedoeld in het eerste lid.   
+
+### Artikel  1.46  
+
+1. De CNG-tank moet met de daartoe bestemde vaste bevestigingspunten dan wel met behulp van een tankframe en tankbanden aan het motorvoertuig worden aangebracht.  
+
+2. De bevestiging aan het motorvoertuig moet zodanig zijn uitgevoerd dat bij volle tank de volgende acceleraties kunnen worden opgenomen zonder beschadigingen te veroorzaken: 
+
+a. voor personenauto’s en bedrijfsauto’s met een toegestane maximum massa van niet meer dan 3500 kg, voor motorfietsen en voor driewielige motorvoertuigen: 
+
+1. 20 G in de rijrichting, en  
+
+2. 8 G in de horizontale richting dwars op de rijrichting;    
+
+b. voor personenauto’s met een toegestane maximum massa van meer dan 3500 kg doch niet meer dan 5000 kg en voor bedrijfsauto’s met een toegestane maximum massa van meer dan 3500 kg doch niet meer dan 12000 kg: 
+
+1. 10 G in de rijrichting, en  
+
+2. 5 G in de horizontale richting dwars op de rijrichting;    
+
+c. voor personenauto’s met een toegestane maximum massa van meer dan 5000 kg en voor bedrijfsauto’s met een toegestane maximum massa van meer dan 12000 kg: 
+
+1. 6,6 G in de rijrichting, en  
+
+2. 5 G in de horizontale richting dwars op de rijrichting.      
+
+3. In het geval de CNG-tank op een andere plaats dan op het dak van het motorvoertuig is aangebracht, wordt aan het bepaalde in het tweede lid voldaan indien de bevestiging aan het motorvoertuig: 
+
+a. bestaat uit ten minste vier bouten;  
+
+b. is voorzien van onderlegringen of -platen, in het geval het plaatwerk ter plaatse enkelvoudig is uitgevoerd, en  
+
+c. deze bouten en onderlegringen of -platen, uitgaande van materiaalsoort St 37 en bevestigingsbouten van klasse 8.8 ten minste voldoen aan de hieronder in tabel 3 aangegeven afmetingen.    
+
+4. Ter plaatse van de bevestiging mogen geen samendrukbare stoffen aanwezig zijn, tenzij de bevestiging voldoet aan het bepaalde in het tweede lid.  Tabel 3 
+
+| Tankinhoud/-gewicht<sup>1</sup> meer dan – tot en met (in liter/kg)  | Afmetingen onderlegringen of onderlegplaten (in mm)  | Boutdiameter  (in mm)  |
+|:---|:---|:---|
+| < 100  | rond 30 × 1,5  rond 25 × 2,5  | 8  |
+| 100–150  | rond 50 × 2  rond 30 × 3  | 10  |
+| 150 >  | constructie moet voldoen aan het bepaalde in het tweede lid  |
+
+<sup>1</sup> Tankgewicht mag worden gebruikt indien het maximum tankgewicht (incl. gasgewicht) duidelijk op de tank is aangegeven.  
+
+### Artikel  1.47  
+
+Indien de CNG-tank met behulp van een tankframe en tankbanden wordt aangebracht moet tussen de CNG-tank en het frame beschermend materiaal zoals vilt, leer of kunststof, zijn aangebracht. 
+
+### Artikel  1.48  
+
+Indien de CNG-tank achter een zitplaats is aangebracht moet in lengterichting van het voertuig een totale vrije ruimte van ten minste 100 mm aanwezig zijn die verdeeld mag zijn tussen de tank en de achterwand van het motorvoertuig en tussen de CNG-tank en de zitplaats, waarbij de kortste afstand bepalend is. 
+
+### Artikel  1.49  
+
+1. De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+b. door in geval van twijfel te meten met een geschikt meetmiddel.    
+
+2. De in het artikel 1.46, tweede lid, gestelde eis wordt beoordeeld aan de hand van een verklaring door of namens de voertuigfabrikant, een berekening of een beproeving waaruit blijkt dat de betreffende bevestiging van voldoende sterkte is.  
+
+3. Bij de beoordeling van de in artikel 1.48 gestelde eis moet de vrije ruimte zodanig worden gemeten dat de tank, op denkbeeldige wijze, over een afstand van ten minste 100 mm in lengterichting van het voertuig kan worden verplaatst.   
+
+### §  2.2.3  
+
+#### *Tankbanden* 
+
+### Artikel  1.50  
+
+Indien de CNG-tank door middel van een tankframe en tankbanden aan het motorvoertuig is bevestigd, moeten de tankbanden voldoen aan de in artikelen 1.51 tot en met 1.53 gestelde eisen. 
+
+### Artikel  1.51  
+
+De CNG-tank moet met ten minste twee tankbanden op het tankframe zijn bevestigd: indien de tankband tevens het gewicht van de CNG-tank draagt, moeten ten minste drie tankbanden zijn aangebracht. 
+
+### Artikel  1.52  
+
+1. De tankbanden moeten voorkomen dat de CNG-tank kan gaan schuiven, draaien of losraken.  
+
+2. Tussen de CNG-tank en de tankbanden moet beschermend materiaal, zoals vilt, leer of kunststof, zijn aangebracht.  
+
+3. De tankbanden moeten de tankomtrek geheel of nagenoeg geheel omsluiten, waarbij het tankframe een gedeelte van de omsluiting mag vormen.   
+
+### Artikel  1.53  
+
+1. De tankbanden en de bevestiging aan het tankframe moeten zodanig zijn uitgevoerd dat deze een kracht, gemeten door het zwaartepunt van de CNG-tank, van zestien maal het gewicht van de gevulde CNG-tank in lengterichting en acht maal het gewicht van de gevulde CNG-tank in dwars- en verticale richting van het motorvoertuig kan opnemen.  
+
+2. Aan het bepaalde in het eerste lid wordt voldaan indien de tankbanden, uitgaande van materiaalsoort St 37, en de bevestigingsbouten, uitgaande van klasse 8.8, ten minste voldoen aan de in tabel 4 aangegeven afmetingen.  Tabel 4 
+
+| Tankinhoud/-gewicht<sup>1</sup> meer dan – tot en met (in liter/kg)   | Afmetingen van de tankbanden (in mm)  | Boutdiameter (in mm)  |
+|:---|:---|:---|
+| –85  | 20 × 3 of  29 × 1,5<sup>2</sup>   | 8  |
+| 85–100  | 30 × 3  | 10  |
+| 20 × 3  | 8<sup>3</sup>   |
+| 100–150  | 50 × 6  | 12  |
+| 50 × 3  | 10<sup>4</sup>   |
+| 150–  | constructie moet voldoen aan het bepaalde in het eerste lid  |
+
+<sup>1</sup> Tankgewicht mag worden gebruikt indien het maximum tankgewicht (incl. gasgewicht) duidelijk is aangegeven op de tank.<sup>2</sup> Een tankband met een afmeting van 29 × 1,5 mm moet zijn gemonteerd overeenkomstig de aanwijzingen van de fabrikant van de tankband.<sup>3</sup> In dit geval moet de CNG-tank met ten minste drie tankbanden zijn aangebracht.<sup>4</sup>In dit geval moet de CNG-tank met ten minste vier tankbanden zijn aangebracht.  
+
+### Artikel  1.54  
+
+1. De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+b. door in geval van twijfel te meten met een geschikt meetmiddel.    
+
+2. De in het artikel 1.53, eerste lid, gestelde eis wordt beoordeeld aan de hand van een berekening of een beproeving waaruit moet blijken dat de desbetreffende bevestiging van voldoende sterkte is.   
+
+### §  2.2.4  
+
+#### *Overdrukbeveiliging ten behoeve van de tank* 
+
+### Artikel  1.55  
+
+De overdrukbeveiliging moet door de fabrikant van de CNG-tank waarin deze aangebracht is, zijn aangewezen als beveiliging tegen overdruk. 
+
+### Artikel  1.56  
+
+1. De overdrukbeveiliging moet direct in de CNG-tank dan wel in een appendage op de tank zijn aangebracht waarbij de werking van de appendage het functioneren van de overdrukbeveiliging niet mag belemmeren.  
+
+2. Overdrukbeveiliging mag niet in een leiding naast de CNG-tank zijn aangebracht.  
+
+3. De uitstroomopening mag niet zijn gericht op een CNG-tank of een andere brandstoftank.   
+
+### Artikel  1.57  
+
+1. De in deze paragraaf gestelde eisen worden getoetst door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+2. De beoordeling van het gestelde in artikel 1.55 vindt plaats aan de hand van het goedkeuringscertificaat van de CNG-tank, het label op de CNG-tank, dan wel andere waarmerken door de fabrikant van de CNG-tank aangebracht.   
+
+### §  2.2.5  
+
+#### *Automatische tankafsluiter* 
+
+### Artikel  1.58  
+
+1. De automatische tankafsluiter moet direct op de CNG-tank zijn aangebracht.  
+
+2. De automatische tankafsluiter moet op een zodanige wijze zijn geschakeld dat bij het tot stilstand komen van de motor, ongeacht de stand van de contactschakelaar, deze afnameklep automatisch wordt gesloten en gesloten blijft indien de motor niet draait, waarbij een vertragingstijd van twee seconden is toegestaan.   
+
+### Artikel  1.59  
+
+De in artikel 1.58 gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+b. door het contact in te schakelen en te controleren of de spoel wordt bekrachtigd. Vervolgens wordt de motor gestart waarna de handrem wordt aangetrokken en de hoogste versnelling wordt ingeschakeld. Met behulp van de koppeling de motor laten afslaan waarna de bekrachtiging moet wegvallen. Indien een controle op deze wijze niet mogelijk is, wordt de motor gestart en nadat is overgeschakeld op CNG wordt gecontroleerd of de spoel is bekrachtigd waarna met het contact uitgeschakeld wordt gecontroleerd of de bekrachtiging is weggevallen.   
+
+### §  2.2.6  
+
+#### *Gasdichte behuizing op de tank* 
+
+### Artikel  1.60  
+
+1. De gasdichte behuizing moet ten behoeve van de ventilatie van de tankappendages, eventueel door middel van een verbindingsslang en een doorvoerstuk, rechtstreeks in open verbinding staan met de buitenlucht.  
+
+2. De ventilatieopening van de gasdichte behuizing moet daar waar deze buiten het motorvoertuig uitmondt naar boven of beneden zijn gericht, echter zodanig dat de opening niet in een wielkast uitmondt en niet is gericht op een warmtebron zoals de uitlaat. Indien de ventilatieopening boven het motorvoertuig uitmondt moet deze opening tegen inwateren zijn beschermd.  
+
+3. De verbindingsslang moet zodanig door middel van een klemverbinding aan zowel de gasdichte behuizing als aan het doorvoerstuk zijn bevestigd dat deze een gasdichte verbinding vormt.   
+
+### Artikel  1.61  
+
+De in artikel 1.60 gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+b. door in geval van twijfel te meten met een geschikt meetmiddel.   
+
+### §  2.2.7  
+
+#### *Gasleidingen en -slangen* 
+
+### Artikel  1.62  
+
+1. Een gasleiding tussen CNG-onderdelen moet zijn vervaardigd uit naadloos roestvast staal indien deze leiding voldoet aan het gestelde in DIN 17458, ASTM A 269 of ISO 2604/2 en de buitendiameter van de roestvast stalen gasleiding niet meer bedraagt dan 12 mm.  
+
+2. De in het eerste lid bedoelde gasleiding mag zijn vervangen door een flexibele slang indien deze slang bewegende CNG-onderdelen met elkaar verbindt en deze slang voldoet aan het bepaalde in artikel 1.30.   
+
+### Artikel  1.63  
+
+#### ** 
+
+1. Bij de in artikel 1.62, onderdeel a, genoemde gasleiding moet een inspectie certificaat volgens EN 10204 – 3.1.B dan wel een gelijkwaardig testrapport aanwezig zijn.  
+
+2. De fabricagedatum van de in artikel 1.62, tweede lid, bedoelde flexibele slang mag niet verder terug zijn gelegen dan 1 jaar. Indien alleen het fabricagejaar is vermeld, wordt als fabricagedatum aangemerkt 31 december van dat jaar.   
+
+### Artikel  1.64  
+
+1. Een gasleiding mag niet door middel van lassen of solderen dan wel met behulp van aluminium bevestigingsmiddelen zijn bevestigd.  
+
+2. Een gasleiding moet zodanig zijn bevestigd dat deze niet onderhevig is aan trillingen anders dan die van het voertuig zelf.  
+
+3. Een flexibele slang moet zodanig zijn bevestigd dat deze niet onderhevig is aan spanningen.   
+
+### Artikel  1.65  
+
+1. De onderlinge afstand tussen de bevestigingspunten van een stalen gasleiding mag ten hoogste 0,60 m bedragen.  
+
+2. De gasleiding of -slang moet ter plaatse van de bevestiging zijn voorzien van beschermend materiaal, zoals vilt, leer of kunststof, tenzij de gasleiding al een beschermend omhulsel heeft.   
+
+### Artikel  1.66  
+
+1. Een gasleiding of -slang mag over een lengte van ten hoogste 0,40 m door een kokerbalk worden geleid.  
+
+2. Een gasleiding of -slang mag niet zijn gelegen ter plaatse van kriksteunen.  
+
+3.  **De gasleiding of -slang, al dan niet voorzien van een beschermend omhulsel, moet daar waar zich een doorvoer bevindt zijn voorzien van beschermend materiaal, zoals vilt, leer of kunststof.   
+
+### Artikel  1.67  
+
+De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+b. door in geval van twijfel te meten met een geschikt meetmiddel.   
+
+### §  2.2.8  
+
+#### *Gasvoerende verbindingen tussen de diverse CNG-onderdelen* 
+
+### Artikel  1.68  
+
+1. Soldeerverbinding alsmede snijringverbindingen zijn niet toegestaan.  
+
+2. De verbinding van een roestvast stalen gasleiding mag uitsluitend geschieden door een fitting die is vervaardigd uit roestvast staal.  
+
+3. In afwijking van het tweede lid mogen roestvast stalen gasleidingen onderling met elkaar worden verbonden door middel van een lasverbinding indien een certificaat van een röntgenonderzoek, afgegeven door de Röntgen Technische Dienst (RTD), kan worden overgelegd.  
+
+4. Een verdeelblok moet zijn vervaardigd uit een corrosiebestendig metaal.   
+
+### Artikel  1.69  
+
+1. Een stalen gasleiding moet door middel van een geschikte knelringverbinding zijn aangesloten.  
+
+2. Het aantal verbindingen moet tot een minimum beperkt blijven.   
+
+### Artikel  1.70  
+
+De verbindingen moeten op een voor de controle toegankelijke plaats zijn aangebracht, zonodig na verwijdering van een hoes. 
+
+### Artikel  1.71  
+
+De in deze paragraaf gestelde eisen worden getoetst door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt. 
+
+### §  2.2.9  
+
+#### *Vulaansluiting* 
+
+### Artikel  1.72  
+
+1. De vulaansluiting moet zijn geborgd tegen verdraaiingen en is beschermd tegen vuil en water.  
+
+2. De vulaansluiting moet zijn geplaatst aan de buitenzijde van het voertuig of in het motorcompartiment indien de CNG-tank in de personenruimte of in de gesloten laadruimte is gemonteerd.   
+
+### Artikel  1.73  
+
+De in artikel 1.72 gestelde eis wordt getoetst door middel van visuele controle. 
+
+### §  2.2.10  
+
+#### *Automatische afsluitklep* 
+
+### Artikel  1.74  
+
+1. In de gasleiding van de CNG-tank naar de drukregelaar moet zo dicht mogelijk bij de drukregelaar een automatische afsluitklep zijn aangebracht.  
+
+2. Indien meerdere drukregelaars zijn gemonteerd, mag de automatische afsluiter voor de laatste drukregelaar zijn geplaatst.  
+
+3. De automatische afsluitklep mag deel uitmaken van de drukregelaar.   
+
+### Artikel  1.75  
+
+De automatische afsluitklep moet zodanig functioneren dat de brandstoftoevoer wordt afgesloten zodra de motor door middel van het contact tot stilstand wordt gebracht of, indien het motorvoertuig tevens is voorzien van ander brandstofsysteem, naar de andere brandstofsoort wordt omgeschakeld. 
+
+### Artikel  1.76  
+
+De in deze paragraaf gestelde eisen worden getoetst: 
+
+a. door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt,  
+
+b. door het contact in te schakelen en te controleren of de spoel wordt bekrachtigd. Vervolgens wordt het contact uitgeschakeld en wordt gecontroleerd of de bekrachtiging wegvalt. Indien een controle op deze wijze niet mogelijk is, wordt de motor gestart en nadat is overgeschakeld op CNG gecontroleerd of de spoel is bekrachtigd waarna met het contact uitgeschakeld wordt gecontroleerd of de bekrachtiging is weggevallen.   
+
+### §  2.2.11  
+
+#### *Handafsluiter* 
+
+### Artikel  1.77  
+
+In de CNG-installatie mogen ten hoogste twee extra handafsluiters worden geplaatst als: 
+
+a. extra veiligheidsafsluiter, gemonteerd in de motorruimte voor de automatische afsluitklep;  
+
+b. testafsluiter, indien deze afsluiter is beveiligd tegen het gebruik door onbevoegden.   
+
+### Artikel  1.78  
+
+De in artikel 1.77 gestelde eis wordt getoetst door middel van visuele controle. 
+
+### §  2.2.12  
+
+#### *Elektrische voorzieningen* 
+
+### Artikel  1.79  
+
+1. De elektrische voorzieningen van de CNG-installatie moeten zijn beveiligd tegen overbelasting waarbij ten minste in de voedingsleiding één afzonderlijke zekering moet zijn aangebracht.  
+
+2. De zekering moet op een zodanige plaats zijn aangebracht dat deze zonder het gebruik van gereedschap bereikbaar is.   
+
+### Artikel  1.80  
+
+1. De elektrische stroom van CNG-onderdelen die tevens gasvoerend zijn mogen niet via een gasleiding lopen.  
+
+2. Alle elektrische onderdelen die zijn aangebracht in het gedeelte van de CNG-installatie waar de druk hoger is dan 0,2 bar moeten door middel van een aparte verbinding met de massa van het motorvoertuig zijn verbonden.  
+
+3. De elektrische bedrading moet afdoende tegen beschadiging zijn beschermd.   
+
+### Artikel  1.81  
+
+Bij motorvoertuigen met meer dan één brandstofsysteem moet een brandstofkeuzeschakeling aanwezig zijn die voorkomt dat de motor tegelijkertijd meer dan één brandstofsoort krijgt toegevoerd. 
+
+### Artikel  1.82  
+
+De in de gasdichte behuizing aanwezige elektrische verbindingen en voorzieningen moeten zodanig zijn uitgevoerd dat vonkvorming wordt voorkomen. 
+
+### Artikel  1.83  
+
+1. De in deze paragraaf gestelde eisen worden getoetst door middel van visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  
+
+2. De in artikel 1.81 gestelde eis wordt getoetst door de motor te starten en vervolgens de schakelaar te bedienen.   
+
+### Hoofdstuk  2  
+
+#### *Wijziging van de motorbrandstof van een voertuig van een al of niet tot vloeistof verdicht gas naar benzine of diesel* 
+
+### Artikel  2.1  
+
+Indien bij een voertuig als bedoeld in artikel 6.3, derde lid, van deze regeling, de wijziging van de motorbrandstof plaats vindt door uitbouw van een LPG-installatie, moeten de volgende onderdelen van deze installatie verwijderd worden: 
+
+a. de LPG-tank inclusief alle aansluitingen;  
+
+b. de automatische afsluitklep;  
+
+c. het gasmengstuk of inspuitstuk, tenzij het inspuitstuk definitief is afgeplugd;  
+
+d. de gasleiding, met uitzondering van het gedeelte dat rechtstreeks vast tegen de onderzijde van het voertuig is bevestigd;  
+
+e. de verdamper/drukregelaar, al dan niet gecombineerd, met uitzondering van de uitlaatstift bij luchtgekoelde motoren; en  
+
+f. de vulaansluiting, tenzij deze definitief is afgeplugd.   
+
+### Artikel  2.2  
+
+Indien bij een voertuig als bedoeld in artikel 6.3, derde lid, van deze regeling, de wijziging van de motorbrandstof plaats vindt door uitbouw van een CNG-installatie, moeten de volgende onderdelen van deze installatie verwijderd worden: 
+
+a. de CNG-tank inclusief alle aansluitingen;  
+
+b. de automatische afsluitklep;  
+
+c. het gasmengstuk of inspuitstuk;  
+
+d. de gasleiding, met uitzondering van het gedeelte dat rechtstreeks vast tegen de onderzijde van het voertuig is bevestigd;  
+
+e. de warmtewisselaar/drukregelaar, al dan niet gecombineerd; en  
+
+f. de vulaansluiting, tenzij deze definitief is afgeplugd.    
+
 ### Bijlage XI 
 
 ####, behorende bij artikel 6.6
@@ -14307,7 +18012,7 @@ k. de bus mag niet zijn voorzien van staanplaatsen.
 
 ###Bijlage  XII 
 
-####, behorend bij artikel 3.23.a, vierde lid , van de Regeling voertuigen
+####, behorend bij artikel 3.23a, vierde lid 
 
 Eisen waaraan het alcoholslot, bedoeld in artikel 132e van de wet moet voldoen 
 

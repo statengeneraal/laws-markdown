@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) te vervangen door een nieuwe wet, aangezien het, in het belang van het goed functioneren van de school, bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wenselijk is het overleg met en de vertegenwoordiging van het personeel en de ouders en leerlingen van de school te verbeteren mede in het licht van de vergroting van de autonomie van besturen van die scholen, dat het tevens wenselijk is de medezeggenschap bij centrale diensten als bedoeld in genoemde wetten en regionale expertisecentra als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) zoveel mogelijk dienovereenkomstig te regelen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet medezeggenschap onderwijs 1992 te vervangen door een nieuwe wet, aangezien het, in het belang van het goed functioneren van de school, bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs, wenselijk is het overleg met en de vertegenwoordiging van het personeel en de ouders en leerlingen van de school te verbeteren mede in het licht van de vergroting van de autonomie van besturen van die scholen, dat het tevens wenselijk is de medezeggenschap bij centrale diensten als bedoeld in genoemde wetten en regionale expertisecentra als bedoeld in de Wet op de expertisecentra zoveel mogelijk dienovereenkomstig te regelen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -20,29 +20,29 @@ Deze wet verstaat onder:
 
 a. «Onze Minister»: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken;  
 
-b. «school»: een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Experimentenwet onderwijs](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md);  
+b. «school»: een school als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs en de Experimentenwet onderwijs;  
 
-c. «centrale dienst»: een centrale dienst als bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 69 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 53b van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. «centrale dienst»: een centrale dienst als bedoeld in artikel 68 van de Wet op het primair onderwijs, artikel 69 van de Wet op de expertisecentra en artikel 53b van de Wet op het voortgezet onderwijs;  
 
-d. «regionaal expertisecentrum»: een regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+d. «samenwerkingsverband»: een samenwerkingsverband als bedoeld in artikel 1 van de Wet op het primair onderwijs en artikel 1 van de Wet op het voortgezet onderwijs;  
 
 e. «bevoegd gezag» voor wat betreft: 
 
-1. een school: het bevoegd gezag, bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Experimentenwet onderwijs](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md);  
+1. een school: het bevoegd gezag, bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs en de Experimentenwet onderwijs;  
 
-2. een centrale dienst: het bestuur van de rechtspersoon, bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 69 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 53b van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+2. een centrale dienst: het bestuur van de rechtspersoon, bedoeld in artikel 68 van de Wet op het primair onderwijs, artikel 69 van de Wet op de expertisecentra en artikel 53b van de Wet op het voortgezet onderwijs;  
 
 3. een samenwerkingsverband: het bestuur van een samenwerkingsverband;    
 
-f. «leerlingen»: leerlingen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f. «leerlingen»: leerlingen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs;  
 
 g. «ouders»: de ouders, voogden en verzorgers van de leerlingen;  
 
-h. «schoolleiding»: de directeur, bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de rector, directeur of de leden van de centrale directie, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), alsmede de conrectoren of de adjunct-directeuren;  
+h. «schoolleiding»: de directeur, bedoeld in de Wet op het primair onderwijs en de Wet op de expertisecentra en de rector, directeur of de leden van de centrale directie, bedoeld in de Wet op het voortgezet onderwijs, alsmede de conrectoren of de adjunct-directeuren;  
 
-i. personeel»: het personeel dat in dienst is dan wel ten minste 6 maanden te werk gesteld is zonder benoeming bij het bevoegd gezag en dat werkzaam is op de school, bij de centrale dienst, dan wel het regionaal expertisecentrum en personeel dat is benoemd of ten minste 6 maanden te werk gesteld zonder benoeming dat werkzaamheden verricht ten behoeve van meer dan een school;  
+i. personeel»: het personeel dat in dienst is dan wel ten minste 6 maanden te werk gesteld is zonder benoeming bij het bevoegd gezag en dat werkzaam is op de school, bij de centrale dienst, dan wel het samenwerkingsverband en personeel dat is benoemd of ten minste 6 maanden te werk gesteld zonder benoeming dat werkzaamheden verricht ten behoeve van meer dan een school;  
 
-j. «onderwijswet»: de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+j. «onderwijswet»: de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs;  
 
 k. «geleding»: de afzonderlijke groepen van leden, bedoeld in artikel 3, derde lid.   
 
@@ -50,14 +50,14 @@ k. «geleding»: de afzonderlijke groepen van leden, bedoeld in artikel 3, derde
 
 ####Aard bepalingen
 
-De bij of krachtens deze wet gegeven voorschriften, voor zover zij de scholen en de regionale expertisecentra betreffen, zijn regels voor het openbaar onderwijs en voorwaarden voor bekostiging van het bijzonder onderwijs. 
+De bij of krachtens deze wet gegeven voorschriften, voor zover zij de scholen en de samenwerkingsverbanden betreffen, zijn regels voor het openbaar onderwijs en voorwaarden voor bekostiging van het bijzonder onderwijs. 
 
 ### Artikel  3  
 
 ####Medezeggenschapsraad
 
-1.  Aan een school, een centrale dienst en een regionaal expertisecentrum is een medezeggenschapsraad verbonden.   
-2.  De medezeggenschapsraad van een school bestaat uit ten minste 4 en van een centrale dienst en een regionaal expertisecentrum uit ten minste 2 leden.   
+1.  Aan een school, een centrale dienst en een samenwerkingsverband is een medezeggenschapsraad verbonden.   
+2.  De medezeggenschapsraad van een school bestaat uit ten minste 4 en van een centrale dienst en een samenwerkingsverband uit ten minste 2 leden.   
 3.  De medezeggenschapsraad van een school bestaat uit: 
 
 a. leden die uit en door het personeel worden gekozen; en  
@@ -70,21 +70,21 @@ b. leden die worden gekozen:
 
 3°. deels uit en door de ouders en deels uit en door de leerlingen, voor zover het betreft een school voor voortgezet onderwijs, een school voor voortgezet speciaal onderwijs of een door Onze Minister aangewezen inrichting voor voortgezet onderwijs.       
 4.  De aantallen leden, bedoeld in het derde lid, onderdeel a en onderdeel b, zijn aan elkaar gelijk. Voor zover het betreft een school voor voortgezet onderwijs, een school voor voortgezet speciaal onderwijs of een door Onze Minister aangewezen instelling voor voortgezet onderwijs zijn tevens de aantallen leden uit en door de ouders en uit en door de leerlingen aan elkaar gelijk. Indien niet aan de tweede volzin kan worden voldaan, omdat onvoldoende ouders dan wel leerlingen bereid zijn lid te worden, kan de niet door de desbetreffende groep te vervullen plaats worden toegedeeld aan de andere groep.   
-5.  De medezeggenschapsraad van een centrale dienst en van een regionaal expertisecentrum bestaat uit leden die uit en door het personeel worden gekozen.   
+5.  De medezeggenschapsraad van een centrale dienst en van een samenwerkingsverband bestaat uit leden die uit en door het personeel worden gekozen.   
 6.  Indien het bevoegd gezag personeel heeft benoemd of te werk gesteld zonder benoeming dat werkzaamheden verricht ten behoeve van meer dan een school, kan een medezeggenschapsraad worden ingesteld die bestaat uit leden die uit en door dat personeel worden gekozen. De medezeggenschapsraad bestaat in dat geval uit ten minste 2 leden.   
 7.  Geen lid van de medezeggenschapsraad kunnen zijn degenen die deel uitmaken van het bevoegd gezag.   
 8.  Een personeelslid dat is opgedragen om namens het bevoegd gezag op te treden in besprekingen met de medezeggenschapsraad kan niet tevens lid zijn van de medezeggenschapsraad.   
 9.  Kandidaten voor de verkiezing van het deel van de medezeggenschapsraad dat uit en door het personeel wordt gekozen, kunnen worden gesteld door personeelsleden en door organisaties van personeel. Kandidaten voor de verkiezing van het deel van de medezeggenschapsraad dat uit en door de ouders of de leerlingen wordt gekozen, kunnen worden gesteld door ouders of leerlingen en door organisaties van ouders of leerlingen.   
 10.  De verkiezing van de leden van de medezeggenschapsraad geschiedt bij geheime schriftelijke stemming.   
 11.  Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de periode waarin de verkiezing van de leden van de medezeggenschapsraad plaatsvindt.   
-12.  Het bevoegd gezag draagt er zorg voor, dat de leden van de medezeggenschapsraad niet uit hoofde van hun lidmaatschap van de raad worden benadeeld in hun positie met betrekking tot de school, het regionaal expertisecentrum en de centrale dienst. De eerste volzin is van overeenkomstige toepassing ten aanzien van kandidaatleden en voormalige leden.   
+12.  Het bevoegd gezag draagt er zorg voor, dat de leden van de medezeggenschapsraad niet uit hoofde van hun lidmaatschap van de raad worden benadeeld in hun positie met betrekking tot de school, het samenwerkingsverband en de centrale dienst. De eerste volzin is van overeenkomstige toepassing ten aanzien van kandidaatleden en voormalige leden.   
 13.  De beëindiging anders dan op eigen verzoek van de betrekking van een lid van het personeel mag geen verband houden met de kandidaatstelling voor het lidmaatschap, het lidmaatschap of het voormalig lidmaatschap van de betrokkene van de medezeggenschapsraad. Een beëindiging van de betrekking in strijd met dit lid is nietig.  
 
 ### Artikel  4  
 
 ####Gemeenschappelijke medezeggenschapsraad
 
-1.  Indien het bevoegd gezag meer dan een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), dan wel als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) dan wel als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) in stand houdt, stelt het bevoegd gezag een gemeenschappelijke medezeggenschapsraad in voor de scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) respectievelijk de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Het bevoegd gezag kan ten behoeve van scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) één gemeenschappelijke medezeggenschapsraad instellen, indien de instemming van twee derden van de leden van de desbetreffende medezeggenschapsraden is verkregen.   
+1.  Indien het bevoegd gezag meer dan een school als bedoeld in de Wet op het primair onderwijs, dan wel als bedoeld in de Wet op de expertisecentra dan wel als bedoeld in de Wet op het voortgezet onderwijs in stand houdt, stelt het bevoegd gezag een gemeenschappelijke medezeggenschapsraad in voor de scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra respectievelijk de Wet op het voortgezet onderwijs. Het bevoegd gezag kan ten behoeve van scholen als bedoeld in de Wet op het primair onderwijs en de Wet op de expertisecentra één gemeenschappelijke medezeggenschapsraad instellen, indien de instemming van twee derden van de leden van de desbetreffende medezeggenschapsraden is verkregen.   
 2.  In een gemeenschappelijke medezeggenschapsraad is elke medezeggenschapsraad van de betrokken scholen vertegenwoordigd.   
 3.  De leden van de gemeenschappelijke medezeggenschapsraad worden gekozen door de leden van de desbetreffende afzonderlijke medezeggenschapsraden en wel zo dat het aantal leden, gekozen uit personeel onderscheidenlijk uit ouders of leerlingen, elk de helft van het aantal leden van de gemeenschappelijke medezeggenschapsraad bedraagt.   
 4.  Artikel 3, tweede, derde, vierde en zevende tot en met dertiende lid, is van overeenkomstige toepassing op de gemeenschappelijke medezeggenschapsraad.  
@@ -94,7 +94,7 @@ b. leden die worden gekozen:
 ####Ondersteuningsplanraad
 
 1.  Het samenwerkingsverband stelt naast de medezeggenschapsraad, bedoeld in artikel 3, vijfde lid, een ondersteuningsplanraad in.   
-2.  De leden van de ondersteuningsplanraad worden afgevaardigd door de leden van de afzonderlijke medezeggenschapsraden van de in [artikel 18a, tweede lid van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), respectievelijk van de in [artikel 17a, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), bedoelde scholen en wel zo dat het aantal leden, gekozen uit personeel onderscheidenlijk uit ouders of leerlingen, elk de helft van het aantal leden van de raad bedraagt.   
+2.  De leden van de ondersteuningsplanraad worden afgevaardigd door de leden van de afzonderlijke medezeggenschapsraden van de in artikel 18a, tweede lid van de Wet op het primair onderwijs, respectievelijk van de in artikel 17a, tweede lid, van de Wet op het voortgezet onderwijs, bedoelde scholen en wel zo dat het aantal leden, gekozen uit personeel onderscheidenlijk uit ouders of leerlingen, elk de helft van het aantal leden van de raad bedraagt.   
 3.  Artikel 3, zevende, achtste, twaalfde en dertiende lid, is van overeenkomstige toepassing op de ondersteuningsplanraad.  
 
 ### Artikel  5  
@@ -136,11 +136,11 @@ a. jaarlijks de begroting en bijbehorende beleidsvoornemens op financieel, organ
 
 b. jaarlijks voor 1 mei informatie over de berekening die ten grondslag ligt aan de middelen uit 's Rijks kas die worden toegerekend aan het bevoegd gezag;  
 
-c. jaarlijks voor 1 juli een jaarverslag als bedoeld in [artikel 171 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 157 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of de gegevens, bedoeld in [artikel 106, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. jaarlijks voor 1 juli een jaarverslag als bedoeld in artikel 171 van de Wet op het primair onderwijs, artikel 157 van de Wet op de expertisecentra of de gegevens, bedoeld in artikel 106, eerste lid, van de Wet op het voortgezet onderwijs;  
 
 d. de uitgangspunten die het bevoegd gezag hanteert bij de uitoefening van zijn bevoegdheden;  
 
-e. terstond informatie over elk oordeel van de klachtencommissie, bedoeld in [artikel 14 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 23 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 24b van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waarbij de commissie een klacht gegrond heeft geoordeeld en over de eventuele maatregelen die het bevoegd gezag naar aanleiding van dat oordeel zal nemen, een en ander met inachtneming van de regelingen, bedoeld in de artikelen 12, eerste lid, onderdeel m, 13, onderdeel i en 14, tweede lid, onderdeel f en derde lid, onderdeel d;  
+e. terstond informatie over elk oordeel van de klachtencommissie, bedoeld in artikel 14 van de Wet op het primair onderwijs, artikel 23 van de Wet op de expertisecentra en artikel 24b van de Wet op het voortgezet onderwijs, waarbij de commissie een klacht gegrond heeft geoordeeld en over de eventuele maatregelen die het bevoegd gezag naar aanleiding van dat oordeel zal nemen, een en ander met inachtneming van de regelingen, bedoeld in de artikelen 12, eerste lid, onderdeel m, 13, onderdeel i en 14, tweede lid, onderdeel f en derde lid, onderdeel d;  
 
 f. ten minste eenmaal per jaar schriftelijk gegevens over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken per groep van de in de school werkzame personen en de leden van het bevoegd gezag;  
 
@@ -148,8 +148,8 @@ g. ten minste eenmaal per jaar schriftelijk gegevens over de hoogte en inhoud va
 
 h. aan het begin van het schooljaar schriftelijk de gegevens met betrekking tot de samenstelling van het bevoegd gezag, de organisatie binnen de school, het managementstatuut en de hoofdpunten van het reeds vastgestelde beleid;  
 
-i. jaarlijks na afloop van het schooljaar doch uiterlijk 1 oktober daaropvolgend gegevens over het aantal daadwerkelijk verzorgde uren van een op de school verzorgd onderwijsprogramma als bedoeld in [artikel 6g van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 25 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md).    
-3.  Het tweede lid, onderdeel f, is uitsluitend van toepassing op bevoegde gezagsorganen waarbij in de regel ten minste 100 personen werkzaam zijn. Voor de toepassing van de eerste volzin wordt voor het bevoegd gezag van een school uitgegaan van alle scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) respectievelijk de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) van dat bevoegd gezag.   
+i. jaarlijks na afloop van het schooljaar doch uiterlijk 1 oktober daaropvolgend gegevens over het aantal daadwerkelijk verzorgde uren van een op de school verzorgd onderwijsprogramma als bedoeld in artikel 6g van de Wet op het voortgezet onderwijs en artikel 25 van de Wet op de expertisecentra.    
+3.  Het tweede lid, onderdeel f, is uitsluitend van toepassing op bevoegde gezagsorganen waarbij in de regel ten minste 100 personen werkzaam zijn. Voor de toepassing van de eerste volzin wordt voor het bevoegd gezag van een school uitgegaan van alle scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra respectievelijk de Wet op het voortgezet onderwijs van dat bevoegd gezag.   
 4.  Ten aanzien van het tweede lid, onderdelen f en g wordt inzichtelijk gemaakt met welk percentage deze arbeidsvoorwaardelijke regelingen en afspraken zich verhouden tot elkaar en tot die van het voorafgaande jaar.   
 5.  Indien een groep van de in de school werkzame personen als bedoeld in het tweede lid, onderdeel f, of het orgaan van de rechtspersoon, bedoeld in het tweede lid, onderdeel g, uit minder dan vijf personen bestaat, kunnen voor de toepassing van die onderdelen twee of meer functies worden samengevoegd, zodat een groep van ten minste vijf personen ontstaat.   
 6.  Indien het bevoegd gezag een voorstel voor advies of instemming voorlegt aan een geleding van de medezeggenschapsraad, wordt dat voorstel gelijktijdig ter kennisneming aan de andere geleding of geledingen aangeboden. Daarbij wordt tevens een overzicht verstrekt van de beweegredenen voor het voorstel, alsmede van de gevolgen die de uitwerking van het voorstel naar verwachting zal hebben voor het personeel, ouders en leerlingen en van de naar aanleiding daarvan genomen maatregelen.  
@@ -158,7 +158,7 @@ i. jaarlijks na afloop van het schooljaar doch uiterlijk 1 oktober daaropvolgen
 
 ####Van overeenkomstige toepassing verklaring van de artikelen 6 , 7  en 8 
 
-De artikelen 6, 7 en 8 zijn van overeenkomstige toepassing op de gemeenschappelijke medezeggenschapsraad, met dien verstande dat het de algemene gang van zaken in alle scholen of de meerderheid van de scholen vallend onder dezelfde onderwijswet betreft, op de medezeggenschapsraad van een regionaal expertisecentrum, een centrale dienst en de medezeggenschapsraad, bedoeld in artikel 3, zesde lid, en op de ondersteuningsplanraad. 
+De artikelen 6, 7 en 8 zijn van overeenkomstige toepassing op de gemeenschappelijke medezeggenschapsraad, met dien verstande dat het de algemene gang van zaken in alle scholen of de meerderheid van de scholen vallend onder dezelfde onderwijswet betreft, op de medezeggenschapsraad van een samenwerkingsverband, een centrale dienst en de medezeggenschapsraad, bedoeld in artikel 3, zesde lid, en op de ondersteuningsplanraad. 
 
 ### Hoofdstuk  3  
 
@@ -172,7 +172,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 a. verandering van de onderwijskundige doelstellingen van de school;  
 
-b. vaststelling of wijziging van het schoolplan dan wel het leerplan of de onderwijs- en examenregeling en het zorgplan;  
+b. vaststelling of wijziging van het schoolplan dan wel het leerplan of de onderwijs- en examenregeling;  
 
 c. vaststelling of wijziging van een mogelijk schoolreglement;  
 
@@ -184,11 +184,11 @@ f. de aanvaarding van materiële bijdragen of geldelijke bijdragen anders dan in
 
 g. de vaststelling of wijziging van de voor de school geldende klachtenregeling;  
 
-h. overdracht van de school of van een onderdeel daarvan, respectievelijk fusie van de school met een andere school, dan wel vaststelling of wijziging van het beleid ter zake, waaronder begrepen de fusie-effectrapportage, bedoeld in [artikel 64b van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 66b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 53f van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+h. overdracht van de school of van een onderdeel daarvan, respectievelijk fusie van de school met een andere school, dan wel vaststelling of wijziging van het beleid ter zake, waaronder begrepen de fusie-effectrapportage, bedoeld in artikel 64b van de Wet op het primair onderwijs, artikel 66b van de Wet op de expertisecentra en artikel 53f van de Wet op het voortgezet onderwijs;  
 
-i. de verzelfstandiging van een nevenvestiging, of een deel van de school of nevenvestiging dat zich op een andere locatie bevindt dan de plaats van vestiging van die school of nevenvestiging op grond van [artikel 84a van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md); 
+i. de verzelfstandiging van een nevenvestiging, of een deel van de school of nevenvestiging dat zich op een andere locatie bevindt dan de plaats van vestiging van die school of nevenvestiging op grond van artikel 84a van de Wet op het primair onderwijs; 
 
-j. vaststelling of wijziging van de data, bedoeld in [artikel 17 van het Inrichtingsbesluit W.V.O](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), [artikel 6g, vierde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 25, vierde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md).  
+j. vaststelling of wijziging van de data, bedoeld in artikel 17 van het Inrichtingsbesluit W.V.O, artikel 6g, vierde lid, van de Wet op het voortgezet onderwijs en artikel 25, vierde lid, van de Wet op de expertisecentra.  
 
 ### Artikel  11  
 
@@ -200,7 +200,7 @@ a. vaststelling of wijziging van het lesrooster in het voortgezet onderwijs;
 
 b. vaststelling of wijziging van de hoofdlijnen van het meerjarig financieel beleid voor de school, waaronder de voorgenomen bestemming van de middelen die door het bevoegd gezag ten behoeve van de school uit de openbare kas zijn toegekend of van anderen zijn ontvangen, met uitzondering van de middelen, bedoeld in artikel 13, onderdeel c, en artikel 14, tweede lid, onderdeel c;  
 
-c. beëindiging, belangrijke inkrimping, niet zijnde een verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), of uitbreiding van de werkzaamheden van de school of van een belangrijk onderdeel daarvan, dan wel vaststelling of wijziging van het beleid ter zake;  
+c. beëindiging, belangrijke inkrimping, niet zijnde een verzelfstandiging als bedoeld in artikel 84a, eerste lid, van de Wet op het primair onderwijs, of uitbreiding van de werkzaamheden van de school of van een belangrijk onderdeel daarvan, dan wel vaststelling of wijziging van het beleid ter zake;  
 
 d. het aangaan, verbreken of belangrijk wijzigen van een duurzame samenwerking met een andere instelling, dan wel vaststelling of wijziging van het beleid ter zake;  
 
@@ -226,11 +226,11 @@ n. nieuwbouw of belangrijke verbouwing van de school;
 
 o. vaststelling of wijziging van het beleid met betrekking tot het onderhoud van de school;  
 
-p.vaststelling of wijziging van de wijze waarop de voorziening, bedoeld in [artikel 45, tweede lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), wordt georganiseerd;
+p.vaststelling of wijziging van de wijze waarop de voorziening, bedoeld in artikel 45, tweede lid, van de Wet op het primair onderwijs, wordt georganiseerd;
 
 q. vaststelling van de competentieprofielen van de toezichthouders en het toezichthoudend orgaan; en 
 
-r. vaststelling of wijziging van het schoolondersteuningsprofiel, bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+r. vaststelling of wijziging van het schoolondersteuningsprofiel, bedoeld in artikel 1 van de Wet op het primair onderwijs, artikel 1 van de Wet op de expertisecentra en artikel 1 van de Wet op het voortgezet onderwijs.  
 
 ### Artikel   12  
 
@@ -273,13 +273,13 @@ p. vaststelling of wijziging van regels waarover partijen die een collectieve ar
 q. vaststelling of wijziging van de regeling, bedoeld in artikel 28, voor zover die betrekking heeft op personeel;  
 
 r. vaststelling of wijziging van de wijze waarop invulling wordt gegeven aan de dagen, bedoeld in artikel 10, onderdeel j.    
-2.  Het bevoegd gezag van een speciale school voor basisonderwijs dat tevens bevoegd gezag is van een of meer basisscholen behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door het personeel van eerstgenoemde school is gekozen voor elk door hem te nemen besluit met betrekking tot de inzet van de bekostiging die op grond van [artikel 120, vierde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) aan eerstgenoemde school is toegekend.  
+2.  Het bevoegd gezag van een speciale school voor basisonderwijs dat tevens bevoegd gezag is van een of meer basisscholen behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door het personeel van eerstgenoemde school is gekozen voor elk door hem te nemen besluit met betrekking tot de inzet van de bekostiging die op grond van artikel 120, vierde lid, van de Wet op het primair onderwijs aan eerstgenoemde school is toegekend.  
 
 ### Artikel  13  
 
 ####Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de WPO en de WEC, met uitzondering van scholen voor voortgezet speciaal onderwijs
 
-1. Het bevoegd gezag van een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van scholen voor voortgezet speciaal onderwijs, behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders of de leerlingen is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden: 
+1. Het bevoegd gezag van een school als bedoeld in de Wet op het primair onderwijs en de Wet op de expertisecentra, met uitzondering van scholen voor voortgezet speciaal onderwijs, behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders of de leerlingen is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden: 
 
 a. regeling van de gevolgen voor de ouders of leerlingen van een besluit met betrekking tot een aangelegenheid als bedoeld in artikel 10, onder i, of artikel 11, onder c, d, e en m;  
 
@@ -295,7 +295,7 @@ f. de wijze waarop invulling wordt gegeven aan tussenschoolse opvang;
 
 g. vaststelling van de schoolgids;  
 
-h. vaststelling van de onderwijstijd voor zover het geen voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) betreft;  
+h. vaststelling van de onderwijstijd voor zover het geen voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra betreft;  
 
 i. vaststelling of wijziging van een regeling over het verwerken van en de bescherming van persoonsgegevens van ouders en leerlingen;  
 
@@ -304,13 +304,13 @@ j. vaststelling of wijziging van het beleid met betrekking tot activiteiten die 
 k. vaststelling of wijziging van het beleid ten aanzien van de uitwisseling van informatie tussen bevoegd gezag en ouders;  
 
 l. vaststelling of wijziging van de regeling, bedoeld in artikel 28, voor zover die betrekking heeft op ouders en leerlingen.    
-2.  Het bevoegd gezag van een school als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), met uitzondering van scholen voor voortgezet speciaal onderwijs, behoeft, ten aanzien van voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, voorafgaand aan instemming met betrekking tot de vaststelling van de gehele schoolgids als bedoeld in het eerste lid, onderdeel g, afzonderlijk instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen voor het in die schoolgids opgenomen onderdeel met betrekking tot de jaarlijkse vaststelling van het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in [artikel 6g, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel [artikel 25, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt geprogrammeerd alsmede voor het onderdeel met betrekking tot het beleid ten aanzien van lesuitval als bedoeld in [artikel 22, eerste lid, onderdeel c, onder 2°, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md). 
+2.  Het bevoegd gezag van een school als bedoeld in de Wet op de expertisecentra, met uitzondering van scholen voor voortgezet speciaal onderwijs, behoeft, ten aanzien van voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, voorafgaand aan instemming met betrekking tot de vaststelling van de gehele schoolgids als bedoeld in het eerste lid, onderdeel g, afzonderlijk instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen voor het in die schoolgids opgenomen onderdeel met betrekking tot de jaarlijkse vaststelling van het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in artikel 6g, eerste lid, van de Wet op het voortgezet onderwijs dan wel artikel 25, eerste lid, van de Wet op de expertisecentra wordt geprogrammeerd alsmede voor het onderdeel met betrekking tot het beleid ten aanzien van lesuitval als bedoeld in artikel 22, eerste lid, onderdeel c, onder 2°, van de Wet op de expertisecentra. 
 
 ### Artikel  14  
 
-####Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de [WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een school voor voortgezet speciaal onderwijs als bedoeld in de [WEC](../../../../../../wet/isovso/BWBR0003549/README.md)
+####Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de WVO of een school voor voortgezet speciaal onderwijs als bedoeld in de WEC
 
-1.  Het bevoegd gezag van een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en van een school voor voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden: 
+1.  Het bevoegd gezag van een school als bedoeld in de Wet op het voortgezet onderwijs en van een school voor voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden: 
 
 a. de vaststelling van de schoolgids;  
 
@@ -323,7 +323,7 @@ b. verandering van de grondslag van de school of omzetting van de school of van 
 
 c. de vaststelling of wijziging van de hoogte en de vaststelling of wijziging van de bestemming van de middelen die van de ouders of de leerlingen worden gevraagd zonder dat daartoe een wettelijke verplichting bestaat onderscheidenlijk zijn ontvangen op grond van een overeenkomst die door de ouders is aangegaan;  
 
-d. de vaststelling of wijziging van het beleid met betrekking tot het beheersbaar houden van de middelen die van de ouders of de leerlingen worden gevraagd voor schoolkosten, met uitzondering van lesmateriaal als bedoeld in [artikel 6e, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), die door het bevoegd gezag noodzakelijk worden bevonden;  
+d. de vaststelling of wijziging van het beleid met betrekking tot het beheersbaar houden van de middelen die van de ouders of de leerlingen worden gevraagd voor schoolkosten, met uitzondering van lesmateriaal als bedoeld in artikel 6e, tweede lid, van de Wet op het voortgezet onderwijs, die door het bevoegd gezag noodzakelijk worden bevonden;  
 
 e. vaststelling of wijziging van een mogelijk ouderstatuut;  
 
@@ -336,20 +336,20 @@ h. vaststelling of wijziging van de regeling, bedoeld in artikel 28, voor zover 
 
 a. regeling van de gevolgen voor de leerlingen van een besluit met betrekking tot een aangelegenheid als bedoeld in artikel 11, onder c, d, e en m;  
 
-b. vaststelling of wijziging van het leerlingenstatuut, bedoeld in [artikel 24g van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel een mogelijk leerlingenstatuut anders dan bedoeld in [artikel 24g van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. vaststelling of wijziging van het leerlingenstatuut, bedoeld in artikel 24g van de Wet op het voortgezet onderwijs dan wel een mogelijk leerlingenstatuut anders dan bedoeld in artikel 24g van de Wet op het voortgezet onderwijs;  
 
 c. vaststelling of wijziging van het beleid met betrekking tot voorzieningen ten behoeve van de leerlingen;  
 
 d. vaststelling of wijziging van een regeling over het verwerken van en de bescherming van persoonsgegevens van leerlingen;  
 
 e. vaststelling of wijziging van de regeling, bedoeld in artikel 28, voor zover die betrekking heeft op leerlingen.     
-4.  Het bevoegd gezag van een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en van een school voor voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) behoeft voorafgaand aan instemming met betrekking tot de vaststelling van de gehele schoolgids als bedoeld in het eerste lid, onderdeel a, afzonderlijk instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen voor het in die schoolgids opgenomen onderdeel met betrekking tot de jaarlijkse vaststelling van het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in [artikel 6g, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel [artikel 25, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt geprogrammeerd alsmede voor het onderdeel met betrekking tot het beleid ten aanzien van lesuitval als bedoeld in [artikel 24a, eerste lid, onderdeel c, onder 1°, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [artikel 22, eerste lid, onderdeel c, onder 2°, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md). 
+4.  Het bevoegd gezag van een school als bedoeld in de Wet op het voortgezet onderwijs en van een school voor voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra behoeft voorafgaand aan instemming met betrekking tot de vaststelling van de gehele schoolgids als bedoeld in het eerste lid, onderdeel a, afzonderlijk instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen voor het in die schoolgids opgenomen onderdeel met betrekking tot de jaarlijkse vaststelling van het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in artikel 6g, eerste lid, van de Wet op het voortgezet onderwijs dan wel artikel 25, eerste lid, van de Wet op de expertisecentra wordt geprogrammeerd alsmede voor het onderdeel met betrekking tot het beleid ten aanzien van lesuitval als bedoeld in artikel 24a, eerste lid, onderdeel c, onder 1°, van de Wet op het voortgezet onderwijs onderscheidenlijk artikel 22, eerste lid, onderdeel c, onder 2°, van de Wet op de expertisecentra. 
 
 ### Artikel  14a  
 
 ####Instemmingsrecht ondersteuningsplanraad
 
-Het samenwerkingsverband behoeft de voorafgaande instemming van de ondersteuningsplanraad met betrekking tot de vaststelling of wijziging van het ondersteuningsplan, bedoeld in [artikel 18a van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), respectievelijk [artikel 17a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
+Het samenwerkingsverband behoeft de voorafgaande instemming van de ondersteuningsplanraad met betrekking tot de vaststelling of wijziging van het ondersteuningsplan, bedoeld in artikel 18a van de Wet op het primair onderwijs, respectievelijk artikel 17a van de Wet op het voortgezet onderwijs. 
 
 ### Artikel  15  
 
@@ -395,7 +395,7 @@ d. de medezeggenschapsraad, indien het bevoegd gezag het advies niet of niet geh
 
 a. de desbetreffende aangelegenheid voor de school reeds inhoudelijk is geregeld in een bij of krachtens wet gegeven voorschrift;  
 
-b. het betreft een aangelegenheid als bedoeld in [artikel 38 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 38 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 40a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor zover het in deze artikelen bedoelde overleg niet besluit de aangelegenheid ter behandeling aan het personeelsdeel van de medezeggenschapsraad over te laten.     
+b. het betreft een aangelegenheid als bedoeld in artikel 38 van de Wet op het primair onderwijs, artikel 38 van de Wet op de expertisecentra en artikel 40a van de Wet op het voortgezet onderwijs, voor zover het in deze artikelen bedoelde overleg niet besluit de aangelegenheid ter behandeling aan het personeelsdeel van de medezeggenschapsraad over te laten.     
 2.  De bevoegdheden van het deel van de medezeggenschapsraad dat uit en door het personeel is gekozen, zijn niet van toepassing, voor zover de desbetreffende aangelegenheid voor de school reeds inhoudelijk is geregeld in een collectieve arbeidsovereenkomst.  
 
 ### Artikel  19  
@@ -413,10 +413,10 @@ De artikelen 15, 17 en 18 zijn van overeenkomstige toepassing op de gemeenschapp
 ####Specifieke inrichting medezeggenschapsstructuur
 
 1.  Op verzoek van de medezeggenschapsraad en met instemming van het bevoegd gezag kan met instemming van twee derden van de leden van de medezeggenschapsraad een deelraad worden verbonden aan een deel van een school. De deelraad treedt in dat geval in de bevoegdheden van de medezeggenschapsraad voor zover uitoefening van die bevoegdheden geen betrekking heeft op een ander deel van de school.   
-2.  Op verzoek van de gemeenschappelijke medezeggenschapsraad en met instemming van het bevoegd gezag kan met instemming van twee derden van de leden van de gemeenschappelijke medezeggenschapsraad een groepsmedezeggenschapsraad worden verbonden aan een groep van scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) afzonderlijk. De groepsmedezeggenschapsraad treedt in dat geval in de bevoegdheden van de gemeenschappelijke medezeggenschapsraad, behoudens de bevoegdheden, bedoeld in artikel 16, tweede en derde lid.   
+2.  Op verzoek van de gemeenschappelijke medezeggenschapsraad en met instemming van het bevoegd gezag kan met instemming van twee derden van de leden van de gemeenschappelijke medezeggenschapsraad een groepsmedezeggenschapsraad worden verbonden aan een groep van scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs afzonderlijk. De groepsmedezeggenschapsraad treedt in dat geval in de bevoegdheden van de gemeenschappelijke medezeggenschapsraad, behoudens de bevoegdheden, bedoeld in artikel 16, tweede en derde lid.   
 3.  De artikelen 3, 23 en 24 zijn van overeenkomstige toepassing op de deelraad, bedoeld in het eerste lid, en de groepsmedezeggenschapsraad, bedoeld in het tweede lid.   
 4.  De medezeggenschapsraad en de gemeenschappelijke medezeggenschapsraad kunnen met instemming van het bevoegd gezag en met instemming van twee derden van de leden van de medezeggenschapsraad of de gemeenschappelijke medezeggenschapsraad voor een of meer van de aangelegenheden, bedoeld in artikel 10 en artikel 11 dan wel artikel 16, een themaraad instellen.   
-5.  Indien van elk bevoegd gezag van scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), of de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) de gemeenschappelijke medezeggenschapsraden dan wel bij het ontbreken van een gemeenschappelijke medezeggenschapsraad alle medezeggenschapsraden, daarmee instemmen kan een bovenbestuurlijke medezeggenschapsraad worden ingesteld.  
+5.  Indien van elk bevoegd gezag van scholen als bedoeld in de Wet op het primair onderwijs, of de Wet op de expertisecentra of de Wet op het voortgezet onderwijs de gemeenschappelijke medezeggenschapsraden dan wel bij het ontbreken van een gemeenschappelijke medezeggenschapsraad alle medezeggenschapsraden, daarmee instemmen kan een bovenbestuurlijke medezeggenschapsraad worden ingesteld.  
 
 ### Artikel  21  
 
@@ -481,7 +481,7 @@ k. de procedure voor de beslechting van die geschillen tussen het bevoegd gezag 
 3.  In het reglement kan tevens worden geregeld dat door het bevoegd gezag te nemen besluiten met betrekking tot nader in het reglement te omschrijven aangelegenheden die niet reeds in de wet worden genoemd, instemming dan wel advies behoeven als bedoeld in de artikelen 10, 11, 12, 13 of 14.   
 4.  In het reglement kan voorts worden geregeld: 
 
-a. de voorwaarde dat leerlingen, die tot de school zijn toegelaten met toepassing van [artikel 58, eerste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 60, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 48, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), alsmede hun ouders, slechts kandidaat kunnen worden gesteld voor verkiezing tot lid van de medezeggenschapsraad, indien zij hebben verklaard de grondslag en de doelstellingen van de school te respecteren;  
+a. de voorwaarde dat leerlingen, die tot de school zijn toegelaten met toepassing van artikel 58, eerste lid, van de Wet op het primair onderwijs, artikel 60, eerste lid, van de Wet op de expertisecentra of artikel 48, eerste lid, van de Wet op het voortgezet onderwijs, alsmede hun ouders, slechts kandidaat kunnen worden gesteld voor verkiezing tot lid van de medezeggenschapsraad, indien zij hebben verklaard de grondslag en de doelstellingen van de school te respecteren;  
 
 b. over welke aangelegenheden op grond van artikel 6, derde lid, wordt overlegd met elk van de geledingen afzonderlijk.     
 5.  De voorwaarde, bedoeld in het vierde lid, onderdeel a, kan slechts worden toegepast, indien zij door of namens het bevoegd gezag voorafgaand aan de toelating aan de betrokkenen bekend is gemaakt.  
@@ -528,7 +528,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 ####Bepalingen van overeenkomstige toepassing op ondersteuningsplanraad
 
-De artikelen 21, 22, 23, 24, eerste lid, en 28 zijn van overeenkomstige toepassing op de ondersteuningsplanraad. 
+De artikelen 21, 22, 23, 24, eerste lid, 28 en 29 zijn van overeenkomstige toepassing op de ondersteuningsplanraad, met dien verstande dat artikel 29 van toepassing is indien ten minste tweederde van het aantal scholen in het samenwerkingsverband gebruik maakt van de in dat artikel genoemde mogelijkheid. 
 
 ### Hoofdstuk  5  
 
@@ -595,7 +595,7 @@ Op een verzoek als bedoeld in artikel 31, onderdeel d, doet de commissie de bind
 3.  Van een uitspraak van de commissie op grond van de artikelen 32, 33, 34 en 35 staat beroep open bij de ondernemingskamer van het gerechtshof Amsterdam. Het beroep wordt ingediend bij beroepschrift binnen een maand nadat de medezeggenschapsraad dan wel het bevoegd gezag van de in het eerste lid bedoelde uitspraak op de hoogte is gesteld. De wederpartij wordt van het beroep in kennis gesteld.   
 4.  Het beroep kan uitsluitend worden ingesteld ter zake dat de commissie een onjuiste toepassing heeft gegeven aan het bepaalde in de wet.   
 5.  Tegen een uitspraak van de ondernemingskamer kan geen beroep in cassatie worden ingesteld.   
-6.  In afwijking van [artikel 237 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [artikel 8:75 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad, een geleding onderscheidenlijk een raad als bedoeld in artikel 20 niet in de proceskosten worden veroordeeld.  
+6.  In afwijking van artikel 237 van het Wetboek van Burgerlijke Rechtsvordering en artikel 8:75 van de Algemene wet bestuursrecht kan de medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad, een geleding onderscheidenlijk een raad als bedoeld in artikel 20 niet in de proceskosten worden veroordeeld.  
 
 ### Artikel  37  
 
@@ -611,14 +611,14 @@ De artikelen 31, 32, 33, 34, 35 en 36 zijn van overeenkomstige toepassing op de 
 
 ####Inhouding bekostiging
 
-1.  Indien het bevoegd gezag van een school of een regionaal expertisecentrum de bij of krachtens deze wet gegeven voorschriften niet nakomt, kan Onze Minister besluiten dat de bekostiging uit de openbare kas geheel of gedeeltelijk wordt ingehouden of opgeschort.   
+1.  Indien het bevoegd gezag van een school of een samenwerkingsverband de bij of krachtens deze wet gegeven voorschriften niet nakomt, kan Onze Minister besluiten dat de bekostiging uit de openbare kas geheel of gedeeltelijk wordt ingehouden of opgeschort.   
 2.  De bekostiging wordt wederom toegekend, indien Onze Minister blijkt, dat de reden voor de toepassing van het eerste lid is vervallen.  
 
 ### Artikel  39  
 
 ####Wet op de ondernemingsraden
 
-De [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) is niet van toepassing op de scholen, regionale expertisecentra en centrale diensten in de zin van deze wet. 
+De Wet op de ondernemingsraden is niet van toepassing op de scholen, samenwerkingsverbanden en centrale diensten in de zin van deze wet. 
 
 ### Hoofdstuk  7  
 
@@ -626,30 +626,30 @@ De [Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsrad
 
 ### Artikel  40  
 
-####Niet langer van toepassing zijn [WMO 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md); [Besluit medezeggenschap onderwijs](../../../../../../AMvB/besluit/medezeggenschap/onderwijs/BWBR0003710/README.md)
+####Niet langer van toepassing zijn WMO 1992; Besluit medezeggenschap onderwijs
 
-1.  De [Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) is niet van toepassing op scholen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Experimentenwet onderwijs](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md).   
-2.  Het [Besluit medezeggenschap onderwijs](../../../../../../AMvB/besluit/medezeggenschap/onderwijs/BWBR0003710/README.md) blijft van kracht totdat de algemene maatregel van bestuur op grond van artikel 27 tot stand is gekomen. Het geldt tot dat tijdstip als besluit, gebaseerd op artikel 27 van deze wet.  
+1.  De Wet medezeggenschap onderwijs 1992 is niet van toepassing op scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs en de Experimentenwet onderwijs.   
+2.  Het Besluit medezeggenschap onderwijs blijft van kracht totdat de algemene maatregel van bestuur op grond van artikel 27 tot stand is gekomen. Het geldt tot dat tijdstip als besluit, gebaseerd op artikel 27 van deze wet.  
 
 ### Artikel  41  
 
 ####Overgangsrecht medezeggenschapreglement en medezeggenschapsstatuut
 
 1.  Binnen 4 maanden na de inwerkingtreding van deze wet legt het bevoegd gezag een voorstel van het reglement, bedoeld in artikel 23 en 26, en van het medezeggenschapsstatuut, bedoeld in artikel 21, voor aan de medezeggenschapsraad respectievelijk de gemeenschappelijke medezeggenschapsraad. De medezeggenschapsraad respectievelijk de gemeenschappelijke medezeggenschapsraad spreekt zich binnen 4 maanden uit over de voorstellen.   
-2.  Het medezeggenschapsreglement, bedoeld in de [Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md), vervalt met ingang van 1 augustus van het tweede jaar volgend op de datum van inwerkingtreding van deze wet, indien het bevoegd gezag niet met instemming van de medezeggenschapsraad respectievelijk de gemeenschappelijke medezeggenschapsraad bepaalt dat het geheel of gedeeltelijk op een eerder tijdstip vervalt.  
+2.  Het medezeggenschapsreglement, bedoeld in de Wet medezeggenschap onderwijs 1992, vervalt met ingang van 1 augustus van het tweede jaar volgend op de datum van inwerkingtreding van deze wet, indien het bevoegd gezag niet met instemming van de medezeggenschapsraad respectievelijk de gemeenschappelijke medezeggenschapsraad bepaalt dat het geheel of gedeeltelijk op een eerder tijdstip vervalt.  
 
 ### Artikel  42  
 
-####Geldigheidsduur ontheffing/toestemming op grond van [art. 31 WMO 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md)
+####Geldigheidsduur ontheffing/toestemming op grond van art. 31 WMO 1992
 
-Tot 1 augustus 2009 of zoveel eerder als de mededeling, bedoeld in [artikel 31, derde lid, van de Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) zoals dat luidde op de datum voor de inwerkingtreding van deze wet, zou moeten worden gedaan, gelden een ontheffing en een toestemming die zijn verleend op grond van [artikel 31 van de Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) als een ontheffing van de voorschriften van deze wet respectievelijk een toestemming voor het kiezen van de leden, bedoeld in artikel 3, derde lid, onderdeel b, onder 2° en 3° uit de ouders. [Artikel 31, tweede lid, van de Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) zoals dat luidde op de datum voor de inwerkingtreding van deze wet blijft van toepassing op de ontheffing dan wel toestemming. 
+Tot 1 augustus 2009 of zoveel eerder als de mededeling, bedoeld in artikel 31, derde lid, van de Wet medezeggenschap onderwijs 1992 zoals dat luidde op de datum voor de inwerkingtreding van deze wet, zou moeten worden gedaan, gelden een ontheffing en een toestemming die zijn verleend op grond van artikel 31 van de Wet medezeggenschap onderwijs 1992 als een ontheffing van de voorschriften van deze wet respectievelijk een toestemming voor het kiezen van de leden, bedoeld in artikel 3, derde lid, onderdeel b, onder 2° en 3° uit de ouders. Artikel 31, tweede lid, van de Wet medezeggenschap onderwijs 1992 zoals dat luidde op de datum voor de inwerkingtreding van deze wet blijft van toepassing op de ontheffing dan wel toestemming. 
 
 ### Artikel  43  
 
 ####Aantreden nieuwe commissie; beslissing aanhangige geschillen
 
-1.  Tot een jaar na de inwerkingtreding van deze wet worden geschillen op grond van deze wet, in afwijking van artikel 30, beslist door de commissies voor geschillen, bedoeld in de [Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md).   
-2.  De op de dag voor de datum van inwerkingtreding van deze wet nog niet besliste geschillen, door het bevoegd gezag van een school voorgelegd aan een commissie voor geschillen als bedoeld in de [Wet medezeggenschap onderwijs 1992](../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md), gelden met ingang van de datum van inwerkingtreding van deze wet als geschillen die krachtens deze wet aanhangig zijn.   
+1.  Tot een jaar na de inwerkingtreding van deze wet worden geschillen op grond van deze wet, in afwijking van artikel 30, beslist door de commissies voor geschillen, bedoeld in de Wet medezeggenschap onderwijs 1992.   
+2.  De op de dag voor de datum van inwerkingtreding van deze wet nog niet besliste geschillen, door het bevoegd gezag van een school voorgelegd aan een commissie voor geschillen als bedoeld in de Wet medezeggenschap onderwijs 1992, gelden met ingang van de datum van inwerkingtreding van deze wet als geschillen die krachtens deze wet aanhangig zijn.   
 3.  Een jaar na de inwerkingtreding van deze wet dragen de commissies, bedoeld in het eerste lid, de onder hen berustende dossiers terstond over aan de landelijke commissie voor geschillen bedoeld in artikel 30.  
 
 ### Artikel  44  

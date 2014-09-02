@@ -9,14 +9,17 @@ Gelet op artikel 402a van Boek 1 van het Burgerlijk Wetboek en de Wet van 22 dec
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-04-1985 
 
 Het percentage, bedoeld in artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek, waarmede bedragen voor levensonderhoud met ingang van 1 april 1983 worden verhoogd, wordt vastgesteld op 6,4. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-04-1985 
 
 Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Nederlandse Staatscourant. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-04-1985 
 
 Deze beschikking kan worden aangehaald als: Beschikking wijziging-percentage levensonderhoud 1983. 
 

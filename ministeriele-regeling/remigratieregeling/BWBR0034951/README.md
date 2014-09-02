@@ -3,30 +3,26 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 maart 2014, 2014-0000033986, tot vaststelling van nadere regels omtrent de uitvoering van de Remigratiewet en het Remigratiebesluit (Remigratieregeling)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 2a, vijfde lid](../../../wet/remigratiewet/BWBR0010424/README.md), [2b, vijfde lid](../../../wet/remigratiewet/BWBR0010424/README.md), [8a, tweede lid](../../../wet/remigratiewet/BWBR0010424/README.md), en [8h, tweede lid van de Remigratiewet](../../../wet/remigratiewet/BWBR0010424/README.md) en de [artikelen 2, eerste lid](../../../AMvB/remigratiebesluit/BWBR0034905/README.md), en [5, eerste lid, van het Remigratiebesluit](../../../AMvB/remigratiebesluit/BWBR0034905/README.md);
+Gelet op de artikelen 2a, vijfde lid, 2b, vijfde lid, 8a, tweede lid, en 8h, tweede lid van de Remigratiewet en de artikelen 2, eerste lid, en 5, eerste lid, van het Remigratiebesluit;
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 01-07-2014 
 
-In deze regeling wordt verstaan onder besluit: [Remigratiebesluit](../../../AMvB/remigratiebesluit/BWBR0034905/README.md). 
+In deze regeling wordt verstaan onder besluit: Remigratiebesluit. 
 
 ### Artikel  2  
-Treedt in werking per 01-07-2014 
 
-De verklaring, bedoeld in [artikel 2, onderdeel b, van de wet](../../../wet/remigratiewet/BWBR0010424/README.md), wordt gedaan door indiening van een volledig ingevuld en ondertekend formulier dat daartoe door de Sociale verzekeringsbank beschikbaar wordt gesteld. 
+De verklaring, bedoeld in artikel 2, onderdeel b, van de wet, wordt gedaan door indiening van een volledig ingevuld en ondertekend formulier dat daartoe door de Sociale verzekeringsbank beschikbaar wordt gesteld. 
 
 ### Artikel  3  
-Treedt in werking per 01-07-2014 
 
-De jaarlijkse informatie over de voortgang van de behandeling van het verzoek van de remigrant tot verkrijging van de nationaliteit van het bestemmingsland als bedoeld in [artikel 2a, derde lid, van de wet](../../../wet/remigratiewet/BWBR0010424/README.md), wordt schriftelijk en ondertekend ingediend bij de Sociale verzekeringsbank. 
+De jaarlijkse informatie over de voortgang van de behandeling van het verzoek van de remigrant tot verkrijging van de nationaliteit van het bestemmingsland als bedoeld in artikel 2a, derde lid, van de wet, wordt schriftelijk en ondertekend ingediend bij de Sociale verzekeringsbank. 
 
 ### Artikel  4  
-Treedt in werking per 01-07-2014 
 
-1.  Tot de categorie van vreemdelingen, bedoeld in [artikel 2b, vijfde lid, van de wet](../../../wet/remigratiewet/BWBR0010424/README.md), behoort: 
+1.  Tot de categorie van vreemdelingen, bedoeld in artikel 2b, vijfde lid, van de wet, behoort: 
 
-1°. de vreemdeling aan wie een verblijfsvergunning voor bepaalde tijd is verleend als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking die samenhangt met: 
+1°. de vreemdeling aan wie een verblijfsvergunning voor bepaalde tijd is verleend als bedoeld in artikel 14 van de Vreemdelingenwet 2000 onder een beperking die samenhangt met: 
 
 a. uitwisseling, al dan niet in het kader van een verdrag;  
 
@@ -56,7 +52,7 @@ m. verblijf als familie- of gezinslid bij een persoon die voor een tijdelijk doe
 
 n. medische behandeling;  
 
-o. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+o. het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap;  
 
 p. tijdelijke humanitaire gronden;  
 
@@ -66,56 +62,48 @@ r. het afwachten van herstel en hervatting van de arbeid in loondienst aan boord
 
 s. het afwachten van herstel van medische behandeling;    
 
-2°. de vreemdeling van wie het verblijfsrecht op grond van [artikel 3.4, derde lid, van het Vreemdelingenbesluit 2000](../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) tijdelijk is in de zin van [artikel 2b, eerste lid, onder h, van de Remigratiewet](../../../wet/remigratiewet/BWBR0010424/README.md), indien het als tijdelijk is aangemerkt met toepassing van [artikel 3.5, vierde lid, van het Vreemdelingenbesluit 2000](../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).     
-2.  Tot de categorie vreemdelingen, bedoeld in [artikel 2b, vijfde lid, van de wet](../../../wet/remigratiewet/BWBR0010424/README.md), behoren tevens de partner van de vreemdeling, bedoeld in het eerste lid, en hun kinderen, die met de vreemdeling naar Nederland zijn gekomen of die naar Nederland zijn gekomen om zich bij de vreemdeling te voegen.   
-3.  Onder verblijf voor het verrichten van arbeid in loondienst als bedoeld in het eerste lid, onderdeel e, wordt het verblijf verstaan van de vreemdeling ten behoeve van wiens tewerkstelling over een geldige tewerkstellingsvergunning als bedoeld in [artikel 2 van de Wet arbeid vreemdelingen](../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) dient te worden beschikt.   
-4.  Onder verblijf voor het verrichten van arbeid als zelfstandige als bedoeld in het eerste lid, onderdeel k, wordt het verblijf verstaan van de vreemdeling, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Wet arbeid vreemdelingen](../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md).  
+2°. de vreemdeling van wie het verblijfsrecht op grond van artikel 3.4, derde lid, van het Vreemdelingenbesluit 2000 tijdelijk is in de zin van artikel 2b, eerste lid, onder h, van de Remigratiewet, indien het als tijdelijk is aangemerkt met toepassing van artikel 3.5, vierde lid, van het Vreemdelingenbesluit 2000.     
+2.  Tot de categorie vreemdelingen, bedoeld in artikel 2b, vijfde lid, van de wet, behoren tevens de partner van de vreemdeling, bedoeld in het eerste lid, en hun kinderen, die met de vreemdeling naar Nederland zijn gekomen of die naar Nederland zijn gekomen om zich bij de vreemdeling te voegen.   
+3.  Onder verblijf voor het verrichten van arbeid in loondienst als bedoeld in het eerste lid, onderdeel e, wordt het verblijf verstaan van de vreemdeling ten behoeve van wiens tewerkstelling over een geldige tewerkstellingsvergunning als bedoeld in artikel 2 van de Wet arbeid vreemdelingen dient te worden beschikt.   
+4.  Onder verblijf voor het verrichten van arbeid als zelfstandige als bedoeld in het eerste lid, onderdeel k, wordt het verblijf verstaan van de vreemdeling, bedoeld in artikel 3, eerste lid, onderdeel b, van de Wet arbeid vreemdelingen.  
 
 ### Artikel  5  
-Treedt in werking per 01-07-2014 
 
-De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2 van het besluit](../../../AMvB/remigratiebesluit/BWBR0034905/README.md), wordt vastgesteld op basis van de bedragen genoemd in bijlage 2, die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in bijlage 1. 
+De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in artikel 2 van het besluit, wordt vastgesteld op basis van de bedragen genoemd in bijlage 2, die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in bijlage 1. 
 
 ### Artikel  6  
-Treedt in werking per 01-07-2014 
 
-De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in [artikel 5, eerste lid, van het besluit](../../../AMvB/remigratiebesluit/BWBR0034905/README.md), wordt vastgesteld op basis van de bedragen genoemd in bijlage 3, die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in bijlage 1. 
+De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in artikel 5, eerste lid, van het besluit, wordt vastgesteld op basis van de bedragen genoemd in bijlage 3, die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in bijlage 1. 
 
 ### Artikel  7  
-Treedt in werking per 01-07-2014 
 
-1.  De uitvoering door de Sociale verzekeringbank van de wet, bedoeld in [artikel 8a van de wet](../../../wet/remigratiewet/BWBR0010424/README.md), omvat in elk geval: 
+1.  De uitvoering door de Sociale verzekeringbank van de wet, bedoeld in artikel 8a van de wet, omvat in elk geval: 
 
-a. het geven van beschikkingen en het verrichten van overige rechtshandelingen en feitelijke handelingen ter uitvoering van de [wet](../../../wet/remigratiewet/BWBR0010424/README.md) en de daarop berustende bepalingen;  
+a. het geven van beschikkingen en het verrichten van overige rechtshandelingen en feitelijke handelingen ter uitvoering van de wet en de daarop berustende bepalingen;  
 
-b. het Rijk behulpzaam zijn bij het innen van de vergoedingen die het Algemeen Werkloosheidsfonds in geval van remigratie op grond van [artikel 102 van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) aan het Rijk verschuldigd is, hetgeen in elk geval omvat het verschaffen van de informatie die noodzakelijk is voor het opstellen van de declaratie;  
+b. het Rijk behulpzaam zijn bij het innen van de vergoedingen die het Algemeen Werkloosheidsfonds in geval van remigratie op grond van artikel 102 van de Wet financiering sociale verzekeringen aan het Rijk verschuldigd is, hetgeen in elk geval omvat het verschaffen van de informatie die noodzakelijk is voor het opstellen van de declaratie;  
 
 c. het uitbrengen van informatie en formulieren die verband houden met het aanvragen van de remigratievoorzieningen.     
 2.  Over de inhoud en de uitgave van informatie en formulieren, bedoeld in het eerste lid, onderdeel c, vindt periodiek overleg plaats tussen de Sociale verzekeringsbank, het Nederlands Migratie Instituut en het Ministerie van Sociale Zaken en Werkgelegenheid.  
 
 ### Artikel  8  
-Treedt in werking per 01-07-2014 
 
 Op verzoek van de minister verstrekt de Sociale verzekeringsbank overeenkomstig de door hem gestelde eisen en binnen de door hem gestelde termijn alle gevraagde inlichtingen, gegevens en bescheiden, die hij voor de uitoefening van zijn taak in verband met de wet nodig acht. 
 
 ### Artikel  9  
-Treedt in werking per 01-07-2014 
 
-1.  In dit artikel wordt onder basisvoorzieningen verstaan de vergoedingen, bedoeld in [artikel 3, eerste en tweede lid, van de wet](../../../wet/remigratiewet/BWBR0010424/README.md) zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van deze regeling.   
-2.  De [artikelen 2](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md), [3](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md), [4](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md) en [5 van de Regeling vaststelling bedragen Remigratiewet](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md), alsmede de [bijlagen 1](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md) en [2 bij die regeling](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md), zoals die luidden op de dag voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op personen die voor het tijdstip van de inwerkingtreding van deze regeling een ontvankelijke aanvraag tot toekenning van de basisvoorzieningen in de zin van de genoemde artikelen bij de Sociale verzekeringsbank hebben ingediend.  
+1.  In dit artikel wordt onder basisvoorzieningen verstaan de vergoedingen, bedoeld in artikel 3, eerste en tweede lid, van de wet zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van deze regeling.   
+2.  De artikelen 2, 3, 4 en 5 van de Regeling vaststelling bedragen Remigratiewet, alsmede de bijlagen 1 en 2 bij die regeling, zoals die luidden op de dag voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op personen die voor het tijdstip van de inwerkingtreding van deze regeling een ontvankelijke aanvraag tot toekenning van de basisvoorzieningen in de zin van de genoemde artikelen bij de Sociale verzekeringsbank hebben ingediend.  
 
 ### Artikel  10  
-Treedt in werking per 01-07-2014 
 
-De [Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel](../../../ministeriele-regeling/regeling/aanwijzing/vreemdelingen/wegens/verblijf/voor/een/tijdelijk/doel/BWBR0011235/README.md), de [Regeling vaststelling bedragen Remigratiewet](../../../ministeriele-regeling/regeling/vaststelling/bedragen/remigratiewet/BWBR0011214/README.md) en de [Regeling uitvoering en informatieverstrekking Sociale verzekeringsbank](../../../ministeriele-regeling/regeling/uitvoering/en/informatieverstrekking/sociale/verzekeringsbank/BWBR0011225/README.md) worden ingetrokken. 
+De Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel, de Regeling vaststelling bedragen Remigratiewet en de Regeling uitvoering en informatieverstrekking Sociale verzekeringsbank worden ingetrokken. 
 
 ### Artikel  11  
-Treedt in werking per 01-07-2014 
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet)](../../../wet/wijzigingswet/remigratiewet/(heroverweging/remigratiewet)/BWBR0033774/README.md) (Stb. 2013, 331) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet) (Stb. 2013, 331) in werking treedt. 
 
 ### Artikel  12  
-Treedt in werking per 01-07-2014 
 
 Deze regeling wordt aangehaald als: Remigratieregeling. 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.   
@@ -130,8 +118,6 @@ L.F. Asscher.
 ### Bijlage 1 
 
 #### behorend bij de artikelen 5  en 6 
-
-Treedt in werking per 01-07-2014 
 
 ####Indeling bestemmingslanden in categorieën
 
@@ -155,6 +141,7 @@ Treedt in werking per 01-07-2014
 | Chili  | E  |
 | China  | E  |
 | Colombia  | D  |
+|Congo |D |
 | Cuba  | D  |
 | Denemarken  | C  |
 | Duitsland  | C  |
@@ -215,6 +202,7 @@ Treedt in werking per 01-07-2014
 | Tanzania  | D  |
 | Thailand  | D  |
 | Togo  | D  |
+|Tsjaad |D |
 | Tsjechië  | J  |
 | Tunesië  | B  |
 | Turkije  | A  |
@@ -230,8 +218,6 @@ Treedt in werking per 01-07-2014
 ### Bijlage 2 
 
 #### behorend bij artikel 5 
-
-Treedt in werking per 01-07-2014 
 
 ####Vaststelling bedragen remigratie-uitkering per categorie van bestemmingslanden op basis van de indeling in bijlage 1  bij deze regeling
 
@@ -282,8 +268,6 @@ Treedt in werking per 01-07-2014
 ### Bijlage 3 
 
 #### behorend bij artikel 6 
-
-Treedt in werking per 01-07-2014 
 
 ####Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in bijlage 1  bij deze regeling
 

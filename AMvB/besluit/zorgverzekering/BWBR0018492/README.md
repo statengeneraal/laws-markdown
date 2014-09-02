@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 22 april 2005, kenmerk Z/VV-2577868;
 
-Gelet op de [artikelen 11, derde en vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [20](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [22, vijfde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [32, tweede en derde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [34, derde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en [89, vijfde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);
+Gelet op de artikelen 11, derde en vierde lid, 20, 22, vijfde lid, 32, tweede en derde lid, 34, derde lid, en 89, vijfde lid, van de Zorgverzekeringswet;
 
 De Raad van State gehoord (advies van 20 juni 2005, nr. W13.05.0153/III);
 
@@ -20,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *wet:* de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+a.  *wet:* de Zorgverzekeringswet;  
 
 b.  *verblijf:* verblijf gedurende het etmaal;  
 
-c.  *eigen bijdrage:* een eigen bijdrage als bedoeld in [artikel 11, derde lid van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+c.  *eigen bijdrage:* een eigen bijdrage als bedoeld in artikel 11, derde lid van de wet;  
 
-d. *geregistreerd geneesmiddel:* een geneesmiddel waarvoor een handelsvergunning of parallelhandelsvergunning is verleend krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) dan wel krachtens de verordening, bedoeld in [artikel 1, eerste lid, onder fff, van die wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+d. *geregistreerd geneesmiddel:* een geneesmiddel waarvoor een handelsvergunning of parallelhandelsvergunning is verleend krachtens de Geneesmiddelenwet dan wel krachtens de verordening, bedoeld in artikel 1, eerste lid, onder fff, van die wet;  
 
 e.  *in-vitrofertilisatiepoging:* zorg volgens de in-vitrofertilisatiemethode, inhoudende: 
 
@@ -38,7 +38,7 @@ e.  *in-vitrofertilisatiepoging:* zorg volgens de in-vitrofertilisatiemethode, i
 
 4°. het een of meer keren implanteren van een of twee embryo's in de baarmoederholte teneinde zwangerschap te doen ontstaan;    
 
-f.  *vereveningsbijdrage:* de bijdrage, bedoeld in [paragraaf 4.2 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+f.  *vereveningsbijdrage:* de bijdrage, bedoeld in paragraaf 4.2 van de wet;  
 
 g.  *vereveningsjaar:* het kalenderjaar waarop een vereveningsbijdrage betrekking heeft;  
 
@@ -100,15 +100,15 @@ ee.  *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunn
 
 ### Artikel  2.1  
 
-1.  De zorg en overige diensten, bedoeld in [artikel 11, eerste lid, onderdeel a, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de artikelen 2.4 tot en met 2.15.   
+1.  De zorg en overige diensten, bedoeld in artikel 11, eerste lid, onderdeel a, van de wet omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de artikelen 2.4 tot en met 2.15.   
 2.  De inhoud en omvang van de vormen van zorg of diensten worden mede bepaald door de stand van de wetenschap en praktijk en, bij ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.   
 3.  Onverminderd hetgeen is bepaald in de artikelen 2.4 tot en met 2.15, heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.  
-4. Onder de zorg en overige diensten, bedoeld in het eerste lid, valt niet forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md). 
+4. Onder de zorg en overige diensten, bedoeld in het eerste lid, valt niet forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg. 
 5.  In afwijking van het tweede lid vallen onder de zorg en overige diensten, bedoeld in artikel 2.4 of 2.8, ook de zorg en diensten die bij ministeriële regeling zijn aangewezen onder de daarbij geregelde voorwaarden en gedurende een daarbij aan te geven termijn van maximaal vier jaar, voor zover er sprake is van verantwoorde zorg en diensten. 
 
 ### Artikel  2.2  
 
-1.  De vergoeding van kosten, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) omvat de kosten die de verzekerde heeft gemaakt voor zorg of overige diensten zoals die naar inhoud en omvang zijn omschreven in de artikelen 2.4 tot en met 2.15.   
+1.  De vergoeding van kosten, bedoeld in artikel 11, eerste lid, onderdeel b, van de wet omvat de kosten die de verzekerde heeft gemaakt voor zorg of overige diensten zoals die naar inhoud en omvang zijn omschreven in de artikelen 2.4 tot en met 2.15.   
 2.  Bij het bepalen van de vergoeding worden in mindering gebracht: 
 
 a. hetgeen de verzekerde als eigen bijdrage had moeten betalen indien hij krachtens de zorgverzekering recht zou hebben op prestaties bestaande uit zorg of overige diensten;  
@@ -117,9 +117,9 @@ b. de kosten die hoger zijn dan in de Nederlandse marktomstandigheden in redelij
 
 ### Artikel  2.3  
 
-1. Indien de behoefte aan zorg of een andere dienst het gevolg is van een of meer terroristische handelingen en de totale schade die in een kalenderjaar ten gevolge van dergelijke handelingen bij schade-, levens- of natura-uitvaartverzekeraars waarop de [Wet financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is, zal worden gedeclareerd, naar verwachting van de Nederlandse Herverzekeringsmaatschappij voor Terrorismeschaden N.V. hoger zal zijn dan het door die maatschappij herverzekerde maximumbedrag per kalenderjaar, heeft de verzekerde slechts recht op prestaties tot een door die maatschappij te bepalen, voor alle verzekeringen gelijk percentage van de kosten of waarde van de zorg of overige diensten. 
+1. Indien de behoefte aan zorg of een andere dienst het gevolg is van een of meer terroristische handelingen en de totale schade die in een kalenderjaar ten gevolge van dergelijke handelingen bij schade-, levens- of natura-uitvaartverzekeraars waarop de Wet financieel toezicht van toepassing is, zal worden gedeclareerd, naar verwachting van de Nederlandse Herverzekeringsmaatschappij voor Terrorismeschaden N.V. hoger zal zijn dan het door die maatschappij herverzekerde maximumbedrag per kalenderjaar, heeft de verzekerde slechts recht op prestaties tot een door die maatschappij te bepalen, voor alle verzekeringen gelijk percentage van de kosten of waarde van de zorg of overige diensten. 
 2. Het eerste lid geldt slechts indien de zorgverzekeraar waarbij de verzekerde zijn zorgverzekering heeft, zijn verplichtingen die in geval van terroristische handelingen uit de zorgverzekering voortvloeien, heeft herverzekerd bij de Nederlandse Herverzekeringsmaatschappij voor Terrorismeschaden N.V. 
-3. Indien na een terroristische handeling op grond van [artikel 33 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of artikel 3.23 van dit besluit een aanvullende bijdrage ter beschikking wordt gesteld, heeft de verzekerde in aanvulling op de prestaties, bedoeld in het eerste lid, recht op prestaties van een bij de regeling, bedoeld in [artikel 33 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of artikel 3.23 van dit besluit, te bepalen omvang.
+3. Indien na een terroristische handeling op grond van artikel 33 van de wet of artikel 3.23 van dit besluit een aanvullende bijdrage ter beschikking wordt gesteld, heeft de verzekerde in aanvulling op de prestaties, bedoeld in het eerste lid, recht op prestaties van een bij de regeling, bedoeld in artikel 33 van de wet of artikel 3.23 van dit besluit, te bepalen omvang.
 
 ### Artikel  2.4  
 
@@ -195,7 +195,7 @@ e.in 2013: op of na het bereiken van de dertienjarige leeftijd.
 1.  Geriatrische revalidatie omvat integrale en multidisciplinaire revalidatiezorg zoals specialisten ouderengeneeskunde die plegen te bieden in verband met kwetsbaarheid, complexe multimorbiditeit en afgenomen leer- en trainbaarheid, gericht op het dusdanig verminderen van de functionele beperkingen van de verzekerde dat terugkeer naar de thuissituatie mogelijk is.   
 2.  De geriatrische revalidatie valt slechts onder de zorg, bedoeld in het eerste lid, indien: 
 
-a. de zorg aansluit op verblijf als bedoeld in artikel 2.10 in verband met geneeskundige zorg zoals medisch-specialisten die plegen te bieden, waarbij dat verblijf niet vooraf is gegaan aan verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) gepaard gaande met behandeling als bedoeld in [artikel 8 van dat besluit](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) in dezelfde instelling, en  
+a. de zorg aansluit op verblijf als bedoeld in artikel 2.10 in verband met geneeskundige zorg zoals medisch-specialisten die plegen te bieden, waarbij dat verblijf niet vooraf is gegaan aan verblijf als bedoeld in artikel 9 van het Besluit zorgaanspraken AWBZ gepaard gaande met behandeling als bedoeld in artikel 8 van dat besluit in dezelfde instelling, en  
 
 b. de zorg bij aanvang gepaard gaat met verblijf als bedoeld in artikel 2.10.     
 3.  De duur van de geriatrische revalidatie, bedoeld in het tweede lid, bedraagt maximaal zes maanden. In bijzondere gevallen kan de zorgverzekeraar een langere periode toestaan.  
@@ -264,11 +264,11 @@ a.de bij ministeriële regeling aangewezen geregistreerde geneesmiddelen voor zo
 
 b.mits het rationele farmacotherapie betreft, geneesmiddelen als bedoeld in:
 
-1°.[artikel 40, derde lid, onder a, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md),
+1°.artikel 40, derde lid, onder a, van de Geneesmiddelenwet,
 
-2°.[artikel 40, derde lid, onder c, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), die op verzoek van een arts als bedoeld in die bepaling, in Nederland zijn bereid door een fabrikant als bedoeld in [artikel 1, eerste lid, onder mm, van die wet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), of
+2°.artikel 40, derde lid, onder c, van de Geneesmiddelenwet, die op verzoek van een arts als bedoeld in die bepaling, in Nederland zijn bereid door een fabrikant als bedoeld in artikel 1, eerste lid, onder mm, van die wet, of
 
-3°.[artikel 40, derde lid, onder c, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), die in de handel zijn in een andere lidstaat of in een derde land en op verzoek van een arts als bedoeld in die bepaling, binnen het grondgebied van Nederland worden gebracht en bestemd zijn voor een patiënt van hem die aan een ziekte lijdt die in Nederland niet vaker voorkomt dan bij 1 op de 150.000 inwoners;
+3°.artikel 40, derde lid, onder c, van de Geneesmiddelenwet, die in de handel zijn in een andere lidstaat of in een derde land en op verzoek van een arts als bedoeld in die bepaling, binnen het grondgebied van Nederland worden gebracht en bestemd zijn voor een patiënt van hem die aan een ziekte lijdt die in Nederland niet vaker voorkomt dan bij 1 op de 150.000 inwoners;
 
 c.polymere, oligomere, monomere en modulaire dieetpreparaten. 
 2. Farmaceutische zorg omvat geen:
@@ -277,11 +277,11 @@ a.farmaceutische zorg in bij ministeriële regeling aangegeven gevallen;
 
 b.geneesmiddelen in geval van ziekterisico bij reizen;
 
-c.geneesmiddelen voor onderzoek als bedoeld in [artikel 40, eerste lid, onder b, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);
+c.geneesmiddelen voor onderzoek als bedoeld in artikel 40, eerste lid, onder b, van de Geneesmiddelenwet;
 
 d.geneesmiddelen die gelijkwaardig of nagenoeg gelijkwaardig zijn aan enig niet aangewezen, geregistreerd geneesmiddel;
 
-e.geneesmiddelen als bedoeld in [artikel 40, derde lid, onder e, van de Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md).  
+e.geneesmiddelen als bedoeld in artikel 40, derde lid, onder e, van de Geneesmiddelenwet.  
 3.  De aanwijzing door de zorgverzekeraar geschiedt zodanig dat van alle werkzame stoffen die voorkomen in de bij ministeriële regeling aangewezen geneesmiddelen ten minste een geneesmiddel voor de verzekerde beschikbaar is.   
 4.  Farmaceutische zorg omvat ook een ander bij ministeriële regeling aangewezen geneesmiddel dan het door de zorgverzekeraar aangewezen geneesmiddel, voor zover behandeling met het door de zorgverzekeraar aangewezen geneesmiddel voor de verzekerde medisch niet verantwoord is.   
 5.  Bij de ministeriële regeling, bedoeld in het eerste lid, onderdeel a, worden de aangewezen geneesmiddelen zoveel mogelijk ingedeeld in groepen van onderling vervangbare geneesmiddelen. In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzing geregeld, worden regels gesteld met betrekking tot de systematiek van de indeling in groepen van onderling vervangbare geneesmiddelen en worden regels gesteld met betrekking tot de vaststelling van een vergoedingslimiet voor elke groep van onderling vervangbare geneesmiddelen.   
@@ -313,11 +313,11 @@ Naast de in artikel 2.10 bedoelde verzorging, omdat verzorging tevens zorg zoals
 
 ### Artikel  2.13  
 
-1.  Vervoer omvat ziekenvervoer per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), van de verzekerde over een afstand van maximaal 200 kilometer: 
+1.  Vervoer omvat ziekenvervoer per motorvoertuig als bedoeld in artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg, van de verzekerde over een afstand van maximaal 200 kilometer: 
 
 a. naar een persoon bij wie of een instelling waarin hij zorg zal ontvangen waarvan de kosten geheel of gedeeltelijk ten laste van de zorgverzekering komen;  
 
-b. naar een instelling waarin hij geheel of gedeeltelijk ten laste van de bijzondere ziektekostenverzekering als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) zal gaan verblijven;  
+b. naar een instelling waarin hij geheel of gedeeltelijk ten laste van de bijzondere ziektekostenverzekering als bedoeld in de Algemene Wet Bijzondere Ziektekosten zal gaan verblijven;  
 
 c. vanuit een instelling, bedoeld in onderdeel b, naar: 
 
@@ -330,7 +330,7 @@ d. naar zijn woning of een andere woning, indien hij in zijn woning redelijkerwi
 
 ### Artikel  2.14  
 
-1.  Het vervoer omvat tevens ziekenvervoer per auto, anders dan per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in artikel 2.13, eerste lid, over een enkele reisafstand van maximaal 200 kilometer voor zover: 
+1.  Het vervoer omvat tevens ziekenvervoer per auto, anders dan per motorvoertuig als bedoeld in artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg, dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in artikel 2.13, eerste lid, over een enkele reisafstand van maximaal 200 kilometer voor zover: 
 
 a. de verzekerde nierdialyses moet ondergaan;  
 
@@ -345,7 +345,7 @@ d. het gezichtsvermogen van de verzekerde zodanig is beperkt dat hij zich niet z
 
 ### Artikel  2.15  
 
-1.  De zorgverzekeraar kan toestaan dat het ziekenvervoer plaatsvindt met een ander door de zorgverzekeraar aan te geven vervoermiddel dan een motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), auto of openbaar middel van vervoer.   
+1.  De zorgverzekeraar kan toestaan dat het ziekenvervoer plaatsvindt met een ander door de zorgverzekeraar aan te geven vervoermiddel dan een motorvoertuig als bedoeld in artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg, auto of openbaar middel van vervoer.   
 2.  Het ziekenvervoer omvat tevens vervoer van een begeleider, indien begeleiding noodzakelijk is, of indien het betreft begeleiding van kinderen beneden zestien jaar. In bijzondere gevallen kan de zorgverzekeraar vervoer van twee begeleiders toestaan.  
 
 ### §  1a  
@@ -378,7 +378,7 @@ c. een bij die regeling te bepalen percentage van de kosten van het hulpmiddel.
 
 ### Artikel  2.16e  
 
-1.  De verzekerde is voor ziekenvervoer, anders dan per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), een eigen bijdrage per kalenderjaar verschuldigd.   
+1.  De verzekerde is voor ziekenvervoer, anders dan per motorvoertuig als bedoeld in artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg, een eigen bijdrage per kalenderjaar verschuldigd.   
 2.  Bij ministeriële regeling kan worden bepaald in welke situaties de eigen bijdrage niet van toepassing is.  
 
 ### Artikel  2.16f  
@@ -397,17 +397,17 @@ a. verloskundige zorg en kraamzorg,
 
 b.zorg zoals huisartsen die plegen te bieden,
 
-c.zorg die wordt bekostigd met toepassing van de op grond van de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) vastgestelde beleidsregel voor de prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen, en
+c.zorg die wordt bekostigd met toepassing van de op grond van de Wet marktordening gezondheidszorg vastgestelde beleidsregel voor de prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen, en
 
 d. nacontroles van de donor nadat de periode, bedoeld in artikel 2.5, onderdeel d, is verstreken.   
-2.  De zorgverzekeraar kan bepalen dat kosten van het gebruik van zorg en overige diensten als bedoeld in [artikel 11 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geheel of gedeeltelijk buiten het verplicht eigen risico vallen, indien: 
+2.  De zorgverzekeraar kan bepalen dat kosten van het gebruik van zorg en overige diensten als bedoeld in artikel 11 van de wet geheel of gedeeltelijk buiten het verplicht eigen risico vallen, indien: 
 
 a. de verzekerde zich wendt tot een door de zorgverzekeraar aangewezen zorgaanbieder, of  
 
 b. de verzekerde een door de zorgverzekeraar aangewezen programma heeft gevolgd met betrekking tot diabetes, depressie, hart- en vaatziekten, chronisch obstructief longlijden, overgewicht of stoppen met roken en de kosten betrekking hebben op de aandoening waarvoor de verzekerde dat programma heeft gevolgd, of  
 
 c. de verzekerde gebruik maakt van een door de zorgverzekeraar aangewezen geneesmiddel of hulpmiddel.    
-3.  De dag, bedoeld in [artikel 19, vierde lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is 31 december. 
+3.  De dag, bedoeld in artikel 19, vierde lid, van de wet, is 31 december. 
 4. In afwijking van het derde lid is de zorgverzekeraar gerechtigd het verplicht eigen risico in rekening te brengen indien het aan de verzekerde te wijten is dat de rekening niet voor de in het derde lid genoemde dag is ingediend. 
 
 ### Artikel  2.18  
@@ -415,13 +415,13 @@ c. de verzekerde gebruik maakt van een door de zorgverzekeraar aangewezen genees
 1.  De kosten van inschrijving bij een huisarts of bij een instelling die huisartsenzorg verleent, vallen buiten het vrijwillig eigen risico.   
 2.  Onder kosten van inschrijving worden verstaan: 
 
-a.een bedrag ter zake van de inschrijving als patiënt, tot ten hoogste het tarief dat op grond van de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) als beschikbaarheidstarief is vastgesteld;
+a.een bedrag ter zake van de inschrijving als patiënt, tot ten hoogste het tarief dat op grond van de Wet marktordening gezondheidszorg als beschikbaarheidstarief is vastgesteld;
 
 b.vergoedingen die samenhangen met de wijze waarop de geneeskundige zorg in de praktijk van de huisarts of in de instelling wordt verleend, met de kenmerken van het patiëntenbestand of met de locatie van de praktijk of de instelling, voor zover deze vergoedingen tussen de zorgverzekeraar van de verzekerde en zijn huisarts of instelling zijn overeengekomen en de huisarts of instelling deze vergoedingen krachtens eerderbedoelde overeenkomst bij de inschrijving van een verzekerde in rekening mag brengen. 
 
 ### Artikel  2.19  
 
-Het percentage, bedoeld in [artikel 21, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), bedraagt 100. 
+Het percentage, bedoeld in artikel 21, eerste lid, van de wet, bedraagt 100. 
 
 ###Hoofdstuk 3 
 
@@ -524,9 +524,9 @@ b. de herberekende gewichten, bedoeld in artikel 3.11, vijfde lid.
 
 a. het Zorginstituut berekent het verschil tussen de gerealiseerde kosten, bedoeld in artikel 3.11, tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in artikel 3.11, vierde lid, voor het met het deelbedrag overeenkomende cluster van prestaties;  
 
-b. het Zorginstituut deelt de onder a verkregen uitkomst door het totaal aantal in het vereveningsjaar ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is;  
+b. het Zorginstituut deelt de onder a verkregen uitkomst door het totaal aantal in het vereveningsjaar ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is;  
 
-c. het Zorginstituut vermenigvuldigt voor iedere zorgverzekeraar de onder b verkregen uitkomst met het aantal in het vereveningsjaar bij die verzekeraar ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is.     
+c. het Zorginstituut vermenigvuldigt voor iedere zorgverzekeraar de onder b verkregen uitkomst met het aantal in het vereveningsjaar bij die verzekeraar ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is.     
 3.  Indien in andere artikelen of artikelleden van dit hoofdstuk de clausule «het herberekende deelbedrag» voor een in die artikelen of artikelleden genoemd cluster van prestaties wordt gebruikt, wordt daarmee bedoeld het op grond van het eerste en tweede lid voor het desbetreffende cluster van prestaties berekende bedrag.  
 
 ### Artikel  3.13  
@@ -542,15 +542,10 @@ Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte 
 1.  Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van medisch-specialistische zorg, kosten aan als vaste zorgkosten.   
 2.  Het Zorginstituut calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de vaste zorgkosten in het betreffende jaar enerzijds, en het op grond van artikel 3.12 herberekende deelbedrag vaste zorgkosten anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.  
 
-### Artikel  3.16  
-
-1.  Het Zorginstituut past op het op grond van artikel 3.12 herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, op bij ministeriële regeling te bepalen wijze hogekostencompensatie toe.   
-2.  Het resultaat van toepassing van het eerste lid leidt tot een nieuw deelbedrag per zorgverzekeraar.  
-
 ### Artikel  3.17  
 
-1.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is, meer dan € 40,00 afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent na.   
-2.  Indien voor een zorgverzekeraar het verschil tussen het deelbedrag, bedoeld in artikel 3.16, tweede lid, en de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.  
+1.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan € 40,00 afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent na.   
+2.  Indien voor een zorgverzekeraar het verschil tussen het deelbedrag, bedoeld in artikel 3.16, tweede lid, en de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.  
 
 ###Artikel 3.18 
 
@@ -599,20 +594,20 @@ Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen v
 
 ### Artikel 3a.1 
 
-1. Verzekerden hebben recht op de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) indien zij: 
+1. Verzekerden hebben recht op de uitkering, bedoeld in artikel 118a, eerste lid, van de wet indien zij: 
 
 a. in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking heeft, voldoen aan bij ministeriële regeling gestelde voorwaarden met betrekking tot aan hen ter hand gestelde, in die regeling aan te wijzen geneesmiddelen, of  
 
 b. in het jaar dat drie jaren voorafgaat en in het jaar dat twee jaren voorafgaat aan het jaar waarop de uitkering betrekking heeft, zijn ingedeeld in bij ministeriële regeling aangewezen DKG’s, of  
 
 c. op 1 juli van het jaar waarop de uitkering betrekking heeft, zonder onderbreking meer dan een half jaar in een AWBZ-instelling verblijven.   
-2.  Gewezen personen als bedoeld in [artikel 2, tweede lid, onderdeel a, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) hebben eveneens recht op een uitkering als bedoeld in het eerste lid, indien zij in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking dient te hebben, zorg hebben ontvangen ten laste van een ziektekostenregeling voor militairen die overeenkomt met de zorg waarop het eerste lid, onderdelen a of b, betrekking heeft.  
-3.  Een verzekerde wordt voor wat betreft de geneeskundige zorg, bedoeld in [artikel 10 van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die hij in een andere lidstaat van de Europese Unie heeft ontvangen, ingedeeld in de DKG met de chronische aandoening, die te identificeren is op grond van uitgevoerde diagnose behandeling combinaties die naar aard en strekking met die geneeskundige zorg overeenkomen.   
+2.  Gewezen personen als bedoeld in artikel 2, tweede lid, onderdeel a, van de wet hebben eveneens recht op een uitkering als bedoeld in het eerste lid, indien zij in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking dient te hebben, zorg hebben ontvangen ten laste van een ziektekostenregeling voor militairen die overeenkomt met de zorg waarop het eerste lid, onderdelen a of b, betrekking heeft.  
+3.  Een verzekerde wordt voor wat betreft de geneeskundige zorg, bedoeld in artikel 10 van de wet, die hij in een andere lidstaat van de Europese Unie heeft ontvangen, ingedeeld in de DKG met de chronische aandoening, die te identificeren is op grond van uitgevoerde diagnose behandeling combinaties die naar aard en strekking met die geneeskundige zorg overeenkomen.   
 4.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt met een lidstaat van de Europese Unie gelijkgesteld, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte. 
 
 ### Artikel  3a.2  
 
-1.  Onze Minister geeft het Zorginstituut voorafgaande aan ieder kalenderjaar een aanwijzing over de voor dat jaar ten laste van het Zorgverzekeringsfonds komende beheerskosten, bedoeld in [artikel 39, derde lid, onderdeel f, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  Onze Minister geeft het Zorginstituut voorafgaande aan ieder kalenderjaar een aanwijzing over de voor dat jaar ten laste van het Zorgverzekeringsfonds komende beheerskosten, bedoeld in artikel 39, derde lid, onderdeel f, van de wet.   
 2.  Met inachtneming van het eerste lid stelt het Zorginstituut jaarlijks het budget voor de beheerskosten, bedoeld in het eerste lid, vast.   
 3.  Het Zorginstituut bepaalt de wijze van betaalbaarstelling van het budget.  
 
@@ -635,7 +630,7 @@ Indien het CAK op een naar het oordeel van de zorgautoriteit onverantwoorde wijz
 
 ### Artikel  3b.1  
 
-Als vormen van zorg als bedoeld in [artikel 122a, tweede lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), worden aangewezen: 
+Als vormen van zorg als bedoeld in artikel 122a, tweede lid, van de wet, worden aangewezen: 
 
 a. genderbehandelingen;  
 
@@ -647,11 +642,11 @@ b. in-vitrofertilisatiebehandelingen.
 
 ### Artikel  4.1  
 
-Bij de inwerkingtreding van de [wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) kunnen voor een zorgverzekeraar die als nieuwe rechtspersoon de [wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) uitvoert de gegevens van zijn rechtsvoorganger worden aangemerkt als historische gegevens. 
+Bij de inwerkingtreding van de wet kunnen voor een zorgverzekeraar die als nieuwe rechtspersoon de wet uitvoert de gegevens van zijn rechtsvoorganger worden aangemerkt als historische gegevens. 
 
 ### Artikel  4.2  
 
-De rijksbelastingdienst verstrekt aan de zorgverzekeraar op een verzoek als bedoeld in [artikel 89, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), het persoonsgegeven dat een persoon als niet-ingezetene aan de loonbelasting is onderworpen ter zake van in Nederland in dienstbetrekking verrichte arbeid dan wel als niet-ingezetene aan de inkomstenbelasting is onderworpen ter zake van in Nederland verrichte beroepswerkzaamheden anders dan in dienstbetrekking. 
+De rijksbelastingdienst verstrekt aan de zorgverzekeraar op een verzoek als bedoeld in artikel 89, eerste lid, van de wet, het persoonsgegeven dat een persoon als niet-ingezetene aan de loonbelasting is onderworpen ter zake van in Nederland in dienstbetrekking verrichte arbeid dan wel als niet-ingezetene aan de inkomstenbelasting is onderworpen ter zake van in Nederland verrichte beroepswerkzaamheden anders dan in dienstbetrekking. 
 
 ### Artikel  4.4  
 

@@ -3,7 +3,7 @@
 ##Beschikking wijziging-percentages levensonderhoud 1974 
 
 De Minister van Justitie,  
-Overwegende, dat het indexcijfer der lonen, vastgesteld krachtens [artikel 9, achtste lid, der Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), per 30 september 1973 ten minste één procent afwijkt van het overeenkomstige indexcijfer per 30 september 1972:
+Overwegende, dat het indexcijfer der lonen, vastgesteld krachtens artikel 9, achtste lid, der Algemene Ouderdomswet, per 30 september 1973 ten minste één procent afwijkt van het overeenkomstige indexcijfer per 30 september 1972:
 
 Gelet op artikel 402a van Boek 1 van het Burgerlijk Wetboek en op artikel V van de Wet houdende regelen omtrent de indexering van uitkeringen voor levensonderhoud van 6 juli 1972, Stb. 390.
 Besluit:    

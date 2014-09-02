@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 6 januari 2004, nr. 5262049/03/6, Directie Wetgeving, Sector Privaatrecht,
 
-Gelet op [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);
+Gelet op artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 29 januari 2004, nr. W03.040012/I);
 
@@ -19,7 +19,7 @@ Wijzigt het Besluit geslachtsnaamswijziging.
 
 ###Artikel II 
 
-Ten aanzien van verzoeken die op het tijdstip van inwerkingtreding van dit besluit reeds zijn ingediend, blijven de [aanhef van het eerste lid en het vierde lid, onder c, van artikel 3 van het Besluit geslachtsnaamswijziging](../../../../../../../../AMvB/besluit/geslachtsnaamswijziging/BWBR0008951/README.md) zoals deze luidden voor de inwerkingtreding van dit besluit van toepassing. 
+Ten aanzien van verzoeken die op het tijdstip van inwerkingtreding van dit besluit reeds zijn ingediend, blijven de aanhef van het eerste lid en het vierde lid, onder c, van artikel 3 van het Besluit geslachtsnaamswijziging zoals deze luidden voor de inwerkingtreding van dit besluit van toepassing. 
 
 ###Artikel III 
 

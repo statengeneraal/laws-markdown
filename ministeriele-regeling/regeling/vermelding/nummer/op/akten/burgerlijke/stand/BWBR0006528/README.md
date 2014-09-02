@@ -3,7 +3,7 @@
 ##Regeling vermelding nummer op akten burgerlijke stand 
 
 De Staatssecretaris van Justitie,  
-Gelet op de [artikelen 38, derde lid](../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md), en [39, derde lid, van het Besluit burgerlijke stand 1994](../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md);
+Gelet op de artikelen 38, derde lid, en 39, derde lid, van het Besluit burgerlijke stand 1994;
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ In het hoofd van elke akte van geboorte, van huwelijk of van overlijden en van e
 
 ### Artikel  2  
 
-De eerste positie van het in artikel 1 bedoelde nummer is bestemd voor de aanduiding van het register waarin de akte wordt opgenomen. De registersoort wordt als volgt aangeduid: 1 = register van geboorten2 = register van overlijden3 = register van huwelijken4 = register van echtscheidingen,  bedoeld in [afdeling 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md). 
+De eerste positie van het in artikel 1 bedoelde nummer is bestemd voor de aanduiding van het register waarin de akte wordt opgenomen. De registersoort wordt als volgt aangeduid: 1 = register van geboorten2 = register van overlijden3 = register van huwelijken4 = register van echtscheidingen,  bedoeld in afdeling 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek. 
 
 ### Artikel  3  
 
