@@ -2643,9 +2643,7 @@ E. M. H. Hirsch Ballin
 
 2. Havenbeveiligingswet.  
 
-3. Wet basisregistraties adressen en gebouwen.  
-
-4. Titel 5.2 van de Wet milieubeheer.   
+3. Wet basisregistraties adressen en gebouwen.   
 
 ### D  
 
@@ -2655,7 +2653,7 @@ E. M. H. Hirsch Ballin
 
 2. Wet publieke gezondheid.  
 
-3. Wet maatschappelijke ondersteuning.   
+3. Wet maatschappelijke ondersteuning 2015.   
 
 ### E  
 

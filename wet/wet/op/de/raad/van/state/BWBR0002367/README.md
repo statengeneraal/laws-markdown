@@ -32,8 +32,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. hem op grond van het afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of  
 
-b. hij op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, het recht om de titel meester te voeren heeft verkregen. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de beroepsvereisten. [Artikel 5, vierde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) is van overeenkomstige toepassing.     
-5.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het vierde lid, onderdeel a, gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.   
+b. hij op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht om de titel meester te voeren heeft verkregen. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de beroepsvereisten. Artikel 5, vierde lid, van de Wet rechtspositie rechterlijke ambtenaren is van overeenkomstige toepassing.     
+5.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het vierde lid, onderdeel a, gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.   
 6.  In bijzondere gevallen kan van het vierde lid worden afgeweken.  
 
 ### Artikel  3  
@@ -43,7 +43,7 @@ b. hij op grond van het met goed gevolg afleggen van het afsluitend examen van e
 a. op eigen verzoek, en  
 
 b. met ingang van de eerste dag van de maand, volgend op die, waarin zij de leeftijd van zeventig jaren hebben bereikt.     
-2.  De vice-president en de leden worden voorts door de Raad, bij met redenen omkleed besluit, ontslagen, geschorst, of bij ongeschiktheid wegens ziekte met een andere taak belast, en de leden worden door de vice-president, bij met redenen omkleed besluit, gewaarschuwd overeenkomstig [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), met dien verstande dat: 
+2.  De vice-president en de leden worden voorts door de Raad, bij met redenen omkleed besluit, ontslagen, geschorst, of bij ongeschiktheid wegens ziekte met een andere taak belast, en de leden worden door de vice-president, bij met redenen omkleed besluit, gewaarschuwd overeenkomstig hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren, met dien verstande dat: 
 
 – in plaats van «procureur-generaal» wordt gelezen: vice-president;  
 
@@ -53,8 +53,8 @@ b. met ingang van de eerste dag van de maand, volgend op die, waarin zij de leef
 
 – in plaats van «functionele autoriteit» wordt gelezen: vice-president;  
 
-– de Raad de mededeling van een beslissing als bedoeld in [artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), doet aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.     
-3.  De [artikelen 46i, vijfde lid](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46k, vijfde lid](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46l, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) zijn van overeenkomstige toepassing, met dien verstande dat wordt gelezen: 
+– de Raad de mededeling van een beslissing als bedoeld in artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren, doet aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.     
+3.  De artikelen 46i, vijfde lid, 46k, vijfde lid, en 46l, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren zijn van overeenkomstige toepassing, met dien verstande dat wordt gelezen: 
 
 – in plaats van «de rechterlijke ambtenaar»: de vice-president of het lid;  
 
@@ -81,7 +81,7 @@ d. betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede ver
 2.  Behoudens indien de onverenigbaarheid ook uit een ander wettelijk voorschrift voortvloeit, kan ten aanzien van een lid op diens verzoek van het eerste lid, onderdeel a, bij koninklijk besluit, de Raad van State gehoord, voor een bepaalde tijd ontheffing worden verleend.   
 3.  Gedurende de ontheffing, bedoeld in het tweede lid, is het lid ontheven van de waarneming van zijn ambt.   
 4.  De bezoldiging wordt gedurende de periode van de ontheffing van de waarneming van zijn ambt ingehouden.  
-5.  De betrekkingen die de vice-president en de leden buiten hun ambt vervullen worden door de vice-president openbaar gemaakt. De [artikelen 44, derde tot en met zesde en achtste lid](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [44a van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) zijn van overeenkomstige toepassing.  
+5.  De betrekkingen die de vice-president en de leden buiten hun ambt vervullen worden door de vice-president openbaar gemaakt. De artikelen 44, derde tot en met zesde en achtste lid, en 44a van de Wet rechtspositie rechterlijke ambtenaren zijn van overeenkomstige toepassing.  
 
 ### Artikel  6  
 
@@ -94,7 +94,7 @@ De vice-president wordt bij verhindering of ontstentenis vervangen door het ouds
 
 ### Artikel  7a  
 
-De Raad is belast met de taken, bij de [artikelen 35](../../../../../../../../wet/grondwet/BWBR0001840/README.md) en [38 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md) aan hem opgedragen. 
+De Raad is belast met de taken, bij de artikelen 35 en 38 van de Grondwet aan hem opgedragen. 
 
 ### Afdeling  2  
 
@@ -132,8 +132,8 @@ De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid
 
 a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of  
 
-b. die op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, het recht om de titel meester te voeren heeft verkregen.   [Artikel 5, vierde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) is van overeenkomstige toepassing.   
-2.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.   
+b. die op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht om de titel meester te voeren heeft verkregen.   Artikel 5, vierde lid, van de Wet rechtspositie rechterlijke ambtenaren is van overeenkomstige toepassing.   
+2.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.   
 3.  In bijzondere gevallen kan van het eerste lid worden afgeweken.  
 
 ### Artikel  13  
@@ -214,7 +214,7 @@ b. voorstellen van wet tot goedkeuring van een verdrag of van het voornemen tot 
 
 ### Artikel  20  
 
-1.  De Afdeling advisering stelt het ontwerp op van een koninklijk besluit als bedoeld in [artikel 136 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md).   
+1.  De Afdeling advisering stelt het ontwerp op van een koninklijk besluit als bedoeld in artikel 136 van de Grondwet.   
 2.  Binnen zes maanden nadat het ontwerp is opgesteld kan Onze Minister wie het aangaat, de Afdeling advisering gemotiveerd verzoeken haar ontwerp in nadere overweging te nemen. Indien het koninklijk besluit afwijkt van het ontwerp of het nader ontwerp wordt het in het Staatsblad geplaatst met het ontwerp, bedoeld in het eerste lid en indien daarvan sprake is, het nader ontwerp. Indien niet binnen zes maanden een verzoek als bedoeld in de eerste volzin is gedaan luidt het koninklijk besluit overeenkomstig het ontwerp.  
 
 ### Artikel  21  
@@ -262,8 +262,8 @@ b. adviezen over voorstellen van wet door de Staten-Generaal aan Ons gedaan: gel
 c. adviezen over verdragen met andere mogendheden en volkenrechtelijke organisaties, aan de Staten-Generaal ter stilzwijgende goedkeuring over te leggen: gelijktijdig met de overlegging daarvan aan de Staten-Generaal;  
 
 d. adviezen over algemene maatregelen van bestuur en andere koninklijke besluiten: gelijktijdig met de bekendmaking.     
-3.  Openbaarmaking van adviezen als bedoeld in het eerste lid, onder a, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van adviezen als bedoeld in het eerste lid, onder b en van voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in het eerste lid, onder c, geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Afdeling advisering onderscheidenlijk op de voorlichting in aangelegenheden van wetgeving en bestuur van die Afdeling. Daarbij worden, in voorkomend geval, mede openbaar gemaakt het nader rapport en de aan de Afdeling advisering voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in [artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
-4.  Openbaarmaking blijft achterwege in de gevallen, bedoeld in [artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
+3.  Openbaarmaking van adviezen als bedoeld in het eerste lid, onder a, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van adviezen als bedoeld in het eerste lid, onder b en van voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in het eerste lid, onder c, geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Afdeling advisering onderscheidenlijk op de voorlichting in aangelegenheden van wetgeving en bestuur van die Afdeling. Daarbij worden, in voorkomend geval, mede openbaar gemaakt het nader rapport en de aan de Afdeling advisering voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur.   
+4.  Openbaarmaking blijft achterwege in de gevallen, bedoeld in artikel 10 van de Wet openbaarheid van bestuur.   
 5.  Actieve openbaarmaking kan achterwege blijven indien een advies als bedoeld in het eerste lid, onder a, zonder meer instemmend luidt, dan wel uitsluitend opmerkingen van redactionele aard bevat.   
 6.  De Afdeling advisering doet in haar adviezen, bedoeld in het eerste lid, voorstellen omtrent de toepassing van de bepalingen van het vierde of vijfde lid.  
 
@@ -271,7 +271,7 @@ d. adviezen over algemene maatregelen van bestuur en andere koninklijke besluite
 
 1.  De Tweede Kamer der Staten-Generaal en de Staten-Generaal in verenigde vergadering dragen zorg voor het openbaar maken van de adviezen van de Afdeling advisering, bedoeld in artikel 18, eerste en tweede lid, onderscheidenlijk vierde lid, alsmede voor een schriftelijke reactie op deze adviezen.   
 2.  Openbaarmaking van de adviezen geschiedt tezamen met openbaarmaking van de schriftelijke reactie.   
-3.  Openbaarmaking blijft achterwege in de gevallen, bedoeld in [artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
+3.  Openbaarmaking blijft achterwege in de gevallen, bedoeld in artikel 10 van de Wet openbaarheid van bestuur.   
 4.  Actieve openbaarmaking kan achterwege blijven indien het advies zonder meer instemmend luidt, dan wel uitsluitend opmerkingen van redactionele aard bevat.   
 5.  De Afdeling advisering doet in de adviezen voorstellen omtrent de toepassing van de bepalingen van het derde of vierde lid.  
 
@@ -303,8 +303,8 @@ d. adviezen over algemene maatregelen van bestuur en andere koninklijke besluite
 
 a. een advies omtrent de vernietiging van een besluit, of  
 
-b. een ontwerp-besluit omtrent een geschil als bedoeld in [artikel 136 van de Grondwet](../../../../../../../../wet/grondwet/BWBR0001840/README.md), kan de Afdeling advisering belanghebbenden, getuigen, deskundigen en tolken oproepen om te worden gehoord.     
-2.  Artikel 45 en de [artikelen 8:24](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:25](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:27 tot en met 8:29](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:31 tot en met 8:36, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:39](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:50](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:61 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+b. een ontwerp-besluit omtrent een geschil als bedoeld in artikel 136 van de Grondwet, kan de Afdeling advisering belanghebbenden, getuigen, deskundigen en tolken oproepen om te worden gehoord.     
+2.  Artikel 45 en de artikelen 8:24, 8:25, 8:27 tot en met 8:29, 8:31 tot en met 8:36, eerste lid, 8:39, 8:50 en 8:61 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 3.  Een door Onze Minister wie het aangaat aangewezen ambtenaar kan bij de beraadslaging aanwezig zijn om inlichtingen te geven.   
 4.  Ambtsberichten en andere door Onze Minister aangewezen stukken zijn niet openbaar.   
 5.  Het ontwerp van een koninklijk besluit tot vernietiging is niet openbaar.  
@@ -398,7 +398,7 @@ c. over een voor hen aanhangige zaak of over een zaak die naar zij weten of rede
 
 1.  De voorzitter van de Afdeling bestuursrechtspraak stelt een regeling vast voor de behandeling van klachten.   
 2.  Klachten kunnen niet een rechterlijke uitspraak betreffen.   
-3.  [Titel 9.1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de zinsnede «of een ander» in [artikel 9:1, eerste lid](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van overeenkomstige toepassing, met dien verstande dat onder bestuursorgaan wordt verstaan: de Afdeling bestuursrechtspraak.   
+3.  Titel 9.1 van de Algemene wet bestuursrecht, met uitzondering van de zinsnede «of een ander» in artikel 9:1, eerste lid, is van overeenkomstige toepassing, met dien verstande dat onder bestuursorgaan wordt verstaan: de Afdeling bestuursrechtspraak.   
 4.  De regeling, bedoeld in het eerste lid, wordt gepubliceerd in de Staatscourant.  
 
 ### Afdeling  3  
@@ -414,7 +414,7 @@ Vervallen per 01-01-2013
 ### Artikel  58  
 
 1. Tegen de vice-president, de staatsraden en de staatsraden in buitengewone dienst kan noch een rechtsvervolging, noch een rechtsvordering worden ingesteld wegens hetgeen zij tijdens de beraadslaging in de Raad, de Afdeling advisering, de Afdeling bestuursrechtspraak of een kamer van die Afdeling bestuursrechtspraak hebben gezegd, dan wel daaraan schriftelijk hebben overgelegd.  
-2.  [Artikel 42 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) is van overeenkomstige toepassing op de leden van de Afdeling bestuursrechtspraak, met dien verstande dat in plaats van «Onze Minister» steeds wordt gelezen: de Minister van Binnenlandse Zaken en Koninkrijksrelaties. 
+2.  Artikel 42 van de Wet rechtspositie rechterlijke ambtenaren is van overeenkomstige toepassing op de leden van de Afdeling bestuursrechtspraak, met dien verstande dat in plaats van «Onze Minister» steeds wordt gelezen: de Minister van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  59  
 

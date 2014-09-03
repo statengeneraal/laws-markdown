@@ -14,36 +14,52 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk  A  
 
-####De Kiesraad 
+####Inleidende bepalingen
+
+###§ 1 
+
+####Begripsbepalingen
 
 ### Artikel  A 1  
 
-Er is een Kiesraad, gevestigd te 's-Gravenhage.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:  
+
+*algemeen bestuur:* vertegenwoordigend orgaan van een waterschap voor zover het leden betreft van de categorie, bedoeld in artikel 12, tweede lid, onderdeel a, van de Waterschapswet;  
+
+*dagelijks bestuur:* dagelijks bestuur van een waterschap.   
+
+###§ 2 
+
+####De Kiesraad
 
 ### Artikel  A 2  
+
+Er is een Kiesraad, gevestigd te 's-Gravenhage.  
+
+### Artikel  A 3  
 
 1.  De Kiesraad treedt op als centraal stembureau in de gevallen waarin de wet dat voorschrijft.   
 2.  De Kiesraad heeft voorts tot taak de regering en de beide kamers der Staten-Generaal van advies te dienen in uitvoeringstechnische aangelegenheden die het kiesrecht of de verkiezingen betreffen.  
 
-### Artikel  A 3  
-
-De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op de Kiesraad, met uitzondering van de [artikelen 12](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [21](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
-
 ### Artikel  A 4  
 
-1.  De Kiesraad bestaat uit een voorzitter en zes andere leden. De Kiesraad kan uit de leden ondervoorzitters aanwijzen.   
-2.  Artikel 11 van de Kaderwet adviescolleges is van toepassing op de Kiesraad.   
-3.  De leden van de Kiesraad worden benoemd op grond van hun deskundigheid op het gebied van het kiesrecht en de verkiezingen. [Artikel 12, derde lid, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) is van toepassing.   
-4.  De leden van de Kiesraad worden op eigen aanvraag door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ontslagen. Zij kunnen voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. De voordracht voor schorsing of ontslag wordt niet gedaan dan nadat de Kiesraad daarover is gehoord.  
+De Kaderwet zelfstandige bestuursorganen is van toepassing op de Kiesraad, met uitzondering van de artikelen 12, 21 en 22. 
 
 ### Artikel  A 5  
 
-1.  De [artikelen 15, eerste, derde, vierde en vijfde lid](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), en [16 van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) zijn van toepassing op de Kiesraad.   
-2.  De [artikelen 21](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en [29 van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) zijn niet van toepassing op de Kiesraad.  
+1.  De Kiesraad bestaat uit een voorzitter en zes andere leden. De Kiesraad kan uit de leden ondervoorzitters aanwijzen.   
+2.  Artikel 11 van de Kaderwet adviescolleges is van toepassing op de Kiesraad.   
+3.  De leden van de Kiesraad worden benoemd op grond van hun deskundigheid op het gebied van het kiesrecht en de verkiezingen. Artikel 12, derde lid, van de Kaderwet adviescolleges is van toepassing.   
+4.  De leden van de Kiesraad worden op eigen aanvraag door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ontslagen. Zij kunnen voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. De voordracht voor schorsing of ontslag wordt niet gedaan dan nadat de Kiesraad daarover is gehoord.  
+
+### Artikel  A 6  
+
+1.  De artikelen 15, eerste, derde, vierde en vijfde lid, en 16 van de Kaderwet adviescolleges zijn van toepassing op de Kiesraad.   
+2.  De artikelen 21 en 29 van de Kaderwet adviescolleges zijn niet van toepassing op de Kiesraad.  
 
 ### Afdeling  II  
 
-####De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten en van de gemeenteraden 
+####De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten, van de algemene besturen en van de gemeenteraden 
 
 ### Hoofdstuk  B  
 
@@ -63,7 +79,6 @@ b. de Nederlander die in Nederlandse openbare dienst in Aruba, Curaçao of Sint 
 De leden van provinciale staten worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van de provincie, mits zij Nederlander zijn en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.  
 
 ### Artikel  B 2a  
-Treedt in werking per 01-07-2014 
 
 1.  De leden van het algemeen bestuur worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het waterschap en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.   
 2.  Artikel B 3, tweede lid, aanhef en onderdeel a, en derde lid, is van toepassing.  
@@ -73,15 +88,16 @@ Treedt in werking per 01-07-2014
 1.  De leden van de gemeenteraden worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van de gemeente en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.    
 2.  Zij die geen onderdaan van een lidstaat van de Europese Unie zijn, dienen om kiesgerechtigd te zijn op de dag van de kandidaatstelling tevens te voldoen aan de vereisten dat: 
 
-a. zij rechtmatig in Nederland verblijven op grond van [artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en  
+a. zij rechtmatig in Nederland verblijven op grond van artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000 of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en  
 
-b. zij onmiddellijk voorafgaand aan de dag van de kandidaatstelling gedurende een onafgebroken periode van ten minste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel op grond van [artikel 3](../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of [artikel 6 van de Wet toelating en uitzetting BES](../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).     
+b. zij onmiddellijk voorafgaand aan de dag van de kandidaatstelling gedurende een onafgebroken periode van ten minste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel op grond van artikel 3 of artikel 6 van de Wet toelating en uitzetting BES.     
 3.  Niet kiesgerechtigd zijn zij die geen Nederlander zijn en, als door andere staten uitgezonden leden van diplomatieke of consulaire vertegenwoordigingen, in Nederland werkzaam zijn, alsmede hun niet-Nederlandse echtgenoten, geregistreerde partners of levensgezellen en kinderen, voor zover dezen met hen een gemeenschappelijke huishouding voeren.   
 
 ### Artikel  B 4  
 
-1.  Onder ingezetenen van Nederland, van de provincie en van de gemeente verstaat deze wet hen die onderscheidenlijk in Nederland, in de provincie en in de gemeente werkelijke woonplaats hebben.    
-2.  Zij die als ingezetene met een adres in een gemeente zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in die gemeente.  
+1.  Onder ingezetenen van Nederland, van de provincie, van het waterschap en van de gemeente verstaat deze wet hen die onderscheidenlijk in Nederland, in de provincie, in het waterschap en in de gemeente werkelijke woonplaats hebben.    
+2.  Zij die als ingezetene met een adres in een gemeente zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in die gemeente.   
+3.  Zij die als ingezetene met een adres zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in het waterschap waaronder dat adres valt. 
 
 ### Artikel  B 5  
 
@@ -101,7 +117,7 @@ b. voor hen die op grond van het regime van de inrichting waarin zij verblijven 
 
 ### Hoofdstuk  C  
 
-####De zittingsduur van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten en van de gemeenteraden 
+####De zittingsduur van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten, van de algemene besturen en van de gemeenteraden 
 
 ### Artikel  C 1  
 
@@ -120,7 +136,7 @@ b. voor hen die op grond van het regime van de inrichting waarin zij verblijven 
 
 ### Artikel  C 4  
 
-1.  De leden van provinciale staten onderscheidenlijk gemeenteraden worden gekozen voor vier jaren.   
+1.  De leden van provinciale staten, de algemene besturen, onderscheidenlijk gemeenteraden worden gekozen voor vier jaren.   
 2.  Zij treden tegelijk af met ingang van de donderdag in de periode van 23 tot en met 29 maart.  
 
 ### Artikel  C 5  
@@ -189,9 +205,9 @@ Burgemeester en wethouders van ’s-Gravenhage, dan wel Onze Minister van Binnen
 
 ### Artikel  D 9  
 
-1.  [Titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op beschikkingen als bedoeld in de artikelen D 3b, vierde lid, D 6 en D 8.   
-2.   In afwijking van [artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State kan een kortere termijn stellen.    
-3.   De Afdeling bestuursrechtspraak van de Raad van State behandelt de zaak met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). [Afdeling 8.2.4](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing. Aan burgemeester en wethouders wordt terstond een afschrift van het beroepschrift gezonden.   
+1.  Titel 8.3 van de Algemene wet bestuursrecht is niet van toepassing op beschikkingen als bedoeld in de artikelen D 3b, vierde lid, D 6 en D 8.   
+2.   In afwijking van artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State kan een kortere termijn stellen.    
+3.   De Afdeling bestuursrechtspraak van de Raad van State behandelt de zaak met toepassing van afdeling 8.2.3 van de Algemene wet bestuursrecht. Afdeling 8.2.4 blijft buiten toepassing. Aan burgemeester en wethouders wordt terstond een afschrift van het beroepschrift gezonden.   
 
 ### Artikel  D 10  
 
@@ -209,7 +225,8 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 
 1.  Voor de verkiezing van de leden van de Tweede Kamer wordt Nederland verdeeld in kieskringen, overeenkomstig de bij deze wet gevoegde tabel.    
 2.   De kieskringen voor de verkiezing van de leden van de Tweede Kamer, voor zover gelegen in het Europese deel van Nederland, vormen tevens de kieskringen voor de verkiezing van de leden van provinciale staten. Provinciale staten kunnen voor de verkiezing van de leden van provinciale staten deze kieskringen in meer kieskringen verdelen.    
-3.   Voor de verkiezing van de leden van de gemeenteraad vormt elke gemeente één kieskring.   
+3.  Voor de verkiezing van de leden van het algemeen bestuur vormt elk waterschap één kieskring.  
+4.   Voor de verkiezing van de leden van de gemeenteraad vormt elke gemeente één kieskring.   
 
 ### §  2  
 
@@ -218,7 +235,8 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 ### Artikel  E 3  
 
 1.  Burgemeester en wethouders stellen één of meer stembureaus in de gemeente in.   
-2.  Een stembureau bestaat uit een bij algemene maatregel van bestuur vast te stellen aantal leden, van wie er één voorzitter is.  
+2.  De stembureaus voor de verkiezing van de leden van provinciale staten zijn tevens de stembureaus voor de verkiezing van de leden van het algemeen bestuur.  
+3.  Een stembureau bestaat uit een bij algemene maatregel van bestuur vast te stellen aantal leden, van wie er één voorzitter is.  
 
 ### Artikel  E 4  
 
@@ -249,6 +267,12 @@ c. die als stembureaulid bij een vorige verkiezing hebben gehandeld of een hande
 2.   Het hoofdstembureau bestaat uit vijf leden, van wie er één voorzitter en één plaatsvervangend voorzitter is.    
 3.   Voorzitter is de burgemeester van de gemeente waar het hoofdstembureau is gevestigd. De plaatsvervangend voorzitter en de andere leden, alsmede drie plaatsvervangende leden, worden benoemd en ontslagen door gedeputeerde staten.   
 
+### Artikel  E 6a  
+
+1.  Voor de verkiezing van de leden van het algemeen bestuur wordt een hoofdstembureau ingesteld. Het is gevestigd in de gemeente, daartoe aangewezen door het vertegenwoordigend orgaan van het waterschap.   
+2.  Het hoofdstembureau bestaat uit vijf leden, van wie er één voorzitter en één plaatsvervangend voorzitter is.   
+3.  Voorzitter is de voorzitter van het waterschap. De plaatsvervangend voorzitter en de andere leden, alsmede drie plaatsvervangende leden, worden benoemd en ontslagen door het dagelijks bestuur.  
+
 ### Artikel  E 7  
 
 1.  Voor de verkiezing van de leden van de gemeenteraad wordt een hoofdstembureau ingesteld, bestaande uit vijf leden, van wie er één voorzitter en één plaatsvervangend voorzitter is.    
@@ -256,11 +280,12 @@ c. die als stembureaulid bij een vorige verkiezing hebben gehandeld of een hande
 
 ### Artikel  E 8  
 
-De in de artikelen E 5, E 6 en E 7 bedoelde benoemingen geschieden voor vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou hebben moeten aftreden.  
+De in de artikelen E 5, E 6, E 6a en E 7 bedoelde benoemingen geschieden voor vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou hebben moeten aftreden.  
 
 ### Artikel  E 9  
 
-Voor het houden van de zittingen van het hoofdstembureau wijzen burgemeester en wethouders een geschikte ruimte aan.  
+1. Voor het houden van de zittingen van het hoofdstembureau wijzen burgemeester en wethouders een geschikte ruimte aan.  
+2.  In afwijking van het eerste lid wijst het dagelijks bestuur een geschikte ruimte aan voor het houden van de zittingen van het hoofdstembureau voor de verkiezing van de leden van het algemeen bestuur. 
 
 ### Artikel  E 10  
 
@@ -275,7 +300,8 @@ Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent i
 1.  Er is voor de verkiezing van elk vertegenwoordigend orgaan een centraal stembureau.    
 2.   Voor de verkiezing van de leden van de Tweede Kamer treedt de Kiesraad als centraal stembureau op.    
 3.   Voor de verkiezing van de leden van provinciale staten treedt het hoofdstembureau van de kieskring waarin de gemeente is gelegen waar de vergadering van de staten wordt gehouden, tevens als centraal stembureau op.    
-4.   Voor de verkiezing van de leden van de gemeenteraad treedt het hoofdstembureau tevens als centraal stembureau op.   
+4.  Voor de verkiezing van de leden van het algemeen bestuur treedt het hoofdstembureau tevens als centraal stembureau op.  
+5.   Voor de verkiezing van de leden van de gemeenteraad treedt het hoofdstembureau tevens als centraal stembureau op.   
 
 ### Hoofdstuk  F  
 
@@ -283,7 +309,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent i
 
 ### Artikel  F 1  
 
-1.  De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer, provinciale staten en de gemeenteraad vindt plaats op de maandag in de periode van 30 januari tot en met 5 februari of, in een schrikkeljaar, op de maandag in de periode van 31 januari tot en met 6 februari.    
+1.  De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer, provinciale staten, het algemeen bestuur en de gemeenteraad vindt plaats op de maandag in de periode van 30 januari tot en met 5 februari of, in een schrikkeljaar, op de maandag in de periode van 31 januari tot en met 6 februari.    
 2.   In het geval, bedoeld in artikel C 3, eerste lid, vindt de kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer plaats op de maandag in de periode van 28 maart tot en met 3 april.    
 3.  Bij koninklijk besluit kan, indien zwaarwichtige redenen verband houdend met de dag van kandidaatstelling of met de dag van stemming daartoe nopen, worden bepaald dat de kandidaatstelling plaatsvindt op de maandag, dinsdag, woensdag, donderdag of vrijdag vóór de in het eerste onderscheidenlijk tweede lid genoemde dag. Het koninklijk besluit wordt bekend gemaakt uiterlijk zes maanden vóór de in het eerste onderscheidenlijk tweede lid genoemde dag.  
 
@@ -303,7 +329,7 @@ In geval van ontbinding van de Tweede Kamer vindt de kandidaatstelling plaats op
 
 a. een afschrift van de notariële akte waarin de statuten van de vereniging zijn opgenomen;   
 
-b. een bewijs van inschrijving in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) dan wel [artikel 2 van de Handelsregisterwet 2009 BES](../../../wet-BES/handelsregisterwet/2009/bes/BWBR0028503/README.md);   
+b. een bewijs van inschrijving in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007 dan wel artikel 2 van de Handelsregisterwet 2009 BES;   
 
 c. het in het tweede lid bedoelde bewijs van betaling;   
 
@@ -332,7 +358,7 @@ b. de politieke groepering een verzoek daartoe heeft gedaan;
 c. de politieke groepering als vereniging bij onherroepelijke rechterlijke uitspraak verboden is verklaard en deswege is ontbonden;   
 
 d. voor de laatstgehouden verkiezing van de leden van de Tweede Kamer geen geldige kandidatenlijst is ingeleverd.      
-8.   Op de veertigste dag voor de kandidaatstelling voor de verkiezing van de leden van provinciale staten of van de gemeenteraad, brengt het centraal stembureau de door hem geregistreerde aanduidingen van politieke groeperingen, voor zover de registratie daarvan onherroepelijk is, alsmede de namen van de gemachtigden en hun plaatsvervangers ter openbare kennis in de Staatscourant.   
+8.   Op de veertigste dag voor de kandidaatstelling voor de verkiezing van de leden van provinciale staten, van het algemeen bestuur of van de gemeenteraad, brengt het centraal stembureau de door hem geregistreerde aanduidingen van politieke groeperingen, voor zover de registratie daarvan onherroepelijk is, alsmede de namen van de gemachtigden en hun plaatsvervangers ter openbare kennis in de Staatscourant.   
 
 ### Artikel  G 2  
 
@@ -342,7 +368,7 @@ d. voor de laatstgehouden verkiezing van de leden van de Tweede Kamer geen geldi
 
 a. een afschrift van de notariële akte waarin de statuten van de vereniging zijn opgenomen;   
 
-b. een bewijs van inschrijving in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) dan wel [artikel 2 van de Handelsregisterwet 2009 BES](../../../wet-BES/handelsregisterwet/2009/bes/BWBR0028503/README.md);   
+b. een bewijs van inschrijving in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007 dan wel artikel 2 van de Handelsregisterwet 2009 BES;   
 
 c. het in het tweede lid bedoelde bewijs van betaling;   
 
@@ -374,7 +400,6 @@ d. voor de laatstgehouden verkiezing van de leden van provinciale staten geen ge
 8.   Op de veertigste dag vóór de kandidaatstelling voor de verkiezing van de leden van de gemeenteraad, brengt het centraal stembureau de door hem geregistreerde aanduidingen van politieke groeperingen, voor zover de registratie daarvan onherroepelijk is, alsmede de namen van de gemachtigden en hun plaatsvervangers ter openbare kennis in de Staatscourant.   
 
 ### Artikel  G 2a  
-Treedt in werking per 01-07-2014 
 
 1.  Een politieke groepering die een vereniging met volledige rechtsbevoegdheid of een stichting is, en waarvan de aanduiding niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer is geregistreerd, kan aan het centraal stembureau voor de verkiezing van de leden van het algemeen bestuur, schriftelijk verzoeken de aanduiding waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, in te schrijven in een register dat door het centraal stembureau wordt bijgehouden. Verzoeken ontvangen na de tweeënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling.   
 2.  Voor de in het eerste lid bedoelde registratie moet een waarborgsom van € 225 dan wel, indien het een groepering betreft die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, een waarborgsom van USD 225 worden betaald aan het waterschap. Degene die de betaling heeft verricht, ontvangt een bewijs daarvan. Na inlevering van een geldige kandidatenlijst voor de eerstkomende verkiezing na de beslissing op het verzoek wordt hem de waarborgsom teruggegeven.   
@@ -382,7 +407,7 @@ Treedt in werking per 01-07-2014
 
 a. een afschrift van de notariële akte waarin de statuten van de vereniging of stichting zijn opgenomen;  
 
-b. een bewijs van inschrijving in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) dan wel [artikel 2 van de Handelsregisterwet 2009 BES](../../../wet-BES/handelsregisterwet/2009/bes/BWBR0028503/README.md);  
+b. een bewijs van inschrijving in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007 dan wel artikel 2 van de Handelsregisterwet 2009 BES;  
 
 c. het in het tweede lid bedoelde bewijs van betaling;  
 
@@ -420,7 +445,7 @@ d. voor de laatstgehouden verkiezing van de leden van het algemeen bestuur geen 
 
 a. een afschrift van de notariële akte waarin de statuten van de vereniging zijn opgenomen;   
 
-b. een bewijs van inschrijving in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) dan wel [artikel 2 van de Handelsregisterwet 2009 BES](../../../wet-BES/handelsregisterwet/2009/bes/BWBR0028503/README.md);   
+b. een bewijs van inschrijving in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007 dan wel artikel 2 van de Handelsregisterwet 2009 BES;   
 
 c. het in het tweede lid bedoelde bewijs van betaling;   
 
@@ -450,19 +475,19 @@ c. de politieke groepering als vereniging bij onherroepelijke rechterlijke uitsp
 
 d. voor de laatstgehouden verkiezing van de leden van de gemeenteraad geen geldige kandidatenlijst is ingeleverd.    
 
-###Artikel G 4 
+### Artikel  G 4  
 
-1. Onverminderd het bepaalde in het tweede lid geldt een geregistreerde aanduiding die overeenkomstig het bepaalde in het achtste lid van artikel G 1 of G 2 ter openbare kennis is gebracht, tevens voor de verkiezing van de leden van provinciale staten en van de gemeenteraad, onderscheidenlijk voor de verkiezing van de leden van de gemeenteraad. 
-2.  Het centraal stembureau voor de verkiezing van de leden van provinciale staten, onderscheidenlijk de gemeenteraad, bepaalt, dat de in het eerste lid bedoelde doorwerking van de registratie voor die verkiezing niet plaatsvindt, indien de geregistreerde aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van artikel G 2, onderscheidenlijk artikel G 3, geregistreerde aanduiding van een andere politieke groepering, en daardoor verwarring te duchten is. 
-3.  Een beschikking als bedoeld in het tweede lid wordt genomen uiterlijk op de veertiende dag na de dagtekening van de Staatscourant waarin de openbare kennisgeving, bedoeld in artikel G 1, achtste lid, onderscheidenlijk artikel G 2, achtste lid, is gedaan. De beschikking wordt terstond aan de gemachtigde van de desbetreffende groepering bekendgemaakt. 
+1.  Onverminderd het bepaalde in het tweede lid geldt een geregistreerde aanduiding die overeenkomstig het bepaalde in het achtste lid van artikel G 1 of G 2 ter openbare kennis is gebracht, tevens voor de verkiezing van de leden van provinciale staten, van het algemeen bestuur en van de gemeenteraad, onderscheidenlijk voor de verkiezing van de leden van de gemeenteraad.    
+2.   Het centraal stembureau voor de verkiezing van de leden van provinciale staten, het algemeen bestuur, onderscheidenlijk de gemeenteraad, bepaalt, dat de in het eerste lid bedoelde doorwerking van de registratie voor die verkiezing niet plaatsvindt, indien de geregistreerde aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van artikel G 2, artikel G 2a, onderscheidenlijk artikel G 3, geregistreerde aanduiding van een andere politieke groepering, en daardoor verwarring te duchten is.    
+3.   Een beschikking als bedoeld in het tweede lid wordt genomen uiterlijk op de veertiende dag na de dagtekening van de Staatscourant waarin de openbare kennisgeving, bedoeld in artikel G 1, achtste lid, onderscheidenlijk artikel G 2, achtste lid, is gedaan. De beschikking wordt terstond aan de gemachtigde van de desbetreffende groepering bekendgemaakt.   
 
 ### Artikel  G 5  
 
-1.  In afwijking van de [artikelen 6:7](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [6:8, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een beroepschrift tegen: 
+1.  In afwijking van de artikelen 6:7 en 6:8, eerste lid, van de Algemene wet bestuursrecht wordt een beroepschrift tegen: 
 
 a. een beschikking als bedoeld in de artikelen G 1 en G 2 ingediend uiterlijk op de zesde dag na de dagtekening van de Staatscourant waarin die beschikking is medegedeeld;  
 
-b. een beschikking als bedoeld in artikel G 3 ingediend uiterlijk op de zesde dag na de dagtekening van de openbare kennisgeving, bedoeld in het vijfde lid van dat artikel;  
+b. een beschikking als bedoeld in de artikelen G 2a en G 3 ingediend uiterlijk op de zesde dag na de dagtekening van de openbare kennisgeving, bedoeld in het vijfde lid van dat artikel;  
 
 c. een beschikking als bedoeld in artikel G 4 ingediend uiterlijk op de zesde dag na de dagtekening waarop die beschikking is bekendgemaakt.    
 2.   Artikel D 9 is van overeenkomstige toepassing.   
@@ -488,8 +513,8 @@ Op de kandidatenlijst wordt vermeld voor welke kieskring of kieskringen zij word
 
 ### Artikel  H 3  
 
-1.  De inlevering van de lijst geschiedt persoonlijk door een kiezer, bevoegd tot deelneming aan de verkiezing. De inleveraar identificeert zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). De kandidaten kunnen bij de inlevering aanwezig zijn.   
-2.   Aan degene die de lijst inlevert, kan door de gemachtigde, bedoeld in het derde lid van de artikelen G 1, G 2 of G 3, de bevoegdheid worden verleend boven de lijst de aanduiding van de desbetreffende groepering te plaatsen, zoals deze door het centraal stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit deze bevoegdheid blijkt, wordt bij de lijst overgelegd.    
+1.  De inlevering van de lijst geschiedt persoonlijk door een kiezer, bevoegd tot deelneming aan de verkiezing. De inleveraar identificeert zich met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. De kandidaten kunnen bij de inlevering aanwezig zijn.   
+2.   Aan degene die de lijst inlevert, kan door de gemachtigde, bedoeld in het derde lid van de artikelen G 1, G 2, G 2a of G 3, de bevoegdheid worden verleend boven de lijst de aanduiding van de desbetreffende groepering te plaatsen, zoals deze door het centraal stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit deze bevoegdheid blijkt, wordt bij de lijst overgelegd.    
 3.   Degene die de lijst inlevert, is bevoegd daarboven een aanduiding te plaatsen, gevormd door samenvoeging van voor de desbetreffende verkiezing geregistreerde aanduidingen of afkortingen daarvan, indien hem daartoe de bevoegdheid is verleend door de gemachtigden van de onderscheidene groeperingen. Verklaringen van de gemachtigden waaruit deze bevoegdheid blijkt, worden bij de lijst overgelegd. Een aldus gevormde aanduiding mag niet meer dan 35 letters of andere tekens bevatten.    
 4.  Degene die de lijst heeft ingeleverd, ontvangt daarvan een bewijs.   
 5.   Bij algemene maatregel van bestuur wordt geregeld waar en wanneer de formulieren voor de verklaringen met betrekking tot het plaatsen van aanduidingen van politieke groeperingen boven kandidatenlijsten, kosteloos, verkrijgbaar zijn. Bij ministeriële regeling wordt voor de formulieren een model vastgesteld.   
@@ -506,7 +531,7 @@ c. voor de kieskring bij de verkiezing van de leden van een gemeenteraad waarin 
 
 d. voor iedere andere kieskring: dertig.     
 2.  Verklaringen van ondersteuning voor een kieskring kunnen slechts worden afgelegd door personen die binnen die kieskring als kiezer zijn geregistreerd voor de desbetreffende verkiezing.   
-3.   De kiezer die een verklaring van ondersteuning wenst af te leggen, ondertekent binnen een termijn van veertien dagen voorafgaand aan of op de dag van de kandidaatstelling deze verklaring in het gemeentehuis van de gemeente waar hij als kiezer is geregistreerd, in aanwezigheid van de burgemeester of een door deze daartoe aangewezen ambtenaar. De kiezer overhandigt aan de burgemeester of de ambtenaar een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).    
+3.   De kiezer die een verklaring van ondersteuning wenst af te leggen, ondertekent binnen een termijn van veertien dagen voorafgaand aan of op de dag van de kandidaatstelling deze verklaring in het gemeentehuis van de gemeente waar hij als kiezer is geregistreerd, in aanwezigheid van de burgemeester of een door deze daartoe aangewezen ambtenaar. De kiezer overhandigt aan de burgemeester of de ambtenaar een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.    
 4.   De burgemeester of de door hem daartoe aangewezen ambtenaar gaat onverwijld na of de ondertekenaar als kiezer in zijn gemeente is geregistreerd. Indien hem blijkt dat dit het geval is, tekent hij dit op de verklaring aan.    
 5.   Een kiezer mag niet meer dan één verklaring van ondersteuning ondertekenen.    
 6.   Een overgelegde verklaring van ondersteuning kan niet worden ingetrokken.    
@@ -530,7 +555,7 @@ Op de lijst kunnen een gemachtigde en desgewenst diens plaatsvervangers worden a
 
 1.  De naam van een kandidaat mag niet voorkomen op een lijst, indien de kandidaat tijdens de zittingsperiode van het orgaan waarvoor de verkiezing zal plaatshebben, niet de voor het zitting nemen in dat orgaan vereiste leeftijd zal bereiken.    
 2.   De naam van eenzelfde kandidaat mag niet voorkomen op meer dan één van de lijsten welke voor eenzelfde kieskring zijn ingeleverd.    
-3.   Indien voor de verkiezing van de leden van provinciale staten of de gemeenteraad op een lijst de naam voorkomt van een kandidaat die geen ingezetene is van de provincie, onderscheidenlijk de gemeente, dient bij de lijst te worden overgelegd een door die kandidaat ondertekende verklaring, waaruit blijkt, dat hij voornemens is zich bij benoeming te vestigen in de provincie, onderscheidenlijk gemeente.   
+3.  Indien voor de verkiezing van de leden van provinciale staten, de leden van het algemeen bestuur of de gemeenteraad op een lijst de naam voorkomt van een kandidaat die geen ingezetene is van de provincie, het waterschap, onderscheidenlijk de gemeente, dient bij de lijst te worden overgelegd een door die kandidaat ondertekende verklaring, waaruit blijkt, dat hij voornemens is zich bij benoeming te vestigen in de provincie, het waterschap, onderscheidenlijk de gemeente.  
 
 ### Artikel  H 8  
 
@@ -540,7 +565,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 1.  Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de kieskring of de kieskringen waarvoor zij is ingeleverd. Tenzij een gemachtigde, bedoeld in de artikelen H 10, eerste lid, of H 10a, eerste lid, wordt aangewezen, wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in artikel V 1, wil ontvangen.   
 2.   Een overgelegde verklaring van instemming kan niet worden ingetrokken.    
-3.  Bij de lijst wordt van iedere kandidaat die geen zitting heeft in het vertegenwoordigend orgaan waarvoor de verkiezing wordt gehouden, tevens een kopie van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) overgelegd. Indien van een dergelijke kandidaat een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht ontbreekt, wordt de verklaring van instemming van de betreffende kandidaat geacht te ontbreken.    
+3.  Bij de lijst wordt van iedere kandidaat die geen zitting heeft in het vertegenwoordigend orgaan waarvoor de verkiezing wordt gehouden, tevens een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht overgelegd. Indien van een dergelijke kandidaat een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht ontbreekt, wordt de verklaring van instemming van de betreffende kandidaat geacht te ontbreken.    
 4.   Bij algemene maatregel van bestuur wordt geregeld waar en wanneer de formulieren voor de verklaringen van instemming, kosteloos, voor de kiezers verkrijgbaar zijn. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.   
 
 ### Artikel  H 10  
@@ -579,8 +604,6 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ### Artikel  H 13a  
 
-Treedt in werking per 01-07-2014 
-
 1.  Indien het betreft de verkiezing van het algemeen bestuur, moet voor elke lijst een waarborgsom van € 225,– worden betaald aan het waterschap.   
 2.  Artikel H 4, achtste lid, is van overeenkomstige toepassing.   
 3.  Degene die de in het eerste lid bedoelde betaling heeft verricht, ontvangt een bewijs daarvan. Dit bewijs moet bij de indiening van de lijst worden overgelegd.   
@@ -618,7 +641,7 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende het 
 
 a. dat, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal verklaringen voor deze kieskring, genoemd in artikel H 4, eerste lid, is overgelegd, waarbij niet meetellen de verklaringen die niet aan het bepaalde in artikel H 4, eerste lid, tweede volzin, en tweede lid, voldoen, de verklaringen waarop niet een aantekening als bedoeld in artikel H 4, vierde lid, voorkomt en de verklaringen van een kiezer die meer dan één verklaring heeft ondertekend;   
 
-b. dat, indien zich het geval voordoet, bedoeld in artikel H 7, derde lid, de verklaring dat de kandidaat voornemens is zich bij benoeming te vestigen in de provincie, onderscheidenlijk gemeente, ontbreekt;   
+b. dat, indien zich het geval voordoet, bedoeld in artikel H 7, derde lid, de verklaring dat de kandidaat voornemens is zich bij benoeming te vestigen in de provincie, het waterschap, onderscheidenlijk de gemeente, ontbreekt;   
 
 c. dat een kandidaat niet is vermeld overeenkomstig het bepaalde krachtens artikel H 8;   
 
@@ -636,7 +659,7 @@ i. dat een verklaring, bedoeld in het tweede of derde lid van artikel H 3, ontbr
 2.  Binnen de termijn van drie dagen na de zitting, bedoeld in artikel I 1, eerste lid, kan degene die de lijst heeft ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen bij het centraal stembureau, op de eerste en tweede dag van negen tot zeventien uur en op de derde dag van negen tot vijftien uur.   
 3.  In het geval, bedoeld in het eerste lid onder a, kunnen kiezers gedurende de verzuimperiode alsnog ondersteuningsverklaringen afleggen.   
 4.  In het geval, bedoeld in het eerste lid onder f, kan gedurende de verzuimperiode de waarborgsom alsnog worden betaald.  
-5.  In het geval, bedoeld in het eerste lid onder g, kan gedurende de verzuimperiode een kiezer die tot het inleveren van de lijst bevoegd zou zijn geweest, door persoonlijke verschijning bij het centraal stembureau zich in de plaats van de onbevoegde inleveraar stellen; hij identificeert zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). Het in de vorige zin bepaalde vindt overeenkomstige toepassing, indien in geval van onderdeel h de inleveraar zich niet alsnog tijdens de verzuimperiode identificeert.   
+5.  In het geval, bedoeld in het eerste lid onder g, kan gedurende de verzuimperiode een kiezer die tot het inleveren van de lijst bevoegd zou zijn geweest, door persoonlijke verschijning bij het centraal stembureau zich in de plaats van de onbevoegde inleveraar stellen; hij identificeert zich met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. Het in de vorige zin bepaalde vindt overeenkomstige toepassing, indien in geval van onderdeel h de inleveraar zich niet alsnog tijdens de verzuimperiode identificeert.   
 6.   Bij verhindering of ontstentenis van degene die de lijst heeft ingeleverd, treedt in diens plaats een ingevolge artikel H 5, tweede volzin, op de lijst vermelde vervanger.   
 
 ### Artikel  I 3  
@@ -662,7 +685,7 @@ d. die niet voldoet aan het bij ministeriële regeling vastgestelde model;
 
 e. die niet persoonlijk is ingeleverd door een kiezer, bevoegd tot deelneming aan de verkiezing;   
 
-f. waarbij de inleveraar zich niet heeft geïdentificeerd met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md);  
+f. waarbij de inleveraar zich niet heeft geïdentificeerd met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht;  
 
 g. waarop door toepassing van artikel I 6 alle kandidaten zijn geschrapt.    
 
@@ -678,9 +701,9 @@ c. wiens woonplaats buiten het Europese deel van Nederland is gelegen, indien de
 
 d. die tijdens de zittingsperiode van het orgaan waarvoor de verkiezing zal plaatshebben, niet de voor het zitting nemen in dat orgaan vereiste leeftijd bereikt;   
 
-e. die bij een verkiezing van de leden van provinciale staten of van de gemeenteraad geen ingezetene is van de provincie, onderscheidenlijk de gemeente, en ten aanzien van wie de verklaring dat hij voornemens is zich bij benoeming te vestigen in de provincie, onderscheidenlijk gemeente, ontbreekt;   
+e. die bij een verkiezing van de leden van provinciale staten, van het algemeen bestuur of van de gemeenteraad geen ingezetene is van de provincie, het waterschap onderscheidenlijk de gemeente, en ten aanzien van wie de verklaring dat hij voornemens is zich bij benoeming te vestigen in de provincie, het waterschap onderscheidenlijk de gemeente, ontbreekt;  
 
-f. die heeft verklaard dat hij voornemens is zich bij benoeming te vestigen in de provincie, onderscheidenlijk gemeente, en ten aanzien van wie blijkt dat hij tevens een zodanige verklaring heeft afgelegd voor de verkiezing van de leden van de staten van een andere provincie, onderscheidenlijk van de raad van een andere gemeente;   
+f. die heeft verklaard dat hij voornemens is zich bij benoeming te vestigen in de provincie, het waterschap, onderscheidenlijk de gemeente, en ten aanzien van wie blijkt dat hij tevens een zodanige verklaring heeft afgelegd voor de verkiezing van de leden van de staten van een andere provincie, van het algemeen bestuur van een ander waterschap, onderscheidenlijk van de raad van een andere gemeente;  
 
 g. die voorkomt op meer dan één van de lijsten die voor deze kieskring zijn ingeleverd;  
 
@@ -696,7 +719,7 @@ b. de aanduiding geplaatst is boven meer dan één van de voor dezelfde kieskrin
 
 ### Artikel  I 7  
 
-1.  Tegen een beschikking als bedoeld in artikel I 4 kan, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), beroep worden ingesteld door een belanghebbende en iedere kiezer. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift vier dagen.    
+1.  Tegen een beschikking als bedoeld in artikel I 4 kan, in afwijking van artikel 8:1 van de Algemene wet bestuursrecht, beroep worden ingesteld door een belanghebbende en iedere kiezer. In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een beroepschrift vier dagen.    
 2.   Artikel D 9 lid, is van overeenkomstige toepassing.    
 3.   De Afdeling bestuursrechtspraak van de Raad van State doet uitspraak uiterlijk op de zesde dag nadat het beroepschrift is ontvangen.    
 4.   Indien de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State strekt tot gegrondverklaring van het beroep, bepaalt zij dat haar uitspraak in de plaats treedt van de vernietigde beschikking.    
@@ -750,7 +773,7 @@ Bij de nummering gelden de lijstengroepen alsmede de niet van een groep deel uit
 
 1.  Onmiddellijk nadat de nummering heeft plaatsgevonden maakt de voorzitter openbaar welk nummer aan de onderscheidene lijsten is toegekend.   
 2.   Indien het betreft de verkiezing van de leden van de Tweede Kamer, geschiedt de openbaarmaking in de Staatscourant.    
-3.   Indien het betreft de verkiezing van de leden van provinciale staten of de gemeenteraad, geschiedt de openbaarmaking op de in de provincie, onderscheidenlijk de gemeente, gebruikelijke wijze.   
+3.   Indien het betreft de verkiezing van de leden van provinciale staten, het algemeen bestuur of de gemeenteraad, geschiedt de openbaarmaking op de in de provincie, het waterschap, onderscheidenlijk de gemeente, gebruikelijke wijze.   
 
 ### Artikel  I 16  
 
@@ -764,7 +787,7 @@ Bij de nummering gelden de lijstengroepen alsmede de niet van een groep deel uit
 ### Artikel  I 17  
 
 1.  Nadat onherroepelijk is beslist over de geldigheid van de ingeleverde lijsten maakt het centraal stembureau de lijsten zo spoedig mogelijk openbaar. Daarbij vermeldt het tevens welke lijsten tot een lijstencombinatie zijn verbonden.  
-2.   De openbaarmaking geschiedt:  indien het betreft de verkiezing van de leden van de Tweede Kamer, door plaatsing van de lijsten naar de kieskringen gerangschikt en met vermelding van hun nummers en, in voorkomend geval, de aanduidingen van de politieke groeperingen in de Staatscourant;  indien het betreft de verkiezing van de leden van provinciale staten of de gemeenteraad, door de van de nummers en, in voorkomend geval, de aanduidingen van de politieke groeperingen voorziene lijsten bij de gemeente waar het centraal stembureau is gevestigd, onderscheidenlijk bij de gemeente, voor een ieder ter inzage te leggen. Van de terinzagelegging geschiedt tegelijk openbare kennisgeving door de voorzitter van het centraal stembureau.   
+2.   De openbaarmaking geschiedt:  indien het betreft de verkiezing van de leden van de Tweede Kamer, door plaatsing van de lijsten naar de kieskringen gerangschikt en met vermelding van hun nummers en, in voorkomend geval, de aanduidingen van de politieke groeperingen in de Staatscourant;  indien het betreft de verkiezing van de leden van provinciale staten, het algemeen bestuur of de gemeenteraad, door de van de nummers en, in voorkomend geval, de aanduidingen van de politieke groeperingen voorziene lijsten bij het centraal stembureau, voor een ieder ter inzage te leggen. Van de terinzagelegging geschiedt tegelijk openbare kennisgeving door de voorzitter van het centraal stembureau.   
 
 ### §  5  
 
@@ -821,19 +844,18 @@ De stemming geschiedt in elke kieskring over de kandidaten wier namen voorkomen 
 
 ### Artikel  J 5  
 
-Behoudens in de gevallen, genoemd in de hoofdstukken K, L en M, neemt de kiezer aan de stemming deel in een stemlokaal van zijn keuze in de gemeente waar hij op de dag van de kandidaatstelling als kiezer is geregistreerd. 
+1.  Behoudens de gevallen, genoemd in de hoofdstukken K, L en M neemt de kiezer deel aan de stemming in een stemlokaal van zijn keuze dat ligt in de gemeente waar hij op de dag van de kandidaatstelling als kiezer is geregistreerd en dat ligt in het gebied van het orgaan waarvoor de verkiezing wordt gehouden.   
+2.  Burgemeester en wethouders kunnen besluiten dat kiezers kunnen stemmen in één of meer stemlokalen die liggen in de gemeente maar buiten het gebied van het orgaan waarvoor de verkiezing wordt gehouden.  
 
 ### Artikel  J 6  
 
-De gemeenteraad kan bepalen dat tegelijk met de stemming in het stemlokaal een andere, door de gemeenteraad uitgeschreven, stemming plaatsvindt. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met het oog op de combinatie van de stemmingen.  
+De gemeenteraad kan bepalen dat tegelijk met de stemming in het stemlokaal een andere, door de gemeenteraad uitgeschreven, stemming plaatsvindt. 
 
 ### Artikel  J 6a  
-Treedt in werking per 01-07-2014 
 
 De stemmingen voor de verkiezing van de leden van provinciale staten en de verkiezing van de leden van het algemeen bestuur vinden in dezelfde stemlokalen plaats. 
 
 ### Artikel  J 6b  
-Treedt in werking per 01-07-2014 
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met het oog op de combinatie van stemmingen als bedoeld in de artikelen J 6 en J 6a. 
 
@@ -866,7 +888,7 @@ e. waarvan is vastgesteld dat deze stempas is ontvreemd of anderszins onrechtmat
 1.  Aan de tot deelneming aan de stemming bevoegde kiezer wiens stempas in het ongerede is geraakt of die geen stempas heeft ontvangen, wordt op zijn verzoek door de burgemeester een nieuwe stempas uitgereikt of verzonden.   
 2.  De kiezer doet hiervoor een schriftelijk of mondeling verzoek aan de burgemeester.   
 3.  Het schriftelijk verzoek dient uiterlijk vijf dagen voor de stemming te zijn ontvangen. Het mondeling verzoek wordt uiterlijk op de dag voor de stemming om twaalf uur gedaan. Deze termijnen worden op de stempas vermeld.   
-4.  De kiezer legt bij zijn verzoek een kopie over van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+4.  De kiezer legt bij zijn verzoek een kopie over van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
 5.  Aan de kiezer wiens stempas op grond van artikel J 7a ongeldig is, wordt geen nieuwe stempas uitgereikt.  
 
 ### Artikel  J 9  
@@ -914,7 +936,7 @@ Het stemlokaal is zodanig ingericht dat het stemgeheim is gewaarborgd.
 
 ### Artikel  J 16  
 
-1.  In het stemlokaal zijn geplaatst een tafel voor het stembureau, een stembus en een of meer stemhokjes.    
+1.  In het stemlokaal zijn geplaatst een tafel voor het stembureau en een of meer stembussen en stemhokjes.    
 2.   De toegang tot de stemhokjes moet zichtbaar zijn voor het publiek.    
 3.   In ieder stemhokje bevindt zich een handleiding voor de kiezer. Bij ministeriële regeling wordt voor de handleiding een model vastgesteld.    
 4.   De tafel voor het stembureau is zo geplaatst dat de kiezers de verrichtingen van het stembureau kunnen gadeslaan.   
@@ -954,7 +976,7 @@ De burgemeester draagt zorg dat voldoende stembiljetten en formulieren voor de p
 
 1.  Tot de stemming wordt slechts toegelaten de kiezer die bevoegd is aan de verkiezing deel te nemen, voor zover: 
 
-a. de voorzitter van het stembureau de identiteit van de kiezer heeft vastgesteld aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md);  
+a. de voorzitter van het stembureau de identiteit van de kiezer heeft vastgesteld aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht;  
 
 b. de kiezer in het bezit is van de hem toegezonden of ingevolge artikel J 8 uitgereikte stempas, dan wel een kiezerspas of een volmachtbewijs.     
 2.  De in het eerste lid, onder a, bedoelde vaststelling van de identiteit kan ook geschieden aan de hand van een kopie van het proces-verbaal dat van een vermissing van het document op ambtseed is opgemaakt door een opsporingsambtenaar van de politie in het Europese deel van Nederland of in Bonaire, Sint Eustatius en Saba, onderscheidenlijk de politie van Aruba, van Curaçao of van Sint Maarten, in combinatie met een document van de kiesgerechtigde op diens naam en voorzien van zijn foto.  
@@ -965,13 +987,12 @@ b. de kiezer in het bezit is van de hem toegezonden of ingevolge artikel J 8 uit
 2.  Indien de voorzitter constateert dat de kiezer niet beschikt over een geldig identiteitsdocument, wordt de kiezer niet toegelaten tot de stemming.   
 3.  Indien de kiezer naar het oordeel van de voorzitter over een geldig identiteitsdocument beschikt, controleert de voorzitter de echtheid van de stempas.   
 4.  Indien het stembureau constateert dat de stempas niet echt is neemt de voorzitter de stempas in en wordt de kiezer niet toegelaten tot de stemming.   
-5.  Indien de stempas echt is, noemt de voorzitter vervolgens duidelijk verstaanbaar het volgnummer dat vermeld is op de stempas.   
-6.  Het tweede lid van het stembureau gaat na of het volgnummer van de stempas voorkomt in het uittreksel van ongeldige stempassen, bedoeld in artikel J 7a, tweede volzin. Indien dat het geval is, neemt het tweede lid van het stembureau de stempas in en wordt de kiezer niet toegelaten tot de stemming.   
-7.  Indien het volgnummer van de stempas niet voorkomt in het uittreksel van ongeldige stempassen, controleert de voorzitter vervolgens of de gegevens op het identiteitsdocument overeenkomen met de gegevens op de stempas. Indien de voorzitter constateert dat de gegevens niet overeenkomen, wordt de kiezer niet toegelaten tot de stemming.   
-8.  Indien de kiezer beschikt over een geldig identiteitdocument en een geldige stempas en de identiteit op beide documenten overeenkomt, neemt het tweede lid van het stembureau de stempas in en wordt de kiezer toegelaten tot de stemming.   
-9.  Vervolgens overhandigt de voorzitter aan de kiezer een stembiljet.   
-10.  De voorzitter houdt aantekening van het aantal ingenomen geldige stempassen.   
-11.  De ingevolge dit artikel ingenomen stempassen die niet echt of ongeldig zijn, worden door het stembureau onbruikbaar gemaakt.  
+5.  Indien de stempas echt is, gaat het tweede lid van het stembureau na of het volgnummer van de stempas voorkomt in het uittreksel van ongeldige stempassen, bedoeld in artikel J 7a, tweede volzin. Indien dat het geval is, neemt het tweede lid van het stembureau de stempas in en wordt de kiezer niet toegelaten tot de stemming.   
+6.  Indien het volgnummer van de stempas niet voorkomt in het uittreksel van ongeldige stempassen, controleert de voorzitter vervolgens of de gegevens op het identiteitsdocument overeenkomen met de gegevens op de stempas. Indien de voorzitter constateert dat de gegevens niet overeenkomen, wordt de kiezer niet toegelaten tot de stemming.   
+7.  Indien de kiezer beschikt over een geldig identiteitdocument en een geldige stempas en de identiteit op beide documenten overeenkomt, neemt het tweede lid van het stembureau de stempas in en wordt de kiezer toegelaten tot de stemming.   
+8.  Vervolgens overhandigt de voorzitter aan de kiezer een stembiljet.   
+9.  De voorzitter houdt aantekening van het aantal ingenomen geldige stempassen.   
+10.  De ingevolge dit artikel ingenomen stempassen die niet echt of ongeldig zijn, worden door het stembureau onbruikbaar gemaakt.  
 
 ### Artikel  J 26  
 
@@ -1046,7 +1067,8 @@ De voorzitter is belast met de handhaving van de orde tijdens de zitting. Hij ka
 
 ### Artikel  K 1  
 
-Aan de kiezer wordt overeenkomstig de bepalingen van dit hoofdstuk op zijn verzoek toegestaan binnen het gebied van het orgaan waarvoor de verkiezing wordt gehouden, aan de stemming deel te nemen in een stembureau van zijn keuze.  
+1. Aan de kiezer wordt overeenkomstig de bepalingen van dit hoofdstuk op zijn verzoek toegestaan binnen het gebied van het orgaan waarvoor de verkiezing wordt gehouden, aan de stemming deel te nemen in een stembureau van zijn keuze.  
+2.  Onverminderd het eerste lid kan de kiezer stemmen in de stemlokalen, bedoeld in artikel J 5, tweede lid. 
 
 ### Artikel  K 2  
 
@@ -1086,7 +1108,7 @@ Het in artikel K 1 bepaalde geldt niet voor de kiezer aan wie op zijn verzoek is
 ### Artikel  K 11  
 
 1.  Bij de stemming overhandigt de kiezer het in artikel J 24, eerste lid, onder a, genoemde identiteitsdocument, en de kiezerspas aan de voorzitter van het stembureau.    
-2.  Artikel J 25, tweede tot en met elfde lid, is van overeenkomstige toepassing. 
+2.  Artikel J 25, tweede tot en met tiende lid, is van overeenkomstige toepassing. 
 
 ### Hoofdstuk  L  
 
@@ -1107,11 +1129,11 @@ De kiezer die verwacht niet in staat te zullen zijn in persoon aan de stemming d
 
 ### Artikel  L 3  
 
-De gemachtigde kan een volmachtstem uitsluitend tegelijk met zijn eigen stem uitbrengen.  
+De gemachtigde kan een volmachtstem uitsluitend tegelijk met zijn eigen stem voor die verkiezing uitbrengen.  
 
 ### Artikel  L 4  
 
-Een kiezer mag niet meer dan twee aanwijzingen als gemachtigde aannemen.  
+Een kiezer mag per verkiezing niet meer dan twee aanwijzingen als gemachtigde aannemen.  
 
 ### Artikel  L 5  
 
@@ -1193,7 +1215,7 @@ De burgemeester, respectievelijk Onze Minister van Binnenlandse Zaken en Koninkr
 
 1.  De gemachtigde overhandigt aan de voorzitter van het stembureau het volmachtbewijs.    
 2.  Indien het een volmachtbewijs betreft als bedoeld in hoofdstuk L, paragraaf 3, overhandigt de gemachtigde tevens een kopie van een identiteitsdocument als bedoeld in artikel J 24, van de volmachtgever.   
-3.  Artikel J 25, tweede tot en met elfde lid, is van overeenkomstige toepassing.  
+3.  Artikel J 25, tweede tot en met tiende lid, is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  M  
 
@@ -1442,7 +1464,7 @@ d. het verschil tussen het aantal kiezers dat tot de stemming is toegelaten en h
 
 a. de officier van justitie of de rechter-commissaris in het kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot overdracht van deze stukken, in welk geval de vernietiging plaatsvindt nadat dit onderzoek is afgerond;  
 
-b. strafvervolging is ingesteld wegens een strafbaar gestelde gedraging in de Kieswet, de [artikelen 125 tot en met 129 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of de [artikelen 131 tot en met 135 van het Wetboek van Strafrecht BES](../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), in welk geval de vernietiging plaatsvindt nadat er een onherroepelijke rechterlijke uitspraak is.     
+b. strafvervolging is ingesteld wegens een strafbaar gestelde gedraging in de Kieswet, de artikelen 125 tot en met 129 van het Wetboek van Strafrecht of de artikelen 131 tot en met 135 van het Wetboek van Strafrecht BES, in welk geval de vernietiging plaatsvindt nadat er een onherroepelijke rechterlijke uitspraak is.     
 4.  Van de vernietiging wordt proces-verbaal opgemaakt. 
 
 ### Artikel  N 13  
@@ -1500,7 +1522,8 @@ De vaststelling van de aantallen stemmen, bedoeld in artikel N 11, tweede en der
 ### Artikel  O 1  
 
 1.  Het hoofdstembureau houdt op de tweede dag na de stemming om tien uur een openbare zitting.    
-2.   De voorzitter is belast met de handhaving van de orde tijdens de zitting.   
+2.  In afwijking van het eerste lid houdt het hoofdstembureau voor de verkiezing van de leden van provinciale staten met één kieskring of voor de verkiezing van de leden van het algemeen bestuur op de vijfde dag na de stemming om tien uur een openbare zitting.  
+3.   De voorzitter is belast met de handhaving van de orde tijdens de zitting.   
 
 ### Artikel  O 2  
 
@@ -1522,16 +1545,16 @@ d. het verschil tussen het aantal kiezers dat tot de stemming is toegelaten en h
 1.  Nadat alle werkzaamheden zijn beëindigd, wordt daarvan onmiddellijk proces-verbaal opgemaakt. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld.    
 2.   Het proces-verbaal wordt door alle aanwezige leden van het hoofdstembureau getekend.    
 3.   Bij ministeriële regeling wordt voor het proces-verbaal een model vastgesteld.    
-4.   Indien het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, maakt het proces-verbaal deel uit van het proces-verbaal, bedoeld in artikel P 22.   
+4.   Indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, maakt het proces-verbaal deel uit van het proces-verbaal, bedoeld in artikel P 22.   
 
 ### Artikel  O 4  
 
 1.  Het hoofdstembureau maakt het proces-verbaal onverwijld op een algemeen toegankelijke wijze elektronisch openbaar. Bij ministeriële regeling kan hiervoor een internetadres worden aangewezen.   
-2.  Tenzij het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, brengt het hoofdstembureau zijn proces-verbaal onverwijld naar het centraal stembureau over.  
+2.  Tenzij het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, brengt het hoofdstembureau zijn proces-verbaal onverwijld naar het centraal stembureau over.  
 
 ### Artikel  O 5  
 
-1.  Het hoofdstembureau brengt de processen-verbaal van de stembureaus en de opgaven van de burgemeesters en, tenzij het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, een afschrift van zijn proces-verbaal terstond over aan het orgaan waarvoor de verkiezing plaatsvindt.   
+1.  Het hoofdstembureau brengt de processen-verbaal van de stembureaus en de opgaven van de burgemeesters en, tenzij het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, een afschrift van zijn proces-verbaal terstond over aan het orgaan waarvoor de verkiezing plaatsvindt.   
 2.  Het orgaan waarvoor de verkiezing plaatsvindt, bewaart de processen-verbaal van de stembureaus drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt hij deze stukken onmiddellijk. Van de vernietiging wordt proces-verbaal opgemaakt.  
 
 ### Artikel  O 6  
@@ -1544,14 +1567,13 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 
 ### §  1  
 
-####Algemene bepaling 
+####Algemene bepalingen
 
 ### Artikel  P 1  
 
-Onmiddellijk nadat de processen-verbaal van alle hoofdstembureaus zijn ontvangen, gaat het centraal stembureau over tot het verrichten van de werkzaamheden ter vaststelling en bekendmaking van de uitslag van de verkiezing. Indien het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, gaat het centraal stembureau daartoe onmiddellijk over nadat de werkzaamheden, bedoeld in de artikelen O 1 en O 2, zijn beëindigd.  
+Onmiddellijk nadat de processen-verbaal van alle hoofdstembureaus zijn ontvangen, gaat het centraal stembureau over tot het verrichten van de werkzaamheden ter vaststelling en bekendmaking van de uitslag van de verkiezing. Indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, gaat het centraal stembureau daartoe onmiddellijk over nadat de werkzaamheden, bedoeld in de artikelen O 1 en O 2, zijn beëindigd.  
 
 ### Artikel  P 1a  
-Treedt in werking per 01-07-2014 
 
 1.  Indien het centraal stembureau programmatuur gebruikt ten behoeve van de berekening van de uitslag van de verkiezing of de berekening van de zetelverdeling, maakt het centraal stembureau elektronisch op een algemeen toegankelijke wijze openbaar welke programmatuur het gebruikt.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de openbaarmaking van de programmatuur en wordt bepaald onder welke voorwaarden het centraal stembureau programmatuur kan gebruiken ten behoeve van de berekening van de uitslag van de verkiezing of de berekening van de zetelverdeling en aan welke eisen deze programmatuur moet voldoen.  
@@ -1634,7 +1656,7 @@ De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in artikel P
 ### Artikel  P 15  
 
 1.  In de volgorde van de aantallen op hen uitgebrachte stemmen zijn gekozen die kandidaten die op de gezamenlijke lijsten waarop zij voorkomen, een aantal stemmen hebben verkregen, groter dan 25% van de kiesdeler, voor zover aan de lijstengroep of de niet van een lijstengroep deel uitmakende lijst voldoende zetels zijn toegewezen. Indien aantallen gelijk zijn, beslist zo nodig het lot.    
-2.  Indien het aantal bij de verkiezing te verdelen zetels minder dan negentien bedraagt, wordt bij de toepassing van het eerste lid niet 25% van de kiesdeler, maar de helft van de kiesdeler in aanmerking genomen.  
+2.  Indien het aantal bij de verkiezing van de leden van de gemeenteraad te verdelen zetels minder dan negentien bedraagt, wordt bij de toepassing van het eerste lid niet 25% van de kiesdeler, maar de helft van de kiesdeler in aanmerking genomen.  
 
 ### Artikel  P 16  
 
@@ -1657,7 +1679,7 @@ De zetels, toegewezen aan de al dan niet van een lijstengroep deel uitmakende li
 2.   Vervolgens worden, in de volgorde van de aantallen op hen uitgebrachte stemmen, gerangschikt de op de lijst voorkomende kandidaten die op de gezamenlijke lijsten waarop zij voorkomen een aantal stemmen hebben verkregen, groter dan 25% van de kiesdeler onderscheidenlijk groter dan de helft van de kiesdeler, doch die niet met toepassing van artikel P 15, eerste onderscheidenlijk tweede lid, zijn gekozen verklaard. Indien aantallen gelijk zijn, beslist de volgorde van de lijst.    
 3.   Tenslotte worden, in de volgorde van de lijst, gerangschikt de overige op de lijst voorkomende kandidaten.    
 4.   Bij de rangschikking blijft artikel P 18 buiten toepassing.    
-5.   Behoudens ten aanzien van de verkiezing van de leden van de gemeenteraden met minder dan dertien leden, blijft de rangschikking achterwege, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstencombinatie of lijstengroep waaraan één of meer zetels zijn toegekend.   
+5.   Behoudens ten aanzien van de verkiezing waarbij het aantal te verdelen zetels minder dan dertien bedraagt, blijft de rangschikking achterwege, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstencombinatie of lijstengroep waaraan één of meer zetels zijn toegekend.   
 
 ### Artikel  P 19a  
 
@@ -1708,7 +1730,7 @@ Het centraal stembureau doet een afschrift van het proces-verbaal toekomen aan h
 
 a. de officier van justitie of de rechter-commissaris in het kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot overdracht van deze stukken, in welk geval de vernietiging plaatsvindt nadat dit onderzoek is afgerond;  
 
-b. strafvervolging is ingesteld wegens een strafbaar gestelde gedraging in de Kieswet, de [artikelen 125 tot en met 129 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of de [artikelen 131 tot en met 135 van het Wetboek van Strafrecht BES](../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), in welk geval de vernietiging plaatsvindt nadat er een onherroepelijke rechterlijke uitspraak is.     
+b. strafvervolging is ingesteld wegens een strafbaar gestelde gedraging in de Kieswet, de artikelen 125 tot en met 129 van het Wetboek van Strafrecht of de artikelen 131 tot en met 135 van het Wetboek van Strafrecht BES, in welk geval de vernietiging plaatsvindt nadat er een onherroepelijke rechterlijke uitspraak is.     
 2.  Van de vernietiging wordt proces-verbaal opgemaakt.  
 
 ### Artikel  P 26  
@@ -1752,7 +1774,7 @@ In geval van ontbinding van de Eerste Kamer vindt de kandidaatstelling plaats bi
 2.  Een politieke groepering die een vereniging is met volledige rechtsbevoegdheid, waarvan de aanduiding niet is geregistreerd voor de verkiezing van de leden van de Tweede Kamer, kan aan het centraal stembureau voor de verkiezingen van de leden van de Eerste Kamer schriftelijk verzoeken de aanduiding waarmee zij voor die verkiezingen op de kandidatenlijst wenst te worden vermeld, in te schrijven in een register dat door het centraal stembureau wordt bijgehouden. Verzoeken, ontvangen na de drieënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling.   
 3.  Het tweede tot en met zevende lid van artikel G 1 zijn van overeenkomstige toepassing, met dien verstande dat voor de toepassing van het zevende lid, onder d, in plaats van «de Tweede Kamer» wordt gelezen «de Eerste Kamer».   
 4.  Behalve op de in artikel G 1, vierde lid, genoemde gronden wordt op een verzoek om registratie van de aanduiding van een politieke groepering ten behoeve van de verkiezingen van de leden van de Eerste Kamer afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak overeenstemt met een aanduiding van een andere politieke groepering die reeds ten behoeve van de verkiezingen van de leden van de Tweede Kamer is geregistreerd, of met een aanduiding waarvoor reeds eerder of op dezelfde dag ten behoeve van de verkiezing van de leden van de Tweede Kamer een registratieverzoek is ontvangen, en daardoor verwarring te duchten is.   
-5.  In afwijking van de [artikelen 6:7](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [6:8, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een beroepschrift tegen een beschikking als bedoeld in dit artikel ingediend uiterlijk op de zesde dag na de dagtekening van de Staatscourant waarin de beschikking is medegedeeld. 
+5.  In afwijking van de artikelen 6:7 en 6:8, eerste lid, van de Algemene wet bestuursrecht wordt een beroepschrift tegen een beschikking als bedoeld in dit artikel ingediend uiterlijk op de zesde dag na de dagtekening van de Staatscourant waarin de beschikking is medegedeeld. 
 
 ### Hoofdstuk  R  
 
@@ -1799,7 +1821,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 1.  Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de provincie of provincies waarvoor deze lijst is ingeleverd. Tenzij een gemachtigde, bedoeld in de artikelen R 9 of R 9a, wordt aangewezen wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in artikel V 1, wil ontvangen.   
 2.   Een overgelegde verklaring van instemming kan niet worden ingetrokken.    
-3.  Bij de lijst wordt van iedere kandidaat die geen zitting in de Eerste Kamer heeft, tevens een kopie van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) overgelegd. Indien van een dergelijke kandidaat een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht ontbreekt, wordt de verklaring van instemming van de betreffende kandidaat geacht te ontbreken.   
+3.  Bij de lijst wordt van iedere kandidaat die geen zitting in de Eerste Kamer heeft, tevens een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht overgelegd. Indien van een dergelijke kandidaat een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht ontbreekt, wordt de verklaring van instemming van de betreffende kandidaat geacht te ontbreken.   
 4.   Bij algemene maatregel van bestuur wordt geregeld waar en wanneer de formulieren voor de verklaringen van instemming, kosteloos, verkrijgbaar zijn. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.   
 
 ### Artikel  R 9  
@@ -1887,7 +1909,7 @@ b. de aanduiding geplaatst is boven meer dan één van de bij het centraal stemb
 
 ### Artikel  S 5  
 
-1.  Tegen een beschikking als bedoeld in artikel S 2 kan, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), beroep worden ingesteld door een belanghebbende en iedere kiezer.    
+1.  Tegen een beschikking als bedoeld in artikel S 2 kan, in afwijking van artikel 8:1 van de Algemene wet bestuursrecht, beroep worden ingesteld door een belanghebbende en iedere kiezer.    
 2.   Artikel I 7, eerste lid, tweede volzin, en tweede tot en met vierde lid, is van overeenkomstige toepassing.    
 3.  De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State stelt partijen en de voorzitter van het centraal stembureau onverwijld in kennis van de uitspraak.  
 
@@ -2108,7 +2130,7 @@ Het centraal stembureau kan, hetzij ambtshalve, hetzij naar aanleiding van een m
 
 ### Afdeling  IV  
 
-####Het begin van en de veranderingen in het lidmaatschap van de Tweede Kamer en de Eerste Kamer der Staten-Generaal, provinciale staten en de gemeenteraad 
+####Het begin van en de veranderingen in het lidmaatschap van de Tweede Kamer en de Eerste Kamer der Staten-Generaal, provinciale staten, het algemeen bestuur en de gemeenteraad 
 
 ### Hoofdstuk  V  
 
@@ -2137,7 +2159,7 @@ Het centraal stembureau kan, hetzij ambtshalve, hetzij naar aanleiding van een m
 1.  Tegelijk met de mededeling dat hij zijn benoeming aanneemt, legt de benoemde, onderscheidenlijk zijn gemachtigde, aan het vertegenwoordigend orgaan een door hem ondertekende verklaring over, vermeldende alle openbare betrekkingen die de benoemde bekleedt.    
 2.  Tenzij de benoemde op het tijdstip van benoeming reeds lid van het vertegenwoordigend orgaan was, legt hij tevens een gewaarmerkt afschrift van gegevens uit de basisregistratie personen over, waaruit zijn woonplaats, datum en plaats van de geboorte, alsmede, indien het betreft een benoeming tot lid van de Tweede of Eerste Kamer of provinciale staten, zijn Nederlanderschap blijken.   
 3.   De gemachtigde van de benoemde die buiten Nederland woonplaats heeft, legt in plaats van het afschrift, bedoeld in het tweede lid, een uittreksel uit de geboorteregisters over, waaruit datum en plaats van de geboorte van de benoemde blijken, alsmede een bewijs van Nederlanderschap betreffende de benoemde.    
-4.  Indien een tot lid van de gemeenteraad benoemde persoon geen onderdaan is van een lidstaat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisregistratie personen over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in [artikel 10, tweede lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md).  
+4.  Indien een tot lid van de gemeenteraad benoemde persoon geen onderdaan is van een lidstaat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisregistratie personen over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in artikel 10, tweede lid, van de Gemeentewet.  
 
 ### Artikel  V 4  
 
@@ -2153,8 +2175,24 @@ De ongeldigheid van de stemming in één of meer stembureaus of provincies of ee
 
 ### Artikel  V 6  
 
-1.  Indien het orgaan waarvoor de benoeming is geschied, besluit tot niet-toelating van één of meer leden wegens de ongeldigheid van de stemming in één of meer stembureaus of provincies geeft de voorzitter daarvan onverwijld kennis aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien het betreft een verkiezing van de leden van de Tweede of Eerste Kamer, aan gedeputeerde staten, indien het betreft een verkiezing van de leden van de staten van een provincie en aan burgemeester en wethouders, indien het betreft een verkiezing van de leden van de gemeenteraad.    
-2.   Uiterlijk op de dertigste dag nadat deze kennisgeving is ontvangen, vindt in de in het eerste lid bedoelde stembureaus, onderscheidenlijk provincies, een nieuwe stemming plaats en wordt de uitslag van de verkiezing opnieuw vastgesteld. De dag van de stemming wordt, indien het betreft een verkiezing van de leden van de Tweede of Eerste Kamer, vastgesteld door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien het betreft een verkiezing van de leden van de staten van een provincie, door gedeputeerde staten, en indien het betreft een verkiezing van de leden van de gemeenteraad, door burgemeester en wethouders.    
+1.  Indien het orgaan waarvoor de benoeming is geschied, besluit tot niet-toelating van één of meer leden wegens de ongeldigheid van de stemming in één of meer stembureaus of provincies geeft de voorzitter daarvan onverwijld kennis aan: 
+
+a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien het betreft een verkiezing van de leden van de Tweede of Eerste Kamer;  
+
+b. gedeputeerde staten, indien het betreft een verkiezing van de leden van de staten van een provincie;  
+
+c. het dagelijks bestuur, indien het betreft een verkiezing van de leden van het algemeen bestuur;  
+
+d. burgemeester en wethouders, indien het betreft een verkiezing van de leden van de gemeenteraad.     
+2.  Uiterlijk op de dertigste dag nadat deze kennisgeving is ontvangen, vindt in de in het eerste lid bedoelde stembureaus, onderscheidenlijk provincies, een nieuwe stemming plaats en wordt de uitslag van de verkiezing opnieuw vastgesteld. De dag van de stemming wordt vastgesteld door: 
+
+a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien het betreft een verkiezing van de leden van de Tweede of Eerste Kamer;  
+
+b. gedeputeerde staten, indien het betreft een verkiezing van de leden van de staten van een provincie;  
+
+c. het dagelijks bestuur, indien het betreft een verkiezing van de leden van het algemeen bestuur;  
+
+d. burgemeester en wethouders, indien het betreft een verkiezing van de leden van de gemeenteraad.     
 3.   Bij deze vaststelling blijft degene die reeds als lid is toegelaten, gekozen verklaard, ook indien mocht blijken dat dit ten onrechte is geschied. Tegenover hem valt dan af de kandidaat die, indien de toegelatene niet gekozen was verklaard, gekozen zou zijn.   
 
 ### Artikel  V 7  
@@ -2193,21 +2231,21 @@ Het lidmaatschap van een tot lid van een vertegenwoordigend orgaan benoemde vang
 
 ### §  2  
 
-####Bijzondere bepalingen betreffende het begin van het lidmaatschap van provinciale staten en de gemeenteraad.
+####Bijzondere bepalingen betreffende het begin van het lidmaatschap van provinciale staten, het algemeen bestuur en de gemeenteraad
 
 ### Artikel  V 12  
 
-De beslissing betreffende de toelating van de tot lid van provinciale staten onderscheidenlijk van de gemeenteraad benoemden wordt onverwijld genomen. 
+De beslissing betreffende de toelating van de tot lid van provinciale staten, het algemeen bestuur onderscheidenlijk van de gemeenteraad benoemden wordt onverwijld genomen. 
 
 ### Artikel  V 13  
 
-1.  Elke beslissing betreffende de toelating van de tot lid van provinciale staten, onderscheidenlijk de gemeenteraad, benoemden, wordt door de voorzitter van provinciale staten, onderscheidenlijk de voorzitter van de gemeenteraad, terstond aan de benoemde bekendgemaakt.    
+1.  Elke beslissing betreffende de toelating van de benoemden tot lid van provinciale staten, het algemeen bestuur, onderscheidenlijk de gemeenteraad, wordt door de voorzitter van provinciale staten, de voorzitter van het vertegenwoordigend orgaan van het waterschap, onderscheidenlijk de voorzitter van de gemeenteraad, terstond aan de benoemde bekendgemaakt.   
 2.   Aan de niet-toegelatene worden de redenen van de beslissing meegedeeld.    
-3.   Het eerste lid is van overeenkomstige toepassing, indien door provinciale staten, onderscheidenlijk de gemeenteraad, wegens herhaalde staking van stemmen of wegens staking van stemmen in een voltallige vergadering over een voorstel omtrent toelating geen beslissing is genomen.   
+3.   Het eerste lid is van overeenkomstige toepassing, indien door het vertegenwoordigend orgaan, wegens herhaalde staking van stemmen of wegens staking van stemmen in een voltallige vergadering over een voorstel omtrent toelating geen beslissing is genomen.   
 
 ### Artikel  V 15  
 
-1.  Indien op het tijdstip van periodieke aftreding van de leden van provinciale staten, onderscheidenlijk van de gemeenteraad, niet de goedkeuring van de geloofsbrieven van meer dan de helft van het wettelijk voorgeschreven aantal leden onherroepelijk is geworden, houden de leden van provinciale staten, onderscheidenlijk van de gemeenteraad, zitting, totdat zulks is geschied. Gedurende deze tijd oefenen de bij de verkiezing gekozen leden hun functie niet uit.    
+1.  Indien op het tijdstip van periodieke aftreding van de leden van provinciale staten, het vertegenwoordigend orgaan van het waterschap, onderscheidenlijk van de gemeenteraad, niet de goedkeuring van de geloofsbrieven van meer dan de helft van het wettelijk voorgeschreven aantal leden onherroepelijk is geworden, houden de leden van dat vertegenwoordigend orgaan, zitting, totdat zulks is geschied. Gedurende deze tijd oefenen de bij de verkiezing gekozen leden hun functie niet uit.    
 2.   Een plaats die openvalt na het tijdstip van periodieke aftreding, wordt vervuld op dezelfde wijze, als zou zijn geschied, indien zij voor dat tijdstip zou zijn opengevallen.   
 
 ### Hoofdstuk  W  
@@ -2247,7 +2285,7 @@ f. van wie door de voorzitter van het centraal stembureau een schriftelijke verk
 
 g. die lid was van het vertegenwoordigend orgaan, terwijl ook ten aanzien van deze kandidaat ter kennis van de voorzitter van het centraal stembureau is gekomen dat in zijn opengevallen plaats moet worden voorzien; 
 
-h. die, indien het de verkiezing van provinciale staten onderscheidenlijk de gemeenteraad betreft, niet benoembaar is ingevolge het bepaalde in [artikel 12 van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) onderscheidenlijk [artikel 11 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md).      
+h. die, indien het de verkiezing van provinciale staten, het algemeen bestuur onderscheidenlijk de gemeenteraad betreft, niet benoembaar is ingevolge het bepaalde in artikel 12 van de Provinciewet, artikel 31b van de Waterschapswet onderscheidenlijk artikel 11 van de Gemeentewet.      
 2.   Een verklaring als bedoeld in het eerste lid, onder f, kan worden ingetrokken.    
 3.   Bij ministeriële regeling wordt een model vastgesteld voor de verklaring, bedoeld in het eerste lid, onder f.   
 
@@ -2258,7 +2296,7 @@ h. die, indien het de verkiezing van provinciale staten onderscheidenlijk de gem
 
 ### Artikel  W 4  
 
-1.  Indien bij opvolging van leden van een gemeenteraad met minder dan dertien leden geen kandidaat meer voor benoeming in aanmerking komt op de lijst, waarop degene is gekozen die moet worden opgevolgd, of op de lijsten die met deze lijst een lijstengroep of lijstencombinatie vormen, wordt door toepassing van artikel P 10 beslist aan welke van de andere lijsten de plaats zal worden toegekend. De kandidaat die op de lijst waaraan de plaats wordt toegekend, naar de volgorde, vastgesteld overeenkomstig artikel P 19, voor benoeming in aanmerking komt, wordt benoemd verklaard.    
+1.  Indien bij opvolging van leden van een vertegenwoordigend orgaan met minder dan dertien leden geen kandidaat meer voor benoeming in aanmerking komt op de lijst, waarop degene is gekozen die moet worden opgevolgd, of op de lijsten die met deze lijst een lijstengroep of lijstencombinatie vormen, wordt door toepassing van artikel P 10 beslist aan welke van de andere lijsten de plaats zal worden toegekend. De kandidaat die op de lijst waaraan de plaats wordt toegekend, naar de volgorde, vastgesteld overeenkomstig artikel P 19, voor benoeming in aanmerking komt, wordt benoemd verklaard.    
 2.   Indien bij de toepassing van de bepalingen van dit hoofdstuk op geen van de lijsten een kandidaat meer voor benoeming in aanmerking komt, beslist het centraal stembureau dat geen opvolger kan worden benoemd. Bij ministeriële regeling wordt voor het besluit een model vastgesteld.   
 
 ### Artikel  W 5  
@@ -2270,10 +2308,10 @@ h. die, indien het de verkiezing van provinciale staten onderscheidenlijk de gem
 
 Indien de voorzitter van een centraal stembureau op dezelfde dag kennis krijgt van het openvallen van meer dan één plaats in een vertegenwoordigend orgaan en als gevolg hiervan een kandidaat op meer dan één lijst benoemd zou moeten worden verklaard, wordt deze benoemd met overeenkomstige toepassing van artikel P 18.  
 
-###Artikel W 7 
+### Artikel  W 7  
 
-1. Iedere benoeming die met toepassing van de bepalingen van dit hoofdstuk geschiedt, wordt terstond bekendgemaakt in de Staatscourant of, indien het betreft de benoeming van een lid van provinciale staten of de gemeenteraad, op de in de provincie, onderscheidenlijk de gemeente, gebruikelijke wijze. 
-2.  De voorzitter van het centraal stembureau doet een afschrift van het benoemingsbesluit toekomen aan het vertegenwoordigend orgaan. 
+1.  Iedere benoeming die met toepassing van de bepalingen van dit hoofdstuk geschiedt, wordt terstond bekendgemaakt in de Staatscourant of, indien het betreft de benoeming van een lid van provinciale staten, het algemeen bestuur of de gemeenteraad, op de in de provincie, het waterschap, onderscheidenlijk de gemeente, gebruikelijke wijze.    
+2.   De voorzitter van het centraal stembureau doet een afschrift van het benoemingsbesluit toekomen aan het vertegenwoordigend orgaan.   
 
 ### Artikel  W 8  
 
@@ -2305,7 +2343,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 
 ### Artikel  X 3  
 
-1.  Wanneer een lid van de Tweede of van de Eerste Kamer wordt benoemd in een ambt als bedoeld in [artikel 57, tweede lid, van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md), houdt zijn lidmaatschap van de Kamer van rechtswege op.  
+1.  Wanneer een lid van de Tweede of van de Eerste Kamer wordt benoemd in een ambt als bedoeld in artikel 57, tweede lid, van de Grondwet, houdt zijn lidmaatschap van de Kamer van rechtswege op.  
 2.  Wanneer een lid van de Tweede of van de Eerste Kamer komt te verkeren in een van de gevallen, genoemd in het eerste lid van artikel X 1, anders dan op grond van het voorgaande lid, geeft hij hiervan kennis aan de kamer, met vermelding van de reden.    
 3.   Indien de kennisgeving niet is gedaan en de voorzitter van de kamer van oordeel is, dat een lid van de kamer verkeert in een van de gevallen, genoemd in het eerste lid van artikel X 1, waarschuwt hij de belanghebbende schriftelijk.    
 4.   Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het derde lid bedoelde waarschuwing aan het oordeel van de kamer te onderwerpen.   
@@ -2317,7 +2355,6 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 3.   Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het tweede lid bedoelde waarschuwing aan het oordeel van provinciale staten te onderwerpen.   
 
 ### Artikel  X 4a  
-Treedt in werking per 01-07-2014 
 
 1.  Wanneer een lid van het algemeen bestuur komt te verkeren in een van de gevallen, genoemd in het eerste lid van artikel X 1, geeft hij hiervan kennis aan het vertegenwoordigend orgaan van het waterschap, met vermelding van de reden.   
 2.  Indien de kennisgeving niet is gedaan en de voorzitter van het vertegenwoordigend orgaan van het waterschap van oordeel is, dat een lid van het algemeen bestuur verkeert in een van de gevallen, genoemd in het eerste lid van artikel X 1, waarschuwt hij de belanghebbende schriftelijk.   
@@ -2331,39 +2368,38 @@ Treedt in werking per 01-07-2014
 
 ### Artikel  X 6  
 
-Leden van provinciale staten en van de gemeenteraad die hun ontslag hebben ingezonden, behouden, ook indien zij ontslag hebben genomen met ingang van een bepaald tijdstip, hun lidmaatschap, totdat de goedkeuring van de geloofsbrieven van hun opvolgers onherroepelijk is geworden of totdat het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.  
+Leden van provinciale staten, het algemeen bestuur en van de gemeenteraad die hun ontslag hebben ingezonden, behouden, ook indien zij ontslag hebben genomen met ingang van een bepaald tijdstip, hun lidmaatschap, totdat de goedkeuring van de geloofsbrieven van hun opvolgers onherroepelijk is geworden of totdat het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.  
 
 ### Artikel  X 7  
 
-1.  Het lid van provinciale staten dat in strijd met [artikel 15 van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) handelt, kan in zijn betrekking worden geschorst door de voorzitter van provinciale staten. De voorzitter onderwerpt de zaak aan het oordeel van provinciale staten in hun eerstvolgende vergadering.    
+1.  Het lid van provinciale staten dat in strijd met artikel 15 van de Provinciewet handelt, kan in zijn betrekking worden geschorst door de voorzitter van provinciale staten. De voorzitter onderwerpt de zaak aan het oordeel van provinciale staten in hun eerstvolgende vergadering.    
 2.   Provinciale staten kunnen, na de geschorste in de gelegenheid te hebben gesteld zich mondeling te verdedigen, hem van zijn lidmaatschap vervallen verklaren. Indien zij daartoe geen aanleiding vinden, heffen zij de schorsing op.    
-3.   Provinciale staten kunnen ook ambtshalve het lid dat in strijd met [artikel 15 van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.    
+3.   Provinciale staten kunnen ook ambtshalve het lid dat in strijd met artikel 15 van de Provinciewet handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.    
 4.   Van de beslissing van provinciale staten, bedoeld in het tweede en derde lid, wordt terstond aan de belanghebbende mededeling gedaan.    
 5.   De werking van een besluit, inhoudende de vervallenverklaring, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. Ingeval de vervallenverklaring ambtshalve heeft plaatsgevonden, is het lid van provinciale staten gedurende deze periode in zijn betrekking geschorst.    
 6.   Indien een lid van provinciale staten op grond van dit artikel onherroepelijk van zijn lidmaatschap vervallen is verklaard, doet de commissaris van de Koning daarvan mededeling aan de voorzitter van het centraal stembureau.   
 
 ### Artikel  X 7a  
-Treedt in werking per 01-07-2014 
 
-1.  Het lid van het algemeen bestuur dat in strijd met [artikel 33, eerste lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) handelt, kan in zijn betrekking worden geschorst door de voorzitter van het vertegenwoordigend orgaan van het waterschap. De voorzitter onderwerpt de zaak aan het oordeel van het vertegenwoordigend orgaan in zijn eerstvolgende vergadering.   
+1.  Het lid van het algemeen bestuur dat in strijd met artikel 33, eerste lid, van de Waterschapswet handelt, kan in zijn betrekking worden geschorst door de voorzitter van het vertegenwoordigend orgaan van het waterschap. De voorzitter onderwerpt de zaak aan het oordeel van het vertegenwoordigend orgaan in zijn eerstvolgende vergadering.   
 2.  Het vertegenwoordigend orgaan van het waterschap kan, na de geschorste in de gelegenheid te hebben gesteld zich mondeling te verdedigen, hem van zijn lidmaatschap vervallen verklaren. Indien hij daartoe geen aanleiding vindt, heft hij de schorsing op.   
-3.  Het vertegenwoordigend orgaan van het waterschap kan ook ambtshalve het lid dat in strijd met [artikel 33, eerste lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.   
+3.  Het vertegenwoordigend orgaan van het waterschap kan ook ambtshalve het lid dat in strijd met artikel 33, eerste lid, van de Waterschapswet handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.   
 4.  Van de beslissing van het vertegenwoordigend orgaan van het waterschap, bedoeld in het tweede en derde lid, wordt terstond aan de belanghebbende mededeling gedaan.   
 5.  De werking van een besluit, inhoudende de vervallenverklaring, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. Ingeval de vervallenverklaring ambtshalve heeft plaatsgevonden, is het lid van het algemeen bestuur gedurende deze periode in zijn betrekking geschorst.   
 6.  Indien een lid van het algemeen bestuur als bedoeld in het eerste lid op grond van dit artikel onherroepelijk van zijn lidmaatschap vervallen is verklaard, doet de voorzitter van het waterschap daarvan mededeling aan de voorzitter van het centraal stembureau.  
 
 ### Artikel  X 8  
 
-1.  Het lid van de gemeenteraad dat in strijd met [artikel 15, eerste lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) handelt, kan in zijn betrekking worden geschorst door de voorzitter van de gemeenteraad. De voorzitter onderwerpt de zaak aan het oordeel van de raad in zijn eerstvolgende vergadering.    
+1.  Het lid van de gemeenteraad dat in strijd met artikel 15, eerste lid, van de Gemeentewet handelt, kan in zijn betrekking worden geschorst door de voorzitter van de gemeenteraad. De voorzitter onderwerpt de zaak aan het oordeel van de raad in zijn eerstvolgende vergadering.    
 2.   De raad kan, na de geschorste in de gelegenheid te hebben gesteld zich mondeling te verdedigen, hem van zijn lidmaatschap vervallen verklaren. Indien hij daartoe geen aanleiding vindt, heft hij de schorsing op.    
-3.   De raad kan ook ambtshalve het lid dat in strijd met [artikel 15, eerste lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.    
+3.   De raad kan ook ambtshalve het lid dat in strijd met artikel 15, eerste lid, van de Gemeentewet handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.    
 4.   Van de beslissing van de raad, bedoeld in het tweede en derde lid, wordt terstond aan de belanghebbende mededeling gedaan.    
 5.   De werking van een besluit, inhoudende de vervallenverklaring, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. Ingeval de vervallenverklaring ambtshalve heeft plaatsgevonden, is het lid van de raad gedurende deze periode in zijn betrekking geschorst.    
 6.   Indien een lid van de raad op grond van dit artikel onherroepelijk van zijn lidmaatschap vervallen is verklaard, doet de burgemeester daarvan mededeling aan de voorzitter van het centraal stembureau.   
 
 ### Artikel  X 9  
 
-Artikel D 9 is van overeenkomstige toepassing op een besluit als bedoeld in artikel X 4, derde lid, X 5, derde lid, X 7, vierde lid en X 8, vierde lid. 
+Artikel D 9 is van overeenkomstige toepassing op een besluit als bedoeld in artikel X 4, derde lid, X 5, derde lid, X 7, vierde lid, X 7a, vierde lid, en X 8, vierde lid. 
 
 ###§ 3 
 
@@ -2436,7 +2472,7 @@ b. de niet-Nederlanders die onderdanen zijn van andere lid-staten van de Europes
 
 Lid van het Europees Parlement kunnen zijn:  
 
-a. zij die voldoen aan de vereisten die in [artikel 56 van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md) voor het lidmaatschap van de Staten-Generaal worden gesteld;   
+a. zij die voldoen aan de vereisten die in artikel 56 van de Grondwet voor het lidmaatschap van de Staten-Generaal worden gesteld;   
 
 b. de niet-Nederlanders die onderdanen zijn van andere lid-staten van de Europese Unie, mits zij:  
 
@@ -2571,7 +2607,7 @@ De kiesgerechtigde niet-Nederlander die onderdaan is van een andere lidstaat van
 ### Artikel  Y 32  
 
 1.  Burgemeester en wethouders registreren de kiesgerechtigdheid van de in artikel Y 3, onder b, bedoelde personen die ingezetene zijn van de gemeente, indien zij daartoe een schriftelijk verzoek hebben ingediend.    
-2.  Bij het verzoek vermeldt verzoeker zijn adres van verblijf en, voor zover van toepassing, de plaats in de lidstaat waarvan hij onderdaan is, waar hij het laatst als kiezer was geregistreerd. Bij het verzoek legt verzoeker een kopie over van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). Voorts verklaart hij dat hij in de lidstaat waarvan hij onderdaan is, niet van het kiesrecht is uitgesloten en dat hij het kiesrecht uitsluitend in Nederland zal uitoefenen.    
+2.  Bij het verzoek vermeldt verzoeker zijn adres van verblijf en, voor zover van toepassing, de plaats in de lidstaat waarvan hij onderdaan is, waar hij het laatst als kiezer was geregistreerd. Bij het verzoek legt verzoeker een kopie over van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. Voorts verklaart hij dat hij in de lidstaat waarvan hij onderdaan is, niet van het kiesrecht is uitgesloten en dat hij het kiesrecht uitsluitend in Nederland zal uitoefenen.    
 3.  Verzoeken die worden ontvangen na de dag van de kandidaatstelling blijven voor de daaropvolgende verkiezing buiten beschouwing.    
 4.  Bij algemene maatregel van bestuur wordt geregeld waar en wanneer het formulier voor het verzoek, kosteloos, voor de kiezers verkrijgbaar is. Van het formulier maken de verklaringen, bedoeld in het tweede lid, deel uit. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.    
 5.  Burgemeester en wethouders zenden aan de niet-Nederlander, die de nationaliteit van een andere lidstaat van de Europese Unie heeft, en die zich van buiten het Europese deel van Nederland vestigt in de gemeente, een formulier toe waarmee hij registratie van zijn kiesgerechtigdheid kan verzoeken.   
@@ -2679,7 +2715,7 @@ d. «de gemeenteraad»: de eilandsraad;
 
 e. «gemeentehuis»: het bestuurskantoor;  
 
-f. «[artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md)»: [artikel 2 van de Wet op de identificatieplicht BES](../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md).    
+f. «artikel 1 van de Wet op de identificatieplicht»: artikel 2 van de Wet op de identificatieplicht BES.    
 2.  Indien uitsluitend de gemeente, de burgemeester of burgemeester en wethouders van ’s-Gravenhage wordt bedoeld, geldt het eerste lid, onder a tot en met c, niet.  
 
 ### §  2  
@@ -2694,7 +2730,7 @@ Op de dag van de kandidaatstelling kunnen tevens bij een gezaghebber, van negen 
 
 1.  De verklaringen of bewijzen die moeten worden overgelegd bij een kandidatenlijst, die is ingeleverd bij een gezaghebber of het centraal stembureau, kunnen tevens afzonderlijk worden ingeleverd op de dag van kandidaatstelling, van negen tot zeventien uur, bij een gezaghebber of het centraal stembureau.   
 2.  De inlevering geschiedt door de degene die de kandidatenlijst heeft ingeleverd of een persoon die, blijkens de kandidatenlijst, bevoegd is tot het herstel van verzuimen.   
-3.  De inleveraar identificeert zich bij een gezaghebber dan wel het centraal stembureau met een document als bedoeld in [artikel 2 van de Wet op de identificatieplicht BES](../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md), respectievelijk een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+3.  De inleveraar identificeert zich bij een gezaghebber dan wel het centraal stembureau met een document als bedoeld in artikel 2 van de Wet op de identificatieplicht BES, respectievelijk een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
 4.  Degene die verklaringen of bewijzen afzonderlijk inlevert, ontvangt daarvan een bewijs. 
 
 ### Artikel  Ya 6  
@@ -2771,11 +2807,11 @@ De benoemde die woonachtig is in het openbaar lichaam waar hij zich kandidaat st
 
 ### Artikel  Ya 20  
 
-Voor de toepassing van artikel W 2, eerste lid, onderdeel h, wordt in plaats van «[artikel 11 van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md)» gelezen: [artikel 12 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md). 
+Voor de toepassing van artikel W 2, eerste lid, onderdeel h, wordt in plaats van «artikel 11 van de Gemeentewet» gelezen: artikel 12 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  Ya 21  
 
-Voor de toepassing van artikel X 8, eerste en derde lid, wordt in plaats van «[artikel 15, eerste lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md)» gelezen: [artikel 16, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md). 
+Voor de toepassing van artikel X 8, eerste en derde lid, wordt in plaats van «artikel 15, eerste lid, van de Gemeentewet» gelezen: artikel 16, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### §  4  
 
@@ -2892,15 +2928,15 @@ Degene die een verzoek indient als bedoeld in artikel D 5, verschaft de gegevens
 
 ### Artikel  Ya 42  
 
-1.  In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) wordt het beroep tegen een beschikking van het bestuurscollege als bedoeld in artikel D 6, een beschikking van de gezaghebber als bedoeld in de artikelen K 8, eerste lid, L 11, eerste lid, en M 4, eerste lid, en tegen een beschikking van de eilandsraad als bedoeld in de artikelen X 5, derde lid, en X 8, vierde lid, ingesteld bij het Gemeenschappelijk Hof.   
-2.  Op het beroep zijn de [hoofdstukken 3](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [6](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), met uitzondering van [§ 1](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [§ 3, van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) van overeenkomstige toepassing.   
-3.  De [artikelen 54](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [55 van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) zijn niet van toepassing.   
-4.  In afwijking van [artikel 17, vijfde lid, van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De president van het Gemeenschappelijk Hof kan een kortere termijn stellen.   
-5.  Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van [§ 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md). Aan het bestuursorgaan wordt terstond een afschrift van het beroepschrift toegezonden.  
+1.  In afwijking van artikel 7 van de Wet administratieve rechtspraak BES wordt het beroep tegen een beschikking van het bestuurscollege als bedoeld in artikel D 6, een beschikking van de gezaghebber als bedoeld in de artikelen K 8, eerste lid, L 11, eerste lid, en M 4, eerste lid, en tegen een beschikking van de eilandsraad als bedoeld in de artikelen X 5, derde lid, en X 8, vierde lid, ingesteld bij het Gemeenschappelijk Hof.   
+2.  Op het beroep zijn de hoofdstukken 3 en 6, met uitzondering van § 1 en § 3, van de Wet administratieve rechtspraak BES van overeenkomstige toepassing.   
+3.  De artikelen 54 en 55 van de Wet administratieve rechtspraak BES zijn niet van toepassing.   
+4.  In afwijking van artikel 17, vijfde lid, van de Wet administratieve rechtspraak BES bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De president van het Gemeenschappelijk Hof kan een kortere termijn stellen.   
+5.  Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van § 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES. Aan het bestuursorgaan wordt terstond een afschrift van het beroepschrift toegezonden.  
 
 ### Artikel  Ya 43  
 
-1.  In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) wordt het beroep tegen een beschikking op grond van de artikelen G 1, Q 6 en Y 2, in samenhang met artikel G 1, die is gericht op een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, ingesteld bij het Gemeenschappelijk Hof.   
+1.  In afwijking van artikel 7 van de Wet administratieve rechtspraak BES wordt het beroep tegen een beschikking op grond van de artikelen G 1, Q 6 en Y 2, in samenhang met artikel G 1, die is gericht op een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, ingesteld bij het Gemeenschappelijk Hof.   
 2.  De artikelen G 5, eerste lid, aanhef en onder a, en Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  Ya 44  
@@ -2909,7 +2945,7 @@ Degene die een verzoek indient als bedoeld in artikel D 5, verschaft de gegevens
 
 a. een kandidatenlijst waarboven bij de inlevering van de lijst een aanduiding is geplaatst van een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, of  
 
-b. een kandidatenlijst waarboven geen aanduiding is geplaatst maar waarvan de eerstgenoemde kandidaat ingezetene is van Bonaire, Sint Eustatius of Saba, kan door een belanghebbende, in afwijking van [artikel 7 Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.     
+b. een kandidatenlijst waarboven geen aanduiding is geplaatst maar waarvan de eerstgenoemde kandidaat ingezetene is van Bonaire, Sint Eustatius of Saba, kan door een belanghebbende, in afwijking van artikel 7 Wet administratieve rechtspraak BES, en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.     
 2.  De artikelen I 7, eerste lid, tweede volzin, derde tot en met vijfde lid, I 8 en Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  Ya 45  
@@ -2918,15 +2954,15 @@ Tegen een beschikking op grond van de artikelen G 2, G 4 of I 4 die wordt genome
 
 ### Artikel  Ya 46  
 
-1.  In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) wordt het beroep tegen een beschikking op grond van de artikelen G 3 of G 4 die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, ingesteld bij het Gemeenschappelijk Hof.   
-2.  Tegen een beschikking op grond van artikel I 4 die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, kan door een belanghebbende, in afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.   
+1.  In afwijking van artikel 7 van de Wet administratieve rechtspraak BES wordt het beroep tegen een beschikking op grond van de artikelen G 3 of G 4 die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, ingesteld bij het Gemeenschappelijk Hof.   
+2.  Tegen een beschikking op grond van artikel I 4 die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, kan door een belanghebbende, in afwijking van artikel 7 van de Wet administratieve rechtspraak BES, en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.   
 3.  Artikel G 5, eerste lid, aanhef en onderdelen b en c, is van overeenkomstige toepassing indien het betreft een beschikking op grond van artikel G 3 of G 4.   
 4.  De artikelen I 7, derde tot en met vijfde lid, en I 8 zijn van overeenkomstige toepassing indien het betreft een beschikking op grond van artikel I 4.   
 5.  Artikel Ya 42, tweede tot en met vijfde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  Ya 47 
 
-Voor zover de periode van vijf jaren, genoemd in artikel Ya 14, tweede lid, onderdeel b, is gelegen vóór inwerkingtreding van de Wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 2010, 347), wordt onder Nederland tevens verstaan de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, met dien verstande dat in bedoeld artikel voor «[Wet toelating en uitzetting BES](../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)» wordt gelezen: Landsverordening toelating en uitzetting. 
+Voor zover de periode van vijf jaren, genoemd in artikel Ya 14, tweede lid, onderdeel b, is gelegen vóór inwerkingtreding van de Wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 2010, 347), wordt onder Nederland tevens verstaan de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, met dien verstande dat in bedoeld artikel voor «Wet toelating en uitzetting BES» wordt gelezen: Landsverordening toelating en uitzetting. 
 
 ### Artikel  Ya 48  
 
@@ -2994,8 +3030,8 @@ Degene die stembiljetten, stempassen, kiezerspassen, volmachtbewijzen of briefst
 
 ### Artikel  Z 5  
 
-1.  Bij veroordeling wegens een van de in de artikelen Z 1 tot en met Z 4 omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, [artikel 32, onder 1°, 2° en 4°, van het Wetboek van Strafrecht BES](../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) vermelde rechten worden uitgesproken.    
-2.   Bij veroordeling tot een vrijheidsstraf van ten minste een jaar wegens een van de in de artikelen Z 1 tot en met Z 3 omschreven misdrijven, kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, [artikel 32, onder 3°, van het Wetboek van Strafrecht BES](../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) vermelde recht worden uitgesproken.   
+1.  Bij veroordeling wegens een van de in de artikelen Z 1 tot en met Z 4 omschreven misdrijven kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, artikel 32, onder 1°, 2° en 4°, van het Wetboek van Strafrecht BES vermelde rechten worden uitgesproken.    
+2.   Bij veroordeling tot een vrijheidsstraf van ten minste een jaar wegens een van de in de artikelen Z 1 tot en met Z 3 omschreven misdrijven, kan ontzetting van het in artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, artikel 32, onder 3°, van het Wetboek van Strafrecht BES vermelde recht worden uitgesproken.   
 
 ### Artikel  Z 6  
 
@@ -3030,7 +3066,7 @@ De in de artikelen Z 1 tot en met Z 4 bedoelde strafbare feiten worden als misdr
 1.  Wanneer bij of krachtens deze wet voorgeschreven verrichtingen op een zaterdag, zondag of algemeen erkende feestdag zouden vallen, treedt de eerstvolgende dag, geen zaterdag, zondag of algemeen erkende feestdag zijnde, daarvoor in de plaats. Deze bepaling is mede van toepassing op het tegelijk aftreden van de leden van vertegenwoordigende organen.    
 2.  Het eerste lid geldt ook voor verrichtingen waarvoor de wettelijke termijn wordt bepaald door terugrekening vanaf een tijdstip of een gebeurtenis.  
 3.   Voor zover de bepaling van de tijd voor die verrichtingen aan het openbaar gezag is opgedragen, worden daarvoor geen zaterdagen, zondagen of algemeen erkende feestdagen aangewezen.    
-4.   Onder algemeen erkende feestdagen worden verstaan de in [artikel 3 van de Algemene termijnenwet](../../../wet/algemene/termijnenwet/BWBR0002448/README.md) (*Stb.* 1964, 314) als zodanig genoemde en de bij of krachtens dat artikel daarmee gelijkgestelde dagen.   
+4.   Onder algemeen erkende feestdagen worden verstaan de in artikel 3 van de Algemene termijnenwet (*Stb.* 1964, 314) als zodanig genoemde en de bij of krachtens dat artikel daarmee gelijkgestelde dagen.   
 
 ### Artikel  Z 13  
 

@@ -795,7 +795,13 @@ De ambtenaar belast met de grensbewaking weigert de toegang aan iedere vreemdeli
 
 * legt een vrijheidsontnemende maatregel op grond van artikel 6, eerste en tweede lid, Vw op door middel van het model M19; en  
 
-* plaatst de vreemdeling, voor de behandeling de aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in AC Schiphol.   De ambtenaar belast met de grensbewaking legt het voornemen voor aan de IND als het voornemen bestaat om de toegang te weigeren aan een vreemdeling die een onderdaan van de EU, EER of Zwitserland is of dit stelt te zijn, en vraagt een bijzondere aanwijzing op grond van artikel 8.8, tweede lid, Vb. De ambtenaar belast met de grensbewaking neemt contact op met de IND als, in andere dan de hierboven genoemde gevallen, het al dan niet verlenen van toegang nauw samenhangt met de toelatingsbeslissing. Dit gebeurt in ieder geval als de ambtenaar belast met grensbewaking het voornemen heeft de toegang te weigeren aan personen behorend tot een van onderstaande categorieën: 
+* plaatst de vreemdeling, voor de behandeling van de aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in AC Schiphol.   De IND geeft geen aanwijzing als bedoeld in artikel 3, derde lid, Vw tot het weigeren van de verdere toegang indien een volwassen vreemdeling tezamen met een minderjarig kind inreist en te kennen geeft een aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd te willen indienen. De ambtenaar belast met de grensbewaking verwijst de volwassen vreemdeling en het minderjarige kind, voor het indienen van de aanvraag voor het verlenen van een verblijfsvergunning voor bepaalde tijd, door naar de aanmeldunit van de Vreemdelingenpolitie (zie paragraaf C1/2.1 Vc) De IND kan van deze regel afwijken en een aanwijzing als bedoeld in artikel 3, derde lid, Vw geven, indien er indicaties van mogelijke risico’s voor het geestelijk of lichamelijk welzijn voor het minderjarige kind zijn of nader onderzoek naar de volwassen vreemdeling of zijn gestelde relatie tot het minderjarige kind nodig is. De ambtenaar belast met de grensbewaking: 
+
+* ontzegt op grond van de aanwijzing de volwassen vreemdeling en het minderjarige kind de verdere toegang door middel van het model M18A;  
+
+* legt een vrijheidsontnemende maatregel op grond van artikel 6, eerste en tweede lid, Vw op door middel van het model M19; en  
+
+* plaatst de volwassen vreemdeling en het minderjarige kind, voor de behandeling van de aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in AC Schiphol.   De IND geeft een aanwijzing als bedoeld in artikel 3, derde lid, Vw indien indicaties van mensenhandel zich voordoen bij een volwassen vreemdeling die tezamen met een minderjarig kind inreist. De ambtenaar belast met de grensbewaking hanteert de handelwijze zoals beschreven in paragraaf B8/3 Vc. De IND geeft geen aanwijzing als bedoeld in artikel 3, derde lid, Vw tot het weigeren van de verdere toegang indien een alleenstaande minderjarige vreemdeling inreist en te kennen geeft een aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd te willen indienen. De ambtenaar belast met de grensbewaking verwijst de alleenstaande minderjarige vreemdeling voor het indienen van de aanvraag voor het verlenen van een verblijfsvergunning voor bepaalde tijd, door naar de aanmeldunit van de Vreemdelingenpolitie (zie paragraaf C1/2.1 Vc) De ambtenaar belast met de grensbewaking legt het voornemen voor aan de IND als het voornemen bestaat om de toegang te weigeren aan een vreemdeling die een onderdaan van de EU, EER of Zwitserland is of dit stelt te zijn, en vraagt een bijzondere aanwijzing op grond van artikel 8.8, tweede lid, Vb. De ambtenaar belast met de grensbewaking neemt contact op met de IND als, in andere dan de hierboven genoemde gevallen, het al dan niet verlenen van toegang nauw samenhangt met de toelatingsbeslissing. Dit gebeurt in ieder geval als de ambtenaar belast met grensbewaking het voornemen heeft de toegang te weigeren aan personen behorend tot een van onderstaande categorieën: 
 
 * de persoon die zich erop beroept Nederlander te zijn en/of daarmee te worden gelijkgesteld;  
 
@@ -809,7 +815,9 @@ De ambtenaar belast met de grensbewaking weigert de toegang aan iedere vreemdeli
 
 * het weigeren van toegang leidt tot het schaden van een wezenlijk humanitair belang;  
 
-* een wezenlijk Nederlands belang (bijvoorbeeld het bijzonder urgente reisdoel van de vreemdeling) zich tegen weigering van toegang verzet.   De ambtenaar belast met de grensbewaking weigert toegang aan een vreemdeling van wie blijkt dat hij lang verblijf beoogt, als de vereiste mvv ontbreekt. De ambtenaar belast met de grensbewaking mag met machtiging van de IND onder bepaalde voorwaarden in ieder geval toegang verlenen in de volgende situaties: 
+* een wezenlijk Nederlands belang (bijvoorbeeld het bijzonder urgente reisdoel van de vreemdeling) zich tegen weigering van toegang verzet.  
+
+* De ambtenaar belast met de grensbewaking weigert toegang aan een vreemdeling van wie blijkt dat hij lang verblijf beoogt, als de vereiste mvv ontbreekt. De ambtenaar belast met de grensbewaking mag met machtiging van de IND onder bepaalde voorwaarden in ieder geval toegang verlenen in de volgende situaties:  
 
 * de vreemdeling wijzigt zijn verblijfsdoel;  
 
@@ -821,8 +829,8 @@ De ambtenaar belast met de grensbewaking weigert de toegang aan iedere vreemdeli
 
 * de betreffende instantie, inclusief overheidslogo (van de KMar of ZHP);  
 
-* de toepasselijke bepalingen van de wetgeving met betrekking tot de reden voor toegangsweigering (in dit geval artikel 13 juncto artikel 5, eerste lid SGC).   
-### Gevaar voor de volksgezondheid
+* de toepasselijke bepalingen van de wetgeving met betrekking tot de reden voor toegangsweigering (in dit geval artikel 13 juncto artikel 5, eerste lid SGC).  
+### *Gevaar voor de volksgezondheid* 
 
 Als een vreemdeling de toegang tot het grondgebied is geweigerd omdat hij een gevaar vormt voor de volksgezondheid, treft de ambtenaar belast met de grensbewaking maatregelen die erop gericht zijn de volksgezondheid te beschermen. De ambtenaar belast met de grensbewaking weigert de vreemdeling de toegang als de ziekte: 
 
@@ -833,17 +841,17 @@ Als een vreemdeling de toegang tot het grondgebied is geweigerd omdat hij een ge
 * de behandeling van de ziekte; of  
 
 * de periode van quarantaine.   De ambtenaar belast met de grensbewaking informeert de Korpschef van het regionale politiekorps waarin het ziekenhuis is gelegen over de in het kader van de grensbewaking getroffen maatregelen. 
-### Rechtsmiddelen
+### *Rechtsmiddelen* 
 
 De schriftelijke toegangsweigering, dan wel ontzegging van de verdere toegang, is een besluit waartegen de vreemdeling administratief beroep kan instellen bij de IND. De ambtenaar belast met de grensbewaking reikt aan de vreemdeling naast het model M17, M18 of M18A ook een folder ‘Rechtsmiddelen’ uit. De ambtenaar belast met de grensbewaking zendt een faxbericht aan de meldcentrale rechtsbijstand als een geweigerde vreemdeling om een raadsman verzoekt. De vreemdeling moet het administratief beroepschrift binnen vier weken indienen bij de IND. De vreemdeling mag de behandeling van het administratief beroepschrift niet in Nederland afwachten. De vreemdeling moet Nederland op grond van artikel 5, eerste lid, Vw onmiddellijk verlaten, tenzij er sprake is van een eerste verzoek om een voorlopige voorziening. Indien na de toegangsweigering, dan wel ontzegging van de verdere toegang, (vrijwel)gelijktijdig een vrijheidsontnemende maatregel op grond van artikel 6, eerste en tweede lid, Vw wordt opgelegd en men tegen deze vrijheidsontnemende maatregel beroep instelt, dan dient het rechtsmiddel tegen de toegangsweigering, dan wel ontzegging van de verdere toegang, eveneens beroep te zijn, in plaats van administratief beroep. 
-### Onderdanen van de EU, de EER en Zwitserland (en familieleden)
+### *Onderdanen van de EU, de EER en Zwitserland (en familieleden)* 
 
 De ambtenaar belast met de grensbewaking weigert de aanvraag om een visum uitsluitend wanneer de vreemdeling overtuigend heeft aangetoond dat de aanvrager een familie- of een gezinslid is in de zin van artikel 8.7, tweede, derde of vierde lid Vb: 
 
 * op de gronden genoemd in artikel 8.8, eerste lid onder a en b Vb;  
 
 * als sprake is van rechtsmisbruik of fraude, zoals schijnhuwelijk.   De ambtenaar belast met de grensbewaking verstrekt het visum gratis in het geval dat hij een familie- of gezinslid als bedoeld in artikel 8.7, tweede, derde of vierde lid, Vb aan de grens aantreft en hij de vreemdeling verzoekt om een visum aan te vragen om de onderdaan van de EU, de EER en Zwitserland te begeleiden of zich bij die onderdaan te voegen. 
-### Alleenreizende minderjarige vreemdelingen
+### *Alleenreizende minderjarige vreemdelingen* 
 
 Als de ambtenaar belast met de grensbewaking aan een alleenreizende minderjarige vreemdeling de toegang tot Nederland weigert, draagt de ambtenaar de vreemdeling over aan de DT&V voor het terugbrengen van de vreemdeling naar een derde land waar zijn toelating is gewaarborgd.   
 ### 7.4  
@@ -2545,19 +2553,19 @@ Bij vrijheidsontnemende maatregelen bij minderjarigen is tenminste een van de vo
 
 * vreemdelingen in de leeftijd van twaalf tot zestien jaar die met hun ouder(s) of wettelijke verzorgers in Nederland illegaal verblijven, mogen alleen met hun ouder(s) of wettelijke vertegenwoordigers van hun vrijheid worden ontnomen als binnen vier dagen overdracht van een politiebureau naar een justitiële inrichting mogelijk is;  
 
-* alleenstaande vreemdelingen in de leeftijd van twaalf tot zestien jaar mogen van hun vrijheid worden ontnomen, als de tenuitvoerlegging van de vrijheidsontnemende maatregel uiterlijk binnen vier dagen plaatsvindt in een justitiële inrichting.   Als er een uitzondering wordt gemaakt op een van de voorwaarden vindt overleg tussen de ambtenaar belast met grensbewaking of met het toezicht op vreemdelingen die ook hulpofficier van justitie is en de DT&V plaats. Nog meer dan bij volwassenen, wordt bewaring bij alleenstaande minderjarige vreemdelingen alleen in uiterste gevallen toegepast en voor een zo kort mogelijke duur. Bij alleenstaande minderjarige vreemdelingen is bewaring alleen gerechtvaardigd als zwaarwegende belangen aanwezig zijn. Van zwaarwegende belangen is uitsluitend sprake in de volgende situaties: 
+* alleenstaande vreemdelingen in de leeftijd van twaalf tot zestien jaar mogen van hun vrijheid worden ontnomen, als de tenuitvoerlegging van de vrijheidsontnemende maatregel uiterlijk binnen vier dagen plaatsvindt in een justitiële inrichting.   Als er een uitzondering wordt gemaakt op een van de voorwaarden vindt overleg tussen de ambtenaar belast met grensbewaking of met het toezicht op vreemdelingen die ook hulpofficier van justitie is en de DT&V plaats. Zie voor het beleid omtrent het weigeren van toegang van een volwassen vreemdeling die tezamen met een minderjarig kind inreist en te kennen geeft een aanvraag voor het verlenen van een verblijfsvergunning asiel voor bepaalde tijd te willen indienen A1/7.3 Vc. Nog meer dan bij volwassenen, wordt bewaring bij alleenstaande minderjarige vreemdelingen alleen in uiterste gevallen toegepast en voor een zo kort mogelijke duur. Bij alleenstaande minderjarige vreemdelingen is bewaring alleen gerechtvaardigd als zwaarwegende belangen aanwezig zijn. Van zwaarwegende belangen is uitsluitend sprake in de volgende situaties: 
 
 * De alleenstaande minderjarige vreemdeling is verdacht van- of veroordeeld voor een misdrijf;  
 
-* Het vertrek van de alleenstaande minderjarige vreemdeling kan uiterlijk binnen veertien dagen gerealiseerd worden;  
+* Het vertrek van de alleenstaande minderjarige vreemdeling kan uiterlijk binnen veertien dagen gerealiseerd worden;  
 
 * De alleenstaande minderjarige vreemdeling is eerder met onbekende bestemming vertrokken uit de opvang of heeft zich niet gehouden aan een opgelegde meldplicht of vrijheidsbeperkende maatregel;  
 
-* Aan de alleenstaande minderjarige vreemdeling is de toegang geweigerd tot Nederland. Als door de hulpofficier van justitie wordt getwijfeld aan de minderjarigheid van de vreemdeling, is vrijheidsontneming van de vreemdeling aan de orde tot de minderjarigheid is vastgesteld door de IND.   Bewaring op grond van artikel 59, eerste en tweede lid Vw, is bij gezinnen met minderjarigen beperkt tot een termijn van twee weken. Deze termijn kan slechts worden overschreden als de geplande uitzetting niet plaats kan vinden door tenminste één van de volgende omstandigheden: 
+* Aan de alleenstaande minderjarige vreemdeling is de toegang geweigerd tot Nederland. Als door de hulpofficier van justitie wordt getwijfeld aan de minderjarigheid van de vreemdeling, is vrijheidsontneming van de vreemdeling aan de orde tot de minderjarigheid is vastgesteld door de IND.   Bewaring op grond van artikel 59, eerste en tweede lid Vw, is bij gezinnen met minderjarigen beperkt tot een termijn van twee weken. Deze termijn kan slechts worden overschreden als de geplande uitzetting niet plaats kan vinden door tenminste één van de volgende omstandigheden: 
 
 * fysiek verzet van (één van) de gezinsleden;  
 
-* het feit dat (één van) de gezinsleden na de bewaring één of meerdere procedures is gaan voeren met het doel de uitzetting te vertragen.   Als sprake is van een gezin met twee ouders en het gevaar op onttrekking aan het toezicht of de uitzetting bestaat, wordt volstaan met het opleggen van een vrijheidsontnemende maatregel aan één ouder door de ambtenaar belast met grensbewaking of met het toezicht op vreemdelingen. Aan de overige gezinsleden wordt in dat geval een vrijheidsbeperkende maatregel opgelegd. Als uitzondering wordt in het belang van grensbewaking het gehele gezin de vrijheidsontnemende maatregel opgelegd als het gezin de toegang tot Nederland - en daarmee het Schengengebied - is geweigerd, ongeacht of sprake is van een gezin met één- of twee ouders. De maximale termijn van twee weken voor vrijheidsontneming is niet van toepassing als aan één ouder de vrijheidsontnemende maatregel is opgelegd terwijl de overige familie- of gezinsleden een vrijheidbeperkende maatregel is opgelegd.    
+* het feit dat (één van) de gezinsleden na de bewaring één of meerdere procedures is gaan voeren met het doel de uitzetting te vertragen.   Als sprake is van een gezin met twee ouders en het gevaar op onttrekking aan het toezicht of de uitzetting bestaat, wordt volstaan met het opleggen van een vrijheidsontnemende maatregel aan één ouder door de ambtenaar belast met grensbewaking of met het toezicht op vreemdelingen. Aan de overige gezinsleden wordt in dat geval een vrijheidsbeperkende maatregel opgelegd. Als uitzondering wordt in het belang van grensbewaking het gehele gezin de vrijheidsontnemende maatregel opgelegd als het gezin de toegang tot Nederland – en daarmee het Schengengebied – is geweigerd, ongeacht of sprake is van een gezin met één- of twee ouders. De maximale termijn van twee weken voor vrijheidsontneming is niet van toepassing als aan één ouder de vrijheidsontnemende maatregel is opgelegd terwijl de overige familie- of gezinsleden een vrijheidbeperkende maatregel is opgelegd.    
 ### 3  
 
 ####Vrijheidsontneming op grond van artikel 6 Vw

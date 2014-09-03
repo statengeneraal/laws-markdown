@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 februari 2012, nr. BVE/Stelsel/356173, houdende vaststelling kwalificatiedossiers en opleidingsdomeinen per 1 augustus 2012 (Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische zaken, Landbouw en Innovatie;  
-Gelet op [artikel 7.2.4, tweede lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 7.2.5a van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 2.2.3, vierde lid, van het Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);
+Gelet op artikel 7.2.4, tweede lid, en artikel 7.2.5a van de Wet educatie en beroepsonderwijs en artikel 2.2.3, vierde lid, van het Uitvoeringsbesluit WEB;
 Besluit:    
 
 ### Artikel  1  
@@ -12,13 +12,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *wet:* [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a.  *wet:* Wet educatie en beroepsonderwijs;  
 
-b.  *opleidingsdomein:* een opleidingsdomein als bedoeld in [artikel 1.1.1, onder t2, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *opleidingsdomein:* een opleidingsdomein als bedoeld in artikel 1.1.1, onder t2, van de wet;  
 
-c.  *kwalificatie:* een kwalificatie, als bedoeld in [artikel 1.1.1, onder t, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *kwalificatie:* een kwalificatie, als bedoeld in artikel 1.1.1, onder t, van de wet;  
 
-d.  *kwalificatiedossier:* een kwalificatiedossier, als bedoeld in [artikel 1.1.1, onder t1, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+d.  *kwalificatiedossier:* een kwalificatiedossier, als bedoeld in artikel 1.1.1, onder t1, van de wet.   
 
 ### Artikel  2  
 
@@ -66,17 +66,17 @@ p. Voedsel, natuur en leefomgeving.
 1.  Voor de kwalificatiedossiers opgenomen in bijlage 1 behorende bij deze regeling worden de kwalificaties vastgesteld overeenkomstig bijlage 2 behorende bij deze regeling.   
 2.  In bijlage 1 worden per kwalificatie vastgesteld: 
 
-a. de soort beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarop de kwalificatie is gericht;  
+a. de soort beroepsopleiding, bedoeld in artikel 7.2.2, eerste lid, van de wet, waarop de kwalificatie is gericht;  
 
-b. de leerweg of leerwegen, bedoeld in [artikel 7.2.2, tweede lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarin die beroepsopleiding kan worden verzorgd;  
+b. de leerweg of leerwegen, bedoeld in artikel 7.2.2, tweede lid, van de wet, waarin die beroepsopleiding kan worden verzorgd;  
 
-c. het niveau, bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), van die beroepsopleiding;  
+c. het niveau, bedoeld in artikel 7.2.2, derde lid, van de wet, van die beroepsopleiding;  
 
-d. de hoogte van de studielast, bedoeld in [artikel 7.2.4, negende lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), van die beroepsopleiding;  
+d. de hoogte van de studielast, bedoeld in artikel 7.2.4, negende lid, van de wet, van die beroepsopleiding;  
 
-e. of toepassing is gegeven aan [artikel 7.2.6, eerste lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+e. of toepassing is gegeven aan artikel 7.2.6, eerste lid, van de wet, en  
 
-f. de prijsfactor, bedoeld in [artikel 2.2.3, vierde lid van het Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).    
+f. de prijsfactor, bedoeld in artikel 2.2.3, vierde lid van het Uitvoeringsbesluit WEB.    
 
 ### Artikel  4  
 
@@ -84,16 +84,16 @@ f. de prijsfactor, bedoeld in [artikel 2.2.3, vierde lid van het Uitvoeringsbesl
 
 1.  De volgende regelingen worden ingetrokken: 
 
-a. [Regeling vaststelling kwalificatieprofielen en kwalificatiedossiers 2007–2008 en vaststelling eindtermen beroepsonderwijs en overzicht bekostigde beroepsopleidingen 2008-2009](../../../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatieprofielen/en/kwalificatiedossiers/etc/BWBR0021785/README.md);  
+a. Regeling vaststelling kwalificatieprofielen en kwalificatiedossiers 2007–2008 en vaststelling eindtermen beroepsonderwijs en overzicht bekostigde beroepsopleidingen 2008-2009;  
 
-b. [Regeling vaststelling kwalificatiedossiers 2008–2009 en vaststelling eindtermen beroepsonderwijs en overzicht bekostigde beroepsopleidingen 2009–2010](../../../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/2008–2009/en/vaststelling/etc/BWBR0023399/README.md);  
+b. Regeling vaststelling kwalificatiedossiers 2008–2009 en vaststelling eindtermen beroepsonderwijs en overzicht bekostigde beroepsopleidingen 2009–2010;  
 
-c. [Regeling vaststelling kwalificatiedossiers 2009–2010 en vaststelling eindtermen beroepsonderwijs 2010–2011](../../../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/2009–2010/en/vaststelling/etc/BWBR0025558/README.md);  
+c. Regeling vaststelling kwalificatiedossiers 2009–2010 en vaststelling eindtermen beroepsonderwijs 2010–2011;  
 
-d. [Regeling vaststelling kwalificatiedossiers 2010–2011 en vaststelling eindtermen beroepsonderwijs 2011–2012](../../../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/2010–2011/en/vaststelling/etc/BWBR0027759/README.md);  
+d. Regeling vaststelling kwalificatiedossiers 2010–2011 en vaststelling eindtermen beroepsonderwijs 2011–2012;  
 
-e. [Regeling vaststelling kwalificatiedossiers 2011–2012 en vaststelling eindtermen beroepsonderwijs 2012–2013](../../../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/2011–2012/en/vaststelling/etc/BWBR0029679/README.md).     
-2.  Voor de volgende beroepsopleidingen worden de kwalificatiedossiers 2011–2012 die op grond van [artikel V van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur](../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/enz./(beroepsgerichte/etc/BWBR0030698/README.md) van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 3 behorende bij deze regeling: 
+e. Regeling vaststelling kwalificatiedossiers 2011–2012 en vaststelling eindtermen beroepsonderwijs 2012–2013.     
+2.  Voor de volgende beroepsopleidingen worden de kwalificatiedossiers 2011–2012 die op grond van artikel V van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 3 behorende bij deze regeling: 
 
 a. 97140 Groen, grond, infra;  
 
@@ -166,7 +166,7 @@ hh.  94120 Leisure & hospitality;
 ii. 94960 Watersportindustrie;  
 
 jj.  93370 Watersportindustrie.     
-3.  Voor de volgende beroepsopleidingen worden de eindtermen 2011–2012 die op grond van [artikel IV van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur](../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/enz./(beroepsgerichte/etc/BWBR0030698/README.md) van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 4 behorende bij deze regeling: 
+3.  Voor de volgende beroepsopleidingen worden de eindtermen 2011–2012 die op grond van artikel IV van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 4 behorende bij deze regeling: 
 
 a. 10207 Machinaal Verspaner / Kotteraar;  
 
@@ -217,7 +217,7 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 
 ####: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedossiers en kwalificaties naar opleidingsdomeinen)
 
-![253119](http://wetten.overheid.nl/Illustration/253119)
+Voor de wijziging raadpleeg Stcrt. 2014/24746, Artikel I.![253119](http://wetten.overheid.nl/Illustration/253119)
 ![253120](http://wetten.overheid.nl/Illustration/253120)
 ![253121](http://wetten.overheid.nl/Illustration/253121)
 ![253122](http://wetten.overheid.nl/Illustration/253122)
@@ -241,7 +241,7 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 ![253129](http://wetten.overheid.nl/Illustration/253129)
 ![253130](http://wetten.overheid.nl/Illustration/253130)
 ![253131](http://wetten.overheid.nl/Illustration/253131)
-![253132](http://wetten.overheid.nl/Illustration/253132)
+![253755](http://wetten.overheid.nl/Illustration/253755)
 ![253133](http://wetten.overheid.nl/Illustration/253133)
 ![253134](http://wetten.overheid.nl/Illustration/253134)
 ![253135](http://wetten.overheid.nl/Illustration/253135)
@@ -253,6 +253,31 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 ![253141](http://wetten.overheid.nl/Illustration/253141)
 ![253142](http://wetten.overheid.nl/Illustration/253142)
 ![253143](http://wetten.overheid.nl/Illustration/253143)
+
+| Wijzigingen in crebolijst opleidingsdomeinen, kwalificatiedossiers en kwalificaties geldig vanaf 2014  | Soort opleiding  | Leerweg  | Niveau  | SBU's  | Beroepsvereisten  | Prijsfactor  | BRIN Kenniscentrum  | Crebo nummer  | Kwalificatiedossier  | Crebo nummer  | Kwalificatie  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *Opleidingsdomein*    *8. Transport, Scheepvaart en logistiek 79070*   |
+| --- |
+| 22268  | Stuurman werktuigkundige zeevisvaart sw 6  | --- | --- | --- | BOL/BBL  | --- | --- | --- | 1,70  | 25HV  |
+| --- | --- | 95767  | Stuurman werktuigkundige zeevisvaart sw 6  | basisberoepsopleiding  | BOL/BBL  | 2  | 3200  | I&M  | 1,70  | 25HV  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Crebo nummer  | Kwalificatiedossier  | Crebo nummer  | Kwalificatie  | --- | --- | --- | --- | --- | --- | --- |
+|  *Crebolijst kwalificatiedossiers niet toebedeeld aan opleidingsdomeinen geldig vanaf 2014*   |
+| --- |
+| 22269  | Entree  | --- | --- | --- | BOL/BBL  | --- | --- | --- | --- | 25DC  |
+| --- | --- | 97796  | Assistent logistiek  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 25DC  |
+| --- | --- | 97797  | Assistent horeca, voeding of voedingsindustrie  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 25DC  |
+| --- | --- | 97798  | Assistent verkoop/retail  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 25DC  |
+| --- | --- | 97799  | Assistent plant of (groene) leefomgeving  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 25DC  |
+| 22270  | Entree  | --- | --- | --- | BOL/BBL  | --- | --- | --- | --- | 02PR  |
+| --- | --- | 95768  | Assistent logistiek  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95769  | Assistent dienstverlening en zorg  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95770  | Assistent procestechniek  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95771  | Assistent bouwen, wonen en comfort  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95772  | Assistent verkoop/retail  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95773  | Assistent mobiliteitsbranche  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95774  | Assistent horeca, voeding of voedingsindustrie  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95775  | Assistent installatie- en constructietechniek  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
 
 ###Bijlage 2 
 

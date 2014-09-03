@@ -2697,6 +2697,24 @@ c. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften o
 
 4. Het eerste lid is tevens van toepassing op andere diergeneesmiddelen met identieke farmacologisch werkzame stoffen en toepassing, waarvoor in de Europese Economische Ruimte door een lidstaat een vergunning voor het in de handel brengen is verleend, onverminderd de artikelen 3.14 en 4.20, tweede lid, van het besluit.   
 
+### G  
+
+####Tijdelijke vrijstelling van het tocolyticum Planipart
+
+1. Van het verbod, bedoeld in art. 2.19, eerste lid, van de wet, wordt vrijstelling verleend voor het toepassen bij runderen van het diergeneesmiddel ‘Planipart’ van de firma Boehringer Ingelheim, dat is geregistreerd in België onder nummer BE-V122516, ten behoeve van uterusrelaxatie bij koeien en met het oog daarop het in Nederland brengen, vervoeren, voorhanden hebben of in voorraad hebben en het afleveren van het middel onder de voorschriften, gesteld in het derde lid.  
+
+2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 juli 2016.  
+
+3. Aan de vrijstelling zijn de volgende voorschriften verbonden: 
+
+a. het diergeneesmiddel wordt uitsluitend verstrekt door toepassing door de dierenarts als bedoeld in artikel 2.17;  
+
+b. de vermeldingen op de verpakking en de bijsluiter zijn in de Nederlandse taal gesteld; en  
+
+c. de dierenarts past het middel toe overeenkomstig de voorschriften op, bij of in de verpakking van het middel.    
+
+4. Het eerste lid is tevens van toepassing op andere diergeneesmiddelen met identieke farmacologische werkzame stoffen en toepassing, waarvoor in de Europese Economische Ruimte door een lidstaat een vergunning voor het in de handel brengen is verleend, onverminderd de artikelen 3.14 en 4.20, tweede lid, van het besluit.  
+
 ### Bijlage  5  
 
 ####Richtsnoeren als bedoeld in artikel 2.19, derde lid, onder f, van de wet

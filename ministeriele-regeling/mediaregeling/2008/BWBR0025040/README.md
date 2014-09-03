@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 december 2008, nr. WJZ/84447 (8240), houdende uitvoeringsregels van de Mediawet 2008 (Mediaregeling 2008)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 2.20, derde lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.30, vierde lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.44, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.69](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.157, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.165](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.187, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [3.1, derde lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [3.30, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [6.5, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [8.8, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [artikel 9.6 van de Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md) en de [artikelen 6](../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) en [29 van het Mediabesluit 2008](../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md);
+Gelet op de artikelen 2.20, derde lid, 2.30, vierde lid, 2.44, tweede lid, 2.69, 2.157, eerste lid, 2.165, 2.187, tweede lid, 3.1, derde lid, 3.30, tweede lid, 6.5, tweede lid, 8.8, eerste lid, en artikel 9.6 van de Mediawet 2008 en de artikelen 6 en 29 van het Mediabesluit 2008;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,13 +15,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*groep:* een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+*groep:* een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek;  
 
 *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-*Stimuleringsfonds:* Stimuleringsfonds voor de pers, genoemd in [artikel 8.1 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+*Stimuleringsfonds:* Stimuleringsfonds voor de pers, genoemd in artikel 8.1 van de wet;  
 
-*wet:* [Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md).   
+*wet:* Mediawet 2008.   
 
 ### Hoofdstuk  2  
 
@@ -35,14 +35,14 @@ In deze regeling wordt verstaan onder:
 
 ####Indiening concessiebeleidsplan
 
-De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen. 
+De NPO dient het concessiebeleidsplan, bedoeld in artikel 2.20 van de wet, telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in artikel 2.19, derde lid, van de wet, eindigen. 
 
 ### Artikel  3  
 
 ####Indiening aanvraag erkenning
 
-1.  Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), in de maand januari van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.   
-2.  Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in [artikel 2.31, vierde lid, eerste volzin, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), uiterlijk vier maanden na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat. De minister kan de periode, bedoeld in de eerste volzin, eenmalig verlengen met een periode van maximaal vier weken.   
+1.  Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in artikel 2.30 van de wet, in de maand januari van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.   
+2.  Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in artikel 2.31, vierde lid, eerste volzin, van de wet, uiterlijk vier maanden na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat. De minister kan de periode, bedoeld in de eerste volzin, eenmalig verlengen met een periode van maximaal vier weken.   
 3.  De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.  
 
 ### Artikel 3a  
@@ -58,9 +58,9 @@ De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../.
 
 1.  Een aanvraag als bedoeld in artikel 3, eerste en tweede lid, bevat: 
 
-a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in artikel 2.27, eerste lid, van de wet;  
 
-b. een beschrijving van de structuur, bedoeld in [artikel 2.142a, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), van de omroeporganisatie, waarbij, indien van toepassing, specifiek wordt aangegeven op welke punten deze afwijkt van de gedragscode, bedoeld in [artikel 2.3, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+b. een beschrijving van de structuur, bedoeld in artikel 2.142a, eerste lid, van de wet, van de omroeporganisatie, waarbij, indien van toepassing, specifiek wordt aangegeven op welke punten deze afwijkt van de gedragscode, bedoeld in artikel 2.3, tweede lid, van de wet;  
 
 c. een beschrijving van de inrichting, sturing en beheersing van bedrijfsprocessen en van de financiële en administratieve organisatie van de omroeporganisatie;  
 
@@ -70,7 +70,7 @@ e. in geval van een samenwerkingsomroep:
 
 1°. de statuten en reglementen van de omroepverenigingen die de samenwerkingsomroep vormen;  
 
-2°. een beschrijving van de structuur, bedoeld in [artikel 2.142a, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), van de omroepverenigingen die de samenwerkingsomroep vormen, gelet op artikel 2.142a, derde lid;  
+2°. een beschrijving van de structuur, bedoeld in artikel 2.142a, eerste lid, van de wet, van de omroepverenigingen die de samenwerkingsomroep vormen, gelet op artikel 2.142a, derde lid;  
 
 3°. een beschrijving van de inrichting, sturing en beheersing van bedrijfsprocessen en van administratieve organisatie van de omroepverenigingen die de samenwerkingsomroep vormen;  
 
@@ -90,15 +90,15 @@ e. in geval van een samenwerkingsomroep:
 
 ### Artikel  5  
 
-####Indiening aanvraag
+####Indiening aanvraag aanwijzing
 
-De aanvraag voor een aanwijzing, bedoeld in [artikel 2.65 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), gaat vergezeld van: 
+De aanvraag voor een aanwijzing, bedoeld in artikel 2.65 van de wet, gaat vergezeld van: 
 
 a. een exemplaar van de notarieel vastgelegde statuten;  
 
-b. een overzicht van de belangrijkste in de gemeente respectievelijk provincie voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen van waaruit leden worden benoemd in het in [artikel 2.61, tweede lid, onderdeel c, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) bedoelde orgaan;  
+b. een overzicht van de belangrijkste in de gemeente respectievelijk provincie voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen van waaruit leden worden benoemd in het in artikel 2.61, tweede lid, onderdeel c, van de wet bedoelde orgaan;  
 
-c. een overzicht van de leden van het orgaan, bedoeld in [artikel 2.61, tweede lid, onderdeel c, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md); en  
+c. een overzicht van de leden van het orgaan, bedoeld in artikel 2.61, tweede lid, onderdeel c, van de wet; en  
 
 d. een aanduiding van het gebied waarbinnen het media-aanbod zal worden verspreid.   
 
@@ -108,12 +108,11 @@ d. een aanduiding van het gebied waarbinnen het media-aanbod zal worden versprei
 
 1.  Het Commissariaat legt een aanvraag voor een aanwijzing van een regionale publieke media-instelling respectievelijk een lokale publieke media-instelling binnen vier weken na ontvangst daarvan ter advisering voor aan de desbetreffende provinciale staten respectievelijk gemeenteraad.   
 2.  Provinciale staten brengen respectievelijk de gemeenteraad brengt binnen achttien weken na ontvangst van de aanvraag advies uit aan het Commissariaat.   
-3.  Provinciale staten verklaren in het advies of zij bereid zijn om voor de bekostiging van de regionale publieke media-instelling in te staan.   
-4.  Het Commissariaat beslist binnen vier weken na ontvangst van het advies, bedoeld in het tweede lid, op de aanvraag en bepaalt daarbij de ingangsdatum van de aanwijzing.  
+3.  Het Commissariaat beslist binnen vier weken na ontvangst van het advies, bedoeld in het tweede lid, op de aanvraag en bepaalt daarbij de ingangsdatum van de aanwijzing.  
 
 ### Artikel  7  
 
-####Indiening aanvraag aansluitende periode
+####Indiening aanvraag aanwijzing aansluitende periode
 
 Als een aangewezen regionale of lokale publieke media-instelling voor een aansluitende periode van vijf jaar aangewezen wil worden, dient zij uiterlijk zes maanden voor het einde van de lopende aanwijzingsperiode de aanvraag voor een nieuwe aanwijzing in. 
 
@@ -127,29 +126,23 @@ Het Commissariaat kan in bijzondere gevallen afwijken van artikel 6.
 
 ####Intrekken aanwijzing
 
-Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.68. eerste lid, onderdelen a en b, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), gaat onmiddellijk in. 
+Een besluit tot intrekking van de aanwijzing op grond van artikel 2.67, eerste lid, en 2.68. eerste lid, onderdelen a en b, van de wet, gaat onmiddellijk in. 
 
 ### §  2.2.1a  
 
 ####Bekostiging regionale publieke mediadiensten
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  9a  
 
 ####Aanvraag bekostiging
 
-Treedt in werking per 01-07-2014 
-
-1.  Een regionale publieke media-instelling dient jaarlijks vóór 15 september een aanvraag in bij het Commissariaat voor een bijdrage als bedoeld in [artikel 2.170, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).   
+1.  Een regionale publieke media-instelling dient jaarlijks vóór 15 september een aanvraag in bij het Commissariaat voor een bijdrage als bedoeld in artikel 2.170, tweede lid, van de wet.   
 2.  De aanvraag gaat vergezeld van een begroting en een activiteitenplan.   
 3.  Het activiteitenplan bevat een overzicht van de activiteiten waarvoor een bijdrage wordt gevraagd.  
 
 ### Artikel  9b  
 
 ####Begroting
-
-Treedt in werking per 01-07-2014 
 
 1.  Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als bijlage II bij deze regeling is gevoegd.   
 2.  De begroting bevat in elk geval: 
@@ -185,28 +178,85 @@ c. de kosten en opbrengsten van alle andere activiteiten.
 
 ####Jaarrekening
 
-1.  Lokale en regionale media-instellingen die reclame- en telewinkelboodschappen in het media-aanbod opnemen, zenden jaarlijks vóór 1 juni de jaarrekening aan het Commissariaat.   
+1.  Lokale media-instellingen die reclame- en telewinkelboodschappen in het media-aanbod opnemen, zenden jaarlijks vóór 1 juni de jaarrekening aan het Commissariaat.   
 2.  De jaarrekening gaat vergezeld van een verklaring van een accountant-administratieconsulent of een registeraccountant omtrent de getrouwheid ervan.   
-3.  Het Commissariaat kan voor bepaalde categorieën lokale en regionale media-instellingen vrijstelling verlenen van het tweede lid.  
+3.  Het Commissariaat kan voor bepaalde categorieën lokale media-instellingen vrijstelling verlenen van het tweede lid.  
 
 ### Afdeling  2.3  
 
 ####Nadere voorschriften publieke mediadiensten
+
+### Artikel  11a  
+
+####Experimentele nevenactiviteiten
+
+1.  De NPO en de publieke media-instellingen melden een experimentele nevenactiviteit als bedoeld in artikel 2.132, vierde lid, van de wet voorafgaand aan de start daarvan bij het Commissariaat.   
+2.  De melding geschiedt op een door het Commissariaat vast te stellen wijze.   
+3.  De melding bevat in elk geval: 
+
+a. een precieze beschrijving van de nevenactiviteit;  
+
+b. de doelstellingen van de nevenactiviteit;  
+
+c. een onderbouwing van de wijze waarop de nevenactiviteit verband houdt met of ten dienste staat van de verwezenlijking van de publieke media-opdracht en direct gerelateerd is aan het media-aanbod van de publieke media-instelling;  
+
+d. de wijze waarop de nevenactiviteit wordt gefinancierd, met een onderbouwing van de marktconformiteit en kostendekkendheid;  
+
+e. de naam, vestigingsplaats, contactgegevens, alsmede de aard en omvang van de (bedrijfs)activiteiten van de mediabedrijven en culturele instellingen met wie in het kader van de nevenactiviteit wordt samengewerkt;  
+
+f. een onderbouwing van de keuze voor de mediabedrijven en culturele instellingen met wie in het kader van de nevenactiviteit wordt samengewerkt en de wijze waarop die keuze wordt herbeoordeeld; en  
+
+g. een beschrijving van de wijze waarop de nevenactiviteit wordt geëvalueerd.    
+
+### Artikel  11b  
+
+####Looptijd experimentele nevenactiviteiten
+
+1.  Een experimentele nevenactiviteit is in duur beperkt tot een looptijd van ten hoogste een jaar.   
+2.  Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. Artikel 11a, eerste en tweede lid, is van toepassing.   
+3.  Een nevenactiviteit die naar zijn aard nagenoeg identiek is aan een eerder bij wijze van experiment uitgevoerde nevenactiviteit kan niet opnieuw als experimentele nevenactiviteit verricht worden binnen een jaar na afloop van de eerder uitgevoerde nevenactiviteit.  
+
+### Artikel  11c  
+
+####Omvang experimentele nevenactiviteiten
+
+Een experimentele nevenactiviteit is zodanig in omvang beperkt dat de totale inbreng van de NPO of een publieke media-instelling in de experimentele nevenactiviteit niet meer bedraagt dan 150.000 euro. 
+
+### Artikel  11d  
+
+####Voortzetting experimentele nevenactiviteiten gedurende aanvraag toestemming
+
+Als binnen de maximale looptijd van een experimentele nevenactiviteit voor die nevenactiviteit een aanvraag voor toestemming als bedoeld in artikel 2.132, eerste lid, van de wet bij het Commissariaat is ingediend, kan de desbetreffende nevenactiviteit worden voortgezet totdat het Commissariaat op de aanvraag heeft beslist. 
+
+### Artikel  11e  
+
+####Verantwoording experimentele nevenactiviteiten
+
+1.  In de begroting, bedoeld in artikel 2.147 van de wet, wordt een beschrijving gegeven van: 
+
+a. de experimentele nevenactiviteiten die door de NPO en de landelijke publieke media-instellingen worden verricht; en  
+
+b. de voorgenomen experimentele nevenactiviteiten in het komende kalenderjaar.     
+2.  De NPO vermeldt in het verslag, bedoeld in artikel 2.58 van de wet, de uitgevoerde experimentele nevenactiviteiten in het afgelopen kalenderjaar.   
+3.  Regionale en lokale publieke media-instellingen geven in hun jaarlijkse begroting een beschrijving van: 
+
+a. de experimentele nevenactiviteiten die door de desbetreffende regionale of lokale media-instelling worden verricht; en  
+
+b. de voorgenomen experimentele nevenactiviteiten in het komende kalenderjaar.     
+4.  Regionale en lokale publieke media-instellingen vermelden in hun jaarverslagen de uitgevoerde experimentele nevenactiviteiten in het afgelopen kalenderjaar.  
 
 ### Artikel  12  
 
 ####Voorschotten landelijke publieke media-instellingen
 
 1.  De landelijke publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. De raad van bestuur kan hiervan afwijken.   
-2.  De raad van bestuur bepaalt de hoogte van de voorschotten mede op basis van de begroting, bedoeld in [artikel 2.147 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en zonodig een liquiditeitsprognose van de desbetreffende instelling.   
+2.  De raad van bestuur bepaalt de hoogte van de voorschotten mede op basis van de begroting, bedoeld in artikel 2.147 van de wet, en zonodig een liquiditeitsprognose van de desbetreffende instelling.   
 3.  Indien de raad van bestuur hierom verzoekt, zenden de landelijke publieke media-instellingen voor 1 november van het jaar, voorafgaande aan het begrotingsjaar een liquiditeitsprognose ter kennisneming aan de raad van bestuur.   
 4.  Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.  
 
 ### Artikel  12a  
 
 ####Voorschotten regionale publieke media-instellingen
-
-Treedt in werking per 01-07-2014 
 
 1.  De regionale publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. Het Commissariaat kan hiervan afwijken.   
 2.  Het Commissariaat bepaalt de hoogte van de voorschotten mede op basis van de begroting en zo nodig een liquiditeitsprognose van de desbetreffende instelling.   
@@ -217,19 +267,19 @@ Treedt in werking per 01-07-2014
 
 ####Berekening uren en budget
 
-Het moment, bedoeld in de [artikelen 2.51, eerste lid, onderdeel a](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.152 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), is 1 januari 2014. 
+Het moment, bedoeld in de artikelen 2.51, eerste lid, onderdeel a, en 2.152 van de wet, is 1 januari 2014. 
 
 ### Artikel 13a  
 
 ####Indiening begroting
 
-De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in [artikel 2.125 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), dient jaarlijks vóór 15 september een begroting in. 
+De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in artikel 2.125 van de wet, dient jaarlijks vóór 15 september een begroting in. 
 
 ### Artikel  14  
 
 ####Evaluatiecommissies
 
-De evaluatiecommissies brengen telkens voor 1 mei van het kalenderjaar voorafgaande aan het jaar waarin de concessieperioden, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen, rapport als bedoeld in [artikel 2.187, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), uit. 
+De evaluatiecommissies brengen telkens voor 1 mei van het kalenderjaar voorafgaande aan het jaar waarin de concessieperioden, bedoeld in artikel 2.19, eerste lid, van de wet, eindigen, rapport als bedoeld in artikel 2.187, tweede lid, van de wet, uit. 
 
 ### Hoofdstuk  3  
 
@@ -243,7 +293,7 @@ De evaluatiecommissies brengen telkens voor 1 mei van het kalenderjaar voorafgaa
 
 ####Aanvraag toestemming
 
-De aanvraag voor toestemming, bedoeld in [artikel 3.2, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), gaat vergezeld van: 
+De aanvraag voor toestemming, bedoeld in artikel 3.2, eerste lid, van de wet, gaat vergezeld van: 
 
 a. een exemplaar van de statuten van de aanvrager;  
 
@@ -257,7 +307,7 @@ d. een overzicht van de organisatorische en juridische structuur van de aanvrage
 
 ####Indiening aanvraag aansluitende periode
 
-Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), heeft verkregen, dient de aanvraag voor een toestemming voor een aansluitende periode uiterlijk vijf maanden voor het einde van de lopende toestemmingsperiode in. 
+Een commerciële media-instelling die een toestemming, bedoeld in artikel 3.1, eerste lid, van de wet, heeft verkregen, dient de aanvraag voor een toestemming voor een aansluitende periode uiterlijk vijf maanden voor het einde van de lopende toestemmingsperiode in. 
 
 ### §  3.2  
 
@@ -265,7 +315,7 @@ Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, 
 
 ### Artikel  17  
 
-Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en voor elke van haar mediadiensten op aanvraag, bedoeld in [artikel 3.29a van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde bijlage. 
+Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in artikel 3.1, eerste lid, van de wet, en voor elke van haar mediadiensten op aanvraag, bedoeld in artikel 3.29a van de wet, jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde bijlage. 
 
 ### Hoofdstuk  4  
 
@@ -275,7 +325,7 @@ Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in
 
 ####Aanvraag aanwijzing
 
-1.  De aanvraag voor aanwijzing van uren ten behoeve van overheidsvoorlichting, bedoeld in [artikel 6.5, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), wordt ingediend in de maand september.   
+1.  De aanvraag voor aanwijzing van uren ten behoeve van overheidsvoorlichting, bedoeld in artikel 6.5, eerste lid, van de wet, wordt ingediend in de maand september.   
 2.  Het Commissariaat beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.  
 
 ### Hoofdstuk 4a  
@@ -300,7 +350,7 @@ Het Commissariaat dient jaarlijks vóór 15 september een begroting in.
 
 ####Percentage inkomsten voor Stimuleringsfonds
 
-Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), bedraagt nul. In afwijking van de eerste volzin wordt in het jaar 2009 ten hoogste vier procent van de inkomsten uit reclame- en telewinkelboodschappen van de landelijke publieke mediadienst in 2008 uitgekeerd ten behoeve van het Stimuleringsfonds voor de pers. 
+Het percentage, bedoeld in artikel 8.8, eerste lid, onderdeel a, van de wet, bedraagt nul. In afwijking van de eerste volzin wordt in het jaar 2009 ten hoogste vier procent van de inkomsten uit reclame- en telewinkelboodschappen van de landelijke publieke mediadienst in 2008 uitgekeerd ten behoeve van het Stimuleringsfonds voor de pers. 
 
 ### §  5.2  
 
@@ -310,7 +360,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](..
 
 ####Aanvraagvereisten
 
-1.  Een aanvraag voor subsidie op grond van [artikel 8.11](../../../../wet/mediawet/2008/BWBR0025028/README.md), [8.12](../../../../wet/mediawet/2008/BWBR0025028/README.md), [8.14](../../../../wet/mediawet/2008/BWBR0025028/README.md) respectievelijk [8.13 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), wordt ingediend door de uitgever van een persorgaan respectievelijk de uitgevers van de betrokken persorganen gezamenlijk en bevat in ieder geval: 
+1.  Een aanvraag voor subsidie op grond van artikel 8.11, 8.12, 8.14 respectievelijk 8.13 van de wet, wordt ingediend door de uitgever van een persorgaan respectievelijk de uitgevers van de betrokken persorganen gezamenlijk en bevat in ieder geval: 
 
 a. gegevens over de financiële positie van het persorgaan respectievelijk de persorganen;  
 
@@ -320,8 +370,8 @@ c. als een betrokken uitgever deel uit maakt van een groep, een omschrijving van
 
 d. gegevens over oplage en verspreiding; en  
 
-e. een activiteitenplan als bedoeld in [artikel 8.11, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [8.12, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), dan wel [8.13, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) en voor wat betreft een aanvraag voor subsidie op grond van [artikel 8.14 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), een voorstel voor opzet en uitvoering van het beoogde organisatieonderzoek.     
-2.  Een aanvraag voor subsidie op grond van [artikel 8.15 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) wordt ingediend door de voor het onderzoek verantwoordelijke natuurlijke persoon of personen, of de voor het onderzoek verantwoordelijke rechtspersoon of rechtspersonen en bevat in ieder geval: 
+e. een activiteitenplan als bedoeld in artikel 8.11, tweede lid, 8.12, tweede lid, dan wel 8.13, tweede lid, van de wet en voor wat betreft een aanvraag voor subsidie op grond van artikel 8.14 van de wet, een voorstel voor opzet en uitvoering van het beoogde organisatieonderzoek.     
+2.  Een aanvraag voor subsidie op grond van artikel 8.15 van de wet wordt ingediend door de voor het onderzoek verantwoordelijke natuurlijke persoon of personen, of de voor het onderzoek verantwoordelijke rechtspersoon of rechtspersonen en bevat in ieder geval: 
 
 a. als bij de aanvraag een of meerdere persorganen zijn betrokken, de gegevens, bedoeld in het eerste lid, onderdelen a tot en met d; en  
 
@@ -382,7 +432,7 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ####Aanvraag om bekostiging door regionale omroepen voor 2014
 
-Voor de toepassing van de aanvraagprocedure, bedoeld in [artikel 2.170, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), worden voor het jaar 2014 als voorschriften als bedoeld in artikel 2.170, vijfde lid, onderdelen b en c, van de wet aangemerkt de desbetreffende provinciale voorschriften. 
+Voor de toepassing van de aanvraagprocedure, bedoeld in artikel 2.170, eerste lid, van de wet, worden voor het jaar 2014 als voorschriften als bedoeld in artikel 2.170, vijfde lid, onderdelen b en c, van de wet aangemerkt de desbetreffende provinciale voorschriften. 
 
 ### Artikel  27  
 
@@ -509,8 +559,6 @@ De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het
 ### Bijlage II 
 
 ####behorende bij artikel 9b 
-
-Treedt in werking per 01-07-2014 
 
 Model – Begroting 
 

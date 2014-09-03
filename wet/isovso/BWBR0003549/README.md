@@ -1140,15 +1140,6 @@ b. artikel 41a, eerste en vierde lid.
 4.  Indien een geschil aanhangig is gemaakt bij de commissie en de ouders bezwaar hebben gemaakt tegen de beslissing over de toelating of de verwijdering, neemt het bevoegd gezag de beslissing op bezwaar niet dan nadat de commissie heeft geoordeeld. De termijn voor het nemen van de beslissing op bezwaar wordt opgeschort met ingang van de dag waarop het geschil aanhangig is gemaakt bij de commissie tot de dag waarop de commissie het oordeel heeft uitgebracht.   
 5.  Bij algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de commissie, waaronder in elk geval het aantal leden, de wijze van benoeming en ontslag en de deskundigheid van de leden van de commissie.  
 
-### Artikel  45  
-
-####Tijdelijke geschillencommissie ontwikkelingsperspectief
-
-1.  Er is tot een bij koninklijk besluit te bepalen tijdstip een landelijke tijdelijke geschillencommissie ontwikkelingsperspectief waarbij elke school is aangesloten.   
-2.  De commissie neemt kennis van geschillen tussen ouders en bevoegd gezag van een school die ontstaan bij de toepassing van artikel 41a, eerste en vierde lid.   
-3.  De commissie brengt op verzoek van de ouders binnen 10 weken een oordeel uit aan het bevoegd gezag.   
-4.  Bij ministeriële regeling worden voorschriften gegeven met betrekking tot de commissie, waaronder in elk geval het aantal leden, de wijze van benoeming en ontslag en de deskundigheid van de leden van de commissie.  
-
 ### Artikel  46  
 
 ####Verplichte deelname leerlingen aan het onderwijs

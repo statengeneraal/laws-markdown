@@ -3,39 +3,39 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 septemter 2013, nr. PO/FenV /543633, houdende de vaststelling van de bedragen voor de materiële instandhouding van het basisonderwijs, speciaal onderwijs, voortgezet speciaal onderwijs en het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur voor het jaar 2014 en de vaststelling van het bedrag per formatieplaats voor de bekostiging van de materiële voorzieningen voor de instandhouding van rijdende scholen voor het jaar 2014 (Regeling vaststelling bedragen programma's van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverband voor het jaar 2014)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 113, vierde lid](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), en [118, vierde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 111, vierde lid](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), en [113, tweede lid, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel B 18 van het Besluit trekkende bevolking WPO](../../../../../../../../../../../AMvB/besluit/trekkende/bevolking/wpo/BWBR0003833/README.md);
+Gelet op de artikelen 113, vierde lid, en 118, vierde lid, van de Wet op het primair onderwijs, de artikelen 111, vierde lid, en 113, tweede lid, van de Wet op de expertisecentra en artikel B 18 van het Besluit trekkende bevolking WPO;
 Besluit:    
 
 ### Artikel  1  
 
 ####Vaststelling bedragen programma's van eisen voor basisscholen en speciale scholen voor basisonderwijs
 
-De bedragen van de programma's van eisen voor de basisscholen en de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), zijn voor het jaar 2014 vastgesteld overeenkomstig bijlage 1 bij deze regeling. 
+De bedragen van de programma's van eisen voor de basisscholen en de speciale scholen voor basisonderwijs, bedoeld in artikel 113, vierde lid, van de Wet op het primair onderwijs, zijn voor het jaar 2014 vastgesteld overeenkomstig bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Vaststelling bedragen programma’s van eisen voor het (voortgezet) speciaal onderwijs
 
-De bedragen van de programma's van eisen voor het (voortgezet) speciaal onderwijs, bedoeld in [artikel 111, vierde lid, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) zijn voor het jaar 2014 vastgesteld overeenkomstig bijlage 2 bij deze regeling. 
+De bedragen van de programma's van eisen voor het (voortgezet) speciaal onderwijs, bedoeld in artikel 111, vierde lid, van de Wet op de expertisecentra zijn voor het jaar 2014 vastgesteld overeenkomstig bijlage 2 bij deze regeling. 
 
 ### Artikel  3  
 
 ####Vaststelling van de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur
 
-1.  De bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur, bedoeld in [artikel 118, vierde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), is voor het jaar 2014 vastgesteld overeenkomstig bijlage 3a bij deze regeling.   
-2.  Met ingang van het moment van inwerkingtreding van [artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](../../../../../../../../../../../wet/wet/passend/onderwijs/BWBR0032176/README.md) (Stb. 2012, 533), wordt de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur, bedoeld in [artikel 118, derde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) vastgesteld overeenkomstig bijlage 3b bij deze regeling.  
+1.  De bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur, bedoeld in artikel 118, vierde lid, van de Wet op het primair onderwijs, is voor het jaar 2014 vastgesteld overeenkomstig bijlage 3a bij deze regeling.   
+2.  Met ingang van het moment van inwerkingtreding van artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533), wordt de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur, bedoeld in artikel 118, derde lid, van de Wet op het primair onderwijs vastgesteld overeenkomstig bijlage 3b bij deze regeling.  
 
 ### Artikel  4  
 
 ####Vaststelling bedrag per formatieplaats voor de bekostiging van de materiële voorzieningen ten behoeve van de instandhouding van rijdende scholen
 
-Het bedrag per formatieplaats, bedoeld in [artikel B 18 van het Besluit trekkende bevolking WPO](../../../../../../../../../../../AMvB/besluit/trekkende/bevolking/wpo/BWBR0003833/README.md), is voor het jaar 2014 vastgesteld overeenkomstig bijlage 4 bij deze regeling. 
+Het bedrag per formatieplaats, bedoeld in artikel B 18 van het Besluit trekkende bevolking WPO, is voor het jaar 2014 vastgesteld overeenkomstig bijlage 4 bij deze regeling. 
 
 ### Artikel  5  
 
 ####Omhangbepaling
 
-Met ingang van het moment van inwerkingtreding van [artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](../../../../../../../../../../../wet/wet/passend/onderwijs/BWBR0032176/README.md) (Stb. 2012, 533), berust deze regeling mede op [artikel 118, derde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md). 
+Met ingang van het moment van inwerkingtreding van artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533), berust deze regeling mede op artikel 118, derde lid, van de Wet op het primair onderwijs. 
 
 ### Artikel  6  
 
@@ -66,7 +66,7 @@ De totale MI-vergoeding is een lumpsumvergoeding bestaande uit verschillende ond
 
 ####Groepsafhankelijke programma's van eisen
 
-Ya = bedrag per school afhankelijk van het aantal te huisvesten groepen leerlingen als bedoeld in [artikel 14, eerste en tweede lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)  
+Ya = bedrag per school afhankelijk van het aantal te huisvesten groepen leerlingen als bedoeld in artikel 14, eerste en tweede lid, van het Besluit bekostiging WPO  
 
 | 2 groepen  | 3 groepen  | 4 groepen  | 5 groepen  | 6 groepen  |
 |:---|:---|:---|:---|:---|
@@ -92,7 +92,7 @@ Vergoedingsformule: Yc = vast bedrag per school + bedrag per leerling x het aant
 
 ####Extra vergoedingen
 
-1. Voor speciale scholen voor basisonderwijs wordt op basis van [artikel 115, eerste lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) voor 2% van de leerlingen in het samenwerkingsverband een extra vergoeding van € 224,71 per leerling verstrekt. Indien in het samenwerkingsverband meerdere speciale scholen voor basisonderwijs aanwezig zijn, vindt de verdeling van deze vergoeding plaats overeenkomstig de rekenregel zorgformatie: l = p/q x (0,02 x r) x eerdergenoemd bedrag per leerling. De factor (0,02 x r) wordt rekenkundig afgerond op een geheel getal. In deze rekenregel hebben de componenten de volgende inhoud: l = extra vergoeding MI voor een speciale school voor basisonderwijs in een samenwerkingsverband p = het aantal leerlingen van de speciale school voor basisonderwijs, voor zover dat aan het desbetreffende samenwerkingsverband is toe te rekenen q = het totale aantal leerlingen van alle speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen r = het totale aantal leerlingen van alle basisscholen en speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen.  
+1. Voor speciale scholen voor basisonderwijs wordt op basis van artikel 115, eerste lid, van de Wet op het primair onderwijs voor 2% van de leerlingen in het samenwerkingsverband een extra vergoeding van € 224,71 per leerling verstrekt. Indien in het samenwerkingsverband meerdere speciale scholen voor basisonderwijs aanwezig zijn, vindt de verdeling van deze vergoeding plaats overeenkomstig de rekenregel zorgformatie: l = p/q x (0,02 x r) x eerdergenoemd bedrag per leerling. De factor (0,02 x r) wordt rekenkundig afgerond op een geheel getal. In deze rekenregel hebben de componenten de volgende inhoud: l = extra vergoeding MI voor een speciale school voor basisonderwijs in een samenwerkingsverband p = het aantal leerlingen van de speciale school voor basisonderwijs, voor zover dat aan het desbetreffende samenwerkingsverband is toe te rekenen q = het totale aantal leerlingen van alle speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen r = het totale aantal leerlingen van alle basisscholen en speciale scholen voor basisonderwijs die deelnemen aan het desbetreffende samenwerkingsverband, voor zover dit aan dat samenwerkingsverband is toe te rekenen.  
 
 2. Voor basisscholen in een samenwerkingsverband zonder speciale school voor basisonderwijs wordt voor 2% van de leerlingen in het samenwerkingsverband een extra vergoeding van € 224,71 per leerling verstrekt.   
 
@@ -104,7 +104,7 @@ Vergoedingsformule: Yc = vast bedrag per school + bedrag per leerling x het aant
 
 ####De totale MI-vergoeding
 
-De totale MI-vergoeding is een lumpsumvergoeding bestaande uit verschillende onderdelen en wordt uitgedrukt in de formule: Y = Ya + Yb + Yc waarbij Y = rijksvergoeding per school per jaar Ya = vergoeding groepsafhankelijke programma's van eisen Yb = vergoeding leerlingafhankelijke programma's van eisen Yc = vergoeding aanvullende programma's van eisen Voor elk van de symbolen Ya tot en met Yc geldt een formule, waarin gerekend wordt met een vast bedrag per school en een bedrag per variabele indicator (leerling of groep). Onder groep wordt verstaan het aantal te huisvesten groepen als bedoeld in [artikel 128 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md). Bovendien wordt in Ya en Yb nog gerekend met vaste bedragen per schooltype. Hieronder volgen de totale vergoedingsbedragen van de twee hoofdgroepen van de programma's van eisen, de aanvullende programma’s van eisen en overige vergoedingsbedragen.  
+De totale MI-vergoeding is een lumpsumvergoeding bestaande uit verschillende onderdelen en wordt uitgedrukt in de formule: Y = Ya + Yb + Yc waarbij Y = rijksvergoeding per school per jaar Ya = vergoeding groepsafhankelijke programma's van eisen Yb = vergoeding leerlingafhankelijke programma's van eisen Yc = vergoeding aanvullende programma's van eisen Voor elk van de symbolen Ya tot en met Yc geldt een formule, waarin gerekend wordt met een vast bedrag per school en een bedrag per variabele indicator (leerling of groep). Onder groep wordt verstaan het aantal te huisvesten groepen als bedoeld in artikel 128 van de WEC. Bovendien wordt in Ya en Yb nog gerekend met vaste bedragen per schooltype. Hieronder volgen de totale vergoedingsbedragen van de twee hoofdgroepen van de programma's van eisen, de aanvullende programma’s van eisen en overige vergoedingsbedragen.  
 
 | A Vergoedingsbedragen groepsafhankelijke programma's van eisen  | Onderwijssoort  | per school  | SO-schooltype  | VSO-schooltype  |--- |--- | vast  | per groep  | vast  | per groep  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -167,7 +167,7 @@ Dit betreft een aanvullende vergoeding voor ruimten voor watergewenning of beweg
 
 ####Vergoeding dienstreizen leerkrachten voor ambulante begeleiding van teruggeplaatste leerlingen
 
-Dit betreft een aanvullende vergoeding voor dienstreizen ten behoeve van de ambulante begeleiding van leerlingen, die in het direct voorafgaande schooljaar waren toegelaten tot een school, niet zijnde een instelling als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), en die zonder dat voor hen nog een leerlinggebonden budget beschikbaar is, zijn teruggeplaatst naar een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) (bo) of een school als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs dan wel een opleiding, genoemd in [artikel 7.2.2, eerste lid onder a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) (vo). De vergoeding wordt berekend op basis van het aantal teruggeplaatste leerlingen op 1 oktober 2013. Het bedrag per teruggeplaatste leerling is gesplitst naar onderwijssoort en schooltype waarnaar is teruggeplaatst.  
+Dit betreft een aanvullende vergoeding voor dienstreizen ten behoeve van de ambulante begeleiding van leerlingen, die in het direct voorafgaande schooljaar waren toegelaten tot een school, niet zijnde een instelling als bedoeld in artikel 1 van de Wet op de expertisecentra, en die zonder dat voor hen nog een leerlinggebonden budget beschikbaar is, zijn teruggeplaatst naar een school als bedoeld in artikel 1 van de Wet op het primair onderwijs (bo) of een school als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs dan wel een opleiding, genoemd in artikel 7.2.2, eerste lid onder a en b, van de Wet educatie en beroepsonderwijs (vo). De vergoeding wordt berekend op basis van het aantal teruggeplaatste leerlingen op 1 oktober 2013. Het bedrag per teruggeplaatste leerling is gesplitst naar onderwijssoort en schooltype waarnaar is teruggeplaatst.  
 
 | onderwijssoort  | bo  | vo  |
 |:---|:---|:---|
@@ -194,22 +194,22 @@ Dit betreft een aanvullende vergoeding voor dienstreizen ten behoeve van de ambu
 
 ####Vergoeding dienstreizen leerkrachten voor autistische leerlingen
 
-De regionale expertise centra’s (REC’s) ontvangen de bijzondere bekostiging voor de opvang en het begeleiden van leerlingen met autisme verbonden aan de scholen voor (v)so, zie [artikel 37 van de regeling bekostiging personeel primair onderwijs 2013–2014](../../../../../../../../../../../ministeriele-regeling/regeling/bekostiging/personeel/po/2013–2014/en/aanpassing/bedragen/etc/BWBR0033877/README.md). De REC’s ontvangen ook de vergoeding voor de dienstreizen van leerkrachten ten behoeve van het begeleiden van leerlingen met autisme. Het vergoedingsbedrag bedraagt voor het gehele jaar 2014 € 1.056,81 per toegekende fte, die voor het schooljaar 2006–2007 is bepaald door omrekening van het aantal toegekende formatierekeneenheden in het schooljaar 2005–2006. De vergoeding wordt vastgesteld naar evenredigheid van de periode waarover deze bijzondere bekostiging is toegekend en naar rato van het aantal fte’s waarop deze bekostiging is gebaseerd of een gedeelte daarvan. 
+De regionale expertise centra’s (REC’s) ontvangen de bijzondere bekostiging voor de opvang en het begeleiden van leerlingen met autisme verbonden aan de scholen voor (v)so, zie artikel 37 van de regeling bekostiging personeel primair onderwijs 2013–2014. De REC’s ontvangen ook de vergoeding voor de dienstreizen van leerkrachten ten behoeve van het begeleiden van leerlingen met autisme. Het vergoedingsbedrag bedraagt voor het gehele jaar 2014 € 1.056,81 per toegekende fte, die voor het schooljaar 2006–2007 is bepaald door omrekening van het aantal toegekende formatierekeneenheden in het schooljaar 2005–2006. De vergoeding wordt vastgesteld naar evenredigheid van de periode waarover deze bijzondere bekostiging is toegekend en naar rato van het aantal fte’s waarop deze bekostiging is gebaseerd of een gedeelte daarvan. 
 
 ### Bijlage  3a  
 
 ####Bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur
 
-Tot het moment van inwerkingtreding van [artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](../../../../../../../../../../../wet/wet/passend/onderwijs/BWBR0032176/README.md) (Stb. 2012, 533) wordt de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur, bedoeld in [artikel 118, vierde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) vastgesteld op maandelijks 1/12<sup>e</sup> deel deel van het bedrag Y. De MI-bekostiging van de centrale dienst wordt uitgedrukt in de formule: Y= bedrag per leerling x aantal leerlingen op de basisscholen in het samenwerkingsverband Vergoedingsbedrag: Bedrag per leerling = € 7,48. 
+Tot het moment van inwerkingtreding van artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) wordt de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de zorgstructuur, bedoeld in artikel 118, vierde lid, van de Wet op het primair onderwijs vastgesteld op maandelijks 1/12<sup>e</sup> deel deel van het bedrag Y. De MI-bekostiging van de centrale dienst wordt uitgedrukt in de formule: Y= bedrag per leerling x aantal leerlingen op de basisscholen in het samenwerkingsverband Vergoedingsbedrag: Bedrag per leerling = € 7,48. 
 
 ### Bijlage  3b  
 
 ####Bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur
 
-Met ingang van het moment van inwerkingtreding van [artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](../../../../../../../../../../../wet/wet/passend/onderwijs/BWBR0032176/README.md) (Stb. 2012, 533) wordt de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur, bedoeld in [artikel 118, derde lid, van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) vastgesteld op maandelijks 1/12<sup>e</sup> deel van het bedrag Y. De MI-bekostiging van het samenwerkingsverband wordt uitgedrukt in de formule: Y= bedrag per leerling x aantal leerlingen op de basisscholen in het samenwerkingsverband Vergoedingsbedrag: Bedrag per leerling = € 7,48. 
+Met ingang van het moment van inwerkingtreding van artikel I, onderdelen BB tot en met EE, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) wordt de bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur, bedoeld in artikel 118, derde lid, van de Wet op het primair onderwijs vastgesteld op maandelijks 1/12<sup>e</sup> deel van het bedrag Y. De MI-bekostiging van het samenwerkingsverband wordt uitgedrukt in de formule: Y= bedrag per leerling x aantal leerlingen op de basisscholen in het samenwerkingsverband Vergoedingsbedrag: Bedrag per leerling = € 7,48. 
 
 ### Bijlage  4  
 
 ####Bekostiging van de materiële voorzieningen ten behoeve van de instandhouding van rijdende scholen
 
-Het bedrag per formatieplaats, bedoeld in [artikel B18 van het Besluit trekkende bevolking WPO](../../../../../../../../../../../AMvB/besluit/trekkende/bevolking/wpo/BWBR0003833/README.md), is voor het jaar 2014 vastgesteld op € 16.587,05. 
+Het bedrag per formatieplaats, bedoeld in artikel B18 van het Besluit trekkende bevolking WPO, is voor het jaar 2014 vastgesteld op € 16.587,05. 
