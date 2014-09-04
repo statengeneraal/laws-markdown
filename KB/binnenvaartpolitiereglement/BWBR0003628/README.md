@@ -118,7 +118,7 @@ b.*lange stoot*: geluidssein durende ongeveer 4 seconden; de tijdruimte tussen t
 
 8°.*ADN*: Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren;
 
-9°.*vaarbevoegdheidsbewijs*: vaarbewijs als bedoeld in de [artikelen 13](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [14](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [15](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en [16 van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), bewijs van bekwaamheid voor de binnenvaart als bedoeld in [artikel 32, eerste en tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), Rijnpatent als bedoeld in [artikel 6.02, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of bewijs van vaarbekwaamheid als bedoeld in artikel 6.02, derde lid, onder b, van het Reglement betreffende het scheepvaartpersoneel op de Rijn;
+9°.*vaarbevoegdheidsbewijs*: vaarbewijs als bedoeld in de artikelen 13, 14, 15 en 16 van het Binnenvaartbesluit, bewijs van bekwaamheid voor de binnenvaart als bedoeld in artikel 32, eerste en tweede lid, van de Binnenvaartwet, Rijnpatent als bedoeld in artikel 6.02, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn of bewijs van vaarbekwaamheid als bedoeld in artikel 6.02, derde lid, onder b, van het Reglement betreffende het scheepvaartpersoneel op de Rijn;
 
 10°.*richtlijn nr. 2002/59/EG*: richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEG L 208);
 
@@ -226,7 +226,7 @@ b.de bescheiden vereist door het ADN, nrs. 8.1.2.1, 8.1.2.2 en 8.1.2.3;
 
 c.het vaarbevoegdheidsbewijs;
 
-d.het radarpatent dan wel een ander diploma dat overeenkomstig het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) is toegelaten; deze documenten behoeven niet aan boord te zijn, indien het Rijnpatent of een ander overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn toegelaten diploma van de schipper de vermelding «Radar» bevat;
+d.het radarpatent dan wel een ander diploma dat overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn is toegelaten; deze documenten behoeven niet aan boord te zijn, indien het Rijnpatent of een ander overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn toegelaten diploma van de schipper de vermelding «Radar» bevat;
 
 e.het Handboek voor de marifonie in de binnenvaart, algemeen en regionaal deel;
 
@@ -234,7 +234,7 @@ f.het registratiebewijs gebruik frequentieruimte (maritiem mobiel);
 
 g.het marifoon bedieningscertificaat;
 
-h.het certificaat van onderzoek, overeenkomstig [artikel 7, tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), met inbegrip van het stuwplan of de ladinglijst voor de actuele beladingstoestand en de stabiliteitsberekening, met inbegrip van de daarbij gebruikte berekeningsmethode en het resultaat daarvan, voor de actuele, of een vergelijkbare vorige, dan wel een standaard beladingstoestand;
+h.het certificaat van onderzoek, overeenkomstig artikel 7, tweede lid, van de Binnenvaartwet, met inbegrip van het stuwplan of de ladinglijst voor de actuele beladingstoestand en de stabiliteitsberekening, met inbegrip van de daarbij gebruikte berekeningsmethode en het resultaat daarvan, voor de actuele, of een vergelijkbare vorige, dan wel een standaard beladingstoestand;
 
 i.het certificaat voor de navigatielantaarns;
 
@@ -1058,7 +1058,7 @@ b.een groot schip, niet zijnde een motorschip, en een klein motorschip door midd
 
 a. het is uitgerust met een voor de behoeften van de binnenvaart geschikte radarinstallatie dan wel een Inland ECDIS installatie die kan functioneren in de navigatie modus en een bochtaanwijzer die goed functioneren en die van een type zijn dat voor de binnenvaart door de daartoe aangewezen instantie is goedgekeurd volgens de daaromtrent vastgestelde voorschriften; en
 
-b. zich aan boord een persoon bevindt die houder is van een radarpatent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md). Bij goed zicht mag van radar worden gebruik gemaakt teneinde hiermede te oefenen, zonder dat zich een zodanig persoon aan boord bevindt. 
+b. zich aan boord een persoon bevindt die houder is van een radarpatent als bedoeld in het Reglement betreffende het scheepvaartpersoneel op de Rijn. Bij goed zicht mag van radar worden gebruik gemaakt teneinde hiermede te oefenen, zonder dat zich een zodanig persoon aan boord bevindt. 
 2. Onverminderd het eerste lid moet een klein schip zijn uitgerust met een marifooninstallatie die geschikt is voor de daartoe aangewezen kanalen en die goed functioneert.
 3. Op de daartoe aangewezen vaarwegen mag een schip, in plaats van met een radarinstallatie als bedoeld in het eerste lid, onder a, zijn uitgerust met een voor het varen op deze vaarwegen geschikte radarinstallatie die goed functioneert en die van een type is dat voor het varen op die vaarwegen door de in het eerste lid, onder a, bedoelde instantie is goedgekeurd volgens de daaromtrent vastgestelde voorschriften.
 4. Een schip behorende tot een daartoe aangewezen categorie mag op de daartoe aangewezen vaarwegen in plaats van met een bochtaanwijzer als bedoeld in het eerste lid, onder a, zijn uitgerust met een ander daartoe bruikbaar middel. Een niet-vrijvarende veerpont behoeft daarmede niet te zijn uitgerust.
@@ -1633,7 +1633,7 @@ b.schepen waaraan de bevoegde autoriteit dit recht heeft verleend.
 
 ####Op radar varende schepen
 
-1. Een schip mag slechts op radar varen, indien zowel een persoon die houder is van een radarpatent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en die tevens houder is van het vereiste vaarbevoegdheidsbewijs als een tweede persoon die met het varen op radar voldoende op de hoogte is zich voortdurend in de stuurhut bevindt. Voor een schip dat is uitgerust met een eenmansstuurstelling voor het varen op radar en dat voldoet aan de daaromtrent vastgestelde voorschriften behoeft de tweede persoon slechts aan boord beschikbaar te zijn. Voor een niet-vrijvarende veerpont kan de bevoegde autoriteit van de verplichting van dit lid ontheffing verlenen.
+1. Een schip mag slechts op radar varen, indien zowel een persoon die houder is van een radarpatent als bedoeld in het Reglement betreffende het scheepvaartpersoneel op de Rijn en die tevens houder is van het vereiste vaarbevoegdheidsbewijs als een tweede persoon die met het varen op radar voldoende op de hoogte is zich voortdurend in de stuurhut bevindt. Voor een schip dat is uitgerust met een eenmansstuurstelling voor het varen op radar en dat voldoet aan de daaromtrent vastgestelde voorschriften behoeft de tweede persoon slechts aan boord beschikbaar te zijn. Voor een niet-vrijvarende veerpont kan de bevoegde autoriteit van de verplichting van dit lid ontheffing verlenen.
 2. Voor een op radar varend schip blijft artikel 1.09, derde lid, omtrent het hebben naar alle zijden van een voldoende vrij direct of indirect uitzicht buiten toepassing.
 3. Een op radar varend schip moet, zodra het op het scherm een schip waarneemt waarvan de positie of het gedrag tot een gevaarlijke situatie zou kunnen leiden of wanneer het een vak van de vaarweg nadert waar zich schepen zouden kunnen bevinden die nog niet op het scherm te zien zijn, aan de andere schepen op het schip--schip kanaal dan wel op het andere aangewezen kanaal opgeven: zijn naam, zijn positie, zijn vaarrichting en of het een groot schip, een klein schip, een snel schip, of een bovenmaats schip is.Het moet vervolgens met die schepen het voorbijvaren afspreken. Een klein schip of een snel schip moet daarbij opgeven naar welke zijde het uitwijkt.
 4. Een op radar varend schip dat per marifoon wordt opgeroepen moet op het schip--schip kanaal dan wel op het andere aangewezen kanaal antwoorden en opgeven: zijn naam, zijn positie, zijn vaarrichting en of het een groot schip, een klein schip, een snel schip, of een bovenmaats schip is. Het moet vervolgens met de andere schepen het voorbijvaren afspreken. Een klein schip of een snel schip moet daarbij opgeven naar welke zijde het uitwijkt.
@@ -1900,7 +1900,7 @@ g.in de door de bevoegde autoriteit aangewezen gebieden.
 
 ####Toepassingsgebied
 
-Dit hoofdstuk is van toepassing op de in [artikel 2, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](../../../AMvB/vaststellingsbesluit/binnenvaartpolitiereglement/BWBR0003627/README.md) bedoelde vaarwegen, voorzover deze in beheer zijn bij het Rijk en op de in bijlage 10 vermelde vaarwegen.
+Dit hoofdstuk is van toepassing op de in artikel 2, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement bedoelde vaarwegen, voorzover deze in beheer zijn bij het Rijk en op de in bijlage 10 vermelde vaarwegen.
 
 ### Artikel  9.02  
 
@@ -1976,7 +1976,7 @@ b.de gemiddelde diepgang groter is dan 2,00 m of de diepgang over tenminste 50% 
 
 c.het duwstel wordt geassisteerd.
 4. Op de in bijlage 17, onder c, vermelde vaarwegen mogen een alleenvarend motorschip en een duwstel en een gekoppeld samenstel waarvan de lengte meer bedraagt dan 90 m varen, indien zij zijn voorzien van een kopbesturing van voldoende effectief vermogen die vanuit de stuurhut kan worden bediend.
-5. Op de in bijlage 17, onder d, vermelde vaarwegen mag een duwstel dat is voorzien van een certificaat van onderzoek als bedoeld in [artikel 7, tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of van een document als bedoeld in [artikel 7, onderdelen a en c, van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en waarvan de lengte meer bedraagt dan 137 m doch niet meer dan 193 m varen, indien het is voorzien van een kopbesturing van voldoende effectief vermogen die vanuit de stuurhut kan worden bediend.
+5. Op de in bijlage 17, onder d, vermelde vaarwegen mag een duwstel dat is voorzien van een certificaat van onderzoek als bedoeld in artikel 7, tweede lid, van de Binnenvaartwet of van een document als bedoeld in artikel 7, onderdelen a en c, van het Binnenvaartbesluit en waarvan de lengte meer bedraagt dan 137 m doch niet meer dan 193 m varen, indien het is voorzien van een kopbesturing van voldoende effectief vermogen die vanuit de stuurhut kan worden bediend.
 6. Als kopbesturing van een duwstel wordt tevens beschouwd de boegschroef van de duwboot, indien deze zich op ten hoogste 45% van de lengte van het duwstel gerekend vanaf de kop daarvan bevindt.
 7. De in dit artikel bedoelde duwstellen en gekoppelde samenstellen mogen buiten de daarvoor aangewezen ligplaatsen slechts met toestemming van de bevoegde autoriteit worden samengesteld of ontkoppeld.
 8. De bevoegde autoriteit kan duwstellen en gekoppelde samenstellen met grotere afmetingen dan die welke volgens dit artikel zijn toegelaten, met andere wijzen van aandrijving en vermogen en bij andere waterstanden voor het te bevaren vaarweggedeelte toelaten. 
@@ -1989,7 +1989,7 @@ c.het duwstel wordt geassisteerd.
 2. Een in het eerste lid bedoeld groot schip, luistert op de in bijlage 9 en bijlage 10 genoemde vaarwegen uit en neemt zonodig deel aan de ter plaatse gevoerde communicatie op het door de bevoegde autoriteit aangewezen marifoonkanaal, overeenkomstig de daartoe gestelde regels.  
 3. De in het eerste lid bedoelde meldingsplicht is tevens van toepassing op een klein schip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG.  
 4.  De in het tweede lid bedoelde uitluister- en communicatieplicht is tevens van toepassing op een klein schip, wanneer het de in het derde lid bedoelde stoffen vervoert, of wanneer het een klein schip betreft dat is uitgerust met een marifooninstallatie.    
-5. De in het eerste en derde lid bedoelde meldingsplicht is niet van toepassing op een schip dat zich reeds op grond van [artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en de daarop berustende bepalingen voor vertrek moet melden.  
+5. De in het eerste en derde lid bedoelde meldingsplicht is niet van toepassing op een schip dat zich reeds op grond van artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart en de daarop berustende bepalingen voor vertrek moet melden.  
 6.  De in het eerste en tweede lid bedoelde regels kunnen betrekking hebben op het gebruik van bepaalde communicatiemiddelen aan boord van het schip, het melden van aankomst, vertrek of positie van het schip, alsmede op gegevens met betrekking tot het schip, de daarmee vervoerde lading of de uit te voeren reis.   
 
 ###Artikel 9.08 
@@ -2591,6 +2591,377 @@ De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde.Een
 |*3.* |*Seinen tijdens het stilliggen* | --- |
 | --- | --- |Schip, duwstel of gekoppeld samenstel dat in het vaarwater of in de nabijheid daarvan op een gevaarlijke plaats stilligt of is vastgevaren, wanneer het per marifoon verneemt dat andere schepen naderen of wanneer en zolang het het geluidssein van een naderend schip hoort |6.31, leden 1, 2 en 4  |
 | --- | --- |Idem; mag alleen worden gegeven door een zeegaand schip |6.31, lid 3  |
+
+### Bijlage  7  
+
+####Verkeerstekens 
+
+###Verkeerstekens 
+
+| --- | --- |
+|:---|:---|
+|A. |Verbodstekens |
+|B. |Gebodstekens  |
+|C. |Beperkingstekens |
+|D. |Aanbevelingstekens |
+|E. |Aanwijzingstekens |
+| --- | --- |
+|F. |Bijkomende tekens  |
+|F.1 |*Afstandaanduidingen* |
+|F.2 |*Richtingaanduidingen* |
+|F.3 |*Aanvullende aanduidingen * |
+|F.4 |*Categorieaanduidingen* |
+| --- | --- |
+|G. |Tekens aan kunstwerken  |
+|G.1 |*Vaste bruggen en vaste delen van bruggen* |
+|G.2 |*Beweegbare bruggen* |
+|G.3 |*Stuwen* |
+|G.4 |*Sluizen* |
+|G.5 |*Hoogteaanduidingen* |
+| --- | --- |
+|H. |Overige aanduidingen  |
+|H.1 |*Kilometrering* |
+|H.2 |*Bewegwijzering* |
+|H.3 |*Spui- en inlaattekens* |
+
+### A.  
+
+####VERBODSTEKENS
+
+*Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| A.1  | --- | In-, uit- of doorvaren verboden  (algemeen teken) (artikelen 6.08, onder a, 6.16, lid 9, onder a, 6.22, lid 1, 6.25, lid 1, 6.26, leden 4 en 6, 6.27, lid 1, 6.28a)  |  ![65425](http://wetten.overheid.nl/Illustration/65425)
+*)   of  |
+| --- | --- | --- |  ![65426](http://wetten.overheid.nl/Illustration/65426)
+*)   of  |
+| --- | --- | --- |  ![65427](http://wetten.overheid.nl/Illustration/65427)
+*)   |
+| A.1.  | a  | Buiten gebruik gestelde gedeelten van de vaarweg; vaarverbod, niet geldend voor een klein schip zonder motor  (artikel 6.22, lid 2)  | --- |
+| A.2  | --- | Voorbijlopen verboden (artikel 6.11)  | --- |
+| A.3  | --- | Voorbijlopen verboden voor samenstellen onderling Het verbod geldt niet, wanneer tenminste één van beide betrokken samenstellen een duwstel is waarvan de lengte en breedte niet meer bedragen dan 110 m respectievelijk 12 m  (artikel 6.11)  | --- |
+| A.4  | --- | Ontmoeten en voorbijlopen verboden (artikelen 6.07, lid 1, en 6.11, onder c)  | --- |
+|A.4.1 | --- |Ontmoeten en voorbijlopen van samenstellen onderling verboden.  Dit verbod geldt niet wanneer tenminste één van beide betrokken samenstellen een duwstel is waarvan de lengte niet meer bedraagt dan 110 m en de breedte niet meer bedraagt dan 12 m (artikel 6.07, lid 1)  | --- |
+| A.5  | --- | Verboden ligplaats te nemen (ankeren en meren) aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.02, lid 1 c)  | --- |
+| A.5.1  | --- | Verboden ligplaats te nemen (ankeren en meren) binnen de in meters aangegeven breedte te rekenen vanaf het bord (artikel 7.02, lid 1 k)  | --- |
+| A.6  | --- | Verboden te ankeren en ankers, kabels en kettingen te laten slepen aan de zijde van de vaarweg waar het bord is geplaatst (artikelen 6.18, lid 5, 7.03, lid 1, onder b)  | --- |
+| A.7  | --- | Verboden te meren aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.04, lid 1 b)  | --- |
+| A.8  | --- | Verboden te keren (artikel 6.13, lid 6)  | --- |
+| A.9  | --- | Verboden hinderlijke waterbeweging te veroorzaken (artikel 6.20, lid 1 e)  | --- |
+| A.10  | --- | Verboden buiten de aangegeven begrenzing te varen (artikel 6.24, lid 2 a)  | --- |
+| A.11  | --- | In-, uit- of doorvaren, wordt aanstonds toegestaan (artikelen 6.26, lid 4c, 6.28a, lid 1c)  | --- |
+| A.11.1  | --- | Doorvaren verboden, tenzij de doorvaartopening zo dicht is genaderd, dat stilhouden redelijkerwijs niet meer mogelijk is (artikel 6.26, lid 4f)   *groen flikkerlicht*   | --- |
+| A.12  | --- | Verboden voor motorschepen  | --- |
+| A.13  | --- | Verboden voor kleine schepen  | --- |
+| A.14  | --- | Verboden te waterskiën  | --- |
+| A.15  | --- | Verboden voor zeilschepen  | --- |
+| A.16  | --- | Verboden voor door spierkracht voortbewogen schepen  | --- |
+| A.17  | --- | Verboden voor zeilplanken  | --- |
+|A.18 | --- |Einde van het vaarweggedeelte waar door snelle motorboten zonder beperking van de snelheid mag worden gevaren | --- |
+|A.19 | --- |Verboden schepen te water te laten | --- |
+|A.20 | --- |Verboden voor waterscooters | --- |
+
+*) Het gebruik van twee boven elkaar geplaatste borden, lichten of vlaggen duidt een verbod van langere duur aan.
+
+### B.  
+
+####GEBODSTEKENS
+
+*Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| B.1  | a  | Verplichting te varen in de richting aangegeven door de pijl (artikel 6.12)  | --- |
+| B.1  | b  | idem  | --- |
+| B.2  | a  | Verplichting zich naar de bakboordszijde van het vaarwater te begeven (artikel 6.12)  | --- |
+| B.2  | b  | Verplichting zich naar de stuurboordszijde van het vaarwater te begeven (artikel 6.12)  | --- |
+| B.3  | a  | Verplichting de bakboordszijde van het vaarwater te houden (artikel 6.12)  | --- |
+| B.3  | b  | Verplichting de stuurboordszijde van het vaarwater te houden (artikel 6.12)  | --- |
+| B.4  | a  | Verplichting het vaarwater over te steken naar bakboord (artikel 6.12)  | --- |
+| B.4  | b  | Verplichting het vaarwater over te steken naar stuurboord (artikel 6.12)  | --- |
+| B.5  | --- | Verplichting vóór het bord stil te houden onder bepaalde omstandigheden (artikelen 6.26, lid 3, onder b, en 6.28, lid 1)  | --- |
+| B.6  | --- | Verplichting de vaarsnelheid te beperken, zoals is aangegeven (in km/u)  | --- |
+| B.7  | --- | Verplichting een geluidssein te geven  | --- |
+| B.8  | --- | Verplichting bijzonder op te letten  | --- |
+| B.9  | a  | Verplichting niet het hoofdvaarwater op te varen of over te steken, indien daardoor schepen op het hoofdvaarwater zouden worden genoodzaakt hun koers of snelheid te wijzigen (artikel 6.16, lid 8)  | --- |
+| B.9  | b  | idem  | --- |
+| B.10  | --- | Verplichting zonodig koers en snelheid te wijzigen ten behoeve van uitvarende schepen (geen verwijzing)  | --- |
+| B.11  |a  | Verplichting gebruik te maken van marifoon overeenkomstig de daartoe bij algemene regeling vastgestelde voorschriften, dan wel zich te melden op het aangegeven marifoonkanaal  | --- |
+| --- |b  |Verplichting gebruik te maken van marifoon overeenkomstig de daartoe bij algemene regeling vastgestelde voorschriften, dan wel zich te melden op het aangegeven marifoonkanaal | --- |
+
+### C.  
+
+####BEPERKINGSTEKENS
+
+*Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| C.1  | Beperkte waterdiepte; eventueel de beschikbare diepte aangegeven in centimeters  | --- |
+| C.2  | Beperkte doorvaarthoogte; eventueel de beschikbare doorvaarthoogte aangegeven in meters*   | --- |
+| C.3  | Beperkte breedte van doorvaart of vaarwater; eventueel de beschikbare breedte aangegeven in meters  | --- |
+| C.4  | Vaartbeperkingen; vraag nadere inlichtingen  | --- |
+| C.5  | Het vaarwater bevindt zich op enige afstand van de oever; het op het bord voorkomende getal geeft in meters de afstand aan die de schepen uit de oever dienen te blijven, gerekend vanaf het bord  | --- |
+
+* De maat waarmede de hoogte is verminderd kan worden vermeld op een onderbord (Zie voorbeeld bij F.3)
+
+### D.  
+
+####AANBEVELINGSTEKENSTEKENS
+
+*Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| D.1  | --- | Aanbevolen doorvaartopening (vaste bruggen); *   doorvaart toegestaan (gesloten beweegbare bruggen)  | --- |
+| --- | a  | doorvaart uit de tegengestelde richting toegestaan (artikelen 6.25, lid 2, 6.26, lid 5, 6.27, lid 3)  | --- |
+| --- | b  | doorvaart uit de tegengestelde richting verboden (artikelen 6.25, lid 2, 6.26, lid 5, 6.27, lid 3)  | --- |
+| --- | --- | --- | --- |
+| D.2  | --- | Aanbeveling binnen de aangegeven begrenzing te varen (artikel 6.24 lid 2b)  | --- |
+| D.3  | --- | Aanbeveling te varen in de richting aangegeven door:  | --- |
+| --- | a  | de pijl  | --- |
+| --- | b  | idem  | --- |
+| --- | c  | het isofase licht  | --- |
+
+* Bij een vaste brug met slechts één doorvaartopening kan een geel licht boven die doorvaartopening zijn aangebracht als oriënteringslicht
+
+### E.  
+
+####AANWIJZINGSTEKENS
+
+*Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| E.1  | --- | In-, uit- of doorvaren toegestaan (algemeen teken) (artikelen 6.08, onder b, 6.16, lid 10, onder a, 6.26, leden 4 en 6, 6.27, lid 2, 6.28a)  | --- |
+| E.2  | --- | Hoogspanningslijn  | --- |
+| E.3  | --- | Stuw  | --- |
+| E.4a  | --- | Niet-vrijvarende veerpont  | --- |
+| E.4b  | --- | Vrijvarende veerpont  | --- |
+| E.5  | --- | Toestemming ligplaats te nemen (ankeren en meren) aan de zijde van de vaarweg waar het bord is geplaatst (artikelen 7.02, lid 2, 7.05, lid 1)  | --- |
+| E.5.1  | --- | Toestemming ligplaats te nemen (ankeren en meren) tot ten hoogste de aangegeven breedte, in meters gerekend vanaf het bord (artikel 7.05, lid 2)  | --- |
+| E.5.2  | --- | Toestemming ligplaats te nemen (ankeren en meren) op het gedeelte van de vaarweg, gelegen tussen de aangegeven afstanden, in meters gerekend vanaf het bord (artikel 7.05, lid 3)  | --- |
+| E.5.3  | --- | Toestemming ligplaats te nemen (ankeren en meren) met ten hoogste het aangegeven aantal schepen langszijde van elkaar, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.05, lid 4)  | --- |
+| E.5.4  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor duwvaart die geen blauwe kegels of lichten behoeft te voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.5  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor duwvaart die één blauwe kegel of één blauw licht moet voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.6  | --- |  Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor duwvaart die twee blauwe kegels of twee blauwe lichten moet voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1) | --- |
+| E.5.7  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor duwvaart die drie blauwe kegels of drie blauwe lichten moet voeren aan de zijde van de vaarweg, waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.8  | --- |  Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor andere schepen dan duwvaart die geen blauwe kegels of lichten behoeven te voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.9  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor andere schepen dan duwvaart die één blauwe kegel of één blauw licht moeten voeren, aan de zijde van de vaarweg waar het bord is geplaatst  (artikel 7.06, lid 1) | --- |
+| E.5.10  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor andere schepen dan duwvaart die twee blauwe kegels of twee blauwe lichten moeten voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.11  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor andere schepen dan duwvaart die drie blauwe kegels of drie blauwe lichten moeten voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.12  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor schepen - zowel duwvaart als andere schepen dan duwvaart - die geen blauwe kegels of lichten behoeven te voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.13  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor schepen - zowel duwvaart als andere schepen dan duwvaart - die één blauwe kegel of één blauw licht moeten voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.14  | --- | Toestemming om ligplaats te nemen (ankeren en meren) uitsluitend voor schepen - zowel duwvaart als andere schepen dan duwvaart - die twee blauwe kegels of twee blauwe lichten moeten voeren, aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.06, lid 1)  | --- |
+| E.5.15  | --- | Toestemming ligplaats te nemen (ankeren en meren) uitsluitend voor schepen - zowel duwvaart als andere schepen dan duwvaart - die drie blauwe kegels of drie blauwe lichten moeten voeren, aan de zijde van de vaarweg waar het bord is geplaatst  (artikel 7.06, lid 1)  | --- |
+| E.6  | --- | Toestemming te ankeren aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.03, lid 2)  | --- |
+| E.7  | --- | Toestemming te meren aan de zijde van de vaarweg waar het bord is geplaatst (artikel 7.04, lid 2)  | --- |
+| E.7.1  | --- | Toestemming te meren voor het onmiddellijk van of aan boord zetten van een auto  | --- |
+| E.8  | --- | Plaats om te keren  (artikelen 6.13, lid 7, 7.02, lid 1, onder i) | --- |
+| E.9  | a  | Het gevolgde vaarwater geldt als hoofdvaarwater ten opzichte van het vaarwater dat daarin uitmondt (geen verwijzing)  | --- |
+| --- | b  | idem  | --- |
+| --- | c  | idem  | --- |
+| --- | d  | idem  | --- |
+| --- | e  | idem  | --- |
+| --- | f  | idem  | --- |
+| --- | g  | idem  | --- |
+| --- | h  | idem  | --- |
+| --- | i  | idem  | --- |
+| E.10  | a  | Het gevolgde vaarwater geldt als nevenvaarwater ten opzichte van het vaarwater waarin het uitmondt (geen verwijzing)  | --- |
+| --- | b  | idem  | --- |
+| --- | c  | idem  | --- |
+| --- | d  | idem  | --- |
+| --- | e  | idem  | --- |
+| --- | f  | idem  | --- |
+| E.11  | --- | Einde van een verbod of een gebod geldend voor één richting of einde van een beperking  | --- |
+| E.12  | a  | Voorwaarschuwing.  vaste lichten: moeilijkheden vooruit, stoppen indien de voorschriften zulks vereisen.  | --- |
+| --- | b  | synchroon brandende isofase lichten: u kunt voorzichtig naderen  | --- |
+| E.12.1  | --- | Waarschuwing voor uitvarende of langsvarende schepen    *flikkerlicht*   | --- |
+| E.13  | --- | Drinkwater voor schepen  | --- |
+| E.14  | --- | Telefoon  | --- |
+| E.15  | --- | Motorschepen toegestaan  | --- |
+| E.16  | --- | Kleine schepen toegestaan  | --- |
+| E.17  | --- | Waterskiën toegestaan  | --- |
+| E.18  | --- | Zeilschepen toegestaan  | --- |
+| E.19  | --- | Door spierkracht voortbewogen schepen toegestaan  | --- |
+| E.20  | --- | Zeilplanken toegestaan  | --- |
+| E.21  | --- | Snel varen voor kleine motorschepen toegestaan  | --- |
+|E.22  | --- |Toegestaan schepen te water te laten (trailerhelling) | --- |
+| E.23  | --- | Marifoonkanaal voor nautische informatie, bijvoorbeeld: kanaal 18.  | --- |
+|E.24 | --- |Waterscooters toegestaan | --- |
+|E.25 | --- |Aansluiting voor walstroom beschikbaar | --- |
+
+### F.  
+
+####BIJKOMENDE TEKENS
+
+*Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F 
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *F.1*   | --- |  * Afstandsaanduidingen:*   | --- |
+| --- | --- | borden boven het hoofdteken, vermeldende na welke afstand (*)(*) het hoofdteken geldt   *Voorbeelden:*   | --- |
+| --- | --- | Maximum snelheid 7 km/u, ingaande na 800 m.  | --- |
+| --- | --- | Niet-vrijvarende veerpont na 600 m.  | --- |
+
+(*) in meters, tenzij anders vermeld. 
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *F.2*   | --- |  * Richtingaanduidingen:*   | --- |
+| --- | a  | borden naast het hoofdteken, aangevende de richting van het vaarweggedeelte waarop het hoofdteken betrekking heeft. Hierop kan de lengte van het betreffende traject zijn vermeld. (*) Voorbeelden:  | --- |
+| --- | --- |  Ligplaats nemen toegestaan op het gedeelte tussen de borden  | --- |
+| --- | --- |  Ligplaats nemen verboden op het gedeelte tussen de borden (over 2 km)  | --- |
+| --- | b  |  lichtpijl, aangevende de richting waarvoor het hoofdteken (één of meer lichten) geldt.    *Voorbeelden:*   | --- |
+| --- | --- |  Uitvaren haven verboden (teken geplaatst nabij een havenuitgang)  | --- |
+| --- | --- |  Invaren haven enz. (nog) verboden, wordt aanstonds toegestaan (teken geplaatst langs een vaarweg, nabij een daaraan gelegen haven of vertakking)  | --- |
+| --- | --- |  Invaren haven enz. toegestaan (teken geplaatst langs een vaarweg nabij een daaraan gelegen haven of vertakking)  | --- |
+
+(*) in meters, tenzij anders vermeld. 
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *F.3*   | --- |  *Aanvullende aanduidingen:*   | --- |
+| --- | --- |  borden onder het hoofdteken, waarop een nadere verklaring of aanwijzing is vermeld.    *Voorbeelden:*   | --- |
+| --- | --- | Versmalling in verband met brugbouw  | --- |
+| --- | --- |  Geef een lange stoot  | --- |
+| --- | --- | Beperkte doorvaarthoogte; beschikbare hoogte verminderd met 1,80 m  | --- |
+| --- | --- |Beperkte waterdiepte; de actuele waterdiepte is 2,20 m | --- |
+| --- | --- | Opletten, regeling scheepvaart  | --- |
+| --- | --- |Aansluiting voor 400 V~ beschikbaar | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *F.4*   | --- |  *Categorie aanduidingen:*   | --- |
+| --- | --- |  borden onder het hoofdteken, aangevende de categorie waarvoor het hoofdteken geldt.    *Voorbeelden:*   | --- |
+| --- | --- | Verplichte vaarrichting, geldend voor motorschepen  | --- |
+| --- | --- | Aanbevolen vaarrichting, geldend voor kleine schepen  | --- |
+
+### G.  
+
+####TEKENS AAN KUNSTWERKEN
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+|  *Algemeen*   |
+| Bij de hierna onder G.1 t/m G.4 genoemde markeringen kunnen de volgende tekens worden toegepast:  |
+| A.1:  | hetzij rode vaste lichten   | --- | hetzij rood-wit-rode rechthoekige borden  | --- |
+| E.1:  | hetzij groene vaste lichten   | --- | hetzij groen-wit-groene rechthoekige borden  | --- |
+| D.1:  | hetzij gele vaste lichten   | --- | hetzij gele ruitvormige borden  | --- |
+| --- |  groene flikkerlichten  | --- | --- | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *G.1*   | --- |  *Vaste bruggen en vaste delen van bruggen (*)*   |
+| --- | a  |  *Begrenzing vaargeulbreedte * *(Art. 6.24)*   | --- |
+| --- | --- | verboden buiten de aangegeven begrenzing te varen (A.10)  | --- |
+| --- | --- | aanbeveling binnen de aangegeven begrenzing te varen (D.2)  | --- |
+| --- | b  |  *Verboden of aanbevolen doorvaartopening * *(Art. 6.25)*   | --- |
+| --- | --- | verboden doorvaartopening  | --- |
+| --- | --- | aanbevolen doorvaartopening, (**) tegenliggende vaart mogelijk  | --- |
+| --- | --- | aanbevolen doorvaartopening, voor tegenliggende vaart verboden  | --- |
+
+(*) Niet gemarkeerde brugopeningen kunnen op eigen risico worden gebruikt. 
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *G.2*   | --- |  *Beweegbare bruggen* (Art. 6.26)  |
+| --- | --- |  *Opmerking: *   Het kan voorkomen dat de rode en groene lichten slechts aan één zijde van de doorvaartopening (als regel stuurboordszijde) zijn geplaatst.  |
+| --- | a  |  * Bruggen in bedrijf *   | --- |
+| --- | --- | doorvaart verboden  | --- |
+| --- | --- | doorvaart gesloten brug toegestaan, tegenliggende vaart mogelijk  | --- |
+| --- | --- | doorvaart gesloten brug toegestaan voor tegenliggende vaart verboden  | --- |
+| --- | --- | doorvaart verboden, wordt aanstonds toegestaan   | --- |
+| --- | --- |  doorvaart toegestaan  | --- |
+| --- | --- |  doorvaart verboden, tenzij de doorvaartopening zo dicht is genaderd, dat stilhouden redelijkerwijs niet meer mogelijk is  | --- |
+| --- | b  |  *Bruggen buiten bedrijf *   | --- |
+| --- | --- | doorvaart verboden  | --- |
+| --- | --- | doorvaart gesloten brug toegestaan, tegenliggende vaart mogelijk  | --- |
+| --- | --- | doorvaart gesloten brug toegestaan, voor tegenliggende vaart verboden  | --- |
+| --- | --- | doorvaart toegestaan, brug is onbewaakt  | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|*G.3* | --- |*Stuwen*(art. 6.27) | --- |
+| --- | --- |doorvaart verboden (stuw gesloten) | --- |
+| --- | --- |doorvaart verboden | --- |
+| --- | --- |doorvaart toegestaan | --- |
+| --- | --- |verboden doorvaartopening (brug over stuw)  | --- |
+| --- | --- |aanbevolen doorvaartopening (brug over stuw), tegenliggende vaart mogelijk  | --- |
+| --- | --- |aanbevolen doorvaartopening (brug over stuw), voor tegenliggende vaart verboden | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *G.4*   | --- |  *Sluizen*(art. 6.28a)   |
+| --- | --- |  *Opmerking:* Het kan voorkomen dat de rode en groene lichten slechts aan één zijde van de invaart (als regel stuurboordszijde) zijn geplaatst  |
+| 4.1  | --- |  *Algemeen*   |
+| --- | a  |  *Sluis in bedrijf*   | --- |
+| --- | --- |  invaart of uitvaart verboden  | --- |
+| --- | --- | invaart verboden, wordt aanstonds toegestaan  | --- |
+| --- | --- |  invaart of uitvaart toegestaan  | --- |
+| --- | b  |  * Sluis buiten bedrijf*   | --- |
+| --- | --- | invaart verboden  | --- |
+| --- | --- | doorvaart toegestaan, sluis aan beide zijden openstaand  | --- |
+| 4.2  | --- |  *Sluis met beweegbare brug* (indien brug niet van aparte seingeving is voorzien)  | --- |
+| --- | --- |  invaart sluis verboden, wordt aanstonds toegestaan   | --- |
+| --- | --- | invaart of uitvaart sluis en doorvaart gesloten brug toegestaan   | --- |
+| --- | --- | invaart of uitvaart sluis en doorvaart brug toegestaan  | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *G.5*   | --- |  *Hoogteaanduidingen*   |
+| --- | --- |  De beschikbare doorvaarthoogte van bruggen of andere overspanningen kan zijn aangegeven door middel van hoogteschalen of hoogteborden.  | --- |
+|  5.1   | --- |  *Hoogteschaal *   | --- |
+| --- | --- | Deze is geplaatst aan de stuurboordzijde of aan beide zijden van de doorvaartopening van een kunstwerk. Een hoogteschaal is verdeeld in blokken van 1 meter; afhankelijk van de plaatselijke situatie kan eveneens een onderverdeling in halve meters en decimeters zijn toegepast.  | --- |
+| --- | a  |  *Voorhoogteschaal *   | --- |
+| --- | --- | Deze is op dezelfde wijze uitgevoerd als de hoogteschaal, doch als voorwaarschuwing op enige afstand voor een kunstwerk geplaatst. De naam of aanduiding van dat kunstwerk is meestal boven de voorhoogteschaal vermeld.   | --- |
+| --- | b   |  *Referentietekens *   | --- |
+| --- | --- | Deze tekens geven de plaats van de overspanning aan waarop de aanwijzing van de hoogteschaal betrekking heeft;  | --- |
+| --- | --- | of  | --- |
+| --- | --- |  wanneer reeds een beperking van de vaargeulbreedte is aangegeven d.m.v. het teken A.10   | --- |
+| --- | --- | of  | --- |
+| --- | --- | het teken D.2   dan dienen deze als referentietekens.  | --- |
+| --- | --- |  Indien geen referentietekens zijn aangebracht dan heeft de aanwijzing van de hoogteschaal betrekking op het laagste punt van de overspanning binnen het normaal bruikbare breedteprofiel.  | --- |
+| --- | c  |  * Aanduiding overhoogte/onderhoogte*   | --- |
+| --- | --- |  Indien op een bepaald punt van een overspanning meer of minder hoogte beschikbaar is dan de hoogteschaal aanwijst, dan kan dit zijn aangegeven met een teken waarin de betreffende over- of ondermaat in meters is vermeld.  | --- |
+| 5.2  | --- |  *Hoogtebord *   | --- |
+| --- | --- | Bij sommige vaarwegen wordt de beschikbare doorvaarthoogte aangegeven op een hoogtebord, dat is aangebracht aan de overspanning.  | --- |
+|5.3 | --- |*Dieptebord* | --- |
+| --- | --- |Bij sommige vaarwegen wordt de beschikbare waterdiepte aangegeven op een dieptebord | --- |
+
+### H.  
+
+####OVERIGE AANDUIDINGEN
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *H.1*   | --- |  *Kilometrering*  | --- |
+| --- | a  | Kilometeraanduiding  | --- |
+| --- | b  |  Hectometeraanduiding  | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *H.2*   | --- |  *Bewegwijzering*   | --- |
+| 2.1  | --- |  *Aanduiding hoofddoelen *   Hierop kunnen zowel plaatsnamen als vaarwegnamen zijn vermeld.   | --- |
+| --- | a  | Vooraanduiding   (vóór een vertakking)  | --- |
+| --- | b  | Beslissingsaanduiding   (ter plaatse van een vertakking)  | --- |
+| 2.2  | --- |  *Aanduiding specifieke doelen *   Deze verwijzen naar havens, losplaatsen, jachthavens, e.d.  | --- |
+| --- | a  |  Vooraanduiding   (vóór een vertakking)  | --- |
+| --- | b  | Beslissingsaanduiding   (ter plaatse van een vertakking) )  | --- |
+| 2.3  | --- |  *Aanduiding omleidingen *   | --- |
+| 2.4  | --- |  *Naamgeving vaarwater of object (haven, brug, sluis, e.d.*   | --- |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *H.3*   | --- |  * Spui- en inlaattekens*   | --- |
+| --- | a  | Er wordt gespuid   | --- |
+| --- | b  | Er wordt ingelaten  | --- |
+| --- | c  | Er zal weldra worden gespuid/ingelaten en/of ingelaten  | --- |
+| --- | --- | --- | --- |
+| --- | --- |  *Opmerkingen:*   | --- |
+| --- | 1.  | Des daags kunnen hetzij de dagtekens, hetzij de lichten, hetzij beide worden gebruikt.   | --- |
+| --- | 2.  | De vlaggen en wimpels kunnen worden vervangen door borden van dezelfde vorm.  | --- |
 
 ###Bijlage 8  
 

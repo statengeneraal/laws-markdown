@@ -1354,8 +1354,6 @@ De kosten van de maatregelen getroffen krachtens deze paragraaf komen ten laste 
 
 ####EU-rechtshandelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Dit hoofdstuk is van toepassing op: 
 
 a. de uitvoering van EU-rechtshandelingen die krachtens de artikelen 43, 114, 207, 168, 169 of 192 van het Verdrag betreffende de werking van de Europese Unie zijn vastgesteld en  
@@ -1386,8 +1384,6 @@ b. de uitvoering van EU-rechtshandelingen die krachtens de onder a bedoelde rech
 ### Artikel  6.5  
 
 ####Mededeling wijziging EU-rechtshandelingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een wijziging van een EU-rechtshandeling waarnaar in regels, gesteld krachtens deze wet, wordt verwezen, gaat voor de toepassing van die regels gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven dan wel bij gebreke daarvan, de dag waarop die wijziging is vastgesteld.   
 2.  Onze Minister kan besluiten dat een wijziging als bedoeld in het eerste lid in afwijking van dat lid op een eerder tijdstip gaat gelden. Dit besluit wordt in de Staatscourant bekendgemaakt.  

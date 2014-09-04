@@ -3048,11 +3048,11 @@ a. Tomaten met GN code 0702 00 00;
 
 b. Wortels met GN code 0706 10 00;  
 
-c. Witte kool met GN code 0704 90 10;  
+c. Witte kool en rode kool met GN code 0704 90 10;  
 
 d. Niet-scherpsmakende pepers (paprika’s) met GN code 0709 60 10;  
 
-e. Bloemkool met GN code 0704 10 00;  
+e. Bloemkool en broccoli met GN code 0704 10 00;  
 
 f. Komkommers met GN code 0707 00 05;  
 
@@ -3064,11 +3064,13 @@ i. Appelen met GN code 0808 10;
 
 j. Peren met GN code 0808 30;  
 
-k. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;  
+k. Pruimen met GN-code 0809 40 05; 
 
-l. Druiven voor tafelgebruik met GN code 0806 10 10, en  
+l. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;  
 
-m. Kiwi’s met GN code 0810 50 00.     
+m. Druiven voor tafelgebruik met GN code 0806 10 10, en  
+
+n. Kiwi’s met GN code 0810 50 00.     
 3.  Als certificaat als bedoeld in artikel 78, eerste lid, van verordening 543/2011 wordt aangemerkt een verklaring van een producentenorganisatie waarin staat dat de uit de markt genomen producten voldoen aan de in artikel 76 van verordening 543/2011 bedoelde handelsnormen of minimumeisen.   
 4.  Als toegestane bestemmingen bedoeld in artikel 80, eerste lid, van verordening 543/2011 worden aangewezen: 
 
@@ -3082,8 +3084,11 @@ c. Gratis uitreiking, als bedoeld in artikel 80, tweede lid, van verordening 543
 ### Artikel  230b  
 
 1.  Een voorafgaande melding, bedoeld in artikel 78, eerste lid, van verordening 543/2011, wordt elektronisch ingediend bij de minister.   
-2.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
-3.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats.  
+2.  Een melding als bedoeld in het eerste lid betreft een massa van ten hoogste 30.000 kilogram.  
+3.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
+4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats;   
+5.  Indien de oogst van de producten die uit de markt genomen worden, plaatsvindt op een dag nadat de termijn, bedoeld in het vierde lid is verlopen, wordt de controle, bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk verricht op de tweede werkdag na de datum van voorkeur die door de producentenorganisatie of unie van producentenorganisaties is aangegeven op het in het derde lid bedoelde formulier.   
+6.  De uit de markt genomen producten worden bij controle in dusdanige verpakking aangeboden dat controle mogelijk is en in elk geval niet in verpakking met een omvang groter dan 1 kubieke meter. 
 
 ### Artikel  230c  
 
@@ -3107,9 +3112,11 @@ b. andere personen die ten genoegen van de voedselbanken kunnen aantonen niet ov
 
 a. tot naleving van de voorwaarden uit artikel 83 van verordening 543/2011;  
 
-b. bij ontvangst van de uit de markt genomen producten de daarbij behorende door de minister ter beschikking gestelde vrachtbrief te ondertekenen, en  
+b. bij ontvangst van de uit de markt genomen producten de daarbij behorende door de minister ter beschikking gestelde vrachtbrief te ondertekenen;  
 
-c. de vrachtbrief, bedoeld in onderdeel b, en de overeenkomst met de producentenorganisatie gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.     
+c. de vrachtbrief, bedoeld in onderdeel b, en de overeenkomst met de producentenorganisatie gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren, en  
+
+d. tot vervoer van de uit de markt genomen producten voor bestemmingen als bedoeld in artikel 230a, vierde lid, onderdeel a en b, zonder dat verlies uit het vervoermiddel van producten of delen ervan plaatsvindt.    
 2.  In aanvulling op het eerste lid worden ontvangers van uit de markt genomen producten als bedoeld in artikel 230a, vierde lid, onderdelen a en b, verplicht om de uit de markt genomen producten in geval van de bestemmingen bedoeld in artikel 230a, vierde lid, onderdelen a en b: 
 
 a. een niet voor menselijke consumptie geschikte bestemming te geven die: 
@@ -3143,11 +3150,11 @@ a. Tomaten met GN code 0702 00 00;
 
 b. Wortels met GN code 0706 10 00;  
 
-c. Witte kool met GN code 0704 90 10;  
+c. Witte kool en rode kool met GN code 0704 90 10;  
 
 d. Niet-scherpsmakende pepers (paprika’s) met GN code 0709 60 10;  
 
-e. Bloemkool met GN code 0704 10 00;  
+e. Bloemkool en broccoli met GN code 0704 10 00;  
 
 f. Komkommers met GN code 0707 00 05;  
 
@@ -3159,11 +3166,13 @@ i. Appelen met GN code 0808 10;
 
 j. Peren met GN code 0808 30;  
 
-k. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;  
+k. Pruimen met GN-code 0809 40 05; 
 
-l. Druiven voor tafelgebruik met GN code 0806 10 10, en  
+l. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;  
 
-m. Kiwi's met GN code 0810 50 00.    
+m. Druiven voor tafelgebruik met GN code 0806 10 10, en  
+
+n. Kiwi's met GN code 0810 50 00.    
 
 ### Artikel  230h  
 
@@ -3172,8 +3181,10 @@ De minister stelt de voor groen oogsten en niet oogsten te betalen vergoedingen,
 ### Artikel  230i  
 
 1.  Een voorafgaande melding, bedoeld in artikel 85, tweede lid, van verordening 543/2011, wordt elektronisch ingediend bij de minister.   
-2.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
-3.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats.  
+2.  In de melding als bedoeld in het eerste lid wordt het door de minister toegekende registratienummer van het toepasselijke perceel of de registratienummers van de toepasselijke percelen, zoals vermeld op het formulier, bedoeld in de Regeling landbouwtelling en gecombineerde opgave 2014 opgegeven.  
+3.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
+4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats;   
+5.  Indien het groenoogsten of de vernietiging van de producten plaatsvindt op een dag nadat de termijn, bedoeld in het vierde lid is verlopen, wordt de controle, bedoeld in artikel 110, eerste en tweede lid, van verordening 543/2011 uiterlijk verricht op de tweede werkdag na de datum van voorkeur die door de producentenorganisatie of unie van producentenorganisaties is aangegeven op het in het tweede lid bedoelde formulier. 
 
 ### Artikel  230j  
 

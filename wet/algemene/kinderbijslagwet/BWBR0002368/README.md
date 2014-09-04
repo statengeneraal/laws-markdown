@@ -20,9 +20,9 @@ a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;  
 
-c. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+c. vreemdeling: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000;  
 
-d.  continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md), voor zover deze grenst aan de territoriale zee van Nederland.  
+d.  continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland.  
 
 ###Artikel 2 
 
@@ -39,11 +39,11 @@ Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder kind: eigen kind, aangehuwd kind of pleegkind.   
 2.  Als eigen kind wordt beschouwd het kind 
 
-a. van de vrouw die op grond van [artikel 198 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) als zijn moeder wordt aangemerkt;  
+a. van de vrouw die op grond van artikel 198 van Boek 1 van het Burgerlijk Wetboek als zijn moeder wordt aangemerkt;  
 
-b. van de man die op grond van [artikel 199 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) als zijn vader wordt aangemerkt;  
+b. van de man die op grond van artikel 199 van Boek 1 van het Burgerlijk Wetboek als zijn vader wordt aangemerkt;  
 
-c. van de man die op grond van [artikel 394 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) verplicht is bij te dragen aan de kosten van verzorging en opvoeding, tenzij het kind reeds op grond van [artikel 199 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) als eigen kind van een andere man wordt aangemerkt;  
+c. van de man die op grond van artikel 394 van Boek 1 van het Burgerlijk Wetboek verplicht is bij te dragen aan de kosten van verzorging en opvoeding, tenzij het kind reeds op grond van artikel 199 van Boek 1 van het Burgerlijk Wetboek als eigen kind van een andere man wordt aangemerkt;  
 
 d. van de man wiens biologisch vaderschap door middel van DNA-onderzoek is vastgesteld, mits de man het kind feitelijk in relevante mate onderhoudt en het kind niet reeds tot een andere man in een familierechtelijke vaderschapsrelatie staat;  
 
@@ -66,13 +66,13 @@ Bij een besluit ingevolge de artikelen 14, vierde lid, en 21 is mede belanghebbe
 a. ingezetene is;   
 
 b. geen ingezetene is, doch ter zake van in Nederland of op het continentaal plat in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen.      
-2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+2.  Niet verzekerd is de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000.    
 3.   Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het eerste en tweede lid, uitbreiding dan wel beperking worden gegeven aan de kring der verzekerden.    
-4.  Bij een maatregel, als bedoeld in het derde lid, kan worden bepaald dat bij een niet rechtmatig verblijf in Nederland in de zin van [artikel 8, onder a tot en met e en l](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verzekerd zijn:  
+4.  Bij een maatregel, als bedoeld in het derde lid, kan worden bepaald dat bij een niet rechtmatig verblijf in Nederland in de zin van artikel 8, onder a tot en met e en l, verzekerd zijn:  
 
 a. vreemdelingen die rechtmatig in Nederland arbeid verrichten, dan wel hebben verricht;   
 
-b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), rechtmatig in Nederland verblijf hebben als bedoeld in [artikel 8, onder g of h, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000, rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.    
 
 ###Artikel 6a 
 
@@ -99,11 +99,11 @@ a. tot zijn huishouden behoort, of
 b. door hem wordt onderhouden.     
 2.  De verzekerde heeft voor een kind van 16 of 17 jaar slechts recht op kinderbijslag indien: 
 
-a. de verzekerde heeft voldaan aan de verplichtingen, bedoeld in de [artikelen 2, eerste lid](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), en [4a, eerste lid, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), dan wel daarvan op grond van die wet is vrijgesteld;  
+a. de verzekerde heeft voldaan aan de verplichtingen, bedoeld in de artikelen 2, eerste lid, en 4a, eerste lid, van de Leerplichtwet 1969, dan wel daarvan op grond van die wet is vrijgesteld;  
 
-b. het kind als leerling of deelnemer van een met een school of instelling als bedoeld in [artikel 4a van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) vergelijkbare inrichting van onderwijs buiten Nederland staat ingeschreven en deze inrichting geregeld bezoekt, dan wel met overeenkomstige toepassing van de vrijstellingsgronden van die wet van die verplichting is vrijgesteld;  
+b. het kind als leerling of deelnemer van een met een school of instelling als bedoeld in artikel 4a van de Leerplichtwet 1969 vergelijkbare inrichting van onderwijs buiten Nederland staat ingeschreven en deze inrichting geregeld bezoekt, dan wel met overeenkomstige toepassing van de vrijstellingsgronden van die wet van die verplichting is vrijgesteld;  
 
-c. het kind een startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) heeft behaald; of  
+c. het kind een startkwalificatie als bedoeld in artikel 1, onderdeel f, van de Leerplichtwet 1969 heeft behaald; of  
 
 d. het kind een school of instelling als bedoeld in onderdeel b heeft afgerond op vergelijkbare wijze als bedoeld in onderdeel c.     
 3.  Het niet voldoen aan de verplichtingen, bedoeld in het tweede lid, onderdeel a, blijkt uit een daartoe strekkende mededeling van het college van burgemeester en wethouders van de gemeente waar het kind woont.   
@@ -120,8 +120,8 @@ b. het onderwijs of de beroepsopleiding wordt afgesloten met een eindexamen, dat
 
 ### Artikel  7a  
 
-1.  De verzekerde heeft geen recht op kinderbijslag overeenkomstig de bepalingen van deze wet voor een kind, indien dat kind op de eerste dag van een kalenderkwartaal recht heeft op studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  Ook bestaat geen recht op kinderbijslag zolang op een verzoek tot het treffen van een voorlopige voorziening als bedoeld in [titel 8.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), ingediend door degene die studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) heeft aangevraagd, geen uitspraak is gedaan.   
+1.  De verzekerde heeft geen recht op kinderbijslag overeenkomstig de bepalingen van deze wet voor een kind, indien dat kind op de eerste dag van een kalenderkwartaal recht heeft op studiefinanciering op grond van de Wet studiefinanciering 2000.   
+2.  Ook bestaat geen recht op kinderbijslag zolang op een verzoek tot het treffen van een voorlopige voorziening als bedoeld in titel 8.3 van de Algemene wet bestuursrecht, ingediend door degene die studiefinanciering op grond van de Wet studiefinanciering 2000 heeft aangevraagd, geen uitspraak is gedaan.   
 
 ### Artikel  7b  
 
@@ -143,10 +143,10 @@ b.de eventueel in dat verdrag of besluit aanwezige beperkingen.
 
 ###Artikel 7c 
 
-1. De persoon die tot op de dag voor inwerkingtreding van de wet van 22 december 2005 tot wijziging van enige socialeverzekeringswetten in verband met de beëindiging van de verzekeringsplicht van in het buitenland wonende uitkeringsgerechtigden (Stb. 718) voortgezet verzekerd was op grond van artikel 27, eerste lid, van het [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), zoals dat artikellid op die dag luidde, en op die dag nog recht op kinderbijslag had, behoudt recht op kinderbijslag, zolang het jongste kind voor wie de betrokkene voor 31 december 1999 recht had op kinderbijslag de leeftijd van 18 jaar nog niet heeft bereikt. 
+1. De persoon die tot op de dag voor inwerkingtreding van de wet van 22 december 2005 tot wijziging van enige socialeverzekeringswetten in verband met de beëindiging van de verzekeringsplicht van in het buitenland wonende uitkeringsgerechtigden (Stb. 718) voortgezet verzekerd was op grond van artikel 27, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, zoals dat artikellid op die dag luidde, en op die dag nog recht op kinderbijslag had, behoudt recht op kinderbijslag, zolang het jongste kind voor wie de betrokkene voor 31 december 1999 recht had op kinderbijslag de leeftijd van 18 jaar nog niet heeft bereikt. 
 2. Het recht op kinderbijslag, bedoeld in het eerste lid, eindigt, indien hij:
 
-a.niet langer een uitkering, pensioen of toelage ontvangt als bedoeld in [artikel 26, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), zoals dat artikellid op 31 december 1999 luidde;
+a.niet langer een uitkering, pensioen of toelage ontvangt als bedoeld in artikel 26, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, zoals dat artikellid op 31 december 1999 luidde;
 
 b.buiten Nederland arbeid verricht;
 
@@ -224,7 +224,7 @@ c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van 
 
 a.die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens dit onderdeel van toepassing is, of
 
-b.het kind voor wie kinderbijslag wordt betaald recht krijgt op studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md). 
+b.het kind voor wie kinderbijslag wordt betaald recht krijgt op studiefinanciering op grond van de Wet studiefinanciering 2000. 
 
 ### Artikel  15a  
 
@@ -243,7 +243,7 @@ b. een kind als bedoeld in artikel 7, derde lid, niet tot het huishouden van de 
 
 ### Artikel  17  
 
-1.  De Sociale verzekeringsbank weigert de kinderbijslag tijdelijk of blijvend, geheel of gedeeltelijk indien de verzekerde of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, een verplichting op grond van artikel 16 opgelegd, of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 15 niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.   
+1.  De Sociale verzekeringsbank weigert de kinderbijslag tijdelijk of blijvend, geheel of gedeeltelijk indien de verzekerde of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, een verplichting op grond van artikel 16 opgelegd, of de verplichting, bedoeld in artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 15 niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.   
 2.  Een maatregel als bedoeld in het eerste lid wordt afgestemd op de ernst van de gedraging en de mate waarin de verzekerde dan wel de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.   
 3.  De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, bedoeld in artikel 15, indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van kinderbijslag, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verzekerde, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, een zodanige waarschuwing is gegeven.   
 4.  De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.   
@@ -254,7 +254,7 @@ b. een kind als bedoeld in artikel 7, derde lid, niet tot het huishouden van de 
 
 1.  De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15. De bestuurlijke boete is niet lager dan de boete die op grond van het derde lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.   
 2.  In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 15, ten onrechte of tot een te hoog bedrag aan kinderbijslag is verleend.   
-3.  Indien het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15, niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+3.  Indien het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15, niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 4.  De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 15, tenzij het niet of niet behoorlijk nakomen van de verplichting plaats vindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verzekerde, of aan de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, een zodanige waarschuwing is gegeven.   
 5.  De Sociale verzekeringsbank legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan kinderbijslag is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
 6.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de verzekerde, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, is gestraft met een onvoorwaardelijke gevangenisstraf.   
@@ -265,7 +265,7 @@ a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarhe
 b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.     
 8.  Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan de Sociale verzekeringsbank de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.   
 9.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.   
-10.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de verzekerde, dan wel de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, wijzigen. 
+10.  In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de verzekerde, dan wel de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, wijzigen. 
 
 ### Artikel  17c  
 
@@ -273,23 +273,23 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarv
 
 ### Artikel  17g  
 
-1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met kinderbijslag op grond van deze wet, ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of een uitkering op grond van de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), die degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, ontvangt.   
+1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met kinderbijslag op grond van deze wet, ouderdomspensioen op grond van de Algemene Ouderdomswet of een uitkering op grond van de Algemene nabestaandenwet, die degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, ontvangt.   
 2.  Onverminderd het eerste lid kan de Sociale verzekeringsbank de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, een uitkering ontvangt op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md).   
-4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
+3.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, een uitkering ontvangt op grond van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering of de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet.   
+4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 5.  Zolang de verzekerde en degene met wie hij een huishouden vormt, dan wel de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, zijn verplichting als bedoeld in artikel 17a, achtste lid, niet of niet behoorlijk nakomt: 
 
-a. is de Sociale verzekeringsbank, in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
+a. is de Sociale verzekeringsbank, in afwijking van artikel 4.93, vierde lid, van de Algemene wet bestuursrecht, bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
-b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij de invordering van een bestuurlijke boete bij dwangbevel.    
+b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering, in afwijking van artikel 4:116 van de Algemene wet bestuursrecht, niet bij de invordering van een bestuurlijke boete bij dwangbevel.    
 
 ### Artikel  17h  
 
-1.  Bij de verrekening, bedoeld in artikel 17g, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 17a, vijfde lid, door Sociale verzekeringsbank, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+1.  Bij de verrekening, bedoeld in artikel 17g, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 17a, vijfde lid, door Sociale verzekeringsbank, in afwijking van artikel 4:93, vierde lid, van de Algemene wet bestuursrecht, verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
 2.  Artikel 17g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete, bedoeld in artikel 17a, eerste lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  De Sociale verzekeringsbank kan op verzoek van degene aan wie de bestuurlijke boete is opgelegd besluiten het eerste en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 17g, eerste, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de kinderbijslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de kinderbijslag kan afhankelijk worden gesteld van de leefsituatie.  
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de kinderbijslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de kinderbijslag kan afhankelijk worden gesteld van de leefsituatie.  
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld. 
 
 ### §  3  
@@ -306,7 +306,7 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 6.  Indien de persoon aan wie op grond van het vierde of vijfde lid kinderbijslag zou moeten worden betaald indien hij een aanvraag zou hebben ingediend, geen aanvraag heeft ingediend, wordt de kinderbijslag, in afwijking van het vierde en vijfde lid, betaald aan de persoon die daartoe wel een aanvraag heeft ingediend. Indien de persoon, bedoeld in de eerste zin, die geen aanvraag heeft ingediend, alsnog een aanvraag indient, wordt de kinderbijslag aan hem betaald na afloop van het kalenderkwartaal waarin de aanvraag is ingediend, mits de aanvraag in de eerste twee maanden van dat kalenderkwartaal is ingediend. Indien de aanvraag, bedoeld in de tweede zin, is ingediend in de laatste maand van een kalenderkwartaal dan wordt de kinderbijslag aan hem betaald na afloop van het kalenderkwartaal volgend op het kalenderkwartaal waarin de aanvraag is ingediend.  
 7.   Bij algemene maatregel van bestuur kunnen met betrekking tot situaties van samenloop, bedoeld in het tweede, vierde en vijfde lid, nadere en aanvullende regels worden gesteld waarbij bepaald kan worden dat aan een ander persoon de kinderbijslag wordt uitbetaald dan de persoon, bedoeld in het vierde en vijfde lid.    
 8.   De kinderbijslag die op grond van het tweede tot en met vijfde en zevende lid aan een verzekerde wordt betaald, kan op verzoek van die verzekerde in gedeelten aan meer verzekerden worden betaald.    
-9.  Indien de kinderbijslag in het buitenland wordt uitbetaald, geschiedt de betaling in afwijking van [artikel 4:89, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd. 
+9.  Indien de kinderbijslag in het buitenland wordt uitbetaald, geschiedt de betaling in afwijking van artikel 4:89, derde lid, van de Algemene wet bestuursrecht op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd. 
 
 ### Artikel  19  
 
@@ -372,7 +372,7 @@ d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer afl
 3.  De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 15.  
 4.  De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien:  
 
-a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de [artikelen 475c](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan; en   
+a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de artikelen 475c en 475d van het Wetboek van Burgerlijke Rechtsvordering niet te boven is gegaan; en   
 
 b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 15.      
 5.  Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van terugvordering af te zien.   
@@ -384,7 +384,7 @@ b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen 
 1.  De Sociale verzekeringsbank kan de onverschuldigd betaalde kinderbijslag, bedoeld in artikel 24, eerste lid, invorderen bij dwangbevel.  
 2. Artikel 17g is van overeenkomstige toepassing, met dien verstande dat:
 
-a. indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [475d van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt; en
+a. indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de artikelen 475c en 475d van het Wetboek van Burgerlijke Rechtsvordering niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt; en
 
 b.indien degene van wie wordt teruggevorderd, dan wel degene met wie hij een huishouden vormt, kinderbijslag op grond van deze wet ontvangt, in afwijking van artikel 17g, eerste lid, het besluit tot terugvordering ten uitvoer kan worden gelegd door verrekening met die bijslag. 
 
@@ -402,12 +402,12 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van de Sociale verzekeringsbank wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md).     
-2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15, en hiervoor een boete als bedoeld in artikel 17a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15, en hiervoor een boete als bedoeld in artikel 17a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald gewijzigd indien: 
 
 a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;  
@@ -419,14 +419,14 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ### Artikel  24d  
 
-Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 24c is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
+Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 24c is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in artikel 288 van Boek 3 van het Burgerlijk Wetboek. 
 
 ### Artikel  25  
 
-1.  Indien over een tijdvak, waarover krachtens de [Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) aan een kind studiefinanciering is verleend, naderhand ten behoeve van dat kind recht op kinderbijslag wordt vastgesteld, is de Sociale verzekeringsbank bevoegd die kinderbijslag over dat tijdvak en over latere tijdvakken, in plaats van aan degene aan wie de kinderbijslag zou dienen te worden betaald, zonder diens machtiging tot het bedrag van de betaalde studiefinanciering over dat tijdvak te betalen aan Onze Minister van Onderwijs, Cultuur en Wetenschap.    
+1.  Indien over een tijdvak, waarover krachtens de Wet studiefinanciering 2000 aan een kind studiefinanciering is verleend, naderhand ten behoeve van dat kind recht op kinderbijslag wordt vastgesteld, is de Sociale verzekeringsbank bevoegd die kinderbijslag over dat tijdvak en over latere tijdvakken, in plaats van aan degene aan wie de kinderbijslag zou dienen te worden betaald, zonder diens machtiging tot het bedrag van de betaalde studiefinanciering over dat tijdvak te betalen aan Onze Minister van Onderwijs, Cultuur en Wetenschap.    
 2.  Van de in het eerste lid bedoelde bevoegdheid kan de Sociale verzekeringsbank gebruik maken tot en met twee kalenderjaren na de vaststelling van het recht op kinderbijslag.    
-3.  Hetgeen in het eerste en het tweede lid is bepaald ten aanzien van studiefinanciering, verleend krachtens de [Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), is van overeenkomstige toepassing ten aanzien van een tegemoetkoming in de onderwijsbijdrage en de schoolkosten, verleend krachtens [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).    
-4.  De Sociale verzekeringsbank kan aan een verzekerde ten onrechte betaalde kinderbijslag verrekenen met een tegemoetkoming waarop een verzekerde ten behoeve van hetzelfde kind op grond van [artikel 3, eerste lid](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), juncto [artikel 9, van de Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en de daarop berustende bepalingen, aanspraak maakt.  
+3.  Hetgeen in het eerste en het tweede lid is bepaald ten aanzien van studiefinanciering, verleend krachtens de Wet studiefinanciering 2000, is van overeenkomstige toepassing ten aanzien van een tegemoetkoming in de onderwijsbijdrage en de schoolkosten, verleend krachtens hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.    
+4.  De Sociale verzekeringsbank kan aan een verzekerde ten onrechte betaalde kinderbijslag verrekenen met een tegemoetkoming waarop een verzekerde ten behoeve van hetzelfde kind op grond van artikel 3, eerste lid, juncto artikel 9, van de Kaderwet SZW-subsidies en de daarop berustende bepalingen, aanspraak maakt.  
 
 ### Hoofdstuk  IV  
 
@@ -452,7 +452,7 @@ Een vordering van de Sociale verzekeringsbank als bedoeld in de artikelen 24 en 
 
 ### Artikel  30  
 
-In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
+In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
 
 ### Artikel  31  
 

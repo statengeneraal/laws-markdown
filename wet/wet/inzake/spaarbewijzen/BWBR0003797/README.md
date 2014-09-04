@@ -35,7 +35,7 @@ d. representatieve organisatie: een organisatie, die met betrekking tot de uitvo
 
 ### Artikel  3a  
 
-De onderneming of instelling die bedrijfsmatig een spaarbewijs uitgeeft of een uitbetaling doet tegen inlevering van een spaarbewijs onderscheidenlijk degene die tussenkomst verleent bij de overdracht en aanvaarding van een spaarbewijs, stelt bij deze handeling de identiteit van de tegenpartij onderscheidenlijk van degene die het spaarbewijs overdraagt en van degene die het spaarbewijs aanvaardt, vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) en neemt de aard en het nummer daarvan alsmede een duidelijke omschrijving van het aantal, de soort en de onderscheiden nummers van de betrokken spaarbewijzen op in de administratie. 
+De onderneming of instelling die bedrijfsmatig een spaarbewijs uitgeeft of een uitbetaling doet tegen inlevering van een spaarbewijs onderscheidenlijk degene die tussenkomst verleent bij de overdracht en aanvaarding van een spaarbewijs, stelt bij deze handeling de identiteit van de tegenpartij onderscheidenlijk van degene die het spaarbewijs overdraagt en van degene die het spaarbewijs aanvaardt, vast aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht en neemt de aard en het nummer daarvan alsmede een duidelijke omschrijving van het aantal, de soort en de onderscheiden nummers van de betrokken spaarbewijzen op in de administratie. 
 
 ### Artikel  4  
 
