@@ -116,18 +116,18 @@ De artikelen 3 en 3a blijven buiten toepassing indien een verzoek tot faillietve
 
 ### Artikel  13a  
 
-Indien de faillietverklaring wordt vernietigd wordt de opzegging van een arbeidsovereenkomst door een curator, in afwijking van artikel 13, eerste lid, met terugwerkende kracht beheerst door de wettelijke of overeengekomen regels die van toepassing zijn buiten faillissement, met dien verstande dat de termijnen, bedoeld in [artikel 683 leden 1 en 2 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en in [artikel 9, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md), aanvangen op het tijdstip waarop het faillissement wordt vernietigd. 
+Indien de faillietverklaring wordt vernietigd wordt de opzegging van een arbeidsovereenkomst door een curator, in afwijking van artikel 13, eerste lid, met terugwerkende kracht beheerst door de wettelijke of overeengekomen regels die van toepassing zijn buiten faillissement, met dien verstande dat de termijnen, bedoeld in artikel 683 leden 1 en 2 van Boek 7 van het Burgerlijk Wetboek en in artikel 9, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945, aanvangen op het tijdstip waarop het faillissement wordt vernietigd. 
 
 ### Artikel  14  
 
 1.  Het vonnis van faillietverklaring houdt in de benoeming van een der leden van de rechtbank tot rechter-commissaris in het faillissement, en de aanstelling van een of meer curators. De rechter die de faillietverklaring uitspreekt, geeft in de uitspraak tevens last aan de curator tot het openen van aan de gefailleerde gerichte brieven en telegrammen. De rechtbank vermeldt op het vonnis het tijdstip van de faillietverklaring tot op de minuut nauwkeurig.   
-2.  Van de faillietverklaring wordt door de griffier onverwijld kennis gegeven aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de [Postwet 2009](../../../wet/postwet/2009/BWBR0025572/README.md). In de kennisgeving wordt melding gemaakt van de in het vorige lid bedoelde last.    
+2.  Van de faillietverklaring wordt door de griffier onverwijld kennis gegeven aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de Postwet 2009. In de kennisgeving wordt melding gemaakt van de in het vorige lid bedoelde last.    
 3.  Een uittreksel uit het vonnis van faillietverklaring, houdende vermelding van de naam, de woonplaats of het kantoor en het beroep van de gefailleerde, van de naam van de rechter-commissaris, van de naam en de woonplaats of het kantoor des curators, van de dag der uitspraak, alsmede van de naam, het beroep en de woonplaats of het kantoor van ieder lid der voorlopige commissie uit de schuldeisers, zo er een benoemd is, wordt door de curator onverwijld geplaatst in de *Nederlandsche Staatscourant*.  
 4. Op verzoek van een curator in een insolventieprocedure op de voet van artikel 3, eerste of tweede lid, van de in artikel 5, derde lid, genoemde verordening geeft de griffier van de rechtbank Den Haag onverwijld in de Staatscourant kennis van de in artikel 21 van die verordening bedoelde gegevens. Een zodanige kennisgeving vindt in elk geval plaats wanneer de schuldenaar in Nederland een vestiging heeft in de zin van artikel 1, onder h, van de in de eerste zin bedoelde verordening. De gegevens, bedoeld in de eerste zin, worden aan de griffier verstrekt in de Nederlandse, Engelse, Duitse of Franse taal. 
 
 ### Artikel  15  
 
-1.  Zodra een vonnis van faillietverklaring ten gevolge van verzet, hoger beroep of cassatie is vernietigd, en in de twee eerste gevallen de termijn, om in hoger beroep of in cassatie te komen, verstreken is zonder dat daarvan gebruik is gemaakt, wordt door de griffier van het rechtscollege, dat de vernietiging heeft uitgesproken, van die uitspraak kennis gegeven aan de curator en aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de [Postwet 2009](../../../wet/postwet/2009/BWBR0025572/README.md).   
+1.  Zodra een vonnis van faillietverklaring ten gevolge van verzet, hoger beroep of cassatie is vernietigd, en in de twee eerste gevallen de termijn, om in hoger beroep of in cassatie te komen, verstreken is zonder dat daarvan gebruik is gemaakt, wordt door de griffier van het rechtscollege, dat de vernietiging heeft uitgesproken, van die uitspraak kennis gegeven aan de curator en aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de Postwet 2009.   
 2.  Gelijke kennisgeving geschiedt, in geval van vernietiging van een vonnis van faillietverklaring in hoger beroep of cassatie, aan de griffier van de rechtbank, die het vonnis heeft gewezen.    
 3.  De rechter, die de vernietiging van een vonnis van faillietverklaring uitspreekt, stelt tevens het bedrag vast van de faillissementskosten en van het salaris des curators. Hij brengt dit bedrag ten laste van degene, die de faillietverklaring heeft aangevraagd, van de schuldenaar, of van beide in de door de rechter te bepalen verhouding. Tegen deze beslissing staat geen rechtsmiddel open. Een bevelschrift van tenuitvoerlegging zal daarvan worden uitgegeven ten behoeve van de curator.   
 
@@ -225,19 +225,19 @@ Het faillissement omvat het gehele vermogen van de schuldenaar ten tijde van de 
 
 Niettemin blijven buiten het faillissement:  
 
-1°. de zaken vermeld in [artikel 447, nrs. 1-3, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), de toerusting van de leden van de krijgsmacht volgens hun dienst en rang en het auteursrecht in de gevallen, waarin het niet vatbaar is voor beslag; alsmede hetgeen in het [eerste lid van artikel 448 van genoemd Wetboek](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) omschreven is, tenzij in het faillissement schuldeisers opkomen wegens vorderingen, vermeld in het tweede lid van dat artikel;   
+1°. de zaken vermeld in artikel 447, nrs. 1-3, van het Wetboek van Burgerlijke Rechtsvordering, de toerusting van de leden van de krijgsmacht volgens hun dienst en rang en het auteursrecht in de gevallen, waarin het niet vatbaar is voor beslag; alsmede hetgeen in het eerste lid van artikel 448 van genoemd Wetboek omschreven is, tenzij in het faillissement schuldeisers opkomen wegens vorderingen, vermeld in het tweede lid van dat artikel;   
 
 2°. hetgeen de gefailleerde door persoonlijke werkzaamheid, of als bezoldiging wegens een ambt of bediening, of als soldij, gagement, pensioen of onderstand, gedurende het faillissement verkrijgt, indien en voorzover de rechter-commissaris zulks bepaalt;   
 
 3°. de gelden, die aan de gefailleerde verstrekt worden ter voldoening aan een wettelijke onderhoudsplicht;   
 
-4°. een door de rechter-commissaris te bepalen bedrag uit de opbrengst van het in [artikel 253l, eerste en tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde vruchtgenot, ter bestrijding van de in [artikel 253l, derde lid van Boek 1 van dat wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) vermelde lasten en van de kosten van verzorging en opvoeding van het kind.   
+4°. een door de rechter-commissaris te bepalen bedrag uit de opbrengst van het in artikel 253l, eerste en tweede lid, van Boek 1 van het Burgerlijk Wetboek bedoelde vruchtgenot, ter bestrijding van de in artikel 253l, derde lid van Boek 1 van dat wetboek vermelde lasten en van de kosten van verzorging en opvoeding van het kind.   
 
-5°. het ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in de kas der gerechtelijke consignaties gestorte bedrag;   
+5°. het ingevolge artikel 642c van het Wetboek van Burgerlijke Rechtsvordering in de kas der gerechtelijke consignaties gestorte bedrag;   
 
 6°. de goederen bedoeld in artikel 60a, derde lid;  
 
-7°. een aanspraak op het tegoed van een lijfrentespaarrekening of op de waarde van een lijfrentebeleggingsrecht als bedoeld in [artikel 1.7, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) voor zover de ter zake ingelegde bedragen voor de heffing van de inkomstenbelasting in aanmerking konden worden genomen voor de bepaling van het belastbare inkomen uit werk en woning.  
+7°. een aanspraak op het tegoed van een lijfrentespaarrekening of op de waarde van een lijfrentebeleggingsrecht als bedoeld in artikel 1.7, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001 voor zover de ter zake ingelegde bedragen voor de heffing van de inkomstenbelasting in aanmerking konden worden genomen voor de bepaling van het belastbare inkomen uit werk en woning.  
 
 ### Artikel  22  
 
@@ -309,7 +309,7 @@ De artikelen 27 tot en met 31 zijn van overeenkomstige toepassing met betrekking
 1.  Het vonnis van faillietverklaring heeft ten gevolge, dat alle gerechtelijke tenuitvoerlegging op enig deel van het vermogen van de schuldenaar, vóór het faillissement aangevangen, dadelijk een einde neemt, en dat, ook van hetzelfde ogenblik af, geen vonnis bij lijfsdwang kan worden ten uitvoer gelegd.    
 2.  Gelegde beslagen vervallen; de inschrijving van een desbetreffende verklaring van de rechter-commissaris machtigt de bewaarder van de openbare registers tot doorhaling. Het beslag herleeft, zodra het faillissement een einde neemt ten gevolge van vernietiging of opheffing van het faillissement, mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.    
 3.  Indien de schuldenaar zich in gijzeling bevindt, wordt hij ontslagen, zodra het vonnis van faillietverklaring in kracht van gewijsde is gegaan, behoudens toepassing van artikel 87.    
-4.  Het bepaalde bij dit artikel geldt niet voor lijfsdwang bij vonnissen, beschikkingen en authentieke akten, waarbij een uitkering tot levensonderhoud, krachtens het [Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen, waarbij een uitkering, krachtens [artikel 85 lid 2 van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) door de ene partner aan de andere partner verschuldigd, is bevolen, alsmede besluiten op grond van [paragraaf 6.5 van de Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).  
+4.  Het bepaalde bij dit artikel geldt niet voor lijfsdwang bij vonnissen, beschikkingen en authentieke akten, waarbij een uitkering tot levensonderhoud, krachtens het Boek 1 van het Burgerlijk Wetboek verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen, waarbij een uitkering, krachtens artikel 85 lid 2 van Boek 1 van het Burgerlijk Wetboek door de ene partner aan de andere partner verschuldigd, is bevolen, alsmede besluiten op grond van paragraaf 6.5 van de Wet werk en bijstand.  
 
 ### Artikel  34  
 
@@ -319,11 +319,11 @@ Indien vóór het faillissement van de schuldenaar de uitwinning zijner goederen
 
 1.  Indien op de dag van de faillietverklaring nog niet alle handelingen die voor een levering door de schuldenaar nodig zijn, hebben plaatsgevonden, kan de levering niet geldig meer geschieden.    
 2.  Heeft de schuldenaar voor de dag van de faillietverklaring een toekomstig goed bij voorbaat geleverd, dan valt dit goed, indien het eerst na de aanvang van die dag door hem is verkregen, in de boedel, tenzij het gaat om nog te velde staande vruchten of beplantingen die reeds voor de faillietverklaring uit hoofde van een zakelijk recht of een huur- of pachtovereenkomst aan de schuldenaar toekwamen.    
-3.  Voor de toepassing van de [artikelen 86](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [238 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) wordt degene die van de schuldenaar heeft verkregen, geacht na de bekendmaking van de faillietverklaring, bedoeld in artikel 14, derde lid, diens onbevoegdheid te hebben gekend.   
+3.  Voor de toepassing van de artikelen 86 en 238 van Boek 3 van het Burgerlijk Wetboek wordt degene die van de schuldenaar heeft verkregen, geacht na de bekendmaking van de faillietverklaring, bedoeld in artikel 14, derde lid, diens onbevoegdheid te hebben gekend.   
 
 ### Artikel  35a  
 
-Indien een beding als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) op de dag van de faillietverklaring nog niet in de openbare registers was ingeschreven, kan de curator het registergoed ten aanzien waarvan het is gemaakt, vrij van het beding overeenkomstig de artikelen 101 of 176 verkopen.  
+Indien een beding als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek op de dag van de faillietverklaring nog niet in de openbare registers was ingeschreven, kan de curator het registergoed ten aanzien waarvan het is gemaakt, vrij van het beding overeenkomstig de artikelen 101 of 176 verkopen.  
 
 ### Artikel  35b  
 
@@ -336,7 +336,7 @@ Aan een gift, door de schuldenaar gedaan onder een opschortende voorwaarde of ee
 
 ### Artikel  36a  
 
-Wanneer een termijn die vóór de faillietverklaring uit hoofde van [artikel 55, tweede lid, van Boek 3](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) of [artikel 88 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) aan de schuldenaar was gesteld, ten tijde van de faillietverklaring nog niet was verstreken, loopt de termijn voort voorzover dit redelijkerwijze noodzakelijk is om de curator in staat te stellen zijn standpunt te bepalen. De wederpartij kan de curator daartoe een nieuwe redelijke termijn stellen. 
+Wanneer een termijn die vóór de faillietverklaring uit hoofde van artikel 55, tweede lid, van Boek 3 of artikel 88 van Boek 6 van het Burgerlijk Wetboek aan de schuldenaar was gesteld, ten tijde van de faillietverklaring nog niet was verstreken, loopt de termijn voort voorzover dit redelijkerwijze noodzakelijk is om de curator in staat te stellen zijn standpunt te bepalen. De wederpartij kan de curator daartoe een nieuwe redelijke termijn stellen. 
 
 ### Artikel  37  
 
@@ -382,7 +382,7 @@ Indien in het geval van artikel 37 de levering van waren, die ter beurze op term
 
 ### Artikel  42  
 
-1.  De curator kan ten behoeve van de boedel elke rechtshandeling die de schuldenaar vóór de faillietverklaring onverplicht heeft verricht en waarvan deze bij dit verrichten wist of behoorde te weten dat daarvan benadeling van de schuldeisers het gevolg zou zijn, door een buitengerechtelijke verklaring vernietigen. [Artikel 50, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.    
+1.  De curator kan ten behoeve van de boedel elke rechtshandeling die de schuldenaar vóór de faillietverklaring onverplicht heeft verricht en waarvan deze bij dit verrichten wist of behoorde te weten dat daarvan benadeling van de schuldeisers het gevolg zou zijn, door een buitengerechtelijke verklaring vernietigen. Artikel 50, tweede lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.    
 2.  Een rechtshandeling anders dan om niet, die hetzij meerzijdig is, hetzij eenzijdig en tot een of meer bepaalde personen gericht, kan wegens benadeling slechts worden vernietigd, indien ook degenen met of jegens wie de schuldenaar de rechtshandeling verrichtte, wisten of behoorden te weten dat daarvan benadeling van de schuldeisers het gevolg zou zijn.    
 3.  Wordt een rechtshandeling om niet wegens benadeling vernietigd, dan heeft de vernietiging ten aanzien van de bevoordeelde, die wist noch behoorde te weten dat van de rechtshandeling benadeling van de schuldeisers het gevolg zou zijn, geen werking, voorzover hij aantoont dat hij ten tijde van de faillietverklaring niet ten gevolge van de rechtshandeling gebaat was.   
 
@@ -423,7 +423,7 @@ d. in beide rechtspersonen voor ten minste de helft van het geplaatste kapitaal 
 3.  Onder pleegkind wordt verstaan hij die duurzaam als eigen kind is verzorgd en opgevoed.    
 4.  Onder bestuurder, commissaris of aandeelhouder wordt mede verstaan hij die minder dan een jaar vóór de rechtshandeling bestuurder, commissaris of aandeelhouder is geweest.    
 5.  Indien de bestuurder van een rechtspersoon-bestuurder zelf een rechtspersoon is, wordt deze rechtspersoon met de rechtspersoon-bestuurder gelijkgesteld.    
-6.   [Artikel 138, tiende lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing ingeval de schuldenaar een rechtspersoon is.   
+6.   Artikel 138, tiende lid, van boek 2 van het Burgerlijk Wetboek is van toepassing ingeval de schuldenaar een rechtspersoon is.   
 
 ###Artikel 45 
 
@@ -463,7 +463,7 @@ Beëindiging van het faillissement door de homologatie van een akkoord doet de r
 
 1.  Hij die zowel schuldenaar als schuldeiser van de gefailleerde is, kan zijn schuld met zijn vordering op de gefailleerde verrekenen, indien beide zijn ontstaan vóór de faillietverklaring of voortvloeien uit handelingen, vóór de faillietverklaring met de gefailleerde verricht.    
 2.  De vordering op de gefailleerde wordt zonodig berekend naar de regels in de artikelen 130 en 131 gesteld.    
-3.  De curator kan geen beroep doen op [artikel 136 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  De curator kan geen beroep doen op artikel 136 van Boek 6 van het Burgerlijk Wetboek.   
 
 ### Artikel  54  
 
@@ -476,14 +476,14 @@ De schuldenaar van de gefailleerde die zijn schuld wil verrekenen met een vorder
 
 ### Artikel  56  
 
-Hij die met de gefailleerde deelgenoot is in een gemeenschap waarvan tijdens het faillissement een verdeling plaatsvindt, kan toepassing van [artikel 184, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) verlangen, ook als de schuld van de gefailleerde aan de gemeenschap er een is onder een nog niet vervulde opschortende voorwaarde. De artikelen 130 en 131 zijn van toepassing.  
+Hij die met de gefailleerde deelgenoot is in een gemeenschap waarvan tijdens het faillissement een verdeling plaatsvindt, kan toepassing van artikel 184, eerste lid, van Boek 3 van het Burgerlijk Wetboek verlangen, ook als de schuld van de gefailleerde aan de gemeenschap er een is onder een nog niet vervulde opschortende voorwaarde. De artikelen 130 en 131 zijn van toepassing.  
 
 ### Artikel  57  
 
 1.  Pand- en hypotheekhouders kunnen hun recht uitoefenen, alsof er geen faillissement was.    
-2.  Bij de verdeling kunnen uit eigen hoofde mede de beperkt gerechtigden opkomen, wier recht vóór de faillietverklaring was gevestigd, maar door de executie door een pand- of hypotheekhouder is vervallen, voor hun recht op schadevergoeding, bedoeld in [artikel 282 van Boek 3 van het Burgerlijk Wetboek.](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md)    
+2.  Bij de verdeling kunnen uit eigen hoofde mede de beperkt gerechtigden opkomen, wier recht vóór de faillietverklaring was gevestigd, maar door de executie door een pand- of hypotheekhouder is vervallen, voor hun recht op schadevergoeding, bedoeld in artikel 282 van Boek 3 van het Burgerlijk Wetboek.    
 3.  Bij de verdeling van de opbrengst oefent de curator ten behoeve van de boedel mede de rechten uit, die de wet aan beslagleggers op het goed toekent. Hij is gehouden mede de belangen te behartigen van de bevoorrechte schuldeisers die in rang boven de voormelde pand- en hypotheekhouders en beperkt gerechtigden gaan.    
-4.  Zo een rangregeling nodig is, wordt deze verzocht aan de voorzieningenrechter van de rechtbank waarvan de rechter-commissaris in het faillissement lid is. De verdeling geschiedt ten overstaan van deze rechter-commissaris op de wijze voorgeschreven in het [Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+4.  Zo een rangregeling nodig is, wordt deze verzocht aan de voorzieningenrechter van de rechtbank waarvan de rechter-commissaris in het faillissement lid is. De verdeling geschiedt ten overstaan van deze rechter-commissaris op de wijze voorgeschreven in het Wetboek van Burgerlijke Rechtsvordering.   
 
 ### Artikel  58  
 
@@ -496,18 +496,18 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 
 ### Artikel  59a  
 
-1.  De artikelen 57-59 zijn niet van toepassing wanneer de hypotheek rust op een luchtvaartuig dat te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), of in een verdragsregister als bedoeld in [artikel 1300 onder *d* van Boek 8 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md).   
-2.   Hypotheekhouders wier rechten rusten op luchtvaartuigen als bedoeld in het vorige lid, en andere schuldeisers die op grond van [artikel 1317 van Boek 8 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) een voorrecht op het luchtvaartuig hebben, kunnen hun recht uitoefenen, alsof er geen faillissement was. Artikel 57, tweede en derde lid, is van overeenkomstige toepassing.    
+1.  De artikelen 57-59 zijn niet van toepassing wanneer de hypotheek rust op een luchtvaartuig dat te boek staat in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, of in een verdragsregister als bedoeld in artikel 1300 onder *d* van Boek 8 van het Burgerlijk Wetboek.   
+2.   Hypotheekhouders wier rechten rusten op luchtvaartuigen als bedoeld in het vorige lid, en andere schuldeisers die op grond van artikel 1317 van Boek 8 van het Burgerlijk Wetboek een voorrecht op het luchtvaartuig hebben, kunnen hun recht uitoefenen, alsof er geen faillissement was. Artikel 57, tweede en derde lid, is van overeenkomstige toepassing.    
 3.   De curator kan deze schuldeisers een redelijke termijn stellen om tot uitoefening van hun rechten overeenkomstig het vorige lid over te gaan. Heeft de schuldeiser het luchtvaartuig niet binnen deze termijn verkocht, dan kan de curator het luchtvaartuig verkopen. De rechter-commissaris is bevoegd de termijn op verzoek van de schuldeiser een of meer malen te verlengen.    
-4.   Op verkoop door de curator zijn de [artikelen 584d](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [584f-584q van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing, met dien verstande dat de curator wordt aangemerkt als beslaglegger uit hoofde van een vordering die niet van enige voorrang is voorzien, en dat met het vonnis van faillietverklaring wordt gehandeld als voorgeschreven voor het proces-verbaal van beslag.    
-5.   De rechter-commissaris in het faillissement kan in dat geval bepalen dat een door hem vast te stellen gedeelte van de algemene faillissementskosten als kosten van de executie in de zin van [artikel 584n van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zal gelden.    
+4.   Op verkoop door de curator zijn de artikelen 584d en 584f-584q van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing, met dien verstande dat de curator wordt aangemerkt als beslaglegger uit hoofde van een vordering die niet van enige voorrang is voorzien, en dat met het vonnis van faillietverklaring wordt gehandeld als voorgeschreven voor het proces-verbaal van beslag.    
+5.   De rechter-commissaris in het faillissement kan in dat geval bepalen dat een door hem vast te stellen gedeelte van de algemene faillissementskosten als kosten van de executie in de zin van artikel 584n van het Wetboek van Burgerlijke Rechtsvordering zal gelden.    
 6.   De curator kan het luchtvaartuig tot op het tijdstip van de verkoop lossen tegen voldoening van het daarop verschuldigde, alsmede van de reeds gemaakte kosten van executie.    
 7.   Artikel 59 is van overeenkomstige toepassing.   
 
 ### Artikel  60  
 
 1.  De schuldeiser die retentierecht heeft op een aan de schuldenaar toebehorende zaak, verliest dit recht niet door de faillietverklaring.    
-2.  De zaak kan door de curator worden opgeëist en met toepassing van artikel 101 of 176 worden verkocht, onverminderd de voorrang, aan de schuldeiser in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) toegekend. De curator kan ook, voorzover dit in het belang is van de boedel, de zaak in de boedel terugbrengen door voldoening van de vordering waarvoor het retentierecht kan worden uitgeoefend.    
+2.  De zaak kan door de curator worden opgeëist en met toepassing van artikel 101 of 176 worden verkocht, onverminderd de voorrang, aan de schuldeiser in artikel 292 van Boek 3 van het Burgerlijk Wetboek toegekend. De curator kan ook, voorzover dit in het belang is van de boedel, de zaak in de boedel terugbrengen door voldoening van de vordering waarvoor het retentierecht kan worden uitgeoefend.    
 3.  De schuldeiser kan de curator een redelijke termijn stellen om tot toepassing van het vorige lid over te gaan. Heeft de curator de zaak niet binnen deze termijn verkocht, dan kan de schuldeiser haar verkopen met overeenkomstige toepassing van de bepalingen betreffende parate executie door een pandhouder of, als het een registergoed betreft, die betreffende parate executie door een hypotheekhouder. De rechter-commissaris is bevoegd de termijn op verzoek van de curator een of meer malen te verlengen.    
 4.  Betreft het een registergoed, dan dient de schuldeiser, op straffe van verval van het recht van parate executie, binnen veertien dagen na het verstrijken van de in het vorige lid bedoelde termijn, aan de curator bij exploot aan te zeggen dat hij tot executie overgaat, en dit exploot in de openbare registers te doen inschrijven.   
 
@@ -526,9 +526,9 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 ### Artikel  61  
 
 1.  De echtgenoot of geregistreerde partner van de gefailleerde neemt alle goederen die hem toebehoren en niet in de huwelijksgemeenschap onderscheidenlijk de gemeenschap van het geregistreerd partnerschap vallen, terug.    
-2.  De aanbrengst van de bij huwelijkse voorwaarden of bij voorwaarden van geregistreerd partnerschap buiten de gemeenschap gehouden rechten aan toonder en zaken die geen registergoederen zijn, kan slechts worden bewezen zoals bij [artikel 130 van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) ten opzichte van derden is voorgeschreven.    
-3.  Van de aan de echtgenoot of geregistreerde partner van de gefailleerde opgekomen rechten aan toonder en zaken die geen registergoederen zijn, welke ingevolge [artikel 94, tweede lid, onder a en c, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) dan wel de huwelijkse voorwaarden onderscheidenlijk de voorwaarden van geregistreerd partnerschap buiten de gemeenschap vallen, moet, in geval van geschil, door beschrijving of bescheiden blijken.  
-4.  De goederen, voortgesproten uit de belegging of wederbelegging van gelden aan de echtgenoot of geregistreerde partner van de gefailleerde buiten de gemeenschap toebehorende, worden insgelijks door die echtgenoot onderscheidenlijk geregistreerde partner teruggenomen, mits de belegging of wederbelegging, in geval van geschil, door voldoende bescheiden, ten genoegen van de rechter, zij bewezen. Op de belegging of wederbelegging is [artikel 95, eerste lid, eerste volzin, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) van toepassing.   
+2.  De aanbrengst van de bij huwelijkse voorwaarden of bij voorwaarden van geregistreerd partnerschap buiten de gemeenschap gehouden rechten aan toonder en zaken die geen registergoederen zijn, kan slechts worden bewezen zoals bij artikel 130 van Boek 1 van het Burgerlijk Wetboek ten opzichte van derden is voorgeschreven.    
+3.  Van de aan de echtgenoot of geregistreerde partner van de gefailleerde opgekomen rechten aan toonder en zaken die geen registergoederen zijn, welke ingevolge artikel 94, tweede lid, onder a en c, van Boek 1 van het Burgerlijk Wetboek dan wel de huwelijkse voorwaarden onderscheidenlijk de voorwaarden van geregistreerd partnerschap buiten de gemeenschap vallen, moet, in geval van geschil, door beschrijving of bescheiden blijken.  
+4.  De goederen, voortgesproten uit de belegging of wederbelegging van gelden aan de echtgenoot of geregistreerde partner van de gefailleerde buiten de gemeenschap toebehorende, worden insgelijks door die echtgenoot onderscheidenlijk geregistreerde partner teruggenomen, mits de belegging of wederbelegging, in geval van geschil, door voldoende bescheiden, ten genoegen van de rechter, zij bewezen. Op de belegging of wederbelegging is artikel 95, eerste lid, eerste volzin, van Boek 1 van het Burgerlijk Wetboek van toepassing.   
 5.  Indien de goederen aan de echtgenoot of geregistreerde partner van de gefailleerde toebehorende, door de gefailleerde zijn vervreemd, doch de koopprijs nog niet is betaald, of wel de kooppenningen nog onvermengd met de failliete boedel aanwezig zijn, kan de echtgenoot onderscheidenlijk geregistreerde partner zijn recht van terugneming op die koopprijs of op de voorhanden kooppenningen uitoefenen.    
 6.  Voor zijn persoonlijke schuldvorderingen treedt de echtgenoot of geregistreerde partner van de gefailleerde als schuldeiser op.   
 
@@ -546,22 +546,22 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 
 ### Artikel  63b  
 
-1. Ingeval de schuldenaar overeenkomstig [artikel 239, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een pandrecht heeft gevestigd op een vordering op naam of op het vruchtgebruik van een zodanige vordering, blijft de pandhouder tijdens de afkoelingsperiode bevoegd de mededeling, bedoeld in [artikel 239, derde lid, van dat Boek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) te doen en betalingen in ontvangst te nemen.
-2. [Artikel 490b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), is van overeenkomstige toepassing, met dien verstande dat de pandhouder het volledige bedrag bij de bewaarder stort. 
+1. Ingeval de schuldenaar overeenkomstig artikel 239, eerste lid, van Boek 3 van het Burgerlijk Wetboek een pandrecht heeft gevestigd op een vordering op naam of op het vruchtgebruik van een zodanige vordering, blijft de pandhouder tijdens de afkoelingsperiode bevoegd de mededeling, bedoeld in artikel 239, derde lid, van dat Boek te doen en betalingen in ontvangst te nemen.
+2. Artikel 490b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering, is van overeenkomstige toepassing, met dien verstande dat de pandhouder het volledige bedrag bij de bewaarder stort. 
 
 ### Artikel  63c  
 
-1. Tijdens de afkoelingsperiode kan de ontvanger die een beslag heeft gelegd als bedoeld in [artikel 22, derde lid, Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md), niet tot uitwinning overgaan, tenzij de rechter-commissaris anders beslist.
-2. Een beslag als bedoeld in [artikel 22, derde lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) dat tijdens de afkoelingsperiode wordt gelegd op een zaak die zich op de bodem van de gefailleerde bevindt en die niet aan hem toebehoort, kan niet worden tegengeworpen aan de eigenaar van de zaak of, als daarop een pandrecht van een ander rust, aan die ander, indien deze voordat het beslag was gelegd bij deurwaardersexploot aanspraak heeft gemaakt op afgifte van de zaak. 
+1. Tijdens de afkoelingsperiode kan de ontvanger die een beslag heeft gelegd als bedoeld in artikel 22, derde lid, Invorderingswet 1990, niet tot uitwinning overgaan, tenzij de rechter-commissaris anders beslist.
+2. Een beslag als bedoeld in artikel 22, derde lid, van de Invorderingswet 1990 dat tijdens de afkoelingsperiode wordt gelegd op een zaak die zich op de bodem van de gefailleerde bevindt en die niet aan hem toebehoort, kan niet worden tegengeworpen aan de eigenaar van de zaak of, als daarop een pandrecht van een ander rust, aan die ander, indien deze voordat het beslag was gelegd bij deurwaardersexploot aanspraak heeft gemaakt op afgifte van de zaak. 
 
 ###Artikel 63d 
 
-Van de goederen als bedoeld in artikel 63a, eerste lid, zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn verpand.
+Van de goederen als bedoeld in artikel 63a, eerste lid, zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek zijn verpand.
 
 ### Artikel 63e 
 
-1. In afwijking van de artikelen 23 en 35 werkt de faillietverklaring van een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door de schuldenaar voor het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan. 
-2. De artikelen 23, 24, 35, 53, eerste lid, 54, tweede lid, van deze wet, alsmede [artikel 72, aanhef en onder a, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van faillietverklaring zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van faillietverklaring en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling de faillietverklaring niet kende of behoorde te kennen.
+1. In afwijking van de artikelen 23 en 35 werkt de faillietverklaring van een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door de schuldenaar voor het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan. 
+2. De artikelen 23, 24, 35, 53, eerste lid, 54, tweede lid, van deze wet, alsmede artikel 72, aanhef en onder a, van Boek 3 van het Burgerlijk Wetboek, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek, een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van faillietverklaring zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van faillietverklaring en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling de faillietverklaring niet kende of behoorde te kennen.
 
 ### Derde  afdeling  
 
@@ -582,8 +582,8 @@ Alvorens in enige zaak, het beheer of de vereffening des faillieten boedels betr
 ### Artikel  66  
 
 1.  De rechter-commissaris is bevoegd ter opheldering van alle omstandigheden, het faillissement betreffende, getuigen te horen of een onderzoek van deskundigen te bevelen.    
-2.  De getuigen worden gedagvaard namens de rechter-commissaris. [Artikel 177 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.    
-3.  Bij niet-verschijning of weigering om de eed of getuigenis af te leggen, zijn de [artikelen 171](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [172](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [173, eerste lid, eerste volzin, tweede en derde lid](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [174](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [175 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) toepasselijk.    
+2.  De getuigen worden gedagvaard namens de rechter-commissaris. Artikel 177 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.    
+3.  Bij niet-verschijning of weigering om de eed of getuigenis af te leggen, zijn de artikelen 171, 172, 173, eerste lid, eerste volzin, tweede en derde lid, 174 en 175 van het Wetboek van Burgerlijke Rechtsvordering toepasselijk.    
 4.  De echtgenoot of gewezen echtgenoot van de gefailleerde of degene met wie de gefailleerde een geregistreerd partnerschap is of was aangegaan, de kinderen en verdere afkomelingen en de ouders en grootouders van de gefailleerde kunnen zich van het geven van getuigenis verschonen.   
 
 ### Artikel  67  
@@ -738,7 +738,7 @@ De curator zorgt, dadelijk na de aanvaarding zijner betrekking, door alle nodige
 
 ### Artikel  93a  
 
-De curator heeft toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is. De rechter-commissaris is bevoegd tot het geven van een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).  
+De curator heeft toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is. De rechter-commissaris is bevoegd tot het geven van een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden.  
 
 ### Artikel  94  
 
@@ -765,7 +765,7 @@ De curator is bevoegd het bedrijf van de gefailleerde voort te zetten. Indien er
 
 ### Artikel  99  
 
-1.  De curator opent krachtens de last bedoeld in artikel 14, de brieven en telegrammen aan de gefailleerde gericht. Die, welke niet op de boedel betrekking hebben, stelt hij terstond aan de gefailleerde ter hand. Het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de [Postwet 2009](../../../wet/postwet/2009/BWBR0025572/README.md) is, na van de griffier ontvangen kennisgeving, verplicht de curator de brieven en telegrammen, voor de gefailleerde bestemd, af te geven, totdat de curator of de rechter-commissaris haar van die verplichting ontslaat of zij de kennisgeving ontvangt, bedoeld in artikel 15. De rechterlijke last tot het openen van brieven en telegrammen verliest zijn kracht op het in de vorige zin bedoelde tijdstip waarop de verplichting van de administratie tot afgifte van brieven en telegrammen eindigt.   
+1.  De curator opent krachtens de last bedoeld in artikel 14, de brieven en telegrammen aan de gefailleerde gericht. Die, welke niet op de boedel betrekking hebben, stelt hij terstond aan de gefailleerde ter hand. Het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de Postwet 2009 is, na van de griffier ontvangen kennisgeving, verplicht de curator de brieven en telegrammen, voor de gefailleerde bestemd, af te geven, totdat de curator of de rechter-commissaris haar van die verplichting ontslaat of zij de kennisgeving ontvangt, bedoeld in artikel 15. De rechterlijke last tot het openen van brieven en telegrammen verliest zijn kracht op het in de vorige zin bedoelde tijdstip waarop de verplichting van de administratie tot afgifte van brieven en telegrammen eindigt.   
 2.  Protesten, exploten, verklaringen en termijnstellingen betreffende de boedel geschieden door en aan de curator.   
 
 ### Artikel  100  
@@ -825,7 +825,7 @@ De curator geeft van deze beschikkingen onmiddellijk aan alle bekende schuldeise
 
 1.  De indiening der schuldvorderingen geschiedt bij de curator door de overlegging ener rekening of andere schriftelijke verklaring, aangevende de aard en het bedrag der vordering, vergezeld van de bewijsstukken of een afschrift daarvan, en van een opgave, of op voorrecht, pand, hypotheek of retentierecht aanspraak wordt gemaakt.   
 2.  De schuldeisers zijn bevoegd van de curator een ontvangbewijs te vorderen.    
-3.  Indien de curator een overeenkomst als bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) heeft gesloten die door de rechter verbindend is verklaard, kunnen de gerechtigden onder de overeenkomst die niet de in [artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde mededeling hebben gedaan, hun vordering krachtens de overeenkomst uitsluitend indienen op de wijze als in deze overeenkomst is bepaald. In afwijking van artikel 907, zesde lid, van Boek 7 van het Burgerlijk Wetboek kan de overeenkomst als bedoeld in de eerste zin, bepalen dat een vordering vervalt indien een gerechtigde onder de overeenkomst deze vordering niet indient binnen een termijn van ten minste drie maanden na de aanvang van de dag, volgende op die waarop de in artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde termijn is verstreken. Op de vorderingen als bedoeld in de eerste zin, zijn de artikelen 128, 133 en 136 van overeenkomstige toepassing 
+3.  Indien de curator een overeenkomst als bedoeld in artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek heeft gesloten die door de rechter verbindend is verklaard, kunnen de gerechtigden onder de overeenkomst die niet de in artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde mededeling hebben gedaan, hun vordering krachtens de overeenkomst uitsluitend indienen op de wijze als in deze overeenkomst is bepaald. In afwijking van artikel 907, zesde lid, van Boek 7 van het Burgerlijk Wetboek kan de overeenkomst als bedoeld in de eerste zin, bepalen dat een vordering vervalt indien een gerechtigde onder de overeenkomst deze vordering niet indient binnen een termijn van ten minste drie maanden na de aanvang van de dag, volgende op die waarop de in artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde termijn is verstreken. Op de vorderingen als bedoeld in de eerste zin, zijn de artikelen 128, 133 en 136 van overeenkomstige toepassing 
 
 ### Artikel  111  
 
@@ -879,7 +879,7 @@ Bij het faillissement van een rechtspersoon rust op de bestuurders de verplichti
 
 1.  In geval van betwisting beproeft de rechter-commissaris een schikking. Indien hij partijen niet kan verenigen, en voorzover het geschil niet reeds aanhangig is, verwijst hij partijen naar een door hem te bepalen terechtzitting van de rechtbank, zonder dat daartoe een dagvaarding wordt vereist.  
 2.  De advocaten, die voor partijen optreden, verklaren dit bij de oproeping der zaak ter terechtzitting.    
-3.  Verschijnt de schuldeiser, die de verificatie vraagt, op de bepaalde terechtzitting niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn aanvraag te hebben ingetrokken; verschijnt hij die de betwisting doet niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn betwisting te laten varen en erkent de rechter de vorderinging. [Artikel 127a, derde en vierde lid, van het Wetboek van burgerlijke rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+3.  Verschijnt de schuldeiser, die de verificatie vraagt, op de bepaalde terechtzitting niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn aanvraag te hebben ingetrokken; verschijnt hij die de betwisting doet niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn betwisting te laten varen en erkent de rechter de vorderinging. Artikel 127a, derde en vierde lid, van het Wetboek van burgerlijke rechtsvordering is van overeenkomstige toepassing.   
 4.  Schuldeisers, die ter verificatievergadering geen betwisting hebben gedaan, kunnen in het geding zich niet voegen noch tussenkomen.  
 
 ### Artikel  122a  
@@ -937,7 +937,7 @@ Een vordering onder een ontbindende voorwaarde wordt voor het gehele bedrag geve
 ### Artikel  132  
 
 1.  Schuldeisers, wier vorderingen door pand, hypotheek of retentierecht gedekt of op een bepaald voorwerp bevoorrecht zijn, maar die kunnen aantonen dat een deel hunner vordering vermoedelijk niet batig gerangschikt zal kunnen worden op de opbrengst der verbonden goederen, kunnen verlangen dat hun voor dat deel de rechten van concurrente schuldeisers worden toegekend met behoud van hun recht van voorrang.   
-2.  Het bedrag waarvoor pand- en hypotheekhouders batig gerangschikt kunnen worden, wordt bepaald met inachtneming van [artikel 483e van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) met dien verstande dat voor het tijdstip van het opmaken van de staat in de plaats treedt de aanvang van de dag waarop de faillietverklaring werd uitgesproken.   
+2.  Het bedrag waarvoor pand- en hypotheekhouders batig gerangschikt kunnen worden, wordt bepaald met inachtneming van artikel 483e van het Wetboek van Burgerlijke Rechtsvordering met dien verstande dat voor het tijdstip van het opmaken van de staat in de plaats treedt de aanvang van de dag waarop de faillietverklaring werd uitgesproken.   
 
 ### Artikel  133  
 
@@ -1018,7 +1018,7 @@ c. voorzover om een andere reden de toelating geen voor de concurrente schuldeis
 
 ### Artikel  138  
 
-De gefailleerde is bevoegd aan zijn gezamenlijke schuldeisers een akkoord aan te bieden. De gefailleerde mist deze bevoegdheid indien de curator een overeenkomst als bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) heeft gesloten en bij de rechter een verzoek als bedoeld in dit lid is ingediend, tenzij onherroepelijk vaststaat dat dit verzoek niet tot toewijzing zal leiden. Indien de gefailleerde overeenkomstig artikel 139 een ontwerp van een akkoord ter griffie van de rechtbank heeft neergelegd, kan geen verzoek als bedoeld in artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek worden ingediend, tenzij het akkoord is verworpen, de homologatie van het akkoord onherroepelijk is geweigerd of door de rechter de ontbinding van het akkoord is uitgesproken. 
+De gefailleerde is bevoegd aan zijn gezamenlijke schuldeisers een akkoord aan te bieden. De gefailleerde mist deze bevoegdheid indien de curator een overeenkomst als bedoeld in artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek heeft gesloten en bij de rechter een verzoek als bedoeld in dit lid is ingediend, tenzij onherroepelijk vaststaat dat dit verzoek niet tot toewijzing zal leiden. Indien de gefailleerde overeenkomstig artikel 139 een ontwerp van een akkoord ter griffie van de rechtbank heeft neergelegd, kan geen verzoek als bedoeld in artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek worden ingediend, tenzij het akkoord is verworpen, de homologatie van het akkoord onherroepelijk is geweigerd of door de rechter de ontbinding van het akkoord is uitgesproken. 
 
 ### Artikel  139  
 
@@ -1307,7 +1307,7 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 
 1.  Door levering ingevolge verkoop door de curator en de voldoening van de koopprijs gaan alle op het verkochte goed rustende hypotheken teniet en vervallen de beperkte rechten die niet tegen alle geverifieerde schuldeisers ingeroepen kunnen worden.    
 2.  De rechter-commissaris geeft desverlangd aan de koper een verklaring af van dit tenietgaan en vervallen. De verklaring kan bij of na de levering in de registers worden ingeschreven. Zij machtigt dan de bewaarder der registers tot doorhaling van de betrokken inschrijvingen.    
-3.  Op verkoop, door de curator, van tot de boedel behorende schepen, is [artikel 578 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) toepasselijk.   
+3.  Op verkoop, door de curator, van tot de boedel behorende schepen, is artikel 578 van het Wetboek van Burgerlijke Rechtsvordering toepasselijk.   
 
 ### Artikel  189  
 
@@ -1420,21 +1420,21 @@ Voor de toepassing van deze afdeling en afdeling 11AA wordt verstaan onder:
 
 a. instelling:  
 
-1°.een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+1°.een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 
-2°.een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110, eerste lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft;
+2°.een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110, eerste lid, van de Wet op het financieel toezicht heeft;
 
-3°.een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+3°.een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
 4°. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht tegoeden in financiële instrumenten verkrijgt;   
 
 5°. een overheidsinstantie of onderneming met overheidsgarantie;   
 
-6°. een ieder, bedoeld in [artikel 3:4 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die een vergunning heeft als bedoeld in [artikel 2:11 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+6°. een ieder, bedoeld in artikel 3:4 van de Wet op het financieel toezicht, die een vergunning heeft als bedoeld in artikel 2:11 van die wet;  
 
-7°.een clearinginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+7°.een clearinginstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 
-8°. degene die een vergunning heeft verkregen ingevolge [artikel 3:4 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+8°. degene die een vergunning heeft verkregen ingevolge artikel 3:4 van de Wet op het financieel toezicht.   
 
 b. systeem:  
 
@@ -1456,7 +1456,7 @@ h. centrale bank: een centrale bank van een lidstaat van de Europese Unie, de ce
 
 i. bijkantoor: een duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een instelling;  
 
-j. financieel instrument: een financieel instrument als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. financieel instrument: een financieel instrument als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een bank, een centrale bank, een centrale tegenpartij of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer financiële instrumenten over te boeken;   
 
@@ -1476,7 +1476,7 @@ q.  systeemexploitant: een door de Minister van Financiën op grond van artikel 
 
 1.  In afwijking van de artikelen 23 en 35 werkt de faillietverklaring van een deelnemer niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door die deelnemer vóór het tijdstip van faillietverklaring van die deelnemer gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig in het systeem uit te voeren of rechten en verplichtingen die voor een deelnemer ingevolge of in verband met zijn deelname aan het systeem ontstaan.  
 2. In afwijking van artikel 63a, geldt de afkoelingsperiode niet voor een bevoegdheid tot verhaal op tot de boedel behorende goederen of tot opeising van goederen die zich in de macht van de gefailleerde of de curator bevinden, noch voor de goederen waarop een dergelijke bevoegdheid betrekking heeft, indien die bevoegdheid is toegekend aan een centrale bank of, in verband met deelname aan het systeem, aan een andere deelnemer aan het systeem. 
-3.  De artikelen 23, 24, 35, 53, eerste lid, en 54, tweede lid, van deze wet, alsmede [artikel 72, aanhef en onder a, van boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een deelnemer na het tijdstip van faillietverklaring van die deelnemer gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, indien de opdracht in het systeem wordt uitgevoerd binnen een werkdag als omschreven in de regels van het systeem, gedurende welke de faillietverklaring heeft plaatsgevonden en de systeemexploitant kan aantonen dat deze op het tijdstip waarop deze opdrachten onherroepelijk worden de faillietverklaring niet kende of behoorde te kennen.    
+3.  De artikelen 23, 24, 35, 53, eerste lid, en 54, tweede lid, van deze wet, alsmede artikel 72, aanhef en onder a, van boek 3 van het Burgerlijk Wetboek, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een deelnemer na het tijdstip van faillietverklaring van die deelnemer gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, indien de opdracht in het systeem wordt uitgevoerd binnen een werkdag als omschreven in de regels van het systeem, gedurende welke de faillietverklaring heeft plaatsgevonden en de systeemexploitant kan aantonen dat deze op het tijdstip waarop deze opdrachten onherroepelijk worden de faillietverklaring niet kende of behoorde te kennen.    
 4.  Het eerste en het derde lid zijn van overeenkomstige toepassing op de toekenning en op de uitoefening van een bevoegdheid als bedoeld in het tweede lid alsmede in geval van een faillietverklaring van een systeemexploitant van een interoperabel systeem die geen deelnemer is.  
 5.  Bij interoperabele systemen stelt elk systeem in zijn eigen regels het tijdstip van invoering en het tijdstip van onherroepelijkheid in het systeem zodanig vast dat er zoveel mogelijk voor wordt gezorgd dat de regels van alle betrokken interoperabele systemen in dit opzicht gecoördineerd worden. Tenzij zulks in de regels van de systemen die van de operabele systemen deel uitmaken uitdrukkelijk is bepaald, laten de regels van de andere systemen waarmee een systeem interoperabel is, de in dat systeem gehanteerde regels over het tijdstip van invoering en onherroepelijkheid onverlet. 
 
@@ -1520,7 +1520,7 @@ Ingeval een insolventieprocedure wordt geopend tegen een instelling, worden de r
 
 1.  Voor de toepassing van deze afdeling wordt verstaan onder:
 
-a. bank: bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+a. bank: bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
 b.liquidatieprocedure: een collectieve procedure, het faillissement daaronder begrepen, geopend in een lidstaat, die het te gelde maken van de activa van een bank en het op toepasselijke wijze verdelen van de opbrengst onder de schuldeisers, aandeelhouders of leden behelst, en die noodzakelijkerwijs een optreden van administratieve of rechterlijke instanties behelst, daaronder begrepen de collectieve procedure die wordt afgesloten met een gerechtelijk akkoord of een andere maatregel van dezelfde strekking;
 
@@ -1534,11 +1534,11 @@ f.toezichthoudende autoriteit: de instantie die in een lidstaat bij of krachtens
 
 g.curator: de curator of elke andere persoon of ander orgaan, aangewezen door de bevoegde instanties van een andere lidstaat dan Nederland of door een bestuursorgaan van de bank om de liquidatieprocedure uit te voeren;
 
-h. financiële instrumenten: instrumenten, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+h. financiële instrumenten: instrumenten, bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
-i.  deposito: een deposito als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+i.  deposito: een deposito als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
-j.  gegarandeerd deposito: een deposito voor zover dit voor vergoeding ingevolge het depositogarantiestelsel, bedoeld in [artikel 3:259, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in aanmerking komt;  
+j.  gegarandeerd deposito: een deposito voor zover dit voor vergoeding ingevolge het depositogarantiestelsel, bedoeld in artikel 3:259, tweede lid, van de Wet op het financieel toezicht in aanmerking komt;  
 
 k.  deposito-overeenkomst: de overeenkomst op grond waarvan een depositohouder een deposito houdt bij een bank;  
 
@@ -1561,7 +1561,7 @@ b. een in een staat die geen lidstaat is gevestigde kredietinstelling die haar b
 
 ### Artikel  212ha  
 
-1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een bank die een vergunning als bedoeld in [artikel 2:11 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de liquiditeit en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die bank het faillissement uit te spreken.   
+1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een bank die een vergunning als bedoeld in artikel 2:11 van de Wet op het financieel toezicht heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de liquiditeit en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die bank het faillissement uit te spreken.   
 2.  Een ander dan De Nederlandsche Bank N.V. of een in een noodregeling benoemde bewindvoerder kan niet het faillissement van een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
 3.  Een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte.  
 
@@ -1571,7 +1571,7 @@ Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van een ba
 
 ### Artikel  212hc  
 
-De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in [artikel 3:159c, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) overleggen met het verzoek het overdrachtsplan goed te keuren. 
+De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in artikel 3:159c, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht overleggen met het verzoek het overdrachtsplan goed te keuren. 
 
 ### Artikel  212hd  
 
@@ -1585,11 +1585,11 @@ De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. tot het uitspr
 
 1.  De bank kan, na in de gelegenheid te zijn gesteld te worden gehoord, zich verweren tegen: 
 
-a. beslissingen als bedoeld in [artikel 3:159d, tweede lid van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. beslissingen als bedoeld in artikel 3:159d, tweede lid van de Wet op het financieel toezicht;  
 
-b. beslissingen als bedoeld in [artikel 3:159f, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b. beslissingen als bedoeld in artikel 3:159f, eerste lid, van die wet;  
 
-c. beslissingen als bedoeld in de [artikelen 1:75](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:76 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in [artikel 3:159d, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan;  
+c. beslissingen als bedoeld in de artikelen 1:75 en 1:76 van die wet die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in artikel 3:159d, eerste lid, van die wet heeft gedaan;  
 
 d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 212ha, eerste lid, voordoet.     
 2.  Ingeval een bank zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.  
@@ -1613,18 +1613,18 @@ d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld 
 
 ### Artikel  212hj  
 
-De [artikelen 3:159k](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:159l](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:159p van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 3:159k, 3:159l en 3:159p van de Wet op het financieel toezicht zijn van overeenkomstige toepassing. 
 
 ### Artikel  212hk  
 
-1.  Ingeval De Nederlandsche Bank N.V. bij haar verzoek tot faillietverklaring geen overdrachtsplan als bedoeld in [artikel 3:159c, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft overgelegd of indien zij dat wel heeft gedaan maar de rechtbank het overdrachtsplan niet heeft goedgekeurd, kan De Nederlandsche Bank N.V. alsnog of opnieuw een overdrachtsplan voorbereiden.   
+1.  Ingeval De Nederlandsche Bank N.V. bij haar verzoek tot faillietverklaring geen overdrachtsplan als bedoeld in artikel 3:159c, tweede lid, van de Wet op het financieel toezicht heeft overgelegd of indien zij dat wel heeft gedaan maar de rechtbank het overdrachtsplan niet heeft goedgekeurd, kan De Nederlandsche Bank N.V. alsnog of opnieuw een overdrachtsplan voorbereiden.   
 2.  Het overdrachtsplan kan betrekking hebben op de overdracht van deposito-overeenkomsten en activa of passiva anders dan uit hoofde van deposito-overeenkomsten.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het overdrachtsplan en de voorbereiding daarvan.  
 
 ### Artikel  212hl  
 
 1.  Indien De Nederlandsche Bank N.V. een overdrachtsplan voorbereidt, deelt zij dat terstond na aanvang van de voorbereiding mede aan de curator.   
-2.  Nadat De Nederlandsche Bank N.V. de mededeling, bedoeld in het eerste lid, heeft gedaan, kan zij, onverminderd hetgeen is bepaald in de [artikelen 5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de curator verplichten: 
+2.  Nadat De Nederlandsche Bank N.V. de mededeling, bedoeld in het eerste lid, heeft gedaan, kan zij, onverminderd hetgeen is bepaald in de artikelen 5:15 en 5:20 van de Algemene wet bestuursrecht, de curator verplichten: 
 
 a. gegevens of inlichtingen te verschaffen aan: 
 
@@ -1634,7 +1634,7 @@ a. gegevens of inlichtingen te verschaffen aan:
 
 b. toe te staan dat de door De Nederlandsche Bank N.V. met name genoemde overnemer en in onderdeel a van dit lid genoemde personen elke plaats met uitzondering van een woning van de bank betreden.     
 3.  De personen, bedoeld in het tweede lid, maken van de medewerking, gegevens of inlichtingen, bedoeld in het tweede lid, gebruik en betreden de plaats, bedoeld in het tweede lid, slechts voor zover dat redelijkerwijs in verband met de voorbereiding van het overdrachtsplan nodig is.   
-4.  [Artikel 1:89 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
+4.  Artikel 1:89 van de Wet op het financieel toezicht is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
 5.  Onverminderd het eerste lid, is het een ieder verboden, al dan niet op grond van de wet of enige overeenkomst, aan de voorbereiding van het overdrachtsplan bekendheid te geven.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot hetgeen is bepaald in het derde, vierde en vijfde lid.   
 7.  De curator, de bank en een onderneming die tot de groep behoort waartoe ook de bank behoort waarop De Nederlandsche Bank N.V. toezicht houdt, alsmede de personen, bedoeld in het tweede lid, en de overnemer zijn uitgezonderd van alle bij of krachtens de wet geldende verplichtingen tot openbaarmaking van gegevens of inlichtingen, bedoeld in het tweede lid, tot aan het moment waarop het overdrachtsplan is goedgekeurd.  
@@ -1645,7 +1645,7 @@ Na de mededeling, bedoeld in artikel 212hl, eerste lid, verleent de curator alle
 
 ### Artikel  212hn  
 
-1.  De [artikelen 3:159g tot en met 3:159p van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn van overeenkomstige toepassing.   
+1.  De artikelen 3:159g tot en met 3:159p van de Wet op het financieel toezicht zijn van overeenkomstige toepassing.   
 2.  Indien De Nederlandsche Bank N.V. op grond van artikel 212hk een overdrachtsplan heeft voorbereid, kan zij de rechtbank Amsterdam verzoeken het overdrachtsplan goed te keuren.  
 
 ### Artikel  212ho  
@@ -1659,7 +1659,7 @@ De curator voert het overdrachtsplan uit zo spoedig mogelijk nadat de rechtbank 
 
 ### Artikel  212hq  
 
-1.  De Nederlandsche Bank N.V. kan, in overleg met de curator, de rechtbank Amsterdam verzoeken om een reeds goedgekeurd overdrachtsplan aan te passen. [Artikel 3:159ij, tweede en derde lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is van overeenkomstige toepassing op de goedkeuring van de wijziging.   
+1.  De Nederlandsche Bank N.V. kan, in overleg met de curator, de rechtbank Amsterdam verzoeken om een reeds goedgekeurd overdrachtsplan aan te passen. Artikel 3:159ij, tweede en derde lid, is van overeenkomstige toepassing op de goedkeuring van de wijziging.   
 2.  Ingeval de rechtbank de aanpassing niet goedkeurt, wijst zij het verzoek om aanpassing van het overdrachtsplan af en blijft het overdrachtsplan ongewijzigd in stand.   
 3.  De artikelen 212hd tot en met 212hga en 212hk, tweede lid, tot en met 212hp zijn van overeenkomstige toepassing op de aanpassing van het overdrachtsplan.  
 
@@ -1685,33 +1685,33 @@ De Nederlandsche Bank N.V. trekt de vergunning van de bank in, indien deze op he
 
 ### Artikel 212l 
 
-1.  Wanneer een verzoek tot het uitspreken van de overdrachtsregeling of de noodregeling in de zin van de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aanhangig is tegelijk met een eigen aangifte door de bank, wordt de behandeling van de aangifte geschorst totdat op het verzoek tot het uitspreken van de overdrachtsregeling onderscheidenlijk de noodregeling is beschikt.   
+1.  Wanneer een verzoek tot het uitspreken van de overdrachtsregeling of de noodregeling in de zin van de Wet op het financieel toezicht aanhangig is tegelijk met een eigen aangifte door de bank, wordt de behandeling van de aangifte geschorst totdat op het verzoek tot het uitspreken van de overdrachtsregeling onderscheidenlijk de noodregeling is beschikt.   
 2.  Indien de rechtbank de overdrachtsregeling of de noodregeling uitspreekt, vervalt de eigen aangifte door de bank van rechtswege. 
 
 ### Artikel 212m 
 
-1. Nadat de rechtbank een noodregeling als bedoeld in [artikel 3:160 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende bank met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt. 
+1. Nadat de rechtbank een noodregeling als bedoeld in artikel 3:160 van de Wet op het financieel toezicht heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende bank met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt. 
 2. De noodregeling en de machtiging houden van rechtswege op van kracht te zijn ingeval de financiële onderneming, bedoeld in het eerste lid, in staat van faillissement wordt verklaard. 
 3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na de beëindiging van de noodregeling, gelden de volgende bepalingen:
 
-a.het tijdstip waarop de termijnen, bedoeld in de artikelen 43 en 45, aanvangen, wordt berekend vanaf het geven van de verklaring, bedoeld in [artikel 3:160, eerste of tweede lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+a.het tijdstip waarop de termijnen, bedoeld in de artikelen 43 en 45, aanvangen, wordt berekend vanaf het geven van de verklaring, bedoeld in artikel 3:160, eerste of tweede lid, of artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht;
 
 b.boedelschulden, na het geven van de verklaring ontstaan, zullen ook in het faillissement als boedelschuld gelden;
 
-c.het tijdstip waarop de termijnen, vermeld in de [artikelen 138, zesde lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [248, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), aanvangen wordt berekend vanaf de aanvang van de bijzondere voorziening;
+c.het tijdstip waarop de termijnen, vermeld in de artikelen 138, zesde lid, en 248, zesde lid, van Boek 2 van het Burgerlijk Wetboek, aanvangen wordt berekend vanaf de aanvang van de bijzondere voorziening;
 
-d.handelingen, ingevolge [artikel 3:175 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door of namens de bewindvoerders, bedoeld in [dat artikel](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;
+d.handelingen, ingevolge artikel 3:175 van de Wet op het financieel toezicht door of namens de bewindvoerders, bedoeld in dat artikel, verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;
 
-e.de boedel is niet aansprakelijk voor verbintenissen van de bank die in strijd met [artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat; 
+e.de boedel is niet aansprakelijk voor verbintenissen van de bank die in strijd met artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat; 
 
-f.  indien de uitvoering van de vangnetregeling is aangevangen onder de noodregeling, wordt deze tijdens het faillissement voortgezet op de voet van [afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en 
+f.  indien de uitvoering van de vangnetregeling is aangevangen onder de noodregeling, wordt deze tijdens het faillissement voortgezet op de voet van afdeling 3.5.6 van de Wet op het financieel toezicht; en 
 
-g. indien de rechtbank een overdrachtsplan heeft goedgekeurd door het uitspreken van de overdrachtsregeling, bedoeld in [artikel 3:159u van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of met het uitspreken van de noodregeling, voert de curator het overdrachtsplan uit onderscheidenlijk zet hij de door de overdrager of bewindvoerder aangevangen uitvoering van het overdrachtsplan voort.  
+g. indien de rechtbank een overdrachtsplan heeft goedgekeurd door het uitspreken van de overdrachtsregeling, bedoeld in artikel 3:159u van de Wet op het financieel toezicht, of met het uitspreken van de noodregeling, voert de curator het overdrachtsplan uit onderscheidenlijk zet hij de door de overdrager of bewindvoerder aangevangen uitvoering van het overdrachtsplan voort.  
 4. Het bepaalde in de eerste titel en artikel 362 is van overeenkomstige toepassing.
 
 ### Artikel  212ma  
 
-Indien een bank in staat van faillissement wordt verklaard zonder dat artikel 212m, eerste of derde lid, tot toepassing is gekomen, is [afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing. 
+Indien een bank in staat van faillissement wordt verklaard zonder dat artikel 212m, eerste of derde lid, tot toepassing is gekomen, is afdeling 3.5.6 van de Wet op het financieel toezicht van overeenkomstige toepassing. 
 
 ### Artikel 212n 
 
@@ -1719,7 +1719,7 @@ Na de inkennisstelling, bedoeld in artikel 212c, stelt De Nederlandsche Bank N.V
 
 ### Artikel 212o 
 
-1.  Onverminderd artikel 14, derde lid, plaatst de curator het uittreksel van het vonnis van faillietverklaring en, indien de verklaring als bedoeld in [artikel 3:160, eerste of tweede lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is ingetrokken, van die intrekking, in het Publicatieblad van de Europese Unie, alsmede in ten minste twee landelijke dagbladen van iedere andere lidstaat dan Nederland waar de bank een bijkantoor heeft of waarheen zij diensten verricht. 
+1.  Onverminderd artikel 14, derde lid, plaatst de curator het uittreksel van het vonnis van faillietverklaring en, indien de verklaring als bedoeld in artikel 3:160, eerste of tweede lid, of artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht is ingetrokken, van die intrekking, in het Publicatieblad van de Europese Unie, alsmede in ten minste twee landelijke dagbladen van iedere andere lidstaat dan Nederland waar de bank een bijkantoor heeft of waarheen zij diensten verricht. 
 2.  In aanvulling op de gegevens, bedoeld in artikel 14, vermeldt de curator dat het Nederlandse recht, behoudens uitzonderingen, van toepassing is.
 3.  De curator kan verzoeken dat het faillissement wordt ingeschreven in een openbaar register in een andere lidstaat.
 4.  De kosten van inschrijving op de voet van het derde lid zijn boedelschuld.
@@ -1872,15 +1872,15 @@ De curator kan in de verslagen, bedoeld in artikel 73a, geen gegevens of inlicht
 
 Voor de toepassing van deze afdeling wordt verstaan onder: 
 
-a.  verzekeraar: een schadeverzekeraar of levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+a.  verzekeraar: een schadeverzekeraar of levensverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
-b. overeenkomst van schadeverzekering: een overeenkomst van schadeverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+b. overeenkomst van schadeverzekering: een overeenkomst van schadeverzekering als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
-c. overeenkomst van levensverzekering: een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+c. overeenkomst van levensverzekering: een overeenkomst van levensverzekering als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
-d. schadeverzekeraar: een schadeverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+d. schadeverzekeraar: een schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
-e. levensverzekeraar: een levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+e. levensverzekeraar: een levensverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; 
 
 f. zetel: de plaats waar een verzekeraar volgens zijn statuten of reglementen is gevestigd of, indien hij geen rechtspersoon is, de plaats waar die verzekeraar zijn hoofdvestiging heeft; 
 
@@ -1900,7 +1900,7 @@ m. curator: de curator of elke andere persoon of ander orgaan, aangewezen door d
 
 n. vordering uit hoofde van verzekering: de uit een overeenkomst van verzekering voortvloeiende vordering, rechtstreeks op de verzekeraar; 
 
-o. noodregeling: de noodregeling, bedoeld in [afdeling 3.5.5 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
+o. noodregeling: de noodregeling, bedoeld in afdeling 3.5.5 van de Wet op het financieel toezicht; 
 
 p.  overnemer: degene die activa of passiva overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is.  
 
@@ -1920,7 +1920,7 @@ b. een verzekeraar met zetel in een staat die geen lidstaat is, en die zijn bedr
 
 ### Artikel  213abis  
 
-1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een verzekeraar die een vergunning als bedoeld in [artikel 2:26a](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:27](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [2:54a van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de technische voorzieningen en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die verzekeraar het faillissement uit te spreken.   
+1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een verzekeraar die een vergunning als bedoeld in artikel 2:26a, 2:27 of 2:54a van de Wet op het financieel toezicht heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de technische voorzieningen en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die verzekeraar het faillissement uit te spreken.   
 2.  Een ander dan De Nederlandsche Bank N.V. kan niet het faillissement van een verzekeraar die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
 3.  Een verzekeraar die een door De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van zijn eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte.  
 
@@ -1930,7 +1930,7 @@ Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het be
 
 ### Artikel  213ac  
 
-De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in [artikel 3:159c, tweede lid, aanhef en onderdeel b, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) overleggen met het verzoek het overdrachtsplan goed te keuren. 
+De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in artikel 3:159c, tweede lid, aanhef en onderdeel b, van de Wet op het financieel toezicht overleggen met het verzoek het overdrachtsplan goed te keuren. 
 
 ### Artikel  213ad  
 
@@ -1944,11 +1944,11 @@ De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. tot het uitspr
 
 1.  De verzekeraar kan, na in de gelegenheid te zijn gesteld te worden gehoord, zich verweren tegen: 
 
-a. beslissingen als bedoeld in [artikel 3:159d, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. beslissingen als bedoeld in artikel 3:159d, tweede lid, van de Wet op het financieel toezicht;  
 
-b. beslissingen als bedoeld in [artikel 3:159f, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b. beslissingen als bedoeld in artikel 3:159f, eerste lid, van die wet;  
 
-c. beslissingen als bedoeld in de [artikelen 1:75](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:76 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in [artikel 3:159d, eerste lid, van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan;  
+c. beslissingen als bedoeld in de artikelen 1:75 en 1:76 van die wet die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in artikel 3:159d, eerste lid, van die wet heeft gedaan;  
 
 d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 213a bis, eerste lid, voordoet.     
 2.  Ingeval een verzekeraar zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.  
@@ -1979,7 +1979,7 @@ Indien de rechtbank het overdrachtsplan heeft goedgekeurd, voert de curator het 
 ### Artikel  213ak  
 
 1.  Indien De Nederlandsche Bank N.V. een overdrachtsplan voorbereidt, deelt zij dat terstond na aanvang van de voorbereiding mede aan de curator.   
-2.  Nadat De Nederlandsche Bank N.V. de mededeling, bedoeld in het eerste lid, heeft gedaan, kan zij, onverminderd hetgeen is bepaald in de [artikelen 5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de curator verplichten: 
+2.  Nadat De Nederlandsche Bank N.V. de mededeling, bedoeld in het eerste lid, heeft gedaan, kan zij, onverminderd hetgeen is bepaald in de artikelen 5:15 en 5:20 van de Algemene wet bestuursrecht, de curator verplichten: 
 
 a. gegevens of inlichtingen te verschaffen aan: 
 
@@ -1989,7 +1989,7 @@ a. gegevens of inlichtingen te verschaffen aan:
 
 b. toe te staan dat een door De Nederlandsche Bank N.V. met name genoemde overnemer en de in onderdeel a van dit lid genoemde personen elke plaats met uitzondering van een woning van de verzekeraar betreden.     
 3.  De personen, bedoeld in het tweede lid, maken van de gegevens of inlichtingen, bedoeld in het tweede lid, gebruik en betreden de plaats, bedoeld in het tweede lid, slechts voor zover dat redelijkerwijs in verband met de voorbereiding van het overdrachtsplan nodig is.   
-4.  [Artikel 1:89 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
+4.  Artikel 1:89 van de Wet op het financieel toezicht is van overeenkomstige toepassing op personen die op grond van het tweede lid vertrouwelijke gegevens of inlichtingen hebben verkregen.   
 5.  Onverminderd het eerste lid, is het een ieder verboden aan de voorbereiding van het overdrachtsplan bekendheid te geven.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot hetgeen is bepaald in het derde, vierde en vijfde lid.   
 7.  De curator, de verzekeraar en een onderneming die tot de groep behoort waartoe ook de verzekeraar behoort waarop De Nederlandsche Bank N.V. toezicht houdt, alsmede de personen, bedoeld in het tweede lid, zijn uitgezonderd van alle bij of krachtens de wet geldende verplichtingen tot openbaarmaking van gegevens of inlichtingen, bedoeld in het tweede lid, tot aan het moment waarop het overdrachtsplan is goedgekeurd.  
@@ -2000,7 +2000,7 @@ Na de mededeling, bedoeld in artikel 213ak, eerste lid, verleent de curator alle
 
 ### Artikel  213am  
 
-1.  [Artikel 3:159u van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
+1.  Artikel 3:159u van de Wet op het financieel toezicht is van overeenkomstige toepassing.   
 2.  Indien De Nederlandsche Bank N.V. op grond van artikel 213aj een overdrachtsplan heeft voorbereid, kan zij de rechtbank Amsterdam verzoeken het overdrachtsplan goed te keuren.  
 
 ### Artikel  213an  
@@ -2041,30 +2041,30 @@ b. indien het een verzekeraar met zetel buiten de Europese Unie betreft, de toez
 
 ### Artikel  213e  
 
-1.  Wanneer een verzoek tot het uitspreken van de overdrachtsregeling of de noodregeling in de zin van de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aanhangig is tegelijk met een eigen aangifte door de verzekeraar, wordt de behandeling van de aangifte geschorst totdat op het verzoek tot het uitspreken van de overdrachtsregeling onderscheidenlijk de noodregeling is beschikt.   
+1.  Wanneer een verzoek tot het uitspreken van de overdrachtsregeling of de noodregeling in de zin van de Wet op het financieel toezicht aanhangig is tegelijk met een eigen aangifte door de verzekeraar, wordt de behandeling van de aangifte geschorst totdat op het verzoek tot het uitspreken van de overdrachtsregeling onderscheidenlijk de noodregeling is beschikt.   
 2.  Indien de rechtbank de noodregeling of de overdrachtsregeling uitspreekt, vervalt de eigen aangifte door de verzekeraar van rechtswege. 
 
 ### Artikel  213f  
 
-1. Nadat de rechtbank een noodregeling als bedoeld in [artikel 3:161 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, bedoeld in [artikel 3:162, vierde lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende verzekeraar met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt. 
+1. Nadat de rechtbank een noodregeling als bedoeld in artikel 3:161 van de Wet op het financieel toezicht heeft uitgesproken, kan zij in afwijking van artikel 1, de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, bedoeld in artikel 3:162, vierde lid, van de Wet op het financieel toezicht, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende verzekeraar met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt. 
 2. De noodregeling en de machtiging houden van rechtswege op van kracht te zijn ingeval de verzekeraar in staat van faillissement wordt verklaard. 
 3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na de beëindiging van de noodregeling, gelden de volgende bepalingen:
 
-a.het tijdstip waarop de termijnen, bedoeld in de artikelen 43 en 45, aanvangen, wordt berekend vanaf het geven van de uitspraak, bedoeld in [artikel 3:160, eerste of tweede lid](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+a.het tijdstip waarop de termijnen, bedoeld in de artikelen 43 en 45, aanvangen, wordt berekend vanaf het geven van de uitspraak, bedoeld in artikel 3:160, eerste of tweede lid, of artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht;
 
 b.boedelschulden, na het geven van die uitspaak ontstaan, zullen ook in het faillissement als boedelschuld gelden;
 
-c.het tijdstip waarop de termijnen, vermeld in de [artikelen 138, zesde lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [248, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), aanvangen, wordt berekend vanaf die uitspraak.
+c.het tijdstip waarop de termijnen, vermeld in de artikelen 138, zesde lid, en 248, zesde lid, van Boek 2 van het Burgerlijk Wetboek, aanvangen, wordt berekend vanaf die uitspraak.
 
-d.handelingen, ingevolge [artikel 3:175 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door of namens de bewindvoerders, bedoeld in [dat artikel](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;
+d.handelingen, ingevolge artikel 3:175 van de Wet op het financieel toezicht door of namens de bewindvoerders, bedoeld in dat artikel, verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;
 
-e.de boedel is niet aansprakelijk voor verbintenissen van de verzekeraar die in strijd met [artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voor zover deze daardoor is gebaat;
+e.de boedel is niet aansprakelijk voor verbintenissen van de verzekeraar die in strijd met artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voor zover deze daardoor is gebaat;
 
 f.een beroep op verrekening kan in afwijking van artikel 53 slechts worden gedaan indien de vordering en de schuldplichtigheid beide zijn ontstaan voor het tijdstip waarop de uitspraak van de noodregeling is gedaan of voortvloeien uit een handeling voor dat tijdstip met de verzekeraar verricht; en
 
 g.vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van artikel 110, eerste lid, worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld; voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast;
 
-h. indien de rechtbank een overdrachtsplan heeft goedgekeurd door het uitspreken van de overdrachtsregeling, bedoeld in [artikel 3:159u van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of met het uitspreken van de noodregeling, voert de curator het overdrachtsplan uit onderscheidenlijk zet hij de door de overdrager of bewindvoerder aangevangen uitvoering van het overdrachtsplan voort.  
+h. indien de rechtbank een overdrachtsplan heeft goedgekeurd door het uitspreken van de overdrachtsregeling, bedoeld in artikel 3:159u van de Wet op het financieel toezicht, of met het uitspreken van de noodregeling, voert de curator het overdrachtsplan uit onderscheidenlijk zet hij de door de overdrager of bewindvoerder aangevangen uitvoering van het overdrachtsplan voort.  
 4. Het bepaalde in de eerste titel en artikel 362 is van overeenkomstige toepassing. 
 
 ### Artikel  213g  
@@ -2104,7 +2104,7 @@ b.de vorderingen van werknemers en gewezen werknemers alsmede de vorderingen van
 
 c.de vorderingen van werknemers, niet zijnde bestuurders van de verzekeraar bij wie zij in dienst zijn, en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot in de toekomst tot uitkering komende termijnen van toegezegd pensioen;
 
-d.de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar is verschuldigd, benevens het bedrag van de verhoging van dat loon ingevolge [artikel 625 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) alsmede het bedrag van de uitgaven, door de werknemer voor de verzekeraar als werkgever gedaan, en de bedragen, door de verzekeraar aan de werknemer krachtens [titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
+d.de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar is verschuldigd, benevens het bedrag van de verhoging van dat loon ingevolge artikel 625 van Boek 7 van het Burgerlijk Wetboek alsmede het bedrag van de uitgaven, door de werknemer voor de verzekeraar als werkgever gedaan, en de bedragen, door de verzekeraar aan de werknemer krachtens titel 10 van Boek 7 van het Burgerlijk Wetboek in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
 
 e.de vorderingen uit hoofde van verzekering betreffende niet-periodieke uitkeringen ter zake van ziekte, letsel of overlijden van natuurlijke personen, ontstaan uit of krachtens overeenkomsten van schadeverzekering, met uitzondering evenwel van uitkeringen, krachtens overeenkomst van herverzekering aan een andere verzekeraar verschuldigd;
 
@@ -2117,7 +2117,7 @@ a.de vorderingen van werknemers en gewezen werknemers alsmede de vorderingen van
 
 b.de vorderingen van werknemers, niet zijnde bestuurders van de verzekeraar waarbij zij in dienst zijn, en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot in de toekomst tot uitkering komende termijnen van toegezegd pensioen;
 
-c.de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar verschuldigd is, benevens het bedrag van de verhoging van dat loon ingevolge [artikel 625 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) alsmede het bedrag van de uitgaven, door de werknemer voor de verzekeraar gedaan, en de bedragen, door de verzekeraar aan de werknemer krachtens [titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
+c.de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar verschuldigd is, benevens het bedrag van de verhoging van dat loon ingevolge artikel 625 van Boek 7 van het Burgerlijk Wetboek alsmede het bedrag van de uitgaven, door de werknemer voor de verzekeraar gedaan, en de bedragen, door de verzekeraar aan de werknemer krachtens titel 10 van Boek 7 van het Burgerlijk Wetboek in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
 
 d.de vorderingen uit hoofde van verzekering en rechten betreffende uitkeringen, die zijn ontstaan of nog zullen ontstaan uit overeenkomsten van levensverzekering;
 
@@ -2164,7 +2164,7 @@ c.met betrekking tot schuldvorderingen, de lidstaat op het grondgebied waarvan d
 
 1.  Ingeval de verzekeraar een zaak heeft gekocht, laat de beslissing tot opening van een liquidatieprocedure onverlet de op een eigendomsvoorbehoud berustende rechten van de verkoper, indien de zaak waarop het eigendomsvoorbehoud betrekking heeft zich op het tijdstip waarop de beslissing tot opening van een liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.   
 2.  Ingeval de verzekeraar een zaak heeft verkocht, is de beslissing tot opening van een liquidatieprocedure geen grond voor ontbinding of beëindiging van de overeenkomst tot verkoop, en belet de liquidatieprocedure de koper niet de eigendom van de gekochte zaak te verkrijgen, indien de zaak zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.  
-3. [Artikel 3:241, vierde lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing. 
+3. Artikel 3:241, vierde lid, van de Wet op het financieel toezicht is van overeenkomstige toepassing. 
 
 ### Artikel  213r  
 
@@ -2238,9 +2238,9 @@ De curator kan in de verslagen, bedoeld in artikel 73a, geen gegevens of inlicht
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
-a.natura-uitvaartverzekeraar: de natura-uitvaartverzekeraar, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).
+a.natura-uitvaartverzekeraar: de natura-uitvaartverzekeraar, bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
-b.natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat: de natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat, bedoeld in [artikel 1:1 van de Wet op het financiële toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).
+b.natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat: de natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat, bedoeld in artikel 1:1 van de Wet op het financiële toezicht.
 
 ### Artikel 213gg 
 
@@ -2250,18 +2250,18 @@ De artikelen 213b, 213d, 213e, 213f, 213i en 213k, eerste lid, zijn van overeenk
 
 De Nederlandsche Bank N.V. zendt een afschrift van haar verzoekschrift, bedoeld in artikel 213b, aan de natura-uitvaartverzekeraar en geeft van de inhoud daarvan kennis aan:
 
-a.indien het een natura-uitvaartverzekeraar met zetel in Nederland betreft, de toezichthoudende autoriteiten van de staten die zijn aangewezen op grond van [artikel 2:50, tweede lid, van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waar de natura-uitvaartverzekeraar een bijkantoor heeft of waarheen hij diensten verricht vanuit vestigingen in op grond van [dat artikel](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangewezen staten;
+a.indien het een natura-uitvaartverzekeraar met zetel in Nederland betreft, de toezichthoudende autoriteiten van de staten die zijn aangewezen op grond van artikel 2:50, tweede lid, van de Wet op het financieel toezicht waar de natura-uitvaartverzekeraar een bijkantoor heeft of waarheen hij diensten verricht vanuit vestigingen in op grond van dat artikel aangewezen staten;
 
-b.indien het een natura-uitvaartverzekeraar met zetel in een andere staat betreft, de toezichthoudende autoriteiten van andere staten die zijn aangewezen op grond van [artikel 2:50 van de Wet op het financiële toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarheen hij diensten verricht vanuit een bijkantoor in Nederland.
+b.indien het een natura-uitvaartverzekeraar met zetel in een andere staat betreft, de toezichthoudende autoriteiten van andere staten die zijn aangewezen op grond van artikel 2:50 van de Wet op het financiële toezicht waarheen hij diensten verricht vanuit een bijkantoor in Nederland.
 
 ### Artikel 213ii 
 
 1. De griffier stelt de Nederlandsche Bank N.V. onverwijld in kennis van de beslissing tot faillietverklaring. 
-2. De Nederlandsche Bank N.V. stelt onverwijld daarna de toezichthoudende autoriteiten van de andere staten die zijn aangewezen op grond van [artikel 2:50 van de Wet op het financiële toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
+2. De Nederlandsche Bank N.V. stelt onverwijld daarna de toezichthoudende autoriteiten van de andere staten die zijn aangewezen op grond van artikel 2:50 van de Wet op het financiële toezicht in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
 
 ### Artikel 213jj 
 
-De Nederlandsche Bank N.V. stelt de toezichthoudende autoriteiten van de staten die zijn aangewezen op grond van [artikel 2:50 van de Wet op het financiële toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die zulks verzoeken in kennis van het verloop van de procedure.
+De Nederlandsche Bank N.V. stelt de toezichthoudende autoriteiten van de staten die zijn aangewezen op grond van artikel 2:50 van de Wet op het financiële toezicht die zulks verzoeken in kennis van het verloop van de procedure.
 
 ### Artikel 213kk 
 
@@ -2272,7 +2272,7 @@ a.de vorderingen van werknemers en gewezen werknemers alsmede de vorderingen van
 
 b.de vorderingen van werknemers, niet zijnde bestuurders van de natura-uitvaartverzekeraar waarbij zij in dienst zijn, en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot in de toekomst tot uitkering komende termijnen van toegezegd pensioen;
 
-c.de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar verschuldigd is, benevens het bedrag van de verhoging van dat loon ingevolge [artikel 625 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) alsmede het bedrag van de uitgaven, door de werknemer voor de natura-uitvaartverzekeraar als werkgever gedaan, en de bedragen, door de natura-uitvaartverzekeraar aan de werknemer krachtens [artikel 10 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
+c.de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar verschuldigd is, benevens het bedrag van de verhoging van dat loon ingevolge artikel 625 van Boek 7 van het Burgerlijk Wetboek alsmede het bedrag van de uitgaven, door de werknemer voor de natura-uitvaartverzekeraar als werkgever gedaan, en de bedragen, door de natura-uitvaartverzekeraar aan de werknemer krachtens artikel 10 van Boek 7 van het Burgerlijk Wetboek in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
 
 d.de vorderingen en rechten betreffende prestaties, die zijn ontstaan of nog zullen ontstaan uit een natura-uitvaartverzekering, gesloten vanuit een vestiging in Nederland. 
 3. Artikel 213m, vierde tot en met zesde lid, is van overeenkomstige toepassing.
@@ -2371,8 +2371,8 @@ Bij het voorlopig verlenen der surseance of bij een latere beschikking kan de re
 
 ### Artikel  223b  
 
-1.  Op verzoek van de bewindvoerders is de rechter-commissaris bevoegd ter opheldering van alle omstandigheden, de surseance betreffende, getuigen te horen of een onderzoek van deskundigen te bevelen. De getuigen worden gedagvaard namens de rechter-commissaris. [Artikel 177 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.    
-2.  Bij niet-verschijning of weigering om de eed of getuigenis af te leggen, zijn de [artikelen 171](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [172](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [173, eerste lid, eerste volzin, tweede en derde lid](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [174](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [175 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) toepasselijk.    
+1.  Op verzoek van de bewindvoerders is de rechter-commissaris bevoegd ter opheldering van alle omstandigheden, de surseance betreffende, getuigen te horen of een onderzoek van deskundigen te bevelen. De getuigen worden gedagvaard namens de rechter-commissaris. Artikel 177 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.    
+2.  Bij niet-verschijning of weigering om de eed of getuigenis af te leggen, zijn de artikelen 171, 172, 173, eerste lid, eerste volzin, tweede en derde lid, 174 en 175 van het Wetboek van Burgerlijke Rechtsvordering toepasselijk.    
 3.  De echtgenoot of gewezen echtgenoot van de schuldenaar of degene met wie de schuldenaar een geregistreerd partnerschap is of was aangegaan, de kinderen en verdere afkomelingen en de ouders en grootouders van de schuldenaar kunnen zich van het geven van getuigenis verschonen.   
 
 ### Artikel  224  
@@ -2442,7 +2442,7 @@ De betaling van alle andere schulden, bestaande vóór de aanvang der surseance,
 
 1.  Hij die zowel schuldenaar als schuldeiser van de boedel is, kan zijn schuld met zijn vordering op de boedel verrekenen, indien beide zijn ontstaan vóór de aanvang van de surseance of voortvloeien uit een handeling vóór de aanvang van de surseance met de schuldenaar verricht.   
 2.  De vordering op de schuldenaar wordt zo nodig berekend naar de regels in de artikelen 261 en 262 gesteld.    
-3.  Van de zijde van de boedel kan geen beroep worden gedaan op [artikel 136 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Van de zijde van de boedel kan geen beroep worden gedaan op artikel 136 van Boek 6 van het Burgerlijk Wetboek.   
 
 ### Artikel  235  
 
@@ -2484,8 +2484,8 @@ Indien in het geval van artikel 236 de levering van waren, die ter beurze op ter
 
 ### Artikel  239  
 
-1.  Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, met inachtneming van het bij artikel 228 bepaalde, aan werknemers in zijn dienst, de arbeidsovereenkomst opzeggen, met inachtneming van de overeengekomen of wettelijke termijnen, met dien verstande echter, dat in elk geval de arbeidsovereenkomst kan worden geëindigd door opzegging met een termijn van zes weken of, indien de termijn, omschreven in [artikel 672 lid 2 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) langer is dan zes weken, met inachtneming van die termijn.   
-2.  Zodra de surseance een aanvang heeft genomen, behoeft bij opzegging der arbeidsovereenkomst door werknemers in dienst van de schuldenaar het bepaalde in [artikel 672 lid 3 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet in acht te worden genomen.   
+1.  Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, met inachtneming van het bij artikel 228 bepaalde, aan werknemers in zijn dienst, de arbeidsovereenkomst opzeggen, met inachtneming van de overeengekomen of wettelijke termijnen, met dien verstande echter, dat in elk geval de arbeidsovereenkomst kan worden geëindigd door opzegging met een termijn van zes weken of, indien de termijn, omschreven in artikel 672 lid 2 van Boek 7 van het Burgerlijk Wetboek langer is dan zes weken, met inachtneming van die termijn.   
+2.  Zodra de surseance een aanvang heeft genomen, behoeft bij opzegging der arbeidsovereenkomst door werknemers in dienst van de schuldenaar het bepaalde in artikel 672 lid 3 van Boek 7 van het Burgerlijk Wetboek niet in acht te worden genomen.   
 3.  Van de aanvang der surseance af zijn het loon en de met de arbeidsovereenkomst samenhangende premieschulden boedelschuld.   
 4.  Dit artikel is van overeenkomstige toepassing op agentuurovereenkomsten.  
 
@@ -2508,22 +2508,22 @@ De surseance werkt niet ten voordele van de borgen en andere medeschuldenaren.
 
 ### Artikel  241b  
 
-1. Ingeval de schuldenaar overeenkomstig [artikel 239, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een pandrecht heeft gevestigd op een vordering op naam of op het vruchtgebruik van een zodanige vordering, blijft de pandhouder tijdens de afkoelingsperiode bevoegd de mededeling, bedoeld in [artikel 239, derde lid, van dat Boek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), te doen en betalingen in ontvangst te nemen.
-2. [Artikel 490b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), is van overeenkomstige toepassing, met dien verstande dat de pandhouder het volledige bedrag bij de bewaarder stort. 
+1. Ingeval de schuldenaar overeenkomstig artikel 239, eerste lid, van Boek 3 van het Burgerlijk Wetboek een pandrecht heeft gevestigd op een vordering op naam of op het vruchtgebruik van een zodanige vordering, blijft de pandhouder tijdens de afkoelingsperiode bevoegd de mededeling, bedoeld in artikel 239, derde lid, van dat Boek, te doen en betalingen in ontvangst te nemen.
+2. Artikel 490b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering, is van overeenkomstige toepassing, met dien verstande dat de pandhouder het volledige bedrag bij de bewaarder stort. 
 
 ### Artikel  241c  
 
-1. Tijdens de afkoelingsperiode kan de ontvanger die een beslag heeft gelegd als bedoeld in [artikel 22, derde lid, Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md), niet tot uitwinning overgaan, tenzij de rechtbank of de rechter-commissaris zo die is benoemd, anders beslist.
-2. Een beslag als bedoeld in [artikel 22, derde lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) dat tijdens de afkoelingsperiode wordt gelegd op een zaak die zich op de bodem van de schuldenaar bevindt en die niet aan hem toebehoort, kan niet worden tegengeworpen aan de eigenaar van de zaak of, als daarop een pandrecht van een ander rust, aan die ander, indien deze voordat het beslag was gelegd bij deurwaardersexploot aanspraak heeft gemaakt op afgifte van de zaak. 
+1. Tijdens de afkoelingsperiode kan de ontvanger die een beslag heeft gelegd als bedoeld in artikel 22, derde lid, Invorderingswet 1990, niet tot uitwinning overgaan, tenzij de rechtbank of de rechter-commissaris zo die is benoemd, anders beslist.
+2. Een beslag als bedoeld in artikel 22, derde lid, van de Invorderingswet 1990 dat tijdens de afkoelingsperiode wordt gelegd op een zaak die zich op de bodem van de schuldenaar bevindt en die niet aan hem toebehoort, kan niet worden tegengeworpen aan de eigenaar van de zaak of, als daarop een pandrecht van een ander rust, aan die ander, indien deze voordat het beslag was gelegd bij deurwaardersexploot aanspraak heeft gemaakt op afgifte van de zaak. 
 
 ###Artikel 241d 
 
-Van de goederen als bedoeld in artikel 241a, eerste lid, zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn verpand.
+Van de goederen als bedoeld in artikel 241a, eerste lid, zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek zijn verpand.
 
 ### Artikel 241e 
 
-1. In afwijking van artikel 217 werkt het verlenen van surseance aan een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet terug tot aan het begin van de dag waarop zij voorlopig is verleend, ten aanzien van een door de schuldenaar voor het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan. 
-2. De artikelen 217, 228, tweede lid, 234, eerste lid, 235, tweede lid, van deze wet, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van het verlenen van surseance zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van het verlenen van surseance en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling het verlenen van surseance niet kende of behoorde te kennen.
+1. In afwijking van artikel 217 werkt het verlenen van surseance aan een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek niet terug tot aan het begin van de dag waarop zij voorlopig is verleend, ten aanzien van een door de schuldenaar voor het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan. 
+2. De artikelen 217, 228, tweede lid, 234, eerste lid, 235, tweede lid, van deze wet, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek, een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van het verlenen van surseance zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van het verlenen van surseance en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling het verlenen van surseance niet kende of behoorde te kennen.
 
 ### Artikel  242  
 
@@ -2610,7 +2610,7 @@ In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de vero
 
 1.  Indien de faillietverklaring wordt uitgesproken ingevolge een der bepalingen van deze titel of wel binnen één maand na het einde der surseance, gelden de volgende regelen: 
 
-1°. het tijdstip, waarop de termijnen vermeld in de artikelen 43 en 45 van deze wet en in de [artikelen 138, zesde lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [248, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) aanvangen, wordt berekend van de aanvang der surseance af;  
+1°. het tijdstip, waarop de termijnen vermeld in de artikelen 43 en 45 van deze wet en in de artikelen 138, zesde lid, en 248, zesde lid, van boek 2 van het Burgerlijk Wetboek aanvangen, wordt berekend van de aanvang der surseance af;  
 
 2°. de curator oefent de bevoegdheid uit, in het eerste lid van artikel 228 aan de bewindvoerders toegekend;  
 
@@ -2621,7 +2621,7 @@ In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de vero
 
 ### Artikel  249a  
 
-Indien de faillietverklaring van een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft, of van een persoon die een vergunning heeft ingevolge [artikel 3:4, eerste lid van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt uitgesproken ingevolge een bepaling van deze titel of binnen een maand na het einde van een surseance van betaling die aan een dergelijke onderneming is verleend, wordt de uitvoering van de vangnetregeling die werd uitgevoerd tijdens de surseance van betaling voortgezet tijdens het faillissement op de voet van [afdeling 3.5.6 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Indien de faillietverklaring van een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, van een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 van die wet heeft, of van een persoon die een vergunning heeft ingevolge artikel 3:4, eerste lid van die wet, wordt uitgesproken ingevolge een bepaling van deze titel of binnen een maand na het einde van een surseance van betaling die aan een dergelijke onderneming is verleend, wordt de uitvoering van de vangnetregeling die werd uitgevoerd tijdens de surseance van betaling voortgezet tijdens het faillissement op de voet van afdeling 3.5.6 van die wet. 
 
 ### Artikel  250  
 
@@ -2864,9 +2864,9 @@ Indien te voorzien is dat er meer dan één uitkering aan de schuldeisers zal mo
 
 De artikelen 212a, onderdelen b tot en met f, en 212b tot en met 212f zijn van overeenkomstige toepassing op de verlening van surseance van betaling aan:
 
-a.een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+a.een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 
-b.een financiële instelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft;
+b.een financiële instelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 heeft;
 
 c.een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;
 
@@ -2884,7 +2884,7 @@ e.een beleggingsonderneming met zetel in een staat die niet een lidstaat is die 
 
 ### Artikel  281h  
 
-[Afdeling 3.5.6 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op een surseance van betaling die wordt verleend aan een beleggingsonderneming als bedoeld in [artikel 1:1 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft. 
+Afdeling 3.5.6 van de Wet op het financieel toezicht is van overeenkomstige toepassing op een surseance van betaling die wordt verleend aan een beleggingsonderneming als bedoeld in artikel 1:1 van die wet of een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 van die wet heeft. 
 
 ### Derde  afdeling  
 
@@ -2930,7 +2930,7 @@ d.een gespecificeerde opgave van de vaste lasten van de schuldenaar;
 
 e.indien de schuldenaar is gehuwd of een geregistreerd partnerschap is aangegaan, een opgave van de gegevens, bedoeld onder c en d betreffende de echtgenoot onderscheidenlijk de geregistreerde partner;
 
-f.een met redenen omklede verklaring dat er geen reële mogelijkheden zijn om tot een buitengerechtelijke schuldregeling te komen, alsmede over welke aflossingsmogelijkheden de verzoeker beschikt, afgegeven door het college van burgemeester en wethouders van de gemeente van de woon- of verblijfplaats van de schuldenaar. Het college kan deze bevoegdheid mandateren aan een gemeentelijke kredietbank als bedoeld in de [Wet financiële dienstverlening](../../../wet/wet/financiële/dienstverlening/BWBR0018329/README.md) of aan krachtens [artikel 48, eerste lid, onderdeel d, van de Wet op het consumentenkrediet](../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) aangewezen natuurlijke personen of rechtspersonen, dan wel categorieën daarvan;
+f.een met redenen omklede verklaring dat er geen reële mogelijkheden zijn om tot een buitengerechtelijke schuldregeling te komen, alsmede over welke aflossingsmogelijkheden de verzoeker beschikt, afgegeven door het college van burgemeester en wethouders van de gemeente van de woon- of verblijfplaats van de schuldenaar. Het college kan deze bevoegdheid mandateren aan een gemeentelijke kredietbank als bedoeld in de Wet financiële dienstverlening of aan krachtens artikel 48, eerste lid, onderdeel d, van de Wet op het consumentenkrediet aangewezen natuurlijke personen of rechtspersonen, dan wel categorieën daarvan;
 
 g.een opgave van de aard en het bedrag van de vorderingen ter zake waarvan de schuldenaar zich als borg of anderszins als medeschuldenaar heeft verbonden;
 
@@ -2948,7 +2948,7 @@ Het verzoekschrift met bijbehorende stukken, bedoeld in artikel 285, eerste lid,
 1. De rechtbank zal met de meeste spoed op het verzoekschrift uitspraak doen. De uitspraak geschiedt bij vonnis. Artikel 6, vierde lid, is van overeenkomstige toepassing. De toepassing van de schuldsaneringsregeling gaat in bij de aanvang van de dag waarop de rechter die toepassing heeft uitgesproken. 
 2. Indien in of bij het verzoekschrift gegevens als bedoeld in artikel 285, eerste lid, ontbreken, kan de rechtbank de schuldenaar een termijn van ten hoogste een maand gunnen om de ontbrekende gegevens te verstrekken. De griffier brengt het orgaan of de persoon, bedoeld in artikel 285, tweede lid, hiervan onverwijld op de hoogte. Indien na deze termijn nog steeds gegevens ontbreken, wordt de schuldenaar niet-ontvankelijk verklaard. 
 3. Het vonnis, bedoeld in het eerste lid houdt in de benoeming van een rechter-commissaris en een bewindvoerder. 
-4. De rechtbank is in spoedeisende zaken bevoegd, gelet op de belangen van partijen, een voorlopige voorziening bij voorraad te geven. De voorlopige voorziening wordt gevraagd in het verzoekschrift of, indien dit al is ingediend, bij afzonderlijk verzoekschrift. De [artikelen 256](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [257](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [258 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing. Op hoger beroep zijn de [artikelen 358 tot en met 362 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing. 
+4. De rechtbank is in spoedeisende zaken bevoegd, gelet op de belangen van partijen, een voorlopige voorziening bij voorraad te geven. De voorlopige voorziening wordt gevraagd in het verzoekschrift of, indien dit al is ingediend, bij afzonderlijk verzoekschrift. De artikelen 256, 257 en 258 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing. Op hoger beroep zijn de artikelen 358 tot en met 362 van het Wetboek van Burgerlijke Rechtsvordering van toepassing. 
 5. De rechtbank geeft in het vonnis, bedoeld in het eerste lid, last aan de bewindvoerder tot het openen van aan de schuldenaar gerichte brieven en telegrammen gedurende een termijn van dertien maanden. De bewindvoerder kan gedurende de toepassing van de schuldsaneringsregeling de rechter-commissaris verzoeken om wijziging van de termijn of om een nieuwe last gedurende een bepaalde termijn. 
 6. Indien het verzoekschrift op de voet van artikel 284, vierde lid, door burgemeester en wethouders is ingediend, wordt het verzoek niet toegewezen dan nadat de schuldenaar is opgeroepen om te worden gehoord. Dit geldt niet voor zover het verzoek strekt tot het geven van een voorlopige voorziening bij voorraad. 
 7. Indien het verzoekschrift op de voet van artikel 284, vierde lid, door burgemeester en wethouders is ingediend en in het verzoekschrift of in een daarbij gevoegde bijlage gegevens als bedoeld in artikel 285, eerste lid, ontbreken, stelt de rechtbank burgemeester en wethouders in de gelegenheid om binnen een termijn van een maand de ontbrekende gegevens te verstrekken. 
@@ -2959,7 +2959,7 @@ Het verzoekschrift met bijbehorende stukken, bedoeld in artikel 285, eerste lid,
 2. De rechtbank stelt terstond dag, uur en plaats vast waarop zij de schuldenaar en schuldeiser of schuldeisers op wie het verzoek betrekking heeft, zal horen, onverminderd artikel 287, tweede lid. 
 3. De griffier roept de schuldenaar op bij brief en roept de schuldeiser of schuldeisers op bij aangetekende brief, tenzij de rechter anders bepaalt. 
 4. De rechtbank doet op de dag van de zitting of anders uiterlijk op de achtste dag daarna uitspraak op het verzoekschrift. De uitspraak geschiedt bij vonnis. 
-5. De rechtbank wijst het verzoek toe indien de schuldeiser in redelijkheid niet tot weigering van instemming met de schuldregeling heeft kunnen komen, in aanmerking genomen de onevenredigheid tussen het belang dat hij heeft bij uitoefening van de bevoegdheid tot weigering en de belangen van de schuldenaar of van de overige schuldeisers die door die weigering worden geschaad. [Artikel 300, lid 1, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van toepassing. 
+5. De rechtbank wijst het verzoek toe indien de schuldeiser in redelijkheid niet tot weigering van instemming met de schuldregeling heeft kunnen komen, in aanmerking genomen de onevenredigheid tussen het belang dat hij heeft bij uitoefening van de bevoegdheid tot weigering en de belangen van de schuldenaar of van de overige schuldeisers die door die weigering worden geschaad. Artikel 300, lid 1, van Boek 3 van het Burgerlijk Wetboek is van toepassing. 
 6. Indien de rechtbank het verzoek toewijst, veroordeelt de rechtbank de schuldeiser die instemming met de schuldregeling heeft geweigerd, in de kosten. 
 7. Indien de rechtbank het verzoek afwijst, beslist zij op het verzoek tot toepassing van de schuldsaneringsregeling, indien de schuldenaar het verzoek daartoe handhaaft.
 
@@ -2970,7 +2970,7 @@ Het verzoekschrift met bijbehorende stukken, bedoeld in artikel 285, eerste lid,
 3. Artikel 287a, tweede, derde en vierde lid, is van toepassing. 
 4. De voorlopige voorziening strekt tot het van toepassing verklaren van de artikelen 304 of 305 alsmede tot een verbod tot het opzeggen of ontbinden van de zorgverzekering. 
 5. De voorlopige voorziening wordt uitgesproken voor de duur van maximaal zes maanden. 
-6. Een gemeentelijke kredietbank als bedoeld in de [Wet financiële dienstverlening](../../../wet/wet/financiële/dienstverlening/BWBR0018329/README.md) of een krachtens [artikel 48, eerste lid, van de Wet op het consumentenkrediet](../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) aangewezen natuurlijke persoon of rechtspersoon, dan wel categorie daarvan, die namens de schuldenaar de buitengerechtelijke schuldregeling uitvoert, brengt na afloop van de voorziening, bedoeld in het eerste lid, verslag uit aan de rechtbank.
+6. Een gemeentelijke kredietbank als bedoeld in de Wet financiële dienstverlening of een krachtens artikel 48, eerste lid, van de Wet op het consumentenkrediet aangewezen natuurlijke persoon of rechtspersoon, dan wel categorie daarvan, die namens de schuldenaar de buitengerechtelijke schuldregeling uitvoert, brengt na afloop van de voorziening, bedoeld in het eerste lid, verslag uit aan de rechtbank.
 
 ### Artikel  288  
 
@@ -2985,7 +2985,7 @@ c.dat de schuldenaar de uit de schuldsaneringsregeling voortvloeiende verplichti
 
 a.indien de schuldsaneringsregeling reeds op de schuldenaar van toepassing is;
 
-b.indien de poging tot een buitengerechtelijke schuldregeling niet is uitgevoerd door een persoon of instelling als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);
+b.indien de poging tot een buitengerechtelijke schuldregeling niet is uitgevoerd door een persoon of instelling als bedoeld in artikel 48, eerste lid, van de Wet op het consumentenkrediet;
 
 c.indien de schuldenaar schulden heeft welke voortvloeien uit een onherroepelijke veroordeling als bedoeld in artikel 358, vierde lid, ter zake van een of meer misdrijven, welke veroordeling onherroepelijk is geworden binnen vijf jaar vóór de dag van het verzoekschrift, tenzij de rechter aanleiding ziet een langere termijn in acht te nemen; of
 
@@ -3027,7 +3027,7 @@ d.indien minder dan tien jaar voorafgaande aan de dag waarop het verzoekschrift 
 ### Artikel  293  
 
 1.  De griffier van de rechtbank doet van de uitspraak tot de toepassing van de schuldsaneringsregeling, van de naam, de woonplaats en het beroep van de schuldenaar, van de naam van de rechter-commissaris, van de naam en de woonplaats of het kantoor van de bewindvoerder alsmede van de dagen, uur en plaats bedoeld in artikel 289, onverwijld aankondiging in de Staatscourant.    
-2.  De griffier van de rechtbank geeft van de toepassing van de schuldsaneringsregeling onverwijld kennis aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de [Postwet 2009](../../../wet/postwet/2009/BWBR0025572/README.md). In de kennisgeving wordt melding gemaakt van de in artikel 287, vijfde lid, bedoelde last.   
+2.  De griffier van de rechtbank geeft van de toepassing van de schuldsaneringsregeling onverwijld kennis aan het postvervoerbedrijf of de postvervoerbedrijven die zijn aangewezen als verlener van de universele postdienst, alsmede de andere geregistreerde postvervoerbedrijven, bedoeld in de Postwet 2009. In de kennisgeving wordt melding gemaakt van de in artikel 287, vijfde lid, bedoelde last.   
 
 ### Artikel  294  
 
@@ -3067,13 +3067,13 @@ De griffier geeft voor iedere van toepassing verklaarde schuldsaneringsregeling 
 ### Artikel  295  
 
 1.  De boedel omvat de goederen van de schuldenaar ten tijde van de uitspraak tot de toepassing van de schuldsaneringsregeling, alsmede de goederen die hij tijdens de toepassing van die regeling verkrijgt.    
-2.  Van het inkomen en van periodieke uitkeringen onder welke benaming ook die de schuldenaar verkrijgt, wordt, onverminderd het derde lid, slechts buiten de boedel gelaten een bedrag gelijk aan de beslagvrije voet bedoeld in [artikel 475d van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).    
+2.  Van het inkomen en van periodieke uitkeringen onder welke benaming ook die de schuldenaar verkrijgt, wordt, onverminderd het derde lid, slechts buiten de boedel gelaten een bedrag gelijk aan de beslagvrije voet bedoeld in artikel 475d van het Wetboek van Burgerlijke Rechtsvordering.    
 3. De rechter-commissaris kan op verzoek van de schuldenaar, de bewindvoerder dan wel ambtshalve bij schriftelijke beschikking het bedrag, bedoeld in het tweede lid, verhogen met een in die beschikking vast te stellen nominaal bedrag. De rechter-commissaris kan aan zijn beschikking voorwaarden verbinden en terugwerkende kracht verlenen.  
 4.  Buiten de boedel vallen voorts:  
 
 a. de goederen die de schuldenaar, anders dan om niet, verkrijgt krachtens een tijdens de toepassing van de schuldsaneringsregeling tot stand gekomen overeenkomst indien de met die verkrijging samenhangende prestatie van de schuldenaar niet ten laste van de boedel komt;   
 
-b. de inboedel, voorzover niet bovenmatig, bedoeld in [artikel 5 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);   
+b. de inboedel, voorzover niet bovenmatig, bedoeld in artikel 5 van Boek 3 van het Burgerlijk Wetboek;   
 
 c. hetgeen is vermeld in artikel 21, onder 1°, 3°, 5°, 6° en 7°;   
 
@@ -3096,7 +3096,7 @@ b.de bevoegdheid om ten aanzien van die goederen feitelijke handelingen te verri
 1.  Onverminderd het bepaalde in artikel 296 is de schuldenaar zelfstandig bevoegd tot het verrichten van rechtshandelingen.    
 2.  De schuldenaar behoeft niettemin de toestemming van de bewindvoerder voor de volgende rechtshandelingen:  
 
-a. het aangaan van een overeenkomst inzake krediet in de zin van de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. het aangaan van een overeenkomst inzake krediet in de zin van de Wet op het financieel toezicht;  
 
 b. overeenkomsten waarbij hij zich als borg of anderszins als medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor de schuld van een derde verbindt;   
 
@@ -3115,14 +3115,14 @@ c. vorderingen die strekken tot schadevergoeding ter zake van tekortschieten na 
 
 d. vorderingen op de schuldenaar die na de uitspraak tot de toepassing van de schuldsaneringsregeling ontstaan door de vervulling van een vóór die uitspraak overeengekomen ontbindende voorwaarde;   
 
-e. na de uitspraak tot de toepassing van de schuldsaneringsregeling onvoldaan gebleven vorderingen op de schuldenaar die ontstaan krachtens [artikel 10 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) uit hoofde van een ten tijde van de uitspraak tot de toepassing van de schuldsaneringsregeling reeds bestaande rechtsbetrekking.     
+e. na de uitspraak tot de toepassing van de schuldsaneringsregeling onvoldaan gebleven vorderingen op de schuldenaar die ontstaan krachtens artikel 10 van Boek 6 van het Burgerlijk Wetboek uit hoofde van een ten tijde van de uitspraak tot de toepassing van de schuldsaneringsregeling reeds bestaande rechtsbetrekking.     
 2.  Rechtsvorderingen die voldoening van een vordering uit de boedel ten doel hebben, kunnen gedurende de toepassing van de schuldsaneringsregeling ook tegen de schuldenaar op geen andere wijze worden ingesteld dan door aanmelding ter verificatie.    
 3.  De artikelen 57 tot en met 59a zijn van overeenkomstige toepassing.   
 
 ### Artikel  299a  
 
-1.  De schuldsaneringsregeling werkt niet ten aanzien van vorderingen uit hoofde van studieschulden waarop [hoofdstuk 6 van de Wet studiefinanciering 2000](../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) van toepassing is, behoudens voorzover die vorderingen betrekking hebben op de in [artikel 6.8 van die wet](../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) bedoelde achterstallige schulden die bestaan ten tijde van de uitspraak tot de toepassing van de schuldsaneringsregeling.    
-2.  Zolang de schuldsaneringsregeling van toepassing is, wordt de aflosfase bedoeld in [artikel 6.7 van de Wet studiefinanciering 2000](../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) opgeschort. Gedurende deze periode is over de studieschuld geen rente verschuldigd.   
+1.  De schuldsaneringsregeling werkt niet ten aanzien van vorderingen uit hoofde van studieschulden waarop hoofdstuk 6 van de Wet studiefinanciering 2000 van toepassing is, behoudens voorzover die vorderingen betrekking hebben op de in artikel 6.8 van die wet bedoelde achterstallige schulden die bestaan ten tijde van de uitspraak tot de toepassing van de schuldsaneringsregeling.    
+2.  Zolang de schuldsaneringsregeling van toepassing is, wordt de aflosfase bedoeld in artikel 6.7 van de Wet studiefinanciering 2000 opgeschort. Gedurende deze periode is over de studieschuld geen rente verschuldigd.   
 
 ### Artikel  299b  
 
@@ -3130,7 +3130,7 @@ e. na de uitspraak tot de toepassing van de schuldsaneringsregeling onvoldaan ge
 2.  De bewindvoerder kan, voorzover dit in het belang is van de boedel, de zaak in de boedel terugbrengen door voldoening van de vordering waarvoor het retentierecht kan worden uitgeoefend.    
 3.  De schuldeiser kan de bewindvoerder een redelijke termijn stellen om tot toepassing van het tweede lid over te gaan. Heeft de bewindvoerder niet binnen deze termijn de zaak in de boedel teruggebracht, dan kan de schuldeiser haar verkopen met overeenkomstige toepassing van de bepalingen betreffende parate executie door een pandhouder of, als het een registergoed betreft, die betreffende parate executie door een hypotheekhouder. De rechter-commissaris is bevoegd de termijn op verzoek van de bewindvoerder een of meermalen te verlengen.    
 4.  Betreft het een registergoed, dan dient de schuldeiser, op straffe van verval van het recht van parate executie, binnen veertien dagen na het verstrijken van de in het derde lid bedoelde termijn, aan de bewindvoerder bij exploot aan te zeggen dat hij tot executie overgaat, en dit exploot in de openbare registers te doen inschrijven.    
-5.  De bewindvoerder kan de schuldeiser die overeenkomstig het derde lid het recht van parate executie kan uitoefenen, een redelijk termijn stellen daartoe over te gaan. Heeft de schuldeiser de zaak niet binnen deze termijn verkocht, dan kan de bewindvoerder haar opeisen en met toepassing van artikel 326 of 347, tweede lid, verkopen, onverminderd de voorrang, aan de schuldeiser in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) toegekend. De rechter-commissaris is bevoegd de termijn op verzoek van de schuldeiser een of meermalen te verlengen.   
+5.  De bewindvoerder kan de schuldeiser die overeenkomstig het derde lid het recht van parate executie kan uitoefenen, een redelijk termijn stellen daartoe over te gaan. Heeft de schuldeiser de zaak niet binnen deze termijn verkocht, dan kan de bewindvoerder haar opeisen en met toepassing van artikel 326 of 347, tweede lid, verkopen, onverminderd de voorrang, aan de schuldeiser in artikel 292 van Boek 3 van het Burgerlijk Wetboek toegekend. De rechter-commissaris is bevoegd de termijn op verzoek van de schuldeiser een of meermalen te verlengen.   
 
 ###Artikel 300 
 
@@ -3138,7 +3138,7 @@ De schuldsaneringsregeling werkt niet ten voordele van borgen en andere medeschu
 
 ### Artikel  301  
 
-1.  Een vordering van de ontvanger als bedoeld in [artikel 19 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) (Stb. 221) is niet toegelaten.    
+1.  Een vordering van de ontvanger als bedoeld in artikel 19 van de Invorderingswet 1990 (Stb. 221) is niet toegelaten.    
 2.  Alle ten tijde van de uitspraak tot de toepassing van de schuldsaneringsregeling tot verhaal van zijn schulden aangevangen executies worden geschorst.   
 3. De gelegde beslagen vervallen met ingang van de dag waarop de toepassing van de schuldsaneringsregeling is uitgesproken. De inschrijving van een desbetreffende, op verzoek van de bewindvoerder af te geven verklaring van de rechter-commissaris machtigt de bewaarder van de openbare registers tot doorhaling.  
 4.  Een vervallen beslag herleeft, zodra de toepassing van de schuldsaneringsregeling eindigt op grond van het bepaalde in artikel 350, derde lid, onder b, mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.    
@@ -3162,7 +3162,7 @@ Indien de schuldenaar zich in gijzeling bevindt, is hij daaruit van rechtswege o
 
 ### Artikel  305  
 
-1.  Indien de schuldenaar huurder is, kan de bewindvoerder, of met diens machtiging de schuldenaar, de huur tussentijds doen eindigen, mits de opzegging geschiedt overeenkomstig de opzegtermijnen van de [artikelen 228, lid 2](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [271, lid 2](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [293, lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md). Bovendien moet bij de opzegging de daarvoor overeengekomen of gebruikelijke termijn in acht genomen worden, met dien verstande echter, dat een termijn van drie maanden in elk geval voldoende zal zijn. Zijn de huurpenningen vooruit betaald, dan kan de huur niet eerder worden opgezegd dan tegen de dag, waarop de termijn, waarvoor vooruitbetaling heeft plaats gehad, eindigt.    
+1.  Indien de schuldenaar huurder is, kan de bewindvoerder, of met diens machtiging de schuldenaar, de huur tussentijds doen eindigen, mits de opzegging geschiedt overeenkomstig de opzegtermijnen van de artikelen 228, lid 2, 271, lid 2, en 293, lid 2, van Boek 7 van het Burgerlijk Wetboek. Bovendien moet bij de opzegging de daarvoor overeengekomen of gebruikelijke termijn in acht genomen worden, met dien verstande echter, dat een termijn van drie maanden in elk geval voldoende zal zijn. Zijn de huurpenningen vooruit betaald, dan kan de huur niet eerder worden opgezegd dan tegen de dag, waarop de termijn, waarvoor vooruitbetaling heeft plaats gehad, eindigt.    
 2. Een tekortkoming door de schuldenaar in de nakoming van een financiële verplichting, voortvloeiend uit de huurovereenkomst met betrekking tot zijn woonruimte, welke tekortkoming plaatsvond vóór de uitspraak tot de toepassing van de schuldsaneringsregeling, levert geen grond op voor opzegging of ontbinding van de huurovereenkomst. Is een vonnis tot ontruiming van de woonruimte wegens een dergelijke tekortkoming uitgesproken vóór de uitspraak tot toepassing van de schuldsaneringsregeling, dan wordt de tenuitvoerlegging van het vonnis opgeschort voor de duur van de schuldsaneringsregeling, mits de lopende huurpenningen tijdig worden voldaan. De huurovereenkomst wordt voor de duur van de schuldsaneringsregeling verlengd. 
 3.  De verhuurder is bevoegd de huur tussentijds te beëindigen indien de schuldenaar jegens de verhuurder een verplichting die ontstaat na de uitspraak tot de toepassing van de schuldsaneringsregeling, niet nakomt, mits de opzegging geschiedt tegen een tijdstip, waarop dergelijke overeenkomsten naar plaatselijk gebruik eindigen. De tweede en derde volzin van het eerste lid zijn van toepassing.    
 4.  Indien de schuldenaar pachter is, vinden het eerste, tweede en derde lid overeenkomstige toepassing.   
@@ -3182,7 +3182,7 @@ Een betaling door de schuldenaar anders dan ten laste van de boedel verricht, wo
 
 ###Artikel 309a 
 
-Van de goederen als bedoeld in artikel 309, eerste lid, zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn verpand.
+Van de goederen als bedoeld in artikel 309, eerste lid, zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek zijn verpand.
 
 ###Artikel 310 
 
@@ -3400,7 +3400,7 @@ De rechter-commissaris kan op verzoek van de schuldenaar, bewindvoerder of een s
 
 ###Artikel 349 
 
-1. Zo dikwijls er voldoende gerede penningen aanwezig zijn, gaat de bewindvoerder over tot een uitdeling aan de geverifieerde schuldeisers. Niettemin vindt geen uitdeling plaats, indien de verkoop van een goed nog moet plaatsvinden en daarop pand of hypotheek rust of ten aanzien van dat goed voorrang geldt als bedoeld in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), dan wel op dat bepaalde goed een voorrecht rust. Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitdeling heeft plaatsgevonden, heeft dat geen invloed op de geldigheid van die uitdeling. 
+1. Zo dikwijls er voldoende gerede penningen aanwezig zijn, gaat de bewindvoerder over tot een uitdeling aan de geverifieerde schuldeisers. Niettemin vindt geen uitdeling plaats, indien de verkoop van een goed nog moet plaatsvinden en daarop pand of hypotheek rust of ten aanzien van dat goed voorrang geldt als bedoeld in artikel 292 van Boek 3 van het Burgerlijk Wetboek, dan wel op dat bepaalde goed een voorrecht rust. Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitdeling heeft plaatsgevonden, heeft dat geen invloed op de geldigheid van die uitdeling. 
 2. De uitdeling geschiedt naar evenredigheid van ieders vordering, met dien verstande dat, zolang de vorderingen waaraan voorrang is verbonden niet volledig zijn voldaan, daarop een twee keer zo groot percentage wordt betaald als op de concurrente vorderingen. 
 3. Voor de toepassing van het tweede lid worden de vorderingen van de schuldeisers die voorrang hebben, ongeacht of deze wordt betwist, en die niet reeds overeenkomstig artikel 57 of 299b, derde lid, voldaan zijn, bepaald op het bedrag waarvoor zij batig gerangschikt kunnen worden op de opbrengst der goederen waarop hun voorrang betrekking heeft. Zo dit minder is dan het gehele bedrag van hun vorderingen, worden zij voor het ontbrekende als concurrent behandeld. 
 4. De bewindvoerder maakt telkens een uitdelingslijst op. De lijst houdt in een staat van de ontvangsten en uitgaven, de namen van de schuldeisers, het geverifieerde bedrag van ieders vordering, benevens de daarop te ontvangen uitkering. 
@@ -3493,13 +3493,13 @@ Uiterlijk drie maanden voordat de termijn volgend uit artikel 349a afloopt, bren
 3. Het eerste lid is tevens van toepassing op boedelschulden, bedoeld in artikel 15d, eerste lid, onder b, voor zover deze niet uit de boedel van de schuldsaneringsregeling voldaan kunnen worden.
 4. Onverminderd artikel 288, tweede lid, onder c, is bij beëindiging van de schuldsaneringsregeling het eerste lid niet van toepassing ten aanzien van vorderingen die voortvloeien uit een in kracht van gewijsde gegane strafrechtelijke veroordeling
 
-a.tot betaling van een geldboete als bedoeld in [artikel 9, eerste lid, onder 4, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md),
+a.tot betaling van een geldboete als bedoeld in artikel 9, eerste lid, onder 4, van het Wetboek van Strafrecht,
 
-b.tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md),
+b.tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel als bedoeld in artikel 36e van het Wetboek van Strafrecht,
 
-c.tot betaling van een geldbedrag ten behoeve van het slachtoffer als bedoeld in [artikel 36f van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of
+c.tot betaling van een geldbedrag ten behoeve van het slachtoffer als bedoeld in artikel 36f van het Wetboek van Strafrecht, of
 
-d.tot betaling van een schadevergoeding aan een benadeelde partij alsbedoeld in [artikel 51a Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Met een vordering onder dit lid wordt gelijkgesteld een vordering die voortvloeit uit een in kracht van gewijsde gegane veroordeling tot betaling van schadevergoeding die is vastgesteld door de burgerlijke rechter nadat de strafrechter die over het misdrijf of de overtreding heeft geoordeeld, heeft vastgesteld dat de vordering tot betaling van schadevergoeding of een deel daarvan slechts bij de burgerlijke rechter kan worden aangebracht.
+d.tot betaling van een schadevergoeding aan een benadeelde partij alsbedoeld in artikel 51a Wetboek van Strafvordering. Met een vordering onder dit lid wordt gelijkgesteld een vordering die voortvloeit uit een in kracht van gewijsde gegane veroordeling tot betaling van schadevergoeding die is vastgesteld door de burgerlijke rechter nadat de strafrechter die over het misdrijf of de overtreding heeft geoordeeld, heeft vastgesteld dat de vordering tot betaling van schadevergoeding of een deel daarvan slechts bij de burgerlijke rechter kan worden aangebracht.
 5. Het eerste lid is niet van toepassing ten aanzien van een vordering waarvoor een hypotheek tot zekerheid strekt, die is gevestigd op het registergoed waarin de schuldenaar woonachtig is, indien op de rente van deze vordering artikel 303, derde lid, van toepassing is.
 6. Het eerste lid is niet van toepassing indien de schuldenaar tijdens de toepassing van de schuldsaneringsregeling is overleden.
 
@@ -3553,7 +3553,7 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 ### Artikel  362  
 
-1.  De [Algemene termijnenwet](../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de artikelen 39, 40, 238, 239 en 305.    
+1.  De Algemene termijnenwet is niet van toepassing op de termijnen, gesteld in de artikelen 39, 40, 238, 239 en 305.    
 2.  De derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering is niet van toepassing op verzoeken ingevolge deze wet.  
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    

@@ -3,7 +3,7 @@
 ##Regeling kinderbeveiligingsmiddelen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 22, vierde lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 22, vierde lid, van de Wegenverkeerswet 1994;
 Besluit:     
 
 ### Artikel  1  

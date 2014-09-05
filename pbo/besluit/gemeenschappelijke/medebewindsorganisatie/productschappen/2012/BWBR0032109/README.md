@@ -6,11 +6,11 @@ Overwegende dat de vorming van een gemeenschappelijke medebewindsorganisatie geb
 
 Overwegende dat de gemeenschappelijke medebewindsorganisatie uitvoering zal geven aan de medebewindsopdrachten van de participerende productschappen; Overwegende dat de gemeenschappelijke medebewindsorganisatie wordt geleid door de daarvoor aangestelde manager;
 
-Overwegende dat de aan de besturen van de participerende productschappen toekomende bevoegdheden ter uitvoering van het bepaalde bij of krachtens de [Landbouwwet](../../../../../../../wet/landbouwwet/BWBR0002252/README.md), de [Landbouwkwaliteitswet](../../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), de [Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), de [Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md), de [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) en de [Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), met uitzondering van de bevoegdheid tot het stellen van nadere regels bij of krachtens verordening, worden uitgeoefend door de voorzitters van de productschappen; Overwegende dat de voorzitters van de productschappen de manager van de medebewindsorganisatie mandaat verlenen om de hiervoor bedoelde bevoegdheden namens hen uit te oefenen;
+Overwegende dat de aan de besturen van de participerende productschappen toekomende bevoegdheden ter uitvoering van het bepaalde bij of krachtens de Landbouwwet, de Landbouwkwaliteitswet, de Gezondheids- en welzijnswet voor dieren, de Visserijwet 1963, de Meststoffenwet, de Warenwet en de Algemene douanewet, met uitzondering van de bevoegdheid tot het stellen van nadere regels bij of krachtens verordening, worden uitgeoefend door de voorzitters van de productschappen; Overwegende dat de voorzitters van de productschappen de manager van de medebewindsorganisatie mandaat verlenen om de hiervoor bedoelde bevoegdheden namens hen uit te oefenen;
 
 Overwegende dat de manager van de medebewindsorganisatie mandaat c.q. volmacht heeft, voor zover het de medebewindsorganisatie betreft, ten aanzien van aangelegenheden betreffende het organisatie- en formatiebeleid, de toepassing van de arbeidsvoorwaarden voor het personeel van de medebewindsorganisatie en overige uitvoeringshandelingen; Overwegende dat de medebewindsorganisatie op hoofdlijnen wordt aangestuurd door de secretarissen van de productschappen,
 
-Gelet op [artikel 109 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+Gelet op artikel 109 van de Wet op de bedrijfsorganisatie,
 Besluit: 
 
 ###Artikel  1 
@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder:
 |:---|:---|:---|:---|
 |a. |productschappen |: |het Hoofdproductschap Akkerbouw, het Productschap Pluimvee en Eieren, het Productschap Tuinbouw, het Productschap Vee en Vlees, het Productschap Vis en het Productschap Zuivel; |
 |b. |besturen |: |besturen van de productschappen; |
-|c. |medebewindsorganisatie |: |organisatorische eenheid van de productschappen ter uitvoering en vervulling van de medewerking die van Rijkswege is gevorderd van de individuele productschappen op de voet van de [artikelen 96](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). |
+|c. |medebewindsorganisatie |: |organisatorische eenheid van de productschappen ter uitvoering en vervulling van de medewerking die van Rijkswege is gevorderd van de individuele productschappen op de voet van de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie. |
 
 ###Artikel  2 
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is belastingen op grondwater, afvalstoffen en uranium-235 in te stellen en deze te zamen met de in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) opgenomen verbruiksbelastingen van brandstoffen te vervatten in één wet belastingen op milieugrondslag;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is belastingen op grondwater, afvalstoffen en uranium-235 in te stellen en deze te zamen met de in de Wet milieubeheer opgenomen verbruiksbelastingen van brandstoffen te vervatten in één wet belastingen op milieugrondslag;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -91,13 +91,13 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 a. leidingwater: water dat door een drinkwaterbedrijf of een afzonderlijke watervoorziening aan derden ter beschikking wordt gesteld, al dan niet van drinkwaterkwaliteit;  
 
-b. drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md);  
+b. drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet;  
 
 c. afzonderlijke watervoorziening: landgebonden voorziening, niet zijnde een drinkwaterbedrijf, voor de winning of behandeling van water, dat met behulp van een leiding of distributienet als leidingwater ter beschikking wordt gesteld;  
 
-d. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening, waaruit leidingwater aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
+d. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken, op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening, waaruit leidingwater aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
 
-e. particuliere installatie voor centrale watervoorziening: installatie voor de levering van water aan meer dan een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), welke installatie permanent is aangesloten op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening.   
+e. particuliere installatie voor centrale watervoorziening: installatie voor de levering van water aan meer dan een onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken, welke installatie permanent is aangesloten op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening.   
 
 ### Afdeling  2  
 
@@ -109,10 +109,7 @@ Onder de naam belasting op leidingwater wordt een belasting geheven op leidingwa
 
 ### Artikel  14  
 
-1.  De belasting wordt geheven ter zake van de levering van leidingwater via een aansluiting aan de verbruiker, met dien verstande dat de belasting wordt geheven over een hoeveelheid van maximaal 300 kubieke meter per verbruiksperiode van twaalf maanden per aansluiting.   
-2.  Bij een verbruiksperiode korter dan wel langer dan twaalf maanden wordt de in het eerste lid genoemde hoeveelheidsgrens naar evenredigheid verlaagd, onderscheidenlijk verhoogd.   
-3.  Bij de levering van leidingwater aan een particuliere installatie voor centrale watervoorziening wordt, in afwijking in zoverre van het eerste lid, de belasting geheven over de totale hoeveelheid geleverd water, met dien verstande dat, indien de exploitant van de installatie aan degene die het leidingwater heeft geleverd een verklaring heeft overgelegd waarin opgaaf wordt gedaan van het aantal onroerende zaken, bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) dat door de installatie van water wordt voorzien, ten hoogste wordt geheven over een hoeveelheid van 300 kubieke meter vermenigvuldigd met dat aantal.   
-4.  Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.  
+De belasting wordt geheven ter zake van de levering van leidingwater via een aansluiting aan de verbruiker. 
 
 ### Artikel  15  
 
@@ -141,9 +138,8 @@ b.in gevallen waarin geen voorschotnota wordt uitgereikt en geen voorschotbedrag
 
 c.in overige gevallen op het tijdstip waarop de levering plaatsvindt. 
 2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met artikel 14, eerste lid, wordt de hoeveelheid leidingwater, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid.
-3. In gevallen waarin per verbruiksperiode van twaalf maanden meer dan 300 kubieke meter leidingwater via een aansluiting aan een verbruiker wordt geleverd en ter zake van die levering voorschotnota’s worden uitgereikt of voorschotbedragen worden ontvangen, wordt bij de berekening van de op de verbruiksperiode betrekking hebbende voorschotbedragen naar evenredigheid rekening gehouden met de belasting die overeenkomstig artikel 14, eerste lid, ter zake van de hoeveelheid van 300 kubieke meter verschuldigd is.
-4. Onder de in het eerste lid, onderdeel a, onder 2°, bedoelde eindfactuur wordt verstaan de factuur die wordt opgemaakt na afloop van een verbruiksperiode en waarin verrekening plaatsvindt met de op deze verbruiksperiode betrekking hebbende voorschotbedragen.
-5. Indien de in het vierde lid bedoelde verrekening leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
+3. Onder de in het eerste lid, onderdeel a, onder 2°, bedoelde eindfactuur wordt verstaan de factuur die wordt opgemaakt na afloop van een verbruiksperiode en waarin verrekening plaatsvindt met de op deze verbruiksperiode betrekking hebbende voorschotbedragen.
+4. Indien de in het vierde lid bedoelde verrekening leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
 
 ### Afdeling  4  
 
@@ -151,7 +147,21 @@ c.in overige gevallen op het tijdstip waarop de levering plaatsvindt.
 
 ### Artikel  18  
 
-Het tarief bedraagt € 0,330 per kubieke meter leidingwater. 
+1.  Het tarief bedraagt voor het gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
+
+a. niet hoger is dan 300 kubieke meter: € 0,330 per kubieke meter;  
+
+b. hoger is dan 300 kubieke meter, maar niet hoger dan 50.000 kubieke meter: € 0,400 per kubieke meter;  
+
+c. hoger is dan 50.000 kubieke meter, maar niet hoger dan 250.000 kubieke meter: € 0,360 per kubieke meter;  
+
+d. hoger is dan 250.000 kubieke meter, maar niet hoger dan 1.250.000 kubieke meter: € 0,260 per kubieke meter;  
+
+e. hoger is dan 1.250.000 kubieke meter: € 0,050 per kubieke meter.     
+2.  In afwijking van het eerste lid bedraagt het tarief voor leidingwater € 0,330 per kubieke meter voor de totale hoeveelheid leidingwater die wordt geleverd aan een particuliere installatie voor centrale watervoorziening.   
+3.  Voor de toepassing van het eerste lid wordt de geleverde hoeveelheid in de periode die aanvangt met ingang van 1 januari 2014 en eindigt met ingang van 1 juli 2014 niet meegerekend.   
+4.  Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in het eerste lid, naar evenredigheid verlaagd, onderscheidenlijk verhoogd.   
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de toepassing van dit artikel.  
 
 ### Afdeling  5  
 
@@ -193,17 +203,17 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *afvalstoffen:* afvalstoffen als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en zeer laag radioactief afval;  
+a.  *afvalstoffen:* afvalstoffen als bedoeld in de Wet milieubeheer, en zeer laag radioactief afval;  
 
-b.  *zeer laag radioactief afval:* radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, van het Besluit stralingsbescherming](../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde, en de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in bijlage 1, tabel 1, van het Besluit stralingsbescherming vermelde waarde en lager is dan tien maal die waarde;  
+b.  *zeer laag radioactief afval:* radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in bijlage 1, tabel 1, van het Besluit stralingsbescherming vermelde waarde, en de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in bijlage 1, tabel 1, van het Besluit stralingsbescherming vermelde waarde en lager is dan tien maal die waarde;  
 
 c.  *verwijdering:* storten of verbranden van afvalstoffen, met uitzondering van verbranden met een hoofdgebruik als brandstof of een hoofdgebruik voor een andere wijze van energieopwekking;  
 
-d.  *nuttige toepassing:* nuttige toepassing als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+d.  *nuttige toepassing:* nuttige toepassing als bedoeld in de Wet milieubeheer;  
 
-e.  *storten:* storten als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+e.  *storten:* storten als bedoeld in de Wet milieubeheer;  
 
-f.  *inrichting:* een inrichting als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), werken daaronder niet begrepen, waarin afvalstoffen worden verwijderd;  
+f.  *inrichting:* een inrichting als bedoeld in de Wet milieubeheer, werken daaronder niet begrepen, waarin afvalstoffen worden verwijderd;  
 
 g. *baggerspecie:*
 
@@ -211,9 +221,9 @@ g. *baggerspecie:*
 
 2°. sediment en het residu van de reiniging van baggerspecie;    
 
-h.  *stoffen:* stoffen als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+h.  *stoffen:* stoffen als bedoeld in de Wet milieubeheer;  
 
-i.  *preparaten:* preparaten als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+i.  *preparaten:* preparaten als bedoeld in de Wet milieubeheer;  
 
 j.  *percolaat:* vloeistof die uit gestorte afvalstoffen komt of daarmee in contact is geweest;  
 
@@ -287,7 +297,7 @@ b. het verbranden van afvalstoffen: nihil.
 ### Artikel  29  
 
 1.  Vrijgesteld is de verwijdering van baggerspecie.   
-2.  Indien baggerspecie ter verwijdering wordt afgegeven aan inrichtingen waar op grond van de voor die inrichting geldende omgevingsvergunning voor een inrichting als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), ook andere afvalstoffen dan baggerspecie mogen worden gestort, wordt door de aanbieder van de baggerspecie aan de houder van de inrichting een verklaring overgelegd waaruit blijkt dat sprake is van baggerspecie.   
+2.  Indien baggerspecie ter verwijdering wordt afgegeven aan inrichtingen waar op grond van de voor die inrichting geldende omgevingsvergunning voor een inrichting als bedoeld in de Wet milieubeheer, ook andere afvalstoffen dan baggerspecie mogen worden gestort, wordt door de aanbieder van de baggerspecie aan de houder van de inrichting een verklaring overgelegd waaruit blijkt dat sprake is van baggerspecie.   
 3.  De in het tweede lid bedoelde verklaring wordt verstrekt door Onze Minister van Infrastructuur en Milieu. 
 
 ### Afdeling  6*  
@@ -296,7 +306,7 @@ b. het verbranden van afvalstoffen: nihil.
 
 ### Artikel  30  
 
-1.  Op verzoek wordt teruggaaf verleend van belasting ter zake van afvalstoffen die afkomstig zijn van een overtreder jegens wie krachtens [artikel 18.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bestuursdwang is toegepast, indien: 
+1.  Op verzoek wordt teruggaaf verleend van belasting ter zake van afvalstoffen die afkomstig zijn van een overtreder jegens wie krachtens artikel 18.2 van de Wet milieubeheer of artikel 5.2 van de Wet algemene bepalingen omgevingsrecht bestuursdwang is toegepast, indien: 
 
 a. de afvalstoffen ter verwijdering aan een inrichting zijn afgegeven door of vanwege het bevoegd gezag van een provincie of van een gemeente;  
 
@@ -325,14 +335,14 @@ d. de kosten die verband houden met de toepassing van bestuursdwang, hieronder b
 
 1.  De afvalstoffenbelasting is mede verschuldigd voor: 
 
-a. stoffen, preparaten en voorwerpen ten aanzien waarvan [artikel XXXVIc, tweede lid, van het Belastingplan 2012](../../../../../../wet/belastingplan/2012/BWBR0030999/README.md) is of wordt toegepast;  
+a. stoffen, preparaten en voorwerpen ten aanzien waarvan artikel XXXVIc, tweede lid, van het Belastingplan 2012 is of wordt toegepast;  
 
-b. voorraden van afvalstoffenstromen ten aanzien waarvan [artikel XXXVIc, derde lid, van het Belastingplan 2012](../../../../../../wet/belastingplan/2012/BWBR0030999/README.md) is of wordt toegepast.     
+b. voorraden van afvalstoffenstromen ten aanzien waarvan artikel XXXVIc, derde lid, van het Belastingplan 2012 is of wordt toegepast.     
 2.  Het eerste lid is niet van toepassing voor zover de stoffen, preparaten, voorwerpen of voorraden van afvalstoffenstromen de inrichting tussen 1 januari 2012 en 31 maart 2014 hebben verlaten en niet opnieuw ter verwijdering zijn afgegeven aan een inrichting.   
 3.  In afwijking van artikel 26 wordt de belasting voor stoffen, preparaten, voorwerpen en voorraden van afvalstoffenstromen als bedoeld in het eerste lid, verschuldigd op 1 april 2014.   
 4.  Bij de toepassing van artikel 27, eerste lid, alsmede bij de toepassing van artikel 27, derde lid, met betrekking tot stoffen, preparaten, voorwerpen en voorraden als bedoeld in het eerste lid, wordt de belasting die vóór 1 januari 2012 als afvalstoffenbelasting is geheven niet in aanmerking genomen.   
-5.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel a, het bedrag van de belasting dat ter zake van de stoffen, preparaten of voorwerpen in mindering is of wordt gebracht op de voet van [artikel XXXVIc, tweede lid, van het Belastingplan 2012](../../../../../../wet/belastingplan/2012/BWBR0030999/README.md).   
-6.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel b, het bedrag van de belasting ter zake van de voorraden van afvalstoffenstromen dat niet is of wordt geheven ingevolge [artikel XXXVIc, derde lid, van het Belastingplan 2012](../../../../../../wet/belastingplan/2012/BWBR0030999/README.md).  
+5.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel a, het bedrag van de belasting dat ter zake van de stoffen, preparaten of voorwerpen in mindering is of wordt gebracht op de voet van artikel XXXVIc, tweede lid, van het Belastingplan 2012.   
+6.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel b, het bedrag van de belasting ter zake van de voorraden van afvalstoffenstromen dat niet is of wordt geheven ingevolge artikel XXXVIc, derde lid, van het Belastingplan 2012.  
 
 ### Hoofdstuk  V  
 
@@ -366,7 +376,7 @@ i. EU-douaneregeling: de EU-regelingen met betrekking tot douanevervoer, entrepo
 
 j.schorsing van belasting: stelsel waarin van kolen die worden vervaardigd, worden verwerkt, voorhanden zijn of worden vervoerd, op grond van de bepalingen van deze wet de belasting nog niet is geheven;
 
-k.ondernemer: ondernemer in de zin van [artikel 7 van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);
+k.ondernemer: ondernemer in de zin van artikel 7 van de Wet op de omzetbelasting 1968;
 
 l.uitslag: brengen van kolen buiten een plaats die voor kolen als inrichting is aangewezen;
 
@@ -401,7 +411,7 @@ a.een andere inrichting;
 b.een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat;
 
 c.een derde land. 
-2. Als uitslag wordt niet aangemerkt het gebruik van kolen voor het vervaardigen van kolen, aardgas als bedoeld in artikel 47, eerste lid, onderdeel m, producten die op grond van artikel 48, tweede lid, als aardgas worden aangemerkt, of minerale oliën als bedoeld in [artikel 25 van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).
+2. Als uitslag wordt niet aangemerkt het gebruik van kolen voor het vervaardigen van kolen, aardgas als bedoeld in artikel 47, eerste lid, onderdeel m, producten die op grond van artikel 48, tweede lid, als aardgas worden aangemerkt, of minerale oliën als bedoeld in artikel 25 van de Wet op de accijns.
 3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden worden gesteld waaronder het eerste en tweede lid toepassing vinden.
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel. 
 
@@ -458,7 +468,7 @@ b.een plaats waar geen kolen worden vervaardigd maar die dient voor de opslag va
 a.handelaar in kolen, maar de door hem gekochte kolen niet zelf in opslag neemt, of
 
 b.tussenpersoon die de kolen niet zelf in opslag neemt.
-4. De [artikelen 43 tot en met 50 van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.
+4. De artikelen 43 tot en met 50 van de Wet op de accijns zijn van overeenkomstige toepassing.
 
 ### Artikel  40  
 
@@ -467,7 +477,7 @@ b.tussenpersoon die de kolen niet zelf in opslag neemt.
 
 ### Artikel  41  
 
-Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), met uitzondering van artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.
+Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, met uitzondering van artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.
 
 ### Afdeling  3  
 
@@ -513,7 +523,7 @@ Het tarief bedraagt per 1000 kilogram kolen € 14,27.
 
 ### Artikel  45a  
 
-De [artikelen 2, vijfde, zesde, zevende en tiende lid](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [83 van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 2, vijfde, zesde, zevende en tiende lid, en 83 van de Wet op de accijns zijn van overeenkomstige toepassing. 
 
 ### Afdeling  7  
 
@@ -544,11 +554,11 @@ c.het voorhanden hebben van kolen buiten een inrichting.
 
 1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. motorrijtuig: hetgeen ingevolge [artikel 1a, eerste lid, onderdeel p, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) onder dit begrip wordt verstaan; 
+a. motorrijtuig: hetgeen ingevolge artikel 1a, eerste lid, onderdeel p, van de Wet op de accijns onder dit begrip wordt verstaan; 
 
-b.elektriciteitsbeurs: beurs als bedoeld in [artikel 86e van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);
+b.elektriciteitsbeurs: beurs als bedoeld in artikel 86e van de Elektriciteitswet 1998;
 
-c.gasbeurs: beurs als bedoeld in [artikel 66b van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);
+c.gasbeurs: beurs als bedoeld in artikel 66b van de Gaswet;
 
 d.verbruiksperiode:
 
@@ -558,11 +568,11 @@ d.verbruiksperiode:
 
 e.eindfactuur: definitieve factuur waarin verrekening plaatsvindt met de voorschotnota’s of voorschotbedragen die betrekking hebben op het tijdvak waarop de factuur ziet;
 
-f. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) op een Nederlands distributienet waaruit elektriciteit of aardgas aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
+f. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken op een Nederlands distributienet waaruit elektriciteit of aardgas aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
 
 g. installatie voor warmtekrachtkoppeling: een installatie waarin aardgas wordt verstookt voor de gecombineerde opwekking van warmte en kracht met een totaal energetisch rendement van minimaal 60%, gebaseerd op de calorische onderwaarde van het gas. Onder het totaal energetisch rendement wordt verstaan de som van het rendement van de elektriciteitsopwekking en tweederde deel van het rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van aardgas;  
 
-h. installatie voor blokverwarming: een gemeenschappelijke voorziening voor de verwarming van meer dan een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);  
+h. installatie voor blokverwarming: een gemeenschappelijke voorziening voor de verwarming van meer dan een onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken;  
 
 i. hernieuwbare energiebronnen: wind, zonne-energie, aardwarmte, golfenergie, getijdenenergie, waterkracht, biomassa, stortgas, rioolwaterzuiveringsgas en biogas;  
 
@@ -590,22 +600,22 @@ t.zakelijk verbruik: verbruik door een zakelijke eenheid die zelfstandig, op ong
 
 u.niet-zakelijk verbruik: verbruik anders dan het zakelijk verbruik, bedoeld in onderdeel t;
 
-v.  coöperatie: een coöperatie als bedoeld in [artikel 53, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+v.  coöperatie: een coöperatie als bedoeld in artikel 53, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
-w.  vereniging van eigenaars: een vereniging van eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md);  
+w.  vereniging van eigenaars: een vereniging van eigenaars als bedoeld in artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek;  
 
-x.  productie-installatie: een productie-installatie als bedoeld in [artikel 1, eerste lid, onderdeel ah, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), waarvan de aansluiting zich bevindt in een postcodegebied;  
+x.  productie-installatie: een productie-installatie als bedoeld in artikel 1, eerste lid, onderdeel ah, van de Elektriciteitswet 1998, waarvan de aansluiting zich bevindt in een postcodegebied;  
 
-y.  postcodesysteem: het postcodesysteem, bedoeld in [artikel 2, eerste lid, onderdeel j, van de Postwet 2009](../../../../../../wet/postwet/2009/BWBR0025572/README.md), dat wordt gebruikt door de verlener van de universele postdienst, bedoeld in artikel 2, eerste lid, onderdeel g, van de Postwet 2009;  
+y.  postcodesysteem: het postcodesysteem, bedoeld in artikel 2, eerste lid, onderdeel j, van de Postwet 2009, dat wordt gebruikt door de verlener van de universele postdienst, bedoeld in artikel 2, eerste lid, onderdeel g, van de Postwet 2009;  
 
 z.  postcodegebied: een gebied waarbinnen de postcodes in het postcodesysteem beginnen met hetzelfde getal van vier cijfers.    
 2.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu worden nadere regels gesteld met betrekking tot de inhoud van het begrip zuivere biomassa.   
-3.  Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), met uitzondering van een net met een spanningsniveau van ten hoogste 0,4 kV en een verbruik van ten hoogste 0,1 GWh per jaar, indien een ander dan een leverancier als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of een netbeheerder als bedoeld in artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998, een recht van gebruik heeft van dat net.  
+3.  Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998, met uitzondering van een net met een spanningsniveau van ten hoogste 0,4 kV en een verbruik van ten hoogste 0,1 GWh per jaar, indien een ander dan een leverancier als bedoeld in artikel 1, eerste lid, onderdeel f, van de Elektriciteitswet 1998 of een netbeheerder als bedoeld in artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998, een recht van gebruik heeft van dat net.  
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid, onderdeel p.   
-5.  Met betrekking tot aardgas wordt onder distributienet verstaan een gastransportnet als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md).   
+5.  Met betrekking tot aardgas wordt onder distributienet verstaan een gastransportnet als bedoeld in artikel 1, eerste lid, onderdeel d, van de Gaswet.   
 6.  Indien in een tijdvak van 18 maanden een of meerdere voorschotnota’s worden uitgereikt dan wel een of meerdere voorschotbedragen worden ontvangen en uiterlijk binnen 13 weken na afloop van dat tijdvak geen eindfactuur wordt uitgereikt, wordt dat tijdvak van 18 maanden aangemerkt als verbruiksperiode.   
-7.  Met betrekking tot elektriciteit wordt onder directe lijn verstaan een directe lijn als bedoeld in [artikel 1, eerste lid, onderdeel ar, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
-8.  Met betrekking tot aardgas wordt onder directe lijn verstaan een directe lijn als bedoeld in [artikel 1, eerste lid, onderdeel an, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md). 
+7.  Met betrekking tot elektriciteit wordt onder directe lijn verstaan een directe lijn als bedoeld in artikel 1, eerste lid, onderdeel ar, van de Elektriciteitswet 1998.   
+8.  Met betrekking tot aardgas wordt onder directe lijn verstaan een directe lijn als bedoeld in artikel 1, eerste lid, onderdeel an, van de Gaswet. 
 
 ### Afdeling  2  
 
@@ -619,7 +629,7 @@ z.  postcodegebied: een gebied waarbinnen de postcodes in het postcodesysteem be
 ### Artikel 50 
 
 1. Met betrekking tot aardgas en elektriciteit wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker, alsmede ter zake van de levering van aardgas via een aansluiting aan een CNG-vulstation.
-2. Indien de verbruiker, bedoeld in het eerste lid, via een aansluiting elektriciteit op het distributienet heeft ingevoed ter zake waarvan [artikel 31c, eerste en tweede lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) wordt toegepast, is het eerste lid van toepassing op het positieve saldo van de via de aansluiting geleverde elektriciteit minus de via de aansluiting ingevoede elektriciteit.
+2. Indien de verbruiker, bedoeld in het eerste lid, via een aansluiting elektriciteit op het distributienet heeft ingevoed ter zake waarvan artikel 31c, eerste en tweede lid, van de Elektriciteitswet 1998 wordt toegepast, is het eerste lid van toepassing op het positieve saldo van de via de aansluiting geleverde elektriciteit minus de via de aansluiting ingevoede elektriciteit.
 3. Indien een levering van aardgas of elektriciteit via een aansluiting wordt verricht aan een organisatorische eenheid die zich bezighoudt met het leveren van aardgas of elektriciteit dan wel aan een verbruiker die op zijn beurt het geleverde product geheel of gedeeltelijk via een aansluiting levert aan een verbruiker, wordt eerstgenoemde levering niet aangemerkt als een levering als bedoeld in het eerste lid.
 4. Als een levering als bedoeld in het eerste lid wordt mede aangemerkt het verbruik van aardgas en elektriciteit, indien:
 
@@ -641,7 +651,7 @@ d.elektriciteit heeft opgewekt door middel van een installatie voor warmtekracht
 
 ### Artikel  51  
 
-1.  Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt als levering niet aangemerkt het verbruik van aardgas voor de vervaardiging van aardgas en minerale oliën als bedoeld in [artikel 25, eerste lid, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), in dezelfde inrichting waarin dat aardgas is ontstaan.   
+1.  Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt als levering niet aangemerkt het verbruik van aardgas voor de vervaardiging van aardgas en minerale oliën als bedoeld in artikel 25, eerste lid, van de Wet op de accijns, in dezelfde inrichting waarin dat aardgas is ontstaan.   
 2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.  
 
 ### Artikel  53  
@@ -740,10 +750,10 @@ d. de door de coöperatie opgewekte elektriciteit, bedoeld in onderdeel c, is op
 
 e. de productie-installatie, bedoeld in onderdeel d, wordt uitsluitend gebruikt voor de opwekking van elektriciteit door middel van hernieuwbare energiebronnen;  
 
-f. de aansluiting via welke de elektriciteit aan het lid wordt geleverd, bevindt zich in hetzelfde postcodegebied als de verbinding van de productie-installatie, bedoeld in onderdeel c, met een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), dan wel in een aangrenzend postcodegebied; en  
+f. de aansluiting via welke de elektriciteit aan het lid wordt geleverd, bevindt zich in hetzelfde postcodegebied als de verbinding van de productie-installatie, bedoeld in onderdeel c, met een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998, dan wel in een aangrenzend postcodegebied; en  
 
 g. noch ter zake van de opwekking van de elektriciteit door de coöperatie, noch ter zake van de daartoe gebruikte productie-installatie, is of wordt van rijkswege een financiële tegemoetkoming of subsidie verstrekt.     
-3.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing van een coöperatie als bedoeld in het eerste lid. Behoudens daarbij te bepalen uitzonderingen komen coöperaties waarvan één of meer leden ondernemer zijn in de zin van [artikel 7 van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), niet voor aanwijzing in aanmerking.   
+3.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing van een coöperatie als bedoeld in het eerste lid. Behoudens daarbij te bepalen uitzonderingen komen coöperaties waarvan één of meer leden ondernemer zijn in de zin van artikel 7 van de Wet op de omzetbelasting 1968, niet voor aanwijzing in aanmerking.   
 4.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de verlaging, bedoeld in het eerste lid, wordt toegepast.   
 5.  Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.  
 
@@ -761,7 +771,7 @@ Indien de verlaging van het tarief, bedoeld in artikel 59a, eerste lid, wordt ve
 
 ### Artikel 60 
 
-1. In afwijking van artikel 59, eerste lid, onderdeel a, bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de [Wet op de omzetbelasting 1968 behorende Tabel I](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup>, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
+1. In afwijking van artikel 59, eerste lid, onderdeel a, bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel I voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup>, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
 
 – niet hoger is dan 170 000 kubieke meter, per kubieke meter € 0,03042;  
 
@@ -842,7 +852,7 @@ c. de verklaring dat hij een energie-intensief bedrijf is als bedoeld in artikel
 
 ### Artikel 67 
 
-1. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief, bedoeld in artikel 59, eerste lid, onderdeel a, voor het verbruik niet hoger dan 170 000 kubieke meter, voor zover het verbruik van warmte in een onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 5 372 000 megajoule per verbruiksperiode van twaalf maanden.
+1. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief, bedoeld in artikel 59, eerste lid, onderdeel a, voor het verbruik niet hoger dan 170 000 kubieke meter, voor zover het verbruik van warmte in een onroerende zaak als bedoeld in artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 5 372 000 megajoule per verbruiksperiode van twaalf maanden.
 2. De teruggaaf, bedoeld in het eerste lid, wordt verleend aan de gebruiker van de in het eerste lid bedoelde onroerende zaak. De teruggaaf bedraagt het verschil tussen het bedrag van de belasting dat volgt uit toepassing van het tarief, bedoeld in artikel 59, eerste lid, onderdeel a, voor het verbruik niet hoger dan 170 000 kubieke meter en het bedrag van de belasting dat volgt uit toepassing van artikel 59, eerste lid, onderdeel a, als aan de gebruiker een hoeveelheid aardgas geleverd zou zijn die correspondeert met de verbruikte warmte.
 3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
@@ -857,7 +867,7 @@ c. de verklaring dat hij een energie-intensief bedrijf is als bedoeld in artikel
 ### Artikel  69 
 
 1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die in hoofdzaak is bestemd voor de openbare eredienst of voor het houden van openbare bezinningsbijeenkomsten van levensbeschouwelijke aard. 
-2.  Op verzoek wordt teruggaaf verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij een algemeen nut beogende instelling of bij een instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), mits: 
+2.  Op verzoek wordt teruggaaf verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij een algemeen nut beogende instelling of bij een instelling die voldoet aan de voorwaarden, bedoeld in artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen, mits: 
 
 a. de in de aanhef bedoelde instellingen niet of slechts in beperkte mate werkzaam zijn op het gebied van sport, gezondheidszorg of onderwijs;  
 
@@ -867,12 +877,12 @@ c. de in de aanhef bedoelde instellingen beschikken over een eigen aansluiting;
 
 d. de in de aanhef bedoelde algemeen nut beogende instelling niet aan vennootschapsbelasting is onderworpen dan wel daarvan is vrijgesteld; 
 
-e. de werkzaamheden van de in de aanhef bedoelde instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geheel of nagenoeg geheel worden verricht door natuurlijke personen om niet of naar een loon dat in belangrijke mate lager is dan hetgeen in het economische verkeer gebruikelijk is.     
-3.  Op verzoek wordt teruggaaf verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en het tweede lid, onderdeel e, mits: 
+e. de werkzaamheden van de in de aanhef bedoelde instelling die voldoet aan de voorwaarden, bedoeld in artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen, geheel of nagenoeg geheel worden verricht door natuurlijke personen om niet of naar een loon dat in belangrijke mate lager is dan hetgeen in het economische verkeer gebruikelijk is.     
+3.  Op verzoek wordt teruggaaf verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die hoofdzakelijk in gebruik is bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen, en het tweede lid, onderdeel e, mits: 
 
 a. de in de aanhef bedoelde instellingen niet of slechts in beperkte mate werkzaam zijn op het gebied van sport, gezondheidszorg of onderwijs;  
 
-b. de in de aanhef bedoelde instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), beschikt over notarieel verleden statuten waaruit de een sociaal belang behartigende doelstelling blijkt, dan wel, voor zover het gaat om verenigingen als bedoeld in [artikel 26 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die niet beschikken over notarieel verleden statuten, over door die verenigingen verstrekte verklaringen waaruit de een sociaal belang behartigende doelstelling blijkt;  
+b. de in de aanhef bedoelde instelling die voldoet aan de voorwaarden, bedoeld in artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen, beschikt over notarieel verleden statuten waaruit de een sociaal belang behartigende doelstelling blijkt, dan wel, voor zover het gaat om verenigingen als bedoeld in artikel 26 van Boek 2 van het Burgerlijk Wetboek die niet beschikken over notarieel verleden statuten, over door die verenigingen verstrekte verklaringen waaruit de een sociaal belang behartigende doelstelling blijkt;  
 
 c. de instelling die de desbetreffende onroerende zaak beheert en exploiteert, beschikt over notarieel verleden statuten waaruit blijkt dat de instelling zich ten doel stelt de onroerende zaak te beheren en exploiteren ten nutte van instellingen als bedoeld in de aanhef;  
 
@@ -883,7 +893,7 @@ e. de in de aanhef bedoelde algemeen nut beogende instelling en de instelling, b
 f. de in de aanhef bedoelde instellingen en de instelling, bedoeld in onderdeel c, geen publiekrechtelijk lichaam zijn, en  
 
 g. de instelling, bedoeld in onderdeel c, beschikt over een eigen aansluiting.    
-4. Voor de toepassing van dit artikel en de op dit artikel berustende bepalingen wordt een statuut als bedoeld in [artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) gelijkgesteld met notarieel verleden statuten indien dit statuut schriftelijk is vastgelegd.
+4. Voor de toepassing van dit artikel en de op dit artikel berustende bepalingen wordt een statuut als bedoeld in artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek gelijkgesteld met notarieel verleden statuten indien dit statuut schriftelijk is vastgelegd.
 5. De teruggaven, bedoeld in het eerste en tweede lid, worden verleend aan de gebruiker van de desbetreffende onroerende zaak en bedragen 50 percent van de aan hem in rekening gebrachte belasting.
 6. De teruggaaf, bedoeld in het derde lid, wordt verleend aan de instelling die de desbetreffende onroerende zaak beheert en exploiteert en bedraagt 50 percent van de aan haar in rekening gebrachte belasting.
 7. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaven, bedoeld in dit artikel, worden verleend.
@@ -1014,7 +1024,7 @@ Vervallen per 01-01-2013
 ### Artikel  89  
 
 1.  De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.   
-2.   Bij toepassing van artikel 40, tweede lid, dient in afwijking in zoverre van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de belasting uiterlijk op de dag na het in artikel 40, tweede lid, bedoelde tijdstip op aangifte te worden voldaan.   
+2.   Bij toepassing van artikel 40, tweede lid, dient in afwijking in zoverre van artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen, de belasting uiterlijk op de dag na het in artikel 40, tweede lid, bedoelde tijdstip op aangifte te worden voldaan.   
 3.  In afwijking van het tweede lid kan de inspecteur, bij toepassing van artikel 33, tweede lid, op verzoek toestemming verlenen om de verschuldigd geworden belasting in een door hem te bepalen tijdvak uiterlijk binnen één maand na het einde van dat tijdvak op aangifte te voldoen. Het door de inspecteur te bepalen tijdvak bedraagt maximaal één kwartaal.   
 4.   Indien de berekening van de verschuldigde belasting leidt tot een negatief bedrag verleent de inspecteur op verzoek van de belastingplichtige teruggaaf van dit bedrag. Het verzoek om teruggaaf geschiedt bij de aangifte over het tijdvak waarover de belasting berekend is.  
 
@@ -1024,14 +1034,14 @@ Vervallen per 01-01-2013
 
 ### Artikel  90  
 
-De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 18, 28, 43, 59, eerste en derde lid, en 60, eerste lid, vermelde bedragen. 
+De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing op de in de artikelen 18, 28, 43, 59, eerste en derde lid, en 60, eerste lid, vermelde bedragen. 
 
 ### Artikel 91 
 
 1.  De inspecteur beslist op het verzoek, bedoeld in de artikelen 20, eerste lid, 27, derde lid, 30, eerste lid, 45, eerste en tweede lid, 54, derde lid, 66, eerste lid, 67, eerste lid, 68, eerste en tweede lid, 69, eerste tot en met derde lid, 70, eerste tot en met derde lid, 89, derde en vierde lid, en 92, eerste lid, bij een voor bezwaar vatbare beschikking.  
 2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving. 
 3. Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij de belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven. 
-4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op: 
+4.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op: 
 
 a. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens artikel 45, derde lid;  
 

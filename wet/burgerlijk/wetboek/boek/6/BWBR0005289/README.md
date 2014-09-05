@@ -1440,7 +1440,7 @@ h.de bedrieglijke indruk wekken dat de consument al een prijs heeft gewonnen of 
 
 ### Artikel 193j 
 
-1. Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in artikel 305d lid 1 van Boek 3 wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
+1. Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in artikel 305d lid 1 onder a van Boek 3 wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
 2. Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt. 
 3.  Een overeenkomst die als gevolg van een oneerlijke handelspraktijk tot stand is gekomen, is vernietigbaar. 
 

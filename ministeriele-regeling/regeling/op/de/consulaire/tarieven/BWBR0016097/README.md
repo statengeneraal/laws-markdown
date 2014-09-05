@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Buitenlandse Zaken van 12 december 2003, nr. DJZ/BR-1003/2003 tot vaststelling van de tarieven voor consulaire dienstverlening (Regeling op de consulaire tarieven)
 
 De Minister van Buitenlandse Zaken,  
-Gelet op [artikel 1, tweede en derde lid, en](../../../../../../../rijksKB/rijksbesluit/op/de/consulaire/tarieven/BWBR0015918/README.md) [artikel 4, tweede lid, van het Rijksbesluit op de consulaire tarieven](../../../../../../../rijksKB/rijksbesluit/op/de/consulaire/tarieven/BWBR0015918/README.md), alsmede op [artikel 3 van de Rijkswet op de consulaire tarieven](../../../../../../../rijkswet/rijkswet/op/de/consulaire/tarieven/BWBR0013618/README.md);
+Gelet op artikel 1, tweede en derde lid, en artikel 4, tweede lid, van het Rijksbesluit op de consulaire tarieven, alsmede op artikel 3 van de Rijkswet op de consulaire tarieven;
 Besluit:  
 
 ### Artikel  1  
 
-De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consulaire tarieven](../../../../../../../rijkswet/rijkswet/op/de/consulaire/tarieven/BWBR0013618/README.md) is verschuldigd, bedraagt voor: 
+De vergoeding die ingevolge artikel 2, eerste lid, van de Rijkswet op de consulaire tarieven is verschuldigd, bedraagt voor: 
 
 a. het afgeven van een grosse van, een afschrift van of een uittreksel uit een akte van de burgerlijke stand: € 30,--;  
 
@@ -28,7 +28,7 @@ h. het opmaken van een consulaire verklaring omtrent een persoon betreffende geg
 
 i. het bemiddelen bij het oplossen van financiële en andere de belanghebbende betreffende problemen die verband houden met het verblijf in het buitenland: € 50,–;  
 
-j. het verlenen van een rijksvoorschot: € 50,–;  
+j. vervallen;  
 
 k. het bemiddelen bij een onderzoek naar het welzijn van een persoon, daaronder begrepen een onderzoek in geval van vermissing: € 120,– per uur;  
 
@@ -100,11 +100,13 @@ s. het behandelen van een aanvraag tot het verlenen van een visum:
 
 4°. aanvragen tot het wijzigen van een visum: € 35.  
 
-5°.aanvragen tot het verstrekken van een verklaring die recht geeft op terugkeer naar Nederland (terugkeervisum): € 142. 
+5°.vervallen. 
 
 6°. aanvragen voor Toegang en Verblijf niet betrekking hebbende op de openbare lichamen Bonaire, Sint Eustatius en Saba: 
 
 – voor verblijf als familie- of gezinslid: € 228,  
+
+– voor minderjarigen op grond van de richtlijn 2003/86/EG van de Raad van de Europese Unie van 22 september 2003 inzake het recht op gezinshereniging (PB 2003 L 251, met rectificatie in PB 2012 L 71): € 53, 
 
 – voor arbeid als zelfstandige: € 1.266,  
 
@@ -132,9 +134,9 @@ s. het behandelen van een aanvraag tot het verlenen van een visum:
 
 – voor medische behandeling: € 962,  
 
-– voor deelname aan het Working Holiday Programme/Scheme (Australië, Canada en Nieuw Zeeland) en Young Workers Exchange Programme (Canada): € 53,  
+– voor deelname aan het Working Holiday Programme/Scheme (Australië, Canada, Nieuw-Zeeland en Zuid-Korea) en Young Workers Exchange Programme (Canada): € 53,  
 
-– voor wedertoelating, met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../../../../wet/remigratiewet/BWBR0010424/README.md): € 962,  
+– voor wedertoelating, met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van artikel 8 van de Remigratiewet: € 962,  
 
 – voor voortgezet verblijf om humanitaire redenen in verband met achterlating: € 228,  
 
@@ -144,7 +146,7 @@ s. het behandelen van een aanvraag tot het verlenen van een visum:
 
 – ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 61,  
 
-– ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van de Associatieovereenkomst EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 61,  
+– ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen, verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van de Associatieovereenkomst EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 61,  
 
 – voor verblijf als familie- of gezinslid in de zin van de Associatieovereenkomst EG-Turkije van een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 61.   
 
@@ -181,7 +183,7 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ### Artikel  3a  
 
-1. De vergoeding, genoemd in artikel 1, onderdeel s, onder 1° tot en met onder 5°, is niet verschuldigd door:
+1. De vergoeding, genoemd in artikel 1, onderdeel s, onder 1° tot en met onder 4°, is niet verschuldigd door:
 
 a. kinderen jonger dan zes jaar,  
 
@@ -190,38 +192,34 @@ b. leerlingen, studenten, al dan niet afgestudeerd, en de hen begeleidende lerar
 c. wetenschappelijke onderzoekers die onderdaan zijn van derde landen en die zich met het oog op wetenschappelijk onderzoek verplaatsen.  
 2. Tot 1 januari 2008 bedraagt de vergoeding, genoemd in artikel 1, onderdeel s, onder 1° en 2°, € 35 voor aanvragen ten behoeve van onderdanen uit Rusland, Oekraïne, Albanië, Macedonië, Montenegro, Servië, Bosnië-Herzegovina en Moldavië.
 3. Na 1 januari 2008 bedraagt de vergoeding, genoemd in artikel 1, onderdeel s, onder 1° en 2°, € 35 voor aanvragen ten behoeve van onderdanen uit de landen, bedoeld in het eerste lid, indien die landen met de Europese Gemeenschap een visumfaciliteringsovereenkomst hebben gesloten als bedoeld in artikel 2 van de Beschikking (EG) nr. (2006/440/EC) van de Raad van 1 juni 2006 visumaanvragen (PbEG 2006 L 175). 
-4.  De vergoeding, genoemd in artikel 1, onderdeel s, onder 5°: 
-
-a. is niet verschuldigd door de belanghebbende, bedoeld in [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](../../../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md), en  
-
-b. bedraagt € 41 voor Turkse onderdanen, bedoeld in artikel 1, onderdeel s, onder 6°.    
+4.  Vervallen.  
 5.  De vergoeding, genoemd in artikel 1, onderdeel s, onder 6°, is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf: 
 
-a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+a. onder de beperking genoemd in artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000;  
 
 b. vervallen;  
 
 c. vervallen;  
 
-d. met het oog op gezinshereniging ten behoeve van de belanghebbende die verblijf beoogt bij een vreemdeling aan wie een vergunning tot verblijf als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, mits de belanghebbende binnen drie maanden na het verlenen van deze verblijfsvergunning de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf heeft ingediend, dan wel dat zijn referent dit voor hem heeft gedaan, en de belanghebbende voldoet aan alle voorwaarden voor gezinshereniging in het kader van [artikel 29, tweede lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+d. met het oog op gezinshereniging ten behoeve van de belanghebbende die verblijf beoogt bij een vreemdeling aan wie een vergunning tot verblijf als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is verleend, mits de belanghebbende binnen drie maanden na het verlenen van deze verblijfsvergunning de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf heeft ingediend, dan wel dat zijn referent dit voor hem heeft gedaan, en de belanghebbende voldoet aan alle voorwaarden voor gezinshereniging in het kader van artikel 29, tweede lid, van de Vreemdelingenwet 2000;  
 
 e. met het oog op gezinshereniging van een minderjarig biologisch of juridisch kind met een slachtoffer-aangever of een getuige-aangever van mensenhandel; of  
 
-f. met het oog op gebruikmaking van de terugkeeroptie naar Nederland op grond van [artikel 8 van de Remigratiewet](../../../../../../../wet/remigratiewet/BWBR0010424/README.md).    
+f. met het oog op gebruikmaking van de terugkeeroptie naar Nederland op grond van artikel 8 van de Remigratiewet.    
 6.  De vergoeding, genoemd in artikel 1, aanhef, onderdeel s, onder 6°, is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.  
 7. De vergoeding, genoemd in artikel 1, onderdeel s, onder7°, is niet verschuldigd door: 
 
-a. de vreemdeling die in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder k, van het Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
+a. de vreemdeling die in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet toelating en uitzetting BES, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van het Besluit toelating en uitzetting BES;  
 
-b. het minderjarige kind dat een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
+b. het minderjarige kind dat een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet toelating en uitzetting BES, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het Besluit toelating en uitzetting BES;  
 
-c. het minderjarige kind dat een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), voor een verblijf bij een vreemdeling die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd dan wel verblijf geniet als bedoeld in artikel 6 van voornoemde wet, voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder k, van voornoemd besluit](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
+c. het minderjarige kind dat een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet toelating en uitzetting BES, voor een verblijf bij een vreemdeling die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd dan wel verblijf geniet als bedoeld in artikel 6 van voornoemde wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van voornoemd besluit;  
 
-d. het gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 12a van de Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), dat gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) onder een beperking verband houdend met gezinshereniging indient;  
+d. het gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 12a van de Wet toelating en uitzetting BES, dat gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet onder een beperking verband houdend met gezinshereniging indient;  
 
-e. de vreemdeling die een aanvraag indient in het geval, bedoeld in [artikel 5.49, tweede lid, van het Besluit toelating en uitzetting BES](../../../../../../../AMvB-BES/besluit/toelating/en/uitzetting/bes/BWBR0028599/README.md);  
+e. de vreemdeling die een aanvraag indient in het geval, bedoeld in artikel 5.49, tweede lid, van het Besluit toelating en uitzetting BES;  
 
-f. de vreemdeling die een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), om redenen verband houdend met bescherming aan de vreemdeling als bedoeld in [artikel 12a van de Wet](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), of  
+f. de vreemdeling die een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 6 van de Wet, om redenen verband houdend met bescherming aan de vreemdeling als bedoeld in artikel 12a van de Wet, of  
 
 g. de vreemdeling met het oog op gezinshereniging van een minderjarig biologisch of juridisch kind met een slachtoffer-aangever of een getuige-aangever van mensenhandel.   Het zesde lid is van toepassing met dien verstande dat voor ‘artikel 1, onderdeel s, onder 6°’ moet worden gelezen ‘artikel 1, onderdeel s, onder 7°’.
 8. In aanvulling op het zesde lid kan de Minister voor Immigratie en Asiel in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
