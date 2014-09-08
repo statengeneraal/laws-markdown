@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling te treffen voor de organisatie en het beheer van de politie en daartoe de [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) te vervangen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling te treffen voor de organisatie en het beheer van de politie en daartoe de Politiewet 1993 te vervangen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -34,7 +34,7 @@ h.  *politiechef:* het hoofd van een regionale of landelijke eenheid;
 
 i.taken ten dienste van de justitie:
 
-1°. de uitvoering van wettelijke voorschriften waarmee Onze Minister is belast alsmede de uitvoering van wettelijke voorschriften gesteld bij of krachtens de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+1°. de uitvoering van wettelijke voorschriften waarmee Onze Minister is belast alsmede de uitvoering van wettelijke voorschriften gesteld bij of krachtens de Vreemdelingenwet 2000;  
 
 2°. de administratiefrechtelijke afdoening van inbreuken op wettelijke voorschriften, voor zover in die voorschriften het toezicht op de uitvoering van de politietaak is opgedragen aan het openbaar ministerie;  
 
@@ -83,9 +83,9 @@ c. de uitvoering van de politietaak op de luchthaven Schiphol en op de andere do
 
 d. de verlening van bijstand alsmede de samenwerking met de politie krachtens deze wet, daaronder begrepen de assistentieverlening aan de politie bij de bestrijding van grensoverschrijdende criminaliteit;  
 
-e. de uitvoering van de politietaak op plaatsen onder beheer van Onze Minister van Defensie, op verboden plaatsen die krachtens de [Wet bescherming staatsgeheimen](../../../../wet/wet/bescherming/staatsgeheimen/BWBR0002074/README.md) ten behoeve van de landsverdediging zijn aangewezen, alsmede op het terrein van de ambtswoning van Onze Minister-President;  
+e. de uitvoering van de politietaak op plaatsen onder beheer van Onze Minister van Defensie, op verboden plaatsen die krachtens de Wet bescherming staatsgeheimen ten behoeve van de landsverdediging zijn aangewezen, alsmede op het terrein van de ambtswoning van Onze Minister-President;  
 
-f. de uitvoering van de bij of krachtens de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) opgedragen taken, waaronder begrepen de bediening van de daartoe door Onze Minister voor Immigratie en Asiel aangewezen doorlaatposten en het, voor zover in dat verband noodzakelijk, uitvoeren van de politietaak op en nabij deze doorlaatposten, alsmede het verlenen van medewerking bij de aanhouding of voorgeleiding van een verdachte of veroordeelde;  
+f. de uitvoering van de bij of krachtens de Vreemdelingenwet 2000 opgedragen taken, waaronder begrepen de bediening van de daartoe door Onze Minister voor Immigratie en Asiel aangewezen doorlaatposten en het, voor zover in dat verband noodzakelijk, uitvoeren van de politietaak op en nabij deze doorlaatposten, alsmede het verlenen van medewerking bij de aanhouding of voorgeleiding van een verdachte of veroordeelde;  
 
 g. de bestrijding van mensensmokkel en van fraude met reis- en identiteitsdocumenten;  
 
@@ -100,7 +100,7 @@ b. het waken over de veiligheid van door Onze Minister aangewezen personen als b
 c. de uitoefening van de taak, bedoeld in het eerste lid, onder c, ten behoeve van de strafrechtelijke handhaving van de rechtsorde en de beveiliging van de burgerluchtvaart;  
 
 d. de bewaking en beveiliging van de ambtswoning van Onze Minister-President, bedoeld in het eerste lid, onder e.     
-4.  Hoewel bevoegd tot de opsporing van alle strafbare feiten, onthoudt de militair van de Koninklijke marechaussee die is aangewezen krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), zich van optreden anders dan in het kader van de uitvoering van zijn politietaken, bedoeld in het eerste lid.  
+4.  Hoewel bevoegd tot de opsporing van alle strafbare feiten, onthoudt de militair van de Koninklijke marechaussee die is aangewezen krachtens artikel 141 van het Wetboek van Strafvordering, zich van optreden anders dan in het kader van de uitvoering van zijn politietaken, bedoeld in het eerste lid.  
 
 ### Artikel  5  
 
@@ -123,12 +123,12 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 4.  De officier van justitie of de hulpofficier van justitie voor wie aangehouden of rechtens van hun vrijheid beroofde verdachten of veroordeelden worden geleid, is bevoegd te gelasten dat deze aan hun lichaam zullen worden onderzocht, indien uit feiten of omstandigheden blijkt dat gevaar dreigt voor hun leven of veiligheid of die van de ambtenaar zelf, en dit onderzoek noodzakelijk is ter afwending van dit gevaar.   
 5.  De uitoefening van de bevoegdheden, bedoeld in het eerste tot en met het vierde lid, dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.   
 6.  Het eerste tot en met het vijfde lid zijn van toepassing op de militair van de Koninklijke marechaussee, indien hij optreedt in de rechtmatige uitoefening van zijn bediening, en op de militair van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie.   
-7.  Onze Minister kan bepalen dat de in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde buitengewone opsporingsambtenaren, voor zover door hem hetzij in persoon, hetzij per categorie of eenheid aangewezen, de bevoegdheden omschreven in het eerste en het derde lid kunnen uitoefenen. Alsdan wordt met overeenkomstige toepassing van artikel 9 een ambtsinstructie voor hen vastgesteld.  
+7.  Onze Minister kan bepalen dat de in artikel 142, eerste lid, van het Wetboek van Strafvordering bedoelde buitengewone opsporingsambtenaren, voor zover door hem hetzij in persoon, hetzij per categorie of eenheid aangewezen, de bevoegdheden omschreven in het eerste en het derde lid kunnen uitoefenen. Alsdan wordt met overeenkomstige toepassing van artikel 9 een ambtsinstructie voor hen vastgesteld.  
 
 ### Artikel  8  
 
-1.  Een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van de politietaak.   
-2.  Gelijke bevoegdheid komt toe aan een buitengewoon opsporingsambtenaar als bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.   
+1.  Een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van de politietaak.   
+2.  Gelijke bevoegdheid komt toe aan een buitengewoon opsporingsambtenaar als bedoeld in artikel 142, eerste lid, van het Wetboek van Strafvordering, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.   
 3.  Gelijke bevoegdheid komt toe aan de militair van de Koninklijke marechaussee, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van zijn politietaak, bedoeld in artikel 4, eerste lid, en aan de militair van de Koninklijke marechaussee of van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie.  
 
 ### Artikel  9  
@@ -144,8 +144,8 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 ### Artikel  10  
 
 1.  Alle ambtenaren die zijn belast met een politietaak, verlenen elkaar wederkerig de nodige hulp en betrachten bij voortduring een eendrachtige samenwerking bij het uitvoeren van die taak. Zij verlenen elkaar zoveel mogelijk de gevraagde medewerking.   
-2.  Zij die op grond van de [artikelen 141, onderdeel d](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [142 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) tot opsporing van strafbare feiten bevoegd zijn, werken samen met de politie.   
-3.  Bij algemene maatregel van bestuur kunnen regels worden gegeven over de samenwerking van de politie met de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+2.  Zij die op grond van de artikelen 141, onderdeel d, en 142 van het Wetboek van Strafvordering tot opsporing van strafbare feiten bevoegd zijn, werken samen met de politie.   
+3.  Bij algemene maatregel van bestuur kunnen regels worden gegeven over de samenwerking van de politie met de buitengewone opsporingsambtenaren, bedoeld in artikel 142, eerste lid, van het Wetboek van Strafvordering.  
 
 ### §  2.3  
 
@@ -178,8 +178,8 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 ### Artikel  15  
 
 1.  De burgemeester is aan de gemeenteraad verantwoording schuldig over het door hem uitgeoefende gezag, bedoeld in de artikelen 11, eerste lid, en 14, eerste en vierde lid.   
-2.  [Artikel 180, tweede en derde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) is van toepassing.   
-3.  Onze Minister kan de burgemeesters en, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), de voorzitter van een veiligheidsregio, zoveel mogelijk na overleg met hen, algemene en bijzondere aanwijzingen geven met betrekking tot de handhaving van de openbare orde, voorzover dat noodzakelijk is in het belang van de veiligheid van de Staat of de betrekkingen van Nederland met andere mogendheden, dan wel met het oog op zwaarwegende belangen van de samenleving. De aanwijzingen worden zo enigszins mogelijk schriftelijk gegeven.  
+2.  Artikel 180, tweede en derde lid, van de Gemeentewet is van toepassing.   
+3.  Onze Minister kan de burgemeesters en, in geval van een situatie als bedoeld in artikel 39 van de Wet veiligheidsregio’s, de voorzitter van een veiligheidsregio, zoveel mogelijk na overleg met hen, algemene en bijzondere aanwijzingen geven met betrekking tot de handhaving van de openbare orde, voorzover dat noodzakelijk is in het belang van de veiligheid van de Staat of de betrekkingen van Nederland met andere mogendheden, dan wel met het oog op zwaarwegende belangen van de samenleving. De aanwijzingen worden zo enigszins mogelijk schriftelijk gegeven.  
 
 ### Artikel  16  
 
@@ -252,7 +252,7 @@ b. de informatiebeveiliging door de politie en door andere organisaties als bedo
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over: 
 
-a. de doeleinden waarvoor de politie, met inachtneming van het bepaalde bij of krachtens de [Wet politiegegevens](../../../../wet/wet/politiegegevens/BWBR0022463/README.md), gegevens verwerkt of verder verwerkt en de categorieën van gegevens die de politie daartoe verwerkt, alsmede over de terbeschikkingstelling van gegevens ten behoeve van de uitvoering van de politietaak en de verstrekking van gegevens aan personen en instanties;  
+a. de doeleinden waarvoor de politie, met inachtneming van het bepaalde bij of krachtens de Wet politiegegevens, gegevens verwerkt of verder verwerkt en de categorieën van gegevens die de politie daartoe verwerkt, alsmede over de terbeschikkingstelling van gegevens ten behoeve van de uitvoering van de politietaak en de verstrekking van gegevens aan personen en instanties;  
 
 b. de wijze waarop de politie gegevens verwerkt, daaronder begrepen de schrijfwijze en classificatie van gegevens, alsmede de wijze van vermelding van de herkomst van de gegevens.   
 
@@ -273,9 +273,9 @@ a. regionale eenheden, belast met de uitvoering van de politietaak;
 b. een of meer bij ministeriële regeling aan te wijzen landelijke eenheden, belast met de uitvoering van de politietaak;  
 
 c. een of meer bij ministeriële regeling aan te wijzen ondersteunende diensten.     
-2.  Er is een regionale eenheid in elk van de arrondissementen, genoemd in de [Wet op de rechterlijke indeling](../../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md), met dien verstande dat er één regionale eenheid in de arrondissementen Gelderland en Overijssel gezamenlijk is.   
+2.  Er is een regionale eenheid in elk van de arrondissementen, genoemd in de Wet op de rechterlijke indeling, met dien verstande dat er één regionale eenheid in de arrondissementen Gelderland en Overijssel gezamenlijk is.   
 3.  Bij ministeriële regeling kan een gebied waarin een regionale eenheid de politietaak uitvoert worden opgedeeld in meerdere gebieden waarin een regionale eenheid de politietaak uitvoert.   
-4.  Een regionale eenheid kan in territoriale onderdelen worden verdeeld. Een territoriaal onderdeel kan slechts gelegen zijn in één regio, genoemd in de [bijlage](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), bedoeld in [artikel 8 van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), tenzij Onze Minister, op een gezamenlijk verzoek van de betrokken burgemeesters en officieren van justitie, besluit dat een territoriaal onderdeel in meerdere regio’s gelegen is.  
+4.  Een regionale eenheid kan in territoriale onderdelen worden verdeeld. Een territoriaal onderdeel kan slechts gelegen zijn in één regio, genoemd in de bijlage, bedoeld in artikel 8 van de Wet veiligheidsregio’s, tenzij Onze Minister, op een gezamenlijk verzoek van de betrokken burgemeesters en officieren van justitie, besluit dat een territoriaal onderdeel in meerdere regio’s gelegen is.  
 
 ### Artikel  26  
 
@@ -305,7 +305,7 @@ a. het sluiten van overeenkomsten die een door Onze Minister vast te stellen bed
 b. het doen van investeringen die een door Onze Minister vast te stellen bedrag te boven gaan;  
 
 c. het oprichten of mede oprichten van rechtspersonen dan wel het deelnemen daarin.     
-2.  De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+2.  De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 3.  Het is de korpschef verboden: 
 
 a. leningen aan te gaan anders dan bij Onze Minister van Financiën;  
@@ -340,7 +340,7 @@ Onze Minister stelt jaarlijks een begroting vast voor de politie voor het komend
 
 ### Artikel  35  
 
-Onze Minister stelt jaarlijks een jaarrekening vast van de politie, die vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid van de besteding, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+Onze Minister stelt jaarlijks een jaarrekening vast van de politie, die vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid van de besteding, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  36  
 
@@ -408,7 +408,7 @@ De regioburgemeester en de hoofdofficier van justitie overleggen regelmatig met 
 
 ### Artikel  41a  
 
-De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en waarvan de grenzen van de gemeenten samenvallen met de indeling van de regio’s, genoemd in de [bijlage bij artikel 8 van de Wet Veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), en de hoofdofficier van justitie kunnen ten minste eenmaal per jaar over het beleid en de taakuitvoering van de politie overleg voeren. 
+De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en waarvan de grenzen van de gemeenten samenvallen met de indeling van de regio’s, genoemd in de bijlage bij artikel 8 van de Wet Veiligheidsregio’s, en de hoofdofficier van justitie kunnen ten minste eenmaal per jaar over het beleid en de taakuitvoering van de politie overleg voeren. 
 
 ### Afdeling  3.4  
 
@@ -454,8 +454,8 @@ c. het waken over de veiligheid van leden van het koninklijk huis en andere door
 
 ### Artikel  47  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden voor de politie regels gesteld over de onderwerpen, genoemd in [artikel 125, eerste lid](../../../../wet/ambtenarenwet/BWBR0001947/README.md), en [artikel 125quinquies, eerste lid, van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md).   
-2.  Voor de toepassing van de [Wet veiligheidsonderzoeken](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) bij de politie wordt Onze Minister aangemerkt als Onze Minister, bedoeld in [artikel 1, onder c, van de Wet veiligheidsonderzoeken](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
+1.  Bij of krachtens algemene maatregel van bestuur worden voor de politie regels gesteld over de onderwerpen, genoemd in artikel 125, eerste lid, en artikel 125quinquies, eerste lid, van de Ambtenarenwet.   
+2.  Voor de toepassing van de Wet veiligheidsonderzoeken bij de politie wordt Onze Minister aangemerkt als Onze Minister, bedoeld in artikel 1, onder c, van de Wet veiligheidsonderzoeken.   
 3.  De ambtenaar van politie die te goeder trouw de bij hem levende vermoedens van misstanden meldt volgens de op grond van het eerste lid vast te stellen regels voor het omgaan met bij een ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is, zal als gevolg van het melden van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.   
 4.  Het tot aanstelling bevoegd gezag van ambtenaren van politie: 
 
@@ -502,13 +502,13 @@ Het College van procureurs-generaal stelt ten minste eenmaal in de vier jaar een
 1.  De ambtenaren van de rijksrecherche worden aangesteld, geschorst en ontslagen door het College van procureurs-generaal.   
 2.  Het bepaalde krachtens artikel 45, tweede lid, is van overeenkomstige toepassing op de ambtenaren van de rijksrecherche.   
 3.  Het bepaalde bij of krachtens de artikelen 47, eerste en tweede lid, en 48 is van overeenkomstige toepassing op de rijksrecherche.   
-4.  Voor de toepassing van de [Wet veiligheidsonderzoeken](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) bij de rijksrecherche wordt Onze Minister aangemerkt als Onze Minister, bedoeld in [artikel 1, onder c, van de Wet veiligheidsonderzoeken](../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).  
+4.  Voor de toepassing van de Wet veiligheidsonderzoeken bij de rijksrecherche wordt Onze Minister aangemerkt als Onze Minister, bedoeld in artikel 1, onder c, van de Wet veiligheidsonderzoeken.  
 
 ### Artikel  54  
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over: 
 
-a. de doeleinden waarvoor de rijksrecherche, met inachtneming van het bepaalde bij of krachtens de [Wet politiegegevens](../../../../wet/wet/politiegegevens/BWBR0022463/README.md), gegevens verwerkt of verder verwerkt en de categorieën van gegevens die de rijksrecherche daartoe verwerkt, alsmede over de terbeschikkingstelling van gegevens ten behoeve van de uitvoering van de politietaak en de verstrekking van gegevens aan personen en instanties;  
+a. de doeleinden waarvoor de rijksrecherche, met inachtneming van het bepaalde bij of krachtens de Wet politiegegevens, gegevens verwerkt of verder verwerkt en de categorieën van gegevens die de rijksrecherche daartoe verwerkt, alsmede over de terbeschikkingstelling van gegevens ten behoeve van de uitvoering van de politietaak en de verstrekking van gegevens aan personen en instanties;  
 
 b. de wijze waarop de rijksrecherche gegevens verwerkt, daaronder begrepen de schrijfwijze en classificatie van gegevens, alsmede de wijze van vermelding van de herkomst van de gegevens.   
 
@@ -586,7 +586,7 @@ Behoeft de Koninklijke marechaussee bijstand van de politie voor de strafrechtel
 
 ### Artikel  65  
 
-1.  De Inspectie Openbare Orde en Veiligheid, bedoeld in [artikel 57 van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), is met het oog op een goede taakuitvoering door de politie belast met: 
+1.  De Inspectie Openbare Orde en Veiligheid, bedoeld in artikel 57 van de Wet veiligheidsregio’s, is met het oog op een goede taakuitvoering door de politie belast met: 
 
 a. het, onverminderd het gezag van de burgemeester en de officier van justitie, houden van toezicht op de taakuitvoering;  
 
@@ -594,7 +594,7 @@ b. het houden van toezicht op de kwaliteitszorg door de politie;
 
 c. het houden van toezicht op de kwaliteit van de politieopleidingen en de examinering;  
 
-d. het verrichten van onderzoek, indien daar in bijzondere gevallen reden toe is, naar ingrijpende gebeurtenissen waarbij de politie betrokken is, tenzij de Onderzoeksraad voor veiligheid, bedoeld in [artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid](../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md), naar het desbetreffende voorval een onderzoek instelt.     
+d. het verrichten van onderzoek, indien daar in bijzondere gevallen reden toe is, naar ingrijpende gebeurtenissen waarbij de politie betrokken is, tenzij de Onderzoeksraad voor veiligheid, bedoeld in artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid, naar het desbetreffende voorval een onderzoek instelt.     
 2.  De inspectie voert haar werkzaamheden uit onder gezag van Onze Minister.   
 3.  De korpschef verleent de inspectie de door deze verlangde ondersteuning bij de uitvoering van de werkzaamheden in het kader van het eerste lid.  
 
@@ -627,7 +627,7 @@ a. de instelling van een of meer commissies, bestaande uit onafhankelijke leden,
 b. de registratie van de mondeling en schriftelijk ingediende klachten en, indien beschikbaar, de daarop genomen beslissingen, en  
 
 c. een jaarlijkse publicatie van de geregistreerde klachten en beslissingen, waarin wordt aangegeven in hoeverre bepaalde klachten wijzen op structurele tekortkomingen in het functioneren van de politie en waarin, zo nodig, aandacht wordt geschonken aan de middelen om deze tekortkomingen op te heffen.     
-3.  [Afdeling 9.1.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de behandeling van klachten als bedoeld in het tweede lid, onder a. Indien een commissie over de klacht zal adviseren, deelt degene die ingevolge artikel 70 verantwoordelijk is voor de behandeling van een klacht dit, in afwijking van [artikel 9:15, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zo spoedig mogelijk aan de indiener van de klacht mede.  
+3.  Afdeling 9.1.3 van de Algemene wet bestuursrecht is van toepassing op de behandeling van klachten als bedoeld in het tweede lid, onder a. Indien een commissie over de klacht zal adviseren, deelt degene die ingevolge artikel 70 verantwoordelijk is voor de behandeling van een klacht dit, in afwijking van artikel 9:15, eerste lid, van de Algemene wet bestuursrecht, zo spoedig mogelijk aan de indiener van de klacht mede.  
 
 ### Artikel  69  
 
@@ -654,7 +654,7 @@ c. een jaarlijkse publicatie van de geregistreerde klachten en beslissingen, waa
 
 ### Artikel  72  
 
-In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in artikel 68, tweede lid, onder a, is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van het klaagschrift. 
+In afwijking van artikel 9:11, eerste lid, van de Algemene wet bestuursrecht wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in artikel 68, tweede lid, onder a, is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van het klaagschrift. 
 
 ### Hoofdstuk  8  
 
@@ -662,12 +662,12 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](.
 
 ### Artikel  73  
 
-De [Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) wordt ingetrokken. 
+De Politiewet 1993 wordt ingetrokken. 
 
 ### Artikel  74  
 
 1.  Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.   
-2.  In afwijking van het eerste lid zendt Onze Minister binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk in de regionale eenheid in de arrondissementen, bedoeld in de [artikelen 5a](../../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md) en [11 van de Wet op de rechterlijke indeling](../../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md).  
+2.  In afwijking van het eerste lid zendt Onze Minister binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk in de regionale eenheid in de arrondissementen, bedoeld in de artikelen 5a en 11 van de Wet op de rechterlijke indeling.  
 
 ### Artikel  75  
 

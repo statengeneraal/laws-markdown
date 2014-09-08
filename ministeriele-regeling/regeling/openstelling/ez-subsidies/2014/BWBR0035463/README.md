@@ -27,12 +27,13 @@ Besluit:
 | 9  | Titel 3.6: Regionale investeringsprojecten  | 3.6.2  | --- | --- | --- |
 | 10  | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | 19-6-2014 t/m 01-07-2014  | 9.250.000  |
 | 11  | Titel 3.8: Internationaal innoveren  | 3.8.2  | ITEA2-innovatieprojecten  | 21-02-2014 t/m 07-03-2014  | 9.000.000  |
+| CATRENE-innovatieprojecten  | 12-09-2014 t/m 26-09-2014  | 7.000.000  |
 | 12  | Titel 3.9: Innovatiekredieten  | 3.9.2  | Klinische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 20.000.000  |
 | 13  | Titel 3.9: Innovatiekredieten  | 3.9.2  | Technische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 40.000.000  |
 | 14  | Titel 3.10: Seed capital technostarters  | 3.10.2  | --- | 01-08-2014 t/m 01-10-2014  | 18.000.000  |
 | 15  | Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | 01-01-2014 t/m 31-12-2014  | 580.000.000  |
 | 16  | Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers)  | 01-01-2014 t/m 31-12-2014  | 25.000.000  |
-| 17  | Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | 01-01-2014 t/m 31-12-2014  | 50.000.000  |
+| 17  | Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | 01-01-2014 t/m 31-12-2014  | 84.000.000  |
 | 18  | Titel 3.13: Garantie ondernemingsfinanciering  | 3.13.2 en 3.14.2  | --- | 01-01-2014 t/m 31-12-2014  | 250.000.000  |
 | 19  | Titel 3.15: Garantieregeling scheepsnieuwbouwfinanciering  | 3.15.2  | --- | 01-01-2014 t/m 31-12-2014  | 1.000.000.000  |
 | 20  | Titel 3.16 Vroege fase financiering  | 3.16.2  | MKB-ondernemer  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |

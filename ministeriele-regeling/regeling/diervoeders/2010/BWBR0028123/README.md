@@ -40,7 +40,7 @@ Gelet op:
 –  Richtlijn nr. 2002/32/EG van het Europees Parlement en de Raad van de Europese Unie van 7 mei 2002 inzake ongewenste stoffen in diervoeding (PbEG L 140);  
 
 –  Richtlijn nr. 2008/38/EG van de Commissie van de Europese Gemeenschappen van 5 maart 2008 tot vaststelling van de lijst van bestemmingen voor diervoeders met bijzonder voedingsdoel (PbEG L 69);   
-Gelet op de [artikelen 2, tweede lid, onderdeel b](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [3](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [6, eerste en vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [7, derde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [10, eerste lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [12](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [15, tweede lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [16, tweede, vierde en vijfde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [17](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [22, derde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [23](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [24](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [25, eerste en vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [28, tweede lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [32, vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), en [34 van de Kaderwet diervoeders](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) en op de [artikelen 7](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [12](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [17](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [21](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [24](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [27](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md) en [28 van het Besluit diervoeders](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md);
+Gelet op de artikelen 2, tweede lid, onderdeel b, 3, 6, eerste en vierde lid, 7, derde lid, 10, eerste lid, 12, 15, tweede lid, 16, tweede, vierde en vijfde lid, 17, 22, derde lid, 23, 24, 25, eerste en vierde lid, 28, tweede lid, 32, vierde lid, en 34 van de Kaderwet diervoeders en op de artikelen 7, 12, 17, 21, 24, 27 en 28 van het Besluit diervoeders;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -50,7 +50,7 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder: 
 
-a.  *besluit:*[ Besluit diervoeders 2012](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md);  
+a.  *besluit:* Besluit diervoeders 2012;  
 
 b.  *minister:* Minister van Economische Zaken;  
 
@@ -73,7 +73,7 @@ j.  *starttarief:* op de reis- en voorbereidende administratietijd betrekking he
 k.  *certificaat:* schriftelijke of elektronische door of vanwege de NVWA afgegeven verklaring naar aanleiding van haar werkzaamheden;  
 
 l.  *geleidebiljet:* schriftelijk of digitaal document, door de NVWA opgemaakt, dat dient om producten van dierlijke oorsprong te kanaliseren.    
-2.  Deze regeling berust op de [artikelen 6.2, eerste lid](../../../../../wet/wet/dieren/BWBR0030250/README.md), [6.4](../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.1](../../../../../wet/wet/dieren/BWBR0030250/README.md) en [9.1 van de Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md), de [artikelen 2.1](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md), [2.3](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md) en [2.4 van het Besluit diervoeders 2012](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md) en [artikel 8.5 van het Besluit diergeneesmiddelen](../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md). 
+2.  Deze regeling berust op de artikelen 6.2, eerste lid, 6.4, 7.1 en 9.1 van de Wet dieren, de artikelen 2.1, 2.3 en 2.4 van het Besluit diervoeders 2012 en artikel 8.5 van het Besluit diergeneesmiddelen. 
 
 ### Artikel  2  
 
@@ -103,9 +103,9 @@ i.  *verordening (EU) nr. 37/2010:* verordening (EU) nr. 37/2010 van de Commissi
 
 ### Artikel  3  
 
-1.  Het is eenieder verboden met diervoeders als bedoeld in artikel 3, onder 4, van verordening (EG) nr. 178/2002 een handeling als bedoeld in [artikel 2.18, tweede lid, onderdeel a, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md), waaronder handelingen als bedoeld in [artikel 2.17 van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md), te verrichten, indien dat diervoeder: 
+1.  Het is eenieder verboden met diervoeders als bedoeld in artikel 3, onder 4, van verordening (EG) nr. 178/2002 een handeling als bedoeld in artikel 2.18, tweede lid, onderdeel a, van de wet, waaronder handelingen als bedoeld in artikel 2.17 van de wet, te verrichten, indien dat diervoeder: 
 
-a. een stof bevat met een gehalte dat een maximumgehalte overschrijdt dat voor eet- of drinkwaren is opgenomen in bijlage II bij de Warenwetregeling residuen van bestrijdingsmiddelen, met betrekking tot eet- of drinkwaren die tevens diervoeder zijn, met uitzondering van een stof waarvoor op grond van [artikel 3.2 van het besluit](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md) een maximumgehalte geldt;  
+a. een stof bevat met een gehalte dat een maximumgehalte overschrijdt dat voor eet- of drinkwaren is opgenomen in bijlage II bij de Warenwetregeling residuen van bestrijdingsmiddelen, met betrekking tot eet- of drinkwaren die tevens diervoeder zijn, met uitzondering van een stof waarvoor op grond van artikel 3.2 van het besluit een maximumgehalte geldt;  
 
 b. van zoogdieren afkomstige eiwitten als bedoeld in artikel 7 en bijlage IV van verordening (EG) nr. 999/2001 bevat, tenzij deze eiwitten overeenkomstig die verordening in het diervoeder zijn verwerkt;  
 
@@ -124,9 +124,9 @@ h. een middel bevat als bedoeld in bijlage III, hoofdstuk 1, van verordening (EG
 i. een middel bevat dat is verwerkt of wordt toegepast in strijd met een beperking als bedoeld in bijlage III, hoofdstuk 2, van verordening (EG) nr. 767/2009;  
 
 j. een gehalte bevat dat afwijkt van de toegestane tolerantie, bedoeld in bijlage IV van verordening (EG) nr. 767/2009.     
-2.  Op een gehalte, bedoeld in het eerste lid, onderdeel a, is [bijlage I bij de Warenwetregeling residuen van bestrijdingsmiddelen](../../../../../ministeriele-regeling/regeling/residuen/van/bestrijdingsmiddelen/BWBR0003658/README.md) van overeenkomstige toepassing.   
+2.  Op een gehalte, bedoeld in het eerste lid, onderdeel a, is bijlage I bij de Warenwetregeling residuen van bestrijdingsmiddelen van overeenkomstige toepassing.   
 3.  Water dat wordt gebruikt voor het bereiden, bewerken of verwerken van een diervoeder is van voldoende kwaliteit.   
-4.  Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md) of artikel 2 door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.  
+4.  Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in artikel 1.1 van het besluit of artikel 2 door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.  
 
 ### Artikel  4  
 
@@ -134,9 +134,28 @@ j. een gehalte bevat dat afwijkt van de toegestane tolerantie, bedoeld in bijlag
 2.  De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) nr. 396/2005, worden, wat betreft diervoeders, verricht door de NVWA.   
 3.  De aanvrager, bedoeld in artikel 7, eerste lid, van verordening (EG) nr. 396/2005, dient zijn aanvraag in bij het College voor de toelating van gewasbeschermingsmiddelen en biociden.  
 
+### Artikel  5  
+
+1.  Een biologisch diervoeder voor honden of katten bevat als toevoegingsmiddelen uitsluitend substanties als bedoeld in bijlage VIII, deel A, bij verordening (EG) 889/2008, alsmede: 
+
+a. krijt;  
+
+b. vitaminen;  
+
+c. mineralen en sporenelementen;  
+
+d. zuivere aminozuren;  
+
+e. organische zuren.     
+2.  Een diervoeder als bedoeld in het eerste lid bevat: 
+
+a. per kilo ten hoogste 0,8% respectievelijk 1% fosfor;  
+
+b. slechts de sporenelementen zink, mangaan, koper en kobalt indien deze als organische verbinding worden gebruikt.    
+
 ### Artikel  6  
 
-De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) zijn van overeenkomstige toepassing op handelingen als bedoeld in artikel 3, eerste lid, met diervoeders. 
+De artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen zijn van overeenkomstige toepassing op handelingen als bedoeld in artikel 3, eerste lid, met diervoeders. 
 
 ### Hoofdstuk  3  
 
@@ -354,7 +373,7 @@ Vervallen per 01-03-2014
 
 ### §  1  
 
-####Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in [artikel 7 van de wet](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md)
+####Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in artikel 7 van de wet
 
 ### §  2  
 
@@ -381,7 +400,7 @@ g. het geven van uitvoering aan maatregelen waartoe de minister heeft besloten.
 
 ### Artikel  55  
 
-Als instellingen als bedoeld in [artikel 10.2 van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md) voor het onderzoek van de door met controle of toezicht belaste ambtenaren genomen monsters worden aangewezen: 
+Als instellingen als bedoeld in artikel 10.2 van de wet voor het onderzoek van de door met controle of toezicht belaste ambtenaren genomen monsters worden aangewezen: 
 
 a. RIKILT, instituut voor voedselveiligheid, onderdeel van Stichting Dienst Landbouwkundig Onderzoek;  
 
@@ -419,7 +438,7 @@ c. in strijd met de algemene verplichting, bedoeld in artikel 4, tweede lid, van
 d. in strijd met de goede praktijken voor het voederen van dieren, bedoeld in artikel 5, vijfde lid, en bijlage III, van verordening (EG) nr. 183/2005, wordt vervoederd aan voedselproducerende dieren, onverminderd artikel 13;  
 
 e. in strijd met etiketteringsvoorschriften als bedoeld in artikel 3, eerste lid, onderdeel c, van verordening (EG) nr. 1831/2003, onverminderd artikel 23.     
-2.  Indien het vervoederen van een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](../../../../../AMvB/besluit/diervoeders/2012/BWBR0032346/README.md) of artikel 2 door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.  
+2.  Indien het vervoederen van een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in artikel 1.1 van het besluit of artikel 2 door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.  
 
 ### §  4  
 
@@ -487,7 +506,7 @@ Inlichtingen als bedoeld in artikel 20, derde lid, van verordening (EG) nr. 178
 
 ### Artikel  64  
 
-Een belanghebbende kan binnen zeven dagen nadat aan hem het resultaat van het onderzoek, bedoeld in [artikel 5:18, zesde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bekend is gemaakt, bij de NVWA een verzoek om heronderzoek indienen. 
+Een belanghebbende kan binnen zeven dagen nadat aan hem het resultaat van het onderzoek, bedoeld in artikel 5:18, zesde lid, van de Algemene wet bestuursrecht, bekend is gemaakt, bij de NVWA een verzoek om heronderzoek indienen. 
 
 ### Hoofdstuk  7  
 

@@ -704,7 +704,7 @@ TEN BLIJKE WAARVAN de bovengenoemde Gevolmachtigden dit Verdrag hebben onderteek
 
 ####Eenvormige wet op wisselbrieven en orderbriefjes.
 
-###EERSTE TITEL. 
+###EERSTE TITEL 
 
 ####Van den wisselbrief.
 
@@ -1132,7 +1132,7 @@ In de wettelijke of bij overeenkomst vastgestelde termijnen is niet begrepen de 
 
 Gen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
-###TWEEDE TITEL. 
+###TWEEDE TITEL 
 
 ####Van orderbriefjes.
 

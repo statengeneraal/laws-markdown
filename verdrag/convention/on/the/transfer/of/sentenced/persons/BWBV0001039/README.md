@@ -40,7 +40,7 @@ b.if the judgment is final;
 
 c.if, at the time of receipt of the request for transfer, the sentenced person still has at least six months of the sentence to serve or if the sentence is indeterminate;
 
-d.if the transfer is consented to by the sentenced person or, where in view of his age or his physical or mental condition one of the two States considers it necessary, by the sentenced persons's legal representative;
+d.if the transfer is consented to by the sentenced person or, where in view of his age or his physical or mental condition one of the two States considers it necessary, by the sentenced person's legal representative;
 
 e.if the acts or omissions on account of which the sentence has been imposed constitute a criminal offence according to the law of the administering State or would constitute a criminal offence if committed on its territory; and
 

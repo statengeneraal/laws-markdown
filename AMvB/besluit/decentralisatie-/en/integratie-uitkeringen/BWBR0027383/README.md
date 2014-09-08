@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Minister van Financiën van 3 juli 2009, CZW/WVOB 2009-0000360518;
 
-Gelet op [artikel 13, eerste lid, van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 13, eerste lid, van de Financiële-verhoudingswet;
 
 De Raad van State gehoord (advies van 30 juli 2009, nr. W04.09.0232/I);
 
@@ -23,66 +23,86 @@ Hebben goedgevonden en verstaan:
 1. Ten behoeve van de overgang van het bevoegde gezag over de regionale luchthavens naar de provincies ontvangen de provincies, genoemd in bijlage 2c, in 2009 de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de provincies, genoemd in bijlage 2c-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de provincies, genoemd in bijlage 2c-3, de in die bijlage genoemde uitkering. 
-
-### Artikel  2f  
-
-####Elektrisch varen
-
-1. In het jaar 2010 ontvangt de provincie Fryslân een bijdrage van € 175.000. 
-2. In het jaar 2011 ontvangt de provincie Fryslân een bijdrage van € 175.000.
+4. In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2c-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  2i  
 
 ####Externe veiligheid
 
-In het jaar 2011 ontvangen de provincies, genoemd in bijlage 2i, de in die bijlage genoemde uitkering. 
-
-### Artikel  2j  
-
-####Innovatie energiebesparing gebouwde omgeving
-
-In het jaar 2011 ontvangt de provincie Groningen € 900.000. 
-
-### Artikel  2k  
-
-####Muskusrattenbestrijding
-
-In het jaar 2011 ontvangen de provincies, genoemd in bijlage 2k, de in die bijlage genoemde uitkering. 
-
-### Artikel  2l  
-
-####Regionale uitvoeringsdiensten (RUD)
-
-In het jaar 2011 ontvangen de provincies, genoemd in bijlage 2l, de in die bijlage genoemde uitkering. 
-
-### Artikel  2m  
-
-####Uitname provinciefonds
-
-In het jaar 2011 ontvangen de provincies, genoemd in bijlage 2m, de in die bijlage genoemde uitkering. 
+1. In het jaar 2011 ontvangen de provincies, genoemd in bijlage 2i, de in die bijlage genoemde uitkering. 
+2. In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2i-2, de in die bijlage genoemde uitkering.
 
 ### Artikel  2n  
 
 ####Waddenfonds
 
-In het jaar 2011 ontvangt de provincie Fryslân € 33.000.000. 
+1. In het jaar 2011 ontvangt de provincie Fryslân € 33.000.000. 
+2. In het jaar 2012 ontvangt de provincie Fryslân € 95.369.000.
 
 ### Artikel  2o  
 
 ####Werkmaatschappij Markermeer-IJmeer
 
-In het jaar 2011 ontvangt de provincie Flevoland € 210.000. 
+1. In het jaar 2011 ontvangt de provincie Flevoland € 210.000. 
+2. 2. In het jaar 2012 ontvangt de provincie Flevoland € 210.000.
+
+### Artikel  2p  
+
+####Asbest en zonnepanelen
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2p, de in die bijlage genoemde uitkering. 
+
+### Artikel  2q  
+
+####Beter benutten
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2q, de in die bijlage genoemde uitkering. 
+
+### Artikel  2r  
+
+####DU Ontwikkel / OEM-variabel
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2r, de in die bijlage genoemde uitkering. 
+
+### Artikel  2s  
+
+####Julianasluis
+
+In het jaar 2012 ontvangt de provincie Zuid-Holland € 2.700.000. 
+
+### Artikel  2t  
+
+####Kwaliteitsakkoord basisonderwijs
+
+In het jaar 2012 ontvangt de provincie Groningen € 200.000. 
+
+### Artikel  2u  
+
+####Monumenten
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2u, de in die bijlage genoemde uitkering. 
+
+### Artikel  2v  
+
+####Programmatische aanpak stikstof
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2v, de in die bijlage genoemde uitkering. 
+
+### Artikel  2w  
+
+####Zwemwaterrichtlijn EU
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2w, de in die bijlage genoemde uitkering. 
+
+### Artikel  2x  
+
+####Natuur
+
+In het jaar 2012 ontvangen de provincies, genoemd in bijlage 2x, de in die bijlage genoemde uitkering. 
 
 ### §  2  
 
 ####Uitkeringen aan gemeenten
-
-### Artikel  3  
-
-####Aanpak kindermishandeling
-
-1. Voor de bekostiging van een regiocoördinator ten behoeve van de aanpak van kindermishandeling ontvangen de gemeenten, genoemd in bijlage 3, in de jaren 2008 tot en met 2010 jaarlijks € 83 300.  
-2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 3-2, de in die bijlage genoemde uitkering. 
 
 ### Artikel  5  
 
@@ -126,6 +146,7 @@ Voor het verbeteren van de sociale acceptatie van homoseksualiteit en het bestri
 
 1. Voor deelname aan het Nationaal actieplan sport en bewegen ontvangen de gemeenten, genoemd in bijlage 14, in de jaren 2008 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering. 
 2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 14-3, de in die bijlage genoemde uitkering.  
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 14-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  16  
 
@@ -155,7 +176,8 @@ Voor deelname aan het landelijk netwerk interventieteams fraudebestrijding ontva
 
 ####Taalcoaches
 
-Voor het opzetten van projecten voor taalcoaches in het kader van de inburgering van nieuwkomers, ontvangen de gemeenten, genoemd in bijlage 23, in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering. 
+1. Voor het opzetten van projecten voor taalcoaches in het kader van de inburgering van nieuwkomers, ontvangen de gemeenten, genoemd in bijlage 23, in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering. 
+2. Bijlage 23 vervalt en wordt vervangen door de in dit besluit opgenomen bijlage 23a.
 
 ### Artikel  24  
 
@@ -167,21 +189,25 @@ Voor de flexibilisering van de openings- en arbeidstijden van zorg- en dienstver
 
 ####TSIOC
 
-Voor de kosten van formatieplaatsen voor opsporing en controle in het kader van de intensivering van de handhaving van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ontvangen de gemeenten genoemd in bijlage 25 in de jaren 2007 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering. 
+Voor de kosten van formatieplaatsen voor opsporing en controle in het kader van de intensivering van de handhaving van de Wet werk en bijstand ontvangen de gemeenten genoemd in bijlage 25 in de jaren 2007 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering. 
 
 ### Artikel  27  
 
 ####Uitvoering Wet maatschappelijke ondersteuning
 
-Voor de uitvoering van de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) ontvangen de gemeenten: 
+Voor de uitvoering van de Wet maatschappelijke ondersteuning ontvangen de gemeenten: 
 
 a. in het jaar 2007 de uitkering genoemd in bijlage 27a.  
 
-b. met ingang van 2008 jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in bijlage 27b worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. [Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) is van overeenkomstige toepassing op deze uitkering;  
+b. met ingang van 2008 jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in bijlage 27b worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhouding 2001 is van overeenkomstige toepassing op deze uitkering;  
 
 c. De gemeenten, genoemd in bijlage 27c, ontvangen voor het jaar 2008 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag. 
 
-d. De gemeenten, genoemd in bijlage 27d, ontvangen voor het jaar 2009 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.  
+d. De gemeenten, genoemd in bijlage 27d, ontvangen voor het jaar 2009 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag. 
+
+e. Bijlage 27d vervalt en wordt vervangen door de in dit besluit opgenomen bijlage 27e.  
+
+f. De gemeenten, genoemd in bijlage 27f, ontvangen voor het jaar 2010 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.  
 
 ### Artikel  29  
 
@@ -196,6 +222,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 1. Voor de bekostiging van de aanpak van Marokkaans-Nederlandse probleemjongeren ontvangen de gemeenten genoemd in bijlage 29a, in het jaar 2009 de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de gemeenten genoemd in bijlage 29a-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29a-3, de in die bijlage genoemde uitkering. 
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29a-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  29c  
 
@@ -204,6 +231,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 1. De gemeenten genoemd in bijlage 29c, waarvoor tot 1 januari 2009 de Bestuurlijke Arrangementen Antilliaanse Risicojongeren golden, ontvangen in 2009 de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29c-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29c-3, de in die bijlage genoemde uitkering. 
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29c-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  29i  
 
@@ -212,6 +240,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 1. Voor het stimuleren van herbestemming van waardevol en karakteristiek erfgoed en herontwikkeling van bijzondere terreinen in de veertig aandachtswijken ontvangen de gemeenten, genoemd in bijlage 29i, in het jaar 2009 de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29i-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29i-3, de in die bijlage genoemde uitkering. 
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29i-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  29j  
 
@@ -220,6 +249,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 1. Voor de herstructurering van bedrijventerreinen ontvangen de in bijlage 29j genoemde gemeenten in 2009 de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29j-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29j-3, de in die bijlage genoemde uitkering. 
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29j-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  29k  
 
@@ -228,22 +258,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 1. Voor de realisatie van combinatiefuncties bij brede scholen ontvangen de gemeenten, genoemd in bijlage 29k, in het jaar 2009 voor de tweede tranche de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29k-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29k-3, de in die bijlage genoemde uitkering. 
-
-### Artikel  29l  
-
-####Innovatietrajecten inburgering
-
-1. Voor de uitvoering van een aantal innovatietrajecten, in het kader van het Deltaplan inburgering, ontvangen gemeenten, genoemd in bijlage 29l, voor de jaren 2008 en 2009 de in die bijlage genoemde uitkering.  
-2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29l-2, de in die bijlage genoemde uitkering.  
-3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29l-3, de in die bijlage genoemde uitkering. 
-
-### Artikel  29m  
-
-####Jeugdwerkloosheid
-
-1. Voor de bestrijding van jeugdwerkloosheid ontvangen de gemeenten, genoemd in bijlage 29m, in 2009 de in die bijlage genoemde uitkering.  
-2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29m-2, de in die bijlage genoemde uitkering.  
-3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29m-3, de in die bijlage genoemde uitkering. 
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29k-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  29o  
 
@@ -252,20 +267,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 1. Voor het opheffen of verminderen van de barrièrewerking van het spoor ontvangen de gemeenten, genoemd in bijlage 29o, in 2009 de in die bijlage genoemde uitkering.  
 2.  In het jaar 2010 ontvangen de gemeenten, genoemd in bijlage 29o-2, de in die bijlage genoemde uitkering.  
 3.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29o-3, de in die bijlage genoemde uitkering. 
-
-### Artikel  29v  
-
-####Arbeidsparticipatie alleenstaande ouders
-
-1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29v, de in die bijlage genoemde uitkering.  
-2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29v-2, de in die bijlage genoemde uitkering. 
-
-### Artikel  29x  
-
-####Emancipatie Duizend en één kracht
-
-1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29x, de in die bijlage genoemde uitkering.  
-2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29x-2, de in die bijlage genoemde uitkering. 
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29o-4, de in die bijlage genoemde uitkering.
 
 ### Artikel  29ij  
 
@@ -273,6 +275,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 
 1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29ij, de in die bijlage genoemde uitkering. 
 2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29ij-2, de in die bijlage genoemde uitkering.  
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29y-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  29dd  
 
@@ -280,13 +283,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 
 1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29dd, de in die bijlage genoemde uitkering. 
 2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29dd-2, de in die bijlage genoemde uitkering.  
-
-### Artikel  29ee  
-
-####Leefbaarheid en veiligheid
-
-1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29ee, de in die bijlage genoemde uitkering. 
-2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29ee-2, de in die bijlage genoemde uitkering.  
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29dd-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  29hh  
 
@@ -294,6 +291,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 
 1. In het jaar 2010 ontvangt de gemeente Arnhem € 1.400.000.  
 2.  In het jaar 2011 ontvangt de gemeente Arnhem € 300.000. 
+3. In het jaar 2012 ontvangt de gemeente Arnhem € 300.000.
 
 ### Artikel  29ii  
 
@@ -301,6 +299,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 
 1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29ii, de in die bijlage genoemde uitkering.  
 2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29ii-2, de in die bijlage genoemde uitkering. 
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29ii-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  29jj  
 
@@ -308,6 +307,7 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 
 1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29jj, de in die bijlage genoemde uitkering.  
 2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29jj-2, de in die bijlage genoemde uitkering. 
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29jj-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  29kk  
 
@@ -315,37 +315,91 @@ Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in bij
 
 1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29kk, de in die bijlage genoemde uitkering. 
 2.  In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29kk-2, de in die bijlage genoemde uitkering.  
-
-### Artikel  29nn  
-
-####Uitvoeringskosten [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md)
-
-1. In het jaar 2010 ontvangen gemeenten, genoemd in bijlage 29nn, de in die bijlage genoemde uitkering.
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in bijlage 29nn-2, de in die bijlage genoemde uitkering. 
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29kk-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  29oo  
 
 ####Bestaand Rotterdams gebied
 
-In 2011 ontvangt de gemeente Rotterdam € 2.527.000. 
+1. In 2011 ontvangt de gemeente Rotterdam € 2.527.000. 
+2. In het jaar 2012 ontvangt de gemeente Rotterdam € 2.527.000.
 
 ### Artikel  29pp  
 
 ####Eigen kracht
 
-In 2011 ontvangen de gemeenten, genoemd in bijlage 29pp, de in die bijlage genoemde uitkering. 
+1. In 2011 ontvangen de gemeenten, genoemd in bijlage 29pp, de in die bijlage genoemde uitkering. 
+2. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29pp-2, de in die bijlage genoemde uitkering.
 
-### Artikel  29qq  
+### Artikel  29ss 
 
-####Nazorg ex-gedetineerden
+####Centra voor Jeugd en Gezin
 
-In 2011 ontvangen de gemeenten, genoemd in bijlage 29qq, de in die bijlage genoemde uitkering. 
+Voor de Centra voor Jeugd en Gezin ontvangen de gemeenten: Met ingang van 2012 jaarlijks via een decentralisatie-uitkering uit het gemeentefonds een bedrag waarbij de verdeelmaatstaven genoemd in bijlage 29ss-a worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. 
 
-### Artikel  29rr  
+### Artikel  29tt 
 
-####Onderwijsexperiment Zwanenbos
+####Focusgemeenten
 
-In 2011 ontvangt de gemeente Zoetermeer € 42.522. 
+In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29tt, de in die bijlage genoemde uitkering. 
+
+### Artikel  29uu 
+
+####IODS kwaliteitsprojecten
+
+In het jaar 2012 ontvangt de gemeente Midden-Delfland € 9.665.000. 
+
+### Artikel  29vv 
+
+####Kwaliteitssprong Zuid
+
+In het jaar 2012 ontvangt de gemeente Rotterdam € 1.400.000. 
+
+### Artikel  29ww 
+
+####LHBT emancipatiebeleid
+
+In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29ww, de in die bijlage genoemde uitkering. 
+
+### Artikel  29xx 
+
+####Maatschappelijke opvang
+
+Voor de maatschappelijke opvang ontvangen de gemeenten: 
+
+a. Met ingang van 2010 jaarlijks via een decentralisatie-uitkering uit het gemeentefonds een bedrag waarbij de verdeelmaatstaven genoemd in bijlage 29xx-a worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering.  
+
+b. In het jaar 2010 de in bijlage 29xx-b genoemde bedragen.   
+
+### Artikel  29yy 
+
+####Nationaal Actieprogramma Rotterdam Zuid
+
+In het jaar 2012 ontvangt de gemeente Rotterdam € 30.000.000. 
+
+### Artikel  29zz 
+
+####Platform Woonoverlast
+
+In het jaar 2012 ontvangt de gemeente Amersfoort € 50.000. 
+
+### Artikel  29aaa 
+
+####Quick wins binnenhavens
+
+In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29aaa, de in die bijlage genoemde uitkering. 
+
+### Artikel  29bbb 
+
+####Vsv-programmagelden RMC-regio’s G4
+
+In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29bbb, de in die bijlage genoemde uitkering. 
+
+### Artikel  29ccc 
+
+####We Can Young
+
+In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29ccc, de in die bijlage genoemde uitkering. 
 
 ### §  3  
 
@@ -357,19 +411,13 @@ In 2011 ontvangt de gemeente Zoetermeer € 42.522.
 
 Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies de uitkering, genoemd in bijlage 31a en de gemeenten genoemd in bijlage 31b jaarlijks in de jaren 2009 tot en met 2012 de in die bijlage genoemde uitkering. 
 
-### Artikel  31a  
-
-####Alle troeven in handen
-
-1. In 2010 ontvangen de gemeenten en provincies, genoemd in bijlage 31a, de in die bijlage genoemde uitkering. 
-2.  In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31a-2, de in die bijlage genoemde uitkering.  
-
 ### Artikel  31b  
 
 ####Bedrijventerreinen (Topperprojecten)
 
 1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in bijlage 31b, de in die bijlage genoemde uitkering. 
 2.  In het jaar 2011 ontvangen de provincies, genoemd in bijlage 31b-2, de in die bijlage genoemde uitkering.  
+3. In het jaar 2012 ontvangen de provincies, genoemd in bijlage 31b-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  31c  
 
@@ -377,6 +425,7 @@ Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies
 
 1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in bijlage 31c, de in die bijlage genoemde uitkering.  
 2.  In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31c-2, de in die bijlage genoemde uitkering. 
+3. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in bijlage 31c-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  31e  
 
@@ -384,49 +433,41 @@ Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies
 
 1. In het jaar 2010 ontvangen de gemeente Assen € 13.039.000 en provincies, genoemd in bijlage 31e, de in die bijlage genoemde uitkering. 
 2.  In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31e-2, de in die bijlage genoemde uitkering.  
-
-### Artikel  31f  
-
-####Stimulering lokale klimaatinitiatieven (SLOK)
-
-1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in bijlage 31f, de in die bijlage genoemde uitkering. 
-2.  In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31f-2, de in die bijlage genoemde uitkering.  
-
-### Artikel  31h  
-
-####Stimuleringsregeling oversampling WoON
-
-In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31h, de in die bijlage genoemde uitkering. 
+3. In het jaar 2012 ontvangen de gemeente en provincies, genoemd in bijlage 31e-3, de in die bijlage genoemde uitkering.
 
 ### Artikel  31i  
 
 ####Investeringsbudget stedelijke vernieuwing (ISV)
 
-In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31i, de in die bijlage genoemde uitkering. 
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31i, de in die bijlage genoemde uitkering. 
+2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in bijlage 31i-2, de in die bijlage genoemde uitkering.
 
 ### Artikel  31j  
 
 ####Nationale gebiedsontwikkelingen
 
-In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31j, de in die bijlage genoemde uitkering. 
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31j, de in die bijlage genoemde uitkering. 
+2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in bijlage 31j-2, de in die bijlage genoemde uitkering.
 
 ### Artikel  31k  
 
 ####Green Deal
 
-In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31k, de in die bijlage genoemde uitkering. 
-
-### Artikel  31l  
-
-####Pieken in de Delta
-
-In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31l, de in die bijlage genoemde uitkering. 
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31k, de in die bijlage genoemde uitkering. 
+2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in bijlage 31k-2, de in die bijlage genoemde uitkering.
 
 ### Artikel  31m  
 
 ####Sterke regio’s
 
-In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31m, de in die bijlage genoemde uitkering. 
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in bijlage 31m, de in die bijlage genoemde uitkering. 
+2. In het jaar 2012 ontvangen de provincies, genoemd in bijlage 31m-2, de in die bijlage genoemde uitkering.
+
+### Artikel  31n  
+
+####Invoeringskosten Jeugdzorg
+
+In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in bijlage 31n, de in die bijlage genoemde uitkering. 
 
 ### §  4  
 
@@ -517,6 +558,26 @@ E. M. H. Hirsch Ballin
 | Flevoland  |  € 22.467  |
 |  *Totaal*   |  * € 990.534*   |
 
+### Bijlage 2c-4 
+
+#### , genoemd in artikel 2c . Regionale luchthavens
+
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 56.437  | --- |
+| Flevoland  | € 20.739  | --- |
+| Fryslân  | € 130.823  | --- |
+| Gelderland  | € 164.177  | --- |
+| Groningen  | € 38.489  | --- |
+| Limburg  | € 49.756  | --- |
+| Noord-Brabant  | € 123.942  | --- |
+| Noord-Holland  | € 86.649  | --- |
+| Overijssel  | € 45.569  | --- |
+| Utrecht  | € 41.479  | --- |
+| Zeeland  | € 66.109  | --- |
+| Zuid-Holland  | € 109.135  | --- |
+| Totaal  | € 933.304  | --- |
+
 ### Bijlage 2i 
 
 ####, genoemd in artikel 2i . Externe veiligheid
@@ -537,114 +598,153 @@ E. M. H. Hirsch Ballin
 | Flevoland  |  € 334.000  |
 |  *Totaal*   |  * € 20.000.000*   |
 
-### Bijlage 2k 
+### Bijlage 2i-2 
 
-####, genoemd in artikel 2k . Muskusrattenbestrijding
+#### , genoemd in artikel 2i . Externe veiligheid
 
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Groningen  |  € 53.437  |
-| Fryslân  |  € 22  |
-| Drenthe  |  € 50.668  |
-| Overijssel  |  € 611.464  |
-| Gelderland  |  € 1.761.296  |
-| Utrecht  |  € 277.228  |
-| Noord-Holland  |  € 3.201.317  |
-| Zuid-Holland  |  € 1.992.098  |
-| Zeeland  |  € 760.187  |
-| Noord-Brabant  |  € 1.797.817  |
-| Limburg  |  € 1.434.439  |
-| Flevoland  |  € 529.027  |
-|  *Totaal*   |  * € 12.469.000*   |
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 498.000  | --- |
+| Flevoland  | € 334.000  | --- |
+| Fryslân  | € 771.000  | --- |
+| Gelderland  | € 2.314.000  | --- |
+| Groningen  | € 896.000  | --- |
+| Limburg  | € 1.481.000  | --- |
+| Noord-Brabant  | € 3.374.000  | --- |
+| Noord-Holland  | € 2.249.000  | --- |
+| Overijssel  | € 1.252.000  | --- |
+| Utrecht  | € 961.000  | --- |
+| Zeeland  | € 904.000  | --- |
+| Zuid-Holland  | € 4.966.000  | --- |
+| Totaal  | € 20.000.000  | --- |
 
-###Bijlage 2l 
+### Bijlage 2p 
 
-####, genoemd in artikel 2l . Regionale uitvoeringsdiensten (RUD)
+#### , genoemd in artikel 2p . Asbest en zonnepanelen
 
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Groningen  |  € 140.000  |
-| Fryslân  |  € 140.000  |
-| Drenthe  |  € 140.000  |
-| Overijssel  |  € 280.000  |
-| Gelderland  |  € 420.000  |
-| Utrecht  |  € 140.000  |
-| Noord-Holland  |  € 700.000  |
-| Zuid-Holland  |  € 1.060.000  |
-| Zeeland  |  € 140.000  |
-| Noord-Brabant  |  € 420.000  |
-| Limburg  |  € 280.000  |
-| Flevoland  |  € 140.000  |
-|  *Totaal*   |  * € 4.000.000*   |
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 1.044.000  | --- |
+| Flevoland  | € 523.000  | --- |
+| Fryslân  | € 1.590.000  | --- |
+| Gelderland  | € 3.418.000  | --- |
+| Groningen  | € 928.000  | --- |
+| Limburg  | € 1.365.000  | --- |
+| Noord-Brabant  | € 3.568.000  | --- |
+| Noord-Holland  | € 1.387.000  | --- |
+| Overijssel  | € 2.464.000  | --- |
+| Utrecht  | € 813.000  | --- |
+| Zeeland  | € 896.000  | --- |
+| Zuid-Holland  | € 2.004.000  | --- |
+| Totaal  | € 20.000.000  | --- |
 
-###Bijlage 2m 
+###Bijlage 2q 
 
-####, genoemd in artikel 2m . Uitname provinciefonds
+####, genoemd in artikel 2q . Beter benutten
 
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Groningen  |  € 7.929.336  |
-| Fryslân  |  € 9.020.434  |
-| Drenthe  |  € 18.147.819  |
-| Overijssel  |  € 4.540.847  |
-| Gelderland  |  € 15  |
-| Utrecht  |  € 11.924.930  |
-| Noord-Holland  |  € 21.306.494  |
-| Zuid-Holland  |  € 66.696.765  |
-| Zeeland  |  € 5.111.135  |
-| Noord-Brabant  |  € 12.899.514  |
-| Limburg  |  € 12.014.535  |
-| Flevoland  |  € 27.766.176  |
-|  *Totaal*   |  *€ 197.358.000*   |
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Groningen  | € 750.000  | --- |
+| Overijssel  | € 520.000  | --- |
+| Totaal  | € 1.270.000  | --- |
 
-### Bijlage 3  
+###Bijlage 2r 
 
-####, genoemd in artikel 3  Aanpak kindermishandeling
+####, genoemd in artikel 2r . DU Ontwikkel / OEM-variabel
 
-Gemeente Alkmaar Almere Amersfoort Amsterdam Apeldoorn Arnhem Breda Delft Den Helder Dordrecht Ede Eindhoven Emmen Enschede Gouda Groningen Haarlem Heerlen Helmond Hilversum Leeuwarden Leiden Maastricht Nijmegen Rotterdam ’s-Gravenhage ’s-Hertogenbosch Spijkenisse Tilburg Utrecht Venlo Vlaardingen Vlissingen Zaanstad Zwolle 
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 25.252.850  | --- |
+| Flevoland  | € 21.887.693  | --- |
+| Fryslân  | € 23.197.475  | --- |
+| Gelderland  | € 6.743.816  | --- |
+| Groningen  | € 17.260.966  | --- |
+| Limburg  | € 27.094.848  | --- |
+| Noord-Brabant  | € 50.283.421  | --- |
+| Noord-Holland  | € 65.848.597  | --- |
+| Overijssel  | € 26.331.489  | --- |
+| Utrecht  | € 42.868.977  | --- |
+| Zeeland  | € 20.063.311  | --- |
+| Zuid-Holland  | € 91.633.680  | --- |
+| Totaal  | € 418.467.123  | --- |
 
-###Bijlage 3-2 
+###Bijlage 2u 
 
-####, genoemd in artikel 3 . Aanpak kindermishandeling
+####, genoemd in artikel 2u . Monumenten
 
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Alkmaar  |  € 50.000  |
-| Almere  |  € 50.000  |
-| Amersfoort  |  € 50.000  |
-| Amsterdam  |  € 50.000  |
-| Apeldoorn  |  € 50.000  |
-| Arnhem  |  € 50.000  |
-| Breda  |  € 50.000  |
-| Delft  |  € 50.000  |
-| Den Helder  |  € 50.000  |
-| Dordrecht  |  € 50.000  |
-| Ede  |  € 50.000  |
-| Eindhoven  |  € 50.000  |
-| Emmen  |  € 50.000  |
-| Enschede  |  € 50.000  |
-| Gouda  |  € 50.000  |
-| Groningen  |  € 50.000  |
-| Haarlem  |  € 50.000  |
-| Heerlen  |  € 50.000  |
-| Helmond  |  € 50.000  |
-| Hilversum  |  € 50.000  |
-| Leeuwarden  |  € 50.000  |
-| Leiden  |  € 50.000  |
-| Maastricht  |  € 50.000  |
-| Nijmegen  |  € 50.000  |
-| Rotterdam  |  € 50.000  |
-| ’s-Gravenhage  |  € 50.000  |
-| ’s-Hertogenbosch  |  € 50.000  |
-| Spijkenisse  |  € 50.000  |
-| Tilburg  |  € 50.000  |
-| Utrecht  |  € 50.000  |
-| Venlo  |  € 50.000  |
-| Vlaardingen  |  € 50.000  |
-| Vlissingen  |  € 50.000  |
-| Zaanstad  |  € 50.000  |
-| Zwolle  |  € 50.000  |
-|  *Totaal*   |  *€ 1.750.000*   |
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 494.185  | --- |
+| Flevoland  | € 118.541  | --- |
+| Fryslân  | € 1.463.888  | --- |
+| Gelderland  | € 1.670.808  | --- |
+| Groningen  | € 902.832  | --- |
+| Limburg  | € 1.777.234  | --- |
+| Noord-Brabant  | € 1.722.352  | --- |
+| Noord-Holland  | € 4.717.863  | --- |
+| Overijssel  | € 1.249.181  | --- |
+| Utrecht  | € 1.526.928  | --- |
+| Zeeland  | € 1.327.425  | --- |
+| Zuid-Holland  | € 3.028.763  | --- |
+| Totaal  | € 20.000.000  | --- |
+
+###Bijlage 2v 
+
+####, genoemd in artikel 2v . Programmatische aanpak stikstof
+
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 2.070.000  | --- |
+| Flevoland  | € 460.000  | --- |
+| Fryslân  | € 575.000  | --- |
+| Gelderland  | € 2.300.000  | --- |
+| Groningen  | € 345.000  | --- |
+| Limburg  | € 4.370.000  | --- |
+| Noord-Brabant  | € 5.750.000  | --- |
+| Noord-Holland  | € 1.840.000  | --- |
+| Overijssel  | € 3.220.000  | --- |
+| Utrecht  | € 460.000  | --- |
+| Zeeland  | € 115.000  | --- |
+| Zuid-Holland  | € 1.495.000  | --- |
+| Totaal  | € 23.000.000  | --- |
+
+###Bijlage 2w 
+
+####, genoemd in artikel 2w . Zwemwaterrichtlijn EU
+
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 77.007  | --- |
+| Flevoland  | € 56.991  | --- |
+| Fryslân  | € 89.873  | --- |
+| Gelderland  | € 119.896  | --- |
+| Groningen  | € 85.584  | --- |
+| Limburg  | € 71.288  | --- |
+| Noord-Brabant  | € 139.911  | --- |
+| Noord-Holland  | € 169.934  | --- |
+| Overijssel  | € 54.132  | --- |
+| Utrecht  | € 49.843  | --- |
+| Zeeland  | € 105.600  | --- |
+| Zuid-Holland  | € 179.941  | --- |
+| Totaal  | € 1.200.000  | --- |
+
+###Bijlage 2x 
+
+####, genoemd in artikel 2x . Natuur
+
+| Provincie  | Uitkering 2012  |--- |
+|---|---|---|
+| Drenthe  | € 5.070.000  | --- |
+| Flevoland  | € 14.340.000  | --- |
+| Fryslân  | € 23.420.000  | --- |
+| Gelderland  | € 43.980.000  | --- |
+| Groningen  | € 5.790.000  | --- |
+| Limburg  | € 16.380.000  | --- |
+| Noord-Brabant  | € 33.220.000  | --- |
+| Overijssel  | € 19.400.000  | --- |
+| Utrecht  | € 84.790.000  | --- |
+| Zuid-Holland  | € 62.020.000  | --- |
+| Totaal  | € 308.410.000  | --- |
 
 ### Bijlage 5 
 
@@ -688,65 +788,6 @@ Gemeente Alkmaar Almere Amersfoort Amsterdam Apeldoorn Arnhem Breda Delft Den He
 | Zaanstad  | € 150.000  | --- |
 | Zoetermeer  | € 150.000  | --- |
 | Zwolle  | € 150.000  | --- |
-
-### Bijlage 6 
-
-####Bewonersinitiatieven wijken
-
-|  *Gemeente*   |  *Uitkering 2008*   |  *Uitkering 2009*   |  *Uitkering 2010*   |  *Uitkering 2011*   |
-|:---|:---|:---|:---|:---|
-| Alkmaar  |  € 400.000  |  € 450.000  |  € 450.000  |  € 398.000  |
-| Almelo  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Almere  | --- | --- | --- |  € 100.000  |
-| Amersfoort  |  € 360.000  |  € 390.000  |  € 390.000  |  € 338.000  |
-| Amsterdam  |  € 3.210.000  |  € 4.665.000  |  € 4.665.000  |  € 4.613.000  |
-| Apeldoorn  | --- | --- | --- |  € 100.000  |
-| Arnhem  |  € 830.000  |  € 1.095.000  |  € 1.095.000  |  € 1.043.000  |
-| Bergen op Zoom  | --- | --- | --- |  € 100.000  |
-| Breda  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Capelle aan den IJssel  | --- | --- | --- |  € 100.000  |
-| Culemborg  | --- | --- | --- |  € 100.000  |
-| Delft  | --- | --- | --- |  € 100.000  |
-| Delftzijl  | --- | --- | --- |  € 100.000  |
-| Deventer  |  € 370.000  |  € 405.000  |  € 405.000  |  € 353.000  |
-| Dordrecht  |  € 490.000  |  € 585.000  |  € 585.000  |  € 533.000  |
-| Ede  | --- | --- | --- |  € 100.000  |
-| Eindhoven  |  € 550.000  |  € 675.000  |  € 675.000  |  € 623.000  |
-| Emmen  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Enschede  |  € 360.000  |  € 390.000  |  € 390.000  |  € 338.000  |
-| Gouda  | --- | --- | --- |  € 100.000  |
-| Groningen  |  € 450.000  |  € 525.000  |  € 525.000  |  € 473.000  |
-| Haarlem  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Haarlemmermeer  | --- | --- | --- |  € 100.000  |
-| Heerlen  |  € 390.000  |  € 435.000  |  € 435.000  |  € 383.000  |
-| Helmond  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Hengelo  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Hoogezand-Sappemeer  | --- | --- | --- |  € 100.000  |
-| IJsselstein  | --- | --- | --- |  € 100.000  |
-| Leerdam  | --- | --- | --- |  € 100.000  |
-| Leeuwarden  |  € 350.000  |  € 375.000  |  € 375.000  |  € 323.000  |
-| Leiden  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Leidschendam-Voorburg  | --- | --- | --- |  € 100.000  |
-| Lelystad  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Maastricht  |  € 490.000  |  € 585.000  |  € 585.000  |  € 533.000  |
-| Nijmegen  |  € 390.000  |  € 435.000  |  € 435.000  |  € 383.000  |
-| Roermond  | --- | --- | --- |  € 100.000  |
-| Roosendaal  | --- | --- | --- |  € 100.000  |
-| Rotterdam  |  € 3.180.000  |  € 4.620.000  |  € 4.620.000  |  € 4.568.000  |
-| Schiedam  |  € 480.000  |  € 570.000  |  € 570.000  |  € 518.000  |
-| ’s-Gravenhage  |  € 1.550.000  |  € 2.175.000  |  € 2.175.000  |  € 2.123.000  |
-| ’s-Hertogenbosch  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Sittard-Geleen  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Tilburg  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Utrecht  |  € 1.150.000  |  € 1.575.000  |  € 1.575.000  |  € 1.523.000  |
-| Veenendaal  | --- | --- | --- |  € 100.000  |
-| Venlo  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-| Venray  | --- | --- | --- |  € 100.000  |
-| Vlaardingen  | --- | --- | --- |  € 100.000  |
-| Zaanstad  |  € 400.000  |  € 450.000  |  € 450.000  |  € 398.000  |
-| Zoetermeer  | --- | --- | --- |  € 100.000  |
-| Zwolle  |  € 300.000  |  € 300.000  |  € 300.000  |  € 248.000  |
-|  *Totaal*   |  * € 19.300.000*   |  *€ 24.300.000*   |  * € 24.300.000*   |  *€ 24.688.000*   |
 
 ### Bijlage 7 
 
@@ -1208,32 +1249,6 @@ Gemeente Alkmaar Almere Amersfoort Amsterdam Apeldoorn Arnhem Breda Delft Den He
 | Zwolle  | € 201.909  | € 7.499  | € 209.408  |
 |  *Totaal*   |  *€ 8.450.000*   |  *€ 313.818*   |  *€ 8.763.818*   |
 
-### Bijlage 13 
-
-####Homo-emancipatiebeleid
-
-|  *Gemeente*   |  *Uitkering 2008*   |  *Uitkering 2009*   |  *Uitkering 2010*   |  *Uitkering 2011*   |
-|:---|:---|:---|:---|:---|
-| Amersfoort  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Amsterdam  |  € 50.000  |  € 50.000  |  € 50.000  |  € 80.000  |
-| Arnhem  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Deventer  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Dordrecht  | --- |  € 20.000  |  € 20.000  |  € 20.000  |
-| Enschede  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Groningen  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Heerlen  | --- |  € 20.000  |  € 20.000  |  € 20.000  |
-| Leeuwarden  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Leiden  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Lelystad  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Maastricht  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Nijmegen  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Rotterdam  |  € 50.000  |  € 50.000  |  € 50.000  |  € 50.000  |
-| ’s-Gravenhage  |  € 50.000  |  € 50.000  |  € 50.000  |  € 50.000  |
-| Tilburg  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-| Utrecht  |  € 50.000  |  € 50.000  |  € 50.000  |  € 50.000  |
-| Zwolle  |  € 15.000  |  € 20.000  |  € 20.000  |  € 20.000  |
-|  *Totaal*   |  * € 380.000*   |  * € 480.000*   |  * € 480.000*   |  * € 510.000*   |
-
 ### Bijlage 14 
 
 ####, genoemd in artikel 14  Nationaal actieplan sport en bewegen
@@ -1411,6 +1426,71 @@ Gemeente Alkmaar Almere Amersfoort Amsterdam Apeldoorn Arnhem Breda Delft Den He
 | Zaanstad  |  € 351.402  |
 |  *Totaal*   |  * € 9.569.923*   |
 
+###Bijlage 14-4 
+
+####, genoemd in artikel 14 . Nationaal actieplan sport en bewegen
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Achtkarspelen  | € 66.286  | --- |
+| Alkmaar  | € 149.199  | --- |
+| Almelo  | € 127.096  | --- |
+| Appingedam  | € 34.374  | --- |
+| Assen  | € 119.391  | --- |
+| Bedum  | € 31.202  | --- |
+| Bergen op Zoom  | € 120.440  | --- |
+| Borger-Odoorn  | € 62.594  | --- |
+| Coevorden  | € 70.000  | --- |
+| De Marne  | € 31.508  | --- |
+| Den Helder  | € 7.500  | --- |
+| Deventer  | € 151.617  | --- |
+| Doesburg  | € 33.186  | --- |
+| Dordrecht  | € 164.271  | --- |
+| Franekeradeel  | € 25.625  | --- |
+| Geertruidenberg  | € 2.500  | --- |
+| Goes  | € 50.000  | --- |
+| Groningen  | € 195.807  | --- |
+| Hardenberg  | € 112.158  | --- |
+| Harlingen  | € 40.930  | --- |
+| Heerenveen  | € 89.164  | --- |
+| Heerlen  | € 145.537  | --- |
+| Hengelo O  | € 93.500  | --- |
+| Hoorn  | € 123.174  | --- |
+| Landgraaf  | € 83.299  | --- |
+| Leek  | € 48.380  | --- |
+| Leeuwarden  | € 41.250  | --- |
+| Lelystad  | € 127.252  | --- |
+| Lemsterland  | € 36.868  | --- |
+| Meppel  | € 71.631  | --- |
+| Neder-Betuwe  | € 54.618  | --- |
+| Noord-Beveland  | € 21.801  | --- |
+| Ooststellingwerf  | € 62.448  | --- |
+| Opmeer  | € 32.424  | --- |
+| Opsterland  | € 94.166  | --- |
+| Peel en Maas  | € 49.092  | --- |
+| Pekela  | € 36.608  | --- |
+| Reusel-De Mierden  | € 7.500  | --- |
+| Schiedam  | € 130.162  | --- |
+| ’s-Gravenhage  | € 341.971  | --- |
+| Sittard-Geleen  | € 151.245  | --- |
+| Skarsterlan  | € 64.102  | --- |
+| Smallingerland  | € 40.000  | --- |
+| Stede Broec  | € 52.690  | --- |
+| Stein  | € 12.500  | --- |
+| Sudwest Fryslan  | € 74.659  | --- |
+| Terneuzen  | € 30.000  | --- |
+| Tholen  | € 60.310  | --- |
+| Utrecht  | € 249.201  | --- |
+| Vaals  | € 29.877  | --- |
+| Veendam  | € 66.234  | --- |
+| Vlaardingen  | € 126.461  | --- |
+| Vlagtwedde  | € 37.500  | --- |
+| Vlissingen  | € 92.535  | --- |
+| Wageningen  | € 78.520  | --- |
+| Weststellingwerf  | € 61.000  | --- |
+| Zaanstad  | € 175.701  | --- |
+| Totaal  | € 4.689.064  | --- |
+
 ### Bijlage 16 
 
 ####, genoemd in artikel 16  Participatie van vrouwen uit etnische minderheden
@@ -1526,59 +1606,234 @@ Gemeente Alkmaar Almere Amersfoort Amsterdam Apeldoorn Arnhem Breda Delft Den He
 
 Gemeente Amsterdam Eindhoven Enschede Groningen Nijmegen Rotterdam ’s-Gravenhage Tilburg Utrecht 
 
-### Bijlage 23 
+###Bijlage 23a 
 
-#### bij artikel 23  Taalcoaches
+####, genoemd in artikel 23 . Taalcoaches
 
-| Gemeente  | Uitkering 2008  | Uitkering 2009  | Uitkering 2010  | Uitkering 2011  |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Gemeente  | Uitkering 2008  | Uitkering 2009  | Uitkering 2010  | Uitkering 2011  |
+|---|---|---|---|---|
+| Aa en Hunze  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Aalsmeer  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Alkmaar  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
 | Almelo  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
 | Almere  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
-| Alphen a/d Rijn  | € 112.500  | € 67.500  | € 22.500  | € 22.500  |
+| Alphen aan den Rijn  | € 112.500  | € 67.500  | € 22.500  | € 22.500  |
 | Amersfoort  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
 | Amstelveen  | € 90.000  | € 54.000  | € 18.000  | € 18.000  |
 | Amsterdam  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
 | Apeldoorn  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
 | Arnhem  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Assen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Asten  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Baarn  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Barneveld  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Beesel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Bellingwedde  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Bergeijk  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Bergen op Zoom  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Berkelland  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Bernheze  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Best  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Beuningen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Beverwijk  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Bladel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Bloemendaal  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Bodegraven  | --- | € 11.250  | € 6.750  | --- |
+| Bodegraven-Reeuwijk  | --- | --- | --- | € 4.500  |
+| Borger-Odoorn  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Borsele  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Boxmeer  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Breda  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
-| Capelle a/d IJssel  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Bronckhorst  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Brummen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Brunssum  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Bunnik  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Buren  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Capelle aan den IJssel  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Castricum  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Coevorden  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Cuijk  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Culemborg  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Dalfsen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Dantumadiel  | --- | € 22.500  | € 13.500  | € 9.000  |
+| De Bilt  | --- | € 11.250  | € 6.750  | € 4.500  |
+| De Ronde Venen  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Delft  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Delfzijl  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Den Helder  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Deurne  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Deventer  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Doesburg  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Doetinchem  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Dongeradeel  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Dordrecht  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Drechterland  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Drimmelen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Dronten  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Duiven  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Echt-Susteren  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Ede  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Eersel  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Eindhoven  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Emmen  | --- | € 37.500  | € 22.500  | € 15.000  |
 | Enschede  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Epe  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Ermelo  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Etten-Leur  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Geertruidenberg  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Geldermalsen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Geldrop-Mierlo  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Gemert-Bakel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Gilze en Rijen  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Goes  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Goirle  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Gouda  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Groningen  | --- | € 75.000  | € 45.000  | € 30.000  |
+| Haaksbergen  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Haarlem  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
 | Haarlemmermeer  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Halderberge  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Harderwijk  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Hattem  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Heemskerk  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Heemstede  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Heerde  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Heerlen  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Helden  | --- | € 22.500  | --- | --- |
+| Hellendoorn  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Hellevoetsluis  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Helmond  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
 | Hengelo  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Heusden  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Hillegom  | --- | € 37.500  | € 22.500  | € 15.000  |
 | Hilversum  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Hoogeveen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Hoogezand-Sappemeer  | --- | € 37.500  | € 22.500  | € 15.000  |
 | Hoorn  | € 56.250  | € 33.750  | € 11.250  | € 11.250  |
+| Hulst  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Kaag en Braassem  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Kampen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Kerkrade  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Landgraaf  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Langedijk  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Leek  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Leeuwarden  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
 | Leiden  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Leiderdorp  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Leidschendam-Voorburg  | € 56.250  | € 33.750  | € 11.250  | € 11.250  |
 | Lelystad  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Leudal  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Leusden  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Lingewaard  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Loppersum  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Maarssen  | --- | € 11.250  | € 6.750  | --- |
+| Maasdriel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Maasgouw  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Maassluis  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Maastricht  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Menterwolde  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Meppel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Middelburg  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Midden Drenthe  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Moerdijk  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Montferland  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Neder-Betuwe  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Nederweert  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Neerijnen  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Nieuwegein  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Nijkerk  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Nijmegen  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Noordenveld  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Oegstgeest  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Oirschot  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Oisterwijk  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Oldambt  | --- | --- | € 20.250  | € 13.500  |
+| Oldenzaal  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Ommen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Oosterhout  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Oss  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Ouder-Amstel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Overbetuwe  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Peel en Maas  | --- | --- | € 13.500  | € 9.000  |
 | Purmerend  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Raalte  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Reiderland  | --- | € 11.250  | --- | --- |
+| Renkum  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Reusel-De Mierden  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Rheden  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Rhenen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Ridderkerk  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Rijnwaarden  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Rijssen-Holten  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Rijswijk  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Roermond  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
 | Roosendaal  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
-| Rotterdam  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Rotterdam  | € 75.000  | € 45.000  | € 15.000  | € 24.000  |
+| Rozenburg  | --- | € 22.500  | € 13.500  | --- |
+| Scheemda  | --- | € 11.250  | --- | --- |
+| Schiedam  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Schijndel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Schoonhoven  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Schouwen-Duiveland  | --- | € 22.500  | € 13.500  | € 9.000  |
 | ’s-Gravenhage  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
 | ’s-Hertogenbosch  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
-| Schiedam  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Sint-Michielsgestel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Sittard-Geleen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Smallingerland  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Soest  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Someren  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Spijkenisse  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Staphorst  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Steenwijkerland  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Stichtse Vecht  | --- | --- | --- | € 4.500  |
+| Terneuzen  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Tiel  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Tilburg  | € 112.500  | € 67.500  | € 22.500  | € 22.500  |
+| Tynaarlo  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Tytsjerksteradiel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Uden  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Uithoorn  | --- | € 22.500  | € 13.500  | € 9.000  |
 | Utrecht  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Utrechtse Heuvelrug  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Valkenburg aan de Geul  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Veendam  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Veenendaal  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Veghel  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Velsen  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Venlo  | € 168.750  | € 101.250  | € 33.750  | € 33.750  |
+| Venray  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Vianen  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Vlaardingen  | € 37.500  | € 22.500  | € 7.500  | € 7.500  |
+| Vlagtwedde  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Vlist  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Voorst  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Vught  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Waalwijk  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Waddinxveen  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Wageningen  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Weert  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Werkendam  | --- | € 45.000  | € 27.000  | € 18.000  |
+| West Maas en Waal  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Westervoort  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Westland  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Westvoorne  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Wijchen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Wijdemeren  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Wijk bij Duurstede  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Winschoten  | --- | € 11.250  | --- | --- |
+| Winterswijk  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Woensdrecht  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Woerden  | --- | € 11.250  | € 6.750  | € 4.500  |
 | Zaanstad  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Zaltbommel  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Zeewolde  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Zeist  | --- | € 22.500  | € 13.500  | € 9.000  |
+| Zevenaar  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Zijpe  | --- | € 75.000  | € 45.000  | € 30.000  |
 | Zoetermeer  | € 75.000  | € 45.000  | € 15.000  | € 15.000  |
+| Zutphen  | --- | € 11.250  | € 6.750  | € 4.500  |
+| Zwolle  | --- | € 37.500  | € 22.500  | € 15.000  |
+| Totaal  | € 4.215.000  | € 5.589.000  | € 2.679.000  | € 2.067.000  |
 
 ### Bijlage 24 
 
@@ -1753,16 +2008,16 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | --- | • als het een een-ouder-huishouden is: de ouder;  | --- | --- |
 | --- | • in alle andere huishoudens: de oudste man, of, als deze ontbreekt, de oudste vrouw.  | --- | --- |
 | 14. Uitkeringsontvangers.  | Het aantal personen jonger dan 65 jaar met een uitkering volgens:  | --- | 31 december voorafgaand aan het Uitkeringsjaar  |
-| --- | 1. Het aantal personen met een loonbetaling op grond van de [Wet Sociale Werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) (tot en met 2008). Sinds 2009 is volgende definitie van toepassing:  | 1. Sociale Werkplaatsen (2008)/CBS (sinds 2009).  | --- |
-| --- | Het aantal volgens de Wet sociale werkvoorziening (Wsw) geïndiceerde inwoners in een gemeente die een dienstbetrekking als bedoeld in [artikel 1 van de Wsw](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) hebben. De volgens de Wsw geïndiceerde personen die op een wachtlijst staan en beschikbaar zijn om een dienstbetrekking te aanvaarden worden meegeteld  | 2a: het Algemeen burgerlijke pensioenfonds;  | --- |
+| --- | 1. Het aantal personen met een loonbetaling op grond van de Wet Sociale Werkvoorziening (tot en met 2008). Sinds 2009 is volgende definitie van toepassing:  | 1. Sociale Werkplaatsen (2008)/CBS (sinds 2009).  | --- |
+| --- | Het aantal volgens de Wet sociale werkvoorziening (Wsw) geïndiceerde inwoners in een gemeente die een dienstbetrekking als bedoeld in artikel 1 van de Wsw hebben. De volgens de Wsw geïndiceerde personen die op een wachtlijst staan en beschikbaar zijn om een dienstbetrekking te aanvaarden worden meegeteld  | 2a: het Algemeen burgerlijke pensioenfonds;  | --- |
 | --- | 2. het totaal aantal personen jonger dan 65 jaar dat een periodieke uitkering ontvangt op grond van:  | 2b-2e: het Uitvoeringsinstituut Werknemers Verzekeringen (UWV);  | --- |
-| --- | a. de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen;  | --- |
-| --- | b. de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  | --- |
-| --- | c. de [Wet arbeidsongeschiktheidsverzekering jonggehandicapten](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  | 2f: het Algemeen Mijnwerkersfonds van de steenkolenmijnen in Limburg.  | --- |
-| --- | d. de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  | --- |
-| --- | e. de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  | --- |
+| --- | a. de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen;  | --- |
+| --- | b. de Wet arbeidsongeschiktheidsverzekering zelfstandigen;  | --- |
+| --- | c. de Wet arbeidsongeschiktheidsverzekering jonggehandicapten;  | 2f: het Algemeen Mijnwerkersfonds van de steenkolenmijnen in Limburg.  | --- |
+| --- | d. de Wet op de arbeidsongeschiktheidsverzekering;  | --- |
+| --- | e. de Wet werk en inkomen naar arbeidsvermogen;  | --- |
 | --- | f. het Reglement van het Algemeen Mijnwerkersfonds  | --- |
-| 15. Minderheden.  | Het aantal inwoners van de gemeente waarvan ten minste een ouder geboren is in Suriname, de Nederlandse Antillen, Aruba, Turkije of Marokko, alsmede het aantal vreemdelingen dat blijkens de basisregistratie personen rechtmatig verblijf heeft op grond van een verblijfsvergunning als bedoeld in [artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  | CBS  | --- |
+| 15. Minderheden.  | Het aantal inwoners van de gemeente waarvan ten minste een ouder geboren is in Suriname, de Nederlandse Antillen, Aruba, Turkije of Marokko, alsmede het aantal vreemdelingen dat blijkens de basisregistratie personen rechtmatig verblijf heeft op grond van een verblijfsvergunning als bedoeld in artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000.  | CBS  | --- |
 | 16. Omgevingsadressendichtheid.  | Het gemiddelde aantal adressen per vierkante km dat een adres binnen zijn omgeving heeft. Als omgeving van een adres wordt een cirkel aangehouden met een straal van 1 km rondom dat adres. Vervolgens vermenigvuldigd met het aantal woonruimten in de gemeente gedeeld door 1000.  | CBS  | --- |
 | 17. Klantenpotentieel regionaal.  | Het aantal potentiële regionale klanten van een woonkern is het aantal klanten dat een woonkern van een gemeente aantrekt uit alle woonkernen binnen een straal van 60 kilometer rondom de eigen woonkern, met inbegrip van die woonkern zelf. Verondersteld wordt dat de regionale aantrekkingskracht van een kern toeneemt met het kwadraat van het aantal inwoners van die kern en afneemt met het kwadraat van de afstand tot die kern. Het totaal aantal potentiële regionale klanten in Nederland is gelijk aan het aantal inwoners.  | CBS  | --- |
 | 18. Gezondheidszorg bedden.  | Het aantal bedden in de gemeente dat beschikbaar is voor geestelijke gezondheidszorg, verpleeghuiszorg en zwakzinnigenzorg, berekend naar rato van de volgende factoren:  a. aantal bedden in de geestelijke gezondheidszorg: factor 26;  b. aantal bedden voor verpleeghuiszorg: factor 132,3;  c. aantal bedden voor zwakzinnigenzorg: factor 365.  | VWS  | Gebaseerd op peildatum die gebruikt werd bij de vaststelling van de specifieke uitkering BBAG 2004.  |
@@ -1770,7 +2025,7 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 
 ### Bijlage 27c 
 
-####, genoemd in artikel 27 . [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) (WMO)
+####, genoemd in artikel 27 . Wet maatschappelijke ondersteuning (WMO)
 
 |  *Gemeente*   |  *Uitkering 2008*   |
 |:---|:---|
@@ -2219,454 +2474,893 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zwolle  | € 9.739.700  |
 |  *Totaal*   |  *€ 1.469.545.416*   |
 
-###Bijlage 27d 
+###Bijlage 27e 
 
-####, genoemd in artikel 27 . [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) (WMO)
+####, genoemd in artikel 27 . Wet maatschappelijke ondersteuning (WMO)
 
-|  *Gemeente*   |  *Uitkering 2009*   |
-|:---|:---|
-| Aa en Hunze  |  € 2.521.172  |
-| Aalburg  |  € 847.455  |
-| Aalsmeer  |  € 2.075.802  |
-| Aalten  |  € 2.941.178  |
-| Abcoude  |  € 605.026  |
-| Achtkarspelen  |  € 2.581.873  |
-| Alblasserdam  |  € 1.904.109  |
-| Albrandswaard  |  € 1.339.854  |
-| Alkmaar  |  € 9.531.230  |
-| Almelo  |  € 8.044.646  |
-| Almere  |  € 10.084.375  |
-| Alphen aan den Rijn  |  € 5.457.018  |
-| Alphen-Chaam  |  € 653.068  |
-| Ameland  |  € 264.951  |
-| Amersfoort  |  € 11.269.346  |
-| Amstelveen  |  € 8.880.405  |
-| Amsterdam  |  € 69.399.656  |
-| Andijk  |  € 545.929  |
-| Anna Paulowna  |  € 1.021.371  |
-| Apeldoorn  |  € 15.923.145  |
-| Appingedam  |  € 1.867.368  |
-| Arcen en Velden  |  € 771.836  |
-| Arnhem  |  € 14.494.919  |
-| Assen  |  € 6.573.275  |
-| Asten  |  € 1.339.245  |
-| Baarle-Nassau  |  € 693.804  |
-| Baarn  |  € 3.253.228  |
-| Barendrecht  |  € 2.517.098  |
-| Barneveld  |  € 3.058.643  |
-| Bedum  |  € 1.007.263  |
-| Beek  |  € 1.885.826  |
-| Beemster  |  € 817.214  |
-| Beesel  |  € 1.221.339  |
-| Bellingwedde  |  € 1.270.807  |
-| Bergambacht  |  € 736.744  |
-| Bergeijk  |  € 1.350.870  |
-| Bergen L  |  € 1.351.156  |
-| Bergen NH  |  € 3.347.534  |
-| Bergen op Zoom  |  € 6.727.889  |
-| Berkelland  |  € 4.102.003  |
-| Bernheze  |  € 2.018.304  |
-| Bernisse  |  € 858.917  |
-| Best  |  € 1.944.792  |
-| Beuningen  |  € 1.670.396  |
-| Beverwijk  |  € 4.242.629  |
-| Binnenmaas  |  € 2.186.786  |
-| Bladel  |  € 1.384.206  |
-| Blaricum  |  € 805.307  |
-| Bloemendaal  |  € 2.235.415  |
-| Boarnsterhim  |  € 1.482.400  |
-| Bodegraven  |  € 1.407.953  |
-| Boekel  |  € 744.027  |
-| Bolsward  |  € 1.195.520  |
-| Borger-Odoorn  |  € 2.524.585  |
-| Borne  |  € 1.974.981  |
-| Borsele  |  € 1.841.525  |
-| Boskoop  |  € 1.076.904  |
-| Boxmeer  |  € 2.285.146  |
-| Boxtel  |  € 2.812.944  |
-| Breda  |  € 16.284.829  |
-| Breukelen  |  € 1.175.860  |
-| Brielle  |  € 1.056.277  |
-| Bronckhorst  |  € 3.594.303  |
-| Brummen  |  € 2.121.376  |
-| Brunssum  |  € 4.334.439  |
-| Bunnik  |  € 1.042.796  |
-| Bunschoten  |  € 1.097.372  |
-| Buren  |  € 1.659.397  |
-| Bussum  |  € 3.891.804  |
-| Capelle aan den IJssel  |  € 6.112.596  |
-| Castricum  |  € 3.096.595  |
-| Coevorden  |  € 3.804.952  |
-| Cranendonck  |  € 1.628.467  |
-| Cromstrijen  |  € 979.412  |
-| Cuijk  |  € 2.151.254  |
-| Culemborg  |  € 2.132.526  |
-| Dalfsen  |  € 1.987.252  |
-| Dantumadeel  |  € 2.117.544  |
-| De Bilt  |  € 4.855.571  |
-| De Marne  |  € 1.172.894  |
-| De Ronde Venen  |  € 2.274.922  |
-| De Wolden  |  € 2.241.451  |
-| Delft  |  € 8.763.929  |
-| Delfzijl  |  € 3.181.286  |
-| Den Helder  |  € 5.921.610  |
-| Deurne  |  € 2.694.097  |
-| Deventer  |  € 10.001.229  |
-| Diemen  |  € 2.011.903  |
-| Dinkelland  |  € 1.999.280  |
-| Dirksland  |  € 724.518  |
-| Doesburg  |  € 1.177.704  |
-| Doetinchem  |  € 6.009.746  |
-| Dongen  |  € 2.062.318  |
-| Dongeradeel  |  € 2.532.117  |
-| Dordrecht  |  € 12.358.171  |
-| Drechterland  |  € 1.413.435  |
-| Drimmelen  |  € 2.063.430  |
-| Dronten  |  € 2.649.616  |
-| Druten  |  € 1.407.154  |
-| Duiven  |  € 1.706.339  |
-| Echt-Susteren  |  € 3.763.475  |
-| Edam-Volendam  |  € 1.855.641  |
-| Ede  |  € 8.755.710  |
-| Eemnes  |  € 542.383  |
-| Eemsmond  |  € 1.894.140  |
-| Eersel  |  € 1.608.284  |
-| Eijsden  |  € 918.890  |
-| Eindhoven  |  € 23.388.734  |
-| Elburg  |  € 1.617.662  |
-| Emmen  |  € 13.039.890  |
-| Enkhuizen  |  € 1.855.133  |
-| Enschede  |  € 17.824.904  |
-| Epe  |  € 3.571.500  |
-| Ermelo  |  € 2.618.092  |
-| Etten-Leur  |  € 3.252.218  |
-| Ferwerderadiel  |  € 805.746  |
-| Franekeradeel  |  € 2.152.697  |
-| Gaasterlan-Sleat  |  € 1.086.638  |
-| Geertruidenberg  |  € 1.728.729  |
-| Geldermalsen  |  € 1.830.315  |
-| Geldrop-Mierlo  |  € 3.524.485  |
-| Gemert-Bakel  |  € 2.242.302  |
-| Gennep  |  € 1.930.161  |
-| Giessenlanden  |  € 946.056  |
-| Gilze en Rijen  |  € 1.992.861  |
-| Goedereede  |  € 781.779  |
-| Goes  |  € 4.587.632  |
-| Goirle  |  € 1.776.215  |
-| Gorinchem  |  € 3.669.818  |
-| Gouda  |  € 6.499.651  |
-| Graafstroom  |  € 538.947  |
-| Graft-De Rijp  |  € 510.668  |
-| Grave  |  € 1.152.477  |
-| Groesbeek  |  € 2.325.230  |
-| Groningen  |  € 15.847.332  |
-| Grootegast  |  € 1.016.111  |
-| Gulpen-Wittem  |  € 1.434.352  |
-| Haaksbergen  |  € 2.052.055  |
-| Haaren  |  € 1.265.877  |
-| Haarlem  |  € 16.110.429  |
-| Haarlemmerliede Spaarnw  |  € 464.587  |
-| Haarlemmermeer  |  € 8.244.944  |
-| Halderberge  |  € 2.359.509  |
-| Hardenberg  |  € 4.750.935  |
-| Harderwijk  |  € 3.617.337  |
-| Hardinxveld-Giessendam  |  € 1.375.715  |
-| Haren  |  € 2.314.687  |
-| Harenkarspel  |  € 1.254.725  |
-| Harlingen  |  € 1.723.088  |
-| Hattem  |  € 1.059.116  |
-| Heemskerk  |  € 3.794.986  |
-| Heemstede  |  € 3.372.267  |
-| Heerde  |  € 1.741.877  |
-| Heerenveen  |  € 5.182.161  |
-| Heerhugowaard  |  € 3.252.615  |
-| Heerlen  |  € 13.306.604  |
-| Heeze-Leende  |  € 1.406.540  |
-| Heiloo  |  € 2.196.835  |
-| Helden  |  € 1.662.723  |
-| Hellendoorn  |  € 3.205.066  |
-| Hellevoetsluis  |  € 2.876.704  |
-| Helmond  |  € 8.039.576  |
-| Hendrik-Ido-Ambacht  |  € 1.558.450  |
-| Hengelo  |  € 8.571.672  |
-| Het Bildt  |  € 1.126.270  |
-| Heumen  |  € 1.181.617  |
-| Heusden  |  € 3.231.291  |
-| Hillegom  |  € 1.945.587  |
-| Hilvarenbeek  |  € 1.014.686  |
-| Hilversum  |  € 9.660.489  |
-| Hof van Twente  |  € 3.349.563  |
-| Hoogeveen  |  € 6.124.717  |
-| Hoogezand-Sappemeer  |  € 4.392.371  |
-| Hoorn  |  € 6.204.728  |
-| Horst aan de Maas  |  € 2.270.643  |
-| Houten  |  € 2.375.883  |
-| Huizen  |  € 3.729.368  |
-| Hulst  |  € 3.290.606  |
-| IJsselstein  |  € 2.180.780  |
-| Kaag en Braassem  |  € 1.718.934  |
-| Kampen  |  € 4.230.230  |
-| Kapelle  |  € 1.008.614  |
-| Katwijk  |  € 4.564.662  |
-| Kerkrade  |  € 7.018.403  |
-| Kessel  |  € 366.599  |
-| Koggenland  |  € 1.481.037  |
-| Kollumerland en Nwkruisl  |  € 1.272.031  |
-| Korendijk  |  € 821.252  |
-| Krimpen aan den IJssel  |  € 2.432.066  |
-| Laarbeek  |  € 1.712.089  |
-| Landerd  |  € 1.110.787  |
-| Landgraaf  |  € 4.749.221  |
-| Landsmeer  |  € 898.316  |
-| Langedijk  |  € 1.771.401  |
-| Lansingerland  |  € 2.350.854  |
-| Laren  |  € 1.424.506  |
-| Leek  |  € 2.146.949  |
-| Leerdam  |  € 2.012.265  |
-| Leeuwarden  |  € 10.827.202  |
-| Leeuwarderadeel  |  € 839.799  |
-| Leiden  |  € 9.780.021  |
-| Leiderdorp  |  € 2.193.342  |
-| Leidschendam-Voorburg  |  € 8.703.002  |
-| Lelystad  |  € 5.257.779  |
-| Lemsterland  |  € 1.100.754  |
-| Leudal  |  € 3.013.250  |
-| Leusden  |  € 2.009.996  |
-| Liesveld  |  € 595.909  |
-| Lingewaal  |  € 724.042  |
-| Lingewaard  |  € 3.228.856  |
-| Lisse  |  € 2.009.130  |
-| Lith  |  € 434.695  |
-| Littenseradiel  |  € 783.340  |
-| Lochem  |  € 3.501.855  |
-| Loenen  |  € 712.376  |
-| Loon op Zand  |  € 1.901.770  |
-| Lopik  |  € 832.495  |
-| Loppersum  |  € 1.057.451  |
-| Losser  |  € 2.254.778  |
-| Maarssen  |  € 2.714.573  |
-| Maasbree  |  € 844.708  |
-| Maasdonk  |  € 828.335  |
-| Maasdriel  |  € 1.780.424  |
-| Maasgouw  |  € 2.714.244  |
-| Maassluis  |  € 3.057.508  |
-| Maastricht  |  € 14.856.408  |
-| Margraten  |  € 1.133.340  |
-| Marum  |  € 824.214  |
-| Medemblik  |  € 2.201.003  |
-| Meerlo-Wanssum  |  € 546.932  |
-| Meerssen  |  € 1.907.414  |
-| Meijel  |  € 474.174  |
-| Menaldumadeel  |  € 1.189.498  |
-| Menterwolde  |  € 1.178.285  |
-| Meppel  |  € 3.241.745  |
-| Middelburg  |  € 5.368.751  |
-| Middelharnis  |  € 1.761.062  |
-| Midden Drenthe  |  € 3.145.235  |
-| Midden-Delfland  |  € 1.054.151  |
-| Mill en Sint Hubert  |  € 915.917  |
-| Millingen aan de Rijn  |  € 554.023  |
-| Moerdijk  |  € 2.954.318  |
-| Montferland  |  € 3.360.543  |
-| Montfoort U  |  € 798.804  |
-| Mook en Middelaar  |  € 728.066  |
-| Moordrecht  |  € 507.582  |
-| Muiden  |  € 527.345  |
-| Naarden  |  € 1.653.369  |
-| Neder-Betuwe  |  € 1.509.764  |
-| Nederlek  |  € 1.334.952  |
-| Nederweert  |  € 1.363.270  |
-| Neerijnen  |  € 855.652  |
-| Niedorp  |  € 808.343  |
-| Nieuwegein  |  € 4.397.085  |
-| Nieuwerkerk a/d IJssel  |  € 1.312.866  |
-| Nieuwkoop  |  € 1.901.866  |
-| Nieuw-Lekkerland  |  € 528.824  |
-| Nijefurd  |  € 1.139.156  |
-| Nijkerk  |  € 2.665.968  |
-| Nijmegen  |  € 16.076.250  |
-| Noord-Beveland  |  € 670.522  |
-| Noordenveld  |  € 3.136.152  |
-| Noordoostpolder  |  € 4.078.350  |
-| Noordwijk  |  € 2.471.440  |
-| Noordwijkerhout  |  € 1.352.639  |
-| Nuenen c.a.  |  € 1.473.435  |
-| Nunspeet  |  € 2.323.466  |
-| Nuth  |  € 1.700.835  |
-| Oegstgeest  |  € 1.776.823  |
-| Oirschot  |  € 1.233.716  |
-| Oisterwijk  |  € 2.296.681  |
-| Oldebroek  |  € 1.473.783  |
-| Oldenzaal  |  € 3.244.687  |
-| Olst-Wijhe  |  € 1.654.105  |
-| Ommen  |  € 1.594.724  |
-| Onderbanken  |  € 903.716  |
-| Oost Gelre  |  € 2.533.947  |
-| Oosterhout  |  € 4.654.349  |
-| Oostflakkee  |  € 887.618  |
-| Ooststellingwerf  |  € 2.948.875  |
-| Oostzaan  |  € 718.505  |
-| Opmeer  |  € 827.704  |
-| Opsterland  |  € 2.896.270  |
-| Oss  |  € 7.276.107  |
-| Oud-Beijerland  |  € 1.715.117  |
-| Oude IJsselstreek  |  € 3.904.921  |
-| Ouder-Amstel  |  € 1.135.899  |
-| Ouderkerk  |  € 640.343  |
-| Oudewater  |  € 823.668  |
-| Overbetuwe  |  € 2.903.164  |
-| Papendrecht  |  € 2.477.646  |
-| Pekela  |  € 1.800.470  |
-| Pijnacker-Nootdorp  |  € 2.201.952  |
-| Purmerend  |  € 7.580.166  |
-| Putten  |  € 1.834.321  |
-| Raalte  |  € 3.305.369  |
-| Reeuwijk  |  € 902.311  |
-| Reiderland  |  € 1.021.064  |
-| Reimerswaal  |  € 1.781.139  |
-| Renkum  |  € 4.371.039  |
-| Renswoude  |  € 298.411  |
-| Reusel-De Mierden  |  € 882.285  |
-| Rheden  |  € 6.090.266  |
-| Rhenen  |  € 1.671.150  |
-| Ridderkerk  |  € 4.813.296  |
-| Rijnwaarden  |  € 966.169  |
-| Rijnwoude  |  € 1.225.632  |
-| Rijssen-Holten  |  € 2.909.685  |
-| Rijswijk  |  € 6.760.381  |
-| Roerdalen  |  € 2.017.010  |
-| Roermond  |  € 6.295.651  |
-| Roosendaal  |  € 7.656.687  |
-| Rotterdam  |  € 67.083.038  |
-| Rozenburg  |  € 1.034.532  |
-| Rozendaal  |  € 151.360  |
-| Rucphen  |  € 2.145.494  |
-| Schagen  |  € 1.947.923  |
-| Scheemda  |  € 1.550.845  |
-| Schermer  |  € 345.077  |
-| Scherpenzeel  |  € 657.936  |
-| Schiedam  |  € 8.334.435  |
-| Schiermonnikoog  |  € 149.490  |
-| Schijndel  |  € 1.860.531  |
-| Schinnen  |  € 1.260.731  |
-| Schoonhoven  |  € 1.021.425  |
-| Schouwen-Duiveland  |  € 3.321.367  |
-| Sevenum  |  € 584.227  |
-| ’s-Gravenhage  |  € 47.992.901  |
-| ’s-Hertogenbosch  |  € 12.620.502  |
-| Simpelveld  |  € 1.199.061  |
-| Sint-Anthonis  |  € 992.474  |
-| Sint-Michielsgestel  |  € 2.241.029  |
-| Sint-Oedenrode  |  € 1.499.005  |
-| Sittard-Geleen  |  € 12.027.537  |
-| Skarsterlan  |  € 2.383.994  |
-| Sliedrecht  |  € 2.832.844  |
-| Slochteren  |  € 1.217.028  |
-| Sluis  |  € 2.983.279  |
-| Smallingerland  |  € 6.148.723  |
-| Sneek  |  € 3.721.784  |
-| Soest  |  € 4.640.190  |
-| Someren  |  € 1.579.524  |
-| Son en Breugel  |  € 1.257.939  |
-| Spijkenisse  |  € 5.679.565  |
-| Stadskanaal  |  € 4.781.432  |
-| Staphorst  |  € 892.718  |
-| Stede Broec  |  € 1.622.770  |
-| Steenbergen  |  € 1.960.930  |
-| Steenwijkerland  |  € 4.565.640  |
-| Stein  |  € 2.758.716  |
-| Strijen  |  € 744.167  |
-| Ten Boer  |  € 582.264  |
-| Terneuzen  |  € 6.238.833  |
-| Terschelling  |  € 412.283  |
-| Texel  |  € 1.184.301  |
-| Teylingen  |  € 2.593.992  |
-| Tholen  |  € 2.202.568  |
-| Tiel  |  € 3.405.358  |
-| Tilburg  |  € 19.050.704  |
-| Tubbergen  |  € 1.409.549  |
-| Twenterand  |  € 2.740.433  |
-| Tynaarlo  |  € 3.265.060  |
-| Tytsjerksteradiel  |  € 3.150.549  |
-| Ubbergen  |  € 1.069.680  |
-| Uden  |  € 3.465.643  |
-| Uitgeest  |  € 791.892  |
-| Uithoorn  |  € 2.295.062  |
-| Urk  |  € 739.102  |
-| Utrecht  |  € 21.866.540  |
-| Utrechtse Heuvelrug  |  € 5.140.089  |
-| Vaals  |  € 1.272.686  |
-| Valkenburg aan de Geul  |  € 2.150.079  |
-| Valkenswaard  |  € 3.225.679  |
-| Veendam  |  € 3.705.075  |
-| Veenendaal  |  € 5.040.836  |
-| Veere  |  € 1.768.931  |
-| Veghel  |  € 2.830.831  |
-| Veldhoven  |  € 3.763.687  |
-| Velsen  |  € 7.139.957  |
-| Venlo  |  € 10.223.290  |
-| Venray  |  € 3.394.890  |
-| Vianen  |  € 1.310.671  |
-| Vlaardingen  |  € 8.779.270  |
-| Vlagtwedde  |  € 2.362.830  |
-| Vlieland  |  € 123.022  |
-| Vlissingen  |  € 5.499.258  |
-| Vlist  |  € 794.382  |
-| Voerendaal  |  € 1.224.706  |
-| Voorschoten  |  € 2.112.362  |
-| Voorst  |  € 2.410.579  |
-| Vught  |  € 2.409.714  |
-| Waalre  |  € 1.490.820  |
-| Waalwijk  |  € 4.004.461  |
-| Waddinxveen  |  € 1.971.096  |
-| Wageningen  |  € 2.871.951  |
-| Wassenaar  |  € 2.837.194  |
-| Waterland  |  € 1.371.474  |
-| Weert  |  € 4.609.219  |
-| Weesp  |  € 1.809.109  |
-| Werkendam  |  € 1.857.402  |
-| Wervershoof  |  € 674.940  |
-| West Maas en Waal  |  € 1.575.957  |
-| Westerveld  |  € 2.131.238  |
-| Westervoort  |  € 1.080.915  |
-| Westland  |  € 7.251.105  |
-| Weststellingwerf  |  € 3.149.814  |
-| Westvoorne  |  € 1.123.178  |
-| Wierden  |  € 1.710.322  |
-| Wieringen  |  € 963.022  |
-| Wieringermeer  |  € 1.105.213  |
-| Wijchen  |  € 3.036.599  |
-| Wijdemeren  |  € 1.818.165  |
-| Wijk bij Duurstede  |  € 1.336.433  |
-| Winschoten  |  € 3.232.664  |
-| Winsum  |  € 1.103.336  |
-| Winterswijk  |  € 3.277.409  |
-| Woensdrecht  |  € 1.644.671  |
-| Woerden  |  € 3.231.248  |
-| Wormerland  |  € 1.293.915  |
-| Woudenberg  |  € 958.357  |
-| Woudrichem  |  € 1.045.498  |
-| Wunseradiel  |  € 931.529  |
-| Wymbritseradiel  |  € 1.097.553  |
-| Zaanstad  |  € 14.040.592  |
-| Zaltbommel  |  € 1.915.462  |
-| Zandvoort  |  € 2.445.617  |
-| Zederik  |  € 940.199  |
-| Zeevang  |  € 450.093  |
-| Zeewolde  |  € 891.436  |
-| Zeist  |  € 7.080.595  |
-| Zevenaar  |  € 3.060.779  |
-| Zevenhuizen-Moerkapelle  |  € 757.860  |
-| Zijpe  |  € 770.454  |
-| Zoetermeer  |  € 8.672.951  |
-| Zoeterwoude  |  € 808.757  |
-| Zuidhorn  |  € 1.335.699  |
-| Zundert  |  € 2.089.956  |
-| Zutphen  |  € 4.947.760  |
-| Zwartewaterland  |  € 1.512.038  |
-| Zwijndrecht  |  € 4.857.579  |
-| Zwolle  |  € 10.364.718  |
-|  *Totaal*   |  * € 1.535.349.553*   |
+| Gemeente  | Uitkering 2009  |--- |
+|---|---|---|
+| Aa en Hunze  | € 2.529.512  | --- |
+| Aalburg  | € 851.306  | --- |
+| Aalsmeer  | € 2.075.822  | --- |
+| Aalten  | € 2.941.208  | --- |
+| Abcoude  | € 605.032  | --- |
+| Achtkarspelen  | € 2.585.619  | --- |
+| Alblasserdam  | € 1.904.128  | --- |
+| Albrandswaard  | € 1.339.868  | --- |
+| Alkmaar  | € 9.524.519  | --- |
+| Almelo  | € 8.048.388  | --- |
+| Almere  | € 10.088.965  | --- |
+| Alphen aan den Rijn  | € 5.457.072  | --- |
+| Alphen-Chaam  | € 653.075  | --- |
+| Ameland  | € 264.954  | --- |
+| Amersfoort  | € 11.275.613  | --- |
+| Amstelveen  | € 8.871.030  | --- |
+| Amsterdam  | € 69.394.958  | --- |
+| Andijk  | € 543.046  | --- |
+| Anna Paulowna  | € 1.021.381  | --- |
+| Apeldoorn  | € 15.927.188  | --- |
+| Appingedam  | € 1.867.387  | --- |
+| Arcen en Velden  | € 771.844  | --- |
+| Arnhem  | € 14.495.062  | --- |
+| Assen  | € 6.582.881  | --- |
+| Asten  | € 1.339.258  | --- |
+| Baarle-Nassau  | € 693.811  | --- |
+| Baarn  | € 3.248.649  | --- |
+| Barendrecht  | € 2.520.663  | --- |
+| Barneveld  | € 3.058.673  | --- |
+| Bedum  | € 1.007.273  | --- |
+| Beek  | € 1.885.844  | --- |
+| Beemster  | € 817.222  | --- |
+| Beesel  | € 1.228.701  | --- |
+| Bellingwedde  | € 1.270.820  | --- |
+| Bergambacht  | € 736.752  | --- |
+| Bergeijk  | € 1.347.207  | --- |
+| Bergen L  | € 1.351.169  | --- |
+| Bergen NH  | € 3.343.488  | --- |
+| Bergen op Zoom  | € 6.731.833  | --- |
+| Berkelland  | € 4.102.044  | --- |
+| Bernheze  | € 2.018.324  | --- |
+| Bernisse  | € 858.925  | --- |
+| Best  | € 1.941.457  | --- |
+| Beuningen  | € 1.673.339  | --- |
+| Beverwijk  | € 4.238.403  | --- |
+| Binnenmaas  | € 2.186.807  | --- |
+| Bladel  | € 1.384.220  | --- |
+| Blaricum  | € 810.051  | --- |
+| Bloemendaal  | € 2.241.093  | --- |
+| Boarnsterhim  | € 1.479.113  | --- |
+| Bodegraven  | € 1.407.967  | --- |
+| Boekel  | € 744.034  | --- |
+| Bolsward  | € 1.195.532  | --- |
+| Borger-Odoorn  | € 2.524.610  | --- |
+| Borne  | € 1.979.238  | --- |
+| Borsele  | € 1.841.543  | --- |
+| Boskoop  | € 1.076.915  | --- |
+| Boxmeer  | € 2.285.168  | --- |
+| Boxtel  | € 2.806.051  | --- |
+| Breda  | € 16.284.991  | --- |
+| Breukelen  | € 1.175.872  | --- |
+| Brielle  | € 1.056.288  | --- |
+| Bronckhorst  | € 3.594.339  | --- |
+| Brummen  | € 2.116.938  | --- |
+| Brunssum  | € 4.334.482  | --- |
+| Bunnik  | € 1.042.806  | --- |
+| Bunschoten  | € 1.097.383  | --- |
+| Buren  | € 1.659.413  | --- |
+| Bussum  | € 3.897.054  | --- |
+| Capelle aan den IJssel  | € 6.108.912  | --- |
+| Castricum  | € 3.096.626  | --- |
+| Coevorden  | € 3.804.990  | --- |
+| Cranendonck  | € 1.628.483  | --- |
+| Cromstrijen  | € 979.422  | --- |
+| Cuijk  | € 2.147.894  | --- |
+| Culemborg  | € 2.132.547  | --- |
+| Dalfsen  | € 1.987.272  | --- |
+| Dantumadiel  | € 2.117.566  | --- |
+| De Bilt  | € 4.838.165  | --- |
+| De Marne  | € 1.165.543  | --- |
+| De Ronde Venen  | € 2.274.944  | --- |
+| De Wolden  | € 2.241.473  | --- |
+| Delft  | € 8.764.016  | --- |
+| Delfzijl  | € 3.181.317  | --- |
+| Den Helder  | € 5.921.669  | --- |
+| Deurne  | € 2.694.124  | --- |
+| Deventer  | € 10.001.328  | --- |
+| Diemen  | € 2.011.923  | --- |
+| Dinkelland  | € 1.995.231  | --- |
+| Dirksland  | € 720.387  | --- |
+| Doesburg  | € 1.177.716  | --- |
+| Doetinchem  | € 6.009.805  | --- |
+| Dongen  | € 2.065.898  | --- |
+| Dongeradeel  | € 2.532.142  | --- |
+| Dordrecht  | € 12.362.029  | --- |
+| Drechterland  | € 1.416.871  | --- |
+| Drimmelen  | € 2.059.802  | --- |
+| Dronten  | € 2.653.068  | --- |
+| Druten  | € 1.404.290  | --- |
+| Duiven  | € 1.706.356  | --- |
+| Echt-Susteren  | € 3.763.512  | --- |
+| Edam-Volendam  | € 1.852.616  | --- |
+| Ede  | € 8.755.797  | --- |
+| Eemnes  | € 542.388  | --- |
+| Eemsmond  | € 1.898.041  | --- |
+| Eersel  | € 1.608.300  | --- |
+| Eijsden  | € 918.899  | --- |
+| Eindhoven  | € 23.373.979  | --- |
+| Elburg  | € 1.617.678  | --- |
+| Emmen  | € 13.040.020  | --- |
+| Enkhuizen  | € 1.851.580  | --- |
+| Enschede  | € 17.817.731  | --- |
+| Epe  | € 3.576.437  | --- |
+| Ermelo  | € 2.612.180  | --- |
+| Etten-Leur  | € 3.248.748  | --- |
+| Ferwerderadiel  | € 809.304  | --- |
+| Franekeradeel  | € 2.152.718  | --- |
+| Gaasterlan-Sleat  | € 1.086.649  | --- |
+| Geertruidenberg  | € 1.732.280  | --- |
+| Geldermalsen  | € 1.830.333  | --- |
+| Geldrop-Mierlo  | € 3.520.421  | --- |
+| Gemert-Bakel  | € 2.245.641  | --- |
+| Gennep  | € 1.927.299  | --- |
+| Giessenlanden  | € 946.065  | --- |
+| Gilze en Rijen  | € 1.989.298  | --- |
+| Goedereede  | € 781.786  | --- |
+| Goes  | € 4.583.158  | --- |
+| Goirle  | € 1.783.563  | --- |
+| Gorinchem  | € 3.673.681  | --- |
+| Gouda  | € 6.503.352  | --- |
+| Graafstroom  | € 538.952  | --- |
+| Graft-De Rijp  | € 510.674  | --- |
+| Grave  | € 1.152.489  | --- |
+| Groesbeek  | € 2.325.253  | --- |
+| Groningen  | € 15.857.468  | --- |
+| Grootegast  | € 1.016.121  | --- |
+| Gulpen-Wittem  | € 1.434.366  | --- |
+| Haaksbergen  | € 2.048.207  | --- |
+| Haaren  | € 1.265.889  | --- |
+| Haarlem  | € 16.110.590  | --- |
+| Haarlemmerliede Spaarnw  | € 464.592  | --- |
+| Haarlemmermeer  | € 8.245.026  | --- |
+| Halderberge  | € 2.366.773  | --- |
+| Hardenberg  | € 4.743.639  | --- |
+| Harderwijk  | € 3.620.923  | --- |
+| Hardinxveld-Giessendam  | € 1.375.729  | --- |
+| Haren  | € 2.309.125  | --- |
+| Harenkarspel  | € 1.254.738  | --- |
+| Harlingen  | € 1.723.106  | --- |
+| Hattem  | € 1.063.390  | --- |
+| Heemskerk  | € 3.795.024  | --- |
+| Heemstede  | € 3.372.301  | --- |
+| Heerde  | € 1.741.895  | --- |
+| Heerenveen  | € 5.177.484  | --- |
+| Heerhugowaard  | € 3.255.043  | --- |
+| Heerlen  | € 13.306.737  | --- |
+| Heeze-Leende  | € 1.406.554  | --- |
+| Heiloo  | € 2.196.857  | --- |
+| Helden  | € 1.659.353  | --- |
+| Hellendoorn  | € 3.201.136  | --- |
+| Hellevoetsluis  | € 2.873.591  | --- |
+| Helmond  | € 8.039.656  | --- |
+| Hendrik-Ido-Ambacht  | € 1.558.466  | --- |
+| Hengelo O  | € 8.571.757  | --- |
+| Het Bildt  | € 1.126.281  | --- |
+| Heumen  | € 1.185.371  | --- |
+| Heusden  | € 3.231.323  | --- |
+| Hillegom  | € 1.945.606  | --- |
+| Hilvarenbeek  | € 1.011.367  | --- |
+| Hilversum  | € 9.669.444  | --- |
+| Hof van Twente  | € 3.349.596  | --- |
+| Hoogeveen  | € 6.124.778  | --- |
+| Hoogezand-Sappemeer  | € 4.384.666  | --- |
+| Hoorn  | € 6.207.967  | --- |
+| Horst aan de Maas  | € 2.270.665  | --- |
+| Houten  | € 2.378.668  | --- |
+| Huizen  | € 3.729.405  | --- |
+| Hulst  | € 3.286.075  | --- |
+| IJsselstein  | € 2.180.802  | --- |
+| Kaag en Braassem  | € 1.722.842  | --- |
+| Kampen  | € 4.230.272  | --- |
+| Kapelle  | € 1.008.624  | --- |
+| Katwijk  | € 4.564.707  | --- |
+| Kerkrade  | € 7.014.387  | --- |
+| Kessel  | € 366.602  | --- |
+| Koggenland  | € 1.481.052  | --- |
+| Kollumerland en Nwkruisl  | € 1.272.044  | --- |
+| Korendijk  | € 821.261  | --- |
+| Krimpen aan den IJssel  | € 2.423.313  | --- |
+| Laarbeek  | € 1.712.106  | --- |
+| Landerd  | € 1.110.798  | --- |
+| Landgraaf  | € 4.753.163  | --- |
+| Landsmeer  | € 898.325  | --- |
+| Langedijk  | € 1.774.741  | --- |
+| Lansingerland  | € 2.353.836  | --- |
+| Laren  | € 1.424.520  | --- |
+| Leek  | € 2.151.274  | --- |
+| Leerdam  | € 2.008.222  | --- |
+| Leeuwarden  | € 10.819.887  | --- |
+| Leeuwarderadeel  | € 843.451  | --- |
+| Leiden  | € 9.789.108  | --- |
+| Leiderdorp  | € 2.193.364  | --- |
+| Leidschendam-Voorburg  | € 8.713.082  | --- |
+| Lelystad  | € 5.260.331  | --- |
+| Lemsterland  | € 1.097.457  | --- |
+| Leudal  | € 3.009.589  | --- |
+| Leusden  | € 2.013.753  | --- |
+| Liesveld  | € 595.915  | --- |
+| Lingewaal  | € 724.049  | --- |
+| Lingewaard  | € 3.225.553  | --- |
+| Lisse  | € 2.009.150  | --- |
+| Lith  | € 434.699  | --- |
+| Littenseradiel  | € 783.348  | --- |
+| Lochem  | € 3.501.890  | --- |
+| Loenen  | € 712.383  | --- |
+| Loon op Zand  | € 1.901.788  | --- |
+| Lopik  | € 832.503  | --- |
+| Loppersum  | € 1.057.462  | --- |
+| Losser  | € 2.250.950  | --- |
+| Maarssen  | € 2.708.356  | --- |
+| Maasbree  | € 844.717  | --- |
+| Maasdonk  | € 828.343  | --- |
+| Maasdriel  | € 1.780.441  | --- |
+| Maasgouw  | € 2.714.271  | --- |
+| Maassluis  | € 3.061.659  | --- |
+| Maastricht  | € 14.864.471  | --- |
+| Margraten  | € 1.129.523  | --- |
+| Marum  | € 827.593  | --- |
+| Medemblik  | € 2.197.717  | --- |
+| Meerlo-Wanssum  | € 546.938  | --- |
+| Meerssen  | € 1.907.433  | --- |
+| Meijel  | € 474.179  | --- |
+| Menameradiel  | € 1.189.510  | --- |
+| Menterwolde  | € 1.178.297  | --- |
+| Meppel  | € 3.238.169  | --- |
+| Middelburg  | € 5.364.562  | --- |
+| Middelharnis  | € 1.757.082  | --- |
+| Midden Drenthe  | € 3.141.020  | --- |
+| Midden-Delfland  | € 1.058.164  | --- |
+| Mill en Sint Hubert  | € 912.088  | --- |
+| Millingen aan de Rijn  | € 554.028  | --- |
+| Moerdijk  | € 2.950.617  | --- |
+| Montferland  | € 3.368.786  | --- |
+| Montfoort U  | € 798.812  | --- |
+| Mook en Middelaar  | € 728.074  | --- |
+| Moordrecht  | € 504.407  | --- |
+| Muiden  | € 523.364  | --- |
+| Naarden  | € 1.653.386  | --- |
+| Neder-Betuwe  | € 1.509.779  | --- |
+| Nederlek  | € 1.334.965  | --- |
+| Nederweert  | € 1.359.377  | --- |
+| Neerijnen  | € 859.608  | --- |
+| Niedorp  | € 811.292  | --- |
+| Nieuwegein  | € 4.394.273  | --- |
+| Nieuwerkerk a/d IJssel  | € 1.309.524  | --- |
+| Nieuwkoop  | € 1.901.885  | --- |
+| Nieuw-Lekkerland  | € 528.829  | --- |
+| Nijefurd  | € 1.139.167  | --- |
+| Nijkerk  | € 2.665.995  | --- |
+| Nijmegen  | € 16.076.409  | --- |
+| Noord-Beveland  | € 673.359  | --- |
+| Noordenveld  | € 3.136.183  | --- |
+| Noordoostpolder  | € 4.070.822  | --- |
+| Noordwijk  | € 2.474.659  | --- |
+| Noordwijkerhout  | € 1.352.652  | --- |
+| Nuenen c.a.  | € 1.477.455  | --- |
+| Nunspeet  | € 2.319.245  | --- |
+| Nuth  | € 1.700.852  | --- |
+| Oegstgeest  | € 1.781.214  | --- |
+| Oirschot  | € 1.233.729  | --- |
+| Oisterwijk  | € 2.288.425  | --- |
+| Oldebroek  | € 1.477.138  | --- |
+| Oldenzaal  | € 3.240.778  | --- |
+| Olst-Wijhe  | € 1.654.121  | --- |
+| Ommen  | € 1.594.740  | --- |
+| Onderbanken  | € 903.725  | --- |
+| Oost Gelre  | € 2.537.607  | --- |
+| Oosterhout  | € 4.658.112  | --- |
+| Oostflakkee  | € 887.627  | --- |
+| Ooststellingwerf  | € 2.948.904  | --- |
+| Oostzaan  | € 714.470  | --- |
+| Opmeer  | € 824.213  | --- |
+| Opsterland  | € 2.900.319  | --- |
+| Oss  | € 7.287.580  | --- |
+| Oud-Beijerland  | € 1.715.134  | --- |
+| Oude IJsselstreek  | € 3.909.017  | --- |
+| Ouder-Amstel  | € 1.135.910  | --- |
+| Ouderkerk  | € 640.349  | --- |
+| Oudewater  | € 823.676  | --- |
+| Overbetuwe  | € 2.903.192  | --- |
+| Papendrecht  | € 2.481.551  | --- |
+| Pekela  | € 1.796.077  | --- |
+| Pijnacker-Nootdorp  | € 2.201.974  | --- |
+| Purmerend  | € 7.591.191  | --- |
+| Putten  | € 1.834.339  | --- |
+| Raalte  | € 3.309.562  | --- |
+| Reeuwijk  | € 902.320  | --- |
+| Reiderland  | € 1.021.074  | --- |
+| Reimerswaal  | € 1.781.157  | --- |
+| Renkum  | € 4.371.082  | --- |
+| Renswoude  | € 298.414  | --- |
+| Reusel-De Mierden  | € 882.294  | --- |
+| Rheden  | € 6.095.714  | --- |
+| Rhenen  | € 1.675.440  | --- |
+| Ridderkerk  | € 4.808.456  | --- |
+| Rijnwaarden  | € 966.179  | --- |
+| Rijnwoude  | € 1.225.644  | --- |
+| Rijssen-Holten  | € 2.913.861  | --- |
+| Rijswijk  | € 6.765.754  | --- |
+| Roerdalen  | € 2.017.031  | --- |
+| Roermond  | € 6.299.395  | --- |
+| Roosendaal  | € 7.660.632  | --- |
+| Rotterdam  | € 67.072.867  | --- |
+| Rozenburg  | € 1.030.821  | --- |
+| Rozendaal  | € 151.361  | --- |
+| Rucphen  | € 2.141.848  | --- |
+| Schagen  | € 1.947.942  | --- |
+| Scheemda  | € 1.550.860  | --- |
+| Schermer  | € 345.081  | --- |
+| Scherpenzeel  | € 657.942  | --- |
+| Schiedam  | € 8.334.518  | --- |
+| Schiermonnikoog  | € 149.492  | --- |
+| Schijndel  | € 1.860.550  | --- |
+| Schinnen  | € 1.256.617  | --- |
+| Schoonhoven  | € 1.017.620  | --- |
+| Schouwen-Duiveland  | € 3.317.641  | --- |
+| Sevenum  | € 584.233  | --- |
+| ’s-Gravenhage  | € 47.986.788  | --- |
+| ’s-Hertogenbosch  | € 12.620.627  | --- |
+| Simpelveld  | € 1.195.218  | --- |
+| Sint-Anthonis  | € 992.484  | --- |
+| Sint-Michielsgestel  | € 2.233.631  | --- |
+| Sint-Oedenrode  | € 1.503.143  | --- |
+| Sittard-Geleen  | € 12.023.549  | --- |
+| Skarsterlan  | € 2.384.018  | --- |
+| Sliedrecht  | € 2.837.287  | --- |
+| Slochteren  | € 1.220.504  | --- |
+| Sluis  | € 2.987.440  | --- |
+| Smallingerland  | € 6.140.771  | --- |
+| Sneek  | € 3.721.821  | --- |
+| Soest  | € 4.644.744  | --- |
+| Someren  | € 1.579.539  | --- |
+| Son en Breugel  | € 1.257.951  | --- |
+| Spijkenisse  | € 5.676.385  | --- |
+| Stadskanaal  | € 4.777.026  | --- |
+| Staphorst  | € 888.930  | --- |
+| Stede Broec  | € 1.622.786  | --- |
+| Steenbergen  | € 1.964.643  | --- |
+| Steenwijkerland  | € 4.561.257  | --- |
+| Stein  | € 2.758.743  | --- |
+| Strijen  | € 744.175  | --- |
+| Ten Boer  | € 582.270  | --- |
+| Terneuzen  | € 6.230.316  | --- |
+| Terschelling  | € 412.287  | --- |
+| Texel  | € 1.184.313  | --- |
+| Teylingen  | € 2.594.018  | --- |
+| Tholen  | € 2.202.590  | --- |
+| Tiel  | € 3.402.193  | --- |
+| Tilburg  | € 19.057.215  | --- |
+| Tubbergen  | € 1.409.563  | --- |
+| Twenterand  | € 2.743.968  | --- |
+| Tynaarlo  | € 3.269.652  | --- |
+| Tytsjerksteradiel  | € 3.150.580  | --- |
+| Ubbergen  | € 1.069.691  | --- |
+| Uden  | € 3.465.677  | --- |
+| Uitgeest  | € 791.899  | --- |
+| Uithoorn  | € 2.295.084  | --- |
+| Urk  | € 739.109  | --- |
+| Utrecht  | € 21.859.122  | --- |
+| Utrechtse Heuvelrug  | € 5.140.140  | --- |
+| Vaals  | € 1.268.867  | --- |
+| Valkenburg aan de Geul  | € 2.145.807  | --- |
+| Valkenswaard  | € 3.225.711  | --- |
+| Veendam  | € 3.705.112  | --- |
+| Veenendaal  | € 5.044.569  | --- |
+| Veere  | € 1.772.419  | --- |
+| Veghel  | € 2.830.859  | --- |
+| Veldhoven  | € 3.771.326  | --- |
+| Velsen  | € 7.135.536  | --- |
+| Venlo  | € 10.231.200  | --- |
+| Venray  | € 3.401.290  | --- |
+| Vianen  | € 1.310.684  | --- |
+| Vlaardingen  | € 8.779.357  | --- |
+| Vlagtwedde  | € 2.358.161  | --- |
+| Vlieland  | € 123.024  | --- |
+| Vlissingen  | € 5.499.313  | --- |
+| Vlist  | € 798.676  | --- |
+| Voerendaal  | € 1.224.718  | --- |
+| Voorschoten  | € 2.112.383  | --- |
+| Voorst  | € 2.410.603  | --- |
+| Vught  | € 2.409.738  | --- |
+| Waalre  | € 1.490.835  | --- |
+| Waalwijk  | € 4.004.500  | --- |
+| Waddinxveen  | € 1.967.045  | --- |
+| Wageningen  | € 2.874.920  | --- |
+| Wassenaar  | € 2.837.222  | --- |
+| Waterland  | € 1.371.488  | --- |
+| Weert  | € 4.605.517  | --- |
+| Weesp  | € 1.809.127  | --- |
+| Werkendam  | € 1.857.421  | --- |
+| Wervershoof  | € 674.947  | --- |
+| West Maas en Waal  | € 1.572.042  | --- |
+| Westerveld  | € 2.131.259  | --- |
+| Westervoort  | € 1.083.942  | --- |
+| Westland  | € 7.251.177  | --- |
+| Weststellingwerf  | € 3.154.704  | --- |
+| Westvoorne  | € 1.123.189  | --- |
+| Wierden  | € 1.706.441  | --- |
+| Wieringen  | € 963.032  | --- |
+| Wieringermeer  | € 1.105.224  | --- |
+| Wijchen  | € 3.036.630  | --- |
+| Wijdemeren  | € 1.818.183  | --- |
+| Wijk bij Duurstede  | € 1.342.154  | --- |
+| Winschoten  | € 3.227.700  | --- |
+| Winsum  | € 1.106.581  | --- |
+| Winterswijk  | € 3.273.006  | --- |
+| Woensdrecht  | € 1.647.856  | --- |
+| Woerden  | € 3.231.280  | --- |
+| Wormerland  | € 1.293.928  | --- |
+| Woudenberg  | € 958.367  | --- |
+| Woudrichem  | € 1.045.509  | --- |
+| Wunseradiel  | € 931.538  | --- |
+| Wymbritseradiel  | € 1.097.564  | --- |
+| Zaanstad  | € 14.040.731  | --- |
+| Zaltbommel  | € 1.915.481  | --- |
+| Zandvoort  | € 2.445.641  | --- |
+| Zederik  | € 940.208  | --- |
+| Zeevang  | € 450.098  | --- |
+| Zeewolde  | € 891.445  | --- |
+| Zeist  | € 7.084.695  | --- |
+| Zevenaar  | € 3.064.783  | --- |
+| Zevenhuizen-Moerkapelle  | € 757.867  | --- |
+| Zijpe  | € 770.461  | --- |
+| Zoetermeer  | € 8.676.207  | --- |
+| Zoeterwoude  | € 808.765  | --- |
+| Zuidhorn  | € 1.339.039  | --- |
+| Zundert  | € 2.094.613  | --- |
+| Zutphen  | € 4.944.235  | --- |
+| Zwartewaterland  | € 1.508.256  | --- |
+| Zwijndrecht  | € 4.857.627  | --- |
+| Zwolle  | € 10.374.119  | --- |
+| Totaal  | € 1.535.349.553  | --- |
+
+###Bijlage 27f 
+
+####, genoemd in artikel 27 . Wet maatschappelijke ondersteuning (WMO)
+
+| Gemeente  | Uitkering 2010  |--- |
+|---|---|---|
+| Aa en Hunze  | € 2.512.027  | --- |
+| Aalburg  | € 877.139  | --- |
+| Aalsmeer  | € 2.074.495  | --- |
+| Aalten  | € 2.931.926  | --- |
+| Abcoude  | € 634.487  | --- |
+| Achtkarspelen  | € 2.654.404  | --- |
+| Alblasserdam  | € 1.910.914  | --- |
+| Albrandswaard  | € 1.350.897  | --- |
+| Alkmaar  | € 9.707.329  | --- |
+| Almelo  | € 8.099.821  | --- |
+| Almere  | € 10.127.773  | --- |
+| Alphen aan den Rijn  | € 5.436.735  | --- |
+| Alphen-Chaam  | € 672.455  | --- |
+| Ameland  | € 275.219  | --- |
+| Amersfoort  | € 11.166.069  | --- |
+| Amstelveen  | € 8.660.463  | --- |
+| Amsterdam  | € 67.748.948  | --- |
+| Andijk  | € 554.189  | --- |
+| Anna Paulowna  | € 1.035.929  | --- |
+| Apeldoorn  | € 16.041.950  | --- |
+| Appingedam  | € 1.883.493  | --- |
+| Arnhem  | € 14.429.473  | --- |
+| Assen  | € 6.531.275  | --- |
+| Asten  | € 1.377.428  | --- |
+| Baarle-Nassau  | € 714.888  | --- |
+| Baarn  | € 3.031.345  | --- |
+| Barendrecht  | € 2.553.624  | --- |
+| Barneveld  | € 3.092.498  | --- |
+| Bedum  | € 1.050.482  | --- |
+| Beek  | € 1.849.053  | --- |
+| Beemster  | € 792.157  | --- |
+| Beesel  | € 1.257.786  | --- |
+| Bellingwedde  | € 1.329.129  | --- |
+| Bergambacht  | € 725.206  | --- |
+| Bergeijk  | € 1.347.922  | --- |
+| Bergen L  | € 1.357.316  | --- |
+| Bergen NH  | € 3.375.726  | --- |
+| Bergen op Zoom  | € 6.761.549  | --- |
+| Berkelland  | € 4.186.647  | --- |
+| Bernheze  | € 2.066.149  | --- |
+| Bernisse  | € 837.275  | --- |
+| Best  | € 1.970.017  | --- |
+| Beuningen  | € 1.739.207  | --- |
+| Beverwijk  | € 4.213.256  | --- |
+| Binnenmaas  | € 2.272.701  | --- |
+| Bladel  | € 1.489.180  | --- |
+| Blaricum  | € 808.849  | --- |
+| Bloemendaal  | € 2.301.782  | --- |
+| Boarnsterhim  | € 1.556.794  | --- |
+| Bodegraven  | € 1.427.792  | --- |
+| Boekel  | € 775.555  | --- |
+| Bolsward  | € 1.236.898  | --- |
+| Borger-Odoorn  | € 2.526.718  | --- |
+| Borne  | € 2.046.134  | --- |
+| Borsele  | € 1.833.346  | --- |
+| Boskoop  | € 1.101.824  | --- |
+| Boxmeer  | € 2.403.651  | --- |
+| Boxtel  | € 2.799.520  | --- |
+| Breda  | € 15.967.739  | --- |
+| Breukelen  | € 1.231.467  | --- |
+| Brielle  | € 1.083.681  | --- |
+| Bronckhorst  | € 3.653.948  | --- |
+| Brummen  | € 2.135.252  | --- |
+| Brunssum  | € 4.302.756  | --- |
+| Bunnik  | € 1.111.169  | --- |
+| Bunschoten  | € 1.144.683  | --- |
+| Buren  | € 1.669.599  | --- |
+| Bussum  | € 3.945.225  | --- |
+| Capelle aan den IJssel  | € 6.094.874  | --- |
+| Castricum  | € 3.112.194  | --- |
+| Coevorden  | € 3.882.507  | --- |
+| Cranendonck  | € 1.726.467  | --- |
+| Cromstrijen  | € 967.083  | --- |
+| Cuijk  | € 2.174.790  | --- |
+| Culemborg  | € 2.120.304  | --- |
+| Dalfsen  | € 2.099.732  | --- |
+| Dantumadiel  | € 2.094.692  | --- |
+| De Bilt  | € 5.153.668  | --- |
+| De Marne  | € 1.158.022  | --- |
+| De Ronde Venen  | € 2.373.467  | --- |
+| De Wolden  | € 2.285.029  | --- |
+| Delft  | € 8.683.826  | --- |
+| Delfzijl  | € 3.421.856  | --- |
+| Den Helder  | € 5.886.745  | --- |
+| Deurne  | € 2.809.559  | --- |
+| Deventer  | € 9.859.167  | --- |
+| Diemen  | € 2.040.251  | --- |
+| Dinkelland  | € 2.040.647  | --- |
+| Dirksland  | € 772.161  | --- |
+| Doesburg  | € 1.228.175  | --- |
+| Doetinchem  | € 6.047.771  | --- |
+| Dongen  | € 2.077.788  | --- |
+| Dongeradeel  | € 2.601.353  | --- |
+| Dordrecht  | € 12.411.205  | --- |
+| Drechterland  | € 1.423.297  | --- |
+| Drimmelen  | € 2.111.849  | --- |
+| Dronten  | € 2.768.245  | --- |
+| Druten  | € 1.413.568  | --- |
+| Duiven  | € 1.751.293  | --- |
+| Echt-Susteren  | € 3.748.735  | --- |
+| Edam-Volendam  | € 1.818.701  | --- |
+| Ede  | € 8.749.827  | --- |
+| Eemnes  | € 563.262  | --- |
+| Eemsmond  | € 1.928.662  | --- |
+| Eersel  | € 1.605.068  | --- |
+| Eijsden  | € 906.639  | --- |
+| Eindhoven  | € 22.927.838  | --- |
+| Elburg  | € 1.624.806  | --- |
+| Emmen  | € 13.319.386  | --- |
+| Enkhuizen  | € 1.884.669  | --- |
+| Enschede  | € 17.843.563  | --- |
+| Epe  | € 3.588.426  | --- |
+| Ermelo  | € 2.654.194  | --- |
+| Etten-Leur  | € 3.205.713  | --- |
+| Ferwerderadiel  | € 847.723  | --- |
+| Franekeradeel  | € 2.192.806  | --- |
+| Gaasterlan-Sleat  | € 1.118.910  | --- |
+| Geertruidenberg  | € 1.736.264  | --- |
+| Geldermalsen  | € 1.900.346  | --- |
+| Geldrop-Mierlo  | € 3.555.394  | --- |
+| Gemert-Bakel  | € 2.342.985  | --- |
+| Gennep  | € 1.958.216  | --- |
+| Giessenlanden  | € 972.195  | --- |
+| Gilze en Rijen  | € 2.054.170  | --- |
+| Goedereede  | € 783.365  | --- |
+| Goes  | € 4.517.632  | --- |
+| Goirle  | € 1.719.642  | --- |
+| Gorinchem  | € 3.800.931  | --- |
+| Gouda  | € 6.460.664  | --- |
+| Graafstroom  | € 544.842  | --- |
+| Graft-De Rijp  | € 498.857  | --- |
+| Grave  | € 1.168.612  | --- |
+| Groesbeek  | € 2.333.408  | --- |
+| Groningen  | € 15.872.250  | --- |
+| Grootegast  | € 1.027.587  | --- |
+| Gulpen-Wittem  | € 1.498.274  | --- |
+| Haaksbergen  | € 2.191.282  | --- |
+| Haaren  | € 1.248.244  | --- |
+| Haarlem  | € 15.845.886  | --- |
+| Haarlemmerliede Spaarnw  | € 451.221  | --- |
+| Haarlemmermeer  | € 8.497.623  | --- |
+| Halderberge  | € 2.428.774  | --- |
+| Hardenberg  | € 4.833.469  | --- |
+| Harderwijk  | € 3.653.725  | --- |
+| Hardinxveld-Giessendam  | € 1.396.041  | --- |
+| Haren  | € 2.305.641  | --- |
+| Harenkarspel  | € 1.233.579  | --- |
+| Harlingen  | € 1.733.427  | --- |
+| Hattem  | € 1.089.740  | --- |
+| Heemskerk  | € 3.902.700  | --- |
+| Heemstede  | € 3.373.349  | --- |
+| Heerde  | € 1.735.321  | --- |
+| Heerenveen  | € 5.168.485  | --- |
+| Heerhugowaard  | € 3.325.042  | --- |
+| Heerlen  | € 13.464.792  | --- |
+| Heeze-Leende  | € 1.429.899  | --- |
+| Heiloo  | € 2.197.714  | --- |
+| Hellendoorn  | € 3.243.669  | --- |
+| Hellevoetsluis  | € 2.870.513  | --- |
+| Helmond  | € 8.141.850  | --- |
+| Hendrik-Ido-Ambacht  | € 1.689.168  | --- |
+| Hengelo O  | € 8.585.924  | --- |
+| Het Bildt  | € 1.113.040  | --- |
+| Heumen  | € 1.251.435  | --- |
+| Heusden  | € 3.305.439  | --- |
+| Hillegom  | € 1.910.835  | --- |
+| Hilvarenbeek  | € 1.033.801  | --- |
+| Hilversum  | € 9.549.228  | --- |
+| Hof van Twente  | € 3.297.810  | --- |
+| Hoogeveen  | € 6.256.066  | --- |
+| Hoogezand-Sappemeer  | € 4.486.489  | --- |
+| Hoorn  | € 6.271.770  | --- |
+| Horst aan de Maas  | € 3.076.444  | --- |
+| Houten  | € 2.349.543  | --- |
+| Huizen  | € 3.854.251  | --- |
+| Hulst  | € 3.266.557  | --- |
+| IJsselstein  | € 2.151.288  | --- |
+| Kaag en Braassem  | € 1.719.341  | --- |
+| Kampen  | € 4.281.566  | --- |
+| Kapelle  | € 1.034.437  | --- |
+| Katwijk  | € 4.583.772  | --- |
+| Kerkrade  | € 6.994.020  | --- |
+| Koggenland  | € 1.536.212  | --- |
+| Kollumerland en Nwkruisl  | € 1.293.393  | --- |
+| Korendijk  | € 781.453  | --- |
+| Krimpen aan den IJssel  | € 2.505.131  | --- |
+| Laarbeek  | € 1.700.704  | --- |
+| Landerd  | € 1.136.910  | --- |
+| Landgraaf  | € 4.813.144  | --- |
+| Landsmeer  | € 922.857  | --- |
+| Langedijk  | € 1.810.857  | --- |
+| Lansingerland  | € 2.456.759  | --- |
+| Laren  | € 1.455.774  | --- |
+| Leek  | € 2.112.410  | --- |
+| Leerdam  | € 2.080.242  | --- |
+| Leeuwarden  | € 10.643.457  | --- |
+| Leeuwarderadeel  | € 860.856  | --- |
+| Leiden  | € 9.714.189  | --- |
+| Leiderdorp  | € 2.213.190  | --- |
+| Leidschendam-Voorburg  | € 8.572.907  | --- |
+| Lelystad  | € 5.427.401  | --- |
+| Lemsterland  | € 1.109.260  | --- |
+| Leudal  | € 3.159.498  | --- |
+| Leusden  | € 2.064.070  | --- |
+| Liesveld  | € 610.613  | --- |
+| Lingewaal  | € 763.828  | --- |
+| Lingewaard  | € 3.329.517  | --- |
+| Lisse  | € 2.102.028  | --- |
+| Lith  | € 451.413  | --- |
+| Littenseradiel  | € 790.184  | --- |
+| Lochem  | € 3.544.501  | --- |
+| Loenen  | € 716.046  | --- |
+| Loon op Zand  | € 1.943.010  | --- |
+| Lopik  | € 853.750  | --- |
+| Loppersum  | € 1.052.620  | --- |
+| Losser  | € 2.380.453  | --- |
+| Maarssen  | € 2.659.446  | --- |
+| Maasdonk  | € 837.878  | --- |
+| Maasdriel  | € 1.820.878  | --- |
+| Maasgouw  | € 2.684.834  | --- |
+| Maassluis  | € 3.077.145  | --- |
+| Maastricht  | € 14.644.062  | --- |
+| Margraten  | € 1.130.386  | --- |
+| Marum  | € 823.863  | --- |
+| Medemblik  | € 2.293.691  | --- |
+| Meerssen  | € 1.911.617  | --- |
+| Menameradiel  | € 1.191.279  | --- |
+| Menterwolde  | € 1.190.564  | --- |
+| Meppel  | € 3.193.176  | --- |
+| Middelburg  | € 5.336.768  | --- |
+| Middelharnis  | € 1.710.896  | --- |
+| Midden Drenthe  | € 3.198.589  | --- |
+| Midden-Delfland  | € 1.032.486  | --- |
+| Mill en Sint Hubert  | € 1.003.795  | --- |
+| Millingen aan de Rijn  | € 575.999  | --- |
+| Moerdijk  | € 2.909.843  | --- |
+| Montferland  | € 3.518.623  | --- |
+| Montfoort U  | € 797.408  | --- |
+| Mook en Middelaar  | € 759.899  | --- |
+| Muiden  | € 546.829  | --- |
+| Naarden  | € 1.686.504  | --- |
+| Neder-Betuwe  | € 1.554.390  | --- |
+| Nederlek  | € 1.295.913  | --- |
+| Nederweert  | € 1.384.822  | --- |
+| Neerijnen  | € 849.447  | --- |
+| Niedorp  | € 816.824  | --- |
+| Nieuwegein  | € 4.400.516  | --- |
+| Nieuwkoop  | € 1.901.006  | --- |
+| Nieuw-Lekkerland  | € 547.254  | --- |
+| Nijefurd  | € 1.189.079  | --- |
+| Nijkerk  | € 2.755.286  | --- |
+| Nijmegen  | € 16.279.176  | --- |
+| Noord-Beveland  | € 691.441  | --- |
+| Noordenveld  | € 3.147.762  | --- |
+| Noordoostpolder  | € 4.026.050  | --- |
+| Noordwijk  | € 2.447.058  | --- |
+| Noordwijkerhout  | € 1.374.087  | --- |
+| Nuenen c.a.  | € 1.568.054  | --- |
+| Nunspeet  | € 2.294.864  | --- |
+| Nuth  | € 1.704.205  | --- |
+| Oegstgeest  | € 1.843.922  | --- |
+| Oirschot  | € 1.247.560  | --- |
+| Oisterwijk  | € 2.445.144  | --- |
+| Oldambt  | € 5.673.912  | --- |
+| Oldebroek  | € 1.513.978  | --- |
+| Oldenzaal  | € 3.238.715  | --- |
+| Olst-Wijhe  | € 1.664.104  | --- |
+| Ommen  | € 1.589.525  | --- |
+| Onderbanken  | € 935.222  | --- |
+| Oost Gelre  | € 2.611.096  | --- |
+| Oosterhout  | € 4.680.828  | --- |
+| Oostflakkee  | € 937.902  | --- |
+| Ooststellingwerf  | € 2.935.571  | --- |
+| Oostzaan  | € 741.934  | --- |
+| Opmeer  | € 847.913  | --- |
+| Opsterland  | € 2.932.520  | --- |
+| Oss  | € 7.458.729  | --- |
+| Oud-Beijerland  | € 1.735.136  | --- |
+| Oude IJsselstreek  | € 4.100.621  | --- |
+| Ouder-Amstel  | € 1.199.737  | --- |
+| Ouderkerk  | € 664.102  | --- |
+| Oudewater  | € 799.643  | --- |
+| Overbetuwe  | € 2.920.122  | --- |
+| Papendrecht  | € 2.558.815  | --- |
+| Peel en Maas  | € 3.207.124  | --- |
+| Pekela  | € 1.802.006  | --- |
+| Pijnacker-Nootdorp  | € 2.263.779  | --- |
+| Purmerend  | € 7.570.445  | --- |
+| Putten  | € 1.903.720  | --- |
+| Raalte  | € 3.257.814  | --- |
+| Reeuwijk  | € 919.493  | --- |
+| Reimerswaal  | € 1.882.103  | --- |
+| Renkum  | € 4.363.809  | --- |
+| Renswoude  | € 287.954  | --- |
+| Reusel-De Mierden  | € 947.405  | --- |
+| Rheden  | € 6.031.680  | --- |
+| Rhenen  | € 1.693.157  | --- |
+| Ridderkerk  | € 4.856.036  | --- |
+| Rijnwaarden  | € 1.005.514  | --- |
+| Rijnwoude  | € 1.271.847  | --- |
+| Rijssen-Holten  | € 2.890.230  | --- |
+| Rijswijk  | € 6.755.880  | --- |
+| Roerdalen  | € 2.029.727  | --- |
+| Roermond  | € 6.327.716  | --- |
+| Roosendaal  | € 7.712.899  | --- |
+| Rotterdam  | € 66.487.259  | --- |
+| Rozenburg  | € 1.043.978  | --- |
+| Rozendaal  | € 153.385  | --- |
+| Rucphen  | € 2.141.181  | --- |
+| Schagen  | € 2.034.661  | --- |
+| Schermer  | € 362.096  | --- |
+| Scherpenzeel  | € 665.507  | --- |
+| Schiedam  | € 8.189.169  | --- |
+| Schiermonnikoog  | € 148.342  | --- |
+| Schijndel  | € 1.895.483  | --- |
+| Schinnen  | € 1.356.869  | --- |
+| Schoonhoven  | € 1.073.006  | --- |
+| Schouwen-Duiveland  | € 3.346.402  | --- |
+| ’s-Gravenhage  | € 47.205.660  | --- |
+| ’s-Hertogenbosch  | € 12.697.761  | --- |
+| Simpelveld  | € 1.203.945  | --- |
+| Sint-Anthonis  | € 1.032.025  | --- |
+| Sint-Michielsgestel  | € 2.296.572  | --- |
+| Sint-Oedenrode  | € 1.501.289  | --- |
+| Sittard-Geleen  | € 12.190.041  | --- |
+| Skarsterlan  | € 2.432.831  | --- |
+| Sliedrecht  | € 2.833.006  | --- |
+| Slochteren  | € 1.255.529  | --- |
+| Sluis  | € 2.972.780  | --- |
+| Smallingerland  | € 6.235.453  | --- |
+| Sneek  | € 3.758.603  | --- |
+| Soest  | € 4.635.163  | --- |
+| Someren  | € 1.567.923  | --- |
+| Son en Breugel  | € 1.315.429  | --- |
+| Spijkenisse  | € 5.633.511  | --- |
+| Stadskanaal  | € 4.791.390  | --- |
+| Staphorst  | € 912.445  | --- |
+| Stede Broec  | € 1.677.187  | --- |
+| Steenbergen  | € 2.065.827  | --- |
+| Steenwijkerland  | € 4.603.445  | --- |
+| Stein  | € 2.849.875  | --- |
+| Strijen  | € 739.582  | --- |
+| Ten Boer  | € 576.156  | --- |
+| Terneuzen  | € 6.376.538  | --- |
+| Terschelling  | € 392.289  | --- |
+| Texel  | € 1.180.294  | --- |
+| Teylingen  | € 2.552.926  | --- |
+| Tholen  | € 2.230.402  | --- |
+| Tiel  | € 3.377.763  | --- |
+| Tilburg  | € 18.928.430  | --- |
+| Tubbergen  | € 1.629.863  | --- |
+| Twenterand  | € 2.811.394  | --- |
+| Tynaarlo  | € 3.211.501  | --- |
+| Tytsjerksteradiel  | € 3.195.463  | --- |
+| Ubbergen  | € 1.065.920  | --- |
+| Uden  | € 3.511.173  | --- |
+| Uitgeest  | € 820.264  | --- |
+| Uithoorn  | € 2.373.877  | --- |
+| Urk  | € 777.893  | --- |
+| Utrecht  | € 21.453.816  | --- |
+| Utrechtse Heuvelrug  | € 5.143.636  | --- |
+| Vaals  | € 1.308.579  | --- |
+| Valkenburg aan de Geul  | € 2.194.429  | --- |
+| Valkenswaard  | € 3.312.587  | --- |
+| Veendam  | € 3.683.783  | --- |
+| Veenendaal  | € 5.062.548  | --- |
+| Veere  | € 1.764.122  | --- |
+| Veghel  | € 2.878.659  | --- |
+| Veldhoven  | € 3.772.943  | --- |
+| Velsen  | € 7.123.594  | --- |
+| Venlo  | € 11.025.946  | --- |
+| Venray  | € 3.669.179  | --- |
+| Vianen  | € 1.364.658  | --- |
+| Vlaardingen  | € 8.728.178  | --- |
+| Vlagtwedde  | € 2.390.137  | --- |
+| Vlieland  | € 132.773  | --- |
+| Vlissingen  | € 5.365.270  | --- |
+| Vlist  | € 825.084  | --- |
+| Voerendaal  | € 1.239.074  | --- |
+| Voorschoten  | € 2.086.206  | --- |
+| Voorst  | € 2.377.344  | --- |
+| Vught  | € 2.473.133  | --- |
+| Waalre  | € 1.510.171  | --- |
+| Waalwijk  | € 4.057.003  | --- |
+| Waddinxveen  | € 2.012.370  | --- |
+| Wageningen  | € 2.830.108  | --- |
+| Wassenaar  | € 2.743.191  | --- |
+| Waterland  | € 1.375.351  | --- |
+| Weert  | € 4.773.854  | --- |
+| Weesp  | € 1.796.686  | --- |
+| Werkendam  | € 1.882.769  | --- |
+| Wervershoof  | € 712.812  | --- |
+| West Maas en Waal  | € 1.605.809  | --- |
+| Westerveld  | € 2.150.940  | --- |
+| Westervoort  | € 1.148.104  | --- |
+| Westland  | € 7.323.873  | --- |
+| Weststellingwerf  | € 3.000.292  | --- |
+| Westvoorne  | € 1.183.141  | --- |
+| Wierden  | € 1.754.404  | --- |
+| Wieringen  | € 965.407  | --- |
+| Wieringermeer  | € 1.155.471  | --- |
+| Wijchen  | € 3.166.719  | --- |
+| Wijdemeren  | € 1.814.166  | --- |
+| Wijk bij Duurstede  | € 1.355.658  | --- |
+| Winsum  | € 1.117.222  | --- |
+| Winterswijk  | € 3.375.119  | --- |
+| Woensdrecht  | € 1.649.229  | --- |
+| Woerden  | € 3.291.622  | --- |
+| Wormerland  | € 1.311.789  | --- |
+| Woudenberg  | € 1.003.395  | --- |
+| Woudrichem  | € 1.049.886  | --- |
+| Wunseradiel  | € 922.262  | --- |
+| Wymbritseradiel  | € 1.123.734  | --- |
+| Zaanstad  | € 13.917.409  | --- |
+| Zaltbommel  | € 1.924.946  | --- |
+| Zandvoort  | € 2.469.062  | --- |
+| Zederik  | € 976.379  | --- |
+| Zeevang  | € 478.287  | --- |
+| Zeewolde  | € 921.810  | --- |
+| Zeist  | € 7.014.565  | --- |
+| Zevenaar  | € 3.064.045  | --- |
+| Zijpe  | € 786.717  | --- |
+| Zoetermeer  | € 8.771.479  | --- |
+| Zoeterwoude  | € 740.874  | --- |
+| Zuidhorn  | € 1.389.604  | --- |
+| Zuidplas  | € 2.483.507  | --- |
+| Zundert  | € 2.123.214  | --- |
+| Zutphen  | € 5.016.302  | --- |
+| Zwartewaterland  | € 1.565.072  | --- |
+| Zwijndrecht  | € 4.916.229  | --- |
+| Zwolle  | € 10.157.028  | --- |
+| Totaal  | € 1.540.963.628  | --- |
 
 ### Bijlage 29 
 
@@ -2753,6 +3447,36 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zeist  |  € 102.351  |
 |  *Totaal*   |  * € 12.400.000*   |
 
+###Bijlage 29a-4 
+
+####, genoemd in artikel 29a . Aanpak Marokkaans-Nederlandse probleemjongeren
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Amersfoort  | € 131.386  | --- |
+| Amsterdam  | € 4.344.672  | --- |
+| Culemborg  | € 80.000  | --- |
+| Ede  | € 80.000  | --- |
+| Eindhoven  | € 161.876  | --- |
+| Gorinchem  | € 80.000  | --- |
+| Gouda  | € 201.918  | --- |
+| Helmond  | € 104.944  | --- |
+| Leiden  | € 155.803  | --- |
+| Lelystad  | € 80.000  | --- |
+| Maassluis  | € 80.000  | --- |
+| Nijmegen  | € 101.592  | --- |
+| Oosterhout  | € 80.000  | --- |
+| Roosendaal  | € 123.542  | --- |
+| Rotterdam  | € 2.566.388  | --- |
+| Schiedam  | € 80.000  | --- |
+| ’s-Gravenhage  | € 1.743.835  | --- |
+| ’s-Hertogenbosch  | € 135.877  | --- |
+| Tilburg  | € 157.638  | --- |
+| Utrecht  | € 1.715.062  | --- |
+| Veenendaal  | € 93.116  | --- |
+| Zeist  | € 102.351  | --- |
+| Totaal  | € 12.400.000  | --- |
+
 ### Bijlage 29c-2 
 
 ####, genoemd in artikel 29c . Antillianengemeenten
@@ -2813,6 +3537,36 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zwolle  |  € 82.500  |
 |  *Totaal*   |  * € 4.485.000*   |
 
+###Bijlage 29c-4 
+
+####, genoemd in artikel 29c . Antillianengemeenten
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Almere  | € 220.000  | --- |
+| Amersfoort  | € 85.000  | --- |
+| Amsterdam  | € 522.500  | --- |
+| Breda  | € 115.000  | --- |
+| Capelle aan den IJssel  | € 92.500  | --- |
+| Den Helder  | € 87.500  | --- |
+| Dordrecht  | € 200.000  | --- |
+| Eindhoven  | € 137.500  | --- |
+| Groningen  | € 195.000  | --- |
+| Hellevoetsluis  | € 45.000  | --- |
+| Leeuwarden  | € 57.500  | --- |
+| Lelystad  | € 92.500  | --- |
+| Nijmegen  | € 107.500  | --- |
+| Rotterdam  | € 1.172.500  | --- |
+| Schiedam  | € 97.500  | --- |
+| ’s-Gravenhage  | € 570.000  | --- |
+| Spijkenisse  | € 95.000  | --- |
+| Tilburg  | € 257.500  | --- |
+| Vlaardingen  | € 82.500  | --- |
+| Vlissingen  | € 47.500  | --- |
+| Zoetermeer  | € 122.500  | --- |
+| Zwolle  | € 82.500  | --- |
+| Totaal  | € 4.485.000  | --- |
+
 ### Bijlage 29i-2 
 
 ####, genoemd in artikel 29i . Herbestemming aandachtswijken
@@ -2854,6 +3608,25 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zaanstad  |  € 25.000  |
 |  *Totaal*   |  * € 2.000.000*   |
 
+###Bijlage 29i-4 
+
+####, genoemd in artikel 29i . Herbestemming aandachtswijken
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Amsterdam  | € 131.112  | --- |
+| Arnhem  | € 22.500  | --- |
+| Deventer  | € 4.660  | --- |
+| Eindhoven  | € 19.000  | --- |
+| Enschede  | € 8.750  | --- |
+| Groningen  | € 20.000  | --- |
+| Heerlen  | € 19.000  | --- |
+| Rotterdam  | € 95.268  | --- |
+| ’s-Gravenhage  | € 40.375  | --- |
+| Utrecht  | € 30.430  | --- |
+| Zaanstad  | € 5.000  | --- |
+| Totaal  | € 396.095  | --- |
+
 ### Bijlage 29j-2 
 
 ####, genoemd in artikel 29j . Herstructurering bedrijventerreinen
@@ -2883,6 +3656,27 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | ’s-Hertogenbosch  |  € 690.000  |
 | Zwolle  |  € 5.000.000  |
 |  *Totaal*   |  *€ 14.482.000*   |
+
+###Bijlage 29j-4 
+
+####, genoemd in artikel 29j . Herstructurering bedrijventerreinen
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Beek  | € 271.000  | --- |
+| Breda  | € 661.000  | --- |
+| Eindhoven  | € 240.000  | --- |
+| Emmen  | € 250.000  | --- |
+| Etten-Leur  | € 252.779  | --- |
+| Hengelo O  | € 240.000  | --- |
+| Kampen  | € 275.000  | --- |
+| Nijmegen  | € 250.947  | --- |
+| Oss  | € 775.000  | --- |
+| Rijnwoude  | € 145.635  | --- |
+| Rotterdam  | € 952.802  | --- |
+| ’s-Hertogenbosch  | € 245.256  | --- |
+| Zaanstad  | € 384.000  | --- |
+| Totaal  | € 4.943.419  | --- |
 
 ### Bijlage 29k-2 
 
@@ -3437,113 +4231,386 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zwolle  |  € 205.400  |
 |  *Totaal*   |  * € 31.258.648*   |
 
-### Bijlage 29l-2 
+###Bijlage 29k-4 
 
-####, genoemd in artikel 29l . Innovatietrajecten inburgering
+####, genoemd in artikel 29k . Impuls brede scholen combinatiefuncties
 
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Alkmaar  | € 230.000  |
-| Almelo  | € 130.000  |
-| Leeuwarden  | € 260.000  |
-| Leiden  | € 230.000  |
-| Roermond  | € 120.000  |
-| Schiedam  | € 170.000  |
-| Utrecht  | € 210.000  |
-| Zoetermeer  | € 50.000  |
-|  *Totaal*   |  *€ 1.400.000*   |
-
-###Bijlage 29l-3 
-
-####, genoemd in artikel 29l . Innovatietrajecten inburgering
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Alkmaar  |  € 190.000  |
-| Almelo  |  € 101.200  |
-| Leeuwarden  |  € 216.100  |
-| Leiden  |  € 160.000  |
-| Roermond  |  € 72.500  |
-| Schiedam  |  € 135.000  |
-| Utrecht  |  € 156.000  |
-| Zoetermeer  |  € 20.200  |
-|  *Totaal*   |  * € 1.051.000*   |
-
-### Bijlage 29m-2 
-
-####, genoemd in artikel 29m . Jeugdwerkloosheid
-
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Alkmaar  | € 3.041.830  |
-| Almere  | € 1.962.787  |
-| Amersfoort  | € 1.209.578  |
-| Amsterdam  | € 4.369.907  |
-| Apeldoorn  | € 2.378.830  |
-| Arnhem  | € 2.063.978  |
-| Breda  | € 2.565.038  |
-| Doetinchem  | € 1.089.577  |
-| Dordrecht  | € 1.505.826  |
-| Eindhoven  | € 2.888.158  |
-| Emmen  | € 2.015.675  |
-| Enschede  | € 3.508.345  |
-| Goes  | € 1.384.645  |
-| Gouda  | € 741.382  |
-| Groningen  | € 3.512.155  |
-| Haarlem  | € 1.096.680  |
-| Heerlen  | € 2.735.991  |
-| Hilversum  | € 986.059  |
-| Leeuwarden  | € 2.929.618  |
-| Leiden  | € 2.049.630  |
-| Nijmegen  | € 1.178.071  |
-| Rotterdam  | € 6.355.718  |
-| ’s-Gravenhage  | € 3.658.787  |
-| ’s-Hertogenbosch  | € 3.017.110  |
-| Tiel  | € 983.594  |
-| Tilburg  | € 2.323.427  |
-| Utrecht  | € 3.625.401  |
-| Venlo  | € 1.975.908  |
-| Zaanstad  | € 1.273.263  |
-| Zwolle  | € 1.773.033  |
-|  *Totaal*   |  *€ 70.200.001*   |
-
-###Bijlage 29m-3 
-
-####, genoemd in artikel 29m . Jeugdwerkloosheid
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Alkmaar  |  € 1.013.717  |
-| Almere  |  € 490.030  |
-| Amersfoort  |  € 281.581  |
-| Amsterdam  |  € 1.560.075  |
-| Apeldoorn  |  € 1.053.460  |
-| Arnhem  |  € 671.776  |
-| Breda  |  € 882.468  |
-| Doetinchem  |  € 232.581  |
-| Dordrecht  |  € 645.938  |
-| Eindhoven  |  € 728.977  |
-| Emmen  |  € 624.604  |
-| Enschede  |  € 1.146.513  |
-| Goes  |  € 462.274  |
-| Gouda  |  € 157.024  |
-| Groningen  |  € 1.021.411  |
-| Haarlem  |  € 444.816  |
-| Heerlen  |  € 758.912  |
-| Hilversum  |  € 224.964  |
-| Leeuwarden  |  € 907.300  |
-| Leiden  |  € 649.821  |
-| Nijmegen  |  € 360.591  |
-| Rotterdam  |  € 2.286.584  |
-| ’s-Gravenhage  |  € 1.528.660  |
-| ’s-Hertogenbosch  |  € 865.821  |
-| Tiel  |  € 441.187  |
-| Tilburg  |  € 658.116  |
-| Utrecht  |  € 1.127.039  |
-| Venlo  |  € 863.758  |
-| Zaanstad  |  € 413.510  |
-| Zwolle  |  € 496.488  |
-|  *Totaal*   |  * € 22.999.996*   |
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Aa en Hunze  | € 87.120  | --- |
+| Aalburg  | € 52.560  | --- |
+| Aalsmeer  | € 88.080  | --- |
+| Achtkarspelen  | € 104.880  | --- |
+| Alblasserdam  | € 61.000  | --- |
+| Albrandswaard  | € 66.400  | --- |
+| Alkmaar  | € 308.160  | --- |
+| Almelo  | € 260.400  | --- |
+| Almere  | € 653.800  | --- |
+| Alphen aan den Rijn  | € 258.960  | --- |
+| Alphen-Chaam  | € 28.600  | --- |
+| Ameland  | € 24.000  | --- |
+| Amersfoort  | € 543.120  | --- |
+| Amsterdam  | € 1.845.600  | --- |
+| Apeldoorn  | € 536.640  | --- |
+| Appingedam  | € 38.160  | --- |
+| Arnhem  | € 442.560  | --- |
+| Assen  | € 241.200  | --- |
+| Asten  | € 51.600  | --- |
+| Baarle-Nassau  | € 15.800  | --- |
+| Baarn  | € 53.280  | --- |
+| Barendrecht  | € 145.000  | --- |
+| Barneveld  | € 228.480  | --- |
+| Bedum  | € 34.200  | --- |
+| Beek  | € 36.320  | --- |
+| Beemster  | € 25.600  | --- |
+| Beesel  | € 39.400  | --- |
+| Bellingwedde  | € 28.320  | --- |
+| Bergambacht  | € 25.120  | --- |
+| Bergeijk  | € 44.960  | --- |
+| Bergen L  | € 23.760  | --- |
+| Bergen NH  | € 81.400  | --- |
+| Bergen op Zoom  | € 183.600  | --- |
+| Berkelland  | € 162.480  | --- |
+| Bernheze  | € 57.480  | --- |
+| Bernisse  | € 36.000  | --- |
+| Best  | € 94.200  | --- |
+| Beuningen  | € 81.600  | --- |
+| Binnenmaas  | € 48.000  | --- |
+| Bladel  | € 59.000  | --- |
+| Bloemendaal  | € 67.400  | --- |
+| Boarnsterhim  | € 73.200  | --- |
+| Bodegraven-Reeuwijk  | € 106.000  | --- |
+| Boekel  | € 33.000  | --- |
+| Borger-Odoorn  | € 90.000  | --- |
+| Borne  | € 78.720  | --- |
+| Borsele  | € 88.080  | --- |
+| Boskoop  | € 30.240  | --- |
+| Boxmeer  | € 53.520  | --- |
+| Boxtel  | € 89.400  | --- |
+| Breda  | € 565.680  | --- |
+| Brielle  | € 27.000  | --- |
+| Bronckhorst  | € 134.400  | --- |
+| Brummen  | € 50.080  | --- |
+| Brunssum  | € 72.800  | --- |
+| Bunschoten  | € 40.920  | --- |
+| Capelle aan den IJssel  | € 186.600  | --- |
+| Castricum  | € 106.000  | --- |
+| Coevorden  | € 61.680  | --- |
+| Cranendonck  | € 67.440  | --- |
+| Cromstrijen  | € 37.200  | --- |
+| Cuijk  | € 88.560  | --- |
+| Culemborg  | € 91.800  | --- |
+| Dalfsen  | € 52.680  | --- |
+| Dantumadiel  | € 73.920  | --- |
+| De Bilt  | € 99.040  | --- |
+| De Ronde Venen  | € 166.800  | --- |
+| De Wolden  | € 86.640  | --- |
+| Delft  | € 262.560  | --- |
+| Delfzijl  | € 75.000  | --- |
+| Den Helder  | € 190.320  | --- |
+| Deurne  | € 95.200  | --- |
+| Deventer  | € 339.600  | --- |
+| Dinkelland  | € 106.080  | --- |
+| Dirksland  | € 27.600  | --- |
+| Doesburg  | € 35.200  | --- |
+| Doetinchem  | € 99.720  | --- |
+| Dongen  | € 90.480  | --- |
+| Dongeradeel  | € 78.000  | --- |
+| Dordrecht  | € 412.800  | --- |
+| Drechterland  | € 70.800  | --- |
+| Drimmelen  | € 76.800  | --- |
+| Dronten  | € 129.000  | --- |
+| Druten  | € 57.800  | --- |
+| Duiven  | € 107.220  | --- |
+| Echt-Susteren  | € 97.680  | --- |
+| Edam-Volendam  | € 108.480  | --- |
+| Ede  | € 209.040  | --- |
+| Eemsmond  | € 51.000  | --- |
+| Eersel  | € 54.400  | --- |
+| Eijsden-Margraten  | € 39.400  | --- |
+| Eindhoven  | € 622.560  | --- |
+| Elburg  | € 88.080  | --- |
+| Emmen  | € 366.480  | --- |
+| Enkhuizen  | € 61.440  | --- |
+| Enschede  | € 497.040  | --- |
+| Epe  | € 92.200  | --- |
+| Ermelo  | € 78.200  | --- |
+| Etten-Leur  | € 118.800  | --- |
+| Ferwerderadiel  | € 33.840  | --- |
+| Franekeradeel  | € 37.440  | --- |
+| Gaasterlan-Sleat  | € 37.920  | --- |
+| Geertruidenberg  | € 57.600  | --- |
+| Geldermalsen  | € 69.760  | --- |
+| Geldrop-Mierlo  | € 65.760  | --- |
+| Gemert-Bakel  | € 50.880  | --- |
+| Gennep  | € 46.600  | --- |
+| Giessenlanden  | € 46.800  | --- |
+| Gilze en Rijen  | € 91.200  | --- |
+| Goedereede  | € 35.200  | --- |
+| Goes  | € 121.920  | --- |
+| Goirle  | € 37.320  | --- |
+| Gorinchem  | € 120.720  | --- |
+| Gouda  | € 264.000  | --- |
+| Graafstroom  | € 30.240  | --- |
+| Graft-De Rijp  | € 16.960  | --- |
+| Grave  | € 39.000  | --- |
+| Groesbeek  | € 52.400  | --- |
+| Groningen  | € 445.680  | --- |
+| Grootegast  | € 33.600  | --- |
+| Gulpen-Wittem  | € 22.320  | --- |
+| Haarlem  | € 385.400  | --- |
+| Haarlemmermeer  | € 446.400  | --- |
+| Halderberge  | € 48.240  | --- |
+| Hardenberg  | € 231.360  | --- |
+| Harderwijk  | € 159.120  | --- |
+| Hardinxveld-Giessendam  | € 61.000  | --- |
+| Haren  | € 44.320  | --- |
+| Harenkarspel  | € 62.640  | --- |
+| Harlingen  | € 45.200  | --- |
+| Hattem  | € 36.200  | --- |
+| Heemskerk  | € 134.640  | --- |
+| Heemstede  | € 59.040  | --- |
+| Heerde  | € 64.080  | --- |
+| Heerenveen  | € 122.200  | --- |
+| Heerhugowaard  | € 160.400  | --- |
+| Heerlen  | € 257.280  | --- |
+| Heeze-Leende  | € 44.400  | --- |
+| Heiloo  | € 64.400  | --- |
+| Hellendoorn  | € 129.600  | --- |
+| Hellevoetsluis  | € 68.400  | --- |
+| Helmond  | € 317.520  | --- |
+| Hendrik-Ido-Ambacht  | € 102.960  | --- |
+| Hengelo O  | € 287.760  | --- |
+| Heusden  | € 79.560  | --- |
+| Hillegom  | € 57.400  | --- |
+| Hilvarenbeek  | € 49.000  | --- |
+| Hilversum  | € 135.600  | --- |
+| Hof van Twente  | € 124.800  | --- |
+| Hollands Kroon  | € 177.840  | --- |
+| Hoogeveen  | € 127.520  | --- |
+| Hoogezand-Sappemeer  | € 95.200  | --- |
+| Hoorn  | € 206.200  | --- |
+| Horst aan de Maas  | € 125.400  | --- |
+| Houten  | € 201.360  | --- |
+| Hulst  | € 90.960  | --- |
+| IJsselstein  | € 141.360  | --- |
+| Kaag en Braassem  | € 47.280  | --- |
+| Kampen  | € 199.920  | --- |
+| Kapelle  | € 48.240  | --- |
+| Katwijk  | € 241.680  | --- |
+| Koggenland  | € 84.240  | --- |
+| Krimpen aan den IJssel  | € 87.600  | --- |
+| Laarbeek  | € 65.200  | --- |
+| Landgraaf  | € 95.200  | --- |
+| Landsmeer  | € 17.880  | --- |
+| Langedijk  | € 86.600  | --- |
+| Lansingerland  | € 169.400  | --- |
+| Leek  | € 58.800  | --- |
+| Leerdam  | € 77.280  | --- |
+| Leeuwarden  | € 280.560  | --- |
+| Leiden  | € 284.600  | --- |
+| Leiderdorp  | € 48.720  | --- |
+| Leidschendam-Voorburg  | € 150.240  | --- |
+| Lelystad  | € 273.120  | --- |
+| Lemsterland  | € 49.920  | --- |
+| Leudal  | € 132.000  | --- |
+| Leusden  | € 89.000  | --- |
+| Liesveld  | € 27.840  | --- |
+| Lingewaal  | € 34.800  | --- |
+| Lingewaard  | € 137.400  | --- |
+| Lisse  | € 65.200  | --- |
+| Littenseradiel  | € 37.600  | --- |
+| Lochem  | € 111.120  | --- |
+| Loon op Zand  | € 67.000  | --- |
+| Lopik  | € 60.240  | --- |
+| Loppersum  | € 19.440  | --- |
+| Losser  | € 77.520  | --- |
+| Maasdonk  | € 22.440  | --- |
+| Maasgouw  | € 74.640  | --- |
+| Maassluis  | € 52.560  | --- |
+| Maastricht  | € 310.560  | --- |
+| Marum  | € 32.800  | --- |
+| Medemblik  | € 159.360  | --- |
+| Meerssen  | € 32.040  | --- |
+| Menterwolde  | € 36.600  | --- |
+| Meppel  | € 91.800  | --- |
+| Middelburg  | € 164.160  | --- |
+| Middelharnis  | € 53.400  | --- |
+| Midden Drenthe  | € 60.000  | --- |
+| Midden-Delfland  | € 60.400  | --- |
+| Mill en Sint Hubert  | € 40.080  | --- |
+| Moerdijk  | € 104.000  | --- |
+| Montferland  | € 102.800  | --- |
+| Montfoort U  | € 55.680  | --- |
+| Naarden  | € 57.400  | --- |
+| Neder-Betuwe  | € 102.000  | --- |
+| Nederlek  | € 43.200  | --- |
+| Nederweert  | € 59.040  | --- |
+| Neerijnen  | € 23.880  | --- |
+| Nieuwegein  | € 201.600  | --- |
+| Nieuwkoop  | € 50.760  | --- |
+| Nieuw-Lekkerland  | € 29.920  | --- |
+| Nijmegen  | € 461.760  | --- |
+| Noord-Beveland  | € 18.200  | --- |
+| Noordenveld  | € 90.600  | --- |
+| Noordoostpolder  | € 157.600  | --- |
+| Noordwijk  | € 64.400  | --- |
+| Noordwijkerhout  | € 27.120  | --- |
+| Nuenen c.a.  | € 83.040  | --- |
+| Nunspeet  | € 89.400  | --- |
+| Nuth  | € 39.800  | --- |
+| Oegstgeest  | € 41.520  | --- |
+| Oirschot  | € 33.480  | --- |
+| Oisterwijk  | € 78.000  | --- |
+| Oldambt  | € 103.800  | --- |
+| Oldebroek  | € 74.400  | --- |
+| Oldenzaal  | € 113.760  | --- |
+| Olst-Wijhe  | € 54.800  | --- |
+| Ommen  | € 41.120  | --- |
+| Oost Gelre  | € 113.760  | --- |
+| Oosterhout  | € 183.840  | --- |
+| Oostflakkee  | € 28.800  | --- |
+| Ooststellingwerf  | € 77.000  | --- |
+| Oostzaan  | € 34.560  | --- |
+| Opmeer  | € 45.360  | --- |
+| Opsterland  | € 93.000  | --- |
+| Oss  | € 296.880  | --- |
+| Oud-Beijerland  | € 91.440  | --- |
+| Ouder-Amstel  | € 47.040  | --- |
+| Ouderkerk  | € 16.080  | --- |
+| Oudewater  | € 19.320  | --- |
+| Papendrecht  | € 56.040  | --- |
+| Peel en Maas  | € 155.280  | --- |
+| Pekela  | € 29.920  | --- |
+| Pijnacker-Nootdorp  | € 158.600  | --- |
+| Purmerend  | € 230.800  | --- |
+| Putten  | € 76.000  | --- |
+| Raalte  | € 118.000  | --- |
+| Reimerswaal  | € 74.000  | --- |
+| Renkum  | € 102.720  | --- |
+| Reusel-De Mierden  | € 43.200  | --- |
+| Rheden  | € 134.640  | --- |
+| Rhenen  | € 57.800  | --- |
+| Ridderkerk  | € 135.120  | --- |
+| Rijnwoude  | € 34.680  | --- |
+| Rijssen-Holten  | € 155.520  | --- |
+| Rijswijk  | € 124.080  | --- |
+| Roerdalen  | € 64.080  | --- |
+| Roermond  | € 173.520  | --- |
+| Roosendaal  | € 220.000  | --- |
+| Rotterdam  | € 1.935.120  | --- |
+| Schagen (oud)  | € 64.320  | --- |
+| Scherpenzeel  | € 24.800  | --- |
+| Schiedam  | € 207.200  | --- |
+| Schiermonnikoog  | € 20.000  | --- |
+| Schijndel  | € 81.840  | --- |
+| Schinnen  | € 36.200  | --- |
+| Schoonhoven  | € 36.400  | --- |
+| Schouwen-Duiveland  | € 55.560  | --- |
+| ’s-Gravenhage  | € 1.577.280  | --- |
+| ’s-Hertogenbosch  | € 444.720  | --- |
+| Simpelveld  | € 34.320  | --- |
+| Sint-Anthonis  | € 46.320  | --- |
+| Sint-Michielsgestel  | € 51.720  | --- |
+| Sint-Oedenrode  | € 54.000  | --- |
+| Sittard-Geleen  | € 298.800  | --- |
+| Skarsterlan  | € 103.200  | --- |
+| Sliedrecht  | € 71.200  | --- |
+| Slochteren  | € 46.200  | --- |
+| Sluis  | € 71.520  | --- |
+| Smallingerland  | € 165.800  | --- |
+| Son en Breugel  | € 28.920  | --- |
+| Spijkenisse  | € 167.200  | --- |
+| Stadskanaal  | € 94.200  | --- |
+| Staphorst  | € 65.400  | --- |
+| Steenbergen  | € 78.960  | --- |
+| Steenwijkerland  | € 105.120  | --- |
+| Stein  | € 66.800  | --- |
+| Stichtse Vecht  | € 187.000  | --- |
+| Strijen  | € 27.000  | --- |
+| Sudwest Fryslan  | € 305.760  | --- |
+| Ten Boer  | € 29.760  | --- |
+| Terneuzen  | € 181.680  | --- |
+| Terschelling  | € 24.000  | --- |
+| Texel  | € 48.720  | --- |
+| Teylingen  | € 115.800  | --- |
+| Tholen  | € 102.480  | --- |
+| Tiel  | € 133.200  | --- |
+| Tilburg  | € 645.840  | --- |
+| Tubbergen  | € 89.760  | --- |
+| Twenterand  | € 131.040  | --- |
+| Tynaarlo  | € 111.120  | --- |
+| Tytsjerksteradiel  | € 117.600  | --- |
+| Ubbergen  | € 30.720  | --- |
+| Uden  | € 146.400  | --- |
+| Uithoorn  | € 67.840  | --- |
+| Urk  | € 105.120  | --- |
+| Utrecht  | € 864.960  | --- |
+| Utrechtse Heuvelrug  | € 143.400  | --- |
+| Vaals  | € 18.240  | --- |
+| Valkenburg aan de Geul  | € 40.000  | --- |
+| Valkenswaard  | € 82.400  | --- |
+| Veendam  | € 61.760  | --- |
+| Veenendaal  | € 124.200  | --- |
+| Veere  | € 65.000  | --- |
+| Veldhoven  | € 124.400  | --- |
+| Velsen  | € 163.040  | --- |
+| Venlo  | € 328.080  | --- |
+| Venray  | € 104.160  | --- |
+| Vianen  | € 73.200  | --- |
+| Vlaardingen  | € 224.400  | --- |
+| Vlagtwedde  | € 26.640  | --- |
+| Vlieland  | € 20.000  | --- |
+| Vlissingen  | € 138.480  | --- |
+| Vlist  | € 31.200  | --- |
+| Voerendaal  | € 40.080  | --- |
+| Voorschoten  | € 68.400  | --- |
+| Voorst  | € 80.880  | --- |
+| Vught  | € 45.840  | --- |
+| Waalre  | € 51.800  | --- |
+| Waalwijk  | € 153.600  | --- |
+| Waddinxveen  | € 80.400  | --- |
+| Wageningen  | € 48.840  | --- |
+| Wassenaar  | € 61.280  | --- |
+| Waterland  | € 39.840  | --- |
+| Weert  | € 160.080  | --- |
+| Weesp  | € 45.400  | --- |
+| Werkendam  | € 100.560  | --- |
+| West Maas en Waal  | € 64.800  | --- |
+| Westerveld  | € 51.800  | --- |
+| Westervoort  | € 59.040  | --- |
+| Westland  | € 189.120  | --- |
+| Weststellingwerf  | € 72.000  | --- |
+| Westvoorne  | € 38.200  | --- |
+| Wierden  | € 59.680  | --- |
+| Wijchen  | € 149.520  | --- |
+| Wijdemeren  | € 41.520  | --- |
+| Wijk bij Duurstede  | € 61.920  | --- |
+| Winsum  | € 45.400  | --- |
+| Winterswijk  | € 52.080  | --- |
+| Woensdrecht  | € 57.400  | --- |
+| Woerden  | € 188.160  | --- |
+| Wormerland  | € 48.400  | --- |
+| Woudenberg  | € 46.800  | --- |
+| Woudrichem  | € 44.800  | --- |
+| Zaanstad  | € 408.400  | --- |
+| Zaltbommel  | € 91.000  | --- |
+| Zandvoort  | € 38.400  | --- |
+| Zederik  | € 45.400  | --- |
+| Zeevang  | € 20.400  | --- |
+| Zeewolde  | € 96.480  | --- |
+| Zeist  | € 207.120  | --- |
+| Zevenaar  | € 52.680  | --- |
+| Zijpe  | € 41.760  | --- |
+| Zoetermeer  | € 425.760  | --- |
+| Zoeterwoude  | € 15.720  | --- |
+| Zuidhorn  | € 51.680  | --- |
+| Zuidplas  | € 161.760  | --- |
+| Zundert  | € 58.600  | --- |
+| Zwartewaterland  | € 84.600  | --- |
+| Zwijndrecht  | € 147.120  | --- |
+| Zwolle  | € 402.720  | --- |
+| Totaal  | € 47.231.940  | --- |
 
 ### Bijlage 29o-2 
 
@@ -3602,78 +4669,23 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zutphen  |  € 79.989  |
 |  *Totaal*   |  *€ 47.549.903*   |
 
-### Bijlage 29v 
+###Bijlage 29o-4 
 
-####, genoemd in artikel 29v . Arbeidsparticipatie alleenstaande ouders
+####, genoemd in artikel 29o . Spoorse doorsnijdingen
 
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Almere  | € 446.715  |
-| Amsterdam  | € 648.711  |
-| Bodegraven  | € 42.071  |
-| Breda  | € 165.939  |
-| De Marne  | € 20.000  |
-| Echt-Susteren  | € 32.529  |
-| Enschede  | € 247.236  |
-| Groningen  | € 223.576  |
-| Heerenveen  | € 107.471  |
-| Langedijk  | € 30.829  |
-| Nijmegen  | € 188.757  |
-| Oldambt  | € 132.892  |
-| Schiedam  | € 109.738  |
-| Vlaardingen  | € 52.754  |
-| Winsum  | € 20.000  |
-| Zwolle  | € 130.781  |
-|  *Totaal*   |  *€ 2.599.999*   |
-
-###Bijlage 29v-2 
-
-####, genoemd in artikel 29v . Arbeidsparticipatie alleenstaande ouders
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Almere  |  € 884.446  |
-| Amsterdam  |  € 913.816  |
-| Bodegraven-Reeuwijk  |  € 44.616  |
-| Breda  |  € 154.558  |
-| Echt-Susteren  |  € 57.963  |
-| Enschede  |  € 345.216  |
-| Groningen  |  € 508.438  |
-| Heerenveen  |  € 119.783  |
-| Nijmegen  |  € 454.474  |
-| Oldambt  |  € 100.144  |
-| Schiedam  |  € 122.584  |
-| Vlaardingen  |  € 44.887  |
-| Zwolle  |  € 149.074  |
-|  *Totaal*   |  * € 3.899.999*   |
-
-### Bijlage 29x 
-
-####, genoemd in artikel 29x . Emancipatie Duizend en één kracht
-
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Amsterdam  | € 150.000  |
-| Breda  | € 150.000  |
-| Nijmegen  | € 150.000  |
-| Rotterdam  | € 150.000  |
-| ’s-Gravenhage  | € 150.000  |
-| Utrecht  | € 150.000  |
-|  *Totaal*   |  *€ 900.000*   |
-
-###Bijlage 29x-2 
-
-####, genoemd in artikel 29x . Emancipatie Duizend en één kracht
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Amsterdam  |  € 150.000  |
-| Breda  |  € 150.000  |
-| Nijmegen  |  € 150.000  |
-| Rotterdam  |  € 150.000  |
-| ’s-Gravenhage  |  € 150.000  |
-| Utrecht  |  € 150.000  |
-|  *Totaal*   |  * € 900.000*   |
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Amsterdam  | € 2.000.000  | --- |
+| Gouda  | € 2.082.974  | --- |
+| Heerhugowaard  | € 2.541.690  | --- |
+| Heerlen  | € 1.000.000  | --- |
+| Maastricht  | € 104.980  | --- |
+| Nijkerk  | € 1.720.789  | --- |
+| Nijmegen  | € 664.959  | --- |
+| ’s-Hertogenbosch  | € 1.499.627  | --- |
+| Zutphen  | € 79.989  | --- |
+| Zwijndrecht  | € 227.200  | --- |
+| Totaal  | € 11.922.208  | --- |
 
 ### Bijlage 29ij 
 
@@ -3752,6 +4764,45 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zaanstad  |  € 87.575  |
 | Zwolle  |  € 34.353  |
 |  *Totaal*   |  * € 5.022.740*   |
+
+###Bijlage 29y-3 
+
+####, genoemd in artikel 29y . Gezond in de stad
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Alkmaar  | € 40.643  | --- |
+| Almelo  | € 48.868  | --- |
+| Amersfoort  | € 68.705  | --- |
+| Amsterdam  | € 1.115.251  | --- |
+| Arnhem  | € 110.315  | --- |
+| Breda  | € 74.027  | --- |
+| Deventer  | € 51.287  | --- |
+| Dordrecht  | € 108.864  | --- |
+| Eindhoven  | € 126.766  | --- |
+| Emmen  | € 29.514  | --- |
+| Enschede  | € 101.123  | --- |
+| Groningen  | € 46.932  | --- |
+| Haarlem  | € 79.350  | --- |
+| Heerlen  | € 41.610  | --- |
+| Helmond  | € 60.480  | --- |
+| Hengelo O  | € 24.676  | --- |
+| Leeuwarden  | € 35.804  | --- |
+| Leiden  | € 62.415  | --- |
+| Lelystad  | € 49.835  | --- |
+| Maastricht  | € 41.126  | --- |
+| Nijmegen  | € 76.931  | --- |
+| Rotterdam  | € 1.162.183  | --- |
+| Schiedam  | € 106.929  | --- |
+| ’s-Gravenhage  | € 688.504  | --- |
+| ’s-Hertogenbosch  | € 63.383  | --- |
+| Sittard-Geleen  | € 22.740  | --- |
+| Tilburg  | € 126.282  | --- |
+| Utrecht  | € 277.724  | --- |
+| Venlo  | € 58.545  | --- |
+| Zaanstad  | € 87.575  | --- |
+| Zwolle  | € 34.353  | --- |
+| Totaal  | € 5.022.740  | --- |
 
 ### Bijlage 29dd 
 
@@ -3839,102 +4890,48 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zwolle  |  € 207.412  |
 |  *Totaal*   |  * € 21.700.000*   |
 
-### Bijlage 29ee 
+###Bijlage 29dd-3 
 
-####, genoemd in artikel 29ee . Leefbaarheid en veiligheid
+####, genoemd in artikel 29dd . Jeugd
 
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Alkmaar  | € 1.098.614  |
-| Almelo  | € 920.495  |
-| Almere  | € 2.044.439  |
-| Amersfoort  | € 1.663.369  |
-| Amsterdam  | € 15.265.839  |
-| Apeldoorn  | € 1.012.657  |
-| Arnhem  | € 1.969.989  |
-| Breda  | € 1.918.218  |
-| Culemborg  | € 344.642  |
-| Deventer  | € 1.092.552  |
-| Dordrecht  | € 1.851.051  |
-| Ede  | € 710.858  |
-| Eindhoven  | € 2.589.474  |
-| Emmen  | € 1.009.906  |
-| Enschede  | € 1.992.137  |
-| Gouda  | € 851.699  |
-| Groningen  | € 2.164.395  |
-| Haarlem  | € 1.671.075  |
-| Haarlemmermeer  | € 1.014.369  |
-| Heerlen  | € 1.053.937  |
-| Helmond  | € 994.479  |
-| Hengelo O  | € 886.739  |
-| Leeuwarden  | € 1.050.563  |
-| Leiden  | € 1.500.764  |
-| Lelystad  | € 1.025.294  |
-| Maastricht  | € 1.286.416  |
-| Nijmegen  | € 1.811.247  |
-| Rotterdam  | € 13.705.745  |
-| Schiedam  | € 1.236.518  |
-| ’s-Gravenhage  | € 8.997.985  |
-| ’s-Hertogenbosch  | € 1.574.702  |
-| Sittard-Geleen  | € 1.016.763  |
-| Tilburg  | € 2.639.020  |
-| Utrecht  | € 4.203.717  |
-| Veenendaal  | € 435.958  |
-| Venlo  | € 988.841  |
-| Zaanstad  | € 1.693.082  |
-| Zaltbommel  | € 100.000  |
-| Zeist  | € 434.807  |
-| Zoetermeer  | € 1.028.535  |
-| Zwolle  | € 1.255.113  |
-|  *Totaal*   |  *€ 90.106.003*   |
-
-###Bijlage 29ee-2 
-
-####, genoemd in artikel 29ee . Leefbaarheid en veiligheid
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Alkmaar  |  € 770.759  |
-| Almelo  |  € 629.796  |
-| Almere  |  € 2.029.465  |
-| Amersfoort  |  € 1.133.280  |
-| Amsterdam  |  € 10.429.124  |
-| Apeldoorn  |  € 1.005.240  |
-| Arnhem  |  € 1.349.687  |
-| Breda  |  € 1.320.310  |
-| Culemborg  |  € 193.216  |
-| Deventer  |  € 739.882  |
-| Dordrecht  |  € 1.328.595  |
-| Ede  |  € 705.651  |
-| Eindhoven  |  € 1.781.684  |
-| Emmen  |  € 683.258  |
-| Enschede  |  € 1.387.225  |
-| Gouda  |  € 847.659  |
-| Groningen  |  € 1.514.734  |
-| Haarlem  |  € 1.147.202  |
-| Haarlemmermeer  |  € 1.006.940  |
-| Heerlen  |  € 736.283  |
-| Helmond  |  € 669.996  |
-| Hengelo O  |  € 611.033  |
-| Leeuwarden  |  € 735.926  |
-| Leiden  |  € 1.074.504  |
-| Lelystad  |  € 701.603  |
-| Maastricht  |  € 931.843  |
-| Nijmegen  |  € 1.225.110  |
-| Rotterdam  |  € 9.481.492  |
-| Schiedam  |  € 859.941  |
-| ’s-Gravenhage  |  € 6.049.136  |
-| ’s-Hertogenbosch  |  € 1.083.364  |
-| Sittard-Geleen  |  € 724.620  |
-| Tilburg  |  € 1.814.357  |
-| Utrecht  |  € 2.806.418  |
-| Veenendaal  |  € 432.765  |
-| Venlo  |  € 647.941  |
-| Zaanstad  |  € 1.131.777  |
-| Zeist  |  € 431.622  |
-| Zoetermeer  |  € 1.021.002  |
-| Zwolle  |  € 865.558  |
-|  *Totaal*   |  * € 64.039.998*   |
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Alkmaar  | € 165.775  | --- |
+| Almelo  | € 296.468  | --- |
+| Almere  | € 457.617  | --- |
+| Amersfoort  | € 128.380  | --- |
+| Amsterdam  | € 4.209.153  | --- |
+| Apeldoorn  | € 75.177  | --- |
+| Arnhem  | € 565.178  | --- |
+| Breda  | € 436.799  | --- |
+| Deventer  | € 235.941  | --- |
+| Dordrecht  | € 525.469  | --- |
+| Ede  | € 58.600  | --- |
+| Eindhoven  | € 422.920  | --- |
+| Emmen  | € 82.888  | --- |
+| Enschede  | € 793.023  | --- |
+| Groningen  | € 553.998  | --- |
+| Haarlem  | € 313.817  | --- |
+| Heerlen  | € 277.192  | --- |
+| Helmond  | € 264.084  | --- |
+| Hengelo O  | € 74.792  | --- |
+| Leeuwarden  | € 142.644  | --- |
+| Leiden  | € 213.580  | --- |
+| Lelystad  | € 463.015  | --- |
+| Maastricht  | € 230.543  | --- |
+| Nijmegen  | € 605.273  | --- |
+| Rotterdam  | € 8.207.313  | --- |
+| Schiedam  | € 316.901  | --- |
+| ’s-Gravenhage  | € 2.139.274  | --- |
+| ’s-Hertogenbosch  | € 340.803  | --- |
+| Sittard-Geleen  | € 176.185  | --- |
+| Tilburg  | € 826.949  | --- |
+| Utrecht  | € 907.524  | --- |
+| Venlo  | € 424.462  | --- |
+| Zaanstad  | € 256.374  | --- |
+| Zoetermeer  | € 104.477  | --- |
+| Zwolle  | € 207.412  | --- |
+| Totaal  | € 25.500.000  | --- |
 
 ### Bijlage 29ii 
 
@@ -3979,6 +4976,28 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Vlaardingen  |  € 50.000  |
 | Zoetermeer  |  € 50.000  |
 |  *Totaal*   |  * € 699.000*   |
+
+###Bijlage 29ii-3 
+
+####, genoemd in artikel 29ii . Vadercentra
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Amersfoort  | € 50.000  | --- |
+| Breda  | € 50.000  | --- |
+| Deventer  | € 50.000  | --- |
+| Eindhoven  | € 50.000  | --- |
+| Groningen  | € 50.000  | --- |
+| Haarlem  | € 50.000  | --- |
+| Leeuwarden  | € 50.000  | --- |
+| Leidschendam-Voorburg  | € 50.000  | --- |
+| Nijmegen  | € 50.000  | --- |
+| Oosterhout  | € 50.000  | --- |
+| ’s-Gravenhage  | € 50.000  | --- |
+| Tilburg  | € 50.000  | --- |
+| Vlaardingen  | € 50.000  | --- |
+| Zoetermeer  | € 50.000  | --- |
+| Totaal  | € 700.000  | --- |
 
 ### Bijlage 29jj 
 
@@ -4845,6 +5864,429 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zwolle  |  € 210.337,18  |
 |  *Totaal*   |  * € 35.000.001,62*   |
 
+###Bijlage 29jj-3 
+
+####, genoemd in artikel 29jj . Versterking peuterspeelzaalwerk
+
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Aa en Hunze  | 115.699,70  | --- |
+| Aalburg  | 40.977,78  | --- |
+| Aalsmeer  | 50.616,54  | --- |
+| Aalten  | 69.067,38  | --- |
+| Achtkarspelen  | 80.948,56  | --- |
+| Alblasserdam  | 36.196,74  | --- |
+| Albrandswaard  | 43.541,68  | --- |
+| Alkmaar  | 146.371,84  | --- |
+| Almelo  | 133.267,10  | --- |
+| Almere  | 382.334,48  | --- |
+| Alphen aan den Rijn  | 131.971,46  | --- |
+| Alphen-Chaam  | 36.918,96  | --- |
+| Ameland  | 18.297,72  | --- |
+| Amersfoort  | 266.348,36  | --- |
+| Amstelveen  | 128.976,56  | --- |
+| Amsterdam  | 1.084.404,82  | --- |
+| Apeldoorn  | 309.683,84  | --- |
+| Appingedam  | 21.508,42  | --- |
+| Arnhem  | 223.217,46  | --- |
+| Assen  | 124.457,96  | --- |
+| Asten  | 38.690,38  | --- |
+| Baarle-Nassau  | 25.111,04  | --- |
+| Baarn  | 45.436,80  | --- |
+| Barendrecht  | 90.266,06  | --- |
+| Barneveld  | 144.373,62  | --- |
+| Bedum  | 27.986,64  | --- |
+| Beek  | 32.021,16  | --- |
+| Beemster  | 28.031,20  | --- |
+| Beesel  | 27.967,70  | --- |
+| Bellingwedde  | 46.283,94  | --- |
+| Bergambacht  | 27.526,84  | --- |
+| Bergeijk  | 56.271,14  | --- |
+| Bergen L  | 50.910,82  | --- |
+| Bergen NH  | 66.143,00  | --- |
+| Bergen op Zoom  | 120.177,06  | --- |
+| Berkelland  | 129.284,92  | --- |
+| Bernheze  | 73.478,62  | --- |
+| Bernisse  | 35.495,56  | --- |
+| Best  | 58.355,86  | --- |
+| Beuningen  | 59.217,04  | --- |
+| Beverwijk  | 62.448,58  | --- |
+| Binnenmaas  | 68.244,04  | --- |
+| Bladel  | 51.479,66  | --- |
+| Blaricum  | 19.778,20  | --- |
+| Bloemendaal  | 47.398,54  | --- |
+| Boarnsterhim  | 70.506,98  | --- |
+| Bodegraven-Reeuwijk  | 91.753,76  | --- |
+| Boekel  | 28.575,62  | --- |
+| Borger-Odoorn  | 125.269,46  | --- |
+| Borne  | 43.415,90  | --- |
+| Borsele  | 86.745,60  | --- |
+| Boskoop  | 35.675,16  | --- |
+| Boxmeer  | 78.628,90  | --- |
+| Boxtel  | 61.529,16  | --- |
+| Breda  | 284.860,58  | --- |
+| Brielle  | 34.023,52  | --- |
+| Bronckhorst  | 123.692,86  | --- |
+| Brummen  | 53.075,46  | --- |
+| Brunssum  | 44.000,28  | --- |
+| Bunnik  | 33.273,70  | --- |
+| Bunschoten  | 44.279,98  | --- |
+| Buren  | 88.088,50  | --- |
+| Bussum  | 54.254,96  | --- |
+| Capelle aan den IJssel  | 106.222,76  | --- |
+| Castricum  | 71.241,32  | --- |
+| Coevorden  | 130.679,94  | --- |
+| Cranendonck  | 52.104,56  | --- |
+| Cromstrijen  | 34.081,14  | --- |
+| Cuijk  | 54.039,68  | --- |
+| Culemborg  | 54.672,58  | --- |
+| Dalfsen  | 81.880,02  | --- |
+| Dantumadiel  | 57.840,12  | --- |
+| De Bilt  | 90.534,64  | --- |
+| De Marne  | 60.906,12  | --- |
+| De Ronde Venen  | 121.591,16  | --- |
+| De Wolden  | 98.179,14  | --- |
+| Delft  | 135.530,16  | --- |
+| Delfzijl  | 73.204,64  | --- |
+| Den Helder  | 98.457,08  | --- |
+| Deurne  | 74.496,74  | --- |
+| Deventer  | 181.035,04  | --- |
+| Diemen  | 40.685,38  | --- |
+| Dinkelland  | 83.233,00  | --- |
+| Dirksland  | 25.732,38  | --- |
+| Doesburg  | 21.561,84  | --- |
+| Doetinchem  | 108.949,84  | --- |
+| Dongen  | 51.132,74  | --- |
+| Dongeradeel  | 95.222,36  | --- |
+| Dordrecht  | 199.100,92  | --- |
+| Drechterland  | 53.900,72  | --- |
+| Drimmelen  | 63.963,78  | --- |
+| Dronten  | 116.045,96  | --- |
+| Druten  | 43.825,34  | --- |
+| Duiven  | 58.382,28  | --- |
+| Echt-Susteren  | 73.538,48  | --- |
+| Edam-Volendam  | 52.625,66  | --- |
+| Ede  | 261.460,28  | --- |
+| Eemnes  | 23.202,92  | --- |
+| Eemsmond  | 67.600,64  | --- |
+| Eersel  | 55.150,70  | --- |
+| Eijsden-Margraten  | 71.982,42  | --- |
+| Eindhoven  | 306.221,68  | --- |
+| Elburg  | 55.355,50  | --- |
+| Emmen  | 253.443,00  | --- |
+| Enkhuizen  | 31.157,60  | --- |
+| Enschede  | 264.170,36  | --- |
+| Epe  | 88.771,54  | --- |
+| Ermelo  | 60.841,56  | --- |
+| Etten-Leur  | 73.910,64  | --- |
+| Ferwerderadiel  | 37.297,88  | --- |
+| Franekeradeel  | 63.099,58  | --- |
+| Gaasterlan-Sleat  | 50.656,82  | --- |
+| Geertruidenberg  | 37.624,38  | --- |
+| Geldermalsen  | 68.141,26  | --- |
+| Geldrop-Mierlo  | 66.468,36  | --- |
+| Gemert-Bakel  | 73.015,96  | --- |
+| Gennep  | 42.194,64  | --- |
+| Giessenlanden  | 49.193,26  | --- |
+| Gilze en Rijen  | 56.792,52  | --- |
+| Goedereede  | 40.242,20  | --- |
+| Goes  | 75.378,42  | --- |
+| Goirle  | 42.615,72  | --- |
+| Gorinchem  | 58.860,92  | --- |
+| Gouda  | 124.465,38  | --- |
+| Graafstroom  | 44.608,68  | --- |
+| Graft-De Rijp  | 20.105,42  | --- |
+| Grave  | 28.716,58  | --- |
+| Groesbeek  | 45.153,16  | --- |
+| Groningen  | 255.221,98  | --- |
+| Grootegast  | 47.265,42  | --- |
+| Gulpen-Wittem  | 61.474,76  | --- |
+| Haaksbergen  | 60.810,58  | --- |
+| Haaren  | 39.816,84  | --- |
+| Haarlem  | 219.919,66  | --- |
+| Haarlemmerliede Spaarnw  | 18.101,02  | --- |
+| Haarlemmermeer  | 315.063,54  | --- |
+| Halderberge  | 67.942,36  | --- |
+| Hardenberg  | 173.754,02  | --- |
+| Harderwijk  | 81.514,70  | --- |
+| Hardinxveld-Giessendam  | 38.438,76  | --- |
+| Haren  | 41.495,74  | --- |
+| Harenkarspel  | 52.813,76  | --- |
+| Harlingen  | 30.664,16  | --- |
+| Hattem  | 25.850,14  | --- |
+| Heemskerk  | 70.178,40  | --- |
+| Heemstede  | 44.822,02  | --- |
+| Heerde  | 51.077,34  | --- |
+| Heerenveen  | 114.505,32  | --- |
+| Heerhugowaard  | 99.638,62  | --- |
+| Heerlen  | 127.765,90  | --- |
+| Heeze-Leende  | 45.156,30  | --- |
+| Heiloo  | 40.295,54  | --- |
+| Hellendoorn  | 85.995,98  | --- |
+| Hellevoetsluis  | 69.476,36  | --- |
+| Helmond  | 152.487,56  | --- |
+| Hendrik-Ido-Ambacht  | 49.846,50  | --- |
+| Hengelo O  | 140.588,76  | --- |
+| Het Bildt  | 43.781,06  | --- |
+| Heumen  | 40.063,16  | --- |
+| Heusden  | 87.646,84  | --- |
+| Hillegom  | 36.383,36  | --- |
+| Hilvarenbeek  | 46.421,44  | --- |
+| Hilversum  | 135.975,34  | --- |
+| Hof van Twente  | 92.293,10  | --- |
+| Hollands Kroon  | 165.281,42  | --- |
+| Hoogeveen  | 128.434,40  | --- |
+| Hoogezand-Sappemeer  | 68.036,38  | --- |
+| Hoorn  | 117.909,44  | --- |
+| Horst aan de Maas  | 96.862,34  | --- |
+| Houten  | 114.376,04  | --- |
+| Huizen  | 80.158,68  | --- |
+| Hulst  | 90.169,72  | --- |
+| IJsselstein  | 67.180,16  | --- |
+| Kaag en Braassem  | 73.241,62  | --- |
+| Kampen  | 119.998,70  | --- |
+| Kapelle  | 32.425,98  | --- |
+| Katwijk  | 119.412,42  | --- |
+| Kerkrade  | 64.261,14  | --- |
+| Koggenland  | 77.546,58  | --- |
+| Kollumerland en Nwkruisl  | 52.602,98  | --- |
+| Korendijk  | 38.548,70  | --- |
+| Krimpen aan den IJssel  | 50.526,00  | --- |
+| Laarbeek  | 50.264,46  | --- |
+| Landerd  | 41.159,72  | --- |
+| Landgraaf  | 57.525,84  | --- |
+| Landsmeer  | 28.579,66  | --- |
+| Langedijk  | 54.883,50  | --- |
+| Lansingerland  | 110.771,86  | --- |
+| Laren  | 18.634,52  | --- |
+| Leek  | 47.673,64  | --- |
+| Leerdam  | 45.575,94  | --- |
+| Leeuwarden  | 150.748,26  | --- |
+| Leeuwarderadeel  | 29.501,80  | --- |
+| Leiden  | 169.446,48  | --- |
+| Leiderdorp  | 48.994,98  | --- |
+| Leidschendam-Voorburg  | 109.507,46  | --- |
+| Lelystad  | 156.033,42  | --- |
+| Lemsterland  | 42.288,60  | --- |
+| Leudal  | 101.315,82  | --- |
+| Leusden  | 64.777,00  | --- |
+| Liesveld  | 31.670,64  | --- |
+| Lingewaal  | 37.842,98  | --- |
+| Lingewaard  | 88.754,48  | --- |
+| Lisse  | 42.493,30  | --- |
+| Littenseradiel  | 72.699,66  | --- |
+| Lochem  | 103.297,92  | --- |
+| Loon op Zand  | 48.878,90  | --- |
+| Lopik  | 62.160,24  | --- |
+| Loppersum  | 54.572,52  | --- |
+| Losser  | 56.018,46  | --- |
+| Maasdonk  | 34.395,42  | --- |
+| Maasdriel  | 68.411,10  | --- |
+| Maasgouw  | 52.840,34  | --- |
+| Maassluis  | 50.443,54  | --- |
+| Maastricht  | 162.732,66  | --- |
+| Marum  | 36.736,56  | --- |
+| Medemblik  | 122.569,06  | --- |
+| Meerssen  | 43.747,92  | --- |
+| Menameradiel  | 48.074,88  | --- |
+| Menterwolde  | 38.180,60  | --- |
+| Meppel  | 65.572,66  | --- |
+| Middelburg  | 87.681,82  | --- |
+| Middelharnis  | 42.067,74  | --- |
+| Midden Drenthe  | 140.817,98  | --- |
+| Midden-Delfland  | 51.387,74  | --- |
+| Mill en Sint Hubert  | 33.893,32  | --- |
+| Millingen aan de Rijn  | 12.368,10  | --- |
+| Moerdijk  | 107.874,40  | --- |
+| Montferland  | 85.383,96  | --- |
+| Montfoort U  | 36.060,22  | --- |
+| Mook en Middelaar  | 21.840,10  | --- |
+| Muiden  | 17.860,12  | --- |
+| Naarden  | 36.645,90  | --- |
+| Neder-Betuwe  | 71.291,30  | --- |
+| Nederlek  | 36.431,26  | --- |
+| Nederweert  | 47.254,02  | --- |
+| Neerijnen  | 47.159,50  | --- |
+| Nieuwegein  | 96.713,98  | --- |
+| Nieuwkoop  | 83.205,38  | --- |
+| Nieuw-Lekkerland  | 26.816,20  | --- |
+| Nijkerk  | 92.019,00  | --- |
+| Nijmegen  | 237.659,70  | --- |
+| Noord-Beveland  | 40.890,74  | --- |
+| Noordenveld  | 97.111,58  | --- |
+| Noordoostpolder  | 155.268,24  | --- |
+| Noordwijk  | 46.597,52  | --- |
+| Noordwijkerhout  | 39.071,22  | --- |
+| Nuenen c.a.  | 46.033,62  | --- |
+| Nunspeet  | 79.342,96  | --- |
+| Nuth  | 33.724,70  | --- |
+| Oegstgeest  | 41.049,90  | --- |
+| Oirschot  | 49.544,36  | --- |
+| Oisterwijk  | 52.383,32  | --- |
+| Oldambt  | 114.785,02  | --- |
+| Oldebroek  | 63.464,60  | --- |
+| Oldenzaal  | 55.636,48  | --- |
+| Olst-Wijhe  | 56.995,22  | --- |
+| Ommen  | 73.988,96  | --- |
+| Onderbanken  | 21.162,00  | --- |
+| Oost Gelre  | 74.669,30  | --- |
+| Oosterhout  | 102.410,40  | --- |
+| Oostflakkee  | 33.901,28  | --- |
+| Ooststellingwerf  | 92.011,70  | --- |
+| Oostzaan  | 21.789,70  | --- |
+| Opmeer  | 38.435,44  | --- |
+| Opsterland  | 110.058,92  | --- |
+| Oss  | 177.046,08  | --- |
+| Oud-Beijerland  | 46.699,96  | --- |
+| Oude IJsselstreek  | 96.867,42  | --- |
+| Ouder-Amstel  | 29.005,44  | --- |
+| Ouderkerk  | 27.600,36  | --- |
+| Oudewater  | 26.662,68  | --- |
+| Overbetuwe  | 111.411,22  | --- |
+| Papendrecht  | 53.902,10  | --- |
+| Peel en Maas  | 107.907,62  | --- |
+| Pekela  | 32.150,92  | --- |
+| Pijnacker-Nootdorp  | 104.953,76  | --- |
+| Purmerend  | 131.519,78  | --- |
+| Putten  | 64.269,98  | --- |
+| Raalte  | 98.697,18  | --- |
+| Reimerswaal  | 68.653,04  | --- |
+| Renkum  | 59.989,48  | --- |
+| Renswoude  | 12.690,50  | --- |
+| Reusel-De Mierden  | 38.217,38  | --- |
+| Rheden  | 83.854,34  | --- |
+| Rhenen  | 48.400,04  | --- |
+| Ridderkerk  | 70.112,86  | --- |
+| Rijnwaarden  | 31.695,04  | --- |
+| Rijnwoude  | 52.894,80  | --- |
+| Rijssen-Holten  | 94.230,26  | --- |
+| Rijswijk  | 60.770,96  | --- |
+| Roerdalen  | 57.045,72  | --- |
+| Roermond  | 98.034,80  | --- |
+| Roosendaal  | 148.517,40  | --- |
+| Rotterdam  | 938.711,88  | --- |
+| Rozendaal  | 7.044,10  | --- |
+| Rucphen  | 44.574,40  | --- |
+| Schagen (oud)  | 32.673,18  | --- |
+| Schermer  | 29.320,20  | --- |
+| Scherpenzeel  | 20.175,38  | --- |
+| Schiedam  | 119.798,50  | --- |
+| Schiermonnikoog  | 9.172,82  | --- |
+| Schijndel  | 45.028,54  | --- |
+| Schinnen  | 27.179,98  | --- |
+| Schoonhoven  | 22.521,42  | --- |
+| Schouwen-Duiveland  | 111.333,48  | --- |
+| ’s-Gravenhage  | 747.538,60  | --- |
+| ’s-Hertogenbosch  | 221.562,86  | --- |
+| Simpelveld  | 20.457,44  | --- |
+| Sint-Anthonis  | 41.478,82  | --- |
+| Sint-Michielsgestel  | 63.934,70  | --- |
+| Sint-Oedenrode  | 44.324,84  | --- |
+| Sittard-Geleen  | 150.762,40  | --- |
+| Skarsterlan  | 103.643,62  | --- |
+| Sliedrecht  | 42.314,74  | --- |
+| Slochteren  | 63.551,04  | --- |
+| Sluis  | 98.057,46  | --- |
+| Smallingerland  | 118.273,42  | --- |
+| Soest  | 87.344,58  | --- |
+| Someren  | 46.590,14  | --- |
+| Son en Breugel  | 34.065,68  | --- |
+| Spijkenisse  | 118.990,70  | --- |
+| Stadskanaal  | 87.291,66  | --- |
+| Staphorst  | 60.015,58  | --- |
+| Stede Broec  | 40.360,12  | --- |
+| Steenbergen  | 64.156,04  | --- |
+| Steenwijkerland  | 153.233,72  | --- |
+| Stein  | 43.440,76  | --- |
+| Stichtse Vecht  | 149.549,26  | --- |
+| Strijen  | 28.337,30  | --- |
+| Sudwest Fryslan  | 270.451,06  | --- |
+| Ten Boer  | 30.247,80  | --- |
+| Terneuzen  | 148.576,98  | --- |
+| Terschelling  | 32.352,02  | --- |
+| Texel  | 75.455,64  | --- |
+| Teylingen  | 81.927,28  | --- |
+| Tholen  | 80.502,72  | --- |
+| Tiel  | 80.684,66  | --- |
+| Tilburg  | 325.224,10  | --- |
+| Tubbergen  | 74.419,02  | --- |
+| Twenterand  | 87.812,76  | --- |
+| Tynaarlo  | 98.429,42  | --- |
+| Tytsjerksteradiel  | 105.960,62  | --- |
+| Ubbergen  | 27.442,80  | --- |
+| Uden  | 78.361,68  | --- |
+| Uitgeest  | 25.703,26  | --- |
+| Uithoorn  | 50.205,04  | --- |
+| Urk  | 51.646,52  | --- |
+| Utrecht  | 446.855,20  | --- |
+| Utrechtse Heuvelrug  | 118.050,80  | --- |
+| Vaals  | 24.756,32  | --- |
+| Valkenburg aan de Geul  | 35.933,08  | --- |
+| Valkenswaard  | 55.818,96  | --- |
+| Veendam  | 58.539,88  | --- |
+| Veenendaal  | 118.637,48  | --- |
+| Veere  | 78.059,26  | --- |
+| Veghel  | 88.094,24  | --- |
+| Veldhoven  | 74.350,22  | --- |
+| Velsen  | 126.106,28  | --- |
+| Venlo  | 189.062,90  | --- |
+| Venray  | 122.308,90  | --- |
+| Vianen  | 44.241,92  | --- |
+| Vlaardingen  | 106.834,06  | --- |
+| Vlagtwedde  | 64.779,20  | --- |
+| Vlieland  | 10.579,80  | --- |
+| Vlissingen  | 72.108,96  | --- |
+| Vlist  | 34.811,66  | --- |
+| Voerendaal  | 31.306,16  | --- |
+| Voorschoten  | 40.482,30  | --- |
+| Voorst  | 77.315,44  | --- |
+| Vught  | 50.871,30  | --- |
+| Waalre  | 32.108,52  | --- |
+| Waalwijk  | 83.697,72  | --- |
+| Waddinxveen  | 50.177,78  | --- |
+| Wageningen  | 55.743,30  | --- |
+| Wassenaar  | 52.587,24  | --- |
+| Waterland  | 49.221,24  | --- |
+| Weert  | 91.947,16  | --- |
+| Weesp  | 32.532,76  | --- |
+| Werkendam  | 73.967,76  | --- |
+| West Maas en Waal  | 54.659,84  | --- |
+| Westerveld  | 103.046,82  | --- |
+| Westervoort  | 29.280,02  | --- |
+| Westland  | 191.059,30  | --- |
+| Weststellingwerf  | 94.770,30  | --- |
+| Westvoorne  | 34.983,22  | --- |
+| Wierden  | 59.290,26  | --- |
+| Wijchen  | 86.758,44  | --- |
+| Wijdemeren  | 62.526,26  | --- |
+| Wijk bij Duurstede  | 52.357,68  | --- |
+| Winsum  | 50.361,22  | --- |
+| Winterswijk  | 76.595,14  | --- |
+| Woensdrecht  | 51.280,32  | --- |
+| Woerden  | 110.894,06  | --- |
+| Wormerland  | 37.175,08  | --- |
+| Woudenberg  | 27.298,50  | --- |
+| Woudrichem  | 43.551,08  | --- |
+| Zaanstad  | 246.645,86  | --- |
+| Zaltbommel  | 76.295,10  | --- |
+| Zandvoort  | 28.163,72  | --- |
+| Zederik  | 51.065,94  | --- |
+| Zeevang  | 33.601,90  | --- |
+| Zeewolde  | 75.659,28  | --- |
+| Zeist  | 113.633,92  | --- |
+| Zevenaar  | 66.892,26  | --- |
+| Zijpe  | 48.985,00  | --- |
+| Zoetermeer  | 205.496,70  | --- |
+| Zoeterwoude  | 24.965,88  | --- |
+| Zuidhorn  | 69.774,14  | --- |
+| Zuidplas  | 97.967,60  | --- |
+| Zundert  | 52.673,40  | --- |
+| Zutphen  | 83.056,78  | --- |
+| Zwartewaterland  | 60.979,54  | --- |
+| Zwijndrecht  | 74.629,80  | --- |
+| Zwolle  | 210.337,18  | --- |
+| Totaal  | 35.000.001,62  | --- |
+
 ### Bijlage 29kk 
 
 ####, genoemd in artikel 29kk . Vrouwenopvang
@@ -4931,61 +6373,48 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zwolle  |  € 3.042.779  |
 |  *Totaal*   |  * € 95.223.056*   |
 
-### Bijlage 29nn 
+###Bijlage 29kk-3 
 
-####, genoemd in artikel 29nn . Uitvoeringskosten [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md)
+####, genoemd in artikel 29kk . Vrouwenopvang
 
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Alkmaar  | € 52.320  |
-| Amsterdam  | € 850.200  |
-| Arnhem  | € 222.360  |
-| Assen  | € 26.160  |
-| Breda  | € 65.400  |
-| Eindhoven  | € 156.960  |
-| Enschede  | € 52.320  |
-| Groningen  | € 222.360  |
-| Haarlem  | € 52.320  |
-| Hilversum  | € 52.320  |
-| Leeuwarden  | € 91.560  |
-| Lelystad  | € 26.160  |
-| Maastricht  | € 130.800  |
-| Middelburg  | € 26.160  |
-| Rotterdam  | € 392.400  |
-| ’s-Gravenhage  | € 340.080  |
-| ’s-Hertogenbosch  | € 91.560  |
-| Tilburg  | € 78.480  |
-| Utrecht  | € 392.400  |
-| Zwolle  | € 104.640  |
-|  *Totaal*   |  *€ 3.426.960*   |
-
-###Bijlage 29nn-2 
-
-####, genoemd in artikel 29nn . Uitvoeringskosten [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md)
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Alkmaar  |  € 52.480  |
-| Amsterdam  |  € 852.800  |
-| Arnhem  |  € 223.040  |
-| Assen  |  € 26.240  |
-| Breda  |  € 65.600  |
-| Eindhoven  |  € 157.440  |
-| Enschede  |  € 52.480  |
-| Groningen  |  € 223.040  |
-| Haarlem  |  € 52.480  |
-| Hilversum  |  € 52.480  |
-| Leeuwarden  |  € 91.840  |
-| Lelystad  |  € 26.240  |
-| Maastricht  |  € 131.200  |
-| Middelburg  |  € 26.240  |
-| Rotterdam  |  € 393.600  |
-| ’s-Gravenhage  |  € 341.120  |
-| ’s-Hertogenbosch  |  € 91.840  |
-| Tilburg  |  € 78.720  |
-| Utrecht  |  € 393.600  |
-| Zwolle  |  € 104.960  |
-|  *Totaal*   |  * € 3.437.440*   |
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Alkmaar  | € 2.010.982  | --- |
+| Almere  | € 1.924.472  | --- |
+| Amersfoort  | € 1.842.031  | --- |
+| Amsterdam  | € 8.578.877  | --- |
+| Apeldoorn  | € 2.449.243  | --- |
+| Arnhem  | € 5.709.032  | --- |
+| Breda  | € 6.343.795  | --- |
+| Delft  | € 1.797.302  | --- |
+| Den Helder  | € 965.172  | --- |
+| Dordrecht  | € 1.906.694  | --- |
+| Ede  | € 1.333.778  | --- |
+| Eindhoven  | € 2.773.480  | --- |
+| Emmen  | € 2.179.977  | --- |
+| Enschede  | € 3.186.364  | --- |
+| Gouda  | € 2.123.575  | --- |
+| Groningen  | € 3.922.742  | --- |
+| Haarlem  | € 2.735.120  | --- |
+| Heerlen  | € 1.356.326  | --- |
+| Helmond  | € 1.045.495  | --- |
+| Hilversum  | € 1.212.826  | --- |
+| Leeuwarden  | € 4.383.631  | --- |
+| Leiden  | € 4.250.635  | --- |
+| Maastricht  | € 2.608.386  | --- |
+| Nijmegen  | € 2.437.669  | --- |
+| Rotterdam  | € 6.067.884  | --- |
+| ’s-Gravenhage  | € 5.435.711  | --- |
+| ’s-Hertogenbosch  | € 3.273.421  | --- |
+| Spijkenisse  | € 1.314.403  | --- |
+| Tilburg  | € 5.100.171  | --- |
+| Utrecht  | € 5.358.515  | --- |
+| Venlo  | € 2.297.716  | --- |
+| Vlaardingen  | € 1.001.277  | --- |
+| Vlissingen  | € 1.768.855  | --- |
+| Zaanstad  | € 1.516.104  | --- |
+| Zwolle  | € 3.340.396  | --- |
+| Totaal  | € 105.552.057  | --- |
 
 ###Bijlage 29pp 
 
@@ -5017,75 +6446,229 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zeist  |  € 50.000  |
 |  *Totaal*   |  *€ 1.900.000*   |
 
-###Bijlage 29qq 
+###Bijlage 29pp-2 
 
-####, genoemd in artikel 29qq . Nazorg ex-gedetineerden
+####, genoemd in artikel 29pp . Eigen kracht
 
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Alkmaar  |  € 64.954  |
-| Almelo  |  € 60.407  |
-| Almere  |  € 154.374  |
-| Amersfoort  |  € 123.629  |
-| Amsterdam  |  € 675.520  |
-| Apeldoorn  |  € 76.429  |
-| Arnhem  |  € 152.208  |
-| Assen  |  € 57.159  |
-| Bergen op Zoom  |  € 71.666  |
-| Breda  |  € 130.990  |
-| Delft  |  € 69.934  |
-| Den Helder  |  € 42.003  |
-| Deventer  |  € 76.862  |
-| Doetinchem  |  € 46.767  |
-| Dordrecht  |  € 156.106  |
-| Ede  |  € 51.747  |
-| Eindhoven  |  € 189.449  |
-| Emmen  |  € 46.117  |
-| Enschede  |  € 142.682  |
-| Gouda  |  € 58.025  |
-| Groningen  |  € 205.471  |
-| Haarlem  |  € 137.053  |
-| Heerlen  |  € 122.763  |
-| Helmond  |  € 61.057  |
-| Hilversum  |  € 53.046  |
-| Hoorn  |  € 38.756  |
-| Leeuwarden  |  € 212.182  |
-| Leiden  |  € 132.939  |
-| Maastricht  |  € 123.412  |
-| Nijmegen  |  € 119.732  |
-| Oss  |  € 65.170  |
-| Purmerend  |  € 33.343  |
-| Rotterdam  |  € 658.632  |
-| ’s-Gravenhage  |  € 565.964  |
-| ’s-Hertogenbosch  |  € 92.451  |
-| Spijkenisse  |  € 43.736  |
-| Tilburg  |  € 153.941  |
-| Utrecht  |  € 229.070  |
-| Venlo  |  € 151.559  |
-| Vlaardingen  |  € 85.089  |
-| Vlissingen  |  € 109.772  |
-| Zaanstad  |  € 52.396  |
-| Zwolle  |  € 105.442  |
-|  *Totaal*   |  * € 6.000.004*   |
+| Gemeente  | Uitkering 2012  |--- |
+|---|---|---|
+| Alkmaar  | € 50.000  | --- |
+| Almere  | € 50.000  | --- |
+| Amersfoort  | € 50.000  | --- |
+| Breda  | € 50.000  | --- |
+| Delft  | € 50.000  | --- |
+| Deventer  | € 50.000  | --- |
+| Doetinchem  | € 50.000  | --- |
+| Eindhoven  | € 50.000  | --- |
+| Enschede  | € 50.000  | --- |
+| Groningen  | € 50.000  | --- |
+| Haarlem  | € 50.000  | --- |
+| Helmond  | € 50.000  | --- |
+| Hengelo O  | € 50.000  | --- |
+| Leeuwarden  | € 50.000  | --- |
+| Nijmegen  | € 50.000  | --- |
+| Tiel  | € 50.000  | --- |
+| Tilburg  | € 50.000  | --- |
+| Zeist  | € 50.000  | --- |
+| Totaal  | € 900.000  | --- |
 
-### Bijlage 31a 
+###Bijlage 29ss-a 
 
-####, genoemd in artikel 31  Cultuurparticipatie voor provincies
+####, genoemd in artikel 29ss . Centra voor Jeugd en Gezin
 
-| Provincie  | Uitkering  |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|
-| Groningen  | € 309.681  | --- |
-| Fryslân  | € 434.395  | --- |
-| Drenthe  | € 298.118  | --- |
-| Overijssel  | € 528.681  | --- |
-| Gelderland  | € 1.115.890  | --- |
-| Utrecht  | € 602.888  | --- |
-| Noord-Holland  | € 1.066.022  | --- |
-| Zuid-Holland  | € 1.460.552  | --- |
-| Zeeland  | € 300.593  | --- |
-| Noord-Brabant  | € 1.276.661  | --- |
-| Limburg  | € 576.616  | --- |
-| Flevoland  | € 152.865  | --- |
+| Maatstaf  | Omschrijving maatstaf  | Bron  | Peildatum  |
+|:---|:---|:---|:---|
+| een-ouder-huishoudens  | De maatstaf uit algemene uitkering gemeentefonds  | CBS  | 1 januari uitkeringsjaar  |
+| huishoudens met laag inkomen  | De maatstaf uit algemene uitkering gemeentefonds  | CBS  | De meest recente op het uitkeringsjaar of een daarvóór gelegen jaar betrekking hebbende inkomensstatistiek, voor zover deze is bekendgemaakt op uiterlijk 1 september van het tweede jaar volgend op het uitkeringsjaar.  |
+| inwoners 0 t/m 18 jaar  | Aantal inwoners van 18 jaar en jonger  | CBS  | 1 januari uitkeringsjaar  |
+| minderheden  | Bevolking naar herkomstgroepering (Marokko, voormalige Ned. Antillen en Aruba, Suriname en Turkije)  | CBS  | 1 januari uitkeringsjaar  |
+
+###Bijlage 29tt 
+
+####, genoemd in artikel 29tt . Focusgemeenten
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Amsterdam  | € 148.000  | --- |
+| Breda  | € 148.000  | --- |
+| Eindhoven  | € 148.000  | --- |
+| Emmen  | € 148.000  | --- |
+| Enschede  | € 148.000  | --- |
+| Hoogeveen  | € 148.000  | --- |
+| Leeuwarden  | € 148.000  | --- |
+| Pijnacker-Nootdorp  | € 74.000  | --- |
+| Raalte  | € 148.000  | --- |
+| Rotterdam  | € 148.000  | --- |
+| Tynaarlo  | € 148.000  | --- |
+| Zaanstad  | € 148.000  | --- |
+| Zoetermeer  | € 74.000  | --- |
+| Totaal  | € 1.776.000  | --- |
+
+###Bijlage 29ww 
+
+####, genoemd in artikel 29ww . LHBT emancipatiebeleid
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Alkmaar  | € 20.000  | --- |
+| Almere  | € 20.000  | --- |
+| Amersfoort  | € 20.000  | --- |
+| Amsterdam  | € 50.000  | --- |
+| Arnhem  | € 20.000  | --- |
+| Breda  | € 20.000  | --- |
+| Capelle aan den IJssel  | € 20.000  | --- |
+| Delft  | € 20.000  | --- |
+| Deventer  | € 20.000  | --- |
+| Dordrecht  | € 20.000  | --- |
+| Eindhoven  | € 20.000  | --- |
+| Enschede  | € 20.000  | --- |
+| Goes  | € 20.000  | --- |
+| Groningen  | € 20.000  | --- |
+| Haarlem  | € 20.000  | --- |
+| Heerlen  | € 20.000  | --- |
+| Helmond  | € 20.000  | --- |
+| Hengelo O  | € 20.000  | --- |
+| Hoorn  | € 20.000  | --- |
+| Leeuwarden  | € 20.000  | --- |
+| Leiden  | € 20.000  | --- |
+| Leidschendam-Voorburg  | € 20.000  | --- |
+| Lelystad  | € 20.000  | --- |
+| Maastricht  | € 20.000  | --- |
+| Middelburg  | € 20.000  | --- |
+| Nijmegen  | € 20.000  | --- |
+| Oss  | € 20.000  | --- |
+| Purmerend  | € 20.000  | --- |
+| Rotterdam  | € 50.000  | --- |
+| Schiedam  | € 20.000  | --- |
+| ’s-Gravenhage  | € 50.000  | --- |
+| ’s-Hertogenbosch  | € 20.000  | --- |
+| Sittard-Geleen  | € 20.000  | --- |
+| Sudwest Fryslan  | € 20.000  | --- |
+| Tilburg  | € 20.000  | --- |
+| Utrecht  | € 50.000  | --- |
+| Vlissingen  | € 20.000  | --- |
+| Westland  | € 20.000  | --- |
+| Zoetermeer  | € 20.000  | --- |
+| Zwolle  | € 20.000  | --- |
+| Totaal  | € 920.000  | --- |
+
+###Bijlage 29xx-a 
+
+####, genoemd in artikel 29xx . Maatschappelijke opvang
+
+| Maatstaf  | Omschrijving maatstaf  | Bron  | Peildatum  |
+|:---|:---|:---|:---|
+| aantal gemeenten per regio  | Aantal gemeenten in de regio van de betreffende centrumgemeente  | CBS  | 1 januari uitkeringsjaar  |
+| een-ouder-huishoudens  | De maatstaf uit algemene uitkering gemeentefonds, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| huishoudens met laag inkomen  | De maatstaf uit algemene uitkering gemeentefonds, omgezet naar centrumgemeente*  | CBS  | De meest recente op het uitkeringsjaar of een daarvóór gelegen jaar betrekking hebbende inkomensstatistiek, voor zover deze is bekendgemaakt op uiterlijk 1 september van het tweede jaar volgend op het uitkeringsjaar.  |
+| Inwoners  | Aantal inwoners, omgezet naar centrumgemeente  | CBS  | 1 januari uitkeringsjaar  |
+| inwoners < 65 jaar  | Aantal inwoners jonger dan 65 jaar, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| inwoners ouder dan 10 jaar en jonger dan 25 jaar  | Aantal inwoners tussen de 10 en 25 jaar, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| inwoners ouder dan 15 jaar en jonger dan 65 jaar  | Aantal inwoners tussen de 15 en 65 jaar, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| inwoners ouder dan 18 jaar en jonger dan 45 jaar  | Aantal inwoners tussen de 18 en 45 jaar, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| klantenpotentieel regionaal  | De maatstaf uit algemene uitkering gemeentefonds, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| minderheden  | De maatstaf uit algemene uitkering gemeentefonds, omgezet naar centrumgemeente*  | CBS  | 1 januari uitkeringsjaar  |
+| uitkeringsontvangers  | De maatstaf uit algemene uitkering gemeentefonds, omgezet naar centrumgemeente*  | CBS, UWV, SZW, APG, Het Algemeen mijnwerkersfonds van de steenkolenmijnen Limburg  | 31 december voorafgaand aan het uitkeringsjaar  |
+
+* omgezet naar centrumgemeente = som van alle gemeenten in de regio van de betreffende centrumgemeente.
+
+###Bijlage 29xx-b 
+
+####, genoemd in artikel 29xx . Maatschappelijke opvang
+
+| Gemeente  | Uitkering 2010  |--- |
+|:---|:---|:---|
+| Alkmaar  | € 3.029.282  | --- |
+| Almelo  | € 2.470.147  | --- |
+| Almere  | € 4.759.067  | --- |
+| Amersfoort  | € 4.502.712  | --- |
+| Amsterdam  | € 39.587.849  | --- |
+| Apeldoorn  | € 6.079.426  | --- |
+| Arnhem  | € 8.130.413  | --- |
+| Assen  | € 3.961.410  | --- |
+| Bergen op Zoom  | € 2.470.498  | --- |
+| Breda  | € 6.207.797  | --- |
+| Delft  | € 2.716.196  | --- |
+| Den Helder  | € 1.445.670  | --- |
+| Deventer  | € 3.061.782  | --- |
+| Doetinchem  | € 3.039.146  | --- |
+| Dordrecht  | € 6.377.469  | --- |
+| Ede  | € 2.371.036  | --- |
+| Eindhoven  | € 11.222.713  | --- |
+| Emmen  | € 2.489.379  | --- |
+| Enschede  | € 7.432.372  | --- |
+| Gouda  | € 1.980.137  | --- |
+| Groningen  | € 12.478.564  | --- |
+| Haarlem  | € 6.534.602  | --- |
+| Heerlen  | € 6.659.322  | --- |
+| Helmond  | € 3.093.916  | --- |
+| Hilversum  | € 2.858.503  | --- |
+| Hoorn  | € 1.901.415  | --- |
+| Leeuwarden  | € 13.962.008  | --- |
+| Leiden  | € 5.621.892  | --- |
+| Maastricht  | € 6.751.238  | --- |
+| Nijmegen  | € 8.409.554  | --- |
+| Oss  | € 3.273.651  | --- |
+| Purmerend  | € 1.268.980  | --- |
+| Rotterdam  | € 34.914.057  | --- |
+| ’s-Gravenhage  | € 20.805.625  | --- |
+| ’s-Hertogenbosch  | € 4.328.201  | --- |
+| Spijkenisse  | € 2.953.333  | --- |
+| Tilburg  | € 8.015.815  | --- |
+| Utrecht  | € 15.523.508  | --- |
+| Venlo  | € 6.642.921  | --- |
+| Vlaardingen  | € 2.055.519  | --- |
+| Vlissingen  | € 6.351.883  | --- |
+| Zaanstad  | € 2.103.856  | --- |
+| Zwolle  | € 7.985.251  | --- |
+| Totaal  | € 307.828.115  | --- |
+
+###Bijlage 29aaa 
+
+####, genoemd in artikel 29aaa . Quick wins binnenhavens
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Bergen op Zoom  | € 1.334.990  | --- |
+| Oss  | € 3.828.000  | --- |
+| Tiel  | € 851.250  | --- |
+| Venray  | € 4.000.000  | --- |
+| Totaal  | € 10.014.240  | --- |
+
+###Bijlage 29bbb 
+
+####, genoemd in artikel 29bbb . Vsv-programmagelden RMC-regio’s G4
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Amsterdam  | € 2.000.000  | --- |
+| Rotterdam  | € 1.925.000  | --- |
+| ’s-Gravenhage  | € 1.325.000  | --- |
+| Utrecht  | € 875.000  | --- |
+| Totaal  | € 6.125.000  | --- |
+
+###Bijlage 29ccc 
+
+####, genoemd in artikel 29ccc . We Can Young
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Alkmaar  | € 20.000  | --- |
+| Almere  | € 20.000  | --- |
+| Amsterdam  | € 20.000  | --- |
+| Apeldoorn  | € 20.000  | --- |
+| Arnhem  | € 20.000  | --- |
+| Breda  | € 20.000  | --- |
+| Delft  | € 20.000  | --- |
+| Dordrecht  | € 20.000  | --- |
+| Eindhoven  | € 20.000  | --- |
+| Groningen  | € 20.000  | --- |
+| Helmond  | € 20.000  | --- |
+| Leiden  | € 20.000  | --- |
+| ’s-Gravenhage  | € 20.000  | --- |
+| Tilburg  | € 20.000  | --- |
+| Zwolle  | € 20.000  | --- |
+| Totaal  | € 300.000  | --- |
 
 ### Bijlage 31a* 
 
@@ -5122,36 +6705,6 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Noord-Holland  | € 42.857  |
 | Zeeland  | € 42.857  |
 |  *Totaal*   |  *€ 220.879*   |
-
-###Bijlage 31a-2 
-
-####, genoemd in artikel 31a . Alle troeven in handen
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Arnhem  |  € 23.077  |
-| Delft  |  € 33.462  |
-| Deventer  |  € 46.154  |
-| Groningen  |  € 42.148  |
-| Haarlem  |  € 46.154  |
-| Haarlemmermeer  |  € 23.077  |
-| Leeuwarden  |  € 23.077  |
-| Leidschendam-Voorburg  |  € 23.077  |
-| Nijmegen  |  € 23.077  |
-| Rotterdam  |  € 46.154  |
-| ’s-Gravenhage  |  € 23.077  |
-| ’s-Hertogenbosch  |  € 46.154  |
-| Sittard-Geleen  |  € 39.231  |
-| Smallingerland  |  € 11.538  |
-| Veenendaal  |  € 16.247  |
-| Zaanstad  |  € 45.992  |
-|  *Totaal*   |  * € 511.696*   |
-
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Groningen  |  € 46.154  |
-| Fryslân  |  € 46.154  |
-|  *Totaal*   |  * € 92.308*   |
 
 ### Bijlage 31b 
 
@@ -5239,6 +6792,26 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Noord-Brabant  |  € 303.000  |
 | Limburg  |  € 7.200.000  |
 |  *Totaal*   |  * € 17.038.000*   |
+
+###Bijlage 31b-3 
+
+####, genoemd in artikel 31b . Bedrijventerreinen
+
+| Provincie  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Drenthe  | € 1.101.576  | --- |
+| Flevoland  | € 957.892  | --- |
+| Fryslân  | € 1.245.259  | --- |
+| Gelderland  | € 3.966.359  | --- |
+| Groningen  | € 1.101.576  | --- |
+| Limburg  | € 2.729.992  | --- |
+| Noord-Brabant  | € 3.782.011  | --- |
+| Noord-Holland  | € 3.232.885  | --- |
+| Overijssel  | € 2.948.940  | --- |
+| Utrecht  | € 1.197.365  | --- |
+| Zeeland  | € 1.480.944  | --- |
+| Zuid-Holland  | € 4.888.201  | --- |
+| Totaal  | € 28.633.000  | --- |
 
 ### Bijlage 31c 
 
@@ -5348,6 +6921,60 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Flevoland  |  € 227.463  |
 |  *Totaal*   |  * € 71.253.710*   |
 
+###Bijlage 31c-3 
+
+####, genoemd in artikel 31c . Bodemsanering
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Alkmaar  | € 407.151  | --- |
+| Almelo  | € 454.478  | --- |
+| Amersfoort  | € 390.663  | --- |
+| Amsterdam  | € 4.626.788  | --- |
+| Arnhem  | € 457.287  | --- |
+| Breda  | € 527.285  | --- |
+| Deventer  | € 433.961  | --- |
+| Dordrecht  | € 406.507  | --- |
+| Eindhoven  | € 429.413  | --- |
+| Emmen  | € 662.402  | --- |
+| Enschede  | € 1.135.412  | --- |
+| Groningen  | € 535.948  | --- |
+| Haarlem  | € 945.011  | --- |
+| Heerlen  | € 421.305  | --- |
+| Helmond  | € 376.768  | --- |
+| Hengelo O  | € 488.373  | --- |
+| Leeuwarden  | € 448.081  | --- |
+| Leiden  | € 422.322  | --- |
+| Maastricht  | € 476.119  | --- |
+| Nijmegen  | € 421.815  | --- |
+| Rotterdam  | € 1.389.066  | --- |
+| Schiedam  | € 388.450  | --- |
+| ’s-Gravenhage  | € 1.398.070  | --- |
+| ’s-Hertogenbosch  | € 361.169  | --- |
+| Sittard-Geleen  | € 2.991  | --- |
+| Tilburg  | € 668.837  | --- |
+| Utrecht  | € 386.365  | --- |
+| Venlo  | € 514.187  | --- |
+| Zaanstad  | € 11.301.444  | --- |
+| Zwolle  | € 450.051  | --- |
+| Totaal  | € 31.327.719  | --- |
+
+| Provincie  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Drenthe  | € 1.249.894  | --- |
+| Flevoland  | € 232.297  | --- |
+| Fryslân  | € 3.669.812  | --- |
+| Gelderland  | € 14.573.884  | --- |
+| Groningen  | € 2.243.651  | --- |
+| Limburg  | € 730.438  | --- |
+| Noord-Brabant  | € 13.414.957  | --- |
+| Noord-Holland  | € 6.152.234  | --- |
+| Overijssel  | € 15.233.923  | --- |
+| Utrecht  | € 1.395.694  | --- |
+| Zeeland  | € 478.755  | --- |
+| Zuid-Holland  | € 10.228.850  | --- |
+| Totaal  | € 69.604.389  | --- |
+
 ### Bijlage 31e 
 
 ####, genoemd in artikel 31e . Regiospecifiek pakket Zuiderzeelijn
@@ -5377,691 +7004,22 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Flevoland  |  € 831.483  |
 |  *Totaal*   |  *€ 15.884.243*   |
 
-### Bijlage 31f 
+###Bijlage 31e-3 
 
-####, genoemd in artikel 31f . Stimulering lokale klimaatinitiatieven (SLOK)
+####, genoemd in artikel 31e . Zuiderzeelijn
 
-|  *Gemeente*   |  *Uitkering 2010*   |
-|:---|:---|
-| Aa en Hunze  | € 72.956  |
-| Aalburg  | € 15.414  |
-| Aalsmeer  | € 26.966  |
-| Aalten  | € 41.082  |
-| Abcoude  | € 14.800  |
-| Albrandswaard  | € 14.386  |
-| Alkmaar  | € 69.036  |
-| Almelo  | € 73.367  |
-| Alphen a/d Rijn  | € 70.366  |
-| Alphen-Chaam  | € 18.949  |
-| Amersfoort  | € 128.567  |
-| Amstelveen  | € 74.439  |
-| Amsterdam  | € 640.546  |
-| Andijk  | € 14.800  |
-| Anna Paulowna  | € 26.088  |
-| Apeldoorn  | € 193.641  |
-| Appingedam  | € 14.800  |
-| Arnhem  | € 138.489  |
-| Assen  | € 69.495  |
-| Asten  | € 20.613  |
-| Baarle-Nassau  | € 14.800  |
-| Baarn  | € 18.618  |
-| Barendrecht  | € 40.163  |
-| Barneveld  | € 75.429  |
-| Bedum  | € 14.511  |
-| Beek  | € 17.918  |
-| Beesel  | € 14.800  |
-| Bellingwedde  | € 21.190  |
-| Bergeijk  | € 27.994  |
-| Bergen NH  | € 44.404  |
-| Bergen op Zoom  | € 56.576  |
-| Berkelland  | € 63.510  |
-| Bernheze  | € 41.585  |
-| Bernisse  | € 13.796  |
-| Best  | € 14.058  |
-| Beuningen  | € 29.900  |
-| Beverwijk  | € 22.261  |
-| Bladel  | € 29.714  |
-| Bloemendaal  | € 20.356  |
-| Bodegraven  | € 23.374  |
-| Bolsward  | € 14.800  |
-| Borne  | € 17.332  |
-| Borsele  | € 45.176  |
-| Boskoop  | € 14.800  |
-| Boxmeer  | € 28.186  |
-| Boxtel  | € 37.157  |
-| Breda  | € 166.923  |
-| Breukelen  | € 21.270  |
-| Brielle  | € 14.899  |
-| Bronckhorst  | € 84.618  |
-| Capelle a/d IJssel  | € 57.757  |
-| Castricum  | € 39.440  |
-| Cranendonck  | € 31.461  |
-| Cuijk  | € 23.985  |
-| Dalfsen  | € 53.033  |
-| Dantumadiel  | € 26.440  |
-| De Bilt  | € 37.306  |
-| De Marne  | € 42.701  |
-| De Ronde Venen  | € 44.686  |
-| Delft  | € 84.555  |
-| Delfzijl  | € 48.365  |
-| Deurne  | € 48.598  |
-| Deventer  | € 105.957  |
-| Diemen  | € 22.656  |
-| Dirksland  | € 20.677  |
-| Doetinchem  | € 61.944  |
-| Dongen  | € 21.147  |
-| Dongeradeel  | € 40.490  |
-| Dordrecht  | € 117.924  |
-| Drechterland  | € 30.522  |
-| Drimmelen  | € 33.927  |
-| Dronten  | € 89.752  |
-| Duiven  | € 21.964  |
-| Ede  | € 149.127  |
-| Eemsmond  | € 49.404  |
-| Eersel  | € 30.529  |
-| Eindhoven  | € 192.529  |
-| Elburg  | € 30.835  |
-| Enkhuizen  | € 22.444  |
-| Enschede  | € 156.102  |
-| Ermelo  | € 29.450  |
-| Etten-Leur  | € 34.838  |
-| Ferwerderadiel  | € 25.660  |
-| Gaasterlan-Sleat  | € 35.012  |
-| Geertruidenberg  | € 17.943  |
-| Geldrop-Mierlo  | € 37.565  |
-| Gennep  | € 23.469  |
-| Gilze en Rijen  | € 27.202  |
-| Goedereede  | € 29.847  |
-| Goes  | € 39.843  |
-| Goirle  | € 26.347  |
-| Gorinchem  | € 26.043  |
-| Gouda  | € 62.935  |
-| Graft-De Rijp  | € 14.800  |
-| Groningen  | € 167.989  |
-| Haaksbergen  | € 30.563  |
-| Haarlem  | € 129.362  |
-| Haarlemmermeer  | € 150.329  |
-| Halderberge  | € 38.527  |
-| Hardenberg  | € 107.374  |
-| Harderwijk  | € 44.254  |
-| Hardinxveld-Giessend  | € 14.800  |
-| Haren  | € 20.465  |
-| Harenkarspel  | € 23.486  |
-| Hattem  | € 14.800  |
-| Heemskerk  | € 23.846  |
-| Heemstede  | € 15.064  |
-| Heerde  | € 29.973  |
-| Heerenveen  | € 61.803  |
-| Heerhugowaard  | € 49.205  |
-| Heerlen  | € 68.694  |
-| Heiloo  | € 21.966  |
-| Hellendoorn  | € 55.942  |
-| Hellevoetsluis  | € 41.605  |
-| Helmond  | € 82.358  |
-| Hendrik-Ido-Ambacht  | € 18.328  |
-| Hengelo O  | € 79.797  |
-| Het Bildt  | € 16.161  |
-| Heumen  | € 16.812  |
-| Heusden  | € 51.006  |
-| Hillegom  | € 19.535  |
-| Hilversum  | € 78.813  |
-| Hoogeveen  | € 69.536  |
-| Hoorn  | € 67.093  |
-| Horst aan de Maas  | € 56.189  |
-| Houten  | € 49.160  |
-| Huizen  | € 39.515  |
-| Kaag en Braassem  | € 34.530  |
-| Kampen  | € 71.337  |
-| Katwijk  | € 56.140  |
-| Kerkrade  | € 45.054  |
-| Koggenland  | € 33.354  |
-| Kollumerland en Nieuwkruisl.  | € 32.507  |
-| Krimpen a/d IJssel  | € 25.770  |
-| Laarbeek  | € 28.637  |
-| Landgraaf  | € 23.988  |
-| Landsmeer  | € 12.040  |
-| Lansingerland  | € 50.665  |
-| Leek  | € 27.986  |
-| Leeuwarden  | € 93.087  |
-| Leeuwarderadeel  | € 14.800  |
-| Leiden  | € 102.950  |
-| Leiderdorp  | € 24.173  |
-| Leidschendam-Voorburg  | € 67.753  |
-| Lelystad  | € 164.329  |
-| Lemsterland  | € 34.248  |
-| Leudal  | € 61.362  |
-| Leusden  | € 28.401  |
-| Lisse  | € 21.431  |
-| Littenseradiel  | € 33.591  |
-| Lochem  | € 67.460  |
-| Loenen  | € 14.800  |
-| Loppersum  | € 11.079  |
-| Maarssen  | € 38.784  |
-| Maassluis  | € 28.380  |
-| Maastricht  | € 111.040  |
-| Marum  | € 15.493  |
-| Medemblik  | € 55.366  |
-| Menameradiel  | € 24.528  |
-| Menterwolde  | € 20.838  |
-| Meppel  | € 36.632  |
-| Middelburg  | € 38.953  |
-| Middelharnis  | € 25.193  |
-| Midden Drenthe  | € 92.023  |
-| Midden-Delfland  | € 18.440  |
-| Moerdijk  | € 52.674  |
-| Montferland  | € 49.133  |
-| Montfoort U  | € 14.800  |
-| Nederweert  | € 32.683  |
-| Niedorp  | € 21.687  |
-| Nieuwkoop  | € 39.501  |
-| Nijefurd  | € 22.995  |
-| Nijkerk  | € 37.387  |
-| Nijmegen  | € 145.767  |
-| Noordoostpolder  | € 51.708  |
-| Noordwijk  | € 27.326  |
-| Noordwijkerhout  | € 17.168  |
-| Nuenen c.a.  | € 20.628  |
-| Nunspeet  | € 46.235  |
-| Nuth  | € 19.432  |
-| Oegstgeest  | € 19.929  |
-| Oirschot  | € 25.834  |
-| Oisterwijk  | € 27.369  |
-| Oldambt  | € 56.095  |
-| Oldebroek  | € 37.400  |
-| Oldenzaal  | € 24.109  |
-| Ommen  | € 39.163  |
-| Oost Gelre  | € 45.418  |
-| Oosterhout  | € 58.259  |
-| Oostflakkee  | € 28.365  |
-| Ooststellingwerf  | € 51.875  |
-| Oostzaan  | € 14.800  |
-| Opmeer  | € 12.040  |
-| Opsterland  | € 66.883  |
-| Oss  | € 83.659  |
-| Oude IJsselstreek  | € 59.106  |
-| Ouder-Amstel  | € 14.800  |
-| Oudewater  | € 14.800  |
-| Overbetuwe  | € 46.790  |
-| Papendrecht  | € 18.380  |
-| Pekela  | € 15.701  |
-| Pijnacker-Nootdorp  | € 43.048  |
-| Putten  | € 35.496  |
-| Raalte  | € 47.218  |
-| Reeuwijk  | € 19.887  |
-| Renswoude  | € 12.040  |
-| Reusel-De Mierden  | € 24.910  |
-| Rheden  | € 40.931  |
-| Rhenen  | € 23.733  |
-| Ridderkerk  | € 20.406  |
-| Rijnwoude  | € 26.446  |
-| Rijssen-Holten  | € 39.175  |
-| Rijswijk  | € 42.183  |
-| Roerdalen  | € 34.276  |
-| Roermond  | € 37.496  |
-| Roosendaal  | € 66.554  |
-| Rotterdam  | € 540.570  |
-| Rozenburg  | € 10.490  |
-| Rucphen  | € 23.751  |
-| Schagen  | € 19.600  |
-| Schermer  | € 13.190  |
-| Schiedam  | € 66.799  |
-| Schijndel  | € 21.913  |
-| Schouwen-Duive  | € 84.354  |
-| ’s-Gravenhage  | € 413.697  |
-| ’s-Hertogenbosch  | € 130.780  |
-| Sint-Anthonis  | € 21.329  |
-| Sint-Michielsgestel  | € 26.847  |
-| Sint-Oedenrode  | € 20.286  |
-| Sittard-Geleen  | € 95.723  |
-| Skarsterlan  | € 62.765  |
-| Sliedrecht  | € 14.554  |
-| Slochteren  | € 31.560  |
-| Smallingerland  | € 56.497  |
-| Sneek  | € 34.091  |
-| Soest  | € 46.674  |
-| Someren  | € 23.148  |
-| Son en Breugel  | € 17.746  |
-| Spijkenisse  | € 67.637  |
-| Stadskanaal  | € 31.800  |
-| Staphorst  | € 28.934  |
-| Stede Broec  | € 16.579  |
-| Steenbergen  | € 37.018  |
-| Steenwijkerland  | € 77.785  |
-| Stein  | € 26.321  |
-| Ten Boer  | € 14.800  |
-| Terschelling  | € 12.138  |
-| Teylingen  | € 35.613  |
-| Tholen  | € 51.161  |
-| Tilburg  | € 191.036  |
-| Twenterand  | € 48.075  |
-| Tynaarlo  | € 43.858  |
-| Tytsjerksteradiel  | € 56.949  |
-| Uden  | € 46.246  |
-| Uitgeest  | € 12.040  |
-| Uithoorn  | € 20.784  |
-| Utrecht  | € 260.565  |
-| Utrechtse Heuvelrug  | € 53.517  |
-| Veendam  | € 38.148  |
-| Veenendaal  | € 55.484  |
-| Veere  | € 44.666  |
-| Veghel  | € 45.422  |
-| Veldhoven  | € 42.246  |
-| Velsen  | € 42.421  |
-| Venlo  | € 108.343  |
-| Venray  | € 65.620  |
-| Vianen  | € 15.415  |
-| Vlaardingen  | € 64.952  |
-| Vlagtwedde  | € 34.080  |
-| Vlieland  | € 14.800  |
-| Voorschoten  | € 21.277  |
-| Voorst  | € 32.825  |
-| Waalre  | € 14.800  |
-| Waalwijk  | € 50.859  |
-| Waddinxveen  | € 27.177  |
-| Wageningen  | € 35.940  |
-| Wassenaar  | € 19.792  |
-| Waterland  | € 22.048  |
-| Weesp  | € 15.283  |
-| Werkendam  | € 34.208  |
-| Wervershoof  | € 14.800  |
-| Westland  | € 98.086  |
-| Westvoorne  | € 22.648  |
-| Wierden  | € 28.575  |
-| Wijchen  | € 37.426  |
-| Wijk bij Duurstede  | € 23.519  |
-| Winsum  | € 30.691  |
-| Winterswijk  | € 50.193  |
-| Woensdrecht  | € 26.831  |
-| Woerden  | € 57.479  |
-| Wormerland  | € 17.614  |
-| Woudrichem  | € 16.586  |
-| Wunseradiel  | € 67.464  |
-| Wymbritseradiel  | € 32.742  |
-| Zaanstad  | € 134.095  |
-| Zaltbommel  | € 29.599  |
-| Zandvoort  | € 12.782  |
-| Zeevang  | € 15.504  |
-| Zeist  | € 48.526  |
-| Zijpe  | € 27.677  |
-| Zoetermeer  | € 105.971  |
-| Zoeterwoude  | € 11.379  |
-| Zuidhorn  | € 39.210  |
-| Zuidplas  | € 21.833  |
-| Zundert  | € 30.257  |
-| Zutphen  | € 47.078  |
-| Zwijndrecht  | € 26.811  |
-| Zwolle  | € 118.303  |
-|  *Totaal*   |  *€ 15.220.017*   |
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Assen  | € 16.482.000  | --- |
+| Totaal  | € 16.482.000  | --- |
 
-|  *Provincie*   |  *Uitkering 2010*   |
-|:---|:---|
-| Groningen  | € 108.690  |
-| Fryslân  | € 128.256  |
-| Drenthe  | € 108.131  |
-| Overijssel  | € 141.117  |
-| Gelderland  | € 193.693  |
-| Utrecht  | € 123.034  |
-| Noord-Holland  | € 200.712  |
-| Zuid-Holland  | € 232.486  |
-| Zeeland  | € 70.956  |
-| Noord-Brabant  | € 155.326  |
-| Limburg  | € 128.766  |
-| Flevoland  | € 100.835  |
-|  *Totaal*   |  *€ 1.692.002*   |
-
-###Bijlage 31f-2 
-
-####, genoemd in artikel 31f . Stimulering lokale klimaatinitiatieven (SLOK)
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Aa en Hunze  |  € 41.408  |
-| Aalburg  |  € 8.748  |
-| Aalsmeer  |  € 15.305  |
-| Aalten  |  € 23.317  |
-| Albrandswaard  |  € 27.385  |
-| Alkmaar  |  € 131.420  |
-| Almelo  |  € 41.641  |
-| Alphen aan den Rijn  |  € 39.938  |
-| Alphen-Chaam  |  € 10.755  |
-| Amersfoort  |  € 72.971  |
-| Amstelveen  |  € 42.249  |
-| Amsterdam  |  € 397.695  |
-| Anna Paulowna  |  € 14.807  |
-| Apeldoorn  |  € 109.904  |
-| Appingedam  |  € 8.400  |
-| Arnhem  |  € 78.602  |
-| Assen  |  € 39.443  |
-| Asten  |  € 11.700  |
-| Baarle-Nassau  |  € 8.400  |
-| Baarn  |  € 35.443  |
-| Barendrecht  |  € 22.795  |
-| Barneveld  |  € 42.811  |
-| Bedum  |  € 8.236  |
-| Beek  |  € 10.170  |
-| Beesel  |  € 8.400  |
-| Bellingwedde  |  € 12.027  |
-| Bergeijk  |  € 15.889  |
-| Bergen NH  |  € 25.202  |
-| Bergen op Zoom  |  € 32.110  |
-| Berkelland  |  € 36.046  |
-| Bernheze  |  € 23.602  |
-| Bernisse  |  € 26.263  |
-| Best  |  € 26.761  |
-| Beuningen  |  € 16.971  |
-| Beverwijk  |  € 42.378  |
-| Bladel  |  € 16.865  |
-| Bloemendaal  |  € 11.553  |
-| Bodegraven-Reeuwijk  |  € 24.553  |
-| Borne  |  € 9.837  |
-| Borsele  |  € 25.640  |
-| Boskoop  |  € 8.400  |
-| Boxmeer  |  € 53.657  |
-| Boxtel  |  € 21.089  |
-| Breda  |  € 94.740  |
-| Brielle  |  € 8.456  |
-| Bronckhorst  |  € 48.026  |
-| Capelle aan den IJssel  |  € 32.781  |
-| Castricum  |  € 22.385  |
-| Cranendonck  |  € 17.856  |
-| Cuijk  |  € 13.613  |
-| Dalfsen  |  € 30.100  |
-| Dantumadiel  |  € 50.332  |
-| De Bilt  |  € 21.173  |
-| De Marne  |  € 24.236  |
-| De Ronde Venen  |  € 33.762  |
-| Delft  |  € 47.990  |
-| Delfzijl  |  € 27.450  |
-| Deurne  |  € 27.583  |
-| Deventer  |  € 60.138  |
-| Diemen  |  € 12.859  |
-| Dirksland  |  € 11.736  |
-| Doetinchem  |  € 35.157  |
-| Dongen  |  € 12.002  |
-| Dongeradeel  |  € 22.981  |
-| Dordrecht  |  € 66.930  |
-| Drechterland  |  € 17.323  |
-| Drimmelen  |  € 19.256  |
-| Dronten  |  € 170.857  |
-| Duiven  |  € 12.466  |
-| Ede  |  € 84.640  |
-| Eemsmond  |  € 28.040  |
-| Eersel  |  € 17.327  |
-| Eindhoven  |  € 109.273  |
-| Elburg  |  € 17.501  |
-| Enkhuizen  |  € 42.726  |
-| Enschede  |  € 88.599  |
-| Ermelo  |  € 16.715  |
-| Etten-Leur  |  € 19.773  |
-| Ferwerderadiel  |  € 14.564  |
-| Gaasterlan-Sleat  |  € 19.872  |
-| Geertruidenberg  |  € 10.184  |
-| Geldrop-Mierlo  |  € 21.321  |
-| Gennep  |  € 13.320  |
-| Gilze en Rijen  |  € 51.784  |
-| Goedereede  |  € 16.940  |
-| Goes  |  € 75.847  |
-| Goirle  |  € 14.954  |
-| Gorinchem  |  € 14.781  |
-| Gouda  |  € 35.720  |
-| Graft-De Rijp  |  € 8.400  |
-| Groningen  |  € 95.345  |
-| Haaksbergen  |  € 17.347  |
-| Haarlem  |  € 73.422  |
-| Haarlemmermeer  |  € 85.322  |
-| Halderberge  |  € 21.866  |
-| Hardenberg  |  € 60.942  |
-| Harderwijk  |  € 25.117  |
-| Hardinxveld-Giessendam  |  € 8.400  |
-| Haren  |  € 38.959  |
-| Harenkarspel  |  € 13.330  |
-| Hattem  |  € 8.400  |
-| Heemskerk  |  € 45.394  |
-| Heemstede  |  € 28.676  |
-| Heerde  |  € 17.012  |
-| Heerenveen  |  € 35.078  |
-| Heerhugowaard  |  € 27.927  |
-| Heerlen  |  € 130.769  |
-| Heiloo  |  € 12.467  |
-| Hellendoorn  |  € 31.751  |
-| Hellevoetsluis  |  € 23.614  |
-| Helmond  |  € 46.744  |
-| Hendrik-Ido-Ambacht  |  € 10.402  |
-| Hengelo O  |  € 45.290  |
-| Het Bildt  |  € 30.764  |
-| Heumen  |  € 9.542  |
-| Heusden  |  € 28.949  |
-| Hillegom  |  € 11.087  |
-| Hilversum  |  € 44.731  |
-| Hoogeveen  |  € 39.466  |
-| Hoorn  |  € 38.080  |
-| Horst aan de Maas  |  € 31.891  |
-| Houten  |  € 27.902  |
-| Huizen  |  € 22.427  |
-| Kaag en Braassem  |  € 19.598  |
-| Kampen  |  € 40.489  |
-| Katwijk  |  € 31.864  |
-| Kerkrade  |  € 25.571  |
-| Koggenland  |  € 18.931  |
-| Kollumerland en Nwkruisl  |  € 18.450  |
-| Krimpen aan den IJssel  |  € 14.626  |
-| Laarbeek  |  € 16.253  |
-| Landgraaf  |  € 45.665  |
-| Landsmeer  |  € 22.920  |
-| Lansingerland  |  € 28.756  |
-| Leek  |  € 15.884  |
-| Leeuwarden  |  € 52.833  |
-| Leeuwarderadeel  |  € 8.400  |
-| Leiden  |  € 58.431  |
-| Leiderdorp  |  € 13.720  |
-| Leidschendam-Voorburg  |  € 38.454  |
-| Lelystad  |  € 312.825  |
-| Lemsterland  |  € 19.438  |
-| Leudal  |  € 34.827  |
-| Leusden  |  € 54.066  |
-| Lisse  |  € 12.164  |
-| Littenseradiel  |  € 19.065  |
-| Lochem  |  € 38.288  |
-| Loppersum  |  € 6.288  |
-| Maassluis  |  € 16.107  |
-| Maastricht  |  € 63.023  |
-| Marum  |  € 8.793  |
-| Medemblik  |  € 48.224  |
-| Menameradiel  |  € 13.921  |
-| Menterwolde  |  € 39.668  |
-| Meppel  |  € 20.791  |
-| Middelburg  |  € 22.109  |
-| Middelharnis  |  € 47.958  |
-| Midden Drenthe  |  € 52.229  |
-| Midden-Delfland  |  € 10.466  |
-| Moerdijk  |  € 100.272  |
-| Montferland  |  € 27.886  |
-| Montfoort U  |  € 8.400  |
-| Nederweert  |  € 18.550  |
-| Niedorp  |  € 12.309  |
-| Nieuwkoop  |  € 22.419  |
-| Nijkerk  |  € 71.171  |
-| Nijmegen  |  € 82.733  |
-| Noordoostpolder  |  € 29.348  |
-| Noordwijk  |  € 15.509  |
-| Noordwijkerhout  |  € 9.744  |
-| Nuenen c.a.  |  € 39.269  |
-| Nunspeet  |  € 26.241  |
-| Nuth  |  € 11.029  |
-| Oegstgeest  |  € 11.311  |
-| Oirschot  |  € 14.663  |
-| Oisterwijk  |  € 52.101  |
-| Oldambt  |  € 48.607  |
-| Oldebroek  |  € 21.227  |
-| Oldenzaal  |  € 13.683  |
-| Ommen  |  € 74.552  |
-| Oost Gelre  |  € 25.778  |
-| Oosterhout  |  € 33.066  |
-| Oostflakkee  |  € 16.099  |
-| Ooststellingwerf  |  € 98.752  |
-| Oostzaan  |  € 8.400  |
-| Opmeer  |  € 22.920  |
-| Opsterland  |  € 37.961  |
-| Oss  |  € 47.482  |
-| Oude IJsselstreek  |  € 33.547  |
-| Ouder-Amstel  |  € 8.400  |
-| Oudewater  |  € 8.400  |
-| Overbetuwe  |  € 89.073  |
-| Papendrecht  |  € 34.989  |
-| Pekela  |  € 8.912  |
-| Pijnacker-Nootdorp  |  € 24.433  |
-| Putten  |  € 20.147  |
-| Raalte  |  € 26.799  |
-| Renswoude  |  € 22.920  |
-| Reusel-De Mierden  |  € 14.138  |
-| Rheden  |  € 23.231  |
-| Rhenen  |  € 13.470  |
-| Ridderkerk  |  € 11.582  |
-| Rijnwoude  |  € 15.010  |
-| Rijssen-Holten  |  € 74.577  |
-| Rijswijk  |  € 23.942  |
-| Roerdalen  |  € 19.454  |
-| Roermond  |  € 71.380  |
-| Roosendaal  |  € 37.774  |
-| Rotterdam  |  € 312.764  |
-| Rucphen  |  € 13.480  |
-| Schagen  |  € 11.125  |
-| Schermer  |  € 25.109  |
-| Schiedam  |  € 37.913  |
-| Schijndel  |  € 41.714  |
-| Schouwen-Duiveland  |  € 47.876  |
-| ’s-Gravenhage  |  € 234.801  |
-| ’s-Hertogenbosch  |  € 74.227  |
-| Sint-Anthonis  |  € 12.105  |
-| Sint-Michielsgestel  |  € 15.238  |
-| Sint-Oedenrode  |  € 11.514  |
-| Sittard-Geleen  |  € 54.329  |
-| Skarsterlan  |  € 35.623  |
-| Sliedrecht  |  € 27.705  |
-| Slochteren  |  € 17.912  |
-| Smallingerland  |  € 107.552  |
-| Soest  |  € 26.491  |
-| Someren  |  € 13.138  |
-| Son en Breugel  |  € 10.072  |
-| Spijkenisse  |  € 38.389  |
-| Stadskanaal  |  € 60.537  |
-| Staphorst  |  € 16.422  |
-| Stede Broec  |  € 9.410  |
-| Steenbergen  |  € 21.010  |
-| Steenwijkerland  |  € 148.076  |
-| Stein  |  € 14.939  |
-| Stichtse Vecht  |  € 42.484  |
-| Sudwest Fryslan  |  € 128.397  |
-| Ten Boer  |  € 8.400  |
-| Terschelling  |  € 23.107  |
-| Teylingen  |  € 20.213  |
-| Tholen  |  € 29.038  |
-| Tilburg  |  € 108.426  |
-| Twenterand  |  € 27.286  |
-| Tynaarlo  |  € 83.490  |
-| Tytsjerksteradiel  |  € 32.322  |
-| Uden  |  € 26.247  |
-| Uitgeest  |  € 22.920  |
-| Uithoorn  |  € 11.796  |
-| Utrecht  |  € 147.889  |
-| Utrechtse Heuvelrug  |  € 101.877  |
-| Veendam  |  € 21.651  |
-| Veenendaal  |  € 31.491  |
-| Veere  |  € 25.351  |
-| Veghel  |  € 25.780  |
-| Veldhoven  |  € 23.977  |
-| Velsen  |  € 80.755  |
-| Venlo  |  € 61.492  |
-| Venray  |  € 37.244  |
-| Vianen  |  € 29.344  |
-| Vlaardingen  |  € 36.864  |
-| Vlagtwedde  |  € 19.342  |
-| Vlieland  |  € 8.400  |
-| Voorschoten  |  € 12.076  |
-| Voorst  |  € 18.630  |
-| Waalre  |  € 8.400  |
-| Waalwijk  |  € 28.866  |
-| Waddinxveen  |  € 15.425  |
-| Wageningen  |  € 20.399  |
-| Wassenaar  |  € 37.678  |
-| Waterland  |  € 41.972  |
-| Weesp  |  € 29.094  |
-| Werkendam  |  € 19.415  |
-| Westland  |  € 55.670  |
-| Westvoorne  |  € 12.855  |
-| Wierden  |  € 16.219  |
-| Wijchen  |  € 71.246  |
-| Wijk bij Duurstede  |  € 44.772  |
-| Winsum  |  € 17.419  |
-| Winterswijk  |  € 28.488  |
-| Woensdrecht  |  € 15.229  |
-| Woerden  |  € 32.623  |
-| Wormerland  |  € 33.531  |
-| Woudrichem  |  € 9.413  |
-| Zaanstad  |  € 76.108  |
-| Zaltbommel  |  € 16.800  |
-| Zandvoort  |  € 24.332  |
-| Zeevang  |  € 8.799  |
-| Zeist  |  € 92.377  |
-| Zijpe  |  € 15.709  |
-| Zoetermeer  |  € 60.145  |
-| Zoeterwoude  |  € 6.458  |
-| Zuidhorn  |  € 22.254  |
-| Zuidplas  |  € 12.392  |
-| Zundert  |  € 17.173  |
-| Zutphen  |  € 26.720  |
-| Zwijndrecht  |  € 51.039  |
-| Zwolle  |  € 67.145  |
-|  *Totaal*   |  * € 11.150.345*   |
-
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Groningen  |  € 78.498  |
-| Fryslân  |  € 92.629  |
-| Drenthe  |  € 78.094  |
-| Overijssel  |  € 101.918  |
-| Gelderland  |  € 139.889  |
-| Utrecht  |  € 88.858  |
-| Noord-Holland  |  € 144.958  |
-| Zuid-Holland  |  € 167.906  |
-| Zeeland  |  € 51.246  |
-| Noord-Brabant  |  € 112.180  |
-| Limburg  |  € 92.998  |
-| Flevoland  |  € 72.825  |
-|  *Totaal*   |  * € 1.221.999*   |
-
-###Bijlage 31h 
-
-####, genoemd in artikel 31h . Stimuleringsregeling oversampling WoOn
-
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Amstelveen  |  € 4.763  |
-| Arnhem  |  € 20.000  |
-| Bergen op Zoom  |  € 20.000  |
-| Delft  |  € 20.000  |
-| Duiven  |  € 18.451  |
-| Gouda  |  € 6.077  |
-| Harderwijk  |  € 17.789  |
-| Hattem  |  € 13.108  |
-| Kampen  |  € 6.270  |
-| Katwijk  |  € 5.626  |
-| Lingewaard  |  € 15.496  |
-| Maassluis  |  € 6.831  |
-| Nijmegen  |  € 20.000  |
-| Nunspeet  |  € 18.747  |
-| ’s-Gravenhage  |  € 3.399  |
-| Teylingen  |  € 6.265  |
-| Utrecht  |  € 10.627  |
-| Vlaardingen  |  € 20.000  |
-| Zwolle  |  € 20.000  |
-|  *Totaal*   |  * € 253.449*   |
-
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Gelderland  |  € 2.364  |
-| Zeeland  |  € 20.000  |
-|  *Totaal*   |  * € 22.364*   |
+| Provincie  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Drenthe  | € 2.647.235  | --- |
+| Flevoland  | € 1.130.930  | --- |
+| Fryslân  | € 23.578.534  | --- |
+| Groningen  | € 19.718.039  | --- |
+| Totaal  | € 47.074.738  | --- |
 
 ###Bijlage 31i 
 
@@ -6118,6 +7076,61 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Flevoland  |  € 1.166.954  |
 |  *Totaal*   |  * € 76.386.909*   |
 
+###Bijlage 31i-2 
+
+####, genoemd in artikel 31i . Investeringsbudget stedelijke vernieuwing (ISV)
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Alkmaar  | € 1.316.200  | --- |
+| Almelo  | € 955.555  | --- |
+| Amersfoort  | € 1.055.889  | --- |
+| Amsterdam  | € 41.465.483  | --- |
+| Arnhem  | € 3.333.809  | --- |
+| Breda  | € 1.359.184  | --- |
+| Deventer  | € 1.350.441  | --- |
+| Dordrecht  | € 2.080.849  | --- |
+| Eindhoven  | € 2.336.042  | --- |
+| Emmen  | € 794.309  | --- |
+| Enschede  | € 2.560.494  | --- |
+| Groningen  | € 6.807.296  | --- |
+| Haarlem  | € 2.606.069  | --- |
+| Heerlen  | € 2.242.405  | --- |
+| Helmond  | € 584.085  | --- |
+| Hengelo O  | € 1.086.503  | --- |
+| Leeuwarden  | € 3.038.455  | --- |
+| Leiden  | € 1.977.552  | --- |
+| Lelystad  | € 52.930  | --- |
+| Maastricht  | € 1.608.216  | --- |
+| Nijmegen  | € 2.451.899  | --- |
+| Rotterdam  | € 29.151.210  | --- |
+| Schiedam  | € 2.426.344  | --- |
+| ’s-Gravenhage  | € 20.038.293  | --- |
+| ’s-Hertogenbosch  | € 751.984  | --- |
+| Sittard-Geleen  | € 1.172.518  | --- |
+| Tilburg  | € 2.202.352  | --- |
+| Utrecht  | € 6.558.690  | --- |
+| Venlo  | € 1.333.312  | --- |
+| Zaanstad  | € 1.926.479  | --- |
+| Zwolle  | € 1.186.524  | --- |
+| Totaal  | € 147.811.371  | --- |
+
+| Provincie  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Drenthe  | € 2.202.242  | --- |
+| Flevoland  | € 1.352.041  | --- |
+| Fryslân  | € 4.079.551  | --- |
+| Gelderland  | € 6.744.109  | --- |
+| Groningen  | € 4.140.597  | --- |
+| Limburg  | € 4.792.392  | --- |
+| Noord-Brabant  | € 8.121.826  | --- |
+| Noord-Holland  | € 6.336.267  | --- |
+| Overijssel  | € 2.755.702  | --- |
+| Utrecht  | € 2.405.414  | --- |
+| Zeeland  | € 3.685.161  | --- |
+| Zuid-Holland  | € 12.418.267  | --- |
+| Totaal  | € 59.033.569  | --- |
+
 ###Bijlage 31j 
 
 ####, genoemd in artikel 31j . Nationale gebiedsontwikkelingen
@@ -6142,6 +7155,44 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Zeeland  |  € 1.500.000  |
 |  *Totaal*   |  * € 2.262.000*   |
 
+###Bijlage 31j-2 
+
+####, genoemd in artikel 31j . Nationale gebiedsontwikkelingen
+
+| Gemeente  | Project  | Uitkering 2012  |
+|:---|:---|:---|
+| Amsterdam  | Noordelijke IJ-overs  | € 4.888.000  |
+| Apeldoorn  | Kanaalzone  | € 2.200.000  |
+| Culemborg  | Hollandse Waterlinie  | € 500.000  |
+| ’s-Gravenhage  | Scheveningen boulevard  | € 4.430.000  |
+| Dordrecht  | Westelijke Dordtse Oever  | € 2.000.000  |
+| Eindhoven  | A2 zone  | € 2.720.000  |
+| Emmen  | Dierenpark  | € 4.000.000  |
+| Enschede  | Muziekkwartier  | € 560.000  |
+| Groningen  | Centrale zone  | € 3.200.000  |
+| Groningen  | Europark  | € 280.000  |
+| Heerlen  | Oranje Park  | € 800.000  |
+| Hengelo  | Hart van Zuid  | € 160.000  |
+| Leeuwarden  | Nieuw Zaailand  | € 412.000  |
+| Rotterdam  | Hart van Zuid  | € 5.032.000  |
+| Tilburg  | Spoorzone  | € 631.000  |
+| Zaandam  | Inverdan  | € 532.000  |
+| Zaltbommel  | Station/vesting  | € 200.000  |
+| Zwartewaterland  | Bedrijventerrein  | € 40.000  |
+| Totaal  | --- | € 32.585.000  |
+
+| Provincie  | Project  | Uitkering 2012  |
+|:---|:---|:---|
+| Gelderland  | Traverze Dieren  | € 23.365.000  |
+| Noord-Holland  | Naardermeer  | € 480.000  |
+| Overijssel  | IJsseldelta  | € 4.500.000  |
+| Utrecht  | Fort Vechten  | € 282.000  |
+| Zeeland  | Waterduinen  | € 1.500.000  |
+| Zeeland  | Maintenance Value Park en Mobiliteitscentrum Zalco  | € 1.700.000  |
+| Zuid-Holland  | Nieuw Reijerswaard  | € 12.750.000  |
+| Zuid-Holland  | Oude Rijn zone  | € 11.300.000  |
+| Totaal  | --- | € 55.877.000  |
+
 ###Bijlage 31k 
 
 ####, genoemd in artikel 31k . Green Deal
@@ -6157,27 +7208,26 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Overijssel  |  € 3.000.000  |
 |  *Totaal*   |  * € 6.000.000*   |
 
-###Bijlage 31l 
+###Bijlage 31k-2 
 
-####, genoemd in artikel 31l . Pieken in de Delta
+####, genoemd in artikel 31k . Green Deal
 
-|  *Gemeente*   |  *Uitkering 2011*   |
-|:---|:---|
-| Amsterdam  |  € 6.555.000  |
-| Rotterdam  |  € 1.966.000  |
-| ’s-Gravenhage  |  € 1.966.000  |
-| Utrecht  |  € 3.095.000  |
-|  *Totaal*   |  * € 13.582.000*   |
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Amsterdam  | € 550.034  | --- |
+| Rotterdam  | € 60.000  | --- |
+| Totaal  | € 610.034  | --- |
 
-|  *Provincie*   |  *Uitkering 2011*   |
-|:---|:---|
-| Groningen  |  € 10.000.000  |
-| Overijssel  |  € 2.750.000  |
-| Gelderland  |  € 2.750.000  |
-| Utrecht  |  € 2.000.000  |
-| Zuid-Holland  |  € 1.966.000  |
-| Zeeland  |  € 200.000  |
-|  *Totaal*   |  * € 19.666.000*   |
+| Provincie  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Drenthe  | € 84.000  | --- |
+| Flevoland  | € 585.000  | --- |
+| Groningen  | € 210.000  | --- |
+| Limburg  | € 2.752.000  | --- |
+| Noord-Brabant  | € 3.000.000  | --- |
+| Overijssel  | € 2.000.000  | --- |
+| Zeeland  | € 500.000  | --- |
+| Totaal  | € 9.131.000  | --- |
 
 ###Bijlage 31m 
 
@@ -6196,4 +7246,455 @@ Gemeente Alphen aan den Rijn De Marne Geldermalsen Halderberge Hengelo Leeuwarde
 | Noord-Holland  |  € 3.000.000  |
 | Zuid-Holland  |  € 1.400.000  |
 |  *Totaal*   |  * € 12.080.000*   |
+
+###Bijlage 31m-2 
+
+####, genoemd in artikel 31m. Sterke regio’s
+
+| Provincie  | Project  | Uitkering 2012  |
+|:---|:---|:---|
+| Drenthe  | Groen gas Wijster  | € 960.000  |
+| Fryslân  | Verduurzaming Waddengas  | € 960.000  |
+| Noord-Holland  | Verbinding Greenport  | € 4.470.000  |
+| Zuid-Holland  | Coolport  | € 1.800.000  |
+| Totaal  | --- | € 8.190.000  |
+
+###Bijlage 31n 
+
+####, genoemd in artikel 31n . Invoeringskosten Jeugdzorg
+
+| Gemeente  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Aa en Hunze  | € 18.871  | --- |
+| Aalburg  | € 14.851  | --- |
+| Aalsmeer  | € 22.473  | --- |
+| Aalten  | € 20.402  | --- |
+| Achtkarspelen  | € 21.367  | --- |
+| Alblasserdam  | € 17.762  | --- |
+| Albrandswaard  | € 19.686  | --- |
+| Alkmaar  | € 45.157  | --- |
+| Almelo  | € 40.748  | --- |
+| Almere  | € 105.515  | --- |
+| Alphen aan den Rijn  | € 40.642  | --- |
+| Alphen-Chaam  | € 12.383  | --- |
+| Ameland  | € 9.946  | --- |
+| Amersfoort  | € 79.623  | --- |
+| Amstelveen  | € 40.868  | --- |
+| Amsterdam  | € 294.139  | --- |
+| Apeldoorn  | € 73.720  | --- |
+| Appingedam  | € 13.006  | --- |
+| Arnhem  | € 66.283  | --- |
+| Assen  | € 39.071  | --- |
+| Asten  | € 15.655  | --- |
+| Baarle-Nassau  | € 10.644  | --- |
+| Baarn  | € 18.383  | --- |
+| Barendrecht  | € 32.023  | --- |
+| Barneveld  | € 37.240  | --- |
+| Bedum  | € 12.970  | --- |
+| Beek  | € 14.498  | --- |
+| Beemster  | € 12.065  | --- |
+| Beesel  | € 14.066  | --- |
+| Bellingwedde  | € 11.719  | --- |
+| Bergambacht  | € 13.136  | --- |
+| Bergeijk  | € 16.286  | --- |
+| Bergen L  | € 13.752  | --- |
+| Bergen NH  | € 19.942  | --- |
+| Bergen op Zoom  | € 34.552  | --- |
+| Berkelland  | € 27.710  | --- |
+| Bernheze  | € 22.235  | --- |
+| Bernisse  | € 13.286  | --- |
+| Best  | € 21.753  | --- |
+| Beuningen  | € 19.742  | --- |
+| Beverwijk  | € 24.494  | --- |
+| Binnenmaas  | € 20.136  | --- |
+| Bladel  | € 16.870  | --- |
+| Blaricum  | € 12.007  | --- |
+| Bloemendaal  | € 18.459  | --- |
+| Boarnsterhim  | € 17.332  | --- |
+| Bodegraven-Reeuwijk  | € 23.924  | --- |
+| Boekel  | € 13.194  | --- |
+| Borger-Odoorn  | € 18.989  | --- |
+| Borne  | € 18.037  | --- |
+| Borsele  | € 19.119  | --- |
+| Boskoop  | € 15.555  | --- |
+| Boxmeer  | € 20.876  | --- |
+| Boxtel  | € 21.571  | --- |
+| Breda  | € 78.893  | --- |
+| Brielle  | € 14.717  | --- |
+| Bronckhorst  | € 24.396  | --- |
+| Brummen  | € 17.302  | --- |
+| Brunssum  | € 18.563  | --- |
+| Bunnik  | € 14.987  | --- |
+| Bunschoten  | € 18.491  | --- |
+| Buren  | € 20.012  | --- |
+| Bussum  | € 23.330  | --- |
+| Capelle aan den IJssel  | € 35.863  | --- |
+| Castricum  | € 23.088  | --- |
+| Coevorden  | € 23.434  | --- |
+| Cranendonck  | € 16.494  | --- |
+| Cromstrijen  | € 13.568  | --- |
+| Cuijk  | € 19.175  | --- |
+| Culemborg  | € 21.701  | --- |
+| Dalfsen  | € 21.427  | --- |
+| Dantumadiel  | € 16.928  | --- |
+| De Bilt  | € 26.568  | --- |
+| De Marne  | € 12.617  | --- |
+| De Ronde Venen  | € 27.826  | --- |
+| De Wolden  | € 18.697  | --- |
+| Delft  | € 39.617  | --- |
+| Delfzijl  | € 18.533  | --- |
+| Den Helder  | € 30.318  | --- |
+| Deurne  | € 21.919  | --- |
+| Deventer  | € 51.222  | --- |
+| Diemen  | € 18.131  | --- |
+| Dinkelland  | € 20.922  | --- |
+| Dirksland  | € 12.429  | --- |
+| Doesburg  | € 13.256  | --- |
+| Doetinchem  | € 32.219  | --- |
+| Dongen  | € 19.105  | --- |
+| Dongeradeel  | € 19.199  | --- |
+| Dordrecht  | € 57.870  | --- |
+| Drechterland  | € 17.240  | --- |
+| Drimmelen  | € 19.163  | --- |
+| Dronten  | € 27.588  | --- |
+| Druten  | € 16.712  | --- |
+| Duiven  | € 20.770  | --- |
+| Echt-Susteren  | € 19.690  | --- |
+| Edam-Volendam  | € 21.637  | --- |
+| Ede  | € 59.613  | --- |
+| Eemnes  | € 12.667  | --- |
+| Eemsmond  | € 15.483  | --- |
+| Eersel  | € 15.953  | --- |
+| Eijsden-Margraten  | € 18.421  | --- |
+| Eindhoven  | € 87.142  | --- |
+| Elburg  | € 19.191  | --- |
+| Emmen  | € 53.011  | --- |
+| Enkhuizen  | € 15.977  | --- |
+| Enschede  | € 70.324  | --- |
+| Epe  | € 21.781  | --- |
+| Ermelo  | € 19.349  | --- |
+| Etten-Leur  | € 26.175  | --- |
+| Ferwerderadiel  | € 12.521  | --- |
+| Franekeradeel  | € 17.434  | --- |
+| Gaasterlan-Sleat  | € 12.817  | --- |
+| Geertruidenberg  | € 17.144  | --- |
+| Geldermalsen  | € 21.070  | --- |
+| Geldrop-Mierlo  | € 24.328  | --- |
+| Gemert-Bakel  | € 20.988  | --- |
+| Gennep  | € 15.459  | --- |
+| Giessenlanden  | € 15.143  | --- |
+| Gilze en Rijen  | € 19.431  | --- |
+| Goedereede  | € 13.466  | --- |
+| Goes  | € 22.903  | --- |
+| Goirle  | € 17.852  | --- |
+| Gorinchem  | € 23.640  | --- |
+| Gouda  | € 40.224  | --- |
+| Graafstroom  | € 13.890  | --- |
+| Graft-De Rijp  | € 11.305  | --- |
+| Grave  | € 14.032  | --- |
+| Groesbeek  | € 15.597  | --- |
+| Groningen  | € 65.525  | --- |
+| Grootegast  | € 14.446  | --- |
+| Gulpen-Wittem  | € 13.258  | --- |
+| Haaksbergen  | € 19.135  | --- |
+| Haaren  | € 14.360  | --- |
+| Haarlem  | € 67.616  | --- |
+| Haarlemmerliede Spaarnw  | € 10.740  | --- |
+| Haarlemmermeer  | € 76.784  | --- |
+| Halderberge  | € 19.956  | --- |
+| Hardenberg  | € 36.960  | --- |
+| Harderwijk  | € 28.927  | --- |
+| Hardinxveld-Giessendam  | € 17.120  | --- |
+| Haren  | € 16.213  | --- |
+| Harenkarspel  | € 16.320  | --- |
+| Harlingen  | € 15.067  | --- |
+| Hattem  | € 13.710  | --- |
+| Heemskerk  | € 24.428  | --- |
+| Heemstede  | € 19.778  | --- |
+| Heerde  | € 16.207  | --- |
+| Heerenveen  | € 26.618  | --- |
+| Heerhugowaard  | € 33.114  | --- |
+| Heerlen  | € 38.159  | --- |
+| Heeze-Leende  | € 14.755  | --- |
+| Heiloo  | € 18.005  | --- |
+| Hellendoorn  | € 24.240  | --- |
+| Hellevoetsluis  | € 24.474  | --- |
+| Helmond  | € 48.687  | --- |
+| Hendrik-Ido-Ambacht  | € 22.045  | --- |
+| Hengelo O  | € 43.436  | --- |
+| Het Bildt  | € 13.418  | --- |
+| Heumen  | € 15.919  | --- |
+| Heusden  | € 27.130  | --- |
+| Hillegom  | € 16.746  | --- |
+| Hilvarenbeek  | € 15.127  | --- |
+| Hilversum  | € 42.893  | --- |
+| Hof van Twente  | € 23.690  | --- |
+| Hollands Kroon  | € 55.030  | --- |
+| Hoogeveen  | € 32.501  | --- |
+| Hoogezand-Sappemeer  | € 22.529  | --- |
+| Hoorn  | € 39.549  | --- |
+| Horst aan de Maas  | € 26.786  | --- |
+| Houten  | € 33.478  | --- |
+| Huizen  | € 26.209  | --- |
+| Hulst  | € 19.003  | --- |
+| IJsselstein  | € 25.435  | --- |
+| Kaag en Braassem  | € 19.641  | --- |
+| Kampen  | € 33.506  | --- |
+| Kapelle  | € 14.418  | --- |
+| Katwijk  | € 37.582  | --- |
+| Kerkrade  | € 22.865  | --- |
+| Koggenland  | € 18.789  | --- |
+| Kollumerland en Nwkruisl  | € 14.236  | --- |
+| Korendijk  | € 13.224  | --- |
+| Krimpen aan den IJssel  | € 21.006  | --- |
+| Laarbeek  | € 17.706  | --- |
+| Landerd  | € 15.117  | --- |
+| Landgraaf  | € 21.429  | --- |
+| Landsmeer  | € 12.507  | --- |
+| Langedijk  | € 21.232  | --- |
+| Lansingerland  | € 37.124  | --- |
+| Laren  | € 12.795  | --- |
+| Leek  | € 17.112  | --- |
+| Leerdam  | € 17.706  | --- |
+| Leeuwarden  | € 43.740  | --- |
+| Leeuwarderadeel  | € 13.050  | --- |
+| Leiden  | € 49.731  | --- |
+| Leiderdorp  | € 19.942  | --- |
+| Leidschendam-Voorburg  | € 35.535  | --- |
+| Lelystad  | € 43.482  | --- |
+| Lemsterland  | € 14.633  | --- |
+| Leudal  | € 23.312  | --- |
+| Leusden  | € 21.302  | --- |
+| Liesveld  | € 13.426  | --- |
+| Lingewaal  | € 13.366  | --- |
+| Lingewaard  | € 29.007  | --- |
+| Lisse  | € 17.866  | --- |
+| Littenseradiel  | € 13.886  | --- |
+| Lochem  | € 21.979  | --- |
+| Loon op Zand  | € 17.862  | --- |
+| Lopik  | € 15.539  | --- |
+| Loppersum  | € 12.859  | --- |
+| Losser  | € 17.852  | --- |
+| Maasdonk  | € 13.562  | --- |
+| Maasdriel  | € 18.977  | --- |
+| Maasgouw  | € 17.002  | --- |
+| Maassluis  | € 21.118  | --- |
+| Maastricht  | € 43.960  | --- |
+| Marum  | € 13.280  | --- |
+| Medemblik  | € 27.944  | --- |
+| Meerssen  | € 15.759  | --- |
+| Menameradiel  | € 14.715  | --- |
+| Menterwolde  | € 13.492  | --- |
+| Meppel  | € 22.959  | --- |
+| Middelburg  | € 28.465  | --- |
+| Middelharnis  | € 16.139  | --- |
+| Midden Drenthe  | € 22.799  | --- |
+| Midden-Delfland  | € 17.122  | --- |
+| Mill en Sint Hubert  | € 13.178  | --- |
+| Millingen aan de Rijn  | € 10.894  | --- |
+| Moerdijk  | € 23.698  | --- |
+| Montferland  | € 22.767  | --- |
+| Montfoort U  | € 15.187  | --- |
+| Mook en Middelaar  | € 11.729  | --- |
+| Muiden  | € 11.321  | --- |
+| Naarden  | € 17.060  | --- |
+| Neder-Betuwe  | € 20.738  | --- |
+| Nederlek  | € 14.134  | --- |
+| Nederweert  | € 15.183  | --- |
+| Neerijnen  | € 14.252  | --- |
+| Nieuwegein  | € 32.723  | --- |
+| Nieuwkoop  | € 20.302  | --- |
+| Nieuw-Lekkerland  | € 13.794  | --- |
+| Nijkerk  | € 27.370  | --- |
+| Nijmegen  | € 65.315  | --- |
+| Noord-Beveland  | € 11.068  | --- |
+| Noordenveld  | € 21.176  | --- |
+| Noordoostpolder  | € 31.348  | --- |
+| Noordwijk  | € 17.991  | --- |
+| Noordwijkerhout  | € 14.865  | --- |
+| Nuenen c.a.  | € 17.662  | --- |
+| Nunspeet  | € 21.381  | --- |
+| Nuth  | € 13.854  | --- |
+| Oegstgeest  | € 18.711  | --- |
+| Oirschot  | € 16.227  | --- |
+| Oisterwijk  | € 19.109  | --- |
+| Oldambt  | € 23.296  | --- |
+| Oldebroek  | € 19.043  | --- |
+| Oldenzaal  | € 22.597  | --- |
+| Olst-Wijhe  | € 16.348  | --- |
+| Ommen  | € 15.761  | --- |
+| Onderbanken  | € 11.343  | --- |
+| Oost Gelre  | € 22.237  | --- |
+| Oosterhout  | € 30.852  | --- |
+| Oostflakkee  | € 12.595  | --- |
+| Ooststellingwerf  | € 19.205  | --- |
+| Oostzaan  | € 12.389  | --- |
+| Opmeer  | € 13.754  | --- |
+| Opsterland  | € 22.335  | --- |
+| Oss  | € 44.026  | --- |
+| Oud-Beijerland  | € 19.219  | --- |
+| Oude IJsselstreek  | € 25.517  | --- |
+| Ouder-Amstel  | € 14.082  | --- |
+| Ouderkerk  | € 12.273  | --- |
+| Oudewater  | € 12.972  | --- |
+| Overbetuwe  | € 30.814  | --- |
+| Papendrecht  | € 22.249  | --- |
+| Peel en Maas  | € 26.788  | --- |
+| Pekela  | € 13.588  | --- |
+| Pijnacker-Nootdorp  | € 35.387  | --- |
+| Purmerend  | € 41.446  | --- |
+| Putten  | € 19.672  | --- |
+| Raalte  | € 24.767  | --- |
+| Reimerswaal  | € 19.810  | --- |
+| Renkum  | € 20.800  | --- |
+| Renswoude  | € 10.944  | --- |
+| Reusel-De Mierden  | € 13.522  | --- |
+| Rheden  | € 24.973  | --- |
+| Rhenen  | € 17.382  | --- |
+| Ridderkerk  | € 24.741  | --- |
+| Rijnwaarden  | € 13.020  | --- |
+| Rijnwoude  | € 16.546  | --- |
+| Rijssen-Holten  | € 27.982  | --- |
+| Rijswijk  | € 23.466  | --- |
+| Roerdalen  | € 15.973  | --- |
+| Roermond  | € 29.545  | --- |
+| Roosendaal  | € 40.162  | --- |
+| Rotterdam  | € 248.155  | --- |
+| Rozendaal  | € 9.039  | --- |
+| Rucphen  | € 16.133  | --- |
+| Schagen (oud)  | € 15.947  | --- |
+| Schermer  | € 10.900  | --- |
+| Scherpenzeel  | € 13.108  | --- |
+| Schiedam  | € 38.817  | --- |
+| Schiermonnikoog  | € 8.747  | --- |
+| Schijndel  | € 18.063  | --- |
+| Schinnen  | € 13.378  | --- |
+| Schoonhoven  | € 13.598  | --- |
+| Schouwen-Duiveland  | € 21.771  | --- |
+| ’s-Gravenhage  | € 212.923  | --- |
+| ’s-Hertogenbosch  | € 64.686  | --- |
+| Simpelveld  | € 12.239  | --- |
+| Sint-Anthonis  | € 13.780  | --- |
+| Sint-Michielsgestel  | € 20.950  | --- |
+| Sint-Oedenrode  | € 16.169  | --- |
+| Sittard-Geleen  | € 42.437  | --- |
+| Skarsterlan  | € 20.946  | --- |
+| Sliedrecht  | € 18.887  | --- |
+| Slochteren  | € 15.303  | --- |
+| Sluis  | € 16.588  | --- |
+| Smallingerland  | € 32.981  | --- |
+| Soest  | € 28.277  | --- |
+| Someren  | € 16.219  | --- |
+| Son en Breugel  | € 15.697  | --- |
+| Spijkenisse  | € 37.054  | --- |
+| Stadskanaal  | € 21.733  | --- |
+| Staphorst  | € 18.055  | --- |
+| Stede Broec  | € 18.083  | --- |
+| Steenbergen  | € 17.628  | --- |
+| Steenwijkerland  | € 27.202  | --- |
+| Stein  | € 17.622  | --- |
+| Stichtse Vecht  | € 35.863  | --- |
+| Strijen  | € 12.003  | --- |
+| Sudwest Fryslan  | € 45.811  | --- |
+| Ten Boer  | € 12.103  | --- |
+| Terneuzen  | € 29.651  | --- |
+| Terschelling  | € 10.086  | --- |
+| Texel  | € 14.172  | --- |
+| Teylingen  | € 25.237  | --- |
+| Tholen  | € 20.856  | --- |
+| Tiel  | € 27.448  | --- |
+| Tilburg  | € 88.809  | --- |
+| Tubbergen  | € 19.111  | --- |
+| Twenterand  | € 24.687  | --- |
+| Tynaarlo  | € 22.421  | --- |
+| Tytsjerksteradiel  | € 22.725  | --- |
+| Ubbergen  | € 12.113  | --- |
+| Uden  | € 26.125  | --- |
+| Uitgeest  | € 14.488  | --- |
+| Uithoorn  | € 20.996  | --- |
+| Urk  | € 21.953  | --- |
+| Utrecht  | € 128.999  | --- |
+| Utrechtse Heuvelrug  | € 29.355  | --- |
+| Vaals  | € 11.433  | --- |
+| Valkenburg aan de Geul  | € 13.988  | --- |
+| Valkenswaard  | € 19.826  | --- |
+| Veendam  | € 19.637  | --- |
+| Veenendaal  | € 38.687  | --- |
+| Veere  | € 17.690  | --- |
+| Veghel  | € 25.213  | --- |
+| Veldhoven  | € 26.133  | --- |
+| Velsen  | € 37.024  | --- |
+| Venlo  | € 47.232  | --- |
+| Venray  | € 26.894  | --- |
+| Vianen  | € 17.052  | --- |
+| Vlaardingen  | € 35.511  | --- |
+| Vlagtwedde  | € 14.611  | --- |
+| Vlieland  | € 8.851  | --- |
+| Vlissingen  | € 24.709  | --- |
+| Vlist  | € 12.803  | --- |
+| Voerendaal  | € 13.056  | --- |
+| Voorschoten  | € 19.103  | --- |
+| Voorst  | € 17.956  | --- |
+| Vught  | € 19.642  | --- |
+| Waalre  | € 15.705  | --- |
+| Waalwijk  | € 27.014  | --- |
+| Waddinxveen  | € 19.543  | --- |
+| Wageningen  | € 20.578  | --- |
+| Wassenaar  | € 19.619  | --- |
+| Waterland  | € 15.373  | --- |
+| Weert  | € 27.336  | --- |
+| Weesp  | € 15.277  | --- |
+| Werkendam  | € 20.536  | --- |
+| West Maas en Waal  | € 16.139  | --- |
+| Westerveld  | € 15.955  | --- |
+| Westervoort  | € 14.911  | --- |
+| Westland  | € 53.548  | --- |
+| Weststellingwerf  | € 19.039  | --- |
+| Westvoorne  | € 13.720  | --- |
+| Wierden  | € 19.319  | --- |
+| Wijchen  | € 26.574  | --- |
+| Wijdemeren  | € 18.235  | --- |
+| Wijk bij Duurstede  | € 18.931  | --- |
+| Winsum  | € 14.989  | --- |
+| Winterswijk  | € 20.830  | --- |
+| Woensdrecht  | € 16.798  | --- |
+| Woerden  | € 32.093  | --- |
+| Wormerland  | € 15.225  | --- |
+| Woudenberg  | € 14.494  | --- |
+| Woudrichem  | € 14.875  | --- |
+| Zaanstad  | € 70.922  | --- |
+| Zaltbommel  | € 21.899  | --- |
+| Zandvoort  | € 13.862  | --- |
+| Zederik  | € 14.919  | --- |
+| Zeevang  | € 11.263  | --- |
+| Zeewolde  | € 20.416  | --- |
+| Zeist  | € 34.544  | --- |
+| Zevenaar  | € 21.092  | --- |
+| Zijpe  | € 13.362  | --- |
+| Zoetermeer  | € 60.732  | --- |
+| Zoeterwoude  | € 11.837  | --- |
+| Zuidhorn  | € 17.818  | --- |
+| Zuidplas  | € 27.288  | --- |
+| Zundert  | € 16.714  | --- |
+| Zutphen  | € 29.409  | --- |
+| Zwartewaterland  | € 20.606  | --- |
+| Zwijndrecht  | € 26.099  | --- |
+| Zwolle  | € 61.064  | --- |
+| Totaal  | € 10.500.002  | --- |
+
+| Provincie  | Uitkering 2012  |--- |
+|:---|:---|:---|
+| Drenthe  | € 100.000  | --- |
+| Flevoland  | € 200.000  | --- |
+| Fryslân  | € 100.000  | --- |
+| Gelderland  | € 100.000  | --- |
+| Groningen  | € 100.000  | --- |
+| Limburg  | € 100.000  | --- |
+| Noord-Brabant  | € 100.000  | --- |
+| Noord-Holland  | € 100.000  | --- |
+| Overijssel  | € 100.000  | --- |
+| Utrecht  | € 100.000  | --- |
+| Zeeland  | € 100.000  | --- |
+| Zuid-Holland  | € 100.000  | --- |
+| Totaal  | € 1.300.000  | --- |
 

@@ -2729,6 +2729,14 @@ b. de omvang van de vast te stellen subsidie.
 
 De subsidie, bedoeld in artikel 3.12.2, bevat staatssteun en wordt gerechtvaardigd door de communautaire richtsnoeren inzake staatssteun ter bevordering van risicokapitaalinvesteringen in kleine en middelgrote ondernemingen (2006/C 194/02). 
 
+### Artikel  3.10.13a  
+
+1.  Voor een startersfonds waaraan op grond van artikel 4.3 van de Subsidieregeling starten, groeien en overdragen van ondernemingen een subsidie is verstrekt voor het tijdstip van de inwerkingtreding van de regeling van de Minister van Economische Zaken van 9 juli 2014 tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen in verband met actualisatie van de subsidiemodule Seed capital technostarters (Stcrt. 2014, 19382) en waarvoor de overeenkomst van geldlening, bedoeld in artikel 4.5 van de Subsidieregeling starten, groeien en overdragen van ondernemingen, nog geldig is, blijft die regeling van toepassing, zoals die gold voor dat tijdstip.   
+2.  Op verzoek van een startersfonds als bedoeld in het eerste lid kan de overeenkomst van geldlening worden aangepast overeenkomstig het model opgenomen in bijlage 3.10.1, indien de aanpassing heeft plaatsgevonden binnen vier maanden na het in het eerste lid bedoelde tijdstip.   
+3.  Het tweede lid is niet van toepassing met betrekking tot het bepaalde in bijlage 3.10.1, artikel 5, eerste lid, onderdeel c.   
+4.  Voor een startersfonds waaraan op grond van artikel 2, eerste lid, van de Regeling seed capital technostarters, zoals die gold voor 1 januari 2009, een subsidie is verstrekt en waarvoor de overeenkomst tot geldlening, bedoeld in artikel 2, tweede lid, van die regeling nog geldig is, kan de overeenkomst tot geldlening op verzoek van het startersfonds worden aangepast overeenkomstig het model opgenomen in bijlage 3.10.1, indien de aanpassing heeft plaatsgevonden binnen vier maanden na de inwerkingtreding van de regeling van de Minister van Economische Zaken van 4 september 2014, tot wijziging van de Regeling nationale EZ-subsidies in verband met het opnemen van een overgangsbepaling in titel 3.10 (Stcrt. 2014, 25439).   
+5.  Het vierde lid is niet van toepassing met betrekking tot het bepaalde in bijlage 3.10.1, artikel 5, eerste lid, onderdeel c.  
+
 ### Artikel  3.10.14  
 
 ####Vervaltermijn
@@ -3661,7 +3669,7 @@ b. indien met de uitvoering van het vroegefasetraject is begonnen voor de datum 
 
 De minister beslist afwijzend op een aanvraag: 
 
-a. indien aannemelijk is dat de academische innovatieve starter de financiering waarvoor de aanvraag is ingediend niet zelf heeft of kan verkrijgen bij anderen;  
+a. indien aannemelijk is dat de academische innovatieve starter de financiering waarvoor de aanvraag is ingediend zelf heeft of kan verkrijgen bij anderen;  
 
 b. voor zover de voorziene kosten van het vroegefasetraject hoger zijn dan € 250.000 of lager dan zijn € 50.000;  
 
@@ -8363,7 +8371,7 @@ j. het risicokapitaal heeft niet als doel de afwenteling van bestaande risico’
 
 k. voor participatiemaatschappijen bedraagt de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van de paragrafen 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies en van risicokapitaal dat met toepassing van paragraaf 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, bedraagt niet meer dan € 25.000.000;  
 
-l. de minister, geadviseerd door een groep deskundige derden, heeft verklaard dat is voldaan aan de voorwaarden a tot en met g, indien de financiering waarvoor een garantie wordt aangevraagd meer bedraagt dan € 5 miljoen.   
+l. de minister, geadviseerd door een groep deskundige derden, heeft verklaard dat is voldaan aan de voorwaarden a tot en met k, indien de financiering waarvoor een garantie wordt aangevraagd meer bedraagt dan € 5 miljoen.   
 
 ### Artikel  4  
 
@@ -8773,7 +8781,7 @@ j. het risicokapitaal heeft niet als doel de afwenteling van bestaande risico’
 
 k. voor participatiemaatschappijen bedraagt de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van de paragrafen 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies dat met toepassing van paragraaf 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt niet meer dan € 25.000.000;  
 
-l. de minister, geadviseerd door een groep deskundige derden, heeft verklaard dat is voldaan aan de voorwaarden a tot en met g, indien de financiering waarvoor een garantie wordt aangevraagd meer bedraagt dan € 5 miljoen.   
+l. de minister, geadviseerd door een groep deskundige derden, heeft verklaard dat is voldaan aan de voorwaarden a tot en met k, indien de financiering waarvoor een garantie wordt aangevraagd meer bedraagt dan € 5 miljoen.   
 
 ### Artikel  4  
 
