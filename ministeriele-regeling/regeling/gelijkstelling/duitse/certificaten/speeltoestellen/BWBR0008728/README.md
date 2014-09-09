@@ -3,12 +3,12 @@
 ##Regeling gelijkstelling Duitse certificaten speeltoestellen 
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 4, zesde lid, van de Wet op de gevaarlijke werktuigen](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);
+Gelet op artikel 4, zesde lid, van de Wet op de gevaarlijke werktuigen;
 Besluit:     
 
 ### Artikel  1  
 
-De door de in de bijlage behorende bij deze beschikking genoemde instellingen afgegeven geldige certificaten voor speeltoestellen die in ieder geval dienen te zijn gebaseerd op de meest recente versie van de DIN 7926 normen, worden gelijkgesteld met het in [artikel 4 van de Wet op de gevaarlijke werktuigen](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) bedoelde certificaat van goedkeuring.  
+De door de in de bijlage behorende bij deze beschikking genoemde instellingen afgegeven geldige certificaten voor speeltoestellen die in ieder geval dienen te zijn gebaseerd op de meest recente versie van de DIN 7926 normen, worden gelijkgesteld met het in artikel 4 van de Wet op de gevaarlijke werktuigen bedoelde certificaat van goedkeuring.  
 
 ### Artikel  2  
 

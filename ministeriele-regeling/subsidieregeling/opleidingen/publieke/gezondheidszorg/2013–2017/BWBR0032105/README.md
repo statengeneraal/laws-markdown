@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 oktober 2012, kenmerk MEVA-3128984, houdende regels voor het verstrekken van subsidie voor opleidingsplaatsen voor de opleiding tot arts maatschappij en gezondheid (Subsidieregeling opleidingen publieke gezondheidszorg 2013–2017)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 3](../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md) en [5 van de Kaderwet VWS-subsidies](../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op de artikelen 3 en 5 van de Kaderwet VWS-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -44,7 +44,7 @@ k.  *zorgopleiding:* opleiding tot arts maatschappij en gezondheid voor de profi
 1.  Bij het verstrekken van de instellingssubsidie wordt onderscheid gemaakt naar instroom en doorstroom.   
 2.  De minister stelt uiterlijk 15 augustus voorafgaande aan het subsidiejaar een plan vast voor de instroom die ten hoogste in aanmerking kan komen voor de instellingssubsidie. In het plan wordt onderscheid gemaakt naar zorgopleiding en opleidingsinrichting.   
 3.  De minister stelt GGD Nederland, ActiZ en de Koepel Artsen Maatschappij en Gezondheid in de gelegenheid uiterlijk 15 juli voorafgaande aan het subsidiejaar een advies uit te brengen over het plan.   
-4.  Doorstroom kan slechts in aanmerking komen voor de instellingssubsidie indien ten behoeve van de desbetreffende artsen in opleiding voorafgaand aan het subsidiejaar een instellingssubsidie is verstrekt op grond van deze regeling of de [Subsidieregeling zorgopleidingen 2e tranche](../../../../../../../ministeriele-regeling/subsidieregeling/zorgopleidingen/2e/tranche/BWBR0023026/README.md).  
+4.  Doorstroom kan slechts in aanmerking komen voor de instellingssubsidie indien ten behoeve van de desbetreffende artsen in opleiding voorafgaand aan het subsidiejaar een instellingssubsidie is verstrekt op grond van deze regeling of de Subsidieregeling zorgopleidingen 2e tranche.  
 
 ### Artikel  4  
 
@@ -65,7 +65,7 @@ b. voor wat betreft de doorstroom: het aantal opleidingsplaatsen voor het subsid
 
 ### Artikel  5  
 
-De instellingssubsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De instellingssubsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht. 
 
 ### Artikel  6  
 
@@ -122,14 +122,14 @@ E.I. Schippers
 
 Subsidiebedrag per voltijdse opleidingsplaats 
 
-| Nr.  | zorgopleiding  | Subsidiebedrag per voltijdse opleidingsplaats  |
+| nr.  | zorgopleiding  | Subsidiebedrag per voltijdse opleidingsplaats  |
 |:---|:---|:---|
-| 1  | Arts infectieziektenbestrijding 1<sup>e</sup> fase  | € 78.400  |
-| 2  | Arts infectieziektenbestrijding 2<sup>e</sup> fase  | € 78.400  |
-| 3  | Arts tbc-bestrijding 1<sup>e</sup> fase  | € 78.400  |
-| 4  | Arts tbc-bestrijding 2<sup>e</sup> fase  | € 78.400  |
-| 5  | Jeugdarts 1<sup>e</sup> fase  | € 68.100  |
-| 6  | Jeugdarts 2<sup>e</sup> fase  | € 68.100  |
-| 7  | Medisch milieukundige 1<sup>e</sup> fase  | € 78.400  |
-| 8  | Medisch milieukundige 2<sup>e</sup> fase  | € 78.400  |
+| 1.  | Arts infectieziektebestrijding 1<sup>e</sup> fase  | €79.500  |
+| 2.  | Arts infectieziektebestrijding 2<sup>e</sup> fase  | €79.500  |
+| 3.  | Arts tbc-bestrijding 1<sup>e</sup> fase  | €79.500  |
+| 4.  | Arts tbc-bestrijding 2<sup>e</sup> fase  | €79.500  |
+| 5.  | Jeugdarts 1<sup>e</sup> fase  | €69.000  |
+| 6.  | Jeugdarts 2<sup>e</sup> fase  | €69.000  |
+| 7.  | Medisch milieukundige 1<sup>e</sup> fase  | €79.500  |
+| 8.  | Medisch Milieukundige 2<sup>e</sup> fase  | €79.500  |
 

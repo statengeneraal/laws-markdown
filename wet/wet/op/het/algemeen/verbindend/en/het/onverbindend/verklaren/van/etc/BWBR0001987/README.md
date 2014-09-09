@@ -22,7 +22,7 @@ c. "verbindend verklaarde bepalingen": bepalingen eener collectieve arbeidsovere
 ### Artikel  2  
 
 1.  Onze Minister kan bepalingen van eene collectieve arbeidsovereenkomst, die in het geheele land of in een gedeelte des lands voor eene - naar zijn oordeel belangrijke - meerderheid van de in een bedrijf werkzame personen gelden, in het geheele land of in dat gedeelte des lands algemeen verbindend verklaren. Deze bepalingen zijn dan, behalve in de gevallen door Onzen Minister uitgezonderd, binnen dat gebied verbindend voor alle werkgevers en werknemers ten aanzien van arbeidsovereenkomsten, die naar den aard van den arbeid, waarop zij betrekking hebben, onder de collectieve arbeidsovereenkomst vallen of zouden vallen, hetzij deze arbeidsovereenkomsten op het tijdstip, waarop de werking der verbindendverklaring aanvangt, reeds gesloten zijn, hetzij zij daarna gesloten worden.    
-2.   De verbindendverklaring geschiedt, behoudens voor fondsen, die uit hun aard een meer permanent karakter dragen en ten aanzien waarvan een langer tijdvak kan gelden, voor een tijdvak van ten hoogste twee jaren. Het tijdstip, waarop de werking der verbindendverklaring eindigt, kan daarbij niet later worden gesteld dan het vroegste tijdstip, waarop de collectieve arbeidsovereenkomst, hetzij ingevolge het bij die overeenkomst bepaalde, hetzij ingevolge [artikel 19 der Wet op de collectieve arbeidsovereenkomst](../../../../../../../../../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md) zou kunnen eindigen.    
+2.   De verbindendverklaring geschiedt, behoudens voor fondsen, die uit hun aard een meer permanent karakter dragen en ten aanzien waarvan een langer tijdvak kan gelden, voor een tijdvak van ten hoogste twee jaren. Het tijdstip, waarop de werking der verbindendverklaring eindigt, kan daarbij niet later worden gesteld dan het vroegste tijdstip, waarop de collectieve arbeidsovereenkomst, hetzij ingevolge het bij die overeenkomst bepaalde, hetzij ingevolge artikel 19 der Wet op de collectieve arbeidsovereenkomst zou kunnen eindigen.    
 3.   Verbindendverklaring heeft geen terugwerkende kracht.    
 4.   Indien de verbindend verklaarde bepalingen aannemingen van werk en overeenkomsten van opdracht betreffen, vindt hetgeen in deze wet omtrent arbeidsovereenkomsten, werkgevers en werknemers is bepaald, overeenkomstige toepassing.    
 5.   Van de verbindendverklaring zijn uitgesloten bepalingen eener collectieve arbeidsovereenkomst, die ten doel hebben:  
@@ -97,7 +97,7 @@ Het bepaalde in de artikelen 2 tot en met 6 vindt overeenkomstige toepassing, in
 ### Artikel  7a  
 
 1.  Indien een verzoek is gedaan aan Onze Minister om een uitzondering te maken op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, beslist Onze Minister op dit verzoek niet eerder dan op het moment dat die bepalingen van de collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard.   
-2.  Indien tegen een besluit inzake het al dan niet maken van een uitzondering op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst bezwaar is gemaakt, beslist Onze Minister op dat bezwaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), binnen veertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
+2.  Indien tegen een besluit inzake het al dan niet maken van een uitzondering op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst bezwaar is gemaakt, beslist Onze Minister op dat bezwaar, in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht, binnen veertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
 
 ### Artikel  8  
 
@@ -118,7 +118,7 @@ Het bepaalde in de artikelen 2 tot en met 6 vindt overeenkomstige toepassing, in
 
 ### Artikel  10a  
 
-Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de artikelen 4, vierde lid, en 6, tweede lid, tweede volzin, in haar plaats de krachtens [artikel 17, eerste lid, van de Wet op de loonvorming](../../../../../../../../../../../../../wet/wet/op/de/loonvorming/BWBR0002698/README.md) door Ons aangewezen centrale organisaties van werkgevers en van werknemers.  
+Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de artikelen 4, vierde lid, en 6, tweede lid, tweede volzin, in haar plaats de krachtens artikel 17, eerste lid, van de Wet op de loonvorming door Ons aangewezen centrale organisaties van werkgevers en van werknemers.  
 
 ### Artikel  10b  
 

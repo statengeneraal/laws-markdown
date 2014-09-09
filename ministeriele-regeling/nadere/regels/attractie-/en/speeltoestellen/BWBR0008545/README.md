@@ -3,22 +3,22 @@
 ##Nadere regels attractie- en speeltoestellen
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 4, vijfde lid](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 5, derde lid](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 12, eerste lid](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [artikel 16 van de Wet op de gevaarlijke werktuigen](../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);
+Gelet op artikel 4, vijfde lid, artikel 5, derde lid, artikel 12, eerste lid, en artikel 16 van de Wet op de gevaarlijke werktuigen;
 
-Gelet op [artikel 5, eerste lid](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md), en [artikel 19, derde lid, van het Besluit veiligheid attractie- en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md);
+Gelet op artikel 5, eerste lid, en artikel 19, derde lid, van het Besluit veiligheid attractie- en speeltoestellen;
 Besluit:     
 
 ### Artikel  1  
 
 In deze regeling en de daarop gebaseerde bepalingen wordt verstaan onder: 
 
-a.  besluit: [Warenwetbesluit attractie- en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md);  
+a.  besluit: Warenwetbesluit attractie- en speeltoestellen;  
 
 b.  sub-contractor: een instelling waaraan een aangewezen instelling productonderzoek en daartoe te verrichten metingen uitbesteedt.    
 
 ### Artikel  4  
 
-Voor aanwijzing ingevolge [artikel 7a, eerste lid, van de wet](../../../../../../../wet/warenwet/BWBR0001969/README.md) als aangewezen instelling met betrekking tot attractie- en speeltoestellen komen slechts instellingen in aanmerking die voldoen aan de in bijlage I vermelde voorwaarden.  
+Voor aanwijzing ingevolge artikel 7a, eerste lid, van de wet als aangewezen instelling met betrekking tot attractie- en speeltoestellen komen slechts instellingen in aanmerking die voldoen aan de in bijlage I vermelde voorwaarden.  
 
 ### Artikel  4a  
 
@@ -48,7 +48,7 @@ k. een financieel verslag betreffende de activiteiten waarvoor de instelling is 
 
 ###Artikel 5 
 
-Als normen, bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) worden aangewezen de in bijlage II bij deze regeling vermelde normen. 
+Als normen, bedoeld in artikel 5, eerste lid, van het besluit worden aangewezen de in bijlage II bij deze regeling vermelde normen. 
 
 ### Artikel  6  
 
@@ -62,7 +62,7 @@ Attractietoestellen die zijn voorzien van een certificaat van goedkeuring, worde
 
 ### Artikel  8  
 
-1.  In afwijking van artikel 7 zijn fabrikanten en importeurs van eenvoudige attractietoestellen, aan wie ten gevolge van de goedkeuring van een het type kenmerkend monster als bedoeld in [artikel 8, derde lid, van het besluit](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) een certificaat van goedkeuring is afgegeven, gedurende de geldigheidsduur van het voornoemde certificaat, verplicht tot het aanbrengen van een merk van goedkeuring als bedoeld in artikel 7 op de door hen vervaardigde of geãmporteerde toestellen, die geheel overeenkomstig het goedgekeurde monster zijn vervaardigd, voordat zij deze toestellen voor het eerst in het verkeer brengen.   
+1.  In afwijking van artikel 7 zijn fabrikanten en importeurs van eenvoudige attractietoestellen, aan wie ten gevolge van de goedkeuring van een het type kenmerkend monster als bedoeld in artikel 8, derde lid, van het besluit een certificaat van goedkeuring is afgegeven, gedurende de geldigheidsduur van het voornoemde certificaat, verplicht tot het aanbrengen van een merk van goedkeuring als bedoeld in artikel 7 op de door hen vervaardigde of geãmporteerde toestellen, die geheel overeenkomstig het goedgekeurde monster zijn vervaardigd, voordat zij deze toestellen voor het eerst in het verkeer brengen.   
 2.  In afwijking van artikel 7 vermeldt het merk van goedkeuring, bedoeld in het eerste lid, in plaats van de maand en het jaar van de keuring, de maand en het jaar waarin het merk op het toestel wordt aangebracht. Het merk van goedkeuring verliest zijn geldigheidsduur twaalf maanden na de datum die erop staat vermeld, met dien verstande dat, indien buiten toedoen van de toestelhouder niet tijdig kan worden gekeurd, het merk zijn geldigheid behoudt gedurende ten hoogste vier maanden na afloop van de termijn waarvoor het is afgegeven.  
 
 ### Artikel  9  
@@ -142,4 +142,4 @@ l. NEN-EN 13814: 2004: Machines en constructies op kermisterreinen en amusements
 
 ###Model certificaat van goedkeuring
 
-[Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) certificaat van goedkeuring afgegeven door *naam aangewezen instelling*  (aangewezen bij ministeriële beschikking van ..., nr ...) Certificaat nr. ... Dossier nr. ... Betreft: ... Evt. nadere aanduidingen: ... Eigenaar/houder: ... Adres eigenaar/houder: ... Soort toestel: ... Fabrikant: ... Jaar van fabrikage: ... Leverancier: ... Jaar van leverantie: ... Datum Keuring: ...  *Naam aangewezen instelling, adres aangewezen instelling* te *plaats *verklaart, dat het bovenaangehaalde toestel voldoet aan de vervaardigingsvoorschriften genoemd in het [Warenwetbesluit attractie- en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md).  *Naam aangewezen instelling* Uitsluitend voor attractietoestellen: Vorig certificaat nr. ... d.d. ... Huidig certificaat afgegeven d.d. ... De volgende keuring moet plaatsvinden voor....  
+Warenwet certificaat van goedkeuring afgegeven door *naam aangewezen instelling*  (aangewezen bij ministeriële beschikking van ..., nr ...) Certificaat nr. ... Dossier nr. ... Betreft: ... Evt. nadere aanduidingen: ... Eigenaar/houder: ... Adres eigenaar/houder: ... Soort toestel: ... Fabrikant: ... Jaar van fabrikage: ... Leverancier: ... Jaar van leverantie: ... Datum Keuring: ...  *Naam aangewezen instelling, adres aangewezen instelling* te *plaats *verklaart, dat het bovenaangehaalde toestel voldoet aan de vervaardigingsvoorschriften genoemd in het Warenwetbesluit attractie- en speeltoestellen.  *Naam aangewezen instelling* Uitsluitend voor attractietoestellen: Vorig certificaat nr. ... d.d. ... Huidig certificaat afgegeven d.d. ... De volgende keuring moet plaatsvinden voor....  

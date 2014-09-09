@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Ministers van Landbouw, Natuurbeheer en Visserij, en van Economische Zaken;
 
-Gelet op beschikking nr. 2002/69/EG van de Commissie van de Europese Gemeenschappen van 30 januari 2002 betreffende beschermende maatregelen ten aanzien van uit China ingevoerde producten van dierlijke oorsprong (PbEG L 30), alsmede op [artikel 4, onder c, van het Warenwetbesluit Invoer levensmiddelen uit derde landen](../../../../../../../../../../AMvB/warenwetbesluit/invoer/levensmiddelen/uit/derde/landen/BWBR0006310/README.md);
+Gelet op beschikking nr. 2002/69/EG van de Commissie van de Europese Gemeenschappen van 30 januari 2002 betreffende beschermende maatregelen ten aanzien van uit China ingevoerde producten van dierlijke oorsprong (PbEG L 30), alsmede op artikel 4, onder c, van het Warenwetbesluit Invoer levensmiddelen uit derde landen;
 Besluit:    
 
 ### Artikel  1  
