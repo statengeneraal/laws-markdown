@@ -159,6 +159,21 @@ d. startkwalificatie: een diploma van een opleiding als bedoeld in artikel 7.2.2
 
 In deze wet en de daarop berustende bepalingen wordt onder gegevens mede verstaan persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens. 
 
+### Artikel  6b  
+
+####Medisch urenbeperkt
+
+Treedt in werking per 01-01-2015 
+
+1.  In deze wet en de daarop berustende bepalingen wordt onder medisch urenbeperkt verstaan: als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebreken, zwangerschap of bevalling voor een geringer aantal uren belastbaar zijn dan de normale arbeidsduur, bedoeld in artikel 12, tweede lid, van de Wet minimumloon en minimumvakantiebijslag.   
+2.  Het college kan: 
+
+a. ambtshalve vaststellen of een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, onder 1, medisch urenbeperkt is;  
+
+b. op schriftelijke aanvraag van een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, onder 1, vaststellen of hij medisch urenbeperkt is.     
+3.  Een aanvraag als bedoeld in het tweede lid, onderdeel b, kan slechts eenmaal per twaalf maanden worden ingediend.   
+4.  Het Uitvoeringsinstituut werknemersverzekeringen verricht voor het college de werkzaamheden ten behoeve van de vaststelling of een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, onder 1, medisch urenbeperkt is en adviseert het college hierover.  
+
 ### §  1.2  
 
 ####Opdracht gemeente
@@ -231,6 +246,16 @@ De gemeenteraad stelt in het kader van het financiële beheer bij verordening re
 
 Indien bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in artikel 8 van die wet, treedt dat bestuur voor de toepassing van deze wet, met uitzondering van paragrafen 7.1 en 7.3, in de plaats van de betrokken colleges.
 
+###Artikel 8c 
+
+####Gemeentelijke samenwerking
+
+Treedt in werking per 01-01-2015 
+
+1. Indien bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in artikel 8 van die wet, treedt dat bestuur voor de toepassing van deze wet, met uitzondering van paragrafen 7.1 en 7.3, in de plaats van de betrokken colleges. 
+2.  Bij algemene maatregel van bestuur kunnen gebieden worden aangewezen waarbinnen colleges met het oog op de samenhangende uitvoering van de aan de colleges en de gemeenteraden bij of krachtens deze wet en andere wetten opgedragen taken samenwerken, uitsluitend indien de noodzakelijke samenwerking in deze gebieden ontbreekt en nadat Onze Minister op overeenstemming gericht overleg heeft gevoerd met de betrokken colleges. Bij die maatregel kunnen regels worden gesteld over de vorm van samenwerking.   
+3.  De voordracht voor de maatregel wordt gedaan door Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Deze voordracht wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd. 
+
 ### Hoofdstuk  2  
 
 ####Rechten en plichten
@@ -302,6 +327,88 @@ d. door het college ingetrokken indien uit houding en gedragingen van de alleens
 8.  Met betrekking tot degene die op grond van het eerste lid additionele werkzaamheden verricht, beoordeelt het college na een periode van negen maanden na de aanvang van die werkzaamheden of de toepassing van dit artikel zijn kans op inschakeling in het arbeidsproces heeft vergroot. Indien dat niet het geval is wordt het verrichten van de additionele werkzaamheden twaalf maanden na aanvang van die werkzaamheden beëindigd.   
 9.  Met betrekking tot degene die op grond van het eerste lid additionele werkzaamheden verricht, beoordeelt het college voor afloop van de termijn van twee jaar, bedoeld in het eerste lid, of de voortzetting daarvan met het oog op in de persoon gelegen factoren zijn kans op inschakeling in het arbeidsproces aanmerkelijk verbetert. Indien dat het geval is, kan het college de termijn van twee jaar verlengen met een jaar, onder de voorwaarde dat de belanghebbende in het derde jaar in een andere omgeving andere additionele werkzaamheden verricht dan die hij in de eerste twee jaar heeft verricht.   
 10.  Indien de termijn van twee jaar is verlengd op grond van het negende lid, beoordeelt het college voor afloop van het derde jaar of de voortzetting daarvan met het oog op in de persoon gelegen factoren zijn kans op inschakeling in het arbeidsproces aanmerkelijk verbetert. Indien dat het geval is, kan het college de termijn nogmaals verlengen met een jaar. 
+
+### Artikel  10b  
+
+####Participatievoorziening beschut werk
+
+Treedt in werking per 01-01-2015 
+
+1.  Het college kan ter uitvoering van artikel 7, eerste lid, onderdeel a, ambtshalve vaststellen of iemand uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden tot arbeidsparticipatie heeft.   
+2.  Indien het college voornemens is om vast te stellen of een inwoner uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden tot arbeidsparticipatie heeft, verricht het Uitvoeringsinstituut werknemersverzekeringen, op grond van bij of krachtens algemene maatregel van bestuur te stellen regels, voor het college de werkzaamheden ten behoeve van die vaststelling en adviseert het college hierover.   
+3.  Indien op grond van het eerste lid door het college is vastgesteld dat een persoon uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden tot arbeidsparticipatie heeft, zorgt het college ervoor dat deze persoon een dienstbetrekking verkrijgt waar hij in een beschutte omgeving en onder aangepaste omstandigheden werkzaamheden verricht.   
+4.  In de verordening, bedoeld in artikel 8a, eerste lid, onderdeel e, stelt de gemeenteraad in elk geval vast: 
+
+a. op welke wijze wordt bepaald welke personen in aanmerking komen voor de ambtshalve vaststelling, bedoeld in het eerste lid;  
+
+b. welke voorzieningen gericht op arbeidsinschakeling worden aangeboden om de in het eerste lid bedoelde werkzaamheden mogelijk te maken;  
+
+c. de wijze waarop de omvang van het aanbod van de voorziening, bedoeld in het eerste lid, wordt vastgesteld.     
+5.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+
+### Artikel  10c  
+
+####Vaststelling doelgroep loonkostensubsidie
+
+Treedt in werking per 01-01-2015 
+
+1.  Het college kan: 
+
+a. op schriftelijke aanvraag van een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, vaststellen of die persoon tot de doelgroep loonkostensubsidie behoort;  
+
+b. ambtshalve vaststellen of een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, onder 1, 2, 3, 5 of 6, tot de doelgroep loonkostensubsidie behoort.     
+2.  Een aanvraag als bedoeld in het eerste lid, onderdeel a, kan slechts eenmaal per twaalf maanden worden ingediend.  
+
+### Artikel  10d  
+
+####Loonkostensubsidie
+
+Treedt in werking per 01-01-2015 
+
+1.  Indien een werkgever voornemens is een dienstbetrekking aan te gaan met een persoon die behoort tot de doelgroep loonkostensubsidie, stelt het college de loonwaarde van die persoon vast. Indien die dienstbetrekking tot stand komt verleent het college loonkostensubsidie aan de werkgever.   
+2.  Het eerste lid is niet van toepassing indien: 
+
+a. de arbeid wordt verricht in een dienstbetrekking als bedoeld in de artikelen 2 en 7 van de Wet sociale werkvoorziening; of  
+
+b. met betrekking tot de dienstbetrekking een proeftijd geldt en het derde lid is toegepast.     
+3.  Het college kan een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, onder 1, 2, 3, 5 of 6, en die behoort tot de doelgroep loonkostensubsidie, gedurende maximaal drie maanden bij een werkgever onbeloonde werkzaamheden laten verrichten met het oog op een reële vaststelling van de loonwaarde.   
+4.  De hoogte van de loonkostensubsidie, bedoeld in het eerste lid, is het verschil tussen het wettelijk minimumloon en de loonwaarde van die persoon, maar is ten hoogste 70% van het wettelijk minimumloon, vermeerderd met een bij ministeriële regeling nader te bepalen vergoeding voor werkgeverslasten. De loonkostensubsidie wordt naar evenredigheid verminderd, indien de overeengekomen arbeidsduur korter is dan de normale arbeidsduur, bedoeld in artikel 12 van de Wet minimumloon en minimumvakantiebijslag.   
+5.  Het college stelt na aanvang van de dienstbetrekking jaarlijks: 
+
+a. ambtshalve vast of een persoon nog steeds tot de doelgroep loonkostensubsidie behoort;  
+
+b. de hoogte van de loonwaarde en de loonkostensubsidie ambtshalve vast.   Indien het een dienstbetrekking als bedoeld in artikel 10b, eerste lid, betreft, vindt de ambtshalve vaststelling eenmaal in de drie jaar plaats.   
+6.  Het eerste tot en met vijfde lid zijn niet langer op een persoon van toepassing, vanaf het moment dat is vastgesteld dat die persoon niet tot de doelgroep loonkostensubsidie behoort.   
+7.  Indien het college loonkostensubsidie als bedoeld in dit artikel verleent, verleent het ten aanzien van dezelfde dienstbetrekking geen andere subsidie voor de loonkosten.   
+8.  Indien een persoon in een dienstbetrekking waarbij loonkostensubsidie als bedoeld in dit artikel wordt verleend zijn woonplaats verplaatst naar een andere gemeente, wordt gedurende die dienstbetrekking onder college in dit artikel verstaan het college dat op grond van het eerste lid bij het tot stand komen van de dienstbetrekking de loonkostensubsidie verleende.  
+
+### Artikel  10da  
+
+####Aanspraak op begeleiding op de werkplek
+
+Treedt in werking per 01-01-2015 
+
+Personen die behoren tot de doelgroep loonkostensubsidie hebben aanspraak op begeleiding op de werkplek. 
+
+### Artikel  10e  
+
+####Lagere regelgeving
+
+Treedt in werking per 01-01-2015 
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de artikelen 6, 10b, 10c en 10d. 
+
+### Artikel  10f  
+
+####Ondersteuning bij leer-werktrajecten
+
+Treedt in werking per 01-01-2015 
+
+In aanvulling op artikel 7 kan het college ondersteuning aanbieden aan personen ten aanzien van wie het college van oordeel is dat een leer-werktraject geboden is, voor zover deze ondersteuning nodig is voor het volgen van een leer-werktraject en het personen betreft: 
+
+a. van 16 of 17 jaar van wie de leerplicht of de kwalificatieplicht, bedoeld in de Leerplichtwet 1969, nog niet is geëindigd; of  
+
+b. van 18 tot 27 jaar die nog geen startkwalificatie hebben behaald.   
 
 ### §  2.2  
 
@@ -508,15 +615,48 @@ c. gehuwden waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben ber
 
 d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 januari 2014: € 1.437,02.  
 
+### Artikel  22a  
+
+####Kostendelersnorm
+
+Treedt in werking per 01-01-2015 
+
+1.  Indien de belanghebbende met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, is de norm per kalendermaand voor de belanghebbende: ![253949](http://wetten.overheid.nl/Illustration/253949)
+Hierbij staat: 
+
+* A voor het totaal aantal meerderjarige personen dat in dezelfde woning zijn hoofdverblijf heeft; en  
+
+* B voor de rekennorm.     
+2.  De rekennorm, bedoeld in het eerste lid, is voor de belanghebbende: 
+
+a. van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, de norm voor gehuwden, bedoeld in artikel 21, onderdeel b;  
+
+b. van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, waarvan de echtgenoot de pensioengerechtigde leeftijd heeft bereikt, de norm voor gehuwden, bedoeld in artikel 22, onderdeel c;  
+
+c. die de pensioengerechtigde leeftijd heeft bereikt, de norm voor gehuwden, bedoeld in artikel 22, onderdeel b.     
+3.  Vervallen.   
+4.  Het eerste lid is niet van toepassing op gehuwden die niet met een of meer andere meerderjarige personen dan de echtgenoot in dezelfde woning hun hoofdverblijf hebben.   
+5.  Tot de personen, bedoeld in het eerste lid, worden niet gerekend: 
+
+a. de persoon die de leeftijd van 21 jaar nog niet heeft bereikt,  
+
+b. de persoon, niet zijnde een bloed- of aanverwant in de eerste of tweede graad van belanghebbende, die op basis van een schriftelijke overeenkomst met de belanghebbende, waarbij een commerciële prijs is overeengekomen, als verhuurder, huurder, onderverhuurder, onderhuurder, kostgever of kostganger in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft,  
+
+c. de persoon die op basis van een schriftelijke overeenkomst met een derde, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft, mits hij de overeenkomst heeft met dezelfde persoon als met wie de belanghebbende een schriftelijke overeenkomst heeft, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger, en  
+
+d. de persoon die onderwijs volgt waarvoor hij op enig moment tijdens dat onderwijs in aanmerking kan komen voor studiefinanciering op grond van de Wet studiefinanciering 2000, de persoon die onderwijs volgt waarvoor hij in aanmerking kan komen voor een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, en de persoon die een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs in de beroepsbegeleidende leerweg volgt.     
+6.  Op verzoek van het college legt de belanghebbende de schriftelijke overeenkomst, bedoeld in het vijfde lid, onderdeel b of onderdeel c, over en toont hij de betaling van de commerciële prijs aan door het overleggen van de bewijzen van betaling.   
+7.  Bij gehuwden, op wie het eerste lid van toepassing is, wordt de norm, bedoeld in dat lid, voor ieder van de rechthebbende echtgenoten afgezonderd vastgesteld. De som van die normen wordt voor de helft aan ieder van de rechthebbende echtgenoten uitbetaald, dan wel op gezamenlijk verzoek van de rechthebbende echtgenoten aan een van hen.  
+
 ### Artikel  23  
 
 ####Normen in inrichting
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 januari 2014: € 301,26;  
+a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 juli 2014: € 301,26;  
 
-b. gehuwden: € 460,93 per 1 januari 2014: € 468,58.     
+b. gehuwden: € 460,93 per 1 juli 2014: € 468,58.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd met: 
 
 a. voor een alleenstaande of een alleenstaande ouder € 49,00 per 1 januari 2014: € 39,00;  
@@ -600,7 +740,7 @@ d. tegemoetkomingen in de zin van de Algemene wet inkomensafhankelijke regelinge
 
 e. eigenwoningbijdrage of een bijzondere bijdrage ontvangen op grond van de Wet bevordering eigenwoningbezit;  
 
-f. vergoedingen en tegemoetkomingen, waaronder begrepen de tegemoetkoming ontvangen op grond van het Tijdelijk besluit tegemoetkoming buitengewone uitgaven, voor, alsmede de vermindering of teruggave van, loonbelasting of inkomstenbelasting en van premies volksverzekeringen op grond van kosten die niet tot de algemeen noodzakelijke bestaanskosten behoren, tenzij voor deze kosten bijstand wordt verleend;  
+f. vergoedingen en tegemoetkomingen, waaronder begrepen de tegemoetkoming ontvangen op grond van artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten, voor, alsmede de vermindering of teruggave van, loonbelasting of inkomstenbelasting en van premies volksverzekeringen op grond van kosten die niet tot de algemeen noodzakelijke bestaanskosten behoren, tenzij voor deze kosten bijstand wordt verleend;  
 
 g. vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, van de Wet op de loonbelasting 1964, tenzij voor deze vergoedingen en verstrekkingen bijstand wordt verleend;  
 
@@ -634,7 +774,7 @@ r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze in
 
 s. een vergoeding als bedoeld in artikel 18 van de Wet inburgering zoals dit luidde voor de inwerkingtreding van het bij koninklijke boodschap van 14 november 2011 ingediende voorstel van wet tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (33 086), nadat dat voorstel tot wet is verheven voorzover deze niet een vergoeding is als bedoeld in onderdeel f;
 
-t.tegemoetkomingen op grond van de Wet tegemoetkoming chronisch zieken en gehandicapten;
+t. tegemoetkomingen op grond van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten of artikel 24 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat op 31 december 2013 luidde; 
 
 u. een uitkering als bedoeld in artikel 19a van de Wet maatschappelijke ondersteuning; 
 
@@ -770,6 +910,23 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 2. De arbeidstoeslag alleenstaande ouder, bedoeld in het eerste lid, wordt verminderd met het bedrag van de middelen dat op grond van artikel 31, tweede lid, onderdelen c en o, over de betreffende kalendermaand niet tot de middelen van belanghebbende is gerekend, alsmede met het bedrag dat op grond van artikel 31, tweede lid, onderdeel j, in het betreffende kalenderjaar niet tot de middelen is gerekend en na afloop van het kalenderjaar vastgesteld en betaald. 
 3. De artikelen 40, 46, eerste, tweede, vierde en vijfde lid, en 54, paragraaf 6.4 en 6.5, alsmede artikel 63 zijn van overeenkomstige toepassing. 
 4. De in het eerste lid in de tabel genoemde bedragen worden met ingang van 1 januari van elk kalenderjaar door Onze Minister in overeenstemming met Onze Minister van Financiën bij ministeriële regeling vastgesteld.
+
+### Artikel  36b  
+
+####Individuele studietoeslag
+
+Treedt in werking per 01-01-2015 
+
+1.  Op een daartoe strekkend verzoek van een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, kan het college, gelet op de omstandigheden van die persoon, een individuele studietoeslag verlenen indien hij op de datum van de aanvraag: 
+
+a. 18 jaar of ouder is;  
+
+b. recht heeft op studiefinanciering op grond van de Wet studiefinanciering 2000 of recht heeft op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;  
+
+c. geen in aanmerking te nemen vermogen als bedoeld in artikel 34 heeft; en  
+
+d. een persoon is van wie is vastgesteld dat hij met voltijdse arbeid niet in staat is tot het verdienen van het wettelijk minimumloon, doch wel mogelijkheden tot arbeidsparticipatie heeft.     
+2.  De artikelen 12, 43, 49 en 52 zijn niet van toepassing.  
 
 ### §  4.2  
 
@@ -1767,6 +1924,20 @@ b. van wie het college heeft vastgesteld dat hij als gevolg van de inwerkingtred
 #### *Uitbetaling door Sociale verzekeringsbank aan het college* 
 
 Indien als gevolg van inwerkingtreding van de Wet afschaffing huishoudinkomenstoets het college ten aanzien van belanghebbende over een periode een vordering heeft met betrekking tot kosten van algemene bijstand en als gevolg van inwerkingtreding van die wet die belanghebbende over diezelfde periode recht op algemene bijstand heeft jegens de Sociale verzekeringsbank, betaalt de Sociale Verzekeringsbank, zonder dat daarvoor machtiging nodig is van de belanghebbende, op verzoek van het college uit die bijstand het bedrag van die vordering uit aan het college. 
+
+### Artikel  78z  
+
+####Overgangsrecht Wet werk en bijstand
+
+Treedt in werking per 01-01-2015 
+
+1.  Door het college op grond van de Wet werk en bijstand genomen besluiten gelden als door hem genomen besluiten op grond van deze wet.   
+2.  Het college brengt de in het eerste lid bedoelde besluiten binnen zes maanden na de inwerkingtreding van artikel I van de Invoeringswet Participatiewet in overeenstemming met deze wet, voor zover die besluiten afwijken van deze wet.   
+3.  Op een aanvraag op grond van de Wet werk en bijstand waarop niet is beslist voor de datum van inwerkingtreding van artikel I van de Invoeringswet Participatiewet wordt beslist met toepassing van deze wet.   
+4.  Op een bezwaar- of beroepschrift dat vóór of op de datum van inwerkingtreding van artikel I van de Invoeringswet Participatiewet is ingediend tegen een door het college op grond van de Wet werk en bijstand genomen besluit en waarop op die datum nog niet onherroepelijk is beslist, wordt beslist met toepassing van de Wet werk en bijstand.   
+5.  De regels, die bij verordening zijn vastgesteld op grond van artikel 8, eerste lid, onderdelen b end, 8a en 47 van de Wet werk en bijstand gelden na de datum van inwerkingtreding van artikel I van de Invoeringswet Participatiewet als regels op grond van artikel 8, eerste lid, onderdelen a en c, 8b respectievelijk 47 van de Participatiewet.   
+6.  De regels, die bij verordening zijn vastgesteld op grond van de artikelen 8, eerste lid, onderdelen a, c, e en f van deze wet, 35, eerste lid, onderdeel a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werknemers en 35, eerste lid, onderdeel a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, zoals deze wetten luidden op de dag voor inwerkingtreding van de artikelen I, IX en X van de Invoeringswet Participatiewet gelden tot zes maanden na de dag van inwerkingtreding als regels op grond van artikel 8a van deze wet.   
+7.  Binnen zes maanden na inwerkingtreding van artikel I van de Invoeringswet Participatiewet stelt de gemeenteraad bij verordening regels vast als bedoeld in de artikelen 8, 8a, 10b, 18b, tweede lid, en 47.  
 
 ### Hoofdstuk  8  
 

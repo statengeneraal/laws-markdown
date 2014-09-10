@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 15 oktober 1970, Stafafdeling Wetgeving Privaatrecht, Nr. 469/670; 
 
-Gelet op [artikel 72 van de Wet op de Rechterlijke Organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en het Beleid der Justitie; 
+Gelet op artikel 72 van de Wet op de Rechterlijke Organisatie en het Beleid der Justitie; 
 
 De Raad van State gehoord (advies van 28 oktober 1970, Nr. 8); 
 
@@ -19,13 +19,13 @@ In dit besluit wordt verstaan onder:
 
 –  *gerechtshof:* het gerechtshof Amsterdam of het gerechtshof Den Haag;  
 
-–  *ondernemingskamer:* de ondernemingskamer van het gerechtshof Amsterdam, bedoeld in [artikel 66, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);  
+–  *ondernemingskamer:* de ondernemingskamer van het gerechtshof Amsterdam, bedoeld in artikel 66, eerste lid, van de Wet op de rechterlijke organisatie;  
 
-–  *bijzondere kamer:* de bijzondere kamer van het gerechtshof Den Haag, bedoeld in [artikel 66, derde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
+–  *bijzondere kamer:* de bijzondere kamer van het gerechtshof Den Haag, bedoeld in artikel 66, derde lid, van de Wet op de rechterlijke organisatie.  
 
 ### Artikel  2  
 
-Dit besluit berust op [artikel 66, vijfde en zesde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md). 
+Dit besluit berust op artikel 66, vijfde en zesde lid, van de Wet op de rechterlijke organisatie. 
 
 ### Artikel  3  
 
@@ -35,8 +35,8 @@ Dit besluit berust op [artikel 66, vijfde en zesde lid, van de Wet op de rechter
 
 ### Artikel  4  
 
-1.  De deskundige leden, bedoeld in [artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.   
-2.  Het formulier, bedoeld in [artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer. 
+1.  De deskundige leden, bedoeld in artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie, leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.   
+2.  Het formulier, bedoeld in artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie, wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer. 
 
 ### Artikel  5  
 

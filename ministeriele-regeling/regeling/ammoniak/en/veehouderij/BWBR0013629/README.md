@@ -3,12 +3,12 @@
 ##Regeling ammoniak en veehouderij
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, handelende in overeenstemming met de Minister van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 1, eerste en derde lid, van de Wet ammoniak en veehouderij](../../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);
+Gelet op artikel 1, eerste en derde lid, van de Wet ammoniak en veehouderij;
 Besluit:    
 
 ###Artikel 1 
 
-In deze regeling wordt verstaan onder:*bijlage:* bij deze regeling behorende bijlage;*de wet:* de [Wet ammoniak en veehouderij](../../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);*de minister:* de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+In deze regeling wordt verstaan onder:*bijlage:* bij deze regeling behorende bijlage;*de wet:* de Wet ammoniak en veehouderij;*de minister:* de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ### Artikel  2  
 
@@ -96,9 +96,9 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | A 1.12  | ligboxenstal met geprofileerde vlakke vloer met hellende sleuven, regelmatige mestafstorten en mestschuif *(BWL 2010.33.V3)*   | --- |
 | A 1.12.1  | beweiden <sup>19</sup>   | 8,3  |
 | A 1.12.2  | permanent opstallen <sup>19</sup>   | 9,5  |
-| A 1.13  | ligboxenstal met roostervloer voorzien van cassettes in de roosterspleten en mestschuif *(BWL 2010.34.V3)*   | --- |
-| A 1.13.1  | beweiden <sup>19</sup>   | 7,1  |
-| A 1.13.2  | permanent opstallen <sup>19</sup>   | 8,1  |
+| A 1.13  | Ligboxenstal met roostervloer voorzien van cassettes in de roosterspleten en mestschuif *(BWL 2010.34.V4)*  | --- |
+| A 1.13.1  | beweiden<sup>19</sup>  |  5,2  |
+| A 1.13.2  | opstallen<sup>19</sup>  | 6.0  |
 | A 1.14  | ligboxenstal met geprofileerde vlakke vloer met hellende sleuven, regelmatige mestafstorten voorzien van afdichtflappen, met mestschuif *(BWL 2010.35.V3)*   | --- |
 | A 1.14.1  | beweiden <sup>19</sup>   | 7,1  |
 | A 1.14.2  | permanent opstallen <sup>19</sup>   | 8,1  |
@@ -138,6 +138,9 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | A 1.26  | ligboxenstal met hellende V-vormige vloer, voorzien van geprofileerde rubber matten, met centrale giergoot en mestschuif *(BWL 2013.07)*   | --- |
 | A 1.26.1  | beweiden <sup>19</sup>   | 6,5  |
 | A 1.26.2  | permanent opstallen <sup>19</sup>   | 7,5  |
+|A 1.27  |Ligboxenstal met roostervloer met hellende groeven voorzien van afdichtkleppen in de roosterspleten, met mestschuif en vernevelsysteem *(BWL 2014.02)* | --- |
+|A 1.27.1 |beweiden<sup>19</sup>  |7,0 |
+|A 1.27.2 |opstallen<sup>19</sup>  |8,0 |
 | A 1.100  | overige huisvestingssystemen  | --- |
 | A 1.100.1  | beweiden  | 9,5  |
 | A 1.100.2  | permanent opstallen  | 11,0  |
@@ -149,7 +152,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 |  *A 4*   |  *diercategorie vleeskalveren tot circa 8 maanden*   | --- |
 | A 4.1  | mechanisch geventileerde stal met een chemisch luchtwassysteem met 90% emissiereductie *(BWL 2013.08)*   | 0,25  |
 | A 4.2  | mechanisch geventileerde stal met een biologisch luchtwassysteem met 70% emissiereductie *(BWL 2004.01.V3; BWL 2006.02.V2; BWL 2007.03.V4; BWL 2008.01.V2; BWL 2008.02.V2; BWL 2008.03.V2; BWL 2008.04.V2; BWL 2008.05.V2; BWL 2008.12.V2; BWL 2009.13.V2; BWL 2009.20.V1; BWL 2009.21.V1; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2011.12.V1, BWL 2013.02)*   | 0,75  |
-| A 4.3  | mechanisch geventileerde stal met een chemisch luchtwassysteem met 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1)* <sup>3</sup>   | 0,75  |
+| A 4.3  | mechanisch geventileerde stal met een chemisch luchtwassysteem met 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1; BWL 2014.01)* <sup>3</sup>   | 0,75  |
 | A 4.4  | mechanisch geventileerde stal met een chemisch luchtwassysteem met 95% emissiereductie* (BWL 2007.05.V4; BWL 2008.08.V3; BWL 2008.09.V3; BWL 2010.26.V1)* <sup>3</sup>   | 0,13  |
 | A 4.5  | mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch  | --- |
 | A 4.5.1  | mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser *(BWL 2006.14.V3)* <sup>3</sup>   | 0,38  |
@@ -211,7 +214,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | D 1.1.9  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2004.01.V3; BWL 2006.02.V2; BWL 2007.03.V4;BWL 2008.01.V2; BWL 2008.02.V2; BWL 2008.03.V2; BWL 2008.04.V2; BWL 2008.05.V2; BWL 2008.12.V2; BWL 2009.13.V2; BWL 2009.20.V1; BWL 2009.21.V1; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2011.12.V1, BWL 2013.02)*   | --- |
 | D 1.1.9.1  | hokoppervlak maximaal 0,35 m<sup>2</sup> per big <sup>3</sup>   | 0,18  |
 | D 1.1.9.2  | hokoppervlak groter dan 0,35 m<sup>2</sup> per big <sup>3</sup>   | 0,23  |
-| D 1.1.10  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1)*   | --- |
+| D 1.1.10  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1; BWL 2014.01)*   | --- |
 | D 1.1.10.1  | hokoppervlak maximaal 0,35 m<sup>2</sup> per big <sup>3</sup>   | 0,18  |
 | D 1.1.10.2  | hokoppervlak groter dan 0,35 m<sup>2</sup> per big <sup>3</sup>   | 0,23  |
 | D 1.1.11  | koeldeksysteem (150% koeloppervlak)  | --- |
@@ -265,7 +268,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | D 1.2.8  | mestopvang in en spoelen met aangezuurde vloeistof *(Groen Label BB 96.04.037V1)*   | 3,1  |
 | D 1.2.9  | schuiven in mestgoot *(BWL 2001.18)*   | 2,5  |
 | D 1.2.10  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2004.01.V3; BWL 2006.02.V2; BWL 2007.03.V4;BWL 2008.01.V2; BWL 2008.02.V2; BWL 2008.03.V2; BWL 2008.04.V2; BWL 2008.05.V2; BWL 2008.12.V2; BWL 2009.13.V2; BWL 2009.20.V1; BWL 2009.21.V1; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2011.12.V1, BWL 2013.02) * <sup>3</sup>   | 2,5  |
-| D 1.2.11  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1) * <sup>3</sup>   | 2,5  |
+| D 1.2.11  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1; BWL 2014.01) * <sup>3</sup>   | 2,5  |
 | D 1.2.12  | koeldeksysteem (150% koeloppervlak) *(BWL 2010.15.V1)*   | 2,4  |
 | D 1.2.13  | mestpan onder kraamhok *(BWL 2006.08.V1)*   | 2,9  |
 | D 1.2.14  | mestpan met water- en mestkanaal onder kraamhok *(BWL 2010.07.V1)*   | 2,9  |
@@ -289,7 +292,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | D 1.3.4  | mestopvang in en spoelen met aangezuurde vloeistof *(Groen Label bij individuele huisvesting BB 96.04.036V1) (Groen Label bij groepshuisvesting BB 96.04.036V1/A 98.10.061)*   | 1,8  |
 | D 1.3.5  | schuiven in mestgoot (alleen toepasbaar bij individuele huisvesting) *(BWL 2001.19)*   | 2,2  |
 | D 1.3.6  | biologisch luchtwassysteem 70% emissiereductie *(bij individuele en groepshuisvesting BWL 2004.01.V3; BWL 2006.02.V2; BWL 2007.03.V4;BWL 2008.01.V2; BWL 2008.02.V2; BWL 2008.03.V2; BWL 2008.04.V2; BWL 2008.05.V2; BWL 2008.12.V2; BWL 2009.13.V2; BWL 2009.20.V1; BWL 2009.21.V1; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2011.12.V1, BWL 2013.02) * <sup>3</sup>   | 1,3  |
-| D 1.3.7  | chemisch luchtwassysteem 70% emissiereductie *(bij individuele en groepshuisvesting BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1)* <sup>3</sup>   | 1,3  |
+| D 1.3.7  | chemisch luchtwassysteem 70% emissiereductie *(bij individuele en groepshuisvesting BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1; BWL 2014.01)* <sup>3</sup>   | 1,3  |
 | D 1.3.8  | Koeldeksysteem  | --- |
 | D 1.3.8.1  | 115% koeloppervlak (*bij individuele huisvesting BWL 2010.16.V1)*   | 2,2  |
 | D 1.3.8.2  | 135% koeloppervlak* (bij groepshuisvesting BWL 2010.17.V1)*   | 2,2  |
@@ -312,7 +315,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | --- | --- | --- |
 |  *D 2 *   |  *diercategorie dekberen, 7 maanden en ouder*   | --- |
 | D 2.1  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2004.01.V3; BWL 2006.02.V2; BWL 2007.03.V4;BWL 2008.01.V2; BWL 2008.02.V2; BWL 2008.03.V2; BWL 2008.04.V2; BWL 2008.05.V2; BWL 2008.12.V2; BWL 2009.13.V2; BWL 2009.20.V1; BWL 2009.21.V1; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2011.12.V1, BWL 2013.02) * <sup>3</sup>   | 1,7  |
-| D 2.2  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1) * <sup>3</sup>   | 1,7  |
+| D 2.2  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1; BWL 2014.01) * <sup>3</sup>   | 1,7  |
 | D 2.3  | chemisch luchtwassysteem 95% emissiereductie *(BWL 2007.05.V4; BWL 2008.08.V3; BWL 2008.09.V3; BWL 2010.26.V1) * <sup>3</sup>   | 0,28  |
 | D 2.4  | luchtwassystemen anders dan biologisch of chemisch  | --- |
 | D 2.4.1  | gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser *(BWL 2006.14.V3) * <sup>3</sup>   | 0,83  |
@@ -362,7 +365,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | D 3.2.8  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2004.01.V3; BWL 2006.02.V2; BWL 2007.03.V4;BWL 2008.01.V2; BWL 2008.02.V2; BWL 2008.03.V2; BWL 2008.04.V2; BWL 2008.05.V2; BWL 2008.12.V2; BWL 2009.13.V2; BWL 2009.20.V1; BWL 2009.21.V1; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2011.12.V1, BWL 2013.02)*   | --- |
 | D 3.2.8.1  | hokoppervlak maximaal 0,8 m<sup>2</sup> per varken <sup>3, 5</sup>   | 0,8  |
 | D 3.2.8.2  | hokoppervlak groter dan 0,8 m<sup>2</sup> per varken <sup>3, 5</sup>   | 1,1  |
-| D 3.2.9  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1)*   | --- |
+| D 3.2.9  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2004.02.V3; BWL 2005.01.V4; BWL 2006.04.V2; BWL 2006.05.V2; BWL 2008.06.V3; BWL 2008.07.V2; BWL 2009.01.V2; BWL 2010.25.V1; BWL 2011.14.V1; BWL 2014.01)*   | --- |
 | D 3.2.9.1  | hokoppervlak maximaal 0,8 m<sup>2</sup> per varken <sup>3, 5</sup>   | 0,8  |
 | D 3.2.9.2  | hokoppervlak groter dan 0,8 m<sup>2</sup> per varken <sup>3, 5</sup>   | 1,1  |
 | D 3.2.10  | bollevloerhok met betonnen morsrooster en metalen driekantrooster  | --- |
@@ -445,7 +448,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | E 1.10  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3</sup>   | 0,051  |
 | E 1.11  | stal met verwarmingssysteem met warmteheaters en ventilatoren *(BWL 2009.14.V3)*   | 0,150  |
 | E 1.12  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0.051  |
-| E 1.13  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,051  |
+| E 1.13  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,051  |
 | E 1.100  | overige huisvestingssystemen niet-batterijhuisvesting  | 0,170  |
 | E 1.101  | overige huisvestingssystemen batterijhuisvesting  | 0,045  |
 | --- | --- | --- |
@@ -481,7 +484,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | E 2.12.2  | scharrelhuisvesting met frequente mest- en strooiselverwijdering *(BWL 2004.12) * <sup>6, 11</sup>   | 0,106  |
 | E 2.13  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02) * <sup>3, 11</sup>   | 0,095  |
 | E 2.14  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,095  |
-| E 2.15  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,095  |
+| E 2.15  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,095  |
 | E 2.100  | overige huisvestingssystemen niet-batterijhuisvesting  | 0,315  |
 | E 2.101  | overige huisvestingssystemen batterijhuisvesting  | 0,100  |
 | --- | --- | --- |
@@ -491,7 +494,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | E 3.3  | stal met mixluchtventilatie *(BWL 2005.10.V3)*   | 0,183  |
 | E 3.4  | stal met verwarmingssysteem met warmteheaters en ventilatoren *(BWL 2009.14.V3)*   | 0,180  |
 | E 3.5  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,075  |
-| E 3.6  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,075  |
+| E 3.6  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,075  |
 | E 3.7  | stal met indirect gestookte warmteheaters met luchtmengsysteem voor droging strooisellaag *(BWL 2011.13.V1)*   | 0,180  |
 | E 3.8  | stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar *(BWL 2010.13.V4)*   | 0,158  |
 | E 3.100  | overige huisvestingssystemen  | 0,250  |
@@ -510,7 +513,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | E 4.7  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3</sup>   | 0,174  |
 | E 4.8  | grondhuisvesting, mestbanden onder de roosters, mestbanden minimaal tweemaal per week afdraaien* (BWL 2007.10)* <sup>6</sup>   | 0,245  |
 | E 4.9  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,174  |
-| E 4.10  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,174  |
+| E 4.10  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,174  |
 | E 4.100  | overige huisvestingssystemen  | 0,580  |
 | --- | --- | --- |
 |  *E 5*   |  *diercategorie vleeskuikens*   | --- |
@@ -539,7 +542,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | E 5.10  | stal met verwarmingssysteem met warmteheaters en ventilatoren *(BWL 2009.14.V3)* <sup>11</sup>   | 0,035  |
 | E 5.11  | stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar *(BWL 2010.13.V4)* <sup>11</sup>   | 0,021  |
 | E 5.12  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,024  |
-| E 5.13  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,024  |
+| E 5.13  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,024  |
 | E 5.14  | stal met indirect gestookte warmteheaters met luchtmengsysteem voor droging strooisellaag *(BWL 2011.13.V1)* <sup>11</sup>   | 0,035  |
 | E 5.100  | overige huisvestingssystemen  | 0,080  |
 | --- | --- | --- |
@@ -571,7 +574,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | F 1.2  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02) * <sup>3</sup>   | 0,05  |
 | F 1.3  | stal met verwarmingssysteem met warmteheaters en ventilatoren *(BWL 2009.14.V3)*   | 0,11  |
 | F 1.4  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,05  |
-| F 1.5  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,05  |
+| F 1.5  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,05  |
 | F1.6  | stal met indirect gestookte warmteheaters met luchtmengsysteem voor droging strooisellaag *(BWL 2011.13.V1)*   | 0,11  |
 | F 1.7  | stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar *(BWL 2010.13.V4)*   | 0,10  |
 | F 1.100  | overige huisvestingssystemen  | 0,15  |
@@ -581,7 +584,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | F 2.2  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3</sup>   | 0,14  |
 | F 2.3  | stal met verwarmingssysteem met warmteheaters en ventilatoren *(BWL 2009.14.V3)*   | 0,34  |
 | F 2.4  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,14  |
-| F 2.5  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,14  |
+| F 2.5  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,14  |
 | F 2.6  | stal met indirect gestookte warmteheaters met luchtmengsysteem voor droging strooisellaag *(BWL 2011.13.V1)*   | 0,34  |
 | F 2.7  | stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar *(BWL 2010.13.V4)*   | 0,30  |
 | F 2.100  | overige huisvestingssystemen  | 0,47  |
@@ -590,7 +593,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | F 3.1  | chemisch luchtwassysteem 90% emissiereductie *(BWL 2008.08.V3; BWL 2007.05.V4; BWL 2013.08)* <sup>3</sup>   | 0,06  |
 | F 3.2  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3</sup>   | 0,18  |
 | F 3.3  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,18  |
-| F 3.4  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,18  |
+| F 3.4  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,18  |
 | F 3.100  | overige huisvestingssystemen  | 0,59  |
 | --- | --- | --- |
 |  *F 4*   |  *diercategorie vleeskalkoenen*   | --- |
@@ -600,7 +603,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | F 4.4  | biologisch luchtwassysteem 70% emissiereductie *(BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3, 9</sup>   | 0,20  |
 | F 4.5  | stal met verwarmingssysteem met warmteheaters en ventilatoren *(BWL 2009.14.V3)*   | 0,49  |
 | F 4.6  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,20  |
-| F 4.7  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,20  |
+| F 4.7  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,20  |
 | F 4.8  | stal met indirect gestookte warmteheaters met luchtmengsysteem voor droging strooisellaag *(BWL 2011.13.V1)*   | 0,49  |
 | F 4.9  | stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar *(BWL 2010.13.V4)*   | 0,43  |
 | F 4.100  | overige huisvestingssystemen <sup>9</sup>   | 0,68  |
@@ -618,7 +621,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 |  *G 1*   |  *diercategorie ouderdieren van vleeseenden tot 24 maanden*   | --- |
 | G 1.1  | chemisch luchtwassysteem 90% emissiereductie *(BWL 2008.08.V3; BWL 2007.05.V4; BWL 2013.08) * <sup>3</sup>   | 0,032  |
 | G 1.2  | biologisch luchtwassysteem 70% emissiereductie* (BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02) * <sup>3</sup>   | 0,096  |
-| G 1.3  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,096  |
+| G 1.3  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,096  |
 | G 1.4  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,096  |
 | G 1.100  | overig huisvestingssystemen  | 0,320  |
 | --- | --- | --- |
@@ -626,7 +629,7 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 | G 2.1  | binnen mesten  | --- |
 | G 2.1.1  | chemisch luchtwassysteem 90% emissiereductie *(BWL 2008.08.V3; BWL 2007.05.V4; BWL 2013.08) * <sup>3</sup>   | 0,021  |
 | G 2.1.2  | biologisch luchtwassysteem 70% emissiereductie* (BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1; BWL 2013, 02)* <sup>3</sup>   | 0,063  |
-| G 2.1.3  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,063  |
+| G 2.1.3  | chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,063  |
 | G 2.1.4  | biofilter 70% emissiereductie *(BWL 2011.03.V1)* <sup>3</sup>   | 0,063  |
 | G 2.1.100  | overig huisvestingssystemen  | 0,210  |
 | G 2.2  | buiten mesten (per afgeleverde eend)  | 0,019  |
@@ -648,14 +651,14 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 |  *I 1*   |  *diercategorie voedster inclusief 0,15 ram en bijbehorende jongen tot speenleeftijd *   | --- |
 | I 1.1  | mechanisch geventileerde stal met gescheiden afvoer van mest en urine *(BWL 2005.08.V1)*   | 0,77  |
 | I 1.2  | mechanisch geventileerde stal met een biologisch luchtwassysteem 70% emissiereductie* (BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3</sup>   | 0,36  |
-| I 1.3  | mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,36  |
+| I 1.3  | mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,36  |
 | I 1.4  | mechanisch geventileerde stal met een chemisch luchtwassysteem 90% emissiereductie *(BWL 2008.08.V3; BWL 2007.05.V4; BWL 2013.08) * <sup>3</sup>   | 0,12  |
 | I 1.100  | overige systemen  | 1,20  |
 | --- | --- | --- |
 |  *I 2*   |  *diercategorie vlees- en opfokkonijnen tot dekleeftijd*   | --- |
 | I 2.1  | mechanisch geventileerde stal met gescheiden afvoer van mest en urine *(BWL 2005.09.V1)*   | 0,12  |
 | I 2.2  | mechanisch geventileerde stal met een biologisch luchtwassysteem 70% emissiereductie* (BWL 2006.02.V2; BWL 2007.03.V4; BWL 2009.13.V2; BWL 2010.27.V2; BWL 2010.28.V2; BWL 2011.11.V1, BWL 2013.02)* <sup>3</sup>   | 0,06  |
-| I 2.3  | mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3)* <sup>3</sup>   | 0,06  |
+| I 2.3  | mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie *(BWL 2005.01.V4; BWL 2008.06.V3; BWL 2014.01)* <sup>3</sup>   | 0,06  |
 | I 2.4  | mechanisch geventileerde stal met een chemisch luchtwassysteem 90% emissiereductie *(BWL 2008.08.V3; BWL 2007.05.V4; BWL 2013.08) * <sup>3</sup>   | 0,02  |
 | I 2.100  | overige systemen  | 0,20  |
 | --- | --- | --- |
@@ -680,4 +683,4 @@ Emissiefactoren voor de emissie vanuit het dierenverblijf, inclusief de emissie 
 
 a) Additioneel aan de emissiefactor van E 1.5, E 1.8, E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3, E 4.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3  
 
-b) Het eerste getal geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3; het tweede getal geldt voor huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8. De emissiefactor voor E 6.100 (overige opslag van mest) geldt alleen indien er geen andere additionele technieken (E 6.1, E 6.2, E 6.3 of E 6.4) worden toegepast.    <sup>8</sup> Het onderscheid tussen paarden en pony's ligt bij een stokmaat (schofthoogte) van 156,0 cm.  <sup>9</sup> Het aantal dierplaatsen dient te worden vastgesteld door het aantal dieren in de 10<sup>e</sup> week na opzetten te tellen.  <sup>10</sup> Het volièresysteem is al dan niet van mestbandbeluchting voorzien. Bij toepassing van een mestnadroogsysteem moet de mest echter minimaal tweemaal per week worden afgedraaid.  <sup>11</sup> De emissiefactor die bij het betreffende huisvestingssysteem staat vermeld, geldt ook bij aanwezigheid van een vrije, niet overdekte uitloop evenals bij de aanwezigheid van een overdekte uitloop, voor zover deze niet als permanente huisvesting wordt gebruikt.  <sup>12</sup> Op het moment van overplaatsen naar de vervolghuisvesting bedraagt de bezetting in de stal met etages maximaal 71 dieren per m<sup>2</sup>.  <sup>13</sup> Op het moment van overplaatsen naar de vervolghuisvesting bedraagt de bezetting in de stal met etages maximaal 48 dieren per m<sup>2</sup>.  <sup>14</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met de huisvestingssystemen: E 3.1, E 3.2, E 3.3, E 3.4, E 3.5, E 3.6, E 3.7. E 3.8, E 3.100, E 5.1, E 5.2, E 5.4, E 5.5, E 5.6, E 5.7, E 5.9.1.1.1, E 5.9.1.1.2, E 5.9.1.1.4, E 5.9.1.2.1, E 5.9.1.2.2, E 5.9.1.2.4, E 5.10, E 5.11, E 5.12, E 5.13, E 5.14, E 5.100, F4.1, F4.2, F4.3, F 4.4, F 4.5, F 4.6, F 4.7, F 4.8, F4.9 en F 4.100.  <sup>15</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met de huisvestingssystemen: E 5.1, E 5.2, E 5.3, E5.4, E 5.5, E 5.6, E5.7, E 5.9.1.1.1, E 5.9.1.1.2, E 5.9.1.1.4, E 5.9.1.2.1, E 5.9.1.2.2, E 5.9.1.2.4, E5.10, E 5.11, E 5.12, E 5.13, E 5.14 en E 5.100.  <sup>16</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met alle huisvestingssystemen binnen de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden), met uitzondering van andere luchtwassystemen, de additionele technieken voor mestbewerking en mestopslag E 6.3, E 6.4, E 6.100 en het huisvestingssysteem G 2.2.  <sup>17</sup> Deze techniek kan worden gecombineerd met de huisvestingssystemen D 1.1.4, D 1.1.100, D 1.2.100, D 1.3.1, D 1.3.100, D 2.100, D 3.1, D 3.2.1 en D 3.100. Daarnaast is de techniek te combineren met de huisvestingssystemen D 1.1.5, D 3.2.10 en D 3.2.11 indien het mestkanaal dieper is dan 0,7 m.  <sup>18</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met alle huisvestingssystemen binnen de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden), met uitzondering van de luchtwassystemen.  <sup>19</sup> Voor dit systeem is een voorlopige emissiefactor vastgesteld als bedoeld in de [Beleidsregels voorlopige emissiefactoren Regeling ammoniak en veehouderij](../../../../../../beleidsregel/beleidsregels/voorlopige/emissiefactoren/regeling/ammoniak/en/veehouderij/BWBR0029565/README.md).  <sup>20</sup> Bij deze diercategorie kunnen dezelfde huisvestingssystemen en de bijbehorende emissiefactoren worden toegepast als die welke zijn opgenomen bij de diercategorie vleeskuikens (E 5).  <sup>21</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met alle huisvestingssystemen onder de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden, met uitzondering van het huisvestingsysteem G 2.2).  <sup>22</sup> Deze techniek kan worden gecombineerd met alle huisvestingssystemen onder de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden, met uitzondering van het huisvestingsysteem G 2.2). Als onderdeel van de huisvestingssystemen E 3.8, E 5.11, F 1.7, F 2.7 en F 4.9 reduceert deze techniek ook de emissie van ammoniak. In combinatie met andere huisvestingssystemen heeft deze techniek geen invloed op de ammoniakemissie. Indien in de tabel wordt verwezen naar een huisvestingssysteem wordt de bijbehorende emissiefactor uitsluitend gehanteerd bij de berekening van de emissie vanuit een dierenverblijf dat is of zal worden gebouwd overeenkomstig de beschrijving van dat huisvestingssysteem. De meest recente beschrijving kan worden opgevraagd bij het Kenniscentrum InfoMil (088.6025575, www.infomil.nl). 
+b) Het eerste getal geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3; het tweede getal geldt voor huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8. De emissiefactor voor E 6.100 (overige opslag van mest) geldt alleen indien er geen andere additionele technieken (E 6.1, E 6.2, E 6.3 of E 6.4) worden toegepast.    <sup>8</sup> Het onderscheid tussen paarden en pony's ligt bij een stokmaat (schofthoogte) van 156,0 cm.  <sup>9</sup> Het aantal dierplaatsen dient te worden vastgesteld door het aantal dieren in de 10<sup>e</sup> week na opzetten te tellen.  <sup>10</sup> Het volièresysteem is al dan niet van mestbandbeluchting voorzien. Bij toepassing van een mestnadroogsysteem moet de mest echter minimaal tweemaal per week worden afgedraaid.  <sup>11</sup> De emissiefactor die bij het betreffende huisvestingssysteem staat vermeld, geldt ook bij aanwezigheid van een vrije, niet overdekte uitloop evenals bij de aanwezigheid van een overdekte uitloop, voor zover deze niet als permanente huisvesting wordt gebruikt.  <sup>12</sup> Op het moment van overplaatsen naar de vervolghuisvesting bedraagt de bezetting in de stal met etages maximaal 71 dieren per m<sup>2</sup>.  <sup>13</sup> Op het moment van overplaatsen naar de vervolghuisvesting bedraagt de bezetting in de stal met etages maximaal 48 dieren per m<sup>2</sup>.  <sup>14</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met de huisvestingssystemen: E 3.1, E 3.2, E 3.3, E 3.4, E 3.5, E 3.6, E 3.7. E 3.8, E 3.100, E 5.1, E 5.2, E 5.4, E 5.5, E 5.6, E 5.7, E 5.9.1.1.1, E 5.9.1.1.2, E 5.9.1.1.4, E 5.9.1.2.1, E 5.9.1.2.2, E 5.9.1.2.4, E 5.10, E 5.11, E 5.12, E 5.13, E 5.14, E 5.100, F4.1, F4.2, F4.3, F 4.4, F 4.5, F 4.6, F 4.7, F 4.8, F4.9 en F 4.100.  <sup>15</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met de huisvestingssystemen: E 5.1, E 5.2, E 5.3, E5.4, E 5.5, E 5.6, E5.7, E 5.9.1.1.1, E 5.9.1.1.2, E 5.9.1.1.4, E 5.9.1.2.1, E 5.9.1.2.2, E 5.9.1.2.4, E5.10, E 5.11, E 5.12, E 5.13, E 5.14 en E 5.100.  <sup>16</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met alle huisvestingssystemen binnen de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden), met uitzondering van andere luchtwassystemen, de additionele technieken voor mestbewerking en mestopslag E 6.3, E 6.4, E 6.100 en het huisvestingssysteem G 2.2.  <sup>17</sup> Deze techniek kan worden gecombineerd met de huisvestingssystemen D 1.1.4, D 1.1.100, D 1.2.100, D 1.3.1, D 1.3.100, D 2.100, D 3.1, D 3.2.1 en D 3.100. Daarnaast is de techniek te combineren met de huisvestingssystemen D 1.1.5, D 3.2.10 en D 3.2.11 indien het mestkanaal dieper is dan 0,7 m.  <sup>18</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met alle huisvestingssystemen binnen de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden), met uitzondering van de luchtwassystemen.  <sup>19</sup> Voor dit systeem is een voorlopige emissiefactor vastgesteld als bedoeld in de Beleidsregels voorlopige emissiefactoren Regeling ammoniak en veehouderij.  <sup>20</sup> Bij deze diercategorie kunnen dezelfde huisvestingssystemen en de bijbehorende emissiefactoren worden toegepast als die welke zijn opgenomen bij de diercategorie vleeskuikens (E 5).  <sup>21</sup> Deze techniek heeft geen invloed op de ammoniakemissie en kan worden gecombineerd met alle huisvestingssystemen onder de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden, met uitzondering van het huisvestingsysteem G 2.2).  <sup>22</sup> Deze techniek kan worden gecombineerd met alle huisvestingssystemen onder de hoofdcategorieën E (kippen), F (kalkoenen) en G (eenden, met uitzondering van het huisvestingsysteem G 2.2). Als onderdeel van de huisvestingssystemen E 3.8, E 5.11, F 1.7, F 2.7 en F 4.9 reduceert deze techniek ook de emissie van ammoniak. In combinatie met andere huisvestingssystemen heeft deze techniek geen invloed op de ammoniakemissie. Indien in de tabel wordt verwezen naar een huisvestingssysteem wordt de bijbehorende emissiefactor uitsluitend gehanteerd bij de berekening van de emissie vanuit een dierenverblijf dat is of zal worden gebouwd overeenkomstig de beschrijving van dat huisvestingssysteem. De meest recente beschrijving kan worden opgevraagd bij het Kenniscentrum InfoMil (088.6025575, www.infomil.nl). 

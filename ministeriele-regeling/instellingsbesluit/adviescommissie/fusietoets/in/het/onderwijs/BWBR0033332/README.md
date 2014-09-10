@@ -12,26 +12,27 @@ a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
 b.  *commissie:* de Adviescommissie fusietoets in het onderwijs, bedoeld in artikel 2, eerste lid, van dit besluit;  
 
-c.  *WPO:* [Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+c.  *WPO:* Wet op het primair onderwijs;  
 
-d.  *WEC:* [Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+d.  *WEC:* Wet op de expertisecentra;  
 
-e.  *WVO:* [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e.  *WVO:* Wet op het voortgezet onderwijs;  
 
-f.  *WEB:* [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f.  *WEB:* Wet educatie en beroepsonderwijs;  
 
-g.  *school:* school als bedoeld in [artikel 1 van de WPO](../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 1 van de WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 1 van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+g.  *school:* school als bedoeld in artikel 1 van de WPO, artikel 1 van de WEC en artikel 1 van de WVO;  
 
-h.  *instelling:* instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+h.  *instelling:* instelling als bedoeld in artikel 1.1.1, onderdeel b, van de WEB;  
 
-i.  *fusie:* fusie als bedoeld in [artikel 64 van de WPO](../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 66 van de WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 53e van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [artikel 2.1.8 van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+i.  *fusie:* fusie als bedoeld in artikel 64 van de WPO, artikel 66 van de WEC, artikel 53e van de WVO, en artikel 2.1.8 van de WEB.   
 
 ### Artikel  2  
 
 ####Instelling en taak
 
 1.  Er is een Adviescommissie fusietoets in het onderwijs.   
-2.  De commissie heeft tot taak om op grond van [artikel 64c, derde lid, van de WPO](../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 66c, derde lid, van de WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 53h, vierde lid, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 2.1.11, tweede lid, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voorgenomen fusies te beoordelen met inachtneming van de beleidsregels fusietoets in het onderwijs en daarover advies uit te brengen aan de minister.  
+2.  De commissie heeft tot taak om op grond van artikel 64c, derde lid, van de WPO, artikel 66c, derde lid, van de WEC, artikel 53h, vierde lid, van de WVO en artikel 2.1.11, tweede lid, van de WEB voorgenomen fusies te beoordelen met inachtneming van de beleidsregels fusietoets in het onderwijs en daarover advies uit te brengen aan de minister.  
+3. Indien artikel 4, eerste lid, onderdelen c tot en met f, van de Regeling en beleidsregels fusietoets in het onderwijs van toepassing is, kan een medezeggenschapsraad die gevraagd is in te stemmen met een voorgenomen fusie, de commissie verzoeken hem te adviseren over de fusie-effectrapportage. Het verzoek aan de commissie vindt plaats voorafgaand aan de verlening of de onthouding van de instemming.
 
 ### Artikel  3  
 
@@ -61,8 +62,8 @@ De minister voorziet in het secretariaat van de commissie en treft voorzieningen
 
 ####Vergoeding
 
-1.  De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding per maand met ingang van 1 januari 2013. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor de voorzitter en de andere leden is 3,288/36 respectievelijk 2,653/36.   
-2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md). Deze vergoeding wordt door de secretaris van de commissie afgehandeld.  
+1.  De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding per maand met ingang van 1 januari 2013. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor de voorzitter en de andere leden is 3,825/36 respectievelijk 3,087/36.   
+2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het Reisbesluit binnenland en het Reisbesluit buitenland. Deze vergoeding wordt door de secretaris van de commissie afgehandeld.  
 
 ### Artikel  7  
 

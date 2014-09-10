@@ -6,21 +6,21 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voor een voortvarende vervolging en berechting van geweld in de publieke ruimte en geweld tegen personen met een publieke taak de gronden voor voorlopige hechtenis aan te vullen en daartoe het[ Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan te passen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is voor een voortvarende vervolging en berechting van geweld in de publieke ruimte en geweld tegen personen met een publieke taak de gronden voor voorlopige hechtenis aan te vullen en daartoe het Wetboek van Strafvordering aan te passen;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt het Wetboek van Strafvordering.
 
 ### Artikel  Ia  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 

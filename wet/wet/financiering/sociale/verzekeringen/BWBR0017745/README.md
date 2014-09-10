@@ -235,7 +235,9 @@ Ten gunste van het Ouderdomsfonds, het Nabestaandenfonds en het Algemeen Fonds B
 
 a. hetgeen uit een vroegere dienstbetrekking als bedoeld in de Wet op de loonbelasting 1964 wordt genoten met uitzondering van uitkeringen op grond van een werknemersverzekering of wachtgeld als bedoeld in artikel 6, vijfde lid, tweede zin, van de Werkloosheidswet en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat en met uitzondering van toeslagen op grond van de Toeslagenwet;  
 
-b. eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964.   
+b. eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964;  
+
+c. een tegemoetkoming als bedoeld in de artikelen 63a van de Wet werk en inkomen naar arbeidsvermogen en 65l van de Wet op de arbeidsongeschiktheidsverzekering.  
 
 ### Artikel  17  
 
@@ -1562,6 +1564,27 @@ c. de kosten die verband houden met de uitvoering van artikel 30a, van de Wet st
 ####Nadere regels
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de overheveling van gelden uit het Arbeidsongeschiktheidsfonds naar de Werkhervattingskas. 
+
+### Artikel  118a  
+
+####Vergoeding gemeenten
+
+Treedt in werking per 01-01-2015 
+
+1.  Bij algemene maatregel van bestuur kan worden bepaald, dat de colleges van burgemeester en wethouders uitkeringen aan werknemers, die voorafgaande aan de dienstbetrekking, door die colleges van burgemeester en wethouders op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet zijn ondersteund bij de arbeidsinschakeling vergoeden aan het UWV, indien de dienstbetrekking een bij die maatregel te bepalen tijd heeft geduurd.   
+2.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt in ieder geval geregeld: 
+
+a. welke uitkeringen op grond van de werknemersverzekeringen dit betreft;  
+
+b. de doelgroep van de werknemers;  
+
+c. de hoogte van de vergoeding;  
+
+d. de wijze van vergoeding;  
+
+e. ten gunste van welk fonds, bedoeld in deze afdeling, de vergoedingen komen.     
+3.  Een voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
+4.  Een op grond van dit artikel vastgestelde algemene maatregel van bestuur treedt slechts in werking, nadat gebleken is dat aan werknemers als bedoeld in het eerste lid bovenmatig uitkeringen op grond van de werknemersverzekeringen worden verstrekt.  
 
 ### Afdeling  4  
 

@@ -3,9 +3,9 @@
 ##Besluit van de Minister voor Ontwikkelingssamenwerking van 16 maart 2009, nr. DDE/187/2009, tot instelling van de Adviescommissie Private Sector Investeringsprogramma
 
 De Minister voor Ontwikkelingssamenwerking,  
-Gelet op [artikel 7.3 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op artikel 7.3 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 
-Gelet op het [besluit van 19 november 2008, nr. DDE-838/2008, tot vaststelling van beleidsregels en een subsidieplafond voor het Private Sector Investeringsprogramma](../../../../../../../ministeriele-regeling/besluit/vaststelling/beleidsregels/en/subsidieplafond/private/sector/etc/BWBR0024751/README.md);
+Gelet op het besluit van 19 november 2008, nr. DDE-838/2008, tot vaststelling van beleidsregels en een subsidieplafond voor het Private Sector Investeringsprogramma;
 Besluit:    
 
 ### Artikel  1  

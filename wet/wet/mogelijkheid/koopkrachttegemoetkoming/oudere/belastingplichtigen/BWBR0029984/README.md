@@ -20,13 +20,13 @@ In deze wet en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 a.  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-b.  *binnenlandse belastingplichtige:* belastingplichtige als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+b.  *binnenlandse belastingplichtige:* belastingplichtige als bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001;  
 
-c.  *buitenlandse belastingplichtige:* belastingplichtige als bedoeld in [artikel 2.1, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die aantoont dat ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen is onderworpen;  
+c.  *buitenlandse belastingplichtige:* belastingplichtige als bedoeld in artikel 2.1, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, die aantoont dat ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen is onderworpen;  
 
-d.  *ouderenkorting:* heffingskorting als bedoeld in de [artikelen 8.17 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [22b van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+d.  *ouderenkorting:* heffingskorting als bedoeld in de artikelen 8.17 van de Wet inkomstenbelasting 2001 en 22b van de Wet op de loonbelasting 1964;  
 
-e.  *de SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+e.  *de SVB:* de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 
 ### Artikel  2  
 
@@ -59,7 +59,7 @@ Het recht op de tegemoetkoming ontstaat van rechtswege op de eerste dag van de m
 3.  Indien blijkt dat de betaling van de tegemoetkoming ten onrechte achterwege is gebleven, betaalt de SVB de tegemoetkoming alsnog binnen acht weken nadat de SVB met dit feit bekend is geworden.   
 4.  Degene aan wie geen tegemoetkoming wordt betaald, kan de SVB verzoeken alsnog tot betaling van tegemoetkoming over te gaan indien aannemelijk is dat hij recht heeft op de tegemoetkoming. Desgevraagd legt deze persoon nadere, door de SVB te bepalen bescheiden over. De SVB beslist binnen acht weken na de datum van ontvangst van de aanvraag, bedoeld in de eerste zin.   
 5.  Indien de beslissing niet binnen acht weken na ontvangst van de aanvraag kan worden genomen, verlengt de SVB de termijn, genoemd in het vierde lid, met een redelijke termijn en stelt de SVB de aanvrager daarvan schriftelijk in kennis.   
-6.  Indien de tegemoetkoming in het buitenland wordt uitbetaald, geschiedt de betaling, in afwijking van [artikel 4:89, derde lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd.   
+6.  Indien de tegemoetkoming in het buitenland wordt uitbetaald, geschiedt de betaling, in afwijking van artikel 4:89, derde lid, van de Algemene wet bestuursrecht, op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd.   
 7.  Wanneer degene aan wie de tegemoetkoming zou worden betaald een ander machtigt om de tegemoetkoming in ontvangst te nemen, onderscheidenlijk een verleende machtiging intrekt, wordt daaraan gevolg gegeven met ingang van een betalingstermijn, aanvangende na de dag, waarop de machtiging wordt ingediend, onderscheidenlijk waarop van haar intrekking mededeling wordt gedaan, doch niet later dan de eerste dag van de tweede maand na de dag van indiening, onderscheidenlijk intrekking van de machtiging.   
 8.  De SVB is bevoegd om de betaling van de tegemoetkoming te schorsen indien zij van oordeel is of vermoedt dat: 
 
@@ -99,11 +99,11 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 
 c. de vordering van de SVB wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
 
-d. een naar het oordeel van de SVB betrouwbaar voorstel tot schuldregeling is tot stand gekomen door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md);  
+d. een naar het oordeel van de SVB betrouwbaar voorstel tot schuldregeling is tot stand gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
 e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md).     
+f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de betrokkene gewijzigd indien: 
 
 a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;  
@@ -117,7 +117,7 @@ c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste
 
 ####Bevoorrechte vordering
 
-Een vordering van de SVB als bedoeld in de artikelen 7 en 8 is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
+Een vordering van de SVB als bedoeld in de artikelen 7 en 8 is bevoorrecht en volgt onmiddellijk na de vorderingen uit artikel 288 van Boek 3 van het Burgerlijk Wetboek. 
 
 ### Artikel  10  
 
@@ -159,7 +159,7 @@ Een ieder die de tegemoetkoming ontvangt, deelt aan de SVB desgevraagd of uit ei
 
 1.  Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan de SVB een uitkering voor de lasten van de door de SVB uitbetaalde tegemoetkomingen, bedoeld in artikel 3, eerste lid, en de daaraan verbonden uitvoeringskosten.   
 2.  De SVB verantwoordt de lasten van de tegemoetkomingen en uitvoeringskosten  afzonderlijk.   
-3.  [Hoofdstuk 8 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing voor begroting, beheer en verantwoording door de SVB van de uitvoering van deze wet.   
+3.  Hoofdstuk 8 van de Wet structuur uitvoeringsorganisatie werk en inkomen is van overeenkomstige toepassing voor begroting, beheer en verantwoording door de SVB van de uitvoering van deze wet.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld voor de berekening van het bedrag van de uitkering en de daarvoor noodzakelijke gegevens.  
 
 ### Hoofdstuk  5  
@@ -204,8 +204,8 @@ Wijzigt de Algemene nabestaandenwet.
 
 ####Bezwaar en beroep
 
-1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
-2.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking die is genomen op grond van deze wet voor bezwaar vatbaar.  
+1.  Hoofdstuk V van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
+2.  Voor de overeenkomstige toepassing van hoofdstuk V van de Algemene wet inzake rijksbelastingen is een beschikking die is genomen op grond van deze wet voor bezwaar vatbaar.  
 
 ### Artikel  20  
 

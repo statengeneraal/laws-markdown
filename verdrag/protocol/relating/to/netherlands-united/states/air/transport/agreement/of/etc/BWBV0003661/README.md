@@ -4,11 +4,15 @@
 
 ####Protocol relating to Netherlands-United States Air Transport Agreement of 1957
 
+Wordt voorlopig toegepast per 31-03-1978 
+
 The Government of the Kingdom of the Netherlands and the Government of the United States of America, Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum governmental regulation, and Intending to make it possible for airlines to offer the traveling and shipping public low-fare competitive services and increased opportunities for charter air services in the North Atlantic, Have agreed to this Protocol relating to the Air Transport Agreement between the Government of the Kingdom of the Netherlands and the Government of the United States of America signed at Washington on April 3, 1957, as amended, and applicable to North Atlantic international air transportation.    
 
 ### Article  1  
 
 ####Definitions
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 (a).  The term “air service” means scheduled air service or charter air service of both, as the context requires, performed by aircraft for the public transport of passengers, cargo or mail, separately or in combination, for compensation; 
 (b).  The term “Convention” means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, and includes (i) any amendment thereto which has entered into force under Article 94(a) thereof and has been ratified by both Contracting Parties; and (ii) any Annex of any amendment thereto adopted under Article 90 of that Convention, insofar as such amendment or Annex is at any given time effective for both Contracting Parties;
@@ -18,6 +22,8 @@ The Government of the Kingdom of the Netherlands and the Government of the Unite
 ### Article  2  
 
 ####Designation and Authorization
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 1.  Each Contracting Party shall have the right to designate as many airlines as it wishes to conduct international air services in accordance with this Agreement and to withdraw or alter such designations. Such designations shall be transmitted to the other Contracting Party in writing through diplomatic channels, and shall identify whether the airline is authorized to conduct the scheduled or charter air service specified in this Agreement, or both.  
 2.  On receipt of such a designation, and of applications from the designated airline in the form and manner prescribed for operating authorizations and technical permissions, the other Contracting Party shall with minimum procedural delay grant to the designated airline or airlines the appropriate operating authorizations and technical permissions, provided the airline meets the standards set forth in this Agreement and is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air services by the Contracting Party considering the application or applications.  
@@ -33,6 +39,8 @@ Wijzigt de Luchtvaartovereenkomst tussen de Regering van het Koninkrijk der Nede
 ### Article  4  
 
 ####Charter Air Services
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 (a).  The designated airline(s) of each Contracting Party shall have the right to carry international charter traffic in passengers (and their accompanying baggage) and/or cargo between any point or points in one Contracting Party via intermediate points to any point or points in the other Contracting Party and beyond, provided that the service must serve a point in the territory of the Contracting Party designating the airline.In the performance of services covered by this Article, the airline(s) of one Contracting Party shall also have the right:
 
@@ -51,6 +59,8 @@ Wijzigt de Luchtvaartovereenkomst tussen de Regering van het Koninkrijk der Nede
 ### Article  5  
 
 ####Fair Competition
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 1.  Each Contracting Party shall allow a fair, equal, and nondiscriminatory opportunity for the designated airlines of both Contracting Parties to compete with the designated airlines of the other Contracting Party. 
 2.  Neither Contracting Party shall unilaterally limit the volume of traffic, frequency or regularity of service, or the aircraft type or types operated by the designated airlines of the other Contracting Party, except as may be required for customs, technical, operational or environmental reasons under uniform conditions consistent with Article 15 of the Convention. 
@@ -84,17 +94,15 @@ Wordt voorlopig toegepast per 31-03-1978
 
 ####Aviation Security
 
-(a). In accordance with their rights and obligations under international law, the Contracting Parties reaffirm that their obligation to protect, in their mutual relationship, the security of civil aviation against acts of unlawful interference forms an integral part of this Protocol.
-(b). The Contracting Parties shall provide all necessary information and - upon request - all necessary assistance to each other to prevent acts of unlawful seizure of aircraft and other unlawful acts against the safety of passengers, crew, aircraft, airports and air navigation facilities and any other threat to aviation security.
-(c). The Contracting Parties shall act in conformity with the provisions of the Convention on Offences and Certain Other Acts Committed on Board Aircraft, signed at Tokyo on 14 September 1963, the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague on 16 December 1970, and the Convention for The Suppression of Unlawful Acts Against the Safety of Civil Aviation, signed at Montreal on 23 September 1971.
-(d). The Contracting Parties shall, in their mutual relations, act in conformity with the aviation security provisions established by the International Civil Aviation Organization and designated as annexes to the Convention on International Civil Aviation. They shall require that operators of aircraft of their registry or operators who have their principal place of business or permanent residence in their territory and the operators of airports in their territory act in conformity with such aviation security provisions.
-(e). Each Contracting Party agrees to observe the security provisions required by the other Contracting Party for entry into the territory of that other Contracting Party and to take adequate measures to protect aircraft and to inspect passengers, crew, their carry-on items as well as cargo and aircraft stores prior to (and during) boarding or loading. Each Contracting Party shall also give positive consideration to any request from the other Contracting Party for special security measures to meet a particular threat.
-(f). When an incident or threat of an incident of unlawful seizure of aircraft or other unlawful acts against the safety of passengers, crew, aircraft, airports and air navigation facilities occurs, the Contracting Parties shall assist each other by facilitating communications and other appropriate measures intended to terminate rapidly and safely such incident or threat thereof.
-(g). When a Contracting Party has reasonable grounds to believe that the other Contracting Party has departed from the aviation security provisions of this article, the aeronautical authorities of that Contracting Party may request immediate consultations with the aeronautical authorities of the other Contracting Party. Failure to reach a satisfactory agreement within 15 days from the date of such request will constitute grounds to withhold, revoke, limit or impose conditions on the operating authorisation or technical permission of an airline or airlines of the other Contracting Party. Such action may be taken beforehand only if required to meet an immediate and extraordinary threat to the safety of passengers, crew or aircraft.
+Wordt voorlopig toegepast per 31-03-1978 
+
+The Contracting Parties reaffirm their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air services and undermine public confidence in the safety of civil aviation. The Contracting Parties agree to provide maximum aid to each other with a view to preventing hijackings and sabotage to aircraft, airports and air navigation facilities and threats to aviation security. The Contracting Parties reaffirm their commitments under and shall have regard to the provisions of the Convention on Offences and certain other Acts Committed on Board Aircraft, signed at Tokyo on September 14, 1963, the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague on December 16, 1970, and the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, signed at Montreal on September 23, 1971. The Contracting Parties shall also have regard to applicable aviation security provisions established by the International Civil Aviation Organization. The Contracting Parties agree to observe the security provisions required by each Party for entry into the territory of that Party. The Parties agree to take adequate measures to screen passengers and their carry-on items. When incidents or threats of hijacking or sabotage against aircraft, airports or air navigation facilities occur, the Contracting Parties shall assist each other by facilitating communications intended to terminate such incidents rapidly and safely. Each Contracting Party shall give sympathetic consideration to any request from the other for special security measures for its aircraft or passengers to meet a particular threat. 
 
 ### Article  10  
 
 ####Commercial Operations
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 (a).  Each designated airline shall have the right to perform its own ground handling in the territory of the other Contracting Party or to use the services of an authorized agent of its choice. Such agents shall be freely authorized, subject to the availability of airport facilities. 
 (b). 
@@ -141,11 +149,15 @@ DONE at Washington, in duplicate, this thirty-first day of March, 1978. *For the
 
 ####Protocol met betrekking tot de Luchtvaartovereenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika van 1957
 
+Wordt voorlopig toegepast per 31-03-1978 
+
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika,Geleid door de wens tot verdere ontwikkeling van een systeem voor de internationale luchtvaart, gebaseerd op de mededinging op de markt tussen de luchtvaartmaatschappijen, waarbij de overheid zo weinig mogelijk regelend optreedt,Voornemens de luchtvaartmaatschappijen in staat te stellen het publiek, zowel reizigers als verladers, concurrerende diensten tegen lage tarieven, alsook vergrote mogelijkheden voor charter-luchtdiensten over de Noordatlantische Oceaan aan te bieden,Zijn dit Protocol overeengekomen dat betrekking heeft op de op 3 april 1957 te Washington tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika ondertekende Luchtvaartovereenkomst, als gewijzigd, en dat van toepassing is op het internationale luchtvervoer over de Noordatlantische Oceaan.
 
 ### Artikel  1  
 
 ####Begripsomschrijvingen
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 a. ,luchtdienst’ betekent geregelde luchtdienst of charterluchtdienst of beide, naar het zinsverband vereist, uitgevoerd door luchtvaartuigen voor het openbaar vervoer, tegen vergoeding, van passagiers, vracht of post, afzonderlijk of gecombineerd;
 b. ,Verdrag, betekent het Verdrag inzake de internationale burgerluchtvaart, ter ondertekening opengesteld te Chicago op 7 december 1944 en omvat: i. alle wijzigingen daarop die in werking zijn getreden ingevolge artikel 94, letter a, daarvan en zijn bekrachtigd door beide Overeenkomstsluitende Partijen; en ii. alle Bijlagen of wijzigingen daarvan aangenomen krachtens artikel 90 van dat Verdrag, voor zover die wijziging of Bijlage op een bepaald tijdstip van kracht is voor beide Overeenkomstsluitende Partijen;
@@ -155,6 +167,8 @@ d. ,gebruiksvergoeding’ betekent een aan de luchtvaartmaatschappijen in rekeni
 ### Artikel  2  
 
 ####Aanwijzing en vergunningverlening
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 1. Elke Overeenkomstsluitende Partij heeft het recht zoveel luchtvaartmaatschappijen als zij wenst aan te wijzen voor het uitvoeren van internationale luchtdiensten in overeenstemming met deze Overeenkomst en zulke aanwijzingen in te trekken of te wijzigen. Deze aanwijzingen worden aan de andere Overeenkomstsluitende Partij schriftelijk langs diplomatieke weg toegezonden en geven aan of de luchtvaartmaatschappij gemachtigd is de in deze Overeenkomst omschreven geregelde luchtdienst of charterluchtdienst dan wel beide te verrichten.
 2. Na ontvangst van deze aanwijzing en van de aanvragen van de aangewezen luchtvaartmaatschappij, in de voorgeschreven vorm en op de voorgeschreven wijze, van exploitatievergunningen en technische vergunningen, verleent de andere Overeenkomstsluitende Partij zonder onnodige procedurele vertraging de vereiste exploitatievergunningen en technische vergunningen aan de aangewezen luchtvaartmaatschappij(-en), mits de luchtvaartmaatschappij voldoet aan de in deze Overeenkomst vervatte normen en in staat is te voldoen aan de gewoonlijk op de exploitatie van internationale luchtdiensten toegepaste wetten en voorschriften van de Overeenkomstsluitende Partij die de aanvraag of aanvragen beziet.
@@ -170,6 +184,8 @@ Wijzigt de Luchtvaartovereenkomst tussen de Regering van het Koninkrijk der Nede
 ### Artikel  4  
 
 ####Charterluchtdiensten
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 (a).  De aangewezen luchtvaartmaatschappij(en) van elke Overeenkomstsluitende Partij heeft/hebben het recht internationaal chartervervoer van passagiers (en hun bagage) en/of vracht te verrichten tussen een punt of punten in de ene Overeenkomstsluitende Partij via tussenliggende punten naar een punt of punten in de andere Overeenkomstsluitende Partij en verdergelegen punten, met dien verstande dat de dienst een punt moet aandoen op het grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij aanwijst.Bij het uitvoeren van de onder dit artikel vallende diensten heeft/hebben de luchtvaartmaatschappij(en) van een Overeenkomstsluitende Partij ook het recht:
 
@@ -188,6 +204,8 @@ Wijzigt de Luchtvaartovereenkomst tussen de Regering van het Koninkrijk der Nede
 ### Artikel  5  
 
 ####Eerlijke mededinging
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 1. Elke Overeenkomstsluitende Partij stelt de aangewezen luchtvaartmaatschappijen van beide Overeenkomstsluitende Partijen op eerlijke, gelijke en non-discriminatoire wijze in de gelegenheid tot concurrentie met de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij.
 2. Geen van beide Overeenkomstsluitende Partijen beperkt eenzijdig de omvang van het verkeer, de frequentie of de regelmaat van de dienst, dan wel het type of de typen luchtvaartuig(en) geëxploiteerd door de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij, behalve voor zover noodzakelijk is om redenen van douanetechnische, technische, operationele of milieutechnische aard, onder eenvormige voorwaarden die in overeenstemming zijn met artikel 15 van het Verdrag.
@@ -221,17 +239,15 @@ Wordt voorlopig toegepast per 31-03-1978
 
 ####Beveiliging van de luchtvaart
 
-a). Overeenkomstig hun rechten en verplichtingen ingevolge het internationale recht, bevestigen de Overeenkomstsluitende Partijen hierbij opnieuw dat de verplichting in hun wederzijdse betrekkingen de burgerluchtvaart te beschermen tegen elke wederrechtelijke belemmering ervan een integrerend deel vormt van dit Protocol.
-b). De Overeenkomstsluitende Partijen verstrekken elkaar alle nodige inlichtingen en verlenen elkaar op verzoek alle nodige hulp om het wederrechtelijk in zijn macht brengen van luchtvaartuigen en andere wederrechtelijke gedragingen tegen de veiligheid van passagiers, bemanningsleden, luchtvaartuigen, luchthavens en hulpmiddelen ten behoeve van de luchtvaart, alsmede elke andere bedreiging van de veiligheid van de luchtvaart, te voorkomen.
-c). De Overeenkomstsluitende Partijen handelen overeenkomstig de bepalingen van het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, ondertekend te Tokio op 14 september 1963, het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen, ondertekend te 's-Gravenhage op 16 december 1970, en het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart, ondertekend te Montreal op 23 september 1971.
-d). De Overeenkomstsluitende Partijen handelen in hun wederzijdse betrekkingen overeenkomstig de bepalingen betreffende de beveiliging van de luchtvaart vastgesteld door de Internationale Burgerluchtvaartorganisatie en aangewezen als bijlagen bij het Verdrag inzake de Internationale Burgerluchtvaart. Zij verplichten exploitanten van luchtvaartuigen die bij hen zijn ingeschreven of exploitanten die hun voornaamste plaats van bedrijfsuitoefening of hun vaste woon- of verblijfplaats op hun grondgebied hebben, alsmede exploitanten van luchthavens op hun grondgebied, te handelen overeenkomstig deze bepalingen betreffende de beveiliging van de luchtvaart.
-e). Iedere Overeenkomstsluitende Partij stemt ermede in de bepalingen betreffende de beveiliging in acht te nemen die door de andere Overeenkomstsluitende Partij worden gevorderd voor binnenkomst in het grondgebied van die andere Overeenkomstsluitende partij en toereikende maatregelen te nemen om luchtvaartuigen te beschermen en passagiers en bemanningsleden, hun handbagage, alsmede lading en boordproviand, aan een onderzoek te onderwerpen vóór (en tijdens) het aan boord gaan of het laden. Iedere Overeenkomstsluitende Partij behandelt tevens welwillend elk verzoek van de andere Overeenkomstsluitende Partij om bijzondere beveiligingsmaatregelen ten einde aan een specifieke bedreiging het hoofd te bieden.
-f). Wanneer zich een voorval van wederrechtelijke overmeestering van luchtvaartuigen of van andere wederrechtelijke gedragingen tegen de veiligheid van passagiers, bemanningsleden, luchtvaartuigen, luchthavens en hulpmiddelen ten behoeve van de luchtvaart voordoet of dreigt zich voor te doen, verlenen de Overeenkomstsluitende Partijen elkaar hulp door de communicatie te vergemakkelijken en andere passende maatregelen te nemen die tot doel hebben om op snelle en veilige manier een einde te maken aan zulk een voorval of de dreiging ervan.
-g). Wanneer een Overeenkomstsluitende Partij redelijkerwijze kan aannemen dat de andere Overeenkomstsluitende Partij is afgeweken van de bepalingen betreffende de beveiliging van de luchtvaart van dit artikel, kunnen de luchtvaartautoriteiten van die Overeenkomstsluitende Partij om onmiddellijk overleg met de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij verzoeken. Indien niet binnen 15 dagen vanaf de datum van zulk een verzoek voldoende overeenstemming wordt bereikt, vormt zulks een reden om de exploitatievergunning of de technische vergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij in te houden, te herroepen, te beperken of daaraan voorwaarden te verbinden. Tot een dergelijk optreden mag slechts van te voren worden overgegaan, indien zulks noodzakelijk is om het hoofd te bieden aan een onmiddellijke en uitzonderlijke bedreiging van de veiligheid van passagiers, bemanningsleden of luchtvaartuigen.
+Wordt voorlopig toegepast per 31-03-1978 
+
+De Overeenkomstsluitende Partijen bevestigen opnieuw hun ernstige bezorgdheid over handelingen of bedreigingen tegen de veiligheid van luchtvaartuigen, die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van luchtdiensten nadelig beïnvloeden en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen. De Overeenkomstsluitende Partijen komen overeen elkaar de grootst mogelijke hulp te verschaffen met het oog op het voorkomen van kapingen en sabotage aan luchtvaartuigen, luchthavens en luchtvaartfaciliteiten, alsmede van bedreigingen van de veiligheid van de luchtvaart. De Overeenkomstsluitende Partijen bevestigen opnieuw hun verplichtingen krachtens, en houden rekening met de bepalingen van het op 14 september 1963 te Tokio ondertekende Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, het op 16 december 1970 te 's-Gravenhage ondertekende Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen, en het op 23 september 1971 te Montreal ondertekende Verdrag tot bestrijding van wederrechtelijke gedragingen, gericht tegen de veiligheid van de burgerluchtvaart. De Overeenkomstsluitende Partijen houden eveneens rekening met de toepasselijke bepalingen inzake de beveiliging van de luchtvaart, vastgesteld door de Internationale Organisatie voor de Burgerluchtvaart. De Overeenkomstsluitende Partijen komen overeen de door elke Partij vereiste beveiligingsmaatregelen voor de binnenkomst op het grondgebied van die Partij in acht te nemen. De Partijen komen overeen passende voorzieningen te treffen om passagiers en hun handbagage te controleren. Wanneer zich voorvallen of bedreigingen van kaping of sabotage tegen luchtvaartuigen, luchthavens of luchtvaartfaciliteiten voordoen, staan de Overeenkomstsluitende Partijen elkaar bij door het berichtenverkeer te vergemakkelijken, bestemd om dergelijke voorvallen snel en veilig te beëindigen. Elke Overeenkomstsluitende Partij neemt ieder verzoek van de andere tot bijzondere beveiligingsvoorzieningen voor haar luchtvaartuigen of passagiers ten einde aan een bijzondere bedreiging het hoofd te bieden in welwillende overweging.
 
 ### Artikel  10  
 
 ####Commerciële aspecten
+
+Wordt voorlopig toegepast per 14-10-1992 
 
 (a). Elke aangewezen luchtvaartmaatschappij heeft het recht haar eigen afhandeling op de grond te verrichten op het grondgebied van de andere Overeenkomstsluitende Partij, of gebruik te maken van de diensten van een bevoegde vertegenwoordiger van haar keuze. Zodanige vertegenwoordigers worden onbeperkt toegelaten, afhankelijk van de beschikbaarheid van luchthavenfaciliteiten.
 (b). 
