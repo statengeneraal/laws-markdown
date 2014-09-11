@@ -112,6 +112,190 @@ d. voor wie de verzekerde in de zin van de Algemene Kinderbijslagwet kinderbijsl
 e. die, hoewel hij niet op grond van de onderdelen a tot en met d als studerende wordt aangemerkt, niettemin in verband met onderwijs of een beroepsopleiding lessen of stages volgt gedurende gemiddeld ten minste 213 klokuren per kwartaal, voor zolang hij de leeftijd van 30 jaar nog niet heeft bereikt.     
 2.  Bij algemene maatregel van bestuur kunnen ook andere dan de in het eerste lid bedoelde personen als studerende worden aangemerkt.  
 
+### Hoofdstuk  1a  
+
+####Arbeidsongeschiktheidsvoorziening voor jonggehandicapten
+
+Treedt in werking per 01-01-2015 
+
+### §  1  
+
+####Jonggehandicapte
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  1a:1  
+
+####Jonggehandicapte
+
+Treedt in werking per 01-01-2015 
+
+1.  Jonggehandicapte in de zin van dit hoofdstuk en de daarop berustende bepalingen is de ingezetene die: 
+
+a. op de dag waarop hij achttien jaar wordt als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling duurzaam geen mogelijkheden tot arbeidsparticipatie heeft;  
+
+b. na de in onderdeel a bedoelde dag als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling duurzaam geen mogelijkheden tot arbeidsparticipatie heeft en in het jaar, onmiddellijk voorafgaand aan de dag waarop dit is ingetreden, gedurende ten minste zes maanden studerende was.     
+2.  De ingezetene die op de dag, bedoeld in het eerste lid, onderdeel a of b, beperkingen ondervindt als gevolg van ziekte, gebrek, zwangerschap of bevalling, maar op grond van het eerste lid niet aangemerkt wordt als jonggehandicapte, wordt alsnog jonggehandicapte in de zin van dit hoofdstuk en de daarop berustende bepalingen, indien hij binnen vijf jaar na die dag duurzaam geen mogelijkheden tot arbeidsparticipatie heeft, indien dit voortkomt uit dezelfde oorzaak als die op grond waarvan hij beperkingen als gevolg ziekte, gebrek, zwangerschap of bevalling ondervond, op de dag, bedoeld in onderdeel a of b.   
+3.  De ingezetene die tijdelijk geen mogelijkheden tot arbeidsparticipatie heeft wordt alsnog jonggehandicapte, indien hij gedurende een tijdvak van tien jaar volgend op de dag waarop hij jonggehandicapte zou zijn geworden op grond van het eerste lid, onderdeel a of b, of het tweede lid, indien hij duurzaam geen mogelijkheden tot arbeidsparticipatie zou hebben gehad, geen mogelijkheden tot arbeidsparticipatie had.   
+4.  Onder duurzaam geen mogelijkheden tot arbeidsparticipatie hebben wordt in dit hoofdstuk en de daarop berustende bepalingen de situatie verstaan waarin de mogelijkheden tot arbeidsparticipatie zich niet kunnen ontwikkelen.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot een periodieke herbeoordeling om vast te stellen of betrokkene duurzaam geen mogelijkheden tot arbeidsparticipatie heeft.   
+6.  De beoordeling van de mogelijkheden tot arbeidsparticipatie wordt gebaseerd op een verzekeringsgeneeskundig en voor zover nodig een arbeidskundig onderzoek.   
+7.  Bij de beoordeling, bedoeld in het zesde lid, maakt de verzekeringsarts zo veel mogelijk gebruik van wetenschappelijke inzichten die de beoordeling van de mogelijkheden tot arbeidsparticipatie kunnen ondersteunen.   
+8.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste en vierde lid nadere regels worden gesteld.   
+9.  De voordracht van een krachtens het achtste lid vast te stellen algemene maatregel van bestuur, onderscheidenlijk de vaststelling van een ministeriële regeling op grond van het achtste lid, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
+
+### §  2  
+
+####Recht op arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  1a:2  
+
+####Recht op arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+1.  De jonggehandicapte heeft recht op een arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk, tenzij op hem een uitsluitingsgrond, als bedoeld in artikel 1a:6, eerste lid, van toepassing is.   
+2.  De persoon die recht op arbeidsondersteuning op grond van hoofdstuk 2 of recht op arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 heeft of heeft gehad, heeft geen recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk.  
+
+### Artikel  1a:3  
+
+####Later ontstaan recht op arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+1.  Indien is vastgesteld dat de ingezetene geen jonggehandicapte is, heeft de ingezetene die alsnog wordt aangemerkt als jonggehandicapte op grond van artikel 1a:1, tweede lid, niet eerder dan twaalf maanden na de dag waarop voor het laatst werd vastgesteld dat de ingezetene geen jonggehandicapte was recht op arbeidsongeschiktheidsuitkering.   
+2.  Indien geen recht op arbeidsongeschiktheidsuitkering ontstaat, omdat op de jonggehandicapte een of meer uitsluitingsgronden, als bedoeld in artikel 1a:6, eerste lid, van toepassing zijn, heeft de jonggehandicapte alsnog recht op arbeidsongeschiktheidsuitkering vanaf de dag dat zich geen van deze uitsluitingsgronden meer voordoet.  
+
+### Artikel  1a:4  
+
+####Hoogte arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+1.  De arbeidsongeschiktheidsuitkering wordt berekend naar de grondslag van het minimumloon per maand gedeeld door 21,75.   
+2.  De arbeidsongeschiktheidsuitkering bedraagt per dag 75% van de grondslag.   
+3.  Inkomen wordt volledig op de arbeidsongeschiktheidsuitkering in mindering gebracht.   
+4.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.  
+
+### Artikel  1a:5  
+
+####Verhoging bij hulpbehoevendheid
+
+Treedt in werking per 01-01-2015 
+
+Indien de jonggehandicapte verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid die geregeld oppassing en verzorging nodig maakt, wordt de arbeidsongeschiktheidsuitkering voor de duur van die hulpbehoevendheid verhoogd tot ten hoogste de grondslag. De eerste zin vindt geen toepassing, indien de jonggehandicapte in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen. 
+
+### Artikel  1a:6  
+
+####Uitsluitingsgronden
+
+Treedt in werking per 01-01-2015 
+
+1.  Voor de toepassing van deze paragraaf en de daarop berustende bepalingen worden de volgende uitsluitingsgronden onderscheiden: 
+
+a. studerende zijn;  
+
+b. het rechtens zijn vrijheid zijn ontnomen;  
+
+c. het zich onttrekken aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
+
+d. het niet in Nederland wonen;  
+
+e. het als vreemdeling niet rechtmatig verblijf houden in de zin van artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000;  
+
+f. het bereiken of bereikt hebben van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.     
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat de uitsluitingsgrond, bedoeld in het eerste lid, onderdeel e, niet geldt ten aanzien van vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van artikel 8, onderdeel a tot en met e en l, van de Vreemdelingenwet 2000, rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onderdeel g of h, van de Vreemdelingenwet 2000.  
+
+### Artikel  1a:7  
+
+####Nadere bepalingen met betrekking tot vrijheidsstraffen en vrijheidsbenemende maatregelen
+
+Treedt in werking per 01-01-2015 
+
+1.  In afwijking van de artikelen 1a:2, eerste lid, en 1a:9 is artikel 1a:6, eerste lid, onderdeel b, eerst van toepassing met ingang van de dag dat de persoon één maand rechtens zijn vrijheid is ontnomen, tenzij op de dag voorafgaande aan de vrijheidsontneming geen recht bestaat op arbeidsongeschiktheidsuitkering op grond van artikel 1a:6, eerste lid, onderdeel c.   
+2.  Artikel 1a:6, eerste lid, onderdeel b, is niet van toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt buiten een justitiële inrichting.   
+3.  Voor de toepassing van het eerste lid, worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.  
+
+### Artikel  1a:8  
+
+####Niet in Nederland wonen
+
+Treedt in werking per 01-01-2015 
+
+1.  In afwijking van de artikelen 1a:2, eerste lid, en 1a:9 is artikel 1a:6, eerste lid, onderdeel d, eerst van toepassing met ingang van de eerste dag van de maand volgend op die waarin de jonggehandicapte buiten Nederland is gaan wonen.   
+2.  Het eerste lid is tevens van toepassing op de jonggehandicapte die buiten Nederland is gaan wonen en op wie artikel 1:2, derde lid, van toepassing is.   
+3.  Het Uitvoeringsinstituut werknemersverzekeringen kan artikel 1a:6, eerste lid, onderdeel d, buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het eindigen van het recht op arbeidsongeschiktheidsuitkering indien de jonggehandicapte buiten Nederland gaat wonen, zal leiden tot een onbillijkheid van overwegende aard.  
+
+### Artikel  1a:9  
+
+####Einde van het recht op arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+Het recht op arbeidsongeschiktheidsuitkering eindigt: 
+
+a. wanneer de jonggehandicapte mogelijkheden tot arbeidsparticipatie als bedoeld in artikel 1a:1 heeft, met ingang van de dag, aangegeven in de daartoe strekkende beschikking van het Uitvoeringsinstituut werknemersverzekeringen;  
+
+b. op de dag dat er op de jonggehandicapte een uitsluitingsgrond als bedoeld in artikel 1a:6, eerste lid, van toepassing is;  
+
+c. indien het Uitvoeringsinstituut werknemersverzekeringen daartoe op verzoek van de jonggehandicapte besluit; of  
+
+d. indien de jonggehandicapte overlijdt.   
+
+### Artikel  1a:10  
+
+####Herleving van het recht op arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+1.  Indien op grond van artikel 1a:9, onderdeel a, het recht op arbeidsongeschiktheidsuitkering is geëindigd, herleeft het recht op arbeidsongeschiktheidsuitkering als de jonggehandicapte binnen vijf jaar na de dag waarop het recht op arbeidsongeschiktheidsuitkering is geëindigd duurzaam geen mogelijkheden tot arbeidsparticipatie als bedoeld in artikel 1a:1 heeft en dit voortkomt uit dezelfde oorzaak als op grond waarvan hij eerder recht op arbeidsongeschiktheidsuitkering had.   
+2.  Indien op grond van artikel 1a:9, onderdeel b, het recht op arbeidsongeschiktheidsuitkering is geëindigd, omdat op de persoon die recht had op arbeidsongeschiktheidsuitkering een of meer uitsluitingsgronden als bedoeld in artikel 1a:6, eerste lid, onderdelen a tot en met e, van toepassing waren, herleeft het recht op arbeidsongeschiktheidsuitkering wanneer zich geen van deze uitsluitingsgronden meer voordoet.   
+3.  Indien op grond van artikel 1a:9, onderdeel c, het recht op arbeidsongeschiktheidsuitkering is geëindigd, herleeft het recht op arbeidsongeschiktheidsuitkering, indien zich geen uitsluitingsgrond als bedoeld in artikel 1a:6, eerste lid, voordoet. Het recht op arbeidsongeschiktheidsuitkering herleeft niet eerder dan een jaar na de dag waarop het recht op arbeidsongeschiktheidsuitkering is geëindigd.  
+
+### Artikel  1a:11  
+
+####Aanvraag recht op arbeidsongeschiktheidsuitkering
+
+Treedt in werking per 01-01-2015 
+
+1.  Het Uitvoeringsinstituut werknemersverzekeringen stelt op aanvraag vast of recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk bestaat.   
+2.  Het recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk ontstaat op de dag waarop de aanvraag, bedoeld in dit artikel, werd ingediend, met dien verstande dat dit recht niet eerder kan ontstaan dan de dag waarop de betrokkene achttien jaar wordt.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gegevens die door de jonggehandicapte bij de aanvraag worden verstrekt.   
+4.  Indien de toepassing van het eerste lid zou leiden tot kennelijke hardheid, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd het recht op arbeidsongeschiktheidsuitkering ambtshalve toe te kennen.  
+
+### Artikel  1a:12  
+
+####Overeenkomstige toepasselijkheid bepalingen hoofdstuk 3 
+
+Treedt in werking per 01-01-2015 
+
+1.  Met betrekking tot de jonggehandicapte en het recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk zijn de volgende artikelen en daarop berustende bepalingen van overeenkomstige toepassing: 
+
+a. ter zake van onderzoek naar de mogelijkheden tot arbeidsparticipatie: de artikelen 3:12, 3:33, eerste lid, onderdeel b, tweede en derde lid, 3:34 en 3:36;  
+
+b. ter zake van de verplichtingen van de jonggehandicapte: de artikelen 3:35, eerste lid, en 3:74, eerste en tweede lid;  
+
+c. ter zake van maatregelen: de artikelen 3:37, 3:38, onderdelen a tot en met e en k, en 3:39, met dien verstande dat het tweede lid van overeenkomstige toepassing is, voor zover het ziet op het niet tijdig nakomen van de verplichting, bedoeld in artikel 3:74;  
+
+d. ter zake van bestuurlijke boeten: de artikelen 3:40, 3:43 en 3:44;  
+
+e. ter zake van de grondslag van de uitkering: artikel 3:7, derde en vierde lid;  
+
+f. ter zake van de tegemoetkoming in aanvulling op de arbeidsongeschiktheidsuitkering: de artikelen 3:10 en 3:53;  
+
+g. ter zake van de vakantie-uitkering: de artikelen 3:24, 3:25, eerste, derde en vierde lid, 3:26, 3:32 en 3:52;  
+
+h. ter zake van de overlijdensuitkering: artikel 3:54;  
+
+i. ter zake van de betaling van de uitkering: de artikelen 3:45, eerste tot en met vierde lid, 3:47 en 3:55;  
+
+j. ter zake van terugvordering: de artikelen 3:56, 3:57, 3:58, 3:59 en 3:60;  
+
+k. ter zake van vervreemding, verpanding en volmacht tot ontvangst: de artikelen 3:61 en 3:62.     
+2.  De strafbepaling van artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen is van overeenkomstige toepassing.  
+
 ### Hoofdstuk  2  
 
 ####Werk en arbeidsondersteuning
@@ -1076,6 +1260,18 @@ De jonggehandicapte, bedoeld in artikel 3:3, heeft geen recht op arbeidsongeschi
 
 2.  Bij de vaststelling van de mate van arbeidsongeschiktheid wordt, zoveel doenlijk, rekening gehouden met verkregen nieuwe bekwaamheden.  
 
+### Artikel  3:8a  
+
+####Duurzaam geen mogelijkheden tot arbeidsparticipatie
+
+Treedt in werking per 01-01-2015 
+
+1.  In afwijking van artikel 3:8, eerste lid, bedraagt de arbeidsongeschiktheidsuitkering per dag bij een arbeidsongeschiktheid van 80% of meer 75% van de grondslag, indien de jonggehandicapte duurzaam geen mogelijkheden tot arbeidsparticipatie heeft.   
+2.  Onder duurzaam wordt de situatie verstaan waarin de mogelijkheden tot arbeidsparticipatie zich niet kunnen ontwikkelen.   
+3.  De jonggehandicapte die op 1 januari 2018 geen mogelijkheden tot arbeidsparticipatie heeft, wordt geacht op die dag duurzaam geen mogelijkheden tot arbeidsparticipatie te hebben.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot een periodieke herbeoordeling om vast te stellen of betrokkene duurzaam geen mogelijkheden tot arbeidsparticipatie heeft.  
+
 ### Artikel  3:9  
 
 ####Verhoging arbeidsongeschiktheidsuitkering
@@ -1813,6 +2009,25 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte, die re
 2.  Op de jonggehandicapte die aanspraak maakt op of recht heeft op een vakantie-uitkering dan wel een tegemoetkoming als bedoeld in artikel 3:10, en diens wettelijke vertegenwoordiger rusten overeenkomstige verplichtingen als omschreven in het eerste lid.   
 3.  De jonggehandicapte aan wie een re-integratie-instrument als bedoeld in afdeling 5 is verstrekt of toegekend, of aan wie verstrekking of toekenning daarvan wordt overwogen, alsmede diens wettelijk vertegenwoordiger, en de werkgever ten behoeve van wie het Uitvoeringsinstituut werknemersverzekeringen de aanspraak op een geldelijke beloning voor de verrichte arbeid, op grond van artikel 3:63, heeft verminderd, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging mededeling te doen van alle feiten en omstandigheden, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking of toekenning of op de duur of de hoogte van het re-integratie-instrument.  
 
+### Hoofdstuk  3A  
+
+####Tegemoetkoming arbeidsongeschikten
+
+### Artikel  3:75  
+
+####Tegemoetkoming jonggehandicapten
+
+1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer of recht heeft op arbeidsondersteuning, heeft recht op een tegemoetkoming.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
+3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari bij ministeriële regeling vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
+5.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
+6.  De tegemoetkoming is niet vatbaar voor beslag.   
+7.  De tegemoetkoming blijft buiten beschouwing bij de verlening van op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.   
+8.  De tegemoetkoming is niet vatbaar voor terugvordering of verrekening met openstaande vorderingen in verband met een uitkering op grond van deze wet.   
+9.  De tegemoetkoming wordt slecht één keer uitgekeerd in het geval er tevens aanspraak gemaakt kan worden op de tegemoetkoming op grond van artikelen 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering of 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen.   
+10.  De tegemoetkoming en de daarmee gepaard gaande beheerskosten komen ten laste van het Rijk.  
+
 ### Hoofdstuk  4  
 
 ####De invloed van de verzekering op het burgerlijk recht 
@@ -2046,6 +2261,14 @@ Artikel 3:63, zoals dat luidde voor de datum van inwerkingtreding van de wet van
 ####Overgangsbepaling in verband met artikel 2:23
 
 Artikel 2:23 is niet van toepassing op de jonggehandicapte, wiens arbeid als zelfstandige is aangevangen voor de dag van inwerkingtreding van de Wet van 3 december 2009 tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589).
+
+### Artikel  8:10c  
+
+####Overgangsbepaling in verband met artikel 2:4 
+
+Treedt in werking per 01-01-2015 
+
+De jonggehandicapte die op de dag voor inwerkingtreding van artikel III, onderdeel D, van de Invoeringswet Participatiewet volledig en duurzaam arbeidsongeschikt was, als bedoeld in artikel 2:4, eerste lid, zoals dat luidde op die dag, wordt geacht op de dag van inwerkingtreding van artikel III, onderdeel D, van de Invoeringswet Participatiewet volledig en duurzaam arbeidsongeschikt te zijn, als bedoeld in artikel 2:4, zoals dat is komen te luiden op die dag. 
 
 ### Artikel  8:11  
 

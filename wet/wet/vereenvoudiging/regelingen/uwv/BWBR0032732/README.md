@@ -11,65 +11,65 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Artikel  I  
 
-####Wijziging van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Wijziging van de Werkloosheidswet
 
 Wijzigt de Werkloosheidswet. 
 
 ### Artikel  II  
 
-####Wijziging van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md)
+####Wijziging van de Ziektewet
 
 Wijzigt de Ziektewet. 
 
 ### Artikel  III  
 
-####Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)
+####Wijziging van de Wet werk en inkomen naar arbeidsvermogen
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  IV  
 
-####Wijziging van de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md)
+####Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  V  
 
-####Wijziging van het [Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md)
+####Wijziging van het Buitengewoon Besluit Arbeidsverhoudingen 1945
 
-Treedt in werking per 01-09-2014 
+Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Buitengewoon Besluit Arbeidsverhoudingen 1945. 
 
 ### Artikel  VI  
 
-####Wijziging van de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md)
+####Wijziging van de Toeslagenwet
 
 Wijzigt de Toeslagenwet. 
 
 ### Artikel  VII  
 
-####Wijziging van de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md)
+####Wijziging van de Wet arbeid en zorg
 
 Wijzigt de Wet arbeid en zorg. 
 
 ### Artikel  VIII  
 
-####Wijzing van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) in verband met de [Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](../../../../../../wet/wet/beperking/ziekteverzuim/en/arbeidsongeschiktheid/vangnetters/BWBR0032089/README.md)
+####Wijzing van de Ziektewet in verband met de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters
 
 Wijzigt de Ziektewet. 
 
 ### Artikel  VIIIa  
 
-####Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in verband met de [Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](../../../../../../wet/wet/beperking/ziekteverzuim/en/arbeidsongeschiktheid/vangnetters/BWBR0032089/README.md)
+####Wijziging van de Wet werk en inkomen naar arbeidsvermogen in verband met de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  VIIIb  
 
-####Wijziging van de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md)
+####Wijziging van de Wet financiering sociale verzekeringen
 
-Treedt in werking per 01-09-2014 
+Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet financiering sociale verzekeringen. 
 

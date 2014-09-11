@@ -88,7 +88,7 @@ b. arbeidsuren als bedoeld in het eerste lid niet als arbeidsuren worden aangeme
 c. vastgesteld wordt welke in het kader van een dienstbetrekking ontvangen bedragen in aanmerking komen voor omrekening naar arbeidsuren en hoeveel arbeidsuren deze bedragen vertegenwoordigen.    
 
 ### Artikel  1b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Voor de berekening van de hoogte van de uitkering waarop op grond van deze wet recht bestaat wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer in de periode van één jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het arbeidsurenverlies, bedoeld in artikel 16, eerste lid, onderdeel a, is ingetreden, verdiende, doch ten hoogste het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag.   
 2.  Het maandloon in een kalendermaand bedraagt: 
@@ -97,7 +97,7 @@ a. indien de werknemer over de volledige kalendermaand recht op een uitkering he
 
 b. indien de werknemer niet over de volledige kalendermaand recht op een uitkering heeft gehad het aantal werkdagen in die kalendermaand verminderd met het aantal werkdagen in die kalendermaand totdat het recht op uitkering is ontstaan dan wel nadat het recht op uitkering is geëindigd, vermenigvuldigd met het dagloon. Bij het bepalen van het aantal werkdagen wordt een kalenderweek geacht vijf werkdagen te hebben; of  
 
-c. indien recht bestaat op een uitkering op grond van artikel 18, eerste lid, het dagloon vermenigvuldigd met het aantal dagen dat recht op uitkering bestaat.     
+c. dit onderdeel is nog niet in werking getreden.     
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het aanmerken van kalendermaanden als volledige kalendermaanden als bedoeld in het tweede lid, onderdeel a, en met betrekking tot het aanmerken van dagen als werkdagen als bedoeld in het tweede lid, onderdeel b.   
 4.  Het inkomen in een kalendermaand bedraagt: 
 

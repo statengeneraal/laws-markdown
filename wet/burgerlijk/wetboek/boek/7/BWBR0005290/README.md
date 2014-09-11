@@ -3245,7 +3245,7 @@ u.  *werkdag:* dag waarop de relevante betaaldienstverlener van de betaler of de
 2.  Deze titel is alleen van toepassing op betaaldiensten die in de Europese Gemeenschap of in staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte worden uitgevoerd in euro of in de valuta van een lidstaat van de Europese Gemeenschap buiten de eurozone of in de valuta van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.   
 3.  Deze titel is alleen van toepassing indien zowel de betaaldienstverlener van de betaler als de betaaldienstverlener van de begunstigde of de enige bij de betalingstransactie betrokken betaaldienstverlener in de Europese Gemeenschap is gevestigd, met uitzondering van artikel 541.   
 4.  Deze titel is niet van toepassing op de betaaldiensten, bedoeld in artikel 1:5a, tweede lid, van de Wet op het financieel toezicht.   
-5.  Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 2 Richtlijn 2006/48/EG van het Europees Parlement en de Raad van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen.  
+5.  Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 3, derde lid, van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176).  
 
 ### Artikel  516  
 
@@ -3630,7 +3630,7 @@ Indien een arbeidsovereenkomst ten minste drie maanden heeft geduurd, wordt de b
 De werkgever en de werknemer zijn verplicht zich als een goed werkgever en een goed werknemer te gedragen. 
 
 ### Artikel  611a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 De werkgever stelt de werknemer in staat scholing te volgen die noodzakelijk is voor de uitoefening van zijn functie en, voor zover dat redelijkerwijs van hem kan worden verlangd, voor het voortzetten van de arbeidsovereenkomst indien de functie van de werknemer komt te vervallen of hij niet langer in staat is deze te vervullen. 
 
@@ -4301,7 +4301,7 @@ b. passende arbeid als bedoeld in artikel 658a lid 4 te verrichten waartoe de we
 c. zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering.    
 
 ### Artikel  671a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  De werkgever die voornemens is de arbeidsovereenkomst op te zeggen op grond van artikel 669, lid 3, onderdeel a of b, verzoekt hiervoor schriftelijk toestemming aan het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 2.  Indien bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan een van de werkgever onafhankelijke en onpartijdige commissie is aangewezen, verzoekt de werkgever, in afwijking van lid 1, de toestemming om de arbeidsovereenkomst op te zeggen op grond van artikel 669, lid 3, onderdeel a, aan die commissie. In de collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin die commissie wordt aangewezen, worden regels gesteld met betrekking tot: 
@@ -4328,7 +4328,7 @@ c. de overeenkomsten met betrekking tot ingeleende personen die op de arbeidspla
 9.  Elk beding waarbij de verplichting tot het vragen van toestemming, bedoeld in lid 1 of lid 2, wordt uitgesloten of beperkt, is nietig evenals elk beding dat de termijn, bedoeld in lid 6, verruimt.  
 
 ### Artikel  671b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  De kantonrechter kan op verzoek van de werkgever de arbeidsovereenkomst ontbinden: 
 
@@ -4367,7 +4367,7 @@ b. kan hij de werknemer een hogere vergoeding dan de vergoeding, bedoeld in onde
 c. kan hij, indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer, de werkgever een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd.    
 
 ### Artikel  671c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  De kantonrechter kan op verzoek van de werknemer de arbeidsovereenkomst ontbinden wegens omstandigheden die van dien aard zijn dat de arbeidsovereenkomst billijkheidshalve dadelijk of na korte tijd behoort te eindigen.   
 2.  Indien het verzoek een arbeidsovereenkomst voor onbepaalde tijd of een arbeidsovereenkomst voor bepaalde tijd betreft die tussentijds kan worden opgezegd, en de kantonrechter het verzoek inwilligt: 
@@ -4405,7 +4405,7 @@ d. vijftien jaar of langer heeft geduurd: vier maanden.
 9.  Voor de toepassing van lid 2 worden arbeidsovereenkomsten geacht eenzelfde, niet onderbroken arbeidsovereenkomst te vormen in geval van herstel van de arbeidsovereenkomst ingevolge artikel 682.   
 
 ### Artikel  673a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Indien de werknemer bij het eindigen of niet voortzetten van de arbeidsovereenkomst 50 jaar of ouder is en de arbeidsovereenkomst ten minste 120 maanden heeft geduurd, is, in afwijking van artikel 673, lid 2, eerste zin, de transitievergoeding over elke periode van zes maanden dat de werknemer na het bereiken van de leeftijd van 50 jaar bij de werkgever in dienst is geweest, gelijk aan de helft van het in geld vastgestelde loon per maand.   
 2.  Lid 1 is niet van toepassing op de werkgever die in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar waarin de arbeidsovereenkomst eindigt of niet wordt voortgezet gemiddeld minder dan 25 werknemers in dienst had.   
@@ -4413,19 +4413,19 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Dit artikel vervalt met ingang van 1 januari 2020.  
 
 ### Artikel  673b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  De artikelen 673 en 673a zijn niet van toepassing, indien in een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan voor werknemers als bedoeld in artikel 673, lid 1, en artikel 673a een gelijkwaardige voorziening is opgenomen, gericht op het voorkomen van werkloosheid of het bekorten van de periode van werkloosheid.   
 2.  De collectieve arbeidsovereenkomst, bedoeld in lid 1, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.  
 
 ### Artikel  673c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  De transitievergoeding, bedoeld in de artikelen 673, lid 2, en 673a, lid 1, is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.   
 2.  Indien de betaling van de transitievergoeding, bedoeld in de artikelen 673, lid 2, en 673a, lid 1, leidt tot onaanvaardbare gevolgen voor de bedrijfsvoering van de werkgever, kan de transitievergoeding onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden in termijnen worden betaald. Daarbij kan worden bepaald dat de transitievergoeding met een bij die ministeriële regeling te bepalen percentage wordt verhoogd.  
 
 ### Artikel  673d  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  In afwijking van artikel 673, tweede lid, kunnen onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden voor de berekening van de duur van de arbeidsovereenkomst maanden die gelegen zijn voor 1 mei 2013 buiten beschouwing worden gelaten, indien: 
 
@@ -4560,7 +4560,7 @@ b. wanneer de gevolgen van de opzegging voor de werkgever te ernstig zijn in ver
 5.  Indien een afkoopsom wegens het niet naleven van een verplichting om een arbeidsovereenkomst te herstellen op andere wijze is vastgesteld, kan de rechter het bedrag van de verschuldigde afkoopsom op verzoek van de meest gerede partij wijzigen in zodanig bedrag als hem met het oog op de omstandigheden van het geval billijk zal voorkomen en kan hij toelaten dat de afkoopsom op door hem te bepalen wijze in termijnen wordt betaald.  
 
 ### Artikel  682a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot de artikelen 681, lid 1, onderdelen c en d, en 682, leden 4 en 5, waarin kan worden bepaald: 
 
@@ -4599,26 +4599,20 @@ c. in welke volgorde de werknemers in de gelegenheid worden gesteld hun vroegere
 De bepalingen van deze afdeling sluiten voor geen van beide partijen de mogelijkheid uit van ontbinding wegens een tekortkoming in de nakoming van de overeenkomst en van schadevergoeding. De ontbinding kan slechts door de rechter worden uitgesproken.  
 
 ### Artikel  686a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-1.  Over het bedrag van de vergoeding, bedoeld in de artikelen 672, lid 9, en 677, leden 2 en 4, is de wettelijke rente verschuldigd, te rekenen vanaf de dag waarop de arbeidsovereenkomst is geëindigd. Over het bedrag van de transitievergoeding, bedoeld in de artikelen 673, 673a en 673c, is de wettelijke rente verschuldigd, te rekenen vanaf een maand na de dag waarop de arbeidsovereenkomst is geëindigd.   
-2.  De op de artikelen 672, lid 9, 673, 673a en 677 gebaseerde gedingen of gedingen gebaseerd op het bepaalde bij of krachtens de artikelen 673b, 673c en 673d worden ingeleid met een verzoekschrift.   
-3.  In gedingen op grond van de artikelen 671b, 671c, 672, lid 9, 673, 673a, 673b, 673c, 673d, 677, 681 en 682 worden daarmee verband houdende andere vorderingen ingediend met een verzoekschrift.   
+1.  Dit lid is nog niet in werking getreden.   
+2.  Dit lid is nog niet in werking getreden.   
+3.  Dit lid is nog niet in werking getreden.   
 4.  De bevoegdheid om een verzoekschrift bij de kantonrechter in te dienen vervalt: 
 
 a. twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien: 
 
-1° het verzoek een vergoeding als bedoeld in de artikelen 668, lid 3, 672, lid 9 en 677, lid 4, betreft; of  
+1° het verzoek een vergoeding als bedoeld in de artikelen 668, lid 3, betreft; of  
 
-2° het een verzoek op grond van de artikelen 677, 681, lid 1, onderdelen a en b, en 682, leden 1, 2 en 3, betreft;    
+2° dit onderdeel is nog niet in werking getreden;    
 
-b. drie maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 673, 673a, 673b, 673c en 673d betreft;  
-
-c. twee maanden na de dag waarop de werknemer op de hoogte is of redelijkerwijs had kunnen zijn van de situatie, bedoeld in de artikelen 681, lid 1, onderdelen c en d, en 682, leden 4 en 5, maar ten laatste twee maanden na de dag waarop de termijn van 26 weken, bedoeld in die leden of onderdelen, is verstreken.     
-5.  De behandeling van de verzoeken, bedoeld in dit artikel, vangt niet later aan dan in de vierde week volgende op die waarin het verzoekschrift is ingediend.   
-6.  Alvorens een ontbinding als bedoeld in artikel 671b of 671c waaraan een vergoeding verbonden wordt, uit te spreken, stelt de rechter de partijen van zijn voornemen in kennis en stelt hij een termijn, binnen welke de verzoeker de bevoegdheid heeft zijn verzoek in te trekken. Indien de verzoeker dat doet, zal de rechter alleen een beslissing geven omtrent de proceskosten.   
-7.  Lid 6 is van overeenkomstige toepassing indien de rechter voornemens is een ontbinding als bedoeld in artikel 671b of 671c uit te spreken zonder daaraan een door de verzoeker verzochte vergoeding te verbinden.   
-8.  Artikel 55 van Boek 3 van het Burgerlijk Wetboek is niet van toepassing op de artikelen 677 en 681.  
+b. dit onderdeel is nog niet in werking getreden.    
 
 ### Afdeling  10  
 

@@ -442,7 +442,7 @@ Het CAK is belast met:
 
 a. de vaststelling en de inning van de eigen bijdragen, bedoeld in artikel 6, vierde lid;  
 
-b. de vaststelling en inning van de eigen bijdragen, bedoeld in artikel 16 van de Wet maatschappelijke ondersteuning alsmede de vaststelling en verstrekking van bedragen als bedoeld in artikel 90, tweede lid, onderdeel g, van de Wet financiering sociale verzekeringen;  
+b. de vaststelling en inning van de eigen bijdragen, bedoeld in artikel 16 van de Wet maatschappelijke ondersteuning;  
 
 c. de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in artikel 2, eerste en tweede lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten;  
 

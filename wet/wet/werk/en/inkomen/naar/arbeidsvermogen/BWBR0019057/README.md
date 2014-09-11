@@ -1151,6 +1151,25 @@ b. voor wie als gevolg van de toepassing van artikel 43, onderdeel a, onder 1°,
 
 Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur, verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid welke geregeld oppassing en verzorging nodig maakt, wordt de WGA-uitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste de factor 100/70. Voornoemde factor bedraagt ten hoogste 100/75 gedurende de eerste twee maanden van de loongerelateerde uitkering. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen. 
 
+### Hoofdstuk  7a  
+
+####Tegemoetkoming arbeidsongeschikten
+
+### Artikel  63a  
+
+####Tegemoetkoming arbeidsongeschikten
+
+1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering of een WGA-uitkering, heeft recht op een tegemoetkoming.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
+3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari bij ministeriële regeling vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
+5.  Het UWV verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
+6.  De tegemoetkoming is niet vatbaar voor beslag.   
+7.  De tegemoetkoming blijft buiten beschouwing bij de verlening van op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.   
+8.  De tegemoetkoming is niet vatbaar voor terugvordering of verrekening met openstaande vorderingen of uitbetalingen in verband met een uitkering op grond van deze wet.   
+9.  De tegemoetkoming wordt slecht één keer uitgekeerd in het geval er tevens aanspraak gemaakt kan worden op de tegemoetkoming op grond van artikelen 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten.   
+10.  De tegemoetkoming en de daarmee gepaard gaande beheerskosten komen ten laste van het Rijk.  
+
 ### Hoofdstuk  8  
 
 ####De aanvraag van de uitkering en de betaling van de uitkering door het UWV
@@ -1916,10 +1935,27 @@ De artikelen 43, onderdeel c, 46 en 124 zoals die luidden op de dag voorafgaand 
 
 ####Overgangsrecht in verband met artikel 59 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  Indien het recht op een uitkering op grond van deze wet ontstaat op of na 1 januari 2016 en voor 1 april 2019 en het aantal kalenderjaren opgebouwd arbeidsverleden op grond van artikel 59, tweede lid, onderdeel a en b, meer is dan 24, wordt de duur van de loongerelateerde uitkering van de WGA-uitkering in afwijking van artikel 59, tweede lid, als volgt berekend: A – B. Hierbij staat: A voor een maand voor ieder kalenderjaar dat op 1 januari 2016 aan opgebouwd arbeidsverleden bestaat of zou hebben bestaan, doch ten hoogste voor 38; en B voor het aantal kalenderkwartalen met ingang van 1 januari 2016 tot en met het kalenderkwartaal waarin het recht op een uitkering op grond van deze wet is ontstaan. De uitkomst wordt uitgedrukt in een aantal maanden arbeidsverleden en is ten minste 24 maanden.   
 2.  Dit artikel vervalt met ingang van 1 april 2019.  
+
+### Artikel  133j  
+
+####Overgangsrecht in verband met overgang voorzieningen en subsidie
+
+Treedt in werking per 01-01-2015 
+
+In afwijking van artikel 7 van de Participatiewet blijven de artikelen 34a, 35 en 36 zoals die artikelen luidden voor de datum van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet, van toepassing op de voorziening die op grond van artikel 34a of 35 is toegekend en op de subsidie die op grond van artikel 36 is verstrekt voor die datum. De vorige zin is niet van toepassing op voorzieningen die zijn toegekend op grond van artikel 34a of 35 aan een jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. 
+
+### Artikel  133k  
+
+####Overgangsrecht in verband met aanvraag voorzieningen en subsidie
+
+Treedt in werking per 01-01-2015 
+
+1.  Een nog niet afgehandeld en tot het UWV gericht verzoek met betrekking tot een persoon op wie met ingang van de dag van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet de artikelen 34a, 35 of 36 niet meer van toepassing zijn om op grond van een of meer van die artikelen een besluit te nemen, wordt vanaf de dag van inwerkingtreding van artikel VII van die wet beschouwd als een aanvraag voor een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 10, eerste lid, van de Participatiewet. Deze aanvraag wordt beschouwd als te zijn gericht tot het college van burgemeester en wethouders van de betrokken gemeente.   
+2.  Op een bezwaar- of beroepschrift waarop op de dag van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet nog niet is beslist en dat is gericht tegen een besluit dat voor die dag van inwerkingtreding is genomen op grond van de artikelen 34a, 35 of 36, wordt beslist met toepassing van de artikelen 34a, 35 of 36, zoals deze luidden voor die dag van inwerkingtreding.  
 
 ### Hoofdstuk  14  
 

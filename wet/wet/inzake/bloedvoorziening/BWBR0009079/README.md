@@ -146,11 +146,11 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 ### Artikel  12  
 
-1.  Het is verboden bloedproducten, niet zijnde bloedproducten die krachtens de [Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) moeten worden geregistreerd, af te leveren aan anderen dan:  
+1.  Het is verboden bloedproducten, niet zijnde bloedproducten die krachtens de Geneesmiddelenwet moeten worden geregistreerd, af te leveren aan anderen dan:  
 
 a. de Bloedvoorzieningsorganisatie;   
 
-b. krachtens [artikel 5 van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) als ziekenhuis toegelaten instellingen, apothekers en apotheekhoudende huisartsen die in het bezit zijn van een vergunning als bedoeld in [artikel 61, tiende of elfde lid, van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+b. krachtens artikel 5 van de Wet toelating zorginstellingen als ziekenhuis toegelaten instellingen, apothekers en apotheekhoudende huisartsen die in het bezit zijn van een vergunning als bedoeld in artikel 61, tiende of elfde lid, van de Geneesmiddelenwet;  
 
 c. door Onze Minister aangewezen andere personen, rechts personen daaronder begrepen.      
 2.  Aflevering als bedoeld in het eerste lid, onder *b*, is uitsluitend toegestaan aan de Bloedvoorzieningsorganisatie.    
@@ -162,7 +162,7 @@ c. door Onze Minister aangewezen andere personen, rechts personen daaronder begr
 
 a. de Bloedvoorzieningsorganisatie;   
 
-b. personen, rechtspersonen daaronder begrepen, die in het bezit zijn van een vergunning als bedoeld in [artikel 18, eerste lid, van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);   
+b. personen, rechtspersonen daaronder begrepen, die in het bezit zijn van een vergunning als bedoeld in artikel 18, eerste lid, van de Geneesmiddelenwet;   
 
 c. instellingen voor wetenschappelijk onderzoek;   
 
@@ -189,7 +189,7 @@ a. ten aanzien van een persoon die bij het overschrijden van de grens in het bez
 
 b. ten aanzien van een instelling van wetenschappelijk onderzoek, voor zover het in te voeren bloedproduct of tussenproduct bestemd is voor wetenschappelijk onderzoek;   
 
-c. ten aanzien van een product dat is bestemd om als monster te worden overgelegd bij een aanvraag tot registratie krachtens de [Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md).     
+c. ten aanzien van een product dat is bestemd om als monster te worden overgelegd bij een aanvraag tot registratie krachtens de Geneesmiddelenwet.     
 
 ### Artikel  16  
 
@@ -254,10 +254,10 @@ b. een krachtens de artikelen 12, derde lid, 13, derde lid, 15, derde lid, 16, d
 
 ### Artikel  21  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren, aangewezen bij besluit van Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren, aangewezen bij besluit van Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.    
 3.  Bij de uitoefening van hun taak dragen de ambtenaren een legitimatiebewijs bij zich.    
-4.  Onverminderd [artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden](../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) tonen zij hun legitimatiebewijs desgevraagd aanstonds.    
+4.  Onverminderd artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden tonen zij hun legitimatiebewijs desgevraagd aanstonds.    
 5.  Het legitimatiebewijs bevat een foto van de ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid.   
 
 ### HOOFDSTUK  VIII  
@@ -267,7 +267,7 @@ b. een krachtens de artikelen 12, derde lid, 13, derde lid, 15, derde lid, 16, d
 ### Artikel  22  
 
 1.  De Wet inzake bloedtransfusie wordt ingetrokken.    
-2.  De registratie van een bloedproduct die heeft plaats gevonden krachtens artikel 24 van de Wet inzake bloedtransfusie, wordt gelijkgesteld met de verlening van een handelsvergunning of een parallelhandelsvergunning als bedoeld in [artikel 40](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) onderscheidenlijk [48 van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md).    
+2.  De registratie van een bloedproduct die heeft plaats gevonden krachtens artikel 24 van de Wet inzake bloedtransfusie, wordt gelijkgesteld met de verlening van een handelsvergunning of een parallelhandelsvergunning als bedoeld in artikel 40 onderscheidenlijk 48 van de Geneesmiddelenwet.    
 3.  De regelingen berustend op de artikelen 24 en 25, onderscheidenlijk 26, 27 en 29 van de Wet inzake bloedtransfusie, blijven van kracht tot zij bij koninklijk besluit, onderscheidenlijk bij ministeriële regeling, worden ingetrokken. Zij kunnen tussentijds door toepassing van de genoemde artikelen nog worden gewijzigd.    
 4.  Een vergunning, verleend krachtens artikel 30 of artikel 31 van de Wet inzake bloedtransfusie, wordt gelijkgesteld met een vergunning op grond van artikel 15 onderscheidenlijk de artikelen 16 en 17 van de onderhavige wet.   
 

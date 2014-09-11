@@ -18,7 +18,7 @@
 
 –  *deelnemer:* de werknemer of gewezen werknemer die op grond van een pensioenovereenkomst aanspraken verwerft jegens een pensioenuitvoerder;  
 
-–  *externe deskundige:* externe deskundige als bedoeld in [artikel 121 van Boek 2 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+–  *externe deskundige:* externe deskundige als bedoeld in artikel 121 van Boek 2 van het Burgerlijk Wetboek BES;  
 
 –  *gepensioneerde:* pensioengerechtigde voor wie het ouderdomspensioen is ingegaan;  
 
@@ -26,7 +26,7 @@
 
 –  *Hof van Justitie:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
-–  *ondernemingspensioenfonds:* een pensioenfonds verbonden aan een onderneming of aan een groepsmaatschappij als bedoeld in [Boek 2 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+–  *ondernemingspensioenfonds:* een pensioenfonds verbonden aan een onderneming of aan een groepsmaatschappij als bedoeld in Boek 2 van het Burgerlijk Wetboek BES;  
 
 –  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
@@ -42,7 +42,7 @@
 
 –  *pensioenuitvoerder:* een ondernemingspensioenfonds, een bedrijfstakpensioenfonds of een verzekeraar die zetel hebben in het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
-–  *transitiedatum:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
+–  *transitiedatum:* het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt;  
 
 –  *uitvoeringsovereenkomst:* de overeenkomst tussen een werkgever en een pensioenuitvoerder over de uitvoering van een of meer pensioenovereenkomsten;  
 
@@ -68,12 +68,12 @@ a. een pensioenuitvoerder;
 
 b. een pensioenfonds uit een ander deel van het Koninkrijk; of  
 
-c. een verzekeraar met een zetel buiten de openbare lichamen, mits die verzekeraar op grond van de [Wet financiële markten BES](../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen.     
+c. een verzekeraar met een zetel buiten de openbare lichamen, mits die verzekeraar op grond van de Wet financiële markten BES het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen.     
 2.  De in het eerste lid opgenomen verplichting van de werkgever tot het sluiten en in standhouden van een schriftelijke uitvoeringsovereenkomst geldt niet bij uitvoering door een bedrijfstakpensioenfonds, mits de werkgever: 
 
 a. gehouden is of zich verbonden heeft door lid te zijn van een werkgeversvereniging tot naleving van de statuten en reglementen van dit bedrijfstakpensioenfonds; of  
 
-b. ten aanzien van zijn werknemers gebonden is door de [Pensioenwet ambtenaren BES](../../../../wet-BES/pensioenwet/ambtenaren/bes/BWBR0028714/README.md).     
+b. ten aanzien van zijn werknemers gebonden is door de Pensioenwet ambtenaren BES.     
 3.  De in het eerste lid opgenomen verplichtingen van de werkgever tot onderbrenging en het sluiten en in stand houden van een schriftelijke uitvoeringsovereenkomst gelden niet wanneer een pensioenovereenkomst is gesloten door een werkgever die tevens pensioenuitvoerder is, mits de pensioenovereenkomsten van deze werknemers worden ondergebracht bij de werkgever in zijn hoedanigheid van pensioenuitvoerder.  
 
 ### Artikel  2  
@@ -179,7 +179,7 @@ j. de liquidatie van het fonds, met name ook wat betreft de verplichtingen van d
 
 ### Artikel  7a  
 
-1.  Afkoop is slechts mogelijk in bij of krachtens de artikelen 7, 7b en 13e bedoelde situaties of in geval van toepassing van [artikel 8:9, tweede of derde lid, van de Wet financiële markten BES](../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md).   
+1.  Afkoop is slechts mogelijk in bij of krachtens de artikelen 7, 7b en 13e bedoelde situaties of in geval van toepassing van artikel 8:9, tweede of derde lid, van de Wet financiële markten BES.   
 2.  Elk beding strijdig met dit artikel is nietig.  
 
 ### Artikel  7b  
@@ -197,7 +197,7 @@ j. de liquidatie van het fonds, met name ook wat betreft de verplichtingen van d
 
 a. een pensioenfonds;  
 
-b. een verzekeraar die het levensverzekeringsbedrijf uitoefent en in het bezit is van een vergunning, bedoeld in de [Wet financiële markten BES](../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+b. een verzekeraar die het levensverzekeringsbedrijf uitoefent en in het bezit is van een vergunning, bedoeld in de Wet financiële markten BES;  
 
 c. een instantie die een pensioenregeling uitvoert van een volkenrechtelijke organisatie waarin het Koninkrijk der Nederlanden deelneemt; of  
 
@@ -428,7 +428,7 @@ Ieder der bestuurders en ieder lid van het personeel van een pensioenfonds of va
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van de Bank aangewezen personen.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  [Titel 5.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van de [artikelen 5.18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.19](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3.  Titel 5.2 van de Algemene wet bestuursrecht is van toepassing, met uitzondering van de artikelen 5.18 en 5.19.  
 
 ### Artikel  20  
 

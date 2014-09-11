@@ -983,6 +983,25 @@ d.werkzaamheden, waarbij er, naar het oordeel van het Uitvoeringsinstituut werkn
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Wet werk en bijstand is van overeenkomstige toepassing. 
 
+### Hoofdstuk  3B  
+
+####Tegemoetkoming arbeidsongeschikten
+
+### Artikel  67i  
+
+####Tegemoetkoming arbeidsongeschikten
+
+1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer, heeft recht op een tegemoetkoming.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
+3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari bij ministeriële regeling vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
+5.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
+6.  De tegemoetkoming is niet vatbaar voor beslag.   
+7.  De tegemoetkoming blijft buiten beschouwing bij de verlening van op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.   
+8.  De tegemoetkoming is niet vatbaar voor terugvordering of verrekening met openstaande vorderingen in verband met een uitkering op grond van deze wet.   
+9.  De tegemoetkoming wordt slecht één keer uitgekeerd in het geval er tevens aanspraak gemaakt kan worden op de tegemoetkoming op grond van artikelen 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering of 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten.   
+10.  De tegemoetkoming en de daarmee gepaard gaande beheerskosten komen ten laste van het Rijk.  
+
 ### Hoofdstuk  4  
 
 ####De invloed van de verzekering op het burgerlijk recht 

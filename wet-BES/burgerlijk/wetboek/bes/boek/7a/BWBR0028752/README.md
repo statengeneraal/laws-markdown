@@ -29,9 +29,9 @@
 
 a. onroerende zaken,  
 
-b. zeeschepen waarvan de bruto-inhoud tenminste twintig kubieke meters of de bruto-tonnage tenminste zes bedraagt, die teboekstaan of teboekgesteld kunnen worden in het in [artikel 193 van Boek 8](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) genoemde register;  
+b. zeeschepen waarvan de bruto-inhoud tenminste twintig kubieke meters of de bruto-tonnage tenminste zes bedraagt, die teboekstaan of teboekgesteld kunnen worden in het in artikel 193 van Boek 8 genoemde register;  
 
-c. luchtvaartuigen teboekstaand in het register genoemd in [titel 15 van Boek 8](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md).     
+c. luchtvaartuigen teboekstaand in het register genoemd in titel 15 van Boek 8.     
 5.  Het in deze titel bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.  
 
 ### Artikel  1557a  
@@ -100,7 +100,7 @@ Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkom
 
 ### Artikel  1557l  
 
-1.  De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van [titel 1, afdeling 1 tot en met 3, van Boek 7](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7/BWBR0028751/README.md) van toepassing.   
+1.  De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van titel 1, afdeling 1 tot en met 3, van Boek 7 van toepassing.   
 2.  Vervreemding door de verkoper van de in huurkoop afgeleverde zaak werkt niet ten nadele van de huurkoper.  
 
 ### Artikel  1557m  
@@ -108,7 +108,7 @@ Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkom
 1.  De koper heeft van de zaak, die hij krachtens huurkoop onder zich heeft, het genot, ook voordat hij de eigendom daarvan verkrijgt.   
 2.  Hij mag de zaak gebruiken overeenkomstig haar bestemming.   
 3.  Haar gedaante of inrichting mag hij niet veranderen, noch de zaak verhuren of zijn genot aan anderen afstaan.   
-4.  De zaak is voor risico van de koper van de aflevering af. Het [tweede, derde en vierde lid van artikel 10 van Boek 7](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7/BWBR0028751/README.md) zijn van toepassing.   
+4.  De zaak is voor risico van de koper van de aflevering af. Het tweede, derde en vierde lid van artikel 10 van Boek 7 zijn van toepassing.   
 5.  Van deze bepalingen kan bij overeenkomst worden afgeweken. Van het vierde lid kan echter bij een consumentenkoop niet ten nadele van de koper worden afgeweken.  
 
 ### Artikel  1557n  
@@ -551,7 +551,7 @@ Het loon van arbeiders, welke niet bij de werkgever inwonen, mag niet anders wor
 4.  Iedere boete, in een reglement of in een overeenkomst bedongen, moet op een bepaald bedrag gesteld zijn, uitgedrukt in de munt, waarin het loon is vastgesteld.   
 5.  Binnen een week mag aan een arbeider geen hoger bedrag aan gezamenlijke boeten worden opgelegd dat zijn in geld vastgesteld loon voor één dag. Geen afzonderlijke boete mag hoger dan dit bedrag worden gesteld.   
 6.  Elk beding, strijdig met enige bepaling van dit artikel, is nietig.   
-7.  Het in dit en het volgende artikel bepaalde is mede van toepassing op een door de werkgever bedongen boete als bedoeld in de [artikelen 91 tot en met 94 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md).  
+7.  Het in dit en het volgende artikel bepaalde is mede van toepassing op een door de werkgever bedongen boete als bedoeld in de artikelen 91 tot en met 94 van Boek 6.  
 
 ### Artikel  1613t  
 
@@ -642,7 +642,7 @@ Ook verliest de arbeider zijn aanspraak op het naar tijdruimte vastgestelde loon
 
 ### Artikel  1614h  
 
-1.  De voldoening van het in geld vastgestelde loon geschiedt in wettig betaalmiddel van het openbaar lichaam Bonaire, Sint Eustatius en Saba of met toepassing van [artikel 114, eerste lid, van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) met dien verstande dat in buitenlands geld vastgesteld loon zal worden berekend naar de koers van de dag en plaats der betaling, of, indien aldaar geen koers bestaat, naar die der naastbijgelegen handelsplaats, waar een koers bestaat.   
+1.  De voldoening van het in geld vastgestelde loon geschiedt in wettig betaalmiddel van het openbaar lichaam Bonaire, Sint Eustatius en Saba of met toepassing van artikel 114, eerste lid, van Boek 6 met dien verstande dat in buitenlands geld vastgesteld loon zal worden berekend naar de koers van de dag en plaats der betaling, of, indien aldaar geen koers bestaat, naar die der naastbijgelegen handelsplaats, waar een koers bestaat.   
 2.  Wanneer met de berekening van het in geld van een vreemd Rijk vastgestelde loon enige dagen vóór de betaling ervan een aanvang wordt gemaakt, zal kunnen gelden de koers van de dag waarop de berekening geschiedt.  
 
 ### Artikel  1614i  
@@ -657,7 +657,7 @@ De voldoening van het loon, voor zover het in andere bestanddelen dan in geld is
 
 ### Artikel  1614k  
 
-Indien de plaats der voldoening van het loon niet bij overeenkomst of reglement, of door het gebruik is bepaald, of het loon met toepassing van [artikel 114, eerste lid, van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) betaald wordt geschiedt de voldoening hetzij ter plaatse waar de arbeid in de regel wordt verricht, hetzij ten kantore des werkgevers indien dit gelegen is op hetzelfde eiland waar de arbeider woont, hetzij aan de woning des arbeiders, ter keuze van de werkgever. 
+Indien de plaats der voldoening van het loon niet bij overeenkomst of reglement, of door het gebruik is bepaald, of het loon met toepassing van artikel 114, eerste lid, van Boek 6 betaald wordt geschiedt de voldoening hetzij ter plaatse waar de arbeid in de regel wordt verricht, hetzij ten kantore des werkgevers indien dit gelegen is op hetzelfde eiland waar de arbeider woont, hetzij aan de woning des arbeiders, ter keuze van de werkgever. 
 
 ### Artikel  1614l  
 
@@ -693,7 +693,7 @@ Indien het loon in geld voor een gedeelte naar tijdruimte en voor een ander gede
 
 ### Artikel  1614pa  
 
-1.  De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de arbeider een schriftelijke opgave te verstrekken van het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarop het loon is berekend ingevolge het bepaalde bij of krachtens de [Wet minimumlonen BES](../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md) aanspraak heeft.   
+1.  De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de arbeider een schriftelijke opgave te verstrekken van het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarop het loon is berekend ingevolge het bepaalde bij of krachtens de Wet minimumlonen BES aanspraak heeft.   
 2.  De opgave vermeldt voorts de naam van de werkgever en van de werknemer, de datum van indiensttreding, de termijn waarover het loon is berekend, alsmede de overeengekomen arbeidsduur.  
 
 ### Artikel  1614q  
@@ -751,7 +751,7 @@ De werkgever is gehouden de arbeid dusdanig te regelen, dat de arbeider geen arb
 
 1.  De werkgever is verplicht de lokalen, werktuigen en gereedschappen, waarin of waarmede hij de arbeid doet verrichten, op zodanige wijze in te richten en te onderhouden, alsmede omtrent het verrichten van de arbeid zodanige regelingen te treffen en aanwijzingen te verstrekken, dat de arbeider tegen gevaar van lijf, eerbaarheid en goed zover beschermd is, als redelijkerwijze in verband met de aard van de arbeid gevorderd kan worden.   
 2.  Zijn die verplichtingen niet nagekomen, dan is de werkgever gehouden tot vergoeding der schade aan de arbeider dientengevolge in de uitoefening zijner dienstbetrekking overkomen, tenzij door hem het bewijs wordt geleverd, dat die niet-nakoming aan overmacht, of die schade in belangrijke mate mede aan grove schuld van de arbeider is te wijten.   
-3.  Indien de arbeider, tengevolge het niet nakomen dier verplichtingen door de werkgever, in de uitoefening zijner dienstbetrekking zodanig letsel heeft bekomen, dat daarvan de dood het gevolg is, is de werkgever overeenkomstig [artikel 108 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) jegens de daar bedoelde personen aansprakelijk, tenzij door hem het bewijs wordt geleverd, dat die niet-nakoming aan overmacht, of de dood in belangrijke mate mede aan grove schuld van de arbeider is te wijten. Het voorbehoud bij het voorgaande lid gemaakt, is ook ten deze van toepassing.   
+3.  Indien de arbeider, tengevolge het niet nakomen dier verplichtingen door de werkgever, in de uitoefening zijner dienstbetrekking zodanig letsel heeft bekomen, dat daarvan de dood het gevolg is, is de werkgever overeenkomstig artikel 108 van Boek 6 jegens de daar bedoelde personen aansprakelijk, tenzij door hem het bewijs wordt geleverd, dat die niet-nakoming aan overmacht, of de dood in belangrijke mate mede aan grove schuld van de arbeider is te wijten. Het voorbehoud bij het voorgaande lid gemaakt, is ook ten deze van toepassing.   
 4.  Elk beding, waardoor deze verplichtingen des werkgevers zouden worden uitgesloten of beperkt, is nietig.  
 
 ### Artikel  1614y  
@@ -767,7 +767,7 @@ De werkgever is in het algemeen verplicht al datgene te doen en na te laten, wat
 
 ### Artikel  1614aa  
 
-De [artikelen 646 tot en met 649 van Boek 7 van het Nederlandse Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), met uitzondering van de [artikelen 646, tweede lid, tweede zin](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [648, vierde lid](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [649, vierde lid](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zijn van overeenkomstige toepassing. 
+De artikelen 646 tot en met 649 van Boek 7 van het Nederlandse Burgerlijk Wetboek, met uitzondering van de artikelen 646, tweede lid, tweede zin, 648, vierde lid, en 649, vierde lid, zijn van overeenkomstige toepassing. 
 
 ### Vierde Afdeling  
 
@@ -796,7 +796,7 @@ De arbeider is in het algemeen verplicht al datgene te doen en na te laten, wat 
 ### Artikel  1615da  
 
 1.  De arbeider die bij de uitvoering van de overeenkomst schade toebrengt aan de werkgever of aan een derde jegens wie de werkgever tot vergoeding van die schade is gehouden, is te dier zake niet jegens de werkgever aansprakelijk, tenzij de schade een gevolg is van zijn opzet of bewuste roekeloosheid. Uit de omstandigheden van het geval kan, mede gelet op de aard van de betreffende overeenkomst, anders voortvloeien dan in de vorige volzin is bepaald.   
-2.  Afwijking van het vorige lid en van [artikel 170 lid 3 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) ten nadele van de arbeider is slechts mogelijk bij schriftelijke overeenkomst en slechts voor zover de arbeider te dier zake is verzekerd.  
+2.  Afwijking van het vorige lid en van artikel 170 lid 3 van Boek 6 ten nadele van de arbeider is slechts mogelijk bij schriftelijke overeenkomst en slechts voor zover de arbeider te dier zake is verzekerd.  
 
 ### Vijfde Afdeling  
 
@@ -859,7 +859,7 @@ c. tien jaar of langer, maar korter dan vijftien jaar heeft geduurd: drie maande
 
 d. vijftien jaar of langer heeft geduurd: vier maanden;     
 2.  De door de arbeider in acht te nemen termijn van opzegging bedraagt één maand.   
-3.  Indien de toestemming als bedoeld in [artikel 4 van de Wet beëindiging arbeidsovereenkomsten BES](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md), respectievelijk de beoordeling als bedoeld in [artikel 5 van evengenoemde wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md), is gegeven, wordt de door de werkgever in acht te nemen termijn van opzegging verkort met de in artikel 4 respectievelijk 5 van de Wet beëindiging arbeidsovereenkomsten BES genoemde termijn, met dien verstande dat de resterende termijn van opzegging ten minste één maand bedraagt. Bij collectieve arbeidsovereenkomst kan worden overeengekomen dat de resterende termijn van opzegging als bedoeld in de eerste volzin, korter dan één maand bedraagt.   
+3.  Indien de toestemming als bedoeld in artikel 4 van de Wet beëindiging arbeidsovereenkomsten BES, respectievelijk de beoordeling als bedoeld in artikel 5 van evengenoemde wet, is gegeven, wordt de door de werkgever in acht te nemen termijn van opzegging verkort met de in artikel 4 respectievelijk 5 van de Wet beëindiging arbeidsovereenkomsten BES genoemde termijn, met dien verstande dat de resterende termijn van opzegging ten minste één maand bedraagt. Bij collectieve arbeidsovereenkomst kan worden overeengekomen dat de resterende termijn van opzegging als bedoeld in de eerste volzin, korter dan één maand bedraagt.   
 4.  De termijn, bedoeld in het eerste lid, kan slechts bij collectieve arbeidsovereenkomst worden verkort. De termijn kan bij schriftelijke overeenkomst worden verlengd.   
 5.  Van de termijn, bedoeld in het tweede lid, kan bij schriftelijke overeenkomst worden afgeweken. De termijn van opzegging door de arbeider mag bij verlenging niet langer zijn dan zes maanden en voor de werkgever niet korter dan het dubbele van die van de arbeider. Bij collectieve arbeidsovereenkomst kan worden overeengekomen dat de termijn van opzegging voor de werkgever als bedoeld in de tweede volzin, wordt verkort, mits die termijn niet korter is dan die voor de arbeider.   
 6.  Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht een zelfde niet onderbroken dienstbetrekking te vormen in geval van herstel van de dienstbetrekking ingevolge artikel 1615t.  
@@ -1067,7 +1067,7 @@ Metselaars, timmerlieden, smeden en andere ambachtslieden, welke tot het zetten 
 
 ### Artikel  1629  
 
-De rechten en verplichtingen van voerlieden en schippers zijn in het [Wetboek van Koophandel BES](../../../../../../../wet-BES/wetboek/van/koophandel/bes/BWBR0028278/README.md) vastgesteld. 
+De rechten en verplichtingen van voerlieden en schippers zijn in het Wetboek van Koophandel BES vastgesteld. 
 
 ### Achtste Titel  
 
@@ -1091,7 +1091,7 @@ Maatschappen zijn, of algeheel, of bijzonder.
 
 ### Artikel  1633  
 
-De wet kent slechts de algehele maatschap van winst. Zij verbiedt alle maatschappen, hetzij van al de goederen, hetzij van een bepaald gedeelte van dezelve onder een algemene titel; onverminderd de bepalingen, vastgesteld in de [zesde](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) en [zevende titel van het eerste boek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md). 
+De wet kent slechts de algehele maatschap van winst. Zij verbiedt alle maatschappen, hetzij van al de goederen, hetzij van een bepaald gedeelte van dezelve onder een algemene titel; onverminderd de bepalingen, vastgesteld in de zesde en zevende titel van het eerste boek. 
 
 ### Artikel  1634  
 
@@ -1229,8 +1229,8 @@ Een maatschap wordt ontbonden:
 ### Artikel  1659  
 
 1.  De rechter kan op vordering van ieder der vennoten de maatschap wegens gewichtige redenen ontbinden.   
-2.  Een zodanige ontbinding heeft geen terugwerkende kracht. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden en een partij die in de naleving van haar verplichtingen is tekortgeschoten, met overeenkomstige toepassing van [artikel 277 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) tot schadevergoeding veroordelen.   
-3.  De [artikelen 265 tot en met 279 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) zijn op een maatschap niet van toepassing.  
+2.  Een zodanige ontbinding heeft geen terugwerkende kracht. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden en een partij die in de naleving van haar verplichtingen is tekortgeschoten, met overeenkomstige toepassing van artikel 277 van Boek 6 tot schadevergoeding veroordelen.   
+3.  De artikelen 265 tot en met 279 van Boek 6 zijn op een maatschap niet van toepassing.  
 
 ### Artikel  1660  
 
@@ -1305,7 +1305,7 @@ De schenker is in geval van uitwinning tot geen vrijwaring gehouden.
 
 ### Artikel  1694  
 
-De bepalingen van de artikelen 906, 907, 908, 908, 909 en 911, die van artikel 921, en eindelijk de [zevende](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/4/BWBR0028746/README.md) en [achtste afdeling van de twaalfde titel van Boek 4](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/4/BWBR0028746/README.md), zijn op schenkingen toepasselijk. 
+De bepalingen van de artikelen 906, 907, 908, 908, 909 en 911, die van artikel 921, en eindelijk de zevende en achtste afdeling van de twaalfde titel van Boek 4, zijn op schenkingen toepasselijk. 
 
 ### Tweede Afdeling  
 
@@ -1358,7 +1358,7 @@ Geen schenking, uitgezonderd degene waarvan bij artikel 1706 wordt gehandeld, ka
 
 1.  Schenking aan minderjarigen die onder ouderlijk gezag van beide ouders staan, kan worden aangenomen door de ouders of – indien een ouder het gezag alleen uitoefent – door die ouder.   
 2.  Schenking, aan onder voogdij staande minderjarigen of onder curatele gestelden gedaan, wordt aangenomen door de voogd of curator.   
-3.  Indien de in [artikel 345, eerste lid, onder c, van Boek 1](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), bedoelde machtiging is vereist en deze wordt verleend, blijft de schenking van kracht al mocht de schenker vóór het verlenen van de machtiging zijn overleden.  
+3.  Indien de in artikel 345, eerste lid, onder c, van Boek 1, bedoelde machtiging is vereist en deze wordt verleend, blijft de schenking van kracht al mocht de schenker vóór het verlenen van de machtiging zijn overleden.  
 
 ### Artikel  1705  
 
@@ -1401,7 +1401,7 @@ Een schenking is, ongeacht of zij reeds is uitgevoerd, vernietigbaar:
 
 ### Artikel  1712  
 
-Door de bepalingen van deze titel wordt geen hinder toegebracht aan hetgeen bij de [zevende titel van het eerste boek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) is vastgesteld. 
+Door de bepalingen van deze titel wordt geen hinder toegebracht aan hetgeen bij de zevende titel van het eerste boek is vastgesteld. 
 
 ### Elfde Titel  
 
@@ -1613,7 +1613,7 @@ In de twee eerste gevallen, bij het vorige artikel vermeld, kan de schuldenaar z
 – lijfrenten;  
 
 – spel en weddenschap;   overeenkomsten tot verrekening van een koers- of prijsverschil.   
-3.  De eerste overeenkomst wordt bij het [Wetboek van Koophandel BES](../../../../../../../wet-BES/wetboek/van/koophandel/bes/BWBR0028278/README.md) geregeld.  
+3.  De eerste overeenkomst wordt bij het Wetboek van Koophandel BES geregeld.  
 
 ### Tweede Afdeling  
 

@@ -24,13 +24,13 @@ a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b. werknemer:  
 
-1°. de werknemer, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+1°. de werknemer, bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek;  
 
 2°. degene, die persoonlijk arbeid verricht voor een ander, tenzij hij dergelijke arbeid in de regel voor meer dan twee anderen verricht of hij zich door meer dan twee andere personen, niet zijnde zijn echtgenoot of geregistreerde partner of bij hem inwonende bloedverwanten of aanverwanten of pleegkinderen, laat bijstaan of deze arbeid voor hem slechts een bijkomstige werkzaamheid is;    
 
 c. werkgever:  
 
-1°. de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+1°. de werkgever, bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek;  
 
 2°. de natuurlijke of rechtspersoon, voor wie de onder b sub 2°. genoemde arbeid wordt verricht;    
 
@@ -40,7 +40,7 @@ e. loon: de vergoeding van de werkgever aan de werknemer ter zake van de arbeid;
 
 f. dringende reden voor de werkgever: daden, eigenschappen of gedragingen van de werknemer, welke ten gevolge hebben dat van de werkgever redelijkerwijze niet kan worden gevergd de arbeidsverhouding te laten voortduren;   
 
-g. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+g. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 
 ### Artikel  2  
 
@@ -58,7 +58,7 @@ d. de werknemer die doorgaans op minder dan vier dagen per week uitsluitend of n
 
 ### Artikel  3  
 
-Voor zover in dit besluit wordt afgeweken van bestaande wetten en verordeningen, daaronder begrepen de afdelingen 1 tot en met 9 van titel 10 van Boek 7 van het Burgerlijk Wetboek, de Arbeidsgeschillenwet 1923, de [Wet op de collectieve arbeidsovereenkomst](../../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md) en de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md), is dit besluit van kracht, zolang een nadere wettelijke regeling niet tot stand is gekomen. 
+Voor zover in dit besluit wordt afgeweken van bestaande wetten en verordeningen, daaronder begrepen de afdelingen 1 tot en met 9 van titel 10 van Boek 7 van het Burgerlijk Wetboek, de Arbeidsgeschillenwet 1923, de Wet op de collectieve arbeidsovereenkomst en de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten, is dit besluit van kracht, zolang een nadere wettelijke regeling niet tot stand is gekomen. 
 
 ###Tweede titel 
 
