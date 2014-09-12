@@ -3,7 +3,7 @@
 ##Planningsbesluit in-vitrofertilisatie
 
 De Minister van Volksgezondheid, Welzijn en Sport  
-Gelet op [artikel 5 van de Wet op bijzondere medische verrichtingen](../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md);
+Gelet op artikel 5 van de Wet op bijzondere medische verrichtingen;
 
 Gezien de rapporten van de Gezondheidsraad van 19 juni 1996 (Deeladvies inzake ICSI, intracytoplasmatische sperma-injectie) en van 10 februari 1997 (advies inzake het planningsbesluit IVF, in-vitrofertilisatie) en van het College voor ziekenhuisvoorzieningen (uitvoeringstoets van 15 december 1998);
 Besluit:     
@@ -35,19 +35,19 @@ E. Borst-Eilers
 
 ####De behoefte en de wijze waarop in die behoefte wordt voorzien
 
-Er is behoefte aan maximaal dertien (13) centra waar in-vitrofertilisatie als bedoeld in artikel 1 onder a. van het Besluit bijzondere verrichtingen en apparatuur [Wet ziekenhuisvoorzieningen](../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md) wordt uitgeoefend. Met de thans beschikbare 13 centra wordt voor de komende tien jaar voorzien in de behoefte.  
+Er is behoefte aan maximaal dertien (13) centra waar in-vitrofertilisatie als bedoeld in artikel 1 onder a. van het Besluit bijzondere verrichtingen en apparatuur Wet ziekenhuisvoorzieningen wordt uitgeoefend. Met de thans beschikbare 13 centra wordt voor de komende tien jaar voorzien in de behoefte.  
 
 ###2  
 
 ####Voorschriften waaraan centra die in-vitrofertilisatie toepassen, dienen te voldoen
 
-Het toepassen van in-vitrofertilisatie (IVF) als bedoeld in artikel 1 onder a. van het Besluit bijzondere verrichtingen en apparatuur [Wet ziekenhuisvoorzieningen](../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md) is toegestaan indien wordt voldaan aan de hieronder genoemde voorwaarden. 
+Het toepassen van in-vitrofertilisatie (IVF) als bedoeld in artikel 1 onder a. van het Besluit bijzondere verrichtingen en apparatuur Wet ziekenhuisvoorzieningen is toegestaan indien wordt voldaan aan de hieronder genoemde voorwaarden. 
 
 1. De toepassing van in-vitrofertilisatie vindt plaats op basis van de Richtlijn ’Indicaties voor IVF’ van de Nederlandse Vereniging voor Obstetrie en Gynaecologie van 1998.
 
 2. Het centrum dient aan te tonen c.q. aannemelijk te maken dat tenminste 15% van de gestarte behandelingscycli resulteert in een doorgaande zwangerschap (zwangerschap van tenminste 12 weken, gemeten vanaf de eerste dag van de laatste menstruatie). Aan deze norm moet worden voldaan in de eerste behandelingscycli bij vrouwen van 35 jaar of jonger met als indicatie tubapathologie, van wie de mannelijke partner een normale semenkwaliteit heeft.
 
-3.Het centrum houdt zich aan het in de desbetreffende brief van 21 november 2000 aan de Minister van Volksgezondheid, Welzijn en Sport ter kennis gebrachte moratorium tussen de Nederlandse Vereniging voor Obstetrie en Gynaecologie, de Vereniging van Klinisch Embryologen en de Nederlandse Vereniging voor Urologie betreffende de toepassing van ICSI met chirurgisch verkregen sperma met uitzondering van onderzoeken waarvan het onderzoeksvoorstel een positief advies van de centrale commissie, bedoeld in [artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) (CCMO), heeft gekregen. 
+3.Het centrum houdt zich aan het in de desbetreffende brief van 21 november 2000 aan de Minister van Volksgezondheid, Welzijn en Sport ter kennis gebrachte moratorium tussen de Nederlandse Vereniging voor Obstetrie en Gynaecologie, de Vereniging van Klinisch Embryologen en de Nederlandse Vereniging voor Urologie betreffende de toepassing van ICSI met chirurgisch verkregen sperma met uitzondering van onderzoeken waarvan het onderzoeksvoorstel een positief advies van de centrale commissie, bedoeld in artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen (CCMO), heeft gekregen. 
 
 4. Toepassing van in-vitrofertilisatie in combinatie met draagmoederschap geschiedt volgens de in het protocol gestelde regels die in overeenstemming dienen te zijn met de Richtlijn ’Hoogtechnologisch draagmoederschap’ van de Nederlandse Vereniging voor Obstetrie en Gynaecologie van 1999 en vindt slechts plaats indien de draagmoeder reeds een of meer kinderen heeft. De verantwoordelijke arts maakt voorafgaande aan de behandeling een verklaring op dat voor de behandeling een medische indicatie aanwezig is en voldaan is aan de in de Richtlijn gestelde regels.
 
@@ -65,7 +65,7 @@ c.  met welke waarborgen de patiëntenoverdracht zal zijn omgeven;
 
 d.  dat het ziekenhuis waarmee wordt samengewerkt voor zover het de in-vitrofertilisatiebehandeling betreft, niet samenwerkt met een ander ziekenhuis. 
 
-8.1.Toepassing van in-vitrofertilisatie vindt plaats met inachtneming van een protocol als bedoeld in [artikel 2 van de Embryowet](../../../../wet/embryowet/BWBR0013797/README.md). In dit protocol worden tevens regels gesteld met betrekking tot: 
+8.1.Toepassing van in-vitrofertilisatie vindt plaats met inachtneming van een protocol als bedoeld in artikel 2 van de Embryowet. In dit protocol worden tevens regels gesteld met betrekking tot: 
 
 a. de voorlichting over de aard, de mogelijke risico’s en de gevolgen van de behandeling;  
 
@@ -75,9 +75,9 @@ c. de wijze waarop de afronding van de behandeling plaatsvindt inclusief de eval
 
 d. de ervaring en deskundigheid van degenen die bij de in-vitrofertilisatie betrokken zijn.  
 
-8.2Indien in een centrum in-vitrofertilisatie wordt toegepast met eiceldonatie worden in het protocol, bedoeld in [artikel 2 van de Embryowet](../../../../wet/embryowet/BWBR0013797/README.md), tevens regels gesteld betreffende de indicatiestelling voor die behandeling, waaronder begrepen de maximum-leeftijd van de vrouw bij wie het embryo wordt geïmplanteerd.
+8.2Indien in een centrum in-vitrofertilisatie wordt toegepast met eiceldonatie worden in het protocol, bedoeld in artikel 2 van de Embryowet, tevens regels gesteld betreffende de indicatiestelling voor die behandeling, waaronder begrepen de maximum-leeftijd van de vrouw bij wie het embryo wordt geïmplanteerd.
 
-8.3Indien in een centrum ICSI (intracytoplasmatische sperma-injectie) wordt toegepast, worden in het protocol, bedoeld in [artikel 2 van de Embryowet](../../../../wet/embryowet/BWBR0013797/README.md), tevens regels gesteld met betrekking tot:.
+8.3Indien in een centrum ICSI (intracytoplasmatische sperma-injectie) wordt toegepast, worden in het protocol, bedoeld in artikel 2 van de Embryowet, tevens regels gesteld met betrekking tot:.
 
 a.  de indicatiestelling voor een ICSI-behandeling; 
 
