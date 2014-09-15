@@ -1270,7 +1270,7 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 ####Inwerkingtreding
 
 1.  Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.    
-'2.  Voor de toepassing van het eerste lid van dit artikel wordt de door een organisatie als bedoeld in artikel 27 nedergelegde akte niet meegeteld naast akten die zijn nedergelegd door de lidstaten van de organisatie.   
+2.  Voor de toepassing van het eerste lid van dit artikel wordt de door een organisatie als bedoeld in artikel 27 nedergelegde akte niet meegeteld naast akten die zijn nedergelegd door de lidstaten van de organisatie.   
 3.  Ten aanzien van elke in artikel 27 bedoelde Staat of organisatie die dit Verdrag bekrachtigt, aanvaardt of goedkeurt of ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Verdrag in werking op de negentigste dag na de datum van nederlegging door die Staat of organisatie van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.   
 
 ### Artikel  31  
