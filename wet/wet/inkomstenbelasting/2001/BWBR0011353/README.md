@@ -2067,7 +2067,7 @@ c. uitkeringen ingevolge artikel 4.3 van de Wet tegemoetkoming onderwijsbijdrage
 
 d. uitkeringen in de vorm van een gift of een voorwaardelijke gift ingevolge de Wet studiefinanciering 2000;  
 
-e. uitkeringen als bedoeld in de artikelen 7.51, eerste tot en met zesde lid, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;   
+e. uitkeringen als bedoeld in de artikelen 7.51 tot en met 7.51k, tenzij het een voorziening voor aanvullende ondersteuning betreft als bedoeld in artikel 7.51g, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;   
 
 f. uitkeringen en verstrekkingen op grond van de Wet werk en bijstand die zijn bedoeld ter dekking van bepaalde noodzakelijke kosten, waaronder begrepen uitkeringen als bedoeld in artikel 36 van die wet;  
 
@@ -4090,7 +4090,7 @@ a. de belastingplichtige of een persoon die tot zijn huishouden behoort, voor he
 
 b. voor het kind het recht op kinderbijslag volgens artikel 7b van de Algemene Kinderbijslagwet is uitgesloten;  
 
-c. het kind recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs volgens de Wet studiefinanciering 2000 die niet uitsluitend bestaat uit een reisvoorziening in de zin van die wet, op financiële ondersteuning als bedoeld in de artikelen 7.51, eerste tot en met zesde lid, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, op tegemoetkoming volgens hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten of op een tegemoetkoming volgens een naar aard en strekking van genoemde regelingen overeenkomende buitenlandse regeling.     
+c. het kind recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs volgens de Wet studiefinanciering 2000 die niet uitsluitend bestaat uit een reisvoorziening in de zin van die wet, op financiële ondersteuning als bedoeld in de artikelen 7.51 tot en met 7.51k, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, op tegemoetkoming volgens hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten of op een tegemoetkoming volgens een naar aard en strekking van genoemde regelingen overeenkomende buitenlandse regeling.     
 2.  Bij ministeriële regeling wordt bepaald in welke gevallen het eerste lid, onderdeel a, niet van toepassing is.  
 
 ###Artikel 6.15 
@@ -5381,6 +5381,14 @@ Ingeval de belastingplichtige daarvoor kiest blijft artikel 3.84, tweede lid, bu
 
 1.  Artikel 3.139, onderdeel b, zoals dat onderdeel luidde op 31 december 2010, blijft van toepassing met betrekking tot hetgeen wordt ontvangen als nagekomen schuldaflossing op een geldlening ter zake waarvan verliezen op grond van afdeling 6.3, zoals die afdeling op 31 december 2010 luidde, of op grond van het tweede lid in aanmerking zijn genomen.   
 2.  Afdeling 6.3, zoals die afdeling op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in artikel 6.8, eerste lid, zoals dat lid op 31 december 2010 luidde.  
+
+### Artikel  10a.9a  
+
+####Overgangsbepaling teruggave van of nagekomen betaling ter zake van uitgaven voor specifieke zorgkosten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/565.Artikel 3.139, onderdeel b, zoals dat luidde op 31 december 2013, blijft van toepassing met betrekking tot hetgeen wordt ontvangen als teruggave van of nagekomen betaling ter zake van uitgaven voor specifieke zorgkosten die op grond van afdeling 6.5, zoals die afdeling op 31 december 2013 luidde, in aanmerking zijn genomen. 
 
 ###Artikel  10a.10 
 

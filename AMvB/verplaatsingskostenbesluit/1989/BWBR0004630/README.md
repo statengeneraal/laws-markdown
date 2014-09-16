@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 11 juli 1989, nr. AB88/439/U47, directoraat-generaal Management en Personeelsbeleid, directie Arbeidsvoorwaarden, afdeling Financiële Arbeidsvoorwaarden Rijkspersoneel; 
 
-Gelet op [artikel 125, eerste lid](../../../../wet/ambtenarenwet/BWBR0001947/README.md), en [artikel 134 van de Ambtenarenwet 1929](../../../../wet/ambtenarenwet/BWBR0001947/README.md) (*Stb.* 530); 
+Gelet op artikel 125, eerste lid, en artikel 134 van de Ambtenarenwet 1929 (*Stb.* 530); 
 
 De Raad van State gehoord (advies van 18 augustus 1989 nr. W04.89.0411); 
 
@@ -28,7 +28,7 @@ b. een voorziening worden getroffen voor het reizen naar en van de plaats van te
 
 a. ministers;   
 
-b. hen die krachtens [Grondwet](../../../../wet/grondwet/BWBR0001840/README.md) of wet voor het leven zijn benoemd;   
+b. hen die krachtens Grondwet of wet voor het leven zijn benoemd;   
 
 c. commissarissen van de Koning;   
 
@@ -36,11 +36,11 @@ d. burgemeesters;
 
 e. de politie;   
 
-f. betrokkenen, bedoeld in [artikel 51 van het Rechtspositiebesluit WPO/WEC](../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md);   
+f. betrokkenen, bedoeld in artikel 51 van het Rechtspositiebesluit WPO/WEC;   
 
 g. personeel van universiteiten, academische ziekenhuizen, organen voor postacademisch onderwijs, de Open universiteit en de Nederlandse organisatie voor wetenschappelijk onderzoek;   
 
-h. hen die ingevolge of krachtens het [Reglement Dienst Buitenlandse Zaken](../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) aanspraak hebben op tegemoetkomingen ter zake van uitgaven als bedoeld in het eerste lid, of daarvoor tegemoetkomingen ontvangen op de voet van genoemd reglement.     
+h. hen die ingevolge of krachtens het Reglement Dienst Buitenlandse Zaken aanspraak hebben op tegemoetkomingen ter zake van uitgaven als bedoeld in het eerste lid, of daarvoor tegemoetkomingen ontvangen op de voet van genoemd reglement.     
 
 ### Artikel  2  
 
@@ -64,9 +64,9 @@ f. gezinsleden: de echtgenoot of levenspartner of geregistreerde partner van de 
 
 g. eigen huishouding voeren: het zelfstandig bewonen van woonruimte, voorzien van eigen meubilair en stoffering, een en ander ter beoordeling van het bevoegde gezag;   
 
-h. berekeningsbasis: het twaalfvoud van de bezoldiging in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), die betrokkene geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering en in voorkomende gevallen verhoogd met:  
+h. berekeningsbasis: het twaalfvoud van de bezoldiging in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, die betrokkene geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering en in voorkomende gevallen verhoogd met:  
 
-a. genoten wachtgeld of uitkering krachtens dan wel overeenkomstig het [Rijkswachtgeldbesluit 1959](../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en de [Uitkeringsregeling 1966](../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md);  
+a. genoten wachtgeld of uitkering krachtens dan wel overeenkomstig het Rijkswachtgeldbesluit 1959 en de Uitkeringsregeling 1966, de Werkloosheidswet en het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk;  
 
 b. genoten uitkering krachtens dan wel overeenkomstig de Regeling uitkering wegens functioneel leeftijdsontslag of de Wet uitkering wegens vrijwillig vervroegd uittreden;   
 
@@ -93,10 +93,10 @@ l. dienstwoning: de door het bevoegde gezag aan de betrokkene in verband met de 
 m. levenspartner: degene met wie de niet-gehuwde ambtenaar samenwoont en - met het oogmerk duurzaam samen te leven - een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding; tegelijkertijd kan slechts één persoon als levenspartner worden aangemerkt; Onze Minister kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als vorenbedoeld is gesloten.     
 2.  Voor de toepassing van dit besluit wordt met de bezoldiging van de ambtenaar gelijkgesteld:  
 
-a) in het geval dat het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) niet op hem van toepassing is, hetgeen met de bezoldiging van de ambtenaar overeenkomt; en   
+a) in het geval dat het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 niet op hem van toepassing is, hetgeen met de bezoldiging van de ambtenaar overeenkomt; en   
 
-b) indien de ambtenaar recht heeft op een uitkering op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) of de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de bezoldiging zoals die zou zijn genoten indien geen sprake zou zijn geweest van recht op een uitkering op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) of de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).      
-3.   Voor de toepassing van het eerste lid, onderdeel h, wordt, indien de betrokkene in het genot is van een toelage als bedoeld in de [artikelen 17](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), [18](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en [18a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), dit bezoldigingsdeel vastgesteld op het bedrag dat de betrokkene gedurende de drie kalendermaanden voorafgaande aan het berekeningstijdstip gemiddeld per maand aan deze toelagen heeft genoten.    
+b) indien de ambtenaar recht heeft op een uitkering op grond van de Ziektewet of de Wet werk en inkomen naar arbeidsvermogen, de bezoldiging zoals die zou zijn genoten indien geen sprake zou zijn geweest van recht op een uitkering op grond van de Ziektewet of de Wet werk en inkomen naar arbeidsvermogen.      
+3.   Voor de toepassing van het eerste lid, onderdeel h, wordt, indien de betrokkene in het genot is van een toelage als bedoeld in de artikelen 17, 18 en 18a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, dit bezoldigingsdeel vastgesteld op het bedrag dat de betrokkene gedurende de drie kalendermaanden voorafgaande aan het berekeningstijdstip gemiddeld per maand aan deze toelagen heeft genoten.    
 4.  Voor de toepassing van dit besluit worden, behoudens voor de toepassing van artikel 16, met Onze Minister gelijkgesteld: het tot aanstelling bevoegd gezag bij elk der beide Kamers der Staten-Generaal, de vice-president van de Raad van State, het College van de Algemene Rekenkamer, de Nationale ombudsman en de directeur van het Kabinet van de Koning.   
 
 ### Hoofdstuk  II  
@@ -216,7 +216,9 @@ b. het openbaar vervoer komt volgens de dienstregeling niet ten minste twee maal
 
 c. bij gebruik van het openbaar vervoer komt als gevolg van de ligging van de plaats van tewerkstelling de persoonlijke veiligheid van de ambtenaar in gevaar;  
 
-d. de bedrijfsarts is van oordeel dat om medische redenen geen gebruik kan worden gemaakt van het openbaar vervoer.   
+d. de bedrijfsarts is van oordeel dat om medische redenen geen gebruik kan worden gemaakt van het openbaar vervoer;  
+
+e. bij gebruik van het openbaar vervoer bedraagt de reistijd van een enkele reis twee uur of meer en wordt deze reistijd door het gebruik van eigen vervoer met ten minste 45 minuten bekort.  
 
 ### Artikel  12b  
 
@@ -254,7 +256,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt bij ministeri�
 
 ### Artikel  12c  
 
-Onze Minister kan artikel [49n van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) dan wel artikel [84n van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) geheel of gedeeltelijk van overeenkomstige toepassing verklaren op de betrokkene, die anders dan in het kader van een reorganisatie in een andere functie wordt herplaatst of geplaatst.  
+Onze Minister kan artikel 49n van het Algemeen Rijksambtenarenreglement dan wel artikel 84n van het Ambtenarenreglement Staten-Generaal geheel of gedeeltelijk van overeenkomstige toepassing verklaren op de betrokkene, die anders dan in het kader van een reorganisatie in een andere functie wordt herplaatst of geplaatst.  
 
 ### Hoofdstuk  V  
 

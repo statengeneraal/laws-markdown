@@ -14,10 +14,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:arbeidshandicap: het vanwege lichamelijke, verstandelijke of psychische beperkingen verminderd vermogen om arbeid te verrichten;arbeidshandicapcategorie: een groep van tot de doelgroep behorende personen, die in dezelfde orde arbeidsgehandicapt is;college: college van burgemeester en wethouders;dienstbetrekking: een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);doelgroep: personen, die nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt en die door lichamelijke, verstandelijke of psychische beperkingen uitsluitend onder aangepaste omstandigheden tot regelmatige arbeid in staat zijn;geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in artikel 11 tot de doelgroep behoren;gerealiseerd arbeidsjaar: het equivalent van een dienstbetrekking op basis van een volledige werkweek die het gehele kalenderjaar is vervuld door een geïndiceerde ingezetene of een daarmee gelijkgestelde, gebaseerd op het gemiddelde van de twaalf eindemaandsstanden;Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);werknemer: degene die een dienstbetrekking heeft als bedoeld in het derde lid.  
-2.  Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van de artikelen 8, 9, artikel 13, en 14, eerste lid, in de plaats van de betrokken colleges, met dien verstande dat: 
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:arbeidshandicap: het vanwege lichamelijke, verstandelijke of psychische beperkingen verminderd vermogen om arbeid te verrichten;arbeidshandicapcategorie: een groep van tot de doelgroep behorende personen, die in dezelfde orde arbeidsgehandicapt is;college: college van burgemeester en wethouders;dienstbetrekking: een arbeidsovereenkomst als bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek;doelgroep: personen, die nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt en die door lichamelijke, verstandelijke of psychische beperkingen uitsluitend onder aangepaste omstandigheden tot regelmatige arbeid in staat zijn;geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in artikel 11 tot de doelgroep behoren;gerealiseerd arbeidsjaar: het equivalent van een dienstbetrekking op basis van een volledige werkweek die het gehele kalenderjaar is vervuld door een geïndiceerde ingezetene of een daarmee gelijkgestelde, gebaseerd op het gemiddelde van de twaalf eindemaandsstanden;Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;werknemer: degene die een dienstbetrekking heeft als bedoeld in het derde lid.  
+2.  Indien bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in artikel 8 van die wet, treedt dat bestuur voor de toepassing van deze wet, met uitzondering van de artikelen 8, 9, artikel 13, en 14, eerste lid, in de plaats van de betrokken colleges, met dien verstande dat: 
 
-a. voor de toepassing van artikel 8 en 9 de met toepassing van [artikel 34a van die wet](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) door het openbaar lichaam op de wijze, bedoeld in [artikel 17a van de Financiële- verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), verantwoorde informatie in aanmerking kan worden genomen;  
+a. voor de toepassing van artikel 8 en 9 de met toepassing van artikel 34a van die wet door het openbaar lichaam op de wijze, bedoeld in artikel 17a van de Financiële- verhoudingswet, verantwoorde informatie in aanmerking kan worden genomen;  
 
 b. voor de termijn van twaalf maanden in artikel 9, vierde lid, wordt gelezen: vierentwintig maanden.     
 3. Het college draagt er zorg voor dat aan zoveel mogelijk ingezetenen die geïndiceerd zijn, een dienstbetrekking wordt aangeboden voor het verrichten van arbeid onder aangepaste omstandigheden. 
@@ -55,7 +55,7 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 ### Artikel  6  
 
 1.  De werknemer is verplicht mee te werken aan het behoud dan wel het bevorderen van zijn arbeidsbekwaamheid en aan het verkrijgen van arbeid onder normale omstandigheden, voor zover hij daartoe in staat wordt geacht.    
-2.  Zo nodig in afwijking van de [artikelen 670](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zegt het college uit eigen beweging, dan wel onverwijld op een daartoe strekkend verzoek van het college van de gemeente dat een vergoeding als bedoeld in artikel 10, tweede lid, betaalt, de dienstbetrekking op, indien:
+2.  Zo nodig in afwijking van de artikelen 670 en 670a van titel 10 van Boek 7 van het Burgerlijk Wetboek, zegt het college uit eigen beweging, dan wel onverwijld op een daartoe strekkend verzoek van het college van de gemeente dat een vergoeding als bedoeld in artikel 10, tweede lid, betaalt, de dienstbetrekking op, indien:
 
 a.zijn werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
 
@@ -82,7 +82,7 @@ a.betrokkene een werknemer is of met inachtneming van artikel 12 en de daarop be
 b.het bedrag van de subsidie en de vergoeding omgerekend op jaarbasis niet meer bedraagt dan (( A / B) x C)) – (D) waarbij:A staat voor de uitkering bedoeld in artikel 8, eerste lid;B staat voor het op grond van artikel 8, tweede lid, vastgestelde aantal bij de uitkering, bedoeld in artikel 8, eerste lid, behorende minimumaantal arbeidsjaren;C staat voor 1 als de ingezetene is ingedeeld in de arbeidshandicapcategorie matig en voor 1,25 als hij is ingedeeld in de arbeidshandicapcategorie ernstig;D staat voor de voor het college rechtstreeks aan de subsidieverlening verbonden uitvoeringskosten omgerekend op jaarbasis. 
 3. Indien op grond van het tweede lid een periodieke subsidie wordt verleend kan het college aan de werkgever een vergoeding verstrekken voor de eenmalige noodzakelijke kosten van aanpassing van de omstandigheden waaronder de arbeid wordt verricht. 
 4. Het college kan op verzoek van de ingezetene die geïndiceerd is en die het college schriftelijk heeft meegedeeld in verband met het tweede lid een werkgever te zullen zoeken, een door die ingezetene aangewezen begeleidingsorganisatie inschakelen ten behoeve van de totstandkoming van een dienstbetrekking. 
-5. Een periodieke subsidie op grond van dit artikel wordt, in afwijking van [artikel 4:32 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verleend zolang de dienstbetrekking duurt en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd. 
+5. Een periodieke subsidie op grond van dit artikel wordt, in afwijking van artikel 4:32 van de Algemene wet bestuursrecht, verleend zolang de dienstbetrekking duurt en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd. 
 6. Zo nodig in afwijking van het vijfde lid worden de periodieke subsidie en de periodieke vergoeding voor de noodzakelijke kosten van de begeleiding op de werkplek beëindigd:
 
 a.indien de werknemer blijkens een onaantastbaar geworden herindicatiebeschikking niet langer tot de doelgroep behoort, zodra voor hem een alternatieve opvangmogelijkheid feitelijk beschikbaar is of door zijn toedoen niet beschikbaar komt dan wel zodra hij een aanbod tot passende arbeid onder normale omstandigheden heeft geweigerd;
@@ -90,7 +90,7 @@ a.indien de werknemer blijkens een onaantastbaar geworden herindicatiebeschikkin
 b.indien de werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
 
 c.indien de werknemer niet voldoet aan artikel 6, eerste lid. 
-7. Zo nodig in afwijking van de [artikelen 670](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) kan de werkgever de dienstbetrekking opzeggen indien de periodieke subsidie op grond van het zesde lid niet langer wordt verleend. 
+7. Zo nodig in afwijking van de artikelen 670 en 670a van titel 10 van Boek 7 van het Burgerlijk Wetboek kan de werkgever de dienstbetrekking opzeggen indien de periodieke subsidie op grond van het zesde lid niet langer wordt verleend. 
 8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste tot en met vierde lid. 
 9. De voordracht voor een krachtens het achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 10. De gemeenteraad stelt bij verordening nadere regels met betrekking tot de toepassing van het tweede tot en met het vierde lid door het college. De regels, bedoeld in de eerste zin, hebben in ieder geval betrekking op:
@@ -123,7 +123,7 @@ d.de voorwaarden waaronder het college een begeleidingsorganisatie inschakelt di
 
 ### Artikel  9a  
 
-In afwijking van [artikel 7:11 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt bij de toepassing van de artikelen 8, tweede lid, en 9 gebruikgemaakt van de gegevens in de bijlage, bedoeld in artikel 13, vierde lid, en de informatie, bedoeld in artikel 1, tweede lid, onderdeel a, waarvan Onze Minister kennis heeft op 15 augustus voor zover het betreft artikel 8, tweede lid, en 30 september voor zover het betreft artikel 9 van het tweede jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen. 
+In afwijking van artikel 7:11 van de Algemene wet bestuursrecht, wordt bij de toepassing van de artikelen 8, tweede lid, en 9 gebruikgemaakt van de gegevens in de bijlage, bedoeld in artikel 13, vierde lid, en de informatie, bedoeld in artikel 1, tweede lid, onderdeel a, waarvan Onze Minister kennis heeft op 15 augustus voor zover het betreft artikel 8, tweede lid, en 30 september voor zover het betreft artikel 9 van het tweede jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen. 
 
 ### Artikel  10  
 
@@ -162,7 +162,7 @@ a.personen:
 
 b.werknemers die voor herindicatie in aanmerking komen. 
 5. Een indicatiebeschikking of herindicatiebeschikking wordt gegeven binnen zestien weken na ontvangst van de aanvraag. 
-6. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beslist het Uitvoeringsinstituut werknemersverzekeringen binnen zestien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken tegen een indicatiebeschikking of herindicatiebeschikking. 
+6. In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist het Uitvoeringsinstituut werknemersverzekeringen binnen zestien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken tegen een indicatiebeschikking of herindicatiebeschikking. 
 7. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bij of krachtens dit artikel aan het Uitvoeringsinstituut werknemersverzekeringen opgedragen taak en de wijze van uitoefening daarvan. 
 8. De voordracht voor een krachtens het zevende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -176,7 +176,7 @@ a.betrokkene passende arbeid in dienstbetrekking onder aangepaste omstandigheden
 
 b.de dienstbetrekking van betrokkene door het college is opgezegd op grond van artikel 6, tweede lid, onderdeel a of c, of door de werkgever, bedoeld in artikel 7, in verband met de toepassing van artikel 7, zesde lid, onderdeel b of c, vanaf het moment dat de opzegging rechtens onaantastbaar is;
 
-c.de dienstbetrekking van betrokkene door het college of de werkgever, bedoeld in artikel 7, is opgezegd om een dringende reden in de zin van [artikel 678 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en de werknemer ter zake een verwijt kan worden gemaakt, vanaf het moment dat de opzegging rechtens onaantastbaar is;
+c.de dienstbetrekking van betrokkene door het college of de werkgever, bedoeld in artikel 7, is opgezegd om een dringende reden in de zin van artikel 678 van Boek 7 van het Burgerlijk Wetboek en de werknemer ter zake een verwijt kan worden gemaakt, vanaf het moment dat de opzegging rechtens onaantastbaar is;
 
 d.de dienstbetrekking op verzoek van betrokkene is geëindigd; of
 
@@ -185,7 +185,7 @@ e.betrokkene niet beschikbaar is om een dienstbetrekking als bedoeld in artikel 
 
 a.per de dag dat betrokkene arbeid in een dienstbetrekking anders dan een dienstbetrekking als bedoeld in artikel 1, derde lid, aanvaardt of arbeid gaat verrichten in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, tenzij deze arbeid gericht is op het verkrijgen van een dienstbetrekking als bedoeld in artikel 1, derde lid;
 
-b.per de dag dat betrokkene de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt; of
+b.per de dag dat betrokkene de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt; of
 
 c.indien betrokkene overlijdt. 
 5. Het college trekt de indicatiebeschikking of herindicatiebeschikking van een betrokkene in op schriftelijk verzoek van de betrokkene aan het college per de datum van dat verzoek. 
@@ -198,7 +198,7 @@ c.indien betrokkene overlijdt.
 
 ### Artikel  13  
 
-Het college legt verantwoording af aan Onze Minister over de uitvoering van deze wet op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md).
+Het college legt verantwoording af aan Onze Minister over de uitvoering van deze wet op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet.
 
 ### Artikel  14  
 
@@ -211,7 +211,7 @@ Het college legt verantwoording af aan Onze Minister over de uitvoering van deze
 2.  Het college en de krachtens artikel 2, tweede lid, aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.    
 3.  Bij of krachtens algemene maatregel van bestuur kunnen voor de toepassing van het eerste en tweede lid nadere regels worden gesteld.    
 4.  Een ieder verstrekt desgevraagd aan het college, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens artikel 2, tweede lid, aangewezen rechtspersoon kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.   
-5.  Het college van burgemeester en wethouders, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens artikel 2, derde lid, aangewezen rechtspersoon gebruiken het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), bij de verwerking van persoonsgegevens voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat burgerservicenummer.  
+5.  Het college van burgemeester en wethouders, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens artikel 2, derde lid, aangewezen rechtspersoon gebruiken het burgerservicenummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer, bij de verwerking van persoonsgegevens voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat burgerservicenummer.  
 
 ###Artikel 15a 
 
@@ -227,7 +227,11 @@ Met ingang van de datum van inwerkingtreding van deze wet worden de dienstbetrek
 
 ### Artikel  19  
 
-Tenzij hij daartoe verzoekt behoeft de persoon, die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening zoals deze luidde op die datum, zolang de dienstbetrekking voortduurt, niet overeenkomstig artikel 11, tweede lid, te worden geherindiceerd.
+1.  Dit lid is nog niet in werking getreden.   
+2.  Dit lid is nog niet in werking getreden.   
+3.  Dit lid is nog niet in werking getreden.   
+4.  Dit lid is nog niet in werking getreden.   
+5.  Het Uitvoeringsinstituut werknemersverzekeringen verricht geen onderzoek en besluit niet over de indicatie, bedoeld in artikel 11, eerste lid, indien het een aanvraag betreft die niet minimaal 16 weken voorafgaand aan de dag van inwerkingtreding van artikel II, onderdeel A, van de Invoeringswet Participatiewet is ingediend. Dit lid vervalt met ingang van de dag van inwerkingtreding van artikel II, onderdeel G, van de Invoeringswet Participatiewet.  
 
 ### Artikel  20  
 

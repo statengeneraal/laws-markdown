@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Economische zaken, Landbouw en Innovatie;
 
-Gelet op [artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget](../../../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md);
+Gelet op artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget;
 Besluit:    
 
 ### Artikel  1  
@@ -18,7 +18,7 @@ De screenings- en testinstrumenten ten behoeve van de indicatiestelling voor lee
 
 ####Intrekking eerdere regelingen
 
-De [Regeling screenings- en testinstrumenten LWOO en PrO schooljaar 2013–2014](../../../../../../../../../../../ministeriele-regeling/regeling/screenings-/en/testinstrumenten/lwoo/en/pro/schooljaar/2013–2014/BWBR0031947/README.md) wordt ingetrokken. 
+De Regeling screenings- en testinstrumenten LWOO en PrO schooljaar 2013–2014 wordt ingetrokken. 
 
 ### Artikel  3  
 

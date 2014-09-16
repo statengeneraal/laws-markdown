@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 19 juli 1968, nr. D68/4876, directie Wetgeving Douane en Verbruiksbelastingen; 
 
-Gelet op de [artikel 8, zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md),[ 9, tweede lid, letter *b*](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [10](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [11, eerste lid, aanhef en letters f, o, 2°, en u](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [12, derde lid, 20, tweede lid, letter *b*](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29, derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [39](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [41*b*, eerste lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [50, achtste en elfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), alsmede [50*a*, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (*Stb.* 329); 
+Gelet op de artikel 8, zesde lid, 9, tweede lid, letter *b*, 10, 11, eerste lid, aanhef en letters f, o, 2°, en u, 12, derde lid, 20, tweede lid, letter *b*, 29, derde lid, 39, 41*b*, eerste lid, 50, achtste en elfde lid, alsmede 50*a*, vierde lid, van de Wet op de omzetbelasting 1968 (*Stb.* 329); 
 
 De Raad van State gehoord (advies van 31 juli 1968, nr. 45); 
 
@@ -17,10 +17,10 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 8, vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [9, tweede lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [11, eerste lid, aanhef en onderdelen f, o, 2° en u](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [12, vijfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17c, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17d](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [20, tweede lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29, derde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [29a, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [33g, tweede, vierde en zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [39](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [50, achtste en elfde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [50a, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), alsmede aan artikel III van de wet van 30 september 1986 tot wijziging van de Wet op de omzetbelasting 1968 (Stb. 1986, 479) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).    
+1.  Dit besluit geeft uitvoering aan de artikelen 8, vijfde lid, 9, tweede lid, onderdeel b, 11, eerste lid, aanhef en onderdelen f, o, 2° en u, 12, vijfde lid, 17c, tweede lid, 17d, 20, tweede lid, onderdeel b, 29, derde lid, 29a, tweede lid, 33g, tweede, vierde en zesde lid, 39, 50, achtste en elfde lid, en 50a, vierde lid, van de Wet op de omzetbelasting 1968, alsmede aan artikel III van de wet van 30 september 1986 tot wijziging van de Wet op de omzetbelasting 1968 (Stb. 1986, 479) en aan artikel 10a van de Algemene wet inzake rijksbelastingen.    
 2.   Dit besluit verstaat onder:  
 
-a. wet: [Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);   
+a. wet: Wet op de omzetbelasting 1968;   
 
 b. belasting: omzetbelasting.     
 
@@ -31,11 +31,11 @@ b. belasting: omzetbelasting.
 ### Artikel  2  
 
 1.  Met kortingen wegens contante betaling wordt voor de bepaling van de vergoeding terstond rekening gehouden, mits op de factuur - ingeval deze wordt uitgereikt - de korting in mindering wordt gebracht op het in rekening te brengen bedrag.    
-2.   In gevallen waarin het eerste lid toepassing heeft gevonden en de korting wegens contante betaling uiteindelijk geheel of ten dele niet wordt genoten, wordt de belasting alsnog verschuldigd over het bedrag van de niet genoten korting. De [artikelen 13](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), [17g](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [34c tot en met 35 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn van overeenkomstige toepassing, met dien verstande dat het tijdstip waarop het niet-genieten van de korting komt vast te staan, geacht wordt te zijn het tijdstip waarop de levering, de intracommunautaire verwerving of de dienst is verricht.   
+2.   In gevallen waarin het eerste lid toepassing heeft gevonden en de korting wegens contante betaling uiteindelijk geheel of ten dele niet wordt genoten, wordt de belasting alsnog verschuldigd over het bedrag van de niet genoten korting. De artikelen 13, 17g en 34c tot en met 35 van de wet zijn van overeenkomstige toepassing, met dien verstande dat het tijdstip waarop het niet-genieten van de korting komt vast te staan, geacht wordt te zijn het tijdstip waarop de levering, de intracommunautaire verwerving of de dienst is verricht.   
 
 ### Artikel  3  
 
-[Artikel 29, eerste en tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [artikel 29a, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn niet van toepassing op bedragen welke niet zijn ontvangen onderscheidenlijk betaald ten gevolge van een korting voor contante betaling, indien niet ter zake van die korting een aanvullende factuur is uitgereikt.  
+Artikel 29, eerste en tweede lid, en artikel 29a, eerste lid, van de wet zijn niet van toepassing op bedragen welke niet zijn ontvangen onderscheidenlijk betaald ten gevolge van een korting voor contante betaling, indien niet ter zake van die korting een aanvullende factuur is uitgereikt.  
 
 ### Artikel  4  
 
@@ -45,9 +45,9 @@ a.  vervallen;
 
 b. de assurantiekosten welke de ondernemer die de prestatie verricht, aan een andere ondernemer moet voldoen, mits zij afzonderlijk in rekening worden gebracht;   
 
-c. de voor degene aan wie de dienst wordt bewezen, aan rechten bij invoer als bedoeld in [artikel 7:3 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) en andere belastingen en heffingen gedane uitschotten, alsmede andere bij ministeriële regeling aan te wijzen met doorlopende posten gelijk te stellen bedragen betreffende niet belastbare of vrijgestelde prestaties.      
-2.  Voorts behoort bij levering van gebruikte personenauto’s, gebruikte motorrijwielen en gebruikte bestelauto’s anders dan met toepassing van [artikel 28b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) of [28d van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), niet tot de vergoeding, het bij de personenauto, het motorrijwiel of de bestelauto nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig het bij of krachtens [artikel 10, derde en zesde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bepaalde. In afwijking hiervan behoort bij levering van gebruikte motorrijtuigen waarvoor op de voet van de in de vorige volzin genoemde [wet](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) een vrijstelling of een teruggaaf is verleend, niet tot de vergoeding het bedrag dat ingevolge [die wet](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bij het afstoten van het motorrijtuig moet worden voldaan door de ondernemer die het motorrijtuig levert, met dien verstande dat de eerste volzin van overeenkomstige toepassing is voor zover de belasting voor het motorrijtuig al op een eerder tijdstip is voldaan omdat niet langer aan de voorwaarden van de vrijstelling, onderscheidenlijk de teruggaaf, werd voldaan.  
-3.  Het tweede lid is alleen van toepassing indien de ondernemer op de factuur het bedrag vermeldt dat hij als belasting als bedoeld in de [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) op de vergoeding in mindering heeft gebracht.  
+c. de voor degene aan wie de dienst wordt bewezen, aan rechten bij invoer als bedoeld in artikel 7:3 van de Algemene douanewet en andere belastingen en heffingen gedane uitschotten, alsmede andere bij ministeriële regeling aan te wijzen met doorlopende posten gelijk te stellen bedragen betreffende niet belastbare of vrijgestelde prestaties.      
+2.  Voorts behoort bij levering van gebruikte personenauto’s, gebruikte motorrijwielen en gebruikte bestelauto’s anders dan met toepassing van artikel 28b of 28d van de wet, niet tot de vergoeding, het bij de personenauto, het motorrijwiel of de bestelauto nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig het bij of krachtens artikel 10, derde en zesde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 bepaalde. In afwijking hiervan behoort bij levering van gebruikte motorrijtuigen waarvoor op de voet van de in de vorige volzin genoemde wet een vrijstelling of een teruggaaf is verleend, niet tot de vergoeding het bedrag dat ingevolge die wet bij het afstoten van het motorrijtuig moet worden voldaan door de ondernemer die het motorrijtuig levert, met dien verstande dat de eerste volzin van overeenkomstige toepassing is voor zover de belasting voor het motorrijtuig al op een eerder tijdstip is voldaan omdat niet langer aan de voorwaarden van de vrijstelling, onderscheidenlijk de teruggaaf, werd voldaan.  
+3.  Het tweede lid is alleen van toepassing indien de ondernemer op de factuur het bedrag vermeldt dat hij als belasting als bedoeld in de Wet op de belasting van personenauto's en motorrijwielen 1992 op de vergoeding in mindering heeft gebracht.  
 
 ### Artikel  5  
 
@@ -56,11 +56,11 @@ c. de voor degene aan wie de dienst wordt bewezen, aan rechten bij invoer als be
 3.   Bij wijziging van een recht van erfpacht, opstal, erfdienstbaarheid of beklemming behoort het verschil in waarde tussen de canon, de retributie of de huur vóór en na de wijziging tot de vergoeding, met dien verstande dat bij vermindering van de waarde van de canon, de retributie of de huur, voor zover daar geen vermindering van de rechten van de zakelijk gerechtigde tegenover staat, het verschil in waarde op de vergoeding in mindering wordt gebracht.    
 4.   Bij levering onder voorbehoud van grondrente of van met grondrente bezwaarde eigendom behoort de waarde van de uitkering tot de vergoeding, met dien verstande dat de vergoeding hierdoor niet hoger kan zijn dan de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.    
 5.   De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende bijlage A.    
-6.   Het tweede tot en met het vijfde lid is niet van toepassing voor zover de vestiging, overdracht, wijziging, afstand en opzegging van rechten waaraan onroerende zaken zijn onderworpen niet op grond van [artikel 3, tweede lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van de wet, met toepassing van de voorgaande leden, als levering van goederen wordt aangemerkt.   
+6.   Het tweede tot en met het vijfde lid is niet van toepassing voor zover de vestiging, overdracht, wijziging, afstand en opzegging van rechten waaraan onroerende zaken zijn onderworpen niet op grond van artikel 3, tweede lid, van de wet, met toepassing van de voorgaande leden, als levering van goederen wordt aangemerkt.   
 
 ### Artikel  5a  
 
-Bij de berekening van de belasting over de vergoeding en over de douanewaarde overeenkomstig de [artikelen 8, eerste lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), en [17c, eerste lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), respectievelijk [artikel 19, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt het bedrag van de verschuldigde belasting rekenkundig afgerond op centen. Deze rekenkundige afronding op centen wordt zodanig toegepast dat bij bedragen waarbij de derde decimaal het cijfer 5 of een hoger cijfer bereikt omhoog wordt afgerond, en dat in geval de derde decimaal dit cijfer niet bereikt omlaag wordt afgerond. 
+Bij de berekening van de belasting over de vergoeding en over de douanewaarde overeenkomstig de artikelen 8, eerste lid, en 17c, eerste lid, respectievelijk artikel 19, eerste lid, van de wet, wordt het bedrag van de verschuldigde belasting rekenkundig afgerond op centen. Deze rekenkundige afronding op centen wordt zodanig toegepast dat bij bedragen waarbij de derde decimaal het cijfer 5 of een hoger cijfer bereikt omhoog wordt afgerond, en dat in geval de derde decimaal dit cijfer niet bereikt omlaag wordt afgerond. 
 
 ### Hoofdstuk  II  
 
@@ -68,12 +68,12 @@ Bij de berekening van de belasting over de vergoeding en over de douanewaarde ov
 
 ### Artikel  6  
 
-Voor de toepassing van de in [artikel 11](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) van de wet vervatte vrijstellingen is de ondernemer gehouden een boekhouding te voeren waarin de voor die toepassing nodige gegevens op duidelijke en overzichtelijke wijze zijn vermeld.  
+Voor de toepassing van de in artikel 11 van de wet vervatte vrijstellingen is de ondernemer gehouden een boekhouding te voeren waarin de voor die toepassing nodige gegevens op duidelijke en overzichtelijke wijze zijn vermeld.  
 
 ### Artikel  7  
 
-1.  Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende bijlage B.    
-2.  Voor zover niet vallend onder de bij dit besluit behorende bijlage B worden voorts als leveringen en diensten als bedoeld in [artikel 11, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) aangewezen: 
+1.  Als leveringen en diensten van sociale of culturele aard als bedoeld in artikel 11, eerste lid, onderdeel f , van de wet, worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende bijlage B.    
+2.  Voor zover niet vallend onder de bij dit besluit behorende bijlage B worden voorts als leveringen en diensten als bedoeld in artikel 11, eerste lid, onderdeel f, van de wet aangewezen: 
 
 a. leveringen en diensten die nauw samenhangen met maatschappelijk werk, met de sociale zekerheid en met de bescherming van kinderen en jongeren; en  
 
@@ -85,11 +85,11 @@ a. wijzigingen in de aard en samenstelling van de leveringen en diensten van de 
 b. het beogen van winst door de instelling;  
 
 c. het optreden van een ernstige verstoring van concurrentieverhoudingen ten opzichte van ondernemers die winst beogen.     
-4.  Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), worden niet aangemerkt: 
+4.  Als leveringen en diensten van sociale of culturele aard als bedoeld in artikel 11, eerste lid, onderdeel f, van de wet, worden niet aangemerkt: 
 
 a. de leveringen van goederen welke door de in het tweede lid bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht;  
 
-b. diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of ingevolge de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).     
+b. diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, van de wet, die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de Algemene Wet Bijzondere Ziektekosten of ingevolge de Wet maatschappelijke ondersteuning.     
 5.  Onder het niet beogen van winst, bedoeld in het tweede en derde lid, wordt verstaan dat niet systematisch het maken van winst mag worden beoogd en, zo er wel winst wordt gemaakt, deze niet mag worden uitgekeerd, maar die winst moet worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.  
 6.   Tot de in het eerste lid bedoelde leveringen en diensten behoren niet, behoudens voor zover in bijlage B bij dit besluit anders is bepaald:  
 
@@ -107,7 +107,7 @@ e. andere bij ministeriële regeling in verband met het voorkomen van een ernsti
 
 ### Artikel  8  
 
-1.  Als onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt aangewezen:  
+1.  Als onderwijs als bedoeld in artikel 11, eerste lid, onderdeel o, 2°, van de wet, wordt aangewezen:  
 
 a. beroepsopleidingen verzorgd door: 
 
@@ -115,30 +115,30 @@ a. beroepsopleidingen verzorgd door:
 
 2°. natuurlijke personen die opgenomen zijn in het Docentenregister Beroepsonderwijs voor zover het betreft het verzorgen van beroepsopleidingen die niet worden uitgevoerd als instelling als bedoeld onder 1<sup>o</sup>, of  
 
-3°. de uit de openbare kassen bekostigde instellingen, genoemd in de bijlage van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of bedoeld bij de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    
+3°. de uit de openbare kassen bekostigde instellingen, genoemd in de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek of bedoeld bij de Wet educatie en beroepsonderwijs;    
 
-b. algemeen vormend onderwijs, ontleend aan het uit de openbare kassen bekostigde onderwijs dat is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel o, 1°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), met uitzondering van het onderwijs dat een vrijetijds-karakter heeft dan wel dient om vaardigheden in de persoonlijke levenssfeer te verwerven;   
+b. algemeen vormend onderwijs, ontleend aan het uit de openbare kassen bekostigde onderwijs dat is vrijgesteld op grond van artikel 11, eerste lid, onderdeel o, 1°, van de wet, met uitzondering van het onderwijs dat een vrijetijds-karakter heeft dan wel dient om vaardigheden in de persoonlijke levenssfeer te verwerven;   
 
 c. onderwijs in muziek, dans, drama en beeldende vorming, aan personen jonger dan 21 jaar;  
 
-d. bijlessen en tentamen- of examentrainingen die worden verstrekt in het kader van het onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).      
-2.   Onder onderwijs wordt mede begrepen het afnemen van examens ter afsluiting van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), ook indien dat geschiedt door een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid.   
+d. bijlessen en tentamen- of examentrainingen die worden verstrekt in het kader van het onderwijs als bedoeld in artikel 11, eerste lid, onderdeel o, van de wet.      
+2.   Onder onderwijs wordt mede begrepen het afnemen van examens ter afsluiting van onderwijs als bedoeld in artikel 11, eerste lid, onderdeel o, van de wet, ook indien dat geschiedt door een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid.   
 
 ### Artikel  9  
 
-1.  Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel *u* ](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van de wet, worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:  
+1.  Als diensten als bedoeld in artikel 11, eerste lid, onderdeel *u* , van de wet, worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:  
 
 a.vervallen; 
 
-b. instellingen welke zijn toegelaten om op de voet van de [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) werkzaam te zijn in het belang van de volkshuisvesting, voor zover de diensten rechtstreeks nodig zijn voor het beheer of het onderhoud van woningwet- of premiewoningen;   
+b. instellingen welke zijn toegelaten om op de voet van de Woningwet werkzaam te zijn in het belang van de volkshuisvesting, voor zover de diensten rechtstreeks nodig zijn voor het beheer of het onderhoud van woningwet- of premiewoningen;   
 
 c. vervallen;   
 
-d. verplegings- en verzorgingsinstellingen waarvan de prestaties zijn vrijgesteld op grond van [artikel 11, eerste lid, onderdeel *c* ](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in de wasverzorging en het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie;   
+d. verplegings- en verzorgingsinstellingen waarvan de prestaties zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel *c* , van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in de wasverzorging en het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie;   
 
-e. kruisverenigingen waarvan de prestaties zijn vrijgesteld op grond van [artikel 11, eerste lid, onderdeel *f* ](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties;   
+e. kruisverenigingen waarvan de prestaties zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel *f* , van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties;   
 
-f. andere dan hiervoor genoemde personen of lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), die prestaties verrichten welke zijn vrijgesteld of waarvoor zij geen ondernemer zijn, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie.      
+f. andere dan hiervoor genoemde personen of lichamen in de zin van de Algemene wet inzake rijksbelastingen, die prestaties verrichten welke zijn vrijgesteld of waarvoor zij geen ondernemer zijn, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie.      
 2.   Het eerste lid is alleen van toepassing, indien de daar bedoelde zelfstandige groeperingen ter zake van de aan hun leden verrichte diensten slechts terugbetaling vorderen van het aandeel van die leden in de gezamenlijke uitgaven.    
 3.   Het eerste lid geldt niet voor diensten bestaande in het ter beschikking stellen van personeel en andere bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen diensten.   
 
@@ -148,30 +148,30 @@ f. andere dan hiervoor genoemde personen of lichamen in de zin van de [Algemene 
 
 ### Artikel  12  
 
-1.   De aanspraak op toepassing van het tarief van nihil voor leveringen, intracommunautaire verwervingen en invoer van goederen en voor diensten, genoemd in de bij de [wet behorende tabel II](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), geldt slechts, indien de toepasselijkheid van dat tarief uit boeken en bescheiden blijkt.    
+1.   De aanspraak op toepassing van het tarief van nihil voor leveringen, intracommunautaire verwervingen en invoer van goederen en voor diensten, genoemd in de bij de wet behorende tabel II, geldt slechts, indien de toepasselijkheid van dat tarief uit boeken en bescheiden blijkt.    
 2.   Onverminderd het bepaalde in het eerste lid, is het tarief van nihil slechts van toepassing:  
 
 a. 
 
-1°.voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 3](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md); 
+1°.voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 3; 
 
-2°.voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 6](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien de ondernemer beschikt over het btw-identificatienummer van degene die de goederen afneemt; 
+2°.voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 6, indien de ondernemer beschikt over het btw-identificatienummer van degene die de goederen afneemt; 
 
 b. 
 
-1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder a](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) door die ondernemer mogelijk is;   
+1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de Wet op de accijns die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is;   
 
-2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) door die ondernemer mogelijk is;     
+2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder b, indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is;     
 
-c. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 8, onder a](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) door die ondernemer mogelijk is.   
+c. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 8, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is.   
 
 d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Unie of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Unie of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek kan worden overgelegd;   
 
-e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat, wordt uitgevoerd uit de Unie of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;   
+e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in artikel 36 van de Wegenverkeerswet 1994 bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat, wordt uitgevoerd uit de Unie of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;   
 
-f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.    In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c  te hebben aangesteld.    
-3.   In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in [artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).    
-4.   In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de [Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bij uitslag verschuldigd zou zijn.    
+f. voor wat betreft de levering door een ondernemer als bedoeld in artikel 7, zesde lid, van de wet, van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.    In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c  te hebben aangesteld.    
+3.   In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet.    
+4.   In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de Wet op de accijns bij uitslag verschuldigd zou zijn.    
 5.   Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de wijze waarop de aanspraak op toepassing van het tarief van nihil wordt aangetoond.   
 
 ### Artikel  12a  
@@ -181,7 +181,7 @@ f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, z
 
 ### Artikel  13  
 
-Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) voorwaarden worden verbonden welke betrekking kunnen hebben op:  
+Bij ministeriële regeling kunnen aan de teruggaaf op de voet van artikel 24, eerste lid, van de wet voorwaarden worden verbonden welke betrekking kunnen hebben op:  
 
 a. het overleggen van bescheiden bij de aangifte ter verkrijging van de teruggaaf;   
 
@@ -209,7 +209,7 @@ b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt 
 
 ### Artikel  16  
 
-De ondernemer die krachtens [artikel 26](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 6%-goederen als van 21%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen.  
+De ondernemer die krachtens artikel 26 van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 6%-goederen als van 21%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen.  
 
 I. 
 
@@ -239,7 +239,7 @@ g. na afloop van het boekjaar wordt de belasting herrekend als volgt:
 
 6°. indien deze herrekening leidt tot een hoger bedrag dan over het boekjaar aan belasting is afgedragen, moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende boekjaar; leidt de herrekening tot een lager bedrag dan over het boekjaar aan belasting is afgedragen, dan wordt het verschil aan de ondernemer op verzoek teruggegeven;   
 
-7°. op die aangifte voldoet de ondernemer tevens de belasting ter zake van het beschikken over goederen in de zin van [artikel 3, derde lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (eigen gebruik) in het boekjaar, voor zover de vergoeding voor deze goederen niet in de onder 3° bedoelde ontvangsten zijn begrepen;     
+7°. op die aangifte voldoet de ondernemer tevens de belasting ter zake van het beschikken over goederen in de zin van artikel 3, derde lid, onderdeel a, van de wet (eigen gebruik) in het boekjaar, voor zover de vergoeding voor deze goederen niet in de onder 3° bedoelde ontvangsten zijn begrepen;     
 
 h. de in onderdeel g - 1° bedoelde in voorraad zijnde goederen worden beschouwd als goederen die in het eerste belastingtijdvak van het volgende boekjaar zijn ingekocht.     
 
@@ -341,7 +341,7 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 ### Artikel  20  
 
-1.  In gevallen waarin bij de levering van goederen of het verrichten van diensten gratis zegels worden verstrekt die kunnen worden ingewisseld tegen geld of geldswaardige papieren - al dan niet met bijbetaling - wordt, in afwijking in zoverre van [artikel 29, eerste lid, onderdeel b](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van de wet, de belasting berekend overeenkomstig de hierna volgende regels:  
+1.  In gevallen waarin bij de levering van goederen of het verrichten van diensten gratis zegels worden verstrekt die kunnen worden ingewisseld tegen geld of geldswaardige papieren - al dan niet met bijbetaling - wordt, in afwijking in zoverre van artikel 29, eerste lid, onderdeel b, van de wet, de belasting berekend overeenkomstig de hierna volgende regels:  
 
 a. op de totale vergoeding of ontvangsten wordt niets in aftrek gebracht voor de verstrekte zegels;   
 
@@ -377,7 +377,7 @@ b. ter zake van de levering van goederen tegen inwisseling van de waardebonnen b
 
 ### Artikel  24a  
 
-1.   Van niet in het vrije verkeer zijnde goederen waarmee in Nederland een vervoermiddel wordt bevoorraad, moet degene voor wie de goederen zijn bestemd, niet zijnde een ondernemer of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), aangifte doen. Op de aangifte en de goederen zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md), van toepassing als ware sprake van een aangifte voor het vrije verkeer en van voor de douaneregeling vrij verkeer aangegeven goederen.    
+1.   Van niet in het vrije verkeer zijnde goederen waarmee in Nederland een vervoermiddel wordt bevoorraad, moet degene voor wie de goederen zijn bestemd, niet zijnde een ondernemer of lichaam in de zin van de Algemene wet inzake rijksbelastingen, aangifte doen. Op de aangifte en de goederen zijn de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, van toepassing als ware sprake van een aangifte voor het vrije verkeer en van voor de douaneregeling vrij verkeer aangegeven goederen.    
 2.   De in het eerste lid bedoelde goederen worden slechts vrijgegeven als bedoeld in artikel 73, eerste lid, van het Communautair douanewetboek indien wordt aangetoond dat de in het eerste lid van dit artikel bedoelde aangifte is gedaan.  
 
 ### Afdeling  E  
@@ -388,7 +388,7 @@ b. ter zake van de levering van goederen tegen inwisseling van de waardebonnen b
 
 1.   Dit artikel verstaat onder:  
 
-a. werknemer, dienstbetrekking en inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de toepassing van de [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);   
+a. werknemer, dienstbetrekking en inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de toepassing van de Wet op de loonbelasting 1964;   
 
 b. aannemer: degene, die zich jegens een ander, de opdrachtgever, verbindt om buiten dienstbetrekking tegen een te betalen prijs een werk van stoffelijke aard uit te voeren dat betrekking heeft op onroerende zaken of schepen als bedoeld in Bijlage I, deel II, hoofdstuk 89, van Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256),   
 
@@ -396,7 +396,7 @@ c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienst
 2.   Voor de toepassing van dit artikel wordt de onderaannemer ten opzichte van zijn onderaannemer als aannemer beschouwd.    
 3.   Voor de toepassing van dit artikel wordt met een aannemer gelijkgesteld degene, die zonder daartoe van een opdrachtgever opdracht te hebben gekregen buiten dienstbetrekking in de normale uitoefening van zijn bedrijf een in het eerste lid, onderdeel *b*, bedoeld werk uitvoert.    
 4.   Voor de toepassing van dit artikel wordt ten opzichte van de aannemer als onderaannemer beschouwd de verkoper van een toekomstige zaak, indien en voor zover de koop en verkoop voortvloeit uit of verband houdt met het in het eerste lid, onderdeel *b*, bedoelde werk.    
-5.   Als gevallen als zijn bedoeld in [artikel 12, vijfde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) worden aangewezen de gevallen waarin:  
+5.   Als gevallen als zijn bedoeld in artikel 12, vijfde lid, van de wet worden aangewezen de gevallen waarin:  
 
 a. een onderaannemer een in het eerste lid, onderdeel *b*, bedoeld werk geheel of gedeeltelijk uitvoert;   
 
@@ -411,13 +411,13 @@ b. een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsp
 
 ### Artikel  24ba  
 
-1.  Als gevallen als bedoeld in [artikel 12, vijfde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), worden mede aangewezen de gevallen waarin: 
+1.  Als gevallen als bedoeld in artikel 12, vijfde lid, van de wet, worden mede aangewezen de gevallen waarin: 
 
-a. een onroerende zaak of een recht waaraan deze is onderworpen, wordt geleverd met toepassing van [artikel 11, eerste lid, onderdeel a, 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);   
+a. een onroerende zaak of een recht waaraan deze is onderworpen, wordt geleverd met toepassing van artikel 11, eerste lid, onderdeel a, 2°, van de wet;   
 
 b. goud of een halffabrikaat met een zuiverheid van ten minste 325/1000 wordt geleverd aan een ondernemer;  
 
-c. beleggingsgoud wordt geleverd met toepassing van het in [artikel 28l van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) opgenomen keuzerecht; 
+c. beleggingsgoud wordt geleverd met toepassing van het in artikel 28l van de wet opgenomen keuzerecht; 
 
 d.een in zekerheid gegeven roerende of onroerende zaak dan wel een recht waaraan een onroerende zaak is onderworpen, wordt geleverd aan een ondernemer tot executie van die zekerheid;
 
@@ -440,7 +440,7 @@ g. een van de volgende goederensoorten wordt geleverd aan een ondernemer voor ee
 
 ###Artikel 24bb 
 
-1. Als gevallen als bedoeld in [artikel 12, vijfde lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), worden tevens aangewezen de gevallen waarin sprake is van de levering aan een ondernemer van oude materialen, oude materialen ongeschikt voor hergebruik in dezelfde staat, industrieel en niet-industrieel afval, afval voor hergebruik, gedeeltelijk verwerkt afval, schroot, en van bepaalde goederen en diensten, voorzover het betreft:
+1. Als gevallen als bedoeld in artikel 12, vijfde lid, van de wet, worden tevens aangewezen de gevallen waarin sprake is van de levering aan een ondernemer van oude materialen, oude materialen ongeschikt voor hergebruik in dezelfde staat, industrieel en niet-industrieel afval, afval voor hergebruik, gedeeltelijk verwerkt afval, schroot, en van bepaalde goederen en diensten, voorzover het betreft:
 
 a.de levering van resten en afval van ferro- en non-ferroproducten en oude materialen, halffabrikaten daaronder begrepen, die het resultaat zijn van het verwerken, vervaardigen of smelten van ferro- en non-ferrometalen of legeringen daarvan;
 
@@ -454,7 +454,7 @@ e.de levering van de in dit lid genoemde materialen na bewerking in de vorm van 
 
 f.de levering van resten en afval dat ontstaat bij de bewerking van grondstoffen. 
 2. Artikel 24b, zesde en achtste lid, is van overeenkomstige toepassing. 
-3.  Dit artikel is niet van toepassing bij levering van de in het eerste lid genoemde goederen door een wederverkoper met toepassing van [artikel 28b van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). 
+3.  Dit artikel is niet van toepassing bij levering van de in het eerste lid genoemde goederen door een wederverkoper met toepassing van artikel 28b van de wet. 
 
 ### Afdeling  F  
 
@@ -489,14 +489,14 @@ e. op verzoek aan de inspecteur de inlichtingen verstrekt die noodzakelijk zijn 
 
 a. de verzoeker treedt op namens de buitenlandse ondernemer voor alle leveringen en diensten waarvoor belasting is verschuldigd en de intracommunautaire verwervingen en invoer behoudens in de gevallen dat een fiscaal vertegenwoordiger met een beperkte vergunning is aangesteld;   
 
-b. de verzoeker is per kalenderjaar mede aansprakelijk voor de verschuldigde belasting en de daarmee samenhangende heffingsrente, invorderingsrente en administratieve boetes tot een maximum van de gestelde zekerheid.      
+b. de verzoeker is per kalenderjaar mede aansprakelijk voor de verschuldigde belasting en de daarmee samenhangende verschuldigde renten en bestuurlijke boeten tot een maximum van de gestelde zekerheid.      
 5.   De verlening van een beperkte vergunning voor een fiscaal vertegenwoordiger is tevens gebonden aan de volgende voorwaarden:  
 
 a. de verzoeker kan namens de buitenlandse ondernemer waarvoor hij als fiscaal vertegenwoordiger met een beperkte vergunning is aangesteld, optreden voor:  
 
 1°. de invoer van goederen;   
 
-2°. de op de invoer volgende levering van goederen andere dan bedoeld in [artikel 5*a*, eerste lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), van de wet;   
+2°. de op de invoer volgende levering van goederen andere dan bedoeld in artikel 5*a*, eerste lid, van de wet;   
 
 3°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel *a*, post 7 of 8, van de wet;   
 
@@ -506,8 +506,8 @@ a. de verzoeker kan namens de buitenlandse ondernemer waarvoor hij als fiscaal v
 
 6°. de levering bedoeld in de bij de wet behorende tabel II, onderdeel *a*, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.     
 
-b. de verzoeker is mede aansprakelijk voor de belasting die is verschuldigd ter zake van de in onderdeel *a* genoemde belastbare handelingen en de daarmee samenhangende belastingrente, invorderingsrente en administratieve boetes.      
-6.   De aansprakelijkstelling op grond van het vierde en het vijfde lid vindt plaats met toepassing van [hoofdstuk VI, afdeling 2, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).    
+b. de verzoeker is mede aansprakelijk voor de belasting die is verschuldigd ter zake van de in onderdeel *a* genoemde belastbare handelingen en de daarmee samenhangende verschuldigde renten en bestuurlijke boeten.      
+6.   De aansprakelijkstelling op grond van het vierde en het vijfde lid vindt plaats met toepassing van hoofdstuk VI, afdeling 2, van de Invorderingswet 1990.    
 7.   Het bedrag van de zekerheid wordt door de inspecteur zodanig vastgesteld dat de te verhalen bedragen voldoende verzekerd kunnen worden geacht. De ontvanger beslist of de door de verzoeker aangeboden vorm van zekerheid wordt aanvaard. Het bedrag van de zekerheid kan door de inspecteur worden gewijzigd.    
 8.   De inspecteur kan de vergunning intrekken of wijzigen:  
 
@@ -519,7 +519,7 @@ c. indien de fiscaal vertegenwoordiger niet meer voldoet aan de aan de vergunnin
 
 ### Artikel  24d  
 
-1.  De buitenlandse ondernemer die in Nederland belasting verschuldigd is ingevolge [artikel 5a, eerste lid, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), stelt een fiscaal vertegenwoordiger met een algemene vergunning aan wanneer het hoofdkantoor of de vestiging van de ondernemer is gelegen in een derde-land waarmee geen rechtsinstrument inzake wederzijdse bijstand bestaat als bedoeld in artikel 204, lid 1, tweede alinea, van de BTW-richtlijn 2006.   
+1.  De buitenlandse ondernemer die in Nederland belasting verschuldigd is ingevolge artikel 5a, eerste lid, van de wet, stelt een fiscaal vertegenwoordiger met een algemene vergunning aan wanneer het hoofdkantoor of de vestiging van de ondernemer is gelegen in een derde-land waarmee geen rechtsinstrument inzake wederzijdse bijstand bestaat als bedoeld in artikel 204, lid 1, tweede alinea, van de BTW-richtlijn 2006.   
 2.   De buitenlandse ondernemer is gehouden een fiscaal vertegenwoordiger aan te stellen voor de levering die aan hem wordt verricht en waarvoor van hem de belasting wordt geheven ingevolge de bij de wet behorende tabel II, onderdeel a, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling. De eerste volzin is eveneens van toepassing op de door de buitenlandse ondernemer verrichte levering die volgt op de aldaar bedoelde levering.   
 
 ### Hoofdstuk  VI  
@@ -620,7 +620,7 @@ b. De leveringen en diensten als bedoeld in artikel 7 van het besluit, die als z
 
 8. bureaus voor seksuele en huwelijksvoorlichting, alleen voor diensten;   
 
-9. instellingen van verpleging, kraam- en gezinsverzorging, voor zover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdelen c of g , van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);   
+9. instellingen van verpleging, kraam- en gezinsverzorging, voor zover de diensten niet reeds kunnen worden gerangschikt onder artikel 11, eerste lid, onderdelen c of g , van de wet;   
 
 10. speeltuinverenigingen;   
 
@@ -628,14 +628,14 @@ b. De leveringen en diensten als bedoeld in artikel 7 van het besluit, die als z
 
 12. dagverblijven voor gehandicapten;   
 
-13. ziekenhuizen, poliklinieken, psychiatrische inrichtingen en dergelijke inrichtingen, voor zover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel c , van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);   
+13. ziekenhuizen, poliklinieken, psychiatrische inrichtingen en dergelijke inrichtingen, voor zover de diensten niet reeds kunnen worden gerangschikt onder artikel 11, eerste lid, onderdeel c , van de wet;   
 
 14. instellingen van zeemanszorg, mede voor het verstrekken van spijzen en dranken;   
 
 15. 
-a.instellingen die werkzaam zijn op het terrein van op preventie gerichte ondersteuning van jeugdigen met problemen met opgroeien en van ouders met problemen met opvoeden als bedoeld in [artikel 1, eerste lid, onder g, onderdeel 2, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover werkzaam op het gebied van het jeugd- en jongerenwerk;
+a.instellingen die werkzaam zijn op het terrein van op preventie gerichte ondersteuning van jeugdigen met problemen met opgroeien en van ouders met problemen met opvoeden als bedoeld in artikel 1, eerste lid, onder g, onderdeel 2, van de Wet maatschappelijke ondersteuning, voor zover werkzaam op het gebied van het jeugd- en jongerenwerk;
 
-b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaarheid van dorpen, wijken en buurten als bedoeld in [artikel 1, eerste lid, onder g, onderdeel 1, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), voor zover werkzaam op het gebied van het club- en buurthuiswerk;  
+b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaarheid van dorpen, wijken en buurten als bedoeld in artikel 1, eerste lid, onder g, onderdeel 1, van de Wet maatschappelijke ondersteuning, voor zover werkzaam op het gebied van het club- en buurthuiswerk;  
 
 16. instellingen die zich bezighouden met vormingswerk in internaatsverband, mede voor het verstrekken van spijzen en dranken;   
 
@@ -655,23 +655,23 @@ b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaa
 
 24. vervallen;   
 
-25. gemeenten of door gemeenten aangewezen rechtspersonen voor prestaties verricht op grond van [artikel 7 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+25. gemeenten of door gemeenten aangewezen rechtspersonen voor prestaties verricht op grond van artikel 7 van de Wet werk en bijstand;  
 
 26.  vervallen;   
 
-27. instellingen die schoolbegeleiding verzorgen als bedoeld in [artikel 180 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), [artikel 166 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 18 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);   
+27. instellingen die schoolbegeleiding verzorgen als bedoeld in artikel 180 van de Wet op het primair onderwijs, artikel 166 van de Wet op de expertisecentra en artikel 18 van de Wet op het voortgezet onderwijs;   
 
 28. vervallen;   
 
 29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;  
 
-30. stichtingen en zorgaanbieders als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), mede voor het verstrekken van spijzen en dranken;  
+30. stichtingen en zorgaanbieders als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, mede voor het verstrekken van spijzen en dranken;  
 
 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening;  
 
 32.instellingen ter bestrijding van hart- en vaatziekten voorzover het reanimatieonderwijs betreft, die daarvoor via convenanten nauw samenwerken met de Nederlandse Hartstichting;
 
-33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel j, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);
+33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder artikel 11, eerste lid, onderdeel j, van de wet;
 
 34. amateurtoneelverenigingen;  
 
@@ -679,7 +679,7 @@ b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaa
 
 36. carnavalsverenigingen;  
 
-37. kleindierverenigingen.    Algemene aantekening  Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht. Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of ingevolge de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).  De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), 29, 30 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
+37. kleindierverenigingen.    Algemene aantekening  Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht. Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, van de wet, die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de Algemene Wet Bijzondere Ziektekosten of ingevolge de Wet maatschappelijke ondersteuning.  De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit op grond van de Algemene Wet Bijzondere Ziektekosten, 29, 30 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
 
 ### Bijlage  C  
 

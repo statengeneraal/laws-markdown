@@ -45,7 +45,7 @@ b. het groen oogsten en het niet oogsten de artikelen 230i, 230j en 230k, alsmed
 
 ### Artikel  5  
 
-Ten aanzien van het groen oogsten en het niet oogsten door producenten zijn de artikelen 230i, 230j en 230k, alsmede de artikelen 289, 291, 302, 307 tot en met 310 van de Regeling uitvoering GMO groenten en fruit van overeenkomstige toepassing. 
+Ten aanzien van het groen oogsten en het niet oogsten door producenten zijn de artikelen 230g, derde lid, 230i, 230j en 230k, alsmede de artikelen 289, 291, 302, 307 tot en met 310 van de Regeling uitvoering GMO groenten en fruit van overeenkomstige toepassing. 
 
 ### Artikel  6  
 

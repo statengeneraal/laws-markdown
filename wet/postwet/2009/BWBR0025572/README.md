@@ -24,16 +24,12 @@ a.  *Onze Minister:* Onze Minister van Economische Zaken;
 
 b.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
-c. vervallen;  
+c.  *akten van de Wereldpostunie:* de op 10 juli 1964 te Wenen tot stand gekomen Constitutie van de Wereldpostunie (Trb. 1965, 170) en de daarbij behorende voor Nederland bindende verdragen, reglementen en protocollen (Trb. 1965, 170 en Trb. 2002, 205);  
 
-d.  *akten van de Wereldpostunie:* de op 10 juli 1964 te Wenen tot stand gekomen Constitutie van de Wereldpostunie (Trb. 1965, 170) en de daarbij behorende voor Nederland bindende verdragen, reglementen en protocollen (Trb. 1965, 170 en Trb. 2002, 205);  
+d.  *bindende gedragslijn:* een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
 
-e.  *bestuurlijke boete:* de bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom;  
-
-f.  *overtreding:* een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift;  
-
-g.  *overtreder:* degene die de overtreding pleegt of medepleegt.     
-2.  Bij besluit van Onze Minister kunnen de vindplaatsen, bedoeld in het eerste lid, onderdeel d, worden gewijzigd. Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.  
+e.  *zelfstandige last:* de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften.    
+2.  Bij besluit van Onze Minister kunnen de vindplaatsen, bedoeld in het eerste lid, onderdeel c, worden gewijzigd. Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  2  
 
@@ -82,11 +78,11 @@ b. het vervoer, dat wordt verricht onder verantwoordelijkheid van de afzender, v
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *postrichtlijn of -verordening:* een richtlijn, onderscheidenlijk verordening, van het Europees Parlement en de Raad van de Europese Unie die geheel of gedeeltelijk berust op de artikelen 47, 52, 55 of 95 van het Verdrag tot oprichting van de Europese Gemeenschap, betrekking heeft op de postsector en regels stelt over de economische activiteiten in die sector, de belangen van afnemers, geschilbeslechting, de infrastructuur, de interne markt, de kwaliteit, de handel, de mededinging, de universele dienstverlening, technische eisen of het verschaffen van informatie;  
+a.  *postrichtlijn of -verordening:* een richtlijn, onderscheidenlijk verordening, van het Europees Parlement en de Raad van de Europese Unie die geheel of gedeeltelijk berust op de artikelen 53, 59, 62 en 114 van het Verdrag betreffende de werking van de Europese Unie, betrekking heeft op de postsector en regels stelt over de economische activiteiten in die sector, de belangen van afnemers, geschilbeslechting, de infrastructuur, de interne markt, de kwaliteit, de handel, de mededinging, de universele dienstverlening, technische eisen of het verschaffen van informatie;  
 
-b.  *gedelegeerde richtlijn, verordening of beschikking:* een richtlijn, verordening, onderscheidenlijk beschikking, van de Commissie van de Europese Gemeenschappen die berust op een postrichtlijn of -verordening;  
+b.  *gedelegeerde richtlijn, verordening of beschikking:* een richtlijn, verordening, onderscheidenlijk beschikking, van de Europese Commissie die berust op een postrichtlijn of -verordening;  
 
-c.  *liberalisatierichtlijn:* een richtlijn van de Commissie van de Europese Gemeenschappen die berust op artikel 86, derde lid, van het Verdrag tot oprichting van de Europese Gemeenschap en regels stelt met betrekking tot de postsector.     
+c.  *liberalisatierichtlijn:* een richtlijn van de Europese Commissie die berust op artikel 106, derde lid, van het Verdrag betreffende de werking van de Europese Unie en regels stelt met betrekking tot de postsector.     
 2.  In deze wet wordt onder «wet» mede verstaan: een krachtens artikel 66, vijfde lid, onderdeel b, aangewezen voorschrift uit een postverordening of een gedelegeerde verordening.  
 
 ### Hoofdstuk  2  
@@ -103,7 +99,7 @@ Een postvervoerbedrijf zorgt ervoor dat bij de uitvoering van postvervoerdienste
 
 ### Artikel  5  
 
-Gesloten poststukken die in het kader van postvervoerdiensten als onbestelbaar zijn aan te merken en niet aan de afzender kunnen worden teruggegeven, kunnen slechts worden geopend op last van de kantonrechter te ’s-Gravenhage, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens omtrent de afzender of de geadresseerde. 
+Gesloten poststukken die in het kader van postvervoerdiensten als onbestelbaar zijn aan te merken en niet aan de afzender kunnen worden teruggegeven, kunnen slechts worden geopend op last van de kantonrechter van de rechtbank Den Haag, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens omtrent de afzender of de geadresseerde. 
 
 ### Artikel  6  
 
@@ -505,8 +501,7 @@ De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft Diens go
 
 ### Artikel  37  
 
-1.  De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk 11.   
-2.  De bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk 11. Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.  
+De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk 11. 
 
 ### Artikel  38  
 
@@ -515,11 +510,10 @@ De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft Diens go
 
 ### Artikel  39  
 
-1.  Een ieder verstrekt de Autoriteit Consument en Markt desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van hem bij of krachtens deze wet opgedragen taken.   
-2.  Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet opgedragen taken.   
-3.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen een door de Autoriteit Consument en Markt respectievelijk Onze Minister gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar respectievelijk zijn bevoegdheden.   
-4.  Gegevens en inlichtingen welke door Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet en de Mededingingswet worden gebruikt.   
-5.  Met inachtneming van een goede vervulling van haar toezichthoudende taken ingevolge deze wet draagt de Autoriteit Consument en Markt er zorg voor dat het verzamelen van de gegevens of inlichtingen, bedoeld in het eerste lid, op zodanige wijze geschiedt dat de daaruit voortvloeiende administratieve lasten voor postvervoerbedrijven of andere bedrijven en instellingen zo laag mogelijk zijn.  
+1.  Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van de hem bij of krachtens deze wet opgedragen taken.   
+2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen een door Onze Minister gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
+3.  Zij die uit hoofde van een ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.   
+4.  Gegevens en inlichtingen welke door Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet en de Mededingingswet worden gebruikt.  
 
 ### Artikel  40  
 
@@ -571,9 +565,9 @@ De Autoriteit Consument en Markt is verantwoordelijke in de zin van artikel 1, o
 
 ### Artikel  47  
 
-1.  De Autoriteit Consument en Markt kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk 11.   
-2.  Onze Minister kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens hoofdstuk 11.   
-3.  Een beschikking als bedoeld in het eerste of tweede lid, wordt gepubliceerd in de Staatscourant.  
+1.  De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verband met de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk 11.   
+2.  Onze Minister kan een zelfstandige last opleggen in verband met de naleving van het bepaalde bij of krachtens hoofdstuk 11.   
+3.  Van een beschikking als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.  
 
 ### §  7.4  
 
@@ -590,28 +584,17 @@ De Autoriteit Consument en Markt is verantwoordelijke in de zin van artikel 1, o
 
 ### Artikel  49  
 
-1.  De Autoriteit Consument en Markt kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, eerste lid, alsmede overtreding van het bepaalde bij of krachtens de artikelen 4, 5, 8, 9, 10, 12, 13, 13b tot en met 13k, 16, vijfde tot en met negende lid, 18, 19, 22, 23, 24, 26, 27, 28, 31, vierde lid, 32, 35, 36, 39, eerste en derde lid, 41, 59, 61, 63, tweede lid, en 64 van deze wet, alsmede artikel 5:20 van de Algemene wet bestuursrecht de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
-2.  Onze Minister kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, tweede lid, alsmede overtreding van het bepaalde bij of krachtens hoofdstuk 11 de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
-3.  De berekening van de netto-omzet, bedoeld in het eerste en het tweede lid, 
-
-a. geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek;  
-
-b. betreft het boekjaar voorafgaande aan de beschikking, bedoeld in het eerste en het tweede lid;  
-
-c. is beperkt tot de omzet die betrekking heeft op de postvervoerdiensten, bedoeld in artikel 2, eerste lid, onderdeel d.    
+1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 4, 5, 8, 9, 10, 12, 13, 13b tot en met 13k, 16, vijfde tot en met negende lid, 18, 19, 22, 23, 24, 26, 27, 28, 31, vierde lid, 32, 35, 36, 41 en 61 de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de omzet van de onderneming.   
+2.  Onze Minister kan in geval van overtreding van een zelfstandige last als bedoeld in artikel 47, tweede lid, alsmede overtreding van het bepaalde bij of krachtens hoofdstuk 11 de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de omzet van de onderneming in Nederland. Artikel 12o van de Instellingswet Autoriteit Consument en Markt is van overeenkomstige toepassing.  
 
 ### Artikel  55  
 
-1.  Een beschikking waarbij een last onder dwangsom dan wel een bestuurlijke boete als bedoeld in artikel 49 wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt respectievelijk Onze Minister.   
+1.  Een beschikking waarbij een bestuurlijke boete als bedoeld in artikel 49, tweede lid, wordt opgelegd of waarbij op basis van artikel 48, tweede lid, een last onder dwangsom wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij Onze Minister.   
 2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  56  
 
-Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete. 
-
-### Artikel  57  
-
-De te betalen geldsom van de door de Autoriteit Consument en Markt opgelegde bestuurlijke boete, de verbeurde dwangsommen bij een door de Autoriteit Consument en Markt opgelegde last en de als gevolg van die boete en dwangsom verschuldigde wettelijke rente, komen toe aan de Staat. 
+Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van een door Onze Minister opgelegde bestuurlijke boete. 
 
 ### Hoofdstuk  8  
 
@@ -623,15 +606,10 @@ De te betalen geldsom van de door de Autoriteit Consument en Markt opgelegde bes
 2.  Onder een geschil als bedoeld in het eerste lid, wordt mede verstaan een geschil inzake de vraag of, indien de in dat lid bedoelde postvervoerbedrijven, natuurlijke of rechtspersonen een overeenkomst hebben gesloten op basis van een bij of krachtens de hoofdstukken 3 en 3a van deze wet, een op een of meer van hen rustende verplichting, de ter zake daarvan tussen hen bestaande verbintenissen, of de wijze waarop die verbintenissen worden nagekomen strijdig zijn, onderscheidenlijk strijdig is met het bij of krachtens deze wet bepaalde.  
 3.  De Autoriteit Consument en Markt is onbevoegd tot het beslechten van een op grond van het eerste lid voorgelegd geschil indien de bij dat geschil betrokken partijen de Autoriteit Consument en Markt verzoeken het geschil niet langer te beslechten.  
 
-### Artikel  59  
-
-1.  Op vordering van de Autoriteit Consument en Markt verstrekken de bij een geschil betrokken partijen binnen een door de Autoriteit Consument en Markt te bepalen redelijke termijn aan de Autoriteit Consument en Markt alle gegevens die relevant zijn voor de beoordeling van het geschil.   
-2.  De bij het geschil betrokken partijen zijn verplicht binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen ten behoeve van de beoordeling van het geschil.  
-
 ### Artikel  60  
 
-1.  De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in artikel 58, eerste lid, binnen zeventien weken na ontvangst van de aanvraag.   
-2.  In uitzonderlijke gevallen kan de Autoriteit Consument en Markt de termijn, bedoeld in het eerste lid, met ten hoogste acht weken verlengen. De Autoriteit Consument en Markt stelt de betrokken postvervoerbedrijven hiervan in kennis en geeft de termijn aan waarbinnen de Autoriteit Consument en Markt het geschil zal beslechten.   
+1.  De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in artikel 58, eerste lid, binnen vier maanden na ontvangst van de aanvraag. Artikel 4:15 van de Algemene wet bestuursrecht is van overeenkomstige toepassing indien de Autoriteit Consument en Markt aan een andere partij dan de aanvrager om gegevens verzoekt met het oog op het te nemen besluit.   
+2.  In uitzonderlijke gevallen kan de Autoriteit Consument en Markt de termijn, bedoeld in het eerste lid, met ten hoogste twee maanden verlengen. De Autoriteit Consument en Markt stelt de betrokken postvervoerbedrijven hiervan in kennis en geeft de termijn aan waarbinnen de Autoriteit Consument en Markt het geschil zal beslechten.   
 3.  De Autoriteit Consument en Markt kan in spoedeisende gevallen een voorlopig besluit nemen dat tussen de betrokken postvervoerbedrijven geldt tot het definitieve besluit van de Autoriteit Consument en Markt in werking treedt.  
 
 ### Artikel  61  
@@ -642,25 +620,11 @@ Een postvervoerbedrijf volgt het door de Autoriteit Consument en Markt op grond 
 
 De Autoriteit Consument en Markt doet mededeling in de Staatscourant van een besluit als bedoeld in artikel 60. 
 
-### Artikel  63  
-
-1.  Indien een partij door de Autoriteit Consument en Markt in het gelijk wordt gesteld en hij voor het beslechten van een geschil een vergoeding aan de Autoriteit Consument en Markt verschuldigd is, kan de Autoriteit Consument en Markt bepalen dat die vergoeding door de bij het geschil betrokken andere partij wordt vergoed.   
-2.  Een bij een geschil betrokken partij volgt de door de Autoriteit Consument en Markt op grond van het eerste lid gegeven voorschriften op. De Autoriteit Consument en Markt kan daarbij termijnen stellen.  
-
 ### Hoofdstuk  9  
 
 ####Kosten werkzaamheden Autoriteit Consument en Markt
 
-### Artikel  64  
-
-1.  Postvervoerbedrijven zijn ter dekking van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van deze wet, jaarlijks een vergoeding verschuldigd.   
-2.  Van de vergoeding zijn uitgezonderd de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.   
-3.  Van de verplichting, bedoeld in het eerste lid, zijn uitgezonderd bedrijven die voldoen aan een bij algemene maatregel van bestuur vast te stellen criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland.  
-
-### Artikel  65  
-
-1.  Onze Minister stelt de hoogte van de vergoeding, bedoeld in artikel 64, eerste lid, vast.   
-2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels nadere gesteld over de vergoeding, bedoeld in artikel 64. Deze regels kunnen mede betrekking hebben op de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.  
+Vervallen per 01-08-2014 
 
 ### Hoofdstuk  10  
 
@@ -669,7 +633,7 @@ De Autoriteit Consument en Markt doet mededeling in de Staatscourant van een bes
 ### Artikel  66  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen ter implementatie van postrichtlijnen en liberalisatierichtlijnen regels worden gesteld.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van een bindende overeenkomst tussen de Europese Gemeenschap en een derde land of een internationale organisatie die betrekking heeft op een onderwerp dat wordt bestreken door een postrichtlijn ofverordening.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van een bindende overeenkomst tussen de Europese Unie en een derde land of een internationale organisatie die betrekking heeft op een onderwerp dat wordt bestreken door een postrichtlijn ofverordening.   
 3.  Bij ministeriële regeling kunnen voor een goede uitvoering van postverordeningen en gedelegeerde verordeningen regels worden gesteld.   
 4.  Bij ministeriële regeling kunnen ter implementatie van gedelegeerde richtlijnen regels worden gesteld.   
 5.  Bij de regels, bedoeld in het eerste tot en met vierde lid, kunnen: 
@@ -794,10 +758,6 @@ Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.
 ### Artikel  84  
 
 In afwijking van artikel 15, eerste lid, wordt met ingang van het tijdstip van inwerkingtreding van artikel 15, eerste lid, een bij besluit van Onze Minister te bepalen rechtspersoon aangewezen als verlener van de universele postdienst. 
-
-### Artikel  85  
-
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  86  
 

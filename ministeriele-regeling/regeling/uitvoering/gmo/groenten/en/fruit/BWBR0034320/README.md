@@ -3172,7 +3172,8 @@ l. Rood fruit met GN codes 0810 20, 0810 30 and 0810 40;
 
 m. Druiven voor tafelgebruik met GN code 0806 10 10, en  
 
-n. Kiwi's met GN code 0810 50 00.    
+n. Kiwi's met GN code 0810 50 00.   
+3. Uitgaven voor het groen oogsten en niet oogsten van percelen beplant met appelbomen of perenbomen die zijn aangeplant na 1 oktober 2012 zijn niet subsidiabel. 
 
 ### Artikel  230h  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 25 mei 1983, nr. AB83/U577, Directoraat-Generaal voor Overheidspersoneelsbeleid, Directie Overheidspersoneelszaken, Hoofdafdeling Financiële Arbeidsvoorwaarden;
 
-Gelet op [artikel 125, eerste lid van de Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929 (*Stb.* 530);
+Gelet op artikel 125, eerste lid van de Ambtenarenwet 1929 (*Stb.* 530);
 
 De Raad van State gehoord (advies van 3 augustus 1983, nr. W04.83.0323(11.3.30);
 
@@ -39,7 +39,7 @@ b. bij een algemene maatregel van bestuur tot regeling van de bezoldiging van
 
 7°. leden van raden, besturen en commissies;    
 
-c. krachtens [artikel 15 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of een daarmee overeenkomende bepaling van gelijke strekking.     
+c. krachtens artikel 15 van het Algemeen Rijksambtenarenreglement of een daarmee overeenkomende bepaling van gelijke strekking.     
 3.   Wij behouden Ons voor op de gemeenschappelijke voordracht van Onze Minister, hoofd van het desbetreffende departement van algemeen bestuur en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, andere dan in het vorige lid bedoelde ambtenaren of groepen van ambtenaren uit te zonderen van de toepassing van dit besluit.  
 
 ### Artikel  2  
@@ -81,31 +81,31 @@ k. periodieke toeslag: een toeslag als bedoeld in artikel 22a die maandelijks wo
 ### Artikel  4  
 
 1.  Voor de ambtenaar, wiens ambt is vermeld in de bijlage A van dit besluit, geldt het salaris, dat in die bijlage bij zijn ambt is aangegeven.   
-2.   Indien de ambtenaar bedoeld in het vorige lid anders dan bij wijze van disciplinaire straf als bedoeld in het [Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in een soortgelijke regeling en zonder voorafgaand ontslag wordt belast met een ander ambt, als gevolg waarvan zijn salaris op grond van de overige bepalingen van dit besluit een verlaging zou moeten ondergaan, blijft deze verlaging achterwege.  
+2.   Indien de ambtenaar bedoeld in het vorige lid anders dan bij wijze van disciplinaire straf als bedoeld in het Algemeen Rijksambtenarenreglement of in een soortgelijke regeling en zonder voorafgaand ontslag wordt belast met een ander ambt, als gevolg waarvan zijn salaris op grond van de overige bepalingen van dit besluit een verlaging zou moeten ondergaan, blijft deze verlaging achterwege.  
 
 ### Artikel  5  
 
 1.  Voor de ambtenaar, wiens ambt niet is vermeld in de bijlage A van dit besluit, geldt een salarisschaal.   
-2.   De salarisschaal welke voor de ambtenaar geldt wordt, tenzij zijn wijze van functioneren zich nog daartegen verzet, bepaald met inachtneming van de zwaarte van zijn functie en van bijzondere regelingen, als bedoeld in [artikel 13 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in bepalingen van dezelfde strekking in een soortgelijke regeling.   
+2.   De salarisschaal welke voor de ambtenaar geldt wordt, tenzij zijn wijze van functioneren zich nog daartegen verzet, bepaald met inachtneming van de zwaarte van zijn functie en van bijzondere regelingen, als bedoeld in artikel 13 van het Algemeen Rijksambtenarenreglement of in bepalingen van dezelfde strekking in een soortgelijke regeling.   
 3.   De zwaarte van de functie wordt bepaald binnen de in de bijlage B van dit besluit aangegeven indelingsstructuur, met inachtneming van het door of in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde normeringsstelsel.   
 4.   Indien de ambtenaar bij wijze van waarneming tijdelijk een andere functie uitoefent, blijft de voordien voor hem geldende salarisschaal van toepassing.   
 5.  Voor de ambtenaar kan uitsluitend in de navolgende gevallen een salarisschaal gaan gelden met een lager maximumsalaris dan dat van de voor hem geldende salarisschaal: 
 
-a. bij wijze van disciplinaire straf, bedoeld in het [Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in een soortgelijke regeling;  
+a. bij wijze van disciplinaire straf, bedoeld in het Algemeen Rijksambtenarenreglement of in een soortgelijke regeling;  
 
 b. indien bij het bepalen van de salarisschaal, bedoeld in het tweede lid, tevens is bepaald dat zijn functie een tijdelijk karakter heeft en de salarisschaal in verband daarmee slechts tijdelijk zal gelden;  
 
 c. indien hij in verband met ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte wordt herplaatst in een andere functie waarvoor een salarisschaal geldt met een lager maximumsalaris;  
 
-d. indien hem op zijn aanvraag een andere functie wordt opgedragen waarvoor een salarisschaal geldt met een lager maximumsalaris, tenzij er sprake is van de omstandigheid, bedoeld in [artikel 57b van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).     
-6.  Indien de ambtenaar met toepassing van [hoofdstuk VIIbis van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is geplaatst in een andere functie waarvoor een salarisschaal geldt met een lager maximumsalaris dan de voor hem geldende salarisschaal in zijn oorspronkelijke functie, geldt voor de ambtenaar de salarisschaal die met toepassing van het tweede lid voor die andere functie is bepaald. Van de vorige volzin kan door het bevoegd gezag worden afgeweken voor zover toepassing gelet zal leiden tot een onbillijkheid van overwegende aard voor de betrokken ambtenaar. 
+d. indien hem op zijn aanvraag een andere functie wordt opgedragen waarvoor een salarisschaal geldt met een lager maximumsalaris, tenzij er sprake is van de omstandigheid, bedoeld in artikel 57b van het Algemeen Rijksambtenarenreglement.     
+6.  Indien de ambtenaar met toepassing van hoofdstuk VIIbis van het Algemeen Rijksambtenarenreglement is geplaatst in een andere functie waarvoor een salarisschaal geldt met een lager maximumsalaris dan de voor hem geldende salarisschaal in zijn oorspronkelijke functie, geldt voor de ambtenaar de salarisschaal die met toepassing van het tweede lid voor die andere functie is bepaald. Van de vorige volzin kan door het bevoegd gezag worden afgeweken voor zover toepassing gelet zal leiden tot een onbillijkheid van overwegende aard voor de betrokken ambtenaar. 
 
 ### Artikel  5a  
 
 1.  De ambtenaar die zich niet kan verenigen met de uitkomst van de bepaling van de zwaarte van zijn functie als bedoeld in artikel 5, derde lid, kan het voor de toepassing van artikel 5, tweede lid, bevoegde gezag verzoeken die waarderingsuitkomst opnieuw in overweging te nemen.   
 2.   Indien de toepassing van het bepaalde in artikel 5, tweede lid, berust bij Ons, worden Wij vertegenwoordigd door Onze Minister wie het aangaat.   
 3.   Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt regels betreffende de behandeling van verzoeken als bedoeld in het eerste lid.   
-4.   Het in het eerste lid bepaalde is niet van toepassing indien voor de ambtenaar een bijzondere regeling geldt als bedoeld in [artikel 13 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in bepalingen van dezelfde strekking in een soortgelijke regeling.  
+4.   Het in het eerste lid bepaalde is niet van toepassing indien voor de ambtenaar een bijzondere regeling geldt als bedoeld in artikel 13 van het Algemeen Rijksambtenarenreglement of in bepalingen van dezelfde strekking in een soortgelijke regeling.  
 
 ### Artikel  6  
 
@@ -120,7 +120,7 @@ d. indien hem op zijn aanvraag een andere functie wordt opgedragen waarvoor een 
 4.  De in het eerste en tweede lid bedoelde salarisverhoging wordt toegekend wanneer de ambtenaar het maximumsalaris van de voor hem geldende salarisschaal nog niet heeft bereikt, voor de eerste maal met ingang van de eerste dag van de maand, waarin sinds zijn aanstelling een jaar is verstreken en nadien telkens na één jaar.   
 5.   Het tijdstip waarop ingevolge het vierde lid een salarisverhoging wordt toegekend kan worden vervroegd indien daartoe naar het oordeel van het bevoegde gezag aanleiding bestaat.   
 6.  Indien het functioneren van de ambtenaar niet kan worden beoordeeld omdat hij langdurig zijn functie niet uitoefent, kan zijn salaris worden verhoogd tot het in de schaal naasthogere bedrag, indien daartoe naar het oordeel van het bevoegd gezag aanleiding bestaat.   
-7.  Het oordeel van het bevoegd gezag over het functioneren van de ambtenaar komt tot stand op basis van een gesprek als bedoeld in [artikel 71 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), voorzover het betreft de in het eerste lid van dat artikel onder a en b genoemde onderwerpen, dan wel op basis van een vastgestelde beoordeling als bedoeld in [artikel 71a van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).  
+7.  Het oordeel van het bevoegd gezag over het functioneren van de ambtenaar komt tot stand op basis van een gesprek als bedoeld in artikel 71 van het Algemeen Rijksambtenarenreglement, voorzover het betreft de in het eerste lid van dat artikel onder a en b genoemde onderwerpen, dan wel op basis van een vastgestelde beoordeling als bedoeld in artikel 71a van het Algemeen Rijksambtenarenreglement.  
 
 ### Artikel  8  
 
@@ -131,13 +131,13 @@ a. voor de ambtenaar voor wie één der salarisschalen 1 tot en met 17 van de bi
 
 b. voor de ambtenaar, voor wie salarisschaal 18 van de bijlage B geldt, vastgesteld op één van de volgende bedragen: € 8726,88; € 8912,07; € 9098,26.    
 3.  Indien het functioneren van de ambtenaar niet langer als uitstekend kan worden gekwalificeerd, kan het bevoegd gezag de toekenning van de salarisverhoging, bedoeld in het eerste lid, geheel of gedeeltelijk intrekken.   
-4.  Het oordeel van het bevoegd gezag over het functioneren van de ambtenaar komt tot stand op basis van een gesprek als bedoeld in [artikel 71 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), voorzover het betreft de in het eerste lid van [dat artikel onder a en b](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) genoemde onderwerpen, dan wel op basis van een vastgestelde beoordeling als bedoeld in [artikel 71a van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+4.  Het oordeel van het bevoegd gezag over het functioneren van de ambtenaar komt tot stand op basis van een gesprek als bedoeld in artikel 71 van het Algemeen Rijksambtenarenreglement, voorzover het betreft de in het eerste lid van dat artikel onder a en b genoemde onderwerpen, dan wel op basis van een vastgestelde beoordeling als bedoeld in artikel 71a van het Algemeen Rijksambtenarenreglement.   
 
 ### Artikel  11  
 
 1.  Het salaris van de ambtenaar met een onvolledige werktijd wordt vastgesteld op een evenredig deel van het salaris bij een volledige werktijd.   
-2.  Het salaris van de ambtenaar van wie de omvang van de arbeidsduur niet vast ligt, wordt, met inachtneming van artikel 5, tweede lid, vastgesteld op een bedrag, berekend op basis van het aantal uren dat daadwerkelijk dienst is verricht. Indien het aantal uren dat daadwerkelijk dienst is verricht minder is dan het voor de ambtenaar op grond van [artikel 6b van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) vastgestelde aantal garantie-uren, geschiedt de berekening van het salaris op basis van dit laatstbedoelde aantal uren.   
-3.   Een teruggebrachte werktijd als bedoeld in [artikel 21*a* van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of een daarmee overeenkomende bepaling in een ander rechtspositiereglement is geen onvolledige werktijd in de zin van het eerste lid.  
+2.  Het salaris van de ambtenaar van wie de omvang van de arbeidsduur niet vast ligt, wordt, met inachtneming van artikel 5, tweede lid, vastgesteld op een bedrag, berekend op basis van het aantal uren dat daadwerkelijk dienst is verricht. Indien het aantal uren dat daadwerkelijk dienst is verricht minder is dan het voor de ambtenaar op grond van artikel 6b van het Algemeen Rijksambtenarenreglement vastgestelde aantal garantie-uren, geschiedt de berekening van het salaris op basis van dit laatstbedoelde aantal uren.   
+3.   Een teruggebrachte werktijd als bedoeld in artikel 21*a* van het Algemeen Rijksambtenarenreglement of een daarmee overeenkomende bepaling in een ander rechtspositiereglement is geen onvolledige werktijd in de zin van het eerste lid.  
 
 ### Artikel  11a  
 
@@ -150,7 +150,8 @@ b. de arbeidsduur niet vastligt.
 
 ### Artikel  11b  
 
-Het salaris van de ambtenaar die arbeidsgehandicapt is in de zin van [artikel 2 van de Wet op de (re)ïntegratie arbeidsgehandicapten](../../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) kan, met inachtneming van artikel 5, tweede lid, naar evenredigheid worden verminderd conform de door de uitvoeringsinstelling, bedoeld in artikel 41, derde lid, van de Organisatiewet sociale verzekeringen 1997, vastgestelde arbeidsprestatie. 
+1.  De hoogte van de aanspraak op het salaris kan met toepassing van de artikelen 2:20 en 3:63 van de Wet werk en arbeidsondersteuning jonggehandicapten door het Uitvoeringsinstituut werknemersverzekeringen op verzoek van het bevoegd gezag of de ambtenaar naar evenredigheid worden verminderd.   
+2.  Artikel 16 is niet van toepassing.  
 
 ### Artikel  12  
 
@@ -171,7 +172,7 @@ In bijzondere gevallen kan een regeling worden getroffen, waarbij van de overige
 
 ### Artikel  16  
 
-1.  Indien het salaris minder is dan het maandbedrag van het minimumloon, dat krachtens de [artikelen 7](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), 8 en [14 van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) geldt voor werknemers van dezelfde leeftijd als de ambtenaar, wordt aan hem een toelage toegekend ten bedrage van het verschil.   
+1.  Indien het salaris minder is dan het maandbedrag van het minimumloon, dat krachtens de artikelen 7, 8 en 14 van de Wet minimumloon en minimumvakantiebijslag geldt voor werknemers van dezelfde leeftijd als de ambtenaar, wordt aan hem een toelage toegekend ten bedrage van het verschil.   
 2.   Voor de ambtenaar met een onvolledige werktijd, wordt het voor werknemers van dezelfde leeftijd geldende minimumloon geacht te zijn vastgesteld op een evenredig deel van het minimumloon bij een volledige werktijd.  
 
 ### Artikel  17  
@@ -187,7 +188,7 @@ c. 70% voor de uren op zaterdag;
 
 d. 70% voor de uren op zondag;  
 
-e. 100% voor de uren op de feestdagen genoemd in [artikel 21, zevende lid, onder a, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), Eerste Paasdag en Eerste Pinksterdag,   met dien verstande dat genoemde percentages worden berekend over ten hoogste het salaris per uur, dat is afgeleid van het salaris behorende bij salarisnummer 10 van salarisschaal 7.   
+e. 100% voor de uren op de feestdagen genoemd in artikel 21, zevende lid, onder a, van het Algemeen Rijksambtenarenreglement, Eerste Paasdag en Eerste Pinksterdag,   met dien verstande dat genoemde percentages worden berekend over ten hoogste het salaris per uur, dat is afgeleid van het salaris behorende bij salarisnummer 10 van salarisschaal 7.   
 3.   Voor de in het vorige lid onder a genoemde morgen- en avonduren wordt de toelage slechts toegekend, indien de arbeid is aangevangen vóór 7 uur, respectievelijk is beëindigd na 20 uur.   
 4.   In afwijking van het bepaalde in het eerste en het tweede lid ontvangt de ambtenaar met ingang van de maand waarin hij de leeftijd van 55 jaar bereikt een vaste toelage, mits hij op dat moment gedurende ten minste 5 jaar zonder wezenlijke onderbreking een toelage als bedoeld in het eerste lid heeft genoten.   
 5.   De toelage bedoeld in het vierde lid wordt vastgesteld op het bedrag dat de ambtenaar over de zesendertig kalendermaanden voorafgaande aan de maand waarin hij de leeftijd van 55 jaar bereikt gemiddeld per maand aan toelage als bedoeld in het eerste lid heeft genoten en wordt aangepast aan algemene salariswijzigingen.   
@@ -198,7 +199,7 @@ e. 100% voor de uren op de feestdagen genoemd in [artikel 21, zevende lid, onder
 
 ### Artikel  17a  
 
-1.  Aan de ambtenaar die krachtens een werktijdregeling als bedoeld in [artikel 21 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in bepalingen van dezelfde strekking in een soortgelijke regeling, anders dan bij wijze van overwerk regelmatig of vrij regelmatig arbeid verricht op andere tijden dan op de dagen van maandag tot en met vrijdag tussen 8.00 en 18.00 uur wordt voor het in opdracht van het bevoegde gezag verrichten van arbeid op uren die afwijken van het krachtens de werktijdregeling vastgestelde rooster een toelage toegekend, voor zover met die uren het totaal van de per werkperiode vastgestelde aantal arbeidsuren niet wordt overschreden.   
+1.  Aan de ambtenaar die krachtens een werktijdregeling als bedoeld in artikel 21 van het Algemeen Rijksambtenarenreglement of in bepalingen van dezelfde strekking in een soortgelijke regeling, anders dan bij wijze van overwerk regelmatig of vrij regelmatig arbeid verricht op andere tijden dan op de dagen van maandag tot en met vrijdag tussen 8.00 en 18.00 uur wordt voor het in opdracht van het bevoegde gezag verrichten van arbeid op uren die afwijken van het krachtens de werktijdregeling vastgestelde rooster een toelage toegekend, voor zover met die uren het totaal van de per werkperiode vastgestelde aantal arbeidsuren niet wordt overschreden.   
 2.   Op de in het eerste lid bedoelde toelage bestaat geen aanspraak indien tussen het geven van de opdracht en het verrichten van de arbeid meer dan 72 uur zijn verstreken.   
 3.   De toelage bedraagt voor elk vol uur waarop in afwijking van de werktijdregeling arbeid is verricht 45% van het voor de ambtenaar geldende salaris per uur, met dien verstande dat dit percentage wordt berekend over ten hoogste het salaris per uur, dat is afgeleid van het salaris behorende bij salarisnummer 10 van salarisschaal 7.   
 4.  Indien het bevoegd gezag op grond van artikel 17, zevende lid, een vaste toelage heeft vastgesteld voor de ambtenaar, kan het bevoegd gezag in afwijking van het eerste lid, voor de ambtenaar een vaste maandelijkse toelage vaststellen.   
@@ -240,17 +241,17 @@ c. 3% indien de ambtenaar regelmatig gelijktijdig onder drie of meer typen bezwa
 
 1.  Aan de ambtenaar wiens bezoldiging, als gevolg van het beëindigen of verminderen van een toelage als bedoeld in artikel 17, een blijvende verlaging ondergaat, welke tenminste 3% bedraagt van de som van het salaris en een periodieke toeslag, wordt een aflopende toelage toegekend, mits hij eerstgenoemde toelage, direct voorafgaande aan het tijdstip van vorenbedoelde beëindiging of vermindering ervan, gedurende ten minste 2 jaren zonder wezenlijke onderbreking heeft genoten.   
 2.   Voor de toepassing van het eerste lid wordt onder wezenlijke onderbreking verstaan een onderbreking van langer dan twaalf maanden.   
-3.  Het eerste lid is niet van toepassing indien de verlaging van de bezoldiging het gevolg is van een disciplinaire maatregel genoemd in [artikel 81 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of een bepaling van dezelfde strekking in een soortgelijke regeling.   
+3.  Het eerste lid is niet van toepassing indien de verlaging van de bezoldiging het gevolg is van een disciplinaire maatregel genoemd in artikel 81 van het Algemeen Rijksambtenarenreglement of een bepaling van dezelfde strekking in een soortgelijke regeling.   
 4.   Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt voor de toepassing van dit artikel nadere regels vast.  
 
 ### Artikel  18a  
 
-1.  Aan de ambtenaar die buiten de werktijden die voor hem gelden krachtens een werktijdregeling als bedoeld in [artikel 21 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in bepalingen van dezelfde strekking in een soortgelijke regeling, ingevolge een schriftelijke aanwijzing van het bevoegd gezag zich regelmatig of vrij regelmatig bereikbaar en beschikbaar moet houden teneinde bij oproep arbeid te gaan verrichten, wordt een toelage toegekend.   
+1.  Aan de ambtenaar die buiten de werktijden die voor hem gelden krachtens een werktijdregeling als bedoeld in artikel 21 van het Algemeen Rijksambtenarenreglement of in bepalingen van dezelfde strekking in een soortgelijke regeling, ingevolge een schriftelijke aanwijzing van het bevoegd gezag zich regelmatig of vrij regelmatig bereikbaar en beschikbaar moet houden teneinde bij oproep arbeid te gaan verrichten, wordt een toelage toegekend.   
 2.   De toelage bedraagt per uur bereikbaarheid en beschikbaarheid een percentage van het voor de ambtenaar geldende salaris per uur en wel  
 
 a. 5% voor de uren op maandag tot en met vrijdag;  
 
-b. 10% voor de uren op zaterdag en zondag en op de feestdagen genoemd in [artikel 21, zevende lid, onderdeel a, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md),   met dien verstande dat genoemde percentages worden berekend over ten hoogste het salaris per uur, dat is afgeleid van het salaris behorende bij salarisnummer 10 van salarisschaal 7.   
+b. 10% voor de uren op zaterdag en zondag en op de feestdagen genoemd in artikel 21, zevende lid, onderdeel a, van het Algemeen Rijksambtenarenreglement,   met dien verstande dat genoemde percentages worden berekend over ten hoogste het salaris per uur, dat is afgeleid van het salaris behorende bij salarisnummer 10 van salarisschaal 7.   
 3.   De op basis van het tweede lid berekende toelage wordt verhoogd met 100% over de uren waarop aan de opgedragen bereikbaarheid en beschikbaarheid een extra plaatsgebondenheid op of rond de plaats van tewerkstelling is verbonden.   
 4.  In afwijking van het tweede en derde lid kan het bevoegd gezag een vaste toelage toekennen.    
 5.  De toelage, bedoeld in het vierde lid, wordt vastgesteld aan de hand van het bepaalde in het tweede en derde lid en de mate waarin de ambtenaar zich ingevolge een schriftelijke aanwijzing van het bevoegd gezag bereikbaar en beschikbaar pleegt te moeten houden. De toelage wordt aangepast indien zich wijzigingen voordoen in de berekeningsgrondslag daarvan.    
@@ -273,10 +274,9 @@ b. 10% voor de uren op zaterdag en zondag en op de feestdagen genoemd in [artike
 
 1.  De ambtenaar heeft recht op een eindejaarsuitkering ter grootte van 8,3% van het door hem genoten salaris.   
 2.  De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november en wordt berekend over de periode van twaalf maanden die is aangevangen met de maand december van het voorafgaande kalenderjaar.   
-3.  Voor de duur dat de bezoldiging op grond van [artikel 18, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of op grond van een bepaling van dezelfde strekking in een soortgelijke regeling is teruggebracht tot het bedrag van het op de ambtenaar te verhalen gedeelte van de pensioenbijdrage, wordt de ambtenaar voor de toepassing van het eerste lid geacht geen salaris te genieten.  
-4.  De ambtenaar die recht heeft op een uitkering op basis van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), wordt voor de toepassing van het eerste lid geacht het salaris te genieten dat hij zou hebben genoten indien hij geen recht zou hebben gehad op een uitkering op basis van genoemde wetten.  
-5.  Bij ontslag van de ambtenaar vindt betaling plaats over het tijdvak gelegen tussen het einde van de laatst verstreken periode waarover de eindejaarsuitkering is betaald en de datum van het ontslag.   
-6.  Voor de berekening van de eindejaarsuitkering wordt uitgegaan van het salaris zonder dat dit is verminderd met het bedrag dat als belastingvrije vergoeding is uitgekeerd voor een bestemmingsmogelijkheid als bedoeld in [artikel 6, tweede lid, van de IKAP-regeling rijkspersoneel](../../../../../../ministeriele-regeling/ikap-regeling/rijkspersoneel/BWBR0015799/README.md).  
+3.  Voor de duur dat de bezoldiging op grond van artikel 18, tweede lid, van het Algemeen Rijksambtenarenreglement of op grond van een bepaling van dezelfde strekking in een soortgelijke regeling is teruggebracht tot het bedrag van het op de ambtenaar te verhalen gedeelte van de pensioenbijdrage, wordt de ambtenaar voor de toepassing van het eerste lid geacht geen salaris te genieten.  
+4.  Bij ontslag van de ambtenaar vindt betaling plaats over het tijdvak gelegen tussen het einde van de laatst verstreken periode waarover de eindejaarsuitkering is betaald en de datum van het ontslag.   
+5.  Voor de berekening van de eindejaarsuitkering wordt uitgegaan van het salaris zonder dat dit is verminderd met het bedrag dat als belastingvrije vergoeding is uitgekeerd voor een bestemmingsmogelijkheid als bedoeld in artikel 6, tweede lid, van de IKAP-regeling rijkspersoneel.  
 
 ### Hoofdstuk  IV  
 
@@ -286,8 +286,8 @@ b. 10% voor de uren op zaterdag en zondag en op de feestdagen genoemd in [artike
 
 1.  De ambtenaar heeft recht op een vakantie-uitkering ten bedrage van 8% van de door hem genoten bezoldiging.   
 2.  De vakantie-uitkering per maand bedraagt ten minste € 156,73 vermenigvuldigd met de voor de ambtenaar geldende arbeidsduurfactor. Bij genot van slechts een gedeelte van zijn bezoldiging, op andere gronden dan vermeld in het derde lid, wordt de vakantie-uitkering naar evenredigheid verminderd.   
-3.   Wanneer de ambtenaar op grond van de [artikelen 17 tot en met 20d](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of van [artikel 37 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of op grond van bepalingen van dezelfde strekking in een soortgelijke regeling slechts een gedeelte van zijn bezoldiging geniet, wordt hij voor de toepassing van het eerste lid geacht in het genot van zijn volle bezoldiging te zijn, met dien verstande dat wanneer het feitelijke genot van de bezoldiging is teruggebracht tot het bedrag van het op de ambtenaar te verhalen gedeelte van de pensioenbijdrage, hij voor de toepassing van het eerste lid wordt geacht geen bezoldiging te genieten.   
-4.  Voor de berekening van de vakantie-uitkering wordt uitgegaan van de bezoldiging zonder dat deze is verminderd met het bedrag dat als belastingvrije vergoeding is uitgekeerd voor een bestemmingsmogelijkheid als bedoeld in [artikel 6, tweede lid, van de IKAP-regeling rijkspersoneel](../../../../../../ministeriele-regeling/ikap-regeling/rijkspersoneel/BWBR0015799/README.md).  
+3.   Wanneer de ambtenaar op grond van de artikelen 17 tot en met 20d of van artikel 37 van het Algemeen Rijksambtenarenreglement of op grond van bepalingen van dezelfde strekking in een soortgelijke regeling slechts een gedeelte van zijn bezoldiging geniet, wordt hij voor de toepassing van het eerste lid geacht in het genot van zijn volle bezoldiging te zijn, met dien verstande dat wanneer het feitelijke genot van de bezoldiging is teruggebracht tot het bedrag van het op de ambtenaar te verhalen gedeelte van de pensioenbijdrage, hij voor de toepassing van het eerste lid wordt geacht geen bezoldiging te genieten.   
+4.  Voor de berekening van de vakantie-uitkering wordt uitgegaan van de bezoldiging zonder dat deze is verminderd met het bedrag dat als belastingvrije vergoeding is uitgekeerd voor een bestemmingsmogelijkheid als bedoeld in artikel 6, tweede lid, van de IKAP-regeling rijkspersoneel.  
 
 ### Artikel  22  
 
@@ -307,16 +307,16 @@ b. 10% voor de uren op zaterdag en zondag en op de feestdagen genoemd in [artike
 
 ### Artikel  22b  
 
-De ambtenaar die is benoemd in een functie van secretaris-generaal, genoemd in [artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), heeft voor de duur van die benoeming aanspraak op een maandelijkse toeslag ter grootte van 5% van zijn salaris. 
+De ambtenaar die is benoemd in een functie van secretaris-generaal, genoemd in artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement, heeft voor de duur van die benoeming aanspraak op een maandelijkse toeslag ter grootte van 5% van zijn salaris. 
 
 ### Artikel  22c  
 
-1. De ambtenaar aan wie, anders dan krachtens een loopbaanregeling als bedoeld in [artikel 13 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in bepalingen van dezelfde strekking in een soortgelijke regeling, op grond van [artikel 57, eerste lid of tweede lid, onder b, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) een andere functie wordt opgedragen, waarbij het belang van de dienst is gelegen in het opdragen van juist die andere functie, heeft recht op een eenmalige mobiliteitstoeslag ter grootte van 50% van zijn salaris, tenzij zijn salaris met ingang van de datum waarop die andere functie wordt opgedragen om die reden wordt verhoogd. 
-2.  Het eerste lid is niet van toepassing op de ambtenaar die met toepassing van [hoofdstuk VIIbis van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is geplaatst in een andere functie. 
+1. De ambtenaar aan wie, anders dan krachtens een loopbaanregeling als bedoeld in artikel 13 van het Algemeen Rijksambtenarenreglement of in bepalingen van dezelfde strekking in een soortgelijke regeling, op grond van artikel 57, eerste lid of tweede lid, onder b, van het Algemeen Rijksambtenarenreglement een andere functie wordt opgedragen, waarbij het belang van de dienst is gelegen in het opdragen van juist die andere functie, heeft recht op een eenmalige mobiliteitstoeslag ter grootte van 50% van zijn salaris, tenzij zijn salaris met ingang van de datum waarop die andere functie wordt opgedragen om die reden wordt verhoogd. 
+2.  Het eerste lid is niet van toepassing op de ambtenaar die met toepassing van hoofdstuk VIIbis van het Algemeen Rijksambtenarenreglement is geplaatst in een andere functie. 
 
 ### Artikel  22d  
 
-1.  De ambtenaar die de spilleeftijd van de Regeling flexibel pensioen en uittreden van 62 jaar heeft bereikt, heeft voor elke periode van twaalf maanden dat hij van de regeling geen of geen volledig gebruik maakt recht op een eenmalige toeslag. De toeslag bedraagt, na aftrek van de verschuldigde loonbelasting/premies volksverzekeringen volgens de tabel bijzondere beloningen ingevolge de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en eventueel verschuldigde (pseudo-)premies ingevolge de sociale werknemersverzekeringen, € 454,00. Bedraagt de voor de ambtenaar geldende arbeidsduurfactor minder dan 1 dan wordt het bedrag van de toeslag vermenigvuldigd met de geldende arbeidsduurfactor.   
+1.  De ambtenaar die de spilleeftijd van de Regeling flexibel pensioen en uittreden van 62 jaar heeft bereikt, heeft voor elke periode van twaalf maanden dat hij van de regeling geen of geen volledig gebruik maakt recht op een eenmalige toeslag. De toeslag bedraagt, na aftrek van de verschuldigde loonbelasting/premies volksverzekeringen volgens de tabel bijzondere beloningen ingevolge de Wet op de loonbelasting 1964 en eventueel verschuldigde (pseudo-)premies ingevolge de sociale werknemersverzekeringen, € 454,00. Bedraagt de voor de ambtenaar geldende arbeidsduurfactor minder dan 1 dan wordt het bedrag van de toeslag vermenigvuldigd met de geldende arbeidsduurfactor.   
 2.  Bij de vaststelling van de hoogte van de toeslag wordt de arbeidsduurfactor aan het einde van de periode van twaalf maanden gehanteerd.   
 3.  Het recht op de in het eerste lid genoemde toeslag ontstaat op de dag van het bereiken van de leeftijd van respectievelijk 63, 64 en 65 jaar.  
 
@@ -332,7 +332,7 @@ De ambtenaar die is benoemd in een functie van secretaris-generaal, genoemd in [
 ### Artikel  23  
 
 1.  Aan de ambtenaar, voor wie een salarisschaal geldt met een lager maximumsalaris dan dat van schaal 11 en die in opdracht van het bevoegde gezag overwerk verricht, wordt, behoudens het bepaalde in het derde lid, een vergoeding toegekend.   
-2.   Onder overwerk wordt verstaan arbeid buiten de werktijden geldende voor de ambtenaar krachtens een werktijdregeling als bedoeld in [artikel 21 van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of in bepalingen van dezelfde strekking in een soortgelijke regeling, voor zover daardoor het per werkperiode vastgestelde aantal arbeidsuren wordt overschreden.   
+2.   Onder overwerk wordt verstaan arbeid buiten de werktijden geldende voor de ambtenaar krachtens een werktijdregeling als bedoeld in artikel 21 van het Algemeen Rijksambtenarenreglement of in bepalingen van dezelfde strekking in een soortgelijke regeling, voor zover daardoor het per werkperiode vastgestelde aantal arbeidsuren wordt overschreden.   
 3.   Voor overwerk dat gedurende korter dan een uur aansluitend aan de vastgestelde dagelijkse werktijd wordt verricht, wordt geen vergoeding toegekend.   
 4.   De werkperiode bedoeld in het tweede lid wordt gesteld op:  
 
@@ -356,8 +356,8 @@ a. behoudens het gestelde onder b, het getal, vermeld in de onderstaande tabel
 | tussen 6 en 22 uur  |  50  | 25   |
 | tussen 22 en 24 uur  | 100  | 50  |
 
-b. De feestdagen, genoemd in [artikel 21, zevende lid, onder *a*, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), worden voor de vergoeding van overwerk gelijkgesteld met een zondag.     
-9.   Voor het vaststellen van de duur van de overschrijding gelden de uren waarop krachtens het vijfde lid onder *a*, of krachtens het [Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) dan wel een overeenkomstige regeling vakantie of verlof is genoten, als uren waarop is gewerkt.   
+b. De feestdagen, genoemd in artikel 21, zevende lid, onder *a*, van het Algemeen Rijksambtenarenreglement, worden voor de vergoeding van overwerk gelijkgesteld met een zondag.     
+9.   Voor het vaststellen van de duur van de overschrijding gelden de uren waarop krachtens het vijfde lid onder *a*, of krachtens het Algemeen Rijksambtenarenreglement dan wel een overeenkomstige regeling vakantie of verlof is genoten, als uren waarop is gewerkt.   
 10.   Aan ambtenaren voor wie verschillende salarisschalen gelden, die ingevolge een opdracht als bedoeld in het eerste lid gelijke werkzaamheden verrichten kan, in afwijking van het in voorgaande leden bepaalde, naar billijkheid een voor alle betrokken ambtenaren gelijke vergoeding worden toegekend. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan voor de toepassing hiervan nadere regels vaststellen.   
 11.   In bijzondere gevallen kan een regeling worden getroffen, welke het bepaalde in de vorige leden aanvult of daarvan afwijkt.  
 
@@ -422,21 +422,22 @@ F. Korthals Altes
 
 | --- | --- |
 |:---|:---|
-|  *Departementen van algemeen bestuur*   |
-| Lid van de topmanagementgroep  | € 9098,26  |
+|  *Departementen van algemeen bestuur*   | --- |
+| Lid van de topmanagementgroep  | € 9.098,26  |
 | --- | --- |
-|  *Hoge Colleges van Staat*   |
-|  *Tweede Kamer der Staten-Generaal*   |
-| Griffier  | € 9098,26  |
+|  *Hoge Colleges van Staat*   | --- |
+|  *Tweede Kamer der Staten-Generaal*   | --- |
+| Griffier  | € 9.098,26  |
+|  *Raad van State*   | --- |
+| Secretaris  | € 9.098,26  |
 | --- | --- |
-|  *Algemene Zaken*   |
-|  *Wetenschappelijke Raad voor het Regeringsbeleid*   |
-| Voorzitter  | € 9098,26  |
+|  *Algemene Zaken*   | --- |
+|  *Wetenschappelijke Raad voor Regeringsbeleid*   | --- |
+| Voorzitter  | € 9.098,26  |
 | --- | --- |
-|  *Buitenlandse Zaken*   |
-| Secretaris-generaal  | € 9098,26  |
-| Directeur-generaal  | € 9098,26  |
-| --- | --- |
+|  *Buitenlandse Zaken*   | --- |
+| Secretaris-generaal  | € 9.098,26  |
+| Directeur-generaal  | € 9.098,26  |
 
 ###Bijlage B 
 

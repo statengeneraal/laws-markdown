@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 6 september 1994, nr. WV94/365, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
 
-Gelet op de [artikelen 1, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [4](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [22, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [30, derde lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [50, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [71, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [72, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [73](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [74, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [artikel 37 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+Gelet op de artikelen 1, tweede lid, 4, 22, tweede lid, 30, derde lid, 50, tweede lid, 71, tweede lid, 72, eerste lid, 73 en 74, eerste lid, van de Wet op de motorrijtuigenbelasting 1994 en artikel 37 van de Algemene wet inzake rijksbelastingen;
 
 De Raad van State gehoord (advies van 21 november 1994, nr. W06.94.0556);
 
@@ -18,13 +18,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Dit besluit geeft uitvoering aan de [artikelen 1, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [4](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [19, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [22, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [23a, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [24a, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [25b](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [30, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [37b, derde lid en vierde lid, onderdeel b](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [71, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [72, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [73](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [74, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [84, van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [artikel 37, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
+Dit besluit geeft uitvoering aan de artikelen 1, tweede lid, 4, 19, eerste lid, 22, tweede lid, 23a, eerste lid, 24a, eerste lid, 25b, 30, tweede lid, 37b, derde lid en vierde lid, onderdeel b, 71, tweede lid, 72, eerste lid, 73, 74, eerste lid, en 84, van de Wet op de motorrijtuigenbelasting 1994 en artikel 37, eerste lid, van de Algemene wet inzake rijksbelastingen.  
 
 ### Artikel  2  
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: [Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);  
+a. wet: Wet op de motorrijtuigenbelasting 1994;  
 
 b. belasting: motorrijtuigenbelasting.   
 
@@ -34,11 +34,11 @@ b. belasting: motorrijtuigenbelasting.
 
 ### Artikel  3  
 
-Met betrekking tot het gebruik van motorrijtuigen als bedoeld in [artikel 1, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), van de wet zijn de krachtens [artikel 37, derde en vierde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gestelde voorwaarden voor het gebruik van die motorrijtuigen en de aldaar bedoelde kentekens van toepassing. 
+Met betrekking tot het gebruik van motorrijtuigen als bedoeld in artikel 1, tweede lid, van de wet zijn de krachtens artikel 37, derde en vierde lid, van de Wegenverkeerswet 1994 gestelde voorwaarden voor het gebruik van die motorrijtuigen en de aldaar bedoelde kentekens van toepassing. 
 
 ### Artikel  4  
 
-Met motorrijwielen als bedoeld in [artikel 2, onderdeel *d* ](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), van de wet worden gelijkgesteld motorrijtuigen op drie of vier wielen die:  
+Met motorrijwielen als bedoeld in artikel 2, onderdeel *d* , van de wet worden gelijkgesteld motorrijtuigen op drie of vier wielen die:  
 
 1°. geschikt zijn voor het vervoer van ten hoogste twee personen;  
 
@@ -70,7 +70,7 @@ c. de datum waarop die installatie is ingebouwd in het motorrijtuig.
 
 ###Artikel 5aa 
 
-1. [Artikel 23a, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) vindt toepassing indien:
+1. Artikel 23a, eerste lid, van de wet vindt toepassing indien:
 
 a. de personenauto een ruimte heeft, gesitueerd achter de zitplaatsen voor de bestuurder en de bijrijder, die een rechthoekig blok kan bevatten van ten minste 170 cm hoogte over een lengte van ten minste 200 cm en over een breedte van ten minste 90 cm; 
 
@@ -91,38 +91,38 @@ c. de slaapaccommodatie, bedoeld in onderdeel b, derde aandachtsstreepje, voldoe
 – indien het een tweepersoonsslaapplaats betreft: een lengte van ten minste 180 cm en een breedte van ten minste 110 cm; of  
 
 – indien het twee of meer afzonderlijke slaapplaatsen betreft: een lengte van ten minste 180 cm en een breedte van ten minste 60 cm, geldend voor ten minste twee slaapplaatsen.   
-2. In afwijking van het eerste lid vindt [artikel 23a, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) mede toepassing, indien de binnenruimte van de personenauto af fabriek geen hoogte van 170 cm maar wel van ten minste 130 cm heeft, en het dak is voorzien van een al dan niet uitklapbare, permanent aangebrachte gesloten dakconstructie waardoor de hoogte over een breedte van ten minste 90 cm en een lengte van ten minste 100 cm verhoogd kan worden tot ten minste 170 cm. 
+2. In afwijking van het eerste lid vindt artikel 23a, eerste lid, van de wet mede toepassing, indien de binnenruimte van de personenauto af fabriek geen hoogte van 170 cm maar wel van ten minste 130 cm heeft, en het dak is voorzien van een al dan niet uitklapbare, permanent aangebrachte gesloten dakconstructie waardoor de hoogte over een breedte van ten minste 90 cm en een lengte van ten minste 100 cm verhoogd kan worden tot ten minste 170 cm. 
 3.  Wanneer aan de binnenkant van de in het eerste en tweede lid bedoelde ruimte materialen zijn aangebracht tegen de wanden, de vloer of het plafond, wordt voor de beoordeling van de vraag of wordt voldaan aan de in het eerste en tweede lid genoemde maten uitgegaan van de aldus verkleinde ruimte.  
-4. De toepassing van [artikel 23a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) vindt plaats op verzoek. 
+4. De toepassing van artikel 23a van de wet vindt plaats op verzoek. 
 5. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het tijdvak. 
 6. Bij het verzoek worden bescheiden overgelegd waaruit blijkt dat wordt voldaan aan de in het eerste lid gestelde voorwaarden, alsmede een opgave van het kenteken van de personenauto. 
-7.  Indien een motorrijtuig waarvoor [artikel 23a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) reeds van toepassing is van houder wisselt, wordt de aanvraag om wijziging van de tenaamstelling van het kentekenbewijs aangemerkt als een verzoek om toepassing van artikel 23a, eerste lid, van de wet. Het vijfde en zesde lid zijn alsdan niet van toepassing.  
+7.  Indien een motorrijtuig waarvoor artikel 23a van de wet reeds van toepassing is van houder wisselt, wordt de aanvraag om wijziging van de tenaamstelling van het kentekenbewijs aangemerkt als een verzoek om toepassing van artikel 23a, eerste lid, van de wet. Het vijfde en zesde lid zijn alsdan niet van toepassing.  
 8. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend. 
-9.  Indien niet of niet langer wordt voldaan aan de voorwaarden voor toepassing van [artikel 23a, eerste of tweede lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), stelt degene aan wie de beschikking is verleend de inspecteur daarvan onverwijld in kennis.  
-10.  Indien niet of niet langer wordt voldaan aan de voorwaarden voor de toepassing van [artikel 23a, eerste of tweede lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), trekt de inspecteur de beschikking in bij voor bezwaar vatbare beschikking.  
+9.  Indien niet of niet langer wordt voldaan aan de voorwaarden voor toepassing van artikel 23a, eerste of tweede lid, van de wet, stelt degene aan wie de beschikking is verleend de inspecteur daarvan onverwijld in kennis.  
+10.  Indien niet of niet langer wordt voldaan aan de voorwaarden voor de toepassing van artikel 23a, eerste of tweede lid, van de wet, trekt de inspecteur de beschikking in bij voor bezwaar vatbare beschikking.  
 11. Indien degene aan wie de beschikking, bedoeld in het achtste lid, is verleend niet voldoet aan de verplichting, bedoeld in het negende lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
 
 ### Artikel  5a  
 
-1. Ten behoeve van eenzelfde gehandicapte vindt [artikel 24a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) toepassing voor één bestelauto. 
-2. [Artikel 24a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) vindt slechts toepassing indien het verzoek daartoe wordt ingediend bij de inspecteur voor de aanvang van het tijdvak, en
+1. Ten behoeve van eenzelfde gehandicapte vindt artikel 24a van de wet toepassing voor één bestelauto. 
+2. Artikel 24a van de wet vindt slechts toepassing indien het verzoek daartoe wordt ingediend bij de inspecteur voor de aanvang van het tijdvak, en
 
 a.bij het verzoek worden overgelegd:
 
-–bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in [artikel 24a, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) die is verstrekt in het kader van een beschikking ingevolge de [Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
+–bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in artikel 24a, eerste lid, van de wet die is verstrekt in het kader van een beschikking ingevolge de Wet maatschappelijke ondersteuning of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen, dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
 
-–een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is afgegeven voor de bestelauto; en
+–een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge artikel 36, tweede lid, van de Wegenverkeerswet 1994 is afgegeven voor de bestelauto; en
 
-b.de bestelauto uitsluitend wordt gebruikt voor het in [artikel 24a, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, in geval dit een ander is, van de houder van de bestelauto. 
-3. Indien [artikel 24a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) reeds wordt toegepast voor een andere bestelauto ten behoeve van de gehandicapte, wordt in het verzoek vermeld vanaf welke datum de bestelauto waarop het verzoek betrekking heeft die andere bestelauto vervangt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer.
-4. De beschikking bedoeld in [artikel 24a, zesde lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) werkt terug tot op het tijdstip waarop het verzoek is ingediend, tenzij in de beschikking anders is bepaald.
-5. Telkens vóór het einde van het vierde opeenvolgende tijdvak, gerekend vanaf het tijdstip waarop de beschikking van kracht is geworden, wordt een verklaring van de gehandicapte en, in geval dit een ander is, de houder overgelegd dat de bestelauto uitsluitend wordt gebruikt voor het in het tweede lid, onderdeel b, bedoelde gebruik en dat de bestelauto niet in een zodanige staat is gebracht, anders dan door een aanpassing als bedoeld in het [artikel 24a, tweede lid,van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), dat het een personenauto is.
-6. Indien niet langer wordt voldaan aan de voorwaarden en beperkingen voor de toepassing van [artikel 24a van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in [artikel 17, tweede lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), of artikel 24a, vierde lid, van de wet, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop niet langer aan de voorwaarden en beperkingen van artikel 24a van de wet wordt voldaan.
+b.de bestelauto uitsluitend wordt gebruikt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, in geval dit een ander is, van de houder van de bestelauto. 
+3. Indien artikel 24a van de wet reeds wordt toegepast voor een andere bestelauto ten behoeve van de gehandicapte, wordt in het verzoek vermeld vanaf welke datum de bestelauto waarop het verzoek betrekking heeft die andere bestelauto vervangt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer.
+4. De beschikking, bedoeld in artikel 24a, zevende lid, van de wet, werkt terug tot op het tijdstip waarop het verzoek is ingediend, tenzij in de beschikking anders is bepaald.
+5. Telkens vóór het einde van het vierde opeenvolgende tijdvak, gerekend vanaf het tijdstip waarop de beschikking van kracht is geworden, wordt een verklaring van de gehandicapte en, in geval dit een ander is, de houder overgelegd dat de bestelauto uitsluitend wordt gebruikt voor het in het tweede lid, onderdeel b, bedoelde gebruik en dat de bestelauto niet in een zodanige staat is gebracht, anders dan door een aanpassing als bedoeld in het artikel 24a, tweede lid,van de wet, dat het een personenauto is.
+6. Indien niet langer wordt voldaan aan de voorwaarden en beperkingen voor de toepassing van artikel 24a van de wet, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in artikel 17, tweede lid, of artikel 24a, vierde lid, van de wet, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop niet langer aan de voorwaarden en beperkingen van artikel 24a van de wet wordt voldaan.
 
 ### Artikel  5b  
 
-1.   [Artikel 25*b* ](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) van de wet vindt toepassing voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, indien met het motorrijtuig niet wordt gereden op autowegen en autosnelwegen.    
-2.   De toepassing van [artikel 25*b* ](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) van de wet vindt plaats op verzoek.   
+1.   Artikel 25*b*  van de wet vindt toepassing voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, indien met het motorrijtuig niet wordt gereden op autowegen en autosnelwegen.    
+2.   De toepassing van artikel 25*b*  van de wet vindt plaats op verzoek.   
 3.   Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak.   
 4.   Bij het verzoek worden een of meer foto’s overgelegd waaruit blijkt dat het motorrijtuig op de in het eerste lid vermelde wijze is ingericht en waarop het kenteken duidelijk waarneembaar is.   
 5.  Bij het verzoek wordt een verklaring overgelegd dat als het motorrijtuig niet meer voldoet aan de in het eerste lid genoemde voorwaarden een opgaaf aan de inspecteur zal worden gedaan.   
@@ -132,17 +132,17 @@ b.de bestelauto uitsluitend wordt gebruikt voor het in [artikel 24a, eerste lid,
 
 ### Artikel  6  
 
-1.   [Artikel 30 van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) vindt toepassing voor  
+1.   Artikel 30 van de wet vindt toepassing voor  
 
 a. een motorrijtuig dat wordt gebruikt voor het vervoer van kermis- of circusbenodigdheden: indien het motorrijtuig uitsluitend als zodanig wordt gebruikt en wordt gehouden door een kermis- of circusexploitant;  
 
-b. een motorrijtuig dat is ingericht als werktuig: indien het motorrijtuig als zodanig uiterlijk herkenbaar is, het als zodanig wordt gebruikt op vaste plaatsen en daarmee niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop [artikel 30, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;   
+b. een motorrijtuig dat is ingericht als werktuig: indien het motorrijtuig als zodanig uiterlijk herkenbaar is, het als zodanig wordt gebruikt op vaste plaatsen en daarmee niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop artikel 30, eerste lid, van de wet van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;   
 
-c. een motorrijtuig dat is ingericht als werkplaats: indien het motorrijtuig is voorzien van een laadruimte waarin permanent een werkbank is aangebracht, het met het oog op de te verrichten werkzaamheden noodzakelijke gereedschap permanent daarin aanwezig is, het motorrijtuig uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop [artikel 30, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;   
+c. een motorrijtuig dat is ingericht als werkplaats: indien het motorrijtuig is voorzien van een laadruimte waarin permanent een werkbank is aangebracht, het met het oog op de te verrichten werkzaamheden noodzakelijke gereedschap permanent daarin aanwezig is, het motorrijtuig uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop artikel 30, eerste lid, van de wet van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;   
 
 d. een motorrijtuig dat is ingericht voor het vervoer van paarden: indien het motorrijtuig uitsluitend niet-beroepsmatig ten behoeve van de paardensport wordt gebruikt en de houder van het motorrijtuig een verklaring overlegt waaruit dit blijkt.     
-2.  De toepassing van [artikel 30, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) vindt plaats op verzoek.    
-3.  Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het eerste tijdvak waarover om de toepassing van [artikel 30, eerste lid, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) wordt verzocht.    
+2.  De toepassing van artikel 30, eerste lid, van de wet vindt plaats op verzoek.    
+3.  Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het eerste tijdvak waarover om de toepassing van artikel 30, eerste lid, van de wet wordt verzocht.    
 4.  Bij het verzoek worden bescheiden overgelegd waaruit blijkt dat wordt voldaan aan de in het eerste lid gestelde voorwaarden, alsmede een opgave van het kenteken van het motorrijtuig.    
 5.  Wanneer een motorrijtuig niet meer voldoet aan de in het eerste lid gestelde voorwaarden doet de belastingplichtige daarvan opgaaf aan de inspecteur.   
 6.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.  Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het eerste tijdvak aanvangt waarop het verzoek betrekking heeft.   
@@ -157,28 +157,28 @@ d. een motorrijtuig dat is ingericht voor het vervoer van paarden: indien het mo
 
 De inspecteur verleent een vergunning voor een bedrijfsvoertuigenpark onder de nadere voorwaarden en beperkingen dat:  
 
-a. tot het bedrijfsvoertuigenpark geen vrachtauto’s behoren ten aanzien waarvan [artikel 25b van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [artikel 30 van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) of een vrijstelling als bedoeld in hoofdstuk VIII van de wet van toepassing is;  
+a. tot het bedrijfsvoertuigenpark geen vrachtauto’s behoren ten aanzien waarvan artikel 25b van de wet, artikel 30 van de wet of een vrijstelling als bedoeld in hoofdstuk VIII van de wet van toepassing is;  
 
 b. vervallen;  
 
 c. het verzoek tijdig is ingediend, tezamen met de overeenkomstig ministeriële regeling vereiste gegevens;   
 
-d. de inspecteur niet in de drie jaren, voorafgaand aan het verzoek om een vergunning, een eerder aan de aanvrager verleende vergunning heeft ingetrokken op de voet van [artikel 37b, vijfde lid, aanhef en onderdelen a of b, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);  
+d. de inspecteur niet in de drie jaren, voorafgaand aan het verzoek om een vergunning, een eerder aan de aanvrager verleende vergunning heeft ingetrokken op de voet van artikel 37b, vijfde lid, aanhef en onderdelen a of b, van de wet;  
 
 e. de houder schriftelijk verklaart wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens aan de inspecteur te melden.   
 
 ### Artikel  7b  
 
-1.  De vergunning, bedoeld in [artikel 37a](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) van de wet kan slechts op verzoek worden gewijzigd indien gedurende het jaar waarvoor zij is afgegeven: 
+1.  De vergunning, bedoeld in artikel 37b van de wet, kan slechts op verzoek worden gewijzigd indien gedurende het jaar waarvoor zij is afgegeven: 
 
 a. een vrachtauto, behorende tot het bedrijfsvoertuigenpark, wordt verkocht, gesloopt of definitief naar het buitenland wordt overgebracht;  
 
-b. een vrachtauto, anders dan bedoeld in onderdeel a, uit het bedrijfsvoertuigenpark wordt genomen, met dien verstande dat de vrachtauto voor de berekening van de teruggaaf krachtens [artikel 37c](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) van de wet wordt geacht gedurende het jaar geen deel te hebben uitgemaakt van het bedrijfsvoertuigenpark;  
+b. een vrachtauto, anders dan bedoeld in onderdeel a, uit het bedrijfsvoertuigenpark wordt genomen, met dien verstande dat de vrachtauto voor de berekening van de teruggaaf krachtens artikel 37c van de wet wordt geacht gedurende het jaar geen deel te hebben uitgemaakt van het bedrijfsvoertuigenpark;  
 
 c. een aanhangwagen, behorende tot het bedrijfsvoertuigenpark, wordt verkocht, gesloopt of definitief naar het buitenland wordt overgebracht;  
 
 d. een aanhangwagen in het bedrijfsvoertuigenpark wordt opgenomen.     
-2.   De vergunning wordt niet ingetrokken indien het eerste lid, onderdeel a of b, zich voordoet en daarmee de verhouding tussen en het aantal vrachtauto’s en het aantal aanhangwagens niet meer voldoet aan het bepaalde in [artikel 37b, tweede lid, onderdeel g](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), van de wet, tenzij sprake is van misbruik als bedoeld in het vijfde lid, onderdeel b, van dat artikel.   
+2.   De vergunning wordt niet ingetrokken indien het eerste lid, onderdeel a of b, zich voordoet en daarmee de verhouding tussen en het aantal vrachtauto’s en het aantal aanhangwagens niet meer voldoet aan het bepaalde in artikel 37b, tweede lid, onderdeel g, van de wet, tenzij sprake is van misbruik als bedoeld in het vijfde lid, onderdeel b, van dat artikel.   
 
 ### Hoofdstuk  IV  
 
@@ -194,7 +194,7 @@ a. de personenauto uiterlijk herkenbaar is als ambulance en is voorzien van:
 
 – een duidelijk zichtbaar blauw zwaai- of knipperlicht; en    
 
-b. de personenauto wordt gebruikt door de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md), of bij de ambulancezorg waarvoor op grond van [artikel 11 van de Tijdelijke wet ambulancezorg](../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md) vrijstelling is verleend.   
+b. de personenauto wordt gebruikt door de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg, of bij de ambulancezorg waarvoor op grond van artikel 11 van de Tijdelijke wet ambulancezorg vrijstelling is verleend.   
 
 ### Artikel  9  
 
@@ -220,12 +220,12 @@ d. voorzieningen voor vervoer en verzorging van zieke of gewonde dieren.
 
 ### Artikel  12  
 
-1.  De vrijstelling van belasting, bedoeld in [artikel 72, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in [hoofdstuk XA van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangehouden register van opgegeven kentekens, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.   
+1.  De vrijstelling van belasting, bedoeld in artikel 72, eerste lid, onderdeel b, van de wet wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in hoofdstuk XA van de wet, wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.   
 2.  De vrijstelling, bedoeld in het eerste lid, wordt voor zover het vrachtauto’s en autobussen betreft slechts verleend, indien de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig uitsluitend niet-bedrijfsmatig wordt gebruikt.  
 
 ### Artikel  13  
 
-Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt voor defensie wordt verleend indien voor die motorrijtuigen de [artikelen 4, eerste lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [37, eerste lid, onderdeel *c*, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van toepassing zijn. 
+Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt voor defensie wordt verleend indien voor die motorrijtuigen de artikelen 4, eerste lid, en 37, eerste lid, onderdeel *c*, van de Wegenverkeerswet 1994 van toepassing zijn. 
 
 ### Artikel  14  
 
@@ -247,13 +247,13 @@ b. het motorrijtuig is voorzien van:
 - ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van een brandweerembleem dan wel in voorkomend geval een gemeentewapen, welke afbeeldingen alle een oppervlakte hebben van ten minste 314 cm²; en     
 
 c. het motorrijtuig uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak.      
-3.  Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in [artikel 31 van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+3.  Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in artikel 31 van de Wet veiligheidsregio’s.  
 
 ### Artikel  17  
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen wordt verleend indien:  
 
-a. het kenteken van het motorrijtuig op naam van een openbaar lichaam of van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet, is ingeschreven in het krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangehouden register van opgegeven kentekens; en  
+a. het kenteken van het motorrijtuig op naam van een openbaar lichaam of van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet, is ingeschreven in het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens; en  
 
 b. de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig is ingericht en uitsluitend wordt gebruikt als een in de aanhef genoemd motorrijtuig.   
 
@@ -275,17 +275,17 @@ b. de houder van het motorrijtuig een verklaring overlegt dat met het motorrijtu
 
 ### Artikel  22  
 
-Vrijstelling van belasting voor motorrijtuigen waarmee met het oog op een ingevolge [hoofdstuk V van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) te verrichten keuring van het motorrijtuig tijdens een voor het motorrijtuig geldende schorsing gebruik van de weg wordt gemaakt op de dag waarop dat motorrijtuig naar aanleiding van de aanvraag van een keuringsbewijs aan een keuring wordt onderworpen, wordt verleend indien bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig op de desbetreffende dag aan een keuring zal worden onderworpen. 
+Vrijstelling van belasting voor motorrijtuigen waarmee met het oog op een ingevolge hoofdstuk V van de Wegenverkeerswet 1994 te verrichten keuring van het motorrijtuig tijdens een voor het motorrijtuig geldende schorsing gebruik van de weg wordt gemaakt op de dag waarop dat motorrijtuig naar aanleiding van de aanvraag van een keuringsbewijs aan een keuring wordt onderworpen, wordt verleend indien bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig op de desbetreffende dag aan een keuring zal worden onderworpen. 
 
 ### Artikel  23  
 
-1.  Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien:  
+1.  Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de Wet personenvervoer 2000 afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien:  
 
 a. een afschrift van de vergunning of van het vergunningbewijs wordt overgelegd;  
 
 b. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat is afgegeven voor het motorrijtuig wordt overgelegd; en  
 
-c. een verklaring wordt overgelegd van de exploitant van het motorrijtuig dat het motorrijtuig geheel of nagenoeg geheel wordt gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de [Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).     
+c. een verklaring wordt overgelegd van de exploitant van het motorrijtuig dat het motorrijtuig geheel of nagenoeg geheel wordt gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de Wet personenvervoer 2000.     
 2.   Op een met de inspecteur afgesproken tijdstip worden jaarlijks een afschrift als bedoeld in het eerste lid, onderdeel a, en een verklaring als bedoeld in het eerste lid, onderdeel c, overgelegd.  
 
 ### Artikel  25  
@@ -317,22 +317,22 @@ a.het motorrijtuig vanuit het andere land in Nederland ter beschikking staat van
 b.de houder, indien van toepassing daaronder begrepen zijn inwonende gezinsleden, met het motorrijtuig geen gebruik heeft gemaakt van de weg in Nederland in de twaalf maanden voorafgaand aan de periode van terbeschikkingstelling in Nederland; en
 
 c.een beroep op de vrijstelling wordt gedaan vóór aanvang van het gebruik van de weg met het motorrijtuig in Nederland, door middel van een elektronische melding. 
-2. Ingeval voor het motorrijtuig een beroep wordt gedaan op de vrijstelling van belasting van personenauto’s en motorrijwielen ingevolge [artikel 3a van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](../../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md), geldt dit mede als een beroep op de vrijstelling ingevolge het eerste lid, onderdeel c.
+2. Ingeval voor het motorrijtuig een beroep wordt gedaan op de vrijstelling van belasting van personenauto’s en motorrijwielen ingevolge artikel 3a van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992, geldt dit mede als een beroep op de vrijstelling ingevolge het eerste lid, onderdeel c.
 3. Indien voor een motorrijtuig waarvoor een beroep op de vrijstelling is gedaan niet of niet langer wordt voldaan aan een in het eerste lid genoemde voorwaarde, stelt degene aan wie de vrijstelling is verleend, de inspecteur daarvan onverwijld in kennis. 
-4.  Indien de houder of een inwonend gezinslid van de houder met het motorrijtuig opnieuw gebruikmaakt van de weg in Nederland in de vijftig weken volgend op de periode van twee weken waarvoor vrijstelling van belasting als bedoeld in het eerste lid werd verleend, vangt, in afwijking in zoverre van [artikel 13, eerste lid](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), het tijdvak aan met ingang van de eerste dag van het gebruik van de weg na het verstrijken van die vrijstelling tenzij wordt aangetoond met ingang van welke dag het in het buitenland geregistreerd motorrijtuig in Nederland ter beschikking heeft gestaan in welk geval het tijdvak aanvangt met die datum. 
+4.  Indien de houder of een inwonend gezinslid van de houder met het motorrijtuig opnieuw gebruikmaakt van de weg in Nederland in de vijftig weken volgend op de periode van twee weken waarvoor vrijstelling van belasting als bedoeld in het eerste lid werd verleend, vangt, in afwijking in zoverre van artikel 13, eerste lid, van de wet, het tijdvak aan met ingang van de eerste dag van het gebruik van de weg na het verstrijken van die vrijstelling tenzij wordt aangetoond met ingang van welke dag het in het buitenland geregistreerd motorrijtuig in Nederland ter beschikking heeft gestaan in welk geval het tijdvak aanvangt met die datum. 
 5. Indien het beroep op de vrijstelling, bedoeld in het eerste lid, onderdeel c, daaronder begrepen een beroep op de vrijstelling als bedoeld in het tweede lid, elektronisch wordt ingetrokken vóór de dag waarop volgens het elektronische beroep op de vrijstelling het gebruik in Nederland van de weg aanvangt, geldt het beroep als niet gedaan.
 
 ### Artikel  27  
 
 1. De vrijstellingen, bedoeld in de artikelen 8 tot en met 10, 13, 14, 17, 19, 21, 23, 25 en 26, worden op verzoek verleend. De vrijstelling, bedoeld in artikel 12, wordt voor vrachtauto’s en autobussen op verzoek verleend. 
-2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](../../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](../../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge artikel 25 onderscheidenlijk artikel 26 van dit besluit. 
+2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge artikel 2 of artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992, geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge artikel 25 onderscheidenlijk artikel 26 van dit besluit. 
 3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, onderscheidenlijk van het gebruik van de weg in Nederland met het motorrijtuig. 
 4. Bij het verzoek worden de bescheiden die van belang zijn voor de toepassing van de vrijstelling overgelegd, alsmede een opgave van het kenteken van het motorrijtuig. 
 5. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. De vrijstelling werkt, tenzij in de beschikking anders is bepaald, terug tot op het tijdstip waarop het verzoek is ingediend. 
 6. Indien niet of niet langer wordt voldaan aan de voorwaarden van de vrijstelling, of indien het motorrijtuig wordt afgestoten, stelt degene aan wie de vrijstelling is verleend, de inspecteur daarvan onverwijld in kennis. 
 7. Indien niet langer aan de voorwaarden van de vrijstelling wordt voldaan, trekt de inspecteur de vrijstelling in bij voor bezwaar vatbare beschikking. 
 8. Indien degene aan wie de vrijstelling is verleend niet voldoet aan de verplichting, bedoeld in het zesde lid, vervalt de vrijstelling op het tijdstip waarop niet langer aan de voorwaarden van de vrijstelling wordt voldaan.
-9. Bij beëindiging van de vrijstelling wordt de belasting verschuldigd over het resterende gedeelte van het lopende tijdvak, met dien verstande dat voor motorrijtuigen die niet zijn geregistreerd in het register, bedoeld in [artikel 7, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), de belasting verschuldigd wordt vanaf de dag waarop de vrijstelling is beëindigd. 
+9. Bij beëindiging van de vrijstelling wordt de belasting verschuldigd over het resterende gedeelte van het lopende tijdvak, met dien verstande dat voor motorrijtuigen die niet zijn geregistreerd in het register, bedoeld in artikel 7, eerste lid, onderdeel a, van de wet, de belasting verschuldigd wordt vanaf de dag waarop de vrijstelling is beëindigd. 
 
 ### Artikel  28  
 
@@ -344,9 +344,9 @@ c.een beroep op de vrijstelling wordt gedaan vóór aanvang van het gebruik van 
 
 ### Artikel  29  
 
-1.  Voor motorrijtuigen die zijn geregistreerd in een ander land en die in Nederland feitelijk ter beschikking staan aan natuurlijke personen die hun hoofdverblijf buiten Nederland hebben, wordt, op basis van internationaal recht, vrijstelling van belasting verleend voor de periode, genoemd in dat internationale recht. Natuurlijke personen die niet zijn ingeschreven in de basisadministratie van persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), of niet verplicht zijn tot het doen van aangifte van verblijf en adres ingevolge [artikel 65 van die wet](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), worden geacht hun hoofdverblijf buiten Nederland te hebben.   
+1.  Voor motorrijtuigen die zijn geregistreerd in een ander land en die in Nederland feitelijk ter beschikking staan aan natuurlijke personen die hun hoofdverblijf buiten Nederland hebben, wordt, op basis van internationaal recht, vrijstelling van belasting verleend voor de periode, genoemd in dat internationale recht. Natuurlijke personen die niet zijn ingeschreven in de basisregistratie personen, genoemd in artikel 1.2 van de Wet basisregistratie personen, of niet verplicht zijn tot het doen van aangifte van verblijf en adres ingevolge artikel 2.38 van die wet, worden geacht hun hoofdverblijf buiten Nederland te hebben.   
 2.  De vrijstelling, bedoeld in het eerste lid, wordt in ieder geval verleend indien het motorrijtuig incidenteel in Nederland wordt gebruikt. Aan de voorwaarde van incidenteel gebruik wordt voldaan indien het motorrijtuig binnen een periode van twaalf maanden ten hoogste drie maanden al dan niet ononderbroken in Nederland wordt gebruikt.   
-3.  Voor motorrijtuigen die niet worden gebruikt voor het vervoeren van goederen of personen tegen betaling bedraagt de periode, bedoeld in het eerste lid, voor een houder als bedoeld in [artikel 7, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) die zijn hoofdverblijf in een andere lidstaat heeft: 
+3.  Voor motorrijtuigen die niet worden gebruikt voor het vervoeren van goederen of personen tegen betaling bedraagt de periode, bedoeld in het eerste lid, voor een houder als bedoeld in artikel 7, eerste lid, onderdeel c, van de wet die zijn hoofdverblijf in een andere lidstaat heeft: 
 
 a. zes maanden al dan niet ononderbroken per tijdvak van twaalf maanden vanaf de dag waarop het gebruik van de weg in Nederland aanvangt indien deze houder het motorrijtuig bezigt voor persoonlijk gebruik;  
 
@@ -360,7 +360,7 @@ c. de duur van de studie van de houder indien hij uitsluitend in Nederland verbl
 
 ### Artikel  30  
 
-1.  Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van artikel 27 dat:  
+1.  Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van artikel 9 van de Wet op de motorrijtuigenbelasting 1966, en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van artikel 27 dat:  
 
 a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;  
 
