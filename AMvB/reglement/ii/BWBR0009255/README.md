@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 19 september 1997, Directie Wetgeving, nr. 653157/97/6; 
 
-Gelet op [artikel 19 van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md); 
+Gelet op artikel 19 van de Wet op de rechterlijke organisatie; 
 
 De Raad van State gehoord (advies van 6 november 1997, nr. W03.79.0609); 
 

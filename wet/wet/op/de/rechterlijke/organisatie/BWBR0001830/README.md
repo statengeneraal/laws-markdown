@@ -1391,7 +1391,7 @@ d. rechterlijke ambtenaren in opleiding.
 5. De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de rechtbank.
 
 ### Artikel  137b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij het parket centrale verwerking openbaar ministerie zijn werkzaam: 
 

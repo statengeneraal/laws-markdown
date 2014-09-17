@@ -747,7 +747,7 @@ d. in het geval het vervoer van schapen of geiten betreft de gegevens, bedoeld i
 ### Artikel  35  
 
 1. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen in derde landen, alsmede in lidstaten waar een uitbraak van een besmettelijke dierziekte als bedoeld in artikel 2, onderdeel a, b, c, d, l, s, t, u, v, x, y of z, bij gehouden dieren is bevestigd, en vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge artikel 26, eerste lid, erkende reiniging- en ontsmettingsplaats voor vervoermiddelen. De vervoerder overlegt binnen 24 uur na binnenkomst in Nederland aan de NVWA een bewijs van de reiniging en ontsmetting waaruit in ieder geval blijkt welk lokaal referentienummer en voor zover van toepassing welk referentienummer van het certificaat, bedoeld in verordening (EG) nr. 599/2004, het meest recentelijk voor het desbetreffende vervoermiddel is afgegeven.  
-2.  Het eerste lid is van overeenkomstige toepassing op een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen in Litouwen of Polen en vanuit daar anders dan in doorvoer leeg in Nederland wordt gebracht. 
+2.  Het eerste lid is van overeenkomstige toepassing op een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen in Litouwen, Polen of Estland en vanuit daar anders dan in doorvoer leeg in Nederland wordt gebracht. 
 
 ### Hoofdstuk 4 
 

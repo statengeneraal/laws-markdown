@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, mede ter uitvoering van [artikel 117, vierde lid, van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is de Wet rechtspositie rechterlijke ambtenaren uit te breiden met onder meer de onderwerpen omvang van de taak, arbeidstijd, vakantie en verlof, en dat het in verband daarmee gewenst is deze wet opnieuw vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het, mede ter uitvoering van artikel 117, vierde lid, van de Grondwet, wenselijk is de Wet rechtspositie rechterlijke ambtenaren uit te breiden met onder meer de onderwerpen omvang van de taak, arbeidstijd, vakantie en verlof, en dat het in verband daarmee gewenst is deze wet opnieuw vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-b. rechterlijke ambtenaren: de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);  
+b. rechterlijke ambtenaren: de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, van de Wet op de rechterlijke organisatie;  
 
 c. salaris: het bedrag waarop de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding in verband met het vervullen van een ambt, met inachtneming van het bij of krachtens de artikelen 7, 9, eerste en derde lid, en 13 tot en met 16 van deze wet bepaalde, aanspraak heeft;  
 
@@ -26,11 +26,11 @@ d. bezoldiging: het salaris van de rechterlijk ambtenaar of rechterlijk ambtenaa
 
 e. ambt: de door de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding te vervullen functie; 
 
-f. rector: degene die krachtens [artikel 145 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als rector van de opleiding van de rechterlijke ambtenaren in opleiding is aangewezen;  
+f. rector: degene die krachtens artikel 145 van de Wet op de rechterlijke organisatie als rector van de opleiding van de rechterlijke ambtenaren in opleiding is aangewezen;  
 
 g.  burgerlijke rijksambtenaren: degenen die door het Rijk zijn aangesteld om in burgerlijke openbare dienst werkzaam te zijn;  
 
-h. rechterlijke ambtenaren in opleiding: de rechterlijke ambtenaren in opleiding, bedoeld in [artikel 145 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).     
+h. rechterlijke ambtenaren in opleiding: de rechterlijke ambtenaren in opleiding, bedoeld in artikel 145 van de Wet op de rechterlijke organisatie.     
 2.  In deze wet en de daarop berustende bepalingen wordt verstaan onder functionele autoriteit: 
 
 a. ten aanzien van de rechterlijke ambtenaren die werkzaam zijn bij een rechtbank en de rechterlijke ambtenaren in opleiding, voorzover de opleiding wordt doorgebracht bij een rechtbank: het bestuur van die rechtbank;  
@@ -102,12 +102,12 @@ Tot rechterlijk ambtenaar kan alleen een Nederlander worden benoemd.
 
 1.  Tot rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding kan worden benoemd degene: 
 
-a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit dan wel de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de graad Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;  
+a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit dan wel de Open Universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de graad Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;  
 
-b. die op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), het recht om de titel meester te voeren heeft verkregen.     
-2.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
-3.  Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld met betrekking tot de beroepsvereisten voor de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 1° tot en met 7° en 9°, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en de rechterlijke ambtenaren in opleiding.   
-4.  Aan de bij of krachtens het eerste tot en met derde lid gestelde beroepsvereisten wordt tevens voldaan indien de betrokkene beschikt over een ten aanzien van het door hem uit te oefenen beroep verleende erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md). 
+b. die op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, het recht om de titel meester te voeren heeft verkregen.     
+2.  Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
+3.  Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld met betrekking tot de beroepsvereisten voor de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, onder 1° tot en met 7° en 9°, van de Wet op de rechterlijke organisatie, en de rechterlijke ambtenaren in opleiding.   
+4.  Aan de bij of krachtens het eerste tot en met derde lid gestelde beroepsvereisten wordt tevens voldaan indien de betrokkene beschikt over een ten aanzien van het door hem uit te oefenen beroep verleende erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties. 
 
 ### Artikel  5a  
 
@@ -238,7 +238,7 @@ e. wordt een plaatsvervangend officier enkelvoudige zittingen gelijkgesteld met 
 4.  Bij ontstentenis van een weduwe of weduwnaar van wie de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding niet duurzaam gescheiden leefde, geschiedt de uitkering ten behoeve van de minderjarige kinderen. Onder kinderen worden mede verstaan natuurlijke kinderen waarover de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor.   
 5.  Ontbreken ook minderjarige kinderen, dan geschiedt, indien de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding kostwinner was van ouders, meerderjarige kinderen, broers of zusters, de uitkering ten behoeve van deze nagelaten betrekkingen.   
 6.  Indien de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding geen betrekkingen als bedoeld in het tweede tot en met vijfde lid nalaat, kan het in het tweede lid bedoelde bedrag geheel of gedeeltelijk worden uitgekeerd voor de betaling van de kosten die in verband met lijkbezorging en de aan het overlijden voorafgaande ziekte zijn gemaakt, indien de nalatenschap van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding voor de betaling van die kosten ontoereikend is.   
-7.  Op het bedrag, bedoeld in het tweede en derde lid, wordt in mindering gebracht een uitkering op grond van [artikel 35 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), een uitkering op grond van [artikel 74 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), een uitkering op grond van [artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of een naar aard en strekking daarmee overeenkomende uitkering, indien deze uitkeringen worden uitgekeerd. Indien een uitkering als bedoeld in de eerste volzin zowel uit een benoeming in een rechterlijk ambt als uit een of meer andere betrekkingen voortvloeit, wordt voor de toepassing van de eerste volzin onder uitkering verstaan het gedeelte van de uitkering dat aan de benoeming in het rechterlijk ambt kan worden toegerekend. 
+7.  Op het bedrag, bedoeld in het tweede en derde lid, wordt in mindering gebracht een uitkering op grond van artikel 35 van de Ziektewet, een uitkering op grond van artikel 74 van de Wet werk en inkomen naar arbeidsvermogen, een uitkering op grond van artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering of een naar aard en strekking daarmee overeenkomende uitkering, indien deze uitkeringen worden uitgekeerd. Indien een uitkering als bedoeld in de eerste volzin zowel uit een benoeming in een rechterlijk ambt als uit een of meer andere betrekkingen voortvloeit, wordt voor de toepassing van de eerste volzin onder uitkering verstaan het gedeelte van de uitkering dat aan de benoeming in het rechterlijk ambt kan worden toegerekend. 
 
 ### Artikel  18a  
 
@@ -292,7 +292,7 @@ Vervallen per 01-07-2010
 
 ### Artikel  40  
 
-Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding worden op zondagen en dagen die bij of krachtens de [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) zijn aangemerkt als algemeen erkende feestdagen geen werkzaamheden opgedragen, tenzij het dienstbelang dit naar het oordeel van de functionele autoriteit onvermijdelijk maakt. 
+Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding worden op zondagen en dagen die bij of krachtens de Algemene termijnenwet zijn aangemerkt als algemeen erkende feestdagen geen werkzaamheden opgedragen, tenzij het dienstbelang dit naar het oordeel van de functionele autoriteit onvermijdelijk maakt. 
 
 ### Artikel  41  
 
@@ -315,7 +315,7 @@ Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding worden op zo
 1.  Een niet voor het leven benoemde rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding onthoudt zich van het openbaren van gedachten of gevoelens en van de uitoefening van de rechten tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten naar het oordeel van de functionele autoriteit de goede vervulling van het ambt of het goede functioneren van de rechterlijke macht niet in redelijkheid zou zijn verzekerd.   
 2.  Het eerste lid is, voor zover het betreft het recht van vereniging, niet van toepassing op het lidmaatschap van: 
 
-a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de [Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md), of  
+a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de Kieswet, of  
 
 b. een vakvereniging.    
 
@@ -469,27 +469,27 @@ c. naar het oordeel van de functionele autoriteit duurzame reïntegratie in de e
 
 a.perioden van ongeschiktheid tot het verrichten van arbeid als gevolg van zwangerschap voorafgaand aan het zwangerschapsverlof; en
 
-b.perioden van ongeschiktheid tot het verrichten van arbeid tijdens het zwangerschaps- en bevallingsverlof, bedoeld in [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md). 
+b.perioden van ongeschiktheid tot het verrichten van arbeid tijdens het zwangerschaps- en bevallingsverlof, bedoeld in artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg. 
 3. Voor de berekening van het tijdvak van twee jaar, bedoeld in het eerste lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid, anders dan bedoeld in het tweede lid, samengeteld:
 
 a.indien zij elkaar met een onderbreking van minder dan vier weken opvolgen; of
 
-b.indien de ene periode van ongeschiktheid direct voorafgaat aan en de andere periode van ongeschiktheid direct aansluit op het tijdvak gedurende welke zwangerschaps- en bevallingsverlof als bedoeld in [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) wordt genoten, en de ongeschiktheid in deze perioden redelijkerwijs geacht kan worden voort te vloeien uit dezelfde oorzaak.  
+b.indien de ene periode van ongeschiktheid direct voorafgaat aan en de andere periode van ongeschiktheid direct aansluit op het tijdvak gedurende welke zwangerschaps- en bevallingsverlof als bedoeld in artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg wordt genoten, en de ongeschiktheid in deze perioden redelijkerwijs geacht kan worden voort te vloeien uit dezelfde oorzaak.  
 4. Het tijdvak van twee jaar, bedoeld in het eerste lid, onderdeel a, wordt verlengd:
 
-a.indien de aangifte, bedoeld in [artikel 38, eerste lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), later is gedaan dan op grond van dat artikel is voorgeschreven, met de duur van die vertraging;
+a.indien de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet, later is gedaan dan op grond van dat artikel is voorgeschreven, met de duur van die vertraging;
 
-b.indien de aanvraag, bedoeld in [artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), later wordt gedaan dan in of op grond van dat artikel is voorgeschreven, met de duur van die vertraging;
+b.indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen, later wordt gedaan dan in of op grond van dat artikel is voorgeschreven, met de duur van die vertraging;
 
-c.indien de wachttijd, bedoeld in [artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), op grond van het zevende lid van dat artikel is verlengd, met de duur van die verlenging; en
+c.indien de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, op grond van het zevende lid van dat artikel is verlengd, met de duur van die verlenging; en
 
-d.indien het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), op grond van [artikel 24, eerste lid](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), of [artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel op grond van [artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) een tijdvak heeft vastgesteld, met de duur van dit tijdvak. 
+d.indien het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, op grond van artikel 24, eerste lid, of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering een tijdvak heeft vastgesteld, met de duur van dit tijdvak. 
 5.  In afwijking van het eerste lid kan de rechterlijk ambtenaar, indien de in dat lid bedoelde voorwaarden zijn vervuld en hij hierom verzoekt, worden ontslagen bij koninklijk besluit op voordracht van Onze Minister. Voor de rechtsgevolgen wordt dit ontslag gelijkgesteld met een ontslag door de Hoge Raad overeenkomstig het eerste lid.  
 6.  Het eerste lid, onderdeel c, is niet van toepassing op de raadsheren in buitengewone dienst bij en de advocaten-generaal in buitengewone dienst bij de Hoge Raad, de raadsheren-plaatsvervangers in de gerechtshoven en de rechters-plaatsvervangers in de rechtbanken.  
 
 ### Artikel  46j  
 
-Bij de beoordeling of sprake is van een situatie als bedoeld in artikel 46i, eerste lid, wordt de uitslag betrokken van de beoordeling door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), van de aanvraag op grond van [artikel 64 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). Indien de beoordeling in de eerste volzin niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en de functionele autoriteit het oneens zijn over het ontslag, kan door de functionele autoriteit aan het Uitvoeringsinstituut werknemersverzekeringen een oordeel als bedoeld in [artikel 32, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) worden gevraagd en betrekt de Hoge Raad dit bij de beoordeling. 
+Bij de beoordeling of sprake is van een situatie als bedoeld in artikel 46i, eerste lid, wordt de uitslag betrokken van de beoordeling door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, van de aanvraag op grond van artikel 64 van de Wet werk en inkomen naar arbeidsvermogen. Indien de beoordeling in de eerste volzin niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en de functionele autoriteit het oneens zijn over het ontslag, kan door de functionele autoriteit aan het Uitvoeringsinstituut werknemersverzekeringen een oordeel als bedoeld in artikel 32, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen worden gevraagd en betrekt de Hoge Raad dit bij de beoordeling. 
 
 ### Artikel  46k  
 
@@ -508,8 +508,8 @@ a.gevolg te geven aan door de functionele autoriteit of een door de functionele 
 
 b.passende arbeid te verrichten waartoe hij in de gelegenheid wordt gesteld; of
 
-c.zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in [artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel [artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md). 
-2.  Om te beoordelen of sprake is van een situatie als bedoeld in het eerste lid, kan de uitslag worden betrokken van de beoordeling door het in artikel 46j, eerste lid, bedoelde Uitvoeringsinstituut werknemersverzekeringen van de aanvraag op grond van [artikel 64 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). Indien de beoordeling in de vorige volzin niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en de functionele autoriteit het oneens zijn over het ontslag, kan door de functionele autoriteit aan het Uitvoeringsinstituut werknemersverzekeringen een oordeel als bedoeld in [artikel 32, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) worden gevraagd en betrekt de Hoge Raad dit bij de beoordeling. 
+c.zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering. 
+2.  Om te beoordelen of sprake is van een situatie als bedoeld in het eerste lid, kan de uitslag worden betrokken van de beoordeling door het in artikel 46j, eerste lid, bedoelde Uitvoeringsinstituut werknemersverzekeringen van de aanvraag op grond van artikel 64 van de Wet werk en inkomen naar arbeidsvermogen. Indien de beoordeling in de vorige volzin niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en de functionele autoriteit het oneens zijn over het ontslag, kan door de functionele autoriteit aan het Uitvoeringsinstituut werknemersverzekeringen een oordeel als bedoeld in artikel 32, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen worden gevraagd en betrekt de Hoge Raad dit bij de beoordeling. 
 
 ### Artikel  46l  
 
@@ -536,9 +536,9 @@ c.als raadsheer- of rechter-plaatsvervanger gedurende een termijn van twee jaar 
 ### Artikel  46n  
 
 1.  Ingeval van een ontslag ingevolge de artikelen 46c, tweede en derde lid, 46ka, 46l of artikel 46m, onderdelen a en b, kan de Hoge Raad een voorziening treffen onderscheidenlijk kan bij koninklijk besluit op voordracht van Onze Minister een voorziening worden getroffen waarbij de rechterlijk ambtenaar een uitkering wordt verleend die naar het oordeel van de Hoge Raad onderscheidenlijk Onze Minister met het oog op de omstandigheden redelijk is te achten.   
-2.  De uitkering is ten hoogste gelijk aan het voor de rechterlijk ambtenaar geldende totaal van uitkeringen berekend op basis van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid, als ware als gevolg van het ontslag geen sprake van verwijtbare werkloosheid als bedoeld in [artikel 24 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
-3.  Op de uitkering zijn voor het overige de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid van overeenkomstige toepassing.   
-4.  Indien de rechterlijk ambtenaar ter zake van hetzelfde ontslag recht heeft op een uitkering krachtens de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid, vervalt de door de Hoge Raad of bij koninklijk besluit toegekende uitkering.  
+2.  De uitkering is ten hoogste gelijk aan het voor de rechterlijk ambtenaar geldende totaal van uitkeringen berekend op basis van de Werkloosheidswet en het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid, als ware als gevolg van het ontslag geen sprake van verwijtbare werkloosheid als bedoeld in artikel 24 van de Werkloosheidswet.   
+3.  Op de uitkering zijn voor het overige de Werkloosheidswet en het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid van overeenkomstige toepassing.   
+4.  Indien de rechterlijk ambtenaar ter zake van hetzelfde ontslag recht heeft op een uitkering krachtens de Werkloosheidswet of het krachtens artikel 54 bepaalde ter zake van voorzieningen in geval van werkloosheid, vervalt de door de Hoge Raad of bij koninklijk besluit toegekende uitkering.  
 
 ### §  6A.5  
 
@@ -579,7 +579,7 @@ Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdrage
 
 ### Artikel  49  
 
-Het overleg met betrekking tot regelingen die specifiek betrekking hebben op overheids- en onderwijspersoneel in het algemeen, bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](../../../../../../KB/regeling/overleg/raad/voor/het/overheidspersoneelsbeleid/BWBR0008494/README.md), heeft eveneens betrekking op de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding.  
+Het overleg met betrekking tot regelingen die specifiek betrekking hebben op overheids- en onderwijspersoneel in het algemeen, bedoeld in artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid, heeft eveneens betrekking op de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding.  
 
 ### Artikel  50  
 
@@ -599,9 +599,9 @@ b. andere door Onze Minister tot het overleg toegelaten verenigingen of centrale
 
 a. invoering of wijziging van een wettelijke regeling die betrekking heeft op alle burgers of alle werknemers, waaronder begrepen de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding,  
 
-b. invoering of wijziging van een wettelijke regeling voor de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding met een overeenkomstige inhoud als een voorstel tot invoering of wijziging van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn,  
+b. invoering of wijziging van een wettelijke regeling voor de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding met een overeenkomstige inhoud als een voorstel tot invoering of wijziging van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek werkzaam zijn,  
 
-c. vantoepassingverklaring op de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding geldende regelingen, een en ander mits het totaal van rechten en plichten van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding over het geheel beoordeeld niet ongunstiger wordt, of  
+c. vantoepassingverklaring op de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding geldende regelingen, een en ander mits het totaal van rechten en plichten van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding over het geheel beoordeeld niet ongunstiger wordt, of  
 
 d. implementatie van verplichtingen voortvloeiend uit een internationaal verdrag.     
 3.  Bij algemene maatregel van bestuur worden regels gesteld over het inwinnen van advies van een commissie over een geschil en het onderwerpen van een geschil aan een arbitrale uitspraak van een commissie door de deelnemers aan het overleg, bedoeld in artikel 50, eerste lid, waaronder in elk geval regels over de procedure voorafgaand aan het voorleggen van een geschil aan de commissie en over de samenstelling en de werkwijze van de commissie.  
@@ -630,7 +630,7 @@ g. ambtskostuum;
 
 h. installatie;  
 
-i. de gevallen waarin berichten inzake de rechtspositie van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen; 
+i. de gevallen waarin berichten inzake de rechtspositie van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen; 
 
 j. bescherming bij de arbeid; en  
 
