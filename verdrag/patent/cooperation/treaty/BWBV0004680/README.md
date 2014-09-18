@@ -15,7 +15,7 @@ The Contracting States, Desiring to make a contribution to the progress of scien
 ####Establishment of a Union
 
 (1).  The States party to this Treaty (hereinafter called “the Contracting States”) constitute a Union for cooperation in the filing, searching, and examination, of applications for the protection of inventions, and for rendering special technical services. The Union shall be known as the International Patent Cooperation Union.   
-(2).  No provision of this Treaty shall be interpreted as diminishing the rights under the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) of any national or resident of any country party to that Convention.  
+(2).  No provision of this Treaty shall be interpreted as diminishing the rights under the Paris Convention for the Protection of Industrial Property of any national or resident of any country party to that Convention.  
 
 ### Article  2  
 
@@ -136,10 +136,10 @@ The claim or claims shall define the matter for which protection is sought. Clai
 
 ####Claiming Priority
 
-(1).  The international application may contain a declaration, as prescribed in the Regulations, claiming the priority of one or more earlier applications filed in or for any country party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).   
+(1).  The international application may contain a declaration, as prescribed in the Regulations, claiming the priority of one or more earlier applications filed in or for any country party to the Paris Convention for the Protection of Industrial Property.   
 (2).  
 
-(a) Subject to the provisions of subparagraph (b), the conditions for, and the effect of, any priority claim declared under paragraph (1) shall be as provided in Article 4 of the Stockholm Act of the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).  
+(a) Subject to the provisions of subparagraph (b), the conditions for, and the effect of, any priority claim declared under paragraph (1) shall be as provided in Article 4 of the Stockholm Act of the Paris Convention for the Protection of Industrial Property.  
 
 (b) The international application for which the priority of one or more earlier applications filed in or for a Contracting State is claimed may contain the designation of that State. Where, in the international application, the priority of one or more national applications filed in or for a designated State is claimed, or where the priority of an international application having designated only one State is claimed, the conditions for, and the effect of, the priority claim in that State shall be governed by the national law of that State.    
 
@@ -148,7 +148,7 @@ The claim or claims shall define the matter for which protection is sought. Clai
 ####The Applicant
 
 (1).  Any resident or national of a Contracting State may file an international application.   
-(2).  The Assembly may decide to allow the residents and the nationals of any country party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) which is not party to this Treaty to file international applications.   
+(2).  The Assembly may decide to allow the residents and the nationals of any country party to the Paris Convention for the Protection of Industrial Property which is not party to this Treaty to file international applications.   
 (3).  The concepts of residence and nationality, and the application of those concepts in cases where there are several applicants or where the applicants are not the same for all the designated States, are defined in the Regulations.  
 
 ### Article  10  
@@ -184,7 +184,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 (b) If the applicant complies with the invitation, as provided in the Regulations, the receiving Office shall accord as the international filing date the date of receipt of the required correction.     
 (3).  Subject to Article 64(4), any international application fulfilling the requirements listed in items (i) to (iii) of paragraph (1) and accorded an international filing date shall have the effect of a regular national application in each designated State as of the international filing date, which date shall be considered to be the actual filing date in each designated State.   
-(4).  Any international application fulfilling the requirements listed in items (i) to (iii) of paragraph (1) shall be equivalent to a regular national filing within the meaning of the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).  
+(4).  Any international application fulfilling the requirements listed in items (i) to (iii) of paragraph (1) shall be equivalent to a regular national filing within the meaning of the Paris Convention for the Protection of Industrial Property.  
 
 ### Article  12  
 
@@ -493,7 +493,7 @@ No designated Office shall reject an international application on the grounds of
 (1).  The objective of the international preliminary examination is to formulate a preliminary and non-binding opinion on the questions whether the claimed invention appears to be novel, to involve an inventive step (to be non-obvious), and to be industrially applicable.   
 (2).  For the purposes of the international preliminary examination, a claimed invention shall be considered novel if it is not anticipated by the prior art as defined in the Regulations.   
 (3).  For the purposes of the international preliminary examination, a claimed invention shall be considered to involve an inventive step if, having regard to the prior art as defined in the Regulations, it is not, at the prescribed relevant date, obvious to a person skilled in the art.   
-(4).  For the purposes of the international preliminary examination, a claimed invention shall be considered industrially applicable if, according to its nature, it can be made or used (in the technological sense) in any kind of industry. “Industry” shall be understood in its broadest sense, as in the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).   
+(4).  For the purposes of the international preliminary examination, a claimed invention shall be considered industrially applicable if, according to its nature, it can be made or used (in the technological sense) in any kind of industry. “Industry” shall be understood in its broadest sense, as in the Paris Convention for the Protection of Industrial Property.   
 (5).  The criteria described above merely serve the purposes of international preliminary examination. Any Contracting State may apply additional or different criteria for the purpose of deciding whether, in that State, the claimed invention is patentable or not.   
 (6).  The international preliminary examination shall take into consideration all the documents cited in the international search report. It may take into consideration any additional documents considered to be relevant in the particular case.  
 
@@ -978,7 +978,7 @@ Nothing in this Chapter shall affect the financial provisions contained in any o
 
 ####Disputes
 
-Subject to Article 64(5), any dispute between two or more Contracting States concerning the interpretation or application of this Treaty or the Regulations, not settled by negotiation, may, by any one of the States concerned, be brought before the International Court of Justice by application in conformity with the [Statute of the Court](../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), unless the States, concerned agree on some other method of settlement. The Contracting State bringing the dispute before the Court shall inform the International Bureau; the International Bureau shall bring the matter to the attention of the other Contracting States. 
+Subject to Article 64(5), any dispute between two or more Contracting States concerning the interpretation or application of this Treaty or the Regulations, not settled by negotiation, may, by any one of the States concerned, be brought before the International Court of Justice by application in conformity with the Statute of the Court, unless the States, concerned agree on some other method of settlement. The Contracting State bringing the dispute before the Court shall inform the International Bureau; the International Bureau shall bring the matter to the attention of the other Contracting States. 
 
 ### CHAPTER  VII  
 
@@ -1029,7 +1029,7 @@ Subject to Article 64(5), any dispute between two or more Contracting States con
 
 (ii) deposit of an instrument of accession.     
 (2).  Instruments of ratification or accession shall be deposited with the Director General.   
-(3).  The provisions of Article 24 of the Stockholm Act of the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) shall apply to this Treaty.   
+(3).  The provisions of Article 24 of the Stockholm Act of the Paris Convention for the Protection of Industrial Property shall apply to this Treaty.   
 (4).  Paragraph (3) shall in no way be understood as implying the recognition or tacit acceptance by a Contracting State of the factual situation concerning a territory to which this Treaty is made applicable by another Contracting State by virtue of the said paragraph.  
 
 ### Article  63  
@@ -1081,7 +1081,7 @@ Subject to Article 64(5), any dispute between two or more Contracting States con
 (ii) when a national application or a patent based on the international application is published by or on behalf of the national Office of any designated State having made a declaration under subparagraph*(a)*, promptly after such publication but not before the expiration of 18 months from the priority date.       
 (4).  
 
-(a) Any State whose national law provides for prior art effect of its patents as from a date before publication, but does not equate for prior art purposes the priority date claimed under the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) to the actual filing date in that State, may declare that the filing outside that State of an international application designating that State is not equated to an actual filing in that State for prior art purposes.   
+(a) Any State whose national law provides for prior art effect of its patents as from a date before publication, but does not equate for prior art purposes the priority date claimed under the Paris Convention for the Protection of Industrial Property to the actual filing date in that State, may declare that the filing outside that State of an international application designating that State is not equated to an actual filing in that State for prior art purposes.   
 
 (b) Any State making a declaration under subparagraph *(a)* shall to that extent not be bound by the provisions of Article 11(3).  
 
@@ -1124,7 +1124,7 @@ Subject to Article 64(5), any dispute between two or more Contracting States con
 ####Depositary Functions
 
 (1).  The original of this Treaty, when no longer open for signature, shall be deposited with the Director General.   
-(2).  The Director General shall transmit two copies, certified by him, of this Treaty and the Regulations annexed hereto to the Governments of all States party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) and, on request, to the Government of any other State.   
+(2).  The Director General shall transmit two copies, certified by him, of this Treaty and the Regulations annexed hereto to the Governments of all States party to the Paris Convention for the Protection of Industrial Property and, on request, to the Government of any other State.   
 (3).  The Director General shall register this Treaty with the Secretariat of the United Nations.   
 (4).  The Director General shall transmit two copies, certified by him of any amendment to this Treaty and the Regulations to the Governments of all Contracting States and, on request, to the Government of any other State.  
 
@@ -1132,7 +1132,7 @@ Subject to Article 64(5), any dispute between two or more Contracting States con
 
 ####Notifications
 
-The Director General shall notify the Governments of all States party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) of: 
+The Director General shall notify the Governments of all States party to the Paris Convention for the Protection of Industrial Property of: 
 
 (i) signatures under Article 62,  
 
@@ -1298,13 +1298,13 @@ a) The filing of a request shall constitute:
 b) Notwithstanding paragraph (a)(i), if, on October 5, 2005, the national law of a Contracting State provides that the filing of an international application which contains the designation of that State and claims the priority of an earlier national application having effect in that State shall have the result that the earlier national application ceases to have effect with the same consequences as the withdrawal of the earlier national application, any request in which the priority of an earlier national application filed in that State is claimed may contain an indication that the designation of that State is not made, provided that the designated Office notifies the International Bureau by January 5, 2006, that this paragraph shall apply in respect of designations of that State and that the notification is still in force on the international filing date. The information received shall be promptly published by the International Bureau in the Gazette.    
 4.10.   *Priority Claim*  
 
-a) Any declaration referred to in Article 8(1) (“priority claim”) may claim the priority of one or more earlier applications filed either in or for any country party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) or in or for any Member of the World Trade Organization that is not party to that Convention. Any priority claim shall be made in the request; it shall consist of a statement to the effect that the priority of an earlier application is claimed and shall indicate: 
+a) Any declaration referred to in Article 8(1) (“priority claim”) may claim the priority of one or more earlier applications filed either in or for any country party to the Paris Convention for the Protection of Industrial Property or in or for any Member of the World Trade Organization that is not party to that Convention. Any priority claim shall be made in the request; it shall consist of a statement to the effect that the priority of an earlier application is claimed and shall indicate: 
 
 (i) the date on which the earlier application was filed;  
 
 (ii) the number of the earlier application;  
 
-(iii) where the earlier application is a national application, the country party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) or the Member of the World Trade Organization that is not party to that Convention in which it was filed;  
+(iii) where the earlier application is a national application, the country party to the Paris Convention for the Protection of Industrial Property or the Member of the World Trade Organization that is not party to that Convention in which it was filed;  
 
 (iv) where the earlier application is a regional application, the authority entrusted with the granting of regional patents under the applicable regional patent treaty;  
 
@@ -1312,9 +1312,9 @@ a) Any declaration referred to in Article 8(1) (“priority claim”) may claim
 
 b) In addition to any indication required under paragraph a)(iv) or (v):
 
-(i) where the earlier application is a regional application or an international application, the priority claim may indicate one or more countries party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) for which that earlier application was filed;   
+(i) where the earlier application is a regional application or an international application, the priority claim may indicate one or more countries party to the Paris Convention for the Protection of Industrial Property for which that earlier application was filed;   
 
-(ii) where the earlier application is a regional application and at least one of the countries party to the regional patent treaty is neither party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) nor a Member of the World Trade Organization, the priority claim shall indicate at least one country party to that Convention or one Member of that Organization for which that earlier application was filed.  
+(ii) where the earlier application is a regional application and at least one of the countries party to the regional patent treaty is neither party to the Paris Convention for the Protection of Industrial Property nor a Member of the World Trade Organization, the priority claim shall indicate at least one country party to that Convention or one Member of that Organization for which that earlier application was filed.  
 
 c) For the purposes of paragraphs a) and b), Article 2(vi) shall not apply.  
 
@@ -1378,7 +1378,7 @@ b) If the request contains matter other than that specified in Rules 4.1 to 4.
 
 (v) set forth at least the best mode contemplated by the applicant for carrying out the invention claimed; this shall be done in terms of examples, where appropriate, and with reference to the drawings, if any; where the national law of the designated State does not require the description of the best mode but is satisfied with the description of any mode (whether it is the best contemplated or not), failure to describe the best mode contemplated shall have no effect in that State;  
 
-(vi) indicate explicitly, when it is not obvious from the description or nature of the invention, the way in which the invention is capable of exploitation in industry and the way in which it can be made and used, or, if it can only be used, the way in which it can be used; the term “industry” is to be understood in its broadest sense as in the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).    
+(vi) indicate explicitly, when it is not obvious from the description or nature of the invention, the way in which the invention is capable of exploitation in industry and the way in which it can be made and used, or, if it can only be used, the way in which it can be used; the term “industry” is to be understood in its broadest sense as in the Paris Convention for the Protection of Industrial Property.    
 
 (b) The manner and order specified in paragraph *(a)* shall be followed except when, because of the nature of the invention, a different manner or a different order would result in a better understanding and a more economic presentation.  
 
@@ -2357,7 +2357,7 @@ c) Paragraph (b) shall not apply where the receiving Office has informed the Int
 
 a)The effects of any international application whose international filing date falls in the period defined in paragraph b) are extended to a State (“the successor State”) whose territory was, before the independence of that State, part of the territory of a Contracting State designated in the international application which subsequently ceased to exist (“the predecessor State”), provided that the successor State has become a Contracting State through the deposit, with the Director General, of a declaration of continuation the effect of which is that the Treaty is applied by the successor State.
 
-b)The period referred to in paragraph a) starts on the day following the last day of the existence of the predecessor State and ends two months after the date on which the declaration referred to in paragraph a) was notified by the Director General to the Governments of the States party to the [Paris Convention for the Protection of Industrial Property](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md). However, where the date of independence of the successor State is earlier than the date of the day following the last day of the existence of the predecessor State, the successor State may declare that the said period starts on the date of its independence; such a declaration shall be made together with the declaration referred to in paragraph a) and shall specify the date of independence.
+b)The period referred to in paragraph a) starts on the day following the last day of the existence of the predecessor State and ends two months after the date on which the declaration referred to in paragraph a) was notified by the Director General to the Governments of the States party to the Paris Convention for the Protection of Industrial Property. However, where the date of independence of the successor State is earlier than the date of the day following the last day of the existence of the predecessor State, the successor State may declare that the said period starts on the date of its independence; such a declaration shall be made together with the declaration referred to in paragraph a) and shall specify the date of independence.
 
 c)Information on any international application whose filing date falls within the applicable period under paragraph b) and whose effect is extended to the successor State shall be published by the International Bureau in the Gazette.
 32.2.  *Effects of Extension to Successor State *
@@ -2614,7 +2614,7 @@ c) The written opinion shall contain a notification informing the applicant that
 44.2.   *Title or Abstract* The international search report shall either state that the International Searching Authority approves the title and the abstract as submitted by the applicant or be accompanied by the text of the title and/or abstract as established by the International Searching Authority under Rules 37 and 38.   
 44.3.   *Copies of Cited Documents*  
 
-(a) The request referred to in Article 20(3) may be presented any time during 7 years from the international filing date of the internal application to which the international search report relates.  
+(a) The request referred to in Article 20(3) may be presented any time during 7 years from the international filing date of the international application to which the international search report relates.  
 
 (b) The International Searching Authority may require that the party (applicant or designated Office) presenting the request pay to it the cost of preparing and mailing the copies. The level of the cost of preparing copies shall be provided for in the agreements referred to in Article 16(3) *(b)* between the International Searching Authorities and the International Bureau.  
 
@@ -2648,20 +2648,6 @@ c) The International Bureau shall transmit a copy of the translation to any inte
 
 d) In the case referred to in Rule 44*bis*.2b), the written opinion established under Rule 43*bis*.1 shall, upon request of the designated Office concerned, be translated into English by or under the responsibility of the International Bureau. The International Bureau shall transmit a copy of the translation to the designated Office concerned within two months from the date of receipt of the request for translation, and shall at the same time transmit a copy to the applicant.  
 44bis.4. *Observations on the Translation*  The applicant may make written observations as to the correctness of the translation referred to in Rule 44*bis*.3b) or d) and shall send a copy of the observations to each of the interested designated Offices and to the International Bureau. 
-
-### Rule  44ter  
-
-####Confidential Nature of Written Opinion, Report, Translation and Observations
-
-44ter.1. *Confidential Nature*  
-
-a) The International Bureau and the International Searching Authority shall not, unless requested or authorized by the applicant, allow access by any person or authority before the expiration of 30 months from the priority date: 
-
-(i) to the written opinion established under Rule 43*bis*.1, to any translation thereof prepared under Rule 44*bis*.3d) or to any written observations on such translation sent by the applicant under Rule 44*bis*.4;  
-
-(ii) if a report is issued under Rule 44*bis*.1, to that report, to any translation of it prepared under Rule 44*bis*.3b) or to any written observations on that translation sent by the applicant under Rule 44*bis*.4.   
-
-b) For the purposes of paragraph a), the term “access” covers any means by which third parties may acquire cognizance, including individual communication and general publication.   
 
 ### Rule  45  
 
@@ -3520,30 +3506,31 @@ c) The applicant may make written observations as to the correctness of the tran
 
 ### Rule  66  
 
-####Procedure before the International Preliminary Examining Authority
+####Procedure Before the International Preliminary Examining Authority
 
 66.1.  *Basis of the International Preliminary Examination* 
 
 a) Subject to paragraphs (b) to (d), the international preliminary examination shall be based on the international application as filed.  
 
-b) The applicant may submit amendments under Article 34 at the time of filing the demand or, subject to Rule 66.4*bis*, until the international preliminary examination report is established.  
+b) The applicant may submit amendments under Article 34 at the time of filing the demand or, subject to Rule 66.4bis, until the international preliminary examination report is established.  
 
 c) Any amendments under Article 19 made before the demand was filed shall be taken into account for the purposes of the international preliminary examination unless superseded, or considered as reversed, by an amendment under Article 34.  
 
-d) Any amendments under Article 19 made after the demand was filed and any amendments under Article 34 submitted to the International Preliminary Examining Authority shall, subject to Rule 66.4*bis*, be taken into account for the purposes of the international preliminary examination.  
+d) Any amendments under Article 19 made after the demand was filed and any amendments under Article 34 submitted to the International Preliminary Examining Authority shall, subject to Rule 66.4bis, be taken into account for the purposes of the international preliminary examination.  
 
 d-bis)A rectification of an obvious mistake that is authorized under Rule 91.1 shall, subject to Rule 66.4*bis*, be taken into account by the International Preliminary Examining Authority for the purposes of the international preliminary examination.
 
 e) Claims relating to inventions in respect of which no international search report has been established need not be the subject of international preliminary examination.    
 66.1bis.  *Written Opinion of the International Searching Authority* 
 
-a) Subject to paragraph b), the written opinion established by the International Searching Authority under Rule 43*bis*.1 shall be considered to be a written opinion of the International Preliminary Examining Authority for the purposes of Rule 66.2a).  
+a) Subject to paragraph b), the written opinion established by the International Searching Authority under Rule 43bis.1 shall be considered to be a written opinion of the International Preliminary Examining Authority for the purposes of Rule 66.2a).  
 
-b) An International Preliminary Examining Authority may notify the International Bureau that paragraph a) shall not apply to the procedure before it in respect of written opinions established under Rule 43*bis*.1 by the International Searching Authority or Authorities specified in the notification, provided that such a notification shall not apply to cases where the national Office or intergovernmental organization that acted as International Searching Authority is also acting as International Preliminary Examining Authority. The International Bureau shall promptly publish any such notification in the Gazette.  
+b) An International Preliminary Examining Authority may notify the International Bureau that paragraph a) shall not apply to the procedure before it in respect of written opinions established under Rule 43bis.1 by the International Searching Authority or Authorities specified in the notification, provided that such a notification shall not apply to cases where the national Office or intergovernmental organization that acted as International Searching Authority is also acting as International Preliminary Examining Authority. The International Bureau shall promptly publish any such notification in the Gazette.  
 
-c) Where the written opinion established by the International Searching Authority under Rule 43*bis*.1 is not, by virtue of a notification under paragraph b), considered to be a written opinion of the International Preliminary Examining Authority for the purposes of Rule 66.2a), the International Preliminary Examining Authority shall notify the applicant accordingly in writing.  
+c) Where the written opinion established by the International Searching Authority under Rule 43bis.1 is not, by virtue of a notification under paragraph b), considered to be a written opinion of the International Preliminary Examining Authority for the purposes of Rule 66.2a), the International Preliminary Examining Authority shall notify the applicant accordingly in writing.  
 
-d) A written opinion established by the International Searching Authority under Rule 43*bis*.1 which is not, by virtue of a notification under paragraph b), considered to be a written opinion of the International Preliminary Examining Authority for the purposes of Rule 66.2a) shall nevertheless be taken into account by the International Preliminary Examining Authority in proceeding under Rule 66.2a).  
+d) A written opinion established by the International Searching Authority under Rule 43bis.1 which is not, by virtue of a notification under paragraph b), considered to be a written opinion of the International Preliminary Examining Authority for the purposes of Rule 66.2a) shall nevertheless be taken into account by the International Preliminary Examining Authority in proceeding under Rule 66.2a). 
+66.1ter. *Top-up Searches*The International Preliminary Examining Authority shall conduct a search (“top-up search”) to discover documents referred to in Rule 64 which have been published or have become available to the said Authority for search subsequent to the date on which the international search report was established, unless it considers that such a search would serve no useful purpose. If the Authority finds that any of the situations referred to in Article 34(3) or (4) or Rule 66.1(e) exists, the top-up search shall cover only those parts of the international application that are the subject of international preliminary examination. 
 66.2.   * Written Opinion of the International Preliminary Examining Authority* 
 
 (a)If the International Preliminary Examining Authority
@@ -3682,7 +3669,7 @@ e) Where the statement concerning amendments contains an indication that amendme
 
 ### Rule  70  
 
-####International Preliminary Report on Patentability by the International Preliminary Examining Authority (International Preliminary Examination Report)
+####International preliminary Report on Patentability by the International Preliminary Examining Authority (International Examination Report)
 
 70.1.   *Definition*  For the purposes of this Rule, “report” shall mean international preliminary examination report.   
 70.2.   *Basis of the Report*  
@@ -3697,7 +3684,9 @@ e) Where the statement concerning amendments contains an indication that amendme
 
 (d) Where claims relate to inventions in respect of which no international search report has been established and have therefore not been the subject of international preliminary examination, the international preliminary examination report shall so indicate. 
 
-(e)If a rectification of an obvious mistake is taken into account under Rule 66.1, the report shall so indicate. If a rectification of an obvious mistake is not taken into account pursuant to Rule 66.4*bis*, the report shall, if possible, so indicate, failing which the International Preliminary Examining Authority shall notify the International Bureau accordingly and the International Bureau shall proceed as provided for in the Administrative Instructions.   
+(e)If a rectification of an obvious mistake is taken into account under Rule 66.1, the report shall so indicate. If a rectification of an obvious mistake is not taken into account pursuant to Rule 66.4*bis*, the report shall, if possible, so indicate, failing which the International Preliminary Examining Authority shall notify the International Bureau accordingly and the International Bureau shall proceed as provided for in the Administrative Instructions.
+
+(f)The report shall indicate the date on which a top-up search under Rule 66.1ter was made, or else state that no top-up search was made.   
 70.3.   *Identifications*  The report shall identify the International Preliminary Examining Authority which established it by indicating the name of such Authority, and the international application by indicating the international application number, the name of the applicant, and the international filing date.   
 70.4.   *Dates*  The report shall indicate: 
 
@@ -3709,31 +3698,31 @@ e) Where the statement concerning amendments contains an indication that amendme
 (a) The report shall repeat the classification given under Rule 43.3 if the International Preliminary Examining Authority agrees with such classification.  
 
 (b) Otherwise, the International Preliminary Examining Authority shall indicate in the report the classification, at least according to the International Patent Classification, which it considers correct.     
-70.6.   *Statement under Article 35(2)*  
+70.6.   *Statement under* Article 35(2)  
 
 (a) The statement referred to in Article 35(2) shall consist of the words “YES” or “NO”, or their equivalent in the language of the report, or some appropriate sign provided for in the Administrative Instructions, and shall be accompanied by the citations, explanations and observations, if any, referred to in the last sentence of Article 35(2).  
 
 (b) If any of the three criteria referred to in Article 35(2) (that is, novelty, inventive step (non-obviousness), industrial applicability) is not satisfied, the statement shall be negative. If, in such a case, any of the criteria, taken separately, is satisfied, the report shall specify the criterion or criteria so satisfied.     
-70.7.   *Citations Under Article 35(2)*  
+70.7.   *Citations Under * Article 35(2)  
 
 (a) The report shall cite the documents considered to be relevant for supporting the statements made under Article 35(2), whether or not such documents are cited in the international search report. Documents cited in the international search report need only be cited in the report when they are considered by the International Preliminary Examining Authority to be relevant.  
 
-(b) The provisions of Rule 43.5 *(b)* and *(e)* shall apply also to the report.     
-70.8.   *Explanations under Article 35(2)*  The Administrative Instructions shall contain guidelines for cases in which the explanations referred to in Article 35(2) should or should not be given and the form of such explanations. Such guidelines shall be based on the following principles: 
+(b) The provisions of Rule 43.5 (b) and (e) shall apply also to the report.     
+70.8.   *Explanations under* Article 35(2)  The Administrative Instructions shall contain guidelines for cases in which the explanations referred to in Article 35(2) should or should not be given and the form of such explanations. Such guidelines shall be based on the following principles: 
 
 (i) explanations shall be given whenever the statement in relation to any claim is negative;  
 
 (ii) explanations shall be given whenever the statement is positive unless the reason for citing any document is easy to imagine on the basis of consultation of the cited document;  
 
-(iii) generally, explanations shall be given if the case provided for in the last sentence of Rule 70.6 *(b)* obtains.     
+(iii) generally, explanations shall be given if the case provided for in the last sentence of Rule 70.6 (b) obtains.     
 70.9.   *Non-Written Disclosures*  Any non-written disclosure referred to in the report by virtue of Rule 64.2 shall be mentioned by indicating its kind, the date on which the written disclosure referring to the non-written disclosure was made available to the public, and the date on which the non-written disclosure occurred in public.   
 70.10.   *Certain Published Documents*  Any published application or any patent referred to in the report by virtue of Rule 64.3 shall be mentioned as such and shall be accompanied by an indication of its date of publication, of its filing date, and its claimed priority date (if any). In respect of the priority date of any such document, the report may indicate that, in the opinion of the International Preliminary Examining Authority, such date has not been validly claimed.   
 70.11.   *Mention of Amendments*  If, before the International Preliminary Examining Authority, amendments have been made, this fact shall be indicated in the report. Where any amendment has resulted in the cancellation of an entire sheet, this fact shall also be specified in the report.   
 70.12.   *Mention of Certain Defects and Other Matters*  If the International Preliminary Examining Authority considers that, at the time it prepares the report: 
 
-(i) the international application contains any of the defects referred to in Rule 66.2*(a)*(iii), it shall include this opinion and the reasons therefor in the report;  
+(i) the international application contains any of the defects referred to in Rule 66.2(a)(iii), it shall include this opinion and the reasons therefor in the report;  
 
-(ii) the international application calls for any of the observations referred to in Rule 66.2*(a)*(v), it may include this opinion in the report and, if it does, it shall also indicate in the report the reasons for such opinion;  
+(ii) the international application calls for any of the observations referred to in Rule 66.2(a)(v), it may include this opinion in the report and, if it does, it shall also indicate in the report the reasons for such opinion;  
 
 (iii) any of the situations referred to in Article 34(4) exists, it shall state this opinion and the reasons therefor in the report;  
 
@@ -3755,13 +3744,13 @@ b) The report shall bear the title “international preliminary report on patent
 
 (iii) each replacement sheet under Rule 26.4 as applicable by virtue of Rule 91.2 containing a rectification of an obvious mistake authorized by that Authority under Rule 91.1(b)(iii) and each letter under Rule 26.4 as applicable by virtue of Rule 91.2;   unless any such replacement sheet has been superseded or considered reversed by a later replacement sheet or an amendment resulting in the cancellation of an entire sheet under Rule 66.8(b); and 
 
-(iv) where the report contains an indication referred to in Rule 70.2(e), any sheet and letter relating to a rectification of an obvious mistake which is not taken into account pursuant to Rule 66.4*bis*.    
+(iv) where the report contains an indication referred to in Rule 70.2(e), any sheet and letter relating to a rectification of an obvious mistake which is not taken into account pursuant to Rule 66.4bis.    
 
 (b) Notwithstanding paragraph (a), each superseded or reversed replacement sheet referred to in that paragraph and any letter referred to in that paragraph relating to such superseded or reversed sheet shall also be annexed to the report where: 
 
 (i) the International Preliminary Examining Authority considers that the relevant superseding or reversing amendment goes beyond the disclosure in the international application as filed and the report contains an indication referred to in Rule 70.2(c);  
 
-(ii) the relevant superseding or reversing amendment was not accompanied by a letter indicating the basis for the amendment in the application as filed and the report is established as if the amendment had not been made and contains an indication referred to in Rule 70.2(c-*bis*).   In such a case, the superseded or reversed replacement sheet shall be marked as provided by the Administrative Instructions.     
+(ii) the relevant superseding or reversing amendment was not accompanied by a letter indicating the basis for the amendment in the application as filed and the report is established as if the amendment had not been made and contains an indication referred to in Rule 70.2(c-bis).   In such a case, the superseded or reversed replacement sheet shall be marked as provided by the Administrative Instructions.     
 70.17.   *Languages of the Report and the Annexes*  The report and any annex shall be in the language in which the international application to which they relate is published, or, if the international preliminary examination is carried out, pursuant to Rule 55.2, on the basis of a translation of the international application, in the language of that translation. 
 
 ### Rule  71  
@@ -3954,14 +3943,14 @@ b) In any elected State in which the national law provides that examination star
 
 ####Excuse by the Designated or Elected State of Delays in Meeting Certain Time Limits
 
-82bis. 1. *Meaning of “Time Limit” in Article 48(2)*The reference to "any time limit" in Article 48(2) shall be construed as comprising a reference:
+82bis. 1. *Meaning of “Time Limit” in Article 48(2)*The reference to “any time limit” in Article 48(2) shall be construed as comprising a reference:
 
 (i)to any time limit fixed in the Treaty or these Regulations;
 
 (ii)to any time limit fixed by the receiving Office, the International Searching Authority, the International Preliminary Examining Authority or the International Bureau or applicable by the receiving Office under its national law;
 
 (iii)to any time limit fixed by, or in the national law applicable by, the designated or elected Office, for the performance of any act by the applicant before that Office.
-82bis.2. *Reinstatement of Rights and Other Provisions to which Article 48(2) Applies*The provisions of the national law which is referred to in Article 48(2) concerning the excusing, by the designated or elected State, of any delay in meeting any time limit are those provisions which provide for reinstatement or rights, restoration, restitutio in integrum of further processing in spite of non-compliance with a time limit, and any other provision providing for the extension of time limits or for excusing delays in meeting time limits.
+82bis.2. *Reinstatement of Rights and Other Provisions to which Article 48(2) Applies*The provisions of the national law which is referred to in Article 48(2) concerning the excusing, by the designated or elected State, of any delay in meeting any time limit are those provisions which provide for reinstatement of rights, restoration, restitutio in integrum or further processing in spite of non-compliance with a time limit, and any other provision providing for the extension of time limits or for excusing delays in meeting time limits.
 
 ### Rule 82ter  
 
@@ -4180,7 +4169,7 @@ b) If there are two or more agents representing the same applicant or applicants
 c) Subject to Rule 90*bis*.5(a), second sentence, any act by or in relation to a common representative or his agent shall have the effect of an act by or in relation to all the applicants.     
 90.4.  *Manner of Appointment of Agent or Common Representative *  
 
-a) The appointment of an agent shall be effected by the applicant signing the request, the demand or a separate power of attorney.Where there are two or more applicants, the appointment of a common agent or common representative shall be effected by each applicant signing, at his choice, the request, the demand or a separate power of attorney.  
+a) The appointment of an agent shall be effected by the applicant signing the request, the demand or a separate power of attorney. Where there are two or more applicants, the appointment of a common agent or common representative shall be effected by each applicant signing, at his choice, the request, the demand or a separate power of attorney.  
 
 b) Subject to Rule 90.5, a separate power of attorney shall be submitted to either the receiving Office or the International Bureau, provided that, where a power of attorney appoints an agent under Rule 90.1(b), (b-*bis*), (c) or (d)(ii), it shall be submitted to the International Searching Authority, the Authority specified for supplementary search or the International Preliminary Examining Authority, as the case may be.  
 
@@ -4429,7 +4418,7 @@ b) A communication under paragraph a) shall, where so agreed by the Internationa
 
 a) At the request of the applicant or any person authorized by the applicant, the International Bureau shall furnish, subject to reimbursement of the cost of the service, copies of any document contained in its file.  
 
-b) The International Bureau shall, at the request of any person but not before the international publication of the international application and subject to Article 38 and Rule 44*ter*.1, furnish, subject to the reimbursement of the cost of the service, copies of any document contained in its file.  
+b) The International Bureau shall, at the request of any person but not before the international publication of the international application and subject to Article 38, furnish, subject to the reimbursement of the cost of the service, copies of any document contained in its file.  
 
 c)The International Bureau shall, if so requested by an elected Office, furnish copies of the international preliminary examination report under paragraph b) on behalf of that Office. The International Bureau shall promptly publish details of any such request in the Gazette.  
 94.2. *Access to the File Held by the International Preliminary Examining Authority*At the request of the applicant or any person authorized by the applicant, or, once the international preliminary examination report has been established, of any elected Office, the International Preliminary Examining Authority shall furnish, subject to reimbursement of the cost of the service, copies of any document contained in its file.
@@ -4480,7 +4469,7 @@ De Verdragsluitende Staten, Geleid door de wens bij te dragen aan de vooruitgang
 ####Oprichting van een Unie
 
 (1).  De Staten die partij zijn bij dit Verdrag (hierna te noemen „de Verdragsluitende Staten”) vormen een Unie voor samenwerking bij de indiening, het nieuwheidsonderzoek en de beoordeling van aanvragen voor de bescherming van uitvindingen en voor het verlenen van bijzondere technische diensten. De Unie zal bekend staan onder de naam Internationale Unie voor samenwerking inzake octrooien.   
-(2).  Geen enkele bepaling van dit Verdrag mag worden uitgelegd als een beperking van de rechten voorzien in het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) van enig onderdaan of inwoner van enig land dat partij is bij laatstgenoemd Verdrag.  
+(2).  Geen enkele bepaling van dit Verdrag mag worden uitgelegd als een beperking van de rechten voorzien in het Verdrag van Parijs tot bescherming van de industriële eigendom van enig onderdaan of inwoner van enig land dat partij is bij laatstgenoemd Verdrag.  
 
 ### Artikel  2  
 
@@ -4601,10 +4590,10 @@ De conclusie of conclusies omschrijven datgene waarvoor bescherming wordt gevraa
 
 ####Beroep op een recht van voorrang
 
-(1).  De internationale aanvrage kan een verklaring bevatten, zoals voorgeschreven in het Reglement, waarin een beroep op een recht van voorrang wordt gedaan op grond van één of meer aanvragen, die eerder zijn ingediend in of voor een land dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).   
+(1).  De internationale aanvrage kan een verklaring bevatten, zoals voorgeschreven in het Reglement, waarin een beroep op een recht van voorrang wordt gedaan op grond van één of meer aanvragen, die eerder zijn ingediend in of voor een land dat partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom.   
 (2).  
 
-a) Onverminderd het bepaalde onder *b)* zijn de vereisten voor en de rechtsgevolgen van een ingevolge het eerste lid gedaan beroep op een recht van voorrang die, welke zijn voorzien in artikel 4 van de Akte van Stockholm van het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).  
+a) Onverminderd het bepaalde onder *b)* zijn de vereisten voor en de rechtsgevolgen van een ingevolge het eerste lid gedaan beroep op een recht van voorrang die, welke zijn voorzien in artikel 4 van de Akte van Stockholm van het Verdrag van Parijs tot bescherming van de industriële eigendom.  
 
 b) De internationale aanvrage waarvoor een beroep wordt gedaan op het recht van voorrang op grond van een of meer aanvragen, die eerder in of voor een Verdragsluitende Staat zijn ingediend, kan de aanwijzing van die Staat bevatten. Indien in de internationale aanvrage een beroep wordt gedaan op het recht van voorrang op grond van een of meer nationale aanvragen, ingediend in of voor een aangewezen Staat of indien een beroep wordt gedaan op het recht van voorrang van een internationale aanvrage waarin slechts één Staat is aangewezen, worden de vereisten voor en de rechtsgevolgen van het beroep op het recht van voorrang in die Staat geregeld door de nationale wetgeving van die Staat.    
 
@@ -4613,7 +4602,7 @@ b) De internationale aanvrage waarvoor een beroep wordt gedaan op het recht van 
 ####De aanvrager
 
 (1).  Elke inwoner of onderdaan van een Verdragsluitende Staat kan een internationale aanvrage indienen.   
-(2).  De Algemene Vergadering kan besluiten de inwoners en onderdanen van een land, dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md), maar dat geen Partij is bij het onderhavige Verdrag, toe te staan internationale aanvragen in te dienen.   
+(2).  De Algemene Vergadering kan besluiten de inwoners en onderdanen van een land, dat partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom, maar dat geen Partij is bij het onderhavige Verdrag, toe te staan internationale aanvragen in te dienen.   
 (3).  De begrippen woonplaats en nationaliteit en de toepassing van deze begrippen ingeval er meer dan één aanvrager is of ingeval de aanvragers niet dezelfde zijn voor alle aangewezen Staten, worden omschreven in het Reglement.  
 
 ### Artikel  10  
@@ -4649,7 +4638,7 @@ a) Indien het ontvangende bureau vaststelt dat de internationale aanvrage op het
 
 b) Indien de aanvrager aan het verzoek voldoet, zoals bepaald in het Reglement, kent het ontvangende bureau als dagtekening van het internationale depot de datum van ontvangst van de vereiste verbetering toe.     
 (3).  Onverminderd artikel 64, vierde lid, zijn aan internationale aanvragen die voldoen aan de vereisten, opgesomd in het eerste lid, onder (i) tot en met (iii) en waaraan een dagtekening van het internationale depot is toegekend de rechtsgevolgen verbonden van een regelmatige nationale aanvrage in elke aangewezen Staat met ingang van de dagtekening van het internationale depot die als de werkelijke dagtekening van het depot in elke aangewezen Staat geldt.   
-(4).  Een internationale aanvrage die voldoet aan de vereisten, opgesomd in het eerste lid onder (i) tot en met (iii), is gelijkwaardig aan een regelmatig nationaal depot in de zin van het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).  
+(4).  Een internationale aanvrage die voldoet aan de vereisten, opgesomd in het eerste lid onder (i) tot en met (iii), is gelijkwaardig aan een regelmatig nationaal depot in de zin van het Verdrag van Parijs tot bescherming van de industriële eigendom.  
 
 ### Artikel  12  
 
@@ -4958,7 +4947,7 @@ b) Latere keuzen worden voorgelegd aan het Internationale Bureau.
 (1).  Het doel van de internationale voorlopige beoordeling is een voorlopig oordeel zonder verplichting te formuleren over de vragen of de uitvinding waarvoor uitsluitende rechten worden verlangd, nieuw lijkt, op uitvinderswerkzaamheid lijkt te berusten, (niet voor de hand lijkt te liggen) en vatbaar lijkt voor toepassing op het gebied van de nijverheid.   
 (2).  Voor de internationale voorlopige beoordeling wordt een uitvinding waarvoor uitsluitende rechten worden verlangd, als nieuw beschouwd indien zij niet bekend is uit de stand van de techniek zoals omschreven in het Reglement.   
 (3).  Voor de internationale voorlopige beoordeling wordt een uitvinding waarvoor uitsluitende rechten worden verlangd, beschouwd op uitvinderswerkzaamheid te berusten indien zij, met inachtneming van de stand van de techniek zoals omschreven in het Reglement niet, op het voorgeschreven toepasselijke tijdstip, voor een deskundige voor de hand ligt.   
-(4).  Voor de internationale voorlopige beoordeling wordt aangenomen dat een uitvinding waarvoor uitsluitende rechten worden verlangd, vatbaar is voor toepassing op het gebied van de nijverheid, indien zij, al naar haar aard, kan worden vervaardigd of toegepast (in technologische zin) op enig gebied van de nijverheid. „Nijverheid” wordt opgevat in de ruimste zin, zoals in het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).   
+(4).  Voor de internationale voorlopige beoordeling wordt aangenomen dat een uitvinding waarvoor uitsluitende rechten worden verlangd, vatbaar is voor toepassing op het gebied van de nijverheid, indien zij, al naar haar aard, kan worden vervaardigd of toegepast (in technologische zin) op enig gebied van de nijverheid. „Nijverheid” wordt opgevat in de ruimste zin, zoals in het Verdrag van Parijs tot bescherming van de industriële eigendom.   
 (5).  De hiervoor beschreven maatstaven gelden alleen voor de internationale voorlopige beoordeling. Een Verdragsluitende Staat kan bijkomende of andere maatstaven toepassen voor de beslissing of de uitvinding waarvoor uitsluitende rechten worden verlangd, in die Staat al dan niet octrooieerbaar is.   
 (6).  Bij de internationale voorlopige beoordeling wordt rekening gehouden met alle in het verslag van het internationale nieuwheidsonderzoek aangehaalde literatuurplaatsen. Er kan rekening worden gehouden met alle andere literatuurplaatsen die in het desbetreffende geval van belang worden geacht.  
 
@@ -5443,7 +5432,7 @@ c) Voor toekomstige opneming van een Regel in een van beide categorieën, genoem
 
 ####Geschillen
 
-Onverminderd artikel 64, vijfde lid, kan elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag of van het Reglement, dat niet door onderhandelingen wordt beslecht, door een der betrokken Staten worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), tenzij de betrokken Staten een andere wijze ter beslechting van het geschil overeenkomen. Het Internationale Bureau dient door de eisende Verdragsluitende Staat in kennis te worden gesteld van het aan het Hof voorgelegde geschil; het Internationale Bureau stelt de andere Verdragsluitende Staten hiervan in kennis. 
+Onverminderd artikel 64, vijfde lid, kan elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag of van het Reglement, dat niet door onderhandelingen wordt beslecht, door een der betrokken Staten worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het Statuut van het Hof, tenzij de betrokken Staten een andere wijze ter beslechting van het geschil overeenkomen. Het Internationale Bureau dient door de eisende Verdragsluitende Staat in kennis te worden gesteld van het aan het Hof voorgelegde geschil; het Internationale Bureau stelt de andere Verdragsluitende Staten hiervan in kennis. 
 
 ### HOOFDSTUK  VII  
 
@@ -5494,7 +5483,7 @@ c) Wijzigingen aanvaard overeenkomstig het bepaalde onder *a)* binden alle State
 
 (ii) nederlegging van een akte van toetreding.     
 (2).  De akten van bekrachtiging of toetreding worden nedergelegd bij de Directeur-Generaal.   
-(3).  De bepalingen van artikel 24 van de Akte van Stockholm bij het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) zijn van toepassing op het onderhavige Verdrag.   
+(3).  De bepalingen van artikel 24 van de Akte van Stockholm bij het Verdrag van Parijs tot Bescherming van de Industriële Eigendom zijn van toepassing op het onderhavige Verdrag.   
 (4).  Het derde lid mag op generlei wijze zo worden uitgelegd, dat het de erkenning of stilzwijgende aanvaarding door een Verdragsluitende Staat inhoudt van de feitelijke situatie betreffende een gebied waarop dit Verdrag door een andere Verdragsluitende Staat op grond van dat derde lid van toepassing is verklaard.  
 
 ### Artikel  63  
@@ -5546,7 +5535,7 @@ c) Indien het bepaalde onder *b)* van toepassing is, wordt de internationale aan
 (ii) indien een nationale aanvrage of een octrooi, gebaseerd op de internationale aanvrage, openbaar wordt gemaakt door of voor het nationale bureau van enige aangewezen Staat die een verklaring als bedoeld onder *a)* heeft afgelegd, onverwijld na een zodanige openbaarmaking maar niet vóór het verstrijken van 18 maanden te rekenen van de datum van voorrang.       
 (4).  
 
-a) Elke Staat waarvan de nationale wetgeving aan zijn octrooien gevolgen wat betreft de stand van de techniek verbindt vanaf de datum voor de openbaarmaking, maar niet voor de bepaling van de stand van de techniek, de datum van voorrang waarop men zich beroept ingevolge het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md), gelijkstelt met de werkelijke datum van indiening in die Staat, kan verklaren dat de indiening buiten die Staat van een internationale aanvrage, waarin die Staat is aangewezen, niet gelijk wordt gesteld aan een werkelijke indiening in die Staat voor de bepaling van de stand van de techniek.  
+a) Elke Staat waarvan de nationale wetgeving aan zijn octrooien gevolgen wat betreft de stand van de techniek verbindt vanaf de datum voor de openbaarmaking, maar niet voor de bepaling van de stand van de techniek, de datum van voorrang waarop men zich beroept ingevolge het Verdrag van Parijs tot Bescherming van de Industriële Eigendom, gelijkstelt met de werkelijke datum van indiening in die Staat, kan verklaren dat de indiening buiten die Staat van een internationale aanvrage, waarin die Staat is aangewezen, niet gelijk wordt gesteld aan een werkelijke indiening in die Staat voor de bepaling van de stand van de techniek.  
 
 b) Een Staat die een verklaring als bedoeld onder *a)* aflegt, is in zoverre niet gebonden door het bepaalde in artikel 11, derde lid.  
 
@@ -5589,7 +5578,7 @@ b) Officiële teksten worden vastgesteld door de Directeur-Generaal, na raadpleg
 ####Depositaris
 
 (1).  Het oorspronkelijke exemplaar van dit Verdrag wordt, wanneer het niet langer open staat voor ondertekening, nedergelegd bij de Directeur-Generaal.   
-(2).  De Directeur-Generaal verstrekt twee door hem voor eensluidend gewaarmerkte afschriften van dit Verdrag en van het daaraan gehechte Reglement aan de Regeringen van alle Staten die partij zijn bij het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) en, op verzoek, aan de Regeringen van andere Staten.   
+(2).  De Directeur-Generaal verstrekt twee door hem voor eensluidend gewaarmerkte afschriften van dit Verdrag en van het daaraan gehechte Reglement aan de Regeringen van alle Staten die partij zijn bij het Verdrag van Parijs tot Bescherming van de Industriële Eigendom en, op verzoek, aan de Regeringen van andere Staten.   
 (3).  De Directeur-Generaal doet dit Verdrag registreren bij het Secretariaat van de Verenigde Naties.   
 (4).  De Directeur-Generaal verstrekt twee door hem voor eensluidend gewaarmerkte afschriften van alle wijzigingen van dit Verdrag en van het Reglement aan de Regeringen van alle Verdragsluitende Staten en, op verzoek, aan de Regeringen van andere Staten.  
 
@@ -5597,7 +5586,7 @@ b) Officiële teksten worden vastgesteld door de Directeur-Generaal, na raadpleg
 
 ####Kennisgevingen
 
-De Directeur-Generaal stelt de Regeringen van alle Staten die partij zijn bij het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) in kennis van: 
+De Directeur-Generaal stelt de Regeringen van alle Staten die partij zijn bij het Verdrag van Parijs tot Bescherming van de Industriële Eigendom in kennis van: 
 
 (i) ondertekeningen ingevolge artikel 62,  
 
@@ -5763,13 +5752,13 @@ iii. een aanduiding dat de internationale aanvrage, ten aanzien van elke aangewe
 b. Indien, onverminderd paragraaf a, i, op 5 oktober 2005 de nationale wetgeving van een Verdragsluitende Staat bepaalt dat de indiening van een internationale aanvrage die de aanwijzing van die staat omvat en waarin een beroep op een recht van voorrang wordt gedaan van een eerdere nationale aanvrage met rechtsgevolgen in die staat waardoor de eerdere nationale aanvrage ophoudt rechtsgevolgen te hebben, hetgeen dezelfde gevolgen heeft als intrekking van de eerdere nationale aanvrage, kan elk verzoekschrift waarin een beroep wordt gedaan op de voorrang van een eerder in die staat ingediende nationale aanvrage, een vermelding bevatten dat die staat niet wordt aangewezen, op voorwaarde dat het aangewezen bureau het Internationale Bureau uiterlijk op 5 januari 2006 ervan in kennis stelt dat deze paragraaf van toepassing is op aanwijzingen van die staat en dat de kennisgeving nog steeds van kracht is op de datum van internationale indiening. Het Internationale Bureau publiceert de ontvangen kennisgeving onverwijld in het mededelingenblad.   
 4.10.  *Beroep op een recht van voorrang*  
 
-a. In elke verklaring bedoeld in artikel 8, eerste lid, (Beroep op een recht van voorrang) kan een beroep worden gedaan op een recht van voorrang van een of meer eerdere aanvragen ingediend hetzij in, hetzij voor een land dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) of in of voor elk lid van de Wereldhandelsorganisatie dat geen partij is bij dat verdrag. Een beroep op een recht van voorrang wordt gedaan in het verzoekschrift; het bestaat uit een verklaring met de strekking dat een beroep wordt gedaan op een recht van voorrang van een eerdere aanvrage en bevat: 
+a. In elke verklaring bedoeld in artikel 8, eerste lid, (Beroep op een recht van voorrang) kan een beroep worden gedaan op een recht van voorrang van een of meer eerdere aanvragen ingediend hetzij in, hetzij voor een land dat partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom of in of voor elk lid van de Wereldhandelsorganisatie dat geen partij is bij dat verdrag. Een beroep op een recht van voorrang wordt gedaan in het verzoekschrift; het bestaat uit een verklaring met de strekking dat een beroep wordt gedaan op een recht van voorrang van een eerdere aanvrage en bevat: 
 
 i. de datum waarop de eerdere aanvrage werd ingediend;  
 
 ii. het nummer waaronder de eerdere aanvrage is ingediend;  
 
-iii. wanneer de eerdere aanvrage een nationale aanvrage is, het land dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) of het Lid van de Wereldhandelsorganisatie dat niet partij is bij dat Verdrag, waar de aanvrage is ingediend;  
+iii. wanneer de eerdere aanvrage een nationale aanvrage is, het land dat partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom of het Lid van de Wereldhandelsorganisatie dat niet partij is bij dat Verdrag, waar de aanvrage is ingediend;  
 
 iv. wanneer de eerdere aanvrage een regionale aanvrage is, de instantie belast met de verlening van regionale octrooien ingevolge het regionale verdrag inzake octrooien dat van toepassing is;  
 
@@ -5777,9 +5766,9 @@ v. wanneer de eerdere aanvrage een internationale aanvrage is, het ontvangende b
 
 b. In aanvulling op de ingevolge paragraaf a onder iv of v vereiste gegevens: 
 
-i. wanneer de eerdere aanvrage een regionale aanvrage of een internationale aanvrage is, kan het beroep op een recht van voorrang een of meer landen vermelden die partij zijn bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) waarvoor die eerdere aanvrage is ingediend;  
+i. wanneer de eerdere aanvrage een regionale aanvrage of een internationale aanvrage is, kan het beroep op een recht van voorrang een of meer landen vermelden die partij zijn bij het Verdrag van Parijs tot bescherming van de industriële eigendom waarvoor die eerdere aanvrage is ingediend;  
 
-ii. wanneer de eerdere aanvrage een regionale aanvrage is en ten minste een van de landen die partij zijn bij het verdrag inzake regionale octrooien noch partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) noch Lid is van de Wereldhandelsorganisatie, geeft het beroep op een recht van voorrang ten minste een land aan dat partij is bij dat Verdrag of een Lid van die Organisatie waarvoor die eerdere aanvrage is ingediend.   
+ii. wanneer de eerdere aanvrage een regionale aanvrage is en ten minste een van de landen die partij zijn bij het verdrag inzake regionale octrooien noch partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom noch Lid is van de Wereldhandelsorganisatie, geeft het beroep op een recht van voorrang ten minste een land aan dat partij is bij dat Verdrag of een Lid van die Organisatie waarvoor die eerdere aanvrage is ingediend.   
 
 c. Voor de toepassing van de paragrafen a en b, is artikel 2, onder vi, niet van toepassing. 
 
@@ -5843,7 +5832,7 @@ a) De beschrijving dient eerst de titel van de uitvinding aan te geven zoals ver
 
 (v) tenminste een uiteenzetting te geven van de beste wijze die door de aanvrager wordt overwogen om de uitvinding waarvoor bescherming wordt gevraagd in praktijk te brengen; dit moet, waar dienstig, worden gedaan aan de hand van voorbeelden en met verwijzing naar de mogelijke tekeningen; wanneer de nationale wetgeving van de aangewezen Staat niet de beschrijving van de beste wijze vereist, maar genoegen neemt met de beschrijving van een wijze (ongeacht of het al of niet de beste is die wordt overwogen), heeft het nalaten van een beschrijving van de overwogen beste wijze in die Staat geen rechtsgevolgen;  
 
-(vi) wanneer dit niet duidelijk uit de beschrijving of de aard van de uitvinding blijkt, uitdrukkelijk de manier aan te geven waarop de uitvinding in de nijverheid kan worden geëxploiteerd en de manier waarop zij kan worden vervaardigd en toegepast, of indien zij alleen kan worden toegepast, de manier waarop zij kan worden toegepast; de uitdrukking „nijverheid” dient te worden verstaan in de ruimste zin zoals in het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).    
+(vi) wanneer dit niet duidelijk uit de beschrijving of de aard van de uitvinding blijkt, uitdrukkelijk de manier aan te geven waarop de uitvinding in de nijverheid kan worden geëxploiteerd en de manier waarop zij kan worden vervaardigd en toegepast, of indien zij alleen kan worden toegepast, de manier waarop zij kan worden toegepast; de uitdrukking „nijverheid” dient te worden verstaan in de ruimste zin zoals in het Verdrag van Parijs tot Bescherming van de Industriële Eigendom.    
 
 b) De indeling en volgorde aangegeven onder paragraaf *a)* dienen te worden aangehouden behalve wanneer, wegens de aard van de uitvinding, een andere indeling of volgorde zou leiden tot een beter begrip en een grotere beknoptheid.  
 
@@ -6822,7 +6811,7 @@ b) Voor verzoeken ingevolge artikel 13, tweede lid, onder *b)* is een taks versc
 
 a. De rechtsgevolgen van een internationale aanvrage waarvan de datum van internationale indiening valt in de in paragraaf b omschreven periode, kunnen worden uitgebreid tot een Staat („de opvolgerstaat”) waarvan het grondgebied vóór de onafhankelijkheid van die Staat deel uitmaakte van het grondgebied van een in de internationale aanvrage aangewezen Verdragsluitende Staat die vervolgens is opgehouden te bestaan (de „voorgangerstaat”), op voorwaarde dat de opvolgerstaat Verdragsluitende Staat is geworden door middel van de nederlegging bij de Directeur-Generaal van een verklaring van voortgezette gebondenheid, ertoe strekkende dat het Verdrag wordt toegepast door de opvolgerstaat.  
 
-b. Het in paragraaf a bedoelde tijdvak begint op de dag volgend op de laatste dag van het bestaan van de voorgangerstaat en eindigt twee maanden na de datum waarop de in paragraaf a bedoelde verklaring door de Directeur-Generaal ter kennis is gebracht van de Regeringen van de Staten die partij zijn bij het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md). Wanneer de onafhankelijkheidsdatum van de opvolgerstaat echter eerder valt dan de datum van de dag volgend op de laatste dag van het bestaan van de voorgangerstaat, kan de opvolgerstaat verklaren dat bedoeld tijdvak begint op de datum van haar onafhankelijkheid; deze verklaring dient te worden afgegeven te zamen met de in paragraaf a bedoelde verklaring en de onafhankelijkheidsdatum dient daarin te zijn genoemd.  
+b. Het in paragraaf a bedoelde tijdvak begint op de dag volgend op de laatste dag van het bestaan van de voorgangerstaat en eindigt twee maanden na de datum waarop de in paragraaf a bedoelde verklaring door de Directeur-Generaal ter kennis is gebracht van de Regeringen van de Staten die partij zijn bij het Verdrag van Parijs tot Bescherming van de Industriële Eigendom. Wanneer de onafhankelijkheidsdatum van de opvolgerstaat echter eerder valt dan de datum van de dag volgend op de laatste dag van het bestaan van de voorgangerstaat, kan de opvolgerstaat verklaren dat bedoeld tijdvak begint op de datum van haar onafhankelijkheid; deze verklaring dient te worden afgegeven te zamen met de in paragraaf a bedoelde verklaring en de onafhankelijkheidsdatum dient daarin te zijn genoemd.  
 
 c. Gegevens over internationale aanvragen waarvan de indieningsdatum valt binnen de ingevolge paragraaf b. van toepassing zijnde periode en waarvan de rechtsgevolgen worden uitgebreid tot de opvolgerstaat, worden door het Internationaal Bureau gepubliceerd in het mededelingenblad.    
 32.2.  *Rechtsgevolgen van de uitbreiding tot de opvolgerstaat*
@@ -7113,20 +7102,6 @@ c. Het Internationaal Bureau doet een exemplaar van de vertaling aan alle betrok
 
 d. In het geval bedoeld in Regel 44*bis*. 2 b wordt het ingevolge Regel 43*bis*. 1 opgestelde schriftelijke oordeel op verzoek van het betrokken aangewezen bureau door of onder de verantwoordelijkheid van het Internationaal Bureau vertaald in het Engels. Het Internationaal Bureau doet binnen twee maanden na de datum van ontvangst van het verzoek om een vertaling een exemplaar van de vertaling toekomen aan het betrokken aangewezen bureau en doet op hetzelfde tijdstip een exemplaar toekomen aan de aanvrager.  
 44bis.4.  *Commentaar op de vertaling*  De aanvrager kan schriftelijk commentaar indienen aangaande de juistheid van de in Regel 44*bis*. 3 b. of d. bedoelde vertaling en een exemplaar daarvan toezenden aan elk van de betrokken aangewezen bureaus en aan het Internationaal Bureau. 
-
-### Regel  44ter  
-
-####Vertrouwelijk karakter van schriftelijk oordeel, verslag, vertaling en commentaar
-
-44ter.1. *Vertrouwelijk karakter*  
-
-a. Voor het verstrijken van 30 maanden vanaf de datum van voorrang verlenen het Internationaal Bureau en de Instantie voor Internationaal Nieuwheidsonderzoek, tenzij op verzoek van of daartoe gemachtigd door de aanvrager, geen persoon of instantie toegang: 
-
-i. tot het ingevolge Regel 43*bis*. 1 opgestelde schriftelijke oordeel, een ingevolge Regel 44*bis*. 3 d. opgestelde vertaling ervan of tot door de aanvrager ingevolge Regel 44*bis*. 4 toegezonden schriftelijk commentaar inzake een dergelijke vertaling;  
-
-ii. indien een verslag ingevolge Regel 44*bis*. 1 is afgegeven, tot dat verslag, een ingevolge Regel 44*bis*. 3 sub b. vervaardigde vertaling ervan of tot door de aanvrager ingevolge Regel 44*bis*. 4 toegezonden schriftelijk commentaar inzake een dergelijke vertaling.   
-
-b. Voor de toepassing van paragraaf a wordt verstaan onder „toegang” alle middelen waarmee derden kennis kunnen nemen, met inbegrip van individuele toezending en algemene publicatie.   
 
 ### Regel  45  
 
@@ -7993,24 +7968,25 @@ iii. indien in de internationale aanvrage die het voorwerp is van een internatio
 
 a. Behoudens het in de paragrafen b tot en met d bepaalde, wordt de internationale voorlopige beoordeling gebaseerd op de internationale aanvrage zoals ingediend.  
 
-b. De aanvrager kan wijzigingen ingevolge artikel 34 indienen bij de indiening van het verzoek of, onverminderd Regel 66.4*bis*, totdat het verslag van de internationale voorlopige beoordeling wordt opgesteld.  
+b. De aanvrager kan wijzigingen ingevolge artikel 34 indienen bij de indiening van het verzoek of, onverminderd Regel 66.4bis, totdat het verslag van de internationale voorlopige beoordeling wordt opgesteld.  
 
 c. Wijzigingen ingevolge artikel 19 die zijn aangebracht voordat het verzoek werd ingediend, worden in aanmerking genomen voor de internationale voorlopige beoordeling, tenzij deze worden vervangen, of worden geacht te zijn achterhaald, door een wijziging ingevolge artikel 34.  
 
-d. Wijzigingen ingevolge artikel 19 die zijn aangebracht nadat het verzoek werd ingediend en wijzigingen ingevolge artikel 34 die zijn ingediend bij de Instantie voor de Internationale Voorlopige Beoordeling, worden, onverminderd Regel 66.4*bis*, in aanmerking genomen voor de internationale voorlopige beoordeling.  
+d. Wijzigingen ingevolge artikel 19 die zijn aangebracht nadat het verzoek werd ingediend en wijzigingen ingevolge artikel 34 die zijn ingediend bij de Instantie voor de Internationale Voorlopige Beoordeling, worden, onverminderd Regel 66.4bis, in aanmerking genomen voor de internationale voorlopige beoordeling.  
 
-d-bis.Een ingevolge Regel 91.1 toegestane verbetering van een kennelijke fout wordt ten behoeve van de internationale voorlopige beoordeling met inachtneming van Regel 66.4*bis* in aanmerking genomen door de Instantie voor de Internationale Voorlopige Beoordeling.
+d-bis.Een ingevolge Regel 91.1 toegestane verbetering van een kennelijke fout wordt ten behoeve van de internationale voorlopige beoordeling met inachtneming van Regel 66.4bis in aanmerking genomen door de Instantie voor de Internationale Voorlopige Beoordeling.
 
 e. Conclusies met betrekking tot uitvindingen ten aanzien waarvan geen verslag van een internationaal nieuwheidsonderzoek is opgesteld, behoeven niet het voorwerp te vormen van de internationale voorlopige beoordeling.    
 66.1bis.  *Schriftelijk oordeel van de Instantie voor Internationaal Nieuwheidsonderzoek*  
 
-a. Onverminderd paragraaf b., wordt het ingevolge Regel 43*bis*. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijke oordeel beschouwd als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a.  
+a. Onverminderd paragraaf b., wordt het ingevolge Regel 43bis. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijke oordeel beschouwd als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a.  
 
-b. Een Instantie voor de Internationale Voorlopige Beoordeling kan het Internationaal Bureau ervan in kennis stellen dat op de voor haar te voeren procedure paragraaf a. niet van toepassing is ter zake van schriftelijke oordelen ingevolge Regel 43*bis. *1, opgesteld door de in de kennisgeving vermelde Instantie of Instanties voor Internationaal Nieuwheidsonderzoek, met dien verstande dat deze kennisgeving niet van toepassing is op gevallen waarin het nationaal bureau of de intergouvernementele organisatie die is opgetreden als Instantie voor Internationaal Nieuwheidsonderzoek tevens optreedt als Instantie voor de Internationale Voorlopige Beoordeling. Het Internationaal Bureau publiceert een dergelijke kennisgeving onverwijld in het mededelingenblad.  
+b. Een Instantie voor de Internationale Voorlopige Beoordeling kan het Internationaal Bureau ervan in kennis stellen dat op de voor haar te voeren procedure paragraaf a. niet van toepassing is ter zake van schriftelijke oordelen ingevolge Regel 43bis. 1, opgesteld door de in de kennisgeving vermelde Instantie of Instanties voor Internationaal Nieuwheidsonderzoek, met dien verstande dat deze kennisgeving niet van toepassing is op gevallen waarin het nationaal bureau of de intergouvernementele organisatie die is opgetreden als Instantie voor Internationaal Nieuwheidsonderzoek tevens optreedt als Instantie voor de Internationale Voorlopige Beoordeling. Het Internationaal Bureau publiceert een dergelijke kennisgeving onverwijld in het mededelingenblad.  
 
-c. Wanneer het ingevolge Regel 43*bis*. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijk oordeel, uit hoofde van een kennisgeving ingevolge paragraaf b., niet wordt aangemerkt als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a., stelt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager dienovereenkomstig schriftelijk daarvan in kennis.   
+c. Wanneer het ingevolge Regel 43bis. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijk oordeel, uit hoofde van een kennisgeving ingevolge paragraaf b., niet wordt aangemerkt als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a., stelt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager dienovereenkomstig schriftelijk daarvan in kennis.   
 
-d. Een ingevolge Regel 43*bis*. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgesteld schriftelijk oordeel, dat uit hoofde van een kennisgeving ingevolge paragraaf b., niet wordt aangemerkt als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige beoordeling voor de toepassing van Regel 66.2 a., wordt desalniettemin door de Instantie voor de Internationale Voorlopige beoordeling in aanmerking genomen in de procedure ingevolge Regel 66.2 a.   
+d. Een ingevolge Regel 43bis. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgesteld schriftelijk oordeel, dat uit hoofde van een kennisgeving ingevolge paragraaf b., niet wordt aangemerkt als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige beoordeling voor de toepassing van Regel 66.2 a., wordt desalniettemin door de Instantie voor de Internationale Voorlopige beoordeling in aanmerking genomen in de procedure ingevolge Regel 66.2 a.  
+66.1ter. *Aanvullende nieuwheidsonderzoeken*De Instantie voor de Internationale Voorlopige Beoordeling voert een nieuwheidsonderzoek uit („aanvullend nieuwheidsonderzoek”) om de in Regel 64 bedoelde documenten te achterhalen die, na de datum waarop het verslag van het internationale nieuwheidsonderzoek is opgesteld, zijn gepubliceerd of voor de genoemde Instantie ten behoeve van nieuwheidsonderzoek beschikbaar zijn geworden, tenzij zij van mening is dat dit nieuwheidsonderzoek geen enkel doel zou dienen. Indien de Instantie van oordeel is dat een van de in artikel 34, derde of vierde lid, of in Regel 66.1.e) bedoelde situaties bestaat, heeft het aanvullende nieuwheidsonderzoek uitsluitend betrekking op de delen van de internationale aanvrage waarop de internationale voorlopige beoordeling van toepassing is. 
 66.2.   *Schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling* 
 
 a)Indien de Instantie voor de Internationale Voorlopige Beoordeling
@@ -8164,7 +8140,9 @@ c-bis)Indien de conclusies, beschrijving of tekeningen zijn gewijzigd, maar het 
 
 d)Indien conclusies betrekking hebben op uitvindingen ten aanzien waarvan geen verslag van het internationale nieuwheidsonderzoek is opgesteld en deze derhalve niet het voorwerp van internationale voorlopige beoordeling zijn geweest, dient dit in het verslag van de internationale voorlopige beoordeling te worden vermeld.
 
-e)Indien een verbetering van een kennelijke fout ingevolge Regel 66.1 in aanmerking wordt genomen, dient zulks gemeld te worden in het verslag. Indien een verbetering van een kennelijke fout ingevolge Regel 66.4*bis* niet in aanmerking wordt genomen, dient zulks zo mogelijk te worden aangegeven in het verslag; bij ontstentenis daarvan dient de Instantie voor de Internationale Voorlopige Beoordeling het Internationale Bureau dienovereenkomstig in kennis te stellen en handelt het Internationale Bureau zoals voorzien in de Administratieve Instructies.   
+e)Indien een verbetering van een kennelijke fout ingevolge Regel 66.1 in aanmerking wordt genomen, dient zulks gemeld te worden in het verslag. Indien een verbetering van een kennelijke fout ingevolge Regel 66.4*bis* niet in aanmerking wordt genomen, dient zulks zo mogelijk te worden aangegeven in het verslag; bij ontstentenis daarvan dient de Instantie voor de Internationale Voorlopige Beoordeling het Internationale Bureau dienovereenkomstig in kennis te stellen en handelt het Internationale Bureau zoals voorzien in de Administratieve Instructies.
+
+f)Het verslag dient de datum waarop het aanvullende nieuwheidsonderzoek ingevolge Regel 66.1ter is uitgevoerd te vermelden of een verklaring te bevatten dat er geen aanvullend nieuwheidsonderzoek is uitgevoerd.   
 70.3.   *Vermeldingen* Het verslag dient de Instantie voor de Internationale Voorlopige Beoordeling die het heeft opgesteld aan te geven door de naam van deze Instantie te vermelden, en de internationale aanvrage door het nummer van de internationale aanvrage, de naam van de aanvrager en de datum van de internationale indiening te vermelden.   
 70.4.   *Data* Het verslag dient te vermelden: 
 
@@ -8176,31 +8154,31 @@ e)Indien een verbetering van een kennelijke fout ingevolge Regel 66.1 in aanmerk
 a) Het verslag dient de classificatie te herhalen die ingevolge Regel 43.3 was toegekend, indien de Instantie voor de Internationale Voorlopige Beoordeling met deze classificatie instemt.  
 
 b) Indien dit niet het geval is, dient de Instantie voor de Internationale Voorlopige Beoordeling in het verslag de classificatie aan te geven, tenminste overeenkomstig de Internationale Classificatie van Octrooien, die zij juist acht.     
-70.6.   *Verklaring ingevolge artikel 35, tweede lid* 
+70.6.   *Verklaring ingevolge* artikel 35, tweede lid 
 
 a) De verklaring bedoeld in artikel 35, tweede lid, dient te bestaan uit de woorden „JA” of „NEEN” of het equivalent daarvan in de taal van het verslag, of een passend teken zoals bepaald in de Administratieve Instructies en zij dient vergezeld te gaan van de eventuele aanhalingen, toelichtingen en opmerkingen bedoeld in de laatste zin van artikel 35, tweede lid.  
 
 b) Indien aan een van de drie maatstaven genoemd in artikel 35, tweede lid (d.w.z. nieuwheid, uitvinderswerkzaamheid (het niet voor de hand liggen), vatbaar zijn voor toepassing op het gebied van de nijverheid) niet is voldaan, dient de verklaring negatief te zijn. Indien in zulk een geval aan een der maatstaven, afzonderlijk beschouwd, is voldaan, dient het verslag de maatstaf of maatstaven waaraan is voldaan aan te geven.     
-70.7.   *Aanhalingen ingevolge artikel 35, tweede lid* 
+70.7.  * Aanhalingen ingevolge *artikel 35, tweede lid 
 
 a) In het verslag dienen de literatuurplaatsen te worden aangehaald die van belang worden geacht ter staving van de ingevolge artikel 35, tweede lid, afgelegde verklaringen, ongeacht of deze documenten al dan niet worden aangehaald in het verslag van het internationale nieuwheidsonderzoek. Documenten die worden aangehaald in het verslag van het internationale nieuwheidsonderzoek dienen alleen in het verslag te worden aangehaald wanneer zij door de Instantie voor de Internationale Voorlopige Beoordeling als relevant worden beschouwd.  
 
-b) De bepalingen van Regel 43.5 *b)* en *e)* zijn ook van toepassing op het verslag.     
-70.8.   *Toelichtingen ingevolge artikel 35, tweede lid* De Administratieve Instructies dienen richtlijnen te bevatten voor de gevallen waarin de toelichtingen bedoeld in artikel 35, tweede lid, wel of niet dienen te worden gegeven en de vorm van zulke toelichtingen. Deze richtlijnen dienen te zijn gebaseerd op de volgende beginselen: 
+b) De bepalingen van Regel 43.5 b) en *e)* zijn ook van toepassing op het verslag.     
+70.8.   *Toelichtingen ingevolge *artikel 35, tweede lid De Administratieve Instructies dienen richtlijnen te bevatten voor de gevallen waarin de toelichtingen bedoeld in artikel 35, tweede lid, wel of niet dienen te worden gegeven en de vorm van zulke toelichtingen. Deze richtlijnen dienen te zijn gebaseerd op de volgende beginselen: 
 
 (i) er dienen toelichtingen te worden gegeven wanneer de verklaring betreffende een conclusie negatief is;  
 
 (ii) er dienen toelichtingen te worden gegeven wanneer de verklaring positief is, tenzij de reden voor het aanhalen van een literatuurplaats gemakkelijk voorstelbaar is op basis van raadpleging van de aangehaalde literatuurplaats;  
 
-(iii) over het algemeen dienen toelichtingen te worden gegeven, indien het geval bedoeld in de laatste zin van Regel 70.6 *b)* zich voordoet.     
+(iii) over het algemeen dienen toelichtingen te worden gegeven, indien het geval bedoeld in de laatste zin van Regel 70.6 b) zich voordoet.     
 70.9.   *Niet-schriftelijke openbaarmakingen* Niet-schriftelijke openbaarmakingen waarnaar in het verslag uit hoofde van Regel 64.2 wordt verwezen dienen te worden vermeld door het aangeven van de soort, de datum waarop de schriftelijke uiteenzetting, verwijzend naar de niet-schriftelijke openbaarmaking, ter beschikking van het publiek is gesteld en de datum waarop de niet-schriftelijke openbaarmaking in het publiek geschiedde.   
 70.10.   *Bepaalde openbaar gemaakte literatuurplaatsen* Een openbaar gemaakte aanvrage of een octrooi waarnaar in het verslag uit hoofde van Regel 64.3 wordt verwezen, dient als zodanig te worden vermeld en vergezeld te gaan van een vermelding van haar datum van publikatie, van haar indieningsdatum en de mogelijke ingeroepen datum van voorrang. Ten aanzien van de datum van voorrang van zulk een document kan het verslag aangeven dat deze datum, naar het oordeel van de Instantie voor de Internationale Voorlopige Beoordeling, niet rechtsgeldig is ingeroepen.  
 70.11. *Vermelding van wijzigingen*Indien wijzigingen zijn aangebracht ten overstaan van de Instantie voor de Internationale Voorlopige Beoordeling, dient dit feit in het verslag te worden vermeld. Wanneer een wijziging heeft geleid tot het vervallen van een geheel blad, dient ook dit feit nader te worden aangegeven.  
 70.12.   *Vermelding van bepaalde gebreken en andere zaken* Indien de Instantie voor de Internationale Voorlopige Beoordeling van oordeel is dat op het tijdstip waarop zij het verslag opstelt: 
 
-(i) de internationale aanvrage een van de gebreken bevat bedoeld in Regel 66.2 *a)* (iii), dient zij dit oordeel en de redenen daarvoor op te nemen in het verslag;  
+(i) de internationale aanvrage een van de gebreken bevat bedoeld in Regel 66.2 a) (iii), dient zij dit oordeel en de redenen daarvoor op te nemen in het verslag;  
 
-(ii) de internationale aanvrage aanleiding geeft tot een van de opmerkingen bedoeld in Regel 66.2 *a)* (v), kan zij dit oordeel opnemen in het verslag en indien zij zulks doet, dient zij in het verslag tevens de gronden voor dit oordeel aan te geven;  
+(ii) de internationale aanvrage aanleiding geeft tot een van de opmerkingen bedoeld in Regel 66.2 a) (v), kan zij dit oordeel opnemen in het verslag en indien zij zulks doet, dient zij in het verslag tevens de gronden voor dit oordeel aan te geven;  
 
 (iii)er sprake is van de in artikel 34, vierde lid, bedoelde omstandigheden, dient zij dit oordeel en de redenen daarvoor aan te geven in het verslag;
 
@@ -8222,13 +8200,13 @@ b. Het verslag heeft als titel „Internationaal voorlopig verslag inzake octroo
 
 (iii)  elk vervangend blad ingevolge Regel 26.4 zoals van toepassing ingevolge Regel 91.2, dat een door die Instantie ingevolge Regel 91.1(b)(iii) goedgekeurde verbetering van een kennelijke fout bevat en elke brief ingevolge Regel 26.4, zoals van toepassing ingevolge Regel 91.2; tenzij een dergelijk vervangend blad is vervangen of achterhaald door een later vervangend blad of een wijziging die leidt tot het vervallen van een geheel blad ingevolge Regel 66.8(b); en  
 
-(iv)  wanneer het verslag gegevens bevat als bedoeld in Regel 70.2(e), elk blad en elke brief ter zake van een verbetering van een kennelijke fout die ingevolge Regel 66.4*bis* niet in aanmerking is genomen.    
+(iv)  wanneer het verslag gegevens bevat als bedoeld in Regel 70.2(e), elk blad en elke brief ter zake van een verbetering van een kennelijke fout die ingevolge Regel 66.4bis niet in aanmerking is genomen.    
 
 (b)  Onverminderd paragraaf (a) wordt elk vervangen of achterhaald blad bedoeld in die paragraaf en elke brief bedoeld in die paragraaf met betrekking tot dat vervangen of achterhaalde blad tevens bij het verslag gevoegd wanneer 
 
-(i)  de Instantie voor de Internationale Voorlopige Beoordeling van mening is dat de desbetreffende tot vervanging of achterhaald zijn leidende wijziging buiten het kader van de uiteenzetting in de internationale aanvrage zoals ingediend valt en het verslag gegevens bevat als bedoeld in Regels 70.2 (c);  
+(i) de Instantie voor de Internationale Voorlopige Beoordeling van mening is dat de desbetreffende tot vervanging of achterhaald zijn leidende wijziging buiten het kader van de uiteenzetting in de internationale aanvrage zoals ingediend valt en het verslag gegevens bevat als bedoeld in Regels 70.2 (c);  
 
-(ii)  de desbetreffende tot vervanging of achterhaald zijn leidende wijziging niet vergezeld ging van een brief die de grond voor de wijziging van de aanvrage zoals ingediend vermeldt, en het verslag is vastgesteld alsof de wijziging niet heeft plaatsgevonden en een vermelding genoemd in Regel 70.2 (c-*bis*) bevat.      In dat geval wordt het vervangen of achterhaalde vervangende blad voorzien van de aantekeningen bedoeld in de Administratieve Instructies.
+(ii) de desbetreffende tot vervanging of achterhaald zijn leidende wijziging niet vergezeld ging van een brief die de grond voor de wijziging van de aanvrage zoals ingediend vermeldt, en het verslag is vastgesteld alsof de wijziging niet heeft plaatsgevonden en een vermelding genoemd in Regel 70.2 (c-bis) bevat.      In dat geval wordt het vervangen of achterhaalde vervangende blad voorzien van de aantekeningen bedoeld in de Administratieve Instructies.
 70.17. *Talen van het verslag en de bijlagen*Het verslag en iedere bijlage dienen te zijn gesteld in de taal waarin de internationale aanvrage waarop zij betrekking hebben, wordt gepubliceerd of, indien de internationale voorlopige beoordeling overeenkomstig Regel 55.2 wordt verricht op basis van een vertaling van de internationale aanvrage, in de taal van die vertaling. 
 
 ### Regel  71  
@@ -8896,7 +8874,7 @@ b. De toezending ingevolge paragraaf a. wordt, wanneer zulks is overeengekomen d
 
 a. Op verzoek van de aanvrager of van een door de aanvrager gemachtigde persoon verstrekt het Internationaal Bureau, tegen vergoeding van de daaraan verbonden kosten, afschriften van elk document dat in zijn dossier aanwezig is.  
 
-b. Op verzoek van enig persoon, maar niet vóór de internationale publicatie van de internationale aanvrage, en met inachtneming van artikel 38 en Regel 44*ter*. 1, verstrekt het Internationaal Bureau, tegen vergoeding van de daaraan verbonden kosten, afschriften van elk document dat in zijn dossier aanwezig is.  
+b. Op verzoek van enig persoon, maar niet vóór de internationale publicatie van de internationale aanvrage, en met inachtneming van artikel 38, verstrekt het Internationaal Bureau, tegen vergoeding van de daaraan verbonden kosten, afschriften van elk document dat in zijn dossier aanwezig is.  
 
 c. Indien zulks is verzocht door een gekozen bureau, verstrekt het Internationaal Bureau namens het gekozen bureau afschriften van het verslag van de internationale voorlopige beoordeling ingevolge paragraaf b.. Het Internationaal Bureau publiceert de gegevens van een dergelijk verzoek onverwijld in het mededelingenblad.    
 94.2.  *Toegang tot het door de Instantie voor de Internationale Voorlopige Beoordeling gehouden dossier*  Op verzoek van de aanvrager of van een door de aanvrager gemachtigde persoon of, zodra het verslag van de internationale voorlopige beoordeling is opgesteld, een gekozen bureau, verstrekt de Instantie voor de Internationale Voorlopige Beoordeling, tegen vergoeding van de daaraan verbonden kosten, afschriften van elk document dat in haar dossier aanwezig is. 

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 maart 2014, nr. IENM/BSK-2014/67724, houdende vaststelling van de ligging van de risicoplafonds langs transportroutes en regels voor ruimtelijke ontwikkelingen langs transportroutes in verband met externe veiligheid (Regeling basisnet)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op de [artikelen 13, eerste lid](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), [14, eerste tot en met vierde lid](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), en [16, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), en de [artikelen 3, vijfde lid](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), [4, tweede lid](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), [8, vierde lid](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), [10, eerste lid, onderdeel a](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), en [11, eerste en tweede lid, van het Besluit externe veiligheid transportroutes](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md);
+Gelet op de artikelen 13, eerste lid, 14, eerste tot en met vierde lid, en 16, eerste lid, van de Wet vervoer gevaarlijke stoffen, en de artikelen 3, vijfde lid, 4, tweede lid, 8, vierde lid, 10, eerste lid, onderdeel a, en 11, eerste en tweede lid, van het Besluit externe veiligheid transportroutes;
 Besluit:     
 ### Paragraaf  1  
 
@@ -16,9 +16,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  In deze regeling wordt verstaan onder: 
 
-*baanvak:* gedeelte van de hoofdspoorweg waarvan het begin en einde wordt aangeduid met coördinaten uit het stelsel van de Rijksdriehoeksmeting, bedoeld in [artikel 52 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md);  
+*baanvak:* gedeelte van de hoofdspoorweg waarvan het begin en einde wordt aangeduid met coördinaten uit het stelsel van de Rijksdriehoeksmeting, bedoeld in artikel 52 van de Kadasterwet;  
 
-*Bevt:* [Besluit externe veiligheid transportroutes](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md);  
+*Bevt:* Besluit externe veiligheid transportroutes;  
 
 *binnenste kantstreep:* markering van de begrenzing van de binnenzijde van de binnenste rijstrook;  
 
@@ -26,7 +26,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 *doorgaande rijbaan:* elk voor in één rijrichting rijdende voertuigen bestemd weggedeelte, zonder de invoeg- en uitvoegstroken;  
 
-*GR-plafond:* plaats als bedoeld in [artikel 14, tweede lid, van de wet](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) waar het plaatsgebonden risico maximaal 10<sup>-7</sup> of 10<sup>-8</sup> per jaar is;  
+*GR-plafond:* plaats als bedoeld in artikel 14, tweede lid, van de wet waar het plaatsgebonden risico maximaal 10<sup>-7</sup> of 10<sup>-8</sup> per jaar is;  
 
 *HART:* de Handleiding risicoanalyse transport, versie 1;  
 
@@ -34,33 +34,33 @@ Treedt in werking op een nader te bepalen tijdstip
 
 *minister:* Minister van Infrastructuur en Milieu;  
 
-*omgevingsvergunning:* vergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken;  
+*omgevingsvergunning:* vergunning waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken;  
 
-*overige hoofdspoorwegen:* hoofdspoorwegen, genoemd in [bijlage 1](../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) en [bijlage 2, onderdeel a, van het Besluit aanwijzing hoofdspoorwegen](../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md), voor zover ze niet met name zijn vermeld in bijlage II;  
+*overige hoofdspoorwegen:* hoofdspoorwegen, genoemd in bijlage 1 en bijlage 2, onderdeel a, van het Besluit aanwijzing hoofdspoorwegen, voor zover ze niet met name zijn vermeld in bijlage II;  
 
-*PR-plafond:* plaats als bedoeld in [artikel 14, eerste lid, van de wet](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) waar het plaatsgebonden risico maximaal 10<sup>-6</sup> per jaar is;  
+*PR-plafond:* plaats als bedoeld in artikel 14, eerste lid, van de wet waar het plaatsgebonden risico maximaal 10<sup>-6</sup> per jaar is;  
 
 *RBM II:* softwareprogramma voor de berekening van vervoersrisico’s, getiteld RBM II, versie 2;  
 
-*referentiepunt:* referentiepunt als bedoeld in [artikel 14, vierde lid, van de wet](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+*referentiepunt:* referentiepunt als bedoeld in artikel 14, vierde lid, van de wet;  
 
 *rekenmethodiek transportrisico’s:* rekenmethodiek voor de vaststelling van risico’s vanwege het vervoer van gevaarlijke stoffen, bestaande uit RBM II en HART;  
 
 *spoorbundel voor het doorgaand verkeer:* geheel van alle naast elkaar liggende sporen, niet zijnde opstelsporen en andere sporen waarmee het spoornetwerk slechts in één rijrichting kan worden bereikt, waarover treinen die rechtdoor rijden hun weg in dezelfde rijrichting kunnen vervolgen;  
 
-*tracébesluit:* tracébesluit als bedoeld in de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
+*tracébesluit:* tracébesluit als bedoeld in de Tracéwet;  
 
 *verbindingsboog:* rijbaan die bij knooppunten doorgaande rijbanen met elkaar verbindt;  
 
 *wegvak:* gedeelte van een weg als bedoeld in artikel 2, tweede lid;  
 
-*wet:* [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).     
-2.  In deze regeling wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).  
+*wet:* Wet vervoer gevaarlijke stoffen.     
+2.  In deze regeling wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening.  
 
 ### Artikel  2  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk bijlage I, bijlage II en bijlage III, zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in [artikel 13, eerste lid, van de wet](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).   
+1.  De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk bijlage I, bijlage II en bijlage III, zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in artikel 13, eerste lid, van de wet.   
 2.  Wegen als bedoeld in het eerste lid zijn onderverdeeld in wegvakken waarvan het begin en einde van het wegvak wordt aangeduid door benoeming van een knooppunt of van een aansluiting. Voor zover het begin of einde van een wegvak wordt aangeduid door een knooppunt, begint of eindigt het betreffende wegvak op het geografische midden van het knooppunt. Voor zover het begin of einde van een wegvak wordt aangeduid door benoeming van een aansluiting, begint of eindigt het betreffende wegvak op het geografische midden van de kruising van de doorgaande rijbaan met de weg waar de afslag op uit komt.   
 3.  Hoofdspoorwegen als bedoeld in het eerste lid zijn onderverdeeld in baanvakken.   
 4.  Binnenwateren als bedoeld in het eerste lid zijn onderverdeeld in vaarwegen. In open verbinding met deze vaarwegen staande havens en zijwateren die niet voor doorgaand vervoer worden gebruikt, vormen geen onderdeel van deze vaarwegen.  
@@ -95,17 +95,17 @@ Op een hoofdspoorweg als bedoeld in artikel 2, eerste lid, is het referentiepunt
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor de ligging van de referentiepunten, bedoeld in artikel 3, eerste lid, onderscheidenlijk artikel 4, is de feitelijke situatie bepalend.   
-2.  In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in [artikel 2 van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md) inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de referentiepunten bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.  
+2.  In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in artikel 2 van het Bevt inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de referentiepunten bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.  
 
 ### Artikel  6  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Op een binnenwater als bedoeld in artikel 2, eerste lid, zijn de referentiepunten gelegen op de begrenzingslijnen van de vaarweg zoals opgenomen in de legger, bedoeld in [artikel 5.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md).   
+1.  Op een binnenwater als bedoeld in artikel 2, eerste lid, zijn de referentiepunten gelegen op de begrenzingslijnen van de vaarweg zoals opgenomen in de legger, bedoeld in artikel 5.1 van de Waterwet.   
 2.  In afwijking van het eerste lid zijn de referentiepunten gelegen op: 
 
 a. de Westerschelde met haar mondingen op de begrenzingen van de vaargeulen;  
 
-b. het Hartelkanaal en het Beerkanaal op de begrenzingslijnen zoals weergegeven op de kaart in [bijlage III bij de Waterregeling](../../../../ministeriele-regeling/waterregeling/BWBR0026845/README.md).    
+b. het Hartelkanaal en het Beerkanaal op de begrenzingslijnen zoals weergegeven op de kaart in bijlage III bij de Waterregeling.    
 
 ### Artikel  7  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -129,14 +129,14 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  9  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dreigende overschrijding van een risicoplafond, bedoeld in [artikel 15, eerste of tweede lid, van de wet](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md). 
+Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dreigende overschrijding van een risicoplafond, bedoeld in artikel 15, eerste of tweede lid, van de wet. 
 
 ### Artikel  10  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De beheerder van de hoofdwegen, bedoeld in de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md), maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in artikel 2, eerste lid, per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.   
-2.  De beheerder van de hoofdspoorweginfrastructuur, bedoeld in [artikel 16, eerste lid, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md), maakt elk jaar op basis van de gegevens die hij heeft op grond van [artikel 4, eerste lid, van het Besluit spoorverkeer](../../../../AMvB/besluit/spoorverkeer/BWBR0017624/README.md) de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in artikel 2, eerste lid per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk.   
-3.  De beheerder van de hoofdvaarwegen, bedoeld in de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md), maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de binnenwateren, bedoeld in artikel 2, eerste lid, per stofcategorie inzichtelijk. Daarbij maakt de beheerder gebruik van de ladinggegevens, geregistreerd in het Informatie- en Volgsysteem voor de Scheepvaart, alsmede van de door de Havenbedrijven van Rotterdam en Amsterdam en het Gemeenschappelijk Nautisch Beheer Scheldegebied krachtens [artikel 15, vierde lid, van de wet](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) te verstrekken gegevens.   
+1.  De beheerder van de hoofdwegen, bedoeld in de Tracéwet, maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in artikel 2, eerste lid, per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.   
+2.  De beheerder van de hoofdspoorweginfrastructuur, bedoeld in artikel 16, eerste lid, van de Spoorwegwet, maakt elk jaar op basis van de gegevens die hij heeft op grond van artikel 4, eerste lid, van het Besluit spoorverkeer de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in artikel 2, eerste lid per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk.   
+3.  De beheerder van de hoofdvaarwegen, bedoeld in de Tracéwet, maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de binnenwateren, bedoeld in artikel 2, eerste lid, per stofcategorie inzichtelijk. Daarbij maakt de beheerder gebruik van de ladinggegevens, geregistreerd in het Informatie- en Volgsysteem voor de Scheepvaart, alsmede van de door de Havenbedrijven van Rotterdam en Amsterdam en het Gemeenschappelijk Nautisch Beheer Scheldegebied krachtens artikel 15, vierde lid, van de wet te verstrekken gegevens.   
 4.  Op verzoek van de minister verhoogt de beheerder de frequentie van het inzichtelijk maken van de omvang van het vervoer van gevaarlijke stoffen over een gedeelte van een weg, hoofdspoorweg of binnenwater en, indien van toepassing, de samenstelling van de treinen, tot hoogstens vier keer per jaar indien dit naar het oordeel van de minister noodzakelijk is ten behoeve van het verkrijgen van tijdig inzicht in een overschrijding of dreigende overschrijding van een risicoplafond.  
 
 ### Artikel  11  
@@ -162,12 +162,12 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  13  
 Treedt in werking op een nader te bepalen tijdstip 
 
-[Artikel 3, eerste en tweede lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md) is niet van toepassing op vaarwegen behorende tot de binnenvaartroutes, bedoeld in bijlage III, met uitzondering van het Amsterdam-Rijnkanaal en het Lekkanaal. 
+Artikel 3, eerste en tweede lid, van het Bevt is niet van toepassing op vaarwegen behorende tot de binnenvaartroutes, bedoeld in bijlage III, met uitzondering van het Amsterdam-Rijnkanaal en het Lekkanaal. 
 
 ### Artikel  14  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Bij de vaststelling van een besluit als bedoeld in [artikel 8, eerste lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md) dat betrekking heeft op gronden in de omgeving van een basisnetroute, vindt de berekening van het groepsrisico plaats door toepassing van de rekenmethodiek transportrisico’s.   
+1.  Bij de vaststelling van een besluit als bedoeld in artikel 8, eerste lid, van het Bevt dat betrekking heeft op gronden in de omgeving van een basisnetroute, vindt de berekening van het groepsrisico plaats door toepassing van de rekenmethodiek transportrisico’s.   
 2.  Bij de berekening van het groepsrisico worden de vervoershoeveelheden uit de tabellen in de bijlagen, genoemd in artikel 2, eerste lid, gebruikt.   
 3.  In afwijking van het eerste lid hoeft het groepsrisico voor de overige hoofdspoorwegen niet te worden berekend.   
 4.  In afwijking van het tweede lid wordt bij de berekening van het groepsrisico langs verbindingsbogen uitgegaan van de helft van de vervoershoeveelheden, bedoeld in het tweede lid, die gelden voor het wegvak waarvan de verbindingsboog aftakt.  
@@ -181,7 +181,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  15  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Bij de vaststelling van een besluit als bedoeld in de [artikelen 4, eerste lid](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), en [8, eerste lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md) dat betrekking heeft op gronden in de omgeving van een transportroute, niet zijnde een basisnetroute, vindt de berekening van het plaatsgebonden risico, onderscheidenlijk het groepsrisico, plaats door toepassing van de rekenmethodiek transportrisico’s.   
+1.  Bij de vaststelling van een besluit als bedoeld in de artikelen 4, eerste lid, en 8, eerste lid, van het Bevt dat betrekking heeft op gronden in de omgeving van een transportroute, niet zijnde een basisnetroute, vindt de berekening van het plaatsgebonden risico, onderscheidenlijk het groepsrisico, plaats door toepassing van de rekenmethodiek transportrisico’s.   
 2.  Bij de berekening van het plaatsgebonden risico, onderscheidenlijk het groepsrisico, worden de vervoershoeveelheden op basis van de meest recente inzichten omtrent die hoeveelheden gebruikt.  
 
 ### Paragraaf  6  
@@ -202,7 +202,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor de ligging van een plasbrandaandachtsgebied als bedoeld in artikel 16, eerste lid, is de feitelijke situatie bepalend.   
-2.  In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in [artikel 2 van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md) inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de buitenste kantstrepen, bedoeld in artikel 16, tweede lid, en de buitenste spoorstaven, bedoeld in artikel 16, derde lid, bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.  
+2.  In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in artikel 2 van het Bevt inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de buitenste kantstrepen, bedoeld in artikel 16, tweede lid, en de buitenste spoorstaven, bedoeld in artikel 16, derde lid, bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.  
 
 ### Paragraaf  7  
 
@@ -213,9 +213,9 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  18  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De meetpunten, bedoeld in [artikel 11, eerste en tweede lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), ter vaststelling of aan de grenswaarde of richtwaarde, genoemd in [artikel 4, eerste lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), onderscheidenlijk de basisnetafstand, bedoeld in [artikel 3, eerste lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), wordt voldaan, zijn: 
+De meetpunten, bedoeld in artikel 11, eerste en tweede lid, van het Bevt, ter vaststelling of aan de grenswaarde of richtwaarde, genoemd in artikel 4, eerste lid, van het Bevt, onderscheidenlijk de basisnetafstand, bedoeld in artikel 3, eerste lid, van het Bevt, wordt voldaan, zijn: 
 
-a. de plaats waar de gevel van een nieuw kwetsbaar of beperkt kwetsbaar object dat op grond van het vast te stellen besluit, bedoeld in [artikel 2 van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), wordt toegelaten, gebouwd mag worden, indien dat object een gebouw is, niet zijnde: 
+a. de plaats waar de gevel van een nieuw kwetsbaar of beperkt kwetsbaar object dat op grond van het vast te stellen besluit, bedoeld in artikel 2 van het Bevt, wordt toegelaten, gebouwd mag worden, indien dat object een gebouw is, niet zijnde: 
 
 1°. een school voor basis- of voortgezet onderwijs of een gebouw of gedeelte van een gebouw voor dagopvang van minderjarigen, of  
 
@@ -232,7 +232,7 @@ b. de grens van het gebied waar één van de volgende nieuwe bestemmingen wordt 
 ### Artikel  19  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De meetpunten, bedoeld in [artikel 11, tweede lid, van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), ter vaststelling of, voor de toepassing van [artikel 5 van het Bevt](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md), in een bestemmingsplan een kwetsbaar object geprojecteerd is binnen een basisnetafstand, zijn: 
+De meetpunten, bedoeld in artikel 11, tweede lid, van het Bevt, ter vaststelling of, voor de toepassing van artikel 5 van het Bevt, in een bestemmingsplan een kwetsbaar object geprojecteerd is binnen een basisnetafstand, zijn: 
 
 a. de plaats waar de gevel van het desbetreffende object dat op grond van dat bestemmingsplan is toegelaten, gebouwd mag worden, indien dat object een gebouw is, niet zijnde een school voor basis- of voortgezet onderwijs of een gebouw of gedeelte van een gebouw voor dagopvang van minderjarigen;  
 
@@ -251,7 +251,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  20  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet ([Wet basisnet](../../../../wet/wijzigingswet/wet/vervoer/gevaarlijke/stoffen/enz./(wet/basisnet)/BWBR0033712/README.md)) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340) en het [Besluit externe veiligheid transportroutes](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md) in werking treden. 
+Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet (Wet basisnet) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340) en het Besluit externe veiligheid transportroutes in werking treden. 
 
 ### Artikel  21  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -817,7 +817,7 @@ Treedt in werking op een nader te bepalen tijdstip
 | 82240 : 391604  | 83229 : 391751  | AE:  | 0  | 133  | 369  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
 | 83229 : 391751  | 89987 : 393889  | AF:  | 0  | 62  | 239  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | --- |
 | 89987 : 393889  | 90165 : 394400  | AG:  | 0  | 133  | 369  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
-| 91050 : 395470  | 111159 : 400589  | Route 12, Roosendaal Oost – Breda aansl.  | --- | --- | --- | Nee  | 4350  | 2500  | 0  | 1450  | 50  | 50  | 50  | 0.00  | 0.47  | --- | Woensdrecht  |
+| 91050 : 395470  | 111159 : 400589  | Route 12, Roosendaal Oost – Breda aansl.  | --- | --- | --- | Nee  | 4350  | 2500  | 0  | 1450  | 50  | 50  | 0.00  | 0.47  | --- | Woensdrecht  |
 | 91050 : 395470  | 91307 : 395652  | A:  | 0  | 0  | 120  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W L  |
 | 91307 : 395652  | 91559 : 395696  | B:  | 0  | 39  | 210  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
 | 91559 : 395696  | 91937 : 395672  | C:  | 0  | 11  | 159  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | --- |
@@ -830,7 +830,7 @@ Treedt in werking op een nader te bepalen tijdstip
 | 109727 : 400765  | 110734 : 400651  | I:  | 0  | 39  | 210  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
 | 110734 : 400651  | 110912 : 400628  | J:  | 0  | 80  | 232  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 25–49  | W  |
 | 110912 : 400628  | 111159 : 400589  | K:  | 0  | 14  | 158  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 25–49  | --- |
-| 111159 : 400589  | 135660 : 397053  | Route 12, Breda aansl. – Tilburg aansl.  | --- | --- | --- | Ja  | 4350  | 2500  | 0  | 5650  | 3800  | 3800  | 50  | 0.00  | 0.75  | --- | Gilze–Rijen  |
+| 111159 : 400589  | 135660 : 397053  | Route 12, Breda aansl. – Tilburg aansl.  | --- | --- | --- | Ja  | 4350  | 2500  | 0  | 5650  | 3800  | 50  | 50  | 0.00  | 0.75  | --- | Gilze–Rijen  |
 | 111159 : 400589  | 111522 : 400555  | L:  | 1  | 18  | 162  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | --- |
 | 111522 : 400555  | 112429 : 400800  | M:  | 8  | 57  | 221  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
 | 112429 : 400800  | 112586 : 400857  | N:  | 1  | 56  | 207  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 25–49  | W  |
@@ -843,7 +843,7 @@ Treedt in werking op een nader te bepalen tijdstip
 | 131219 : 397519  | 133781 : 396929  | U:  | 8  | 57  | 221  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
 | 133781 : 396929  | 134296 : 396849  | V:  | 1  | 56  | 207  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 25–49  | W  |
 | 134296 : 396849  | 135660 : 397053  | W:  | 8  | 57  | 221  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
-| 135660 : 397053  | 162895 : 384012  | Route 12, Tilburg aansl. – Eindhoven aansl.  | --- | --- | --- | Ja  | 3650  | 2300  | 0  | 4600  | 3750  | 3750  | 0  | 0.00  | 0.73  | --- | Gilze–Rijen  |
+| 135660 : 397053  | 162895 : 384012  | Route 12, Tilburg aansl. – Eindhoven aansl.  | --- | --- | --- | Ja  | 3650  | 2300  | 0  | 4600  | 3750  | 0  | 0  | 0.00  | 0.73  | --- | Gilze–Rijen  |
 | 135660 : 397053  | 136203 : 397263  | X: Tilburg aansl. – Boxtel  | 6  | 38  | 186  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
 | 136203 : 397263  | 140725 : 398944  | Y:  | 1  | 17  | 150  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | --- |
 | 140725 : 398944  | 142609 : 399597  | Z:  | 6  | 38  | 186  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 0–24  | W  |
@@ -1865,13 +1865,13 @@ Treedt in werking op een nader te bepalen tijdstip
 | --- | V2  | Maatregelen Betuweroute  | 46%  |
 | --- | De achtergrond van deze informatie is gegeven in de Memo BN–spoor bepalen risicoruimte op de Betuweroute 11 maart 2011 van het ministerie I&M.  |
 
-###Bijlage I 
+###Bijlage 1 
 
 ####Trajectcodering Noord-Nederland
 
 ![253402](http://wetten.overheid.nl/Illustration/253402)
 
-###Bijlage II 
+###Bijlage 2 
 
 #### Trajectcodering Zuid-Nederland
 

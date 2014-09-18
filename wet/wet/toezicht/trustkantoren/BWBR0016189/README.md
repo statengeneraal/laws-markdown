@@ -36,7 +36,7 @@ d. dienst:
 
 1°. het zijn van bestuurder of vennoot van een rechtspersoon of vennootschap in opdracht van een rechtspersoon, vennootschap of natuurlijke persoon die niet tot dezelfde groep behoort als degene die bestuurder of vennoot is;  
 
-2°. het in opdracht van een niet tot dezelfde groep behorende rechtspersoon, vennootschap of natuurlijke persoon, ter beschikking stellen van het adres of het postadres, bedoeld in de [artikelen 11, eerste lid, onderdeel c](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [14, eerste lid, onderdeel c, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), aan een andere rechtspersoon of vennootschap, indien ten minste een van de volgende bijkomende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een, tot dezelfde groep als die rechtspersoon of vennootschap behorende, andere rechtspersoon, vennootschap of natuurlijke persoon: 
+2°. het in opdracht van een niet tot dezelfde groep behorende rechtspersoon, vennootschap of natuurlijke persoon, ter beschikking stellen van het adres of het postadres, bedoeld in de artikelen 11, eerste lid, onderdeel c, en 14, eerste lid, onderdeel c, van de Handelsregisterwet 2007, aan een andere rechtspersoon of vennootschap, indien ten minste een van de volgende bijkomende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een, tot dezelfde groep als die rechtspersoon of vennootschap behorende, andere rechtspersoon, vennootschap of natuurlijke persoon: 
 
 i) het op privaatrechtelijk gebied geven van advies of het verlenen van bijstand, met uitzondering van het verrichten van receptiewerkzaamheden;  
 
@@ -66,9 +66,9 @@ h. Onze Minister: Onze Minister van Financiën;
 
 i. politiek prominente persoon: een persoon als bedoeld in artikel 2 van de Uitvoeringsrichtlijn 2006/70/EG van de Commissie van de Europese Gemeenschappen van 1 augustus 2006 tot vaststelling van uitvoeringsmaatregelen van Richtlijn 2005/60/EG van het Europees Parlement en de Raad wat betreft de definitie van politiek prominente personen en wat betreft de technische criteria voor vereenvoudigde cliëntenonderzoeksprocedures en voor vrijstellingen op grond van occasionele of zeer beperkte financiële activiteiten (PbEU L 214); 
 
-j. toezichthouder: De Nederlandsche Bank N.V.;  
+j. trustkantoor met zetel in een niet-aangewezen staat: trustkantoor met zetel in een staat buiten Nederland die niet op grond van artikel 2, vijfde lid, is aangewezen als staat waar toezicht op trustkantoren wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen;  
 
-j. trustkantoor met zetel in een niet-aangewezen staat: trustkantoor met zetel in een staat buiten Nederland die niet op grond van artikel 2, vijfde lid, is aangewezen als staat waar toezicht op trustkantoren wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen.   
+j. toezichthouder: De Nederlandsche Bank N.V..  
 
 ### Hoofdstuk  2  
 
@@ -87,7 +87,7 @@ j. trustkantoor met zetel in een niet-aangewezen staat: trustkantoor met zetel i
 
 a. de toezichthouder;  
 
-b. een krachtens publiekrecht ingestelde rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+b. een krachtens publiekrecht ingestelde rechtspersoon als bedoeld in artikel 1 van Boek 2 van het Burgerlijk Wetboek;  
 
 c. een rechtspersoon, vennootschap of natuurlijke persoon die beroeps- of bedrijfsmatig opdrachten van tijdelijke aard die betrekking hebben op management- en organisatievraagstukken, met daarbij behorende verantwoordelijkheden en bevoegdheden, uitvoert of doet uitvoeren, voor zover deze de diensten, bedoeld in artikel 1, onderdeel d, onder 1°, verleent.     
 5.  Het tweede lid is niet van toepassing op trustkantoren met zetel in een door Onze Minister aan te wijzen staat waar toezicht op het verlenen van trustdiensten wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen.   
@@ -122,7 +122,7 @@ e. de naam, het adres en de statutaire zetel van het trustkantoor en, indien van
 f. de voorziene bedrijfsvoering, waaronder begrepen de maatregelen gericht op het bevorderen en handhaven van een integere bedrijfsvoering, en de voorziene administratieve organisatie en interne controle van het trustkantoor;  
 
 g. overige gegevens en bescheiden die de toezichthouder nodig acht in het belang van de beoordeling van de aanvraag.    
-2. Indien de antecedenten van de personen, bedoeld in het eerste lid, onderdelen a, b en c, reeds zijn beoordeeld voor de toepassing van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat de aanvraag, in aanvulling op de in het eerste lid bedoelde gegevens, de datum van deze beoordeling.  
+2. Indien de antecedenten van de personen, bedoeld in het eerste lid, onderdelen a, b en c, reeds zijn beoordeeld voor de toepassing van de Wet op het financieel toezicht, bevat de aanvraag, in aanvulling op de in het eerste lid bedoelde gegevens, de datum van deze beoordeling.  
 3.  Aan een vergunning kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
 4.  De toezichthouder beslist binnen dertien weken na ontvangst van de aanvraag.  
 
@@ -154,7 +154,7 @@ De toezichthouder kan een vergunning intrekken:
 
 a. op verzoek van de houder;  
 
-b. in geval de houder in staat van faillissement is verklaard of ten aanzien van hem de toepassing van de schuldsaneringsregeling, bedoeld in [titel III van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md), is uitgesproken;  
+b. in geval de houder in staat van faillissement is verklaard of ten aanzien van hem de toepassing van de schuldsaneringsregeling, bedoeld in titel III van de Faillissementswet, is uitgesproken;  
 
 c. in geval van ontbinding of, indien de houder een natuurlijke persoon is, overlijden van de houder;  
 
@@ -207,7 +207,7 @@ c. een ieder die met een in de onderdelen a of b bedoeld trustkantoor in een gro
 
 d. een ieder van wie of waarvan redelijkerwijs kan worden vermoed dat deze handelt in strijd met de bij of krachtens deze wet gestelde regels; alle inlichtingen inwinnen of doen inwinnen, die redelijkerwijs nodig zijn voor de uitoefening van de taken en bevoegdheden die hij op grond van deze wet heeft en teneinde na te gaan of de bij of krachtens deze wet gestelde bepalingen worden nageleefd.     
 2.  Degene van wie de inlichtingen, bedoeld in het eerste lid, worden verlangd, verstrekt deze binnen de door de toezichthouder te stellen redelijke termijn.   
-3.  Ten aanzien van de personen die door de toezichthouder zijn belast met het inwinnen van inlichtingen of met de uitoefening van andere taken en bevoegdheden die de toezichthouder heeft op grond van het bij of krachtens deze wet bepaalde, zijn de [artikelen 5:12](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing, met dien verstande dat indien een onderzoek als bedoeld in artikel 14, eerste lid, wordt ingesteld, degene bij wie het onderzoek wordt ingesteld en die niet ingevolge deze wet onder toezicht staat, slechts is gehouden tot het verlenen van inzage in zakelijke gegevens en bescheiden.  
+3.  Ten aanzien van de personen die door de toezichthouder zijn belast met het inwinnen van inlichtingen of met de uitoefening van andere taken en bevoegdheden die de toezichthouder heeft op grond van het bij of krachtens deze wet bepaalde, zijn de artikelen 5:12, 5:13, 5:15, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met dien verstande dat indien een onderzoek als bedoeld in artikel 14, eerste lid, wordt ingesteld, degene bij wie het onderzoek wordt ingesteld en die niet ingevolge deze wet onder toezicht staat, slechts is gehouden tot het verlenen van inzage in zakelijke gegevens en bescheiden.  
 
 ### Artikel  10  
 
@@ -257,7 +257,7 @@ b. aan de in artikel 3, eerste lid, onderdeel c, bedoelde personen een aanwijz
 
 1.  Gegevens en inlichtingen die ingevolge het bij of krachtens deze wet bepaalde omtrent afzonderlijke rechtspersonen, vennootschappen of natuurlijke personen zijn verstrekt of zijn verkregen en gegevens en inlichtingen die van een instantie als bedoeld in artikel 13, eerste lid, zijn ontvangen, worden niet gepubliceerd en zijn geheim.   
 2.  Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen, ingevolge deze wet verstrekt of van een instantie als bedoeld in artikel 13, eerste lid, verkregen, of van gegevens of inlichtingen, bij het onderzoek van zakelijke gegevens en bescheiden ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.   
-3.  Het eerste en tweede lid laten ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+3.  Het eerste en tweede lid laten ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het Wetboek van Strafvordering.  
 
 ### Artikel  13  
 
@@ -265,7 +265,7 @@ b. aan de in artikel 3, eerste lid, onderdeel c, bedoelde personen een aanwijz
 
 a. de verstrekking van gegevens of inlichtingen in internationaal verband niet kan plaatsvinden op basis van wederkerigheid;  
 
-b. de gegevens betrekking hebben op een rechtspersoon, vennootschap of natuurlijke persoon waaraan of aan wie het trustkantoor diensten verleent, onverlet de toepasselijkheid van de bepalingen van de [Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), de Nederlandse belastingwetgeving, de bilaterale belastingverdragen en verdragen tot uitwisseling van gegevens of inlichtingen dan wel de toepasselijkheid van bindende besluiten van volkenrechtelijke organisaties met betrekking tot het toezicht op de financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn;  
+b. de gegevens betrekking hebben op een rechtspersoon, vennootschap of natuurlijke persoon waaraan of aan wie het trustkantoor diensten verleent, onverlet de toepasselijkheid van de bepalingen van de Sanctiewet 1977, de Wet ter voorkoming van witwassen en financieren van terrorisme, de Nederlandse belastingwetgeving, de bilaterale belastingverdragen en verdragen tot uitwisseling van gegevens of inlichtingen dan wel de toepasselijkheid van bindende besluiten van volkenrechtelijke organisaties met betrekking tot het toezicht op de financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn;  
 
 c. het doel waarvoor de gegevens of inlichtingen zullen worden gebruikt onvoldoende is bepaald;  
 
@@ -293,7 +293,7 @@ b. indien die buitenlandse instantie op een andere wijze dan in deze wet voorzie
 
 ### Artikel  15  
 
-1. De toezichthouder verstrekt aan de Stichting Autoriteit Financiële Markten, voor de toepassing van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de gegevens of inlichtingen die hij heeft verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak en die betrekking hebben op de betrouwbaarheid van de personen, bedoeld in artikel 3, eerste lid, onderdelen a, b of c, voorzover deze naar het oordeel van de toezichthouder van belang zijn of zouden kunnen zijn voor het toezicht dat door de Stichting Autoriteit Financiële Markten wordt uitgeoefend.  
+1. De toezichthouder verstrekt aan de Stichting Autoriteit Financiële Markten, voor de toepassing van de Wet op het financieel toezicht, de gegevens of inlichtingen die hij heeft verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak en die betrekking hebben op de betrouwbaarheid van de personen, bedoeld in artikel 3, eerste lid, onderdelen a, b of c, voorzover deze naar het oordeel van de toezichthouder van belang zijn of zouden kunnen zijn voor het toezicht dat door de Stichting Autoriteit Financiële Markten wordt uitgeoefend.  
 2.  Het eerste lid is niet van toepassing indien de gegevens of inlichtingen zijn verkregen van een buitenlandse overheidsinstantie of van een buitenlandse van overheidswege aangewezen instantie als bedoeld in artikel 13, tenzij die buitenlandse instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.  
 
 ### Artikel  16  
@@ -330,12 +330,12 @@ Vervallen per 01-01-2013
 
 ### Artikel  20  
 
-1.  De toezichthouder kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste tot en met derde lid, 2a, eerste tot en met derde lid, 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, 16, tweede lid, 24, eerste lid en 25, vierde lid.   
+1.  De toezichthouder kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste tot en met derde lid, 2a, eerste tot en met derde lid, 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van artikel 5:20 van de Algemene wet bestuursrecht en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, 16, tweede lid, 24, eerste lid en 25, vierde lid.   
 2.  Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
 ### Artikel  21  
 
-1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste tot en met derde lid, 2a, eerste tot en met derde lid 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, 16, tweede lid, 24, eerste lid en 25, vierde lid.   
+1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste tot en met derde lid, 2a, eerste tot en met derde lid 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van artikel 5:20 van de Algemene wet bestuursrecht en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, 16, tweede lid, 24, eerste lid en 25, vierde lid.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
 ### Artikel  22  
@@ -423,7 +423,7 @@ Degene jegens wie door de toezichthouder een handeling is verricht waaraan hij i
 ### Artikel  33  
 
 1.  De toezichthouder geeft, indien hij voornemens is op grond van artikel 31 een feit ter openbare kennis te brengen, de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.   
-2.  In aanvulling op [artikel 4:8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is de toezichthouder niet gehouden de betrokkene in de gelegenheid te stellen om zijn zienswijze naar voren te brengen, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.  
+2.  In aanvulling op artikel 4:8 van de Algemene wet bestuursrecht, is de toezichthouder niet gehouden de betrokkene in de gelegenheid te stellen om zijn zienswijze naar voren te brengen, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.  
 
 ### Artikel  34  
 
@@ -441,11 +441,11 @@ Tenzij de bevordering van de naleving van deze wet geen uitstel toelaat, wordt d
 
 ### Artikel  36  
 
-In afwijking van [artikel 3:40 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) treedt de beschikking om op grond van artikel 31 een feit ter openbare kennis te brengen in werking op de dag waarop het feit ter openbare kennis is gebracht zonder dat de werking voor de duur van de beroepstermijn of, indien beroep is ingesteld, van het beroep wordt opgeschort, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen. 
+In afwijking van artikel 3:40 van de Algemene wet bestuursrecht treedt de beschikking om op grond van artikel 31 een feit ter openbare kennis te brengen in werking op de dag waarop het feit ter openbare kennis is gebracht zonder dat de werking voor de duur van de beroepstermijn of, indien beroep is ingesteld, van het beroep wordt opgeschort, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen. 
 
 ### Artikel  37  
 
-1.  De bevoegdheid om op grond van artikel 31 een feit ter openbare kennis te brengen vervalt indien ter zake van het feit een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  De bevoegdheid om op grond van artikel 31 een feit ter openbare kennis te brengen vervalt indien ter zake van het feit een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge artikel 74 van het Wetboek van Strafrecht.   
 2.  Het recht tot strafvervolging met betrekking tot een feit als bedoeld in artikel 31 vervalt, indien de toezichthouder het feit reeds ter openbare kennis heeft gebracht.  
 
 ### Artikel  38  
@@ -510,7 +510,7 @@ Wijzigt de Wet identificatie bij dienstverlening.
 1.  Een rechtspersoon, vennootschap of natuurlijke persoon die op het tijdstip van inwerkingtreding van deze wet vanuit een vestiging in Nederland als trustkantoor werkzaam is, wordt geacht niet in strijd te handelen met het verbod, bedoeld in artikel 2, eerste lid.   
 2.  Het in het eerste lid bedoelde trustkantoor meldt zich binnen acht weken na het tijdstip van inwerkingtreding van deze wet schriftelijk bij de toezichthouder en verstrekt binnen een door de toezichthouder te stellen termijn de gegevens en inlichtingen die de toezichthouder nodig acht om te beoordelen of het trustkantoor voldoet aan het bij of krachtens deze wet bepaalde. Deze melding wordt beschouwd als een aanvraag voor een vergunning als bedoeld in artikel 2, eerste lid.   
 3.  Op de aanvraag voor een vergunning beslist de toezichthouder binnen een jaar na de ontvangst van de in het tweede lid, eerste volzin, bedoelde gegevens en inlichtingen, of, indien de toezichthouder om nadere gegevens of inlichtingen heeft verzocht, binnen een jaar na de ontvangst van die nadere gegevens en inlichtingen.   
-4.  In afwijking van [artikel 4:5, vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt het besluit om een aanvraag voor een vergunning niet te behandelen, aan het trustkantoor bekendgemaakt binnen acht weken nadat de in het tweede lid, eerste volzin, bedoelde gegevens en inlichtingen zijn verstrekt of nadat de daarvoor gestelde termijn ongebruikt is verstreken.   
+4.  In afwijking van artikel 4:5, vierde lid, van de Algemene wet bestuursrecht wordt het besluit om een aanvraag voor een vergunning niet te behandelen, aan het trustkantoor bekendgemaakt binnen acht weken nadat de in het tweede lid, eerste volzin, bedoelde gegevens en inlichtingen zijn verstrekt of nadat de daarvoor gestelde termijn ongebruikt is verstreken.   
 5.  Indien het trustkantoor niet of niet tijdig heeft voldaan aan het tweede lid, is het eerste lid niet langer van toepassing.   
 6.  Indien de toezichthouder op grond van de gegevens en inlichtingen waarvan hij ingevolge het tweede lid, eerste volzin, kennis heeft genomen van oordeel is dat het trustkantoor niet voldoet aan het bij of krachtens deze wet bepaalde, is het in het eerste lid bepaalde niet langer van toepassing.  
 

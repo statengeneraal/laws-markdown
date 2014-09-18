@@ -6612,19 +6612,19 @@ g. bij de beslissing van het startersfonds inzake de verkrijging van een partici
 
 3. Het startersfonds verkrijgt geen participatie in een technostartervennootschap indien in de voorafgaande periode van twaalf maanden meer middelen aan de technostartervennootschap zijn onttrokken ten behoeve van derden dan noodzakelijk voor een redelijk te achten bedrijfsvoering, dan wel een verplichting tot een zodanige onttrekking is aangegaan.  
 
-4. Het startersfonds verkrijgt geen participatie in een technostartervennootschap indien een ander investeringsfonds in deze vennootschap reeds een participatie heeft, behoudens 
+4.Het startersfonds verkrijgt geen participatie in een technostartervennootschap indien een ander investeringsfonds in deze vennootschap reeds een participatie heeft, behoudens
 
-a. indien dit investeringsfonds een ander startersfonds is en voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden;  
+a.indien dit investeringsfonds een ander startersfonds is en voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden;
 
-b. indien dit investeringsfonds 
+b.indien dit investeringsfonds
 
-1°. de vorm heeft van een kapitaalvennootschap of een vennootschap met een afgescheiden vermogen, ingericht naar het recht van één van de andere lidstaten van de Europese Unie;  
+1°.de vorm heeft van een kapitaalvennootschap of een vennootschap met een afgescheiden vermogen, ingericht naar het recht van één van de andere lidstaten van de Europese Unie;
 
-2°. blijkens de akte waarbij de statuten van de vennootschap zijn vastgesteld of blijkens de overeenkomst waarbij de vennootschap is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragend kapitaal aan technostartervennootschappen teneinde winst te behalen; en  
+2°.blijkens de akte waarbij de statuten van de vennootschap zijn vastgesteld of blijkens de overeenkomst waarbij de vennootschap is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragend kapitaal aan technostartervennootschappen teneinde winst te behalen; en
 
-3°. naar het oordeel van de minister niet in staat is nieuwe participaties in de technostartervennootschap te verkrijgen,    
+3°.naar het oordeel van de minister niet in staat is nieuwe participaties in de technostartervennootschap te verkrijgen,voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden.
 
-c. indien dit investeringsfonds een informal investor is,   voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden.  
+c.indien dit investeringsfonds een informal investor is. 
 
 5. Het startersfonds verkrijgt of behoudt geen participatie in de vennootschap van een technostarter indien een fondspartij, bestuurder of een beheerder of andere betrokkene bij het startersfonds een bedrijf uitoefent dat gelijk of verwant is aan het bedrijf van de technostarter terwijl tussen beide bedrijven een afnemers- of een aandeelhoudersrelatie bestaat.  
 

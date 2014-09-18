@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 april 2012, nr. 2012-0000222956, tot het vaststellen van de bezoldigingschalen van de ambtenaren in dienst van de Staat in Caribisch Nederland voor 2012 (Regeling bezong Rijksambtenaren BES)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 1, onder e, van het Bezoldigingsbesluit 1998 BES](../../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md) en de [artikelen 1, onder j](../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md), en [23b van het Besluit rechtspositie korps politie BES](../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md);
+Gelet op artikel 1, onder e, van het Bezoldigingsbesluit 1998 BES en de artikelen 1, onder j, en 23b van het Besluit rechtspositie korps politie BES;
 Besluit:    
 
 ### Artikel  1  
@@ -24,7 +24,7 @@ In afwijking van artikel 1 zijn de bezoldigingschalen voor de ambtenaren in dien
 
 ### Artikel  5  
 
-De vergoeding, bedoeld in [artikel 23b van het Besluit rechtspositie korps politie BES](../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md), bedraagt USD 7,28 per uur. 
+De vergoeding, bedoeld in artikel 23b van het Besluit rechtspositie korps politie BES, bedraagt USD 7,28 per uur. 
 
 ### Artikel  6  
 
@@ -32,7 +32,7 @@ In afwijking van artikel 1 zijn de bezoldigingschalen voor de ambtenaren in dien
 
 ### Artikel  7  
 
-De [Regeling bezoldigingschalen Rijksambtenaren BES 2011/2012](../../../../../../../ministeriele-regeling-BES/regeling/bezoldigingschalen/rijksambtenaren/bes/20102011/BWBR0029655/README.md) en de [Regeling rechtspositie korps politie BES](../../../../../../../ministeriele-regeling-BES/regeling/rechtspositie/korps/politie/bes/BWBR0028796/README.md) worden ingetrokken. 
+De Regeling bezoldigingschalen Rijksambtenaren BES 2011/2012 en de Regeling rechtspositie korps politie BES worden ingetrokken. 
 
 ### Artikel  8  
 

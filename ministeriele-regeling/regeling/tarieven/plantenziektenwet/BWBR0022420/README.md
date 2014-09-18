@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 augustus 2007, nr. TRCJZ/2007/2706, houdende vaststelling van de Regeling tarieven van de Plantenziektenkundige Dienst, KCB, BKD, Naktuinbouw en NAK (Regeling tarieven Plantenziektenkundige Dienst en de keuringsdiensten)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op artikel 13, quinquies, van richtlijn nr. 2002/89 van de Raad van de Europese Unie van 28 november 2002 (PbEG L 355) tot wijziging van richtlijn 2000/29/EG betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen en [artikel 6a van de Plantenziektenwet](../../../../../wet/plantenziektenwet/BWBR0002075/README.md) (Stb. 1951, 96);
+Gelet op artikel 13, quinquies, van richtlijn nr. 2002/89 van de Raad van de Europese Unie van 28 november 2002 (PbEG L 355) tot wijziging van richtlijn 2000/29/EG betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen en artikel 6a van de Plantenziektenwet (Stb. 1951, 96);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -53,7 +53,7 @@ s. spoedbemonstering: bemonstering waarvoor een snelst mogelijke behandeling gel
 
 t. spoedonderzoek: onderzoek waarvoor een snelst mogelijke behandeling geldt;  
 
-u. kwaliteitsinspecties: inspecties van planten en plantaardige producten op grond van de [Landbouwkwaliteitswet](../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) of de [Zaaizaad- en plantgoedwet](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md);  
+u. kwaliteitsinspecties: inspecties van planten en plantaardige producten op grond van de Landbouwkwaliteitswet of de Zaaizaad- en plantgoedwet;  
 
 v. GN-code: een code als bedoeld in bijlage I van verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256); 
 
@@ -61,7 +61,7 @@ w. uitvoeringsbesluit nr. 2013/92/EU: uitvoeringsbesluit nr. 2013/92/EU van de C
 
 ### Artikel  1a  
 
-Deze regeling berust mede op de [artikelen 28, eerste lid](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), en [37, vijfde lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). 
+Deze regeling berust mede op de artikelen 28, eerste lid, en 37, vijfde lid, van de Wet gewasbeschermingsmiddelen en biociden. 
 
 ### Hoofdstuk  2  
 
@@ -120,7 +120,7 @@ b. € 372,436 indien het de werkzaamheden bedoeld in de artikel 2, eerste lid,
 
 ### Artikel  3a  
 
-Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod als bedoeld in [artikel 2 van de Regeling bestrijding schadelijke organismen](../../../../../ministeriele-regeling/regeling/bestrijding/schadelijke/organismen/BWBR0013946/README.md) voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht van € € 23,17. 
+Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod als bedoeld in artikel 2 van de Regeling bestrijding schadelijke organismen voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht van € € 23,17. 
 
 ### §  2.2  
 
@@ -140,7 +140,7 @@ Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van 
 
 ### Artikel  6  
 
-1.  Voor de behandeling van een aanvraag van een erkenning als bedoeld in [artikel 37, zesde lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt de aanvrager € 1.069,38 per aanvraag in rekening gebracht.   
+1.  Voor de behandeling van een aanvraag van een erkenning als bedoeld in artikel 37, zesde lid, van de Wet gewasbeschermingsmiddelen en biociden wordt de aanvrager € 1.069,38 per aanvraag in rekening gebracht.   
 2.  Voor toezicht op de naleving van de voorwaarden, verbonden aan de in het eerste lid bedoelde erkenning, wordt de aanvrager een bedrag van € 1069,38 per erkenning per jaar in rekening gebracht. 
 
 ### Artikel  7  
@@ -159,7 +159,7 @@ Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van 
 
 1.  Voor door de NVWA, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van twee weken, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  De Inspecteur-Generaal van de NVWA maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -321,7 +321,7 @@ Voor de verwerking van inspectieaanvragen die niet via het elektronisch vooraanm
 
 ### Artikel  15  
 
-1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 10,21 per zending in rekening gebracht.  
+1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 10,21 per zending in rekening gebracht.  
 2.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 48,55 in rekening gebracht. 
 
 ### Artikel  16  
@@ -357,7 +357,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de artikelen
 
 1.  Voor de door het KCB, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van twee weken, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  Het Hoofd Financiën en Personele Zaken van het KCB maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -418,7 +418,7 @@ f. Voor het opmaken van een certificaat waarvan de gegevens niet via het elektro
 
 ### Artikel  24  
 
-Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 8,40 per zending in rekening gebracht. 
+Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 8,40 per zending in rekening gebracht. 
 
 ### Artikel  25  
 
@@ -477,7 +477,7 @@ b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag 
 
 1.  Voor de door de BKD, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van 21 dagen, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  Het Hoofd van de afdeling Financiën van de BKD maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -538,7 +538,7 @@ d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algeme
 
 ### Artikel  33  
 
-1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 9,25 per zending in rekening gebracht.  
+1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 9,25 per zending in rekening gebracht.  
 2.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 49,50 in rekening gebracht. 
 
 ### Artikel  34  
@@ -591,7 +591,7 @@ per uitgevoerd onderzoek.
 
 1.  Voor de door de Naktuinbouw, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van 30 dagen, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  De controller van de Naktuinbouw maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 5.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
 6.  Als vergoeding voor een aanmaning als bedoeld in het vijfde lid wordt een tarief in rekening gebracht van: 
@@ -652,7 +652,7 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlij
 
 ### Artikel  41  
 
-1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 14,50 per zending in rekening gebracht. 
+1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 14,50 per zending in rekening gebracht. 
 2. Voor een op verzoek van de aanvrager door de keuringsdienst afgegeven document ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardige producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 49,50 in rekening gebracht.
 
 ### Artikel  42  
@@ -691,7 +691,7 @@ Als vergoeding voor het ten kantore van de NAK waarmerken van certificaten ten b
 
 ### Artikel  45  
 
-1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in [artikel 5, derde lid](../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md), en [artikel 6, tweede lid, van de Regeling bruin- en ringrot 2000](../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md), worden de volgende kosten in rekening gebracht: 
+1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in artikel 5, derde lid, en artikel 6, tweede lid, van de Regeling bruin- en ringrot 2000, worden de volgende kosten in rekening gebracht: 
 
 a. € 84,15 indien één monster per partij is genomen;  
 
@@ -724,7 +724,7 @@ e.  € 12,95 administratiekosten per aanvraag en een tarief van € 1,00 per 
 
 ###Artikel 45a 
 
-1. Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in [artikel 12b van het Besluit bestrijding schadelijke organismen](../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), wordt de aanvrager het volgende tarief in rekening gebracht:
+1. Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in artikel 12b van het Besluit bestrijding schadelijke organismen, wordt de aanvrager het volgende tarief in rekening gebracht:
 
 a. Voor onderzoek naar aardappelmoeheid: 
 
@@ -760,7 +760,7 @@ e.Voor het kopiëren van een AM-dossier, € 15,70 per dossier.
 
 1.  Voor de door de NAK, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van 14 dagen, gerekend vanaf de datering van de nota’s.   
 2.  De schuldenaar is in verzuim indien hij niet binnen de in het eerste lid gestelde termijn heeft betaald.   
-3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+3.  Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de artikelen 119, eerste en tweede en 120, eerste lid van Boek 6 van het Burgerlijk Wetboek.   
 4.  Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan € 20,00.   
 5.  Het Hoofd van de afdeling Financiën van de NAK maant de schuldenaar die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.   
 6.  De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.   
@@ -778,7 +778,7 @@ Op betalingsverplichtingen ontstaan vóór de inwerkingtreding van deze regeling
 
 ### Artikel  48  
 
-De [Regeling tarieven Plantenziektenkundige Dienst](../../../../../ministeriele-regeling/regeling/tarieven/plantenziektenkundige/dienst/BWBR0018124/README.md) (Stcrt. 2005, 60) wordt ingetrokken. 
+De Regeling tarieven Plantenziektenkundige Dienst (Stcrt. 2005, 60) wordt ingetrokken. 
 
 ### Artikel  49  
 

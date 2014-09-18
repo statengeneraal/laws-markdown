@@ -68,13 +68,13 @@ De vergoedingen voor de kosten van de navolgende categorieën en subcategorieën
 |--- | Vergoeding voor registratie  | Jaarlijkse vergoeding voor het toezicht  |
 |:---|:---|:---|
 |  *1. Elektronische communicatie*   | --- | --- |
-| Het aanbieden van een openbaar elektronisch communicatienetwerk, en/of openbare elektronische communicatiediensten en/of bijbehorende faciliteiten:  | --- | --- |
-| – als is aangetoond dat de omzet in 2012 minder is dan € 2.000.000,– <sup>1</sup>  | nihil  | nihil <sup>2</sup>  |
-| – met een omzet in 2012 van ten hoogste € 20.000.000,– en als niet is aangetoond dat de omzet minder is dan € 2.000.000,–  | nihil  | € 7.590  |
-| – met een omzet in 2012 van meer dan € 20.000.000,–  | nihil  | 0,069% van de omzet <sup>3</sup>  |
+| Het aanbieden van een openbaar elektronisch communicatienetwerk, openbare elektronische communicatiediensten of bijbehorende faciliteiten:  | --- | --- |
+| – als is aangetoond dat de omzet in 2012 minder is dan € 2.000.000,–<sup>1</sup>   | nihil  | Nihil<sup>2</sup>   |
+| – met een omzet in 2012 van ten hoogste € 20.000.000,– en als niet is aangetoond dat de omzet minder is dan € 2.000.000,–  | nihil  | € 3.454  |
+| – met een omzet in 2012 van meer dan € 20.000.000,–  | nihil  | 0,0314% van de omzet<sup>3</sup>   |
 |  *2. Post*   | --- | --- |
-| • universele dienst  | --- | € 400.000  |
-| • de verdeelsleutel voor 2014, omzet niet-universele dienst, bedoeld in artikel 14 van het Postbesluit 2009  | --- | 0,0463%  |
+| • universele dienst  | --- | € 532.525  |
+| • de verdeelsleutel voor 2014, omzet niet-universele dienst, bedoeld in artikel 14 van het Postbesluit 2009  | --- | 0,009%  |
 |  *3. Gekwalificeerde certificaten (TTP)*   | --- | --- |
 | Het aanbieden of afgeven van gekwalificeerde certificaten aan het publiek (TTP-diensten):  | --- | --- |
 | • met een geldig bewijs van toetsing<sup> 4</sup>   | --- | --- |
