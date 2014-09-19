@@ -3,7 +3,7 @@
 ##Besluit van de voorzitter van het Productschap Tuinbouw van 2 november 2011 tot vaststelling van voorwaarden aan betaling van voorschotten en aan gedeeltelijke betalingen voor 2011 in het kader van GMO groenten en fruit
 
 De voorzitter van het Productschap Tuinbouw; 
-Gelet op de [artikelen 11](../../../../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md) en [12 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md);
+Gelet op de artikelen 11 en 12 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010;
 Besluit: 
 ###§  1  
 

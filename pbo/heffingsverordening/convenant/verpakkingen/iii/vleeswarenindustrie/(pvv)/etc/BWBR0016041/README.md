@@ -2,9 +2,9 @@
 
 ##Verordening van het Productschap Vee en Vlees van 10 december 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het convenant verpakkingen III voor het jaar 2004 (Heffingsverordening convenant verpakkingen III vleeswarenindustrie (PVV) 2004)
 
-Het bestuur van het Productschap Vee en Vlees;
+Het bestuur van het Productschap Vee en Vlees;  
 Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I dan wel de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees zodra dit in werking is getreden;
-Besluit:
+Besluit:  
 
 ###Artikel 1 
 Materieel uitgewerkt per 07-08-2005 

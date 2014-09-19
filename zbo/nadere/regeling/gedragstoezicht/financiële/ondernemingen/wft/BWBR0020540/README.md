@@ -3,7 +3,7 @@
 ##Nadere regeling van de Autoriteit Financiële Markten van 15 november 2006, houdende regels voor het gedragstoezicht op financiële ondernemingen op grond van de Wet op het financieel toezicht (Nadere Regeling gedragstoezicht financiële ondernemingen Wft)
 
 De Autoriteit Financiële Markten,  
-Gelet op de [artikelen 1:12](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:59](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:74](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:79](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:85](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [4:7](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [5:5](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:20 van de Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 31](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [54](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [56](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [59](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [66](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [67](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [69](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [70](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [71](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [84](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [110](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [112](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [118](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [123](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [124](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [164](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [165](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), en [167 van het Besluit gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);
+Gelet op de artikelen 1:12; 2:59; 2:74; 2:79; 2:85; 4:7; 5:5 en 5:20 van de Wet op het financieel toezicht, en de artikelen 31, 35, 54, 56, 58, 59, 66, 67, 69, 70, 71, 84, 110, 112, 118, 123, 124, 133, 134, 164, 165, en 167 van het Besluit gedragstoezicht financiële ondernemingen Wft;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -25,7 +25,7 @@ e. beheerskosten: kosten die zijn gemaakt om een beleggingsobject in stand te ho
 
 f. beleggingsobjectkosten: geprognosticeerde of eventuele reeds gemaakte administratieve kosten, beheers-, productie- en verkoopkosten, alsmede de geprognosticeerde of reeds voldane rentelasten;  
 
-g. het besluit: het [Besluit gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+g. het besluit: het Besluit gedragstoezicht financiële ondernemingen Wft;  
 
 h. contractuele looptijd: duur van de overeenkomst inzake een complex product;  
 
@@ -87,15 +87,15 @@ ad. uitkering: uitbetaling door de aanbieder van een complex product aan de cons
 
 ae. verkoopkosten: kosten die direct kunnen worden gerelateerd aan de verkoop van het beleggingsobject aan de consument;  
 
-af. vermeldingsverplichting: de verplichting een vermelding, als bedoeld in [artikelen 1:12, vierde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:59, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:74, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:79, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:85, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [4:7, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [5:5, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:20, vijfde lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op te nemen in de toepasselijke vermeldingsuitingen;  
+af. vermeldingsverplichting: de verplichting een vermelding, als bedoeld in artikelen 1:12, vierde lid; 2:59, derde lid; 2:74, tweede lid; 2:79, derde lid; 2:85, derde lid; 4:7, tweede lid; 5:5, tweede lid en 5:20, vijfde lid, van de wet, op te nemen in de toepasselijke vermeldingsuitingen;  
 
-ag. vermeldingsuitingen: de in de [artikelen 1:12, vierde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:59, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:74, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:79, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:85, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [4:7, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [5:5, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:20, vijfde lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bedoelde aanbiedingen, documenten, reclame-uitingen en andere onverplichte precontractuele informatie; 
+ag. vermeldingsuitingen: de in de artikelen 1:12, vierde lid; 2:59, derde lid; 2:74, tweede lid; 2:79, derde lid; 2:85, derde lid; 4:7, tweede lid; 5:5, tweede lid en 5:20, vijfde lid, van de wet, bedoelde aanbiedingen, documenten, reclame-uitingen en andere onverplichte precontractuele informatie; 
 
 ah. voorbeeldwaarde: waarde van de opbrengst bij verkoop van een recht van deelneming in de beleggingsinstelling, waarbij verkoopkosten al zijn afgetrokken;  
 
 ai. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte betalingen voor een complex product aan de aanbieder plus een bepaald jaarlijks rendement over het deel van die betalingen dat wordt aangewend ten einde rendement te genereren ten behoeve van de consument onderscheidenlijk deelnemer; 
 
-aj. de wet: de [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+aj. de wet: de Wet op het financieel toezicht.   
 
 ### Hoofdstuk  2  
 
@@ -108,7 +108,7 @@ aj. de wet: de [Wet op het financieel toezicht](../../../../../../../../wet/wet/
 ### Artikel  2:1  
 
 1.  Indien een vermeldingsuiting op schrift is gesteld, op internet is geplaatst, of op televisie wordt getoond of ten gehore wordt gebracht, wordt de in het tweede lid gespecificeerde afbeelding, onverminderd de overige leden van dit artikel, goed leesbaar opgenomen bij de vermeldingsuiting. Indien een vermeldingsuiting ten gehore wordt gebracht via internet of radio wordt het in het tweede lid gespecificeerde geluidsfragment ten gehore gebracht na de vermeldingsuiting.   
-2.  Indien een vermeldingsverplichting bij of krachtens [artikel 1:12](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:59](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:74](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:79](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:85](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [4:7 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is gesteld, wordt één van de in de in bijlage 1.1 weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.1 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien een vermeldingsverplichting bij of krachtens [artikel 5:5](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [5:20 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is gesteld, wordt één van de in de in bijlage 1.2 weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.2 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien in de vermeldingsuiting zowel bij of krachtens artikel 2:74 van de wet als bij of krachtens artikel 5:5 of 5:20 van de wet een in die artikelen genoemde vermelding moet worden opgenomen, wordt één van de in de in bijlage 1.3 weergeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.3 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. De verschillende afbeeldingen en geluidsfragmenten zijn te downloaden vanaf www.afm.nl/vrijstellingsvermelding en www.afm.nl/exemption-notification.   
+2.  Indien een vermeldingsverplichting bij of krachtens artikel 1:12, 2:59, 2:74, 2:79, 2:85 of 4:7 van de wet is gesteld, wordt één van de in de in bijlage 1.1 weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.1 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien een vermeldingsverplichting bij of krachtens artikel 5:5 of 5:20 van de wet is gesteld, wordt één van de in de in bijlage 1.2 weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.2 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien in de vermeldingsuiting zowel bij of krachtens artikel 2:74 van de wet als bij of krachtens artikel 5:5 of 5:20 van de wet een in die artikelen genoemde vermelding moet worden opgenomen, wordt één van de in de in bijlage 1.3 weergeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.3 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. De verschillende afbeeldingen en geluidsfragmenten zijn te downloaden vanaf www.afm.nl/vrijstellingsvermelding en www.afm.nl/exemption-notification.   
 3.  Indien een vermeldingsuiting in de Nederlandse taal wordt weergegeven of ten gehore wordt gebracht, is de in het eerste lid bedoelde afbeelding respectievelijk het in dat lid bedoelde geluidsfragment Nederlandstalig. Indien een vermeldingsuiting in een andere taal dan de Nederlandse taal wordt weergegeven of ten gehore wordt gebracht, is de in het eerste lid bedoelde afbeelding respectievelijk het in dat lid bedoelde geluidsfragment Engelstalig.   
 4.  De oorspronkelijke verhouding van de afbeelding als bedoeld in het eerste lid, wordt niet gewijzigd. Onverminderd het vijfde lid mag de afbeelding worden vergroot of verkleind, waarbij bij een vermeldingsuiting op schrift een lettergrootte van de afbeelding van 7 punten niet wordt onderschreden.   
 5.  De afbeelding als bedoeld in het eerste lid, wordt opgenomen op de volgende wijze: 
@@ -124,14 +124,14 @@ d.  Gedurende een vermeldingsuiting die op televisie wordt getoond of ten gehore
 
 ### § 2.2  
 
-####Regels met betrekking tot reclame-uitingen als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)
+####Regels met betrekking tot reclame-uitingen als bedoeld in artikel 53, achtste lid, van het besluit
 
 ###Artikel  2:2 
 
-1. In een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die op schrift is gesteldwordt gecentreerd onderaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt. Indien een reclame-uiting meerdere pagina’s beslaat, dient onderaan op de eerste pagina van die reclame-uiting de in het vijfde lid bedoelde waarschuwing getoond te worden.
-2. In een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die op internet is geplaatst, wordt gecentreerd bovenaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt.
-3. Direct aansluitend aan een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die via radio of internet ten gehore wordt gebracht, wordt een waarschuwingszin opgenomen door het afspelen van een geluidsbestand, te downloaden vanaf www.afm.nl/kredietwaarschuwing. Het geluidsbestand wordt op oorspronkelijke snelheid afgespeeld en met eenzelfde volume als de reclame-uiting.
-4. Gedurende een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die via televisie wordt getoond of ten gehore wordt gebracht, wordt gecentreerd onderaan in het beeld dat op het televisiescherm wordt getoond een waarschuwing getoond. Deze waarschuwing is de vanaf www.afm.nl/kredietwaarschuwing te downloaden afbeelding. Deze afbeelding wordt in zijn oorspronkelijke verhouding afgebeeld, waarbij de breedte van de afbeelding gelijk is aan de breedte van het beeld dat op het televisiescherm wordt getoond.
+1. In een reclame-uiting als bedoeld in artikel 53, achtste lid, van het besluit, die op schrift is gesteldwordt gecentreerd onderaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt. Indien een reclame-uiting meerdere pagina’s beslaat, dient onderaan op de eerste pagina van die reclame-uiting de in het vijfde lid bedoelde waarschuwing getoond te worden.
+2. In een reclame-uiting als bedoeld in artikel 53, achtste lid, van het besluit, die op internet is geplaatst, wordt gecentreerd bovenaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt.
+3. Direct aansluitend aan een reclame-uiting als bedoeld in artikel 53, achtste lid, van het besluit, die via radio of internet ten gehore wordt gebracht, wordt een waarschuwingszin opgenomen door het afspelen van een geluidsbestand, te downloaden vanaf www.afm.nl/kredietwaarschuwing. Het geluidsbestand wordt op oorspronkelijke snelheid afgespeeld en met eenzelfde volume als de reclame-uiting.
+4. Gedurende een reclame-uiting als bedoeld in artikel 53, achtste lid, van het besluit, die via televisie wordt getoond of ten gehore wordt gebracht, wordt gecentreerd onderaan in het beeld dat op het televisiescherm wordt getoond een waarschuwing getoond. Deze waarschuwing is de vanaf www.afm.nl/kredietwaarschuwing te downloaden afbeelding. Deze afbeelding wordt in zijn oorspronkelijke verhouding afgebeeld, waarbij de breedte van de afbeelding gelijk is aan de breedte van het beeld dat op het televisiescherm wordt getoond.
 5. De in het eerste en tweede lid genoemde waarschuwing is de vanaf www.afm.nl/kredietwaarschuwing te downloaden afbeelding. De hoogte van de te downloaden afbeelding, zoals geplaatst in de reclame-uiting overeenkomstig het eerste dan wel het tweede lid, beslaat minimaal 10% van de hoogte van de reclame-uiting inclusief waarschuwing. De afbeelding mag vergroot en verkleind worden, met als uiterste minimumwaarde een lettergrootte van 7 punten voor de letters welke gebruikt zijn in de afbeelding.
 
 ### §  2.3  
@@ -140,11 +140,11 @@ d.  Gedurende een vermeldingsuiting die op televisie wordt getoond of ten gehore
 
 ### Artikel  2:3  
 
-1.  Informatie over de belangrijkste financiële risico’s van een complex product in een schriftelijke reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), wordt weergegeven rechtsboven in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
-2.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via internet wordt weergegeven in de onmiddellijke nabijheid van de informatie over de opbrengsten van het complexe product in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
-3.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting als bedoeld in [artikel 52, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via televisie wordt weergegeven gedurende de reclame-uiting onderaan in beeld door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
+1.  Informatie over de belangrijkste financiële risico’s van een complex product in een schriftelijke reclame-uiting, bedoeld in artikel 52, eerste lid, van het besluit, wordt weergegeven rechtsboven in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in artikel 65, tweede lid, van het besluit. Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
+2.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in artikel 52, eerste lid, van het besluit, via internet wordt weergegeven in de onmiddellijke nabijheid van de informatie over de opbrengsten van het complexe product in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in artikel 65, tweede lid, van het besluit. Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
+3.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting als bedoeld in artikel 52, tweede lid, van het besluit, via televisie wordt weergegeven gedurende de reclame-uiting onderaan in beeld door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in artikel 65, tweede lid, van het besluit. Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
 4.  In afwijking van artikel 3:6, tweede lid en derde lid, worden de risico’s: ‘klein’ en ‘groot’ niet benoemd maar wel weergegeven in de risico-indicator van een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste tot en met derde lid.   
-5.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, derde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via radio wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.   
+5.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in artikel 52, derde lid, van het besluit, via radio wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.   
 6.  De Autoriteit Financiële Markten kan de risico-indicator voor gebruik in reclame-uitingen, bedoeld in het eerste tot en met derde lid, of een geluidsbestand als bedoeld in het vorige lid geheel of gedeeltelijk wijzigen. Een aanbieder van het complexe product verwerkt een dergelijke wijziging uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.   
 7.  De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 1, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer. De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 2. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 3, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 4.   
 8.  De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte kleiner of gelijk aan A4, in een minimale diameter van 4 centimeter, in de kleur zwart of rood.   
@@ -158,10 +158,10 @@ d.  Gedurende een vermeldingsuiting die op televisie wordt getoond of ten gehore
 
 ### Artikel  2:4  
 
-1.  Informatie over een historisch rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), niet zijnde van een beleggingsinstelling, wordt berekend conform het opbrengstscenario bedoeld in artikel 3:9, eerste lid, onder a en mag worden aangevuld met de vermelding van de daadwerkelijk gerealiseerde rendementen over de gebruikte historie.   
-2.  Informatie over een toekomstig rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), niet zijnde van een beleggingsinstelling, wordt berekend conform het opbrengstscenario bedoeld in artikel 3:9, eerste lid, onder a, b of c dan wel een rendement op basis van een eigen berekening, welk rendement echter het opbrengstscenario bedoeld in het eerste lid niet overschrijdt.   
-3.  Informatie over de kosten, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), niet zijnde van een beleggingsinstelling, wordt verstrekt in absolute getallen indien de aanbieder van het complexe product de rendementen bedoeld in het eerste of tweede lid in absolute getallen weergeeft dan wel in percentages indien de betreffende financiële onderneming de rendementen in percentages weergeeft. De informatie over de kosten wordt verstrekt in cumulatieve vorm.   
-4.  Informatie over de belangrijkste financiële risico’s, bedoeld in [artikel 52, vijfde lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) niet zijnde van een beleggingsinstelling, wordt weergegeven door middel van vermelding van, voor zover het een schuldproduct betreft: ‘Het risico dat u met een schuld blijft zitten zoals opgenomen in de Financiële Bijsluiter is […].’ of voor zover het een opbouwproduct betreft: ‘Het risico dat u uw inleg niet terugkrijgt zoals opgenomen in de Financiële Bijsluiter is […].’, onder invulling van de risicocategorie behorende bij de contractuele looptijd als bedoeld in artikel 3:5, tweede en derde lid, gevolgd door de teksten: ‘Dit risico kan hoger of lager worden afhankelijk van bijvoorbeeld uw beleggingskeuze. Bespreek uw risico met een adviseur.’.   
+1.  Informatie over een historisch rendement, bedoeld in artikel 52, vijfde of zesde lid van het besluit, niet zijnde van een beleggingsinstelling, wordt berekend conform het opbrengstscenario bedoeld in artikel 3:9, eerste lid, onder a en mag worden aangevuld met de vermelding van de daadwerkelijk gerealiseerde rendementen over de gebruikte historie.   
+2.  Informatie over een toekomstig rendement, bedoeld in artikel 52, vijfde of zesde lid van het besluit, niet zijnde van een beleggingsinstelling, wordt berekend conform het opbrengstscenario bedoeld in artikel 3:9, eerste lid, onder a, b of c dan wel een rendement op basis van een eigen berekening, welk rendement echter het opbrengstscenario bedoeld in het eerste lid niet overschrijdt.   
+3.  Informatie over de kosten, bedoeld in artikel 52, vijfde of zesde lid van het besluit, niet zijnde van een beleggingsinstelling, wordt verstrekt in absolute getallen indien de aanbieder van het complexe product de rendementen bedoeld in het eerste of tweede lid in absolute getallen weergeeft dan wel in percentages indien de betreffende financiële onderneming de rendementen in percentages weergeeft. De informatie over de kosten wordt verstrekt in cumulatieve vorm.   
+4.  Informatie over de belangrijkste financiële risico’s, bedoeld in artikel 52, vijfde lid van het besluit niet zijnde van een beleggingsinstelling, wordt weergegeven door middel van vermelding van, voor zover het een schuldproduct betreft: ‘Het risico dat u met een schuld blijft zitten zoals opgenomen in de Financiële Bijsluiter is […].’ of voor zover het een opbouwproduct betreft: ‘Het risico dat u uw inleg niet terugkrijgt zoals opgenomen in de Financiële Bijsluiter is […].’, onder invulling van de risicocategorie behorende bij de contractuele looptijd als bedoeld in artikel 3:5, tweede en derde lid, gevolgd door de teksten: ‘Dit risico kan hoger of lager worden afhankelijk van bijvoorbeeld uw beleggingskeuze. Bespreek uw risico met een adviseur.’.   
 5.  Informatie als bedoeld in het vierde lid kan worden vervangen door een risico-indicator, die is berekend op basis van gegevens van de consument.   
 6.  De informatie over het complexe product bedoeld in het vierde of vijfde lid wordt weergegeven op een duidelijk en herkenbare wijze in de onmiddellijke nabijheid van de informatie over rendementen, als bedoeld in het eerste en tweede lid.  
 
@@ -181,7 +181,7 @@ e. worden de rendementscijfers gepresenteerd in procenten waardeverandering van 
 
 f. indien wordt uitgegaan van de waardeverandering van de intrinsieke waarde: wordt gerefereerd aan het totale rendement van de beleggingsinstelling. Een en ander is consistent met de betreffende jaarrekeningen. Indien de instelling belastingplichtig is, wordt het rendement na belastingen genoemd;  
 
-g. indien gebruik wordt gemaakt van gesimuleerde rendementscijfers: certificeert een deskundige, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dat de simulatie rekenkundig juist, objectief meetbaar en representatief is. In de reclame-uiting wordt melding gemaakt van het feit dat gebruik is gemaakt van een simulatie. De certificering van de deskundige behoeft niet in de reclame-uiting te worden opgenomen; en  
+g. indien gebruik wordt gemaakt van gesimuleerde rendementscijfers: certificeert een deskundige, als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, dat de simulatie rekenkundig juist, objectief meetbaar en representatief is. In de reclame-uiting wordt melding gemaakt van het feit dat gebruik is gemaakt van een simulatie. De certificering van de deskundige behoeft niet in de reclame-uiting te worden opgenomen; en  
 
 h. indien de rendementscijfers niet in euro’s luiden wordt de gebruikte valuta vermeld.   
 
@@ -193,7 +193,7 @@ a. is artikel 2.4 onderdelen a, b, f, g en h van overeenkomstige toepassing op d
 
 b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en  
 
-c. worden de prognoses onderbouwd en wordt het model dat daarbij wordt gebruikt door een deskundige als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) getoetst op de elementen die zich daartoe lenen. Het resultaat van deze toetsing wordt schriftelijk vastgelegd.   
+c. worden de prognoses onderbouwd en wordt het model dat daarbij wordt gebruikt door een deskundige als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek getoetst op de elementen die zich daartoe lenen. Het resultaat van deze toetsing wordt schriftelijk vastgelegd.   
 
 ### Hoofdstuk  3  
 
@@ -254,7 +254,7 @@ a. indien het een schuldproduct betreft de zin: ‘Let op! Er wordt gerekend met
 
 2.het een hybride hypotheek betreft, dan luidt de aanvullende zin: met 50% sparen en 50% beleggen; 
 
-b. indien het een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering betreft voor zover van toepassing de zin ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar’ of de zin ‘Let op! Er wordt gerekend met een eenmalige inleg van € (…)’, onder invulling van het toepasselijke bedrag bedoeld in artikel 3:5, tweede en vierde lid, aangevuld met de zin die staat vermeld in bijlage 5, tabel 1, en die hoort bij de toepasselijke beleggingsklasse, tenzij het complexe product een traditionele levensverzekering betreft als bedoeld in [artikel 1, onderdeel d, onder drie van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+b. indien het een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering betreft voor zover van toepassing de zin ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar’ of de zin ‘Let op! Er wordt gerekend met een eenmalige inleg van € (…)’, onder invulling van het toepasselijke bedrag bedoeld in artikel 3:5, tweede en vierde lid, aangevuld met de zin die staat vermeld in bijlage 5, tabel 1, en die hoort bij de toepasselijke beleggingsklasse, tenzij het complexe product een traditionele levensverzekering betreft als bedoeld in artikel 1, onderdeel d, onder drie van het besluit;  
 
 c. indien het een spaarbeleggingsproduct betreft de zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar, met 50% sparen en 50% beleggen’;  
 
@@ -271,7 +271,7 @@ a. met betrekking tot een schuldproduct de volgende zin: ‘Let op! Er wordt ger
 
 2.het een hybride hypotheek betreft, dan luidt de zin: met 50% sparen en 50% beleggen; 
 
-b. met betrekking tot een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering de volgende zin ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar’ of de zin ‘Let op! Er wordt gerekend met een eenmalige inleg van €⁠(…)’, onder invulling van het toepasselijke bedrag bedoeld in artikel 3:5, tweede en vierde lid, aangevuld met de zin die staat vermeld in bijlage 5, tabel 1, en die hoort bij de toepasselijke beleggingsklasse, tenzij het complexe product een traditionele levensverzekering betreft als bedoeld in [artikel 1, onder d ten derde van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);  
+b. met betrekking tot een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering de volgende zin ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar’ of de zin ‘Let op! Er wordt gerekend met een eenmalige inleg van €⁠(…)’, onder invulling van het toepasselijke bedrag bedoeld in artikel 3:5, tweede en vierde lid, aangevuld met de zin die staat vermeld in bijlage 5, tabel 1, en die hoort bij de toepasselijke beleggingsklasse, tenzij het complexe product een traditionele levensverzekering betreft als bedoeld in artikel 1, onder d ten derde van het besluit;  
 
 c. met betrekking tot een spaarbeleggingsproduct de volgende zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar en met 50% sparen en 50% beleggen’ of  
 
@@ -446,7 +446,7 @@ c. ‘bij tussentijdse beëindiging kunt u uw volledige inleg kwijtraken’ indi
 
 d. ‘bij tussentijdse beëindiging kunt u uw inleg kwijtraken en kunt u een schuld overhouden’ indien de consument zijn inleg kan verliezen en de consument een restschuld kan overhouden.    
 5.  Een financiële bijsluiter voor een beleggingsobject onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ de volgende vermelding: ‘u kunt uw volledige inleg kwijtraken’. 
-6.  Een financiële bijsluiter voor een beleggingsobject bevat direct onder de risico-indicator een verwijzing naar het hoofdstuk van het betreffende beleggingsobjectprospectus waarin alle belangrijke risico’s als bedoeld in [artikel 108, eerste lid onder d, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) zijn opgenomen. De tekst die dient te worden ingevoegd luidt: ‘voor alle risico’s van het beleggingsobject wordt verwezen naar hoofdstuk [x] van het beleggingsobjectprospectus’.  
+6.  Een financiële bijsluiter voor een beleggingsobject bevat direct onder de risico-indicator een verwijzing naar het hoofdstuk van het betreffende beleggingsobjectprospectus waarin alle belangrijke risico’s als bedoeld in artikel 108, eerste lid onder d, van het besluit zijn opgenomen. De tekst die dient te worden ingevoegd luidt: ‘voor alle risico’s van het beleggingsobject wordt verwezen naar hoofdstuk [x] van het beleggingsobjectprospectus’.  
 
 ### Artikel  3:8  
 
@@ -562,7 +562,7 @@ Vervallen per 04-12-2011
 
 ### Artikel  4:1*  
 
-1.  Een dienstverleningsdocument als bedoeld in [artikel 86f, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) wordt opgesteld overeenkomstig de artikelen 4:2 tot en met 4:4 van dit hoofdstuk.   
+1.  Een dienstverleningsdocument als bedoeld in artikel 86f, eerste lid, van het besluit wordt opgesteld overeenkomstig de artikelen 4:2 tot en met 4:4 van dit hoofdstuk.   
 2.  Een dienstverleningsdocument heeft betrekking op de gevraagde dienstverlening. Onder de gevraagde dienstverlening vallen de volgende dienstverleningsvragen: 
 
 a. hypotheekvraag;  
@@ -580,7 +580,7 @@ d. pensioenvraag werkgever.
 ### Artikel  4:2*  
 
 1.  Een financiëledienstverlener stelt per dienstverleningsvraag een dienstverleningsdocument op dat is afgestemd op de gevraagde dienstverlening.   
-2.  Een financiëledienstverlener stelt een dienstverleningsdocument op indien de gevraagde dienstverlening van de consument of, indien het gaat om een verzekering, de cliënt betrekking heeft op een financieel product als bedoeld in [artikel 86c, eerste lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Onder deze financiële producten vallen in ieder geval de producten genoemd in tabel 1 van dit artikel.   
+2.  Een financiëledienstverlener stelt een dienstverleningsdocument op indien de gevraagde dienstverlening van de consument of, indien het gaat om een verzekering, de cliënt betrekking heeft op een financieel product als bedoeld in artikel 86c, eerste lid van het besluit. Onder deze financiële producten vallen in ieder geval de producten genoemd in tabel 1 van dit artikel.   
 3.  Indien een financiëledienstverlener een dienstverleningsdocument opstelt voor de ‘Hypotheekvraag’, genoemd in tabel 1 onder a, maakt de ‘Vraag over risico’s afdekken’, zoals genoemd in tabel 1 onder b, en de bijhorende antwoorden integraal deel uit van het dienstverleningsdocument.  Tabel 1: financiële producten gespecificeerd per dienstverleningsvraag 
 
 | --- | --- |
@@ -620,7 +620,7 @@ d. pensioenvraag werkgever.
 
 ### Artikel  4:4*  
 
-Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare financiële producten als bedoeld in [artikel 86f, vierde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) wordt berekend met behulp van de formule opgenomen in bijlage 7. 
+Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare financiële producten als bedoeld in artikel 86f, vierde lid, van het besluit wordt berekend met behulp van de formule opgenomen in bijlage 7. 
 
 ### Hoofdstuk  5  
 
@@ -658,7 +658,7 @@ c. financiële informatie:
 
 2°. de te verwachten waardeontwikkeling van het beleggingsobject; en  
 
-3°. de gegevens bedoeld in [artikel 110 eerste lid onderdeel j, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);    
+3°. de gegevens bedoeld in artikel 110 eerste lid onderdeel j, van het besluit;    
 
 d. indien van toepassing: een overzicht van de belangrijke transacties met gelieerde partijen; en  
 
@@ -668,9 +668,9 @@ e. ingeval van een aanpassing van het beleggingsobjectprospectus: een korte toel
 ### Artikel  4:2  
 
 1.  Een beleggingsobjectprospectus wordt opgesteld overeenkomstig bijlage 6.   
-2.  De informatie betreffende de beleggingsobjectkosten per serie van beleggingsobjecten, bedoeld in [artikel 110, eerste lid onderdeel i, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) wordt overeenkomstig tabel 1 van bijlage 7 in het beleggingsobjectprospectus opgenomen, waarbij wordt uitgegaan van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject. De beleggingsobjectkosten dienen voor de gehele bestaansduur van de serie van beleggingsobjecten te worden weergegeven. Indien de beleggingsobjectkosten voor een reeks jaren gelijk zijn, kunnen deze jaren en de bijhorende beleggingsobjectkosten op basis van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject samengevoegd worden in een kolom als bedoeld in tabel 1 van bijlage 7.   
-3.  De informatie betreffende de gegevens per serie van beleggingsobjecten, bedoeld in [artikel 110 eerste lid onderdeel j, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), wordt overeenkomstig tabel 2 van bijlage 7 in het beleggingsobjectprospectus opgenomen.   
-4.  De beleggingsobjectkosten en de gegevens, bedoeld in [artikel 110, eerste lid, onderdelen i en j, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) worden onderbouwd in het beleggingsobjectprospectus door vermelding van de aannames die daaraan ten grondslag liggen. De tekst waarin de aannames worden vermeld en toegelicht, wordt direct onder de tabellen van bijlage 7 opgenomen.   
+2.  De informatie betreffende de beleggingsobjectkosten per serie van beleggingsobjecten, bedoeld in artikel 110, eerste lid onderdeel i, van het besluit wordt overeenkomstig tabel 1 van bijlage 7 in het beleggingsobjectprospectus opgenomen, waarbij wordt uitgegaan van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject. De beleggingsobjectkosten dienen voor de gehele bestaansduur van de serie van beleggingsobjecten te worden weergegeven. Indien de beleggingsobjectkosten voor een reeks jaren gelijk zijn, kunnen deze jaren en de bijhorende beleggingsobjectkosten op basis van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject samengevoegd worden in een kolom als bedoeld in tabel 1 van bijlage 7.   
+3.  De informatie betreffende de gegevens per serie van beleggingsobjecten, bedoeld in artikel 110 eerste lid onderdeel j, van het besluit, wordt overeenkomstig tabel 2 van bijlage 7 in het beleggingsobjectprospectus opgenomen.   
+4.  De beleggingsobjectkosten en de gegevens, bedoeld in artikel 110, eerste lid, onderdelen i en j, van het besluit worden onderbouwd in het beleggingsobjectprospectus door vermelding van de aannames die daaraan ten grondslag liggen. De tekst waarin de aannames worden vermeld en toegelicht, wordt direct onder de tabellen van bijlage 7 opgenomen.   
 5.  Het beleggingsobjectprospectus vermeldt een datum en een versienummer. Ingeval van een wijziging in een beleggingsobjectprospectus wordt deze toegelicht in het aangepaste beleggingsobjectprospectus met inbegrip van de consequentie(s) van de desbetreffende wijziging. De toelichting bevat een verwijzing naar het voorgaande beleggingsobjectprospectus dat is gewijzigd.  
 
 ### Artikel  4:3  
@@ -683,7 +683,7 @@ Bij berekening van de beleggingsobjectkosten, bedoeld in artikel 4:2, worden opb
 
 ### Artikel  4:4  
 
-1.  De administratieve kosten, beheers-, productie- en verkoopkosten worden per serie van beleggingsobjecten per boekjaar in de toelichting op de jaarrekening verantwoord overeenkomstig de kruistabel van bijlage 8. Eventuele valutakoersverschillen dienen in de bedoelde kosten te worden verantwoord. De ingelegde gelden per serie van beleggingsobjecten per boekjaar, bedoeld in [artikel 67, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) worden separaat in de toelichting op de jaarrekening vermeld.   
+1.  De administratieve kosten, beheers-, productie- en verkoopkosten worden per serie van beleggingsobjecten per boekjaar in de toelichting op de jaarrekening verantwoord overeenkomstig de kruistabel van bijlage 8. Eventuele valutakoersverschillen dienen in de bedoelde kosten te worden verantwoord. De ingelegde gelden per serie van beleggingsobjecten per boekjaar, bedoeld in artikel 67, eerste lid, onderdeel a, van het besluit worden separaat in de toelichting op de jaarrekening vermeld.   
 2.  Indien het totaal van de in een boekjaar verantwoorde kosten niet gelijk is aan het totaal van de kosten, bedoeld in het eerste lid, wordt dit verschil toegelicht in de jaarrekening.   
 3.  Bij berekening van de kosten, bedoeld in het eerste lid, worden opbrengsten en andere voordelen niet in mindering gebracht.  
 
@@ -716,7 +716,7 @@ Een beheerder berekent het totale risico van een door hem beheerde instelling vo
 
 ### Artikel  5:4  
 
-1.  Het totale risico van een instelling voor collectieve belegging in effecten, bedoeld in [artikel 133, zesde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) wordt berekend op een van de volgende wijzen: 
+1.  Het totale risico van een instelling voor collectieve belegging in effecten, bedoeld in artikel 133, zesde lid, van het besluit wordt berekend op een van de volgende wijzen: 
 
 a. de verhoogde blootstelling en het hefboomeffect die door de instelling voor collectieve belegging in effecten worden gegenereerd door van financiële derivaten, met inbegrip van ingepaste derivaten gebruik te maken, waarbij de totale intrinsieke waarde van de instelling voor collectieve belegging in effecten niet mag worden overschreden; of  
 
@@ -732,16 +732,16 @@ b. het marktrisico van de portefeuille van de instelling voor collectieve belegg
 3.  Het gebruik van andere berekeningsmethoden is toegestaan indien deze gelijkwaardig zijn aan de standaardbenadering op basis van de aangegane verplichtingen.   
 4.  Het is toegestaan verrekening- en risicodekkingsregelingen in aanmerking te nemen bij de berekening van het totale risico, indien deze regelingen voor de hand liggende en wezenlijke risico’s niet negeren en in een duidelijke vermindering van het totale risico resulteren.   
 5.  Indien het gebruik van financiële derivaten niet in een verhoogde blootstelling voor de instelling voor collectieve belegging in effecten resulteert, hoeft het onderliggende risico bij de berekening van de verplichtingen niet in aanmerking te worden genomen.   
-6.  Indien van de benadering op basis van de aangegane verplichtingen gebruik wordt gemaakt, hoeven kortlopende leningen die in naam van de instelling voor collectieve belegging in effecten zijn aangegaan, niet in aanmerking te worden genomen bij de berekening van het totale risico indien wordt voldaan aan [artikel 133, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md).  
+6.  Indien van de benadering op basis van de aangegane verplichtingen gebruik wordt gemaakt, hoeven kortlopende leningen die in naam van de instelling voor collectieve belegging in effecten zijn aangegaan, niet in aanmerking te worden genomen bij de berekening van het totale risico indien wordt voldaan aan artikel 133, tweede lid, van het besluit.  
 
 ### Artikel  5:6  
 
-1.  Tegenpartijrisico dat voortvloeit uit een financieel derivaat dat niet op een gereglementeerde markt of een andere markt in financiële instrumenten wordt verhandeld wordt onderworpen aan de in [artikel 134 van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) beschreven begrenzingen.   
-2.  Indien een beheerder het door een instelling voor collectieve belegging in effecten gelopen tegenpartijrisico overeenkomstig de in [artikel 134, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) beschreven begrenzingen berekent, gebruikt de beheerder de positieve marktwaarde van het met de betrokken tegenpartij afgesloten contract betreffende een financieel derivaat, bedoeld in het eerste lid. Een beheerder mag de derivatenposities van een instelling voor collectieve belegging in effecten met eenzelfde tegenpartij verrekenen, mits zij in staat zijn verrekeningsovereenkomsten met de tegenpartij juridisch af te dwingen namens de instelling voor collectieve belegging in effecten. Verrekening is enkel toegestaan met betrekking tot financiële derivaten, bedoeld in het eerste lid, met dezelfde tegenpartij en niet met betrekking tot andere risicoposities die de instelling voor collectieve belegging in effecten jegens dezelfde tegenpartij kan hebben.   
+1.  Tegenpartijrisico dat voortvloeit uit een financieel derivaat dat niet op een gereglementeerde markt of een andere markt in financiële instrumenten wordt verhandeld wordt onderworpen aan de in artikel 134 van het besluit beschreven begrenzingen.   
+2.  Indien een beheerder het door een instelling voor collectieve belegging in effecten gelopen tegenpartijrisico overeenkomstig de in artikel 134, tweede lid, van het besluit beschreven begrenzingen berekent, gebruikt de beheerder de positieve marktwaarde van het met de betrokken tegenpartij afgesloten contract betreffende een financieel derivaat, bedoeld in het eerste lid. Een beheerder mag de derivatenposities van een instelling voor collectieve belegging in effecten met eenzelfde tegenpartij verrekenen, mits zij in staat zijn verrekeningsovereenkomsten met de tegenpartij juridisch af te dwingen namens de instelling voor collectieve belegging in effecten. Verrekening is enkel toegestaan met betrekking tot financiële derivaten, bedoeld in het eerste lid, met dezelfde tegenpartij en niet met betrekking tot andere risicoposities die de instelling voor collectieve belegging in effecten jegens dezelfde tegenpartij kan hebben.   
 3.  Het tegenpartijrisico dat een instelling voor collectieve belegging in effecten wegens een transactie in financiële derivaten, bedoeld in het eerste lid, loopt, kan door middel van de ontvangst van zekerheden worden beperkt. De ontvangen zekerheden zijn voldoende liquide zodat zij snel kunnen worden verkocht tegen een prijs die hun waardering van voor de verkoop sterk benadert.   
-4.  Een beheerder neemt zekerheden in aanmerking bij de berekening van het in [artikel 134, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) bedoelde tegenpartijrisico wanneer de beheerder namens de instelling voor collectieve belegging in effecten zekerheden aan een tegenpartij in financiële derivaten, bedoeld in het eerste lid, doorgeeft. Doorgegeven zekerheden mogen enkel op nettobasis in aanmerking worden genomen indien de beheerder in staat is verrekeningsovereenkomsten met deze tegenpartij juridisch af te dwingen namens de instelling voor collectieve belegging in effecten.   
-5.  Een beheerder berekent de in [artikel 134 van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) bedoelde begrenzingen voor concentraties van beleggingen in één uitgevende instelling overeenkomstig de benadering op basis van de aangegane verplichtingen, op grond van het onderliggende risico dat uit het gebruik van financiële derivaten voortvloeit.   
-6.  Met betrekking tot het risico dat voortvloeit uit in [artikel 134, derde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) bedoelde transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, neemt een beheerder elk aan die financiële derivaten verbonden tegenpartijrisico bij de berekening in aanmerking. 
+4.  Een beheerder neemt zekerheden in aanmerking bij de berekening van het in artikel 134, tweede lid, van het besluit bedoelde tegenpartijrisico wanneer de beheerder namens de instelling voor collectieve belegging in effecten zekerheden aan een tegenpartij in financiële derivaten, bedoeld in het eerste lid, doorgeeft. Doorgegeven zekerheden mogen enkel op nettobasis in aanmerking worden genomen indien de beheerder in staat is verrekeningsovereenkomsten met deze tegenpartij juridisch af te dwingen namens de instelling voor collectieve belegging in effecten.   
+5.  Een beheerder berekent de in artikel 134 van het besluit bedoelde begrenzingen voor concentraties van beleggingen in één uitgevende instelling overeenkomstig de benadering op basis van de aangegane verplichtingen, op grond van het onderliggende risico dat uit het gebruik van financiële derivaten voortvloeit.   
+6.  Met betrekking tot het risico dat voortvloeit uit in artikel 134, derde lid, van het besluit bedoelde transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, neemt een beheerder elk aan die financiële derivaten verbonden tegenpartijrisico bij de berekening in aanmerking. 
 
 ### Hoofdstuk  7  
 
@@ -792,7 +792,7 @@ De bewaaradministratie betreffende financiële instrumenten van een beleggingson
 
 ### Artikel  6:15  
 
-1.  Een beleggingsonderneming, die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van beleggingsdiensten in [artikel 1:1 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of vermogensbeheer als bedoeld in onderdeel a van de definitie van vermogensbeheer in artikel 6:1, kan aan het vereiste bedoeld in artikel 6:14 voldoen indien: 
+1.  Een beleggingsonderneming, die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van beleggingsdiensten in artikel 1:1 van de wet of vermogensbeheer als bedoeld in onderdeel a van de definitie van vermogensbeheer in artikel 6:1, kan aan het vereiste bedoeld in artikel 6:14 voldoen indien: 
 
 a. de gelden en financiële instrumenten die een cliënt toebehoren en waarop de diensten van de beleggingsonderneming betrekking hebben, op een of meer rekeningen ten name van de cliënt bij een kredietinstelling worden aangehouden;  
 
@@ -812,7 +812,7 @@ c. de schriftelijke volmacht van de cliënt aan de beleggingsonderneming uitdruk
 
 ### Artikel  6:16  
 
-1.  Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel b of c van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kan aan het vereiste, bedoeld in artikel 6:14, voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat: 
+1.  Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel b of c van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet, kan aan het vereiste, bedoeld in artikel 6:14, voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat: 
 
 a. de gelden en financiële instrumenten die een cliënt toebehoren en waarop de diensten van de beleggingsonderneming betrekking hebben, worden aangehouden op een of meer rekeningen ten name van de cliënt bij een kredietinstelling;  
 
@@ -823,7 +823,7 @@ c. de beleggingsonderneming uitsluitend bevoegd is om over de in onderdeel a bed
 
 ### Artikel  6:17  
 
-Een beleggingsonderneming die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kan aan het vereiste, bedoeld in artikel 6:14 voldoen, indien wordt voorzien in een regeling krachtens welke de in onderdeel d van de definitie van het verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde rekening en de voor de cliënt aangehouden geldrekening worden beheerd door een beleggersgiro die voldoet aan de volgende voorwaarden: 
+Een beleggingsonderneming die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet kan aan het vereiste, bedoeld in artikel 6:14 voldoen, indien wordt voorzien in een regeling krachtens welke de in onderdeel d van de definitie van het verlenen van een beleggingsdienst in artikel 1:1 van de wet bedoelde rekening en de voor de cliënt aangehouden geldrekening worden beheerd door een beleggersgiro die voldoet aan de volgende voorwaarden: 
 
 a. de beleggersgiro is een rechtspersoon naar Nederlands recht;  
 
@@ -849,9 +849,9 @@ k. de beleggersgiro is jegens de cliënten aansprakelijk voor de door hen gelede
 
 l. de beleggersgiro voorziet in een procedure in geval de beleggersgiro het voornemen te kennen geeft zijn functie neer te leggen;  
 
-m. De beleggersgiro richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van zijn bedrijf waarborgt overeenkomstig de [artikelen 31 eerste, tweede en derde lid](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [31b](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35 eerste, tweede en vierde lid](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [165 eerste lid onderdeel a tot en met c BGfo](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)  
+m. De beleggersgiro richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van zijn bedrijf waarborgt overeenkomstig de artikelen 31 eerste, tweede en derde lid, 31b, 35 eerste, tweede en vierde lid en 165 eerste lid onderdeel a tot en met c BGfo  
 
-n.  de beleggersgiro legt binnen zes maanden na het einde van het boekjaar een jaarrekening als bedoeld in [artikel 361, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vergezeld van een verklaring omtrent de getrouwheid, afgegeven door de accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) over aan de Autoriteit Financiële Markten. De accountant staat niet in dienstbetrekking tot de beleggersgiro of de beleggingsonderneming die de in de aanhef bedoelde rekeningen aanbiedt*;*   
+n.  de beleggersgiro legt binnen zes maanden na het einde van het boekjaar een jaarrekening als bedoeld in artikel 361, eerste lid, van Boek 2 van het Burgerlijk Wetboek vergezeld van een verklaring omtrent de getrouwheid, afgegeven door de accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek over aan de Autoriteit Financiële Markten. De accountant staat niet in dienstbetrekking tot de beleggersgiro of de beleggingsonderneming die de in de aanhef bedoelde rekeningen aanbiedt*;*   
 
 o. de beleggersgiro beschikt over een bedrag aan eigen vermogen van tenminste 125.000 euro;   
 
@@ -859,7 +859,7 @@ o. de beleggersgiro beschikt over een bedrag aan eigen vermogen van tenminste 12
 
 Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning heeft, kan aan het vereiste, bedoeld in artikel 6:14, voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat creditering of debitering van de bij de kredietinstelling aangehouden rekening in financiële instrumenten van de cliënt uitsluitend geschiedt tegen gelijktijdige debitering of creditering van het ingevolge de nota inzake financiële instrumenten te ontvangen of verschuldigde bedrag op de daarvoor bestemde geldrekening van de cliënt en: 
 
-a. indien de financiële instrumenten onder de [Wet giraal effectenverkeer](../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) vallen, de financiële instrumenten overeenkomstig de bepalingen van de Wet giraal effectenverkeer worden bewaard en geadministreerd; of  
+a. indien de financiële instrumenten onder de Wet giraal effectenverkeer vallen, de financiële instrumenten overeenkomstig de bepalingen van de Wet giraal effectenverkeer worden bewaard en geadministreerd; of  
 
 b. de financiële instrumenten worden bewaard bij een bewaarinstelling en aan de volgende voorwaarden is voldaan: 
 
@@ -885,7 +885,7 @@ b. de financiële instrumenten worden bewaard bij een bewaarinstelling en aan de
 
 * de bewaarder voorziet in een procedure in geval de bewaarder het voornemen te kennen geeft zijn functie neer te leggen; en  
 
-* De bewaarinstelling richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van haar bedrijf waarborgt overeenkomstig de [artikelen 31eerste, tweede en derde](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [31b](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35 eerste, tweede en vierde lid](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [165 eerste lid onderdeel a tot en met c BGfo](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)      
+* De bewaarinstelling richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van haar bedrijf waarborgt overeenkomstig de artikelen 31eerste, tweede en derde, 31b, 35 eerste, tweede en vierde lid en 165 eerste lid onderdeel a tot en met c BGfo      
 
 ### Artikel  6:19  
 
@@ -1151,7 +1151,7 @@ Er worden zes beleggingsklassen onderscheiden:
 
 5. breed gespreide beleggingen in aandelen/aandelenfondsen; breed gespreide beleggingen in obligaties/obligatiefondsen voor zover niet ingedeeld in categorie 2 en  
 
-6. emerging country en emerging sector fondsen/beleggingen; beperkt gespreide aandelenfondsen/beleggingen; beleggingen in niet-liquide aandelen; ‘low grade’ investments; beperkt gespreide beleggingen in obligaties/obligatiefondsen voor zover niet ingedeeld in categorie 2; beleggingen in grondstoffen/natuurproducten.   Categorie 1 zijn de beleggingen in overwegend deposito’s, verhandelbaar geldmarktpapier en kortlopende obligaties. In categorie 2 vallen de fondsen en beleggingen die overwegend beleggen in obligaties en obligatiefondsen in OESO-landen. Het gaat hierbij om ‘investment grade’ obligaties, dat wil zeggen beleggingen die een hoge waardering krijgen van bureaus die de kredietwaardigheid van onder andere bedrijven inschatten. Bij categorie 3, vastgoedfondsen en beleggingen in vastgoed, wordt overwegend belegd in vastgoed, ongeacht de landen waar het vastgoed zich bevindt in OESO-landen, niet zijnde een beleggingsobject als bedoeld in [artikel 1, onder d, ten vijfde van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Categorie 4 betreft de ‘Mixfondsen’, de zogenaamde gemengde fondsen of beleggingen. Gemengde fondsen of beleggingen hebben een spreiding over meerdere (mogelijk alle 5) andere categorieën. Categorie 5 betreft de breed gespreide beleggingen in aandelen/aandelenfondsen. Een fonds is een breed gespreid aandelenfonds als overwegend wordt belegd in meerdere grote bedrijven uit verschillende sectoren gevestigd in OESO-landen. Een fonds dat bijvoorbeeld investeert in grote ondernemingen in verschillende sectoren in de VS valt in deze categorie. Ook breed gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen onder categorie 5. Categorie 6 betreft de beleggingen met significant hogere risico’s dan de beleggingen in de andere categorieën, zoals de emerging market of emerging sector fondsen/beleggingen en beperkt gespreide aandelenfondsen/beleggingen. Bij emerging markets wordt gedacht aan opkomende landen met soms een nog in opkomst zijnde aandelenmarkt. Het gaat hierbij om niet OESO-landen. Bij emerging sector fondsen wordt bijvoorbeeld gedacht aan fondsen die beleggen in vaak kleinere bedrijven, eventueel binnen de OESO-landen. Voorbeelden van deze bedrijven zijn ICT-, internet-, kleinere telecommunicatie- en biotechnologie bedrijven. Bij een beperkt gespreid fonds of beperkt gespreide beleggingen wordt bijvoorbeeld gedacht aan investeringen in één sector en (cumulatief) in één of een beperkt aantal landen. Ook beleggingen in niet-liquide aandelen, ‘low grade’ investments (aandelen die een lage waardering krijgen van bureaus die de kredietwaardigheid van o.a. bedrijven inschatten) en beleggingen in grondstoffen/natuurproducten (zoals teakfondsen) vallen onder categorie 6. Beperkt gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen eveneens onder categorie 6. De toewijzing van een product aan een beleggingsklasse geschiedt als volgt: 
+6. emerging country en emerging sector fondsen/beleggingen; beperkt gespreide aandelenfondsen/beleggingen; beleggingen in niet-liquide aandelen; ‘low grade’ investments; beperkt gespreide beleggingen in obligaties/obligatiefondsen voor zover niet ingedeeld in categorie 2; beleggingen in grondstoffen/natuurproducten.   Categorie 1 zijn de beleggingen in overwegend deposito’s, verhandelbaar geldmarktpapier en kortlopende obligaties. In categorie 2 vallen de fondsen en beleggingen die overwegend beleggen in obligaties en obligatiefondsen in OESO-landen. Het gaat hierbij om ‘investment grade’ obligaties, dat wil zeggen beleggingen die een hoge waardering krijgen van bureaus die de kredietwaardigheid van onder andere bedrijven inschatten. Bij categorie 3, vastgoedfondsen en beleggingen in vastgoed, wordt overwegend belegd in vastgoed, ongeacht de landen waar het vastgoed zich bevindt in OESO-landen, niet zijnde een beleggingsobject als bedoeld in artikel 1, onder d, ten vijfde van het besluit. Categorie 4 betreft de ‘Mixfondsen’, de zogenaamde gemengde fondsen of beleggingen. Gemengde fondsen of beleggingen hebben een spreiding over meerdere (mogelijk alle 5) andere categorieën. Categorie 5 betreft de breed gespreide beleggingen in aandelen/aandelenfondsen. Een fonds is een breed gespreid aandelenfonds als overwegend wordt belegd in meerdere grote bedrijven uit verschillende sectoren gevestigd in OESO-landen. Een fonds dat bijvoorbeeld investeert in grote ondernemingen in verschillende sectoren in de VS valt in deze categorie. Ook breed gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen onder categorie 5. Categorie 6 betreft de beleggingen met significant hogere risico’s dan de beleggingen in de andere categorieën, zoals de emerging market of emerging sector fondsen/beleggingen en beperkt gespreide aandelenfondsen/beleggingen. Bij emerging markets wordt gedacht aan opkomende landen met soms een nog in opkomst zijnde aandelenmarkt. Het gaat hierbij om niet OESO-landen. Bij emerging sector fondsen wordt bijvoorbeeld gedacht aan fondsen die beleggen in vaak kleinere bedrijven, eventueel binnen de OESO-landen. Voorbeelden van deze bedrijven zijn ICT-, internet-, kleinere telecommunicatie- en biotechnologie bedrijven. Bij een beperkt gespreid fonds of beperkt gespreide beleggingen wordt bijvoorbeeld gedacht aan investeringen in één sector en (cumulatief) in één of een beperkt aantal landen. Ook beleggingen in niet-liquide aandelen, ‘low grade’ investments (aandelen die een lage waardering krijgen van bureaus die de kredietwaardigheid van o.a. bedrijven inschatten) en beleggingen in grondstoffen/natuurproducten (zoals teakfondsen) vallen onder categorie 6. Beperkt gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen eveneens onder categorie 6. De toewijzing van een product aan een beleggingsklasse geschiedt als volgt: 
 
 – Een fonds of belegging valt binnen een categorie als voor meer dan 70% in de betreffende categorie wordt geïnvesteerd.  
 
@@ -1225,6 +1225,735 @@ Zodra in een product gebruik wordt gemaakt van een fonds dat vier jaar of langer
 
 waarbij: μFB, σFB de standaardparameters zijn zoals gehanteerd bij de financiële bijsluiter, en μF het gemiddelde fondsrendement inhoudt en σFde standaarddeviatie van het fondsrendement inhoudt. De fondsparameters worden bepaald als:  ![241826](http://wetten.overheid.nl/Illustration/241826)
 waarbij  rj = het *meetkundige* maandrendement in historie maand j,  n = het aantal maanden historie, met een maximum van 12*20 = 240, m = 12 (maanden per jaar) *4 (jaar) = 48 maanden Voor de bepaling van de fondsspecifieke parameters moet altijd de meest recente historie worden gebruikt en moeten de parameters minimaal eens per vierentwintig kalendermaanden worden geactualiseerd dan wel vaker indien de gebruikte parameters door omstandigheden of veranderingen niet meer representatief zijn. 
+
+### Bijlage  6  
+
+Bijlage ter uitvoering van artikel 4:3 houdende de vormgeving en de inhoud van het dienstverleningsdocument. Hieronder wordt per dienstverleningsvraag een standaardmodel getoond voor het dienstverleningsdocument. Vervolgens wordt per onderdeel aangegeven welke informatie en/of afbeelding dient te worden opgenomen per relevante dienstverleningsvraag in het dienstverleningsdocument. Het dienstverleningsdocument bevat vaste en variabele teksten. Per onderdeel of subonderdeel wordt aangegeven of de betreffende informatie een vaste tekst of afbeelding betreft. Een vaste tekst of afbeelding moet altijd in het dienstverleningsdocument worden opgenomen. Telkens als ‘indien van toepassing’ wordt vermeld, dient de financiële dienstverlener de tekst op te nemen wanneer die op zijn dienstverlening van toepassing is. 
+
+### 1.1  
+
+####Hypotheekvraag
+
+Hieronder wordt het standaard model voor het dienstverleningsdocument bij een Hypotheekvraag getoond. LET OP: Dit betreft slechts een voorbeeld.  ![252064](http://wetten.overheid.nl/Illustration/252064)
+![252065](http://wetten.overheid.nl/Illustration/252065)
+![252066](http://wetten.overheid.nl/Illustration/252066)
+![252067](http://wetten.overheid.nl/Illustration/252067)
+
+### 1.1.1  
+
+####Instructies standaardmodel dienstverleningsdocument
+
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd. Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven. Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen: 
+
+* Formaat: A4  
+
+* Omvang: 4 pagina’s, bovenaan iedere pagina de volgende tekst: *Dienstverleningsdocumen*t (lettertype TheSans B7 Bold, lettergrootte 16 pt) *Hypotheekvraag* (lettertype TheSans B3 light, lettergrootte 16 pt, kleurcode #009DEO)  
+
+* Standaard lettertype: TheSans B5 Plain  
+
+* Standaard lettergrootte: basis font size 9pt  
+
+* Standaard kleurcode: basis font kleur #241354  
+
+* kleurcode helblauwe font kleur: # 009DEO  
+
+* Kleur contactgegevens financiëledienstverlener: #565759  
+
+* Kleurcode lichtgekleurde teksten: #B1B2B4  
+
+* Uitlijning pagina boven: 2 cm  
+
+* Uitlijning pagina onder: 1,5 cm  
+
+* Uitlijning pagina links: 1 cm  
+
+* Uitlijning pagina rechts: 0,8 cm   
+
+### 2.1.2  
+
+####Contactgegevens
+
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres *(in kleurcode #565759, lettergrootte 8pt*). 
+
+### 1.1.3  
+
+####Onderdeel 1: Inleiding
+
+### *Dienstverleningsdocument Hypotheekvraag* 
+
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken. Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener. 
+### * U heeft een hypotheekvraag (lettertype TheSans B6 SemiBold, lettergrootte 12pt)* 
+
+Wilt u een lening voor uw woning? Bijvoorbeeld omdat u een woning wilt kopen en daarvoor een lening nodig heeft, of omdat u nadenkt over een nieuwe lening omdat de rentevastperiode van uw lening, is afgelopen Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situatie heeft u een hypotheekvraag en moet u over een aantal dingen nadenken. Bijvoorbeeld over: 
+
+* De hoogte van het bedrag dat u wilt lenen.  
+
+* Voor uw lening betaalt u iedere maand. De rente is niet bij iedere bank en verzekeraar hetzelfde.  
+
+* Ook moet u de lening terugbetalen. Dat kan op verschillende manieren. Ook daar moet u goed over nadenken.  
+
+* Soms is het verstandig om een verzekering te nemen bij uw lening.   In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan. 
+
+### 1.1.4  
+
+####Onderdeel 2: Samenvatting
+
+### *Samenvatting wat kunnen wij voor u doen? (lettertype The Sans B7 Bold, lettergrootte 16 PT)* 
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.  *De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.*   * *Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.* *  De gekozen zin wordt boven de activiteitenbalk geplaatst.  DE HYPOTHEEK *(kleurcode #009DEO, lettergrootte 12pt.)*  
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| ‘Indien van toepassing’  1. Wij kunnen u alleen adviseren over onze eigen hypotheken. Wij kunnen ervoor zorgen dat u het contract krijgt.  2. Wij kunnen u adviseren over hypotheken van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  3. Wij geven u geen advies over hypotheken. Wel kunnen wij ervoor zorgen dat u het contract krijgt.  4. Wij kunnen u adviseren over de hypotheken van anderen. Wij zorgen er niet voor dat u het contract krijgt.  5. Wij kunnen u adviseren over onze eigen hypotheken en over de hypotheken van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  6. Wij kunnen u adviseren over onze eigen hypotheken. Wij zorgen er niet voor dat u het contract krijgt.  7. Wij kunnen u adviseren over onze eigen hypotheken en over de hypotheken van anderen. Wij zorgen er niet voor dat u het contract krijgt.   *Activiteitenbalk*   De activiteiten die u wel verricht worden donkergekleurd (lettertype The Sans B7 Bold) aangegeven. De activiteiten die u niet verricht worden licht gekleurd (kleurcode #*B1B2B4*) aangegeven. Dit correspondeert met de linkerkolom van onderdeel 3 (toelichting op de samenvatting). Ook hier worden de activiteiten die u wel verricht donkergekleurd aangegeven en die u niet verricht lichtgekleurd aangegeven.  |
+| 1.Onderzoek  Hoe is uw persoonlijke situatie?  | 2.Advies  Welke financiële oplossing past bij u en uw situatie?  | 3.Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?  | 4.Contract  Heeft u gekozen?  Dan kunnen wij ervoor zorgen dat u de contracten krijgt  | 5.Onderhoud  U heeft het contract. Daarna houden wij in de gaten of het goed gaat.  |
+
+* *Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.* *  Deze gekozen zin wordt boven de ‘activiteitenbalk’ geplaatst.  VERZEKERINGEN BIJ DE HYPOTHEEK (kleurcode #009DEO, lettergrootte 12pt.) 
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| ‘Indien van toepassing’  1.Wij kunnen u alleen adviseren over onze eigen verzekeringen. Wij kunnen ervoor zorgen dat u het contract krijgt.  2. Wij kunnen u adviseren over verzekeringen van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  3. Wij geven u geen advies over verzekeringen. Wel kunnen wij ervoor zorgen dat u het contract krijgt.  4. Wij kunnen u adviseren over de verzekeringen van anderen. Wij zorgen er niet voor dat u het contract krijgt.  5. Wij kunnen u adviseren over onze eigen verzekeringen en over de verzekeringen van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  6.Wij kunnen u adviseren over onze eigen verzekeringen. Wij zorgen er niet voor dat u het contract krijgt.  7.Wij kunnen u adviseren over onze eigen verzekeringen en over de verzekeringen van anderen. Wij zorgen er niet voor dat u het contract krijgt.  8.Wij geven u geen advies over verzekeringen. Ook kunnen wij er niet voor zorgen dat u het contract krijgt.  Activiteitenbalk  De activiteiten die u wel verricht worden donkergekleurd (*lettertype The Sans B7 Bold*) aangegeven. De activiteiten die u niet verricht worden lichtgekleurd (*kleurcode #B1B2B4*) aangegeven. Dit correspondeert met de linkerkolom van onderdeel 3 ( toelichting op de samenvatting). Ook hier worden de activiteiten die u wel verricht donkergekleurd aangegeven en die u niet verricht lichtgekleurd aangegeven.  |
+| 1.Onderzoek  Hoe is uw persoonlijke situatie?  | 2.Advies  Welke financiële oplossing past bij u en uw situatie?  | 3.Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?  | 4.Contract  Heeft u gekozen?  Dan kunnen wij ervoor zorgen dat u de contracten krijgt  | 5.Onderhoud  U heeft het contract. Daarna houden wij in de gaten of het goed gaat.  |
+
+### *Kosten van de dienstverlening* 
+
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t in. 
+### *Gemiddelde kosten (lettertype TheSans B6 Semi Bold, lettergrootte 12 pt)* 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| advies  | gericht op afsluiten  | combinatie  |
+| €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. 
+
+### 1.1.5  
+
+####Onderdeel 3: Toelichting
+
+### *Toelichting: Wat kunnen wij voor u doen?* 
+
+*(lettertype The Sans B7 Bold, lettergrootte 16 PT*  
+### *Uitwerking activiteit 1 van de activiteitenbalk ‘Onderzoek’* 
+
+| --- | --- |
+|:---|:---|
+| 1. Onderzoek  Hoe is uw persoonlijke situatie?  | Kies de zin (A of B) die op uw dienstverlening van toepassing is.  ‘Indien van toepassing’  A. We beginnen met uw persoonlijke situatie. Want pas als we uw persoonlijke situatie goed kennen, kunnen we u een goed financieel advies geven. Samen met u beantwoorden we bijvoorbeeld de volgende vragen:  • Wat weet u al over mogelijke financiële oplossingen? En heeft u hier ervaring mee?  • Wat wilt u en wat kunt u betalen?  • Hoeveel zekerheid wilt u? En hoeveel risico kunt u en wilt u nemen?  B. Wij geven u geen advies over uw hypotheekvraag en brengen uw persoonlijke situatie niet in kaart.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 1. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 300 leestekens.  |
+
+### *Uitwerking activiteit 2 van de activiteitenbalk ‘Advies’* 
+
+| --- | --- |
+|:---|:---|
+| 2. Advies  Welke financiële oplossing past bij u en uw situatie.  | Kies de zin(A of B) die op uw dienstverlening van toepassing:  ‘indien van toepassing’  A. Nadat we uw persoonlijke situatie en wensen in beeld hebben gebracht en een beeld hebben van u als klant, analyseren we dit klantbeeld. U krijgt een financiële oplossing die aansluit bij uw situatie en wensen.  B.Wij geven u geen advies over uw hypotheekvraag en gaan daarom niet voor u op zoek naar een financiële oplossing die aansluit bij uw situatie en wensen.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 2. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 300 leestekens.  |
+| --- | --- |
+
+### *Uitwerking activiteit 3 van de activiteitenbalk ‘Zoeken’* 
+
+Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).  
+
+| --- | --- |
+|:---|:---|
+| 3. Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?   ![252068](http://wetten.overheid.nl/Illustration/252068)
+Dit biedt de dienstverlener   ![252069](http://wetten.overheid.nl/Illustration/252069)
+Dit biedt de dienstverlener niet  |  *Op volgende wijze dient deze stap uitgewerkt te worden voor objectieve analyse: Kies de hoedanigheid die op u van toepassing is.*   ‘indien van toepassing’   *De Hypotheek* (*lettertype TheSans B6 SemiBold, lettergrootte 12pt, kleurcode #009DEO)*   Indien u een financiëledienstverlener bent die uitsluitend adviseert in eigen hypotheken dan neemt u de volgende tekst en afbeelding op;  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Wij adviseren over onze eigen hypotheken en wij maken daarom geen vergelijking van hypotheken van andere aanbieders om een geschikt aanbod te vinden.   ![252070](http://wetten.overheid.nl/Illustration/252070)
+|
+| --- | Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252071](http://wetten.overheid.nl/Illustration/252071)
+|
+| --- | Indien u een financiëledienstverlener bent die zowel eigen hypotheken als hypotheken van andere aanbieders adviseert, dan neemt u een van de volgende tekst en afbeelding op:  Bij vergelijking van een groot aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Om een geschikt aanbod te vinden vergelijken we een groot aantal hypotheken met elkaar. We bekijken welke hypotheken passen bij u en uw situatie.   ![252072](http://wetten.overheid.nl/Illustration/252072)
+Wij adviseren onze eigen hypotheken en hypotheken van andere aanbieders.  |
+| --- | Bij vergelijking van een beperkt aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal hypotheken met elkaar. We bekijken welke hypotheken passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252073](http://wetten.overheid.nl/Illustration/252073)
+Wij adviseren onze eigen hypotheken en hypotheken van andere aanbieders.  Bij geen vergelijking van hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product  Wij maken geen vergelijking van verschillende hypotheken om een geschikt aanbod te vinden.   ![252074](http://wetten.overheid.nl/Illustration/252074)
+Wij adviseren onze eigen hypotheken en hypotheken van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van hypotheken van aanbieders om een geschikt aanbod te vinden.   ![252075](http://wetten.overheid.nl/Illustration/252075)
+|
+| --- | Indien u een financiëledienstverlener bent die alleen hypotheken van andere aanbieders adviseert, neemt u de volgende tekst en afbeelding op:  Bij een vergelijking van een groot aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een groot aantal hypotheken met elkaar. We bekijken welke hypotheken passen bij u en uw situatie.   ![252076](http://wetten.overheid.nl/Illustration/252076)
+Wij adviseren uitsluitend hypotheken van andere aanbieders.  Bij een vergelijking van een beperkt aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal hypotheken met elkaar. We bekijken welke hypotheken passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252077](http://wetten.overheid.nl/Illustration/252077)
+Wij adviseren uitsluitend hypotheken van andere aanbieders.  Bij geen vergelijking van hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende hypotheken om een geschikt aanbod te vinden.   ![252078](http://wetten.overheid.nl/Illustration/252078)
+Wij adviseren uitsluitend hypotheken van andere aanbieders  Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252079](http://wetten.overheid.nl/Illustration/252079)
+|
+| --- |  *Verzekeringen bij hypotheek* (*lettertype TheSans B6 SemiBold, lettergrootte 12pt, kleurcode #009DEO)*    *Kies de hoedanigheid die op u van toepassing is.*   ‘indien van toepassing’  Indien u niet adviseert in verzekeringen bij de hypotheek, dan neemt u de volgende zin en afbeelding op:  Wij geven u geen advies over verzekeringen.   ![252080](http://wetten.overheid.nl/Illustration/252080)
+|
+| --- | Indien u een financiëledienstverlener bent die uitsluitend adviseert in eigen verzekeringen dan neemt u de volgende tekst en afbeelding op voor dit onderdeel:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij adviseren over onze eigen verzekeringen en wij maken daarom geen vergelijking van verzekeringen van andere aanbieders om een geschikt aanbod te vinden.   ![252081](http://wetten.overheid.nl/Illustration/252081)
+|
+| --- | Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252082](http://wetten.overheid.nl/Illustration/252082)
+|
+| --- | Indien u een financiëledienstverlener bent die zowel eigen verzekeringen als verzekeringen van anderen aanbiedt, dan neemt u een van de volgende teksten op die voor u relevant is, en de bijbehorende afbeelding:  Bij vergelijking van een groot aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Om een geschikt aanbod te vinden vergelijken we een groot aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie.   ![252083](http://wetten.overheid.nl/Illustration/252083)
+Wij adviseren onze eigen verzekeringen en verzekeringen van andere aanbieders.  Bij vergelijking van een beperkt aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252084](http://wetten.overheid.nl/Illustration/252084)
+Wij adviseren onze eigen verzekeringen en verzekeringen van andere aanbieders.  Bij geen vergelijking van verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Wij maken geen vergelijking van verschillende verzekeringen om een geschikt aanbod te vinden.   ![252085](http://wetten.overheid.nl/Illustration/252085)
+Wij adviseren onze eigen verzekeringen en verzekeringen van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U hebt zelf een oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252086](http://wetten.overheid.nl/Illustration/252086)
+Wanneer er geen verzekeringsdeel is bij de hypotheekvraag, dan neemt u de volgende tekst en afbeelding op:  Wij geven u geen advies over verzekeringen.   ![252087](http://wetten.overheid.nl/Illustration/252087)
+|
+| --- | Indien u een financiëledienstverlener bent die alleen verzekeringen van andere aanbieders adviseert, neemt u de volgende tekst en afbeelding op:  Bij een vergelijking van een groot aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Om een geschikt aanbod te vinden, vergelijken we een groot aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie.   ![252088](http://wetten.overheid.nl/Illustration/252088)
+Wij adviseren uitsluitend verzekeringen van andere aanbieders.  Bij een vergelijking van een beperkt aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252089](http://wetten.overheid.nl/Illustration/252089)
+Wij adviseren uitsluitend verzekeringen van andere aanbieders.  Bij geen vergelijking van verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende hypotheken om een geschikt aanbod te vinden.   ![252090](http://wetten.overheid.nl/Illustration/252090)
+Wij adviseren uitsluitend verzekeringen van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252091](http://wetten.overheid.nl/Illustration/252091)
+Wanneer er geen verzekeringsdeel is bij de hypotheekvraag dan neemt u de  volgende tekst en afbeelding op:  Wij geven u geen advies over verzekeringen.   ![252092](http://wetten.overheid.nl/Illustration/252092)
+|
+| --- |  *Op volgende wijze dient deze stap uitgewerkt te worden voor belangen:*   Gekwalificeerde deelneming als bedoeld in artikel 86f, tweede lid, onderdelen g en h van het besluit: Kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er een eigendomsbelang tussen ons en een andere aanbieder is.  2. Met meerdere aanbieders van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er eigendomsbelangen tussen ons en andere aanbieders zijn.  Contractuele verplichtingen als bedoeld in artikel 86f, tweede lid, onderdeel b, van het besluit:: kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een contractuele afspraak. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieder te adviseren.  2. Met meerdere aanbieders van financiële producten hebben wij contractuele afspraken. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieders te adviseren.  Als gevolg van de keuzes die u hierboven heeft gemaakt, is een van de onderstaande zinnen van toepassing. Neem de voor u relevante zin op.  Indien u uitsluitend eigen producten adviseert, hoeft u niet te kiezen uit onderstaande zinnen. U neemt dan niets op.  ‘Indien van toepassing’  1. Het bovenstaande belang kan invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  2. De bovenstaande belangen kunnen invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  |
+
+### *Uitwerking activiteit 4 van de activiteitenbalk ‘Contract’* 
+
+| --- | --- |
+|:---|:---|
+| 4. Contract  Heeft u gekozen? Dan kunnen wij ervoor zorgen dat u de contracten krijgt.  | Kies de zin (A, B of C) die op uw dienstverlening van toepassing is:  ‘indien van toepassing’  A. Nadat wij u advies hebben gegeven, neemt u een beslissing. Als u dat wilt kunnen wij ervoor zorgen dat u de contracten krijgt.  B. Nadat wij u advies hebben gegeven, neemt u een beslissing. Wij zorgen er daarna niet voor dat u de contracten krijgt. Wij kunnen ervoor zorgen er u de contracten krijgt voor het product dat u zelf gekozen heeft.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 4  Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 5 van de activiteitenbalk ‘Onderhoud’* 
+
+| --- | --- |
+|:---|:---|
+| 5. Onderhoud.  U heeft een contract. Daarna houden wij in de gaten of het goed gaat.  | Het contract loopt vaak lang door. Nadat u het contract heeft getekend, kan uw persoonlijke situatie veranderen. Mogelijk past het product in de toekomst niet meer bij uw persoonlijke situatie. Het is belangrijk dat u weet dat u tijdens de looptijd van het contract recht hebt op informatie over onder andere belangrijke wijzigingen in het product.  Let op! Wat financiële dienstverleners voor u kunnen doen nadat u het contract heeft, kan heel erg verschillen. Spreek daarom goed af wat hij doet en wat hij niet doet. En hoeveel dat kost.  Kies hierna de zin (A, B of C) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  A. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, geen andere onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten.  B. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, de donkergedrukte activiteiten verrichten voor het onderhoud van uw contract.  C. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten. Bespreek met ons wat wij voor u kunnen doen.  Indien u B kiest, kunt u een of meer van de volgende werkzaamheden opnemen. De werkzaamheden die door u worden gekozen worden donkergekleurd (*lettertype The Sans B7 Bold*) aangegeven. De opties die niet van toepassing zijn op uw dienstverlening worden lichtgekleurd (*kleurcode #B1B2B4)* aangegeven.  |
+| --- | • Regelmatig controleren of het product nog steeds past bij uw persoonlijke situatie en wensen  • Regelmatig vergelijken of er ergens anders nieuwe of vernieuwde producten zijn die mogelijk beter bij uw persoonlijke situatie passen.  • Uw belangen behartigen bij contact tussen u en de aanbieder.  • Anders, namelijk (u kunt hier zelf een optie invullen). Deze tekst bevat maximaal 100 leestekens.  Kies vervolgens de wijze waarop u de kosten in rekening brengt:  De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.  ‘indien van toepassing’  1. De kosten worden apart in rekening gebracht via een abonnement, vast tarief of een uurtarief.  2. De kosten worden apart in rekening gebracht via een vast tarief of een abonnement.  3. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  4. De kosten worden apart in rekening gebracht via een abonnement of een uurtarief.  5. De kosten worden apart in rekening gebracht via een vast tarief.  6. De kosten worden apart in rekening gebracht via een abonnement.  7. De kosten worden apart in rekening gebracht via een uurtarief.  8. Wij brengen hiervoor geen extra kosten in rekening.  |
+
+### 2.1.6  
+
+####Onderdeel 4: Kosten van de dienstverlening
+
+De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel. 
+### * Kosten: Hoeveel betaalt u? (lettertype TheSans B7 Bold, lettergrootte 16pt)* 
+
+Kosten voor de dienstverlening 
+
+|--- | Gemiddelde kosten  | Starter  | Ondernemer  | Anders (voer in ...)  |
+|:---|:---|:---|:---|:---|
+| Advieskosten  | €  | €  | €  | €  |
+| Kosten gericht op afsluiten product  | €  | €  | €  | €  |
+| Combinatie  | €  | €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument. ‘indien van toepassing’ 
+
+1. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  
+
+2. De kosten worden apart in rekening gebracht via een vast tarief.  
+
+3. De kosten worden apart in rekening gebracht via een uurtarief.   
+### *Open tekstveld* 
+
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens. 
+### *Disclaimer* 
+
+De volgende tekst wordt altijd opgenomen: Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening. 
+
+### 1.2  
+
+####Vraag over risico’s afdekken
+
+Hieronder wordt het standaard model voor het dienstverleningsdocument bij de vraag over risico’s afdekken getoond. LET OP: Dit betreft slechts een voorbeeld.  ![252093](http://wetten.overheid.nl/Illustration/252093)
+![252094](http://wetten.overheid.nl/Illustration/252094)
+![252095](http://wetten.overheid.nl/Illustration/252095)
+![252096](http://wetten.overheid.nl/Illustration/252096)
+
+### 1.2.1  
+
+####Instructies standaardmodel dienstverleningsdocument
+
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd. Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven. Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen: 
+
+* Formaat: A4  
+
+* Omvang: 4 pagina’s, bovenaan iedere pagina de volgende tekst: *Dienstverleningsdocument* (lettertype TheSans B7 Bold, lettergrootte 16 pt) *Risico’s afdekken* (lettertype TheSans B3 light, lettergrootte 16 pt, kleurcode #009DEO)  
+
+* Standaard lettertype: TheSans B5 Plain  
+
+* Standaard lettergrootte: basis font size 9pt  
+
+* Standaard kleurcode: basis font kleur #241354  
+
+* kleurcode helblauwe font kleur: # 009DEO  
+
+* Kleur contactgegevens financiëledienstverlener: #565759  
+
+* Kleurcode grijze teksten: #B1B2B4  
+
+* Uitlijning pagina boven: 2 cm  
+
+* Uitlijning pagina onder: 1,5 cm  
+
+* Uitlijning pagina links: 1 cm  
+
+* Uitlijning pagina rechts: 0,8 cm   
+
+### 1.2.2  
+
+####Contactgegevens
+
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres *(in kleurcode #565759, lettergrootte 8pt*). 
+
+### 1.2.3  
+
+####Onderdeel 1: Inleiding
+
+### *Dienstverleningsdocument risico’s afdekken* 
+
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken. Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener. 
+### * U wilt een verzekering (lettertype TheSans B6 SemiBold, lettergrootte 12pt)* 
+
+Wilt u een verzekering? Bijvoorbeeld voor als u of uw partner overlijdt? Of voor als u arbeidsongeschikt of werkloos wordt? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situaties heeft u een vraag over het afdekken van risico’s en moet u over een aantal dingen nadenken. Bijvoorbeeld over: 
+
+* Heeft u de verzekering nodig?  
+
+* Hoeveel premie betaalt u voor de verzekering?  
+
+* In welke situaties keert de verzekering uit?  
+
+* In welke situaties keert de verzekering niet uit?   In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan. 
+
+### 1.2.4  
+
+####Onderdeel 2: Samenvatting
+
+### *Samenvatting: Wat kunnen wij voor u doen? (lettertype TheSans B7 Bold, lettergrootte 16 PT)* 
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.  *De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.*   * *Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.* *   
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| ‘indien van toepassing’  1.Wij kunnen u alleen adviseren over onze eigen verzekeringen. Wij kunnen ervoor zorgen dat u het contract krijgt.  2. Wij kunnen u adviseren over verzekeringen van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  3. Wij geven u geen advies over verzekeringen. Wel kunnen wij ervoor zorgen dat u het contract krijgt.  4.Wij kunnen u adviseren over de verzekeringen van anderen. Wij zorgen er niet voor dat u het contract krijgt.  5. Wij kunnen u adviseren over onze eigen verzekeringen en over de verzekeringen van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  6. Wij kunnen u adviseren over onze eigen verzekeringen. Wij zorgen er niet voor dat u het contract krijgt.  7.Wij kunnen u adviseren over onze eigen verzekeringen en over de verzekeringen van anderen. Wij zorgen er niet voor dat u het contract krijgt.   *Activiteitenbalk*   De activiteiten die u wel verricht worden donkergekleurd *(lettertype The Sans B7 Bold*) aangegeven. De activiteiten die u niet verricht worden licht gekleurd (*kleurcode #B1B2B4*) aangegeven. Dit correspondeert met de linkerkolom van onderdeel 3 (toelichting op de samenvatting). Ook hier worden de activiteiten die u wel verricht donkergekleurd aangegeven en die u niet verricht lichtgekleurd aangegeven.  |
+| 1.Onderzoek  Hoe is uw persoonlijke situatie?  | 2.Advies  Welke financiële oplossing past bij u en uw situatie?  | 3.Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?  | 4.Contract  Heeft u gekozen?  Dan kunnen wij ervoor zorgen dat u de contracten krijgt  | 5.Onderhoud  U heeft het contract. Daarna houden wij in de gaten of het goed gaat.  |
+
+### *Kosten van de dienstverlening* 
+
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t in. 
+### *Gemiddelde kosten (lettertype TheSans B6 Semi Bold, lettergrootte 12 pt)* 
+
+| Advies  | gericht op afsluiten product  | combinatie  |
+|:---|:---|:---|
+| €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. 
+
+### 1.2.5  
+
+####Onderdeel 3: Toelichting
+
+### *Toelichting: Wat kunnen wij voor u doen? (lettertype TheSans B7 Bold, lettergrootte 16 pt)* 
+
+### *Uitwerking activiteit 1 van de activiteitenbalk ‘Onderzoek’* 
+
+| --- | --- |
+|:---|:---|
+| 1. Onderzoek  Hoe is uw persoonlijke situatie?  | Kies de zin (A of B) die op uw dienstverlening van toepassing is.  ‘Indien van toepassing’  A.  We beginnen met uw persoonlijke situatie. Want pas als we u persoonlijke situatie goed kennen, kunnen we goed financieel advies geven. Samen met u beantwoorden we de volgende vragen:  • Wat weet u al over mogelijke financiële oplossingen? En heeft u hier ervaring mee?  • Wat wilt u en wat kunt u betalen?  • Hoeveel zekerheid wilt u? En hoeveel risico kunt u en wilt u nemen?  B.  Wij geven u geen advies over uw verzekeringsvraag en brengen uw persoonlijke situatie niet in kaart.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 1. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 2 van de activiteitenbalk ‘Advies’* 
+
+| --- | --- |
+|:---|:---|
+| 2. Advies  Welke financiële oplossing past bij u en uw situatie.  | Kies de zin(A of B) die op uw dienstverlening van toepassing:  ‘indien van toepassing’  A. Nadat we uw persoonlijke situatie en wensen in beeld hebben gebracht en een beeld hebben van u als klant, analyseren we dit klantbeeld. U krijgt een financiële oplossing die aansluit bij uw situatie en wensen.  B. Wij geven u geen advies over uw verzekeringsvraag en gaan daarom niet voor u op zoek naar een financiële oplossing die aansluit bij uw situatie en wensen.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 2. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 3 van de activiteitenbalk ‘Zoeken’* 
+
+Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).  
+
+| --- | --- |
+|:---|:---|
+| 3. Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?   ![252097](http://wetten.overheid.nl/Illustration/252097)
+Dit biedt de dienstverlener   ![252098](http://wetten.overheid.nl/Illustration/252098)
+Dit biedt de dienstverlener niet  |  *Op volgende wijze dient deze stap uitgewerkt te worden voor objectieve analyse: Kies de hoedanigheid die op u van toepassing is.*   ‘indien van toepassing’  Indien u een financiëledienstverlener bent die uitsluitend adviseert in eigen producten dan neemt u de volgende tekst en afbeelding op;  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Wij adviseren alleen onze eigen verzekeringen en wij maken daarom geen vergelijking van verzekeringen van andere aanbieders om een geschikt aanbod te vinden.   ![252099](http://wetten.overheid.nl/Illustration/252099)
+|
+| --- | Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252100](http://wetten.overheid.nl/Illustration/252100)
+|
+| --- | Indien u een financiëledienstverlener bent die zowel eigen producten als producten van andere aanbieders adviseert, dan neemt u een van de volgende tekst en afbeelding op:  Bij vergelijking van een groot aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden vergelijken we een groot aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie.   ![252101](http://wetten.overheid.nl/Illustration/252101)
+Wij adviseren onze eigen verzekeringen en verzekeringen van andere aanbieders.  Bij vergelijking van een beperkt aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252102](http://wetten.overheid.nl/Illustration/252102)
+Wij adviseren onze eigen verzekeringen en verzekeringen van andere aanbieders.  Bij geen vergelijking van verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende verzekeringen om een geschikt aanbod te vinden.   ![252103](http://wetten.overheid.nl/Illustration/252103)
+Wij adviseren onze eigen verzekeringen en verzekeringen van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252104](http://wetten.overheid.nl/Illustration/252104)
+|
+| --- | Indien u een financiëledienstverlener bent die alleen verzekeringen van andere aanbieders adviseert, neemt u de volgende tekst en afbeelding op:  Bij een vergelijking van een groot aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een groot aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie.   ![252105](http://wetten.overheid.nl/Illustration/252105)
+Wij adviseren uitsluitend verzekeringen van andere aanbieders.  Bij een vergelijking van een beperkt aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252106](http://wetten.overheid.nl/Illustration/252106)
+Wij adviseren uitsluitend verzekeringen van andere aanbieders.  Bij geen vergelijking van verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende verzekeringen om een geschikt aanbod te vinden.   ![252107](http://wetten.overheid.nl/Illustration/252107)
+Wij adviseren uitsluitend verzekeringen van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252108](http://wetten.overheid.nl/Illustration/252108)
+|
+| --- |  *Op volgende wijze dient deze stap uitgewerkt te worden voor belangen:*   Gekwalificeerde deelneming als bedoeld in artikel 86f, tweede lid, onderdelen g en h van het besluit: Kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er een eigendomsbelang tussen ons en een andere aanbieder is.  2. Met meerdere aanbieders van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er eigendomsbelangen tussen ons en andere aanbieders zijn.  Contractuele verplichtingen als bedoeld in artikel 86f, tweede lid, onderdeel b, van het besluit: kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een contractuele afspraak. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieder te adviseren.  2. Met meerdere aanbieders van financiële producten hebben wij contractuele afspraken. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieders te adviseren.  Als gevolg van de keuzes die u hierboven heeft gemaakt, is een van de onderstaande zinnen (1 of 2) van toepassing. Neem de voor u relevante zin op.  Indien u uitsluitend eigen producten adviseert, hoeft u niet te kiezen uit onderstaande zinnen. U neemt dan niets op.  ‘Indien van toepassing’  1. Het bovenstaande belang kan invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  2. De bovenstaande belangen kunnen invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  |
+
+### *Uitwerking activiteit 4 van de activiteitenbalk ‘Contract’* 
+
+| --- | --- |
+|:---|:---|
+| 4. Contract  Heeft u gekozen? Dan kunnen wij ervoor zorgen dat u de contracten krijgt.  | Kies de zin (A, B of C) die op uw dienstverlening van toepassing is:  ‘indien van toepassing’  A. Nadat wij u advies hebben gegeven, neemt u een beslissing. Als u dat wilt kunnen wij ervoor zorgen dat u de contracten krijgt.   *B. *Nadat wij u advies hebben gegeven, neemt u een beslissing. Wij zorgen er daarna niet voor dat u de contracten krijgt. (*Deze zin is altijd lichtgekleurd)*   C. Wij kunnen ervoor zorgen er u de contracten krijgt voor het product dat u zelf gekozen heeft.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 4  Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 5 van de activiteitenbalk ‘Onderhoud’* 
+
+| --- | --- |
+|:---|:---|
+| 5. Onderhoud.  U heeft een contract. Daarna houden wij in de gaten of het goed gaat.  | Het contract loopt vaak lang door. Nadat u het contract heeft getekend, kan uw persoonlijke situatie veranderen. Mogelijk past het product in de toekomst niet meer bij uw persoonlijke situatie. Het is belangrijk dat u weet dat u tijdens de looptijd van het contract recht hebt op informatie over onder andere belangrijke wijzigingen in het product.  Let op! Wat financiële dienstverleners voor u kunnen doen nadat u het contract heeft, kan heel erg verschillen. Spreek daarom goed af wat hij doet en wat hij niet doet. En hoeveel dat kost.  Kies hierna de zin (A, B of C) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  A. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, geen andere onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten.  B. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, de donkergedrukte activiteiten verrichten voor het onderhoud van uw contract.  C. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten. Bespreek met ons wat wij voor u kunnen doen.  Indien u B kiest, kunt u een of meer van de volgende werkzaamheden opnemen. De werkzaamheden die door u worden gekozen worden donkergekleurd (*lettertype TheSans B7 Bold*) aangegeven. De opties die niet van toepassing zijn op uw dienstverlening worden lichtgekleurd (* kleurcode #B1B2B4)* aangegeven.  • Regelmatig controleren of het product nog steeds past bij uw persoonlijke situatie en wensen  • Regelmatig vergelijken of er ergens anders nieuwe of vernieuwde producten zijn die mogelijk beter bij uw persoonlijke situatie passen.  • Uw belangen behartigen bij contact tussen u en de aanbieder.  • Anders, namelijk (u kunt hier zelf een optie invullen). Deze tekst bevat maximaal 100 leestekens.  Kies vervolgens de wijze waarop u de kosten in rekening brengt:  De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.  ‘indien van toepassing’  1. De kosten worden apart in rekening gebracht via een abonnement, vast tarief of een uurtarief.  2. De kosten worden apart in rekening gebracht via een vast tarief of een abonnement.  3. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  4. De kosten worden apart in rekening gebracht via een abonnement of een uurtarief.  5. De kosten worden apart in rekening gebracht via een vast tarief.  6. De kosten worden apart in rekening gebracht via een abonnement.  7. De kosten worden apart in rekening gebracht via een uurtarief.  8.Wij brengen hiervoor geen extra kosten in rekening.  |
+| --- | --- |
+
+### 1.2.6  
+
+####Onderdeel 4: Kosten van de dienstverlening
+
+De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel. 
+### * Kosten: Hoeveel betaalt u? (lettertype TheSans B7 Bold, lettergrootte 16pt)* 
+
+### *Kosten voor de dienstverlening* 
+
+|--- | Gemiddelde kosten  | Starter  | Ondernemer  | Anders (voer in ...)  |
+|:---|:---|:---|:---|:---|
+| Advieskosten  | €  | €  | €  | €  |
+| Kosten gericht op afsluiten product  | €  | €  | €  | €  |
+| Combinatie  | €  | €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument. ‘indien van toepassing’ 
+
+1. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  
+
+2. De kosten worden apart in rekening gebracht via een vast tarief.  
+
+3. De kosten worden apart in rekening gebracht via een uurtarief.   
+### *Open tekstveld* 
+
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens. 
+### *Disclaimer* 
+
+De volgende tekst wordt altijd opgenomen: Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening. 
+
+### 1.3  
+
+####Vraag over vermogen opbouwen
+
+Hieronder wordt het standaard model voor het dienstverleningsdocument bij de vraag over vermogen opbouwen getoond. LET OP: Dit betreft slechts een voorbeeld.  ![252109](http://wetten.overheid.nl/Illustration/252109)
+![252110](http://wetten.overheid.nl/Illustration/252110)
+![252111](http://wetten.overheid.nl/Illustration/252111)
+![252112](http://wetten.overheid.nl/Illustration/252112)
+
+### 1.3.1  
+
+####Instructies standaardmodel dienstverleningsdocument
+
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd. Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven. Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen: 
+
+* Formaat: A4  
+
+* Omvang:4 pagina’s, bovenaan iedere pagina de volgende tekst: *D*i*enstverleningsdocument* (lettertype TheSans B7 Bold, lettergrootte 16 pt) *Vermogen opbouwen* (lettertype TheSans B3 light, lettergrootte 16 pt, kleurcode #009DEO)  
+
+* Standaard lettertype: TheSans B5 Plain  
+
+* Standaard lettergrootte: basis font size 9pt  
+
+* Standaard kleurcode: basis font kleur #241354  
+
+* kleurcode helblauwe font kleur: # 009DEO  
+
+* Kleur contactgegevens financiëledienstverlener: #565759  
+
+* Kleurcode grijze teksten:#B1B2B4  
+
+* Uitlijning pagina boven: 2 cm  
+
+* Uitlijning pagina onder: 1,5 cm  
+
+* Uitlijning pagina links: 1 cm  
+
+* Uitlijning pagina rechts: 0,8 cm   
+
+### 1.3.2  
+
+####Contactgegevens
+
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres *(in kleurcode #565759, lettergrootte 8pt*). 
+
+### 1.3.3  
+
+####Onderdeel 1: Inleiding
+
+### *Dienstverleningsdocument vermogen opbouwen* 
+
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken. Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener. 
+### * U wilt extra geld voor later (lettertype TheSans B6 SemiBold, lettergrootte 12pt)* 
+
+Wilt u extra geld voor later? Wilt u bijvoorbeeld later extra pensioen? Of wilt u later extra geld hebben voor iets anders? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situaties heeft u een vermogensopbouw vraag en moet u over een aantal dingen nadenken. Bijvoorbeeld over: 
+
+* Hoeveel pensioen heeft u later? Vindt u dat genoeg? Of vindt u dat te weinig?  
+
+* Heeft u nu geld over voor extra pensioen?  
+
+* Wat zijn de regels van de Belastingdienst?  
+
+* Wat zijn de voordelen en nadelen van sparen of beleggen?   In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan. 
+
+### 2.3.4  
+
+####Onderdeel 2: Samenvatting
+
+### *Samenvatting: Wat kunnen wij voor u doen? (lettertype TheSans B7 Bold, lettergrootte 16 PT)* 
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.  *De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.*   * *Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.* *   
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| ‘indien van toepassing’  A. Wij kunnen u alleen adviseren over onze eigen vermogensopbouw producten. Wij kunnen ervoor zorgen dat u het contract krijgt.  B. Wij kunnen u adviseren over vermogensopbouw producten van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  C. Wij geven u geen advies over vermogensopbouw producten. Wel kunnen wij ervoor zorgen dat u het contract krijgt.  D. Wij kunnen u adviseren over de vermogensopbouw producten van anderen. Wij zorgen er niet voor dat u het contract krijgt.  E. Wij kunnen u adviseren over onze eigen vermogensopbouw producten en over de vermogensopbouw producten van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  F. Wij kunnen u adviseren over onze eigen vermogensopbouw producten. Wij zorgen er niet voor dat u het contract krijgt.  G. Wij kunnen u adviseren over onze eigen vermogensopbouw producten en over de vermogensopbouw producten van anderen. Wij zorgen er niet voor dat u het contract krijgt.   *Activiteitenbalk*   De activiteiten die u wel verricht worden donkergekleurd *(lettertype The Sans B7 Bold*) aangegeven. De activiteiten die u niet verricht worden licht gekleurd (*kleurcode #B1B2B4*) aangegeven. Dit correspondeert met de linkerkolom van onderdeel 3 (toelichting op de samenvatting). Ook hier worden de activiteiten die u wel verricht donkergekleurd aangegeven en die u niet verricht lichtgekleurd aangegeven.  |
+| 1.Onderzoek  Hoe is uw persoonlijke situatie?  | 2.Advies  Welke financiële oplossing past bij u en uw situatie?  | 3.Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?  | 4.Contract  Heeft u gekozen?  Dan kunnen wij ervoor zorgen dat u de contracten krijgt  | 5.Onderhoud  U heeft het contract. Daarna houden wij in de gaten of het goed gaat.  |
+
+### *Kosten van de dienstverlening* 
+
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t. in. 
+### *Gemiddelde kosten (lettertype TheSans B6 Semi Bold, lettergrootte 12 pt)* 
+
+| advies  | Gericht op afsluiten product  | combinatie  |
+|:---|:---|:---|
+| €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. 
+
+### 1.3.5  
+
+####Onderdeel 3: Toelichting
+
+### *Toelichting: Wat kunnen wij voor u doen? (lettertype The Sans B7 Bold, lettergrootte 16 pt)* 
+
+### *Uitwerking activiteit 1 van de activiteitenbalk ‘Onderzoek’* 
+
+| --- | --- |
+|:---|:---|
+| 1. Onderzoek  Hoe is uw persoonlijke situatie?  | Kies de zin (A of B) die op uw dienstverlening van toepassing is.  ‘Indien van toepassing’  A. We beginnen met uw persoonlijke situatie. Want pas als we u persoonlijke situatie goed kennen, kunnen we goed financieel advies geven. Samen met u beantwoorden we de volgende vragen:  • Wat weet u al over mogelijke financiële oplossingen? En heeft u hier ervaring mee?  • Wat wilt u en wat kunt u betalen?  • Hoeveel zekerheid wilt u? En hoeveel risico kunt u en wilt u nemen?  B. Wij geven u geen advies over uw verzekeringsvraag en brengen uw persoonlijke situatie niet in kaart.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 1. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 2 van de activiteitenbalk ‘Advies’* 
+
+| --- | --- |
+|:---|:---|
+| 2. Advies  Welke financiële oplossing past bij u en uw situatie.  | Kies de zin(A of B) die op uw dienstverlening van toepassing:  ‘indien van toepassing’  A. Nadat we uw persoonlijke situatie en wensen in beeld hebben gebracht en een beeld hebben van u als klant, analyseren we dit klantbeeld. U krijgt een financiële oplossing die aansluit bij uw situatie en wensen.  B. Wij geven u geen advies over uw vermogensopbouw vraag en gaan daarom niet voor u op zoek naar een financiële oplossing die aansluit bij uw situatie en wensen.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 2. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 3 van de activiteitenbalk ‘Zoeken’* 
+
+Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).  
+
+| --- | --- |
+|:---|:---|
+| 3. Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?   ![252113](http://wetten.overheid.nl/Illustration/252113)
+Dit biedt de dienstverlener   ![252114](http://wetten.overheid.nl/Illustration/252114)
+Dit biedt de dienstverlener niet  |  *Op volgende wijze dient deze stap uitgewerkt te worden voor objectieve analyse: Kies de hoedanigheid die op u van toepassing is.*   ‘indien van toepassing’  Indien u een financiëledienstverlener bent die uitsluitend adviseert in eigen producten dan neemt u de volgende tekst en afbeelding op voor dit onderdeel;  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Wij adviseren alleen onze eigen producten en wij maken daarom geen vergelijking van vermogensopbouw producten van andere aanbieders om een geschikt aanbod te vinden.   ![252115](http://wetten.overheid.nl/Illustration/252115)
+|
+| --- | Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252116](http://wetten.overheid.nl/Illustration/252116)
+|
+| --- | Indien u een financiëledienstverlener bent die zowel eigen producten als producten van andere aanbieders adviseert, dan neemt u de volgende tekst en afbeelding op:  Bij vergelijking van een groot aantal vermogensopbouw producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden vergelijken we een groot aantal vermogensopbouw producten met elkaar.  We bekijken welke vermogensopbouw producten passen bij u en uw situatie.   ![252117](http://wetten.overheid.nl/Illustration/252117)
+Wij adviseren onze eigen vermogensopbouw producten en vermogensopbouw producten van andere aanbieders.  Bij vergelijking van een beperkt aantal vermogensopbouw producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal vermogensopbouw producten met elkaar. We bekijken welke vermogensopbouw producten passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252120](http://wetten.overheid.nl/Illustration/252120)
+Wij adviseren onze eigen vermogensopbouw producten en vermogensopbouw producten van andere aanbieders.  Bij geen vergelijking van vermogensopbouw producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende vermogensopbouw producten om een geschikt aanbod te vinden.   ![252121](http://wetten.overheid.nl/Illustration/252121)
+Wij adviseren onze eigen vermogensopbouw producten en vermogensopbouw producten van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252122](http://wetten.overheid.nl/Illustration/252122)
+|
+| --- | Indien u een financiëledienstverlener bent die alleen verzekeringen van andere aanbieders adviseert, neemt u de volgende tekst en afbeelding op:  Bij een vergelijking van een groot aantal vermogensopbouw producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een groot aantal vermogensopbouw producten met elkaar. We bekijken welke vermogensopbouw producten passen bij u en uw situatie.   ![252123](http://wetten.overheid.nl/Illustration/252123)
+Wij adviseren uitsluitend vermogensopbouw producten van andere aanbieders.  Bij een vergelijking van een beperkt aantal verzekeringen:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal verzekeringen met elkaar. We bekijken welke verzekeringen passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252124](http://wetten.overheid.nl/Illustration/252124)
+Wij adviseren uitsluitend vermogensopbouw producten van andere aanbieders.  Bij geen vergelijking van vermogensopbouw producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende verzekeringen om een geschikt aanbod te vinden.   ![252125](http://wetten.overheid.nl/Illustration/252125)
+Wij adviseren uitsluitend vermogensopbouw producten van andere aanbieders  Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252127](http://wetten.overheid.nl/Illustration/252127)
+|
+| --- |  * *Op volgende wijze dient deze stap uitgewerkt te worden voor belangen:* *   Gekwalificeerde deelneming als bedoeld in artikel 86f, tweede lid, onderdelen g en h van het besluit: Kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er een eigendomsbelang tussen ons en een andere aanbieder is.  2. Met meerdere aanbieders van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er eigendomsbelangen tussen ons en andere aanbieders zijn.  Contractuele verplichtingen als bedoeld in artikel 86f, tweede lid, onderdeel b, van het besluit: kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een contractuele afspraak. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieder te adviseren.  2. Met meerdere aanbieders van financiële producten hebben wij contractuele afspraken. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieders te adviseren.  Als gevolg van de keuzes die u hierboven heeft gemaakt, is een van de onderstaande zinnen (1 of 2) van toepassing. Neem de voor u relevante zin op.  Indien u uitsluitend eigen producten adviseert, hoeft u niet te kiezen uit onderstaande zinnen. U neemt dan niets op.  ‘Indien van toepassing’  1. Het bovenstaande belang kan invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  2. De bovenstaande belangen kunnen invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  |
+
+### *Uitwerking activiteit 4 van de activiteitenbalk ‘Contract’* 
+
+| --- | --- |
+|:---|:---|
+| 4. Contract  Heeft u gekozen? Dan kunnen wij ervoor zorgen dat u de contracten krijgt.  | Kies de zin (A, B of C) die op uw dienstverlening van toepassing is:  ‘indien van toepassing’  A. Nadat wij u advies hebben gegeven, neemt u een beslissing. Als u dat wilt kunnen wij ervoor zorgen dat u de contracten krijgt.  B. Nadat wij u advies hebben gegeven, neemt u een beslissing. Wij zorgen er daarna niet voor dat u de contracten krijgt.  C. Wij kunnen ervoor zorgen er u de contracten krijgt voor het product dat u zelf gekozen heeft.   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 4  Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 5 van de activiteitenbalk ‘Onderhoud’* 
+
+| --- | --- |
+|:---|:---|
+| 5. Onderhoud.  U heeft een contract. Daarna houden wij in de gaten of het goed gaat.  | Het contract loopt vaak lang door. Nadat u het contract heeft getekend, kan uw persoonlijke situatie veranderen. Mogelijk past het product in de toekomst niet meer bij uw persoonlijke situatie. Het is belangrijk dat u weet dat u tijdens de looptijd van het contract recht hebt op informatie over onder andere belangrijke wijzigingen in het product.  Let op! Wat financiële dienstverleners voor u kunnen doen nadat u het contract heeft, kan heel erg verschillen. Spreek daarom goed af wat hij doet en wat hij niet doet. En hoeveel dat kost.  Kies hierna de zin (A, B of C) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  A. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, geen andere onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten.  B. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, de donkergedrukte activiteiten verrichten voor het onderhoud van uw contract.  C. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten. Bespreek met ons wat wij voor u kunnen doen.  Indien u B kiest, kunt u een of meer van de volgende werkzaamheden opnemen. De werkzaamheden die door u worden gekozen worden donkergekleurd (*lettertype TheSans B7 Bold*) aangegeven. De opties die niet van toepassing zijn op uw dienstverlening worden lichtgekleurd (* kleurcode #B1B2B4)* aangegeven.  • Regelmatig controleren of het product nog steeds past bij uw persoonlijke situatie en wensen  • Regelmatig vergelijken of er ergens anders nieuwe of vernieuwde producten zijn die mogelijk beter bij uw persoonlijke situatie passen.  • Uw belangen behartigen bij contact tussen u en de aanbieder.  • Anders, namelijk (u kunt hier zelf een optie invullen). Deze tekst bevat maximaal 100 leestekens.  |
+| --- | Kies vervolgens de wijze waarop u de kosten in rekening brengt:  De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.  ‘indien van toepassing’  1. De kosten worden apart in rekening gebracht via een abonnement, vast tarief of een uurtarief.  2. De kosten worden apart in rekening gebracht via een vast tarief of een abonnement.  3. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  4. De kosten worden apart in rekening gebracht via een abonnement of een uurtarief.  5. De kosten worden apart in rekening gebracht via een vast tarief.  6. De kosten worden apart in rekening gebracht via een abonnement.  7. De kosten worden apart in rekening gebracht via een uurtarief.  8.Wij brengen hiervoor geen extra kosten in rekening.  |
+| --- | --- |
+
+### 1.3.6  
+
+####Onderdeel 4: Kosten van de dienstverlening
+
+De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel. 
+### * Kosten: Hoeveel betaalt u? (lettertype TheSans B7 Bold, lettergrootte 16pt)* 
+
+### *Kosten voor de dienstverlening* 
+
+|--- | Gemiddelde kosten  | Starter  | Ondernemer  | Anders (voer in ...)  |
+|:---|:---|:---|:---|:---|
+| Advieskosten  | €  | €  | €  | €  |
+| Kosten gericht op afsluiten product  | €  | €  | €  | €  |
+| Combinatie  | €  | €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument. ‘indien van toepassing’ 
+
+1. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  
+
+2. De kosten worden apart in rekening gebracht via een vast tarief.  
+
+3. De kosten worden apart in rekening gebracht via een uurtarief.   
+### *Open tekstveld* 
+
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens. 
+### *Disclaimer* 
+
+De volgende tekst wordt altijd opgenomen: Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening. 
+
+### 1.4  
+
+####Pensioenvraag werkgever
+
+Hieronder wordt het standaard model voor het dienstverleningsdocument bij de pensioenvraag werkgever getoond. LET OP: Dit betreft slechts een voorbeeld.  ![252128](http://wetten.overheid.nl/Illustration/252128)
+![252129](http://wetten.overheid.nl/Illustration/252129)
+![252130](http://wetten.overheid.nl/Illustration/252130)
+![252131](http://wetten.overheid.nl/Illustration/252131)
+
+### 1.4.1  
+
+####Instructies standaardmodel dienstverleningsdocument
+
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd. Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven. Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen: 
+
+* Formaat: A4  
+
+* Omvang:4 pagina’s, bovenaan iedere pagina de volgende tekst: *Dienstverleningsdocument*(lettertype TheSans B7 Bold, lettergrootte 16 pt) *Pensioenvraag werkgever* (lettertype TheSans B3 light, lettergrootte 16 pt, kleurcode #009DEO)  
+
+* Standaard lettertype: TheSans B5 Plain  
+
+* Standaard lettergrootte: basis font size 9pt  
+
+* Standaard kleurcode: basis font kleur #241354  
+
+* kleurcode helblauwe font kleur: # 009DEO  
+
+* Kleur contactgegevens financiëledienstverlener: #565759  
+
+* Kleurcode grijze teksten:#B1B2B4  
+
+* Uitlijning pagina boven: 2 cm  
+
+* Uitlijning pagina onder: 1,5 cm  
+
+* Uitlijning pagina links: 1 cm  
+
+* Uitlijning pagina rechts: 0,8 cm   
+
+### 1.4.2  
+
+####Contactgegevens
+
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres *(in kleurcode #565759, lettergrootte 8pt*). 
+
+### 1.4.3  
+
+####Onderdeel 1: Inleiding
+
+### *Dienstverleningsdocument Pensioenvraag* 
+
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken. Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener. 
+### *U wilt pensioen regelen voor uw werknemers* 
+
+Heeft u een eigen bedrijf of bent u werkzaam in een bedrijf en wilt u pensioen regelen voor uw werknemers? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. Als u pensioen wilt regelen of veranderen voor uw werknemers, moet u over een aantal dingen nadenken. 
+
+* Welke soorten pensioenregelingen zijn er? Wat zijn daarvan de voordelen en de nadelen?  
+
+* Wat betekent het voor uw bedrijf dat u voor uw werknemers pensioen regelt?  
+
+* Wat betekent het voor uw werknemers dat u hun pensioen wilt veranderen?  
+
+* Hoe regelt u pensioen? Regelt u dat met een verzekeraar. Of dient u zich bij een bedrijfstakpensioenfonds aan te sluiten? Of richt u een ondernemingspensioenfonds op   In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan. 
+
+### 1.4.4  
+
+####Onderdeel 2: Samenvatting
+
+### *Samenvatting: Wat kunnen wij voor u doen? (lettertype The Sans B7 Bold, lettergrootte 16 PT)* 
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet. 
+### *De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven* 
+
+* *Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.* *   
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| ‘indien van toepassing’  A. Wij kunnen u alleen adviseren over onze eigen pensioenproducten. Wij kunnen ervoor zorgen dat u het contract krijgt.  B. Wij kunnen u adviseren over pensioenproducten van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  C. Wij geven u geen advies over pensioenproducten. Wel kunnen wij ervoor zorgen dat u het contract krijgt.  D. Wij kunnen u adviseren over de hypotheken van anderen. Wij zorgen er niet voor dat u het contract krijgt.  E. Wij kunnen u adviseren over onze eigen pensioenproducten en over de pensioenproducten van anderen. Wij kunnen ervoor zorgen dat u het contract krijgt.  F. Wij kunnen u adviseren over onze eigen pensioenproducten. Wij zorgen er niet voor dat u het contract krijgt.  G. Wij kunnen u adviseren over onze eigen pensioenproducten en over de pensioenproducten van anderen. Wij zorgen er niet voor dat u het contract krijgt.   *Activiteitenbalk*   De activiteiten die u wel verricht worden donkergekleurd *(lettertype The Sans B7 Bold*) aangegeven. De activiteiten die u niet verricht worden licht gekleurd (*kleurcode #B1B2B4*) aangegeven. Dit correspondeert met de linkerkolom van onderdeel 3 (toelichting op de samenvatting). Ook hier worden de activiteiten die u wel verricht donkergekleurd aangegeven en die u niet verricht lichtgekleurd aangegeven.  |
+| 1.Onderzoek  In kaart brengen van uw situatie  | 2.Advies  Welke financiële oplossing past bij uw situatie?  | 3.Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?  | 4.Contract  Heeft u gekozen?  Dan kunnen wij ervoor zorgen dat u de contracten krijgt  | 5.Onderhoud  U heeft het contract. Daarna houden wij in de gaten of het goed gaat.  |
+
+### *Kosten van de dienstverlening* 
+
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t. in. 
+### *Gemiddelde kosten (lettertype TheSans B6 Semi Bold, lettergrootte 12 pt)* 
+
+| advies  | gericht op afsluiten product  | combinatie  |
+|:---|:---|:---|
+| €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. 
+
+### 1.4.5  
+
+####Onderdeel 3: Toelichting
+
+### *Toelichting: Wat kunnen wij voor u doen? (lettertype The Sans B7 Bold, lettergrootte 16 PT)* 
+
+### *Uitwerking activiteit 1 van de activiteitenbalk ‘Onderzoek’* 
+
+| --- | --- |
+|:---|:---|
+| 1. Onderzoek  In kaart brengen van uw situatie  | Kies de zin (A of B) die op uw dienstverlening van toepassing is.  ‘Indien van toepassing’  A. We beginnen met het in kaart brengen van uw situatie en wensen. Want pas als we uw situatie goed kennen, kunnen we u een goed financieel advies geven. Samen met u beantwoorden we bijvoorbeeld de volgende vragen  • Wat weet u al over mogelijke financiële oplossingen? En heeft u hier ervaring mee?  • Wat wilt u en wat kunt u betalen?  • Hoeveel zekerheid wilt u? En hoeveel risico kunt u en wilt u nemen?  B. Wij geven u geen advies over uw pensioenvraag en brengen uw situatie niet in kaart. (Deze zin is altijd lichtgekleurd)   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 1. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 2 van de activiteitenbalk ‘Advies’* 
+
+| --- | --- |
+|:---|:---|
+| 2. Advies  Welke financiële oplossing past bij uw situatie.  | Kies de zin(A of B) die op uw dienstverlening van toepassing:  ‘indien van toepassing’  A. Nadat we uw situatie in beeld hebben gebracht en een beeld hebben van u als klant, analyseren we dit klantbeeld. U krijgt een financiële oplossing die aansluit bij uw situatie en wensen.  B. Wij geven u geen advies over uw pensioenvraag en gaan daarom niet voor u op zoek naar een financiële oplossing die aansluit bij uw situatie en wensen. (Deze zin is altijd lichtgekleurd)   *Open tekstveld (alleen te gebruiken indien u deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 2. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+| --- | --- |
+
+### *Uitwerking activiteit 3 van de activiteitenbalk ‘Zoeken’* 
+
+Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).  
+
+| --- | --- |
+|:---|:---|
+| 3. Zoeken  Welke aanbieder heeft de financiële oplossing die bij u past?   ![252132](http://wetten.overheid.nl/Illustration/252132)
+Dit biedt de dienstverlener   ![252133](http://wetten.overheid.nl/Illustration/252133)
+Dit biedt de dienstverlener niet  |  *Op volgende wijze dient deze stap uitgewerkt te worden voor objectieve analyse: Kies de hoedanigheid die op u van toepassing is.*   ‘indien van toepassing’  indien u een financiëledienstverlener bent die uitsluitend adviseert in eigen producten dan neemt u de volgende tekst en afbeelding op voor dit onderdeel;  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product.  Wij adviseren over onze eigen pensioenproducten en wij maken daarom geen vergelijking van pensioenproducten van andere aanbieders om een geschikt aanbod te vinden.   ![252134](http://wetten.overheid.nl/Illustration/252134)
+|
+| --- | Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252135](http://wetten.overheid.nl/Illustration/252135)
+Indien u een financiëledienstverlener bent die zowel eigen producten als producten van andere aanbieders adviseert, dan neemt u de volgende tekst en afbeelding op:  Bij vergelijking van een groot aantal producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden vergelijken we een groot aantal pensioenproducten met elkaar. We bekijken welke pensioenproducten passen bij u en uw situatie.   ![252136](http://wetten.overheid.nl/Illustration/252136)
+Wij adviseren onze eigen pensioenproducten en pensioenproducten van anderen.  Bij vergelijking van een beperkt aantal producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product  |
+| --- | Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal pensioenproducten met elkaar. We bekijken welke pensioenproducten passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252137](http://wetten.overheid.nl/Illustration/252137)
+Wij adviseren onze eigen pensioenproducten en pensioenproducten van andere aanbieders.  Bij geen vergelijking van producten:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product  |
+| --- | Wij maken geen vergelijking van verschillende pensioenproducten om een geschikt aanbod te vinden.   ![252138](http://wetten.overheid.nl/Illustration/252138)
+Wij adviseren onze eigen pensioenproducten en pensioenproducten van andere aanbieders.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252139](http://wetten.overheid.nl/Illustration/252139)
+|
+| --- | Indien u een financiëledienstverlener bent die alleen hypotheken van andere aanbieders adviseert, neemt u de volgende tekst en afbeelding op:  Bij een vergelijking van een groot aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een groot aantal pensioenproducten met elkaar. We bekijken welke pensioenproducten passen bij u en uw situatie.   ![252140](http://wetten.overheid.nl/Illustration/252140)
+Wij adviseren uitsluitend pensioenproducten van andere aanbieders.  Bij een vergelijking van een beperkt aantal hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Om een geschikt aanbod te vinden, vergelijken we een beperkt aantal pensioenproducten met elkaar. We bekijken welke pensioenproducten passen bij u en uw situatie. Wij werken bij voorkeur met een aantal aanbieders samen.   ![252141](http://wetten.overheid.nl/Illustration/252141)
+|
+| --- | Wij adviseren uitsluitend pensioenproducten van anderen.  Bij geen vergelijking van hypotheken:  Nadat we hebben bekeken welke financiële oplossing het beste aansluit bij uw situatie en wensen, gaan we op zoek naar een passend product. Wij maken geen vergelijking van verschillende pensioenproducten om een geschikt aanbod te vinden.   ![252142](http://wetten.overheid.nl/Illustration/252142)
+Wij adviseren uitsluitend pensioenproducten van anderen.  Wanneer u geen advies geeft, neemt u alleen de volgende tekst en afbeelding op:  U heeft zelf een financiële oplossing gekozen en hiervoor een aanbieder geselecteerd. Wij maken dan ook geen vergelijking van producten van aanbieders om een geschikt aanbod te vinden.   ![252143](http://wetten.overheid.nl/Illustration/252143)
+|
+| --- |  * *Op volgende wijze dient deze stap uitgewerkt te worden voor belangen:* *   Gekwalificeerde deelneming als bedoeld in artikel 86f, tweede lid, onderdelen g en h van het besluit: Kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er een eigendomsbelang tussen ons en een andere aanbieder is.  2. Met meerdere aanbieders van financiële producten hebben wij een zakelijke relatie. Daarmee bedoelen we dat er eigendomsbelangen tussen ons en andere aanbieders zijn.  Contractuele verplichtingen als bedoeld in artikel 86f, tweede lid, onderdeel b, van het besluit: kies de zin (1 of 2) die op uw dienstverlening van toepassing is.  |
+| --- | ‘indien van toepassing’  1. Met één aanbieder van financiële producten hebben wij een contractuele afspraak. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieder te adviseren.  2. Met meerdere aanbieders van financiële producten hebben wij contractuele afspraken. Daarmee bedoelen we dat we afspraken hebben gemaakt om uitsluitend producten van deze aanbieders te adviseren.  Als gevolg van de keuzes die u hierboven heeft gemaakt, is een van de onderstaande zinnen van toepassing. Neem de voor u relevante zin op.  Indien u uitsluitend eigen producten adviseert, hoeft u niet te kiezen uit onderstaande zinnen. U neemt dan niets op.  ‘Indien van toepassing’  1. Het bovenstaande belang kan invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  2. De bovenstaande belangen kunnen invloed hebben op welke producten wij u adviseren. Vraag hiernaar in ons gesprek.  |
+
+### *Uitwerking activiteit 4 van de activiteitenbalk ‘Contract’* 
+
+| --- | --- |
+|:---|:---|
+| 4. Contract  Heeft u gekozen? Dan kunnen wij ervoor zorgen dat u de contracten krijgt.  | Kies de zin (A, B of C) die op uw dienstverlening van toepassing is:  ‘indien van toepassing’  A. Nadat wij u advies hebben gegeven, neemt u een beslissing. Als u dat wilt kunnen wij ervoor zorgen dat u de contracten krijgt.  B. Nadat wij u advies hebben gegeven, neemt u een beslissing. Wij zorgen er daarna niet voor dat u de contracten krijgt.  C. Wij kunnen ervoor zorgen er u de contracten krijgt voor het product dat u zelf gekozen heeft.   *Open tekstveld (alleen te gebruiken indien u van deze activiteit verricht)*   Hier kunt u, indien gewenst, een nadere toelichting geven op activiteit 4  Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.  |
+
+### *Uitwerking activiteit 5 van de activiteitenbalk ‘Onderhoud’* 
+
+| --- | --- |
+|:---|:---|
+| 5. Onderhoud.  U heeft een contract. Daarna houden wij in de gaten of het goed gaat.  | Het contract loopt vaak lang door. Nadat u het contract heeft getekend, kan uw persoonlijke situatie veranderen. Mogelijk past het product in de toekomst niet meer bij uw persoonlijke situatie. Het is belangrijk dat u weet dat u tijdens de looptijd van het contract recht hebt op informatie over onder andere belangrijke wijzigingen in het product.  Let op! Wat financiële dienstverleners voor u kunnen doen nadat u het contract heeft, kan heel erg verschillen. Spreek daarom goed af wat hij doet en wat hij niet doet. En hoeveel dat kost.  Kies hierna de zin (A, B of C) die op uw dienstverlening van toepassing is.  ‘indien van toepassing’  A. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, geen andere onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten.  B. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, de donkergedrukte activiteiten verrichten voor het onderhoud van uw contract.  C. Wij kunnen, naast de wettelijke verplichtingen die wij al hebben, onderhoudsactiviteiten voor u verrichten nadat het contract is afgesloten. Bespreek met ons wat wij voor u kunnen doen.  Indien u C kiest, kunt u een of meer van de volgende werkzaamheden opnemen. De werkzaamheden die door u worden gekozen worden donkergekleurd (*lettertype TheSans B7 Bold*) aangegeven. De opties die niet van toepassing zijn op uw dienstverlening worden lichtgekleurd (* kleurcode #B1B2B4)* aangegeven.  |
+| --- | • Regelmatig controleren of het product nog steeds past bij uw situatie en wensen  • Regelmatig vergelijken of er ergens anders nieuwe of vernieuwde producten zijn die mogelijk beter bij uw situatie passen.  • Uw belangen behartigen bij contact tussen u en de aanbieder.  • Anders, namelijk (u kunt hier zelf een optie invullen. Deze tekst bevat maximaal 100 leestekens.  Kies vervolgens de wijze waarop u de kosten in rekening brengt:  De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.  ‘indien van toepassing’  1. De kosten worden apart in rekening gebracht via een abonnement, vast tarief of een uurtarief.  2. De kosten worden apart in rekening gebracht via een vast tarief of een abonnement.  3. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  4. De kosten worden apart in rekening gebracht via een abonnement of een uurtarief.  5. De kosten worden apart in rekening gebracht via een vast tarief.  6. De kosten worden apart in rekening gebracht via een abonnement.  7. De kosten worden apart in rekening gebracht via een uurtarief.  8.Wij brengen hiervoor geen extra kosten in rekening.  |
+
+### 1.4.6  
+
+####Onderdeel 4: Kosten van de dienstverlening
+
+De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel. 
+### * *Kosten: Hoeveel betaalt u? (*lettertype TheSans B7 Bold, lettergrootte 16pt)* 
+
+### *Kosten voor de dienstverlening* 
+
+|--- | Gemiddelde kosten  | Anders (voer in ...)  | Anders (voer in ...)  | Anders (voer in ...)  |
+|:---|:---|:---|:---|:---|
+| Advieskosten  | €  | €  | €  | €  |
+| Kosten gericht op afsluiten product  | €  | €  | €  | €  |
+| Combinatie  | €  | €  | €  | €  |
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten. Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product. Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument. ‘indien van toepassing’ 
+
+1. De kosten worden apart in rekening gebracht via een vast tarief of een uurtarief.  
+
+2. De kosten worden apart in rekening gebracht via een vast tarief.  
+
+3. De kosten worden apart in rekening gebracht via een uurtarief.   
+### *Open tekstveld* 
+
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens. 
+### *Disclaimer* 
+
+De volgende tekst wordt altijd opgenomen: Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening 
 
 ### Bijlage  7  
 

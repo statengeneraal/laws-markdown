@@ -8,9 +8,9 @@ Op de voordracht van Onze Minister van Volksgezondheid en Milieuhygiëne van 22 
 
 Overwegende, dat regelen moeten worden gesteld ter uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het voorverpakken naar volume van bepaalde vloeistoffen in voorverpakkingen met bepaalde inhoud, no. 75/106/EEG (*Pb. E.G.* 1975, L 42), zoals deze richtlijn laatstelijk is gewijzigd bij de richtlijn van die Raad van 23 november 1979, no. 79/1005/EEG (*Pb. E.G.* L 308), en ter uitvoering van de richtlijn van die Raad van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het voorverpakken naar gewicht of volume van bepaalde produkten in voorverpakkingen, no. 76/211/EEG (*Pb. E.G.* L 46), zoals deze richtlijn is gewijzigd bij de richtlijn van de Commissie van de Europese Gemeenschappen van 28 september 1978 houdende aanpassing aan de vooruitgang van de techniek van de richtlijnen 75/106/EEG en 76/211/EEG van de Raad in de sector van de voorverpakkingen, no. 78/891/EEG (*Pb. E.G.* L 311);
 
-Gelet op de [artikelen 14](../../../../wet/warenwet/BWBR0001969/README.md), 14*a*  en 16*a* van de Warenwet (*Stb.* 1935, 793);
+Gelet op de artikelen 14, 14*a*  en 16*a* van de Warenwet (*Stb.* 1935, 793);
 
-Gezien het advies van de Adviescommissie Warenwet van 18 juli 1979, nr. 12955/415, en het advies van de Commissie, bedoeld in [artikel 17, zevende lid, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md), door de Sociaal-Economische Raad ingesteld op grond van [artikel 43 van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22), van 10 juli 1979;
+Gezien het advies van de Adviescommissie Warenwet van 18 juli 1979, nr. 12955/415, en het advies van de Commissie, bedoeld in artikel 17, zevende lid, van de Warenwet, door de Sociaal-Economische Raad ingesteld op grond van artikel 43 van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22), van 10 juli 1979;
 
 De Raad van State gehoord (advies van 16 januari 1980, no. 19);
 
@@ -78,9 +78,9 @@ c. geen enkele van die e-voorverpakkingen een fout in minus heeft, die groter is
 1.  Ten aanzien van e-voorverpakkingen, die in Nederland zijn vervaardigd of vanuit een derde land zijn ingevoerd moeten de nodige maatregelen, ertoe strekkende dat de werkelijke inhoud van die voorverpakkingen voldoet aan het bepaalde in artikel 3, door de vervaardiger onderscheidenlijk de importeur daarvan zijn genomen.   
 2.   De in het eerste lid bedoelde maatregelen zijn:  
 
-a. meting van de werkelijke inhoud van elke e-voorverpakking, tijdens het afvullen daarvan, door middel van een voor het doel geschikt, meetinstrument dat op grond van de [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) met goed gevolg een overeenstemmingsbeoordeling heeft ondergaan of  
+a. meting van de werkelijke inhoud van elke e-voorverpakking, tijdens het afvullen daarvan, door middel van een voor het doel geschikt, meetinstrument dat op grond van de Metrologiewet met goed gevolg een overeenstemmingsbeoordeling heeft ondergaan of  
 
-b. toepassing van een bedrijfscontrole - door middel van feitelijk onderzoek van steekproeven en met gebruikmaking van een voor dat doel geschikt meetinstrument dat, voorzover daarvoor ingevolge de [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) een overeenstemmingsbeoordeling openstaat aan de bij die overeenstemmingsbeoordeling geldende eisen voldoet - volgens een systeem, dat voor de betrokken vervaardiger of importeur met betrekking tot het desbetreffende produkt en de desbetreffende e-voorverpakking voorlopig of definitief is erkend door het hoofd van de bevoegde dienst.     
+b. toepassing van een bedrijfscontrole - door middel van feitelijk onderzoek van steekproeven en met gebruikmaking van een voor dat doel geschikt meetinstrument dat, voorzover daarvoor ingevolge de Metrologiewet een overeenstemmingsbeoordeling openstaat aan de bij die overeenstemmingsbeoordeling geldende eisen voldoet - volgens een systeem, dat voor de betrokken vervaardiger of importeur met betrekking tot het desbetreffende produkt en de desbetreffende e-voorverpakking voorlopig of definitief is erkend door het hoofd van de bevoegde dienst.     
 3.   De in het eerste lid bedoelde maatregelen moeten in Nederland zijn uitgevoerd.   
 4.   Ten aanzien van e-voorverpakkingen als in het eerste lid bedoeld dient de vervaardiger of de importeur daarvan in Nederland een administratie betreffende de toepassing van het voor hem voorlopig of definitief erkende bedrijfscontrolesysteem als bedoeld in het tweede lid, onder *b,* te voeren en de tot die administratie behorende bescheiden gedurende een jaar, te rekenen vanaf de datum van hun totstandkoming, te bewaren.   
 5.   Het tweede, het derde en het vierde lid gelden niet ten aanzien van in Nederland vanuit een derde land ingevoerde e-voorverpakkingen, met betrekking waartoe:  
@@ -204,7 +204,7 @@ f. de onder a, 1° of 2° bedoelde aanduiding zodanig op of aan de gezamenlijke 
 
 ### Artikel  17  
 
-Indien voor een produkt bij een andere algemene maatregel van bestuur krachtens de [artikelen 14](../../../../wet/warenwet/BWBR0001969/README.md) of 14*a* van de Warenwet regelen met betrekking tot de aanduiding van de hoeveelheid van dat produkt, uitgedrukt in een eenheid van volume of van massa, zijn gesteld, gelden die regelen, behoudens het daarbij bepaalde omtrent het uitdrukken van de hoeveelheid van dat produkt in liter, centiliter of milliliter dan wel kilogram of gram, niet ten aanzien van een e-voorverpakking waarvan dat produkt deel uitmaakt. 
+Indien voor een produkt bij een andere algemene maatregel van bestuur krachtens de artikelen 14 of 14*a* van de Warenwet regelen met betrekking tot de aanduiding van de hoeveelheid van dat produkt, uitgedrukt in een eenheid van volume of van massa, zijn gesteld, gelden die regelen, behoudens het daarbij bepaalde omtrent het uitdrukken van de hoeveelheid van dat produkt in liter, centiliter of milliliter dan wel kilogram of gram, niet ten aanzien van een e-voorverpakking waarvan dat produkt deel uitmaakt. 
 
 ### Artikel  18  
 

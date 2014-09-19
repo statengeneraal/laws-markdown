@@ -10,7 +10,7 @@ Gelet op:
 
 –  Verordening (EG) nr. 1223/2009 van het Europees Parlement en de Raad van de Europese Unie van 30 november 2009 betreffende cosmetische producten (PbEU L 342);  
 
-– de [artikelen 4, eerste lid](../../../../../../wet/warenwet/BWBR0001969/README.md), [5, eerste lid, onder a](../../../../../../wet/warenwet/BWBR0001969/README.md), [6](../../../../../../wet/warenwet/BWBR0001969/README.md), [8, eerste lid, onder c](../../../../../../wet/warenwet/BWBR0001969/README.md), [9](../../../../../../wet/warenwet/BWBR0001969/README.md), [11](../../../../../../wet/warenwet/BWBR0001969/README.md), [13, onder a](../../../../../../wet/warenwet/BWBR0001969/README.md), en [32b van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md);   
+– de artikelen 4, eerste lid, 5, eerste lid, onder a, 6, 8, eerste lid, onder c, 9, 11, 13, onder a, en 32b van de Warenwet;   
 De Afdeling advisering van de Raad van State gehoord (advies van 16 februari 2011, nr. W13.11.0017/III);
 
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 maart 2011, VGP/VC 3053411, uitgebracht in overeenstemming met Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Veiligheid en Justitie;
@@ -92,7 +92,7 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Artikel  9  
 
-Het [Warenwetbesluit cosmetische producten](../../../../../../AMvB/warenwetbesluit/cosmetische/producten/BWBR0007603/README.md) wordt ingetrokken. 
+Het Warenwetbesluit cosmetische producten wordt ingetrokken. 
 
 ### Artikel  10  
 

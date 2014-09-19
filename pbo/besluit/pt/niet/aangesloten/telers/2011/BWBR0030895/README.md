@@ -9,7 +9,7 @@ artikel 84 van Verordening (EG) Nr. 1580/2007 van de Commissie van 21 december 2
 
 artikel 83 van Uitvoeringsverordening (EU) Nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) Nr. 1234/2007 van de Raad, van de sectoren groenten en fruit en verwerkte groenten en fruit betreft;
 
-Gelet op [artikel 12 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md);
+Gelet op artikel 12 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010;
 BESLUIT:    
 ###§ 1 
 
@@ -17,7 +17,7 @@ BESLUIT:
 
 ###Artikel 1 
 
-Dit besluit neemt de definities van [Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md) over en verstaat voorts onder: 
+Dit besluit neemt de definities van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010 over en verstaat voorts onder: 
 
 | --- | --- |
 |:---|:---|

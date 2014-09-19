@@ -15,7 +15,7 @@ Gelet op de Mededeling van de Commissie betreffende de toepassing van de artikel
 
 Gelet op de goedkeuring van de Commissie van de Europese Gemeenschappen bij beschikking nr. SG (2003) D/232294 van 16 oktober 2003;
 
-Gelet op de [artikelen 2](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [4 van de Kaderwet LNV-subsidies](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md);
+Gelet op de artikelen 2 en 4 van de Kaderwet LNV-subsidies;
 Besluit:     
 ### §  1  
 
@@ -27,7 +27,7 @@ In deze regeling wordt verstaan onder:
 
 a. minister: Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
-b. verzekeraar: een schadeverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die in Nederland het bedrijf van schadeverzekeraar mag uitoefenen in de branche Brand en natuurevenementen of de branche Andere schaden aan zaken;  
+b. verzekeraar: een schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die in Nederland het bedrijf van schadeverzekeraar mag uitoefenen in de branche Brand en natuurevenementen of de branche Andere schaden aan zaken;  
 
 c. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
 
@@ -265,7 +265,7 @@ a. een opgaaf van de door de verzekeraar ontvangen premies voor de verzekeringso
 
 b. een opgaaf van het aantal afgesloten verzekeringsovereenkomsten gedurende de periode waarop de garantieovereenkomst van toepassing is;  
 
-c. een verklaring overeenkomstig het in bijlage I vastgesteld model van een accountant of een accountant-administratieconsulent als bedoeld in [artikel 2:393, eerste lid, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat is voldaan aan de in deze regeling gestelde voorwaarden en verplichtingen. De accountant of accountant-administratieconsulent controleert met inachtneming van het in bijlage II bij deze regeling opgenomen controleprotocol;  
+c. een verklaring overeenkomstig het in bijlage I vastgesteld model van een accountant of een accountant-administratieconsulent als bedoeld in artikel 2:393, eerste lid, van het Burgerlijk Wetboek, waaruit blijkt dat is voldaan aan de in deze regeling gestelde voorwaarden en verplichtingen. De accountant of accountant-administratieconsulent controleert met inachtneming van het in bijlage II bij deze regeling opgenomen controleprotocol;  
 
 d. een totaaloverzicht van de op grond van de afgesloten verzekeringsovereenkomsten uitgekeerde schadevergoedingen over de periode waarop de garantieovereenkomst van toepassing is.    
 

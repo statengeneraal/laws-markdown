@@ -8,9 +8,9 @@ Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur
 
 Overwegende, dat het, gelet op richtlijn 89/392/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1989, inzake de onderlinge aanpassing van de wetgevingen van de lid-staten betreffende machines (*PbEG* L 183) en richtlijn 91/368/EEG van de Raad van de Europese Gemeenschappen van 20 juni 1991 tot wijziging van richtlijn 89/392/EEG (*PbEG* L 198), noodzakelijk is regels te stellen ten aanzien van de veiligheid van machines; 
 
-Gelet op de [artikelen 4](../../../../wet/warenwet/BWBR0001969/README.md), eerste lid, onderdeel *a*, 8, onderdelen *a, b* en *c*, [11](../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360); 
+Gelet op de artikelen 4, eerste lid, onderdeel *a*, 8, onderdelen *a, b* en *c*, 11, 12, 13 en 14 van de Warenwet (*Stb.* 1988, 360); 
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) van 18 september 1991, nr 14403/(41)5; 
+Gezien het advies van de Adviescommissie Warenwet van 18 september 1991, nr 14403/(41)5; 
 
 De Raad van State gehoord (advies van 14 april 1992, nr. W13.92.0006); 
 
@@ -24,9 +24,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-–aangewezen aangemelde instelling: krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling;
+–aangewezen aangemelde instelling: krachtens artikel 7a van de wet in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling, dan wel een door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde instelling;
 
-–aangewezen instelling: krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) aangewezen instelling;
+–aangewezen instelling: krachtens artikel 7a van de wet aangewezen instelling;
 
 –drager: een deel van een hijs- en hefwerktuig voor beroepsmatig personenvervoer, waarop personen of goederen zich bevinden om naar boven of beneden te worden gebracht;
 
@@ -110,7 +110,7 @@ b.een onderdeel als bedoeld onder a, inclusief de afscherming, indien dit onderd
 
 –  verwisselbaar uitrustingsstuk: een inrichting die na inbedrijfstelling van een machine of trekker door de bediener zelf hieraan wordt gekoppeld om deze een andere of bijkomende functie te geven, voor zover deze inrichting geen gereedschap is;
 
-– wet: de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
+– wet: de Warenwet;
 
 – wijziging: een wijziging van een hijs- en hefwerktuig voor beroepsmatig personenvervoer, anders dan de wijzigingen in de vorm van uitbreidingen of varianten van het hijs- en hefwerktuig, waarvoor de afgegeven EG-verklaring van overeenstemming geldt.
 
@@ -167,9 +167,9 @@ p.de volgende hoogspanningsinstallaties:
 2°.transformators. 
 2. Dit besluit is niet van toepassing op:
 
-a.liften en veiligheidscomponenten als bedoeld in [artikel 1 van het Warenwetbesluit liften](../../../../AMvB/besluit/liften/BWBR0008212/README.md), tenzij deze in het [Warenwetbesluit liften](../../../../AMvB/besluit/liften/BWBR0008212/README.md) zijn uitgezonderd van het toepassingsbereik van [dat besluit](../../../../AMvB/besluit/liften/BWBR0008212/README.md);
+a.liften en veiligheidscomponenten als bedoeld in artikel 1 van het Warenwetbesluit liften, tenzij deze in het Warenwetbesluit liften zijn uitgezonderd van het toepassingsbereik van dat besluit;
 
-b.explosieveilig materieel als bedoeld in [artikel 1 van het Warenwetbesluit explosieveilig materieel](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md), tenzij dit in het [Warenwetbesluit explosieveilig materieel](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md) is uitgezonderd van het toepassingsbereik van [dat besluit](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md).
+b.explosieveilig materieel als bedoeld in artikel 1 van het Warenwetbesluit explosieveilig materieel, tenzij dit in het Warenwetbesluit explosieveilig materieel is uitgezonderd van het toepassingsbereik van dat besluit.
 
 ### Artikel  2  
 
@@ -182,7 +182,7 @@ b.explosieveilig materieel als bedoeld in [artikel 1 van het Warenwetbesluit exp
 
 ###Artikel 2a 
 
-Besluiten bedoeld in de [artikelen 21, eerste en tweede lid](../../../../wet/warenwet/BWBR0001969/README.md), en [30 van de wet](../../../../wet/warenwet/BWBR0001969/README.md) die betrekking hebben op machines worden onverwijld door Onze Minister van Sociale Zaken en Werkgelegenheid bekendgemaakt in de Staatscourant dan wel op andere passende wijze.
+Besluiten bedoeld in de artikelen 21, eerste en tweede lid, en 30 van de wet die betrekking hebben op machines worden onverwijld door Onze Minister van Sociale Zaken en Werkgelegenheid bekendgemaakt in de Staatscourant dan wel op andere passende wijze.
 
 ###Hoofdstuk 2 
 
@@ -297,7 +297,7 @@ Artikel 2, eerste tot en met vierde lid, is niet van toepassing op het tentoonst
 1.  De afgifte van een certificaat van goedkeuring, als bedoeld in artikel 6e, wordt geweigerd indien de verzoeker niet heeft voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.   
 2.  Een certificaat van goedkeuring kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan de deskundige, bedoeld in artikel 6d, derde lid, eerste zin, Onze Minister of, indien Onze Minister een aangewezen instelling heeft aangewezen, deze instelling, bij het afgeven van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md), zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan de deskundige, bedoeld in artikel 6d, derde lid, eerste zin, Onze Minister of, indien Onze Minister een aangewezen instelling heeft aangewezen, deze instelling, bij het afgeven van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met voorschriften, bedoeld in artikel 7a, vierde lid, van de wet, zou hebben gegeven;  
 
 b. op grond van door de certificaathouder verstrekte onjuiste inlichtingen over feiten en omstandigheden, mits de onjuistheid daarvan aan de houder bekend was of kon zijn;  
 
@@ -309,7 +309,7 @@ d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het c
 
 1.  In de nabijheid van een hijskraan als bedoeld in artikel 6d, eerste lid, bevindt zich een kraanboek. In dit boek zijn in ieder geval de resultaten van de op grond van artikel 6d uitgevoerde keuringen op adequate wijze vermeld.   
 2.  Op het certificaat van goedkeuring wordt de datum van keuring vermeld, alsmede gegevens betreffende de identificatie van de hijskraan. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van de hijskraan.   
-3.  Het kraanboek en het certificaat van goedkeuring of een afschrift daarvan worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 25 van de wet](../../../../wet/warenwet/BWBR0001969/README.md).  
+3.  Het kraanboek en het certificaat van goedkeuring of een afschrift daarvan worden desgevraagd getoond aan een ambtenaar als bedoeld in artikel 25 van de wet.  
 
 ### Artikel  6fa  
 
@@ -366,7 +366,7 @@ b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanv
 2.  De aanvraag wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag direct na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een aanwijzing kan worden geschorst, ten nadele van de aangewezen instelling of aangemelde aangewezen instelling worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister van Sociale Zaken en Werkgelegenheid bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md) zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister van Sociale Zaken en Werkgelegenheid bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in artikel 7a, vierde lid, van de wet zou hebben gegeven;  
 
 b. op grond van door de aangewezen instelling of aangewezen aangemelde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;  
 
@@ -402,7 +402,7 @@ b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij i
 
 ### Artikel  6l  
 
-Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de [Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet](../../../../wet/wijzigingswet/warenwet/met/het/oog/op/de/incorporatie/van/etc/BWBR0012951/README.md) (Stb. 557) in werking treedt, door Onze Minister krachtens [artikel 20 van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn aangewezen om de keuringen, bedoeld in artikel 6d, uit te voeren, worden aangemerkt als aangewezen instellingen. 
+Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet (Stb. 557) in werking treedt, door Onze Minister krachtens artikel 20 van de Arbeidsomstandighedenwet zijn aangewezen om de keuringen, bedoeld in artikel 6d, uit te voeren, worden aangemerkt als aangewezen instellingen. 
 
 ### Artikel  7  
 

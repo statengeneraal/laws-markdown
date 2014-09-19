@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 16 augustus 1993, DGVgz/VVP/P/93991, gedaan in overeenstemming met Onze Minister van Economische Zaken;
 
-Gelet op Richtlijn 76/769/EEG van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtlijke bepalingen der Lid-Staten inzake de beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen en preparaten (*PbEG* L 262), zoals gewijzigd door Richtlijn 89/677/EEG van de Raad van de Europese Gemeenschappen van 21 december 1989, houdende de achtste wijziging van Richtlijn 76/769 EEG betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake de beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen en preparaten (*PbEG* L 398), alsmede op de artikelen 4, eerste lid, onder *a*, 13 en 14 van de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op Richtlijn 76/769/EEG van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtlijke bepalingen der Lid-Staten inzake de beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen en preparaten (*PbEG* L 262), zoals gewijzigd door Richtlijn 89/677/EEG van de Raad van de Europese Gemeenschappen van 21 december 1989, houdende de achtste wijziging van Richtlijn 76/769 EEG betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake de beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen en preparaten (*PbEG* L 398), alsmede op de artikelen 4, eerste lid, onder *a*, 13 en 14 van de Warenwet;
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) van 24 mei 1993, no. 14681/(41)5;
+Gezien het advies van de Adviescommissie Warenwet van 24 mei 1993, no. 14681/(41)5;
 
 De Raad van State gehoord (advies van 23 december 1993, nr. W13.93.0583);
 

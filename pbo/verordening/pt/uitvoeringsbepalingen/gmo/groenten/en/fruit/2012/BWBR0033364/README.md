@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 28 juni 2012, houdende bepalingen met betrekking tot uitvoering van de integrale GMO-verordening (Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2012)
 
 Het bestuur van het Productschap Tuinbouw, 
-gelet op [artikel 23 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md) en de [artikelen 96](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op artikel 23 van de Landbouwwet, artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid en de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie;
 
 gelet op Verordening (EG) nr. 1234/2007 van de Raad van de Europese Unie van 22 oktober 2007, houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten en Uitvoeringsverordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft;
 
@@ -123,7 +123,7 @@ De voorzitter kan bij besluit termijnen vaststellen voor het aanvragen van gedee
 
 ###Artikel  14 
 
-1.  [Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md) wordt ingetrokken. 
+1.  Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010 wordt ingetrokken. 
 2.  De besluiten die zijn gebaseerd op de in het eerste lid genoemde verordening worden geacht te zijn gebaseerd op onderhavige verordening. 
 3.  De verwijzing in deze besluiten naar de in het eerste lid genoemde verordening worden gelezen als verwijzing naar onderhavige verordening.
 

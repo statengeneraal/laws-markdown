@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. alle voortbrengselen, welke, al dan niet na be- of verwerking, kunnen dienen als voedsel voor mens of dier, alsmede de bij be- of verwerking van die voortbrengselen verkregen derivaten en afvallen;   
 
-b. de niet reeds onder *a* begrepen voortbrengselen van de landbouw;     *bedrijfslichaam:* een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;   *samenwerkingslichaam:* rechtspersoonlijkheid bezittend lichaam als bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).    
+b. de niet reeds onder *a* begrepen voortbrengselen van de landbouw;     *bedrijfslichaam:* een bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie, ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;   *samenwerkingslichaam:* rechtspersoonlijkheid bezittend lichaam als bedoeld in artikel 110 van de Wet op de Bedrijfsorganisatie.    
 2.   Voor de toepassing van het bepaalde bij of krachtens deze wet wordt mede verstaan onder:   *handelaren:* tussenpersonen;   *visserij:* de mosselteelt, de oesterteelt en de viskwekerij.   
 
 ### Hoofdstuk  II  
@@ -56,7 +56,7 @@ b. het bereiden, vervaardigen, oogsten, voorhanden en in voorraad hebben, beware
 
 ### Artikel  15  
 
-Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellenten aanzien van het verstrekken van een subsidie of andere geldelijke bijdrage aan producenten of groepen van producenten van en aan handelaren of groepen van handelaren in produkten.  
+Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van het verstrekken van een subsidie of andere geldelijke bijdrage aan producenten of groepen van producenten van en aan handelaren of groepen van handelaren in produkten.  
 
 ### Artikel  16  
 
@@ -122,11 +122,11 @@ Een tarief als bedoeld in artikel 22a, eerste en tweede lid, wordt zodanig vastg
 
 ### §  2a  
 
-#### [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) 
+#### Algemene wet bestuursrecht 
 
 ### Artikel  23a  
 
-Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in de artikelen 18, eerste lid, 19, eerste lid, en 20, eerste lid, dan wel krachtens artikel 23 in samenhang met deze artikelen, blijven de [artikelen 4:7](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing, indien de gestelde regelen strekken tot verwezenlijking van de in artikel 13, eerste lid, onder *b* , vermelde doeleinden.  
+Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in de artikelen 18, eerste lid, 19, eerste lid, en 20, eerste lid, dan wel krachtens artikel 23 in samenhang met deze artikelen, blijven de artikelen 4:7 en 4:8 van de Algemene wet bestuursrecht buiten toepassing, indien de gestelde regelen strekken tot verwezenlijking van de in artikel 13, eerste lid, onder *b* , vermelde doeleinden.  
 
 ### §  3  
 

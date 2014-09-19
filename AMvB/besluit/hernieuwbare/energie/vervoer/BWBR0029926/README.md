@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 september 2010, nr. BJZ2010024777, Directie Bestuurlijke en Juridische Zaken;
 
-Gelet op richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140) en op de [artikelen 9.2.2.1](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.6a](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [12.31 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140) en op de artikelen 9.2.2.1, 9.2.2.6a en 12.31 van de Wet milieubeheer;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 27 oktober 2010, nr. W08.10.0484/IV);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*benzine:* ongelode lichte olie als bedoeld in [artikel 26, tweede lid, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+*benzine:* ongelode lichte olie als bedoeld in artikel 26, tweede lid, van de Wet op de accijns;  
 
 *biobrandstof:* biobrandstof als bedoeld in artikel 2, onderdeel i, van de richtlijn;  
 
@@ -25,24 +25,24 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *bioticket:* bewijs dat hernieuwbare energie met een aangegeven energie-inhoud op de markt is gebracht die op grond van het bij of krachtens dit besluit bepaalde kan dienen ter voldoening aan de verplichting, bedoeld in artikel 3, doch als zodanig niet wordt gebruikt door degene die die energie op de markt heeft gebracht;  
 
-*diesel:* gasolie als bedoeld in [artikel 26, vierde lid, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+*diesel:* gasolie als bedoeld in artikel 26, vierde lid, van de Wet op de accijns;  
 
 *geregistreerde:* registratieplichtige of degene die een rekening heeft in het register en voldoet aan artikel 6, 6b of 6c;  
 
 *mobiele machine:* mobiele machine als bedoeld in artikel 2 van richtlijn 2003/37/EG van het Europees Parlement en de Raad van 26 mei 2003 betreffende de typegoedkeuring van landbouw- of bosbouwtrekkers en aanhangwagens, verwisselbare getrokken machines, systemen, onderdelen en technische eenheden daarvan en tot intrekking van Richtlijn 74/150/EEG van de Raad (PbEG 2003, L 171);  
 
-*register:* register als bedoeld in [artikel 12.31, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*register:* register als bedoeld in artikel 12.31, eerste lid, van de Wet milieubeheer;  
 
-*registratieplichtige:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel k, van die wet, die benzine, diesel of biobrandstof, met uitzondering van biogas, opslaat of uitslaat tot verbruik, of degene, die benzine, diesel of biobrandstoffen invoert onder betaling van accijns;  
+*registratieplichtige:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns, of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel k, van die wet, die benzine, diesel of biobrandstof, met uitzondering van biogas, opslaat of uitslaat tot verbruik, of degene, die benzine, diesel of biobrandstoffen invoert onder betaling van accijns;  
 
 *richtlijn:* richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140);  
 
-*uitslag tot verbruik:* uitslag tot verbruik als bedoeld in [artikel 2, eerste lid, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
+*uitslag tot verbruik:* uitslag tot verbruik als bedoeld in artikel 2, eerste lid, van de Wet op de accijns.   
 
 ### Artikel  1a  
 
 1.  Op een registratieplichtige die in enig kalenderjaar minder dan een bij ministeriële regeling vastgestelde hoeveelheid van bij die regeling aangewezen brandstoffen uitslaat tot verbruik is in dat kalenderjaar het bepaalde bij of krachtens de artikelen 2 tot en met 5 niet van toepassing. De eerste volzin is niet van toepassing op de registratieplichtige die brandstoffen uitslaat onder schorsing van accijns.   
-2.  Op verzoek van de houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), die in enig kalenderjaar uitsluitend bij ministeriële regeling aangewezen brandstoffen onder een accijnsschorsingsregeling als bedoeld in artikel 1a, eerste lid, onderdeel c, van de Wet op de accijns ontvangt van een registratieplichtige, voorhanden heeft of verzendt aan een registratieplichtige kan Onze Minister besluiten dat op die houder van een vergunning voor een accijnsgoederenplaats het bepaalde bij of krachtens de artikelen 2 tot en met 5 niet van toepassing is.  
+2.  Op verzoek van de houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns, die in enig kalenderjaar uitsluitend bij ministeriële regeling aangewezen brandstoffen onder een accijnsschorsingsregeling als bedoeld in artikel 1a, eerste lid, onderdeel c, van de Wet op de accijns ontvangt van een registratieplichtige, voorhanden heeft of verzendt aan een registratieplichtige kan Onze Minister besluiten dat op die houder van een vergunning voor een accijnsgoederenplaats het bepaalde bij of krachtens de artikelen 2 tot en met 5 niet van toepassing is.  
 
 ### Artikel  2  
 
@@ -96,7 +96,7 @@ b. die biobrandstoffen die ten behoeve van wegvoertuigen en mobiele machines zij
 
 ### Artikel  6a  
 
-1.  Voor de toepassing van dit besluit wordt biogas dat wordt geleverd ten behoeve van wegvoertuigen en waarvoor subsidie is betaald op grond van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) buiten beschouwing gelaten.   
+1.  Voor de toepassing van dit besluit wordt biogas dat wordt geleverd ten behoeve van wegvoertuigen en waarvoor subsidie is betaald op grond van het Besluit stimulering duurzame energieproductie buiten beschouwing gelaten.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het in het eerste lid bepaalde.  
 
 ### Artikel  6b  
@@ -110,7 +110,7 @@ b. die biobrandstoffen die ten behoeve van wegvoertuigen en mobiele machines zij
 1.  Een ieder die in het kader van beroep of bedrijf een hoeveelheid biokerosine levert aan luchtvaartuigen in Nederland kan een rekening als bedoeld in artikel 5, eerste lid, openen in het register, waarop die hoeveelheid biokerosine wordt ingeboekt. De rekening wordt geopend voor de duur van ten minste één kalenderjaar en kan worden opgezegd tegen 1 januari van enig jaar.   
 2.  Door het openen van een rekening als bedoeld in het eerste lid verplicht de betreffende geregistreerde zich tot het aantoonbaar leveren van biokerosine in Nederland, die voldoet aan de eisen, bedoeld in artikel 3, derde lid, in ten minste de in artikel 3, eerste lid, onderdelen a tot en met d, genoemde percentages van de totale hoeveelheid door hem geleverde biokerosine in Nederland.   
 3.  De hoeveelheid biokerosine, bedoeld in het tweede lid, kan na aftrek van het in dat lid bedoelde percentage in de vorm van biotickets in eigendom worden overgedragen aan registratieplichtigen.   
-4.  Voor de toepassing van dit artikel wordt biokerosine die wordt meegeteld voor de jaarvracht van een luchtvaartmaatschappij, bedoeld in [artikel 16.39f van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), buiten beschouwing gelaten. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het in de eerste volzin bepaalde.   
+4.  Voor de toepassing van dit artikel wordt biokerosine die wordt meegeteld voor de jaarvracht van een luchtvaartmaatschappij, bedoeld in artikel 16.39f van de Wet milieubeheer, buiten beschouwing gelaten. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het in de eerste volzin bepaalde.   
 5.  Dit artikel vervalt met ingang van 1 januari 2020.  
 
 ### Artikel  7  
@@ -133,11 +133,11 @@ Bij ministeriële regeling kan worden bepaald, dat de artikelen 2 tot en met 5 v
 
 ### Artikel  11  
 
-Het [Besluit biobrandstoffen wegverkeer 2007](../../../../../../AMvB/besluit/biobrandstoffen/wegverkeer/2007/BWBR0020446/README.md) wordt ingetrokken, met dien verstande dat: 
+Het Besluit biobrandstoffen wegverkeer 2007 wordt ingetrokken, met dien verstande dat: 
 
-a. [artikel 3, zesde lid, van dat besluit](../../../../../../AMvB/besluit/biobrandstoffen/wegverkeer/2007/BWBR0020446/README.md) blijft gelden tot 1 april 2011, en  
+a. artikel 3, zesde lid, van dat besluit blijft gelden tot 1 april 2011, en  
 
-b. [artikel 3, zevende lid, van dat besluit](../../../../../../AMvB/besluit/biobrandstoffen/wegverkeer/2007/BWBR0020446/README.md) blijft gelden voor de vóór 1 januari 2011 op grond van dat besluit bijgehouden administratie met inbegrip van de biobrandstoffenbalans.   
+b. artikel 3, zevende lid, van dat besluit blijft gelden voor de vóór 1 januari 2011 op grond van dat besluit bijgehouden administratie met inbegrip van de biobrandstoffenbalans.   
 
 ### Artikel  12  
 

@@ -28,7 +28,7 @@ d. het voorkomen en de bestrijding van radiostoringen;
 e. de opzet en uitvoering van het beheer van het radiofrequentiespectrum;  
 
 f. de uit te dragen standpunten in internationaal overleg over frequentiebeheersaangelegenheden.    
-2.  De commissie houdt in zijn standpuntbepaling inzake het beheer van het radiofrequentiespectrum rekening met het beleid ten aanzien van het gebruik van het radiofrequentiespectrum in buitengewone omstandigheden als bedoeld in [hoofdstuk 14 van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). De taak van de commissie heeft evenwel geen betrekking op dit beleid.   
+2.  De commissie houdt in zijn standpuntbepaling inzake het beheer van het radiofrequentiespectrum rekening met het beleid ten aanzien van het gebruik van het radiofrequentiespectrum in buitengewone omstandigheden als bedoeld in hoofdstuk 14 van de Telecommunicatiewet. De taak van de commissie heeft evenwel geen betrekking op dit beleid.   
 3.  De commissie houdt verder in haar werkzaamheden rekening met de uitkomsten van overig frequentiemanagement gerelateerd overleg, voor zover dit in andere overlegfora aan de orde komt en van relevantie is voor de werkzaamheden van de commissie.  
 
 ### Artikel  3  

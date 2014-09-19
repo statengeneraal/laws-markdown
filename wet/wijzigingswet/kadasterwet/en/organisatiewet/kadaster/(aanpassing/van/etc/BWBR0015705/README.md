@@ -6,16 +6,16 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Kadasterwet en de Organisatiewet Kadaster te wijzigen in verband met de integratie van de Topografische Dienst van het Ministerie van Defensie in de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](../../../../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md), alsmede in verband met enkele noodzakelijk gebleken andere wijzigingen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Kadasterwet en de Organisatiewet Kadaster te wijzigen in verband met de integratie van de Topografische Dienst van het Ministerie van Defensie in de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster, alsmede in verband met enkele noodzakelijk gebleken andere wijzigingen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-Wijzigt de [Kadasterwet](../../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md).  
+Wijzigt de Kadasterwet.  
 
 ### Artikel  II  
 
-Wijzigt de [Organisatiewet kadaster](../../../../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md).   
+Wijzigt de Organisatiewet kadaster.   
 
 ### Artikel  III  
 
@@ -25,9 +25,9 @@ a. Onze Minister: Onze Minister van Defensie;
 
 b. Topografische Dienst: Topografische Dienst van het Ministerie van Defensie;  
 
-c. Kadaster: Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de Organisatiewet Kadaster](../../../../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md), en  
+c. Kadaster: Dienst voor het kadaster en de openbare registers als bedoeld in artikel 2 van de Organisatiewet Kadaster, en  
 
-d. bestuur: bestuur als bedoeld in [artikel 3 van de Organisatiewet Kadaster](../../../../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md).   
+d. bestuur: bestuur als bedoeld in artikel 3 van de Organisatiewet Kadaster.   
 
 ### Artikel  IV  
 
@@ -41,20 +41,20 @@ d. bestuur: bestuur als bedoeld in [artikel 3 van de Organisatiewet Kadaster](..
 
 ### Artikel  VI  
 
-Archiefbescheiden van de Topografische Dienst betreffende zaken die op de datum van inwerkingtreding van deze wet nog niet zijn afgedaan, worden overgedragen aan het Kadaster, voorzover zij niet overeenkomstig de [Archiefwet 1995](../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.  
+Archiefbescheiden van de Topografische Dienst betreffende zaken die op de datum van inwerkingtreding van deze wet nog niet zijn afgedaan, worden overgedragen aan het Kadaster, voorzover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.  
 
 ### Artikel  VII  
 
 1.  In wettelijke procedures en rechtsgedingen waarbij de Topografische Dienst is betrokken, treedt met ingang van de datum van inwerkingtreding van deze wet het Kadaster in de plaats van de Staat of Onze Minister.   
-2.  In zaken waarin voor de datum van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Topografische Dienst, treedt het bestuur op die datum als bestuursorgaan in de zin van de [Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) in de plaats van Onze Minister.  
+2.  In zaken waarin voor de datum van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Topografische Dienst, treedt het bestuur op die datum als bestuursorgaan in de zin van de Wet Nationale ombudsman in de plaats van Onze Minister.  
 
 ### Artikel  VIII  
 
-De eerste periode van vijf jaar, bedoeld in [artikel 32 van de Organisatiewet Kadaster](../../../../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md), vangt aan met ingang van de dag waarop deze wet in werking treedt. 
+De eerste periode van vijf jaar, bedoeld in artikel 32 van de Organisatiewet Kadaster, vangt aan met ingang van de dag waarop deze wet in werking treedt. 
 
 ### Artikel  IX  
 
-Na de inwerkingtreding van deze wet berust de Regeling betaling kadastraal recht op [artikel 108, derde lid, van de Kadasterwet](../../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md). 
+Na de inwerkingtreding van deze wet berust de Regeling betaling kadastraal recht op artikel 108, derde lid, van de Kadasterwet. 
 
 ### Artikel  X  
 

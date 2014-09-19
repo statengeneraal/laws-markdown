@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw d.d. 30 maart 2010, houdende bepalingen met betrekking tot uitvoering van de regeling schoolfruit (Verordening PT schoolfruit)
 
 HET BESTUUR VAN HET PRODUCTSCHAP,  
-gelet op [artikel 23 van de landbouwwet](../../../../../../wet/landbouwwet/BWBR0002252/README.md), [artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md) en de [artikelen 96](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op artikel 23 van de landbouwwet, artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid en de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie;
 
 in aanmerking nemende artikel 103 octies bis van Verordening (EG) nr. 1234/2007 van de Raad van de Europese Unie van 22 oktober 2007, houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten en Verordening (EG) nr. 288/2009 van de Commissie van 7 april 2009 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1234/2007 van de Raad ten aanzien van de toekenning, in het kader van een schoolfruitregeling, van communautaire steun voor de verstrekking van groente- en fruitproducten, verwerkte groente- en fruitproducten en banaanproducten aan kinderen in onderwijsinstellingen.
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 26 september 2013, 20130000129478, tot verstrekken van subsidie voor scholing en plaatsing van oudere werklozen (Regeling scholing en plaatsing oudere werklozen)
 
 De Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op [artikelen 3](../../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en [5 van de Kaderwet SZW-subsidies](../../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en [32d, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op artikelen 3 en 5 van de Kaderwet SZW-subsidies en 32d, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 Besluit:     
 ### §  1  
 
@@ -19,7 +19,9 @@ In deze regeling wordt verstaan onder:
 
 –  *arbeidsmarktregio:* een arbeidsmarktregio die is opgenomen in bijlage 1 bij deze regeling;  
 
-–  *dienstbetrekking:* dienstbetrekking als bedoeld in [hoofdstuk I van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+–  *dienstbetrekking:* dienstbetrekking als bedoeld in hoofdstuk I van de Werkloosheidswet;  
+
+–  *ervaringscertificaat:* een overzicht van de door de persoon in de praktijk geleerde en erkende competenties zoals zijn kennis, vaardigheden en kwaliteiten; 
 
 –  *intermediair:* de rechtspersoon die bemiddelingsactiviteiten verricht tussen werkzoekenden en werkgevers, met als doel de werkzoekende duurzaam te plaatsen in een dienstbetrekking en die als zodanig staat ingeschreven bij de Kamer van Koophandel;  
 
@@ -27,17 +29,19 @@ In deze regeling wordt verstaan onder:
 
 –  *minister:* Minister van Sociale Zaken en Werkgelegenheid;  
 
-–  *oudere werkloze:* persoon die recht heeft op een uitkering op grond van [hoofdstuk II van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en op de dag waarop het recht ontstaat de leeftijd van 55 jaar heeft bereikt en tenminste drie maanden een werkloosheidsuitkering heeft;  
+–  *oudere werkloze:* de persoon die recht heeft op een uitkering op grond van hoofdstuk II van de Werkloosheidswet en die op de dag van aanvang van de scholing of EVC-procedure, dan wel op de dag van aanvang van de dienstbetrekking de leeftijd van 50 jaar heeft bereikt;  
 
-–  *scholing:* het volgen van een opleiding of een training gericht op het verwerven van vaardigheden en competenties die benodigd zijn om een beroep of functie uit te kunnen oefenen en die leidt tot een door een branche of sector erkend certificaat of diploma;  
+–  *EVC-procedure:* procedure Erkenning van Verworven Competenties zijnde een geheel van processtappen en gehanteerde instrumenten waarmee de verworven competenties van deelnemers worden beoordeeld, door een erkende aanbieder, ten opzichte van een specifieke landelijke standaard, resulterend in afgifte van een ervaringscertificaat; 
 
-–  *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+–  *scholing:* het volgen van een opleiding of een training gericht op het verwerven van vaardigheden en competenties die benodigd zijn om een beroep of functie uit te kunnen oefenen dan wel werkzaamheden in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep te kunnen verrichten en die leidt tot een door een branche of sector erkend certificaat of diploma;  
+
+–  *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 
 ### Artikel  2  
 
 ####Subsidie scholing en plaatsing oudere werkloze
 
-De minister verstrekt op aanvraag subsidie voor op vacature gerichte scholing en voor plaatsing van een oudere werkloze bij een werkgever, door een intermediair. 
+De minister verstrekt op aanvraag subsidie voor op vacature of op zelfstandig ondernemen gerichte scholing en voor plaatsing van een oudere werkloze bij een werkgever, door een intermediair. 
 
 ### §  2  
 
@@ -49,7 +53,7 @@ De minister verstrekt op aanvraag subsidie voor op vacature gerichte scholing en
 
 1.  Voor subsidie voor scholing, gestart op of na de dag van inwerkingtreding van deze regeling, en die maximaal één jaar duurt, komt in aanmerking de oudere werkloze die: 
 
-a. een verklaring van de werkgever heeft waarin wordt vermeld dat de werkgever de intentie heeft om de oudere werkloze, uiterlijk op de eerste dag van de kalendermaand volgend op de kalendermaand waarin de scholing is afgerond, voor tenminste drie maanden, en gemiddeld voor de helft van het aantal uren waarop de uitkering, op grond van [hoofdstuk II van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), is vastgesteld, doch niet minder dan gemiddeld 12 uren per week, in dienst te nemen; of  
+a. een verklaring van de werkgever heeft waarin wordt vermeld dat de werkgever de intentie heeft om de oudere werkloze, uiterlijk op de eerste dag van de kalendermaand volgend op de kalendermaand waarin de scholing is afgerond, voor tenminste drie maanden, en gemiddeld voor de helft van het aantal uren waarop de uitkering, op grond van hoofdstuk II van de Werkloosheidswet, is vastgesteld, doch niet minder dan gemiddeld 12 uren per week, in dienst te nemen; of  
 
 b. een scholing gaat volgen die opleidt naar een kansberoep.     
 2.  Voor subsidie voor scholing, gestart op of na de dag van inwerkingtreding van deze regeling, kan op aanvraag in aanmerking komen, de oudere werkloze, indien: 
@@ -58,7 +62,8 @@ a. de scholing naar het oordeel van het UWV noodzakelijk is;
 
 b. zonder scholing vrijwel geen uitzicht bestaat op het op korte termijn kunnen aanvaarden van een dienstbetrekking; en  
 
-c. de scholing maximaal één jaar duurt.    
+c. de scholing maximaal één jaar duurt.     
+3.  Voor subsidie voor scholing kan op aanvraag in aanmerking komen de oudere werkloze, die via een EVC-procedure, zijn competenties en ervaring in een ervaringscertificaat laat vastleggen. 
 
 ### Artikel  4  
 
@@ -68,19 +73,19 @@ Voor subsidie voor scholing komt in aanmerking de werkgever die de oudere werklo
 
 a. tenminste drie maanden; en  
 
-b. gemiddeld tenminste de helft van het aantal uren waarop de uitkering, op grond van [hoofdstuk II van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), is vastgesteld, doch niet voor minder dan gemiddeld 12 uren per week.   
+b. gemiddeld tenminste de helft van het aantal uren waarop de uitkering, op grond van hoofdstuk II van de Werkloosheidswet, is vastgesteld, doch niet voor minder dan gemiddeld 12 uren per week.   
 
 ### Artikel  5  
 
 ####Subsidiebedrag scholing
 
-De subsidie voor scholing bedraagt 100% van de werkelijke kosten van de scholing, tot een maximum van € 750,–, inclusief BTW, per oudere werkloze en wordt desgevraagd ofwel aan de oudere werkloze, dan wel aan de werkgever verstrekt. Indien zowel de oudere werkloze, als de werkgever voor dezelfde scholing subsidie aanvragen, wordt de subsidie verstrekt aan de subsidieaanvrager wiens volledige subsidieaanvraag als eerste is ontvangen. 
+De subsidie voor scholing bedraagt 100% van de werkelijke kosten van de scholing, tot een maximum van € 1.000,–, inclusief BTW, per oudere werkloze en wordt desgevraagd ofwel aan de oudere werkloze, dan wel aan de werkgever verstrekt. Indien zowel de oudere werkloze, als de werkgever voor dezelfde scholing subsidie aanvragen, wordt de subsidie verstrekt aan de subsidieaanvrager wiens volledige subsidieaanvraag als eerste is ontvangen. 
 
 ### Artikel  6  
 
 ####Subsidieaanvraag
 
-De subsidieaanvraag voor scholing wordt, voor aanvang van die scholing, bij het UWV ingediend, met gebruikmaking van een door het UWV beschikbaar gesteld aanvraagformulier. De aanvraag is volledig als het aanvraagformulier volledig is ingevuld en is ondertekend door de aanvrager en alle gevraagde bijlagen zijn bijgevoegd. 
+De subsidieaanvraag voor scholing wordt, uiterlijk twee weken na aanvang van die scholing, bij het UWV ingediend, met gebruikmaking van een door het UWV beschikbaar gesteld aanvraagformulier. De aanvraag is volledig als het aanvraagformulier volledig is ingevuld en is ondertekend door de aanvrager en alle gevraagde bijlagen zijn bijgevoegd. 
 
 ### Artikel  7  
 
@@ -88,18 +93,18 @@ De subsidieaanvraag voor scholing wordt, voor aanvang van die scholing, bij het 
 
 1.  De subsidie voor scholing wordt geweigerd, indien: 
 
-a. de volledige aanvraag is ontvangen na de aanvang van de scholing van de oudere werkloze;  
+a. de volledige aanvraag is ontvangen na de termijn, bedoeld in artikel 6;  
 
 b. ten behoeve van dezelfde oudere werkloze subsidie voor scholing, op grond van deze regeling, reeds is verleend; of  
 
 c. de kosten van scholing waarvoor de subsidie wordt aangevraagd reeds uit andere publieke middelen worden gefinancierd.     
-2.  Het eerste lid, onderdeel a, is niet van toepassing op de aanvrager wiens onvolledige aanvraag voor de aanvang van de scholing van de oudere werkloze is ontvangen en die door het UWV op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld om zijn aanvraag aan te vullen.  
+2.  Het eerste lid, onderdeel a, is niet van toepassing op de aanvrager wiens onvolledige aanvraag voor de aanvang van de scholing van de oudere werkloze is ontvangen en die door het UWV op grond van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld om zijn aanvraag aan te vullen.  
 
 ### Artikel  8  
 
 ####Subsidievaststelling
 
-Indien aan de vereisten voor subsidie voor scholing is voldaan, geeft het UWV binnen acht weken, na ontvangst van de volledige aanvraag, een beschikking tot subsidievaststelling af. 
+Het UWV beslist binnen acht weken na ontvangst van de volledige aanvraag op die aanvraag. 
 
 ### Artikel  9  
 
@@ -119,7 +124,7 @@ Voor subsidie voor plaatsing komt in aanmerking, de intermediair door wiens bemi
 
 a. ieder aangiftetijdvak verloonde uren heeft genoten; en  
 
-b. gemiddeld over de gehele periode voor tenminste de helft van het aantal uren waarop de uitkering, op grond van [hoofdstuk II van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), is gebaseerd, doch niet minder dan gemiddeld 12 uren per week werkzaamheden heeft verricht.   
+b. gemiddeld in de gehele periode over ten minste de helft van het aantal uren waarop zijn uitkering, op grond van hoofdstuk II van de Werkloosheidswet, was gebaseerd, doch over niet minder dan gemiddeld 12 uren per week, verloonde uren heeft genoten, waarbij loon geacht wordt te zijn genoten in het aangiftetijdvak waarover de werkgever of de inhoudingsplichtige van dat loon opgave heeft gedaan.   
 
 ### Artikel  11  
 
@@ -134,9 +139,9 @@ b. gemiddeld over de gehele periode voor tenminste de helft van het aantal uren 
 ####Subsidieaanvraag
 
 1.  De subsidieaanvrager kan, ten behoeve van dezelfde oudere werkloze, slechts eenmaal voor een subsidie, als bedoeld in artikel 11, onderscheidenlijk eerste, tweede of derde lid, in aanmerking komen.   
-2.  De aanvraag voor de subsidie als bedoeld in artikel 11, eerste lid, wordt binnen 30 kalenderdagen na afloop van de periode van 3 maanden ingediend met gebruikmaking van een door UWV beschikbaar gesteld aanvraagformulier.   
-3.  In aanvulling op de aanvraag bedoeld in het tweede lid, wordt de aanvraag voor subsidie als bedoeld in artikel 11, tweede lid, binnen 30 kalenderdagen na afloop van de periode van 6 maanden ingediend met gebruikmaking van een door UWV beschikbaar gesteld aanvraagformulier.   
-4.  In aanvulling op de aanvraag bedoeld in het derde lid, wordt de aanvraag voor subsidie als bedoeld in artikel 11, derde lid, binnen 30 kalenderdagen na afloop van de periode van 12 maanden ingediend met gebruikmaking van een door UWV beschikbaar gesteld aanvraagformulier.   
+2.  De aanvraag voor de subsidie als bedoeld in artikel 11, eerste lid, wordt binnen 45 kalenderdagen na afloop van de periode van 3 maanden ingediend met gebruikmaking van een door UWV beschikbaar gesteld aanvraagformulier.   
+3.  In aanvulling op de aanvraag bedoeld in het tweede lid, wordt de aanvraag voor subsidie als bedoeld in artikel 11, tweede lid, binnen 45 kalenderdagen na afloop van de periode van 6 maanden ingediend met gebruikmaking van een door UWV beschikbaar gesteld aanvraagformulier.   
+4.  In aanvulling op de aanvraag bedoeld in het derde lid, wordt de aanvraag voor subsidie als bedoeld in artikel 11, derde lid, binnen 45 kalenderdagen na afloop van de periode van 12 maanden ingediend met gebruikmaking van een door UWV beschikbaar gesteld aanvraagformulier.   
 5.  De aanvraag is volledig als het aanvraagformulier volledig is ingevuld en is ondertekend door de aanvrager en alle gevraagde bijlagen zijn bijgevoegd.  
 
 ### Artikel  13  
@@ -148,13 +153,13 @@ b. gemiddeld over de gehele periode voor tenminste de helft van het aantal uren 
 a. de volledige aanvraag niet is ontvangen binnen de termijn, genoemd in artikel 12; of  
 
 b. de plaatsing waarvoor de subsidie wordt aangevraagd reeds uit andere publieke middelen wordt gefinancierd.     
-2.  Het eerste lid, onderdeel a, is niet van toepassing op de aanvrager wiens onvolledige aanvraag binnen de termijn, genoemd in artikel 12, is ontvangen en die door het UWV op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld om zijn aanvraag aan te vullen.  
+2.  Het eerste lid, onderdeel a, is niet van toepassing op de aanvrager wiens onvolledige aanvraag binnen de termijn, genoemd in artikel 12, is ontvangen en die door het UWV op grond van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld om zijn aanvraag aan te vullen.  
 
 ### Artikel  14  
 
 ####Subsidievaststelling
 
-Indien aan de vereisten voor subsidie voor plaatsing is voldaan, geeft het UWV binnen acht weken, na ontvangst van de volledige aanvraag, een beschikking tot subsidievaststelling af. 
+Het UWV beslist binnen acht weken na ontvangst van de volledige aanvraag op die aanvraag. 
 
 ### Artikel  15  
 
@@ -170,8 +175,8 @@ Binnen 30 kalenderdagen na het afgeven van de beschikking, bedoeld in artikel 14
 
 ####Aanvragen subsidie
 
-1.  De subsidieaanvraag voor scholing wordt ingediend in de periode vanaf de datum van inwerkingtreding van deze regeling tot en met 30 september 2015.   
-2.  De subsidieaanvraag voor plaatsing kan worden ingediend voor dienstverbanden aangevangen vanaf de datum van inwerkingtreding van deze regeling tot en met 30 september 2015, binnen de gestelde termijnen, bedoeld in artikel 12.   
+1.  De subsidieaanvraag voor scholing wordt ingediend in de periode vanaf de datum van inwerkingtreding van deze regeling tot en met 30 september 2016.   
+2.  De subsidieaanvraag voor plaatsing kan worden ingediend voor dienstverbanden aangevangen vanaf de datum van inwerkingtreding van deze regeling tot en met 30 september 2016, binnen de gestelde termijnen, bedoeld in artikel 12.   
 3.  Een subsidieaanvraag die is ingediend na afloop van de periode, bedoeld in het eerste en tweede lid, wordt niet in behandeling genomen.   
 4.  De subsidie wordt toegekend aan de subsidieaanvrager.  
 
@@ -186,14 +191,14 @@ Binnen 30 kalenderdagen na het afgeven van de beschikking, bedoeld in artikel 14
 
 ####Subsidieplafond
 
-Het subsidieplafond voor scholing en plaatsing tezamen bedraagt voor de periode vanaf de datum van inwerkingtreding van deze regeling tot en met 31 oktober 2016, € 28.000.000,–. 
+Het subsidieplafond voor scholing en plaatsing tezamen bedraagt voor de periode vanaf de datum van inwerkingtreding van deze regeling tot en met 31 oktober 2017, € 42.000.000,–. 
 
 ### Artikel  19  
 
 ####Volgorde behandeling subsidieaanvragen
 
 1.  Voor het bepalen van het bereiken van het subsidieplafond worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen volledige subsidieaanvragen in behandeling worden genomen. Van een volledige subsidieaanvraag is sprake indien wordt voldaan aan de artikelen 6 of 12.   
-2.  Wanneer de subsidieaanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad zijn aanvraag aan te vullen, geldt als datum van binnenkomst de datum van ontvangst van de volledige aanvraag.   
+2.  Wanneer de subsidieaanvrager op grond van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad zijn aanvraag aan te vullen, geldt als datum van binnenkomst de datum van ontvangst van de volledige aanvraag.   
 3.  Indien subsidievaststelling op grond van de subsidieaanvragen die op dezelfde datum zijn binnengekomen leidt tot overschrijding van het van toepassing zijnde subsidieplafond, wordt, indien de volgorde van binnenkomst van die aanvragen niet kan worden vastgesteld, in afwijking van het eerste lid, met betrekking tot die aanvragen de volgorde door loting vastgesteld.  
 
 ### Artikel  20  
@@ -204,9 +209,9 @@ De verleende subsidie wordt teruggevorderd indien deze ten onrechte of voor een 
 
 ### Artikel  21  
 
-####Toepasselijkheid [Algemene regeling SZW-subsidies](../../../../../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md)
+####Toepasselijkheid Algemene regeling SZW-subsidies
 
-Op subsidies verleend op grond van deze regeling is de [Algemene regeling SZW-subsidies](../../../../../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) niet van toepassing. 
+Op subsidies verleend op grond van deze regeling is de Algemene regeling SZW-subsidies niet van toepassing. 
 
 ### Artikel  22  
 
@@ -220,13 +225,13 @@ b. het UWV is bevoegd om in het kader van de uitvoering van deze regeling namens
 
 c. het UWV is bevoegd om in het kader van de uitvoering van deze regeling namens de minister in rechte op te treden en tegen rechterlijke uitspraken hoger beroep of cassatie in te stellen, dan wel af te zien van hoger beroep of cassatie.     
 2.  Het UWV is bevoegd in het kader van de uitvoering van deze regeling tot het verlenen van ondermandaat of het doorverlenen van zijn andere vertegenwoordigingsbevoegdheden aan bij het UWV werkzame functionarissen.   
-3.  [Hoofdstuk 4 van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md) is van toepassing op de uitoefening van bevoegdheden op grond van deze regeling en tevens op de uitoefening van bevoegdheden die krachtens ondermandaat respectievelijk doorverlening van volmacht en machtiging worden uitgeoefend.  
+3.  Hoofdstuk 4 van het Organisatie-, mandaat- en volmachtbesluit SZW 2009 is van toepassing op de uitoefening van bevoegdheden op grond van deze regeling en tevens op de uitoefening van bevoegdheden die krachtens ondermandaat respectievelijk doorverlening van volmacht en machtiging worden uitgeoefend.  
 
 ### Artikel  23  
 
 ####Verslag UWV
 
-Het UWV brengt aan de minister inhoudelijk en financieel verslag uit over de uitvoering van de regeling overeenkomstig [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md). 
+Het UWV brengt aan de minister inhoudelijk en financieel verslag uit over de uitvoering van de regeling overeenkomstig artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  24  
 
@@ -242,28 +247,28 @@ Het UWV brengt aan de minister inhoudelijk en financieel verslag uit over de uit
 
 1.  Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister een opgave van het totaalbedrag aan de voor het komende jaar geraamde lasten met betrekking tot deze regeling.   
 2.  In afwijking van het eerste lid, wordt de opgave van het totaalbedrag van de geraamde lasten voor het jaar 2013 ingediend voor 1 oktober 2013.   
-3.  De Minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel b, van de Regeling Wfsv](../../../../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md), een periodiek voorschot op het bedrag, bedoeld in het eerste lid, van de geraamde subsidielasten met als valutadatum de tweeëntwintigste dag van elke maand.   
+3.  De Minister stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel b, van de Regeling Wfsv, een periodiek voorschot op het bedrag, bedoeld in het eerste lid, van de geraamde subsidielasten met als valutadatum de tweeëntwintigste dag van elke maand.   
 4.  De Minister kan, na overleg met het UWV, van de in het eerste en tweede lid bedoelde bedragen afwijken.  
 
 ### Artikel  26  
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de lasten alsmede de ontvangen voorschotten, met betrekking tot deze regeling opgenomen.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister de lasten alsmede de ontvangen voorschotten, met betrekking tot deze regeling en het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen, worden de lasten alsmede de ontvangen voorschotten, met betrekking tot deze regeling opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister de lasten alsmede de ontvangen voorschotten, met betrekking tot deze regeling en het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### Artikel  27  
 
 ####Evaluatie
 
-Het UWV evalueert de doeltreffendheid van de regeling en brengt daarover uiterlijk 1 juni 2015 verslag uit aan de Minister. 
+Het UWV evalueert de doeltreffendheid van de regeling en brengt daarover uiterlijk 1 juni 2016 verslag uit aan de Minister. 
 
 ### Artikel  28  
 
 ####Inwerkingtreding
 
-1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2017.   
-2.  In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 december 2016, van toepassing op de afwikkeling van de subsidie op grond van deze regeling.  
+1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2018.   
+2.  In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 december 2017, van toepassing op de afwikkeling van de subsidie op grond van deze regeling.  
 
 ### Artikel  29  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Grote Steden- en Integratiebeleid van 7 september 2001, houdende regels in verband met de verstrekking van reisdocumenten van het Koninkrijk in de Nederlandse Antillen en Aruba (Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 2001)
 
 De Minister voor Grote Steden- en Integratiebeleid, handelende in overeenstemming met de Minister van Buitenlandse Zaken en de Minister van Justitie;  
-Gelet op de [artikelen 2, eerste lid, onder g, tweede en derde lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [3, eerste, derde, vierde en zevende lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [16, tweede lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [26, eerste lid, onder d en derde lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [27, eerste lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [30, eerste lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [31, derde lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [40, eerste lid, onder d en zesde lid](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [43](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [57](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en [59 van de Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+Gelet op de artikelen 2, eerste lid, onder g, tweede en derde lid, 3, eerste, derde, vierde en zevende lid, 16, tweede lid, 26, eerste lid, onder d en derde lid, 27, eerste lid, 30, eerste lid, 31, derde lid, 40, eerste lid, onder d en zesde lid, 43, 57 en 59 van de Paspoortwet;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -17,19 +17,19 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a.*de wet*: de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+a.*de wet*: de Paspoortwet;
 
-b.*aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing*: hetgeen ingevolge [artikel 1, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) daaronder wordt verstaan;
+b.*aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing*: hetgeen ingevolge artikel 1, eerste lid, van de wet daaronder wordt verstaan;
 
-c.*aanvrager*: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) indient of op wie een dergelijke aanvraag betrekking heeft;
+c.*aanvrager*: degene die een aanvraag als bedoeld in artikel 1, onder a, van de wet indient of op wie een dergelijke aanvraag betrekking heeft;
 
-d.*register paspoortsignaleringen*: het register, bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+d.*register paspoortsignaleringen*: het register, bedoeld in artikel 25, derde lid, van de wet;
 
-e.*signalerende autoriteit*: de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), die op grond van [artikel 25 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) een verzoek tot weigering of vervallenverklaring heeft ingediend;
+e.*signalerende autoriteit*: de autoriteit, bedoeld in de artikelen 18 tot en met 24 van de wet, die op grond van artikel 25 van de wet een verzoek tot weigering of vervallenverklaring heeft ingediend;
 
-f.*basisadministratie*: de gemeentelijke basisadministratie persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), dan wel een bij Landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
+f.*basisadministratie*: de gemeentelijke basisadministratie persoonsgegevens als bedoeld in artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens, dan wel een basisadministratie als bedoeld in artikel 2 van de Wet basisadministraties persoonsgegevens BES, dan wel een bij Landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
 
-g.*basisregister reisdocumenten*: het register, bedoeld in [artikel 4a van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+g.*basisregister reisdocumenten*: het register, bedoeld in artikel 4a van de wet;
 
 h. *aanvraagsysteem reisdocumenten*: het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;
 
@@ -47,9 +47,9 @@ n.*openbaar lichaam*: openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
 o. *aanvraagnummer*: het nummer dat voorgedrukt is op het foto- en handtekeningformulier;
 
-p.*administratienummer*: het administratienummer, bedoeld in [artikel 4.9 van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dan wel in de [artikelen 10](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en [11 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);
+p.*administratienummer*: het administratienummer, bedoeld in artikel 4.9 van de Wet basisregistratie personen, dan wel in de artikelen 10 en 11 van de Wet basisadministraties persoonsgegevens BES;
 
-q.*burgerservicenummer*: het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);
+q.*burgerservicenummer*: het nummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer;
 
 r. vervallen;
 
@@ -61,7 +61,7 @@ u. *transporteur*: het bedrijf dat, in voorkomende gevallen met inschakeling van
 
 v.*uitgiftelocatie*: de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de transporteur worden afgeleverd; 
 
-w. *verblijfsdocument*: een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) of de daarmee overeenkomstige landsverordening van Aruba, Curaçao of Sint Maarten blijkt;
+w. *verblijfsdocument*: een document waaruit het verblijfsrecht van de vreemdeling ingevolge de Vreemdelingenwet 2000, de Wet toelating en uitzetting BES of de daarmee overeenkomstige landsverordening van Aruba, Curaçao of Sint Maarten blijkt;
 
 x.*aanvraagstation*: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;
 
@@ -69,7 +69,7 @@ y.*foto- en handtekeningenformulier*: het daartoe door de leverancier beschikbaa
 
 z.*Aanvraagstationlocatie*: de locatie waar de bevoegde autoriteit met inachtneming van artikel 91 één of meerdere aanvraagstations heeft geplaatst;
 
-aa.*mobiel vingerafdrukopname-apparaat*: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt.  
+aa.*mobiel vingerafdrukopname-apparaat*: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van artikel 28, derde lid, van de wet niet in persoon verschijnt.  
 2.  Deze regeling is van toepassing op de verstrekking van reisdocumenten van het Koninkrijk in Aruba, Curaçao en Sint Maarten  
 
 ### § 2  
@@ -78,7 +78,7 @@ aa.*mobiel vingerafdrukopname-apparaat*: de door de minister van Binnenlandse Za
 
 ### Artikel  2  
 
-Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, eerste lid, onder g, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) zijn: 
+Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge artikel 2, eerste lid, onder g, van de wet zijn: 
 
 a. faciliteitenpaspoort;  
 
@@ -90,10 +90,10 @@ b. tweede paspoort.
 
 ### Artikel  3  
 
-1.  Met betrekking tot de in [artikel 2, eerste lid, onder a tot en met e, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bedoelde reisdocumenten bestaan de navolgende modellen:  a. nationaal paspoort:   model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort);   b. diplomatiek paspoort:   model diplomatiek paspoort;   c. dienstpaspoort:   model dienstpaspoort en model nationaal paspoort voorzien van standaardclausule IX;   d. reisdocument voor vluchtelingen:   model reisdocument voor vluchtelingen;   e. reisdocument voor vreemdelingen:   model reisdocument voor vreemdelingen.      
-2.  Met betrekking tot het in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bedoelde nooddocument bestaan de navolgende modellen:  a. noodpaspoort:   model noodpaspoort;   b. laissez-passer:   model laissez-passer.      
-3.  Met betrekking tot de ingevolge [artikel 2, eerste lid, onder g, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) vastgestelde reisdocumenten bestaan de navolgende modellen:  a. faciliteitenpaspoort:   model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VI;   b. tweede paspoort:   model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII.      
-4.  Met betrekking tot de ingevolge [artikel 2, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
+1.  Met betrekking tot de in artikel 2, eerste lid, onder a tot en met e, van de wet bedoelde reisdocumenten bestaan de navolgende modellen:  a. nationaal paspoort:   model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort);   b. diplomatiek paspoort:   model diplomatiek paspoort;   c. dienstpaspoort:   model dienstpaspoort en model nationaal paspoort voorzien van standaardclausule IX;   d. reisdocument voor vluchtelingen:   model reisdocument voor vluchtelingen;   e. reisdocument voor vreemdelingen:   model reisdocument voor vreemdelingen.      
+2.  Met betrekking tot het in artikel 2, eerste lid, onder f, van de wet bedoelde nooddocument bestaan de navolgende modellen:  a. noodpaspoort:   model noodpaspoort;   b. laissez-passer:   model laissez-passer.      
+3.  Met betrekking tot de ingevolge artikel 2, eerste lid, onder g, van de wet vastgestelde reisdocumenten bestaan de navolgende modellen:  a. faciliteitenpaspoort:   model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VI;   b. tweede paspoort:   model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII.      
+4.  Met betrekking tot de ingevolge artikel 2, tweede lid, van de wet genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
 5.  In de modellen, genoemd in het eerste, derde en vierde lid, is een machineleesbare strook en een chip opgenomen.   
 6.  In het model noodpaspoort, genoemd in het tweede lid, onder a, is een machineleesbare strook opgenomen. 
 7. De in het eerste lid, onder a, en derde lid genoemde reisdocumenten en de Nederlandse identiteitskaart, bedoeld in het vierde lid, vermelden het burgerservicenummer van de houder, tenzij aan de houder geen burgerservicenummer is toegekend.  
@@ -103,7 +103,7 @@ b. tweede paspoort.
 
 ####Reisdocumenten zonder vingerafdrukken
 
-Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt niet voorzien van vingerafdrukken van de houder.
+Een nooddocument als bedoeld in artikel 2, eerste lid, onder f, van de wet wordt niet voorzien van vingerafdrukken van de houder.
 
 ### § 4  
 
@@ -119,7 +119,7 @@ Het register paspoortsignaleringen is ondergebracht bij de Minister van Binnenla
 
 ####Administratie van kennisgevingen uit het register
 
-1.  De tot verstrekking dan wel inhouding bevoegde autoriteiten dragen er zorg voor dat de administratie, bedoeld in [artikel 25, vierde en vijfde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), te allen tijde de naam, voornamen, geboortedatum en geboorteplaats bevat van de personen ten aanzien van wie zij op grond van de wet bevoegd zijn tot verstrekking dan wel inhouding.   
+1.  De tot verstrekking dan wel inhouding bevoegde autoriteiten dragen er zorg voor dat de administratie, bedoeld in artikel 25, vierde en vijfde lid, van de wet, te allen tijde de naam, voornamen, geboortedatum en geboorteplaats bevat van de personen ten aanzien van wie zij op grond van de wet bevoegd zijn tot verstrekking dan wel inhouding.   
 2.  De in het eerste lid bedoelde administratie is op naam toegankelijk en kan desgewenst worden gevoerd door het bewaren en raadplegen van de regelmatig toegezonden signaleringslijst en de tussentijdse aanvullingen daarop.  
 
 ### § 5  
@@ -130,7 +130,7 @@ Het register paspoortsignaleringen is ondergebracht bij de Minister van Binnenla
 
 ####Gouverneur
 
-1.  De Gouverneur neemt ten behoeve van personen die in Aruba, Curaçao of Sint Maarten in de basisadministratie als ingezetene zijn ingeschreven, aanvragen in ontvangst voor en gaat over tot verstrekking van tweede paspoorten, faciliteitenpaspoorten en nooddocumenten als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+1.  De Gouverneur neemt ten behoeve van personen die in Aruba, Curaçao of Sint Maarten in de basisadministratie als ingezetene zijn ingeschreven, aanvragen in ontvangst voor en gaat over tot verstrekking van tweede paspoorten, faciliteitenpaspoorten en nooddocumenten als bedoeld in artikel 2, eerste lid, onder f, van de wet.   
 2.  De Gouverneur verricht de handelingen, die hij ingevolge de wet en het eerste lid dient te verrichten, tevens ten behoeve van personen die niet in Aruba, Curaçao of Sint Maarten in de basisadministratie als ingezetene zijn ingeschreven.   
 3.  De Gouverneur is namens de Minister van Buitenlandse Zaken bevoegd tot het in ontvangst nemen van aanvragen voor en tot verstrekking van diplomatieke paspoorten en dienstpaspoorten ten behoeve van personen die in Aruba, Curaçao of Sint Maarten in de basisadministratie als ingezetene zijn ingeschreven.  
 
@@ -138,13 +138,13 @@ Het register paspoortsignaleringen is ondergebracht bij de Minister van Binnenla
 
 ####Door de Gouverneur aangewezen autoriteiten
 
-De Gouverneur deelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties mede welke autoriteiten hij ingevolge [artikel 26, eerste lid, onder b](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), en [artikel 40, eerste lid, onder b, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) heeft aangewezen.
+De Gouverneur deelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties mede welke autoriteiten hij ingevolge artikel 26, eerste lid, onder b, en artikel 40, eerste lid, onder b, van de wet heeft aangewezen.
 
 ### Artikel  8  
 
 ####Verwijzing
 
-De autoriteit die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de autoriteit die ingevolge [de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en de artikelen 6 en 7 van deze regeling daartoe wel bevoegd is. 
+De autoriteit die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de autoriteit die ingevolge de wet en de artikelen 6 en 7 van deze regeling daartoe wel bevoegd is. 
 
 ### Hoofdstuk  II  
 
@@ -216,36 +216,36 @@ b. het door de aanvrager ter inzage overgelegde verblijfsdocument met vermelding
 
 ### Artikel  12  
 
-####Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 11](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en [13 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 11 en 13 van de wet
 
-1.  De vaststelling van de aanspraak op een reisdocument voor vluchtelingen als bedoeld in [artikel 11 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn toelating als vluchteling in Aruba, Curaçao of Sint Maarten en zijn nationaliteit blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.   
-2.  De vaststelling van de aanspraak op een reisdocument voor vreemdelingen als bedoeld in [artikel 13 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn toelating als staatloze in Aruba, Curaçao of Sint Maarten blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.  
+1.  De vaststelling van de aanspraak op een reisdocument voor vluchtelingen als bedoeld in artikel 11 van de wet geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn toelating als vluchteling in Aruba, Curaçao of Sint Maarten en zijn nationaliteit blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.   
+2.  De vaststelling van de aanspraak op een reisdocument voor vreemdelingen als bedoeld in artikel 13 van de wet geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn toelating als staatloze in Aruba, Curaçao of Sint Maarten blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.  
 
 ### Artikel  13  
 
-####Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 14 van de wet
 
-1.  Indien de aanvraag betrekking heeft op een reisdocument als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), worden in het aanvraag-informatieformulier naast de gegevens, bedoeld in artikel 11, nog de navolgende gegevens vermeld: 
+1.  Indien de aanvraag betrekking heeft op een reisdocument als bedoeld in artikel 14 van de wet, worden in het aanvraag-informatieformulier naast de gegevens, bedoeld in artikel 11, nog de navolgende gegevens vermeld: 
 
 a. de reden waarom de aanvrager geen reisdocument van een ander land kan verkrijgen, dan wel  
 
 b. de reden waarom van de aanvrager niet kan worden gevergd, dat hij een reisdocument van een ander land aanvraagt, dan wel  
 
 c. indien de aanvrager een verzoek om naturalisatie tot Nederlander heeft ingediend, op welke datum dit is geschied, in welk stadium de procedure zich bevindt en wat het daarop betrekking hebbende behandelingsnummer van het ministerie van Justitie is.    
-2.  De vaststelling van de aanspraak op een reisdocument voor vreemdelingen als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn rechtmatig verblijf in Aruba, Curaçao of Sint Maarten en zijn nationaliteit blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.  
+2.  De vaststelling van de aanspraak op een reisdocument voor vreemdelingen als bedoeld in artikel 14 van de wet geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn rechtmatig verblijf in Aruba, Curaçao of Sint Maarten en zijn nationaliteit blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.  
 
 ### Artikel  14  
 
-####Beslissing inzake de aanspraak op een reisdocument als bedoeld in de [artikelen 11](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [13](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Beslissing inzake de aanspraak op een reisdocument als bedoeld in de artikelen 11, 13 of 14 van de wet
 
 1.  Indien de in het formulier opgenomen gegevens afwijken van de gegevens die omtrent de aanvrager in zijn verblijfsdocument of in de vreemdelingenadministratie zijn opgenomen dan wel anderszins onzekerheid bestaat over deze gegevens, wordt daarnaar een gericht onderzoek ingesteld.   
 2.  De Gouverneur beslist op de aanvraag, gehoord het advies van de Minister van Buitenlandse Zaken.  
 
 ### Artikel  15  
 
-####Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 12 of artikel 15, tweede lid, van de wet
 
-1.  Indien de aanvraag betrekking heeft op een reisdocument als bedoeld in [artikel 12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), worden in het aanvraag-informatieformulier naast de gegevens, bedoeld in artikel 11, de navolgende gegevens vermeld: 
+1.  Indien de aanvraag betrekking heeft op een reisdocument als bedoeld in artikel 12 of 15, tweede lid, van de wet, worden in het aanvraag-informatieformulier naast de gegevens, bedoeld in artikel 11, de navolgende gegevens vermeld: 
 
 a. met welk doel de aanvrager zich buiten Aruba, Curaçao of Sint Maarten wenst te begeven;  
 
@@ -260,7 +260,7 @@ b. het land van bestemming of het andere deel van Nederland indien de aanvrager 
 
 ### Artikel  16  
 
-####Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 11](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [13](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [14](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 11, 12, 13, 14 of 15, tweede lid, van de wet
 
 Met betrekking tot een aanvraag voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen van een persoon die in het Europese of Caribische deel van Nederland rechtmatig verblijf heeft, zijn de artikelen 11 tot en met 15 van overeenkomstige toepassing, met dien verstande dat het aanvraag-informatieformulier met de bijlagen te allen tijde wordt doorgezonden aan de Minister van Buitenlandse Zaken, die de daarin vermelde verblijfsrechtelijke gegevens verifieert bij de Nederlandse Minister van Justitie in het Europese of Caribische deel van Nederland in wiens vreemdelingenadministratie de aanvrager is opgenomen. 
 
@@ -272,7 +272,7 @@ Met betrekking tot een aanvraag voor een reisdocument voor vluchtelingen of een 
 
 ####Laissez-passer voor vreemdelingen
 
-1.  De vaststelling van een aanspraak op verstrekking van een laissez-passer ingevolge [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt met gebruikmaking van het door de aanvrager overgelegde document waaruit diens rechtmatig verblijf in een der landen van het Koninkrijk en diens nationaliteit blijkt, alsmede aan de hand van de door de aanvrager bij de aanvraag verstrekte gegevens.   
+1.  De vaststelling van een aanspraak op verstrekking van een laissez-passer ingevolge artikel 15, tweede lid, van de wet geschiedt met gebruikmaking van het door de aanvrager overgelegde document waaruit diens rechtmatig verblijf in een der landen van het Koninkrijk en diens nationaliteit blijkt, alsmede aan de hand van de door de aanvrager bij de aanvraag verstrekte gegevens.   
 2.  In geval van twijfel aan de gegevens die in het overgelegde document zijn vermeld dan wel door de aanvrager zijn verstrekt, vindt verificatie daarvan plaats in de vreemdelingenadministratie waarin de aanvrager is opgenomen.   
 3.  Het aanvraag-informatieformulier met de bijlagen, genoemd in artikel 15, tweede lid, wordt doorgezonden aan de Minister van Buitenlandse Zaken.   
 4.  De verstrekking van een laissez-passer ten behoeve van een in het eerste lid bedoelde persoon vindt slechts plaats na machtiging van de Minister van Buitenlandse Zaken.  
@@ -283,20 +283,20 @@ Met betrekking tot een aanvraag voor een reisdocument voor vluchtelingen of een 
 
 ### Artikel  18  
 
-1.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel over een toelating als vluchteling in Aruba, Curaçao of Sint Maarten, is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
-2.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of als bedoeld in [artikel 12a van de Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), dan wel over een overeenkomstige verblijfsvergunning in Aruba, Curaçao of Sint Maarten, is geldig: 
+1.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de Vreemdelingenwet 2000, dan wel over een toelating als vluchteling in Aruba, Curaçao of Sint Maarten, is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
+2.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000, of als bedoeld in artikel 12a van de Wet toelating en uitzetting BES, dan wel over een overeenkomstige verblijfsvergunning in Aruba, Curaçao of Sint Maarten, is geldig: 
 
 a. tot de datum waarop de geldigheidsduur van de verblijfsvergunning eindigt, met een minimale geldigheidsduur van een jaar en een maximale geldigheidsduur van drie jaren, en  
 
 b. voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.    
-3.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of als bedoeld in de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), dan wel over een overeenkomstige verblijfsvergunning in Aruba, Curaçao of Sint Maarten, is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
-4.  Een reisdocument voor vreemdelingen als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of als bedoeld in de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), dan wel over een overeenkomstige verblijfsvergunning in Aruba, Curaçao of Sint Maarten, is geldig: 
+3.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20 van de Vreemdelingenwet 2000, of als bedoeld in de Wet toelating en uitzetting BES, dan wel over een overeenkomstige verblijfsvergunning in Aruba, Curaçao of Sint Maarten, is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
+4.  Een reisdocument voor vreemdelingen als bedoeld in artikel 14 van de wet, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, of als bedoeld in de Wet toelating en uitzetting BES, dan wel over een overeenkomstige verblijfsvergunning in Aruba, Curaçao of Sint Maarten, is geldig: 
 
 a. tot de datum waarop de geldigheidsduur van de verblijfsvergunning eindigt, met een maximale geldigheidsduur van vijf jaren, en  
 
 b. voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.    
-5.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld, is geldig voor vijf jaren en voor alle landen.   
-6.  Een reisdocument voor vreemdelingen dan wel een nooddocument als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), is geldig: 
+5.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld, is geldig voor vijf jaren en voor alle landen.   
+6.  Een reisdocument voor vreemdelingen dan wel een nooddocument als bedoeld in artikel 15, tweede lid, van de wet, is geldig: 
 
 a. voor het land van bestemming en de landen waarvan de houder op zijn doorreis de grens passeert, met uitzondering van het land waarvan de houder de nationaliteit bezit;  
 
@@ -311,7 +311,7 @@ b. voor de duur van de reis, waarbij rekening wordt gehouden met de door het lan
 
 ####Aanspraken
 
-1.  Aan een staatloze persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld, wordt op zijn verzoek binnen de grenzen bij de wet bepaald een faciliteitenpaspoort verstrekt.   
+1.  Aan een staatloze persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld, wordt op zijn verzoek binnen de grenzen bij de wet bepaald een faciliteitenpaspoort verstrekt.   
 2.  Artikel 9 is van overeenkomstige toepassing.  
 
 ### Artikel  20  
@@ -329,7 +329,7 @@ b. voor de duur van de reis, waarbij rekening wordt gehouden met de door het lan
 
 ####Aanspraken
 
-1.  Ingevolge [artikel 30, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) kan een tweede paspoort worden verstrekt op verzoek van houders van een nationaal paspoort, die aantonen dat zij voor zakelijke of beroepsmatige redenen: 
+1.  Ingevolge artikel 30, eerste lid, van de wet kan een tweede paspoort worden verstrekt op verzoek van houders van een nationaal paspoort, die aantonen dat zij voor zakelijke of beroepsmatige redenen: 
 
 a. in een reis achtereenvolgens verschillende landen moeten bezoeken waarbij zij de gerede kans lopen dat hun toelating tot een land op problemen zal stuiten, omdat uit het daartoe over te leggen nationaal paspoort blijkt dat zij eerder in een ander land zijn geweest, dan wel  
 
@@ -352,15 +352,15 @@ b. regelmatig dringend moeten reizen op een tijdstip dat hun nationaal paspoort 
 
 ### Artikel  23  
 
-####Nooddocumenten voor Nederlanders als bedoeld in [artikel 16, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Nooddocumenten voor Nederlanders als bedoeld in artikel 16, eerste lid, van de wet
 
-1.  Op het vaststellen van de aanspraak van een Nederlander dan wel een persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld, op een door de Gouverneur te verstrekken nooddocument zijn de artikelen 9 en 19 zoveel mogelijk van overeenkomstige toepassing.   
+1.  Op het vaststellen van de aanspraak van een Nederlander dan wel een persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld, op een door de Gouverneur te verstrekken nooddocument zijn de artikelen 9 en 19 zoveel mogelijk van overeenkomstige toepassing.   
 2.  Aan een in het eerste lid bedoelde persoon, die aanspraak heeft op verstrekking van een nooddocument, wordt een noodpaspoort verstrekt.   
 3.  In afwijking van het tweede lid wordt aan een in het eerste lid bedoelde persoon door de Gouverneur een laissez-passer verstrekt, indien bij de verstrekking geen gebruik kan worden gemaakt van het reisdocumentenstation en de reis van de betrokken aanvrager geen uitstel gedoogt.  
 
 ### Artikel  24  
 
-####Nooddocumenten voor niet-Nederlanders als bedoeld in [artikel 16, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Nooddocumenten voor niet-Nederlanders als bedoeld in artikel 16, eerste lid, van de wet
 
 1.  Op het vaststellen van de aanspraak van een vreemdeling op een nooddocument zijn de artikelen 12 en 13, tweede lid, zoveel mogelijk van overeenkomstige toepassing.   
 2.  De in de aanvraag vermelde verblijfsrechtelijke gegevens worden geverifieerd in de vreemdelingenadministratie waarin de aanvrager is opgenomen.   
@@ -451,7 +451,7 @@ a. over de aanvrager in de basisadministratie zijn opgenomen, indien de aanvraag
 b. door de aanvrager bij de aanvraag zijn verstrekt.    
 2.  Indien de aanvrager niet in staat is een eerder uitgereikt Nederlands reisdocument over te leggen, de in het overgelegde reisdocument vermelde gegevens afwijken van de gegevens die over de aanvrager in de basisadministratie zijn opgenomen, dan wel anderszins onvoldoende zekerheid bestaat over de identiteit van de aanvrager, worden de in de reisdocumentenadministratie opgenomen gegevens behorende bij het eerder aan betrokkene uitgereikte reisdocument, niet zijnde een nooddocument, geraadpleegd. Tevens worden in dat geval nadere identificerende vragen gesteld.   
 3.  Berusten de in het tweede lid bedoelde gegevens bij een andere autoriteit, dan wordt deze verzocht om kosteloze verstrekking van een afschrift van de gevraagde gegevens uit de reisdocumentenadministratie. In de aanvraag wordt vermeld bij welke autoriteit de gegevens zijn opgevraagd.   
-4.  In afwijking van het tweede en het derde lid kan bij vermissing van een eerder uitgereikt reisdocument het raadplegen van de gegevens uit de reisdocumentenadministratie achterwege blijven, indien de identiteit van de aanvrager met voldoende zekerheid kan worden vastgesteld aan de hand van een ander op grond van [artikel 30 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) aan de aanvrager uitgereikt geldig reisdocument.   
+4.  In afwijking van het tweede en het derde lid kan bij vermissing van een eerder uitgereikt reisdocument het raadplegen van de gegevens uit de reisdocumentenadministratie achterwege blijven, indien de identiteit van de aanvrager met voldoende zekerheid kan worden vastgesteld aan de hand van een ander op grond van artikel 30 van de wet aan de aanvrager uitgereikt geldig reisdocument.   
 5.  De aanvrager aan wie niet eerder een Nederlands reisdocument is verstrekt, dient bij zijn aanvraag andere identiteitsdocumenten die voorzien zijn van zijn foto en handtekening over te leggen. Indien hij dergelijke documenten niet kan overleggen of ondanks overlegging van deze documenten twijfel blijft bestaan over zijn identiteit, wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de identiteit met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, en eventuele andere bewijsstukken.   
 6.  In de aanvraag wordt vermeld dat de identiteit van de aanvrager is vastgesteld en met welke documenten of andere bewijsstukken de identiteitsvaststelling heeft plaatsgevonden.  
 
@@ -505,8 +505,8 @@ In de aanvraag voor een reisdocument, niet zijnde een nooddocument, worden teven
 ####Vermist of ingenomen reisdocument bij aanvraag
 
 1.  Indien een eerder uitgereikt Nederlands reisdocument is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, in de aanvraag vermeld. Indien deze gegevens op het moment van de aanvraag niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.   
-2.  De ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde gewaarmerkte kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
-3.  De daartoe aangewezen ambtenaar maakt een kopie van de door de aanvrager over te leggen schriftelijke verklaring omtrent de inname van zijn reisdocument als bedoeld in [artikel 31, vierde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+2.  De ingevolge artikel 31, eerste lid, van de wet door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in artikel 31, tweede lid, van de wet genoemde gewaarmerkte kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
+3.  De daartoe aangewezen ambtenaar maakt een kopie van de door de aanvrager over te leggen schriftelijke verklaring omtrent de inname van zijn reisdocument als bedoeld in artikel 31, vierde lid, van de wet.   
 4.  De schriftelijke verklaring omtrent de vermissing en de bijgevoegde gewaarmerkte kopie van het proces-verbaal van de politie dan wel de kopie van de schriftelijke verklaring omtrent de inname worden bewaard in de reisdocumentenadministratie.   
 5.  De datum waarop de schriftelijke verklaring omtrent de vermissing wordt afgelegd dan wel de schriftelijke verklaring omtrent de inname wordt overgelegd, alsmede het nummer van het procesverbaal van de politie, bedoeld in het tweede lid, worden in de aanvraag vermeld.   
 6.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen wordt, indien de aanvraag wordt gedaan bij een aangewezen autoriteit als bedoeld in artikel 7, dit gegeven terstond opgenomen in de basisadministratie van deze autoriteit.  
@@ -541,7 +541,7 @@ Indien de persoon aan wie het aangevraagde reisdocument moet worden verstrekt do
 
 ####Verschijning van de aanvrager in persoon
 
-Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet persoonlijk bij het indienen van de aanvraag is verschenen, wordt dit gegeven met de reden daarvan in de aanvraag vermeld. 
+Indien de aanvrager ingevolge artikel 28, derde lid, van de wet niet persoonlijk bij het indienen van de aanvraag is verschenen, wordt dit gegeven met de reden daarvan in de aanvraag vermeld. 
 
 ### § 2  
 
@@ -551,7 +551,7 @@ Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../..
 
 ####Overleggen verklaring van toestemming
 
-1.  De verklaring van toestemming als bedoeld in de [artikelen 34 tot en met 37 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) dient schriftelijk te worden overgelegd.   
+1.  De verklaring van toestemming als bedoeld in de artikelen 34 tot en met 37 van de wet dient schriftelijk te worden overgelegd.   
 2.  In de verklaring van toestemming worden tevens de naam en de handtekening vermeld van degene die de aanvraag ten behoeve van een handelingsonbekwame indient.   
 3.  Indien gebruik wordt gemaakt van het aanvraag-informatieformulier, bedoeld in artikel 33, kan voor het overleggen van de verklaring van toestemming worden volstaan met het (mede) ondertekenen van dat formulier door de degenen die het gezag over de minderjarige uitoefenen.   
 4.  In de aanvraag wordt melding gemaakt van de overlegging van de betreffende verklaring van toestemming.  
@@ -574,7 +574,7 @@ Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../..
 1.  De daartoe aangewezen ambtenaar vergelijkt, behoudens in het in artikel 42 bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto op de bestemde plaats in het foto- en handtekeningformulier aan.   
 2.  De in het eerste lid bedoelde ambtenaar ziet, behoudens in het in artikel 41 bedoelde geval, er op toe dat in het foto- en handtekeningformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan. In de gevallen dat gebruik wordt gemaakt van een aanvraag-informatieformulier, wordt dit formulier door de aanvrager ondertekend.   
 3.  Het foto- en handtekeningformulier wordt door de in het eerste lid bedoelde ambtenaar met gebruikmaking van het aanvraagstation gedigitaliseerd.   
-4.  Het opnemen van de vingerafdrukken als bedoeld in artikel 40a, geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.  
+4.  Het opnemen van de vingerafdrukken als bedoeld in artikel 40a, geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van artikel 28, derde lid, van de wet niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.  
 
 ### § 4  
 
@@ -639,7 +639,7 @@ De daartoe aangewezen ambtenaar zendt nadat is vastgesteld dat het aangevraagde 
 
 ####In ontvangstneming van de geleverde documenten
 
-1.  De gepersonaliseerde reisdocumenten en identificatiekaarten die bestemd zijn voor Aruba, Curaçao en Sint Maarten, worden in Nederland bij het ministerie van Buitenlandse Zaken afgeleverd. De [artikelen 57 tot en met 60 van de Paspoortuitvoeringsregeling Buitenland 2001](../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/buitenland/2001/BWBR0012810/README.md) zijn van overeenkomstige toepassing.   
+1.  De gepersonaliseerde reisdocumenten en identificatiekaarten die bestemd zijn voor Aruba, Curaçao en Sint Maarten, worden in Nederland bij het ministerie van Buitenlandse Zaken afgeleverd. De artikelen 57 tot en met 60 van de Paspoortuitvoeringsregeling Buitenland 2001 zijn van overeenkomstige toepassing.   
 2.  De in het eerste lid bedoelde documenten worden door de transporteur afgeleverd bij de uitgiftelocatie in Aruba, Curaçao of Sint Maarten.   
 3.  Op de uitgiftelocatie worden de in het eerste lid bedoelde documenten in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in artikel 91, eerste lid, die zich legitimeert met een geldig identiteitsdocument.   
 4.  De aflevering van de zending vindt plaats op het voor de desbetreffende uitgiftelocatie afgesproken tijdstip.   
@@ -695,7 +695,7 @@ Reisdocumenten die bij de controle van de zending in het reisdocumentenstation d
 
 ####Algemeen
 
-Tot uitreiking van het aangevraagde reisdocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld, tenzij [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van toepassing is. 
+Tot uitreiking van het aangevraagde reisdocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld, tenzij artikel 28, derde lid, van de wet van toepassing is. 
 
 ### Artikel  62a  
 
@@ -714,7 +714,7 @@ Tot uitreiking van het aangevraagde reisdocument wordt slechts overgegaan, nadat
 ### Artikel  65  
 
 1.  Indien de aanvrager bij de aanvraag die in ontvangst is genomen door de Gouverneur, aannemelijk heeft gemaakt dat van hem redelijkerwijs niet kan worden gevergd dat hij in persoon verschijnt bij de uitreiking, wordt het reisdocument per aangetekende post aan hem toegezonden.  
-2.  De inlevering van de Nederlandse reisdocumenten als bedoeld in [artikel 32 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt in dat geval door deze reisdocumenten per aangetekende post toe te sturen aan de in het eerste lid bedoelde autoriteit.  
+2.  De inlevering van de Nederlandse reisdocumenten als bedoeld in artikel 32 van de wet geschiedt in dat geval door deze reisdocumenten per aangetekende post toe te sturen aan de in het eerste lid bedoelde autoriteit.  
 3.  Tot toezending van het uit te reiken reisdocument wordt niet overgegaan dan na ontvangst van de ingevolge het tweede lid toegestuurde reisdocumenten.  
 
 ### Artikel  66  
@@ -747,17 +747,17 @@ Dit hoofdstuk is niet van toepassing op Nederlandse identiteitskaarten.
 
 ####Informatie over de gesignaleerde persoon
 
-1.  De autoriteit die een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon die blijkens de in artikel 5 bedoelde administratie in het register paspoortsignaleringen is opgenomen, verzoekt ingevolge [artikel 44, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bij brief of per faxbericht aan de Gouverneur hem mede te delen of zulks nog steeds het geval is.   
+1.  De autoriteit die een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon die blijkens de in artikel 5 bedoelde administratie in het register paspoortsignaleringen is opgenomen, verzoekt ingevolge artikel 44, tweede lid, van de wet bij brief of per faxbericht aan de Gouverneur hem mede te delen of zulks nog steeds het geval is.   
 2.  De Gouverneur verzoekt, hetzij na ontvangst van de in het eerste lid bedoelde mededeling, hetzij indien hij zelf een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een in het eerste lid bedoelde persoon, terstond bij brief of per faxbericht aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties hem mede te delen of de desbetreffende persoon nog steeds in het register paspoortsignaleringen is opgenomen.   
 3.  In afwijking van het eerste lid kan in spoedgevallen een verzoek als bedoeld in het eerste of tweede lid ook met gebruikmaking van andere communicatiemiddelen worden gedaan, mits het daarna bij brief of per faxbericht wordt bevestigd.   
-4.  De aangewezen autoriteit, bedoeld in artikel 7, die ingevolge [artikel 44, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet daartoe op de in het eerste en derde lid voorgeschreven wijze een verzoek aan de Gouverneur. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.   
+4.  De aangewezen autoriteit, bedoeld in artikel 7, die ingevolge artikel 44, derde lid, van de wet de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet daartoe op de in het eerste en derde lid voorgeschreven wijze een verzoek aan de Gouverneur. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.   
 5.  De Gouverneur verzoekt, hetzij na ontvangst van het in het vierde lid bedoelde verzoek, hetzij indien hij zelf een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een in het eerste lid bedoelde persoon, op de in het eerste en derde lid voorgeschreven wijze aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties om toezending van de in het register paspoortsignaleringen opgenomen gegevens van de betrokken persoon. Dit verzoek kan ook tegelijkertijd met het in het tweede lid bedoelde verzoek worden gedaan.  
 
 ### Artikel  70  
 
-####Kennisgeving van de beslissing op grond van [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Kennisgeving van de beslissing op grond van artikel 45, tweede lid, van de wet
 
-De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, geeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). 
+De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, geeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in artikel 45, tweede lid, van de wet. 
 
 ### Hoofdstuk VII  
 
@@ -771,9 +771,9 @@ De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, 
 
 ####Vermist of ingenomen reisdocument anders dan bij aanvraag of uitreiking
 
-1.  Indien de houder van een uitgereikt reisdocument aan de Gouverneur, dan wel de aangewezen autoriteit, bedoeld in artikel 7, waar hij als ingezetene in de basisadministratie is ingeschreven buiten de gevallen, bedoeld in de artikelen 39 en 63, mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) af te loggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
+1.  Indien de houder van een uitgereikt reisdocument aan de Gouverneur, dan wel de aangewezen autoriteit, bedoeld in artikel 7, waar hij als ingezetene in de basisadministratie is ingeschreven buiten de gevallen, bedoeld in de artikelen 39 en 63, mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge artikel 31, eerste lid, van de wet af te loggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in artikel 31, tweede lid, van de wet genoemde kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
 2.  De schriftelijke verklaring omtrent de vermissing en de bijgevoegde kopie van het proces-verbaal van de politie dan wel de overgelegde kopie van de schriftelijke verklaring die omtrent de inname is overgelegd, worden bewaard in de reisdocumentenadministratie waar de in het eerste lid bedoelde mededeling is gedaan.   
-3.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge [de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door een daartoe bevoegde autoriteit is ingenomen, wordt, indien de mededeling wordt gedaan bij een aangewezen autoriteit als bedoeld in artikel 7 door een persoon die als ingezetene in de basisadministratie van deze autoriteit is ingeschreven, dit gegeven terstond daarin opgenomen.  
+3.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt, indien de mededeling wordt gedaan bij een aangewezen autoriteit als bedoeld in artikel 7 door een persoon die als ingezetene in de basisadministratie van deze autoriteit is ingeschreven, dit gegeven terstond daarin opgenomen.  
 
 ### Artikel  72  
 
@@ -789,7 +789,7 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 ####Reisdocumenten van gesignaleerde personen
 
-1.  De autoriteit die een reisdocument heeft ingehouden dan wel bij wie een reisdocument is ingeleverd van een houder, die in verband met het bepaalde in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) in het register paspoortsignaleringen is opgenomen en ten aanzien van wie hij niet bevoegd is tot vervallenverklaring, zendt dit reisdocument per aangetekende post dan wel op een andere verantwoorde wijze, met vermelding van de reden van doorzending, terstond door aan de daartoe wel bevoegde autoriteit.   
+1.  De autoriteit die een reisdocument heeft ingehouden dan wel bij wie een reisdocument is ingeleverd van een houder, die in verband met het bepaalde in de artikelen 18 tot en met 24 van de wet in het register paspoortsignaleringen is opgenomen en ten aanzien van wie hij niet bevoegd is tot vervallenverklaring, zendt dit reisdocument per aangetekende post dan wel op een andere verantwoorde wijze, met vermelding van de reden van doorzending, terstond door aan de daartoe wel bevoegde autoriteit.   
 2.  De autoriteit aan wie een reisdocument ten onrechte is doorgezonden, draagt er zorg voor dat het reisdocument alsnog op de in het eerste lid bedoelde wijze aan de tot vervallenverklaring bevoegde autoriteit wordt toegezonden.  
 
 ### Artikel  74  
@@ -810,10 +810,10 @@ b. de autoriteit die het desbetreffende reisdocument heeft verstrekt, in alle an
 
 ### Artikel  75  
 
-1.  De aangewezen autoriteit, bedoeld in artikel 7, deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) de Gouverneur de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.   
+1.  De aangewezen autoriteit, bedoeld in artikel 7, deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van artikel 47, derde lid, van de wet de Gouverneur de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.   
 2.  De autoriteit die het in het eerste lid bedoelde reisdocument heeft ingehouden, dan wel bij wie het desbetreffende reisdocument is ingeleverd, deelt met het oog op de verwijdering van de in het eerste lid bedoelde vermelding uit het register paspoortsignaleringen de Gouverneur zulks terstond mede.  
 3.  De in het eerste en tweede lid bedoelde mededeling geschiedt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.  
-4.  Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.  
+4.  Van het van rechtswege vervallen van een reisdocument ingevolge artikel 47, eerste lid, onder a, b, c, e, f of h van de wet wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.  
 
 ### §  4  
 
@@ -835,23 +835,23 @@ De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, 
 
 ####Redenen en wijze van onttrekking
 
-1.  De Gouverneur onttrekt een nationaal paspoort, een Nederlandse identiteitskaart, een faciliteitenpaspoort, een tweede paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen of een op grond van [artikel 16, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) verstrekt nooddocument en de aangewezen autoriteit, bedoeld in artikel 7, onttrekt een nationaal paspoort, terstond definitief aan het verkeer, indien: 
+1.  De Gouverneur onttrekt een nationaal paspoort, een Nederlandse identiteitskaart, een faciliteitenpaspoort, een tweede paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen of een op grond van artikel 16, eerste lid, van de wet verstrekt nooddocument en de aangewezen autoriteit, bedoeld in artikel 7, onttrekt een nationaal paspoort, terstond definitief aan het verkeer, indien: 
 
 a. het niet binnen drie maanden, nadat het voor uitreiking beschikbaar is gesteld, door de aanvrager in ontvangst is genomen;  
 
 b. het daartoe, al dan niet bij de uitreiking van een nieuw reisdocument, is ingeleverd;  
 
-c. het vervallen is verklaard dan wel ingevolge [artikel 54, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;  
+c. het vervallen is verklaard dan wel ingevolge artikel 54, eerste lid, van de wet is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;  
 
 d. het na uitreiking als onbruikbaar is beschouwd ten gevolge van misdruk of verkeerde personalisatie en dientengevolge is ingehouden of ingeleverd;  
 
-e. het als gevonden reisdocument is ontvangen, tenzij hij in de gelegenheid is om het in persoon terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) heeft afgelegd.     
+e. het als gevonden reisdocument is ontvangen, tenzij hij in de gelegenheid is om het in persoon terug te geven aan de houder, die nog geen verklaring als bedoeld in artikel 31 van de wet heeft afgelegd.     
 2.  Het reisdocument wordt definitief aan het verkeer onttrokken door het deugdelijk te vernietigen, dan wel het geheel of gedeeltelijk onbruikbaar gemaakt aan de houder terug te geven ingevolge het derde lid. De vernietiging geschiedt door het reisdocument op gecontroleerde wijze te verbranden of te versnipperen, zodat reconstructie van het reisdocument niet meer mogelijk is.   
 3.  Op verzoek van de houder wordt diens nationaal paspoort, Nederlandse identiteitskaart, faciliteitenpaspoort, tweede paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, na inlevering, onbruikbaar gemaakt aan hem teruggegeven.  
 4.  Het onbruikbaar maken geschiedt door het aanbrengen van drie ponsgaten (elk van ten minste 12 mm) door het gehele reisdocument op zodanige wijze dat het in het reisdocument aangebrachte kinegram gedeeltelijk en de aangebrachte chip geheel onbruikbaar worden gemaakt.   
 5.  Indien het ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in artikel 38, derde lid, worden de desbetreffende bladzijden en het documentnummer intact gelaten.   
 6.  In afwijking van het tweede lid wordt een reisdocument, dat ingevolge het eerste lid, onder d, tengevolge van misdruk of verkeerde personalisatie is ingehouden of ingeleverd, definitief aan het verkeer onttrokken door het, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, terug te sturen aan de leverancier.  
-7.  De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is ingehouden, dan wel artikel 112, tweede lid, of artikel 113, tweede lid, van toepassing is.  
+7.  De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van artikel 47, eerste lid, onder a, b, c, g of h, van de wet van rechtswege is vervallen, op grond van 54, eerste lid, onder b, c en e, van de wet is ingehouden, dan wel artikel 112, tweede lid, of artikel 113, tweede lid, van toepassing is.  
 
 ### Artikel  78  
 
@@ -898,7 +898,7 @@ b. door toezending van het daartoe door de Minister van Binnenlandse Zaken en Ko
 1.  Van elk verstrekt reisdocument wordt een administratie bijgehouden.   
 2.  De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de artikelen 51, 52 en 66 opgenomen gegevens betreft.   
 3.  De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de reisdocumentenadministratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.  
-4. De in de reisdocumentenadministratie opgenomen gegevens, met uitzondering van de gegevens, bedoeld in [artikel 3, negende lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) worden na de datum van verstrekking bewaard gedurende een periode van: 
+4. De in de reisdocumentenadministratie opgenomen gegevens, met uitzondering van de gegevens, bedoeld in artikel 3, negende lid, van de wet worden na de datum van verstrekking bewaard gedurende een periode van: 
 
 a. 11 jaar indien de geldigheidsduur van het verstrekte document 5 jaar of korter is of indien het verstrekte document niet wordt uitgereikt;  
 
@@ -908,25 +908,25 @@ b. 16 jaar indien de geldigheidsduur van het verstrekte document langer dan 5 ja
 
 ####Verstrekking van gegevens
 
-Onverminderd het bepaalde in [artikel 3, negende lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), wordt de verstrekking van gegevens uit de in artikel 83 bedoelde reisdocumentenadministratie uitsluitend toegestaan aan: 
+Onverminderd het bepaalde in artikel 3, negende lid, van de wet, wordt de verstrekking van gegevens uit de in artikel 83 bedoelde reisdocumentenadministratie uitsluitend toegestaan aan: 
 
 a. degenen die bij of krachtens de wet belast zijn met de uitvoering daarvan, voor zover die gegevens noodzakelijk zijn voor het verrichten van werkzaamheden met betrekking tot reisdocumenten;  
 
 b. de ambtenaren, werkzaam bij het ministerie van Buitenlandse Zaken, een Nederlandse consulaire vertegenwoordiging in het buitenland onderscheidenlijk het Kabinet van de Gouverneur van Aruba, Curaçao of Sint Maarten, voor zover die gegevens noodzakelijk zijn voor consulaire handelingen waarbij de identiteit van de betrokken persoon moet worden vastgesteld;  
 
-c. de opsporingsambtenaren bedoeld in [artikel 141](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [142 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in het Europese deel van Nederland en [artikel 184](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en [185 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), dan wel de opsporingsambtenaren bedoeld in de overeenkomstige regelingen in Aruba, Curaçao of Sint Maarten, voor zover die gegevens noodzakelijk zijn voor de opsporing van strafbare feiten in het kader van het onderzoek waarbij zij zijn betrokken of voor zover die noodzakelijk zijn voor de identificatie van slachtoffers;  
+c. de opsporingsambtenaren bedoeld in artikel 141 en 142 van het Wetboek van Strafvordering in het Europese deel van Nederland en artikel 184 en 185 van het Wetboek van Strafvordering BES, dan wel de opsporingsambtenaren bedoeld in de overeenkomstige regelingen in Aruba, Curaçao of Sint Maarten, voor zover die gegevens noodzakelijk zijn voor de opsporing van strafbare feiten in het kader van het onderzoek waarbij zij zijn betrokken of voor zover die noodzakelijk zijn voor de identificatie van slachtoffers;  
 
 d. de ambtenaren van het Openbaar Ministerie in Nederland, Aruba, Curaçao of Sint Maarten, voor zover die gegevens noodzakelijk zijn voor de uitoefening van de hun opgedragen werkzaamheden;  
 
-e. de ambtenaren werkzaam bij de autoriteiten, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), voor zover die gegevens noodzakelijk zijn voor het verzoek tot weigering of vervallenverklaring en de daarmee verband houdende vermelding van deze gegevens in het register paspoortsignaleringen als bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+e. de ambtenaren werkzaam bij de autoriteiten, bedoeld in de artikelen 18 tot en met 24 van de wet, voor zover die gegevens noodzakelijk zijn voor het verzoek tot weigering of vervallenverklaring en de daarmee verband houdende vermelding van deze gegevens in het register paspoortsignaleringen als bedoeld in artikel 25, derde lid, van de wet;  
 
-f. de ambtenaren werkzaam bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden in verband met de verwerking van gegevens in het basisregister reisdocumenten, in verband met de uitoefening van hun taak als bedoeld in [artikel 58 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), alsmede in verband met onderzoek naar onregelmatigheden met reisdocumenten;  
+f. de ambtenaren werkzaam bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden in verband met de verwerking van gegevens in het basisregister reisdocumenten, in verband met de uitoefening van hun taak als bedoeld in artikel 58 van de wet, alsmede in verband met onderzoek naar onregelmatigheden met reisdocumenten;  
 
 g. degene die in opdracht van de Minister van Binnenlandse Zaken onderscheidenlijk de Gouverneur belast is met de controle op de uitvoering van de bij of krachtens de wet gestelde regels, de toepassing van de beveiligingsmaatregelen of de werking van het aanvraagsysteem reisdocumenten, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden;  
 
 h. de houder, beheerder, bewerker en degene die belast is met de invoer, wijziging, of verwijdering van gegevens, voor zover die gegevens, de rechtstreekse toegang daaronder begrepen, noodzakelijk zijn voor de uitoefening van de hun in verband daarmee opgedragen werkzaamheden; 
 
-ide ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst, voor zover die gegevens noodzakelijk zijn voor de uitvoering van hun taken als bedoeld in [artikel 6, tweede lid](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), en [artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md). 
+ide ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst, voor zover die gegevens noodzakelijk zijn voor de uitvoering van hun taken als bedoeld in artikel 6, tweede lid, en artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002. 
 
 ### Artikel  87  
 
@@ -955,7 +955,7 @@ c. de definitieve onttrekking aan het verkeer van een reisdocument, waarbij geen
 
 ####Aanwijzing en registratie algemeen
 
-1.  De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, of de door hem daartoe aangewezen ambtenaar wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens [de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) zijn voorgeschreven.   
+1.  De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, of de door hem daartoe aangewezen ambtenaar wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens de wet zijn voorgeschreven.   
 2.  De in het eerste lid bedoelde aanwijzing van personen, alsmede de registratie van hun bevoegdheden geschiedt met inachtneming van de functionele beschrijvingen met betrekking tot het aanvraagsysteem reisdocumenten en overeenkomstig de beveiligingsprocedure, bedoeld in artikel 109.  
 
 ### Artikel  89  
@@ -1199,12 +1199,12 @@ d. de beveiliging van het aanvraagsysteem reisdocumenten, onder meer gericht op 
 2.  Vervallen.   
 3.  De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, wijst een beveiligingsfunctionaris aan die belast is met het beheer van en het toezicht op de naleving van de beveiligingsprocedure.   
 4.  Van de aanwijzing of de vervanging van de beveiligingsfunctionaris wordt terstond melding gedaan aan de Gouverneur.   
-5.  De functie van beveiligingsfunctionaris is niet verenigbaar met het verrichten van andere handelingen ter uitvoering van [de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+5.  De functie van beveiligingsfunctionaris is niet verenigbaar met het verrichten van andere handelingen ter uitvoering van de wet.   
 6.  De taken en verantwoordelijkheden van de beveiligingsfunctionaris worden vastgelegd in een functieomschrijving.   
 7.  De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, draagt er zorg voor dat de beveiligingsfunctionaris in staat wordt gesteld alle handelingen te verrichten die uit zijn taak voortvloeien.   
 8.  De beveiligingsfunctionaris is rechtstreeks verantwoording verschuldigd aan de Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7.   
 9.  De maatregelen bedoeld in het eerste tot en met het achtste lid maken deel uit van de reguliere accountantscontrole.   
-10.  De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, draagt er zorg voor, dat de bij de uitvoering van [de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) betrokken ambtenaren regelmatig worden geïnformeerd over ontvreemdingsrisico's en ten minste één maal per jaar worden geïnstrueerd met betrekking tot risicobeperkende afspraken en maatregelen terzake.  
+10.  De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in artikel 7, draagt er zorg voor, dat de bij de uitvoering van de wet betrokken ambtenaren regelmatig worden geïnformeerd over ontvreemdingsrisico's en ten minste één maal per jaar worden geïnstrueerd met betrekking tot risicobeperkende afspraken en maatregelen terzake.  
 
 ### Artikel  110  
 
@@ -1273,7 +1273,7 @@ e. de totale voorraad blanco nooddocumenten aan het einde van het kwartaal.
 
 ####Reviewrecht accountant
 
-Ten behoeve van de controle op de juistheid en volledigheid van de bedragen die terzake van de verschuldigde kosten als bedoeld in [artikel 7, eerste lid, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) aan het Rijk zijn afgedragen, is de aangewezen autoriteit, bedoeld in artikel 7, verplicht desgevraagd aan de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens [artikel 66 van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) daartoe aangewezen ambtenaren de voor deze controle benodigde informatie te verschaffen. Deze ambtenaren kunnen tevens informatie inwinnen bij de accountants die de in artikel 109, negende lid, bedoelde accountantscontrole hebben uitgevoerd. 
+Ten behoeve van de controle op de juistheid en volledigheid van de bedragen die terzake van de verschuldigde kosten als bedoeld in artikel 7, eerste lid, onder a, van de wet aan het Rijk zijn afgedragen, is de aangewezen autoriteit, bedoeld in artikel 7, verplicht desgevraagd aan de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens artikel 66 van de Comptabiliteitswet 2001 daartoe aangewezen ambtenaren de voor deze controle benodigde informatie te verschaffen. Deze ambtenaren kunnen tevens informatie inwinnen bij de accountants die de in artikel 109, negende lid, bedoelde accountantscontrole hebben uitgevoerd. 
 
 ### Hoofdstuk XIV  
 
@@ -1362,7 +1362,7 @@ V  Niet in staat tot ondertekening/Unable to sign/Incapable de signer
 
 VI  Wordt als Nederlander behandeld op grond van de Wet van/Treated as Netherlands citizen pursuant to Act of/Traité comme Néerlandais conf. Loi 9-9-1976, Stb. 468  
 
-VII   Dit paspoort is verstrekt op grond van [art. 30 van de Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) (tweede paspoort)  
+VII   Dit paspoort is verstrekt op grond van art. 30 van de Paspoortwet (tweede paspoort)  
 
 VIII   Houder dezes kan aan het bezit van dit reisdocument geen enkel recht op verblijf in Nederland ontlenen.  
 

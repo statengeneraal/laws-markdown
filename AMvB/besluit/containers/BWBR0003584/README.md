@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, m
 
 Overwegende dat het wenselijk is regelen te stellen ter uitvoering van de Internationale Overeenkomst voor Veilige Containers (*Trb.* 1976, 28, en 1982, 50);
 
-Gelet op [artikel 1, eerste lid, onder a](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 2](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 3](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), eerste en tweede lid, [artikel 6](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 12](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), derde lid, en [artikel 24 van de Wet op de gevaarlijke werktuigen](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) (*Stb.* 1952, 104);
+Gelet op artikel 1, eerste lid, onder a, artikel 2, artikel 3, eerste en tweede lid, artikel 6, artikel 12, derde lid, en artikel 24 van de Wet op de gevaarlijke werktuigen (*Stb.* 1952, 104);
 
 De Raad van State gehoord (advies van 25 februari 1983, nr. W12.83.0071/23.3.08);
 
@@ -30,7 +30,7 @@ c. maximale brutomassa: de maximaal toegestane massa van de container tezamen me
 
 d. wet: Warenwet  
 
-e. aangewezen instelling: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) met betrekking tot de keuring van containers aangewezen instelling.   
+e. aangewezen instelling: een krachtens artikel 7a van de wet met betrekking tot de keuring van containers aangewezen instelling.   
 
 ### Artikel  1a  
 
@@ -259,7 +259,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ###Artikel 16 
 
-Dit besluit berust op de [artikelen 1](../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11](../../../../wet/warenwet/BWBR0001969/README.md), [11a](../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md). 
+Dit besluit berust op de artikelen 1, 3 tot en met 11, 11a, 13, 14, 16 en 32b, eerste lid, van de wet. 
 
 ### Artikel  17  
 

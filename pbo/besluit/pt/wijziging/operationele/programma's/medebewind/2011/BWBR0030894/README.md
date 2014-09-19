@@ -3,7 +3,7 @@
 ##Besluit van de voorzitter van het Productschap Tuinbouw van 22 november 2011 tot vaststelling van voorwaarden aan wijzigingen van operationele programma’s voor telersverenigingen
 
 De voorzitter van het Productschap Tuinbouw;  
-Gelet op [artikel 10 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md);
+Gelet op artikel 10 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010;
 BESLUIT:    
 ###§ 1 
 
@@ -11,12 +11,12 @@ BESLUIT:
 
 ###Artikel 1 
 
-Dit besluit neemt de definities van [Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md) over en verstaat voorts onder: 
+Dit besluit neemt de definities van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010 over en verstaat voorts onder: 
 
 | --- | --- |
 |:---|:---|
 |a. doel: |een in een operationeel programma op te nemen doel of doelstelling als bedoeld in artikel 103, quater, lid 1, of artikel 122 onder c van Verordening (EG) Nr. 1234/2007; |
-|b. (sub)activiteit: |de door het productschap vastgestelde nadere uitsplitsing van de maatregelen, genoemd in de circulaires GMO-008 2010 en GMO- 014 2011, die als bijlage bij het [Besluit PT subsidiabiliteit en forfaitaire standaardtarieven medebewind 2011](../../../../../../../../../pbo/besluit/pt/subsidiabiliteit/en/forfaitaire/standaardtarieven/medebewind/etc/BWBR0030706/README.md) zijn opgenomen; |
+|b. (sub)activiteit: |de door het productschap vastgestelde nadere uitsplitsing van de maatregelen, genoemd in de circulaires GMO-008 2010 en GMO- 014 2011, die als bijlage bij het Besluit PT subsidiabiliteit en forfaitaire standaardtarieven medebewind 2011 zijn opgenomen; |
 |c. actie |een specifieke (sub)activiteit of een specifiek instrument ter verwezenlijking van een bepaald in het operationele programma opgenomen doel; |
 |d. maatregel |één van de acties als bedoeld in artikel 19, lid 1 onder g van Verordening (EU) Nr. 543/2011. |
 

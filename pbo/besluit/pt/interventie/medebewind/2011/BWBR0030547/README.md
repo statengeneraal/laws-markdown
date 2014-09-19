@@ -11,7 +11,7 @@ de artikelen 84 en 85 van Uitvoeringsverordening (EU) Nr. 543/2011 van de Commis
 
  
 
-Gelet op [artikel 12 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md);
+Gelet op artikel 12 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010;
 Besluit:  
 ###Paragraaf  1  
 
@@ -19,7 +19,7 @@ Besluit:
 
 ###Artikel  1 
 
-Dit besluit neemt de definities van [Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010](../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2010/BWBR0029740/README.md) over en verstaat voorts onder:  
+Dit besluit neemt de definities van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2010 over en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|

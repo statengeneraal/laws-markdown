@@ -3,19 +3,19 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw d.d. 11 november 2009, houdende bepalingen omtrent de uitvoering van de Integrale GMO Verordening met betrekking tot groenten en fruit (Verordening PT GMO groenten en fruit 2009)
 
 Het bestuur van het Productschap Tuinbouw;  
-gelet op [artikel 23 van de Landbouwwet](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);
+gelet op artikel 23 van de Landbouwwet;
 
-gelet op [artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md);
+gelet op artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid;
 
-gelet op de [artikelen 96](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie;
 
 gelet op artikel 125 ter tweede lid, onderdeel b van Verordening (EG) nr 1234/2007 van de Raad van de Europese Unie van 22 oktober 2007, houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening), PbL 299;
 
 gelet op artikel 146 van Verordening (EG) nr 1580/2007 van de Commissie van de Europese Gemeenschappen van 21 december 2007, PbL 350;
 
-gelet op de [artikelen 4:46](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:48](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:49 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+gelet op de artikelen 4:46, 4:48 en 4:49 van de Algemene wet bestuursrecht;
 
-gelet op het [Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) d.d. 19 december 2003;
+gelet op het Instellingsbesluit Productschap Tuinbouw d.d. 19 december 2003;
 
 gehoord de Sectorcommissie voor groenten en fruit d.d. 24 februari 2009;
 Besluit:    
@@ -28,7 +28,7 @@ a.het bestuur: het bestuur van het: Productschap Tuinbouw
 
 b.het productschap: het Productschap Tuinbouw
 
-c.Awb: de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+c.Awb: de Algemene wet bestuursrecht,
 
 d.Verordening 1234/2007: Verordening (EG) 1234/2007 van de Raad van 22 oktober 2007,
 
@@ -74,14 +74,14 @@ w.minimum omzetvereiste en minimum ledenaantal: voor telersverenigingen die voor
 
 1. Deze verordening bevat bepalingen die het productschap toepast bij:
 
-a.het lager vaststellen van de subsidie op grond van [artikel 4:46, tweede lid Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+a.het lager vaststellen van de subsidie op grond van artikel 4:46, tweede lid Awb,
 
-b.het intrekken of ten nadele van de telersvereniging wijzigen van de subsidieverlening op grond van [artikel 4:48, eerste lid Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+b.het intrekken of ten nadele van de telersvereniging wijzigen van de subsidieverlening op grond van artikel 4:48, eerste lid Awb,
 
-c.het intrekken of ten nadele van de telersvereniging wijzigen van de subsidievaststelling op grond van [artikel 4:49, eerste lid Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) indien subsidieverplichtingen die in het kader van Verordening 1234/2007 en Verordening 1580/2007 door het productschap in de uitvoering van Medebewindstaken zijn opgelegd, niet zijn nageleefd. 
+c.het intrekken of ten nadele van de telersvereniging wijzigen van de subsidievaststelling op grond van artikel 4:49, eerste lid Awb indien subsidieverplichtingen die in het kader van Verordening 1234/2007 en Verordening 1580/2007 door het productschap in de uitvoering van Medebewindstaken zijn opgelegd, niet zijn nageleefd. 
 2. De bepalingen, bedoeld in het eerste lid, zijn niet van toepassing voor zover op de gevolgen van het niet naleven van een subsidieverplichting, als bedoeld in het eerste lid voor de subsidie, de subsidieverlening of de subsidievaststelling:
 
-a.andere wet- of regelgeving dan de [Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bij uitsluiting van toepassing is of,
+a.andere wet- of regelgeving dan de Awb bij uitsluiting van toepassing is of,
 
 b.er strijdigheid bestaat met regels van nationaal of Europees recht.
 
@@ -135,7 +135,7 @@ Bij samenloop van diverse subsidieverlagende factoren als in deze verordening be
 
 1.Deze verordening treedt in werking met ingang van de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009.
 
-2.De [Verordening PT registratie en erkenning telersverenigingen groenten en fruit 2001](../../../../../../../../../pbo/verordening/pt/registratie/en/erkenning/telersverenigingen/groenten/en/etc/BWBR0013044/README.md) en de [Verordening PT steun en interventie telersverenigingen groenten en fruit 2001](../../../../../../../../../pbo/verordening/pt/steun/en/interventie/telersverenigingen/groenten/en/fruit/etc/BWBR0013043/README.md) worden ingetrokken, alsmede de op laatstgenoemde verordening gebaseerde besluiten. [Besluit 2001/1](../../../../../../../../../pbo/besluit/20011/verordening/pt/steun/en/interventie/telersverenigingen/etc/BWBR0013045/README.md) en [Besluit 2001/2 Verordening PT steun en interventie telersverenigingen groenten en fruit 2001](../../../../../../../../../pbo/besluit/20012/verordening/pt/steun/en/interventie/telersverenigingen/etc/BWBR0013046/README.md). Op lopende procedures blijft deze regelgeving van toepassing.
+2.De Verordening PT registratie en erkenning telersverenigingen groenten en fruit 2001 en de Verordening PT steun en interventie telersverenigingen groenten en fruit 2001 worden ingetrokken, alsmede de op laatstgenoemde verordening gebaseerde besluiten. Besluit 2001/1 en Besluit 2001/2 Verordening PT steun en interventie telersverenigingen groenten en fruit 2001. Op lopende procedures blijft deze regelgeving van toepassing.
 
 3.Deze verordening wordt aangehaald als: Verordening PT GMO groenten en fruit 2009. 
 

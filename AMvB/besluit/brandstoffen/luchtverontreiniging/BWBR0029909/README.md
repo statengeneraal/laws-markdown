@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 september 2010, nr. BJZ2010024773, Directie Bestuurlijke en Juridische Zaken;
 
-Gelet op richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 1998 betreffende de kwaliteit van benzine en van dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG L 350), richtlijn nr. 1999/32/EG van het Europees Parlement en de Raad van de Europese Unie van 26 april 1999 betreffende een vermindering van het zwavelgehalte van bepaalde vloeibare brandstoffen en tot wijziging van Richtlijn 93/12/EEG (PbEG L 121), richtlijn nr. 2009/30/EG van het Europees Parlement en de Raad van 23 april 2009 tot wijziging van Richtlijn 98/70/EG met betrekking tot de specificatie van benzine, dieselbrandstof en gasolie en tot invoering van een mechanisme om de emissies van broeikasgassen te monitoren en te verminderen, tot wijziging van Richtlijn 1999/32/EG van de Raad met betrekking tot de specificatie van door binnenschepen gebruikte brandstoffen en tot intrekking van Richtlijn 93/12/EEG (PbEU L 140), het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen, met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147) en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188), de [artikelen 13](../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), en [14a van de Wet inzake de luchtverontreiniging](../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md) en de [artikelen 2.2, derde en vierde lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.1](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.6a](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 1998 betreffende de kwaliteit van benzine en van dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG L 350), richtlijn nr. 1999/32/EG van het Europees Parlement en de Raad van de Europese Unie van 26 april 1999 betreffende een vermindering van het zwavelgehalte van bepaalde vloeibare brandstoffen en tot wijziging van Richtlijn 93/12/EEG (PbEG L 121), richtlijn nr. 2009/30/EG van het Europees Parlement en de Raad van 23 april 2009 tot wijziging van Richtlijn 98/70/EG met betrekking tot de specificatie van benzine, dieselbrandstof en gasolie en tot invoering van een mechanisme om de emissies van broeikasgassen te monitoren en te verminderen, tot wijziging van Richtlijn 1999/32/EG van de Raad met betrekking tot de specificatie van door binnenschepen gebruikte brandstoffen en tot intrekking van Richtlijn 93/12/EEG (PbEU L 140), het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen, met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147) en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188), de artikelen 13, en 14a van de Wet inzake de luchtverontreiniging en de artikelen 2.2, derde en vierde lid, 9.2.2.1, 9.2.2.6a en 9.2.3.2 van de Wet milieubeheer;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 27 oktober 2010, nr. W08.10.0445/IV);
 
@@ -24,7 +24,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *biobrandstoffen:* biobrandstoffen als bedoeld in artikel 2, onderdeel i, van richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging van en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (Pb EU L 140);  
 
-*brandstofleveringsnota:* document als bedoeld in artikel 4 bis, zesde lid, tweede gedachtestreepje, van richtlijn 1999/32/EG in samenhang met voorschrift 18, derde lid, van Bijlage VI van het Verdrag;  
+*brandstofleveringsnota:* document als bedoeld in artikel 4 bis, zesde lid, onderdeel b, van richtlijn 1999/32/EG in samenhang met voorschrift 18, derde lid, van Bijlage VI van het Verdrag;  
 
 *broeikasgasemissies gedurende de levenscyclus:* broeikasgasemissies gedurende de levenscyclus als bedoeld in artikel 2, onderdeel 6, van richtlijn 98/70/EG;  
 
@@ -38,7 +38,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *gasolie voor de scheepvaart:* gasolie voor de scheepvaart als bedoeld in artikel 2, onderdeel 3b, van richtlijn 1999/32/EG;  
 
-*rapportageplichtige:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel k, van die wet, die brandstoffen uitslaat tot verbruik, of degene die brandstoffen invoert onder betaling van accijns;  
+*rapportageplichtige:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns, of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel k, van die wet, die brandstoffen uitslaat tot verbruik, of degene die brandstoffen invoert onder betaling van accijns;  
 
 *richtlijn 98/70/EG:* richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 1998 betreffende de kwaliteit van benzine en van dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG L 350);  
 
@@ -128,15 +128,35 @@ De artikelen 2.2, 2.3, 2.5 en 2.6 zijn niet van toepassing op benzine, diesel en
 
 ### Artikel  2.9a  
 
-Op de rapportageplichtige die in enig kalenderjaar minder dan een bij ministeriële regeling vastgestelde hoeveelheid van bij die regeling aangewezen brandstoffen uitslaat tot verbruik als bedoeld in [artikel 2, eerste lid, van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is in dat kalenderjaar het bepaalde bij of krachtens artikel 2.9 niet van toepassing. 
+Op de rapportageplichtige die in enig kalenderjaar minder dan een bij ministeriële regeling vastgestelde hoeveelheid van bij die regeling aangewezen brandstoffen uitslaat tot verbruik als bedoeld in artikel 2, eerste lid, van de Wet op de accijns is in dat kalenderjaar het bepaalde bij of krachtens artikel 2.9 niet van toepassing. 
 
 ### Hoofdstuk  3  
 
 ####Uitvoering van richtlijn 1999/32/EG betreffende het zwavelgehalte van brandstoffen
 
+### Artikel  3.0  
+
+1.  Paragraaf 3.1 is van toepassing op het zwavelgehalte van dieselolie voor de scheepvaart, gasolie voor de scheepvaart en scheepsbrandstof.   
+2.  Paragraaf 3.2 is van toepassing op het zwavelgehalte van zware stookolie en gasolie als bedoeld in artikel 2, onderdeel 2, van richtlijn 1999/32/EG.   
+3.  In afwijking van het eerste en tweede lid zijn met uitzondering van artikel 3.3 de paragrafen 3.1 en 3.2 niet van toepassing op brandstoffen die: 
+
+a. bestemd zijn voor onderzoek en testen;  
+
+b. voor hun definitieve verbranding nog een processtap ondergaan;  
+
+c. in de raffinage-industrie worden verwerkt;  
+
+d. bestemd zijn voor het gebruik door oorlogsschepen en andere vaartuigen die in militair verband worden gebruikt, of  
+
+e. vervaardigd zijn in een andere lidstaat van de Europese Unie, en waarvoor door de bevoegde instantie van die lidstaat de procedure van artikel 5 van richtlijn 1999/32/EG is toegepast en door de Europese Commissie hogere grenswaarden zijn toegestaan.    
+
 ### Artikel  3.1  
 
-Dit hoofdstuk is van toepassing op het zwavelgehalte van dieselolie voor de scheepvaart, gasolie voor de scheepvaart, scheepsbrandstof en zware stookolie. 
+Het zwavelgehalte van de in dit hoofdstuk bedoelde brandstoffen wordt vastgesteld overeenkomstig artikel 6 van richtlijn 1999/32/EG. 
+
+### Paragraaf  3.1  
+
+####Uitvoering van richtlijn 1999/32/EG betreffende het zwavelgehalte van brandstoffen bestemd voor de zeescheepvaart
 
 ### Artikel  3.2  
 
@@ -145,24 +165,11 @@ Dit hoofdstuk is van toepassing op het zwavelgehalte van dieselolie voor de sche
 a. gasolie voor de scheepvaart met een zwavelgehalte van meer dan 0,1%, of  
 
 b. dieselolie voor de scheepvaart met een zwavelgehalte van meer dan 1,5%.     
-2.  Het eerste lid is niet van toepassing indien wordt aangetoond dat de brandstof bestemd is voor een gebruiker die: 
+2.  Het is voor binnenschepen die zich op zee bevinden verboden om scheepsbrandstoffen te gebruiken met een zwavelgehalte: 
 
-a. de stoffen, naar redelijkerwijs moet worden aangenomen, anders dan als brandstof dan wel niet in de Europese Unie gebruikt;  
+a. tot 31 december 2014 van meer dan 1 massaprocent;  
 
-b. op grond van een krachtens artikel 3.5 verleende ontheffing bevoegd is de stoffen als brandstof te gebruiken, of  
-
-c. op grond van het bepaalde krachtens [artikel 5, eerste lid, onderdeel c, van de Wet voorkoming verontreiniging door schepen](../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) bevoegd is de stoffen, bedoeld in het eerste lid, als brandstof te gebruiken.     
-3.  Het eerste lid is evenmin van toepassing op brandstoffen die: 
-
-a. bestemd zijn voor onderzoek en testen;  
-
-b. vóór hun definitieve verbranding nog een processtap ondergaan;  
-
-c. in de raffinage-industrie worden verwerkt;  
-
-d. bestemd zijn voor het gebruik door oorlogsschepen en andere vaartuigen die in militair verband worden gebruikt, of  
-
-e. vervaardigd zijn in een andere lidstaat van de Europese Unie, en waarvoor door de bevoegde instantie van die lidstaat de procedure van artikel 5 van richtlijn 1999/32/EG is toegepast en door de Europese Commissie hogere grenswaarden zijn toegestaan.    
+b. vanaf 1 januari 2015 van meer dan 0,1 massaprocent.    
 
 ### Artikel  3.3  
 
@@ -175,13 +182,25 @@ b. een door de vertegenwoordiger van de leverancier ondertekend, verzegeld repre
 c. een afschrift van de brandstofleveringsnota gedurende ten minste drie jaar bewaard.     
 2.  Het is verboden andere scheepsbrandstoffen te leveren dan vermeld op de brandstofleveringsnota.  
 
+### Paragraaf  3.2  
+
+####Uitvoering van richtlijn 1999/32/EG betreffende het zwavelgehalte van zware stookolie en gasolie
+
 ### Artikel  3.4  
 
-Het zwavelgehalte van de in dit hoofdstuk bedoelde brandstoffen wordt vastgesteld overeenkomstig artikel 6 van richtlijn 1999/32/EG. 
+Het is verboden als brandstof te gebruiken: 
+
+1. zware stookolie met een zwavelgehalte van meer dan 1 massaprocent, tenzij 
+
+a. het gebruik voor 31 december 2015 in een installatie als bedoeld in artikel 3, tweede lid, van richtlijn 1999/32/EG plaatsvindt, of  
+
+b. het gebruik vanaf 1 januari 2016 plaatsvindt in een installatie als bedoeld in artikel 3, derde lid, van richtlijn 1999/32/EG.    
+
+2. gasolie als bedoeld in artikel 2, onderdeel 2, van richtlijn 1999/32/EG, met een zwavelgehalte van meer dan 0,1 massaprocent.   
 
 ### Artikel  3.5  
 
-1.  Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 5 van richtlijn 1999/32/EG een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de artikel 3.2, eerste lid, genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.2, eerste lid.   
+1.  Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 5 van richtlijn 1999/32/EG een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de artikel 3.4, eerste lid, onderdeel a of b, genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.4, eerste lid, onderdeel a of b.   
 2.  De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens: 
 
 a. een beschrijving van de desbetreffende uitzonderlijke gebeurtenis en van de plotselinge verandering in het aanbod van ruwe olie of olieproducten;  
@@ -195,26 +214,16 @@ c. de reden waarom naleving redelijkerwijs niet kan worden gevergd.
 
 ### Hoofdstuk  4  
 
-####Overige brandstoffen
+####Regels betreffende het zwavelgehalte van overige brandstoffen
 
 ### Artikel  4.1  
 
-1.  Het is verboden als brandstof te gebruiken: 
-
-a. zware stookolie met een zwavelgehalte van meer dan 1 massaprocent, tenzij 
-
-1°. dit geschiedt in installaties als genoemd in artikel 3, tweede lid, onderdeel i, van richtlijn 1999/32/EG, en  
-
-2°. voor zover bij of krachtens een algemene maatregel van bestuur op grond van [artikel 8.40 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde eisen met betrekking tot de uitworp van zwaveloxiden als gevolg van het gebruik van zware stookolie op die installatie van toepassing zijn, of    
-
-b. andere vaste, vloeibare of gasvormige brandstoffen dan genoemd in dit besluit, met een zwavelgehalte van meer dan 1,2 massaprocent.     
-2.  Het is voorts verboden brandstoffen als bedoeld in het eerste lid in te voeren, ten verkoop aan te bieden, te verkopen of af te leveren, tenzij die brandstoffen bestemd zijn voor een gebruiker die die brandstoffen naar redelijkerwijs moet worden aangenomen anders dan als brandstof gebruikt.   
-3.  Het is voorts verboden gasolie als bedoeld in artikel 2, onderdeel 2, van richtlijn 1999/32/EG, met een zwavelgehalte van meer dan 0,1 massaprocent te gebruiken.  
+1.  Het is verboden andere vaste, vloeibare of gasvormige brandstoffen dan genoemd in dit besluit, met een zwavelgehalte van meer dan 1,2 massaprocent als brandstof te gebruiken.   
+2.  Het is tevens verboden om brandstoffen als bedoeld in het eerste lid in te voeren, ten verkoop aan te bieden, te verkopen of af te leveren, tenzij die brandstoffen bestemd zijn voor een gebruiker die die brandstoffen naar redelijkerwijs moet worden aangenomen anders dan als brandstof gebruikt. 
 
 ### Artikel  4.2  
 
-1.  Het zwavelgehalte van brandstoffen als bedoeld in artikel 4.1, eerste lid, onderdeel a, wordt vastgesteld overeenkomstig het bepaalde in artikel 6 van richtlijn 1999/32/EG.   
-2.  Het zwavelgehalte van brandstoffen als bedoeld in artikel 4.1, eerste lid, onderdeel b, wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.  
+Het zwavelgehalte van brandstoffen als bedoeld in artikel 4.1, eerste lid, wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode. 
 
 ### Artikel  4.3  
 
@@ -229,7 +238,7 @@ Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een ve
 1.  Het bestuur van de emissieautoriteit controleert de gerapporteerde gegevens, bedoeld in artikel 2.9, derde lid.   
 2.  Bij de controle, bedoeld in het eerste lid, wordt in elk geval nagegaan of: 
 
-a. de gegevens in overeenstemming zijn met de op grond van het Besluit hernieuwbare energie vervoer in het register, bedoeld in [artikel 12.31, eerste lid, van de Wet milieubeheer,](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) opgenomen gegevens, en  
+a. de gegevens in overeenstemming zijn met de op grond van het Besluit hernieuwbare energie vervoer in het register, bedoeld in artikel 12.31, eerste lid, van de Wet milieubeheer, opgenomen gegevens, en  
 
 b. aan het bepaalde in artikel 2.9, eerste lid, is voldaan.     
 3.  Het bestuur van de emissieautoriteit verstrekt de gecontroleerde gegevens elektronisch aan Onze Minister.   
@@ -247,7 +256,7 @@ Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
 ### Artikel  5.4  
 
-Het [Besluit kwaliteitseisen brandstoffen wegverkeer](../../../../../AMvB/besluit/kwaliteitseisen/brandstoffen/wegverkeer/BWBR0010993/README.md) en het [Besluit zwavelgehalte brandstoffen](../../../../../AMvB/besluit/zwavelgehalte/brandstoffen/BWBR0002939/README.md) worden ingetrokken. 
+Het Besluit kwaliteitseisen brandstoffen wegverkeer en het Besluit zwavelgehalte brandstoffen worden ingetrokken. 
 
 ### Artikel  5.5  
 

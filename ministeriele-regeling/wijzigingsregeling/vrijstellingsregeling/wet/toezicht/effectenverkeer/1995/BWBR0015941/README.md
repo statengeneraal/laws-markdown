@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Financiën van 24 november 2003 houdende wijziging van de Vrijstellingsregeling Wet toezicht effectenverkeer 1995
 
 De Minister van Financiën,  
-Gelet op [artikel 18b, eerste lid, van de Wet toezicht effectenverkeer 1995](../../../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md);
+Gelet op artikel 18b, eerste lid, van de Wet toezicht effectenverkeer 1995;
 Besluit:   
 
 ###Artikel I 
 
-Wijzigt de [Vrijstellingsregeling Wet toezicht effectenverkeer 1995](../../../../../../../../ministeriele-regeling/vrijstellingsregeling/wet/toezicht/effectenverkeer/1995/BWBR0007777/README.md).
+Wijzigt de Vrijstellingsregeling Wet toezicht effectenverkeer 1995.
 
 ### Artikel  II  
 

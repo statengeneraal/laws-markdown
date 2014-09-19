@@ -3,7 +3,7 @@
 ##Besluit van de voorzitter van het Productschap Tuinbouw van 18 december 2013 tot vaststelling van erkenningvoorschriften voor producentenorganisaties
 
 De voorzitter van het Productschap Tuinbouw;  
-Gelet op [artikel 5 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2012](../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2012/BWBR0033364/README.md);
+Gelet op artikel 5 van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2012;
 Besluit:    
 ###Hoofdstuk 1 
 
@@ -11,7 +11,7 @@ Besluit:
 
 ###Artikel 1 
 
-Dit besluit neemt de definities van [Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2012](../../../../../../../pbo/verordening/pt/uitvoeringsbepalingen/gmo/groenten/en/fruit/2012/BWBR0033364/README.md) over en verstaat voorts onder: 
+Dit besluit neemt de definities van Verordening PT uitvoeringsbepalingen GMO groenten en fruit 2012 over en verstaat voorts onder: 
 
 a.uitvoeringsjaar: een jaar van uitvoering van een operationeel programma;
 
@@ -51,7 +51,7 @@ p.goederenlogistiek: het verzamelen, ophalen, sorteren, opslaan, verpakken, tran
 
 q.forfaitair standaardtarief: een vast of maximaal bedrag per eenheid dat wordt gebruikt om de te declareren bedragen vast te stellen;
 
-r.accountant: een accountant die is ingeschreven in het accountantsregister, bedoeld in [artikel 36, eerste lid, van de Wet op het Accountantsberoep](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+r.accountant: een accountant die is ingeschreven in het accountantsregister, bedoeld in artikel 36, eerste lid, van de Wet op het Accountantsberoep;
 
 s.stadium af producentenorganisatie: het moment waarop er een verkooptransactie plaatsvindt door of namens de producentenorganisatie met een derde partij of een minder dan 90 procent dochteronderneming.
 
@@ -87,7 +87,7 @@ Van een producentenorganisatie kunnen lid zijn:
 
 a.een natuurlijk persoon;
 
-b.een rechtspersoon als bedoeld in [artikel 2:3 Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een rechtspersoon naar buitenlands recht, of
+b.een rechtspersoon als bedoeld in artikel 2:3 Burgerlijk Wetboek of een rechtspersoon naar buitenlands recht, of
 
 c.een in het Handelsregister van de Kamer van Koophandel ingeschreven maatschap, vennootschap onder firma of commanditaire vennootschap. 
 
@@ -513,7 +513,7 @@ Een erkenning als bedoeld in artikel 125 quater van verordening 1234/2007 wordt 
 
 ###Artikel 32 
 
-Het [Besluit PT erkenningvoorschriften medebewind 2011](../../../../../../../pbo/besluit/pt/erkenningsvoorschriften/medebewind/2011/BWBR0030731/README.md) wordt ingetrokken. 
+Het Besluit PT erkenningvoorschriften medebewind 2011 wordt ingetrokken. 
 
 ###Artikel 33 
 
