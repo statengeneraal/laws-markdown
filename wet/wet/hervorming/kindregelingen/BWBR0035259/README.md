@@ -14,75 +14,75 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  01  
 
-####[Aanpassingswet Algemene wet inkomensafhankelijke regelingen](../../../../../wet/aanpassingswet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018471/README.md)
+####Aanpassingswet Algemene wet inkomensafhankelijke regelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  I  
 
-####[Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md)
+####Algemene Kinderbijslagwet
 
 Wijzigt de Algemene Kinderbijslagwet. 
 
 ### Artikel  II  
 
-####[Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md)
+####Algemene nabestaandenwet
 
 Wijzigt de Algemene nabestaandenwet. 
 
 ### Artikel  III  
 
-####[Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)
+####Algemene Ouderdomswet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene Ouderdomswet. 
 
 ### Artikel  IV  
 
-####[Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md)
+####Toeslagenwet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Toeslagenwet. 
 
 ### Artikel  V  
 
-####[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)
+####Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers. 
 
 ### Artikel  VI  
 
-####[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)
+####Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen. 
 
 ### Artikel  VII  
 
-####[Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md)
+####Wet op het kindgebonden budget
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het kindgebonden budget. 
 
 ### Artikel  VIIa  
 
-####[Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)
+####Wet werk en arbeidsondersteuning jonggehandicapten
 
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten. 
 
 ### Artikel  VIII  
 
-####[Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)
+####Wet werk en bijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet werk en bijstand. 
 
@@ -90,29 +90,29 @@ Wijzigt de Wet werk en bijstand.
 
 ####Ministerie van Financiën
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  IX  
 
-####[Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)
+####Wet inkomstenbelasting 2001
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  IXa  
 
-####[Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)
+####Wet op de loonbelasting 1964
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  IXb  
 
-####[Wet op het consumentenkrediet](../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md)
+####Wet op het consumentenkrediet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het consumentenkrediet. 
 
@@ -120,29 +120,29 @@ Wijzigt de Wet op het consumentenkrediet.
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  X  
 
-####[Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md)
+####Wet studiefinanciering 2000
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet studiefinanciering 2000. 
 
 ### Artikel  Xa  
 
-####[Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md)
+####Wet tegemoetkoming onderwijsbijdrage en schoolkosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten. 
 
 ### Artikel  Xb  
 
-####[Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md)
+####Wet kinderopvang en kwaliteitseisen peuterspeelzalen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2015 
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen. 
 
@@ -150,7 +150,7 @@ Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ####Samenloop voorstel van Wet sociaal leenstelsel masterfase
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt deze wet. 
 
@@ -158,13 +158,13 @@ Wijzigt deze wet.
 
 ####Ministerie van Veiligheid en Justitie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  XI  
 
-####[Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md)
+####Wetboek van Burgerlijke Rechtsvordering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wetboek van Burgerlijke Rechtsvordering. 
 
@@ -172,45 +172,45 @@ Wijzigt de Wetboek van Burgerlijke Rechtsvordering.
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  XIa  
 
-####[Wet buitengewoon pensioen 1940–1945](../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md)
+####Wet buitengewoon pensioen 1940–1945
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet buitengewoon pensioen 1940–1945. 
 
 ### Artikel  XIb  
 
-####[Wet buitengewoon pensioen Indisch verzet](../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md)
+####Wet buitengewoon pensioen Indisch verzet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet buitengewoon pensioen Indisch verzet. 
 
 ### Artikel  XIc  
 
-####[Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md)
+####Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers. 
 
 ### Artikel  XId  
 
-####[Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md)
+####Wet uitkeringen burger-oorlogsslachtoffers 1940–1945
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945. 
 
 ### Artikel  XIe  
 
-####[Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md)
+####Wet uitkeringen vervolgingsslachtoffers 1940–1945
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945. 
 
@@ -218,29 +218,29 @@ Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  XIf  
 
-####[Samenloopregeling Indonesische pensioenen 1960](../../../../../wet/samenloopregeling/indonesische/pensioenen/1960/BWBR0002414/README.md)
+####Samenloopregeling Indonesische pensioenen 1960
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Samenloopregeling Indonesische pensioenen 1960. 
 
 ### Artikel  XIg  
 
-####[Wet aanpassing pensioenvoorzieningen Bijstandkorps](../../../../../wet/wet/aanpassing/pensioenvoorzieningen/bijstandkorps/BWBR0002507/README.md)
+####Wet aanpassing pensioenvoorzieningen Bijstandkorps
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps. 
 
 ### Artikel  XIh  
 
-####[Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md)
+####Wet op de huurtoeslag
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de huurtoeslag. 
 
@@ -248,19 +248,17 @@ Wijzigt de Wet op de huurtoeslag.
 
 ####Overgangs- en slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  XII  
 
-####Overgangsrecht [Algemene kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md)
+####Overgangsrecht Algemene kinderbijslagwet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-1.  Een op de dag voorafgaand aan inwerkingtreding van artikel I, onderdeel B, van deze wet bestaande tegemoetkoming op grond van de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](../../../../../ministeriele-regeling/regeling/tegemoetkoming/ouders/van/thuiswonende/gehandicapte/kinderen/BWBR0010997/README.md) wordt aangemerkt als kinderbijslag als bedoeld in [artikel 7a van de Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).   
-2.  Artikel VIII, onderdelen A, B, C en D, tweede subonderdeel, van deze wet, is gedurende twaalf maanden na de datum van inwerkingtreding van die onderdelen en dat subonderdeel niet van toepassing op de alleenstaande ouder, bedoeld in [artikel 4, eerste lid, onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), die op de dag voorafgaand aan de inwerkingtreding van die onderdelen en dat subonderdeel recht had op een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), die geen aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md) zoals dat luidt na inwerkingtreding van artikel VII, onderdeel B, tweede subonderdeel, van deze wet en op wie artikel 22a van de Wet werk en bijstand van toepassing is zoals dat luidt na inwerkingtreding van artikel I, onderdeel K, van de Wet werk en bijstand en enkele andere wetten (Kamerstukken 33 801).  
+1.  Een op de dag voorafgaand aan inwerkingtreding van artikel I, onderdeel B, van deze wet bestaande tegemoetkoming op grond van de Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen wordt aangemerkt als kinderbijslag als bedoeld in artikel 7a van de Algemene Kinderbijslagwet.   
+2.  Artikel VIII, onderdelen A, B, C en D, tweede subonderdeel, van deze wet, is gedurende twaalf maanden na de datum van inwerkingtreding van die onderdelen en dat subonderdeel niet van toepassing op de alleenstaande ouder, bedoeld in artikel 4, eerste lid, onderdeel b, van de Wet werk en bijstand, die op de dag voorafgaand aan de inwerkingtreding van die onderdelen en dat subonderdeel recht had op een uitkering op grond van de Wet werk en bijstand, die geen aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget zoals dat luidt na inwerkingtreding van artikel VII, onderdeel B, tweede subonderdeel, van deze wet en op wie artikel 22a van de Wet werk en bijstand van toepassing is zoals dat luidt na inwerkingtreding van artikel I, onderdeel K, van de Wet werk en bijstand en enkele andere wetten (Kamerstukken 33 801).  
 
 ### Artikel  XIII  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 *[Vervallen]* 
 
@@ -268,15 +266,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of subonderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of subonderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  XV  
 
 ####Citeertitel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet wordt aangehaald als: Wet hervorming kindregelingen. 
 

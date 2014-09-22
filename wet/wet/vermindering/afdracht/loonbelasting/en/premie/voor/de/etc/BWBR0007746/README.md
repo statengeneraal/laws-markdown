@@ -20,15 +20,15 @@ a. inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de heffing van de 
 
 b. loontijdvak: hetgeen daaronder wordt verstaan voor de heffing van de loonbelasting;   
 
-c. loon: loon in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met daarin begrepen:  
+c. loon: loon in de zin van de Wet op de loonbelasting 1964, verminderd met daarin begrepen:  
 
 1°. loon uit vroegere dienstbetrekking;   
 
-2°. loon ter zake waarvan de belasting ingevolge [artikel 31 van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wordt geheven van de inhoudingsplichtige;     
+2°. loon ter zake waarvan de belasting ingevolge artikel 31 van de Wet op de loonbelasting 1964 wordt geheven van de inhoudingsplichtige;     
 
 d. vervallen;  
 
-e. aangiftetijdvak: het tijdvak waarover krachtens [artikel 19, tweede lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) de loonbelasting moet worden betaald; 
+e. aangiftetijdvak: het tijdvak waarover krachtens artikel 19, tweede lid, onderdeel a, van de Algemene wet inzake rijksbelastingen de loonbelasting moet worden betaald; 
 
 f. vervallen;  
 
@@ -36,7 +36,7 @@ g. vervallen;
 
 ga.vervallen; 
 
-h. zeeschip: een schip ten aanzien waarvan de [Wet zeevarenden](../../../../../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) van toepassing is, dat is voorzien van een zeebrief als bedoeld in [artikel 3, eerste lid, van de Zeebrievenwet](../../../../../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md) en dat in het kader van een onderneming grotendeels op zee wordt geëxploiteerd voor het vervoer van zaken of personen in het internationale verkeer over zee, het vervoer van zaken of personen over zee ten behoeve van de exploratie of exploitatie van natuurlijke rijkdommen op zee, het verrichten van sleep- en hulpverleningswerkzaamheden op zee aan schepen als bedoeld in [artikel 1, tweede lid, van de Schepenwet](../../../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), het verrichten van baggerwerkzaamheden of overige bij ministeriële regeling nader te bepalen activiteiten op zee, met uitzondering van:
+h. zeeschip: een schip ten aanzien waarvan de Wet zeevarenden van toepassing is, dat is voorzien van een zeebrief als bedoeld in artikel 3, eerste lid, van de Zeebrievenwet en dat in het kader van een onderneming grotendeels op zee wordt geëxploiteerd voor het vervoer van zaken of personen in het internationale verkeer over zee, het vervoer van zaken of personen over zee ten behoeve van de exploratie of exploitatie van natuurlijke rijkdommen op zee, het verrichten van sleep- en hulpverleningswerkzaamheden op zee aan schepen als bedoeld in artikel 1, tweede lid, van de Schepenwet, het verrichten van baggerwerkzaamheden of overige bij ministeriële regeling nader te bepalen activiteiten op zee, met uitzondering van:
 
 1°.een schip dat wordt gebruikt voor de loodsdienst;
 
@@ -52,7 +52,7 @@ h. zeeschip: een schip ten aanzien waarvan de [Wet zeevarenden](../../../../../.
 
 ha.havensleepdienst: het geheel van werkzaamheden en activiteiten door een sleepboot als bedoeld in onderdeel hb grotendeels in en rond havens en op binnenwateren van de Europese Unie verricht, ten behoeve van het assisteren bij het meren, ontmeren en verhalen van zeeschepen die gebruik maken van eigen voortstuwing en die inkomen van of uitgaan naar zee;
 
-hb.sleepboot: een schip ten aanzien waarvan de [Wet zeevarenden](../../../../../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) van toepassing is, dat is voorzien van een zeebrief als bedoeld in [artikel 3, eerste lid, van de Zeebrievenwet](../../../../../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md) en is bestemd voor het verrichten van sleep- en hulpverleningswerkzaamheden op zee; 
+hb.sleepboot: een schip ten aanzien waarvan de Wet zeevarenden van toepassing is, dat is voorzien van een zeebrief als bedoeld in artikel 3, eerste lid, van de Zeebrievenwet en is bestemd voor het verrichten van sleep- en hulpverleningswerkzaamheden op zee; 
 
 i. zeevarende: degene die als kapitein, scheepsofficier of scheepsgezel werkzaam is op een zeeschip dat in Nederland is geregistreerd en de Nederlandse vlag voert, tenzij hij werkzaam is op een schip dat een geregelde passagiersdienst onderhoudt tussen havens van de Europese Unie en hij niet de nationaliteit heeft van een van de lidstaten van de Europese Unie of de Europese Economische Ruimte; 
 
@@ -60,17 +60,17 @@ ia.zee: alle wateren die zich bevinden voorbij de laagwaterlijn van de kust. Ind
 
 ib.binnenwateren: wateren anders dan bedoeld in onderdeel ia; 
 
-j. onderneming: een onderneming in de zin van de [Wet inkomstenbelasting 2001](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of de [Wet op de vennootschapsbelasting 1969](../../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);   
+j. onderneming: een onderneming in de zin van de Wet inkomstenbelasting 2001 of de Wet op de vennootschapsbelasting 1969;   
 
-k. fiscale eenheid: een eenheid in de zin van de [artikelen 15](../../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [15a van de Wet op de vennootschapsbelasting 1969](../../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);   
+k. fiscale eenheid: een eenheid in de zin van de artikelen 15 en 15a van de Wet op de vennootschapsbelasting 1969;   
 
 l. S&O-inhoudingsplichtige:  
 
 1°. een inhoudingsplichtige die tevens een onderneming drijft;   
 
-2°. een inhoudingsplichtige die niet tevens een onderneming drijft, voor zover hij speur- en ontwikkelingswerk verricht krachtens een schriftelijk vastgelegde overeenkomst met en voor rekening van een onderneming, een samenwerkingsverband van degenen die een onderneming drijven of een lichaam als bedoeld in de [Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);     
+2°. een inhoudingsplichtige die niet tevens een onderneming drijft, voor zover hij speur- en ontwikkelingswerk verricht krachtens een schriftelijk vastgelegde overeenkomst met en voor rekening van een onderneming, een samenwerkingsverband van degenen die een onderneming drijven of een lichaam als bedoeld in de Wet op de bedrijfsorganisatie;     
 
-m. S&O-belastingplichtige: een natuurlijke persoon die voldoet aan het urencriterium, bedoeld in [artikel 3.6 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);   
+m. S&O-belastingplichtige: een natuurlijke persoon die voldoet aan het urencriterium, bedoeld in artikel 3.6 van de Wet inkomstenbelasting 2001;   
 
 n. speur- en ontwikkelingswerk: door een S&O-inhoudingsplichtige, dan wel een S&O-belastingplichtige, systematisch georganiseerde en in een lidstaat van de Europese Unie verrichte werkzaamheden, direct en uitsluitend gericht op: 
 
@@ -91,7 +91,7 @@ q. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van ar
 
 a. door of namens de Nederlandse Inspectie Verkeer en Waterstaat voor het schip een veiligheidscertificaat met onbeperkt vaargebied te zijn afgegeven, welk certificaat vermeldt dat het schip voldoet aan: 
 
-1°. de krachtens [artikel 5, tweede lid, van de Schepenwet](../../../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) uitgevaardigde voorschriften voor Commercial Cruising Vessels;  
+1°. de krachtens artikel 5, tweede lid, van de Schepenwet uitgevaardigde voorschriften voor Commercial Cruising Vessels;  
 
 2°. de voorschriften van het SOLAS-verdrag;  
 
@@ -112,8 +112,8 @@ c. door Onze Minister van Economische Zaken bij ministeriële regeling aangeweze
 ### Artikel  2  
 
 1.  Werknemer is de natuurlijke persoon die tot een inhoudingsplichtige in privaatrechtelijke of publiekrechtelijke dienstbetrekking staat.   
-2.   [Artikel 2, derde, vierde en vijfde lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) is van overeenkomstige toepassing.   
-3.   Als dienstbetrekking worden mede beschouwd de arbeidsverhoudingen, bedoeld in de [artikelen 3, eerste lid, onderdelen f en h](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en [4, onderdeel e, van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).  
+2.   Artikel 2, derde, vierde en vijfde lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing.   
+3.   Als dienstbetrekking worden mede beschouwd de arbeidsverhoudingen, bedoeld in de artikelen 3, eerste lid, onderdelen f en h, en 4, onderdeel e, van de Wet op de loonbelasting 1964.  
 
 ### Hoofdstuk  II  
 
@@ -194,9 +194,9 @@ b.met betrekking tot de niet in Nederland, een lidstaat van de Europese Unie of 
 1.   Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in artikel 17, eerste lid, bedoelde loon alsmede het gedeelte van dat loon dat niet in aanmerking is genomen en van het bedrag van de afdrachtvermindering zeevaart.    
 2.  De inhoudingsplichtige bewaart en registreert met betrekking tot het schip of de schepen waarop een of meer zeevarenden werkzaam zijn met betrekking tot wie de afdrachtvermindering zeevaart wordt toegepast: 
 
-a. afschriften van monsterrollen als bedoeld in [artikel 33 van de Wet zeevarenden](../../../../../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md);  
+a. afschriften van monsterrollen als bedoeld in artikel 33 van de Wet zeevarenden;  
 
-b. afschriften van zeebrieven als bedoeld in [artikel 3, eerste lid, van de Zeebrievenwet](../../../../../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md).     
+b. afschriften van zeebrieven als bedoeld in artikel 3, eerste lid, van de Zeebrievenwet.     
 3.  De inhoudingsplichtige legt vast met betrekking tot welke zeevarenden hij in het kalenderjaar de afdrachtvermindering zeevaart heeft toegepast, alsmede het schip of de schepen waarop die zeevarenden werkzaam zijn geweest onder vermelding van de periode waarin dit plaatsvond.  
 4. De inhoudingsplichtige legt met betrekking tot zeeschepen die zijn bestemd voor sleep-en hulpverleningswerkzaamheden op zee en die tevens, in en rond havens gelegen op het grondgebied van de Europese Unie en op binnenwateren van de Europese Unie, worden ingezet voor het assisteren bij het meren, ontmeren en verhalen van zeeschepen die inkomen van of uitgaan naar zee en gebruik maken van eigen voortstuwing, de bedrijfstijd vast die is gemoeid met de onderscheidene werkzaamheden. De wachttijd mag evenredig worden toegedeeld aan de bedrijfstijd van de onderscheidene werkzaamheden. 
 5.   De inhoudingsplichtige bewaart de in het tweede lid bedoelde gegevens, alsmede de in het tweede lid bedoelde afschriften en de in het derde en vierde lid bedoelde vastleggingen, bij de loonadministratie.    
@@ -218,7 +218,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 1. De S&O-afdrachtvermindering is met betrekking tot een aangiftetijdvak van toepassing indien de S&O-inhoudingsplichtige beschikt over een ten name van hem afgegeven S&O-verklaring die betrekking heeft op een periode waarin het aangiftetijdvak eindigt. Het totaal van de S&O-afdrachtvermindering beloopt het bij die S&O-verklaring ter zake vastgestelde bedrag. 
 2. Per aangiftetijdvak wordt maximaal een evenredig deel van het bij de S&O-verklaring vastgestelde bedrag aan S&O-afdrachtvermindering in aanmerking genomen. De evenredigheid is gerelateerd aan het aantal aangiftetijdvakken die vanaf het desbetreffende aangiftetijdvak nog eindigen in de periode waarop de S&O-verklaring betrekking heeft. 
-3. Ingeval na afloop van de periode waarop de S&O-verklaring betrekking heeft een nog niet verrekend bedrag aan S&O-afdrachtvermindering resteert, wordt dit bedrag verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een aangiftetijdvak dat is geëindigd of nog gaat eindigen in het kalenderjaar waarin de periode valt waarop de S&O-verklaring betrekking heeft. Voor zover toepassing van de eerste volzin tot gevolg heeft dat een nog niet verrekend bedrag wordt verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een reeds verstreken aangiftetijdvak, wordt de aangifte over dat reeds verstreken tijdvak voor de toepassing van [artikel 28a van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangemerkt als een onjuiste of onvolledige aangifte. Voorzover toepassing van de eerste volzin tot gevolg heeft dat een nog niet verrekend bedrag met een reeds verstreken aangiftetijdvak wordt verrekend, wordt de aangifte over dat reeds verstreken tijdvak voor de toepassing van artikel 28a van de Wet op de loonbelasting 1964 aangemerkt als een onjuiste of onvolledige aangifte.
+3. Ingeval na afloop van de periode waarop de S&O-verklaring betrekking heeft een nog niet verrekend bedrag aan S&O-afdrachtvermindering resteert, wordt dit bedrag verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een aangiftetijdvak dat is geëindigd of nog gaat eindigen in het kalenderjaar waarin de periode valt waarop de S&O-verklaring betrekking heeft. Voor zover toepassing van de eerste volzin tot gevolg heeft dat een nog niet verrekend bedrag wordt verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een reeds verstreken aangiftetijdvak, wordt de aangifte over dat reeds verstreken tijdvak voor de toepassing van artikel 28a van de Wet op de loonbelasting 1964 aangemerkt als een onjuiste of onvolledige aangifte. Voorzover toepassing van de eerste volzin tot gevolg heeft dat een nog niet verrekend bedrag met een reeds verstreken aangiftetijdvak wordt verrekend, wordt de aangifte over dat reeds verstreken tijdvak voor de toepassing van artikel 28a van de Wet op de loonbelasting 1964 aangemerkt als een onjuiste of onvolledige aangifte.
 
 ### Artikel 22 
 
@@ -244,8 +244,8 @@ d.het bedrag aan S&O-afdrachtvermindering met een berekening van dat bedrag.
 4. Het gemiddelde uurloon wordt gesteld op het uurloon dat de S&O-inhoudingsplichtige in het S&O-referentiejaar gemiddeld heeft betaald aan zijn werknemers die in dat jaar speur- en ontwikkelingswerk hebben verricht waarvoor een S&O-verklaring is verstrekt. Het gemiddelde uurloon wordt daarbij gesteld op de som van de door de S&O-inhoudingsplichtige aan deze werknemers in het S&O-referentiejaar betaalde lonen gedeeld door de som van de in het S&O-referentiejaar door de S&O-inhoudingsplichtige aan deze werknemers verloonde uren nadat de som van de verloonde uren is vermenigvuldigd met 0,85; de uitkomst van deze deling wordt naar boven afgerond op een bedrag in hele euro’s. Het gemiddelde uurloon wordt aldus bepaald aan de hand van de gegevens zoals die blijken uit de polisadministratie van het Uitvoeringsinstituut Werknemersverzekeringen op een bij ministeriële regeling van Onze Minister van Economische Zaken vast te stellen peildatum gelegen in het kalenderjaar volgende op het S&O-referentiejaar. Indien de berekening aan de hand van de gegevens op de peildatum leidt tot een evident onjuist gemiddeld uurloon, wordt het gemiddelde uurloon bepaald aan de hand van de juiste gegevens zoals die blijken na uitvraag daarvan bij de S&O-inhoudingsplichtige door Onze Minister van Economische Zaken. Ingeval de S&O-inhoudingsplichtige in het S&O-referentiejaar geen speur- en ontwikkelingswerk heeft verricht waarvoor hij over een S&O-verklaring beschikt, geldt een gemiddeld uurloon van € 29. 
 5. Het totaal van de S&O-afdrachtvermindering over een kalenderjaar bedraagt per S&O-inhoudingsplichtige maximaal € 14 000 000 dan wel, ingeval de inhoudingsplichtige deel uitmaakt of in een deel van het kalenderjaar heeft uitgemaakt, van een fiscale eenheid, per fiscale eenheid. In het laatste geval wordt in de S&O-verklaring vastgesteld welk deel van het bedrag van € 14 000 000, betrekking heeft op de S&O-inhoudingsplichtige. 
 6. De inhoudingsplichtige die deel uitmaakt van een fiscale eenheid en voor speur- en ontwikkelingswerk werknemers ter beschikking stelt aan een onderneming binnen die fiscale eenheid, wordt geacht dat speur- en ontwikkelingswerk zelf te verrichten. Op deze inhoudingsplichtige is het bij of krachtens deze wet bepaalde zoveel mogelijk van overeenkomstige toepassing met dien verstande dat de inhoudingsplichtige de verplichtingen in voorkomende gevallen zal doen uitvoeren door de onderneming die het speur- en ontwikkelingswerk uitvoert. 
-7. Het in het derde lid vermelde percentage van 21 wordt vervangen door 36 indien de S&O-inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven. Indien de voor rekening van de inhoudingsplichtige gedreven onderneming een voortzetting is van een onderneming die, of een gedeelte van een onderneming dat direct of indirect is gedreven door een met hem verbonden vennootschap in de zin van [artikel 10a, zevende lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), dan wel voor rekening van een natuurlijk persoon die op het moment van aanvraag een aanmerkelijk belang in de zin van de Wet op de inkomstenbelasting 2001 heeft in de inhoudingsplichtige, wordt voor de toepassing van de eerste volzin een ten aanzien van de verbonden vennootschap, onderscheidenlijk natuurlijk persoon, reeds voor de voortzetting afgegeven S&O-verklaring aangemerkt als een ten aanzien van de inhoudingsplichtige afgegeven verklaring. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar.
-8. In afwijking van artikel 1, eerste lid, onderdeel c, is het loon, bedoeld in het vierde lid, het loon in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zonder de verminderingen als bedoeld in dat onderdeel.
+7. Het in het derde lid vermelde percentage van 21 wordt vervangen door 36 indien de S&O-inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven. Indien de voor rekening van de inhoudingsplichtige gedreven onderneming een voortzetting is van een onderneming die, of een gedeelte van een onderneming dat direct of indirect is gedreven door een met hem verbonden vennootschap in de zin van artikel 10a, zevende lid, van de Wet op de loonbelasting 1964, dan wel voor rekening van een natuurlijk persoon die op het moment van aanvraag een aanmerkelijk belang in de zin van de Wet op de inkomstenbelasting 2001 heeft in de inhoudingsplichtige, wordt voor de toepassing van de eerste volzin een ten aanzien van de verbonden vennootschap, onderscheidenlijk natuurlijk persoon, reeds voor de voortzetting afgegeven S&O-verklaring aangemerkt als een ten aanzien van de inhoudingsplichtige afgegeven verklaring. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar.
+8. In afwijking van artikel 1, eerste lid, onderdeel c, is het loon, bedoeld in het vierde lid, het loon in de zin van de Wet op de loonbelasting 1964, zonder de verminderingen als bedoeld in dat onderdeel.
 
 ### Artikel 24 
 
@@ -282,7 +282,7 @@ a.een omschrijving van het werk dat wordt aangemerkt als speur- en ontwikkelings
 
 b.het kalenderjaar waarvoor de S&O-verklaring wordt verstrekt. 
 4. De S&O-belastingplichtige aan wie een S&O-verklaring is afgegeven en die in het kalenderjaar minder dan 500 uren van zijn voor werkzaamheden beschikbare tijd heeft besteed aan het speur- en ontwikkelingswerk waarop de S&O-verklaring betrekking heeft, doet daarvan binnen drie kalendermaanden na afloop van het kalenderjaar waarop de S&O-verklaring betrekking heeft mededeling aan Onze Minister van Economische Zaken. 
-5. [Artikel 3.6, vijfde lid, van de Wet inkomstenbelasting 2001](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is van overeenkomstige toepassing. 
+5. Artikel 3.6, vijfde lid, van de Wet inkomstenbelasting 2001 is van overeenkomstige toepassing. 
 6. Artikel 24, eerste lid, is van overeenkomstige toepassing met betrekking tot de S&O-belastingplichtige aan wie een S&O-verklaring is afgegeven. 
 7. Onze Minister van Economische Zaken trekt de S&O-verklaring in indien:
 
@@ -295,8 +295,8 @@ c.aannemelijk is dat ter verkrijging van de S&O-verklaring gegevens of bescheide
 
 ### Artikel  28  
 
-1. De in de [artikelen 47 tot en met 51](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [53, eerste en vierde lid, tot en met 56 van Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister van Economische Zaken met betrekking tot de toepassing van in dit hoofdstuk aangewezen ambtenaren. 
-2. De [artikelen 68](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [69](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [72 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing. 
+1. De in de artikelen 47 tot en met 51 en 53, eerste en vierde lid, tot en met 56 van Algemene wet inzake rijksbelastingen jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister van Economische Zaken met betrekking tot de toepassing van in dit hoofdstuk aangewezen ambtenaren. 
+2. De artikelen 68, 69 en 72 van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing. 
 
 ### Artikel  29  
 
@@ -320,8 +320,8 @@ Vervallen per 01-01-2006
 
 ### Artikel  30  
 
-1.  De [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 63](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is niet van toepassing met betrekking tot de uitvoering van deze wet door andere dan de in [artikel 2, derde lid, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) genoemde bestuursorganen.   
-2. Voor de toepassing van de [artikelen 63](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) betreffende de uitvoering van deze wet door Onze Minister van Economische Zaken of de door hem aangewezen ambtenaren, treedt Onze Minister van Economische Zaken in de plaats van Onze Minister.  
+1.  De Algemene wet inzake rijksbelastingen, met uitzondering van de artikelen 63 en 67, is niet van toepassing met betrekking tot de uitvoering van deze wet door andere dan de in artikel 2, derde lid, onderdelen a en b, van de Algemene wet inzake rijksbelastingen genoemde bestuursorganen.   
+2. Voor de toepassing van de artikelen 63 en 67 van de Algemene wet inzake rijksbelastingen betreffende de uitvoering van deze wet door Onze Minister van Economische Zaken of de door hem aangewezen ambtenaren, treedt Onze Minister van Economische Zaken in de plaats van Onze Minister.  
 3.   Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de artikelen 1 en 2 met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'aangiftetijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer'.    
 4.   Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.   
 
@@ -376,9 +376,9 @@ De Wet bevordering speur- en ontwikkelingswerk wordt ingetrokken.
 
 ### Artikel  47  
 
-1. Met betrekking tot de toepassing van deze wet terzake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2006, blijven de bepalingen bij of krachtens de hoofdstukken VIII en IX zoals deze luidden voor de wijzigingen ingevolge het [Belastingplan 2006](../../../../../../../../../../../wet/belastingplan/2006/BWBR0019286/README.md), van toepassing. 
-2. Aanvragen voor een S&O-verklaring met betrekking tot kalendermaanden in 2006 die zijn of worden ingediend op de voet van artikel 24, derde lid, zoals dat luidde voor de wijzigingen ingevolge het Belastingplan 2006, worden behandeld als aanvragen die zijn ingediend met inachtneming van artikel 22, eerste lid, of, indien de aanvrager een S&O-belastingplichtige is, artikel 27, tweede lid, zoals deze luiden na de wijzigingen ingevolge het [Belastingplan 2006](../../../../../../../../../../../wet/belastingplan/2006/BWBR0019286/README.md). 
-3. Met betrekking tot aanvragen als bedoeld in het tweede lid, is voor de wijze van indiening en de inhoud van de aanvragen van toepassing hetgeen is bepaald bij of krachtens artikel 24 zoals dat luidde voor de wijzigingen ingevolge het [Belastingplan 2006](../../../../../../../../../../../wet/belastingplan/2006/BWBR0019286/README.md). 
+1. Met betrekking tot de toepassing van deze wet terzake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2006, blijven de bepalingen bij of krachtens de hoofdstukken VIII en IX zoals deze luidden voor de wijzigingen ingevolge het Belastingplan 2006, van toepassing. 
+2. Aanvragen voor een S&O-verklaring met betrekking tot kalendermaanden in 2006 die zijn of worden ingediend op de voet van artikel 24, derde lid, zoals dat luidde voor de wijzigingen ingevolge het Belastingplan 2006, worden behandeld als aanvragen die zijn ingediend met inachtneming van artikel 22, eerste lid, of, indien de aanvrager een S&O-belastingplichtige is, artikel 27, tweede lid, zoals deze luiden na de wijzigingen ingevolge het Belastingplan 2006. 
+3. Met betrekking tot aanvragen als bedoeld in het tweede lid, is voor de wijze van indiening en de inhoud van de aanvragen van toepassing hetgeen is bepaald bij of krachtens artikel 24 zoals dat luidde voor de wijzigingen ingevolge het Belastingplan 2006. 
 
 ### Artikel  48  
 

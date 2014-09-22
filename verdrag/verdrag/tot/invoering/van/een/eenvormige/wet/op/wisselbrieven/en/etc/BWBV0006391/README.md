@@ -282,7 +282,7 @@ When a bill of exchange is drawn payable in a currency which is not that of the 
 
 ###Article 42 
 
-When a bill of exchange is pot presented for payment within the limit of time fixed bij Article 38, every debtor is authorised to deposit the amount with the competent authority at the charge, risk and peril of the holder.
+When a bill of exchange is not presented for payment within the limit of time fixed bij Article 38, every debtor is authorised to deposit the amount with the competent authority at the charge, risk and peril of the holder.
 
 ###Chapter VII 
 
@@ -590,7 +590,7 @@ By way of derogation from Article 45 of the Uniform Law, each of the High Contra
 
 ###Article 13 
 
-Each of the High Contracting Parties is entitled to prescribe, as regards bills of exchange which are both issued and payable in its territory, that the rate of interest mentioned in Article 48, N°. 2, and Article 49, N°. 2 of the Uniform Law may be replaced by the legal rate in force in the territory of that High Contracting Party.
+Each of the High Contracting Parties is entitled to prescribe, as regards bills of exchange which are both issued and payable in its territory, that the rate of interest mentioned in Article 48, N°. 2, and Article 49, N°. 2, of the Uniform Law may be replaced by the legal rate in force in the territory of that High Contracting Party.
 
 ###Article 14 
 
@@ -636,7 +636,7 @@ Each of the High Contracting Parties undertakes to recognise the provisions adop
 
 ####to the Convention.
 
-At the time of signing the Convention of this day's date for the settlement of certain conflicts of law in connection with bills of exchange and promissory notes, the undersigned, duly authorised have agreed upon the following provisions:
+At the time of signing the Convention of this day's date for the settlement of certain conflicts of law in connection with bills of exchange and promissory notes, the undersigned, duly authorised, have agreed upon the following provisions:
 ###A.
 
 The Members of the League of Nations and the non-Member States who may not have been able to deposit their ratifications of the said Convention before September 1st, 1932, undertake to forward within fifteen days from that date a communication to the Secretary-General of the League of Nations informing him of their situation as regards ratification.
@@ -992,7 +992,7 @@ Bij gedeeltelijke acceptatie kan degene, die ter voldoening aan zijnen regrespli
 
 ###Artikel 52 
 
-Ieder, die een recht van regres kan uitoefenen, kan, tenzij het tegendeel bedongen is, op zich de vergoeding bezorgen door middel van een nieuwen wisselbrief (herwissel), getrokken op zicht op éénen van degenen, die tegenover hem regresplichtig zijn en betaalbaar te diens woonplaats.De herwissel omvat, behalve de bedragen in de artt. 48 en 49 aangegeven, de bedragen van provisie en het zegel van den herwissel. Indien de herwissel door den houder is getrokken, wordt het bedrag bepaald volgens den koers van eenen zichtwissel, getrokken van de plaats, waar de oorspronkelijke wisselbrief betaalbaar was, op de woonplaats van den regresplichtige. Indien de herwissel is getrokken door eenen endossant, wordt het bedrag bepaald volgens den koers van eenen zichtwissel, getrokken van de woonplaats van den trekker van den herwissel op de woonplaats van den regresplichtige.
+Ieder, die een recht van regres kan uitoefenen, kan, tenzij het tegendeel bedongen is, zich de vergoeding bezorgen door middel van een nieuwen wisselbrief (herwissel), getrokken op zicht op éénen van degenen, die tegenover hem regresplichtig zijn en betaalbaar te diens woonplaats.De herwissel omvat, behalve de bedragen in de artt. 48 en 49 aangegeven, de bedragen van provisie en het zegel van den herwissel. Indien de herwissel door den houder is getrokken, wordt het bedrag bepaald volgens den koers van eenen zichtwissel, getrokken van de plaats, waar de oorspronkelijke wisselbrief betaalbaar was, op de woonplaats van den regresplichtige. Indien de herwissel is getrokken door eenen endossant, wordt het bedrag bepaald volgens den koers van eenen zichtwissel, getrokken van de woonplaats van den trekker van den herwissel op de woonplaats van den regresplichtige.
 
 ###Artikel 53 
 
@@ -1070,11 +1070,11 @@ Hij, die bij tusschenkomst betaalt, verkrijgt de rechten, uit den wisselbrief vo
 
 ###Artikel 64 
 
-De wisselbrief kan in meer gelijkluidende exemplaren worden getrokken.Die exemplaren moeten in den tekst zelf van den titel worden genummerd, bij gebreke waarvan elk exemplaar wordt beschouwd als een afzonderlijken wisselbrief. Iedere houder van eenen wisselbrief, waarin niet is vermeld, dat deze in een enkel exemplaar getrokken is, kan op zijne kosten de levering van meer exemplaren vorderen. Te dien einde moet hij zich tot zijn onmiddellijken endossant wenden, die verplicht is zijne medewerking te verleenen om zijn eigen endossant aan te spreken, en, zoo vervolgens, teruggaande tot den trekker. De endossanten zijn verplicht, de endossementen ook op de nieuwe exemplaren aan te brengen.
+De wisselbrief kan in meer gelijkluidende exemplaren worden getrokken.Die exemplaren moeten in den tekst zelf van den titel worden genummerd, bij gebreke waarvan elk exemplaar wordt beschouwd als een afzonderlijken wisselbrief. Iedere houder van eenen wisselbrief, waarin niet is vermeld, dat deze in een enkel exemplaar getrokken is, kan op zijne kosten de levering van meer exemplaren vorderen. Te dien einde moet hij zich tot zijn onmiddellijken endossant wenden, die verplicht is zijne medewerking te verleenen om zijn eigen endossant aan te spreken, en zoo vervolgens, teruggaande tot den trekker. De endossanten zijn verplicht, de endossementen ook op de nieuwe exemplaren aan te brengen.
 
 ###Artikel 65 
 
-De betaling, op één der exemplaren gedaan, bevrijdt, ook al ware niet bedongen, dat die betaling de kracht der andere exemplaren, te niet doet. Echter blijft de betrokkene verbonden wegens elk geaccepteerd exemplaar, dat hem niet is uitgeleverd.De endossant, die de exemplaren aan verschillende personen heeft overgedragen, alsook de latere endossanten, zijn verbonden wegens alle exemplaren, die hunne handteekening dragen en die niet zijn uitgeleverd.
+De betaling, op één der exemplaren gedaan, bevrijdt, ook al ware niet bedongen, dat die betaling de kracht der andere exemplaren te niet doet. Echter blijft de betrokkene verbonden wegens elk geaccepteerd exemplaar, dat hem niet is uitgeleverd.De endossant, die de exemplaren aan verschillende personen heeft overgedragen, alsook de latere endossanten, zijn verbonden wegens alle exemplaren, die hunne handteekening dragen en die niet zijn uitgeleverd.
 
 ###Artikel 66 
 
