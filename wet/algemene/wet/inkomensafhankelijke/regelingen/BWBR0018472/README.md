@@ -34,7 +34,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen, alsmede in inkomensafhankelijke regelingen, wordt verstaan onder: 
 
-a. belastbaar loon: het belastbare loon bedoeld in [artikel 9 van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), met uitzondering van loon dat als een eindheffingsbestanddeel in de zin van [die wet](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) is belast;  
+a. belastbaar loon: het belastbare loon bedoeld in artikel 9 van de Wet op de loonbelasting 1964, met uitzondering van loon dat als een eindheffingsbestanddeel in de zin van die wet is belast;  
 
 b. berekeningsjaar: het kalenderjaar waarop de tegemoetkoming betrekking heeft;  
 
@@ -58,26 +58,26 @@ h. tegemoetkoming: een financiële bijdrage van het Rijk op grond van een inkome
 
 i. toetsingsinkomen: het inkomen bedoeld in artikel 8;  
 
-j. verzamelinkomen: het verzamelinkomen bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+j. verzamelinkomen: het verzamelinkomen bedoeld in artikel 2.18 van de Wet inkomstenbelasting 2001;  
 
-k. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+k. vreemdeling: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000;  
 
-l.inspecteur: de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+l.inspecteur: de inspecteur, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;
 
-m.niet in Nederland belastbaar inkomen: inkomen dat niet in het verzamelinkomen of het belastbare loon is begrepen omdat het niet behoort tot het Nederlandse inkomen, bedoeld in [artikel 7.1 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of omdat het is vrijgesteld op grond van bepalingen van interregionaal of internationaal recht;
+m.niet in Nederland belastbaar inkomen: inkomen dat niet in het verzamelinkomen of het belastbare loon is begrepen omdat het niet behoort tot het Nederlandse inkomen, bedoeld in artikel 7.1 van de Wet inkomstenbelasting 2001, of omdat het is vrijgesteld op grond van bepalingen van interregionaal of internationaal recht;
 
-n.ontvanger: de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);
+n.ontvanger: de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990;
 
-o.inkomensgegeven: inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+o.inkomensgegeven: inkomensgegeven als bedoeld in artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen;
 
-p. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md).    
+p. burgerservicenummer: het nummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer.    
 2.  In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Financiën.  
 
 ### Artikel  3  
 
 ####Partner
 
-1.  Partner van de belanghebbende is degene die ingevolge [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) als partner wordt aangemerkt. [Artikel 2, zesde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing.   
+1.  Partner van de belanghebbende is degene die ingevolge artikel 5a van de Algemene wet inzake rijksbelastingen als partner wordt aangemerkt. Artikel 2, zesde lid, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing.   
 2.  In aanvulling op het eerste lid wordt voor de toepassing van deze wet en de daarop berustende bepalingen onder partner mede verstaan degene die als ingezetene op hetzelfde woonadres is ingeschreven in de basisregistratie personen als de belanghebbende en: 
 
 a. uit wiens relatie met de belanghebbende een kind is geboren;  
@@ -90,12 +90,12 @@ d. die samen met de belanghebbende een woning heeft, die hun anders dan tijdelij
 
 e. die evenals de belanghebbende meerderjarig is, waarbij op dat woonadres tevens een minderjarig kind van ten minste een van beiden staat ingeschreven, behoudens ingeval de belanghebbende door middel van een schriftelijke huurovereenkomst, waaraan bij ministeriële regeling nadere voorwaarden kunnen worden gesteld, doet blijken dat een van beiden op zakelijke gronden een gedeelte van de woning huurt van de ander; 
 
-f. voor de toepassing van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) voor het berekeningsjaar wordt aangemerkt als partner van de belanghebbende, of  
+f. voor de toepassing van de Wet inkomstenbelasting 2001 voor het berekeningsjaar wordt aangemerkt als partner van de belanghebbende, of  
 
 g. die in het aan het berekeningsjaar voorafgaande kalenderjaar reeds partner van de belanghebbende was.     
 3.  Degene die ingevolge het tweede lid voor een deel van het berekeningsjaar als partner wordt aangemerkt, wordt ook als partner aangemerkt in de andere perioden van het berekeningsjaar, voor zover hij in die perioden als ingezetene op hetzelfde woonadres is ingeschreven in de basisregistratie personen als de belanghebbende.   
-4.  Een belanghebbende kan op enig moment slechts één partner hebben. Indien de belanghebbende op grond van het tweede lid op dat moment meer dan één partner zou hebben, geldt als partner van de belanghebbende degene die ingevolge [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) op dat moment als partner wordt aangemerkt; mocht op grond van artikel 5a van de Algemene wet inzake rijksbelastingen op dat moment geen persoon als partner zijn aangemerkt, geldt als partner degene die op grond van de in het tweede lid eerstgenoemde categorie als partner wordt aangemerkt.   
-5.  In afwijking van [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en het tweede lid wordt niet als partner aangemerkt, een bloedverwant in de eerste graad van de belanghebbende, tenzij beiden bij de aanvang van het kalenderjaar de leeftijd van 27 jaar hebben bereikt.   
+4.  Een belanghebbende kan op enig moment slechts één partner hebben. Indien de belanghebbende op grond van het tweede lid op dat moment meer dan één partner zou hebben, geldt als partner van de belanghebbende degene die ingevolge artikel 5a van de Algemene wet inzake rijksbelastingen op dat moment als partner wordt aangemerkt; mocht op grond van artikel 5a van de Algemene wet inzake rijksbelastingen op dat moment geen persoon als partner zijn aangemerkt, geldt als partner degene die op grond van de in het tweede lid eerstgenoemde categorie als partner wordt aangemerkt.   
+5.  In afwijking van artikel 5a van de Algemene wet inzake rijksbelastingen en het tweede lid wordt niet als partner aangemerkt, een bloedverwant in de eerste graad van de belanghebbende, tenzij beiden bij de aanvang van het kalenderjaar de leeftijd van 27 jaar hebben bereikt.   
 6.  Personen die partners waren op grond van het tweede lid, blijven als partners aangemerkt nadat de in dat onderdeel bedoelde inschrijving op hetzelfde woonadres niet langer mogelijk is als gevolg van opname in een verpleeghuis of verzorgingshuis vanwege medische redenen of ouderdom van een van hen, zolang na het einde van die inschrijving op hetzelfde woonadres ten aanzien van geen van beiden een derde persoon als partner wordt aangemerkt. De eerste volzin vindt geen toepassing meer indien één van beiden door middel van een schriftelijke kennisgeving aan de Belastingdienst/Toeslagen laat weten dat zij niet langer als partners willen worden aangemerkt. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit lid. 
 
 ### Artikel  4  
@@ -104,7 +104,7 @@ g. die in het aan het berekeningsjaar voorafgaande kalenderjaar reeds partner va
 
 1.  Kind is de bloedverwant of aanverwant in de neergaande lijn van de belanghebbende of zijn partner, die in belangrijke mate wordt onderhouden door de belanghebbende of zijn partner en als ingezetene op hetzelfde woonadres als de belanghebbende is ingeschreven in de basisregistratie personen. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind.   
 2.  De in het eerste lid opgenomen voorwaarde van inschrijving in de basisregistratie personen geldt niet gedurende de periode waarin de aldaar bedoelde persoon tegelijkertijd tot de huishoudens van zijn beide ouders behoort en hij op hetzelfde woonadres als een van die ouders is ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort iemand tegelijkertijd tot het huishouden van beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft.   
-3.  Een kind wordt in belangrijke mate onderhouden als bedoeld in het eerste lid indien is voldaan aan de regels gesteld krachtens [artikel 1.5 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
+3.  Een kind wordt in belangrijke mate onderhouden als bedoeld in het eerste lid indien is voldaan aan de regels gesteld krachtens artikel 1.5 van de Wet inkomstenbelasting 2001.  
 
 ### Artikel  5  
 
@@ -129,11 +129,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 1.  Ter bepaling van de draagkracht voor de toepassing van een inkomensafhankelijke regeling wordt het toetsingsinkomen, bedoeld in artikel 8, van de belanghebbende en dat van zijn partner in aanmerking genomen.   
 2.  Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van een tegemoetkoming, wordt mede het toetsingsinkomen van de medebewoners in aanmerking genomen.   
-3.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen, bestaat geen aanspraak op een tegemoetkoming, indien bij de belanghebbende of, indien de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, zijn partner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstelling, bedoeld in [artikel 5.13 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-4.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen van medebewoners, bestaat tevens geen aanspraak op een tegemoetkoming indien bij een medebewoner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstelling, bedoeld in [artikel 5.13 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Het bepaalde in de eerste volzin geldt alleen ten aanzien van degenen van wie het medebewonerschap het gehele berekeningsjaar heeft geduurd.   
-5.  Voor de toepassing van het derde en vierde lid alsmede voor de toepassing van bepalingen in inkomensafhankelijke regelingen die verwijzen naar [artikel 5.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt onder voordeel uit sparen en beleggen mede verstaan het in het niet in Nederland belastbaar inkomen begrepen voordeel uit sparen en beleggen.  
+3.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen, bestaat geen aanspraak op een tegemoetkoming, indien bij de belanghebbende of, indien de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, zijn partner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstelling, bedoeld in artikel 5.13 van die wet.   
+4.  Indien in een inkomensafhankelijke regeling de aanspraak op een tegemoetkoming mede afhankelijk is gesteld van het vermogen van medebewoners, bestaat tevens geen aanspraak op een tegemoetkoming indien bij een medebewoner over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 in aanmerking wordt genomen, dan wel in aanmerking zou worden genomen indien geen rekening wordt gehouden met de vrijstelling, bedoeld in artikel 5.13 van die wet. Het bepaalde in de eerste volzin geldt alleen ten aanzien van degenen van wie het medebewonerschap het gehele berekeningsjaar heeft geduurd.   
+5.  Voor de toepassing van het derde en vierde lid alsmede voor de toepassing van bepalingen in inkomensafhankelijke regelingen die verwijzen naar artikel 5.2 van de Wet inkomstenbelasting 2001, wordt onder voordeel uit sparen en beleggen mede verstaan het in het niet in Nederland belastbaar inkomen begrepen voordeel uit sparen en beleggen.  
 6.  Het toetsingsinkomen van een medebewoner die een eerstegraads bloed- of aanverwant in de neergaande lijn of een pleegkind is van de belanghebbende, van zijn partner, of van een medebewoner, en die bij de aanvang van het berekeningsjaar de leeftijd van 23 jaar niet heeft bereikt, wordt voor de toepassing van het tweede lid slechts in aanmerking genomen voor zover het meer bedraagt dan €  4.706.   
-7.  Met betrekking tot het bedrag vermeld in het zesde lid zijn de [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van overeenkomstige toepassing.  
+7.  Met betrekking tot het bedrag vermeld in het zesde lid zijn de artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
@@ -153,13 +153,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 a.ten aanzien van degene die binnenlandse belastingplichtige is voor de inkomstenbelasting: het verschil tussen het verzamelinkomen dat hij zou hebben genoten ingeval er geen vrijstelling van interregionaal of internationaal recht van toepassing zou zijn en het verzamelinkomen dat hij met toepassing van de vrijstelling geniet;
 
-b.ten aanzien van degene die buitenlandse belastingplichtige is voor de inkomstenbelasting: het verschil tussen enerzijds het verzamelinkomen dat hij zou hebben genoten ingeval hij op de voet van [artikel 2.5 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zou hebben gekozen voor toepassing van de regels voor binnenlandse belastingplichtigen en, in geval van vrijstelling op grond van bepalingen van interregionaal of internationaal recht, zonder die vrijstelling, en anderzijds het verzamelinkomen dat hij heeft genoten als buitenlandse belastingplichtige;
+b.ten aanzien van degene die buitenlandse belastingplichtige is voor de inkomstenbelasting: het verschil tussen enerzijds het verzamelinkomen dat hij zou hebben genoten ingeval hij op de voet van artikel 2.5 van de Wet inkomstenbelasting 2001 zou hebben gekozen voor toepassing van de regels voor binnenlandse belastingplichtigen en, in geval van vrijstelling op grond van bepalingen van interregionaal of internationaal recht, zonder die vrijstelling, en anderzijds het verzamelinkomen dat hij heeft genoten als buitenlandse belastingplichtige;
 
 c.ten aanzien van degene die geen belastingplichtige is voor de inkomstenbelasting: het verzamelinkomen dat hij zou hebben genoten ingeval hij binnenlandse belastingplichtige zou zijn voor die belasting en, in geval van vrijstelling op grond van bepalingen van interregionaal of internationaal recht, zonder die vrijstelling. 
 3. Indien er grond is voor het vermoeden dat vaststelling van het niet in Nederland belastbaar inkomen ten onrechte achterwege is gelaten of dat dit inkomen tot een te laag bedrag is vastgesteld, kan de inspecteur alsnog het niet in Nederland belastbaar inkomen vaststellen dan wel het vastgestelde niet in Nederland belastbaar inkomen herzien. 
-4. Bij de in het eerste lid bedoelde vaststelling van het niet in Nederland belastbaar inkomen zijn, in afwijking in zoverre van de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [hoofdstukken VA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [VIIIA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van toepassing als betrof het de vaststelling van een aanslag inkomstenbelasting. 
-5. Bij de in het derde lid bedoelde vaststelling dan wel herziening van het niet in Nederland belastbaar inkomen zijn, in afwijking in zoverre van de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [hoofdstukken VA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [VIIIA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van toepassing als betrof het de vaststelling van een navorderingsaanslag inkomstenbelasting. 
-6. Een beschikking op grond van dit artikel wordt aangemerkt als een voor bezwaar vatbare beschikking als bedoeld in [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).
+4. Bij de in het eerste lid bedoelde vaststelling van het niet in Nederland belastbaar inkomen zijn, in afwijking in zoverre van de Algemene wet bestuursrecht, de bepalingen van de Algemene wet inzake rijksbelastingen, met uitzondering van de hoofdstukken VA en VIIIA, van toepassing als betrof het de vaststelling van een aanslag inkomstenbelasting. 
+5. Bij de in het derde lid bedoelde vaststelling dan wel herziening van het niet in Nederland belastbaar inkomen zijn, in afwijking in zoverre van de Algemene wet bestuursrecht, de bepalingen van de Algemene wet inzake rijksbelastingen, met uitzondering van de hoofdstukken VA en VIIIA, van toepassing als betrof het de vaststelling van een navorderingsaanslag inkomstenbelasting. 
+6. Een beschikking op grond van dit artikel wordt aangemerkt als een voor bezwaar vatbare beschikking als bedoeld in hoofdstuk V van de Algemene wet inzake rijksbelastingen.
 
 ###Paragraaf 4 
 
@@ -169,9 +169,9 @@ c.ten aanzien van degene die geen belastingplichtige is voor de inkomstenbelasti
 
 ####Wijziging status vreemdelingen; partner of medebewoner is vreemdeling
 
-1.  Indien aan een vreemdeling tijdens een rechtmatig verblijf als bedoeld in [artikel 8, onderdelen a tot en met e, en l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een tegemoetkoming is toegekend, heeft de omstandigheid dat hij aansluitend aan dit verblijf rechtmatig verblijf houdt in de zin van [artikel 8, onderdeel g of h, van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) niet tot gevolg dat hij daardoor zijn aanspraak verliest op eenzelfde tegemoetkoming gedurende de periode van laatstgenoemd verblijf.   
-2.  Ingeval de partner van de belanghebbende een vreemdeling is die niet rechtmatig verblijf houdt in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), heeft de belanghebbende geen aanspraak op een tegemoetkoming.   
-3.  Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van een tegemoetkoming, heeft de belanghebbende geen aanspraak op een tegemoetkoming ingeval een medebewoner een vreemdeling is die niet rechtmatig verblijf houdt in de zin van [artikel 8 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Indien de medebewoner een alleenstaande minderjarige vreemdeling is in de zin van [artikel 1, onderdeel e, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md), geldt de eerste volzin niet tot het moment waarop het recht op opvang ingevolge die regeling eindigt.  
+1.  Indien aan een vreemdeling tijdens een rechtmatig verblijf als bedoeld in artikel 8, onderdelen a tot en met e, en l, van de Vreemdelingenwet 2000 een tegemoetkoming is toegekend, heeft de omstandigheid dat hij aansluitend aan dit verblijf rechtmatig verblijf houdt in de zin van artikel 8, onderdeel g of h, van die wet niet tot gevolg dat hij daardoor zijn aanspraak verliest op eenzelfde tegemoetkoming gedurende de periode van laatstgenoemd verblijf.   
+2.  Ingeval de partner van de belanghebbende een vreemdeling is die niet rechtmatig verblijf houdt in de zin van artikel 8 van de Vreemdelingenwet 2000, heeft de belanghebbende geen aanspraak op een tegemoetkoming.   
+3.  Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van een tegemoetkoming, heeft de belanghebbende geen aanspraak op een tegemoetkoming ingeval een medebewoner een vreemdeling is die niet rechtmatig verblijf houdt in de zin van artikel 8 van de Vreemdelingenwet 2000. Indien de medebewoner een alleenstaande minderjarige vreemdeling is in de zin van artikel 1, onderdeel e, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005, geldt de eerste volzin niet tot het moment waarop het recht op opvang ingevolge die regeling eindigt.  
 
 ###Paragraaf 5 
 
@@ -201,13 +201,13 @@ c.ten aanzien van degene die geen belastingplichtige is voor de inkomstenbelasti
 
 ### Artikel  12  
 
-1. Voor de toepassing van dit hoofdstuk blijven [titel 4.2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 4:125 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing en zijn [artikel 3:40](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [titel 4.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de [hoofdstukken 6](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7 van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de verrekeningsbeschikking, bedoeld in artikel 30. 
-2.  [Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op beschikkingen van de Belastingdienst/Toeslagen met uitzondering van de beschikking tot toekenning van de tegemoetkoming, bedoeld in artikel 14, alsmede beslissingen op bezwaarschriften tegen deze beschikkingen, met dien verstande dat: 
+1. Voor de toepassing van dit hoofdstuk blijven titel 4.2 en artikel 4:125 van de Algemene wet bestuursrecht buiten toepassing en zijn artikel 3:40, titel 4.1 en de hoofdstukken 6 en 7 van die wet niet van toepassing op de verrekeningsbeschikking, bedoeld in artikel 30. 
+2.  Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht is niet van toepassing op beschikkingen van de Belastingdienst/Toeslagen met uitzondering van de beschikking tot toekenning van de tegemoetkoming, bedoeld in artikel 14, alsmede beslissingen op bezwaarschriften tegen deze beschikkingen, met dien verstande dat: 
 
 a. een door de Belastingdienst/Toeslagen verbeurde dwangsom € 10 bedraagt voor elke week dat hij in gebreke is, doch ten hoogste € 100, tenzij de toekenning van de tegemoetkoming leidt tot een na te betalen of terug te vorderen bedrag kleiner dan € 100 in welk geval de verbeurde dwangsom ten hoogste € 30 bedraagt;  
 
 b. de Belastingdienst/Toeslagen geen dwangsom verbeurt indien de toekenning van de tegemoetkoming leidt tot een na te betalen of terug te vorderen bedrag kleiner dan € 30.     
-3.  Voor de toepassing van dit hoofdstuk kan Onze Minister bij ministeriële regeling [paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor een bij die regeling te bepalen periode geheel of gedeeltelijk buiten toepassing verklaren indien er sprake is van een ernstige verstoring in het uitvoeringsproces, die het naar zijn oordeel aannemelijk maakt dat door belanghebbenden, als direct gevolg van de ernstige storing, massaal een beroep wordt gedaan op de dwangsomregeling, bedoeld in deze paragraaf. Na het tot stand komen van deze ministeriële regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. 
+3.  Voor de toepassing van dit hoofdstuk kan Onze Minister bij ministeriële regeling paragraaf 4.1.3.2 van de Algemene wet bestuursrecht voor een bij die regeling te bepalen periode geheel of gedeeltelijk buiten toepassing verklaren indien er sprake is van een ernstige verstoring in het uitvoeringsproces, die het naar zijn oordeel aannemelijk maakt dat door belanghebbenden, als direct gevolg van de ernstige storing, massaal een beroep wordt gedaan op de dwangsomregeling, bedoeld in deze paragraaf. Na het tot stand komen van deze ministeriële regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. 
 
 ### Paragraaf  2  
 
@@ -219,7 +219,7 @@ b. de Belastingdienst/Toeslagen geen dwangsom verbeurt indien de toekenning van 
 
 1.  Een tegemoetkoming wordt op aanvraag toegekend door de Belastingdienst/Toeslagen.   
 2.  Indien partners een gezamenlijke aanspraak op een tegemoetkoming hebben, wordt de tegemoetkoming uitsluitend toegekend aan de aanvrager.   
-3.  Indien op het moment van de toekenning van een tegemoetkoming ten name van de belanghebbende, zijn partner of een medebewoner over het berekeningsjaar geen inkomensgegeven in de basisregistratie inkomen, bedoeld in [artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld, kent de Belastingdienst/Toeslagen de tegemoetkoming toe als ware het toetsingsinkomen van die persoon nihil. De inspecteur stelt bij beschikking vast dat op het moment van de toekenning van de tegemoetkoming van die persoon geen inkomensgegeven in de basisregistratie inkomen, bedoeld in artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld. Deze beschikking wordt aangemerkt als een voor bezwaar vatbare beschikking als bedoeld in [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en vervat in hetzelfde geschrift als de toekenning van de tegemoetkoming.  
+3.  Indien op het moment van de toekenning van een tegemoetkoming ten name van de belanghebbende, zijn partner of een medebewoner over het berekeningsjaar geen inkomensgegeven in de basisregistratie inkomen, bedoeld in artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld, kent de Belastingdienst/Toeslagen de tegemoetkoming toe als ware het toetsingsinkomen van die persoon nihil. De inspecteur stelt bij beschikking vast dat op het moment van de toekenning van de tegemoetkoming van die persoon geen inkomensgegeven in de basisregistratie inkomen, bedoeld in artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld. Deze beschikking wordt aangemerkt als een voor bezwaar vatbare beschikking als bedoeld in hoofdstuk V van de Algemene wet inzake rijksbelastingen en vervat in hetzelfde geschrift als de toekenning van de tegemoetkoming.  
 4.  Het bedrag van de tegemoetkoming wordt rekenkundig afgerond op hele euro’s.   
 5.  Een tegemoetkoming wordt niet toegekend indien deze minder dan € 24 zou bedragen.  
 6. Bij wet kan worden bepaald dat een belanghebbende geacht wordt een aanvraag te hebben gedaan.
@@ -236,9 +236,9 @@ b. de Belastingdienst/Toeslagen geen dwangsom verbeurt indien de toekenning van 
 6.  Indien de Belastingdienst/Toeslagen van oordeel is dat toepassing van het vijfde lid kan worden beëindigd, deelt hij dit de belanghebbende schriftelijk mee.  
 7. De Belastingdienst/Toeslagen kan op eigen initiatief een aanvraagformulier toezenden aan degene die vermoedelijk voor een tegemoetkoming in aanmerking komt. Op dat formulier kunnen voor de belanghebbende en zijn niet duurzaam gescheiden levende echtgenoot of geregistreerde partner de gegevens worden vermeld die van belang kunnen zijn voor de beoordeling van de aanspraak of de bepaling van de hoogte van de tegemoetkoming.
 8. In bij algemene maatregel van bestuur te bepalen gevallen kan de in het zevende lid bedoelde vermelding van gegevens ook plaatsvinden voor de partner die niet is de in dat lid bedoelde partner. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-9. De belanghebbende of de partner die niet in Nederland belastbaar inkomen geniet, is gehouden aan de inspecteur een opgaaf te verstrekken van dat inkomen. Ter zake van die opgaaf is de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van [Hoofdstuk VIIIA](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van toepassing, als ware het een aangifte inkomstenbelasting.
+9. De belanghebbende of de partner die niet in Nederland belastbaar inkomen geniet, is gehouden aan de inspecteur een opgaaf te verstrekken van dat inkomen. Ter zake van die opgaaf is de Algemene wet inzake rijksbelastingen, met uitzondering van Hoofdstuk VIIIA, van toepassing, als ware het een aangifte inkomstenbelasting.
 10. Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of voor de bepaling van de hoogte van een tegemoetkoming, is het negende lid van overeenkomstige toepassing ten aanzien van de medebewoner die niet in Nederland belastbaar inkomen geniet.
-11. Indien de belanghebbende, zijn partner of een medebewoner in het berekeningsjaar als binnenlands belastingplichtige voor de inkomstenbelasting inkomen geniet ter zake waarvan recht bestaat op een vermindering van de verschuldigde inkomstenbelasting op grond van regelingen ter voorkoming van dubbele belasting, wordt ten aanzien van degene die dat inkomen geniet de aanvraag voor zoveel nodig tevens aangemerkt als een verzoek om te worden uitgenodigd tot het doen van aangifte inkomstenbelasting als bedoeld in [artikel 6, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).
+11. Indien de belanghebbende, zijn partner of een medebewoner in het berekeningsjaar als binnenlands belastingplichtige voor de inkomstenbelasting inkomen geniet ter zake waarvan recht bestaat op een vermindering van de verschuldigde inkomstenbelasting op grond van regelingen ter voorkoming van dubbele belasting, wordt ten aanzien van degene die dat inkomen geniet de aanvraag voor zoveel nodig tevens aangemerkt als een verzoek om te worden uitgenodigd tot het doen van aangifte inkomstenbelasting als bedoeld in artikel 6, tweede lid, van de Algemene wet inzake rijksbelastingen.
 
 ### Artikel  16  
 
@@ -366,8 +366,8 @@ b. indien er op het moment dat na de laatste dag van het berekeningsjaar waarop 
 
 ####Wijze van uitbetalen
 
-1.  In afwijking van [artikel 4:89, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt uitbetaling aan de belanghebbende van een voorschot of een tegemoetkoming door de Belastingdienst/Toeslagen uitsluitend plaats op een daartoe door de belanghebbende bestemde bankrekening die op naam staat van de belanghebbende. De belanghebbende kan niet meer dan één bankrekening bestemmen voor de uitbetaling van een voorschot of een tegemoetkoming en voor de uitbetaling van inkomstenbelasting.   
-2.  Indien de belanghebbende geen bankrekening heeft bestemd voor uitbetaling van een voorschot of een tegemoetkoming aan de belanghebbende, vindt uitbetaling door de Belastingdienst/Toeslagen plaats met overeenkomstige toepassing van [artikel 7a, tweede lid, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+1.  In afwijking van artikel 4:89, eerste lid, van de Algemene wet bestuursrecht vindt uitbetaling aan de belanghebbende van een voorschot of een tegemoetkoming door de Belastingdienst/Toeslagen uitsluitend plaats op een daartoe door de belanghebbende bestemde bankrekening die op naam staat van de belanghebbende. De belanghebbende kan niet meer dan één bankrekening bestemmen voor de uitbetaling van een voorschot of een tegemoetkoming en voor de uitbetaling van inkomstenbelasting.   
+2.  Indien de belanghebbende geen bankrekening heeft bestemd voor uitbetaling van een voorschot of een tegemoetkoming aan de belanghebbende, vindt uitbetaling door de Belastingdienst/Toeslagen plaats met overeenkomstige toepassing van artikel 7a, tweede lid, van de Invorderingswet 1990.   
 3.  In door Onze Minister in overeenstemming met Onze Ministers die het mede aangaat bij of krachtens ministeriële regeling aan te wijzen gevallen kan worden afgeweken van het eerste en tweede lid. Daarbij worden regels gesteld met betrekking tot de bestemming van een andere bankrekening voor de uitbetaling van een voorschot of een tegemoetkoming.  
 
 ### Artikel  26  
@@ -382,7 +382,7 @@ Indien een herziening van een tegemoetkoming of een herziening van een voorschot
 
 1.  Over uit te betalen bedragen wordt rente vergoed en over terug te vorderen bedragen wordt rente in rekening gebracht.   
 2.  De rente wordt enkelvoudig berekend over het tijdvak dat aanvangt op 1 juli van het jaar volgend op het berekeningsjaar en eindigt op de dag van de dagtekening van de beschikking tot toekenning onderscheidenlijk de beschikking tot herziening van de tegemoetkoming.   
-3.  Het percentage van de rente is gelijk aan het percentage, bedoeld in [artikel 30hb, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  
+3.  Het percentage van de rente is gelijk aan het percentage, bedoeld in artikel 30hb, van de Algemene wet inzake rijksbelastingen.  
 
 ### Artikel  28  
 
@@ -396,14 +396,14 @@ Indien een herziening van een tegemoetkoming of een herziening van een voorschot
 
 ####Rente bij te late betaling terugvordering
 
-Bij overschrijding van de in artikel 28 bedoelde betalingstermijn is rente verschuldigd met overeenkomstige toepassing van de [artikelen 28](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [29 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). 
+Bij overschrijding van de in artikel 28 bedoelde betalingstermijn is rente verschuldigd met overeenkomstige toepassing van de artikelen 28 en 29 van de Invorderingswet 1990. 
 
 ### Artikel  30  
 
 ####Verrekening
 
 1.  De Belastingdienst/Toeslagen is bevoegd tot verrekening van een door de belanghebbende verschuldigd bedrag aan terugvordering met een aan hem uit te betalen tegemoetkoming of voorschot daarop, een en ander ongeacht de inkomensafhankelijke regeling die het betreft en ongeacht het berekeningsjaar.   
-2.  De Belastingdienst/Toeslagen is tevens bevoegd, in afwijking van [artikel 3 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), tot verrekening van een door de belanghebbende verschuldigd bedrag aan terugvordering met aan hem uit te betalen bedragen inkomstenbelasting, premie volksverzekeringen, en belastingrente begrepen in een aanslag of voorlopige aanslag inkomstenbelasting.   
+2.  De Belastingdienst/Toeslagen is tevens bevoegd, in afwijking van artikel 3 van de Invorderingswet 1990, tot verrekening van een door de belanghebbende verschuldigd bedrag aan terugvordering met aan hem uit te betalen bedragen inkomstenbelasting, premie volksverzekeringen, en belastingrente begrepen in een aanslag of voorlopige aanslag inkomstenbelasting.   
 3.  Een verrekening vindt niet eerder plaats dan nadat de termijn bedoeld in artikel 28 is verstreken. De in de artikelen 27 en 29 bedoelde rente alsmede bestuurlijke boeten kunnen in de verrekening worden betrokken.  
 
 ### Artikel  31  
@@ -415,12 +415,12 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen
 ####Dwanginvordering bij terugvordering
 
 1.  Indien de belanghebbende het bedrag van de terugvordering, daaronder begrepen de in artikel 27 bedoelde rente alsmede bestuurlijke boeten, niet binnen de gestelde termijn betaalt, maant de Belastingdienst/Toeslagen hem schriftelijk aan om alsnog binnen twee weken na de dagtekening van de aanmaning te betalen.   
-2.  De invordering van het bedrag van de terugvordering kan geschieden bij een door de Belastingdienst/Toeslagen uit te vaardigen dwangbevel. In afwijking van [artikel 4:119, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen bij het dwangbevel tevens de kosten van de aanmaning, de kosten van het dwangbevel en de verschuldigde renten worden ingevorderd.   
-3.  De betekening van het dwangbevel geschiedt met overeenkomstige toepassing van [artikel 13 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
-4.  De [artikelen 14](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [18 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) zijn van overeenkomstige toepassing.   
-5.  De belanghebbende kan met overeenkomstige toepassing van [artikel 17 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), tegen de tenuitvoerlegging van het dwangbevel in verzet komen.   
-6.  Een derde die aan de belanghebbende loon, pensioen, lijfrente of uitkeringen, een en ander als bedoeld in [artikel 19 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), verschuldigd is, of een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarbij belanghebbende een tegoed op een rekening heeft, kan op vordering van de Belastingdienst/Toeslagen met overeenkomstige toepassing van [artikel 19 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) worden verplicht het door de belanghebbende verschuldigde bedrag aan terugvordering te betalen.   
-7.  [Artikel 27, eerste lid, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) is van overeenkomstige toepassing.  
+2.  De invordering van het bedrag van de terugvordering kan geschieden bij een door de Belastingdienst/Toeslagen uit te vaardigen dwangbevel. In afwijking van artikel 4:119, eerste lid, van de Algemene wet bestuursrecht kunnen bij het dwangbevel tevens de kosten van de aanmaning, de kosten van het dwangbevel en de verschuldigde renten worden ingevorderd.   
+3.  De betekening van het dwangbevel geschiedt met overeenkomstige toepassing van artikel 13 van de Invorderingswet 1990.   
+4.  De artikelen 14 en 18 van de Invorderingswet 1990 zijn van overeenkomstige toepassing.   
+5.  De belanghebbende kan met overeenkomstige toepassing van artikel 17 van de Invorderingswet 1990, tegen de tenuitvoerlegging van het dwangbevel in verzet komen.   
+6.  Een derde die aan de belanghebbende loon, pensioen, lijfrente of uitkeringen, een en ander als bedoeld in artikel 19 van de Invorderingswet 1990, verschuldigd is, of een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht waarbij belanghebbende een tegoed op een rekening heeft, kan op vordering van de Belastingdienst/Toeslagen met overeenkomstige toepassing van artikel 19 van de Invorderingswet 1990 worden verplicht het door de belanghebbende verschuldigde bedrag aan terugvordering te betalen.   
+7.  Artikel 27, eerste lid, van de Invorderingswet 1990 is van overeenkomstige toepassing.  
 
 ### Artikel  33  
 
@@ -430,16 +430,16 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen
 2.  Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van een tegemoetkoming, is ieder van de medebewoners hoofdelijk aansprakelijk voor een door de belanghebbende verschuldigd bedrag aan terugvordering en, overeenkomstig het eerste lid, voor de in te vorderen bedragen die verband houden met die terugvordering.  
 3.  Een derde aan wie op grond van artikel 25, derde lid, een voorschot of een tegemoetkoming is uitbetaald, is hoofdelijk aansprakelijk voor een door de belanghebbende verschuldigd bedrag aan terugvordering voor zover dat bedrag kan worden toegerekend aan de aan die derde uitbetaalde bedragen. Voor zover een terugvordering voortvloeit uit de toepassing van artikel 24, wordt het bedrag waarvoor de derde aansprakelijk is, bepaald op het gedeelte van de terugvordering dat in dezelfde verhouding staat tot het bedrag van de terugvordering als de aan de derde over het berekeningsjaar uitbetaalde voorschotten in verhouding staan tot het totale bedrag van de over het berekeningsjaar uitbetaalde voorschotten. Een derde die kan beschikken over een bankrekening waarop een voorschot of een tegemoetkoming is uitbetaald, is hoofdelijk aansprakelijk voor een door de belanghebbende verschuldigd bedrag aan terugvordering voor zover dat bedrag is betaald op die bankrekening.  
 4.  Aansprakelijkstelling geschiedt bij beschikking van de Belastingdienst/Toeslagen. Het bedrag waarvoor de aansprakelijkheid bestaat, is invorderbaar zes weken na de dagtekening van de beschikking. De artikelen 28, derde lid, 30, 31 en 32 zijn van overeenkomstige toepassing.   
-5.  Op de beschikking, bedoeld in het vierde lid, zijn de [artikelen 4:97 tot en met 4:102 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing  
+5.  Op de beschikking, bedoeld in het vierde lid, zijn de artikelen 4:97 tot en met 4:102 van de Algemene wet bestuursrecht niet van toepassing  
 6.  De aansprakelijkheid van de partner, bedoeld in het eerste lid, of van de derde, bedoeld in het derde lid, geldt tevens indien deze partner of derde niet in Nederland woont. 
 
 ### Artikel  34  
 
 ####Aanvullende bepalingen inzake invordering van een terugvordering
 
-1.  Tot het verrichten van de bij of krachtens een wet aan een deurwaarder opgedragen werkzaamheden is, voor zover die werkzaamheden geschieden in opdracht van de Belastingdienst/Toeslagen, uitsluitend een belastingdeurwaarder als bedoeld in [artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), bevoegd.   
+1.  Tot het verrichten van de bij of krachtens een wet aan een deurwaarder opgedragen werkzaamheden is, voor zover die werkzaamheden geschieden in opdracht van de Belastingdienst/Toeslagen, uitsluitend een belastingdeurwaarder als bedoeld in artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990, bevoegd.   
 2.  De Kostenwet invordering rijksbelastingen is van overeenkomstige toepassing.   
-3.  In afwijking van [artikel 4:92, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geschiedt de toerekening van de betalingen achtereenvolgens aan: 
+3.  In afwijking van artikel 4:92, eerste lid, van de Algemene wet bestuursrecht geschiedt de toerekening van de betalingen achtereenvolgens aan: 
 
 a. de kosten van invordering;  
 
@@ -455,13 +455,13 @@ c. de terugvordering, de in rekening gebrachte rente bedoeld in artikel 27 en de
 
 ####Aanvang bezwaartermijn
 
-In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het instellen van bezwaar aan op de dag na die van dagtekening van de beschikking, tenzij de dag van dagtekening gelegen is vóór de dag van de bekendmaking. 
+In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het instellen van bezwaar aan op de dag na die van dagtekening van de beschikking, tenzij de dag van dagtekening gelegen is vóór de dag van de bekendmaking. 
 
 ### Artikel  36  
 
 ####Aanvang beroepstermijn
 
-In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het instellen van beroep tegen een uitspraak op bezwaar aan op de dag na die van dagtekening van de uitspraak, tenzij de dag van dagtekening is gelegen vóór de dag van de bekendmaking. 
+In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het instellen van beroep tegen een uitspraak op bezwaar aan op de dag na die van dagtekening van de uitspraak, tenzij de dag van dagtekening is gelegen vóór de dag van de bekendmaking. 
 
 ### Artikel  37  
 
@@ -510,9 +510,9 @@ De Belastingdienst/Toeslagen kan onder bij of krachtens algemene maatregel van b
 ####Verzuimen
 
 1.  Degene die op grond van deze wet en de daarop berustende bepalingen gehouden is tot het verstrekken van gegevens of inlichtingen en deze niet, dan wel niet binnen de daartoe gestelde termijn, heeft verstrekt, begaat een verzuim ter zake waarvan de Belastingdienst/Toeslagen hem een bestuurlijke boete van ten hoogste € 4.920 kan opleggen.   
-2.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, is [hoofdstuk VIIIA, afdeling 2](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 67n](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67pa, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-3.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vindt [artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen toepassing.   
-4.  In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vijf jaren nadat de overtreding is begaan. 
+2.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, is hoofdstuk VIIIA, afdeling 2, met uitzondering van de artikelen 67n en 67pa, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
+3.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vindt artikel 5:53 van de Algemene wet bestuursrecht geen toepassing.   
+4.  In afwijking in zoverre van artikel 5:45 van de Algemene wet bestuursrecht vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vijf jaren nadat de overtreding is begaan. 
 
 ### Artikel  41  
 
@@ -526,16 +526,16 @@ a. een eerdere overtreding van de belanghebbende, zijn partner of een medebewone
 b. de bestuurlijke boete of strafrechtelijke sanctie wegens de eerdere overtreding, bedoeld in onderdeel a, onherroepelijk is geworden binnen een periode van vijf jaren voorafgaand aan de dag van constatering van de overtreding waarvoor de bestuurlijke boete, bedoeld in het eerste lid, wordt opgelegd.     
 3.  Indien de tegemoetkoming wordt herzien als gevolg van: 
 
-a. een eerste bepaling of herziening van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), ingeval er geen inkomstenbelasting verschuldigd is, dan wel de aanslag inkomstenbelasting is vastgesteld op nihil;  
+a. een eerste bepaling of herziening van het inkomensgegeven, bedoeld in artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen, ingeval er geen inkomstenbelasting verschuldigd is, dan wel de aanslag inkomstenbelasting is vastgesteld op nihil;  
 
 b. een vaststelling of herziening van een beschikking niet in Nederland belastbaar inkomen;   worden onder de gegevens of inlichtingen, bedoeld in het tweede lid, mede verstaan de gegevens of inlichtingen die ten behoeve van deze beschikking aan de inspecteur zijn verstrekt dan wel hadden moeten worden verstrekt.   
-4.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, is [hoofdstuk VIIIA, afdeling 2](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 67n](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67pa, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-5.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vindt [artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen toepassing.   
-6.  In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vijf jaren nadat de overtreding is begaan. 
+4.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, is hoofdstuk VIIIA, afdeling 2, met uitzondering van de artikelen 67n en 67pa, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
+5.  Bij het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vindt artikel 5:53 van de Algemene wet bestuursrecht geen toepassing.   
+6.  In afwijking in zoverre van artikel 5:45 van de Algemene wet bestuursrecht vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vijf jaren nadat de overtreding is begaan. 
 
 ### Artikel  41bis  
 
-1.  In afwijking van [artikel 5:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt onder overtreder mede verstaan: 
+1.  In afwijking van artikel 5:1 van de Algemene wet bestuursrecht wordt onder overtreder mede verstaan: 
 
 a. degene die de overtreding doet plegen;  
 
@@ -549,7 +549,7 @@ c. degene die als medeplichtige opzettelijk behulpzaam is bij of opzettelijk gel
 
 ####Indexatie boetebedragen
 
-1.  Het in artikel 40 genoemde bedrag wordt elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.   
+1.  Het in artikel 40 genoemde bedrag wordt elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.   
 2.  De gewijzigde bedragen vinden voor het eerst toepassing met betrekking tot overtredingen die hebben plaatsgevonden na het begin van het kalenderjaar bij de aanvang waarvan de bedragen zijn gewijzigd.  
 
 ### Artikel  42  
@@ -567,14 +567,14 @@ Indien de belanghebbende, zijn partner of een medebewoner de Belastingdienst/Toe
 ####Toezichthouders
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Ministers wie het aangaat, aangewezen ambtenaren.   
-2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:15, 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  44  
 
 ####Opsporingsambtenaren
 
-1.  Met de opsporing van de feiten omschreven in de [artikelen 225 tot en met 227b](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [447c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [447d van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover het feit voor de toepassing van deze wet van belang is, zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), belast de ambtenaren, aangewezen bij besluit van Onze Ministers wie het aangaat. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de feiten omschreven in de artikelen 225 tot en met 227b, 447c en 447d van het Wetboek van Strafrecht, voor zover het feit voor de toepassing van deze wet van belang is, zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren, aangewezen bij besluit van Onze Ministers wie het aangaat. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de artikelen 179 tot en met 182, en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  44a  
@@ -595,7 +595,7 @@ Ten dienste van de vervolging en berechting van de feiten waarvan de ambtenaren,
 
 a. een vordering tot nakoming van een betalingsverplichting wegens een geleverde prestatie waarbij de betalingsverplichting ter zake van die prestatie oorzaak is voor de tegemoetkoming;  
 
-b. een door de belanghebbende verschuldigd bedrag aan terugvordering dat betrekking heeft op dezelfde inkomensafhankelijke regeling.   De uitzondering opgenomen in onderdeel a van dit lid is niet van toepassing met betrekking tot een tegemoetkoming in het kader van de [Wet op het kindgebonden budget](../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md).  
+b. een door de belanghebbende verschuldigd bedrag aan terugvordering dat betrekking heeft op dezelfde inkomensafhankelijke regeling.   De uitzondering opgenomen in onderdeel a van dit lid is niet van toepassing met betrekking tot een tegemoetkoming in het kader van de Wet op het kindgebonden budget.  
 2.  Elk beding dat strijdt met het eerste lid is nietig.  
 
 ### Artikel  46  
@@ -608,7 +608,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ####Hardheidsclausule
 
-Onze Minister is bevoegd in overeenstemming met Onze Ministers die het aangaat bij ministeriële regeling voor groepen van gevallen tegemoet te komen aan onbillijkheden van overwegende aard, welke zich bij de toepassing van artikel 7, derde of vierde lid, [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md) mochten voordoen. 
+Onze Minister is bevoegd in overeenstemming met Onze Ministers die het aangaat bij ministeriële regeling voor groepen van gevallen tegemoet te komen aan onbillijkheden van overwegende aard, welke zich bij de toepassing van artikel 7, derde of vierde lid, artikel 2a, eerste lid, van de Wet op de zorgtoeslag of artikel 1, vierde lid, van de Wet op het kindgebonden budget mochten voordoen. 
 
 ###Hoofdstuk 5 
 

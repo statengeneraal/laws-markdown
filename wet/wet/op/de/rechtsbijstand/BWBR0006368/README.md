@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het, mede ter uitvoering van [artikel 18, tweede lid, van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is nieuwe wettelijke regels vast te stellen omtrent de verstrekking door de overheid van gefinancierde rechtsbijstand aan minder draagkrachtigen; 
+Alzo Wij in overweging genomen hebben, dat het, mede ter uitvoering van artikel 18, tweede lid, van de Grondwet, wenselijk is nieuwe wettelijke regels vast te stellen omtrent de verstrekking door de overheid van gefinancierde rechtsbijstand aan minder draagkrachtigen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Hoofdstuk  I  
 
@@ -18,15 +18,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *bestuur:* het bestuur, bedoeld in artikel 3;  
 
-*heffingvrij vermogen:* het heffingvrij vermogen, bedoeld in de [artikelen 5.5](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [5.6 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+*heffingvrij vermogen:* het heffingvrij vermogen, bedoeld in de artikelen 5.5 en 5.6 van de Wet inkomstenbelasting 2001;  
 
 *inkomen:* het inkomen, zoals berekend ingevolge de artikelen 34a tot en met 34d;  
 
-*inkomensgegeven:* inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+*inkomensgegeven:* inkomensgegeven als bedoeld in artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen;  
 
-*inspecteur:* de inspecteur, bedoeld in [artikel 2, derde lid, onder b, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+*inspecteur:* de inspecteur, bedoeld in artikel 2, derde lid, onder b, van de Algemene wet inzake rijksbelastingen;  
 
-*Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
+*Kaderwet:* de Kaderwet zelfstandige bestuursorganen;  
 
 *mediation:* het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;  
 
@@ -50,11 +50,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *toevoeging:* de toevoeging ten behoeve van rechtsbijstand als bedoeld in artikel 24, eerste lid, of mediation als bedoeld in artikel 33a;  
 
-*vermogen:* het gemiddelde van de rendementsgrondslagen, bedoeld in [artikel 5.2 van de Wet op de inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+*vermogen:* het gemiddelde van de rendementsgrondslagen, bedoeld in artikel 5.2 van de Wet op de inkomstenbelasting 2001;  
 
 *voorziening:* een door het bestuur ingerichte voorziening als bedoeld in artikel 7, tweede lid, of 8, tweede lid.     
 2.   Vervallen.   
-3.  In deze wet en de daarop berustende bepalingen worden onder advocaten mede verstaan de personen, bedoeld in [artikel 16h van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).  
+3.  In deze wet en de daarop berustende bepalingen worden onder advocaten mede verstaan de personen, bedoeld in artikel 16h van de Advocatenwet.  
 
 ### Hoofdstuk  II  
 
@@ -90,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Het bestuur besluit met volstrekte meerderheid van uitgebrachte stemmen. Elk lid heeft één stem. Indien de stemmen staken beslist de voorzitter.   
 2.  Het bestuur stelt bij reglement in ieder geval regels omtrent zijn werkwijze, procedures en besluitvorming alsmede de vertegenwoordiging van het bestuur, bedoeld in artikel 3, eerste lid.   
-3.  Het bestuur verstrekt, onverminderd zijn verplichtingen jegens Onze Minister ingevolge [artikel 20 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), desgevraagd inlichtingen aan de raad van advies. Artikel 20 van de Kaderwet is van overeenkomstige toepassing. 
+3.  Het bestuur verstrekt, onverminderd zijn verplichtingen jegens Onze Minister ingevolge artikel 20 van de Kaderwet, desgevraagd inlichtingen aan de raad van advies. Artikel 20 van de Kaderwet is van overeenkomstige toepassing. 
 
 ### §  3  
 
@@ -98,11 +98,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  5  
 
-1.  De [artikelen 9](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [11 tot en met 14](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [18](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [20](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [21](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [23](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [39, eerste lid](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), en [41 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn van overeenkomstige toepassing op de raad van advies, met dien verstande dat: 
+1.  De artikelen 9, 11 tot en met 14, 18, 20, 21, 23, 39, eerste lid, en 41 van de Kaderwet zijn van overeenkomstige toepassing op de raad van advies, met dien verstande dat: 
 
-a. onder bezoldiging of schadeloosstelling als bedoeld in [artikel 14 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) wordt verstaan: vacatiegeld; en  
+a. onder bezoldiging of schadeloosstelling als bedoeld in artikel 14 van de Kaderwet wordt verstaan: vacatiegeld; en  
 
-b. de raad van advies het jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) tezamen met het jaarverslag van het bestuur kan uitbrengen.     
+b. de raad van advies het jaarverslag, bedoeld in artikel 18, eerste lid, van de Kaderwet tezamen met het jaarverslag van het bestuur kan uitbrengen.     
 2.  De raad van advies bestaat uit ten hoogste vijf leden, die voor een periode van ten hoogste vier jaren worden benoemd. Zij kunnen na afloop van deze periode aansluitend eenmaal opnieuw worden herbenoemd voor een termijn van ten hoogste vier jaren. Onze Minister wijst de voorzitter aan. 
 
 ### Artikel  6  
@@ -163,7 +163,7 @@ Het bestuur stelt een klachtenregeling vast, waarop een ieder die een klacht hee
 
 ### Artikel  11  
 
-In afwijking van [artikel 15 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) worden de personeelsleden van de raad in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van [titel 10 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) alsmede [artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) zijn op deze overeenkomst van toepassing.  
+In afwijking van artikel 15 van de Kaderwet worden de personeelsleden van de raad in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek alsmede artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 zijn op deze overeenkomst van toepassing.  
 
 ### Hoofdstuk  III  
 
@@ -205,7 +205,7 @@ a. door het bestuur ingeschreven advocaten;
 
 b. medewerkers van een voorziening voorzover belast met de verlening van rechtsbijstand;  
 
-c. notarissen, onverminderd het bepaalde in [artikel 56 van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md), gerechtsdeurwaarders en anderen met wie de raad een overeenkomst is aangegaan tot het verlenen van rechtsbijstand op bepaalde rechtsgebieden.      
+c. notarissen, onverminderd het bepaalde in artikel 56 van de Wet op het notarisambt, gerechtsdeurwaarders en anderen met wie de raad een overeenkomst is aangegaan tot het verlenen van rechtsbijstand op bepaalde rechtsgebieden.      
 2. Rechtshulp wordt uitsluitend verleend door medewerkers die in dienstbetrekking zijn bij de voorziening, bedoeld in artikel 7, tweede lid, of bij een voorziening als bedoeld in artikel 8, tweede lid, voorzover deze belast is met het verlenen van rechtshulp, of door anderen met wie de raad in overeenstemming met de regels, bedoeld in het derde lid, een overeenkomst is aangegaan tot het verlenen van rechtshulp.
 3. Het bestuur stelt regels met betrekking tot het aangaan van de in het eerste lid, onder c, en tweede lid bedoelde overeenkomsten. 
 
@@ -246,7 +246,7 @@ a. indien de advocaat niet voldaan heeft dan wel niet langer voldoet aan de voor
 
 b. indien naar zijn oordeel genoegzaam is gebleken dat de rechtsbijstandverlening door de advocaat niet voldoet aan redelijkerwijs te stellen eisen van doelmatigheid of zorgvuldigheid;   
 
-c. indien aan de advocaat een maatregel is opgelegd als bedoeld in [artikel 48, tweede lid, onder a tot en met c, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md) dan wel [artikel 60aa, tweede lid, onder a tot en met c](../../../../../../wet/advocatenwet/BWBR0002093/README.md);   
+c. indien aan de advocaat een maatregel is opgelegd als bedoeld in artikel 48, tweede lid, onder a tot en met c, van de Advocatenwet dan wel artikel 60aa, tweede lid, onder a tot en met c;   
 
 d. indien naar zijn oordeel genoegzaam is gebleken dat de advocaat herhaaldelijk onjuiste informatie heeft verstrekt ten behoeve van het vaststellen van de vergoeding;  
 
@@ -305,8 +305,8 @@ c.de reiskosten, voorzover bij het voorleggen van de zaak van de aanvrager de aa
 
 d.vijftig procent van het honorarium van personen die in opdracht van de rechter in de procedure optreden. 
 2. Voorzover mogelijk draagt het bestuur zorg voor de vertaling van de stukken, bedoeld in het eerste lid, onder b. 
-3. De hoogte van de vergoeding van de reiskosten, bedoeld in het eerste lid, onder c, wordt berekend overeenkomstig [artikel 25 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md). 
-4. De hoogte van de vergoeding van het honorarium van de personen, bedoeld in het eerste lid, onder a, b en d, wordt berekend overeenkomstig de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md).
+3. De hoogte van de vergoeding van de reiskosten, bedoeld in het eerste lid, onder c, wordt berekend overeenkomstig artikel 25 van het Besluit vergoedingen rechtsbijstand 2000. 
+4. De hoogte van de vergoeding van het honorarium van de personen, bedoeld in het eerste lid, onder a, b en d, wordt berekend overeenkomstig de Wet griffierechten burgerlijke zaken.
 
 ### Artikel 23f 
 
@@ -404,13 +404,13 @@ d.een rechtsprobleem betreft dat door de voorziening, bedoeld in artikel 7, twee
 ### Artikel  29  
 
 1. Een afschrift van het besluit tot toevoeging wordt zo spoedig mogelijk, doch in ieder geval voordat de einduitspraak is gedaan, overgelegd aan de rechter voor wie de zaak dient.   
-2.  Indien de rechtsbijstandverlener de toevoeging niet overeenkomstig het eerste lid aan de rechter heeft overgelegd en als gevolg daarvan geen toepassing is gegeven aan [artikel 57b, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of [artikel 8:75, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt op het bedrag dat als vergoeding is vastgesteld in mindering gebracht het bedrag dat de tegenpartij in een procedure na een veroordeling in de proceskosten aan de rechtzoekende moet betalen.   
-3.  Indien op grond van de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bezwaar of administratief beroep wordt ingesteld en de belanghebbende een verzoek om een kostenvergoeding doet, wordt een afschrift van het besluit tot toevoeging zo spoedig mogelijk, doch in ieder geval voordat het bestuursorgaan op het bezwaar heeft beslist dan wel het beroepsorgaan op het beroep heeft beslist, overgelegd aan dat bestuurs- of beroepsorgaan. 
+2.  Indien de rechtsbijstandverlener de toevoeging niet overeenkomstig het eerste lid aan de rechter heeft overgelegd en als gevolg daarvan geen toepassing is gegeven aan artikel 57b, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering of artikel 8:75, tweede lid, van de Algemene wet bestuursrecht, wordt op het bedrag dat als vergoeding is vastgesteld in mindering gebracht het bedrag dat de tegenpartij in een procedure na een veroordeling in de proceskosten aan de rechtzoekende moet betalen.   
+3.  Indien op grond van de Algemene wet bestuursrecht bezwaar of administratief beroep wordt ingesteld en de belanghebbende een verzoek om een kostenvergoeding doet, wordt een afschrift van het besluit tot toevoeging zo spoedig mogelijk, doch in ieder geval voordat het bestuursorgaan op het bezwaar heeft beslist dan wel het beroepsorgaan op het beroep heeft beslist, overgelegd aan dat bestuurs- of beroepsorgaan. 
 
 ### Artikel  30  
 
 1.  In spoedeisende gevallen verleent het bestuur een voorlopige toevoeging. Het bestuur beslist zo spoedig mogelijk daarna over definitieve toevoeging; dit besluit treedt met terugwerkende kracht in de plaats van die tot verlening van een voorlopige toevoeging.   
-2.  Bij de verlening van de voorlopige toevoeging stelt het bestuur de aanvrager overeenkomstig [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een termijn, waarbinnen deze de voor de beoordeling van zijn aanvraag om een definitieve toevoeging van belang zijnde gegevens moet hebben overgelegd.  
+2.  Bij de verlening van de voorlopige toevoeging stelt het bestuur de aanvrager overeenkomstig artikel 4:5, eerste lid, van de Algemene wet bestuursrecht een termijn, waarbinnen deze de voor de beoordeling van zijn aanvraag om een definitieve toevoeging van belang zijnde gegevens moet hebben overgelegd.  
 
 ### Artikel  32  
 
@@ -428,7 +428,7 @@ c. de aanvrager in gebreke blijft de door hem verschuldigde eigen bijdrage en ov
 
 d.blijkt dat een andere toevoeging mede omvat het rechtsbelang waarvoor de toevoeging is verleend.   
 2.   De toegevoegde rechtsbijstandverlener kan zich na beëindiging of intrekking van de toevoeging aan de zaak onttrekken.    
-3.  Indien de toevoeging wordt beëindigd of ingetrokken op grond van een situatie als bedoeld in het eerste lid, onder a, kan het bestuur het bedrag ter hoogte van de vergoeding, bedoeld in artikel 37, vorderen van de rechtzoekende, tenzij de verlening van de vergoeding op grond van [artikel 4:48, eerste lid, onder c of d, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is ingetrokken of gewijzigd of de vergoeding op grond van [artikel 4:46, tweede lid, onder c of d, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) lager is vastgesteld dan wel de vaststelling van de vergoeding op grond van [artikel 4:49, eerste lid, onder b, van die wet](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is ingetrokken of ten nadele van de rechtsbijstandverlener is gewijzigd. 
+3.  Indien de toevoeging wordt beëindigd of ingetrokken op grond van een situatie als bedoeld in het eerste lid, onder a, kan het bestuur het bedrag ter hoogte van de vergoeding, bedoeld in artikel 37, vorderen van de rechtzoekende, tenzij de verlening van de vergoeding op grond van artikel 4:48, eerste lid, onder c of d, van de Algemene wet bestuursrecht is ingetrokken of gewijzigd of de vergoeding op grond van artikel 4:46, tweede lid, onder c of d, van de Algemene wet bestuursrecht lager is vastgesteld dan wel de vaststelling van de vergoeding op grond van artikel 4:49, eerste lid, onder b, van die wet is ingetrokken of ten nadele van de rechtsbijstandverlener is gewijzigd. 
 
 ###Hoofdstuk IVa 
 
@@ -519,7 +519,7 @@ Artikel 34a is van overeenkomstige toepassing op het vaststellen van het inkomen
 ### Artikel 34e 
 
 1. De beslissing op het bezwaar tegen de beslissing op de aanvraag om een toevoeging wordt geacht mede betrekking te hebben op de beslissing op de aanvraag, bedoeld in artikel 34c, eerste lid. 
-2. Indien de aanvraag, bedoeld in artikel 34c, eerste lid, later is ingediend dan het bezwaarschrift wordt in afwijking van [artikel 7:10 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de termijn waarbinnen het bestuur beslist geacht aan te vangen bij ontvangst van de aanvraag. 
+2. Indien de aanvraag, bedoeld in artikel 34c, eerste lid, later is ingediend dan het bezwaarschrift wordt in afwijking van artikel 7:10 van de Algemene wet bestuursrecht de termijn waarbinnen het bestuur beslist geacht aan te vangen bij ontvangst van de aanvraag. 
 3. Indien het bezwaarschrift later is ingediend dan de aanvraag om peiljaarverlegging wordt de termijn waarbinnen het bestuur op de aanvraag om peiljaarverlegging moet beslissen opgeschort tot het moment waarop op het bezwaar wordt beslist.
 
 ### Artikel 34f 
@@ -527,7 +527,7 @@ Artikel 34a is van overeenkomstige toepassing op het vaststellen van het inkomen
 1. De rechtzoekende is het bedrag dat in het kader van de verlening van rechtsbijstand door het bestuur is betaald aan de rechtsbijstandverlener verschuldigd aan het bestuur, indien de rechtzoekende op grond van het besluit, bedoeld in artikel 34d, eerste lid, geen recht heeft op de verlening van rechtsbijstand. 
 2. Het bestuur vordert het bedrag, bedoeld in het eerste lid, van de rechtzoekende, tenzij zwaarwegende omstandigheden zich daartegen verzetten. 
 3. Bij het vaststellen van de termijn of de termijnen waarbinnen moet worden betaald, houdt het bestuur rekening met de draagkracht van de rechtzoekende. 
-4.  Bij gebreke van volledige betaling kan het bestuur na een aanmaning als bedoeld in [artikel 4:112 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) invorderen bij dwangbevel als bedoeld in [artikel 4:114 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+4.  Bij gebreke van volledige betaling kan het bestuur na een aanmaning als bedoeld in artikel 4:112 van de Algemene wet bestuursrecht invorderen bij dwangbevel als bedoeld in artikel 4:114 van de Algemene wet bestuursrecht. 
 
 ### Artikel 34g 
 
@@ -644,15 +644,15 @@ c. de wijze waarop de zaak is behandeld.
 ### Artikel  42  
 
 1.  Onze Minister verstrekt de raad een subsidie voor de uitvoering van de wettelijke taken van het bestuur en de raad van advies.   
-2.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is titel 4.2 van die wet van toepassing.    
+2.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing.    
 3.  De subsidie wordt per boekjaar verstrekt.    
-4.  [Afdeling 4.2.8](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 4:71](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:72, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met dien verstande dat: 
+4.  Afdeling 4.2.8, met uitzondering van de artikelen 4:71 en 4:72, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht is van toepassing, met dien verstande dat: 
 
-a. de overeenkomstig [artikel 26 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) toe te zenden begroting betrekking heeft op het boekjaar en Onze Minister bij de ingevolge dat artikel vast te stellen datum rekening houdt met de [artikelen 4:60](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:61 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a. de overeenkomstig artikel 26 van de Kaderwet toe te zenden begroting betrekking heeft op het boekjaar en Onze Minister bij de ingevolge dat artikel vast te stellen datum rekening houdt met de artikelen 4:60 en 4:61 van de Algemene wet bestuursrecht;  
 
-b. in afwijking van [artikel 4:63 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de inhoud van de begroting de [artikelen 27](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [28 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing zijn;  
+b. in afwijking van artikel 4:63 van de Algemene wet bestuursrecht op de inhoud van de begroting de artikelen 27 en 28 van de Kaderwet van toepassing zijn;  
 
-c. het activiteitenverslag, bedoeld in [artikel 4:80 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt opgenomen in het jaarverslag, bedoeld in [artikel 18 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+c. het activiteitenverslag, bedoeld in artikel 4:80 van de Algemene wet bestuursrecht, wordt opgenomen in het jaarverslag, bedoeld in artikel 18 van de Kaderwet.   
 
 ### Artikel  42a  
 
@@ -670,7 +670,7 @@ e. de wijze waarop de subsidie wordt bepaald;
 
 f. het verlenen van voorschotten;  
 
-g. de gevallen waarin de raad een vergoeding voor vermogensvorming als bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigd is, alsmede hoe deze vergoeding wordt berekend;  
+g. de gevallen waarin de raad een vergoeding voor vermogensvorming als bedoeld in artikel 4:41 van de Algemene wet bestuursrecht verschuldigd is, alsmede hoe deze vergoeding wordt berekend;  
 
 h. de omvang en aanvulling van de egalisatiereserves en de aanwending van overschotten;  
 
@@ -680,24 +680,24 @@ j. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsi
 
 k. de termijn waarbinnen Onze Minister op de aanvraag tot vaststelling van de subsidie beslist;  
 
-l. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+l. het onderzoek door de accountant, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht;  
 
 m. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.     
-2.  Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vast.  
+2.  Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in artikel 4:79, tweede lid, van de Algemene wet bestuursrecht, vast.  
 
 ### Artikel  42b  
 
 1. Het bestuur kan met het oog op de uitoefening van zijn taken een subsidie verstrekken aan één of meer voorzieningen. 
-2. Op de subsidie, die per boekjaar wordt verstrekt, is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. 
+2. Op de subsidie, die per boekjaar wordt verstrekt, is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing. 
 3.  Het bestuur stelt regels over de verstrekking van de subsidie, die in ieder geval bepalingen omvatten omtrent: 
 
 a. de termijn die bij de indiening van de aanvraag tot subsidieverlening in acht wordt genomen;  
 
 b. het verlenen van voorschotten;  
 
-c. de gevallen waarin de voorziening een vergoeding voor vermogensvorming als bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigd is, alsmede hoe deze vergoeding wordt berekend;  
+c. de gevallen waarin de voorziening een vergoeding voor vermogensvorming als bedoeld in artikel 4:41 van de Algemene wet bestuursrecht verschuldigd is, alsmede hoe deze vergoeding wordt berekend;  
 
-d. de handelingen, bedoeld in [artikel 4:71 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), waarvoor de voorziening de toestemming van het bestuur behoeft;  
+d. de handelingen, bedoeld in artikel 4:71 van de Algemene wet bestuursrecht, waarvoor de voorziening de toestemming van het bestuur behoeft;  
 
 e. het vormen van een egalisatiereserve door de voorziening;  
 
@@ -705,10 +705,10 @@ f. de overige aan de subsidie verbonden verplichtingen;
 
 g. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht wordt genomen;   
 
-h. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
-4.  Het bestuur stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vast.  
+h. het onderzoek door de accountant, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht.     
+4.  Het bestuur stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in artikel 4:79, tweede lid, van de Algemene wet bestuursrecht, vast.  
 5. De door het bestuur op te stellen regels voor de subsidiëring van een voorziening behoeven de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.  
-6.  Voorzover noodzakelijk met het oog op het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verstrekt de voorziening persoonsgegevens van rechtzoekenden aan de accountant. 
+6.  Voorzover noodzakelijk met het oog op het onderzoek door de accountant, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht, verstrekt de voorziening persoonsgegevens van rechtzoekenden aan de accountant. 
 
 ### Artikel  42c  
 
@@ -721,35 +721,35 @@ h. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene we
 
 ### Artikel  43  
 
-1.  Rechtsbijstand is kosteloos in de gevallen waarin krachtens enig wettelijk voorschrift in het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan de verdachte of de veroordeelde op last van de rechter een raadsman wordt toegevoegd door het bestuur, onverminderd het in [artikel 49 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bepaalde.    
+1.  Rechtsbijstand is kosteloos in de gevallen waarin krachtens enig wettelijk voorschrift in het Wetboek van Strafrecht of het Wetboek van Strafvordering aan de verdachte of de veroordeelde op last van de rechter een raadsman wordt toegevoegd door het bestuur, onverminderd het in artikel 49 van het Wetboek van Strafvordering bepaalde.    
 2.   Het eerste lid is van overeenkomstige toepassing op rechtsbijstand bedoeld in:  
 
-a.  [artikel 24, derde lid, van de Uitleveringswet](../../../../../../wet/uitleveringswet/BWBR0002559/README.md);   
+a.  artikel 24, derde lid, van de Uitleveringswet;   
 
-b.  [artikel 100 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+b.  artikel 100 van de Vreemdelingenwet 2000;  
 
-c.  [artikel 65, eerste lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);   
+c.  artikel 65, eerste lid, van de Penitentiaire beginselenwet;   
 
-d.  [artikel 70, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);   
+d.  artikel 70, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen;   
 
-e.  [artikel 52, derde lid](../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md), en [64, tweede lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md);   
+e.  artikel 52, derde lid, en 64, tweede lid, van de Wet overdracht tenuitvoerlegging strafvonnissen;   
 
-f. de [artikelen 8, derde lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [22, eerste lid](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), en [41a, zesde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md);   
+f. de artikelen 8, derde lid, 22, eerste lid, en 41a, zesde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;   
 
-g.  [artikel 62, eerste lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md); 
+g.  artikel 62, eerste lid, van de Beginselenwet verpleging ter beschikking gestelden; 
 
-h. [artikel 5 van de Wet tijdelijk huisverbod](../../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md).    
+h. artikel 5 van de Wet tijdelijk huisverbod.    
 
 ### Artikel  44  
 
-1.  Aan personen die zich krachtens het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) door een raadsman kunnen doen bijstaan, kan het bestuur een advocaat toevoegen.    
-2.   De eigen bijdrage is niet verschuldigd, indien een zaak eindigt zonder de toepassing van een straf of maatregel dan wel zonder toepassing van [artikel 9a Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). De rechtsbijstandverlener restitueert de eigen bijdrage aan de rechtzoekende, tenzij deze de eigen bijdrage nog niet heeft voldaan.    
-3.   Het bestuur is bevoegd geen eigen bijdrage op te leggen bij de toevoeging van een raadsman aan hen die zich anders dan als verdachte of veroordeelde krachtens het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) laten bijstaan.    
-4.  Ongeacht de draagkracht is rechtsbijstand aan een slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf onderscheidenlijk aan een nabestaande van een slachtoffer van een zodanig misdrijf, indien het slachtoffer als gevolg van dat misdrijf is overleden, kosteloos, indien in de desbetreffende zaak vervolging is ingesteld en het slachtoffer onderscheidenlijk de nabestaande overeenkomstig [artikel 3 van de Wet schadefonds geweldsmisdrijven](../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md) in aanmerking komt voor een uitkering. 
+1.  Aan personen die zich krachtens het Wetboek van Strafrecht of het Wetboek van Strafvordering door een raadsman kunnen doen bijstaan, kan het bestuur een advocaat toevoegen.    
+2.   De eigen bijdrage is niet verschuldigd, indien een zaak eindigt zonder de toepassing van een straf of maatregel dan wel zonder toepassing van artikel 9a Wetboek van Strafrecht. De rechtsbijstandverlener restitueert de eigen bijdrage aan de rechtzoekende, tenzij deze de eigen bijdrage nog niet heeft voldaan.    
+3.   Het bestuur is bevoegd geen eigen bijdrage op te leggen bij de toevoeging van een raadsman aan hen die zich anders dan als verdachte of veroordeelde krachtens het Wetboek van Strafrecht of Wetboek van Strafvordering laten bijstaan.    
+4.  Ongeacht de draagkracht is rechtsbijstand aan een slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf onderscheidenlijk aan een nabestaande van een slachtoffer van een zodanig misdrijf, indien het slachtoffer als gevolg van dat misdrijf is overleden, kosteloos, indien in de desbetreffende zaak vervolging is ingesteld en het slachtoffer onderscheidenlijk de nabestaande overeenkomstig artikel 3 van de Wet schadefonds geweldsmisdrijven in aanmerking komt voor een uitkering. 
 
 ###Artikel 44a 
 
-1. Indien een verdachte in een strafzaak is bijgestaan door een raadsman die op het moment van de verlening van rechtsbijstand is toegevoegd, wordt met uitzondering van de vergoeding van de eigen bijdrage, geen kostenvergoeding van een raadsman als bedoeld in [artikel 591a, tweede lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) toegekend, tenzij de toevoeging, anders dan na een daartoe ingediende aanvraag, wordt ingetrokken of beëindigd.
+1. Indien een verdachte in een strafzaak is bijgestaan door een raadsman die op het moment van de verlening van rechtsbijstand is toegevoegd, wordt met uitzondering van de vergoeding van de eigen bijdrage, geen kostenvergoeding van een raadsman als bedoeld in artikel 591a, tweede lid, van het Wetboek van Strafvordering toegekend, tenzij de toevoeging, anders dan na een daartoe ingediende aanvraag, wordt ingetrokken of beëindigd.
 2. In het geval op last van de rechter een raadsman is toegevoegd, wordt overeenkomstig het eerste lid geen kostenvergoeding toegekend, indien de toevoeging op of na de uitspraak van de rechter na een daartoe ingediend verzoek van de verdachte bij de rechterlijke instantie die een last heeft verstrekt, wordt ingetrokken of beëindigd.
 
 ### Hoofdstuk  VII  
@@ -765,7 +765,7 @@ Vervallen per 01-01-2013
 ### Artikel  47  
 
 1.  Met het toezicht op de naleving van de bij of krachtens deze wet aan de ontvanger van de subsidie onderscheidenlijk vergoeding opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.    
-2.  De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De toezichthouder beschikt niet over de bevoegdheden, vermeld in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.    
 4.  Aan door Onze Minister verstrekte subsidies onderscheidenlijk vergoedingen is de verplichting verbonden dat de ontvanger van de subsidie onderscheidenlijk vergoeding aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 
@@ -775,7 +775,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  48  
 
-[Artikel 10, eerste lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is niet van toepassing op de aanspraken op rechtsbijstand overeenkomstig deze wet.  
+Artikel 10, eerste lid, van de Vreemdelingenwet 2000 is niet van toepassing op de aanspraken op rechtsbijstand overeenkomstig deze wet.  
 
 ### Artikel  49  
 
@@ -840,7 +840,7 @@ Bevat wijzigingen in andere regelgeving.
 ### Artikel  66  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.    
-2.   Met ingang van dezelfde datum wordt de Wet rechtsbijstand aan on- en minvermogenden ingetrokken met dien verstande dat deze laatste wet en de daarop steunende bepalingen, in afwijking van het gestelde in Artikel IV van de Wet van 22 december 1983 tot wijziging van de Wet rechtsbijstand aan on- en minvermogenden, van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en van de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) van toepassing blijven op rechtsbijstand die krachtens een voor deze datum genomen beslissing aan een rechtzoekende wordt verleend.   
+2.   Met ingang van dezelfde datum wordt de Wet rechtsbijstand aan on- en minvermogenden ingetrokken met dien verstande dat deze laatste wet en de daarop steunende bepalingen, in afwijking van het gestelde in Artikel IV van de Wet van 22 december 1983 tot wijziging van de Wet rechtsbijstand aan on- en minvermogenden, van het Wetboek van Burgerlijke Rechtsvordering en van de Wet griffierechten burgerlijke zaken van toepassing blijven op rechtsbijstand die krachtens een voor deze datum genomen beslissing aan een rechtzoekende wordt verleend.   
 
 ### Artikel  67  
 

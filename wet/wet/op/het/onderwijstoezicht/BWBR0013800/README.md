@@ -67,11 +67,11 @@ g. instelling: school, instelling of exameninstelling in de zin van een onderwij
 
 h instelling voor hoger onderwijs: een instelling als bedoeld in artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, 
 
-i. exameninstelling: instelling als bedoeld in artikel 1.6.1 van de Wet educatie en beroepsonderwijs,  
+i. samenwerkingsverband: samenwerkingsverband als bedoeld in artikel 1 van de Wet op het primair onderwijs en artikel 1 van de Wet op het voortgezet onderwijs,  
 
 j.regionaal expertisecentrum: regionaal expertisecentrum als bedoeld in artikel 28b van de Wet op de expertisecentra, waaronder begrepen de commissie voor de indicatiestelling die door het regionaal expertisecentrum in stand wordt gehouden,
 
-k. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de Leerplichtwet 1969 of de Leerplichtwet BES betreft hieronder wordt verstaan het hoofd van de school of instelling, en met dien verstande dat waar het het toezicht op de uitoefening van de taken van het regionaal expertisecentrum betreft hieronder wordt verstaan het bestuur van de rechtspersoon, bedoeld in artikel 28b, vijfde lid, van de Wet op de expertisecentra,  
+k. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de Leerplichtwet 1969 of de Leerplichtwet BES betreft hieronder wordt verstaan het hoofd van de school of instelling, en met dien verstande dat waar het het toezicht op de uitoefening van de taken van het samenwerkingsverband betreft hieronder wordt verstaan het bestuur van de rechtspersoon, bedoeld in artikel 18a, vierde lid, van de Wet op het primair onderwijs en artikel 17a, vierde lid, van de Wet op het voortgezet onderwijs,  
 
 l. onderwijsdeelnemer: leerling, deelnemer, student of extraneus in de zin van een onderwijswet,  
 
@@ -99,7 +99,7 @@ o. persoonsgebonden nummer: burgerservicenummer, bedoeld in artikel 1, onderdeel
 1.  Het toezicht op het onderwijs is opgedragen aan de inspectie.   
 2.  Het toezicht omvat de volgende taken: 
 
-a. het beoordelen en bevorderen van de kwaliteit van het onderwijs, daaronder begrepen de kwaliteit van het onderwijspersoneel, aan instellingen als bedoeld in de onderwijswetten met uitzondering van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, het beoordelen en bevorderen van de kwaliteit van de uitoefening van de taken van de regionale expertisecentra en de kenniscentra beroepsonderwijs bedrijfsleven, en het beoordelen van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra, bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen,  
+a. het beoordelen en bevorderen van de kwaliteit van het onderwijs, daaronder begrepen de kwaliteit van het onderwijspersoneel, aan instellingen als bedoeld in de onderwijswetten met uitzondering van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, het beoordelen en bevorderen van de kwaliteit van de uitoefening van de taken van de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven, en het beoordelen van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra, bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen,  
 
 b. het beoordelen en bevorderen van de naleving van de bij of krachtens een onderwijswet gegeven voorschriften,  
 
@@ -109,7 +109,7 @@ d. het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder 
 
 e. het beoordelen en bevorderen van de rechtmatigheid en de doeltreffendheid van de uitoefening van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens hoofdstuk 1, afdelingen 3 en 6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, met uitzondering van de bij of krachtens artikel 1.50b vastgestelde bepalingen omtrent de kwaliteit van voorschoolse educatie,  
 
-f. het rapporteren over de ontwikkeling van het onderwijs en over de uitoefening van de taken door de instellingen, de regionale expertisecentra en de kenniscentra beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en  
+f. het rapporteren over de ontwikkeling van het onderwijs en over de uitoefening van de taken door de instellingen, de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en  
 
 g. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.     
 3.  Onze Minister kan de inspectie mandaat verlenen om: 
@@ -194,7 +194,8 @@ c. indien de ernst van de situatie waarop de melding betrekking heeft daartoe aa
 
 1.  De inspectie rapporteert desgevraagd en uit eigen beweging aan Onze Minister over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs en doet op grond daarvan voorstellen die zij in het belang van het onderwijs nodig acht.   
 2.  De inspectie stelt jaarlijks uiterlijk de derde woensdag van mei het verslag over de staat van het onderwijs, bedoeld in artikel 23, achtste lid, van de Grondwet vast. Onze Minister zendt het verslag, vergezeld van een reactie, namens de regering onverwijld aan de Staten-Generaal.   
-3.  Onze Minister geeft geen aanwijzingen met betrekking tot de in de rapportages neergelegde oordelen van de inspectie over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.  
+3.  Onze Minister geeft geen aanwijzingen met betrekking tot de in de rapportages neergelegde oordelen van de inspectie over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.   
+4.  Indien een rapportage als bedoeld in het eerste lid, of een deel daarvan, specifiek het onderwijs in de Friese taal of het onderwijs in de Friese taal en cultuur betreft op het geheel aan scholen in het primair onderwijs, voortgezet onderwijs onderscheidenlijk speciaal onderwijs, zendt de inspectie, tegelijkertijd met verzending aan Onze Minister, die rapportage onderscheidenlijk dat deel, in afschrift aan gedeputeerde staten van Fryslân. 
 
 ### Artikel  9  
 
@@ -332,38 +333,32 @@ Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langd
 
 ###Hoofdstuk 3a 
 
-####Toezicht regionaal expertisecentrum
+####Toezicht samenwerkingsverbanden
 
 ###Artikel 15a 
 
 ####Reikwijdte
 
-Dit hoofdstuk is van toepassing op het toezicht op de uitoefening van de taken van het regionaal expertisecentrum.
+Dit hoofdstuk is van toepassing op het toezicht op de uitoefening van de taken van het samenwerkingsverband.
 
 ###Artikel 15b 
 
 ####Taken en bevoegdheden bij het toezicht
 
-Artikel 4 en artikel 8 zijn van overeenkomstige toepassing.
+Artikel 4 en artikel 8, eerste tot en met derde lid, zijn van overeenkomstige toepassing.
 
 ###Artikel 15c 
 
 ####Uitoefening van het toezicht
 
-1. Artikel 11 is van overeenkomstige toepassing, met dien verstande dat de inspectie het onderzoek tevens verricht aan de hand van aspecten van kwaliteit, te weten:
+1.  Artikel 11 is van overeenkomstige toepassing, met dien verstande dat de inspectie het onderzoek tevens verricht aan de hand van aspecten van kwaliteit, te weten: 
 
-a.coördinatie van de ambulante begeleiding,
+a. de wijze waarop invulling is gegeven aan het ondersteuningsplan, bedoeld in artikel 18a van de Wet op het primair onderwijs en artikel 17a van de Wet op het voortgezet onderwijs, en de wijze waarop het wordt uitgevoerd;  
 
-b.ondersteuning van de ouders,
+b. het aantal leerplichtige jongeren wonend in het gebied van het samenwerkingsverband dat niet is ingeschreven bij een school als bedoeld in de Leerplichtwet 1969, en  
 
-c.organisatie van de commissie voor de indicatiestelling door het regionaal expertisecentrum,
-
-d.onafhankelijkheid van de commissie voor de indicatiestelling,
-
-e.duur van de indicatieprocedure en
-
-f.toepassing van de indicatiecriteria, bedoeld in artikel 28c, achtste lid, van de Wet op de expertisecentra, door de commissie voor de indicatiestelling. 
-2. De artikelen 12, 13, 14 en 15 zijn van overeenkomstige toepassing.
+c. het aantal leerplichtige leerlingen van scholen in het samenwerkingsverband dat het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken zonder geldige reden niet meer volgt.     
+2.  De artikelen 12, 13, 14 en 15 zijn van overeenkomstige toepassing. 
 
 ###Artikel 15d 
 
@@ -373,24 +368,24 @@ De artikelen 20 en 21 zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk  3b  
 
-####Toezicht College voor examens
+####Toezicht College voor toetsen en examens
 
 ### Artikel  15e  
 
 ####Reikwijdte
 
-Dit hoofdstuk is van toepassing op het College voor examens, genoemd in artikel 2, eerste lid, van de Wet College voor examens. 
+Dit hoofdstuk is van toepassing op het College voor toetsen en examens, genoemd in artikel 2, eerste lid, van de Wet College voor toetsen en examens. 
 
 ### Artikel  15f  
 
-####Toezicht College voor examens
+####Toezicht College voor toetsen en examens
 
-1.  De inspectie houdt toezicht op de kwaliteit van het functioneren van het College voor examens en op de naleving van de bij of krachtens de Wet College voor examens, de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES gegeven voorschriften.   
+1.  De inspectie houdt toezicht op de kwaliteit van het functioneren van het College voor toetsen en examens en op de naleving van de bij of krachtens de Wet College voor toetsen en examens, de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES gegeven voorschriften.   
 2.  Ter uitvoering van de taak, bedoeld in het eerste lid, kan de inspectie Onze Minister onder meer voorstellen een voorziening te treffen als bedoeld in artikel 23 van de Kaderwet zelfstandige bestuursorganen, indien: 
 
-a. is gebleken dat de kwaliteit van het functioneren van het College voor examens onvoldoende is geweest, of  
+a. is gebleken dat de kwaliteit van het functioneren van het College voor toetsen en examens onvoldoende is geweest, of  
 
-b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens de Wet College voor examens is bepaald.    
+b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens de Wet College voor toetsen en examens is bepaald.    
 
 ### Hoofdstuk  3c  
 
@@ -458,7 +453,7 @@ Dit hoofdstuk is van toepassing op het toezicht op de kenniscentra beroepsonderw
 
 ####Taken en bevoegdheden bij het toezicht
 
-De artikelen 4, 8 en 9 zijn van overeenkomstige toepassing. 
+De artikelen 4, artikel 8, eerste tot en met derde lid, en 9 zijn van overeenkomstige toepassing. 
 
 ### Artikel  15n  
 
@@ -676,7 +671,18 @@ b. de gemeenten gegevens te verstrekken ten behoeve van de toekenning van uitker
 13.  Onze Minister verstrekt uit het basisregister onderwijs geen persoonsgebonden nummer van een leerling, deelnemer, student of extraneus ter uitvoering van artikel 107, tweede lid, van de Vreemdelingenwet 2000, tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van die wet dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.   
 14.  Uit het basisregister worden aan het meldingsregister relatief verzuim toegevoegd de persoonsgebonden nummers van de leerlingen en deelnemers, bedoeld in artikel 24c, eerste lid, onderdelen a tot en met e, met van elke leerling of deelnemer de naam, het geslacht, de geboortedatum, het adres en het gegeven of betrokkene al dan niet beschikt over een startkwalificatie.   
 15.  De toevoeging, bedoeld in het veertiende lid, gebeurt op het moment van de kennisgeving, bedoeld in artikel 21a, eerste lid, van de Leerplichtwet 1969, of de opgave, bedoeld in artikel 8.1.8a, eerste lid, van de Wet educatie en beroepsonderwijs, artikel 47b, eerste lid, van de Wet op de expertisecentra en artikel 28a, eerste lid, van de Wet op het voortgezet onderwijs.   
-16.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het derde en vierde lid.  
+16.  Uit het basisregister onderwijs worden aan het samenwerkingsverband met betrekking tot leerlingen die door het samenwerkingsverband toelaatbaar zijn verklaard tot het speciaal dan wel voortgezet speciaal onderwijs verstrekt:
+
+a. de datum van in- of uitschrijving op een school voor speciaal onderwijs, een school voor voortgezet speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra;  
+
+b. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;  
+
+c. het registratienummer van het samenwerkingsverband dat de leerling toelaatbaar heeft verklaard tot het speciaal dan wel voortgezet speciaal onderwijs en het volgnummer van de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende en twaalfde lid, van de Wet op de expertisecentra;  
+
+d. de begin- en einddatum van de periode waarvoor de leerling toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs; en  
+
+e. de bekostigingscategorie, bedoeld in de artikelen 118, tiende lid, en 132, vierde lid, van de Wet op het primair onderwijs en de artikelen 85b, derde lid, en 89a, derde lid, van de Wet op het voortgezet onderwijs.    
+17.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het derde en vierde lid.  
 
 ### Artikel  24g  
 

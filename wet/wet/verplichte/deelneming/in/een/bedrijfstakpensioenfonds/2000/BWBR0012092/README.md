@@ -22,15 +22,15 @@ a. Onze Minister: de Minister van Sociale Zaken en Werkgelegenheid;
 
 b.de Nederlandsche Bank: De Nederlandsche Bank N.V.;
 
-c.pensioen: het pensioen, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);
+c.pensioen: het pensioen, bedoeld in artikel 1 van de Pensioenwet;
 
-d.werkgever: de werkgever, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);
+d.werkgever: de werkgever, bedoeld in artikel 1 van de Pensioenwet;
 
-e.werknemer: de werknemer, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);
+e.werknemer: de werknemer, bedoeld in artikel 1 van de Pensioenwet;
 
-f.bedrijfstakpensioenfonds: het bedrijfstakpensioenfonds, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);
+f.bedrijfstakpensioenfonds: het bedrijfstakpensioenfonds, bedoeld in artikel 1 van de Pensioenwet;
 
-g.deelnemer: de deelnemer, bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md); 
+g.deelnemer: de deelnemer, bedoeld in artikel 1 van de Pensioenwet; 
 
 h. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;  
 
@@ -53,12 +53,12 @@ b. een authentiek afschrift van de akte van oprichting van het desbetreffende be
 
 c. een door het bestuur van het bedrijfstakpensioenfonds gewaarmerkt exemplaar van de reglementen;  
 
-d. een actuariële en bedrijfstechnische nota als bedoeld in [artikel 145 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+d. een actuariële en bedrijfstechnische nota als bedoeld in artikel 145 van de Pensioenwet;  
 
 e. een authentiek afschrift van de akte houdende wijziging van de statuten indien er een wijziging van de statuten heeft plaatsgevonden, en  
 
 f. een door het bestuur van het bedrijfstakpensioenfonds gewaarmerkt exemplaar van de wijzigingen van de reglementen indien er een wijziging van de reglementen heeft plaatsgevonden.     
-3.  Van de verplichtstelling zijn arbitrale bedingen als bedoeld in [artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) uitgesloten.   
+3.  Van de verplichtstelling zijn arbitrale bedingen als bedoeld in artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering uitgesloten.   
 4.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot het tweede lid nadere regels worden gesteld.  
 
 ### §  3  
@@ -80,8 +80,8 @@ De deelnemers alsmede, voorzover het werknemers betreft, hun werkgevers leven de
 
 ### Artikel  5  
 
-1.  Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer geen ander lichaam bij het geven van informatie aan consumenten over financiële producten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gebruik maakt van een naam of het merk dat door het bedrijfstakpensioenfonds wordt gebruikt dan wel gebruik maakt van een naam, merk of daarmee overeenstemmend teken indien door dat gebruik de mogelijkheid bestaat dat bij de consument een associatie wordt gewekt tussen de naam of het merk van het bedrijfstakpensioenfonds en de naam, het merk of het teken dat het lichaam gebruikt.   
-2.  Onder consument als bedoeld in het eerste lid wordt verstaan: een niet in de uitoefening van zijn beroep of bedrijf handelende natuurlijke persoon, alsmede de als werkgever in de zin van [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) handelende natuurlijke- of rechtspersoon.   
+1.  Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer geen ander lichaam bij het geven van informatie aan consumenten over financiële producten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht gebruik maakt van een naam of het merk dat door het bedrijfstakpensioenfonds wordt gebruikt dan wel gebruik maakt van een naam, merk of daarmee overeenstemmend teken indien door dat gebruik de mogelijkheid bestaat dat bij de consument een associatie wordt gewekt tussen de naam of het merk van het bedrijfstakpensioenfonds en de naam, het merk of het teken dat het lichaam gebruikt.   
+2.  Onder consument als bedoeld in het eerste lid wordt verstaan: een niet in de uitoefening van zijn beroep of bedrijf handelende natuurlijke persoon, alsmede de als werkgever in de zin van artikel 1 van de Pensioenwet handelende natuurlijke- of rechtspersoon.   
 3.  Het eerste lid is niet van toepassing: 
 
 a. met betrekking tot het gebruik van een naam als bedoeld in het eerste lid wanneer uitsluitend informatie wordt gegeven over de wijze waarop financiële producten zich verhouden tot de bij het bedrijfstakpensioenfonds ondergebrachte pensioenregeling, waarbij geen kwalitatief oordeel wordt gegeven over de relatie van het product tot de betreffende pensioenregeling; of  
@@ -100,9 +100,9 @@ a. er sprake is van een wettelijke verplichting tot gegevensverstrekking;
 
 b. gegevensverstrekking noodzakelijk is voor de uitvoering van de pensioenregeling;  
 
-c. gegevensverstrekking noodzakelijk is in verband met waardeoverdracht als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+c. gegevensverstrekking noodzakelijk is in verband met waardeoverdracht als bedoeld in artikel 1 van de Pensioenwet;  
 
-d. het gegevensverstrekking betreft aan de Nederlandsche Bank voorzover deze gegevensverstrekking nodig is voor de vervulling van haar bij of krachtens deze wet en de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) opgelegde taken; of  
+d. het gegevensverstrekking betreft aan de Nederlandsche Bank voorzover deze gegevensverstrekking nodig is voor de vervulling van haar bij of krachtens deze wet en de Pensioenwet opgelegde taken; of  
 
 e. er sprake is van het verstrekken van naam-, adres-, en woonplaatsgegevens aan verenigingen met volledige rechtsbevoegdheid die als statutair doel of mede als statutair doel hebben het behartigen van de belangen van haar leden als belanghebbenden bij een bedrijfstakpensioenfonds.     
 3.  De natuurlijke- of rechtspersoon aan wie de gegevensverstrekking, bedoeld in het tweede lid, onderdeel b, heeft plaatsgevonden gebruikt in het kader van de werkzaamheden uit hoofde waarvan de gegevens zijn verstrekt in contacten met deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, pensioengerechtigden en bij het bedrijfstakpensioenfonds aangesloten werkgevers uitsluitend de naam of het merk van het bedrijfstakpensioenfonds. Artikel 7, vierde en vijfde lid, zijn van overeenkomstige toepassing.   
@@ -195,7 +195,7 @@ c. de datum waarop na het verzoek van Onze Minister, bedoeld in het eerste of vi
 
 ####Ontheffing
 
-1.  Onverminderd [artikel 97, tweede lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) kan Onze Minister een persoon die slechts tijdelijk in Nederland werkzaam is, op aanvraag in een bijzonder, individueel geval voorwaardelijk of onvoorwaardelijk en al of niet voor een bepaalde tijd ontheffing verlenen van de verplichtstelling.   
+1.  Onverminderd artikel 97, tweede lid, van de Pensioenwet kan Onze Minister een persoon die slechts tijdelijk in Nederland werkzaam is, op aanvraag in een bijzonder, individueel geval voorwaardelijk of onvoorwaardelijk en al of niet voor een bepaalde tijd ontheffing verlenen van de verplichtstelling.   
 2.  Bij ministeriële regeling kunnen nadere regels met betrekking tot de aanvraag worden gesteld.  
 
 ### Artikel  16  
@@ -223,9 +223,9 @@ h.het niet verder in behandeling nemen van een aanvraag.
 
 ### Artikel  16a  
 
-####[Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md)
+####Kaderwet zelfstandige bestuursorganen
 
-De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is niet van toepassing op bedrijfstakpensioenfondsen. 
+De Kaderwet zelfstandige bestuursorganen is niet van toepassing op bedrijfstakpensioenfondsen. 
 
 ### §  4  
 
@@ -236,13 +236,13 @@ De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderw
 ####Toezicht
 
 1.  Het toezicht op de uitvoering van de artikelen 5, 6, 7, 8 en 9, eerste en tweede lid, berust bij de Nederlandsche Bank.   
-2. De [artikelen 152](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [153](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [163 tot en met 166](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [188 tot en met 191 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) zijn van overeenkomstige toepassing. 
+2. De artikelen 152, 153, 163 tot en met 166 en 188 tot en met 191 van de Pensioenwet zijn van overeenkomstige toepassing. 
 
 ### Artikel  18  
 
 ####Last onder dwangsom
 
-1. De Nederlandsche Bank kan een last onder dwangsom opleggen ter zake van een overtreding van de voorschriften, gesteld bij of krachtens deze wet en van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+1. De Nederlandsche Bank kan een last onder dwangsom opleggen ter zake van een overtreding van de voorschriften, gesteld bij of krachtens deze wet en van artikel 5:20 van de Algemene wet bestuursrecht. 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld ter zake van de uitoefening van de bevoegdheid tot het opleggen van een last onder dwangsom. 
 
 ### Artikel  19  
@@ -251,7 +251,7 @@ De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderw
 
 1.  De Nederlandsche Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij de artikelen 5, 6, 7, 8 en 9, eerste en tweede lid.   
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
-3.  [Artikel 184 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) is van overeenkomstige toepassing.  
+3.  Artikel 184 van de Pensioenwet is van overeenkomstige toepassing.  
 
 ### Artikel  20  
 
@@ -289,7 +289,7 @@ c. de naam, het beroep, de woonplaats en het adres van de schuldenaar;
 d. het bedrag van de achterstallige bijdragen, dat van de wettelijke of reglementaire renten of reglementaire boeten, voorzover daarop aanspraak wordt gemaakt en de aanmaningskosten voorzover daarop aanspraak wordt gemaakt, alsmede de gronden waarop de vordering berust;  
 
 e. de datum waarop de in het eerste lid bedoelde aanmaning is geschied.     
-4.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) kan worden ten uitvoer gelegd.   
+4.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het Wetboek van Burgerlijke Rechtsvordering kan worden ten uitvoer gelegd.   
 5.  Het dwangbevel kan niet ten uitvoer worden gelegd voordat acht dagen na de betekening daarvan zijn verstreken. De persoon of rechtspersoon aan wie het dwangbevel is gericht kan gedurende dertig dagen na de betekening door middel van dagvaarding tegen de tenuitvoerlegging van een dwangbevel in verzet komen bij de kantonrechter van de rechtbank van het arrondissement waarin hij woont of is gevestigd. Indien de persoon of de rechtspersoon buiten Nederland woont of is gevestigd dan wel in Nederland geen vaste woonplaats of plaats van vestiging heeft, kan hij in verzet komen bij de kantonrechter van de rechtbank van het arrondissement waarin het kantoor is gevestigd van het bedrijfstakpensioenfonds.   
 6.  Het verzet schorst de tenuitvoerlegging van het dwangbevel voorzover deze door het verzet wordt bestreden.   
 7.  Indien het verzet zich richt of mede richt tegen de hoogte van de gevorderde reglementaire rente of reglementaire boete, kan de rechter indien deze hem bovenmatig voorkomt, de bedongen reglementaire rente of reglementaire boete matigen, met dien verstande dat deze niet minder kan bedragen dan de wettelijke rente.   
@@ -331,7 +331,7 @@ d. indien een bestuurder van een lichaam een lichaam is: ieder van de bestuurder
 8.  Indien het bedrijfstakpensioenfonds een bestuurder hoofdelijk aansprakelijk stelt, doet het hem daarvan schriftelijk mededeling. De mededeling bevat de gronden waarop de aansprakelijkheid van de bestuurder berust.   
 9.  De persoon die hoofdelijk aansprakelijk is gesteld, kan ter zake van de hoogte van de door het lichaam aan het bedrijfstakpensioenfonds verschuldigde bijdragen geen vordering bij de rechter instellen, indien daaromtrent een onherroepelijk rechterlijk vonnis is gewezen in een door het lichaam of door een of meer andere aansprakelijk gestelde bestuurders ingestelde vordering.   
 10.  Na het overlijden van de bestuurder zijn de erfgenamen niet aansprakelijk als het bedrijfstakpensioenfonds niet vóór het overlijden de bestuurder bij schriftelijke mededeling aansprakelijk heeft gesteld.   
-11.  Indien de bestuurder van het lichaam op grond van dit artikel aansprakelijk is en niet in staat is tot betaling van zijn schuld ter zake, zijn de door die bestuurder onverplicht verrichte rechtshandelingen waardoor de mogelijkheid tot verhaal op hem is verminderd, vernietigbaar en kan het bedrijfstakpensioenfonds deze vernietigingsgrond inroepen, indien aannemelijk is dat deze geheel of nagenoeg geheel met dat oogmerk zijn verricht. [Artikel 45, vierde en vijfde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van overeenkomstige toepassing.   
+11.  Indien de bestuurder van het lichaam op grond van dit artikel aansprakelijk is en niet in staat is tot betaling van zijn schuld ter zake, zijn de door die bestuurder onverplicht verrichte rechtshandelingen waardoor de mogelijkheid tot verhaal op hem is verminderd, vernietigbaar en kan het bedrijfstakpensioenfonds deze vernietigingsgrond inroepen, indien aannemelijk is dat deze geheel of nagenoeg geheel met dat oogmerk zijn verricht. Artikel 45, vierde en vijfde lid, van Boek 3 van het Burgerlijk Wetboek is van overeenkomstige toepassing.   
 12.   Artikel 21 is ten aanzien van de persoon die krachtens dit artikel hoofdelijk aansprakelijk is, van overeenkomstige toepassing.   
 
 ### Artikel  24  
@@ -354,7 +354,7 @@ Van burgerlijke rechtsvorderingen ter zake van deelneming in en uitkering uit ee
 
 ### Artikel  27  
 
-#### [Algemene bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) 
+#### Algemene bijstandswet 
 
 Wijzigt de Algemene bijstandswet.  
 
@@ -366,25 +366,25 @@ Wijzigt de Organisatiewet sociale verzekeringen 1997.
 
 ### Artikel  29  
 
-#### [Pensioen- Spaarfondsenwet](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) 
+#### Pensioen- Spaarfondsenwet 
 
 Wijzigt de Pensioen- en Spaarfondsenwet.  
 
 ### Artikel  30  
 
-#### [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) 
+#### Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.  
 
 ### Artikel  31  
 
-#### [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) 
+#### Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.  
 
 ### Artikel  32  
 
-#### [Wet NV SDU](../../../../../../../../../wet/wet/nv/sdu/BWBR0004400/README.md) 
+#### Wet NV SDU 
 
 Wijzigt de Wet NV SDU.  
 
@@ -396,37 +396,37 @@ Wijzigt de Wet op de inkomstenbelasting 1964.
 
 ### Artikel  33a  
 
-#### [Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) 
+#### Wet inkomstenbelasting 2001 
 
 Wijzigt de Wet inkomstenbelasting 2001.   
 
 ### Artikel  34  
 
-#### [Wet op de vennootschapsbelasting 1969](../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
+#### Wet op de vennootschapsbelasting 1969 
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.  
 
 ### Artikel  35  
 
-#### [Wet privatisering ABP](../../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) 
+#### Wet privatisering ABP 
 
 Wijzigt de Wet privatisering ABP.  
 
 ### Artikel  36  
 
-#### [Wet privatisering FVP](../../../../../../../../../wet/wet/privatisering/fvp/BWBR0009756/README.md) 
+#### Wet privatisering FVP 
 
 Wijzigt de Wet privatisering FVP.  
 
 ### Artikel  37  
 
-#### [Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) 
+#### Wet toezicht verzekeringsbedrijf 1993 
 
 Wijzigt de Wet toezicht verzekeringsbedrijf 1993.  
 
 ### Artikel  38  
 
-#### [Wet verevening pensioenrechten bij scheiding](../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) 
+#### Wet verevening pensioenrechten bij scheiding 
 
 Wijzigt de Wet verevening pensioenrechten bij scheiding.  
 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over maatregelen ter voorkoming van wratziekte bij aardappelen (Verordening PA wratziekte 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, en 126, tweede lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -36,13 +36,13 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-1.  Het is de ondernemer verboden op een perceel, in daartoe in bijlage 1 onder A aangewezen gebieden, zetmeelaardappelen, als opgenomen in de [bijlage onder A van de Verordening PA aardappelteelt 2008](../../../../../../pbo/verordening/pa/aardappelteelt/2008/BWBR0024019/README.md), te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 1 onder B.   
+1.  Het is de ondernemer verboden op een perceel, in daartoe in bijlage 1 onder A aangewezen gebieden, zetmeelaardappelen, als opgenomen in de bijlage onder A van de Verordening PA aardappelteelt 2008, te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 1 onder B.   
 2. 
 a.Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder A aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, als genoemd in bijlage 2 onder C1. Voor de teelt van pootaardappelen geldt dat tevens het telen van de in bijlage 2 onder C2 vermelde rassen toegestaan is;
 
-b.Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder B aangewezen gebied, zetmeelaardappelen, als opgenomen in de [bijlage onder A van de Verordening PA aardappelteelt 2008](../../../../../../pbo/verordening/pa/aardappelteelt/2008/BWBR0024019/README.md), te telen, tenzij zij behoren tot een ras als genoemd in bijlage 2 onder C 1.   
+b.Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder B aangewezen gebied, zetmeelaardappelen, als opgenomen in de bijlage onder A van de Verordening PA aardappelteelt 2008, te telen, tenzij zij behoren tot een ras als genoemd in bijlage 2 onder C 1.   
 3.  Het is de ondernemer verboden op een perceel, in daartoe in bijlage 3 onder A aangewezen gebieden, aardappelplanten te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 3 onder B.   
-4.  De in het eerste, tweede en derde lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van het [Besluit bestrijding wratziekte](../../../../../../AMvB/besluit/bestrijding/wratziekte/1973/BWBR0002911/README.md) aangewezen terreinen, waarbinnen of waarop de aanwezigheid van de wratziekte of de schimmel is aangetoond of de wratziekte dreigt op te treden.  
+4.  De in het eerste, tweede en derde lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van het Besluit bestrijding wratziekte aangewezen terreinen, waarbinnen of waarop de aanwezigheid van de wratziekte of de schimmel is aangetoond of de wratziekte dreigt op te treden.  
 
 ### §  3  
 
@@ -124,13 +124,13 @@ Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdlett
 |:---|:---|:---|:---|:---|
 | Andante  | Novano  | Achilles  | Plasstärke  | Festien  | Aurora  | Allure  |
 | Avarna  | Kuba  | Aventra  | Plasuno  | Karakter  | Stefano | Annabelle  |
-| Belita  | --- | Averia  | Robény  |Actaro | Sofista | Starga  |
-| Django  | Panda  | Katinka  | Signum  |Altus | Valiant | --- |
-| Gunda | Seresta  | Merano  | Vebeca  |Axion | --- | --- |
-| Adam | Ulme  | Plasent  | Vebesta  |Supporter | --- | --- |
-|Ibis |Cekin | Plasinka  | --- | --- | --- | --- |
-|Transit |Stefanie | --- | --- | --- | --- | --- |
-|Plasettie |Dartiest | --- | --- | --- | --- | --- |
+| Belita  | Panda | Averia  | Robény  |Actaro | Sofista | Aveo |
+| Django  | Seresta | Katinka  | Signum  |Altus | Valiant |Avito |
+| Gunda | Ulme | Merano  | Vebeca  |Axion | --- |Starga |
+| Adam | Cekin | Plasent  | Vebesta  |Supporter | --- | --- |
+|Ibis |Stefanie | Plasinka  | --- |Lindita | --- | --- |
+|Transit |Dartiest | --- | --- | --- | --- | --- |
+|Plasettie |Sarion | --- | --- | --- | --- | --- |
 
 ### Bijlage 2  
 
@@ -150,7 +150,7 @@ C 1.
 |:---|:---|:---|:---|:---|
 | Amanda | Achilles  | Allure  | Albas  | Agria  |
 | Andante | Altus  | Aveka | Annabelle  | Amora  |
-| Avano | Amorosa | Energie | Astarte | Amyla |
+| Avano | Amorosa | --- | Astarte | Amyla |
 | Avaya | Ampera | Courage  | Asterix | Bintje |
 | Aventra | Aurora | Escort | Baraka | Cardinal |
 | Averia | Avarna | Euronova | Benno Vrizo | Diamant |
@@ -170,26 +170,26 @@ C 1.
 | Kuba | Plasandes | Ukama | Shannon | --- |
 | Logo | Plasent | Stratos | Stefáno | Eigenheimer*  |
 | Transit | Plasstärke | Vebesta | Sylvana | Gloria*  |
-| --- | Progress | Vectra | --- | --- |
-| Panda | Robény | Dayana | --- | --- |
-| Plasinka | Romano |Javina | --- | --- |
-| Provento | Sassy |Royal | --- | --- |
-| Scarlet | Smaragd |Supporter | --- | --- |
-| Seresta | Sofista | --- | --- | --- |
-| Signum | Starga | --- | --- | --- |
-| Stemster | Valiant | --- | --- | --- |
-| Talent | Taurus | --- | --- | --- |
-| Ulme |Aviron | --- | --- | --- |
-|Vebeca |Dirigent | --- | --- | --- |
-|Adam | --- | --- | --- | --- |
-|Cekin | --- | --- | --- | --- |
-|Gandawa | --- | --- | --- | --- |
-|Ibis | --- | --- | --- | --- |
+| Panda | Progress | Vectra | --- | --- |
+| Plasinka | Robény | Dayana | --- | --- |
+| Provento | Romano | --- | --- | --- |
+| Scarlet | Sassy |Royal | --- | --- |
+| Seresta | Smaragd |Supporter | --- | --- |
+| Signum | Sofista |Sarion | --- | --- |
+| Stemster | Starga | --- | --- | --- |
+| Talent | Valiant | --- | --- | --- |
+| Ulme | Taurus | --- | --- | --- |
+| Vebeca |Aviron | --- | --- | --- |
+|Adam |Dirigent | --- | --- | --- |
+|Cekin |Aveo | --- | --- | --- |
+|Gandawa |Avito | --- | --- | --- |
+|Ibis |Energie | --- | --- | --- |
 |Plasettie | --- | --- | --- | --- |
 |Stefanie | --- | --- | --- | --- |
 |Actaro | --- | --- | --- | --- |
 |Silla | --- | --- | --- | --- |
 |Tivoli | --- | --- | --- | --- |
+|Simphony | --- | --- | --- | --- |
 
 * Van deze rassen is bekend dat de veldresistentie minimaal 6 bedraagt. Een exact cijfer ontbreekt.C 2.  
 
@@ -223,7 +223,6 @@ C 1.
 |ADRETTA  |
 |AFRA  |
 |AGATA  |
-|AGAVE  |
 |AGNES  |
 |AGRIA  |
 |AGRINOVA  |
@@ -338,7 +337,6 @@ C 1.
 |CITADEL  |
 | --- |
 | --- |
-|CLARISSA  |
 |CLAUDIA  |
 |CLAUSTAR  |
 |CLEOPATRA  |
@@ -752,5 +750,5 @@ C 1.
 |WILJA  |
 |WISENT  |
 
-Achilles (10)Adam (10)Alberta (10)Almera (10)Antina (10)Arrabona (10)Bionica (10)Cascada (10)Cekin (10)Collina (7)El Mundo (10)Eurobona (10)Eurogrande (10)Exklusiv (10)Finessa (10)Gandawa (10)Ibis (10)Kiebitz (10)Lacetta (10)Lady Britta (10)Leandra (10)Michelle (10)Miss Bianka (10)Miss Blush (7)Miss Mignonne (7)Mungo (10)Nafida (10)Nandina (10)Pentiand Crown (10)Pentiand Ivory (10)Primavera (10)Regina (10)Shakira (10)Skawa (10)Stayer (10)Stefanie (10)Target (10)Transit (10)Vallent (10)Vr 808 (10)Zuzanna (10)AmarinArizonaArsenalAvenueBellonaBiologicaCompassCrisperDartiestDollyEurolunaEurostarIvory RussetLaperiaMarietteMariskaMarossoMarrakechMessinaMonte CaroloNovanoOkapiPantherPlasettiePrintalineRed SoniaRed SunRed ValentineRomeoRosagoldSaviolaSillaToccataActaro Ambassador Barcelona Colomba Destiny Evolution Inara Isabelia Javina Jazzy Kenita Kiwi Lady Anna Lady Lenora Lucinda Lusa Marylou Mondeo Obama Ribera Royal SennaCaptiva Bernina Coronada Endeavour Glorietta Hermes Kea Madeira Madison Odin Supporter Tonia
+Achilles (10)Adam (10)Alberta (10)Almera (10)Antina (10)Arrabona (10)Bionica (10)Cascada (10)Cekin (10)Collina (7)El Mundo (10)Eurobona (10)Eurogrande (10)Exklusiv (10)Finessa (10)Gandawa (10)Ibis (10)Kiebitz (10)Lacetta (10)Lady Britta (10)Leandra (10)Michelle (10)Miss Bianka (10)Miss Blush (7)Miss Mignonne (7)Mungo (10)Nafida (10)Nandina (10)Pentiand Crown (10)Pentiand Ivory (10)Primavera (10)Regina (10)Shakira (10)Skawa (10)Stayer (10)Stefanie (10)Target (10)Transit (10)Vallent (10)Vr 808 (10)Zuzanna (10)AmarinArizonaArsenalAvenueBellonaBiologicaCompassCrisperDartiestDollyEurolunaEurostarIvory RussetLaperiaMarietteMariskaMarossoMarrakechMessinaMonte CaroloNovanoOkapiPantherPlasettiePrintalineRed SoniaRed SunRed ValentineRomeoRosagoldSaviolaSillaToccataActaro Ambassador Barcelona Colomba Destiny Evolution Inara Isabelia Jazzy Kenita Kiwi Lady Anna Lady Lenora Lucinda Lusa Marylou Mondeo Obama Ribera Royal SennaCaptiva Bernina Coronada Endeavour Glorietta Hermes Kea Madeira Madison Odin Supporter ToniaAbbotAbbyActriceAlmondaAromataAthleteAveoAvitoBellefleurBlue StarBridgetCarolusCataniaConnectConstantinaCronosDonataEsmeeExellencyFolvaFritelleGazelleGiocondaGrenadineHelaLady SaraLucillaMagenta LoveMeerlanderMelantoMerlotMessiNavigatorPerformerPicobelloSimphonySophieTalentineTamiraViolet QueenVitabellaVitaliaVolareZelinda
 

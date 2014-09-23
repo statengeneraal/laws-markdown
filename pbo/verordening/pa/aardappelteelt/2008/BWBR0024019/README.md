@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels omtrent het gebruik van pootaardappelen (Verordening PA aardappelteelt 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -108,6 +108,7 @@ A. Als zetmeelrassen, bedoeld in artikel 3, worden aangewezen:
 | ALBAS  |
 | ALLURE  |
 | ALTUS  |
+|AMYLA |
 | ASTARTE  |
 | AURORA  |
 |AVANO |
@@ -146,10 +147,13 @@ A. Als zetmeelrassen, bedoeld in artikel 3, worden aangewezen:
 |PLASUNO |
 |REALIST |
 |ROBENY |
+|SARION |
+|SASSY |
 |SAVONA |
 |SCARLET |
 |SERESTA |
 |SIGNUM |
+|SIMPHONY |
 |SMARAGD |
 |SOFISTA |
 |SOPHYTRA |

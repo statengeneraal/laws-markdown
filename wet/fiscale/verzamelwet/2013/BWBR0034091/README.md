@@ -59,7 +59,7 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ### Artikel  XIII  
 
-Het toe te passen tarief op de levering van diensten, genoemd in [Tabel I, onderdeel b, posten 19 en 21, behorende bij de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), is het tarief dat van kracht is op het tijdstip waarop het belastbare feit zich voordoet. 
+Het toe te passen tarief op de levering van diensten, genoemd in Tabel I, onderdeel b, posten 19 en 21, behorende bij de Wet op de omzetbelasting 1968, is het tarief dat van kracht is op het tijdstip waarop het belastbare feit zich voordoet. 
 
 ### Artikel  XIV  
 
@@ -139,7 +139,7 @@ Wijzigt de Wet van 22 december 2011 tot aanpassing van een aantal wetten op het
 
 ### Artikel  XXXI  
 
-1.  Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat artikel XXIX, onderdeel A, toepassing vindt voordat [artikel VII, onderdeel B, van het Belastingplan 2012](../../../../../wet/belastingplan/2012/BWBR0030999/README.md) wordt toegepast.   
+1.  Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat artikel XXIX, onderdeel A, toepassing vindt voordat artikel VII, onderdeel B, van het Belastingplan 2012 wordt toegepast.   
 2.  In afwijking van het eerste lid treedt artikel II, onderdeel H, in werking met ingang van 1 januari 2022.   
 3.  Artikel II, onderdeel G, werkt terug tot en met 1 januari 2006.   
 4.  Artikel I, onderdeel L, werkt terug tot en met 1 januari 2009.   

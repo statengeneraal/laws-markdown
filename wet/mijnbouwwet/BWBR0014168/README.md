@@ -20,7 +20,7 @@ a. delfstoffen: in de ondergrond aanwezige mineralen of substanties van organisc
 
 b. aardwarmte: in de ondergrond aanwezige warmte die aldaar langs natuurlijke weg is ontstaan;  
 
-c. continentaal plat: het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk mede overeenkomstig het op 10 december 1982 te Montego-Bay gesloten Verdrag inzake het recht van de zee (Trb. 1983, 83) soevereine rechten heeft en hetwelk is gelegen aan de zeezijde van de in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md) bedoelde lijn;  
+c. continentaal plat: het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk mede overeenkomstig het op 10 december 1982 te Montego-Bay gesloten Verdrag inzake het recht van de zee (Trb. 1983, 83) soevereine rechten heeft en hetwelk is gelegen aan de zeezijde van de in artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee bedoelde lijn;  
 
 d. verkenningsonderzoek: een onderzoek, zonder gebruikmaking van een boorgat, naar de aanwezigheid van delfstoffen of naar de aanwezigheid van aardwarmte, dan wel naar nadere gegevens omtrent delfstoffen of aardwarmte;  
 
@@ -83,7 +83,7 @@ De rechthebbende ten aanzien van de oppervlakte van de aardbodem is verplicht te
 
 ### Artikel  5  
 
-Voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) worden werken die worden of zijn uitgevoerd ten behoeve van het opsporen van CO<sub>2</sub>-opslagcomplexen, het opsporen of winnen van delfstoffen of aardwarmte of ten behoeve van het opslaan van stoffen, aangemerkt als openbare werken van algemeen nut. 
+Voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht worden werken die worden of zijn uitgevoerd ten behoeve van het opsporen van CO<sub>2</sub>-opslagcomplexen, het opsporen of winnen van delfstoffen of aardwarmte of ten behoeve van het opslaan van stoffen, aangemerkt als openbare werken van algemeen nut. 
 
 ### Hoofdstuk  2  
 
@@ -222,7 +222,7 @@ b. het samenvoegen van twee of meer vergunningen, waardoor een vergunning voor e
 1.  De houder van een vergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. Artikel 7, tweede lid, en artikel 9, met uitzondering van het eerste lid, onderdeel d, zijn van overeenkomstige toepassing. Aan een toestemming kunnen voorschriften worden verbonden. Een toestemming kan onder beperkingen worden verleend.   
 2.  Indien de houder van een vergunning een deel van zijn vergunning op een ander wil doen overgaan, dient hij tevens een aanvraag in om splitsing van de vergunning als bedoeld in artikel 19, onderdeel a.   
 3.  Van een beschikking tot verlening van toestemming wordt mededeling gedaan in de Staatscourant.   
-4.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de schriftelijke toestemming, bedoeld in het eerste lid. 
+4.  Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de schriftelijke toestemming, bedoeld in het eerste lid. 
 
 ### Artikel  21  
 
@@ -288,7 +288,7 @@ a. stoffen op te slaan;
 
 b. CO<sub>2</sub>-opslagcomplexen op te sporen.     
 2.  Het verbod geldt niet met betrekking tot bij algemene maatregel van bestuur omschreven categorieën van gevallen.   
-3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid, onderdeel a. 
+3.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid, onderdeel a. 
 
 ### Artikel  26  
 
@@ -461,7 +461,7 @@ l. bodembeweging,
 m. de samenstelling van de CO<sub>2</sub>-stroom die wordt opgeslagen met inbegrip van stoffen die worden toegevoegd ten behoeve van de monitoring en de controle van CO<sub>2</sub>-migratie, en  
 
 n. het bedrag aan financiële zekerheid of een gelijkwaardige voorziening.     
-2.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) met uitzondering van [artikel 3:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van het besluit over een vergunning voor permanent opslaan van CO<sub>2</sub>, voor zover de opslag niet geschiedt in het continentaal plat of onder de territoriale zee in een opslagvoorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. Zienswijzen kunnen naar voren worden gebracht door een ieder. Afdeling 3.4 van de Algemene wet bestuursrecht is niet van toepassing indien het een besluit betreft inzake wijziging van een besluit omtrent een vergunning als bedoeld in het eerste lid.   
+2.  Afdeling 3.4 van de Algemene wet bestuursrecht met uitzondering van artikel 3:18 is van toepassing op de voorbereiding van het besluit over een vergunning voor permanent opslaan van CO<sub>2</sub>, voor zover de opslag niet geschiedt in het continentaal plat of onder de territoriale zee in een opslagvoorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. Zienswijzen kunnen naar voren worden gebracht door een ieder. Afdeling 3.4 van de Algemene wet bestuursrecht is niet van toepassing indien het een besluit betreft inzake wijziging van een besluit omtrent een vergunning als bedoeld in het eerste lid.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen omtrent het eerste lid regels worden gesteld.  
 
 ### Artikel  31e  
@@ -528,12 +528,12 @@ a. monitoring,
 
 b. corrigerende maatregelen en  
 
-c. de preventieve en herstelmaatregelen, bedoeld in de [artikelen 17.12](../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [17.13 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
+c. de preventieve en herstelmaatregelen, bedoeld in de artikelen 17.12 en 17.13 van de Wet milieubeheer.     
 2.  Indien na het tijdstip, bedoeld in het eerste lid, lekkages van CO<sub>2</sub> plaatsvinden: 
 
 a. meldt Onze Minister de lekkages aan de Nederlandse emissieautoriteit en  
 
-b. levert Onze Minister voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten als bedoeld in [artikel 1:1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) in, dat overeenkomt met de hoeveelheid van de emissie ten gevolge van de lekkages.     
+b. levert Onze Minister voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten als bedoeld in artikel 1:1 van de Wet milieubeheer in, dat overeenkomt met de hoeveelheid van de emissie ten gevolge van de lekkages.     
 3.  Met ingang van het tijdstip, bedoeld in het eerste lid, vervalt de verplichting de gestelde financiële zekerheid of een gelijkwaardige voorziening aan te houden.   
 4.  De monitoring betreft het niveau waarop lekkages of significante onregelmatigheden kunnen worden vastgesteld. Indien significante onregelmatigheden of dreiging daarvan worden vastgesteld, intensiveert Onze Minister de monitoring.   
 5.  Onze Minister verhaalt de kosten die samenhangen met het eerste lid en zijn ontstaan na intrekking van de vergunning op de voormalige houder van een vergunning voor permanent opslaan van CO<sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 voor zover hij niet zorgvuldig heeft gehandeld in de periode voorafgaande aan de intrekking van de opslagvergunning.   
@@ -556,7 +556,7 @@ Onze Minister houdt een register bij van de verleende vergunningen voor permanen
 
 ### Artikel  31n  
 
-Onze Minister draagt er zorg voor dat de milieu-informatie over permanent opslaan van CO<sub>2</sub> voor een ieder toegankelijk is. [Artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing. 
+Onze Minister draagt er zorg voor dat de milieu-informatie over permanent opslaan van CO<sub>2</sub> voor een ieder toegankelijk is. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing. 
 
 ### Artikel  32  
 
@@ -628,7 +628,7 @@ d. het belang van een planmatig beheer van voorkomens van delfstoffen of aardwar
 1.  Het winnen van delfstoffen vanuit een voorkomen geschiedt overeenkomstig een winningsplan.   
 2.  De houder van een winningsvergunning of de krachtens artikel 22 aangewezen persoon dient een winningsplan in bij Onze Minister.   
 3.  Het winningsplan behoeft de instemming van Onze Minister.   
-4.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van het besluit omtrent instemming met een winningsplan, voorzover het winnen van delfstoffen niet geschiedt in het continentaal plat of onder de territoriale zee vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. Zienswijzen kunnen naar voren worden gebracht door een ieder. [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing indien het een besluit betreft inzake wijziging van een besluit omtrent instemming met een winningsplan.  
+4.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van het besluit omtrent instemming met een winningsplan, voorzover het winnen van delfstoffen niet geschiedt in het continentaal plat of onder de territoriale zee vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. Zienswijzen kunnen naar voren worden gebracht door een ieder. Afdeling 3.4 van de Algemene wet bestuursrecht is niet van toepassing indien het een besluit betreft inzake wijziging van een besluit omtrent instemming met een winningsplan.  
 5.  Het eerste lid is niet van toepassing op het winnen van delfstoffen in het kader van het verkrijgen van gegevens voor zuiver wetenschappelijk onderzoek of voor het door de centrale overheid te voeren beleid.  
 
 ### Artikel  35  
@@ -674,7 +674,7 @@ Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk
 
 ### Artikel  40  
 
-1.  Dit artikel is van toepassing in die gevallen waarin [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) niet van toepassing is op een mijnbouwwerk.   
+1.  Dit artikel is van toepassing in die gevallen waarin artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht niet van toepassing is op een mijnbouwwerk.   
 2.  Het is verboden zonder vergunning van Onze Minister een mijnbouwwerk op te richten of in stand te houden. Het verbod geldt niet voor mijnbouwwerken, behorende tot een categorie die bij of krachtens algemene maatregel van bestuur van dit verbod is uitgezonderd en waarvoor die algemene maatregel van bestuur regels stelt ter bescherming van het milieu.   
 3.  De vergunning kan slechts in het belang van de bescherming van het milieu worden geweigerd.   
 4.  De vergunning kan onder beperkingen worden verleend. Aan de vergunning kunnen voorschriften worden verbonden. De beperkingen en voorschriften kunnen slechts worden gerechtvaardigd door het belang van de bescherming van het milieu.   
@@ -682,7 +682,7 @@ Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk
 6.  Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de aanvraag om een vergunning dient te geschieden en omtrent de gegevens en de bescheiden welke daarbij moeten worden overgelegd. Bij de regeling worden bestuursorganen aangewezen die in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het nemen van een besluit, of die op andere wijze bij de voorbereidingsprocedure worden betrokken.   
 7.  Onze Minister kan de beperkingen en voorschriften wijzigen, voorzover zij geen betrekking hebben op de plaats van het mijnbouwwerk en de wijziging wordt gerechtvaardigd door het belang van de bescherming van het milieu.   
 8.   Artikel 21, eerste lid, met uitzondering van onderdeel c, en tweede lid, is van overeenkomstige toepassing.  
-9.  Op de voorbereiding van de beschikking tot verlening van een vergunning is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+9.  Op de voorbereiding van de beschikking tot verlening van een vergunning is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 10.  In een vergunning kan worden bepaald: 
 
 a. dat daarbij aangewezen voorschriften eerst in werking treden op een daarbij aangegeven tijdstip, dan wel wanneer een daarbij aangegeven omstandigheid zich voordoet;  
@@ -690,16 +690,16 @@ a. dat daarbij aangewezen voorschriften eerst in werking treden op een daarbij a
 b. dat daarbij aangewezen voorschriften slechts gelden tot een daarbij aangegeven tijdstip, dan wel omstandigheid;  
 
 c. dat daarbij aangewezen voorschriften nadat de vergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven.     
-11.  De volgende onderdelen van de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing: 
+11.  De volgende onderdelen van de Wet algemene bepalingen omgevingsrecht zijn van overeenkomstige toepassing: 
 
-a. [artikel 4.2](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ten aanzien van een beschikking omtrent: 
+a. artikel 4.2 ten aanzien van een beschikking omtrent: 
 
 1°. het wijzigen of intrekken van een vergunning;  
 
 2°. het verlenen van een vergunning voor het in stand houden van een mijnbouwwerk in een geval waarin het in het tweede lid bedoelde verbod niet gold voor dat mijnbouwwerk en het verbod op enig tijdstip is gaan gelden anders dan ten gevolge van een verandering van het mijnbouwwerk of van de werking daarvan;    
 
-b. de [artikelen 2.25, eerste lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [8.1](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).     
-12.  De volgende onderdelen van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn van overeenkomstige toepassing: [hoofdstuk 7](../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [artikelen 8.40, eerste en tweede lid](../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.41](../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42](../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [afdeling 13.2](../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+b. de artikelen 2.25, eerste lid, en 8.1.     
+12.  De volgende onderdelen van de Wet milieubeheer zijn van overeenkomstige toepassing: hoofdstuk 7, de artikelen 8.40, eerste en tweede lid, 8.41, 8.42 en afdeling 13.2. 
 
 ### Artikel  41  
 
@@ -894,7 +894,7 @@ per 1 januari 2014 € 491. |
 per 1 januari 2014 € 734. |
 
 2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 1 januari 2014 € 734. per vierkante kilometer.   
-3.  Bij het begin van ieder kalenderjaar worden de voor dat jaar geldende tarieven, bedoeld in het eerste en tweede lid, bij ministeriële regeling vastgesteld. Deze tarieven worden berekend aan de hand van het indexcijfer, bedoeld in [artikel 1, van het koninklijk besluit van 28 september 1992, houdende begripsomschrijving van het indexcijfer der lonen](../../../AMvB/besluit/begripsomschrijving/indexcijfer/der/lonen/BWBR0005666/README.md) (Stb. 507), zoals dat gold op 31 december van het voorgaande jaar.  
+3.  Bij het begin van ieder kalenderjaar worden de voor dat jaar geldende tarieven, bedoeld in het eerste en tweede lid, bij ministeriële regeling vastgesteld. Deze tarieven worden berekend aan de hand van het indexcijfer, bedoeld in artikel 1, van het koninklijk besluit van 28 september 1992, houdende begripsomschrijving van het indexcijfer der lonen (Stb. 507), zoals dat gold op 31 december van het voorgaande jaar.  
 
 ### Artikel  59  
 
@@ -978,7 +978,7 @@ Winstaandeel wordt geheven van de houder, of, ingeval van medehouderschap, van i
 
 1.  De heffingsmaatstaf is het resultaat van een met inachtneming van de artikelen 67 en 68 door de houder, of, ingeval van medehouderschap, door ieder van de medehouders, van een winningsvergunning, over een boekjaar op te maken winst- en verliesrekening, verminderd met de op de voet van het derde lid te verrekenen verliezen en de in artikel 68a bedoelde investeringsaftrek. De winst- en verliesrekening omvat de aan dat jaar en aan die vergunning toe te rekenen kosten en opbrengsten van het winningsbedrijf.  
 2.  Indien de houder of de medehouder tevens houder of medehouder is van één of meer andere winningsvergunningen, kan een geconsolideerde winst- en verliesrekening worden opgemaakt.   
-3.  Indien het resultaat, bedoeld in het eerste lid, verminderd met de in artikel 68a bedoelde investeringsaftrek, negatief is, is sprake van een verlies. Dit verlies wordt onder toepassing van [hoofdstuk IV van de Wet op de vennootschapsbelasting 1969](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) verrekend met de positieve resultaten van de drie voorafgaande boekjaren en van de volgende boekjaren. 
+3.  Indien het resultaat, bedoeld in het eerste lid, verminderd met de in artikel 68a bedoelde investeringsaftrek, negatief is, is sprake van een verlies. Dit verlies wordt onder toepassing van hoofdstuk IV van de Wet op de vennootschapsbelasting 1969 verrekend met de positieve resultaten van de drie voorafgaande boekjaren en van de volgende boekjaren. 
 
 ### Artikel  67  
 
@@ -1004,8 +1004,8 @@ b. de waarde van de in het winningsbedrijf gewonnen en verbruikte koolwaterstoff
 
 ### Artikel  68  
 
-1.  De winst- en verliesrekening, bedoeld in artikel 66, eerste lid, wordt opgemaakt met overeenkomstige toepassing van de [artikelen 3.8](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.14, eerste lid, onderdelen b tot en met g, en derde tot en met zesde lid](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.25 tot en met 3.39](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md),[ 3.52](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.53, eerste lid, onderdelen a en b, en tweede lid](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.54](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.57 van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), alsmede de [artikelen 7, vierde en vijfde lid](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [8, vierde lid](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [9 tot en met 10b](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), [14 tot en met 14b](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [15d, van de Wet op de vennootschapsbelasting 1969](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), behoudens voorzover bij of krachtens deze wet anders is bepaald, dan wel uit het verschil in wezen tussen de houder dan wel de medehouder enerzijds en een natuurlijk persoon in de zin van de inkomstenbelasting respectievelijk een belastingplichtige voor de vennootschapsbelasting anderzijds, het tegendeel voortvloeit.   
-2.  Voor de toepassing van het eerste lid wordt in de genoemde artikelen van de [Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en van de [Wet op de vennootschapsbelasting 1969](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) voor «onderneming» gelezen: winningsbedrijf.   
+1.  De winst- en verliesrekening, bedoeld in artikel 66, eerste lid, wordt opgemaakt met overeenkomstige toepassing van de artikelen 3.8, 3.14, eerste lid, onderdelen b tot en met g, en derde tot en met zesde lid, 3.25 tot en met 3.39, 3.52, 3.53, eerste lid, onderdelen a en b, en tweede lid, 3.54, 3.56 en 3.57 van de Wet inkomstenbelasting 2001, alsmede de artikelen 7, vierde en vijfde lid, 8, vierde lid, 9 tot en met 10b, 14 tot en met 14b en 15d, van de Wet op de vennootschapsbelasting 1969, behoudens voorzover bij of krachtens deze wet anders is bepaald, dan wel uit het verschil in wezen tussen de houder dan wel de medehouder enerzijds en een natuurlijk persoon in de zin van de inkomstenbelasting respectievelijk een belastingplichtige voor de vennootschapsbelasting anderzijds, het tegendeel voortvloeit.   
+2.  Voor de toepassing van het eerste lid wordt in de genoemde artikelen van de Wet inkomstenbelasting 2001 en van de Wet op de vennootschapsbelasting 1969 voor «onderneming» gelezen: winningsbedrijf.   
 3.  Bij het opmaken van de winst- en verliesrekening, bedoeld in artikel 66, eerste lid, wordt een verhoging van 10% toegepast op de kosten met uitzondering van: 
 
 a. door de houder van de winningsvergunning aan de staat verschuldigde belastingen en andere Nederlandse publiekrechtelijke lasten;  
@@ -1013,7 +1013,7 @@ a. door de houder van de winningsvergunning aan de staat verschuldigde belasting
 b. afschrijving op de koopsom ter zake van de overname van een winningsvergunning, voorzover deze koopsom de door de overdrager van die vergunning nog niet reeds ten laste van een winst- en verliesrekening gebrachte kosten te boven gaat;  
 
 c. dotaties aan de voorziening ter zake van de uit een overgenomen winningsvergunning voortvloeiende ontmantelingsverplichting, voorzover reeds door de overdrager van die vergunning dotaties zijn gepleegd.     
-4.  Voorzover bij of krachtens de [Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of de [Wet op de vennootschapsbelasting 1969](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) de bevoegdheid is verleend om bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling regels te stellen en het voor een goede afstemming van het eerste lid, op die regels nodig is om dit artikel aan te passen, kan bij algemene maatregel van bestuur, onderscheidenlijk bij ministeriële regeling van Onze Minister in overeenstemming met Onze Minister van Financiën, deze aanpassing worden geregeld.  
+4.  Voorzover bij of krachtens de Wet inkomstenbelasting 2001 of de Wet op de vennootschapsbelasting 1969 de bevoegdheid is verleend om bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling regels te stellen en het voor een goede afstemming van het eerste lid, op die regels nodig is om dit artikel aan te passen, kan bij algemene maatregel van bestuur, onderscheidenlijk bij ministeriële regeling van Onze Minister in overeenstemming met Onze Minister van Financiën, deze aanpassing worden geregeld.  
 
 ### Artikel  68a  
 
@@ -1061,12 +1061,12 @@ De afdrachten, bedoeld in deze afdeling, worden geheven door de inspecteur en in
 
 ### Artikel  72  
 
-Onverminderd het overigens bij of krachtens deze paragraaf bepaalde geschieden de heffing en de invordering van oppervlakterecht, cijns en winstaandeel met overeenkomstige toepassing van de [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) en de op die wetten berustende bepalingen. 
+Onverminderd het overigens bij of krachtens deze paragraaf bepaalde geschieden de heffing en de invordering van oppervlakterecht, cijns en winstaandeel met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen en de op die wetten berustende bepalingen. 
 
 ### Artikel  73  
 
-1.   De [artikelen 30f](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fa](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fb](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fc](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fd](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30fe](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [30hb, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing op de berekening van de belastingrente met betrekking tot het winstaandeel.   
-2.   De [artikelen 30h](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing op de berekening van de belastingrente met betrekking tot de cijns en het oppervlakterecht.  
+1.   De artikelen 30f, 30fa, 30fb, 30fc, 30fd, 30fe en 30hb, van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing op de berekening van de belastingrente met betrekking tot het winstaandeel.   
+2.   De artikelen 30h en 30hb van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing op de berekening van de belastingrente met betrekking tot de cijns en het oppervlakterecht.  
 
 ### Artikel  74  
 
@@ -1097,11 +1097,11 @@ Gedeputeerde staten stellen de afdracht vast en maken het verschuldigde bedrag a
 
 ### Artikel  79  
 
-Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing en invordering van de afdracht aan de provincie met overeenkomstige toepassing van de [artikelen 11](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [12](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [14](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [17, eerste lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [28, eerste, vijfde en zesde lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [29 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) met dien verstande dat gedeputeerde staten in de plaats treden van de ontvanger. 
+Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing en invordering van de afdracht aan de provincie met overeenkomstige toepassing van de artikelen 11, 12, 14, 17, eerste lid, 28, eerste, vijfde en zesde lid, en 29 van de Invorderingswet 1990 met dien verstande dat gedeputeerde staten in de plaats treden van de ontvanger. 
 
 ### Artikel  80  
 
-Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de provincie uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht, waarvan het percentage gelijk is aan het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). 
+Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de provincie uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht, waarvan het percentage gelijk is aan het percentage van de belastingrente, bedoeld in artikel 30hb van de Algemene wet inzake rijksbelastingen. 
 
 ### Afdeling  5.2  
 
@@ -1336,13 +1336,13 @@ c.de overeenkomst tot stand komt binnen een jaar na het besluit van Onze Ministe
 
 ### Artikel  100  
 
-Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing en invordering van de afdracht aan de staat of een vooruitbetaling op een afdracht met overeenkomstige toepassing van de [artikelen 11](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [12](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [14](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [17, eerste lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25, eerste en tweede lid](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [28](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [29 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) met dien verstande dat Onze Minister in de plaats treedt van de ontvanger. 
+Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing en invordering van de afdracht aan de staat of een vooruitbetaling op een afdracht met overeenkomstige toepassing van de artikelen 11, 12, 14, 17, eerste lid, 25, eerste en tweede lid, 28 en 29 van de Invorderingswet 1990 met dien verstande dat Onze Minister in de plaats treedt van de ontvanger. 
 
 ### Artikel  101  
 
 1.  Indien een afdracht als bedoeld in artikel 98, eerste lid, aan de staat of een vooruitbetaling op een afdracht als bedoeld in artikel 98, eerste lid, op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de staat uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht.   
-2.  Aan de betrokkene wordt een enkelvoudige rente in rekening gebracht over het bedrag waarvoor overeenkomstig [artikel 25 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) uitstel van betaling is verleend. De rente wordt berekend over het tijdvak waarvoor uitstel is verleend.   
-3.  Het percentage van de rente, bedoeld in het eerste en het tweede lid, is gelijk aan het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+2.  Aan de betrokkene wordt een enkelvoudige rente in rekening gebracht over het bedrag waarvoor overeenkomstig artikel 25 van de Invorderingswet 1990 uitstel van betaling is verleend. De rente wordt berekend over het tijdvak waarvoor uitstel is verleend.   
+3.  Het percentage van de rente, bedoeld in het eerste en het tweede lid, is gelijk aan het percentage van de belastingrente, bedoeld in artikel 30hb van de Algemene wet inzake rijksbelastingen.   
 4.  Een rente, bedoeld in het eerste en het tweede lid, is aan de staat verschuldigd met ingang van de dag na die waarop de vaststelling aan de betrokkene bekend is gemaakt. Artikel 100 is van overeenkomstige toepassing ten aanzien van de betaling en de invordering van deze rente.   
 
 ### Afdeling  5.4  
@@ -1493,7 +1493,7 @@ d. degene bij wie zaakschade is opgetreden door bodembeweging die redelijkerwijs
 
 1.  De commissie kan van de mijnbouwondernemer alle inlichtingen vorderen die zij nodig acht ter uitvoering van de haar in artikel 114, tweede lid, opgedragen taken.   
 2.  De mijnbouwondernemer verstrekt de commissie binnen een door haar gestelde redelijke termijn de gewenste inlichtingen.   
-3.  Indien de commissie inlichtingen heeft verkregen ter uitvoering van de taak, bedoeld in artikel 114, tweede lid, onderdeel d, verstrekt zij deze aan de adviesaanvrager, tenzij sprake is van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).  
+3.  Indien de commissie inlichtingen heeft verkregen ter uitvoering van de taak, bedoeld in artikel 114, tweede lid, onderdeel d, verstrekt zij deze aan de adviesaanvrager, tenzij sprake is van gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur.  
 
 ### Artikel  121  
 
@@ -1511,15 +1511,15 @@ Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de 
 
 1.  Degene die activiteiten verricht waarop het bij en krachtens artikel 49, eerste lid, artikel 51, eerste lid, of 52, eerste lid, bepaalde van toepassing is verstrekt aan Onze Minister de op grond van het vijfde lid bepaalde gegevens, voorzover de betrokkene in verband met die activiteiten in het bezit van deze gegevens is gekomen.   
 2.  Onze Minister kan de verstrekte gegevens, of een deel van die gegevens, doen beheren door door hem daartoe aan te wijzen instellingen, welke hem desgevraagd mede van advies dienen aan de hand van die gegevens.   
-3.  De verstrekte gegevens zijn gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
-4.  De op grond van het vijfde lid, onderdeel c, aangewezen gegevens verliezen op een op grond van dat onderdeel bepaald tijdstip hun vertrouwelijk karakter. Na dit tijdstip is [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet meer van toepassing op deze aangewezen gegevens.   
+3.  De verstrekte gegevens zijn gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur.   
+4.  De op grond van het vijfde lid, onderdeel c, aangewezen gegevens verliezen op een op grond van dat onderdeel bepaald tijdstip hun vertrouwelijk karakter. Na dit tijdstip is artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur niet meer van toepassing op deze aangewezen gegevens.   
 5.  Bij of krachtens algemene maatregel van bestuur worden: 
 
 a. de gegevens bepaald die aan Onze Minister worden verstrekt;  
 
 b. regels gesteld omtrent het tijdstip en de wijze waarop de gegevens worden verstrekt, omtrent het beheer van de gegevens en omtrent het gebruik dat van de gegevens kan worden gemaakt;  
 
-c. regels gesteld omtrent het tijdstip waarop [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet meer van toepassing is op deze gegevens.     
+c. regels gesteld omtrent het tijdstip waarop artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur niet meer van toepassing is op deze gegevens.     
 6.  Dit artikel is van overeenkomstige toepassing op bescheiden en monsters.  
 
 ### Artikel  124  
@@ -1709,7 +1709,7 @@ a. de mijnbouwondernemer bedenkingen heeft tegen het voorlopig advies dan wel he
 b. noodzakelijke maatregelen moeten worden getroffen ter herstel of beperking van de schade.  
 
 Het bedrag dat aan voorschotten kan worden verstrekt bedraagt ten hoogste 60 procent van het schadebedrag dat in het voorlopig advies wordt vermeld.     
-2.  Indien in een overeenkomst als bedoeld in [artikel 900 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of bij onherroepelijke rechterlijke uitspraak wordt vastgesteld dat de schade niet het gevolg is van de mijnbouwactiviteiten dan wel het schadebedrag op een lager bedrag wordt vastgesteld dan het bedrag dat in totaal aan voorschotten is verstrekt, betaalt de persoon, bedoeld in het eerste lid, binnen drie maanden na het moment waarop die overeenkomst is gesloten of die uitspraak is gedaan het voorschot dan wel het verschil tussen het schadebedrag en het voorschot terug aan het waarborgfonds.  
+2.  Indien in een overeenkomst als bedoeld in artikel 900 van Boek 7 van het Burgerlijk Wetboek of bij onherroepelijke rechterlijke uitspraak wordt vastgesteld dat de schade niet het gevolg is van de mijnbouwactiviteiten dan wel het schadebedrag op een lager bedrag wordt vastgesteld dan het bedrag dat in totaal aan voorschotten is verstrekt, betaalt de persoon, bedoeld in het eerste lid, binnen drie maanden na het moment waarop die overeenkomst is gesloten of die uitspraak is gedaan het voorschot dan wel het verschil tussen het schadebedrag en het voorschot terug aan het waarborgfonds.  
 
 ### Artikel  141  
 
@@ -1722,9 +1722,9 @@ Het bedrag dat aan voorschotten kan worden verstrekt bedraagt ten hoogste 60 pro
 
 ### Artikel  141a  
 
-1.  De procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op de aanleg of de uitbreiding van: 
+1.  De procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening, is van toepassing op de aanleg of de uitbreiding van: 
 
-a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder een gebied dat is aangewezen op grond van de [artikelen 10](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of [10a van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);  
+a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder een gebied dat is aangewezen op grond van de artikelen 10 of 10a van de Natuurbeschermingswet 1998;  
 
 b. een mijnbouwwerk ten behoeve van de opslag van stoffen;  
 
@@ -1734,25 +1734,25 @@ d. een mijnbouwwerk of pijpleidingen, voor zover het een project betreft voor ol
 2.  Een mijnbouwondernemer als omschreven in artikel 113 meldt een voornemen tot aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in het eerste lid, zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.   
 3.  Indien, in aanmerking genomen de omvang, aard en ligging van een mijnbouwwerk of een pijpleiding als bedoeld in het eerste lid, alsmede het aantal voor de aanleg of de uitbreiding van dat werk of die leiding benodigde besluiten, redelijkerwijze niet valt te verwachten dat toepassing van de procedures, bedoeld in het eerste lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat: 
 
-a. geen van de procedures, bedoeld in [artikel 3.35, eerste lid](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md),  
+a. geen van de procedures, bedoeld in artikel 3.35, eerste lid,  
 
-b. uitsluitend de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md),  
+b. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a,  
 
-c. uitsluitend de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel b](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of  
+c. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, of  
 
-d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de aanleg of de uitbreiding van dat werk of die leiding. Onze Minister hoort de mijnbouwondernemer en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.    
+d. de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a, gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de aanleg of de uitbreiding van dat werk of die leiding. Onze Minister hoort de mijnbouwondernemer en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.    
 
 ### Artikel  141b  
 
-1.  Onze Minister is de aangewezen minister, bedoeld in [artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
-3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen mijnbouwwerk of pijpleiding als bedoeld in artikel 141a, eerste lid.  
+1.  Onze Minister is de aangewezen minister, bedoeld in artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening.   
+2.  Indien toepassing wordt gegeven aan artikel 3.28, vierde lid, van de Wet ruimtelijke ordening treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
+3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening, één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen mijnbouwwerk of pijpleiding als bedoeld in artikel 141a, eerste lid.  
 
 ### Artikel  141c  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in artikel 141a, eerste lid, in ieder geval besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn.   
-2.  Onze Minister kan ten behoeve van de aanleg of uitbreiding van een mijnbouwwerk of een pijpleiding als bedoeld in artikel 141a, eerste lid, tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-3.  Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in artikel 141a, eerste lid, zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt aangemerkt.  
+1.  Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in artikel 141a, eerste lid, in ieder geval besluiten als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening zijn.   
+2.  Onze Minister kan ten behoeve van de aanleg of uitbreiding van een mijnbouwwerk of een pijpleiding als bedoeld in artikel 141a, eerste lid, tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening.   
+3.  Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in artikel 141a, eerste lid, zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening wordt aangemerkt.  
 
 ### Hoofdstuk  10  
 
@@ -1760,8 +1760,8 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 ### Artikel  142  
 
-1.  Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is [hoofdstuk 20 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing, met dien verstande dat [artikel 20.3 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. De eerste volzin is van overeenkomstige toepassing op een besluit omtrent instemming met een winningsplan of opslagplan als bedoeld in artikel 39, eerste lid.  
-2.  Op het beroep tegen besluiten op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 is [hoofdstuk V, afdelingen 2](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en 4, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.  
+1.  Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is hoofdstuk 20 van de Wet milieubeheer van overeenkomstige toepassing, met dien verstande dat artikel 20.3 van de Wet milieubeheer niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. De eerste volzin is van overeenkomstige toepassing op een besluit omtrent instemming met een winningsplan of opslagplan als bedoeld in artikel 39, eerste lid.  
+2.  Op het beroep tegen besluiten op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 is hoofdstuk V, afdelingen 2 en 4, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.  
 
 ### Hoofdstuk  11  
 
@@ -1771,28 +1771,28 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 1.  Als opsporingsvergunning wordt beschouwd: 
 
-a. een vergunning verleend krachtens [artikel 2 van de Wet opsporing delfstoffen](../../../wet/wet/opsporing/delfstoffen/BWBR0002579/README.md);  
+a. een vergunning verleend krachtens artikel 2 van de Wet opsporing delfstoffen;  
 
-b. een opsporingsvergunning verleend krachtens [artikel 2 van de Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md);  
+b. een opsporingsvergunning verleend krachtens artikel 2 van de Mijnwet continentaal plat;  
 
-c. een ontheffing verleend krachtens [artikel 2 van de Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), indien deze uitsluitend betrekking heeft op onderzoekingen die kunnen leiden tot het aantonen van de aanwezigheid van delfstoffen.     
+c. een ontheffing verleend krachtens artikel 2 van de Mijnwet continentaal plat, indien deze uitsluitend betrekking heeft op onderzoekingen die kunnen leiden tot het aantonen van de aanwezigheid van delfstoffen.     
 2.  Als winningsvergunning wordt beschouwd: 
 
-a. een concessie verleend krachtens [artikel 5 van de wet van 21 april 1810 (Bulletin des Lois no. 285)](../../../wet/wet/van/21/april/1810/bulletin/des/lois/285/BWBR0001821/README.md);  
+a. een concessie verleend krachtens artikel 5 van de wet van 21 april 1810 (Bulletin des Lois no. 285);  
 
-b. een aanwijzing van een mijn bij of krachtens de [wet van 24 juni 1901, betreffende exploitatie van Staatswege van steenkolenmijnen in Limburg (Stb. 170)](../../../wet/wet/exploitatie/van/staatswege/van/steenkolenmijnen/in/limburg/BWBR0001868/README.md), de [wet van 18 juni 1918 tot ontginning van steenzout bij Buurse (Stb. 421)](../../../wet/wet/tot/ontginning/van/steenzout/bij/buurse/BWBR0001893/README.md) of de [wet van 27 september 1920 tot uitbreiding van het Staatsmijnveld (Stb. 752)](../../../wet/wet/tot/uitbreiding/van/het/staatsmijnveld/BWBR0001901/README.md);  
+b. een aanwijzing van een mijn bij of krachtens de wet van 24 juni 1901, betreffende exploitatie van Staatswege van steenkolenmijnen in Limburg (Stb. 170), de wet van 18 juni 1918 tot ontginning van steenzout bij Buurse (Stb. 421) of de wet van 27 september 1920 tot uitbreiding van het Staatsmijnveld (Stb. 752);  
 
-c. een winningsvergunning verleend krachtens [artikel 2 van de Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md);  
+c. een winningsvergunning verleend krachtens artikel 2 van de Mijnwet continentaal plat;  
 
-d. een ontheffing verleend krachtens [artikel 2 van de Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), indien deze betrekking heeft of mede betrekking heeft op het winnen van delfstoffen.     
+d. een ontheffing verleend krachtens artikel 2 van de Mijnwet continentaal plat, indien deze betrekking heeft of mede betrekking heeft op het winnen van delfstoffen.     
 3.  De voorwaarden, beperkingen of voorschriften, verbonden aan een besluit als bedoeld in het eerste lid, onderdelen a tot en met c, gaan gelden als aan de opsporingsvergunning verbonden beperkingen of voorschriften. De voorwaarden, beperkingen of voorschriften, verbonden aan een besluit als bedoeld in het tweede lid, onderdelen a tot en met d, gaan gelden als aan de winningsvergunning verbonden beperkingen of voorschriften.   
 4.  In afwijking van artikel 3 is de houder van een vergunning die ingevolge het tweede lid, aanhef en onderdeel a of b, als een winningsvergunning wordt beschouwd, voor het tijdvak waarvoor de vergunning geldt eigenaar van de mijn waarop zij betrekking heeft.   
 5.  Als mijnbouwmilieuvergunning wordt beschouwd: 
 
 a. een goedkeuring verleend overeenkomstig artikel 4.6 of 5.7 van de Regeling vergunningen en concessies delfstoffen Nederlands territoir 1996, of een soortgelijke goedkeuring op basis van voor de inwerkingtreding van die regeling verleende vergunningen of concessies;  
 
-b. een vergunning verleend krachtens [artikel 30a van het Mijnreglement continentaal plat](../../../KB/mijnreglement/continentaal/plat/BWBR0002564/README.md).     
-6.  In afwijking van het vijfde lid wordt de goedkeuring of de vergunning die betrekking heeft op een inrichting waarop bij de inwerkingtreding van deze wet [hoofdstuk 8 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, niet beschouwd als een mijnbouwmilieuvergunning maar als een milieuvergunning als bedoeld in [dat hoofdstuk](../../../wet/wet/milieubeheer/BWBR0003245/README.md). Deze milieuvergunning wordt, indien artikel 153, derde lid, op de inrichting van toepassing is, samen met de in dat lid bedoelde milieuvergunning als één milieuvergunning beschouwd.   
+b. een vergunning verleend krachtens artikel 30a van het Mijnreglement continentaal plat.     
+6.  In afwijking van het vijfde lid wordt de goedkeuring of de vergunning die betrekking heeft op een inrichting waarop bij de inwerkingtreding van deze wet hoofdstuk 8 van de Wet milieubeheer van toepassing is, niet beschouwd als een mijnbouwmilieuvergunning maar als een milieuvergunning als bedoeld in dat hoofdstuk. Deze milieuvergunning wordt, indien artikel 153, derde lid, op de inrichting van toepassing is, samen met de in dat lid bedoelde milieuvergunning als één milieuvergunning beschouwd.   
 7.  De beperkingen of voorschriften die aan een goedkeuring of een vergunning als bedoeld in het vijfde lid zijn verbonden, gaan gelden als aan de mijnbouwmilieuvergunning of aan de milieuvergunning verbonden beperkingen of voorschriften.  
 
 ### Artikel  144  
@@ -1826,7 +1826,7 @@ b. voor ander dan onder a genoemd gebied: twaalf maanden.
 
 ### Artikel  148  
 
-1.  In het geval dat een vergunning ingevolge artikel 143, tweede lid, onderdeel c, als een winningsvergunning wordt beschouwd en op grond van deze vergunning een vennootschap is opgericht als bedoeld in [artikel 11, tweede lid, onderdeel a, van de Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), zoals deze luidde voor de inwerkingtreding van deze wet, worden tot het in artikel 66, eerste lid, bedoelde resultaat gerekend: 
+1.  In het geval dat een vergunning ingevolge artikel 143, tweede lid, onderdeel c, als een winningsvergunning wordt beschouwd en op grond van deze vergunning een vennootschap is opgericht als bedoeld in artikel 11, tweede lid, onderdeel a, van de Mijnwet continentaal plat, zoals deze luidde voor de inwerkingtreding van deze wet, worden tot het in artikel 66, eerste lid, bedoelde resultaat gerekend: 
 
 a. mede de bedragen die ten goede komen aan de vennootschap;  
 
@@ -1862,13 +1862,13 @@ Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van opspori
 ### Artikel  153  
 
 1.  Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip geen goedkeuring of vergunning als bedoeld in artikel 143, vijfde lid, noodzakelijk was en waarvoor op dat tijdstip het verbod, bedoeld in artikel 40, tweede lid, is gaan gelden, verkrijgt op dat tijdstip van rechtswege een mijnbouwmilieuvergunning voor het mijnbouwwerk.    
-2.  Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip het in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vervatte verbod niet gold noch een goedkeuring of vergunning als bedoeld in artikel 143, vijfde lid, noodzakelijk was en waarvoor het verbod op dat tijdstip is gaan gelden, verkrijgt op dat tijdstip van rechtswege een milieuvergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor de desbetreffende inrichting.   
-3.  Een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) die van kracht was voor de inwerkingtreding van deze wet voor een inrichting waarop wat betreft het ondergrondse deel [hoofdstuk 8 van de Wet milieubeheer ](../../../wet/wet/milieubeheer/BWBR0003245/README.md)niet van toepassing was op grond van [artikel 22.1, eerste lid, onderdeel a, van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt geacht vanaf dat tijdstip ook te zijn verleend voor het ondergrondse deel.   
-4.  Aan de in het derde lid bedoelde vergunning zijn vanaf de inwerkingtreding van deze wet de voorschriften verbonden die voor dat tijdstip op grond van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de [Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) voor dit ondergrondse deel golden.  
+2.  Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip het in artikel 8.1, eerste lid, van de Wet milieubeheer vervatte verbod niet gold noch een goedkeuring of vergunning als bedoeld in artikel 143, vijfde lid, noodzakelijk was en waarvoor het verbod op dat tijdstip is gaan gelden, verkrijgt op dat tijdstip van rechtswege een milieuvergunning als bedoeld in artikel 8.1 van de Wet milieubeheer voor de desbetreffende inrichting.   
+3.  Een vergunning als bedoeld in artikel 8.1, eerste lid, van de Wet milieubeheer die van kracht was voor de inwerkingtreding van deze wet voor een inrichting waarop wat betreft het ondergrondse deel hoofdstuk 8 van de Wet milieubeheer niet van toepassing was op grond van artikel 22.1, eerste lid, onderdeel a, van die wet, wordt geacht vanaf dat tijdstip ook te zijn verleend voor het ondergrondse deel.   
+4.  Aan de in het derde lid bedoelde vergunning zijn vanaf de inwerkingtreding van deze wet de voorschriften verbonden die voor dat tijdstip op grond van de Wet milieubeheer en de Wet bodembescherming voor dit ondergrondse deel golden.  
 
 ### Artikel  154  
 
-Een veiligheidszone ingesteld krachtens [artikel 27 van de Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), en een toestemming verleend krachtens [artikel 28 van die wet](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), worden beschouwd als een veiligheidszone en een ontheffing als bedoeld in artikel 43. 
+Een veiligheidszone ingesteld krachtens artikel 27 van de Mijnwet continentaal plat, en een toestemming verleend krachtens artikel 28 van die wet, worden beschouwd als een veiligheidszone en een ontheffing als bedoeld in artikel 43. 
 
 ### Artikel  155  
 
@@ -1887,7 +1887,7 @@ Voorzover als gevolg van afschrijving op niet reeds ten laste van een andere win
 
 1.  Voor de toepassing van artikel 66, derde lid, op voor de inwerkingtreding van deze wet geleden verliezen, wordt het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, telkenjare berekend alsof consolidatie slechts heeft plaatsgevonden van resultaten behaald aan de zeezijde respectievelijk aan de landzijde.   
 2.  Nog te compenseren voor de inwerkingtreding van deze wet geleden verliezen aan de zeezijde respectievelijk aan de landzijde, worden slechts verrekend met de over een der jaren na de inwerkingtreding van deze wet overeenkomstig het eerste lid berekende geconsolideerde resultaten behaald aan de zeezijde respectievelijk aan de landzijde.   
-3.  Indien het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, over een der jaren na de inwerkingtreding van deze wet negatief is, wordt dit verlies met inachtneming van de wettelijke termijn, bedoeld in [artikel 20, tweede lid, van de Wet op de vennootschapsbelasting 1969](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), slechts verrekend met het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, over een der jaren na de inwerkingtreding van deze wet.   
+3.  Indien het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, over een der jaren na de inwerkingtreding van deze wet negatief is, wordt dit verlies met inachtneming van de wettelijke termijn, bedoeld in artikel 20, tweede lid, van de Wet op de vennootschapsbelasting 1969, slechts verrekend met het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, over een der jaren na de inwerkingtreding van deze wet.   
 4.  Waar in dit artikel wordt gesproken over voor de inwerkingtreding van deze wet geleden verliezen wordt hieronder verstaan een negatief resultaat van een met inachtneming van de destijds toepasselijke voorschriften opgemaakte winst- en verliesrekening over een voor de inwerkingtreding van deze wet gelegen boekjaar.  
 
 ### Artikel  159  
@@ -1932,7 +1932,7 @@ Bepalingen in een voor de inwerkingtreding van deze wet gesloten overeenkomst, w
 
 ### Artikel  165  
 
-De Mijnraad, ingesteld bij de [wet van 1 mei 1970, houdende regeling betreffende de Mijnraad (Stb. 196)](../../../wet/wet/houdende/regeling/betreffende/de/mijnraad/BWBR0002707/README.md), wordt beschouwd als de Mijnraad, bedoeld in artikel 105. De besluiten die zijn genomen op grond van die wet gaan gelden als de overeenkomstige besluiten op grond van paragraaf 6.1. 
+De Mijnraad, ingesteld bij de wet van 1 mei 1970, houdende regeling betreffende de Mijnraad (Stb. 196), wordt beschouwd als de Mijnraad, bedoeld in artikel 105. De besluiten die zijn genomen op grond van die wet gaan gelden als de overeenkomstige besluiten op grond van paragraaf 6.1. 
 
 ### Artikel  166  
 
@@ -1955,33 +1955,33 @@ De bijdrage, bedoeld in artikel 135, vierde lid, onderdeel a, is voor het eerst 
 
 De volgende wetten worden ingetrokken: 
 
-a. de [wet van 21 april 1810 (Bulletin des Lois no. 285)](../../../wet/wet/van/21/april/1810/bulletin/des/lois/285/BWBR0001821/README.md);  
+a. de wet van 21 april 1810 (Bulletin des Lois no. 285);  
 
-b. de [wet van 24 juni 1901, betreffende exploitatie van Staatswege van steenkolenmijnen in Limburg (Stb. 170)](../../../wet/wet/exploitatie/van/staatswege/van/steenkolenmijnen/in/limburg/BWBR0001868/README.md);  
+b. de wet van 24 juni 1901, betreffende exploitatie van Staatswege van steenkolenmijnen in Limburg (Stb. 170);  
 
 c. de wet van 23 maart 1918, tot tijdelijke ontginning van bruinkolen zonder concessie (Stb. 168);  
 
-d. de [wet van 6 maart 1915, houdende bepaling betreffende het gebruik van grond voor mijnontginning (Stb. 141)](../../../wet/wet/bepaling/betreffende/het/gebruik/van/grond/voor/mijnontginning/BWBR0001889/README.md);  
+d. de wet van 6 maart 1915, houdende bepaling betreffende het gebruik van grond voor mijnontginning (Stb. 141);  
 
-e. de [wet van 18 juni 1918 tot ontginning van steenzout bij Buurse (Stb. 421)](../../../wet/wet/tot/ontginning/van/steenzout/bij/buurse/BWBR0001893/README.md);  
+e. de wet van 18 juni 1918 tot ontginning van steenzout bij Buurse (Stb. 421);  
 
-f. de [wet van 27 september 1920 tot uitbreiding van het Staatsmijnveld (Stb. 752)](../../../wet/wet/tot/uitbreiding/van/het/staatsmijnveld/BWBR0001901/README.md);   
+f. de wet van 27 september 1920 tot uitbreiding van het Staatsmijnveld (Stb. 752);   
 
-g. de [wet van 17 maart 1923, betreffende afstand van een gedeelte van voor ontginning van Staatswege gereserveerde terreinen (Stb. 102)](../../../wet/wet/betreffende/afstand/van/een/gedeelte/van/voor/ontginning/van/etc/BWBR0001916/README.md);  
+g. de wet van 17 maart 1923, betreffende afstand van een gedeelte van voor ontginning van Staatswege gereserveerde terreinen (Stb. 102);  
 
-h. de [wet van 20 juni 1924, betreffende opsporing van delfstoffen (Stb. 307)](../../../wet/wet/opsporing/delfstoffen/1924/BWBR0001918/README.md);  
+h. de wet van 20 juni 1924, betreffende opsporing van delfstoffen (Stb. 307);  
 
-i. de [wet van 29 juni 1925, houdende bijzondere regeling voor het verleenen van mijnconcessiën (Stb. 287)](../../../wet/wet/houdende/bijzondere/regeling/voor/het/verleenen/van/mijnconcessiën/BWBR0001924/README.md);  
+i. de wet van 29 juni 1925, houdende bijzondere regeling voor het verleenen van mijnconcessiën (Stb. 287);  
 
-j. de [wet van 1 mei 1970, houdende regeling betreffende de Mijnraad (Stb. 196)](../../../wet/wet/houdende/regeling/betreffende/de/mijnraad/BWBR0002707/README.md);  
+j. de wet van 1 mei 1970, houdende regeling betreffende de Mijnraad (Stb. 196);  
 
-k. de wet van 30 oktober 1997 tot wijziging van de Arbeidsomstandighedenwet en de[ Wet op de gevaarlijke werktuigen in verband met uitbreiding van het toepassingsgebied tot de mijnbouwsector (Stb. 536)](../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md);  
+k. de wet van 30 oktober 1997 tot wijziging van de Arbeidsomstandighedenwet en de Wet op de gevaarlijke werktuigen in verband met uitbreiding van het toepassingsgebied tot de mijnbouwsector (Stb. 536);  
 
-l. de [Mijnwet 1903](../../../wet/mijnwet/1903/BWBR0001870/README.md);  
+l. de Mijnwet 1903;  
 
-m. de [Mijnwet continentaal plat](../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md);  
+m. de Mijnwet continentaal plat;  
 
-n. de [Wet opsporing delfstoffen](../../../wet/wet/opsporing/delfstoffen/BWBR0002579/README.md).   
+n. de Wet opsporing delfstoffen.   
 
 ### Artikel  169  
 

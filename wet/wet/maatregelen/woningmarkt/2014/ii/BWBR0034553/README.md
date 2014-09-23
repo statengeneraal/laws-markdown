@@ -42,13 +42,13 @@ c.  *groep:* de combinatie van rechtspersonen in het geval een rechtspersoon mee
 
 d.  *heffingsjaar:* kalenderjaar waarover de verhuurderheffing is verschuldigd;  
 
-e.  *huurwoning:* in Nederland gelegen voor verhuur bestemde woning die ingevolge [artikel 16 van de Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) als één onroerende zaak wordt aangemerkt en waarvan de huurprijs niet hoger is dan het bedrag, genoemd in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), met uitzondering van een woning die wordt verhuurd in het kader van het hotel-, pension-, kamp- en vakantiebestedingsbedrijf aan personen die in die woning voor een korte periode verblijf houden;  
+e.  *huurwoning:* in Nederland gelegen voor verhuur bestemde woning die ingevolge artikel 16 van de Wet waardering onroerende zaken als één onroerende zaak wordt aangemerkt en waarvan de huurprijs niet hoger is dan het bedrag, genoemd in artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag, met uitzondering van een woning die wordt verhuurd in het kader van het hotel-, pension-, kamp- en vakantiebestedingsbedrijf aan personen die in die woning voor een korte periode verblijf houden;  
 
 f.  *investeringskosten:* door de belastingplichtige betaalde investeringskosten die noodzakelijkerwijs voortvloeien uit het verrichten van de activiteiten, bedoeld in het tweede lid, onderdeel b, onder 1° tot en met 6°;  
 
 g.  *Onze Minister:* Onze Minister voor Wonen en Rijksdienst;  
 
-h.  *WOZ-waarde:* volgens [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor een kalenderjaar vastgestelde waarde.     
+h.  *WOZ-waarde:* volgens hoofdstuk IV van de Wet waardering onroerende zaken voor een kalenderjaar vastgestelde waarde.     
 2.  In dit hoofdstuk en de daarop berustende bepalingen wordt voorts verstaan onder: 
 
 a.  *heffingsvermindering:* vermindering van de verhuurderheffing op grond van een definitieve investeringsverklaring;  
@@ -83,7 +83,7 @@ e.  *definitieve investeringsverklaring:* schriftelijke kennisgeving van Onze Mi
 
 ### Artikel  1.3  
 
-Indien er ter zake van een huurwoning meer dan één genothebbende krachtens eigendom, bezit of beperkt recht is, wordt voor de verhuurderheffing de huurwoning in aanmerking genomen bij degene aan wie de beschikking, bedoeld in [artikel 22 van de Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), ter zake van die huurwoning op de voet van [artikel 24, derde en vierde lid, van die wet](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) is bekendgemaakt. 
+Indien er ter zake van een huurwoning meer dan één genothebbende krachtens eigendom, bezit of beperkt recht is, wordt voor de verhuurderheffing de huurwoning in aanmerking genomen bij degene aan wie de beschikking, bedoeld in artikel 22 van de Wet waardering onroerende zaken, ter zake van die huurwoning op de voet van artikel 24, derde en vierde lid, van die wet is bekendgemaakt. 
 
 ### Afdeling  2  
 
@@ -127,8 +127,8 @@ De verhuurderheffing wordt verschuldigd op 1 januari van het kalenderjaar.
 2.  De door een groep verschuldigde verhuurderheffing wordt namens de groep op aangifte voldaan door een van de rechtspersonen die onderdeel is van die groep. Daarbij vermeldt die rechtspersoon welke andere rechtspersonen onderdeel uitmaken van die groep, waarbij die andere rechtspersonen in afwijking van het eerste lid ontheven zijn van hun plicht tot het voldoen op aangifte.   
 3.  De inspecteur kan een naheffingsaanslag ter zake van de door een groep verschuldigde verhuurderheffing opleggen aan een van de rechtspersonen die onderdeel uitmaken van die groep.   
 4.  De ontvanger kan een naheffingsaanslag ter zake van de door een groep verschuldigde verhuurderheffing invorderen ten name van elk van de rechtspersonen die onderdeel uitmaken van die groep.   
-5.  In afwijking van [artikel 10, tweede lid, tweede volzin, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) stelt de inspecteur de termijn voor het doen van aangifte zodanig vast dat deze niet eerder verstrijkt dan negen maanden na het tijdstip waarop de belastingschuld is ontstaan.   
-6.  In afwijking van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is de belastingplichtige gehouden de verhuurderheffing aan de ontvanger overeenkomstig de aangifte te betalen binnen negen maanden na het tijdstip waarop de belastingschuld is ontstaan.  
+5.  In afwijking van artikel 10, tweede lid, tweede volzin, van de Algemene wet inzake rijksbelastingen stelt de inspecteur de termijn voor het doen van aangifte zodanig vast dat deze niet eerder verstrijkt dan negen maanden na het tijdstip waarop de belastingschuld is ontstaan.   
+6.  In afwijking van artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen is de belastingplichtige gehouden de verhuurderheffing aan de ontvanger overeenkomstig de aangifte te betalen binnen negen maanden na het tijdstip waarop de belastingschuld is ontstaan.  
 
 ### Afdeling  6  
 
@@ -182,7 +182,7 @@ b. een voorgenomen investering als bedoeld in artikel 1.2, tweede lid, onderdeel
 a. de voorgenomen investering niet voldoet aan het daarover bij of krachtens deze wet bepaalde of  
 
 b. aannemelijk is dat ter verkrijging van die verklaring gegevens of bescheiden zijn verstrekt die zodanig onjuist of onvolledig zijn dat op de aanmelding een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste en volledige gegevens of bescheiden bekend zouden zijn geweest.     
-6.  De voorlopige investeringsverklaring is een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+6.  De voorlopige investeringsverklaring is een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht.  
 
 ### Artikel  1.13  
 
@@ -208,8 +208,8 @@ d. in geval sprake is van een gerealiseerde investering als bedoeld in artikel 1
 1.  Als diensten van algemeen economisch belang zijn aan de belastingplichtige opgedragen de activiteiten, bedoeld in artikel 1.2, tweede lid, onderdeel b, onder 1° tot en met 6°, juncto artikel 1.11, tweede lid.   
 2.  De belastingplichtige komt uitsluitend compensatie toe voor de activiteiten, genoemd in het eerste lid. Bij ministeriële regeling worden nadere voorschriften gegeven omtrent de compensatie.   
 3.  De opdracht, bedoeld in het eerste lid, heeft een werkingsduur van vier jaar.   
-4.  [Artikel 25d van de Mededingingswet](../../../../../../../wet/mededingingswet/BWBR0008691/README.md) is niet van toepassing op de belastingplichtige.   
-5.  De administratie, de jaarrekeningen en de jaarverslagen van de belastingplichtige worden met inachtneming van [artikel 25b, eerste lid, van de Mededingingswet ](../../../../../../../wet/mededingingswet/BWBR0008691/README.md)ingericht. Bij ministeriële regeling worden nadere voorschriften gegeven omtrent de inrichting van de administratie, bedoeld in de eerste volzin.  
+4.  Artikel 25d van de Mededingingswet is niet van toepassing op de belastingplichtige.   
+5.  De administratie, de jaarrekeningen en de jaarverslagen van de belastingplichtige worden met inachtneming van artikel 25b, eerste lid, van de Mededingingswet ingericht. Bij ministeriële regeling worden nadere voorschriften gegeven omtrent de inrichting van de administratie, bedoeld in de eerste volzin.  
 
 ### Afdeling  8  
 
@@ -218,9 +218,9 @@ d. in geval sprake is van een gerealiseerde investering als bedoeld in artikel 1
 ### Artikel  1.15  
 
 1.  Met het toezicht op de naleving van het bij of krachtens de artikelen 1.12 en 1.13 bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
-2.  De [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 63](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is niet van toepassing met betrekking tot de uitvoering van het bepaalde in de artikelen 1.12 en 1.13. Voor de toepassing van de artikelen 63 en 67 van de Algemene wet inzake rijksbelastingen betreffende de uitvoering van de artikelen 1.12 en 1.13 door Onze Minister of de door hem aangewezen ambtenaren, treedt Onze Minister in de plaats van Onze Minister van Financiën.   
-3.  De in de [artikelen 47](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47b, tweede lid](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48 tot en met 51](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [53, eerste en vierde lid, tot en met 56 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister met betrekking tot de toepassing van de artikelen 1.12 en 1.13 door op grond van het eerste lid aangewezen ambtenaren.   
-4.  De [artikelen 68](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [69](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [72 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing op het bepaalde in het derde lid.  
+2.  De Algemene wet inzake rijksbelastingen, met uitzondering van de artikelen 63 en 67, is niet van toepassing met betrekking tot de uitvoering van het bepaalde in de artikelen 1.12 en 1.13. Voor de toepassing van de artikelen 63 en 67 van de Algemene wet inzake rijksbelastingen betreffende de uitvoering van de artikelen 1.12 en 1.13 door Onze Minister of de door hem aangewezen ambtenaren, treedt Onze Minister in de plaats van Onze Minister van Financiën.   
+3.  De in de artikelen 47, 47a, 47b, tweede lid, 48 tot en met 51 en 53, eerste en vierde lid, tot en met 56 van de Algemene wet inzake rijksbelastingen jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister met betrekking tot de toepassing van de artikelen 1.12 en 1.13 door op grond van het eerste lid aangewezen ambtenaren.   
+4.  De artikelen 68, 69 en 72 van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing op het bepaalde in het derde lid.  
 
 ### Hoofdstuk  2  
 
@@ -240,7 +240,7 @@ Wijzigt deze wet.
 
 ### Hoofdstuk  3  
 
-####Wijzigingen in de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)
+####Wijzigingen in de Wet inkomstenbelasting 2001
 
 ### Artikel  3.1  
 
@@ -376,7 +376,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ### Hoofdstuk  4  
 
-####Wijzigingen in de [Invoeringswet Wet inkomstenbelasting 2001](../../../../../../../wet/invoeringswet/wet/inkomstenbelasting/2001/BWBR0011354/README.md)
+####Wijzigingen in de Invoeringswet Wet inkomstenbelasting 2001
 
 ### Artikel  4.1  
 
@@ -384,7 +384,7 @@ Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ### Hoofdstuk  5  
 
-####Wijzigingen in de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)
+####Wijzigingen in de Wet op de loonbelasting 1964
 
 ### Artikel  5.1  
 
@@ -504,7 +504,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ### Hoofdstuk  6  
 
-####Wijzigingen in de [Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md)
+####Wijzigingen in de Wet financiering sociale verzekeringen
 
 ### Artikel  6.1  
 
@@ -512,7 +512,7 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ### Hoofdstuk  7  
 
-####Wijzigingen in de [Wet bevordering eigenwoningbezit](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md)
+####Wijzigingen in de Wet bevordering eigenwoningbezit
 
 ### Artikel  7.1  
 
@@ -524,7 +524,7 @@ Wijzigt de Wet bevordering eigenwoningbezit.
 
 ### Artikel  8.1  
 
-Indien [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt toegepast, worden met overeenkomstige toepassing van dat artikel bij ministeriële regeling gewijzigd:
+Indien artikel 10.1 van de Wet inkomstenbelasting 2001 wordt toegepast, worden met overeenkomstige toepassing van dat artikel bij ministeriële regeling gewijzigd:
 
 a.bij het begin van het kalenderjaar 2015: de in de artikelen 3.5 tot en met 3.20 en de artikelen 5.3 tot en met 5.18 vermelde bedragen;
 
@@ -560,7 +560,7 @@ p.bij het begin van het kalenderjaar 2030: het in de artikelen 3.20 en 5.18 verm
 
 ### Artikel  8.2  
 
-Na toepassing van de artikelen 3.2, 3.4 tot en met 3.31 of 5.1 tot en met 5.29 worden de bedragen in kolom III van de tabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de aan het begin van de betreffende jaren in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).
+Na toepassing van de artikelen 3.2, 3.4 tot en met 3.31 of 5.1 tot en met 5.29 worden de bedragen in kolom III van de tabel in artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001 bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de aan het begin van de betreffende jaren in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001, op de bedragen in kolom III van de tabel in artikel 20a, eerste lid, van de Wet op de loonbelasting 1964 en op de bedragen in kolom III van de tabel in artikel 20b, eerste lid, van de Wet op de loonbelasting 1964.
 
 ### Artikel  8.2a  
 
@@ -572,10 +572,10 @@ Onze Minister voor Wonen en Rijksdienst zendt in overeenstemming met Onze Minist
 
 a. de artikelen 3.1 en 4.1 terugwerken tot en met 1 januari 2013;  
 
-b. artikel 3.1, onderdeel A, eerst toepassing vindt nadat [artikel I van het Belastingplan 2014](../../../../../../../wet/belastingplan/2014/BWBR0034538/README.md) en [artikel I van Overige fiscale maatregelen 2014](../../../../../../../wet/overige/fiscale/maatregelen/2014/BWBR0034526/README.md) zijn toegepast;  
+b. artikel 3.1, onderdeel A, eerst toepassing vindt nadat artikel I van het Belastingplan 2014 en artikel I van Overige fiscale maatregelen 2014 zijn toegepast;  
 
-c. artikel 3.2, onderdeel A, eerst toepassing vindt nadat [artikel I van het Belastingplan 2014](../../../../../../../wet/belastingplan/2014/BWBR0034538/README.md) is toegepast.     
-2.  In afwijking van het eerste lid treedt artikel 3.3 in werking op het tijdstip waarop, nadat het bij koninklijke boodschap van 14 mei 2013 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten ([Wijzigingswet financiële markten 2014](../../../../../../../wet/wijzigingswet/financiële/markten/2014/BWBR0034293/README.md)) (Kamerstukken 33 632) tot wet is verheven, die wet in werking treedt.  
+c. artikel 3.2, onderdeel A, eerst toepassing vindt nadat artikel I van het Belastingplan 2014 is toegepast.     
+2.  In afwijking van het eerste lid treedt artikel 3.3 in werking op het tijdstip waarop, nadat het bij koninklijke boodschap van 14 mei 2013 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2014) (Kamerstukken 33 632) tot wet is verheven, die wet in werking treedt.  
 
 ### Artikel  8.4  
 

@@ -51,7 +51,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ### Artikel  IX  
 
-Indien [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij het begin van het kalenderjaar 2015, bij het begin van het kalenderjaar 2016, onderscheidenlijk bij het begin van het kalenderjaar 2017, wordt toegepast, worden, met overeenkomstige toepassing van dat artikel, bij ministeriële regeling eveneens gewijzigd: 
+Indien artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2015, bij het begin van het kalenderjaar 2016, onderscheidenlijk bij het begin van het kalenderjaar 2017, wordt toegepast, worden, met overeenkomstige toepassing van dat artikel, bij ministeriële regeling eveneens gewijzigd: 
 
 a. bij het begin van het kalenderjaar 2015: de in artikel II, onderdeel K, artikel III, onderdeel D, artikel VI, onderdeel D, en artikel VII, onderdeel D, eerstvermelde bedragen en de in artikel II, onderdeel J, artikel III, onderdeel C, artikel IV, onderdelen A en B, artikel VI, onderdeel C, artikel VII, onderdeel C, en artikel VIII, onderdelen A en B, vermelde bedragen;  
 
@@ -61,7 +61,7 @@ c. bij het begin van het kalenderjaar 2017: de in artikel IV en artikel VIII ver
 
 ### Artikel  X  
 
-Na toepassing van de artikelen I, II, III, V, VI of VII worden de bedragen in kolom III van de tabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+Na toepassing van de artikelen I, II, III, V, VI of VII worden de bedragen in kolom III van de tabel in artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001 bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001, op de bedragen in kolom III van de tabel in artikel 20a, eerste lid, van de Wet op de loonbelasting 1964 en op de bedragen in kolom III van de tabel in artikel 20b, eerste lid, van de Wet op de loonbelasting 1964. 
 
 ### Artikel  XI  
 
@@ -93,7 +93,7 @@ Wijzigt de Successiewet 1956.
 
 ### Artikel  XVa  
 
-Bij een overlijden in de periode van 1 januari 2015 tot en met 29 juni 2015 is [artikel 12, eerste lid, eerste volzin, van de Successiewet 1956](../../../../wet/successiewet/1956/BWBR0002226/README.md) niet van toepassing op een schenking als bedoeld in [artikel 33a, eerste lid, van die wet](../../../../wet/successiewet/1956/BWBR0002226/README.md), zoals dat luidde op 31 december 2014, voor zover voor die schenking een verhoogde vrijstelling gold. 
+Bij een overlijden in de periode van 1 januari 2015 tot en met 29 juni 2015 is artikel 12, eerste lid, eerste volzin, van de Successiewet 1956 niet van toepassing op een schenking als bedoeld in artikel 33a, eerste lid, van die wet, zoals dat luidde op 31 december 2014, voor zover voor die schenking een verhoogde vrijstelling gold. 
 
 ### Artikel  XVI  
 
@@ -101,7 +101,7 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ### Artikel  XVII  
 
-Het aan de ondernemer toekomend recht om de belasting in aftrek te brengen op het tijdstip dat de belasting in rekening is gebracht ter zake van goederen en diensten voor zover deze waren bestemd voor de vervaardiging van een goed als bedoeld in [artikel 3, derde lid, onderdeel b, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), zoals dat artikel luidde op 31 december 2013, blijft in stand voor zover de ondernemer dit recht al had vóór 1 januari 2014. Deze aftrek wordt herzien bij ingebruikname van de goederen en diensten in de zin van [artikel 15, vierde lid, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md). 
+Het aan de ondernemer toekomend recht om de belasting in aftrek te brengen op het tijdstip dat de belasting in rekening is gebracht ter zake van goederen en diensten voor zover deze waren bestemd voor de vervaardiging van een goed als bedoeld in artikel 3, derde lid, onderdeel b, van de Wet op de omzetbelasting 1968, zoals dat artikel luidde op 31 december 2013, blijft in stand voor zover de ondernemer dit recht al had vóór 1 januari 2014. Deze aftrek wordt herzien bij ingebruikname van de goederen en diensten in de zin van artikel 15, vierde lid, van de Wet op de omzetbelasting 1968. 
 
 ### Artikel  XVIIa  
 
@@ -141,7 +141,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ### Artikel  XXIIIc  
 
-Voor de periode die ingaat met ingang van 1 juli 2014 en afloopt met ingang van 1 oktober 2014 is in afwijking van [artikel 17 van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) de belasting voor de geleverde hoeveelheid, bedoeld in [artikel 18, onderdelen b tot en met e van die wet](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), verschuldigd op het eerstvolgende tijdstip, bedoeld in artikel 17, eerste lid, dat zich voordoet na 30 september 2014. 
+Voor de periode die ingaat met ingang van 1 juli 2014 en afloopt met ingang van 1 oktober 2014 is in afwijking van artikel 17 van de Wet belastingen op milieugrondslag de belasting voor de geleverde hoeveelheid, bedoeld in artikel 18, onderdelen b tot en met e van die wet, verschuldigd op het eerstvolgende tijdstip, bedoeld in artikel 17, eerste lid, dat zich voordoet na 30 september 2014. 
 
 ### Artikel  XXIIId  
 
@@ -149,7 +149,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ### Artikel  XXIV  
 
-Met ingang van 1 januari 2017 wordt in de [Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) het in [artikel 59, eerste lid, onderdeel c](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), opgenomen tarief voor een geleverde hoeveelheid die niet hoger is dan 10.000 kWh verhoogd met € 0,0003. 
+Met ingang van 1 januari 2017 wordt in de Wet belastingen op milieugrondslag het in artikel 59, eerste lid, onderdeel c, opgenomen tarief voor een geleverde hoeveelheid die niet hoger is dan 10.000 kWh verhoogd met € 0,0003. 
 
 ### Artikel  XXV  
 
@@ -209,26 +209,26 @@ Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ### Artikel  XXXIIIc  
 
-[Artikel 24 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) en de daarop gebaseerde bepalingen zoals die luidden op 31 december 2013, blijven van toepassing op aanspraken van belastingplichtigen over de aan het kalenderjaar 2014 voorafgaande kalenderjaren. 
+Artikel 24 van de Wet tegemoetkoming chronisch zieken en gehandicapten en de daarop gebaseerde bepalingen zoals die luidden op 31 december 2013, blijven van toepassing op aanspraken van belastingplichtigen over de aan het kalenderjaar 2014 voorafgaande kalenderjaren. 
 
 ### Artikel  XXXIIId  
 
-1.  Bij algemene maatregel van bestuur worden regels gesteld over door de rijksbelastingdienst te verstrekken tegemoetkomingen specifieke zorgkosten aan belastingplichtigen met uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-2.  De uitbetaling en terugvordering van verstrekte tegemoetkomingen specifieke zorgkosten geschieden overeenkomstig de regels die gelden voor de invordering van inkomstenbelasting, met dien verstande dat bij de overeenkomstige toepassing van [artikel 24 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) een uit te betalen tegemoetkoming specifieke zorgkosten uitsluitend kan worden verrekend met een terugvordering van een tegemoetkoming specifieke zorgkosten.  
+1.  Bij algemene maatregel van bestuur worden regels gesteld over door de rijksbelastingdienst te verstrekken tegemoetkomingen specifieke zorgkosten aan belastingplichtigen met uitgaven voor specifieke zorgkosten als bedoeld in afdeling 6.5 van de Wet inkomstenbelasting 2001.   
+2.  De uitbetaling en terugvordering van verstrekte tegemoetkomingen specifieke zorgkosten geschieden overeenkomstig de regels die gelden voor de invordering van inkomstenbelasting, met dien verstande dat bij de overeenkomstige toepassing van artikel 24 van de Invorderingswet 1990 een uit te betalen tegemoetkoming specifieke zorgkosten uitsluitend kan worden verrekend met een terugvordering van een tegemoetkoming specifieke zorgkosten.  
 
 ### Artikel  XXXIIIe  
 
-Na de inwerkingtreding van deze wet berust het [Besluit tegemoetkoming specifieke zorgkosten](../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md) op artikel XXXIIID. 
+Na de inwerkingtreding van deze wet berust het Besluit tegemoetkoming specifieke zorgkosten op artikel XXXIIID. 
 
 ### Artikel  XXXIV  
 
-1.  De [artikelen 10.1](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.3, tweede lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de [artikelen 32bb, negende lid](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en [32bc, vierde lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) vinden geen toepassing bij het begin van het kalenderjaar 2014.   
-2.  Bij de toepassing van [artikel 10.7, tweede en derde lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij het begin van het kalenderjaar 2014 wordt de toepassing van [artikel 10.1 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geacht te hebben plaatsgevonden op basis van een tabelcorrectiefactor als bedoeld in [artikel 10.2 van die wet](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van 1.  
+1.  De artikelen 10.1 en 10.3, tweede lid, van de Wet inkomstenbelasting 2001 en de artikelen 32bb, negende lid, en 32bc, vierde lid, van de Wet op de loonbelasting 1964 vinden geen toepassing bij het begin van het kalenderjaar 2014.   
+2.  Bij de toepassing van artikel 10.7, tweede en derde lid, van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2014 wordt de toepassing van artikel 10.1 van die wet geacht te hebben plaatsgevonden op basis van een tabelcorrectiefactor als bedoeld in artikel 10.2 van die wet van 1.  
 
 ### Artikel  XXXV  
 
-1.  [Artikel 27a van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing bij het begin van het kalenderjaar 2014 op het bedrag genoemd in [artikel 27, eerste lid, onderdeel b, van die wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
-2.  [Artikel 90 van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) vindt geen toepassing bij het begin van het kalenderjaar 2014 op het bedrag, genoemd in [artikel 18 van die wet](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).  
+1.  Artikel 27a van de Wet op de accijns vindt geen toepassing bij het begin van het kalenderjaar 2014 op het bedrag genoemd in artikel 27, eerste lid, onderdeel b, van die wet.   
+2.  Artikel 90 van de Wet belastingen op milieugrondslag vindt geen toepassing bij het begin van het kalenderjaar 2014 op het bedrag, genoemd in artikel 18 van die wet.  
 
 ### Artikel  XXXVI  
 
@@ -238,29 +238,29 @@ Ingeval de samenloop van wetten die in 2013 in het Staatsblad zijn of worden gep
 
 1.  Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat: 
 
-a. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij het begin van het kalenderjaar 2015 wordt toegepast: artikel II, onderdelen J en K, eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
+a. indien artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2015 wordt toegepast: artikel II, onderdelen J en K, eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
 
-b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij het begin van het kalenderjaar 2016 wordt toegepast: artikel III, onderdelen C en D, eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
+b. indien artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2016 wordt toegepast: artikel III, onderdelen C en D, eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
 
-c. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij het begin van het kalenderjaar 2017 wordt toegepast: artikel IV eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
+c. indien artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2017 wordt toegepast: artikel IV eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
 
-d. indien [artikel 22d van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij het begin van het kalenderjaar 2015 wordt toegepast: artikel VI, onderdelen C en D, eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
+d. indien artikel 22d van de Wet op de loonbelasting 1964 bij het begin van het kalenderjaar 2015 wordt toegepast: artikel VI, onderdelen C en D, eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
 
-e. indien [artikel 22d van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij het begin van het kalenderjaar 2016 wordt toegepast: artikel VII, onderdelen C en D, eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
+e. indien artikel 22d van de Wet op de loonbelasting 1964 bij het begin van het kalenderjaar 2016 wordt toegepast: artikel VII, onderdelen C en D, eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
 
-f. indien [artikel 22d van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij het begin van het kalenderjaar 2017 wordt toegepast: artikel VIII eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
+f. indien artikel 22d van de Wet op de loonbelasting 1964 bij het begin van het kalenderjaar 2017 wordt toegepast: artikel VIII eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;  
 
-g. artikel XIX, onderdeel F, eerst toepassing vindt nadat [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) bij het begin van het kalenderjaar 2014 is toegepast;  
+g. artikel XIX, onderdeel F, eerst toepassing vindt nadat artikel 81a van de Wet op de motorrijtuigenbelasting 1994 bij het begin van het kalenderjaar 2014 is toegepast;  
 
-h. indien [artikel 90 van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bij het begin van het kalenderjaar 2017 wordt toegepast: artikel XXIV eerst toepassing vindt nadat genoemd artikel 90 bij het begin van genoemd kalenderjaar is toegepast;  
+h. indien artikel 90 van de Wet belastingen op milieugrondslag bij het begin van het kalenderjaar 2017 wordt toegepast: artikel XXIV eerst toepassing vindt nadat genoemd artikel 90 bij het begin van genoemd kalenderjaar is toegepast;  
 
 i. de wijziging ingevolge artikel XXVII, onderdeel A, voor het eerst toepassing vindt met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2011;  
 
-j. de artikelen XXIXA en XXX toepassing vinden voordat [artikel II van het Belastingplan 2010](../../../../wet/belastingplan/2010/BWBR0026958/README.md) en de [artikelen III](../../../../wet/belastingplan/2011/BWBR0029341/README.md) en [IIIbis, onderdelen A, B en C, van het Belastingplan 2011](../../../../wet/belastingplan/2011/BWBR0029341/README.md) worden toegepast;  
+j. de artikelen XXIXA en XXX toepassing vinden voordat artikel II van het Belastingplan 2010 en de artikelen III en IIIbis, onderdelen A, B en C, van het Belastingplan 2011 worden toegepast;  
 
-k. artikel XXXI, onderdeel A, toepassing vindt voordat [artikel XXVA van de Wet uitwerking autobrief](../../../../wet/wet/uitwerking/autobrief/BWBR0030923/README.md) wordt toegepast;  
+k. artikel XXXI, onderdeel A, toepassing vindt voordat artikel XXVA van de Wet uitwerking autobrief wordt toegepast;  
 
-l. artikel XXXII toepassing vindt voordat [artikel III van de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013](../../../../wet/wet/uitwerking/fiscale/maatregelen/begrotingsakkoord/2013/BWBR0031798/README.md) wordt toegepast.     
+l. artikel XXXII toepassing vindt voordat artikel III van de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013 wordt toegepast.     
 2.  Artikel XIV, onderdeel B, werkt terug tot en met 29 oktober 2012.   
 3.  De artikelen I, onderdeel Ea, en XXVIIA, onderdeel C, werken terug tot en met 1 januari 2013.   
 4.  Artikel I, onderdeel F, en artikel XIV, onderdeel C, werken terug tot en met 1 oktober 2013.   
