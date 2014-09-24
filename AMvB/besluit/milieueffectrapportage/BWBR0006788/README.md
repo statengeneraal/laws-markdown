@@ -10,7 +10,7 @@ Gelet op het op 25 februari 1991 te Espoo tot stand gekomen Verdrag inzake milie
 
 Gelet op richtlijn nr. 85/337/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (*PbEG*, L 175/40); 
 
-Gelet op artikel II van de wet van 23 april 1986 houdende uitbreiding van de Wet algemene bepalingen milieuhygiëne (Regelen met betrekking tot milieu-effectrapportage) en op de [artikelen 7.2](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.4](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.5, achtste lid](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.8*e* ](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [7.35, vierde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); 
+Gelet op artikel II van de wet van 23 april 1986 houdende uitbreiding van de Wet algemene bepalingen milieuhygiëne (Regelen met betrekking tot milieu-effectrapportage) en op de artikelen 7.2, 7.4, 7.5, achtste lid, 7.8*e*  en 7.35, vierde lid, van de Wet milieubeheer; 
 
 Gezien de adviezen van de Raad voor het milieubeheer (25 november 1992, kenmerk ABJ-92/1108), de Natuurbeschermingsraad (9 november 1992, kenmerk 92814), en de Raad van advies voor de ruimtelijke ordening (27 november 1992, kenmerk CL/362); 
 
@@ -24,19 +24,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:  de wet: de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  de bijlage: de bij dit besluit behorende bijlage.  
+In dit besluit wordt verstaan onder:  de wet: de Wet milieubeheer;  de bijlage: de bij dit besluit behorende bijlage.  
 
 ### Hoofdstuk  2  
 
-####Activiteiten, plannen en besluiten ten aanzien waarvan het maken van een milieueffectrapport verplicht is of ten aanzien waarvan de [artikelen 7.16 tot en met 7.19 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) moeten worden toegepast 
+####Activiteiten, plannen en besluiten ten aanzien waarvan het maken van een milieueffectrapport verplicht is of ten aanzien waarvan de artikelen 7.16 tot en met 7.19 van de wet moeten worden toegepast 
 
 ### Artikel  2  
 
-1.  Als activiteiten als bedoeld in [artikel 7.2, eerste lid, onder a, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen de activiteiten die behoren tot een categorie die in onderdeel C van de bijlage is omschreven, met uitzondering van activiteiten die uitsluitend of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt.   
-2.   Als activiteiten als bedoeld in [artikel 7.2, eerste lid, onder b, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen de activiteiten die behoren tot een categorie die in onderdeel D van de bijlage is omschreven, alsmede activiteiten die in onderdeel C van de bijlage zijn omschreven en die uitsluitend of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt. Indien een activiteit behoort tot een categorie van activiteiten die zowel in onderdeel C als in onderdeel D van de bijlage omschreven is en zij tevens voldoet aan de in de daarbij aangegeven categorieën van gevallen genoemde criteria, behoort zij tot de in onderdeel C omschreven categorie van activiteiten.   
-3.  Als categorieën van plannen als bedoeld in [artikel 7.2, tweede lid, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), worden aangewezen de categorieën die in kolom 3 van onderdeel C onderscheidenlijk onderdeel D van de bijlage zijn omschreven, voor zover die plannen een kader vormen voor een besluit dat behoort tot een categorie die is aangewezen op grond van het vierde lid, en voor zover die plannen niet zijn aangewezen als categorieën van besluiten als bedoeld in dat lid. 
-4.  Als categorieën van besluiten als bedoeld in [artikel 7.2, derde en vierde lid, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), worden aangewezen de categorieën die in kolom 4 van onderdeel C onderscheidenlijk onderdeel D van de bijlage zijn omschreven.  
-5.  Voor zover in de bijlage, onderdeel C, bij een categorie van activiteiten categorieën van gevallen zijn aangegeven, geldt de verplichting tot het maken van een milieueffectrapport in zodanige gevallen. Voor zover in de bijlage, onderdeel D, bij een categorie van activiteiten categorieën van gevallen zijn aangegeven, geldt de verplichting tot het toepassen van de [artikelen 7.16 tot en met 7.19 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md): 
+1.  Als activiteiten als bedoeld in artikel 7.2, eerste lid, onder a, van de wet worden aangewezen de activiteiten die behoren tot een categorie die in onderdeel C van de bijlage is omschreven, met uitzondering van activiteiten die uitsluitend of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt.   
+2.   Als activiteiten als bedoeld in artikel 7.2, eerste lid, onder b, van de wet worden aangewezen de activiteiten die behoren tot een categorie die in onderdeel D van de bijlage is omschreven, alsmede activiteiten die in onderdeel C van de bijlage zijn omschreven en die uitsluitend of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt. Indien een activiteit behoort tot een categorie van activiteiten die zowel in onderdeel C als in onderdeel D van de bijlage omschreven is en zij tevens voldoet aan de in de daarbij aangegeven categorieën van gevallen genoemde criteria, behoort zij tot de in onderdeel C omschreven categorie van activiteiten.   
+3.  Als categorieën van plannen als bedoeld in artikel 7.2, tweede lid, van de wet, worden aangewezen de categorieën die in kolom 3 van onderdeel C onderscheidenlijk onderdeel D van de bijlage zijn omschreven, voor zover die plannen een kader vormen voor een besluit dat behoort tot een categorie die is aangewezen op grond van het vierde lid, en voor zover die plannen niet zijn aangewezen als categorieën van besluiten als bedoeld in dat lid. 
+4.  Als categorieën van besluiten als bedoeld in artikel 7.2, derde en vierde lid, van de wet, worden aangewezen de categorieën die in kolom 4 van onderdeel C onderscheidenlijk onderdeel D van de bijlage zijn omschreven.  
+5.  Voor zover in de bijlage, onderdeel C, bij een categorie van activiteiten categorieën van gevallen zijn aangegeven, geldt de verplichting tot het maken van een milieueffectrapport in zodanige gevallen. Voor zover in de bijlage, onderdeel D, bij een categorie van activiteiten categorieën van gevallen zijn aangegeven, geldt de verplichting tot het toepassen van de artikelen 7.16 tot en met 7.19 van de wet: 
 
 a. in zodanige gevallen en  
 
@@ -59,13 +59,13 @@ Vervallen per 01-07-2010
 
 ### Artikel  8  
 
-In gevallen waarin achter een activiteit onder de categorie-omschrijving in de onderdelen C en D van de bijlage meer dan één besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing zijn, als besluit is vermeld, bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt, en tot die besluiten behoort:  
+In gevallen waarin achter een activiteit onder de categorie-omschrijving in de onderdelen C en D van de bijlage meer dan één besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de wet van toepassing zijn, als besluit is vermeld, bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt, en tot die besluiten behoort:  
 
-a. de beslissing omtrent het verlenen van de vergunning, bedoeld in de [artikelen 15](../../../../wet/kernenergiewet/BWBR0002402/README.md) en [29 van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md),   
+a. de beslissing omtrent het verlenen van de vergunning, bedoeld in de artikelen 15 en 29 van de Kernenergiewet,   
 
 b. de beslissing omtrent het verlenen van de omgevingsvergunning voor een inrichting,   
 
-c. de beslissing omtrent het verlenen van de vergunning, bedoeld in [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md),    is [artikel 7.35, derde lid, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bij uitsluiting van toepassing op de eerste van de onder *a* tot en met *c* genoemde beslissingen die in het desbetreffende geval nodig is.  
+c. de beslissing omtrent het verlenen van de vergunning, bedoeld in artikel 6.2 van de Waterwet,    is artikel 7.35, derde lid, van de wet bij uitsluiting van toepassing op de eerste van de onder *a* tot en met *c* genoemde beslissingen die in het desbetreffende geval nodig is.  
 
 ### Hoofdstuk  5  
 
@@ -116,45 +116,45 @@ A. Kosto
 
 a. een voor autoverkeer bestemde weg die alleen toegankelijk is via knooppunten of door verkeerslichten geregelde kruispunten en waarop het is verboden te stoppen en te parkeren, of  
 
-b. een weg als bedoeld in [artikel 1, onder d, van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);    *binnenvaarweg:* binnenwater welke kan worden bevaren door schepen; *installatie:* een of meer installaties binnen een inrichting voor zover het de activiteit betreft als bedoeld in kolom 1 van de onderdelen C en D; *plan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening:* een plan als bedoeld in [artikel 3.1, eerste lid](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en [artikel 3.1, derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), met uitzondering van een plan dat zijn grondslag vindt in een omgevingsvergunning die is verleend met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en met inbegrip van: 
+b. een weg als bedoeld in artikel 1, onder d, van het Reglement verkeersregels en verkeerstekens 1990;    *binnenvaarweg:* binnenwater welke kan worden bevaren door schepen; *installatie:* een of meer installaties binnen een inrichting voor zover het de activiteit betreft als bedoeld in kolom 1 van de onderdelen C en D; *plan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening:* een plan als bedoeld in artikel 3.1, eerste lid, en artikel 3.1, derde lid, van de Wet ruimtelijke ordening, met uitzondering van een plan dat zijn grondslag vindt in een omgevingsvergunning die is verleend met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht, en met inbegrip van: 
 
-a. een inpassingsplan als bedoeld in de [artikelen 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [3.28 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), met uitzondering van een plan dat zijn grondslag vindt in een omgevingsvergunning die is verleend met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+a. een inpassingsplan als bedoeld in de artikelen 3.26 en 3.28 van die wet, met uitzondering van een plan dat zijn grondslag vindt in een omgevingsvergunning die is verleend met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht;  
 
-b. een rijksbestemmingsplan als bedoeld in [artikel 10.3, eerste lid, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+b. een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid, van die wet;  
 
-c. een beheersverordening als bedoeld in [artikel 3.38 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+c. een beheersverordening als bedoeld in artikel 3.38 van die wet;  
 
 d. voor zover het plan wordt genoemd in kolom 3 van de onderdelen C onderscheidenlijk D: 
 
-1° een aanwijzing als bedoeld in [artikel 4.2, eerste lid, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), tenzij die volgt uit een aanwijzing ingevolge [artikel 4.4, eerste lid, onder c, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), welke een concrete locatie aanwijst, waarvan niet kan worden afgeweken,  
+1° een aanwijzing als bedoeld in artikel 4.2, eerste lid, van die wet, tenzij die volgt uit een aanwijzing ingevolge artikel 4.4, eerste lid, onder c, van die wet, welke een concrete locatie aanwijst, waarvan niet kan worden afgeweken,  
 
-2° een aanwijzing als bedoeld in [artikel 4.4, eerste lid, onder a, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en  
+2° een aanwijzing als bedoeld in artikel 4.4, eerste lid, onder a, van die wet, en  
 
-3° een aanwijzing als bedoeld in [artikel 4.4, eerste lid, onder c, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), voor zover deze een concrete locatie aanwijst, waarvan niet kan worden afgeweken;    
+3° een aanwijzing als bedoeld in artikel 4.4, eerste lid, onder c, van die wet, voor zover deze een concrete locatie aanwijst, waarvan niet kan worden afgeweken;    
 
-e. voor zover het plan wordt genoemd in kolom 4 van de onderdelen C onderscheidenlijk D: een omgevingsvergunning waarbij van het bestemmingsplan of de beheersverordening wordt afgeweken met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, of het tweede lid van dat artikel van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).    *gevoelig gebied:*  
+e. voor zover het plan wordt genoemd in kolom 4 van de onderdelen C onderscheidenlijk D: een omgevingsvergunning waarbij van het bestemmingsplan of de beheersverordening wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, of het tweede lid van dat artikel van de Wet algemene bepalingen omgevingsrecht.    *gevoelig gebied:*  
 
 a. een gebied dat krachtens: 
 
-1°. [artikel 10, eerste lid](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of [12, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is aangewezen als een beschermd natuurmonument;  
+1°. artikel 10, eerste lid, of 12, eerste lid, van de Natuurbeschermingswet 1998 is aangewezen als een beschermd natuurmonument;  
 
-2°.[artikel 10a, eerste lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is aangewezen als een gebied ter uitvoering van richtlijn nr. 79/409/EEG van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand (PbEG L 103) en richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);
+2°.artikel 10a, eerste lid, van de Natuurbeschermingswet 1998 is aangewezen als een gebied ter uitvoering van richtlijn nr. 79/409/EEG van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand (PbEG L 103) en richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);
 
 3°. de op 2 februari 1971 te Ramsar tot stand gekomen Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats voor watervogels (Trb. 1975, 84), is aangemeld als watergebied van internationale betekenis;    
 
-b. een kerngebied, begrensd natuurontwikkelingsgebied of begrensde verbindingszone, dat deel uitmaakt van de ecologische hoofdstructuur, zoals die structuur is vastgelegd in een geldend bestemmingsplan of, bij het ontbreken daarvan, in een geldende structuurvisie als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of, bij het ontbreken daarvan, zoals die structuur voorkomt op de kaart Ecologische Hoofdstructuur, behorend bij deel 4 van het Structuurschema Groene Ruimte (LNV-kenmerk GRR-95194);  
+b. een kerngebied, begrensd natuurontwikkelingsgebied of begrensde verbindingszone, dat deel uitmaakt van de ecologische hoofdstructuur, zoals die structuur is vastgelegd in een geldend bestemmingsplan of, bij het ontbreken daarvan, in een geldende structuurvisie als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening, of, bij het ontbreken daarvan, zoals die structuur voorkomt op de kaart Ecologische Hoofdstructuur, behorend bij deel 4 van het Structuurschema Groene Ruimte (LNV-kenmerk GRR-95194);  
 
-c. een gebied met behoud en herstel van de bestaande landschapskwaliteit, zoals dat gebied is vastgelegd in een geldend bestemmingsplan of, bij het ontbreken daarvan, in een geldende structuurvisie als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of, bij het ontbreken daarvan, zoals dat gebied voorkomt op de kaart Landschap, behorend bij deel 4 van het Structuurschema Groene Ruimte;  
+c. een gebied met behoud en herstel van de bestaande landschapskwaliteit, zoals dat gebied is vastgelegd in een geldend bestemmingsplan of, bij het ontbreken daarvan, in een geldende structuurvisie als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening, of, bij het ontbreken daarvan, zoals dat gebied voorkomt op de kaart Landschap, behorend bij deel 4 van het Structuurschema Groene Ruimte;  
 
-d. een krachtens [artikel 1.2, tweede lid, onder a, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bij provinciale verordening aangewezen gebied met uitzondering van de zones waar het met het oog op de bescherming van het diepe grondwater is verboden te boren;  
+d. een krachtens artikel 1.2, tweede lid, onder a, van de wet bij provinciale verordening aangewezen gebied met uitzondering van de zones waar het met het oog op de bescherming van het diepe grondwater is verboden te boren;  
 
-e. een gebied dat krachtens [artikel 3, eerste lid, van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) is aangewezen als beschermd monument;  
+e. een gebied dat krachtens artikel 3, eerste lid, van de Monumentenwet 1988 is aangewezen als beschermd monument;  
 
-f.een Belvedere-gebied als bedoeld in de bijlage «Gebieden» bij de nota «Belvedere, beleidsnota over de relatie tussen cultuurhistorie en ruimtelijke inrichting» (Kamerstukken II 1998/99, 26 663, nr. 2) voorzover dat is vastgelegd in een geldende structuurvisie als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of geldend bestemmingsplan;  *weidevogelgebied:* een weidevogelgebied dat voorkomt op de kaart Belangrijke gebieden voor weidevogels, behorend bij deel 4 van het Structuurschema Groene Ruimte;  *primaire waterkering:* hetgeen daaronder wordt verstaan in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md);  *rivierdijk:*  
+f.een Belvedere-gebied als bedoeld in de bijlage «Gebieden» bij de nota «Belvedere, beleidsnota over de relatie tussen cultuurhistorie en ruimtelijke inrichting» (Kamerstukken II 1998/99, 26 663, nr. 2) voorzover dat is vastgelegd in een geldende structuurvisie als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening of geldend bestemmingsplan;  *weidevogelgebied:* een weidevogelgebied dat voorkomt op de kaart Belangrijke gebieden voor weidevogels, behorend bij deel 4 van het Structuurschema Groene Ruimte;  *primaire waterkering:* hetgeen daaronder wordt verstaan in artikel 1.1 van de Waterwet;  *rivierdijk:*  
 
 a. een primaire waterkering in het benedenrivierengebied langs of in de Hollandsche IJssel, de Lek, de Boven Merwede, de Beneden Merwede, de Nieuwe Merwede, de Biesbosch, het Steurgat, de Bergsche Maas, de Amer, de Noord, de Dordtse Kil, het Wantij, de Oude Maas, de Nieuwe Maas of het Spui;  
 
-b. een andere dan in onderdeel a genoemde primaire waterkering, met uitzondering van zee- of deltadijken;    *stroomgebied: *het stroomgebied van de Eems, Rijn, Maas of Schelde;  *oppervlaktedelfstof:* een delfstof die voorkomt in de bodem en die kan worden gewonnen zonder ondergrondse mijnbouw;  *continentaal plat: *hetgeen daaronder wordt verstaan in [artikel 1, onderdeel c, van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md);  *windturbinepark:* park bestaande uit ten minste drie windturbines.2. In deze bijlage wordt mede verstaan onder:  *wijziging*: een reconstructie of verandering anderszins van aangelegde werken, ingerichte gebieden of bestaande inrichtingen;  *uitbreiding*: het opnieuw in gebruik nemen van aangelegde werken, ingerichte gebieden of bestaande inrichtingen;  *oprichting van een inrichting*: een uitbreiding van een inrichting door de oprichting van een nieuwe installatie;   *capaciteit*: een redelijkerwijs binnen afzienbare tijd voorzienbare uitbreiding van de capaciteit;  *oppervlakte*: een redelijkerwijs binnen afzienbare tijd voorzienbare uitbreiding van de oppervlakte.  
+b. een andere dan in onderdeel a genoemde primaire waterkering, met uitzondering van zee- of deltadijken;    *stroomgebied: *het stroomgebied van de Eems, Rijn, Maas of Schelde;  *oppervlaktedelfstof:* een delfstof die voorkomt in de bodem en die kan worden gewonnen zonder ondergrondse mijnbouw;  *continentaal plat: *hetgeen daaronder wordt verstaan in artikel 1, onderdeel c, van de Mijnbouwwet;  *windturbinepark:* park bestaande uit ten minste drie windturbines.2. In deze bijlage wordt mede verstaan onder:  *wijziging*: een reconstructie of verandering anderszins van aangelegde werken, ingerichte gebieden of bestaande inrichtingen;  *uitbreiding*: het opnieuw in gebruik nemen van aangelegde werken, ingerichte gebieden of bestaande inrichtingen;  *oprichting van een inrichting*: een uitbreiding van een inrichting door de oprichting van een nieuwe installatie;   *capaciteit*: een redelijkerwijs binnen afzienbare tijd voorzienbare uitbreiding van de capaciteit;  *oppervlakte*: een redelijkerwijs binnen afzienbare tijd voorzienbare uitbreiding van de oppervlakte.  
 
 ### Onderdeel B  
 
@@ -270,7 +270,7 @@ Vervallen.
 
 ### Onderdeel D  
 
-####Activiteiten, plannen en besluiten, ten aanzien waarvan de procedure als bedoeld in de [artikelen 7.16 tot en met 7.20 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is
+####Activiteiten, plannen en besluiten, ten aanzien waarvan de procedure als bedoeld in de artikelen 7.16 tot en met 7.20 van de wet van toepassing is
 
 |--- | Kolom 1  | Kolom 2  | Kolom 3  | Kolom 4  |--- | Activiteiten  | Gevallen  | Plannen  | Besluiten  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|

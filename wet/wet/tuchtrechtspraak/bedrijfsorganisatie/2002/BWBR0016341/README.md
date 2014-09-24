@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
+a. bedrijfslichaam: een bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie;  
 
 b. het College: het College van Beroep voor het bedrijfsleven.   
 
@@ -26,7 +26,7 @@ b. het College: het College van Beroep voor het bedrijfsleven.
 
 ### Artikel  2  
 
-1.  De tuchtrechtelijke maatregelen in de zin van [artikel 104 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), die op overtreding van verordeningen van een bedrijfslichaam kunnen worden gesteld, zijn: 
+1.  De tuchtrechtelijke maatregelen in de zin van artikel 104 van de Wet op de bedrijfsorganisatie, die op overtreding van verordeningen van een bedrijfslichaam kunnen worden gesteld, zijn: 
 
 a. berisping;  
 
@@ -44,8 +44,8 @@ De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke of mon
 
 ### Artikel  4  
 
-1. De geldboete bedraagt ten minste € 3 en ten hoogste een bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
-2. Indien de waarde van de goederen, met betrekking tot welke een overtreding is begaan, of de waarde van het wederrechtelijk genoten voordeel dat geheel of gedeeltelijk door middel van de overtreding is verkregen, hoger is dan een kwart van de geldboete van de derde categorie, kan een geldboete worden opgelegd van ten hoogste de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
+1. De geldboete bedraagt ten minste € 3 en ten hoogste een bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. 
+2. Indien de waarde van de goederen, met betrekking tot welke een overtreding is begaan, of de waarde van het wederrechtelijk genoten voordeel dat geheel of gedeeltelijk door middel van de overtreding is verkregen, hoger is dan een kwart van de geldboete van de derde categorie, kan een geldboete worden opgelegd van ten hoogste de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. 
 3. De geldboete kan geheel of gedeeltelijk voorwaardelijk worden opgelegd. 
 
 ### Artikel  5  
@@ -87,14 +87,14 @@ Een tuchtgerecht heeft een voorzitter, leden en een secretaris.
 
 ### Artikel  9  
 
-1.  De voorzitter en de secretaris voldoen aan de vereisten voor benoeming zoals vermeld in [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).   
+1.  De voorzitter en de secretaris voldoen aan de vereisten voor benoeming zoals vermeld in artikel 5 van de Wet rechtspositie rechterlijke ambtenaren.   
 2.  De voorzitter wordt voor de tijd van zes jaren op voordracht van het bestuur van het betrokken bedrijfslichaam bij koninklijk besluit benoemd.   
 3.  De leden en de secretaris worden voor de tijd van zes jaren door het bestuur van het betrokken bedrijfslichaam benoemd.   
 4.  De secretaris en de leden zijn voor hun werkzaamheden voor het tuchtgerecht uitsluitend verantwoording schuldig aan het tuchtgerecht.  
 
 ### Artikel  10  
 
-1.  De voorzitter, de leden en de secretaris zijn geen lid van het bestuur van of werknemer bij enig bedrijfslichaam of lichaam als bedoeld in [artikel 110 van de Wet op de bedrijforganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+1.  De voorzitter, de leden en de secretaris zijn geen lid van het bestuur van of werknemer bij enig bedrijfslichaam of lichaam als bedoeld in artikel 110 van de Wet op de bedrijforganisatie.   
 2.  Tussen de voorzitter, de leden en de secretaris mag niet bestaan een duurzaam samenwerkingsverband terzake van ondernemingen die onder het betrokken bedrijfslichaam ressorteren of een verhouding van werkgever tot werknemer.  
 
 ### Artikel  11  
@@ -104,12 +104,12 @@ De voorzitter, de leden en de secretaris zijn verplicht tot geheimhouding van de
 ### Artikel  12  
 
 1.  De voorzitter, de leden en de secretaris wordt in ieder geval ontslag verleend met ingang van de eerste dag van de maand volgende op die waarin zij de leeftijd van zeventig jaren hebben bereikt. Zij kunnen op eigen verzoek tussentijds worden ontslagen.   
-2.  De voorzitter, de leden en de secretaris kunnen worden ontslagen op de gronden aangegeven in de [artikelen 46c, tweede lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46m van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en indien zij wegens ziekte ongeschikt zijn voor hun taak, mits de ongeschiktheid twee jaar onafgebroken heeft geduurd en herstel binnen zes maanden na de termijn van twee jaar redelijkerwijs niet is te verwachten.  
+2.  De voorzitter, de leden en de secretaris kunnen worden ontslagen op de gronden aangegeven in de artikelen 46c, tweede lid, 46d, tweede lid, 46l, eerste en derde lid, en 46m van de Wet rechtspositie rechterlijke ambtenaren en indien zij wegens ziekte ongeschikt zijn voor hun taak, mits de ongeschiktheid twee jaar onafgebroken heeft geduurd en herstel binnen zes maanden na de termijn van twee jaar redelijkerwijs niet is te verwachten.  
 
 ### Artikel  13  
 
 1.  De voorzitter, de leden en de secretaris ontvangen een bezoldiging van het betrokken bedrijfslichaam.   
-2.  De opgeroepen getuigen en deskundigen ontvangen ten laste van het betrokken bedrijfslichaam een vergoeding overeenkomstig het bepaalde bij of krachtens de [Wet tarieven in strafzaken](../../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).   
+2.  De opgeroepen getuigen en deskundigen ontvangen ten laste van het betrokken bedrijfslichaam een vergoeding overeenkomstig het bepaalde bij of krachtens de Wet tarieven in strafzaken.   
 3.  De Sociaal-Economische Raad stelt de bezoldiging, bedoeld in het eerste lid, bij verordening vast. Zodanige verordening behoeft de goedkeuring van de betrokken Ministers. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.  
 
 ### Artikel  14  
@@ -180,23 +180,23 @@ b. de mededeling, dat de betrokkene bevoegd is getuigen en deskundigen ter zitti
 
 ### Artikel  23  
 
-Op verzoek van de betrokkene kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van het tuchtgerecht schade zou kunnen lijden. De [artikelen 513 tot en met 515 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. 
+Op verzoek van de betrokkene kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van het tuchtgerecht schade zou kunnen lijden. De artikelen 513 tot en met 515 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. 
 
 ### Artikel  24  
 
-Op grond van feiten en omstandigheden als bedoeld in artikel 23 kan de voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met 518 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. 
+Op grond van feiten en omstandigheden als bedoeld in artikel 23 kan de voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De artikelen 517, tweede en derde lid, tot en met 518 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. 
 
 ### Artikel  25  
 
 1.  Het tuchtgerecht kan ambtshalve of op verzoek van de betrokkene of de voorzitter van het bedrijfslichaam getuigen oproepen.   
 2.  Ieder, die als getuige is opgeroepen, is verplicht voor het tuchtgerecht te verschijnen. Artikel 17, tweede lid, is van overeenkomstige toepassing.   
-3.  Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+3.  Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de artikelen 217 tot en met 220 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 4.  De voorzitter van het tuchtgerecht kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.  
 
 ### Artikel  26  
 
 1.  Het tuchtgerecht kan ambtshalve of op verzoek van de betrokkene of de voorzitter van het bedrijfslichaam deskundigen benoemen, teneinde het gerecht voor te lichten, zo nodig, met opdracht een onderzoek in te stellen en het gerecht een verslag uit te brengen.   
-2.  De deskundige is verplicht zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van deskundigen en hun verhoor zijn de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+2.  De deskundige is verplicht zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van deskundigen en hun verhoor zijn de artikelen 217 tot en met 220 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 3.  Het tuchtgerecht kan de deskundige geheimhouding opleggen.  
 
 ### Artikel  27  
@@ -305,12 +305,12 @@ Een uitspraak wordt niet ten uitvoer gelegd voordat zij onherroepelijk is.
 ### Artikel  44  
 
 1.  De voorzitter van het bedrijfslichaam brengt binnen twee weken na het onherroepelijk worden van de uitspraak van het tuchtgerecht of van het College ter kennis van de betrokkene, binnen welke termijn hij de opgelegde geldboete, of de kosten van openbaarmaking van de uitspraak moet voldoen. Deze termijn kan op ten hoogste twee maanden worden gesteld en kan telkens worden verlengd, maar mag ook na verlenging niet langer zijn dan twee jaren.   
-2.  Bij gebreke van volledige betaling binnen de in het eerste lid bedoelde termijn wordt het niet betaalde bedrag ingevorderd op dezelfde wijze als de heffingen, bedoeld in [artikel 126, eerste lid van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). [Artikel 127 van die wet](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) is van overeenkomstige toepassing.   
+2.  Bij gebreke van volledige betaling binnen de in het eerste lid bedoelde termijn wordt het niet betaalde bedrag ingevorderd op dezelfde wijze als de heffingen, bedoeld in artikel 126, eerste lid van de Wet op de bedrijfsorganisatie. Artikel 127 van die wet is van overeenkomstige toepassing.   
 3.  Het eerste en het tweede lid zijn van overeenkomstige toepassing op de kosten van de verscherpte controle, bedoeld in artikel 2, eerste lid, onderdeel d, met dien verstande dat de termijn voor de kennisgeving van de betalingstermijn eerst aanvangt nadat de kosten zijn gemaakt.  
 
 ### Artikel  45  
 
-Indien in strijd met artikel 42 van tenuitvoerlegging wordt afgezien of indien de in artikel 44 gestelde termijnen niet in acht worden genomen, is [artikel 99, eerste lid, aanhef en onderdeel b, en tweede lid, van Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) van overeenkomstige toepassing. 
+Indien in strijd met artikel 42 van tenuitvoerlegging wordt afgezien of indien de in artikel 44 gestelde termijnen niet in acht worden genomen, is artikel 99, eerste lid, aanhef en onderdeel b, en tweede lid, van Wet op de bedrijfsorganisatie van overeenkomstige toepassing. 
 
 ### Artikel  46  
 
@@ -322,12 +322,12 @@ Voorzover in enig jaar de ontvangsten uit geldboeten de kosten van de tuchtrecht
 
 ### Artikel  47  
 
-1.  Op de behandeling van op het tijdstip van inwerkingtreding van deze wet aanhangige tuchtzaken blijft de [Wet tuchtrechtspraak bedrijfsorganisatie](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/BWBR0002145/README.md) van toepassing.   
-2.  Naar aanleiding van overtredingen die zijn begaan voor de inwerkingtreding van deze wet, kunnen slechts de tuchtrechtelijke maatregelen bepaald in de [Wet tuchtrechtspraak bedrijfsorganisatie](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/BWBR0002145/README.md) worden opgelegd.  
+1.  Op de behandeling van op het tijdstip van inwerkingtreding van deze wet aanhangige tuchtzaken blijft de Wet tuchtrechtspraak bedrijfsorganisatie van toepassing.   
+2.  Naar aanleiding van overtredingen die zijn begaan voor de inwerkingtreding van deze wet, kunnen slechts de tuchtrechtelijke maatregelen bepaald in de Wet tuchtrechtspraak bedrijfsorganisatie worden opgelegd.  
 
 ###Artikel 48 
 
-De [Wet tuchtrechtspraak bedrijfsorganisatie](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/BWBR0002145/README.md) wordt ingetrokken.
+De Wet tuchtrechtspraak bedrijfsorganisatie wordt ingetrokken.
 
 ###Artikel 49 
 

@@ -4,7 +4,7 @@
 
 Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 23 juni 2003, nr. 03M457883;
 
-Gelet op [artikel 44, eerste lid, van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 44, eerste lid, van de Grondwet;
 Hebben goedgevonden en verstaan:     
 
 ### Artikel  1  

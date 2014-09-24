@@ -67,7 +67,7 @@ Er is een College voor de toelating van gewasbeschermingsmiddelen en biociden. H
 4.  De leden en de plaatsvervangend leden hebben op persoonlijke titel zitting in het college en oefenen hun functie uit zonder last of ruggespraak.   
 5.  Zolang in een vacature niet is voorzien, vormen de overblijvende leden het college, met de bevoegdheid van het volledig college.   
 6.  Leden en plaatsvervangend leden die zijn benoemd ter vervanging van een tussentijds opengevallen plaats, treden af op het tijdstip waarop degene in wiens plaats zij zijn benoemd, zou moeten aftreden.   
-7.  De bezoldiging dan wel schadeloosstelling, bedoeld in [artikel 14, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor de leden en plaatsvervangende leden van het college komt ten laste van de begroting van het college.  
+7.  De bezoldiging dan wel schadeloosstelling, bedoeld in artikel 14, eerste lid, van de Kaderwet zelfstandige bestuursorganen, voor de leden en plaatsvervangende leden van het college komt ten laste van de begroting van het college.  
 
 ### Artikel  7  
 
@@ -85,12 +85,12 @@ Er is een College voor de toelating van gewasbeschermingsmiddelen en biociden. H
 
 a. de werkwijze van het college en de taakverdeling tussen de leden, en  
 
-b. overige zaken betrekking hebbende op de uitvoering van het bij of krachtens deze wet gestelde, waaronder de nadere eisen, bedoeld in [artikel 2:15 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+b. overige zaken betrekking hebbende op de uitvoering van het bij of krachtens deze wet gestelde, waaronder de nadere eisen, bedoeld in artikel 2:15 van de Algemene wet bestuursrecht.     
 2.  Het college kan bij het reglement zijn vertegenwoordiging in en buiten rechte opdragen aan een of meer leden van het college of aan de secretaris. Het kan bepalen dat deze vertegenwoordiging uitsluitend betrekking heeft op bepaalde aangelegenheden.   
 3.  Het college kan bij het reglement de uitoefening van daarbij aan te wijzen taken en bevoegdheden opdragen aan een of meer leden of aan de secretaris. 
 4. Vervallen.
 5. Vervallen.  
-6. In aanvulling op het eerste lid, onderdeel b, kan het college in een bestuursreglement regels stellen voor het bij een schriftelijke aanvraag overleggen van gegevens op een elektronische gegevensdrager en de aanvrager daartoe verplichten, voorzover een belanghebbende de gegevens niet langs elektronische weg verzendt als bedoeld in [artikel 2:15 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+6. In aanvulling op het eerste lid, onderdeel b, kan het college in een bestuursreglement regels stellen voor het bij een schriftelijke aanvraag overleggen van gegevens op een elektronische gegevensdrager en de aanvrager daartoe verplichten, voorzover een belanghebbende de gegevens niet langs elektronische weg verzendt als bedoeld in artikel 2:15 van de Algemene wet bestuursrecht.
 
 ### Artikel  10  
 
@@ -122,7 +122,7 @@ d. andere baten, hoe ook genoemd.
 1.  Het college stelt jaarlijks een werkplan voor het eerstvolgende jaar vast. Het werkplan bevat tevens een visie op de ontwikkelingen voor de eerstvolgende vier jaren met betrekking tot aard en omvang van de aan het college toebedeelde taken en de daaruit voortvloeiende gevolgen voor de organisatie. Het werkplan wordt vóór 1 oktober aan Onze Ministers ter kennis gebracht.   
 2.  Indien de goedkeuring wordt onthouden aan de begroting, is het college gerechtigd gedurende ten hoogste zes maanden voor iedere maand gedurende welke de goedkeuring wordt onthouden, uitgaven te doen ter grootte van ten hoogste een twaalfde deel van de begroting van het voorafgaande jaar waarmee is ingestemd.   
 3.  Onze Minister kan tevens een onderzoek instellen naar de doelmatigheid van het beheer, de organisatie en het beleid van het college alsmede naar de doeltreffendheid van de uitvoering en het beleid van het college. Desgevraagd geeft het college ten behoeve van dit onderzoek inzage van de boeken en bescheiden en verstrekt het alle inlichtingen die voor dit onderzoek nodig geoordeeld worden.   
-4.  Onze Minister kan nadere regels stellen over de inrichting van het werkplan, bedoeld in het eerste lid, alsmede het jaarverslag, de begroting en de jaarrekening bedoeld, in [artikel 18](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), respectievelijk [artikel 26](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), respectievelijk [artikel 34 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
+4.  Onze Minister kan nadere regels stellen over de inrichting van het werkplan, bedoeld in het eerste lid, alsmede het jaarverslag, de begroting en de jaarrekening bedoeld, in artikel 18, respectievelijk artikel 26, respectievelijk artikel 34 van de Kaderwet zelfstandige bestuursorganen.  
 
 ### Artikel  13  
 
@@ -253,7 +253,7 @@ Vervallen per 26-11-2011
 1.  Onze Minister kan ambtshalve of op aanvraag vrijstelling verlenen van de verboden, bedoeld in de artikelen 19, 20 en 22, voor het gebruik van een gewasbeschermingsmiddel overeenkomstig artikel 53 van verordening (EG) 1107/2009.   
 2.  Een vrijstelling wordt in ieder geval verleend ter uitvoering van een communautaire maatregel, die is gericht op een te bestrijden gevaar.   
 3.  Aan een vrijstelling kunnen voorschriften en beperkingen worden verbonden.   
-4.  Indien een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de vrijstelling onmiddellijk in werking treedt. In dat geval wordt het vrijstellingsbesluit, in afwijking van [artikel 3:42, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op elektronische wijze bekendgemaakt.   
+4.  Indien een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de vrijstelling onmiddellijk in werking treedt. In dat geval wordt het vrijstellingsbesluit, in afwijking van artikel 3:42, tweede lid, van de Algemene wet bestuursrecht op elektronische wijze bekendgemaakt.   
 5.  Bij regeling van Onze Minister kan worden bepaald dat een aanvraag eerst in behandeling wordt genomen nadat een daarvoor vastgesteld bedrag is voldaan. Tevens kunnen regels worden gesteld omtrent de te volgen procedure en minimumvoorwaarden voor vrijstelling.  
 
 ### Artikel  39  
@@ -325,7 +325,7 @@ b. de etikettering van biociden, bedoeld in artikel 69, derde lid, onder b, van 
 ####Afwijkingen van de eisen
 
 1.  Onze Minister kan ter uitvoering van artikel 55 van verordening (EU) Nr. 528/2012 ambtshalve of op aanvraag vrijstelling verlenen van het verbod, bedoeld in artikel 42, eerste lid, om te handelen in strijd met artikel 17, eerste lid, van verordening (EU) Nr. 528/2012 en van de voorwaarden van artikel 19 van verordening (EU) Nr. 528/2012 inzake het verlenen van een toelating voor een biocide.   
-2.  Indien een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de vrijstelling onmiddellijk in werking treedt. In dat geval wordt het vrijstellingsbesluit, in afwijking van [artikel 3:42, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op elektronische wijze bekendgemaakt.   
+2.  Indien een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de vrijstelling onmiddellijk in werking treedt. In dat geval wordt het vrijstellingsbesluit, in afwijking van artikel 3:42, tweede lid, van de Algemene wet bestuursrecht op elektronische wijze bekendgemaakt.   
 3.  Bij regeling van Onze Minister kan worden bepaald dat een aanvraag eerst in behandeling wordt genomen nadat een bij die regeling vastgesteld bedrag is voldaan op een daarbij te bepalen wijze. Bij regeling van Onze Minister kunnen tevens regels worden gesteld omtrent de te volgen procedure en de minimumvoorwaarden voor vrijstelling. 
 
 ### Artikel  47  
@@ -435,7 +435,7 @@ d. de wijze van afleveren van gewasbeschermingsmiddelen of biociden.
 
 ### Artikel  77  
 
-De klant, bedoeld in artikel 73, legitimeert zich op verzoek van de distributeur of zijn personeel met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). 
+De klant, bedoeld in artikel 73, legitimeert zich op verzoek van de distributeur of zijn personeel met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. 
 
 ### Artikel  78  
 
@@ -456,10 +456,10 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de productie, het op de markt brengen of het gebruik van voertuigen, vaartuigen, luchtvaartuigen, apparatuur voor de toepassing van gewasbeschermingsmiddelen of andere methoden, technieken en materialen, zowel in de open lucht als in besloten ruimten. Deze regels kunnen een verbod of beperking van het gebruik inhouden.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van artikel 8 van richtlijn 2009/128/EG regels worden gesteld over een keuring van in gebruik zijnde apparatuur voor de toepassing van gewasbeschermingsmiddelen. Deze regels omvatten de keuringsfrequentie, de keuringseisen, de keuringsinstanties, het in rekening te brengen tarief voor de keuring en de mogelijkheid van vrijstelling voor aan te wijzen types apparatuur.   
-3.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van het tweede lid de medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in [artikel 66 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+3.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van het tweede lid de medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
 4.  Indien de in het derde lid bedoelde medewerking bestaat uit het stellen van regels of nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister.   
 5.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de in het vierde lid bedoelde regels of nadere regels.   
-6.  In afwijking van [artikel 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), is in voorkomend geval de instemming vereist van Onze Minister.   
+6.  In afwijking van artikel 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004, is in voorkomend geval de instemming vereist van Onze Minister.   
 7.  In afwijking van artikel 82 kan bij of krachtens algemene maatregel van bestuur worden bepaald dat met het toezicht op de naleving van de regels of nadere regels waarvoor tuchtrechtelijke maatregelen zijn gesteld, de bij besluit van het betrokken bedrijfslichaam aangewezen personen zijn belast. Dat besluit behoeft de goedkeuring van Onze Minister.   
 8.  Een tuchtrechtelijke maatregel vindt geen toepassing, indien, na overleg met het bedrijfslichaam, Onze Minister besluit tot het opleggen van een bestuurlijke boete of de officier van justitie besluit dat de desbetreffende overtreding strafrechtelijk wordt afgedaan.   
 9.  De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
@@ -469,7 +469,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 ####Bescherming van milieu en volksgezondheid
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het gebruik van gewasbeschermingsmiddelen of biociden in specifieke gebieden als bedoeld in artikel 12 van richtlijn 2009/128/EG. Deze regels kunnen een verbod inhouden dan wel zijn gericht op een vermindering van het gebruik van alle of een bepaald type gewasbeschermingsmiddelen of biociden in bij die maatregel aangewezen gebieden.   
-2.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van artikel 13, eerste lid, van richtlijn 2009/128/EG de medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in [artikel 66 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+2.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van artikel 13, eerste lid, van richtlijn 2009/128/EG de medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
 3.  Op de in het tweede lid bedoelde medewerking is artikel 80, vierde tot en met achtste lid, van overeenkomstige toepassing.  
 
 ### Artikel  81  
@@ -487,7 +487,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1.  Onze Ministers stellen een nationaal actieplan op ter uitvoering van artikel 4 van richtlijn 2009/128/EG.   
 2.  Het plan wordt ten minste iedere vijf jaren herzien.   
-3.  Op de voorbereiding en wijziging van een nationaal actieplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+3.  Op de voorbereiding en wijziging van een nationaal actieplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 
 ### Hoofdstuk  7  
 
@@ -539,7 +539,7 @@ Een toezichthouder is bevoegd met medeneming van de benodigde apparatuur een won
 
 ####Bestuursdwang
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde regels en [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het de verplichting betreft tot het verlenen van medewerking aan de ingevolge artikel 82 aangewezen ambtenaren. 
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde regels en artikel 5:20 van de Algemene wet bestuursrecht, voor zover het de verplichting betreft tot het verlenen van medewerking aan de ingevolge artikel 82 aangewezen ambtenaren. 
 
 ### Artikel  87  
 
@@ -597,8 +597,8 @@ Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan 
 ####Hoogte bestuurlijke boete
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd.   
-2.  De op grond van het eerste lid te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap, of, indien dat meer is, 10 procent van de jaaromzet in het boekjaar voorafgaande aan het boekjaar waarin de boete wordt opgelegd.   
-3.  De berekening van de omzet, bedoeld in het tweede lid, geschiedt op voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.  
+2.  De op grond van het eerste lid te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap, of, indien dat meer is, 10 procent van de jaaromzet in het boekjaar voorafgaande aan het boekjaar waarin de boete wordt opgelegd.   
+3.  De berekening van de omzet, bedoeld in het tweede lid, geschiedt op voet van het bepaalde in artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek voor de netto-omzet.  
 
 ### §  3  
 
@@ -610,7 +610,7 @@ Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan 
 
 ### Artikel  108  
 
-Bij gebreke van volledige betaling binnen de in [artikel 4:87 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn kan Onze Minister de verschuldigde bestuurlijke boete invorderen bij dwangbevel. 
+Bij gebreke van volledige betaling binnen de in artikel 4:87 van de Algemene wet bestuursrecht bedoelde termijn kan Onze Minister de verschuldigde bestuurlijke boete invorderen bij dwangbevel. 
 
 ### Hoofdstuk  8  
 
@@ -632,7 +632,7 @@ Bij gebreke van volledige betaling binnen de in [artikel 4:87 van de Algemene we
 
 ####Besluit tot algemeen verbindend verklaring
 
-1.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van het besluit tot algemeenverbindendverklaring, met dien verstande dat de termijn van [artikel 3:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan worden opgeschort voor zolang nodig ter voldoening aan internationaalrechtelijke verplichtingen.   
+1.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van het besluit tot algemeenverbindendverklaring, met dien verstande dat de termijn van artikel 3:18, eerste lid, van de Algemene wet bestuursrecht kan worden opgeschort voor zolang nodig ter voldoening aan internationaalrechtelijke verplichtingen.   
 2.  Onze Minister kan aan het besluit tot algemeenverbindendverklaring voorschriften verbinden ten aanzien van aan hem over te leggen rapportages over de uitvoering en handhaving van de overeenkomst.   
 3.  Een besluit tot algemeenverbindendverklaring geldt voor een in het besluit aangegeven termijn van ten hoogste vijf jaar.  
 
@@ -643,7 +643,7 @@ Bij gebreke van volledige betaling binnen de in [artikel 4:87 van de Algemene we
 1.  Onze Minister kan op een daartoe strekkend verzoek van een besluit tot algemeenverbindendverklaring ontheffing verlenen, indien de verzoeker zorg draagt voor het op een zodanige wijze verrichten van de betrokken handelingen dat deze wijze naar het oordeel van Onze Minister ten minste gelijkwaardig is aan de wijze waarop die handelingen overeenkomstig de betrokken algemeenverbindendverklaring worden verricht.   
 2.  Een ontheffing van een algemeen verbindend verklaarde overeenkomst kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.   
 3.  Een krachtens het eerste lid verleende ontheffing kan ambtshalve of op een daartoe strekkend verzoek worden gewijzigd of worden ingetrokken. Artikel 114, eerste lid, is van overeenkomstige toepassing, met dien verstande dat voor het in onderdeel b van dat lid genoemde belang in de plaats treedt: het niet langer voldoen aan het in het eerste lid van dit artikel genoemde vereiste.   
-4.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van het besluit tot ontheffing als bedoeld in het eerste lid.  
+4.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van het besluit tot ontheffing als bedoeld in het eerste lid.  
 
 ### Artikel  114  
 
@@ -658,7 +658,7 @@ b. op grond van een verandering van de omstandigheden of inzichten opgetreden na
 c. een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dan wel regels ter uitvoering daarvan, hiertoe verplichten, of  
 
 d. degenen die het verzoek hebben ingediend, daartoe verzoeken.     
-2.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van een besluit als bedoeld in het eerste lid.  
+2.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van een besluit als bedoeld in het eerste lid.  
 
 ### Artikel  115  
 
@@ -769,11 +769,11 @@ Vervallen per 21-11-2013
 
 ####Overgangsrecht toelatingen, registraties, vrijstellingen, ontheffingen en uitzonderingen
 
-1.  Gewasbeschermingsmiddelen of biociden die op het tijdstip van inwerkingtreding van deze wet zijn toegelaten op grond van de [Bestrijdingsmiddelenwet 1962](../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md) bij besluit van het College voor de toelating van bestrijdingsmiddelen, worden bij de inwerkingtreding van deze wet geacht te zijn toegelaten op grond van artikel 28 onderscheidenlijk artikel 49 van deze wet onder de voorschriften die bij de toelating zijn gegeven.   
-2. Gewasbeschermingsmiddelen en biociden die op 3 mei 2007 van rechtswege zijn toegelaten op grond van [artikel 25d van de Bestrijdingsmiddelenwet 1962](../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md) worden vanaf die datum geacht te zijn toegelaten op grond van artikel 122, eerste lid, van deze wet onder de voorschriften die bij de toelating zijn gegeven. Alle toelatingen van rechtswege op grond van dit lid vervallen op de datum van inwerkingtreding van het eerste besluit tot vaststelling van een lijst voor gewasbeschermingsmiddelen, onderscheidenlijk biociden, als bedoeld in artikel 122, eerste lid.  
-3. Gewasbeschermingsmiddelen of biociden, die op of na 3 mei 2007 zijn vrijgesteld van toelating of waarvoor een ontheffing is verstrekt op grond van [artikel 16aa van de Bestrijdingsmiddelenwet 1962](../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md), worden vanaf die datum geacht te zijn toegelaten op grond van artikel 123, eerste lid, van deze wet, onder de voorschriften die bij de vrijstelling of ontheffing zijn gegeven. 
-4.  Gewasbeschermingsmiddelen of biociden, die zijn vrijgesteld van toelating of waarvoor een ontheffing is verstrekt op grond van [artikel 16a van de Bestrijdingsmiddelenwet 1962](../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md), worden geacht te zijn toegelaten op grond van artikel 38 van deze wet voor gewasbeschermingsmiddelen, onderscheidenlijk artikel 65 van deze wet voor biociden, onder de voorschriften die bij de vrijstelling of ontheffing zijn gegeven en tot de in de vrijstelling of ontheffing opgenomen termijn is verstreken.   
-5.  Gewasbeschermingsmiddelen of biociden die op grond van [artikel 1, derde lid, van de Bestrijdingsmiddelenwet 1962](../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md) zijn uitgezonderd van de toepassing van [die wet](../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md), zijn bij de inwerkingtreding van deze wet van rechtswege toegelaten, tot het moment waarop het college: 
+1.  Gewasbeschermingsmiddelen of biociden die op het tijdstip van inwerkingtreding van deze wet zijn toegelaten op grond van de Bestrijdingsmiddelenwet 1962 bij besluit van het College voor de toelating van bestrijdingsmiddelen, worden bij de inwerkingtreding van deze wet geacht te zijn toegelaten op grond van artikel 28 onderscheidenlijk artikel 49 van deze wet onder de voorschriften die bij de toelating zijn gegeven.   
+2. Gewasbeschermingsmiddelen en biociden die op 3 mei 2007 van rechtswege zijn toegelaten op grond van artikel 25d van de Bestrijdingsmiddelenwet 1962 worden vanaf die datum geacht te zijn toegelaten op grond van artikel 122, eerste lid, van deze wet onder de voorschriften die bij de toelating zijn gegeven. Alle toelatingen van rechtswege op grond van dit lid vervallen op de datum van inwerkingtreding van het eerste besluit tot vaststelling van een lijst voor gewasbeschermingsmiddelen, onderscheidenlijk biociden, als bedoeld in artikel 122, eerste lid.  
+3. Gewasbeschermingsmiddelen of biociden, die op of na 3 mei 2007 zijn vrijgesteld van toelating of waarvoor een ontheffing is verstrekt op grond van artikel 16aa van de Bestrijdingsmiddelenwet 1962, worden vanaf die datum geacht te zijn toegelaten op grond van artikel 123, eerste lid, van deze wet, onder de voorschriften die bij de vrijstelling of ontheffing zijn gegeven. 
+4.  Gewasbeschermingsmiddelen of biociden, die zijn vrijgesteld van toelating of waarvoor een ontheffing is verstrekt op grond van artikel 16a van de Bestrijdingsmiddelenwet 1962, worden geacht te zijn toegelaten op grond van artikel 38 van deze wet voor gewasbeschermingsmiddelen, onderscheidenlijk artikel 65 van deze wet voor biociden, onder de voorschriften die bij de vrijstelling of ontheffing zijn gegeven en tot de in de vrijstelling of ontheffing opgenomen termijn is verstreken.   
+5.  Gewasbeschermingsmiddelen of biociden die op grond van artikel 1, derde lid, van de Bestrijdingsmiddelenwet 1962 zijn uitgezonderd van de toepassing van die wet, zijn bij de inwerkingtreding van deze wet van rechtswege toegelaten, tot het moment waarop het college: 
 
 a. de toelating intrekt of wijzigt op grond van deze wet, of  
 
@@ -786,7 +786,7 @@ b. het middel toelaat op grond van artikel 35 of 55.
 1.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235) blijft voor zover nodig van toepassing in de in artikel 80, eerste lid, van verordening (EG) 1107/2009 bedoelde gevallen.   
 2.  Op de voet van artikel 8o, tweede lid, van verordening (EG) 1107/2009 blijft het bepaalde bij of krachtens de artikelen 25 en 27 van toepassing zoals deze bepalingen luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235).   
 3.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235), blijft van toepassing op aanvragen tot toelating, in de in artikel 80, vijfde lid, van verordening (EG) 1107/2009 bedoelde gevallen, totdat op die aanvragen is beslist.   
-4.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de [Wet van 6 november 2013 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden](../../../../../../wet/wijzigingswet/wet/gewasbeschermingsmiddelen/en/biociden/(uitvoering/etc/BWBR0034208/README.md) (PbEU, L 167) (Stb. 459) blijven voor zover nodig van toepassing in de in artikel 89, tweede lid, van verordening (EG) Nr. 528/2012 bedoelde gevallen. 
+4.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 6 november 2013 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167) (Stb. 459) blijven voor zover nodig van toepassing in de in artikel 89, tweede lid, van verordening (EG) Nr. 528/2012 bedoelde gevallen. 
 
 ### §  2  
 

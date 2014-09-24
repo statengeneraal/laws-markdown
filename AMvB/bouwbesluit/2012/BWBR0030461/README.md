@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 juli 2011, nr. 2011- 20112000271178, CZW;
 
-Gelet op de [artikelen 2](../../../../wet/woningwet/BWBR0005181/README.md), [3](../../../../wet/woningwet/BWBR0005181/README.md), [5](../../../../wet/woningwet/BWBR0005181/README.md), [6](../../../../wet/woningwet/BWBR0005181/README.md) en [120 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md) en op richtlijn nr. 89/106/EEG van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (PbEG L 40), zoals gewijzigd bij richtlijn nr. 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220), richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEG L 101/56), richtlijn nr. 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (PbEU L153) en verordening nr. 305/2011/EU van het Europees parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU L88);
+Gelet op de artikelen 2, 3, 5, 6 en 120 van de Woningwet en op richtlijn nr. 89/106/EEG van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (PbEG L 40), zoals gewijzigd bij richtlijn nr. 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220), richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEG L 101/56), richtlijn nr. 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (PbEU L153) en verordening nr. 305/2011/EU van het Europees parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU L88);
 
 De Afdeling advisering van de Raad van State gehoord (advies van 19 juli 2011, W04.11.0267/I);
 
@@ -32,9 +32,9 @@ Hebben goedgevonden en verstaan:
 
 * *ADR-klasse:* * classificatie als bedoeld in de op 30 september 1957 te Genève tot stand gekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (Trb. 1959, 171);  
 
-* *asbest:* * asbest als bedoeld in [artikel 1, eerste lid, onder a, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md);  
+* *asbest:* * asbest als bedoeld in artikel 1, eerste lid, onder a, van het Asbestverwijderingsbesluit 2005;  
 
-* *basisnetroute:* * basisnetroute als bedoeld in het [Besluit externe veiligheid transportroutes](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md);  
+* *basisnetroute:* * basisnetroute als bedoeld in het Besluit externe veiligheid transportroutes;  
 
 *bedgebied:* verblijfsgebied met een of meer bedruimten;  
 
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 * *beschermde vluchtroute:* * buiten een subbrandcompartiment gelegen gedeelte van een vluchtroute die uitsluitend voert door een verkeersruimte;  
 
-* *bevoegd gezag:* * bevoegd gezag als bedoeld in de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+* *bevoegd gezag:* * bevoegd gezag als bedoeld in de Wabo;  
 
 * *bezwijken:* * het overschrijden van een uiterste grenstoestand;  
 
@@ -66,13 +66,13 @@ Hebben goedgevonden en verstaan:
 
 * *CE-markering:* * CE-markering als bedoeld in artikel 8 van de verordening bouwproducten;  
 
-* *dagwaarde:* * de waarde van het langtijdgemiddeld beoordelingsniveau voor geluid tussen 07.00 tot 19.00 uur op de gevel van een geluidsgevoelig object als bedoeld in [artikel 11.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), vermeerderd met een eventuele toeslag voor geluid met een impulskarakter, bepaald volgens de Handleiding meten en rekenen industrielawaai, internetuitgave 2004; 
+* *dagwaarde:* * de waarde van het langtijdgemiddeld beoordelingsniveau voor geluid tussen 07.00 tot 19.00 uur op de gevel van een geluidsgevoelig object als bedoeld in artikel 11.1 van de Wet milieubeheer, vermeerderd met een eventuele toeslag voor geluid met een impulskarakter, bepaald volgens de Handleiding meten en rekenen industrielawaai, internetuitgave 2004; 
 
 * *distributienet voor warmte:* * collectief circulatiesysteem voor het transport van warmte door een circulerend medium voor verwarming of warmtapwater;  
 
 * *doorgang:* * toegang, uitgang of doorlaatopening voor personen van een bouwwerk of van een gedeelte daarvan;  
 
-* *erf:* * erf als bedoeld in [bijlage II bij het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);  
+* *erf:* * erf als bedoeld in bijlage II bij het Besluit omgevingsrecht;  
 
 * *extra beschermde vluchtroute:* * buiten een brandcompartiment gelegen gedeelte van een beschermde vluchtroute;  
 
@@ -112,7 +112,7 @@ Hebben goedgevonden en verstaan:
 
 * *leefzone:* * gedeelte van een verblijfsgebied waarbij de ruimte gelegen binnen 1 m van een uitwendige scheidingsconstructie, binnen 0,2 m van een inwendige scheidingsconstructie en hoger gelegen dan 1,8 m boven de vloer buiten beschouwing blijft;  
 
-* *lift:* * lift als bedoeld in [artikel 1 van het Warenwetbesluit liften](../../../../AMvB/besluit/liften/BWBR0008212/README.md) bestemd voor personen;  
+* *lift:* * lift als bedoeld in artikel 1 van het Warenwetbesluit liften bestemd voor personen;  
 
 * *lifttoegang:* * doorgang van een liftschacht voor het bereiken van een kooi van een lift;  
 
@@ -122,7 +122,7 @@ Hebben goedgevonden en verstaan:
 
 * *meetniveau:* * hoogte van het aansluitende terrein, gemeten ter plaatse van de toegang van het gebouw;  
 
-* *milieugevaarlijke stoffen:* * gevaarlijke stoffen als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+* *milieugevaarlijke stoffen:* * gevaarlijke stoffen als bedoeld in het Activiteitenbesluit milieubeheer;  
 
 * *NEN:* * door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;  
 
@@ -142,7 +142,7 @@ Hebben goedgevonden en verstaan:
 
 * *permanente vuurlast:* * product van de permanente vuurbelasting van een ruimte of een groep van ruimten en de volgens NEN 2580 bepaalde netto-vloeroppervlakte van het beschouwde gedeelte van het bouwwerk;  
 
-* *plasbrandaandachtsgebied:* * gebied als bedoeld in het [Besluit externe veiligheid transportroutes](../../../../AMvB/besluit/externe/veiligheid/transportroutes/BWBR0034233/README.md);  
+* *plasbrandaandachtsgebied:* * gebied als bedoeld in het Besluit externe veiligheid transportroutes;  
 
 *prestatieverklaring:* verklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten; 
 
@@ -152,7 +152,7 @@ Hebben goedgevonden en verstaan:
 
 * *rookklasse:* * Europese brandklasse als bedoeld in NEN-EN 13501-1, onderdeel Additional classifications for smoke production;  
 
-* *rijbaan:* * rijbaan als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+* *rijbaan:* * rijbaan als bedoeld in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990;  
 
 * *stookplaats:* * opstelplaats voor een verbrandingstoestel dat bestemd is voor open verbranding van vaste brandstoffen;  
 
@@ -192,9 +192,9 @@ Hebben goedgevonden en verstaan:
 
 * *verblijfsruimte:* * in een verblijfsgebied gelegen ruimte voor het verblijven van personen;  
 
-* *vergunning voor brandveilig gebruik:* * vergunning voor brandveilig gebruik als bedoeld in [artikel 2.1, eerste lid, onder d, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+* *vergunning voor brandveilig gebruik:* * vergunning voor brandveilig gebruik als bedoeld in artikel 2.1, eerste lid, onder d, van de Wabo;  
 
-* *vergunning voor het bouwen:* * vergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+* *vergunning voor het bouwen:* * vergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wabo;  
 
 * *verkeersroute:* * route die begint bij een doorgang van een ruimte, uitsluitend voert over vloeren, trappen of hellingbanen en eindigt bij de doorgang van een andere ruimte;  
 
@@ -216,7 +216,7 @@ Hebben goedgevonden en verstaan:
 
 * *vuurbelasting:* * hoeveelheid warmte die vrijkomt per eenheid vloeroppervlakte bij verbranding van alle in een gebouw of een daarin gelegen ruimte aanwezige brandbare materialen;  
 
-* *Wabo:* * [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); 
+* *Wabo:* * Wet algemene bepalingen omgevingsrecht; 
 
 **warmtapwatersysteem:** technisch bouwsysteem waarin warmtapwater wordt opgewekt, gedistribueerd of afgegeven of een combinatie daarvan; 
 
@@ -224,11 +224,11 @@ Hebben goedgevonden en verstaan:
 
 * *weerstand tegen branddoorslag en brandoverslag:* * kortste tijd die een brand nodig heeft om zich uit te breiden van een ruimte naar een andere ruimte;  
 
-* *wegtunnel:* * tunnel of tunnelvormig bouwwerk uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in [artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+* *wegtunnel:* * tunnel of tunnelvormig bouwwerk uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994;  
 
 * *wegtunnelbuis:* * gedeelte van een wegtunnel voor een rijbaan;  
 
-* *wet:* * [Woningwet](../../../../wet/woningwet/BWBR0005181/README.md).     
+* *wet:* * Woningwet.     
 2.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt voorts verstaan onder: 
 
 * *bijeenkomstfunctie:* * gebruiksfunctie voor het samenkomen van personen voor kunst, cultuur, godsdienst, communicatie, kinderopvang, het verstrekken van consumpties voor het gebruik ter plaatse of het aanschouwen van sport;  
@@ -256,13 +256,13 @@ Hebben goedgevonden en verstaan:
 * *woonfunctie:* * gebruiksfunctie voor het wonen.     
 3.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt voorts verstaan onder: 
 
-* *bijeenkomstfunctie voor kinderopvang:* * bijeenkomstfunctie voor het bedrijfsmatig opvangen, verzorgen, opvoeden en begeleiden van kinderen die het basisonderwijs nog niet hebben beëindigd, niet zijnde gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+* *bijeenkomstfunctie voor kinderopvang:* * bijeenkomstfunctie voor het bedrijfsmatig opvangen, verzorgen, opvoeden en begeleiden van kinderen die het basisonderwijs nog niet hebben beëindigd, niet zijnde gastouderopvang als bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
 * *cel:* * voor een enkel persoon of een afzonderlijke groep personen bestemd gedeelte van een celfunctie;  
 
 * *lichte industriefunctie:* * industriefunctie waarin activiteiten plaatsvinden, waarbij het verblijven van personen een ondergeschikte rol speelt;  
 
-*lichte industriefunctie voor het bedrijfsmatig houden van dieren:* lichte industriefunctie waarin dieren als bedoeld in de [bijlage bij het Besluit aanwijzing voor productie te houden dieren](../../../../AMvB/besluit/aanwijzing/voor/productie/te/houden/dieren/BWBR0009112/README.md), worden gehouden; 
+*lichte industriefunctie voor het bedrijfsmatig houden van dieren:* lichte industriefunctie waarin dieren als bedoeld in bijlage II bij het Besluit houders van dieren, worden gehouden; 
 
 *logiesfunctie met 24-uurs bewaking:* logiesfunctie waarbij 24 uur per dag een functionaris aanwezig is in het logiesgebouw, op het eigen perceel of op een loopafstand van ten hoogste 100 m vanaf de toegang van het logiesgebouw, mits die functionaris in geval van een calamiteit wordt gealarmeerd door de bij de logiesfunctie behorende ontruimingsinstallatie;
 
@@ -390,7 +390,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de im
 
 ####Erkenning kwaliteitsverklaringen
 
-1.  Kwaliteitsverklaringen als bedoeld in [artikel 1, eerste lid, onderdeel i, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) worden afgegeven op basis van een door Onze Minister erkend stelsel van kwaliteitsverklaringen voor de bouw.   
+1.  Kwaliteitsverklaringen als bedoeld in artikel 1, eerste lid, onderdeel i, van de wet worden afgegeven op basis van een door Onze Minister erkend stelsel van kwaliteitsverklaringen voor de bouw.   
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste lid bepaalde.  
 
 ### §  1.4  
@@ -409,7 +409,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de im
 
 ####Monumenten
 
-Indien aan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder f](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel [artikel 2.2, eerste lid, onder b, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een voorschrift is verbonden dat afwijkt van een bij of krachtens dit besluit vastgesteld voorschrift voor het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk, is uitsluitend het aan die vergunning verbonden voorschrift van toepassing. 
+Indien aan een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, dan wel artikel 2.2, eerste lid, onder b, van de Wabo een voorschrift is verbonden dat afwijkt van een bij of krachtens dit besluit vastgesteld voorschrift voor het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk, is uitsluitend het aan die vergunning verbonden voorschrift van toepassing. 
 
 ### Artikel  1.14  
 
@@ -474,8 +474,8 @@ b. een wegtunnel.
 ####Indiening gebruiksmelding
 
 1.  Een gebruiksmelding wordt ten minste vier weken voor de voorgenomen aanvang van het gebruik schriftelijk ingediend bij het bevoegd gezag.   
-2.  Een gebruiksmelding langs elektronische weg wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de gebruiksmelding beschikbaar is via de landelijke voorziening, bedoeld in [artikel 7.6 van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Op die melding is [artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) van overeenkomstige toepassing.   
-3.  Een gebruiksmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in [artikel 4.2, eerste lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md). Indien de gebruiksmelding tegelijk met de indiening van een aanvraag om vergunning krachtens de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt gedaan, wordt van de gebruiksmelding en de daarbij te verstrekken gegevens en bescheiden hetzelfde aantal exemplaren ingediend als op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden wordt ingediend. Indien de gebruiksmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.   
+2.  Een gebruiksmelding langs elektronische weg wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de gebruiksmelding beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wabo. Op die melding is artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht van overeenkomstige toepassing.   
+3.  Een gebruiksmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in artikel 4.2, eerste lid, van het Besluit omgevingsrecht. Indien de gebruiksmelding tegelijk met de indiening van een aanvraag om vergunning krachtens de Wabo wordt gedaan, wordt van de gebruiksmelding en de daarbij te verstrekken gegevens en bescheiden hetzelfde aantal exemplaren ingediend als op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden wordt ingediend. Indien de gebruiksmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.   
 4.  Bij de gebruiksmelding, bedoeld in artikel 1.18, eerste lid, onderdeel a, onder 2, verstrekt de melder voor zover dit naar het oordeel van het bevoegd gezag nodig is gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.   
 5.  Bij de gebruiksmelding worden de volgende gegevens en bescheiden aan het bevoegd gezag verstrekt: 
 
@@ -578,7 +578,7 @@ a. vergunning voor het bouwen;
 
 b. veiligheidsplan als bedoeld in artikel 8.7;  
 
-c. afschrift van een besluit ingevolge [artikel 13](../../../../wet/woningwet/BWBR0005181/README.md), [13a](../../../../wet/woningwet/BWBR0005181/README.md), of [14 van de wet](../../../../wet/woningwet/BWBR0005181/README.md), dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom, en  
+c. afschrift van een besluit ingevolge artikel 13, 13a, of 14 van de wet, dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom, en  
 
 d. overige voor het bouwen van belang zijnde vergunningen en documenten met nadere voorwaarden en ontheffingen.   
 
@@ -624,7 +624,7 @@ e. pakkingen uit procesinstallaties onderscheidenlijk verwarmingstoestellen met 
 
 a. het slopen van een seizoensgebonden bouwwerk, en  
 
-b. het slopen ingevolge een besluit op grond van [artikel 13 van de wet](../../../../wet/woningwet/BWBR0005181/README.md) dan wel een besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom.     
+b. het slopen ingevolge een besluit op grond van artikel 13 van de wet dan wel een besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom.     
 4.  Een sloopmelding wordt ten minste vier weken voor de voorgenomen aanvang van de sloopwerkzaamheden schriftelijk ingediend bij het bevoegd gezag. De in de eerste volzin bedoelde termijn is ten minste vijf werkdagen indien: 
 
 a. die sloopwerkzaamheden in het kader van reparatie- of mutatieonderhoudswerkzaamheden worden uitgevoerd aan een asbesthoudende toepassing in een gebouw en handhaving van de termijn, bedoeld in het eerste lid, tot onnodige leegstand van het gebouw of gedeelte daarvan zou leiden of het gebruiksgenot daarvan ernstig zou belemmeren, of  
@@ -645,7 +645,7 @@ e. een veiligheidsplan als bedoeld in artikel 8.7;
 
 f. een globale inventarisatie van de aard en de hoeveelheid van de afvalstoffen die naar verwachting zullen vrijkomen bij de sloopwerkzaamheden en een opgave van de voorgenomen afvoerbestemming van die stoffen  
 
-g. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) een asbestinventarisatierapport is vereist, het rapport als bedoeld in [artikel 1, eerste lid, onder b, van dat besluit](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) dan wel een eindbeoordeling als bedoeld in [artikel 9, eerste en tweede lid, van dat besluit](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md), en  
+g. indien op grond van het Asbestverwijderingsbesluit 2005 een asbestinventarisatierapport is vereist, het rapport als bedoeld in artikel 1, eerste lid, onder b, van dat besluit dan wel een eindbeoordeling als bedoeld in artikel 9, eerste en tweede lid, van dat besluit, en  
 
 h. indien bij het uitvoeren van de sloopwerkzaamheden steenachtig afval zal vrijkomen dat ter plaatse zal worden gebroken, de hoeveelheid, de naam en het adres van de eigenaar van het recyclinggranulaat.    
 7.  In afwijking van het zesde lid worden de gegevens, bedoeld in onderdeel b van dat lid, ten minste twee werkdagen voor de feitelijke aanvang van het uitvoeren van de sloopwerkzaamheden aan het bevoegd gezag verstrekt.   
@@ -656,8 +656,8 @@ h. indien bij het uitvoeren van de sloopwerkzaamheden steenachtig afval zal vrij
 
 ####Indieningswijze sloopmelding
 
-1.  Een sloopmelding wordt langs elektronische weg gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de sloopmelding beschikbaar is via de landelijke voorziening, bedoeld in [artikel 7.6 van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Op die melding is [artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) van overeenkomstige toepassing.   
-2.  Een sloopmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in [artikel 4.2, eerste lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md). Indien de melding tegelijkertijd met de indiening van een aanvraag om vergunning krachtens de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt gedaan, is het aantal exemplaren dat van de melding en de daarbij te verstrekken gegevens en bescheiden wordt ingediend gelijk aan het aantal exemplaren dat van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht wordt ingediend. Indien de sloopmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.  
+1.  Een sloopmelding wordt langs elektronische weg gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de sloopmelding beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wabo. Op die melding is artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht van overeenkomstige toepassing.   
+2.  Een sloopmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in artikel 4.2, eerste lid, van het Besluit omgevingsrecht. Indien de melding tegelijkertijd met de indiening van een aanvraag om vergunning krachtens de Wabo wordt gedaan, is het aantal exemplaren dat van de melding en de daarbij te verstrekken gegevens en bescheiden wordt ingediend gelijk aan het aantal exemplaren dat van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht wordt ingediend. Indien de sloopmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.  
 
 ### Artikel  1.28  
 
@@ -698,11 +698,11 @@ a. sloopmelding;
 
 b. veiligheidsplan als bedoeld in artikel 8.7;  
 
-c. afschrift van een besluit ingevolge [artikel 13](../../../../wet/woningwet/BWBR0005181/README.md), [13a](../../../../wet/woningwet/BWBR0005181/README.md), of [14 van de wet](../../../../wet/woningwet/BWBR0005181/README.md), dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom;  
+c. afschrift van een besluit ingevolge artikel 13, 13a, of 14 van de wet, dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom;  
 
 d. overige voor het slopen van belang zijnde vergunningen en documenten met nadere voorwaarden en ontheffingen, en  
 
-e. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) een asbestinventarisatierapport is vereist, een asbestinventarisatierapport als bedoeld in [artikel 1, eerste lid, onder b, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) dan wel een afschrift van de resultaten van de eindbeoordeling als bedoeld in [artikel 9, eerste en tweede lid, van dat besluit](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md).   
+e. indien op grond van het Asbestverwijderingsbesluit 2005 een asbestinventarisatierapport is vereist, een asbestinventarisatierapport als bedoeld in artikel 1, eerste lid, onder b, van het Asbestverwijderingsbesluit 2005 dan wel een afschrift van de resultaten van de eindbeoordeling als bedoeld in artikel 9, eerste en tweede lid, van dat besluit.   
 
 ### Artikel  1.33  
 
@@ -710,7 +710,7 @@ e. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/as
 
 1.  Het bevoegd gezag wordt ten minste twee werkdagen voor de feitelijke aanvang van de sloopwerkzaamheden, bedoeld in artikel 1.26, schriftelijk van de aanvang van die werkzaamheden in kennis gesteld door diegene die de sloopwerkzaamheden gaat uitvoeren.   
 2.  Het bevoegd gezag wordt uiterlijk op de eerste werkdag na de dag van beëindiging van de sloopwerkzaamheden, bedoeld in artikel 1.26 van de beëindiging van die werkzaamheden in kennis gesteld door degene die de werkzaamheden heeft uitgevoerd.   
-3.  Voor zover van toepassing verstrekt degene die de sloopwerkzaamheden heeft uitgevoerd het bevoegd gezag binnen twee weken na beëindiging van de werkzaamheden een afschrift van de resultaten van de eindbeoordeling, bedoeld in [artikel 9, eerste en tweede lid, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md).   
+3.  Voor zover van toepassing verstrekt degene die de sloopwerkzaamheden heeft uitgevoerd het bevoegd gezag binnen twee weken na beëindiging van de werkzaamheden een afschrift van de resultaten van de eindbeoordeling, bedoeld in artikel 9, eerste en tweede lid, van het Asbestverwijderingsbesluit 2005.   
 4.  Op verzoek van het bevoegd gezag overlegt degene die de sloopwerkzaamheden als bedoeld in artikel 1.26 heeft uitgevoerd, binnen een door het bevoegd gezag te bepalen termijn na beëindiging van de werkzaamheden, een opgave van de aard en de hoeveelheid van de bij de werkzaamheden vrijgekomen afvalstoffen en van de afvoerbestemming van die stoffen. 
 
 ### Hoofdstuk  2  
@@ -2501,9 +2501,9 @@ Een uitwendige scheidingsconstructie van een verblijfsgebied heeft een volgens N
 
 ####Industrie-, weg- of spoorweglawaai
 
-1.  Bij een krachtens de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) of de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md) vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een verblijfsgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 35 dB(A) bij industrielawaai, of 33 dB bij weg- of spoorweglawaai.   
-2.  Bij een krachtens de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) of de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md) vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een bedgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 30 dB(A) bij industrielawaai, of 28 dB bij weg- of spoorweglawaai.   
-3.  Indien dit leidt tot een lagere karakteristieke geluidwering van de uitwendige scheidingsconstructie dan bij toepassing van het eerste of tweede lid het geval is kan de in het eerste en tweede lid bedoelde geluidsbelasting worden bepaald volgens het reken- en meetvoorschrift, bedoeld in [artikel 110d van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md).  
+1.  Bij een krachtens de Wet geluidhinder of de Tracéwet vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een verblijfsgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 35 dB(A) bij industrielawaai, of 33 dB bij weg- of spoorweglawaai.   
+2.  Bij een krachtens de Wet geluidhinder of de Tracéwet vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een bedgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 30 dB(A) bij industrielawaai, of 28 dB bij weg- of spoorweglawaai.   
+3.  Indien dit leidt tot een lagere karakteristieke geluidwering van de uitwendige scheidingsconstructie dan bij toepassing van het eerste of tweede lid het geval is kan de in het eerste en tweede lid bedoelde geluidsbelasting worden bepaald volgens het reken- en meetvoorschrift, bedoeld in artikel 110d van de Wet geluidhinder.  
 4.  Op een inwendige scheidingsconstructie van een gebied als bedoeld in het eerste en tweede lid, die niet de scheiding vormt met een verblijfsgebied van een aangrenzende gebruiksfunctie waarop het eerste en tweede lid van toepassing zijn, zijn deze leden van overeenkomstige toepassing.   
 5.  Een scheidingsconstructie als bedoeld in het eerste, tweede en vierde lid van een verblijfsruimte heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die maximaal 2 dB of dB(A) lager is dan de karakteristieke geluidwering als bedoeld in het eerste, tweede en vierde lid van het verblijfsgebied waarin de verblijfsruimte ligt.  
 
@@ -2511,7 +2511,7 @@ Een uitwendige scheidingsconstructie van een verblijfsgebied heeft een volgens N
 
 ####Luchtvaartlawaai
 
-1.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een krachtens de [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) of de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) vastgestelde Ke-geluidzone bij een militaire luchthaven, heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die niet kleiner is dan de waarde in tabel 3.4. Indien de geluidsbelasting ligt tussen de in de eerste kolom opgenomen Ke-waarden, wordt de te bereiken waarde van de geluidwering bepaald door middel van rechtevenredige interpolatie tussen de in de tweede kolom opgenomen dB-waarden.  Tabel 3.4 
+1.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een krachtens de Luchtvaartwet of de Wet luchtvaart vastgestelde Ke-geluidzone bij een militaire luchthaven, heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die niet kleiner is dan de waarde in tabel 3.4. Indien de geluidsbelasting ligt tussen de in de eerste kolom opgenomen Ke-waarden, wordt de te bereiken waarde van de geluidwering bepaald door middel van rechtevenredige interpolatie tussen de in de tweede kolom opgenomen dB-waarden.  Tabel 3.4 
 
 | geluidwering bij luchtvaartlawaai  | geluidsbelasting in Ke  | vereiste karakteristieke geluidwering in dB  |
 |:---|:---|:---|
@@ -2520,7 +2520,7 @@ Een uitwendige scheidingsconstructie van een verblijfsgebied heeft een volgens N
 | 46-50  | 36–40  |
 | meer dan 50  | 40  |
 
-2.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een voor de luchthaven Schiphol op de kaarten in [bijlage 3B, nummer 4, van het Luchthavenindelingbesluit Schiphol](../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) aangewezen gebied of een krachtens de Wet luchtvaart vastgestelde 56 dB(A) L<sub>den</sub> beperkingengebied of een vastgestelde 35 Ke-geluidzone bij een burgerluchthaven, heeft een zodanige volgens NEN 5077 bepaalde karakteristieke geluidwering dat het karakteristiek geluidniveau in het verblijfsgebied ten hoogste 33 dB is. Daarbij wordt uitgegaan van de krachtens de [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) of de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bepaalde geluidbelasting op de uitwendige scheidingsconstructie.   
+2.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een voor de luchthaven Schiphol op de kaarten in bijlage 3B, nummer 4, van het Luchthavenindelingbesluit Schiphol aangewezen gebied of een krachtens de Wet luchtvaart vastgestelde 56 dB(A) L<sub>den</sub> beperkingengebied of een vastgestelde 35 Ke-geluidzone bij een burgerluchthaven, heeft een zodanige volgens NEN 5077 bepaalde karakteristieke geluidwering dat het karakteristiek geluidniveau in het verblijfsgebied ten hoogste 33 dB is. Daarbij wordt uitgegaan van de krachtens de Luchtvaartwet of de Wet luchtvaart bepaalde geluidbelasting op de uitwendige scheidingsconstructie.   
 3.  Op een inwendige scheidingsconstructie van een gebied als bedoeld in het eerste en tweede lid, die niet de scheiding vormt met een verblijfsgebied van een aangrenzende gebruiksfunctie waarop het eerste en tweede lid van toepassing zijn, zijn deze leden van overeenkomstige toepassing.   
 4.  Een scheidingsconstructie als bedoeld in het eerste tot en met derde lid van een verblijfsruimte heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die maximaal 2 dB of dB(A) lager is dan de karakteristieke geluidwering als bedoeld in het eerste tot en met derde lid van het verblijfsgebied waarin de verblijfsruimte ligt.  
 
@@ -3341,7 +3341,7 @@ a. een afvoervoorziening voor luchtverversing;
 b. een afvoervoorziening voor rookgas, en  
 
 c. een ont- en beluchting van een afvoervoorziening voor huishoudelijk afvalwater en hemelwater.     
-2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) beschermde diersoorten.   
+2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de Flora- en faunawet beschermde diersoorten.   
 3.  Het eerste lid is van overeenkomstige toepassing op een inwendige scheidingsconstructie die de scheiding vormt met een gebruiksfunctie waarop het eerste lid niet van toepassing is.  
 
 ### Artikel  3.70  
@@ -3396,7 +3396,7 @@ a. een voorziening voor luchtverversing;
 b. een afvoervoorziening voor rookgas, en  
 
 c. een ont- en beluchting van een afvoervoorziening voor huishoudelijk afvalwater en hemelwater.     
-2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) beschermde diersoorten.  
+2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de Flora- en faunawet beschermde diersoorten.  
 
 ### Afdeling  3.11  
 
@@ -4137,7 +4137,7 @@ Op een gebruiksfunctie die niet bestemd is om te worden verwarmd, of indien de v
 ####Verbouw
 
 1. Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing en de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij wordt uitgegaan van het rechtens verkregen niveau voor zover dat niveau voor de warmteweerstand niet lager is dan 1,3 m<sup>2•</sup>K/W.  
-2.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in [bijlage II bij het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
+2.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in bijlage II bij het Besluit omgevingsrecht de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
 3.  In afwijking van het eerste lid zijn op een ingrijpende renovatie als bedoeld in artikel 2 van de herziene richtlijn energieprestatie gebouwen de voorschriften van artikel 5.2 niet van toepassing en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
 4.  Bij ministeriële regeling kunnen voorschriften worden gegeven over de in het derde lid bedoelde ingrijpende renovatie. 
 
@@ -4437,7 +4437,7 @@ f. NEN-EN 295-2, en
 g. NEN-EN 295-3.     
 5.  Op aanwijzing van het bevoegd gezag wordt bepaald: 
 
-a. indien voor de afvoer van huishoudelijk afvalwater een openbaar vuilwaterriool of een systeem als bedoeld in [artikel 10.33, tweede lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aanwezig is waarop aangesloten kan worden: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.16 op dat riool of dat systeem noodzakelijke perceelaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd;  
+a. indien voor de afvoer van huishoudelijk afvalwater een openbaar vuilwaterriool of een systeem als bedoeld in artikel 10.33, tweede lid, van de Wet milieubeheer aanwezig is waarop aangesloten kan worden: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.16 op dat riool of dat systeem noodzakelijke perceelaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd;  
 
 b. indien voor de afvoer van hemelwater een openbaar hemelwaterstelsel of een openbaar vuilwaterriool aanwezig is waarop aangesloten kan worden en hemelwater op dat stelsel of riool mag worden gebracht: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.17 op dat stelsel of riool noodzakelijke perceelaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd, en  
 
@@ -5121,7 +5121,7 @@ f. brandgevaarlijke stoffen voor zover de aanwezigheid daarvan bij of krachtens 
 |  *5.1*   | brandbevorderende stoffen zoals waterstofperoxide  | II en III  | 50  |
 |  *5.2*   | organische peroxiden zoals dicymyl peroxide en di-propionyl peroxide  | n.v.t.  | 1  |
 
-<sup>1</sup> Eenheid bepaald overeenkomstig [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md). 
+<sup>1</sup> Eenheid bepaald overeenkomstig bijlage I, onder C, bij het Besluit omgevingsrecht. 
 
 ### Artikel  7.7  
 
@@ -5317,7 +5317,7 @@ Een bouwwerk, open erf en terrein bevindt zich in een zodanig zindelijke staat, 
 
 ####Restrisico gebruik bouwwerken, open erven en terreinen
 
-Onverminderd het bij of krachtens dit besluit of de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bepaalde is het verboden in, op of aan een bouwwerk of op een open erf of terrein voorwerpen of stoffen te plaatsen, te werpen of te hebben, handelingen te verrichten of na te laten of werktuigen te gebruiken, waardoor: 
+Onverminderd het bij of krachtens dit besluit of de Wet milieubeheer bepaalde is het verboden in, op of aan een bouwwerk of op een open erf of terrein voorwerpen of stoffen te plaatsen, te werpen of te hebben, handelingen te verrichten of na te laten of werktuigen te gebruiken, waardoor: 
 
 a. op voor de omgeving hinderlijke of schadelijke wijze rook, roet, walm of stof wordt verspreid;  
 
@@ -5366,13 +5366,13 @@ c. beschadiging of belemmering van wegen, van in de weg gelegen werken en van an
 | maximale blootstellingsduur  | onbeperkt  | 50 dagen  | 30 dagen  | 15 dagen  | 5 dagen  | 0 dagen  |
 
 3.  Het bevoegd gezag kan ontheffing verlenen van het eerste en tweede lid. Onverkort het gestelde in de ontheffing, wordt bij het uitvoeren van bouw- of sloopwerkzaamheden gebruik gemaakt van de best beschikbare stille technieken.   
-4.  Indien het bevoegd gezag met betrekking tot het uitvoeren van bouw- of sloopwerkzaamheden beleidsregels als bedoeld in [titel 4.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) heeft vastgesteld, is in afwijking van het derde lid geen ontheffing vereist indien het uitvoeren van de werkzaamheden voldoet aan die beleidsregels en het bevoegd gezag ten minste twee werkdagen voor de feitelijke aanvang van die werkzaamheden in kennis is gesteld van de aanvang van de werkzaamheden.  
+4.  Indien het bevoegd gezag met betrekking tot het uitvoeren van bouw- of sloopwerkzaamheden beleidsregels als bedoeld in titel 4.3 van de Algemene wet bestuursrecht heeft vastgesteld, is in afwijking van het derde lid geen ontheffing vereist indien het uitvoeren van de werkzaamheden voldoet aan die beleidsregels en het bevoegd gezag ten minste twee werkdagen voor de feitelijke aanvang van die werkzaamheden in kennis is gesteld van de aanvang van de werkzaamheden.  
 
 ### Artikel  8.4  
 
 ####Trillingshinder
 
-1.  Trillingen veroorzaakt door het uitvoeren van bouw- of sloopwerkzaamheden bedragen in geluidsgevoelige ruimten als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en in verblijfsruimten als bedoeld in [artikel 1.1, onderdeel e, van het Besluit geluidhinder](../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) niet meer dan de trillingsterkte, genoemd in tabel 4 van de Meet- en beoordelingsrichtlijn deel B «Hinder voor personen in gebouwen» 2006.   
+1.  Trillingen veroorzaakt door het uitvoeren van bouw- of sloopwerkzaamheden bedragen in geluidsgevoelige ruimten als bedoeld in artikel 1 van de Wet geluidhinder en in verblijfsruimten als bedoeld in artikel 1.1, onderdeel e, van het Besluit geluidhinder niet meer dan de trillingsterkte, genoemd in tabel 4 van de Meet- en beoordelingsrichtlijn deel B «Hinder voor personen in gebouwen» 2006.   
 2.  Het bevoegd gezag kan ontheffing verlenen van de trillingsterkte, bedoeld in het eerste lid.  
 
 ### Artikel  8.5  
@@ -5452,11 +5452,11 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven over de te scheid
 
 ####Algemeen overgangsrecht
 
-1.  Op een aanvraag om vergunning voor het bouwen, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md), [paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels](../../../../AMvB/besluit/aanvullende/regels/veiligheid/wegtunnels/BWBR0019857/README.md), de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
-2.  Op een aanvraag om vergunning voor brandveilig gebruik, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
-3.  Op een aanvraag om omgevingsvergunning voor het slopen als bedoeld in [artikel 2.2, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend. Een dergelijke vergunning wordt aangemerkt als een sloopmelding als bedoeld in artikel 1.26.   
-4.  Op een gebruiksmelding als bedoeld in [artikel 2.12.1, eerste lid, van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md), gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt aangemerkt als een gebruiksmelding als bedoeld in artikel 1.18.   
-5.  Op een door de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) vereiste sloopmelding, gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van de bouwverordening en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt aangemerkt als een sloopmelding als bedoeld in artikel 1.26.   
+1.  Op een aanvraag om vergunning voor het bouwen, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het Bouwbesluit 2003, het Besluit brandveilig gebruik bouwwerken, paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels, de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
+2.  Op een aanvraag om vergunning voor brandveilig gebruik, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het Bouwbesluit 2003, het Besluit brandveilig gebruik bouwwerken en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
+3.  Op een aanvraag om omgevingsvergunning voor het slopen als bedoeld in artikel 2.2, eerste lid, onder a, van de Wabo, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend. Een dergelijke vergunning wordt aangemerkt als een sloopmelding als bedoeld in artikel 1.26.   
+4.  Op een gebruiksmelding als bedoeld in artikel 2.12.1, eerste lid, van het Besluit brandveilig gebruik bouwwerken, gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van het Bouwbesluit 2003, het Besluit brandveilig gebruik bouwwerken en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt aangemerkt als een gebruiksmelding als bedoeld in artikel 1.18.   
+5.  Op een door de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet vereiste sloopmelding, gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van de bouwverordening en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt aangemerkt als een sloopmelding als bedoeld in artikel 1.26.   
 6.  Op een aanvraag om vergunning voor het bouwen of voor brandveilig gebruik, een gebruiksmelding of een sloopmelding, gedaan voor het tijdstip waarop een wijziging van dit besluit in werking treedt, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag of melding, blijven de voorschriften van dit besluit en de daarop berustende bepalingen van toepassing, die golden op het tijdstip waarop de aanvraag of melding werd gedaan. 
 
 ### Artikel  9.2  
@@ -5464,22 +5464,22 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven over de te scheid
 ####Specifiek overgangsrecht
 
 1.  Zolang het aantal personen dat in een bouwwerk of een gedeelte daarvan aanwezig is niet groter is dan het onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit toegestane aantal personen in dat bouwwerk of gedeelte daarvan blijven de artikelen 1.2, eerste lid, voor zover dit betrekking heeft op de bij of krachtens hoofdstuk 2 gestelde eisen, en 6.25, derde lid, buiten toepassing.   
-2.  Zolang de indeling van een bouwwerk of een gedeelte daarvan niet verandert en het aantal personen in dat bouwwerk of gedeelte niet groter is dan het onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit toegestane aantal personen blijft op dat bouwwerk of gedeelte artikel 6.3 buiten toepassing indien dat bouwwerk of dat gedeelte daarvan voldoet aan de [artikelen 2.66](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en [2.67 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.  
+2.  Zolang de indeling van een bouwwerk of een gedeelte daarvan niet verandert en het aantal personen in dat bouwwerk of gedeelte niet groter is dan het onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit toegestane aantal personen blijft op dat bouwwerk of gedeelte artikel 6.3 buiten toepassing indien dat bouwwerk of dat gedeelte daarvan voldoet aan de artikelen 2.66 en 2.67 van het Bouwbesluit 2003 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.  
 3.  Voor wegtunnels met een tunnellengte van meer dan 250 m die zijn opengesteld voor 29 juni 2006 blijven de voorschriften van dit besluit en de daarop rustende bepalingen tot 1 mei 2014 buiten toepassing.   
-4.  [Afdeling 4.11 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van dit besluit blijft tot 1 april 2022 van toepassing tenzij in het op het bouwen van toepassing zijnde bestemmingsplan voorschriften over stallingruimte voor fietsen zijn opgenomen.   
-5.  Een voor het tijdstip waarop dit besluit in werking treedt afgegeven document als bedoeld in [artikel 2.1.7 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, geldt voor zover de geldigheidsduur van dit document niet is verstreken als een geldig document zoals bedoeld in artikel 1.17 van dit besluit.   
-6.  Met een geldig certificaat als bedoeld in de artikelen 6.20, zesde lid, en 6.23, vierde lid, wordt gelijkgesteld een voor 1 januari 2015 afgegeven document als bedoeld in [artikel 2.2.1, negende lid, van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) zoals dit luidde onmiddellijk voorafgaand aan 1 april 2012, voor zover de geldigheidsduur van dat document niet is verstreken.   
-7.  Met een geldig certificaat als bedoeld in artikel 6.32, eerste en tweede lid, wordt gelijkgesteld een voor 1 januari 2015 afgegeven document als bedoeld in de [artikelen 2.3.9](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en [2.5.1 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) zoals dit luidde onmiddellijk voorafgaand aan 1 april 2012, voor zover de geldigheidsduur van dat document niet is verstreken.  
-8.  Op een verbindingsweg als bedoeld in artikel 6.37, een opstelplaats voor brandweervoertuigen als bedoeld in artikel 6.38 en een route als bedoeld in artikel 6.49 naar of bij een bouwwerk voor de bouw waarvan voor het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen is verleend, blijven de voorschriften van de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md), en de daarop berustende bepalingen van toepassing, zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.   
-9.  Op een op het tijdstip van inwerkingtreding van dit besluit bestaande bijeenkomstfunctie voor kinderopvang blijft [paragraaf 3.10.2 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, tot 1 april 2017 van toepassing.   
-10.  Indien en voor zover in een gemeente onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit op grond van de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md), en de daarop berustende bepalingen voor een gebied een aansluitplicht op het distributienet voor warmte geldt, dan blijft deze aansluitplicht voor dat gebied van toepassing. 
+4.  Afdeling 4.11 van het Bouwbesluit 2003 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van dit besluit blijft tot 1 april 2022 van toepassing tenzij in het op het bouwen van toepassing zijnde bestemmingsplan voorschriften over stallingruimte voor fietsen zijn opgenomen.   
+5.  Een voor het tijdstip waarop dit besluit in werking treedt afgegeven document als bedoeld in artikel 2.1.7 van het Besluit brandveilig gebruik bouwwerken zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, geldt voor zover de geldigheidsduur van dit document niet is verstreken als een geldig document zoals bedoeld in artikel 1.17 van dit besluit.   
+6.  Met een geldig certificaat als bedoeld in de artikelen 6.20, zesde lid, en 6.23, vierde lid, wordt gelijkgesteld een voor 1 januari 2015 afgegeven document als bedoeld in artikel 2.2.1, negende lid, van het Besluit brandveilig gebruik bouwwerken zoals dit luidde onmiddellijk voorafgaand aan 1 april 2012, voor zover de geldigheidsduur van dat document niet is verstreken.   
+7.  Met een geldig certificaat als bedoeld in artikel 6.32, eerste en tweede lid, wordt gelijkgesteld een voor 1 januari 2015 afgegeven document als bedoeld in de artikelen 2.3.9 en 2.5.1 van het Besluit brandveilig gebruik bouwwerken zoals dit luidde onmiddellijk voorafgaand aan 1 april 2012, voor zover de geldigheidsduur van dat document niet is verstreken.  
+8.  Op een verbindingsweg als bedoeld in artikel 6.37, een opstelplaats voor brandweervoertuigen als bedoeld in artikel 6.38 en een route als bedoeld in artikel 6.49 naar of bij een bouwwerk voor de bouw waarvan voor het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen is verleend, blijven de voorschriften van de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet, en de daarop berustende bepalingen van toepassing, zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.   
+9.  Op een op het tijdstip van inwerkingtreding van dit besluit bestaande bijeenkomstfunctie voor kinderopvang blijft paragraaf 3.10.2 van het Bouwbesluit 2003 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, tot 1 april 2017 van toepassing.   
+10.  Indien en voor zover in een gemeente onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit op grond van de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet, en de daarop berustende bepalingen voor een gebied een aansluitplicht op het distributienet voor warmte geldt, dan blijft deze aansluitplicht voor dat gebied van toepassing. 
 
 ### Artikel  9.3  
 
 ####Intrekking regelgeving
 
-1.  Het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) met uitzondering van [afdeling 5.3](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en [paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels](../../../../AMvB/besluit/aanvullende/regels/veiligheid/wegtunnels/BWBR0019857/README.md) worden ingetrokken.   
-2.  [Afdeling 5.3 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) wordt ingetrokken op een bij koninklijk besluit te bepalen tijdstip.  
+1.  Het Bouwbesluit 2003 met uitzondering van afdeling 5.3, het Besluit brandveilig gebruik bouwwerken en paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels worden ingetrokken.   
+2.  Afdeling 5.3 van het Bouwbesluit 2003 wordt ingetrokken op een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  9.4  
 

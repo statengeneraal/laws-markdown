@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 oktober 2004, nr. MJZ2004094821, Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op artikel 4, eerste lid, van het Raamverdrag van de Verenigde Naties inzake klimaatverandering, artikel 5, eerste en tweede lid, van het Protocol van Kyoto bij voornoemd verdrag, artikel 3, eerste lid, en artikel 4, vierde lid, van beschikking nr. 280/2004/EG van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 betreffende een bewakingssysteem voor de uitstoot van broeikasgassen in de Gemeenschap en de uitvoering van het Protocol van Kyoto (PbEU L 49) en [artikel 59, eerste lid, van de Wet inzake de luchtverontreiniging](../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);
+Gelet op artikel 4, eerste lid, van het Raamverdrag van de Verenigde Naties inzake klimaatverandering, artikel 5, eerste en tweede lid, van het Protocol van Kyoto bij voornoemd verdrag, artikel 3, eerste lid, en artikel 4, vierde lid, van beschikking nr. 280/2004/EG van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 betreffende een bewakingssysteem voor de uitstoot van broeikasgassen in de Gemeenschap en de uitvoering van het Protocol van Kyoto (PbEU L 49) en artikel 59, eerste lid, van de Wet inzake de luchtverontreiniging;
 
 De Raad van State gehoord (advies van 22 november 2004, nr. W08.04.0486/V);
 

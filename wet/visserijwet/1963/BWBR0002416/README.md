@@ -26,7 +26,7 @@ b. "De Kamer": de Kamer voor de Binnenvisserij bedoeld in artikel 45;
 
 c. "de rechthebbende op het visrecht": de gerechtigde tot vissen uit welken hoofde ook, behalve de houder van een schriftelijke toestemming, als bedoeld in artikel 7, tweede lid, of van een schriftelijke toestemming, als bedoeld in artikel 21, tweede lid;   
 
-d. "bedrijfslichamen": lichamen als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).      
+d. "bedrijfslichamen": lichamen als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie.      
 2.   Voor het bepaalde bij of krachtens deze wet wordt verstaan onder "vis":  
 
 a. vissen van de door Onze Minister aangewezen soorten en delen van deze vissen;   
@@ -43,7 +43,7 @@ a. het te water brengen, te water hebben, lichten of ophalen van vistuigen alsme
 b. het uitzetten en uitzaaien van vis als bedoeld in het tweede lid.      
 4.   Voor het bepaalde bij of krachtens deze wet wordt verstaan onder:  
 
-a. "visserijzone": de zone ingesteld krachtens de [Machtigingswet instelling visserijzone](../../../../rijkswet/machtigingswet/instelling/visserijzone/BWBR0003110/README.md);   
+a. "visserijzone": de zone ingesteld krachtens de Machtigingswet instelling visserijzone;   
 
 b. "zeevisserij": het vissen in zee, met inbegrip van het vissen in de visserijzone en in daaraangrenzende, bij algemene maatregel van bestuur als zeegebied aangewezen wateren;   
 
@@ -78,15 +78,15 @@ d. "binnenvisserij": het vissen in de overige wateren van Nederland.
 
 ### Artikel  2b  
 
-1.  Onze Minister is bevoegd ter voorkoming of bestrijding van ziekte onder de vis, regelen te stellen ten aanzien van het uitoefenen van de visserij zomede ten aanzien van het kweken, voorhanden en in voorraad hebben, aanvoeren, invoeren, vervoeren, te koop aanbieden, vervreemden, afleveren, bewerken en verwerken van vis.    
+1.  Onze Minister is bevoegd ter voorkoming of bestrijding van ziekte onder de vis, regelen te stellen ten aanzien van het uitoefenen van de visserij.    
 2.   Vervallen.    
 3.   Voor de toepassing van het eerste lid wordt onder vis mede begrepen de vissen, schaal- en schelpdieren van andere dan de overeenkomstig het bepaalde in artikel 1, tweede lid, aangewezen soorten.   
 
 ### Artikel  2c  
 
 1.  Het is verboden vis te bedwelmen, te verwonden of te doden met bij ministeriële regeling aan te wijzen middelen.    
-2.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld in het belang van het welzijn van de dieren die als aas bij het vissen worden gebruikt. Deze regelen kunnen een verbod van het gebruik van dieren als aas bevatten.    
-3.   Onze Minister kan ontheffing verlenen van het in het eerste lid dan wel een krachtens het tweede lid gestelde verbod. Deze ontheffing kan onder beperkingen worden verleend. Hij kan aan zodanige ontheffing voorschriften verbinden.   
+2.  Vervallen.   
+3.   Onze Minister kan ontheffing verlenen van het in het eerste lid gestelde verbod. Deze ontheffing kan onder beperkingen worden verleend. Hij kan aan zodanige ontheffing voorschriften verbinden.   
 
 ### Hoofdstuk  II  
 
@@ -325,7 +325,7 @@ b. indien de verhuurder hem te kennen heeft gegeven de overeenkomst niet te will
 c. in het geval die overeenkomst is aangegaan voor een andere tijdsduur dan zes jaren.    Dit verzoek wordt ten minste een half jaar vóór het einde van de lopende overeenkomst gedaan.    
 3.   Een verzoek als bedoeld in het tweede lid kan worden beperkt tot een gedeelte van het visrecht, waarop de overeenkomst betrekking heeft.    
 4.   De Kamer beslist naar billijkheid, evenwel met inachtneming van het bepaalde in de volgende leden.    
-5.  De Kamer wijst het verzoek in ieder geval af indien de verhuurder de overeenkomst niet wil voortzetten wegens de omstandigheid dat de huurder voor het einde van de lopende overeenkomst de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt of zal bereiken.    
+5.  De Kamer wijst het verzoek in ieder geval af indien de verhuurder de overeenkomst niet wil voortzetten wegens de omstandigheid dat de huurder voor het einde van de lopende overeenkomst de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt of zal bereiken.    
 6.   Indien een doelmatige bevissing van het water, waarop de overeenkomst betrekking heeft dan wel van het complex van wateren, waartoe dat water behoort, door de toewijzing van het verzoek zou worden belemmerd, wijst de Kamer het verzoek af dan wel beperkt zij de verlenging tot een gedeelte van het visrecht.    
 7.   Indien en voor zover de Kamer het verzoek toewijst, stelt zij de duur vast voor welke de verlenging zal gelden en welke ten hoogste zes jaren zal bedragen.    
 8.   Ingeval de verlenging tot een gedeelte van het visrecht wordt beperkt, stelt de Kamer de prestatie van de huurder vast.    
@@ -386,9 +386,9 @@ Er is een Kamer voor de Binnenvisserij. De Kamer heeft haar zetel te 's-Gravenha
 
 1. Voor benoeming tot secretaris of plaatsvervangende secretaris komt in aanmerking degene:
 
-a.aan wie door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of
+a.aan wie door een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of
 
-b.die aan een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren heeft verkregen. 
+b.die aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren heeft verkregen. 
 2. De graden, het doctoraat of het recht, bedoeld in het eerste lid, moeten zijn verkregen op grond van het afleggen van een examen aan een opleiding in het wetenschappelijk onderwijs in het Nederlands burgerlijk recht, handelsrecht, staatsrecht en strafrecht. 
 
 ### Artikel  49  
@@ -403,7 +403,7 @@ b. wanneer zij onder curatele zijn gesteld.
 a. bij overtreding van het bepaalde in de artikelen 50 en 51;   
 
 b. wanneer zij in staat van faillissement zijn verklaard ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij, surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.      
-3.   Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Minister van Justitie en Onze Minister bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen; de schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing.    
+3.   Wanneer zich een van de omstandigheden voordoet, als bedoeld in het tweede lid, zijn Onze Minister van Justitie en Onze Minister bevoegd de betrokkene in de uitoefening van zijn ambt terstond te schorsen; de schorsing mag een termijn van drie maanden niet overschrijden. Op deze termijn is de Algemene termijnenwet niet van toepassing.    
 4.   Wanneer tijdens de in het derde lid bedoelde schorsing het besluit tot ontslag wordt genomen, blijft de schorsing van kracht tot het tijdstip, waarop het ontslag ingaat.   
 
 ### Artikel  50  
@@ -480,7 +480,7 @@ b. buiten de visserijzone schuldig maakt aan de krachtens artikel 3a strafbaar g
 
 ### Artikel  59  
 
-Met het opsporen van de feiten, strafbaar gesteld bij de artikelen 55, tweede lid, 56 en 61, derde lid, zijn, behalve de bij [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane en de door Onze Minister aangewezen ambtenaren.  
+Met het opsporen van de feiten, strafbaar gesteld bij de artikelen 55, tweede lid, 56 en 61, derde lid, zijn, behalve de bij artikel 141 van het Wetboek van Strafvordering aangewezen personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane en de door Onze Minister aangewezen ambtenaren.  
 
 ### Artikel  60  
 
@@ -527,13 +527,13 @@ De gevolgen, welke het overlijden van de huurder ten aanzien van de overeenkomst
 
 ### Artikel  75  
 
-1.  De zorg voor de archiefbescheiden van de bij de [wet van 6 september 2006 tot wijziging van de Visserijwet 1963](../../../../wet/wijzigingswet/visserijwet/1963/(vervallen/van/de/organisatie/ter/etc/BWBR0020263/README.md) (Stb. 2006, 476) opgeheven Organisatie ter verbetering van de binnenvisserij ligt bij Onze Minister.   
+1.  De zorg voor de archiefbescheiden van de bij de wet van 6 september 2006 tot wijziging van de Visserijwet 1963 (Stb. 2006, 476) opgeheven Organisatie ter verbetering van de binnenvisserij ligt bij Onze Minister.   
 2.  De archiefbescheiden kunnen, voor zover zij niet zijn overgebracht naar een rijksarchiefbewaarplaats, tijdelijk ter beschikking worden gesteld aan een door Onze Minister aan te wijzen rechtspersoon.   
 3.  Onze Minister stelt vast voor welk tijdvak de in het tweede lid bedoelde archiefbescheiden aan de rechtspersoon ter beschikking worden gesteld.   
-4.  De rechtspersoon rapporteert jaarlijks aan Onze Minister over het beheer van de ter beschikking gestelde archiefbescheiden. Het in de artikelen [25a](../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [25b van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md) bedoelde toezicht op het beheer blijft op de krachtens het tweede lid ter beschikking gestelde archiefbescheiden van toepassing.   
+4.  De rechtspersoon rapporteert jaarlijks aan Onze Minister over het beheer van de ter beschikking gestelde archiefbescheiden. Het in de artikelen 25a en 25b van de Archiefwet 1995 bedoelde toezicht op het beheer blijft op de krachtens het tweede lid ter beschikking gestelde archiefbescheiden van toepassing.   
 5.  Onze Minister is te allen tijde bevoegd inzage te nemen van de terbeschikkinggestelde archiefbescheiden dan wel daarvan of daaruit reproducties, afschriften of uittreksels te vorderen.   
 6.  De kosten van het beheer van de krachtens het tweede lid ter beschikking gestelde archiefbescheiden komen ten laste van de in dat lid bedoelde rechtspersoon.   
-7.  De overbrenging van de in de in het eerste lid bedoelde archiefbescheiden naar een rijksarchiefbewaarplaats geschiedt door Onze Minister met inachtneming van de [artikelen 12](../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [13 van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md). 
+7.  De overbrenging van de in de in het eerste lid bedoelde archiefbescheiden naar een rijksarchiefbewaarplaats geschiedt door Onze Minister met inachtneming van de artikelen 12 en 13 van de Archiefwet 1995. 
 
 ### Artikel  79  
 

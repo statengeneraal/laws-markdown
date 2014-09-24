@@ -3,18 +3,18 @@
 ##Regeling van de Minister van Economische Zaken van 30 maart 2005, nr. WJZ 5017828, houdende regels inzake de vaststelling en vergoeding van kosten, bedoeld in artikel 13.6, tweede lid, van de Telecommunicatiewet (Regeling kosten aftappen en gegevensverstrekking)
 
 De Minister van Economische Zaken,
-Gelet op [artikel 13.6, derde lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
+Gelet op artikel 13.6, derde lid, van de Telecommunicatiewet;
 Besluit:
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. wet: [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a. wet: Telecommunicatiewet;  
 
 b. aanbieder: aanbieder van een openbaar telecommunicatienetwerk of van een openbare telecommunicatiedienst;  
 
-c. aftap- of informatieverstrekkingsactiviteit: de werkzaamheden die een aanbieder verricht om te voldoen aan een bijzondere last of een bevel op grond van het [Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), dan wel de werkzaamheden die een aanbieder verricht om te voldoen aan een vordering of een verzoek als bedoeld in [artikel 13.2a](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [artikel 13.4, eerste of tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+c. aftap- of informatieverstrekkingsactiviteit: de werkzaamheden die een aanbieder verricht om te voldoen aan een bijzondere last of een bevel op grond van het Wetboek van Strafvordering dan wel een toestemming op grond van de Wet op de inlichtingen- en veiligheidsdiensten 2002 als bedoeld in artikel 13.2, eerste en tweede lid, van de wet, dan wel de werkzaamheden die een aanbieder verricht om te voldoen aan een vordering of een verzoek als bedoeld in artikel 13.2a of artikel 13.4, eerste of tweede lid, van de wet;  
 
 d. declarabele kosten: de door een aanbieder gemaakte administratiekosten en personeelskosten die rechtstreeks voortvloeien uit het uitvoeren van aftap- of informatieverstrekkingsactiviteiten, zoals nader aangeduid in de bij deze regeling behorende bijlage;  
 
@@ -158,7 +158,7 @@ De kosten van een aftap- of informatieverstrekkingsactiviteit zijn declarabel vo
 
 8.6. Factureren    
 
-9. Informatieverstrekking op basis van een aan de aanbieder gerichte last, bevel of verzoek ten aanzien van een identificerend gegeven (bestandsanalyse conform [artikel 13.4 Tw](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)) 
+9. Informatieverstrekking op basis van een aan de aanbieder gerichte last, bevel of verzoek ten aanzien van een identificerend gegeven (bestandsanalyse conform artikel 13.4 Tw) 
 
 9.1. Aanname van de bevraging  
 

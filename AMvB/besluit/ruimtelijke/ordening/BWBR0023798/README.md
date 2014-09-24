@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 17 december 2007, nr. DJZ2007127171, Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 2.4](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.6](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.7](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.16](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.20](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.22](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.23](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.36](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.37](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.38](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [4.1](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [4.2](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [4.3](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [6.7](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [6.11](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [6.12](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [9.1](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [9.3](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [9.4](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [10.3](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [10.7](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [10.8 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);
+Gelet op de artikelen 2.4, 3.6, 3.7, 3.16, 3.20, 3.22, 3.23, 3.36, 3.37, 3.38, 4.1, 4.2, 4.3, 6.7, 6.11, 6.12, 9.1, 9.3, 9.4, 10.3, 10.7 en 10.8 van de Wet ruimtelijke ordening;
 
 De Raad van State gehoord (advies van 29 februari 2008, nr. W08.07.0483/IV);
 
@@ -24,15 +24,15 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de hierop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+a. wet: Wet ruimtelijke ordening;  
 
-b. andere geluidsgevoelige gebouwen: andere geluidsgevoelige gebouwen als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+b. andere geluidsgevoelige gebouwen: andere geluidsgevoelige gebouwen als bedoeld in artikel 1 van de Wet geluidhinder;  
 
-c. geluidsgevoelige terreinen: geluidsgevoelige terreinen als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+c. geluidsgevoelige terreinen: geluidsgevoelige terreinen als bedoeld in artikel 1 van de Wet geluidhinder;  
 
-d. sociale huurwoning: huurwoning met een aanvangshuurprijs onder de grens als bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), waarbij de instandhouding voor de in een gemeentelijke verordening omschreven doelgroep voor ten minste tien jaar na ingebruikname is verzekerd;  
+d. sociale huurwoning: huurwoning met een aanvangshuurprijs onder de grens als bedoeld in artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag, waarbij de instandhouding voor de in een gemeentelijke verordening omschreven doelgroep voor ten minste tien jaar na ingebruikname is verzekerd;  
 
-e. sociale koopwoning: koopwoning met een koopprijs vrij op naam van ten hoogste het bedrag genoemd in [artikel 26, tweede lid, onder g, van het Besluit beheer sociale huursector](../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), waarbij de instandhouding voor de in een gemeentelijke verordening omschreven doelgroep voor een in de verordening vastgesteld tijdvak van ten minste een jaar en ten hoogste tien jaar na ingebruikname is verzekerd;  
+e. sociale koopwoning: koopwoning met een koopprijs vrij op naam van ten hoogste het bedrag genoemd in artikel 26, tweede lid, onder g, van het Besluit beheer sociale huursector, waarbij de instandhouding voor de in een gemeentelijke verordening omschreven doelgroep voor een in de verordening vastgesteld tijdvak van ten minste een jaar en ten hoogste tien jaar na ingebruikname is verzekerd;  
 
 f. particulier opdrachtgeverschap: situatie dat de burger of een groep van burgers – in dat laatste geval georganiseerd als rechtspersoon zonder winstoogmerk of krachtens een overeenkomst – tenminste de economische eigendom verkrijgt en volledige zeggenschap heeft over en verantwoordelijkheid draagt voor het gebruik van de grond, het ontwerp en de bouw van de eigen woning;  
 
@@ -41,12 +41,12 @@ g. geometrische plaatsbepaling: locatie van een ruimtelijk object, vastgelegd in
 h.  bestaand stedelijk gebied: bestaand stedenbouwkundig samenstel van bebouwing ten behoeve van wonen, dienstverlening, bedrijvigheid, detailhandel of horeca, alsmede de daarbij behorende openbare of sociaal culturele voorzieningen, stedelijk groen en infrastructuur;  
 
 i.  stedelijke ontwikkeling: ruimtelijke ontwikkeling van een bedrijventerrein of zeehaventerrein, of van kantoren, detailhandel, woningbouwlocaties of andere stedelijke voorzieningen.    
-2.  In dit besluit en de hierop berustende bepalingen wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in [afdeling 3.5 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-3.  In hoofdstuk 3 van dit besluit en de hierop berustende bepalingen wordt onder een bestemmingsplan mede begrepen een wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) alsmede een rijksbestemmingsplan als bedoeld in [artikel 10.3 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).  
+2.  In dit besluit en de hierop berustende bepalingen wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in afdeling 3.5 van de wet.   
+3.  In hoofdstuk 3 van dit besluit en de hierop berustende bepalingen wordt onder een bestemmingsplan mede begrepen een wijzigings- of uitwerkingsplan als bedoeld in artikel 3.6, eerste lid, onder a of b, van de wet alsmede een rijksbestemmingsplan als bedoeld in artikel 10.3 van de wet.  
 
 ### Artikel  1.1.2  
 
-Bij het stellen van regels in een bestemmingsplan, wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), rijksbestemmingsplan als bedoeld in [artikel 10.3 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of beheersverordening, bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van [artikel 2.12 de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken wordt voorkomen dat strijdigheid ontstaat met artikel 14, aanhef en onder 5, van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376). Een wijziging van de richtlijn, bedoeld in de eerste volzin, gaat voor de toepassing van die volzin gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. 
+Bij het stellen van regels in een bestemmingsplan, wijzigings- of uitwerkingsplan als bedoeld in artikel 3.6, eerste lid, onder a of b, van de wet, rijksbestemmingsplan als bedoeld in artikel 10.3 van de wet of beheersverordening, bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12 de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken wordt voorkomen dat strijdigheid ontstaat met artikel 14, aanhef en onder 5, van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376). Een wijziging van de richtlijn, bedoeld in de eerste volzin, gaat voor de toepassing van die volzin gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. 
 
 ### §  1.2  
 
@@ -66,9 +66,9 @@ d. voorbereidingsbesluit;
 
 e. beheersverordening;  
 
-f. provinciale verordening als bedoeld in [artikel 4.1 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+f. provinciale verordening als bedoeld in artikel 4.1 van de wet;  
 
-g. aanwijzing als bedoeld in [artikel 4.2](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [4.4 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+g. aanwijzing als bedoeld in artikel 4.2 of 4.4 van de wet;  
 
 h. exploitatieplan;  
 
@@ -83,11 +83,11 @@ b. onherroepelijk is,   dragen burgemeester en wethouders, gedeputeerde staten e
 
 ### Artikel  1.2.1a  
 
-Bij de voorbereiding van een bestemmingsplan, wijzigings- of uitwerkingsplan, exploitatieplan, rijksbestemmingsplan of een aanwijzing als bedoeld in [artikel 4.2](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [4.4 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) waarop [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is: 
+Bij de voorbereiding van een bestemmingsplan, wijzigings- of uitwerkingsplan, exploitatieplan, rijksbestemmingsplan of een aanwijzing als bedoeld in artikel 4.2 of 4.4 van de wet waarop afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is: 
 
 a. wordt het ontwerpbesluit met overeenkomstige toepassing van artikel 1.2.1, eerste en tweede lid, beschikbaar gesteld;  
 
-b. vermelden een kennisgeving als bedoeld in [artikel 3:12 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een mededeling als bedoeld in [artikel 3:44, eerste lid, van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tevens de plaats waar eenieder in de gelegenheid wordt gesteld de plannen en aanwijzingen, bedoeld onder a, langs elektronische weg te raadplegen, alsmede het identificatienummer van die stukken.   
+b. vermelden een kennisgeving als bedoeld in artikel 3:12 van de Algemene wet bestuursrecht en een mededeling als bedoeld in artikel 3:44, eerste lid, van die wet tevens de plaats waar eenieder in de gelegenheid wordt gesteld de plannen en aanwijzingen, bedoeld onder a, langs elektronische weg te raadplegen, alsmede het identificatienummer van die stukken.   
 
 ### Artikel  1.2.2  
 
@@ -119,7 +119,7 @@ Onze Minister draagt aan een of meer door hem aan te wijzen instanties het behee
 
 ### Artikel  1.3.1  
 
-1.  Voor zover bij de voorbereiding van een structuurvisie of een bestemmingsplan geen milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) wordt opgesteld, geeft een bestuursorgaan dat voornemens is op verzoek of uit eigen beweging een structuurvisie of een bestemmingsplan, waarbij sprake is van ruimtelijke ontwikkelingen, voor te bereiden, kennis van dat voornemen met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De kennisgeving geschiedt tevens langs elektronische weg.   
+1.  Voor zover bij de voorbereiding van een structuurvisie of een bestemmingsplan geen milieueffectrapport als bedoeld in hoofdstuk 7 van de Wet milieubeheer wordt opgesteld, geeft een bestuursorgaan dat voornemens is op verzoek of uit eigen beweging een structuurvisie of een bestemmingsplan, waarbij sprake is van ruimtelijke ontwikkelingen, voor te bereiden, kennis van dat voornemen met overeenkomstige toepassing van artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht. De kennisgeving geschiedt tevens langs elektronische weg.   
 2.  In de kennisgeving wordt vermeld, of: 
 
 a. stukken betreffende het voornemen ter inzage zullen worden gelegd en waar en wanneer,  
@@ -150,27 +150,32 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de voorbereiding
 
 ### Artikel  3.1.1  
 
-1.  Het bestuursorgaan dat belast is met de voorbereiding van een bestemmingsplan pleegt daarbij overleg met de besturen van betrokken gemeenten en waterschappen en met die diensten van provincie en Rijk die betrokken zijn bij de zorg voor de ruimtelijke ordening of belast zijn met de behartiging van belangen welke in het plan in het geding zijn. [Artikel 3:6 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+1.  Het bestuursorgaan dat belast is met de voorbereiding van een bestemmingsplan pleegt daarbij overleg met de besturen van betrokken gemeenten en waterschappen en met die diensten van provincie en Rijk die betrokken zijn bij de zorg voor de ruimtelijke ordening of belast zijn met de behartiging van belangen welke in het plan in het geding zijn. Artikel 3:6 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 2.  Gedeputeerde staten onderscheidenlijk Onze Minister kunnen bepalen dat onder bepaalde omstandigheden of in bepaalde gevallen geen overleg is vereist met de diensten van provincie onderscheidenlijk Rijk die betrokken zijn bij de zorg voor de ruimtelijke ordening.  
+
+### Artikel  3.1.1a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij de vaststelling van een bestemmingsplan kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar. 
 
 ### Artikel  3.1.2  
 
 1.  Ten behoeve van de uitvoerbaarheid kan een bestemmingsplan regels bevatten met betrekking tot sociale huurwoningen, sociale koopwoningen of particulier opdrachtgeverschap.   
 2.  Ten behoeve van een goede ruimtelijke ordening kan een bestemmingsplan regels bevatten met betrekking tot branches van detailhandel en horeca.   
 3.  Een bestemmingsplan kan voorts regels bevatten ter wering van dreigende en tot stuiting van reeds ingetreden achteruitgang van de woon- of werkomstandigheden in en het uiterlijk aanzien van het in het plan begrepen gebied.   
-4.  Indien een bestemmingsplan regels bevat ten aanzien van sociale koopwoningen kan de gemeenteraad na regionale afstemming een lagere koopprijsgrens vaststellen dan het bedrag, genoemd in [artikel 26, tweede lid, onder g, van het Besluit beheer sociale huursector](../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md).  
+4.  Indien een bestemmingsplan regels bevat ten aanzien van sociale koopwoningen kan de gemeenteraad na regionale afstemming een lagere koopprijsgrens vaststellen dan het bedrag, genoemd in artikel 26, tweede lid, onder g, van het Besluit beheer sociale huursector.  
 
 ### Artikel  3.1.3  
 
-Een bestemmingsplan bevat naast de bij of krachtens de [wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) voorgeschreven bestemmingen en regels, in elk geval een beschrijving van die bestemmingen, waarbij per bestemming het doel of de doeleinden worden aangegeven. 
+Een bestemmingsplan bevat naast de bij of krachtens de wet voorgeschreven bestemmingen en regels, in elk geval een beschrijving van die bestemmingen, waarbij per bestemming het doel of de doeleinden worden aangegeven. 
 
 ### Artikel  3.1.4  
 
-Een bestemmingsplan geeft voor een op grond van [artikel 3.6, eerste lid, onder b, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) uit te werken deel van het plan op een zodanige wijze de doelstellingen aan, dat voldoende inzicht wordt verkregen in de toekomstige ontwikkeling van het desbetreffende gebied. 
+Een bestemmingsplan geeft voor een op grond van artikel 3.6, eerste lid, onder b, van de wet uit te werken deel van het plan op een zodanige wijze de doelstellingen aan, dat voldoende inzicht wordt verkregen in de toekomstige ontwikkeling van het desbetreffende gebied. 
 
 ### Artikel  3.1.5  
 
-Voorlopige bestemmingen en voorlopige regels als bedoeld in [artikel 3.2 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kunnen slechts in samenhang met bestemmingen en gebruiksregels als bedoeld in de [artikelen 3.1](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [3.6 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) worden aangewezen onderscheidenlijk gegeven. 
+Voorlopige bestemmingen en voorlopige regels als bedoeld in artikel 3.2 van de wet kunnen slechts in samenhang met bestemmingen en gebruiksregels als bedoeld in de artikelen 3.1 en 3.6 van de wet worden aangewezen onderscheidenlijk gegeven. 
 
 ### Artikel  3.1.6  
 
@@ -182,7 +187,7 @@ b. een beschrijving van de wijze waarop in het plan rekening is gehouden met de 
 
 c. de uitkomsten van het in artikel 3.1.1 bedoelde overleg;  
 
-d. de uitkomsten van het met toepassing van [artikel 3:2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verrichte onderzoek;  
+d. de uitkomsten van het met toepassing van artikel 3:2 van de Algemene wet bestuursrecht verrichte onderzoek;  
 
 e. een beschrijving van de wijze waarop burgers en maatschappelijke organisaties bij de voorbereiding van het bestemmingsplan zijn betrokken;  
 
@@ -195,13 +200,14 @@ b. indien uit de beschrijving, bedoeld in onderdeel a, blijkt dat sprake is van 
 
 c. indien uit de beschrijving, bedoeld in onderdeel b, blijkt dat de stedelijke ontwikkeling niet binnen het bestaand stedelijk gebied van de betreffende regio kan plaatsvinden, wordt beschreven in hoeverre wordt voorzien in die behoefte op locaties die, gebruikmakend van verschillende middelen van vervoer, passend ontsloten zijn of als zodanig worden ontwikkeld.     
 3.  Het tweede lid is van overeenkomstige toepassing op een provinciale verordening die een locatie voor stedelijke ontwikkeling aanwijst.  
-4.  Voor zover bij de voorbereiding van het bestemmingsplan geen milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) wordt opgesteld, waarin de hierna volgende onderdelen zijn beschreven, worden in de toelichting ten minste neergelegd: 
+4.  Een onderzoek naar de actuele regionale behoefte als bedoeld in het tweede lid, heeft, in het geval dat het bestemmingsplan, bedoeld in het tweede lid, ziet op de vestiging van een dienst als bedoeld in artikel 1 van de Dienstenwet en dit onderzoek betrekking heeft op de economische behoefte, de marktvraag of de beoordeling van de mogelijke of actuele economische gevolgen van die vestiging, slechts tot doel na te gaan of de vestiging van een dienst in overeenstemming is met een goede ruimtelijke ordening.  
+5.  Voor zover bij de voorbereiding van het bestemmingsplan geen milieueffectrapport als bedoeld in hoofdstuk 7 van de Wet milieubeheer wordt opgesteld, waarin de hierna volgende onderdelen zijn beschreven, worden in de toelichting ten minste neergelegd: 
 
 a. een beschrijving van de wijze waarop met de in het gebied aanwezige cultuurhistorische waarden en in de grond aanwezige of te verwachten monumenten rekening is gehouden;  
 
 b. voor zover nodig een beschrijving van de wijze waarop rekening is gehouden met overige waarden van de in het plan begrepen gronden en de verhouding tot het aangrenzende gebied;  
 
-c. een beschrijving van de wijze waarop krachtens [hoofdstuk 5 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde milieukwaliteitseisen bij het plan zijn betrokken.    
+c. een beschrijving van de wijze waarop krachtens hoofdstuk 5 van de Wet milieubeheer vastgestelde milieukwaliteitseisen bij het plan zijn betrokken.    
 
 ### Artikel  3.1.7  
 
@@ -254,12 +260,12 @@ Grond die eenmaal in aanmerking is genomen bij het toestaan van een bouwplan waa
 
 ### Artikel  3.3.1  
 
-1.  Voor zover de uitvoering van de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) zulks vereist, geeft het bestemmingsplan aan: 
+1.  Voor zover de uitvoering van de Wet geluidhinder zulks vereist, geeft het bestemmingsplan aan: 
 
-a. de ligging en de afmetingen van woningen en andere geluidsgevoelige gebouwen en van geluidsgevoelige terreinen, die gelegen zijn binnen de zone van een weg, spoorweg of industrieterrein als bedoeld in de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+a. de ligging en de afmetingen van woningen en andere geluidsgevoelige gebouwen en van geluidsgevoelige terreinen, die gelegen zijn binnen de zone van een weg, spoorweg of industrieterrein als bedoeld in de Wet geluidhinder;  
 
-b. de functie van de voornaamste wegen, alsmede het dwarsprofiel of het aantal rijstroken daarvan dan wel de as van de weg waarmee gerekend is, bedoeld in [artikel 74 van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
-2.  Voor zover een bestemmingsplan op grond van [artikel 3.6 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) moet worden uitgewerkt dan wel kan worden gewijzigd, kan in afwijking van het bepaalde in het eerste lid worden volstaan met het aangeven van de voor woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen ten hoogste toelaatbare geluidsbelasting, welke bij de uitwerking dan wel de wijziging van het plan in acht moet worden genomen.  
+b. de functie van de voornaamste wegen, alsmede het dwarsprofiel of het aantal rijstroken daarvan dan wel de as van de weg waarmee gerekend is, bedoeld in artikel 74 van de Wet geluidhinder.     
+2.  Voor zover een bestemmingsplan op grond van artikel 3.6 van de wet moet worden uitgewerkt dan wel kan worden gewijzigd, kan in afwijking van het bepaalde in het eerste lid worden volstaan met het aangeven van de voor woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen ten hoogste toelaatbare geluidsbelasting, welke bij de uitwerking dan wel de wijziging van het plan in acht moet worden genomen.  
 
 ### §  3.4  
 
@@ -315,9 +321,9 @@ Indien bij een beheersverordening onder het beheer van het in de verordening beg
 
 In deze afdeling en de hierop berustende bepalingen wordt verstaan onder: 
 
-a. aanvraag: aanvraag om een tegemoetkoming in de schade als bedoeld in [artikel 6.1 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+a. aanvraag: aanvraag om een tegemoetkoming in de schade als bedoeld in artikel 6.1 van de wet;  
 
-b. bestuursorgaan: burgemeester en wethouders, of, indien toepassing is gegeven aan [artikel 6.6, eerste lid van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), gedeputeerde staten, of, indien toepassing is gegeven aan [artikel 6.6, tweede lid van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), Onze Minister dan wel Onze aangewezen Minister;  
+b. bestuursorgaan: burgemeester en wethouders, of, indien toepassing is gegeven aan artikel 6.6, eerste lid van de wet, gedeputeerde staten, of, indien toepassing is gegeven aan artikel 6.6, tweede lid van de wet, Onze Minister dan wel Onze aangewezen Minister;  
 
 c. adviseur: een persoon of commissie, die geen deel uitmaakt van of werkzaam is onder verantwoordelijkheid van het bestuursorgaan waaraan wordt geadviseerd, en die belast is met de advisering over de op de aanvraag te nemen beschikking.   
 
@@ -333,9 +339,9 @@ c. adviseur: een persoon of commissie, die geen deel uitmaakt van of werkzaam is
 
 ### Artikel  6.1.2.2  
 
-1.  Onverminderd [artikel 4:2, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 6.1 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) bevat de aanvraag: 
+1.  Onverminderd artikel 4:2, eerste lid, van de Algemene wet bestuursrecht en artikel 6.1 van de wet bevat de aanvraag: 
 
-a. een aanduiding van de oorzaak, bedoeld in [artikel 6.1, tweede lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), ter zake waarvan een tegemoetkoming in de schade wordt gevraagd;  
+a. een aanduiding van de oorzaak, bedoeld in artikel 6.1, tweede lid, van de wet, ter zake waarvan een tegemoetkoming in de schade wordt gevraagd;  
 
 b. een aanduiding van de aard van de schade;  
 
@@ -354,7 +360,7 @@ c. een omschrijving van de wijze waarop aan de schade naar het oordeel van de aa
 
 ### Artikel  6.1.3.2  
 
-Het bestuursorgaan wijst een adviseur aan die een advies uitbrengt over de op de aanvraag te nemen beslissing, tenzij toepassing wordt gegeven aan artikel 6.1.3.1 of aan [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Het bestuursorgaan wijst een adviseur aan die een advies uitbrengt over de op de aanvraag te nemen beslissing, tenzij toepassing wordt gegeven aan artikel 6.1.3.1 of aan artikel 4:5 van de Algemene wet bestuursrecht. 
 
 ### Artikel  6.1.3.3  
 
@@ -367,9 +373,9 @@ b. de gevallen waarin een commissie als adviseur wordt ingeschakeld;
 
 c. het tijdstip waarop de adviseur wordt ingeschakeld;  
 
-d. de wijze waarop de aanvrager en eventuele andere betrokken bestuursorganen of andere belanghebbenden als bedoeld in [artikel 6.4a, tweede en derde lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vooraf in de aanwijzing van de adviseur worden gekend, dan wel deze na aanwijzing kunnen wraken;  
+d. de wijze waarop de aanvrager en eventuele andere betrokken bestuursorganen of andere belanghebbenden als bedoeld in artikel 6.4a, tweede en derde lid, van de wet vooraf in de aanwijzing van de adviseur worden gekend, dan wel deze na aanwijzing kunnen wraken;  
 
-e. de wijze waarop de aanvrager, de betrokken bestuursorganen en in voorkomend geval de belanghebbenden als bedoeld in [artikel 6.4a, tweede en derde lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) door de adviseur, onder verslaglegging, worden gehoord en bij de opstelling van het advies worden betrokken, en de dienaangaande geldende termijnen.    
+e. de wijze waarop de aanvrager, de betrokken bestuursorganen en in voorkomend geval de belanghebbenden als bedoeld in artikel 6.4a, tweede en derde lid, van de wet door de adviseur, onder verslaglegging, worden gehoord en bij de opstelling van het advies worden betrokken, en de dienaangaande geldende termijnen.    
 
 ### Artikel  6.1.3.4  
 
@@ -379,8 +385,8 @@ a. de vraag of de door de aanvrager in zijn aanvraag gestelde schade een gevolg 
 
 b. de omvang van de schade, bedoeld onder a;  
 
-c. de vraag of deze schade redelijkerwijs geheel of gedeeltelijk ten laste van de benadeelde behoort te blijven, zulks met inachtneming van de [artikelen 6.1, eerste lid](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [6.2](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [6.3 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).     
-2.  De adviseur adviseert het bestuursorgaan over de hoogte van de toe te kennen tegemoetkoming en doet, indien het bestuursorgaan een daartoe strekkend verzoek heeft gedaan, voorstellen voor maatregelen of voorzieningen waardoor de schade, anders dan door een tegemoetkoming in geld, kan worden beperkt of ongedaan gemaakt. Heeft een schadeoorzaak als bedoeld in [artikel 6.1, tweede lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) voor de benadeelde naast schade tevens voordeel opgeleverd, dan wordt dit voordeel bij het advies over de te vergoeden schade in aanmerking genomen.  
+c. de vraag of deze schade redelijkerwijs geheel of gedeeltelijk ten laste van de benadeelde behoort te blijven, zulks met inachtneming van de artikelen 6.1, eerste lid, 6.2 en 6.3 van de wet.     
+2.  De adviseur adviseert het bestuursorgaan over de hoogte van de toe te kennen tegemoetkoming en doet, indien het bestuursorgaan een daartoe strekkend verzoek heeft gedaan, voorstellen voor maatregelen of voorzieningen waardoor de schade, anders dan door een tegemoetkoming in geld, kan worden beperkt of ongedaan gemaakt. Heeft een schadeoorzaak als bedoeld in artikel 6.1, tweede lid, van de wet voor de benadeelde naast schade tevens voordeel opgeleverd, dan wordt dit voordeel bij het advies over de te vergoeden schade in aanmerking genomen.  
 
 ### Artikel  6.1.3.5  
 
@@ -408,7 +414,7 @@ Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de behand
 
 ### Artikel  6.2.1  
 
-Als bouwplan als bedoeld in [artikel 6.12, eerste lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), wordt aangewezen een bouwplan voor: 
+Als bouwplan als bedoeld in artikel 6.12, eerste lid, van de wet, wordt aangewezen een bouwplan voor: 
 
 a. de bouw van een of meer woningen;  
 
@@ -424,9 +430,9 @@ f. de bouw van kassen met een oppervlakte van ten minste 1000 m² bruto-vloeropp
 
 ### Artikel  6.2.1a  
 
-Als gevallen als bedoeld in [artikel 6.12, tweede lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) worden aangewezen de gevallen waarin: 
+Als gevallen als bedoeld in artikel 6.12, tweede lid, van de wet worden aangewezen de gevallen waarin: 
 
-a. het totaal der exploitatiebijdragen dat met toepassing van [artikel 6.19, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kan worden verhaald, minder bedraagt dan € 10.000,–;  
+a. het totaal der exploitatiebijdragen dat met toepassing van artikel 6.19, van de wet kan worden verhaald, minder bedraagt dan € 10.000,–;  
 
 b. er geen verhaalbare kosten zijn als bedoeld in artikel 6.2.4, onderdelen b tot en met f;  
 
@@ -434,7 +440,7 @@ c. de verhaalbare kosten, bedoeld in artikel 6.2.4, onderdelen b tot en met f, u
 
 ### Artikel  6.2.3  
 
-Tot de kosten, bedoeld in [artikel 6.13, eerste lid, onder c, ten eerste, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), worden, voor zover deze redelijkerwijs zijn toe te rekenen aan de inbrengwaarde van de gronden, gerekend de ramingen van: 
+Tot de kosten, bedoeld in artikel 6.13, eerste lid, onder c, ten eerste, van de wet, worden, voor zover deze redelijkerwijs zijn toe te rekenen aan de inbrengwaarde van de gronden, gerekend de ramingen van: 
 
 a. de waarde van de gronden in het exploitatiegebied;  
 
@@ -446,7 +452,7 @@ d. de kosten van sloop, verwijdering en verplaatsing van opstallen, obstakels, f
 
 ### Artikel  6.2.4  
 
-Tot de kosten, bedoeld in [artikel 6.13, eerste lid, onder c, ten tweede, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), worden gerekend de ramingen van: 
+Tot de kosten, bedoeld in artikel 6.13, eerste lid, onder c, ten tweede, van de wet, worden gerekend de ramingen van: 
 
 a. de kosten van het verrichten van onderzoek, waaronder in ieder geval begrepen grondmechanisch en milieukundig bodemonderzoek, akoestisch onderzoek, ander milieukundig onderzoek, archeologisch en cultuurhistorisch onderzoek;  
 
@@ -470,7 +476,7 @@ j. de kosten van andere door het gemeentelijk apparaat of in opdracht van de gem
 
 k. de kosten van tijdelijk beheer van de door of vanwege de gemeente verworven gronden, verminderd met de uit het tijdelijk beheer te verwachten opbrengsten;  
 
-l. de kosten van tegemoetkoming van schade, bedoeld in [artikel 6.1 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+l. de kosten van tegemoetkoming van schade, bedoeld in artikel 6.1 van de wet;  
 
 m. niet-terugvorderbare BTW, niet-gecompenseerde compensabele BTW, of andere niet-terugvorderbare belastingen, over de kostenelementen, genoemd onder a tot en met l;  
 
@@ -504,7 +510,7 @@ Met betrekking tot de kostensoorten, bedoeld in artikel 6.2.4, onder a en g tot 
 
 ### Artikel  6.2.7  
 
-Tot de opbrengsten van de exploitatie, bedoeld in [artikel 6.13, eerste lid, onder c, ten derde, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), worden gerekend de ramingen van de opbrengsten: 
+Tot de opbrengsten van de exploitatie, bedoeld in artikel 6.13, eerste lid, onder c, ten derde, van de wet, worden gerekend de ramingen van de opbrengsten: 
 
 a. van uitgifte van de gronden in het exploitatiegebied;  
 
@@ -514,15 +520,15 @@ c. welke worden verkregen of toegekend in verband met het in exploitatie brengen
 
 ### Artikel  6.2.8  
 
-In de in [artikel 6.13, eerste lid, onder c, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) bedoelde exploitatieopzet wordt vermeld welk percentage van de totale kosten, met uitzondering van de kosten bedoeld in artikel 6.2.4, onder f, gerealiseerd is. 
+In de in artikel 6.13, eerste lid, onder c, van de wet bedoelde exploitatieopzet wordt vermeld welk percentage van de totale kosten, met uitzondering van de kosten bedoeld in artikel 6.2.4, onder f, gerealiseerd is. 
 
 ### Artikel  6.2.9  
 
-De in [artikel 6.13, tweede lid, onder c, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) bedoelde regels kunnen mede betrekking hebben op het in overeenstemming met de geldende aanbestedingsregels aanbesteden van de in het exploitatieplan voorziene werken en werkzaamheden. 
+De in artikel 6.13, tweede lid, onder c, van de wet bedoelde regels kunnen mede betrekking hebben op het in overeenstemming met de geldende aanbestedingsregels aanbesteden van de in het exploitatieplan voorziene werken en werkzaamheden. 
 
 ### Artikel  6.2.10  
 
-De in [artikel 6.13, tweede lid, onder d, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) bedoelde regels kunnen mede betrekking hebben op: 
+De in artikel 6.13, tweede lid, onder d, van de wet bedoelde regels kunnen mede betrekking hebben op: 
 
 a. het aantal en de situering van sociale huurwoningen, sociale koopwoningen en percelen voor particulier opdrachtgeverschap;  
 
@@ -568,7 +574,7 @@ m. indien de exploitatieopzet een tekort vertoont, een omschrijving van de wijze
 
 ### Artikel  6.2.12  
 
-Binnen twee weken na het sluiten van een overeenkomst als bedoeld in [artikel 6.24 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) leggen burgemeester en wethouders een zakelijke beschrijving van de inhoud van de overeenkomst ter inzage. 
+Binnen twee weken na het sluiten van een overeenkomst als bedoeld in artikel 6.24 van de wet leggen burgemeester en wethouders een zakelijke beschrijving van de inhoud van de overeenkomst ter inzage. 
 
 ### Afdeling  6.3  
 
@@ -580,11 +586,11 @@ Binnen twee weken na het sluiten van een overeenkomst als bedoeld in [artikel 6.
 
 ### Artikel  6.3.1.1  
 
-In deze afdeling en in een ministeriële regeling krachtens [artikel 6.10, tweede lid](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of [artikel 6.11, eerste lid, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt verstaan onder programma: geheel van aangewezen taken, activiteiten of maatregelen op het gebied van de ruimtelijke ordening, in de kosten waarvan door Onze Minister een subsidie kan worden verleend voor het bereiken van de bij die aanwijzing opgenomen doelstellingen. 
+In deze afdeling en in een ministeriële regeling krachtens artikel 6.10, tweede lid, of artikel 6.11, eerste lid, van de wet wordt verstaan onder programma: geheel van aangewezen taken, activiteiten of maatregelen op het gebied van de ruimtelijke ordening, in de kosten waarvan door Onze Minister een subsidie kan worden verleend voor het bereiken van de bij die aanwijzing opgenomen doelstellingen. 
 
 ### Artikel  6.3.1.2  
 
-1.  Deze afdeling is van toepassing op elke krachtens de [wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of de daarop berustende bepalingen door Onze Minister te verlenen of verleende subsidie.   
+1.  Deze afdeling is van toepassing op elke krachtens de wet of de daarop berustende bepalingen door Onze Minister te verlenen of verleende subsidie.   
 2.  Terzake van een subsidie waaraan geen programma ten grondslag ligt, wordt in artikel 6.3.1.4, eerste en tweede lid, in plaats van «een programma» telkens gelezen: «een beschikking tot subsidieverlening» en wordt in artikel 6.3.1.4, tweede lid, in plaats van «dat programma» of «het programma» gelezen: «de beschikking tot subsidieverlening».  
 
 ### Artikel  6.3.1.3  
@@ -606,7 +612,7 @@ e. de weigering en aanhouding van de aanvraag van een subsidie vanwege de oversc
 1.  In een programma worden ten minste opgenomen het doel van de subsidie, een aanduiding van de in aanmerking komende subsidieontvangers en van de subsidiabele kosten en, indien van toepassing, het subsidieplafond, het maximale subsidiepercentage en het maximale subsidiebedrag.   
 2.  Indien voor een programma een subsidieplafond wordt vastgesteld, wordt in dat programma in verband met de besluitvorming over de aanvraag van de subsidie bepaald of bij de subsidieverlening: 
 
-a. op de aanvragen in volgorde van ontvangst wordt beslist, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld voor die beslissing als datum van ontvangst van de aanvraag geldt, of  
+a. op de aanvragen in volgorde van ontvangst wordt beslist, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld voor die beslissing als datum van ontvangst van de aanvraag geldt, of  
 
 b. aanvragen met betrekking tot soortgelijke activiteiten gelijktijdig worden beoordeeld op basis van hun geschiktheid om bij te dragen aan de doelstellingen van het programma.    
 
@@ -614,17 +620,17 @@ b. aanvragen met betrekking tot soortgelijke activiteiten gelijktijdig worden be
 
 1.  Onze Minister maakt een door hem vastgesteld subsidieplafond voor het daaropvolgende kalenderjaar en de wijze van verdeling van het beschikbare bedrag vóór 1 november in de Staatscourant bekend.   
 2.  Indien het subsidieplafond van een programma is bereikt, waarvoor de in artikel 6.3.1.4, tweede lid, bedoelde wijze van verdeling geldt, maakt Onze Minister dit onverwijld in de Staatscourant bekend.   
-3.  De [artikelen 4:27, tweede lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [4:28 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+3.  De artikelen 4:27, tweede lid, en 4:28 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 
 ### Artikel  6.3.1.6  
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt geen subsidie verleend voor: 
+Onverminderd artikel 4:35 van de Algemene wet bestuursrecht wordt geen subsidie verleend voor: 
 
-a. de in [artikel 6.10, eerste lid, onder a, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) genoemde activiteiten voor zover het reguliere kosten voor het opstellen en herzien van ruimtelijke plannen betreft;  
+a. de in artikel 6.10, eerste lid, onder a, van de wet genoemde activiteiten voor zover het reguliere kosten voor het opstellen en herzien van ruimtelijke plannen betreft;  
 
-b. de in [artikel 6.10, eerste lid, onder b, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) genoemde activiteiten voor zover de kosten daarvoor uit hoofde van een andere regeling voor vergoeding in aanmerking kunnen komen;  
+b. de in artikel 6.10, eerste lid, onder b, van de wet genoemde activiteiten voor zover de kosten daarvoor uit hoofde van een andere regeling voor vergoeding in aanmerking kunnen komen;  
 
-c. de in [artikel 6.10, eerste lid, onder c, van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) genoemde activiteiten voor zover niet is aangetoond dat de activiteiten in financiële en in bestuurlijke zin haalbaar zijn of voor zover de kosten uit hoofde van een andere regeling voor vergoeding in aanmerking komen.   
+c. de in artikel 6.10, eerste lid, onder c, van de wet genoemde activiteiten voor zover niet is aangetoond dat de activiteiten in financiële en in bestuurlijke zin haalbaar zijn of voor zover de kosten uit hoofde van een andere regeling voor vergoeding in aanmerking komen.   
 
 ### Artikel  6.3.1.7  
 
@@ -660,7 +666,7 @@ b. de bijdrage van die activiteit aan de verwezenlijking van het doel van de sub
 
 ### Artikel  6.3.3.2  
 
-1.  Tenzij een aanvraag om subsidie wordt beoordeeld met toepassing van artikel 6.3.1.4, tweede lid, onder b, beslist Onze Minister binnen acht weken na de ontvangst van de aanvraag, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld voor die beslissing geldt als datum van ontvangst van de aanvraag.   
+1.  Tenzij een aanvraag om subsidie wordt beoordeeld met toepassing van artikel 6.3.1.4, tweede lid, onder b, beslist Onze Minister binnen acht weken na de ontvangst van de aanvraag, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld voor die beslissing geldt als datum van ontvangst van de aanvraag.   
 2.  Onze Minister kan de beslissing voor ten hoogste acht weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.  
 
 ### Artikel  6.3.3.3  
@@ -686,13 +692,13 @@ De subsidieverlening wordt geweigerd indien de aanvrager van de subsidie niet he
 
 1.  De subsidie-ontvanger dient binnen dertien weken na voltooiing van de activiteit bij Onze Minister een aanvraag tot subsidievaststelling in.   
 3.  De aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag, waarbij de subsidie-ontvanger aantoont dat de activiteit overeenkomstig de aan de subsidie verbonden verplichtingen heeft plaatsgevonden, en een financieel verslag.   
-3.  Indien de subsidie meer bedraagt dan € 50.000, gaat het financieel verslag vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die wordt afgegeven na toetsing van de wijze van besteding van de subsidie aan de [wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en dit besluit.   
+3.  Indien de subsidie meer bedraagt dan € 50.000, gaat het financieel verslag vergezeld van een verklaring van getrouwheid van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, die wordt afgegeven na toetsing van de wijze van besteding van de subsidie aan de wet en dit besluit.   
 4.  Het derde lid is niet van toepassing op subsidieverstrekking aan gemeenten of provincies.  
 
 ### Artikel  6.3.5.2  
 
-1.  Indien de subsidie-ontvanger een gemeente, provincie of een regionaal openbaar lichaam op grond van [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) is, wordt een subsidievaststelling aangevraagd in het jaar na de voltooiing van de activiteit, door de verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).   
-2.  [Artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md) is van overeenkomstige toepassing.  
+1.  Indien de subsidie-ontvanger een gemeente, provincie of een regionaal openbaar lichaam op grond van artikel 104 van de Wet gemeenschappelijke regelingen is, wordt een subsidievaststelling aangevraagd in het jaar na de voltooiing van de activiteit, door de verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in artikel 27 van het Besluit financiële verhouding 2001.   
+2.  Artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten is van overeenkomstige toepassing.  
 
 ### §  6.3.6  
 
@@ -705,13 +711,13 @@ De subsidieverlening wordt geweigerd indien de aanvrager van de subsidie niet he
 
 ### Artikel  6.3.6.2  
 
-Indien de subsidieaanvrager een gemeente, een provincie of een regionaal openbaar lichaam op grond van [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) is, geldt in afwijking van artikel 6.3.6.1 dat: 
+Indien de subsidieaanvrager een gemeente, een provincie of een regionaal openbaar lichaam op grond van artikel 104 van de Wet gemeenschappelijke regelingen is, geldt in afwijking van artikel 6.3.6.1 dat: 
 
 a. Onze Minister in het jaar waarin de uitvoeringswerkzaamheden van het project aanvangen, een uit te keren jaartermijn tot maximaal 100 procent kan bevoorschotten, zo mogelijk in aansluiting op de subsidieverlening en vervolgens aan het begin van een jaar;  
 
-b. de bevoorschotte bedragen in rekening-courant, bedoeld in [artikel 24, zesde lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) worden aangehouden bij het Ministerie van Financiën, tenzij dat, gelet op de omvang van de bedragen, naar het oordeel van Onze Minister van Financiën niet doelmatig is;  
+b. de bevoorschotte bedragen in rekening-courant, bedoeld in artikel 24, zesde lid, van de Comptabiliteitswet 2001 worden aangehouden bij het Ministerie van Financiën, tenzij dat, gelet op de omvang van de bedragen, naar het oordeel van Onze Minister van Financiën niet doelmatig is;  
 
-c. voor het aanhouden in rekening-courant van de bevoorschotte bedragen de door Onze Minister van Financiën gestelde regels, bedoeld in [artikel 49a van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), van toepassing zijn.   
+c. voor het aanhouden in rekening-courant van de bevoorschotte bedragen de door Onze Minister van Financiën gestelde regels, bedoeld in artikel 49a van de Comptabiliteitswet 2001, van toepassing zijn.   
 
 ### Hoofdstuk  7  
 
@@ -746,7 +752,7 @@ b. een herziening van een bestemmingsplan, mits dat bestemmingsplan in ontwerp t
 
 ### Artikel  8.1.3  
 
-Voor zover na het tijdstip van inwerkingtreding van de [wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) aan een bestemmingsplan gedeeltelijk goedkeuring is onthouden en voor het betrokken gedeelte een nieuw plan wordt vastgesteld, mag, in afwijking van de artikelen 1.2.3 en 1.2.4 van dit besluit, binnen een jaar na het besluit omtrent goedkeuring het nieuwe plan worden vormgegeven, ingericht en beschikbaar gesteld op de wijze waarop het bestemmingsplan, ter reparatie waarvan het nieuwe plan strekt, is vormgegeven, ingericht en beschikbaar gesteld. 
+Voor zover na het tijdstip van inwerkingtreding van de wet aan een bestemmingsplan gedeeltelijk goedkeuring is onthouden en voor het betrokken gedeelte een nieuw plan wordt vastgesteld, mag, in afwijking van de artikelen 1.2.3 en 1.2.4 van dit besluit, binnen een jaar na het besluit omtrent goedkeuring het nieuwe plan worden vormgegeven, ingericht en beschikbaar gesteld op de wijze waarop het bestemmingsplan, ter reparatie waarvan het nieuwe plan strekt, is vormgegeven, ingericht en beschikbaar gesteld. 
 
 ### Artikel  8.1.3a  
 
@@ -768,18 +774,18 @@ c. tijdelijke ontheffing;
 
 d. beheersverordening;  
 
-e. provinciale verordening als bedoeld in [artikel 4.1 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+e. provinciale verordening als bedoeld in artikel 4.1 van de wet;  
 
-f. algemene maatregel van bestuur als bedoeld in [artikel 4.3 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+f. algemene maatregel van bestuur als bedoeld in artikel 4.3 van de wet;  
 
-g. aanwijzing als bedoeld in [artikel 4.2](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [4.4 van de wet](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   Artikel 1.2.1, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
+g. aanwijzing als bedoeld in artikel 4.2 of 4.4 van de wet.   Artikel 1.2.1, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
 2.  Voor de periode, bedoeld in het eerste lid, kunnen de in het eerste lid en de in artikel 1.2.1, eerste lid, bedoelde visies, plannen, besluiten en verordeningen, met de daarbij behorende toelichting of onderbouwing langs elektronische weg worden vastgelegd en in die vorm vastgesteld. Een volledige verbeelding daarvan op papier wordt gelijktijdig vastgesteld. Bij de vaststelling van de in dit lid bedoelde visies, plannen, besluiten en verordeningen, wordt aangegeven dat toepassing is gegeven aan dit artikel.   
 3.  Indien na vaststelling de inhoud van de langs elektronische weg vastgelegde visies, plannen, besluiten en verordeningen als bedoeld in het tweede lid, en die van de verbeelding daarvan op papier tot een verschillende uitleg aanleiding geeft, is de eerstbedoelde inhoud beslissend.   
 4.  Er is een landelijke voorziening waar in elektronische vorm de visies, plannen, besluiten en verordeningen als bedoeld in het tweede lid, en de algemene maatregelen van bestuur als bedoeld in het eerste lid, voor een ieder volledig toegankelijk en raadpleegbaar zijn.   
 5.  Burgemeester en wethouders, gedeputeerde staten en Onze Minister of Onze Minister wie het aangaat, melden aan de landelijke voorziening de vindplaats van de visies, plannen, besluiten, en verordeningen, bedoeld in het tweede lid, en de algemene maatregelen van bestuur, bedoeld in het eerste lid.   
 6.  De in het tweede lid bedoelde visies, plannen, besluiten en verordeningen alsmede hun aansluiting op het aangrenzende gebied, worden vastgesteld met gebruikmaking van een duidelijke ondergrond. Bij het besluit tot vaststelling wordt aangegeven welke ondergrond is gebruikt. Het betrokken bestuursorgaan toont op verzoek de visie, het plan, het besluit of de verordening op deze ondergrond.   
 7.  De in het tweede lid bedoelde visies, plannen, besluiten en verordeningen en de in het eerste lid bedoelde algemene maatregelen van bestuur, bevatten een geometrische plaatsbepaling van het werkingsgebied en de eventueel daarin aangebrachte onderscheidingen.   
-8.  Op de in het tweede lid bedoelde visies, plannen, besluiten en verordeningen, is de [Regeling standaarden ruimtelijke ordening 2008](../../../../../ministeriele-regeling/regeling/standaarden/ruimtelijke/ordening/2008/BWBR0024656/README.md) van toepassing, welke regeling voor de periode, bedoeld in het eerste lid, zijn grondslag vindt in dit artikel.  
+8.  Op de in het tweede lid bedoelde visies, plannen, besluiten en verordeningen, is de Regeling standaarden ruimtelijke ordening 2008 van toepassing, welke regeling voor de periode, bedoeld in het eerste lid, zijn grondslag vindt in dit artikel.  
 
 ### §  8.2  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 april 2010, nr. BJZ2010011756, Directie Bestuurlijke en Juridische Zaken;
 
-Gelet op de [artikelen 5.1, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [5.2, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [5.3, eerste en tweede lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [9.2.2.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de [artikelen 3.37](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [4.3, eerste en tweede lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);
+Gelet op de artikelen 5.1, eerste lid, 5.2, eerste lid, 5.3, eerste en tweede lid, en 9.2.2.1 van de Wet milieubeheer en de artikelen 3.37 en 4.3, eerste en tweede lid, van de Wet ruimtelijke ordening;
 
 De Raad van State gehoord (advies van 17 juni 2010, nr. W08.10.0163/IV);
 
@@ -22,11 +22,11 @@ Hebben goedgevonden en verstaan:
 
 *beperkt kwetsbaar object:* 
 
-a. object als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) of  
+a. object als bedoeld in artikel 1, eerste lid, onderdeel b, van het Besluit externe veiligheid inrichtingen of  
 
 b. lintbebouwing voor zover deze loodrecht of nagenoeg loodrecht is gelegen op de contouren van het plaatsgebonden risico van een buisleiding;    
 
-*bestemmingsplan:* bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+*bestemmingsplan:* bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening;  
 
 *buisleiding:* leiding bestemd of gebruikt voor het vervoer van gevaarlijke stoffen, met de daarbij behorende voorzieningen;  
 
@@ -40,14 +40,14 @@ b. lintbebouwing voor zover deze loodrecht of nagenoeg loodrecht is gelegen op d
 
 *invloedsgebied:* gebied waarin personen worden meegeteld voor de berekening van het groepsrisico van de buisleiding tot de grens waarop de letaliteit van die personen 1% is;  
 
-*kwetsbaar object:* object als bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+*kwetsbaar object:* object als bedoeld in artikel 1, eerste lid, onderdeel l, van het Besluit externe veiligheid inrichtingen;  
 
 *plaatsgebonden risico:* risico op een plaats nabij een buisleiding, uitgedrukt als de kans per jaar dat een persoon die onafgebroken en onbeschermd op die bepaalde plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval met die buisleiding;  
 
-*ramp:* ramp of zwaar ongeval als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+*ramp:* ramp of zwaar ongeval als bedoeld in artikel 1 van de Wet veiligheidsregio’s;  
 
-*wet:* [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
-2.  In dit besluit wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in [artikel 3.26](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), met dien verstande dat bij een inpassingsplan van een provincie onderscheidenlijk het Rijk voor «burgemeester en wethouders» wordt gelezen «gedeputeerde staten» onderscheidenlijk «Onze Minister».  
+*wet:* Wet milieubeheer.     
+2.  In dit besluit wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening, met dien verstande dat bij een inpassingsplan van een provincie onderscheidenlijk het Rijk voor «burgemeester en wethouders» wordt gelezen «gedeputeerde staten» onderscheidenlijk «Onze Minister».  
 
 ### Artikel  2  
 
@@ -55,9 +55,9 @@ b. lintbebouwing voor zover deze loodrecht of nagenoeg loodrecht is gelegen op d
 2.  In de regeling, bedoeld in het eerste lid, kan worden bepaald dat de aanwijzing slechts geldt voor stoffen die een daarbij aangegeven concentratie overschrijden of zich bevinden in een daarbij aangegeven toestand.   
 3.  Dit besluit is niet van toepassing op het vervoer van gevaarlijke stoffen door buisleidingen, voor zover die buisleidingen: 
 
-a. deel uitmaken van een inrichting als bedoeld in [artikel 1.1 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. deel uitmaken van een inrichting als bedoeld in artikel 1.1 van de wet;  
 
-b. gelegen zijn op het continentaal plat, bedoeld in [artikel 1, onder c, van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) of in de territoriale zee van Nederland.    
+b. gelegen zijn op het continentaal plat, bedoeld in artikel 1, onder c, van de Mijnbouwwet of in de territoriale zee van Nederland.    
 
 ### §  2  
 
@@ -93,7 +93,7 @@ b. wegens bij de regeling te benoemen omstandigheden in redelijkheid niet van de
 1.  Het plaatsgebonden risico voor een kwetsbaar object, veroorzaakt door een buisleiding, mag niet hoger zijn dan 10<sup>-6</sup> per jaar.   
 2.  De exploitant voert de aanleg of vervanging van een buisleiding zodanig uit dat het plaatsgebonden risico van de buisleiding op een afstand van vijf meter gemeten vanuit het hart van de buisleiding niet hoger is dan 10<sup>-6</sup> per jaar.   
 3.  Bij regeling van Onze Minister kan voor een bepaalde categorie van buisleidingen een andere afstand tot de buisleiding worden vastgesteld waarbuiten het plaatsgebonden risico de norm van 10<sup>-6</sup> niet mag overschrijden, of tijdelijk een hoger risico worden geaccepteerd.   
-4.  De aanleg of vervanging van een buisleiding is slechts toegestaan indien die aanleg of vervanging in overeenstemming is met het ter plaatse geldende bestemmingsplan of voor die aanleg of vervanging een omgevingsvergunning is verleend als bedoeld in [artikel 2.12 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) tot afwijking van het bestemmingsplan of de beheersverordening.  
+4.  De aanleg of vervanging van een buisleiding is slechts toegestaan indien die aanleg of vervanging in overeenstemming is met het ter plaatse geldende bestemmingsplan of voor die aanleg of vervanging een omgevingsvergunning is verleend als bedoeld in artikel 2.12 van de Wet algemene bepalingen omgevingsrecht tot afwijking van het bestemmingsplan of de beheersverordening.  
 
 ### Artikel  7  
 
@@ -102,8 +102,8 @@ b. wegens bij de regeling te benoemen omstandigheden in redelijkheid niet van de
 
 ### Artikel  8  
 
-1.  De exploitant voert bij een voorgenomen wijziging van de gegevens, bedoeld in [artikel 12.12 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), een onderzoek uit naar de invloed van die wijziging op het plaatsgebonden risico en het groepsrisico.   
-2.  Bij een negatieve invloed van de voorgenomen wijziging op het plaatsgebonden risico of het groepsrisico kan deze wijziging slechts worden doorgevoerd, indien deze in overeenstemming is met het geldende bestemmingsplan of voor die wijziging een omgevingsvergunning is verleend als bedoeld in [artikel 2.12 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) tot afwijking van het bestemmingsplan of de beheersverordening.   
+1.  De exploitant voert bij een voorgenomen wijziging van de gegevens, bedoeld in artikel 12.12 van de wet, een onderzoek uit naar de invloed van die wijziging op het plaatsgebonden risico en het groepsrisico.   
+2.  Bij een negatieve invloed van de voorgenomen wijziging op het plaatsgebonden risico of het groepsrisico kan deze wijziging slechts worden doorgevoerd, indien deze in overeenstemming is met het geldende bestemmingsplan of voor die wijziging een omgevingsvergunning is verleend als bedoeld in artikel 2.12 van de Wet algemene bepalingen omgevingsrecht tot afwijking van het bestemmingsplan of de beheersverordening.   
 3.  De exploitant meldt de wijziging onverwijld aan Onze Minister.  
 
 ### Artikel  9  
@@ -115,7 +115,7 @@ b. wegens bij de regeling te benoemen omstandigheden in redelijkheid niet van de
 
 ### Artikel  10  
 
-De exploitant waarbij zich een ongewoon voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor de gezondheid van de mens of voor het milieu zijn ontstaan of dreigen te ontstaan, meldt dat voorval zo spoedig mogelijk aan Onze Minister en verstrekt daarbij de gegevens bedoeld in [artikel 17.2, tweede lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). Onze minister geeft van de melding en de daarbij verstrekte gegevens onverwijld kennis aan de bestuursorganen genoemd in artikel 17.2, derde lid, van de wet. 
+De exploitant waarbij zich een ongewoon voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor de gezondheid van de mens of voor het milieu zijn ontstaan of dreigen te ontstaan, meldt dat voorval zo spoedig mogelijk aan Onze Minister en verstrekt daarbij de gegevens bedoeld in artikel 17.2, tweede lid, van de wet. Onze minister geeft van de melding en de daarbij verstrekte gegevens onverwijld kennis aan de bestuursorganen genoemd in artikel 17.2, derde lid, van de wet. 
 
 ### §  3  
 
@@ -126,7 +126,7 @@ De exploitant waarbij zich een ongewoon voorval voordoet of heeft voorgedaan, wa
 1.  Bij de vaststelling van een bestemmingplan, op grond waarvan de aanleg van een buisleiding of de aanleg, bouw of vestiging van een kwetsbaar object bij een buisleiding wordt toegelaten, wordt een grenswaarde in acht genomen van 10<sup>-6</sup> per jaar met betrekking tot het plaatsgebonden risico voor kwetsbare objecten.   
 2.  Bij de vaststelling van een bestemmingsplan op grond waarvan de aanleg van een buisleiding of de aanleg, bouw of vestiging van een beperkt kwetsbaar object bij een buisleiding wordt toegelaten, wordt rekening gehouden met een richtwaarde van 10-6 per jaar met betrekking tot het plaatsgebonden risico voor beperkt kwetsbare objecten.   
 3.  Met betrekking tot de vaststelling van een bestemmingsplan op grond waarvan de aanleg, bouw of vestiging van een risicoverhogend object wordt toegelaten in de directe omgeving van de buisleiding zijn het eerste en tweede lid van overeenkomstige toepassing.   
-4.  Bij de toepassing van [artikel 2.12, eerste lid, onder a, onder 2 en 3, of tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) tot afwijking van het bestemmingsplan of de beheersverordening en van [artikel 11 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) tot afwijking van de bouwverordening vinden het eerste en tweede lid overeenkomstige toepassing.  
+4.  Bij de toepassing van artikel 2.12, eerste lid, onder a, onder 2 en 3, of tweede lid, van de Wet algemene bepalingen omgevingsrecht tot afwijking van het bestemmingsplan of de beheersverordening en van artikel 11 van de Woningwet tot afwijking van de bouwverordening vinden het eerste en tweede lid overeenkomstige toepassing.  
 
 ### Artikel  12  
 
@@ -163,7 +163,7 @@ De berekening van het plaatgebonden risico, bedoeld in artikel 11, en het groeps
 
 a. geen nieuwe bestemmingen die het oprichten van bouwwerken toestaan;  
 
-b. een vergunningenstelsel als bedoeld in [artikel 3.3 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), voor werken of werkzaamheden die van invloed kunnen zijn op de integriteit en werking van de buisleiding, niet zijnde graafwerkzaamheden als bedoeld in de [Wet informatie-uitwisseling ondergrondse netten](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md).     
+b. een vergunningenstelsel als bedoeld in artikel 3.3 van de Wet ruimtelijke ordening, voor werken of werkzaamheden die van invloed kunnen zijn op de integriteit en werking van de buisleiding, niet zijnde graafwerkzaamheden als bedoeld in de Wet informatie-uitwisseling ondergrondse netten.     
 3.  Voor zover in een bestemmingsplan de bevoegdheid wordt opgenomen om in afwijking daarvan bij omgevingsvergunning het oprichten van bouwwerken in de belemmeringenstrook toe te staan, wordt daarbij bepaald dat de omgevingsvergunning uitsluitend kan worden verleend voor zover de veiligheid met betrekking tot de in de belemmeringenstrook gelegen buisleiding niet wordt geschaad en geen kwetsbaar object wordt toegelaten.  
 
 ### Artikel  15  
@@ -173,7 +173,7 @@ b. een vergunningenstelsel als bedoeld in [artikel 3.3 van de Wet ruimtelijke or
 
 ### Artikel  16  
 
-Op een buisleiding die op grond van een bestemmingsplan is toegelaten binnen een veiligheidscontour als bedoeld in [artikel 14 van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), zijn de artikelen 11 en 17 van dit besluit niet van toepassing. 
+Op een buisleiding die op grond van een bestemmingsplan is toegelaten binnen een veiligheidscontour als bedoeld in artikel 14 van het Besluit externe veiligheid inrichtingen, zijn de artikelen 11 en 17 van dit besluit niet van toepassing. 
 
 ### §  4  
 
@@ -192,7 +192,7 @@ Artikel 12 is niet van toepassing op een bestemmingsplan waarvan het ontwerp voo
 
 ### Artikel  19  
 
-In afwijking van [artikel 4.3, tweede lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) draagt de gemeenteraad er zorg voor dat binnen vijf jaar na de datum van inwerkingtreding van dit besluit een bestemmingsplan in overeenstemming is met dit besluit. 
+In afwijking van artikel 4.3, tweede lid, van de Wet ruimtelijke ordening draagt de gemeenteraad er zorg voor dat binnen vijf jaar na de datum van inwerkingtreding van dit besluit een bestemmingsplan in overeenstemming is met dit besluit. 
 
 ### Artikel  20  
 

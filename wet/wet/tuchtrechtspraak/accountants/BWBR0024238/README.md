@@ -16,13 +16,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a.  *accountant:* accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+a.  *accountant:* accountant als bedoeld in artikel 1 van de Wet op het accountantsberoep;  
 
 b.  *Autoriteit Financiële Markten* de Stichting Autoriteit Financiële Markten;  
 
 c.  *betrokkene* degene jegens wie een klacht is ingediend op grond van artikel 22 van deze wet;  
 
-d.  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md); 
+d.  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2, eerste lid, van de Wet op het accountantsberoep; 
 
 e.  *het College* het College van Beroep voor het bedrijfsleven;  
 
@@ -32,7 +32,7 @@ g.  *Onze Minister* Onze Minister van Financiën;
 
 h.  *Onze Ministers* Onze Minister van Financiën en Onze Minister van Justitie;  
 
-i.  *registers:* het register, bedoeld in [artikel 11, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en het accountantsregister, bedoeld in [artikel 1 van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+i.  *registers:* het register, bedoeld in artikel 11, eerste lid, van de Wet toezicht accountantsorganisaties en het accountantsregister, bedoeld in artikel 1 van de Wet op het accountantsberoep.   
 
 ### Hoofdstuk  II  
 
@@ -40,7 +40,7 @@ i.  *registers:* het register, bedoeld in [artikel 11, eerste lid, van de Wet to
 
 ### Artikel  2  
 
-1.  De tuchtrechtelijke maatregelen die de accountantskamer kan opleggen bij handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), zijn: 
+1.  De tuchtrechtelijke maatregelen die de accountantskamer kan opleggen bij handelen of nalaten als bedoeld in artikel 42, eerste lid, van de Wet op het accountantsberoep of artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties, zijn: 
 
 a. waarschuwing;  
 
@@ -52,12 +52,12 @@ d. tijdelijke doorhaling van de inschrijving van de accountant in het register v
 
 e. doorhaling van de inschrijving van de accountant in de registers.     
 2.  Een geldboete kan gezamenlijk met een tuchtrechtelijke maatregel als genoemd in het eerste lid onder a, b, d en e, worden opgelegd.   
-3.  Bij de beslissing tot oplegging van een maatregel als bedoeld in het eerste lid kan worden bepaald dat deze beslissing op kosten van betrokkene wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) beschermd belang dat vordert.   
+3.  Bij de beslissing tot oplegging van een maatregel als bedoeld in het eerste lid kan worden bepaald dat deze beslissing op kosten van betrokkene wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door artikel 42, eerste lid, van de Wet op het accountantsberoep of artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties beschermd belang dat vordert.   
 4.  Bij de beslissing tot het opleggen van de maatregel van tijdelijke doorhaling van de inschrijving van de accountant kan de termijn die is gehanteerd ingevolge artikel 41, eerste lid, en 44, eerste lid, op de periode van de tijdelijke doorhaling in mindering worden gebracht.  
 
 ### Artikel  5  
 
-1.  Het bedrag van de geldboete is ten minste € 3,– en ten hoogste het bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  Het bedrag van de geldboete is ten minste € 3,– en ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 2.  De geldboete kan geheel of gedeeltelijk voorwaardelijk worden opgelegd.   
 3.  Een beslissing tot oplegging van een geldboete bevat de termijn waarbinnen deze moet zijn voldaan. Op verzoek van de betrokkene kan de voorzitter de termijn verlengen. De opgelegde boete komt ten bate van de Staat.   
 4.  Wordt de boete niet binnen de gestelde termijn voldaan, dan kan de accountantskamer na het horen van betrokkene of het daartoe behoorlijk oproepen, ambtshalve beslissen een tuchtrechtelijke maatregel als bedoeld in artikel 2, onderdelen d of e, op te leggen.  
@@ -114,7 +114,7 @@ e. doorhaling van de inschrijving van de accountant in de registers.
 ### Artikel  14  
 
 1.  De secretaris en de leden zijn voor hun werkzaamheden enkel verantwoording verschuldigd aan de accountantskamer.   
-2.  [Artikel 42 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) is ten aanzien van de voorzitter de leden en de secretaris van overeenkomstige toepassing.  
+2.  Artikel 42 van de Wet rechtspositie rechterlijke ambtenaren is ten aanzien van de voorzitter de leden en de secretaris van overeenkomstige toepassing.  
 
 ### Artikel  15  
 
@@ -139,14 +139,14 @@ De voorzitter, de leden en de secretaris zijn verplicht tot geheimhouding van de
 1.  Het lidmaatschap van de accountantskamer van de voorzitter, de leden en de secretaris vervalt van rechtswege indien zij ophouden te voldoen aan de vereisten voor benoeming. Het lidmaatschap eindigt voorts van rechtswege door het verstrijken van de benoemingstermijn van zes jaar. Na deze termijn is herbenoeming mogelijk.   
 2.  De voorzitter, de leden en de secretaris kunnen op eigen verzoek bij koninklijk besluit worden ontslagen.   
 3.  De voorzitter, de leden en de secretaris worden in ieder geval bij koninklijk besluit ontslagen met ingang van de eerste dag van de maand volgend op die waarin zij de leeftijd van zeventig jaren hebben bereikt.   
-4.  De voorzitter, de leden en de secretaris kunnen bij koninklijk besluit worden ontslagen op de gronden aangegeven in de [artikelen 46c, tweede lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46m van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en indien zij wegens ziekte ongeschikt zijn voor hun taak, mits de ongeschiktheid twee jaar onafgebroken heeft geduurd en herstel binnen zes maanden na de termijn van twee jaar redelijkerwijs niet is te verwachten.  
+4.  De voorzitter, de leden en de secretaris kunnen bij koninklijk besluit worden ontslagen op de gronden aangegeven in de artikelen 46c, tweede lid, 46d, tweede lid, 46l, eerste en derde lid, en 46m van de Wet rechtspositie rechterlijke ambtenaren en indien zij wegens ziekte ongeschikt zijn voor hun taak, mits de ongeschiktheid twee jaar onafgebroken heeft geduurd en herstel binnen zes maanden na de termijn van twee jaar redelijkerwijs niet is te verwachten.  
 
 ### Artikel  19  
 
 1.  De voorzitter, de leden, de plaatsvervangende leden die rechterlijk ambtenaar met rechtspraak belast zijn, alsmede de secretaris en de plaatsvervangend-secretarissen, worden voor hun werkzaamheden bij de accountantskamer vrijgesteld.   
-2.  Onze Minister compenseert het betrokken gerecht voor de vrijgestelde tijd overeenkomstig de bezoldiging die de personen, bedoeld in het eerste lid, op grond van de [Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) ontvangen. Onze Minister compenseert het betrokken gerecht voorts voor de vrijgestelde tijd overeenkomstig de bezoldiging die de secretaris en de plaatsvervangend-secretarissen ontvangen op grond van het [Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) dan wel het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+2.  Onze Minister compenseert het betrokken gerecht voor de vrijgestelde tijd overeenkomstig de bezoldiging die de personen, bedoeld in het eerste lid, op grond van de Wet rechtspositie rechterlijke ambtenaren ontvangen. Onze Minister compenseert het betrokken gerecht voorts voor de vrijgestelde tijd overeenkomstig de bezoldiging die de secretaris en de plaatsvervangend-secretarissen ontvangen op grond van het Algemeen Rijksambtenarenreglement dan wel het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 3.  De overige leden en plaatsvervangende leden ontvangen van Onze Minister een vacatiegeld voor hun werkzaamheden voor de accountantskamer volgens bij ministeriële regeling te stellen regels.   
-4.  De opgeroepen getuigen en deskundigen ontvangen ten laste van Onze Minister een vergoeding overeenkomstig het bepaalde bij of krachtens de [Wet tarieven in strafzaken](../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).  
+4.  De opgeroepen getuigen en deskundigen ontvangen ten laste van Onze Minister een vergoeding overeenkomstig het bepaalde bij of krachtens de Wet tarieven in strafzaken.  
 
 ### Artikel  20  
 
@@ -194,13 +194,13 @@ De secretaris van de accountantskamer kan aan degene die daarom verzoekt, tegen 
 
 1.  Een ieder kan bij een vermoeden van handelen of nalaten: 
 
-a. als bedoeld in [artikel 31, eerste lid, van Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) door een externe accountant als bedoeld in [artikel 1, eerste lid, onderdeel e, van die wet](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), of  
+a. als bedoeld in artikel 31, eerste lid, van Wet toezicht accountantsorganisaties door een externe accountant als bedoeld in artikel 1, eerste lid, onderdeel e, van die wet, of  
 
-b. als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) door een accountant.   binnen drie jaar nadat klager heeft geconstateerd of redelijkerwijs heeft kunnen constateren dat het handelen of nalaten in strijd is met het bij of krachtens de [Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) of de [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bepaalde of met het belang van een goede uitoefening van het accountantsberoep, door middel van een klaagschrift een klacht indienen bij de accountantskamer. De accountantskamer neemt de klacht niet in behandeling indien tussen het moment van het handelen of nalaten en het moment van indiening van de klacht een periode van zes jaar is verstreken.   
+b. als bedoeld in artikel 42, eerste lid, van de Wet op het accountantsberoep door een accountant.   binnen drie jaar nadat klager heeft geconstateerd of redelijkerwijs heeft kunnen constateren dat het handelen of nalaten in strijd is met het bij of krachtens de Wet toezicht accountantsorganisaties of de Wet op het accountantsberoep bepaalde of met het belang van een goede uitoefening van het accountantsberoep, door middel van een klaagschrift een klacht indienen bij de accountantskamer. De accountantskamer neemt de klacht niet in behandeling indien tussen het moment van het handelen of nalaten en het moment van indiening van de klacht een periode van zes jaar is verstreken.   
 2.  De voorzitter van de beroepsorganisatie kan ingeval betrokkene is veroordeeld voor een strafbaar feit en dit feit raakt aan de werkzaamheden die een accountant verricht, de zaak binnen drie jaar na de veroordeling aanhangig maken bij de accountantskamer door middel van een klaagschrift.   
 3.  Het klaagschrift vermeldt de naam van de klager, de naam van betrokkene en de feiten waarvoor een tuchtrechtelijke maatregel wordt gevraagd. In het klaagschrift wordt vermeld of de klacht is voorgelegd aan de organisatie waarbinnen de betrokken accountant werkzaam is, of aan een klachten- of geschillencommissie waarbij deze organisatie aangesloten is. Indien de klacht niet is voorgelegd, worden de redenen daarvoor in het klaagschrift vermeld. Bij het klaagschrift worden alle op de zaak betrekking hebbende stukken aan de accountantskamer overgelegd.   
 4.  De accountantskamer kan zaken over hetzelfde of een verwant onderwerp ter behandeling voegen en de de behandeling van gevoegde zaken splitsen.   
-5.  Indien een klaagschrift is gebaseerd op [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), maar tevens betrekking heeft op [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), is de accountantskamer gehouden deze klacht ambtshalve aan te vullen. In alle andere gevallen kan de accountantskamer de klacht ambtshalve aanvullen. Betrokkene wordt in de gelegenheid gesteld om binnen een termijn van vier weken schriftelijk op de aangevulde klacht te reageren en zijn standpunt bekend te maken. De secretaris zendt een afschrift van de reactie van betrokkene aan de klager.  
+5.  Indien een klaagschrift is gebaseerd op artikel 42, eerste lid, van de Wet op het accountantsberoep, maar tevens betrekking heeft op artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties, is de accountantskamer gehouden deze klacht ambtshalve aan te vullen. In alle andere gevallen kan de accountantskamer de klacht ambtshalve aanvullen. Betrokkene wordt in de gelegenheid gesteld om binnen een termijn van vier weken schriftelijk op de aangevulde klacht te reageren en zijn standpunt bekend te maken. De secretaris zendt een afschrift van de reactie van betrokkene aan de klager.  
 
 ### Artikel  23  
 
@@ -260,9 +260,9 @@ b. de mededeling dat de betrokkene bevoegd is getuigen en deskundigen ter zittin
 
 In geval van intrekking van de klacht wordt de behandeling daarvan gestaakt, tenzij de accountantskamer beslist dat de behandeling van de klacht om redenen aan het algemeen belang ontleend, moet worden voortgezet. In dat laatste geval wordt de klacht verder behandeld als ware deze afkomstig van: 
 
-a. de Autoriteit Financiële Markten, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md); of  
+a. de Autoriteit Financiële Markten, bij een vermoeden van handelen of nalaten als bedoeld in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties; of  
 
-b. de voorzitter van de beroepsorganisatie, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+b. de voorzitter van de beroepsorganisatie, bij een vermoeden van handelen of nalaten als bedoeld in artikel 42, eerste lid, van de Wet op het accountantsberoep.   
 
 ### Artikel  31  
 
@@ -286,23 +286,23 @@ b. de voorzitter van de beroepsorganisatie, bij een vermoeden van handelen of na
 
 ### Artikel  34  
 
-Op verzoek van betrokkene of de klager, kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van de accountantskamer schade zou kunnen lijden. De [artikelen 513 tot en met 515 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. 
+Op verzoek van betrokkene of de klager, kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van de accountantskamer schade zou kunnen lijden. De artikelen 513 tot en met 515 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. 
 
 ### Artikel  35  
 
-Op grond van feiten en omstandigheden als bedoeld in artikel 34 kan een voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met artikel 518 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing. 
+Op grond van feiten en omstandigheden als bedoeld in artikel 34 kan een voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De artikelen 517, tweede en derde lid, tot en met artikel 518 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. 
 
 ### Artikel  36  
 
 1.  De accountantskamer kan ambtshalve of op verzoek van de betrokkene of de klager getuigen oproepen.   
 2.  Ieder die als getuige is opgeroepen, is verplicht voor de accountantskamer te verschijnen. Artikel 27, tweede lid, is van overeenkomstige toepassing.   
-3.  Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+3.  Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de artikelen 217 tot en met 220 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 4.  De voorzitter van de accountantskamer kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.  
 
 ### Artikel  37  
 
 1.  De accountantskamer kan ambtshalve of op verzoek van de betrokkene of de klager deskundigen benoemen, teneinde de accountantskamer voor te lichten, zo nodig, met opdracht een onderzoek in te stellen en de accountantskamer een verslag uit te brengen.   
-2.  De deskundige is verplicht zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van deskundigen en hun verhoor zijn de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+2.  De deskundige is verplicht zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van deskundigen en hun verhoor zijn de artikelen 217 tot en met 220 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 3.  De accountantskamer kan de deskundige geheimhouding opleggen.  
 
 ### Artikel  38  
@@ -335,13 +335,13 @@ Vervallen.
 
 1.  De accountantskamer is bij wijze van voorlopige voorziening bevoegd tot het opleggen een tijdelijke doorhaling van de inschrijving van de betrokkene in de registers, op verzoek van: 
 
-a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en daardoor zwaarwegende openbare belangen in het geding zijn; of  
+a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties en daardoor zwaarwegende openbare belangen in het geding zijn; of  
 
-b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en daardoor zwaarwegende belangen in het geding zijn.     
+b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in artikel 42, eerste lid, van de Wet op het accountantsberoep en daardoor zwaarwegende belangen in het geding zijn.     
 2.  De accountantskamer kan tot en met het moment van de uitspraak de tijdelijke doorhaling opheffen.   
 3.  De secretaris van de accountantskamer stelt de Autoriteit Financiële Markten, de voorzitter van de beroepsorganisatie en de betrokkene onverwijld in kennis van een beslissing tot tijdelijke doorhaling als bedoeld in het eerste lid, dan wel tot opheffing daarvan.   
 4.  Over het voornemen tot tijdelijke doorhaling van de inschrijving wordt de betrokkene gehoord.   
-5.  Ingeval de accountantskamer naar aanleiding van de in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) of [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan zij de periode van tijdelijke doorhaling ingevolge het eerste lid in mindering brengen op die termijn.   
+5.  Ingeval de accountantskamer naar aanleiding van de in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties of artikel 42, eerste lid, van de Wet op het accountantsberoep bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan zij de periode van tijdelijke doorhaling ingevolge het eerste lid in mindering brengen op die termijn.   
 6.  Het eerste lid is van overeenkomstige toepassing, indien tegen betrokkene een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het uitoefenen van het beroep van betrokkene raakt.   
 7.  In het geval de inschrijving tijdelijk wordt doorgehaald blijft betrokkene ter zake van handelingen en gedragingen, die gedurende de tijd, dat hij ingeschreven stond, hebben plaats gehad, aan tuchtrechtspraak onderworpen.   
 8.  Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. Artikel 43 is van overeenkomstige toepassing.  
@@ -356,7 +356,7 @@ b. de uitspraak van de accountantskamer onherroepelijk wordt; of
 
 c. de tijdelijke doorhaling in hoger beroep wordt vernietigd; of  
 
-d. het College de zaak zelf afdoet op grond van [artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).   
+d. het College de zaak zelf afdoet op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004.   
 
 ### Hoofdstuk  V  
 
@@ -364,7 +364,7 @@ d. het College de zaak zelf afdoet op grond van [artikel 40, eerste lid, van de 
 
 ### Artikel  43  
 
-1.  De [artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn ten aanzien van de behandeling van een uitspraak van de accountantskamer in hoger beroep van overeenkomstige toepassing met dien verstande dat: 
+1.  De artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn ten aanzien van de behandeling van een uitspraak van de accountantskamer in hoger beroep van overeenkomstige toepassing met dien verstande dat: 
 
 a. in plaats van «de voorzitter van het bedrijfslichaam» wordt gelezen: de klager of de voorzitter van de beroepsorganisatie;  
 
@@ -378,13 +378,13 @@ c. in plaats van «het betrokken tuchtgerecht» wordt gelezen: de accountantskam
 
 1.  Het College is bij wijze van voorlopige voorziening bevoegd tot het opleggen van een tijdelijke doorhaling van de inschrijving van de betrokkene in de registers: 
 
-a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen dat hij heeft gehandeld of heeft nagelaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en daardoor zwaarwegende openbare belangen in het geding zijn;  
+a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen dat hij heeft gehandeld of heeft nagelaten als bedoeld in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties en daardoor zwaarwegende openbare belangen in het geding zijn;  
 
-b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en daardoor zwaarwegende openbare belangen in het geding zijn.     
+b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in artikel 42, eerste lid, van de Wet op het accountantsberoep en daardoor zwaarwegende openbare belangen in het geding zijn.     
 2.  Het College kan tot en met het moment van de uitspraak de tijdelijke doorhaling opheffen.   
 3.  De griffier stelt de accountantskamer, de Autoriteit Financiële Markten, de voorzitter van de beroepsorganisatie en de betrokkene onverwijld in kennis van een beslissing tot tijdelijke doorhaling als bedoeld in het eerste lid, dan wel tot opheffing daarvan.   
 4.  Over het voornemen tot tijdelijke doorhaling van de inschrijving wordt de betrokkene gehoord.   
-5.  Ingeval het College naar aanleiding van de in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) of [artikel 42, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan het de periode van de tijdelijke doorhaling van de inschrijving ingevolge het eerste lid in mindering brengen op die termijn.   
+5.  Ingeval het College naar aanleiding van de in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties of artikel 42, eerste lid, van de Wet op het accountantsberoep, bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan het de periode van de tijdelijke doorhaling van de inschrijving ingevolge het eerste lid in mindering brengen op die termijn.   
 6.  Het eerste lid is van overeenkomstige toepassing indien tegen betrokkene een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het beroep van betrokkene raakt.   
 7.  In het geval de inschrijving tijdelijk wordt doorgehaald blijft betrokkene ter zake van handelingen en gedragingen, die gedurende de tijd, dat hij ingeschreven stond, hebben plaats gehad, aan tuchtrechtspraak onderworpen. 
 
@@ -394,11 +394,11 @@ De tijdelijke doorhaling van de inschrijving, bedoeld in artikel 44, eerste lid,
 
 a. het College op grond van artikel 44, tweede lid, de tijdelijke doorhaling opheft; of  
 
-b. het College de zaak zelf afdoet op grond van [artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md); of  
+b. het College de zaak zelf afdoet op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004; of  
 
-c. de Accountantskamer, nadat de zaak op grond van [artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) ter afdoening naar de Accountantskamer is verwezen, de tijdelijke doorhaling opheft; of  
+c. de Accountantskamer, nadat de zaak op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 ter afdoening naar de Accountantskamer is verwezen, de tijdelijke doorhaling opheft; of  
 
-d. het vonnis van de Accountantskamer onherroepelijk wordt nadat de Accountantskamer de zaak die op grond van [artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) ter afdoening naar de Accountantskamer verwezen is, heeft behandeld.   
+d. het vonnis van de Accountantskamer onherroepelijk wordt nadat de Accountantskamer de zaak die op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 ter afdoening naar de Accountantskamer verwezen is, heeft behandeld.   
 
 ### Artikel  46  
 
@@ -467,5 +467,5 @@ E. M. H. Hirsch Ballin
 
 ####als bedoeld in artikel 15, eerste lid , van de Wet tuchtrechtspraak accountants
 
-Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 15, eerste lid, van de Wet tuchtrechtspraak accountants door de voorzitter, de leden, de secretaris en hun plaatsvervangers; Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de [Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) en alle overige wetten zal onderhouden en nakomen. Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven. Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen de accountantskamer betrokken zou kunnen zijn. Ik zweer/beloof dat ik mijn werk binnen de accountantskamer met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van de accountantskamer betaamt. Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!  ![243563](http://wetten.overheid.nl/Illustration/243563)
+Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 15, eerste lid, van de Wet tuchtrechtspraak accountants door de voorzitter, de leden, de secretaris en hun plaatsvervangers; Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de Grondwet en alle overige wetten zal onderhouden en nakomen. Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven. Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen de accountantskamer betrokken zou kunnen zijn. Ik zweer/beloof dat ik mijn werk binnen de accountantskamer met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van de accountantskamer betaamt. Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!  ![243563](http://wetten.overheid.nl/Illustration/243563)
 Krachtens de wet zijn de voorzitter, de leden, de secretaris en hun plaatsvervangers verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit. 

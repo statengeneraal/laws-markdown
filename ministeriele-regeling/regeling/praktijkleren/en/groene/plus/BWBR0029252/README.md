@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 13 december 2010, nr. 171481, houdende bepalingen ten aanzien van de aanvullende bijdrage voor praktijkleren, voor implementatie van vernieuwing op het vlak van kennisverspreiding, professionalisering van leerkrachten en internationalisering van groen onderwijs en versterking van primaire opleidingen in de land- en tuinbouw, en bepalingen ten aanzien van subsidies voor investeringen in nieuwe voorzieningen voor praktijkleren en voor de implementatie van onderwijsbeleid door instellingen en vertegenwoordigende organisaties (Regeling praktijkleren en Groene plus)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op [artikelen 85a, eerste lid](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [89, eerste lid](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 96d, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [2.2.3, tweede lid](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.3, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 4.10, onderdeel a](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md), en [artikel 4.19, onderdeel a, van het Uitvoeringsbesluit Wet op het hoger onderwijs en wetenschappelijk onderzoek 2008](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md) en [artikel 2 van de Kaderwet LNV-subsidies](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md);
+Gelet op artikelen 85a, eerste lid, 89, eerste lid en artikel 96d, tweede lid, van de Wet op het voortgezet onderwijs, 2.2.3, tweede lid, en 2.5.3, tweede lid, van de Wet educatie en beroepsonderwijs, artikel 4.10, onderdeel a, en artikel 4.19, onderdeel a, van het Uitvoeringsbesluit Wet op het hoger onderwijs en wetenschappelijk onderzoek 2008 en artikel 2 van de Kaderwet LNV-subsidies;
 Besluit:     
 ### Paragraaf  1  
 
@@ -15,13 +15,13 @@ In deze regeling wordt verstaan onder:
 
 a. *Minister:* Minister van Economische Zaken;  
 
-b. *afdeling:* afdeling Landbouw en natuurlijke omgeving als bedoeld in [artikel 10c van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), verbonden aan een school of scholengemeenschap voor voortgezet onderwijs;  
+b. *afdeling:* afdeling Landbouw en natuurlijke omgeving als bedoeld in artikel 10c van de Wet op het voortgezet onderwijs, verbonden aan een school of scholengemeenschap voor voortgezet onderwijs;  
 
-c. *agrarisch opleidingscentrum:* instelling als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. *agrarisch opleidingscentrum:* instelling als bedoeld in artikel 1.3.3 van de Wet educatie en beroepsonderwijs;  
 
-d. *hogeschool:* instelling als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die onderwijs verzorgt op het gebied van landbouw en natuurlijke omgeving, met uitzondering van Wageningen Universiteit;  
+d. *hogeschool:* instelling als bedoeld in artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, die onderwijs verzorgt op het gebied van landbouw en natuurlijke omgeving, met uitzondering van Wageningen Universiteit;  
 
-e. *instelling:* school in de zin van [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), instelling in de zin van [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of instelling in de zin van [artikel 1.1, onderdeel f, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e. *instelling:* school in de zin van artikel 1 van de Wet op het voortgezet onderwijs, instelling in de zin van artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs, of instelling in de zin van artikel 1.1, onderdeel f, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 f. *Aequor:* het Kenniscentrum Beroepsonderwijs – Bedrijfsleven Aequor; 
 
@@ -45,7 +45,7 @@ o. *primaire opleidingen:* opleidingen voor beroepen en ondernemerschap in de la
 
 p.  *groene opleidingsschool:* partnerschap tussen Stoas Hogeschool en instellingen en afdelingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden;  
 
-q.  *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+q.  *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 r.  *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend.  
 
@@ -107,24 +107,24 @@ d. voor Wageningen universiteit voor het jaar 2014 € 170.240,– en voor het 
 
 ### Artikel  6  
 
-1. De scholen en scholengemeenschappen waaraan een afdeling is verbonden, ontvangen de aanvullende bijdrage, bedoeld in artikel 2, jaarlijks als aanvullende bekostiging van de personeels- en exploitatiekosten specifiek ten behoeve van deze afdeling. De aanvullende bijdrage is het aandeel in het bedrag, bedoeld in artikel 4, eerste lid, onderdeel a, berekend op basis van het aantal leerlingen in het derde en het vierde leerjaar van de afdeling op 1 oktober van het jaar voorafgaand aan het jaar waarvoor de aanvullende bekostiging wordt verstrekt, waarbij de leerlingen worden meegeteld die ingeschreven waren in een aan de afdeling verbonden experimentele leergang VMBO-MBO2 als bedoeld in het [Experimenteerbesluit VM2](../../../../../../../AMvB/experimenteerbesluit/vm2/BWBR0032082/README.md).  
+1. De scholen en scholengemeenschappen waaraan een afdeling is verbonden, ontvangen de aanvullende bijdrage, bedoeld in artikel 2, jaarlijks als aanvullende bekostiging van de personeels- en exploitatiekosten specifiek ten behoeve van deze afdeling. De aanvullende bijdrage is het aandeel in het bedrag, bedoeld in artikel 4, eerste lid, onderdeel a, berekend op basis van het aantal leerlingen in het derde en het vierde leerjaar van de afdeling op 1 oktober van het jaar voorafgaand aan het jaar waarvoor de aanvullende bekostiging wordt verstrekt, waarbij de leerlingen worden meegeteld die ingeschreven waren in een aan de afdeling verbonden experimentele leergang VMBO-MBO2 als bedoeld in het Experimenteerbesluit VM2.  
 2.   De scholen en scholengemeenschappen waaraan een afdeling is verbonden, ontvangen het bedrag, bedoeld in artikel 5, onderdeel a, jaarlijks gezamenlijk als één bedrag. Dit bedrag wordt beschikbaar gesteld door uitbetaling aan het Van Lodestein College te Amersfoort, dat als penvoerder voor de gezamenlijke afdelingen optreedt. 
 
 ### Artikel  7  
 
-De agrarische opleidingscentra ontvangen de aanvullende bijdragen, bedoeld in artikel 2 en 3, jaarlijks als aanvullende rijksbijdrage. De aanvullende rijksbijdrage is het aandeel in het bedrag, bedoeld in artikel 4, eerste lid, onderdeel b, en artikel 5, onderdeel b, overeenkomend met het aandeel van ieder agrarisch opleidingscentrum in het landelijk beschikbaar budget, bedoeld in [artikel 2.2.1 van het Uitvoeringsbesluit Wet educatie en beroepsonderwijs](../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), berekend op basis van [artikel 2.2.2 van dit besluit](../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), waarbij leerlingen die op 1 oktober van het tweede kalenderjaar, voorafgaand aan het jaar waarvoor de aanvullende bekostiging wordt verstrekt, waren ingeschreven aan een aan het agrarisch opleidingscentrum verbonden experimentele leergang VMBO-MBO2 als bedoeld in het [Experimenteerbesluit VM2](../../../../../../../AMvB/experimenteerbesluit/vm2/BWBR0032082/README.md) worden meegeteld als deelnemer van dit agrarisch opleidingscentrum. 
+De agrarische opleidingscentra ontvangen de aanvullende bijdragen, bedoeld in artikel 2 en 3, jaarlijks als aanvullende rijksbijdrage. De aanvullende rijksbijdrage is het aandeel in het bedrag, bedoeld in artikel 4, eerste lid, onderdeel b, en artikel 5, onderdeel b, overeenkomend met het aandeel van ieder agrarisch opleidingscentrum in het landelijk beschikbaar budget, bedoeld in artikel 2.2.1 van het Uitvoeringsbesluit Wet educatie en beroepsonderwijs, berekend op basis van artikel 2.2.2 van dit besluit, waarbij leerlingen die op 1 oktober van het tweede kalenderjaar, voorafgaand aan het jaar waarvoor de aanvullende bekostiging wordt verstrekt, waren ingeschreven aan een aan het agrarisch opleidingscentrum verbonden experimentele leergang VMBO-MBO2 als bedoeld in het Experimenteerbesluit VM2 worden meegeteld als deelnemer van dit agrarisch opleidingscentrum. 
 
 ### Artikel  8  
 
-De hogescholen ontvangen de aanvullende bijdragen, bedoeld in artikel 2 en 3, jaarlijks als onderwijsopslag, bedoeld in [artikel 4.11, eerste lid, van het Uitvoeringsbesluit WHW 2008](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md). De onderwijsopslag is het aandeel in het bedrag, bedoeld in artikel 4, eerste lid, onderdeel c, artikel 5, onderdeel c, overeenkomend met het aandeel van iedere hogeschool in de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.1, vierde lid, onderdeel b, van dit besluit](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md). 
+De hogescholen ontvangen de aanvullende bijdragen, bedoeld in artikel 2 en 3, jaarlijks als onderwijsopslag, bedoeld in artikel 4.11, eerste lid, van het Uitvoeringsbesluit WHW 2008. De onderwijsopslag is het aandeel in het bedrag, bedoeld in artikel 4, eerste lid, onderdeel c, artikel 5, onderdeel c, overeenkomend met het aandeel van iedere hogeschool in de landelijk beschikbare rijksbijdrage, bedoeld in artikel 4.1, vierde lid, onderdeel b, van dit besluit. 
 
 ### Artikel  9  
 
-Wageningen Universiteit ontvangt de aanvullende bijdragen, bedoeld in artikel 2 en 3, jaarlijks als onderwijsopslag als bedoeld in [artikel 4.11, eerste lid, van het Uitvoeringsbesluit WHW 2008](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md), welke gelijk is aan het bedrag, bedoeld in artikel 4, eerste lid, onderdeel d en artikel 5, onderdeel d. 
+Wageningen Universiteit ontvangt de aanvullende bijdragen, bedoeld in artikel 2 en 3, jaarlijks als onderwijsopslag als bedoeld in artikel 4.11, eerste lid, van het Uitvoeringsbesluit WHW 2008, welke gelijk is aan het bedrag, bedoeld in artikel 4, eerste lid, onderdeel d en artikel 5, onderdeel d. 
 
 ### Artikel  10  
 
-De Universiteit Utrecht ontvangt de aanvullende bijdrage, bedoeld in artikel 2, jaarlijks als onderwijsopslag als bedoeld in [artikel 4.11, eerste lid, van het Uitvoeringsbesluit WHW 2008](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md), welke voor praktijkleren gelijk is aan het bedrag, bedoeld in artikel 4, eerste lid, onderdeel e. 
+De Universiteit Utrecht ontvangt de aanvullende bijdrage, bedoeld in artikel 2, jaarlijks als onderwijsopslag als bedoeld in artikel 4.11, eerste lid, van het Uitvoeringsbesluit WHW 2008, welke voor praktijkleren gelijk is aan het bedrag, bedoeld in artikel 4, eerste lid, onderdeel e. 
 
 ### Paragraaf  3  
 
@@ -146,11 +146,11 @@ b. voor de hogescholen voor het jaar 2012 en verdere jaren € 1.000.000,–.
 
 ### Artikel  13  
 
-De agrarische opleidingscentra ontvangen de aanvullende bijdrage, bedoeld in artikel 11, jaarlijks als aanvullende rijksbijdrage. De aanvullende rijksbijdrage is het aandeel in het bedrag, bedoeld in artikel 12, eerste lid, onderdeel a, overeenkomend met het aandeel van ieder agrarisch opleidingscentrum in het landelijk beschikbaar budget, bedoeld in [artikel 2.2.1 van het Uitvoeringsbesluit Wet educatie en beroepsonderwijs](../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), berekend op basis van [artikel 2.2.2 van dit besluit](../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), met dien verstande dat dit aandeel uitsluitend wordt bepaald op basis van de maatstaf ingeschreven deelnemers, bedoeld in [artikel 2.2.3 van dit besluit](../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), waarbij alleen deelnemers aan de opleidingen, genoemd in de bijlage bij deze regeling, worden meegeteld. 
+De agrarische opleidingscentra ontvangen de aanvullende bijdrage, bedoeld in artikel 11, jaarlijks als aanvullende rijksbijdrage. De aanvullende rijksbijdrage is het aandeel in het bedrag, bedoeld in artikel 12, eerste lid, onderdeel a, overeenkomend met het aandeel van ieder agrarisch opleidingscentrum in het landelijk beschikbaar budget, bedoeld in artikel 2.2.1 van het Uitvoeringsbesluit Wet educatie en beroepsonderwijs, berekend op basis van artikel 2.2.2 van dit besluit, met dien verstande dat dit aandeel uitsluitend wordt bepaald op basis van de maatstaf ingeschreven deelnemers, bedoeld in artikel 2.2.3 van dit besluit, waarbij alleen deelnemers aan de opleidingen, genoemd in de bijlage bij deze regeling, worden meegeteld. 
 
 ### Artikel  14  
 
-De hogescholen ontvangen de aanvullende bijdrage, bedoeld in artikel 11, jaarlijks als onderwijsopslag. De onderwijsopslag is het aandeel in het bedrag, bedoeld in artikel 12, eerste lid, onderdeel b, overeenkomend met het aandeel van iedere hogeschool in de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.1, vierde lid, onderdeel b, van het Uitvoeringsbesluit WHW 2008](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md), met dien verstande dat dit aandeel uitsluitend wordt bepaald op basis van het aantal bekostigde inschrijvingen, als bedoeld in [artikel 4.10, eerste lid, onderdeel a, van dit besluit](../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md), waarbij alleen studenten aan de opleidingen, genoemd in de bijlage bij deze regeling, worden meegeteld. 
+De hogescholen ontvangen de aanvullende bijdrage, bedoeld in artikel 11, jaarlijks als onderwijsopslag. De onderwijsopslag is het aandeel in het bedrag, bedoeld in artikel 12, eerste lid, onderdeel b, overeenkomend met het aandeel van iedere hogeschool in de landelijk beschikbare rijksbijdrage, bedoeld in artikel 4.1, vierde lid, onderdeel b, van het Uitvoeringsbesluit WHW 2008, met dien verstande dat dit aandeel uitsluitend wordt bepaald op basis van het aantal bekostigde inschrijvingen, als bedoeld in artikel 4.10, eerste lid, onderdeel a, van dit besluit, waarbij alleen studenten aan de opleidingen, genoemd in de bijlage bij deze regeling, worden meegeteld. 
 
 ### Paragraaf  4  
 
@@ -325,7 +325,7 @@ c. de mate van realisatie van de uitkomsten, bedoeld in artikel 30, tweede lid, 
 d. een evaluatie van de mate waarin de realisatie heeft bijgedragen aan het bereiken van de afspraken, bedoeld in artikel 30, tweede lid, onderdeel c.     
 4.  Indien het verleende subsidiebedrag hoger is dan € 125.000,– gaat de aanvraag tot vaststelling van de subsidie vergezeld van een accountantsverklaring.   
 5.  Bij goedkeuring van de rapportage wordt de subsidie vastgesteld op de werkelijk gemaakte en betaalde kosten tot ten hoogste het verleende subsidiebedrag.   
-6.  Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden terug te vorderen bedragen vermeerderd met de wettelijke rente die wordt berekend over de periode die verstrijkt tussen de kennisgeving van de terugvorderingsverplichting aan de subsidieontvanger en de terugbetaling door de subsidieontvanger.  
+6.  Indien toepassing wordt gegeven aan artikel 4:57 van de Algemene wet bestuursrecht worden terug te vorderen bedragen vermeerderd met de wettelijke rente die wordt berekend over de periode die verstrijkt tussen de kennisgeving van de terugvorderingsverplichting aan de subsidieontvanger en de terugbetaling door de subsidieontvanger.  
 
 ### Paragraaf  7  
 
@@ -467,7 +467,7 @@ v. > 219: € 340.000,–.
 
 ### Artikel  36f  
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de subsidieverlening worden geweigerd of beëindigd indien: 
+Onverminderd artikel 4:35 van de Algemene wet bestuursrecht kan de subsidieverlening worden geweigerd of beëindigd indien: 
 
 a. de groene opleidingsschool niet of niet langer minimaal aan de vereiste basiskwaliteit voldoet na advies van de NVAO;  
 
@@ -497,7 +497,7 @@ iii. voor zover van toepassing, een analyse van de verschillen tussen de voorgen
 
 ### Artikel  37  
 
-1.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van artikel 6, 7, 8, 9, 10, 13 en 14 berekende aanvullende bijdragen naar rato van het aantal rechthebbenden op deze bijdragen verlaagd tot het bedrag dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.   
+1.  In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de op grond van artikel 6, 7, 8, 9, 10, 13 en 14 berekende aanvullende bijdragen naar rato van het aantal rechthebbenden op deze bijdragen verlaagd tot het bedrag dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.   
 2.  In het in het eerste lid bedoelde geval kan de Minister tevens besluiten één of meer van de in artikel 17 dan wel artikel 27 bedoelde subsidies niet te verlenen.   
 3.  De Minister kan op basis van prioriteiten in zijn beleid nadere criteria toepassen bij, en nadere verplichtingen verbinden aan zijn beslissing op aanvragen voor subsidie die op basis van deze regeling worden ingediend. 
 
@@ -511,7 +511,7 @@ Uiterlijk op 1 juni 2015 evalueert de Minister de werking van deze regeling.
 
 ### Artikel  39  
 
-De [Regeling praktijkleren, impuls en versterking primaire opleidingen groen onderwijs](../../../../../../../ministeriele-regeling/regeling/praktijkleren/versterking/primaire/opleidingen/en/impuls/groen/etc/BWBR0027685/README.md) wordt ingetrokken. 
+De Regeling praktijkleren, impuls en versterking primaire opleidingen groen onderwijs wordt ingetrokken. 
 
 ### Artikel  40  
 
@@ -519,7 +519,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 ### Artikel  40a  
 
-Als het bij koninklijke boodschap van 6 juni 2013 ingediende voorstel van wet (Wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) tot wet is verheven dan berust deze regeling mede op [artikel 3 van de Kaderwet EZ-subsidies](../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md). 
+Als het bij koninklijke boodschap van 6 juni 2013 ingediende voorstel van wet (Wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) tot wet is verheven dan berust deze regeling mede op artikel 3 van de Kaderwet EZ-subsidies. 
 
 ### Artikel  40b  
 

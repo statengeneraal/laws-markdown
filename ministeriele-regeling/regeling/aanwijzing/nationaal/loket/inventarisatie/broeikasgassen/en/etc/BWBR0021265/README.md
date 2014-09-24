@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2005, KvI 2005214174, houdende aanwijzing van de uitvoeringsorganisatie voor de inventarisatie van broeikasgassen en aanwijzing protocollen inzake broeikasgassen (Regeling aanwijzing Nationaal loket inventarisatie broeikasgassen en Protocollen broeikasgassen)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de [artikelen 2, derde lid](../../../../../../../../../../AMvB/besluit/inventarisatie/broeikasgassen/wlv/BWBR0019246/README.md) en [3 van het Besluit inventarisatie broeikasgassen Wlv](../../../../../../../../../../AMvB/besluit/inventarisatie/broeikasgassen/wlv/BWBR0019246/README.md) in verbinding met [artikel 59, vierde lid, van de Wet inzake de luchtverontreiniging](../../../../../../../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md);
+Gelet op de artikelen 2, derde lid en 3 van het Besluit inventarisatie broeikasgassen Wlv in verbinding met artikel 59, vierde lid, van de Wet inzake de luchtverontreiniging;
 Besluit:    
 
 ### Artikel  1  
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  2  
 
-De protocollen, bedoeld in [artikel 3 van het Besluit inventarisatie broeikasgassen Wlv](../../../../../../../../../../AMvB/besluit/inventarisatie/broeikasgassen/wlv/BWBR0019246/README.md), zijn: 
+De protocollen, bedoeld in artikel 3 van het Besluit inventarisatie broeikasgassen Wlv, zijn: 
 
 – Protocol 14-001. Referentiebenadering, Uitgave IenM maart 2014;  
 
@@ -93,7 +93,7 @@ De protocollen, bedoeld in [artikel 3 van het Besluit inventarisatie broeikasgas
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit inventarisatie broeikasgassen Wlv](../../../../../../../../../../AMvB/besluit/inventarisatie/broeikasgassen/wlv/BWBR0019246/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit inventarisatie broeikasgassen Wlv in werking treedt. 
 
 ### Artikel  4  
 

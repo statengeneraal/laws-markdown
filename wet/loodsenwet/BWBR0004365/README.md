@@ -19,7 +19,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. Onze Minister: Onze Minister van Verkeer en Waterstaat;   
+a. Onze Minister: Onze Minister van Infrastructuur en Milieu;   
 
 b. loods:  
 
@@ -441,7 +441,12 @@ a.niet voldoet aan de bij of krachtens de artikelen 27c tot en met 27e gestelde 
 b.in onvoldoende mate bijdraagt aan het bereiken van de meest efficiënte werkwijze van registerloodsen en de productiviteit en kwaliteit van de loodsdienstverlening, of,
 
 c.niet is gebaseerd op een redelijk rendement op investeringen. 
-2. De Autoriteit Consument en Markt kan, ambtshalve of op verzoek van de algemene raad, bij de vaststelling van de tarieven en vergoedingen correcties aanbrengen in verband met bijzondere omstandigheden.
+2. De Autoriteit Consument en Markt kan, ambtshalve of op verzoek van de algemene raad, bij de vaststelling van de tarieven en vergoedingen correcties aanbrengen in verband met bijzondere omstandigheden. 
+3.  De Autoriteit Consument en Markt kan bij de vaststelling van de tarieven en vergoedingen correcties aanbrengen indien de tarieven of vergoedingen voor een kalenderjaar voorafgaande aan het kalenderjaar waarvoor de tarieven en vergoedingen worden vastgesteld:
+
+a. bij rechterlijke uitspraak of met toepassing van de artikelen 6:18 of 7:11 van de Algemene wet bestuursrecht zijn gewijzigd, of  
+
+b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de Autoriteit Consument en Markt, indien zij de beschikking had over juiste en volledige gegevens, tarieven of vergoedingen zou hebben vastgesteld die in aanmerkelijk mate zouden afwijken van de vastgestelde tarieven of vergoedingen.   
 
 ### Artikel 27h 
 
@@ -687,21 +692,14 @@ c. de rechtsgang, welke waarborgen geven voor een deugdelijke berechting.
 
 ####De Autoriteit Consument en Markt
 
-### Artikel 45b 
+### Artikel  45b  
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk VIA zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren. 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant. 
-3. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.
-
-### Artikel 45c 
-
-1. De Autoriteit Consument en Markt is bevoegd van de organen, genoemd in de artikelen 6, tweede lid, en 10, vijfde lid, van de samenwerkingsverbanden van registerloodsen die ter uitvoering van het bepaalde krachtens artikel 15, eerste lid, onder b, zijn of worden opgericht, van de krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet aangewezen organisaties en van de rechtspersoon, onderscheidenlijk rechtspersonen, die zijn belast met de feitelijke uitvoering van de verplichtingen, bedoeld in artikel 26, tweede lid, onder a, alle inlichtingen en gegevens te verlangen, die zij voor de uitoefening van haar taak redelijkerwijs nodig acht. 
-2. De organen, samenwerkingsverbanden van registerloodsen en de organisaties en rechtspersonen, bedoeld in het eerste lid, verlenen binnen de door de Autoriteit Consument en Markt gestelde termijn alle medewerking die zij redelijkerwijs kan verlangen bij de uitoefening van haar bevoegdheden op grond van deze wet.
+1.  De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk VIA.   
+2.  De krachtens artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt aanwezen ambtenaren beschikken voor het toezicht, bedoeld in het eerste lid, niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht. 
 
 ### Artikel 45e 
 
-1.  Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken.   
-2.  Onze Minister verstrekt de Autoriteit Consument en Markt de nodige inlichtingen en gegevens die de raad behoeft in verband met de uitvoering van deze wet. 
+Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken. 
 
 ### Hoofdstuk VIIB 
 
@@ -713,63 +711,36 @@ c. de rechtsgang, welke waarborgen geven voor een deugdelijke berechting.
 
 ### Artikel 45f 
 
-1. In geval van overtreding van het bepaalde bij of krachtens de artikelen 27c, 27i, 27j, 27k en 27l, eerste lid, en 45c, tweede lid, kan de Autoriteit Consument en Markt de overtreder:
+1. In geval van overtreding van het bepaalde bij of krachtens de artikelen 27c, 27i, 27j, 27k en 27l, eerste lid, kan de Autoriteit Consument en Markt de overtreder:
 
 a.een bestuurlijke boete opleggen;
 
 b.een last onder dwangsom opleggen. 
-2. De in het eerste lid, onder a, bedoelde boete bedraagt ten hoogste € 450.000,=, of, indien dit meer is, 10% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet, in het boekjaar voorafgaande aan de beschikking. Indien op grond van artikel 5.0.1, derde lid, van de Algemene wet bestuursrecht toepassing is gegeven aan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht, bedraagt de bestuurlijke boete ten hoogste € 450.000,=. 
-3.  Bij de toepassing van de bevoegdheden, bedoeld in het eerste lid, zijn de artikelen 56, 57, tweede lid, 58 tot en met 63, 65 tot en met 68 van de Mededingingswet van overeenkomstige toepassing. 
+2. De in het eerste lid, onder a, bedoelde boete bedraagt ten hoogste € 450.000,=, of, indien dit meer is, 10% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet. Artikel 12o van de Instellingswet Autoriteit Consument en Markt is van overeenkomstige toepassing.
 
 ### § 2 
 
 ####Overtredingen medewerkingsplicht
 
-### Artikel 45g 
-
-1. De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel 45a, tweede lid, onderscheidenlijk 45b, eerste lid, aangewezen ambtenaar handelt in strijd met artikel 5:20 van de Algemene wet bestuursrecht, een bestuurlijke boete opleggen. 
-2. Ingeval de overtreding, bedoeld in het eerste lid, een weigering inhoudt medewerking te verlenen aan de toepassing van artikel 5:17, eerste lid, van de Algemene wet bestuursrecht kan de Autoriteit Consument en Markt een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden. 
-3. De in het eerste lid bedoelde boete bedraagt ten hoogste € 450.000,=, of, indien dit meer is, 1% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet, in het boekjaar voorafgaande aan de beschikking. 
-4. Bij toepassing van de bevoegdheden, bedoeld in het eerste en tweede lid, zijn de artikelen 57, tweede lid, 69, tweede lid, 77, en 78 tot en met 82 van de Mededingingswet van overeenkomstige toepassing. 
-5. Indien op grond van artikel 5.0.1, derde lid, van de Algemene wet bestuursrecht toepassing is gegeven aan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht, bedraagt de bestuurlijke boete ten hoogste € 450.000,=.
+Vervallen per 01-08-2014 
 
 ### § 3 
 
 ####Overtreding verzegeling
 
-### Artikel 45h 
-
-1. De Autoriteit Consument en Markt kan degene die een verzegeling als bedoeld in artikel 54 van de Mededingingswet verbreekt, opheft of beschadigt, of de door de verzegeling bedoelde afsluiting op andere wijze verijdelt, een bestuurlijke boete opleggen van ten hoogste € 450.000,= of, indien dit meer is, 1% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet, in het boekjaar voorafgaande aan de beschikking. 
-2. Artikel 199 van het Wetboek van Strafrecht is niet van toepassing op de in het eerste lid bedoelde overtreding. 
-3.  Bij de toepassing van de bevoegdheden, bedoeld in het eerste lid, zijn de artikelen 57, tweede lid, 77, 80 en 82 van de Mededingingswet van overeenkomstige toepassing.  
-4. Indien op grond van artikel 5.0.1, derde lid, van de Algemene wet bestuursrecht toepassing is gegeven aan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht, bedraagt de bestuurlijke boete ten hoogste € 450.000,=.
+Vervallen per 01-08-2014 
 
 ### § 4 
 
 ####Onderzoek
 
-### Artikel 45i 
-
-1. Met het onderzoek zijn belast de krachtens artikel 45b, eerste lid, aangewezen ambtenaren. 
-2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede met de daaraan verbonden beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in artikel 45b. 
-3. De krachtens artikel 45b aangewezen ambtenaren oefenen de hun in artikel 5:17 van de Algemene wet bestuursrecht toegekende bevoegdheden zo nodig uit met behulp van de sterke arm. 
-4. Op het onderzoek zijn de artikelen 53, 54 en 54a van de Mededingingswet van overeenkomstige toepassing.
+Vervallen per 01-08-2014 
 
 ### § 5 
 
 ####Coördinatie begrippen Mededingingswet
 
-### Artikel 45j 
-
-Voorzover op grond van de artikelen 45f, derde lid, 45g, vierde lid, 45h, derde lid, en 45i, vierde lid, overeenkomstige toepassing van de Mededingingswet plaatsvindt, wordt onder onderneming of ondernemersvereniging in de desbetreffende bepalingen mede verstaan:
-
-a.de organen, genoemd in artikel 6, tweede lid, en 10, vijfde lid;
-
-b.samenwerkingsverbanden van registerloodsen die zijn of worden opgericht ter uitvoering van het bepaalde krachtens artikel 15, eerste lid, onder b;
-
-c.de krachtens de artikelen 15a, tweede lid, en 15b, eerste lid, van de Scheepvaartverkeerswet aangewezen organisaties, en,
-
-d.registerloodsen.
+Vervallen per 01-08-2014 
 
 ### § 6 
 
@@ -777,7 +748,7 @@ d.registerloodsen.
 
 ### Artikel 45k 
 
-1. Indien krachtens de artikelen 45f, 45g, of 45h een bestuurlijke boete of een last onder dwangsom wordt opgelegd aan de corporatie is deze bevoegd de verbeurde boete of dwangsom te voldoen ten laste van het geïnde loodsgeld. 
+1. Indien krachtens artikel 45f of artikel 12m van de Instellingswet Autoriteit Consument en Markt een bestuurlijke boete of een last onder dwangsom wordt opgelegd aan de corporatie is deze bevoegd de verbeurde boete of dwangsom te voldoen ten laste van het geïnde loodsgeld. 
 2. Indien een bestuurlijke boete of een last onder dwangsom wordt opgelegd aan een regionale loodsencorporatie of een samenwerkingsverband van registerloodsen, opgericht ter uitvoering van artikel 15, eerste lid, onder b, zijn deze natuurlijke en rechtspersonen bevoegd de verbeurde boete of dwangsom te voldoen ten laste van het gedeelte van het geïnde loodsgeld waarop de desbetreffende regionale loodsencorporatie, onderscheidenlijk het desbetreffende samenwerkingsverband, recht heeft ingevolgde de bij en krachtens artikel 26 en de krachtens de artikelen 15a, tweede lid, en 15b, derde lid, van de Scheepvaartverkeerswet gestelde regels en voorschriften. 
 3. Een voldoening als bedoeld in het eerste en tweede lid heeft voorrang boven de bij en krachtens artikel 26 en de krachtens de artikelen 15a, tweede lid, en 15b, derde lid, van de Scheepvaartverkeerswet gestelde regels en voorschriften.
 

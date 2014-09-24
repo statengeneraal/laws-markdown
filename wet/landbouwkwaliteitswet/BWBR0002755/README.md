@@ -15,13 +15,11 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 Onze Minister: Onze Minister van Economische Zaken; 
 
-landbouw: akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw – waaronder mede wordt verstaan fruitteelt en het kweken van bomen, bloemen en bloembollen -, teelt van griendhout en elke andere vorm van bodemcultuur met inbegrip van bosbouw; 
+landbouw: akkerbouw, weidebouw, tuinbouw – daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen –, teelt van griendhout en elke andere vorm van bodemcultuur met inbegrip van bosbouw;
 
-visserij: het vangen of kweken van vissen, schaal- en schelpdieren; 
+produkten: alle voortbrengselen van de landbouw, alsmede de bij be- of verwerking daarvan verkregen voortbrengselen, derivaten en afvallen; 
 
-produkten: alle voortbrengselen van de landbouw en de visserij, alsmede de bij be- of verwerking daarvan verkregen voortbrengselen, derivaten en afvallen; 
-
-bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt; 
+bedrijfslichaam: een bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie, ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt; 
 
 landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in artikel 2; 
 
@@ -77,7 +75,7 @@ f. de registratie van de onder die maatregel vallende betrokkenen.
 
 ### Artikel  8a  
 
-Op een privaatrechtelijke rechtspersoon als bedoeld in artikel 8 is de [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.
+Op een privaatrechtelijke rechtspersoon als bedoeld in artikel 8 is de Kaderwet zelfstandige bestuursorganen van toepassing.
 
 ### Artikel  10  
 
@@ -97,7 +95,7 @@ a.hebben een rechtstreeks verband met de in die leden bedoelde activiteiten, en
 
 b.belopen niet meer dan nodig is ter dekking van de gemaakte kosten die zijn toe te rekenen aan die onderscheiden activiteiten. 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de oplegging en inning van de tarieven alsmede met betrekking tot het periodiek aanpassen van de tarieven aan de ontwikkeling van de lonen en de prijzen. 
-6.  Bij gebreke van betaling binnen de door de controle-instelling of door Onze Minister gestelde termijn kan de controle-instelling of Onze Minister het verschuldigde bedrag invorderen bij dwangbevel. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+6.  Bij gebreke van betaling binnen de door de controle-instelling of door Onze Minister gestelde termijn kan de controle-instelling of Onze Minister het verschuldigde bedrag invorderen bij dwangbevel. De artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in artikel 8, tweede lid, te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan. 
 
 ### Artikel  12  
@@ -117,7 +115,7 @@ c.het stellen van de betrokkene onder verscherpte controle op zijn kosten voor t
 
 d.openbaarmaking van de uitspraak op kosten van de betrokkene.   
 2.  De controle-instelling regelt bij reglement de samenstelling en bevoegdheid van haar organen die de tuchtrechtspraak uitoefenen, alsmede de rechtsgang van het tuchtrechtelijk geding, een en ander met inachtneming van bij algemene maatregel van bestuur te stellen regelen.   
-3.  De [artikelen 1, onderdeel b](../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [3 tot en met 6](../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [21 tot en met 25](../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [27 tot en met 41](../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), [42](../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) en [44 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing, met dien verstande dat onder «de voorzitter van het bedrijfslichaam» en «bedrijfslichaam» in die artikelen telkens moet worden verstaan: de controle-instelling.   
+3.  De artikelen 1, onderdeel b, 3 tot en met 6, 21 tot en met 25, 27 tot en met 41, 42 en 44 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat onder «de voorzitter van het bedrijfslichaam» en «bedrijfslichaam» in die artikelen telkens moet worden verstaan: de controle-instelling.   
 4.  De controle-instelling geeft aan de opbrengsten van de geldboeten een bijzondere bestemming, welke de goedkeuring van Onze Minister behoeft.   
 5. In verband met de uitvoering van voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen kan in afwijking van het eerste lid bij of krachtens algemene maatregel van bestuur worden bepaald dat geen tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij of krachtens die algemene maatregel van bestuur aangewezen bepalingen of onderdelen daarvan.
 
@@ -131,9 +129,9 @@ d.openbaarmaking van de uitspraak op kosten van de betrokkene.
 6. In plaats van schadevergoeding kan worden gevorderd, dat de gedaagde veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter echter van oordeel is dat de omstandigheden van het geval geen aanleiding geven tot een dergelijke veroordeling, zal de rechter de gedaagde tot schadevergoeding kunnen veroordelen. 
 7. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens de overige houders van de desbetreffende geografische aanduiding instellen. 
 8. De houder van een geografische aanduiding of geografische oorsprongsbenaming heeft de bevoegdheid roerende zaken, waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken als zijn eigendom op te eisen, dan wel onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden. 
-9. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor. 
+9. De bepalingen van het Wetboek van Burgerlijke Rechtsvordering betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor. 
 10. De maatregelen bedoeld in het achtste en negende lid worden op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten. 
-11. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde personen. 
+11. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering bedoelde personen. 
 12. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
 ### Artikel  15  
@@ -144,7 +142,7 @@ d.openbaarmaking van de uitspraak op kosten van de betrokkene.
 
 ### Artikel  18  
 
-1.  Aan het slot van [artikel 1, onder 4*e*, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.    
+1.  Aan het slot van artikel 1, onder 4*e*, van de Wet op de economische delicten wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.    
 2.   Artikel 13 vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.   
 
 ### Artikel  19  

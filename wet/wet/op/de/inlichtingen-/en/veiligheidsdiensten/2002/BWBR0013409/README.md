@@ -79,23 +79,23 @@ De hoofden van de diensten verlenen de coördinator medewerking voor de uitoefen
 
 a. het verrichten van onderzoek met betrekking tot organisaties en personen die door de doelen die zij nastreven, dan wel door hun activiteiten aanleiding geven tot het ernstige vermoeden dat zij een gevaar vormen voor het voortbestaan van de democratische rechtsorde, dan wel voor de veiligheid of voor andere gewichtige belangen van de staat;  
 
-b. het verrichten van veiligheidsonderzoeken als bedoeld in de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+b. het verrichten van veiligheidsonderzoeken als bedoeld in de Wet veiligheidsonderzoeken;  
 
 c. het bevorderen van maatregelen ter bescherming van de onder a genoemde belangen, waaronder begrepen maatregelen ter beveiliging van gegevens waarvan de geheimhouding door de nationale veiligheid wordt geboden en van die onderdelen van de overheidsdienst en van het bedrijfsleven die naar het oordeel van Onze ter zake verantwoordelijke Ministers van vitaal belang zijn voor de instandhouding van het maatschappelijk leven;  
 
 d. het verrichten van onderzoek betreffende andere landen ten aanzien van onderwerpen die door Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze betrokken Ministers zijn aangewezen;  
 
-e.het opstellen van dreigings- en risicoanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de [artikelen 4, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van [artikel 16 van die wet](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+e.het opstellen van dreigings- en risicoanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de artikelen 4, derde lid, onderdeel b, en 42, eerste lid, onder c, van de Politiewet 2012 en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van artikel 16 van die wet.  
 
 ###Artikel 6a 
 
 1. De dreigings- en risicoanalyses, bedoeld in artikel 6, tweede lid, onderdeel e, worden opgesteld naar aanleiding van gegevens die worden verstrekt door:
 
-a.de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+a.de personen, bedoeld in de artikelen 4, derde lid, onder b, en 42, eerste lid, onder c, van de Politiewet 2012;
 
-b.degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+b.degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de artikelen 4, derde lid, onder b, en 42, eerste lid, onder c, van de Politiewet 2012;
 
-c.degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van [artikel 16 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+c.degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van artikel 16 van de Politiewet 2012;
 
 d.de diensten;
 
@@ -119,7 +119,7 @@ a. het verrichten van onderzoek:
 
 2°. naar factoren die van invloed zijn of kunnen zijn op de handhaving en bevordering van de internationale rechtsorde voor zover de krijgsmacht daarbij is betrokken of naar verwachting betrokken kan worden;    
 
-b. het verrichten van veiligheidsonderzoeken als bedoeld in de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+b. het verrichten van veiligheidsonderzoeken als bedoeld in de Wet veiligheidsonderzoeken;  
 
 c. het verrichten van onderzoek dat nodig is voor het treffen van maatregelen: 
 
@@ -133,17 +133,17 @@ d.  het bevorderen van maatregelen ter bescherming van de onder c genoemde belan
 
 e. het verrichten van onderzoek betreffende andere landen, ten aanzien van onderwerpen met een militaire relevantie die door Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze betrokken Ministers, zijn aangewezen;  
 
-f.het opstellen van dreigingsanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de [artikelen 4, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van [artikel 16 van die wet](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover het betreft personen, objecten en diensten met een militaire relevantie.  
+f.het opstellen van dreigingsanalyses op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in de artikelen 4, derde lid, onderdeel b, en 42, eerste lid, onder c, van de Politiewet 2012 en de bewaking en de beveiliging van de objecten en de diensten die zijn aangewezen op grond van artikel 16 van die wet, voor zover het betreft personen, objecten en diensten met een militaire relevantie.  
 
 ###Artikel 7a 
 
 1. De dreigingsanalyses, bedoeld in artikel 7, tweede lid, onderdeel f, worden opgesteld naar aanleiding van gegevens die worden verstrekt door:
 
-a.de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+a.de personen, bedoeld in de artikelen 4, derde lid, onder b, en 42, eerste lid, onder c, van de Politiewet 2012;
 
-b.degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de [artikelen 4, derde lid, onder b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+b.degenen die belast zijn met de behartiging van de belangen van de personen, bedoeld in de artikelen 4, derde lid, onder b, en 42, eerste lid, onder c, van de Politiewet 2012;
 
-c.degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van [artikel 16 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+c.degenen die belast zijn met de behartiging van de belangen van de objecten of de diensten, die zijn aangewezen op grond van artikel 16 van de Politiewet 2012;
 
 d.de diensten;
 
@@ -211,8 +211,8 @@ Onze betrokken Minister kan ten aanzien van de organisatie, de werkwijze en het 
 
 ### Artikel  12  
 
-1.  De diensten zijn bevoegd tot het verwerken van gegevens met inachtneming van de eisen die daaraan bij of krachtens deze wet of de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) zijn gesteld.   
-2.  De verwerking van gegevens vindt slechts plaats voor een bepaald doel en slechts voor zover dat noodzakelijk is voor een goede uitvoering van deze wet of de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
+1.  De diensten zijn bevoegd tot het verwerken van gegevens met inachtneming van de eisen die daaraan bij of krachtens deze wet of de Wet veiligheidsonderzoeken zijn gesteld.   
+2.  De verwerking van gegevens vindt slechts plaats voor een bepaald doel en slechts voor zover dat noodzakelijk is voor een goede uitvoering van deze wet of de Wet veiligheidsonderzoeken.   
 3.  De verwerking van gegevens geschiedt in overeenstemming met de wet en op behoorlijke en zorgvuldige wijze.   
 4.  De gegevens die in het kader van de taakuitvoering van de diensten worden verwerkt, zijn voorzien van een aanduiding omtrent de mate van betrouwbaarheid dan wel een verwijzing naar het document of de bron waaraan de gegevens zijn ontleend.  
 
@@ -251,7 +251,7 @@ g.omtrent wie dat noodzakelijk is in het kader van een onderzoek als bedoeld in 
 
 h.omtrent wie dat noodzakelijk is in het kader van het opstellen van de dreigingsanalyses, bedoeld in artikel 7, tweede lid, onderdeel f;
 
-i.omtrent wie dat noodzakelijk is in het kader van het opstellen van een analyse door de Militaire Inlichtingen- en Veiligheidsdienst, in opdracht van onze minister van Defensie, van potentiële dreigingen tegen een bij de krijgsmacht werkzaam persoon of een bij de krijgsmacht in gebruik zijnd object, welke niet ingevolge de [artikelen 4, derde lid, onderdeel b](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en [42, eerste lid, onderdeel c](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), onderscheidenlijk [artikel 16 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) is aangewezen.  
+i.omtrent wie dat noodzakelijk is in het kader van het opstellen van een analyse door de Militaire Inlichtingen- en Veiligheidsdienst, in opdracht van onze minister van Defensie, van potentiële dreigingen tegen een bij de krijgsmacht werkzaam persoon of een bij de krijgsmacht in gebruik zijnd object, welke niet ingevolge de artikelen 4, derde lid, onderdeel b, en 42, eerste lid, onderdeel c, onderscheidenlijk artikel 16 van de Politiewet 2012 is aangewezen.  
 3.  De verwerking van persoonsgegevens wegens iemands godsdienst of levensovertuiging, ras, gezondheid en seksuele leven vindt niet plaats.   
 4.  De verwerking van persoonsgegevens die betrekking hebben op de in het derde lid bedoelde kenmerken vindt slechts plaats in aanvulling op de verwerking van andere gegevens en slechts voor zover dat voor het doel van de gegevensverwerking onvermijdelijk is.  
 
@@ -355,7 +355,7 @@ b. de wijze waarop aan de instructie uitvoering dient te worden gegeven, waarond
 a. de voorwaarden waaronder en de gevallen waarin ter uitvoering van een instructie door een natuurlijke persoon als bedoeld in het eerste lid, onderdeel a, handelingen mogen worden verricht die tot gevolg kunnen hebben dat medewerking wordt verleend aan het plegen van een strafbaar feit, dan wel een strafbaar feit wordt gepleegd;  
 
 b. de wijze waarop de uitoefening van de desbetreffende bevoegdheid wordt gecontroleerd.     
-8.  Met betrekking tot het oprichten van rechtspersonen als bedoeld in het eerste lid, onderdeel b, blijft [artikel 34, eerste en tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) buiten toepassing.  
+8.  Met betrekking tot het oprichten van rechtspersonen als bedoeld in het eerste lid, onderdeel b, blijft artikel 34, eerste en tweede lid, van de Comptabiliteitswet 2001 buiten toepassing.  
 
 ### Artikel  22  
 
@@ -369,7 +369,7 @@ c. verrichten van onderzoek aan voorwerpen gericht op het vaststellen van de ide
 2.  De uitoefening van de bevoegdheid, bedoeld in het eerste lid, door de Militaire Inlichtingen- en Veiligheidsdienst buiten plaatsen in gebruik van het Ministerie van Defensie, is slechts toegestaan indien de toestemming daarvoor is verleend in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties dan wel, voor zover van toepassing, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.   
 3.  Indien dit noodzakelijk is voor het onderzoek van een dienst, kan een bij de toepassing van de bevoegdheid, bedoeld in het eerste lid, aangetroffen voorwerp voor een beperkte tijd door de desbetreffende dienst worden meegenomen, voor zover onderzoek van het desbetreffende voorwerp ter plaatse van de doorzoeking onmogelijk is en de daarmee beoogde verzameling van gegevens niet op een andere, minder ingrijpende wijze kan worden bewerkstelligd. De desbetreffende voorwerpen worden zo spoedig mogelijk teruggeplaatst, tenzij het belang van een goede taakuitoefening van de dienst zich daartegen verzet of met terugplaatsing geen redelijk belang wordt gediend.   
 4.  Van de bevoegdheid, bedoeld in het eerste lid, onder a, mag, voor zover het woningen betreft, slechts gebruik worden gemaakt, indien daarvoor door Onze betrokken Minister schriftelijk toestemming is verleend aan het hoofd van de dienst. Uitoefening van de bevoegdheid, bedoeld in het eerste lid, onder a, door de Militaire Inlichtingen- en Veiligheidsdienst met betrekking tot woningen buiten plaatsen in gebruik van het Ministerie van Defensie, is slechts toegestaan, indien de toestemming daarvoor is verleend in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-5.  De toestemming, bedoeld in het vierde lid, wordt verleend voor een periode van ten hoogste drie dagen. De [Algemene termijnenwet](../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing.   
+5.  De toestemming, bedoeld in het vierde lid, wordt verleend voor een periode van ten hoogste drie dagen. De Algemene termijnenwet is niet van toepassing.   
 6.  Het verzoek om toestemming als bedoeld in het vierde lid wordt gedaan door het hoofd van de dienst en bevat ten minste: 
 
 a. het adres van de woning die dient te worden doorzocht, en  
@@ -415,7 +415,7 @@ c. de gegevens opgeslagen of verwerkt in het geautomatiseerde werk over te nemen
 3.  De uitoefening van de bevoegdheid, bedoeld in het eerste lid, door de Militaire Inlichtingen- en Veiligheidsdienst met betrekking tot gesprekken, telecommunicatie of gegevensoverdracht door middel van een geautomatiseerd werk, voor zover deze niet plaatsvindt op of met plaatsen in gebruik van het Ministerie van Defensie, is slechts toegestaan, indien de toestemming daarvoor is verleend in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 4.  Het verzoek om toestemming, bedoeld in het tweede en derde lid, wordt gedaan door het hoofd van de dienst en bevat ten minste: 
 
-a. een aanduiding van de bevoegdheid die de dienst wenst uit te oefenen en, voor zover van toepassing, het nummer, bedoeld in [artikel 1.1, onder bb, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a. een aanduiding van de bevoegdheid die de dienst wenst uit te oefenen en, voor zover van toepassing, het nummer, bedoeld in artikel 1.1, onder bb, van de Telecommunicatiewet;  
 
 b. gegevens betreffende de identiteit van de persoon dan wel de organisatie ten aanzien van wie onderscheidenlijk waarvan de uitoefening van de desbetreffende bevoegdheid wordt verlangd;  
 
@@ -441,7 +441,7 @@ c. de reden waarom uitoefening van de desbetreffende bevoegdheid wordt verlangd.
 
 a. gegevens betreffende de identiteit van een persoon dan wel een organisatie;  
 
-b. een nummer als bedoeld in [artikel 1.1, onder bb, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), dan wel enig technisch kenmerk;  
+b. een nummer als bedoeld in artikel 1.1, onder bb, van de Telecommunicatiewet, dan wel enig technisch kenmerk;  
 
 c. aan een nader omschreven onderwerp gerelateerde trefwoorden.     
 4.  De toestemming voor de selectie, bedoeld in het derde lid, onder a en b, wordt door Onze betrokken Minister op een daartoe strekkend verzoek verleend aan het hoofd van de dienst voor een periode van ten hoogste drie maanden en kan telkens op een daartoe strekkend verzoek worden verlengd. Het verzoek tot het verlenen van toestemming bevat ten minste: 
@@ -466,12 +466,12 @@ b. voor de goede uitoefening van het desbetreffende onderzoek dringend wordt gev
 
 ### Artikel  28  
 
-1.  De diensten zijn bevoegd zich te wenden tot de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten in de zin van de [Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) met het verzoek gegevens te verstrekken over een gebruiker en het telecommunicatieverkeer met betrekking tot die gebruiker. Het verzoek kan slechts betrekking hebben op gegevens die bij algemene maatregel van bestuur zijn aangewezen en kan zowel gegevens betreffen die ten tijde van het verzoek zijn verwerkt als gegevens die na het tijdstip van het verzoek worden verwerkt.   
+1.  De diensten zijn bevoegd zich te wenden tot de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten in de zin van de Telecommunicatiewet met het verzoek gegevens te verstrekken over een gebruiker en het telecommunicatieverkeer met betrekking tot die gebruiker. Het verzoek kan slechts betrekking hebben op gegevens die bij algemene maatregel van bestuur zijn aangewezen en kan zowel gegevens betreffen die ten tijde van het verzoek zijn verwerkt als gegevens die na het tijdstip van het verzoek worden verwerkt.   
 2.  Onder een gebruiker van telecommunicatie wordt in dit artikel verstaan de natuurlijke persoon of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke persoon of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst.   
 3.  Voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, eerste volzin, is geen toestemming vereist als bedoeld in artikel 19.   
 4.  Het verzoek wordt schriftelijk gedaan door het hoofd van de desbetreffende dienst en bevat: 
 
-a.het nummer, bedoeld in [artikel 1.1, onder t, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), of
+a.het nummer, bedoeld in artikel 1.1, onder t, van de Telecommunicatiewet, of
 
 b.gegevens betreffende de naam, alsmede de woon- of verblijfplaats van de persoon dan wel de vestigingsplaats van de organisatie van wie onderscheidenlijk waaraan het nummer, bedoeld onder a, toebehoort, en
 
@@ -483,7 +483,7 @@ d.de periode waarover de gegevens moeten worden verstrekt.
 
 ### Artikel  29  
 
-1.  De diensten zijn bevoegd zich te wenden tot de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten in de zin van de [Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) met het verzoek gegevens te verstrekken terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruiker van telecommunicatie.   
+1.  De diensten zijn bevoegd zich te wenden tot de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten in de zin van de Telecommunicatiewet met het verzoek gegevens te verstrekken terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruiker van telecommunicatie.   
 2.  Onder een gebruiker van telecommunicatie wordt in dit artikel verstaan de natuurlijke persoon of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke persoon of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst.   
 3.  Voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, eerste volzin, is geen toestemming vereist als bedoeld in artikel 19.   
 4.  Het verzoek wordt gedaan door of namens het hoofd van de desbetreffende dienst.   
@@ -507,7 +507,7 @@ e. de bevoegdheid, bedoeld in artikel 25, uit te oefenen;
 f. met betrekking tot de aldaar aanwezige telecommunicatie-apparatuur de gegevens te verzamelen die noodzakelijk zijn om de bevoegdheid, waarvoor overeenkomstig artikel 25, zesde lid, toestemming is verleend, uit te kunnen oefenen.     
 2.  Voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, is geen toestemming vereist als bedoeld in artikel 19.   
 3.  De uitoefening van de bevoegdheid, bedoeld in het eerste lid, is slechts toegestaan door personen die daartoe door het hoofd van een dienst zijn aangewezen.   
-4.  De [artikelen 1, eerste, tweede en derde lid](../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), en [artikel 2, eerste lid, laatste volzin, van de Algemene wet op het binnentreden](../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) zijn niet van toepassing. Onze betrokken Minister of namens deze het hoofd van een dienst is bevoegd tot het geven van een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md). In de gevallen, bedoeld in het eerste lid, onder a en c, geldt de ingevolge de desbetreffende artikelen gegeven toestemming met betrekking tot de bevoegdheidsuitoefening in woningen, tevens als machtiging in de zin van [artikel 2 van de Algemene wet op het binnentreden](../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).  
+4.  De artikelen 1, eerste, tweede en derde lid, en artikel 2, eerste lid, laatste volzin, van de Algemene wet op het binnentreden zijn niet van toepassing. Onze betrokken Minister of namens deze het hoofd van een dienst is bevoegd tot het geven van een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden. In de gevallen, bedoeld in het eerste lid, onder a en c, geldt de ingevolge de desbetreffende artikelen gegeven toestemming met betrekking tot de bevoegdheidsuitoefening in woningen, tevens als machtiging in de zin van artikel 2 van de Algemene wet op het binnentreden.  
 
 ### Artikel  31  
 
@@ -543,7 +543,7 @@ c. de persoon of instantie die voor de uitoefening van de bijzondere bevoegdheid
 d. de datum waarop voor de bevoegdheidsuitoefening toestemming, machtiging dan wel last is verleend;  
 
 e. de periode gedurende welke de bevoegdheidsuitoefening heeft plaatsgevonden en, indien de uitoefening van de bevoegdheid betrekking had op het binnentreden van een woning zonder toestemming van de bewoner, een aanduiding van de woning waarin is binnengetreden.     
-4.  Voor zover de bevoegdheidsuitoefening het binnentreden van een woning zonder toestemming van de bewoner betreft, blijft [artikel 10, tweede lid, van de Algemene wet op het binnentreden](../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) buiten toepassing.   
+4.  Voor zover de bevoegdheidsuitoefening het binnentreden van een woning zonder toestemming van de bewoner betreft, blijft artikel 10, tweede lid, van de Algemene wet op het binnentreden buiten toepassing.   
 5.  De verplichting tot het uitbrengen van een verslag, bedoeld in het eerste lid, vervalt op het moment dat is vastgesteld dat zulks redelijkerwijs niet mogelijk is.   
 6.  Het uitbrengen van een verslag aan de persoon wordt uitgesteld, indien de desbetreffende bijzondere bevoegdheid is uitgeoefend in het kader van een onderzoek, waaromtrent verstrekking van gegevens aan de betrokken persoon, indien deze op het moment van onderzoek een aanvraag als bedoeld in artikel 47 zou hebben ingediend, ingevolge artikel 53 zou moeten worden geweigerd.   
 7.  De verplichting tot onderzoek, bedoeld in het eerste lid, vervalt, indien het uitbrengen van een verslag omtrent de uitoefening van de desbetreffende bijzondere bevoegdheid naar redelijke verwachting ertoe leidt, dat: 
@@ -646,7 +646,7 @@ Van de verstrekking van persoonsgegevens wordt aantekening gehouden.
 
 ### Artikel  44  
 
-1.  In afwijking van [artikel 12, eerste lid, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) worden slechts die archiefbescheiden, bedoeld in [artikel 1, aanhef, onderdeel c, onder 1°, 2° en 4°, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), naar een archiefbewaarplaats overgebracht die ouder zijn dan twintig jaar en waarvan door Onze betrokken Minister, na advies van de beheerder van die archiefbewaarplaats, is vastgesteld dat daaraan geen beperkingen aan de openbaarheid dienen te worden gesteld met het oog op het belang van de staat of van diens bondgenoten.   
+1.  In afwijking van artikel 12, eerste lid, van de Archiefwet 1995 worden slechts die archiefbescheiden, bedoeld in artikel 1, aanhef, onderdeel c, onder 1°, 2° en 4°, van de Archiefwet 1995, naar een archiefbewaarplaats overgebracht die ouder zijn dan twintig jaar en waarvan door Onze betrokken Minister, na advies van de beheerder van die archiefbewaarplaats, is vastgesteld dat daaraan geen beperkingen aan de openbaarheid dienen te worden gesteld met het oog op het belang van de staat of van diens bondgenoten.   
 2.  De in het eerste lid bedoelde beperkingen hebben geen betrekking op archiefbescheiden die ouder zijn dan vijfenzeventig jaar, tenzij Onze betrokken Minister, in overeenstemming met het gevoelen van de Ministerraad, anders beslist.  
 
 ### Hoofdstuk  4  
@@ -663,7 +663,7 @@ Onverminderd de kennisneming van op grond van paragraaf 3.3  verstrekte gegeven
 
 ### Artikel  46  
 
-In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraad, persoonlijke beleidsopvatting, ambtelijk of gemengd samengestelde adviescommissie verstaan, hetgeen daaronder in [artikel 1 van de Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) dan wel in de artikelen 1 en 12 van de Wet openbaarheid van bestuur BES wordt verstaan. 
+In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraad, persoonlijke beleidsopvatting, ambtelijk of gemengd samengestelde adviescommissie verstaan, hetgeen daaronder in artikel 1 van de Wet openbaarheid van bestuur dan wel in de artikelen 1 en 12 van de Wet openbaarheid van bestuur BES wordt verstaan. 
 
 ### Paragraaf  4.2  
 
@@ -685,7 +685,7 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 1.  In afwijking van artikel 47 stelt het hoofd van een dienst een persoon werkzaam bij of ten behoeve van een dienst of werkzaam geweest bij of ten behoeve van een dienst op diens verzoek zo spoedig mogelijk, doch uiterlijk binnen vier weken na het verzoek, in de gelegenheid van zijn gegevens in de personeels- en salarisadministratie van de desbetreffende dienst kennis te nemen.   
 2.  Van inzage zijn uitgezonderd de gegevens die zicht kunnen geven op bronnen die geheim moeten worden gehouden.   
-3.  Het hoofd van een dienst kan, in afwijking van [artikel 2:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bepalen dat kennisneming van de gegevens slechts is voorbehouden aan de betrokken persoon persoonlijk.   
+3.  Het hoofd van een dienst kan, in afwijking van artikel 2:1, eerste lid, van de Algemene wet bestuursrecht, bepalen dat kennisneming van de gegevens slechts is voorbehouden aan de betrokken persoon persoonlijk.   
 4.  Degene die inzage heeft genomen van de hem betreffende gegevens, kan het hoofd van de dienst schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien deze feitelijk onjuist zijn, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift zijn verwerkt. Het verzoek behelst de aan te brengen wijzigingen.   
 5.  Het hoofd van een dienst bericht de verzoeker binnen zes weken na ontvangst van het verzoek, bedoeld in het vierde lid, of dan wel in hoeverre hij daaraan voldoet.   
 6.   Artikel 56 is niet van toepassing.  
@@ -729,7 +729,7 @@ c. een uittreksel of een samenvatting van de inhoud van het desbetreffende docum
 
 d. inlichtingen uit het desbetreffende document te verschaffen.     
 2.  Bij het kiezen tussen de vormen van inkennisstelling houdt Onze betrokken Minister rekening met de voorkeur van de aanvrager en het belang van de dienst.   
-3.  Voor het vervaardigen van kopieën van documenten en uittreksels of samenvattingen van de inhoud daarvan kan van de aanvrager een vergoeding worden gevraagd. De bij of krachtens [artikel 12 van de Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) dan wel artikel 14 van de Wet openbaarheid van bestuur BES gestelde regels zijn daarop van overeenkomstige toepassing.  
+3.  Voor het vervaardigen van kopieën van documenten en uittreksels of samenvattingen van de inhoud daarvan kan van de aanvrager een vergoeding worden gevraagd. De bij of krachtens artikel 12 van de Wet openbaarheid van bestuur dan wel artikel 14 van de Wet openbaarheid van bestuur BES gestelde regels zijn daarop van overeenkomstige toepassing.  
 
 ### Paragraaf  4.5  
 
@@ -837,7 +837,7 @@ b. een goede taakuitvoering door de diensten zich niet tegen de verlening van de
 1.  De korpschef, de politiechef van een regionale eenheid, de commandant van de Koninklijke marechaussee, de directeur-generaal van de rijksbelastingdienst van het Ministerie van Financiën verrichten werkzaamheden ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst.   
 2.  Onze Ministers onder wie de in het eerste lid genoemde ambtenaren ressorteren, onderscheidenlijk de korpschef en de korpsbeheerder van het politiekorps van Bonaire, Sint Eustatius en Saba wijzen in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondergeschikten van deze ambtenaren aan tot de feitelijke uitvoering van en het toezicht op de aldaar bedoelde werkzaamheden.   
 3.  De in dit artikel bedoelde werkzaamheden worden verricht onder verantwoordelijkheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en overeenkomstig de aanwijzingen van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.   
-4.  Met betrekking tot het optreden van ambtenaren van politie ter uitvoering van de in dit artikel bedoelde werkzaamheden blijft [hoofdstuk 7 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) buiten toepassing.  
+4.  Met betrekking tot het optreden van ambtenaren van politie ter uitvoering van de in dit artikel bedoelde werkzaamheden blijft hoofdstuk 7 van de Politiewet 2012 buiten toepassing.  
 
 ### Artikel  61  
 
@@ -866,7 +866,7 @@ De ambtenaren van politie, de ambtenaren van de rijksbelastingdienst, bevoegd in
 1.  Er is een commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten.   
 2.  De commissie van toezicht is belast met: 
 
-a. het toezicht op de rechtmatigheid van de uitvoering van hetgeen bij of krachtens deze wet en de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) is gesteld;  
+a. het toezicht op de rechtmatigheid van de uitvoering van hetgeen bij of krachtens deze wet en de Wet veiligheidsonderzoeken is gesteld;  
 
 b. het gevraagd en ongevraagd inlichten en adviseren van Onze betrokken Ministers aangaande de door de commissie geconstateerde bevindingen. Desgewenst kan de commissie onze betrokken Ministers vragen deze inlichtingen en adviezen ter kennis van een of beide kamers der Staten-Generaal te brengen, waarbij de werkwijze zoals beschreven in artikel 79 van overeenkomstige toepassing is;  
 
@@ -879,12 +879,12 @@ d. het ongevraagd adviseren van Onze betrokken Ministers terzake van de uitvoeri
 1.  De commissie van toezicht bestaat uit drie leden, onder wie de voorzitter.   
 2.  De leden worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen slechts eenmaal worden herbenoemd. Voor de benoeming van de leden wordt door de Tweede Kamer der Staten-Generaal per vacature een voordracht van drie personen gedaan waaruit Onze betrokken Ministers een keuze maken. Bij haar voordracht slaat de Tweede Kamer zodanig acht als haar dienstig voorkomt op een door de vice-president van de Raad van State, de president van de Hoge Raad der Nederlanden en de Nationale ombudsman gezamenlijk opgemaakte aanbevelingslijst van ten minste drie kandidaten per vacature.   
 3.  Onze betrokken Ministers kunnen de Tweede Kamer verzoeken een nieuwe voordracht te doen.  
-4. Aan ten minste twee van de drie leden, onder wie de voorzitter, dient door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht te zijn verleend, dan wel dienen ten minste twee van de drie leden, onder wie de voorzitter, aan een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren te hebben verkregen.  
+4. Aan ten minste twee van de drie leden, onder wie de voorzitter, dient door een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht te zijn verleend, dan wel dienen ten minste twee van de drie leden, onder wie de voorzitter, aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren te hebben verkregen.  
 5.  Alvorens hun ambt te aanvaarden leggen de leden in handen van de Minister-President, Minister van Algemene Zaken, af: 
 
 a. de eed of verklaring en belofte dat zij tot het verkrijgen van hun benoeming rechtstreeks noch middellijk, onder welke naam of onder welk voorwendsel ook, aan iemand iets hebben gegeven of beloofd, alsmede dat zij om iets in hun ambt te doen of te laten rechtstreeks noch middellijk van iemand enig geschenk of enige belofte hebben aangenomen of zullen aannemen;  
 
-b. de eed of belofte van trouw aan de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md).     
+b. de eed of belofte van trouw aan de Grondwet.     
 6.  De leden dienen de Nederlandse nationaliteit te bezitten.   
 7.  De leden vervullen geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van hun functie of op de handhaving van hun onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.   
 8.  De betrekkingen van de leden worden door de voorzitter openbaar gemaakt.  
@@ -951,7 +951,7 @@ De vergaderingen van de commissie van toezicht zijn niet openbaar.
 
 ### Artikel  73  
 
-1.  Onze betrokken Ministers, de hoofden van de diensten, de coördinator en voorts een ieder die betrokken is bij de uitvoering van deze wet en de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) verstrekken desgevraagd aan de commissie van toezicht alle inlichtingen en verlenen haar alle overige medewerking die zij voor een goede uitoefening van haar taak noodzakelijk acht. De commissie van toezicht wordt desgevraagd rechtstreekse toegang verleend tot de in het kader van de uitvoering van deze wet en de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) verwerkte gegevens.   
+1.  Onze betrokken Ministers, de hoofden van de diensten, de coördinator en voorts een ieder die betrokken is bij de uitvoering van deze wet en de Wet veiligheidsonderzoeken verstrekken desgevraagd aan de commissie van toezicht alle inlichtingen en verlenen haar alle overige medewerking die zij voor een goede uitoefening van haar taak noodzakelijk acht. De commissie van toezicht wordt desgevraagd rechtstreekse toegang verleend tot de in het kader van de uitvoering van deze wet en de Wet veiligheidsonderzoeken verwerkte gegevens.   
 2.  Bij de verstrekking van inlichtingen als bedoeld in het eerste lid wordt, indien daartoe aanleiding bestaat, aangegeven welke inlichtingen in het belang van de nationale veiligheid ter uitsluitende kennisneming van de commissie van toezicht dienen te blijven.  
 
 ### Artikel  74  
@@ -984,7 +984,7 @@ De commissie van toezicht dan wel een daartoe door haar aangewezen lid is bevoeg
 
 ### Artikel  78  
 
-1.  In het kader van haar toezichthoudende taak, bedoeld in artikel 64, tweede lid, onder a, is de commissie van toezicht bevoegd tot het verrichten van onderzoek naar de wijze waarop hetgeen bij of krachtens deze wet of de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) is gesteld, is uitgevoerd.   
+1.  In het kader van haar toezichthoudende taak, bedoeld in artikel 64, tweede lid, onder a, is de commissie van toezicht bevoegd tot het verrichten van onderzoek naar de wijze waarop hetgeen bij of krachtens deze wet of de Wet veiligheidsonderzoeken is gesteld, is uitgevoerd.   
 2.  De commissie van toezicht kan voorts een onderzoek als bedoeld in het eerste lid verrichten op een daartoe strekkend verzoek van elk van de beide kamers der Staten-Generaal.   
 3.  Aan Onze betrokken Minister alsmede een of beide kamers der Staten-Generaal wordt van een voorgenomen onderzoek, zo nodig vertrouwelijk, mededeling gedaan.  
 
@@ -1011,7 +1011,7 @@ De commissie van toezicht dan wel een daartoe door haar aangewezen lid is bevoeg
 
 ### Artikel  81  
 
-1.  Gegevens die door Onze betrokken Ministers, de hoofden van de diensten, de coördinator en andere bij de uitvoering van deze wet en de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) betrokken ambtenaren ten behoeve van de taakuitoefening door de commissie van toezicht daaraan zijn verstrekt en aldaar berusten, zijn niet openbaar.   
+1.  Gegevens die door Onze betrokken Ministers, de hoofden van de diensten, de coördinator en andere bij de uitvoering van deze wet en de Wet veiligheidsonderzoeken betrokken ambtenaren ten behoeve van de taakuitoefening door de commissie van toezicht daaraan zijn verstrekt en aldaar berusten, zijn niet openbaar.   
 2.  Verzoeken om kennisneming of openbaarmaking van deze gegevens worden geweigerd.   
 3.   Artikel 44 is van overeenkomstige toepassing op de archiefbescheiden die berusten bij de commissie van toezicht, met dien verstande dat voor Onze betrokken Minister wordt gelezen: Onze betrokken Minister wie het aangaat.  
 
@@ -1025,10 +1025,10 @@ De artikelen 15 en 16 zijn van overeenkomstige toepassing op de commissie van to
 
 ### Artikel  83  
 
-1.  Een ieder heeft het recht bij de Nationale ombudsman een klacht in te dienen over het optreden of het vermeende optreden van Onze betrokken Ministers, de hoofden van de diensten, de coördinator, en de voor de diensten en de coördinator werkzame personen jegens een natuurlijke of rechtspersoon ter uitvoering van deze wet of de [Wet veiligheidsonderzoeken](../../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
+1.  Een ieder heeft het recht bij de Nationale ombudsman een klacht in te dienen over het optreden of het vermeende optreden van Onze betrokken Ministers, de hoofden van de diensten, de coördinator, en de voor de diensten en de coördinator werkzame personen jegens een natuurlijke of rechtspersoon ter uitvoering van deze wet of de Wet veiligheidsonderzoeken.   
 2.  Alvorens een klacht in te dienen bij de Nationale ombudsman, stelt de klager Onze betrokken Minister wie het aangaat in kennis van de klacht en stelt hij deze in de gelegenheid diens zienswijze daarop te geven.   
-3.  Onze betrokken Minister wint, alvorens zijn zienswijze als bedoeld in het tweede lid te geven, omtrent de klacht het advies in van de commissie van toezicht. [Afdeling 9.1.3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. In afwijking van [artikel 9:14, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan Onze betrokken Minister geen instructies geven aan de commissie van toezicht.   
-4. In klachtprocedures waarbij Onze betrokken Minister, onder zijn verantwoordelijkheid werkzame personen of de commissie van toezicht ingevolge [artikel 9:31 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken aan de Nationale ombudsman, blijft [artikel 9:31, vijfde en zesde lid, van die wet](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing. 
+3.  Onze betrokken Minister wint, alvorens zijn zienswijze als bedoeld in het tweede lid te geven, omtrent de klacht het advies in van de commissie van toezicht. Afdeling 9.1.3 van de Algemene wet bestuursrecht is van toepassing. In afwijking van artikel 9:14, tweede lid, van de Algemene wet bestuursrecht kan Onze betrokken Minister geen instructies geven aan de commissie van toezicht.   
+4. In klachtprocedures waarbij Onze betrokken Minister, onder zijn verantwoordelijkheid werkzame personen of de commissie van toezicht ingevolge artikel 9:31 van de Algemene wet bestuursrecht worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken aan de Nationale ombudsman, blijft artikel 9:31, vijfde en zesde lid, van die wet buiten toepassing. 
 5. Indien Onze betrokken Minister, onder zijn verantwoordelijkheid werkzame personen of de commissie van toezicht worden verplicht tot het overleggen van stukken, kan worden volstaan met het ter inzage geven van de desbetreffende stukken. Van de desbetreffende stukken mag op generlei wijze een afschrift worden vervaardigd.
 
 ### Artikel  84  
@@ -1044,8 +1044,8 @@ De artikelen 15 en 16 zijn van overeenkomstige toepassing op de commissie van to
 
 ### Artikel  85  
 
-1.  Onverminderd de [artikelen 98 tot en met 98c van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel de artikelen 104 tot en met 104c van het Wetboek van Strafrecht BES, is een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht. Deze verplichting duurt voort, nadat het betrokken zijn bij de uitvoering van deze wet is geëindigd.   
-2.   [Artikel 272, tweede lid, van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel artikel 285, tweede lid, van het Wetboek van Strafrecht BES is niet van toepassing in geval van handelen of nalaten in strijd met de in het eerste lid omschreven verplichting.  
+1.  Onverminderd de artikelen 98 tot en met 98c van het Wetboek van Strafrecht dan wel de artikelen 104 tot en met 104c van het Wetboek van Strafrecht BES, is een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht. Deze verplichting duurt voort, nadat het betrokken zijn bij de uitvoering van deze wet is geëindigd.   
+2.   Artikel 272, tweede lid, van het Wetboek van Strafrecht dan wel artikel 285, tweede lid, van het Wetboek van Strafrecht BES is niet van toepassing in geval van handelen of nalaten in strijd met de in het eerste lid omschreven verplichting.  
 
 ### Artikel  86  
 
@@ -1055,12 +1055,12 @@ De artikelen 15 en 16 zijn van overeenkomstige toepassing op de commissie van to
 
 ### Artikel  87  
 
-1.  In bestuursrechtelijke procedures inzake de toepassing van deze wet of de Wet veiligheidsonderzoeken waarbij Onze betrokken Minister of de commissie van toezicht door de rechtbank onderscheidenlijk het Gerecht of het Hof ingevolge [artikel 8:27](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [8:28](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [8:45 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk artikel 23, 28 en 29 van de Wet administratieve rechtspraak BES wordt verplicht tot het verstrekken van inlichtingen dan wel het overleggen van stukken, blijft [artikel 8:29, derde tot en met vijfde lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk artikel 24, derde tot en met vijfde lid, van de Wet administratieve rechtspraak BES buiten toepassing. Indien Onze betrokken Minister of de commissie van toezicht de rechtbank onderscheidenlijk het Gerecht of het Hof meedeelt dat uitsluitend zij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken, kan de rechtbank slechts met toestemming van de andere partijen mede op grondslag van die inlichtingen of stukken uitspraak doen. Indien Onze betrokken Minister of de commissie van toezicht het verstrekken van inlichtingen of het overleggen van stukken weigert kan de rechtbank onderscheidenlijk het Gerecht of het Hof daaruit de gevolgtrekkingen maken die hen geraden voorkomen.   
+1.  In bestuursrechtelijke procedures inzake de toepassing van deze wet of de Wet veiligheidsonderzoeken waarbij Onze betrokken Minister of de commissie van toezicht door de rechtbank onderscheidenlijk het Gerecht of het Hof ingevolge artikel 8:27, 8:28 of 8:45 van de Algemene wet bestuursrecht onderscheidenlijk artikel 23, 28 en 29 van de Wet administratieve rechtspraak BES wordt verplicht tot het verstrekken van inlichtingen dan wel het overleggen van stukken, blijft artikel 8:29, derde tot en met vijfde lid, van de Algemene wet bestuursrecht onderscheidenlijk artikel 24, derde tot en met vijfde lid, van de Wet administratieve rechtspraak BES buiten toepassing. Indien Onze betrokken Minister of de commissie van toezicht de rechtbank onderscheidenlijk het Gerecht of het Hof meedeelt dat uitsluitend zij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken, kan de rechtbank slechts met toestemming van de andere partijen mede op grondslag van die inlichtingen of stukken uitspraak doen. Indien Onze betrokken Minister of de commissie van toezicht het verstrekken van inlichtingen of het overleggen van stukken weigert kan de rechtbank onderscheidenlijk het Gerecht of het Hof daaruit de gevolgtrekkingen maken die hen geraden voorkomen.   
 2.  Indien door Onze betrokken Minister of de commissie van toezicht aan de rechtbank onderscheidenlijk het Gerecht of het Hof stukken dienen te worden overgelegd, kan worden volstaan met het ter inzage geven van de desbetreffende stukken. Van de desbetreffende stukken mag op generlei wijze een afschrift worden vervaardigd.  
 
 ### Artikel  88  
 
-Indien ten behoeve van de beslissing op een tegen een besluit van Onze betrokken Minister ingediend bezwaarschrift, een adviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is ingesteld, komt aan die commissie niet de bevoegdheid, bedoeld in [artikel 7:13, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toe, voor zover deze betrekking heeft op de beslissing over de toepassing van [artikel 7:4, zesde lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De uitoefening van deze bevoegdheid blijft voorbehouden aan Onze betrokken Minister. 
+Indien ten behoeve van de beslissing op een tegen een besluit van Onze betrokken Minister ingediend bezwaarschrift, een adviescommissie als bedoeld in artikel 7:13 van de Algemene wet bestuursrecht is ingesteld, komt aan die commissie niet de bevoegdheid, bedoeld in artikel 7:13, vierde lid, van de Algemene wet bestuursrecht toe, voor zover deze betrekking heeft op de beslissing over de toepassing van artikel 7:4, zesde lid, van de Algemene wet bestuursrecht. De uitoefening van deze bevoegdheid blijft voorbehouden aan Onze betrokken Minister. 
 
 ### Hoofdstuk  7a  
 
@@ -1072,7 +1072,7 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 ### Artikel  88b  
 
-Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba is de [Algemene wet op het binnentreden](../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) van toepassing. 
+Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba is de Algemene wet op het binnentreden van toepassing. 
 
 ### Artikel  88c  
 
@@ -1099,7 +1099,7 @@ Op gegevens verwerkt door of ten behoeve van inlichtingen- en veiligheidsdienste
 
 ### Artikel  91  
 
-De [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) dan wel het van toepassing zijnde bestuursrecht in de openbare lichamen Bonaire, Sint Eustatius en Saba, waaronder in ieder geval het recht dat voorziet in de verplichting tot bekendmaking van besluiten alsmede in de mogelijkheid van bezwaar en beroep daartegen, is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op grond van artikel 6, tweede lid, onder d en e, artikel 7, tweede lid, onder e en f, op grond van de hoofdstukken 3 en 5 in het kader van de uitvoering van de taken, bedoeld in artikel 6, tweede lid, onder a, c, d en e, en artikel 7, tweede lid, onder a, c, d, e en f, alsmede artikel 86, tweede lid, eerste volzin. 
+De Algemene wet bestuursrecht dan wel het van toepassing zijnde bestuursrecht in de openbare lichamen Bonaire, Sint Eustatius en Saba, waaronder in ieder geval het recht dat voorziet in de verplichting tot bekendmaking van besluiten alsmede in de mogelijkheid van bezwaar en beroep daartegen, is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op grond van artikel 6, tweede lid, onder d en e, artikel 7, tweede lid, onder e en f, op grond van de hoofdstukken 3 en 5 in het kader van de uitvoering van de taken, bedoeld in artikel 6, tweede lid, onder a, c, d en e, en artikel 7, tweede lid, onder a, c, d, e en f, alsmede artikel 86, tweede lid, eerste volzin. 
 
 ### Artikel  92  
 
@@ -1127,7 +1127,7 @@ Wijzigt de wet van 5 april 2001 tot wijziging van bepalingen met betrekking tot 
 
 ### Artikel  98  
 
-1.  Op verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met betrekking tot door of ten behoeve van de diensten verwerkte gegevens die zijn ingediend voor de inwerkingtreding van deze wet, blijven de bepalingen van [die wet](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) van toepassing.   
+1.  Op verzoeken om informatie op grond van de Wet openbaarheid van bestuur met betrekking tot door of ten behoeve van de diensten verwerkte gegevens die zijn ingediend voor de inwerkingtreding van deze wet, blijven de bepalingen van die wet van toepassing.   
 2.  Het eerste lid is van overeenkomstige toepassing, indien het verzoeken om informatie betreft met betrekking tot gegevens verwerkt door de coördinator of door inlichtingen- en veiligheidsdiensten die zijn opgeheven.  
 
 ### Artikel  99  
@@ -1148,7 +1148,7 @@ Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
 
 ### Artikel  103  
 
-De [Wet op de inlichtingen- en veiligheidsdiensten](../../../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md) wordt ingetrokken. 
+De Wet op de inlichtingen- en veiligheidsdiensten wordt ingetrokken. 
 
 ### Artikel  104  
 
