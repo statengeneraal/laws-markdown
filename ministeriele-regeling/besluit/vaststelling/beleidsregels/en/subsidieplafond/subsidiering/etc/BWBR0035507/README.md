@@ -165,7 +165,7 @@ M.b.t. subsidieverstrekking gelden de volgende uitgangspunten:
 
 * Activiteiten die vóór de beschikking van de aanvraag worden uitgevoerd ter voorbereiding van het project leiden niet tot weigering van de subsidie, maar de kosten daarvan komen niet voor subsidie in aanmerking.  
 
-* Organisaties die een instellingssubsidie ontvangen van het Ministerie van Buitenlandse Zaken kunnen geen subsidieaanvrager zijn noch deel uitmaken van een samenwerkingsverband. Het samenwerkingsverband kan wel buiten het samenwerkingsverband met dergelijke organisaties samenwerken bij de uitvoering van de activiteiten in te schakelen.  
+* Organisaties die een instellingssubsidie ontvangen van het Ministerie van Buitenlandse Zaken kunnen geen subsidieaanvrager namens het samenwerkingsverband zijn.  
 
 * Voor G4AW partnerlanden wordt maximaal 70% subsidie verstrekt over noodzakelijk gemaakte kosten en voor G4AW partnertransitielanden maximaal 60%.  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 mei 2008, nummer 2008-0000229974, directoraat-generaal Veiligheid, directie Politie, afdeling Arbeidsvoorwaardenbeleid;
 
-Gelet op [artikel 50, eerste lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op artikel 50, eerste lid, van de Politiewet 1993;
 
 De Raad van State gehoord (advies van 18 juni 2008, nr. W04.08.0203/I);
 
@@ -22,17 +22,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *ambtenaar:* de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+a. *ambtenaar:* de ambtenaar, bedoeld in artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie;  
 
-b. *aspirant:* de aspirant, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+b. *aspirant:* de aspirant, bedoeld in artikel 1, eerste lid, onderdeel b, van het Besluit algemene rechtspositie politie;  
 
-c. *bevoegd gezag:* het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+c. *bevoegd gezag:* het bevoegd gezag, bedoeld in artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie;  
 
-d. *LSOP:* Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 2, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
+d. *LSOP:* Landelijk selectie- en opleidingsinstituut politie, bedoeld in artikel 2, van de Wet op het LSOP en het politieonderwijs;  
 
 e. *Onze Minister:* Onze Minister van Veiligheid en Justitie;  
 
-f. *plaats van tewerkstelling:* de plaats van tewerkstelling, bedoeld in [artikel 1, eerste lid, onderdeel v, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).  
+f. *plaats van tewerkstelling:* de plaats van tewerkstelling, bedoeld in artikel 1, eerste lid, onderdeel v, van het Besluit algemene rechtspositie politie.  
 
 ### Artikel  2  
 
@@ -56,7 +56,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 a. de woning en de plaats van tewerkstelling;  
 
-b. de woning en de aangewezen meerdere plaatsen van tewerkstelling, indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen als bedoeld in [artikel 10, tweede lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+b. de woning en de aangewezen meerdere plaatsen van tewerkstelling, indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen als bedoeld in artikel 10, tweede lid, van het Besluit algemene rechtspositie politie;  
 
 c. de tijdelijke huisvesting en de plaats van tewerkstelling, indien aan de ambtenaar de verhuisplicht is opgelegd en hij tijdelijk elders is gehuisvest nabij zijn plaats van tewerkstelling;  
 
@@ -104,7 +104,7 @@ b. een tegemoetkoming voor eigen vervoer al of niet in combinatie met openbaar v
 3.  In afwijking van het eerste en tweede lid wordt aan de ambtenaar, die geleider is van een politiesurveillancehond of een politiespeurhond, die niet de beschikking heeft over een dienstvoertuig, en voor wie het noodzakelijk is dat hij in het kader van zijn dienstuitoefening met een politiesurveillancehond of een politiespeurhond met eigen vervoer reist, voor de afstand tussen de woning en de plaats van tewerkstelling of oefenterrein een tegemoetkoming van € 0,28 per afgelegde kilometer verstrekt.   
 4.  Indien één van de trajecten als bedoeld in artikel 3, eerste lid, leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.  
 5. Door vernummering vervallen. 
-6.  Bij ministeriële regeling kan in geval van een reorganisatie als bedoeld in [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), van de beperking van het maximum aantal kilometers enkele reis, zoals bedoeld in het tweede lid, worden afgeweken ter voorkoming van negatieve financiële gevolgen voor de ambtenaar. 
+6.  Bij ministeriële regeling kan in geval van een reorganisatie als bedoeld in hoofdstuk VII.b van het Besluit algemene rechtspositie politie, van de beperking van het maximum aantal kilometers enkele reis, zoals bedoeld in het tweede lid, worden afgeweken ter voorkoming van negatieve financiële gevolgen voor de ambtenaar. 
 
 ### Artikel  7  
 
@@ -113,7 +113,7 @@ b. een tegemoetkoming voor eigen vervoer al of niet in combinatie met openbaar v
 1.  Het bevoegd gezag bepaalt of de tegemoetkoming, bedoeld in artikel 6, als vaste tegemoetkoming per maand of als tegemoetkoming op declaratiebasis wordt toegekend.   
 2.  Bij de berekening van de vaste tegemoetkoming, bedoeld in het eerste lid, wordt bij een gemiddelde werkweek van vijf dagen uitgegaan van 206 werkdagen per kalenderjaar.   
 3.  Indien het aantal te werken dagen minder is dan vijf, wordt de vaste tegemoetkoming berekend naar rato.   
-4.  In het geval er sprake is van meerdere plaatsen van tewerkstelling, als bedoeld in [artikel 10, tweede lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt de vaste tegemoetkoming per dienst bepaald door een gemiddelde afstand die de ambtenaar in een periode van vier weken moet afleggen.   
+4.  In het geval er sprake is van meerdere plaatsen van tewerkstelling, als bedoeld in artikel 10, tweede lid, van het Besluit algemene rechtspositie politie wordt de vaste tegemoetkoming per dienst bepaald door een gemiddelde afstand die de ambtenaar in een periode van vier weken moet afleggen.   
 5.  Het bevoegd gezag kan van de termijn, bedoeld in het vierde lid, bij een aspirant, afwijken indien het meer voor de hand ligt om het gemiddelde per kwartiel te berekenen.   
 6.  De vaste tegemoetkoming wordt stopgezet: 
 
@@ -126,7 +126,7 @@ b. bij onvoorziene afwezigheid van zes weken of langer, veroorzaakt door arbeids
 
 ### Artikel  7a  
 
-De tegemoetkoming op grond van artikel 6 en de tegemoetkoming op grond van [artikel 64 Besluit algemene rechtspositie politie, derde en vierde lid](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), bedragen tezamen €0,28 cent per afgelegde meerkilometer. 
+De tegemoetkoming op grond van artikel 6 en de tegemoetkoming op grond van artikel 64 Besluit algemene rechtspositie politie, derde en vierde lid, bedragen tezamen €0,28 cent per afgelegde meerkilometer. 
 
 ### Hoofdstuk  III  
 
@@ -141,7 +141,7 @@ De tegemoetkoming op grond van artikel 6 en de tegemoetkoming op grond van [arti
 ####Dienstreis
 
 1.  Onder dienstreis wordt in deze paragraaf verstaan: het door de ambtenaar, in het kader van zijn werkzaamheden, reizen en verblijven binnen Nederland en buiten de plaats van tewerkstelling.   
-2.  Indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen op grond van [artikel 10, tweede lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), wordt wanneer de ambtenaar binnen één dienst reist tussen de aangewezen plaatsen van tewerkstelling, deze reis aangemerkt als dienstreis. De dienstreis eindigt in dit geval op het moment dat de ambtenaar zijn andere plaats van tewerkstelling heeft bereikt.   
+2.  Indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen op grond van artikel 10, tweede lid, van het Besluit algemene rechtspositie politie, wordt wanneer de ambtenaar binnen één dienst reist tussen de aangewezen plaatsen van tewerkstelling, deze reis aangemerkt als dienstreis. De dienstreis eindigt in dit geval op het moment dat de ambtenaar zijn andere plaats van tewerkstelling heeft bereikt.   
 3.  Dienstreizen die binnen Nederland zijn begonnen, waarbij het reisgedeelte buiten Nederland gering is, of waarbij de grensoverschrijding niet leidt tot uitgaven voor maaltijden of overnachting in het buitenland worden eveneens aangemerkt als dienstreis.  
 
 ### Artikel  9  
@@ -214,7 +214,7 @@ f. de ontbijtcomponent, mits de ambtenaar voor de dienstreis elders moet overnac
 
 ####Tewerkstelling elders (detachering)
 
-1.  Indien een ambtenaar overeenkomstig [artikel 62 van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt gedetacheerd en op een andere plaats van tewerkstelling werkzaam is, en indien dagelijks heen en weer reizen tussen de woning en de plaats van tijdelijke tewerkstelling naar het oordeel van het bevoegd gezag niet mogelijk is, heeft de ambtenaar aanspraak op vergoeding van kosten voor logies, welke gelijk is aan het bedrag van de werkelijke gemaakte kosten met een maximum van € 85,40 per dag, op basis van overgelegde bewijsstukken.   
+1.  Indien een ambtenaar overeenkomstig artikel 62 van het Besluit algemene rechtspositie politie wordt gedetacheerd en op een andere plaats van tewerkstelling werkzaam is, en indien dagelijks heen en weer reizen tussen de woning en de plaats van tijdelijke tewerkstelling naar het oordeel van het bevoegd gezag niet mogelijk is, heeft de ambtenaar aanspraak op vergoeding van kosten voor logies, welke gelijk is aan het bedrag van de werkelijke gemaakte kosten met een maximum van € 85,40 per dag, op basis van overgelegde bewijsstukken.   
 2.  In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in artikel 13 van dit besluit.   
 3.  De ambtenaar, bedoeld in het eerste lid, heeft maximaal eenmaal per week aanspraak op een tegemoetkoming in de reiskosten naar zijn oorspronkelijke woning. De tegemoetkoming is gelijk aan de kosten voor openbaar vervoer in de tweede vervoersklasse of, bij gebruik van eigen vervoer € 0,18 per kilometer.   
 4.  Indien de ambtenaar een vervoersbewijs wenst op basis van eerste klasse of indien de ambtenaar een vervoersbewijs wenst welke ruimere mogelijkheden biedt dan bedoeld in het derde lid, komen de meerkosten hiervan voor rekening van de ambtenaar.  
@@ -373,11 +373,11 @@ Artikel 15 is van overeenkomstige toepassing.
 
 a. *eigen huishouding voeren:* het zelfstandig bewonen van woonruimte, voorzien van eigen meubilair en stoffering;  
 
-b. *voor het eerst aangesteld:* aangesteld bij het landelijk politiekorps, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), bij de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), of bij het LSOP, anders dan in geval van overgang binnen één maand: 
+b. *voor het eerst aangesteld:* aangesteld bij het landelijk politiekorps, bedoeld in artikel 25, eerste lid, van de Politiewet 2012, bij de rijksrecherche, bedoeld in artikel 49, eerste lid, van de Politiewet 2012, of bij het LSOP, anders dan in geval van overgang binnen één maand: 
 
 1. van de ene naar de andere hiervoor genoemde (politie)organisatie;  
 
-2. van een andere overheidsdienst of een door het Rijk bekostigde onderwijsinstelling naar het landelijk politiekorps, bedoeld in [artikel 25, eerste lid van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), de rijksrecherche of het LSOP.     
+2. van een andere overheidsdienst of een door het Rijk bekostigde onderwijsinstelling naar het landelijk politiekorps, bedoeld in artikel 25, eerste lid van de Politiewet 2012, de rijksrecherche of het LSOP.     
 2.  Voor de toepassing van dit hoofdstuk wordt onder de echtgenote of echtgenoot mede verstaan: de geregistreerde partner of de levenspartner met wie de niet-gehuwde ambtenaar samenwoont – en met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding.  
 
 ### Artikel  27  
@@ -436,9 +436,9 @@ b. de tegemoetkoming bedraagt maximaal € 5.445,00.
 
 ####Berekeningsbasis en berekeningstijdstip
 
-1.  De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in artikel 29, is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.   
+1.  De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in artikel 29, is het twaalfvoud van de bezoldiging in de zin van het Besluit bezoldiging politie die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in artikel 23 van het Besluit bezoldiging politie, en de eindejaarsuitkering, bedoeld in artikel 25b van het Besluit bezoldiging politie. Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.   
 2.  Het berekeningstijdstip voor de tegemoetkoming in de verhuiskosten is de datum waarop de ambtenaar verhuist óf, als de ambtenaar is verhuisd vóór de datum dat de functie feitelijk wordt vervuld, de datum van ingang van de functievervulling óf bij het overlijden dan wel ontslag van de ambtenaar de datum waarop laatstelijk bezoldiging werd genoten.   
-3.  Voor de toepassing van de in het eerste lid bedoelde berekeningsbasis wordt, indien de ambtenaar een toelage geniet als bedoeld in de [artikelen 14](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), [15](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) of [18 van het Besluit bezoldiging politie](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) dit bezoldigingsdeel vastgesteld op het bedrag dat de ambtenaar gedurende de drie kalendermaanden voorafgaande aan het berekeningstijdstip gemiddeld per maand aan deze toelagen heeft genoten.   
+3.  Voor de toepassing van de in het eerste lid bedoelde berekeningsbasis wordt, indien de ambtenaar een toelage geniet als bedoeld in de artikelen 14, 15 of 18 van het Besluit bezoldiging politie dit bezoldigingsdeel vastgesteld op het bedrag dat de ambtenaar gedurende de drie kalendermaanden voorafgaande aan het berekeningstijdstip gemiddeld per maand aan deze toelagen heeft genoten.   
 4.  Indien de ambtenaar en zijn echtgenoot of echtgenote beiden in aanmerking komen voor een tegemoetkoming in de verhuiskosten, wordt aan beide echtgenoten een evenredig deel van de tegemoetkoming toegekend, berekend over het gemiddelde van de gezamenlijke berekeningsgrondslag.   
 5.  De tegemoetkoming in de verhuiskosten op grond van dit besluit, wordt voor de ambtenaar die voor het eerst is aangesteld, verminderd met 50%.  
 
@@ -458,7 +458,7 @@ b. de tegemoetkoming bedraagt maximaal € 5.445,00.
 
 ####Tijdelijke tegemoetkoming dubbele woonlasten politiechef
 
-1.  In aanvulling op [artikelen 29 tot en met 31](../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in artikel 27, tweede lid, wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.   
+1.  In aanvulling op artikelen 29 tot en met 31, omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in artikel 1, eerste lid, onderdeel h, van de Politiewet 2012, welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in artikel 27, tweede lid, wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.   
 2.  De tegemoetkoming bestaat uit het bedrag van de daadwerkelijk gemaakte kosten van de huisvesting en bedraagt het eerste jaar ten hoogste 18% en het tweede jaar ten hoogste 15% van de bezoldiging met een maximum van € 1.552,79 per maand.   
 3.  Onder de daadwerkelijk gemaakte kosten van de huisvesting, bedoeld in het tweede lid, worden verstaan: 
 
@@ -479,19 +479,19 @@ b. de woning waar de politiechef tot zijn aanstelling woonde kenbaar in de verko
 
 ### Artikel  32  
 
-####Wijziging [Besluit bezoldiging politie](../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md)
+####Wijziging Besluit bezoldiging politie
 
 Wijzigt het Besluit bezoldiging politie. 
 
 ### Artikel  33  
 
-####Wijziging [Besluit Bovenwettelijke werkloosheidsuitkering politie](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsuitkering/politie/BWBR0012022/README.md)
+####Wijziging Besluit Bovenwettelijke werkloosheidsuitkering politie
 
 Wijzigt het Besluit bovenwettelijke werkloosheidsuitkering politie. 
 
 ### Artikel  34  
 
-####Wijziging [Besluit rechtspositie vrijwillige politie](../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md)
+####Wijziging Besluit rechtspositie vrijwillige politie
 
 Wijzigt het Besluit rechtspositie vrijwillige politie. 
 
@@ -533,11 +533,11 @@ Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het 
 
 ### Artikel  38a  
 
-Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
+Dit besluit berust op artikel 47, eerste lid, van de Politiewet 2012. 
 
 ### Artikel  39  
 
-Het [Besluit vergoeding verplaatsingskosten politie](../../../../../../../../AMvB/besluit/vergoeding/verplaatsingskosten/politie/BWBR0006520/README.md) en het [Besluit vergoeding dienstreizen politie](../../../../../../../../AMvB/besluit/vergoeding/dienstreizen/politie/BWBR0006519/README.md) worden ingetrokken. 
+Het Besluit vergoeding verplaatsingskosten politie en het Besluit vergoeding dienstreizen politie worden ingetrokken. 
 
 ### Artikel  40  
 

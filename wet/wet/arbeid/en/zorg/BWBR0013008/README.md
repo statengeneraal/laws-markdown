@@ -22,21 +22,21 @@ a. werkgever: degene die een ander krachtens arbeidsovereenkomst naar burgerlijk
 
 b. werknemer: de ander, bedoeld in onderdeel a;  
 
-c.winst uit onderneming: de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de MKB-winstvrijstelling, bedoeld in [paragraaf 3.2.5, van die wet](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+c.winst uit onderneming: de belastbare winst uit onderneming, bedoeld in paragraaf 3.2.1 van de Wet inkomstenbelasting 2001, vermeerderd met de ondernemersaftrek, bedoeld in paragraaf 3.2.4 van die wet, en de MKB-winstvrijstelling, bedoeld in paragraaf 3.2.5, van die wet;
 
-d.dienstbetrekking: een dienstbetrekking in de zin van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);
+d.dienstbetrekking: een dienstbetrekking in de zin van de Ziektewet;
 
-e.aanmerkelijk belang: aanmerkelijk belang, als bedoeld in [hoofdstuk 4, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+e.aanmerkelijk belang: aanmerkelijk belang, als bedoeld in hoofdstuk 4, van de Wet inkomstenbelasting 2001;
 
 f.inkomsten uit tegenwoordige arbeid: het gezamenlijke bedrag van:
 
-1°.het belastbaar loon uit tegenwoordige arbeid, bedoeld in [afdeling 3.3, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+1°.het belastbaar loon uit tegenwoordige arbeid, bedoeld in afdeling 3.3, van de Wet inkomstenbelasting 2001;
 
-2°.het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+2°.het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in afdeling 7.2, van de Wet inkomstenbelasting 2001;
 
-3°.het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [3.92 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); en
+3°.het belastbaar resultaat uit overige werkzaamheden, bedoeld in afdeling 3.4 van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001; en
 
-4°.het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [3.92 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
+4°.het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in afdeling 7.2, van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001. 
 
 ####Het begrip loon
 
@@ -51,13 +51,13 @@ f.inkomsten uit tegenwoordige arbeid: het gezamenlijke bedrag van:
 
 1.  Voor de toepassing van deze wet wordt verstaan onder: 
 
-a. Arbeidsongeschiktheidsfonds: het fonds, bedoeld in [artikel 112 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+a. Arbeidsongeschiktheidsfonds: het fonds, bedoeld in artikel 112 van de Wet financiering sociale verzekeringen;  
 
-b. Algemeen Werkloosheidsfonds: het fonds, bedoeld in [artikel 93 van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+b. Algemeen Werkloosheidsfonds: het fonds, bedoeld in artikel 93 van de Wet financiering sociale verzekeringen;  
 
-c. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+c. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-d. militaire ambtenaar: de militaire ambtenaar, bedoeld in [artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);  
+d. militaire ambtenaar: de militaire ambtenaar, bedoeld in artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931;  
 
 e. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid.     
 2.  Voor de toepassing van deze wet is sprake van ongehuwd samenwonen als twee ongehuwde personen een gezamenlijke huishouding voeren. Van een gezamenlijke huishouding als bedoeld in de eerste volzin is sprake indien de betrokkenen hun hoofdverblijf hebben in dezelfde woning en blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding danwel op andere wijze in elkaars verzorging voorzien.  
@@ -100,7 +100,7 @@ Voor de toepassing van de artikelen 4:7 en 5:16 geldt een afwijkende regeling do
 1.  De vrouwelijke werknemer heeft in verband met haar bevalling recht op zwangerschaps- en bevallingsverlof.   
 2.  Het recht op zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een aan de werkgever overgelegde schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.   
 3.  Het bevallingsverlof gaat in op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.   
-4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke werknemer op grond van [artikel 29a, tweede lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) ziekengeld heeft genoten in de periode dat zij recht heeft op zwangerschapsverlof, maar dat verlof nog niet is ingegaan, aangemerkt als dagen waarover zij zwangerschapsverlof heeft genoten.  
+4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke werknemer op grond van artikel 29a, tweede lid, van de Ziektewet ziekengeld heeft genoten in de periode dat zij recht heeft op zwangerschapsverlof, maar dat verlof nog niet is ingegaan, aangemerkt als dagen waarover zij zwangerschapsverlof heeft genoten.  
 
 ####Adoptieverlof
 
@@ -143,7 +143,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 ### Artikel  3:5  
 
 1.  Behoudens het tweede lid kan van deze afdeling niet ten nadele van de werknemer worden afgeweken.   
-2.  In geval van buitengewone omstandigheden als bedoeld in de [Coördinatiewet uitzonderingstoestanden](../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan Onze Minister van Defensie voor de militaire ambtenaar afwijken of doen afwijken van de artikelen 3:1 en 3:2.  
+2.  In geval van buitengewone omstandigheden als bedoeld in de Coördinatiewet uitzonderingstoestanden kan Onze Minister van Defensie voor de militaire ambtenaar afwijken of doen afwijken van de artikelen 3:1 en 3:2.  
 
 ### Afdeling  2  
 
@@ -159,20 +159,20 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 1.  Voor de toepassing van deze paragraaf wordt verstaan onder: 
 
-a. werknemer: de werknemer, bedoeld in artikel 1:1, onderdeel b, met uitzondering van degene die op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) geen werknemer in de zin van die [wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) is;  
+a. werknemer: de werknemer, bedoeld in artikel 1:1, onderdeel b, met uitzondering van degene die op grond van de Eerste Afdeling, Paragraaf 2, van de Ziektewet geen werknemer in de zin van die wet is;  
 
 b. gelijkgestelde: degene die geen werknemer is als bedoeld in artikel 1:1, onderdeel b, doch
 
-1°.op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), met uitzondering van [artikel 8a](../../../../../../wet/ziektewet/BWBR0001888/README.md), wel werknemer in de zin van [die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) is, of
+1°.op grond van de Eerste Afdeling, Paragraaf 2, van de Ziektewet, met uitzondering van artikel 8a, wel werknemer in de zin van die wet is, of
 
-2°.op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) recht heeft op de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten;  
+2°.op grond van hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen recht heeft op de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten;  
 
-c. werkgever: de werkgever, bedoeld in artikel 1:1, onderdeel a, of de [artikelen 10](../../../../../../wet/ziektewet/BWBR0001888/README.md), [11](../../../../../../wet/ziektewet/BWBR0001888/README.md) of [12 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md).     
+c. werkgever: de werkgever, bedoeld in artikel 1:1, onderdeel a, of de artikelen 10, 11 of 12 van de Ziektewet.     
 2.  Voor de toepassing van deze paragraaf wordt mede verstaan onder: 
 
-a. werknemer: de werknemer, bedoeld in artikel 1:1, onderdeel b, die vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+a. werknemer: de werknemer, bedoeld in artikel 1:1, onderdeel b, die vrijwillig verzekerd is als bedoeld in de Tweede Afdeling, Hoofdstuk IV, van de Ziektewet;  
 
-b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch wel vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md).    
+b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch wel vrijwillig verzekerd is als bedoeld in de Tweede Afdeling, Hoofdstuk IV, van de Ziektewet.    
 
 ####Recht op uitkering voor de werknemer
 
@@ -234,11 +234,11 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 ### Artikel  3:13  
 
 1.  De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.   
-2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening op grond van de [artikelen 15 en van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen waarbij de periode van één jaar, bedoeld in artikel 15 van die wet, voor de toepassing van deze wet eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de uitkering op grond deze wet ingaat.   
-3.  Voor de gelijkgestelde, bedoeld in artikel 3:6 eerste lid, onderdeel b, onder 1°, die op grond van [artikel 8, onder a, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) voorafgaand aan een uitkering op grond van deze wet ziekengeld ontving, is het dagloon gelijk aan het reeds ten behoeve daarvan vastgestelde en herziene dagloon.   
-4.  Indien voor de gelijkgestelde, bedoeld in het derde lid, [artikel 31 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) werd toegepast vanwege ander inkomen dan uit de dienstbetrekking, op grond waarvan het recht op ziekengeld is ontstaan, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/A van het ziekengeld per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet, waarbij A staat voor het uitkeringspercentage van uitkering op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md).   
-5.  Voor de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, is het dagloon, in afwijking van het tweede lid, gelijk aan het op grond van [artikel 13 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en de daarop berustende bepalingen reeds vastgestelde en herziene dagloon. Indien voor de gelijkgestelde, bedoeld in de eerste zin, bij het vaststellen van de hoogte van de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van [artikel 61 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) rekening werd gehouden met inkomen, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/70 van het bedrag van die uitkering per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet.  
-6.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig [artikel 68 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de regels op grond van [artikel 71, onderdeel c, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md). 
+2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening op grond van de artikelen 15 en van de Ziektewet en de daarop berustende bepalingen waarbij de periode van één jaar, bedoeld in artikel 15 van die wet, voor de toepassing van deze wet eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de uitkering op grond deze wet ingaat.   
+3.  Voor de gelijkgestelde, bedoeld in artikel 3:6 eerste lid, onderdeel b, onder 1°, die op grond van artikel 8, onder a, van de Ziektewet voorafgaand aan een uitkering op grond van deze wet ziekengeld ontving, is het dagloon gelijk aan het reeds ten behoeve daarvan vastgestelde en herziene dagloon.   
+4.  Indien voor de gelijkgestelde, bedoeld in het derde lid, artikel 31 van de Ziektewet werd toegepast vanwege ander inkomen dan uit de dienstbetrekking, op grond waarvan het recht op ziekengeld is ontstaan, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/A van het ziekengeld per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet, waarbij A staat voor het uitkeringspercentage van uitkering op grond van de Ziektewet.   
+5.  Voor de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, is het dagloon, in afwijking van het tweede lid, gelijk aan het op grond van artikel 13 van de Wet werk en inkomen naar arbeidsvermogen en de daarop berustende bepalingen reeds vastgestelde en herziene dagloon. Indien voor de gelijkgestelde, bedoeld in de eerste zin, bij het vaststellen van de hoogte van de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van artikel 61 van de Wet werk en inkomen naar arbeidsvermogen rekening werd gehouden met inkomen, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/70 van het bedrag van die uitkering per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet.  
+6.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig artikel 68 van de Ziektewet en de regels op grond van artikel 71, onderdeel c, van die wet. 
 
 ####De uitbetaling van de uitkering
 
@@ -246,7 +246,7 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 1.  De betaling geschiedt als regel in tijdvakken van een maand.   
 2.  De uitkering wordt betaald over iedere dag, doch niet over de zaterdagen en de zondagen.   
-3.  De artikelen [40](../../../../../../wet/ziektewet/BWBR0001888/README.md), [41](../../../../../../wet/ziektewet/BWBR0001888/README.md), [47a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [48](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [85 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) zijn van overeenkomstige toepassing.  
+3.  De artikelen 40, 41, 47a, 48 en 85 van de Ziektewet zijn van overeenkomstige toepassing.  
 
 ### Artikel  3:14a  
 
@@ -261,48 +261,48 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 ###Artikel 3:15 
 
-De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten met betrekking tot die uitkeringen komen ten laste van het Algemeen Werkloosheidsfonds met uitzondering van hetgeen op grond van [artikel 108, eerste lid, onderdelen c en d, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) ten laste komt van het Uitvoeringsfonds voor de overheid, bedoeld in [artikel 106 van die wet](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).
+De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten met betrekking tot die uitkeringen komen ten laste van het Algemeen Werkloosheidsfonds met uitzondering van hetgeen op grond van artikel 108, eerste lid, onderdelen c en d, van de Wet financiering sociale verzekeringen ten laste komt van het Uitvoeringsfonds voor de overheid, bedoeld in artikel 106 van die wet.
 
 ####Van overeenkomstige toepassing zijnde artikelen
 
 ### Artikel  3:16  
 
-1.  Met betrekking tot een uitkering op grond van deze paragraaf zijn de volgende artikelen van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de op die artikelen berustende bepalingen van overeenkomstige toepassing: 
+1.  Met betrekking tot een uitkering op grond van deze paragraaf zijn de volgende artikelen van de Ziektewet en de op die artikelen berustende bepalingen van overeenkomstige toepassing: 
 
-a. ter zake van het recht op uitkering: de [artikelen 19a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [19b](../../../../../../wet/ziektewet/BWBR0001888/README.md), [19c](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [87](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+a. ter zake van het recht op uitkering: de artikelen 19a, 19b, 19c en 87;  
 
-b. ter zake van herziening of intrekking: [artikel 30a](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+b. ter zake van herziening of intrekking: artikel 30a;  
 
-c. ter zake van overlijden: de [artikelen 1, tweede tot en met zevende lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [35](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+c. ter zake van overlijden: de artikelen 1, tweede tot en met zevende lid, en 35;  
 
-d. ter zake van oproeping en ondervraging: [artikel 37](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+d. ter zake van oproeping en ondervraging: artikel 37;  
 
-e. ter zake van ontheffing in verband met gemoedsbezwaren: [artikel 43](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+e. ter zake van ontheffing in verband met gemoedsbezwaren: artikel 43;  
 
-f. ter zake van maatregelen: [artikel 45, eerste lid, onderdelen e, h, i en j, en tweede tot en met zesde lid](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+f. ter zake van maatregelen: artikel 45, eerste lid, onderdelen e, h, i en j, en tweede tot en met zesde lid;  
 
-g. ter zake van de inlichtingenverplichting: [artikel 49](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+g. ter zake van de inlichtingenverplichting: artikel 49;  
 
-h. ter zake van de uitvoering: de [artikelen 51](../../../../../../wet/ziektewet/BWBR0001888/README.md), [53 tot en met 55](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [59](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+h. ter zake van de uitvoering: de artikelen 51, 53 tot en met 55 en 59;  
 
-i. ter zake van de termijn waarbinnen op het bezwaarschrift moet zijn beslist: [artikel 74](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+i. ter zake van de termijn waarbinnen op het bezwaarschrift moet zijn beslist: artikel 74;  
 
-j. ter zake van het beroep in cassatie: [artikel 75c](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+j. ter zake van het beroep in cassatie: artikel 75c;  
 
 k. vervallen;  
 
-l. ter zake van de toepasselijkheid van de [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md): [artikel 89](../../../../../../wet/ziektewet/BWBR0001888/README.md); 
+l. ter zake van de toepasselijkheid van de Algemene termijnenwet: artikel 89; 
 
-m.ter zake van terugvordering: de [artikelen 33 tot en met 34a](../../../../../../wet/ziektewet/BWBR0001888/README.md);
+m.ter zake van terugvordering: de artikelen 33 tot en met 34a;
 
-n.ter zake van vervreemding, verpanding en volmacht tot ontvangst: [artikel 50](../../../../../../wet/ziektewet/BWBR0001888/README.md);
+n.ter zake van vervreemding, verpanding en volmacht tot ontvangst: artikel 50;
 
-o. ter zake van bestuurlijke boeten: de [artikelen 45a](../../../../../../wet/ziektewet/BWBR0001888/README.md), [45g](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [45h](../../../../../../wet/ziektewet/BWBR0001888/README.md); 
+o. ter zake van bestuurlijke boeten: de artikelen 45a, 45g en 45h; 
 
-p. ter zake van het afzien van het horen van de belanghebbende: [artikel 72d](../../../../../../wet/ziektewet/BWBR0001888/README.md).    
-2.  De strafbepaling van [artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing.   
-3.  In afwijking van het eerste lid, is op de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, [artikel 43 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing.   
-4.   [Artikel 35, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) is van overeenkomstige toepassing ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd.  
+p. ter zake van het afzien van het horen van de belanghebbende: artikel 72d.    
+2.  De strafbepaling van artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen is van overeenkomstige toepassing.   
+3.  In afwijking van het eerste lid, is op de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, artikel 43 van de Ziektewet niet van overeenkomstige toepassing en zijn van artikel 55 van de Ziektewet alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing.   
+4.   Artikel 35, derde lid, van de Ziektewet is van overeenkomstige toepassing ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd.  
 
 ### §  2  
 
@@ -314,13 +314,13 @@ p. ter zake van het afzien van het horen van de belanghebbende: [artikel 72d](..
 
 1. Voor de toepassing van deze paragraaf wordt verstaan onder:
 
-a.beroepsbeoefenaar op arbeidsovereenkomst: de werknemer, bedoeld in artikel 1:1, onderdeel b, die op grond van [artikel 6, eerste lid, onderdeel c, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), geen werknemer in de zin van [die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) is;
+a.beroepsbeoefenaar op arbeidsovereenkomst: de werknemer, bedoeld in artikel 1:1, onderdeel b, die op grond van artikel 6, eerste lid, onderdeel c, van de Ziektewet, geen werknemer in de zin van die wet is;
 
-b.zelfstandige: de persoon die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, die:
+b.zelfstandige: de persoon die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, die:
 
 1°.in Nederland woont en die winst uit onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
 
-2°.niet in Nederland woont en die belastbare winst uit onderneming geniet als bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
+2°.niet in Nederland woont en die belastbare winst uit onderneming geniet als bedoeld in afdeling 7.2, van de Wet inkomstenbelasting 2001, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
 
 3°.anders dan uit dienstbetrekking inkomsten uit tegenwoordige arbeid geniet;
 
@@ -340,12 +340,12 @@ b.zelfstandige: de persoon die de pensioengerechtigde leeftijd, bedoeld in [arti
 3. Het recht op uitkering in verband met zwangerschap vangt aan zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Indien de vrouwelijke zelfstandige dat wenst, vangt het recht op uitkering in verband met zwangerschap aan op een later tijdstip, doch uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.
 4. Het recht op uitkering in verband met bevalling vangt aan op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat de uitkering in verband met zwangerschap tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.
 5. Voor de toepassing van het vierde lid worden dagen waarover de vrouwelijke zelfstandige ziekengeld heeft genoten in de periode dat zij recht heeft op uitkering in verband met zwangerschap maar die uitkering nog niet is ingegaan, aangemerkt als dagen waarover zij uitkering in verband met zwangerschap heeft genoten.
-6. Geen recht op uitkering heeft de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onderdeel a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)
+6. Geen recht op uitkering heeft de vreemdeling die niet rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onderdeel a tot en met e en l, van de Vreemdelingenwet 2000
 7. Bij algemene maatregel van bestuur kan worden afgeweken van het zesde lid ten aanzien van:
 
 a.vreemdelingen die rechtmatig in Nederland arbeid verrichten, dan wel hebben verricht;
 
-b.vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig in Nederland verblijf hebben als bedoeld in [artikel 8, onder g of h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).
+b.vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000 rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.
 8. Zo nodig in afwijking van het zesde en het zevende lid en de daarop berustende bepalingen, bestaat recht op een uitkering voor de persoon voor wie dit recht voortvloeit uit de toepassing van bepalingen van een verdrag of van een besluit van een volkenrechtelijke organisatie en bestaat geen recht op een uitkering voor de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
 9. Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het zesde lid en van artikel 3:17, eerste lid, uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden.
 
@@ -377,15 +377,15 @@ c.of zij de uitkering wil genieten in de vorm van een uitkering ter zake van ver
 
 ### Artikel  3:23  
 
-1.  De uitkering in verband met zwangerschap en bevalling wordt overeenkomstig [artikel 8 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) berekend naar de grondslag met dien verstande dat bij de overeenkomstige toepassing van het [derde lid van dat artikel](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) voor «intreden van zijn arbeidsongeschiktheid als beroepsbeoefenaar» wordt gelezen: de ingangsdatum van het recht op uitkering.   
+1.  De uitkering in verband met zwangerschap en bevalling wordt overeenkomstig artikel 8 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen berekend naar de grondslag met dien verstande dat bij de overeenkomstige toepassing van het derde lid van dat artikel voor «intreden van zijn arbeidsongeschiktheid als beroepsbeoefenaar» wordt gelezen: de ingangsdatum van het recht op uitkering.   
 2.  De uitkering, bedoeld in het eerste lid, bedraagt per dag 100% van de grondslag.  
-3. Zo nodig in afwijking van het tweede lid en van artikel 3:29, derde lid, onder b, bedraagt de uitkering in verband met zwangerschap en bevalling 100% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), indien de vrouwelijke zelfstandige in het kalenderjaar voorafgaand aan het jaar waarin het recht op uitkering ontstaat als zelfstandige, aan werkzaamheden voor één of meer ondernemingen tenminste het aantal uren heeft besteed dat is vermeld in [artikel 3.6, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).
+3. Zo nodig in afwijking van het tweede lid en van artikel 3:29, derde lid, onder b, bedraagt de uitkering in verband met zwangerschap en bevalling 100% van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, indien de vrouwelijke zelfstandige in het kalenderjaar voorafgaand aan het jaar waarin het recht op uitkering ontstaat als zelfstandige, aan werkzaamheden voor één of meer ondernemingen tenminste het aantal uren heeft besteed dat is vermeld in artikel 3.6, eerste lid, van de Wet inkomstenbelasting 2001.
 
 ####De hoogte van de uitkering terzake van vervanging
 
 ### Artikel  3:24  
 
-De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in artikel 3:23, eerste lid, vermeerderd met het bedrag aan premies en aan inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn. 
+De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in artikel 3:23, eerste lid, vermeerderd met het bedrag aan premies en aan inkomensafhankelijke bijdrage als bedoeld in artikel 42 van de Zorgverzekeringswet, dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn. 
 
 ####De uitbetaling van de uitkering
 
@@ -394,7 +394,7 @@ De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in artikel 3
 1.  De betaling geschiedt als regel in tijdvakken van een maand.   
 2.  De uitkering wordt betaald over iedere dag, doch niet over de zaterdagen en de zondagen.   
 3.  De uitkering ter zake van vervanging wordt uitbetaald aan de instelling bedoeld in artikel 3:21, tweede lid, onderdeel b.   
-4.  De [artikelen 55, tweede tot en met vijfde lid](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [55a](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [57](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [62](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [66 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) zijn van overeenkomstige toepassing.  
+4.  De artikelen 55, tweede tot en met vijfde lid, 55a, 57, 62 en 66 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen zijn van overeenkomstige toepassing.  
 
 ####Financiering
 
@@ -406,44 +406,44 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 ### Artikel  3:27  
 
-1.  Met betrekking tot een uitkering op grond van deze paragraaf zijn de volgende artikelen van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en de op die artikelen berustende bepalingen van overeenkomstige toepassing: 
+1.  Met betrekking tot een uitkering op grond van deze paragraaf zijn de volgende artikelen van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de op die artikelen berustende bepalingen van overeenkomstige toepassing: 
 
-a. ter zake van het recht op uitkering: de [artikelen 7a](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [7b](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [7c](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [19, vierde en vijfde lid](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [19a](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [21a](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [21b](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [21c](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [101g](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+a. ter zake van het recht op uitkering: de artikelen 7a, 7b, 7c, 19, vierde en vijfde lid, 19a, 21a, 21b, 21c en 101g;  
 
-b. ter zake van herziening of intrekking: [artikel 18](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+b. ter zake van herziening of intrekking: artikel 18;  
 
-c. ter zake van de vakantie-uitkering: de [artikelen 25 tot en met 27](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [40](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [60](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+c. ter zake van de vakantie-uitkering: de artikelen 25 tot en met 27, 40 en 60;  
 
-d. ter zake van oproeping en ondervraging: de [artikelen 41, eerste lid](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en [42](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+d. ter zake van oproeping en ondervraging: de artikelen 41, eerste lid, en 42;  
 
-e. ter zake van maatregelen: de [artikelen 45](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [46, onderdeel d](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en [47](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+e. ter zake van maatregelen: de artikelen 45, 46, onderdeel d, en 47;  
 
-f. ter zake van de inlichtingenverplichting: [artikel 70](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+f. ter zake van de inlichtingenverplichting: artikel 70;  
 
-g. ter zake van de uitvoering: [artikel 81](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+g. ter zake van de uitvoering: artikel 81;  
 
-h. ter zake van de termijn waarbinnen op het bezwaarschrift moet zijn beslist: [artikel 96, eerste lid](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+h. ter zake van de termijn waarbinnen op het bezwaarschrift moet zijn beslist: artikel 96, eerste lid;  
 
-i. ter zake van het beroep in cassatie: [artikel 98](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+i. ter zake van het beroep in cassatie: artikel 98;  
 
 j. vervallen;  
 
-k.ter zake van terugvordering: [artikel 63](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), met dien verstande dat bij algemene maatregel van bestuur kan worden bepaald dat, in afwijking van het eerste lid van dat artikel, onder bij dat besluit te bepalen omstandigheden, een uitkering ter zake van vervanging niet wordt teruggevorderd;
+k.ter zake van terugvordering: artikel 63, met dien verstande dat bij algemene maatregel van bestuur kan worden bepaald dat, in afwijking van het eerste lid van dat artikel, onder bij dat besluit te bepalen omstandigheden, een uitkering ter zake van vervanging niet wordt teruggevorderd;
 
-l.ter zake van vervreemding, verpanding en volmacht tot ontvangst: [artikel 66](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);
+l.ter zake van vervreemding, verpanding en volmacht tot ontvangst: artikel 66;
 
-m. ter zake van bestuurlijke boeten: de [artikelen 48](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [54](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [54a](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);
+m. ter zake van bestuurlijke boeten: de artikelen 48, 54 en 54a;
 
-n. ter zake van het afzien van het horen van de belanghebbende: [artikel 95b](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md).    
-2.  De strafbepaling van [artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing.   
-3.   [Artikel 56 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) is van overeenkomstige toepassing op een uitkering op grond van deze paragraaf met uitzondering van de uitkering ter zake van vervanging.   
-4.  Ter zake van overlijden zijn de [artikelen 1, tweede tot en met zevende lid](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [61](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [67, onderdeel b, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) van overeenkomstige toepassing met dien verstande dat: 
+n. ter zake van het afzien van het horen van de belanghebbende: artikel 95b.    
+2.  De strafbepaling van artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen is van overeenkomstige toepassing.   
+3.   Artikel 56 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen is van overeenkomstige toepassing op een uitkering op grond van deze paragraaf met uitzondering van de uitkering ter zake van vervanging.   
+4.  Ter zake van overlijden zijn de artikelen 1, tweede tot en met zevende lid, 61 en 67, onderdeel b, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen van overeenkomstige toepassing met dien verstande dat: 
 
-a. het [derde lid van artikel 61](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) wordt toegepast ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd;   
+a. het derde lid van artikel 61 wordt toegepast ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd;   
 
-b. indien een uitkering is toegekend in de vorm van een uitkering ter zake van vervanging, de overlijdensuitkering wordt betaald overeenkomstig het [eerste lid van artikel 61](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), als was de uitkering toegekend als uitkering in verband met zwangerschap en bevalling of adoptie. Het [zevende lid van artikel 61](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) blijft daarbij buiten toepassing.     
-5.  Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 45 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) indien de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst of de vrouwelijke zelfstandige zich niet houdt aan het voorschrift, bedoeld in artikel 3:22, eerste lid.   
-6.  Op de instelling, bedoeld in artikel 3:21, tweede lid, onderdeel b, is [artikel 70, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) van overeenkomstige toepassing.  
+b. indien een uitkering is toegekend in de vorm van een uitkering ter zake van vervanging, de overlijdensuitkering wordt betaald overeenkomstig het eerste lid van artikel 61, als was de uitkering toegekend als uitkering in verband met zwangerschap en bevalling of adoptie. Het zevende lid van artikel 61 blijft daarbij buiten toepassing.     
+5.  Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig artikel 45 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen indien de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst of de vrouwelijke zelfstandige zich niet houdt aan het voorschrift, bedoeld in artikel 3:22, eerste lid.   
+6.  Op de instelling, bedoeld in artikel 3:21, tweede lid, onderdeel b, is artikel 70, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen van overeenkomstige toepassing.  
 
 ### §  3  
 
@@ -461,29 +461,29 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 1.  Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel recht heeft op een uitkering in verband met zwangerschap en bevalling als op een uitkering in verband met adoptie of pleegzorg, wordt haar de uitkering in verband met adoptie of pleegzorg of ter zake van vervanging in verband met adoptie of pleegzorg niet uitbetaald. Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel recht heeft op een uitkering in verband met adoptie als op een uitkering in verband met pleegzorg wordt hem de uitkering in verband met pleegzorg of ter zake van vervanging in verband met pleegzorg niet uitbetaald.   
 2.  Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van paragraaf 1 als op een uitkering op grond van paragraaf 2 van deze afdeling, wordt hem de uitkering op grond van paragraaf 2 uitbetaald voorzover deze de uitkering op grond van paragraaf 1 van deze afdeling overtreft. Indien de uitkering op grond van paragraaf 1 geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van dit lid die uitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.   
-3. Indien een vrouwelijke zelfstandige of een vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst over eenzelfde periode zowel recht heeft op een uitkering op grond van paragraaf 1, als op een uitkering op grond van paragraaf 2 van deze afdeling, worden haar, in afwijking van het tweede lid, zowel de uitkering op grond van zowel paragraaf 1, als de uitkering op grond van paragraaf 2 uitbetaald, mits de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst niet vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en voor zover:
+3. Indien een vrouwelijke zelfstandige of een vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst over eenzelfde periode zowel recht heeft op een uitkering op grond van paragraaf 1, als op een uitkering op grond van paragraaf 2 van deze afdeling, worden haar, in afwijking van het tweede lid, zowel de uitkering op grond van zowel paragraaf 1, als de uitkering op grond van paragraaf 2 uitbetaald, mits de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst niet vrijwillig verzekerd is als bedoeld in de Tweede Afdeling, Hoofdstuk IV, van de Ziektewet en voor zover:
 
 a.werkzaamheden als vrouwelijke zelfstandige of vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst worden verricht; en
 
 b.de uitkering op grond van paragraaf 1 en de uitkering op grond van paragraaf 2 samen niet meer bedragen dan 100% van de som van de inkomsten uit of in verband met arbeid die de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst ontving op de dag direct voorafgaande aan de dag waarop recht op uitkering op grond van afdeling 2, paragraaf 1, en de uitkering op grond van afdeling 2, paragraaf 2, ontstaat. 
 4. Indien een gelijkgestelde als bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, over dezelfde periode tevens uit andere hoofde recht heeft op één of meerdere uitkeringen op grond van paragraaf 1, wordt de uitkering van die gelijkgestelde uitbetaald voorzover deze uitkering samen met de andere uitkeringen niet meer bedraagt dan 100% van het dagloon dat ten grondslag ligt aan de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten. 
-5.  Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van paragraaf 1 van deze afdeling als op arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan het hoogste van de daglonen, die aan die uitkeringen ten grondslag liggen.   
-6.  Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van paragraaf 2 van deze afdeling als op een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), wordt: 
+5.  Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van paragraaf 1 van deze afdeling als op arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering wordt eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan het hoogste van de daglonen, die aan die uitkeringen ten grondslag liggen.   
+6.  Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van paragraaf 2 van deze afdeling als op een arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, wordt: 
 
 a. indien de grondslag van de eerstgenoemde uitkering lager is dan de grondslag van de arbeidsongeschiktheidsuitkering of daaraan gelijk is, de eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan de grondslag van de arbeidsongeschiktheidsuitkering;  
 
 b. indien de grondslag van de eerstgenoemde uitkering hoger is dan de grondslag van de arbeidsongeschiktheidsuitkering, de eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan de grondslag van de eerstgenoemde uitkering;  
 
-c. indien het recht op eerstgenoemde uitkering ontstaat in het tijdvak van 52 weken bedoeld in [artikel 7, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), in afwijking van de onderdelen a en b, de eerstgenoemde uitkering uitbetaald voorzover deze de arbeidsongeschiktheidsuitkering overtreft.     
-7.  Voor de toepassing van het derde tot en met vijfde lid wordt onder arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), uitkering op grond van paragraaf 1 van deze afdeling en uitkering op grond van paragraaf 2 van deze afdeling tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen en die uitkeringen recht bestaat, voor zover die vakantie-uitkering over dezelfde periode is berekend.   
+c. indien het recht op eerstgenoemde uitkering ontstaat in het tijdvak van 52 weken bedoeld in artikel 7, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, in afwijking van de onderdelen a en b, de eerstgenoemde uitkering uitbetaald voorzover deze de arbeidsongeschiktheidsuitkering overtreft.     
+7.  Voor de toepassing van het derde tot en met vijfde lid wordt onder arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, uitkering op grond van paragraaf 1 van deze afdeling en uitkering op grond van paragraaf 2 van deze afdeling tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen en die uitkeringen recht bestaat, voor zover die vakantie-uitkering over dezelfde periode is berekend.   
 8.  Indien de arbeidsongeschiktheidsuitkering geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van het vierde en vijfde lid de arbeidsongeschiktheidsuitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.  
 
 ####Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
 
 ###Artikel 3:30 
 
-1. Op de zelfstandige, bedoeld in artikel 3:17, onderdeel a, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](../../../../../../wet/wet/einde/toegang/verzekering/waz/BWBR0016985/README.md), van wie de vermoedelijke of feitelijke bevallingsdatum valt binnen 40 weken na de inwerkingtreding van [dat artikel](../../../../../../wet/wet/einde/toegang/verzekering/waz/BWBR0016985/README.md) dan wel die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](../../../../../../wet/wet/einde/toegang/verzekering/waz/BWBR0016985/README.md) van toepassing met betrekking tot die bevalling dan wel die opneming.
-2. Op de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in artikel 3:17, onderdeel b, zoals dat onderdeel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](../../../../../../wet/wet/einde/toegang/verzekering/waz/BWBR0016985/README.md), die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](../../../../../../wet/wet/einde/toegang/verzekering/waz/BWBR0016985/README.md) van toepassing met betrekking tot die opneming.
+1. Op de zelfstandige, bedoeld in artikel 3:17, onderdeel a, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ, van wie de vermoedelijke of feitelijke bevallingsdatum valt binnen 40 weken na de inwerkingtreding van dat artikel dan wel die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ van toepassing met betrekking tot die bevalling dan wel die opneming.
+2. Op de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in artikel 3:17, onderdeel b, zoals dat onderdeel luidde op de dag voorafgaand aan de inwerkingtreding van artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ, die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde voorafgaand aan de inwerkingtreding van artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ van toepassing met betrekking tot die opneming.
 3. In afwijking van het eerste en tweede lid komen de onder toepassing van dit artikel te betalen uitkeringen en de uitvoeringskosten met betrekking tot die uitkeringen ten laste van het Arbeidsongeschiktheidsfonds.
 
 ### Hoofdstuk  4  
@@ -589,7 +589,7 @@ b. een inwonend kind tot wie de werknemer als ouder in een familierechtelijke be
 
 c. een inwonend kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
-d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in [artikel 28b, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in artikel 28b, eerste lid, van de Wet op de jeugdzorg;  
 
 e. een bloedverwant in de eerste graad, niet zijnde een kind.     
 
@@ -631,7 +631,7 @@ De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt d
 
 ### Artikel  5:6  
 
-1.  Voorzover het loon niet meer bedraagt dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, behoudt de werknemer, die anders dan op grond van een publiekrechtelijke aanstelling arbeid verricht, gedurende het verlof, bedoeld in artikel 5:1, recht op 70% van het loon, maar ten minste op het voor hem geldende wettelijke minimumloon.   
+1.  Voorzover het loon niet meer bedraagt dan het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag, behoudt de werknemer, die anders dan op grond van een publiekrechtelijke aanstelling arbeid verricht, gedurende het verlof, bedoeld in artikel 5:1, recht op 70% van het loon, maar ten minste op het voor hem geldende wettelijke minimumloon.   
 2.  Het eerste lid is van overeenkomstige toepassing op de werknemer, die arbeid verricht op grond van een publiekrechtelijke aanstelling.   
 
 ####Nadere loonvoorschriften
@@ -846,15 +846,15 @@ Behoudens artikel 6:8 kan van dit hoofdstuk niet ten nadele van de werknemer wor
 
 In dit hoofdstuk wordt verstaan onder:
 
-a.levensloopregeling: een regeling als bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);
+a.levensloopregeling: een regeling als bedoeld in artikel 39d van de Wet op de loonbelasting 1964;
 
-b.uitvoerder: een bank, een verzekeraar of een beheerder van een beleggingsinstelling als bedoeld in [artikel 19g, derde lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals dit artikellid op 31 december 2011 luidde.
+b.uitvoerder: een bank, een verzekeraar of een beheerder van een beleggingsinstelling als bedoeld in artikel 19g, derde lid, van de Wet op de loonbelasting 1964, zoals dit artikellid op 31 december 2011 luidde.
 
 ####Recht op deelname
 
 ###Artikel 7:2 
 
-1. De werknemer heeft onder bij en krachtens de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) gestelde voorwaarden elk kalenderjaar recht deel te nemen aan een levensloopregeling. 
+1. De werknemer heeft onder bij en krachtens de Wet op de loonbelasting 1964 gestelde voorwaarden elk kalenderjaar recht deel te nemen aan een levensloopregeling. 
 2. De werkgever draagt het op verzoek van de werknemer ter zake van een levensloopregeling ingehouden loon af aan de door de werknemer aangewezen uitvoerder. 
 3. Bij het in het tweede lid bedoelde verzoek geeft de werknemer kennis aan de werkgever van de hoogte van het per kalenderjaar in te houden en af te dragen loon. 
 4. De werkgever willigt het verzoek in uiterlijk met ingang van de aanvang van de derde kalendermaand na de indiening ervan. 

@@ -60,7 +60,7 @@ g. gevaarlijke stof:
 
 a. stof die of preparaat dat bij of krachtens het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten is ingedeeld in een categorie als bedoeld in artikel 9.2.3.1, tweede lid, van de Wet milieubeheer, of  
 
-b. gevaarlijke stof als bedoeld in artikel 1, onderdeel b, van de Wet vervoer gevaarlijke stoffen;    
+b. gevaarlijke stof als bedoeld in artikel 1, eerste lid, van de Wet vervoer gevaarlijke stoffen;    
 
 h. gevaarlijke afvalstof: gevaarlijke afvalstof als bedoeld in artikel 1.1, eerste lid, van de wet, voorzover die afvalstof een of meer eigenschappen, genoemd in artikel 4, tweede lid, onderdelen a tot en met c, e en f, van de Regeling Europese afvalstoffenlijst bezit;  
 
@@ -123,19 +123,19 @@ b. een inrichting die bestemd is voor de opslag in verband met het vervoer van g
 
 c. een door Onze Minister bij regeling aangewezen spoorwegemplacement dat gebruikt wordt voor het rangeren van wagons met gevaarlijke stoffen;  
 
-d. andere door Onze Minister bij regeling aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen a tot en met c, waarvan het plaatsgebonden risico, berekend volgens bij die regeling gestelde regels, hoger is of kan zijn dan 10<sup>–6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens artikel 8.40 van de wet;  
+d. andere door Onze Minister bij regeling aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen a tot en met c, waarvan het plaatsgebonden risico, berekend volgens bij die regeling gestelde regels, hoger is of kan zijn dan 10<sup>–6</sup> per jaar, die behoren tot categorieën inrichtingen die zijn aangewezen krachtens artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht;  
 
 e. een LPG-tankstation als bedoeld in artikel 1, eerste lid, onderdeel b, van het Besluit LPG-tankstations milieubeheer;  
 
 f. een inrichting waar verpakte gevaarlijke afvalstoffen, of verpakte gevaarlijke stoffen, niet zijnde nitraathoudende kunstmeststoffen, worden opgeslagen in een hoeveelheid van meer dan 10 000 kg per opslagvoorziening, niet zijnde een inrichting als bedoeld in onderdeel a of d, indien: 
 
-1° brandbare gevaarlijke stoffen met fluor-, chloor-, stikstof- of zwavelhoudende verbindingen worden opgeslagen, of  
+1° brandbare gevaarlijke stoffen met fluor-, chloor-, broom-, stikstof- of zwavelhoudende verbindingen worden opgeslagen, of  
 
-2° binnen een opslagvoorziening zowel brandbare gevaarlijke stoffen als gevaarlijke stoffen met fluor-, chloor-, stikstof- of zwavelhoudende verbindingen worden opgeslagen;    
+2° binnen een opslagvoorziening zowel brandbare gevaarlijke stoffen als gevaarlijke stoffen met fluor-, chloor-, broom-, stikstof- of zwavelhoudende verbindingen worden opgeslagen;    
 
 g. een inrichting waarin een koel- of vriesinstallatie aanwezig is met een inhoud van meer dan 1500 kg ammoniak, niet zijnde een inrichting als bedoeld in onderdeel a of d, en  
 
-h. andere door Onze Minister bij regeling aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen e tot en met g, waarvan het plaatsgebonden risico, berekend volgens bij die regeling gestelde regels, hoger is of kan zijn dan 10<sup>–6</sup> per jaar en waarvoor bij die regeling afstanden tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten zijn vastgesteld, niet zijnde inrichtingen waarvoor regels gelden krachtens artikel 8.40 van de wet.     
+h. andere door Onze Minister bij regeling aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen e tot en met g, waarvan het plaatsgebonden risico, berekend volgens bij die regeling gestelde regels, hoger is of kan zijn dan 10<sup>–6</sup> per jaar en waarvoor bij die regeling afstanden tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten zijn vastgesteld, die behoren tot categorieën inrichtingen die zijn aangewezen krachtens artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht.     
 2.  Dit besluit is van toepassing op de besluiten, bedoeld in artikel 5, eerste, tweede en zesde lid, met betrekking tot de bestemming van grond, voorzover die grond ligt: 
 
 a. binnen het invloedsgebied van een inrichting als bedoeld in het eerste lid, of  
@@ -178,7 +178,7 @@ c. een inrichting waarin een koel- of vriesinstallatie aanwezig is als bedoeld i
 d. een inrichting als bedoeld in artikel 2, eerste lid, onderdeel h.     
 6.  Bij regeling van Onze Minister kunnen categorieën van inrichtingen worden aangewezen waarvoor het plaatsgebonden risico, in afwijking van het vijfde lid, ter voldoening aan de grenswaarden, bedoeld in het eerste en derde lid, of ter voldoening aan de richtwaarde, bedoeld in het tweede en vierde lid, volgens bij die regeling gestelde regels mag worden berekend, indien naar het oordeel van het bevoegd gezag aan die grenswaarden of aan die richtwaarde wordt voldaan door het in acht nemen, onderscheidenlijk het zoveel mogelijk in acht nemen, van een kleinere afstand dan de afstand die door Onze Minister voor de categorie van inrichtingen waartoe de desbetreffende inrichting behoort, overeenkomstig het vijfde lid is vastgesteld. Het bevoegd gezag betrekt bij zijn oordeel als bedoeld in de eerste zin de aard van de in de desbetreffende inrichting toegestane gevaarlijke stoffen en de toegepaste maatregelen ter beperking van het plaatsgebonden risico.   
 7.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de afstand die in een geval als bedoeld in het zesde lid tot al dan niet geprojecteerde kwetsbare en beperkt kwetsbare objecten in elk geval wordt aangehouden.   
-8.  Indien een aanvraag als bedoeld in het eerste en derde lid betrekking heeft op een inrichting waarop het Besluit risico's zware ongevallen 1999 van toepassing is, betrekt het bevoegd gezag bij de beslissing op die aanvraag, onverminderd artikel 2.14, eerste lid, van de Wet algemene bepalingen omgevingsrecht, de gevolgen voor de externe veiligheid die de inrichting veroorzaakt voor personen die gebruikmaken van een hoofdweg of landelijke railweg als bedoeld in artikel 1, eerste lid, onderdelen c en d, van de Tracéwet.  
+8.  Indien een aanvraag als bedoeld in het eerste en derde lid betrekking heeft op een inrichting waarop het Besluit risico's zware ongevallen 1999 van toepassing is, betrekt het bevoegd gezag bij de beslissing op die aanvraag, onverminderd artikel 2.14, eerste lid, van de Wet algemene bepalingen omgevingsrecht, de gevolgen voor de externe veiligheid die de inrichting veroorzaakt voor personen die gebruikmaken van een hoofdweg of landelijke spoorweg als bedoeld in artikel 1, eerste lid, van de Tracéwet.  
 
 ### Artikel  5  
 
@@ -188,7 +188,7 @@ d. een inrichting als bedoeld in artikel 2, eerste lid, onderdeel h.
 4.  Bij regeling van Onze Minister kunnen categorieën van gevallen worden aangewezen waarvoor het plaatsgebonden risico, in afwijking van het derde lid, ter voldoening aan de grenswaarde, bedoeld in het eerste lid, of ter voldoening aan de richtwaarde, bedoeld in het tweede lid, volgens bij die regeling gestelde regels mag worden berekend, indien naar het oordeel van het bevoegd gezag aan die grenswaarde of aan die richtwaarde wordt voldaan door het in acht nemen, onderscheidenlijk het zoveel mogelijk in acht nemen, van een kleinere afstand dan de afstand die door Onze Minister voor die categorie van gevallen overeenkomstig het derde lid is vastgesteld. Het bevoegd gezag betrekt bij zijn oordeel als bedoeld in de eerste zin de aard van de gevaarlijke stoffen die in de inrichting die het plaatsgebonden risico veroorzaakt, toegestaan zijn en de toegepaste maatregelen ter beperking van dat risico.   
 5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de afstand die in een geval als bedoeld in het vierde lid tot kwetsbare objecten en beperkt kwetsbare objecten in elk geval wordt aangehouden.  
 6. De gemeenteraad geeft geen toepassing aan artikel 3.1, derde lid, van de Wet ruimtelijke ordening voor zover het bestemmingsplan de bouw of vestiging van kwetsbare objecten of beperkt kwetsbare objecten toelaat ten aanzien waarvan niet wordt voldaan aan de grenswaarde of de afstanden, bedoeld in het eerste lid, onderscheidenlijk onvoldoende rekening wordt gehouden met de richtwaarde of de afstanden, bedoeld in het tweede lid.  
-7.  Het bevoegd gezag betrekt bij de vaststelling van een besluit als bedoeld in artikel 15, eerste lid, van de Tracéwet, voorzover dat besluit betrekking heeft op de aanleg of wijziging van een hoofdweg of landelijke railweg als bedoeld in artikel 1, eerste lid, onderdelen c en d, van die wet, de gevolgen voor de externe veiligheid die worden veroorzaakt door een inrichting waarop het Besluit risico's zware ongevallen 1999 van toepassing is.  
+7.  Het bevoegd gezag betrekt bij de vaststelling van een tracébesluit als bedoeld in de Tracéwet, voor zover dat besluit betrekking heeft op de aanleg of wijziging van een hoofdweg of landelijke spoorweg als bedoeld in artikel 1, eerste lid, van die wet, de gevolgen voor de externe veiligheid die worden veroorzaakt door een inrichting waarop het Besluit risico's zware ongevallen 1999 van toepassing is.  
 
 ### §  4  
 
@@ -331,32 +331,32 @@ c. een inrichting waarin een koel- of vriesinstallatie aanwezig is als bedoeld i
 
 ### Artikel  16  
 
-Artikel 15 is van overeenkomstige toepassing op een besluit als bedoeld in artikel 5, eerste en tweede lid, dat betrekking heeft op een gebied dat geheel of gedeeltelijk ligt binnen het invloedsgebied van een inrichting als bedoeld in artikel 15, eerste lid, onderdelen a tot en met d. 
+Artikel 15 is van overeenkomstige toepassing op een besluit als bedoeld in artikel 5, eerste en tweede lid, dat betrekking heeft op een gebied dat geheel of gedeeltelijk ligt binnen het invloedsgebied van een inrichting als bedoeld in artikel 15, eerste lid. 
 
 ### §  7  
 
 ####Sanering
 
-###Artikel 17 
+### Artikel  17  
 
-1. Indien op het tijdstip van inwerkingtreding van dit besluit het plaatsgebonden risico voor een kwetsbaar object, veroorzaakt door een inrichting als bedoeld in artikel 15, eerste lid, onderdelen a tot en met d, hoger is dan 10<sup>–5</sup> per jaar, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, ervoor zorg dat binnen drie jaar na dat tijdstip het plaatsgebonden risico die grenswaarde niet meer overschrijdt.
-2. Indien op het tijdstip van inwerkingtreding van dit besluit de afstand van een inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met d, tot een kwetsbaar object kleiner is dan de bij regeling van Onze Minister vastgestelde afstand tot kwetsbare objecten, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, ervoor zorg dat binnen drie jaar na dat tijdstip wordt voldaan aan de bij die regeling vastgestelde afstand.
-3. Het eerste en tweede lid zijn van toepassing op een op het tijdstip van inwerkingtreding van dit besluit geprojecteerd kwetsbaar object, met dien verstande dat de termijn, genoemd in het eerste en tweede lid,aanvangt op het tijdstip waarop een voor dat object verleende vergunning als bedoeld in artikel 40, eerste lid, van de Woningwet onherroepelijk is geworden.
-4. In de gevallen, bedoeld in het eerste lid en derde lid, voorzover het derde lid betrekking heeft op het eerste lid, wordt het plaatsgebonden risico berekend volgens bij regeling van Onze Minister gestelde regels.
-5. Voor de toepassing van het eerste en tweede lid gelden met betrekking tot een LPG-tankstation als bedoeld in de artikelen 15, eerste lid, onderdeel b, en 4, vijfde lid, onderdeel a, in afwijking van de voorschriften 4.6.1 en 4.6.2 van bijlage I bij het Besluit LPG-tankstations milieubeheer, de grenswaarde, genoemd in het eerste lid, onderscheidenlijk de bij regeling van Onze Minister vastgestelde afstand tot kwetsbare objecten.
-6. Artikel 10, eerste lid, is van overeenkomstige toepassing op de grenswaarde, genoemd in het eerste lid, en bedoeld in het derde lid.
-7. Artikel 11 is van overeenkomstige toepassing op de bij regeling van Onze Minister vastgestelde afstanden, bedoeld in het tweede lid.
-8. Dit artikel is niet van toepassing op een kwetsbaar object binnen een gebied waarvoor overeenkomstig artikel 14 een veiligheidscontour is vastgesteld.
+1.  Indien op het tijdstip van inwerkingtreding van dit besluit het plaatsgebonden risico voor een kwetsbaar object, veroorzaakt door een inrichting als bedoeld in artikel 15, eerste lid, hoger is dan 10<sup>–5</sup> per jaar, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, ervoor zorg dat binnen drie jaar na dat tijdstip het plaatsgebonden risico die grenswaarde niet meer overschrijdt.   
+2.  Indien op het tijdstip van inwerkingtreding van dit besluit de afstand van een inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met d, tot een kwetsbaar object kleiner is dan de bij regeling van Onze Minister vastgestelde afstand tot kwetsbare objecten, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, ervoor zorg dat binnen drie jaar na dat tijdstip wordt voldaan aan de bij die regeling vastgestelde afstand.   
+3.  Het eerste en tweede lid zijn van toepassing op een op het tijdstip van inwerkingtreding van dit besluit geprojecteerd kwetsbaar object, met dien verstande dat de termijn, genoemd in het eerste en tweede lid,aanvangt op het tijdstip waarop een voor dat object verleende omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht onherroepelijk is geworden.   
+4.  In de gevallen, bedoeld in het eerste lid en derde lid, voorzover het derde lid betrekking heeft op het eerste lid, wordt het plaatsgebonden risico berekend volgens bij regeling van Onze Minister gestelde regels.   
+5.  Voor de toepassing van het tweede lid geldt met betrekking tot een LPG-tankstation als bedoeld in artikel 4, vijfde lid, onderdeel a, in afwijking van de voorschriften 4.6.1 en 4.6.2 van bijlage I bij het Besluit LPG-tankstations milieubeheer, de bij regeling van Onze Minister vastgestelde afstand tot kwetsbare objecten.   
+6.  Artikel 10, eerste lid, is van overeenkomstige toepassing op de grenswaarde, genoemd in het eerste lid, en bedoeld in het derde lid.   
+7.  Artikel 11 is van overeenkomstige toepassing op de bij regeling van Onze Minister vastgestelde afstanden, bedoeld in het tweede lid.   
+8.  Dit artikel is niet van toepassing op een kwetsbaar object binnen een gebied waarvoor overeenkomstig artikel 14 een veiligheidscontour is vastgesteld.  
 
-###Artikel 18 
+### Artikel  18  
 
-1. Onverminderd artikel 17, eerste lid, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, indien het plaatsgebonden risico wordt veroorzaakt door een inrichting als bedoeld in artikel 15, eerste lid, onderdelen a tot en met d, ervoor zorg dat ten aanzien van een kwetsbaar object op het tijdstip van inwerkingtreding van dit besluit zo spoedig mogelijk na dat tijdstip doch uiterlijk 1 januari 2010 wordt voldaan aan de grenswaarde 10<sup>–6</sup> per jaar.
-2. Indien op het tijdstip van inwerkingtreding van dit besluit de afstand van een inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met d, tot een kwetsbaar object kleiner is dan de bij regeling van Onze Minister vastgestelde afstand tot kwetsbare objecten, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, onverminderd artikel 17, tweede lid, ervoor zorg dat zo spoedig mogelijk na dat tijdstip doch uiterlijk 1 januari 2010 wordt voldaan aan de bij die regeling vastgestelde afstand.
-3. Onverminderd artikel 17, derde lid, zijn het eerste en tweede lid van toepassing op een op het tijdstip van inwerkingtreding van dit besluit geprojecteerd kwetsbaar object, met dien verstande dat de verplichting, bedoeld in het eerste en tweede lid, geldt vanaf het tijdstip waarop een voor dat object verleende vergunning als bedoeld in artikel 40, eerste lid, van de Woningwet onherroepelijk is geworden.
-4. In de gevallen, bedoeld in het eerste lid en derde lid, voorzover het derde lid betrekking heeft op het eerste lid, wordt het plaatsgebonden risico berekend volgens bij regeling van Onze Minister gestelde regels.
-5. Artikel 10, eerste lid, is van overeenkomstige toepassing op de grenswaarde, genoemd in het eerste lid, en bedoeld in het derde lid.
-6. Artikel 11 is van overeenkomstige toepassing op de bij regeling van Onze Minister vastgestelde afstanden, bedoeld in het tweede lid.
-7. Dit artikel is niet van toepassing op een kwetsbaar object binnen een gebied waarvoor overeenkomstig artikel 14 een veiligheidscontour is vastgesteld.
+1.  Onverminderd artikel 17, eerste lid, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, indien het plaatsgebonden risico wordt veroorzaakt door een inrichting als bedoeld in artikel 15, eerste lid, ervoor zorg dat ten aanzien van een kwetsbaar object op het tijdstip van inwerkingtreding van dit besluit zo spoedig mogelijk na dat tijdstip doch uiterlijk 1 januari 2010 wordt voldaan aan de grenswaarde 10<sup>–6</sup> per jaar.   
+2.  Indien op het tijdstip van inwerkingtreding van dit besluit de afstand van een inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met d, tot een kwetsbaar object kleiner is dan de bij regeling van Onze Minister vastgestelde afstand tot kwetsbare objecten, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, onverminderd artikel 17, tweede lid, ervoor zorg dat zo spoedig mogelijk na dat tijdstip doch uiterlijk 1 januari 2010 wordt voldaan aan de bij die regeling vastgestelde afstand.   
+3.  Onverminderd artikel 17, derde lid, zijn het eerste en tweede lid van toepassing op een op het tijdstip van inwerkingtreding van dit besluit geprojecteerd kwetsbaar object, met dien verstande dat de verplichting, bedoeld in het eerste en tweede lid, geldt vanaf het tijdstip waarop een voor dat object verleende omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht onherroepelijk is geworden.   
+4.  In de gevallen, bedoeld in het eerste lid en derde lid, voorzover het derde lid betrekking heeft op het eerste lid, wordt het plaatsgebonden risico berekend volgens bij regeling van Onze Minister gestelde regels.   
+5.  Artikel 10, eerste lid, is van overeenkomstige toepassing op de grenswaarde, genoemd in het eerste lid, en bedoeld in het derde lid.   
+6.  Artikel 11 is van overeenkomstige toepassing op de bij regeling van Onze Minister vastgestelde afstanden, bedoeld in het tweede lid.   
+7.  Dit artikel is niet van toepassing op een kwetsbaar object binnen een gebied waarvoor overeenkomstig artikel 14 een veiligheidscontour is vastgesteld.  
 
 ### Artikel  19  
 
@@ -368,7 +368,7 @@ Het bevoegd gezag, bedoeld in artikel 4, eerste tot en met vierde lid, stelt na 
 
 ### Artikel  20  
 
-1.  Indien op grond van een gewijzigd inzicht met betrekking tot het plaatsgebonden risico blijkt dat het door een inrichting als bedoeld in artikel 2, eerste lid, onderdelen a tot en met h, veroorzaakte plaatsgebonden risico voor een al dan niet geprojecteerd kwetsbaar object hoger is dan 10<sup>–6</sup> per jaar en dat inzicht leidt tot bij regeling van Onze Minister te stellen nadere regels met betrekking tot de vaststelling van dat risico, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, ervoor zorg dat, in afwijking van artikel 18, binnen drie, onderscheidenlijk vijf jaar, na het tijdstip van inwerkingtreding van die regels, het plaatsgebonden risico de desbetreffende grenswaarde niet meer overschrijdt.   
+1.  Indien op grond van een gewijzigd inzicht met betrekking tot het plaatsgebonden risico blijkt dat het door een inrichting als bedoeld in artikel 2, eerste lid, onderdelen a tot en met h, veroorzaakte plaatsgebonden risico voor een al dan niet geprojecteerd kwetsbaar object hoger is dan 10<sup>–6</sup> per jaar en dat inzicht leidt tot bij regeling van Onze Minister te stellen nadere regels met betrekking tot de vaststelling van dat risico, draagt het bevoegd gezag, bedoeld in de artikelen 4 en 5, ervoor zorg dat, in afwijking van artikel 18, binnen vijf jaar na het tijdstip van inwerkingtreding van die regels, het plaatsgebonden risico de desbetreffende grenswaarde niet meer overschrijdt.   
 2.  Artikel 10, eerste lid, is van overeenkomstige toepassing op de grenswaarden, genoemd in het eerste lid.  
 
 ###Artikel 21 

@@ -3,7 +3,7 @@
 ##Regeling Periodiek Evaluatieonderzoek
 
 De Minister van Financiën,  
-Gelet op [artikel 38, tweed lid, onder a, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);
+Gelet op artikel 38, tweed lid, onder a, van de Comptabiliteitswet 2001;
 Besluit:    
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a.  *Onderzoek naar de doeltreffendheid en doelmatigheid:* het periodieke onderzoek zoals bedoeld in [artikel 20 van de Comptabiliteitswet](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+a.  *Onderzoek naar de doeltreffendheid en doelmatigheid:* het periodieke onderzoek zoals bedoeld in artikel 20 van de Comptabiliteitswet;  
 
-b.  *Subsidie-evaluatie:* evaluatie van een subsidie zoals bedoeld in [artikel 4:24 van de Algemene Wet Bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b.  *Subsidie-evaluatie:* evaluatie van een subsidie zoals bedoeld in artikel 4:24 van de Algemene Wet Bestuursrecht;  
 
 c.  *Beleidsdoorlichting:* een onderzoek naar de doeltreffendheid en doelmatigheid van (een samenhangend deel van) het beleid dat valt onder een algemene doelstelling van een beleidsartikel uit de Rijksbegroting;  
 
@@ -62,7 +62,7 @@ e. De effecten van het gevoerde beleid en een analyse en beoordeling van de doel
 
 ####Subsidie-evaluaties
 
-Ook op subsidie-evaluaties zijn, met inachtneming van de eisen uit de [Algemene Wet Bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de kwaliteitseisen uit artikel 2, eerste lid, van toepassing. 
+Ook op subsidie-evaluaties zijn, met inachtneming van de eisen uit de Algemene Wet Bestuursrecht, de kwaliteitseisen uit artikel 2, eerste lid, van toepassing. 
 
 ### Artikel  5  
 
