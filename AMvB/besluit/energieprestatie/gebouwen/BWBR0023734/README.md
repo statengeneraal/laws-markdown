@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 juli 2006, nr. DJZ2006283878, Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) en op richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestatie van gebouwen (PbEU L1);
+Gelet op artikel 120 van de Woningwet en op richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestatie van gebouwen (PbEU L1);
 
 De Raad van State gehoord (advies van 8 september 2006, nr. W08.06.0310/V);
 
@@ -20,7 +20,13 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-1.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder:  *airconditioningsysteem*: koelsysteem als bedoeld in [artikel 1.1, eerste lid, van het Bouwbesluit 2012](../../../../../ministeriele-regeling/regeling/bouwbesluit/2012/BWBR0031022/README.md); *certificaat*: door een door Onze Minister aangewezen rechtspersoon erkende schriftelijke verklaring, afgegeven door een erkende deskundige;  *energieprestatiecertificaat*: op een gebouw toegesneden certificaat dat niet ouder is dan tien jaar 1) waarin het resultaat is vermeld van de berekening van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van dat gebouw, waaronder verwarming, warmwatervoorziening, koeling, ventilatie en verlichting, 2) waarin referentie-waarden zijn vermeld waarmee de energieprestatie van het gebouw kan worden vergeleken en beoordeeld, en 3) dat vergezeld gaat van aanbevelingen voor kosteneffectieve verbetering van de energieprestatie;  *wet*: [Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md).   
+1.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder:  *airconditioningsysteem*: koelsysteem als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012;  * *energieprestatie:* * berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van een gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting; *energieprestatiecertificaat:* op een gebouw betrekking hebbende schriftelijke verklaring: 
+
+1°. waarin het resultaat is vermeld van de berekening van de energieprestatie;  
+
+2°. waarin referentiewaarden zijn vermeld waarmee de energieprestatie kan worden vergeleken en beoordeeld en  
+
+3°. die aanbevelingen voor een kostenoptimale verbetering van de energieprestatie bevat, tenzij een dergelijke verbetering redelijkerwijs niet mogelijk is;    *wet*: Woningwet.   
 2.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt onder gebouw mede verstaan delen van een gebouw die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt.  
 
 ### Afdeling  2  
@@ -29,15 +35,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2.1  
 
-1.  Bij de bouw van een gebouw heeft de eigenaar een energieprestatiecertificaat voor dat gebouw.   
+1.  Bij de oplevering van een gebouw heeft de eigenaar een energieprestatiecertificaat voor dat gebouw.   
 2.  Bij de verhuur van een gebouw verstrekt de eigenaar afschrift van een energieprestatiecertificaat voor dat gebouw aan de huurder.   
 3.  Bij de verkoop van een gebouw verstrekt de eigenaar een energieprestatiecertificaat voor dat gebouw aan de koper.   
-4.  Het derde lid is van overeenkomstige toepassing op de verkoop van een deelnemings- of lidmaatschapsrecht dat recht geeft op het gebruik van een gebouw.  
+4.  Het derde lid is van overeenkomstige toepassing op de verkoop van een deelnemings- of lidmaatschapsrecht dat recht geeft op het gebruik van een gebouw.   
+5.  Een energieprestatiecertificaat is geldig gedurende tien jaar na de datum van afgifte ervan. 
 
 ### Artikel  2.2  
 
-1.  Artikel 2.1 is van toepassing op nieuwe en bestaande gebouwen waarop op grond van [artikel 5.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) bij nieuwbouw van die gebouwen een energieprestatiecoëfficiënt van toepassing is of zou zijn.   
-2.  In afwijking van het eerste lid is artikel 2.1 niet van toepassing op beschermde monumenten als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), monumenten als bedoeld in een provinciale of gemeentelijke monumentenverordening, op gebouwen die worden gebruikt voor eredienst en religieuze activiteiten en op alleenstaande gebouwen met een gebruiksoppervlakte van minder dan 50 m<sup>2</sup>.  
+1.  Artikel 2.1 is van toepassing op nieuwe en bestaande gebouwen waarop op grond van artikel 5.2 van het Bouwbesluit 2012 bij nieuwbouw van die gebouwen een energieprestatiecoëfficiënt van toepassing is of zou zijn.   
+2.  In afwijking van het eerste lid is artikel 2.1 niet van toepassing op beschermde monumenten als bedoeld in artikel 1, onder d, van de Monumentenwet 1988, monumenten als bedoeld in een provinciale of gemeentelijke monumentenverordening, op gebouwen die worden gebruikt voor eredienst en religieuze activiteiten en op alleenstaande gebouwen met een gebruiksoppervlakte van minder dan 50 m<sup>2</sup>.  
 
 ### Artikel  2.3  
 
@@ -49,7 +56,12 @@ b. kan een energieprestatiecertificaat voor een afzonderlijk gedeelte van het ge
 
 ### Artikel  2.4  
 
-De eigenaar van een gebouw met een totale gebruiksoppervlakte van meer dan 1.000 m<sup>2</sup>, waarin door een overheidsdienst of overheidsinstelling diensten aan het publiek worden verleend en dat met het oog daarop door een groot aantal personen wordt bezocht, heeft een energieprestatiecertificaat. De eigenaar brengt dit aan op een voor het publiek duidelijk zichtbare plaats in het gebouw. Bij ministeriële regeling kan worden bepaald dat de tweede zin van toepassing is op een of meer bij die regeling aan te wijzen onderdelen van het energieprestatiecertificaat. 
+1.  De eigenaar van een gebouw brengt een daarvoor afgegeven geldig energieprestatiecertificaat aan op een voor het publiek duidelijk zichtbare plaats in dat gebouw, indien: 
+
+a. van dat gebouw een gebruiksoppervlakte van meer dan 500 m<sup>2</sup> in gebruik is bij een overheidsinstelling en veelvuldig door het publiek wordt bezocht, of  
+
+b. het gebouw wordt verkocht of aan een nieuwe huurder wordt verhuurd, een gebruiksoppervlakte van meer dan 500 m<sup>2</sup> heeft en veelvuldig door het publiek wordt bezocht.     
+2.  Bij ministeriële regeling kan worden bepaald dat het eerste lid van toepassing is op een of meer bij die regeling aan te wijzen onderdelen van het energieprestatiecertificaat.  
 
 ### Afdeling  3  
 
@@ -82,7 +94,7 @@ Bij ministeriële regeling worden nadere voorschriften gegeven omtrent het in di
 
 ### Artikel  4.1  
 
-Voor een gebouw waarvoor tussen 1 juli 2002 en het tijdstip van inwerkingtreding van dit artikel een Energie Prestatie Advies is uitgebracht dat voldoet aan de [Tijdelijke regeling energiepremies 2003](../../../../../ministeriele-regeling/tijdelijke/regeling/energiepremies/2003/BWBR0014481/README.md) zoals deze laatstelijk luidde voor haar intrekking, kan aan de in artikel 2.1 gestelde verplichtingen worden voldaan door het verstrekken van dit advies, mits dit niet ouder is dan tien jaar. 
+Voor een gebouw waarvoor tussen 1 juli 2002 en het tijdstip van inwerkingtreding van dit artikel een Energie Prestatie Advies is uitgebracht dat voldoet aan de Tijdelijke regeling energiepremies 2003 zoals deze laatstelijk luidde voor haar intrekking, kan aan de in artikel 2.1 gestelde verplichtingen worden voldaan door het verstrekken van dit advies, mits dit niet ouder is dan tien jaar. 
 
 ### Artikel  4.2  
 

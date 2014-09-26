@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Verkeer en Waterstaat van 23 januari 20
 
 Gelet op de Richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEU L 167, gerectificeerd in PbEU L 201);
 
-Gelet op de [artikelen 3](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) en [12 van de Wet aanvullende regels veiligheid wegtunnels](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), de [artikelen 7](../../../../../../../wet/woningwet/BWBR0005181/README.md), [40a](../../../../../../../wet/woningwet/BWBR0005181/README.md), [120](../../../../../../../wet/woningwet/BWBR0005181/README.md) en [120a van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) en [artikel 14 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 3 en 12 van de Wet aanvullende regels veiligheid wegtunnels, de artikelen 7, 40a, 120 en 120a van de Woningwet en artikel 14 van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 16 februari 2006, nr. W09.06.0003/V);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: richtlijn: de Richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEU L 167, gerectificeerd in PbEU L 201); wet: [Wet aanvullende regels veiligheid wegtunnels](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md); commissie: de Commissie voor de tunnelveiligheid, bedoeld in [artikel 3 van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md). 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: richtlijn: de Richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEU L 167, gerectificeerd in PbEU L 201); wet: Wet aanvullende regels veiligheid wegtunnels; commissie: de Commissie voor de tunnelveiligheid, bedoeld in artikel 3 van de wet. 
 
 ### Artikel  2  
 

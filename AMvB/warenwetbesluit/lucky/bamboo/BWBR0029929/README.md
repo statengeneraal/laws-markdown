@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 8 december 2010, kenmerk DWJZ/SWW-3039313, gedaan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Veiligheid en Justitie;
 
-Gelet op de [artikelen 5, eerste lid, onderdeel a, onder 1°](../../../../../wet/warenwet/BWBR0001969/README.md), [9, onder b](../../../../../wet/warenwet/BWBR0001969/README.md), en [32b van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op de artikelen 5, eerste lid, onderdeel a, onder 1°, 9, onder b, en 32b van de Warenwet;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 13 januari 2011, nummer W.13.10.0555/III);
 
@@ -17,7 +17,11 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a.  *Lucky Bamboo:* een sierplant met de wetenschappelijke naam Dracaena sanderiana,met inbegrip van het materiaal waarin de plant zich bevindt;  
+a. *Lucky Bamboo:* een sierplant met de wetenschappelijke naam Dracaena sanderiana die bedrijfsmatig in Nederland wordt ingevoerd, met inbegrip van het materiaal waarin de plant zich bevindt, en met uitzondering van de plant die: 
+
+1°. zich niet in vloeistof bevindt, alsmede  
+
+2°. bestemd is om ontwikkeld te worden tot potplant;    
 
 b.  *tijgermug:* een insect met de wetenschappelijke naam Aedes albopictus, alsmede de eitjes, de larven en de poppen daarvan;  
 
@@ -32,18 +36,22 @@ Het is verboden te handelen in strijd met de voorschriften gesteld in de artikel
 
 Lucky Bamboo: 
 
-a. wordt vanuit derde landen binnen Nederlands grondgebied gebracht en verder vervoerd in gesloten containers, waarbij de eerste opening in Nederland uitsluitend plaatsvindt in een afgescheiden ruimte;  
+a. wordt binnen Nederlands grondgebied gebracht en verder vervoerd in gesloten containers, waarbij de eerste opening in Nederland uitsluitend plaatsvindt in een afgescheiden ruimte;  
 
 b. verlaat de afgescheiden ruimte niet eerder dan dat afdoende behandeling heeft plaatsgevonden met een biocide of een ander middel dat geschikt is om de planten vrij te maken van de volwassen tijgermug;  
 
-d. verlaat de afgescheiden ruimte niet eerder dan dat afdoende behandeling heeft plaatsgevonden met een biocide of een ander middel dat geschikt is om de planten vrij te maken van de larven van de tijgermug;  
+c. verlaat de afgescheiden ruimte niet eerder dan dat afdoende behandeling heeft plaatsgevonden met een biocide of een ander middel dat geschikt is om de planten vrij te maken van de larven van de tijgermug;  
 
-e. wordt, gedurende de periode dat Lucky Bamboo zich in de afgescheiden ruimte bevindt, bij elke watertoevoeging steeds behandeld met het onder d bedoelde biocide of middel, door dit biocide of middel aan het water toe te voegen;   
+d. wordt, gedurende de periode dat Lucky Bamboo zich in de afgescheiden ruimte bevindt, bij elke watertoevoeging steeds behandeld met het onder c bedoelde biocide of middel, door dit biocide of middel aan het water toe te voegen;   
 
 ### Artikel  4  
 
 1.  Voor de behandeling, bedoeld in artikel 3, beschikt de verhandelaar over een bestrijdingsplan.   
 2.  De verhandelaar beschikt voorts over een administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van het bestrijdingsplan op een systematische wijze zijn vastgelegd.  
+
+### Artikel  4a  
+
+Met behandelde Lucky Bamboo als bedoeld in dit besluit wordt gelijkgesteld behandelde Lucky Bamboo die rechtmatig is gekweekt of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is gekweekt in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoet aan de eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd. 
 
 ### Artikel  5  
 

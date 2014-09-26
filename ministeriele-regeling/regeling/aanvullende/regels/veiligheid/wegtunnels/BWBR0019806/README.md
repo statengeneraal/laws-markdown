@@ -3,36 +3,36 @@
 ##Regeling aanvullende regels veiligheid wegtunnels
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3, tweede lid](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), [5, tweede en vierde lid](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), [6, eerste en tweede lid](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), [7](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), [8, tweede lid](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), [9](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), [10](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) en [12 van de Wet aanvullende regels veiligheid wegtunnels](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), de [artikelen 2, zesde lid, van het Besluit aanvullende regels veiligheid wegtunnels](../../../../../../../AMvB/besluit/aanvullende/regels/veiligheid/wegtunnels/BWBR0019857/README.md), de [artikelen 120](../../../../../../../wet/woningwet/BWBR0005181/README.md) en [120a van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) en [artikel 14 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 3, tweede lid, 5, tweede en vierde lid, 6, eerste en tweede lid, 7, 8, tweede lid, 9, 10 en 12 van de Wet aanvullende regels veiligheid wegtunnels, de artikelen 2, zesde lid, van het Besluit aanvullende regels veiligheid wegtunnels, de artikelen 120 en 120a van de Woningwet en artikel 14 van de Wegenverkeerswet 1994;
 Besluit:    
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder tunnelveiligheidsdossier: het dossier, bedoeld in [artikel 10 van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md).   
+1.  In deze regeling wordt verstaan onder tunnelveiligheidsdossier: het dossier, bedoeld in artikel 10 van de wet.   
 2.  Het begrip voorval omvat mede ongeluk of incident.  
 
 ### Artikel  4  
 
-De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), wordt uitgevoerd overeenkomstig het in bijlage 1 bij deze regeling opgenomen model QRA-tunnels.
+De risicoanalyse, bedoeld in artikel 6, derde lid, van de wet, wordt uitgevoerd overeenkomstig het in bijlage 1 bij deze regeling opgenomen model QRA-tunnels.
 
 ### Artikel  5  
 
-1.  Het tunnelveiligheidsplan, bedoeld in [artikel 6c van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), wordt opgesteld en uitgevoerd overeenkomstig bijlage 2, onderdeel B1, bij deze regeling.   
+1.  Het tunnelveiligheidsplan, bedoeld in artikel 6c van de wet, wordt opgesteld en uitgevoerd overeenkomstig bijlage 2, onderdeel B1, bij deze regeling.   
 2.  Het tunnelveiligheidsplan bevat ten minste: 
 
 a. een globale beschrijving van het ontwerp van de tunnel, alsmede van de relevante locatieaspecten, de ruimtelijke inpassing en de technische haalbaarheid van de tunnel;  
 
 b. een beschrijving van het voorziene gebruik van de tunnel;  
 
-c. indien er een gestandaardiseerde uitrusting wordt toegepast, de keuze van de toe te passen gestandaardiseerde uitrusting als bedoeld in [artikel 6b van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), dan wel de keuze om van de gestandaardiseerde uitrusting af te wijken op grond van artikel 6b, derde lid, van de wet;  
+c. indien er een gestandaardiseerde uitrusting wordt toegepast, de keuze van de toe te passen gestandaardiseerde uitrusting als bedoeld in artikel 6b van de wet, dan wel de keuze om van de gestandaardiseerde uitrusting af te wijken op grond van artikel 6b, derde lid, van de wet;  
 
-d. een beschrijving van de uitkomsten van de risicoanalyse bedoeld in artikel 6, derde lid van de wet, waarmee wordt toegelicht dat met de gekozen uitrusting aan de norm, bedoeld in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) wordt voldaan;  
+d. een beschrijving van de uitkomsten van de risicoanalyse bedoeld in artikel 6, derde lid van de wet, waarmee wordt toegelicht dat met de gekozen uitrusting aan de norm, bedoeld in artikel 6, eerste lid, van de wet wordt voldaan;  
 
 e. een globale beschrijving van de organisatie van het beheer van de tunnel en de calamiteitenbestrijding.    
 
 ### Artikel  6  
 
-1.  Het veiligheidsbeheerplan, bedoeld in [artikel 7 van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), wordt opgesteld en uitgevoerd overeenkomstig bijlage 2, onderdeel B3, bij deze regeling.   
+1.  Het veiligheidsbeheerplan, bedoeld in artikel 7 van de wet, wordt opgesteld en uitgevoerd overeenkomstig bijlage 2, onderdeel B3, bij deze regeling.   
 2.  Het veiligheidsbeheerplan bevat ten minste: 
 
 a. een beschrijving van het gebruik van de tunnel;  
@@ -43,7 +43,7 @@ c. een beschrijving van de organisatie, processen, procedures, werkinstructies e
 
 d. een beschrijving van de wijze waarop registratie en evaluatie van significante voorvallen plaats vindt en een beschrijving van de wijze waarop verbeteringen worden doorgevoerd;  
 
-e. een analyse van scenario’s van ongevallen of indien die analyse op grond van [artikel 7, eerste lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), achterwege is gebleven, de redenen daarvoor, en  
+e. een analyse van scenario’s van ongevallen of indien die analyse op grond van artikel 7, eerste lid, van de wet, achterwege is gebleven, de redenen daarvoor, en  
 
 f. een calamiteitenbestrijdingsplan waarin ook rekening gehouden is met mensen met een beperkte mobiliteit en met gehandicapten en chronisch zieken en dat voorts bevat: 
 
@@ -92,15 +92,15 @@ g. loggen en registreren van het voorval en de afhandeling ervan.
 
 ### Artikel  6b  
 
-De analyse van scenario’s van ongevallen als bedoeld in [artikel 7, eerste lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) en in artikel 6, tweede lid, onderdeel e, van deze regeling, wordt uitgevoerd overeenkomstig de in bijlage 2a bij deze regeling opgenomen Scenarioanalyse Ongevallen in Tunnels. 
+De analyse van scenario’s van ongevallen als bedoeld in artikel 7, eerste lid, van de wet en in artikel 6, tweede lid, onderdeel e, van deze regeling, wordt uitgevoerd overeenkomstig de in bijlage 2a bij deze regeling opgenomen Scenarioanalyse Ongevallen in Tunnels. 
 
 ### Artikel  7  
 
-De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in artikel 6, tweede lid, onder f, en de aanvalsplannen van de binnen een veiligheidsregio, als bedoeld in de [Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), samenwerkende hulpverleningsdiensten. Hij neemt kennis van de rampenbestrijdingsplannen van de desbetreffende veiligheidsregio’s, voor zover de tunnel betreffende. 
+De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in artikel 6, tweede lid, onder f, en de aanvalsplannen van de binnen een veiligheidsregio, als bedoeld in de Wet veiligheidsregio’s, samenwerkende hulpverleningsdiensten. Hij neemt kennis van de rampenbestrijdingsplannen van de desbetreffende veiligheidsregio’s, voor zover de tunnel betreffende. 
 
 ### Artikel  8  
 
-1.  In of bij de aanvraag voor de in [artikel 8 van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) bedoelde vergunning worden de volgende gegevens verstrekt: 
+1.  In of bij de aanvraag voor de in artikel 8 van de wet bedoelde vergunning worden de volgende gegevens verstrekt: 
 
 a. naam, post- en e-mailadres en telefoonnummer van de tunnelbeheerder;  
 
@@ -109,11 +109,11 @@ b. de kadastrale aanduiding en de ligging van de tunnel;
 c. de naam en de aard van de tunnel.     
 2.  Bij de aanvraag worden de volgende bescheiden overgelegd: 
 
-a.het tunnelveiligheidsplan, bedoeld in [artikel 6c, eerste lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md); 
+a.het tunnelveiligheidsplan, bedoeld in artikel 6c, eerste lid, van de wet; 
 
-b.het advies van de veiligheidsbeambte over het tunnelveiligheidsplan en dat over het samenstel van documenten bedoeld in [artikel 2.13 van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) waarmee een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) aangevraagd zal worden; 
+b.het advies van de veiligheidsbeambte over het tunnelveiligheidsplan en dat over het samenstel van documenten bedoeld in artikel 2.13 van de Regeling omgevingsrecht waarmee een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht aangevraagd zal worden; 
 
-c. het veiligheidsbeheerplan, bedoeld in [artikel 7 van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md);  
+c. het veiligheidsbeheerplan, bedoeld in artikel 7 van de wet;  
 
 d. het advies van de veiligheidsbeambte over het openstellen voor het verkeer van de tunnel.     
 3.  Op verzoek van het bevoegde college van burgemeester en wethouders verstrekt de aanvrager tevens nadere gegevens en bescheiden voor zover die voor de beslissing op de aanvraag nodig zijn.  
@@ -136,7 +136,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 1.  De veiligheidsbeambte gaat na of het bedieningspersoneel en de hulpverleningsdiensten geoefend zijn en werkt mee aan de organisatie van de regelmatig te houden oefeningen.   
 2.  De tunnelbeheerder draagt ervoor zorg dat met betrekking tot een tunnel ten minste eenmaal in de vier jaar een realistische oefening en in elk tussenliggend jaar een gedeeltelijke of simulatieoefening wordt uitgevoerd.   
-3.  In afwijking van het tweede lid kan, indien binnen een veiligheidsregio, als bedoeld in de [Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), twee of meer tunnels van één tunnelbeheerder liggen en voor zover het een realistische oefening betreft, volstaan worden met het houden van één oefening in ten minste één van die tunnels.   
+3.  In afwijking van het tweede lid kan, indien binnen een veiligheidsregio, als bedoeld in de Wet veiligheidsregio’s, twee of meer tunnels van één tunnelbeheerder liggen en voor zover het een realistische oefening betreft, volstaan worden met het houden van één oefening in ten minste één van die tunnels.   
 4.  De veiligheidsbeambte, de hulpverleningsdiensten en de tunnelbeheerder evalueren gezamenlijk de oefeningen.  
 
 ### Artikel  12  
@@ -145,7 +145,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 a. de planologische besluiten ten aanzien van de tunnel;  
 
-b. de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de bij die vergunning behorende aanvraag;  
+b. de omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht en de bij die vergunning behorende aanvraag;  
 
 c. een lijst van de uitgevoerde oefeningen en een analyse van de lering die hieruit getrokken is.     
 2.  Een ieder die gegevens en oorspronkelijke bescheiden, bedoeld in het eerste lid, ontvangen heeft of onder zich heeft, verstrekt deze met bekwame spoed aan de tunnelbeheerder, die deze opneemt in het tunnelveiligheidsdossier.   
@@ -154,7 +154,7 @@ c. een lijst van de uitgevoerde oefeningen en een analyse van de lering die hier
 
 ### Artikel  13  
 
-1.  De gestandaardiseerde uitrusting, bedoeld in [artikel 6a, eerste lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) bestaat voor een tunnel langer dan 500 meter uit: 
+1.  De gestandaardiseerde uitrusting, bedoeld in artikel 6a, eerste lid, van de wet bestaat voor een tunnel langer dan 500 meter uit: 
 
 a. afsluitbomen;  
 
@@ -246,7 +246,7 @@ e. dynamische vluchtroute-indicatie.
 
 ### Artikel  13a  
 
-1.  De gestandaardiseerde uitrusting als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) bestaat voor een tunnel langer dan 250 meter en ten hoogste 500 meter uit: 
+1.  De gestandaardiseerde uitrusting als bedoeld in artikel 6, eerste lid, van de wet bestaat voor een tunnel langer dan 250 meter en ten hoogste 500 meter uit: 
 
 a. bluswatervoorziening;  
 
@@ -348,7 +348,7 @@ K.M.H. Peijs
 
 ### Bijlage  2  
 
-####behorende bij de artikelen 5  en 6  van de Regeling aanvullende regels veiligheid wegtunnels en [artikel 2.13 van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md)
+####behorende bij de artikelen 5  en 6  van de Regeling aanvullende regels veiligheid wegtunnels en artikel 2.13 van de Regeling omgevingsrecht
 
 *Deze bijlage betreft de leidraad veiligheidsdocumentatie en is niet in de Nederlandse Staatscourant geplaatst maar ter inzage gelegd in de bibliotheek van het ministerie van IenM en wordt ook per internet beschikbaar gesteld. *
 
@@ -534,7 +534,7 @@ Het is de verantwoordelijkheid van de weginspecteur of de officier van dienst va
 
 ### Artikel 1  
 
-In deze bijlage wordt verstaan onder: aanstraalverlichting:verlichting bij vluchtdeuren die de deur aanstraalt en zo zichtbaar maakt;accentverlichting:verlichting die een bepaalde plek extra benadrukt;AFFF:Aqueous Film Forming Foam – schuimvormend middel dat aan water wordt toegevoegd om branden beter te kunnen blussen;buitenopstellingskast:apparatuurkast die geschikt is om buiten opgesteld te worden, en voldoende bescherming aan de ingebouwde apparatuur biedt;calamiteitendoorsteek:gedeelte van de geleiderails waarmee een gedeelte van de tussenberm vrij wordt gemaakt waardoor de hulpverleningsdienst en de tussenberm kunnen doorkruisen;C2000:communicatiesysteem als bedoeld in de [Regeling C2000 en GMS](../../../../../../../ministeriele-regeling/regeling/c2000/en/gms/BWBR0020268/README.md);contourverlichting:verlichting rond een vluchtdeur die wordt aangezet als evacuatie nodig is;drempelwaardeverhoging:mate waarin het contrast moet worden verhoogd, om het verlies aan waarneming, veroorzaakt door verblinding ten gevolge van de armaturen van de verlichtingsinstallatie, te compenseren;droogloopniveau:het vloeistofniveau waarop de pompen moeten worden uitgezet om drooglopen te voorkomen;dwarshelling:helling in de richting loodrecht op de rijrichting van de weg;eventrecorder:opnamevoorziening die gebeurtenissen vastlegt;grensruimte:een ruimte die grenst aan een vloeistofbassin en die een directe verbinding heeft met een vloeistofbassin die niet te allen tijde geheel dampdicht is;hoofdkelder:vloeistofkelder waarin uit de tunnel afgevoerde vloeistoffen tijdelijk worden opgeslagen, alvorens deze worden afgevoerd naar een lozingspunt buiten de tunnel;kopdeur:deur aan het einde, de kop, van een middentunnelkanaal;langsgelijkmatigheid:verhouding tussen de laagste en de hoogste waarde van de verlichting in de lengterichting gezien;langsventilatie:ventilatie in de lengterichting van een verkeersbuis;lichtreductiecoëfficient:mate waarin het licht gereduceerd wordtluminantiemeting:meting van verlichtingswaarden;maatgevende bui:gestandaardiseerde maat voor een regenbui die door het vuilwatersysteem van een tunnel verwerkt moet kunnen worden;middenkelder:vloeistofkelder waarin uit de tunnel afgevoerde vloeistoffen tijdelijk worden opgeslagen, alvorens ze worden afgevoerd naar de hoofdkelder;middentunnelkanaal:kanaal tussen twee aangrenzende verkeersbuizen dat dienst doet als vluchtroute;no-break voorziening:voorziening die bij uitval van de netstroomvoorziening kan zorgen voor een tijdelijke ononderbroken stroomvoorziening;nuttige berging:netto bergingscapaciteit die wordt bepaald door het maximum toegestane vloeistofniveau en het droogloopniveau;ontwerpsnelheid:de snelheid waarmee rekening gehouden is bij het wegontwerp;pan tilt zoom CCTV camera’s:camera’s in een gesloten tv-circuit die kunnen bewegen in een horizontaal en een verticaal vlak en waarmee het beeld kan worden uitvergroot;profiel van de vrije ruimte:doorsnede van de verkeersbuis, loodrecht op het wegdek en loodrecht op de langsrichting, die de begrenzing aangeeft waarbinnen objecten het verkeer niet mogen hinderen;RDS:Radio Data System -digitale informatie die wordt meegestuurd met een FM-radiosignaal voor autoradio’s, zoals verkeersinformatieraai:denkbeeldige lijn dwars over een weg;signaleringsraai:portaal dwars over de snelweg met verkeerssignaleringsborden;STI-waarde:Speech Transmission Index – eenheid om de verstaanbaarheid van gesproken tekst aan te geven;stopafstand:de afstand die is vereist om een met de ontwerpsnelheid rijdend voertuig tot volledige stilstand te brengen, daarbij rekening houdend met de reactietijd van de bestuurder en de remvertraging;T-DAB kanalen:Terrestrial-Digital Audio Broadcasting – methode om digitale radiosignalen over te sturen;verrijdbare bermbeveiliging:horizontaal bewegend geleideprofiel waarmee het verkeer van de ene rijbaan naar de andere geleid kan worden;zandvang:gedeelte van de vloeistofkelder waarin zand kan bezinken. 
+In deze bijlage wordt verstaan onder: aanstraalverlichting:verlichting bij vluchtdeuren die de deur aanstraalt en zo zichtbaar maakt;accentverlichting:verlichting die een bepaalde plek extra benadrukt;AFFF:Aqueous Film Forming Foam – schuimvormend middel dat aan water wordt toegevoegd om branden beter te kunnen blussen;buitenopstellingskast:apparatuurkast die geschikt is om buiten opgesteld te worden, en voldoende bescherming aan de ingebouwde apparatuur biedt;calamiteitendoorsteek:gedeelte van de geleiderails waarmee een gedeelte van de tussenberm vrij wordt gemaakt waardoor de hulpverleningsdienst en de tussenberm kunnen doorkruisen;C2000:communicatiesysteem als bedoeld in de Regeling C2000 en GMS;contourverlichting:verlichting rond een vluchtdeur die wordt aangezet als evacuatie nodig is;drempelwaardeverhoging:mate waarin het contrast moet worden verhoogd, om het verlies aan waarneming, veroorzaakt door verblinding ten gevolge van de armaturen van de verlichtingsinstallatie, te compenseren;droogloopniveau:het vloeistofniveau waarop de pompen moeten worden uitgezet om drooglopen te voorkomen;dwarshelling:helling in de richting loodrecht op de rijrichting van de weg;eventrecorder:opnamevoorziening die gebeurtenissen vastlegt;grensruimte:een ruimte die grenst aan een vloeistofbassin en die een directe verbinding heeft met een vloeistofbassin die niet te allen tijde geheel dampdicht is;hoofdkelder:vloeistofkelder waarin uit de tunnel afgevoerde vloeistoffen tijdelijk worden opgeslagen, alvorens deze worden afgevoerd naar een lozingspunt buiten de tunnel;kopdeur:deur aan het einde, de kop, van een middentunnelkanaal;langsgelijkmatigheid:verhouding tussen de laagste en de hoogste waarde van de verlichting in de lengterichting gezien;langsventilatie:ventilatie in de lengterichting van een verkeersbuis;lichtreductiecoëfficient:mate waarin het licht gereduceerd wordtluminantiemeting:meting van verlichtingswaarden;maatgevende bui:gestandaardiseerde maat voor een regenbui die door het vuilwatersysteem van een tunnel verwerkt moet kunnen worden;middenkelder:vloeistofkelder waarin uit de tunnel afgevoerde vloeistoffen tijdelijk worden opgeslagen, alvorens ze worden afgevoerd naar de hoofdkelder;middentunnelkanaal:kanaal tussen twee aangrenzende verkeersbuizen dat dienst doet als vluchtroute;no-break voorziening:voorziening die bij uitval van de netstroomvoorziening kan zorgen voor een tijdelijke ononderbroken stroomvoorziening;nuttige berging:netto bergingscapaciteit die wordt bepaald door het maximum toegestane vloeistofniveau en het droogloopniveau;ontwerpsnelheid:de snelheid waarmee rekening gehouden is bij het wegontwerp;pan tilt zoom CCTV camera’s:camera’s in een gesloten tv-circuit die kunnen bewegen in een horizontaal en een verticaal vlak en waarmee het beeld kan worden uitvergroot;profiel van de vrije ruimte:doorsnede van de verkeersbuis, loodrecht op het wegdek en loodrecht op de langsrichting, die de begrenzing aangeeft waarbinnen objecten het verkeer niet mogen hinderen;RDS:Radio Data System -digitale informatie die wordt meegestuurd met een FM-radiosignaal voor autoradio’s, zoals verkeersinformatieraai:denkbeeldige lijn dwars over een weg;signaleringsraai:portaal dwars over de snelweg met verkeerssignaleringsborden;STI-waarde:Speech Transmission Index – eenheid om de verstaanbaarheid van gesproken tekst aan te geven;stopafstand:de afstand die is vereist om een met de ontwerpsnelheid rijdend voertuig tot volledige stilstand te brengen, daarbij rekening houdend met de reactietijd van de bestuurder en de remvertraging;T-DAB kanalen:Terrestrial-Digital Audio Broadcasting – methode om digitale radiosignalen over te sturen;verrijdbare bermbeveiliging:horizontaal bewegend geleideprofiel waarmee het verkeer van de ene rijbaan naar de andere geleid kan worden;zandvang:gedeelte van de vloeistofkelder waarin zand kan bezinken. 
 
 ### Paragraaf 2 
 

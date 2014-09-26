@@ -10,17 +10,17 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is aanvullende voors
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Woningwet. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Onteigeningswet. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1. Wijzigt deze wet. 
 2. 
@@ -29,12 +29,12 @@ a.Wijzigt de Wet regulering prostitutie en bestrijding misstanden seksbranche (K
 b.Wijzigt de Woningwet. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -44,10 +44,10 @@ Wassenaar
 4 juni 2014  
 Willem-Alexander  
 
-De Minister voor Wonen en Rijksdienst ,  
+De Minister voor Wonen en Rijksdienst,  
 S.A. Blok   
 
 de *vierde* juli 2014 
 
-De Minister van Veiligheid en Justitie ,  
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

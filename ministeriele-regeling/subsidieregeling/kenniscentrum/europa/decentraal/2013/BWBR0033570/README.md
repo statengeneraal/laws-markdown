@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329545, houdende regels voor de subsidiëring van de Stichting Europa decentraal; Kenniscentrum Europees recht en beleid (Subsidieregeling Kenniscentrum Europa Decentraal 2013)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 3, eerste lid](../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md), en [4, eerste lid, onderdelen d, e en f, van de Kaderwet overige BZK-subsidies](../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en de [artikelen 11, tweede lid](../../../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](../../../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md);
+Gelet op de artikelen 3, eerste lid, en 4, eerste lid, onderdelen d, e en f, van de Kaderwet overige BZK-subsidies en de artikelen 11, tweede lid, en 18, eerste lid, van het Kaderbesluit BZK-subsidies;
 Besluit:     
 ### §  1  
 
@@ -19,7 +19,7 @@ b.  *Kenniscentrum:* de Stichting Europa decentraal; Kenniscentrum Europees rech
 
 ### Artikel  2  
 
-1.  De minister verstrekt aan het Kenniscentrum een subsidie voor het geven van voorlichtingen het verstrekken van informatie aan provincies, gemeenten en waterschappen over Europese regelgeving en het Europese beleid dat voor deze organen van belang is.   
+1. De minister verstrekt aan het Kenniscentrum een subsidie voor het geven van voorlichting aan, het verspreiden van kennis onder, het signaleren van relevante ontwikkelingen voor en het coördineren van rapportages en kennisgevingen door provincies, gemeenten en waterschappen op het terrein van de Europese regelgeving en het Europese beleid dat voor deze organen van belang is in de decentrale praktijk.  
 2.  De subsidie wordt per boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.  
 
 ### Artikel  3  
@@ -41,12 +41,12 @@ Het Kenniscentrum dient de aanvraag tot subsidieverlening uiterlijk in op 1 okt
 ### Artikel  5  
 
 1.  De minister verstrekt voorschotten per boekjaar.   
-2.  Het totaal van de voorschotten voor een boekjaar bedraagt 100 procent van de voor dat jaar verleende subsidie.   
-3.  De voorschotten worden als volgt verstrekt: 
+2.  Het totaal van de voorschotten voor een boekjaar bedraagt 100 procent van de voor dat jaar verleende subsidie.  
+3. De voorschotten worden als volgt verstrekt: 
 
-a. 50 procent van de voor een boekjaar verleende subsidie in januari van dat boekjaar;  
+a. 80 procent van de voor een boekjaar verleende subsidie in januari van dat boekjaar;  
 
-b. 50 procent van de voor een boekjaar verleende subsidie in juni van dat boekjaar.     
+b. 20 procent van de voor een boekjaar verleende subsidie in juni van dat boekjaar.    
 4.  De minister kan een voorschot een maand later verstrekken, nadat het Kenniscentrum hiervan in kennis is gesteld.  
 
 ### §  4  
@@ -57,13 +57,19 @@ b. 50 procent van de voor een boekjaar verleende subsidie in juni van dat boekja
 
 Het Kenniscentrum start de uitvoering van de activiteiten binnen het jaar waarvoor de subsidie is verleend. 
 
+### Artikel  6a  
+
+1.  Het Kenniscentrum kan een egalisatiereserve vormen als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
+2.  De jaarlijkse toevoegingen aan de egalisatiereserve bedraagt ten hoogste 5 procent van de over het boekjaar verleende subsidie. De egalisatiereserve bedraagt ten hoogste 10 procent van de over het boekjaar verleende subsidie.   
+3.  De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in artikel 2, eerste lid.  
+
 ### §  5  
 
 ####Overgangs- en slotbepalingen
 
 ### Artikel  7  
 
-Een subsidie die is verleend krachtens de [Subsidieregeling Kenniscentrum Europa decentraal](../../../../../../../ministeriele-regeling/subsidieregeling/kenniscentrum/europa/decentraal/BWBR0022495/README.md) wordt aangemerkt als een subsidie, verleend krachtens deze regeling. 
+Een subsidie die is verleend krachtens de Subsidieregeling Kenniscentrum Europa decentraal wordt aangemerkt als een subsidie, verleend krachtens deze regeling. 
 
 ### Artikel  8  
 

@@ -10,7 +10,6 @@ Gelet op artikel 4, tweede lid, van de Muntwet 2002;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
-Treedt in werking per 27-09-2014 
 
 1.  De bestanddelen van de beeldenaar van de munten van vijf en tien euro ‘Kinderdijkse Molens’ die in 2014 worden uitgegeven in de thematische serie Nederlands Werelderfgoed, zijn: 
 
@@ -25,7 +24,6 @@ en rechts het teken van de Muntmeester   ![254217](http://wetten.overheid.nl/Ill
 3.  De tien-euromunt heeft een fijngeribbelde rand.  
 
 ### Artikel  2  
-Treedt in werking per 27-09-2014 
 
 Dit besluit treedt in werking met ingang van 25 september 2014. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 24 september 2014, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug tot en met 25 september 2014.  
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   

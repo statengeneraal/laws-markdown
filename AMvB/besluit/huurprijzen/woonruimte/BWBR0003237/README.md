@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting en Ruimtelijke Ordening, drs. M.P.A. van Dam, van 7 september 1977, nr. 0902932, Centrale Afdeling Juridische Zaken; 
 
-Gelet op de [artikelen 7, eerste lid, 9, eerste lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [10, vierde lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), [15, eerste en tweede lid](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md), en [18, vierde lid, van de Huurprijzenwet woonruimte](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md) (Wet van 18 januari 1979, *Stb.* 1979, 15); 
+Gelet op de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte (Wet van 18 januari 1979, *Stb.* 1979, 15); 
 
 De Raad van State gehoord, advies van 22 november 1978, nr. 13; 
 
@@ -15,38 +15,38 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1. In dit besluit wordt onder het bestuur en de zittingsvoorzitters verstaan: het bestuur en de zittingsvoorzitters, bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).  
+1. In dit besluit wordt onder het bestuur en de zittingsvoorzitters verstaan: het bestuur en de zittingsvoorzitters, bedoeld in artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte.  
 2.   Onder woonruimte welke een zelfstandige woning vormt, wordt in dit besluit niet mede begrepen een woonwagen of een combinatie van een standplaats en een woonwagen.    
 3.   Onder woonruimte welke niet een zelfstandige woning vormt, wordt in dit besluit niet mede begrepen een standplaats.   
 
 ###Artikel 2  
 
-Het bedrag, bedoeld in [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), is gelijk aan het bedrag, bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md). 
+Het bedrag, bedoeld in artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte, is gelijk aan het bedrag, bedoeld in artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag. 
 
 ### Artikel  4  
 
-1. Het bedrag van de bij wijze van voorschot aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en het bedrag van de vergoeding, bedoeld in dat lid, wordt vastgesteld op:
+1. Het bedrag van de bij wijze van voorschot aan de Staat verschuldigde vergoeding, bedoeld in artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte, en het bedrag van de vergoeding, bedoeld in dat lid, wordt vastgesteld op:
 
 a. indien de verzoeker dan wel de partij die niet de verzoeker is een huurder is: € 25,  
 
 b. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is: € 450, dan wel  
 
-c. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is die op basis van de krachtens [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) verstrekte gegevens, aantoont dat hij een natuurlijke persoon is: € 25.   
-2.  Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), wordt vastgesteld op € 100. 
+c. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is die op basis van de krachtens artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte verstrekte gegevens, aantoont dat hij een natuurlijke persoon is: € 25.   
+2.  Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in artikel 7a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte, wordt vastgesteld op € 100. 
 
 ### Artikel  4a  
 
-Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 8 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), wordt vastgesteld op: 
+Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in artikel 8 van de Uitvoeringswet huurprijzen woonruimte, wordt vastgesteld op: 
 
 a. indien de verzoeker dan wel de partij die niet de verzoeker is een huurder is: € 25,  
 
 b. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is: € 450, dan wel  
 
-c. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is die op basis van de krachtens [artikel 8 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) verstrekte gegevens, aantoont dat hij een natuurlijke persoon is: € 25.   
+c. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is die op basis van de krachtens artikel 8 van de Uitvoeringswet huurprijzen woonruimte verstrekte gegevens, aantoont dat hij een natuurlijke persoon is: € 25.   
 
 ### Artikel  5  
 
-1.  De in [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) bedoelde waardering van de kwaliteit van woonruimte vindt plaats: 
+1.  De in artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte bedoelde waardering van de kwaliteit van woonruimte vindt plaats: 
 
 a. voor woonruimte, welke een zelfstandige woning vormt, overeenkomstig het in bijlage I, onder A, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting.   
 
@@ -57,7 +57,7 @@ c. voor woonruimte, welke niet een zelfstandige woning vormt, overeenkomstig het
 
 ### Artikel  6  
 
-1.  Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge [artikel 12, eerste lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), of [artikel 16, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in bijlage II van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld: 
+1.  Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge artikel 12, eerste lid, of artikel 16, eerste lid, van de Uitvoeringswet huurprijzen woonruimte neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in bijlage II van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld: 
 
 a. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie A, van dit besluit: 20% van de overeengekomen huurprijs;  
 
@@ -73,9 +73,9 @@ c. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, ca
 
 De huurprijs van een woonruimte wordt vermeerderd met 15% van de maximale huurprijsgrens, behorende bij de kwaliteit van die woonruimte, indien: 
 
-a. deze behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md),  
+a. deze behoort tot een beschermd stads- en dorpsgezicht als bedoeld in artikel 1, onder g, van de Monumentenwet 1988,  
 
-b. deze niet bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van die wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md),  
+b. deze niet bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van die wet,  
 
 c. deze is gebouwd voor 1945 en  
 
@@ -215,7 +215,7 @@ J. de Ruiter
 | 12.* Bijzondere voorzieningen:*   | --- | --- | --- | --- |
 | Uitsluitend bij serviceflatwoningen:  | bij: 35% van de ingevolge de onderdelen 1 tot en met 11 toegekende punten.  | --- |
 |13.*Punten voor schaarstegebied:*  |  –  indien ten aanzien van een woning die is gelegen in een gemeente, genoemd in bijlage III , de laatstelijk onherroepelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken gedeeld door het aantal m<sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning, hoger is dan € 2.900: bij: 25 punten     –  in alle andere gevallen dan hiervoor bedoeld en indien een woning is gelegen in een gemeente, genoemd in bijlage III: bij: 15 punten.     | --- |
-|14. *Beschermd monument:* |– indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md):  |bij: 50 punten |
+|14. *Beschermd monument:* |– indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988:  |bij: 50 punten |
 
 * maximaal 4 punten** voor de energieprestatie wordt de duplexwoning gewaardeerd als meergezinswoning*** maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)
 
@@ -223,7 +223,7 @@ J. de Ruiter
 
 ####Inleiding 
 
-Deze toelichting op het woningwaarderingsstelsel vormt een integraal onderdeel van dat stelsel.  Het woningwaarderingsstelsel heeft op zelfstandige woonruimte betrekking, in het navolgende kortweg als 'woning' aangeduid. Hierbij zij opgemerkt dat in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zelfstandige woningen worden omschreven als woningen met een eigen toegang welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.  Binnen het in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) omschreven begrip zelfstandige woning zal redelijkerwijs ook begrepen kunnen worden de zogenaamde onvrije woning, te weten een woning waarbij de bewoner voor wezenlijke voorzieningen niet afhankelijk is van gemeenschappelijke voorzieningen, maar waarbij verscheidene vertrekken uitkomen op een gemeenschappelijke verkeersruimte. Indien deze vertrekken afsluitbaar zijn en bereikbaar via een gemeenschappelijke verkeersruimte waarover anderen niet krachtens zakelijk of persoonlijk recht bij uitsluiting zeggenschap hebben, wordt deze woning als zelfstandige woning gewaardeerd.  Tot het gehuurde behorende vertrekken, overige ruimten en voorzieningen (verwarming en sanitair), die buiten de woning, doch binnen het woongebouw zijn gelegen, worden overeenkomstig dit woningwaarderingsstelsel gewaardeerd, mits het mogelijk is het gebruik ervan door derden uit te sluiten.  Gemeenschappelijke vertrekken, overige ruimten, of voorzieningen (verwarming, keuken of sanitair) voor verscheidene zelfstandige woningen, welke binnen het woongebouw zijn gelegen, worden overeenkomstig het woningwaarderingsstelsel gewaardeerd; de punten worden evenredig over het aantal zelfstandige woningen binnen het woongebouw verdeeld, ongeacht de grootte van de afzonderlijke woningen.  Alleen die onderdelen worden in punten gewaardeerd, die tot de onroerende zaak behoren. Door de bewoner onverplicht en voor eigen rekening aangebrachte verbeteringen worden niet met punten gewaardeerd, tenzij de verhuurder voor deze verbeteringen een vergoeding aan de huurder heeft verstrekt.  Indien er sprake is van een serviceflatwoning - de begripsomschrijving is opgenomen onder punt 12 van deze toelichting - wordt het puntentotaal van de waardering volgens de onderdelen 1 tot en met 11 van het woningwaarderingsstelsel met een percentage van 35 verhoogd. Deze verhoging wordt gegeven vanwege het medegebruik door de huurders van dergelijke woningen van de in het woongebouw en de daarbij behorende onroerende aanhorigheden aanwezige voorzieningen, hetwelk in de waardering van de kwaliteit van de serviceflatwoning volgens de onderdelen 1 tot en met 11 onvoldoende tot zijn recht komt.  
+Deze toelichting op het woningwaarderingsstelsel vormt een integraal onderdeel van dat stelsel.  Het woningwaarderingsstelsel heeft op zelfstandige woonruimte betrekking, in het navolgende kortweg als 'woning' aangeduid. Hierbij zij opgemerkt dat in artikel 234 van Boek 7 van het Burgerlijk Wetboek zelfstandige woningen worden omschreven als woningen met een eigen toegang welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.  Binnen het in artikel 234 van Boek 7 van het Burgerlijk Wetboek omschreven begrip zelfstandige woning zal redelijkerwijs ook begrepen kunnen worden de zogenaamde onvrije woning, te weten een woning waarbij de bewoner voor wezenlijke voorzieningen niet afhankelijk is van gemeenschappelijke voorzieningen, maar waarbij verscheidene vertrekken uitkomen op een gemeenschappelijke verkeersruimte. Indien deze vertrekken afsluitbaar zijn en bereikbaar via een gemeenschappelijke verkeersruimte waarover anderen niet krachtens zakelijk of persoonlijk recht bij uitsluiting zeggenschap hebben, wordt deze woning als zelfstandige woning gewaardeerd.  Tot het gehuurde behorende vertrekken, overige ruimten en voorzieningen (verwarming en sanitair), die buiten de woning, doch binnen het woongebouw zijn gelegen, worden overeenkomstig dit woningwaarderingsstelsel gewaardeerd, mits het mogelijk is het gebruik ervan door derden uit te sluiten.  Gemeenschappelijke vertrekken, overige ruimten, of voorzieningen (verwarming, keuken of sanitair) voor verscheidene zelfstandige woningen, welke binnen het woongebouw zijn gelegen, worden overeenkomstig het woningwaarderingsstelsel gewaardeerd; de punten worden evenredig over het aantal zelfstandige woningen binnen het woongebouw verdeeld, ongeacht de grootte van de afzonderlijke woningen.  Alleen die onderdelen worden in punten gewaardeerd, die tot de onroerende zaak behoren. Door de bewoner onverplicht en voor eigen rekening aangebrachte verbeteringen worden niet met punten gewaardeerd, tenzij de verhuurder voor deze verbeteringen een vergoeding aan de huurder heeft verstrekt.  Indien er sprake is van een serviceflatwoning - de begripsomschrijving is opgenomen onder punt 12 van deze toelichting - wordt het puntentotaal van de waardering volgens de onderdelen 1 tot en met 11 van het woningwaarderingsstelsel met een percentage van 35 verhoogd. Deze verhoging wordt gegeven vanwege het medegebruik door de huurders van dergelijke woningen van de in het woongebouw en de daarbij behorende onroerende aanhorigheden aanwezige voorzieningen, hetwelk in de waardering van de kwaliteit van de serviceflatwoning volgens de onderdelen 1 tot en met 11 onvoldoende tot zijn recht komt.  
 
 ### 1  
 
@@ -241,7 +241,7 @@ Overige ruimten geen (speel)hallen, gangen, verkeersruimten en/of overlopen zijn
 
 ####Verwarming 
 
-Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twee punten toegepast, voorzover de verwarming tot de onroerende zaak en zijn onroerende aanhorigheden behoort. Alleen die vertrekken worden in dit kader meegeteld, die met punten als vertrek zijn gewaardeerd. Open keukens, of vertrekken die met een schuifwand met elkaar in verbinding staan, worden als afzonderlijk vertrek geteld.  Indien er sprake is van de levering van warmte, bedoeld in [artikel 1, onderdeel e, van de Warmtewet](../../../../../wet/warmtewet/BWBR0033729/README.md), wordt per vertrek een waardering van 1½ punt toegepast. 
+Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twee punten toegepast, voorzover de verwarming tot de onroerende zaak en zijn onroerende aanhorigheden behoort. Alleen die vertrekken worden in dit kader meegeteld, die met punten als vertrek zijn gewaardeerd. Open keukens, of vertrekken die met een schuifwand met elkaar in verbinding staan, worden als afzonderlijk vertrek geteld.  Indien er sprake is van de levering van warmte, bedoeld in artikel 1, onderdeel e, van de Warmtewet, wordt per vertrek een waardering van 1½ punt toegepast. 
 
 ### 4  
 
@@ -263,9 +263,9 @@ De waardering van het sanitair wordt bepaald op grond van de aanwezigheid van be
 
 ### 7  
 
-#### Voorzieningen als bedoeld in [artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) (woonvoorzieningen voor gehandicapten): 
+#### Voorzieningen als bedoeld in artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek (woonvoorzieningen voor gehandicapten): 
 
-Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in [artikel 1, eerste lid, onder g, onderdeel 6°, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), ofwel ingrepen als bedoeld in [artikel 5, derde lid, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) (inmiddels ingetrokken) ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van [artikel 1, eerste lid, onder c, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md), omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent). 
+Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in artikel 1, eerste lid, onder g, onderdeel 6°, van de Wet maatschappelijke ondersteuning, ofwel ingrepen als bedoeld in artikel 5, derde lid, van de Wet voorzieningen gehandicapten (inmiddels ingetrokken) ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van artikel 1, eerste lid, onder c, van de Wet voorzieningen gehandicapten, omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent). 
 
 ### 8  
 
@@ -371,7 +371,7 @@ Geluidsoverlast kan leiden tot een aftrek van maximaal 35 punten, voorzover deze
 
 ####Stadsvernieuwingsaftrek 
 
-Aanbevolen wordt een aftrek voor buurten die ernstig in verval zijn of waar stadsvernieuwingsactiviteiten in uitvoering zijn, van ten hoogste 10 punten. De aftrek wordt slechts toegepast in gebieden die aangewezen zijn overeenkomstig [artikel 3.5 van de Wet ruimtelijke ordening](../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). 
+Aanbevolen wordt een aftrek voor buurten die ernstig in verval zijn of waar stadsvernieuwingsactiviteiten in uitvoering zijn, van ten hoogste 10 punten. De aftrek wordt slechts toegepast in gebieden die aangewezen zijn overeenkomstig artikel 3.5 van de Wet ruimtelijke ordening. 
 
 ####Puntenboeken 
 
@@ -407,13 +407,13 @@ e. leveringen en diensten vanwege de verhuurder aan de huurder, strekkende tot h
 
 ####Waardering woning in schaarstegebied
 
-In bijlage III zijn de gemeenten die gelegen zijn in het zogenoemde schaarstegebied opgenomen. Indien een woning is gelegen in een van die gemeenten en de laatstelijk onherroepelijk vastgestelde waarde op voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) gedeeld door het aantal m<sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning hoger is dan € 2 900, worden 25 punten toegekend. In alle andere gevallen worden ten aanzien van een woning die is gelegen in een van die gemeenten, 15 punten toegekend. 
+In bijlage III zijn de gemeenten die gelegen zijn in het zogenoemde schaarstegebied opgenomen. Indien een woning is gelegen in een van die gemeenten en de laatstelijk onherroepelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken gedeeld door het aantal m<sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning hoger is dan € 2 900, worden 25 punten toegekend. In alle andere gevallen worden ten aanzien van een woning die is gelegen in een van die gemeenten, 15 punten toegekend. 
 
 ###14 
 
 ####Beschermd monument
 
-Indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) worden 50 punten extra toegekend.
+Indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988 worden 50 punten extra toegekend.
 
 ### 15  
 
@@ -472,7 +472,7 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 | --- |  *l.* Wanneer tegenover het (grootste) raam van het (hoofd)woonvertrek een gevelwand ligt binnen een afstand van 5 meter  | – 10   |
 | --- |  *m.* Indien in de onzelfstandige woonruimte en bovendien in de gemeenschappelijke ruimten geen warme maaltijden mogen worden bereid  | – 20  |
 |7. |*Beschermd monument* | --- |
-| --- |– indien de onzelfstandige woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)  |50  |
+| --- |– indien de onzelfstandige woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988  |50  |
 
 <sup>1</sup> Als oppervlakte van een vertrek met een (ten dele) hellend of verlaagd plafond geldt dat gedeelte, waarboven het plafond tenminste 1,50 meter hoog is.<sup>2</sup> Afronding: bij 0,5 m<sup>2</sup> of meer naar boven, bij minder dan 0,5 m<sup>2</sup> naar beneden.<sup>3</sup> Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.<sup>4 </sup> In totaal kan niet meer worden afgetrokken dan 50% van alle positieve punten.
 
@@ -488,13 +488,13 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 
 ####Woonwagens:
 
-Woonwagens met een lengte tot en met 9.1 meter zonder sanitair : 38 punten Woonwagens met een lengte tot en met 11.1 meter zonder sanitair: 44 punten of met sanitair: 52 punten Woonwagens met een lengte tot en met 13 meter zonder sanitair: 49 punten of met sanitair: 57 punten Woonwagens met een lengte tot en met 15 meter zonder sanitair: 55 punten of met sanitair: 63 punten Aanbouw extra slaapvoorziening : 11 punten Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van keuken en sanitair extra punten worden toegekend (zie toelichting bij bijlage I, onder A). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in [artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md). 
+Woonwagens met een lengte tot en met 9.1 meter zonder sanitair : 38 punten Woonwagens met een lengte tot en met 11.1 meter zonder sanitair: 44 punten of met sanitair: 52 punten Woonwagens met een lengte tot en met 13 meter zonder sanitair: 49 punten of met sanitair: 57 punten Woonwagens met een lengte tot en met 15 meter zonder sanitair: 55 punten of met sanitair: 63 punten Aanbouw extra slaapvoorziening : 11 punten Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van keuken en sanitair extra punten worden toegekend (zie toelichting bij bijlage I, onder A). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek. 
 
 ### B  
 
 ####Standplaatsen:
 
-Standplaatsen kleiner dan 145 m<sup>2</sup> met berging en sanitair : 39 punten of met berging maar zonder sanitair: 23 punten Standplaatsen van 145 m<sup>2</sup> tot 170 m<sup>2</sup> met berging en sanitair : 46 punten of met berging maar zonder sanitair: 30 punten Standplaatsen vanaf 170 m<sup>2</sup> met berging en sanitair : 53 punten of met berging maar zonder sanitair: 37 punten Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van sanitair extra kwaliteitspunten worden toegekend (zie toelichting bij bijlage I, onder A,). Bij standplaatsen, groter dan 200 m<sup>2</sup>, kunnen voor het aspect privé buitenruimte ten hoogste 10 extra kwaliteitspunten worden toegekend (zie toelichting, onder I, punt 7). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in [artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md). 
+Standplaatsen kleiner dan 145 m<sup>2</sup> met berging en sanitair : 39 punten of met berging maar zonder sanitair: 23 punten Standplaatsen van 145 m<sup>2</sup> tot 170 m<sup>2</sup> met berging en sanitair : 46 punten of met berging maar zonder sanitair: 30 punten Standplaatsen vanaf 170 m<sup>2</sup> met berging en sanitair : 53 punten of met berging maar zonder sanitair: 37 punten Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van sanitair extra kwaliteitspunten worden toegekend (zie toelichting bij bijlage I, onder A,). Bij standplaatsen, groter dan 200 m<sup>2</sup>, kunnen voor het aspect privé buitenruimte ten hoogste 10 extra kwaliteitspunten worden toegekend (zie toelichting, onder I, punt 7). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek. 
 
 ### II  
 
@@ -649,21 +649,21 @@ In onderstaand overzicht zijn de afzonderlijke aspecten verwerkt, die geleid heb
 
 ####Zeer ernstige gebreken aan en tekortkomingen ten aanzien van de woonruimte
 
-1. Er is geen aansluiting van de woonruimte welke een zelfstandige woning vormt, op het openbaar vuilwaterriool als bedoeld in [afdeling 6.4 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), of op een alternatief verwerkingssysteem voor huishoudelijke afvalstoffen. 2. Er is geen mogelijkheid tot toevoer van verse lucht en afvoer van binnenlucht van de toiletruimte, het vertrek waarin de kookgelegenheid zich bevindt, het hoofdwoonvertrek, het slaapvertrek of de badruimte, als bedoeld in de [paragrafen 3.6.2](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [3.8.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md). 3. Er is geen daglichttoetreding in het hoofdwoon- of slaapvertrek, als bedoeld in [paragraaf 3.11.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md). 4. 
+1. Er is geen aansluiting van de woonruimte welke een zelfstandige woning vormt, op het openbaar vuilwaterriool als bedoeld in afdeling 6.4 van het Bouwbesluit 2012, of op een alternatief verwerkingssysteem voor huishoudelijke afvalstoffen. 2. Er is geen mogelijkheid tot toevoer van verse lucht en afvoer van binnenlucht van de toiletruimte, het vertrek waarin de kookgelegenheid zich bevindt, het hoofdwoonvertrek, het slaapvertrek of de badruimte, als bedoeld in de paragrafen 3.6.2 en 3.8.2 van het Bouwbesluit 2012. 3. Er is geen daglichttoetreding in het hoofdwoon- of slaapvertrek, als bedoeld in paragraaf 3.11.2 van het Bouwbesluit 2012. 4. 
 
-a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een toiletruimte als bedoeld in [paragraaf 4.2.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) die is voorzien van een toiletpot die is aangesloten op de voorziening voor afvalwater en faecaliën, en van een waterspoelinrichting die is aangesloten op de drinkwatervoorziening;  
+a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een toiletruimte als bedoeld in paragraaf 4.2.2 van het Bouwbesluit 2012 die is voorzien van een toiletpot die is aangesloten op de voorziening voor afvalwater en faecaliën, en van een waterspoelinrichting die is aangesloten op de drinkwatervoorziening;  
 
 b. Er is ten behoeve van de woonruimte welke niet een zelfstandige woning vormt, niet een toiletruimte als bedoeld onder a.   5.  
 
 a. Er is in de woonruimte welke een zelfstandige woning vormt, niet een aparte badruimte waarin een bad, douche of wastafel aanwezig is dat, onderscheidenlijk die, is aangesloten op de voorziening voor afvalwater en faecaliën en voorzien van een kraan die is aangesloten op de drinkwatervoorziening;  
 
-b. Er is ten behoeve van de woonruimte welke niet een zelfstandige woning vormt, niet een aparte badruimte.   6. Er is in de woonruimte welke een zelfstandige woning vormt niet een opstelplaats voor een aanrecht en een opstelplaats voor een kooktoestel als bedoeld in [paragraaf 4.7.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), voorzien van een aanrecht met een spoelbak die is aangesloten op de voorziening voor afvoer van afvalwater en fecaliën en van een kraan die is aangesloten op de drinkwatervoorziening. 7. De toegang tot de woonruimte welke een zelfstandige woning vormt, of de toegang van een op de gemeenschappelijke ruimte uitkomend vertrek van de woonruimte welke niet een zelfstandige woning vormt, is niet afsluitbaar. 8. De woonruimte is, als gevolg van de toestand waarin de fundering van de woning, het chassis van de woonwagen, de bodem van de standplaats voor de woonwagen, de muren van de woning, de wanden van de woonwagen, het dak, de trappen, de vloeren, de schoorstenen, de balkons, de galerijen of de balustrades zich bevinden, door het daarmee gepaard gaande gevaar voor de veiligheid en de gezondheid van de bewoners ongeschikt voor bewoning.  
+b. Er is ten behoeve van de woonruimte welke niet een zelfstandige woning vormt, niet een aparte badruimte.   6. Er is in de woonruimte welke een zelfstandige woning vormt niet een opstelplaats voor een aanrecht en een opstelplaats voor een kooktoestel als bedoeld in paragraaf 4.7.2 van het Bouwbesluit 2012, voorzien van een aanrecht met een spoelbak die is aangesloten op de voorziening voor afvoer van afvalwater en fecaliën en van een kraan die is aangesloten op de drinkwatervoorziening. 7. De toegang tot de woonruimte welke een zelfstandige woning vormt, of de toegang van een op de gemeenschappelijke ruimte uitkomend vertrek van de woonruimte welke niet een zelfstandige woning vormt, is niet afsluitbaar. 8. De woonruimte is, als gevolg van de toestand waarin de fundering van de woning, het chassis van de woonwagen, de bodem van de standplaats voor de woonwagen, de muren van de woning, de wanden van de woonwagen, het dak, de trappen, de vloeren, de schoorstenen, de balkons, de galerijen of de balustrades zich bevinden, door het daarmee gepaard gaande gevaar voor de veiligheid en de gezondheid van de bewoners ongeschikt voor bewoning.  
 
 ### Categorie B  
 
 ####Ernstige gebreken aan en tekortkomingen ten aanzien van de woonruimte
 
-1. Met betrekking tot de woonruimte geldt een plicht tot het treffen van voorzieningen op grond van een besluit krachtens [artikel 13 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md), dan wel een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom wegens overtreding van het bepaalde bij of krachtens [artikel 1a](../../../../../wet/woningwet/BWBR0005181/README.md), [1b](../../../../../wet/woningwet/BWBR0005181/README.md), [7b](../../../../../wet/woningwet/BWBR0005181/README.md), of [13 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md), voor zover de desbetreffende voorzieningen nog niet zijn getroffen en voor zover de aan de plicht tot het treffen van die voorzieningen ten grondslag liggende gebreken of tekortkomingen het woongenot van de gehuurde woonruimte ernstig schaden. 2. In keuken, woon- of slaapvertrekken is als gevolg van de bouwkundige staat van de woonruimte sprake van condensatie, doorslaand of optrekkend vocht, waardoor zich zodanige schimmelvorming of houtrot in balken of vloerdelen voordoet, dat de bruikbaarheid van deze vertrekken ernstig is aangetast. 3. De bruikbaarheid van de woonruimte is ernstig belemmerd tengevolge van lekkage van de buitenschil van de woonruimte waardoor hemelwater de woonruimte binnendringt. 4. Vanwege de bouwkundige staat van het afvoerkanaal voor de hoofdverwarming is sprake van een zodanig gebrekkige afvoer van de rook- of verbrandingsgassen, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad. 5. Er is door verzakking een zodanige scheefstand van buitenmuren van de woning of van buitenwanden van de woonwagen dan wel sprake van een zodanige helling van vloeren of van een zodanige toestand van plafonds of binnenwanden, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad. 6. Het rioleringssysteem functioneert niet of zodanig, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad. 7. Er treedt vanwege het feit dat de direct boven de bodem liggende vloer niet afsluit, een voortdurende en zodanige stankoverlast binnen de woonruimte op dat de bewoonbaarheid ernstig wordt geschaad. 8. Er is sprake van een zodanige cumulatie van onderhoudsgebreken, zoals: zeer slechte toestand van het buitenschilderwerk bij alle gevels, ernstige houtrot in kozijnen en ramen, slechte staat van voeg- en metselwerk van de gevels, ernstig kierende buitendeuren en -ramen en zeer slechte staat van het dak, goten, overstekken en schoorstenen, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad.  
+1. Met betrekking tot de woonruimte geldt een plicht tot het treffen van voorzieningen op grond van een besluit krachtens artikel 13 van de Woningwet, dan wel een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom wegens overtreding van het bepaalde bij of krachtens artikel 1a, 1b, 7b, of 13 van de Woningwet, voor zover de desbetreffende voorzieningen nog niet zijn getroffen en voor zover de aan de plicht tot het treffen van die voorzieningen ten grondslag liggende gebreken of tekortkomingen het woongenot van de gehuurde woonruimte ernstig schaden. 2. In keuken, woon- of slaapvertrekken is als gevolg van de bouwkundige staat van de woonruimte sprake van condensatie, doorslaand of optrekkend vocht, waardoor zich zodanige schimmelvorming of houtrot in balken of vloerdelen voordoet, dat de bruikbaarheid van deze vertrekken ernstig is aangetast. 3. De bruikbaarheid van de woonruimte is ernstig belemmerd tengevolge van lekkage van de buitenschil van de woonruimte waardoor hemelwater de woonruimte binnendringt. 4. Vanwege de bouwkundige staat van het afvoerkanaal voor de hoofdverwarming is sprake van een zodanig gebrekkige afvoer van de rook- of verbrandingsgassen, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad. 5. Er is door verzakking een zodanige scheefstand van buitenmuren van de woning of van buitenwanden van de woonwagen dan wel sprake van een zodanige helling van vloeren of van een zodanige toestand van plafonds of binnenwanden, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad. 6. Het rioleringssysteem functioneert niet of zodanig, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad. 7. Er treedt vanwege het feit dat de direct boven de bodem liggende vloer niet afsluit, een voortdurende en zodanige stankoverlast binnen de woonruimte op dat de bewoonbaarheid ernstig wordt geschaad. 8. Er is sprake van een zodanige cumulatie van onderhoudsgebreken, zoals: zeer slechte toestand van het buitenschilderwerk bij alle gevels, ernstige houtrot in kozijnen en ramen, slechte staat van voeg- en metselwerk van de gevels, ernstig kierende buitendeuren en -ramen en zeer slechte staat van het dak, goten, overstekken en schoorstenen, dat de bewoonbaarheid van de woonruimte ernstig wordt geschaad.  
 
 ### Categorie C  
 
@@ -699,7 +699,7 @@ b. ernstig het woongenot schaadt, waarvan bijvoorbeeld sprake is bij:
 
 1. De combinatie huurwoonwagen op een huurstandplaats wordt in afwijking van artikel 1 van het besluit voor wat betreft het voorzieningenniveau als bedoeld onder 1, categorie A, aangemerkt als zelfstandige «woning».  
 
-2. Het niet of onvoldoende tegengaan van het binnendringen van ratten en muizen als bedoeld in [paragraaf 3.10.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) vormt een zeer ernstig gebrek aan en tekortkoming ten aanzien van de woonruimte.  
+2. Het niet of onvoldoende tegengaan van het binnendringen van ratten en muizen als bedoeld in paragraaf 3.10.2 van het Bouwbesluit 2012 vormt een zeer ernstig gebrek aan en tekortkoming ten aanzien van de woonruimte.  
 
 3. Indien er sprake is van de combinatie eigen woonwagen op een huurstandplaats, zijn de artikelen 1, 4 en 5 van onderdeel 1, categorie A, van overeenkomstige toepassing.  
 

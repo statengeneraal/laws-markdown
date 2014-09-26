@@ -14,7 +14,7 @@ Overwegende, dat eveneens een basis moet worden gelegd voor de definitieve uitvo
 
 Overwegende, dat het voor de inzichtelijkheid van de wetgeving gewenst is dat de regels met betrekking tot de bereiding en behandeling van levensmiddelen worden geconcentreerd in één Warenwetbesluit; 
 
-Gelet op de [artikelen 4, eerste lid](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [5, eerste lid, onder *a*, en zesde lid](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [6, onder *a* ](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [8, onder *c* ](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [16, tweede lid](../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [22, eerste en tweede lid, van de Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360); 
+Gelet op de artikelen 4, eerste lid, 5, eerste lid, onder *a*, en zesde lid, 6, onder *a* , 8, onder *c* , 12, 14, 16, tweede lid, en 22, eerste en tweede lid, van de Warenwet (*Stb.* 1988, 360); 
 
 Gehoord de Adviescommissie Warenwet (adviezen van 12 september 1990, nr. 14255/(13)5 en van 9 oktober 1991, nr. 14267/(4)5); 
 
@@ -68,7 +68,7 @@ p.*verordening (EG) 37/2005*: verordening (EG) nr. 37/2005 van de Commissie van 
 
 q.*verordening (EG) 396/2005*: verordening (EG) nr. 396/2005 van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 (PbEU L 70) tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van richtlijn 91/414/EG van de Raad;
 
-r.*bestrijdingsmiddel*: gewasbeschermingsmiddel of biocide, bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);
+r.*bestrijdingsmiddel*: gewasbeschermingsmiddel of biocide, bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden;
 
 s. *EU-noodmaatregel:* een in het Publicatieblad van de Europese Unie bekendgemaakte maatregel van de Commissie van de Europese Unie, vastgesteld krachtens artikel 53, eerste lid, onder a, of tweede lid, van verordening (EG) 178/2002, voor zover die maatregel strekt tot bescherming van de gezondheid van de mens;
 
@@ -90,7 +90,7 @@ v.  *lokaal vervoer:* rechtstreekse aflevering van bestellingen aan consumenten,
 8.  Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van artikel 4a inzake de verpakking van de waar.   
 9.  Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.  
 10. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de bij artikel 14, eerste lid, artikel 18, eerste tot en met vierde lid, artikel 19, en de krachtens artikel 18, vijfde lid, van verordening (EG) 178/2002 vastgestelde bepalingen.
-11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in [artikel 5, eerste lid, onder d, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md).
+11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in artikel 5, eerste lid, onder d, van het Warenwetbesluit Etikettering van levensmiddelen.
 12. Het is verboden te handelen in strijd met artikel 2 van verordening (EG) 37/2005.
 13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
 14. Het is verboden te handelen in strijd met artikel 3. 
@@ -171,7 +171,7 @@ c. de te bezigen aanduidingen of vermeldingen op verpakkingen of recipiënten va
 ### Artikel  7  
 
 1.  Voor zover het kennelijk technisch noodzakelijk is bij de bereiding van eetwaren minerale olie als los- of smeermiddel te gebruiken, mag uitsluitend vloeibare paraffine worden gebruikt. Als los- of smeermiddel gebruikte vloeibare paraffine mag in eetwaren aanwezig zijn tot een hoeveelheid van ten hoogste 50 mg/kg.   
-2.   Vloeibare paraffine moet voldoen aan de krachtens [artikel 4, tweede lid, van het Warenwetbesluit verpakkingen en gebruiksartikelen](../../../../../../../../AMvB/warenwetbesluit/verpakkingen/en/gebruiksartikelen/BWBR0018370/README.md) aan die stof gestelde specificatie.  
+2.   Vloeibare paraffine moet voldoen aan de krachtens artikel 4, tweede lid, van het Warenwetbesluit verpakkingen en gebruiksartikelen aan die stof gestelde specificatie.  
 
 ### Artikel  8  
 
@@ -201,7 +201,7 @@ c. zijn verontreinigd met stoffen die bij de normale raffinage niet verwijderbaa
 1.  In eet- of drinkwaren mogen vitamines, fluor- en jodiumverbindingen, aminozuren of hun zouten niet aanwezig zijn, tenzij deze naar aard en hoeveelheid van nature aanwezig zijn in die eet- of drinkwaren.    
 2.  Het eerste lid is niet van toepassing ten aanzien van: 
 
-a. verrijkte eet- of drinkwaren als bedoeld in het [Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/toevoeging/micro-voedingsstoffen/aan/levensmiddelen/BWBR0008065/README.md), voor wat betreft de aanwezigheid van vitamines;  
+a. verrijkte eet- of drinkwaren als bedoeld in het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen, voor wat betreft de aanwezigheid van vitamines;  
 
 b. eet- of drinkwaren waarvoor in enig wettelijk voorschrift anders is bepaald.    
 
@@ -220,6 +220,11 @@ b.85 mg/l kinine; of
 c.40 mg/l kinine, indien de waar vruchtensap bevat.   
 2.  Het eerste lid is niet van toepassing op drinkwaren die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht.  
 3. De vermelding «cafeïnevrij» mag bij een als *koffie* of *thee* aangeduide waar die bestemd is voor aflevering aan de eindverbruiker of een instelling, uitsluitend worden gebezigd voor zover het cafeïnegehalte van die waar ten hoogste 0,1% bedraagt, berekend op de droge stof.
+
+### Artikel  11b  
+Treedt in werking per 01-01-2015 
+
+Het tappen onder overdruk van bier als bedoeld in artikel 7b van het Warenwetbesluit Gereserveerde aanduidingen vindt uitsluitend plaats met koolzuur of stikstof of een mengsel daarvan. 
 
 ### §  4  
 
@@ -273,12 +278,12 @@ b. voor zover door de bereider geen bijzondere bewaartemperatuur op de voorverpa
 
 a. in een bewaarvoorschrift is vermeld dat de waar bewaard dient te worden tussen de 0°C en 6°C; of   
 
-b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;    is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) (*Stb.* 1992, 14) van toepassing.    
+b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;    is artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen (*Stb.* 1992, 14) van toepassing.    
 3.   Onverminderd de ter zake geldende eisen ten aanzien van de etikettering van levensmiddelen moet op de verpakking van de in het tweede lid, onder *a*, bedoelde eet- of drinkwaar een bewaarvoorschrift worden gebezigd waaruit onder andere blijkt dat de waar binnen een bepaald aantal dagen na aankoop dient te worden geconsumeerd, echter nooit later dan de reeds vermelde datum.    
 4.   In afwijking van het eerste lid mogen de daar bedoelde bederfelijke eet- of drinkwaren, die zodanig verhit zijn dat zij geschikt zijn voor onmiddellijke consumptie door de eindverbruiker, tevens ter rechtstreekse aflevering aan de eindverbruiker voorhanden worden gehouden indien de temperatuur van de waar ten minste 60°C bedraagt.    
 5.   Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, nadere regels stellen met betrekking tot het eerste tot en met vierde lid.    
 6.  In afwijking van het eerste lid, onderdeel b, bedraagt de temperatuur van de waar ten hoogste 10°C gedurende het lokaal vervoer van gekoelde bakkerswaren.   
-7.  Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het [Warenwetbesluit hygiëne van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/hygiëne/van/levensmiddelen/BWBR0018823/README.md) door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften: 
+7.  Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het Warenwetbesluit hygiëne van levensmiddelen door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften: 
 
 a. de uitzondering heeft slechts betrekking op eet- of drinkwaren of grondstoffen waarvan koeling met het oog op de smaak ongewenst is, of die bij de bereiding direct voorafgaand aan de ongekoelde bewaar- of vervoerperiode een intensieve hittebehandeling hebben ondergaan;  
 
