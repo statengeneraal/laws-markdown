@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 september 2005, nr. PG-2.611.880, houdende de regels inzake de verstrekking van subsidies op het terrein van de publieke gezondheid (Subsidieregeling publieke gezondheid)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van de Kaderwet volksgezondheidssubsidies](../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op artikel 3 van de Kaderwet volksgezondheidssubsidies;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -23,7 +23,7 @@ b. instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdh
 
 c. instellingssubsidie: een subsidie aan een instelling in de kosten van haar structurele activiteiten of een gedeelte daarvan;  
 
-d. accountant: accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+d. accountant: accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  2  
 
@@ -31,7 +31,7 @@ Deze regeling is van toepassing op de subsidies, bedoeld in Hoofdstuk II.
 
 ### Artikel  3  
 
-1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 2.  Subsidie wordt slechts verstrekt indien: 
 
 a. naar het oordeel van de minister mag worden verwacht dat de met de subsidiëring beoogde doeleinden zullen worden bereikt;  
@@ -183,7 +183,7 @@ De subsidieontvanger stelt na afloop van de periode waarvoor subsidie is verleen
 
 1.  Voorzover het bedrag van de verleende instellingssubsidie na uitvoering van de gesubsidieerde activiteiten overeenkomstig de geldende verplichtingen, niet is besteed aan de doeleinden waarvoor het is verstrekt, wordt het gereserveerd.   
 2.  Voor de berekening van het in het eerste lid bedoelde te reserveren bedrag wordt het totaal van de met de gesubsidieerde activiteiten samenhangende baten, bestaande uit de vastgestelde instellingssubsidie en de gerealiseerde overige baten, verminderd met de lasten van de gesubsidieerde activiteiten. Deze uitkomst wordt toegerekend naar rato van de vastgestelde instellingssubsidie en de, in de ingediende begroting opgenomen, met de gesubsidieerde activiteiten samenhangende, overige baten. Het te reserveren bedrag is het aan de instellingssubsidie toegerekende deel.   
-3.  Toevoegingen aan voorzieningen als bedoeld in [artikel 374, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die samenhangen met de gesubsidieerde activiteiten, worden gerekend tot de lasten van de gesubsidieerde activiteiten, bedoeld in het tweede lid, tenzij de minister anders bepaalt.   
+3.  Toevoegingen aan voorzieningen als bedoeld in artikel 374, eerste lid, van Boek 2 van het Burgerlijk Wetboek, die samenhangen met de gesubsidieerde activiteiten, worden gerekend tot de lasten van de gesubsidieerde activiteiten, bedoeld in het tweede lid, tenzij de minister anders bepaalt.   
 4.  Indien in de ingediende begroting onder de met de gesubsidieerde activiteiten samenhangende baten een vrijgevallen voorziening is opgenomen, blijft deze buiten beschouwing bij de berekening van het te reserveren bedrag, bedoeld in het tweede lid.   
 5.  De in het eerste lid bedoelde reservering wordt uitsluitend besteed aan doeleinden waarvoor de subsidie werd verstrekt.   
 6.  De in het eerste lid bedoelde reservering bedraagt ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de instellingssubsidie dan wel ten hoogste een lager percentage dat door de minister bij het besluit tot verlening is bepaald.   
@@ -199,17 +199,17 @@ Op de balans worden de voorzieningen, gesplitst naar hun aard, en de reservering
 2.  De minister is bevoegd om de openbaarmaking, bedoeld in het eerste lid, desgewenst voorzien van commentaar, één of meermalen te vermenigvuldigen, openbaar te maken of openbaar te doen maken, met vermelding van de bron, zonder dat hiervoor enige vergoeding is verschuldigd.   
 3.  De subsidieontvanger draagt er zorg voor dat de openbaarmaking, bedoeld in het eerste lid, op verzoek van de minister onmiddellijk en kosteloos aan de minister of aan door de minister aangewezen natuurlijke personen of rechtspersonen beschikbaar worden gesteld.   
 4.  Indien een gesubsidieerde activiteit leidt tot een publicatie, kan de minister bepalen dat de subsidieontvanger er zorg voor draagt dat bij de publicatie wordt aangegeven wie de uitvoerder en subsidiënt van de activiteit zijn geweest.   
-5.  Indien een subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in [artikel 10, eerste lid, onder 1°, van de Auteurswet](../../../../../wet/auteurswet/BWBR0001886/README.md), draagt de subsidieontvanger er zorg voor auteursrechthebbende te zijn ter zake van dat werk.   
+5.  Indien een subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in artikel 10, eerste lid, onder 1°, van de Auteurswet, draagt de subsidieontvanger er zorg voor auteursrechthebbende te zijn ter zake van dat werk.   
 6.  De subsidieontvanger vrijwaart de Staat der Nederlanden voor aanspraken van derden ter zake van alle schade die zij lijden ten gevolge van de door of vanwege de subsidieontvanger verrichte publicaties.  
 
 ### Artikel  26  
 
-1.  Aan de subsidie kunnen verplichtingen als bedoeld in [artikel 4:39 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verbonden.   
+1.  Aan de subsidie kunnen verplichtingen als bedoeld in artikel 4:39 van de Algemene wet bestuursrecht worden verbonden.   
 2.  De minister kan tevens bij de subsidieverlening verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.  
 
 ### Artikel  27  
 
-1.  De minister kan bepalen dat de subsidieontvanger in de gevallen, genoemd in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een door hem te bepalen vergoeding voor vermogensvorming is verschuldigd.   
+1.  De minister kan bepalen dat de subsidieontvanger in de gevallen, genoemd in artikel 4:41, tweede lid, van de Algemene wet bestuursrecht, een door hem te bepalen vergoeding voor vermogensvorming is verschuldigd.   
 2.  Bij de bepaling van de hoogte van de vergoeding wordt uitgegaan van de waarde van de goederen en andere vermogensbestanddelen op het tijdstip waarop de vergoeding verschuldigd wordt, met dien verstande dat in geval van ontvangst van schadevergoeding voor verlies of beschadiging van zaken, wordt uitgegaan van het bedrag dat als schadevergoeding door de instelling wordt ontvangen. Indien het onroerende zaken betreft, geschiedt de waardebepaling door één of drie onafhankelijke deskundigen.   
 3.  Toepassing van het eerste lid blijft achterwege indien de activiteiten van de subsidieontvanger, na toestemming van de minister, door een andere rechtspersoon worden voortgezet en de activa tegen boekwaarde aan die andere rechtspersoon in eigendom zijn overgedragen.  
 
@@ -259,9 +259,9 @@ De subsidiedeclaratie geeft een zodanig inzicht dat een verantwoord oordeel kan 
 
 ### Artikel  34  
 
-1.  De [afdelingen 2 tot en met 8 van Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing op de jaarrekening, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening; op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo.   
+1.  De afdelingen 2 tot en met 8 van Titel 9 van Boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing op de jaarrekening, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening; op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo.   
 2.  De grondslag voor de waardering van activa en passiva is de verkrijgings- of vervaardigingsprijs verminderd met de ontvangen investeringssubsidies en bestemmingsgiften.   
-3.  De minister kan bepalen dat bepalingen van de in het eerste lid bedoelde [Titel](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of onderdelen daarvan niet van toepassing zijn op bepaalde instellingen.  
+3.  De minister kan bepalen dat bepalingen van de in het eerste lid bedoelde Titel of onderdelen daarvan niet van toepassing zijn op bepaalde instellingen.  
 
 ### Artikel  35  
 
@@ -296,7 +296,7 @@ Vervallen per 01-10-2013
 
 In deze paragraaf wordt verstaan onder: 
 
-a. screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van bevolkingsonderzoek naar baarmoederhalskanker vergunning is verleend krachtens de [Wet op het bevolkingsonderzoek](../../../../../wet/wet/op/het/bevolkingsonderzoek/BWBR0005699/README.md);  
+a. screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van bevolkingsonderzoek naar baarmoederhalskanker vergunning is verleend krachtens de Wet op het bevolkingsonderzoek;  
 
 b. onderzoek: het in het kader van een bevolkingsonderzoek naar baarmoederhalskanker afnemen van celmateriaal van een vrouw door een huisarts en beoordeling ervan door een patholoog;  
 
@@ -345,7 +345,7 @@ In afwijking van artikel 4 bestaat de subsidie, bedoeld in artikel 42, voor het 
 
 In deze paragraaf wordt verstaan onder: 
 
-a. screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van het bevolkingsonderzoek naar borstkanker vergunning is verleend krachtens de [Wet op het bevolkingsonderzoek](../../../../../wet/wet/op/het/bevolkingsonderzoek/BWBR0005699/README.md);  
+a. screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van het bevolkingsonderzoek naar borstkanker vergunning is verleend krachtens de Wet op het bevolkingsonderzoek;  
 
 b. onderzoek: het in het kader van het bevolkingsonderzoek naar borstkanker maken van een borstfoto door een laborant en beoordeling van deze foto door twee radiologen;  
 
@@ -394,7 +394,7 @@ c.een wijze van uitvoering van het bevolkingsonderzoek naar borstkanker die bijd
 
 ### Artikel  53  
 
-In deze paragraaf wordt verstaan onder screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van het bevolkingsonderzoek naar darmkanker vergunning is verleend krachtens de [Wet op het bevolkingsonderzoek](../../../../../wet/wet/op/het/bevolkingsonderzoek/BWBR0005699/README.md). 
+In deze paragraaf wordt verstaan onder screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van het bevolkingsonderzoek naar darmkanker vergunning is verleend krachtens de Wet op het bevolkingsonderzoek. 
 
 ### Artikel  54  
 
@@ -463,7 +463,7 @@ a.huisartsen aan:
 
 9°. personen met verminderde weerstand tegen infecties;  
 
-b. artsen aan personen als bedoeld onder a die verblijven in een instelling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+b. artsen aan personen als bedoeld onder a die verblijven in een instelling als bedoeld in artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen.  
 
 ### Artikel  62  
 
@@ -731,9 +731,9 @@ De coördinerende GGD waaraan een instellingssubsidie voor soa-onderzoek, bedoel
 
 In afwijking van de artikelen 32 tot en met 36 wordt de instellingssubsidie voor soa-onderzoek, bedoeld in artikel 75b, als volgt vastgesteld: 
 
-a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in artikel 27 van het Besluit financiële verhouding 2001;  
 
-b. [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md) is van overeenkomstige toepassing op de verantwoordingsinformatie;  
+b. artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten is van overeenkomstige toepassing op de verantwoordingsinformatie;  
 
 c. binnen zes maanden na ontvangst van de verantwoordingsinformatie geeft de minister een beschikking tot vaststelling van de subsidie.  
 

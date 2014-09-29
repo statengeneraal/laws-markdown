@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010027165, houdende regels betreffende overige pyrotechnische artikelen (Regeling overige pyrotechnische artikelen)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154) en de [artikelen 9.2.2.1](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.4](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.3.2 ](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)en [21.6 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154) en de artikelen 9.2.2.1, 9.2.2.4, 9.2.3.2 en 21.6 van de Wet milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -78,11 +78,11 @@ b. uitrusting die valt onder het toepassingsgebied van richtlijn nr. 96/98/EG va
 
 c. pyrotechnische artikelen die bestemd zijn voor gebruik in de lucht- en ruimtevaartindustrie;  
 
-d. pyrotechnische artikelen die vallen onder de reikwijdte van het [Warenwetbesluit speelgoed](../../../../../../AMvB/warenwetbesluit/speelgoed/BWBR0005094/README.md);  
+d. pyrotechnische artikelen die vallen onder de reikwijdte van het Warenwetbesluit speelgoed;  
 
-e. explosieven als bedoeld in de [Wet explosieven voor civiel gebruik](../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md);  
+e. explosieven als bedoeld in de Wet explosieven voor civiel gebruik;  
 
-f. munitie als bedoeld in de [Wet wapens en munitie](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md).   
+f. munitie als bedoeld in de Wet wapens en munitie.   
 
 ### Artikel  3  
 
@@ -295,7 +295,7 @@ g. de netto explosieve massa (NEM).
 
 ### Artikel  26  
 
-1.  TÜV Rheinland Nederland B.V. te Apeldoorn wordt aangewezen als instantie die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedures.   
+1. De minister kan een instantie aanwijzen die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedure.  
 2.  De aangewezen instantie voldoet ten minste aan de minimumcriteria, opgenomen in bijlage III bij de EG-richtlijn pyrotechnische artikelen.  
 
 ### Artikel  27  
@@ -337,7 +337,7 @@ De aangewezen instantie beschikt over een behoorlijke administratie waarin de ge
 
 ### Artikel  33  
 
-In artikel 4 van de Regeling aanwijzing keuringsinstelling pyrotechnische artikelen wordt na ‘artikelen’ ingevoegd: [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md). 
+In artikel 4 van de Regeling aanwijzing keuringsinstelling pyrotechnische artikelen wordt na ‘artikelen’ ingevoegd: Vuurwerkbesluit. 
 
 ### Artikel  34  
 
