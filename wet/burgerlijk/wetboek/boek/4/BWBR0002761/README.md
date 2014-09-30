@@ -43,7 +43,7 @@ e. hij die de uiterste wil van de overledene heeft verduisterd, vernietigd of ve
 
 ### Artikel  5  
 
-1.  Op verzoek van de schuldenaar kan de rechtbank wegens gewichtige redenen bepalen dat een geldsom die krachtens dit Boek of, in verband met de verdeling van de nalatenschap, krachtens [titel 7 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is verschuldigd, al dan niet vermeerderd met een in de beschikking te bepalen rente, eerst na verloop van zekere tijd, hetzij ineens, hetzij in termijnen behoeft te worden voldaan. Hierbij let de rechtbank op de belangen van beide partijen; aan een inwilliging kan de voorwaarde worden verbonden dat binnen een bepaalde tijd een door de rechtbank goedgekeurde zakelijke of persoonlijke zekerheid voor de voldoening van hoofdsom en rente wordt gesteld.   
+1.  Op verzoek van de schuldenaar kan de rechtbank wegens gewichtige redenen bepalen dat een geldsom die krachtens dit Boek of, in verband met de verdeling van de nalatenschap, krachtens titel 7 van Boek 3 is verschuldigd, al dan niet vermeerderd met een in de beschikking te bepalen rente, eerst na verloop van zekere tijd, hetzij ineens, hetzij in termijnen behoeft te worden voldaan. Hierbij let de rechtbank op de belangen van beide partijen; aan een inwilliging kan de voorwaarde worden verbonden dat binnen een bepaalde tijd een door de rechtbank goedgekeurde zakelijke of persoonlijke zekerheid voor de voldoening van hoofdsom en rente wordt gesteld.   
 2.  Een in het vorige lid bedoelde beschikking kan op verzoek van een der partijen, gegrond op ten tijde van die beschikking niet voorziene omstandigheden, door de in het vorige lid genoemde rechtbank worden gewijzigd.  
 
 ### Artikel  6  
@@ -93,7 +93,7 @@ c. huwelijksgemeenschap: gemeenschap van een geregistreerd partnerschap;
 
 d. trouwbeloften: beloften tot het aangaan van een geregistreerd partnerschap;  
 
-e. echtscheiding: beëindiging van een geregistreerd partnerschap op de wijze als bedoeld in [artikel 80c onder c of d van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).     
+e. echtscheiding: beëindiging van een geregistreerd partnerschap op de wijze als bedoeld in artikel 80c onder c of d van Boek 1.     
 3.  Onder stiefkind van de erflater wordt in dit Boek verstaan een kind van de echtgenoot of geregistreerde partner van de erflater, van welk kind de erflater niet zelf ouder is. Zodanig kind blijft stiefkind, indien het huwelijk of het geregistreerd partnerschap is geëindigd.  
 
 ### Titel  2  
@@ -148,7 +148,7 @@ a. indien de echtgenoot in staat van faillissement is verklaard of ten aanzien v
 
 b. wanneer de echtgenoot is overleden.   De vordering is ook opeisbaar in door de erflater bij uiterste wilsbeschikking genoemde gevallen.   
 4.  De in lid 3 bedoelde geldsom wordt, tenzij de erflater, dan wel de echtgenoot en het kind tezamen, anders hebben bepaald, vermeerderd met een percentage dat overeenkomt met dat van de wettelijke rente, voor zover dit percentage hoger is dan zes, berekend per jaar vanaf de dag waarop de nalatenschap is opengevallen, bij welke berekening telkens uitsluitend de hoofdsom in aanmerking wordt genomen.   
-5.  Is de vordering, bedoeld in lid 3, opeisbaar geworden doordat ten aanzien van de echtgenoot de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan is de vordering, voor zover zij onvoldaan is gebleven, door beëindiging van de toepassing van de schuldsaneringsregeling natuurlijke personen op grond van [artikel 356 lid 2 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) wederom niet opeisbaar. [Artikel 358 lid 1 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) vindt ten aanzien van de vordering geen toepassing.   
+5.  Is de vordering, bedoeld in lid 3, opeisbaar geworden doordat ten aanzien van de echtgenoot de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan is de vordering, voor zover zij onvoldaan is gebleven, door beëindiging van de toepassing van de schuldsaneringsregeling natuurlijke personen op grond van artikel 356 lid 2 van de Faillissementswet wederom niet opeisbaar. Artikel 358 lid 1 van de Faillissementswet vindt ten aanzien van de vordering geen toepassing.   
 6.  In deze titel wordt onder echtgenoot niet begrepen een van tafel en bed gescheiden echtgenoot.  
 
 ### Artikel  14  
@@ -160,22 +160,22 @@ b. wanneer de echtgenoot is overleden.   De vordering is ook opeisbaar in door d
 
 ### Artikel  15  
 
-1.  Voor zover de erfgenamen over de vaststelling van de omvang van de in artikel 13 lid 3 bedoelde geldvordering niet tot overeenstemming kunnen komen, wordt deze op verzoek van de meest gerede partij door de kantonrechter vastgesteld. De [artikelen 677 tot en met 679 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.   
+1.  Voor zover de erfgenamen over de vaststelling van de omvang van de in artikel 13 lid 3 bedoelde geldvordering niet tot overeenstemming kunnen komen, wordt deze op verzoek van de meest gerede partij door de kantonrechter vastgesteld. De artikelen 677 tot en met 679 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.   
 2.  Indien bij de vaststelling van de in artikel 13 lid 3 bedoelde geldvordering: 
 
 a. omtrent de waarde van de goederen en de schulden van de nalatenschap is gedwaald en daardoor een erfgenaam voor meer dan een vierde is benadeeld,  
 
 b. het saldo van de nalatenschap anderszins onjuist is berekend, dan wel  
 
-c. de geldvordering niet is berekend overeenkomstig het deel waarop het kind aanspraak kon maken,   wordt de vaststelling op verzoek van een kind of de echtgenoot dienovereenkomstig door de kantonrechter gewijzigd. Op de vaststelling is hetgeen omtrent verdeling is bepaald in de [artikelen 196 leden 2, 3 en 4](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [199](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [200 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van overeenkomstige toepassing.   
+c. de geldvordering niet is berekend overeenkomstig het deel waarop het kind aanspraak kon maken,   wordt de vaststelling op verzoek van een kind of de echtgenoot dienovereenkomstig door de kantonrechter gewijzigd. Op de vaststelling is hetgeen omtrent verdeling is bepaald in de artikelen 196 leden 2, 3 en 4, 199 en 200 van Boek 3 van overeenkomstige toepassing.   
 3.  Bij de vaststelling van de geldvordering zijn de artikelen 229 tot en met 233 van overeenkomstige toepassing.   
-4.  De [artikelen 187](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [188 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn op de vaststelling van overeenkomstige toepassing.  
+4.  De artikelen 187 en 188 van Boek 3 zijn op de vaststelling van overeenkomstige toepassing.  
 
 ### Artikel  16  
 
 1.  De echtgenoot en ieder kind kunnen verlangen dat een boedelbeschrijving wordt opgemaakt. De boedelbeschrijving bevat een waardering van de goederen en de schulden van de nalatenschap.   
 2.  Heeft de echtgenoot of een kind niet het vrije beheer over zijn vermogen, dan levert zijn wettelijk vertegenwoordiger binnen een jaar na het overlijden van de erflater een ter bevestiging van haar deugdelijkheid door hem ondertekende boedelbeschrijving in ter griffie van de rechtbank van de woonplaats van de echtgenoot onderscheidenlijk het kind. De kantonrechter kan bepalen dat de boedelbeschrijving bij notariële akte dient te geschieden.   
-3.  Op de boedelbeschrijving en de waardering zijn de [artikelen 673 tot en met 676 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. De echtgenoot en ieder kind zijn voor de toepassing van de in de vorige volzin genoemde bepalingen partij bij de boedelbeschrijving.   
+3.  Op de boedelbeschrijving en de waardering zijn de artikelen 673 tot en met 676 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. De echtgenoot en ieder kind zijn voor de toepassing van de in de vorige volzin genoemde bepalingen partij bij de boedelbeschrijving.   
 4.  De echtgenoot en ieder kind hebben jegens elkaar recht op inzage in en afschrift van alle bescheiden en andere gegevensdragers, die zij voor de vaststelling van hun aanspraken behoeven. De daartoe strekkende inlichtingen worden door hen desverzocht verstrekt. Zij zijn jegens elkaar gehouden tot medewerking aan de verstrekking van inlichtingen door derden.  
 
 ### Artikel  17  
@@ -189,7 +189,7 @@ c. de geldvordering niet is berekend overeenkomstig het deel waarop het kind aan
 1.  De echtgenoot kan binnen drie maanden vanaf de dag waarop de nalatenschap is opengevallen, door middel van een verklaring bij notariële akte, binnen die termijn gevolgd door inschrijving in het boedelregister, de verdeling overeenkomstig artikel 13 ongedaan maken. In naam van de echtgenoot kan de verklaring slechts krachtens uitdrukkelijke voor dit doel afgegeven schriftelijke volmacht worden afgelegd.   
 2.  De verklaring werkt terug tot het tijdstip van het openvallen der nalatenschap. Voor het verstrijken van de in lid 1 genoemde termijn verkregen rechten van derden, mede-erfgenamen daaronder begrepen, worden geëerbiedigd. Indien de echtgenoot voor het afleggen van de verklaring op de voet van artikel 13 lid 2 betalingen heeft gedaan, worden deze tussen de echtgenoot en de kinderen verrekend.   
 3.  De omstandigheid dat de echtgenoot onder curatele staat of dat de goederen die deze uit de nalatenschap van de erflater verkrijgt onder een bewind vallen, staat aan uitoefening van de in lid 1 bedoelde bevoegdheid niet in de weg. De bevoegdheid wordt alsdan uitgeoefend overeenkomstig de regels die voor de curatele onderscheidenlijk het desbetreffende bewind gelden. Is de echtgenoot in staat van faillissement verklaard, is ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing verklaard dan wel aan hem surseance van betaling verleend, dan wordt deze bevoegdheid uitgeoefend door de curator, door de bewindvoerder, onderscheidenlijk door de echtgenoot met medewerking van de bewindvoerder.   
-4.  Indien ten aanzien van de erflater [afdeling 2](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of [3 van titel 18 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is toegepast, loopt de in lid 1 genoemde termijn van drie maanden vanaf de dag waarop de beschikking, bedoeld in [artikel 417 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) onderscheidenlijk [artikel 427 lid 1 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), in kracht van gewijsde is gegaan.  
+4.  Indien ten aanzien van de erflater afdeling 2 of 3 van titel 18 van Boek 1 is toegepast, loopt de in lid 1 genoemde termijn van drie maanden vanaf de dag waarop de beschikking, bedoeld in artikel 417 lid 1 onderscheidenlijk artikel 427 lid 1 van Boek 1, in kracht van gewijsde is gegaan.  
 
 ### Artikel  19  
 
@@ -209,16 +209,16 @@ Indien een kind overeenkomstig artikel 13 lid 3 een geldvordering op zijn stiefo
 
 ### Artikel  23  
 
-1.  Op het in de artikelen 19 en 21 bedoelde vruchtgebruik zijn de bepalingen van [titel 8 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van toepassing, met dien verstande dat: 
+1.  Op het in de artikelen 19 en 21 bedoelde vruchtgebruik zijn de bepalingen van titel 8 van Boek 3 van toepassing, met dien verstande dat: 
 
-a. de echtgenoot is vrijgesteld van de jaarlijkse opgave als bedoeld in [artikel 205 lid 4](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), alsmede van het stellen van zekerheid als bedoeld in [artikel 206 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [artikel 206 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing is;  
+a. de echtgenoot is vrijgesteld van de jaarlijkse opgave als bedoeld in artikel 205 lid 4, alsmede van het stellen van zekerheid als bedoeld in artikel 206 lid 1, en artikel 206 lid 2 niet van toepassing is;  
 
-b. een machtiging als bedoeld in [artikel 212 lid 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) ook gegeven kan worden voor zover de verzorgingsbehoefte van de echtgenoot of de nakoming van zijn verplichtingen overeenkomstig artikel 13 lid 2 dit nodig maakt.     
-2.  De kantonrechter kan op de in lid 1 onder b bedoelde grond, op verzoek van de echtgenoot aan deze de bevoegdheid tot gehele of gedeeltelijke vervreemding en vertering als bedoeld in [artikel 215 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) toekennen. De hoofdgerechtigde wordt in het geding geroepen. Bij de beschikking kan de kantonrechter nadere regelingen treffen.    
-3.  In afwijking van de eerste zin van [artikel 213 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en van [artikel 215 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) verkrijgt de hoofdgerechtigde, tenzij hij met de echtgenoot anders overeenkomt, op het tijdstip van vervreemding een vordering op de echtgenoot ter grootte van de waarde die het goed op dat tijdstip had. Op de vordering zijn de leden 3 en 4 van artikel 13 en lid 1 van artikel 15 van overeenkomstige toepassing, met dien verstande dat de in artikel 13 lid 4 bedoelde vermeerdering wordt berekend vanaf het tijdstip van het ontstaan van de vordering.   
+b. een machtiging als bedoeld in artikel 212 lid 3 ook gegeven kan worden voor zover de verzorgingsbehoefte van de echtgenoot of de nakoming van zijn verplichtingen overeenkomstig artikel 13 lid 2 dit nodig maakt.     
+2.  De kantonrechter kan op de in lid 1 onder b bedoelde grond, op verzoek van de echtgenoot aan deze de bevoegdheid tot gehele of gedeeltelijke vervreemding en vertering als bedoeld in artikel 215 van Boek 3 toekennen. De hoofdgerechtigde wordt in het geding geroepen. Bij de beschikking kan de kantonrechter nadere regelingen treffen.    
+3.  In afwijking van de eerste zin van artikel 213 lid 1 van Boek 3 en van artikel 215 lid 1 van Boek 3 verkrijgt de hoofdgerechtigde, tenzij hij met de echtgenoot anders overeenkomt, op het tijdstip van vervreemding een vordering op de echtgenoot ter grootte van de waarde die het goed op dat tijdstip had. Op de vordering zijn de leden 3 en 4 van artikel 13 en lid 1 van artikel 15 van overeenkomstige toepassing, met dien verstande dat de in artikel 13 lid 4 bedoelde vermeerdering wordt berekend vanaf het tijdstip van het ontstaan van de vordering.   
 4.  Bij de vestiging van het vruchtgebruik of daarna kunnen nadere regelingen worden getroffen door de echtgenoot en de hoofdgerechtigde, dan wel door de kantonrechter op verzoek van een van hen.   
 5.  De echtgenoot is niet bevoegd het vruchtgebruik over te dragen of te bezwaren.   
-6.  Het vruchtgebruik kan niet worden ingeroepen tegen schuldeisers die zich op de daaraan onderworpen goederen verhalen ter zake van schulden van de nalatenschap of schulden van de echtgenoot die konden worden verhaald op de goederen van een gemeenschap waarvan de echtgenoot en de erflater de deelgenoten waren. In geval van zodanige uitwinning is [artikel 282 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing.  
+6.  Het vruchtgebruik kan niet worden ingeroepen tegen schuldeisers die zich op de daaraan onderworpen goederen verhalen ter zake van schulden van de nalatenschap of schulden van de echtgenoot die konden worden verhaald op de goederen van een gemeenschap waarvan de echtgenoot en de erflater de deelgenoten waren. In geval van zodanige uitwinning is artikel 282 van Boek 3 niet van toepassing.  
 
 ### Artikel  24  
 
@@ -263,7 +263,7 @@ Bij uiterste wilsbeschikking kan de erflater bepalen dat een stiefkind in een ve
 ### Artikel  30  
 
 1.  De erfgenamen zijn verplicht tot medewerking aan de vestiging van een vruchtgebruik op andere goederen van de nalatenschap dan bedoeld in artikel 29 ten behoeve van de echtgenoot van de erflater, voor zover de echtgenoot daaraan, de omstandigheden in aanmerking genomen, voor zijn verzorging – daaronder begrepen de nakoming van de overeenkomstig artikel 35 lid 2 op hem rustende verplichtingen – behoefte heeft en die medewerking van hen verlangt.   
-2.  Lid 1 is mede van toepassing met betrekking tot hetgeen moet worden geacht in de plaats te zijn gekomen van goederen van de nalatenschap. Voorts is lid 1 mede van toepassing op een geldvordering als bedoeld in artikel 13 lid 3, indien de erflater bij uiterste wilsbeschikking de gronden voor opeisbaarheid heeft uitgebreid. Een vruchtgebruik op een geldvordering als bedoeld in de tweede zin eindigt in elk geval indien de echtgenoot in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard. In het laatstbedoelde geval herleeft door beëindiging van de toepassing van de schuldsaneringsregeling natuurlijke personen op grond van [artikel 356 lid 2 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) het vruchtgebruik op de vordering, voorzover deze onvoldaan is gebleven. [Artikel 358 lid 1 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) vindt ten aanzien van de vordering geen toepassing.   
+2.  Lid 1 is mede van toepassing met betrekking tot hetgeen moet worden geacht in de plaats te zijn gekomen van goederen van de nalatenschap. Voorts is lid 1 mede van toepassing op een geldvordering als bedoeld in artikel 13 lid 3, indien de erflater bij uiterste wilsbeschikking de gronden voor opeisbaarheid heeft uitgebreid. Een vruchtgebruik op een geldvordering als bedoeld in de tweede zin eindigt in elk geval indien de echtgenoot in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard. In het laatstbedoelde geval herleeft door beëindiging van de toepassing van de schuldsaneringsregeling natuurlijke personen op grond van artikel 356 lid 2 van de Faillissementswet het vruchtgebruik op de vordering, voorzover deze onvoldaan is gebleven. Artikel 358 lid 1 van de Faillissementswet vindt ten aanzien van de vordering geen toepassing.   
 3.  De voorgaande leden zijn van overeenkomstige toepassing op de legatarissen en de door een testamentaire last bevoordeelden met betrekking tot de goederen die zij als zodanig uit de nalatenschap hebben verkregen. Onder goederen als bedoeld in de eerste zin worden mede begrepen ingevolge een legaat of een testamentaire last verkregen geldsommen en beperkte rechten op goederen van de nalatenschap.   
 4.  De erflater kan bij uiterste wilsbeschikking goederen aanwijzen die vóór of na andere voor bezwaring met het vruchtgebruik in aanmerking komen.   
 5.  Voor zover de erflater de in het vorige lid toegekende bevoegdheid niet heeft uitgeoefend, komen gelegateerde en krachtens een testamentaire last verkregen goederen slechts voor bezwaring met vruchtgebruik in aanmerking, indien de overige goederen der nalatenschap tot verzorging van de echtgenoot onvoldoende zijn. Voor zover een making is te beschouwen als voldoening aan een natuurlijke verbintenis van de erflater, komt zij pas na de andere makingen voor bezwaring met vruchtgebruik in aanmerking.   
@@ -318,12 +318,12 @@ d. hetgeen in de gegeven omstandigheden als een passend verzorgingsniveau voor d
 
 ### Artikel  35  
 
-1.  Een kind van de erflater, een kind als bedoeld in [artikel 394 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) daaronder begrepen, kan aanspraak maken op een som ineens, voor zover deze nodig is voor: 
+1.  Een kind van de erflater, een kind als bedoeld in artikel 394 van Boek 1 daaronder begrepen, kan aanspraak maken op een som ineens, voor zover deze nodig is voor: 
 
 a. zijn verzorging en opvoeding tot het bereiken van de leeftijd van achttien jaren; en voorts voor:  
 
 b. zijn levensonderhoud en studie tot het bereiken van de leeftijd van een en twintig jaren.     
-2.  De som ter zake van de verzorging en opvoeding komt het kind niet toe, voor zover de echtgenoot of een erfgenaam van de erflater krachtens wet of overeenkomst is gehouden om in de kosten daarvan te voorzien. De som ter zake van levensonderhoud en studie komt het kind niet toe, voor zover de echtgenoot van de erflater krachtens [artikel 395a van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) verplicht is om in de kosten daarvan te voorzien.   
+2.  De som ter zake van de verzorging en opvoeding komt het kind niet toe, voor zover de echtgenoot of een erfgenaam van de erflater krachtens wet of overeenkomst is gehouden om in de kosten daarvan te voorzien. De som ter zake van levensonderhoud en studie komt het kind niet toe, voor zover de echtgenoot van de erflater krachtens artikel 395a van Boek 1 verplicht is om in de kosten daarvan te voorzien.   
 3.  Op de som ineens komt in mindering hetgeen de rechthebbende had kunnen verkrijgen krachtens erfrecht of krachtens een sommenverzekering die door het overlijden van de erflater tot uitkering komt.  
 
 ### Artikel  36  
@@ -353,7 +353,7 @@ Degene aan wie een in de artikelen 29 tot en met 33, 35, 36 en 38 bedoeld recht 
 
 ### Artikel  40  
 
-Indien ten aanzien van de erflater [afdeling 2](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of [3 van titel 18 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is toegepast, lopen de termijnen, genoemd in lid 1 van artikel 28, de leden 2 en 3 van artikel 31, de tweede zin van het eerste lid, de eerste zin van het tweede lid en de eerste zin van het derde lid van artikel 37, alsmede het vierde lid van artikel 38 vanaf de dag waarop de beschikking, bedoeld in [artikel 417 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) onderscheidenlijk [artikel 427 lid 1 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), in kracht van gewijsde is gegaan. 
+Indien ten aanzien van de erflater afdeling 2 of 3 van titel 18 van Boek 1 is toegepast, lopen de termijnen, genoemd in lid 1 van artikel 28, de leden 2 en 3 van artikel 31, de tweede zin van het eerste lid, de eerste zin van het tweede lid en de eerste zin van het derde lid van artikel 37, alsmede het vierde lid van artikel 38 vanaf de dag waarop de beschikking, bedoeld in artikel 417 lid 1 onderscheidenlijk artikel 427 lid 1 van Boek 1, in kracht van gewijsde is gegaan. 
 
 ### Artikel  41  
 
@@ -431,7 +431,7 @@ Een uiterste wilsbeschikking ten voordele van de naaste bloedverwanten of het na
 ### Artikel  54  
 
 1.  Rechtsvorderingen tot vernietiging van een uiterste wilsbeschikking verjaren een jaar nadat de dood van de erflater alsmede de uiterste wilsbeschikking en de vernietigingsgrond ter kennis zijn gekomen van hem die een beroep op deze grond kan doen, dan wel van zijn rechtsvoorganger.   
-2.  De bevoegdheid om ter vernietiging van een uiterste wilsbeschikking een beroep op een vernietigingsgrond te doen vervalt buiten het geval bedoeld in [artikel 51 lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) uiterlijk drie jaren nadat de dood van de erflater en de uiterste wilsbeschikking ter kennis zijn gekomen van degene aan wie deze bevoegdheid toekomt, dan wel van zijn rechtsvoorganger.  
+2.  De bevoegdheid om ter vernietiging van een uiterste wilsbeschikking een beroep op een vernietigingsgrond te doen vervalt buiten het geval bedoeld in artikel 51 lid 3 van Boek 3 uiterlijk drie jaren nadat de dood van de erflater en de uiterste wilsbeschikking ter kennis zijn gekomen van degene aan wie deze bevoegdheid toekomt, dan wel van zijn rechtsvoorganger.  
 
 ### Afdeling  2  
 
@@ -445,7 +445,7 @@ Een uiterste wilsbeschikking ten voordele van de naaste bloedverwanten of het na
 
 ### Artikel  56  
 
-1.  Om aan een making een recht te kunnen ontlenen, moet men bestaan op het ogenblik dat de nalatenschap openvalt. Rechten uit een making ten voordele van een rechtspersoon die voor dat ogenblik is opgehouden te bestaan ten gevolge van een fusie of een splitsing, komen toe aan de verkrijgende rechtspersoon, onderscheidenlijk de verkrijgende rechtspersoon waarvan de aan de akte van splitsing gehechte beschrijving datbepaalt. Indien aan de hand van de aan de akte van splitsing gehechte beschrijving niet kan worden bepaald welke rechtspersoon in de plaats en de rechten treedt van de gesplitste rechtspersoon, is [artikel 334s van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing.   
+1.  Om aan een making een recht te kunnen ontlenen, moet men bestaan op het ogenblik dat de nalatenschap openvalt. Rechten uit een making ten voordele van een rechtspersoon die voor dat ogenblik is opgehouden te bestaan ten gevolge van een fusie of een splitsing, komen toe aan de verkrijgende rechtspersoon, onderscheidenlijk de verkrijgende rechtspersoon waarvan de aan de akte van splitsing gehechte beschrijving datbepaalt. Indien aan de hand van de aan de akte van splitsing gehechte beschrijving niet kan worden bepaald welke rechtspersoon in de plaats en de rechten treedt van de gesplitste rechtspersoon, is artikel 334s van Boek 2 van overeenkomstige toepassing.   
 2.  Indien een erflater heeft bepaald dat hetgeen hij aan een afstammeling van een ouder van de erflater nalaat, bij het overlijden van de bevoordeelde of op een eerder tijdstip zal ten deel vallen aan diens alsdan bestaande afstammelingen staaksgewijze, ontlenen dezen aan de making een recht, ook al bestonden zij nog niet bij het overlijden van de erflater.   
 3.  Heeft een erflater bepaald dat hetgeen hij aan iemand nalaat, bij het overlijden van de bevoordeelde of op een eerder tijdstip zal ten deel vallen aan een afstammeling van een ouder van de erflater, en tevens dat indien die afstammeling dat tijdstip niet overleeft, diens alsdan bestaande afstammelingen staaksgewijze in diens plaats zullen treden, dan verkrijgen dezen dit recht, ook al bestonden zij nog niet bij het overlijden van de erflater.   
 4.  Indien een erflater heeft bepaald dat hetgeen de bevoordeelde van het hem nagelatene bij zijn overlijden of op een eerder tijdstip onverteerd zal hebben gelaten, alsdan zal ten deel vallen aan een dan bestaande bloedverwant van de erflater in de erfelijke graad, verkrijgt deze dit recht, ook al bestond hij nog niet bij het overlijden van de erflater.  
@@ -482,7 +482,7 @@ De notaris of andere persoon, die een uiterste wil of een akte van bewaargeving 
 1.  Een uiterste wilsbeschikking die in strijd is met het in de artikelen 57–61 bepaalde, is vernietigbaar. De vernietiging vindt slechts plaats voor zover deze nodig is tot opheffing van het nadeel van degene die zich op de vernietigingsgrond beroept.   
 2.  Een beschikking ten behoeve van een tussenbeidekomende persoon is op gelijke wijze vernietigbaar als een ten behoeve van de uitgesloten persoon zelf.   
 3.  De vader, de moeder, de afstammelingen en de echtgenoot van een uitgesloten persoon worden geacht tussenbeidekomende personen te zijn, behalve wanneer zij bloedverwant in de rechte lijn of echtgenoot van de erflater zijn.   
-4.  Indien een legataris in verband met een krachtens de vorige leden vernietigbaar legaat gehouden is een tegenprestatie te verrichten, is [artikel 54 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van overeenkomstige toepassing.  
+4.  Indien een legataris in verband met een krachtens de vorige leden vernietigbaar legaat gehouden is een tegenprestatie te verrichten, is artikel 54 van Boek 3 van overeenkomstige toepassing.  
 
 ### Afdeling  3  
 
@@ -634,7 +634,7 @@ b. de echtgenoot is overleden.   Voorzover de vordering ten laste komt van een l
 3.  Zolang goederen der nalatenschap kunnen worden belast met een vruchtgebruik krachtens artikel 29 of artikel 30, is de vordering niet opeisbaar. Bij de toepassing van de eerste zin blijft artikel 31 lid 4, eerste zin, buiten beschouwing.   
 4.  Zolang een vruchtgebruik krachtens artikel 29 of artikel 30 bestaat, is de vordering niet opeisbaar, voor zover de echtgenoot daarvoor is verbonden. In geval van faillissement van de echtgenoot of het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen wordt de vordering opeisbaar, voor zover de echtgenoot daarvoor is verbonden.   
 5.  Voor zover voor de vordering anderen dan de echtgenoot zijn verbonden, kan, zolang een vruchtgebruik krachtens artikel 29 of artikel 30 bestaat, van elk van die anderen slechts het gedeelte van de vordering worden opgeëist dat overeenkomt met het gedeelte dat zijn aandeel in de niet met vruchtgebruik belaste goederen van de nalatenschap uitmaakt van de goederen van de nalatenschap.   
-6.  Is de vordering, bedoeld in artikel 80 lid 1, opeisbaar geworden doordat ten aanzien van de echtgenoot de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan is de vordering, voor zover zij onvoldaan is gebleven, door beëindiging van de toepassing van de schuldsaneringsregeling natuurlijke personen op grond van [artikel 356 lid 2 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) wederom niet opeisbaar. [Artikel 358 lid 1 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) vindt ten aanzien van de vordering geen toepassing.  
+6.  Is de vordering, bedoeld in artikel 80 lid 1, opeisbaar geworden doordat ten aanzien van de echtgenoot de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan is de vordering, voor zover zij onvoldaan is gebleven, door beëindiging van de toepassing van de schuldsaneringsregeling natuurlijke personen op grond van artikel 356 lid 2 van de Faillissementswet wederom niet opeisbaar. Artikel 358 lid 1 van de Faillissementswet vindt ten aanzien van de vordering geen toepassing.  
 
 ### Artikel  82  
 
@@ -655,7 +655,7 @@ De vorderingen worden verhoogd met een percentage dat overeenkomt met dat van de
 
 ### Artikel  86  
 
-Indien ten aanzien van de erflater [afdeling 2](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of [3 van titel 18 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is toegepast, lopen de termijnen, genoemd in lid 1 van artikel 81 en de leden 1 en 2 van artikel 85 vanaf de dag waarop de beschikking, bedoeld in [artikel 417 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) onderscheidenlijk [artikel 427 lid 1 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), in kracht van gewijsde is gegaan. 
+Indien ten aanzien van de erflater afdeling 2 of 3 van titel 18 van Boek 1 is toegepast, lopen de termijnen, genoemd in lid 1 van artikel 81 en de leden 1 en 2 van artikel 85 vanaf de dag waarop de beschikking, bedoeld in artikel 417 lid 1 onderscheidenlijk artikel 427 lid 1 van Boek 1, in kracht van gewijsde is gegaan. 
 
 ### Artikel  87  
 
@@ -732,7 +732,7 @@ a. het maken van legaten van:
 
 b. bepaling dat goederen, bedoeld onder a, buiten een huwelijksgemeenschap vallen;  
 
-c. aanwijzing van een persoon als bedoeld in [artikel 25, tweede en vierde lid, van de Auteurswet](../../../../../../wet/auteurswet/BWBR0001886/README.md) en [artikel 5, tweede lid, van de Wet op de naburige rechten](../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md).   
+c. aanwijzing van een persoon als bedoeld in artikel 25, tweede en vierde lid, van de Auteurswet en artikel 5, tweede lid, van de Wet op de naburige rechten.   
 
 ### Artikel  98  
 
@@ -886,7 +886,7 @@ Degenen op wie een legaat rust, alsmede de executeur, dragen zorg dat de legatar
 
 1.  De rechter kan op verzoek van de legataris of van hem die met het legaat belast is, de verbintenissen uit een legaat wijzigen of geheel of gedeeltelijk opheffen op grond van na het overlijden van de erflater ingetreden omstandigheden welke van dien aard zijn, dat de andere partij naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van die verbintenissen niet mag verwachten.   
 2.  Bij een wijziging of opheffing neemt de rechter zoveel mogelijk de bedoeling van de erflater in acht.   
-3.  De [artikelen 258 leden 1, tweede zin, 2 en 3 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [260 leden 1 en 2 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn van overeenkomstige toepassing.  
+3.  De artikelen 258 leden 1, tweede zin, 2 en 3 van Boek 6 en 260 leden 1 en 2 van Boek 6 zijn van overeenkomstige toepassing.  
 
 ### Artikel  124  
 
@@ -963,7 +963,7 @@ b. op grond dat de last door inkorting of vermindering van de last, of van de ma
 
 c. in geval de last ingevolge artikel 132 op een ander is komen te rusten dan degenen aan wie hij bij de uiterste wilsbeschikking is opgelegd.     
 2.  Bij een wijziging of opheffing neemt de rechter zoveel mogelijk de bedoeling van de erflater in acht.   
-3.  De [artikelen 258 leden 1, tweede zin, 2 en 3 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [260 leden 1 en 2 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn van overeenkomstige toepassing.  
+3.  De artikelen 258 leden 1, tweede zin, 2 en 3 van Boek 6 en 260 leden 1 en 2 van Boek 6 zijn van overeenkomstige toepassing.  
 
 ### Afdeling  4  
 
@@ -991,7 +991,7 @@ Om aan een making onder opschortende voorwaarde een recht te kunnen ontlenen, mo
 ### Artikel  138  
 
 1.  Wanneer een erfstelling onder een voorwaarde is gemaakt, wordt degene aan wie het vermaakte tot de vervulling der voorwaarde toekomt, als de uitsluitend rechthebbende aangemerkt voor zover het betreft de door en tegen derden uit te oefenen rechten en rechtsvorderingen.   
-2.  Voor het overige vinden, zolang de vervulling der voorwaarden onzeker is, de wettelijke voorschriften betreffende het vruchtgebruik, zoals geregeld in [titel 8 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), overeenkomstige toepassing. Dientengevolge is hij verplicht het vermaakte gelijk een vruchtgebruiker te bewaren en in stand te houden, tenzij de erflater hem de bevoegdheid heeft toegekend om de goederen te verteren en onvoorwaardelijk te vervreemden.   
+2.  Voor het overige vinden, zolang de vervulling der voorwaarden onzeker is, de wettelijke voorschriften betreffende het vruchtgebruik, zoals geregeld in titel 8 van Boek 3, overeenkomstige toepassing. Dientengevolge is hij verplicht het vermaakte gelijk een vruchtgebruiker te bewaren en in stand te houden, tenzij de erflater hem de bevoegdheid heeft toegekend om de goederen te verteren en onvoorwaardelijk te vervreemden.   
 3.  In geval van een erfstelling onder een ontbindende voorwaarde zonder een daarbij aansluitende erfstelling onder opschortende voorwaarde is hij jegens degene aan wie het vermaakte bij vervulling van de voorwaarde toekomt, bevoegd de goederen te vervreemden en te verteren op dezelfde voet als een vruchtgebruiker aan wie deze bevoegdheid is gegeven, voor zover de erflater niet anders heeft bepaald.  
 
 ### Artikel  139  
@@ -1021,7 +1021,7 @@ Het voorgaande artikel vindt geen toepassing op een making onder een ontbindende
 ### Artikel  143  
 
 1.  Men wordt executeur door aanvaarding van zijn benoeming na het overlijden van de erflater. De kantonrechter kan op verzoek van een belanghebbende een termijn stellen, na afloop waarvan de benoeming niet meer kan worden aanvaard.   
-2.  Handelingsonbekwamen, zij van wie één of meer goederen onder een bewind als bedoeld in [titel 19 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn gesteld, en zij die in staat van faillissement verkeren of ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, kunnen niet executeur worden.  
+2.  Handelingsonbekwamen, zij van wie één of meer goederen onder een bewind als bedoeld in titel 19 van Boek 1 zijn gesteld, en zij die in staat van faillissement verkeren of ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, kunnen niet executeur worden.  
 
 ### Artikel  144  
 
@@ -1058,7 +1058,7 @@ a. wanneer hij zijn werkzaamheden als zodanig heeft voltooid;
 
 b. door tijdverloop, indien hij voor een bepaalde tijd was benoemd;  
 
-c. door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of door de instelling van een bewind als bedoeld in [titel 19 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) over een of meer van zijn goederen;  
+c. door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of door de instelling van een bewind als bedoeld in titel 19 van Boek 1 over een of meer van zijn goederen;  
 
 d. wanneer de nalatenschap overeenkomstig de derde afdeling van de zesde titel moet worden vereffend;  
 
@@ -1123,7 +1123,7 @@ Is het bewind uitsluitend of mede ingesteld in het belang van een ander dan de r
 ### Artikel  157  
 
 1.  Indien de uiterste wil niet voorziet in de regeling der benoeming van een bewindvoerder, wijst de kantonrechter een of meer bewindvoerders aan op verzoek van de rechthebbende, een erfgenaam, legataris of andere belanghebbende dan wel van de executeur. De kantonrechter vergewist zich van de bereidheid van de door hem te benoemen personen.   
-2.  Handelingsonbekwamen, zij van wie een of meer goederen onder een bewind als bedoeld in [titel 19 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn gesteld, zij die in staat van faillissement verkeren of ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, alsmede de personen genoemd in artikel 59 kunnen niet tot bewindvoerder worden benoemd.   
+2.  Handelingsonbekwamen, zij van wie een of meer goederen onder een bewind als bedoeld in titel 19 van Boek 1 zijn gesteld, zij die in staat van faillissement verkeren of ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, alsmede de personen genoemd in artikel 59 kunnen niet tot bewindvoerder worden benoemd.   
 3.  Rechtspersonen met volledige rechtsbevoegdheid kunnen tot bewindvoerder worden benoemd.   
 4.  Zo nodig kan een tijdelijke bewindvoerder worden benoemd.   
 5.  De door de rechter benoemde wordt bewindvoerder daags nadat de griffier hem van zijn benoeming mededeling heeft gedaan, tenzij de beschikking een later tijdstip vermeldt.   
@@ -1146,9 +1146,9 @@ Is het bewind uitsluitend of mede ingesteld in het belang van een ander dan de r
 1.  De bewindvoerder moet zo spoedig mogelijk een beschrijving opmaken van de goederen waarop het bewind betrekking heeft. Is hij door de rechter benoemd, dan moet hij een afschrift van de beschrijving tegen ontvangstbewijs inleveren ter griffie van de rechtbank van de woonplaats van de rechthebbende. Tot het stellen van zekerheid is hij slechts verplicht, indien dit bij de instelling van het bewind is bepaald.   
 2.  Tenzij bij de instelling van het bewind anders is bepaald, moet de bewindvoerder het bewind en zijn benoeming doen inschrijven: 
 
-a. in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), indien het bewind betrekking heeft op registergoederen;  
+a. in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, indien het bewind betrekking heeft op registergoederen;  
 
-b. in het register van aandeelhouders, bedoeld in de [artikelen 85](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [194 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indien het bewind betrekking heeft op aandelen op naam in een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid;  
+b. in het register van aandeelhouders, bedoeld in de artikelen 85 en 194 van Boek 2, indien het bewind betrekking heeft op aandelen op naam in een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid;  
 
 c. in het handelsregister indien het bewind betrekking heeft op een onderneming of een aandeel in een vennootschap.    
 
@@ -1176,7 +1176,7 @@ a. bij het einde van het bewind;
 
 b. door tijdsverloop, indien hij voor een bepaalde tijd was benoemd;  
 
-c. door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of door de instelling van een bewind als bedoeld in [titel 19 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) over een of meer van zijn goederen;  
+c. door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of door de instelling van een bewind als bedoeld in titel 19 van Boek 1 over een of meer van zijn goederen;  
 
 d. in de bij de uiterste wil bepaalde gevallen;  
 
@@ -1206,7 +1206,7 @@ De rechthebbende is naast de bewindvoerder bevoegd tot handelingen dienende tot 
 ### Artikel  168  
 
 1.  Een rechtshandeling die ondanks zijn uit de artikelen 166 en 167 voortvloeiende onbevoegdheid is verricht door of gericht tot de rechthebbende is niettemin geldig, indien de wederpartij het bewind kende noch behoorde te kennen. Niettemin is geen veroordeling mogelijk tot nakoming van een uit de rechtshandeling voortvloeiende verbintenis tot vervreemding of bezwaring van een onder het bewind staand goed.   
-2.  De uit het bewind voortvloeiende ongeldigheid van beschikking door de rechthebbende over een goed als bedoeld in [artikel 88 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), staat niet in de weg aan de geldigheid van een latere overdracht daarvan indien de derde verkrijger te goeder trouw is. De vorige zin is van overeenkomstige toepassing op de vestiging, overdracht en afstand van een beperkt recht op zulk een goed.  
+2.  De uit het bewind voortvloeiende ongeldigheid van beschikking door de rechthebbende over een goed als bedoeld in artikel 88 van Boek 3, staat niet in de weg aan de geldigheid van een latere overdracht daarvan indien de derde verkrijger te goeder trouw is. De vorige zin is van overeenkomstige toepassing op de vestiging, overdracht en afstand van een beperkt recht op zulk een goed.  
 
 ### Artikel  169  
 
@@ -1216,7 +1216,7 @@ a. de in artikel 167 lid 1 bedoelde handelingen verrichten;
 
 b. geld lenen of de rechthebbende als borg of hoofdelijk schuldenaar verbinden;   
 
-c. een overeenkomst tot beëindiging van een geschil aangaan; hij behoeft deze toestemming niet in het geval van [artikel 87 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), of indien het voorwerp van het geschil een waarde van € 700 niet te boven gaat.     
+c. een overeenkomst tot beëindiging van een geschil aangaan; hij behoeft deze toestemming niet in het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering, of indien het voorwerp van het geschil een waarde van € 700 niet te boven gaat.     
 2.  Is het bewind uitsluitend of mede in het belang van een ander dan de rechthebbende of in hun gemeenschappelijk belang ingesteld, dan is ook toestemming van die ander vereist.   
 3.  Verleent iemand wiens toestemming is vereist deze niet, dan kan de kantonrechter haar desverzocht door zijn machtiging vervangen. De kantonrechter kan de machtiging verlenen onder zodanige voorwaarden als hij geraden acht.  
 
@@ -1234,7 +1234,7 @@ c. een overeenkomst tot beëindiging van een geschil aangaan; hij behoeft deze t
 ### Artikel  172  
 
 1.  De bewindvoerder die, anders dan in de vorm van medewerking of toestemming, zijn taak uitoefent, is bevoegd daarbij de rechthebbende te vertegenwoordigen of in eigen naam te zijnen behoeve op te treden.   
-2.  De bepalingen van [titel 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn in geval van vertegenwoordiging van overeenkomstige toepassing op de rechten en verplichtingen van een wederpartij. Regels die de bevoegdheid van de bewindvoerder betreffen, en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze met die regels of feiten niet bekend was of behoorde te zijn.  
+2.  De bepalingen van titel 3 van Boek 3 zijn in geval van vertegenwoordiging van overeenkomstige toepassing op de rechten en verplichtingen van een wederpartij. Regels die de bevoegdheid van de bewindvoerder betreffen, en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze met die regels of feiten niet bekend was of behoorde te zijn.  
 
 ### Artikel  173  
 
@@ -1242,7 +1242,7 @@ De bewindvoerder vertegenwoordigt de rechthebbende in gedingen ter zake van onde
 
 ### Artikel  174  
 
-1.  De rechthebbende is, onverminderd het bepaalde in [artikel 172 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de bewindvoerder in zijn hoedanigheid in naam van de rechthebbende verricht.   
+1.  De rechthebbende is, onverminderd het bepaalde in artikel 172 van Boek 6, aansprakelijk voor alle schulden die voortspruiten uit rechtshandelingen die de bewindvoerder in zijn hoedanigheid in naam van de rechthebbende verricht.   
 2.  Voor zover de rechthebbende onder het bewind staande goederen aanwijst die voldoende verhaal bieden, kunnen zijn overige goederen niet worden uitgewonnen voor de in lid 1 bedoelde schulden.   
 
 ### Artikel  175  
@@ -1392,7 +1392,7 @@ Indien en voor zover een erflater geen erfgenamen heeft, worden de goederen der 
 
 1.  Een wettelijke vertegenwoordiger van een erfgenaam kan voor deze niet zuiver aanvaarden en behoeft voor verwerping een machtiging van de kantonrechter. Hij is verplicht een verklaring van beneficiaire aanvaarding of van verwerping af te leggen binnen drie maanden vanaf het tijdstip waarop de nalatenschap, of een aandeel daarin, de erfgenaam toekomt. Deze termijn kan overeenkomstig artikel 192 lid 2, tweede zin, worden verlengd.   
 2.  Heeft hij de termijn laten verlopen, dan geldt de nalatenschap als door de erfgenaam beneficiair aanvaard. De kantonrechter kan hiervan aantekening doen houden in het boedelregister.   
-3.  De leden 1 en 2 zijn niet van toepassing in het geval, bedoeld in [artikel 41 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md).  
+3.  De leden 1 en 2 zijn niet van toepassing in het geval, bedoeld in artikel 41 van de Faillissementswet.  
 
 ### Artikel  194  
 
@@ -1479,7 +1479,7 @@ Wanneer een schuldeiser van een erfgenaam die de nalatenschap verworpen heeft, h
 2.  De rechtbank kan als vereffenaar onder de nodige door haar te bepalen waarborgen een erfgenaam, een executeur of een andere persoon aanwijzen. Benoemt zij twee of meer vereffenaars, dan kan, tenzij bij de benoeming of later door de kantonrechter anders wordt bepaald, ieder van hen alle werkzaamheden alleen verrichten.   
 3.  Een door de rechter benoemde vereffenaar heeft recht op het loon dat door de kantonrechter vóór het opmaken van de uitdelingslijst wordt vastgesteld.   
 4.  Hij wordt vereffenaar op de dag, waarop de beslissing die de benoeming inhoudt in kracht van gewijsde is gegaan, of – zo deze uitvoerbaar bij voorraad is verklaard – daags nadat de griffier hem van zijn benoeming mededeling heeft gedaan.   
-5.  Hij kan worden ontslagen hetzij op eigen verzoek, hetzij om gewichtige redenen, zulks op verzoek van een medevereffenaar, een erfgenaam, een schuldeiser van de nalatenschap of het openbaar ministerie, dan wel ambtshalve. Hangende het onderzoek kan de rechtbank voorlopige voorzieningen treffen en de vereffenaar schorsen. De taak van de vereffenaar eindigt door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of indien een bewind als bedoeld in [titel 19 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) over een of meer van zijn goederen wordt ingesteld. De rechter benoemt een of meer vereffenaars waar dezen ontbreken voordat de vereffening is geëindigd; hij kan een opengevallen plaats doen bezetten.   
+5.  Hij kan worden ontslagen hetzij op eigen verzoek, hetzij om gewichtige redenen, zulks op verzoek van een medevereffenaar, een erfgenaam, een schuldeiser van de nalatenschap of het openbaar ministerie, dan wel ambtshalve. Hangende het onderzoek kan de rechtbank voorlopige voorzieningen treffen en de vereffenaar schorsen. De taak van de vereffenaar eindigt door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of indien een bewind als bedoeld in titel 19 van Boek 1 over een of meer van zijn goederen wordt ingesteld. De rechter benoemt een of meer vereffenaars waar dezen ontbreken voordat de vereffening is geëindigd; hij kan een opengevallen plaats doen bezetten.   
 6.  De griffier doet de benoeming van een vereffenaar, alsmede het eindigen van zijn hoedanigheid onverwijld in het boedelregister inschrijven. De vereffenaar maakt haar bekend in de Staatscourant en in een of meer bij de benoeming voorgeschreven nieuwsbladen.  
 
 ### Artikel  207  
@@ -1537,8 +1537,8 @@ Is de erflater gehuwd geweest in een gemeenschap van goederen, dan kan de rechtb
 1.  De vereffenaar maakt de goederen der nalatenschap te gelde, voor zover dit voor de voldoening van de schulden der nalatenschap nodig is. Goederen die een schuldeiser der nalatenschap te vorderen heeft, worden zoveel mogelijk in de laatste plaats te gelde gemaakt.   
 2.  Omtrent de keuze van de te gelde te maken goederen en de wijze van tegeldemaking treedt de vereffenaar zoveel mogelijk in overleg met de erfgenamen. Bestaat tegen de voorgenomen tegeldemaking van een goed bezwaar bij een erfgenaam of een schuldeiser die het goed te vorderen heeft dan stelt de vereffenaar hem in de gelegenheid de beslissing van de kantonrechter in te roepen.   
 3.  Het in het vorige lid ten aanzien van de erfgenamen bepaalde geldt mede ten aanzien van hen aan wie het vruchtgebruik van de nalatenschap of van een aandeel daarin is vermaakt.   
-4.   [Artikel 68 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is op de vereffenaar van overeenkomstige toepassing.   
-5.  Met betrekking tot door de erflater gesloten sommenverzekeringen zonder onherroepelijk geworden aanwijzing van een derde als begunstigde, is [artikel 22a Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) van overeenkomstige toepassing, waarbij dient te worden gelezen voor: 
+4.   Artikel 68 van Boek 3 is op de vereffenaar van overeenkomstige toepassing.   
+5.  Met betrekking tot door de erflater gesloten sommenverzekeringen zonder onherroepelijk geworden aanwijzing van een derde als begunstigde, is artikel 22a Faillissementswet van overeenkomstige toepassing, waarbij dient te worden gelezen voor: 
 
 a. de curator: de vereffenaar  
 
@@ -1552,8 +1552,8 @@ Een door de rechter benoemde vereffenaar kan hetgeen uit de nalatenschap aan een
 
 ### Artikel  217  
 
-1.  Indien iemand zowel schuldenaar als schuldeiser van de nalatenschap is, zijn de bepalingen van de [Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) omtrent de bevoegdheid tot verrekening van overeenkomstige toepassing.   
-2.  Indien iemand met de erflater deelgenoot was in een gemeenschap die tijdens de vereffening wordt verdeeld, is [artikel 56 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) van overeenkomstige toepassing.  
+1.  Indien iemand zowel schuldenaar als schuldeiser van de nalatenschap is, zijn de bepalingen van de Faillissementswet omtrent de bevoegdheid tot verrekening van overeenkomstige toepassing.   
+2.  Indien iemand met de erflater deelgenoot was in een gemeenschap die tijdens de vereffening wordt verdeeld, is artikel 56 van de Faillissementswet van overeenkomstige toepassing.  
 
 ### Artikel  218  
 
@@ -1561,7 +1561,7 @@ Een door de rechter benoemde vereffenaar kan hetgeen uit de nalatenschap aan een
 2.  De vereffenaar maakt de neerlegging op dezelfde wijze openlijk bekend als de oproep tot aanmelding van vorderingen en bovendien per brief aan de erfgenamen, de legatarissen en allen die zich als schuldeiser hebben aangemeld.   
 3.  Binnen een maand na deze openlijke bekendmaking kan iedere belanghebbende tegen de rekening en verantwoording of tegen de uitdelingslijst bij de kantonrechter of, indien een rechter-commissaris is benoemd, bij de rechtbank in verzet komen.   
 4.  Verbintenissen die tot levering van een goed der nalatenschap of tot vestiging van een beperkt recht op een zodanig goed verplichten, worden in een geldschuld omgezet, voor zover een tekort dit nodig maakt. Andere verbintenissen die niet in geld luiden, en verbintenissen onder een opschortende voorwaarde worden in de uitdelingslijst slechts op verzoek van de schuldeiser opgenomen; in dat geval worden zij omgezet in een geldschuld. De vordering van een legitimaris wordt, indien zij ingevolge artikel 81 lid 2, een voorwaarde als bedoeld in artikel 82 of een beschikking als bedoeld in artikel 83 niet opeisbaar is, niet in de uitdelingslijst opgenomen.   
-5.  Voor het overige vinden bij de berekening van ieders vordering, het opmaken van de uitdelingslijst en het verzet daartegen de dienaangaande in de [Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) voorkomende voorschriften zoveel mogelijk overeenkomstige toepassing.  
+5.  Voor het overige vinden bij de berekening van ieders vordering, het opmaken van de uitdelingslijst en het verzet daartegen de dienaangaande in de Faillissementswet voorkomende voorschriften zoveel mogelijk overeenkomstige toepassing.  
 
 ### Artikel  219  
 
@@ -1582,11 +1582,11 @@ Wanneer de rechter heeft bepaald dat de nalatenschap mede in het belang van de s
 
 ### Artikel  222  
 
-Gedurende de vereffening zijn van [titel 7 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) slechts van toepassing de [artikelen 166](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [167](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [169](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [170 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [194 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
+Gedurende de vereffening zijn van titel 7 van Boek 3 slechts van toepassing de artikelen 166, 167, 169, 170 lid 1 en 194 lid 2. 
 
 ### Artikel  223  
 
-1.  Gedurende de vereffening is een schuldeiser alleen bevoegd zijn vordering op goederen der nalatenschap ten uitvoer te leggen, indien deze bevoegdheid hem ook in geval van faillissement van de erflater zou zijn toegekomen. De [artikelen 57 tot en met 60 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) zijn van overeenkomstige toepassing, met dien verstande dat de in de [artikelen 58 lid 1](../../../../../../wet/faillissementswet/BWBR0001860/README.md), [59a leden 3 en 5](../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [60 lid 3](../../../../../../wet/faillissementswet/BWBR0001860/README.md) bedoelde bevoegdheden van de rechter-commissaris, zo ter zake van de vereffening geen rechter-commissaris is benoemd, uitgeoefend worden door de kantonrechter.   
+1.  Gedurende de vereffening is een schuldeiser alleen bevoegd zijn vordering op goederen der nalatenschap ten uitvoer te leggen, indien deze bevoegdheid hem ook in geval van faillissement van de erflater zou zijn toegekomen. De artikelen 57 tot en met 60 van de Faillissementswet zijn van overeenkomstige toepassing, met dien verstande dat de in de artikelen 58 lid 1, 59a leden 3 en 5 en 60 lid 3 bedoelde bevoegdheden van de rechter-commissaris, zo ter zake van de vereffening geen rechter-commissaris is benoemd, uitgeoefend worden door de kantonrechter.   
 2.  Ook tijdens de vereffening kan een schuldeiser van de nalatenschap zijn vorderingsrecht, of de voorrang die zijn vordering toekomt, bij vonnis doen vaststellen. Een vonnis waarbij een vordering tegen een vereffenaar is vastgesteld, kan op de persoonlijke goederen van een erfgenaam die met zijn gehele vermogen aansprakelijk is, alleen worden ten uitvoer gelegd, indien deze in het geding partij is geweest.   
 3.  Op verzoek van een vereffenaar kunnen reeds gelegde beslagen, voor zover dat voor de vereffening nodig is, door de kantonrechter worden opgeheven.  
 

@@ -1048,7 +1048,7 @@ g. voorzover sprake is van vroegere arbeid:
 
 1°. vergoedingen ter zake van de aanschaf bij de inhoudingsplichtige dan wel bij een met de inhoudingsplichtige verbonden vennootschap van branche-eigen producten van het bedrijf van de inhoudingsplichtige dan wel van het bedrijf van een met de inhoudingsplichtige verbonden vennootschap;  
 
-2°. verstrekkingen; voor zover deze vergoedingen en verstrekkingen ook door de inhoudingsplichtige of door een met de inhoudingsplichtige verbonden vennootschap worden verstrekt aan een of meer werknemers met inkomsten uit tegenwoordige arbeid die voor het overige in dezelfde omstandigheden verkeren;    
+2°. verstrekkingen;   voor zover deze vergoedingen en verstrekkingen ook door de inhoudingsplichtige of door een met de inhoudingsplichtige verbonden vennootschap worden verstrekt aan een of meer werknemers met inkomsten uit tegenwoordige arbeid die voor het overige in dezelfde omstandigheden verkeren; 
 
 h. toeslagen als bedoeld in artikel 10, derde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en in artikel 21b van de Wet uitkeringen vervolgingsslachtoffers 1940–1945 zoals dat luidde tot 1 januari 1992, alsmede toeslagen als bedoeld in artikel 19 van de Wet uitkeringen burgeroorlogsslachtoffers 1940–1945.    
 2.  Met betrekking tot eindheffingsbestanddelen wordt het bedrag van de verschuldigde belasting bepaald: 
