@@ -904,7 +904,15 @@ Bij de indiening van de aanvraag, bedoeld in artikel 45a van de Wet, verklaart d
 
 ### Artikel  4.1  
 
-Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen zijn belast de ambtenaren, bedoeld in artikel 142 van het Wetboek van Strafvordering, die ingevolge een akte en proces-verbaal van beëdiging van de Minister van Veiligheid en Justitie zijn belast met opsporing van een of meer strafbare feiten ingevolge de Wet.  
+1.  Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen zijn belast: 
+
+a. de ambtenaren, bedoeld in artikel 142 van het Wetboek van Strafvordering, die ingevolge een akte en proces-verbaal van beëdiging van de Minister van Veiligheid en Justitie zijn belast met opsporing van een of meer strafbare feiten ingevolge de Wet;  
+
+b. de ambtenaren van de Dienst Terugkeer en Vertrek die de functie hebben van senior medewerker behandelen en ontwikkelen of medewerker behandelen en ontwikkelen;  
+
+c. de ambtenaren van de Dienst Vervoer en Ondersteuning die tevens zijn aangewezen als buitengewoon opsporingsambtenaar in de zin van artikel 2 van het Besluit buitengewoon opsporingsambtenaar Dienst Vervoer en Ondersteuning 2014.     
+2.  De ambtenaren, bedoeld in het eerste lid, onder b, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in de artikelen 50, en 52 van de Wet en de artikelen 4.23 en 4.45 van het Besluit.   
+3.  De ambtenaren, bedoeld in het eerste lid, onder c, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in artikel 50 van de Wet.  
 
 ### Artikel  4.1a  
 
@@ -1846,20 +1854,21 @@ M.J. Cohen
 
 ####, behorend bij artikel 2.1, eerste lid, onder a , Voorschrift Vreemdelingen 2000
 
-| Luchthaven  | Luchthavencode   |
+| Luchthaven  | Luchthavencode  |
 |:---|:---|
 | Abu Dhabi International Airport  | AUH  |
-| Amman-Queen Alia International Airport  | AMM  |
+| Amman – Queen Alia International Airport  | AMM  |
 | Banjul Yundum International Airport  | BJL  |
 | Beijing Capital International Airport  | PEK  |
+| Boryspil International Airport  | KBP  |
+| Kigali International Airport  | KGL  |
 | Cairo International Airport  | CAI  |
 | Casablanca Mohammed V International Airport  | CMN  |
-| Dakar Léopold Sédar Senghor International Airport  | DKR  |
-| Damman-King Fahd International Airport  | DMM  |
+| Damman – King Fahd International Airport  | DMM  |
 | Dar Es Salaam International Airport  | DAR  |
 | Denpasar Bali International Airport  | DPS  |
 | Dubai International Airport  | DXB  |
-| Dubai World Central-Al Maktoum International Airport  | DWC  |
+| Dubai World Central – Al Maktoum International Airport  | DWC  |
 | Guangzhou Baiyun International Airport  | CAN  |
 | Hong Kong International Airport  | HKG  |
 | Istanboel International Atatürk Airport  | IST  |
@@ -1869,7 +1878,8 @@ M.J. Cohen
 | Moskou Sheremetjevo International Airport  | SVO  |
 | Muscat Seeb International Airport  | MCT  |
 | Nairobi Jomo Kenyatta International Airport  | NBO  |
-| Panama Stad-Tocumen International Airport  | PTY  |
+| New Delhi Indira Gandhi International Airport  | DEL  |
+| Panama Stad – Tocumen International Airport  | PTY  |
 | Quito Mariscal Sucre International Airport  | UIO  |
 | Singapore Changi International Airport  | SIN  |
 

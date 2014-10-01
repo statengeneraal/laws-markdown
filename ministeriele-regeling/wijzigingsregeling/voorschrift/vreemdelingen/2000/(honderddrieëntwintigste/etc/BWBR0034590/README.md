@@ -12,7 +12,7 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ### Artikel  II  
 
-1.  De artikelen 3.6a, 3.115, eerste lid, onder e, en 6.1e, eerste lid, van het Vreemdelingenbesluit 2000 zijn niet van toepassing op een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Vreemdelingenwet 2000, die is ingediend voor het tijdstip van inwerkingtreding van de desbetreffende artikelen.   
+1.  De artikelen 3.6a, 3.115, eerste lid, onder e, en 6.1e, eerste lid, van het Vreemdelingenbesluit 2000 zijn niet van toepassing op een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Vreemdelingenwet 2000, die is ingediend voor 1 april 2014.   
 2.  Artikel 3.118b van het Vreemdelingenbesluit 2000 is niet van toepassing indien de vreemdeling voor 1 januari 2014 te kennen heeft gegeven dat hij een volgende aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van de Vreemdelingenwet 2000 wil indienen.  
 
 ### Artikel  III  
@@ -21,7 +21,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2014, met uitzondering
 
 a. artikel I, onderdelen A, E, H, P en S, die in werking treden met ingang van 6 januari 2014, en  
 
-b. artikel I, onderdelen I en R en artikel II, onderdeel 1, die in werking treden op een bij ministeriële regeling te bepalen tijdstip.   
+b. artikel II, eerste lid, dat in werking treedt op een bij ministeriële regeling te bepalen tijdstip, waarbij kan worden bepaald dat artikel II, eerste lid, terugwerkt tot een bij die regeling te bepalen tijdstip.   
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

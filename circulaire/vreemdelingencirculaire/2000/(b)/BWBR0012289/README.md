@@ -241,20 +241,20 @@ In aanvulling op artikel 3.57, eerste lid, Vb en op grond van artikel 3.57, twee
 
 ####De aanvraag
 
-### *De herhaalde aanvraag* 
+### De herhaalde aanvraag 
 
 De IND merkt in het kader van artikel 4:6 Awb enkel feiten en omstandigheden als nieuw aan die: 
 
 * op het moment waarop de eerste aanvraag werd afgewezen niet bekend waren en redelijkerwijs niet bekend konden zijn; en  
 
 * aanleiding geven tot heroverweging van de eerste aanvraag.   
-### *Verzoek om heroverweging* 
+###Verzoek om heroverweging
 
-De IND beschouwt een verzoek om heroverweging van een in rechte onaantastbaar geworden beschikking als een aanvraag die niet is ingediend overeenkomstig de formele vereisten voor de indiening van een aanvraag. De IND stelt de vreemdeling in de gelegenheid om aan de formele vereisten te voldoen. 
-### *Meer verblijfdoelen* 
+De IND beschouwt een verzoek om heroverweging van een in rechte onaantastbaar geworden beschikking als een aanvraag die niet is ingediend overeenkomstig de formele vereisten voor de indiening van een aanvraag. De IND stelt de vreemdeling in de gelegenheid om aan de formele vereisten te voldoen.
+###Meer verblijfdoelen
 
-De IND beoordeelt slechts één verblijfsbeperking per aanvraag, met uitzondering van de gronden genoemd in artikel 3.6, eerste lid, Vb. 
-### *Ambtshalve toets* 
+De IND beoordeelt slechts één verblijfsbeperking per aanvraag, met uitzondering van de gronden genoemd in artikel 3.6, eerste lid, Vb.
+###Ambtshalve toets
 
 Bij afwijzing van een aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 3.6, tweede lid, Vb, beoordeelt de IND ambtshalve of de vreemdeling in aanmerking komt voor verlening van een verblijfsvergunning regulier voor bepaalde tijd op een van de gronden genoemd in artikel 3.6, eerste lid, Vb. De IND doet dit volgens een vaste volgorde. De IND beoordeelt ambtshalve of de vreemdeling in aanmerking komt voor verlening van een verblijfsvergunning regulier voor bepaalde tijd op een van de gronden genoemd in artikel 3.6, eerste lid, Vb als de IND: 
 
@@ -262,12 +262,12 @@ Bij afwijzing van een aanvraag tot het verlenen van een verblijfsvergunning regu
 
 * de aanvraag tot het verlengen van een geldigheidsduur van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 3.6, tweede lid, Vb afwijst;  
 
-* de verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 3.6, tweede lid, Vb intrekt.   De IND verleent een verblijfsvergunning regulier op grond van artikel 3.6, eerste lid, onder e, Vb juncto artikel 3.48, tweede lid onder b, Vb ambtshalve als de Minister hier op grond van zijn discretionaire bevoegdheid toe heeft besloten. Als de bijzondere individuele omstandigheden zich niet lenen voor een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met tijdelijke humanitaire gronden kan op grond van artikel 3.6b Vb ambtshalve een verblijfsvergunning worden verleend onder de beperking verband houdend met niet-tijdelijke humanitaire gronden. Als de IND ambtshalve geen verblijfsvergunning regulier voor bepaalde tijd verleent op grond van artikel 3.6, eerste lid, Vb, beoordeelt de IND op grond van artikel 6.1d Vb ambtshalve of er reden is voor toepassing van artikel 64 Vw. De IND laat de ambtshalve toets als bedoeld in artikel 3.6 Vb en 6.1d Vb achterwege, als de IND aan de vreemdeling gelijk met de afwijzing van een aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd een zwaar inreisverbod oplegt. 
+* de verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 3.6, tweede lid, Vb intrekt.   De IND verleent een verblijfsvergunning regulier op grond van artikel 3.6, eerste lid, onder e, Vb juncto artikel 3.48, tweede lid onder b, Vb ambtshalve als de Minister hier op grond van zijn discretionaire bevoegdheid toe heeft besloten. Als de bijzondere individuele omstandigheden zich niet lenen voor een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met tijdelijke humanitaire gronden kan op grond van artikel 3.6b Vb ambtshalve een verblijfsvergunning worden verleend onder de beperking verband houdend met niet-tijdelijke humanitaire gronden. Als de IND ambtshalve geen verblijfsvergunning regulier voor bepaalde tijd verleent op grond van artikel 3.6, eerste lid, Vb, beoordeelt de IND op grond van artikel 6.1d Vb ambtshalve of er reden is voor toepassing van artikel 64 Vw. De IND laat de ambtshalve toets als bedoeld in artikel 3.6 Vb en 6.1d Vb achterwege, als de IND aan de vreemdeling met de afwijzing van een aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd een zwaar inreisverbod of een ongewenstverklaring oplegt. 
 ### 3.4.1.2  
 
 ####Vereisten voor de indiening van de aanvraag
 
-### *Plaats van indiening aanvraag* 
+###Plaats van indiening aanvraag
 
 Op grond van artikel 3.101 Vb worden de volgende aanvragen ingediend bij de IND: 
 
@@ -275,37 +275,34 @@ Op grond van artikel 3.101 Vb worden de volgende aanvragen ingediend bij de IND:
 
 * de aanvraag tot het verlenen van een verblijfsvergunning regulier voor onbepaalde tijd; en  
 
-* de aanvraag tot het vervangen of vernieuwen van het verblijfsdocument om redenen als genoemd in artikel 4.22 Vb.   De aanvrager dient de aanvraag in bij een door de IND opgegeven postadres of IND-loket dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de aanvrager de leges moet betalen. De aanvrager dient de aanvraag in met het vereiste formulier, dat bij de IND verkrijgbaar is. 
-### *Uitzondering voor het indienen van de aanvraag bij de IND* 
+* de aanvraag tot het vervangen of vernieuwen van het verblijfsdocument om redenen als genoemd in artikel 4.22 Vb.   De aanvrager dient de aanvraag in bij een door de IND opgegeven postadres of IND-loket dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de aanvrager de leges moet betalen. De aanvrager dient de aanvraag in met het vereiste formulier, dat bij de IND verkrijgbaar is.
+###Uitzondering voor het indienen van de aanvraag bij de IND
 
 De vreemdeling moet de aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd voor slachtoffers en getuige-aangevers van mensenhandel indienen bij de politie van de gemeente waar de vreemdeling woon- of verblijfplaats heeft. 
-### *Beschikbaar tijdens de ééndagstoets* 
+###Beschikbaar tijdens de ééndagstoets
 
-De IND kan de vreemdeling met het oog op zijn beschikbaarheid tijdens de ééndagstoets regulier een aanwijzing geven door middel van model M117D, op de dag dat de vreemdeling de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd aan een IND-loket indient. De IND licht de aanwijzing mondeling toe. 
-###*Schriftelijke kennisgeving*
+De IND kan de vreemdeling met het oog op zijn beschikbaarheid tijdens de ééndagstoets regulier een aanwijzing geven door middel van model M117D, op de dag dat de vreemdeling de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd aan een IND-loket indient. De IND licht de aanwijzing mondeling toe.
+###Schriftelijke kennisgeving
 
 Op grond van artikel 3.99a Vb moet een aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in hetzelfde artikel voorafgegaan worden door een schriftelijke kennisgeving. De vreemdeling die een aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd, als bedoeld in artikel 3.99a Vb wil indienen, stelt de IND daarvan eerst in kennis met de daarvoor bestemde schriftelijke kennisgeving. De vreemdeling geeft op de schriftelijke kennisgeving aan op grond van welke (nieuwe) feiten en omstandigheden de vreemdeling een aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd wil indienen en voegt alle relevante bewijsmiddelen, als aangegeven op het formulier, bij. De IND stelt de schriftelijke kennisgeving beschikbaar: 
 
 * via de website www.ind.nl; en  
 
-* bij de IND-loketten.  In artikel 3.102b Vb is aangegeven in welke gevallen de vreemdeling bij de schriftelijke kennisgeving in ieder geval de voor de beslissing relevante medische gegevens (zie paragraaf A3/7.1 Vc) en overige bewijsmiddelen moet overleggen. Na ontvangst van de schriftelijke kennisgeving: 
+* bij de IND-loketten.   In artikel 3.102b Vb is aangegeven in welke gevallen de vreemdeling bij de schriftelijke kennisgeving in ieder geval de voor de beslissing relevante medische gegevens (zie paragraaf A3/7.1 Vc) en overige bewijsmiddelen moet overleggen. Na ontvangst van de schriftelijke kennisgeving, de verstrekte informatie en bewijsmiddelen: 
 
-1. start de IND op basis van de bij het formulier verstrekte bewijsmiddelen de voorbereiding van het onderzoek naar de inwilligbaarheid van de nog in te dienen aanvraag; en  
+1. start de IND de voorbereiding van het onderzoek naar de inwilligbaarheid van de nog in te dienen aanvraag; en  
 
-2. stelt de IND de vreemdeling in de gelegenheid om ongeveer twee weken later de aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd, als bedoeld in artikel 3.99a Vb, in persoon in te dienen bij de IND.   
-### *Ad 1.* 
-
-Gedurende dit onderzoek vraagt de IND de vreemdeling of zijn gemachtigde om aanvullende informatie of bewijsmiddelen en biedt de IND de vreemdeling de mogelijkheid om de aanvraag als bedoeld onder 2 op een later moment in dienen, als blijkt dat: 
+2. stelt de IND de vreemdeling in de gelegenheid om ongeveer twee weken later de aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd, als bedoeld in artikel 3.99a Vb, in persoon in te dienen bij de IND.    *Ad 1.*  Gedurende dit onderzoek vraagt de IND de vreemdeling of zijn gemachtigde om aanvullende informatie of bewijsmiddelen en biedt de IND de vreemdeling de mogelijkheid om de aanvraag als bedoeld onder 2 op een later moment in dienen, als blijkt dat: 
 
 * de schriftelijke kennisgeving niet volledig is ingevuld;  
 
 * de door de vreemdeling verstrekte informatie niet duidelijk is;  
 
-* onvoldoende of geen bewijsmiddelen zijn overgelegd.   
-### *Leges* 
+* de bewijsmiddelen niet volledig zijn of in het geheel ontbreken.   
+###Leges
 
-De IND eist dat de vreemdeling bij een aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd, als bedoeld in artikel 3.99, tweede lid, aanhef en onder a, Vb de verschuldigde leges per kas of per elektronische betaling ter plekke aan het IND-loket voldoet. 
-### *Indiening door een wettelijk vertegenwoordiger* 
+De IND eist dat de vreemdeling bij een aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd, als bedoeld in artikel 3.99, tweede lid, aanhef en onder a, Vb de verschuldigde leges per kas of per elektronische betaling ter plekke aan het IND-loket voldoet.
+###Indiening door een wettelijk vertegenwoordiger
 
 De IND merkt als wettelijke vertegenwoordiger, bedoeld in artikel 23 Vw juncto artikel 3.99 Vb aan: 
 
@@ -321,7 +318,7 @@ De IND merkt als wettelijke vertegenwoordiger, bedoeld in artikel 23 Vw juncto a
 
 * het kind voor wie de aanvraag is ingediend jonger is dan 12 jaar; en  
 
-* de wettelijke vertegenwoordiging na afloop van genoemde termijn van drie maanden niet is aangetoond.   De IND stelt de aanvraag niet buiten behandeling als de aanvraag is ondertekend door een vreemdeling van 12 jaar of ouder. 
+* de wettelijke vertegenwoordiging na afloop van genoemde termijn van drie maanden niet is aangetoond.   De IND stelt de aanvraag niet buiten behandeling als de aanvraag is ondertekend door een vreemdeling van 12 jaar of ouder.
 ### 3.4.1.3  
 
 ####Herstel verzuim
@@ -877,7 +874,7 @@ De IND haalt de aantekening door als het bezwaar- of administratief beroepschrif
 
 ####Het verzoek om een voorlopige voorziening
 
-De IND staat de vreemdeling toe een verzoek om een voorlopige voorziening, gericht tegen de uitzetting, in Nederland af te wachten, tenzij: 
+De IND staat de vreemdeling toe om de uitspraak op een binnen 24 uur na de bekendmaking van het besluit ingediend verzoek om een voorlopige voorziening, gericht tegen de uitzetting, in Nederland af te wachten, tenzij: 
 
 a. het een tweede of herhaald verzoek om een voorlopige voorziening betreft;  
 
@@ -887,22 +884,13 @@ c. redenen van openbare orde (waaronder begrepen de openbare rust) of nationale 
 
 d. de uitzetting daardoor wordt belemmerd; of  
 
-e. sprake is van misbruik van recht.   
-### * * *Ad a.* * * 
-
-De IND merkt een verzoek om een voorlopige voorziening aan als een eerste verzoek als niet eerder in dezelfde zaak om een voorlopige voorziening is verzocht. Een tweede of herhaald verzoek om een voorlopige voorziening mag niet worden afgewacht. Van een tweede verzoek om een voorlopige voorziening als hiervoor bedoeld is geen sprake als in dezelfde procedure eerder een verzoek om een voorlopige voorziening door de voorzieningenrechter is toegewezen. 
-### * * *Ad d.* * * 
-
-De IND merkt de volgende situaties in ieder geval aan als situaties die de uitzetting belemmeren: 
+e. sprake is van misbruik van recht.    *Ad a.*  De IND merkt een verzoek om een voorlopige voorziening aan als een eerste verzoek als niet eerder in dezelfde zaak om een voorlopige voorziening is verzocht. Een tweede of herhaald verzoek om een voorlopige voorziening mag niet worden afgewacht. Van een tweede verzoek om een voorlopige voorziening als hiervoor bedoeld is geen sprake als in dezelfde procedure eerder een verzoek om een voorlopige voorziening door de voorzieningenrechter is toegewezen.  *Ad d.*  De IND merkt de volgende situaties in ieder geval aan als situaties die de uitzetting belemmeren: 
 
 * het paspoort van de vreemdeling, de daarin voorkomende visa of de vervangende reisdocumenten, zijn nog slechts voor korte tijd geldig;  
 
 * de vreemdeling kan worden overgedragen op grond van terug- en overnameovereenkomsten en de terugname of overname op grond van de bepalingen van de overeenkomst zou niet meer haalbaar zijn; of  
 
-* de vreemdeling kan met een door de DT&V georganiseerde overheidsvlucht uitgezet worden, terwijl uitzetting door het afwachten van de behandeling van het verzoek om voorlopige voorziening voor langere tijd niet meer haalbaar is.   
-### * * *Ad e.* * * 
-
-Van misbruik van recht is uitsluitend sprake als het verzoek om een voorlopige voorziening geen enkel redelijk belang heeft en sprake is van indiening van het verzoek te kwader trouw.
+* de vreemdeling kan met een door de DT&V georganiseerde overheidsvlucht uitgezet worden, terwijl uitzetting door het afwachten van de behandeling van het verzoek om voorlopige voorziening voor langere tijd niet meer haalbaar is.    *Ad e.*  Van misbruik van recht is uitsluitend sprake als het verzoek om een voorlopige voorziening geen enkel redelijk belang heeft en sprake is van indiening van het verzoek te kwader trouw.
 ###Het verzoek om een voorlopige voorziening bij Dublinclaimanten
 
 De IND staat de vreemdeling toe een verzoek om een voorlopige voorziening, dat connex is aan een rechtsmiddel dat is gericht tegen een overdrachtsbesluit in de zin van Verordening (EU) nr. 604/2013, in Nederland af te wachten, tenzij: 
@@ -3262,7 +3250,7 @@ De IND wijst de aanvraag tot het verlengen van de geldigheidsduur van de verblij
 De IND trekt de verblijfsvergunning in indien uit nieuwe informatie blijkt dat de vreemdeling alsnog terug kan keren naar zijn land van herkomst of een ander land.  
 ### 5  
 
-####Verblijfsvergunning voor remigratie op grond van artikel 8 Remigratiewet
+####Verblijfsvergunning in het kader van remigratie op grond van de Remigratiewet
 
 ### 5.1  
 
@@ -3279,7 +3267,7 @@ De IND verleent op grond van artikel 3.48, tweede lid, aanhef en onder b, Vb een
 
 ####Verlenging
 
-Als de vreemdeling een aanvraag voor verlenging van de verblijfsvergunning voor bepaalde tijd indient na het verlopen van de geldigheidsduur van zes maanden, wijst de IND de aanvraag tot het verlengen van de verblijfsgunning regulier voor bepaalde tijd af, tenzij de remigrant van de overschrijding van de termijn van zes maanden redelijkerwijs geen verwijt kan worden gemaakt.  
+Als de vreemdeling een aanvraag voor verlenging van de verblijfsvergunning voor bepaalde tijd indient, wijst de IND de aanvraag tot het verlengen van de verblijfsgunning regulier voor bepaalde tijd af, tenzij de remigrant van de overschrijding van de termijn van zes maanden redelijkerwijs geen verwijt kan worden gemaakt.  
 ### 5.3  
 
 ####Bewijsmiddelen
@@ -3871,6 +3859,11 @@ In dit hoofdstuk zijn de beleidsregels opgenomen die gelden voor vreemdelingen d
 
 ### 2.1  
 
+####In Nederland geboren en getogen oud-Nederlanders
+
+De IND verleent de verblijfsvergunning regulier voor bepaalde tijd als de vreemdeling voldoet aan de voorwaarden genoemd in artikel 3.51, eerste lid, aanhef en onder d, Vb. 
+### 2.2  
+
 ####Buiten Nederland geboren oud-Nederlanders
 
 De IND neemt aan dat in ieder geval sprake is van bijzondere banden met Nederland als bedoeld in artikel 3.51, eerste lid, aanhef en onder e, Vb als sprake is van één van de volgende omstandigheden: 
@@ -3879,16 +3872,16 @@ De IND neemt aan dat in ieder geval sprake is van bijzondere banden met Nederlan
 
 * de vreemdeling heeft gedurende zijn minderjarigheid een opleiding gevolgd, die meer dan in die tijd in dat land gebruikelijk was, op Nederland zelf was gericht; of  
 
-* er is sprake van bijvoorbeeld een opvoeding, maatschappelijke positie en/of dienstbetrekking die op Nederland gericht zijn (zie bijvoorbeeld KNIL-militairen met pensioen en ambtenaren in Nederlandse dienst).     
-### 2.2  
+* er is sprake van bijvoorbeeld een opvoeding, maatschappelijke positie en/of dienstbetrekking die op Nederland gericht zijn (zie bijvoorbeeld KNIL-militairen met pensioen en ambtenaren in Nederlandse dienst).      
+### 2.3  
 
 ####Oud-Nederlanders (artikel 15, eerste lid, aanhef en onder b, d en f, RWN)
 
-### 2.2.1  
+### 2.3.1  
 
 ####Algemene verblijfsvoorwaarden
 
-Op grond van artikel 3.51, eerste lid aanhef en onder h, Vb verleent de IND een verblijfsvergunning regulier voor bepaalde tijd als: 
+Op grond van artikel 3.51, eerste lid aanhef en onder k, Vb verleent de IND een verblijfsvergunning regulier voor bepaalde tijd als: 
 
 * de vreemdeling voldoet aan de algemene toelatingsvoorwaarden van artikel 16, eerste lid, Vw, met uitzondering van c en k;  
 
@@ -3899,12 +3892,12 @@ Op grond van artikel 3.51, eerste lid aanhef en onder h, Vb verleent de IND een 
 * de vreemdeling het hoofdverblijf niet buiten Nederland heeft verplaatst; en  
 
 * de aanvraag is ontvangen binnen twee jaar na verlies van het Nederlanderschap.    
-### 2.2.2  
+### 2.3.2  
 
 ####Bijzondere voorwaarden oud-Nederlanders door intrekking (artikel 15, eerste lid, onder d en f, RWN)
 
 De IND verleent een verblijfsvergunning regulier voor bepaalde tijd als de vreemdeling in aanvulling op de in B9/2.2.1 genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren op grond van artikel 15, eerste lid, aanhef en onder d of f, RWN.  
-### 2.2.3  
+### 2.3.3  
 
 ####Bijzondere voorwaarden oud-Nederlanders door het afleggen van een verklaring van afstand (artikel 15, eerste lid, onder b, RWN)
 
@@ -3924,11 +3917,7 @@ De IND verleent op grond van artikel 3.51, eerste lid, onder a, 3, Vb de verblij
 
 ####Terugkeeroptie op grond van artikel 8 Remigratiewet
 
-De IND verleent, in aanvulling op artikel 3.51, eerste lid, aanhef en onder g, Vb, een verblijfsvergunning regulier voor bepaalde tijd als: 
-
-* de aanvraag is ontvangen binnen één jaar na de remigratie uit Nederland met toepassing van de Remigratiewet; en  
-
-* de vreemdeling niet eerder gebruik heeft gemaakt van de terugkeeroptie.    
+De IND verleent een verblijfsvergunning regulier voor bepaalde tijd als de vreemdeling voldoet aan de voorwaarden genoemd in artikel 3.51, eerste lid, aanhef en onder g, Vb.  
 ### 5  
 
 ####Terugkeeroptie (minderjarige vreemdelingen)
@@ -5179,21 +5168,10 @@ De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vre
 De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/2.7.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van artikel 15, eerste lid, aanhef en onder d of f, RWN wordt ingetrokken. 
 ### 2.7.2  
 
-####Terugkeer op grond van artikel 8 Remigratiewet
-
-De IND verleent de verblijfsvergunning voor onbepaalde tijd op grond van artikel 3.92, tweede lid, Vb aan de vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van artikel 8 van de Remigratiewet als: 
-
-* de in artikel 3.92, tweede lid, aanhef en onder c, Vb genoemde vijf jaren rechtmatig verblijf ononderbroken waren;  
-
-* de vreemdeling de aanvraag indient binnen een jaar na de remigratie uit Nederland met toepassing van de Remigratiewet; en  
-
-* de vreemdeling niet eerder gebruik heeft gemaakt van de Remigratiewet.   
-### 2.7.3  
-
 ####Terugkeeroptie
 
 De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt voldaan aan de voorwaarden genoemd in artikel 3.92, eerste lid, Vb. 
-### 2.7.4  
+### 2.7.3  
 
 ####(Ex) geprivilegieerde en diens afhankelijke gezinsleden
 
@@ -5203,7 +5181,7 @@ De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de vreemdeling 
 
 * een aaneengesloten periode van tien jaar wordt niet aangenomen als de vreemdeling in deze periode zes of meer achtereenvolgende maanden of in totaal tien of meer maanden buiten Nederland heeft verbleven; en  
 
-* in aanvulling op artikel 3.93, tweede lid, Vb beschikt het afhankelijk gezinslid duurzaam over voldoende middelen van bestaan als de referent duurzaam beschikt over voldoende middelen van bestaan.   
+* in aanvulling op artikel 3.93, tweede lid, Vb beschikt het afhankelijk gezinslid duurzaam over voldoende middelen van bestaan als de referent duurzaam beschikt over voldoende middelen van bestaan.    
 ### 2.8  
 
 ####Intrekking verblijfsvergunning regulier voor onbepaalde tijd
@@ -5215,10 +5193,7 @@ IND trekt de verblijfsvergunning regulier voor onbepaalde tijd in als zich een o
 
 ###Inburgeringsvereiste
 
-Paragraaf B9/14.1 Vc is van toepassing.
-###Terugkeer op grond van artikel 8 Remigratiewet
-
-De IND beschouwt de beschikking van de SVB als bewijsmiddel van de vertrekdatum en het recht op basisvoorzieningen of toekenning van de remigratievoorziening.
+Paragraaf B9/18.1 Vc is van toepassing.
 ###(Ex)-geprivilegieerden
 
 De IND beschouwt als bewijsmiddel dat de ex-geprivilegieerde tien aaneengesloten jaren in Nederland heeft verbleven: 
