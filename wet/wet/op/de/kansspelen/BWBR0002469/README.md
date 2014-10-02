@@ -46,7 +46,7 @@ c. door een publiekrechtelijk lichaam tegen een niet hogere dan de parikoers voo
 1.  Tenzij deze wet anders bepaalt kan voor een gelegenheid als in artikel 1, onder a, bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door de raad van bestuur, bedoeld in artikel 33a.    
 2.   Het eerste lid is niet van toepassing voor gelegenheden, waarbij de spelers gemeenschappelijk aan een kansspel kunnen deelnemen.    
 3.  Het eerste lid is niet van toepassing op piramidespelen.    
-4.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in het eerste lid en, voorzover de vergunning door de raad van bestuur, bedoeld in artikel 33a wordt verleend, deze betrekking heeft op een incidenteel kansspel. 
+4.  Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de vergunning, bedoeld in het eerste lid en, voorzover de vergunning door de raad van bestuur, bedoeld in artikel 33a wordt verleend, deze betrekking heeft op een incidenteel kansspel. 
 
 ### Artikel  4  
 
@@ -176,7 +176,7 @@ De ingevolge artikel 9 verleende vergunning kan tussentijds door de raad van bes
 ### Artikel  12  
 
 1.  De Algemene Rekenkamer kan het financiële beheer dat door de krachtens artikel 9 aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.    
-2.  De [artikelen 86](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), [87, eerste en tweede lid](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en [85 van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) is van overeenkomstige toepassing.   
+2.  De artikelen 86, 87, eerste en tweede lid, en 85 van de Comptabiliteitswet 2001 is van overeenkomstige toepassing.   
 
 ### Artikel  13  
 
@@ -412,7 +412,7 @@ De ingevolge artikel 27h verleende vergunning kan door de raad van bestuur, bedo
 ### Artikel  27l  
 
 1.  De Algemene Rekenkamer kan het financiële beheer dat door de krachtens artikel 27*h*  aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.    
-2.   De [artikelen 86](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), [87, eerste en tweede lid](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en [85 van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) is van overeenkomstige toepassing.   
+2.   De artikelen 86, 87, eerste en tweede lid, en 85 van de Comptabiliteitswet 2001 is van overeenkomstige toepassing.   
 
 ### Titel  V  
 
@@ -436,13 +436,13 @@ b. behendigheidsautomaat: een speelautomaat waarvan het spelresultaat uitsluiten
 
 c. kansspelautomaat: een speelautomaat, die geen behendigheidsautomaat is;   
 
-d. hoogdrempelige inrichting: een inrichting als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), waarin rechtmatig het horecabedrijf als bedoeld in dat artikellid wordt uitgeoefend: 
+d. hoogdrempelige inrichting: een inrichting als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet, waarin rechtmatig het horecabedrijf als bedoeld in dat artikellid wordt uitgeoefend: 
 
 1°. waar het café en het restaurantbezoek op zichzelf staat en waar geen andere activiteiten plaatsvinden, waaraan een zelfstandige betekenis kan worden toegekend en  
 
 2°. waarvan de activiteiten in belangrijke mate gericht zijn op personen van 18 jaar en ouder.    
 
-e. laagdrempelige inrichting: een inrichting als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), waarin rechtmatig het horecabedrijf als bedoeld in dat artikellid wordt uitgeoefend, die geen hoogdrempelige inrichting is, of een inrichting waarin horeca-activiteiten worden verricht en waarvan de ondernemer inschrijfplichtig is en ingeschreven is bij het Bedrijfschap Horeca.   
+e. laagdrempelige inrichting: een inrichting als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet, waarin rechtmatig het horecabedrijf als bedoeld in dat artikellid wordt uitgeoefend, die geen hoogdrempelige inrichting is, of een inrichting waarin horeca-activiteiten worden verricht en waarvan de ondernemer inschrijfplichtig is en ingeschreven is bij het Bedrijfschap Horeca.   
 
 ### Artikel  30a  
 
@@ -461,9 +461,9 @@ a. op of aan de openbare weg;
 
 b. op voor het publiek toegankelijke plaatsen;   
 
-c. in niet voor het publiek toegankelijke inrichtingen, waarvoor ingevolge [artikel 3 van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) een vergunning voor de uitoefening van het horecabedrijf is vereist of waarvan de ondernemer inschrijfplichtig is bij het Bedrijfschap Horeca.     
+c. in niet voor het publiek toegankelijke inrichtingen, waarvoor ingevolge artikel 3 van de Drank- en Horecawet een vergunning voor de uitoefening van het horecabedrijf is vereist of waarvan de ondernemer inschrijfplichtig is bij het Bedrijfschap Horeca.     
 2.  Het eerste lid is niet van toepassing op het aanwezig hebben van kansspelautomaten op voor het publiek toegankelijke plaatsen, uitsluitend ten behoeve van het verkopen daarvan of van het krachtens een vergunning als bedoeld in artikel 30h, eerste lid, in gebruik geven daarvan aan anderen ten behoeve van de uitoefening van hun bedrijf.  
-3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning, bedoeld in artikel 30c, eerste lid, onder a. 
+3.  Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de vergunning, bedoeld in artikel 30c, eerste lid, onder a. 
 
 ### Artikel  30c  
 
@@ -474,7 +474,7 @@ a. in een hoogdrempelige inrichting;
 b. in een inrichting, anders dan onder a, bestemd om het publiek de gelegenheid te geven een spel door middel van kansspelautomaten te beoefenen, indien het houden van een zodanige inrichting krachtens een vergunning van de burgemeester bij gemeentelijke verordening is toegestaan.     
 2.  Bij gemeentelijke verordening wordt het aantal kansspelautomaten vastgesteld waarvoor per inrichting, als bedoeld in het eerste lid, vergunning wordt verleend, met dien verstande dat voor een inrichting als bedoeld in het eerste lid, onder a, het aantal kansspelautomaten waarvoor vergunning kan worden verleend, op twee wordt bepaald.   
 3.  Bij algemene maatregel van bestuur kunnen categorieën inrichtingen worden aangewezen die als laagdrempelige inrichtingen worden aangemerkt.    
-4.  Indien zich binnen een laagdrempelige inrichting een horecalokaliteit als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) bevindt, waarin rechtmatig alcoholhoudende drank voor gebruik ter plaatse wordt verstrekt, dan wordt deze lokaliteit als hoogdrempelige inrichting aangemerkt voor de toepassing van deze titel, indien: 
+4.  Indien zich binnen een laagdrempelige inrichting een horecalokaliteit als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet bevindt, waarin rechtmatig alcoholhoudende drank voor gebruik ter plaatse wordt verstrekt, dan wordt deze lokaliteit als hoogdrempelige inrichting aangemerkt voor de toepassing van deze titel, indien: 
 
 a. voldaan is aan de voorwaarden, bedoeld in artikel 30, onder d, en   
 
@@ -506,8 +506,8 @@ b. niet wordt voldaan aan de krachtens artikel 30d, vierde lid, geldende eisen.
 a. indien de aanvrager de bij of krachtens deze Titel vastgestelde bepalingen heeft overtreden in de drie jaren voorafgaande aan het moment van aanvraag van de vergunning;   
 
 b. indien de vrees gewettigd is, dat het verlenen der vergunning ernstig gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid.      
-3.  De vergunning kan ook worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd. 
+3.  De vergunning kan ook worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  30f  
 
@@ -523,8 +523,8 @@ c. indien niet langer wordt voldaan aan de krachtens artikel 30d, vierde lid, on
 a. indien de vergunninghouder de bij of krachtens deze Titel vastgestelde bepalingen heeft overtreden;   
 
 b. indien de vrees gewettigd is, dat het van kracht blijven der vergunning ernstig gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid.      
-3.  De vergunning kan ook worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+3.  De vergunning kan ook worden ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 5.  In de gevallen bedoeld in het eerste lid, tweede lid, onder a, en derde lid kan de burgemeester alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.    
 6.  Intrekking van de vergunning geschiedt niet voordat de burgemeester van zijn voornemen daartoe de vergunninghouder bij aangetekende brief, onder opgave van redenen, mededeling heeft gedaan en hem in de gelegenheid heeft gesteld zich in persoon of bij gemachtigde door hem of een door hem aangewezen ambtenaar te doen horen. In het geval bedoeld in het tweede lid, onder b, kan, indien dringende omstandigheden zulks vorderen, de vergunning onmiddellijk worden ingetrokken.   
 
@@ -564,8 +564,8 @@ b. de eisen ten aanzien van het zedelijk gedrag, waaraan de aanvrager van de ver
 
 1.  De vergunning wordt geweigerd indien niet wordt voldaan aan de krachtens artikel 30i, eerste lid, onder a en b, en tweede lid, onder b, geldende eisen.    
 2.  De vergunning kan voorts worden geweigerd, indien de aanvrager of de andere in artikel 30i, tweede lid, onder b, bedoelde personen, de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden in de drie jaren voorafgaande aan het moment van aanvraag van de vergunning.    
-3.  De vergunning kan ook worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd. 
+3.  De vergunning kan ook worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  30l  
 
@@ -579,8 +579,8 @@ c. indien de vergunninghouder gedurende een jaar na de dag van afgifte van de ve
 
 d. indien niet langer wordt voldaan aan de krachtens artikel 30i, tweede lid, onder b, geldende eisen.      
 2.  De vergunning kan voorts worden ingetrokken, indien de vergunninghouder of de andere in artikel 30i, tweede lid, onder b, bedoelde personen de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden.    
-3.  De vergunning kan ook worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+3.  De vergunning kan ook worden ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 5.  In de gevallen bedoeld in het eerste tot en met het derde lid kan de raad van bestuur, bedoeld in artikel 33a, alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.   
 
 ### §  4  
@@ -655,7 +655,7 @@ a. de eisen, waaraan bij een aanvraag om toelating van een model dient te worden
 b. de medewerking, die door de aanvrager aan het onderzoek met het oog op de toelating van een model behoort te worden verleend.      
 4.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de bij de aanvraag van de toelating verschuldigde vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de verklaring houdende toelating, en voor de kosten verbonden aan het toezicht op de naleving door de houder van de toelating van de bij of krachtens deze Titel vastgestelde voorschriften.    
 5.  Bij regeling van Onze Minister van Veiligheid en Justitie worden een of meer instellingen aangewezen die belast zijn met het onderzoek met het oog op de toelating van het model van een speelautomaat.    
-6.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de toelating, bedoeld in het eerste lid. 
+6.  Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de toelating, bedoeld in het eerste lid. 
 
 ### Artikel  30p  
 
@@ -838,7 +838,7 @@ d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichti
 
 ### Artikel  33g  
 
-1.  De raad van bestuur, bedoeld in artikel 33a, kan persoonsgegevens, daaronder begrepen strafrechtelijke persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), verwerken, voor zover die verwerking noodzakelijk is voor: 
+1.  De raad van bestuur, bedoeld in artikel 33a, kan persoonsgegevens, daaronder begrepen strafrechtelijke persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens, verwerken, voor zover die verwerking noodzakelijk is voor: 
 
 a. de uitvoering van deze wet;  
 
@@ -846,7 +846,7 @@ b. het toezicht op naleving van de bij of krachtens deze wet gestelde of aan de 
 
 c. de handhaving van de bij of krachtens deze wet gestelde of aan de op grond van deze wet verleende vergunning verbonden voorschriften.     
 2.  De raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, verstrekken elkaar de gegevens die deze behoeven ter uitvoering van hun wettelijke taken.   
-3.  Onze Minister van Veiligheid en Justitie, de rijksbelastingdienst, de Inspectie SZW en andere in het reglement, bedoeld in het zesde lid, aangewezen bestuursorganen en toezichthouders zijn bevoegd uit eigen beweging of verplicht desgevraagd de raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering van hun taken. Daarbij kan gebruik worden gemaakt van het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), en van andere, bij regeling van Onze Minister van Veiligheid en Justitie aangewezen nummers.   
+3.  Onze Minister van Veiligheid en Justitie, de rijksbelastingdienst, de Inspectie SZW en andere in het reglement, bedoeld in het zesde lid, aangewezen bestuursorganen en toezichthouders zijn bevoegd uit eigen beweging of verplicht desgevraagd de raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering van hun taken. Daarbij kan gebruik worden gemaakt van het burgerservicenummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer, en van andere, bij regeling van Onze Minister van Veiligheid en Justitie aangewezen nummers.   
 4.  De gegevens, bedoeld in het eerste lid, worden niet verwerkt voor een ander doel dan waarvoor zij zijn verstrekt, tenzij bij wettelijk voorschrift anders is bepaald of de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt, daartoe noodzaakt.   
 5.  De in het tweede en derde lid bedoelde gegevensverstrekking vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.   
 6.  De raad van bestuur, bedoeld in artikel 33a, beschikt over een reglement waarin in ieder geval regels zijn gesteld met betrekking tot de wijze waarop: 
@@ -858,7 +858,7 @@ b. de persoonsgegevens door passende technische en organisatorische maatregelen 
 c. wordt gewaarborgd dat de verwerkte persoonsgegevens slechts worden verwerkt voor het doel waarvoor ze zijn verzameld of voor zover het verwerken met dat doel verenigbaar is, alsmede hoe daarop wordt toegezien.     
 7.  Het reglement, bedoeld in het zesde lid, bevat voorts regels met betrekking tot de bestuursorganen, toezichthouders, instanties of personen waarmee gegevens kunnen worden uitgewisseld, de wijze waarop gegevens kunnen worden verstrekt en de doorlevering en vernietiging van gegevens.   
 8.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de vorige leden.   
-9.  De raad van bestuur, bedoeld in artikel 33a, is verantwoordelijke in de zin van [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+9.  De raad van bestuur, bedoeld in artikel 33a, is verantwoordelijke in de zin van artikel 1, onder d, van de Wet bescherming persoonsgegevens.  
 
 ### Titel  VIa  
 
@@ -872,7 +872,7 @@ c. wordt gewaarborgd dat de verwerkte persoonsgegevens slechts worden verwerkt v
 
 ### Artikel  34a  
 
-Onder zaak in de zin van [5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt mede begrepen de software die gebruikt wordt bij de deelname, de trekking en uitbetaling van een kansspel en de software die de uitkomst van een spel bepaalt. 
+Onder zaak in de zin van 5:18 van de Algemene wet bestuursrecht wordt mede begrepen de software die gebruikt wordt bij de deelname, de trekking en uitbetaling van een kansspel en de software die de uitkomst van een spel bepaalt. 
 
 ### Artikel  34b  
 
@@ -897,23 +897,23 @@ De raad van bestuur kan een last onder bestuursdwang opleggen wegens overtreding
 ### Artikel  35a  
 
 1.  De raad van bestuur kan een bestuurlijke boete opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a, b en d, tweede lid, 4a, 7, 10, 13, 14, 14c, 14d, eerste lid, 20, eerste lid, 21, 25, 27, 27c, 27e, eerste lid, 27i, 27j, eerste lid, 30h, eerste lid, 30j, eerste lid, 30m, eerste lid, 30q, derde lid, 30r, derde en vierde lid, 30t, eerste, tweede en vijfde lid, 30u, eerste lid, en 30z.   
-2.  De bestuurlijke boete die voor een overtreding als bedoeld in het eerste lid kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of, indien dat meer is, 10% van de omzet in het boekjaar voorafgaande aan de beschikking.   
-3.  De berekening van de omzet, bedoeld in het tweede lid, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet.   
+2.  De bestuurlijke boete die voor een overtreding als bedoeld in het eerste lid kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht of, indien dat meer is, 10% van de omzet in het boekjaar voorafgaande aan de beschikking.   
+3.  De berekening van de omzet, bedoeld in het tweede lid, geschiedt op de voet van het bepaalde in artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek voor de netto-omzet.   
 4.  De bestuurlijke boete komt toe aan de staat.  
 
 ### Artikel  35b  
 
-1.  De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens artikel 30u, tweede lid.   
-2.  De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de voorschriften, vastgesteld bij of krachtens de artikelen 1, onder c, en 7c.   
+1.  De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens artikel 30u, tweede lid.   
+2.  De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de voorschriften, vastgesteld bij of krachtens de artikelen 1, onder c, en 7c.   
 3.  De te betalen geldsom van de opgelegde bestuurlijke boete komt toe aan de staat.   
-4.  Bij een overtreding als bedoeld in het eerste lid is [artikel 5:53 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.  
+4.  Bij een overtreding als bedoeld in het eerste lid is artikel 5:53 van de Algemene wet bestuursrecht niet van toepassing.  
 
 ### Artikel  35c  
 
-1.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van het voorschrift vastgesteld bij artikel 30g, tweede lid.   
-2.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in artikel 3, eerste lid, voorzover deze vergunning is afgegeven door burgemeester en wethouders.   
-3.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de bij of krachtens artikel 7c gestelde voorschriften.   
-4.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in de artikelen 30b, eerste lid, en 30d, eerste lid, en wegens overtreding van het voorschrift, vastgesteld bij artikel 30g, eerste lid.   
+1.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van het voorschrift vastgesteld bij artikel 30g, tweede lid.   
+2.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de tweede categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in artikel 3, eerste lid, voorzover deze vergunning is afgegeven door burgemeester en wethouders.   
+3.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de bij of krachtens artikel 7c gestelde voorschriften.   
+4.  De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in de artikelen 30b, eerste lid, en 30d, eerste lid, en wegens overtreding van het voorschrift, vastgesteld bij artikel 30g, eerste lid.   
 5.  De bestuurlijke boete komt toe aan de gemeente.  
 
 ### Titel  VIc  
@@ -924,17 +924,17 @@ De raad van bestuur kan een last onder bestuursdwang opleggen wegens overtreding
 
 1.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a, 30b, eerste lid, 30h, eerste lid, 30m, eerste lid, en 30t, eerste, tweede en vijfde lid, zijn misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen.   
 2.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder b en d, 7c, tweede lid, 13, 14, en 27 zijn overtredingen.   
-3.  Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van [artikel 1, aanhef en onder 3°, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).  
+3.  Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van artikel 1, aanhef en onder 3°, van de Wet op de economische delicten.  
 
 ### Artikel  36a  
 
-1.  Overtreding van de verbodsbepaling van artikel 1, eerste lid, onder c , wordt gestraft met geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
-2.  Overtreding van de verbodsbepalingen van de artikelen 30g, tweede lid, en 30u, tweede lid, wordt gestraft met geldboete van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  Overtreding van de verbodsbepaling van artikel 1, eerste lid, onder c , wordt gestraft met geldboete van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+2.  Overtreding van de verbodsbepalingen van de artikelen 30g, tweede lid, en 30u, tweede lid, wordt gestraft met geldboete van de eerste categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 3.  De feiten, strafbaar gesteld in het eerste en tweede lid, zijn overtredingen.  
 
 ### Artikel  36b  
 
-1.  Met de opsporing van de bij artikel 36 strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren en personen. Deze ambtenaren en personen zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de bij artikel 36 strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren en personen. Deze ambtenaren en personen zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Titel  VII  

@@ -6,7 +6,7 @@ Wij JULIANA, Bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het eerste boek van het Burgerlijk Wetboek te vervangen door Boek 1 van het nieuwe Burgerlijk Wetboek en, in verband daarmede, dit boek alsmede het tweede, derde en vierde boek en de slotbepaling van het Burgerlijk Wetboek, het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en andere wetten te wijzigen, en overgangsbepalingen vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is het eerste boek van het Burgerlijk Wetboek te vervangen door Boek 1 van het nieuwe Burgerlijk Wetboek en, in verband daarmede, dit boek alsmede het tweede, derde en vierde boek en de slotbepaling van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Strafrecht, het Wetboek van Strafvordering en andere wetten te wijzigen, en overgangsbepalingen vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg dert Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ####Inleidende bepaling
@@ -145,7 +145,7 @@ Het in de artikelen 307 lid 1, 319, 322 lid 3, 324 lid 1, 327 lid 1 onder *b* aa
 
 ### Artikel  24  
 
-Het tevoren geldende artikel 344*c* van het Burgerlijk Wetboek en de desbetreffende tevoren geldende bepalingen der artikelen 344*d*-344*f* en van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn ook na het tijdstip van in werking treden van Boek 1 van toepassing, indien de bevalling vóór dat tijdstip heeft plaatsgevonden. 
+Het tevoren geldende artikel 344*c* van het Burgerlijk Wetboek en de desbetreffende tevoren geldende bepalingen der artikelen 344*d*-344*f* en van het Wetboek van Burgerlijke Rechtsvordering zijn ook na het tijdstip van in werking treden van Boek 1 van toepassing, indien de bevalling vóór dat tijdstip heeft plaatsgevonden. 
 
 ### Artikel  25  
 
@@ -154,7 +154,7 @@ Ingeval vóór het tijdstip van in werking treden van Boek 1 een bewindvoerder o
 ### Artikel  26  
 
 1.  Ingeval vóór het tijdstip van in werking treden van Boek 1 een verklaring van vermoedelijk overlijden is uitgesproken, blijft ook na dat tijdstip op de rechtsgevolgen daarvan het voordien geldende recht van toepassing.   
-2.   Indien in een geding tot het verkrijgen van een verklaring van vermoedelijk overlijden het inleidende verzoekschrift is ingediend doch nog geen einduitspraak is gedaan vóór het tijdstip van in werking treden van Boek 1, zijn de artikelen 413-425 van Boek 1, alsmede de desbetreffende bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing, te beginnen met de eerste na dat tijdstip volgende uitspraak.  
+2.   Indien in een geding tot het verkrijgen van een verklaring van vermoedelijk overlijden het inleidende verzoekschrift is ingediend doch nog geen einduitspraak is gedaan vóór het tijdstip van in werking treden van Boek 1, zijn de artikelen 413-425 van Boek 1, alsmede de desbetreffende bepalingen van het Wetboek van Burgerlijke Rechtsvordering van toepassing, te beginnen met de eerste na dat tijdstip volgende uitspraak.  
 
 ### Artikel  27  
 
@@ -280,7 +280,7 @@ De artikelen 85, 86 lid 5, 88, 89, 183 lid 3, 194, 196 lid 2, 197 en 198 van Boe
 
 ### Artikel  53  
 
-1.  Een pensioen- of spaarfonds waarop de [Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) van toepassing is en dat op het tijdstip van in werking treden van Boek 2 reeds rechtspersoon was en niet een vereniging, een onderlinge waarborgmaatschappij, een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid is, is van dat tijdstip af een stichting.   
+1.  Een pensioen- of spaarfonds waarop de Pensioen- en spaarfondsenwet van toepassing is en dat op het tijdstip van in werking treden van Boek 2 reeds rechtspersoon was en niet een vereniging, een onderlinge waarborgmaatschappij, een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid is, is van dat tijdstip af een stichting.   
 2.   Indien de statuten en reglementen van een pensioen- en spaarfonds op een daartoe aan Onze Minister van Sociale Zaken en Volksgezondheid voor het tijdstip van in werking treden van Boek 2 gedaan verzoek na dat tijdstip worden goedgekeurd, wordt het fonds, indien het ten tijde van de goedkeuring niet reeds rechtspersoon was, daardoor een stichting.  
 
 ### Artikel  55  
@@ -290,7 +290,7 @@ De artikelen 85, 86 lid 5, 88, 89, 183 lid 3, 194, 196 lid 2, 197 en 198 van Boe
 
 ### Artikel  56  
 
-Het fonds waarop van toepassing is de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](../../../../../../wet/wet/tot/invoering/van/een/leeftijdsgrens/voor/het/notarisambt/en/etc/BWBR0002143/README.md) (Wet van 16 september 1954, *Stb.* 407), is vanaf het tijdstip van in werking treden van Boek 2 een stichting. 
+Het fonds waarop van toepassing is de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds (Wet van 16 september 1954, *Stb.* 407), is vanaf het tijdstip van in werking treden van Boek 2 een stichting. 
 
 ### Artikel  57  
 
@@ -413,11 +413,11 @@ Op roerende zaken die tot aan het tijdstip van het in werking treden van de wet 
 
 ### Artikel  78  
 
-1.  Feiten die op het tijdstip van het in werking treden van de wet kenbaar zijn uit de openbare registers voor registergoederen uit een in- of overschrijving voordien of uit een voordien door de bewaarder geplaatste aantekening, gelden voor de toepassing van de wet als feiten die overeenkomstig [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn ingeschreven, tenzij die feiten nadien niet meer hadden kunnen worden ingeschreven.   
-2.  [ Artikel 21 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft geen invloed op de rangorde van rechten die reeds vóór het in werking treden der wet bestonden.   
-3.   De [artikelen 24 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [25](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [26 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) worden eerst drie jaren na het tijdstip van het in werking treden van de wet van toepassing met betrekking tot een voor inschrijving vatbaar feit dat vóór dat tijdstip is geschied.  
-4. Op het ontbreken van de inschrijving van de vóór 1 januari 1950 plaatsgevonden hebbende aanleg van een net als bedoeld in [artikel 20 lid 2 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) dat op het tijdstip van het in werking treden van die bepaling nog niet is verwijderd en op inschrijfbare feiten die vóór het in werking treden van die bepaling zijn voorgevallen, en die betreffen netten waarvan de aanleg niet uit de openbare registers kenbaar is, is [artikel 24 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing. 
-5.  Met betrekking tot een net als bedoeld in [artikel 20 lid 2 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), dat vóór 1 februari 2007 is aangelegd, begint de in het derde lid bedoelde termijn van drie jaren te lopen vanaf het tijdstip waarop artikel 155a in werking is getreden. 
+1.  Feiten die op het tijdstip van het in werking treden van de wet kenbaar zijn uit de openbare registers voor registergoederen uit een in- of overschrijving voordien of uit een voordien door de bewaarder geplaatste aantekening, gelden voor de toepassing van de wet als feiten die overeenkomstig afdeling 2 van titel 1 van Boek 3 zijn ingeschreven, tenzij die feiten nadien niet meer hadden kunnen worden ingeschreven.   
+2.   Artikel 21 van Boek 3 heeft geen invloed op de rangorde van rechten die reeds vóór het in werking treden der wet bestonden.   
+3.   De artikelen 24 lid 1, 25 en 26 van Boek 3 worden eerst drie jaren na het tijdstip van het in werking treden van de wet van toepassing met betrekking tot een voor inschrijving vatbaar feit dat vóór dat tijdstip is geschied.  
+4. Op het ontbreken van de inschrijving van de vóór 1 januari 1950 plaatsgevonden hebbende aanleg van een net als bedoeld in artikel 20 lid 2 van Boek 5 dat op het tijdstip van het in werking treden van die bepaling nog niet is verwijderd en op inschrijfbare feiten die vóór het in werking treden van die bepaling zijn voorgevallen, en die betreffen netten waarvan de aanleg niet uit de openbare registers kenbaar is, is artikel 24 lid 1 van Boek 3 niet van toepassing. 
+5.  Met betrekking tot een net als bedoeld in artikel 20 lid 2 van Boek 5, dat vóór 1 februari 2007 is aangelegd, begint de in het derde lid bedoelde termijn van drie jaren te lopen vanaf het tijdstip waarop artikel 155a in werking is getreden. 
 
 ### Artikel  79  
 
@@ -483,8 +483,8 @@ Levering van een recht als bedoeld in artikel 668 eerste lid van het Burgerlijk 
 ### Artikel  91  
 
 1.  Voor de levering van een registergoed kan in plaats van een notariële akte een onderhandse akte worden gebezigd, indien die akte is opgesteld en mede-ondertekend door een persoon, bedoeld in lid 4, en deze persoon dit in het slot der akte heeft verklaard of dit in een door hem ondertekende verklaring aan de voet van de akte heeft bevestigd.   
-2.   Lid 1 is van overeenkomstige toepassing op de akten, bedoeld in de [artikelen 195 lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [31 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) en [93 lid 2 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), [250](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [252 lid 2 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [800 van Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md).   
-3.  Een persoon als bedoeld in lid 4 kan de bevoegdheden uitoefenen en de verplichtingen vervullen die bij de [titels 1](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [12 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) aan de notaris zijn toegekend of opgedragen.   
+2.   Lid 1 is van overeenkomstige toepassing op de akten, bedoeld in de artikelen 195 lid 1 van Boek 3, 31 lid 1 en 93 lid 2 van Boek 5, 250 en 252 lid 2 van Boek 6 en 800 van Boek 8.   
+3.  Een persoon als bedoeld in lid 4 kan de bevoegdheden uitoefenen en de verplichtingen vervullen die bij de titels 1 en 12 van Boek 7 aan de notaris zijn toegekend of opgedragen.   
 4.   Als een persoon, bedoeld in de leden 1 en 3, geldt degene op wie artikel II van de Wet van 28 juni 1956, *Stb.* 376, tot aan het in werking treden van de wet van toepassing was.   
 5.   Onze Minister van Justitie kan uit hoofde van het belang van het rechtsverkeer de bevoegdheid van zulk een persoon schorsen en intrekken; schorsing en intrekking worden in de *Nederlandse Staatscourant* bekendgemaakt.   
 6.   De voorwaarden en beperkingen, krachtens artikel II tweede lid van de Wet van 28 juni 1956, *Stb.* 376, destijds bij de ministeriële aanwijzing van een persoon gesteld, blijven van kracht.  
@@ -579,7 +579,7 @@ Indien een hypotheekhouder vóór het tijdstip van het in werking treden van de 
 1.  De bepalingen van de wet omtrent de rangorde waarin vorderingen uit de opbrengst van een goed moeten worden voldaan, gelden, behoudens het elders bepaalde, mede met betrekking tot vorderingen die op het tijdstip van het in werking treden van de wet bestaan.   
 2.   De wet is niet van toepassing op de rangorde bij de verdeling van de opbrengst van een goed dat op het tijdstip van haar in werking treden reeds ten behoeve van het verhaal is verkocht, noch op die bij de verdeling van hetgeen op een vordering op dat tijdstip reeds is geïnd.   
 3.   Het in werking treden van de wet heeft voor de dan bestaande vorderingen geen gevolg ten aanzien van de werking van een surséance van betaling, die voordien aan de schuldenaar voorlopig is verleend.   
-4.   De wet is niet van toepassing op de rang van vorderingen op een in staat van faillissement verklaarde schuldenaar, indien zij in werking treedt nadat de rechter-commissaris overeenkomstig [artikel 108 der Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) de dag heeft bepaald waarop die vorderingen uiterlijk ter verificatie moeten zijn ingediend.  
+4.   De wet is niet van toepassing op de rang van vorderingen op een in staat van faillissement verklaarde schuldenaar, indien zij in werking treedt nadat de rechter-commissaris overeenkomstig artikel 108 der Faillissementswet de dag heeft bepaald waarop die vorderingen uiterlijk ter verificatie moeten zijn ingediend.  
 
 ### Artikel  118  
 
@@ -597,7 +597,7 @@ Afschaffing van voorrechten op bepaalde goederen door het in werking treden van 
 
 ###Artikel 119b 
 
-[Artikel 310 lid 5 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van toepassing op schadeveroorzakende gebeurtenissen die vanaf 1 februari 2004 hebben plaatsgevonden.
+Artikel 310 lid 5 van Boek 3 is van toepassing op schadeveroorzakende gebeurtenissen die vanaf 1 februari 2004 hebben plaatsgevonden.
 
 ### Artikel  120  
 
@@ -622,7 +622,7 @@ Artikel 2010 van het Burgerlijk Wetboek, zoals dat tevoren gold, blijft van toep
 
 ### Titel  5  
 
-####Overgangsbepalingen in verband met [Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) 
+####Overgangsbepalingen in verband met Boek 4 
 
 ### Artikel  125  
 
@@ -630,12 +630,12 @@ Artikel 5 van Boek 4 is van overeenkomstige toepassing op schulden die terzake v
 
 ### Artikel  126  
 
-1.   [Afdeling 2 van titel 3 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is uitsluitend van toepassing indien de erflater na het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is overleden.   
-2.   Artikel 899b van Boek 4 van het Burgerlijk Wetboek, zoals dat tot aan het tijdstip van het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) gold, blijft nadien van toepassing met betrekking tot nalatenschappen die vóór dat tijdstip zijn opengevallen.  
+1.   Afdeling 2 van titel 3 van Boek 4 is uitsluitend van toepassing indien de erflater na het in werking treden van de wet is overleden.   
+2.   Artikel 899b van Boek 4 van het Burgerlijk Wetboek, zoals dat tot aan het tijdstip van het in werking treden van de wet gold, blijft nadien van toepassing met betrekking tot nalatenschappen die vóór dat tijdstip zijn opengevallen.  
 
 ### Artikel  127  
 
-De bepalingen omtrent nietigheid en vernietigbaarheid van het tevoren geldende recht zijn, onverminderd het in artikel 79 bepaalde, niet van toepassing op een uiterste wilsbeschikking die vóór het tijdstip van het inwerking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is gemaakt door iemand die na dat tijdstip overlijdt. 
+De bepalingen omtrent nietigheid en vernietigbaarheid van het tevoren geldende recht zijn, onverminderd het in artikel 79 bepaalde, niet van toepassing op een uiterste wilsbeschikking die vóór het tijdstip van het inwerking treden van de wet is gemaakt door iemand die na dat tijdstip overlijdt. 
 
 ### Artikel  128  
 
@@ -645,42 +645,42 @@ De bepalingen omtrent nietigheid en vernietigbaarheid van het tevoren geldende r
 ### Artikel  129  
 
 1.  Indien een erflater voor het in werking treden van de wet ten behoeve van zijn niet van tafel en bed gescheiden echtgenoot of zijn geregistreerde partner een uiterste wilsbeschikking heeft gemaakt en de nalatenschap nadien is opengevallen, is de vordering van een legitimaris, voor zover deze ten laste zou komen van de echtgenoot of geregistreerde partner, eerst opeisbaar na diens overlijden. Hetzelfde geldt in het geval van een uiterste wilsbeschikking ten behoeve van een andere levensgezel, indien deze met de erflater een gemeenschappelijke huishouding voerde.   
-2.  Het eerste lid is niet van toepassing voor zover uit de uiterste wilsbeschikking anders valt af te leiden.  De [artikelen 87 leden 5 en 6](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [88 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) zijn mede van toepassing.   
-3.  Op een verdeling gemaakt met toepassing van artikel 1167 van Boek 4 van het Burgerlijk Wetboek, zoals dat gold tot aan het tijdstip van het in werking treden van de wet, is na dat tijdstip [artikel 186 lid 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing.  
+2.  Het eerste lid is niet van toepassing voor zover uit de uiterste wilsbeschikking anders valt af te leiden.  De artikelen 87 leden 5 en 6 en 88 van Boek 4 zijn mede van toepassing.   
+3.  Op een verdeling gemaakt met toepassing van artikel 1167 van Boek 4 van het Burgerlijk Wetboek, zoals dat gold tot aan het tijdstip van het in werking treden van de wet, is na dat tijdstip artikel 186 lid 1 van Boek 3 van het Burgerlijk Wetboek niet van toepassing.  
 
 ### Artikel  130  
 
-1.  De artikelen [119 tot en met 123](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), [125](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [130 lid 3 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) zijn mede van toepassing op een nalatenschap die vóór het tijdstip van het in werking treden van de wet is opengevallen, indien op dat tijdstip nog schulden der nalatenschap, anders dan tot periodieke betalingen, onvoldaan zijn.   
-2.   [Artikel 124 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is mede van toepassing op een nalatenschap die vóór het tijdstip van het in werking treden van de wet is opengevallen, voor zover het de vruchten betreft die na dat tijdstip zijn geïnd.  
+1.  De artikelen 119 tot en met 123, 125 en 130 lid 3 van Boek 4 zijn mede van toepassing op een nalatenschap die vóór het tijdstip van het in werking treden van de wet is opengevallen, indien op dat tijdstip nog schulden der nalatenschap, anders dan tot periodieke betalingen, onvoldaan zijn.   
+2.   Artikel 124 van Boek 4 is mede van toepassing op een nalatenschap die vóór het tijdstip van het in werking treden van de wet is opengevallen, voor zover het de vruchten betreft die na dat tijdstip zijn geïnd.  
 
 ### Artikel  131  
 
-Ingeval voor het tijdstip van het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) een beding is gemaakt dat een goed van een niet van tafel en bed gescheiden echtgenoot of van een geregistreerde partner onder opschortende voorwaarde of onder opschortende tijdsbepaling zonder redelijke tegenprestatie op de andere echtgenoot of geregistreerde partner overgaat of kan overgaan, en dit beding na bedoeld tijdstip wordt toegepast in geval van overlijden van degene aan wie het goed toebehoort, is de vordering van een legitimaris, voor zover deze ten laste zou komen van de verkrijgende echtgenoot of geregistreerde partner, eerst opeisbaar na diens overlijden. Hetzelfde geldt in geval van zodanig beding ten behoeve van een andere levensgezel, mits deze met degene aan wie het goed toebehoort een gemeenschappelijke huishouding voerde en het beding bij notarieel verleden samenlevingsovereenkomst of andere notariële akte was gemaakt. 
+Ingeval voor het tijdstip van het in werking treden van de wet een beding is gemaakt dat een goed van een niet van tafel en bed gescheiden echtgenoot of van een geregistreerde partner onder opschortende voorwaarde of onder opschortende tijdsbepaling zonder redelijke tegenprestatie op de andere echtgenoot of geregistreerde partner overgaat of kan overgaan, en dit beding na bedoeld tijdstip wordt toegepast in geval van overlijden van degene aan wie het goed toebehoort, is de vordering van een legitimaris, voor zover deze ten laste zou komen van de verkrijgende echtgenoot of geregistreerde partner, eerst opeisbaar na diens overlijden. Hetzelfde geldt in geval van zodanig beding ten behoeve van een andere levensgezel, mits deze met degene aan wie het goed toebehoort een gemeenschappelijke huishouding voerde en het beding bij notarieel verleden samenlevingsovereenkomst of andere notariële akte was gemaakt. 
 
 ### Artikel  132  
 
-De [artikelen 137 tot en met 139 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) zijn mede van toepassing op een making over de hand, die is vervat in een vóór het in werking treden van de wet gemaakte uiterste wil. Op een making als bedoeld in artikel 928 van Boek 4 van het Burgerlijk Wetboek, zoals dat voor het tijdstip van het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) gold, blijft artikel 1036 van Boek 4 van het Burgerlijk Wetboek, zoals dat voor het tijdstip van het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) gold, evenwel van toepassing. 
+De artikelen 137 tot en met 139 van Boek 4 zijn mede van toepassing op een making over de hand, die is vervat in een vóór het in werking treden van de wet gemaakte uiterste wil. Op een making als bedoeld in artikel 928 van Boek 4 van het Burgerlijk Wetboek, zoals dat voor het tijdstip van het in werking treden van de wet gold, blijft artikel 1036 van Boek 4 van het Burgerlijk Wetboek, zoals dat voor het tijdstip van het in werking treden van de wet gold, evenwel van toepassing. 
 
 ### Artikel  133  
 
-Op de benoeming van een uitvoerder van uiterste wilsbeschikkingen, gedaan voor het tijdstip van het in werking treden van de wet, is vanaf dat tijdstip of, indien de executele nadien aanvangt, vanaf dit latere tijdstip, [afdeling 6 van titel 5 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) van toepassing, tenzij aan de uitvoerder van de uiterste wilsbeschikkingen het recht van inbezitneming der nalatenschapsgoederen niet is toegekend, en behoudens voor zover bij de benoeming regelingen zijn getroffen die van [afdeling 6 van titel 5 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) afwijken. 
+Op de benoeming van een uitvoerder van uiterste wilsbeschikkingen, gedaan voor het tijdstip van het in werking treden van de wet, is vanaf dat tijdstip of, indien de executele nadien aanvangt, vanaf dit latere tijdstip, afdeling 6 van titel 5 van Boek 4 van toepassing, tenzij aan de uitvoerder van de uiterste wilsbeschikkingen het recht van inbezitneming der nalatenschapsgoederen niet is toegekend, en behoudens voor zover bij de benoeming regelingen zijn getroffen die van afdeling 6 van titel 5 van Boek 4 afwijken. 
 
 ### Artikel  134  
 
-Op een testamentair bewind, ingesteld bij een uiterste wil die is opgemaakt voor het tijdstip van het in werking treden van de wet, is vanaf dat tijdstip of, indien het bewind nadien van kracht wordt, vanaf dit latere tijdstip [afdeling 7 van titel 5 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) van toepassing, behoudens voor zover bepalingen in de uiterste wil daarvan afwijken. 
+Op een testamentair bewind, ingesteld bij een uiterste wil die is opgemaakt voor het tijdstip van het in werking treden van de wet, is vanaf dat tijdstip of, indien het bewind nadien van kracht wordt, vanaf dit latere tijdstip afdeling 7 van titel 5 van Boek 4 van toepassing, behoudens voor zover bepalingen in de uiterste wil daarvan afwijken. 
 
 ### Artikel  135  
 
-Bij het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) volgen de erfgenamen van rechtswege een voordien overleden erflater op in zijn voor overgang vatbare rechten en in zijn bezit en houderschap, en worden zij van rechtswege schuldenaar van zijn schulden die niet met zijn dood zijn tenietgegaan, een en ander voor zover dat rechtsgevolg niet reeds eerder was ingetreden. 
+Bij het in werking treden van de wet volgen de erfgenamen van rechtswege een voordien overleden erflater op in zijn voor overgang vatbare rechten en in zijn bezit en houderschap, en worden zij van rechtswege schuldenaar van zijn schulden die niet met zijn dood zijn tenietgegaan, een en ander voor zover dat rechtsgevolg niet reeds eerder was ingetreden. 
 
 ### Artikel  136  
 
-Degene die tot aan het tijdstip van het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) ingevolge artikel 1070 van Boek 4 van het Burgerlijk Wetboek zoals dat voordien gold, een recht van beraad heeft, behoudt dit totdat de daarvoor gestelde termijn is verstreken. Voor verlenging van de termijn is [artikel 185 lid 3 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) van toepassing. 
+Degene die tot aan het tijdstip van het in werking treden van de wet ingevolge artikel 1070 van Boek 4 van het Burgerlijk Wetboek zoals dat voordien gold, een recht van beraad heeft, behoudt dit totdat de daarvoor gestelde termijn is verstreken. Voor verlenging van de termijn is artikel 185 lid 3 van Boek 4 van toepassing. 
 
 ### Artikel  137  
 
-1.  Op de vereffening van een nalatenschap die vóór het tijdstip van het in werking treden van de wet is aangevangen, zijn de bepalingen van [afdeling 3 van titel 6 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) nadien zoveel mogelijk van toepassing.   
-2.   [Afdeling 3 van titel 6 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is van dat tijdstip af eveneens zoveel mogelijk van overeenkomstige toepassing op een voordien aangevangen afwikkeling van een nalatenschap: 
+1.  Op de vereffening van een nalatenschap die vóór het tijdstip van het in werking treden van de wet is aangevangen, zijn de bepalingen van afdeling 3 van titel 6 van Boek 4 nadien zoveel mogelijk van toepassing.   
+2.   Afdeling 3 van titel 6 van Boek 4 is van dat tijdstip af eveneens zoveel mogelijk van overeenkomstige toepassing op een voordien aangevangen afwikkeling van een nalatenschap: 
 
 a. nadat de erfgenamen overeenkomstig het tevoren geldende artikel 1078, onder 1 slot, van Boek 4 van het Burgerlijk Wetboek de daartoe behorende goederen aan de beschikking der schuldeisers en legatarissen hebben overgelaten;  
 
@@ -694,11 +694,11 @@ e. waarop het tevoren geldende artikel 1081, tweede lid, van Boek 4 van het Burg
 
 ### Artikel  138  
 
-Heeft een wettelijke vertegenwoordiger van een erfgenaam, of een door de rechter benoemde vereffenaar van een nalatenschap dan wel een ander die in de gevallen, bedoeld in artikel 137 lid 2, met de afwikkeling daarvan belast was, aan de schuldeisers van de nalatenschap schade toegebracht doordat hij vóór het tijdstip van het in werking treden van de wet opzettelijk daartoe behorende goederen aan het verhaal van de schuldeisers heeft onttrokken, dan is [artikel 212 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) van toepassing of overeenkomstige toepassing, indien de vereffening of afwikkeling van die nalatenschap op dat tijdstip nog niet is voltooid. 
+Heeft een wettelijke vertegenwoordiger van een erfgenaam, of een door de rechter benoemde vereffenaar van een nalatenschap dan wel een ander die in de gevallen, bedoeld in artikel 137 lid 2, met de afwikkeling daarvan belast was, aan de schuldeisers van de nalatenschap schade toegebracht doordat hij vóór het tijdstip van het in werking treden van de wet opzettelijk daartoe behorende goederen aan het verhaal van de schuldeisers heeft onttrokken, dan is artikel 212 van Boek 4 van toepassing of overeenkomstige toepassing, indien de vereffening of afwikkeling van die nalatenschap op dat tijdstip nog niet is voltooid. 
 
 ### Artikel  139  
 
-In geval voor het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) een door [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) geroepen erfgenaam in de nederdalende lijn bij een gift of in een uiterste wil niet is ontheven van zijn verplichting tot inbreng van de gedane gift, blijft deze, behoudens indien de erflater nadien anders mocht hebben beslist, ook na dat tijdstip daartoe verplicht. 
+In geval voor het in werking treden van de wet een door de wet geroepen erfgenaam in de nederdalende lijn bij een gift of in een uiterste wil niet is ontheven van zijn verplichting tot inbreng van de gedane gift, blijft deze, behoudens indien de erflater nadien anders mocht hebben beslist, ook na dat tijdstip daartoe verplicht. 
 
 ### Titel  6  
 
@@ -712,7 +712,7 @@ In geval voor het in werking treden van [de wet](../../../../../../wet/burgerlij
 4.   Een recht van aanwas geldt als eigendom van de bodem waarop het rust; degene die tot aan het in werking treden van de wet eigenaar van de stroom boven die bodem was, verkrijgt een beperkt recht op de bodem, dat de hem voordien toekomende bevoegdheden met betrekking tot de stroom inhoudt.   
 5.   De overige in dit artikel bedoelde rechten gelden met inachtneming van hun bijzondere aard als beperkte rechten op de zaak waarop zij rusten.   
 6.   De rechter kan op vordering van de eigenaar van de zaak waarop in dit artikel bedoeld beperkt recht rust, de inhoud van dat recht wijzigen, indien het ongewijzigd voortbestaan in strijd is met het algemeen belang, alsook op grond van omstandigheden welke van dien aard zijn dat naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding niet van de eigenaar kan worden gevergd. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden; hij houdt geen rekening met omstandigheden die zich vóór het in werking treden van de wet hebben voorgedaan.   
-7.   De leden 1-5 gelden niet voor grafrechten, zoals geregeld in de [Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).  
+7.   De leden 1-5 gelden niet voor grafrechten, zoals geregeld in de Wet op de lijkbezorging.  
 
 ### Artikel  151  
 
@@ -721,7 +721,7 @@ In geval voor het in werking treden van [de wet](../../../../../../wet/burgerlij
 3.   Een jaar na het tijdstip van het in werking treden van de wet verkrijgt de vinder die de zaak alsdan in zijn macht heeft, de eigendom daarvan, indien hij vóór het genoemde tijdstip de in artikel 5 lid 1 van Boek 3 omschreven aangifte of mededeling heeft gedaan of deze ingevolge het vorige lid achterwege mocht laten; ten aanzien van de vinder geldt hetzelfde, indien een gemeente de zaak in haar macht heeft.   
 4.   Artikel 86 van Boek 3 geldt gedurende een jaar na het in werking treden van de wet niet voor zaken als bedoeld in het tevoren geldende artikel 2014 eerste lid van het Burgerlijk Wetboek welke vóór dat tijdstip waren verloren, behalve indien zij tijdens dat jaar overeenkomstig titel 2 van Boek 5 door de burgemeester van een gemeente zijn verkocht of aan een derde zijn overgedragen. Na afloop van dat jaar vervalt de in artikel 2014 tweede lid bedoelde bevoegdheid tot terugvordering van verloren zaken. Vóór het verlies op een zaak gevestigde beperkte rechten vervallen door haar overgang op de verkrijger.   
 5.   De rechtspositie van de vinder die vóór het tijdstip van het in werking treden van de wet overeenkomstig artikel 7 van Boek 5 heeft gehandeld, gaat op dat tijdstip met de daaraan verbonden verplichtingen over op degene aan wie hij de zaak heeft afgegeven; een recht op beloning ontstaat niet.   
-6.   De leden 1-5 zijn niet van toepassing op gevonden voorwerpen waarmee reeds vóór het in werking treden van de wet is gehandeld overeenkomstig de [Wet op de strandvonderij](../../../../../../wet/wet/op/de/strandvonderij/BWBR0001951/README.md), het Algemeen Reglement voor het vervoer op de spoorwegen of het Postbesluit.  
+6.   De leden 1-5 zijn niet van toepassing op gevonden voorwerpen waarmee reeds vóór het in werking treden van de wet is gehandeld overeenkomstig de Wet op de strandvonderij, het Algemeen Reglement voor het vervoer op de spoorwegen of het Postbesluit.  
 
 ### Artikel  152  
 
@@ -737,13 +737,13 @@ Van het tijdstip van het in werking treden van de wet af is degene die totdien e
 
 ###Artikel 155 
 
-1. [Artikel 20, lid 2, van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) is, te rekenen vanaf het tijdstip van het in werking treden van dit lid, mede van toepassing op een net dat voordien is aangelegd dan wel op dat tijdstip wordt aangelegd. 
-2. Indien een partij op wiens kosten een net in zijn grond is aangelegd en ten behoeve van wie dit net wordt gebruikt binnen twee jaren na het tijdstip van het in werking treden van de wet houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken (Stb. 2007, 16), een eis heeft ingeleid ter vaststelling van de eigendom van dat net en die partij dit feit heeft doen inschrijven in de openbare registers als bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), is [artikel 20, lid 2, van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) niet van toepassing, totdat op deze eis onherroepelijk is beslist of deze eis is ingetrokken.
+1. Artikel 20, lid 2, van Boek 5 is, te rekenen vanaf het tijdstip van het in werking treden van dit lid, mede van toepassing op een net dat voordien is aangelegd dan wel op dat tijdstip wordt aangelegd. 
+2. Indien een partij op wiens kosten een net in zijn grond is aangelegd en ten behoeve van wie dit net wordt gebruikt binnen twee jaren na het tijdstip van het in werking treden van de wet houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken (Stb. 2007, 16), een eis heeft ingeleid ter vaststelling van de eigendom van dat net en die partij dit feit heeft doen inschrijven in de openbare registers als bedoeld in artikel 16 van Boek 3 van het Burgerlijk Wetboek, is artikel 20, lid 2, van Boek 5 niet van toepassing, totdat op deze eis onherroepelijk is beslist of deze eis is ingetrokken.
 
 ### Artikel  155a  
 
-1.  Degene die zich op 1 februari 2007 als eigenaar gedroeg, is bevoegd de aanleg van een net als bedoeld in [artikel 17 lid 1 onder k van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) te doen inschrijven in de openbare registers en dat net als eigenaar over te dragen en te bezwaren.   
-2.  Indien de inschrijving in de openbare registers in de Nederlandse Staatscourant en in een landelijk dagblad is gepubliceerd, vervalt de bevoegdheid van derden om het net of een recht daarop op te eisen na één jaar te rekenen vanaf de aanvang van de dag volgend op de dag van de laatste van deze publicaties tenzij de derde binnen deze termijn een dagvaarding betreffende een door hem ingestelde vordering als bedoeld in [artikel 27 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft doen inschrijven in de openbare registers. Een recht van derden op schadevergoeding, indien daarvoor grond is, blijft in stand.   
+1.  Degene die zich op 1 februari 2007 als eigenaar gedroeg, is bevoegd de aanleg van een net als bedoeld in artikel 17 lid 1 onder k van Boek 3 te doen inschrijven in de openbare registers en dat net als eigenaar over te dragen en te bezwaren.   
+2.  Indien de inschrijving in de openbare registers in de Nederlandse Staatscourant en in een landelijk dagblad is gepubliceerd, vervalt de bevoegdheid van derden om het net of een recht daarop op te eisen na één jaar te rekenen vanaf de aanvang van de dag volgend op de dag van de laatste van deze publicaties tenzij de derde binnen deze termijn een dagvaarding betreffende een door hem ingestelde vordering als bedoeld in artikel 27 van Boek 3 heeft doen inschrijven in de openbare registers. Een recht van derden op schadevergoeding, indien daarvoor grond is, blijft in stand.   
 3.  Gedurende drie maanden te rekenen vanaf de aanvang van de dag volgend op de dag van de laatste van de in het tweede lid bedoelde publicaties is het net niet vatbaar voor overdracht en bezwaring. Wel kunnen derden gedurende deze termijn een dagvaarding als bedoeld in het tweede lid of een exploot als bedoeld in het vijfde lid in de openbare registers doen inschrijven.   
 4.  Aan degene die na het verstrijken van de in het derde lid bedoelde termijn door overdracht of bezwaring een zakelijk recht op het net verkrijgt, kunnen geen rechten van derden worden tegengeworpen, tenzij de derde vóór de overdracht of bezwaring een dagvaarding als bedoeld in het tweede lid of een exploot als bedoeld in het vijfde lid heeft doen inschrijven of de verkrijger het recht van de derde kende.   
 5.  Een exploot als bedoeld in het derde en vierde lid wordt gedaan aan degene die de in het eerste lid bedoelde inschrijving verkreeg en houdt in dat de derde zich het recht voorbehoudt om binnen de in het tweede lid bedoelde termijn van een jaar een dagvaarding als in dat lid bedoeld in de openbare registers te doen inschrijven.   
@@ -815,13 +815,13 @@ De artikelen 166-169 zijn van overeenkomstige toepassing op een recht van opstal
 
 ###Artikel 172 
 
-1. [Artikel 110 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) is, te rekenen vanaf het in werking treden van de wet, mede van toepassing op een splitsing die voordien heeft plaatsgevonden.
-2.  Voor zover de bepalingen van de akte van splitsing in appartementsrechten, het reglement bedoeld in [artikel 111 onder *d* van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) daaronder begrepen, van een vereniging van eigenaars op het tijdstip van in werking treden van de wet afwijken van het bepaalde in [afdeling 2 van titel 9 van dat boek](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), is dat laatste gedurende drie jaren na dat tijdstip niet van toepassing op die vereniging van eigenaars.
-3.  Op de vereffening van het vermogen van een vereniging van eigenaars, die nog niet is voltooid op het tijdstip van het in werking treden van de wet, zijn de [artikelen 23-24 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) met inachtneming van [artikel 147 leden 2-4 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) van toepassing, behalve voor zover dat zou nopen tot het ongedaan maken van alsdan reeds in overeenstemming met het voordien geldend recht getroffen maatregelen. De wet wordt niet van toepassing ten aanzien van onderwerpen waaromtrent vóór haar in werking treden een rechterlijke uitspraak is gevraagd.
-4. Op een splitsing die heeft plaatsgevonden voor het tijdstip waarop de wet in werking treedt, is [artikel 113 lid 1, tweede zin, van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) niet van toepassing.
-5. Op een splitsing die heeft plaatsgevonden voor het tijdstip waarop de wet in werking treedt, is [artikel 118a van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) gedurende drie jaren na dat tijdstip niet van toepassing.
-6. Op verenigingen van eigenaars die op het tijdstip van het in werking treden van de wet niet het in [artikel 126 lid 1, tweede volzin, van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), bedoelde reservefonds in stand houden, is die bepaling gedurende drie jaren na dat tijdstip niet van toepassing.
-7. Op een splitsing die heeft plaatsgevonden voor het tijdstip van het in werking treden van de [leden 1–3 van artikel 139 van Boek 5](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), zoals deze leden zijn gewijzigd bij de Wet van 19 februari 2005, houdende wijziging van [titel 5.9 (Appartementsrechten](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) (Stb. 89), is het in die leden bepaalde gedurende drie jaren na dat tijdstip niet van toepassing.
+1. Artikel 110 van Boek 5 is, te rekenen vanaf het in werking treden van de wet, mede van toepassing op een splitsing die voordien heeft plaatsgevonden.
+2.  Voor zover de bepalingen van de akte van splitsing in appartementsrechten, het reglement bedoeld in artikel 111 onder *d* van Boek 5 daaronder begrepen, van een vereniging van eigenaars op het tijdstip van in werking treden van de wet afwijken van het bepaalde in afdeling 2 van titel 9 van dat boek, is dat laatste gedurende drie jaren na dat tijdstip niet van toepassing op die vereniging van eigenaars.
+3.  Op de vereffening van het vermogen van een vereniging van eigenaars, die nog niet is voltooid op het tijdstip van het in werking treden van de wet, zijn de artikelen 23-24 van Boek 2 van het Burgerlijk Wetboek met inachtneming van artikel 147 leden 2-4 van Boek 5 van toepassing, behalve voor zover dat zou nopen tot het ongedaan maken van alsdan reeds in overeenstemming met het voordien geldend recht getroffen maatregelen. De wet wordt niet van toepassing ten aanzien van onderwerpen waaromtrent vóór haar in werking treden een rechterlijke uitspraak is gevraagd.
+4. Op een splitsing die heeft plaatsgevonden voor het tijdstip waarop de wet in werking treedt, is artikel 113 lid 1, tweede zin, van Boek 5 niet van toepassing.
+5. Op een splitsing die heeft plaatsgevonden voor het tijdstip waarop de wet in werking treedt, is artikel 118a van Boek 5 gedurende drie jaren na dat tijdstip niet van toepassing.
+6. Op verenigingen van eigenaars die op het tijdstip van het in werking treden van de wet niet het in artikel 126 lid 1, tweede volzin, van Boek 5, bedoelde reservefonds in stand houden, is die bepaling gedurende drie jaren na dat tijdstip niet van toepassing.
+7. Op een splitsing die heeft plaatsgevonden voor het tijdstip van het in werking treden van de leden 1–3 van artikel 139 van Boek 5, zoals deze leden zijn gewijzigd bij de Wet van 19 februari 2005, houdende wijziging van titel 5.9 (Appartementsrechten (Stb. 89), is het in die leden bepaalde gedurende drie jaren na dat tijdstip niet van toepassing.
 
 ### Titel  7  
 
@@ -876,7 +876,7 @@ Artikel 83 van Boek 6 is niet van toepassing op het verstrijken van een termijn 
 
 ### Artikel  183a  
 
-De [artikelen 96 lid 4](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [119a leden 4 en 5](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [119b van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn niet van toepassing op overeenkomsten die vóór het tijdstip van het in werking treden van deze bepalingen zijn gesloten. 
+De artikelen 96 lid 4, 119a leden 4 en 5 en 119b van Boek 6 zijn niet van toepassing op overeenkomsten die vóór het tijdstip van het in werking treden van deze bepalingen zijn gesloten. 
 
 ### Artikel  184  
 
@@ -904,17 +904,16 @@ Indien vóór het tijdstip van het in werking treden van de wet een rechtshandel
 
 ###Artikel 189a  
 
-1.  [Artikel 174, derde lid, van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), zoals dat is komen te luiden na de inwerkingtreding van de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), is niet van toepassing indien de gebeurtenis waardoor de schade is veroorzaakt voor de inwerkingtreding van de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) heeft plaatsgevonden.   
-2.  [Artikel 177, vierde lid, van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), zoals dat is komen te luiden na de inwerkingtreding van de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), is niet van toepassing indien de schade bekend is geworden voor de inwerkingtreding van de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md).  
+1.  Artikel 174, derde lid, van Boek 6, zoals dat is komen te luiden na de inwerkingtreding van de Mijnbouwwet, is niet van toepassing indien de gebeurtenis waardoor de schade is veroorzaakt voor de inwerkingtreding van de Mijnbouwwet heeft plaatsgevonden.   
+2.  Artikel 177, vierde lid, van Boek 6, zoals dat is komen te luiden na de inwerkingtreding van de Mijnbouwwet, is niet van toepassing indien de schade bekend is geworden voor de inwerkingtreding van de Mijnbouwwet.  
 
 ### Artikel  190  
 
 Wordt bij het ontstaan van een vordering uit onverschuldigde betaling of ongerechtvaardigde verrijking de rechtsverhouding tussen partijen beheerst door het recht dat vóór het in werking treden van de wet gold, dan worden de afdelingen 2 en 3 van titel 4 van Boek 6 daarop niet van toepassing. 
 
 ### Artikel  190a  
-Treedt in werking per 13-06-2014 
 
-[Afdeling 2B van titel 5 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en de daarmee samenhangende wijzigingen of invoegingen van de [artikelen 5](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [6](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [9](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [11](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [13](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [19a](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [67 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) door de [Implementatiewet richtlijn consumentenrechten](../../../../../../wet/implementatiewet/richtlijn/consumentenrechten/BWBR0035034/README.md) (Stb. 2014, 140) zijn niet van toepassing op overeenkomsten die voor het tijdstip van het in werking treden van deze wet zijn gesloten. Op deze overeenkomsten blijft de tevoren geldende [afdeling 9A van titel 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing. 
+Afdeling 2B van titel 5 van Boek 6 en de daarmee samenhangende wijzigingen of invoegingen van de artikelen 5, 6, 7, 9, 11, 13, 19a en 67 van Boek 7 door de Implementatiewet richtlijn consumentenrechten (Stb. 2014, 140) zijn niet van toepassing op overeenkomsten die voor het tijdstip van het in werking treden van deze wet zijn gesloten. Op deze overeenkomsten blijft de tevoren geldende afdeling 9A van titel 1 van Boek 7 van het Burgerlijk Wetboek van toepassing. 
 
 ### Artikel  191  
 
@@ -943,16 +942,16 @@ In geval van een vordering tot wijziging of ontbinding van een overeenkomst als 
 
 ### Artikel  196  
 
-1.  Op overeenkomsten van koop en ruil die vóór het tijdstip van het in werking treden van de wet zijn gesloten, wordt [titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) een jaar na dat tijdstip van toepassing.   
-2.   In afwijking van lid 1 worden de bepalingen van [titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) omtrent consumentenkoop niet van toepassing op een consumentenkoop die vóór dat tijdstip is gesloten.   
-3.   In afwijking van de leden 1 en 2 is [titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing op de gevolgen van niet nakoming in het geval dat een der partijen na het in werking treden van de wet in de nakoming van een van haar verbintenissen tekortschiet, tenzij dat tekortschieten een voortzetting van een eerdere tekortkoming is. [Afdeling 8 van titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is van toepassing op het recht van reclame dat na het in werking treden van de wet wordt uitgeoefend; is het voordien uitgeoefend, dan blijft het tevoren geldende recht daarop van toepassing.   
+1.  Op overeenkomsten van koop en ruil die vóór het tijdstip van het in werking treden van de wet zijn gesloten, wordt titel 1 van Boek 7 een jaar na dat tijdstip van toepassing.   
+2.   In afwijking van lid 1 worden de bepalingen van titel 1 van Boek 7 omtrent consumentenkoop niet van toepassing op een consumentenkoop die vóór dat tijdstip is gesloten.   
+3.   In afwijking van de leden 1 en 2 is titel 1 van Boek 7 van toepassing op de gevolgen van niet nakoming in het geval dat een der partijen na het in werking treden van de wet in de nakoming van een van haar verbintenissen tekortschiet, tenzij dat tekortschieten een voortzetting van een eerdere tekortkoming is. Afdeling 8 van titel 1 van Boek 7 is van toepassing op het recht van reclame dat na het in werking treden van de wet wordt uitgeoefend; is het voordien uitgeoefend, dan blijft het tevoren geldende recht daarop van toepassing.   
 4.   Artikel 7 is slechts van toepassing op de gevolgen van toezending van een zaak of verrichting van een dienst die na het in werking treden van de wet geschiedt.   
-5.  [Artikel 6a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing in geval van een consumentenkoop die vóór het in werking treden van de wet is gesloten.   
-6.  In afwijking van artikel 79 kan een beding op grond van strijd met [artikel 25 lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) worden vernietigd nadat een jaar na het tijdstip van het in werking treden van de wet is verstreken; deze vernietiging heeft evenwel geen werking ten aanzien van zaken die vóór het verstrijken van deze termijn aan de verkoper zijn geleverd.  
+5.  Artikel 6a van Boek 7 is niet van toepassing in geval van een consumentenkoop die vóór het in werking treden van de wet is gesloten.   
+6.  In afwijking van artikel 79 kan een beding op grond van strijd met artikel 25 lid 2 van Boek 7 worden vernietigd nadat een jaar na het tijdstip van het in werking treden van de wet is verstreken; deze vernietiging heeft evenwel geen werking ten aanzien van zaken die vóór het verstrijken van deze termijn aan de verkoper zijn geleverd.  
 
 ### Artikel  197  
 
-De [artikelen 2](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [3](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [8](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [26 leden 3-5 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing op koopovereenkomsten die vóór het tijdstip van het in werking treden van deze bepalingen zijn gesloten. 
+De artikelen 2, 3, 8 en 26 leden 3-5 van Boek 7 zijn niet van toepassing op koopovereenkomsten die vóór het tijdstip van het in werking treden van deze bepalingen zijn gesloten. 
 
 ### Artikel  198  
 
@@ -961,77 +960,76 @@ De [artikelen 2](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/REA
 
 ### Artikel  198a  
 
-[Titel 1A van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op overeenkomsten die vóór het inwerkingtreden van deze titel zijn gesloten. 
+Titel 1A van Boek 7 is niet van toepassing op overeenkomsten die vóór het inwerkingtreden van deze titel zijn gesloten. 
 
-###Artikel 199 
+### Artikel  199  
 
-1. De bepalingen van [afdeling 9A van titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing op overeenkomsten die vóór het tijdstip van het in werking treden van die bepalingen zijn gesloten.
-2. In afwijking van lid 1 zijn de [artikelen 46c lid 1](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [46g](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [46h van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing vanaf het tijdstip waarop zij in werking treden.
+1.  De bepalingen van afdeling 9A van titel 1 van Boek 7 zoals die golden tot de inwerkingtreding van de Implementatiewet richtlijn consumentenrechten (Stb. 2014, 140) zijn niet van toepassing op overeenkomsten die vóór het tijdstip van het in werking treden van die bepalingen zijn gesloten.   
+2.  In afwijking van lid 1 zijn de artikelen 46c lid 1, 46g en 46h van Boek 7 zoals die golden tot de inwerkingtreding van de Implementatiewet richtlijn consumentenrechten (Stb. 2014, 140) van toepassing vanaf het tijdstip waarop zij in werking treden.  
 
 ### Artikel  200  
-Treedt in werking per 01-07-2014 
 
-[Titel 2D](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op overeenkomsten die voor het in werking treden van die titel zijn gesloten. 
+Titel 2D is niet van toepassing op overeenkomsten die voor het in werking treden van die titel zijn gesloten. 
 
 ### Artikel  201  
 
-Op een bewind ingesteld in verband met de elfde titel van Boek 7A van het Burgerlijk Wetboek, zoals deze tot aan het tijdstip van het in werking treden van [de wet](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) gold, is vanaf het tijdstip van het in werking treden van de wet [afdeling 7 van titel 5 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) van overeenkomstige toepassing, behoudens voor zover daarvan bij het bewind afwijkende regelingen zijn getroffen. 
+Op een bewind ingesteld in verband met de elfde titel van Boek 7A van het Burgerlijk Wetboek, zoals deze tot aan het tijdstip van het in werking treden van de wet gold, is vanaf het tijdstip van het in werking treden van de wet afdeling 7 van titel 5 van Boek 4 van overeenkomstige toepassing, behoudens voor zover daarvan bij het bewind afwijkende regelingen zijn getroffen. 
 
 ### Artikel  205  
 
-Procedures inzake overeenkomsten van huur en verhuur, waarin de inleidende dagvaarding is betekend dan wel het inleidende verzoekschrift is ingediend voor het tijdstip van in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), worden, met inbegrip van een eis die in het geding bij wijze van reconventie is of wordt gedaan, beheerst door het recht dat voor dat tijdstip gold. 
+Procedures inzake overeenkomsten van huur en verhuur, waarin de inleidende dagvaarding is betekend dan wel het inleidende verzoekschrift is ingediend voor het tijdstip van in werking treden van titel 4 van Boek 7, worden, met inbegrip van een eis die in het geding bij wijze van reconventie is of wordt gedaan, beheerst door het recht dat voor dat tijdstip gold. 
 
 ### Artikel  206  
 
-Bepalingen die tot nietigheid of vernietigbaarheid van een beding in een huurovereenkomst leiden, zijn met ingang van het tijdstip van in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing op de op dat tijdstip bestaande huurovereenkomsten. 
+Bepalingen die tot nietigheid of vernietigbaarheid van een beding in een huurovereenkomst leiden, zijn met ingang van het tijdstip van in werking treden van titel 4 van Boek 7 van toepassing op de op dat tijdstip bestaande huurovereenkomsten. 
 
 ### Artikel  206a  
 
-[Artikel 215 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is, voor zover het veranderingen en toevoegingen aan de buitenzijde van gehuurde woonruimte betreft, niet van toepassing op huurovereenkomsten die voor het tijdstip van het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn gesloten. 
+Artikel 215 van Boek 7 is, voor zover het veranderingen en toevoegingen aan de buitenzijde van gehuurde woonruimte betreft, niet van toepassing op huurovereenkomsten die voor het tijdstip van het in werking treden van titel 4 van Boek 7 zijn gesloten. 
 
 ### Artikel  207  
 
-Voorzover het veranderingen van de inrichting of de gedaante van het gehuurde betreft, waartoe de huurder slechts met toestemming van de verhuurder bevoegd is, is [artikel 215 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing, indien de verhuurder op het tijdstip van het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) een verzoek van de huurder om die toestemming te geven nog niet heeft beantwoord, mits dit verzoek niet langer dan drie maanden voor dat tijdstip is gedaan. In dat geval begint de in [artikel 215 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde termijn pas op het tijdstip van die inwerkingtreding te lopen. 
+Voorzover het veranderingen van de inrichting of de gedaante van het gehuurde betreft, waartoe de huurder slechts met toestemming van de verhuurder bevoegd is, is artikel 215 van Boek 7 van toepassing, indien de verhuurder op het tijdstip van het in werking treden van titel 4 van Boek 7 een verzoek van de huurder om die toestemming te geven nog niet heeft beantwoord, mits dit verzoek niet langer dan drie maanden voor dat tijdstip is gedaan. In dat geval begint de in artikel 215 lid 2 bedoelde termijn pas op het tijdstip van die inwerkingtreding te lopen. 
 
 ### Artikel  208  
 
-[Artikel 220 lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing, indien het door dit lid vereiste redelijke voorstel onder het voorafgaande recht is gedaan. 
+Artikel 220 lid 2 van Boek 7 is niet van toepassing, indien het door dit lid vereiste redelijke voorstel onder het voorafgaande recht is gedaan. 
 
 ### Artikel  208a  
 
-[Artikel 221 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op huurovereenkomsten die voor het tijdstip van het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn gesloten. 
+Artikel 221 van Boek 7 is niet van toepassing op huurovereenkomsten die voor het tijdstip van het in werking treden van titel 4 van Boek 7 zijn gesloten. 
 
 ### Artikel  208b  
 
-[Artikel 224 lid 2, tweede volzin, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op huurovereenkomsten die voor het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn gesloten. 
+Artikel 224 lid 2, tweede volzin, van Boek 7 is niet van toepassing op huurovereenkomsten die voor het in werking treden van titel 4 van Boek 7 zijn gesloten. 
 
 ### Artikel  208c  
 
-Indien de huurder voor het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is overleden, maar op het tijdstip van die inwerkingtreding nog geen zes maanden na dit overlijden waren verstreken en de termijn van zes maanden, bedoeld in [artikel 229 lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), binnen drie maanden na het tijdstip van die inwerkingtreding zou aflopen, wordt die termijn verlengd tot drie maanden na dit tijdstip. 
+Indien de huurder voor het in werking treden van titel 4 van Boek 7 is overleden, maar op het tijdstip van die inwerkingtreding nog geen zes maanden na dit overlijden waren verstreken en de termijn van zes maanden, bedoeld in artikel 229 lid 2 van Boek 7, binnen drie maanden na het tijdstip van die inwerkingtreding zou aflopen, wordt die termijn verlengd tot drie maanden na dit tijdstip. 
 
 ### Artikel  208d  
 
-Voor de termijn van twee maanden, bedoeld in [artikel 230a lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt de tijd meegeteld die na het tijdstip waartegen schriftelijk ontruiming is aangezegd, maar voor het tijdstip van het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is verstreken. 
+Voor de termijn van twee maanden, bedoeld in artikel 230a lid 1 van Boek 7, wordt de tijd meegeteld die na het tijdstip waartegen schriftelijk ontruiming is aangezegd, maar voor het tijdstip van het in werking treden van titel 4 van Boek 7 is verstreken. 
 
 ### Artikel  208f  
 
-De [artikelen 250 tot en met 254 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing op voor het tijdstip van inwerkingtreding gedane voorstellen tot huurprijswijziging, indien de voorgestelde datum van ingang voor dat tijdstip ligt, noch op de daarop betrekking hebbende verzoeken aan de huurcommissie als bedoeld in de [artikelen 253](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [254 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), indien deze zijn ingediend op of na het hiervoor bedoelde tijdstip. 
+De artikelen 250 tot en met 254 van Boek 7 zijn niet van toepassing op voor het tijdstip van inwerkingtreding gedane voorstellen tot huurprijswijziging, indien de voorgestelde datum van ingang voor dat tijdstip ligt, noch op de daarop betrekking hebbende verzoeken aan de huurcommissie als bedoeld in de artikelen 253 en 254 van Boek 7, indien deze zijn ingediend op of na het hiervoor bedoelde tijdstip. 
 
 ### Artikel  208g  
 
-De [artikelen 259](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [260 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) gelden vanaf het tijdstip dat sedert het tijdstip van het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) één geheel kalenderjaar is verstreken. 
+De artikelen 259 en 260 van Boek 7 gelden vanaf het tijdstip dat sedert het tijdstip van het in werking treden van titel 4 van Boek 7 één geheel kalenderjaar is verstreken. 
 
 ### Artikel  208h  
 
-[Artikel 270a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) geldt niet, indien de voortzetting van de huur voor het in werking treden van [titel 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is begonnen. 
+Artikel 270a van Boek 7 geldt niet, indien de voortzetting van de huur voor het in werking treden van titel 4 van Boek 7 is begonnen. 
 
 ### Artikel  208i  
 
-De verplichting tot vergoeding van de schade van de onderhuurder, bedoeld in [artikel 278 lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan niet geheel of ten dele worden gegrond op gedragingen van de hoofdhuurder die voor het in werking treden van dat artikel hebben plaatsgevonden. 
+De verplichting tot vergoeding van de schade van de onderhuurder, bedoeld in artikel 278 lid 2 van Boek 7, kan niet geheel of ten dele worden gegrond op gedragingen van de hoofdhuurder die voor het in werking treden van dat artikel hebben plaatsgevonden. 
 
 ### Artikel  208j  
 
-De verplichting tot vergoeding van schade van de onderhuurder, bedoeld in [artikel 306 lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan niet geheel of ten dele worden gegrond op gedragingen van de hoofdhuurder die voor het in werking treden van dat artikel hebben plaatsgevonden. 
+De verplichting tot vergoeding van schade van de onderhuurder, bedoeld in artikel 306 lid 2 van Boek 7, kan niet geheel of ten dele worden gegrond op gedragingen van de hoofdhuurder die voor het in werking treden van dat artikel hebben plaatsgevonden. 
 
 ### Artikel  210  
 
@@ -1045,23 +1043,23 @@ Artikel 407 van Boek 7 is niet van toepassing op een overeenkomst van lastgeving
 
 ### Artikel  211a  
 
-1.  [Titel 2A](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op kredietovereenkomsten die vóór het inwerkingtreden van deze titel zijn gesloten.   
-2.  Op kredietovereenkomsten met onbepaalde looptijd die op het tijdstip van het inwerkingtreden van [titel 2A](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) reeds liepen, zijn vanaf dat tijdstip de [artikelen 62](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [63](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [65](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [69](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [70 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing.  
+1.  Titel 2A is niet van toepassing op kredietovereenkomsten die vóór het inwerkingtreden van deze titel zijn gesloten.   
+2.  Op kredietovereenkomsten met onbepaalde looptijd die op het tijdstip van het inwerkingtreden van titel 2A reeds liepen, zijn vanaf dat tijdstip de artikelen 62, 63, 65, 69 en 70 lid 2 van toepassing.  
 
 ### Artikel  212  
 
-[Artikel 665a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing indien het besluit tot overgang wordt genomen of voorgenomen vóór het tijdstip waarop deze bepaling in werking treedt en de overgang op of na bedoeld tijdstip plaatsvindt. 
+Artikel 665a van Boek 7 is niet van toepassing indien het besluit tot overgang wordt genomen of voorgenomen vóór het tijdstip waarop deze bepaling in werking treedt en de overgang op of na bedoeld tijdstip plaatsvindt. 
 
 ###Artikel 214 
 
-1. Ten aanzien van de persoon wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor 1 januari 2004 blijven de [artikelen 629, leden 1 tot en met 9 en lid 11](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [629a](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [670, met uitzondering van lid 1, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing, zoals deze luidden op 31 december 2003, en blijft [artikel 658b van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) buiten toepassing.
-2. Voor de bepaling van de eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, bedoeld in het eerste lid, worden perioden van ongeschiktheid tot werken geacht eenzelfde, niet onderbroken periode van ongeschiktheid te vormen, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
+1. Ten aanzien van de persoon wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor 1 januari 2004 blijven de artikelen 629, leden 1 tot en met 9 en lid 11, 629a en 670, met uitzondering van lid 1, van Boek 7 van toepassing, zoals deze luidden op 31 december 2003, en blijft artikel 658b van Boek 7 buiten toepassing.
+2. Voor de bepaling van de eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, bedoeld in het eerste lid, worden perioden van ongeschiktheid tot werken geacht eenzelfde, niet onderbroken periode van ongeschiktheid te vormen, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
 ### Artikel  217  
 
-1.  Op overeenkomsten van aanneming van werk die vóór het tijdstip van het in werking treden van [titel 12 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn gesloten, wordt deze titel drie jaren na dat tijdstip van toepassing.   
-2.  In afwijking van lid 1 worden de bepalingen van [afdeling 2 van titel 12 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet van toepassing op een overeenkomst van aanneming van werk die vóór dat tijdstip is gesloten.   
-3.  In afwijking van de leden 1 en 2 is [titel 12 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing op de gevolgen van niet nakoming in het geval dat een der partijen na het in werking treden van deze titel in de nakoming van een van haar verbintenissen tekortschiet, tenzij dat tekortschieten een voortzetting van een eerdere tekortkoming is.  
+1.  Op overeenkomsten van aanneming van werk die vóór het tijdstip van het in werking treden van titel 12 van Boek 7 zijn gesloten, wordt deze titel drie jaren na dat tijdstip van toepassing.   
+2.  In afwijking van lid 1 worden de bepalingen van afdeling 2 van titel 12 van Boek 7 niet van toepassing op een overeenkomst van aanneming van werk die vóór dat tijdstip is gesloten.   
+3.  In afwijking van de leden 1 en 2 is titel 12 van Boek 7 van toepassing op de gevolgen van niet nakoming in het geval dat een der partijen na het in werking treden van deze titel in de nakoming van een van haar verbintenissen tekortschiet, tenzij dat tekortschieten een voortzetting van een eerdere tekortkoming is.  
 
 ### Artikel  220  
 
@@ -1070,32 +1068,32 @@ Artikel 407 van Boek 7 is niet van toepassing op een overeenkomst van lastgeving
 
 ###Artikel 221 
 
-1. De [artikelen 928](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [931](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [950](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [952](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [963 leden 5 en 6](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [966 lid 4 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing op overeenkomsten van verzekering die vóór het tijdstip van het in werking treden van de wet zijn gesloten. Indien de voorwaarden van de overeenkomst door de verzekeraar met het oog op het in werking treden van de wet dan wel op of na het tijdstip van het in werking treden van de wet zijn gewijzigd, is het in de eerste zin bepaalde voor de [leden 5 en 6 van artikel 963 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet van toepassing op nadien genomen maatregelen als bedoeld in [artikel 957 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md). 
-2. De [artikelen 929](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [930 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing op overeenkomsten van verzekering die vóór het tijdstip van het in werking treden van de wet zijn gesloten, indien de verzekeraar zich tegenover de verzekerde binnen een jaar nadat dit tijdstip is verstreken erop beroept dat aan de mededelingsplicht van [artikel 251 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) niet is voldaan. 
-3. De [artikelen 935](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [936 leden 2 tot en met 6](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [937 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing met betrekking tot een uitkering die vóór het tijdstip van het in werking treden van de wet verschuldigd is geworden. 
-4. [Artikel 940 lid 1 onderscheidenlijk lid 2 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is van toepassing indien een periode als in die leden bedoeld eindigt na het tijdstip van het in werking treden van de wet. 
-5. [Artikel 948 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing indien een overgang van het risico vóór het tijdstip van het in werking treden van de wet heeft plaatsgevonden. 
-6. [Artikel 954 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing voorzover een uitkering vóór het tijdstip van het in werking treden van de wet is voldaan. 
-7. Ter zake van schade die door meer dan een verzekering wordt gedekt kan de verzekeraar wiens verzekering vóór het tijdstip van het in werking treden van de wet is gesloten niet op de voet van [artikel 961 lid 1, eerste zin, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) worden aangesproken dan voorzover zulks ook op grond van het tevoren geldende recht mogelijk was geweest. De eerste zin lijdt uitzondering indien de voorwaarden van de overeenkomst door de verzekeraar met het oog op het in werking treden van de wet dan wel op of na het tijdstip van het in werking treden van de wet zijn gewijzigd, doch slechts voorzover het risico zich nadien heeft verwezenlijkt. 
-8. [Artikel 962 lid 3 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing indien het risico zich vóór het tijdstip van het in werking treden van de wet heeft verwezenlijkt. 
-9. Op verzekeringen tegen gevaren van brand die vóór het tijdstip van het in werking treden van de wet zijn gesloten, blijft het tevoren geldende [artikel 293 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) ook na dit tijdstip van toepassing. 
-10.  Indien vóór het tijdstip van het in werking treden van de wet tegen een verzekeraar een rechtsvordering tot het doen van een uitkering is ontstaan, is [artikel 942 lid 3 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) slechts van toepassing indien na dat tijdstip een daad van onderhandeling plaatsvindt. 
+1. De artikelen 928, 931, 950, 952, 963 leden 5 en 6 en 966 lid 4 van Boek 7 zijn niet van toepassing op overeenkomsten van verzekering die vóór het tijdstip van het in werking treden van de wet zijn gesloten. Indien de voorwaarden van de overeenkomst door de verzekeraar met het oog op het in werking treden van de wet dan wel op of na het tijdstip van het in werking treden van de wet zijn gewijzigd, is het in de eerste zin bepaalde voor de leden 5 en 6 van artikel 963 van Boek 7 niet van toepassing op nadien genomen maatregelen als bedoeld in artikel 957 van Boek 7. 
+2. De artikelen 929 en 930 van Boek 7 zijn niet van toepassing op overeenkomsten van verzekering die vóór het tijdstip van het in werking treden van de wet zijn gesloten, indien de verzekeraar zich tegenover de verzekerde binnen een jaar nadat dit tijdstip is verstreken erop beroept dat aan de mededelingsplicht van artikel 251 van het Wetboek van Koophandel niet is voldaan. 
+3. De artikelen 935, 936 leden 2 tot en met 6 en 937 van Boek 7 zijn niet van toepassing met betrekking tot een uitkering die vóór het tijdstip van het in werking treden van de wet verschuldigd is geworden. 
+4. Artikel 940 lid 1 onderscheidenlijk lid 2 van Boek 7 is van toepassing indien een periode als in die leden bedoeld eindigt na het tijdstip van het in werking treden van de wet. 
+5. Artikel 948 van Boek 7 is niet van toepassing indien een overgang van het risico vóór het tijdstip van het in werking treden van de wet heeft plaatsgevonden. 
+6. Artikel 954 van Boek 7 is niet van toepassing voorzover een uitkering vóór het tijdstip van het in werking treden van de wet is voldaan. 
+7. Ter zake van schade die door meer dan een verzekering wordt gedekt kan de verzekeraar wiens verzekering vóór het tijdstip van het in werking treden van de wet is gesloten niet op de voet van artikel 961 lid 1, eerste zin, van Boek 7 worden aangesproken dan voorzover zulks ook op grond van het tevoren geldende recht mogelijk was geweest. De eerste zin lijdt uitzondering indien de voorwaarden van de overeenkomst door de verzekeraar met het oog op het in werking treden van de wet dan wel op of na het tijdstip van het in werking treden van de wet zijn gewijzigd, doch slechts voorzover het risico zich nadien heeft verwezenlijkt. 
+8. Artikel 962 lid 3 van Boek 7 is niet van toepassing indien het risico zich vóór het tijdstip van het in werking treden van de wet heeft verwezenlijkt. 
+9. Op verzekeringen tegen gevaren van brand die vóór het tijdstip van het in werking treden van de wet zijn gesloten, blijft het tevoren geldende artikel 293 van het Wetboek van Koophandel ook na dit tijdstip van toepassing. 
+10.  Indien vóór het tijdstip van het in werking treden van de wet tegen een verzekeraar een rechtsvordering tot het doen van een uitkering is ontstaan, is artikel 942 lid 3 van Boek 7 slechts van toepassing indien na dat tijdstip een daad van onderhandeling plaatsvindt. 
 
 ### Artikel 222 
 
-[Artikel 991 lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing indien een uitkering vóór het tijdstip van het in werking treden van de wet opeisbaar is geworden.
+Artikel 991 lid 1 van Boek 7 is niet van toepassing indien een uitkering vóór het tijdstip van het in werking treden van de wet opeisbaar is geworden.
 
 ###Artikel 223 
 
-[Artikel 629, lid 2, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zoals dat luidde op de dag voor inwerkingtreding van [artikel XIX van het Belastingplan 2007](../../../../../../wet/belastingplan/2007/BWBR0020830/README.md) blijft van toepassing met betrekking tot een recht op doorbetaling van het loon als bedoeld in [lid 1 of 2 van artikel 629 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), indien dat recht is ontstaan op of voor die dag.
+Artikel 629, lid 2, van Boek 7, zoals dat luidde op de dag voor inwerkingtreding van artikel XIX van het Belastingplan 2007 blijft van toepassing met betrekking tot een recht op doorbetaling van het loon als bedoeld in lid 1 of 2 van artikel 629 van Boek 7, indien dat recht is ontstaan op of voor die dag.
 
 ### Artikel  225  
 
-[Artikel 640a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is uitsluitend van toepassing op aanspraken op het minimum, bedoeld in [artikel 634 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), die zijn ontstaan na het tijdstip van inwerkintreding van de wet van 26 mei 2011 inzake het afschaffen van de beperkte opbouw van minimum vakantierechten tijdens ziekte, de invoering van een vervaltermijn voor de minimum vakantiedagen en de aanpassing van enige andere artikelen in de regeling voor vakantie en verlof in Boek 7 van het Burgerlijk Wetboek (Stb. 318). 
+Artikel 640a van Boek 7 is uitsluitend van toepassing op aanspraken op het minimum, bedoeld in artikel 634 van Boek 7, die zijn ontstaan na het tijdstip van inwerkintreding van de wet van 26 mei 2011 inzake het afschaffen van de beperkte opbouw van minimum vakantierechten tijdens ziekte, de invoering van een vervaltermijn voor de minimum vakantiedagen en de aanpassing van enige andere artikelen in de regeling voor vakantie en verlof in Boek 7 van het Burgerlijk Wetboek (Stb. 318). 
 
 ### Titel  9  
 
-####Overgangsbepalingen in verband met [Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md)
+####Overgangsbepalingen in verband met Boek 8
 
 ### Artikel  251  
 
@@ -1103,19 +1101,19 @@ De overeenkomsten van vervoer en die tot het doen vervoeren van goederen, alsmed
 
 ###Artikel 251a 
 
-De overeenkomsten van vervoer van goederen uitsluitend over spoorwegen worden beheerst door het vroegere recht, indien zij zijn gesloten vóór het tijdstip van het in werking treden van de wet tot vaststelling en invoering van [titel 8.18 (overeenkomst van goederenvervoer over spoorwegen) van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md).
+De overeenkomsten van vervoer van goederen uitsluitend over spoorwegen worden beheerst door het vroegere recht, indien zij zijn gesloten vóór het tijdstip van het in werking treden van de wet tot vaststelling en invoering van titel 8.18 (overeenkomst van goederenvervoer over spoorwegen) van het Burgerlijk Wetboek.
 
 ### Artikel  252  
 
 1.  De bepalingen van Boek 8 omtrent de rangorde waarin vorderingen uit de opbrengst van een goed moeten worden voldaan, gelden mede met betrekking tot vorderingen die bestaan op het tijdstip waarop dat Boek in werking treedt.   
 2.   Het vroegere recht is echter van toepassing op de rangorde bij de verdeling van een goed dat op het tijdstip van in werking treden van Boek 8 reeds ten behoeve van het verhaal is verkocht, en op de verdeling van hetgeen op een vordering op dat tijdstip reeds is geïnd.   
-3.   Het vroegere recht is eveneens van toepassing op de rang van vorderingen op een in staat van faillissement verklaarde schuldenaar, indien Boek 8 in werking treedt nadat de rechter-commissaris overeenkomstig [artikel 108 der Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) de dag heeft bepaald waarop die vorderingen uiterlijk ter verificatie moeten zijn ingediend.   
+3.   Het vroegere recht is eveneens van toepassing op de rang van vorderingen op een in staat van faillissement verklaarde schuldenaar, indien Boek 8 in werking treedt nadat de rechter-commissaris overeenkomstig artikel 108 der Faillissementswet de dag heeft bepaald waarop die vorderingen uiterlijk ter verificatie moeten zijn ingediend.   
 4.   Het in werking treden van Boek 8 heeft voor de dan bestaande vorderingen geen gevolg ten aanzien van de werking van een surséance van betaling, die voordien aan de schuldenaar voorlopig is verleend.   
 
 ### Artikel  253  
 
 1.   Op voortbewegingswerktuigen en andere machinerieën die tot aan het tijdstip van het in werking treden van Boek 8 nog geen bestanddeel van een schip waren en aan een ander dan de eigenaar van het schip toebehoorden, wordt artikel 1 lid 3 van Boek 8 niet van toepassing.   
-2.   Zaken die tot aan het in werking treden van Boek 8 als scheepstoebehoren met hypotheek waren bezwaard, blijven nadien daarmede belast, indien zij geen scheepstoebehoren in de zin van artikel 1 lid 4 van Boek 8 worden, zolang zij voldoen aan de omschrijving van het tevoren geldende [artikel 309 derde lid van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md).   
+2.   Zaken die tot aan het in werking treden van Boek 8 als scheepstoebehoren met hypotheek waren bezwaard, blijven nadien daarmede belast, indien zij geen scheepstoebehoren in de zin van artikel 1 lid 4 van Boek 8 worden, zolang zij voldoen aan de omschrijving van het tevoren geldende artikel 309 derde lid van het Wetboek van Koophandel.   
 3.   Zaken die tot aan het tijdstip van het in werking treden van Boek 8 scheepstoebehoren waren en als zodanig waren begrepen in een beslag of executie, blijven, ook nadat zij zelfstandig zijn geworden, daaronder begrepen en gelden, zolang beslag en executie duren, tot aan de levering aan de koper als scheepstoebehoren.   
 4.   Het bepaalde in artikel 1 lid 5 van Boek 8 wordt drie maanden na het in werking treden van Boek 8 van toepassing op bedingen die voordien reeds tussen partijen bestonden, alsook ten aanzien van zaken die door het in werking treden van Boek 8 scheepstoebehoren worden.  
 
@@ -1127,7 +1125,7 @@ De overeenkomsten van vervoer van goederen uitsluitend over spoorwegen worden be
 
 ### Artikel  255  
 
-Artikel 160 lid 1 van Boek 8 wordt drie maanden na het tijdstip van het in werking treden van dat Boek van toepassing op een, op dat tijdstip bestaande, rederij als omschreven in het tevoren geldende [artikel 323 van het Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). 
+Artikel 160 lid 1 van Boek 8 wordt drie maanden na het tijdstip van het in werking treden van dat Boek van toepassing op een, op dat tijdstip bestaande, rederij als omschreven in het tevoren geldende artikel 323 van het Wetboek van Koophandel. 
 
 ### Artikel  256  
 
@@ -1139,17 +1137,17 @@ Op een hulpverlening die vóór het in werking treden van Boek 8 is aangevangen,
 
 ### Artikel  258  
 
-1.  De verjaring en het verval van een rechtsvordering waarvan de termijn werd bepaald door het [Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md), de Wet Overeenkomst Wegvervoer of de Wet Overeenkomst Binnenlands Openbaar personenvervoer, blijft door het vroegere recht beheerst, indien de termijn vóór het in werking treden van Boek 8 is aangevangen.   
+1.  De verjaring en het verval van een rechtsvordering waarvan de termijn werd bepaald door het Wetboek van Koophandel, de Wet Overeenkomst Wegvervoer of de Wet Overeenkomst Binnenlands Openbaar personenvervoer, blijft door het vroegere recht beheerst, indien de termijn vóór het in werking treden van Boek 8 is aangevangen.   
 2.   De artikelen 201 en 791 van Boek 8, zoals deze artikelen zijn gewijzigd bij de Aanpassingswet Boek 8, worden, indien de daar genoemde termijnen vóór 1 januari 1992 zijn aangevangen, met ingang van 1 april 1992 van toepassing op de termijnen van verjaring van de eigendom van in de openbare registers teboekstaande zee- en binnenschepen, alsmede op die van verjaring der in die artikelen genoemde beperkte rechten daarop. Deze termijnen worden geacht niet vóór 1 april 1992 te zijn voltooid.   
 3.   De verkrijging van een teboekstaand luchtvaartuig door verjaring, waarvan de termijn werd bepaald door de Wet teboekgestelde Luchtvaartuigen, blijft door die wet beheerst, indien de termijn vóór het in werking treden van titel 15 van Boek 8 is aangevangen.  
 
 ###Titel 10 
 
-####Overgangsbepaling in verband met [Boek 10](../../../../../../wet/burgerlijk/wetboek/boek/10/BWBR0030068/README.md)
+####Overgangsbepaling in verband met Boek 10
 
 ### Artikel  270  
 
-[Artikel 56 van Boek 10](../../../../../../wet/burgerlijk/wetboek/boek/10/BWBR0030068/README.md) is slechts van toepassing op ontbinding van het huwelijk of scheiding van tafel en bed die is verzocht na het tijdstip van inwerkingtreding van deze wet. 
+Artikel 56 van Boek 10 is slechts van toepassing op ontbinding van het huwelijk of scheiding van tafel en bed die is verzocht na het tijdstip van inwerkingtreding van deze wet. 
 
 ### Slotartikel  
 

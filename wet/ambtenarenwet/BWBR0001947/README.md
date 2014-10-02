@@ -36,31 +36,31 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 –de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-–krachtens de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) of de wet voor hun leven benoemde ambtenaren;
+–krachtens de Grondwet of de wet voor hun leven benoemde ambtenaren;
 
 –de Nationale ombudsman en de substituut-ombudsmannen;
 
 –notarissen en gerechtsdeurwaarders;
 
-–de voorzitter, de leden, de plaatsvervangende leden en de buitengewone leden van het College bescherming persoonsgegevens, bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
+–de voorzitter, de leden, de plaatsvervangende leden en de buitengewone leden van het College bescherming persoonsgegevens, bedoeld in artikel 51 van de Wet bescherming persoonsgegevens;
 
 –de leden van dagelijkse besturen van waterschappen, waaronder de voorzitters;
 
-–de voorzitter, de plaatsvervangende voorzitters en de andere leden van de Sociaal-Economische Raad, de voorzitters en de plaatsvervangende voorzitters van de produkt-, de hoofdbedrijf- en de bedrijfschappen en de leden van de besturen van deze lichamen, alsmede degenen die deel uitmaken van organen van lichamen als bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+–de voorzitter, de plaatsvervangende voorzitters en de andere leden van de Sociaal-Economische Raad, de voorzitters en de plaatsvervangende voorzitters van de produkt-, de hoofdbedrijf- en de bedrijfschappen en de leden van de besturen van deze lichamen, alsmede degenen die deel uitmaken van organen van lichamen als bedoeld in artikel 110 van de Wet op de Bedrijfsorganisatie;
 
-–het personeel in dienst van de Sociaal-Economische Raad, de produkt-, de hoofdbedrijf- en de bedrijfschappen en de lichamen, bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+–het personeel in dienst van de Sociaal-Economische Raad, de produkt-, de hoofdbedrijf- en de bedrijfschappen en de lichamen, bedoeld in artikel 110 van de Wet op de Bedrijfsorganisatie;
 
-–de leden van de Raden van bestuur van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+–de leden van de Raden van bestuur van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in de Wet structuur uitvoeringsorganisatie werk en inkomen;
 
-–de Nederlandse beroepsorganisatie van accountants, de leden van het bestuur van dit lichaam en de leden van andere bij of krachtens de [Wet op het accountantsberoep](../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) ingestelde colleges;
+–de Nederlandse beroepsorganisatie van accountants, de leden van het bestuur van dit lichaam en de leden van andere bij of krachtens de Wet op het accountantsberoep ingestelde colleges;
 
 –de voorzitter, de ondervoorzitter en de andere leden van het bestuur van de Organisatie ter verbetering van de binnenvisserij;
 
-–de voorzitter en de leden van het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md);
+–de voorzitter en de leden van het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet;
 
-–de voorzitter en de leden van het College bouw zorginstellingen en het College sanering zorginstellingen, bedoeld in de [Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);
+–de voorzitter en de leden van het College bouw zorginstellingen en het College sanering zorginstellingen, bedoeld in de Wet toelating zorginstellingen;
 
-–de voorzitter en de leden van de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+–de voorzitter en de leden van de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg;
 
 –militaire ambtenaren;
 
@@ -68,28 +68,28 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 –de leden en de plaatsvervangende leden van het College voor de rechten van de mens;
 
-–de leden van een adviescollege als bedoeld in de [Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), niet zijnde een adviescollege als bedoeld in [artikel 3 van die wet](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md);
+–de leden van een adviescollege als bedoeld in de Kaderwet adviescolleges, niet zijnde een adviescollege als bedoeld in artikel 3 van die wet;
 
-–de voorzitter en de andere leden van het bestuur van het Bureau Financieel Toezicht, bedoeld in [artikel 110, eerste lid, van de Wet op het notarisambt](../../../wet/notariswet/BWBR0010388/README.md);
+–de voorzitter en de andere leden van het bestuur van het Bureau Financieel Toezicht, bedoeld in artikel 110, eerste lid, van de Wet op het notarisambt;
 
 –de voorzitter en de plaatsvervangend voorzitter van de Koninklijke Notariële Beroepsorganisatie, de andere leden van het bestuur van dit lichaam en de leden van het bestuur van de ringen en hun plaatsvervangers;
 
 –de voorzitter en plaatsvervangend voorzitter van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders en de andere leden van het bestuur van dit lichaam;
 
-–de voorzitter en de leden van de commissie van toezicht, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);
+–de voorzitter en de leden van de commissie van toezicht, bedoeld in de Wet op de inlichtingen- en veiligheidsdiensten 2002;
 
-–de leden van de KNMI-raad, bedoeld in [artikel 11 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);
+–de leden van de KNMI-raad, bedoeld in artikel 11 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut;
 
-–het lid van het Centraal Bestuur voor de Arbeidsvoorziening, bedoeld in de [Arbeidsvoorzieningswet 1996](../../../wet/arbeidsvoorzieningswet/1996/BWBR0008367/README.md);
+–het lid van het Centraal Bestuur voor de Arbeidsvoorziening, bedoeld in de Arbeidsvoorzieningswet 1996;
 
-–de deskundige leden, bedoeld in de [artikelen 48, derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [55a, tweede lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [66, tweede en derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [67, derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [69, tweede lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [70, tweede lid, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de militaire leden, bedoeld in de [artikelen 54, derde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [55, tweede lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [68, tweede lid, van diezelfde wet](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers;
+–de deskundige leden, bedoeld in de artikelen 48, derde lid, 55a, tweede lid, 66, tweede en derde lid, 67, derde lid, 69, tweede lid, en 70, tweede lid, van de Wet op de rechterlijke organisatie, de militaire leden, bedoeld in de artikelen 54, derde lid, 55, tweede lid, en 68, tweede lid, van diezelfde wet, en hun plaatsvervangers;
 
-–de leden van zelfstandige bestuursorganen aan wie een schadeloosstelling als bedoeld in [artikel 14, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is toegekend;
+–de leden van zelfstandige bestuursorganen aan wie een schadeloosstelling als bedoeld in artikel 14, eerste lid, van de Kaderwet zelfstandige bestuursorganen is toegekend;
 
-– de buitengriffiers en de waarnemend griffiers, bedoeld in de [artikelen 14, vierde lid](../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md), en [73, tweede lid, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md); 
+– de buitengriffiers en de waarnemend griffiers, bedoeld in de artikelen 14, vierde lid, en 73, tweede lid, van de Wet op de rechterlijke organisatie; 
 
-–de voorzitter en de leden van het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
-2.  De artikelen 125, 125bis, 125ter, 125quater, 125quinquies, 125a, 125c, 125d, 125f en 126 zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 9°, van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/indeling/BWBR0002080/README.md), en de rechterlijke ambtenaren in opleiding, bedoeld in [artikel 145 van diezelfde wet](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
+–de voorzitter en de leden van het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten.  
+2.  De artikelen 125, 125bis, 125ter, 125quater, 125quinquies, 125a, 125c, 125d, 125f en 126 zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, onderdelen 5° tot en met 9°, van de Wet op de rechterlijke organisatie, en de rechterlijke ambtenaren in opleiding, bedoeld in artikel 145 van diezelfde wet.  
 
 ### Titel  II  
 
@@ -103,7 +103,7 @@ a. de bedragen - onder de benaming bezoldiging of welke benaming ook - waarop de
 
 b. de bedragen - onder de benaming pensioen, wachtgeld, uitkering of welke benaming ook - waarop de gewezen ambtenaar als zodanig uit hoofde van zijn vroegere dienstbetrekking aanspraak heeft of waarop zijn nagelaten betrekkingen uit hoofde van zijn overlijden aanspraak hebben.       
 2.   Onder ambtenaar worden in deze titel mede verstaan de nagelaten betrekkingen van een ambtenaar die uit hoofde van zijn overlijden pensioen genieten.    
-3.   Beslag omvat in deze titel ook de vordering bedoeld in [artikel 19 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) (*Stb.* 221).   
+3.   Beslag omvat in deze titel ook de vordering bedoeld in artikel 19 van de Invorderingswet 1990 (*Stb.* 221).   
 
 ### Artikel  116  
 
@@ -118,7 +118,7 @@ Door de Staat of de openbare lichamen onverschuldigd betaalde bezoldiging kan wo
 
 1.  Met de door de Staat of de openbare lichamen verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan hen zelf verschuldigd is.    
 2.   Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in artikel 118, eerste lid.    
-3.   Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet als bedoeld in [artikel 475*d* van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) vormt.   
+3.   Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet als bedoeld in artikel 475*d* van het Wetboek van Burgerlijke Rechtsvordering vormt.   
 
 ### Artikel  118  
 
@@ -128,7 +128,7 @@ Door de Staat of de openbare lichamen onverschuldigd betaalde bezoldiging kan wo
 
 ### Artikel  119  
 
-Voor de toepassing van de [artikelen 475*b*, tweede en derde lid](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [475*d* vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) worden, onverminderd artikel 117, tweede lid, en artikel 118, derde lid, verrekening en korting gelijkgesteld met beslag.  
+Voor de toepassing van de artikelen 475*b*, tweede en derde lid, en 475*d* vierde lid, van het Wetboek van Burgerlijke Rechtsvordering worden, onverminderd artikel 117, tweede lid, en artikel 118, derde lid, verrekening en korting gelijkgesteld met beslag.  
 
 ### Artikel  120  
 
@@ -181,7 +181,7 @@ l. de instelling en werkwijze van commissies waaraan de beslissing met uitsluiti
 
 m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;   
 
-n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.    
+n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.    
 2.  Het bevoegd gezag van provincies, gemeenten en waterschappen stelt voor de ambtenaar door of vanwege deze lichamen aangesteld, onder gelijk voorbehoud voorschriften vast omtrent de onderwerpen, genoemd in het eerste lid. Als ambtenaar aangesteld door of vanwege een waterschap wordt aangemerkt hij die is aangesteld door het in het reglement van die instelling daartoe aangewezen gezag teneinde in dienst van het waterschap werkzaam te zijn.  
 
 ### Artikel  125bis  
@@ -233,7 +233,7 @@ f.een procedure voor het omgaan met bij een ambtenaar levende vermoedens van mis
 1.  De ambtenaar dient zich te onthouden van het openbaren van gedachten of gevoelens of van de uitoefening van het recht tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.    
 2.   Het eerste lid is, voor wat betreft het recht van vereniging, niet van toepassing op het lidmaatschap van:  
 
-a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md) of   
+a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de Kieswet of   
 
 b. een vakvereniging.      
 3.   De ambtenaar is verplicht tot geheimhouding van hetgeen hem in verband met zijn functie ter kennis is gekomen, voor zover die verplichting uit de aard der zaak volgt.   
@@ -255,7 +255,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 ### Artikel  125e  
 
 1.   Voor de vervulling van een vertrouwensfunctie komt slechts in aanmerking degene die Nederlander is. Degene die geen Nederlander is, kan niettemin worden aangesteld wanneer het dienstbelang dat bepaaldelijk vordert.    
-2.  Aan een ambtenaar kan eervol ontslag worden verleend, indien hij op grond van het bepaalde in [artikel 5, derde lid](../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), of [artikel 10, tweede lid, van de Wet veiligheidsonderzoeken](../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) uit een vertrouwensfunctie moet worden ontheven.   
+2.  Aan een ambtenaar kan eervol ontslag worden verleend, indien hij op grond van het bepaalde in artikel 5, derde lid, of artikel 10, tweede lid, van de Wet veiligheidsonderzoeken uit een vertrouwensfunctie moet worden ontheven.   
 3.   Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter zake van het bepaalde in dit artikel.   
 
 ### Artikel  125f  
@@ -267,7 +267,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 1.  Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.   
 2.  Het bevoegd gezag mag het dienstverband met de ambtenaar niet beëindigen wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het eerste lid of terzake bijstand heeft verleend.   
-3.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De [artikelen 10](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.  
+3.  Het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De artikelen 10, 11, 12, 13, 22 en 23 van de Wet College voor de rechten van de mens zijn van overeenkomstige toepassing.  
 4. Het bevoegd gezag mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.
 
 ### Artikel  125h  
@@ -275,13 +275,13 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 1.  Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren in de arbeidsvoorwaarden op grond van het al dan niet tijdelijk karakter van de aanstelling, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.   
 2.  Het bevoegd gezag stelt de ambtenaar die is aangesteld in tijdelijke dienst tijdig en duidelijk in kennis van een vacature met een dienstverband voor onbepaalde tijd.   
 3.  Het bevoegd gezag mag het dienstverband met de ambtenaar niet beëindigen wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.   
-4.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 10](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.   
+4.  Het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De artikelen 10, 11, 12, 13, 22 en 23 van de Wet College voor de rechten van de mens zijn van overeenkomstige toepassing.   
 5. Het bevoegd gezag mag de ambtenaar niet benadelen wegens de omstandigheid dat de ambtenaar in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.
 
 ### Artikel  126  
 
-1.  Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan artikel 125 of artikel 125quinquies, zijn de [artikelen 121 tot en met 121f van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
-2.  [Hoofdstuk XVIII van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens artikel 125 of artikel 125quinquies vastgestelde uitvoeringsvoorschriften.  
+1.  Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan artikel 125 of artikel 125quinquies, zijn de artikelen 121 tot en met 121f van de Provinciewet van overeenkomstige toepassing.   
+2.  Hoofdstuk XVIII van de Provinciewet is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens artikel 125 of artikel 125quinquies vastgestelde uitvoeringsvoorschriften.  
 
 ### Titel  IV  
 
@@ -302,9 +302,9 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 ### Artikel  134  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De artikelen 125*a* tot en met 125*f* van deze wet en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn van overeenkomstige toepassing.    
-2.   Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De artikelen 125*a* tot en met 125*d* , 126 en 133, tweede lid, van deze wet en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn van overeenkomstige toepassing.    
-3.  Het tweede lid is niet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md).   
+1.  Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De artikelen 125*a* tot en met 125*f* van deze wet en artikel 648 van Boek 7 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing.    
+2.   Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De artikelen 125*a* tot en met 125*d* , 126 en 133, tweede lid, van deze wet en artikel 648 van Boek 7 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing.    
+3.  Het tweede lid is niet van toepassing op de dienstbetrekking, bedoeld in de Wet sociale werkvoorziening.   
 
 ### Artikel  137  
 

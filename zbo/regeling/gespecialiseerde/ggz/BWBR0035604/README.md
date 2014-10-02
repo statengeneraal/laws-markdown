@@ -47,7 +47,7 @@ k.  *zorgtraject:* een initiële DBC, met eventueel één of meerdere vervolg-DB
 
 l.  *DBC-traject:* de gehele periode waarin alle activiteiten (openen/typeren/registreren/sluiten van één DBC) in het kader van de behandeling van een patiënt worden uitgevoerd;  
 
-m.  *DBC-dataset:* de gegevens die verzameld en aangeleverd moeten worden conform de Regeling Verplichte aanlevering minimale dataset curatieve GGZ;  
+m.  *DBC-dataset:* de gegevens die verzameld en aangeleverd moeten worden conform de Regeling ‘Verplichte aanlevering minimale dataset curatieve GGZ’;  
 
 n.  *DBC-tarief:* het bedrag dat per DBC in rekening wordt gebracht conform de algemene tariefbeschikking DBC GGZ 2013;  
 
@@ -195,7 +195,7 @@ iii. bij sluiten → de GAF-score op de einddatum van de DBC.
 
 a. code ‘799.9 Diagnose/aandoening uitgesteld’ kan niet de primaire diagnose zijn.  
 
-b. code ‘V71.09 Geen diagnose of aandoening op As 2 aanwezig’ kan niet de primaire diagnose zijn, tenzij er bij een diagnose op As 2 ‘trekken van ...’ wordt gescoord, kan deze wel dienen als primaire diagnose.  
+b. code ‘V71.09 Geen diagnose of aandoening op As 2 aanwezig’ kan niet de primaire diagnose zijn, tenzij er bij een diagnose op As 2 ‘trekken van ..’ wordt gescoord, kan deze wel dienen als primaire diagnose.  
 
 c. de code op As 2 voor zwakzinnigheid of zwakbegaafdheid kan niet als primaire diagnose geregistreerd worden (hieronder vallen ook de codes voor stoornissen in de kindertijd op As 2).    
 
@@ -204,7 +204,7 @@ c. de code op As 2 voor zwakzinnigheid of zwakbegaafdheid kan niet als primaire 
 
 7. In de kinder- en jeugdpsychiatrie<sup> 12 De CGAS geldt voor kinderen jonger dan 18 jaar. </sup> kan niet altijd een primaire diagnose gesteld worden op As 1 en/of As 2 van de DSM-IV-TR. Daarom kent de DBC diagnosebepaling enkele uitzonderingen voor kinderen en jeugd onder de 18 jaar: 
 
-a.  *het stellen van de primaire diagnose persoonlijkheidsstoornis op As 2 bij een kind onder de 18 jaar*  In de DSM-IV-TR staat dat bij kinderen onder de 18 jaar geen persoonlijkheidsstoornis als primaire diagnose geclassificeerd mag worden. Dit principiële uitgangspunt is in het DBC ggz-model erkend, maar er mag van afgeweken worden. Als er bij een kind onder de 18 jaar sprake is van een primaire diagnose anders dan As 1 en het vermoeden bestaat van een persoonlijkheidsstoornis of persoonlijkheidsproblematiek (trekken van) op As 2, dan mag in de DBC-registratie de As 2 als primaire diagnose gesteld worden.  
+a.  *het stellen van de primaire diagnose persoonlijkheidsstoornis op As 2 bij een kind onder de 18 jaar*    In de DSM-IV-TR staat dat bij kinderen onder de 18 jaar geen persoonlijkheidsstoornis als primaire diagnose geclassificeerd mag worden. Dit principiële uitgangspunt is in het DBC ggz-model erkend, maar er mag van afgeweken worden. Als er bij een kind onder de 18 jaar sprake is van een primaire diagnose anders dan As 1 en het vermoeden bestaat van een persoonlijkheidsstoornis of persoonlijkheidsproblematiek (trekken van) op As 2, dan mag in de DBC-registratie de As 2 als primaire diagnose gesteld worden.  
 
 b.  *Ernstige, enkelvoudige dyslexie*  Uitsluitend de behandeling van de primaire diagnose ‘ernstige, enkelvoudige dyslexie’ valt onder de diagnosegroep ‘Overige stoornissen in de kindertijd’. Deze vorm van dyslexie dient als volgt te worden getypeerd: 
 
@@ -214,11 +214,11 @@ II. nevendiagnosen: er mag geen sprake zijn van een nevendiagnose op as 1 of 2;
 
 III. overige diagnosen: er dient op as 3 ‘diagnose op As3 enkelvoudig’ geregistreerd te worden. De overige assen (as 4 en as 5) hebben geen verdere specificaties; deze dienen ingevuld te worden naar de mate van functioneren en zorgverzwarende psychosociale factoren.    
 
-c.  *Children’s Global assessment Scale (CGAS) in plaats van de GAF-score*  In de kinder- en jeugdpsychiatrie wordt op de As 5 van de DSM-IV-TR gewerkt met de CGAS in plaats van de reguliere GAF-score. De hoofdbehandelaar registreert conform de bekende beschrijving van de opgenomen ranges, want de klassenindeling waarmee gewerkt wordt (van 0-100 verdeeld in tien klassen) is identiek. Voor kinderen jonger dan vier jaar hoeft geen CGAS ingevuld te worden.  
+c.  *Children’s Global assessment Scale (CGAS) in plaats van de GAF-score*  In de kinder- en jeugdpsychiatrie wordt op de As 5 van de DSM-IV-TR gewerkt met de CGAS in plaats van de reguliere GAF-score. De hoofdbehandelaar registreert conform de bekende beschrijving van de opgenomen ranges, want de klassenindeling waarmee gewerkt wordt (van 0–100 verdeeld in tien klassen) is identiek. Voor kinderen jonger dan vier jaar hoeft geen CGAS ingevuld te worden.  
 
 d.  *Primaire diagnose voor kinderen < vier jaar via classificatiesysteem DC: 0-3*  Voor kinderen onder de vier jaar kan in plaats van de DSM-IV-TR de DC: 0-3 worden gebruikt. De DC: 0-3 is een in 1994 ontwikkeld diagnoseclassificatiesysteem voor psychopathologie bij jonge kinderen. Het is niet verplicht om kinderen tot vier jaar volgens de DC: 0-3 te diagnosticeren, er kan voor kinderen tot vier jaar ook gebruik gemaakt worden van de DSM-IV-TR. De hoofdbehandelaar maakt de keuze voor het ene of het andere classificatiesysteem.  
 
-e.  *PTSS volgens ICD-10*  In sommige gevallen worden problemen ervaren bij de declaratie van zorg voor de behandeling van stoornissen bij kinderen die samenhangen met kindermishandeling en/of seksueel misbruik. Om deze problemen op te lossen mag bij kinderen tot 18 jaar de DSM-diagnose PTSS worden geregistreerd (acuut, chronisch of verlaat begin), indien aan de ICD-10 omschrijving van PTSS wordt voldaan. Het is hierbij dus niet noodzakelijk om te voldoen aan de PTSS criteria van de DSM-IV-TR.     
+e.  *PTSS volgens ICD-10*  In sommige gevallen worden problemen ervaren bij de declaratie van zorg voor de behandeling van stoornissen bij kinderen die samenhangen met kindermishandeling en/of seksueel misbruik. Om deze problemen op te lossen mag bij kinderen tot 18 jaar de DSM-diagnose PTSS worden geregistreerd (acuut, chronisch of verlaat begin), indien aan de ICD-10 omschrijving van PTSS wordt voldaan. Het is hierbij dus niet noodzakelijk om te voldoen aan de PTSS criteria van de DSM-IV-TR.   
 ### *Meerdere (primaire) diagnoses* 
 
 8. In sommige gevallen kan er sprake zijn van meerdere (primaire) diagnoses: 
@@ -354,7 +354,7 @@ a. Wanneer er sprake is van een nieuwe patiënt.
 
 b. Wanneer er sprake is van een bekende patiënt die voor een nieuwe primaire diagnose voor de eerste keer crisiszorg nodig heeft. De primaire diagnose komt dus niet overeen met eventueel voorgaande geopende crisis-DBC’s.  
 
-c. Wanneer een crisis-DBC 28 dagen openstaat en de crisisinterventie op de 28e dag nog niet is afgerond en de behandelaar hiervoor directe en indirecte tijd wil registreren. De openingsdatum van de nieuwe crisis-DBC is dag 29 en heeft dezelfde primaire diagnose en hetzelfde zorgtype.  
+c. Wanneer een crisis-DBC 28 dagen openstaat en de crisisinterventie op de 28<sup>e</sup> dag nog niet is afgerond en de behandelaar hiervoor directe en indirecte tijd wil registreren. De openingsdatum van de nieuwe crisis-DBC is dag 29 en heeft dezelfde primaire diagnose en hetzelfde zorgtype.  
 
 d. Wanneer de patiënt terug in crisiszorg komt voor eenzelfde diagnose, maar er meer dan 28 dagen zijn verstreken sinds het openen van de vorige crisis-DBC.  
 
@@ -401,7 +401,7 @@ b. de DBC bevat de juiste informatie;
 
 c. de typering is juist en volledig ingevuld;  
 
-d. de diagnose is juist ingevuld;<sup> 19 Indien er op een DBC alleen pré-intake / intake / diagnostiek en/of crisisopvang is geregistreerd, kan de DBC gesloten worden zonder weergave van een diagnoseclassificatie. </sup>   
+d. de diagnose is juist ingevuld;<sup> 19 Indien er op een DBC alleen pré-intake/intake/diagnostiek en/of crisisopvang is geregistreerd, kan de DBC gesloten worden zonder weergave van een diagnoseclassificatie. </sup>   
 
 e. de GAF-score is ingevuld.    
 
@@ -439,9 +439,9 @@ f. als de patiënt na de pré-intake, intake of diagnostiek niet in zorg terug k
 
 a. Reden voor afsluiting bij patiënt/niet bij behandelaar.  
 
-b. Reden voor afsluiten bij behandelaar / om inhoudelijke redenen.  
+b. Reden voor afsluiten bij behandelaar/om inhoudelijke redenen.  
 
-c. In onderling overleg beëindigd zorgtraject/ patiënt uitbehandeld.  
+c. In onderling overleg beëindigd zorgtraject/patiënt uitbehandeld.  
 
 d. Afsluiting na alleen pre-intake/intake/diagnostiek/crisisopvang  
 
@@ -486,7 +486,7 @@ e. het aantal geleverde minuten direct patiëntgebonden tijd is geregistreerd op
 4. Indien er sprake is van onderlinge dienstverlening, kan de uitvoerende zorgaanbieder de vergoeding daarvoor uitsluitend in rekening brengen aan de zorgaanbieder die de prestatie bij de uitvoerder heeft aangevraagd. Er mag door de uitvoerende zorgaanbieder geen DBC gedeclareerd worden.   
 ### *Overige producten* 
 
-5. De categorie ‘overige producten’ (OVP) heeft geen relatie met het DBC-traject van een patiënt. De integrale tarieven voor de overige producten kunnen daarom afzonderlijk gedeclareerd worden aan de patiënt, zorgverzekeraar of aan de opdrachtgever. Voor meer informatie over overige producten wordt verwezen naar de beleisregel ‘Prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg’.   
+5. De categorie ‘overige producten’ (OVP) heeft geen relatie met het DBC-traject van een patiënt. De integrale tarieven voor de overige producten kunnen daarom afzonderlijk gedeclareerd worden aan de patiënt, zorgverzekeraar of aan de opdrachtgever. Voor meer informatie over overige producten wordt verwezen naar de beleidsregel ‘Prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg’.   
 ### *Zorg die niet tot het basispakket behoort* 
 
 6. Het is zorgaanbieders niet toegestaan om zorg die niet tot het basispakket behoort, maar wel zorg is zoals omschreven in de Wmg, te declareren als zorg die tot het basispakket behoort.  
@@ -501,10 +501,12 @@ b. OVP niet-basispakketzorg Verblijf.
 
 9. Activiteiten en verrichtingen die niet onder de reikwijdte van het begrip ‘zorg’ als omschreven in artikel 1, onder b, Wmg behoren, worden niet via prestaties of OVP’s gedeclareerd.  
 
-10. Bij de overige producten ten behoeve van de standaardprestatie rijbewijskeuring (119027 en 119028) kan de prestatie ‘toeslag rijbewijskeuring’ (119029 en 119030) in rekening worden gebracht, wanneer de patiëntgebonden tijd meer dan 15 minuten bedraagt. De standaardprestatie bestaat uit 15 minuten indirecte tijd en 15 minuten direct patiëntgebonden tijd. De zorgverlener dient de patiënt te informeren wanneer hij verwacht gebruik te maken van deze toeslag bovenop de standaardprestatie. Deze toeslagprestatie kan meerdere keren in rekening worden gebracht, per 15 minuten direct patiëntgebonden tijd dat de keuring langer duurt dan de standaardprestatie. Bij de rijbewijskeuring in geval van een vorderingsprocedure (119028) mag de toeslag (119030) ook in rekening gebracht worden voor indirecte tijd. Voor indirecte tijd mag de toeslag maximaal vier keer in rekening worden gebracht, deze is dus gemaximeerd tot maximaal een uur extra indirecte tijd. Bij de rijbewijskeuring in geval van een eigen verklaringsprocedure (119027) door een psychiater mag de toeslag (119029) ook in rekening gebracht worden voor indirecte tijd. Voor indirecte tijd mag de toeslag maximaal twee keer in rekening worden gebracht, deze is dus gemaximeerd tot maximaal een half uur extra indirecte tijd. Voor meer informatie over het overige product rijbewijskeuringen wordt verwezen naar de beleidsregel ‘Prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg’.   
+10. Bij de overige producten ten behoeve van de standaardprestatie rijbewijskeuring (119027 en 119028) kan de prestatie ‘toeslag rijbewijskeuring’ (119029 en 119030) in rekening worden gebracht, wanneer de patiëntgebonden tijd meer dan 15 minuten bedraagt. De standaardprestatie bestaat uit 15 minuten indirecte tijd en 15 minuten direct patiëntgebonden tijd. De zorgverlener dient de patiënt te informeren wanneer hij verwacht gebruik te maken van deze toeslag bovenop de standaardprestatie. Deze toeslagprestatie kan meerdere keren in rekening worden gebracht, per 15 minuten direct patiëntgebonden tijd dat de keuring langer duurt dan de standaardprestatie. Bij de rijbewijskeuring in geval van een vorderingsprocedure (119028) mag de toeslag (119030) ook in rekening gebracht worden voor indirecte tijd. Voor indirecte tijd mag de toeslag maximaal vier keer in rekening worden gebracht, deze is dus gemaximeerd tot maximaal een uur extra indirecte tijd. Bij de rijbewijskeuring in geval van een eigen verklaringsprocedure (119027) door een psychiater mag de toeslag (119029) ook in rekening gebracht worden voor indirecte tijd. Voor indirecte tijd mag de toeslag maximaal twee keer in rekening worden gebracht, deze is dus gemaximeerd tot maximaal een half uur extra indirecte tijd.  
+
+11. Voor meer informatie over het overige product rijbewijskeuringen wordt verwezen naar de beleidsregel ‘Prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg’.   
 ### *Transparantie* 
 
-11. Een zorgaanbieder heeft bepaalde verplichtingen als het gaat om transparantie naar de patiënt toe. De beleidsregel ‘Transparantie’ geeft hier meer informatie over.      
+12. Een zorgaanbieder heeft bepaalde verplichtingen als het gaat om transparantie naar de patiënt toe. De beleidsregel ‘Transparantie’ geeft hier meer informatie over.      
 ### 5  
 
 ####Informatiebepalingen
@@ -545,13 +547,13 @@ c. de totaal bestede directe en indirecte tijd van de gehele DBC (optelsom van a
 
 6. Zelfverwijzer  
 
-7. Bemoeizorg  
+7. Bemoeizorg    
 
 9.  *AGB-code van de verwijzer*  Indien er sprake is van type verwijzer genoemd onder 8.1 tot en met 8.4 moet op de factuur de AGB-code van de verwijzende zorgverlener (natuurlijk persoon) vermeld worden. Dit moet de AGB-code op persoonsniveau zijn.  
 
 10.  *Dagbesteding*  Op de factuur dient de activiteitencode waarmee dagbesteding bij de aanbieder wordt geregistreerd en het aantal uren dagbesteding per DBC te worden vermeld.  
 
-11.  *DBC-prestatiecode*  De specificatie van het geleverde zorgproduct. De DBC-prestatiecode wordt afgeleid van de gevalideerde DBC-dataset. Deze code bestaat uit 12 alfanumerieke posities, gevuld volgens vier 3-cijferige DBC-componenten en in onderstaande volgorde: 
+11.  *DBC-prestatiecode*  De specificatie van het geleverde zorgproduct. De DBC-prestatiecode wordt afgeleid van de gevalideerde DBC-dataset. Deze code bestaat uit 12 alfanumerieke posities, gevuld volgens vier 3-cijferige DBC componenten en in onderstaande volgorde: 
 
 a. zorgtype;  
 
@@ -559,7 +561,16 @@ b. diagnoseclassificatie;<sup> 22 Indien er sprake is van de diagnose ‘ernstig
 
 c. zorgvraagzwaarte;  
 
-d. productgroep voor behandeling van de DBC-dataset.   De diagnose-informatie op de factuur dient zich te beperken tot de 14 diagnosehoofdgroepen in uitsluitend de langdurende of intensieve behandelgroepen overeenkomstig de productstructuur. Voor de behandelgroepen ‘diagnostiek’, ‘crisis’ en ‘kortdurend’ is vermelding van diagnose-informatie op de factuur niet toegestaan. Evenmin is het toegestaan dat uit de factuur blijkt of er ten aanzien van het zorgtype sprake is van een rechterlijke uitspraak. Tevens is de zorgvraagzwaarte voor de diagnosehoofdgroep ‘ persoonlijkheidsstoornissen’ niet zichtbaar op de factuur. In de prestatiecode is het zorgvraagzwaartedeel voor deze diagnose hoofdgroep op 000 gezet.  
+d. productgroep voor behandeling van de DBC-dataset.   De diagnose-informatie op de factuur dient zich te beperken tot de 14 diagnosehoofdgroepen in uitsluitend de langdurende of intensieve behandelgroepen overeenkomstig de productstructuur. Voor de behandelgroepen ‘diagnostiek’, ‘crisis’ en ‘behandeling kort’ is vermelding van diagnose-informatie op de factuur niet toegestaan. Evenmin is het toegestaan dat uit de factuur blijkt of er ten aanzien van het zorgtype sprake is van een rechterlijke uitspraak. Tevens is de zorgvraagzwaarte voor de diagnosehoofdgroep ‘ persoonlijkheidsstoornissen’ niet zichtbaar op de factuur. In de prestatiecode is het zorgvraagzwaartedeel voor deze diagnose hoofdgroep op 000 gezet.  
+
+| --- |
+|:---|
+| De verplichting tot het verstrekken van de zorgvraagzwaarte op de factuur zoals opgenomen in deze regeling is, tot en met 31 december 2014, niet van toepassing op zorg die vanaf het moment van inwerkingtreding van deze regeling in het jaar 2014 door de zorgaanbieder wordt gedeclareerd. De eerste volzin is van overeenkomstige toepassing voor zorg die in het jaar 2014 door een zorgaanbieder is geleverd en welke zorg nog niet is gedeclareerd op het moment van inwerkingtreding van deze regeling.  |
+| --- |
+| Voor zorg waarop het gestelde in de twee voorgaande volzinnen van toepassing is geldt dat de component ‘zorgvraagzwaarte’ op de factuur dient te worden aangeduid met ‘000’.  |
+| --- |
+| De zorgaanbieder is verplicht de brongegevens waaruit de zorgvraagzwaarte-indicator is af te leiden te blijven registreren.  |
+| In een nieuwe versie van deze regeling neemt de NZa op hoe de zorgvraagzwaarte met ingang van 1 januari 2015 aangeleverd moet worden aan de zorgverzekeraar. In die versie van de regeling zal ook staan hoe de zorgvraagzwaarte-gegevens over de periode tot 31 december 2014 aangeleverd moeten worden bij de zorgverzekeraars.  |
 
 12.  *Deelprestaties*  De volgende deelprestaties worden onderscheiden: 
 
@@ -573,92 +584,71 @@ d. Beschikbaarheidcomponent crisis (BCC)
 
 e. Verblijf zonder overnachting (VZO)   Alle deelprestaties worden altijd in combinatie met een productgroep voor behandeling in rekening gebracht. Op de factuur wordt vermeld welke deelprestaties op welke datum geleverd zijn.  
 
-13.  *Lekenomschrijving*  Indien een zorgaanbieder aan de patiënt factureert, voegt hij op de factuur een lekenomschrijving met betrekking tot de geleverde zorg toe. Vermelding van de lekenomschrijving blijft achterwege, indien de zorgaanbieder de factuur rechtstreeks aan de zorgverzekeraar zendt.        
+13.  *Lekenomschrijving*  Indien een zorgaanbieder aan de patiënt factureert, voegt hij op de factuur een lekenomschrijving met betrekking tot de geleverde zorg toe. Vermelding van de lekenomschrijving blijft achterwege, indien de zorgaanbieder de factuur rechtstreeks aan de zorgverzekeraar zendt.      
 ### 6  
 
 ####Uitzondering in geval van privacybezwaren
 
-### 1  
+1.  *Privacyverklaring*  De artikelen 5.3, 5.11 en 5.13, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijft buiten toepassing indien de patiënt en de zorgaanbieder gezamenlijk een verklaring hebben ondertekend overeenkomstig bijlage 1.  
 
-####Privacyverklaring
+2.  *Inzenden verklaring*  De verklaring bedoeld in artikel 6.1 dient vóór, doch uiterlijk op het moment van indiening van de factuur bij de zorgverzekeraar in het bezit te worden gesteld van de zorgverzekeraar van de patiënt.  
 
-De artikelen 5.3, 5.11 en 5.13, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijft buiten toepassing indien de patiënt en de zorgaanbieder gezamenlijk een verklaring hebben ondertekend overeenkomstig bijlage 1.    
-### 2  
+3.  * Bewaren afschrift*  De zorgaanbieder houdt in zijn administratie een afschrift van de in artikel 6.1 bedoelde verklaring.  
 
-####Inzenden verklaring
+4.  * Aanpassen tarief*  In aanvulling op de uitzonderingsbepaling van artikel 6.1 en zo nodig in afwijking van artikel 5.4 zijn patiënt en zorgaanbieder gerechtigd om een tarief, niet hoger dan het geldende maximumtarief, te declareren zodanig dat dit afwijkende tarief niet herleidbaar is naar de diagnose. De zorgaanbieder, al dan niet in gezamenlijkheid met de patiënt, dient in dit geval in overleg met de zorgverzekeraar tot een afwijkende, doch voor beide partijen aanvaardbare betalingsprocedure te komen. De zorgverzekeraar is gehouden om binnen redelijke grenzen medewerking te verlenen aan de totstandkoming van zo’n betalingsprocedure.  
 
-De verklaring bedoeld in artikel 6.1 dient vóór, doch uiterlijk op het moment van indiening van de factuur bij de zorgverzekeraar in het bezit te worden gesteld van de zorgverzekeraar van de patiënt.    
-### 3  
+5.  * Controle door medisch adviseur*  Controle door de zorgverzekeraar op de rechtmatigheid van facturen, die op grond van artikel 6.1 door een zorgaanbieder, dan wel een patiënt, ter betaling aan die zorgverzekeraar zijn aangeboden, vindt plaats door of onder verantwoordelijkheid van een medisch adviseur.  
 
-####Bewaren afschrift
+6.  * Uitzondering voor zelfbetalers*  De artikelen 5.3, 5.11 en 5.13, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijven buiten toepassing indien een patiënt aan de zorgaanbieder te kennen geeft de factuur, resp. facturen, met betrekking tot de door hem genoten behandeling(en) zelf te zullen betalen, althans niet ter betaling bij zijn zorgverzekeraar aan te bieden.  
 
-De zorgaanbieder houdt in zijn administratie een afschrift van de in artikel 6.1 bedoelde verklaring.    
-### 4  
-
-####Aanpassen tarief
-
-In aanvulling op de uitzonderingsbepaling van artikel 6.1 en zo nodig in afwijking van artikel 5.4 zijn patiënt en zorgaanbieder gerechtigd om een tarief, niet hoger dan het geldende maximumtarief, te declareren zodanig dat dit afwijkende tarief niet herleidbaar is naar de diagnose. De zorgaanbieder, al dan niet in gezamenlijkheid met de patiënt, dient in dit geval in overleg met de zorgverzekeraar tot een afwijkende, doch voor beide partijen aanvaardbare betalingsprocedure te komen. De zorgverzekeraar is gehouden om binnen redelijke grenzen medewerking te verlenen aan de totstandkoming van zo’n betalingsprocedure.    
-### 5  
-
-####Controle door medisch adviseur
-
-Controle door de zorgverzekeraar op de rechtmatigheid van facturen, die op grond van artikel 6.1 door een zorgaanbieder, dan wel een patiënt, ter betaling aan die zorgverzekeraar zijn aangeboden, vindt plaats door of onder verantwoordelijkheid van een medisch adviseur.    
-### 6  
-
-####Uitzondering voor zelfbetalers
-
-De artikelen 5.3, 5.11 en 5.13, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijven buiten toepassing indien een patiënt aan de zorgaanbieder te kennen geeft de factuur, resp. facturen, met betrekking tot de door hem genoten behandeling(en) zelf te zullen betalen, althans niet ter betaling bij zijn zorgverzekeraar aan te bieden.    
+7.  * Factuur alsnog ter betaling indienen*  Indien een patiënt bedoeld in artikel 6.6 zich bedenkt en de factuur op een later moment alsnog ter betaling wil indienen bij zijn zorgverzekeraar, dan dient alsnog een verklaring als bedoeld in artikel 6.1 te worden ingevuld en ondertekend. De artikelen 6.2 tot en met 6.5 zijn in dat geval van overeenkomstige toepassing.      
 ### 7  
-
-####Factuur alsnog ter betaling indienen
-
-Indien een patiënt bedoeld in artikel 6.6 zich bedenkt en de factuur op een later moment alsnog ter betaling wil indienen bij zijn zorgverzekeraar, dan dient alsnog een verklaring als bedoeld in artikel 6.1 te worden ingevuld en ondertekend. De artikelen 6.2 tot en met 6.5 zijn in dat geval van overeenkomstige toepassing.     
-### 7  
-
-####Uitzondering
-
-De verplichtingen genoemd in de artikelen 2 tot en met 4.4, 5 en 6 van deze regeling zijn niet van toepassing op de OVP’s.    
-### 8  
 
 ####Intrekking oude regels
 
-Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling ‘Declaratiebepalingen DBC’s in de curatieve GGZ’, met kenmerk NR/CU-547, ingetrokken.    
+Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling ‘Gespecialiseerde GGZ’, met kenmerk NR/CU-551, ingetrokken.    
+### 8  
+
+####Uitzondering
+
+De verplichtingen als gesteld in de artikelen 2 tot en met 4.4 en 5 tot en met 6 van deze regeling zijn niet van toepassing op de OVP’s.    
 ### 9  
 
 ####Overgangsbepaling
 
-De regeling 'Declaratiebepalingen DBC’s in de curatieve GGZ’, met kenmerk NR/CU-547, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.    
+De nadere regel ‘gespecialiseerde GGZ’, met kenmerk NR/CU-551, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die nadere regel en die betrekking hebben op de periode waarvoor die nadere regel gold. Dit betekent dat voor overlopende DBC’s (DBC’s gestart in jaar t-1 en doorlopend in jaar t) de op het moment van opening van het DBC-zorgproduct geldende nadere regel van toepassing is.    
 ### 10  
 
 ####Inwerkingtreding en citeerregel
 
-Deze regeling treedt in werking met ingang van 1 augustus 2014 en vervalt met ingang van 1 januar 2015. Indien de Staatscourant waarin de mededeling als bedoeld in artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg (Wmg) wordt geplaatst, wordt uitgegeven na 1 augustus 2014, treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de mededeling wordt geplaatst en werkt zij terug tot en met 1 augustus 2014. Deze regeling kan worden aangehaald als: ‘Regeling gespecialiseerde GGZ’.     
+Deze regeling treedt in werking op het moment dat de Regeling van de Minister van Volksgezondheid Welzijn en Sport houdende de tijdelijke opschorting levering zorgzwaarte cGGZ met kenmerk 656441-125129-CZ in werking treedt. Indien de Staatscourant waarin de mededeling als bedoeld in artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg (Wmg) wordt geplaatst, wordt uitgegeven na publicatie van de Regeling van de Minister van Volksgezondheid Welzijn en Sport houdende de tijdelijke opschorting levering zorgzwaarte cGGZ treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de mededeling wordt geplaatst en werkt zij terug tot en met het moment van publicatie van de Regeling van de Minister van Volksgezondheid Welzijn en Sport houdende de tijdelijke opschorting levering zorgzwaarte cGGZ.      Deze regeling kan worden aangehaald als: ‘Regeling gespecialiseerde GGZ’.  
 
-Nederlandse Zorgautoriteit,
-M.A. Ruys,  
+Nederlandse Zorgautoriteit, 
+M.A. Ruys  
 voorzitter Raad van Bestuur a.i.   
 
 ### Bijlage  I  
 
-####– Privacyverklaring
+####Privacyverklaring
 
 Ondergetekenden:  
 
 | --- | --- |
 |:---|:---|
-| [*cliënt: Naam*]  | .......................................................................  |
-| [*cliënt: Geboortedatum verzekerde*]  | .......................................................................  |
-| [*cliënt: Verzekerdenummer*]  | .......................................................................  |
-| [*cliënt: BSN*]  | .......................................................................  |
-| [*DBC-traject: Openingsdatum*]  | .......................................................................  |
 | --- | --- |
-| en  | --- |
+|  *[cliënt: Naam]*   | ...................................................  |
+|  *[cliënt: Geboortedatum verzekerde] *   | ...................................................  |
+|  *[cliënt: Verzekerdenummer]*   | ...................................................  |
+|  *[cliënt: BSN]*   | ...................................................  |
+|  *[DBC-traject: Openingsdatum]*   | ...................................................  |
 | --- | --- |
-| [*zorgaanbieder: Naam praktijk/instelling*]  | .......................................................................  |
-| [*zorgaanbieder: Naam uitvoerder*]  | .......................................................................  |
-| [*zorgaanbieder: Adres*]  | .......................................................................  |
-| [*zorgaanbieder: AGB-code praktijk/instelling*]  | .......................................................................  |
-| [*zorgaanbieder: AGB-code uitvoerder*]  | .......................................................................  |
+|  *en*   | --- |
+| --- | --- |
+|  *[zorgaanbieder: Naam praktijk/instelling]*   | .............................................  |
+|  *[zorgaanbieder: Naam uitvoerder]*   | .............................................  |
+|  *[zorgaanbieder: Adres]*   | .............................................  |
+|  *[zorgaanbieder: AGB-code praktijk/instelling] *   | .............................................  |
+|  *[zorgaanbieder: AGB-code uitvoerder]*   | .............................................  |
 
 verklaren: 
 
@@ -672,27 +662,24 @@ verklaren:
 
 4. Dat de patiënt er uit oogpunt van bescherming van zijn persoonlijke levenssfeer bezwaar tegen heeft, dat MDS-gegevens als bedoeld in artikel 5 van de Regeling ‘Verplichte aanlevering minimale dataset curatieve GGZ’, aan DIS worden aangeleverd.  
 
-5. Dat de zorgaanbieder, in overeenstemming met artikel 6 van de Regeling ‘Verplichte aanlevering minimale dataset curatieve GGZ’, de aanlevering van de onder 4 bedoelde MDS-gegevens aan DIS achterwege zal laten.    
+5. Dat de zorgaanbieder, in overeenstemming met artikel 6 van de Regeling ‘Verplichte aanlevering minimale dataset curatieve GGZ’, de aanlevering van de onder 4 bedoelde MDS-gegevens aan DIS achterwege zal laten.   PLAATS: ................................................ DATUM: ...................................................  
 
 | --- | --- |
 |:---|:---|
 | --- | --- |
-| PLAATS: ................................................  | --- |
-| --- | --- |
-| DATUM: ................................................  | --- |
-| --- | --- |
 | Handtekening patiënt  | Handtekening zorgaanbieder  |
+| --- | --- |
 | --- | --- |
 | .............................................  | .........................................................  |
 
 ### Bijlage  II  
 
-####– Zorgtypen
+####Zorgtypen
 
 | Initiële DBC  | Code  | Zorgtype  |
 |:---|:---|:---|
 | 101  | Reguliere zorg  |
-| 106  | Second opinion-DBC  |
+| 106  | Second opinion  |
 | 107  | Zorg op basis van een tertiaire verwijzing  |
 | 108  | Langdurig periodieke controle (bij overname)  |
 | 109  | Bemoeizorg  |
@@ -704,7 +691,7 @@ verklaren:
 
 ####Reguliere zorg – 101
 
-Het zorgtype reguliere zorg wordt gebruikt oor patiënten met een nieuwe zorgvraag die vanuit de eerste lijn, door bijvoorbeeld de huisarts of een collega-specialist, zijn doorverwezen. 
+Het zorgtype reguliere zorg wordt gebruikt voor patiënten met een nieuwe zorgvraag die vanuit de eerste lijn, door bijvoorbeeld de huisarts of een collega-specialist, zijn doorverwezen. 
 
 ####Second opinion – 106
 
@@ -724,7 +711,7 @@ Dit zorgtype wordt geregistreerd als bemoeizorg de aanleiding is voor het starte
 
 ####Rechterlijke machtiging (RM) – 110
 
-Bij het zorgtype RM is er sprake van gedwongen opname in een psychiatrisch ziekenhuis in het kader van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen (Bopz). DBC’s met zorgtype RM moeten verblijfsdagen met overnachting bevatten en een activiteit uitgevoerd door een beroep uit het beroepencluster ‘medische beroepen’. Niet alle gevallen van rechterlijke machtiging vallen onder de Zvw/DBC-systematiek voor de GGZ. Een rechterlijke machtiging die wordt afgegeven voor iemand in detentie die tijdelijk moet worden opgenomen in een GGZ-instelling, valt onder het strafrecht en daarmee onder de systematiek voor forensische zorg in strafrechtelijk kader (DBBC-systematiek). 
+Bij het zorgtype RM is er sprake van gedwongen opname in een psychiatrisch ziekenhuis in het kader van de wet Bijzondere Opname Psychiatrische in Ziekenhuizen (Bopz). DBC’s met zorgtype RM moeten verblijfsdagen met overnachting bevatten en een activiteit uitgevoerd door een beroep uit het beroepencluster ‘medische beroepen’. Niet alle gevallen van rechterlijke machtiging vallen onder de Zvw/DBC-systematiek voor de GGZ. Een rechterlijke machtiging die wordt afgegeven voor iemand in detentie die tijdelijk moet worden opgenomen in een GGZ-instelling, valt onder het strafrecht en daarmee onder de systematiek voor forensische zorg in strafrechtelijk kader (DBBC-systematiek). 
 
 ####Inbewaringstelling (IBS) – 111
 
@@ -776,7 +763,7 @@ Dit vervolg zorgtype wordt geregistreerd als bemoeizorg de aanleiding is voor he
 
 ####Rechterlijke machtiging (RM) – 206
 
-Bij het vervolg zorgtype RM is er sprake van gedwongen opname in een psychiatrisch ziekenhuis in het kader van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen (Bopz). DBC’s met zorgtype RM moeten verblijfsdagen met overnachting bevatten en een activiteit geregistreerd door een beroep uit het beroepencluster ‘medische beroepen’. Niet alle gevallen van rechterlijke machtiging vallen onder de Zvw/DBC GGZ-systematiek. Een rechterlijke machtiging die wordt afgegeven voor iemand in detentie die tijdelijk moet worden opgenomen in een GGZ-instelling, valt onder het strafrecht en daarmee onder de systematiek voor forensische zorg in strafrechtelijk kader (DBBC-systematiek). 
+Bij het vervolg zorgtype RM is er sprake van gedwongen opname in een psychiatrisch ziekenhuis in het kader van de wet Bijzondere Opname Psychiatrische Ziekenhuizen (Bopz). DBC’s met zorgtype RM moeten verblijfsdagen met overnachting bevatten en een activiteit geregistreerd door een beroep uit het beroepencluster ‘medische beroepen’. Niet alle gevallen van rechterlijke machtiging vallen onder de Zvw/DBC GGZ-systematiek. Een rechterlijke machtiging die wordt afgegeven voor iemand in detentie die tijdelijk moet worden opgenomen in een GGZ-instelling, valt onder het strafrecht en daarmee onder de systematiek voor forensische zorg in strafrechtelijk kader (DBBC-systematiek). 
 
 ####Ondertoezichtstelling (OTS) – 210
 
@@ -805,7 +792,7 @@ Het gaat hier om een crisisinterventie met een klinische opname en is aan de ord
 
 ### Bijlage  III  
 
-####– Feitelijke classificatie van DSM-IV-TR
+####Feitelijke classificatie van DSM-IV-TR
 
 | AS 1: Klinische stoornissen  | DSM IV-TR  | Diagnosetabel  |
 |:---|:---|:---|
@@ -834,11 +821,11 @@ Het gaat hier om een crisisinterventie met een klinische opname en is aan de ord
 |:---|:---|:---|
 | Zwakzinnigheid (stoornissen in de kindertijd)  – Lichte zwakzinnigheid  – Matige zwakzinnigheid  – Ernstige zwakzinnigheid  – Diepe zwakzinnigheid  – Zwakzinnigheid, ernst niet gespecificeerd  | Restgroep diagnoses  |
 | Persoonlijkheidsstoornissen  – Paranoïde persoonlijkheidsstoornis  – Schizoïde persoonlijkheidsstoornis  – Schizotypische persoonlijkheidsstoornis  – Antisociale persoonlijkheidsstoornis  – Borderline persoonlijkheidsstoornis  – Theatrale persoonlijkheidsstoornis  – Narcistische persoonlijkheidsstoornis  – Ontwijkende persoonlijkheidsstoornis  – Afhankelijke persoonlijkheidsstoornis  – Obsessieve – compulsieve persoonlijkheidsstoornis  – Persoonlijkheidsstoornis NAO  – Uitgesteld/geen persoonlijkheidsstoornis  | Persoonlijkheidsstoornissen  |
-| Zwakbegaafdheid (Bijkomende problemen  die een reden voor zorg kunnen zijn)  | Restgroep diagnoses  |
+| Zwakbegaafdheid (Bijkomende problemen die een reden voor zorg kunnen zijn)  | Restgroep diagnoses  |
 
 | AS 3: Somatische aandoeningen  | DSM IV-TR  | Diagnosetabel  |
 |:---|:---|:---|
-| Diagnose op As3 complex  | Registreer alleen de somatische diagnoses die een directe relatie hebben met de As 1- of As 2-stoornis  |
+| Diagnose op As3 complex  | Registreer alleen de somatische diagnoses die een directe relatie hebben met de As 1-of As 2-stoornis  |
 | Diagnose op As3 enkelvoudig  |
 | Geen of geen relevante diagnose op As3  |
 
@@ -880,9 +867,9 @@ Het gaat hier om een crisisinterventie met een klinische opname en is aan de ord
 
 ### Bijlage  IV  
 
-####– Activiteiten- en verrichtingenlijst
+####Activiteiten- en verrichtingenlijst
 
-VARIANTEN IN BEHANDELACTIVITEITEN 
+####Varianten in behandelactiviteiten
 
 | Variant  | Omschrijving  |
 |:---|:---|
@@ -893,7 +880,7 @@ VARIANTEN IN BEHANDELACTIVITEITEN
 | Systeem (gezin/paar/ouders) zonder patiënt individueel  | Er wordt tijd besteed aan het systeem zonder dat de patiënt aanwezig is.  |
 | Systeem (gezin/paar/ouders) zonder patiënt in groep*  | Er wordt tijd besteed aan een groep van meerdere systemen van meerdere patiënten zonder dat de patiënten aanwezig zijn.  |
 
-* Wanneer er in een groep tijd aan het systeem wordt besteed gelden dezelfde registratieregels als bij groepstherapie. 
+*) Wanneer er in een groep tijd aan het systeem wordt besteed gelden dezelfde registratieregels als bij groepstherapie. 
 
 | Activiteit  | Soort  | Selecteerbaar  | Mag direct  | Mag indirect  | Mag reistijd  | Mag groep?  | DIAGNOSTIEK EN BEHANDELING  |--- |--- |--- |--- |--- |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1035,19 +1022,19 @@ VARIANTEN IN BEHANDELACTIVITEITEN
 | 3.6.7  | Systeem (gezin/paar/ouders) met patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
 |  *4. Begeleiding*   |  *Tijdschrijven*   |  *Nee*   | --- | --- | --- | --- |
 |  *4.1 *   |  *Activerend begeleidingscontact*   |  *Tijdschrijven*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |
-| 4.1.1  | Patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
-| 4.1.2  | Patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
-| 4.1.4  | Systeem (gezin/paar/ouders) zonder patiënt individu  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
-| 4.1.5  | Systeem (gezin/paar/ouders) zonder patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
-| 4.1.6  | Systeem (gezin/paar/ouders) met patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
-| 4.1.7  | Systeem (gezin/paar/ouders) met patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
+|  4.1.1  | Patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
+|  4.1.2  | Patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
+|  4.1.4  | Systeem (gezin/paar/ouders) zonder patiënt individu  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
+|  4.1.5  | Systeem (gezin/paar/ouders) zonder patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
+|  4.1.6  | Systeem (gezin/paar/ouders) met patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
+|  4.1.7  | Systeem (gezin/paar/ouders) met patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
 |  *4.2*   |  *Ondersteunend begeleidingscontact*   |  *Tijdschrijven*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |
-| 4.2.1  | Patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
-| 4.2.2  | Patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
-| 4.2.4  | Systeem (gezin/paar/ouders) zonder patiënt individu  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
-| 4.2.5  | Systeem (gezin/paar/ouders) zonder patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
-| 4.2.6  | Systeem (gezin/paar/ouders) met patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
-| 4.2.7  | Systeem (gezin/paar/ouders) met patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
+|  4.2.1  | Patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
+|  4.2.2  | Patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
+|  4.2.4  | Systeem (gezin/paar/ouders) zonder patiënt individu  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
+|  4.2.5  | Systeem (gezin/paar/ouders) zonder patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
+|  4.2.6  | Systeem (gezin/paar/ouders) met patiënt individueel  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Nee  |
+|  4.2.7  | Systeem (gezin/paar/ouders) met patiënt in groep  | Tijdschrijven  | Ja  | Ja  | Ja  | Ja  | Ja  |
 |  *5. Verpleging*   |  *Tijdschrijven*   |  *Nee*   | --- | --- | --- | --- |
 |  *5.1*   |  *Verpleging*   |  *Tijdschrijven*   |  *Ja*   |  *Ja*   |  *Ja*   |  *Ja*   |  *Ja*   |
 |  *6. Crisis*   |  *Tijdschrijven*   |  *Nee*   | --- | --- | --- | --- |
@@ -1063,7 +1050,7 @@ VARIANTEN IN BEHANDELACTIVITEITEN
 |  *7.3*   |  *Interne patiëntbespreking (MDO)*   |  *Tijdschrijven*   |  *Ja*   |  *Nee*   |  *Ja*   |  *Nee*   |  *Ja*   |
 |  *7.4*   |  *Extern overleg met derden (buiten de instelling)*   |  *Tijdschrijven*   |  *Ja*   |  *Nee*   |  *Ja*   |  *Nee*   |  *Ja*   |
 |  *7.5*   |  *Verslaglegging algemeen (b.v. correspondentie, brief)*   |  *Tijdschrijven*   |  *Ja*   |  *Nee*   |  *Ja*   |  *Nee*   |  *Ja*   |
-|  *7.6*   |  *Activiteiten ivm juridische procedures (b.v. IBS, Bopz)*   |  *Tijdschrijven*   |  *Ja*   | Nee  |  *Ja*   |  *Nee*   |  *Ja*   |
+|  *7.6*   |  *Activiteiten ivm juridische procedures (b.v. IBS, Bopz)*   |  *Tijdschrijven*   |  *Ja*   |  *Nee*   |  *Ja*   |  *Nee*   |  *Ja*   |
 |  *7.7*   |  *Regelen tolken*   |  *Tijdschrijven*   |  *Ja*   |  *Nee*   |  *Ja*   |  *Nee*   |  *Ja*   |
 |  *8. Verblijf (per verblijfsdag)*   |  *Verblijfsdag*   |  *Nee*   | --- | --- | --- | --- |
 |  *8.8*   |  *Verblijf met overnachting (24-uurs verblijf)*   |  *Verblijfsdag*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |
@@ -1076,7 +1063,7 @@ VARIANTEN IN BEHANDELACTIVITEITEN
 | 8.8.07  | Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)  | Verblijfsdag  | Ja  | Nee  | Nee  | Nee  | Nee  |
 |  *8.9*   |  *Verblijf zonder overnachting*   |  *Verblijfsdag*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |
 | 8.9.01  | Deelprestatie verblijf zonder overnachting  | Verblijfsdag  | Ja  | Nee  | Nee  | Nee  | Nee  |
-|  *9.*   |  *Dagbesteding*   |  *Dagbesteding*   |  *Nee*   | --- | --- | --- | --- |
+|  *9. Dagbesteding*   |  *Dagbesteding*   |  *Nee*   | --- | --- | --- | --- |
 | 9.1  | Dagbesteding sociaal (ontmoeting)  | Dagbesteding  | Ja  | Nee  | Nee  | Nee  | Nee  |
 | 9.2  | Dagbesteding activering (dagactiviteiten)  | Dagbesteding  | Ja  | Nee  | Nee  | Nee  | Nee  |
 | 9.3  | Dagbesteding educatie  | Dagbesteding  | Ja  | Nee  | Nee  | Nee  | Nee  |
@@ -1087,7 +1074,7 @@ VARIANTEN IN BEHANDELACTIVITEITEN
 |  *10.2*   |  *Ambulante methadon (medicijn, registratie per maand)*   |  *Verrichting*   |  *Ja*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |
 |  *10.3*   |  *Beschikbaarheidcomponent 24-uurs crisiszorg*   |  *Verrichting*   |  *Ja*   |  *Nee*   |  *Nee*   |  *Nee*   |  *Nee*   |
 
-CRISISACTIVEITEN TIJDENS DE CRISISDIENST 
+####Crisisactiveiten tijdens de crisisdienst
 
 | Crisisinterventie zonder opname (301  | Crisisinterventie met opname (302)  | DC:0-3  | Diagnosetabel  |
 |:---|:---|:---|:---|
@@ -1098,7 +1085,7 @@ CRISISACTIVEITEN TIJDENS DE CRISISDIENST
 
 ### Bijlage  V  
 
-####– Definities activiteiten en verrichtingen
+####Definities activiteiten en verrichtingen
 
 In deze bijlage zijn de definities opgenomen van de activiteiten en verrichtingen. In bijlage I is een lijst met activiteiten en verrichtingen opgenomen. 
 
@@ -1108,7 +1095,7 @@ In deze bijlage zijn de definities opgenomen van de activiteiten en verrichtinge
 
 ####Pré-intake
 
-Op deze activiteit wordt de indirect patiëntgebonden tijdsbesteding geschreven die wordt besteed aan patiënten voorafgaand aan de intake. Het is mogelijk dat een DBC met alleen pré-intake niet leidt tot een vervolgtraject en dus niet verder getypeerd zal worden. De DBC kan dan worden afgesloten met reden van sluiten pré-intake, intake of diagnostiek. Voorbeelden zijn: een patiënt proberen te bereiken voor een eerste afspraak, overleg met de verwijzer over de geschiktheid voor verwijzing van een potentiële patiënt. Onder pré-intake mogen geen activiteiten in het kader van openbare ggz of preventie worden geschreven. Op pré-intake kan alleen indirect patiëntgebonden tijd worden geregistreerd. 
+Op deze activiteit wordt de *indirect patiëntgebonden tijdsbesteding *geschreven die wordt besteed aan patiënten voorafgaand aan de intake. Het is mogelijk dat een DBC met alleen pré-intake niet leidt tot een vervolgtraject en dus niet verder getypeerd zal worden. De DBC kan dan worden afgesloten met reden van sluiten pré-intake, intake of diagnostiek. Voorbeelden zijn: een patiënt proberen te bereiken voor een eerste afspraak, overleg met de verwijzer over de geschiktheid voor verwijzing van een potentiële patiënt. Onder pré-intake mogen geen activiteiten in het kader van openbare ggz of preventie worden geschreven. Op pré-intake kan alleen indirect patiëntgebonden tijd worden geregistreerd. 
 
 ### 2  
 
@@ -1156,7 +1143,7 @@ iii. Psychotherapie: is opgesplitst in een aantal mogelijke soorten psychotherap
 
 iv. Overige (communicatieve) behandelcontacten betreffen alle activiteiten die vallen onder communicatieve behandeling maar niet zijn te plaatsen onder de hierboven genoemde groepen. Onder deze categorie kunnen we onder andere de volgende activiteiten rekenen: psycho-educatie, training patiënten, ouder-groepstraining, videohometraining, instructies, et cetera. Ook de somatische activiteiten en logopedie kunnen onder deze activiteit worden weggeschreven.   Op deze activiteiten wordt alle daarmee samenhangende patiëntgebonden tijd geschreven. Preventieve activiteiten die in het kader van het behandeltraject van de patiënt plaatsvinden, kunnen worden weggeschreven als directe tijd onder overige (communicatieve) behandelcontacten bijvoorbeeld leefstijltraining, educatieve behandeling et cetera.  
 
-b.  *Farmacotherapie: *dit betreft de medicamenteuze behandeling van psychiatrische en somatische aandoeningen bij patiënten (zowel klinisch als ambulant). Op deze activiteit wordt de directe en indirect patiëntgebonden tijd geschreven met betrekking tot het voorschrijven en toepassen van farmacotherapie (het consult).  
+b.  *Farmacotherapie:* dit betreft de medicamenteuze behandeling van psychiatrische en somatische aandoeningen bij patiënten (zowel klinisch als ambulant). Op deze activiteit wordt de directe en indirect patiëntgebonden tijd geschreven met betrekking tot het voorschrijven en toepassen van farmacotherapie (het consult).  
 
 c.  *Fysische therapie:* dit betreft de behandeling met behulp van fysische technieken. Daarbij worden fysische stimuli (zoals elektriciteit, magnetische golven et cetera) op (delen van) de hersenen gericht. De toediening van de stimuli kan binnen de schedel plaatsvinden, door de schedel heen of via afferente zenuwbanen. Deze vormen van behandeling zijn sterk in ontwikkeling. De volgende vormen van fysische therapie zijn opgenomen: 
 
@@ -1172,7 +1159,7 @@ v. Deep brain stimulation
 
 vi. Neurofeedback   De behandelaren registreren de door hen bestede patiëntgebonden tijd op deze activiteiten. Voor electroconvulsietherapie geldt dat de materiële kosten en de inzet van beroepen die niet voorkomen op de beroepentabel (bijvoorbeeld anesthesist, verkoeververpleegkundige) in kaart worden gebracht via registratie van een verrichting/behandeling ECT.  
 
-d.  *Vaktherapie*: dit is een verzamelnaam voor behandelingen die worden gekenmerkt door het non-verbale en ervaringsgerichte karakter. We onderscheiden daarbinnen de tijdsbesteding aan de volgende activiteiten: 
+d.  *Vaktherapie:* dit is een verzamelnaam voor behandelingen die worden gekenmerkt door het non-verbale en ervaringsgerichte karakter. We onderscheiden daarbinnen de tijdsbesteding aan de volgende activiteiten: 
 
 i. Creatieve therapie, zoals dramatherapie, beeldende therapie, muziek- en danstherapie.  
 
@@ -1198,7 +1185,7 @@ b.  *Ondersteunende begeleiding (OB):* omvat ondersteunende activiteiten in verb
 
 Verpleging in het kader van de Zvw kan als onderdeel van geneeskundige zorg (artikel 2.4 Bzv) voorkomen. Werkzaamheden die verpleegkundigen verrichten in het kader van geneeskundige zorg, behoren tot de prestatie geneeskundige zorg. In artikel 2.10 Bzv wordt er op gewezen dat verpleging een onderdeel kan zijn van verblijf. Tot slot is verpleging als afzonderlijke prestatie mogelijk in verband met medisch-specialistische zorg, maar zonder verblijf (artikel 2.11 Bzv). 
 
-### 7  
+### 6  
 
 ####Algemeen indirecte tijd
 
@@ -1226,19 +1213,19 @@ g.  *Regelen tolken:* de tijdsbesteding van een behandelaar die is gemoeid met h
 
 ####Crisis
 
-Deze activiteiten kunnen geregistreerd worden als er sprake is van een crisisinterventie. Alleen instellingen met een 24-uurs crisisdienst met een regionale functie kunnen deze activiteiten registreren. Een crisissituatie betreft een acute situatie die volgens één van beide partners direct ingrijpen noodzakelijk maakt ten einde direct gevaar voor de verwarde persoon of de omgeving af te wenden, dan wel om ernstige overlast te beëindigen. De acute situatie kan het gevolg zijn van een geestesstoornis d.w.z. een ernstige stoornis van het oordeelsvermogen, in het bijzonder, een psychotische toestand waarbij het handelen voortkomt uit hallucinaties of waanvoorstellingen, acute dreiging van suïcide of ernstige verwardheid als gevolg van een organische hersenaandoening.<sup> 25 Zie voor meer informatie het landelijk Convenant Politie – GGZ 2012. </sup>  
+Deze activiteiten kunnen geregistreerd worden als er sprake is van een crisisinterventie. Alleen *instellingen met een 24-uurs * *crisisdienst met een regionale functie *kunnen deze activiteiten registreren. Een crisissituatie betreft een acute situatie die volgens één van beide partners direct ingrijpen noodzakelijk maakt ten einde direct gevaar voor de verwarde persoon of de omgeving af te wenden, dan wel om ernstige overlast te beëindigen. De acute situatie kan het gevolg zijn van een geestesstoornis d.w.z. een ernstige stoornis van het oordeelsvermogen, in het bijzonder, een psychotische toestand waarbij het handelen voortkomt uit hallucinaties of waanvoorstellingen, acute dreiging van suïcide of ernstige verwardheid als gevolg van een organische hersenaandoening.<sup> 26 Zie voor meer informatie het landelijk Convenant Politie – GGZ 2012. </sup>  
 
 a.  *Crisiscontact binnen kantooruren:* een patiëntgebonden contact bij acute en/of niet-geplande problematiek, dat plaatsvindt in het kader van de 7x24-uurs dienst op maandag tot en met vrijdag, niet zijnde een feestdag, waarbij de (indirect of direct) patiëntgebonden tijd 50% of meer valt binnen de periode van 08.00 – 18.00 uur.  
 
-b.  *Crisiscontact buiten kantooruren:* een patiëntgebonden contact bij acute en/of niet-geplande problematiek, dat plaatsvindt in het kader van de 7x24-uurs dienst op zaterdagen, zondagen en feestdagen en ieder patiëntgebonden contact bij acute problematiek in het kader van de 7x24-uurs dienst op werkdagen waarbij de (indirect of direct) patiëntgebonden tijd voor meer dan 50% valt buiten de periode van 08.00-18.00 uur.  
+b.  *Crisiscontact buiten kantooruren:* een patiëntgebonden contact bij acute en/of niet-geplande problematiek, dat plaatsvindt in het kader van de 7x24-uurs dienst op zaterdagen, zondagen en feestdagen en ieder patiëntgebonden contact bij acute problematiek in het kader van de 7x24-uurs dienst op werkdagen waarbij de (indirect of direct) patiëntgebonden tijd voor meer dan 50% valt buiten de periode van 08.00–18.00 uur.  
 
-c.  *Intake en screening crisisinterventie*: alle (gesprek)activiteiten gericht op verduidelijking van de klachten en van de crisisinterventie.  
+c.  *Intake en screening crisisinterventie:* alle (gesprek)activiteiten gericht op verduidelijking van de klachten en van de crisisinterventie.  
 
 d.  *Psychiatrisch onderzoek crisisinterventie:* alle activiteiten in het kader van een psychiatrisch onderzoek tijdens de intake van de crisisinterventie, ter ondersteuning van de gegevensverzameling.  
 
 e.  *Farmacotherapie crisisinterventie:* dit betreft de medicamenteuze behandeling van psychiatrische en somatische aandoeningen bij patiënten tijdens een crisisinterventie. Op deze activiteit wordt de directe en indirect patiëntgebonden tijd geschreven met betrekking tot het voorschrijven en toepassen van farmacotherapie.  
 
-f.  *Steunend en structurerend crisiscontact: *dit contact is vooral gericht op de stabilisatie van de patiënt tijdens de crisisinterventie en op het voorkomen van verergering van gedrag- of psychische problematiek.   
+f.  *Steunend en structurerend crisiscontact:* dit contact is vooral gericht op de stabilisatie van de patiënt tijdens de crisisinterventie en op het voorkomen van verergering van gedrag- of psychische problematiek.   
 
 ####Verblijf
 
@@ -1246,7 +1233,7 @@ f.  *Steunend en structurerend crisiscontact: *dit contact is vooral gericht op 
 
 ####Verblijf met overnachting (24-uurs verblijf)
 
-**  Verblijf inclusief overnachtingen wordt geregistreerd in aanwezigheidsdagen. Er is sprake van aanwezigheid indien de patiënt gedurende de dag aanwezig is in de instelling. Indien de patiënt na 20.00 uur wordt opgenomen kan geen verblijfsdag meer worden geregistreerd. De patiënt is dan niet gedurende de dag aanwezig geweest. Afwezigheidsdagen (bijvoorbeeld voor weekend- of vakantieverlof) worden niet geregistreerd op de DBC van de patiënt.  Artikel 2.10 Bzv  
+Verblijf inclusief overnachtingen wordt geregistreerd in aanwezigheidsdagen. Er is sprake van aanwezigheid indien de patiënt gedurende de dag aanwezig is in de instelling. Indien de patiënt na 20.00 uur wordt opgenomen kan geen verblijfsdag meer worden geregistreerd. De patiënt is dan niet gedurende de dag aanwezig geweest. Afwezigheidsdagen (bijvoorbeeld voor weekend- of vakantieverlof) worden niet geregistreerd op de DBC van de patiënt.  *Artikel 2.10 Bzv*  
 
 1.  *Verblijf omvat verblijf gedurende een ononderbroken periode van ten hoogste 365 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in artikel 2.4, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.*   
 
@@ -1258,7 +1245,7 @@ f.  *Steunend en structurerend crisiscontact: *dit contact is vooral gericht op 
 
 ####Verblijf zonder overnachting
 
-VZO wordt geregistreerd in aanwezigheidsdagen. Er is sprake van aanwezigheid indien de patiënt een aantal uur aanwezig is, gemiddeld tussen 9.00 en 17.00 uur. De patiënt ontvangt gedurende de dag diverse vormen van diagnostiek en behandeling, maar verblijft ’s nachts niet in de instelling. Deze deelprestatie is bedoeld voor patiënten waarbij ondersteuning van verblijf met een VOV-functie noodzakelijk is voor een goed verloop van de diagnostiek en behandeling. VZO mag alleen geregistreerd worden, indien er voldaan is aan de registratie van minimaal twee direct patiëntgebonden activiteiten in de hoofdgroep diagnostiek en/of behandeling of de verrichting ECT en indien er niet meer dan vier uur direct patiëntgebonden tijd is geleverd 
+VZO wordt geregistreerd in aanwezigheidsdagen. Er is sprake van aanwezigheid indien de patiënt een aantal uur aanwezig is, gemiddeld tussen 9.00 en 17.00 uur. De patiënt ontvangt gedurende de dag diverse vormen van diagnostiek en behandeling, maar verblijft ’s nachts niet in de instelling. Deze deelprestatie is bedoeld voor patiënten waarbij ondersteuning van verblijf met een VOV-functie noodzakelijk is voor een goed verloop van de diagnostiek en behandeling. VZO mag alleen geregistreerd worden, indien er voldaan is aan de registratie van minimaal twee direct patiëntgebonden activiteiten in de hoofdgroep diagnostiek en/of behandeling of de verrichting ECT en indien er niet meer dan vier uur direct patiëntgebonden tijd is geleverd. 
 
 ####Dagbesteding
 
@@ -1282,7 +1269,7 @@ Dit gaat verder dan alleen anderen ontmoeten en betreft deelname aan recreatieve
 
 ### 3  
 
-#### dagbesteding educatie
+####Dagbesteding educatie
 
 Te denken valt aan een computercursus, een cursus boekbinden, lijsten maken, gitaarspelen, tekenen, bloemschikken, drama en toneel enzovoorts. Ook bij de educatieve activiteiten is er over het algemeen sprake van een vast weekprogramma en een groepsgewijs aanbod. Deelname is niet verplicht, maar het is de bedoeling dat de patiënten er iets van opsteken en daarom is deelname minder vrijblijvend dan bij de recreatieve activiteiten. 
 
@@ -1330,11 +1317,11 @@ Wanneer Methadon aan een patiënt wordt verstrekt, wordt dit per maand geregistr
 
 ####Beschikbaarheidcomponent 24-uurs crisiszorg
 
-Deze verrichting vergoedt de extra kosten voor de beschikbaarheidfunctie van de crisisdienst en de salaristoeslagen voor het werk van behandelaar buiten kantooruren. De verrichting mag maar één keer per crisis-DBC geregistreerd worden en alleen door instellingen met een 24-uurs crisisdienst met een regionale functie. Een beschikbaarheidcomponent voor 24-uurs crisiszorg kan enkel geregistreerd worden op een crisis-DBC die directe tijd bevat. Een crisis-DBC bevat altijd de activiteiten van de categorie ‘crisiscontacten’ én de verrichting ‘Beschikbaarheidcomponent voor 24-uurs crisiszorg. Is dat niet het geval, dan valt de DBC uit in de validatie. 
+Deze verrichting vergoedt de extra kosten voor de beschikbaarheidfunctie van de crisisdienst en de salaristoeslagen voor het werk van behandelaar buiten kantooruren. De verrichting mag maar één keer per crisis-DBC geregistreerd worden en alleen door *instellingen met een 24-uurs crisisdienst met een regionale functie. *Een beschikbaarheidcomponent voor 24-uurs crisiszorg kan enkel geregistreerd worden op een crisis-DBC die directe tijd bevat. Een crisis-DBC bevat altijd de activiteiten van de categorie ‘crisiscontacten’ én de verrichting ‘Beschikbaarheidcomponent voor 24-uurs crisiszorg. Is dat niet het geval, dan valt de DBC uit in de validatie. 
 
 ### Bijlage  VI  
 
-####– Beroepentabel
+####Beroepentabel
 
 ####Hoofdbehandelaar en behandelaren
 
@@ -1342,7 +1329,7 @@ De hoofdbehandelaar is een zorgverlener die, in reactie op de zorgvraag van een 
 
 ####De beroepentabel DBC GGZ
 
-De beroepentabel DBC ggz sluit aan bij een landelijk erkende indeling van beroepen: de beroepenstructuur van het Coördinerend Orgaan Nascholing en Opleiding in de GGZ (CONO). Het CONO heeft in haar beroepenstructuur die beroepen opgenomen, die bevoegd en bekwaam zijn om een rol te vervullen in de (individuele diagnosegerichte) behandeling van patiënten in de ggz. Het CONO sluit aan bij de in de Wet BIG geregistreerde beroepen en heeft hier de beroepen aan toegevoegd die (nog) niet geregistreerd zijn in de Wet BIG, maar binnen de GGZ wel eenzelfde landelijk erkende status hebben. Het model DBC ggz gaat uit van de versie van de CONO-beroepenstructuur, die dateert van 19 november 2004. De beroepenstructuur van het CONO onderscheidt zes beroepenclusters: de clusters medische, psychotherapeutische, agogische, psychologische, vaktherapeutische en verpleegkundige beroepen. In het model DBC ggz is hieraan een zevende cluster toegevoegd: de ‘somatische beroepen werkzaam in de GGZ’. Hierbinnen vallen die beroepen, die vanuit hun somatische beroep activiteiten in de GGZ uitvoeren, maar niet primair (breder) opgeleid zijn voor een rol in de GGZ. Denk hierbij aan de huisarts, neuroloog, klinisch geriater, fysiotherapeut en dergelijke. De complete beroepentabel DBC GGZ is hieronder opgenomen. Het CONO onderscheidt in elk beroepencluster vier niveaus. In de Wet BIG wordt bepaald wanneer sprake is van een basisberoep en van een specialisme. Het CONO heeft hier, met instemming van de Minister van VWS en van de Tweede Kamer, het initiële niveau en het niveau specialisatie/functiedifferentiatie aan toegevoegd. Bij de indeling van de in de instelling of praktijk werkzame behandelaren volgens de beroepentabel moet onderscheid gemaakt worden tussen: 
+De beroepentabel DBC ggz sluit aan bij een landelijk erkende indeling van beroepen: de beroepenstructuur van het Coördinerend Orgaan Nascholing en Opleiding in de GGZ (CONO). Het CONO heeft in haar beroepenstructuur die beroepen opgenomen, die bevoegd en bekwaam zijn om een rol te vervullen in de (individuele diagnosegerichte) behandeling van patiënten in de ggz. Het CONO sluit aan bij de in de Wet BIG geregistreerde beroepen en heeft hier de beroepen aan toegevoegd die (nog) niet geregistreerd zijn in de Wet BIG, maar binnen de GGZ wel eenzelfde landelijk erkende status hebben. Het model DBC ggz gaat uit van de versie van de CONO-beroepenstructuur, die dateert van 19 november 2004. De beroepenstructuur van het CONO onderscheidt zes beroepenclusters: de clusters medische, psychotherapeutische, agogische, psychologische, vaktherapeutische en verpleegkundige beroepen. In het model DBC ggz is hieraan een zevende cluster toegevoegd: de ‘somatische beroepen werkzaam in de GGZ’. Hierbinnen vallen die beroepen, die vanuit hun somatische beroep activiteiten in de GGZ uitvoeren, maar niet primair (breder) opgeleid zijn voor een rol in de GGZ. Denk hierbij aan de huisarts, neuroloog, klinisch geriater, fysiotherapeut en dergelijke. De complete beroepentabel DBC GGZ is hieronder opgenomen. Het CONO onderscheidt in elk beroepencluster vier niveaus. In de Wet BIG wordt bepaald wanneer sprake is van een basisberoep en van een specialisme. Het CONO heeft hier, met instemming van de minister van VWS en van de Tweede Kamer, het initiële niveau en het niveau specialisatie/functiedifferentiatie aan toegevoegd. Bij de indeling van de in de instelling of praktijk werkzame behandelaren volgens de beroepentabel moet onderscheid gemaakt worden tussen: 
 
 1.  *Beroepen:* die beroepen die worden onderscheiden op de beroepenstructuur van het CONO en daarmee (individueel) bevoegd/bekwaam zijn om een zelfstandige rol in het behandelproces van de patiënt in de tweedelijns GGZ te vervullen.  
 
@@ -1352,7 +1339,7 @@ De beroepentabel DBC ggz sluit aan bij een landelijk erkende indeling van beroep
 
 | Functiecode  | Korte functiebeschrijving  | Uitgebreide functiebeschrijving  |
 |:---|:---|:---|
-| MB  | Medische Beroepen  | Medische beroepen  |
+|  *MB*   |  *Medische Beroepen *   |  *Medische beroepen*   |
 |  *MB.BG *   |  *Basisberoep Gezondheidszorg (BG)*   |  *Basis beroep Gezondheidszorg (BG)*   |
 | MB.BG.basis  | MB – Arts  | Arts (waaronder Agio/Agnio)  |
 |  *MB.SF*   |  *Specialisatie/functiedifferentiatie (SF)*   |  *Specialisatie/functiedifferentiatie*   |
@@ -1422,11 +1409,11 @@ De beroepentabel DBC ggz sluit aan bij een landelijk erkende indeling van beroep
 
 ### Bijlage  VII  
 
-####– Deelprestaties verblijf (met en zonder overnachting)
+####Deelprestaties verblijf (met en zonder overnachting)
 
 | DEELPRESTATIE VERBLIJF A (LICHTE VERZORGINGSGRAAD)  |
 |:---|
-| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een *lichte* verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren. De behoefte aan begeleiding<sup>1</sup> door het VOV personeel<sup>2</sup> is *beperkt*. De nadruk ligt op het zelfoplossend vermogen en zelfregie van de patiënten.  VOV personeel is op afstand oproepbaar.  Voor zover patiënten mobiliteitsproblemen hebben vergen deze geen extra verzorging of toezicht.  Wat betreft de zelfstandigheid in de ADL<sup>3</sup>/BDL<sup>4</sup> is er *geen* begeleiding noodzakelijk. De zelfredzaamheid van de patiënten is groot.  |
+| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een lichte verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren. De behoefte aan begeleiding<sup>1</sup> door het VOV personeel<sup>2</sup> is beperkt. De nadruk ligt op het zelfoplossend vermogen en zelfregie van de patiënten.  VOV personeel is op afstand oproepbaar.  Voor zover patiënten mobiliteitsproblemen hebben vergen deze geen extra verzorging of toezicht.  Wat betreft de zelfstandigheid in de ADL<sup>3</sup>/BDL<sup>4</sup> is er geen begeleiding noodzakelijk. De zelfredzaamheid van de patiënten is groot.  |
 | Inzet VOV personeel  | Op deze setting wordt doorgaans niet meer dan 0,3 netto<sup>5</sup> fte<sup>6</sup> per bed/plaats ingezet.  |
 | Bedbezetting  | Het merendeel van de patiënten gaat in het kader van het behandelplan regelmatig enkele dagen (weekend of doordeweeks) naar het eigen huis en maakt dan geen gebruik van de verblijfsfaciliteiten.  |
 | Toezicht/beveiliging  | Patiënten kunnen zonder toestemming de setting verlaten, tenzij er vrijheidsbeperkende maatregelen zijn opgelegd.  |
@@ -1464,7 +1451,7 @@ De beroepentabel DBC ggz sluit aan bij een landelijk erkende indeling van beroep
 
 | DEELPRESTATIE VERBLIJF E (INTENSIEVE VERZORGINGSGRAAD)  |
 |:---|
-| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een i*ntensieve* verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  VOV Personeel is direct beschikbaar. Opschaling is mogelijk. De nadruk ligt op het aanbieden van oplossingen. Wat betreft de zelfstandigheid in het ADL/BDL is er *structureel begeleiding* op aanvraag/behoefte nodig. De zelfredzaamheid van de patiënten is wisselend. Wel is er volledige *begeleidende zorg* en permanent (opvoedkundig)* toezicht* door het VOV personeel noodzakelijk.  |
+| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een *intensieve* verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  VOV Personeel is direct beschikbaar. Opschaling is mogelijk. De nadruk ligt op het aanbieden van oplossingen. Wat betreft de zelfstandigheid in het ADL/BDL is er *structureel begeleiding* op aanvraag/behoefte nodig. De zelfredzaamheid van de patiënten is wisselend. Wel is er volledige *begeleidende zorg* en permanent (opvoedkundig) *toezicht* door het VOV personeel noodzakelijk.  |
 | Inzet VOV personeel  | Op deze setting wordt doorgaans meer dan 1,0 netto fte tot en met 1,3 netto fte per bed/plaats ingezet.  |
 | Bedbezetting  | De patiënten blijven tijdens de duur van de behandeling in de kliniek.  |
 | Toezicht/beveiliging  | Vrijheid beperkende maatregelen zijn op een groot gedeelte van de patiënten van toepassing. Patiënten verblijven veelal in een gesloten setting met matig intensieve bescherming, waarbij het grootste deel van de patiënten de setting niet zonder toestemming mag verlaten.  |
@@ -1472,10 +1459,10 @@ De beroepentabel DBC ggz sluit aan bij een landelijk erkende indeling van beroep
 
 | DEELPRESTATIE VERBLIJF F (EXTRA INTENSIEVE VERZORGINGSGRAAD)  |
 |:---|
-| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een *intensieve* verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  VOV Personeel is *permanent* beschikbaar. In voorkomende gevallen wordt hulp door personeel andere afdelingen geboden. De nadruk ligt op het opleggen van oplossingen.  Wat betreft de zelfstandigheid in het ADL/BDL is er *permanente begeleiding* nodig. De zelfredzaamheid van de patiënten is laag. Een gedeeltelijk overname van zorg en permanent (opvoedkundig) *toezicht* door VOV-personeel is noodzakelijk. Patiënten vertonen over het algemeen gedragsproblemen/agressie, dan wel verstoringen in het functioneren. In het algemeen is sprake van intensieve dagelijkse begeleiding en dagstructurering.  |
+| Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een *intensieve* verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren.  VOV Personeel is *permanent* beschikbaar. In voorkomende gevallen wordt hulp door personeel andere afdelingen geboden. De nadruk ligt op het opleggen van oplossingen.  Wat betreft de zelfstandigheid in het ADL/BDL is er *permanente begeleiding* nodig. De zelfredzaamheid van de patiënten is laag. Een gedeeltelijk overname van zorg en permanent (opvoedkundig) *toezicht* door VOV-personeel is noodzakelijk. Patiënten vertonen over het algemeen gedragsproblemen/agressie, dan wel  verstoringen in het functioneren. In het algemeen is sprake van intensieve dagelijkse begeleiding en dagstructurering.  |
 | Inzet VOV personeel  | Op deze setting wordt doorgaans meer dan 1,3 netto fte tot en met 1,7 netto fte per bed/plaats ingezet.  |
 | Bedbezetting  | De patiënten blijven tijdens de gehele duur van de behandeling in de kliniek.  |
-| Toezicht/beveiliging  | Vrijheid beperkende maatregelen zijn op een groot gedeelte van de patiënten van toepassing.  Patiënten verblijven voor een belangrijk deel ineen gesloten setting, beschermend en beveiligd, waarbij het grootste deel van de patiënten zich niet aan het toezicht kan onttrekken.  |
+| Toezicht/beveiliging  | Vrijheid beperkende maatregelen zijn op een groot gedeelte van de patiënten van toepassing.  Patiënten verblijven voor een belangrijk deel ineen gesloten setting,  beschermend en beveiligd, waarbij het grootste deel van de patiënten zich niet aan het  toezicht kan onttrekken.  |
 | Fysieke setting/Kenmerken huisvesting  | Overwegend gesloten setting met aanpassingen voor onder andere gedragsproblematiek. Er zijn separeer dan wel afzonderingsruimtes aanwezig. Voor mobiliteit geldt een algemene toeslag voor rolstoel gebruik.  |
 
 | DEELPRESTATIE VERBLIJF G (ZEER INTENSIEVE VERZORGINGSGRAAD)  |

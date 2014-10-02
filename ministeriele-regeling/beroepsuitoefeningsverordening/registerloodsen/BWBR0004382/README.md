@@ -3,12 +3,12 @@
 ##Beroepsuitoefeningsverordening registerloodsen
 
 De minister van Verkeer en Waterstaat,
-Gelet op de [artikelen 67, eerste lid](../../../../wet/loodsenwet/BWBR0004365/README.md), juncto [4, eerste lid](../../../../wet/loodsenwet/BWBR0004365/README.md), en [15, tweede lid, van de Loodsenwet ](../../../../wet/loodsenwet/BWBR0004365/README.md)(Stb. 1988, 353);
+Gelet op de artikelen 67, eerste lid, juncto 4, eerste lid, en 15, tweede lid, van de Loodsenwet (Stb. 1988, 353);
 Besluit:  
 
 ### Artikel I  
 
-De verordening, bedoeld in [artikel 15, eerste lid, onderdeel a, van de Loodsenwet](../../../../wet/loodsenwet/BWBR0004365/README.md) (Stb. 1988, 353), wordt als volgt vastgesteld:   *Verordening inzake een goede beroepsuitoefening door registerloodsen (Beroepsuitoefeningsverordening registerloodsen) *  
+De verordening, bedoeld in artikel 15, eerste lid, onderdeel a, van de Loodsenwet (Stb. 1988, 353), wordt als volgt vastgesteld:   *Verordening inzake een goede beroepsuitoefening door registerloodsen (Beroepsuitoefeningsverordening registerloodsen) *  
 ###*Artikel 1*
 
 1. Alvorens de registerloods enige dienst als registerloods mag uitoefenen, dient deze de navolgende eed (belofte) af te leggen: ‘Ik zweer, (beloof), dat ik in de uitoefening van mijn diensten als registerloods mij stipt zal gedragen naar de bestaande of nader uit te vaardigen regels, verordeningen en nadere voorschriften betreffende mijn beroepsuitoefening als registerloods en dat ik voorts als registerloods zal handelen, zoals een goed registerloods schuldig is te doen. Zo waarlijk helpe mij God almachtig (dat beloof ik)’. 
@@ -35,7 +35,7 @@ De registerloods moet vermijden enige verplichting aan te gaan die zijn vrijheid
 5.De algemene raad en het bestuur van de regionale loodsencorporatie kunnen ten aanzien van het eerste tot en met vierde lid nadere voorschriften geven. 
 ###*Artikel 4a*
 
-1.Onverminderd het bepaalde in [artikel 27 van de Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) is het de registerloods verboden zijn beroep uit te oefenen na zodanig gebruik van alcohol of van enige andere stof waarvan hij weet of redelijkerwijze moet weten dat het gebruik daarvan - al dan niet in combinatie met het gebruik van een andere stof - de vaardigheid voor het uitoefenen van zijn taken en bevoegdheden als genoemd in [artikel 2 van de Loodsenwet](../../../../wet/loodsenwet/BWBR0004365/README.md) op enigerlei wijze kan verminderen.
+1.Onverminderd het bepaalde in artikel 27 van de Scheepvaartverkeerswet is het de registerloods verboden zijn beroep uit te oefenen na zodanig gebruik van alcohol of van enige andere stof waarvan hij weet of redelijkerwijze moet weten dat het gebruik daarvan - al dan niet in combinatie met het gebruik van een andere stof - de vaardigheid voor het uitoefenen van zijn taken en bevoegdheden als genoemd in artikel 2 van de Loodsenwet op enigerlei wijze kan verminderen.
 
 2. Het bestuur van de regionale loodsencorporatie draagt zorg voor passende voorzieningen en zonodig voor nadere voorschriften om, in het geval er op grond van feiten of omstandigheden een redelijk vermoeden bestaat dat de registerloods het verbod als omschreven in het eerste lid heeft overtreden of gaat overtreden, zoveel mogelijk te verhinderen dat de registerloods gedurende de mogelijke invloed van de betreffende stof of stoffen zijn beroep uitoefent. 
 
@@ -60,14 +60,14 @@ De registerloods is verplicht tijdig, juist, en volledig te voldoen aan de admin
 De registerloods dient bij de uitoefening van zijn beroep als registerloods de door de algemene raad van de corporatie bepaalde uniforme kleding te dragen.
 ###*Artikel 9*
 
-1.De registerloods is verplicht de hem door de algemene raad van de corporatie, onderscheidenlijk door het bestuur van de regionale loodsencorporatie, waartoe hij behoort, opgedragen taken ter uitvoering van de [artikelen 9](../../../../wet/loodsenwet/BWBR0004365/README.md), [13](../../../../wet/loodsenwet/BWBR0004365/README.md) en [15 van de Loodsenwet](../../../../wet/loodsenwet/BWBR0004365/README.md) (Stb. 1988, 353) te verrichten met inachtneming van de door de algemene raad onderscheidenlijk het bestuur gegeven nadere voorschriften en richtlijnen.
+1.De registerloods is verplicht de hem door de algemene raad van de corporatie, onderscheidenlijk door het bestuur van de regionale loodsencorporatie, waartoe hij behoort, opgedragen taken ter uitvoering van de artikelen 9, 13 en 15 van de Loodsenwet (Stb. 1988, 353) te verrichten met inachtneming van de door de algemene raad onderscheidenlijk het bestuur gegeven nadere voorschriften en richtlijnen.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van de door de algemene raad van de corporatie, onderscheidenlijk door het bestuur van de regionale loodsencorporatie bepaalde of met derden overeengekomen taken.
 
 3. De in dit artikel bedoelde verplichtingen zijn beperkt tot die taken, waarvoor specifieke loodsdeskundigheid is vereist. 
 ###*Artikel 10*
 
-1. De registerloods, die krachtens het bepaalde in [artikel 63, eerste lid, van de Loodsenwet](../../../../wet/loodsenwet/BWBR0004365/README.md), in het register is ingeschreven en zijn verzoek daartoe vergezeld heeft doen gaan van een door hem in tweevoud ondertekende tekst van de eed (belofte), bedoeld in artikel 1, eerste lid, heeft daarmee voldaan aan het bepaalde in artikel 1. 
+1. De registerloods, die krachtens het bepaalde in artikel 63, eerste lid, van de Loodsenwet, in het register is ingeschreven en zijn verzoek daartoe vergezeld heeft doen gaan van een door hem in tweevoud ondertekende tekst van de eed (belofte), bedoeld in artikel 1, eerste lid, heeft daarmee voldaan aan het bepaalde in artikel 1. 
 
 2. Voor de toepassing van artikel 1, derde lid, geldt de in het eerste lid bedoelde schriftelijk afgelegde eed (belofte) als proces-verbaal. 
 ###*Artikel 11*
