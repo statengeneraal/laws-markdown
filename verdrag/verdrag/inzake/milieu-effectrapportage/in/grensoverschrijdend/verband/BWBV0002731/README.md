@@ -12,25 +12,25 @@ The Parties to this Convention, Aware of the interrelationship between economic 
 
 For the purposes of this Convention, 
 
-(i) "Parties" means, unless the text otherwise indicates, the Contracting Parties to this Convention;  
+(i) “Parties” means, unless the text otherwise indicates, the Contracting Parties to this Convention;  
 
-(ii) "Party of origin" means the Contracting Party or Parties to this Convention under whose jurisdiction a proposed activity is envisaged to take place;  
+(ii) “Party of origin” means the Contracting Party or Parties to this Convention under whose jurisdiction a proposed activity is envisaged to take place;  
 
-(iii) "Affected Party" means the Contracting Party or Parties to this Convention likely to be affected by the transboundary impact of a proposed activity;  
+(iii) “Affected Party” means the Contracting Party or Parties to this Convention likely to be affected by the transboundary impact of a proposed activity;  
 
-(iv) "Concerned Parties" means the Party of origin and the affected Party of an environmental impact assessment pursuant to this Convention;  
+(iv) “Concerned Parties” means the Party of origin and the affected Party of an environmental impact assessment pursuant to this Convention;  
 
-(v) "Proposed activity" means any activity or any major change to an activity subject to a decision of a competent authority in accordance with an applicable national procedure;  
+(v) “Proposed activity” means any activity or any major change to an activity subject to a decision of a competent authority in accordance with an applicable national procedure;  
 
-(vi) "Environmental impact assessment" means a national procedure for evaluating the likely impact of a proposed activity on the environment;  
+(vi) “Environmental impact assessment” means a national procedure for evaluating the likely impact of a proposed activity on the environment;  
 
-(vii) "Impact" means any effect caused by a proposed activity on the environment including human health and safety, flora, fauna, soil, air, water, climate, landscape and historical monuments or other physical structures or the interaction among these factors; it also includes effects on cultural heritage or socio-economic conditions resulting from alterations to those factors;  
+(vii) “Impact” means any effect caused by a proposed activity on the environment including human health and safety, flora, fauna, soil, air, water, climate, landscape and historical monuments or other physical structures or the interaction among these factors; it also includes effects on cultural heritage or socio-economic conditions resulting from alterations to those factors;  
 
-(viii) "Transboundary impact" means any impact, not exclusively of a global nature, within an area under the jurisdiction of a Party caused by a proposed activity the physical origin of which is situated wholly or in part within the area under the jurisdiction of another Party;  
+(viii) “Transboundary impact” means any impact, not exclusively of a global nature, within an area under the jurisdiction of a Party caused by a proposed activity the physical origin of which is situated wholly or in part within the area under the jurisdiction of another Party;  
 
-(ix) "Competent authority" means the national authority or authorities designated by a Party as responsible for performing the tasks covered by this Convention and/or the authority or authorities entrusted by a Party with decision-making powers regarding a proposed activity;  
+(ix) “Competent authority” means the national authority or authorities designated by a Party as responsible for performing the tasks covered by this Convention and/or the authority or authorities entrusted by a Party with decision-making powers regarding a proposed activity;  
 
-(x) "The Public" means one or more natural or legal persons.  
+(x) “The Public” means one or more natural or legal persons and, in accordance with national legislation or practice, their associations, organizations or groups.  
 
 ### Article  2  
 
@@ -58,7 +58,7 @@ a) Information on the proposed activity, including any available information on 
 
 b) The nature of the possible decision; and  
 
-c) An indication of a reasonable time within which a response under paragraph 3 of this Article is required, taking into acount the nature of the proposed activity,   and may include the information set out in paragraph 5 of this Article.  
+c) An indication of a reasonable time within which a response under paragraph 3 of this Article is required, taking into account the nature of the proposed activity,   and may include the information set out in paragraph 5 of this Article.  
 3.  The affected Party shall respond to the Party of origin within the time specified in the notification, acknowledging receipt of the notification, and shall indicate whether it intends to participate in the environmental impact assessment procedure.  
 4. If the affected Party indicates that it does not intend to participate in the environmental impact assessment procedure, or if it does not respond within the time specified in the notification, the provisions in paragraphs 5, 6, 7 and 8 of this Article and in Articles 4 to 7 will not apply. In such circumstances the right of a Party of origin to determine whether to carry out an environmental impact assessment on the basis of its national law and practice is not prejudiced. 
 5.  Upon receipt of a response from the affected Party indicating its desire to participate in the environmental impact assessment procedure, the Party of origin shall, if it has not already done so, provide to the affected Party: 
@@ -168,7 +168,7 @@ a) The convening and preparing of meetings of the Parties;
 
 b) The transmission of reports and other information received in accordance with the provisions of this Convention to the Parties; and  
 
-c) The performance of other funtions as may be provided for in this Convention or as may be determined by the Parties.   
+c) The performance of other functions as may be provided for in this Convention or as may be determined by the Parties.   
 
 ### Article  14  
 
@@ -176,9 +176,9 @@ c) The performance of other funtions as may be provided for in this Convention o
 
 1.  Any Party may propose amendments to this Convention.   
 2.  Proposed amendments shall be submitted in writing to the secretariat, which shall communicate them to all Parties. The proposed amendments shall be discussed at the next meeting of the Parties, provided these proposals have been circulated by the secretariat to the Parties at least ninety days in advance.   
-3.  The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majortity vote of the Parties present and voting at the meeting.   
+3.  The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting at the meeting.   
 4.  Amendments to this Convention adopted in accordance with paragraph 3 of this Article shall be submitted by the Depositary to all Parties for ratification, approval or acceptance. They shall enter into force for Parties having ratified, approved or accepted them on the ninetieth day after the receipt by the Depositary of notification of their ratification, approval or acceptance by at least three fourths of these Parties. Thereafter they shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments.   
-5.  For the purpose of this Article, "Parties present and voting" means Parties present and casting an affirmative or negative vote.   
+5.  For the purpose of this Article, “Parties present and voting” means Parties present and casting an affirmative or negative vote.   
 6.  The voting procedure set forth in paragraph 3 of this Article is not intended to constitute a precedent for future agreements negotiated within the Economic Commission for Europe.  
 
 ### Article  15  
@@ -204,18 +204,20 @@ This Convention shall be open for signature at Espoo (Finland) from 25 February 
 ####Ratification, acceptance, approval and accession
 
 1.  This Convention shall be subject to ratification, acceptance or approval by signatory States and regional economic integration organizations.   
-2.  This Convention shall be open for accession as from 3 September 1991 by the States and organizations referred to in Article 16.   
-3.  The instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary-General of the United Nations, who shall perform the functions of Depositary.   
-4.  Any organization referred to in Article 16 which becomes a Party to this Convention without any of its member States being a Party shall be bound by all the obligations under this Convention. In the case of such organizations, one or more of whose member States is a Party to this Convention, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Convention. In such cases, the organization and the member States shall not be entitled to exercise rights under this Convention concurrently.  
-5. In their instruments of ratification, acceptance, approval or accession, the regional economic integration organizations referred to in Article 16 shall declare the extent of their competence with respect to the matters governed by this Convention. These organizations shall also inform the Depositary of any relevant modification to the extent of their competence.
+2.  This Convention shall be open for accession as from 3 September 1991 by the States and organizations referred to in Article 16.  
+3. Any other State, not referred to in paragraph 2 of this Article, that is a Member of the United Nations may accede to the Convention upon approval by the Meeting of the Parties. The Meeting of the Parties shall not consider or approve any request for accession by such a State until this paragraph has entered into force for all the States and organizations that were Parties to the Convention on 27 February 2001. 
+4.  The instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary-General of the United Nations, who shall perform the functions of Depositary.   
+5.  Any organization referred to in Article 16 which becomes a Party to this Convention without any of its member States being a Party shall be bound by all the obligations under this Convention. In the case of such organizations, one or more of whose member States is a Party to this Convention, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Convention. In such cases, the organization and the member States shall not be entitled to exercise rights under this Convention concurrently.  
+6. In their instruments of ratification, acceptance, approval or accession, the regional economic integration organizations referred to in Article 16 shall declare the extent of their competence with respect to the matters governed by this Convention. These organizations shall also inform the Depositary of any relevant modification to the extent of their competence.
+7.  Any State or organization that ratifies, accepts or approves this Convention shall be deemed simultaneously to ratify, accept or approve the amendment to the Convention set out in decision II/14 taken at the second meeting of the Parties.
 
 ### Article  18  
 
 ####Entry into force
 
 1.  This Convention shall enter into force on the ninetieth day after the date of deposit of the sixteenth instrument of ratification, acceptance, approval or accession.   
-2.  For te purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by States members of such an organization.   
-3.  For each State or organization referred to in Article 16 which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the sixteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on te ninetieth day after the date of deposit by such State or organization of its instrument of ratification, acceptance, approval or accession.  
+2.  For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by States members of such an organization.   
+3.  For each State or organization referred to in Article 16 which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the sixteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the ninetieth day after the date of deposit by such State or organization of its instrument of ratification, acceptance, approval or accession.  
 
 ### Article  19  
 
@@ -337,7 +339,7 @@ In considering proposed activities to which Article 2, paragraph 5, applies, the
 
 a)Size: proposed activities which are large for the type of the activity;
 
-b)Location: proposed activities which are located in or close to an area of special environmental sensitivity or importance (such as wetlands designated under the Ramsar Convention, national parks, nature reserves, sites of special scientific interest, or sites of archaelogical, cultural or historical importance), also, proposed activities in locations where the characteristics of proposed development would be likely to have significant effects on the population;
+b)Location: proposed activities which are located in or close to an area of special environmental sensitivity or importance (such as wetlands designated under the Ramsar Convention, national parks, nature reserves, sites of special scientific interest, or sites of archaeological, cultural or historical importance), also, proposed activities in locations where the characteristics of proposed development would be likely to have significant effects on the population;
 
 c)Effects: proposed activities with particularly complex and potentially adverse effects, including those giving rise to serious effects on humans or on valued species or organisms, those which threaten the existing or potential use of an affected area and those causing additional loading which cannot be sustained by the carrying capacity of the environment. 
 
@@ -557,7 +559,7 @@ viii. „Grensoverschrijdend effect”: ieder effect, niet uitsluitend van mondi
 
 ix. „Bevoegde autoriteit”: de nationale autoriteit of autoriteiten die een Partij belast met de uitvoering van de in dit Verdrag vervatte taken en/of de autoriteit of autoriteiten aan welke een Partij de beslissingsbevoegdheid ten aanzien van een voorgenomen activiteit heeft opgedragen;  
 
-x. „Het publiek”: een of meer natuurlijke personen of rechtspersonen.   
+x. „Het publiek”: een of meer natuurlijke personen of rechtspersonen en, in overeenstemming met de nationale wetgeving of praktijk, hun verenigingen, organisaties of groepen.   
 
 ### Artikel  2  
 
@@ -594,7 +596,7 @@ a. relevante informatie over de milieu-effectrapportageprocedure, waarin mede de
 
 b. relevante informatie over de voorgenomen activiteit en over het mogelijke belangrijke nadelige grensoverschrijdende effect ervan.     
 6.  Een mogelijk benadeelde Partij verstrekt de Partij van herkomst, indien deze daarom verzoekt, informatie, mits redelijkerwijs verkrijgbaar, over het mogelijk benadeelde milieu onder de rechtsmacht van de mogelijk benadeelde Partij, indien deze informatie vereist is voor het opstellen van het milieu-effectrapport. De informatie wordt onverwijld verstrekt, eventueel door tussenkomst van een gezamenlijk lichaam.   
-7.  Wanneer een Partij van mening is dat zij een belangrijk nadelig grensoverschrijdend effect zou kunnen ondervinden van een in Aanhangsel I genoemde voorgenomen activiteit, en indien geen kennisgeving is gedaan in overeenstemming met het eerste lid van dit artikel, wisselen de betrokken Partijen, op verzoek van de mogelijk benadeelde Partij, voldoende informatie uit voor het houden van besprekingen over de vraag of er mogelijk een belangrijk nadelig grensoverschrijdend effect zal optreden. Indien die Partijen overeenkomen dat deze mogelijkheid aanwezig is, zijn de bepalingen van dit Verdrag dienovereenkomstig van toepassing. Indien de Partijen het niet eens kunnen worden over de vraag of er mogelijk een belangrijk nadelig grensoverschrijdend effect zal optreden, kan elk van die Partijen deze vraag in overeenstemming met de bepalingen van Aanhangsel IV voorleggen aan een onderzoekscommissie, met het vezoek om advies over de mogelijkheid dat een belangrijk nadelig grensoverschrijdend effect zal optreden, tenzij de Partijen een andere methode overeenkomen voor het oplossen van deze vraag.   
+7.  Wanneer een Partij van mening is dat zij een belangrijk nadelig grensoverschrijdend effect zou kunnen ondervinden van een in Aanhangsel I genoemde voorgenomen activiteit, en indien geen kennisgeving is gedaan in overeenstemming met het eerste lid van dit artikel, wisselen de betrokken Partijen, op verzoek van de mogelijk benadeelde Partij, voldoende informatie uit voor het houden van besprekingen over de vraag of er mogelijk een belangrijk nadelig grensoverschrijdend effect zal optreden. Indien die Partijen overeenkomen dat deze mogelijkheid aanwezig is, zijn de bepalingen van dit Verdrag dienovereenkomstig van toepassing. Indien de Partijen het niet eens kunnen worden over de vraag of er mogelijk een belangrijk nadelig grensoverschrijdend effect zal optreden, kan elk van die Partijen deze vraag in overeenstemming met de bepalingen van Aanhangsel IV voorleggen aan een onderzoekscommissie, met het verzoek om advies over de mogelijkheid dat een belangrijk nadelig grensoverschrijdend effect zal optreden, tenzij de Partijen een andere methode overeenkomen voor het oplossen van deze vraag.   
 8.  De betrokken Partijen dragen er zorg voor dat het publiek van de mogelijk benadeelde Partij in de gebieden die het grensoverschrijdende effect mogelijk raakt, wordt geïnformeerd over de voorgenomen activiteit, en de gelegenheid wordt geboden commentaar te geven op of bezwaar te maken tegen de voorgenomen activiteit, en dit commentaar of bezwaar, hetzij rechtstreeks, hetzij door tussenkomst van de Partij van herkomst, te doen toekomen aan de bevoegde autoriteit van de Partij van herkomst.  
 
 ### Artikel  4  
@@ -731,10 +733,12 @@ Dit Verdrag staat van 25 februari tot 1 maart 1991 te Espoo (Finland), en daarna
 ####Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1.  Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door ondertekenende Staten en regionale organisaties voor economische integratie.   
-2.  Dit Verdrag staat vanaf 3 september 1991 open voor toetreding door de in artikel 16 bedoelde Staten en organisaties.   
-3.  De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die de functie van Depositaris vervult.   
-4.  Iedere organisatie zoals bedoeld in artikel 16 die Partij wordt bij dit Verdrag zonder dat een van haar lidstaten Partij is, is gebonden door alle verplichtingen krachtens dit Verdrag. Wanneer een of meer lidstaten van een zodanige organisatie Partij bij dit Verdrag zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens het Verdrag. In dat geval mogen de organisatie en de lidstaten niet tegelijkertijd rechten krachtens dit Verdrag uitoefenen.   
-5.  In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in artikel 16 bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Verdrag vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheid.  
+2.  Dit Verdrag staat vanaf 3 september 1991 open voor toetreding door de in artikel 16 bedoelde Staten en organisaties.  
+3. Elke andere, niet in het tweede lid van dit artikel bedoelde, Staat die lid is van de Verenigde Naties kan, na goedkeuring door de Vergadering van de Partijen, toetreden tot het Verdrag. De Vergadering van de Partijen kan een verzoek tot toetreding van een dergelijke Staat pas overwegen of goedkeuren nadat dit lid in werking is getreden voor alle Staten en organisaties die op 27 februari 2001 Partij waren bij het Verdrag. 
+4.  De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die de functie van Depositaris vervult.   
+5.  Iedere organisatie zoals bedoeld in artikel 16 die Partij wordt bij dit Verdrag zonder dat een van haar lidstaten Partij is, is gebonden door alle verplichtingen krachtens dit Verdrag. Wanneer een of meer lidstaten van een zodanige organisatie Partij bij dit Verdrag zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens het Verdrag. In dat geval mogen de organisatie en de lidstaten niet tegelijkertijd rechten krachtens dit Verdrag uitoefenen.   
+6.  In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in artikel 16 bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Verdrag vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheid.  
+7. Elke Staat of organisatie die dit Verdrag bekrachtigt, aanvaardt of goedkeurt, wordt geacht tegelijkertijd de wijziging van het Verdrag als vastgesteld in Besluit II/14, genomen tijdens de tweede vergadering van de Partijen, te bekrachtigen, te aanvaarden of goed te keuren.
 
 ### Artikel  18  
 
@@ -866,7 +870,7 @@ a *omvang:* voorgenomen activiteiten die voor dat soort activiteit een grote omv
 
 b *plaats:* voorgenomen activiteiten die zouden plaatsvinden in of nabij een gebied waar het milieu bijzonder kwetsbaar is, of dat van bijzonder belang is (bijvoorbeeld watergebieden die als bijzonder gelden krachtens de Overeenkomst van Ramsar, nationale parken, natuurreservaten, gebieden van bijzonder wetenschappelijk belang, of van archeologische, culturele of historische betekenis); alsmede voorgenomen activiteiten op plaatsen waar de kenmerken van een voorgenomen ontwikkeling belangrijke nadelige gevolgen voor de bevolking zou hebben;
 
-c. *gevolgen:* voorgenomen activiteiten met bijzonder ingewikkelde en mogelijk nadelige gevolgen, waaronder activiteiten die ernstige gevolgen zouden hebben voor mensen of voor waardevolle plante- en diersoorten of organismen, activiteiten waardoor het bestaan of het mogelijke nut van een gebied wordt bedreigd, en activiteiten die een extra belasting veroorzaken waartegen het milieu niet bestand is. 
+c. *gevolgen:* voorgenomen activiteiten met bijzonder ingewikkelde en mogelijk nadelige gevolgen, waaronder activiteiten die ernstige gevolgen zouden hebben voor mensen of voor waardevolle planten- en diersoorten of organismen, activiteiten waardoor het bestaan of het mogelijke nut van een gebied wordt bedreigd, en activiteiten die een extra belasting veroorzaken waartegen het milieu niet bestand is. 
 
 ###2 
 

@@ -291,20 +291,18 @@ c. de omzet van het openbaar vervoer hoofdzakelijk afkomstig is van de reizigers
 a. internationaal passagiersvervoer als hoofddoel heeft, of  
 
 b. het daarvan deel uitmakende vervoer van passagiers tussen stations in Nederland het economisch evenwicht van een of meer concessies van een spoorwegonderneming in gedrang brengt.     
-3.  De Autoriteit Consument en Markt is bevoegd de inlichtingen te vorderen en de inzage van zakelijke gegevens en bescheiden te vorderen die zij redelijkerwijs nodig heeft voor de behandeling van een aanvraag als bedoeld in het tweede lid.   
-4.  Een ieder, met uitzondering van de personen, bedoeld in artikel 5:20, tweede lid, van de Algemene wet bestuursrecht, is verplicht binnen redelijke termijn de door de Autoriteit Consument en Markt gevorderde inlichtingen te verstrekken of de gevorderde inzage van zakelijke gegevens en bescheiden te verlenen.   
-5.  De Autoriteit Consument en Markt geeft de beschikking op de aanvraag binnen acht weken na ontvangst van de overeenkomstig het derde lid gevorderde gegevens en bescheiden.   
-6.  De Autoriteit Consument en Markt doet mededeling van de aanvraag, en van de beschikking, bedoeld in het vijfde lid, aan de betrokken beheerder, bedoeld in artikel 1, onderdeel h, van de Spoorwegwet en doet mededeling van die beschikking in de Staatscourant.   
-7.  Onze Minister kan, binnen acht weken na de mededeling bedoeld in het zesde lid, van een beschikking als bedoeld in het tweede lid, onderdeel b, besluiten om het vervoer van passagiers tussen stations in Nederland te beperken, mits: 
+3.  De Autoriteit Consument en Markt geeft de beschikking op de aanvraag binnen acht weken na ontvangst van de overeenkomstig artikel 6b van de Instellingswet Autoriteit Consument en Markt gevorderde gegevens en bescheiden.   
+4.  De Autoriteit Consument en Markt doet mededeling van de aanvraag, en van de beschikking, bedoeld in het derde lid, aan de betrokken beheerder, bedoeld in artikel 1, onderdeel h, van de Spoorwegwet en doet mededeling van die beschikking in de Staatscourant.   
+5.  Onze Minister kan, binnen acht weken na de mededeling bedoeld in het vierde lid, van een beschikking als bedoeld in het tweede lid, onderdeel b, besluiten om het vervoer van passagiers tussen stations in Nederland te beperken, mits: 
 
 a. de Autoriteit Consument en Markt, op grond van het tweede lid, onderdeel b, heeft vastgesteld dat dit vervoer het economisch evenwicht van een of meer concessies van een spoorwegonderneming in gedrang brengt;  
 
 b. Onze Minister hierbij de beschikbare kwaliteit voor de reiziger en de financiële belangen van een of meer betrokken concessiehouders in acht neemt, en  
 
 c. de gestelde beperkingen niet verder gaan dan noodzakelijk is om het in gedrang komen van het economisch evenwicht van een of meer concessies van een spoorwegonderneming te voorkomen.   Onze Minister kan binnen de genoemde termijn van acht weken besluiten om deze termijn met ten hoogste zes weken te verlengen.   
-8.  Onze Minister beperkt het vervoer van passagiers tussen stations in Nederland voor grensoverschrijdend openbaar vervoer per trein zonder concessie op het traject waarvoor de aan HSA beheer N.V. verleende concessie voor de duur van vijftien jaar, met aanvangsdatum 1 juli 2009, van toepassing is.   
-9.  Het tweede lid, onderdeel b, en het zevende lid zijn niet van toepassing op het vervoer, bedoeld in het achtste lid.   
-10.  Het personenvervoer per trein in strijd met de krachtens het zevende dan wel het achtste lid vastgestelde beperkingen is verboden.  
+6.  Onze Minister beperkt het vervoer van passagiers tussen stations in Nederland voor grensoverschrijdend openbaar vervoer per trein zonder concessie op het traject waarvoor de aan HSA beheer N.V. verleende concessie voor de duur van vijftien jaar, met aanvangsdatum 1 juli 2009, van toepassing is.   
+7.  Het tweede lid, onderdeel b, en het vijfde lid zijn niet van toepassing op het vervoer, bedoeld in het achtste lid.   
+8.  Het personenvervoer per trein in strijd met de krachtens het vijfde dan wel het zesde lid vastgestelde beperkingen is verboden.  
 
 ### §  2  
 
@@ -706,9 +704,8 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Een beschikking tot intrekking van een verklaring van geen bezwaar treedt niet eerder in werking dan dertien weken na de datum van haar bekendmaking. Zij werkt niet terug.  
 
 ### Artikel  60  
-Treedt in werking op een nader te bepalen tijdstip 
 
-Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtingen die hij nodig heeft voor de uitoefening van de hem in deze paragraaf toegekende bevoegdheden. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/247.Concessieverleners en vervoerders verstrekken de raad van bestuur van de mededingingsautoriteit de inlichtingen die hij nodig heeft voor de uitoefening van de hem in deze paragraaf toegekende bevoegdheden. 
 
 ### §  4  
 
@@ -732,7 +729,7 @@ Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtin
 
 ### Artikel  63  
 
-1.  Onze Minister kan de raad van bestuur van de mededingingsautoriteit verzoeken een rapportage uit te brengen inzake de effecten voor de mededinging op de Nederlandse markt voor openbaar vervoer of een deel daarvan, van een op een aanvraag als bedoeld in artikel 61, tweede lid te nemen besluit.   
+1.  Onze Minister kan de Autoriteit Consument en Markt verzoeken een rapportage uit te brengen inzake de effecten voor de mededinging op de Nederlandse markt voor openbaar vervoer of een deel daarvan, van een op een aanvraag als bedoeld in artikel 61, tweede lid te nemen besluit.   
 2.  De rapportage is niet eerder openbaar dan nadat Onze Minister een besluit over de aanvraag heeft genomen.   
 3.  De rapportage wordt meegezonden met de beslissing op de aanvraag.  
 
@@ -750,7 +747,7 @@ In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar
 
 ### Artikel  63ab  
 
-1.  De raad van bestuur van de mededingingsautoriteit voert een prestatievergelijking uit van vervoerders aan wie op grond van artikel 63a een concessie is verleend, die betrekking heeft op de klantenservice, kostenefficiëntie en doelmatigheid van de vervoerders.   
+1.  De Autoriteit Consument en Markt voert een prestatievergelijking uit van vervoerders aan wie op grond van artikel 63a een concessie is verleend, die betrekking heeft op de klantenservice, kostenefficiëntie en doelmatigheid van de vervoerders.   
 2.  Bij ministeriele regeling kunnen nadere regels worden gesteld ten behoeve van de onderlinge vergelijkbaarheid van de verschillende vervoerders en de frequentie van de prestatievergelijking.  
 
 ### Artikel  63b  
@@ -1151,14 +1148,14 @@ c. de bij besluit van het college van burgemeester en wethouders van de desbetre
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, van verordening 1071/2009/EG en van verordening 1073/2009/EG zijn voorts belast de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren en de met betrekking tot deze wet krachtens artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten aangewezen ambtenaren.   
 3.  Onverminderd het bepaalde in het eerste en tweede lid zijn met het toezicht op de naleving van het bij of krachtens de artikelen 70 tot en met 74 bepaalde mede belast personen die daartoe door de vervoerder zijn aangewezen.   
 4.  Met het toezicht op de naleving van het bepaalde bij verordening 1371/2007/EG zijn de bij besluit van Onze Minister aangewezen personen belast.  
-5.  Met het toezicht op de naleving van het bepaalde bij of krachtens artikel 63c, vierde, zesde tot en met tiende lid en elfde lid, onderdeel c, voor zover artikel 87, vierde lid, op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.   
+5.  Met het toezicht op de naleving van het bepaalde bij of krachtens artikel 63c, vierde, zesde tot en met tiende lid en elfde lid, onderdeel b, voor zover artikel 87, vierde lid, op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard is de Autoriteit Consument en Markt belast.   
 6.  Met het toezicht op de naleving van verordening (EU) nr. 181/2011 zijn belast de bij besluit van Onze Minister aangewezen personen.  
 7.  Van een besluit als bedoeld in het eerste, vierde, vijfde of zesde lid, wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  88  
 
 1.  Onze Minister kan met betrekking tot het toezicht op de naleving beleidsregels vaststellen.   
-2.  Beleidsregels die betrekking hebben op het toezicht door ambtenaren als bedoeld in artikel 87, vierde lid, worden vastgesteld in overeenstemming met Onze Minister van Economische Zaken.   
+2.  Beleidsregels die betrekking hebben op het toezicht, bedoeld in artikel 87, vijfde lid, worden vastgesteld in overeenstemming met Onze Minister van Economische Zaken.   
 
 ### Artikel  89  
 
@@ -1194,14 +1191,12 @@ Het dagelijks bestuur van een plusregio als bedoeld in artikel 20, tweede en der
 
 ### Artikel  94  
 
-1.  In geval van overtreding van artikel 63c, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 94 op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de Autoriteit Consument en Markt aan de overtreder een last onder dwangsom opleggen.   
-2.  Aan een last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
-3.  Een last geldt voor een door de Autoriteit Consument en Markt te bepalen termijn van ten hoogste twee jaar.  
+In geval van overtreding van artikel 63c, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 94 op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de Autoriteit Consument en Markt aan de overtreder een last onder dwangsom opleggen. 
 
 ### Artikel  95  
 
-1.  De Autoriteit Consument en Markt deelt haar voornemen een beschikking te geven als bedoeld in artikel 94, eerste lid, schriftelijk en met redenen omkleed mee aan belanghebbenden.   
-2.  In afwijking van afdeling 4.1.2 van de Algemene wet bestuursrecht stelt de Autoriteit Consument en Markt, alvorens te besluiten omtrent toepassing van artikel 94, eerste lid, belanghebbenden in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken.  
+1.  De Autoriteit Consument en Markt deelt haar voornemen een beschikking te geven als bedoeld in artikel 94 schriftelijk en met redenen omkleed mee aan belanghebbenden.   
+2.  In afwijking van afdeling 4.1.2 van de Algemene wet bestuursrecht stelt de Autoriteit Consument en Markt, alvorens te besluiten omtrent toepassing van artikel 94 belanghebbenden in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken.  
 
 ### Artikel  96  
 
@@ -1210,12 +1205,11 @@ Het dagelijks bestuur van een plusregio als bedoeld in artikel 20, tweede en der
 
 ### Artikel  96a  
 
-1.  In geval van overtreding van artikel 63c, eerste, tweede, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 96a op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de Autoriteit Consument en Markt een bestuurlijke boete opleggen van ten hoogste € 450 000,– of indien dat meer is, 1% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
-2.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek.  
+In geval van overtreding van artikel 63c, eerste, tweede, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 96a op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de Autoriteit Consument en Markt een bestuurlijke boete opleggen van ten hoogste € 450 000,– of indien dat meer is, 1% van de netto-omzet van de overtreder. 
 
 ### Artikel  97  
 
-Indien naar het oordeel van de in de artikelen 87 of 89 bedoelde ambtenaren en personen in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak, treffen zij zo nodig met behulp van de sterke arm de nodige maatregelen. 
+Onverminderd artikel 12b, tweede lid, van de Instellingswet Autoriteit Consument en Markt, treffen de in artikel 87 of 89 of de in artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt bedoelde ambtenaren en personen zo nodig met behulp van de sterke arm de nodige maatregelen, indien naar hun oordeel in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak. 
 
 ### Artikel  98  
 
@@ -1390,7 +1384,7 @@ Nadat een concessieverlener als bedoeld in artikel 63a besluit dat een aan het d
 ### Artikel  124d  
 
 1.  Op een gemeentelijk vervoerbedrijf is artikel 69, eerste, tweede, derde, en vijfde lid, zoals dat luidde voor de inwerkingtreding van de Wet aanbestedingsvrijheid OV grote steden van toepassing.   
-2.  Met het toezicht op de naleving van het eerste lid, zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt.   
+2.  De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het eerste lid.   
 3.  De artikelen 94 tot en met 96a zijn van overeenkomstige toepassing in geval van niet naleving van de in het eerste lid bedoelde eisen.  
 
 ### Artikel  124e  

@@ -1736,11 +1736,11 @@ b. maatregelen die van invloed zijn op:
 c. maatregelen die van aanzienlijke invloed zijn op de keuze van een lidstaat tussen verschillende energiebronnen en de algemene structuur van zijn energievoorziening.    De Raad kan, op voorstel van de Commissie en na raadpleging van het Europees Parlement, van het Economisch en Sociaal Comité en van het Comité van de Regio’s, met eenparigheid van stemmen de gewone wetgevingsprocedure van toepassing verklaren op de in de eerste alinea genoemde gebieden.    
 3.   Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s algemene actieprogramma’s vast waarin de te verwezenlijken prioritaire doelstellingen worden vastgelegd.  De voor de uitvoering van die programma’s nodige maatregelen worden vastgesteld overeenkomstig lid 1, respectievelijk lid 2.    
 4.  Onverminderd bepaalde door de Unie vastgestelde maatregelen, dragen de lidstaten zorg voor de ﬁnanciering en de uitvoering van het milieubeleid.   
-5.  Onverminderd het beginsel dat de vervuiler betaalt, omvat deze maatregel voorzieningen in de vorm van: 
+5.  Onverminderd het beginsel dat de vervuiler betaalt, ingeval een op grond van lid 1 vastgestelde maatregel voor de overheid van een lidstaat onevenredig hoge kosten met zich brengt, omvat deze maatregel voorzieningen in de vorm van: 
 
 – ontheffingen van tijdelijke aard en/of  
 
-– ﬁnanciële steun uit het overeenkomstig artikel 177 opgerichte Cohesiefonds.    
+– financiële steun uit het overeenkomstig artikel 161 opgerichte Cohesiefonds.   
 
 ### Artikel  193  
 

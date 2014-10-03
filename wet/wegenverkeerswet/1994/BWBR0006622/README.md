@@ -898,7 +898,7 @@ b. er voor dit motorrijtuig niet een typegoedkeuring overeenkomstig in het kader
 
 ### Hoofdstuk  III  
 
-####Toelating tot de weg, goedkeuring productieprocessen en goedkeuring gebruik buiten de weg
+####Toelating en goedkeuring
 
 ### §  1  
 

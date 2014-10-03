@@ -39,7 +39,8 @@ Besluit:
 | 20  | Titel 3.16 Vroege fase financiering  | 3.16.2  | MKB-ondernemer  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
 | 21  | Titel 3.16 Vroege fase financiering  | 3.16.7  | Innovatieve starter  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
 | 22  | Titel 3.16 Vroege fase financiering  | 3.16.12  | Academische innovatieve starter  | 01-09-2014 t/m 01-10-2014  | 1.900.000  |
-| 23  | Risico’s dekken voor aardwarmte  | 4.3.2  | --- | --- | --- |
+| 23  | Risico’s dekken voor aardwarmte  | 4.3.2  |1. aardwarmteprojecten |t/m 13-3-2015 |30.924.000 |
+|2. diep aardwarmteprojecten |t/m 28-11-2014 |12.750.000 |
 | 24  | Indirecte emissiekosten ETS  | 4.4.2  | --- | 01-01-2014 t/m 28-02-2014  | 77.000.000  |
 | 25  | Wind op zee projecten  | 4.5.2  | 1. Ondersteuningsconstructies  | 04-06-2014 t/m 09-09-2014  | 1.250.000  |
 | 2. Optimalisatie van de windcentrale  | 04-06-2014 t/m 09-09-2014  | 500.000  |

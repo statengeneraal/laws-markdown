@@ -3496,13 +3496,7 @@ In deze titel wordt verstaan onder:
 
 *academische innovatieve starter:* innovatieve starter van wie de economische activiteiten rechtstreeks en onmiddellijk voortkomen uit onderzoek van een universiteit, een academisch ziekenhuis als bedoeld in onderdeel j van de Bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek, een onderzoeksorganisatie als bedoeld in artikel 4.1 van het Reglement NWO 2002, een onderzoeksinstituut van de Koninklijke Nederlandse Akademie van Wetenschappen, het Nederlands Kanker Instituut, het Max Planck Instituut voor Psycholinguïstiek te Nijmegen, onderzoekers van de Dubble-bundellijn bij de European Synchrotron Radiation Facility te Grenoble, Frankrijk, het Naturalis Biodiversity Center, of het Advanced Research Centre for NanoLithography, hetgeen blijkt uit een overeenkomst gesloten tussen de innovatieve starter en de desbetreffende universiteit, het desbetreffende academisch ziekenhuis, de desbetreffende onderzoeksorganisatie of het desbetreffende onderzoeksinstituut;  
 
-*experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van het O&O&I-steunkader;  
-
-*innovatieve starter:* ondernemer als bedoeld in paragraaf 5.4 van het O&O&I-steunkader;  
-
-*O&O&I-steunkader:* Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU 2006, C 323);  
-
-*toekomstige investeerder:* persoon die in het kader van een vernieuwingsfasetraject of een vroegefasetraject van plan is na uitvoering van het vernieuwingsfaseplan of het vroegefaseplan aan de aanvrager van de subsidie financiering te verstrekken voor een bedrag dat ten minste gelijk is aan het bedrag van de maximale hoofdsom, bedoeld in de artikelen 9a.5, 9a.10 en 9a.15, voor de fase na de vernieuwingsfase of de vroegefase;  
+*toekomstige investeerder:* persoon die in het kader van een vernieuwingsfasetraject of een vroegefasetraject van plan is na uitvoering van het vernieuwingsfaseplan of het vroegefaseplan aan de aanvrager van de subsidie financiering te verstrekken voor een bedrag dat ten minste gelijk is aan het bedrag van de maximale hoofdsom, bedoeld in de artikelen 3.16.3, 3.16.8 en 3.16.13, voor de fase na de vernieuwingsfase of de vroegefase;  
 
 *vernieuwingsfaseplan:* document waarin wordt uiteengezet op welke wijze en op welke termijn de MKB-ondernemer door experimentele ontwikkeling komt tot de ontwikkeling of de verdere ontwikkeling van een product, proces of dienst op basis waarvan de toekomstige investeerder definitief kan besluiten tot financiering van het vervolgtraject;  
 
@@ -3675,15 +3669,15 @@ b. voor zover de voorziene kosten van het vroegefasetraject hoger zijn dan € 
 
 c. indien onvoldoende vertrouwen bestaat dat de academische innovatieve starter het vroegefasetraject in uitvoeringstechnische zin zo zal kunnen voltooien dat hij financiering voor de fase na het vroegefasetraject zal kunnen verkrijgen;  
 
-d. indien onvoldoende vertrouwen bestaat dat de academische innovatieve starter de geldlening, bedoeld in artikel 9.16.12, eerste lid, kan terugbetalen.   
+d. indien onvoldoende vertrouwen bestaat dat de academische innovatieve starter de geldlening, bedoeld in artikel 3.16.12, eerste lid, kan terugbetalen.   
 
 ### Artikel  3.16.15  
 
 ####Adviescommissie
 
-1.  Er is een Adviescommissie vroegefasefinanciering academische innovatieve starters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de beoordeling van de aanvragen op grond van de afwijzingsgronden voor aanvragen, bedoeld in de artikelen 22 en 23 van het Kaderbesluit nationale EZ-subsidies en 3.6.14, en de rangschikkingscriteria, bedoeld in artikel 3.6.17.   
+1.  Er is een Adviescommissie vroegefasefinanciering academische innovatieve starters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de beoordeling van de aanvragen op grond van de afwijzingsgronden voor aanvragen, bedoeld in de artikelen 22 en 23 van het Kaderbesluit nationale EZ-subsidies en 3.16.14, en de rangschikkingscriteria, bedoeld in artikel 3.16.17.   
 2.  De commissie bestaat uit ten minste 3 en ten hoogste 20 leden.   
-3.  De voorzitter en de andere leden van de commissies worden door de minister voor een termijn van ten hoogste 2 jaar benoemd.  
+3.  De voorzitter en de andere leden van de commissie worden door de minister voor een termijn van ten hoogste 2 jaar benoemd.  
 
 ### Artikel  3.16.16  
 
@@ -3695,7 +3689,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ####Rangschikkingscriterium
 
-1.  De minister rangschikt de aanvragen waarop niet met toepassing van artikel 3.6.14 afwijzend is beslist, zodanig dat een vroegefasetraject hoger gerangschikt wordt naarmate: 
+1.  De minister rangschikt de aanvragen waarop niet met toepassing van artikel 3.16.14 afwijzend is beslist, zodanig dat een vroegefasetraject hoger gerangschikt wordt naarmate: 
 
 a. het commercieel perspectief van het vroegefasetraject groter is;  
 
@@ -3713,6 +3707,10 @@ d. de kwaliteit van het vroegefasetraject hoger is.
 1.  De subsidieverlening aan een academische innovatieve starter vindt plaats onder de opschortende voorwaarde dat de uitvoeringsovereenkomst die bij de beschikking tot verlening van de subsidie is gevoegd en uit hoofde waarvan de geldlening wordt verstrekt binnen acht weken na die beschikking is ondertekend door de academische innovatieve starter.   
 2.  De subsidie wordt ambtshalve vastgesteld.  
 
+### §  3.16.5  
+
+####Slotbepalingen
+
 ### Artikel  3.16.19  
 
 ####Informatieverplichtingen
@@ -3723,11 +3721,7 @@ a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-num
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. de kerngegevens en onderbouwing van het vroegefaseplan.   
-
-### §  3.16.5  
-
-####Slotbepalingen
+c. de kerngegevens en onderbouwing van het vroegefaseplan of vernieuwingsfaseplan.   
 
 ### Artikel  3.16.20  
 
@@ -4034,7 +4028,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 a. na toepassing van artikel 4.2.21, minder dan 12 punten zijn toegekend;  
 
-b. niet ten minste 50% van de subsidiabele projectkosten worden gefinancierd door ondernemingen;  
+b. niet ten minste 40% van de subsidiabele projectkosten worden gefinancierd door ondernemingen;  
 
 c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
 
@@ -5271,17 +5265,19 @@ In deze titel wordt verstaan onder:
 
 *aardwarmte:* aardwarmte in de zin van artikel 1, onderdeel b, van de Mijnbouwwet;  
 
-*aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 3.500 meter, door het boren van een doublet of een half doublet zonder putstimulatie en het plaatsen van een pompinstallatie;  
+*aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 3300 meter, door het boren van een doublet of een half doublet zonder putstimulatie;  
 
 *alternatiefwerkzaamheden:* activiteiten om het alternatief gebruik van een put met een lager dan verwacht gerealiseerd vermogen in MW mogelijk te maken;  
 
 *alternatief gebruik:* gebruik van een aardwarmteput voor andere doeleinden dan het overeenkomstig de aanvraag winnen en toepassen van aardwarmte;  
 
-*diep aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte vanaf ten minste 3.500 meter diepte van de top van de aquifer door het boren van een doublet of een half doublet zonder putstimulatie en het plaatsen van een pompinstallatie;  
+*diep aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte vanaf ten minste 3300 meter diepte van de top van de aquifer door het boren van een doublet of een half doublet zonder putstimulatie;  
 
 *doublet:* productieput en injectieput;  
 
-*geologisch onderzoek:* geologisch onderzoek, inclusief het rapport opgesteld overeenkomstig het model in bijlage D bij bijlage 4.3.1;  
+*droge exploratieput:* put voor olie- of gasexploratie waar geen koolwaterstoffen in vrije fase zijn aangetroffen in de aquifer die gebruikt gaat worden voor de winning van aardwarmte; 
+
+*geologisch onderzoek:* geologisch onderzoek, inclusief het rapport opgesteld overeenkomstig het model in bijlage 4.3.1;  
 
 *geologisch risico:* risico op een te laag gerealiseerd vermogen voor zover dit te wijten is aan specifieke aquifer parameters bestaande uit: 
 
@@ -5301,13 +5297,13 @@ f. de geothermische gradient;
 
 *gerealiseerd vermogen:* uit de puttest gebleken werkelijke vermogen in MW, met een correctie op skin = 0;  
 
-*half-doublet:* eerste put van een doublet;  
+*half-doublet:* eerste of tweede put van een doublet;  
 
 *maximale subsidiebedrag:* in de beschikking tot subsidieverlening vermelde maximale subsidiebedrag, bestaande uit 85 procent van de verwachte subsidiabele kosten met een maximum van € 7.225.000 voor een aardwarmteproject en € 12.750.000 voor een diep aardwarmteproject;  
 
 *niet-geologische parameters:* niet-geologische parameters, genoemd in de tabel in hoofdstuk 1, paragraaf 1.1, van het geologisch onderzoek;  
 
-*puttest:* test van het vermogen van de put of putten, uitgevoerd en geïnterpreteerd overeenkomstig bijlage B bij bijlage 4.3.2;  
+*puttest:* test van het vermogen van de put of putten met als resultaat meetreeksen plus interpretatie, uitgevoerd en geïnterpreteerd overeenkomstig bijlage 4.3.2;  
 
 *putstimulatie:* uitvoeren van technieken die leiden tot een verlaagde weerstand voor het toestromen van vloeistof van het reservoir naar de put of vice versa, zodat de productiviteit of injectiviteit van de put wordt verhoogd;  
 
@@ -5328,7 +5324,7 @@ f. de geothermische gradient;
 a. een aardwarmteproject;  
 
 b. een diep aardwarmteproject.     
-2.  De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het subsidieplafond voor aardwarmteprojecten, respectievelijk het subsidieplafond voor diep aardwarmteprojecten, in de volgorde van binnenkomst van de aanvragen.   
 3.  De subsidie wordt verstrekt onder de opschortende voorwaarde dat door het geologische risico op het beoogde stratigrafische niveau op de beoogde locatie en bij de in de beschikking tot subsidieverlening vermelde niet-geologische parameters, het gerealiseerd vermogen lager is dan het verwacht vermogen.  
 
 ### Artikel  4.3.3  
@@ -5342,9 +5338,17 @@ a. uit het geologisch onderzoek blijkt dat de geschatte kans op het realiseren v
 
 b. op het moment van indiening van de aanvraag om subsidie geen vergunning als bedoeld in artikel 6 van de Mijnbouwwet is afgegeven voor het betreffende gebied;  
 
-c. in het projectplan niet aannemelijk is gemaakt dat het aardwarmteproject of diep aardwarmteproject binnen twee jaar na voltooiing van de boringen zal leiden tot de start van toepassing van aardwarmte in Nederland;  
+c. in het projectplan niet aannemelijk is gemaakt dat het aardwarmteproject of diep aardwarmteproject zonder putstimulatie binnen twee jaar na voltooiing van de boringen zal leiden tot de start van toepassing van aardwarmte in Nederland;  
 
-d. het verwacht vermogen lager is dan 2 MW.     
+d. het verwacht vermogen lager is dan 0,5 MW bij aardwarmteprojecten met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 1.500 meter;  
+
+e. het verwacht vermogen lager is dan 2 MW voor de andere aardwarmteprojecten;  
+
+f. bij een half doublet, als de gegarandeerde put de tweede put van een doublet betreft, de resultaten van de eerste put aardwarmtewinning niet aannemelijk maken;  
+
+g. bij een half doublet, als de gegarandeerde put de tweede put van een doublet betreft, de eerste put geen droge exploratieput is;  
+
+h. bij een half doublet ook een aanvraag is gehonoreerd voor de eerste put van het doublet.    
 3.  Bij de beoordeling van de aanvragen wint de minister advies in van TNO.  
 
 ### Artikel  4.3.4  
@@ -5388,33 +5392,34 @@ i. additionele kosten voor de realisatie van alternatief gebruik voor ten hoogst
 
 j. additionele kosten voor de verbeterwerkzaamheden voor ten hoogste 15 jaar;  
 
-k. kosten onvoorzien.     
+k. onvoorziene kosten tot en met de realisatie van het doublet met inbegrip van de puttesten van het doublet.     
 3.  Bij een half-doublet komen de volgende kosten voor de subsidie in aanmerking: 
 
-a. kosten boring eerste put;  
+a. kosten boring gegarandeerde put;  
 
 b. premie die door de subsidieontvanger krachtens artikel 4.3.10 wordt betaald;  
 
-c. kosten opbouwen boorinstallatie;  
+c. kosten op- of afbouwen boorinstallatie voor de gegarandeerde put;  
 
-d. kosten boormanagement en -toezicht tot en met de realisatie van de eerste boring met inbegrip van de puttest van de eerste boring;  
+d. kosten boormanagement en -toezicht voor de realisatie van de gegarandeerde put met inbegrip van de puttest van deze put;  
 
-e. kosten locatie bouwgereed maken;  
+e. kosten locatie boorgereed maken voor de gegarandeerde put;  
 
-f. cuttings/spoeling afvoeren voor eerste boring;  
+f. kosten cuttings/spoeling afvoeren van de gegarandeerde put;  
 
-g. kosten puttest eerste boring en rapportage;  
+g. kosten puttest en rapportage van de gegarandeerde put;  
 
-h. kosten voor de acquisitie van data ten behoeve van de geologische evaluatie van het boorgat van de eerste put;  
+h. kosten voor de acquisitie van data ten behoeve van de geologische evaluatie van het boorgat van de gegarandeerde put;  
 
-i. de additionele kosten voor de realisatie van alternatief gebruik voor de eerste put;  
+i. de additionele kosten voor de realisatie van alternatief gebruik voor de gegarandeerde put voor ten hoogste 15 jaar;  
 
-j. de additionele kosten voor de verbeterwerkzaamheden voor de eerste put;  
+j. de additionele kosten voor de verbeterwerkzaamheden voor de gegarandeerde put voor ten hoogste 15 jaar;  
 
-k. onvoorziene kosten tot en met de realisatie van de eerste boring met inbegrip van de puttest van de eerste boring.     
+k. onvoorziene kosten bij de realisatie van de gegarandeerde put van het half doublet met inbegrip van de puttest van deze put.     
 4.  Indien subsidie wordt verstrekt voor een doublet komt voor subsidie in aanmerking een vast bedrag van € 500.000 voor het plaatsen van een pompinstallatie of het dichten van de put of putten.   
 5.  Indien subsidie wordt verstrekt voor een half-doublet komt voor subsidie in aanmerking een vast bedrag van € 250.000 voor het plaatsen van een pompinstallatie voor de gegarandeerde put of het dichten van deze put.   
-6.  Bij de toepassing van artikel 6, eerste lid, van het besluit blijven buiten beschouwing: 
+6.  Voor zover kosten uit andere hoofde zijn of worden gesubsidieerd van overheidswege komen zij niet in aanmerking voor subsidie.  
+7.  Bij de toepassing van artikel 6, eerste lid, van het besluit blijven buiten beschouwing: 
 
 a. de subsidies op grond van: 
 
@@ -5447,7 +5452,7 @@ b. bijdragen van de Europese Commissie op grond van:
 8°. INTERREG, en  
 
 9°. de Europese Structuur- en Cohesiefondsen.       
-7.  Bijdragen van gemeenten en provincies worden aangemerkt als publieke cofinanciering, en blijven bij de toepassing van artikel 6, eerste lid, van het besluit buiten beschouwing.  
+8.  Bijdragen van gemeenten, provincies, waterschappen en openbare lichamen als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen, worden aangemerkt als publieke cofinanciering en blijven bij de toepassing van artikel 6, eerste lid, van het besluit buiten beschouwing voor zover het de berekening betreft van het maximumbedrag dat krachtens deze titel per project kan worden verstrekt.  
 
 ### Artikel  4.3.6  
 
@@ -5468,14 +5473,15 @@ d. indien het gerealiseerd vermogen van de eerste boring 50% of minder van het v
 
 ####Subsidieomvang half-doublet
 
-1.  Indien subsidie is verstrekt voor het boren van een half-doublet geldt dat: 
+1.  Indien subsidie is verstrekt voor het boren van een half-doublet en de gegarandeerde put de eerste put van het doublet is, geldt dat: 
 
 a. indien het gerealiseerde vermogen van de eerste put gelijk aan of meer dan 75% van het verwacht vermogen is, de subsidie op nihil wordt vastgesteld indien de subsidieontvanger niet overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie;  
 
 b. indien de subsidieontvanger na het boren van de eerste put overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie, artikel 4.3.9 van toepassing is op de eerste put;  
 
-c. indien het gerealiseerde vermogen van de eerste put minder dan 75% van het verwacht vermogen is, artikel 4.3.8 van toepassing is wanneer de subsidieontvanger niet overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie.     
-2.  Artikel 4.3.6, tweede lid, is van overeenkomstige toepassing op een aardwarmteproject en een diep aardwarmteproject waarbij de subsidie is verstrekt voor het boren van een half-doublet.  
+c. indien het gerealiseerde vermogen van de eerste put minder dan 75% van het verwacht vermogen is, artikel 4.3.8 van toepassing is wanneer de subsidieontvanger niet overgaat tot het boren van het doublet.     
+2.  Indien subsidie is verstrekt voor het boren van een half doublet, en de gegarandeerde put de tweede put van het doublet is, is artikel 4.3.9 van toepassing op deze tweede put.  
+3.  Artikel 4.3.6, tweede lid, is van overeenkomstige toepassing op een aardwarmteproject en een diep aardwarmteproject waarbij de subsidie is verstrekt voor het boren van een half-doublet.  
 
 ### Artikel  4.3.8  
 
@@ -5538,27 +5544,30 @@ g: de verwachte subsidiabele kosten.
 
 ### Artikel  4.3.12  
 
-####Verbeter- of alternatiefwerkzaamheden
+####Verbeter- of alternatiefwerkzaamheden en alternatief gebruik
 
-1.  Een subsidieontvanger doet na de puttest of puttesten mededeling aan de minister over het al dan niet uitvoeren van verbeterwerkzaamheden of alternatiefwerkzaamheden.   
-2.  Onverminderd het eerste lid meldt een subsidieontvanger verbeterwerkzaamheden of alternatiefwerkzaamheden tot vijf jaar na de subsidievaststelling bij de minister.   
-3.  De subsidievaststelling wordt ingevolge artikel 4:49 van de Algemene wet bestuursrecht, ten nadele van de ontvanger gewijzigd indien tot vijf jaar na de subsidievaststelling sprake is van een toename van het gerealiseerde vermogen als gevolg van verbeterwerkzaamheden of verhoging van de restwaarde door alternatiefwerkzaamheden als bedoeld in het eerste lid.  
+1.  Een subsidieontvanger doet na de puttest of puttesten mededeling aan de minister over: 
+
+a. het al dan niet uitvoeren van op toename van het gerealiseerde vermogen respectievelijk verhoging van de restwaarde gerichte verbeter- of alternatiefwerkzaamheden;  
+
+b. het al dan niet toepassen van een beter renderend alternatief gebruik van de put of putten.     
+2.  Aan vaststelling van de subsidie is de verplichting verbonden gedurende vijf jaar na vaststelling af te zien van werkzaamheden en van alternatief gebruik als bedoeld in het eerste lid.  
 
 ### Artikel  4.3.13  
 
 ####Puttest
 
-1.  De subsidieontvanger verstrekt binnen vier weken na de boring van een put en het uitvoeren van de puttest, de resultaten van deze puttest aan de minister.   
-2.  De subsidieontvanger verstrekt binnen vier weken na verbeterwerkzaamheden en het uitvoeren van de puttest, de resultaten van deze puttest aan de minister.   
+1.  De subsidieontvanger verstrekt binnen acht weken na de boring van een put, de resultaten van deze puttest aan de minister.   
+2.  De subsidieontvanger verstrekt binnen acht weken na verbeterwerkzaamheden, de resultaten van deze puttest aan de minister.   
 3.  Het geologisch onderzoek en de puttest worden uitgevoerd door een ISO 9001 gecertificeerde instelling.   
-4.  De subsidieontvanger maakt de resultaten van het geologische onderzoek binnen acht weken na de start, bedoeld in artikel 4.3.11, eerste lid, openbaar.   
-5.  De subsidieontvanger maakt binnen vier weken na datum van de beschikking tot subsidievaststelling de resultaten openbaar van de puttest of puttesten en overige onderzoeksresultaten die door de subsidieontvanger als subsidiabele kosten als bedoeld in artikel 4.3.5 worden aangemerkt.  
+4.  De subsidieontvanger maakt de resultaten van het geologische onderzoek en het advies van TNO binnen acht weken na de start, bedoeld in artikel 4.3.11, eerste lid, openbaar.   
+5.  De subsidieontvanger maakt binnen vier weken na datum van de beschikking tot subsidievaststelling de resultaten openbaar van de puttest of puttesten, voor zover van toepassing het advies van TNO over de puttest of de puttesten, en overige onderzoeksresultaten die door de subsidieontvanger als subsidiabele kosten als bedoeld in artikel 4.3.5 worden aangemerkt.  
 
 ### Artikel  4.3.14  
 
 ####Realisatietermijn
 
-1.  De subsidieontvanger voltooit de aardwarmteboringen uiterlijk twaalf maanden na de datum van aanvang van het aardwarmteproject of diep aardwarmteproject, bedoeld in artikel 4.3.13, eerste lid.   
+1.  De subsidieontvanger voltooit het aardwarmteproject of diep aardwarmteproject uiterlijk twaalf maanden na de datum van aanvang van het aardwarmteproject of diep aardwarmteproject, bedoeld in artikel 4.3.11, eerste lid.   
 2.  De termijn, bedoeld in het eerste lid, wordt met twaalf maanden verlengd indien uit de mededeling, bedoeld in artikel 4.3.12, eerste lid, blijkt dat de subsidieontvanger verbeterwerkzaamheden of alternatiefwerkzaamheden wil uitvoeren.   
 3.  De minister kan voor het vertragen, essentieel wijzigen of het stopzetten van activiteiten op voorafgaand verzoek van de subsidieontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste of tweede lid.  
 
@@ -5589,9 +5598,7 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ### Artikel  4.3.17  
 
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.3.2, bevat staatssteun en wordt gerechtvaardigd door Staatssteunmaatregel N442/2009. 
+De subsidie, bedoeld in artikel 4.3.2, bevat staatssteun en wordt gerechtvaardigd door de Algemene Groepsvrijstellingsverordening (Verordening (EU) Nr. 651/2014). 
 
 ### Artikel  4.3.18  
 
@@ -10667,9 +10674,23 @@ Plaats en datum Handtekening Naam accountant Naam accountantskantoor
 
 ####, behorend bij artikel 4.2.8  van de Regeling nationale EZ-subsidies
 
-####Programmalijnen BBE Innovatieprojecten
+####Biobased Economy: Innovatieprojecten
 
-Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten gericht op cascaderend gebruik van biomassa. Projecten moeten passen binnen de programmalijnen ‘Bioraffinage’ en, of ‘Chemische en biotechnologische conversieprocessen’. ‘Bioraffinage’ beoogt plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze te ontrafelen, zodat de volledige potentie van haar inhoudstoffen benut kan worden. Het streven is om bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Bioraffinage levert enerzijds de waardevolle building blocks en halffabrikaten die nodig zijn voor de vergroening van chemie, materialen en energie in de transitie naar de biobased economy. Voor de agri&food- en tuinbouwsector biedt bioraffinage een vergroting en verbreding, alsook een integrale verduurzaming van het productenpalet, en uiteindelijk een verhoging van de toegevoegde waarde van deze sectoren. Bioraffinage is tevens het benodigde concept voor valorisatie proces- en afvalstromen en kringloopsluiting. ‘Chemische en biotechnologische conversietechnologie’ betreft ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en brandstoffen. Omzetting kan plaatsvinden via chemokatalytische- en biotechnologische routes (met aandacht voor de fundamentele katalyse en biotechnologie/genomics). Daarnaast wordt aandacht besteed aan het combineren van biotechnologische, biokatalytische, chemokatalytische en thermochemische conversieprocessen. Conversieprocessen worden gevolgd door energie-efficiënte scheidingstechnieken. Daarbij kunnen alle complementaire eigenschappen van deze verschillende technologieën optimaal benut worden. Alle projecten dienen een bijdrage te leveren aan de doelen van de Topsector Energie (verlaging CO<sub>2</sub>-uitstoot, verhoging duurzame energieproductie tegen de laagst mogelijke kosten, benutting van het potentieel aan energiebesparing). Projecten gericht op teelt van biomassa en/of de raffinage van aquatische biomassa zijn van subsidie uitgesloten. Projecten gericht op de productie van groen gas en omzetting daarvan in warmte eveneens, aangezien deze projecten een aanvraag kunnen indienen onder subparagraaf 2.4.5 Groen Gas. 
+Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten gericht op conversie van biomassa naar vermarktbare eindproducten via chemisch katalytische- en biotechnologische conversieroutes. Daarbij moet sprake zijn van cascaderend, dan wel hoogwaardiger, gebruik van biomassa en een significante bijdrage aan de doelstellingen van de Topsector Energie. Bij cascadering wordt biomassa omgezet in een spectrum van vermarktbare producten en energie ter vervanging van fossiele grondstoffen. Hierbij wordt gestreefd naar een zo efficiënt mogelijk gebruik van de biomassa: alle componenten worden optimaal gebruikt en het ontstaan van reststromen wordt geminimaliseerd. Bij hoogwaardiger gebruik moeten we denken aan opwaarderen van de grondstoffen door middel van nieuw te ontwikkelen dan wel optimaliseren van bestaande technologieën. Hierbij kan worden gedacht aan: 
+
+* voorbehandelingstechnologieën op basis van enzymen of verhoogde temperatuur en druk;  
+
+* het gebruik van laagwaardige alternatieve grondstoffen/materialen, die of een voorbehandeling of een reiniging, dan wel een extra (nieuwe) verwerkingstechniek nodig hebben.   Projecten komen in aanmerking voor subsidie indien: 
+
+* de conversie van biomassa leidt tot eindproducten waarvan een aanzienlijk deel een energietoepassing heeft, of  
+
+* de conversie van biomassa leidt tot een aanzienlijke energiebesparing ten opzichte van de huidige, gangbare, fossiele routes.   In beide gevallen geldt dat een aanzienlijke CO<sub>2</sub>-reductie moet worden bereikt ten opzichte van de huidige fossiele routes. Binnen projecten moet de nadruk liggen op validatie van nieuwe technologie. Daarom wordt een substantiële financiële en inhoudelijke bijdrage van bedrijven verwacht. Voor projecten die zich (deels) richten op de productie van transportbrandstoffen, elektriciteit en/of warmte uit biomassa geldt dat aannemelijk moet worden gemaakt dat deze op termijn leiden tot een kostprijsreductie ten opzichte van de gangbare routes vanuit biomassa. Projecten moeten passen binnen de programmalijnen ‘Chemisch katalytische conversietechnologie’ en/of ‘Biotechnologische conversietechnologie’. 'Chemisch katalytische conversietechnologie' betreft de ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en brandstoffen via chemokatalytische routes. Conversieprocessen worden bij voorkeur voorafgegaan door bioraffinage. Bij bioraffinage worden plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze ontrafeld, zodat de volledige potentie van haar inhoudsstoffen benut kan worden. Het streven daarbij is om bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Conversieprocessen worden gevolgd door energie-efficiënte scheidingstechnieken. 'Biotechnologische conversietechnologie' betreft ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en brandstoffen via biotechnologische routes (met aandacht voor biotechnologie/genomics). Conversieprocessen worden bij voorkeur voorafgegaan door bioraffinage. Bij bioraffinage worden plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze ontrafeld, zodat de volledige potentie van haar inhoudsstoffen benut kan worden. Het streven daarbij is bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Conversieprocessen worden gevolgd door energie-efficiënte scheidingstechnieken. Projecten waarin biotechnologische, biokatalytische en/of chemokatalytische routes gecombineerd worden, komen eveneens in aanmerking voor subsidie. Ook de conversie van energiedragers geproduceerd uit biomassa naar vermarktbare producten komt in aanmerking voor subsidie. Daarbij kan gedacht worden aan de productie van biobrandstoffen uit pyrolyse-olie of uit synthesegas afkomstig van biomassavergassing. Projecten die niet in aanmerking voor subsidie komen, zijn: 
+
+–  projecten gericht op de teelt van biomassa;  
+
+– projecten gericht op de raffinage van aquatische biomassa;  
+
+– projecten die primair zijn gericht op de productie van groen gas en omzetting daarvan in warmte en/of elektriciteit, aangezien deze projecten in aanmerking kunnen komen voor subsidie onder de subparagraaf Groen Gas.   
 
 ### Bijlage  4.2.2 
 
@@ -10677,43 +10698,21 @@ Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsproject
 
 ####Biobased Economy: Kostprijsreductie elektriciteit- en warmteproductie
 
-Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten en demonstratieprojecten die leiden tot een verlaging van de kostprijs voor de productie van elektriciteit en warmte uit biomassa met een praktijktoepassing vóór 2023. Daarbij moet de nadruk liggen op validatie of een eerste praktijktoepassing van nieuwe technologie. Daarom wordt een substantiële financiële en inhoudelijke bijdrage van bedrijven verwacht. Projecten moeten passen binnen de programmalijnen ‘Hoogwaardige energiedragers’, ‘Bioraffinage’, ‘Hoge percentages bij- en meestook’ en, of ‘Chemische en biotechnologische conversietechnologie’ en gericht zijn op één of meer van onderstaande programma’s binnen deze programmalijnen. 
+Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten en demonstratieprojecten die leiden tot een verlaging van de kostprijs voor de productie van elektriciteit en warmte uit biomassa met een praktijktoepassing vóór 2023. Daarbij moet de nadruk liggen op validatie of een eerste praktijktoepassing van nieuwe technologie. Daarom wordt een substantiële financiële en inhoudelijke bijdrage van bedrijven verwacht. Projecten moeten passen binnen de programmalijn 'Thermische conversie van biomassa’. Activiteiten moeten gericht zijn op rendementsverbetering, kostprijsreductie en gebruik van laagwaardige biomassa. Daarbij moet ook aandacht worden besteed aan de duurzaamheid van de gebruikte biomassa. De programmalijn 'Thermische conversie van biomassa’ richt zich op technologieën waarmee biomassa bij verhoogde temperatuur, al dan niet in aanwezigheid van zuurstof, wordt omgezet naar: 
 
-### Programmalijn  1  
+– elektriciteit en/of warmte  
 
-####hoogwaardige energiedragers:
+– hoogwaardige energiedragers die geschikt zijn voor de productie van elektriciteit en/of warmte.   De beoogde technieken kunnen bijvoorbeeld tot doel hebben de energiedichtheid van ruwe biomassa te verhogen en eigenschappen m.b.t. houdbaarheid, opslag, transport en maalbaarheid te verbeteren. Voorbeelden daarvan zijn pyrolyse en torrefactie. Technieken kunnen ook gericht zijn op het opwaarderen van natte of droge biomassastromen die nu geen hoogwaardige toepassing of energietoepassingen kennen, zoals bermgras en riet. Opwaardering van dergelijke biomassastromen kan ze geschikt maken voor de opwekking van elektriciteit en/of warmte in een biomassacentrale. Ook het geschikt maken van biomassacentrales voor dergelijke laagwaardige biomassastromen kan in aanmerking komen voor subsidie. Beoogde projecten kunnen ook tot doel hebben innovatieve technologie en logistiek/infrastructuur te ontwikkelen voor het meestoken van biomassa op de schaal die noodzakelijk is om de nationale emissie- en duurzame energiedoelstellingen te bereiken. Deze zijn thans niet beschikbaar cq. nog niet bewezen. Daarnaast moeten technisch/economisch exploitabele biomassastromen gevonden en getest worden en moet de *supply chain* daarvoor nog ontwikkeld worden. Zonder verhoging van het aandeel biomassa meestoken zijn de Nederlandse doelstellingen voor 2020 niet haalbaar. Initiatieven moeten dicht bij de markt staan, dat wil zeggen dat ze toepassingsgericht moeten zijn. Hierbij kan ook gedacht worden aan innovatieve voorbehandelingstechnologieën om grondstoffen op te waarderen. Projecten die niet in aanmerking voor subsidie komen, zijn: 
 
-* Programma 1a: pyrolyse  
+– projecten gericht op de teelt van biomassa;  
 
-* Programma 1b: torrefactie droge biomassa  
+– projecten gericht op de raffinage van aquatische biomassa;  
 
-* Programma 1c: torrefactie natte biomassa  
+– projecten die primair zijn gericht op de productie van groen gas en omzetting daarvan in warmte en/of elektriciteit, aangezien deze projecten in aanmerking kunnen komen voor subsidie onder de subparagraaf Groen Gas;  
 
-* Activiteitein binnen deze programmalijn moeten gericht zijn op rendementsverbetering, kostprijsreductie en gebruik van laagwaardige biomassa   
+– projecten op het gebied van biobrandstoffen voor transport;  
 
-### Programmalijn  2  
-
-####bij- en meestook:
-
-* Programma 2a Installaties geschikt maken voor hogere percentages bij- en meestook biomassa  
-
-* Programma 2b Onderzoek naar toepassing alternatieve laagwaardige biomassastromen voor mee- en bijstook in kolencentrales en inzet in biomassacentrales  
-
-* Programma 2c Ontwikkeling nieuwe supply chains en downscaled toepassingen  
-
-* Ontwikkeling en toepassing van duurzaamheidscriteria moeten onderdeel uitmaken van projecten binnen de programma’s 2b en 2c.   
-
-### Programmalijn  3  
-
-####bioraffinage:
-
-* Programma 3b: fractionering lignocellulose naar cellulose, hemicellulose en lignine   
-
-### Programmalijn  4  
-
-####chemische en biotechnologische conversieprocessen:
-
-* Programma 4d: conversie restfracties naar hoogwaardige energiedragers voor warmte-, elektriciteits- en groen gas productie (link programmalijn 1)   De programmalijn ‘Hoogwaardige energiedragers’ richt zich op voorbewerking van biomassa, om deze geschikt te maken voor verdere raffinage en/of de productie van elektriciteit, warmte en/of groen gas. De beoogde technieken kunnen bijvoorbeeld tot doel hebben om de energiedichtheid van ruwe biomassa te verhogen en eigenschappen m.b.t. houdbaarheid, opslag, transport en maalbaarheid te verbeteren. Technieken kunnen ook gericht zijn op het opwaarderen van natte of droge biomassastromen die nu geen hoogwaardige- of energietoepassingen kennen, zoals bijvoorbeeld bermgras en riet. ‘Bioraffinage’ beoogt plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze te ontrafelen, zodat de volledige potentie van haar inhoudstoffen benut kan worden. Het streven is om bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Bioraffinage levert enerzijds de waardevolle building blocks en halffabrikaten die nodig zijn voor de vergroening van chemie, materialen en energie in de transitie naar de biobased economy. Voor de agri&food- en tuinbouwsector biedt bioraffinage een vergroting en verbreding, alsook een integrale verduurzaming van het productenpalet, en uiteindelijk een verhoging van de toegevoegde waarde van deze sectoren. Bioraffinage is tevens het benodigde concept voor valorisatie proces- en afvalstromen en kringloopsluiting. Doel van de programmalijn ‘Hoge percentages bij- en meestook’ is om innovatieve technologie en logistiek/infrastructuur te ontwikkelen voor het meestoken van biomassa op de schaal die noodzakelijk is om de nationale emissie- en duurzame energiedoelstellingen te bereiken. Deze zijn thans niet beschikbaar cq. nog niet bewezen. Daarnaast moeten technisch/economisch exploitabele biomassastromen gevonden en getest worden en moet de supply chain daarvoor nog ontwikkeld worden. Zonder verhoging van het aandeel biomassa meestoken zijn de Nederlandse doelstellingen voor 2020 niet haalbaar. Initiatieven moeten dicht bij de markt. Hierbij kan ook gedacht worden aan innovatieve voorbehandelingtechnologieën om grondstoffen op te waarderen. ‘Chemische en biotechnologische conversietechnologie’ betreft ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en brandstoffen. Omzetting kan plaatsvinden via chemokatalytische- en biotechnologische routes (met aandacht voor de katalyse en biotechnologie/genomics). Daarnaast wordt aandacht besteed aan het combineren van biotechnologische, biokatalytische, chemokatalytische en thermochemische conversieprocessen. Conversieprocessen worden gevolgd door energie-efficiënte scheidingstechnieken. Daarbij kunnen alle complementaire eigenschappen van deze verschillende technologieën optimaal benut worden. Projecten gericht op teelt van biomassa en/of de raffinage van aquatische biomassa zijn van subsidie uitgesloten. Projecten die primair zijn gericht op de productie van groen gas en omzetting daarvan in warmte eveneens, aangezien deze projecten een aanvraag kunnen indienen onder subparagraaf 2.4.5 Groen Gas. Projecten op het gebied van biobrandstoffen voor transport en projecten die niet voldoen aan de SDE+-voorwaarden (artikel 2.4.2.6, onderdeel d), kunnen niet in aanmerking komen voor subsidie onder subparagraaf 2.4.2. 
+– projecten die niet vóór 2023 leiden tot duurzame energieproductie en/of niet leiden tot een besparing op de SDE+ uitgaven die groter is dan de aangevraagde subsidie (zie de afwijzingsgronden).   
 
 ### Bijlage  4.2.3 
 
@@ -11648,29 +11647,281 @@ Ontwikkelen en demonstreren van innovatieve PV-producten die voornamelijk zijn g
 
 ### Bijlage 4.3.1 
 
-####, behorende bij artikel 4.3.1  van de Regeling nationale EZ-subsidies
+####, behorend bij artikel 4.3.1  van de Subsidieregeling nationale EZ-subsidies
 
 ####Model Geologisch Onderzoek
 
-![254123](http://wetten.overheid.nl/Illustration/254123)
-![254124](http://wetten.overheid.nl/Illustration/254124)
-![254125](http://wetten.overheid.nl/Illustration/254125)
-![254126](http://wetten.overheid.nl/Illustration/254126)
-![254127](http://wetten.overheid.nl/Illustration/254127)
+*Bij uw subsidieaanvraag moet u als bijlage bij het aanvraagformulier een geologisch onderzoek toevoegen. In dit Model Geologisch Onderzoek staat aangegeven welke aspecten u daarin dient te behandelen.*   *U moet deze bijlage ook op USB-stick bijvoegen.*   *Het geologisch onderzoek concentreert zich uiteraard op het inschatten van de geologische parameters. Met deze parameters, en met de niet-geologische parameters uit het projectplan (Bijlage A bij uw aanvraag), berekent u de P90 waarde. Het resultaat presenteert u eveneens in het geologisch onderzoek.*   *Als u aanvraagt voor een half doublet, moet u in dit rapport duidelijk aangeven voor welke van de twee putten de garantie moet gelden. Als u aanvraagt voor de tweede put, dan presenteert u ook de resultaten van de eerste put.*   *Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk is dat u telkens motiveert waarom u een bepaalde keuze gemaakt heeft. Als het onderwerp van een bepaalde paragraaf niet relevant is voor uw situatie, dan moet u dit met een korte motivatie noemen.*   *TNO faciliteert het samenstellen van het geologisch onderzoek door via * *www.nlog.nl* * de volgende hulpmiddelen beschikbaar te stellen:*  
+
+*  *Een uitgebreide toelichting op de verplichte hoofdstukindeling*   
+
+*  *Het softwarepakket ‘DoubletCalc’, waarmee op eenvoudige wijze het P90 vermogen te berekenen is.*   
+
+*  *Een handleiding/documentatie van DoubletCalc, die ingaat op het werken met DoubletCalc maar ook op te gebruiken methodiek om het P90-vermogen te berekenen.*    
+
+####Verplichte inhoudsopgave ‘Geologisch Onderzoek’
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 1  | Samenvatting  |
+| --- | 1.1  | Gepland doublet en gebruikte parameters  |
+| --- | 1.2  | Verwacht vermogen en overschrijdingskansgrafiek  |
+|  *zie bijlagen voor verplichte onderdelen van de samenvatting*   |
+| --- | --- | --- |
+| 2  | Locatie en putten  |
+| --- | 2.1  | Beoogde locatie  |
+| --- | 2.2  | Putten  |
+| --- | --- | --- |
+| 3  | Geologische setting  |
+| --- | 3.1  | Lokale geologie  |
+| --- | 3.2  | (Risico op het aantreffen van) koolwaterstoffen  |
+| --- | --- | --- |
+| 4  | Beschikbare en gebruikte putten en seismische data  |
+| --- | 4.1  | Keuze van de referentieputten  |
+| --- | 4.2  | Seismische gegevens  |
+| --- | 4.3  | Coördinaatsysteem  |
+| --- | --- | --- |
+| 5  | Seismische interpretatie en dieptemodel  |
+| --- | 5.1  | Methode beschrijving  |
+| --- | 5.2  | Additionele gegevens  |
+| --- | 5.3  | Well to seismic ties  |
+| --- | 5.4  | Seismische interpretatie  |
+| --- | 5.5  | Gridding algoritme  |
+| --- | 5.6  | Tijd-diepte conversie  |
+| --- | 5.7  | Dieptekaart van top/basis aquifer  |
+| --- | 5.8  | Discussie van onzekerheid in top/basis aquiferkaart.  |
+| --- | --- | --- |
+| 6  | Karakterisering en model van de aquifer  |
+| --- | 6.1  | Stratigrafische correlatie en laterale diktevariatie van de aquifer  |
+| --- | 6.2  | Schatting van de permeabiliteit van de aquifer  |
+| --- | 6.3  | Resultaten en discussie over onzekerheid  |
+| --- | --- | --- |
+| 7  | Waterevaluatie  |
+| --- | 7.1  | Temperatuur  |
+| --- | 7.2  | Evaluatie van het formatiewater  |
+| --- | 7.3  | Aquiferdruk  |
+| --- | --- | --- |
+| 8  | Doublet performance  |
+| --- | 8.1  | Doublet configuratie in de ondergrond  |
+| --- | 8.2  | Putarchitectuur  |
+| --- | 8.3  | Operationele instellingen  |
+| --- | --- | --- |
+| 9  | Referenties  |
+
+### Bijlagen  
+
+####Verplichte onderdelen samenvatting ‘geologisch onderzoek’
+
+### 1.1  
+
+####Gepland doublet en gebruikte parameters
+
+– Locatie en toepassing van het doublet. Als u een half doublet verzekert: ook specificatie welke put voor de garantieregeling wordt aangemeld.  
+
+– Parameters die gebruikt worden bij de berekening van het verwacht geothermisch vermogen, door het opnemen van een leesbare screendump van DoubletCalc of door het invullen van onderstaande tabellen.    Tabel Geologische en niet-geologische parameters (doublet, put- en pompspecificatie) per aquifer 
+
+| Aquifer laagpakketnaam of namen  |--- |
+|:---|:---|
+|  *Geologische parameters met spreiding*   |  *min*   |  *verwacht*   |  *max*   | --- |
+| Permeabiliteit  | --- | --- | --- | mD  |
+| Bruto dikte watervoerende pakket met spreiding  | --- | --- | --- | m  |
+| Netto/bruto percentage watervoerende pakket met spreiding  | --- | --- | --- | %  |
+| Zoutgehalte (Total Dissolved Solids)  | --- | --- | --- | ppm  |
+| Diepte top aquifer injectieput  | –  | --- | –  | m  |
+| Diepte top aquifer productieput  | –  | --- | –  | m  |
+|  *Geologische parameters zonder spreiding*   |
+| Geothermische gradiënt  | --- | °C/m  |
+| Gemiddelde oppervlaktetemperatuur  | --- | °C  |
+| k<sub>v</sub>/k<sub>h</sub>ratio van de aquifer  | 1  | –  |
+|  *Niet-geologische parameters: Putspecificatie*   |
+| Verbuizingsschema productieput; dieptes van de segmenten in mAH en mTVD  | --- | m  |
+| Binnendiameter opvoerbuis per segment  | --- | inch  |
+| Ruwheid opvoerbuis per segment  | --- | milli-inch  |
+| Diameter boorgat productieput op aquiferniveau  | --- | inch  |
+| Skin (weerstand rond putmond) productieput  | 0 (vaste waarde)  | –  |
+| Inclinatie put-aquifer traject productieput  | --- | °  |
+| --- |
+| Verbuizingsschema injectieput; dieptes van de segmenten in mAH en mTVD  | --- | m  |
+| Binnendiameter opvoerbuis per segment  | --- | inch  |
+| Ruwheid opvoerbuis per segment  | --- | milli-inch  |
+| Diameter boorgat injectieput op aquiferniveau  | --- | inch  |
+| Skin (weerstand rond putmond) injectieput  | 0 (vaste waarde)  | –  |
+| Inclinatie put-aquifer traject injectieput  | --- | °  |
+|  *Niet-geologische parameters: Pomp en doubletspecificatie*   |
+| Injectietemperatuur  | --- | °C  |
+| Afstand tussen productie en injectieput op aquifer niveau.  | --- | m  |
+| Pomp efficiëntie  | --- | frac  |
+| Afhangdiepte pomp in de productieput  | --- | m  |
+| Opgelegd drukverschil pomp  | --- | bar  |
+
+### 1.2  
+
+####Verwacht vermogen en overschrijdingskansgrafiek
+
+Hier geeft u aan voor welk vermogen u aanspraak wilt maken op ondersteuning uit de Regeling nationale EZ-subsidies ‘Risico’s dekken voor Aardwarmte’. U presenteert: 
+
+– De resultaten van uw berekeningen in cijfers als DoubletCalc ‘output table’ of een vergelijkbare vorm van presenteren.  
+
+– De overschrijdingskansgrafiek, waaruit het P90 vermogen is af te lezen, zie onderstaand voorbeeld.  
+
+– Het aangevraagd vermogen.   ![254227](http://wetten.overheid.nl/Illustration/254227)
+Figuur 1: Voorbeeld van overschrijdingskansgrafiek 
 
 ### Bijlage 4.3.2 
 
-####, behorende bij artikel 4.3.1  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.3.1  van de Subsidieregeling nationale EZ-subsidies
 
-####Model puttestrapportage
+####Model Puttestrapportage
 
-![254128](http://wetten.overheid.nl/Illustration/254128)
-![254129](http://wetten.overheid.nl/Illustration/254129)
-![254130](http://wetten.overheid.nl/Illustration/254130)
-![254131](http://wetten.overheid.nl/Illustration/254131)
-![254132](http://wetten.overheid.nl/Illustration/254132)
-![254133](http://wetten.overheid.nl/Illustration/254133)
-![254134](http://wetten.overheid.nl/Illustration/254134)
+*Bij uw vaststellingsaanvraag moet u als bijlage de puttesttrapportage toevoegen, voor zover die nog niet bij ons in bezit is. In dit Model Puttestrapportage staat aangegeven welke resultaten u moet laten zien en welke onderbouwing wij van u nodig hebben.*   *De regeling vereist dat u binnen 8 weken na een puttest de resultaten incl. puttestinterpretatie toezendt aan RVO. Als u verbeterwerkzaamheden uitvoert, moet u ook na afloop daarvan vastleggen wat het nieuwe vermogen is, door nieuwe puttest(en).*   *TNO faciliteert het samenstellen van deze Bijlage b door via * *www.nlog.nl* * de volgende hulpmiddelen beschikbaar te stellen:*  
+
+*  *Gedetailleerde beschrijving van de technische eisen aan boring en puttest. Hierin wordt ook ingegaan op de aanvullende testmogelijkheden en het testen na verbeterwerkzaamheden.*   
+
+*  *Het softwarepakket ‘DoubletCalc’.*   
+
+*  *Een handleiding/documentatie van DoubletCalc, die ingaat op het werken met DoubletCalc maar ook op de achterliggende methodiek.*     *De beschrijving van de hoofdlijnen van de technische eisen aan boring en puttest is onderdeel van dit document.*   *Zorg ervoor dat boorders en boormanagement op de hoogte zijn van de technische eisen aan boring en puttest, voorafgaand aan de werkzaamheden!*   Resultaattabel puttest 
+
+| Gegevens voor testinterpretatie  | Waarde  | Dimensie  |
+|:---|:---|:---|
+| Naam van de put  | --- |
+| Coördinaten van de put (X, Y)  | --- | m (RD)  |
+| Top aquifer  | --- | m (langs boorgat)  |
+| Basis aquifer  | --- | m (langs boorgat)  |
+| Dikte aquifer  | --- | m (tvd)  |
+| Netto/bruto aquifer  | --- | %  |
+| Gemiddelde porositeit aquifer  | --- | %  |
+| Zoutgehalte formatiewater (TDS = total dissolved solids)  | --- | ppm  |
+| Temperatuur geproduceerde water*  | --- |  <sup>o</sup>C  |
+| Diameter boorgat bij putmond  | --- | inch  |
+| Top productie-interval/filter  | --- | m (langs boorgat)  |
+| Basis productie-interval/filter  | --- | m (langs boorgat)  |
+| Filter permeability /weerstand  | --- | Darcy of bar  |
+| Locatie pomp  | --- | m (langs boorgat)  |
+| Locatie meetsonde voor druk  | --- | m (langs boorgat)  |
+| --- |
+| Meetreeks Put Deviatie  | Diepte (mAH), diepte (mTVD), inclinatie, azimuth, dX, dY   *als onderbouwende bijlage leveren*   |
+| Schema verbuizing  | Sectie  | Einddiepte sectie (mAH)  | Einddiepte sectie (mTVD)  | Binnen diameter buis (inch)  | Ruwheid buis (milli inch)  |
+| 1:  2:  3:  Etc:  Filterbuis  | --- | --- | --- | --- |
+
+| Clean up gegevens  |
+|:---|
+| Pompdruk  | --- | bar  |
+| Debiet vs tijd  | --- | m<sup>3</sup>/uur  |
+| Indicatie hoeveelheid meegeproduceerde ‘fines’  | --- | Semi-kwantitatief  |
+
+| Meetreeksen Puttest  |
+|:---|
+| Stap  | Druk (Bar)  | debiet (m<sup>3</sup>/uur)  |
+| 1  | --- | --- |
+| 2  | --- | --- |
+| 3  | --- | --- |
+
+* Deze temperatuur wordt als gemiddelde aquifer temperatuur beschouwd. 
+
+| Uitkomsten test interpretatie en analyses  |
+|:---|
+| Skin  | --- | –  |
+| kH  | --- | Dm (darcy-meter)  |
+| k  | --- | mD  |
+| Productiviteitsindex (PI)  | --- | m<sup>3</sup>/uur/bar  |
+
+| Conclusie gerealiseerd vermogen obv berekening (DoubletCalc)  |
+|:---|
+| Injectietemperatuur conform verzekerings-scenario  | --- | ºC  |
+| Opgelegde pompdruk conform verzekerings-scenario  | --- | bar  |
+| Debiet Q  | --- | (m<sup>3</sup>/s)  |
+| Gerealiseerd vermogen P**  | --- | MW  |
+
+** Dit is de ‘median value’, het vermogen dat op het uitvoerscherm is te vinden onder het kopje ‘base case (median input values)’. 
+Als de geologische parameters significant verschillen tussen beide putten moet u het doubletvermogen apart bepalen en invullen, zie onderdeel 6 van de ‘Technische eisen aan boring en puttest’.  
+
+| Conclusie gerealiseerd vermogen doublet (indien van toepassing)  |
+|:---|
+| Gerealiseerd vermogen doublet  | --- | MW  |
+
+####Vereiste onderbouwing van resultaattabel puttest
+
+De volgende onderbouwing van de resultaattabel puttest is minimaal vereist: 
+
+1. Boorgatmetingen, die onderbouwen dat het geteste interval is gecompleteerd over de beoogde aquifer (bij voorkeur Gamma-ray).  
+
+2. Meetreeks putdeviatie (diepte – mAH; diepte – mTVD; inclinatie; azimuth; dX, dY).  
+
+3. Schema boorgat met verbuizing en pomplocatie, sondelocatie en gegevens op welke diepte het filter is afgehangen of de perforatie is geschoten.  
+
+4. Beschrijving van de clean-up.  
+
+5. Totale meetreeksen van de test(en) (druk, temperatuur, debiet, tijd).  
+
+6. Onderbouwing van de parameters uit de resultaattabel, dat is rapportage van de interpretatie van de puttesten en rapportage van de petrofysica (bepaling porositeit) incl. toelichting van de gebruikte methodiek.  
+
+7. Indien van toepassing, motivatie voor de gekozen verbeterwerkzaamheden en een korte bespreking van het verloop van deze werkzaamheden.  
+
+8. Een presentatie van het ‘realisatiescenario’, bij voorkeur als in- en uitvoerscherm van DoubletCalc, of op vergelijkbare wijze.  *Hierbij moeten de geologische gegevens zijn ingevoerd conform de interpretatie van de puttest en data uit het boorgat. De installatieparameters dienen zoveel mogelijk de realisatie te volgen tenzij zij aantoonbaar ongunstiger zijn dan parameters opgegeven bij de acceptatie van de Garantiefaciliteit.*     *Als bepaalde onderdelen al bij RVO in bezit zijn, kunt u daarnaar verwijzen. Meetreeksen moeten ook worden toegezonden. *  
+
+####Technische eisen aan boring en puttest
+
+### 1  
+
+####Inleiding
+
+In onderstaande paragrafen wordt een reeks voorwaarden gepresenteerd waaraan de put en de puttest moeten voldoen om een adequate set meetgegevens op te leveren die gebruikt kunnen worden om het testresultaat te kunnen interpreteren en vervolgens te beoordelen en af te zetten tegen de verwachtingswaarde voordat de boring was geplaatst. 
+
+### 2  
+
+####Eisen Boring
+
+U moet zorgen dat de aquifer bij het boren en het plaatsen van de benodigde installatie niet beschadigd raakt waardoor de doorlatendheid vermindert. Technisch gesproken zorgt u voor een zo laag mogelijke mechanische skin (skin=0). 
+
+### 3  
+
+####Puttest
+
+Algemeen: Het interval dat getest wordt dient gecompleteerd te zijn over de beoogde aquifer. Dit dient eenduidig vastgesteld te kunnen worden aan de hand van boorgatmetingen zoals een Gamma-Ray of met behulp van gesteentemonsters. De puttest dient zodanig te worden uitgevoerd dat uit de resultaten/meetreeksen de transmissiviteit, de skin, de productiviteitsindex en de temperatuur betrouwbaar kunnen worden bepaald. Het testontwerp moet zodanig zijn dat: 
+
+* er voldoende voorzieningen zijn getroffen om het geproduceerde water op te vangen, af te voeren en/of te bufferen;  
+
+* de put goed schoon is geproduceerd;  
+
+* effecten van ongewenste drukgolfinterferentie door bijvoorbeeld 'wellbore storage' of beweging van de pomp op de testgegevens is geminimaliseerd.   U moet zorgen dat het opgelegde drukverschil niet resulteert in permanente schade aan de aquifer door bijvoorbeeld "fines migration". U moet voorzieningen treffen om eventuele zandproductie tegen te gaan zoals het plaatsen van een filter. Voor de test: Er dient een ´clean-up´ te worden gedaan totdat er geen afname meer is van de meegeproduceerde boorspoeling/fines, en het debiet bij gelijkblijvende opgelegde drukval niet meer toeneemt. Test: Er dient vervolgens zodanig getest te worden dat het opgelegde debiet (als gevolg van een opgelegd drukverschil) tussen put en aquifer in stappen wordt verhoogd (drawdown test). Er dienen minimaal drie stappen (perioden) te worden uitgevoerd, bij verschillend debiet. Het opgelegde debiet bij één van de stappen dient het verwachte debiet te benaderen. Tussen de verschillende stappen en na de laatste stap moet het debiet worden teruggebracht naar nul (build-up test). Tijdens de volledige testperiode, ook gedurende de build-up, moeten het debiet, het drukverloop en de temperatuur gemeten worden. De metingen moeten een voldoende hoge frequentie hebben, zodat de test correct geïnterpreteerd kan worden. Bovendien moet het debiet tijdens de drawdown periodes zo goed mogelijk constant worden gehouden. De testperiode dient zo lang te duren dat de transmissiviteit, productiviteitsindex (PI) en skin betrouwbaar berekend kunnen worden. Dit kan bijvoorbeeld door te testen totdat bij opgelegd debiet de druk stabiel blijft (flow in semi-steady state). Tussen de stappen en na de laatste stap, wanneer er geen opgelegd debiet over put en aquifer is, dient het drukverloop ook gemeten te worden tot het moment dat de druk niet meer verandert. Het maximaal opgelegde drukverschil moet binnen de geldende veiligheidsnormen blijven, De keuze welke van de twee putten dient te worden beschouwd als de injectieput en de productieput wordt bepaald door de configuratie die het meeste vermogen op zal leveren. 
+
+### 4  
+
+####Interpretatie puttest
+
+Uit de testresultaten moet door de aanvrager de skin en transmissiviteit worden bepaald. De uitkomsten van de puttesten (transmissiviteit, skin en temperatuur naast putgegevens dikte aquifer, diepte aquifer etc.) worden gebruikt om het gerealiseerde vermogen van het doublet te berekenen. De gegevens uit de puttest (het verloop van het debiet, drukverloop, en temperatuurverloop) worden samen met de gegevens van de put- en pompspecificaties geïnterpreteerd middels een puttestanalyse. Minimaal dient de ‘Hornerplot’ evaluatie te zijn uitgevoerd en zo nodig evaluatie met type-curve fitting. De interpretaties van de puttesten dienen uitgevoerd te worden conform de methode zoals beschreven in: 
+
+* Bourdorot, G., 1996. Welltesting. Interpretation methods. ISBN 2-7108-0738-6  
+
+* Lee, J., 1982, Well testing SPE textbook series. ISBN-13: 978-0895203175  
+
+* Kruseman, G.P. and de Ridder, N.A., 1994, Analysis and Evaluation of Pumping Test Data: International Institute for Land Reclamation and Improvement, The Netherlands, Publication 47, 377 p.   Uitkomsten van de puttestanalyse dienen tenminste de kH, de skin en de temperatuur te zijn. Uit de kH kan de permeabiliteit bepaald worden met behulp van de aangetroffen aquiferdikte waarbij duidelijk moet zijn of de bruto dikte van de gehele aquifer wordt genomen, de netto dikte of slechts de bruto of netto dikte van het gecompleteerde interval. 
+
+### 5  
+
+####Skin
+
+Indien uit de puttestanalyse blijkt dat de skin groter dan nul is, wordt de stroming van water naar de put gehinderd, resulterend in een verlaagd debiet en dus verlaagd vermogen. Uitkering in de garantieregeling vindt altijd plaats op basis van een berekening met een *maximale skin van 0 * *(en met een negatieve skin als dit van toepassing is).*  
+
+### 6  
+
+####Vermogensberekening
+
+Met de gegevens uit de put en de resultaten van de puttestinterpretatie wordt het gerealiseerde vermogen van het doublet of het half doublet berekend in overeenstemming met de specificaties in de handleiding van DoubletCalc. Alle gerealiseerde geologische parameters moeten worden ingevoerd als median waarde. Het gerealiseerde vermogen is dan ook de ‘Base case median value’ output. Er zijn resultaten denkbaar die met zich meebrengen dat het gerealiseerde vermogen *niet* met DoubletCalc berekend kan worden. Bijvoorbeeld indien de geologische parameters voortvloeiend uit de interpretatie van de put- of doublettest significant verschillen tussen beide putten. Het vermogen dient dan berekend te worden met behulp van een reservoirsimulator. Voor het bovengenoemde geval moet u er hierbij voor zorgen dat de niet-geologische parameters identiek zijn aan die in het verzekeringsscenario en dat er een geleidelijke afname of toename is van de aquifereigenschappen van de ene naar de andere put. 
+
+### 7  
+
+####Beoordeling van de vaststellingsaanvraag
+
+De vooraf opgegeven niet-geologische parameters hebben invloed op het uiteindelijke vermogen dat uit te puttest(en) blijkt. Daarom dienen de boringen en puttesten (minimaal) overeenkomstig deze waardes uitgevoerd te worden. Indien feitelijk ongunstigere waardes worden toegepast, zal bij de berekening van het gerealiseerde vermogen (o.b.v. de puttesten) gerekend worden met de vooraf opgegeven parameters. Indien het vermogen dat gerealiseerd is lager is dan het in de beschikking vermelde verwachte vermogen en er aanspraak op de subsidie gedaan wordt, dient uitgesloten te worden dat het lagere vermogen aan niet-geologische oorzaken te wijten is, te weten: 
+
+* Foutieve plaatsing productie/injectie interval (perforatie) of filter;  
+
+* Afwijking van de bij aanmelding opgegeven niet-geologische parameters;  
+
+* Mechanische skin;  
+
+* Andere problemen met de put.   Om een eventuele second opinion mogelijk te maken dienen de meetreeksen (druk, temperatuur en debiet) van de test inclusief alle relevante parameters voor de interpretatie van de test (bijvoorbeeld locatie pomp en meetsonde, diameter verbuizing etc.) aangeleverd te worden aan RVO. 
 
 ### Bijlage 4.4.1 
 
