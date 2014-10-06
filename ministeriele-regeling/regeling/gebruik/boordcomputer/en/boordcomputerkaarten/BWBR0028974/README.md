@@ -3,7 +3,7 @@
 ##Regeling gebruik boordcomputer en boordcomputerkaarten
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op de [artikelen 73, tweede en derde lid](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [79, zevende lid](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [80, derde tot en met zesde lid](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [82, eerste lid, onderdeel d, en derde lid](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), en [83, zesde tot en met achtste lid, van het Besluit personenvervoer 2000](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), en [artikel 2.4:2, tweede lid, van het Arbeidstijdenbesluit vervoer](../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md);
+Gelet op de artikelen 73, tweede en derde lid, 79, zevende lid, 80, derde tot en met zesde lid, 82, eerste lid, onderdeel d, en derde lid, en 83, zesde tot en met achtste lid, van het Besluit personenvervoer 2000, en artikel 2.4:2, tweede lid, van het Arbeidstijdenbesluit vervoer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,9 +13,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*Besluit:* [Besluit personenvervoer 2000](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*Besluit:* Besluit personenvervoer 2000;  
 
-*erkenninghouder:* natuurlijke persoon of rechtspersoon die beschikt over een erkenning als bedoeld in [artikel 79, achtste lid, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*erkenninghouder:* natuurlijke persoon of rechtspersoon die beschikt over een erkenning als bedoeld in artikel 79, achtste lid, van het Besluit;  
 
 *Minister:* Minister van Infrastructuur en Milieu;  
 
@@ -48,7 +48,7 @@ c. de elektronische gegevens op de kaart te voorzien van een onjuiste aantekenin
 ### Artikel  5  
 
 1.  De aanvrager geeft aan of de aanvraag betrekking heeft op een chauffeurskaart dan wel een chauffeurskaart onder beperkingen.   
-2.  Degene die in het bezit is van een chauffeurskaart onder beperkingen, kan een chauffeurskaart met dezelfde einddatum van geldigheid aanvragen onder overlegging van een ingevolge de [Regeling taxibestuurders 2005](../../../../../../../ministeriele-regeling/regeling/taxibestuurders/2005/BWBR0018667/README.md) erkend getuigschrift.  
+2.  Degene die in het bezit is van een chauffeurskaart onder beperkingen, kan een chauffeurskaart met dezelfde einddatum van geldigheid aanvragen onder overlegging van een ingevolge de Regeling taxibestuurders 2005 erkend getuigschrift.  
 
 ### Artikel  6  
 
@@ -68,7 +68,7 @@ e. burgerservicenummer, dan wel indien de houder een niet-ingezetene is, een doo
 
 Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschiedt op vertoon door de aanvrager van: 
 
-a. een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md);  
+a. een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht;  
 
 b. het aan hem verstrekte bericht dat de chauffeurskaart kan worden afgehaald.   
 
@@ -83,23 +83,23 @@ b. de op de buitenkant van de chauffeurskaart vermelde gegevens, of de in de cha
 
 c. de bij de kaart behorende pukcode bij derden bekend is geworden;  
 
-d. zich verlies of diefstal van de chauffeurskaart heeft voorgedaan, als bedoeld in [artikel 83, vijfde lid, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md).    
-3.  Na de melding, bedoeld in het tweede lid, onderscheidenlijk de melding, bedoeld in [artikel 83, vijfde lid, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), mag de bestuurder, zo lang nog niet is beslist omtrent zijn aanvraag om een vervangende kaart, taxivervoer verrichten, mits hij: 
+d. zich verlies of diefstal van de chauffeurskaart heeft voorgedaan, als bedoeld in artikel 83, vijfde lid, van het Besluit.    
+3.  Na de melding, bedoeld in het tweede lid, onderscheidenlijk de melding, bedoeld in artikel 83, vijfde lid, van het Besluit, mag de bestuurder, zo lang nog niet is beslist omtrent zijn aanvraag om een vervangende kaart, taxivervoer verrichten, mits hij: 
 
 a. die aanvraag binnen vier werkdagen na de melding indient;  
 
 b. het nummer, bedoeld in artikel 6 onder e, in de boordcomputer invoert;  
 
-c. een handmatig ondertekende registratie bijhoudt van zijn arbeids- en rusttijden onder vermelding van de gegevens, bedoeld in [artikel 79, vijfde lid, onder a en b van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md); en  
+c. een handmatig ondertekende registratie bijhoudt van zijn arbeids- en rusttijden onder vermelding van de gegevens, bedoeld in artikel 79, vijfde lid, onder a en b van het Besluit; en  
 
 d. uiterlijk op de derde werkdag na de dag van ontvangst van het bericht, bedoeld in artikel 7, onderdeel b, de vervangende kaart afhaalt.     
-4.  Bij de in het derde lid bedoelde aanvraag wordt in geval van een melding als bedoeld in [artikel 83, vijfde lid, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), een door de aanvrager ondertekende verklaring overgelegd dat de kaart verloren is geraakt of gestolen is, met een omschrijving van de omstandigheden waaronder dit is gebeurd.   
+4.  Bij de in het derde lid bedoelde aanvraag wordt in geval van een melding als bedoeld in artikel 83, vijfde lid, van het Besluit, een door de aanvrager ondertekende verklaring overgelegd dat de kaart verloren is geraakt of gestolen is, met een omschrijving van de omstandigheden waaronder dit is gebeurd.   
 5.  Indien de te vervangen kaart op het moment van de melding als bedoeld in het eerste lid nog een geldigheidsduur heeft van drie maanden of minder, kan de bestuurder in plaats van een vervangende kaart een aanvraag indienen voor een nieuwe kaart, mits hij binnen de in het derde lid bedoelde termijn een geldige verklaring omtrent het gedrag en een geldige geneeskundige verklaring overlegt.  
 
 ### Artikel  9  
 
 1.  In geval van een melding als bedoeld in artikel 8, tweede lid, levert de aanvrager zijn te vervangen kaart in bij de afgifte van de vervangende kaart.   
-2.  Indien de aanvrager na een melding als bedoeld in [artikel 83, vijfde lid, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), zijn kaart na de melding weer in zijn bezit krijgt, zendt hij deze onmiddellijk terug aan de Minister.  
+2.  Indien de aanvrager na een melding als bedoeld in artikel 83, vijfde lid, van het Besluit, zijn kaart na de melding weer in zijn bezit krijgt, zendt hij deze onmiddellijk terug aan de Minister.  
 
 ### Artikel  10  
 
@@ -111,7 +111,7 @@ b. indien niet langer wordt voldaan aan de eisen op grond waarvan deze werden ve
 
 c. indien na verstrekking blijkt dat de kaart is verkregen op grond van onjuiste gegevens;  
 
-d. indien de bestuurder niet of niet tijdig ingevolge [artikel 82, zesde lid, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) een nieuwe geneeskundige verklaring of een nieuwe verklaring omtrent het gedrag overlegt als bedoeld in [artikel 82, eerste lid, onder b, onderscheidenlijk c van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+d. indien de bestuurder niet of niet tijdig ingevolge artikel 82, zesde lid, van het Besluit een nieuwe geneeskundige verklaring of een nieuwe verklaring omtrent het gedrag overlegt als bedoeld in artikel 82, eerste lid, onder b, onderscheidenlijk c van het Besluit;  
 
 e. indien de kaart door een andere persoon dan de houder wordt gebruikt; of  
 
@@ -119,6 +119,17 @@ f. indien is gehandeld in strijd met het bij artikel 4, onder a en b, dan wel he
 2.  De chauffeurskaart onder beperkingen wordt ingetrokken indien aan de houder een chauffeurskaart is verstrekt.   
 3.  Een chauffeurskaart kan voor een termijn van ten hoogste 12 weken worden geschorst in het belang van veilig taxivervoer danwel bij vermoeden van een geval als bedoeld in het eerste lid, onder b, d, e of f.   
 4.  Ingeval van intrekking of schorsing levert de houder van de chauffeurskaart deze onmiddellijk in bij de minister. 
+
+### Artikel  10a  
+Treedt in werking per 01-11-2014 
+
+1.  Een lwt-kaart wordt eenmalig verstrekt en heeft een geldigheidsduur van vier maanden.   
+2.  Bij de aanvraag voor een lwt-kaart worden naast de documenten, bedoeld in artikel 82, eerste lid, onder a, b, c, en e van het Besluit de volgende documenten overgelegd: 
+
+a. een bewijs waaruit blijkt dat de aanvrager zich bij de Stichting Centraal Bureau Rijvaardigheidsbewijzen heeft ingeschreven voor het examen vakbekwaamheid voor het besturen van een taxi, als bedoeld in artikel 3 van de Regeling taxibestuurders 2005;  
+
+b. een gezamenlijke verklaring van de aanvrager en een vervoerder waaruit blijkt dat de aanvrager gedurende het leer-werk-traject in dienst van die vervoerder uitsluitend vervoer zal verrichten als bedoeld in artikel 6, eerste lid, van het Besluit, dan wel vervoer dat wordt verricht volgens een schriftelijke overeenkomst, die een vervoerplicht inhoudt voor het vervoeren van meerdere passagiers die afzonderlijk of tezamen worden vervoerd, niet zijnde de opdrachtgever, tegen in die overeenkomst vastgelegde tarieven.     
+3.  De aanvraag voor een lwt-kaart wordt aangemerkt als een gelijktijdige aanvraag voor een chauffeurskaart, met dien verstande dat de beslissing omtrent de verlening van de chauffeurskaart wordt aangehouden totdat de indiener van de aanvraag een document als bedoeld in artikel 82, eerste lid, onder d, van het Besluit heeft overgelegd.  
 
 ### Hoofdstuk  3  
 
@@ -128,9 +139,9 @@ f. indien is gehandeld in strijd met het bij artikel 4, onder a en b, dan wel he
 
 Een ondernemerskaart wordt op aanvraag verleend indien de aanvrager: 
 
-a. is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en  
+a. is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, en  
 
-b. in het bezit is van een vergunning als bedoeld in [artikel 4, derde lid, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).   
+b. in het bezit is van een vergunning als bedoeld in artikel 4, derde lid, van de Wet personenvervoer 2000.   
 
 ### Artikel  12  
 
@@ -149,7 +160,7 @@ b. bij intrekking van de vergunning van de vervoerder.
 
 ### Artikel  13  
 
-Een keuringskaart wordt op aanvraag verleend aan een erkenninghouder die is ingeschreven in het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md). 
+Een keuringskaart wordt op aanvraag verleend aan een erkenninghouder die is ingeschreven in het Handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007. 
 
 ### Artikel  14  
 
@@ -181,7 +192,7 @@ d. de bij de kaart behorende pukcode bij derden bekend is geworden.
 3.  Bij de aanvang van taxivervoer schakelt de bestuurder het werkingsniveau taxivervoer in en voert de aanvang en het einde van iedere rit in.   
 4.  De bestuurder voert de gegevens in die niet automatisch met behulp van sensoren worden gegenereerd, dan wel accepteert deze handmatig indien zij via een externe inrichting worden ingevoerd.   
 5.  Ingeval de boordcomputer niet gekoppeld is aan de taxameter, voert de bestuurder handmatig de door de taxameter aangegeven ritprijs, toeslagen en totaalprijs in, dan wel, indien voor het vervoer geen taxameter verplicht is en de ritprijs direct na de rit wordt voldaan, de door de reiziger verschuldigde vergoeding.   
-6.  Indien de boordcomputer een waarschuwing als bedoeld in [artikel 29, eerste lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/specificaties/en/typegoedkeuring/boordcomputer/taxi/BWBR0027945/README.md) geeft, bevestigt de bestuurder handmatig dat hij de waarschuwing heeft opgemerkt.   
+6.  Indien de boordcomputer een waarschuwing als bedoeld in artikel 29, eerste lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi geeft, bevestigt de bestuurder handmatig dat hij de waarschuwing heeft opgemerkt.   
 7.  Bij beëindiging van de werkzaamheden beëindigt de bestuurder de kaartsessie en bevestigt dit door het invoeren van zijn pincode alvorens zijn chauffeurskaart uit de boordcomputer te nemen.   
 8.  Indien de chauffeurskaart onvoldoende dataopslag heeft, stelt de bestuurder de op de chauffeurskaart opgeslagen gegevens onmiddellijk veilig door deze over te brengen op de boordcomputer dan wel op een andere daartoe geschikte en veilige wijze.  
 
@@ -197,10 +208,10 @@ c. het telefoonnummer van het Landelijk Klachtenmeldpunt Taxivervoer is ingevoer
 
 ### Artikel  18  
 
-1.  Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder a, b, c of e, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/specificaties/en/typegoedkeuring/boordcomputer/taxi/BWBR0027945/README.md) dan wel wanneer de boordcomputer buiten gebruik is, laat de vervoerder deze zo spoedig mogelijk, doch in ieder geval binnen drie werkdagen, door een erkenninghouder herstellen en draagt hij er zorg voor dat de bestuurder gedurende zijn dienst een registratie bijhoudt van diens arbeids- en rusttijden en van de gegevens, bedoeld in [artikel 79, derde lid, onder a, c en d, en vijfde lid, onder d tot en met f, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md).   
-2.  De in het eerste lid bedoelde registratie is handmatig ondertekend en vermeldt de gegevens, bedoeld in [artikel 79, derde lid, onder b, en vijfde lid, onder a tot en met c, van het Besluit](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md).   
-3.  Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder d, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/specificaties/en/typegoedkeuring/boordcomputer/taxi/BWBR0027945/README.md) laat de vervoerder deze binnen drie werkdagen door een erkenninghouder herstellen, en de in de boordcomputer geregistreerde gegevens door die erkenninghouder veilig stellen.   
-4.  Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder f, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/specificaties/en/typegoedkeuring/boordcomputer/taxi/BWBR0027945/README.md), draagt de vervoerder er zorg voor dat de bestuurder handelt in overeenstemming met artikel 8, derde lid.   
+1.  Ingeval van een storing als bedoeld in artikel 26, vierde lid, onder a, b, c of e, van de Regeling specificaties en typegoedkeuring boordcomputer taxi dan wel wanneer de boordcomputer buiten gebruik is, laat de vervoerder deze zo spoedig mogelijk, doch in ieder geval binnen drie werkdagen, door een erkenninghouder herstellen en draagt hij er zorg voor dat de bestuurder gedurende zijn dienst een registratie bijhoudt van diens arbeids- en rusttijden en van de gegevens, bedoeld in artikel 79, derde lid, onder a, c en d, en vijfde lid, onder d tot en met f, van het Besluit.   
+2.  De in het eerste lid bedoelde registratie is handmatig ondertekend en vermeldt de gegevens, bedoeld in artikel 79, derde lid, onder b, en vijfde lid, onder a tot en met c, van het Besluit.   
+3.  Ingeval van een storing als bedoeld in artikel 26, vierde lid, onder d, van de Regeling specificaties en typegoedkeuring boordcomputer taxi laat de vervoerder deze binnen drie werkdagen door een erkenninghouder herstellen, en de in de boordcomputer geregistreerde gegevens door die erkenninghouder veilig stellen.   
+4.  Ingeval van een storing als bedoeld in artikel 26, vierde lid, onder f, van de Regeling specificaties en typegoedkeuring boordcomputer taxi, draagt de vervoerder er zorg voor dat de bestuurder handelt in overeenstemming met artikel 8, derde lid.   
 5.  Indien er een waarschuwing wordt gegeven van het ontstaan van onvoldoende opslagcapaciteit in het geheugen van de boordcomputer, draagt de vervoerder onmiddellijk zorg voor een overbrenging van de gegevens uit de boordcomputer naar zijn vestiging.  
 
 ### Artikel  19  
@@ -238,7 +249,7 @@ Deze regeling wordt aangehaald als: Regeling gebruik boordcomputer en boordcompu
 
 ### Artikel  23  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel L, van het Besluit van 16 oktober 2009 houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs](../../../../../../../AMvB/wijzigingsbesluit/besluit/personenvervoer/2000/enz./(invoering/etc/BWBR0026675/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdeel L, van het Besluit van 16 oktober 2009 houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 

@@ -112,7 +112,7 @@ In dit hoofdstuk en de op de artikelen van dit hoofdstuk berustende bepalingen w
 2.  Een hond wordt slechts verhandeld, geschonken of anderszins overgedragen aan een opvolgende houder, nadat de hond is geïdentificeerd en geregistreerd overeenkomstig dit hoofdstuk en de op dit hoofdstuk berustende bepalingen.   
 3.  De verplichting, bedoeld in het eerste lid, is niet van toepassing op: 
 
-a. de houder van een hond in een asiel als bedoeld in artikel 1 van het Honden- en kattenbesluit 1999, mits de hond twee weken na de binnenkomst in het asiel wordt geïdentificeerd en na vier weken is geregistreerd;  
+a. de houder van een hond in een inrichting als bedoeld in artikel 3.7 van het Besluit houders van dieren, waarin gezelschapsdieren worden gehouden ten behoeve van opvang, mits de hond twee weken na de binnenkomst in deze inrichting wordt geïdentificeerd en na vier weken is geregistreerd;  
 
 b. de houder die afkomstig is uit een Europese lidstaat of een derde land, en voornemens is met zijn hond in Nederland te verblijven voor een periode korter dan drie maanden.    
 
@@ -132,7 +132,9 @@ c. de geboortedatum van de hond;
 
 d. de datum van identificatie;  
 
-e. de naam, adres en woonplaats van de persoon die de chip inbrengt.     
+e. de naam, adres en woonplaats van de persoon die de chip inbrengt;  
+
+f. indien de houder daarover beschikt, het registratienummer dat op grond van artikel 3.8, eerste lid, van het Besluit houders van dieren is toegekend.    
 4.  Indien de houder een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007, geeft de houder bij de registratie, bedoeld in het tweede lid, in ieder geval de volgende gegevens door: 
 
 a. vestigingsadres van de onderneming waarop de hond wordt gehouden;  
@@ -141,9 +143,9 @@ b. naam van de onderneming en de beheerder van de onderneming;
 
 c. het nummer van de inschrijving in het handelsregister;  
 
-d. het registratienummer dat op basis van artikel 5 van het Honden- en kattenbesluit 1999 is toegekend, en  
+d. het registratienummer dat op basis van artikel 3.8, eerste lid, van het Besluit houders van dieren is toegekend, en  
 
-e. de gegevens, bedoeld in het derde lid, onderdelen c tot en met e.     
+e. de gegevens, bedoeld in het derde lid, onderdelen b tot en met e.     
 5.  De houder meldt in een databank: 
 
 a. een wijziging van de gegevens, bedoeld in het derde lid, onderdeel a, of vierde lid, onderdelen a tot en met c;  
@@ -188,7 +190,9 @@ d. de datum van identificatie;
 
 e. datum van het in Nederland brengen van de hond, en  
 
-f. land van herkomst van de hond.     
+f. land van herkomst van de hond;  
+
+g. indien de houder daarover beschikt, het registratienummer dat op grond van artikel 3.8, eerste lid, van het Besluit houders van dieren is toegekend.    
 3.  Indien de houder een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007, geeft de houder bij de registratie, bedoeld in het tweede lid, de volgende gegevens door: 
 
 a. vestigingsadres van de onderneming waarop de hond wordt gehouden;  
@@ -197,9 +201,9 @@ b. naam van de onderneming en de beheerder van de onderneming;
 
 c. het nummer van de inschrijving in het handelsregister;  
 
-d. het registratienummer dat op basis van artikel 5 van het Honden- en kattenbesluit 1999 is toegekend, en  
+d. het registratienummer dat op basis van artikel 3.8, eerste lid, van het Besluit houders van dieren is toegekend, en  
 
-e. de gegevens, bedoeld in het tweede lid, onderdelen c tot en met f.     
+e. de gegevens, bedoeld in het tweede lid, onderdelen b tot en met f.     
 4.  Bij ministeriële regeling worden regels gesteld over: 
 
 a. de termijn waarbinnen de registratie bedoeld in het tweede of derde lid plaatsvindt, en  

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [Invoeringswet Wet inkomstenbelasting 2001](../../../../../../wet/invoeringswet/wet/inkomstenbelasting/2001/BWBR0011354/README.md) en enige daarmee samenhangende wetten, bijstellingen en technische verbeteringen aan te brengen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in de Wet inkomstenbelasting 2001, de Invoeringswet Wet inkomstenbelasting 2001 en enige daarmee samenhangende wetten, bijstellingen en technische verbeteringen aan te brengen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -43,7 +43,7 @@ Wijzigt de Invorderingswet 1990.
 
 ### Artikel  VIII  
 
-Wijzigt de Wet financiering volksverzekeringen. wordt als volgt gewijzigd: 
+Wijzigt de Wet financiering volksverzekeringen.  
 
 ### Artikel  IX  
 
@@ -71,7 +71,7 @@ a. zijn belastbare inkomen meer bedraagt dan f 28 300;
 
 b. de belastingplichtige winst uit een onderneming geniet die deel uitmaakt van een samenwerkingsverband met zijn echtgenoot;  
 
-c. zowel de belastingplichtige als zijn echtgenoot als zelfstandige verplicht verzekerd zijn ingevolge de [Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md); en  
+c. zowel de belastingplichtige als zijn echtgenoot als zelfstandige verplicht verzekerd zijn ingevolge de Ziekenfondswet; en  
 
 d. zowel de belastingplichtige als zijn echtgenoot in 1999 als zelfstandige particulier verzekerd waren voor ziektekosten.   
 
@@ -96,7 +96,7 @@ Ingeval de samenloop van wetten die in 2000 in het Staatsblad zijn of worden gep
 1.  Deze wet treedt in werking met ingang van 1 januari 2001 met uitzondering van artikel IX, behoudens de onderdelen B.o en B.7a, dat in werking treedt op 30 december 2000.   
 2.  Artikel X werkt terug tot en met 1 september 2000, met uitzondering van onderdeel OA. Onderdeel OA van artikel X werkt terug tot en met 1 januari 2000.   
 3.  Artikel XII werkt terug tot en met 1 januari 2000.   
-4.  Artikel 30a van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) is niet van toepassing bij het begin van het kalenderjaar 2001.   
+4.  Artikel 30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen is niet van toepassing bij het begin van het kalenderjaar 2001.   
 5.  Artikel VI, onderdeel G, vindt voor het eerst toepassing met ingang van boekjaren die aanvangen op of na 1 januari 2001.   
 6.  In afwijking van het eerste lid treden artikel I, onderdelen BNa en BNb, in werking op een bij koninklijk besluit te bepalen tijdstip.  
 

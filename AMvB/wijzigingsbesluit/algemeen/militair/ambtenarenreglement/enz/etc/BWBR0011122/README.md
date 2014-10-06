@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 2 november 1999, nr. P/99007216;
 
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [ artikel 12, van de Militaire ambtenarenwet 1931](../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) alsmede artikel C1 van de Algemene militaire pensioenwet;
+Gelet op artikel 125, eerste lid, van de Ambtenarenwet en  artikel 12, van de Militaire ambtenarenwet 1931 alsmede artikel C1 van de Algemene militaire pensioenwet;
 
 De Raad van State gehoord (advies van 16 december 1999, nr. W07.99.0546/II);
 
@@ -74,7 +74,7 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Artikel  XIII  
 
-Wijzigt het Interimbesluit ziektekosten burgerlijke ambtenaren defensie wordt als volgt gewijzigd:  
+Wijzigt het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.  
 
 ### Artikel  XIV  
 
@@ -128,25 +128,25 @@ Wijzigt het Tijdelijk besluit uitstroombevorderende maatregel Defensie.
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
 
-a.  *militair:*  de militaire ambtenaar in de zin van [artikel 1 van de Militaire Ambtenarenwet 1931](../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) die is aangesteld bij het beroepspersoneel, alsmede de geestelijk verzorger die in burgerlijke openbare dienst is aangesteld om bij de krijgsmacht doorlopend werkzaam te zijn.  
+a.  *militair:*  de militaire ambtenaar in de zin van artikel 1 van de Militaire Ambtenarenwet 1931 die is aangesteld bij het beroepspersoneel, alsmede de geestelijk verzorger die in burgerlijke openbare dienst is aangesteld om bij de krijgsmacht doorlopend werkzaam te zijn.  
 
 b.  *betrokkene:*  
 
 1. de militair met een lagere rang dan vice-admiraal of luitenant-generaal die op 1 december 1999 in werkelijke dienst is;  
 
-2. de burgerlijke ambtenaar defensie die aanspraak heeft op een salaris volgens bijlage B dan wel [artikel 7a van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) en die op 1 december 1999 in dienst van het Ministerie van Defensie is;  
+2. de burgerlijke ambtenaar defensie die aanspraak heeft op een salaris volgens bijlage B dan wel artikel 7a van het Bezoldigingsbesluit burgerlijke ambtenaren defensie en die op 1 december 1999 in dienst van het Ministerie van Defensie is;  
 
-3. de burgerlijke ambtenaar defensie, bedoeld in [artikel 1, derde lid, van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) die op 1 december 1999 in dienst van het Ministerie van Defensie is;  
+3. de burgerlijke ambtenaar defensie, bedoeld in artikel 1, derde lid, van het Bezoldigingsbesluit burgerlijke ambtenaren defensie die op 1 december 1999 in dienst van het Ministerie van Defensie is;  
 
-4. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal die op 1 december 1999 in het genot is van wachtgeld, als bedoeld in [artikel 22 van het Werkloosheidsbesluit defensiepersoneel](../../../../../../../../AMvB/werkloosheidsbesluit/defensiepersoneel/BWBR0008113/README.md), dan wel van een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) geniet;  
+4. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal die op 1 december 1999 in het genot is van wachtgeld, als bedoeld in artikel 22 van het Werkloosheidsbesluit defensiepersoneel, dan wel van een uitkering op grond van de Uitkeringswet gewezen militairen geniet;  
 
-5. de gewezen burgerlijke ambtenaar defensie die aanspraak had op salaris volgens bijlage B dan wel [artikel 7a van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) en die op 1 december 1999 in het genot is van wachtgeld, als bedoeld in [artikel 22 van het Werkloosheidsbesluit defensiepersoneel](../../../../../../../../AMvB/werkloosheidsbesluit/defensiepersoneel/BWBR0008113/README.md), dan wel van een uitkering op grond van het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md).    
+5. de gewezen burgerlijke ambtenaar defensie die aanspraak had op salaris volgens bijlage B dan wel artikel 7a van het Bezoldigingsbesluit burgerlijke ambtenaren defensie en die op 1 december 1999 in het genot is van wachtgeld, als bedoeld in artikel 22 van het Werkloosheidsbesluit defensiepersoneel, dan wel van een uitkering op grond van het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.    
 
 c.  *berekeningsbasis:*  
 
-1. de over de maand december 1999 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md);  
+1. de over de maand december 1999 genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit militairen;  
 
-2. het over de maand december 1999 genoten salaris volgens hetgeen daaronder wordt verstaan in het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md);   
+2. het over de maand december 1999 genoten salaris volgens hetgeen daaronder wordt verstaan in het Bezoldigingsbesluit burgerlijke ambtenaren defensie;   
 
 3. het wachtgeld of de uitkering welke over de maand december 1999 op grond van een van de onder b, 4 en 5 genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
 

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 16 oktober 2003, nr. W&B/WWB/2003/78560, Directie Werk en Bijstand, houdende nadere regels terzake van enkele in de Wet werk en bijstand en het Besluit WWB geregelde onderwerpen (Regeling WWB)
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 31, tweede lid, onderdeel l, en vierde lid](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [75](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [77, derde lid](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en [78, tweede lid, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [10, vierde lid, van het Besluit WWB](../../../../KB/besluit/wwb/BWBR0015709/README.md), en [4.1, vijfde lid, van het Besluit SUWI](../../../../AMvB/besluit/suwi/BWBR0013267/README.md);
+Gelet op de artikelen 31, tweede lid, onderdeel l, en vierde lid, 75, 77, derde lid, en 78, tweede lid, van de Wet werk en bijstand, 10, vierde lid, van het Besluit WWB, en 4.1, vijfde lid, van het Besluit SUWI;
 Besluit:     
 ### §  1  
 
@@ -17,19 +17,19 @@ In deze regeling wordt verstaan onder:
 
 a. minister: Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. wet: [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+b. wet: Wet werk en bijstand;  
 
 c.  tekortgemeente: gemeente waarvan het college een verzoek om een incidentele aanvullende uitkering heeft ingediend;  
 
-d. incidentele aanvullende uitkering: de incidentele aanvullende uitkering, bedoeld in [artikel 74, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+d. incidentele aanvullende uitkering: de incidentele aanvullende uitkering, bedoeld in artikel 74, eerste lid, van de wet;  
 
-e. meerjarige aanvullende uitkering: de meerjarige aanvullende uitkering, bedoeld in [artikel 74, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+e. meerjarige aanvullende uitkering: de meerjarige aanvullende uitkering, bedoeld in artikel 74, eerste lid, van de wet;  
 
-f. toetsingscommissie: de toetsingscommissie Wet werk en bijstand, bedoeld in [artikel 73 van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md); 
+f. toetsingscommissie: de toetsingscommissie Wet werk en bijstand, bedoeld in artikel 73 van de wet; 
 
-g. IOAW: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+g. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-h. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
+h. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 
 ### §  2  
 
@@ -39,11 +39,11 @@ h. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewe
 
 ####Beeld van de uitvoering
 
-1.  Het beeld van de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.  
+1.  Het beeld van de uitvoering, bedoeld in artikel 77, tweede lid, van de wet wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.  
 2.  Het beeld van de uitvoering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.  
-3.  Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend. 
+3.  Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in artikel 69, eerste lid, van de wet voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend. 
 4.  De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister.  
-5.  Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).  
+5.  Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de wet.  
 
 ### §  3  
 
@@ -53,28 +53,28 @@ h. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewe
 
 ####Betaling
 
-1.  Met uitzondering van de maand mei, wordt iedere maand op of omstreeks de vijftiende dag van die maand 8% van de voor het betreffende jaar vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) betaalbaar gesteld. In de maand mei wordt op of omstreeks de vijftiende dag 12% van de uitkeringen betaalbaar gesteld.   
-2.  Het bedrag waarmee de uitkering op grond van [artikel 71 van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt aangepast, wordt in gelijke delen verrekend met de voor het betreffende kalenderjaar resterende maandelijks te betalen delen van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
-3.  Elk van de drie delen waaruit de meerjarige aanvullende uitkering bestaat, bedoeld in [artikel 10c, tweede lid, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), wordt betaalbaar gesteld voor 1 april van het tweede kalenderjaar volgend op het kalenderjaar waar het desbetreffende deel op ziet. 
+1.  Met uitzondering van de maand mei, wordt iedere maand op of omstreeks de vijftiende dag van die maand 8% van de voor het betreffende jaar vastgestelde uitkering, bedoeld in artikel 69, eerste lid, van de wet betaalbaar gesteld. In de maand mei wordt op of omstreeks de vijftiende dag 12% van de uitkeringen betaalbaar gesteld.   
+2.  Het bedrag waarmee de uitkering op grond van artikel 71 van de wet wordt aangepast, wordt in gelijke delen verrekend met de voor het betreffende kalenderjaar resterende maandelijks te betalen delen van de uitkering, bedoeld in artikel 69, eerste lid, van de wet.   
+3.  Elk van de drie delen waaruit de meerjarige aanvullende uitkering bestaat, bedoeld in artikel 10c, tweede lid, van het Besluit WWB 2007, wordt betaalbaar gesteld voor 1 april van het tweede kalenderjaar volgend op het kalenderjaar waar het desbetreffende deel op ziet. 
 
 ### Artikel  5a  
 
 ####Opschorting betaling bij vaststelling ernstige tekortkomingen
 
-1.  Indien de minister toepassing geeft aan [artikel 76, derde lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) schort hij de betaling van de vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.   
-2.  De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van [artikel 76, derde lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) heeft vastgesteld is verstreken.  
+1.  Indien de minister toepassing geeft aan artikel 76, derde lid, van de wet schort hij de betaling van de vastgestelde uitkering, bedoeld in artikel 69, eerste lid, van de wet gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.   
+2.  De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van artikel 76, derde lid, van de wet heeft vastgesteld is verstreken.  
 
 ### Artikel  6  
 
 ####Gegevens verdeelmodel 25.000+ gemeenten
 
-In de bijlage bij deze regeling zijn de peiljaren, peildata en gewichten opgenomen die gelden voor de verdeelmaatstaven, bedoeld in de bijlage bij het [Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md). 
+In de bijlage bij deze regeling zijn de peiljaren, peildata en gewichten opgenomen die gelden voor de verdeelmaatstaven, bedoeld in de bijlage bij het Besluit WWB 2007. 
 
 ### Artikel  6a  
 
 ####Correctiefactor te late indiening verantwoordingsinformatie
 
-De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), bedraagt 5%. 
+De correctiefactor, bedoeld in artikel 8a, tweede lid, van het Besluit WWB 2007, bedraagt 5%. 
 
 ### §  4  
 
@@ -88,11 +88,11 @@ De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit WWB 2007
 
 ####Vrijlating uitkeringen en vergoedingen
 
-Niet tot de middelen, bedoeld in [artikel 31 van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), worden gerekend: 
+Niet tot de middelen, bedoeld in artikel 31 van de wet, worden gerekend: 
 
 a. de tegemoetkoming, bedoeld in artikel 3 van de Uitkeringsregeling Hulpfonds Gedupeerden Bijlmerramp;  
 
-b. de eenmalige uitkering en het voorschot, bedoeld in de [Regeling tegemoetkoming asbestslachtoffers](../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md);  
+b. de eenmalige uitkering en het voorschot, bedoeld in de Regeling tegemoetkoming asbestslachtoffers;  
 
 c. de vergoeding, bedoeld in artikel 16 van het Besluit tot wijziging van de aanwijzing van het luchtvaartterrein Maastricht, alsmede vaststelling van geluidszones (Interim-aanwijzingsbesluit luchtvaartterrein Maastricht);  
 
@@ -100,27 +100,29 @@ d. de vergoedingen, bedoeld in de artikelen 3, 4 en 5 van de Uitkeringsregeling 
 
 e. de eenmalige uitkering toegekend aan oud-mijnwerkers in verband met silicose;  
 
-f. de eenmalige uitkering ingevolge de [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](../../../../wet/uitkeringswet/tegemoetkoming/twee/tot/vijfjarige/diensttijd/veteranen/BWBR0009197/README.md);  
+f. de eenmalige uitkering ingevolge de Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen;  
 
 g. de individuele uitkeringen in het kader van tegoeden Tweede Wereldoorlog aan leden van de Joodse, Sinti, Roma en Indische gemeenschappen;  
 
-h.een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in[ artikel 7, eerste lid, onderdeel a, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) van ten hoogste € 150,– per maand met een maximum van € 1500,– per jaar;
+h.een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de wet van ten hoogste € 150,– per maand met een maximum van € 1500,– per jaar;
 
-i.de eenmalige tegemoetkoming, bedoeld in [artikel 2 van de Tijdelijke regeling eenmalige tegemoetkoming pensioenverevening](../../../../ministeriele-regeling/tijdelijke/regeling/eenmalige/tegemoetkoming/pensioenverevening/BWBR0020647/README.md);
+i.de eenmalige tegemoetkoming, bedoeld in artikel 2 van de Tijdelijke regeling eenmalige tegemoetkoming pensioenverevening;
 
-j.de uitkering, bedoeld in artikel 3 van de Vaststellingsovereenkomst houdende een regeling voor een collectieve partiële afwikkeling van schade die mogelijk verband houdt met DES-gebruik tijdens zwangerschap, die is gehecht aan de beschikking van het Gerechtshof Amsterdam van 1 juni 2006, R05/1743 (LJN: AX6440) en bij die beschikking op grond van [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) verbindend is verklaard voor de in artikel 1 van die overeenkomst bedoelde personen;
+j.de uitkering, bedoeld in artikel 3 van de Vaststellingsovereenkomst houdende een regeling voor een collectieve partiële afwikkeling van schade die mogelijk verband houdt met DES-gebruik tijdens zwangerschap, die is gehecht aan de beschikking van het Gerechtshof Amsterdam van 1 juni 2006, R05/1743 (LJN: AX6440) en bij die beschikking op grond van artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek verbindend is verklaard voor de in artikel 1 van die overeenkomst bedoelde personen;
 
-k.de tegemoetkoming, bedoeld in [artikel 4 van de Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom](../../../../ministeriele-regeling/regeling/tegemoetkoming/niet-loondienstgerelateerde/slachtoffers/van/etc/BWBR0022913/README.md); 
+k.de tegemoetkoming, bedoeld in artikel 4 van de Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom; 
 
 l.de vergoeding, toegekend aan slachtoffers van seksueel misbruik in de Rooms-Katholieke Kerk, bedoeld in de Compensatieregelingen R.-K. Kerk Nederland;
 
-m. de financiële tegemoetkoming in de geleden schade, bedoeld in het Statuut voor de buitengerechtelijke afhandeling van civiele vorderingen tot schadevergoeding in verband met seksueel misbruik van minderjarigen in instellingen en pleeggezinnen en de uitkering, bedoeld in de [Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen](../../../../ministeriele-regeling/tijdelijke/regeling/uitkeringen/seksueel/misbruik/minderjarigen/in/etc/BWBR0033690/README.md).  
+m. de financiële tegemoetkoming in de geleden schade, bedoeld in het Statuut voor de buitengerechtelijke afhandeling van civiele vorderingen tot schadevergoeding in verband met seksueel misbruik van minderjarigen in instellingen en pleeggezinnen en de uitkering, bedoeld in de Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen; 
+
+n.de eenmalige bijzondere uitkering, bedoeld in artikel 21a, eerste lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen, dan wel artikel 21a, eerste lid, van het Besluit bijzondere militaire pensioenen. 
 
 ### Artikel 7a  
 
 ####Indexering
 
-1.  Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wijzigen, worden de bedragen, genoemd in artikel 7, onderdeel h, herzien met het percentage van deze wijziging.   
+1.  Met ingang van de dag waarop de bedragen, genoemd in artikel 2, zesde lid, van de Wet op de loonbelasting 1964 wijzigen, worden de bedragen, genoemd in artikel 7, onderdeel h, herzien met het percentage van deze wijziging.   
 2.  Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.  
 
 ### §  6  
@@ -133,13 +135,13 @@ m. de financiële tegemoetkoming in de geleden schade, bedoeld in het Statuut vo
 
 In deze paragraaf wordt verstaan onder: 
 
-a. inkomen: in aanmerking te nemen inkomen, bedoeld in [artikel 32, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) voorzover daarover aanspraak op vakantietoeslag bestaat, zonder de daarin begrepen aanspraak op vakantietoeslag, na aftrek van de daarover verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in [artikel 31, derde lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+a. inkomen: in aanmerking te nemen inkomen, bedoeld in artikel 32, eerste lid, van de wet voorzover daarover aanspraak op vakantietoeslag bestaat, zonder de daarin begrepen aanspraak op vakantietoeslag, na aftrek van de daarover verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in artikel 31, derde lid, van de wet;  
 
-b. aanspraak op vakantietoeslag: aanspraak op vakantietoeslag voor zover daarop aanspraak bestaat over het inkomen, bedoeld in [artikel 32, eerste lid, van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), na aftrek van de daarover verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in [artikel 31, derde lid van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+b. aanspraak op vakantietoeslag: aanspraak op vakantietoeslag voor zover daarop aanspraak bestaat over het inkomen, bedoeld in artikel 32, eerste lid, van de wet, na aftrek van de daarover verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in artikel 31, derde lid van de wet;  
 
-c. algemene heffingskorting: tot een bedrag per maand omgerekende algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+c. algemene heffingskorting: tot een bedrag per maand omgerekende algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964;  
 
-d. arbeidskorting: arbeidskorting, bedoeld in [artikel 22a van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+d. arbeidskorting: arbeidskorting, bedoeld in artikel 22a van de Wet op de loonbelasting 1964.   
 
 ### Artikel  9  
 
@@ -155,9 +157,9 @@ Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag besta
 
 ### Artikel  11  
 
-####Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) met inkomen uit tegenwoordige arbeid
+####Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet met inkomen uit tegenwoordige arbeid
 
-Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.  
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.  
 
 | bij een netto inkomen per maand  | bedraagt de aanspraak op vakantietoeslag  | gelijk aan of meer dan  | en minder dan  |
 |:---|:---|:---|:---|
@@ -169,9 +171,9 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 ### Artikel  12  
 
-####Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) met inkomen uit vroegere arbeid
+####Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet met inkomen uit vroegere arbeid
 
-Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.  
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.  
 
 | bij een netto inkomen per maand  | bedraagt de aanspraak op vakantietoeslag  | gelijk aan of meer dan  | en minder dan  |
 |:---|:---|:---|:---|
@@ -182,9 +184,9 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 ### Artikel  13  
 
-####Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) voor wie geen rekening is gehouden met de algemene heffingskorting
+####Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet voor wie geen rekening is gehouden met de algemene heffingskorting
 
-Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) nog niet heeft bereikt en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.  
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.  
 
 | bij een netto inkomen per maand  | bedraagt de aanspraak op vakantietoeslag  | gelijk aan of meer dan  | en minder dan  |
 |:---|:---|:---|:---|
@@ -193,9 +195,9 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 ### Artikel  14  
 
-####Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) hebben bereikt
+####Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt
 
-1.  Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:  
+1.  Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in artikel 13 van de Algemene Ouderdomswet bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:  
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -203,8 +205,8 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | b. alleenstaande ouder, indien  | --- | --- | --- |
 | – het inkomen € 1.017,77 of meer bedraagt  | 6,64%  | x ink  | – € 14,28  |
 | – het inkomen lager is dan € 1.017,77  | 6,64%  | x ink  | --- |
-| c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) hebben bereikt  | 6,82%  | x ink  | --- |
-| d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien  | --- | --- | --- |
+| c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt  | 6,82%  | x ink  | --- |
+| d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien  | --- | --- | --- |
 | – het inkomen € 850,38 of meer bedraagt  | 6,83%  | x ink  | – € 11,94  |
 | – het inkomen lager is dan € 850,38  | 6,83%  | x ink  | --- |
 
@@ -218,16 +220,16 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 ####Incidentele aanvullende uitkering
 
-1.  Een verzoek tot een incidentele aanvullende uitkering wordt in de periode van 1 januari tot en met 31 juli van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft, door de toetsingscommissie ontvangen. Een verzoek, dat door de toetsingscommissie wordt ontvangen na 31 juli wordt niet behandeld, met dien verstande dat indien [artikel 8b van de wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), onderscheidenlijk [artikel 40 van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [artikel 40 van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) van toepassing is het verzoek niet in behandeling wordt genomen indien het wordt ontvangen na 31 augustus.   
+1.  Een verzoek tot een incidentele aanvullende uitkering wordt in de periode van 1 januari tot en met 31 juli van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft, door de toetsingscommissie ontvangen. Een verzoek, dat door de toetsingscommissie wordt ontvangen na 31 juli wordt niet behandeld, met dien verstande dat indien artikel 8b van de wet, onderscheidenlijk artikel 40 van de IOAW en artikel 40 van de IOAZ van toepassing is het verzoek niet in behandeling wordt genomen indien het wordt ontvangen na 31 augustus.   
 2.  Een verzoek tot een incidentele aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld. 
 3.  Na afloop van de periode, bedoeld in het eerste lid, beslist de minister op het verzoek uiterlijk 31 december van het kalenderjaar waarin het verzoek tot een incidentele aanvullende uitkering is ontvangen.  
 4.  Een verzoek tot een incidentele aanvullende uitkering kan met betrekking tot een gemeente met meer dan 10.000 inwoners slechts voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie sprake is van: 
 
 a. een uitzonderlijke situatie op de arbeidsmarkt, en  
 
-b. een overstijging als bedoeld in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), die niet het gevolg is van: 
+b. een overstijging als bedoeld in artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007, die niet het gevolg is van: 
 
-1°. onrechtmatige uitvoering van de [wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), welke onrechtmatigheid blijkt uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), of  
+1°. onrechtmatige uitvoering van de wet, de IOAW of de IOAZ, welke onrechtmatigheid blijkt uit de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, of  
 
 2°. beleidskeuzen van, dan wel handelen door het college of de gemeenteraad van de tekortgemeente, met inbegrip van een ontoereikend gemeentelijk handhavings- en sanctiebeleid, dan wel de uitvoering daarvan.      
 5.  Van een uitzonderlijke situatie op de arbeidsmarkt is in ieder geval sprake, indien: 
@@ -238,22 +240,22 @@ b. de uitstroom van de tekortgemeente in jaar [t] ten opzichte van de gemiddelde
 6.  Het vierde lid, onderdeel b, onder 2°, is niet van toepassing op gemeenten met 40.000 of minder inwoners.   
 7.  Het vierde lid, onderdeel b, onder 1°, is niet van toepassing, indien de onrechtmatige uitvoering in 2012 geheel of grotendeels verband houdt met de uitvoering van de op 1 januari 2012 in werking getreden en bij de Wet afschaffing huishoudinkomenstoets met terugwerkende kracht tot en met 1 januari 2012 weer aangepaste bepalingen van de wet, die betrekking hebben op het inkomen van een gezin.  
 8.  Indien naar het oordeel van de toetsingscommissie met betrekking tot een gemeente met maximaal 40.000 inwoners geen sprake is van een uitzonderlijke situatie op de arbeidsmarkt als bedoeld in het vierde lid, onderdeel a, kan de toetsingscommissie het gevoerde gemeentelijk beleid en de uitvoering daarvan bij de oordeelsvorming betrekken en indien dat beleid of de uitvoering daarvan daartoe aanleiding geeft, alsnog tot het oordeel komen dat het verzoek voor inwilliging in aanmerking kan komen, tenzij het gemeentelijk handhavings- en sanctiebeleid, dan wel de uitvoering daarvan naar het oordeel van de toetsingscommissie ontoereikend is.   
-9.  Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), niet het gevolg is van een onrechtmatige uitvoering van de [wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md). 
+9.  Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007, niet het gevolg is van een onrechtmatige uitvoering van de wet, de IOAW of de IOAZ. 
 
 ### Artikel  15a  
 
 ####Meerjarige aanvullende uitkering
 
 1.  Een verzoek tot een meerjarige aanvullende uitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 31 maart van het eerste kalenderjaar waarop het verzoek betrekking heeft.   
-2.  Een verzoek als bedoeld in het eerste lid gaat vergezeld van gegevens op grond waarvan de toetsingscommissie kan beoordelen of voldaan is aan de vereisten, genoemd in [artikel 10a, eerste lid, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md).   
+2.  Een verzoek als bedoeld in het eerste lid gaat vergezeld van gegevens op grond waarvan de toetsingscommissie kan beoordelen of voldaan is aan de vereisten, genoemd in artikel 10a, eerste lid, van het Besluit WWB 2007.   
 3.  Een verzoek tot een meerjarige aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.  
 4.  Een verzoek dat door de toetsingscommissie wordt ontvangen na 31 maart wordt niet behandeld.   
 5.  De minister: 
 
 a. beslist uiterlijk 31 december van het kalenderjaar waarin het verzoek als bedoeld in het eerste lid is ingediend of dat verzoek wordt gehonoreerd en of de eigen bijdrage 2,5%, 5% of 7,5% bedraagt;  
 
-b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de [wet](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
-6.  Het percentage, bedoeld in [artikel 10a, eerste lid, onderdeel c, van het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), bedraagt 4,2% voor het kalenderjaar 2011 en 0% voor de kalenderjaren 2012 en 2013.  
+b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de wet op de wijze als bedoeld in artikel 17a van de Financiële verhoudingswet niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
+6.  Het percentage, bedoeld in artikel 10a, eerste lid, onderdeel c, van het Besluit WWB 2007, bedraagt 4,2% voor het kalenderjaar 2011 en 0% voor de kalenderjaren 2012 en 2013.  
 
 ###§ 7a 
 
@@ -263,12 +265,12 @@ b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast bin
 
 ####Regeling verrekening bestuurlijke boete bij recidive
 
-1.  Indien [artikel 29, zesde lid, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of [artikel 29, zesde lid, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de uitkering vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.   
+1.  Indien artikel 29, zesde lid, van de IOAW of artikel 29, zesde lid, van de IOAZ van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de uitkering vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.   
 2.  Voor zover de hoogte van de uitkering daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor: 
 
 a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en  
 
-b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in [artikel 2, tweede lid, van de Wet op het kindgebonden budget](../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md), dat gelet op het aantal kinderen van toepassing is.     
+b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in artikel 2, tweede lid, van de Wet op het kindgebonden budget, dat gelet op het aantal kinderen van toepassing is.     
 3.  Van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a, is sprake indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.   
 4.  Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.   
 5.  De vermeerdering, bedoeld in het vierde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.   
@@ -285,7 +287,7 @@ b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor 
 
 ####Grondslag
 
-Deze regeling is mede gebaseerd op de [artikelen 20a, tiende lid](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), en [29, zesde lid, van de IOAW](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [20a, tiende lid](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), en [29, zesde lid, van de IOAZ](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md). 
+Deze regeling is mede gebaseerd op de artikelen 20a, tiende lid, en 29, zesde lid, van de IOAW en 20a, tiende lid, en 29, zesde lid, van de IOAZ. 
 
 ### Artikel  16  
 
@@ -311,7 +313,7 @@ M. Rutte
 
 ####behorende bij artikel 6  van de Regeling WWB, IOAW en IOAZ
 
-Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md), gelden de volgende peiljaren, peildata en gewichten:  
+Voor de verdeelmaatstaven, bedoeld in de bijlage bij het Besluit WWB 2007, gelden de volgende peiljaren, peildata en gewichten:  
 
 | Verdeelmaatstaf  | Peiljaar  | Peildatum  | Gewicht  |
 |:---|:---|:---|:---|

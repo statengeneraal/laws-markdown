@@ -3086,9 +3086,9 @@ c. Gratis uitreiking, als bedoeld in artikel 80, tweede lid, van verordening 543
 1.  Een voorafgaande melding, bedoeld in artikel 78, eerste lid, van verordening 543/2011, wordt elektronisch ingediend bij de minister.   
 2.  Een melding als bedoeld in het eerste lid betreft een massa van ten hoogste 30.000 kilogram.  
 3.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
-4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats;   
-5.  Indien de oogst van de producten die uit de markt genomen worden, plaatsvindt op een dag nadat de termijn, bedoeld in het vierde lid is verlopen, wordt de controle, bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk verricht op de tweede werkdag na de datum van voorkeur die door de producentenorganisatie of unie van producentenorganisaties is aangegeven op het in het derde lid bedoelde formulier.   
-6.  De uit de markt genomen producten worden bij controle in dusdanige verpakking aangeboden dat controle mogelijk is en in elk geval niet in verpakking met een omvang groter dan 1 kubieke meter. 
+4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de derde werkdag plaats;   
+5.  De uit de markt genomen producten worden bij controle in dusdanige verpakking aangeboden dat controle mogelijk is en in elk geval niet in verpakking met een omvang groter dan 1 kubieke meter.  
+6.  Een producent of producentenorganisatie overlegt bij het indienen van een melding, als bedoeld in het eerste lid, van het uit de markt nemen van ten behoeve van gratis uitreiking, als bedoeld in artikel 230a, vierde lid, onderdeel c, een leveringscontract met de liefdadigheidsinstelling of -organisatie. 
 
 ### Artikel  230c  
 
@@ -3125,7 +3125,8 @@ i. de normale afzet van de betrokken productie niet in de weg staat, en
 
 ii. geen negatieve milieu-impact of negatieve fytosanitaire gevolgen heeft als bedoeld in artikel 80, eerste lid, van verordening 543/2011, en    
 
-b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.    
+b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.     
+4.  Indien voor gratis uitreiking, als bedoeld in artikel 230a, vierde lid, onderdeel c, bestemd product door de verwerkende industrie wordt verwerkt toont de afnemer ten genoegen van de minister aan de hand van bewijsstukken aan dat het product niet opnieuw in het commerciële handelscircuit terecht komt. 
 
 ### Artikel  230f  
 
@@ -3184,8 +3185,7 @@ De minister stelt de voor groen oogsten en niet oogsten te betalen vergoedingen,
 1.  Een voorafgaande melding, bedoeld in artikel 85, tweede lid, van verordening 543/2011, wordt elektronisch ingediend bij de minister.   
 2.  In de melding als bedoeld in het eerste lid wordt het door de minister toegekende registratienummer van het toepasselijke perceel of de registratienummers van de toepasselijke percelen, zoals vermeld op het formulier, bedoeld in de Regeling landbouwtelling en gecombineerde opgave 2014 opgegeven.  
 3.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
-4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de tweede daaropvolgende werkdag plaats;   
-5.  Indien het groenoogsten of de vernietiging van de producten plaatsvindt op een dag nadat de termijn, bedoeld in het vierde lid is verlopen, wordt de controle, bedoeld in artikel 110, eerste en tweede lid, van verordening 543/2011 uiterlijk verricht op de tweede werkdag na de datum van voorkeur die door de producentenorganisatie of unie van producentenorganisaties is aangegeven op het in het tweede lid bedoelde formulier. 
+4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de derde werkdag plaats;  
 
 ### Artikel  230j  
 

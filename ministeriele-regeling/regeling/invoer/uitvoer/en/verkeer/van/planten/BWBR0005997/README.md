@@ -3,7 +3,7 @@
 ##Regeling invoer, uitvoer en verkeer van planten
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 2 van de Plantenziektenwet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) en op [artikel 14](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), [aanhef en onderdeel d, van het Besluit bestrijding schadelijke organismen](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) 1991;
+Gelet op artikel 2 van de Plantenziektenwet en op artikel 14, aanhef en onderdeel d, van het Besluit bestrijding schadelijke organismen 1991;
 
 Gelet op richtlijn 77/93/EEG van de Raad van de Europese Gemeenschappen van 21 december 1976 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten of voor plantaardige produkten schadelijke organismen(PbEG 1977, L 26) en de daarop gebaseerde richtlijnen;
 
@@ -252,22 +252,6 @@ c. zij voldoen aan artikel 3, eerste lid, onderdeel c, van uitvoeringsbesluit n
 
 Onverminderd de artikelen 10, tweede lid, en 12, mogen planten of delen van planten van het geslacht Castanea Mill., bestemd voor opplant, met uitzondering van vruchten en zaden, afkomstig uit derde landen, slechts in de Gemeenschap worden binnengebracht indien zij voldoen aan bijlage I, onderdeel 1, bij beschikking 2006/464/EG en indien ze bij binnenkomst in de Gemeenschap overeenkomstig artikel 13bis, lid 1, van richtlijn nr. 2000/29/EG zijn gecontroleerd op de aanwezigheid van Dryocosmus kuriphilus Yasumatsu en daarvan vrij zijn bevonden.
 
-### Artikel  12k  
-
-1.  Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
-
-a. schadelijk organisme: Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) of Epitrix tuberis (Gentner);  
-
-b. uitvoeringsbesluit 2012/270/EU: uitvoeringsbesluit 2012/270/EU van de Commissie van 16 mei 2012 betreffende noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) en Epitrix tuberis (Gentner) te voorkomen (PbEU 2012, L132).     
-2.  Het is verboden het schadelijke organisme in te voeren en binnen Nederland te verspreiden.   
-3.  Knollen van Solanum tuberosum L. van oorsprong uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts in de Europese Unie worden binnengebracht als: 
-
-a. zij voldoen aan de specifieke invoervoorschriften van punt 1 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU en  
-
-b. zij, onverminderd de artikelen 12 en 12a, bij binnenkomst in de Europese Unie overeenkomstig punt 5 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU zijn geïnspecteerd.     
-4.  Knollen van Solanum tuberosum L. van oorsprong uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt en die zijn ingevoerd overeenkomstig het derde lid, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden van punt 3 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU.   
-5.  Knollen van Solanum tuberosum L. van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit nr. 2012/270/EU zijn afgebakend, mogen alleen binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU.  
-
 ### Artikel  12l  
 
 1.  Voor de toepassing van dit artikel verstaan onder: 
@@ -327,6 +311,18 @@ e. voorzien zijn van een etiket dat voldoet aan de eisen, genoemd in artikel 6 v
 ### Artikel  12q  
 
 Het binnenbrengen in de Europese Unie van planten, met uitzondering van zaden en wortels, van Colocasia Schott en van planten, met uitzondering van zaden, van Mangifera L., Momordica L., Solanum melongena L.and Trichosanthes L., van oorsprong uit India, is verboden. 
+
+### Artikel  12r  
+
+1.  Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
+
+a. *schadelijk organisme:* Xylella fastidiosa (Well et Raju);  
+
+b. *gevoelige planten:* planten van het geslacht Catharanthus G. Don, Nerium L., Olea L., Prunus L., Vinca L., Malva L., Portulaca L., Quercus L. en Sorghum L., bestemd voor opplant, met uitzondering van zaad;  
+
+c. *uitvoeringsbesluit nr. 2014/497/EU:* uitvoeringsbesluit nr. 2014/497/EU van de Commissie van 23 juli 2014 betreffende maatregelen om het binnenbrengen en de verspreiding in de Unie van Xylella fastidiosa (Well et Raju) te voorkomen (PbEG L 219).     
+2.  Gevoelige planten worden slechts op het grondgebied van de Europese Unie binnengebracht indien zij voldoen aan afdeling 1 van bijlage I bij uitvoeringsbesluit nr. 2014/497/EU, en indien zij bij binnenkomst in de Europese Unie overeenkomstig afdeling 2 van bijlage I bij uitvoeringsbesluit nr. 2014/497/EU zijn onderzocht op het schadelijke organisme en daarvan vrij worden bevonden.   
+3.  Gevoelige planten van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit nr. 2014/497/EU zijn afgebakend mogen alleen binnen de Europese Unie in het verkeer worden gebracht als zij voldoen aan de voorwaarden van bijlage II.  
 
 ###Artikel 13 
 
@@ -405,8 +401,8 @@ f. datum van eerste aanvraag.
 
 ###Artikel  20a 
 
-1. De ontvanger van een zending aan wie een vergunning is verleend voor elektronische aangifte als bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) kan overeenkomstig die vergunning, de zending op elektronische wijze aanbieden aan de Plantenziektenkundige Dienst voor het onderzoek, bedoeld in artikel 12, eerste lid. 
-2.  Het eerste lid is van overeenkomstige toepassing op een gemachtigde als bedoeld in [artikel 2:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), aan wie vergunning is verleend voor elektronische aangifte als bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md).
+1. De ontvanger van een zending aan wie een vergunning is verleend voor elektronische aangifte als bedoeld in artikel 1:11 van de Algemene Douaneregeling kan overeenkomstig die vergunning, de zending op elektronische wijze aanbieden aan de Plantenziektenkundige Dienst voor het onderzoek, bedoeld in artikel 12, eerste lid. 
+2.  Het eerste lid is van overeenkomstige toepassing op een gemachtigde als bedoeld in artikel 2:1 van de Algemene wet bestuursrecht, aan wie vergunning is verleend voor elektronische aangifte als bedoeld in artikel 1:11 van de Algemene Douaneregeling.
 3.  Het aanbieden voor onderzoek, bedoeld in het eerste en tweede lid, geschiedt via een daarvoor bestemd elektronisch systeem met behulp van een door de Minister beschikbaar gestelde toegang.
 4.  De Minister kan besluiten de verstrekte toegang te blokkeren, indien de indiener of een met hem geassocieerd bedrijf of organisatie in het verleden een elektronische aanbieding voor onderzoek heeft ingediend in strijd met deze regeling.
 5.  De Minister kan een elektronische aanbieding voor onderzoek weigeren, indien dit niet overeenkomstig deze regeling is ingediend.
@@ -414,12 +410,12 @@ f. datum van eerste aanvraag.
 7.  De Minister kan een elektronisch verzonden bericht weigeren voor zover de betrouwbaarheid of vertrouwelijkheid van dit bericht onvoldoende is gewaarborgd, gelet op de aard en de inhoud van het bericht en het doel waarvoor het wordt gebruikt.
 8.  De Minister deelt een weigering op grond van dit artikel zo spoedig mogelijk aan de afzender mede.
 9.  Als tijdstip waarop een elektronisch bericht door de Plantenziektenkundige Dienst elektronisch is ontvangen, geldt het tijdstip waarop het bericht zijn systeem voor gegevensverwerking heeft bereikt.
-10.  De Minister kan besluiten de elektronische aanbieding voor onderzoek niet te behandelen, indien het elektronisch bericht geheel of gedeeltelijk is geweigerd op grond van het vijfde, zesde en zevende lid. [Artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.
+10.  De Minister kan besluiten de elektronische aanbieding voor onderzoek niet te behandelen, indien het elektronisch bericht geheel of gedeeltelijk is geweigerd op grond van het vijfde, zesde en zevende lid. Artikel 4:5 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
 
 ### Artikel  20b  
 
-1.  Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden, stelt de Plantenziektenkundige Dienst de ontvanger van de zending of diens gemachtigde via het systeem, bedoeld in artikel 20a, derde lid, op de hoogte van de toepassing van artikel 12, elfde lid, dan wel van de onverkorte toepassing van artikel 12, eerste lid. De ontvanger van de zending of diens gemachtigde doet bij de elektronische aangifte ten invoer, bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), mededeling aan de douane over de toepassing van artikel 12, elfde lid.
-2. Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden en aan artikel 12, twaalfde lid, toepassing is gegeven, kan het besluit bedoeld in artikel 12, tiende lid, worden bekendgemaakt door elektronische toezending aan degene aan wie vergunning is verleend voor elektronische aangifte als bedoeld in [artikel 1:11 van de Algemene Douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md). 
+1.  Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden, stelt de Plantenziektenkundige Dienst de ontvanger van de zending of diens gemachtigde via het systeem, bedoeld in artikel 20a, derde lid, op de hoogte van de toepassing van artikel 12, elfde lid, dan wel van de onverkorte toepassing van artikel 12, eerste lid. De ontvanger van de zending of diens gemachtigde doet bij de elektronische aangifte ten invoer, bedoeld in artikel 1:11 van de Algemene Douaneregeling, mededeling aan de douane over de toepassing van artikel 12, elfde lid.
+2. Indien een zending overeenkomstig artikel 20a aan de Plantenziektenkundige Dienst voor onderzoek is aangeboden en aan artikel 12, twaalfde lid, toepassing is gegeven, kan het besluit bedoeld in artikel 12, tiende lid, worden bekendgemaakt door elektronische toezending aan degene aan wie vergunning is verleend voor elektronische aangifte als bedoeld in artikel 1:11 van de Algemene Douaneregeling. 
 
 ### Artikel  21  
 

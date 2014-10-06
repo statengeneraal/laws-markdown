@@ -3,12 +3,12 @@
 ##Regeling vergoedingen documenten Wet personenvervoer 2000
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 12, derde lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [17, tweede lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [25, tweede lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [28, vierde lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [29, tweede lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [76, derde lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [87, eerste lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), en [125, tweede lid, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);
+Gelet op de artikelen 12, derde lid, 17, tweede lid, 25, tweede lid, 28, vierde lid, 29, tweede lid, 76, derde lid, 87, eerste lid, en 125, tweede lid, van het Besluit personenvervoer 2000;
 Besluit:    
 
 ### Artikel  1  
 
-Voor het behandelen van een aanvraag om verlening van vergunningen als bedoeld in [artikel 4 van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
+Voor het behandelen van een aanvraag om verlening van vergunningen als bedoeld in artikel 4 van de Wet personenvervoer 2000, is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
 | Vergunning  |
 |:---|
@@ -17,13 +17,13 @@ Voor het behandelen van een aanvraag om verlening van vergunningen als bedoeld i
 
 ### Artikel  2  
 
-Voor het behandelen van een aanvraag om wijziging van vergunningen als bedoeld in [artikel 4 van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
+Voor het behandelen van een aanvraag om wijziging van vergunningen als bedoeld in artikel 4 van de Wet personenvervoer 2000, is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
 | Wijzigen vergunning  |
 |:---|
 | Communautaire vergunning  | € 447,–  |
 | Taxivervoer  | € 783,–  |
-| Taxivervoer en communautaire vergunning, beperkt tot de gegevens bedoeld in [artikel 14, eerste of tweede lid](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), of [artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md)  | € 112,–  |
+| Taxivervoer en communautaire vergunning, beperkt tot de gegevens bedoeld in artikel 14, eerste of tweede lid, of artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000  | € 112,–  |
 
 ### Artikel  3  
 
@@ -36,7 +36,7 @@ Voor het behandelen van een aanvraag om verlening van documenten die samenhangen
 
 ### Artikel  4  
 
-Voor het behandelen van een aanvraag om verlening of wijziging van documenten ten behoeve van het verrichten van internationaal vervoer per bus en auto als bedoeld in [hoofdstuk 8 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
+Voor het behandelen van een aanvraag om verlening of wijziging van documenten ten behoeve van het verrichten van internationaal vervoer per bus en auto als bedoeld in hoofdstuk 8 van het Besluit personenvervoer 2000, is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
 | Document  |
 |:---|
@@ -44,7 +44,7 @@ Voor het behandelen van een aanvraag om verlening of wijziging van documenten te
 | Gewaarmerkt afschrift van een communautaire vergunning  | € 84,–  |
 | Verlening van een vergunning geregeld vervoer  | € 1.788,–  |
 | Wijziging van een vergunning geregeld vervoer  | € 894,–  |
-| Wijziging van de naam van de onderaannemer, bedoeld in artikel 6 van Verordening (EG) nr. 1073/2009 van het Europees Parlement en de Raad, van 21 oktober 2009 of van de gegevens bedoeld in artikel 8, derde lid, van Verordening (EEG) nr. 684/92 of in [artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) in de vergunning geregeld vervoer  | € 224,–  |
+| Wijziging van de naam van de onderaannemer, bedoeld in artikel 6 van Verordening (EG) nr. 1073/2009 van het Europees Parlement en de Raad, van 21 oktober 2009 of van de gegevens bedoeld in artikel 8, derde lid, van Verordening (EEG) nr. 684/92 of in artikel 15, eerste lid, onder b, van het Besluit personenvervoer 2000 in de vergunning geregeld vervoer  | € 224,–  |
 | Vergunningbewijs geregeld vervoer  | € 67,–  |
 | Vergunning pendelvervoer  | € 894,–  |
 | Reisbladen  | € 56,–  |
@@ -54,7 +54,7 @@ Voor het behandelen van een aanvraag om verlening of wijziging van documenten te
 
 ### Artikel  5  
 
-Voor het behandelen van een aanvraag om verlening van een vergunningbewijs als bedoeld in [artikel 17 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
+Voor het behandelen van een aanvraag om verlening van een vergunningbewijs als bedoeld in artikel 17 van het Besluit personenvervoer 2000, is een vergoeding verschuldigd als opgenomen in onderstaande tabel:  
 
 | Vergunningbewijs   |
 |:---|
@@ -63,11 +63,11 @@ Voor het behandelen van een aanvraag om verlening van een vergunningbewijs als b
 
 ### Artikel  7  
 
-Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in [artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in [artikel 83, vierde lid, van dat besluit](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), is een vergoeding verschuldigd van € 109,–. 
+Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000 alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in artikel 83, vierde lid, van dat besluit, is een vergoeding verschuldigd van € 109,–. 
 
 ### Artikel  8  
 
-In afwijking van artikel 1 is voor de behandeling van de aanvraag om verlening van een vergunning als bedoeld in de [artikelen VII van de wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer)](../../../../../../../../wet/wijzigingswet/wet/personenvervoer/voor/het/taxivervoer/(deregulering/etc/BWBR0010955/README.md) (Stb. 535), en [125 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), dan wel [artikel 112, derde lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md): 
+In afwijking van artikel 1 is voor de behandeling van de aanvraag om verlening van een vergunning als bedoeld in de artikelen VII van de wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer) (Stb. 535), en 125 van het Besluit personenvervoer 2000, dan wel artikel 112, derde lid, van de Wet personenvervoer 2000: 
 
 a.  geen vergoeding verschuldigd, dan wel, 
 
