@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 23 december 1988, nr. AW88/U1046, directoraat-generaal Management en Personeelsbeleid, directie Arbeidsvoorwaarden, hoofdafdeling Pensioenen en Wachtgelden; 
 
-Gelet op [artikel 125](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md), eerste lid, en [artikel 134, eerste lid, van de Ambtenarenwet](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929; 
+Gelet op artikel 125, eerste lid, en artikel 134, eerste lid, van de Ambtenarenwet 1929; 
 
 De Raad van State gehoord (advies van 11 april 1989, nr. WO4.89.0015); 
 
@@ -32,17 +32,17 @@ e. ontslag als werknemer: het ontslag uit de betrekking bij de privaatrechtelijk
 
 f. betrokkene:  
 
-1. de betrokkene in de zin van het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) aan wie een privatiseringsontslag is verleend en die onmiddellijk aansluitend aan dat ontslag in dienst is getreden van de privaatrechtelijke organisatie;   
+1. de betrokkene in de zin van het Rijkswachtgeldbesluit 1959 aan wie een privatiseringsontslag is verleend en die onmiddellijk aansluitend aan dat ontslag in dienst is getreden van de privaatrechtelijke organisatie;   
 
-2. de betrokkene in de zin van de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) aan wie een privatiseringsontslag is verleend en die onmiddellijk aansluitend aan dat ontslag in dienst is getreden van de privaatrechtelijke organisatie;   
+2. de betrokkene in de zin van de Uitkeringsregeling 1966 aan wie een privatiseringsontslag is verleend en die onmiddellijk aansluitend aan dat ontslag in dienst is getreden van de privaatrechtelijke organisatie;   
 
 3. degene die recht heeft op een uitkering ingevolge de Tijdelijke regeling WWV-vervangende uitkering;     
 
-g. wachtgeld: wachtgeld ingevolge het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md);   
+g. wachtgeld: wachtgeld ingevolge het Rijkswachtgeldbesluit 1959;   
 
-h. uitkering: uitkering ingevolge de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md);   
+h. uitkering: uitkering ingevolge de Uitkeringsregeling 1966;   
 
-i. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);   
+i. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in artikel 6 van de Wet privatisering ABP;   
 
 j. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP.     
 
@@ -50,8 +50,8 @@ j. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP.
 
 ### Artikel  2  
 
-1.  In afwijking van [artikel 5, eerste lid, van het Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md), heeft de betrokkene geen recht op wachtgeld uit hoofde van het privatiseringsontslag.    
-2.   In afwijking van [artikel 7, eerste lid, van de Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), heeft de betrokkene geen recht op uitkering uit hoofde van het privatiseringsontslag.   
+1.  In afwijking van artikel 5, eerste lid, van het Rijkswachtgeldbesluit 1959, heeft de betrokkene geen recht op wachtgeld uit hoofde van het privatiseringsontslag.    
+2.   In afwijking van artikel 7, eerste lid, van de Uitkeringsregeling 1966, heeft de betrokkene geen recht op uitkering uit hoofde van het privatiseringsontslag.   
 
 ### Artikel  3  
 
@@ -60,8 +60,8 @@ j. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP.
 
 ### Artikel  3a  
 
-1.  De duur van het wachtgeld ingevolge deze regeling wordt uitsluitend vastgesteld met toepassing van [artikel 6*a* van het Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md).    
-2.   De duur van de uitkering ingevolge deze regeling wordt uitsluitend vastgesteld met toepassing van [artikel 8*a* van de Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md).   
+1.  De duur van het wachtgeld ingevolge deze regeling wordt uitsluitend vastgesteld met toepassing van artikel 6*a* van het Rijkswachtgeldbesluit 1959.    
+2.   De duur van de uitkering ingevolge deze regeling wordt uitsluitend vastgesteld met toepassing van artikel 8*a* van de Uitkeringsregeling 1966.   
 
 ### Artikel  4  
 
@@ -73,19 +73,19 @@ j. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP.
 
 ### Artikel  5  
 
-In afwijking in zoverre van het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) wordt voor de toepassing van de bepalingen in die regelingen die betrekking hebben op de inschrijving als werkzoekende bij de Arbeidsvoorzieningsorganisatie, ten aanzien van de betrokkene onder ontslag verstaan, het ontslag als werknemer.  
+In afwijking in zoverre van het Rijkswachtgeldbesluit 1959 en de Uitkeringsregeling 1966 wordt voor de toepassing van de bepalingen in die regelingen die betrekking hebben op de inschrijving als werkzoekende bij de Arbeidsvoorzieningsorganisatie, ten aanzien van de betrokkene onder ontslag verstaan, het ontslag als werknemer.  
 
 ### Artikel  6  
 
-1.  Voor zover nodig in afwijking van het [Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en de [Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) gelden voor de betrokkene op wie artikel 3 van toepassing is de bepalingen in dit artikel.   
-2.   Onder ontslag, bedoeld in [artikel 8 van het Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en [artikel 9 van de Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) wordt verstaan het ontslag als werknemer.   
+1.  Voor zover nodig in afwijking van het Rijkswachtgeldbesluit 1959 en de Uitkeringsregeling 1966 gelden voor de betrokkene op wie artikel 3 van toepassing is de bepalingen in dit artikel.   
+2.   Onder ontslag, bedoeld in artikel 8 van het Rijkswachtgeldbesluit 1959 en artikel 9 van de Uitkeringsregeling 1966 wordt verstaan het ontslag als werknemer.   
 3.   Van de inkomsten waarop de betrokkene in verband met het ontslag als werknemer of in verband met ziekte of arbeidsongeschiktheid uit anderen hoofde aanspraak heeft, wordt een bedrag ten hoogste gelijk aan 70% van de bezoldiging op het bedrag van het wachtgeld of de uitkering in mindering gebracht, met dien verstande dat de inkomsten in verband met arbeidsongeschiktheid en het wachtgeld, de uitkering of de WWV-vervangende uitkering, tezamen niet minder zullen bedragen dan 70% van de bezoldiging. Onder bezoldiging wordt verstaan de ten aanzien van de betrokkene vastgestelde bezoldiging in de zin van de in het eerste lid genoemde ontslaguitkeringsregelingen.    
-4.   Onder aanspraak op doorbetaling van de laatstelijk genoten bezoldiging uit hoofde van ziekte, bedoeld in [artikel 16, eerste lid, van het Rijkswachtgeldbesluit 1959](../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en [artikel 16, eerste lid, van de Uitkeringsregeling 1966](../../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) wordt mede verstaan de uitkering ingevolge de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de uitkering ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), waarop de betrokkene uit hoofde van zijn betrekking bij de geprivatiseerde organisatie aanspraak heeft.    
+4.   Onder aanspraak op doorbetaling van de laatstelijk genoten bezoldiging uit hoofde van ziekte, bedoeld in artikel 16, eerste lid, van het Rijkswachtgeldbesluit 1959 en artikel 16, eerste lid, van de Uitkeringsregeling 1966 wordt mede verstaan de uitkering ingevolge de Ziektewet en de uitkering ingevolge de Wet op de Arbeidsongeschiktheidsverzekering of de Wet werk en inkomen naar arbeidsvermogen, waarop de betrokkene uit hoofde van zijn betrekking bij de geprivatiseerde organisatie aanspraak heeft.    
 5.   Het vierde lid is niet van toepassing indien de uitkeringen als in dat lid bedoeld minder bedragen dan 70% van de desbetreffende uitkeringsgrondslag. Alsdan is de wijze van vermindering als bedoeld in het derde lid van overeenkomstige toepassing.   
 
 ### Artikel  6a  
 
-Artikel 6 is eveneens van toepassing op de betrokkene, genoemd in artikel 4, indien deze een uitkering geniet ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+Artikel 6 is eveneens van toepassing op de betrokkene, genoemd in artikel 4, indien deze een uitkering geniet ingevolge de Wet op de arbeidsongeschiktheidsverzekering of de Wet werk en inkomen naar arbeidsvermogen.  
 
 ### Artikel  7  
 

@@ -8,7 +8,7 @@ Op de voordracht van Onze Ministers van Binnenlandse Zaken en van Sociale Zaken 
 
 Overwegende dat de totstandkoming van de Algemene burgerlijke pensioenwet het wenselijk maakt de Uitkeringsregeling 1952 te vervangen;
 
-Gelet op de [artikelen 125](../../../../wet/ambtenarenwet/BWBR0001947/README.md), eerste lid, en [134, eerste lid, van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929;
+Gelet op de artikelen 125, eerste lid, en 134, eerste lid, van de Ambtenarenwet 1929;
 
 De Raad van State gehoord (advies van 27 juli 1966, nr. 53);
 
@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
+b. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in artikel 6 van de Wet privatisering ABP;  
 
 c. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP;  
 
@@ -29,11 +29,11 @@ d. pensioen: een pensioen krachtens het pensioenreglement;
 
 e.  arbeidsongeschiktheidspensioen: invaliditeitspensioen krachtens het pensioenreglement zoals dat luidde op 31 december 2006 dan wel ABP ArbeidsongeschiktheidsPensioen krachtens het pensioenreglement;  
 
-f.  arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of in de zin van [artikel 4, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel gedeeltelijke arbeidsgeschiktheid in de zin van [artikel 5 van laatstgenoemde wet](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+f.  arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering of in de zin van artikel 4, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel gedeeltelijke arbeidsgeschiktheid in de zin van artikel 5 van laatstgenoemde wet.  
 
-g.  arbeidsongeschiktheidsuitkering: uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) dan wel arbeidsongeschiktheidsuitkering, bedoeld in [hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) respectievelijk werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in [hoofdstuk 7 van laatstgenoemde wet](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+g.  arbeidsongeschiktheidsuitkering: uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering dan wel arbeidsongeschiktheidsuitkering, bedoeld in hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen respectievelijk werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7 van laatstgenoemde wet;  
 
-h. suppletie: een suppletie krachtens de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk](../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md);  
+h. suppletie: een suppletie krachtens de Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk;  
 
 i. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen.   
 
@@ -45,12 +45,12 @@ a. als ambtenaar in vaste dienst, die uit hoofde van zijn ontslag geen aanspraak
 
 b. als ambtenaar in tijdelijke dienst, die uit hoofde van zijn ontslag geen aanspraak op wachtgeld kan ontlenen aan bij de wet of door Ons vastgestelde bepalingen;      
 2.   Tenzij het tegendeel blijkt wordt onder betrokkene gewezen betrokkene begrepen.   
-3.   Onder betrokkene wordt mede begrepen de ambtenaar die op zijn aanvraag ontslag is verleend in verband met de aanvaarding van een functie buiten de overheid. Een en ander uitsluitend indien de ambtenaar is aangewezen als herplaatsingskandidaat als bedoeld in [artikel 49d](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [49e van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) danwel als bedoeld in de [artikelen 84d](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of [84e van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en hij binnen twee jaar nadat hij een functie heeft aanvaard buiten de overheid, buiten zijn schuld of toedoen wordt ontslagen.   
-4.  Geen betrokkene in de zin van dit besluit is degene die uit hoofde van zijn ontslag recht heeft op een uitkering op grond van de[ Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md) of een arbeidsongeschiktheidsuitkering op grond van [hoofdstuk 6](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+3.   Onder betrokkene wordt mede begrepen de ambtenaar die op zijn aanvraag ontslag is verleend in verband met de aanvaarding van een functie buiten de overheid. Een en ander uitsluitend indien de ambtenaar is aangewezen als herplaatsingskandidaat als bedoeld in artikel 49d of 49e van het Algemeen Rijksambtenarenreglement danwel als bedoeld in de artikelen 84d of 84e van het Ambtenarenreglement Staten-Generaal en hij binnen twee jaar nadat hij een functie heeft aanvaard buiten de overheid, buiten zijn schuld of toedoen wordt ontslagen.   
+4.  Geen betrokkene in de zin van dit besluit is degene die uit hoofde van zijn ontslag recht heeft op een uitkering op grond van de Werkloosheidswet, het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk of een arbeidsongeschiktheidsuitkering op grond van hoofdstuk 6 of 7 van de Wet werk en inkomen naar arbeidsvermogen.  
 
 ### Artikel  3  
 
-1.  Dit besluit verstaat onder diensttijd, voorzover gelegen vóór 1 januari 1996: de tijd zoals die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, met uitzondering van de militaire diensttijd, bedoeld in de Algemene burgerlijke pensioenwet; voorzover gelegen op of na 1 januari 1996: de tijd gedurende welke de betrokkene overheidswerknemer is in de zin van de [Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md); in beide gevallen met uitzondering van de tijd:  
+1.  Dit besluit verstaat onder diensttijd, voorzover gelegen vóór 1 januari 1996: de tijd zoals die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, met uitzondering van de militaire diensttijd, bedoeld in de Algemene burgerlijke pensioenwet; voorzover gelegen op of na 1 januari 1996: de tijd gedurende welke de betrokkene overheidswerknemer is in de zin van de Wet privatisering ABP; in beide gevallen met uitzondering van de tijd:  
 
 a. die voorafgaat aan een ontslag uit een betrekking waaraan een functioneel leeftijdsontslag is verbonden, mits uit hoofde van dat ontslag een uitkering is toegekend;  
 
@@ -66,13 +66,13 @@ e. in een aangehouden betrekking.
 ### Artikel  3a  
 
 1.  Dit besluit verstaat onder dienstbetrekking iedere publiekrechtelijke of privaatrechtelijke arbeidsverhouding waarbij in dienst van een natuurlijke persoon of een lichaam werkzaamheden tegen bezoldiging of loon worden verricht.   
-2.   Het bepaalde bij of krachtens de [artikelen 4, 5 en 6 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) is van overeenkomstige toepassing.  
+2.   Het bepaalde bij of krachtens de artikelen 4, 5 en 6 van de Werkloosheidswet is van overeenkomstige toepassing.  
 
 ### Artikel  4  
 
-1.  Dit besluit verstaat onder bezoldiging: de bezoldiging in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaande aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.   
+1.  Dit besluit verstaat onder bezoldiging: de bezoldiging in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaande aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.   
 2.   In afwijking van het in het eerste lid bepaalde gelden de toelagen, bedoeld in de artikelen 14 en 18, eerste lid, van voornoemd besluit en de over die toelagen berekende vakantie-uitkering niet als deel van de bezoldiging.   
-3.   Indien de betrokkene geen ambtenaar is in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt als bezoldiging hetgeen overeenkomt met het eerste en tweede lid.   
+3.   Indien de betrokkene geen ambtenaar is in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 geldt als bezoldiging hetgeen overeenkomt met het eerste en tweede lid.   
 4.   Indien de door een betrokkene over de laatste aan het ontslag voorafgaande twaalf volle kalendermaanden genoten bezoldiging in de zin van het in het eerste lid genoemde besluit, dan wel hetgeen daarmee overeenkomt, alsmede de over die maanden genoten vakantie-uitkering dan wel verkregen aanspraken daarop geheel of gedeeltelijk uit wisselende inkomsten waaronder begrepen de evengenoemde aanspraken bestonden, geldt in zoverre in afwijking van het eerste lid als bezoldiging, met inachtneming van het tweede en derde lid, het gemiddelde van die inkomsten.  
 5. De bezoldiging, omschreven in het eerste tot en met vierde lid, wordt aangepast overeenkomstig een algemene wijziging van het salaris, van de vakantie-uitkering en van de eindejaarsuitkering van het burgerlijk rijkspersoneel, met ingang van de dag waarop die wijziging van het salaris, de vakantie-uitkering respectievelijk de eindejaarsuitkering van kracht wordt.  
 6.   Voor betrekkingen die geleidelijk worden opgeheven, alsmede in bijzondere gevallen, kan Onze Minister van het hiervoren bepaalde ten gunste van de betrokkene afwijken.  
@@ -95,13 +95,13 @@ Voor de toepassing van dit besluit wordt onder ontslag mede verstaan: beëindigi
 
 1.  Met ingang van de dag waarop het ontslag ingaat, bestaat recht op een uitkering waarvan de duur wordt vastgesteld:  
 
-a. voor de betrokkene die in de periode van 12 maanden onmiddellijk voorafgaande aan het ontslag in ten minste 26 weken als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) werkzaam is geweest, ingevolge artikel 8;  
+a. voor de betrokkene die in de periode van 12 maanden onmiddellijk voorafgaande aan het ontslag in ten minste 26 weken als werknemer als bedoeld in artikel 3 van de Werkloosheidswet werkzaam is geweest, ingevolge artikel 8;  
 
 b. voor de betrokkene die een diensttijd heeft van ten minste drie jaar onmiddellijk voorafgaande aan het ontslag, ingevolge artikel 8, dan wel - wanneer het bepaalde in artikel 8*a*, eerste lid, daartoe aanleiding geeft - ingevolge artikel 8a, tweede lid, en, indien van toepassing, artikel 8a, vierde lid.     
-2.   Indien het ontslag ingaat binnen 12 maanden na afloop van perioden waarin de betrokkene ten gevolge van arbeidsongeschiktheid verhinderd was werkzaamheden te verrichten, of werkzaamheden heeft verricht als bedoeld in [artikel 8 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en hij de hoedanigheid van werknemer heeft herkregen, wordt de in het eerste lid, onder a, bedoelde periode van 12 maanden verlengd met de duur van de perioden van de bedoelde verhindering.   
+2.   Indien het ontslag ingaat binnen 12 maanden na afloop van perioden waarin de betrokkene ten gevolge van arbeidsongeschiktheid verhinderd was werkzaamheden te verrichten, of werkzaamheden heeft verricht als bedoeld in artikel 8 van de Werkloosheidswet en hij de hoedanigheid van werknemer heeft herkregen, wordt de in het eerste lid, onder a, bedoelde periode van 12 maanden verlengd met de duur van de perioden van de bedoelde verhindering.   
 3.   De in een week verrichte werkzaamheden worden slechts in aanmerking genomen, voor zover zij betrekking hebben op de dienstbetrekking waaruit de betrokkene is ontslagen en op een of meer dienstbetrekkingen waarvoor eerstgenoemde dienstbetrekking in de plaats is gekomen, en voor zover deze niet reeds eerder in aanmerking zijn genomen voor een recht op uitkering.   
 4.   Met weken, bedoeld in het eerste tot en met derde lid, worden gelijkgesteld weken, waarover de betrokkene zonder te werken loon heeft ontvangen.   
-5.   De regels die gesteld zijn krachtens [artikel 17*a*, derde en vierde lid van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), zijn van overeenkomstige toepassing.   
+5.   De regels die gesteld zijn krachtens artikel 17*a*, derde en vierde lid van de Werkloosheidswet, zijn van overeenkomstige toepassing.   
 6.   In bijzondere gevallen kan Onze Minister bepalen dat, wanneer niet aan de verplichting bedoeld in artikel 6, eerste lid, is voldaan, het recht op uitkering ingaat met de dag waarop de inschrijving bij de Arbeidsvoorzieningsorganisatie van zijn woonplaats heeft plaatsgehad.   
 7.   Geen recht op uitkering bestaat:  
 
@@ -128,7 +128,7 @@ b. voor de toepassing van artikel 8a als uitgangsdatum uitgegaan van de datum op
 ####Duur van de uitkering
 
 1.  De uitkeringsduur is 6 maanden, met ingang van de dag waarop het ontslag ingaat.   
-2.  Indien de betrokkene in de periode van 5 jaar onmiddellijk voorafgaande aan het ontslag ten minste gedurende 3 jaar als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en in dienstbetrekking van 8 of meer uren per week werkzaam is geweest, wordt de duur van het wachtgeld verlengd met:   
+2.  Indien de betrokkene in de periode van 5 jaar onmiddellijk voorafgaande aan het ontslag ten minste gedurende 3 jaar als werknemer als bedoeld in artikel 3 van de Werkloosheidswet en in dienstbetrekking van 8 of meer uren per week werkzaam is geweest, wordt de duur van het wachtgeld verlengd met:   
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -143,18 +143,18 @@ b. voor de toepassing van artikel 8a als uitgangsdatum uitgegaan van de datum op
 
 3.   Het arbeidsverleden bedoeld in het tweede lid, wordt vastgesteld door samentelling van:  
 
-a. perioden, gelegen in de 5 jaar onmiddellijk voorafgaande aan het ontslag, waarover de betrokkene aantoont als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en in dienstbetrekking van 8 of meer uren per week werkzaam te zijn geweest, en  
+a. perioden, gelegen in de 5 jaar onmiddellijk voorafgaande aan het ontslag, waarover de betrokkene aantoont als werknemer als bedoeld in artikel 3 van de Werkloosheidswet en in dienstbetrekking van 8 of meer uren per week werkzaam te zijn geweest, en  
 
 b. de periode gelegen tussen de 18e verjaardag van de betrokkene en de dag, gelegen 5 jaar voor het ontslag.     
 4.   Perioden, waarin een betrokkene:  
 
 a. recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%;  
 
-b. ter zake van een dienstbetrekking op grond waarvan hem door het Rijk arbeidsongeschiktheidspensioen was verzekerd, recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt die naar aard en strekking overeenkomt met een toelage als bedoeld onder a, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 73% of meer bedraagt van het dagloon in de zin van de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk](../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md), waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
+b. ter zake van een dienstbetrekking op grond waarvan hem door het Rijk arbeidsongeschiktheidspensioen was verzekerd, recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt die naar aard en strekking overeenkomt met een toelage als bedoeld onder a, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 73% of meer bedraagt van het dagloon in de zin van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-c. een uitkering ontvangt op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
+c. een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-d. na beëindiging van zijn dienstbetrekking een uitkering ontvangt op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) over de maximale duur, bedoeld in [artikel 29, tweede lid, van die wet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+d. na beëindiging van zijn dienstbetrekking een uitkering ontvangt op grond van de Ziektewet over de maximale duur, bedoeld in artikel 29, tweede lid, van die wet;  
 
 e. een uitkering ontvangt, die naar aard en strekking overeenkomt met een uitkering bedoeld onder a of d;   worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dienstbetrekking van 8 of meer uren per week, in aanmerking genomen voor de periode van drie jaar bedoeld in het tweede lid, en voor de perioden gelegen in de vijf jaar, onmiddellijk voorafgaande aan het ontslag bedoeld in het derde lid.   
 5.   Voor de periode van drie jaar bedoeld in het tweede lid, en voor de perioden gelegen in de vijf jaar, onmiddellijk voorafgaande aan het ontslag bedoeld in het derde lid, worden perioden waarin een persoon een tot zijn huishouden behorend kind:  
@@ -173,7 +173,7 @@ b. de verzorging buiten Nederland plaatsvindt anders dan tijdens vakantie.
 a. een kind verstaan een eigen, aangehuwd of pleegkind;  
 
 b. een pleegkind verstaan een kind dat als eigen kind wordt onderhouden en opgevoed.     
-9.   De regels die gesteld zijn krachtens [artikel 17*b*, zevende lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), zijn van overeenkomstige toepassing.   
+9.   De regels die gesteld zijn krachtens artikel 17*b*, zevende lid, van de Werkloosheidswet, zijn van overeenkomstige toepassing.   
 10.   In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van de uitkering verlengen.  
 
 ### Artikel  8a  
@@ -209,7 +209,7 @@ b. voldoet aan de voorwaarde bedoeld in artikel 8, tweede lid, onderdeel *a* of 
 ####Bedrag van de vervolguitkering
 
 1.  Het bedrag van de vervolguitkering is gelijk aan het minimumloon, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de bezoldiging.   
-2.   Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in [artikel 8, eerste lid, onder *a*, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarvoor berekende vakantiebijslag bedoeld in artikel 15 van die wet.  
+2.   Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in artikel 8, eerste lid, onder *a*, van de Wet minimumloon en minimumvakantiebijslag, of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarvoor berekende vakantiebijslag bedoeld in artikel 15 van die wet.  
 
 ### Artikel  9  
 
@@ -257,16 +257,16 @@ Op verzoek van de betrokkene die voldoet aan de voorwaarde bedoeld in artikel 8,
 
 ### Artikel  13  
 
-Aan de betrokkene die voldoet aan de voorwaarde bedoeld in artikel 8, tweede lid, onder *a* of *b*, en elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het [Verplaatsingskostenbesluit 1989](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md). 
+Aan de betrokkene die voldoet aan de voorwaarde bedoeld in artikel 8, tweede lid, onder *a* of *b*, en elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het Verplaatsingskostenbesluit 1989. 
 
 ### Artikel  16  
 
 ####Opschorting
 
 1.  Ten aanzien van de betrokkene aan wie uitkering is toegekend, en die uit hoofde van ziekte aanspraak heeft of krijgt op doorbetaling van zijn bezoldiging, wordt de verdere uitvoering van dit besluit opgeschort tot het einde van het tijdvak waarover die aanspraak bestaat.   
-2.   Het eerste lid vindt overeenkomstige toepassing in het geval doorbetaling van bezoldiging plaatsvindt op grond van [artikel 95, achtste lid, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+2.   Het eerste lid vindt overeenkomstige toepassing in het geval doorbetaling van bezoldiging plaatsvindt op grond van artikel 95, achtste lid, van het Algemeen Rijksambtenarenreglement.   
 3.   Ten aanzien van de betrokkene aan wie uitkering is toegekend en die zich ingevolge wettelijke verplichting in militaire dienst bevindt of moet begeven, wordt de verdere uitvoering van dit besluit voor de duur van de militaire dienst opgeschort.   
-4.   Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van [artikel 9 van de Wet Gewetensbezwaren militaire dienst](../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md).  
+4.   Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van artikel 9 van de Wet Gewetensbezwaren militaire dienst.  
 
 ### Artikel  17  
 
@@ -287,8 +287,8 @@ Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, 
 
 ####Uitkering bij ziekte
 
-1.  De betrokkene aan wie een uitkering is toegekend en die, onvrijwillig werkloos zijnde, binnen de termijn gedurende welke hij daaraan aanspraken kan ontlenen, dan wel binnen een maand na afloop van deze termijn, langer dan twee dagen aaneensluitend wegens ziekte verhinderd wordt arbeid te verrichten, ontvangt van de derde dag af gedurende de tijd van bedoelde verhindering, doch hoogstens gedurende een tijdvak van 52 weken een uitkering ten bedrage van 80% van de bezoldiging. Het bepaalde in [artikel 42, vijfde lid, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is voor zoveel mogelijk van overeenkomstige toepassing.   
-2.   Voor de uitvoering van het eerste lid is [Hoofdstuk VI van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) voor zoveel mogelijk van overeenkomstige toepassing.   
+1.  De betrokkene aan wie een uitkering is toegekend en die, onvrijwillig werkloos zijnde, binnen de termijn gedurende welke hij daaraan aanspraken kan ontlenen, dan wel binnen een maand na afloop van deze termijn, langer dan twee dagen aaneensluitend wegens ziekte verhinderd wordt arbeid te verrichten, ontvangt van de derde dag af gedurende de tijd van bedoelde verhindering, doch hoogstens gedurende een tijdvak van 52 weken een uitkering ten bedrage van 80% van de bezoldiging. Het bepaalde in artikel 42, vijfde lid, van het Algemeen Rijksambtenarenreglement is voor zoveel mogelijk van overeenkomstige toepassing.   
+2.   Voor de uitvoering van het eerste lid is Hoofdstuk VI van het Algemeen Rijksambtenarenreglement voor zoveel mogelijk van overeenkomstige toepassing.   
 3.   Gedurende het tijdvak dat een uitkering, bedoeld in het eerste lid, wordt verleend, vindt artikel 16, eerste en tweede lid, overeenkomstige toepassing.   
 4.   Op de uitkering, bedoeld in het eerste lid, vindt artikel 9 overeenkomstige toepassing.  
 
@@ -320,14 +320,14 @@ De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaal
 1.  Zo spoedig mogelijk na het overlijden van de betrokkene aan wie uitkering is toegekend, wordt aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Wordt op de uitkering een vermindering toegepast krachtens de artikelen 9, 11, 17 of 26, of wordt artikel 25, vierde lid, toegepast, dan is de uitkering gelijk aan het bedrag van de uitkering, dat de betrokkene op de dag van het overlijden ontving, over een tijdvak van drie maanden. Bij overlijden in de periode van opschorting van de uitkering krachtens artikel 16, eerste lid, bestaat geen aanspraak op een uitkering als in dit artikel bedoeld.   
 2.  In dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven levenspartner met wie de niet-gehuwde betrokkene samenwoonde en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voerde op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding en de achtergebleven geregistreerde partner. Tegelijkertijd kan slechts één persoon als weduwe of weduwnaar worden aangemerkt. Onze Minister kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract is gesloten.    
 3.   Laat de overledene geen weduwe of geen weduwnaar na van wie hij, onderscheidenlijk zij, niet duurzaam gescheiden leefde, dan geschiedt de uitkering van het in het eerste lid bedoelde bedrag ten behoeve van de minderjarige wettige of natuurlijke kinderen van de overledene, of minderjarige kinderen waarover de overledene ten tijde van het overlijden de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind, als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen, dan geschiedt de uitkering van het in het eerste lid bedoelde bedrag, aan degenen die geheel of grotendeels afhankelijk waren van de inkomsten van de overledene.   
-4.   Op de uitkering, bedoeld in het eerste of tweede lid, wordt in mindering gebracht het bedrag van de uitkering waarop de nagelaten betrekkingen van de betrokkene ter zake van diens overlijden aanspraak kunnen maken krachtens [artikel 102*a*, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), of artikel 32*c*, zevende lid, van het Arbeidsovereenkomstenbesluit, indien op de dag van overlijden artikel 22 van toepassing is.   
+4.   Op de uitkering, bedoeld in het eerste of tweede lid, wordt in mindering gebracht het bedrag van de uitkering waarop de nagelaten betrekkingen van de betrokkene ter zake van diens overlijden aanspraak kunnen maken krachtens artikel 102*a*, van het Algemeen Rijksambtenarenreglement, of artikel 32*c*, zevende lid, van het Arbeidsovereenkomstenbesluit, indien op de dag van overlijden artikel 22 van toepassing is.   
 5.   Laat de overledene geen betrekkingen als bedoeld in het eerste en tweede lid na, dan kan het aldaar bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging indien zijn nalatenschap voor de betaling van die kosten ontoereikend is.  
 
 ### Artikel  25  
 
 ####Verval en opnieuw toekennen van het recht op uitkering
 
-1.  Het recht op uitkering dat in verband met het niet voldoen aan de voorwaarde bedoeld in artikel 8, tweede lid, onderdeel *a* of *b*, uitsluitend wordt vastgesteld ingevolge artikel 8, eerste lid, vervalt met ingang van de dag waarop de werkloosheid eindigt en wordt bij weer intredende onvrijwillige werkloosheid opnieuw toegekend voor de resterende duur met ingang van de dag waarop de laatstbedoelde werkloosheid ingaat, tenzij de betrokkene ter zake van deze laatstelijk opgetreden werkloosheid aanspraak heeft op een uitkering krachtens de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of krachtens enige publiekrechtelijke regeling inzake wachtgeld of uitkering.   
+1.  Het recht op uitkering dat in verband met het niet voldoen aan de voorwaarde bedoeld in artikel 8, tweede lid, onderdeel *a* of *b*, uitsluitend wordt vastgesteld ingevolge artikel 8, eerste lid, vervalt met ingang van de dag waarop de werkloosheid eindigt en wordt bij weer intredende onvrijwillige werkloosheid opnieuw toegekend voor de resterende duur met ingang van de dag waarop de laatstbedoelde werkloosheid ingaat, tenzij de betrokkene ter zake van deze laatstelijk opgetreden werkloosheid aanspraak heeft op een uitkering krachtens de Werkloosheidswet of krachtens enige publiekrechtelijke regeling inzake wachtgeld of uitkering.   
 2.   Voor toepassing van dit artikel wordt onder beëindiging van de werkloosheid begrepen:  
 
 a. het aanvaard hebben van een naar zijn aard vaste dienstbetrekking;  
@@ -337,7 +337,7 @@ b. het gedurende een periode van een maand vervuld hebben van een naar zijn aard
 
 a. binnen 6 maanden na de dag waarop het recht op uitkering ontstond als bedoeld in artikel 7, eerste lid, onder *a*, arbeid in dienstbetrekking heeft aanvaard, en  
 
-b. in ten minste 13 weken opnieuw werkzaam is geweest als werknemer bedoeld in [artikel 3 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md).     
+b. in ten minste 13 weken opnieuw werkzaam is geweest als werknemer bedoeld in artikel 3 van de Werkloosheidswet.     
 4.   Voor de toepassing van het derde lid worden weken waarop de betrokkene zonder te werken loon heeft ontvangen, gelijkgesteld met gewerkte weken.   
 5.   De duur van de uitkering bedoeld in het derde lid, bedraagt zes maanden, verminderd met de resterende duur van de opnieuw toegekende uitkering bedoeld in het eerste lid.   
 6.   Onze Minister beslist over het opnieuw toekennen van de uitkering bedoeld in het eerste lid, en op toekenning van een uitkering bedoeld in het derde lid, op schriftelijke aanvraag door de betrokkene. De stukken die Onze Minister nodig acht voor de behandeling van de aanvraag dienen door of vanwege de betrokkene te worden overgelegd.   
@@ -393,13 +393,13 @@ d. niet als werkzoekende bij de Arbeidsvoorzieningsorganisatie dan wel de buiten
 ### Artikel  27  
 
 1.  De betrokkene, bedoeld in artikel 2, eerste lid, aanhef en onder *b*, kan bezwaar maken tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen.   
-2.   [Artikel 3:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+2.   Artikel 3:45 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
 
 ### Artikel  28  
 
 ####Overgangs- en slotbepalingen
 
-De [Algemene Termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) (*Stb.* 1964, 314) is niet van toepassing op de termijnen gesteld in artikel 3, eerste lid, onder *c*, artikel 8, eerste en tweede lid, artikel 8*a*, tweede tot en met vierde lid, artikel 8*b*, derde tot en met zesde lid, artikel 8*c*, eerste lid, artikel 19, eerste lid, en artikel 25. 
+De Algemene Termijnenwet (*Stb.* 1964, 314) is niet van toepassing op de termijnen gesteld in artikel 3, eerste lid, onder *c*, artikel 8, eerste en tweede lid, artikel 8*a*, tweede tot en met vierde lid, artikel 8*b*, derde tot en met zesde lid, artikel 8*c*, eerste lid, artikel 19, eerste lid, en artikel 25. 
 
 ### Artikel  34  
 

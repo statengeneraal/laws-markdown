@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 17 juli 1959, nummer A 592/U 2395, Hoofdafdeling Overheidspersoneelszaken, Afdeling Algemene en Juridische Zaken;
 
-Gelet op [artikel 125, eerste lid van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929;
+Gelet op artikel 125, eerste lid van de Ambtenarenwet 1929;
 
 De Raad van State gehoord (advies van 11 augustus 1959 nummer 21);
 
@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
+b. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in artikel 6 van de Wet privatisering ABP;  
 
 c. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP;  
 
@@ -29,17 +29,17 @@ d. pensioen: een pensioen krachtens het pensioenreglement;
 
 e. arbeidsongeschiktheidspensioen: invaliditeitspensioen krachtens het pensioenreglement zoals dat luidde op 31 december 2006 dan wel ABP ArbeidsongeschiktheidsPensioen krachtens het pensioenreglement;  
 
-f. arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of in de zin van [artikel 4, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) dan wel gedeeltelijke arbeidsgeschiktheid in de zin van [artikel 5 van laatstgenoemde wet](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+f. arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering of in de zin van artikel 4, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel gedeeltelijke arbeidsgeschiktheid in de zin van artikel 5 van laatstgenoemde wet;  
 
-g. arbeidsongeschiktheidsuitkering: uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)dan wel arbeidsongeschiktheidsuitkering, bedoeld in [hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) respectievelijk werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in [hoofdstuk 7 van laatstgenoemde wet](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+g. arbeidsongeschiktheidsuitkering: uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekeringdan wel arbeidsongeschiktheidsuitkering, bedoeld in hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen respectievelijk werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7 van laatstgenoemde wet;  
 
-h. suppletie: een suppletie krachtens de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk](../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md);  
+h. suppletie: een suppletie krachtens de Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk;  
 
 i. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtpersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen.   
 
 ### Artikel  2  
 
-1.  Dit besluit verstaat onder betrokkene: de ambtenaar in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) dan wel de ambtenaar in vaste dienst in de zin van het [Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), met uitzondering van de burgemeester, aan wie eervol ontslag is verleend:  
+1.  Dit besluit verstaat onder betrokkene: de ambtenaar in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 dan wel de ambtenaar in vaste dienst in de zin van het Algemeen Rijksambtenarenreglement, met uitzondering van de burgemeester, aan wie eervol ontslag is verleend:  
 
 a. in het kader van een reorganisatie indien het niet mogelijk is gebleken om hem te herplaatsen in een passende functie;  
 
@@ -47,7 +47,7 @@ b. wegens verplaatsing van de dienst of het dienstvak of onderdeel daarvan, waar
 
 c. omdat hij - na een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen, te hebben aanvaard, en in verband daarmede van de waarneming van zijn ambt tijdelijk te zijn ontheven, na vervolgens te hebben opgehouden vorenbedoelde functie te bekleden - naar het oordeel van het bevoegd gezag niet in actieve dienst kon worden hersteld;  
 
-d. omdat hij, na afloop van verlof van lange duur, verleend met toepassing van artikel 34, uitgezonderd het derde en vijfde lid, van het [Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) dan wel met toepassing van een overeenkomstige regeling, naar het oordeel van het bevoegd gezag niet in actieve dienst kon worden hersteld.  
+d. omdat hij, na afloop van verlof van lange duur, verleend met toepassing van artikel 34, uitgezonderd het derde en vijfde lid, van het Algemeen Rijksambtenarenreglement dan wel met toepassing van een overeenkomstige regeling, naar het oordeel van het bevoegd gezag niet in actieve dienst kon worden hersteld.  
 
 e. omdat hij is opgehouden de functie van substituut-ombudsman te bekleden;  
 
@@ -57,18 +57,18 @@ g. wegens onbekwaamheid of ongeschiktheid voor het door hem in vaste dienst bekl
 
 h. wegens ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte;  
 
-i. op zijn aanvraag in verband met de aanvaarding van een functie buiten de overheid voorzover de ambtenaar is aangewezen als herplaatsingskandidaat als bedoeld in [artikel 49*d* ](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [49*e* van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) danwel als bedoeld in de [artikelen 84*d* ](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of [84*e* van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en hij binnen twee jaar nadat hij een functie heeft aanvaard buiten de overheid, buiten zijn schuld of toedoen wordt ontslagen.     
+i. op zijn aanvraag in verband met de aanvaarding van een functie buiten de overheid voorzover de ambtenaar is aangewezen als herplaatsingskandidaat als bedoeld in artikel 49*d*  of 49*e* van het Algemeen Rijksambtenarenreglement danwel als bedoeld in de artikelen 84*d*  of 84*e* van het Ambtenarenreglement Staten-Generaal en hij binnen twee jaar nadat hij een functie heeft aanvaard buiten de overheid, buiten zijn schuld of toedoen wordt ontslagen.     
 2.   Geen betrokkene in de zin van dit besluit is:  
 
 a. hij te wiens aanzien de toekenning van wachtgeld bij de wet is geregeld;  
 
 b. hij die laatstelijk een betrekking bekleedde waarin hij geen deelnemer was in de zin van het pensioenreglement;  
 
-c. hij aan wie eervol ontslag is verleend in de zin van het eerste lid, onderdelen a tot en met i, en die deswege recht heeft op een uitkering op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md) of een arbeidsongeschiktheidsuitkering op grond van [hoofdstuk 6](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).    
+c. hij aan wie eervol ontslag is verleend in de zin van het eerste lid, onderdelen a tot en met i, en die deswege recht heeft op een uitkering op grond van de Werkloosheidswet, het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk of een arbeidsongeschiktheidsuitkering op grond van hoofdstuk 6 of 7 van de Wet werk en inkomen naar arbeidsvermogen.    
 
 ### Artikel  3  
 
-1.  Dit besluit verstaat onder diensttijd, voorzover gelegen voor 1 januari 1996: de tijd zoals die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, bedoeld in de Algemene burgerlijke pensioenwet; voorzover gelegen op of na 1 januari 1996: de tijd gedurende welke de betrokkene overheidswerknemer is in de zin van de [Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md); in beide gevallen met uitzondering van de tijd:  
+1.  Dit besluit verstaat onder diensttijd, voorzover gelegen voor 1 januari 1996: de tijd zoals die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, bedoeld in de Algemene burgerlijke pensioenwet; voorzover gelegen op of na 1 januari 1996: de tijd gedurende welke de betrokkene overheidswerknemer is in de zin van de Wet privatisering ABP; in beide gevallen met uitzondering van de tijd:  
 
 a. die voorafgaat aan een ontslag uit een betrekking waaraan een functioneel leeftijdsontslag is verbonden, mits uit hoofde van dat ontslag een uitkering is toegekend;  
 
@@ -85,13 +85,13 @@ e. in een aangehouden betrekking.
 ### Artikel  3a  
 
 1.  Dit besluit verstaat onder dienstbetrekking iedere publiekrechtelijke of privaatrechtelijke arbeidsverhouding waarbij in dienst van een natuurlijke persoon of een lichaam werkzaamheden tegen bezoldiging of loon worden verricht.   
-2.   Het bepaalde bij of krachtens de [artikelen 4, 5 en 6 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) is van overeenkomstige toepassing.  
+2.   Het bepaalde bij of krachtens de artikelen 4, 5 en 6 van de Werkloosheidswet is van overeenkomstige toepassing.  
 
 ### Artikel  4  
 
-1.  Dit besluit verstaat onder bezoldiging: de bezoldiging in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaande aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.   
-2.   In afwijking van het in het eerste lid bepaalde gelden de toelagen, bedoeld in de [artikelen 14](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en [18, eerste lid, van voornoemd besluit](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de over die toelagen berekende vakantie-uitkering niet als deel van de bezoldiging.   
-3.   Indien de betrokkene geen ambtenaar is in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt als bezoldiging hetgeen overeenkomt met het eerste en tweede lid.   
+1.  Dit besluit verstaat onder bezoldiging: de bezoldiging in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaande aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.   
+2.   In afwijking van het in het eerste lid bepaalde gelden de toelagen, bedoeld in de artikelen 14 en 18, eerste lid, van voornoemd besluit en de over die toelagen berekende vakantie-uitkering niet als deel van de bezoldiging.   
+3.   Indien de betrokkene geen ambtenaar is in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 geldt als bezoldiging hetgeen overeenkomt met het eerste en tweede lid.   
 4.   Indien de door een betrokkene over de laatste aan het ontslag voorafgaande twaalf volle kalendermaanden genoten bezoldiging in de zin van het in het eerste lid genoemde besluit, dan wel hetgeen daarmee overeenkomt, alsmede de over die maanden genoten vakantie-uitkering dan wel verkregen aanspraak daarop geheel of gedeeltelijk uit wisselende inkomsten waaronder begrepen de evengenoemde aanspraken bestonden, geldt in zoverre in afwijking van het eerste lid als bezoldiging, met inachtneming van het tweede en derde lid, het gemiddelde van die inkomsten.  
 5. De bezoldiging, omschreven in het eerste tot en met vierde lid, wordt aangepast overeenkomstig een algemene wijziging van het salaris, van de vakantie-uitkering en van de eindejaarsuitkering van het burgerlijk rijkspersoneel, met ingang van de dag waarop die wijziging van het salaris, de vakantie-uitkering respectievelijk de eindejaarsuitkering van kracht wordt.  
 6.   Voor betrekkingen die geleidelijk worden opgeheven, alsmede in bijzondere gevallen, kan Onze Minister van het hiervoren bepaalde ten gunste van de betrokkene afwijken.  
@@ -118,7 +118,7 @@ c. ter zake van dat ontslag recht heeft op een suppletie.
 a. voor de toepassing van artikel 6 als ingangsdatum uitgegaan van de datum met ingang waarvan de mate van arbeidsongeschiktheid op een lager percentage wordt vastgesteld, waarbij voor de toepassing van artikel 6, vierde lid, tevens een arbeidsongeschiktheidsuitkering, eventueel vermeerderd met een arbeidsongeschiktheidspensioen vastgesteld naar een mate van arbeidsongeschiktheid van 80% of meer mede in aanmerking wordt genomen;  
 
 b. voor de toepassing van artikel 6*a* als ingangsdatum uitgegaan van de datum met ingang waarvan betrokkene ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte.     
-3.   De betrokkene, bedoeld in het eerste lid, onderdeel *c*, heeft na afloop van de suppletie recht op wachtgeld, indien hij bij het buiten toepassing laten van het eerste lid, onderdeel *c*, op grond van het ontslag uit de betrekking waarvoor hij arbeidsongeschikt is verklaard, recht zou hebben op wachtgeld waarbij de duur zou worden vastgesteld ingevolge artikel 6*a* van dit besluit. Het wachtgeld gaat in op de eerste dag volgende op die waarop de suppletie op grond van [artikel 8, onderdeel *a*, van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk](../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md) is geëindigd. Het wachtgeld eindigt op het tijdstip waarop het wachtgeld dat, te rekenen van de dag waarop het ontslag is ingegaan, zou zijn toegekend ingevolge artikel 6*a*, bij het buiten toepassing laten van het eerste lid, onderdeel *c*, zou zijn geëindigd. Op de hoogte van dit wachtgeld is artikel 7 van toepassing, met dien verstande dat gerekend wordt van het tijdstip waarop het ontslag is ingegaan.   
+3.   De betrokkene, bedoeld in het eerste lid, onderdeel *c*, heeft na afloop van de suppletie recht op wachtgeld, indien hij bij het buiten toepassing laten van het eerste lid, onderdeel *c*, op grond van het ontslag uit de betrekking waarvoor hij arbeidsongeschikt is verklaard, recht zou hebben op wachtgeld waarbij de duur zou worden vastgesteld ingevolge artikel 6*a* van dit besluit. Het wachtgeld gaat in op de eerste dag volgende op die waarop de suppletie op grond van artikel 8, onderdeel *a*, van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk is geëindigd. Het wachtgeld eindigt op het tijdstip waarop het wachtgeld dat, te rekenen van de dag waarop het ontslag is ingegaan, zou zijn toegekend ingevolge artikel 6*a*, bij het buiten toepassing laten van het eerste lid, onderdeel *c*, zou zijn geëindigd. Op de hoogte van dit wachtgeld is artikel 7 van toepassing, met dien verstande dat gerekend wordt van het tijdstip waarop het ontslag is ingegaan.   
 4.   Geen recht op wachtgeld heeft de betrokkene bedoeld:  
 
 a. in artikel 2, eerste lid, onderdeel *a*, die andere mede in verband met zijn persoonlijkheid en omstandigheden voor hem passende werkzaamheden heeft geweigerd te aanvaarden;  
@@ -134,7 +134,7 @@ c. in artikel 2, eerste lid, onderdeel *g*, indien Onze Minister, gehoord Onze M
 ### Artikel  6  
 
 1.  De duur van het wachtgeld is 6 maanden, met ingang van de dag waarop het ontslag ingaat.   
-2.  Indien de betrokkene in de periode van 5 jaar onmiddellijk voorafgaande aan het ontslag ten minste gedurende 3 jaar als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en in dienstbetrekking van 8 of meer uren per week werkzaam is geweest, wordt de duur van het wachtgeld verlengd met:   
+2.  Indien de betrokkene in de periode van 5 jaar onmiddellijk voorafgaande aan het ontslag ten minste gedurende 3 jaar als werknemer als bedoeld in artikel 3 van de Werkloosheidswet en in dienstbetrekking van 8 of meer uren per week werkzaam is geweest, wordt de duur van het wachtgeld verlengd met:   
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -149,18 +149,18 @@ c. in artikel 2, eerste lid, onderdeel *g*, indien Onze Minister, gehoord Onze M
 
 3.   Het arbeidsverleden, bedoeld in het tweede lid, wordt vastgesteld door samentelling van:  
 
-a. perioden, gelegen in de 5 jaar onmiddellijk voorafgaande aan het ontslag, waarover de betrokkene aantoont als werknemer als bedoeld in [artikel 3 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en in dienstbetrekking van 8 of meer uren per week werkzaam te zijn geweest, en  
+a. perioden, gelegen in de 5 jaar onmiddellijk voorafgaande aan het ontslag, waarover de betrokkene aantoont als werknemer als bedoeld in artikel 3 van de Werkloosheidswet en in dienstbetrekking van 8 of meer uren per week werkzaam te zijn geweest, en  
 
 b. de periode gelegen tussen de 18e verjaardag van de betrokkene en de dag, gelegen 5 jaar voor het ontslag.     
 4.   Perioden, waarin een betrokkene:  
 
 a. recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt op grond van artikel 58, eerste of derde lid, van de Algemene Arbeidsongeschiktheidswet, die al dan niet vermeerderd met een arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-b. ter zake van een dienstbetrekking op grond waarvan hem door het Rijk arbeidsongeschiktheidspensioen was verzekerd, recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt die naar aard en strekking overeenkomt met een toelage als bedoeld onder a, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 73% of meer bedraagt van het dagloon in de zin van de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk](../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md), waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
+b. ter zake van een dienstbetrekking op grond waarvan hem door het Rijk arbeidsongeschiktheidspensioen was verzekerd, recht heeft op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 80%, of een toelage ontvangt die naar aard en strekking overeenkomt met een toelage als bedoeld onder a, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 73% of meer bedraagt van het dagloon in de zin van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector rijk, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-c. een uitkering ontvangt op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
+c. een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend;  
 
-d. na beëindiging van zijn dienstbetrekking een uitkering ontvangt op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) over de maximale duur bedoeld in [artikel 29, tweede lid, van die wet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+d. na beëindiging van zijn dienstbetrekking een uitkering ontvangt op grond van de Ziektewet over de maximale duur bedoeld in artikel 29, tweede lid, van die wet;  
 
 e. een uitkering ontvangt, die naar aard en strekking overeenkomt met een uitkering bedoeld onder a of d;   worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dienstbetrekking van 8 of meer uren per week, in aanmerking genomen voor de periode van drie jaar, bedoeld in het tweede lid, en voor de perioden gelegen in de vijf jaar, onmiddellijk voorafgaande aan het ontslag, bedoeld in het derde lid.   
 5.   Voor de periode van drie jaar bedoeld in het tweede lid, en voor de perioden gelegen in de vijf jaar, onmiddellijk voorafgaande aan het ontslag bedoeld in het derde lid, worden perioden waarin een persoon een tot zijn huishouden behorend kind:  
@@ -179,7 +179,7 @@ b. de verzorging buiten Nederland plaatsvindt anders dan tijdens vakantie.
 a. een kind verstaan een eigen, aangehuwd of pleegkind;  
 
 b. een pleegkind verstaan een kind dat als eigen kind wordt onderhouden en opgevoed.     
-9.   De regels die gesteld zijn krachtens [artikel 17b, zevende lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), zijn van overeenkomstige toepassing.   
+9.   De regels die gesteld zijn krachtens artikel 17b, zevende lid, van de Werkloosheidswet, zijn van overeenkomstige toepassing.   
 10.   In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van het wachtgeld verlengen.  
 
 ### Artikel  6a  
@@ -192,7 +192,7 @@ a. die op de dag van ontslag de leeftijd van 21 jaar nog niet heeft bereikt met 
 b. die op de dag van ontslag 21 jaar oud is met een duur van 19,5% van de diensttijd en zo vervolgens per leeftijdsjaar opklimmende met 1,5%;  
 
 c. die op de dag van ontslag 60 jaar of ouder is, met een duur gelijk aan 78% van de diensttijd.     
-3.   Ten aanzien van de betrokkene die bij de aanvang van de in het tweede lid bedoelde diensttijd in het genot was van wachtgeld, waarvan de duur is vastgesteld krachtens het eerste en tweede lid van dit artikel, of van een uitkering waarvan de duur is vastgesteld krachtens [artikel 8*a*, tweede lid, van de Uitkeringsregeling 1966](../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), wordt bij de berekening van de duur van het wachtgeld op basis van het tweede lid mede in aanmerking genomen de diensttijd, welke bij de berekening van de duur van het eerder toegekende wachtgeld of de eerder toegekende uitkering in aanmerking is genomen. Op de aldus berekende duur wordt de duur van het eerder toegekende wachtgeld of de eerder toegekende uitkering, met uitzondering van de verlenging bedoeld in het volgende lid, in mindering gebracht.   
+3.   Ten aanzien van de betrokkene die bij de aanvang van de in het tweede lid bedoelde diensttijd in het genot was van wachtgeld, waarvan de duur is vastgesteld krachtens het eerste en tweede lid van dit artikel, of van een uitkering waarvan de duur is vastgesteld krachtens artikel 8*a*, tweede lid, van de Uitkeringsregeling 1966, wordt bij de berekening van de duur van het wachtgeld op basis van het tweede lid mede in aanmerking genomen de diensttijd, welke bij de berekening van de duur van het eerder toegekende wachtgeld of de eerder toegekende uitkering in aanmerking is genomen. Op de aldus berekende duur wordt de duur van het eerder toegekende wachtgeld of de eerder toegekende uitkering, met uitzondering van de verlenging bedoeld in het volgende lid, in mindering gebracht.   
 4.   In aanvulling op de duur van het wachtgeld van de betrokkene die ten tijde van het ontslag 55 jaar of ouder is en een diensttijd, voor zover geldig voor pensioen, van ten minste tien jaar heeft volbracht, wordt na afloop van de termijn waarover wachtgeld is toegekend, een bijzondere verlenging verleend. Deze bijzondere verlenging duurt tot de eerste dag van de kalendermaand volgende op die waarin hij de leeftijd van 65 jaar heeft bereikt.   
 5.   In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van het wachtgeld verlengen.  
 
@@ -225,7 +225,7 @@ b. voldoet aan de voorwaarde, bedoeld in artikel 6, tweede lid, onderdeel *a* of
 ### Artikel  7a  
 
 1.  Het bedrag van het vervolgwachtgeld is gelijk aan het minimumloon, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de bezoldiging.   
-2.   Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in [artikel 8, eerste lid, onder *a*, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarvoor berekende vakantiebijslag, bedoeld in artikel 15 van die wet.  
+2.   Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in artikel 8, eerste lid, onder *a*, van de Wet minimumloon en minimumvakantiebijslag, of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarvoor berekende vakantiebijslag, bedoeld in artikel 15 van die wet.  
 
 ####Inkomsten uit of in verband met arbeid of bedrijf
 
@@ -320,9 +320,9 @@ Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele word
 ### Artikel  16  
 
 1.  Ten aanzien van de betrokkene aan wie wachtgeld is toegekend en die uit hoofde van ziekte aanspraak heeft of krijgt op doorbetaling van zijn bezoldiging, wordt de verdere uitvoering van dit besluit opgeschort tot het einde van het tijdvak waarover die aanspraak bestaat.   
-2.   Het eerste lid vindt overeenkomstige toepassing in het geval doorbetaling van bezoldiging plaatsvindt op grond van [artikel 95, achtste lid, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+2.   Het eerste lid vindt overeenkomstige toepassing in het geval doorbetaling van bezoldiging plaatsvindt op grond van artikel 95, achtste lid, van het Algemeen Rijksambtenarenreglement.   
 3.   Ten aanzien van de betrokkene aan wie wachtgeld is toegekend en die zich ingevolge wettelijke verplichting als militair of als noodwachter in werkelijke dienst bevindt of moet begeven, wordt op een daartoe strekkende aanvraag de verdere uitvoering van dit besluit voor de duur van die dienst opgeschort.   
-4.   Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van [artikel 9 van de Wet Gewetensbezwaren militaire dienst](../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md).  
+4.   Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van artikel 9 van de Wet Gewetensbezwaren militaire dienst.  
 
 ####Samenloop van wachtgeld en invaliditeitspensioen dan wel uitkering wegens arbeidsongeschiktheid
 
@@ -346,7 +346,7 @@ Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele word
 
 ### Artikel  18  
 
-Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het [Verplaatsingskostenbesluit 1989](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md). 
+Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het Verplaatsingskostenbesluit 1989. 
 
 ####Betaling
 
@@ -356,7 +356,7 @@ Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf t
 2.   Zo spoedig mogelijk na het overlijden van de betrokkene aan wie wachtgeld is toegekend, wordt aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Wordt op het wachtgeld een vermindering toegepast krachtens de artikelen 8, 9 of 14, of wordt artikel 13, derde lid, toegepast, dan is de uitkering gelijk aan het bedrag van het wachtgeld, dat de betrokkene op de dag van het overlijden ontving, over een tijdvak van drie maanden. Bij overlijden in de periode van opschorting van het wachtgeld krachtens artikel 16, eerste lid bestaat geen aanspraak op een uitkering als in dit artikel bedoeld.   
 3.  In dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven levenspartner met wie de niet-gehuwde betrokkene samenwoonde en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voerde op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding alsmede de achtergebleven geregistreerde partner. Tegelijkertijd kan slechts één persoon als weduwe of weduwnaar worden aangemerkt.  Onze Minister kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract is gesloten.    
 4.   Laat de overledene geen weduwe of weduwnaar na, van wie hij, onderscheidenlijk zij, niet duurzaam gescheiden leefde, dan geschiedt de uitkering van het in het tweede lid bedoelde bedrag ten behoeve van de minderjarige wettige of natuurlijke kinderen van de overledene, of minderjarige kinderen waarover de overledene ten tijde van het overlijden de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind, als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen, dan geschiedt de uitkering van het in het tweede lid bedoelde bedrag, aan degenen die geheel of grotendeels afhankelijk waren van de inkomsten van de overledene.   
-5.   Op de uitkering bedoeld in het tweede of derde lid, wordt in mindering gebracht het bedrag van de uitkering waarop de nagelaten betrekkingen van de gewezen ambtenaar ter zake van diens overlijden aanspraak kunnen maken krachtens [artikel 102*a*, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), indien op de dag van overlijden artikel 17 van toepassing is.   
+5.   Op de uitkering bedoeld in het tweede of derde lid, wordt in mindering gebracht het bedrag van de uitkering waarop de nagelaten betrekkingen van de gewezen ambtenaar ter zake van diens overlijden aanspraak kunnen maken krachtens artikel 102*a*, van het Algemeen Rijksambtenarenreglement, indien op de dag van overlijden artikel 17 van toepassing is.   
 6.   Laat de overledene geen betrekkingen, als bedoeld in het tweede en derde lid na, dan kan het aldaar bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien zijn nalatenschap voor de betaling van die kosten ontoereikend is.  
 
 ####Beroep
@@ -365,7 +365,7 @@ Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf t
 
 ### Artikel  23  
 
-De [Algemene Termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) (*Stb.* 1964, 314) is niet van toepassing op de termijnen gesteld in artikel 6, eerste en tweede lid, artikel 6*a*, tweede lid, artikel 6*b*, derde tot en met zesde lid, artikel 7, eerste lid, en artikel 19, tweede lid. 
+De Algemene Termijnenwet (*Stb.* 1964, 314) is niet van toepassing op de termijnen gesteld in artikel 6, eerste en tweede lid, artikel 6*a*, tweede lid, artikel 6*b*, derde tot en met zesde lid, artikel 7, eerste lid, en artikel 19, tweede lid. 
 
 ### Artikel  24  
 

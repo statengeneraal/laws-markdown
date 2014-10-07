@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit,
 
-Gelet op de [artikelen 12.3.8, tweede lid](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en de [artikelen 2.3.2, tweede lid](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [2.4.1, tweede lid](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), en [6.1.1 van het Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);
+Gelet op de artikelen 12.3.8, tweede lid en 12.3.9, tweede lid, van de Wet educatie en beroepsonderwijs, en de artikelen 2.3.2, tweede lid, 2.4.1, tweede lid, en 6.1.1 van het Uitvoeringsbesluit WEB;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,9 +19,9 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, minister van Economische Zaken, Landbouw en Innovatie,  
 
-b.  *wet:* [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+b.  *wet:* Wet educatie en beroepsonderwijs,  
 
-c.  *besluit:* [Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
+c.  *besluit:* Uitvoeringsbesluit WEB.   
 
 ### Hoofdstuk  2  
 
@@ -35,55 +35,55 @@ c.  *besluit:* [Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/w
 
 ####Voorschriften bekostiging beroepsopleidingen Instituten voor doven
 
-1.  In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten voor het Christelijk Instituut voor Doven ‘Effatha’ en het Instituut voor Doven ‘Sint-Michielsgestel’ vast, ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in [artikel 12.3.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in [artikel 2.1.3 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
-2.  De [artikelen 2.2.1 tot en met 2.2.7](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [artikel 2.4.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) zijn van toepassing ten aanzien van de in het eerste lid genoemde instituten.   
+1.  In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten voor het Christelijk Instituut voor Doven ‘Effatha’ en het Instituut voor Doven ‘Sint-Michielsgestel’ vast, ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in artikel 12.3.8 van de wet. Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in artikel 2.1.3 van het besluit.   
+2.  De artikelen 2.2.1 tot en met 2.2.7 en artikel 2.4.1 van het besluit zijn van toepassing ten aanzien van de in het eerste lid genoemde instituten.   
 3.  De minister verhoogt de uitkomst van de berekening, bedoeld in het tweede lid, tot de hoogte van het totaal van de rijksbijdragen voor 1999, berekend op grond van de artikelen 9, 14b en 14i van de Overgangsregeling bekostiging beroepsonderwijs WEB tot 2000, zoals die luidde op 31 december 1999 en de Regeling bekostiging huisvesting BVE-sector, zoals die luidde op 31 december 1999.   
-4.  [Artikel 2.6.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) is van toepassing.  
+4.  Artikel 2.6.1 van het besluit is van toepassing.  
 
 ### Artikel  2.1.2  
 
 ####Begroting, verslaglegging, informatie en toezicht
 
-1.  Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.   
-2.  Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), alsmede de [Bijlagen 1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [1c](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [4 behorende bij het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.  
+1.  Het bepaalde bij of krachtens paragraaf 1 van titel 5 van hoofdstuk 2 van de wet is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.   
+2.  Het bepaalde bij of krachtens hoofdstuk 5 van het besluit, alsmede de Bijlagen 1, 1c en 4 behorende bij het besluit, is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.  
 
 ### Artikel  2.1.3  
 
-####Voorschriften [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) die van toepassing zijn op de Instituten voor doven
+####Voorschriften WEB die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in artikel 2.1.1, nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is bepaald ten aanzien van: 
+De instituten, bedoeld in artikel 2.1.1, nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de wet is bepaald ten aanzien van: 
 
-a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in artikel 1.3.5 van de wet;  
 
-b. de kwaliteitszorg, bedoeld in [artikel 1.3.6 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. de kwaliteitszorg, bedoeld in artikel 1.3.6 van de wet;  
 
-c. de contractactiviteiten, bedoeld in [artikel 1.7.1 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. de contractactiviteiten, bedoeld in artikel 1.7.1 van de wet;  
 
-d. het persoonsgebonden nummer, bedoeld in de [artikelen 2.3.6a tot en met 2.3.6d van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. het persoonsgebonden nummer, bedoeld in de artikelen 2.3.6a tot en met 2.3.6d van de wet;  
 
-e. het jaarverslag, bedoeld in [artikel 2.5.4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. het jaarverslag, bedoeld in artikel 2.5.4 van de wet;  
 
-f. de voorschriften betreffende het personeel van de instellingen, bedoeld in de [titels 1](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2 van hoofdstuk 4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f. de voorschriften betreffende het personeel van de instellingen, bedoeld in de titels 1 en 2 van hoofdstuk 4 van de wet;  
 
-g. de voorschriften betreffende ontneming van rechten ten aanzien van bestaand onderwijsaanbod, bedoeld in [artikel 6.1.4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), ten aanzien van de ontneming van het recht op examinering van een beroepsopleiding, bedoeld in [artikel 6.1.5b van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en ten aanzien van onthouding van rechten ten aanzien van voorgenomen onderwijs uit oogpunt van kwaliteit of niet naleving wettelijke voorschriften, bedoeld in [artikel 6.1.6 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+g. de voorschriften betreffende ontneming van rechten ten aanzien van bestaand onderwijsaanbod, bedoeld in artikel 6.1.4 van de wet, ten aanzien van de ontneming van het recht op examinering van een beroepsopleiding, bedoeld in artikel 6.1.5b van de wet en ten aanzien van onthouding van rechten ten aanzien van voorgenomen onderwijs uit oogpunt van kwaliteit of niet naleving wettelijke voorschriften, bedoeld in artikel 6.1.6 van de wet;  
 
-h. de voorschriften betreffende de beëindiging van registratie van beroepsopleidingen, bedoeld in [artikel 6.4.4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+h. de voorschriften betreffende de beëindiging van registratie van beroepsopleidingen, bedoeld in artikel 6.4.4 van de wet;  
 
-i. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in [hoofdstuk 7 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat bij de toepassing van: 
+i. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in hoofdstuk 7 van de wet, met dien verstande dat bij de toepassing van: 
 
-1. [artikel 7.2.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) het bevoegd gezag van een instituut tevens met het oog op de handicap van de deelnemer nadere regels kan vaststellen ten aanzien van de beroepspraktijkvorming;  
+1. artikel 7.2.8 van de wet het bevoegd gezag van een instituut tevens met het oog op de handicap van de deelnemer nadere regels kan vaststellen ten aanzien van de beroepspraktijkvorming;  
 
-2. het [eerste lid van artikel 7.4.2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) het bevoegd gezag van een instituut er tevens zorg voor draagt dat bij het afleggen van het examen rekening wordt gehouden met de aard van de handicap van de deelnemer;    
+2. het eerste lid van artikel 7.4.2 van de wet het bevoegd gezag van een instituut er tevens zorg voor draagt dat bij het afleggen van het examen rekening wordt gehouden met de aard van de handicap van de deelnemer;    
 
-j. de rechtsbescherming van de deelnemer, bedoeld in [titel 5 van hoofdstuk 7 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+j. de rechtsbescherming van de deelnemer, bedoeld in titel 5 van hoofdstuk 7 van de wet;  
 
-k. de inschrijving, de vooropleidingseisen en de voorschriften inzake voortijdig schoolverlaten van [hoofdstuk 8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat bij de toepassing van [artikel 8.1.3, derde lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) tevens de wederzijdse rechten en verplichtingen van het instituut en de deelnemer die voortvloeien uit de specifieke handicap van de deelnemer, worden opgenomen;  
+k. de inschrijving, de vooropleidingseisen en de voorschriften inzake voortijdig schoolverlaten van hoofdstuk 8 van de wet, met dien verstande dat bij de toepassing van artikel 8.1.3, derde lid, van de wet tevens de wederzijdse rechten en verplichtingen van het instituut en de deelnemer die voortvloeien uit de specifieke handicap van de deelnemer, worden opgenomen;  
 
 l. de opneming in het Centraal register;  
 
-m. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in [paragraaf 1 van titel 1 van hoofdstuk 9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+m. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in paragraaf 1 van titel 1 van hoofdstuk 9 van de wet, en  
 
-n. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+n. de hoofdstukken 10 en 11 van de wet.   
 
 ### §  2  
 
@@ -93,51 +93,51 @@ n. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR
 
 ####Voorschriften bekostiging beroepsopleidingen verbonden aan hogeschool Haarlem dan wel diens rechtsopvolgers
 
-1.  In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in [artikel 12.3.9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), verbonden aan de Hogeschool Haarlem, dan wel diens rechtsopvolgers voor wat betreft de opleidingen in de beroepsopleidende leerweg, vast. Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in [artikel 2.1.3 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
-2.  De [artikelen 12.4.1](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.4.2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 2.2.1 tot en met 2.2.7](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [2.4.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) zijn van toepassing ten aanzien van de hogeschool, bedoeld in het eerste lid.  
+1.  In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in artikel 12.3.9 van de wet, verbonden aan de Hogeschool Haarlem, dan wel diens rechtsopvolgers voor wat betreft de opleidingen in de beroepsopleidende leerweg, vast. Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in artikel 2.1.3 van het besluit.   
+2.  De artikelen 12.4.1 en 12.4.2 van de wet en de artikelen 2.2.1 tot en met 2.2.7 en 2.4.1 van het besluit zijn van toepassing ten aanzien van de hogeschool, bedoeld in het eerste lid.  
 
 ### Artikel  2.2.2  
 
 ####Begroting, verslaglegging, informatie en toezicht
 
-1.  Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.   
-2.  Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), alsmede de [Bijlagen 1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [1c](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [4 behorende bij het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.  
+1.  Het bepaalde bij of krachtens paragraaf 1 van titel 5 van hoofdstuk 2 van de wet is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.   
+2.  Het bepaalde bij of krachtens hoofdstuk 5 van het besluit, alsmede de Bijlagen 1, 1c en 4 behorende bij het besluit is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.  
 
 ### Artikel  2.2.3  
 
-####Voorschriften [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
+####Voorschriften WEB die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
-De hogeschool, bedoeld in artikel 2.2.1, neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is bepaald ten aanzien van: 
+De hogeschool, bedoeld in artikel 2.2.1, neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de wet is bepaald ten aanzien van: 
 
-a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in artikel 1.3.5 van de wet;  
 
-b. de kwaliteitszorg, bedoeld in [artikel 1.3.6 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. de kwaliteitszorg, bedoeld in artikel 1.3.6 van de wet;  
 
-c. de contractactiviteiten, bedoeld in [artikel 1.7.1 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. de contractactiviteiten, bedoeld in artikel 1.7.1 van de wet;  
 
-d. de voorschriften inzake de leerlinggebondenfinanciering in het beroepsonderwijs, bedoeld in de [artikelen 2.2.5 tot en met 2.2.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+d. de voorschriften inzake de leerlinggebondenfinanciering in het beroepsonderwijs, bedoeld in de artikelen 2.2.5 tot en met 2.2.8 van de wet; 
 
-e. het persoonsgebonden nummer, bedoeld in de [artikelen 2.3.6a tot en met 2.3.6.d van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. het persoonsgebonden nummer, bedoeld in de artikelen 2.3.6a tot en met 2.3.6.d van de wet;  
 
-f. het jaarverslag, bedoeld in [artikel 2.5.4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f. het jaarverslag, bedoeld in artikel 2.5.4 van de wet;  
 
-g. de voorschriften betreffende het personeel van de instellingen, bedoeld in de [titels 1](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2 van hoofdstuk 4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+g. de voorschriften betreffende het personeel van de instellingen, bedoeld in de titels 1 en 2 van hoofdstuk 4 van de wet;  
 
-h. de voorschriften betreffende ontneming van rechten ten aanzien van bestaand onderwijsaanbod, bedoeld in [artikel 6.1.4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), ten aanzien van de ontneming van het recht op examinering van een beroepsopleiding, bedoeld in [artikel 6.1.5b van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en ten aanzien van onthouding van rechten ten aanzien van voorgenomen onderwijs uit oogpunt van kwaliteit of niet naleving wettelijke voorschriften, bedoeld in [artikel 6.1.6 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+h. de voorschriften betreffende ontneming van rechten ten aanzien van bestaand onderwijsaanbod, bedoeld in artikel 6.1.4 van de wet, ten aanzien van de ontneming van het recht op examinering van een beroepsopleiding, bedoeld in artikel 6.1.5b van de wet en ten aanzien van onthouding van rechten ten aanzien van voorgenomen onderwijs uit oogpunt van kwaliteit of niet naleving wettelijke voorschriften, bedoeld in artikel 6.1.6 van de wet;  
 
-i. de voorschriften betreffende de beëindiging van registratie van beroepsopleidingen, bedoeld in [artikel 6.4.4 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+i. de voorschriften betreffende de beëindiging van registratie van beroepsopleidingen, bedoeld in artikel 6.4.4 van de wet;  
 
-j. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in [hoofdstuk 7 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+j. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in hoofdstuk 7 van de wet;  
 
-k. de rechtsbescherming van de deelnemer, bedoeld in [titel 5 van hoofdstuk 7 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+k. de rechtsbescherming van de deelnemer, bedoeld in titel 5 van hoofdstuk 7 van de wet;  
 
-l. de inschrijving en vooropleidingseisen van [hoofdstuk 8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+l. de inschrijving en vooropleidingseisen van hoofdstuk 8 van de wet,  
 
 m. de opneming in het Centraal register;  
 
-n. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in [paragraaf 1 van titel 1 van hoofdstuk 9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+n. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in paragraaf 1 van titel 1 van hoofdstuk 9 van de wet;  
 
-o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+o. de hoofdstukken 10 en 11 van de wet.   
 
 ### Hoofdstuk  3  
 
@@ -151,15 +151,15 @@ o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR
 
 ####Bedrag huisvestingskosten school voor voortgezet onderwijs in scholengemeenschap met een instelling
 
-1.  Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, tweede lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), bedraagt € 496,– per leerling aan een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
-2.  Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, derde lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), bedraagt € 469,33 per leerling verbonden aan het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+1.  Het bedrag ten behoeve van de huisvestingskosten, bedoeld in artikel 2.4.1, tweede lid, van het besluit, bedraagt € 496,– per leerling aan een school voor voortgezet onderwijs als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs.   
+2.  Het bedrag ten behoeve van de huisvestingskosten, bedoeld in artikel 2.4.1, derde lid, van het besluit, bedraagt € 469,33 per leerling verbonden aan het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de wet.   
 3.  De bedragen, bedoeld in het eerste en tweede lid, kunnen worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.  
 
 ### Artikel  3.1.2  
 
 ####Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
-1.  De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), wordt voor het jaar 2011 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 52.635,29. De vaste formatie wordt als volgt vastgesteld: 
+1.  De vaste voet per instelling, bedoeld in artikel 2.3.2, eerste lid, van het besluit, wordt voor het jaar 2014 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 52.635,29. De vaste formatie wordt als volgt vastgesteld: 
 
 a. één formatieplaats per agrarisch opleidingscentrum; en  
 
@@ -168,7 +168,7 @@ b. een halve formatieplaats per vestiging waar per 1 augustus voorafgaand aan he
 c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond;  
 
 d. indien de formatie van een agrarisch opleidingscentrum, berekend volgens deze regeling zoals die luidde op 1 januari 2011, hoger was dan die volgens deze regeling zoals deze luidt op 1 januari 2012, dan wordt het verschil voor het bekostigingsjaar 2012 toegevoegd aan de formatie van dat agrarisch opleidingscentrum. Voor het bekostigingsjaar 2013 wordt 75% van het verschil toegevoegd, voor het jaar 2014 50% en voor het jaar 2015 25%.     
-2.  De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) bedraagt per 1 januari 2014: 
+2.  De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in artikel 2.3.2 van het besluit bedraagt per 1 januari 2014: 
 
 a. voor de leerling voorbereidend beroepsonderwijs € 6650,26, bestaande uit een component voor personele kosten ad € 5.565,95 en een component voor materiële kosten ad € 1.084,31;  
 
@@ -188,7 +188,7 @@ b. Helpende breed (Crebonummer 91340)
 
 c. Helpende (Sociaal-agogisch werk) (Crebonummer 91352) en  
 
-d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van [artikel 2.2.4, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
+d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door examendeelnemers, bedoeld in artikel 2.2.2, tweede lid, onderdeel b, van de wet, wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van artikel 2.2.4, eerste lid, van het besluit.   
 
 ### §  2  
 
@@ -198,12 +198,12 @@ d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn
 
 ####Vervangende gegevens VOA
 
-1.  Het deel van de rijksbijdrage voor voorbereidende en ondersteunende activiteiten als bedoeld in [artikel 7.2.2, vierde lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt op grond van [artikel 6.1.1, tweede lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), berekend door het landelijk beschikbare budget ten behoeve van voorbereidende en ondersteunende activiteiten, zoals dat voor dat kalenderjaar is vastgesteld op grond van [artikel 2.2.1, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) te verdelen naar rato van het aantal deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar per instelling aan de opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is ingeschreven en dat daadwerkelijk die opleiding volgt, waarbij: 
+1.  Het deel van de rijksbijdrage voor voorbereidende en ondersteunende activiteiten als bedoeld in artikel 7.2.2, vierde lid, van de wet, wordt op grond van artikel 6.1.1, tweede lid, van het besluit, berekend door het landelijk beschikbare budget ten behoeve van voorbereidende en ondersteunende activiteiten, zoals dat voor dat kalenderjaar is vastgesteld op grond van artikel 2.2.1, eerste lid, van het besluit te verdelen naar rato van het aantal deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar per instelling aan de opleidingen als bedoeld in artikel 7.2.2, eerste lid, onderdelen a en b, van de wet is ingeschreven en dat daadwerkelijk die opleiding volgt, waarbij: 
 
-a. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met de factor 1 wordt vermenigvuldigd;  
+a. het aantal deelnemers aan de opleiding, bedoeld in artikel 7.2.2, eerste lid onderdeel a, van de wet, met de factor 1 wordt vermenigvuldigd;  
 
-b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) met de factor 0,4 wordt vermenigvuldigd.     
-2.  Bij de toepassing van het eerste lid worden de deeltijds deelnemers, bedoeld in [artikel 2.1.2. van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), in de beroepsopleidende leerweg buiten beschouwing gelaten.  
+b. het aantal deelnemers aan de opleiding, bedoeld in artikel 7.2.2, eerste lid onderdeel b, van de wet met de factor 0,4 wordt vermenigvuldigd.     
+2.  Bij de toepassing van het eerste lid worden de deeltijds deelnemers, bedoeld in artikel 2.1.2. van het besluit, in de beroepsopleidende leerweg buiten beschouwing gelaten.  
 
 ### Hoofdstuk  4  
 
@@ -217,7 +217,7 @@ b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid
 
 ####Voorwaarde toekennen rijksbijdrage educatie aan gemeente
 
-De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de voorwaarde dat gedurende de periode van 1 januari tot en met 31 december van het jaar waarvoor de middelen worden toegekend, één of meer overeenkomsten als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van kracht zijn, op grond waarvan die gemeente zich verplicht tot toekenning en beschikbaarstelling van het totale bedrag van de rijksbijdrage educatie voor deze periode ten behoeve van activiteiten gedurende de looptijd van de overeenkomst of overeenkomsten. 
+De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de voorwaarde dat gedurende de periode van 1 januari tot en met 31 december van het jaar waarvoor de middelen worden toegekend, één of meer overeenkomsten als bedoeld in artikel 2.3.4, eerste lid, van de wet van kracht zijn, op grond waarvan die gemeente zich verplicht tot toekenning en beschikbaarstelling van het totale bedrag van de rijksbijdrage educatie voor deze periode ten behoeve van activiteiten gedurende de looptijd van de overeenkomst of overeenkomsten. 
 
 ### Artikel  4.1.2  
 
@@ -239,7 +239,7 @@ b. de schade is vergoed die de instelling lijdt doordat zij in vertrouwen op het
 
 ####Overgangsvoorschriften inzake hardheidsclausule huisvesting
 
-1.  In aanvulling op [artikel 6.1.3, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) wordt artikel 8 van de Regeling bekostiging huisvesting bve-sector, zoals die luidde op 31 december 1999, uitsluitend betrokken bij de berekening van het bedrag voor de huisvestingskosten voor het betreffende kalenderjaar, indien: 
+1.  In aanvulling op artikel 6.1.3, eerste lid, van het besluit wordt artikel 8 van de Regeling bekostiging huisvesting bve-sector, zoals die luidde op 31 december 1999, uitsluitend betrokken bij de berekening van het bedrag voor de huisvestingskosten voor het betreffende kalenderjaar, indien: 
 
 a. het bevoegd gezag voor 15 februari van het betreffende jaar een aanvraag indient bij de minister voor een aanvullende vergoeding;  
 
@@ -285,9 +285,9 @@ Wijzigt deze regeling.
 
 ####Intrekking regelingen
 
-1.  De [Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) wordt, met in achtneming van het tweede lid, ingetrokken.  
-2.  De [artikelen 5.3b](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) en [5.4a van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervallen met terugwerkende kracht met ingang van 1 januari 2008. De [artikelen 5.3c](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) en [5.4b van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervallen met ingang van 1 januari 2009. [Artikel 5.4c van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervalt met ingang van 1 januari 2010.  
-3.  De [Regeling aanwijzing bewijzen van voldoende didactische bekwaamheid in de bve-sector](../../../../../ministeriele-regeling/regeling/aanwijzing/bewijzen/van/voldoende/didactische/bekwaamheid/in/de/etc/BWBR0009539/README.md) wordt ingetrokken.  
+1.  De Uitvoeringsregeling WEB wordt, met in achtneming van het tweede lid, ingetrokken.  
+2.  De artikelen 5.3b en 5.4a van de Uitvoeringsregeling WEB vervallen met terugwerkende kracht met ingang van 1 januari 2008. De artikelen 5.3c en 5.4b van de Uitvoeringsregeling WEB vervallen met ingang van 1 januari 2009. Artikel 5.4c van de Uitvoeringsregeling WEB vervalt met ingang van 1 januari 2010.  
+3.  De Regeling aanwijzing bewijzen van voldoende didactische bekwaamheid in de bve-sector wordt ingetrokken.  
 
 ### Artikel  5.4  
 

@@ -568,7 +568,7 @@ d. ontbinding der rederij tijdens de loop van een overeenkomst tot vervoer, van 
 
 ### Artikel  172  
 
-Op rederijen van zeevissersschepen is artikel 171 derde lid, onder *a* niet van toepassing.  
+Op rederijen van zeevissersschepen is artikel 171 derde lid, onder a niet van toepassing.  
 
 ### Artikel  173  
 
@@ -760,7 +760,7 @@ Wanneer een vordering uit hoofde van artikel 211 bevoorrecht is, zijn de renten 
 ### Artikel  213  
 
 1.  De bevoorrechte vorderingen, genoemd in artikel 211, nemen rang in de volgorde, waarin zij daar zijn gerangschikt.    
-2.   Bevoorrechte vorderingen onder dezelfde letter vermeld, staan in rang gelijk, doch de vorderingen genoemd in artikel 211 onder *c* nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.    
+2.   Bevoorrechte vorderingen onder dezelfde letter vermeld, staan in rang gelijk, doch de vorderingen genoemd in artikel 211 onder c nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.    
 3.   In rang gelijkstaande vorderingen worden ponds-pondsgewijs betaald.   
 
 ### Artikel  214  
@@ -790,7 +790,7 @@ b. de vorderingen, die uit hoofde van afdeling 1 van titel 6 op de reder rusten;
 
 c. de vorderingen, genoemd in artikel 752 voor zover zij op de reder rusten.     
 2.   De in het eerste lid genoemde vorderingen staan in rang gelijk en worden ponds-pondsgewijs betaald.    
-3.   De artikelen 212, 214 onder *a* en 216 zijn op de in het eerste lid genoemde vorderingen van toepassing. Op de vorderingen die in het eerste lid onder *b* worden genoemd, is ook artikel 215 van toepassing.    
+3.   De artikelen 212, 214 onder a en 216 zijn op de in het eerste lid genoemde vorderingen van toepassing. Op de vorderingen die in het eerste lid onder *b* worden genoemd, is ook artikel 215 van toepassing.    
 4.   Artikel 283 van Boek 3 is niet van toepassing.   
 
 ### Artikel  218  
@@ -1063,7 +1063,7 @@ p. verborgen gebreken, die ondanks een redelijke zorg niet te ontdekken waren;
 q. enige andere oorzaak, niet voortgevloeid uit de persoonlijke schuld van de vervoerder, noch uit schuld of nalatigheid van zijn agenten of ondergeschikten; doch de bewijslast rust op degeen, die zich op deze ontheffing beroept, en het staat aan hem aan te tonen, dat noch zijn persoonlijke schuld, noch de nalatigheid of schuld van zijn agenten of ondergeschikten heeft bijgedragen tot het verlies of de schade.      
 3.   Onder een vervoerovereenkomst onder cognossement is de afzender niet aansprakelijk voor door de vervoerder of het schip geleden verliezen of schaden, voortgevloeid of ontstaan uit welke oorzaak dan ook, zonder dat er is een handeling, schuld of nalatigheid van hem, van zijn agenten of van zijn ondergeschikten.    
 4.   Generlei afwijking van de koers tot redding of poging tot redding van mensenlevens of goederen op zee en generlei redelijke afwijking van de koers wordt beschouwd als een schending van enige vervoerovereenkomst en de vervoerder is niet aansprakelijk voor enig verlies of enige schade daardoor ontstaan.    
-5.   Het staat de afzender vrij aansprakelijkheid aan te tonen voor verlies of schade ontstaan of voortgevloeid uit de schuld van de vervoerder zelf of de schuld van zijn ondergeschikten, niet bestaande uit een handeling, onachtzaamheid of nalatigheid als in het tweede lid onder *a* bedoeld.   
+5.   Het staat de afzender vrij aansprakelijkheid aan te tonen voor verlies of schade ontstaan of voortgevloeid uit de schuld van de vervoerder zelf of de schuld van zijn ondergeschikten, niet bestaande uit een handeling, onachtzaamheid of nalatigheid als in het tweede lid onder a bedoeld.   
 
 ### Artikel  384  
 
@@ -1898,7 +1898,7 @@ j. de staat van gereedheid alsmede de doelmatigheid en de waarde van de uitrusti
 
 1.  Indien een hulpverlener hulp heeft verleend aan een schip dat zelf of wegens zijn lading schade dreigde toe te brengen aan het milieu en hij geen hulploon heeft verkregen krachtens artikel 563 dat ten minste gelijk is aan de volgens dit artikel vast te stellen bijzondere vergoeding, heeft hij recht op een bijzondere vergoeding van de zijde van de reder, gelijk aan de door hem gemaakte kosten zoals in dit artikel omschreven.   
 2.  Indien de hulpverlener in de in het eerste lid bedoelde omstandigheden door zijn hulpverleningswerkzaamheden schade aan het milieu heeft voorkomen of heeft beperkt, kan de door de reder volgens het eerste lid aan de hulpverlener te betalen bijzondere vergoeding worden verhoogd met maximaal 30% van de door de hulpverlener gemaakte kosten. Indien echter de rechter, rekening houdend met de in het tweede lid van artikel 563 genoemde criteria, zulks billijk en rechtvaardig acht, kan hij die bijzondere vergoeding verder verhogen, maar de totale verhoging mag in geen geval meer bedragen dan 100% van de door de hulpverlener gemaakte kosten.   
-3.  Voor de toepassing van het eerste en tweede lid worden onder kosten van de hulpverlener verstaan de voorschotten die door de hulpverlener redelijkerwijze zijn gedaan bij de hulpverlening en een billijk tarief voor uitrusting en personeel die daadwerkelijk en redelijkerwijze zijn ingezet tijdens de hulpverlening, in aanmerking nemend de criteria genoemd in artikel 563, tweede lid, onderdelen *h*, *i *en* j*.   
+3.  Voor de toepassing van het eerste en tweede lid worden onder kosten van de hulpverlener verstaan de voorschotten die door de hulpverlener redelijkerwijze zijn gedaan bij de hulpverlening en een billijk tarief voor uitrusting en personeel die daadwerkelijk en redelijkerwijze zijn ingezet tijdens de hulpverlening, in aanmerking nemend de criteria genoemd in artikel 563, tweede lid, onderdelen h, i en j.   
 4.  De totale bijzondere vergoeding krachtens dit artikel wordt slechts betaald indien en voor zover deze vergoeding hoger is dan het hulploon dat de hulpverlener krachtens artikel 563 kan ontvangen.   
 5.  Indien de hulpverlener nalatig is geweest en daardoor in gebreke is gebleven schade aan het milieu te voorkomen of te beperken, kan de rechter de krachtens dit artikel verschuldigde bijzondere vergoeding geheel of gedeeltelijk ontzeggen.   
 6.  De rechter die een hulploon vaststelt als bedoeld in artikel 563 en een bijzondere vergoeding bepaalt als bedoeld in het eerste lid, is niet verplicht om het bedrag van het hulploon vast te stellen tot het beloop van de maximale waarde van het schip en de andere geredde goederen alvorens het bedrag van de bijzondere vergoeding te bepalen.   
@@ -1937,7 +1937,7 @@ Afstand, jegens wie dan ook, door een lid der bemanning van zijn recht op een aa
 ### Artikel  570  
 
 1.  De verdeling van een hulploon als bedoeld in artikel 563 tussen hulpverleners geschiedt volgens de in dat artikel genoemde criteria.   
-2.  De verdeling van een bijzondere vergoeding als bedoeld in artikel 564 tussen hulpverleners geschiedt met in aanmerkingneming van de criteria genoemd in artikel 563, tweede lid, onderdelen* h*, *i* en *j*.   
+2.  De verdeling van een bijzondere vergoeding als bedoeld in artikel 564 tussen hulpverleners geschiedt met in aanmerkingneming van de criteria genoemd in artikel 563, tweede lid, onderdelen h, i en j.   
 3.  Bij geschillen omtrent de verdeling van het hulploon en de bijzondere vergoeding tussen de daartoe gerechtigden wordt deze op vordering van de meest gerede partij door de rechter vastgesteld.  
 
 ### Artikel  571  
@@ -2034,7 +2034,7 @@ f.  *"reder"*: de persoon die in een register waarin het schip te boek staat, al
 
 ### Artikel  622  
 
-1.  Indien een gevaarlijke stof zich bevindt in een vervoermiddel dat zich aan boord van een schip bevindt zonder dat de gevaarlijke stof uit dit gestapelde vervoermiddel wordt gelost, zal de gevaarlijke stof voor die periode geacht worden zich alleen aan boord van dat schip te bevinden. In afwijking van het in de vorige zin bepaalde zal, gedurende de handelingen bedoeld in artikel 623, vijfde lid, onderdelen *c, d* en *e*, de gevaarlijke stof geacht worden zich alleen aan boord van het gestapelde vervoermiddel te bevinden.    
+1.  Indien een gevaarlijke stof zich bevindt in een vervoermiddel dat zich aan boord van een schip bevindt zonder dat de gevaarlijke stof uit dit gestapelde vervoermiddel wordt gelost, zal de gevaarlijke stof voor die periode geacht worden zich alleen aan boord van dat schip te bevinden. In afwijking van het in de vorige zin bepaalde zal, gedurende de handelingen bedoeld in artikel 623, vijfde lid, onderdelen c, d en e, de gevaarlijke stof geacht worden zich alleen aan boord van het gestapelde vervoermiddel te bevinden.    
 2.   Indien een gevaarlijke stof zich bevindt in een schip dat wordt gesleept door een ander schip of door een binnenschip of wordt voortbewogen door een ander schip of door een binnenschip, dat hecht met dit schip in een eenheid gekoppeld is, zal de gevaarlijke stof geacht worden zich alleen aan boord van eerstgenoemd schip te bevinden.   
 
 ### Artikel  623  
@@ -2069,14 +2069,14 @@ f. de ondergeschikten, vertegenwoordigers of lasthebbers van de in dit lid, onde
 1.  Indien de reder bewijst dat de gevaarlijke stof tijdens de periode bedoeld in artikel 621, tweede lid, is geladen of gelost onder de uitsluitende verantwoordelijkheid van een door hem bij name genoemde ander dan de reder of zijn ondergeschikte, vertegenwoordiger of lasthebber, zoals de afzender of ontvanger, is de reder niet aansprakelijk voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof en is die ander voor deze schade aansprakelijk overeenkomstig deze afdeling.    
 2.   Indien echter de gevaarlijke stof tijdens de periode bedoeld in artikel 621, tweede lid, is geladen of gelost onder de gezamenlijke verantwoordelijkheid van de reder en een door de reder bij name genoemde ander, zijn de reder en die ander hoofdelijk aansprakelijk overeenkomstig deze afdeling voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof.    
 3.   Indien is geladen of gelost door een persoon in opdracht of ten behoeve van de vervoerder of een ander, zoals de afzender of de ontvanger, is niet deze persoon, maar de vervoerder of die ander aansprakelijk.    
-4.   Indien een ander dan de reder op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 623, vierde lid en vijfde lid, onderdeel *b*.    
+4.   Indien een ander dan de reder op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 623, vierde lid en vijfde lid, onderdeel b.    
 5.   Indien een ander dan de reder op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander titel 7 alsmede de artikelen 642a tot en met 642z van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid:  
 
 a. de beperking van aansprakelijkheid krachtens titel 7 van het Wetboek van Koophandel geldt voor het geheel der naar aanleiding van eenzelfde gebeurtenis ontstane vorderingen gericht tegen beiden;   
 
 b. een fonds gevormd door één van hen overeenkomstig artikel 642c van het Wetboek van Burgerlijke Rechtsvordering wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.      
 6.   In de onderlinge verhouding tussen de reder en de in het tweede lid van dit artikel genoemde ander is de reder niet tot vergoeding verplicht dan in geval van schuld van hemzelf of van zijn ondergeschikten, vertegenwoordigers of lasthebbers.    
-7.   Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 621, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 623, vijfde lid, onderdeel *c, d* of *e*.   
+7.   Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 621, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 623, vijfde lid, onderdeel c, d of e.   
 
 ### Artikel  625  
 
@@ -2244,7 +2244,7 @@ Vervallen per 01-01-2013
 
 1.  De reder van een schip en de hulpverlener kunnen door het stellen van één of meer fondsen als bedoeld in artikel 642*c* van het Wetboek van Burgerlijke Rechtsvordering hun aansprakelijkheid beperken voor de in artikel 752 genoemde vorderingen.   
 2.  Onder reder worden in deze titel mede verstaan de bevrachter, de huurder of andere gebruiker van een schip met inbegrip van degene in wiens handen de exploitatie van een schip is gelegd.   
-3.  Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 752, eerste lid, onder *d*, *e* en *f*, genoemde werkzaamheden of maatregelen.   
+3.  Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 752, eerste lid, onder d, e en f, genoemde werkzaamheden of maatregelen.   
 4.  Onder schip wordt in deze titel zeeschip verstaan. Een schip in aanbouw wordt voor de toepassing van deze titel mede als schip aangemerkt van het ogenblik af, dat de stapelloop aanvangt. Een luchtkussenvoertuig wordt voor de toepassing van deze titel niet als schip aangemerkt. Een platform dat is gebouwd ter exploratie of exploitatie van de natuurlijke rijkdommen van de zeebodem of van de ondergrond daarvan en dat kan drijven, wordt voor de toepassing van deze titel niet als schip aangemerkt gedurende de tijd dat het op de zeebodem rust.  
 
 ### Artikel  751  
@@ -2442,7 +2442,7 @@ b. op aangifte van de eigenaar of ambtshalve
 
 ### Artikel  788  
 
-De enige zakelijke rechten, waarvan een in het register teboekstaand binnenschip het voorwerp kan zijn, zijn de eigendom, de hypotheek, het vruchtgebruik en de in artikel 821 en artikel 827 eerste lid onder *b* genoemde voorrechten.  
+De enige zakelijke rechten, waarvan een in het register teboekstaand binnenschip het voorwerp kan zijn, zijn de eigendom, de hypotheek, het vruchtgebruik en de in artikel 821 en artikel 827 eerste lid onder b genoemde voorrechten.  
 
 ### Artikel  790  
 
@@ -4251,7 +4251,7 @@ e. "*exploitant*": hij die de zeggenschap heeft over het gebruik van het voertui
 
 1.  Indien een gevaarlijke stof zich bevindt in een vervoermiddel dat zich aan boord van een voertuig bevindt zonder dat de gevaarlijke stof uit dit gestapelde vervoermiddel wordt gelost, zal de gevaarlijke stof voor die periode geacht worden zich alleen aan boord van genoemd voertuig te bevinden.    
 2.   Indien een gevaarlijke stof zich bevindt in een voertuig dat wordt voortbewogen door een ander voertuig, zal de gevaarlijke stof geacht worden zich alleen aan boord van het laatstgenoemde voertuig te bevinden.    
-3.   Gedurende de handelingen bedoeld in artikel 1213, vijfde lid, onderdelen *c*, *d* en *e*, zal de gevaarlijke stof geacht worden:  
+3.   Gedurende de handelingen bedoeld in artikel 1213, vijfde lid, onderdelen c, d en e, zal de gevaarlijke stof geacht worden:  
 
 a. in afwijking van het eerste lid, zich alleen aan boord van het gestapelde vervoermiddel te bevinden;   
 
@@ -4289,18 +4289,18 @@ f. de ondergeschikten, vertegenwoordigers of lasthebbers van de in dit lid, onde
 1.  Indien de exploitant bewijst dat de gevaarlijke stof tijdens de periode bedoeld in artikel 1211, tweede lid, is geladen of gelost onder de uitsluitende verantwoordelijkheid van een door hem bij name genoemde ander dan de exploitant of zijn ondergeschikte, vertegenwoordiger of lasthebber, zoals de afzender of ontvanger, is de exploitant niet aansprakelijk voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof en is die ander voor deze schade aansprakelijk overeenkomstig deze afdeling.    
 2.   Indien echter de gevaarlijke stof tijdens de periode bedoeld in artikel 1211, tweede lid, is geladen of gelost onder de gezamenlijke verantwoordelijkheid van de exploitant en een door de exploitant bij name genoemde ander, zijn de exploitant en die ander hoofdelijk aansprakelijk overeenkomstig deze afdeling voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof.    
 3.   Indien is geladen of gelost door een persoon in opdracht of ten behoeve van de vervoerder of een ander, zoals de afzender of de ontvanger, is niet deze persoon, maar de vervoerder of die ander aansprakelijk.    
-4.   Indien een ander dan de exploitant op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 1213, vierde lid en vijfde lid, onderdeel *b*.    
+4.   Indien een ander dan de exploitant op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 1213, vierde lid en vijfde lid, onderdeel b.    
 5.   Indien een ander dan de exploitant op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander de artikelen 1218 tot en met 1220 van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid:  
 
 a. de beperking van aansprakelijkheid als bepaald krachtens artikel 1218, eerste lid, geldt voor het geheel der naar aanleiding van eenzelfde gebeurtenis ontstane vorderingen gericht tegen beiden;   
 
 b. een fonds gevormd door één van hen overeenkomstig artikel 1219 wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.      
 6.   In de onderlinge verhouding tussen de exploitant en de in het tweede lid van dit artikel genoemde ander is de exploitant niet tot vergoeding verplicht dan in geval van schuld van hemzelf of van zijn ondergeschikten, vertegenwoordigers of lasthebbers.    
-7.   Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 1211, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 1213, vijfde lid, onderdeel *c, d* of *e*.   
+7.   Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 1211, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 1213, vijfde lid, onderdeel c, d of e.   
 
 ### Artikel  1215  
 
-Indien ingevolge artikel 1213, tweede lid, onderdeel *c*, de exploitant niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien de artikelen 1218 tot en met 1220 van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 1213, vierde lid.  
+Indien ingevolge artikel 1213, tweede lid, onderdeel c, de exploitant niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien de artikelen 1218 tot en met 1220 van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 1213, vierde lid.  
 
 ### Artikel  1216  
 
@@ -5604,7 +5604,7 @@ c.in alle overige gevallen: op de dag waarop het recht kan worden uitgeoefend. D
 ### Artikel  1740  
 
 1.  Behoudens artikel 1741 verjaart een op een overeenkomst tot het doen vervoeren van goederen gegronde rechtsvordering door verloop van negen maanden.    
-2.   De in het eerste lid bedoelde termijn begint te lopen met de aanvang van de dag, volgende op de dag van aflevering. Voor de vaststelling van deze dag vindt artikel 1710 onder *d* overeenkomstige toepassing. Is de rechtsvordering echter gegrond op artikel 62 of op artikel 63, dan wel op enig beding van gelijke strekking, dan begint deze termijn met de aanvang van de dag, volgende op die waarop de opdrachtgever wist, dat de expediteur niet aan zijn verplichting tot het doen van mededelingen voldeed.    
+2.   De in het eerste lid bedoelde termijn begint te lopen met de aanvang van de dag, volgende op de dag van aflevering. Voor de vaststelling van deze dag vindt artikel 1710 onder d overeenkomstige toepassing. Is de rechtsvordering echter gegrond op artikel 62 of op artikel 63, dan wel op enig beding van gelijke strekking, dan begint deze termijn met de aanvang van de dag, volgende op die waarop de opdrachtgever wist, dat de expediteur niet aan zijn verplichting tot het doen van mededelingen voldeed.    
 3.   Is de rechtsvordering gegrond op artikel 65 of artikel 68, dan begint de termijn met de aanvang van de dag, volgende op de dag dat de overeenkomst tot het doen vervoeren van goederen eindigt.   
 
 ### Artikel  1741  
@@ -5668,7 +5668,7 @@ b. het voorval of ongeval te wijten is aan schuld van de vervoerder;
 c. van het voorval of ongeval geen kennis is gegeven of niet binnen de in het eerste lid genoemde termijn kennis is gegeven, het één of het ander door omstandigheden, die niet voor rekening van de rechthebbende komen;   
 
 d. de vervoerder binnen de in het eerste lid genoemde termijn uit anderen hoofde kennis had van het voorval of ongeval.      
-4.   Voor de toepassing van dit artikel wordt een omstandigheid als bedoeld in de artikelen 106 eerste lid onder *b*, 505, 975 en 1150 aangemerkt als een aan de reiziger overkomen voorval of ongeval.   
+4.   Voor de toepassing van dit artikel wordt een omstandigheid als bedoeld in de artikelen 106 eerste lid onder b, 505, 975 en 1150 aangemerkt als een aan de reiziger overkomen voorval of ongeval.   
 
 ### Artikel  1754  
 

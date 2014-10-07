@@ -2,7 +2,7 @@
 
 ##Beleidsregels Protocollaire Basisadministratie
 
-De Minister van Buitenlandse Zaken;Overwegende dat het wenselijk is ter bescherming van de persoonlijke levenssfeer regels te stellen omtrent het beheer en het gebruik van de geautomatiseerde basisadministratie met persoonsgegevens over geprivilegieerden;Gelet op het Verdrag van Wenen inzake Diplomatiek Verkeer 1961;Gelet op het Verdrag van Wenen inzake Consulaire Betrekkingen 1963;Gelet op het Verdrag nopens de Voorrechten en Immuniteiten van de Verenigde Naties 1946;Gelet op het Verdrag nopens de Voorrechten en Immuniteiten van Gespecialiseerde Organisaties 1947;Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties;Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);Gelet op de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);Besluit:  
+De Minister van Buitenlandse Zaken;Overwegende dat het wenselijk is ter bescherming van de persoonlijke levenssfeer regels te stellen omtrent het beheer en het gebruik van de geautomatiseerde basisadministratie met persoonsgegevens over geprivilegieerden;Gelet op het Verdrag van Wenen inzake Diplomatiek Verkeer 1961;Gelet op het Verdrag van Wenen inzake Consulaire Betrekkingen 1963;Gelet op het Verdrag nopens de Voorrechten en Immuniteiten van de Verenigde Naties 1946;Gelet op het Verdrag nopens de Voorrechten en Immuniteiten van Gespecialiseerde Organisaties 1947;Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties;Gelet op artikel 4:81 van de Algemene wet bestuursrecht;Gelet op de Wet bescherming persoonsgegevens;Besluit:  
 
 ### Artikel  1  
 
@@ -26,7 +26,7 @@ f.  derde: elke andere persoon of instelling dan een afnemer en de geprivilegiee
 
 ####PROBAS
 
-1. De Minister is ten aanzien van PROBAS de verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+1. De Minister is ten aanzien van PROBAS de verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.
 2. DKP is ten aanzien van PROBAS de beheerder aan wie het feitelijk beheer en de bevoegdheden van de Minister ten aanzien van de verwerkingen van persoonsgegevens van geprivilegieerden zijn gemandateerd. 
 
 ###Artikel 3 
@@ -69,12 +69,12 @@ j.een digitale foto.
 
 ####Verstrekking aan afnemers
 
-1.  Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in artikel 4, onder j, wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.   
-2.  Een verzoek, bedoeld in het eerste lid, is niet nodig indien de verstrekking van persoonsgegevens tot doel heeft om een van de volgende afnemers op de hoogte te stellen van wijzigingen in de persoonsgegevens van geprivilegieerden: 
+1.  Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in artikel 4, onder j, wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.  
+2. Een verzoek, bedoeld in het eerste lid, is niet nodig ten aanzien van een verstrekking aan de volgende afnemers: 
 
 a. De Belastingdienst Douane, ondernemingen en particulieren,  
 
-b. De gemeentelijke basisadministraties,  
+b. De Basisregistratie personen,  
 
 c. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),  
 
@@ -88,9 +88,11 @@ g. De korpschef van de politie,
 
 h. De politiediensten van Nederland,  
 
-i. De vreemdelingendiensten, en  
+i. De vreemdelingendiensten,  
 
-j. De Sociale Verzekeringsbank.     
+j. De Sociale Verzekeringsbank, en  
+
+k. Het Rijksinstituut voor Volksgezondheid en Milieu.    
 3.  Uit PROBAS kunnen op verzoek persoonsgegevens worden verstrekt aan derden indien zulks wordt vereist ingevolge een wettelijk voorschrift of indien zulks geschiedt met toestemming van de geprivilegieerde. Vanaf 15 jaar na het overlijden van de geprivilegieerde kunnen slechts diens bloedverwanten tot en met de tweede graad en diens aanverwanten tot en met de eerste graad om persoonsgegevens verzoeken.   
 4.  Van iedere verstrekking wordt aangetekend de datum van verstrekking, de identiteit van de verzoeker en een omschrijving van de verstrekte persoonsgegevens.   
 5.  Aantekening blijft achterwege in geval van een verstrekking als bedoeld in het tweede lid.  

@@ -21,7 +21,7 @@ The Governments represented by the undersigned Plenipotentiaries undertake, ther
 ### Article  3  
 Treedt in werking op een nader te bepalen tijdstip 
 
-The Governments represented by the undersigned Plenipotentiaries also undertake not to use or threaten to use nuclear weapons against the Contracting Parties of the Treaty for the Prohibition of Nuclear Weapons In Latin America.
+The Governments represented by the undersigned Plenipotentiaries also undertake not to use or threaten to use nuclear weapons against the Contracting Parties of the Treaty for the Prohibition of Nuclear Weapons in Latin America.
 
 ### Article  4  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -44,7 +44,7 @@ De ondertekenende gevolmachtigden, door hun onderscheiden Regeringen daartoe vol
 ### Artikel  1  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Het statuut van denuclearisatie van Latijns-Amerika ten aanzien van oorlogsdoeleinden als omschreven, afgebakend en vervat in het Verdrag tot verbod van kernwapens in Latijns-Amerika, waarvan dit Protocol een bijlage is, wordt ten aanzien van alle daarin uitdrukkelijk genoemde doelstellingen en bepalingen door de Partijen bij dit Protocol volledig geeerbiedigd.
+Het statuut van denuclearisatie van Latijns-Amerika ten aanzien van oorlogsdoeleinden als omschreven, afgebakend en vervat in het Verdrag tot verbod van kernwapens in Latijns-Amerika, waarvan dit Protocol een bijlage is, wordt ten aanzien van alle daarin uitdrukkelijk genoemde doelstellingen en bepalingen door de Partijen bij dit Protocol volledig geëerbiedigd.
 
 ### Artikel  2  
 Treedt in werking op een nader te bepalen tijdstip 

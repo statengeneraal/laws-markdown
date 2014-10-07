@@ -7,17 +7,17 @@ Gelet op artikel 42, eerste lid, van de Wet lokaal spoor;
 BESLUIT:    
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de Wet lokaal spoor worden aangewezen de ambtenaren van de Inspectie Leefomgeving en Transport. 
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouder Wet lokaal spoor. 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Dit besluit treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de Wet lokaal spoor in werking treden. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
