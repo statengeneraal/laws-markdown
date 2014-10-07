@@ -4,7 +4,7 @@ Dutch laws in GitHub
 What is this?
 -------------
 
-This is a repository that tracks changes of Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book.
+This is a repository that tracks Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book. The documents have been converted to Markdown to be human-legible.
 
 **NOTE:** This is not an official source of law. Use at your own peril.
 
@@ -68,7 +68,7 @@ Also remember that laws typically have more complex markup needs than Markdown a
 How does it work?
 -----------------
 
-I have set up a daily script that will keep track of the law as it changes. Find the source code [here](https://github.com/statengeneraal/wetten-git-updater). 
+I have set up a daily script that will keep track of the law as it changes. Find the source code [here](https://github.com/statengeneraal/tools-scripts/tree/master/scripts). 
 
 There are three sources I have used for populating this repository: 
 
