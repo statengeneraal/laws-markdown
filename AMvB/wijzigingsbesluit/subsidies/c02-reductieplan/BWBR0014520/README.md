@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 13 augustus 2002, nr. WJZ 02037750;
 
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);
+Gelet op artikel 3 van de Kaderwet EZ-subsidies;
 
 De Raad van State gehoord (advies van 7 november 2002, nr. W.10.02.0376/II);
 
@@ -14,14 +14,17 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 16 december
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 29-09-2014 
 
 Wijzigt het Besluit subsidies CO2-reductieplan   
 
 ###Artikel II 
+Materieel uitgewerkt per 29-09-2014 
 
 Artikel I geldt niet voor subsidies die zijn verstrekt voor de inwerkingtreding van dit besluit.
 
 ### Artikel  III  
+Materieel uitgewerkt per 29-09-2014 
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
 

@@ -7,6 +7,7 @@ Gelet op artikel 3 van de Kaderwet EZ-subsidies, artikel 16 van het Kaderbesluit
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 07-10-2014 
 
 1.  Als perioden in 2009, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij in kolom 6 genoemde bedrag.   
@@ -133,6 +134,7 @@ Besluit:
 |17.5 |Tijdelijke energieregeling markt en innovatie (Duurzame biomassa-import) |6.2 | --- |Datum van inwerkingtreding van artikel 6.2 t/m 15-10-09 |4.000.000 |
 
 ### Artikel  1a  
+Materieel uitgewerkt per 07-10-2014 
 
 1.  Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.   
 2.  Artikel 1, tweede en derde lid, is van overeenkomstige toepassing.  
@@ -149,6 +151,7 @@ Besluit:
 |1.5 |Tijdelijke energieregeling markt en innovatie (Experimenteerregeling Wind op Zee) |11.2 | --- |Datum van inwerkingtreding van artikel 11.2 van de Tijdelijke energieregeling markt en innovatie t/m 28-01-2010 |9.000.000 |
 
 ### Artikel  2  
+Materieel uitgewerkt per 07-10-2014 
 
 De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2009 aangevraagde subsidies voor innovatiekredieten: 
 
@@ -161,14 +164,17 @@ c. de opslag voor klinische ontwikkelingsprojecten: 5 procent per jaar;
 d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.   
 
 ### Artikel  3  
+Materieel uitgewerkt per 07-10-2014 
 
 Wijzigt de Uitvoeringsregeling CVO. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2009. 
 

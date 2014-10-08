@@ -17,7 +17,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Onze Minister kan besluiten dat experimenten plaatsvinden bij een stemming of stemopneming tijdens verkiezingen als bedoeld in de [Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en de [Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) met als doel de invoering van: 
+1.  Onze Minister kan besluiten dat experimenten plaatsvinden bij een stemming of stemopneming tijdens verkiezingen als bedoeld in de Kieswet en de Wet algemene regels herindeling met als doel de invoering van: 
 
 a. een stembiljet, waardoor de mogelijkheid voor kiezers buiten Nederland hun stem tijdig uit te brengen wordt bevorderd, doordat het stembiljet eerder kan worden toegezonden of van de elektronische weg gebruik kan worden gemaakt; of  
 
@@ -27,16 +27,16 @@ b. een centrale opzet van de stemopneming op gemeentelijk niveau op één of mee
 
 ### Artikel  3  
 
-1.  De experimenten vinden voor zover mogelijk plaats overeenkomstig hetgeen bij en krachtens de [Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is bepaald.   
-2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de experimenten en de daarbij te gebruiken voorzieningen. Deze regels kunnen op het naastlagere niveau afwijken van het bepaalde bij en krachtens de volgende onderdelen van de [Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md): 
+1.  De experimenten vinden voor zover mogelijk plaats overeenkomstig hetgeen bij en krachtens de Kieswet is bepaald.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de experimenten en de daarbij te gebruiken voorzieningen. Deze regels kunnen op het naastlagere niveau afwijken van het bepaalde bij en krachtens de volgende onderdelen van de Kieswet: 
 
-a. de [artikelen E 4 tot en met E 10](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [E 11, derde en vierde lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), zodat bij een experiment gemeentelijke stembureaus kunnen worden ingesteld en de taken van hoofdstembureaus kunnen worden toebedeeld aan de gemeentelijke stembureaus en het centrale stembureau;  
+a. de artikelen E 4 tot en met E 10 en E 11, derde en vierde lid, zodat bij een experiment gemeentelijke stembureaus kunnen worden ingesteld en de taken van hoofdstembureaus kunnen worden toebedeeld aan de gemeentelijke stembureaus en het centrale stembureau;  
 
-b. de [artikelen J 20](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [M 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [M 6 tot en met M 12](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [M 14 tot en met M 17](../../../../../../../../wet/kieswet/BWBR0004627/README.md), met betrekking tot het verzenden en retourneren van bescheiden, de wijze waarop de stem wordt uitgebracht, de werkwijze en samenstelling van het briefstembureau, de inrichting van het briefstembureaulokaal, en de gang van zaken bij de ontvangst en het openen van retourenveloppen;  
+b. de artikelen J 20, M 2, M 6 tot en met M 12 en M 14 tot en met M 17, met betrekking tot het verzenden en retourneren van bescheiden, de wijze waarop de stem wordt uitgebracht, de werkwijze en samenstelling van het briefstembureau, de inrichting van het briefstembureaulokaal, en de gang van zaken bij de ontvangst en het openen van retourenveloppen;  
 
-c. de [artikelen J 1, vierde lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [J 4a, derde lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), en [J 35](../../../../../../../../wet/kieswet/BWBR0004627/README.md), de [hoofdstukken N](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [O](../../../../../../../../wet/kieswet/BWBR0004627/README.md), en de [artikelen P 1](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [P 21, derde lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), en [P 22](../../../../../../../../wet/kieswet/BWBR0004627/README.md), met betrekking tot de stemopneming en de taken en werkwijze van het stembureau, het briefstembureau, de burgemeester, het hoofdstembureau en centraal stembureau bij de vaststelling van de verkiezingsuitslag;  
+c. de artikelen J 1, vierde lid, J 4a, derde lid, en J 35, de hoofdstukken N en O, en de artikelen P 1, P 21, derde lid, en P 22, met betrekking tot de stemopneming en de taken en werkwijze van het stembureau, het briefstembureau, de burgemeester, het hoofdstembureau en centraal stembureau bij de vaststelling van de verkiezingsuitslag;  
 
-d. de [artikelen Y 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [Y 22 tot en met Y 23](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [Y 24](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [Y 39](../../../../../../../../wet/kieswet/BWBR0004627/README.md), zodat een experiment ook tijdens de verkiezing van de Nederlandse leden van het Europees Parlement kan worden gehouden.     
+d. de artikelen Y 2, Y 22 tot en met Y 23, Y 24 en Y 39, zodat een experiment ook tijdens de verkiezing van de Nederlandse leden van het Europees Parlement kan worden gehouden.     
 3.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.   
 4.  Een voorziening als bedoeld in artikel 2, derde lid, wordt slechts aangewezen indien deze ten minste aan de volgende vereisten voldoet: 
 
@@ -47,7 +47,7 @@ b. de transparantie, controleerbaarheid en betrouwbaarheid van de verkiezing is 
 ### Artikel  4  
 
 1.  Dit artikel is van toepassing indien Onze Minister voor een experiment een stembiljet vaststelt waarbij logo’s van politieke groeperingen kunnen worden gebruikt.   
-2.  In het register, bedoeld in de [artikelen G 1](../../../../../../../../wet/kieswet/BWBR0004627/README.md) of [Y 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md) juncto artikel G 1, van de Kieswet, worden tevens de logo’s van politieke groeperingen bijgehouden.   
+2.  In het register, bedoeld in de artikelen G 1 of Y 2 juncto artikel G 1, van de Kieswet, worden tevens de logo’s van politieke groeperingen bijgehouden.   
 3.  Een politieke groepering kan het centraal stembureau verzoeken haar logo te registreren, dan wel haar geregistreerde logo te wijzigen. Verzoeken die zijn ontvangen na de tweeënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling.   
 4.  Het centraal stembureau beschikt slechts afwijzend op het verzoek, indien: 
 
@@ -63,8 +63,8 @@ e. het logo geheel of in hoofdzaak overeenstemt met die van een rechtspersoon di
 
 f. het verzoek op dezelfde dag bij het centraal stembureau is ingekomen als een ander verzoek, strekkende tot inschrijving van een geheel of in hoofdzaak overeenstemmend logo, tenzij dat andere verzoek reeds op een van de onder a tot en met e genoemde gronden moet worden afgewezen.     
 5.  Het centraal stembureau schrapt het logo van een politieke groepering wanneer het de aanduiding van die politieke groepering schrapt, dan wel op verzoek van die politieke groepering.   
-6.  [Artikel Y 10 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.   
-7.  [Artikel G 5 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing op een besluit dat is genomen op grond van dit artikel.   
+6.  Artikel Y 10 van de Kieswet is van overeenkomstige toepassing.   
+7.  Artikel G 5 van de Kieswet is van overeenkomstige toepassing op een besluit dat is genomen op grond van dit artikel.   
 8.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop een logo wordt overgelegd.  
 
 ### Artikel  5  

@@ -7,6 +7,7 @@ Gelet op artikel 16 van het Kaderbesluit EZ-subsidies en op de artikelen 3.9, 5.
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 07-10-2014 
 
 1.  Als perioden in 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum om 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.   
@@ -144,6 +145,7 @@ Vervallen | --- | --- | --- | --- |
 | --- | --- |5.19 |Kennisverwerving |Datum waarop artikel 5.19 in werking treedt t/m 31-12 |3.000.000 |
 
 ### Artikel  2  
+Materieel uitgewerkt per 07-10-2014 
 
 1.  Als perioden, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum om 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.  
@@ -167,6 +169,7 @@ Vervallen | --- | --- | --- | --- |
 | --- | --- |– 3.12v | --- |–08-03-2010 t/m 31-12-2011 | --- |
 
 ### Artikel  3  
+Materieel uitgewerkt per 07-10-2014 
 
 De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2010 aangevraagde subsidies voor innovatiekredieten: 
 
@@ -179,10 +182,12 @@ c. de opslag voor klinische ontwikkelingsprojecten: 5 procent per jaar;
 d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.   
 
 ### Artikel  4  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2010. Deze regeling wordt met de toelichting in de Staatscourant geplaatst. 
 

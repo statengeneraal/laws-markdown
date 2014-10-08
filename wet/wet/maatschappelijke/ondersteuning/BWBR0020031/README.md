@@ -128,6 +128,10 @@ c. zich lokaal te verplaatsen per vervoermiddel;
 d. medemensen te ontmoeten en op basis daarvan sociale verbanden aan te gaan.     
 2.  Bij het bepalen van de voorzieningen houdt het college van burgemeester en wethouders rekening met de persoonskenmerken en behoeften van de aanvrager van de voorzieningen, waaronder verandering van woning in verband met wijziging van leefsituatie, alsmede met de capaciteit van de aanvrager om uit een oogpunt van kosten zelf in maatregelen te voorzien.  
 
+### Artikel  4a  
+
+Indien de verordening, bedoeld in artikel 5, eerste lid, daarin voorziet verstrekt het college van burgemeester en wethouders aan personen met een beperking, chronisch psychisch of psychosociaal probleem en daarmee verband houdende aannemelijke meerkosten een tegemoetkoming ter bevordering van de deelname aan het maatschappelijk verkeer en van het zelfstandig functioneren. 
+
 ### Artikel  5  
 
 1.  De gemeenteraad stelt bij verordening en met inachtneming van het bepaalde bij of krachtens deze wet regels over de door het college van burgemeester en wethouders te verlenen individuele voorzieningen en over de voorwaarden waaronder personen die een aanspraak hebben op dergelijke voorzieningen recht hebben op het ontvangen van die voorziening in natura, het ontvangen van een financiële tegemoetkoming of een persoonsgebonden budget, waaronder de vergoeding voor een arbeidsverhouding als bedoeld in artikel 5, eerste lid, van de Wet op de loonbelasting 1964.   
@@ -135,7 +139,8 @@ d. medemensen te ontmoeten en op basis daarvan sociale verbanden aan te gaan.
 
 a. op welke wijze de toegang tot het aanvragen van individuele voorzieningen in samenhang met voorzieningen op het gebied van wonen en zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten is geregeld;  
 
-b. op welke wijze de verkrijging van individuele voorzieningen samenhangend afgestemd op de situatie van de aanvrager worden bepaald.    
+b. op welke wijze de verkrijging van individuele voorzieningen samenhangend afgestemd op de situatie van de aanvrager worden bepaald.     
+3.  De verordening, bedoeld in het eerste lid, bevat tevens regels over de toepassing van artikel 4a. 
 
 ### Artikel  6  
 
@@ -212,162 +217,19 @@ b. indien een derde als bedoeld in het eerste lid beschikt over personeel, hij d
 
 ####Advies- en meldpunt huiselijk geweld en kindermishandeling
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  12a  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Het college van burgemeester en wethouders draagt zorg voor de organisatie van een advies- en meldpunt huiselijk geweld en kindermishandeling. De artikelen 1.4 en 2.8 van de Jeugdwet en de artikelen 9, eerste lid, onderdeel a, 11 en 12 van deze wet zijn daarop van overeenkomstige toepassing.   
-2.  Het advies- en meldpunt huiselijk geweld en kindermishandeling verstrekt aan degene die een vermoeden van huiselijk geweld of kindermishandeling heeft, desgevraagd advies over de stappen die in verband daarmee kunnen worden ondernomen en verleent daarbij zo nodig ondersteuning.   
-3.  Het advies- en meldpunt huiselijk geweld en kindermishandeling oefent de volgende taken uit:  
-
-a. het fungeren als meldpunt voor gevallen of vermoedens van huiselijk geweld of kindermishandeling;   
-
-b. het naar aanleiding van een melding van huiselijk geweld of kindermishandeling of een vermoeden daarvan, onderzoeken of daarvan daadwerkelijk sprake is;   
-
-c. het beoordelen van de vraag of en zo ja tot welke stappen de melding van huiselijk geweld of kindermishandeling of een vermoeden daarvan aanleiding geeft;   
-
-d. het in kennis stellen van een instantie die passende professionele hulp kan verlenen bij huiselijk geweld of kindermishandeling, van een melding van huiselijk geweld of kindermishandeling of een vermoeden daarvan, indien het belang van de betrokkene dan wel de ernst van de situatie waarop de melding betrekking heeft daartoe aanleiding geeft;   
-
-e. het in kennis stellen van de politie of de raad voor de kinderbescherming van een melding van huiselijk geweld of kindermishandeling of een vermoeden daarvan, indien het belang van de betrokkene dan wel de ernst van de situatie waarop de melding betrekking heeft daartoe aanleiding geeft;   
-
-f. indien het advies- en meldpunt een verzoek tot onderzoek bij de raad voor de kinderbescherming doet, het in kennis stellen daarvan van het college van burgemeester en wethouders, en   
-
-g. het op de hoogte stellen van degene die een melding heeft gedaan, van de stappen die naar aanleiding van de melding zijn ondernomen.      
-4.  Het college van burgemeester en wethouders bevordert een goede samenwerking tussen het advies- en meldpunt huiselijk geweld en kindermishandeling, de hulpverlenende instanties, de gecertificeerde instellingen, de raad voor de kinderbescherming en de politie.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de werkwijze van het advies- en meldpunt huiselijk geweld en kindermishandeling bij de uitoefening van de taken, bedoeld in het tweede en derde lid, over de deskundigheid waarover een advies- en meldpunt moet beschikken om een verantwoorde uitvoering van zijn taken te kunnen realiseren en over de samenwerking, bedoeld in het vierde lid.   
-6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Ministers te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
-
-### Artikel  12b  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Het advies- en meldpunt huiselijk geweld en kindermishandeling verwerkt persoonsgegevens ten behoeve van de goede vervulling van de taken, bedoeld in artikel 12a, tweede en derde lid. Het advies- en meldpunt huiselijk geweld en kindermishandeling is de verantwoordelijke voor deze verwerking. 
-
-### Artikel  12c  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Een advies- en meldpunt huiselijk geweld en kindermishandeling kan zonder toestemming van degene die het betreft persoonsgegevens uitsluitend verwerken indien dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid.    
-2.  Een advies- en meldpunt huiselijk geweld en kindermishandeling kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld of kindermishandeling kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid.   
-3.  Derden die op grond van een wettelijk voorschrift of op grond van hun ambt of beroep tot geheimhouding zijn verplicht kunnen, zonder toestemming van degene die het betreft, aan een advies- en meldpunt huiselijk geweld en kindermishandeling desgevraagd of uit eigen beweging inlichtingen verstrekken waarover zij beroepshalve beschikken, indien dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-
-### Artikel  12d  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Het college van burgemeester en wethouders verstrekt een advies- en meldpunt huiselijk geweld en kindermishandeling op zijn verzoek terstond de algemene gegevens, bedoeld in artikel 34, eerste lid, onderdeel a, onder 1 tot en met 6 van de Wet gemeentelijke basisadministratie persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de taken, bedoeld in artikel 12a, derde lid.   
-2.  In afwijking van artikel 103, eerste en tweede lid, van de Wet gemeentelijke basisadministratie persoonsgegevens doet het college van burgemeester en wethouders geen mededeling aan de betrokkene of degene die namens deze daarom verzoekt, over de verstrekking van hem betreffende gegevens uit de gemeentelijke basisadministratie aan het meldpunt, voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling of een redelijk vermoeden daarvan te onderzoeken. Voor de toepassing van artikel 110 van de Wet gemeentelijke basisadministratie persoonsgegevens heeft het achterwege blijven van een mededeling als hier bedoeld dezelfde gevolgen als het achterwege blijven van een mededeling ingevolge artikel 103, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens.  
-
-### Artikel  12e  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Indien aan een advies- en meldpunt huiselijk geweld en kindermishandeling bij de uitoefening van de taken, bedoeld in artikel 12a, derde lid, persoonsgegevens worden verstrekt door een ander dan de betrokkene, brengt hij, in afwijking van artikel 34, eerste lid, van de Wet bescherming persoonsgegevens, de betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
-2.  De in het eerste lid genoemde termijn kan door het advies- en meldpunt huiselijk geweld en kindermishandeling telkens met ten hoogste twee weken worden verlengd, voor zover dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid, en dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-3.  In afwijking van artikel 35 van de Wet bescherming persoonsgegevens kan een advies- en meldpunt huiselijk geweld en kindermishandeling de mededeling, bedoeld in dat artikel, aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of kindermishandeling of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.  
-
-### Artikel  12f  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Het advies- en meldpunt huiselijk geweld en kindermishandeling verstrekt aan een betrokkene desgevraagd zo spoedig mogelijk inzage in en afschrift van het dossier waarover deze met betrekking tot die betrokkene beschikt.   
-2.  Inzage in of afschrift van het dossier wordt aan de betrokkene geweigerd, indien deze: 
-
-a. jonger dan twaalf jaar is, of  
-
-b. de leeftijd van twaalf jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.      
-3.  Indien de betrokkene jonger is dan zestien jaar, of de leeftijd van zestien jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden desgevraagd aan de wettelijke vertegenwoordiger inlichtingen dan wel inzage in of afschrift van het dossier verstrekt, tenzij het belang van de betrokkene zich daartegen verzet.   
-4.  Inlichtingen over, inzage in of afschrift van het dossier kan worden geweigerd, voor zover de persoonlijke levenssfeer van een ander dan de betrokkene daardoor zou worden geschaad dan wel dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 12a, derde lid, of om een situatie van huiselijk geweld of kindermishandeling te beëindigen dan wel een redelijk vermoeden daarvan te onderzoeken.   
-5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens artikel 39 van de Wet bescherming persoonsgegevens gestelde regels.   
-
-### Artikel  12g  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Onverminderd het bij of krachtens de wet bepaalde, verstrekt een advies- en meldpunt huiselijk geweld en kindermishandeling aan anderen dan de betrokkene geen inlichtingen over de betrokkene, dan wel inzage in of afschrift van het dossier dan met toestemming van de betrokkene.   
-2.  Indien de betrokkene minderjarig is, is in plaats van diens toestemming de toestemming van zijn wettelijke vertegenwoordiger vereist, indien hij: 
-
-a. jonger is dan twaalf jaar, of  
-
-b. de leeftijd van twaalf jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.      
-3.  Onder anderen dan de betrokkene zijn niet begrepen degenen van wie beroepshalve de medewerking vereist is bij de uitvoering van de taken, bedoeld in artikel 12a, derde lid, door het advies- en meldpunt huiselijk geweld en kindermishandeling.   
-4.  Bij regeling van Onze Minister, voor zover nodig in overeenstemming met Onze Minister van Veiligheid en Justitie, kunnen regels worden gesteld omtrent de wijze waarop het advies- en meldpunt huiselijk geweld en kindermishandeling gegevens verwerkt en over de uitwisseling van gegevens tussen advies- en meldpunten huiselijk geweld en kindermishandeling onderling en met de raad voor de kinderbescherming, jeugdhulpaanbieders en gecertificeerde instellingen als bedoeld in artikel 1 van de Jeugdwet.  
-
-### Artikel  12h  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Artikel 7.3.12 van de Jeugdwet is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling, met dien verstande dat in het eerste lid voor «artikel 7.3.11, eerste lid,» wordt gelezen «artikel 12g, eerste lid,». 
-
-### Artikel  12i  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Onverminderd artikel 12j bewaart het advies- en meldpunt huiselijk geweld en kindermishandeling het dossier die deze met betrekking tot een betrokkene onder zich heeft gedurende vijftien jaar, te rekenen van het tijdstip van ontvangst of waarop zij door het advies- en meldpunt huiselijk geweld en kindermishandeling is vervaardigd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van de taken, bedoeld in artikel 12a, derde lid, noodzakelijk is.   
-2.  Het advies- en meldpunt huiselijk geweld en kindermishandeling bewaart het dossier tot het jongste kind van het gezin waartoe de betrokkene behoort en met welk gezin het advies- en meldpunt bemoeienis heeft gehad, meerderjarig is geworden, een en ander voor zover aannemelijk gemaakt kan worden dat het bewaren een bijdrage kan leveren aan het beëindigen van een mogelijke situatie van kindermishandeling, of van belang kan zijn voor een situatie waarin een maatregel met betrekking tot het gezag over een minderjarige overwogen dient te worden.  
-
-### Artikel  12j  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Het advies- en meldpunt huiselijk geweld en kindermishandeling vernietigt het door hem bewaarde dossier binnen drie maanden na een daartoe strekkend schriftelijk verzoek van degene op wie het dossier betrekking heeft.   
-2.  Het eerste lid geldt niet voor zover het verzoek bescheiden betreft waarvan redelijkerwijs aannemelijk is dat de bewaring van aanmerkelijk belang is voor een ander dan de verzoeker alsmede voor zover het bepaalde bij of krachtens de wet zich tegen vernietiging verzet.   
-3.  Het verzoek wordt niet ingewilligd indien het gedaan is door iemand die: 
-
-a. jonger is dan twaalf jaar, of  
-
-b. minderjarig is en de leeftijd van twaalf jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.      
-4.  In de gevallen, bedoeld in het derde lid, kan het verzoek door een wettelijke vertegenwoordiger worden gedaan.  
+Vervalt per 01-01-2015 
 
 ###§ 2b  
 
 ####Kwaliteit en rechtspositie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  12k  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Hetgeen in de artikelen 4.1.1, 4.1.4, 4.1.5, 4.1.6, 4.1.8 tot en met 4.2.3, 4.3.1 en 4.3.2 van de Jeugdwet is bepaald ten aanzien van de jeugdhulpaanbieder, bedoeld in artikel 1.1 van die wet, en de verlening van hulp is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling en de uitvoering van de taken als bedoeld in artikel 12a, tweede en derde lid. 
-
-### Artikel  12l  
-Treedt in werking op een nader te bepalen tijdstip 
-
-De artikelen 7.2.1 tot en met 7.2.6 van de Jeugdwet zijn van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling, met dien verstande dat voor «jeugdige» respectievelijk «jeugdhulpaanbieder» of «gecertificeerde instelling» steeds wordt gelezen «betrokkene» respectievelijk «advies- en meldpunt huiselijk geweld en kindermishandeling». 
-
-### Artikel  12m  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Het advies- en meldpunt huiselijk geweld en kindermishandeling verstrekt kosteloos gegevens aan het college van burgemeester en wethouders, Onze Minister en aan Onze Minister van Veiligheid en Justitie, ten behoeve van de verwerking, bedoeld in artikel 7.4.1, eerste en tweede lid, van de Jeugdwet. Deze verstrekking kan zowel een structureel als incidenteel karakter hebben.   
-2.  Op de in het eerste lid bedoelde gegevens is artikel 7.4.4 van de Jeugdwet van overeenkomstige toepassing.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inhoud van de in het eerste lid bedoelde gegevens, de wijze waarop de verstrekking plaatsvindt en de tijdvakken waarop de gegevens betrekking hebben. In die maatregel worden tevens geregeld de termijnen waarbinnen of de tijdstippen waarop de gegevens verstrekt dienen te worden.   
-4.  Bij of krachtens de in het derde lid bedoelde maatregel kan worden bepaald dat het advies- en meldpunt de in het eerste lid bedoelde gegevens op een bij of krachtens die maatregel aangewezen wijze bij Onze Minister en Onze Minister van Veiligheid en Justitie of een door hen aan te wijzen instantie indient.  
-
-### Artikel  12n  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Hetgeen in de artikelen 8.3.1 en 8.3.2 van de Jeugdwet is bepaald ten aanzien van de jeugdhulpaanbieder, bedoeld in artikel 1 van die wet, is van overeenkomstige toepassing op het advies- en meldpunt huiselijk geweld en kindermishandeling. 
+Vervalt per 01-01-2015 
 
 ###§ 2c  
 
 ####Toezicht en handhaving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  12o  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde omtrent het advies- en meldpunt huiselijk geweld en kindermishandeling zijn belast de door Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen ambtenaren.   
-2.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht, bevoegd tot inzage van de dossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.  
-
-### Artikel  12p  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Indien Onze Minister of Onze Minister van Veiligheid en Justitie van oordeel is dat een advies- en meldpunt huiselijk geweld en kindermishandeling deze wet of de daarop berustende bepalingen niet of in onvoldoende mate of op onjuiste wijze naleeft, kan hij het advies- en meldpunt een schriftelijke aanwijzing geven.   
-2.  In de aanwijzing geeft Onze Minister die het aangaat met redenen omkleed aan welke maatregelen het advies- en meldpunt moet nemen met het oog op de naleving van het bepaalde bij of krachtens deze wet.    
-3.  De aanwijzing bevat de termijn waarbinnen het advies- en meldpunt eraan moeten voldoen.   
-4.  Indien het nemen van maatregelen in verband met gevaar voor de veiligheid of de gezondheid redelijkerwijs geen uitstel kan lijden, kan de ingevolge artikel 12o, eerste lid, met het toezicht belaste ambtenaar een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door Onze Minister of Onze Minister van Veiligheid en Justitie kan worden verlengd.   
-5.  Het advies- en meldpunt is verplicht binnen de daarbij gestelde termijn aan de aanwijzing onderscheidenlijk onmiddellijk aan het bevel te voldoen.   
-6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een met het toezicht belaste ambtenaar.   
-7.  Indien een organisatie van beoefenaren van een beroep in het jeugddomein een systeem van tuchtrecht heeft georganiseerd, zijn de ingevolge artikel 12o met het toezicht belaste ambtenaren bevoegd in het kader van dat systeem een tuchtklacht in te dienen. Bij algemene maatregel van bestuur worden daarover nadere regels gesteld.  
-
-### Artikel  12q  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Hetgeen in de artikelen 9.4 en 9.5 van de Jeugdwet is bepaald ten aanzien van de bevoegdheden van Onze Minister en Onze Minister van Veiligheid en Justitie jegens de jeugdhulpaanbieder, bedoeld in artikel 1 van die wet, is van overeenkomstige toepassing jegens het advies- en meldpunt huiselijk geweld en kindermishandeling. 
+Vervalt per 01-01-2015 
 
 ### §  3  
 

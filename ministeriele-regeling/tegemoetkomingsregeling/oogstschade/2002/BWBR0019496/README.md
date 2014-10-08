@@ -9,13 +9,16 @@ Gelet op de Communautaire richtsnoeren voor staatssteun in de landbouwsector (Pb
 
 Gelet op de goedkeuring van de Commissie van de Europese Gemeenschappen bij beschikking nr. SG(2005) D/206688 van 7 december 2005;
 
-Gelet op de [artikelen 2](../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [4 van de Kaderwet LNV-subsidies](../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md);
+Gelet op de artikelen 2 en 4 van de Kaderwet LNV-subsidies;
 Besluit:     
 ### §  1  
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 29-09-2014 
+
 ### Artikel  1  
+Materieel uitgewerkt per 29-09-2014 
 
 In deze regeling wordt verstaan onder: 
 
@@ -31,13 +34,14 @@ e. rechtspersoon: rechtspersoon, niet zijnde een publiekrechtelijke rechtspersoo
 
 f. landbouwbedrijf: het geheel of gedeelte van bij de aanvrager in gebruik zijnde productie-eenheden, bestaande uit een of meer gebouwen of gedeelten daarvan en daarbij behorende cultuurgrond, uitsluitend of onder meer dienende tot de uitoefening van akker- of tuinbouw;  
 
-g. boekhouding gewassen: het Overzicht gewaspercelen 2002 bij het aanvragen van premies voor de Regeling dierlijke EG-premies of de [Regeling EG-steunverlening akkerbouwgewassen](../../../../../ministeriele-regeling/regeling/eg-steunverlening/akkerbouwgewassen/BWBR0008301/README.md).  
+g. boekhouding gewassen: het Overzicht gewaspercelen 2002 bij het aanvragen van premies voor de Regeling dierlijke EG-premies of de Regeling EG-steunverlening akkerbouwgewassen.  
 
 h. schade-expert: een deskundige die de Gedragscode van expertiseorganisaties van het Verbond voor verzekeraars of een daarmee gelijk te stellen gedragscode in acht neemt;  
 
 i. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 29-09-2014 
 
 Deze regeling is van toepassing op natuurlijke personen of rechtspersonen die: 
 
@@ -46,6 +50,7 @@ a. in het jaar 2002 in Nederland een landbouwbedrijf voor eigen rekening en risi
 b. in de schadetermijn schade hebben geleden.   
 
 ### Artikel  3  
+Materieel uitgewerkt per 29-09-2014 
 
 Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroorzaakte schade aan gewassen verstrekken. 
 
@@ -53,14 +58,18 @@ Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroo
 
 ####Omvang tegemoetkoming in de schade aan gewassen
 
+Materieel uitgewerkt per 29-09-2014 
+
 ### Artikel  4  
+Materieel uitgewerkt per 29-09-2014 
 
 1.  De ingevolge artikel 2, onderdeel b, in aanmerking te nemen schade wordt vastgesteld volgens de formule: A × B – C = D waarbij: A = de totale oppervlakte die in het jaar 2002 op het bedrijf was beteeld met het betreffende gewas; B = het in bijlage 1 voor het betreffende gewas vastgestelde normbedrag voor de opbrengst. Indien daarbij een jaaraanwas is gegeven, wordt het normbedrag vermenigvuldigd met het aantal jaren dat de teelt van het betreffende gewas was gevorderd op het moment van de schade; C = de gerealiseerde opbrengst op basis van de marktwaarde; D = het voor het betreffende gewas berekende schadebedrag.   
 2.  Om voor tegemoetkoming van de schade in aanmerking te komen voldoet de schade aan de volgende voorwaarde: D / (A × B) ≥ 0,3.   
 3.  De tegemoetkoming bedraagt 75% van de in aanmerking te nemen schade per gewas.   
-4.  Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) wordt het in aanmerking te nemen schadebedrag, berekend op grond van artikel 4, met 6/106e deel verminderd.  
+4.  Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in artikel 27 van de Wet op de omzetbelasting wordt het in aanmerking te nemen schadebedrag, berekend op grond van artikel 4, met 6/106e deel verminderd.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 29-09-2014 
 
 1.  Het subsidieplafond voor deze regeling bedraagt € 3.800.000,–.   
 2.  Indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per gewas, bedoeld in artikel 4, derde lid, het subsidieplafond, bedoeld in het eerste lid, overstijgt, wordt het totaal voor de tegemoetkomingen beschikbare bedrag evenredig over de voor tegemoetkoming in aanmerking te nemen schades verdeeld.  
@@ -69,7 +78,10 @@ Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroo
 
 ####Voorwaarden tegemoetkoming
 
+Materieel uitgewerkt per 29-09-2014 
+
 ### Artikel  6  
+Materieel uitgewerkt per 29-09-2014 
 
 De tegemoetkoming in de schade, bedoeld in artikel 3, wordt verstrekt indien wordt voldaan aan de volgende voorwaarden: 
 
@@ -85,13 +97,17 @@ d. voor de schade aan gewassen als gevolg van de zware regenval in de schadeperi
 
 ####Aanvraag
 
+Materieel uitgewerkt per 29-09-2014 
+
 ### Artikel  7  
+Materieel uitgewerkt per 29-09-2014 
 
 1.  Een aanvraag voor een tegemoetkoming in de schade geschiedt door middel van het formulier dat daartoe op het internet [www.lnvloket.nl] wordt geplaatst. Een aanvraagformulier is tevens telefonisch opvraagbaar bij de Dienst Regelingen op telefoonnummer: 0800-2233322.   
 2.  Het aanvraagformulier wordt volledig en naar waarheid ingevuld, ondertekend, gedagtekend, en van alle bijlagen voorzien geretourneerd aan Dienst Regelingen, Unit west, Team Uitvoering, Postbus 21, 1110 AA Diemen.   
 3.  De aanvraagperiode loopt van 27 februari 2006 tot en met 20 april 2006. Indien het aanvraagformulier na deze datum wordt ontvangen, wordt de aanvraag niet in behandeling genomen.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 29-09-2014 
 
 1.  De aanvraag voor een tegemoetkoming in de schade aan gewassen gaat vergezeld van de volgende documenten: 
 
@@ -113,7 +129,7 @@ vii) een omschrijving van de wijze waarop de schade zich heeft gemanifesteerd, e
 
 viii) een handtekening van de aanvrager en de taxateur;    
 
-b. een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) inhoudende dat het protocol uit bijlage 2 bij deze regeling in acht is genomen;     
+b. een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek inhoudende dat het protocol uit bijlage 2 bij deze regeling in acht is genomen;     
 2.  Indien de aanvrager niet over een taxatierapport als bedoeld in het eerste lid, onderdeel a, beschikt, worden in plaats van een taxatierapport de volgende gegevens ter onderbouwing van de in de schadetermijn opgetreden schade aan de gewassen overgelegd: 
 
 a. de boekhouding gewassen;  
@@ -142,20 +158,24 @@ a. objectieve schriftelijke gegevens ter onderbouwing van de opbrengst, bedoeld 
 b. objectieve schriftelijke gegevens ter onderbouwing van de schadebeschrijving, bedoeld in het eerste lid, onderdeel a, onder vi en vii, en het tweede lid, onderdeel b, onder vi en vii.    
 
 ### Artikel  9  
+Materieel uitgewerkt per 29-09-2014 
 
 1.  De minister beslist binnen tweeëntwintig weken na sluiting van de aanvraagperiode, bedoeld in artikel 7, derde lid.   
 2.  Indien de minister niet binnen tweeëntwintig weken een besluit op de aanvraag kan nemen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een termijn waarbinnen het besluit op de aanvraag wordt genomen.  
 
 ### Artikel  10  
+Materieel uitgewerkt per 29-09-2014 
 
-1.  De [afdelingen 4.2.5 tot en met en 4.2.7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing op de verstrekking van een tegemoetkoming op basis van deze regeling.   
+1.  De afdelingen 4.2.5 tot en met en 4.2.7 van de Algemene wet bestuursrecht zijn van toepassing op de verstrekking van een tegemoetkoming op basis van deze regeling.   
 2.  Bij de terugvordering worden onverschuldigd betaalde bedragen ter zake van tegemoetkoming vermeerderd met de wettelijke rente over de periode vanaf de eerste betaling tot aan het moment van algehele voldoening.  
 
 ### Artikel  11  
+Materieel uitgewerkt per 29-09-2014 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  12  
+Materieel uitgewerkt per 29-09-2014 
 
 Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -167,6 +187,8 @@ C.P. Veerman
 ### Bijlage 1 
 
 ####Tabel van normbedragen
+
+Materieel uitgewerkt per 29-09-2014 
 
 Overzicht normen Tegemoetkomingsregeling oogstschade 2002 
 
@@ -286,6 +308,8 @@ Overzicht normen Tegemoetkomingsregeling oogstschade 2002
 
 ####Protocol als bedoeld in artikel 8, eerste lid, onderdeel b 
 
+Materieel uitgewerkt per 29-09-2014 
+
 Het onderzoek van de aanvraag, de opgave van het gerealiseerde teeltplan 2002 voor de Landbouwtelling 2002 en de teeltplanschade heeft ten doel vast te stellen of deze juist is. De door de accountant uit te voeren werkzaamheden zijn: Vaststellen dat de op de aanvraag aangegeven gewassen daadwerkelijk in de schadeperiode zijn geteeld en wel voor de oppervlakte zoals vermeld in de opgave van de aanvrager. Hierbij dient, voorzover beschikbaar, voor het onderzoek ondermeer gebruikt gemaakt te worden van: 
 
 – het voor het bedrijf beschikbare areaal, op basis van kadastrale gegevens en (erf)pachtovereenkomsten;  
@@ -296,7 +320,7 @@ Het onderzoek van de aanvraag, de opgave van het gerealiseerde teeltplan 2002 vo
 
 – de opgave voor de Landbouwtelling 2002;  
 
-– het overzicht gewaspercelen 2002 overgelegd bij het aanvragen van premies voor de [Regeling dierlijke EG-premies](../../../../../ministeriele-regeling/regeling/dierlijke/eg-premies/BWBR0008007/README.md) of de [Regeling EG-steunverlening akkerbouwgewassen](../../../../../ministeriele-regeling/regeling/eg-steunverlening/akkerbouwgewassen/BWBR0008301/README.md);  
+– het overzicht gewaspercelen 2002 overgelegd bij het aanvragen van premies voor de Regeling dierlijke EG-premies of de Regeling EG-steunverlening akkerbouwgewassen;  
 
 – controlerapporten van stichting SKAL (Certificatie Biologische Productie) te Zwolle;  
 

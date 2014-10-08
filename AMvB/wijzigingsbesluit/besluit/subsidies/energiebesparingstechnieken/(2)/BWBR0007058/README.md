@@ -14,14 +14,17 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 30 november
 Hebben goedgevonden en verstaan:  
 
 ### Artikel  I  
+Materieel uitgewerkt per 29-09-2014 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 29-09-2014 
 
 Met betrekking tot subsidies voor voorzieningen, aangewezen in categorie 2, die voor de inwerkingtreding van dit besluit zijn aangevraagd, is het Besluit subsidies energiebesparingstechnieken van toepassing zoals het luidde voor de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 29-09-2014 
 
 Dit besluit treedt in werking met ingang van 1 januari 1995. 
 

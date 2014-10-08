@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 maart 2013, nr. VO/488391, tot wijziging van de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen in verband met de vaststelling van het regionaal zorgbudget en de subsidie voor RVC’s voor 2013, en tot vaststelling van de aanvullende bekostiging van reboundvoorzieningen voor 2013
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken,  
-Gelet op [artikel 5, eerste lid](../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md), en [artikel 6 van het Besluit RVC’s en regionaal zorgbudget](../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md) en [artikel 5 van de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen](../../../../../../../../../ministeriele-regeling/regeling/regionaal/zorgbudget/subsidie/regionale/verwijzingscommissies/etc/BWBR0019676/README.md);
+Gelet op artikel 5, eerste lid, en artikel 6 van het Besluit RVC’s en regionaal zorgbudget en artikel 5 van de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen;
 Besluit:    
 
 ### Artikel  I  
