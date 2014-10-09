@@ -18,7 +18,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 –  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid;  
 
-–  *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie.   
+–  *bindende aanwijzing:* een zelfstandige last die wegens een overtreding wordt opgelegd;  
+
+– *marktorganisatie:*
+
+1°. een rechtspersoon, natuurlijke persoon of andere entiteit handelend in de uitoefening van een beroep of bedrijf, met inbegrip van een onderneming als bedoeld in artikel 101 van het Verdrag betreffende de werking van de Europese Unie;  
+
+2°. een organisatie waarin meerdere rechtspersonen, natuurlijke personen of andere entiteiten handelend in de uitoefening van een beroep of bedrijf verenigd zijn, met inbegrip van een ondernemersvereniging als bedoeld in artikel 101 van het Verdrag betreffende de werking van de Europese Unie;    
+
+–  *Onze Minister:* Onze Minister van Economische Zaken;  
+
+–  *zelfstandige last:* de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften.  
 
 ### Hoofdstuk  2  
 
@@ -27,14 +37,18 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  2  
 
 1.  Er is een Autoriteit Consument en Markt.   
-2.  De Autoriteit Consument en Markt is belast met de taken die haar bij of krachtens de wet zijn opgedragen.  
+2.  De Autoriteit Consument en Markt is belast met de taken die haar bij of krachtens de wet zijn opgedragen.   
+3.  De Autoriteit Consument en Markt heeft tevens tot taak om, binnen het kader van de in het tweede lid bedoelde taken, voorlichting te geven over de rechten en plichten van consumenten. Zij maakt daarbij gebruik van een informatieloket.   
+4.  Tot de taken van de Autoriteit Consument en Markt behoort het uit eigen beweging doen van marktonderzoeken en maken van rapportages, indien dat naar haar oordeel nuttig is voor de uitvoering van de taken, bedoeld in het tweede lid.   
+5.  De werkzaamheden van de Autoriteit Consument en Markt hebben tot doel het bevorderen van goed functionerende markten, van ordelijke en transparante marktprocessen en van een zorgvuldige behandeling van consumenten. Zij bewaakt, bevordert en beschermt daartoe een effectieve concurrentie en een gelijk speelveld op markten en neemt belemmeringen daarvoor weg.   
+6.  De toepassing van de Kaderwet zelfstandige bestuursorganen heeft mede betrekking op de taken die de Autoriteit Consument en Markt uitvoert in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  3  
 
-1.  De Autoriteit Consument en Markt bestaat uit ten minste drie en ten hoogste vijf leden, onder wie de voorzitter.   
+1.  De Autoriteit Consument en Markt bestaat uit drie leden, onder wie de voorzitter.   
 2.  Benoeming vindt plaats op grond van de deskundigheid die nodig is voor de uitoefening van de taken van de Autoriteit Consument en Markt alsmede op grond van maatschappelijke kennis en ervaring.   
 3.  De voorzitter wordt benoemd voor een periode van zeven jaar en de overige leden worden benoemd voor een periode van vijf jaar. De voorzitter en de overige leden kunnen eenmaal worden herbenoemd voor eenzelfde periode.   
-4.  In het geval van een vacature vormen de overblijvende leden voor een periode van ten hoogste negen maanden nadat de vacature is ontstaan de Autoriteit Consument en Markt, met de bevoegdheden van de voltallige Autoriteit Consument en Markt.   
+4.  In het geval van een vacature vormen de overblijvende leden, in afwijking van het eerste lid, voor een periode van ten hoogste negen maanden nadat de vacature is ontstaan de Autoriteit Consument en Markt, met de bevoegdheden van de voltallige Autoriteit Consument en Markt.   
 5.  Onverminderd artikel 13, eerste lid, van de Kaderwet zelfstandige bestuursorganen heeft een lid geen financiële of andere belangen waardoor zijn onpartijdigheid in het geding kan zijn.   
 6.  Onverminderd artikel 12 van de Kaderwet zelfstandige bestuursorganen maakt Onze Minister een besluit tot ontslag bekend door kennisgeving van de zakelijke inhoud van dat besluit in de Staatscourant. De redenen van het ontslag worden in die kennisgeving openbaar gemaakt indien de betrokkene daarom verzoekt.  
 
@@ -58,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 3.  Onze Minister zendt zo spoedig mogelijk zijn bevindingen omtrent het jaarverslag, alsmede de bevindingen van Onze Minister van Infrastructuur en Milieu, aan de beide Kamers der Staten-Generaal.  
 
 ### Artikel  6a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De kosten van de Autoriteit Consument en Markt die samenhangen met de uitvoering van de taken, bedoeld in artikel 2, tweede lid, worden ten laste gebracht van marktorganisaties, tenzij bij wettelijk voorschrift anders is bepaald.   
 2.  De kosten van de Autoriteit Consument en Markt die samenhangen met het uit eigen beweging doen van marktonderzoeken en maken van rapportages, bedoeld in artikel 2, vierde lid, met de behandeling van bezwaar- en beroepschriften, met het sanctioneren van overtredingen waaronder het nemen en bekendmaken van besluiten omtrent het opleggen van bestuurlijke sancties en bindende aanwijzingen, met werkzaamheden die uitsluitend ten behoeve van andere overheidsorganisaties worden verricht, en met het geven van deskundige raad aan Onze Minister of Onze Minister van Infrastructuur en Milieu worden niet ten laste gebracht van marktorganisaties.   
@@ -84,7 +98,6 @@ d. de kosten samenhangend met het geven van een beschikking of met de behandelin
 10.  Voor zover een door de Autoriteit Consument en Markt in rekening gebracht bedrag verplicht tot betaling van een geldsom, komt deze geldsom toe aan de Staat der Nederlanden.  
 
 ### Artikel  6b  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een ieder verstrekt de Autoriteit Consument en Markt desgevraagd de gegevens en inlichtingen en verschaft haar desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van de in artikel 2, tweede lid, bedoelde taken.   
 2.  De Autoriteit Consument en Markt kan een termijn stellen waarbinnen de in het eerste lid bedoelde gegevens, inlichtingen of bescheiden worden verstrekt.   
@@ -93,7 +106,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  7  
 
-1.  Gegevens of inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in artikel 2, tweede lid, zijn verkregen mogen uitsluitend worden gebruikt voor de uitvoering van die taak of enige andere taak als bedoeld in artikel 2, tweede lid.   
+1.  Gegevens of inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in artikel 2, tweede lid, zijn verkregen mogen uitsluitend worden gebruikt voor zover dat noodzakelijk is voor de uitvoering van die taak of van enige andere taak als bedoeld in artikel 2, tweede lid.  
 2.  Het eerste lid is niet van toepassing voor zover een wettelijk voorschrift het gebruik van verkregen gegevens of inlichtingen regelt.   
 3.  In afwijking van het eerste lid is de Autoriteit Consument en Markt bevoegd gegevens of inlichtingen te verstrekken aan: 
 
@@ -120,7 +133,9 @@ Onze Minister kan nadere regels vaststellen over de in artikel 20 van de Kaderwe
 ### Artikel  10  
 
 1.  In afwijking van artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen kan Onze Minister of Onze Minister van Infrastructuur en Milieu een besluit van de Autoriteit Consument en Markt uitsluitend vernietigen indien het een besluit van algemene strekking betreft en de vernietiging geschiedt wegens onbevoegdheid van de Autoriteit Consument en Markt.   
-2.  Artikel 10:35 van de Algemene wet bestuursrecht is niet van toepassing.  
+2.  Artikel 10:35 van de Algemene wet bestuursrecht is niet van toepassing.   
+3.  Onze Minister of Onze Minister van Infrastructuur en Milieu kan geen besluiten vernietigen op het gebied van energie, post, telecommunicatie en vervoer die de Autoriteit Consument en Markt neemt op grond van het bepaalde bij of krachtens een voor een specifieke marktsector geldende wet. Artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen is op die besluiten niet van toepassing.   
+4.  Onze Minister of Onze Minister van Infrastructuur en Milieu zendt een afschrift van een besluit tot vernietiging aan de Tweede en de Eerste Kamer der Staten-Generaal. 
 
 ### Artikel  11  
 
@@ -131,6 +146,205 @@ Indien de Autoriteit Consument en Markt bij werkzaamheden ten behoeve van de uit
 Onze Minister stelt het verslag, bedoeld in artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen, op na overleg met Onze Minister van Infrastructuur en Milieu. 
 
 ### Hoofdstuk  3  
+
+####Handhaving en openbaarmaking
+
+### §  1  
+
+####Toezicht
+
+### Artikel  12a  
+
+1.  Met het toezicht op de naleving van wettelijke voorschriften dat is opgedragen aan de Autoriteit Consument en Markt zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren die deel uitmaken van het personeel, bedoeld in artikel 5, eerste lid.   
+2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
+
+### Artikel  12b  
+
+1.  De in artikel 12a, eerste lid, bedoelde ambtenaren zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen, voor zover dat voor de uitoefening van de in artikel 5:17 van de Algemene wet bestuursrecht bedoelde bevoegdheden redelijkerwijs noodzakelijk is.   
+2.  De ambtenaren, bedoeld in het eerste lid, oefenen de hun in artikel 5:17 van de Algemene wet bestuursrecht toegekende bevoegdheden zo nodig uit met behulp van de sterke arm.  
+
+### Artikel  12c  
+
+1.  De in artikel 12a, eerste lid, bedoelde ambtenaren zijn bevoegd een woning zonder toestemming van de bewoner te betreden, voor zover dat voor de uitoefening van de in artikel 5:17 van de Algemene wet bestuursrecht bedoelde bevoegdheden redelijkerwijs noodzakelijk is.   
+2.  Het eerste lid is niet van toepassing bij het toezicht van de Autoriteit Consument en Markt op de naleving van het bepaalde bij of krachtens de Wet op het financieel toezicht.  
+
+### Artikel  12d  
+
+1.  Voor het betreden, bedoeld in artikel 12c, eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.   
+2.   Artikel 171 van het Wetboek van Strafvordering is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.   
+3.  Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam.   
+4.  De artikelen 2 en 3 van de Algemene wet op het binnentreden zijn niet van toepassing.  
+
+### Artikel  12e  
+
+1.  Een machtiging als bedoeld in artikel 12d, eerste lid, is met redenen omkleed en ondertekend en vermeldt: 
+
+a. de naam van de rechter-commissaris die de machtiging heeft gegeven;  
+
+b. de naam of het nummer en de hoedanigheid van degene aan wie de machtiging is gegeven;  
+
+c. de wettelijke bepaling waarop het binnentreden berust en het doel waartoe wordt binnengetreden;  
+
+d. de dagtekening.     
+2.  Indien het betreden dermate spoedeisend is dat de machtiging niet tevoren op schrift kan worden gesteld, zorgt de rechter-commissaris zo spoedig mogelijk voor de opschriftstelling.   
+3.  De machtiging blijft ten hoogste van kracht tot en met de derde dag na die waarop zij is gegeven.   
+4.   Artikel 6 van de Algemene wet op het binnentreden is niet van toepassing.  
+
+### Artikel  12f  
+
+1.  De ambtenaar die is binnengetreden, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent het binnentreden.   
+2.  In het verslag vermeldt hij: 
+
+a. zijn naam of nummer en zijn hoedanigheid;  
+
+b. de dagtekening van de machtiging en de naam van de rechter-commissaris die de machtiging heeft gegeven;  
+
+c. de wettelijke bepaling waarop het binnentreden berust en het doel waartoe is binnengetreden;  
+
+d. de plaats waar is binnengetreden en de naam van degene bij wie is binnengetreden;  
+
+e. de wijze van binnentreden en het tijdstip waarop in de woning is binnengetreden en waarop deze is verlaten;  
+
+f. hetgeen in de woning is verricht en overigens is voorgevallen;  
+
+g. de namen of nummers en de hoedanigheid van de overige personen die zijn binnengetreden.     
+3.  Het verslag wordt uiterlijk op de vierde dag na die waarop is binnengetreden, toegezonden aan de rechter-commissaris die de machtiging heeft gegeven.   
+4.  Een afschrift van het verslag wordt uiterlijk op de vierde dag na die waarop is binnengetreden, aan degene bij wie is binnengetreden, uitgereikt of toegezonden. Indien het doel waartoe is binnengetreden daartoe noodzaakt, kan deze uitreiking of toezending worden uitgesteld. Uitreiking of toezending geschiedt in dat geval zodra het belang van dit doel het toelaat. Indien het niet mogelijk is het afschrift uit te reiken of toe te zenden, houdt de rechter-commissaris of de ambtenaar die is binnengetreden het afschrift gedurende zes maanden beschikbaar voor degene bij wie is binnengetreden.   
+5.  De artikelen 10 en 11 van de Algemene wet op het binnentreden zijn niet van toepassing.  
+
+### Artikel  12g  
+
+1.  Artikel 5:17 van de Algemene wet bestuursrecht is niet van toepassing op geschriften, gewisseld tussen een marktorganisatie en een advocaat, die zich bij de marktorganisatie bevinden, doch waarop, indien zij zich zouden bevinden bij die advocaat, artikel 5:20, tweede lid, van de Algemene wet bestuursrecht van toepassing zou zijn.   
+2.  Het eerste lid is van overeenkomstige toepassing ten aanzien van degenen, bedoeld in artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht.  
+
+### §  2  
+
+####Toezegging
+
+### Artikel  12h  
+
+1.  Onverminderd artikel 5:45 van de Algemene wet bestuursrecht vervalt de bevoegdheid van de Autoriteit Consument en Markt tot het opleggen van een bestuurlijke boete of een last onder dwangsom aan een marktorganisatie, indien de Autoriteit Consument en Markt op aanvraag van die marktorganisatie besluit tot het bindend verklaren van een door die marktorganisatie gedane toezegging.   
+2.  De Autoriteit Consument en Markt kan een besluit nemen als bedoeld in het eerste lid, indien zij het bindend verklaren van een toezegging doelmatiger acht dan het opleggen van een bestuurlijke boete of een last onder dwangsom.   
+3.  De marktorganisatie dient de aanvraag voor het nemen van een besluit als bedoeld in het eerste lid in, voordat de Autoriteit Consument en Markt een besluit omtrent het opleggen van een bestuurlijke boete of een last onder dwangsom heeft genomen.   
+4.  De termijn, bedoeld in artikel 5:45, eerste lid, van de Algemene wet bestuursrecht wordt opgeschort met ingang van de dag waarop de Autoriteit Consument en Markt de aanvraag ontvangt, tot de dag waarop de Autoriteit Consument en Markt een besluit op de aanvraag heeft genomen. Artikel 5:45, derde lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+5.  De marktorganisatie gedraagt zich overeenkomstig het besluit, bedoeld in het eerste lid.   
+6.  De Autoriteit Consument en Markt bepaalt gedurende welke periode het besluit, bedoeld in het eerste lid, geldt en kan deze periode telkens verlengen.   
+7.  De Autoriteit Consument en Markt kan een besluit als bedoeld in het eerste lid of een besluit tot verlenging als bedoeld in het zesde lid, wijzigen of intrekken indien: 
+
+a. er een wezenlijke verandering is opgetreden in de feiten waarop het besluit berust;  
+
+b. het besluit berust op door de marktorganisatie verstrekte onvolledige, onjuiste of misleidende gegevens;  
+
+c. de marktorganisatie in strijd met het vijfde lid handelt.    
+
+### §  3  
+
+####Sanctionering
+
+### Artikel  12i  
+
+Artikel 5:10a van de Algemene wet bestuursrecht is van overeenkomstige toepassing bij het verhoor van een andere, voor de marktorganisatie werkzame, natuurlijke persoon dan degene, bedoeld in artikel 5:10a. 
+
+### Artikel  12j  
+
+De Autoriteit Consument en Markt kan in geval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan zij is belast, aan de overtreder een bindende aanwijzing opleggen. 
+
+### Artikel  12k  
+
+1.  De Autoriteit Consument en Markt kan de termijn, genoemd in artikel 5:51, eerste lid, van de Algemene wet bestuursrecht, met ten hoogste dertien weken verlengen, indien voor de desbetreffende overtreding bij wettelijk voorschrift is bepaald dat een bestuurlijke boete kan worden opgelegd van ten hoogste 10% van de omzet van de overtreder.   
+2.  Van deze verlenging wordt mededeling gedaan aan de overtreder.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de bevoegdheid tot verlenging, bedoeld in het eerste lid.  
+
+### Artikel  12l  
+
+1.  De Autoriteit Consument en Markt kan met het oog op de bepaling van de hoogte van de op te leggen bestuurlijke boete de boekhouding van de marktorganisatie onderzoeken teneinde de voor de oplegging van de bestuurlijke boete in aanmerking te nemen financiële gegevens te kunnen bepalen. Zij kan zich laten bijstaan door een onafhankelijke financieel deskundige.   
+2.  De marktorganisatie verleent medewerking aan een onderzoek als bedoeld in het eerste lid.   
+3.  De Autoriteit Consument en Markt kan de marktorganisatie die in strijd handelt met het tweede lid een bestuurlijke boete opleggen van ten hoogste € 450.000.  
+
+### Artikel  12m  
+
+1.  De Autoriteit Consument en Markt kan in geval van: 
+
+a. overtreding van artikel 6b, eerste en tweede lid,  
+
+b. overtreding van een zelfstandige last,  
+
+c. overtreding van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, of  
+
+d. verbreking, opheffing of beschadiging van een verzegeling als bedoeld in artikel 12b, eerste lid, of van het op andere wijze verijdelen van de door die verzegeling beoogde afsluiting,   aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 450.000, of indien dat meer is, van ten hoogste 1% van de omzet van de marktorganisatie, indien deze een marktorganisatie is als bedoeld in artikel 1, onder 1°, dan wel, indien de overtreding door een marktorganisatie als bedoeld in artikel 1, onder 2°, is begaan, van de gezamenlijke omzet van de aangesloten marktorganisaties.   
+2.  De Autoriteit Consument en Markt kan in geval van overtreding van artikel 12h, vijfde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste € 450.000, of indien dat meer is, van ten hoogste 10% van de omzet van de marktorganisatie, als bedoeld in artikel 1, onder 1°, dan wel, indien de overtreding door een marktorganisatie als bedoeld in artikel 1, onder 2°, is begaan, van de gezamenlijke omzet van de aangesloten marktorganisaties.   
+3.  Ingeval van een overtreding als bedoeld in het eerste lid, onderdelen a of b, of ingeval de in het eerste lid, onderdeel c, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van artikel 5:17, eerste lid, van de Algemene wet bestuursrecht, kan de Autoriteit Consument en Markt een last onder dwangsom opleggen om de door haar gevraagde inlichtingen of inzage te geven, de zelfstandige last na te leven, onderscheidenlijk inzage te verlenen in de in de last onder dwangsom aangegeven zakelijke gegevens en bescheiden.   
+4.  Artikel 184 van het Wetboek van Strafrecht is niet van toepassing op de in het eerste lid, onderdeel c, bedoelde overtreding en artikel 199 van het Wetboek van Strafrecht is niet van toepassing op de in het eerste lid, onderdeel d, bedoelde overtreding.  
+
+### Artikel  12n  
+
+Indien de Autoriteit Consument en Markt op grond van artikel 5:1, derde lid, van de Algemene wet bestuursrecht toepassing geeft aan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht, bedraagt voor de daar bedoelde overtreder de bestuurlijke boete ten hoogste € 450.000. 
+
+### Artikel  12o  
+
+1.  Indien de Autoriteit Consument en Markt een bestuurlijke boete kan opleggen van ten hoogste een percentage van de omzet van de overtreder, wordt onder omzet van de overtreder verstaan de netto-omzet, bedoeld in artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek die de overtreder heeft behaald in het meest recente boekjaar ten aanzien waarvan de overtreder een jaarrekening beschikbaar heeft of zou moeten hebben.   
+2.  Indien de overtreding is begaan door een marktorganisatie als bedoeld in artikel 1, onder 2°, en de Autoriteit Consument en Markt een bestuurlijke boete kan opleggen van ten hoogste een percentage van de gezamenlijke omzet van de marktorganisaties, bedoeld in artikel 1, onder 1°, die bij de eerstbedoelde marktorganisatie zijn aangesloten, is het eerste lid van overeenkomstige toepassing op de berekening van de omzet van een aangesloten marktorganisatie.   
+3.  Indien de Autoriteit Consument en Markt op grond van de Postwet 2009 of de Telecommunicatiewet een bestuurlijke boete kan opleggen van ten hoogste een percentage van de omzet van de overtreder wordt, in afwijking van het eerste lid, onder omzet van de overtreder verstaan de netto-omzet, bedoeld in artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek die de overtreder in Nederland heeft behaald in het meest recente boekjaar ten aanzien waarvan de overtreder een jaarrekening beschikbaar heeft of zou moeten hebben.  
+
+### Artikel  12p  
+
+1.  De werking van een beschikking van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete wordt opgeschort totdat de termijn voor het indienen van een bezwaarschrift tegen die beschikking, is verstreken.   
+2.  Indien binnen de in het eerste lid bedoelde termijn een bezwaarschrift is ingediend, wordt, in afwijking van het eerste lid, de werking van de beschikking opgeschort met 24 weken gerekend met ingang van de dag na die waarop het besluit op de voorgeschreven wijze aan de overtreder is bekendgemaakt of, indien dat eerder is, tot de dag na die waarop de beslissing op bezwaar op de voorgeschreven wijze aan de overtreder is bekendgemaakt.  
+
+### Artikel  12q  
+
+Onverminderd artikel 10:3, vierde lid, van de Algemene wet bestuursrecht worden de werkzaamheden in verband met het opleggen van een bestuurlijke boete niet verricht door personen die betrokken zijn geweest bij de opstelling van het rapport, bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht en het daaraan voorafgaande onderzoek. 
+
+### Artikel  12r  
+
+1.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
+2.  Een last onder dwangsom geldt voor een door de Autoriteit Consument en Markt te bepalen termijn van ten hoogste twee jaren.   
+3.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden. Artikel 5:45, derde lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
+
+### Artikel  12s  
+
+1.  Ingeval een bestuurlijke boete is opgelegd aan een marktorganisatie als bedoeld in artikel 1, onder 2°, kan de Autoriteit Consument en Markt, bij gebreke van betaling binnen de in artikel 4:112, eerste lid, van de Algemene wet bestuursrecht bedoelde termijn als gevolg van insolventie van die marktorganisatie, bij elk van de marktorganisaties, bedoeld in de begripsomschrijving van artikel 1, onder 1°, die bij de eerstbedoelde marktorganisatie waren vertegenwoordigd in het besluitvormende orgaan op het tijdstip van de beslissing tot het begaan van de overtreding, de bestuurlijke boete invorderen.   
+2.  Indien na invordering overeenkomstig het eerste lid, de bestuurlijke boete niet volledig is betaald, kan de Autoriteit Consument en Markt van elk van de vertegenwoordigde marktorganisaties, bedoeld in het eerste lid, het resterende bedrag invorderen.   
+3.  Bij toepassing van het eerste en tweede lid kan van elke vertegenwoordigde marktorganisatie geen hoger bedrag worden gevorderd dan 10% van de omzet behaald in het meest recente boekjaar ten aanzien waarvan de vertegenwoordigde marktorganisatie een jaarrekening beschikbaar heeft of zou moeten hebben.   
+4.  Een vertegenwoordigde marktorganisatie waarvan op grond van het eerste of tweede lid een bestuurlijke boete wordt gevorderd, is niet verplicht tot betaling indien zij aantoont dat zij de beslissing, bedoeld in het eerste lid, niet heeft uitgevoerd en zij hetzij niet op de hoogte was van die beslissing hetzij actief afstand heeft genomen van die beslissing voordat het onderzoek naar de overtreding was aangevangen.  
+
+### Artikel  12t  
+
+Indien een door de Autoriteit Consument en Markt opgelegde last onder dwangsom of bestuurlijke boete verplicht tot betaling van een geldsom, komt deze geldsom toe aan de Staat der Nederlanden. 
+
+### §  4  
+
+####Openbaarmaking
+
+### Artikel  12u  
+
+1.  De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing, niet zijnde een beschikking als bedoeld in artikel 12v, eerste lid, openbaar met dien verstande dat gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, niet openbaar worden gemaakt.   
+2.  De openbaarmaking van de beschikking geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop de beschikking aan de overtreder bekend is gemaakt, tenzij de overtreder de beschikking zelf heeft openbaar gemaakt, heeft doen openbaar maken of heeft aangegeven geen bedenkingen te hebben tegen eerdere openbaarmaking.   
+3.  Indien wordt verzocht om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de openbaarmaking van de beschikking opgeschort totdat de voorzieningenrechter uitspraak heeft gedaan of het verzoek is ingetrokken.   
+4.  Indien de openbaarmaking van de beschikking naar het oordeel van de Autoriteit Consument en Markt in strijd is of zou kunnen komen met het doel van het aan de Autoriteit Consument en Markt opgedragen toezicht op de naleving, blijft openbaarmaking achterwege.   
+5.  Het eerste tot en met vierde lid zijn mede van toepassing op een door de Autoriteit Consument en Markt genomen beslissing op bezwaar strekkend tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing.  
+
+### Artikel  12v  
+
+1.  De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing openbaar indien voor de desbetreffende overtreding bij wettelijk voorschrift is bepaald dat een bestuurlijke boete kan worden opgelegd van ten hoogste 10% van de omzet van de overtreder en met dien verstande dat: 
+
+a. gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur niet openbaar worden gemaakt;  
+
+b. namen van betrokken natuurlijke personen niet openbaar worden gemaakt, indien het belang van openbaarmaking naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in artikel 10, tweede lid, onderdeel e of g, van de Wet openbaarheid van bestuur;  
+
+c. de naam van de overtredende marktorganisatie altijd openbaar wordt gemaakt, ook indien de naam van een natuurlijke persoon van die naam deel uitmaakt.     
+2.  Artikel 12u, tweede tot en met vierde lid, zijn van toepassing.   
+3.  Het eerste lid is mede van toepassing op een door de Autoriteit Consument en Markt genomen beslissing op bezwaar strekkend tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing. Artikel 12u, tweede tot en met vierde lid, is van toepassing.  
+
+### Artikel  12w  
+
+1.  De Autoriteit Consument en Markt kan door haar genomen andere besluiten dan beschikkingen tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing openbaar maken, alsmede andere documenten die door haar of in haar opdracht zijn vervaardigd voor de uitvoering van de aan haar bij of krachtens de wet opgedragen taken.   
+2.  Gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.   
+3.  Artikel 12u, tweede en derde lid, is van overeenkomstige toepassing indien de Autoriteit Consument en Markt op grond van het eerste lid besluit tot openbaarmaking van een besluit.   
+4.  Artikel 12u, vierde lid, is van overeenkomstige toepassing.   
+5.  Het eerste lid is niet van toepassing, voor zover een wettelijk voorschrift de openbaarmaking regelt.  
+
+### Hoofdstuk  3a  
 
 ####Wijziging van andere wetten
 
@@ -283,32 +497,26 @@ Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (implementatie richtlijnen
 Op overtredingen van het bij of krachtens de Wet handhaving consumentenbescherming bepaalde, waarvoor op grond van de Wet handhaving consumentenbescherming zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 30 van deze wet, een bestuurlijke boete kon worden opgelegd, en die zijn begaan en beëindigd voor het tijdstip van inwerkingtreding van artikel 30 van deze wet, blijft de Wet handhaving consumentenbescherming van toepassing zoals die luidde onmiddellijk voor het genoemde tijdstip. 
 
 ### Artikel  44b  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een besluit als bedoeld in artikel 49a, eerste lid, van de Mededingingswet tot het bindend verklaren van een toezegging en de aanvraag tot het nemen van een dergelijk besluit worden na de inwerkingtreding van artikel 12h van de Instellingswet Autoriteit Consument en Markt aangemerkt als een besluit onderscheidenlijk aanvraag als bedoeld in artikel 12h, eerste lid, van de Instellingswet Autoriteit Consument en Markt. 
 
 ### Artikel  44c  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien het bij koninklijke boodschap van 26 april 2013 ingediende voorstel van wet tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Kamerstukken 33 622) tot wet is verheven en artikel XI, onderdeel AA, van die wet in werking is getreden, blijft artikel 62 van de Mededingingswet, zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van genoemd artikel XI, onderdeel AA, van toepassing of van overeenkomstige toepassing op beschikkingen van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete voor overtredingen ter zake waarvan voor de inwerkingtreding van artikel 12k van de Instellingswet Autoriteit Consument en Markt een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht is opgemaakt. 
 
 ### Artikel  44d  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien een overtreding van een zelfstandige last of van artikel 5:20 van de Algemene wet bestuursrecht is begaan en beëindigd voor de inwerkingtreding van artikel 12m, eerste en derde lid, van de Instellingswet Autoriteit Consument en Markt, is artikel 12m, eerste en derde lid, niet van toepassing indien de Autoriteit Consument en Markt voor die overtredingen onmiddellijk voor het tijdstip van inwerkingtreding van artikel 12m, eerste en derde lid, geen bestuurlijke sanctie kon opleggen. 
 
 ### Artikel  44e  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien voor de inwerkingtreding van artikel 12n van de Instellingswet Autoriteit Consument en Markt een overtreding is begaan en beëindigd, blijft met betrekking tot de hoogte van de boete die ten hoogste kan worden opgelegd aan een in artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht bedoelde overtreder het recht gelden zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van genoemd artikel 12n. 
 
 ### Artikel  44f  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien het bij koninklijke boodschap van 26 april 2013 ingediende voorstel van wet tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Kamerstukken 33 622) tot wet is verheven en de artikelen XI, onderdeel Q, onderscheidenlijk XIV, onderdeel U, van die wet in werking zijn getreden, blijven de artikelen 63 van de Mededingingswet onderscheidenlijk 15.12 van de Telecommunicatiewet, zoals die luidden onmiddellijk voor het tijdstip van inwerkingtreding van de genoemde artikelen XI, onderdeel Q, onderscheidenlijk XIV, onderdeel U, van toepassing of overeenkomstige toepassing op beschikkingen van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete voor overtredingen ter zake waarvan voor de inwerkingtreding van artikel 12p van de Instellingswet Autoriteit Consument en Markt een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht is opgemaakt. 
 
 ### Artikel  44g  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien voor de inwerkingtreding van artikel 12s van de Instellingswet Autoriteit Consument en Markt van een overtreding een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht is opgemaakt ter zake van een overtreding, begaan door een marktorganisatie als bedoeld in artikel 1, onder 2°, van de Instellingswet Autoriteit Consument en Markt, blijft met betrekking tot de invordering vanwege insolventie van die marktorganisatie, het recht gelden zoals dat luidde onmiddellijk voor inwerkingtreding van genoemd artikel 12s. 
 
@@ -348,11 +556,7 @@ Wijzigt de Telecommunicatiewet.
 
 Wijzigt de Wet personenvervoer 2000. 
 
-### Artikel  45i  
-
-Wijzigt de Wet personenvervoer 2000. 
-
-### Hoofstuk  5  
+### Hoofdstuk  5  
 
 ####Slotbepalingen
 

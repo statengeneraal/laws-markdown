@@ -7,18 +7,22 @@ Gelet op de artikelen 4, 5, 17, eerste tot en met derde lid, 18, 44 en 48, eerst
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 02-10-2014 
 
 Wijzigt de Subsidieregeling sterktes in innovatie. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 02-10-2014 
 
 Wijzigt de Subsidieregeling sterktes in innovatie. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 02-10-2014 
 
 Artikel I, onderdelen D, M, N, onder a, O, onder a, T, U, V, W, X, AG en AH zijn niet van toepassing op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 02-10-2014 
 
 Deze regeling treedt in werking met ingang van 1 januari 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

@@ -7,18 +7,22 @@ Gelet op de artikelen 16 en 19 van het Kaderbesluit EZ-subsidies;
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 07-10-2014 
 
 Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 07-10-2014 
 
 Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 07-10-2014 
 
 Artikel 3.12v, vijfde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen, zoals dat luidt na inwerkingtreding van deze regeling, geldt alleen voor aanvragen die zijn ingediend na 31 december 2010. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

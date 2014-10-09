@@ -7,14 +7,17 @@ Gelet op de artikelen 4, onderdeel a, 5, 12, vierde lid, en 30, vijfde lid, van 
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 07-10-2014 
 
 Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 07-10-2014 
 
 Op aanvragen om subsidie krachtens hoofdstuk 7 van de Subsidieregeling starten, groeien en overdragen van ondernemingen die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die krachtens dat hoofdstuk vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft dat hoofdstuk van toepassing zoals het onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling treedt in werking op 1 januari 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

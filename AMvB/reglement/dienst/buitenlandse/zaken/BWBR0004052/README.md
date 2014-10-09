@@ -1174,7 +1174,9 @@ h. om te beoordelen of de ambtenaar die wegens ziekte volledig ongeschikt is gew
 
 i. voor zover dit voortvloeit uit enige wettelijke verplichting;  
 
-j. indien de ambtenaar in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat of is benoemd in een functie waarvoor bij aanstelling een geneeskundig onderzoek is vereist als bedoeld in artikel 23, vierde lid, onderdeel b.     
+j. indien de ambtenaar in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat of is benoemd in een functie waarvoor bij aanstelling een geneeskundig onderzoek is vereist als bedoeld in artikel 23, vierde lid, onderdeel b;  
+
+k. om bij een verzoek als bedoeld in artikel 104, negende lid, te beoordelen of de ambtenaar lichamelijk en psychisch in staat is zijn functie te blijven vervullen.   
 2.  Onze Minister stelt de ambtenaar buiten dienst indien na een arbeidsgezondheidskundig onderzoek als bedoeld in het eerste lid, blijkt dat sprake is van een zodanige lichamelijke of geestelijke toestand dat de belangen van de ambtenaar, van de dienst of van bij het verrichten van de arbeid betrokken derden zich er tegen verzetten dat de ambtenaar zijn arbeid blijft verrichten. De ambtenaar wordt niet buiten dienst gesteld indien hem andere passende werkzaamheden kunnen worden opgedragen. Indien de ambtenaar buiten dienst wordt gesteld, wordt hij geacht wegens ziekte ongeschikt te zijn tot het verrichten van zijn arbeid, in welk geval de overige bepalingen van dit hoofdstuk van toepassing zijn.  
 
 ###Artikel 50b 
@@ -1258,7 +1260,8 @@ a.met ingang van de dag waarop de ambtenaar op grond van artikel 54a, eerste lid
 b.met ingang van de dag waarop de ambtenaar ontslag is verleend; of
 
 c.met ingang van de dag volgende op die waarop de ambtenaar is overleden. 
-7. Gedurende een plaatsing buiten Nederland kan Onze Minister een ambtenaar, indien de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte naar verwachting langer dan drie maanden zal voortduren, opdracht geven tot terugkeer met zijn gezinsleden naar Nederland. 
+7. Gedurende een plaatsing buiten Nederland kan Onze Minister een ambtenaar, indien de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte naar verwachting langer dan drie maanden zal voortduren, opdracht geven tot terugkeer met zijn gezinsleden naar Nederland.  
+8.  Het eerste lid, tweede volzin, is niet van toepassing op de ambtenaar die na het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, wegens ziekte ongeschikt is tot het verrichten van zijn arbeid. 
 
 ### Artikel  54a  
 
@@ -1289,7 +1292,7 @@ b. zijn bezoldiging na herplaatsing vermeerderd met de vakantie-uitkering, de ei
 a. met ingang van de dag waarop de ambtenaar ontslag is verleend; of  
 
 b. met ingang van de dag volgende op die waarop de ambtenaar is overleden.    
-7.  In zoverre in afwijking van het derde lid, bedraagt voor de ambtenaar die na het bereiken van de leeftijd van 65 jaar wegens ziekte ongeschikt is tot het verrichten van zijn arbeid, de aanvullende uitkering na de eerste 52 weken het verschil tussen: 
+7.  In zoverre in afwijking van het derde lid, bedraagt voor de ambtenaar die na het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, wegens ziekte ongeschikt is tot het verrichten van zijn arbeid, de aanvullende uitkering na de eerste 52 weken weken het verschil tussen: 
 
 a. het bedrag waarop de ambtenaar op grond van artikel 76a van de Ziektewet recht zou hebben gehad indien hem geen andere functie zou zijn opgedragen, vermeerderd met de vakantie-uitkering en eindejaarsuitkering; en  
 
@@ -1327,7 +1330,7 @@ a. zij elkaar met een onderbreking van minder dan vier weken opvolgen, of
 b. zij direct voorafgaan aan of aansluiten op een periode waarin zwangerschap- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, of een uitkering op grond van artikel 3:8 of 3:10, eerste lid, van die wet, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.     
 6. De doorbetaling van de laatstelijk genoten bezoldiging, bedoeld in het eerste, tweede en derde lid, eindigt in ieder geval:
 
-a.met ingang van de dag waarop de gewezen ambtenaar de leeftijd van 65 jaar heeft bereikt; of
+a.met ingang van de dag waarop de gewezen ambtenaar de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt; of
 
 b.met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden. 
 7. De gewezen ambtenaar die recht heeft op een WIA-uitkering ter zake van de dienstbetrekking die hij voor zijn ontslag vervulde, heeft recht op een aanvullende uitkering indien de arbeidsongeschiktheid is veroorzaakt door een beroepsincident. 
@@ -1348,7 +1351,7 @@ b. de aan de gewezen ambtenaar toegekende WIA-uitkering, in voorkomend geval ver
 
 10. De aanvullende uitkering, bedoeld in het zevende lid, eindigt:
 
-a.met ingang van de dag waarop de gewezen ambtenaar de leeftijd van 65 jaar heeft bereikt; of
+a.met ingang van de dag waarop de gewezen ambtenaar de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt; of
 
 b.met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden. 
 11. De gewezen ambtenaar aan wie eervol ontslag is verleend op grond van artikel 97, heeft slechts recht op doorbetaling van zijn laatstelijk genoten bezoldiging of aanvullende uitkering voorzover deze tezamen met de aanvullende uitkering, bedoeld in artikel 4 van het FPU-reglement basis- en aanvullende uitkering, de laatstgenoten bezoldiging niet overschrijdt. 
@@ -1571,7 +1574,7 @@ b. reeds eerder in overleg met de ambtenaar kan worden vastgesteld dat er geen m
 3.  Onze Minister kan de termijn verlengen of opschorten, indien de omstandigheden naar zijn oordeel daartoe aanleiding geven.   
 4.  De ambtenaar wordt gelijktijdig met zijn aanwijzing als herplaatsingskandidaat geïnformeerd over de aanvang en het einde van de termijn, bedoeld in het eerste lid.   
 5.  De herplaatsingskandidaat wordt geïnformeerd over het verkorten, verlengen of opschorten van de termijn, bedoeld in het tweede en het derde lid.   
-6.  Op verzoek van de herplaatsingskandidaat wordt de termijn, bedoeld in het eerste lid, met maximaal een jaar verlengd ingeval de herplaatsingskandidaat bij het einde van de termijn, bedoeld in het eerste lid, in combinatie met de duur van de bovenwettelijke uitkering, de pensioengerechtigde leeftijd nog niet heeft bereikt en door deze verlenging recht ontstaat op een bovenwettelijke uitkering op grond van artikel 2, tweede lid, van het Besluit bovenwettelijke uitkeringen werkloosheid voor de sector Rijk. 
+6.  Op verzoek van de herplaatsingskandidaat wordt de termijn, bedoeld in het eerste lid, met maximaal een jaar verlengd ingeval de herplaatsingskandidaat bij het einde van de termijn, bedoeld in het eerste lid, in combinatie met de duur van de bovenwettelijke uitkering bij werkloosheid, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt en door deze verlenging recht ontstaat op een bovenwettelijke uitkering bij werkloosheid, op grond van artikel 2, tweede lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk. 
 
 ### Artikel  58g  
 
@@ -2186,7 +2189,7 @@ e. ongeschiktheid wegens ziekte voor het vervolgen van zijn loopbaan, dan wel, i
 
 f. onbekwaamheid of ongeschiktheid anders dan op grond van ziels- of lichaamsgebreken, voor het vervolgen van zijn loopbaan, dan wel, indien de ambtenaar is aangesteld in tijdelijke dienst anders dan voor een proeftijd, voor de door hem vervulde functie;  
 
-g. het bereiken van de pensioengerechtigde leeftijd;  
+g. het bereiken van de leeftijd van zeventig jaar;  
 
 h. het bij of in verband met indiensttreding of keuring verstrekken van onjuiste of onvolledige inlichtingen, zonder welke handelwijze niet tot indienstneming of goedkeuring zou zijn overgegaan, tenzij de ambtenaar aannemelijk maakt dat hij te goeder trouw heeft gehandeld.     
 2.  Een ontslag op grond van het bepaalde in het eerste lid onder a, e, f en g wordt steeds eervol verleend.   
@@ -2207,13 +2210,16 @@ c. met de duur van het tijdvak dat het UWV op grond van artikel 25, negende lid,
 5. Voor de berekening van het tijdvak van twee jaar, bedoeld in het derde lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid wegens ziekte tengevolge van zwangerschap voorafgaand aan het zwangerschapsverlof en perioden van ongeschiktheid tijdens het zwangerschaps- of bevallingsverlof, bedoeld in artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, niet in aanmerking genomen.
 6. Perioden van ongeschiktheid tot het verrichten van zijn arbeid, anders dan bedoeld in het vijfde lid, worden samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen, of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.  
 7.  Bij de beoordeling of er sprake is van een situatie als bedoeld in het derde lid, betrekt het bevoegd gezag de uitslag van de beoordeling door het UWV van de claim in het kader van de WIA. Indien deze beoordeling niet of langer dan een jaar geleden heeft plaatsgevonden, vraagt het bevoegd gezag aan het UWV een oordeel als bedoeld in artikel 32, derde lid, van de Wet SUWI en betrekt dit bij zijn beoordeling.   
-8.  Indien herplaatsing als bedoeld in artikel 54a, plaatsvindt in een betrekking voor minder uren dan het aantal waarvoor de ambtenaar was aangesteld, heeft het ontslag uitsluitend betrekking op het meerdere aantal uren.  
+8.  Indien herplaatsing als bedoeld in artikel 54a, plaatsvindt in een betrekking voor minder uren dan het aantal waarvoor de ambtenaar was aangesteld, heeft het ontslag uitsluitend betrekking op het meerdere aantal uren.   
+9.  Van ontslag als bedoeld in het eerste lid, onderdeel g, wordt op verzoek van de ambtenaar afgezien voor de duur van telkens ten hoogste één jaar, indien de ambtenaar volgens de uitslag van een arbeidsgezondheidskundig onderzoek als bedoeld in artikel 50a, eerste lid, onderdeel k, in staat is zijn functie te blijven vervullen.   
+10.  Een verzoek als bedoeld in het negende lid wordt door de ambtenaar ten minste drie maanden voor het bereiken van de leeftijd van zeventig jaar of ouder, ingediend.   
+11.  Een arbeidsgezondheidskundig onderzoek als bedoeld in het negende lid wordt niet eerder dan vier maanden voor het bereiken van de leeftijd van zeventig jaar of ouder, bij de ambtenaar uitgevoerd. 
 
 ### Artikel  105  
 
 ####Reorganisatie-ontslag bij niet-passende functie
 
-Indien aan de ambtenaar gedurende de tijd dat hij recht heeft op wachtgeld, daaronder mede begrepen herplaatsingswachtgeld, een uitkering krachtens de Uitkeringsregeling 1966 of een suppletie op grond van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk, een voor hem passend geachte functie is aangeboden en die functie binnen een periode van uiterlijk een jaar, nadat hij haar is gaan vervullen, niet passend voor hem blijkt te zijn, kan hem binnen die periode op zijn aanvraag eervol ontslag uit die functie worden verleend, welk ontslag ten aanzien van zijn aanspraken op een wachtgeld of uitkering als evenbedoeld, wordt geacht niet door eigen toedoen te zijn verleend. 
+Indien aan de ambtenaar gedurende de tijd dat hij recht heeft op wachtgeld een voor hem passend geachte functie is aangeboden en die functie binnen een periode van uiterlijk een jaar, nadat hij haar is gaan vervullen, niet passend voor hem blijkt te zijn, kan hem binnen die periode op zijn aanvraag eervol ontslag uit die functie worden verleend, welk ontslag ten aanzien van zijn aanspraken op een wachtgeld wordt geacht niet door eigen toedoen te zijn verleend. 
 
 ### Artikel  105a  
 
@@ -2275,7 +2281,7 @@ a. indien het gaat om de partner, vijf zevende deel van 1,75 procent van het pen
 b. indien het gaat om de wees waarvan de verzorger geen recht heeft op partnerpensioen of bijzonder partnerpensioen, een zevende deel van 1,75 procent van het pensioengevend inkomen en de pensioengeldige diensttijd, zoals deze begrippen door de Stichting Pensioenfonds ABP worden gehanteerd ten aanzien van overheidswerknemers als bedoeld in artikel 2, eerste lid, van de Wet privatisering ABP;  
 
 c. indien het gaat om de wees zonder verzorger als bedoeld in onderdeel b, twee zevende deel van 1,75 procent van het pensioengevend inkomen en de pensioengeldige diensttijd, zoals deze begrippen door de Stichting Pensioenfonds ABP worden gehanteerd ten aanzien van overheidswerknemers als bedoeld in artikel 2, eerste lid, van de Wet privatisering ABP.   Indien de weduwe of weduwnaar een samenlevingscontract sluit dan wel een geregistreerd partnerschap aangaat, eindigt de uitkering met ingang van de maand volgende op de datum van het sluiten van het samenlevingscontract dan wel het aangaan van het geregistreerd partnerschap.  
-2.  De uitkering eindigt met ingang van de dag waarop de overledene de leeftijd van 65 jaar zou hebben bereikt, dan wel, indien de partner, zoals dit begrip door de Stichting Pensioenfonds ABP wordt gehanteerd ten aanzien van overheidswerknemers als bedoeld in artikel 2, eerste lid, van de Wet privatisering ABP aan wie een pensioen werd toegekend, hertrouwt, met ingang van de maand volgende op de datum van het hertrouwen.   
+2.  De uitkering eindigt met ingang van de dag waarop de overledene de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, zou hebben bereikt, dan wel, indien de partner, zoals dit begrip door de Stichting Pensioenfonds ABP wordt gehanteerd ten aanzien van overheidswerknemers als bedoeld in artikel 2, eerste lid, van de Wet privatisering ABP aan wie een pensioen werd toegekend, hertrouwt, met ingang van de maand volgende op de datum van het hertrouwen.   
 3.  Het eerste lid is van overeenkomstige toepassing op de gewezen ambtenaar ten aanzien van wie artikel 54b, derde lid, toepassing heeft gevonden, indien zijn overlijden het rechtstreeks gevolg is van de arbeidsongeschiktheid, bedoeld in dat artikel.  
 
 ### Artikel  111  

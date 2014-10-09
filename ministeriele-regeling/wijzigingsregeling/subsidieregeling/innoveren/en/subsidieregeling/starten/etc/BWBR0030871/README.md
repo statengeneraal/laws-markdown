@@ -7,18 +7,22 @@ Gelet op de artikelen 4, 5, eerste lid, 15, 23, onderdeel c, 25, en 42, eerste l
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 02-10-2014 
 
 Wijzigt de Subsidieregeling innoveren. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 02-10-2014 
 
 Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 02-10-2014 
 
 Op aanvragen om subsidie die voor de inwerkingtreding van deze regeling zijn ingediend en op subsidies die voor de inwerkingtreding van deze regeling zijn verstrekt, op grond van de Subsidieregeling innoveren en de Subsidieregeling starten, groeien en overdragen van ondernemingen, zijn de betreffende regelingen van toepassing zoals deze luidden direct voor de inwerkingtreding van deze regeling. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 02-10-2014 
 
 Deze regeling treedt in werking met ingang van 1 januari 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

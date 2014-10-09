@@ -2,7 +2,7 @@
 
 ##Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Democratische Republiek Ethiopië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-####Convention between the Kingdom of the Netherlands and the Federal Democratic Republic of Ethiopia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes and income
+####Convention between the Kingdom of the Netherlands and the Federal Democratic Republic of Ethiopia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
 
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -578,7 +578,7 @@ b) in the Netherlands: for any tax year and period beginning, and taxable events
 
 IN WITNESS whereof the undersigned, being duly authorised thereto, have signed this Convention. DONE at Addis Ababa this 10<sup>th</sup> day of August 2012, in duplicate, in the English language.  *For the Government of the Kingdom of the Netherlands,*  J. F. L. BLANKENBERG  *For the Government of the Federal Republic of Ethiopia,*  A. GUJO  
 
-####Protocol to the Convention between the Kingdom of the Netherlands and the Federal Democratic Republic of Ethiopia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes and income
+####Protocol to the Convention between the Kingdom of the Netherlands and the Federal Democratic Republic of Ethiopia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
 
 Treedt in werking op een nader te bepalen tijdstip 
 

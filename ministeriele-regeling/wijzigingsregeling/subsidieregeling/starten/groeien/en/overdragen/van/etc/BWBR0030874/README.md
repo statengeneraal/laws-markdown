@@ -7,10 +7,12 @@ Gelet op de artikelen 5, eerste lid, 19, eerste lid, en 30, vierde en vijfde lid
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 07-10-2014 
 
 Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling is niet van toepassing op aanvragen voor een bedrijfsborgstellingskrediet indien: 
 
@@ -21,6 +23,7 @@ b. de onder a bedoelde kredietofferte binnen 14 dagen door de MKB-ondernemer wor
 c. het bedrijfsborgstellingskrediet uiterlijk 35 dagen na acceptatie door de MKB-ondernemer aan de minister is gemeld.   
 
 ### Artikel  III  
+Materieel uitgewerkt per 07-10-2014 
 
 Deze regeling treedt in werking met ingang van 1 januari 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

@@ -9,18 +9,22 @@ Gelet op de artikelen 2, tweede lid, 4, 5, 8, 15, 16, 17, eerste, derde en vierd
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 02-10-2014 
 
 Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 02-10-2014 
 
 Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 02-10-2014 
 
 Hoofdstuk 5 en hoofdstuk 6, paragraaf 3, blijven van toepassing op subsidies die op grond hiervan zijn verstrekt. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 02-10-2014 
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

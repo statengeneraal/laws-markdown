@@ -29,7 +29,7 @@ Ukraine, hereinafter referred to as “the Receiving State” and the Kingdom of
 
 ### Article  4  
 
-4.1. During its stay on the territory of the Receiving State the Mission shall be allowed use public bases, training centers, training grounds and other facilities of the Receiving State upon agreement between the Head of Mission and the entities of the Receiving State responsible for the administration of such facilities.  
+4.1. During its stay on the territory of the Receiving State the Mission shall be allowed to use public bases, training centers, training grounds and other facilities of the Receiving State upon agreement between the Head of Mission and the entities of the Receiving State responsible for the administration of such facilities.  
 4.2. Amounts and procedure of payment of the rent of land, other real estate, including residential and other facilities, as well as fees for the use of water, use of airspace of Ukraine, air-navigation, and information support, providing municipal, domestic and other services shall be determined between the Sending State and entities of the Receiving State responsible for the administration of such objects or providing such services. 
 
 ### Article  5  

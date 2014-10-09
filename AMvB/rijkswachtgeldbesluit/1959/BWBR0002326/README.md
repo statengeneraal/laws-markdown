@@ -267,7 +267,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, 
 
 1.  Het recht op wachtgeld eindigt:  
 
-a. met ingang van de eerste dag van de kalendermaand volgende op die waarin de betrokkene de leeftijd van 65 jaar heeft bereikt;  
+a. met ingang van de dag waarop betrokkene de leeftijd, bedoeld in artikel 7, onderdeel a, van de Algemene Ouderdomswet bereikt,  
 
 b. met ingang van de dag volgende op die waarop de betrokkene is overleden;  
 

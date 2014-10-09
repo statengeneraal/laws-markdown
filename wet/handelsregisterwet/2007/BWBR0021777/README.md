@@ -22,9 +22,9 @@ b. onderneming: een onderneming als bedoeld in artikel 5;
 
 c. rechtspersoon: een rechtspersoon als bedoeld in artikel 6;  
 
-d. publiekrechtelijke rechtspersoon: een publiekrechtelijke rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+d. publiekrechtelijke rechtspersoon: een publiekrechtelijke rechtspersoon als bedoeld in artikel 1 van Boek 2 van het Burgerlijk Wetboek;  
 
-e. kerkgenootschap: een kerkgenootschap als bedoeld in [artikel 2 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+e. kerkgenootschap: een kerkgenootschap als bedoeld in artikel 2 van Boek 2 van het Burgerlijk Wetboek;  
 
 f. basisregister: een verzameling gegevens waarvan bij wet is bepaald dat deze authentieke gegevens bevat;  
 
@@ -32,7 +32,7 @@ g. authentiek gegeven: een in een basisregister opgenomen gegeven dat bij of kra
 
 h. handelsregister: het register, bedoeld in artikel 2;  
 
-i. Kamer: de Kamer van Koophandel, genoemd in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md);  
+i. Kamer: de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel;  
 
 j. vestiging: een gebouw of complex van gebouwen waar duurzame uitoefening van de activiteiten van een onderneming of rechtspersoon plaatsvindt;  
 
@@ -68,7 +68,7 @@ c. voor het registreren van alle ondernemingen en rechtspersonen als onderdeel v
 ### Artikel  3  
 
 1.  Het handelsregister wordt gehouden door de Kamer.   
-2.  Ten aanzien van verwerkingen ten behoeve van het handelsregister is de Kamer verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  Ten aanzien van verwerkingen ten behoeve van het handelsregister is de Kamer verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.   
 3.  De Kamer kan met machtiging van Onze Minister werkzaamheden laten verrichten door een bewerker die voldoet aan eisen omtrent de deugdelijke uitvoering van zijn werkzaamheden, de beveiliging van de gegevensbestanden en de bescherming van de persoonlijke levenssfeer.  
 
 ### Artikel  4  
@@ -102,7 +102,7 @@ a. een naamloze vennootschap, een besloten vennootschap met beperkte aansprakeli
 
 b. een vereniging met volledige rechtsbevoegdheid, een vereniging van eigenaars, een stichting en overige privaatrechtelijke rechtspersonen;  
 
-c. een publiekrechtelijke rechtspersoon, met dien verstande dat in plaats van de Staat de ministeries, bedoeld in [artikel 1, eerste lid, onderdeel a, van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en de dienstonderdelen van een ministerie die op basis van [artikel 10 van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) de begroting en de verantwoording inrichten op basis van een stelsel van baten en lasten worden ingeschreven.     
+c. een publiekrechtelijke rechtspersoon, met dien verstande dat in plaats van de Staat de ministeries, bedoeld in artikel 1, eerste lid, onderdeel a, van de Comptabiliteitswet 2001 en de dienstonderdelen van een ministerie die op basis van artikel 10 van de Comptabiliteitswet 2001 de begroting en de verantwoording inrichten op basis van een stelsel van baten en lasten worden ingeschreven.     
 2.  Een vereniging zonder volledige rechtsbevoegdheid kan worden ingeschreven.   
 3.  Bij algemene maatregel van bestuur wordt bepaald op welke wijze de organisatie waarvan een of meer kerkgenootschappen deel uitmaken, wordt ingeschreven in het handelsregister en tevens kan worden bepaald of en in hoeverre zelfstandige onderdelen of lichamen waarin zij zijn verenigd moeten worden ingeschreven in het handelsregister.   
 4.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
@@ -138,7 +138,7 @@ e. de vestigingen.
 1.  In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een rechtspersoon is, de in artikel 12 genoemde gegevens opgenomen.   
 2.  In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een natuurlijke persoon is, opgenomen: 
 
-a. het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), het geslacht, de geboorteplaats en het geboorteland;  
+a. het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, het geslacht, de geboorteplaats en het geboorteland;  
 
 b. de naam;  
 
@@ -161,7 +161,7 @@ e. de leden, maten of vennoten, met uitzondering van de commanditaire vennoten, 
 
 1°. indien deze natuurlijke personen zijn, 
 
-– het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), het geslacht, de geboorteplaats en het geboorteland,  
+– het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, het geslacht, de geboorteplaats en het geboorteland,  
 
 – de naam,  
 
@@ -271,8 +271,8 @@ c. dat voor de in artikel 6, eerste lid, onderdeel c, en artikel 6, derde lid be
 
 1.  De daartoe verplichte personen doen, met inachtneming van het bij algemene maatregel van bestuur bepaalde, de opgaven die de Kamer nodig heeft om ervoor te zorgen dat de in artikel 9 tot en met 14 en 16a, eerste lid, genoemde en de in artikel 17, onderdeel a, bedoelde gegevens te allen tijde juist en volledig in het handelsregister ingeschreven zijn.   
 2.  Het eerste lid is van overeenkomstige toepassing op het deponeren van bescheiden.   
-3.  Op berichtenverkeer met betrekking tot enige inschrijving of doorhaling in het handelsregister tussen de Kamer en een onderneming, niet zijnde een dienstverrichter als bedoeld in [artikel 1 van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) die onder de reikwijdte van [die wet](../../../../wet/dienstenwet/BWBR0026759/README.md) valt, zijn de [paragrafen 3.3](../../../../wet/dienstenwet/BWBR0026759/README.md), [3.4](../../../../wet/dienstenwet/BWBR0026759/README.md) en [artikel 5, tweede lid, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) van overeenkomstige toepassing.   
-4.  Regels die op grond van [artikel 5, derde lid, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) bij of krachtens algemene maatregel van bestuur zijn gesteld, zijn van overeenkomstige toepassing op berichtenverkeer als bedoeld in het derde lid.   
+3.  Op berichtenverkeer met betrekking tot enige inschrijving of doorhaling in het handelsregister tussen de Kamer en een onderneming, niet zijnde een dienstverrichter als bedoeld in artikel 1 van de Dienstenwet die onder de reikwijdte van die wet valt, zijn de paragrafen 3.3, 3.4 en artikel 5, tweede lid, van de Dienstenwet van overeenkomstige toepassing.   
+4.  Regels die op grond van artikel 5, derde lid, van de Dienstenwet bij of krachtens algemene maatregel van bestuur zijn gesteld, zijn van overeenkomstige toepassing op berichtenverkeer als bedoeld in het derde lid.   
 5.  Het derde en vierde lid zijn niet van toepassing op: 
 
 a. uitwisseling van gegevens of bescheiden die betrekking hebben op procedures van bezwaar, beroep of andere rechterlijke procedures of vormen van geschilbeslechting;  
@@ -291,7 +291,7 @@ a. de wijze waarop gegevens in het handelsregister worden opgenomen;
 b. de termijnen voor het opnemen van gegevens in het handelsregister;  
 
 c. de actualiteit van het overnemen van een gegeven uit een ander basisregister.     
-5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een opgave ter inschrijving in het handelsregister. 
+5.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een opgave ter inschrijving in het handelsregister. 
 
 ### Hoofdstuk  4  
 
@@ -334,13 +334,13 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 ### Artikel  25  
 
 1.  Op een feit dat door inschrijving of deponering moet worden bekendgemaakt, kan tegenover derden die daarvan onkundig waren geen beroep worden gedaan zolang de inschrijving of deponering en, voor zover van toepassing, de in artikel 24 bedoelde mededeling niet hebben plaatsgevonden.   
-2.  Indien de derde aantoont dat hij onmogelijk kennis heeft kunnen nemen van een mededeling als bedoeld in artikel 24 kan hij zich erop beroepen dat hij van het bekendgemaakte feit onkundig was, mits dit beroep betrekking heeft op hetgeen heeft plaatsgevonden binnen vijftien dagen nadat de mededeling was geschied. De [Algemene Termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is op deze termijn niet van toepassing.   
+2.  Indien de derde aantoont dat hij onmogelijk kennis heeft kunnen nemen van een mededeling als bedoeld in artikel 24 kan hij zich erop beroepen dat hij van het bekendgemaakte feit onkundig was, mits dit beroep betrekking heeft op hetgeen heeft plaatsgevonden binnen vijftien dagen nadat de mededeling was geschied. De Algemene Termijnenwet is op deze termijn niet van toepassing.   
 3.  Degene aan wie een onderneming toebehoort, de ingeschreven rechtspersoon of degene die enig feit heeft opgegeven of verplicht is enig feit op te geven, kan aan derden die daarvan onkundig waren niet de onjuistheid of onvolledigheid van de inschrijving of van de in artikel 24 bedoelde mededeling tegenwerpen. Met de inschrijving wordt de deponering van bescheiden gelijkgesteld.   
 4.  Dit artikel is niet van toepassing ten aanzien van: 
 
 a. artikel 811, tweede lid, van Boek 7 van het Burgerlijk Wetboek;  
 
-b. opgaven betreffende aangelegenheden die ingevolge enig wettelijk voorschrift – niet zijnde [Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), verordening 2137/85 of verordening 2157/2001 – ook op andere wijze worden bekend gemaakt;  
+b. opgaven betreffende aangelegenheden die ingevolge enig wettelijk voorschrift – niet zijnde Boek 2 van het Burgerlijk Wetboek, verordening 2137/85 of verordening 2157/2001 – ook op andere wijze worden bekend gemaakt;  
 
 c. de bij algemene maatregel van bestuur aangewezen gegevens.    
 
@@ -376,21 +376,21 @@ b. voor zover het betreft brieven en orders, aan naamloze vennootschappen, beslo
 
 ### Artikel  28  
 
-1.  De in artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje, en artikel 16, eerste lid, genoemde gegevens kunnen door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden ingezien.   
+1.  De in artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje, en artikel 16, eerste lid, genoemde gegevens kunnen door een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht worden ingezien.   
 2.  Artikel 22 is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste lid.   
-3.  Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door: 
+3.  Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht of rechtspersoon met een overheidstaak als bedoeld in artikel 1, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door: 
 
-a. Onze Minister van Veiligheid en Justitie ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md) of ten behoeve van de uitvoering van de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+a. Onze Minister van Veiligheid en Justitie ten behoeve van de taak, bedoeld in artikel 2, eerste lid, van de Wet controle op rechtspersonen of ten behoeve van de uitvoering van de Vreemdelingenwet 2000;  
 
 b. een officier van justitie ten behoeve van de opsporing van strafbare feiten;  
 
 c. de rijksbelastingdienst voor de uitvoering van zijn taken;  
 
-d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), of Onze Minister van Sociale Zaken en Werkgelegenheid voor de uitvoering van hun bij of krachtens wet opgedragen taken;  
+d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, bedoeld in de Wet structuur uitvoeringsorganisatie werk en inkomen, of Onze Minister van Sociale Zaken en Werkgelegenheid voor de uitvoering van hun bij of krachtens wet opgedragen taken;  
 
-e. burgemeesters en wethouders voor de uitvoering van de [Wet gemeentelijke schulphulpverlening](../../../../wet/wet/gemeentelijke/schuldhulpverlening/BWBR0031331/README.md), [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+e. burgemeesters en wethouders voor de uitvoering van de Wet gemeentelijke schulphulpverlening, Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
-f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van die wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), in het geval waarin hij bevoegd is tot toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur en een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht of rechtspersoon met een overheidstaak als bedoeld in artikel 1, onder a, van die wet, in het geval waarin hij bevoegd is tot toepassing van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;  
 
 g. de Autoriteit Consument en Markt voor de uitvoering van haar taken;  
 
@@ -400,7 +400,7 @@ i.vervallen;
 
 j.vervallen;
 
-k. Onze Minister van Sociale Zaken en Werkgelegenheid en de colleges van burgemeester en wethouders voor hun taak, bedoeld in de [artikelen 1.47a](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [2.4a van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
+k. Onze Minister van Sociale Zaken en Werkgelegenheid en de colleges van burgemeester en wethouders voor hun taak, bedoeld in de artikelen 1.47a en 2.4a van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
 
 ### Artikel  29  
 
@@ -456,7 +456,7 @@ Indien de melding betrekking heeft op een gegeven dat ingevolge artikel 17, onde
 
 ### Artikel  35  
 
-De beslissing, bedoeld in artikel 34, tweede lid, geldt als een besluit in de zin van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De beslissing, bedoeld in artikel 34, tweede lid, geldt als een besluit in de zin van de Algemene wet bestuursrecht. 
 
 ### Artikel  36  
 
@@ -471,7 +471,7 @@ Op een melding als bedoeld in artikel 32, tweede lid, zijn de artikelen 33, 34, 
 
 1.  Indien de Kamer gerede twijfel heeft over de juistheid van authentieke gegevens, zijn de artikelen 33 tot en met 36 van overeenkomstige toepassing.   
 2.  Bij algemene maatregel van bestuur kunnen niet-authentieke gegevens worden aangewezen waarop het eerste lid van overeenkomstige toepassing is.   
-3.  Op een verzoek als bedoeld in [artikel 36 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), zijn de artikelen 33 tot en met 36 van overeenkomstige toepassing.  
+3.  Op een verzoek als bedoeld in artikel 36 van de Wet bescherming persoonsgegevens, zijn de artikelen 33 tot en met 36 van overeenkomstige toepassing.  
 
 ### Artikel  39  
 
@@ -499,7 +499,7 @@ De Kamer treft maatregelen die ertoe strekken te waarborgen dat het handelsregis
 
 ### Artikel  41  
 
-1.  De Kamer laat eens per drie jaar de uitvoering van deze wet alsmede de juistheid van de in het handelsregister opgenomen gegevens controleren door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De Kamer laat eens per drie jaar de uitvoering van deze wet alsmede de juistheid van de in het handelsregister opgenomen gegevens controleren door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels betreffende de controle worden gesteld, waaronder regels omtrent de elementen die de controle moet bevatten.   
 3.  De Kamer zendt aan Onze Minister een afschrift van de controleresultaten en maakt deze controleresultaten openbaar. Onze Minister zendt een uittreksel van deze controleresultaten aan het College bescherming persoonsgegevens.   
 4.  Indien uit de controle, bedoeld in het eerste lid, blijkt dat niet voldaan wordt aan bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, laat de Kamer binnen een jaar een hercontrole uitvoeren op die onderdelen die bij de eerdere controle niet voldeden aan de gestelde voorwaarden. Het tweede lid is van overeenkomstige toepassing.   
@@ -545,7 +545,7 @@ Het is verboden te handelen in strijd met dan wel niet te voldoen aan een bij of
 
 ### Artikel  48  
 
-De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de uitvoering van deze wet. Bij de behandeling van klachten wordt de procedure, bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gevolgd. 
+De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de uitvoering van deze wet. Bij de behandeling van klachten wordt de procedure, bedoeld in titel 9.1 van de Algemene wet bestuursrecht gevolgd. 
 
 ### Hoofdstuk  9  
 
@@ -562,7 +562,7 @@ De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de
 ### Artikel  50  
 
 1.  Voor de inzage of de verstrekking van gegevens is een bij of krachtens algemene maatregel van bestuur te bepalen vergoeding verschuldigd, welke kan variëren naar de wijze van inzage of verstrekking van gegevens en de hoeveelheid gegevens.   
-2.  De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van [artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek](../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md).   
+2.  De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek.   
 3.  De in het eerste lid bedoelde vergoeding is verschuldigd zonder dat dit bij beschikking is vastgesteld.   
 4.  Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld. 
 
@@ -640,7 +640,7 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gew
 
 ### Artikel  56  
 
-De [Handelsregisterwet 1996](../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md) vervalt. 
+De Handelsregisterwet 1996 vervalt. 
 
 ### Artikel  57  
 

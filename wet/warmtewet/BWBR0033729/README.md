@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a.  *Onze Minister:* Onze Minister van Economische Zaken;  
 
-b.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+b.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 c.  *warmtenet:* het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat gebouw of werk;  
 
@@ -38,7 +38,21 @@ j.  *vergunninghouder:* de houder van een vergunning als bedoeld in artikel 9;
 
 k.  *representatieve organisatie:* een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;  
 
-l.  *verhuurder:* een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden.  
+l.  *verhuurder:* een toegelaten instelling als bedoeld in artikel 19, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden; 
+
+m.  dit onderdeel is nog niet in werking getreden; 
+
+n.  dit onderdeel is nog niet in werking getreden; 
+
+o.  dit onderdeel is nog niet in werking getreden; 
+
+p.  dit onderdeel is nog niet in werking getreden; 
+
+q.  dit onderdeel is nog niet in werking getreden; 
+
+r.  *bindende gedragslijn:* een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
+
+s.  *zelfstandige last:* de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften.  
 
 ### Hoofdstuk  2  
 
@@ -88,7 +102,7 @@ d. een omschrijving van de toepasselijke vergoedingen, waaronder de uitkering va
 
 ### Artikel  5  
 
-1.  De Autoriteit Consument en Markt stelt de maximumprijs vast die een leverancier ten hoogste zal berekenen voor de levering van warmte. Het besluit tot vaststelling van een maximumprijs wordt bekendgemaakt in de Staatscourant.   
+1.  De Autoriteit Consument en Markt stelt de maximumprijs vast die een leverancier ten hoogste zal berekenen voor de levering van warmte. Van het besluit tot vaststelling van een maximumprijs wordt mededeling gedaan in de Staatscourant.   
 2.  De maximumprijs: 
 
 a. is gebaseerd op de integrale kosten die een verbruiker zou moeten maken voor het verkrijgen van dezelfde hoeveelheid warmte bij het gebruik van gas als energiebron. Deze kosten worden bepaald met de rendementsmethode;  
@@ -141,7 +155,7 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 5.  De warmtekostenverdelers en andere technische voorzieningen voor benadering, meting of registratie van het aandeel van de individuele verbruiker in het totale verbruik, worden aan de hand van daarvoor gangbare technische normen geïnstalleerd en toegepast.   
 6.  Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier éénmalig door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige onderzoek uitvoeren naar de mate waarin de kostenverdeelsystematiek voor die verbruiker of verbruikers, voldoet aan het eerste tot en met vierde lid. De helft van de kosten van dit onderzoek komt voor rekening van de leverancier.   
 7.  Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier de werking van de warmtekostenverdelers controleren door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige. De toedeling van de kosten van dit onderzoek tussen verbruikers en leverancier vindt plaats op basis van de conclusie van het onderzoek.   
-8.  Indien de verbruiker of verbruikers en de leverancier niet tot overeenstemming komen over de keuze van een voor beiden aanvaardbare deskundige dan kan de Nederlandse Mededingingsautoriteit worden gevraagd om deze aan te wijzen.   
+8.  Indien de verbruiker of verbruikers en de leverancier niet tot overeenstemming komen over de keuze van een voor beiden aanvaardbare deskundige dan kan de Autoriteit Consument en Markt worden gevraagd om deze aan te wijzen.   
 9.  De leverancier verleent aan het onderzoek de nodige medewerking.   
 10.  Indien bestaande technische voorzieningen als bedoeld in het vijfde lid worden vervangen, zorgt de leverancier dat de nieuwe voorzieningen van een type zijn waarvan een onafhankelijke deskundige aan de hand van daarvoor gangbare technische normen de deugdelijkheid heeft vastgesteld.  
 
@@ -225,7 +239,7 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  12d  
 
-1.  Onze Minister kan een netbeheerder als bedoeld in [artikel 2, eerste lid, van de Gaswet](../../../wet/gaswet/BWBR0011440/README.md), opdracht geven tot het aanleggen van een gastransportnet in het door hem aangewezen gebied. Verbruikers ontvangen een gehele of gedeeltelijke tegemoetkoming in verband met de kosten van de aansluiting op het gastransportnet.   
+1.  Onze Minister kan een netbeheerder als bedoeld in artikel 2, eerste lid, van de Gaswet, opdracht geven tot het aanleggen van een gastransportnet in het door hem aangewezen gebied. Verbruikers ontvangen een gehele of gedeeltelijke tegemoetkoming in verband met de kosten van de aansluiting op het gastransportnet.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de hoogte van de vergoeding, bedoeld in het eerste lid en over de wijze waarop de betrokken verbruikers een gehele of gedeeltelijke tegemoetkoming ontvangen, waarbij de hoogte van de tegemoetkoming voor verschillende groepen verbruikers verschillend kan worden vastgesteld.   
 3.  De opdracht, bedoeld in het eerste lid, wordt niet gegeven dan nadat Onze Minister onderzocht heeft of anders dan door aanleg van een gastransportnet voorzien kan worden in een volwaardig alternatief voor het warmtenet. Indien uit dit onderzoek blijkt dat een volwaardig alternatief beschikbaar is dat uit oogpunt van duurzaamheid, kosten of een ander publiek belang de voorkeur verdient bevordert Onze Minister de totstandkoming van dat alternatief.  
 
@@ -235,14 +249,9 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  13  
 
-1.  Onze Minister kan van een producent, een leverancier of een verbruiker de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van deze wet en voor het opstellen van het energierapport, bedoeld in [artikel 2 van de Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
+1.  Onze Minister kan van een producent, een leverancier of een verbruiker de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van deze wet en voor het opstellen van het energierapport, bedoeld in artikel 2 van de Elektriciteitswet 1998.   
 2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door Onze Minister te stellen redelijke termijn alle medewerking te verlenen die hij redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 3.  Onze Minister gebruikt gegevens of inlichtingen welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken op grond van deze wet uitsluitend voor de uitoefening van die taak.  
-
-### Artikel  14  
-
-1. Artikel 13, eerste en tweede lid, is van overeenkomstige toepassing op de Autoriteit Consument en Markt voor zover zij inlichtingen en gegevens nodig heeft voor de uitvoering van haar taken op grond van deze wet.  
-2.  De Autoriteit Consument en Markt kan van een gasbedrijf als bedoeld in [artikel 1, onderdeel j, van de Gaswet](../../../wet/gaswet/BWBR0011440/README.md) verlangen dat deze hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die zij nodig heeft voor de uitvoering van deze wet. 
 
 ### Hoofdstuk  4  
 
@@ -250,9 +259,7 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  15  
 
-1. De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet.  
-2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
-3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant. 
+De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet. 
 
 ### Artikel  16  
 
@@ -260,18 +267,12 @@ De Autoriteit Consument en Markt kan bij een producent, leverancier of verbruike
 
 ### Artikel  17  
 
-1.  De Autoriteit Consument en Markt kan een bindende aanwijzing geven in verband met de naleving van deze wet.   
-2.  Van een beschikking als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.  
+De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verband met de naleving van deze wet. 
 
 ### Artikel  18  
 
 1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder dwangsom opleggen.   
-2.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
-3.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
-4.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding, bedoeld in het eerste lid, is begaan, maakt zij daarvan een rapport op.   
-5.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-6.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 2, 5, eerste en vierde lid, 9, eerste lid, 13, 14, 17 en 40 alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
-7.  De berekening van de netto-omzet, bedoeld in het zesde lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+2.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 2, 5, eerste en vierde lid, 9, eerste lid, 13, 17 en 40 de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000 of, indien dat meer is, 1% van de omzet van de overtreder.  
 
 ### Artikel  19  
 
@@ -300,7 +301,7 @@ Vervallen per 01-01-2014
 
 ### Artikel  23  
 
-Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet. 
+Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluiten, niet zijnde beschikkingen, genomen op grond van deze wet. 
 
 ### Artikel  24  
 
@@ -359,7 +360,7 @@ Wijzigt de Mededingingswet.
 
 ### Artikel  38  
 
-Voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) worden werken, die worden of zijn uitgevoerd ten behoeve van de levering van warmte, aangemerkt als openbare werken van algemeen nut. 
+Voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht worden werken, die worden of zijn uitgevoerd ten behoeve van de levering van warmte, aangemerkt als openbare werken van algemeen nut. 
 
 ### Artikel  39  
 
@@ -376,7 +377,7 @@ b. een beschrijving van de door leverancier te exploiteren warmtenetten waarbij 
 
 ### Artikel  41  
 
-1.  Het in [artikel 2 van de Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) bedoelde energierapport geeft mede richting aan van rijkswege te nemen beslissingen in de periode, bedoeld in dat artikel, voor zover daarbij het belang van het betrouwbaar, duurzaam, milieuhygiënisch en doelmatig functioneren van de warmtevoorziening in beschouwing moet of kan worden genomen.   
+1.  Het in artikel 2 van de Elektriciteitswet 1998 bedoelde energierapport geeft mede richting aan van rijkswege te nemen beslissingen in de periode, bedoeld in dat artikel, voor zover daarbij het belang van het betrouwbaar, duurzaam, milieuhygiënisch en doelmatig functioneren van de warmtevoorziening in beschouwing moet of kan worden genomen.   
 2.  Het energierapport bevat in ieder geval een overzicht van de prijsontwikkelingen met betrekking tot levering van warmte.  
 
 ### Artikel  42  
