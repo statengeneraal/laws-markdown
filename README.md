@@ -31,7 +31,7 @@ manage software changes, particularly in the open source world.
 
 The second paragraph is a provocation to the legal field, which is a notoriously analogue practice and could benefit a lot from innovations in information technology. As an example, network analysis of references between laws can [produce information that traditionally only exists in the minds of legal scholars](http://dl.acm.org/citation.cfm?id=1165505). If legal metadata were properly interlinked, it would take just a simple SPARQL query to find out, for instance, how different countries implement a certain EU directive. It would be easy to write a service that keeps track of new laws within a certain domain. Finding relevant (case) law would be a snap. These are things that are currently very hard or impossible to achieve automatically. 
 
-The legal standard [MetaLex](http://www.metalex.eu/) goes a long way as a framework to get laws in the [semantic web](http://en.wikipedia.org/wiki/Semantic_web), but is still very much under-utilized. The European project [OpenLaws.eu](http://www.openlaws.eu/) is a positive development in this respect.
+Legal standards such as [Akoma Ntoso](http://www.akomantoso.org/) and [MetaLex](http://www.metalex.eu/) go a long way as a framework to get laws in the [semantic web](http://en.wikipedia.org/wiki/Semantic_web), but governments still rely too much on opaque homegrown solutions. European projects such as [OpenLaws.eu](http://www.openlaws.eu/) and [EUCases](http://www.eucases.eu/start/) are positive developments in this respect.
 
 If you need more convincing, watch the following TED talk by Clay Shirky:
 
@@ -40,6 +40,7 @@ If you need more convincing, watch the following TED talk by Clay Shirky:
 " target="_blank"><img src="https://img.youtube.com/vi/CEN4XNth61o/0.jpg" 
 alt="Clay Shirky: How the Internet will (one day) transform government" width="240" height="180" border="10" /></a>
 </center>
+
 *Figure 2.* A video about why this project is worthwhile
 
 How do I use this?
