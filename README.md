@@ -4,9 +4,13 @@ Dutch laws in GitHub
 What is this?
 -------------
 
-This is a repository that tracks Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book. The documents have been converted to Markdown to be human-legible.
+This is a repository that tracks Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book. The documents have been converted to Markdown to be human-legible and to provide easy-to-read diffs.
 
 **NOTE:** This is not an official source of law. Use at your own peril.
+
+![Example diff for a law about old people and money](http://s15.postimg.org/4d9rpp9nf/law_diff.png)
+
+*Figure 1.* An example diff for a change in law about old people and money
 
 Why?
 ----
@@ -36,6 +40,7 @@ If you need more convincing, watch the following TED talk by Clay Shirky:
 " target="_blank"><img src="https://img.youtube.com/vi/CEN4XNth61o/0.jpg" 
 alt="Clay Shirky: How the Internet will (one day) transform government" width="240" height="180" border="10" /></a>
 </center>
+*Figure 2.* A video about why this project is worthwhile
 
 How do I use this?
 ------------------
