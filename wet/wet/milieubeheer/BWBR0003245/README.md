@@ -43,7 +43,7 @@ b. onder het zich door afgifte ontdoen van afvalstoffen mede verstaan:
 2°. het tijdelijk voor nuttige toepassing afgeven van afvalstoffen;  
 
 3°. het voor verwerking afgeven van afvalstoffen aan een afvalstoffenhandelaar.      
-6.  Indien afvalstoffen die een behandeling voor nuttige toepassing hebben ondergaan, voldoen aan de ingevolge artikel 6, eerste en tweede lid, van de kaderrichtlijn afvalstoffen vastgestelde criteria en tevens behoren tot het soort afvalstoffen waarop die criteria van toepassing zijn, worden zij niet langer als afvalstoffen aangemerkt. Onze Minister kan inzake een afvalstof die een behandeling voor nuttige toepassing heeft ondergaan, besluiten dat deze niet langer als afvalstof wordt aangemerkt, voor zover voor deze afvalstof geen criteria van toepassing zijn als bedoeld in de eerste volzin en ook overigens wordt voldaan aan artikel 6, vierde lid, eerste volzin, van de kaderrichtlijn afvalstoffen. Bij ministeriële regeling wordt aangegeven welke stoffen, preparaten of voorwerpen in ieder geval, onverminderd het bepaalde in de eerste en tweede volzin, worden aangemerkt als afvalstoffen, indien de houder zich daarvan ontdoet, voornemens is zich daarvan te ontdoen of zich daarvan moet ontdoen. Als afvalstoffen worden in elk geval niet aangemerkt stoffen, preparaten of voorwerpen die bijproducten zijn in de zin van artikel 5 van de kaderrichtlijn afvalstoffen, indien deze bijproducten voldoen aan de in dat artikel gestelde voorwaarden en aan de in een krachtens dat artikel vastgestelde uitvoeringsmaatregel daartoe aangegeven criteria.   
+6.  Indien afvalstoffen die een behandeling voor nuttige toepassing hebben ondergaan, voldoen aan de ingevolge artikel 6, eerste en tweede lid, van de kaderrichtlijn afvalstoffen vastgestelde criteria en tevens behoren tot het soort afvalstoffen waarop die criteria van toepassing zijn, worden zij niet langer als afvalstoffen aangemerkt. Onze Minister kan per geval besluiten of bij ministeriële regeling per afvalstroom regelen dat een afvalstof, respectievelijk een afvalstroom, die een behandeling voor nuttige toepassing heeft ondergaan, niet als afval wordt aangemerkt, voor zover voor deze afvalstof respectievelijk afvalstroom geen criteria van toepassing zijn als bedoeld in de eerste volzin en ook wordt voldaan aan artikel 6, vierde lid, eerste volzin, van de kaderrichtlijn afvalstoffen. Bij ministeriële regeling wordt aangegeven welke stoffen, preparaten of voorwerpen in ieder geval, onverminderd het bepaalde in de eerste en tweede volzin, worden aangemerkt als afvalstoffen, indien de houder zich daarvan ontdoet, voornemens is zich daarvan te ontdoen of zich daarvan moet ontdoen. Als afvalstoffen worden in elk geval niet aangemerkt stoffen, preparaten of voorwerpen die bijproducten zijn in de zin van artikel 5 van de kaderrichtlijn afvalstoffen, indien deze bijproducten voldoen aan de in dat artikel gestelde voorwaarden en aan de in een krachtens dat artikel van de kaderrichtlijn afvalstoffen vastgestelde uitvoeringsmaatregel of in een regeling van Onze Minister daartoe aangegeven criteria.   
 7.   Bij algemene maatregel van bestuur kan in het belang van het bevorderen van nuttige toepassing worden bepaald dat geen sprake is van het zich ontdoen van afvalstoffen, indien bij die maatregel aangewezen stoffen, preparaten of voorwerpen:  
 
 a. door de houder rechtstreeks worden afgegeven aan een persoon die deze stoffen, preparaten of voorwerpen geheel toepast op een bij die maatregel aangegeven wijze;   
@@ -865,7 +865,7 @@ d.worden waarborgen getroffen opdat de maatregelen ter vermindering van de conce
 
 ### Artikel 5.18 
 
-1. De commissaris van de Koningin doet van een overschrijding van een in bijlage 2 genoemde alarmdrempel of informatiedrempel in zijn provincie zo spoedig mogelijk mededeling aan het publiek. Wanneer overschrijding van een informatiedrempel of alarmdrempel voorkomt in samenhang met overschrijding van een in bijlage 2 genoemde grenswaarde voor een andere verontreinigende stof in de buitenlucht, doet de commissaris van de Koningin tevens mededeling van laatstbedoelde overschrijding.
+1. De commissaris van de Koning doet van een overschrijding van een in bijlage 2 genoemde alarmdrempel of informatiedrempel in zijn provincie zo spoedig mogelijk mededeling aan het publiek. Wanneer overschrijding van een informatiedrempel of alarmdrempel voorkomt in samenhang met overschrijding van een in bijlage 2 genoemde grenswaarde voor een andere verontreinigende stof in de buitenlucht, doet de commissaris van de Koning tevens mededeling van laatstbedoelde overschrijding.
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de in het eerste lid bedoelde mededeling en de daarbij aan het publiek te verstrekken gegevens alsmede met betrekking tot de wijze waarop uitvoering wordt gegeven aan artikel 24 van de EG-richtlijn luchtkwaliteit.
 3. Artikel 48, derde lid, van de Wet inzake de luchtverontreiniging is van overeenkomstige toepassing.
 
@@ -1721,11 +1721,12 @@ b. indien de uitvoering van een voor Nederland verbindend verdrag of een voor Ne
 
 c. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, indien dat bij de maatregel is bepaald.    
 7. Voor zover bij algemene maatregel van bestuur is bepaald, kan de vergunning in het belang van de bescherming van de gezondheid van de mens en van het milieu worden gewijzigd. 
-8. Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 niet van toepassing, tenzij uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.
+8. Op de voorbereiding van een intrekking of wijziging als bedoeld in het zesde lid, respectievelijk het zevende lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 niet van toepassing, tenzij uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.
 
 ### Artikel 9.2.2.4 
 
-Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder g, wijst Onze Minister de instantie aan, die de in die bepaling bedoelde keuring verricht. Bij de maatregel worden regels gesteld ten aanzien van de wijze waarop een zodanige keuring plaatsheeft.
+1. Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder g, wijst Onze Minister de instantie aan, die de in die bepaling bedoelde keuring verricht. Bij de maatregel worden regels gesteld ten aanzien van de wijze waarop een zodanige keuring plaatsheeft en de gronden waarop de in de eerste volzin bedoelde aanwijzing kan worden ingetrokken dan wel gewijzigd. 
+2.  Indien ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder g, en het verdrag of besluit van die volkenrechtelijke organisatie niet verplicht tot aanwijzing van een instantie als bedoeld in het eerste lid, geldt in afwijking van het eerste lid geen verplichting tot aanwijzing van een instantie. 
 
 ### Artikel 9.2.2.5 
 
@@ -2047,15 +2048,15 @@ d. radioactieve afvalstoffen;
 
 e. afgedankte explosieven;  
 
-f. uitwerpselen, voor zover niet vallend onder onderdeel h, onder 1°, stro en ander natuurlijk, niet-gevaarlijk materiaal rechtstreeks afkomstig uit de land- of bosbouw dat wordt gebruikt in de landbouw, de bosbouw of voor de productie van energie uit die biomassa door middel van processen of methoden die onschadelijk zijn voor het milieu en die de menselijke gezondheid niet in gevaar brengen;  
+f. uitwerpselen, voor zover niet vallend onder onderdeel h, onder 1°, stro en ander natuurlijk, niet-gevaarlijk landbouw- of bosbouwmateriaal dat wordt gebruikt in de landbouw, de bosbouw of voor de productie van energie uit die biomassa door middel van processen of methoden die onschadelijk zijn voor het milieu en die de menselijke gezondheid niet in gevaar brengen;  
 
 g. sediment dat binnen oppervlaktewater wordt verplaatst met het oog op het beheer van water en waterwegen of om overstromingen te voorkomen of de gevolgen van overstromingen en droogte te verminderen, of met het oog op landwinning, indien is aangetoond dat het sediment ongevaarlijk is;  
 
-h. 
+h. voor zover daarover bij of krachtens communautaire regelgeving regels zijn gesteld: 
 
-1°. dierlijke bijproducten, met inbegrip van verwerkte producten, in de zin van verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van de Europese Unie van 3 oktober 2002, behalve die welke bestemd zijn om te worden verbrand of gestort of voor gebruik in een biogas- of composteerinstallatie;  
+1°. dierlijke bijproducten, met inbegrip van verwerkte producten, in de zin van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (verordening dierlijke bijproducten)(PbEU 2009, L 300), behalve die welke bestemd zijn om te worden verbrand of gestort of voor gebruik in een biogas- of composteerinstallatie;  
 
-2°. kadavers van niet door slachting gestorven dieren, met inbegrip van dieren die worden gedood om een epizoötie uit te roeien en overeenkomstig de onder 1° genoemde verordening worden verwijderd;     voor zover daarover bij of krachtens communautaire regelgeving regels zijn gesteld.   
+2°. kadavers van niet door slachting gestorven dieren, met inbegrip van dieren die worden gedood om een epizoötie uit te roeien en overeenkomstig de onder 1° genoemde verordening nr. 1069/2009 worden verwijderd.       
 2.  Op de in het eerste lid bedoelde stoffen, preparaten en voorwerpen is, voor zover het afvalstoffen betreft, het bepaalde bij of krachtens de artikelen 15.33, 15.35 en 15.36, alsmede de artikelen 2.4, 2.22, derde lid, en 2.23, tweede lid, van de Wet algemene bepalingen omgevingsrecht, evenmin van toepassing.  
 
 ### Artikel  10.2  
@@ -2472,7 +2473,7 @@ e. de verplichting afvalstoffen af te geven aan daarbij aangewezen personen.
 
 ### Artikel  10.50  
 
-1.  Onze Minister kan, indien voor het beheer van de betrokken stoffen, preparaten of voorwerpen een verplichting deze in te nemen als bedoeld in artikel 10.17 of een daaraan gelijkwaardige vrijwillige inname bestaat, bij ministeriële regeling categorieën van gevallen aangeven waarin de verplichtingen, gesteld bij of krachtens de artikelen 10.38 tot en met 10.40, 10.45, 10.46 en 10.48 niet gelden.   
+1.  Onze Minister kan, indien voor het beheer van de betrokken stoffen, preparaten of voorwerpen een verplichting deze in te nemen als bedoeld in artikel 9.5.2 of een daaraan gelijkwaardige vrijwillige inname bestaat, bij ministeriële regeling categorieën van gevallen aangeven waarin de verplichtingen, gesteld bij of krachtens de artikelen 10.38 tot en met 10.40, 10.45, 10.46 en 10.48 niet gelden.   
 2.  Een ministeriële regeling als bedoeld in het eerste lid omvat de verplichting tot het registreren van daarbij aan te geven gegevens op een daarbij aan te geven wijze.  
 
 ### Artikel  10.51  
@@ -2502,7 +2503,7 @@ Het voor activiteiten met betrekking tot inrichtingen bij of krachtens de artike
 
 ### Artikel  10.54a  
 
-1.  Het is verboden gevaarlijke afvalstoffen te mengen, daaronder mede begrepen verdunnen, met andere categorieën gevaarlijke afvalstoffen of met andere afvalstoffen, stoffen of materialen.   
+1.  Het is verboden gevaarlijke afvalstoffen te mengen, daaronder mede begrepen verdunnen, met andere bij ministeriële regeling aangewezen categorieën gevaarlijke afvalstoffen of met andere bij ministeriële regeling aangewezen afvalstoffen, stoffen of materialen.   
 2.  Het verbod, bedoeld in het eerste lid, geldt niet voor zover het mengen van gevaarlijke afvalstoffen is toegestaan krachtens een omgevingsvergunning.   
 3.  Onze Minister bepaalt bij ministeriële regeling in welke gevallen gevaarlijke afvalstoffen die in strijd met het eerste lid zijn gemengd, gescheiden dienen te worden.  
 
@@ -4232,7 +4233,7 @@ c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in artikel 176, 
 
 ### Artikel 15.50 
 
-1. Onze Minister kan uitkeringen verlenen aan personen bij wie ten gevolge van blootstelling aan asbest maligne mesothelioom is vastgesteld en die niet in aanmerking kunnen komen voor een daarmee verband houdende uitkering op grond van de Kaderwet SZW-subsidies.
+1. Onze Minister kan uitkeringen verlenen aan personen bij wie ten gevolge van blootstelling aan asbest maligne mesothelioom of asbestose is vastgesteld en die niet in aanmerking kunnen komen voor een daarmee verband houdende uitkering op grond van de Kaderwet SZW-subsidies.
 2. Onze Minister stelt nadere regels ter uitvoering van het eerste lid.
 
 ### Titel  15.13  
@@ -4948,20 +4949,22 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt ve
 a. het mechanisme van gemeenschappelijke uitvoering, bedoeld in artikel 6 van het Protocol van Kyoto (JI), die buiten Nederland of buiten de Nederlandse exclusieve economische zone worden uitgevoerd;  
 
 b. het mechanisme voor schone ontwikkeling, bedoeld in artikel 12 van het Protocol van Kyoto (CDM).    
-2.  Onze Minister verleent instemming met deelname aan projectactiviteiten als bedoeld in het eerste lid en de met betrekking tot die activiteiten overeenkomstig het Protocol van Kyoto genomen besluiten.  
-3. De instemming wordt op verzoek van de projectdeelnemer verleend indien:
+2.  Onze Minister kan op verzoek van de projectdeelnemer instemming verlenen met deelname aan projectactiviteiten als bedoeld in het eerste lid en de met betrekking tot die activiteiten overeenkomstig het Protocol van Kyoto genomen besluiten.  
+3.  De instemming wordt in ieder geval geweigerd, indien: 
 
-a.de deelname door de projectdeelnemer aan de projectactiviteit voldoet aan de eisen die in het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten aan die deelname zijn gesteld;
+a. de deelname door de projectdeelnemer aan de projectactiviteit niet voldoet aan de eisen die in het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten aan die deelname zijn gesteld;  
 
-b. de projectdeelnemer zijn hoofdvestiging heeft in een staat die de internationale overeenkomst, bedoeld in artikel 11ter, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten, heeft bekrachtigd, of in een staat of een subfederale of regionale entiteit die overeenkomstig artikel 25 van genoemde richtlijn aan het systeem van handel in broeikasgasemissierechten is gekoppeld; 
+b. de projectdeelnemer zijn hoofdvestiging niet heeft in een staat die de internationale overeenkomst, bedoeld in artikel 11ter, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten, heeft bekrachtigd, of in een staat of een subfederale of regionale entiteit die overeenkomstig artikel 25 van genoemde richtlijn aan het systeem van handel in broeikasgasemissierechten is gekoppeld, en  
 
-c.voorzover het gaat om projectactiviteiten voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW: bij de projectactiviteit en de uitvoering daarvan de in artikel 11ter, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde internationale normen en richtsnoeren, waaronder de richtlijnen van de Wereldcommissie Stuwdammen, in acht worden genomen;
+c. voor zover het gaat om projectactiviteiten voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW: bij de projectactiviteit en de uitvoering daarvan de in artikel 11ter, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde internationale normen en richtsnoeren, waaronder de richtlijnen van de Wereldcommissie Stuwdammen, niet in acht worden genomen.     
+4.  Instemming kan worden geweigerd, indien: 
 
-d. is voldaan aan de nadere regels, bedoeld in het vierde lid.  
-4. Bij regeling van Onze Minister kunnen met betrekking tot het derde lid nadere regels worden gesteld. 
-5.  De instemming kan worden geweigerd, indien van een andere projectactiviteit waarbij de projectdeelnemer is of was betrokken en waarvoor Onze Minister reeds instemming heeft verleend, is gebleken dat niet is voldaan aan de eisen die in het derde lid met betrekking tot die uitvoering zijn gesteld.  
+a. van een andere projectactiviteit waarbij de projectdeelnemer is of was betrokken en waarvoor Onze Minister instemming heeft verleend, is gebleken dat niet is voldaan aan de eisen die in het derde lid met betrekking tot die uitvoering zijn gesteld;  
+
+b. niet wordt voldaan aan de regels, bedoeld in het vijfde lid.     
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de instemming, bedoeld in het tweede lid, met deelname aan projectactiviteiten.  
 6. Een verleende instemming omvat mede de machtiging van de betrokken projectdeelnemer, voorzover een dergelijke machtiging op grond van de artikelen 6, derde lid, en 12, negende lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is vereist. Indien de eerste volzin van toepassing is, wordt in de beslissing op het verzoek aangegeven dat de instemming mede de machtiging omvat. 
-7.  Een verleende instemming kan worden ingetrokken, indien niet meer wordt voldaan aan de eisen, gesteld in het derde lid, onder a of b, of, voor zover van toepassing, onder c, of de nadere regels, bedoeld in het vierde lid.  
+7.  Een verleende instemming kan worden ingetrokken, indien niet meer wordt voldaan aan de eisen, gesteld in het derde lid, onder a of b, of, voor zover van toepassing, onder c, of de nadere regels, bedoeld in het vijfde lid.  
 8. Bij regeling van Onze Minister kan worden bepaald dat voor het verlenen van instemming een vergoeding is verschuldigd. In dat geval worden bij die regeling tevens nadere regels gesteld met betrekking tot de hoogte van de vergoeding en de wijze waarop deze moet worden betaald. 
 9. Onze Minister stelt bij hem berustende informatie over projectactiviteiten waarvoor hij instemming heeft verleend, voor het publiek beschikbaar. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.
 
@@ -5107,7 +5110,7 @@ Indien de situatie, bedoeld in artikel 17.5a, eerste lid, betrekking heeft op ee
 2. Degene die de afvalvoorziening drijft, volgt de in het eerste lid bedoelde instructies op en draagt de kosten voor de getroffen preventieve of herstelmaatregelen. 
 3. Het bevoegd gezag kan zelf elke nodige preventieve of herstelmaatregel treffen of de uitvoering daarvan opdragen aan derden. 
 4. Een beslissing als bedoeld in het derde lid wordt op schrift gesteld. De schriftelijke beslissing is een beschikking. 
-5. In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteiten verricht. Artikel 5:26 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
+5.  In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteiten verricht. Het bevoegd gezag stelt de hoogte van de verschuldigde kosten bij beschikking vast. Het bevoegd gezag kan de kosten invorderen bij dwangbevel.  
 6. Artikel 17.4 is van overeenkomstige toepassing.
 
 ###Artikel 17.5d 
@@ -5138,25 +5141,22 @@ b. voor de toepassing van deze titel alle overige verwijzingen in titel 17.1 naa
 
 2°. elke vorm van schade aan wateren die een aanmerkelijke negatieve invloed heeft op de ecologische, chemische of kwantitatieve toestand of het ecologisch potentieel, als omschreven in de kaderrichtlijn water, van de betrokken wateren, met uitzondering van de negatieve effecten waarop artikel 4, zevende lid, van die richtlijn van toepassing is;  
 
-3°. elke vorm van bodemverontreiniging die een aanmerkelijk risico inhoudt voor negatieve effecten op de menselijke gezondheid, waarbij direct of indirect op, in of onder de bodem, stoffen, preparaten, organismen of micro-organismen gebracht zijn;  *milieuschade of een onmiddellijke dreiging daarvan:* milieuschade of een voldoende waarschijnlijkheid dat zich in de nabije toekomst milieuschade zal voordoen;  *natuurlijke habitats:* habitats van de soorten als bedoeld in artikel 2, derde lid, onder b, van EG-richtlijn milieuaansprakelijkheid;   *natuurlijke regeneratie:*  
+3°. elke vorm van bodemverontreiniging die een aanmerkelijk risico inhoudt voor negatieve effecten op de menselijke gezondheid, waarbij direct of indirect op, in of onder de bodem, stoffen, preparaten, organismen of micro-organismen gebracht zijn;  *milieuschade of een onmiddellijke dreiging daarvan:* milieuschade of een voldoende waarschijnlijkheid dat zich in de nabije toekomst milieuschade zal voordoen;  *natuurlijke habitats:* habitats van de soorten, natuurlijke habitats en voortplantings- of rustplaatsen als bedoeld in artikel 2, derde lid, onder b, van EG-richtlijn milieuaansprakelijkheid;   *natuurlijke regeneratie:*  
 
 1°. in het geval van schade aan wateren, beschermde soorten of natuurlijke habitats: de terugkeer van aangetaste natuurlijke rijkdommen en ecosysteemfuncties tot de referentietoestand;  
 
 2°. in geval van bodemverontreiniging: het verdwijnen van een aanmerkelijk gevaar van een nadelig effect op de menselijke gezondheid;  *natuurlijke rijkdommen:* beschermde soorten, natuurlijke habitats, wateren of bodem;  *preventieve maatregelen:* maatregelen naar aanleiding van een gebeurtenis, handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is ontstaan, teneinde die schade te voorkomen of tot een minimum te beperken;  *referentietoestand:* de toestand waarin de natuurlijke rijkdommen of ecosysteemfuncties zich ten tijde van de schade zouden hebben bevonden indien zich geen milieuschade had voorgedaan, gereconstrueerd aan de hand van de beste beschikbare informatie;  *schade:* meetbare negatieve verandering in de natuurlijke rijkdommen of aantasting van een ecosysteemfunctie, die direct of indirect optreedt;  *staat van instandhouding:* staat van instandhouding als bedoeld in artikel 2, vierde lid, van EG-richtlijn milieuaansprakelijkheid;  *wateren:* wateren waarop de kaderrichtlijn water van toepassing is.   
 2. In afwijking van het bepaalde in artikel 1.1 wordt in deze titel en de daarop berustende bepalingen onder *emissie* verstaan: het als gevolg van menselijke activiteiten in het milieu brengen van stoffen, preparaten, organismen of micro-organismen.
-3. Een wijziging van een van de bijlagen bij EG-richtlijn milieuaansprakelijkheid gaat voor de toepassing van deze titel en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld. 
+3. Een wijziging van een van de bijlagen bij EG-richtlijn milieuaansprakelijkheid gaat voor de toepassing van deze titel en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
+4.  Onder schade aan beschermde soorten en natuurlijke habitats wordt voor de toepassing van deze titel mede begrepen schade aan deze soorten en habitats binnen de exclusieve economische zone. 
 
 ### Artikel  17.7  
 
 Deze titel is van toepassing op: 
 
-a. milieuschade of een onmiddellijke dreiging daarvan die wordt veroorzaakt door: 
+a. milieuschade of een onmiddellijke dreiging daarvan die wordt veroorzaakt door activiteiten als bedoeld in bijlage III bij de EG-richtlijn milieuaansprakelijkheid;  
 
-1°. activiteiten als bedoeld in bijlage III bij EG-richtlijn milieuaansprakelijkheid;  
-
-2°. andere bij algemene maatregel van bestuur aangewezen activiteiten;    
-
-b. milieuschade aan beschermde soorten of natuurlijke habitats of een onmiddellijke dreiging daarvan die wordt veroorzaakt door een andere activiteit dan bedoeld onder a, onderdeel 1°, indien degene die de activiteit verricht schuld of nalatigheid kan worden verweten.   
+b. milieuschade aan beschermde soorten of natuurlijke habitats of een onmiddellijke dreiging daarvan die wordt veroorzaakt door een andere activiteit dan bedoeld onder a, indien degene die de activiteit verricht schuld of nalatigheid kan worden verweten.   
 
 ### Artikel  17.8  
 
@@ -5361,16 +5361,24 @@ c. klachten die betrekking hebben op de naleving van het met betrekking tot de i
 
 ### Artikel  18.2b  
 
-1. Onze betrokken Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de titels 9.2 tot en met 9.5 en krachtens artikel 17.19.
-2. Onze betrokken Minister heeft tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels. 
-3.  Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens hoofdstuk 10 gestelde verplichtingen, voor zover zij betrekking hebben op: 
+1.  Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens: 
+
+a. de titels 9.2 tot en met 9.5 en artikel 17.19;  
+
+b. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;  
+
+c. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;  
+
+d. de EG-verordening overbrenging van afvalstoffen.     
+2.  Onverminderd het eerste lid hebben Onze Ministers van Economische Zaken, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de titels 9.2, 9.3 en 9.3a, de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels voor zover het bepaalde bij of krachtens genoemde titels of verordeningen betrekking heeft op beleid dat tot hun verantwoordelijkheid behoort.  
+3.  In afwijking van het eerste lid kan bij een amvb als bedoeld in artikel 9.2.2.1, eerste lid, worden bepaald dat gedeputeerde staten of burgemeester en wethouders in plaats van Onze Minister of Onze betrokken Minister tot taak hebben zorg te dragen voor de bestuursrechtelijke handhaving van bij de amvb gestelde regels of van daaromtrent gestelde nadere regels.  
+4.  Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens hoofdstuk 10 gestelde verplichtingen, voor zover zij betrekking hebben op: 
 
 a. overbrengen van afvalstoffen als bedoeld in titel 10.7;  
 
 b. het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in artikel 10.45;  
 
-c. verhandelen, bemiddelen of vervoeren als bedoeld in artikel 10.55.     
-4.  Onze Minister heeft tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens de EG-verordening overbrenging van afvalstoffen gestelde verplichtingen.   
+c. verhandelen, bemiddelen of vervoeren als bedoeld in artikel 10.55.    
 
 ### Artikel  18.2c  
 
@@ -5744,7 +5752,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 7. Krachtens titel 9.2 worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en preparaten door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien krachtens artikel 6.6 juncto artikel 6.2 of 6.3 van de Waterwet. 
 8.  Titel 9.5 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de Wet vervoer gevaarlijke stoffen.   
 9.   Artikel 9.5.2 en hoofdstuk 10 zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:  de Wet gewasbeschermingsmiddelen en biociden,  de Wet voorkoming verontreiniging door schepen,  de hoofdstuk 3, paragraaf 3, van de Wet dieren, de Meststoffenwet,  de Scheepvaartverkeerswet,  de artikelen 3.1, 3.3 tot en met 3.6, 6.4 en 7.1 van de Wet dieren met betrekking tot dierlijke bijproducten,  de Kernenergiewet, de Waterwet, behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.    
-10.  Artikel 9.5.2 en hoofdstuk 10, met uitzondering van titel 10.7, zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de Kaderwet diervoeders. 
+10.  Artikel 9.5.2 en hoofdstuk 10, met uitzondering van titel 10.7, zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften met betrekking tot diervoeders gelden, die zijn gesteld bij of krachtens de Wet dieren. 
 
 ### Artikel  22.2  
 

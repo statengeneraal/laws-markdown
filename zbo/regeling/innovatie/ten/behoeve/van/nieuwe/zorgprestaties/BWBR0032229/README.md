@@ -2,7 +2,7 @@
 
 ##Regeling Innovatie ten behoeve van nieuwe zorgprestaties
 
-Vastgesteld door de Raad van Bestuur op 2 oktober 2012. Ingevolge de [artikelen 36, derde lid](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [37](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [38 derde en zevende lid van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld: Regeling Innovatie ten behoeve van nieuwe zorgprestaties.   
+Vastgesteld door de Raad van Bestuur op 2 oktober 2012. Ingevolge de artikelen 36, derde lid, 37, 38 derde en zevende lid van de Wet marktordening gezondheidszorg (Wmg), heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld: Regeling Innovatie ten behoeve van nieuwe zorgprestaties.   
 ### 1  
 
 ####Reikwijdte regeling
@@ -26,21 +26,21 @@ In deze regeling wordt verstaan onder:
 
 ####Zorgaanbieder
 
-De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1 aanhef en onder c van de Wmg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
+De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in artikel 1 aanhef en onder c van de Wmg.    
 ### 3.2  
 
 ####Ziektekostenverzekeraar
 
-– een zorgverzekeraar: een rechtspersoon als bedoeld in [artikel 1 onder b Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (Zvw);  
+– een zorgverzekeraar: een rechtspersoon als bedoeld in artikel 1 onder b Zorgverzekeringswet (Zvw);  
 
-– een AWBZ-verzekeraar: als bedoeld in [artikel 1 onder e van de Wmg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+– een AWBZ-verzekeraar: als bedoeld in artikel 1 onder e van de Wmg;  
 
-– een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen.      
+– een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen.      
 ### 3.3  
 
 ####Innovatieve zorgprestatie
 
-De zorgprestatie waarmee geëxperimenteerd wordt, als bedoeld in de [Beleidsregel Innovatie ten behoeve van nieuwe zorgprestaties](../../../../../../../../../zbo/regeling/innovatie/ten/behoeve/van/nieuwe/zorgprestaties/BWBR0030691/README.md). Deze zorgprestatie is nog niet eerder vastgesteld door de NZa als reguliere zorgprestatie.    
+De zorgprestatie waarmee geëxperimenteerd wordt, als bedoeld in de Beleidsregel Innovatie ten behoeve van nieuwe zorgprestaties. Deze zorgprestatie is nog niet eerder vastgesteld door de NZa als reguliere zorgprestatie.    
 ### 3.4  
 
 ####Kortdurend kleinschalig experiment
@@ -80,7 +80,7 @@ De overeenkomst die een aansluiter aangaat met de experimenteerpartijen en welke
 
 ####Individuele beschikking
 
-De beschikking waarmee de innovatieve zorgprestatie zoals overeengekomen tussen zorgaanbieder(s) en ziektekostenverzekeraar(s), gedeclareerd en vergoed kan worden. Voor experimenten met AWBZ-zorg is dit een beschikking en voor experimenten met [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en overige [Wmg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zorg wordt een prestatiebeschrijvingbeschikking afgegeven.     
+De beschikking waarmee de innovatieve zorgprestatie zoals overeengekomen tussen zorgaanbieder(s) en ziektekostenverzekeraar(s), gedeclareerd en vergoed kan worden. Voor experimenten met AWBZ-zorg is dit een beschikking en voor experimenten met Zvw en overige Wmg zorg wordt een prestatiebeschrijvingbeschikking afgegeven.     
 ### 4  
 
 ####Administratievoorschriften
@@ -98,7 +98,7 @@ b. het tarief van de innovatieve zorgprestatie.
 
 5.1  De zorgaanbieder declareert geen innovatieve zorgprestatie indien de zorg reeds op andere wijze wordt gedeclareerd dan wel bekostigd.  
 
-5.2  De zorgaanbieder dient op de declaratie onderscheid te maken tussen [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of overige Wmg zorg.  
+5.2  De zorgaanbieder dient op de declaratie onderscheid te maken tussen Zvw, AWBZ of overige Wmg zorg.  
 
 5.3  De zorgaanbieder declareert de innovatieve zorgprestatie uitsluitend aan: 
 
@@ -106,17 +106,17 @@ a. een ziektekostenverzekeraar met wie daartoe een experimentovereenkomst of aan
 
 b. aan een verzekerde die een daartoe strekkende verzekeringsovereenkomst heeft gesloten bij een onder 5.3 a genoemde ziektekostenverzekeraar.    
 
-5.4  De zorgaanbieder declareert de innovatieve zorgprestatie van experimenten met [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of overige Wmg-zorg aan de hand van de codes zoals deze zijn op te vragen bij Vektis.      
+5.4  De zorgaanbieder declareert de innovatieve zorgprestatie van experimenten met Zvw of overige Wmg-zorg aan de hand van de codes zoals deze zijn op te vragen bij Vektis.      
 ### 6  
 
 ####Intrekking
 
-Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling Innovatie ten behoeve van nieuwe zorgprestaties](../../../../../../../../../zbo/regeling/innovatie/ten/behoeve/van/nieuwe/zorgprestaties/BWBR0030691/README.md) (AL/NR-0001) ingetrokken.    
+Gelijktijdig met de inwerkingtreding van deze regeling wordt de Regeling Innovatie ten behoeve van nieuwe zorgprestaties (AL/NR-0001) ingetrokken.    
 ### 7  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 november 2012. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b, van de Wmg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 31 oktober 2012, treedt de regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 november 2012.      Deze regeling kan worden aangehaald als: ‘Regeling Innovatie ten behoeve van nieuwe zorgprestaties’.  
+Deze regeling treedt in werking op 1 november 2012. Indien de Staatscourant waarin de mededeling als bedoeld in artikel 20, tweede lid, sub b, van de Wmg wordt geplaatst, wordt uitgegeven na 31 oktober 2012, treedt de regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 november 2012.      Deze regeling kan worden aangehaald als: ‘Regeling Innovatie ten behoeve van nieuwe zorgprestaties’.  
 
 De Raad van Bestuur van de Nederlandse Zorgautoriteit, 
 T.W. Langejan,  

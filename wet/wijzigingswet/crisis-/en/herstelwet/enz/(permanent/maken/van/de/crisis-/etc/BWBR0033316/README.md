@@ -6,11 +6,11 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met het permanent maken van de [Crisis- en herstelwet](../../../../../../../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) die wet voor onbepaalde tijd te verlengen alsmede die wet en diverse andere wetten te wijzigen met het oog op het aanbrengen van enkele verbeteringen op het terrein van het omgevingsrecht;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met het permanent maken van de Crisis- en herstelwet die wet voor onbepaalde tijd te verlengen alsmede die wet en diverse andere wetten te wijzigen met het oog op het aanbrengen van enkele verbeteringen op het terrein van het omgevingsrecht;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 ###Hoofdstuk 1 
 
-####Wijziging en verlenging van de [Crisis- en herstelwet](../../../../../../../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md)
+####Wijziging en verlenging van de Crisis- en herstelwet
 
 Wijzigt de Crisis- en herstelwet.  
 ### Hoofdstuk  2  
@@ -134,7 +134,7 @@ Wijzigt de Onteigeningswet.
 ### Artikel  3.1  
 
 1.  Hoofdstuk 2, afdeling 1, zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van hoofdstuk I, onderdeel E, van deze wet, blijft van toepassing op de voorbereiding en vaststelling van een gebiedsontwikkelingsplan, indien het ontwerp van dat plan voor dat tijdstip ter inzage is gelegd.   
-2.  Een gebiedsontwikkelingsplan als bedoeld in [artikel 2.3, eerste lid, van de Crisis- en herstelwet](../../../../../../../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), zoals dat luidde voor het tijdstip van inwerkingtreding van hoofdstuk I, onderdeel E, van deze wet, wordt nadat het onherroepelijk is vastgesteld, in samenhang met het bestemmingsplan waarvan het deel uitmaakt, gelijkgesteld met een bestemmingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dit komt te luiden, nadat hoofdstuk I, onderdeel E, van deze wet in werking is getreden.  
+2.  Een gebiedsontwikkelingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dat luidde voor het tijdstip van inwerkingtreding van hoofdstuk I, onderdeel E, van deze wet, wordt nadat het onherroepelijk is vastgesteld, in samenhang met het bestemmingsplan waarvan het deel uitmaakt, gelijkgesteld met een bestemmingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dit komt te luiden, nadat hoofdstuk I, onderdeel E, van deze wet in werking is getreden.  
 
 ### Artikel  3.2  
 Treedt in werking op een nader te bepalen tijdstip 

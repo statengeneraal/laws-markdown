@@ -3,18 +3,20 @@
 ##Regeling van de Staatssecretaris van Veiligheid en Justitie van 2 december 2011, nr. 194986, houdende vaststelling van de maximumbedragen voor de uitkeringen op grond van de Wet schadefonds geweldsmisdrijven (Regeling maximumbedragen uitkeringen schadefonds geweldsmisdrijven)
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelet op [artikel 4, tweede lid, van de Wet schadefonds geweldsmisdrijven](../../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md);
+Gelet op artikel 4, tweede lid, van de Wet schadefonds geweldsmisdrijven;
 Besluit:    
 
 ### Artikel  1  
 
 ####Maximumbedragen van de uitkeringen
 
-De bedragen, die ten hoogste uit het fonds kunnen worden uitgekeerd aan de personen, bedoeld in [artikel 3 van de Wet schadefonds geweldsmisdrijven](../../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md), worden als volgt vastgesteld: 
+De bedragen, die ten hoogste uit het fonds kunnen worden uitgekeerd aan de personen, bedoeld in artikel 3 van de Wet schadefonds geweldsmisdrijven, worden als volgt vastgesteld: 
 
 a. indien de uitkering betrekking heeft op vermogensschade: € 25 000;  
 
-b. indien de uitkering betrekking heeft op andere dan vermogensschade: € 10 000.   
+b. indien de uitkering betrekking heeft op andere dan vermogensschade: € 10 000;  
+
+c.indien de uitkering betrekking heeft op zowel vermogensschade, als andere dan vermogensschade:€ 35.000. 
 
 ### Artikel  2  
 

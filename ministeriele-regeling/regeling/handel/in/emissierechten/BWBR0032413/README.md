@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu van 5 december 2012 nr. IenM/BSK-2012/239553, ter implementatie en uitvoering van het Europese systeem van handel in broeikasgasemissierechten (Regeling handel in emissierechten)
 
 De Staatssecretaris van Infrastructuur en Milieu;  
-Gelet op EU-richtlijn nr. 2003/87/EG (handel in broeikasgasemissierechten), de EU-verordeningen nr. 920/2010 (register handel in broeikasgasemissierechten), nr. 1031/2012 (veiling broeikasgasemissierechten), nr. 600/2012 (verificatie en accreditatie emissiehandel) en nr. 601/2012 (monitoring en rapportage emissiehandel), de EU-beschikkingen nr. 280/2004 (register handel in broeikasgasemissierechten) en nr. 2009/450 (nadere interpretatie van bijlage I bij richtlijn 2003/87/EG) en de [artikelen 16.6](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.12](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.13a](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.14](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.21](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.23, tweede lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.29](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.32, zesde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), 16.34b, [16.39b](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39h](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in verbinding met de [artikelen 16.12](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [16.14](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39j, zevende lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [16.45 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op EU-richtlijn nr. 2003/87/EG (handel in broeikasgasemissierechten), de EU-verordeningen nr. 920/2010 (register handel in broeikasgasemissierechten), nr. 1031/2012 (veiling broeikasgasemissierechten), nr. 600/2012 (verificatie en accreditatie emissiehandel) en nr. 601/2012 (monitoring en rapportage emissiehandel), de EU-beschikkingen nr. 280/2004 (register handel in broeikasgasemissierechten) en nr. 2009/450 (nadere interpretatie van bijlage I bij richtlijn 2003/87/EG) en de artikelen 16.6, 16.12, 16.13a, 16.14, 16.21, 16.23, tweede lid, 16.29, 16.32, zesde lid, 16.34b, 16.39b, 16.39h in verbinding met de artikelen 16.12 en 16.14, 16.39j, zevende lid, en 16.45 van de Wet milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -51,11 +51,11 @@ In deze regeling wordt verstaan onder:
 
 *subinstallatie:* productenbenchmark-, warmtebenchmark-, brandstofbenchmark- of procesemissiesubinstallatie als bedoeld in artikel 6 van Besluit 2011/278/EU in verbinding met artikel 3, onderdeel b, c, d of h, van dat besluit;  
 
-*wet:* [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
+*wet:* Wet milieubeheer.    
 
 ### Artikel  1a  
 
-Deze regeling berust mede op richtlijn nr. 2004/101/EG van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 houdende wijziging van Richtlijn 2003/87/EG tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, met betrekking tot de projectgebonden mechanismen van het Protocol van Kyoto (PbEU L 338), op het op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110) en op de [artikelen 16.46b, vierde en achtste lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Deze regeling berust mede op richtlijn nr. 2004/101/EG van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 houdende wijziging van Richtlijn 2003/87/EG tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, met betrekking tot de projectgebonden mechanismen van het Protocol van Kyoto (PbEU L 338), op het op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110) en op de artikelen 16.46b, vierde en achtste lid, van de wet. 
 
 ### Artikel  2  
 
@@ -66,7 +66,7 @@ Deze regeling berust mede op richtlijn nr. 2004/101/EG van het Europees Parlemen
 
 a. 243 vluchten of meer in een periode van vier maanden uitvoert, en  
 
-b. vluchten met een totale jaarlijkse emissie van 10.000 ton of meer uitvoert,   valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of overschreden onder de reikwijdte van [afdeling 16.2.2 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+b. vluchten met een totale jaarlijkse emissie van 10.000 ton of meer uitvoert,   valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of overschreden onder de reikwijdte van afdeling 16.2.2 van de wet.   
 3.  De lokale tijd van vertrek van de vlucht bepaalt welke periode van vier maanden als bedoeld in het tweede lid in aanmerking wordt genomen.   
 4.  Bij de toepassing van het tweede lid worden vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder a tot en met i, bij de EG-richtlijn handel in broeikasgasemissierechten buiten beschouwing gelaten.  
 
@@ -74,7 +74,7 @@ b. vluchten met een totale jaarlijkse emissie van 10.000 ton of meer uitvoert,  
 
 ####Begripsbepalingen bij interpretatie handel in broeikasgasemissierechten luchtvaart
 
-Voor de toepassing van artikel 2 en de op dat artikel berustende bijlage wordt verstaan onder: commerciële luchtvervoersonderneming: exploitant die houder is van een bewijs luchtvaartexploitant (AOC) als bedoeld in deel I van bijlage 6 bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109); CRCO-vrijstellingscode: code voor vluchten aangewezen door het Centraal Bureau voor routeheffingen van de Eurocontrol-organisatie, bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), voor de vrijstelling van vluchten van routeheffingen; periode van vier maanden: periode van vier maanden, beslaande de maanden januari tot en met april, mei tot en met augustus of september tot en met december; vlucht: één vluchtsector, zijnde één vlucht of één van een reeks van vluchten die begint op een parkeerplaats van het luchtvaartuig en eindigt op een parkeerplaats van het luchtvaartuig. 
+Voor de toepassing van artikel 2 en de op dat artikel berustende bijlage wordt verstaan onder: commerciële luchtvervoersonderneming: exploitant die houder is van een bewijs luchtvaartexploitant (AOC) als bedoeld in deel I van bijlage 6 bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109); CRCO-vrijstellingscode: code voor vluchten aangewezen door het Centraal Bureau voor routeheffingen van de Eurocontrol-organisatie, bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart, voor de vrijstelling van vluchten van routeheffingen; periode van vier maanden: periode van vier maanden, beslaande de maanden januari tot en met april, mei tot en met augustus of september tot en met december; vlucht: één vluchtsector, zijnde één vlucht of één van een reeks van vluchten die begint op een parkeerplaats van het luchtvaartuig en eindigt op een parkeerplaats van het luchtvaartuig. 
 
 ### Hoofdstuk  2  
 
@@ -92,7 +92,7 @@ Voor de toepassing van artikel 2 en de op dat artikel berustende bijlage wordt
 
 ####Toepassingsbereik
 
-Deze afdeling heeft het toepassingsbereik van [afdeling 16.2.1 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Deze afdeling heeft het toepassingsbereik van afdeling 16.2.1 van de wet. 
 
 ### §  2.1.2  
 
@@ -102,15 +102,15 @@ Deze afdeling heeft het toepassingsbereik van [afdeling 16.2.1 van de wet](../
 
 ####Aanvraag vergunning
 
-1.  De aanvraag om een vergunning krachtens [artikel 16.5 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of de aanvraag tot wijziging, aanvulling of intrekking van een vergunning, bedoeld in [artikel 16.20a van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt gedaan door of namens degene die de inrichting, waarop de aanvraag betrekking heeft, drijft.   
+1.  De aanvraag om een vergunning krachtens artikel 16.5 van de wet of de aanvraag tot wijziging, aanvulling of intrekking van een vergunning, bedoeld in artikel 16.20a van de wet, wordt gedaan door of namens degene die de inrichting, waarop de aanvraag betrekking heeft, drijft.   
 2.  Het monitoringsplan maakt onderdeel uit van de aanvraag.  
 
 ### Artikel  6  
 
 ####Aanvraag vergunning voor CO<sub>2</sub>-transportactiviteiten
 
-1.  De aanvraag om een vergunning voor het transport van CO<sub>2</sub>, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, bevat gegevens waaruit blijkt dat de aanvrager van de vergunning degene is die de inrichting drijft als bedoeld in [artikel 16.2a, tweede lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en verantwoordelijk is voor de uitvoering van de verplichtingen krachtens de Verordening monitoring en rapportage emissiehandel, [afdeling 16.2.1 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en deze regeling.   
-2.  De vergunninghouder voor het transport van CO<sub>2</sub>, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, levert bij een melding van een verandering van de naam of adres van de vergunninghouder gegevens waaruit blijkt dat de vergunninghouder degene is die de inrichting drijft als bedoeld in [artikel 16.2a, tweede lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en verantwoordelijk is voor de uitvoering van de verplichtingen krachtens de Verordening monitoring en rapportage emissiehandel, [afdeling 16.2.1 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en deze regeling.  
+1.  De aanvraag om een vergunning voor het transport van CO<sub>2</sub>, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, bevat gegevens waaruit blijkt dat de aanvrager van de vergunning degene is die de inrichting drijft als bedoeld in artikel 16.2a, tweede lid, van de wet en verantwoordelijk is voor de uitvoering van de verplichtingen krachtens de Verordening monitoring en rapportage emissiehandel, afdeling 16.2.1 van de wet en deze regeling.   
+2.  De vergunninghouder voor het transport van CO<sub>2</sub>, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, levert bij een melding van een verandering van de naam of adres van de vergunninghouder gegevens waaruit blijkt dat de vergunninghouder degene is die de inrichting drijft als bedoeld in artikel 16.2a, tweede lid, van de wet en verantwoordelijk is voor de uitvoering van de verplichtingen krachtens de Verordening monitoring en rapportage emissiehandel, afdeling 16.2.1 van de wet en deze regeling.  
 
 ### Artikel  7  
 
@@ -248,7 +248,7 @@ Goedkeuring van het verslag, bedoeld in artikel 69 van de Verordening monitorin
 
 ####Toepassingsbereik
 
-Deze afdeling heeft het toepassingsbereik van [afdeling 16.2.2 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Deze afdeling heeft het toepassingsbereik van afdeling 16.2.2 van de wet. 
 
 ### §  2.2.2  
 
@@ -297,7 +297,7 @@ b. een door Nederland of een andere lidstaat geaccepteerd nationaal systeem.
 
 ####Termijn goedkeuring monitoringsplan voor emissies en tonkilometergegevens
 
-Het bestuur van de emissieautoriteit beslist omtrent goedkeuring van een monitoringsplan als bedoeld in artikel 12, eerste lid, van de Verordening monitoring en rapportage, en de [artikelen 16.39d](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39j, vierde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [16.39n, tweede lid, tweede volzin](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), in verbinding met [artikel 16.39j, vierde lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) binnen vier maanden na de dag waarop dit bestuur het ontwerp van het monitoringsplan heeft ontvangen. 
+Het bestuur van de emissieautoriteit beslist omtrent goedkeuring van een monitoringsplan als bedoeld in artikel 12, eerste lid, van de Verordening monitoring en rapportage, en de artikelen 16.39d, 16.39j, vierde lid, en 16.39n, tweede lid, tweede volzin, in verbinding met artikel 16.39j, vierde lid, van de wet binnen vier maanden na de dag waarop dit bestuur het ontwerp van het monitoringsplan heeft ontvangen. 
 
 ### §  2.2.5  
 
@@ -399,7 +399,7 @@ De in artikel 33 bedoelde gegevens worden verstrekt en het methodologieverslag 
 ####Algemene eisen inzake de bepaling van in artikel 33  bedoelde gegevens
 
 1.  Degene die een inrichting drijft, bepaalt de in artikel 33 bedoelde gegevens overeenkomstig Besluit 2011/278/EU.   
-2.  Indien zich binnen de inrichting installaties bevinden waarop [afdeling 16.2.1 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is en indien op de inrichting op grond van Besluit 2011/278/EU een warmtebenchmark, een brandstofbenchmark of een aan procesemissies gerelateerde benchmark van toepassing is, bepaalt degene die de inrichting drijft het jaarlijkse verbruik van brandstoffen, bedoeld in artikel 33, tweede lid, onder c, en de daarbij behorende parameters onderscheidenlijk de procesemissies, bedoeld in artikel 33, tweede lid, onder d, en de daarbij behorende parameters voor zover mogelijk overeenkomstig de op de inrichting van toepassing zijnde eisen van deze regeling.   
+2.  Indien zich binnen de inrichting installaties bevinden waarop afdeling 16.2.1 van de wet van toepassing is en indien op de inrichting op grond van Besluit 2011/278/EU een warmtebenchmark, een brandstofbenchmark of een aan procesemissies gerelateerde benchmark van toepassing is, bepaalt degene die de inrichting drijft het jaarlijkse verbruik van brandstoffen, bedoeld in artikel 33, tweede lid, onder c, en de daarbij behorende parameters onderscheidenlijk de procesemissies, bedoeld in artikel 33, tweede lid, onder d, en de daarbij behorende parameters voor zover mogelijk overeenkomstig de op de inrichting van toepassing zijnde eisen van deze regeling.   
 3.  Degene die een inrichting drijft, neemt bij het bepalen van de in artikel 33 bedoelde gegevens alle subinstallaties in acht alsmede alle voor de van toepassing zijnde benchmark relevante producten, warmtestromen, brandstofstromen, materiaalstromen en bronnen die samenhangen met de activiteiten, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten. Daarbij worden dubbeltellingen voorkomen.   
 4.  Degene die een inrichting drijft, zorgt ervoor dat de in artikel 33 bedoelde gegevens consistent zijn over de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. Degene die de inrichting drijft, maakt daartoe zoveel mogelijk gebruik van dezelfde monitoringsmethodieken en gegevensbestanden.   
 5.  Degene die een inrichting drijft, verzamelt, registreert, analyseert en documenteert de in artikel 33 bedoelde gegevens.   
@@ -463,7 +463,7 @@ f. het doen van een verzoek als bedoeld in het derde lid.
 
 ####Toewijzing aan nieuwkomers
 
-1.  Voor de aanvraag om kosteloze toewijzing van broeikasgasemissierechten, bedoeld in [artikel 16.32, eerste lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.   
+1.  Voor de aanvraag om kosteloze toewijzing van broeikasgasemissierechten, bedoeld in artikel 16.32, eerste lid, van de wet, wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.   
 2.  De bij de aanvraag verstrekte gegevens gaan vergezeld van een verificatierapport van een verificateur. De artikelen 38 tot en met 41 zijn van overeenkomstig toepassing.   
 3.  Degene die een aanvraag om kosteloze toewijzing doet, kan de benodigde gegevens per afzonderlijke broeikasgasinstallatie binnen de inrichting verstrekken.   
 4.  Het derde lid geldt niet voor broeikasgasinstallaties waarvoor al eerder gegevens zijn aangeleverd ter uitvoering van dit artikel of van artikel 33.   
@@ -471,13 +471,13 @@ f. het doen van een verzoek als bedoeld in het derde lid.
 
 ### §  3.4  
 
-#### *Toepassing *[artikel 16.34a van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) 
+#### *Toepassing *artikel 16.34a van de wet 
 
 ### Artikel  43  
 
 ####Aanleveren gegevens bij een voornemen tot wijziging van het toewijzingsbesluit
 
-1.  Indien de minister voornemens is toepassing te geven aan [artikel 16.34a van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), levert degene die een inrichting drijft, die onder de desbetreffende bedrijfstak of deeltak valt, op verzoek van het bestuur van de emissieautoriteit binnen dertien weken na ontvangst van dit verzoek de benodigde gegevens aan ten behoeve van de berekening van de aantallen broeikasgasemissierechten, met het oog op wijziging van het besluit houdende kosteloze toewijzing van broeikasgasemissierechten.   
+1.  Indien de minister voornemens is toepassing te geven aan artikel 16.34a van de wet, levert degene die een inrichting drijft, die onder de desbetreffende bedrijfstak of deeltak valt, op verzoek van het bestuur van de emissieautoriteit binnen dertien weken na ontvangst van dit verzoek de benodigde gegevens aan ten behoeve van de berekening van de aantallen broeikasgasemissierechten, met het oog op wijziging van het besluit houdende kosteloze toewijzing van broeikasgasemissierechten.   
 2.  De gevraagde gegevens gaan vergezeld van een verificatierapport van een verificateur.   
 3.  De artikelen 38 tot en met 41 zijn van overeenkomstige toepassing.  
 
@@ -489,7 +489,7 @@ f. het doen van een verzoek als bedoeld in het derde lid.
 
 ####Gehele beëindiging werking broeikasgasinstallatie
 
-1.  Indien de werking van een broeikasgasinstallatie geheel wordt beëindigd als bedoeld in artikel 22, eerste lid, van Besluit 2011/278/EU, meldt de vergunninghouder dit schriftelijk aan het bestuur van de emissieautoriteit onder vermelding van de ingangsdatum van de beëindiging. Onder het geheel beëindigen van de werking van een broeikasgasinstallatie wordt tevens verstaan de omstandigheid dat [afdeling 16.2.1. van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet langer van toepassing is.   
+1.  Indien de werking van een broeikasgasinstallatie geheel wordt beëindigd als bedoeld in artikel 22, eerste lid, van Besluit 2011/278/EU, meldt de vergunninghouder dit schriftelijk aan het bestuur van de emissieautoriteit onder vermelding van de ingangsdatum van de beëindiging. Onder het geheel beëindigen van de werking van een broeikasgasinstallatie wordt tevens verstaan de omstandigheid dat afdeling 16.2.1. van de wet niet langer van toepassing is.   
 2.  De melding wordt gedaan binnen zes weken nadat de werking van de broeikasgasinstallatie geheel is beëindigd. Indien de werking van de broeikasgasinstallatie geheel is beëindigd in de maand december van enig jaar, wordt de melding gedaan voor 20 januari van het daarop volgende kalenderjaar.   
 3.  Het bestuur van de emissieautoriteit kan op verzoek van de vergunninghouder de in artikel 22, eerste lid, onderdeel e, van Besluit 2011/278/EU genoemde termijn van zes maanden verlengen, overeenkomstig het bepaalde in dat onderdeel.  
 
@@ -688,8 +688,8 @@ c. € 400 voor zover het gaat om andere projectactiviteiten.
 
 ### Artikel  62  
 
-1.  De deelname van een projectdeelnemer aan een projectactiviteit voldoet aan [artikel 16.46b, derde lid, onderdeel a, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), indien hij een verklaring als bedoeld in artikel 58, tweede lid, onderdeel c, heeft overgelegd.   
-2.  Een projectactiviteit en de uitvoering daarvan voldoen aan de in [artikel 16.46b, derde lid, onder c, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bedoelde internationale normen en richtlijnen, indien de deelnemer een rapport als bedoeld in artikel 58, tweede lid, onderdeel g, onder 1°, of een verklaring als bedoeld in artikel 58, onderdeel g, onder 2°, heeft overlegd.  
+1.  De deelname van een projectdeelnemer aan een projectactiviteit voldoet aan artikel 16.46b, derde lid, onderdeel a, van de wet, indien hij een verklaring als bedoeld in artikel 58, tweede lid, onderdeel c, heeft overgelegd.   
+2.  Een projectactiviteit en de uitvoering daarvan voldoen aan de in artikel 16.46b, derde lid, onder c, van de wet bedoelde internationale normen en richtlijnen, indien de deelnemer een rapport als bedoeld in artikel 58, tweede lid, onderdeel g, onder 1°, of een verklaring als bedoeld in artikel 58, onderdeel g, onder 2°, heeft overlegd.  
 
 ### Hoofdstuk  5  
 
@@ -707,16 +707,16 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 1.  De volgende regelingen worden ingetrokken: 
 
-a. de [Regeling aanwijzing veiler broeikasgasemissierechten](../../../../../../ministeriele-regeling/regeling/aanwijzing/veiler/broeikas-gasemissierechten/BWBR0031660/README.md),  
+a. de Regeling aanwijzing veiler broeikasgasemissierechten,  
 
-b. de [Regeling interpretatie luchtvaartactiviteiten handel in emissierechten](../../../../../../ministeriele-regeling/regeling/interpretatie/luchtvaartactiviteiten/handel/in/emissierechten/BWBR0027269/README.md),  
+b. de Regeling interpretatie luchtvaartactiviteiten handel in emissierechten,  
 
-c. de [Regeling monitoring handel in emissierechten](../../../../../../ministeriele-regeling/regeling/monitoring/handel/in/emissierechten/BWBR0017699/README.md),  
+c. de Regeling monitoring handel in emissierechten,  
 
-d. de [Regeling register handel in emissierechten](../../../../../../ministeriele-regeling/regeling/register/handel/in/emissierechten/BWBR0030614/README.md), en 
+d. de Regeling register handel in emissierechten, en 
 
-e. de [Regeling instemming deelname aan Kyoto-projectactiviteiten](../../../../../../ministeriele-regeling/regeling/instemming/deelname/aan/kyoto-projectactiviteiten/BWBR0019759/README.md).     
-2.  De bepalingen van [hoofdstuk 3 van de Regeling monitoring handel in emissierechten](../../../../../../ministeriele-regeling/regeling/monitoring/handel/in/emissierechten/BWBR0017699/README.md), zoals deze laatstelijk luidden voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op de emissies van stikstofoxiden, zolang [titel 16.3 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) op die emissies van toepassing is.  
+e. de Regeling instemming deelname aan Kyoto-projectactiviteiten.     
+2.  De bepalingen van hoofdstuk 3 van de Regeling monitoring handel in emissierechten, zoals deze laatstelijk luidden voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op de emissies van stikstofoxiden, zolang titel 16.3 van de wet op die emissies van toepassing is.  
 
 ### Artikel  65  
 

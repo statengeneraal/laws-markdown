@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 13 november 1997, Directie Sociale Verzekeringen, nr. SV/AVF/97/4557; 
 
-Gelet op [artikel 3, vijfde lid, van de Algemene bijstandswet](../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md), [artikel 3, vijfde lid, van de Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [artikel 1, zesde lid, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [artikel 1, zesde lid, van de Coördinatiewet Sociale Verzekering](../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), [artikel 3, vijfde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 3, vijfde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), [artikel 1, zesde lid, van de Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), artikel 1, zesde lid, van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten, [artikel 1, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), artikel 1, zesde lid, van de Wet arbeidsongeschiktheidsverzekeringen zelfstandigen, [artikel 1, zesde lid, van de Wet voorzieningen gehandicapten](../../../../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) en [artikel 1, zesde lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md); 
+Gelet op artikel 3, vijfde lid, van de Algemene bijstandswet, artikel 3, vijfde lid, van de Algemene nabestaandenwet, artikel 1, zesde lid, van de Algemene Ouderdomswet, artikel 1, zesde lid, van de Coördinatiewet Sociale Verzekering, artikel 3, vijfde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, artikel 3, vijfde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, artikel 1, zesde lid, van de Toeslagenwet, artikel 1, zesde lid, van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten, artikel 1, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 1, zesde lid, van de Wet arbeidsongeschiktheidsverzekeringen zelfstandigen, artikel 1, zesde lid, van de Wet voorzieningen gehandicapten en artikel 1, zesde lid, van de Ziektewet; 
 
 De Raad van State gehoord (advies van 17 december 1997, nr. W12.97.0732); 
 
@@ -19,31 +19,31 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. WWB: [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);   
+a. WWB: Wet werk en bijstand;   
 
-b. ANW: [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);   
+b. ANW: Algemene nabestaandenwet;   
 
-c. AOW: [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);   
+c. AOW: Algemene Ouderdomswet;   
 
-d. IOAW: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);   
+d. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;   
 
-e. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);   
+e. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;   
 
-f. TW: [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md);   
+f. TW: Toeslagenwet;   
 
-g. Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);   
+g. Wet Wajong: Wet werk en arbeidsondersteuning jonggehandicapten;   
 
-h. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);   
+h. WAO: Wet op de arbeidsongeschiktheidsverzekering;   
 
-i. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);   
+i. WAZ: Wet arbeidsongeschiktheidsverzekering zelfstandigen;   
 
-j.Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);
+j.Wet WIA: Wet werk en inkomen naar arbeidsvermogen;
 
-k. Wmo: [Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+k. Wmo: Wet maatschappelijke ondersteuning;  
 
-l. ZW: [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md); 
+l. ZW: Ziektewet; 
 
-m. IOW: [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).  
+m. IOW: Wet inkomensvoorziening oudere werklozen.  
 
 ### Artikel  2  
 
@@ -51,31 +51,31 @@ m. IOW: [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/w
 
 Dit besluit is van toepassing op registraties in de zin van:  
 
-a. [artikel 3, vierde lid, onderdeel d, van de WWB](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);   
+a. artikel 3, vierde lid, onderdeel d, van de WWB;   
 
-b. [artikel 3, vierde lid, onderdeel d, van de ANW](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);   
+b. artikel 3, vierde lid, onderdeel d, van de ANW;   
 
-c. [artikel 1, vijfde lid, onderdeel d, van de AOW](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);   
+c. artikel 1, vijfde lid, onderdeel d, van de AOW;   
 
-d. [artikel 3, vierde lid, onderdeel d, van de IOAW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);   
+d. artikel 3, vierde lid, onderdeel d, van de IOAW;   
 
-e. [artikel 3, vierde lid, onderdeel d, van de IOAZ](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);   
+e. artikel 3, vierde lid, onderdeel d, van de IOAZ;   
 
-f. [artikel 1, vijfde lid, onderdeel d, van de TW](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md);   
+f. artikel 1, vijfde lid, onderdeel d, van de TW;   
 
-g. [artikel 1:1, vijfde lid, onderdeel d, van de Wet Wajong](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+g. artikel 1:1, vijfde lid, onderdeel d, van de Wet Wajong;  
 
-h. [artikel 1, vijfde lid, onderdeel d, van de WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);   
+h. artikel 1, vijfde lid, onderdeel d, van de WAO;   
 
-i. [artikel 1, vijfde lid, onderdeel d, van de WAZ](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);   
+i. artikel 1, vijfde lid, onderdeel d, van de WAZ;   
 
-j.[artikel 2, vierde lid, onderdeel d, van de Wet WIA](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);
+j.artikel 2, vierde lid, onderdeel d, van de Wet WIA;
 
-k. [artikel 1, vijfde lid, onderdeel d, van de Wmo](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+k. artikel 1, vijfde lid, onderdeel d, van de Wmo;  
 
-l. [artikel 1, vijfde lid, onderdeel d, van de ZW](../../../../../../../../wet/ziektewet/BWBR0001888/README.md); 
+l. artikel 1, vijfde lid, onderdeel d, van de ZW; 
 
-m. [artikel 2, vierde lid, onderdeel d, van de IOW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).  
+m. artikel 2, vierde lid, onderdeel d, van de IOW.  
 
 ### Artikel  3  
 
@@ -85,64 +85,64 @@ m. [artikel 2, vierde lid, onderdeel d, van de IOW](../../../../../../../../wet/
 
 a. duurzame gezamenlijke huishouding op grond van:  
 
-1. de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);   
+1. de Algemene Wet Bijzondere Ziektekosten;   
 
-2. de [Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);   
+2. de Wet inkomstenbelasting 2001;   
 
-3. de [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);   
+3. de Wet op de loonbelasting 1964;   
 
-4. de [Wet op de studiefinanciering](../../../../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md);  
+4. de Wet op de studiefinanciering;  
 
-4a. de [Wet studiefinanciering 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md);  
+4a. de Wet studiefinanciering 2000;  
 
-5. de [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);   
+5. de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945;   
 
-6. de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md).     
+6. de Wet uitkeringen vervolgingsslachtoffers 1940-1945.     
 
 b. gezamenlijke huishouding op grond van:  
 
-1. de [WWB](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+1. de WWB;  
 
-2. de [ANW](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+2. de ANW;  
 
-3. de [AOW](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+3. de AOW;  
 
-4. de [IOAW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+4. de IOAW;  
 
-5. de [IOAZ](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+5. de IOAZ;  
 
-6. de [TW](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+6. de TW;  
 
-7. de [Wet Wajong](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+7. de Wet Wajong;  
 
-8. de [WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+8. de WAO;  
 
-9. de [WAZ](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+9. de WAZ;  
 
-10.de [Wet WIA](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);
+10.de Wet WIA;
 
-11. de [Wmo](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+11. de Wmo;  
 
-12. de [ZW](../../../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+12. de ZW;  
 
-13. de [IOW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).   
+13. de IOW.   
 
-c. duurzame gemeenschappelijke huishouding op grond van de [onderafdeling 3 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);   
+c. duurzame gemeenschappelijke huishouding op grond van de onderafdeling 3 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek;   
 
 d. gemeenschappelijke huishouding op grond van:  
 
-1. de [Successiewet 1956](../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md);   
+1. de Successiewet 1956;   
 
-2. een verblijfsrecht ingevolge de [Vreemdelingenwet 2000](../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) voor verblijf bij partner;     
+2. een verblijfsrecht ingevolge de Vreemdelingenwet 2000 voor verblijf bij partner;     
 
-e. duurzame relatie op grond van de [Rijkswet op het Nederlanderschap](../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).      
+e. duurzame relatie op grond van de Rijkswet op het Nederlanderschap.      
 2.  Een registratie als bedoeld in het eerste lid is aanwezig gedurende de periode waarin bij de toepassing van de in dat lid genoemde wetten op enig moment rechtsgevolgen worden verbonden aan het bestaan van een duurzame gezamenlijke huishouding, een gezamenlijke huishouding, een duurzame gemeenschappelijke huishouding, een gemeenschappelijke huishouding respectievelijk een duurzame relatie.   
 
 ### Artikel  4  
 
-####Bijzondere bepalingen in verband met de [WWB](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [AOW](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [IOAW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [IOAZ](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), [IOW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), [TW](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [Wet Wajong](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [WAZ](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [Wet WIA](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [Wmo](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en [ZW](../../../../../../../../wet/ziektewet/BWBR0001888/README.md)
+####Bijzondere bepalingen in verband met de WWB, AOW, IOAW, IOAZ, IOW, TW, Wet Wajong, WAO, WAZ, Wet WIA, Wmo en ZW
 
-Voor de toepassing van [artikel 3, tweede tot en met vijfde lid, van de WWB](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 1, derde tot en met zevende lid, van de AOW](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [artikel 3, tweede tot en met zesde lid, van de IOAW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 3, tweede tot en met zesde lid, van de IOAZ](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), [artikel 1, derde tot en met zevende lid, van de TW](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [artikel 1:1, derde tot en met het zevende lid, van de Wet Wajong](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 1, derde tot en met zevende lid, van de WAO](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 1, derde tot en met zevende lid, van de WAZ](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikel 2, tweede tot en met zesde lid, van de Wet WIA](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 1, derde tot en met zevende lid, van de Wmo](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), [artikel 1, derde tot en met zevende lid, van de ZW](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [artikel 2, tweede tot en met zesde lid, van de IOW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) wordt een registratie als bedoeld in artikel 3 in aanmerking genomen indien deze: 
+Voor de toepassing van artikel 3, tweede tot en met vijfde lid, van de WWB, artikel 1, derde tot en met zevende lid, van de AOW, artikel 3, tweede tot en met zesde lid, van de IOAW, artikel 3, tweede tot en met zesde lid, van de IOAZ, artikel 1, derde tot en met zevende lid, van de TW, artikel 1:1, derde tot en met het zevende lid, van de Wet Wajong, artikel 1, derde tot en met zevende lid, van de WAO, artikel 1, derde tot en met zevende lid, van de WAZ, artikel 2, tweede tot en met zesde lid, van de Wet WIA, artikel 1, derde tot en met zevende lid, van de Wmo, artikel 1, derde tot en met zevende lid, van de ZW en artikel 2, tweede tot en met zesde lid, van de IOW wordt een registratie als bedoeld in artikel 3 in aanmerking genomen indien deze: 
 
 a. bij de aanvraag van bijstand, uitkering of voorziening bestaat;  
 
@@ -164,13 +164,13 @@ b.plaatsvindt gedurende de verlening van nabestaandenuitkering.
 
 ####Grondslag besluit
 
-Dit besluit berust mede op [artikel 3, vijfde lid, van de WWB](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 2, zesde lid, van de IOW](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md). 
+Dit besluit berust mede op artikel 3, vijfde lid, van de WWB en artikel 2, zesde lid, van de IOW. 
 
 ###Artikel 6 
 
 ####Inwerkingtreding 
 
-Dit besluit treedt in werking met ingang van de dag waarop de artikelen XVII tot en met XXXII van het bij koninklijke boodschap van 29 september 1997 ingediende voorstel van wet houdende nadere wijziging van een aantal socialeverzekeringswetten en enige andere wetten, houdende wijziging/intrekking van de [Wet Werkloosheidsvoorziening](../../../../../../../../wet/wet/werkloosheidsvoorziening/BWBR0002470/README.md), eenvormige definiëring van de term gezamenlijke huishouding en technische alsmede enige andere wijzigingen ([Veegwet SZW 1997](../../../../../../../../wet/veegwet/szw/1997/BWBR0009279/README.md); kamerstukken 25 641) in werking treden.  
+Dit besluit treedt in werking met ingang van de dag waarop de artikelen XVII tot en met XXXII van het bij koninklijke boodschap van 29 september 1997 ingediende voorstel van wet houdende nadere wijziging van een aantal socialeverzekeringswetten en enige andere wetten, houdende wijziging/intrekking van de Wet Werkloosheidsvoorziening, eenvormige definiëring van de term gezamenlijke huishouding en technische alsmede enige andere wijzigingen (Veegwet SZW 1997; kamerstukken 25 641) in werking treden.  
 
 ###Artikel 7 
 

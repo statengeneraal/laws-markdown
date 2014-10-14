@@ -3,17 +3,17 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2013, nr. 2013-0000435969, houdende regels ter uitvoering van de Kieswet en het Kiesbesluit (Kiesregeling)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md) en het [Kiesbesluit](../../../AMvB/kiesbesluit/BWBR0004632/README.md);
+Gelet op de Kieswet en het Kiesbesluit;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Als de modellen, bedoeld in de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md) en het [Kiesbesluit](../../../AMvB/kiesbesluit/BWBR0004632/README.md), worden de modellen vastgesteld die in de bijlage bij deze regeling zijn opgenomen.   
+1.  Als de modellen, bedoeld in de Kieswet en het Kiesbesluit, worden de modellen vastgesteld die in de bijlage bij deze regeling zijn opgenomen.   
 2.  De tekst van de modellen in de bijlage bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.  
 
 ### Artikel  2  
 
-De [Modellenregeling Kieswet en Kiesbesluit 2010](../../../ministeriele-regeling/modellenregeling/kieswet/en/kiesbesluit/2010/BWBR0029003/README.md) wordt ingetrokken. 
+De Modellenregeling Kieswet en Kiesbesluit 2010 wordt ingetrokken. 
 
 ### Artikel  3  
 
@@ -67,8 +67,8 @@ R.H.A. Plasterk
 
 ####Verzoek tot registratie van een aanduiding
 
-![252455](http://wetten.overheid.nl/Illustration/252455)
-![252456](http://wetten.overheid.nl/Illustration/252456)
+![254231](http://wetten.overheid.nl/Illustration/254231)
+![254232](http://wetten.overheid.nl/Illustration/254232)
 
 ### Model  G 1-2  
 
@@ -80,121 +80,119 @@ R.H.A. Plasterk
 
 ####Betalingsbewijs van de waarborgsom bij registratie
 
-![252458](http://wetten.overheid.nl/Illustration/252458)
+![254233](http://wetten.overheid.nl/Illustration/254233)
 
 ### Model  H 1  
 
 ####Kandidatenlijst
 
-![252459](http://wetten.overheid.nl/Illustration/252459)
-![252460](http://wetten.overheid.nl/Illustration/252460)
+![254234](http://wetten.overheid.nl/Illustration/254234)
+![254235](http://wetten.overheid.nl/Illustration/254235)
 
 ### Model  H 1  
 
 ####Kandidatelist
 
-![252461](http://wetten.overheid.nl/Illustration/252461)
-![252462](http://wetten.overheid.nl/Illustration/252462)
+![254236](http://wetten.overheid.nl/Illustration/254236)
+![254237](http://wetten.overheid.nl/Illustration/254237)
 
 ### Model  H 3-1  
 
 ####Machtiging om aanduiding boven kandidatenlijst te plaatsen
 
-![252463](http://wetten.overheid.nl/Illustration/252463)
+![254238](http://wetten.overheid.nl/Illustration/254238)
 
 ### Model  H 3-1  
 
 ####Machtiging om oantsjutting boppe kandidatelist te pleatsen
 
-![252572](http://wetten.overheid.nl/Illustration/252572)
+![254239](http://wetten.overheid.nl/Illustration/254239)
 
 ### Model  H 3-2  
 
 ####Machtiging om samengevoegde aanduiding boven kandidatenlijst te plaatsen
 
-![252575](http://wetten.overheid.nl/Illustration/252575)
-![252576](http://wetten.overheid.nl/Illustration/252576)
+![254240](http://wetten.overheid.nl/Illustration/254240)
+![254241](http://wetten.overheid.nl/Illustration/254241)
 
 ### Model  H 3-2  
 
 ####Machtiging om gearfoege oantsjutting boppe kandidatelist te pleatsen
 
-![252577](http://wetten.overheid.nl/Illustration/252577)
-![252578](http://wetten.overheid.nl/Illustration/252578)
+![254242](http://wetten.overheid.nl/Illustration/254242)
+![254243](http://wetten.overheid.nl/Illustration/254243)
 
 ### Model  H 4  
 
 ####Ondersteuningsverklaring
 
-![252579](http://wetten.overheid.nl/Illustration/252579)
+![254244](http://wetten.overheid.nl/Illustration/254244)
 
 ### Model  H 4  
 
 ####Stipeferklearring
 
-![252580](http://wetten.overheid.nl/Illustration/252580)
+![254245](http://wetten.overheid.nl/Illustration/254245)
 
 ### Model  H 9  
 
 ####Instemmingsverklaring
 
-![252581](http://wetten.overheid.nl/Illustration/252581)
-![252613](http://wetten.overheid.nl/Illustration/252613)
+![254246](http://wetten.overheid.nl/Illustration/254246)
+![254247](http://wetten.overheid.nl/Illustration/254247)
 
 ### Model  H 9  
 
 ####Ynstimmingsferklearring
 
-![252583](http://wetten.overheid.nl/Illustration/252583)
-![252584](http://wetten.overheid.nl/Illustration/252584)
+![254248](http://wetten.overheid.nl/Illustration/254248)
+![254249](http://wetten.overheid.nl/Illustration/254249)
 
 ### Model  H 12  
 
 ####Betalingsbewijs waarborgsom bij kandidaatstelling
 
-![252585](http://wetten.overheid.nl/Illustration/252585)
+![254250](http://wetten.overheid.nl/Illustration/254250)
 
 ### Model  H 12  
 
 ####Betelbewiis boarchsom by kandidaatstelling
 
-![252586](http://wetten.overheid.nl/Illustration/252586)
+![254251](http://wetten.overheid.nl/Illustration/254251)
 
 ### Model  I 1  
 
 ####Proces-verbaal van het onderzoek naar de kandidatenlijsten
 
-![252587](http://wetten.overheid.nl/Illustration/252587)
-![252588](http://wetten.overheid.nl/Illustration/252588)
+![254252](http://wetten.overheid.nl/Illustration/254252)
+![254253](http://wetten.overheid.nl/Illustration/254253)
 
 ### Model  I 4  
 
 ####Proces-verbaal over geldigheid en nummering kandidatenlijsten en lijstencombinaties
 
-![252589](http://wetten.overheid.nl/Illustration/252589)
-![252590](http://wetten.overheid.nl/Illustration/252590)
-![252591](http://wetten.overheid.nl/Illustration/252591)
-![252592](http://wetten.overheid.nl/Illustration/252592)
+![254254](http://wetten.overheid.nl/Illustration/254254)
+![254255](http://wetten.overheid.nl/Illustration/254255)
+![254256](http://wetten.overheid.nl/Illustration/254256)
+![254257](http://wetten.overheid.nl/Illustration/254257)
 
 ### Model  I 10  
 
 ####Verbinding kandidatenlijsten tot lijstencombinatie
 
-![252593](http://wetten.overheid.nl/Illustration/252593)
+![254258](http://wetten.overheid.nl/Illustration/254258)
 
 ### Model  I 10  
 
 ####Ferbining kandidatelisten ta listkombinaasje
 
-![252594](http://wetten.overheid.nl/Illustration/252594)
+![254259](http://wetten.overheid.nl/Illustration/254259)
 
 ### Model  J 7  
 
 ####Stempas
 
-1. Voor de verkiezing van de leden van de gemeenteraden op 19 maart 2014 luidt de stempas als volgt: ![252614](http://wetten.overheid.nl/Illustration/252614)
-
-2. Voor de verkiezing van de Nederlandse leden van het Europees Parlement op 22 mei 2014 luidt de stempas als volgt: ![252615](http://wetten.overheid.nl/Illustration/252615)
+![254260](http://wetten.overheid.nl/Illustration/254260)
 
 ### Model  J 7-1  
 
@@ -229,22 +227,21 @@ enz.<sup> 4 De lijsten dienen om en om in te springen. Tussen de lijsten dient r
 
 ####Verzoek om een kiezerspas
 
-![252494](http://wetten.overheid.nl/Illustration/252494)
+![254261](http://wetten.overheid.nl/Illustration/254261)
+![254262](http://wetten.overheid.nl/Illustration/254262)
 
 ### Model  L 8  
 
 ####Verzoek om bij volmacht te stemmen
 
-![252495](http://wetten.overheid.nl/Illustration/252495)
-![252573](http://wetten.overheid.nl/Illustration/252573)
+![254263](http://wetten.overheid.nl/Illustration/254263)
+![254264](http://wetten.overheid.nl/Illustration/254264)
 
 ### Model  L 11  
 
 ####Volmachtbewijs
 
-1. Voor de verkiezing van de leden van de gemeenteraden op 19 maart 2014 luidt het volmachtsbewijs als volgt: ![252621](http://wetten.overheid.nl/Illustration/252621)
-
-2. Voor de verkiezing van de Nederlandse leden van het Europees Parlement op 22 mei 2014 luidt het volmachtsbewijs als volgt: ![252622](http://wetten.overheid.nl/Illustration/252622)
+![254265](http://wetten.overheid.nl/Illustration/254265)
 
 ### Model  M 3  
 
@@ -285,17 +282,17 @@ Stembiljet (kleur wit)
 
 ####Proces-verbaal van een stembureau
 
-![252606](http://wetten.overheid.nl/Illustration/252606)
-![253637](http://wetten.overheid.nl/Illustration/253637)
-![252608](http://wetten.overheid.nl/Illustration/252608)
-![252609](http://wetten.overheid.nl/Illustration/252609)
-![252610](http://wetten.overheid.nl/Illustration/252610)
+![254266](http://wetten.overheid.nl/Illustration/254266)
+![254267](http://wetten.overheid.nl/Illustration/254267)
+![254268](http://wetten.overheid.nl/Illustration/254268)
+![254269](http://wetten.overheid.nl/Illustration/254269)
+![254270](http://wetten.overheid.nl/Illustration/254270)
 
 ### Model  N 10-1  
 
 ####Bijlage: aantal stemmen per lijst en kandidaat
 
-![252611](http://wetten.overheid.nl/Illustration/252611)
+![254271](http://wetten.overheid.nl/Illustration/254271)
 
 ### Model  N 10-2a  
 
@@ -324,9 +321,9 @@ Stembiljet (kleur wit)
 
 ####Vaststelling aantal stemmen in gemeente/openbaar lichaam
 
-![252519](http://wetten.overheid.nl/Illustration/252519)
-![252520](http://wetten.overheid.nl/Illustration/252520)
-![252521](http://wetten.overheid.nl/Illustration/252521)
+![254272](http://wetten.overheid.nl/Illustration/254272)
+![254273](http://wetten.overheid.nl/Illustration/254273)
+![254274](http://wetten.overheid.nl/Illustration/254274)
 
 ### Model  O 3  
 
@@ -338,30 +335,30 @@ Stembiljet (kleur wit)
 
 ### Model  P 22-1  
 
-####Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer/het Europees Parlement/provinciale staten
+####Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer / het Europees Parlement / provinciale staten
 
-![252525](http://wetten.overheid.nl/Illustration/252525)
-![252526](http://wetten.overheid.nl/Illustration/252526)
-![252527](http://wetten.overheid.nl/Illustration/252527)
-![252528](http://wetten.overheid.nl/Illustration/252528)
-![252529](http://wetten.overheid.nl/Illustration/252529)
-![252530](http://wetten.overheid.nl/Illustration/252530)
-![252531](http://wetten.overheid.nl/Illustration/252531)
-![252532](http://wetten.overheid.nl/Illustration/252532)
-![252533](http://wetten.overheid.nl/Illustration/252533)
+![254275](http://wetten.overheid.nl/Illustration/254275)
+![254276](http://wetten.overheid.nl/Illustration/254276)
+![254277](http://wetten.overheid.nl/Illustration/254277)
+![254278](http://wetten.overheid.nl/Illustration/254278)
+![254279](http://wetten.overheid.nl/Illustration/254279)
+![254280](http://wetten.overheid.nl/Illustration/254280)
+![254281](http://wetten.overheid.nl/Illustration/254281)
+![254282](http://wetten.overheid.nl/Illustration/254282)
+![254283](http://wetten.overheid.nl/Illustration/254283)
 
 ### Model  P 22-2  
 
-####Proces-verbaal van de verkiezingsuitslag van de gemeenteraad/de eilandsraad/provinciale staten
+####Proces-verbaal van de verkiezingsuitslag van de gemeenteraad / de eilandsraad / het algemeen bestuur van het waterschap / provinciale staten
 
-![252534](http://wetten.overheid.nl/Illustration/252534)
-![252535](http://wetten.overheid.nl/Illustration/252535)
-![252536](http://wetten.overheid.nl/Illustration/252536)
-![252537](http://wetten.overheid.nl/Illustration/252537)
-![252539](http://wetten.overheid.nl/Illustration/252539)
-![252540](http://wetten.overheid.nl/Illustration/252540)
-![252541](http://wetten.overheid.nl/Illustration/252541)
-![252542](http://wetten.overheid.nl/Illustration/252542)
+![254284](http://wetten.overheid.nl/Illustration/254284)
+![254285](http://wetten.overheid.nl/Illustration/254285)
+![254286](http://wetten.overheid.nl/Illustration/254286)
+![254287](http://wetten.overheid.nl/Illustration/254287)
+![254289](http://wetten.overheid.nl/Illustration/254289)
+![254290](http://wetten.overheid.nl/Illustration/254290)
+![254291](http://wetten.overheid.nl/Illustration/254291)
+![254292](http://wetten.overheid.nl/Illustration/254292)
 
 ### Model  T 4  
 
@@ -391,47 +388,47 @@ Stembiljet (kleur wit)
 
 ####Proces-verbaal opnieuw vaststellen verkiezingsuitslag
 
-![252552](http://wetten.overheid.nl/Illustration/252552)
-![252553](http://wetten.overheid.nl/Illustration/252553)
+![254293](http://wetten.overheid.nl/Illustration/254293)
+![254294](http://wetten.overheid.nl/Illustration/254294)
 
 ### Model  W 1-1  
 
 ####Benoemingsbesluit in verband met niet aannemen benoeming door kandidaat
 
-![252554](http://wetten.overheid.nl/Illustration/252554)
-![252555](http://wetten.overheid.nl/Illustration/252555)
+![254295](http://wetten.overheid.nl/Illustration/254295)
+![254296](http://wetten.overheid.nl/Illustration/254296)
 
 ### Model  W 1-2  
 
 ####Benoemingsbesluit in verband met niet toelaten kandidaat als lid
 
-![252556](http://wetten.overheid.nl/Illustration/252556)
-![252557](http://wetten.overheid.nl/Illustration/252557)
+![254297](http://wetten.overheid.nl/Illustration/254297)
+![254298](http://wetten.overheid.nl/Illustration/254298)
 
 ### Model  W 1-3  
 
 ####Benoemingsbesluit in verband met openvallen plaats
 
-![252558](http://wetten.overheid.nl/Illustration/252558)
-![252559](http://wetten.overheid.nl/Illustration/252559)
+![254299](http://wetten.overheid.nl/Illustration/254299)
+![254300](http://wetten.overheid.nl/Illustration/254300)
 
 ### Model  W 2  
 
 ####Verklaring dat kandidaat niet in aanmerking wil komen voor benoeming
 
-![252560](http://wetten.overheid.nl/Illustration/252560)
+![254301](http://wetten.overheid.nl/Illustration/254301)
 
 ### Model  W 4  
 
 ####Besluit dat geen opvolger in een opengevallen plaats wordt benoemd
 
-![252561](http://wetten.overheid.nl/Illustration/252561)
+![254302](http://wetten.overheid.nl/Illustration/254302)
 
 ### Model  W 5  
 
 ####Proces-verbaal loting bij plaatsvervanging
 
-![252562](http://wetten.overheid.nl/Illustration/252562)
+![254303](http://wetten.overheid.nl/Illustration/254303)
 
 ### Model  Y 13  
 

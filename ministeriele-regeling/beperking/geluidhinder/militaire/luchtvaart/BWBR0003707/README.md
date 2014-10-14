@@ -72,11 +72,17 @@ Bij het uitvoeren van vluchten dient ernaar te worden gestreefd vermijdbare gelu
 
 ### Artikel  5  
 
-Onverminderd het Luchtverkeersreglement, mag door of namens de militaire luchtvaart autoriteit van de vorige artikelen worden afgeweken in bijzondere gevallen. 
+1.  De Minister van Defensie kan ten behoeve van nationale of internationale oefeningen ontheffing verlenen van artikel 1, onderdeel e, onder 1<sup>e</sup>, en onderdeel f, onder 1<sup>e</sup>.   
+2.  Aan de ontheffing kunnen voorschriften worden verbonden.   
+3.  De ontheffing kan onder beperking worden verleend.  
 
 ### Artikel  6  
 
 Deze beschikking treedt in werking met ingang van de datum van ondertekening. 
+
+### Artikel  7  
+
+Deze regeling wordt aangehaald als: Regeling beperking geluidhinder luchtvaart. 
 
 's-Gravenhage 
 31 augustus 1984    

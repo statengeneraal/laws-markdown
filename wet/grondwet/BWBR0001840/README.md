@@ -783,7 +783,7 @@ De tekst van de herziene Grondwet wordt bij koninklijk besluit bekendgemaakt, wa
 
 ### Artikel  142  
 
-De Grondwet kan bij de wet met het [Statuut voor het Koninkrijk der Nederlanden](../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) in overeenstemming worden gebracht. De artikelen 139, 140 en 141 zijn van overeenkomstige toepassing.  
+De Grondwet kan bij de wet met het Statuut voor het Koninkrijk der Nederlanden in overeenstemming worden gebracht. De artikelen 139, 140 en 141 zijn van overeenkomstige toepassing.  
 
 ####Additionele artikelen 
 
@@ -803,7 +803,7 @@ b. hij die krachtens onherroepelijke rechterlijke uitspraak wegens een geestelij
 
 ### Artikel  IX  
 
-Artikel 16 is niet van toepassing ten aanzien van feiten, strafbaar gesteld krachtens het [Besluit Buitengewoon Strafrecht](../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md).  
+Artikel 16 is niet van toepassing ten aanzien van feiten, strafbaar gesteld krachtens het Besluit Buitengewoon Strafrecht.  
 
 ### Artikel  XIX  
 
