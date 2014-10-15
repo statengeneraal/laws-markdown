@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 20 mei 1997, Directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden, Nr. WBJA/W1/97/0567; 
 
-Gelet op de [artikelen 7, derde lid, van de Algemene bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md), [6, derde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en [6, vijfde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md); 
+Gelet op de artikelen 7, derde lid, van de Algemene bijstandswet, 6, derde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en 6, vijfde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen; 
 
 De Raad van State gehoord (advies van 17 juni 1997, nr. W12.97.0307); 
 
@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Voor de toepassing van de [Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md):  
+1.  Voor de toepassing van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000:  
 
 a. voor de beëindiging van dit verblijf een aanvraag heeft ingediend om voortgezette toelating, of   
 
-b. binnen de termijn, genoemd in [artikel 69, eerste lid, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of, buiten die termijn, in geval [artikel 6.11 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing heeft gevonden, bezwaar heeft gemaakt of beroep heeft ingesteld tegen intrekking van de toelating in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).      
+b. binnen de termijn, genoemd in artikel 69, eerste lid, van de Vreemdelingenwet 2000, of, buiten die termijn, in geval artikel 6.11 van de Algemene wet bestuursrecht toepassing heeft gevonden, bezwaar heeft gemaakt of beroep heeft ingesteld tegen intrekking van de toelating in de zin van artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000.      
 2.  De gelijkstelling, bedoeld in het eerste lid, eindigt zodra:  
 
 a. onherroepelijk op de aanvraag, het bezwaar of het beroep is beslist, of   
 
-b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge de [Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of op grond van een rechterlijke beslissing achterwege dient te blijven.     
+b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge de Vreemdelingenwet 2000 of op grond van een rechterlijke beslissing achterwege dient te blijven.     
 
 ###Artikel 1a  
 
-Dit besluit berust mede op [artikel 11, derde lid, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md). 
+Dit besluit berust mede op artikel 11, derde lid, van de Wet werk en bijstand. 
 
 ###Artikel 2 
 

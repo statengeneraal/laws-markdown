@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b.  *politieke partij:* vereniging die met haar conform [artikel G 1](../../../../../../wet/kieswet/BWBR0004627/README.md) of [Q 6 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer of de Eerste Kamer der Staten-Generaal, waarbij aan die lijst ten minste een kamerzetel is toegewezen;  
+b.  *politieke partij:* vereniging die met haar conform artikel G 1 of Q 6 van de Kieswet geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer of de Eerste Kamer der Staten-Generaal, waarbij aan die lijst ten minste een kamerzetel is toegewezen;  
 
 c.  *lid van een politieke partij:* lid als bedoeld in artikel 7, eerste lid;  
 
@@ -34,7 +34,7 @@ h.  *bijdrage:* geldelijke bijdrage, anders dan subsidie, erfstelling of legaat 
 
 i.  *bijdrage in natura:* zaak of dienst, op verzoek van een politieke partij aan haar geleverd dan wel door deze aanvaard, waar geen of geen evenredige tegenprestatie tegenover staat;  
 
-j.  *kamerzetel:* zetel in de Tweede Kamer der Staten-Generaal, dan wel in de Eerste Kamer der Staten-Generaal indien aan de lijst van een politieke partij op grond van de [Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) geen zetel in de Tweede Kamer, maar wel in de Eerste Kamer der Staten-Generaal is toegewezen;  
+j.  *kamerzetel:* zetel in de Tweede Kamer der Staten-Generaal, dan wel in de Eerste Kamer der Staten-Generaal indien aan de lijst van een politieke partij op grond van de Kieswet geen zetel in de Tweede Kamer, maar wel in de Eerste Kamer der Staten-Generaal is toegewezen;  
 
 k.  *peildatum:* de eerste dag van het kalenderjaar.   
 
@@ -72,7 +72,7 @@ d. de jongerenorganisatie schriftelijk instemt met de aanwijzing als jongerenorg
 
 1.  Indien van een politieke partij een andere politieke groepering lid is, worden de leden van deze politieke groepering aangemerkt als leden van deze politieke partij, voor zover deze politieke groepering: 
 
-a. haar aanduiding heeft laten registreren op grond van [artikel G 1](../../../../../../wet/kieswet/BWBR0004627/README.md), [G 2](../../../../../../wet/kieswet/BWBR0004627/README.md) of [G 3 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md);  
+a. haar aanduiding heeft laten registreren op grond van artikel G 1, G 2 of G 3 van de Kieswet;  
 
 b. bij de laatstgehouden verkiezing van ten minste één orgaan waarvoor haar aanduiding is geregistreerd, een of meer zetels heeft behaald;  
 
@@ -145,7 +145,7 @@ d. indien de politieke partij op de peildatum een instelling voor buitenlandse a
 4.  Onze Minister verleent de subsidie en het voorschot op de subsidie vóór 1 januari van het kalenderjaar.   
 5.  Indien Onze Minister de subsidie of het voorschot niet binnen de termijn, genoemd in het vierde lid, kan verlenen, stelt Onze Minister de politieke partij daarvan schriftelijk in kennis en noemt hij een redelijke termijn waarbinnen de beschikking alsnog wordt genomen.   
 6.  Bij ministeriële regeling kunnen eisen worden gesteld aan de inrichting van het activiteitenplan, de begroting en de opgave van de ledentallen van de politieke partij en van de aangeduide politieke jongerenorganisatie voorzover van belang voor de verlening van de subsidie.   
-7.  De [artikelen 4:37](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:40 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.  
+7.  De artikelen 4:37 en 4:40 van de Algemene wet bestuursrecht zijn niet van toepassing.  
 
 ### Artikel  12  
 
@@ -173,7 +173,7 @@ d. indien de politieke partij op de peildatum een instelling voor buitenlandse a
 
 ### Artikel  16  
 
-1.  Indien een fractie van een politieke partij in de Tweede Kamer der Staten-Generaal wordt gesplitst en een nieuwe fractie die als gevolg hiervan is ontstaan, verbonden is met een vereniging waarvan de aanduiding op grond van [artikel G 1 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer der Staten-Generaal, wordt deze vereniging aangemerkt als politieke partij als bedoeld in artikel 1, onder b, en komt deze vereniging als politieke partij voor subsidie in aanmerking met ingang van het eerste kalenderjaar na het jaar waarin de splitsing heeft plaatsgevonden. De verbondenheid met de politieke partij dient te blijken uit een gezamenlijke verklaring van de nieuwe fractie en de partij.   
+1.  Indien een fractie van een politieke partij in de Tweede Kamer der Staten-Generaal wordt gesplitst en een nieuwe fractie die als gevolg hiervan is ontstaan, verbonden is met een vereniging waarvan de aanduiding op grond van artikel G 1 van de Kieswet is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer der Staten-Generaal, wordt deze vereniging aangemerkt als politieke partij als bedoeld in artikel 1, onder b, en komt deze vereniging als politieke partij voor subsidie in aanmerking met ingang van het eerste kalenderjaar na het jaar waarin de splitsing heeft plaatsgevonden. De verbondenheid met de politieke partij dient te blijken uit een gezamenlijke verklaring van de nieuwe fractie en de partij.   
 2.  Indien de politieke partij, bedoeld in het eerste lid, een aanvraag voor de verlening van de subsidie heeft ingediend, geldt dat de basisbedragen, bedoeld in artikel 8, eerste lid, verdeeld worden naar evenredigheid van de kamerzetels van de betrokken fracties. Voor de vaststelling van het aantal kamerzetels van de betrokken fracties wordt uitgegaan van een daartoe strekkende verklaring van de voorzitter van de Tweede Kamer der Staten-Generaal.   
 3.  Indien alle leden van een fractie een nieuwe fractie vormen, wordt dit voor de toepassing van dit artikel gelijkgesteld met een splitsing van een fractie.   
 4.  Indien aan een politieke partij op grond van dit artikel wegens splitsing van een fractie subsidie is verleend over het kalenderjaar waarin de verkiezing van de Eerste of Tweede Kamer der Staten-Generaal plaatsvindt, wordt deze politieke partij, voor de toepassing van deze paragraaf en in afwijking van artikel 15, gelijkgesteld met een politieke partij waaraan bij de laatstgehouden verkiezing zetels waren toegewezen.  
@@ -188,7 +188,7 @@ Indien twee of meer politieke partijen die subsidie ontvangen worden samengevoeg
 
 ### Artikel  19  
 
-Onze Minister zendt ieder jaar aan de Staten-Generaal een overzicht van de subsidies die aan de politieke partijen zijn verstrekt. Een verslag als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan achterwege blijven. 
+Onze Minister zendt ieder jaar aan de Staten-Generaal een overzicht van de subsidies die aan de politieke partijen zijn verstrekt. Een verslag als bedoeld in artikel 4:24 van de Algemene wet bestuursrecht kan achterwege blijven. 
 
 ### §  3  
 
@@ -256,11 +256,11 @@ b. een overzicht van de bijdragen van in totaal € 4 500 of meer die de parti
 c. een overzicht van de schulden van € 25 000 of meer, met daarbij de gegevens die op grond van artikel 21, derde lid, zijn geregistreerd, en  
 
 d. de schriftelijke verklaring van de accountant, bedoeld in het derde lid.     
-2.  De politieke partij geeft opdracht tot onderzoek van het financieel verslag aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De accountant onderzoekt of het financieel verslag en de overzichten, genoemd in het eerste lid, onder b en c, voldoen aan de bij of krachtens de wet gestelde voorschriften.   
+2.  De politieke partij geeft opdracht tot onderzoek van het financieel verslag aan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De accountant onderzoekt of het financieel verslag en de overzichten, genoemd in het eerste lid, onder b en c, voldoen aan de bij of krachtens de wet gestelde voorschriften.   
 3.  De accountant geeft de uitslag van zijn onderzoek weer in een schriftelijke verklaring omtrent de getrouwheid van het financieel verslag en de overzichten, genoemd in het eerste lid onder b en c.   
 4.  Een bij Onze Minister berustend financieel verslag is openbaar.   
 5.  Onze Minister maakt de overzichten, genoemd in het eerste lid, onder b en c, openbaar, in ieder geval door publicatie in de Staatscourant. Van de gegevens over het adres van een natuurlijke persoon, wordt uitsluitend de woonplaats openbaar gemaakt. Op verzoek van een politieke partij blijft in het overzicht, genoemd in het eerste lid, onder b, openbaarmaking van de gegevens over de naam en de woonplaats van de gever, zijnde een natuurlijke persoon, achterwege, indien dit naar het oordeel van Onze Minister gelet op het belang van de veiligheid van die persoon is aangewezen.   
-6.  Op de bij Onze Minister berustende informatie inzake bijdragen aan politieke partijen is de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet van toepassing.  
+6.  Op de bij Onze Minister berustende informatie inzake bijdragen aan politieke partijen is de Wet openbaarheid van bestuur niet van toepassing.  
 
 ### Artikel  26  
 
@@ -327,7 +327,7 @@ b. de schulden van € 25 000 of meer, met daarbij de gegevens die op grond va
 
 ### Artikel  31  
 
-1.  Indien een vereniging waarvan de aanduiding op grond van [artikel G 1 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer der Staten-Generaal deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal, terwijl aan die vereniging bij de laatst gehouden verkiezingen geen kamerzetels zijn toegewezen, zijn op deze vereniging in de periode die aanvangt op 1 januari van het tweede kalenderjaar voor het jaar waarin de kandidaatstelling voor deze verkiezing plaatsvindt en eindigt op de dag van stemming, de artikelen 21, 23 en 28 van overeenkomstige toepassing.   
+1.  Indien een vereniging waarvan de aanduiding op grond van artikel G 1 van de Kieswet is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer der Staten-Generaal deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal, terwijl aan die vereniging bij de laatst gehouden verkiezingen geen kamerzetels zijn toegewezen, zijn op deze vereniging in de periode die aanvangt op 1 januari van het tweede kalenderjaar voor het jaar waarin de kandidaatstelling voor deze verkiezing plaatsvindt en eindigt op de dag van stemming, de artikelen 21, 23 en 28 van overeenkomstige toepassing.   
 2.  Op bijdragen aan kandidaten geplaatst op de kandidatenlijst van de vereniging is artikel 29 van overeenkomstige toepassing.   
 3.  De vereniging verstrekt het overzicht aan Onze Minister.  
 
@@ -346,7 +346,7 @@ b. de schulden van € 25 000 of meer, met daarbij de gegevens die op grond va
 
 ### Artikel  34  
 
-1.  Een vereniging, die op grond van [artikel G 1](../../../../../../wet/kieswet/BWBR0004627/README.md), [G 2](../../../../../../wet/kieswet/BWBR0004627/README.md), [G 3](../../../../../../wet/kieswet/BWBR0004627/README.md) of [Q 6 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md), of een vereniging of stichting, die bij of krachtens [artikel 19 van de Waterschapswet](../../../../../../wet/waterschapswet/BWBR0005108/README.md), met haar geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer der Staten-Generaal, de Eerste Kamer der Staten-Generaal, provinciale staten, de gemeenteraad, een deelraad als bedoeld in [artikel 87, tweede lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), of het algemeen bestuur van een waterschap, waarbij aan die lijst ten minste een zetel in het orgaan waarvoor de verkiezingen plaatsvonden is toegewezen, en die geen afdeling is van een politieke partij, stelt een giftenreglement op, waarin zij bepaalt hoe zij omgaat met bijdragen en de openbaarmaking daarvan. Het giftenreglement is openbaar.   
+1.  Een vereniging, die op grond van artikel G 1, G 2, G 3 of Q 6 van de Kieswet, of een vereniging of stichting, die op grond van artikel G 2a van de Kieswet, met haar geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer der Staten-Generaal, de Eerste Kamer der Staten-Generaal, provinciale staten, de gemeenteraad, een deelraad als bedoeld in artikel 87, tweede lid, van de Gemeentewet, of het algemeen bestuur van een waterschap, waarbij aan die lijst ten minste een zetel in het orgaan waarvoor de verkiezingen plaatsvonden is toegewezen, en die geen afdeling is van een politieke partij, stelt een giftenreglement op, waarin zij bepaalt hoe zij omgaat met bijdragen en de openbaarmaking daarvan. Het giftenreglement is openbaar.   
 2.  Het giftenreglement van een politieke partij is van overeenkomstige toepassing op haar afdelingen.  
 
 ### §  4a  
@@ -375,7 +375,7 @@ c. artikel 37, eerste lid.
 ### Artikel  36  
 
 1.  Met het toezicht op de naleving van het bij of krachtens de artikelen 20, 21, 23, 25, 26, 27, derde en vierde lid, 28, 29, 30, 31, 32 en 33 bepaalde, zijn belast de bij besluit van Onze Minister aangewezen personen.   
-2.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  37  
@@ -397,7 +397,7 @@ Indien Onze Minister bij de uitoefening van zijn taken op grond van deze wet stu
 
 ### Artikel  39  
 
-1.  Indien een politieke partij op grond van de [artikelen 137c,](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) [d](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [g](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [artikel 429 quater van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), is veroordeeld tot een geldboete, vervalt van rechtswege de aanspraak op subsidie gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is: 
+1.  Indien een politieke partij op grond van de artikelen 137c, d, e, f, of g, of artikel 429 quater van het Wetboek van Strafrecht, is veroordeeld tot een geldboete, vervalt van rechtswege de aanspraak op subsidie gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is: 
 
 a. een jaar, bij een geldboete van minder dan € 1125;  
 
@@ -406,7 +406,7 @@ b. twee jaar, bij een geldboete van € 1 125 of meer, maar minder dan € 22
 c. drie jaar, bij een geldboete van € 2 250 of meer, maar minder dan € 3 375, en  
 
 d. vier jaar, bij een geldboete van € 3 375 of meer.     
-2.  Indien een politieke partij wegens een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is veroordeeld, vervalt van rechtswege de aanspraak op subsidie gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.   
+2.  Indien een politieke partij wegens een terroristisch misdrijf als bedoeld in artikel 83 van het Wetboek van Strafrecht is veroordeeld, vervalt van rechtswege de aanspraak op subsidie gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.   
 3.  Indien een vereniging op de dag waarop een veroordeling als bedoeld in het eerste of tweede lid onherroepelijk wordt, niet in aanmerking komt voor subsidie en deze vereniging binnen een periode van twee jaar na deze dag als politieke partij in aanmerking komt voor subsidie, vervalt de aanspraak op subsidie van rechtswege met ingang van de dag waarop de partij in aanmerking komt voor subsidie, voor de periode, bedoeld in het eerste of tweede lid.  
 
 ### §  6  
@@ -423,14 +423,14 @@ Wijzigt de Mediawet 2008.
 
 ### Artikel  41  
 
-De [Wet subsidiëring politieke partijen](../../../../../../wet/wet/subsidiëring/politieke/partijen/BWBR0010465/README.md) wordt ingetrokken. 
+De Wet subsidiëring politieke partijen wordt ingetrokken. 
 
 ### Artikel  42  
 
-1.  Aanvragen tot vaststelling van een subsidie, ingediend op grond van de [Wet subsidiëring politieke partijen](../../../../../../wet/wet/subsidiëring/politieke/partijen/BWBR0010465/README.md), met betrekking tot het kalenderjaar gelegen voor de inwerkingtreding van paragraaf 2 van de Wet financiering politieke partijen, worden door Onze Minister afgehandeld met toepassing van de Wet subsidiëring politieke partijen.   
-2.  Aanvragen tot verlening van subsidie, ingediend op grond van de [Wet subsidiëring politieke partijen](../../../../../../wet/wet/subsidiëring/politieke/partijen/BWBR0010465/README.md), met betrekking tot het kalenderjaar gelegen na de inwerkingtreding van paragraaf 2 van de Wet financiering politieke partijen, worden door Onze Minister afgehandeld met toepassing van die paragraaf.   
-3.  Indien op grond van artikel 46 bij koninklijk besluit is bepaald dat paragraaf 2 op een later tijdstip in werking treedt, worden tot dat tijdstip aanvragen tot verlening van subsidie, door Onze Minister afgehandeld met toepassing van de [Wet subsidiëring politieke partijen](../../../../../../wet/wet/subsidiëring/politieke/partijen/BWBR0010465/README.md).   
-4.  Op de datum van inwerkingtreding van paragraaf 2 van deze wet lopende geschillen en procedures van bezwaar en beroep inzake de toepassing van de [Wet subsidiëring politieke partijen](../../../../../../wet/wet/subsidiëring/politieke/partijen/BWBR0010465/README.md) worden door Onze Minister afgewikkeld met toepassing van die wet.  
+1.  Aanvragen tot vaststelling van een subsidie, ingediend op grond van de Wet subsidiëring politieke partijen, met betrekking tot het kalenderjaar gelegen voor de inwerkingtreding van paragraaf 2 van de Wet financiering politieke partijen, worden door Onze Minister afgehandeld met toepassing van de Wet subsidiëring politieke partijen.   
+2.  Aanvragen tot verlening van subsidie, ingediend op grond van de Wet subsidiëring politieke partijen, met betrekking tot het kalenderjaar gelegen na de inwerkingtreding van paragraaf 2 van de Wet financiering politieke partijen, worden door Onze Minister afgehandeld met toepassing van die paragraaf.   
+3.  Indien op grond van artikel 46 bij koninklijk besluit is bepaald dat paragraaf 2 op een later tijdstip in werking treedt, worden tot dat tijdstip aanvragen tot verlening van subsidie, door Onze Minister afgehandeld met toepassing van de Wet subsidiëring politieke partijen.   
+4.  Op de datum van inwerkingtreding van paragraaf 2 van deze wet lopende geschillen en procedures van bezwaar en beroep inzake de toepassing van de Wet subsidiëring politieke partijen worden door Onze Minister afgewikkeld met toepassing van die wet.  
 
 ### Artikel  43  
 

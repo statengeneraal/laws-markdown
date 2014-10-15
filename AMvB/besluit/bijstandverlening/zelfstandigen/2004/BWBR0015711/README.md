@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 3 september 2003, Directie Bijstand en Gemeentelijk Activeringsbeleid, nr. B&GA/WWB/03/70143;
 
-Gelet op [artikel 7 van de Invoeringswet Wet werk en bijstand](../../../../../../wet/invoeringswet/wet/werk/en/bijstand/BWBR0015704/README.md);
+Gelet op artikel 7 van de Invoeringswet Wet werk en bijstand;
 
 De Raad van State gehoord (advies van 18 september 2003, nr. W12.03.0369/IV);
 
@@ -22,13 +22,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+a. wet: Wet werk en bijstand;  
 
-b. zelfstandige: de belanghebbende van 18 jaar tot aan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) die voor de voorziening in het bestaan is aangewezen op arbeid in eigen bedrijf of zelfstandig beroep hier te lande en die: 
+b. zelfstandige: de belanghebbende van 18 jaar tot aan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet die voor de voorziening in het bestaan is aangewezen op arbeid in eigen bedrijf of zelfstandig beroep hier te lande en die: 
 
 1°. voldoet aan de wettelijke vereisten voor de uitoefening daarvan;  
 
-2°. voldoet aan het urencriterium, bedoeld in [artikel 3.6 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+2°. voldoet aan het urencriterium, bedoeld in artikel 3.6 van de Wet inkomstenbelasting 2001, en  
 
 3°. alleen of samen met degenen met wie hij het bedrijf of zelfstandig beroep uitoefent de volledige zeggenschap in dat bedrijf of zelfstandig beroep heeft en de financiële risico's daarvan draagt;    
 
@@ -36,17 +36,17 @@ c. levensvatbaar bedrijf of zelfstandig beroep: het bedrijf of zelfstandig beroe
 
 d. boekjaar: de periode van 12 maanden waarover de administratie van de zelfstandige wordt gevoerd;  
 
-e. netto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), met toepassing van artikel 6, tweede lid;  
+e. netto inkomen: het over het boekjaar verworven inkomen, bedoeld in hoofdstuk 3, paragraaf 3.4 van de wet, met toepassing van artikel 6, tweede lid;  
 
-f. bruto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), zonder toepassing van [artikel 31, derde lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en artikel 6, tweede lid;  
+f. bruto inkomen: het over het boekjaar verworven inkomen, bedoeld in hoofdstuk 3, paragraaf 3.4 van de wet, zonder toepassing van artikel 31, derde lid, van de wet en artikel 6, tweede lid;  
 
-g. jaarnorm: de tot een bedrag per boekjaar omgerekende som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de verleende bijzondere bijstand;  
+g. jaarnorm: de tot een bedrag per boekjaar omgerekende som van de bijstandsnorm, bedoeld in hoofdstuk 3, paragraaf 3.2 en 3.3 van de wet, verhoogd met de vergoeding, bedoeld in artikel 46 van de Zorgverzekeringswet en de verleende bijzondere bijstand;  
 
-h. totaal vermogen: het vermogen, bedoeld in [artikel 34, eerste lid, onderdeel a, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), zonder aftrek van de aanwezige schulden en zonder de in [artikel 34, tweede lid, onderdelen a en e, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), bedoelde bezittingen in aanmerking te nemen;  
+h. totaal vermogen: het vermogen, bedoeld in artikel 34, eerste lid, onderdeel a, van de wet, zonder aftrek van de aanwezige schulden en zonder de in artikel 34, tweede lid, onderdelen a en e, van de wet, bedoelde bezittingen in aanmerking te nemen;  
 
 i. eigen vermogen: het verschil tussen het totaal vermogen en de aanwezige schulden;  
 
-j. bank: bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j. bank: bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 k. ondernemer in de binnenvaart: de zelfstandige die arbeid verricht door:  
 
@@ -76,11 +76,11 @@ c. de zelfstandige van 55 jaar en ouder wiens bedrijf of zelfstandig beroep niet
 
 d. de zelfstandige wiens bedrijf of zelfstandig beroep niet levensvatbaar is en die zich verplicht de activiteiten in het bedrijf of zelfstandig beroep zo spoedig mogelijk, doch uiterlijk binnen 12 maanden, te beëindigen;  
 
-e. de zelfstandige die om gezondheidsredenen niet of slechts beperkt in staat is tot het uitoefenen van zijn bedrijf of zelfstandig beroep en die een uitkering ingevolge de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) heeft aangevraagd.     
+e. de zelfstandige die om gezondheidsredenen niet of slechts beperkt in staat is tot het uitoefenen van zijn bedrijf of zelfstandig beroep en die een uitkering ingevolge de Wet arbeidsongeschiktheidsverzekering zelfstandigen heeft aangevraagd.     
 2.  Bijstand ter voorziening in de behoefte aan bedrijfskapitaal kan slechts worden verleend aan de zelfstandige, bedoeld in de onderdelen a, b en c van het eerste lid.   
 3.  Bijstandsverlening aan een persoon die algemene bijstand ontvangt, die voornemens is een bedrijf of zelfstandig beroep te beginnen en zich in verband hiermee niet beschikbaar stelt voor arbeid in dienstbetrekking kan gedurende een voorbereidingsperiode van ten hoogste 12 maanden worden voortgezet. In een zodanig geval: 
 
-a. zijn de [artikelen 9](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), met uitzondering van het eerste lid, onderdeel c, en [10 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet van toepassing;  
+a. zijn de artikelen 9, met uitzondering van het eerste lid, onderdeel c, en 10 van de wet niet van toepassing;  
 
 b. is de belanghebbende verplicht mee te werken aan begeleiding door een door het college aangewezen derde.    
 
@@ -99,7 +99,7 @@ b.  wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 ja
 
 ####Forfaitair bedrag
 
-De bijstand die wordt verleend in de vorm van een bedrag om niet met toepassing van artikel 12 wordt verhoogd met een forfaitair bedrag dat overeenkomt met de loonbelasting en de premies volksverzekeringen waarvoor de gemeente die de bijstand verleent krachtens de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) inhoudingspichtige is. 
+De bijstand die wordt verleend in de vorm van een bedrag om niet met toepassing van artikel 12 wordt verhoogd met een forfaitair bedrag dat overeenkomt met de loonbelasting en de premies volksverzekeringen waarvoor de gemeente die de bijstand verleent krachtens de Wet op de loonbelasting 1964 inhoudingspichtige is. 
 
 ###Artikel 5 
 
@@ -115,7 +115,7 @@ De algemene bijstand wordt per boekjaar vastgesteld.
 
 ####Het inkomen
 
-1.  In afwijking van [artikel 32, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt bij de bijstandsverlening aan een zelfstandige rekening gehouden met het inkomen over een boekjaar. Een teruggave van inkomstenbelasting en premies volksverzekeringen wordt bij een zelfstandige niet als inkomen aangemerkt.   
+1.  In afwijking van artikel 32, eerste lid, onderdeel b, van de wet wordt bij de bijstandsverlening aan een zelfstandige rekening gehouden met het inkomen over een boekjaar. Een teruggave van inkomstenbelasting en premies volksverzekeringen wordt bij een zelfstandige niet als inkomen aangemerkt.   
 2.  Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 1 januari 2014: 21 procent van dat inkomen.  
 
 ### §  3  
@@ -206,8 +206,8 @@ In afwijking van artikel 12 wordt, voor zover het eigen vermogen de van toepassi
 ####Vormen van bijstandsverlening aan zelfstandigen
 
 1.  Bijstand aan een zelfstandige ter voorziening in de behoefte aan bedrijfskapitaal wordt naar de regels van dit besluit verleend in de vorm van een rentedragende lening, een renteloze lening, borgtocht of een bedrag om niet.   
-2.  Een voorschot als bedoeld in [artikel 52, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), kan geen betrekking hebben op bijstand ter voorziening in de behoefte aan bedrijfskapitaal.   
-3.  Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt niet verleend aan personen als bedoeld in [artikel 34a, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) met een naar het oordeel van het UWV structurele functionele beperking die arbeid als zelfstandige verrichten of gaan verrichten. 
+2.  Een voorschot als bedoeld in artikel 52, van de wet, kan geen betrekking hebben op bijstand ter voorziening in de behoefte aan bedrijfskapitaal.   
+3.  Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt niet verleend aan personen als bedoeld in artikel 34a, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen met een naar het oordeel van het UWV structurele functionele beperking die arbeid als zelfstandige verrichten of gaan verrichten. 
 
 ### Artikel  15  
 
@@ -263,7 +263,7 @@ In afwijking van artikel 11 wordt aan een zelfstandige als bedoeld in artikel 2,
 
 a.de uitkeringsduur ten hoogste zes maanden is;
 
-b.de inkomensvorming in het betreffende bedrijf of zelfstandig beroep regelmatig over het jaar verloopt en het inkomen duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de verleende bijzondere bijstand; en
+b.de inkomensvorming in het betreffende bedrijf of zelfstandig beroep regelmatig over het jaar verloopt en het inkomen duurzaam lager is dan de som van de bijstandsnorm, bedoeld in hoofdstuk 3, paragraaf 3.2 en 3.3, van de wet, en de verleende bijzondere bijstand; en
 
 c.het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste lid, niet te boven gaat.
 
@@ -287,7 +287,7 @@ c.het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste lid
 
 ####Bedrijfskapitaal om niet gevestigde zelfstandige
 
-Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2014: € 9.541,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20. 
+Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2014: € 9.541,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in hoofdstuk 3, paragraaf 3.2 en 3.3, van de wet, en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20. 
 
 ### §  2  
 
@@ -359,7 +359,7 @@ Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel e, wordt al
 2.  Deze bijstand heeft voorlopig de vorm van een renteloze geldlening.   
 3.  Indien de belanghebbende in aansluiting op de voorbereidingsperiode: 
 
-a. geen bedrijf of beroep als zelfstandige begint, dan wordt de geldlening omgezet in een bedrag om niet, tenzij de belanghebbende niet voldoet aan de verplichtingen, bedoeld in [artikel 17 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), of een tekortschietend besef van verantwoordelijkheid betoont voor de voorziening in het bestaan;  
+a. geen bedrijf of beroep als zelfstandige begint, dan wordt de geldlening omgezet in een bedrag om niet, tenzij de belanghebbende niet voldoet aan de verplichtingen, bedoeld in artikel 17 van de wet, of een tekortschietend besef van verantwoordelijkheid betoont voor de voorziening in het bestaan;  
 
 b. een bedrijf of beroep als zelfstandige begint, dan wordt de geldlening omgezet in een rentedragende geldlening.    
 
@@ -450,7 +450,7 @@ i.de gemeenten Asten, Cranendonck, Deurne, Helmond, Mierlo en Someren en de prov
 ####Aanvraag bijstand door zelfstandigen in het buitenland
 
 1.  Bij zeer dringende redenen van tijdelijke aard kan aan de zelfstandige, die als ingezetene in de basisregistratie personen is ingeschreven en die zich uit hoofde van zijn bedrijf of beroep tijdelijk in het buitenland bevindt, door Onze Minister bijstand worden verleend volgens door hem te stellen regels.   
-2.   [Hoofdstuk 6, paragraaf 6.5, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en hoofdstuk VI zijn van toepassing op terugvordering en verhaal van kosten van bijstand die door Onze Minister is verleend, met dien verstande dat het Rijk in plaats van de gemeente treedt.  
+2.   Hoofdstuk 6, paragraaf 6.5, van de wet, en hoofdstuk VI zijn van toepassing op terugvordering en verhaal van kosten van bijstand die door Onze Minister is verleend, met dien verstande dat het Rijk in plaats van de gemeente treedt.  
 
 ### Hoofdstuk  V  
 
@@ -470,7 +470,7 @@ i.de gemeenten Asten, Cranendonck, Deurne, Helmond, Mierlo en Someren en de prov
 a.uit eigener beweging over ieder boekjaar waarover uitkering is verleend als bedoeld in hoofdstuk II, § 4, of aanspraak kan worden gemaakt op bijstand als bedoeld in artikel 21; of
 
 b.op verzoek van het college.
-3. Ten aanzien van de zelfstandige die zijn bedrijf of zelfstandig beroep gedurende ten minste een half jaar niet of nagenoeg niet uitoefent, zijn de [artikelen 9](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [10 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) van toepassing.
+3. Ten aanzien van de zelfstandige die zijn bedrijf of zelfstandig beroep gedurende ten minste een half jaar niet of nagenoeg niet uitoefent, zijn de artikelen 9 en 10 van de wet van toepassing.
 
 ### §  2  
 
@@ -531,14 +531,14 @@ b.alle concurrente schuldeisers evenredige medewerking verlenen.
 ####Beëindiging bedrijf of zelfstandig beroep
 
 1.  Bij beëindiging van het bedrijf of zelfstandig beroep wordt de lening, behoudens in het geval artikel 42 toepassing vindt, volledig terugbetaald. Gestelde zekerheden worden volledig uitgewonnen. In afwijking daarvan blijft, op verzoek van de betrokkene en voor zover mogelijk, een lening onder hypothecair verband, verbonden aan de eigen woning met bijbehorend erf, gehandhaafd of wordt deze tot de onbelaste waarde van deze woning gevestigd.   
-2.  Indien na beëindiging van het bedrijf of zelfstandig beroep een deel van de lening resteert en deze niet met toepassing van het vorige lid onder hypothecair verband is verleend, wordt het resterende deel van de lening vanaf de beëindiging renteloos. Gedurende de periode van vijf jaar na beëindiging van het bedrijf of zelfstandig beroep dient 50 procent van het netto inkomen boven de bijstandsnorm, bedoeld in [hoofdstuk 3, paragrafen 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), besteed te worden voor aflossing van deze lening.  
+2.  Indien na beëindiging van het bedrijf of zelfstandig beroep een deel van de lening resteert en deze niet met toepassing van het vorige lid onder hypothecair verband is verleend, wordt het resterende deel van de lening vanaf de beëindiging renteloos. Gedurende de periode van vijf jaar na beëindiging van het bedrijf of zelfstandig beroep dient 50 procent van het netto inkomen boven de bijstandsnorm, bedoeld in hoofdstuk 3, paragrafen 3.2 en 3.3, van de wet, besteed te worden voor aflossing van deze lening.  
 
 ### Artikel  43a  
 
 1.  Bij beëindiging van het bedrijf of zelfstandig beroep vangt de aflossing van de geldlening onder verband van hypotheek of verpanding aan op het moment van beëindiging van de bijstandsverlening.   
 2.  De aflossing van de geldlening onder verband van hypotheek of verpanding vindt maandelijks plaats gedurende ten hoogste tien jaar.   
-3.  Het college stelt het maandbedrag van de aflossing vast aan de hand van het inkomen, bedoeld in [paragraaf 3.4 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en de noodzakelijke, voor rekening van de zelfstandige en zijn gezin komende, bijzondere bestaanskosten. Indien de omstandigheden daartoe aanleiding geven, wijzigt het college het maandbedrag van de aflossing.   
-4.  Bij een inkomen van de zelfstandige en zijn gezin als bedoeld in het derde lid dat niet uitgaat boven de van toepassing zijnde bijstandsnorm, bedoeld in de [paragrafen 3.2](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [3.3 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), wordt geen aflossing gevergd.   
+3.  Het college stelt het maandbedrag van de aflossing vast aan de hand van het inkomen, bedoeld in paragraaf 3.4 van de Wet werk en bijstand, en de noodzakelijke, voor rekening van de zelfstandige en zijn gezin komende, bijzondere bestaanskosten. Indien de omstandigheden daartoe aanleiding geven, wijzigt het college het maandbedrag van de aflossing.   
+4.  Bij een inkomen van de zelfstandige en zijn gezin als bedoeld in het derde lid dat niet uitgaat boven de van toepassing zijnde bijstandsnorm, bedoeld in de paragrafen 3.2 en 3.3 van de Wet werk en bijstand, wordt geen aflossing gevergd.   
 5.  Indien de zelfstandige en zijn gezin tijdens de aflossingsperiode van tien jaar schuldig nalatig zijn in het voldoen van de vastgestelde aflossing, is het nog niet afgeloste deel van de geldlening terstond opeisbaar en is daarover tevens de wettelijke rente verschuldigd.  
 
 ### Artikel  43b  
@@ -566,7 +566,7 @@ Aan de zelfstandige of langstlevende echtgenoot, bedoeld in artikel 43c, eerste 
 
 ####Terugvordering
 
-1.  Bij de toepassing van [artikel 58 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) worden kosten van bijstand door het college teruggevorderd met toepassing van artikel 12, tweede lid, onderdeel c, en de hoofdstukken V en VI.   
+1.  Bij de toepassing van artikel 58 van de wet worden kosten van bijstand door het college teruggevorderd met toepassing van artikel 12, tweede lid, onderdeel c, en de hoofdstukken V en VI.   
 2.  Indien daarvoor dringende redenen aanwezig zijn kan het college besluiten geheel of gedeeltelijk van terugvordering af te zien.  
 
 ### Artikel  45  
@@ -575,14 +575,14 @@ Aan de zelfstandige of langstlevende echtgenoot, bedoeld in artikel 43c, eerste 
 
 1.  Het college vordert de bijstand van de zelfstandige terug voor zover de bijstand ten onrechte of tot een te hoog bedrag is verleend als gevolg van: 
 
-a. het niet of niet behoorlijk nakomen van de verplichtingen, bedoeld in [artikel 17 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+a. het niet of niet behoorlijk nakomen van de verplichtingen, bedoeld in artikel 17 van de wet;  
 
 b. het niet nakomen van de verplichting, bedoeld in artikel 38, eerste en tweede lid; of  
 
 c. een tekortschietend besef van verantwoordelijkheid voor de voorziening in het bestaan, in het geval het bijstand in de met de voorbereiding samenhangende kosten betreft.     
 2.  Hetgeen anderszins onverschuldigd is betaald wordt teruggevorderd voor zover de zelfstandige dit redelijkerwijs had kunnen begrijpen.   
 3.  Terugvordering als bedoeld in het tweede lid vindt niet plaats, indien de betreffende kosten zijn gemaakt meer dan twee jaar voor de datum van verzending van het besluit tot terugvordering.   
-4.  De lening, die de zelfstandige bij de beëindiging op grond van artikel 43 gehouden is terug te betalen, is een lening als bedoeld in [artikel 58, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md). 
+4.  De lening, die de zelfstandige bij de beëindiging op grond van artikel 43 gehouden is terug te betalen, is een lening als bedoeld in artikel 58, eerste lid, onderdeel b, van de wet. 
 
 ###Artikel 46 
 
@@ -590,7 +590,7 @@ c. een tekortschietend besef van verantwoordelijkheid voor de voorziening in het
 
 Kosten van bijstand worden van de zelfstandige teruggevorderd voor zover:
 
-a.hij naderhand met betrekking tot de periode waarover bijstand is verleend over in aanmerking te nemen middelen als bedoeld in [hoofdstuk 3, paragraaf 3.4, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), beschikt of kan beschikken;
+a.hij naderhand met betrekking tot de periode waarover bijstand is verleend over in aanmerking te nemen middelen als bedoeld in hoofdstuk 3, paragraaf 3.4, van de wet, beschikt of kan beschikken;
 
 b.bijstand is verleend met een bepaalde bestemming en naderhand door hem vergoedingen of tegemoetkomingen worden ontvangen met het oog op die bestemming. 
 
@@ -610,7 +610,7 @@ Onverminderd de artikelen 40 en 41 worden kosten van bijstand verleend in de vor
 
 1.  Onze Minister vergoedt, ten laste van 's Rijks kas, 75% van de in een kalenderjaar ten laste van de gemeente gebleven kosten van: 
 
-a. algemene bijstand aan zelfstandigen, bedoeld in artikel 2, eerste lid, onderdelen a, c, d en e, waaronder begrepen de loonbelasting, premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die daarover verschuldigd zijn, voorzover de algemene bijstand niet bij wijze van voorschot op grond van [artikel 52 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is verleend;  
+a. algemene bijstand aan zelfstandigen, bedoeld in artikel 2, eerste lid, onderdelen a, c, d en e, waaronder begrepen de loonbelasting, premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, die daarover verschuldigd zijn, voorzover de algemene bijstand niet bij wijze van voorschot op grond van artikel 52 van de wet is verleend;  
 
 b. bijstand ter voorziening in de behoefte aan bedrijfskapitaal.     
 2.  In afwijking van het eerste lid, is de vergoeding 100% indien de bijstand is verleend aan ondernemers in de binnenvaart.   
@@ -621,7 +621,7 @@ b. bijstand ter voorziening in de behoefte aan bedrijfskapitaal.
 
 ####Uitkering voor verlening van algemene bijstand aan beginnende zelfstandigen
 
-Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan het college een uitkering als onderdeel van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), voor de kosten van algemene bijstand aan zelfstandigen, bedoeld in artikel 2, eerste lid, onderdeel b, en de belanghebbende, bedoeld in artikel 2, derde lid. 
+Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan het college een uitkering als onderdeel van de uitkering, bedoeld in artikel 69, eerste lid, van de wet, voor de kosten van algemene bijstand aan zelfstandigen, bedoeld in artikel 2, eerste lid, onderdeel b, en de belanghebbende, bedoeld in artikel 2, derde lid. 
 
 ###Artikel 49 
 
@@ -634,7 +634,7 @@ Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan het college e
 
 ####Uitkering ten laste gebleven kosten
 
-1. Voor de ten laste van de gemeente gebleven kosten, bedoeld in artikel 48, die op grond van het eerste lid van dat artikel niet voor vergoeding in aanmerking komen, verstrekt Onze Minister jaarlijks ten laste van 's Rijks kas aan de gemeente een uitkering, met dien verstande dat geen uitkering wordt verstrekt voor op grond van [artikel 52 van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) verleende algemene bijstand. De uitkering wordt ten minste drie maanden voorafgaande aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
+1. Voor de ten laste van de gemeente gebleven kosten, bedoeld in artikel 48, die op grond van het eerste lid van dat artikel niet voor vergoeding in aanmerking komen, verstrekt Onze Minister jaarlijks ten laste van 's Rijks kas aan de gemeente een uitkering, met dien verstande dat geen uitkering wordt verstrekt voor op grond van artikel 52 van de wet verleende algemene bijstand. De uitkering wordt ten minste drie maanden voorafgaande aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
 2. Het bedrag van de uitkering wordt volgens bij ministeriële regeling te stellen regels berekend aan de hand van het voor ieder jaar bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in het eerste lid. Bij deze ministeriële regeling kunnen regels worden gesteld omtrent het verzamelen van gegevens noodzakelijk voor de berekening van het bedrag van de uitkering. 
 
 ###Artikel 51 
@@ -668,7 +668,7 @@ c.de aanvullende uitkering, bedoeld in artikel 52.
 
 ####Vaststelling
 
-1. Onze Minister stelt de ten laste van de gemeente gebleven kosten, bedoeld in de artikelen 48 en 50, de vergoeding, bedoeld in artikel 48, en de aanvullende uitkering, bedoeld in artikel 52, vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md). 
+1. Onze Minister stelt de ten laste van de gemeente gebleven kosten, bedoeld in de artikelen 48 en 50, de vergoeding, bedoeld in artikel 48, en de aanvullende uitkering, bedoeld in artikel 52, vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet. 
 2. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden de ten laste van de gemeente gebleven kosten ambtshalve door Onze Minister vastgesteld. 
 
 ### Artikel  55  
@@ -679,8 +679,8 @@ c.de aanvullende uitkering, bedoeld in artikel 52.
 
 a. het bijstand betreft die is verleend in strijd met de bij of krachtens de wet of dit besluit gestelde regels, of die niet of niet volledig overeenkomstig hoofdstuk VI is of wordt teruggevorderd;  
 
-b. niet is voldaan aan [artikel 18, tweede lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), voor een bedrag gelijk aan het bedrag waarmee de kosten zouden zijn verlaagd indien het college op een juiste wijze toepassing zou hebben gegeven aan dit artikel.      
-2.  Indien als gevolg van het niet hebben voldaan door het college aan de bij of krachtens de [artikelen 17](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [43](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [44](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [53a, eerste lid, van de wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of artikel 35 gestelde regels, niet kan worden vastgesteld of en voor welk bedrag de ten laste van de gemeenten gebleven kosten buiten aanmerking moeten worden gelaten, wordt volgens door Onze Minister te stellen regels hiervoor een bedrag vastgesteld.   
+b. niet is voldaan aan artikel 18, tweede lid, van de wet, voor een bedrag gelijk aan het bedrag waarmee de kosten zouden zijn verlaagd indien het college op een juiste wijze toepassing zou hebben gegeven aan dit artikel.      
+2.  Indien als gevolg van het niet hebben voldaan door het college aan de bij of krachtens de artikelen 17, 43, 44 en 53a, eerste lid, van de wet of artikel 35 gestelde regels, niet kan worden vastgesteld of en voor welk bedrag de ten laste van de gemeenten gebleven kosten buiten aanmerking moeten worden gelaten, wordt volgens door Onze Minister te stellen regels hiervoor een bedrag vastgesteld.   
 3.  Het eerste en tweede lid zijn niet van toepassing voorzover naar het oordeel van Onze Minister: 
 
 a. de tekortkomingen van bijzondere aard of geringe betekenis zijn;  
@@ -710,7 +710,7 @@ b. 90% van de kosten van aan derden opgedragen onderzoek inzake verlening van al
 
 ####Vaststelling
 
-1. Onze Minister stelt de vergoeding, bedoeld in artikel 56, vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md). 
+1. Onze Minister stelt de vergoeding, bedoeld in artikel 56, vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet. 
 2. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt de vergoeding ambtshalve door Onze Minister vastgesteld. 
 
 ### Artikel  59  
@@ -733,13 +733,21 @@ b. voorzover zij hoger zijn dan de door Onze Minister vast te stellen maximaal v
 
 1.  Onze Minister herziet, met ingang van 1 januari van elk kalenderjaar, met de procentuele stijging van het prijsindexcijfer voor de gezinsconsumptie de bedragen, genoemd in de artikelen 3, 20, 22, 24, 25 en 26.   
 2.  Onze Minister herziet het rentepercentage, genoemd in artikel 15, voor zover de rente die banken in rekening brengen bij het verstrekken van leningen aan bedrijven, daartoe aanleiding geeft.   
-3.  Onze Minister stelt het in artikel 6, tweede lid, genoemde percentage zodanig vast dat dit gelijk is aan het gemiddeld bedrag dat voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet hebben bereikt over de algemene bijstand verschuldigd is aan loonbelasting en premies volksverzekeringen, uitgedrukt als een percentage van de algemene bijstand verhoogd met deze loonbelasting en premies.  
+3.  Onze Minister stelt het in artikel 6, tweede lid, genoemde percentage zodanig vast dat dit gelijk is aan het gemiddeld bedrag dat voor personen die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet hebben bereikt over de algemene bijstand verschuldigd is aan loonbelasting en premies volksverzekeringen, uitgedrukt als een percentage van de algemene bijstand verhoogd met deze loonbelasting en premies.  
 
 ### Artikel  60a  
 
 ####Overgangsbepaling
 
 Hoofdstuk VII blijft van toepassing op de vaststelling van de vergoeding, uitkering en kosten, bedoeld in de artikelen 54 en 58, zoals dit hoofdstuk luidde voor inwerkingtreding van de Wet van 17 december 2009, (Stb. 592) tot bundeling van uitkeringen inkomensvoorziening aan gemeenten, voor kosten die betrekking hebben op kalenderjaren gelegen voor die van inwerkingtreding van die wet. 
+
+### Artikel  60b  
+
+####Grondslag
+
+Treedt in werking per 01-01-2015 
+
+Dit besluit berust op artikel 78f van de Participatiewet. 
 
 ###Artikel 61 
 

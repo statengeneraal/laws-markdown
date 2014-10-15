@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, van 2 december 1998, Directie Sociale Verzekeringen, Nr. SV/WV/98/38819; 
 
-Gelet op [artikel 5, derde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md); 
+Gelet op artikel 5, derde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; 
 
 De Raad van State gehoord (advies van 10 december 1998, nr. W12.98.0561); 
 
@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 ####Uitbreiding van de kring van studerenden
 
-Voor de toepassing van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) wordt mede verstaan onder studerende de persoon die niet op grond van [artikel 1:4, eerste lid, van die wet](../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) als studerende wordt aangemerkt en die: 
+Voor de toepassing van de Wet werk en arbeidsondersteuning jonggehandicapten wordt mede verstaan onder studerende de persoon die niet op grond van artikel 1:4, eerste lid, van die wet als studerende wordt aangemerkt en die: 
 
 a. werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt;  
 
 b. in verband met onderwijs of een beroepsopleiding lessen of stages volgt van gemiddeld minder dan 213 klokuren per kwartaal en: 
 
-1°. een opleiding aan een instelling voor hoger onderwijs als bedoeld in de [artikelen 1.8](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [6.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel een daarmee gelijkwaardige opleiding in of buiten Nederland volgt met een studiebelasting van ten minste 1680 uur per jaar;  
+1°. een opleiding aan een instelling voor hoger onderwijs als bedoeld in de artikelen 1.8 of 6.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, dan wel een daarmee gelijkwaardige opleiding in of buiten Nederland volgt met een studiebelasting van ten minste 1680 uur per jaar;  
 
 2°.  een andere studie of opleiding volgt dan genoemd onder 1°, met een studiebelasting van ten minste 1600 uur per jaar; of  
 

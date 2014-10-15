@@ -3542,7 +3542,7 @@ c.gedurende een periode van ten minste zes maanden, nadat hij onvrijwillige werk
 
 d.indien hij een beroepsopleiding gaat volgen, die, behoudens ingeval van onvrijwillige werkloosheid, verband houdt met de voorafgaande beroepsactiviteit. 
 3. Voor de toepassing van het eerste lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat in artikel 3.74 voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan. 
-4. De vreemdeling, bedoeld in het eerste lid, meldt zich uiterlijk binnen een maand na afloop van de in artikel 8.11, eerste lid, bedoelde periode aan bij Onze Minister ter inschrijving in de vreemdelingenadministratie in geval hij beoogt langer dan drie maanden in Nederland te verblijven. 
+4.  De vreemdeling, bedoeld in het eerste lid, kan zich aanmelden bij Onze Minister ter inschrijving in de vreemdelingenadministratie, ingeval hij langer drie maanden in Nederland heeft verbleven dan wel beoogt langer dan drie maanden in Nederland te verblijven.  
 5. Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de gegevens en bescheiden die de vreemdeling bij de in het vorige lid bedoelde melding moet verstrekken of overleggen. 
 6. Onze Minister verstrekt na de in het vierde lid bedoelde inschrijving onmiddellijk een verklaring van inschrijving, waarin naam en adres van de ingeschreven vreemdeling en de datum van inschrijving worden vermeld. 
 7. De in het vierde en vijfde lid omschreven verplichtingen rusten ten aanzien van kinderen beneden de leeftijd van twaalf jaar op de wettelijk vertegenwoordiger. Voor kinderen van twaalf jaar en ouder kan aan deze verplichtingen ook worden voldaan door de wettelijk vertegenwoordiger.
@@ -3693,7 +3693,7 @@ Beëindiging van het rechtmatig verblijf van de vreemdeling vormt een onderbreki
 ### Artikel 8.22 
 
 1. Onze Minister kan het rechtmatig verblijf ontzeggen of beëindigen, om redenen van openbare orde of openbare veiligheid, indien het persoonlijke gedrag van de vreemdeling een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving vormt. Alvorens hierover een besluit te nemen, houdt Onze Minister in het bijzonder rekening met de duur van het verblijf van de betrokkene in Nederland, diens leeftijd, gezondheidstoestand, gezins- en economische situatie en sociale en culturele integratie in Nederland en met de mate waarin hij bindingen heeft met zijn land van herkomst. 
-2. Onze Minister kan bij de afgifte van de verklaring van inschrijving of het verblijfsdocument aan de lidstaat van oorsprong of andere lidstaten verzoeken om inlichtingen omtrent de gerechtelijke antecedenten. 
+2. Onze Minister kan uiterlijk drie maanden na de datum van binnenkomst van de betrokkene in Nederland dan wel bij de afgifte van de verklaring van inschrijving of van het verblijfsdocument aan de lidstaat van oorsprong of andere lidstaten verzoeken om inlichtingen omtrent de gerechtelijke antecedenten. 
 3. Tenzij dwingende redenen van openbare veiligheid daartoe nopen, wordt het rechtmatig verblijf niet beëindigd, indien de vreemdeling:
 
 a.in de voorafgaande tien jaar in Nederland heeft gewoond; of

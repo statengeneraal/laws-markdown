@@ -2,13 +2,13 @@
 
 ##Verordening op de Raad van Advies
 
-¹ Verordening van 30 juni 2011 (besluit AR 6 juni 2011). Deze verordening treedt in de plaats van de [Verordening op de Raad van Advies](../../../../../../../../pbo/verordening/op/de/raad/van/advies/BWBR0022705/README.md) van 25 september 2007, Stcrt. 2007, nr. 206, inw.tr. 1 januari 2008 (besluit AR 1 september 2008, Adv.bl. 3 oktober 2008, nr. 14, Stcrt. 2008, nr. 192) en vervalt op 1 januari 2012 of zoveel later als het wetsvoorstel tot aanpassing van de Advocatenwet, waarin de Raad van Advies wettelijk geregeld is, kracht van wet krijgt.Het College van Afgevaardigden van de Nederlandse Orde van Advocaten,  
+¹ Verordening van 30 juni 2011 (besluit AR 6 juni 2011). Deze verordening treedt in de plaats van de Verordening op de Raad van Advies van 25 september 2007, Stcrt. 2007, nr. 206, inw.tr. 1 januari 2008 (besluit AR 1 september 2008, Adv.bl. 3 oktober 2008, nr. 14, Stcrt. 2008, nr. 192) en vervalt op 1 januari 2012 of zoveel later als het wetsvoorstel tot aanpassing van de Advocatenwet, waarin de Raad van Advies wettelijk geregeld is, kracht van wet krijgt.Het College van Afgevaardigden van de Nederlandse Orde van Advocaten,  
 Overwegende,
 
 – dat het gewenst is een Raad van Advies op te richten, die als taak heeft onafhankelijk en vanuit verschillende maatschappelijke invalshoeken de Algemene Raad onderscheidenlijk het College van Afgevaardigden te adviseren over hoofdpunten van beleid, waaronder zo nodig begrepen conceptregelgeving, onderscheidenlijk over een initiatiefvoorstel van verordening;  
 
 – dat het algemeen belang van een goede beroepsuitoefening van de praktijk en de kernwaarden van de advocatuur hierbij uitgangspunt zijn;   
-Gelet op de [artikelen 26](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md) en [28 Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op de artikelen 26 en 28 Advocatenwet;
 
 Gelet op het ontwerp van de Algemene Raad met toelichting;
 Stelt de navolgende verordening vast:    
@@ -27,7 +27,7 @@ Er is een Raad van Advies van de Nederlandse Orde van Advocaten, verder te noeme
 
 ### Artikel  3  
 
-1.  De Raad van Advies bestaat uit ten minste vijf en ten hoogste zeven leden.   
+1.  De Raad van Advies bestaat uit ten minste vijf en ten hoogste acht leden.   
 2.  De leden hebben op persoonlijke titel zitting.   
 3.  De meerderheid bestaat uit niet-advocaten.   
 4.  In de Raad van Advies is kennis van de rechtspraktijk en ervaring als afnemer van advocaatdiensten aanwezig.   

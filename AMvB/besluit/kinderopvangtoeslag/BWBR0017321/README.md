@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 10 augustus 2004, Directie Arbeidsverhoudingen, nr. AV/KO/2004/54428, gedaan mede namens de Staatssecretaris van Financiën en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-Gelet op de [artikelen 7, derde, vierde, vijfde, zesde en zevende lid](../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [18](../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [34](../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [94, derde lid](../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [95, vierde lid, van de Wet kinderopvang](../../../../wet/wet/kinderopvang/BWBR0017017/README.md);
+Gelet op de artikelen 7, derde, vierde, vijfde, zesde en zevende lid, 18, 34, 94, derde lid, 95, vierde lid, van de Wet kinderopvang;
 
 De Raad van State gehoord (advies van 9 september 2004 no. W12.04.0408/IV;
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+a. wet: Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
 b. dagopvang: kinderopvang, verzorgd door een kindercentrum voor kinderen tot de leeftijd waarop zij het basisonderwijs volgen;  
 
@@ -28,9 +28,9 @@ c. buitenschoolse opvang: kinderopvang, verzorgd door een kindercentrum voor kin
 
 d. maximum uurprijs: de maximaal voor kinderopvangtoeslag en voor tegemoetkomingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in aanmerking komende prijs per zestig minuten geboden kinderopvang;  
 
-e. kosten van kinderopvang: het aantal uren kinderopvang per kind, vermenigvuldigd met de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in [artikel 1.7, tweede lid, van de wet](../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+e. kosten van kinderopvang: het aantal uren kinderopvang per kind, vermenigvuldigd met de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in artikel 1.7, tweede lid, van de wet;  
 
-f.  tegenwoordige arbeid: tegenwoordige arbeid als bedoeld in [artikel 1.6, eerste lid, onder a of b, van de wet](../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
+f.  tegenwoordige arbeid: tegenwoordige arbeid als bedoeld in artikel 1.6, eerste lid, onder a of b, van de wet.   
 
 ### Artikel  1a  
 
@@ -113,10 +113,10 @@ b. per berekeningsjaar:
 
 2°. 70 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd, bedoeld in artikel 1, onderdeel c, gezamenlijk;  
 
-3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.       
+3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.       
 2.  Voor het aantal uren dat voor kinderopvangtoeslag in aanmerking komt, bedoeld in het eerste lid, onderdeel b, wordt uitgegaan van het aantal uren van de ouder of partner die in dat berekeningsjaar het minste uren heeft gewerkt, gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus heeft gevolgd.   
-3.  Indien de ouder of partner op hetzelfde moment in een berekeningsjaar kan worden aangemerkt als ouder, bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, van de wet](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel g of j, van de wet wordt voor het eerste lid, onderdeel b, uitgegaan van het subonderdeel dat leidt tot het meeste aantal uren als bedoeld in het eerste lid.   
-4.  Bij de toepassing van het eerste lid wordt indien een ouder of partner niet langer arbeid als bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, van de wet](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) verricht, gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop het verrichten van die arbeid is beëindigd, uitgegaan van het aantal uren dat de ouder of partner daaraan voorafgaand werkte.  
+3.  Indien de ouder of partner op hetzelfde moment in een berekeningsjaar kan worden aangemerkt als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel a of b, van de wet en als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel g of j, van de wet wordt voor het eerste lid, onderdeel b, uitgegaan van het subonderdeel dat leidt tot het meeste aantal uren als bedoeld in het eerste lid.   
+4.  Bij de toepassing van het eerste lid wordt indien een ouder of partner niet langer arbeid als bedoeld in artikel 1.6, eerste lid, onderdeel a of b, van de wet verricht, gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop het verrichten van die arbeid is beëindigd, uitgegaan van het aantal uren dat de ouder of partner daaraan voorafgaand werkte.  
 
 ### Paragraaf  2  
 
@@ -136,7 +136,7 @@ Vervallen per 01-01-2013
 
 ###Artikel 22b 
 
-Voor een berekeningsjaar dat voorafgaat aan 2013 blijft dit besluit, zoals dat luidde op 31 december van dat berekeningsjaar, van toepassing op de kinderopvangtoeslag en de tegemoetkoming, bedoeld in [artikel 1.5, eerste lid, van de wet](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) zoals dat luidde op 31 december 2012.
+Voor een berekeningsjaar dat voorafgaat aan 2013 blijft dit besluit, zoals dat luidde op 31 december van dat berekeningsjaar, van toepassing op de kinderopvangtoeslag en de tegemoetkoming, bedoeld in artikel 1.5, eerste lid, van de wet zoals dat luidde op 31 december 2012.
 
 ### Artikel  23  
 

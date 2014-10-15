@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds
+##Stabilisatie- en Associatie-Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds 
 
 ####Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds
 
@@ -37,7 +37,7 @@ De Voormalige Joegoslavische Republiek Macedonië verbindt zich ertoe samenwerki
 
 ### Artikel  5  
 
-1.   De associatie wordt volledig verwezenlijkt in een overgangsperiode van maximaal 10 jaar die in twee fasen uiteenvalt. Deze opsplitsing in twee op elkaar volgende fasen is bedoeld om de bepalingen van de Stabilisatie- en Associatieovereenkomst geleidelijk uit te voeren en de aandacht in de eerste fase toe te spitsen op de hieronder in titels III, V, VI and VII genoemde gebieden.   
+1.   De associatie wordt volledig verwezenlijkt in een overgangsperiode van maximaal 10 jaar die in twee fasen uiteenvalt. Deze opsplitsing in twee op elkaar volgende fasen is bedoeld om de bepalingen van de Stabilisatie- en Associatieovereenkomst geleidelijk uit te voeren en de aandacht in de eerste fase toe te spitsen op de hieronder in de titels III, V, VI en VII genoemde gebieden.   
 2.   De krachtens artikel 108 opgerichte Stabilisatie- en Associatieraad onderzoekt op gezette tijden de toepassing van deze overeenkomst en de verwezenlijking door de Voormalige Joegoslavische Republiek Macedonië van de juridische, administratieve, institutionele en economische hervormingen in het licht van de preambule en in overeenstemming met de algemene principes van deze overeenkomst.   
 3.   Vier jaar na de inwerkingtreding van de overeenkomst zal de Stabilisatie- en Associatieraad de vooruitgang evalueren en een besluit nemen over de overgang naar en de duur van de tweede fase, en over eventueel aan te brengen wijzigingen in de inhoud van de bepalingen inzake de tweede fase. Daarbij wordt rekening gehouden met de resultaten van voornoemde toetsing.    
 4.   De twee fasen als bedoeld in de leden 1 en 3 zijn niet van toepassing op titel IV.  
@@ -213,42 +213,27 @@ Protocol nr. 3 bevat de handelsregeling voor de daarin genoemde verwerkte landbo
 
 ####Landbouwproducten
 
-1.  De Gemeenschap gaat over tot de afschaffing van de douanerechten en heffingen van gelijke werking die van toepassing zijn op de invoer van landbouwproducten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië, andere dan die van de posten 0102, 0201, 0202, 1701, 1702 en 2204 van de gecombineerde nomenclatuur. Voor de producten die vallen onder hoofdstukken 7 en 8 van de Gecombineerde Nomenclatuur, voor welke het gemeenschappelijk douanetarief in een „ad valorem" douanerecht en in een specifiek douanerecht voorziet, is de afschaffing uitsluitend op het „ad valorem" deel van de douanerechten van toepassing.  
-2.   Met ingang van de inwerkingtreding van deze overeenkomst gaat de Gemeenschap over tot de vaststelling van de douanerechten die van toepassing zijn bij invoer in de Gemeenschap van de in bijlage III gedefinieerde producten van de categorie „baby beef" van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië op 20% van het ad-valoremrecht en 20% van het specifieke recht als vastgesteld in het gemeenschappelijk douanetarief van de Europese Gemeenschappen, binnen een jaarlijks tariefcontingent van 650 ton geslacht gewicht. Producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië van de posten 1701 en 1702 van de gecombineerde nomenclatuur worden binnen een jaarlijks tariefcontingent van 7000 t (nettogewicht) rechtenvrij in de Gemeenschap ingevoerd.  
-3.   Vanaf de datum van inwerkingtreding van deze overeenkomst dient de Voormalige Joegoslavische Republiek Macedonië: 
+Wordt voorlopig toegepast per 01-07-2013 
 
-a. de douanerechten af te schaffen die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Gemeenschap die worden vermeld in Bijlage IV a);  
+1.  De Europese Unie gaat over tot de afschaffing van de douanerechten en heffingen van gelijke werking die van toepassing zijn op de invoer van landbouwproducten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië, andere dan die van de posten 0102, 0201, 0202, 1701, 1702 en 2204 van de gecombineerde nomenclatuur. Voor de producten die vallen onder hoofdstukken 7 en 8 van de gecombineerde nomenclatuur, waarvoor het gemeenschappelijk douanetarief in een ad-valoremdouanerecht en een specifiek douanerecht voorziet, is de afschaffing uitsluitend op het ad-valoremdeel van de douanerechten van toepassing.   
+2.  Met ingang van de inwerkingtreding van het protocol bij deze overeenkomst om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie, gaat de Europese Unie over tot de vaststelling van de douanerechten die van toepassing zijn bij invoer in de Europese Unie van de in bijlage III gedefinieerde producten van de categorie „baby beef’ van oorsprong uit de voormalige Joegoslavische Republiek Macedonië op 20% van het ad-valoremrecht en 20% van het specifieke recht als vastgesteld in het gemeenschappelijk douanetarief van de Europese Gemeenschappen, binnen een jaarlijks tariefcontingent van 1.650 ton geslacht gewicht. Producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië van de posten 1701 en 1702 van de gecombineerde nomenclatuur worden binnen een jaarlijks tariefcontingent van 7.000 ton (nettogewicht) rechtenvrij in de Europese Unie ingevoerd.   
+3.  Vanaf de datum van inwerkingtreding van het protocol bij deze overeenkomst om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie, dient de voormalige Joegoslavische Republiek Macedonië: 
 
-b. de douanerechten af te schaffen die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Gemeenschap die worden vermeld in Bijlage IV b), binnen de grenzen van de tariefcontingenten die voor elk product in die bijlage zijn vermeld. Voor de hoeveelheden die de tariefcontingenten te boven gaan, verlaagt de Voormalige Joegoslavische Republiek Macedonië geleidelijk de douanerechten volgens het tijdschema dat in die bijlage voor elk product is vermeld;  
+a. de douanerechten af te schaffen die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Europese Unie die worden vermeld in bijlage IV a);  
 
-c. de douanerechten geleidelijk af te schaffen die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Gemeenschap die worden vermeld in Bijlage IV c), binnen de grenzen van de tariefcontingenten en in overeenstemming met het tijdschema die voor elk product in die bijlage zijn vermeld.  
+b. de douanerechten af te schaffen die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Europese Unie die worden vermeld in bijlage IV b), binnen de grenzen van de tariefcontingenten die voor elk product in die bijlage zijn vermeld;  
 
-d de douanerechten die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Gemeenschap die worden vermeld in Bijlage IV (d) geleidelijk te verminderen, overeenkomstig het volgende tijdsschema: 
-
-– op 1 januari 2004 wordt elk recht verlaagd tot 95% van MFN;
-
-– op 1 januari 2005 wordt elk recht verlaagd tot 90% van MFN;
-
-– op 1 januari 2006 wordt elk recht verlaagd tot 85% van MFN;
-
-– op 1 januari 2007 wordt elk recht verlaagd tot 80% van MFN;
-
-– op 1 januari 2008 wordt elk recht verlaagd tot 70% van MFN;
-
-– op 1 januari 2009 wordt elk recht verlaagd tot 60% van MFN;
-
-– op 1 januari 2010 wordt elk recht verlaagd tot 50% van MFN;
-
-– op 1 januari 2011 worden de resterende rechten afgeschaft.    
-4.   De handelsregelingen voor wijn en gedistilleerde dranken worden bij een afzonderlijke overeenkomst inzake wijn en gedistilleerde dranken vastgesteld.  
-5.  Voor producten waarvoor tijdens het in dit artikel bedoelde proces van tariefverlaging het preferentiële recht een restwaarde van 1 procent of minder voor ad-valoremrechten en van 0,01 EUR per kg (of een passende specifieke eenheid) of minder voor specifieke rechten bereikt, worden de douanerechten op dat moment geschrapt.
+c. de douanerechten toe te passen die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Europese Unie die worden vermeld in bijlage IV c), binnen de grenzen van de tariefcontingenten.     
+4.  De handelsregelingen voor wijn en gedistilleerde dranken worden bij een afzonderlijke overeenkomst inzake wijn en gedistilleerde dranken vastgesteld.  
 
 ### Artikel  28  
 
 ####Visserijproducten
 
-1.   Vanaf de inwerkingtreding van deze overeenkomst gaat de Gemeenschap over tot de volledige afschaffing van douanerechten op vis en visserijproducten van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië. Op producten vermeld in Bijlage V a) zijn de daarin opgenomen bepalingen van toepassing.  
-2. De voormalige Joegoslavische Republiek Macedonië gaat over tot de afschaffing van alle heffingen die een gelijke werking hebben als douanerechten en van de douanerechten van toepassing op de invoer van vis en visserijproducten van oorsprong uit de Gemeenschap, met uitzondering van de producten die zijn opgenomen in de bijlagen V b) en V c) van de SAO, waarin de tariefverlagingen voor de daarin opgenomen producten worden vastgelegd. 
+Wordt voorlopig toegepast per 01-07-2013 
+
+1.   Vanaf de inwerkingtreding van deze overeenkomst gaat de Gemeenschap over tot de volledige afschaffing van douanerechten op vis en visserijproducten van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië. Op producten vermeld in Bijlage V a) zijn de daarin opgenomen bepalingen van toepassing.   
+2.  De voormalige Joegoslavische Republiek Macedonië gaat over tot de afschaffing van alle heffingen die een gelijke werking hebben als douanerechten en van de douanerechten van toepassing op de invoer van vis en visserijproducten van oorsprong uit de Europese Unie, met uitzondering van de producten die zijn opgenomen in de bijlagen V b) en V c), waarin de tariefverlagingen voor de daarin opgenomen producten worden vastgelegd.  
 
 ### Artikel  29  
 
@@ -1731,7 +1716,7 @@ a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de in
 
 b. in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;  
 
-c. in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking in de Gemeenschap of in de voormalige JoegoslavischeRepubliek Macedonië blijkt;  
+c. in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië blijkt;  
 
 d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië zijn afgegeven of opgesteld, of die in een van de in de artikelen 3 en 4 genoemde landen of gebieden zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels van dit protocol;  
 

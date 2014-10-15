@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2010, nr. R&P/RA/2010/14081;
 
-Gelet op [artikel 82a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op artikel 82a van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 
 De Raad van State gehoord (advies van 5 augustus 2010, no. W.12.10.0285/III);
 
@@ -19,13 +19,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *Wet SUWI:* [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+a.  *Wet SUWI:* Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-b.  *met ontslag bedreigde werknemer:* een werknemer als bedoeld in [artikel 30a, eerste lid, onderdeel b, van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+b.  *met ontslag bedreigde werknemer:* een werknemer als bedoeld in artikel 30a, eerste lid, onderdeel b, van de Wet SUWI;  
 
-c.  *WW:* [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+c.  *WW:* Werkloosheidswet;  
 
-d.  *werkgever:* de werkgever in de zin van [artikel 9](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [10 van de WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), niet zijnde een overheidswerkgever, bedoeld in [artikel 1, onderdeel i, van de WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+d.  *werkgever:* de werkgever in de zin van artikel 9 en 10 van de WW, niet zijnde een overheidswerkgever, bedoeld in artikel 1, onderdeel i, van de WW;  
 
 e.  *projecten:* voorstellen van werkgevers, organisaties van werkgevers dan wel organisaties die werkgevers in een sector of regio vertegenwoordigen om met ontslag bedreigde werknemers van werk naar werk te begeleiden, waarbij verenigingen van werknemers of een vertegenwoordiging van werknemers zijn betrokken;  
 
@@ -35,16 +35,16 @@ f.  *zelfstandig ondernemerschap:* het verrichten van werkzaamheden in de uitoef
 
 ####Doel inzet middelen voor projecten
 
-1.  Voor de uitvoering van projecten kan Onze Minister middelen ter beschikking stellen aan werkgevers, organisaties van werkgevers, dan wel organisaties die werkgevers in een sector of regio vertegenwoordigen, die rechtspersoon zijn, met het oog op onderzoek naar de mogelijkheden van uitvoering van de re-integratietaak en de inzet van re-integratie-instrumenten door werkgevers en sectoren bij wijze van experiment als bedoeld in [artikel 82a van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
-2.  De middelen zijn bestemd voor projecten van toeleiding naar werk bij een andere werkgever dan wel naar zelfstandig ondernemerschap van met ontslag bedreigde werknemers en werknemers die een uitkering op grond van de [WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangen voortvloeiend uit de beëindiging van de dienstbetrekking met bij de projecten betrokken werkgevers voor trajecten ten behoeve van deze werknemers.  
+1.  Voor de uitvoering van projecten kan Onze Minister middelen ter beschikking stellen aan werkgevers, organisaties van werkgevers, dan wel organisaties die werkgevers in een sector of regio vertegenwoordigen, die rechtspersoon zijn, met het oog op onderzoek naar de mogelijkheden van uitvoering van de re-integratietaak en de inzet van re-integratie-instrumenten door werkgevers en sectoren bij wijze van experiment als bedoeld in artikel 82a van de Wet SUWI.   
+2.  De middelen zijn bestemd voor projecten van toeleiding naar werk bij een andere werkgever dan wel naar zelfstandig ondernemerschap van met ontslag bedreigde werknemers en werknemers die een uitkering op grond van de WW ontvangen voortvloeiend uit de beëindiging van de dienstbetrekking met bij de projecten betrokken werkgevers voor trajecten ten behoeve van deze werknemers.  
 
 ### Artikel  3  
 
 ####Toepasselijke bepalingen
 
-1.  De middelen worden door de ontvangers besteed voor arbeidsbemiddeling en re-integratiemaatregelen met toepassing van de [Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de [WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
-2.  Bij de besteding van de middelen kan afgeweken worden van [artikel 30a, vierde tot en met achtste lid van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en de [artikelen 76, derde lid](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [76a, derde lid, onderdelen a en d](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en [78a van de WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 8 van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
-3.  Voor de financiering wordt afgeweken van [artikel 100 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).  
+1.  De middelen worden door de ontvangers besteed voor arbeidsbemiddeling en re-integratiemaatregelen met toepassing van de Wet SUWI, de WW en de Wet werk en bijstand.   
+2.  Bij de besteding van de middelen kan afgeweken worden van artikel 30a, vierde tot en met achtste lid van de Wet SUWI en de artikelen 76, derde lid, 76a, derde lid, onderdelen a en d, en 78a van de WW en artikel 8 van de Wet werk en bijstand.   
+3.  Voor de financiering wordt afgeweken van artikel 100 van de Wet financiering sociale verzekeringen.  
 
 ### Artikel  4  
 
@@ -75,7 +75,7 @@ d. een begroting van de benodigde middelen gerelateerd aan het aantal deelnemend
 
 ####Aanvullende middelen
 
-Onze Minister kan bepalen dat en op welk tijdstip nieuwe middelen beschikbaar zijn voor nieuwe projecten of voor voortzetting van projecten gedurende de werkingsduur van dit besluit, bedoeld in [artikel 82a, derde lid, van de Wet SUWI](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md). 
+Onze Minister kan bepalen dat en op welk tijdstip nieuwe middelen beschikbaar zijn voor nieuwe projecten of voor voortzetting van projecten gedurende de werkingsduur van dit besluit, bedoeld in artikel 82a, derde lid, van de Wet SUWI. 
 
 ### Artikel  7  
 

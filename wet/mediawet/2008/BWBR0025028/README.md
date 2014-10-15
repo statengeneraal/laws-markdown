@@ -20,9 +20,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *aanbieder van een omroepzender:* natuurlijke persoon of rechtspersoon die transmissiecapaciteit door middel van een omroepzender ter beschikking stelt;  
 
-*aanbodkanaal:* geordende geheel van media-aanbod dat onder een herkenbare naam via een elektronisch communicatienetwerk wordt aangeboden;  
+*aanbodkanaal:* geordende geheel van media-aanbod dat onder een herkenbare naam via een elektronisch communicatienetwerk als bedoeld in artikel 1.1, onderdeel e, van de Telecommunicatiewet wordt aangeboden;  
 
-*alcoholhoudende drank:* alcoholhoudende drank als bedoeld in [artikel 1 van de Drank- en Horecawet](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
+*alcoholhoudende drank:* alcoholhoudende drank als bedoeld in artikel 1 van de Drank- en Horecawet;  
 
 *commerciële mediadienst:* mediadienst die verzorgd wordt op grond van hoofdstuk 3;  
 
@@ -30,11 +30,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *Commissariaat:* Commissariaat voor de Media, genoemd in artikel 7.1;  
 
-*dagbladmarkt:* door het Stimuleringsfonds voor de pers, genoemd in artikel 8.1, vastgestelde gemiddelde betaalde oplage, in een kalenderjaar, van persorganen die bestemd zijn voor het publiek in Nederland en ten minste zes keer per week verschijnen;  
+*dagbladmarkt:* door het Stimuleringsfonds voor de journalistiek, genoemd in artikel 8.1, vastgestelde gemiddelde betaalde oplage, in een kalenderjaar, van persorganen die bestemd zijn voor het publiek in Nederland en ten minste zes keer per week verschijnen;  
 
 *erkenningperiode:* periode als bedoeld in artikel 2.29, eerste lid; 
 
-*Europese richtlijn:* Richtlijn 89/552/EEG van 3 oktober 1989 van het Europees Parlement en de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn Audiovisuele mediadiensten);  
+*Europese richtlijn:* Richtlijn 2010/13/EU van 10 maart 2010 van het Europees Parlement en de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten);  
 
 *evenement:* georganiseerde voor het publiek toegankelijke gebeurtenis op het terrein van sport of cultuur;  
 
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *media-aanbod:* één of meer elektronische producten met beeld- of geluidsinhoud die bestemd zijn voor afname door het algemene publiek of een deel daarvan;  
 
-*mediadienst:* dienst die bestaat uit het verzorgen van media-aanbod door middel van openbare elektronische communicatienetwerken als bedoeld in [artikel 1.1, onderdeel h, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), waarvoor de verzorger redactionele verantwoordelijkheid draagt;  
+*mediadienst:* dienst die bestaat uit het verzorgen van media-aanbod door middel van openbare elektronische communicatienetwerken als bedoeld in artikel 1.1, onderdeel h, van de Telecommunicatiewet, waarvoor de verzorger redactionele verantwoordelijkheid draagt;  
 
 *mediadienst op aanvraag:* mediadienst die bestaat uit het verzorgen van media-aanbod dat op individueel verzoek en op een moment naar keuze kan worden afgenomen; 
 
@@ -56,11 +56,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *omroepdienst:* mediadienst die betrekking heeft op het verzorgen van media-aanbod dat op basis van een chronologisch schema dat is vastgesteld door de instelling die verantwoordelijk is voor het media-aanbod, al dan niet gecodeerd door middel van een omroepzender of een omroepnetwerk wordt verspreid voor gelijktijdige ontvangst door het algemene publiek of een deel daarvan;  
 
-*omroepnetwerk:* openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1, onderdeel h, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), dat wordt gebruikt of mede wordt gebruikt om, hoofdzakelijk met gebruik van kabels, programma’s te verspreiden;  
+*omroepnetwerk:* openbaar elektronisch communicatienetwerk als bedoeld in artikel 1.1, onderdeel h, van de Telecommunicatiewet, dat wordt gebruikt of mede wordt gebruikt om, hoofdzakelijk met gebruik van kabels, programma’s te verspreiden;  
 
 *omroeporganisatie:* omroeporganisatie als bedoeld in artikel 2.23; 
 
-*omroepzender:* radiozendapparaat als bedoeld in [artikel 1.1, onderdeel kk, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dat wordt gebruikt of mede wordt gebruikt voor het verspreiden van programma’s;  
+*omroepzender:* radiozendapparaat als bedoeld in artikel 1.1, onderdeel kk, van de Telecommunicatiewet dat wordt gebruikt of mede wordt gebruikt voor het verspreiden van programma’s;  
 
 *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
@@ -70,7 +70,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2°. de kosten van aankoop of gebruik van technische voorzieningen die de ontvangst van televisieprogramma’s mogelijk maken;    
 
-*politieke partij:* vereniging waarvan de aanduiding op grond van [artikel G 1](../../../../wet/kieswet/BWBR0004627/README.md), [Q 6](../../../../wet/kieswet/BWBR0004627/README.md) of [Y 10 van de Kieswet](../../../../wet/kieswet/BWBR0004627/README.md) is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer, de Eerste Kamer of het Europees Parlement;  
+*politieke partij:* vereniging waarvan de aanduiding op grond van artikel G 1, Q 6 of Y 10 van de Kieswet is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer, de Eerste Kamer of het Europees Parlement;  
 
 *productplaatsing:* het tegen betaling of soortgelijke vergoeding opnemen van of het verwijzen naar een product, dienst of (beeld)merk binnen het kader van een programma, of met een programma overeenkomend onderdeel van het media-aanbod; 
 
@@ -278,7 +278,7 @@ b. het wijzigen van de statuten van de NPO, op voorstel van de raad van bestuur;
 
 1.  Op het lidmaatschap van de raad van bestuur is artikel 2.6, eerste lid, aanhef en onderdelen a en c tot en met h, van overeenkomstige toepassing, met dien verstande dat artikel 2.6, eerste lid, onderdeel c, niet van overeenkomstige toepassing is op het lidmaatschap van een orgaan van de Ster.   
 2.  De leden van de raad van bestuur zijn in dienst van de NPO. De raad van toezicht stelt hun arbeidsvoorwaarden vast.   
-3.  [Artikel 668a, eerste tot en met vierde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing.  
+3.  Artikel 668a, eerste tot en met vierde lid, van Boek 7 van het Burgerlijk Wetboek is niet van toepassing.  
 
 ### Artikel  2.10  
 
@@ -295,7 +295,7 @@ d. het vaststellen van de profielen van de aanbodkanalen van de landelijke publi
 
 e. het vaststellen van het concessiebeleidsplan, bedoeld in artikel 2.20;  
 
-f. het aangaan van de prestatieovereenkomst, bedoeld in 2.22;  
+f. het aangaan van de prestatieovereenkomst, bedoeld in artikel 2.22;  
 
 g. het vaststellen van de begroting, bedoeld in artikel 2.147; en  
 
@@ -389,12 +389,12 @@ e. een beschrijving van de samenwerking met de regionale en lokale publieke medi
 
 1.  De NPO maakt het concessiebeleidsplan openbaar.   
 2.  Over het concessiebeleidsplan vraagt Onze Minister advies aan het Commissariaat en de Raad voor cultuur.   
-3.  Het concessiebeleidsplan behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in artikel 2.20, tweede lid, onderdelen b en c, waarbij de instemming geschiedt in overeenstemming met het bepaalde in de [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
+3.  Het concessiebeleidsplan behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in artikel 2.20, tweede lid, onderdelen b en c, waarbij de instemming geschiedt in overeenstemming met het bepaalde in de Telecommunicatiewet.  
 4.  Als de NPO wijzigingen wil aanbrengen in het door Onze Minister goedgekeurde deel van het concessiebeleidsplan, neemt zij die op in de begroting. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing.  
 
 ### Artikel  2.21a  
 
-1.  Artikel 2.21, derde lid, is niet van toepassing, als bij wijze van experiment van beperkte omvang of duur media-aanbod via andere aanbodkanalen dan die, bedoeld in artikel 2.20, tweede lid, onderdelen b en c, wordt aangeboden. Een experiment dient om te onderzoeken of deze aanbodkanalen een bijdrage kunnen leveren aan de verwezenlijking van de publieke media-opdracht op landelijk niveau.   
+1.  Artikel 2.21, derde lid, is niet van toepassing, als bij wijze van experiment van beperkte omvang of duur media-aanbod via andere aanbodkanalen dan die, bedoeld in artikel 2.20, tweede lid, onderdelen b en c, wordt aangeboden. Een experiment dient om te onderzoeken of deze aanbodkanalen een bijdrage kunnen leveren aan de verwezenlijking van de publieke mediaopdracht op landelijk niveau.   
 2.  Bij algemene maatregel van bestuur wordt bepaald wanneer sprake is van beperkte omvang of duur en kunnen nadere regels worden gesteld over het uitvoeren van experimenten.  
 
 ### Artikel  2.22  
@@ -470,8 +470,8 @@ b.
 
 c. die op 31 december van het jaar voorafgaand aan dat waarin die erkenning ingaat, een reserve als bedoeld in artikel 2.174a, eerste lid, heeft waarvan het saldo nihil of positief is en voor zover het een samenwerkingsomroep betreft, ook elke omroepvereniging die hij vertegenwoordigt, op die datum een reserve als bedoeld in artikel 2.174a, tweede lid, heeft waarvan het saldo nihil of positief is; en  
 
-d. die de beschikbaarheid van het media-aanbod op de aanbodkanalen, bedoeld in artikel 2.55, derde lid, heeft zeker gesteld en voldoet aan de artikelen 2.142a en 2.178, eerste en derde lid.     
-2.  De hoogte van het saldo, bedoeld in het eerste lid, wordt aangetoond door overlegging van de jaarrekening, bedoeld in artikel 2.171, tweede lid, die vergezeld gaat van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+d. die de beschikbaarheid van het media-aanbod op de aanbodkanalen, bedoeld in artikel 2.55, derde lid, heeft zeker gesteld en voldoet aan de artikelen 2.142a en 2.178, eerste, tweede en derde lid.     
+2.  De hoogte van het saldo, bedoeld in het eerste lid, wordt aangetoond door overlegging van de jaarrekening, bedoeld in artikel 2.171, tweede lid, die vergezeld gaat van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 3.  In afwijking van het eerste lid, onderdeel a, kan ook in aanmerking komen voor een erkenning een samenwerkingsomroep waarin zijn vertegenwoordigd: 
 
 a. een of meer omroepverenigingen als bedoeld in het eerste lid, onderdeel a; en  
@@ -498,7 +498,7 @@ e. de voorschriften met betrekking tot ledenwerving, bedoeld in artikel 2.137, 
 
 f. de verzorging van haar media-aanbod opdraagt aan de NTR of een omroeporganisatie die een erkenning als bedoeld in artikel 2.23, eerste lid, heeft verkregen en waarmee zij overeenstemming heeft bereikt; en  
 
-g. voldoet aan de artikelen 2.142a, eerste en tweede lid, en 2.178, eerste lid.   
+g. voldoet aan de artikelen 2.142a, eerste en tweede lid, en 2.178, eerste en tweede lid.   
 2. Artikel 2.25, tweede lid, is van toepassing.
 
 ### Artikel  2.27  
@@ -516,10 +516,9 @@ c. de jaarlijkse minimumcontributie, bedoeld in artikel 2.24, eerste lid, onder
 ### Artikel  2.29  
 
 1.  Een erkenning of een voorlopige erkenning wordt op aanvraag verleend en geldt voor een periode van vijf jaar die samenvalt met een vijfjaarlijkse periode van de concessie als bedoeld in artikel 2.19, derde lid, en vervalt van rechtswege na afloop van de erkenningperiode.   
-2.  Een erkenning kan alleen overgaan met toestemming van Onze Minister op aanvraag van de omroeporganisatie waaraan deze is verleend, en alleen aan een omroeporganisatie die door fusie is gevormd overeenkomstig artikel 2.25, eerste lid, aanhef en onderdeel a, onder 2°, 3° of 4°. Aan een toestemming kunnen voorwaarden worden verbonden. Artikel 2.32, eerste lid, aanhef en onderdeel a, wat betreft de artikelen 2.24 en 2.24a, en tweede lid, onderdelen a en c, is van overeenkomstige toepassing.   
+2.  Een erkenning kan alleen overgaan met toestemming van Onze Minister op aanvraag van de omroeporganisatie waaraan deze is verleend, en alleen aan een omroeporganisatie die door fusie is gevormd overeenkomstig artikel 2.25, eerste lid, aanhef en onderdeel a, onder 2°, 3° of 4°. Aan een toestemming kunnen voorwaarden worden verbonden. Artikel 2.32, eerste lid, wat betreft de artikelen 2.24 en 2.24a, en tweede lid, onderdelen a en c, is van overeenkomstige toepassing.   
 3.  Een erkenning of voorlopige erkenning geeft aanspraak op een financiële bijdrage voor de verzorging van media-aanbod volgens het bepaalde bij of krachtens deze wet.   
-4.  Door overgang van een erkenning treedt de verkrijgende omroeporganisatie in alle uit de wet voortvloeiende rechten en verplichtingen van haar rechtsvoorganger.  
-4.  Door overgang van een erkenning treedt de verkrijgende omroepvereniging in alle uit de wet voortvloeiende rechten en verplichtingen van haar rechtsvoorganger. 
+4.  Door overgang van een erkenning treedt de verkrijgende omroeporganisatie in alle uit de wet voortvloeiende rechten en verplichtingen van haar rechtsvoorganger. 
 
 ### Artikel  2.30  
 
@@ -571,7 +570,7 @@ d. uit de aanvraag naar de mening van Onze Minister onvoldoende blijkt dat:
 ### Artikel  2.33  
 
 1.  Onze Minister trekt een erkenning of een voorlopige erkenning in als een instelling niet meer voldoet aan de artikelen 2.24, 2.24a, 2.25, eerste lid, onderdeel d, of 2.26, eerste lid, onderdelen f en g, dan wel niet voldoet aan artikel 2.25, eerste lid, onderdeel c, of 2.26, eerste lid, onderdeel c.   
-2.  Onze Minister kan een erkenning of voorlopige erkenning intrekken als het Commissariaat aan de instelling binnen een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in titel 7.2 heeft opgelegd wegens overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  Onze Minister kan een erkenning of voorlopige erkenning intrekken als het Commissariaat aan de instelling binnen een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in titel 7.2 heeft opgelegd wegens overtreding van het bepaalde bij of krachtens deze wet of artikel 5:20 van de Algemene wet bestuursrecht.   
 3.  Onze Minister kan een erkenning of voorlopige erkenning daarnaast intrekken als bij de tweede evaluatie, bedoeld in artikel 2.184, derde lid, is vastgesteld dat de instelling onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in artikel 2.24, eerste lid, onderdeel b, of 2.24a, eerste lid, onderdeel b. Artikel 2.31, eerste en tweede lid, is van overeenkomstige toepassing. Een besluit als bedoeld in de eerste volzin voorziet in het tijdstip met ingang waarvan de erkenning of voorlopige erkenning wordt ingetrokken. Dit tijdstip is niet later dan één jaar na de bekendmaking van het besluit, bedoeld in de eerste volzin.  
 4.  Onze Minister kan op verzoek van de raad van bestuur een erkenning of voorlopige erkenning intrekken als: 
 
@@ -785,7 +784,7 @@ c. beschikt de NOS per jaar over 1300 uren voor televisie en over 1500 uren voor
 
 d. beschikt de NTR per jaar over 1.150 uren voor televisie en 3.475 uren voor radio.     
 2.  De instellingen, bedoeld in het eerste lid, kunnen meer uren gebruiken dan de aantallen, bedoeld in dat lid.   
-3.  Bij algemene maatregel van bestuur kan de verdeling van het eerste lid, onderdelen a en b, worden herzien als het aantal het totale aantal omroepverenigingen, bedoeld in het eerste lid, onderdeel a daartoe aanleiding geeft.  
+3.  Bij algemene maatregel van bestuur kan de verdeling van het eerste lid, onderdelen a en b, worden herzien als het totale aantal omroepverenigingen, bedoeld in het eerste lid, onderdeel a daartoe aanleiding geeft.  
 
 ### Artikel  2.52  
 
@@ -927,7 +926,7 @@ Er wordt per provincie ten minste één regionale publieke media-instelling aang
 
 a. de regionale of lokale publieke media-instelling in een periode van een jaar geen media-aanbod dat voldoet aan de eisen van deze wet heeft verzorgd en dat aanbod gedurende een ononderbroken periode van ten minste twee maanden is verspreid; of  
 
-b. het Commissariaat aan de regionale of lokale publieke media-instelling binnen een periode van een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in titel 7.2 heeft opgelegd voor overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+b. het Commissariaat aan de regionale of lokale publieke media-instelling binnen een periode van een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in titel 7.2 heeft opgelegd voor overtreding van het bepaalde bij of krachtens deze wet of artikel 5:20 van de Algemene wet bestuursrecht.     
 2.  Het Commissariaat beslist pas over intrekking op grond van het eerste lid, onderdeel a, nadat hij gedeputeerde staten respectievelijk het college van burgemeester en wethouders van de desbetreffende provincie of gemeente in de gelegenheid heeft gesteld binnen een door het Commissariaat te stellen redelijke termijn hun zienswijze te geven.   
 3.  Het uitblijven van een zienswijze binnen de gestelde termijn staat aan het nemen van een beslissing door het Commissariaat niet in de weg.  
 
@@ -1142,7 +1141,7 @@ e. dit geen afbreuk doet aan de rechten van rechthebbenden.
 
 ### Artikel  2.98  
 
-De artikelen 2.94 tot en met 2.97 zijn zo veel mogelijk van overeenkomstige toepassing op het overige media-aanbod van de publieke mediadiensten. Voor artikel 2.96, eerste lid, onderdeel a, geldt de vorige volzin uitsluitend voor het overige media-aanbod met beeldinhoud, al dan niet mede met geluidsinhoud. 
+De artikelen 2.94 tot en met 2.97 zijn zo veel mogelijk van overeenkomstige toepassing op het overige media-aanbod van de publieke mediadiensten. Wat betreft de toepassing van artikel 2.96, eerste lid, onderdeel a, geldt de vorige volzin uitsluitend voor het overige media-aanbod met beeldinhoud, al dan niet mede met geluidsinhoud. 
 
 ### Paragraaf  2.5.2.3  
 
@@ -1326,7 +1325,7 @@ c. dat het karakter van een spel heeft, met uitzondering van media-aanbod van cu
 
 d. dat bestaat uit reclame- en telewinkelboodschappen, inclusief omlijsting, en zelfpromotie;  
 
-e. dat van kerkelijke of geestelijke aard is, van politieke partijen en de overheid; en  
+e. dat van kerkelijke of geestelijke aard is en media-aanbod van politieke partijen en de overheid; en  
 
 f. dat bestaat uit teletekst.   
 
@@ -1341,7 +1340,7 @@ f. dat bestaat uit teletekst.
 
 a. programma-aanbod dat bestaat uit reclame- en telewinkelboodschappen, inclusief omlijsting; en  
 
-b. programma-aanbod dat van kerkelijke of geestelijke aard is, van politieke partijen en de overheid.     
+b. programma-aanbod dat van kerkelijke of geestelijke aard is en programma-aanbod van politieke partijen en de overheid.     
 3.  Het Commissariaat kan in bijzondere gevallen geheel of gedeeltelijk ontheffing verlenen van het eerste lid. Het Commissariaat kan aan een ontheffing voorschriften verbinden.  
 
 ### Artikel  2.123  
@@ -1376,7 +1375,7 @@ b. het verstrekken van financiële bijdragen aan landelijke en regionale publiek
 ### Artikel  2.126  
 
 1.  In deze afdeling wordt verstaan onder: stichting: stichting Stimuleringsfonds Nederlandse culturele mediaproducties.   
-2.  Op de stichting is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing met uitzondering van [artikel 22](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
+2.  Op de stichting is de Kaderwet zelfstandige bestuursorganen van toepassing met uitzondering van artikel 22.  
 
 ### Paragraaf  2.5.5.2  
 
@@ -1401,7 +1400,7 @@ c. het hebben van financiële of andere belangen bij bedrijven of instellingen e
 
 ### Artikel  2.128  
 
-Onverminderd de [artikelen 27](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [28 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bevat de begroting van de stichting: 
+Onverminderd de artikelen 27 en 28 van de Kaderwet zelfstandige bestuursorganen bevat de begroting van de stichting: 
 
 a. het beleid en een toelichting op de begrotingsposten voor de ontwikkeling en vervaardiging van media-aanbod ten behoeve van de landelijke publieke mediadienst;  
 
@@ -1411,7 +1410,7 @@ c. het beleid en een toelichting op de begrotingsposten voor de samenwerking, be
 
 ### Artikel  2.129  
 
-1.  [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing op de jaarrekening van de stichting, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening. Op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zo veel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn zo veel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.   
+1.  Titel 9 van Boek 2 van het Burgerlijk Wetboek is van toepassing op de jaarrekening van de stichting, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening. Op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zo veel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn zo veel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.   
 2.  Het boekjaar is gelijk aan het kalenderjaar.  
 
 ### Artikel  2.130  
@@ -1435,8 +1434,8 @@ c. het beleid en een toelichting op de begrotingsposten voor de samenwerking, be
 ### Artikel  2.132  
 
 1.  De NPO en de publieke media-instellingen mogen alleen na voorafgaande toestemming van het Commissariaat nevenactiviteiten verrichten.   
-2.  Nevenactiviteiten zijn activiteiten, directe of indirecte deelnemingen in rechtspersonen daaronder begrepen, die niet rechtstreeks verband houden met of ten dienste staan van de uitvoering van de publieke media-opdracht, met uitzondering van verenigingsactiviteiten als bedoeld in artikel 2.136.   
-3.  Toestemming kan alleen worden gegeven als een nevenactiviteit verband houdt met of ten dienste staat van de verwezenlijking van de publieke media-opdracht en direct gerelateerd is aan het media-aanbod van de publieke media-instelling, op marktconforme wijze wordt verricht en ten minste kostendekkend is.   
+2.  Nevenactiviteiten zijn activiteiten, directe of indirecte deelnemingen in rechtspersonen daaronder begrepen, die niet rechtstreeks verband houden met of ten dienste staan van de uitvoering van de publieke mediaopdracht, met uitzondering van verenigingsactiviteiten als bedoeld in artikel 2.136.   
+3.  Toestemming kan alleen worden gegeven als een nevenactiviteit verband houdt met of ten dienste staat van de verwezenlijking van de publieke mediaopdracht en direct gerelateerd is aan het media-aanbod van de publieke media-instelling, op marktconforme wijze wordt verricht en ten minste kostendekkend is.   
 4.  In afwijking van het eerste lid is geen voorafgaande toestemming van het Commissariaat nodig voor het bij wijze van experiment van beperkte omvang en duur verrichten van nevenactiviteiten die bestaan uit het leveren van goederen of diensten, met inbegrip van rechten en verplichtingen aan: 
 
 a. mediabedrijven ten behoeve van de versterking en verbetering van de nieuws- en informatievoorziening; of  
@@ -1497,7 +1496,7 @@ b. gebruikelijk zijn in een actief functionerende stichting om de band met en tu
 
 ### Artikel  2.138a  
 
-1.  Wanneer een omroeporganisatie uitvoering geeft aan het voornemen, bedoeld in artikel 2.138, eerste lid, draagt zij binnen vier maanden na afloop van de periode waarvoor een erkenning of een voorlopige erkenning als bedoeld in artikel 2.23 is verleend, zorg voor de vaststelling van een eindafrekening. De eindafrekening gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Artikel 2.171, eerste lid, is van overeenkomstige toepassing. Het Commissariaat kan de termijn, bedoeld in de eerste volzin, verlengen met een door hem te stellen termijn.   
+1.  Wanneer een omroeporganisatie uitvoering geeft aan het voornemen, bedoeld in artikel 2.138, eerste lid, draagt zij binnen vier maanden na afloop van de periode waarvoor een erkenning of een voorlopige erkenning als bedoeld in artikel 2.23 is verleend, zorg voor de vaststelling van een eindafrekening. De eindafrekening gaat vergezeld van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Artikel 2.171, eerste lid, is van overeenkomstige toepassing. Het Commissariaat kan de termijn, bedoeld in de eerste volzin, verlengen met een door hem te stellen termijn.   
 2.  Mede op basis van de eindafrekening, bedoeld in het eerste lid, stelt het Commissariaat het terug te betalen bedrag vast. Teruggevorderde bedragen voegt het Commissariaat toe aan de algemene mediareserve, bedoeld in artikel 2.166.   
 3.  In het geval, bedoeld in het eerste lid: 
 
@@ -1507,7 +1506,7 @@ b. draagt de omroeporganisatie er zorg voor dat programmamateriaal dat verspreid
 
 c. stelt de omroeporganisatie het programmamateriaal, bedoeld in onderdeel b, ter beschikking aan de door Onze Minister aangewezen instelling voor het in stand houden en exploiteren van een media-archief; en  
 
-d. onthoudt de omroeporganisatie zich gedurende drie jaar na afloop van de periode waarvoor een erkenning of voorlopige erkenning is verleend, van gebruik of exploitatie van het programmamateriaal, bedoeld in onderdeel a, en de daaraan verbonden programmaformats, namen en merken, tenzij daarover met de raad van bestuur een overeenkomst is gesloten tegen een marktconforme vergoeding.     
+d. onthoudt de omroeporganisatie zich gedurende drie jaar na afloop van de periode waarvoor een erkenning of voorlopige erkenning is verleend, van gebruik of exploitatie van het programmamateriaal, bedoeld in onderdeel a, en de daaraan verbonden programmaformats, namen en merken, voor zover het auteurs- en gebruiksrecht bij de omroeporganisatie berust, tenzij daarover met de raad van bestuur een overeenkomst is gesloten tegen een marktconforme vergoeding.     
 4.  Voor de toepassing van dit artikel wordt onder omroeporganisatie tevens begrepen haar rechtsopvolger of rechtsverkrijgende.   
 5.  Het eerste tot en met vierde lid zijn van overeenkomstige toepassing, als: 
 
@@ -1515,7 +1514,7 @@ a. aan een omroeporganisatie geen erkenning als bedoeld in artikel 2.23, eerste
 
 b. een erkenning of voorlopige erkenning overeenkomstig artikel 2.33 wordt ingetrokken; en  
 
-c. een omroeporganisatie in strijd met artikel 2.34, eerste lid, tijdens een erkenningsperiode niet langer als omroeporganisatie media-aanbod voor de landelijke publieke omroep verzorgt.    
+c. een omroeporganisatie in strijd met artikel 2.34, eerste lid, tijdens een erkenningperiode niet langer als omroeporganisatie media-aanbod voor de landelijke publieke omroep verzorgt.    
 
 ### Artikel  2.139  
 
@@ -1523,7 +1522,7 @@ c. een omroeporganisatie in strijd met artikel 2.34, eerste lid, tijdens een erk
 2.  De landelijke publieke media-instellingen aanvaarden dat de NPO de gegevens voor vermenigvuldiging en openbaarmaking aan het publiek via gedrukte of elektronische programmagidsen ter beschikking stelt aan de omroeporganisaties en tegen een marktconforme vergoeding aan andere afnemers die daarom verzoeken.   
 3.  De landelijke publieke media-instellingen stellen de gegevens, bedoeld in het eerste lid, tijdig ter beschikking van de NPO. De NPO stelt die gegevens ten minste zes weken voorafgaand aan de verspreiding van het desbetreffende programma-aanbod ter beschikking van de omroeporganisaties en van de andere afnemers, bedoeld in het tweede lid.   
 4.  De NPO sluit met de andere afnemers, bedoeld in het tweede lid, een overeenkomst met betrekking tot de beschikbaarstelling van de gegevens. De overeenkomst bepaalt in elk geval dat de gegevens niet worden gewijzigd, en bevat overigens geen bepalingen of voorwaarden die de terbeschikkingstelling van de gegevens hinderen.   
-5.  Het bedrag van de vergoeding, bedoeld in het tweede lid, is: 
+5.  Het bedrag van de vergoeding, bedoeld in het tweede lid, is voor zover het betreft afnemers die programmagidsen binnen Nederland uitbrengen: 
 
 a. voor gedrukte programmagidsen: € 0,0195 voor elk afgezet exemplaar van een gedrukte programmagids;  
 
@@ -1539,7 +1538,7 @@ c. voor overige elektronische programmagidsen: per jaar € 2.500 per elektroni
 
 ### Artikel  2.142  
 
-1.  De NPO en de publieke media-instellingen zorgen er voor dat leden van hun organen, werknemers en andere personen of rechtspersonen waarmee een overeenkomst is gesloten met het oog op de uitvoering van de publieke media-opdracht, voor zichzelf of voor anderen geen op geld waardeerbaar voordeel van derden bedingen of aanvaarden dat direct of indirect verband houdt met werkzaamheden van de betrokkene voor de instelling, tenzij het daartoe bevoegde orgaan van de instelling daarvoor toestemming heeft gegeven.   
+1.  De NPO en de publieke media-instellingen zorgen er voor dat leden van hun organen, werknemers en andere personen of rechtspersonen waarmee een overeenkomst is gesloten met het oog op de uitvoering van de publieke mediaopdracht, voor zichzelf of voor anderen geen op geld waardeerbaar voordeel van derden bedingen of aanvaarden dat direct of indirect verband houdt met werkzaamheden van de betrokkene voor de instelling, tenzij het daartoe bevoegde orgaan van de instelling daarvoor toestemming heeft gegeven.   
 2.  Toestemming wordt alleen gegeven als de betrokkene aannemelijk maakt dat het voordeel niet is bedoeld als tegenprestatie voor het door hem in de uitoefening van zijn werkzaamheden voor de instelling bevoordelen van derden.   
 3.  Een persoon of rechtspersoon die een overeenkomst als bedoeld in het eerste lid heeft gesloten, wordt ten opzichte van degenen die in zijn dienst werken niet aangemerkt als een derde.   
 4.  De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, overeenkomstig het eerste tot en met derde lid handelen. 
@@ -1586,13 +1585,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 De rijksmediabijdrage en de inkomsten van de Ster dienen ter bestrijding van de kosten verbonden aan: 
 
-a. de bekostiging van de uitvoering van de publieke mediaopdracht op landelijke niveau volgens afdeling 2.6.2;  
+a. de bekostiging van de uitvoering van de publieke mediaopdracht op landelijk niveau volgens afdeling 2.6.2;  
 
 b. de bekostiging van de uitvoering van de publieke mediaopdracht op regionaal niveau volgens afdeling 2.6.5;  
 
 c. het Europese media-aanbod, bedoeld in artikel 2.2, tweede lid, onderdeel e;  
 
-d. het Stimuleringsfonds voor de pers, genoemd in artikel 8.1;  
+d. het Stimuleringsfonds voor de journalistiek, genoemd in artikel 8.1;  
 
 e. de Raad voor cultuur, voor zover samenhangend met de advisering over radio, televisie, pers en andere vormen van massacommunicatie, tot een door Onze Minister te bepalen bedrag;  
 
@@ -1608,7 +1607,7 @@ j. vergoedingen aan een door Onze Minister aangewezen instelling voor het in sta
 
 k.dit onderdeel is nog niet in werking getreden;
 
-l. het door Onze Minister aangewezen overlegorgaan van lokale publieke media-instellingen;  
+l. het door Onze Minister aangewezen overlegorgaan van lokale publieke media-instellingen; en  
 
 m. bijdragen voor de verzorging van media-aanbod van regionale en lokale publieke mediadiensten dat gericht is op minderheden.   
 
@@ -1773,14 +1772,14 @@ c. de financiering van de door het Commissariaat aan te houden rekening-courantv
 a. de NPO en de landelijke en regionale publieke media-instellingen en;  
 
 b. de door hem aangewezen instellingen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie.     
-2.  Onze Minister stelt gelden ten behoeve van de landelijke en regionale publieke media-instellingen door tussenkomst van het Commissariaat ter beschikking aan de raad van bestuur. Artikel 2.152a, tweede lid, is van overeenkomstige toepassing.   
-3.  Onze Minister stelt gelden ten behoeve van de instellingen, bedoeld in het eerste lid, onderdeel b, door tussenkomst van het Commissariaat aan hen ter beschikking.  
+2.  Onze Minister stelt gelden ten behoeve van de landelijke publieke media-instellingen door tussenkomst van het Commissariaat ter beschikking aan de raad van bestuur. Artikel 2.152a, tweede lid, is van overeenkomstige toepassing.   
+3.  Onze Minister stelt gelden ten behoeve van de regionale publieke media-instellingen en de instellingen, bedoeld in het eerste lid, onderdeel b, door tussenkomst van het Commissariaat aan hen ter beschikking.  
 
 ### Artikel  2.168  
 
 1.  Renteopbrengsten uit het beheer van de algemene mediareserve zijn bestemd voor door Onze Minister te bepalen mediadoeleinden in brede zin.   
-2.  Onze Minister kan uit de renteopbrengsten gelden ter beschikking stellen aan de NPO en aan de landelijke publieke media-instellingen.   
-3.  Artikel 2.167, tweede lid, is van toepassing.  
+2.  Onze Minister kan uit de renteopbrengsten gelden ter beschikking stellen aan de NPO en aan de landelijke en regionale publieke media-instellingen.   
+3.  Artikel 2.167, tweede en derde lid, is van toepassing met dien verstande dat de toepassing van het derde lid uitsluitend betrekking heeft op de regionale publieke media-instellingen.  
 
 ### Artikel  2.169  
 
@@ -1794,7 +1793,7 @@ b. de door hem aangewezen instellingen voor het in stand houden en exploiteren v
 
 ### Artikel  2.170  
 
-1.  Onze Minister stelt jaarlijks vóór 1 december het totaalbudget vast dat voor het volgend jaar beschikbaar is voor de bekostiging van de regionale publieke mediadiensten.   
+1.  Onze Minister stelt jaarlijks vóór 1 december het totaalbudget vast dat voor het volgend jaar beschikbaar is voor de bekostiging van de regionale publieke mediadiensten. Onze Minister stelt het totaalbudget ter beschikking aan het Commissariaat.   
 2.  Het Commissariaat kan op aanvraag van regionale publieke media-instellingen uit het budget, bedoeld in het eerste lid, een bijdrage verstrekken in de kosten die rechtstreeks verband houden met het verzorgen van regionale publieke mediadiensten, voor zover die kosten niet op andere wijze zijn gedekt. Het Commissariaat beslist jaarlijks vóór 1 januari op een aanvraag.   
 3.  Aan de verstrekking van de bijdrage, bedoeld in het tweede lid, worden geen voorwaarden verbonden die in strijd zijn met het bepaalde bij of krachtens deze wet.   
 4.  Een aanvraag als bedoeld in het tweede lid gaat vergezeld van een begroting.   
@@ -1812,10 +1811,28 @@ c. de inhoud en de inrichting van de begroting.
 
 a. vermindert het Commissariaat de bevoorschotting met twintig procent; en  
 
-b. kan het Commissariaat de bevoorschotting verder verminderen of beëindigen wanneer ondanks herhaalde aanmaningen van het Commissariaat de instelling in gebreke blijft met het indienen van de jaarrekening.   Als een instelling voorschotten in strijd met het bepaalde bij of krachtens de wet gebruikt, kan het Commissariaat de bevoorschotting verminderen of beëindigen.   
-10.  De artikelen 2.138, 2.138a, eerste tot en met vierde lid, en 2.138b, eerste en derde lid, zijn van overeenkomstige toepassing.  
+b. kan het Commissariaat de bevoorschotting verder verminderen of beëindigen wanneer ondanks herhaalde aanmaningen van het Commissariaat de instelling in gebreke blijft met het indienen van de jaarrekening.   Als een instelling voorschotten in strijd met het bepaalde bij of krachtens de wet gebruikt, kan het Commissariaat de bevoorschotting verminderen of beëindigen.  
 
 ### Artikel  2.170a  
+
+1.  Als een regionale publieke media-instelling voornemens is na afloop van de periode waarvoor een aanwijzing als bedoeld in artikel 2.61 is verleend, een commerciële omroepdienst te verzorgen of een belang te verwerven in een commerciële media- instelling, meldt zij dit aan het Commissariaat.   
+2.  Na de melding kan de regionale publieke media-instelling in het laatste jaar van de periode waarvoor een aanwijzing is verleend, activiteiten verrichten die noodzakelijk zijn om te zorgen dat zij of de rechtspersoon waarin zij een belang verwerft, na afloop van de periode waarvoor die aanwijzing is verleend, een commerciële omroepdienst kan verzorgen.   
+3.  Als een regionale publieke media-instelling uitvoering geeft aan het voornemen, bedoeld in het eerste lid, draagt zij binnen vier maanden na afloop van de periode waarvoor een aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening. Artikel 2.138a, eerste lid, tweede, derde en vierde volzin, is van overeenkomstige toepassing.   
+4.  Mede op basis van de eindafrekening, bedoeld in het derde lid, stelt het Commissariaat het terug te betalen bedrag vast. Artikel 2.138a, tweede lid, tweede volzin, is van toepassing.   
+5.  In het geval, bedoeld in het derde lid: 
+
+a. betaalt de regionale publieke media-instelling de op het moment, bedoeld in het eerste lid, aanwezige gelden die bestemd zijn voor de verzorging van media-aanbod voor de regionale publieke mediadienst, terug aan het Commissariaat;  
+
+b. stelt de regionale publieke media-instelling het programmamateriaal dat verspreid is op de programmakanalen van de regionale publieke media-instelling dan wel daarvoor is geproduceerd of aangekocht en de daaraan verbonden programmaformats, namen en merken, voor zover het auteurs- en gebruiksrecht bij de regionale publieke media-instelling berust, ter beschikking aan de door Onze Minister aangewezen instelling voor het in stand houden en exploiteren van een media-archief voor gebruik door andere publieke media-instellingen; en  
+
+c. onthoudt de regionale publieke media-instelling zich gedurende drie jaar na afloop van de periode waarvoor de aanwijzing is verleend, van gebruik of exploitatie van het programmamateriaal, bedoeld in onderdeel b, en de daaraan verbonden programmaformats, namen en merken, voor zover het auteurs- en gebruiksrecht bij de regionale publieke media-instelling berust.     
+6.  Voor de toepassing van het derde, vierde en vijfde lid wordt onder regionale publieke media-instelling tevens begrepen haar rechtsopvolger of rechtsverkrijgende.   
+7.  Als een regionale publieke media-instelling na afloop van de periode waarvoor een aanwijzing is verleend, niet opnieuw wordt aangewezen, draagt zij binnen vier maanden na afloop van de periode waarvoor die aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening wat betreft de financiën die betrekking hebben op de verzorging van media-aanbod voor de regionale publieke mediadienst. Artikel 2.138a, eerste lid, tweede, derde en vierde volzin, is van overeenkomstige toepassing. Artikel 2.138a, tweede lid, is van toepassing.   
+8.  In het geval, bedoeld in het zevende lid, zijn het vijfde en zesde lid van overeenkomstige toepassing.   
+9.  Het zevende lid is eveneens van toepassing, als een aanwijzing overeenkomstig artikel 2.67 of artikel 2.68 wordt ingetrokken. Artikel 2.138a, eerste lid, tweede, derde en vierde volzin, is van overeenkomstige toepassing. Artikel 2.138a, tweede lid, is van toepassing.   
+10.  In het geval, bedoeld in het negende lid, zijn het vijfde en zesde lid van overeenkomstige toepassing.  
+
+### Artikel  2.170b  
 
 1.  Het college van burgemeester en wethouders zorgt voor de bekostiging van het functioneren van de lokale publieke media-instelling als de gemeenteraad een advies als bedoeld in artikel 2.61, derde lid heeft uitgebracht en daarbij positief heeft geadviseerd over de vraag of de instelling voldoet aan de eis, bedoeld in artikel 2.61, tweede lid, onderdeel c.   
 2.  De bekostiging betreft vergoeding van de kosten die rechtstreeks verband houden met het verzorgen van de lokale publieke mediadienst, voor zover die kosten niet op andere wijze zijn gedekt, op zodanige wijze dat op lokaal niveau in een toereikend media-aanbod kan worden voorzien en continuïteit van bekostiging is gewaarborgd.   
@@ -1834,12 +1851,12 @@ b. kan het Commissariaat de bevoorschotting verder verminderen of beëindigen wa
 ### Artikel  2.171  
 
 1.  Het Commissariaat is belast met de rechtmatigheidstoetsing van de uitgaven van de NPO en de landelijke publieke media-instellingen.   
-2.  De landelijke publieke media-instellingen zenden jaarlijks vóór 1 mei de jaarrekening aan het Commissariaat en sturen gelijktijdig een afschrift daarvan aan de raad van bestuur. De NPO en de landelijke publieke media-instellingen nemen in het jaarverslag, bedoeld in de artikelen 2.17, 2.34i, 2.40 en 2.103, in samenhang met de [artikelen 48](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [300 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een samengevatte jaarrekening op.   
+2.  De landelijke publieke media-instellingen zenden jaarlijks vóór 1 mei de jaarrekening aan het Commissariaat en sturen gelijktijdig een afschrift daarvan aan de raad van bestuur. De NPO en de landelijke publieke media-instellingen nemen in het jaarverslag, bedoeld in de artikelen 2.17, 2.34i, 2.40 en 2.103, in samenhang met de artikelen 48 en 300 van Boek 2 van het Burgerlijk Wetboek een samengevatte jaarrekening op.   
 3.  De raad van bestuur zendt vóór 1 juli zijn opmerkingen over de jaarrekeningen tezamen met de jaarrekening van de NPO aan het Commissariaat.  
 
 ### Artikel  2.172  
 
-1.  [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing op de jaarrekeningen, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening. Op deze rekening zijn de bepalingen over de winst- en verliesrekening zo veel mogelijk van overeenkomstige toepassing. Bepalingen over winst en verlies zijn zo veel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.   
+1.  Titel 9 van Boek 2 van het Burgerlijk Wetboek is van toepassing op de jaarrekeningen, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening. Op deze rekening zijn de bepalingen over de winst- en verliesrekening zo veel mogelijk van overeenkomstige toepassing. Bepalingen over winst en verlies zijn zo veel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.   
 2.  Het boekjaar is gelijk aan het kalenderjaar.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud en inrichting van de jaarrekening.  
 
@@ -1953,7 +1970,7 @@ b. de mate waarin het media-aanbod van de landelijke publieke mediadienst tegemo
 c. de wijze waarop de omroepverenigingen waaraan een voorlopige erkenning als bedoeld in artikel 2.23, tweede lid, is verleend, een bijdrage hebben geleverd aan de vergroting van de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst en daarmee een vernieuwende bijdrage hebben geleverd aan de uitvoering van de publieke mediaopdracht op landelijk niveau; en 
 
 d. andere onderwerpen die zijn opgenomen in het besluit tot instelling van de evaluatiecommissie of die door Onze Minister zijn aangegeven.    
-2.  De evaluatiecommissie rapporteert over de wijze waarop omroeporganisaties, de NTR of de NOS afzonderlijk uitvoering hebben gegeven aan de publieke media-opdracht op landelijk niveau als bedoeld in artikel 2.184, derde en vierde lid. 
+2.  De evaluatiecommissie rapporteert over de wijze waarop omroeporganisaties, de NTR of de NOS afzonderlijk uitvoering hebben gegeven aan de publieke mediaopdracht op landelijk niveau als bedoeld in artikel 2.184, derde en vierde lid. 
 
 ### Artikel  2.187  
 
@@ -1962,7 +1979,7 @@ d. andere onderwerpen die zijn opgenomen in het besluit tot instelling van de ev
 
 ### Artikel  2.188  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden criteria vastgesteld op basis waarvan afzonderlijke landelijke publieke media-instellingen worden geëvalueerd als bedoeld in artikel 2.186.   
+1.  Bij of krachtens algemene maatregel van bestuur worden criteria vastgesteld op basis waarvan afzonderlijke landelijke publieke media-instellingen worden geëvalueerd als bedoeld in artikel 2.186, tweede lid.   
 2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
 
 ### Hoofdstuk  3  
@@ -2006,7 +2023,7 @@ b. in gebreke blijft met de betaling van de verschuldigde toezichtskosten, bedoe
 
 a. bij de aanvraag onjuiste of onvolledige gegevens verstrekt blijkt te hebben; of  
 
-b. overigens niet voldoet aan het bepaalde bij of krachtens deze wet of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+b. overigens niet voldoet aan het bepaalde bij of krachtens deze wet of artikel 5:20 van de Algemene wet bestuursrecht.    
 
 ### Titel  3.2  
 
@@ -2136,7 +2153,7 @@ b. in de titel de naam, het (beeld)merk, producten of diensten van sponsors word
 
 1.  Bij programma-aanbod dat bestaat uit het verslag of de weergave van een evenement dat niet voornamelijk bestemd is om als programma te worden uitgezonden, mogen de namen of (beeld)merken van die personen, bedrijven of instellingen, die een financiële of andere bijdrage hebben gegeven voor de totstandkoming van het evenement worden vermeld of getoond.   
 2.  Artikel 3.16, tweede en derde lid, is van overeenkomstige toepassing.   
-3.  Het eerste en tweede lid zijn niet van toepassing op situaties die vallen onder het verbod op sponsoring op grond van [artikel 5 van de Tabakswet](../../../../wet/tabakswet/BWBR0004302/README.md).  
+3.  Het eerste en tweede lid zijn niet van toepassing op situaties die vallen onder het verbod op sponsoring op grond van artikel 5 van de Tabakswet.  
 
 ### Afdeling  3.2.3a  
 
@@ -2376,7 +2393,7 @@ Van een beschikking tot erkenning en intrekking van een erkenning wordt mededeli
 
 ### Artikel  5.1  
 
-1.  Bij algemene maatregel van bestuur wordt een lijst vastgesteld van evenementen die, wanneer zij als een televisieprogramma worden verspreid, in ieder geval worden verspreid op een open televisieprogrammakanaal, en kan worden bepaald welke van die evenementen tevens worden aangemerkt als evenementen als bedoeld in artikel 3 undecies van de Europese richtlijn.   
+1.  Bij algemene maatregel van bestuur wordt een lijst vastgesteld van evenementen die, wanneer zij als een televisieprogramma worden verspreid, in ieder geval worden verspreid op een open televisieprogrammakanaal, en kan worden bepaald welke van die evenementen tevens worden aangemerkt als evenementen als bedoeld in artikel 14 van de Europese richtlijn.   
 2.  Een evenement kan op de lijst worden geplaatst als in ieder geval wordt voldaan aan twee van de volgende voorwaarden: 
 
 a. het evenement is van algemeen belang voor de Nederlandse samenleving;  
@@ -2394,7 +2411,7 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering v
 ### Artikel  5.3  
 
 1.  Publieke media-instellingen en commerciële media-instellingen oefenen verworven verspreidingsrechten die betrekking hebben op evenementen die zijn vermeld op de lijst van evenementen uit overeenkomstig de krachtens artikel 5.2 gestelde regels.   
-2.  De instellingen oefenen na 30 juli 1997 verworven uitzendrechten uit overeenkomstig de regels die door andere lidstaten van de Europese Unie overeenkomstig artikel 3 undecies, eerste lid, van de Europese richtlijn zijn gesteld.  
+2.  De instellingen oefenen na 30 juli 1997 verworven uitzendrechten uit overeenkomstig de regels die door andere lidstaten van de Europese Unie overeenkomstig artikel 14, van de Europese richtlijn zijn gesteld.  
 
 ### Artikel  5.4  
 
@@ -2436,7 +2453,7 @@ b. politieke partijen die in Nederland aan de verkiezing van de leden van het Eu
 
 ### Artikel  6.2  
 
-1.  Als een politieke partij op grond van de [artikelen 137c](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137d](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137e](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137f](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137g](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [429quater van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is veroordeeld tot een onvoorwaardelijke geldboete, wijst het Commissariaat in afwijking van artikel 6.1, eerste en tweede lid, aan deze politieke partij geen uren toe gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is: 
+1.  Als een politieke partij op grond van de artikelen 137c, 137d, 137e, 137f, 137g of 429quater van het Wetboek van Strafrecht is veroordeeld tot een onvoorwaardelijke geldboete, wijst het Commissariaat in afwijking van artikel 6.1, eerste en tweede lid, aan deze politieke partij geen uren toe gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is: 
 
 a. één jaar, bij een geldboete van minder dan € 1 125;  
 
@@ -2445,8 +2462,8 @@ b. twee jaar, bij een geldboete van € 1 125 of meer, maar minder dan € 2�
 c. drie jaar, bij een geldboete van € 2 250 of meer, maar minder dan € 3 375; en  
 
 d. vier jaar, bij een geldboete van € 3 375 of meer.     
-2.  Als een politieke partij is veroordeeld wegens een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is, wijst het Commissariaat in afwijking van artikel 6.1, eerste en tweede lid, aan deze politieke partij geen uren toe gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.  
-3.  Als aan de lijst van een politieke partij aan de lijst waarvan op de dag waarop de veroordeling onherroepelijk wordt op grond van de [Kieswet](../../../../wet/kieswet/BWBR0004627/README.md) geen zetels zijn toegewezen, op grond van een verkiezing die plaatsvindt binnen een periode van twee jaar na die dag één of meer zetels worden toegewezen, gaat de periode gedurende welke aan deze politieke partij geen uren als bedoeld in artikel 6.1, eerste lid, worden toegewezen, in op de dag waarop de verkiezing heeft plaatsgevonden.  
+2.  Als een politieke partij is veroordeeld wegens een terroristisch misdrijf als bedoeld in artikel 83 van het Wetboek van Strafrecht is, wijst het Commissariaat in afwijking van artikel 6.1, eerste en tweede lid, aan deze politieke partij geen uren toe gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.  
+3.  Als aan de lijst van een politieke partij aan de lijst waarvan op de dag waarop de veroordeling onherroepelijk wordt op grond van de Kieswet geen zetels zijn toegewezen, op grond van een verkiezing die plaatsvindt binnen een periode van twee jaar na die dag één of meer zetels worden toegewezen, gaat de periode gedurende welke aan deze politieke partij geen uren als bedoeld in artikel 6.1, eerste lid, worden toegewezen, in op de dag waarop de verkiezing heeft plaatsgevonden.  
 
 ### Artikel  6.3  
 
@@ -2605,7 +2622,7 @@ Het digitale standaardprogrammapakket dat een pakketaanbieder door middel van ee
 
 ### Artikel  6.14d  
 
-Het Commissariaat kan geheel of gedeeltelijk ontheffing verlenen van de verplichtingen, bedoeld in de artikelen 6.13, 6.14, 6.14b en 6.14c, als het onverkort nakomen daarvan leidt tot disproportionele kosten, tot een belemmering van innovatie of tot anderszins onredelijke uitkomsten. Het Commissariaat kan aan een ontheffing voorschriften verbinden. 
+Het Commissariaat kan geheel of gedeeltelijk ontheffing verlenen van de verplichtingen, bedoeld in de artikelen 6.13, 6.14, 6.14b en 6.14c en de op die artikelen berustende voorschriften, als het onverkort nakomen daarvan leidt tot disproportionele kosten, tot een belemmering van innovatie of tot anderszins onredelijke uitkomsten. Het Commissariaat kan aan een ontheffing voorschriften verbinden. 
 
 ### Paragraaf  6.3.1.3  
 
@@ -2653,7 +2670,7 @@ b. frequentieruimte die wordt gebruikt ten behoeve van verspreiding via een sate
 
 1.  Bij algemene maatregel van bestuur worden, op voordracht van Onze Minister-President, Minister van Algemene Zaken, na overleg met Onze Minister, regels gesteld op grond waarvan in geval van buitengewone omstandigheden het gebruik van programmakanalen van de publieke mediadiensten, studio’s en andere faciliteiten, omroepzenders, omroepnetwerken en andere hulpmiddelen ter beschikking worden gesteld aan de bij of krachtens die algemene maatregel van bestuur aangewezen autoriteiten.   
 2.  Onze Minister-President, Minister van Algemene Zaken, is bevoegd in de algemene noodtoestand, na overleg met Onze Minister, regels te stellen ten aanzien van de inhoud van radio- en televisieprogramma’s en het toezicht daarop, waarbij kan worden afgeweken van het bepaalde in artikel 7.11.   
-3.  De in het tweede lid bedoelde bevoegdheid wordt onverwijld beëindigd zodra [artikel 31, eerste lid, van de Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking wordt gesteld.  
+3.  De in het tweede lid bedoelde bevoegdheid wordt onverwijld beëindigd zodra artikel 31, eerste lid, van de Oorlogswet voor Nederland in werking wordt gesteld.  
 
 ### Artikel  6.27  
 
@@ -2675,7 +2692,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over het verzorg
 
 ### Artikel  7.2  
 
-Op het Commissariaat is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing met uitzondering van [artikel 17](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) voor zover het betreft het bepaalde in artikel 2.139, zesde lid, van de Mediawet 2008. 
+Op het Commissariaat is de Kaderwet zelfstandige bestuursorganen van toepassing met uitzondering van artikel 17 voor zover het betreft het bepaalde in artikel 2.139, zesde lid, van de Mediawet 2008. 
 
 ### Artikel  7.3  
 
@@ -2684,7 +2701,7 @@ Op het Commissariaat is de [Kaderwet zelfstandige bestuursorganen](../../../../w
 
 ### Artikel  7.4  
 
-Onverminderd [artikel 13 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn onverenigbaar met het lidmaatschap van het Commissariaat: 
+Onverminderd artikel 13 van de Kaderwet zelfstandige bestuursorganen zijn onverenigbaar met het lidmaatschap van het Commissariaat: 
 
 a. het lidmaatschap van een van beide Kamers der Staten-Generaal, een provinciaal bestuur of een gemeentebestuur;  
 
@@ -2704,8 +2721,8 @@ De kosten van het Commissariaat worden door Onze Minister vergoed op basis van d
 
 ### Artikel  7.7  
 
-1.  Onverminderd [artikel 34 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) dient het Commissariaat jaarlijks voor 1 september bij Onze Minister een financieel verslag in over het beheer van de algemene mediareserve, bedoeld in artikel 2.166.   
-2.  Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en behoeft de instemming van Onze Minister.   
+1.  Onverminderd artikel 34 van de Kaderwet zelfstandige bestuursorganen dient het Commissariaat jaarlijks voor 1 september bij Onze Minister een financieel verslag in over het beheer van de algemene mediareserve, bedoeld in artikel 2.166.   
+2.  Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek en behoeft de instemming van Onze Minister.   
 3.  Het Commissariaat maakt het financieel verslag openbaar.  
 
 ### Artikel  7.8  
@@ -2739,9 +2756,9 @@ b. hoofdstuk 8.
 
 ### Artikel  7.12  
 
-1.  Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 2.34, eerste lid, 2.58, onderdelen a tot en met c, en e, 2.170 en 2.170a of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het Commissariaat aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 225 000 per overtreding.   
+1.  Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 2.34, eerste lid, 2.58, onderdelen a tot en met c, en e, 2.170 en 2.170b of artikel 5:20 van de Algemene wet bestuursrecht kan het Commissariaat aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 225 000 per overtreding.   
 2.  De bestuurlijke boete bij overtreding van het bepaalde in artikel 2.34, eerste lid, bedraagt tien procent van het totale bedrag aan gelden dat gemiddeld in de kalenderjaren voorafgaand aan de overtreding tijdens de lopende erkenningperiode aan de omroeporganisatie ter beschikking is gesteld voor de verzorging van media-aanbod voor de landelijke publieke mediadienst.  
-3.  Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 2.34, tweede lid, 2.35, 2.58, onderdeel d, 2.70, 2.71, derde en vierde lid, 2.88b tot en met 2.92, 2.94 tot en met 2.99, 2.106 tot en met 2.108, 2.111, eerste lid, 2.115 tot en met 2.124, 2.150, tweede en derde lid, 2.151, tweede lid, 2.170 en 2.170a, 3.5b tot en met 3.14, 3.15, tweede lid, 3.16, 3.17, 3.19 tot en met 3.19b, 3.20 tot en met 3.26, 3.29, 3.29d, 4.1, 4.6, 5.1 tot en met 5.4, 6.4, 6.6, tweede lid, en 6.23 tot en met 6.25, kan het Commissariaat aan de overtreder een last onder dwangsom opleggen.  
+3.  Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 2.34, tweede lid, 2.35, 2.58, onderdeel d, 2.70, 2.71, derde en vierde lid, 2.88b tot en met 2.92, 2.94 tot en met 2.99, 2.106 tot en met 2.108, 2.111, eerste lid, 2.115 tot en met 2.124, 2.150, tweede en derde lid, 2.151, tweede lid, 2.170 en 2.170b, 3.5b tot en met 3.14, 3.15, tweede lid, 3.16, 3.17, 3.19 tot en met 3.19b, 3.20 tot en met 3.26, 3.29, 3.29d, 4.1, 4.6, 5.1 tot en met 5.4, 6.4, 6.6, tweede lid, en 6.23 tot en met 6.25, kan het Commissariaat aan de overtreder een last onder dwangsom opleggen.  
 
 ### Artikel  7.13  
 
@@ -2749,7 +2766,7 @@ De te betalen geldsommen van de bestuurlijke boeten en dwangsommen komen toe aan
 
 ### Artikel  7.14  
 
-1.  Bij overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan het Commissariaat, naast of in plaats van het opleggen van een bestuurlijke boete en een last onder dwangsom: 
+1.  Bij overtreding van het bepaalde bij of krachtens deze wet of artikel 5:20 van de Algemene wet bestuursrecht kan het Commissariaat, naast of in plaats van het opleggen van een bestuurlijke boete en een last onder dwangsom: 
 
 a. de in artikel 2.51 bedoelde uren van de desbetreffende instelling voor ten hoogste twaalf weken intrekken;  
 
@@ -2765,7 +2782,7 @@ b. een omroeporganisatie naar de mening van de raad van bestuur onvoldoende uitv
 ### Artikel  7.15  
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/570. 
-1.  Bij een onherroepelijke veroordeling tot een onvoorwaardelijke geldboete op grond van [artikel 137d van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verbiedt het Commissariaat: 
+1.  Bij een onherroepelijke veroordeling tot een onvoorwaardelijke geldboete op grond van artikel 137d van het Wetboek van Strafrecht verbiedt het Commissariaat: 
 
 a. een omroepvereniging, de educatieve media-instelling en een kerkgenootschap of genootschap op geestelijke grondslag tijdelijk een erkenning of aanwijzing als bedoeld in hoofdstuk 2, afdeling 2.2.2 respectievelijk afdeling 2.2.4, te gebruiken;  
 
@@ -2825,7 +2842,7 @@ Bij intrekking of vermindering van uren kan het Commissariaat als dat nodig is d
 
 a. met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner; en  
 
-b. bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 uur en 08.00 uur voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde bevoegdheden redelijkerwijs nodig is.     
+b. bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 uur en 08.00 uur voor zover dat voor de uitoefening van de in artikel 5:17 van de Algemene wet bestuursrecht genoemde bevoegdheden redelijkerwijs nodig is.     
 2.  De toezichthouders oefenen de in het eerste lid genoemde bevoegdheden zo nodig uit met behulp van de sterke arm.  
 
 ### Artikel  7.20  
@@ -2853,15 +2870,15 @@ b. bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 
 
 ### Artikel  8.1  
 
-1.  Er is een Stimuleringsfonds voor de pers.   
+1.  Er is een Stimuleringsfonds voor de journalistiek.   
 2.  Het Stimuleringsfonds heeft rechtspersoonlijkheid en is gevestigd in de gemeente ’s-Gravenhage.  
 
 ### Artikel  8.2  
 
 1.  In dit hoofdstuk wordt verstaan onder: 
 
-*Stimuleringsfonds:* Stimuleringsfonds voor de pers.     
-2.  Op het Stimuleringsfonds is de [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing met uitzondering van [artikel 22](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
+*Stimuleringsfonds:* Stimuleringsfonds voor de journalistiek.     
+2.  Op het Stimuleringsfonds is de Kaderwet zelfstandige bestuursorganen van toepassing met uitzondering van artikel 22.  
 
 ### Artikel  8.3  
 
@@ -2881,7 +2898,7 @@ c. de uitvoering van overige taken die hem zijn opgedragen bij of krachtens deze
 
 ### Artikel  8.5  
 
-Onverminderd [artikel 13 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn met het lidmaatschap van het bestuur van het Stimuleringsfonds onverenigbaar: 
+Onverminderd artikel 13 van de Kaderwet zelfstandige bestuursorganen zijn met het lidmaatschap van het bestuur van het Stimuleringsfonds onverenigbaar: 
 
 a. het lidmaatschap van een van beide Kamers der Staten-Generaal, een provinciaal bestuur of een gemeentebestuur;  
 
@@ -3082,16 +3099,16 @@ De artikelen 2.94, tweede lid, onderdeel b, en 3.7, tweede lid, onderdeel b, zij
 
 ### Artikel  9.3  
 
-[Hoofdstuk VII van de Mediawet](../../../../wet/mediawet/BWBR0004149/README.md) zoals [die wet](../../../../wet/mediawet/BWBR0004149/README.md) luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, blijft tot 1 januari 2011 van kracht, met dien verstande dat de in de [artikelen 89](../../../../wet/mediawet/BWBR0004149/README.md) en [90 van genoemd hoofdstuk](../../../../wet/mediawet/BWBR0004149/README.md) bedoelde gelden ter beschikking worden gesteld aan de raad van bestuur. 
+Hoofdstuk VII van de Mediawet zoals die wet luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, blijft tot 1 januari 2011 van kracht, met dien verstande dat de in de artikelen 89 en 90 van genoemd hoofdstuk bedoelde gelden ter beschikking worden gesteld aan de raad van bestuur. 
 
 ### Artikel  9.4  
 
-1.  Concessies, erkenningen, zendtijdtoewijzingen, toestemmingen en ontheffingen die zijn verleend op grond van de [Mediawet](../../../../wet/mediawet/BWBR0004149/README.md) zoals [die wet](../../../../wet/mediawet/BWBR0004149/README.md) luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, worden geacht te zijn verleend op grond van deze wet voor de duur waarvoor zij zijn gegeven.   
-2.  Benoemingen op grond van de [Mediawet](../../../../wet/mediawet/BWBR0004149/README.md) zoals [die wet](../../../../wet/mediawet/BWBR0004149/README.md) luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, worden geacht te zijn geschied op grond van deze wet voor de duur van de benoemingstermijn.  
+1.  Concessies, erkenningen, zendtijdtoewijzingen, toestemmingen en ontheffingen die zijn verleend op grond van de Mediawet zoals die wet luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, worden geacht te zijn verleend op grond van deze wet voor de duur waarvoor zij zijn gegeven.   
+2.  Benoemingen op grond van de Mediawet zoals die wet luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, worden geacht te zijn geschied op grond van deze wet voor de duur van de benoemingstermijn.  
 
 ### Artikel  9.5  
 
-Voor overtredingen van het bepaalde bij of krachtens de [Mediawet](../../../../wet/mediawet/BWBR0004149/README.md) zoals [die wet](../../../../wet/mediawet/BWBR0004149/README.md) luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, en ten aanzien van voor het tijdstip van inwerkingtreding van deze wet aangevangen bezwaar- en beroepsprocedures blijft de [Mediawet](../../../../wet/mediawet/BWBR0004149/README.md) zoals [die wet](../../../../wet/mediawet/BWBR0004149/README.md) luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, van toepassing. 
+Voor overtredingen van het bepaalde bij of krachtens de Mediawet zoals die wet luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, en ten aanzien van voor het tijdstip van inwerkingtreding van deze wet aangevangen bezwaar- en beroepsprocedures blijft de Mediawet zoals die wet luidde op de dag voorafgaande aan het tijdstip waarop deze wet in werking treedt, van toepassing. 
 
 ### Artikel  9.6  
 
@@ -3099,7 +3116,7 @@ Bij algemene maatregel van bestuur kunnen tot twee jaar na het tijdstip waarop d
 
 ### Titel  9.2  
 
-####Overgangsbepalingen bij de [Wet van PM tot wijziging van de Mediawet 2008](../../../../wet/wijzigingswet/mediawet/2008/(moderniseren/van/het/stelsel/van/de/etc/BWBR0034182/README.md) teneinde het stelsel van de landelijke publieke omroep te moderniseren
+####Overgangsbepalingen bij de Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren
 
 ### Afdeling  9.2.1  
 
@@ -3118,7 +3135,7 @@ c. de omroeporganisaties van de in de onderdelen a en b genoemde samenstelling m
 ### Artikel  9.8  
 
 1.  In afwijking van artikel 2.32, eerste lid, onderdeel a, wijst Onze Minister een aanvraag voor een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens af, als de aanvrager niet voldoet aan artikel 9.7.   
-2.  In afwijking van artikel 2.33, eerste lid, onderdeel a, trekt Onze Minister een aanvraag voor een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens in, als de aanvrager niet meer voldoet aan artikel 9.7.  
+2.  In afwijking van artikel 2.33, eerste lid, onderdeel a, trekt Onze Minister een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens in, als de aanvrager niet meer voldoet aan artikel 9.7.  
 
 ### Artikel  9.8a  
 
@@ -3130,7 +3147,7 @@ De omroepverenigingen PowNed en WNL kunnen afzien van deelname aan de procedure 
 
 ### Artikel  9.9  
 
-De leden van de raad van toezicht van de Nederlandse Programma Stichting, bedoeld in artikel 2.36, zoals dat artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van het onderdeel betreffende artikel 2.36 van de [Wet van PM tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren](../../../../wet/wijzigingswet/mediawet/2008/(moderniseren/van/het/stelsel/van/de/etc/BWBR0034182/README.md), zijn met ingang van dat tijdstip van inwerkingtreding, lid van de raad van toezicht van de NTR, bedoeld in artikel 2.36, zoals dat artikel luidt op dat tijdstip, voor het resterende gedeelte van hun benoemingstermijn. Deze leden van de raad van toezicht van de NTR kunnen voor een aansluitende periode van maximaal vier jaar eenmaal herbenoemd worden. 
+De leden van de raad van toezicht van de Nederlandse Programma Stichting, bedoeld in artikel 2.36, zoals dat artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van het onderdeel betreffende artikel 2.36 van de Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren, zijn met ingang van dat tijdstip van inwerkingtreding, lid van de raad van toezicht van de NTR, bedoeld in artikel 2.36, zoals dat artikel luidt op dat tijdstip, voor het resterende gedeelte van hun benoemingstermijn. Deze leden van de raad van toezicht van de NTR kunnen voor een aansluitende periode van maximaal vier jaar eenmaal herbenoemd worden. 
 
 ### Afdeling  9.2.3  
 
@@ -3146,7 +3163,7 @@ Ten behoeve van de financiële verantwoording over het jaar 2015 blijven met bet
 
 ### Artikel  9.11  
 
-De vaststelling van het budget, bedoeld in artikel 2.149, eerste lid, onderdeel d, is voor de kalenderjaren 2014 en 2015 ten minste gebaseerd op de wettelijke grondslagen zoals die golden op de dag voorafgaand aan de inwerkingtreding van het onderdeel betreffende artikel 2.149 van de [Wet van PM tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren](../../../../wet/wijzigingswet/mediawet/2008/(moderniseren/van/het/stelsel/van/de/etc/BWBR0034182/README.md), ten aanzien van de vaststelling van het budget van de Nederlandse Programma Stichting en de educatieve media-instelling die een erkenning had verkregen op grond van artikel 2.28, zoals dat artikel toen luidde. 
+De vaststelling van het budget, bedoeld in artikel 2.149, eerste lid, onderdeel d, is voor de kalenderjaren 2014 en 2015 ten minste gebaseerd op de wettelijke grondslagen zoals die golden op de dag voorafgaand aan de inwerkingtreding van het onderdeel betreffende artikel 2.149 van de Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren, ten aanzien van de vaststelling van het budget van de Nederlandse Programma Stichting en de educatieve media-instelling die een erkenning had verkregen op grond van artikel 2.28, zoals dat artikel toen luidde. 
 
 ### Afdeling  9.2.5  
 
@@ -3179,13 +3196,26 @@ De artikelen 2.184 tot en met 2.187 blijven buiten toepassing voor de vijfjaarli
 2.  Het eerste lid is alleen van toepassing als de onroerende zaken en de rechten waaraan deze zijn onderworpen uiterlijk 1 juli 2015 worden verkregen vanwege fusie tot een omroepvereniging of oprichting van een samenwerkingsomroep.   
 3.  Als onroerende zaken en de rechten waaraan deze zijn onderworpen, die zijn verkregen onder toepassing van het eerste en tweede lid, als gevolg van het niet finaal tot stand komen van een omroeporganisatie worden verkregen door de inbrenger, is die verkrijging vrijgesteld van overdrachtsbelasting.  
 
+### Afdeling  9.2.8*  
+
+####Overgangsrecht vrijstelling melding van voorgenomen concentratie door omroepverenigingen
+
+### Artikel  9.14a  
+
+1.  In afwijking van artikel 34 van de Mededingingswet is geen melding vereist voor een voornemen tot concentratie van: 
+
+a. omroepverenigingen als bedoeld in artikel 9.7, onderdeel b, voor zover dat leidt tot de in dat onderdeel bedoelde omroeporganisaties; of  
+
+b. een omroepvereniging als bedoeld in artikel 9.7, onderdeel c, met een omroepvereniging als bedoeld in artikel 9.7, onderdeel a, of met een omroeporganisatie als bedoeld in artikel 9.7, onderdeel b.     
+2.  Dit artikel is van toepassing in de periode vanaf 1 januari 2013 tot en met 31 december 2015.  
+
 ### Afdeling  9.2.8  
 
 ####Overgangsrecht vrijstelling melding van voorgenomen concentratie door omroepverenigingen
 
 ### Artikel  9.15*  
 
-1.  In afwijking van [artikel 34 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) is geen melding vereist voor een voornemen tot concentratie van: 
+1.  In afwijking van artikel 34 van de Mededingingswet is geen melding vereist voor een voornemen tot concentratie van: 
 
 a. omroepverenigingen als bedoeld in artikel 9.7, onderdeel b, voor zover dat leidt tot de in dat onderdeel bedoelde omroeporganisaties; of  
 
@@ -3202,7 +3232,7 @@ De voordracht voor een krachtens de artikelen 2.21a, 2.34a, 2.116 of 2.136 vast 
 
 ### Artikel  9.16  
 
-Onze Minister stelt regels ter uitvoering van de artikelen 12, 15 en 16 van de Europese richtlijn, voor zover naar het oordeel van Onze Minister een of meer van deze artikelen niet, niet voldoende, niet juist of niet tijdig zijn uitgewerkt in de Nederlandse Reclame Code of in een vergelijkbare door de Stichting Reclame Code tot stand gebrachte regeling, dan wel de Stichting Reclame Code in gebreke blijft met het toezicht daarop. 
+Onze Minister stelt regels ter uitvoering van artikel 22 van de Europese richtlijn, voor zover naar het oordeel van Onze Minister een of meer van deze artikelen niet, niet voldoende, niet juist of niet tijdig zijn uitgewerkt in de Nederlandse Reclame Code of in een vergelijkbare door de Stichting Reclame Code tot stand gebrachte regeling, dan wel de Stichting Reclame Code in gebreke blijft met het toezicht daarop. 
 
 ### Artikel  9.17  
 
@@ -3218,15 +3248,15 @@ Na inwerkingtreding van deze wet:
 
 a. vervallen;  
 
-b. berust het [besluit van 23 juni 1988 (Stb. 341), houdende regelen ter uitvoering van artikel 173 van de Mediawet](../../../../AMvB/uitvoeringsbesluit/ex/artikel/173/mediawet/BWBR0004354/README.md), op artikel 6.26, eerste lid;  
+b. berust het besluit van 23 juni 1988 (Stb. 341), houdende regelen ter uitvoering van artikel 173 van de Mediawet, op artikel 6.26, eerste lid;  
 
-c. berust de [Regeling toezichtskosten commerciële omroep](../../../../ministeriele-regeling/regeling/toezichtskosten/commerciële/omroep/BWBR0012826/README.md) op artikel 3.30, tweede lid;  
+c. berust de Regeling toezichtskosten commerciële omroep op artikel 3.30, tweede lid;  
 
-d. berust de [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](../../../../ministeriele-regeling/regeling/aanwijzing/en/gebruik/frequentieruimte/commerciële/radio-omroep/etc/BWBR0014740/README.md) op artikel 6.23, eerste en tweede lid.   
+d. berust de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 op artikel 6.23, eerste en tweede lid.   
 
 ### Artikel  9.19  
 
-De [Mediawet](../../../../wet/mediawet/BWBR0004149/README.md) wordt ingetrokken. 
+De Mediawet wordt ingetrokken. 
 
 ### Artikel  9.20  
 

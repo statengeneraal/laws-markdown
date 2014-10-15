@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 november 1997, nr. SV/GSV/97/4895; 
 
-Gelet op [artikel 3, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md); 
+Gelet op artikel 3, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; 
 
 De Raad van State gehoord (advies van 17 december 1997, nr. W12.97.0762); 
 
@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen 
 
-In dit besluit wordt verstaan onder de wet: de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).  
+In dit besluit wordt verstaan onder de wet: de Wet werk en arbeidsondersteuning jonggehandicapten.  
 
 ###Artikel 2 
 
 ####Uitbreiding van de kring van ingezetenen
 
-Voor de toepassing van de [wet](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) wordt mede verstaan onder ingezetene: de persoon, die buiten Nederland woont en die op grond van [artikel 2](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [3](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [5](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) of [8 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) verplicht verzekerd is voor de volksverzekeringen.
+Voor de toepassing van de wet wordt mede verstaan onder ingezetene: de persoon, die buiten Nederland woont en die op grond van artikel 2, 3, 5 of 8 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 verplicht verzekerd is voor de volksverzekeringen.
 
 ###Artikel 3 
 
@@ -37,7 +37,7 @@ Voor de toepassing van de [wet](../../../../../../../../../wet/wet/werk/en/arbei
 
 ####Beperking van de kring van ingezetenen
 
-Voor de toepassing van de [wet](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) wordt niet verstaan onder ingezetene: de persoon, die op grond van [artikel 13](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [14](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [15](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [16](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [18](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) of [20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) niet verplicht verzekerd is voor de volksverzekeringen.
+Voor de toepassing van de wet wordt niet verstaan onder ingezetene: de persoon, die op grond van artikel 13, 14, 15, 16, 18 of 20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 niet verplicht verzekerd is voor de volksverzekeringen.
 
 ###Artikel 5 
 
