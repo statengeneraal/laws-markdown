@@ -3,7 +3,7 @@
 ##Nadere regeling kinderarbeid
 
 De Minister van Sociale Zaken en Werkgelegenheid  
-Gelet op [artikel 3:2, derde lid, van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);
+Gelet op artikel 3:2, derde lid, van de Arbeidstijdenwet;
 Besluit:     
 ### § 1  
 
@@ -17,11 +17,11 @@ Besluit:
 
 –alternatieve sanctie:
 
-a. de deelname aan een project, bedoeld in [artikel 77e, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md); 
+a. de deelname aan een project, bedoeld in artikel 77e, van het Wetboek van Strafrecht; 
 
-b. de vervulling van de voorwaarde, bedoeld in [artikel 77f, eerste lid, onder b, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of 
+b. de vervulling van de voorwaarde, bedoeld in artikel 77f, eerste lid, onder b, van het Wetboek van Strafrecht, of 
 
-c. de uitvoering van de alternatieve sanctie, bedoeld in [artikel 77h, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md); 
+c. de uitvoering van de alternatieve sanctie, bedoeld in artikel 77h, tweede lid, van het Wetboek van Strafrecht; 
 
 – arbeid van lichte aard: werkzaamheden die niet te zwaar zijn, geen gevaar opleveren of niet schadelijk zijn voor de gezondheid;  
 
@@ -38,9 +38,9 @@ c. de uitvoering van de alternatieve sanctie, bedoeld in [artikel 77h, tweede li
 – voorarbeid: de met de uitvoering samenhangende arbeid bestaande uit de noodzakelijke repetities alsmede de wacht- en rusttijden.    
 2.  Geen arbeid van lichte aard is in ieder geval arbeid waarbij: 
 
-a. op grond van de [artikelen 3.46](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.105](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.106](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [6.27](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [7.39](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) of [9.36 van het Arbeidsomstandighedenbesluit](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) voor jeugdige werknemers arbeid is verboden dan wel daaraan bijzondere vereisten zijn gesteld;  
+a. op grond van de artikelen 3.46, 4.105, 4.106, 6.27, 7.39 of 9.36 van het Arbeidsomstandighedenbesluit voor jeugdige werknemers arbeid is verboden dan wel daaraan bijzondere vereisten zijn gesteld;  
 
-b. met maatregelen als bedoeld in [artikel 2.15 van het Arbeidsomstandighedenbesluit](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) blootstelling aan psychosociale arbeidsbelasting als bedoeld in de Arbeidsomstandighedenwet niet kan worden voorkomen of beperkt;  
+b. met maatregelen als bedoeld in artikel 2.15 van het Arbeidsomstandighedenbesluit blootstelling aan psychosociale arbeidsbelasting als bedoeld in de Arbeidsomstandighedenwet niet kan worden voorkomen of beperkt;  
 
 c. door een kind kassawerkzaamheden worden verricht;  
 
@@ -52,12 +52,12 @@ f. door een kind voorwerpen worden geduwd of getrokken waarbij meer dan 20 kilog
 
 g. door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen om het risico tegen te gaan;  
 
-h. door een kind werkzaamheden worden verricht als zeevarende als bedoeld in de [Wet zeevarenden](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), op een zeeschip als bedoeld in [artikel 2 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), met dien verstande dat personen die op grond van [artikel 1.2 van de Regeling zeevarenden](../../../../../ministeriele-regeling/regeling/zeevarenden/BWBR0032140/README.md) zijn uitgezonderd, niet als zeevarende worden aangemerkt.    
+h. door een kind werkzaamheden worden verricht als zeevarende als bedoeld in de Wet zeevarenden, op een zeeschip als bedoeld in artikel 2 van Boek 8 van het Burgerlijk Wetboek, met dien verstande dat personen die op grond van artikel 1.2 van de Regeling zeevarenden zijn uitgezonderd, niet als zeevarende worden aangemerkt.    
 3.  Onacceptabele veiligheidsrisico's voor een kind of zijn omgeving zijn in ieder geval aanwezig bij werkzaamheden: 
 
 a. met of in de omgeving van mechanische arbeidsmiddelen waarbij brand-, elektrocutie-, knel-, plet-, snij- of valgevaar bestaat, of  
 
-b. waarbij op grond van [artikel 1.37 van het Arbeidsomstandighedenbesluit](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) voor jeugdige werknemers bijzondere vereisten zijn gesteld.    
+b. waarbij op grond van artikel 1.37 van het Arbeidsomstandighedenbesluit voor jeugdige werknemers bijzondere vereisten zijn gesteld.    
 
 ### § 2  
 
@@ -87,7 +87,7 @@ g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwiss
 
 ### Artikel 3:1  
 
-1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst, bedoeld in [artikel 35 van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), gesloten, onderscheidenlijk een beslissing van burgemeester en wethouders, waarbij goedkeuring wordt verleend op een verzoek tot vervangende leerplicht, bedoeld in de [artikelen 3a](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [3b van de Leerplichtwet 1969](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). De stageovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.   
+1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst, bedoeld in artikel 35 van het Inrichtingsbesluit W.V.O., gesloten, onderscheidenlijk een beslissing van burgemeester en wethouders, waarbij goedkeuring wordt verleend op een verzoek tot vervangende leerplicht, bedoeld in de artikelen 3a en 3b van de Leerplichtwet 1969. De stageovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.   
 2.  Indien een kind van 14 jaar of ouder arbeid van lichte aard verricht in het kader van een schoolwerkplan van zijn school onderscheidenlijk een programma in het kader van de vervangende leerplicht, dan wordt in acht genomen, dat dat kind: 
 
 a.  op zondag geen arbeid verricht; 
@@ -459,7 +459,7 @@ Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de artik
 
 ### Artikel 13:1  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) in werking treedt.  
+Deze regeling treedt in werking met ingang van het tijdstip waarop de Arbeidstijdenwet in werking treedt.  
 
 ###Artikel 13:2 
 

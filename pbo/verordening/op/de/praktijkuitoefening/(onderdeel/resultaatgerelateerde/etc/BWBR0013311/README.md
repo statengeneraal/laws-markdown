@@ -9,7 +9,7 @@ Overwegende,
 
 - dat dergelijke regels reeds voor een deel onder woorden zijn gebracht in de Gedragsregels voor Advocaten 1992;
 
-Gelet op de [artikelen 26](../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md) en [28 van de Advocatenwet](../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op de artikelen 26 en 28 van de Advocatenwet;
 
 Gezien het ontwerp van de Algemene Raad met bijbehorende toelichting;
 
@@ -20,9 +20,9 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a.*advocaat:*de in Nederland ingeschreven advocaat alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md).
+a.*advocaat:*de in Nederland ingeschreven advocaat alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet.
 
-b.*financiële resultaat:*het totaal van de ontvangen hoofdsom, rente, kostenvergoedingen, inclusief vergoeding op grond van [artikel 6:96 Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en (proces)kostenveroordelingen.
+b.*financiële resultaat:*het totaal van de ontvangen hoofdsom, rente, kostenvergoedingen, inclusief vergoeding op grond van artikel 6:96 Burgerlijk Wetboek en (proces)kostenveroordelingen.
 
 c.*cliënt:*de natuurlijke persoon die op basis van een overeenkomst van opdracht gebruik maakt van de door de advocaat te verlenen of verleende rechtsbijstand.
 

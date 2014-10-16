@@ -3495,6 +3495,20 @@ De notaris is verplicht, voor zover hem dit mogelijk is, uiterlijk op de dag na 
 
 De koper is gehouden de koopprijs te voldoen in handen van de notaris. Deze voldoet daaruit de kosten van de executie. 
 
+### Artikel  524a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1. Indien sprake is van een tot bewoning bestemde onroerende zaak worden, voor zover verschuldigd, aan de koper geen andere kosten of heffingen in rekening gebracht dan: 
+
+a. de overdrachtsbelasting en de omzetbelasting; 
+
+b. het honorarium van de notaris;  
+
+c. het kadastrale recht en de kosten van kadastrale recherche;  
+
+d. de kosten van ontruiming.  
+2.  Aan de koper wordt voorafgaand aan de veiling naar beste weten een indicatie gegeven van de maximale hoogte van de kosten en heffingen die aan hem in rekening worden gebracht. 
+
 ### Artikel  525  
 
 1.  De koper verkrijgt het recht op de verkochte zaken door inschrijving van het proces-verbaal van toewijzing.    

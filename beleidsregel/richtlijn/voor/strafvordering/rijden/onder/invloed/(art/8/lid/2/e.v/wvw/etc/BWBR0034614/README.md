@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn bevat het strafvorderingsbeleid van het OM inzake overtredingen van [artikel 8, leden 2 t/m 4 Wegenverkeerswet 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+Deze richtlijn bevat het strafvorderingsbeleid van het OM inzake overtredingen van artikel 8, leden 2 t/m 4 Wegenverkeerswet 1994.    
 
 ####De richtlijn
 
@@ -16,7 +16,7 @@ Deze richtlijn geldt voor feiten gepleegd vanaf de datum van inwerkingtreding.
 
 ### Bijlage  1  
 
-####Schema richtlijn voor strafvordering [artikel 8 lid 2 e.v. WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) per 1 januari 2014
+####Schema richtlijn voor strafvordering artikel 8 lid 2 e.v. WVW 1994 per 1 januari 2014
 
 Tabel 1 A artikel 8 lid 2 onder a en b WVW 1994 ‘ERVAREN’ bestuurder motorrijtuigen ex brom-/snorfiets 
 
@@ -38,7 +38,7 @@ Tabel 1 A artikel 8 lid 2 onder a en b WVW 1994 ‘ERVAREN’ bestuurder motorri
 | Extra schaal XIV:  | --- | --- | 62 punten  | 48 uur TS (cq 24 dg GS) + 21 mnd OBM ov  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  |
 | Extra schaal XV:  | --- | --- | 66 punten  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  |
 | Extra schaal XV:  | --- | --- | 70 punten  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  | –  | -–  |
-| --- | --- | --- | --- | Weigering [art. 163 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  | --- | --- |
+| --- | --- | --- | --- | Weigering art. 163 WVW 1994  | --- | --- |
 | Weigering  | 42 punten  | € 1.500 + 9 mnd OBM ov  | € 1.600 + 10 mnd OBM ov  | € 1.600 + 10 mnd OBM ov  |
 
 Tabel 1 Bartikel 8 lid 3 WVW 1994 Beginnende bestuurder motorrijtuigen ex brom-/snorfiets 
@@ -61,14 +61,14 @@ Tabel 1 Bartikel 8 lid 3 WVW 1994 Beginnende bestuurder motorrijtuigen ex brom-/
 | Extra schaal XIV:  | --- | --- | 62 punten  | 48 uur TS (cq 24 dg GS) + 21 mnd OBM ov  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  |
 | Extra schaal XV:  | --- | --- | 66 punten  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  |
 | Extra schaal XV:  | --- | --- | 70 punten  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  | –  | –  |
-| --- | --- | --- | --- |  Weigering [art. 163 WVW 1994 ](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  | --- | --- |
+| --- | --- | --- | --- |  Weigering art. 163 WVW 1994   | --- | --- |
 | Weigering  | 42 punten  | € 1.500 + 9 mnd OBM ov  | € 1.600 + 10 mnd OBM ov  | € 1.600 + 10 mnd OBM ov  |
 
 *Soort voertuig* Vrachtauto/trekker, al dan niet met aanhanger/oplegger, of een autobus + 4 punten (= 1 schaal hoger) 
 
 ####Rijgedrag
 
-Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 4 punten Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis (geen aparte strafvervolging ex [art.6 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) + 4 punten + dagvaarden NB T/m 6 mnd OBM is een strafbeschikking (SB) mogelijk. De officier moet de verdachte oproepen en deze moet instemmen met OBM. 
+Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 4 punten Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis (geen aparte strafvervolging ex art.6 WVW 1994) + 4 punten + dagvaarden NB T/m 6 mnd OBM is een strafbeschikking (SB) mogelijk. De officier moet de verdachte oproepen en deze moet instemmen met OBM. 
 
 ####Beginnende bestuurder
 
@@ -92,7 +92,7 @@ Zie voor toelichting begrip beginnende bestuurder onder tabel 2b (pagina 6) * Le
 | Extra schaal XIV:  | --- | --- | 62 punten  | 48 uur TS (cq 24 dg GS) + 21 mnd OBM ov  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  |
 | Extra schaal XV:  | --- | --- | 66 punten  | 54 uur TS (cq 27 dg GS) + 24 mnd OBM ov  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  |
 | Extra schaal XV:  | --- | --- | 70 punten  | 60 uur TS (cq 30 dg GS) + 27 mnd OBM ov  | –  | –  |
-| --- | --- | --- | --- | Weigering [art. 163 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  | --- | --- |
+| --- | --- | --- | --- | Weigering art. 163 WVW 1994  | --- | --- |
 | Weigering  | 42 punten  | € 1.500 + 9 mnd OBM ov  | € 1.600 + 10 mnd OBM ov  | € 1.600 + 10 mnd OBM ov  |
 
 Tabel 2 A BROMFIETS artikel 8 lid 2 WVW 1994 ‘ERVAREN’ bestuurder bromfiets (waaronder begrepen snorfiets en brommobiel) of bestuurder gehandicaptenvoertuig met motor 
@@ -109,7 +109,7 @@ Tabel 2 A BROMFIETS artikel 8 lid 2 WVW 1994 ‘ERVAREN’ bestuurder bromfiets 
 | Schaal VIII: 1.095 µG/l en hoger  | 2,51‰ en hoger  | 26 punten  | € 900 + 8 mnd OBM ov  | € 1.000 + 9 mnd OBM ov  | € 1.000 + 9 mnd OBM ov  |
 | Extra schaal:  | --- | 29 punten  | € 1.000 + 9 mnd OBM ov  | € 1100 + 10 mnd OBM ov  | € 1100 + 10 mnd OBM ov  |
 | Extra schaal:  | --- | 32 punten  | € 1100 + 10 mnd OBM ov  | ––  | ––  |
-| --- | --- | --- |  Weigering [art. 163 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   | --- |
+| --- | --- | --- |  Weigering art. 163 WVW 1994   | --- |
 | Weigering  | --- | 17 punten  | € 600 + 5 mnd OBM ov  | SB € 700 + 6 mnd OBM ov  | SB € 700 + 6 mnd OBM ov  |
 
 Tabel 2 B BROMFIETS artikel 8 lid 3/4WVW 1994 Beginnende bestuurder bromfiets (waaronder begrepen snorfiets en brommobiel), bromfietsbestuurder zonder rijbewijs of deelnemer ASP 
@@ -126,12 +126,12 @@ Tabel 2 B BROMFIETS artikel 8 lid 3/4WVW 1994 Beginnende bestuurder bromfiets (w
 | Schaal VIII: 1.095 µG/l en hoger  | 2,51‰ en hoger  | 26 punten  | € 900 + 8 mnd OBM ov  | € 1.000 + 9 mnd OBM ov  | € 1.000 + 9 mnd OBM ov  |
 | Extra schaal:  | --- | 29 punten  | € 1.000 + 9 mnd OBM ov  | € 1100 + 10 mnd OBM ov  | € 1100 + 10 mnd OBM ov  |
 | Extra schaal:  | --- | 32 punten  | € 1100 + 10 mnd OBM ov  | –  | –  |
-| --- | --- | --- |  Weigering [art. 163 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   | --- |
+| --- | --- | --- |  Weigering art. 163 WVW 1994   | --- |
 | Weigering  | --- | 17 punten  | € 600 + 5 mnd OBM ov  | SB € 700 + 6 mnd OBM ov  | SB € 700 + 6 mnd OBM ov  |
 
 ####Rijgedrag
 
-Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 3 punten (= 1 schaal hoger) Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis (geen aparte strafvervolging ex [art.6 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) + 3 punten +dagvaarden 
+Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 3 punten (= 1 schaal hoger) Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis (geen aparte strafvervolging ex art.6 WVW 1994) + 3 punten +dagvaarden 
 
 ####Voor de strafmaat vallen onder het begrip beginnend bestuurder:
 
@@ -141,17 +141,17 @@ Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 3 punten (= 1 schaa
 
 3 Bestuurders van een rijbewijsplichtig motorrijtuig zonder rijbewijs.   OPMERKING: 
 
-1.  Op grond [art. 8, lid 6 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) valt de 1<sup>e</sup> afgifte van een buitenlands rijbewijs eveneens onder het gestelde onder punt 1.  
+1.  Op grond art. 8, lid 6 WVW 1994 valt de 1<sup>e</sup> afgifte van een buitenlands rijbewijs eveneens onder het gestelde onder punt 1.  
 
-2. [Art. 8 lid 4 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geldt uitsluitend indien rijbewijs is vereist dus niet voor het besturen van landbouwtrekkers e.d.    Tabel 3 8 LID 2 WVW 1994 FIETS artikel 8 lid 2 WVW 1994 Fietser en bestuurder gehandicaptenvoertuig zonder motor 
+2. Art. 8 lid 4 WVW 1994 geldt uitsluitend indien rijbewijs is vereist dus niet voor het besturen van landbouwtrekkers e.d.    Tabel 3 8 LID 2 WVW 1994 FIETS artikel 8 lid 2 WVW 1994 Fietser en bestuurder gehandicaptenvoertuig zonder motor 
 
 | Adem/alcohol gehalte  | Bloed/alcohol gehalte  |--- | First Offender  | 1<sup>e</sup> recidive (extra punten zijn verwerkt in rij)  | Meervoudige recidive = dagvaarden  |
 |:---|:---|:---|:---|:---|:---|
 | Vanaf 235µG/l  | Vanaf 0,54‰  | 4 punten  | SB€ 140  | SB € 280  | € 280  |
-|  Weigering [art. 163 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   |
+|  Weigering art. 163 WVW 1994   |
 | Weigering  | --- | 5 punten  | SB € 180  | SB € 320  | € 320  |
 
 ####Rijgedrag
 
-Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 4 punten Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis (geen aparte strafvervolging ex [art. 6 WVW 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) + 4 punten +dagvaarden  *Gebruikte afkortingen:*  WVW 94: [Wegenverkeerswet 1994](../../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) OBM ov: ontzegging van de rijbevoegdheid onvoorwaardelijk SB: strafbeschikking TS: taakstraf dg: dagen GS: gevangenisstraf ASP: alcoholslotprogrammma 
+Sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. + 4 punten Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis (geen aparte strafvervolging ex art. 6 WVW 1994) + 4 punten +dagvaarden  *Gebruikte afkortingen:*  WVW 94: Wegenverkeerswet 1994 OBM ov: ontzegging van de rijbevoegdheid onvoorwaardelijk SB: strafbeschikking TS: taakstraf dg: dagen GS: gevangenisstraf ASP: alcoholslotprogrammma 
 

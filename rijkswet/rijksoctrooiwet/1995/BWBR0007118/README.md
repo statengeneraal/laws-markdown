@@ -218,7 +218,7 @@ De aanwijzing of, in voorkomend geval, de keuze van het Koninkrijk in een intern
 
 ### Artikel  23b  
 
-1.  Voor het bureau kunnen als gemachtigde slechts optreden personen die als octrooigemachtigde zijn ingeschreven in het register, bedoeld in artikel 23a, personen die op grond van [artikel 1 van de Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md) als advocaat zijn ingeschreven bij een rechtbank en personen die op grond van artikel 1 van de Advocatenlandsverordening of artikel 1 van de Advocatenwet BES als advocaat zijn ingeschreven bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
+1.  Voor het bureau kunnen als gemachtigde slechts optreden personen die als octrooigemachtigde zijn ingeschreven in het register, bedoeld in artikel 23a, personen die op grond van artikel 1 van de Advocatenwet als advocaat zijn ingeschreven bij een rechtbank en personen die op grond van artikel 1 van de Advocatenlandsverordening of artikel 1 van de Advocatenwet BES als advocaat zijn ingeschreven bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
 2.  De directeur van het bureau kan van een advocaat inzage vorderen van de geviseerde akte van zijn beëdiging als advocaat voordat hij hem als gemachtigde voor het bureau toelaat.   
 3.  De directeur van het bureau kan in bijzondere gevallen ook anderen dan de personen, bedoeld in het eerste lid, toestaan als gemachtigde voor het bureau op te treden, indien zij van een dergelijk optreden niet hun beroep maken of indien zij in een lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte bevoegd zijn om als gemachtigde in octrooizaken op te treden en zij slechts in incidentele gevallen als gemachtigde voor het bureau optreden.   
 4.  Tenzij bij of krachtens wet anders is bepaald, is een octrooigemachtigde of een persoon die onder zijn verantwoordelijkheid werkzaam is, verplicht tot geheimhouding van al hetgeen waarvan hij uit hoofde van zijn werkzaamheden als zodanig kennis neemt. Deze verplichting blijft bestaan na beëindiging van de desbetreffende werkzaamheden.  
@@ -240,7 +240,7 @@ b. de kennis die wordt getoetst door het examen en de proeve van bekwaamheid, de
 
 1. Er is een Orde van octrooigemachtigden, die gevormd wordt door allen die zijn ingeschreven in het register, bedoeld in artikel 23a.
 2. De orde heeft tot taak de bevordering van een goede beroepsuitoefening door de leden en van hun vakbekwaamheid. Haar taak omvat mede de zorg voor de eer en het aanzien van het beroep van octrooigemachtigde.
-3. De orde is een openbaar lichaam als bedoeld in [artikel 134 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md).
+3. De orde is een openbaar lichaam als bedoeld in artikel 134 van de Grondwet.
 
 ### Artikel  23e  
 
@@ -305,7 +305,7 @@ d. het bijhouden van de kennis en het inzicht van octrooigemachtigden met betrek
 ### Artikel  23j  
 
 1.  De algemene vergadering van de orde stelt voor 1 oktober van ieder jaar een begroting vast voor het volgende kalenderjaar.   
-2.  De algemene vergadering van de orde brengt jaarlijks aan Onze Minister voor 1 mei een financieel verslag uit dat vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  De algemene vergadering van de orde brengt jaarlijks aan Onze Minister voor 1 mei een financieel verslag uit dat vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek.   
 3.  De algemene vergadering van de orde stelt jaarlijks voor 1 mei een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van de werkzaamheden en werkwijze van de orde in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden.   
 4.  De algemene vergadering van de orde stelt de in het tweede en derde lid bedoelde stukken algemeen verkrijgbaar.  
 
@@ -338,7 +338,7 @@ c. die, hoewel onbevoegd om als gemachtigde voor het bureau op te treden, er zij
 
 1.  De raad van toezicht neemt een tegen een octrooigemachtigde gerezen bedenking in behandeling op een met redenen omklede schriftelijke klacht, bij hem ingediend.   
 2.  Indien de voorzitter van het bestuur van de orde buiten het geval van een klacht op de hoogte is van een bedenking tegen een octrooigemachtigde of een advocaat, kan hij deze ter kennis van de raad van toezicht brengen. In dat geval behandelt de raad de bedenking als klacht en beschouwt hij de voorzitter van het bestuur van de orde als klager.   
-3.  Indien het de raad van toezicht bekend is dat een advocaat zich bij de behandeling van octrooiaangelegenheden heeft schuldig gemaakt aan gedragingen als bedoeld in [artikel 46 van de Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md), stelt hij de raad van toezicht, bedoeld in [artikel 22 van die wet](../../../../wet/advocatenwet/BWBR0002093/README.md), van het arrondissement waarin de desbetreffende advocaat zijn praktijk uitoefent, hiervan op de hoogte.   
+3.  Indien het de raad van toezicht bekend is dat een advocaat zich bij de behandeling van octrooiaangelegenheden heeft schuldig gemaakt aan gedragingen als bedoeld in artikel 46 van de Advocatenwet, stelt hij de raad van toezicht, bedoeld in artikel 22 van die wet, van het arrondissement waarin de desbetreffende advocaat zijn praktijk uitoefent, hiervan op de hoogte.   
 4.  De raad van toezicht neemt een klacht niet in behandeling indien het voorval waarop de klacht betrekking heeft, ten minste vijf jaar voor de indiening van de klacht heeft plaatsgevonden.  
 
 ### Artikel  23p  
@@ -361,7 +361,7 @@ c. die, hoewel onbevoegd om als gemachtigde voor het bureau op te treden, er zij
 ### Artikel  23r  
 
 1.  Indien een bedenking een lid of plaatsvervangend lid van de raad van toezicht betreft, schorst de raad dit lid of plaatsvervangend lid in het recht zitting te hebben in de raad gedurende de tijd dat de bedenking behandeld wordt.   
-2.  De [artikelen 512 tot en met 519 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing ten aanzien van de wraking en verschoning van een lid of plaatsvervangend lid van de raad.  
+2.  De artikelen 512 tot en met 519 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing ten aanzien van de wraking en verschoning van een lid of plaatsvervangend lid van de raad.  
 
 ### Artikel  23s  
 
@@ -373,10 +373,10 @@ c. die, hoewel onbevoegd om als gemachtigde voor het bureau op te treden, er zij
 ### Artikel  23t  
 
 1.  De raad van toezicht kan getuigen en deskundigen horen. Zij worden daartoe bij aangetekende brief opgeroepen en zijn verplicht aan de oproeping gevolg te geven.   
-2.  Verschijnt een getuige of deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van de raad hem dagvaarden. Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier van justitie op verzoek van de raad hem andermaal dagvaarden, desverzocht met bevel tot medebrenging. [Artikel 556 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+2.  Verschijnt een getuige of deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van de raad hem dagvaarden. Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier van justitie op verzoek van de raad hem andermaal dagvaarden, desverzocht met bevel tot medebrenging. Artikel 556 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 3.  De voorzitter van de raad kan een getuige onder ede horen.   
-4.  De getuige is verplicht op de gestelde vragen te antwoorden. De deskundige is gehouden zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van de getuigen en deskundigen zijn de [artikelen 217 tot en met 219 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
-5.  De getuigen en deskundigen ontvangen op verzoek op vertoon van hun oproeping of dagvaarding schadeloosstelling overeenkomstig het bij en krachtens [artikel 57 van de Wet tarieven in burgerlijke zaken](../../../../wet/wet/tarieven/in/burgerlijke/zaken/BWBR0001852/README.md) bepaalde.  
+4.  De getuige is verplicht op de gestelde vragen te antwoorden. De deskundige is gehouden zijn taak onpartijdig en naar beste weten te verrichten. Ten aanzien van de getuigen en deskundigen zijn de artikelen 217 tot en met 219 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+5.  De getuigen en deskundigen ontvangen op verzoek op vertoon van hun oproeping of dagvaarding schadeloosstelling overeenkomstig het bij en krachtens artikel 57 van de Wet tarieven in burgerlijke zaken bepaalde.  
 
 ### Artikel  23u  
 
@@ -419,7 +419,7 @@ d. ontzetting uit het recht om als gemachtigde voor het bureau op te treden.
 
 1.  Een belanghebbende kan bij de examencommissie bezwaar maken tegen een beslissing als bedoeld in artikel 23c, vijfde lid, tegen een beslissing hem of haar niet toe te laten tot het examen of de proeve van bekwaamheid en tegen de beoordeling van het examen of de proeve van bekwaamheid.   
 2.  Een belanghebbende kan bij de raad van toezicht bezwaar maken tegen een benoeming van een octrooigemachtigde als begeleider van een stagiaire als bedoeld in artikel 23h, derde lid.   
-3.  De [hoofdstukken 6](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op het bezwaar, bedoeld in het eerste of tweede lid.   
+3.  De hoofdstukken 6 en 7 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op het bezwaar, bedoeld in het eerste of tweede lid.   
 4.  De curator kan de raad van toezicht verzoeken de schorsing, bedoeld in artikel 23m, eerste lid, op te heffen. De artikelen 23s, 23t en 23v, eerste lid, zijn van overeenkomstige toepassing op het verzoek tot opheffing van de schorsing. Indien de raad van toezicht de schorsing opheft, zendt de secretaris van de raad terstond een afschrift van de beslissing van de raad aan de curator, de betrokkene en het bureau.   
 5.  Een belanghebbende kan tegen een beslissing op bezwaar als bedoeld in het eerste of tweede lid of tegen een beslissing op het verzoek als bedoeld in het vierde lid beroep instellen bij het Gerechtshof te 's-Gravenhage.   
 6.  De artikelen 23s, 23t en 23v, eerste lid, en 23w, met uitzondering van het vijfde lid, zijn van overeenkomstige toepassing op het beroep.  
@@ -692,7 +692,8 @@ b. de geoctrooieerde werkwijze in of voor zijn bedrijf toe te passen of het voor
 
 ###Artikel 53b 
 
-Het uitsluitend recht, bedoeld in artikel 53a, strekt zich niet uit tot biologisch materiaal dat wordt gewonnen door propagatie of door vermeerdering van biologisch materiaal dat in Nederland, Curaçao of Sint Maarten rechtmatig in het verkeer is gebracht, dan wel door de octrooihouder of met diens toestemming in één van de lid-staten van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer is gebracht, indien de propagatie of vermeerdering noodzakelijkerwijs voortvloeit uit het gebruik waarvoor het biologisch materiaal in het verkeer is gebracht, mits het afgeleide materiaal vervolgens niet voor andere propagaties of vermeerderingen wordt gebruikt.
+1. Het recht, bedoeld in artikel 53a, strekt zich niet uit tot biologisch materiaal dat wordt gewonnen door propagatie of door vermeerdering van biologisch materiaal dat in Nederland, Curaçao of Sint Maarten rechtmatig in het verkeer is gebracht, dan wel door de octrooihouder of met diens toestemming in één van de lid-staten van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer is gebracht, indien de propagatie of vermeerdering noodzakelijkerwijs voortvloeit uit het gebruik waarvoor het biologisch materiaal in het verkeer is gebracht, mits het afgeleide materiaal vervolgens niet voor andere propagaties of vermeerderingen wordt gebruikt. 
+2.  Het recht, bedoeld in artikel 53a, strekt zich evenmin uit over handelingen met biologisch materiaal die dienen tot het kweken, of ontdekken en ontwikkelen van andere plantenrassen. 
 
 ###Artikel 53c 
 
@@ -732,7 +733,7 @@ c. handelingen, vermeld in artikel 27 van het op 7 december 1944 te Chicago tot 
 3.   Het tweede lid is niet van toepassing, indien de octrooihouder of een ander krachtens een hem verleende licentie in dat deel van het aan Nederland, Curaçao of Sint Maarten grenzende continentaal plat, waarop het Koninkrijk soevereine rechten heeft, in werking heeft een inrichting van nijverheid, waarin te goeder trouw in voldoende mate handelingen als in dat lid bedoeld worden verricht, mits die handelingen zijn gericht op en worden verricht tijdens het onderzoek naar de aanwezigheid van natuurlijke rijkdommen of het winnen daarvan.    
 4.   De octrooihouder is te allen tijde verplicht de licentie te verlenen welke nodig mocht zijn voor de toepassing van een octrooi, verleend op een aanvrage met een gelijke of latere dag van indiening of, indien voor de aanvrage een recht van voorrang bestaat, gelijke of latere voorrangsdatum, voor zover in het octrooi ten behoeve waarvan de licentie is gevraagd, een belangrijke technische vooruitgang van aanzienlijke economische betekenis is belichaamd; de octrooihouder is evenwel tot verlening van een licentie welke nodig mocht zijn voor de toepassing van een Europees octrooi eerst verplicht nadat de voor het instellen van oppositie tegen het Europees octrooi gestelde termijn is verstreken of een ingestelde oppositieprocedure is afgesloten. Een zodanige licentie strekt zich niet verder uit dan noodzakelijk is voor de toepassing van het octrooi van de verkrijger. Deze is verplicht aan de houder van het andere octrooi wederkerig licentie onder zijn octrooi te verlenen.   
 5. De octrooihouder verleent aan een kweker een licentie tegen een redelijke vergoeding, indien de kweker een kwekersrecht op een plantenras niet kan verkrijgen of exploiteren zonder inbreuk te maken op het octrooi van eerdere datum en de licentie noodzakelijk is voor de exploitatie van het te beschermen plantenras, dat een belangrijke technische vooruitgang van aanzienlijk economisch belang vertegenwoordigt ten opzichte van de door het octrooi beschermde uitvinding.
-6. Indien aan een octrooihouder een licentie is verleend op grond van [artikel 42, tweede lid, van de Zaaizaad- en Plantgoedwet](../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md), verleent de octrooihouder aan de houder van het kwekersrecht op diens verzoek onder redelijke voorwaarden een wederkerige licentie om de beschermde uitvinding te gebruiken.
+6. Indien aan een octrooihouder een licentie is verleend op grond van artikel 42, tweede lid, van de Zaaizaad- en Plantgoedwet, verleent de octrooihouder aan de houder van het kwekersrecht op diens verzoek onder redelijke voorwaarden een wederkerige licentie om de beschermde uitvinding te gebruiken.
 
 ### Artikel  57a  
 
@@ -820,21 +821,21 @@ Een octrooi vervalt van rechtswege, wanneer de in artikel 61 genoemde bedragen n
 
 ### Artikel  68  
 
-1.  Het beslag op een octrooi wordt gelegd en het proces-verbaal van inbeslagneming wordt door het bureau in het octrooiregister ingeschreven met overeenkomstige toepassing van de bepalingen van het [Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) betreffende executoriaal en conservatoir beslag op onroerende zaken, met dien verstande dat in het proces-verbaal van inbeslagneming in plaats van de aard en de ligging van de onroerende zaak een aanduiding van het octrooi wordt opgenomen.    
+1.  Het beslag op een octrooi wordt gelegd en het proces-verbaal van inbeslagneming wordt door het bureau in het octrooiregister ingeschreven met overeenkomstige toepassing van de bepalingen van het Nederlandse Wetboek van Burgerlijke Rechtsvordering betreffende executoriaal en conservatoir beslag op onroerende zaken, met dien verstande dat in het proces-verbaal van inbeslagneming in plaats van de aard en de ligging van de onroerende zaak een aanduiding van het octrooi wordt opgenomen.    
 2.   Een vervreemding, bezwaring, onderbewindstelling of verlening van een licentie, totstandgekomen na de inschrijving van het proces-verbaal, kan tegen de beslaglegger niet worden ingeroepen.    
-3.   De voor de inschrijving van het proces-verbaal nog niet betaalde licentievergoedingen vallen mede onder een op het octrooi gelegd beslag, nadat het ingeschreven beslag aan de houder van de licentie is betekend. Deze vergoedingen moeten worden betaald aan de notaris voor wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de licentiehouder is medegedeeld, en behoudens de rechten van derden die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt tot de in artikel 69, tweede lid, bedoelde opbrengst gerekend. De [artikelen 475i](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [476](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [478 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.    
+3.   De voor de inschrijving van het proces-verbaal nog niet betaalde licentievergoedingen vallen mede onder een op het octrooi gelegd beslag, nadat het ingeschreven beslag aan de houder van de licentie is betekend. Deze vergoedingen moeten worden betaald aan de notaris voor wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de licentiehouder is medegedeeld, en behoudens de rechten van derden die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt tot de in artikel 69, tweede lid, bedoelde opbrengst gerekend. De artikelen 475i, 476 en 478 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.    
 4.   De inschrijving van het proces-verbaal van inbeslagneming kan worden doorgehaald:  
 
 a. krachtens een schriftelijke, ter inschrijving aangeboden verklaring van de deurwaarder dat hij in opdracht van de beslaglegger het beslag opheft of dat het beslag is vervallen;   
 
 b. krachtens een ter inschrijving aangeboden rechterlijke uitspraak die tot opheffing van het beslag strekt of het verval van het beslag vaststelt of meebrengt.      
-5.   De [artikelen 504a](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [507a](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [538 tot en met 540](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [726, tweede lid](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [727 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn in geval van beslag op een octrooi van overeenkomstige toepassing.   
+5.   De artikelen 504a, 507a, 538 tot en met 540, 726, tweede lid, en 727 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering zijn in geval van beslag op een octrooi van overeenkomstige toepassing.   
 6. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld over de aanvraag tot inschrijving van een beslag.
 
 ### Artikel  69  
 
-1.  De verkoop van een octrooi door een pandhouder of een beslaglegger tot verhaal van een vordering geschiedt in het openbaar ten overstaan van een bevoegde notaris. De [artikelen 508](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [509](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [513, eerste lid](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [514, tweede en derde lid](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [515 tot en met 519](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [521 tot en met 529 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing, met dien verstande dat hetgeen daar ten aanzien van hypotheken en hypotheekhouders is voorgeschreven geldt voor de op het octrooi rustende pandrechten en de pandhouders.    
-2.   De verdeling van de opbrengst geschiedt met overeenkomstige toepassing van de [artikelen 551 tot en met 552 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+1.  De verkoop van een octrooi door een pandhouder of een beslaglegger tot verhaal van een vordering geschiedt in het openbaar ten overstaan van een bevoegde notaris. De artikelen 508, 509, 513, eerste lid, 514, tweede en derde lid, 515 tot en met 519 en 521 tot en met 529 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing, met dien verstande dat hetgeen daar ten aanzien van hypotheken en hypotheekhouders is voorgeschreven geldt voor de op het octrooi rustende pandrechten en de pandhouders.    
+2.   De verdeling van de opbrengst geschiedt met overeenkomstige toepassing van de artikelen 551 tot en met 552 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering.   
 
 ### §  4  
 
@@ -848,7 +849,7 @@ b. krachtens een ter inschrijving aangeboden rechterlijke uitspraak die tot ophe
 4. Schadevergoeding kan slechts worden gevorderd van hem, die wist of redelijkerwijs behoorde te weten dat zijn handelingen inbreuk maken.  
 5.   Naast schadevergoeding kan worden gevorderd, dat de gedaagde veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter evenwel van oordeel is, dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, zal hij de gedaagde tot schadevergoeding kunnen veroordelen. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.   
 6.   De octrooihouder kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens licentienemers of pandhouders instellen, onverminderd de bevoegdheid van deze laatsten in een al of niet namens hen of mede namens hen door de octrooihouder aldus ingestelde vordering tussen te komen om rechtstreeks de door hen geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde af te dragen winst te doen toewijzen. Licentienemers en pandhouders kunnen slechts een zelfstandige vordering als bedoeld in het derde en vierde lid instellen, als zij de bevoegdheid daartoe van de octrooihouder hebben bedongen.    
-7.   De octrooihouder heeft de bevoegdheid roerende zaken waarmee een inbreuk op zijn recht wordt gemaakt als zijn eigendom op te vorderen dan wel de bevoegdheid onttrekking aan het verkeer, vernietiging of onbruikbaarmaking te vorderen van die zaken, en onttrekking aan het verkeer te vorderen van materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) betreffende beslag en executie tot afgifte van roerende zaken zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor. Een vordering als bedoeld in de eerste volzin wordt op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten. Bij de beoordeling van de vordering dient een afweging te worden gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.    
+7.   De octrooihouder heeft de bevoegdheid roerende zaken waarmee een inbreuk op zijn recht wordt gemaakt als zijn eigendom op te vorderen dan wel de bevoegdheid onttrekking aan het verkeer, vernietiging of onbruikbaarmaking te vorderen van die zaken, en onttrekking aan het verkeer te vorderen van materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken. De bepalingen van het Wetboek van Burgerlijke Rechtsvordering betreffende beslag en executie tot afgifte van roerende zaken zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor. Een vordering als bedoeld in de eerste volzin wordt op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten. Bij de beoordeling van de vordering dient een afweging te worden gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.    
 8.   Indien een rechtsvordering wordt ingesteld tot handhaving van een octrooi voor een werkwijze tot vervaardiging van een nieuw voortbrengsel, dan wordt vermoed, dat het betrokken voortbrengsel volgens de geoctrooieerde werkwijze is vervaardigd, tenzij door de gedaagde het tegendeel aannemelijk wordt gemaakt. Bij de beoordeling van de vraag of een voortbrengsel nieuw is, blijft de inhoud van in artikel 4, derde en vierde lid, bedoelde octrooiaanvragen buiten beschouwing.    
 9. De octrooihouder heeft de bevoegdheid een bevel te vorderen tot staking van diensten van tussenpersonen wier diensten door derden worden gebruikt om inbreuk op zijn recht te maken. 
 10. De octrooihouder heeft de bevoegdheid te vorderen dat degene die inbreuk op zijn recht heeft gemaakt wordt bevolen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de zaken waarmee die inbreuk is gepleegd, aan hem mee te delen en alle daarop betrekking hebbende gegevens te verstrekken. 
@@ -1002,7 +1003,7 @@ Het in artikel 84 bedoelde advies bestaat uit een gemotiveerde beoordeling van d
 ### Artikel  87  
 
 1.  Het bureau is verplicht de rechter alle inlichtingen en technische adviezen te verstrekken, die deze tot beslissing van aan zijn oordeel onderworpen rechtsvorderingen inzake octrooien mocht verlangen.    
-2.   De waarde van adviezen als bedoeld in het eerste lid wordt gelijkgesteld met die van deskundigen als bedoeld in [artikel 194 en volgende van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+2.   De waarde van adviezen als bedoeld in het eerste lid wordt gelijkgesteld met die van deskundigen als bedoeld in artikel 194 en volgende van het Wetboek van Burgerlijke Rechtsvordering.   
 
 ### Artikel  88  
 
@@ -1074,11 +1075,11 @@ In Curaçao of Sint Maarten kan een bureau voor de industriële eigendom worden 
 
 ### Artikel  101  
 
-De [Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.  
+De Rijksoctrooiwet vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  102  
 
-1.  Ten aanzien van octrooiaanvragen die zijn ingediend voor 1 april 1995 en van deze aanvragen afgesplitste octrooiaanvragen zijn de [Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) en de artikelen 102a tot en met 102e van toepassing.   
+1.  Ten aanzien van octrooiaanvragen die zijn ingediend voor 1 april 1995 en van deze aanvragen afgesplitste octrooiaanvragen zijn de Rijksoctrooiwet en de artikelen 102a tot en met 102e van toepassing.   
 2.   Ten aanzien van:  
 
 a. octrooiaanvragen, ingediend na de inwerkingtreding van deze rijkswet, met uitzondering van de in het eerste lid bedoelde afgesplitste octrooiaanvragen,   
@@ -1091,17 +1092,17 @@ c. licenties onder de onder *b* bedoelde octrooien is uitsluitend het bij en kra
 
 ### Artikel  102a  
 
-1.  Op octrooiaanvragen ten aanzien waarvan het resultaat van het onderzoek naar de stand van de techniek aan de aanvrager is meegedeeld, maar de aanvraagafdeling van de Octrooiraad op de datum van inwerkingtreding van dit artikel nog geen besluit heeft genomen als bedoeld in [artikel 24 van de Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md), verleent de Octrooiraad in afwijking van [Hoofdstuk II, Afdeling II, van de die Rijkswet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) octrooi door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm zoals deze door de aanvrager is ingediend of door hem nadien is gewijzigd.   
+1.  Op octrooiaanvragen ten aanzien waarvan het resultaat van het onderzoek naar de stand van de techniek aan de aanvrager is meegedeeld, maar de aanvraagafdeling van de Octrooiraad op de datum van inwerkingtreding van dit artikel nog geen besluit heeft genomen als bedoeld in artikel 24 van de Rijksoctrooiwet, verleent de Octrooiraad in afwijking van Hoofdstuk II, Afdeling II, van de die Rijkswet octrooi door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm zoals deze door de aanvrager is ingediend of door hem nadien is gewijzigd.   
 2.  Indien op de datum van inwerkingtreding van dit artikel het resultaat van het onderzoek naar de stand van de techniek nog niet aan de aanvrager is meegedeeld, wordt het octrooi verleend met ingang van twee maanden na de datum waarop het resultaat van het onderzoek van de stand van de techniek is meegedeeld aan de aanvrager, welke termijn op verzoek van de aanvrager door de Octrooiraad eenmaal met twee maanden kan worden verlengd.  
 
 ### Artikel  102b  
 
-1.  In afwijking van [Hoofdstuk II, Afdeling II, van de die Rijkswet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) verleent de Octrooiraad octrooi op octrooiaanvragen ten aanzien waarvan de aanvraagafdeling of de afdeling van beroep van de Octrooiraad na de inwerkingtreding van dit artikel op grond van [artikel 24](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) of [24A van die Rijkswet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) besluit tot gehele of gedeeltelijke openbaarmaking, door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm zoals deze door de aanvraagafdeling of de afdeling van beroep geschikt is bevonden voor verlening.   
+1.  In afwijking van Hoofdstuk II, Afdeling II, van de die Rijkswet verleent de Octrooiraad octrooi op octrooiaanvragen ten aanzien waarvan de aanvraagafdeling of de afdeling van beroep van de Octrooiraad na de inwerkingtreding van dit artikel op grond van artikel 24 of 24A van die Rijkswet besluit tot gehele of gedeeltelijke openbaarmaking, door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm zoals deze door de aanvraagafdeling of de afdeling van beroep geschikt is bevonden voor verlening.   
 2.  Het octrooi begint te werken met ingang van de datum van het besluit tot gehele of gedeeltelijke openbaarmaking.  
 
 ### Artikel  102c  
 
-1.  Vanaf de datum van inwerkingtreding van artikel 102a is artikel 102a van overeenkomstige toepassing op octrooiaanvragen waarop de artikelen [29A tot en met 29F van de Rijksoctrooiwet ](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md)van toepassing zijn, met dien verstande dat: 
+1.  Vanaf de datum van inwerkingtreding van artikel 102a is artikel 102a van overeenkomstige toepassing op octrooiaanvragen waarop de artikelen 29A tot en met 29F van de Rijksoctrooiwet van toepassing zijn, met dien verstande dat: 
 
 a. de Octrooiraad besluit tot verlening van het octrooi door het plaatsen van een gedateerde aantekening op de aanvrage, doch dat de inschrijving van de octrooiaanvrage in het octrooiregister en de verlening van het octrooi worden opgeschort, en  
 
@@ -1110,12 +1111,12 @@ b. de artikelen 41 tot en met 45 op die octrooiaanvragen van overeenkomstige toe
 
 ### Artikel  102d  
 
-1.  Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de [Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) of die worden verleend op grond van de artikelen 102a, 102b of 102c, in Nederland Curaçao en Sint Maarten dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van artikel 36 en zijn daarop de bepalingen van deze rijkswet van toepassing, met dien verstande dat: 
+1.  Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de Rijksoctrooiwet of die worden verleend op grond van de artikelen 102a, 102b of 102c, in Nederland Curaçao en Sint Maarten dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van artikel 36 en zijn daarop de bepalingen van deze rijkswet van toepassing, met dien verstande dat: 
 
 a. de toepassing van artikel 76 beperkt is tot octrooien die zijn verleend op grond van artikel 102a of 102c, eerste lid, en  
 
 b. de toepassing van de artikelen 84 tot en met 86 beperkt is tot octrooien die zijn verleend op grond van de artikelen 102a, 102b of 102c.     
-2.  Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de [Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) of die worden verleend op grond van de artikelen 102a, 102b of 102c, in Aruba dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van artikel 34 van de Landsverordening van Aruba van 5 mei 1997 houdende regels met betrekking tot octrooien (Octrooiverordening).  
+2.  Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de Rijksoctrooiwet of die worden verleend op grond van de artikelen 102a, 102b of 102c, in Aruba dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van artikel 34 van de Landsverordening van Aruba van 5 mei 1997 houdende regels met betrekking tot octrooien (Octrooiverordening).  
 
 ### Artikel  102e  
 
@@ -1151,11 +1152,11 @@ Bevat wijzigingen in andere regelgeving.
 ### Artikel  108  
 
 1.  De artikelen 57 tot en met 58a zijn van toepassing op licenties onder octrooien die zijn verleend op grond van de Rijksoctrooiwet of die worden verleend op grond van de artikelen 102a, 102b of 102c.   
-2.   Indien voor de inwerkingtreding van deze rijkswet een verzoek tot verlening van een licentie overeenkomstig [artikel 34, vijfde lid, van de Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) is ingediend, vindt het eerste lid geen toepassing.   
+2.   Indien voor de inwerkingtreding van deze rijkswet een verzoek tot verlening van een licentie overeenkomstig artikel 34, vijfde lid, van de Rijksoctrooiwet is ingediend, vindt het eerste lid geen toepassing.   
 
 ### Artikel  109  
 
-Tot de stand van de techniek, bedoeld in de artikelen 4 en 75, tweede lid, behoort tevens de inhoud van voor de inwerkingtreding van deze rijkswet ingediende octrooiaanvragen, die op of na de in artikel 4, tweede lid, van deze wet onderscheidenlijk artikel 80 van het Europees Octrooiverdrag bedoelde dag overeenkomstig [artikel 22C van de Rijksoctrooiwet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) ter inzage worden gelegd of, indien terinzagelegging nog niet had plaatsgevonden, overeenkomstig [artikel 25 van die rijkswet](../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) openbaar worden gemaakt.  
+Tot de stand van de techniek, bedoeld in de artikelen 4 en 75, tweede lid, behoort tevens de inhoud van voor de inwerkingtreding van deze rijkswet ingediende octrooiaanvragen, die op of na de in artikel 4, tweede lid, van deze wet onderscheidenlijk artikel 80 van het Europees Octrooiverdrag bedoelde dag overeenkomstig artikel 22C van de Rijksoctrooiwet ter inzage worden gelegd of, indien terinzagelegging nog niet had plaatsgevonden, overeenkomstig artikel 25 van die rijkswet openbaar worden gemaakt.  
 
 ### Artikel  110  
 

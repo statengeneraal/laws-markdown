@@ -59,7 +59,7 @@ c. niet is toegelaten tot een instelling voor hoger onderwijs.
 ####Gegevens berekening nieuwe voortijdig schoolverlaters
 
 1.  Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in artikel 2.5.5a van de wet, de artikelen 4, eerste lid, onderdelen e en f, en 10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron en artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
-2.  Wat betreft de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters is artikel 7 van de Regeling prestatiebox mbo van toepassing op deze regeling.  
+2.  Artikel 7 van de Regeling prestatiebox mbo is van overeenkomstige toepassing op de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters.  
 
 ### Artikel  4  
 

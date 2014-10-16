@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 11 juli 2012, nr. IENM/BSK-2012/55325, houdende de vaststelling van digitale standaarden voor de ruimtelijke ordening (Regeling standaarden ruimtelijke ordening 2012)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 6.14, tweede lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) en [paragraaf 1.2 van het Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md);
+Gelet op artikel 6.14, tweede lid, van het Besluit omgevingsrecht en paragraaf 1.2 van het Besluit ruimtelijke ordening;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:* [Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md);  
+*besluit:* Besluit ruimtelijke ordening;  
 
 *bijlage:* bij deze regeling behorende bijlage;  
 
@@ -30,16 +30,16 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  De vormgeving, inrichting en elektronische beschikbaarstelling van een visie, plan, besluit of verordening als bedoeld in [artikel 1.2.1, eerste lid, van het besluit](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md) en de elektronische beschikbaarstelling van de informatie, bedoeld in artikel 1.2.1, derde lid, een ontwerpbesluit als bedoeld in [artikel 1.2.1a, van het besluit](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md) en een mededeling als bedoeld in [artikel 6.14, eerste lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), vinden plaats overeenkomstig de standaarden IMRO2012, IMROPT2012, SVBP2012 en STRI2012, met dien verstande dat: 
+1.  De vormgeving, inrichting en elektronische beschikbaarstelling van een visie, plan, besluit of verordening als bedoeld in artikel 1.2.1, eerste lid, van het besluit en de elektronische beschikbaarstelling van de informatie, bedoeld in artikel 1.2.1, derde lid, een ontwerpbesluit als bedoeld in artikel 1.2.1a, van het besluit en een mededeling als bedoeld in artikel 6.14, eerste lid, van het Besluit omgevingsrecht, vinden plaats overeenkomstig de standaarden IMRO2012, IMROPT2012, SVBP2012 en STRI2012, met dien verstande dat: 
 
 a. de standaard SVBP2012 alleen van toepassing is op bestemmingsplannen, rijksbestemmingsplannen en wijzigings- of uitwerkingsplannen;  
 
 b. de standaard IMROPT2012 slechts wordt gebruikt voor zover een visie, plan, besluit of verordening objectgerichte planteksten bevat.     
 2.  In afwijking van het eerste lid: 
 
-a. kunnen de vormgeving, inrichting en elektronische beschikbaarstelling plaatsvinden overeenkomstig de standaarden IMRO2008, SVBP2008 en STRI2008, voor zover het betreft een visie, plan, besluit of verordening als bedoeld in [artikel 1.2.1, eerste lid, van het besluit](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md) die respectievelijk dat is of wordt vastgesteld vóór 1 juli 2013, dan wel, indien [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, voor die datum daarvan een ontwerpbesluit ter inzage is gelegd;  
+a. kunnen de vormgeving, inrichting en elektronische beschikbaarstelling plaatsvinden overeenkomstig de standaarden IMRO2008, SVBP2008 en STRI2008, voor zover het betreft een visie, plan, besluit of verordening als bedoeld in artikel 1.2.1, eerste lid, van het besluit die respectievelijk dat is of wordt vastgesteld vóór 1 juli 2013, dan wel, indien afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, voor die datum daarvan een ontwerpbesluit ter inzage is gelegd;  
 
-b. kan de elektronische beschikbaarstelling van een mededeling als bedoeld in [artikel 6.14, eerste lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) tot 1 juli 2013 plaatsvinden overeenkomstig de standaarden IMRO2008 en STRI2008.     
+b. kan de elektronische beschikbaarstelling van een mededeling als bedoeld in artikel 6.14, eerste lid, van het Besluit omgevingsrecht tot 1 juli 2013 plaatsvinden overeenkomstig de standaarden IMRO2008 en STRI2008.     
 3.  Het beheer van de in het eerste en tweede lid bedoelde standaarden wordt opgedragen aan een of meer door Onze Minister aan te wijzen instanties.  
 
 ### Artikel  3  
@@ -48,7 +48,7 @@ Voor zover in de bijlagen bij deze regeling ten aanzien van producten technische
 
 ### Artikel  4  
 
-De [Regeling standaarden ruimtelijke ordening 2008](../../../../../../../ministeriele-regeling/regeling/standaarden/ruimtelijke/ordening/2008/BWBR0024656/README.md) wordt ingetrokken. 
+De Regeling standaarden ruimtelijke ordening 2008 wordt ingetrokken. 
 
 ### Artikel  5  
 

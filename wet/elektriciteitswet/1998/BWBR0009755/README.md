@@ -22,13 +22,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. Onze Minister: Onze Minister van Economische Zaken;   
 
-b.  aansluiting: één of meer verbindingen tussen een net en een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), waaronder begrepen één of meer verbindingen tussen een net dat wordt beheerd door een netbeheerder en een net dat beheerd wordt door een ander dan die netbeheerder;  
+b.  aansluiting: één of meer verbindingen tussen een net en een onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken, waaronder begrepen één of meer verbindingen tussen een net dat wordt beheerd door een netbeheerder en een net dat beheerd wordt door een ander dan die netbeheerder;  
 
 c. afnemer: een ieder die beschikt over een aansluiting op een net;   
 
 d.  *verordening 714/2009:* verordening nr. 714/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende de voorwaarden voor toegang tot het net voor grensoverschrijdende handel in elektriciteit en tot intrekking van Verordening (EG) nr. 1228/2003 (Pb EU 2009, L 211);  
 
-e. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+e. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 f. leverancier: een organisatorische eenheid die zich bezighoudt met het leveren van elektriciteit;   
 
@@ -98,11 +98,11 @@ al.  verordening 713/2009: verordening nr. 713/2009 van het Europees Parlement e
 
 am.  Agentschap: het agentschap, bedoeld in artikel 1, eerste lid, van verordening 713/2009;  
 
-an.  producent van gas: een producent als bedoeld in [artikel 1, onderdeel ag, van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md);  
+an.  producent van gas: een producent als bedoeld in artikel 1, onderdeel ag, van de Gaswet;  
 
-ao.  leverancier van gas: een leverancier als bedoeld in [artikel 1, onderdeel ah, van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md);  
+ao.  leverancier van gas: een leverancier als bedoeld in artikel 1, onderdeel ah, van de Gaswet;  
 
-ap.  handelaar in gas: een handelaar als bedoeld in [artikel 1, onderdeel ai, van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md);  
+ap.  handelaar in gas: een handelaar als bedoeld in artikel 1, onderdeel ai, van de Gaswet;  
 
 aq.  gesloten distributiesysteem: een net, niet zijnde het landelijk hoogspanningsnet, 
 
@@ -126,7 +126,11 @@ au.  verordening 1227/2011: verordening (EU) nr. 1227/2011 van het Europees Parl
 
 av.  marktdeelnemer: een marktdeelnemer als bedoeld in artikel 2, zevende lid, van verordening 1227/2011;  
 
-aw.  Autoriteit Financiële Markten: de Autoriteit Financiële Markten, genoemd in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+aw.  Autoriteit Financiële Markten: de Autoriteit Financiële Markten, genoemd in artikel 1:1 van de Wet op het financieel toezicht; 
+
+ax.  bindende gedragslijn: een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
+
+ay.  zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften.    
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt als afnemer, niet zijnde een afnemer als bedoeld in artikel 95a, eerste lid, beschouwd een organisatorische eenheid die zich in hoofdzaak bezig houdt met het openbaar vervoer per metro, tram of trolley, met mijnbouwkundige activiteiten, met het beheer en de exploitatie van telecommunicatie- en kabelnetwerken, met het beheer van de openbare verlichting of van verkeersregelinstallaties, dan wel met riolering, bemaling, waterzuivering of transport en distributie van water, mits: 
 
 a. deze eenheid daarbij uitsluitend ingevolge de technische aard van de bedrijfsuitoefening beschikt over verscheidene aansluitingen,  
@@ -182,7 +186,7 @@ c.de geplande of in aanbouw zijnde extra productie- en netwerkcapaciteit,
 d.de kwaliteit en de staat van onderhoud van de netten, en
 
 e.de maatregelen in geval van piekbelasting of het in gebreke blijven van een of meerdere leveranciers.   
-2.  Onze Minister publiceert jaarlijks uiterlijk op 31 juli op geschikte wijze een verslag van zijn bevindingen die het verzamelen, analyseren en bewerken van de inlichtingen en gegevens over de onderwerpen, genoemd in het eerste lid, heeft opgeleverd, alsmede van de getroffen of voorgenomen maatregelen met betrekking tot die onderwerpen. Hij zendt het verslag onverwijld naar de Commissie van de Europese Gemeenschappen en doet mededeling ervan in de Staatscourant, onder vermelding van de wijze waarop het verslag kan worden geraadpleegd.   
+2.  Onze Minister publiceert jaarlijks uiterlijk op 31 juli op geschikte wijze een verslag van zijn bevindingen die het verzamelen, analyseren en bewerken van de inlichtingen en gegevens over de onderwerpen, genoemd in het eerste lid, heeft opgeleverd, alsmede van de getroffen of voorgenomen maatregelen met betrekking tot die onderwerpen. Hij zendt het verslag onverwijld naar de Europese Commissie en doet mededeling ervan in de Staatscourant, onder vermelding van de wijze waarop het verslag kan worden geraadpleegd.   
 3.  Ter uitvoering van de taak, bedoeld in het eerste lid, kunnen bij ministeriële regeling nadere regels worden gesteld omtrent: 
 
 a.de gegevens en inlichtingen waarvan Onze Minister kan verlangen dat zij hem worden verstrekt,
@@ -215,7 +219,7 @@ d.regionale, nationale en Europese doelstellingen voor duurzame ontwikkeling met
 
 ### Artikel  5  
 
-1.  De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet, van verordening 714/2009, van verordening 713/2009 en van verordening 1227/2011, alsmede met het toezicht op de naleving van deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011.   
+1.  De Autoriteit Consument en Markt is belast met de aan haar opgedragen taken ter uitvoering van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011, alsmede met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011.   
 2.  De Autoriteit Consument en Markt is de regulerende instantie, bedoeld in artikel 35, eerste lid, van de richtlijn en artikel 2, tweede lid, onderdeel a, van verordening 714/2009.   
 3.  De Autoriteit Consument en Markt houdt bij de uitoefening van de haar op grond van deze wet toegekende taken en bevoegdheden rekening met artikel 36 van de richtlijn.   
 4.  De Autoriteit Consument en Markt werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 714/2009 te integreren en samenwerking tussen de netbeheerder van het landelijk hoogspanningnet en buitenlandse instellingen die op grond van nationale wettelijke regels zijn belast met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijn in deze gebieden aan te moedigen, samen met: 
@@ -228,10 +232,7 @@ b. het Agentschap.
 
 ### Artikel  5a  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011 zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
-2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  De Autoriteit Consument en Markt kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011. Van de beschikking wordt mededeling gedaan in de Staatscourant.   
-4.  De werkzaamheden in verband met de uitvoering van artikel 51 worden verricht door personen die niet betrokken zijn bij werkzaamheden op grond van hoofdstuk 3, paragrafen 4 tot en met 6.  
+De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verband met de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011. 
 
 ### Artikel  5b  
 
@@ -251,13 +252,13 @@ f. de technische samenwerking tussen de netbeheerder van het landelijk hoogspann
 
 ### Artikel  5c  
 
-1.  Onverminderd de verplichting tot het opstellen van een jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), brengt de Autoriteit Consument en Markt jaarlijks verslag uit over de uitvoering van haar taken, bedoeld in artikel 5, eerste lid. Het verslag bevat een overzicht van de behaalde resultaten en genomen maatregelen.   
+1.  Onverminderd de verplichting tot het opstellen van een jaarverslag, bedoeld in artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen, brengt de Autoriteit Consument en Markt jaarlijks verslag uit over de uitvoering van haar taken, bedoeld in artikel 5, eerste lid. Het verslag bevat een overzicht van de behaalde resultaten en genomen maatregelen.   
 2.  De Autoriteit Consument en Markt zendt het verslag toe aan Onze Minister, het Agentschap en de Europese Commissie.  
 
 ### Artikel  7  
 
-1.  De Autoriteit Consument en Markt kan van een producent, een leverancier, een handelaar, een netbeheerder, een elektriciteits- of gasbeurs, een afnemer of een marktdeelnemer de gegevens en inlichtingen verlangen die zij nodig heeft voor uitvoering van de haar in deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011 opgedragen taken.    
-2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.   
+1.  In afwijking van artikel 7, eerste lid, van de Instellingswet Autoriteit Consument en Markt en onverminderd artikel 7, derde lid, van die wet is de Autoriteit Consument en Markt bevoegd gegevens of inlichtingen te verstrekken aan het Agentschap, voor zover die gegevens of inlichtingen van betekenis kunnen zijn voor de uitoefening van de taak van het Agentschap.   
+2.  Artikel 7, vierde lid, van de Instellingswet Autoriteit Consument en Markt is van overeenkomstige toepassing.  
 
 ### Artikel  7a  
 
@@ -296,43 +297,43 @@ e. de wijze waarop wordt vastgesteld of een afwijking aan haar doel beantwoordt,
 
 ### Artikel  9b  
 
-1.  De procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op de aanleg en uitbreiding van: 
+1.  De procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening, is van toepassing op de aanleg en uitbreiding van: 
 
 a. een productie-installatie, met inbegrip van de aansluiting van die installatie op een net, met een capaciteit van ten minste 100 MW, indien het betreft een installatie voor de opwekking van duurzame elektriciteit met behulp van windenergie;  
 
 b. een productie-installatie, met inbegrip van de aansluiting van die installatie op een net, met een capaciteit van ten minste 50 MW, indien het betreft een installatie voor de opwekking van duurzame elektriciteit anders dan met behulp van windenergie;  
 
 c. een productie-installatie, met inbegrip van de aansluiting van die installatie op een net, met een capaciteit van ten minste 500 MW, indien het betreft een installatie voor de opwekking van andere dan duurzame elektriciteit.     
-2.  De procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is eveneens van toepassing op de uitbreiding van een productie-installatie voor de opwekking van andere dan duurzame elektriciteit, met inbegrip van de aansluiting van die installatie op een net, indien door die uitbreiding de capaciteit van die productie-installatie wordt vergroot tot ten minste 500 MW.  
+2.  De procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening is eveneens van toepassing op de uitbreiding van een productie-installatie voor de opwekking van andere dan duurzame elektriciteit, met inbegrip van de aansluiting van die installatie op een net, indien door die uitbreiding de capaciteit van die productie-installatie wordt vergroot tot ten minste 500 MW.  
 3.  De producent meldt een voornemen tot aanleg of uitbreiding van een productie-installatie als bedoeld in het eerste of tweede lid, zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.   
 4.  Indien, in aanmerking genomen de omvang, aard en ligging van een installatie als bedoeld in het eerste of tweede lid, alsmede het aantal voor de aanleg of uitbreiding van die installatie benodigde besluiten, redelijkerwijs niet valt te verwachten dat toepassing van de procedure, bedoeld in het eerste of tweede lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat: 
 
-a. geen van de procedures, bedoeld in [artikel 3.35, eerste lid](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md),  
+a. geen van de procedures, bedoeld in artikel 3.35, eerste lid,  
 
-b. uitsluitend de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md),  
+b. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a,  
 
-c. uitsluitend de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel b](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of  
+c. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, of  
 
-d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de aanleg of de uitbreiding van die installatie. Onze Minister hoort de producent en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.    
+d. de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a, gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de aanleg of de uitbreiding van die installatie. Onze Minister hoort de producent en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.    
 
 ### Artikel  9c  
 
-1.  Onze Minister is de aangewezen minister, bedoeld in [artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
-3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen productie-installatie als bedoeld in artikel 9b, eerste lid.  
+1.  Onze Minister is de aangewezen minister, bedoeld in artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening.   
+2.  Indien toepassing wordt gegeven aan artikel 3.28, vierde lid, van de Wet ruimtelijke ordening treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
+3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening, één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen productie-installatie als bedoeld in artikel 9b, eerste lid.  
 
 ### Artikel  9d  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9b, eerste lid, in ieder geval besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn.   
-2.  Onze Minister kan ten behoeve van de aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9b, eerste lid, tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-3.  Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in artikel 9b, eerste lid, zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt aangemerkt.  
+1.  Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9b, eerste lid, in ieder geval besluiten als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening zijn.   
+2.  Onze Minister kan ten behoeve van de aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9b, eerste lid, tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening.   
+3.  Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in artikel 9b, eerste lid, zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening wordt aangemerkt.  
 
 ### Artikel  9e  
 
-1.  Provinciale staten zijn bevoegd voor de aanleg of uitbreiding van een productie-installatie voor opwekking van duurzame elektriciteit met behulp van windenergie met een capaciteit van ten minste 5 maar niet meer dan 100 MW, met inbegrip van de aansluiting van die installatie op een net, gronden aan te wijzen en daarvoor een inpassingsplan als bedoeld in [artikel 3.26, eerste lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vast te stellen. De gemeenteraad is voor de duur van tien jaren na de vaststelling van het inpassingsplan niet bevoegd voor die gronden een bestemmingsplan vast te stellen.   
+1.  Provinciale staten zijn bevoegd voor de aanleg of uitbreiding van een productie-installatie voor opwekking van duurzame elektriciteit met behulp van windenergie met een capaciteit van ten minste 5 maar niet meer dan 100 MW, met inbegrip van de aansluiting van die installatie op een net, gronden aan te wijzen en daarvoor een inpassingsplan als bedoeld in artikel 3.26, eerste lid, van de Wet ruimtelijke ordening vast te stellen. De gemeenteraad is voor de duur van tien jaren na de vaststelling van het inpassingsplan niet bevoegd voor die gronden een bestemmingsplan vast te stellen.   
 2.  Provinciale staten geven in ieder geval toepassing aan de bevoegdheid op grond van het eerste lid indien een producent een voornemen tot de aanleg of uitbreiding van een productie-installatie als bedoeld in het eerste lid schriftelijk bij hen heeft gemeld en de betrokken gemeente een aanvraag van die producent tot vaststelling dan wel wijziging van een bestemmingplan ten behoeve van de realisatie van dat voornemen heeft afgewezen. Voor het doen van de melding en de daarbij te verstrekken gegevens kunnen provinciale staten een formulier vaststellen.   
-3.  [Artikel 3.26, tweede en derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is van overeenkomstige toepassing. Artikel 3.26, vijfde lid, van de Wet ruimtelijke ordening is niet van toepassing.   
-4.  Indien provinciale staten toepassing geven aan de in het eerste lid bedoelde bevoegdheid, oefenen gedeputeerde staten de bevoegdheden en voeren de verplichtingen, bedoeld in [artikel 3.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) uit en beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, b, c of g, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Gedeputeerde staten zenden terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
+3.  Artikel 3.26, tweede en derde lid, van de Wet ruimtelijke ordening is van overeenkomstige toepassing. Artikel 3.26, vijfde lid, van de Wet ruimtelijke ordening is niet van toepassing.   
+4.  Indien provinciale staten toepassing geven aan de in het eerste lid bedoelde bevoegdheid, oefenen gedeputeerde staten de bevoegdheden en voeren de verplichtingen, bedoeld in artikel 3.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht uit en beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, b, c of g, van die wet. Gedeputeerde staten zenden terstond een afschrift aan burgemeester en wethouders van beschikkingen die zijn gegeven met toepassing van de bevoegdheden, bedoeld in de eerste volzin.   
 5.  Het tweede lid is niet van toepassing indien is voldaan aan de krachtens het zesde lid voor die provincie gestelde minimum realisatienorm.   
 6.  Bij algemene maatregel van bestuur op voordracht van Onze Minister wordt per provincie een minimum realisatienorm vastgesteld. De voordracht voor de algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
@@ -340,9 +341,9 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 1.  Gedeputeerde staten coördineren de voorbereiding en bekendmaking van de besluiten, aangewezen op grond van artikel 9d, eerste lid, ten behoeve van de aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9e, eerste lid.   
 2.  Gedeputeerde staten nemen de in het eerste lid bedoelde besluiten met uitsluiting van het in eerste aanleg bevoegde bestuursorgaan, tenzij dit een bestuursorgaan van het Rijk is.   
-3.  Gedeputeerde staten geven ten aanzien van de ontwerpen van de besluiten, bedoeld in het eerste lid, gezamenlijk toepassing aan [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en voegen de kennisgevingen, bedoeld in [artikel 3:12 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), samen in een kennisgeving die door hen wordt gedaan.   
+3.  Gedeputeerde staten geven ten aanzien van de ontwerpen van de besluiten, bedoeld in het eerste lid, gezamenlijk toepassing aan artikel 3:11, eerste lid, van de Algemene wet bestuursrecht en voegen de kennisgevingen, bedoeld in artikel 3:12 van die wet, samen in een kennisgeving die door hen wordt gedaan.   
 4.  Voor zover de aanleg of de uitbreiding, bedoeld in het eerste lid, onevenredig wordt belemmerd door bepalingen die – al dan niet krachtens de wet – bij of krachtens een regeling van een gemeente of waterschap zijn vastgesteld, kunnen die bepalingen bij het nemen of uitvoeren van de besluiten, bedoeld in het eerste lid, om dringende redenen buiten toepassing worden gelaten.   
-5.  [Artikel 3.33, tweede en vierde tot en met zesde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is van overeenkomstige toepassing.   
+5.  Artikel 3.33, tweede en vierde tot en met zesde lid, van de Wet ruimtelijke ordening is van overeenkomstige toepassing.   
 6.  Gedeputeerde staten kunnen bepalen dat het eerste lid niet van toepassing is op een productie-installatie als bedoeld in artikel 9e, eerste lid, indien: 
 
 a. in aanmerking genomen de omvang, aard en ligging van de desbetreffende productie-installatie, redelijkerwijze niet valt te verwachten dat toepassing van het eerste lid de besluitvorming in betekenende mate zal versnellen of dat daaraan anderszins aanmerkelijke voordelen zijn verbonden, of  
@@ -351,7 +352,7 @@ b. is voldaan aan de krachtens artikel 9e, zesde lid, voor die provincie gesteld
 
 ### Artikel  9g  
 
-De aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9e, eerste lid, wordt voor de toepassing van de [Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbaar werk van algemeen nut. [Artikel 3.36a, derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is van overeenkomstige toepassing. 
+De aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9e, eerste lid, wordt voor de toepassing van de Belemmeringenwet Privaatrecht aangemerkt als openbaar werk van algemeen nut. Artikel 3.36a, derde lid, van de Wet ruimtelijke ordening is van overeenkomstige toepassing. 
 
 ###§ 3 
 
@@ -401,7 +402,7 @@ c. op verzoek van de Europese Commissie.
 
 1.  Artikel 10, tweede tot en met achtste lid, is van overeenkomstige toepassing voor de aanwijzing van een interconnector-beheerder, met dien verstande dat in afwijking van artikel 10, tweede lid, de interconnector-beheerder geen naamloze of besloten vennootschap behoeft te zijn.   
 2.  Artikel 14, eerste tot en met derde lid, is van overeenkomstige toepassing, met dien verstande dat in afwijking van artikel 14, eerste lid, de interconnector-beheerder geen naamloze of besloten vennootschap behoeft te zijn.   
-3.  Voor een interconnector-beheerder zijn uitsluitend de artikelen 7, 16, eerste lid, onderdeel a, b, j, k en l, tweede lid, onderdeel g, k en m en vijftiende lid, 24, 26a, eerste lid, 31a, 51, 52 en 79 van overeenkomstige toepassing.   
+3.  Voor een interconnector-beheerder zijn uitsluitend de artikelen 16, eerste lid, onderdeel a, b, j, k en l, tweede lid, onderdeel g, k en m en vijftiende lid, 24, 26a, eerste lid, 31a, 51, 52 en 79 van overeenkomstige toepassing.   
 4.  De op basis van artikel 36 of 37 vastgestelde voorwaarden zijn van toepassing voor zover dit in de voorwaarden is aangegeven. Met betrekking tot deze voorwaarden is artikelen 32 van overeenkomstige toepassing, met dien verstande dat in plaats van «netbeheerder van het landelijk hoogspanningsnet» wordt gelezen «interconnector-beheerder», en maakt de interconnector-beheerder in dat geval deel uit van de gezamenlijke netbeheerders als bedoeld in de artikelen 33 en 34.   
 5.  Indien de netbeheerder van het landelijk hoogspanningsnet is aangewezen als interconnector-beheerder zijn, in afwijking van het tweede tot en met het vierde lid, de bij of krachtens de Elektriciteitswet 1998 voor de netbeheerder van het landelijk hoogspanningsnet geldende bepalingen van overeenkomstige toepassing, met dien verstande dat het landelijk hoogspanningsnet en het desbetreffende landsgrensoverschrijdende net voor de vaststelling van de tarieven als één net kunnen worden beschouwd.   
 6.  Indien een persoon uit een derde land zeggenschap heeft over een eigenaar van een landsgrensoverschrijdend net of een interconnector-beheerder, besluit de Autoriteit Consument en Markt in het besluit, bedoeld in artikel 10, derde lid, op verzoek en volgens de procedure van artikel 11 van de richtlijn of is voldaan aan de eisen van artikel 11, derde lid, van de richtlijn.   
@@ -412,22 +413,22 @@ c. op verzoek van de Europese Commissie.
 1.  De netbeheerder, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, beschikt over de economische eigendom van het door hem beheerde net.   
 2.  Bij gelegenheid van een aanwijzing als bedoeld in artikel 10, negende lid, vindt voor zover nodig overdracht van de economische eigendom aan de aangewezen netbeheerder plaats.   
 3.  De overdracht geschiedt tegen verrichting van een tegenprestatie waarvan de waarde ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het net, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de door de Autoriteit Consument en Markt in de daaraan voorafgaande periode van vijf jaar vastgestelde tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.   
-4.  De netbeheerder van het landelijk hoogspanningsnet of een tot de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waarvan de netbeheerder van het landelijk hoogspanningsnet deel uitmaakt behorende vennootschap beschikt over de eigendom van het landelijk hoogspanningsnet. 
+4.  De netbeheerder van het landelijk hoogspanningsnet of een tot de groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waarvan de netbeheerder van het landelijk hoogspanningsnet deel uitmaakt behorende vennootschap beschikt over de eigendom van het landelijk hoogspanningsnet. 
 
 ###Artikel 10b 
 
-1. Een netbeheerder maakt geen deel uit van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit produceert of levert of daarin handelt. 
-2. Rechtspersonen en vennootschappen die deel uitmaken van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit produceert of levert of daarin handelt, houden geen aandelen in een netbeheerder of in een rechtspersoon die deel uitmaakt van een groep waartoe ook een netbeheerder behoort en nemen niet deel in een vennootschap die deel uitmaakt van een groep waartoe ook een netbeheerder behoort. 
-3. Een netbeheerder en met de netbeheerder verbonden groepsmaatschappijen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md):
+1. Een netbeheerder maakt geen deel uit van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit produceert of levert of daarin handelt. 
+2. Rechtspersonen en vennootschappen die deel uitmaken van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit produceert of levert of daarin handelt, houden geen aandelen in een netbeheerder of in een rechtspersoon die deel uitmaakt van een groep waartoe ook een netbeheerder behoort en nemen niet deel in een vennootschap die deel uitmaakt van een groep waartoe ook een netbeheerder behoort. 
+3. Een netbeheerder en met de netbeheerder verbonden groepsmaatschappijen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek:
 
 a.houden geen aandelen in een rechtspersoon die in Nederland elektriciteit produceert of levert of daarin handelt of in een rechtspersoon die deel uitmaakt van een groep waartoe ook een rechtspersoon behoort die in Nederland elektriciteit produceert of levert of daarin handelt;
 
 b.nemen niet deel in een vennootschap die in Nederland elektriciteit produceert of levert of daarin handelt of in een vennootschap die deel uitmaakt van een groep waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit produceert of levert of daarin handelt.  
 4.  In aanvulling op het eerste tot en met het derde lid: 
 
-a. maakt de netbeheerder van het landelijk hoogspanningsnet geen deel uit van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe ook een rechtspersoon of vennootschap behoort die gas produceert of levert of daarin handelt;  
+a. maakt de netbeheerder van het landelijk hoogspanningsnet geen deel uit van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waartoe ook een rechtspersoon of vennootschap behoort die gas produceert of levert of daarin handelt;  
 
-b. maakt de netbeheerder van het landelijk hoogspanningsnet geen deel uit van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe een rechtspersoon of vennootschap behoort die activiteiten als bedoeld in het eerste lid of onderdeel a verricht buiten Nederland;  
+b. maakt de netbeheerder van het landelijk hoogspanningsnet geen deel uit van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waartoe een rechtspersoon of vennootschap behoort die activiteiten als bedoeld in het eerste lid of onderdeel a verricht buiten Nederland;  
 
 c. oefent de netbeheerder van het landelijk hoogspanningsnet geen directe of indirecte zeggenschap uit over een producent, een leverancier, een producent van gas of een leverancier van gas.     
 5.  Bij algemene maatregel van bestuur worden ter implementatie van artikel 9 van de richtlijn nadere regels gesteld. 
@@ -441,12 +442,12 @@ a. de instelling van een raad van commissarissen;
 
 b. de bepaling dat de leden van het bestuur en de meerderheid van de leden van de raad van commissarissen direct noch indirect binding hebben met een producent, een leverancier of een handelaar;  
 
-c. in afwijking van [artikel 129, derde lid](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of [artikel 239, derde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), de bepaling dat aan de goedkeuring van de raad van commissarissen ten minste zijn onderworpen de besluiten van het bestuur van de rechtspersoon, bedoeld in [artikel 164, eerste lid](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of [artikel 274, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+c. in afwijking van artikel 129, derde lid, of artikel 239, derde lid, van Boek 2 van het Burgerlijk Wetboek, de bepaling dat aan de goedkeuring van de raad van commissarissen ten minste zijn onderworpen de besluiten van het bestuur van de rechtspersoon, bedoeld in artikel 164, eerste lid, of artikel 274, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 d. de bepaling dat de aandeelhouders het kader vaststellen voor het bezoldigingsbeleid van de bestuurders;  
 
 e. de bepaling dat het reserveren en uitkeren van de jaarlijkse winst geschiedt met de instemming van de aandeelhouders en met inachtneming van de uitvoering van de aan de netbeheerder bij wet opgedragen taken en verplichtingen om zijn netten in werking te hebben, te vernieuwen, te onderhouden en uit te breiden.    
-3. Indien een netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet, een afhankelijke maatschappij is in de zin van [artikel 152](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [artikel 262 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), behoeven de statuten van die netbeheerder, in afwijking van het tweede lid, onderdeel a, niet te voorzien in de instelling van een raad van commissarissen.
+3. Indien een netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet, een afhankelijke maatschappij is in de zin van artikel 152 of artikel 262 van Boek 2 van het Burgerlijk Wetboek, behoeven de statuten van die netbeheerder, in afwijking van het tweede lid, onderdeel a, niet te voorzien in de instelling van een raad van commissarissen.
 4. In het in het derde lid bedoelde geval:
 
 a.voldoet een rechtspersoon waarvan de netbeheerder een afhankelijke maatschappij is aan de in het tweede lid, aanhef en onderdelen a en b, genoemde eisen;
@@ -455,33 +456,33 @@ b.beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdeel
 
 ### Artikel  11a  
 
-1.  De [artikelen 155a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [158 tot en met 161a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [164](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) dan wel [265a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [268 tot en met 271a](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [274 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van toepassing op de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet en haar statuten worden dienovereenkomstig ingericht.   
+1.  De artikelen 155a, 158 tot en met 161a en 164 dan wel 265a, 268 tot en met 271a en 274 van Boek 2 van het Burgerlijk Wetboek zijn van toepassing op de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet en haar statuten worden dienovereenkomstig ingericht.   
 2.  Het is aan de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet niet toegestaan haar statuten te wijzigen dan nadat aan de wijziging door Onze Minister goedkeuring is verleend. Onze Minister weigert goedkeuring indien de statuten na de wijziging niet in overeenstemming zijn met dit artikel.   
 3.  De leden van het bestuur en de meerderheid van de leden van de raad van commissarissen van de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet hebben direct noch indirect binding met een rechtspersoon die de productie, aankoop of levering van gas of elektriciteit verricht of met een aandeelhouder van die rechtspersoon.   
 4.  Vervallen.   
-5. Indien de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet een afhankelijke maatschappij is in de zin van [artikel 152](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [artikel 262 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is het eerste lid niet van toepassing.
+5. Indien de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet een afhankelijke maatschappij is in de zin van artikel 152 of artikel 262 van Boek 2 van het Burgerlijk Wetboek is het eerste lid niet van toepassing.
 6. In het in het vijfde lid bedoelde geval:
 
 a.voldoet een rechtspersoon waarvan de netbeheerder van het landelijk hoogspanningsnet een afhankelijke maatschappij is aan de in het eerste tot en met vierde lid genoemde eisen;
 
-b.beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdeel a, waarvan de netbeheerder van het landelijk hoogspanningsnet een afhankelijke maatschappij is over de bevoegdheden tot goedkeuring van de besluiten van het bestuur van de netbeheerder van het landelijk hoogspanningsnet, bedoeld in [artikel 164, eerste lid](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of [artikel 274, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
+b.beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdeel a, waarvan de netbeheerder van het landelijk hoogspanningsnet een afhankelijke maatschappij is over de bevoegdheden tot goedkeuring van de besluiten van het bestuur van de netbeheerder van het landelijk hoogspanningsnet, bedoeld in artikel 164, eerste lid, of artikel 274, eerste lid, van Boek 2 van het Burgerlijk Wetboek. 
 
 ### Artikel  11b  
 
-1.  Een netbeheerder die deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) stelt een reglement vast, waarin regels worden gesteld die beogen discriminatie bij de uitoefening van zijn taken en bevoegdheden op grond van deze wet te voorkomen. Het reglement bevat in ieder geval regels ten aanzien van het gedrag van werknemers die ertoe strekken dat discriminatie als bedoeld in de vorige volzin wordt voorkomen.   
+1.  Een netbeheerder die deel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek stelt een reglement vast, waarin regels worden gesteld die beogen discriminatie bij de uitoefening van zijn taken en bevoegdheden op grond van deze wet te voorkomen. Het reglement bevat in ieder geval regels ten aanzien van het gedrag van werknemers die ertoe strekken dat discriminatie als bedoeld in de vorige volzin wordt voorkomen.   
 2.  De netbeheerder draagt er zorg voor dat elke werknemer is gebonden aan het reglement en ziet er op toe dat het reglement nauwgezet wordt nageleefd.   
 3.  De netbeheerder stelt jaarlijks een verslag op over de wijze waarop uitvoering is gegeven aan het reglement, en welke maatregelen in dat kader zijn genomen. Hij zendt het verslag naar de Autoriteit Consument en Markt en draagt zorg voor publicatie ervan op een geschikte wijze.  
 
 ### Artikel  12  
 
 1.  De netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet, meldt aan Onze Minister onverwijld na zijn aanwijzing zijn naam en adres en de naam en het adres van zijn aandeelhouders en zendt aan Onze Minister een beschrijving van het net dat door hem zal worden beheerd. Ten minste eenmaal per jaar meldt hij aan Onze Minister iedere wijziging van de namen of adressen en zendt hij hem een beschrijving van de wijziging van het net dat door hem wordt beheerd.    
-2.  De aanwijzing behoeft de instemming van Onze Minister. Onze Minister onthoudt zijn instemming of kan voorschriften verbinden aan de instemming, indien niet is voldaan aan de artikelen 10a, 10b, 11, 11a of 11b of indien de aangewezen netbeheerder in onvoldoende mate in staat zal zijn aan een verplichting als bedoeld in de artikelen 7, 16Aa, 18a of 78 te voldoen, een taak als bedoeld in artikel 16, eerste of tweede lid, of 16a, uit te voeren dan wel een verbod als bedoeld in artikelen 17, 17a of 18 na te leven.    
+2.  De aanwijzing behoeft de instemming van Onze Minister. Onze Minister onthoudt zijn instemming of kan voorschriften verbinden aan de instemming, indien niet is voldaan aan de artikelen 10a, 10b, 11, 11a of 11b of indien de aangewezen netbeheerder in onvoldoende mate in staat zal zijn aan een verplichting als bedoeld in de artikelen 16Aa, 18a of 78 te voldoen, een taak als bedoeld in artikel 16, eerste of tweede lid, of 16a, uit te voeren dan wel een verbod als bedoeld in artikelen 17, 17a of 18 na te leven.    
 3.  Indien Onze Minister voorschriften verbindt aan zijn instemming, strekken deze er slechts toe de geconstateerde tekortkomingen, bedoeld in het tweede lid, weg te nemen.   
 
 ### Artikel  13  
 
 1.  Indien het aanwijzen van een netbeheerder als bedoeld in artikel 10, negende lid, niet is geschied binnen vier weken na de aanleg van een net dan wel onverwijld na het intrekken of vervallen van een eerdere aanwijzing, of indien er sprake is van een net waarvoor ten onrechte geen netbeheerder is aangewezen of instemming van Onze Minister met een aanwijzing ontbreekt, kan Onze Minister door aanwijzing van een naamloze of besloten vennootschap een netbeheerder van dat net aanwijzen.   
-2.  Indien Onze Minister vaststelt dat niet meer voldaan wordt aan de artikelen 10a, 10b, 11, 11a of 11b of dat een netbeheerder in onvoldoende mate in staat is of zal zijn om aan een verplichting als bedoeld in de artikelen 7, 16Aa, 18a of 78 te voldoen, om een taak als bedoeld in artikel 16 of 16a uit te voeren of indien hij artikel 17, 17a of 18 niet naleeft, kan hij de desbetreffende netbeheerder opdragen door hem noodzakelijk geachte voorzieningen te treffen.   
+2.  Indien Onze Minister vaststelt dat niet meer voldaan wordt aan de artikelen 10a, 10b, 11, 11a of 11b of dat een netbeheerder in onvoldoende mate in staat is of zal zijn om aan een verplichting als bedoeld in de artikelen 16Aa, 18a of 78 te voldoen, om een taak als bedoeld in artikel 16 of 16a uit te voeren of indien hij artikel 17, 17a of 18 niet naleeft, kan hij de desbetreffende netbeheerder opdragen door hem noodzakelijk geachte voorzieningen te treffen.   
 3.  Indien de netbeheerder niet voldoet aan een opdracht als bedoeld in het tweede lid, indien hij vaststelt dat opdrachten, bedoeld in artikel 13a, eerste lid, niet worden uitgevoerd of indien naar het oordeel van Onze Minister door de bedrijfsvoering van deze netbeheerder de continuïteit of de betrouwbaarheid van de elektriciteitsvoorziening voor afnemers in gevaar komt en onverwijld ingrijpen noodzakelijk is, kan Onze Minister: 
 
 a.de aanwijzing van de desbetreffende netbeheerder vervallen verklaren en uiterlijk op de dag waarop die aanwijzing vervalt een andere naamloze of besloten vennootschap als netbeheerder aanwijzen, of
@@ -529,7 +530,7 @@ b. in strijd handelt met de voorschriften en beperkingen als bedoeld in het twee
 c. bij de aanvraag om een ontheffing onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid.     
 4.  Indien een ontheffing is verleend, zijn uitsluitend het vijfde en zesde lid van toepassing op de eigenaar van een gesloten distributiesysteem.   
 5.  De eigenaar van een gesloten distributiesysteem beheert het gesloten distributiesysteem. De houder van de ontheffing factureert en int het tarief voor systeemdiensten, bedoeld in artikel 30, eerste lid, bij de afnemers die op zijn net zijn aangesloten en draagt de te innen tarieven af aan de netbeheerder van het landelijk hoogspanningsnet. Op verzoek van de netbeheerder van het landelijk hoogspanningsnet verstrekt de houder van de ontheffing gegevens over het verbruik van de afnemers die op zijn net zijn aangesloten. De houder van de ontheffing kan in afwijking van de tweede volzin het tarief voor systeemdiensten in de plaats van de afnemers die op zijn net zijn aangesloten betalen. In dat geval verstrekt de houder van de ontheffing op verzoek van de netbeheerder van het landelijk hoogspanningsnet gegevens over het totale verbruik van de afnemers die op zijn net zijn aangesloten.   
-6.  Het bepaalde bij of krachtens de artikelen 7, 16, eerste lid, met uitzondering van onderdeel h, j en m, 19d, 19e, eerste lid, 23, 24, 24b, 26a, 28, 29, 30, 31b, 31c, 42, tweede en derde lid, 51, 78, 79, 95lb, 95lc en 95m, negende lid, is van overeenkomstige toepassing voor de eigenaar van een gesloten distributiesysteem, met dien verstande dat: 
+6.  Het bepaalde bij of krachtens de artikelen 16, eerste lid, met uitzondering van onderdeel h, j en m, 19d, 19e, eerste lid, 23, 24, 24b, 26a, 28, 29, 30, 31b, 31c, 42, tweede en derde lid, 51, 78, 79, 95lb, 95lc en 95m, negende lid, is van overeenkomstige toepassing voor de eigenaar van een gesloten distributiesysteem, met dien verstande dat: 
 
 a. artikel 23, eerste lid, uitsluitend geldt voor zover er na aansluiting sprake is van een afnemer binnen het geografisch gebied waarbinnen het gesloten distributiesysteem ligt en deze aansluiting past bij het karakter van het gesloten distributiesysteem,  
 
@@ -665,11 +666,11 @@ c.draagt de netbeheerder er zorg voor dat in de overeenkomst tot uitbesteding de
 
 ### Artikel  16da  
 
-Onze Minister kan een netbeheerder een bindende aanwijzing geven in het kader van de bescherming van de netten tegen een mogelijke invloed van buitenaf, bedoeld in artikel 16, eerste lid, onderdeel q. 
+Onze Minister kan een netbeheerder een aanwijzing geven in het kader van de bescherming van de netten tegen een mogelijke invloed van buitenaf, bedoeld in artikel 16, eerste lid, onderdeel q. 
 
 ### Artikel  17  
 
-1. Het is de netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in [artikel 24c van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), niet toegestaan goederen of diensten waarmee zij in concurrentie treden te leveren, tenzij het betreft het verrichten van werkzaamheden ten behoeve van:
+1. Het is de netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in artikel 24c van Boek 2 van het Burgerlijk Wetboek, niet toegestaan goederen of diensten waarmee zij in concurrentie treden te leveren, tenzij het betreft het verrichten van werkzaamheden ten behoeve van:
 
 a. de uitvoering van de taken, bedoeld in artikel 16, eerste of tweede lid, of 16a, voor zichzelf, voor andere netbeheerders of voor anderen die een recht van gebruik van een net hebben;   
 
@@ -678,7 +679,7 @@ b. de aanleg, het beheer of het onderhoud van leidingen buiten gebouwen voor het
 c. het ter beschikking stellen en houden van netten ten behoeve van het gebruik van daarmee verbonden zaken door derden;  
 
 d. het uitvoeren van werkzaamheden, bedoeld in artikel 16c, eerste en vijfde lid.   
-2. Indien een netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet, deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het desbetreffende net.
+2. Indien een netbeheerder, niet zijnde de netbeheerder van het landelijk hoogspanningsnet, deel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het desbetreffende net.
 3. Onder handelingen en activiteiten als bedoeld in het tweede lid worden in ieder geval verstaan:
 
 a.handelingen en activiteiten die niet op enigerlei wijze betrekking hebben op of verband houden met infrastructurele voorzieningen of aanverwante activiteiten,
@@ -696,7 +697,7 @@ c.het zich aansprakelijk stellen door de netbeheerder voor schulden van tot de g
 
 ### Artikel  17a  
 
-1.  Het is de netbeheerder van het landelijk hoogspanningsnet of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in [artikel 24c, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), niet toegestaan goederen of diensten waarmee zij in concurrentie treden te leveren, tenzij het betreft het verrichten van werkzaamheden ten behoeve van: 
+1.  Het is de netbeheerder van het landelijk hoogspanningsnet of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in artikel 24c, van Boek 2 van het Burgerlijk Wetboek, niet toegestaan goederen of diensten waarmee zij in concurrentie treden te leveren, tenzij het betreft het verrichten van werkzaamheden ten behoeve van: 
 
 a.de uitvoering van de taken, bedoeld in artikel 16, eerste of tweede lid, of 16a voor zichzelf, voor andere netbeheerders of voor anderen die een recht van gebruik op een net hebben,
 
@@ -705,13 +706,13 @@ b.de aanleg, het beheer of het onderhoud van leidingen buiten gebouwen voor het 
 c.het ter beschikking stellen en houden van netten ten behoeve van het gebruik van daarmee verbonden zaken door derden;
 
 d.het uitvoeren van werkzaamheden, bedoeld in artikel 16c, eerste en vijfde lid.   
-2.  Indien de netbeheerder van het landelijk hoogspanningsnet onderdeel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het landelijk hoogspanningsnet.   
+2.  Indien de netbeheerder van het landelijk hoogspanningsnet onderdeel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het landelijk hoogspanningsnet.   
 3.  De statuten van de rechtspersonen die met de netbeheerder van het landelijk hoogspanningsnet in een groep zijn verbonden, behoeven de goedkeuring van Onze Minister voor zover het betreft de daarin opgenomen doelstellingen van die rechtspersonen.   
 4.  De netbeheerder van het landelijk hoogspanningsnet verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de Autoriteit Consument en Markt een overzicht van de financiële middelen waarover hij beschikt ten behoeve van de uitvoering van zijn wettelijke taken, waaruit blijkt welke financiële middelen voor de afzonderlijke taken beschikbaar zijn.  
 
 ### Artikel  18  
 
-1.  Indien een met de netbeheerder in een groep verbonden groepsmaatschappij in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) activiteiten verricht die de netbeheerder op grond van artikel 17 of 17a niet zelf mag verrichten, mag de netbeheerder of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in artikel 17 of 17a een dergelijke groepsmaatschappij niet bevoordelen boven anderen waarmee een dergelijke groepsmaatschappij in concurrentie treedt, of anderszins voordelen toekennen die verder gaan dan in normaal handelsverkeer gebruikelijk is.    
+1.  Indien een met de netbeheerder in een groep verbonden groepsmaatschappij in de zin van artikel 24b van Boek 2 van het Burgerlijk Wetboek activiteiten verricht die de netbeheerder op grond van artikel 17 of 17a niet zelf mag verrichten, mag de netbeheerder of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in artikel 17 of 17a een dergelijke groepsmaatschappij niet bevoordelen boven anderen waarmee een dergelijke groepsmaatschappij in concurrentie treedt, of anderszins voordelen toekennen die verder gaan dan in normaal handelsverkeer gebruikelijk is.    
 2.  Als bevoordelen van een groepsmaatschappij als bedoeld in het eerste lid of het toekennen van voordelen die verder gaan dan in normaal handelsverkeer gebruikelijk is, worden in ieder geval aangemerkt:  
 
 a. het verstrekken van gegevens aan een groepsmaatschappij over afnemers, niet zijnde niet zijnde afnemers als bedoeld in artikel 95a, eerste lid, die een verzoek als bedoeld in artikel 23 of 24 hebben gedaan;   
@@ -800,13 +801,13 @@ c.de klacht zo spoedig mogelijk doch uiterlijk binnen acht weken wordt afgehande
 
 ### Artikel  20  
 
-1.  Een net dat door een netbeheerder is of wordt aangelegd, hersteld, vernieuwd of uitgebreid in het voor hem op grond van artikel 36 of 37 vastgestelde gebied, wordt voor de toepassing van de [Belemmeringenwet Verordeningen](../../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbaar werk van algemeen nut.    
+1.  Een net dat door een netbeheerder is of wordt aangelegd, hersteld, vernieuwd of uitgebreid in het voor hem op grond van artikel 36 of 37 vastgestelde gebied, wordt voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht aangemerkt als openbaar werk van algemeen nut.    
 2.  Bij algemene maatregel van bestuur kunnen met betrekking tot daarbij aan te wijzen gebieden regels worden gesteld over de wijze waarop, gelet op het belang van een betrouwbaar, duurzaam, doelmatig en milieuhygiënisch verantwoord functionerende energiehuishouding, een afweging wordt gemaakt met betrekking tot de aanleg van een net en de aanleg van een gastransportnet of een warmtenet.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald dat een net slechts wordt aangelegd als resultaat van een openbare procedure waarin gegadigden op een te plaatsen opdracht kunnen inschrijven met een aanbieding voor de aanleg van een net, een gastransportnet of een warmtenet.   
 
 ### Artikel  20a  
 
-1.  De procedure bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), is van toepassing op een uitbreiding van het landelijk hoogspanningsnet voor zover het betreft: 
+1.  De procedure bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening, is van toepassing op een uitbreiding van het landelijk hoogspanningsnet voor zover het betreft: 
 
 a. de van dat net deel uitmakende netten bestemd voor het transport van elektriciteit op een spanningsniveau van 220 kV of hoger en die als zodanig worden bedreven met inbegrip van de aansluitingen op die netten,  
 
@@ -816,35 +817,35 @@ c. de aanleg of uitbreiding van een landsgrensoverschrijdend net met inbegrip va
 2.  De beheerder van het net, bedoeld in het eerste lid, meldt een voornemen tot een uitbreiding van een net waarop het eerste lid van toepassing is zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.   
 3.  Indien, in aanmerking genomen de omvang, aard en ligging van een net als bedoeld in het eerste lid, alsmede het aantal voor de aanleg of uitbreiding van dat net benodigde besluiten, redelijkerwijs niet valt te verwachten dat toepassing van de procedure, bedoeld in het eerste lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat: 
 
-a. geen van de procedures, bedoeld in [artikel 3.35, eerste lid](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md),  
+a. geen van de procedures, bedoeld in artikel 3.35, eerste lid,  
 
-b. uitsluitend de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md),  
+b. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a,  
 
-c. uitsluitend de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel b](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of  
+c. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, of  
 
-d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de uitbreiding van dat net. Onze Minister hoort de beheerder van het net en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.    
+d. de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a, gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de uitbreiding van dat net. Onze Minister hoort de beheerder van het net en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.    
 
 ### Artikel  20b  
 
-1.  Onze Minister is de aangewezen minister, bedoeld in [artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
-3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), één of meer besluiten nemen die nodig zijn voor een daarbij aangewezen uitbreiding van het net, bedoeld in artikel 20a, eerste lid.  
+1.  Onze Minister is de aangewezen minister, bedoeld in artikel 3.35, tweede en derde lid, van de Wet ruimtelijke ordening.   
+2.  Indien toepassing wordt gegeven aan artikel 3.28, vierde lid, van de Wet ruimtelijke ordening treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.   
+3.  Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening, één of meer besluiten nemen die nodig zijn voor een daarbij aangewezen uitbreiding van het net, bedoeld in artikel 20a, eerste lid.  
 
 ### Artikel  20c  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de uitbreiding van het net, bedoeld in artikel 20a, eerste lid, in ieder geval besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn.   
-2.  Onze Minister kan ten behoeve van een uitbreiding van het net, bedoeld in artikel 20a, eerste lid, tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-3.  Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in artikel 20a, eerste lid, zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt aangemerkt.  
+1.  Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de uitbreiding van het net, bedoeld in artikel 20a, eerste lid, in ieder geval besluiten als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening zijn.   
+2.  Onze Minister kan ten behoeve van een uitbreiding van het net, bedoeld in artikel 20a, eerste lid, tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening.   
+3.  Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in artikel 20a, eerste lid, zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening wordt aangemerkt.  
 
 ### Artikel  20d  
 
-De Autoriteit Consument en Markt verrekent de kosten van een investering waarvoor op grond van [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld of projectbesluit is genomen, in de tarieven. 
+De Autoriteit Consument en Markt verrekent de kosten van een investering waarvoor op grond van artikel 3.28 van de Wet ruimtelijke ordening een inpassingsplan is vastgesteld of projectbesluit is genomen, in de tarieven. 
 
 ### Artikel  20e  
 
-1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing is, zo spoedig mogelijk schriftelijk aan de Autoriteit Consument en Markt of, indien het de netbeheerder van het landelijk hoogspanningsnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
+1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in artikel 3.28 van de Wet ruimtelijke ordening, niet van toepassing is, zo spoedig mogelijk schriftelijk aan de Autoriteit Consument en Markt of, indien het de netbeheerder van het landelijk hoogspanningsnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
 2.  De Autoriteit Consument en Markt besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van een netbeheerder niet zijnde de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is.   
-3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de Autoriteit Consument en Markt binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
+3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de Autoriteit Consument en Markt binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in artikel 2.3 van de Wet ruimtelijke ordening, stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
 4.  De Autoriteit Consument en Markt verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of derde lid, in de tarieven.  
 
 ### Artikel  20f  
@@ -935,15 +936,15 @@ b. een aansluiting voor een productie-installatie voor de opwekking van duurzame
 1.  De Autoriteit Consument en Markt kan op aanvraag besluiten dat capaciteit op het landsgrensoverschrijdend net voor het transport van elektriciteit tot een door haar te bepalen omvang en voor een door haar te bepalen tijdsduur bij voorrang wordt bestemd voor door haar aan te geven verzoekers om capaciteit voor het transport van elektriciteit, indien die capaciteit uitsluitend is bestemd om op een transparante en niet-discriminatoire wijze, die bijdraagt aan een goede marktwerking op de elektriciteitsmarkt, te worden toegewezen.   
 2.  Bij het nemen van het besluit, bedoeld in het eerste lid, kan de Autoriteit Consument en Markt voor het transport van elektriciteit voorwaarden goedkeuren en tarieven vaststellen die afwijken van het bepaalde bij of krachtens de paragrafen 5 en 6 van dit hoofdstuk.   
 3.  Het besluit, bedoeld in het eerste lid, mag niet het gevolg hebben dat de hoeveelheid capaciteit die de netbeheerder van het landelijk hoogspanningsnet reserveert om noodzakelijk transport van elektriciteit in het kader van onderlinge hulp en bijstand ten behoeve van de instandhouding van de integriteit van de netten te kunnen uitvoeren, wordt beperkt.   
-4.  Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in de Staatscourant.  
+4.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  26a  
 
 1.  Een netbeheerder hanteert voorwaarden die redelijk, objectief en niet discriminerend zijn.    
-2.  Voorwaarden als bedoeld in de [artikelen 236](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [237 van boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden vermoed niet redelijk te zijn.   
+2.  Voorwaarden als bedoeld in de artikelen 236 en 237 van boek 6 van het Burgerlijk Wetboek worden vermoed niet redelijk te zijn.   
 3.  Een voorwaarde is redelijk, wanneer dit blijkt uit de aard, inhoud of wijze van totstandkoming van de betrokken voorwaarde.   
 4.  Het tweede en derde lid zijn niet van toepassing op een afnemer, bedoeld in artikel 95a, eerste lid.   
-5.  De [artikelen 236](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [237 van boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn mede van toepassing op voorwaarden in overeenkomsten met afnemers als bedoeld in artikel 95a, eerste lid, die rechtspersoon zijn of handelen in de uitoefening van een beroep of bedrijf. 
+5.  De artikelen 236 en 237 van boek 6 van het Burgerlijk Wetboek zijn mede van toepassing op voorwaarden in overeenkomsten met afnemers als bedoeld in artikel 95a, eerste lid, die rechtspersoon zijn of handelen in de uitoefening van een beroep of bedrijf. 
 
 ### §  4a  
 
@@ -971,8 +972,8 @@ b. dit noodzakelijk is voor de taken van de netbeheerder, genoemd in artikel 16,
 
 c. deze gegevens op basis van het tweede tot en met vijfde lid verstrekt worden.    
 2.  Een netbeheerder verleent een leverancier toegang tot meetgegevens betreffende afnemers als bedoeld in artikel 95a, eerste lid, voor zover het gaat om meetgegevens betreffende afnemers van die leverancier.   
-3.  In afwijking van het tweede lid verleent een netbeheerder een leverancier uitsluitend toegang tot meetgegevens die betrekking hebben op een kleiner tijdsbestek dan een dag, voor zover die leverancier de desbetreffende meetgegevens op basis van [artikel 8, onderdeel a, van de Wet bescherming persoonsgegevens](../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) mag verwerken.   
-4.  Een netbeheerder verleent een derde uitsluitend toegang tot meetgegevens betreffende afnemers als bedoeld in artikel 95a, eerste lid, voorzover die derde de desbetreffende meetgegevens op basis van [artikel 8, onderdeel a, van de Wet bescherming persoonsgegevens](../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) mag verwerken.   
+3.  In afwijking van het tweede lid verleent een netbeheerder een leverancier uitsluitend toegang tot meetgegevens die betrekking hebben op een kleiner tijdsbestek dan een dag, voor zover die leverancier de desbetreffende meetgegevens op basis van artikel 8, onderdeel a, van de Wet bescherming persoonsgegevens mag verwerken.   
+4.  Een netbeheerder verleent een derde uitsluitend toegang tot meetgegevens betreffende afnemers als bedoeld in artikel 95a, eerste lid, voorzover die derde de desbetreffende meetgegevens op basis van artikel 8, onderdeel a, van de Wet bescherming persoonsgegevens mag verwerken.   
 5.  Meetgegevens per kwartier en per dag worden door de netbeheerder dagelijks om niet beschikbaar gesteld. Overige meetgegevens worden door de netbeheerder tegen een vergoeding van de daaraan verbonden kosten beschikbaar gesteld.  
 
 ### Artikel  26ac  
@@ -1224,8 +1225,8 @@ f. het belang van een objectieve, transparante en niet discriminatoire handhavin
 g. de in artikel 26b bedoelde regels en 
 
 h. verordening 714/2009 en de richtlijn.    
-2.  De Autoriteit Consument en Markt stelt de voorwaarden niet vast dan nadat zij zich met inachtneming van artikel 5 van de richtlijn ervan vergewist heeft dat de voorwaarden de interoperabiliteit van de netten garanderen en objectief, evenredig en niet-discriminatoir zijn, alsmede voor zover dat op grond van de notificatierichtlijn noodzakelijk is, aan de Commissie van de Europese Gemeenschappen in ontwerp zijn meegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.   
-3.  Indien een voorstel als bedoeld in artikel 27, 31 of 32 naar het oordeel van de Autoriteit Consument en Markt in strijd is met het belang, bedoeld in het eerste lid, onderdeel b, c, d, e of f, met de regels, bedoeld in het eerste lid, onderdelen g en h, of of met de eisen, bedoeld in het tweede lid, draagt de Autoriteit Consument en Markt de gezamenlijke netbeheerders op het voorstel onverwijld zodanig te wijzigen dat deze strijd wordt opgeheven. [Artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+2.  De Autoriteit Consument en Markt stelt de voorwaarden niet vast dan nadat zij zich met inachtneming van artikel 5 van de richtlijn ervan vergewist heeft dat de voorwaarden de interoperabiliteit van de netten garanderen en objectief, evenredig en niet-discriminatoir zijn, alsmede voor zover dat op grond van de notificatierichtlijn noodzakelijk is, aan de Europese Commissie in ontwerp zijn meegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.   
+3.  Indien een voorstel als bedoeld in artikel 27, 31 of 32 naar het oordeel van de Autoriteit Consument en Markt in strijd is met het belang, bedoeld in het eerste lid, onderdeel b, c, d, e of f, met de regels, bedoeld in het eerste lid, onderdelen g en h, of of met de eisen, bedoeld in het tweede lid, draagt de Autoriteit Consument en Markt de gezamenlijke netbeheerders op het voorstel onverwijld zodanig te wijzigen dat deze strijd wordt opgeheven. Artikel 4:15 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 4.  Indien de gezamenlijke netbeheerders niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de Autoriteit Consument en Markt, bedoeld in het derde lid, stelt de Autoriteit Consument en Markt de tariefstructuren of de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in het eerste lid, onderdelen b tot en met f, met de regels, bedoeld in het eerste lid, onderdelen g en h, en met de eisen, bedoeld in het tweede lid.  
 
 ### Artikel  37  
@@ -1246,7 +1247,7 @@ a. de houder van de ontheffing de aan de ontheffing verbonden voorschriften of o
 b. de houder van de ontheffing bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;  
 
 c. de Autoriteit Consument en Markt, gelet op de belangen bedoeld in artikel 36, eerste lid, onderdelen b tot en met f en de regels, bedoeld in artikel 36, eerste lid, onderdelen g en h, van oordeel is dat intrekking van de ontheffing noodzakelijk is.     
-6.  Een op grond van dit artikel genomen beschikking wordt bekendgemaakt in de Staatscourant.  
+6.  Van een op grond van dit artikel genomen beschikking wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  38  
 
@@ -1318,7 +1319,7 @@ g. het totaal van de gemaakte kosten voor een verwerving van een bestaand net wa
 1.  De Autoriteit Consument en Markt stelt de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor onderscheiden tariefdragers, jaarlijks vast.   
 2.  De Autoriteit Consument en Markt kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in dat jaar of de jaren voorafgaand aan het jaar t: 
 
-a.bij rechterlijke uitspraak of met toepassing van de [artikel 6:19](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;
+a.bij rechterlijke uitspraak of met toepassing van de artikel 6:19 of 7:11 van de Algemene wet bestuursrecht zijn gewijzigd;
 
 b.zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de Autoriteit Consument en Markt, indien zij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;
 
@@ -1396,8 +1397,9 @@ d. de inhoud van de ingevolge artikel 46 te verschaffen gegevens.
 
 1.  Een partij die een geschil heeft met een netbeheerder over de wijze waarop deze zijn taken en bevoegdheden op grond van deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan een klacht bij de Autoriteit Consument en Markt indienen.   
 2.  De Autoriteit Consument en Markt beslist op een klacht binnen twee maanden na ontvangst van de klacht. Indien de klacht betrekking heeft op de tarieven voor de aansluiting op het net van een grote productie-eenheid, kan de Autoriteit Consument en Markt een langere termijn stellen. De Autoriteit Consument en Markt kan de in de eerste volzin genoemde termijn met twee maanden verlengen als zij aanvullende gegevens nodig heeft. Indien de klager daarmee instemt, is verdere verlenging mogelijk.   
-3.  De beslissing van de Autoriteit Consument en Markt is bindend.   
-4.  Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende partij een hem ter beschikking staand rechtsmiddel aan te wenden.  
+3.  De geschilbeslechtingswerkzaamheden worden niet verricht door personen die betrokken zijn bij werkzaamheden op grond van hoofdstuk 3, paragrafen 4 tot en met 6.  
+4.  De beslissing van de Autoriteit Consument en Markt is bindend.   
+5.  Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende partij een hem ter beschikking staand rechtsmiddel aan te wenden.  
 
 ### Artikel  52  
 
@@ -1435,7 +1437,7 @@ d. artikel 36, eerste lid, onderdelen b tot en met f, en tweede lid.
 
 ### Artikel  56  
 
-1.  Na ontvangst van een voorstel als bedoeld in artikel 54, eerste lid, kan de Autoriteit Consument en Markt de ondernemingen die het voorstel hebben ingediend, opdragen binnen vier weken en met inachtneming van haar bevindingen, waaronder haar bevindingen omtrent de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, de regels, bedoeld in artikel 53, of het bepaalde in artikel 36, tweede lid, het voorstel te wijzigen. Indien de Autoriteit Consument en Markt van deze bevoegdheid gebruik maakt is [artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+1.  Na ontvangst van een voorstel als bedoeld in artikel 54, eerste lid, kan de Autoriteit Consument en Markt de ondernemingen die het voorstel hebben ingediend, opdragen binnen vier weken en met inachtneming van haar bevindingen, waaronder haar bevindingen omtrent de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, de regels, bedoeld in artikel 53, of het bepaalde in artikel 36, tweede lid, het voorstel te wijzigen. Indien de Autoriteit Consument en Markt van deze bevoegdheid gebruik maakt is artikel 4:15 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 2.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de Autoriteit Consument en Markt, stelt de Autoriteit Consument en Markt de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, of met de regels, bedoeld in artikel 53.  
 
 ### Artikel  57  
@@ -1618,31 +1620,15 @@ f.de afdracht van de bedragen, verkregen met toepassing van de toeslag op de tar
 
 ### Artikel  77h  
 
-1.  De Autoriteit Consument en Markt kan ingeval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van artikel 13, 22, tweede lid, 26aa, 26ad, vijfde lid, en 26ae, tiende lid, dan wel van overtreding van het bepaalde bij verordening 714/2009, verordening 713/2009 en verordening 1227/2011 de overtreder een last onder dwangsom opleggen.   
-2.  Indien daarvoor naar haar oordeel aanleiding bestaat, gelet op het voorschrift waarop de overtreding betrekking heeft, geeft de Autoriteit Consument en Markt een bindende aanwijzing als bedoeld in artikel 5a, derde lid, alvorens een last onder dwangsom op te leggen.   
-3.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
-4.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
-5.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet zij daarvan een rapport opmaken.   
-6.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+De Autoriteit Consument en Markt kan ingeval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van artikel 5a, 13, 22, tweede lid, 26aa, 26ad, vijfde lid, en 26ae, tiende lid, dan wel van overtreding van het bepaalde bij of krachtens verordening 714/2009, verordening 713/2009 en verordening 1227/2011 de overtreder een last onder dwangsom opleggen. 
 
 ### Artikel  77i  
 
-1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens: 
+De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens: 
 
-a.de artikelen 4a, derde lid, 7, tweede lid,10, zesde en zevende lid, 9h,11a, tweede lid, 11b, derde lid, 12, eerste en tweede lid, 15, achtste lid 16, eerste lid, onderdelen g, k en l, en tweede lid, onderdeel g, 16Aa, derde en vierde lid, 16a, 17, vierde lid, 17a, derde en vierde lid, 18, derde lid, 19b, 19c, 19d, 19e, 21, negende lid, tweede volzin, 24, tweede lid, 24a, 26ae, twaalfde lid, 38, derde lid, 39, 42, derde lid, 68, tweede lid, 71,  78, tweede lid, 95b, tweede en achtste lid, 95e, 95k, 95l en 95o alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 8, 9 en 15 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking, en
+a.de artikelen 4a, derde lid,10, zesde en zevende lid, 9h,11a, tweede lid, 11b, derde lid, 12, eerste en tweede lid, 15, achtste lid 16, eerste lid, onderdelen g, k en l, en tweede lid, onderdeel g, 16Aa, derde en vierde lid, 16a, 17, vierde lid, 17a, derde en vierde lid, 18, derde lid, 19b, 19c, 19d, 19e, 21, negende lid, tweede volzin, 24, tweede lid, 24a, 26ae, twaalfde lid, 38, derde lid, 39, 42, derde lid, 68, tweede lid, 71,  78, tweede lid, 95b, tweede en achtste lid, 95e, 95k, 95l en 95o en de artikelen 8, 9 en 15 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder, en
 
-b.de artikelen 5a, derde lid, 10a, eerste en tweede lid, 10b, tweede tot en met vijfde lid, 11, eerste lid, 11a, derde lid, 11b, eerste en tweede lid, 16, eerste lid, onderdelen a tot en met f, h tot en met j, n, o en p, tweede lid, onderdelen a tot en met f, vierde lid en zesde lid, 16Aa, eerste en tweede lid, 17, eerste en tweede lid, 17a, eerste en tweede lid, 18, eerste lid, 18a, 19a, 20, derde lid, 21, 23, 24, eerste en derde lid, 26ab, 26ac, 26ad, eerste tot en met vierde lid, 26ae, eerste tot en met vierde lid, zesde, zevende en negende lid, 31, eerste lid, 31b, 36, 37, 43, 55, 56, tweede lid, 57, derde en vierde lid, 68, eerste lid, 79, 84, 86, eerste, tweede en vierde lid 86d, 86e, 93b, 95a, eerste lid, 95b, eerste en vijfde lid, 95ca, 95cb, eerste, tweede, vijfde en zesde lid, 95f, tweede lid en 95m en de artikelen 3, 4 en 5 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
-2.  Indien op grond van [artikel 5:1, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing is gegeven aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), bedraagt voor de daar bedoelde overtreder de bestuurlijke boete ten hoogste € 450 000.   
-3.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
-
-### Artikel  77o  
-
-1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt.   
-2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.  
-
-### Artikel  77q  
-
-Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete. 
+b.de artikelen 10a, eerste en tweede lid, 10b, tweede tot en met vijfde lid, 11, eerste lid, 11a, derde lid, 11b, eerste en tweede lid, 16, eerste lid, onderdelen a tot en met f, h tot en met j, n, o en p, tweede lid, onderdelen a tot en met f, vierde lid en zesde lid, 16Aa, eerste en tweede lid, 17, eerste en tweede lid, 17a, eerste en tweede lid, 18, eerste lid, 18a, 19a, 20, derde lid, 21, 23, 24, eerste en derde lid, 26ab, 26ac, 26ad, eerste tot en met vierde lid, 26ae, eerste tot en met vierde lid, zesde, zevende en negende lid, 31, eerste lid, 31b, 36, 37, 43, 55, 56, tweede lid, 57, derde en vierde lid, 68, eerste lid, 79, 84, 86, eerste, tweede en vierde lid 86d, 86e, 93b, 95a, eerste lid, 95b, eerste en vijfde lid, 95ca, 95cb, eerste, tweede, vijfde en zesde lid, 95f, tweede lid en 95m en de artikelen 3, 4 en 5 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder. 
 
 ### Hoofdstuk  6  
 
@@ -1673,7 +1659,7 @@ a.de voorzienings- en leveringszekerheid van elektriciteit;
 
 b.de marktordening en de marktwerking;
 
-c.mede gelet op de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md), het toezicht en de naleving.   
+c.mede gelet op de Mededingingswet, het toezicht en de naleving.   
 3.  De Autoriteit Consument en Markt is belast met de uitvoering van de evaluatie. 
 
 ### Artikel  81  
@@ -1686,7 +1672,7 @@ De voordracht voor een krachtens artikel 29, 30, 84 of 85 vast te stellen algeme
 
 ### Artikel  82  
 
-Een representatieve organisatie van partijen op de elektriciteitsmarkt wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.
+Een representatieve organisatie van partijen op de elektriciteitsmarkt wordt geacht belanghebbende te zijn bij een besluit, niet zijnde een beschikking, genomen op grond van deze wet.
 
 ### §  3  
 
@@ -1702,7 +1688,7 @@ Provinciale staten en de gemeenteraad zijn niet bevoegd het opwekken, het transp
 
 ### Artikel  84  
 
-Bij algemene maatregel van bestuur kunnen ter uitvoering van een besluit op grond van het verdrag tot oprichting van de Europese Gemeenschap regels worden gesteld met betrekking tot: 
+Bij algemene maatregel van bestuur kunnen ter uitvoering van een besluit op grond van het Verdrag betreffende de werking van de Europese Unie regels worden gesteld met betrekking tot: 
 
 a. de tarieven en voorwaarden die interconnector-beheerders berekenen onderscheidenlijk in acht nemen bij het uitvoeren van transport van elektriciteit met behulp van een landsgrensoverschrijdend net;   
 
@@ -1715,8 +1701,7 @@ b. de voorwaarden die door een netbeheerder of een leverancier in het belang van
 ### Artikel  85  
 
 1.  Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een door Onze Minister vast te stellen vergoeding verschuldigd voor het verlenen van instemming als bedoeld in artikel 12, tweede lid, van een aanwijzing als bedoeld in artikel 13, van een ontheffing als bedoeld in artikel 86c, dan wel van een vergunning als bedoeld in artikel 95d, welke vergoeding verschuldigd is voor ten hoogste de kosten van de bemoeiingen met betrekking tot de instemming, de aanwijzing, de ontheffing dan wel de vergunning.   
-2.  Overeenkomstig de regels, bedoeld in het eerste lid, kunnen aan netbeheerders en vergunninghouders tevens de kosten in rekening worden gebracht die gemaakt worden voor de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld in de artikelen 22 en 27 tot en met 43.    
-3.  Onze Minister kan het verschuldigde bedrag invorderen bij dwangbevel. Ten aanzien van de in het eerste lid bedoelde vergoedingen is, voor zover al niet van toepassing, [titel 4.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 4:85](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:95, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+2.  Onze Minister kan het verschuldigde bedrag invorderen bij dwangbevel. Ten aanzien van de in het eerste lid bedoelde vergoedingen is, voor zover al niet van toepassing, titel 4.4, met uitzondering van de artikelen 4:85 en 4:95, van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### §  6  
 
@@ -1789,7 +1774,7 @@ b. de informatie die producenten, handelaren, leveranciers of netbeheerders vers
 
 ### Artikel  86f  
 
-1.  Iedere wijziging met betrekking tot zeggenschap als bedoeld in [artikel 26 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) in een productie-installatie met een nominaal elektrisch vermogen van meer dan 250 MW of een onderneming die een productie-installatie met een nominaal elektrisch vermogen van meer dan 250 MW beheert, wordt door één van de bij deze wijziging betrokken partijen gemeld aan Onze Minister.   
+1.  Iedere wijziging met betrekking tot zeggenschap als bedoeld in artikel 26 van de Mededingingswet in een productie-installatie met een nominaal elektrisch vermogen van meer dan 250 MW of een onderneming die een productie-installatie met een nominaal elektrisch vermogen van meer dan 250 MW beheert, wordt door één van de bij deze wijziging betrokken partijen gemeld aan Onze Minister.   
 2.  Onze Minister kan op grond van overwegingen van openbare veiligheid, voorzieningszekerheid of leveringszekerheid de wijziging, bedoeld in het eerste lid, verbieden of voorschriften hieraan verbinden.   
 3.  Rechtshandelingen verricht in strijd met het eerste lid zijn door een rechterlijke uitspraak vernietigbaar.   
 4.  Bij ministeriële regeling worden regels gesteld met betrekking tot de melding, bedoeld in het eerste lid.  
@@ -1877,7 +1862,7 @@ a. indien de elektriciteit is opgewekt met een installatie die voor rekening en 
 
 b. door een buiten Nederland gevestigde leverancier van elektriciteit aan ten hoogste 500 afnemers, bedoeld in het eerste lid, die wonen in gebieden aan de Nederlandse landsgrens;  
 
-c. indien de afnemer aan dezelfde rechtspersoon toebehoort als de producent die de elektriciteit heeft opgewekt dan wel een dochtermaatschappij daarvan in de zin van [artikel 24a van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de afnemer de geleverde elektriciteit verbruikt, of  
+c. indien de afnemer aan dezelfde rechtspersoon toebehoort als de producent die de elektriciteit heeft opgewekt dan wel een dochtermaatschappij daarvan in de zin van artikel 24a van Boek 2 van het Burgerlijk Wetboek en de afnemer de geleverde elektriciteit verbruikt, of  
 
 d. indien de elektriciteit anders dan bedrijfsmatig wordt geleverd overeenkomstig bij ministeriële regeling te stellen regels; 
 
@@ -1912,7 +1897,7 @@ a. een rechtspersoon of een natuurlijke persoon die handelt in de uitoefening va
 
 b. behalve één of meer aansluitingen met een doorlaatwaarde kleiner dan of gelijk aan 3 * 80 A ten minste één aansluiting heeft met een doorlaatwaarde groter dan 3 * 80 A, gecollecteerd, gevalideerd en vastgesteld door het meetbedrijf dat die rechtspersoon of natuurlijke persoon daartoe inschakelt.     
 3.  Indien een leverancier voor de levering van elektriciteit aan afnemers als bedoeld in artikel 95a, eerste lid, factureert op basis van meetgegevens, maakt hij gebruik van meetgegevens die het meetbedrijf heeft gecollecteerd, gevalideerd en vastgesteld.   
-4.  Een meetbedrijf verstrekt slechts meetgegevens aan anderen dan de betrokken afnemer als bedoeld in artikel 95a, eerste lid, of de betrokken leverancier indien die ander de desbetreffende meetgegevens op basis van [artikel 8 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) mag verwerken.  
+4.  Een meetbedrijf verstrekt slechts meetgegevens aan anderen dan de betrokken afnemer als bedoeld in artikel 95a, eerste lid, of de betrokken leverancier indien die ander de desbetreffende meetgegevens op basis van artikel 8 van de Wet bescherming persoonsgegevens mag verwerken.  
 
 ### Artikel  95cb  
 
@@ -1985,7 +1970,7 @@ b. op of bij de rekening, de opwekkingsgegevens van de door hem in de periode wa
 c. elk kalenderjaar de opwekkingsgegevens van de door hem in het voorgaande kalenderjaar aan zijn eindafnemers geleverde elektriciteit op zijn website voor eindafnemers.     
 2.  Een producent of een handelaar meldt uiterlijk twee maanden na 1 januari van elk kalenderjaar, aan de leverancier de opwekkingsgegevens van de in het voorgaande kalenderjaar door hem geproduceerde of verhandelde elektriciteit.   
 3.  De betrouwbaarheid van de opwekkingsgegevens van de elektriciteit waarvoor certificaten, garanties van oorsprong voor duurzame elektriciteit of garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling worden verstrekt, wordt door middel van die certificaten, garanties van oorsprong voor duurzame elektriciteit of garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling gewaarborgd.   
-4.  Indien de producent, handelaar of leverancier onderdeel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), worden tevens de opwekkingsgegevens van de groep als geheel vermeld op of bij de rekening aan de eindafnemer, alsmede op aan de eindafnemer geadresseerd promotiemateriaal.   
+4.  Indien de producent, handelaar of leverancier onderdeel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, worden tevens de opwekkingsgegevens van de groep als geheel vermeld op of bij de rekening aan de eindafnemer, alsmede op aan de eindafnemer geadresseerd promotiemateriaal.   
 5.  Onze Minister kan nadere regels stellen met betrekking tot: 
 
 a.de opwekkingsgegevens die de leverancier vermeldt op of bij de rekening aan de eindafnemer, en de wijze waarop deze gegevens worden weergegeven;

@@ -2715,18 +2715,18 @@ Ten aanzien van Guinee geldt geen besluit in de zin van artikel 45, vierde lid, 
 Geen bijzonderheden.    
 ### 13  
 
-####Het asielbeleid ten aanzien van Irak 
+####Het asielbeleid ten aanzien van Irak
 
 ### 13.1  
 
-####Besluitmoratorium 
+####Besluitmoratorium
 
-Ten aanzien van Irak geldt geen besluit in de zin van artikel 43, aanhef en onder a, Vw.   
+Ten aanzien van Irak geldt een besluit in de zin van artikel 43, aanhef en onder a, Vw voor vreemdelingen afkomstig uit de provincies Bagdad, Anbar, Ninewa, Salaheddin, Ta’mim (Kirkuk), Diyala en Babil.   
 ### 13.2  
 
-####Artikel 1F Vluchtelingenverdrag 
+####Artikel 1F Vluchtelingenverdrag
 
-De IND neemt in ieder geval ten aanzien van de volgende categorieën vreemdelingen “personal and knowing participation” in de zin van paragraaf C2/6.2.8 Vc aan: 
+De IND neemt in ieder geval ten aanzien van de volgende categorieën vreemdelingen ‘personal and knowing participation’ in de zin van paragraaf C2/6.2.8 Vc aan: 
 
 * hoofden van de volgende inlichtingen- en veiligheidsdiensten: 
 
@@ -2743,25 +2743,25 @@ e. de Militaire Veiligheidsdienst;
 * officieren van de Speciale Veiligheidsdienst.     
 ### 13.3  
 
-####Vervolging in de zin van het Vluchtelingenverdrag 
+####Vervolging in de zin van het Vluchtelingenverdrag
 
 ### 13.3.1  
 
-####Groepsvervolging in de zin van paragraaf C2/3.2  Vc 
+####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
 De IND beschouwt Iraakse vreemdelingen met een homoseksuele of biseksuele geaardheid en transgenders (verder: LHBT’s) als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag.  
 ### 13.3.2  
 
-####Risicogroepen in de zin van paragraaf C2/3.2  Vc 
+####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
 De IND heeft met betrekking tot Irak geen risicogroepen aangewezen.   
 ### 13.4  
 
-####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM 
+####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 ### 13.4.1  
 
-####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc 
+####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
 In Irak is geen gebied waar sprake is van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.  
 ### 13.4.2  
@@ -2806,7 +2806,7 @@ De IND beschouwt de gezinsband in elk geval als verbroken, indien:
 * de Iraakse vrouw zelfstandig is gaan wonen.     
 ### 13.5  
 
-####Bescherming 
+####Bescherming
 
 ### 13.5.1  
 
@@ -2822,16 +2822,16 @@ De IND beoordeelt bij elke vreemdeling individueel, met inachtneming van de voor
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van paragraaf B8/6 Vc wordt beoordeeld of adequate opvang voor amv’s aanwezig is. Voor Irak geldt in ieder geval dat: 
+Aan de hand van paragraaf B8/6 Vc wordt beoordeeld of adequate opvang voor amv’s aanwezig is. Voor Irak geldt in ieder geval dat:
 
 * algemene opvangvoorzieningen niet beschikbaar en/of toereikend zijn; en  
 
-* de autoriteiten geen zorg dragen voor de opvang.      
+* de autoriteiten geen zorg dragen voor de opvang.     
 ### 13.7  
 
 ####Vertrekmoratorium
 
-Ten aanzien van Irak geldt geen besluit in de zin van artikel 45, vierde lid, Vw.   
+Ten aanzien van Irak geldt een besluit in de zin van artikel 45, vierde lid, Vw voor vreemdelingen afkomstig uit de provincies Bagdad, Anbar, Ninewa, Salaheddin, Ta’mim (Kirkuk), Diyala en Babil.   
 ### 13.8  
 
 ####Bijzonderheden

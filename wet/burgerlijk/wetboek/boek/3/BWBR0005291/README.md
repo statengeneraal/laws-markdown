@@ -1528,6 +1528,13 @@ Is een zaak aan hypotheek onderworpen en heeft de hypotheekgever hieraan na de v
 
 In de hypotheekakte kan worden bedongen dat de hypotheekhouder bevoegd is om het verhypothekeerde goed in beheer te nemen, indien de hypotheekgever in zijn verplichtingen jegens hem in ernstige mate te kort schiet en de voorzieningenrechter van de rechtbank hem machtiging verleent. Eveneens kan in de akte worden bedongen dat de hypotheekhouder bevoegd is de aan de hypotheek onderworpen zaak onder zich te nemen, indien zulks met het oog op de executie vereist is. Zonder uitdrukkelijke bedingen mist de hypotheekhouder deze bevoegdheden.  
 
+### Artikel  267a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De hypotheekgever, alsmede eenieder die een tot bewoning bestemde onroerende zaak gebruikt, is verplicht te dulden dat aan de zaak de gebruikelijke kennisgevingen van het te koop zijn worden aangebracht, en aan belangstellenden gelegenheid te geven tot bezichtiging.   
+2.  De in lid 1 bedoelde verplichtingen gelden vanaf het moment van aanzegging van de executie, als bedoeld in artikel 544 van het Wetboek van Burgerlijke Rechtsvordering. 
+3. De hypotheekhouder kan ingeval van weigering de bezichtiging doen plaatsvinden met behulp van de sterke arm.
+
 ### Artikel  268  
 
 1.  Indien de schuldenaar in verzuim is met de voldoening van hetgeen waarvoor de hypotheek tot waarborg strekt, is de hypotheekhouder bevoegd het verbonden goed in het openbaar ten overstaan van een bevoegde notaris te doen verkopen.    
@@ -1775,18 +1782,16 @@ De in de voorgaande artikelen van deze titel aan de rechter toegekende bevoegdhe
 
 ###Artikel 305d 
 
-1. Het gerechtshof Den Haag kan op verzoek van:
+1.  Het gerechtshof Den Haag kan op verzoek van een stichting of vereniging met volledige rechtsbevoegdheid, die krachtens haar statuten tot taak heeft de bescherming van gelijksoortige belangen van andere personen: 
 
-a.de Autoriteit Consument en Markt;
+a. bevelen dat degene die een overtreding pleegt van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij de Wet handhaving consumentenbescherming, die overtreding staakt;  
 
-b.de Stichting Autoriteit Financiële Markten, of
+b. bevelen dat een gedragscode die een handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert door de houder van die gedragscode, bedoeld in artikel 193a, onder i, van Boek 6, wordt aangepast;  
 
-c.een stichting of vereniging met volledige rechtsbevoegdheid, die krachtens haar statuten tot taak heeft de bescherming van gelijksoortige belangen van andere personen,bevelen dat degene die een overtreding als bedoeld in artikel 1.1 onder k van de Wet handhaving consumentenbescherming pleegt van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij de Wet handhaving consumentenbescherming, die overtreding staakt.
-2. Het gerechtshof kan eveneens op hun verzoek bevelen dat een gedragscode die een handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert door de houder van die gedragscode, bedoeld in artikel 193a, onder i, van Boek 6, wordt aangepast.
-3. Het gerechtshof kan voorts worden verzocht degene die de overtreding pleegt, dan wel de houder van de gedragscode die het handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert, te veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, bedoeld in de leden 1 en 2. Indien er sprake is van een misleidende handelspraktijk als bedoeld in de artikelen 193c tot en met 193g van Boek 6, kan het gerechtshof op verzoek de handelaar tevens veroordelen tot rectificatie van de informatie. De openbaarmaking of rectificatie geschiedt op een door het gerechtshof te bepalen wijze en op kosten van de door het gerechtshof aan te geven partij of partijen.
-4. Artikel 305a lid 2 is van overeenkomstige toepassing, indien een stichting of een vereniging met volledige rechtsbevoegdheid die krachtens haar statuten tot taak heeft het behartigen van de collectieve belangen van personen, een verzoek indient als bedoeld in de leden 1, 2 en 3.
-5. Het gerechtshof behandelt het verzoek onverwijld.
-6. Geschillen ter zake van de tenuitvoerlegging van de in de leden 1, 2 en 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
+c. de houder van de gedragscode die het handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert, veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, bedoeld in de onderdelen a en b. Indien er sprake is van een misleidende handelspraktijk als bedoeld in de artikelen 193c tot en met 193g van Boek 6, kan het gerechtshof op verzoek van de handelaar tevens veroordelen tot rectificatie van de informatie. De openbaarmaking of rectificatie geschiedt op een door het gerechtshof te bepalen wijze en op kosten van de door het gerechtshof aan te geven partij of partijen.     
+2.  Artikel 305a lid 2 is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.   
+3.  Het gerechtshof behandelt het verzoek onverwijld.   
+4.  Geschillen ter zake van de tenuitvoerlegging van de in lid 1 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist. 
 
 ### Artikel  306  
 

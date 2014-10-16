@@ -565,6 +565,11 @@ Indien op het tijdstip van het in werking treden van de wet sinds de overschrijv
 
 Artikel 1229 van het Burgerlijk Wetboek, zoals dat vóór het tijdstip van het in werking treden van de wet gold, blijft van toepassing op bedongen rente over een vordering tot zekerheid waarvan vóór dat tijdstip hypotheek was gevestigd. 
 
+### Artikel  114a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De artikelen 264, 267, 267a en 268, zoals gewijzigd of ingevoerd bij de Wet van 1 oktober 2014 (Stb. 2014, 352), zijn niet van toepassing op de executie van een registergoed, een aandeel daarin of een beperkt recht daarop, waarvan de aanzegging overeenkomstig artikel 544 van het Wetboek van Burgerlijke Rechtsvordering heeft plaatsgevonden voor de inwerkingtreding van deze wet. 
+
 ### Artikel  115  
 
 1.  Op een beding als bedoeld in het tevoren geldende artikel 1230 van het Burgerlijk Wetboek dat vóór het tijdstip van het in werking treden van de wet is gemaakt, zijn de leden 4-8 van artikel 264 van Boek 3 gedurende een termijn van drie jaren niet van toepassing.   

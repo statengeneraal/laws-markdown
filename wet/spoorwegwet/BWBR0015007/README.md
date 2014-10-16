@@ -931,7 +931,7 @@ b. de gebruiksvergoeding.
 ### Artikel  63  
 
 1.  Onderhandelingen tussen een gerechtigde en de beheerder betreffende de hoogte van de gebruiksvergoeding zijn niet toegestaan dan na een melding aan en onder toezicht van de Autoriteit Consument en Markt.   
-2.  De Autoriteit Consument en Markt legt, indien de onderhandelingen naar haar oordeel in strijd zijn met richtlijn 2001/14/EG, aan de overtreder zo nodig een last onder dwangsom op. Aan de last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt. De artikelen 54a, 62 en 65 van de Mededingingswet zijn van overeenkomstige toepassing.  
+2.  De Autoriteit Consument en Markt legt, indien de onderhandelingen naar haar oordeel in strijd zijn met richtlijn 2001/14/EG, aan de overtreder zo nodig een last onder dwangsom op.  
 
 ### §  7  
 
@@ -1012,13 +1012,7 @@ b. voor de dienst of voorziening een afzonderlijke boekhouding voert en deze ter
 ### Artikel  70  
 
 1.  De Autoriteit Consument en Markt is de toezichthoudende instantie, bedoeld in artikel 10, zevende lid, van richtlijn 91/440/EEG en de artikelen 30 en 31 van richtlijn 2001/14/EG.   
-2.  De bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van deze autoriteit zijn belast met: 
-
-a. voor de toepassing van het eerste lid: het toezicht op de naleving van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, en het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 63, 67, 68 en 95, eerste volzin;  
-
-b. voor de toepassing van het eerste lid en artikel 71: het onderzoek, bedoeld in artikel 1 van de Mededingingswet.     
-3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-4.  Op het tweede lid, onderdeel a, is artikel 51 van de Mededingingswet van toepassing. Op het tweede lid, onderdeel b, zijn de artikelen 52, tweede lid, en 53 tot en met 55 van de Mededingingswet van overeenkomstige toepassing.  
+2.  De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde krachtens artikel 17, eerste lid, onderdeel d, en het bepaalde bij of krachtens de artikelen 27, eerste lid, 57 tot en met 63, 67, 68 en 95, eerste volzin.  
 
 ### Artikel  71  
 
@@ -1026,12 +1020,7 @@ b. voor de toepassing van het eerste lid en artikel 71: het onderzoek, bedoeld i
 2.  Een partij bij een toegangsovereenkomst of een kaderovereenkomst als bedoeld in hoofdstuk 4 kan de Autoriteit Consument en Markt schriftelijk verzoeken om een oordeel over het gedrag van de wederpartij.   
 3.  De Autoriteit Consument en Markt geeft haar oordeel over de klacht uiterlijk twee maanden na ontvangst van de gegevens en bescheiden die voor haar oordeel nodig zijn.   
 4.  Indien de Autoriteit Consument en Markt van oordeel is dat de klacht gegrond is, legt zij zo nodig een last onder dwangsom op.   
-5.  Aan een last als bedoeld in het vierde lid kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt. De artikelen 54a en 65 van de Mededingingswet zijn van overeenkomstige toepassing.   
-6.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot ten behoeve van het onderzoek te verstrekken gegevens en bescheiden, alsmede met betrekking tot de termijnen voor het verstrekken van de gegevens en bescheiden.  
-
-### Artikel  72  
-
-Onze Minister kan desgevraagd aan de Autoriteit Consument en Markt de voor de uitoefening van diens taak benodigde gegevens of inlichtingen verstrekken.
+5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot ten behoeve van het onderzoek te verstrekken gegevens en bescheiden, alsmede met betrekking tot de termijnen voor het verstrekken van de gegevens en bescheiden.  
 
 ### Artikel  74  
 
@@ -1041,10 +1030,6 @@ Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de 
 
 ####Bestuursrechtelijke handhaving
 
-### Artikel  75  
-
-De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel 70, tweede lid, aangewezen ambtenaar in strijd handelt met artikel 5:20 van de Algemene wet bestuursrecht, een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien het een onderneming of ondernemingsvereniging als bedoeld in artikel 1 van de Mededingingswet betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking. De artikelen 69, tweede lid, 70, 75a, 77, 80 en 82 van de Mededingingswet zijn van overeenkomstige toepassing. 
-
 ### Artikel  76  
 
 1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen met uitzondering van de verplichtingen als bedoeld in het tweede lid.   
@@ -1052,9 +1037,7 @@ De Autoriteit Consument en Markt kan aan degene die jegens een krachtens artikel
 
 a. een bestuurlijke boete opleggen;  
 
-b. een last onder dwangsom opleggen.     
-3.  Op het tweede lid zijn de artikelen 54a, 57, 58, 59a, 62 en 64 tot en met 68 van de Mededingingswet van overeenkomstige toepassing.  
-4. Artikel 70b van de Mededingingswet is van overeenkomstige toepassing.
+b. een last onder dwangsom opleggen.    
 
 ### Artikel  77  
 

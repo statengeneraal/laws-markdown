@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een kentekenregistratiesysteem voor bromfietsen in te voeren en in verband daarmee de [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en enkele andere wetten te wijzigen alsmede overgangsbepalingen terzake vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een kentekenregistratiesysteem voor bromfietsen in te voeren en in verband daarmee de Wegenverkeerswet 1994 en enkele andere wetten te wijzigen alsmede overgangsbepalingen terzake vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:  
 
 ###Artikel I 

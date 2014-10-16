@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling te treffen voor de schadeloosstelling en onkostenvergoedingen van de leden van de Tweede Kamer der Staten-Generaal en in verband daarmee de [Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement](../../../../../../../wet/wet/schadeloosstelling/uitkering/en/pensioen/leden/europees/parlement/BWBR0003251/README.md) (*Stb.* 1979, 379) te wijzigen:
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling te treffen voor de schadeloosstelling en onkostenvergoedingen van de leden van de Tweede Kamer der Staten-Generaal en in verband daarmee de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement (*Stb.* 1979, 379) te wijzigen:
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### §  1:  
 
@@ -28,7 +28,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - fractievoorzitter: kamerlid waarvan door de voorzitter is vastgesteld dat dat lid voorzitter is van een fractie, dan wel enig lid is van een fractie.     
 2.   Deze wet is niet van toepassing op kamerleden die het ambt van minister of staatssecretaris bekleden. 
-3. De artikelen 2 tot en met 6 van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte. 
+3. De artikelen 2 tot en met 6 van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte. 
 
 ### §  2:  
 
@@ -53,12 +53,12 @@ De kamerleden ontvangen een eindejaarsuitkering overeenkomstig de bepalingen wel
 1.  De schadeloosstelling wordt verminderd met de helft van het bedrag waarmee de neveninkomsten van het kamerlid per jaar een bedrag gelijk aan 14% van de schadeloosstelling te boven gaan, met dien verstande dat deze vermindering ten hoogste 35% van de schadeloosstelling bedraagt. Indien het kamerlid een gedeelte van het kalenderjaar lid van de Kamer is, gelden de bedragen naar evenredigheid.    
 2.   Onder neveninkomsten wordt verstaan het gezamenlijke bedrag dat het kamerlid wegens het verrichten van nevenactiviteiten tijdens het lidmaatschap geniet als:  
 
-a. winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. winst uit een of meer ondernemingen, bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001;  
 
 b. belastbaar loon uit tegenwoordige arbeid en  
 
-c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [3.92 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
-3.  De neveninkomsten worden bepaald overeenkomstig de regels van de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en worden verrekend in het jaar waarin deze zijn genoten in de zin van die [wet](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met dien verstande dat geen verrekening meer plaats heeft, indien de neveninkomsten worden genoten na 31 december van het jaar waarin het lidmaatschap wordt beëindigd.  
+c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001.     
+3.  De neveninkomsten worden bepaald overeenkomstig de regels van de Wet inkomstenbelasting 2001 en worden verrekend in het jaar waarin deze zijn genoten in de zin van die wet, met dien verstande dat geen verrekening meer plaats heeft, indien de neveninkomsten worden genoten na 31 december van het jaar waarin het lidmaatschap wordt beëindigd.  
 
 ### Artikel  3a  
 
@@ -80,12 +80,12 @@ c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een w
 ### Artikel  5  
 
 1.  De kamerleden maken hun nevenfuncties en de inkomsten uit hun nevenfuncties openbaar. Zij leggen uiterlijk op 1 april na het kalenderjaar waarin de nevenfuncties zijn vervuld en de inkomsten zijn genoten een opgave ter inzage bij de griffie van de Tweede Kamer der Staten-Generaal.   
-2.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+2.  Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen bedoeld in artikel 31 van die wet.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op de in Nederland gekozen vertegenwoordigers in de Vergadering bestaande uit de vertegenwoordigers van de volkeren van de in de Europese Gemeenschappen verenigde staten. 
 
 ###Artikel 6a 
 
-1. Het kamerlid dat ingevolge [artikel X 12 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) is benoemd in de plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid wegens zwangerschap en bevalling of ziekte, ontvangt een bedrag van € 590 per maand waarmee voorzieningen kunnen worden getroffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden. 
+1. Het kamerlid dat ingevolge artikel X 12 van de Kieswet is benoemd in de plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid wegens zwangerschap en bevalling of ziekte, ontvangt een bedrag van € 590 per maand waarmee voorzieningen kunnen worden getroffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden. 
 2. Het bedrag, genoemd in het eerste lid, wordt bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in artikel 2, ondergaat.
 
 ### §  3  
@@ -111,17 +111,17 @@ c. belastbaar resultaat uit overige werkzaamheden, behoudens voorzover het een w
 75 km.55 * bedrag A + 85 * bedrag B  
 
 150 km. en meer:140 * bedrag B   waarbij bedrag A gelijk is aan de som van de voor dienstreizen van het burgerlijk rijkspersoneel vastgestelde bedragen voor vergoeding wegens verblijfkosten van een lunch en een avondmaaltijd en voor kleine uitgaven overdag en ’s avonds en bedrag B gelijk is aan de som van de voor dienstreizen van het burgerlijk rijkspersoneel vastgestelde bedragen voor vergoeding wegens verblijfkosten van de maaltijden en het logies en voor kleine uitgaven overdag en ’s avonds. De vergoeding behorend bij afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven vergoedingen bij de naast hogere en naast lagere afstand. Het bedrag van de vergoeding wordt afgerond op hele euro's. 
-3. Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte heeft aanspraak op een vergoeding van € 500,– per maand indien de afstand van de woonplaats van het kamerlid of het door het kamerlid bewoonde deel van de woonplaats tot het gebouw van de Tweede Kamer der Staten-Generaal groter is dan 75 km en hij voor de uitoefening van het kamerlidmaatschap beschikt over huisvesting voor verblijf in of nabij ’s-Gravenhage. 
+3. Het kamerlid aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte heeft aanspraak op een vergoeding van € 500,– per maand indien de afstand van de woonplaats van het kamerlid of het door het kamerlid bewoonde deel van de woonplaats tot het gebouw van de Tweede Kamer der Staten-Generaal groter is dan 75 km en hij voor de uitoefening van het kamerlidmaatschap beschikt over huisvesting voor verblijf in of nabij ’s-Gravenhage. 
 
 ### Artikel  9  
 
 1. De kamerleden ontvangen een vergoeding voor aan de uitoefening van het kamerlidmaatschap verbonden kosten die € 2.628,59 per jaar bedraagt.  
-2. Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. 
+2. Het kamerlid aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. 
 3.  Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.  
 
 ### Artikel  10  
 
-Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van [die wet](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) als dienstbetrekking wordt aangemerkt, worden als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangewezen: 
+Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964 voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, worden als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 aangewezen: 
 
 a. het bedrag, bedoeld in artikel 7, tweede lid;  
 
@@ -154,7 +154,7 @@ b. de duur van het fractievoorzitterschap.
 2.  De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.   
 3.  Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.   
 4.  De prijs per kilometer wordt berekend aan de hand van de formule (((n / (l/12)) + o + f + g + h + p) / m) + i, waarin: n = (((a-c)/1,19) + (b/1,19) + c) – (d/1,19) afschrijving over looptijd (inclusief belasting van personenauto's en motorrijwielen en exclusief belasting over de toegevoegde waarde (omzetbelasting)); o = ((d/1,19) x e) + ((n/2) x e) rente per jaar; p = ((k/1,19) x (m/100) x j) brandstofkosten per jaar; en: a = consumentenprijs inclusief accessoires af fabriek (inclusief belasting van personenauto's en motorrijwielen en belasting over de toegevoegde waarde (omzetbelasting)); b = consumentenprijs van accessoires achteraf en/of door derden (inclusief belasting over de toegevoegde waarde (omzetbelasting)); c = totale belasting van personenauto's en motorrijwielen; d = totale marktconforme restwaarde inclusief belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen; e = rentetarief in procenten; f = administratiekosten inclusief management fee per jaar doch exclusief belasting over de toegevoegde waarde (omzetbelasting) (of interne kosten ingeval niet wordt uitbesteed); g = houderschapsbelasting per jaar; h = het in het kader van het omslagstelsel door het Bureau Schade Afwikkeling vastgestelde bedrag; i = prijs van reparatie, onderhoud en banden exclusief belasting over de toegevoegde waarde (omzetbelasting); j = brandstofverbruik in liters per 100 kilometer; k = tarief bij brandstofsoort inclusief belasting over de toegevoegde waarde (omzetbelasting); l = looptijd in maanden; m = jaarkilometrage.   
-5.  De dienstauto, bedoeld in het eerste lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.  
+5.  De dienstauto, bedoeld in het eerste lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet. Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.  
 
 ### §  5:  
 
@@ -172,7 +172,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### §  7:  
 
-####Wijziging [Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) 
+####Wijziging Algemene pensioenwet politieke ambtsdragers 
 
 ### Artikel  17  
 
@@ -189,7 +189,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  19  
 
-De Wet van 28 december 1989, houdende voorzieningen ten behoeve van de leden van de Tweede Kamer der Staten-Generaal en belanghebbenden in de zin van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) in verband met de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting (*Stb.* 1989, 591) wordt ingetrokken. 
+De Wet van 28 december 1989, houdende voorzieningen ten behoeve van de leden van de Tweede Kamer der Staten-Generaal en belanghebbenden in de zin van de Algemene pensioenwet politieke ambtsdragers in verband met de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting (*Stb.* 1989, 591) wordt ingetrokken. 
 
 ### Artikel  19a  
 
@@ -197,9 +197,9 @@ Onder neveninkomsten als bedoeld in artikel 3, tweede lid, wordt met betrekking 
 
 ### Artikel  20  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
-a. worden de bedragen, bedoeld in artikel 7, tweede lid, artikel 8, eerste lid, en artikel 9, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. worden de bedragen, bedoeld in artikel 7, tweede lid, artikel 8, eerste lid, en artikel 9, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001;  
 
 b. blijft artikel 10 buiten toepassing.  
 

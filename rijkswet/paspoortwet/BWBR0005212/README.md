@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat in verband met het recht het land te verlaten, zoals neergelegd in voor het Koninkrijk geldende verdragen, in verband met [artikel 2, vierde lid, van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md) en gelet op [artikel 3, eerste lid, onder *b*, van het Statuut voor het Koninkrijk der Nederlanden](../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md), bij rijkswet regelen dienen te worden gesteld met betrekking tot de aanspraken op paspoorten en andere reisdocumenten en de beperkingen van deze aanspraken;
+Alzo Wij in overweging genomen hebben, dat in verband met het recht het land te verlaten, zoals neergelegd in voor het Koninkrijk geldende verdragen, in verband met artikel 2, vierde lid, van de Grondwet en gelet op artikel 3, eerste lid, onder *b*, van het Statuut voor het Koninkrijk der Nederlanden, bij rijkswet regelen dienen te worden gesteld met betrekking tot de aanspraken op paspoorten en andere reisdocumenten en de beperkingen van deze aanspraken;
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -71,7 +71,7 @@ g. andere reisdocumenten, door Onze Minister vast te stellen.
 1.  Elk reisdocument vermeldt de volgende persoonsgegevens van de houder: geslachtsnaam, voornamen, geboortedatum, geboorteplaats, geslacht, woonplaats, adres en lengte. Onze Minister kan bepalen in welke gevallen kan worden afgezien van vermelding van respectievelijk geboorteplaats, woonplaats, adres en lengte.   
 2.  Een reisdocument is voorzien van de gezichtsopname, twee vingerafdrukken en de handtekening van de houder volgens nader bij regeling van Onze Minister te stellen regels. De Nederlandse identiteitskaart is niet voorzien van vingerafdrukken.   
 3.  Bij algemene maatregel van rijksbestuur kunnen reisdocumenten worden aangewezen die niet worden voorzien van een of meer van de in het tweede lid genoemde gegevens en kunnen regels worden gesteld over de gevallen waarin kan worden afgezien van het opnemen van de gezichtsopname, vingerafdrukken of de handtekening in het aangevraagde reisdocument indien deze gegevens niet van de houder kunnen worden verkregen.   
-4.  In bij ministeriële regeling te bepalen gevallen wordt in een reisdocument het burgerservicenummer van de houder, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), vermeld.   
+4.  In bij ministeriële regeling te bepalen gevallen wordt in een reisdocument het burgerservicenummer van de houder, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, vermeld.   
 5.   Elk reisdocument vermeldt het documentnummer, de autoriteit die het document heeft verstrekt, de datum van verstrekking en het einde van de geldigheidsduur, alsmede de territoriale geldigheid. De territoriale geldigheid wordt niet vermeld in een Nederlandse identiteitskaart.   
 6.   In reisdocumenten die aan Nederlanders worden verstrekt, wordt de Nederlandse nationaliteit vermeld. In reisdocumenten voor vluchtelingen en in reisdocumenten die aan staatlozen worden verstrekt, wordt de status van de houder vermeld.   
 7.  Op verzoek van de houder kan in diens reisdocument tevens de geslachtsnaam worden vermeld van de echtgenoot, echtgenote of geregistreerde partner, dan wel, indien de houder geen echtgenoot, echtgenote of geregistreerde partner meer heeft, de geslachtsnaam van de gewezen echtgenoot, echtgenote of geregistreerde partner met wie het huwelijk of het geregistreerd partnerschap laatstelijk is geëindigd, voor zover het model van het reisdocument daartoe voldoende ruimte bevat. Onze Minister stelt nadere regels met betrekking tot de wijze waarop de naamsvermelding plaatsvindt.   
@@ -151,8 +151,8 @@ b. de door de aanvrager aan het Rijk verschuldigde rechten en de wijze waarop de
 c. de gevallen waarin van de plicht tot betaling van de kosten, bedoeld in onderdeel a, onderscheidenlijk van de rechten bedoeld in onderdeel b, geheel of gedeeltelijk ontheffing kan worden verleend.     
 2.  Voor het verrichten van handelingen door de burgemeester van een gemeente of de gezaghebber van een openbaar lichaam ten behoeve van de aanvraag van een reisdocument kunnen rechten worden geheven. Voor die handelingen kunnen geen andere dan deze rechten worden geheven. Het tarief van de rechten kan verschillen al naar gelang de leeftijd van de aanvrager, het feit of deze in de gemeentelijke basisadministratie persoonsgegevens als ingezetene is ingeschreven, de soort en de geldigheidsduur van het reisdocument en de snelheid van de uitreiking.   
 3.   Bij algemene maatregel van rijksbestuur kan met betrekking tot een in Nederland aangevraagd reisdocument worden bepaald dat de door de burger bij de aanvraag aan het Rijk, een gemeente of een openbaar lichaam verschuldigde rechten of leges een in die algemene maatregel van rijksbestuur te bepalen bedrag niet te boven gaan.   
-4.  Indien de aanvraag wordt gedaan bij de burgemeester van een gemeente worden de in het tweede lid bedoelde rechten aangemerkt als gemeentelijke belastingen. [Hoofdstuk XV, paragraaf 1](../../../wet/gemeentewet/BWBR0005416/README.md) en [4, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) is van toepassing. De [artikelen 229b](../../../wet/gemeentewet/BWBR0005416/README.md) en [229c van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) zijn van overeenkomstige toepassing.   
-5.  Indien de aanvraag wordt gedaan bij de gezaghebber van een openbaar lichaam worden de in het tweede lid bedoelde rechten aangemerkt als eilandbelastingen. [Hoofdstuk IV, paragraaf 1](../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) en [4, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) is van toepassing. De [artikelen 64](../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) en [65 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) zijn van overeenkomstige toepassing. 
+4.  Indien de aanvraag wordt gedaan bij de burgemeester van een gemeente worden de in het tweede lid bedoelde rechten aangemerkt als gemeentelijke belastingen. Hoofdstuk XV, paragraaf 1 en 4, van de Gemeentewet is van toepassing. De artikelen 229b en 229c van de Gemeentewet zijn van overeenkomstige toepassing.   
+5.  Indien de aanvraag wordt gedaan bij de gezaghebber van een openbaar lichaam worden de in het tweede lid bedoelde rechten aangemerkt als eilandbelastingen. Hoofdstuk IV, paragraaf 1 en 4, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba is van toepassing. De artikelen 64 en 65 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba zijn van overeenkomstige toepassing. 
 
 ### Artikel  8  
 
@@ -181,8 +181,8 @@ Aan Nederlanders die zich ten behoeve van het Koninkrijk of een der landen van h
 
 ### Artikel  11  
 
-1.  Iedere vreemdeling die ingevolge [artikel 33 van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot het Europese deel van Nederland dan wel iedere vluchteling die als zodanig tot een openbaar lichaam, Aruba, Curaçao of Sint Maarten is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor vijf jaren.   
-2.  Iedere vreemdeling die ingevolge [artikel 28 van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) tot het Europese deel van Nederland is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor ten minste een jaar en ten hoogste drie jaren.  
+1.  Iedere vreemdeling die ingevolge artikel 33 van de Vreemdelingenwet 2000 tot het Europese deel van Nederland dan wel iedere vluchteling die als zodanig tot een openbaar lichaam, Aruba, Curaçao of Sint Maarten is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor vijf jaren.   
+2.  Iedere vreemdeling die ingevolge artikel 28 van de Vreemdelingenwet 2000 tot het Europese deel van Nederland is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor ten minste een jaar en ten hoogste drie jaren.  
 
 ### Artikel  12  
 
@@ -243,13 +243,13 @@ b. die onherroepelijk veroordeeld is tot:
 
 1°. een vrijheidsstraf of vrijheidsbenemende maatregel van vier maanden of meer, of  
 
-2°. een geldboete in het Europese deel van Nederland van meer dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of tot betaling van een daarmee overeenkomend geldbedrag op grond van [artikel 36e](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [artikel 36f van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of een met dat bedrag overeenkomende geldelijke sanctie in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, of    
+2°. een geldboete in het Europese deel van Nederland van meer dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, of tot betaling van een daarmee overeenkomend geldbedrag op grond van artikel 36e of artikel 36f van het Wetboek van Strafrecht, of een met dat bedrag overeenkomende geldelijke sanctie in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, of    
 
 c. die de bijzondere voorwaarden verbonden aan een voorwaardelijke veroordeling, een terbeschikkingstelling met voorwaarden of een voorwaardelijke gratieverlening niet naleeft,   zich door verblijf buiten de grenzen van een der landen van het Koninkrijk aan vervolging dan wel tenuitvoerlegging van de straf zal onttrekken. 
 
 ### Artikel  19  
 
-Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in [artikel 106 van de Faillissementswet](../../../wet/faillissementswet/BWBR0001860/README.md) (*Stb.* 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is. 
+Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in artikel 106 van de Faillissementswet (*Stb.* 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is. 
 
 ### Artikel  20  
 
@@ -368,7 +368,7 @@ De rechten die verschuldigd zijn of worden geheven in verband met handelingen te
 
 ### Artikel  34  
 
-1.  Bij een aanvraag door of ten behoeve van een minderjarige wordt een verklaring van toestemming overgelegd van iedere persoon die het gezag uitoefent. Indien de minderjarige onder voorlopige voogdij is geplaatst van een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in het Europese deel van Nederland onderscheidenlijk voorlopig is toevertrouwd aan een Voogdijraad in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, wordt evenwel een verklaring van toestemming van de desbetreffende stichting dan wel van de desbetreffende Voogdijraad overgelegd.   
+1.  Bij een aanvraag door of ten behoeve van een minderjarige wordt een verklaring van toestemming overgelegd van iedere persoon die het gezag uitoefent. Indien de minderjarige onder voorlopige voogdij is geplaatst van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg in het Europese deel van Nederland onderscheidenlijk voorlopig is toevertrouwd aan een Voogdijraad in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, wordt evenwel een verklaring van toestemming van de desbetreffende stichting dan wel van de desbetreffende Voogdijraad overgelegd.   
 2.  Indien bij gezamenlijke gezagsuitoefening een van de personen die het gezag uitoefenen, weigert een verklaring van toestemming als bedoeld in het eerste lid, af te geven, kan deze op verzoek van de andere persoon die het gezag uitoefent, worden vervangen door een verklaring van de bevoegde rechter, die alvorens te beslissen een vergelijk tussen de beide personen beproeft.   
 3.  Indien een persoon die het gezag uitoefent, de desbetreffende stichting of de desbetreffende Voogdijraad een verklaring van toestemming als bedoeld in het eerste lid weigert, kan deze op verzoek van de minderjarige van zestien jaren of ouder worden vervangen door een verklaring van de bevoegde rechter.   
 4.  Indien bij gezamenlijke gezagsuitoefening het als gevolg van oorlog, oproer, natuurrampen of daaraan verwante dan wel daarmee samenhangende omstandigheden feitelijk onmogelijk is een verklaring van toestemming als bedoeld in het eerste lid, te verkrijgen van de andere persoon die het gezag uitoefent, kan deze in afwijking van het eerste lid worden vervangen door een verklaring van de bevoegde rechter.   
@@ -382,7 +382,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 ### Artikel  36  
 
 1. Bij een aanvraag ten behoeve van een minderjarige die onder toezicht is gesteld en jonger is dan zestien jaar, kan, indien één of beide personen die het gezag over de minderjarige uitoefenen, weigeren een verklaring van toestemming als bedoeld in artikel 34, eerste lid, af te geven, in plaats van die verklaring een verklaring van toestemming van de bevoegde rechter worden overgelegd. 
-2. De rechter kan een verklaring van toestemming afgeven op verzoek van een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), of een rechtspersoon als bedoeld in [artikel 254, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) in het Europese deel van Nederland of een gezinsvoogdij-instelling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten. De rechter geeft een zodanige beslissing als hem in het belang van het kind wenselijk voorkomt. Daarbij kan als voorwaarde worden gesteld dat de geldigheidsduur of de territoriale geldigheid van het aangevraagde reisdocument wordt beperkt.
+2. De rechter kan een verklaring van toestemming afgeven op verzoek van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, of een rechtspersoon als bedoeld in artikel 254, tweede lid, van Boek 1 van het Burgerlijk Wetboek in het Europese deel van Nederland of een gezinsvoogdij-instelling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten. De rechter geeft een zodanige beslissing als hem in het belang van het kind wenselijk voorkomt. Daarbij kan als voorwaarde worden gesteld dat de geldigheidsduur of de territoriale geldigheid van het aangevraagde reisdocument wordt beperkt.
 
 ### Artikel  37  
 
@@ -392,7 +392,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 
 ### Artikel  38  
 
-1.  Op de procedure ingevolge de artikelen 34, 36 en 37 is in het Europese deel van Nederland de [derde titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), met uitzondering van [artikel 278, derde lid](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), van toepassing.   
+1.  Op de procedure ingevolge de artikelen 34, 36 en 37 is in het Europese deel van Nederland de derde titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering, met uitzondering van artikel 278, derde lid, van toepassing.   
 2.  De bevoegde rechter, genoemd in artikel 34, tweede, derde en vierde lid, en in artikel 36, is in het Europese deel van Nederland de kinderrechter, in een openbaar lichaam, Aruba, Curaçao en Sint Maarten de rechter in eerste aanleg.  
 3.   Vervallen.    
 4.   De bevoegde rechter, genoemd in artikel 37, derde lid, is in het Europese deel van Nederland de kantonrechter, in een openbaar lichaam, Aruba, Curaçao en Sint Maarten de rechter in eerste aanleg.   
@@ -666,7 +666,7 @@ Op aanvragen ter verkrijging van een reisdocument die op het tijdstip van inwerk
 
 ### Artikel  66a  
 
-1.  Nationale paspoorten en Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van [artikel I, onderdeel F, respectievelijk artikel I, onderdeel G van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart](../../../wet/wijziging/van/de/paspoortwet/in/verband/met/onder/meer/de/status/van/de/etc/BWBR0034694/README.md), behouden de geldigheid die daarin is vermeld.   
+1.  Nationale paspoorten en Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van artikel I, onderdeel F, respectievelijk artikel I, onderdeel G van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart, behouden de geldigheid die daarin is vermeld.   
 2.  Op Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van artikel I, onderdeel B, van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart, zijn artikel 2, tweede lid, artikel 3, tweede en vijfde lid en artikel 65 van toepassing zoals deze luidden voor die datum.  
 
 ### Artikel  67  

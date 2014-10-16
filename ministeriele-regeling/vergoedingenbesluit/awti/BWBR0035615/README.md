@@ -20,11 +20,11 @@ De voorzitter en de overige leden van de AWTI ontvangen een vaste vergoeding per
 
 ### Artikel  3  
 
-De vergoeding voor de voorzitter wordt vastgesteld volgens het maximale salarisnummer behorend bij schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 met een arbeidsduurfactor van 24/36 uur per week. 
+De vergoeding voor de voorzitter wordt vastgesteld volgens het maximum salarisnummer behorend bij schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 met een arbeidsduurfactor van 0,3 per week. 
 
 ### Artikel  4  
 
-De vergoeding van de overige leden van de AWTI wordt vastgesteld volgens het maximale salarisnummer behorend bij schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, met een arbeidsduurfactor van 8/36 uur per week. 
+De vergoeding van de overige leden van de AWTI wordt vastgesteld volgens het maximum salarisnummer behorend bij schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, met een arbeidsduurfactor van 0,1 per week. 
 
 ### Artikel  5  
 

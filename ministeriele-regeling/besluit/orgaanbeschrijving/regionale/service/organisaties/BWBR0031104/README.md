@@ -3,7 +3,7 @@
 ##Besluit Orgaanbeschrijving Regionale Service Organisaties
 
 De Minister van Buitenlandse Zaken,  
-Gelet op het [Algemeen Organisatiebesluit Buitenlandse Zaken 1996](../../../../../../../ministeriele-regeling/algemeen/organisatiebesluit/buitenlandse/zaken/1996/BWBR0008628/README.md);
+Gelet op het Algemeen Organisatiebesluit Buitenlandse Zaken 1996;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 a.  *CdP:* het hoofd van de post;  
 
-b.  *post:* een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in [artikel 7 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+b.  *post:* een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in artikel 7 van het RDBZ;  
 
 c.  *directies:* de onder de directeur generaal consulaire zaken en bedrijfsvoering ressorterende directies;  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 5 december 2003, nr. MJZ2003124448, houdende vaststelling van de kadastrale tarieven (Regeling tarieven Kadaster)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de [artikelen 108, eerste lid](../../../../../wet/kadasterwet/BWBR0004541/README.md), en [109 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md),
+Gelet op de artikelen 108, eerste lid, en 109 van de Kadasterwet,
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,9 +19,9 @@ In deze regeling wordt verstaan onder:
 
 *object:* in een rechtszekerheidsregistratie vermeld perceel, appartementsrecht, netwerk, schip of luchtvaartuig;  
 
-*rechtszekerheidsregistratie:* registratie als bedoeld in [artikel 48](../../../../../wet/kadasterwet/BWBR0004541/README.md), [85](../../../../../wet/kadasterwet/BWBR0004541/README.md) of [92 van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), met uitzondering van de kadastrale kaart;  
+*rechtszekerheidsregistratie:* registratie als bedoeld in artikel 48, 85 of 92 van de wet, met uitzondering van de kadastrale kaart;  
 
-*wet:* [Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md).   
+*wet:* Kadasterwet.   
 
 ### Hoofdstuk  2  
 
@@ -69,14 +69,14 @@ b. indien het stuk in elektronische vorm ter inschrijving wordt aangeboden en ni
 
 c. indien het stuk in papieren vorm ter inschrijving wordt aangeboden: € 98,–.     
 4.  Het derde lid is van overeenkomstige toepassing op de inschrijving in elektronische of papieren vorm van een stuk inhoudende een koopoptie of voorovereenkomst tot koop.   
-5.  Voor de inschrijving van een verklaring van erfrecht als bedoeld in [artikel 188 Boek 4 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) is verschuldigd: 
+5.  Voor de inschrijving van een verklaring van erfrecht als bedoeld in artikel 188 Boek 4 van het Burgerlijk Wetboek is verschuldigd: 
 
 a. indien het stuk is opgemaakt door middel van een kadasterstylesheet en leidt tot bijhouding van een rechtszekerheidsregistratie op geautomatiseerde wijze: € 44,–;  
 
 b. indien het stuk in elektronische vorm ter inschrijving wordt aangeboden en niet is opgemaakt door middel van een kadasterstylesheet: € 74,–;  
 
 c. indien het stuk in papieren vorm ter inschrijving wordt aangeboden: € 98,–.     
-6.  Voor de inschrijving van een stuk betreffende de doorhaling van een proces-verbaal van inbeslagneming of een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md) is verschuldigd: 
+6.  Voor de inschrijving van een stuk betreffende de doorhaling van een proces-verbaal van inbeslagneming of een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken is verschuldigd: 
 
 a. indien het stuk is opgemaakt door middel van een kadasterstylesheet en leidt tot bijhouding van een rechtszekerheidsregistratie op geautomatiseerde wijze: € 12,60;  
 
@@ -112,15 +112,15 @@ b. een aangifte tot wijziging van de beschrijving van een te boek staand schip;
 
 c. een mededeling omtrent de gekozen woonplaats inzake een schip;  
 
-d. een akte van vernieuwing als bedoeld in [artikel 77, vijfde lid, van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md);  
+d. een akte van vernieuwing als bedoeld in artikel 77, vijfde lid, van de wet;  
 
-e. een stuk dat overeenkomstig [artikel 20, vierde lid, tweede volzin, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bij de Dienst is aangeboden door middel van een hernieuwd verzoek tot inschrijving, en  
+e. een stuk dat overeenkomstig artikel 20, vierde lid, tweede volzin, van Boek 3 van het Burgerlijk Wetboek bij de Dienst is aangeboden door middel van een hernieuwd verzoek tot inschrijving, en  
 
 f. een stuk dat uitsluitend op verzoek van de Dienst ter inschrijving wordt aangeboden, ten einde de registratie te verbeteren.    
 
 ### Artikel  7  
 
-1.  Voor digitale raadpleging van gegevens uit een rechtszekerheidsregistratie of de landelijke voorziening, bedoeld in [artikel 10, eerste en tweede lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md), is verschuldigd per object: 
+1.  Voor digitale raadpleging van gegevens uit een rechtszekerheidsregistratie of de landelijke voorziening, bedoeld in artikel 10, eerste en tweede lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken, is verschuldigd per object: 
 
 a. indien het gegevens inzake hypotheken en beslagen betreft: € 3,50;  
 
@@ -128,7 +128,7 @@ b. indien het andere gegevens betreft dan bedoeld onder a: € 3,50.
 2.  Onverminderd het eerste lid is degene die een abonnement heeft op digitale raadpleging van een rechtszekerheidsregistratie, als vergoeding voor de vaste kosten, per abonnementsperiode van een jaar verschuldigd: € 60,–. Bij aanvang van een abonnement gedurende een kalenderjaar is een evenredig bedrag voor de resterende periode verschuldigd.   
 3.  In afwijking van het tweede lid is per abonnementsperiode van een jaar een bedrag verschuldigd van € 30,–, indien de krachtens het eerste lid verschuldigde bedragen automatisch door de Dienst worden geïncasseerd.   
 4.  Voor digitale raadpleging van de objectlijst is per 20 objecten verschuldigd: € 0,90.   
-5.  Voor digitale raadpleging van gegevens uit een rechtszekerheidsregistratie of de landelijke voorziening, bedoeld in [artikel 10, eerste en tweede lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md), door middel van een geautomatiseerd proces is verschuldigd, indien: 
+5.  Voor digitale raadpleging van gegevens uit een rechtszekerheidsregistratie of de landelijke voorziening, bedoeld in artikel 10, eerste en tweede lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken, door middel van een geautomatiseerd proces is verschuldigd, indien: 
 
 a. het gegevens inzake hypotheken en beslagen betreft: € 3,50;  
 
@@ -137,7 +137,7 @@ b. het een negatieve mededeling betreft: € 1,50;
 c. het andere gegevens betreft dan bedoeld onder a en b: € 3,50.     
 6.  Onder een negatieve mededeling als bedoeld in het vijfde lid wordt verstaan: een mededeling, inhoudende dat de gevraagde gegevens omtrent een persoon ontbreken.   
 7.  Voor het ter plekke bij de Dienst raadplegen van een rechtszekerheidsregistratie is het eerste lid van overeenkomstige toepassing, waarbij het bedrag wordt vermeerderd met € 29,– per geraadpleegd object.   
-8.  Voor de niet-geautomatiseerde toezending van een afschrift of een uittreksel als bedoeld in [artikel 100](../../../../../wet/kadasterwet/BWBR0004541/README.md), [101, eerste lid](../../../../../wet/kadasterwet/BWBR0004541/README.md), of [102, eerste lid, van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), respectievelijk van een verklaring als bedoeld in artikel 101, tweede lid, of 102, tweede lid, van de wet is het vijfde lid van overeenkomstige toepassing, waarbij het bedrag wordt vermeerderd met: 
+8.  Voor de niet-geautomatiseerde toezending van een afschrift of een uittreksel als bedoeld in artikel 100, 101, eerste lid, of 102, eerste lid, van de wet, respectievelijk van een verklaring als bedoeld in artikel 101, tweede lid, of 102, tweede lid, van de wet is het vijfde lid van overeenkomstige toepassing, waarbij het bedrag wordt vermeerderd met: 
 
 a. bij toezending per elektronische post: € 13,– per object in het afschrift, het uittreksel of de verklaring;  
 
@@ -145,8 +145,8 @@ b. bij toezending in papieren vorm: € 15,– per object in het afschrift, het
 
 ### Artikel 8  
 
-1.  Voor de toepassing van dit artikel worden onder gegevens uit de registratie, bedoeld in [artikel 48 van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), niet begrepen gegevens inzake hypotheken, gegevens inzake beslagen en de landelijke kadastrale kaart.   
-2.  Voor het verstrekken van gegevens uit de registratie, bedoeld in [artikel 48 van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), is per object dat in de opgave is betrokken verschuldigd: € 1,73, met dien verstande dat: 
+1.  Voor de toepassing van dit artikel worden onder gegevens uit de registratie, bedoeld in artikel 48 van de wet, niet begrepen gegevens inzake hypotheken, gegevens inzake beslagen en de landelijke kadastrale kaart.   
+2.  Voor het verstrekken van gegevens uit de registratie, bedoeld in artikel 48 van de wet, is per object dat in de opgave is betrokken verschuldigd: € 1,73, met dien verstande dat: 
 
 a. ingeval in het afschrift meer dan 100.000 objecten zijn betrokken, per object verschuldigd is: € 1,44, en  
 
@@ -251,16 +251,16 @@ d. uitsluitend percelen moeten worden samengevoegd: € 295,–.
 2.  Voor de vervaardiging van een netwerktekening op schaal 1:5.000 of op een kleinere schaal, met een strookbreedte van tenminste 500 meter, is verschuldigd: € 198,–, vermeerderd met € 45,– per tekening en € 0,67 per afgebeelde hectare.   
 3.  Voor het actualiseren van een in de afgelopen drie jaren door de Dienst vervaardigde netwerktekening, binnen het op die tekening weergegeven gebied, is verschuldigd: € 198,–, vermeerderd met € 45,– per tekening en € 0,11 per afgebeelde hectare.   
 4.  Voor de controle op inschrijvingsvereisten van een niet door de Dienst vervaardigde netwerktekening is € 198,– verschuldigd, vermeerderd met € 45,– per tekening.   
-5.  Voor het verrichten van een onderzoek naar ingeschreven beslagen en eisen tot vaststelling van de eigendom op grond van [artikel 155 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) is per object verschuldigd: € 45,–.  
+5.  Voor het verrichten van een onderzoek naar ingeschreven beslagen en eisen tot vaststelling van de eigendom op grond van artikel 155 van de Overgangswet nieuw Burgerlijk Wetboek is per object verschuldigd: € 45,–.  
 
 ### Artikel  18  
 
-1.  Voor het in depot nemen van tekeningen en andere stukken in papieren vorm die deel uitmaken van een stuk dat in elektronische vorm ter inschrijving zal worden aangeboden als bedoeld in [artikel 11b, vijfde lid, van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md) is verschuldigd € 118,–.   
+1.  Voor het in depot nemen van tekeningen en andere stukken in papieren vorm die deel uitmaken van een stuk dat in elektronische vorm ter inschrijving zal worden aangeboden als bedoeld in artikel 11b, vijfde lid, van de wet is verschuldigd € 118,–.   
 2.  Het eerste lid is van overeenkomstige toepassing op het aanbieden van een appartementstekening in papieren vorm bij een analoog verzoek tot afgifte van een verklaring complexaanduiding.  
 
 ### Artikel  19  
 
-1.  Het verstrekken van een opgave in elektronische vorm betreffende punten uit het net van coördinaatpunten, bedoeld in [artikel 100, eerste en derde lid, van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), is kosteloos.   
+1.  Het verstrekken van een opgave in elektronische vorm betreffende punten uit het net van coördinaatpunten, bedoeld in artikel 100, eerste en derde lid, van de wet, is kosteloos.   
 2.  Voor het certificeren van de coördinaten van stations voor satellietplaatsbepaling is per station verschuldigd € 320,–, met dien verstande dat ingeval bij de certificatie meer dan vijf stations betrokken worden, verschuldigd is: per station boven de vijf: € 256,–; per station boven de tien: € 192,–; per station boven de vijftien: € 128,–; per station boven de twintig: € 64,–.   
 3.  Het tweede lid is van overeenkomstige toepassing op het inrekenen van coördinaten van tijdelijke stations voor satellietplaatsbepaling.  
 
@@ -287,7 +287,7 @@ b. vanaf het tweede tot en met zesde schip op één locatie op een dag, per schi
 
 ### Artikel 21  
 
-1.  Voor het verstrekken van een opgave van gegevens, die de Dienst heeft samengesteld uit gegevens die de Dienst heeft verkregen bij de uitvoering van de taken, bedoeld in [artikel 3 van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), is verschuldigd: 
+1.  Voor het verstrekken van een opgave van gegevens, die de Dienst heeft samengesteld uit gegevens die de Dienst heeft verkregen bij de uitvoering van de taken, bedoeld in artikel 3 van de wet, is verschuldigd: 
 
 a. voor een opgave inzake vastgoedtransacties of hypotheken, indien: 
 
@@ -345,7 +345,7 @@ d. voor een woningrapport:
 
 3°. indien in een jaar meer dan 50.000 woningrapporten worden verstrekt, per stuk: € 15,90;    
 
-e. voor een opgave inzake de coördinaten van adressen, percelen of centroïden van postcodegebieden, anders dan de gegevens uit de landelijke voorziening, bedoeld in [artikel 26 van de Wet basisregistraties adressen en gebouwen](../../../../../wet/wet/basisregistraties/adressen/en/gebouwen/BWBR0023466/README.md), per coördinaat: € 0,01, met dien verstande dat per opgave ten hoogste € 595,– verschuldigd is;  
+e. voor een opgave inzake de coördinaten van adressen, percelen of centroïden van postcodegebieden, anders dan de gegevens uit de landelijke voorziening, bedoeld in artikel 26 van de Wet basisregistraties adressen en gebouwen, per coördinaat: € 0,01, met dien verstande dat per opgave ten hoogste € 595,– verschuldigd is;  
 
 f. voor een opgave inzake een indicatie of classificatie van de aard of toestand van een object: 
 
@@ -366,7 +366,7 @@ a. per minuut die aan het opmaken van die opgave is besteed door middel van een 
 
 b. per kwartier dat een medewerker van de Dienst daaraan heeft besteed: een bedrag gelijk aan het tarief als bedoeld in artikel 1a.     
 3.  Indien de opgave, bedoeld in het eerste lid, onder a tot en met g, met een beperktere inhoud dan de standaardopgave wordt verstrekt, is verschuldigd een tarief dat gelijk is aan de tarieven, bedoeld in die onderdelen, waarbij per minuut minder bestede tijd een vermindering met € 41,– wordt toegepast.   
-4.  Voor het digitaal raadplegen van bestanden bestaande uit gegevens die zijn samengesteld uit de gegevens welke door de Dienst bij het vervullen van de door hem opgedragen taken, bedoeld in [artikel 3 van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), zijn verkregen is verschuldigd: 
+4.  Voor het digitaal raadplegen van bestanden bestaande uit gegevens die zijn samengesteld uit de gegevens welke door de Dienst bij het vervullen van de door hem opgedragen taken, bedoeld in artikel 3 van de wet, zijn verkregen is verschuldigd: 
 
 a. indien het bestanden inzake de gemiddelde koopsom per 6-positie postcodegebied betreft, per raadpleging: € 0,75;  
 
@@ -377,7 +377,7 @@ c. indien het bestanden inzake vastgoedtransacties agrarische gronden betreft, p
 
 ### Artikel  22  
 
-1.  Voor het verstrekken van een opgave van gegevens, die de Dienst heeft verkregen bij de uitvoering van de taken, bedoeld in [artikel 3, eerste lid, onderdelen f en g, van de wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), of die de Dienst uit die gegevens heeft samengesteld, is verschuldigd: 
+1.  Voor het verstrekken van een opgave van gegevens, die de Dienst heeft verkregen bij de uitvoering van de taken, bedoeld in artikel 3, eerste lid, onderdelen f en g, van de wet, of die de Dienst uit die gegevens heeft samengesteld, is verschuldigd: 
 
 a. voor een standaardopgave inzake gegevens uit de bestanden TOP10NL, TOP25raster, TOP50NL, TOP50raster, TOP100NL, TOP250NL, TOP250raster, TOP500NL, TOP1000NL, BRT-achtergrondkaart, TOP25namen, TOP50namen of TOP250namen: € 0,–;  
 
@@ -441,11 +441,11 @@ c. per maphit boven de 100.000 per maand: € 0,03.
 
 ### Artikel  22a  
 
-Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in [artikel 7](../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md) of [8 van de Wet informatie-uitwisseling ondergrondse netten](../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md) is verschuldigd: € 21,50. 
+Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in artikel 7 of 8 van de Wet informatie-uitwisseling ondergrondse netten is verschuldigd: € 21,50. 
 
 ### Artikel  22b  
 
-Voor het raadplegen of bevragen van de landelijke voorziening, bedoeld in [artikel 26 van de Wet basisregistraties adressen en gebouwen](../../../../../wet/wet/basisregistraties/adressen/en/gebouwen/BWBR0023466/README.md), dan wel het verstrekken van gegevens uit die landelijke voorziening, is verschuldigd: 
+Voor het raadplegen of bevragen van de landelijke voorziening, bedoeld in artikel 26 van de Wet basisregistraties adressen en gebouwen, dan wel het verstrekken van gegevens uit die landelijke voorziening, is verschuldigd: 
 
 a. BAG Web, raadpleging: kosteloos;  
 

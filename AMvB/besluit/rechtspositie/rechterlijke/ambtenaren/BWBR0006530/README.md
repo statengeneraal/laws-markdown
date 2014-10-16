@@ -329,7 +329,8 @@ c. voor een rechter-plaatsvervanger of een plaatsvervangend officier van justiti
 a. een bijeenkomst in raadkamer met een of meer zittingen gelijkgesteld, indien het een raadsheer in buitengewone dienst bij de Hoge Raad betreft; en  
 
 b. een schriftelijke conclusie met een of meer zittingen gelijkgesteld, indien het een advocaat-generaal in buitengewone dienst bij de Hoge Raad of een op de voet van artikel 119, vierde lid, van de Wet op de rechterlijke organisatie als waarnemend advocaat-generaal bij de Hoge Raad aangewezen lid in buitengewone dienst van de Hoge Raad betreft.     
-4.  Aan een raadsheer-plaatsvervanger of rechter-plaatsvervanger kan een vergoeding overeenkomstig het eerste lid worden toegekend voor het concipiëren van een of meer schriftelijke uitspraken in een of meer zaken waarin geen zitting heeft plaatsgevonden.  
+4.  Aan een raadsheer-plaatsvervanger of rechter-plaatsvervanger kan een vergoeding overeenkomstig het eerste lid worden toegekend voor het concipiëren van een of meer schriftelijke uitspraken in een of meer zaken waarin geen zitting heeft plaatsgevonden.   
+5.  De in artikel 5f, tweede lid, van de wet genoemde rechterlijke ambtenaren ontvangen voor het bijwonen van een zitting een vergoeding voor hun reiskosten overeenkomstig het Reisbesluit binnenland. 
 
 ### Artikel  6b  
 
@@ -355,7 +356,7 @@ Aan de niet voor het leven benoemde rechterlijk ambtenaar, die naar het oordeel 
 
 ### Artikel  6f  
 
-1.  De rechterlijk ambtenaar die werkzaamheden verricht als rechter-commissaris in strafzaken of piketofficier, ontvangt een toelage.   
+1.  De rechterlijk ambtenaar die piketwerkzaamheden verricht als rechter-commissaris in strafzaken of piketofficier, ontvangt een toelage.   
 2.  Onze Minister stelt regels ten aanzien van de hoogte van de in het eerste lid genoemde toelage.   
 3.  De in het eerste lid genoemde toelage behoort tot de bezoldiging van de rechterlijk ambtenaar.  
 
@@ -1307,10 +1308,10 @@ a.bij onvoldoende resultaat in de scholing of bij tussentijds afbreken van de sc
 b.bij ontslag tijdens het volgen van de scholing en in bijzondere gevallen bij ontslag binnen een termijn van maximaal drie jaren na het met voldoende resultaat afronden van de scholing, tenzij de rechterlijk ambtenaar binnen een maand na zijn ontslag elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister, in dienst treedt, of aansluitend op zijn ontslag recht heeft op een uitkering op grond van werkloosheid, arbeidsongeschiktheid of ouderdomspensioen. 
 5. De verplichting tot terugbetaling wordt niet opgelegd aan de rechterlijk ambtenaar aan wie binnen 18 maanden nadat hij is aangewezen als herplaatsingskandidaat ontslag op eigen verzoek wordt verleend wegens de aanvaarding van een functie elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister.
 
-###Artikel 36r 
+### Artikel 36r 
 
-1. Aan de rechterlijk ambtenaar die in verband met zijn herplaatsing in opdracht van Onze Minister of het gerechtsbestuur is verhuisd, wordt eenmalig een bedrag toegekend overeenkomstig artikel 49n van het Algemeen Rijksambtenarenreglement ter tegemoetkoming in de daarmee verband houdende kosten.
-2. In de gevallen waarin de rechterlijk ambtenaar en zijn echtgenoot beiden in aanmerking komen voor een bedrag als bedoeld in het eerste lid, ontvangt elk de helft daarvan. Onder echtgenoot wordt mede verstaan de geregistreerde partner alsmede de levenspartner met wie de niet gehuwde rechterlijk ambtenaar samenwoont en, met het oogmerk duurzaam samen te leven, een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding.
+1. Aan de rechterlijk ambtenaar die in verband met zijn herplaatsing in opdracht van Onze Minister of het gerechtsbestuur is verhuisd, wordt eenmalig een bedrag toegekend van € 13.915,43 bruto ter tegemoetkoming in de daarmee verband houdende kosten. 
+2. In de gevallen waarin de rechterlijk ambtenaar en zijn echtgenoot beiden in aanmerking komen voor een bedrag als bedoeld in het eerste lid, ontvangt elk de helft daarvan. Onder echtgenoot wordt mede verstaan de geregistreerde partner alsmede de levenspartner met wie de niet gehuwde rechterlijk ambtenaar samenwoont en, met het oogmerk duurzaam samen te leven, een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. 
 3. Het bedrag, bedoeld in het eerste lid, wordt niet toegekend, indien de verhuizing niet heeft plaatsgevonden binnen twee jaren nadat de opdracht om te verhuizen is gegeven.
 
 ### Artikel 36s 
@@ -1408,12 +1409,6 @@ Onze Minister kan regels stellen ten aanzien van het verrichten van werkzaamhede
 ### Artikel  38i  
 
 Onze Minister kan regels stellen ten aanzien van de vergoeding van de literatuur die voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding naar het oordeel van de functionele autoriteit noodzakelijk is voor een correcte uitoefening van het ambt.  
-
-###Artikel 38j 
-
-1. In dit artikel en de daarop berustende bepalingen wordt onder ouder, kinderopvang respectievelijk gastouderopvang verstaan hetgeen hieronder wordt verstaan in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen. 
-2. De rechterlijk ambtenaar die is aangesteld voor een al dan niet volledige arbeidsduur of rechterlijk ambtenaar in opleiding die ouder is, heeft recht op een bijdrage in de kosten van kinderopvang en gastouderopvang. 
-3. Bij regeling van Onze Minister kunnen regels gesteld worden omtrent de bijdrage in de kosten voor kinderopvang en gastouderopvang.
 
 ### Artikel  38k  
 
