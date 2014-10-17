@@ -5,14 +5,14 @@
 Het College van Afgevaardigden van de Nederlandse Orde van Advocaten,  
 Overwegende,
 
-* dat de Algemene Raad en de Raden van Toezicht op grond van [artikel 26 Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md) de verantwoordelijkheid dragen voor het toezien op de naleving van de plichten van advocaten als zodanig;  
+* dat de Algemene Raad en de Raden van Toezicht op grond van artikel 26 Advocatenwet de verantwoordelijkheid dragen voor het toezien op de naleving van de plichten van advocaten als zodanig;  
 
 * dat de deken belast is met toezicht en klachtbehandeling;  
 
 * dat het gewenst is duidelijkheid te verschaffen wie op het gebied van toezicht welke taken en verantwoordelijkheden heeft;  
 
 * dat het gewenst is een kader te bieden om het overleg tussen de dekens met betrekking tot het toezicht te optimaliseren;   
-Gelet op de [artikelen 26](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md), [28](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md) en [46 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op de artikelen 26, 28 en 46 van de Advocatenwet;
 
 Gezien het voorstel met toelichting van de Algemene Raad;
 
@@ -24,19 +24,19 @@ Stelt de navolgende verordening vast:
 
 ####(definities)
 
-* *advocaat:* de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+* *advocaat:* de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet;  
 
-* *algemeen deken:* de deken van de Nederlandse Orde van Advocaten bedoeld in [artikel 18 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+* *algemeen deken:* de deken van de Nederlandse Orde van Advocaten bedoeld in artikel 18 van de Advocatenwet;  
 
-* *College van Afgevaardigden:* het College van Afgevaardigden bedoeld in [artikel 19 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+* *College van Afgevaardigden:* het College van Afgevaardigden bedoeld in artikel 19 van de Advocatenwet;  
 
-* *deken:* de deken van de Orde van Advocaten in het arrondissement bedoeld in [artikel 22 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+* *deken:* de deken van de Orde van Advocaten in het arrondissement bedoeld in artikel 22 van de Advocatenwet;  
 
-* *Raad van Toezicht:* de Raad van Toezicht bedoeld in [artikel 22 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+* *Raad van Toezicht:* de Raad van Toezicht bedoeld in artikel 22 van de Advocatenwet;  
 
-* *samenwerkingsverband:* het samenwerkingsverband bedoeld in [artikel 1, onderdeel b, van de Samenwerkingsverordening 1993](../../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md);  
+* *samenwerkingsverband:* het samenwerkingsverband bedoeld in artikel 1, onderdeel b, van de Samenwerkingsverordening 1993;  
 
-*  *secretaris:* de secretaris van de Algemene Raad bedoeld in [artikel 34 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md).   
+*  *secretaris:* de secretaris van de Algemene Raad bedoeld in artikel 34 van de Advocatenwet.   
 
 ### Artikel  2  
 

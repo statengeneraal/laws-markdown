@@ -315,6 +315,11 @@ c. op zondag of op een algemeen erkende feestdag per partij een tarief per ton, 
 2.  Voor een inspectieaanvraag met betrekking tot een partij die deel uitmaakte van een reeds gekeurde zending, wordt de aanvrager het tarief bedoeld in artikel 9 in rekening gebracht.  
 3.  Voor inspectie van groenten en fruit, waarvoor ingevolge de bepalingen van richtlijn 2000/29/EG in alle gevallen een importinspectie dient plaats te vinden, is artikel 9 van toepassing.  
 
+### Artikel  13a  
+Treedt in werking per 01-01-2015 
+
+In het geval de verlaagde inspectiefrequenties bij import zoals opgenomen in de Bijlage bij deze regeling, afwijken van de verlaagde inspectiefrequenties bij import zoals opgenomen in de lijst, bedoeld in artikel 2, tweede lid, van verordening 1756/2004, gelden de verlaagde inspectiefrequenties zoals opgenomen in de hiervoor bedoeld lijst. 
+
 ### Artikel  14  
 
 Voor de verwerking van inspectieaanvragen die niet via het elektronisch vooraanmeldsysteem CLIENT Export respectievelijk CLIENT Import worden aangemeld wordt naast het tarief, bedoeld in artikel 9 respectievelijk de artikelen 10 tot en met 13, een basistarief van € 21,90 per zending in rekening gebracht, vermeerderd met een tarief van € 0,73 per te exporteren respectievelijk te importeren partij. 
@@ -817,6 +822,7 @@ G. Verburg
 | --- | --- | --- |
 |  *Groenten en fruit*   | --- | --- |
 | Capsicum  | Israel  | 5  |
+| Capsicum  | Marokko  | 10  |
 | --- | --- | --- |
 | Citrus  | Egypte  | 15  |
 | Citrus  | Israel  | 10  |
@@ -825,7 +831,7 @@ G. Verburg
 | Citrus  | Peru  | 15  |
 | Citrus  | Tunesië  | 25  |
 | Citrus  | Turkije  | 3  |
-| Citrus  | Uruguay  | 15  |
+| Citrus  | Uruguay  | 75  |
 | Citrus  | Verenigde Staten  | 15  |
 | --- | --- | --- |
 | Malus  | Argentinië  | 25  |
@@ -834,8 +840,6 @@ G. Verburg
 | Malus  | Nieuw-Zeeland  | 10  |
 | Malus  | Verenigde Staten  | 50  |
 | Malus  | Zuid-Afrika  | 5  |
-| --- | --- | --- |
-| Mangifera  | Brazilië  | 50  |
 | --- | --- | --- |
 | Passiflora  | Colombia  | 10  |
 | Passiflora  | Kenia  | 10  |

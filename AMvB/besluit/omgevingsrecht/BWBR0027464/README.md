@@ -209,7 +209,7 @@ Als categorieën gevallen als bedoeld in artikel 2.12, eerste lid, onder a, onde
 
 ####Luchtkwaliteit
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 Als categorieën gevallen als bedoeld in artikel 5.16, tweede lid, onder g, van de Wet milieubeheer waarbij bij het verlenen van een omgevingsvergunning met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet een beoordeling van de gevolgen voor de luchtkwaliteit als bedoeld in artikel 5.16, eerste lid, van de Wet milieubeheer is vereist, worden aangewezen de categorieën gevallen, bedoeld in artikel 4, onderdelen 9 en 11, van bijlage II. 
 
@@ -217,13 +217,13 @@ Als categorieën gevallen als bedoeld in artikel 5.16, tweede lid, onder g, van 
 
 ####Nadere regels over planologische gebruiksactiviteiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 ### Artikel  2.9  
 
 ####Strijdige planologische gebruiksactiviteiten bij bouw bijbehorend bouwwerk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 Bij de vaststelling of het bouwen van een bijbehorend bouwwerk als bedoeld in artikel 1, eerste lid, van bijlage II in achtererfgebied als bedoeld in dat artikellid al dan niet in strijd is met het bestemmingsplan of de beheersverordening, worden reeds aanwezige bijbehorende bouwwerken in het bebouwingsgebied, bedoeld in dat artikellid, in mindering gebracht op het door het bestemmingsplan of de beheersverordening toegestane maximum van die bouwwerken. 
 

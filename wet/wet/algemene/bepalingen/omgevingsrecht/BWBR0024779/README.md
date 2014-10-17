@@ -379,13 +379,13 @@ a. dat de omgevingsvergunning voor ten hoogste een daarbij aangegeven termijn ka
 b. in welke categorieën gevallen een bij de omgevingsvergunning aangegeven termijn kan worden verlengd.    
 
 ### Artikel  2.23a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 1.  In een omgevingsvergunning voor een aflopende activiteit kan worden bepaald dat, voor zover zij betrekking heeft op die activiteit, de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn, verplicht is de voor de verlening van de omgevingsvergunning bestaande toestand hersteld te hebben.   
 2.  Bij algemene maatregel van bestuur kunnen ten aanzien van activiteiten als bedoeld in het eerste lid categorieën gevallen worden aangewezen waarin in de omgevingsvergunning wordt bepaald dat op de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn, een plicht rust als bedoeld in het eerste lid. Ten aanzien van die termijn is artikel 2.23, tweede lid, laatste volzin, van overeenkomstige toepassing.  
 
 ### Artikel  2.23b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften nadat de vergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven. 
 

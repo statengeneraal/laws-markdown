@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu, van 28 mei 2013, nr. IenM/BSK-2013/95607, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
-Gelet op de [artikelen 5.1, eerste en vijfde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [5.2, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [5.3, eerste en tweede lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [21.8 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [2.4](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.37](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en [4.3, eerste en derde lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [2.12, derde lid](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [2.22, zesde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [10, onder b, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);
+Gelet op de artikelen 5.1, eerste en vijfde lid, 5.2, eerste lid, 5.3, eerste en tweede lid, en 21.8 van de Wet milieubeheer, 2.4, 3.37 en 4.3, eerste en derde lid, van de Wet ruimtelijke ordening, 2.12, derde lid, en 2.22, zesde lid, van de Wet algemene bepalingen omgevingsrecht en 10, onder b, van de Wet veiligheidsregio’s;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 10 juli 2013, nr. W14.13.0165/IV);
 
@@ -23,27 +23,27 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*basisnetafstand:* afstand tussen de krachtens [artikel 14, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) voor een basisnetroute aangewezen plaatsen waar het plaatsgebonden risico ten hoogste 10<sup>-6</sup> per jaar mag zijn;  
+*basisnetafstand:* afstand tussen de krachtens artikel 14, eerste lid, van de Wet vervoer gevaarlijke stoffen voor een basisnetroute aangewezen plaatsen waar het plaatsgebonden risico ten hoogste 10<sup>-6</sup> per jaar mag zijn;  
 
-*basisnetroute:* krachtens [artikel 13 van de Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) aangewezen weg, binnenwater of hoofdspoorweg;  
+*basisnetroute:* krachtens artikel 13 van de Wet vervoer gevaarlijke stoffen aangewezen weg, binnenwater of hoofdspoorweg;  
 
-*beheersverordening:* beheersverordening als bedoeld in [artikel 3.38, eerste lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+*beheersverordening:* beheersverordening als bedoeld in artikel 3.38, eerste lid, van de Wet ruimtelijke ordening;  
 
-*beperkt kwetsbaar object:* object als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+*beperkt kwetsbaar object:* object als bedoeld in artikel 1, eerste lid, onderdeel b, van het Besluit externe veiligheid inrichtingen;  
 
-*bestemmingsplan:* bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+*bestemmingsplan:* bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening;  
 
 *geprojecteerd (beperkt) kwetsbaar object:* nog niet aanwezig (beperkt) kwetsbaar object dat op grond van het voor het desbetreffende gebied geldende bestemmingsplan toelaatbaar is;  
 
-*gevaarlijke stof:* gevaarlijke stof als bedoeld in [artikel 1, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+*gevaarlijke stof:* gevaarlijke stof als bedoeld in artikel 1, eerste lid, van de Wet vervoer gevaarlijke stoffen;  
 
-*grenswaarde:* grenswaarde als bedoeld in [artikel 5.1, derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ten aanzien van het niveau van het plaatsgebonden risico;  
+*grenswaarde:* grenswaarde als bedoeld in artikel 5.1, derde lid, van de Wet milieubeheer ten aanzien van het niveau van het plaatsgebonden risico;  
 
 *groepsrisico:* cumulatieve kansen per jaar per kilometer transportroute dat tien of meer personen in het invloedsgebied van een transportroute overlijden als rechtstreeks gevolg van een ongewoon voorval op die transportroute waarbij een gevaarlijke stof betrokken is;  
 
 *invloedsgebied:* gebied waarin personen worden meegeteld voor de berekening van het groepsrisico van een weg, spoorweg of binnenwater tot de grens waarop de letaliteit van die personen 1% is;  
 
-*kwetsbaar object:* object als bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+*kwetsbaar object:* object als bedoeld in artikel 1, eerste lid, onderdeel l, van het Besluit externe veiligheid inrichtingen;  
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
@@ -53,14 +53,14 @@ Treedt in werking op een nader te bepalen tijdstip
 
 *plasbrandaandachtsgebied:* gebied waar bij het realiseren van kwetsbare of beperkt kwetsbare objecten rekening dient te worden gehouden met de mogelijke gevolgen van een ongeval met brandbare vloeistoffen;  
 
-*ramp:* ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+*ramp:* ramp als bedoeld in artikel 1 van de Wet veiligheidsregio’s;  
 
-*richtwaarde:* richtwaarde als bedoeld in [artikel 5.1, derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ten aanzien van het niveau van het plaatsgebonden risico;  
+*richtwaarde:* richtwaarde als bedoeld in artikel 5.1, derde lid, van de Wet milieubeheer ten aanzien van het niveau van het plaatsgebonden risico;  
 
 *transportroute:* basisnetroute of weg, niet zijnde een basisnetroute, in beheer bij gemeente, provincie of waterschap, waarover gevaarlijke stoffen worden vervoerd.     
-2.  In dit besluit wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in [artikel 3.26](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-3.  Voor de toepassing van de artikelen 2 tot en met 5 worden inrichtingen als bedoeld in [artikel 2, eerste lid, van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), niet beschouwd als kwetsbare of beperkt kwetsbare objecten.   
-4.  De artikelen 2 tot en met 5 zijn niet van toepassing op gronden gelegen binnen een veiligheidscontour als bedoeld in [artikel 14 van het Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).  
+2.  In dit besluit wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening.   
+3.  Voor de toepassing van de artikelen 2 tot en met 5 worden inrichtingen als bedoeld in artikel 2, eerste lid, van het Besluit externe veiligheid inrichtingen, niet beschouwd als kwetsbare of beperkt kwetsbare objecten.   
+4.  De artikelen 2 tot en met 5 zijn niet van toepassing op gronden gelegen binnen een veiligheidscontour als bedoeld in artikel 14 van het Besluit externe veiligheid inrichtingen.  
 
 ### §  2  
 
@@ -81,11 +81,11 @@ De artikelen 3 en 4 zijn van toepassing op besluiten inhoudende:
 
 a. de vaststelling van een bestemmingsplan;  
 
-b. de wijziging of uitwerking van een bestemmingsplan of het stellen van nadere eisen, bedoeld in [artikel 3.6, eerste lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+b. de wijziging of uitwerking van een bestemmingsplan of het stellen van nadere eisen, bedoeld in artikel 3.6, eerste lid, van de Wet ruimtelijke ordening;  
 
-c. het verlenen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, of tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken dan wel krachtens [artikel 11 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) van de bouwverordening wordt afgeweken, en  
+c. het verlenen van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, of tweede lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken dan wel krachtens artikel 11 van de Woningwet van de bouwverordening wordt afgeweken, en  
 
-d. het geven van een aanwijzing als bedoeld in de [artikelen 4.2, eerste lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en [4.4, eerste lid, onderdeel a, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+d. het geven van een aanwijzing als bedoeld in de artikelen 4.2, eerste lid, en 4.4, eerste lid, onderdeel a, van de Wet ruimtelijke ordening.   
 
 ### Artikel  3  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -112,7 +112,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij de vaststelling van een bestemmingsplan dat betrekking heeft op gronden die zijn gelegen binnen een basisnetafstand wijzigt de gemeenteraad de bestemming van die gronden, indien van toepassing, zodanig dat daarop geen kwetsbare objecten geprojecteerd worden binnen die afstand.   
-2.  Gedurende de periode dat nog geen wijziging als bedoeld in het eerste lid van kracht is, wijst het bevoegd gezag een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a of c, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) af, voor zover die activiteit betrekking heeft op de bouw, vestiging of aanleg van een kwetsbaar object binnen een basisnetafstand.  
+2.  Gedurende de periode dat nog geen wijziging als bedoeld in het eerste lid van kracht is, wijst het bevoegd gezag een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder a of c, van de Wet algemene bepalingen omgevingsrecht af, voor zover die activiteit betrekking heeft op de bouw, vestiging of aanleg van een kwetsbaar object binnen een basisnetafstand.  
 
 ### §  3  
 
@@ -123,7 +123,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  6  
 Treedt in werking op een nader te bepalen tijdstip 
 
-In deze paragraaf wordt verstaan onder omgevingsvergunning: vergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken. 
+In deze paragraaf wordt verstaan onder omgevingsvergunning: vergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken. 
 
 ### §  3.1  
 
@@ -186,7 +186,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. een bij regeling van Onze Minister aangewezen plasbrandaandachtsgebied langs en boven een basisnetroute die een weg of hoofdspoorweg is, of  
 
-b. indien een basisnetroute een binnenwater is: een vrijwaringszone als bedoeld in [artikel 2.1.1 van het Besluit algemene regels ruimtelijke ordening](../../../../../../AMvB/besluit/algemene/regels/ruimtelijke/ordening/BWBR0030378/README.md),   de redenen vermeld die er toe hebben geleid om in dat gebied nieuwe kwetsbare of beperkt kwetsbare objecten toe te laten, gelet op de mogelijke gevolgen van een ongeval met brandbare vloeistoffen.   
+b. indien een basisnetroute een binnenwater is: een vrijwaringszone als bedoeld in artikel 2.1.1 van het Besluit algemene regels ruimtelijke ordening,   de redenen vermeld die er toe hebben geleid om in dat gebied nieuwe kwetsbare of beperkt kwetsbare objecten toe te laten, gelet op de mogelijke gevolgen van een ongeval met brandbare vloeistoffen.   
 2.  Het eerste lid is niet van toepassing op gebieden langs tunnels.  
 
 ### §  4  
@@ -211,12 +211,12 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  12  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Het bevoegd gezag draagt er zorg voor dat bij de voorbereiding van een bestemmingsplan of omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken in een zo vroeg mogelijk stadium van voorbereiding de gevolgen van dat plan of die vergunning voor de externe veiligheid in verband met het vervoer van gevaarlijke stoffen over een transportroute worden onderzocht. 
+Het bevoegd gezag draagt er zorg voor dat bij de voorbereiding van een bestemmingsplan of omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken in een zo vroeg mogelijk stadium van voorbereiding de gevolgen van dat plan of die vergunning voor de externe veiligheid in verband met het vervoer van gevaarlijke stoffen over een transportroute worden onderzocht. 
 
 ### Artikel  13  
 Treedt in werking op een nader te bepalen tijdstip 
 
-[Artikel 5.2, derde lid, eerste zin, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is niet van toepassing op de bij dit besluit gestelde milieukwaliteitseisen. 
+Artikel 5.2, derde lid, eerste zin, van de Wet milieubeheer is niet van toepassing op de bij dit besluit gestelde milieukwaliteitseisen. 
 
 ### Artikel  14  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -226,7 +226,7 @@ Onze Minister geeft voor 1 januari 2022 aan in hoeverre de bij dit besluit gest
 ### Artikel  15  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De artikelen 7 tot en met 10 zijn niet van toepassing op een bestemmingsplan of omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken, waarvan het ontwerp voor het tijdstip van inwerkingtreding van dit besluit ter inzage is gelegd. 
+De artikelen 7 tot en met 10 zijn niet van toepassing op een bestemmingsplan of omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken, waarvan het ontwerp voor het tijdstip van inwerkingtreding van dit besluit ter inzage is gelegd. 
 
 ### §  6  
 

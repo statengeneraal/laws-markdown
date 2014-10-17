@@ -1944,7 +1944,7 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in artike
 4. De tarieven voor de activiteiten, bedoeld in het eerste lid, zijn voor het geheel van de activiteiten kostengeoriënteerd. 
 5. Onverminderd het vierde lid, zijn de tarieven voor de beveiliging van passagiers en hun bagage, alsmede vracht voor het geheel van de beveiligingsactiviteiten kostengeoriënteerd. 
 6. Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de toegerekende opbrengsten in aanmerking uit overige activiteiten van de exploitant van de luchthaven die rechtstreeks verband houden met de activiteiten, bedoeld in het eerste lid. 
-7. Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de kosten in aanmerking van structurele maatregelen voor de uitvoering van een bijzondere aanwijzing van Onze Minister van Justitie, bedoeld in artikel 37ac, tweede lid, van de Luchtvaartwet, voor zover die maatregelen betrekking hebben op de beveiliging van passagiers en hun bagage. 
+7. Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de kosten in aanmerking van structurele maatregelen voor de uitvoering van een bijzondere aanwijzing van Onze Minister van Veiligheid en Justitie, bedoeld in artikel 37ac, tweede lid, van de Luchtvaartwet, voor zover die maatregelen betrekking hebben op de beveiliging van passagiers en hun bagage. 
 8. Bij de vaststelling van de tarieven kan, in afwijking van het vierde en vijfde lid, de exploitant van de luchthaven een bijdrage uit andere activiteiten dan die, bedoeld in het eerste en zesde lid, in aanmerking nemen. 
 9. Bij de vaststelling van de tarieven wordt de bijdrage, bedoeld in het achtste lid, naar rato van de kosten toegerekend aan de activiteiten voor de beveiliging van passagiers en hun bagage, bedoeld in het vijfde lid, en de overige activiteiten ten behoeve van het gebruik van de luchthaven door gebruikers, bedoeld in het zesde lid. 
 10. De exploitant van de luchthaven verrekent bij de vaststelling van de tarieven, nadat deze zijn bepaald met inachtneming van het tweede tot en met negende lid, het verschil tussen de geraamde en de werkelijke opbrengsten en kosten in verband met de prognoses en de realisatie van het volume van het luchthavenluchtverkeer, het vervoer van passagiers en vracht en van de uitvoering van investeringen, zoals volgt uit de financiële verantwoording over het aan het moment van vaststelling van de tarieven voorafgaande boekjaar. 
@@ -1967,9 +1967,9 @@ f.de wijze waarop de exploitant van de luchthaven, zonodig in afwijking van de r
 
 ### Artikel  8.25da  
 
-1.  Onze minister van Verkeer en Waterstaat kan een groep luchthavens die wordt geëxploiteerd door de exploitant van de luchthaven of, indien dit een ander is, een en dezelfde houder van de luchthavenexploitatievergunning, aanwijzen als luchthavennetwerk.   
-2.   Onze minister van Verkeer en Waterstaat kan de exploitant van het luchthavennetwerk toestemming verlenen om een gemeenschappelijk, transparant systeem van tarieven vast te stellen voor het gehele luchthavennetwerk.   
-3.   Onze minister van Verkeer en Waterstaat kan de exploitant van de luchthaven en de exploitant van elke deelnemende overige burgerluchthaven, voor zover zij luchtverbindingen voor dezelfde stad of agglomeratie verzorgen, toestemming verlenen om een gemeenschappelijk, transparant systeem van tarieven vast te stellen voor alle luchthavens die de luchtverbindingen voor dezelfde stad of agglomeratie verzorgen.   
+1.  Onze Minister van Infrastructuur en Milieu kan een groep luchthavens die wordt geëxploiteerd door de exploitant van de luchthaven of, indien dit een ander is, een en dezelfde houder van de luchthavenexploitatievergunning, aanwijzen als luchthavennetwerk.   
+2.   Onze Minister van Infrastructuur en Milieu kan de exploitant van het luchthavennetwerk toestemming verlenen om een gemeenschappelijk, transparant systeem van tarieven vast te stellen voor het gehele luchthavennetwerk.   
+3.   Onze Minister van Infrastructuur en Milieu kan de exploitant van de luchthaven en de exploitant van elke deelnemende overige burgerluchthaven, voor zover zij luchtverbindingen voor dezelfde stad of agglomeratie verzorgen, toestemming verlenen om een gemeenschappelijk, transparant systeem van tarieven vast te stellen voor alle luchthavens die de luchtverbindingen voor dezelfde stad of agglomeratie verzorgen.   
 4.   In geval van een gemeenschappelijk, transparant systeem van tarieven, als bedoeld in het tweede of derde lid, doet de exploitant van de luchthaven aan de gebruikers mededeling van een voorstel voor de tarieven en voorwaarden en stelt hij de tarieven en voorwaarden vast voor de luchthaven Schiphol overeenkomstig de artikelen 8.25d tot en met 8.25i. De exploitant van elke deelnemende overige burgerluchthaven doet aan de gebruikers mededeling van een voorstel en stelt de tarieven vast overeenkomstig de artikelen 8.25d, eerste, tweede, zesde en tiende lid, 8.25e, 8.25f, 8.25h, 8.25i en 8.25j. De exploitant en de deelnemende overige burgerluchthavens dragen zorg voor de noodzakelijke onderlinge afstemming.   
 5.   In het geval dat een overige burgerluchthaven de drempelwaarde van vijf miljoen passagiersbewegingen overschrijdt, doet de exploitant van deze luchthaven aan de gebruikers mededeling van een voorstel voor de tarieven en voorwaarden en stelt hij de tarieven en voorwaarden vast overeenkomstig de artikelen 8.25d, eerste, tweede, zesde en tiende lid, 8.25e, 8.25f, 8.25h, 8.25i en 8.25j.  
 
@@ -2027,14 +2027,13 @@ De exploitant van de luchthaven zendt de Autoriteit Consument en Markt en de geb
 ### Artikel 8.25h 
 
 1. De exploitant van de luchthaven zendt de Autoriteit Consument en Markt een afschrift van de mededeling, bedoeld in artikel 8.25d, eerste lid, en van de mededeling, bedoeld in artikel 8.25e, eerste lid. 
-2. De Autoriteit Consument en Markt is bevoegd van de exploitant van de luchthaven alle inlichtingen en gegevens te verlangen, die zij voor de uitoefening van haar taak op grond van deze wet redelijkerwijs nodig acht. 
-3. De exploitant van de luchthaven verleent binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking die deze redelijkerwijs kan verlangen bij de uitoefening van haar bevoegdheden op grond van deze wet. Artikel 4:15 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
-4. Onze Minister van Verkeer en Waterstaat en Onze Minister van Justitie verstrekken de Autoriteit Consument en Markt desgevraagd de inlichtingen en gegevens die deze voor de uitoefening van haar taak nodig heeft. 
-5. Ingeval van overtreding van het derde lid is hoofdstuk 8 van de Mededingingswet, met uitzondering van de artikelen 71 tot en met 76 en artikel 80, van overeenkomstige toepassing.
+2.  De exploitant van de luchthaven verleent binnen de door de Autoriteit Consument en Markt gestelde termijn alle medewerking die deze redelijkerwijs kan verlangen bij de uitoefening van haar bevoegdheden op grond van deze wet.  
+3.  Artikel 4:15 van de Algemene wet bestuursrecht is van overeenkomstige toepassing indien de Autoriteit Consument en Markt aan de exploitant van de luchthaven om gegevens verzoekt met het oog op een te nemen besluit.  
+4.  Ingeval van overtreding van het tweede lid is artikel 12m van de Instellingswet Autoriteit Consument en Markt van overeenkomstige toepassing. 
 
 ### Artikel 8.25j 
 
-Een voordracht voor een algemene maatregel van bestuur op grond van de artikelen 8.25d tot en met 8.25g wordt gedaan door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Economische Zaken.
+Een voordracht voor een algemene maatregel van bestuur op grond van de artikelen 8.25d tot en met 8.25g wordt gedaan door Onze Minister van Infrastructuur en Milieu in overeenstemming met Onze Minister van Economische Zaken.
 
 ### Afdeling  8.5  
 
@@ -3600,8 +3599,7 @@ c. luchtverkeersdienstverlening te geven,   voor ten hoogste drie jaren worden o
 
 ### Artikel  11.14a  
 
-1. Met het toezicht op de naleving van het bij of krachtens de artikelen 8.25d tot en met 8.25h bepaalde zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt. De artikelen 51, 53 en 54 van de Mededingingswet zijn van overeenkomstige toepassing. 
-2. Een besluit als bedoeld in het eerste lid, wordt bekendgemaakt in de Staatscourant. 
+De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bij of krachtens de artikelen 8.25d tot en met 8.25h bepaalde. 
 
 ### Titel  11.2  
 
@@ -3609,7 +3607,7 @@ c. luchtverkeersdienstverlening te geven,   voor ten hoogste drie jaren worden o
 
 ### §  11.2.1  
 
-####Bestuursrechtelijke handhaving door Minister van Verkeer en Waterstaat
+####Bestuursrechtelijke handhaving door Minister van Infrastructuur en Milieu
 
 ### Artikel  11.15  
 
@@ -3746,7 +3744,7 @@ b. een maatregel als bedoeld in de artikelen 8.45 of 8.64, zesde lid, juncto art
 
 ### Artikel  11.24  
 
-Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of 8.25h, eerste of derde lid, zijn artikel 54a en hoofdstuk 7, met uitzondering van de artikelen 58a en 63, van de Mededingingswet van overeenkomstige toepassing.
+Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of artikel 8.25h, eerste of tweede lid, is hoofdstuk 7, met uitzondering van artikel 58a, van de Mededingingswet van overeenkomstige toepassing.
 
 ###Titel 11.3 
 
@@ -3782,10 +3780,6 @@ Onze Minister van Verkeer en Waterstaat zendt drie jaar na de inwerkingtreding v
 1.   Bevat wijzigingen in andere regelgeving.    
 2.   De krachtens het Luchtverkeersreglement 1980 (*Stb.* 1980, 786) door of vanwege Onze Minister gegeven nadere regels, alsook de krachtens het Luchtverkeersreglement 1980 door of vanwege Onze Minister gegeven vrijstellingen, ontheffingen en de daaraan verbonden voorschriften blijven nog twee jaar na het in werking treden van deze wet van kracht, tenzij zij op een vroeger tijdstip worden ingetrokken.    
 3.   De wet van 8 december 1971, *Stb.* 719, houdende inning van vergoedingen voor het gebruik van het luchtruim, wordt ingetrokken.   
-
-### Artikel 12.3a 
-
-Onze Minister van Verkeer en Waterstaat en Onze Minister van Economische Zaken zenden binnen vier jaar na de inwerkingtreding van de artikelen 8.25d tot en met 8.25h en de artikelen 11.14a en 11.21 van deze wet en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze bepalingen in de praktijk.
 
 ### Artikel  12.4  
 

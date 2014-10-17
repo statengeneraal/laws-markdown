@@ -57,7 +57,7 @@ Uitsluitend artsen die als forensisch arts zijn ingeschreven in een daartoe geho
 ### Artikel  7  
 
 1.  Hij die de schouwing heeft verricht geeft een verklaring van overlijden af, indien hij ervan overtuigd is dat de dood is ingetreden ten gevolge van een natuurlijke oorzaak.   
-2.  Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 293, tweede lid](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), onderscheidenlijk [artikel 294, tweede lid, tweede volzin, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), geeft de behandelende arts geen verklaring van overlijden af en doet hij van de oorzaak van dit overlijden onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers. Bij de mededeling voegt de arts een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md).   
+2.  Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in artikel 293, tweede lid, onderscheidenlijk artikel 294, tweede lid, tweede volzin, van het Wetboek van Strafrecht, geeft de behandelende arts geen verklaring van overlijden af en doet hij van de oorzaak van dit overlijden onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers. Bij de mededeling voegt de arts een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.   
 3.  Indien de behandelende arts in andere gevallen dan die bedoeld in het tweede lid meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, doet hij hiervan onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers.   
 
 ### Artikel  8  
@@ -74,7 +74,7 @@ Uitsluitend artsen die als forensisch arts zijn ingeschreven in een daartoe geho
 ### Artikel  10  
 
 1.  Indien de gemeentelijke lijkschouwer meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, brengt hij door invulling van een formulier onverwijld verslag uit aan de officier van justitie en waarschuwt hij onverwijld de ambtenaar van de burgerlijke stand.   
-2.  Onverminderd het eerste lid brengt de gemeentelijke lijkschouwer, indien sprake is van een mededeling als bedoeld in artikel 7, tweede lid, door invulling van een formulier onverwijld verslag uit aan de regionale toetsingscommissie bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md). Hij zendt het beredeneerd verslag als bedoeld in artikel 7, tweede lid, mee.  
+2.  Onverminderd het eerste lid brengt de gemeentelijke lijkschouwer, indien sprake is van een mededeling als bedoeld in artikel 7, tweede lid, door invulling van een formulier onverwijld verslag uit aan de regionale toetsingscommissie bedoeld in artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding. Hij zendt het beredeneerd verslag als bedoeld in artikel 7, tweede lid, mee.  
 
 ### Artikel  10a  
 
@@ -97,7 +97,7 @@ Onverminderd artikel 2, tweede lid, kan een menselijke vrucht als bedoeld in dat
 
 ### Artikel  12  
 
-Verlof tot begraving of tot crematie wordt niet verleend, zolang niet is overgelegd een verklaring van overlijden, afgegeven door de behandelende arts of een gemeentelijke lijkschouwer, dan wel een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving of crematie. Indien de officier van justitie in de gevallen als bedoeld in artikel 7, tweede lid, meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving of crematie te kunnen overgaan, stelt hij de gemeentelijke lijkschouwer en de regionale toetsingscommissie bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md), hiervan onverwijld in kennis. 
+Verlof tot begraving of tot crematie wordt niet verleend, zolang niet is overgelegd een verklaring van overlijden, afgegeven door de behandelende arts of een gemeentelijke lijkschouwer, dan wel een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving of crematie. Indien de officier van justitie in de gevallen als bedoeld in artikel 7, tweede lid, meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving of crematie te kunnen overgaan, stelt hij de gemeentelijke lijkschouwer en de regionale toetsingscommissie bedoeld in artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding, hiervan onverwijld in kennis. 
 
 ### Artikel  12a  
 
@@ -130,7 +130,7 @@ Begraving of crematie geschiedt niet eerder dan 36 uren na het overlijden en uit
 ### Artikel  17  
 
 1.  Na een arts te hebben gehoord kan de burgemeester der gemeente, waar het lijk zich bevindt, voor de begraving of crematie daarvan een andere termijn stellen. Begraving of crematie binnen 36 uur na het overlijden staat hij echter niet toe dan in overeenstemming met de officier van justitie.   
-2.   Van het besluit van de burgemeester staat binnen 24 uur beroep open op Onze Commissaris in de provincie, die daarop onmiddellijk beslist. De [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
+2.   Van het besluit van de burgemeester staat binnen 24 uur beroep open op Onze Commissaris in de provincie, die daarop onmiddellijk beslist. De Algemene wet bestuursrecht is niet van toepassing.  
 
 ### §  4  
 
@@ -165,11 +165,11 @@ Ingeval niemand maatregelen neemt tot lijkschouwing of lijkbezorging overeenkoms
 
 ### Artikel  22  
 
-De kosten, verbonden aan de bezorging van lijken waarvoor de burgemeester zorg draagt, daaronder begrepen lijken die uit zee worden aangebracht, komen ten laste van de gemeente. Voor zover zij door de bij de lijken gevonden, niet klaarblijkelijk aan anderen toebehorende goederen of gelden niet kunnen worden gedekt, kan de gemeente die kosten verhalen op de nalatenschap en, bij ongenoegzaamheid van deze, op de bloed- en aanverwanten, die krachtens de [artikelen 392-396 van Boek I van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) tot onderhoud van de overledene verplicht zouden zijn geweest, dan wel de reder indien en voor zover kosten van de lijkbezorging op grond van [artikel 416 Wetboek van Koophandel](../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) voor diens rekening komen. [paragraaf 6.5 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is voor zover mogelijk van overeenkomstige toepassing. 
+De kosten, verbonden aan de bezorging van lijken waarvoor de burgemeester zorg draagt, daaronder begrepen lijken die uit zee worden aangebracht, komen ten laste van de gemeente. Voor zover zij door de bij de lijken gevonden, niet klaarblijkelijk aan anderen toebehorende goederen of gelden niet kunnen worden gedekt, kan de gemeente die kosten verhalen op de nalatenschap en, bij ongenoegzaamheid van deze, op de bloed- en aanverwanten, die krachtens de artikelen 392-396 van Boek I van het Burgerlijk Wetboek tot onderhoud van de overledene verplicht zouden zijn geweest, dan wel de reder indien en voor zover kosten van de lijkbezorging op grond van artikel 416 Wetboek van Koophandel voor diens rekening komen. paragraaf 6.5 van de Wet werk en bijstand is voor zover mogelijk van overeenkomstige toepassing. 
 
 ### Artikel  22a  
 
-1.  Indien een lijk is besmet met een infectueus of giftig agens of een infectueuze of giftige stof, of een gegrond vermoeden daarvan bestaat, waardoor een ernstig gevaar voor de volksgezondheid kan ontstaan, kan de burgemeester, na advies van de gemeentelijke gezondheidsdienst, bedoeld in [artikel 17 van de Wet publieke gezondheid](../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), maatregelen treffen om dit gevaar af te wenden.   
+1.  Indien een lijk is besmet met een infectueus of giftig agens of een infectueuze of giftige stof, of een gegrond vermoeden daarvan bestaat, waardoor een ernstig gevaar voor de volksgezondheid kan ontstaan, kan de burgemeester, na advies van de gemeentelijke gezondheidsdienst, bedoeld in artikel 17 van de Wet publieke gezondheid, maatregelen treffen om dit gevaar af te wenden.   
 2.  Met het toezicht op de naleving van het bepaalde in het eerste lid zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.  
 
 ### Hoofdstuk  III  
@@ -242,7 +242,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze
 
 ### Artikel  32a  
 
-Gedurende de periode dat een graf niet geruimd mag worden, is [artikel 20, eerste lid, aanhef en onder e en f, van Boek 5 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) niet van toepassing op hetgeen op dat graf is geplaatst of op het gebouw of werk waarin het graf zich bevindt, dan wel, indien is begraven in een grafkelder, op hetgeen daarin of daarop is geplaatst. 
+Gedurende de periode dat een graf niet geruimd mag worden, is artikel 20, eerste lid, aanhef en onder e en f, van Boek 5 van het Burgerlijk Wetboek niet van toepassing op hetgeen op dat graf is geplaatst of op het gebouw of werk waarin het graf zich bevindt, dan wel, indien is begraven in een grafkelder, op hetgeen daarin of daarop is geplaatst. 
 
 ### §  2  
 
@@ -494,7 +494,7 @@ De bestemming van een terrein om permanent as op te verstrooien door de houder v
 ### Artikel  68  
 
 1.  Ontleding geschiedt slechts met schriftelijk verlof van de burgemeester. Het verlof wordt binnen drie dagen kosteloos afgegeven en vermeldt de plaats van ontleding. De artikelen 12-15 zijn van overeenkomstige toepassing.   
-2.   Van het besluit van de burgemeester staat binnen 24 uren beroep open op Onze Commissaris in de provincie, die daarop onmiddellijk beslist. De [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
+2.   Van het besluit van de burgemeester staat binnen 24 uren beroep open op Onze Commissaris in de provincie, die daarop onmiddellijk beslist. De Algemene wet bestuursrecht is niet van toepassing.  
 
 ### Artikel  69  
 
@@ -511,11 +511,11 @@ Wij geven bij algemene maatregel van bestuur voorschriften omtrent de wijze, waa
 
 ### Artikel  71  
 
-1.  Een lijk wordt niet gebalsemd of onderworpen aan enige andere conserverende bewerking die niet is gericht op gebruik van delen van het lijk ingevolge de [Wet op de orgaandonatie](../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md). In uitzonderlijke gevallen kan Onze Minister van Volksgezondheid, Welzijn en Sport ontheffing van dit verbod verlenen. In de ontheffing wordt de wijze en de plaats van de lijkbezorging vermeld. De artikelen 12-15 zijn van overeenkomstige toepassing.   
+1.  Een lijk wordt niet gebalsemd of onderworpen aan enige andere conserverende bewerking die niet is gericht op gebruik van delen van het lijk ingevolge de Wet op de orgaandonatie. In uitzonderlijke gevallen kan Onze Minister van Volksgezondheid, Welzijn en Sport ontheffing van dit verbod verlenen. In de ontheffing wordt de wijze en de plaats van de lijkbezorging vermeld. De artikelen 12-15 zijn van overeenkomstige toepassing.   
 2.   Het verbod, vermeld in het eerste lid, is niet van toepassing, indien het lijk tot ontleding bestemd is of naar het buitenland wordt gezonden.   
 3.   Artikel 69 is van overeenkomstige toepassing. Indien het lijk tot ontleding is bestemd, is alleen het tweede lid van dat artikel van overeenkomstige toepassing.   
 4.  In afwijking van het eerste lid kan een lijk worden onderworpen aan een conserverende bewerking die ten hoogste tien dagen effect heeft.   
-5.  Een bewerking als bedoeld in het vierde lid vindt eerst plaats nadat is vastgesteld dat verwijdering van een of meer organen als bedoeld in de [Wet op de orgaandonatie](../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) niet zal plaatsvinden.   
+5.  Een bewerking als bedoeld in het vierde lid vindt eerst plaats nadat is vastgesteld dat verwijdering van een of meer organen als bedoeld in de Wet op de orgaandonatie niet zal plaatsvinden.   
 6.  Bij ministeriële regeling kunnen eisen worden gesteld aan de opleiding en de vakbekwaamheid van degenen die de bewerking, bedoeld in het vierde lid, uitvoeren alsmede aan de wijze van bewerking. 
 
 ### Artikel  72  
@@ -547,7 +547,7 @@ Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevore
 ### Artikel  76  
 
 1.  Wanneer tekenen of aanduidingen van een niet-natuurlijke dood aanwezig zijn of wanneer in verband met andere omstandigheden een niet-natuurlijke dood niet uitgesloten geacht kan worden, mag het lijk niet worden vervoerd dan met verlof van de officier van justitie of een van zijn hulpofficieren.   
-2.  In zodanig geval mag ontleding, conservering als bedoeld in artikel 71, eerste en vierde lid, sectie of verwijdering van organen uit het lijk voor orgaandonatie als bedoeld in de [Wet op de orgaandonatie](../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) niet plaatsvinden, of indien reeds aangevangen, niet worden voortgezet, dan met toestemming van de officier van justitie.   
+2.  In zodanig geval mag ontleding, conservering als bedoeld in artikel 71, eerste en vierde lid, sectie of verwijdering van organen uit het lijk voor orgaandonatie als bedoeld in de Wet op de orgaandonatie niet plaatsvinden, of indien reeds aangevangen, niet worden voortgezet, dan met toestemming van de officier van justitie.   
 3.   Indien de officier van justitie een geval als bedoeld in het eerste lid aanwezig acht, kan hij uitstel van de begraving of van de crematie van het lijk gelasten, of de crematie verbieden. Zolang een zodanige maatregel van kracht is, wordt het lijk niet begraven of gecremeerd, onderscheidenlijk niet gecremeerd, en geeft de ambtenaar van de burgerlijke stand daartoe geen verlof.   
 4.  Indien de officier van justitie een geval als bedoeld in het eerste lid aanwezig acht kan hij verbieden dat de as wordt verstrooid, ter beschikking wordt gesteld aan een nabestaande of naar het buitenland wordt verzonden.    
 5.   Voor de toepassing van dit artikel wordt als bevoegde officier van justitie aangemerkt die van de plaats waar het lijk het eerst is aangetroffen.  
@@ -624,7 +624,7 @@ De ingevolge deze wet strafbaar gestelde feiten zijn overtredingen.
 
 1.  De bij de inwerkingtreding van deze wet in gebruik zijnde begraafplaatsen en crematoria worden geacht te zijn aangelegd en opengesteld onderscheidenlijk gevestigd en in werking gesteld te zijn overeenkomstig de bepalingen van deze wet. Een op dat tijdstip reeds verleend verlof tot vestiging, uitbreiding of wijziging van een crematorium wordt geacht ingevolge artikel 53 te zijn verleend.   
 2.   De op het tijdstip van inwerkingtreding van deze wet geldende ontheffingen, verleend op grond van artikel 13, eerste lid, van de Wet op de lijkbezorging (Wet van 10 april 1869. *Stb.* 65), worden geacht te zijn verleend overeenkomstig artikel 33, van deze wet.   
-3.   De op het tijdstip van inwerkingtreding van deze wet geldende gemeentelijke verordeningen tot heffing van rechten als bedoeld in de artikelen 20, 21, 29*o* en 30-35 van de Wet op de lijkbezorging (Wet van 10 april 1869, *Stb.* 65), worden geacht te zijn vastgesteld krachtens [artikel 229 van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb.* 1992, 96).  
+3.   De op het tijdstip van inwerkingtreding van deze wet geldende gemeentelijke verordeningen tot heffing van rechten als bedoeld in de artikelen 20, 21, 29*o* en 30-35 van de Wet op de lijkbezorging (Wet van 10 april 1869, *Stb.* 65), worden geacht te zijn vastgesteld krachtens artikel 229 van de Gemeentewet (*Stb.* 1992, 96).  
 
 ### Artikel  84  
 
@@ -640,7 +640,7 @@ b. op een later gelegen tijdstip waarop dertig jaar is verstreken sinds de laats
 
 ### Artikel  84b  
 
-Indien een graf op het tijdstip van inwerkingtreding van dit artikel niet ingevolge deze wet mag worden geruimd, gaat op dat tijdstip hetgeen op dat graf is geplaatst, of het gebouw of werk waarin het graf zich bevindt, dan wel, indien is begraven in een grafkelder, hetgeen daarin of daarop is geplaatst, en door toepassing van [artikel 20, eerste lid, aanhef en onder e en f, van Boek 5 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) voor de oorspronkelijke rechthebbende verloren is gegaan, over op die oorspronkelijk rechthebbende of diens rechtverkrijgenden onder algemene titel, en is vanaf dat tijdstip artikel 32a daarop van toepassing. Er ontstaat geen verplichting tot vergoeding van enig door deze overgang veroorzaakt vermogensrechtelijk nadeel.
+Indien een graf op het tijdstip van inwerkingtreding van dit artikel niet ingevolge deze wet mag worden geruimd, gaat op dat tijdstip hetgeen op dat graf is geplaatst, of het gebouw of werk waarin het graf zich bevindt, dan wel, indien is begraven in een grafkelder, hetgeen daarin of daarop is geplaatst, en door toepassing van artikel 20, eerste lid, aanhef en onder e en f, van Boek 5 van het Burgerlijk Wetboek voor de oorspronkelijke rechthebbende verloren is gegaan, over op die oorspronkelijk rechthebbende of diens rechtverkrijgenden onder algemene titel, en is vanaf dat tijdstip artikel 32a daarop van toepassing. Er ontstaat geen verplichting tot vergoeding van enig door deze overgang veroorzaakt vermogensrechtelijk nadeel.
 
 ### Artikel  85  
 
@@ -667,7 +667,7 @@ Een besluit waartegen ingevolge deze wet beroep openstaat of aanhangig is treedt
 
 ### Artikel  89  
 
-De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de artikelen 20 en 68, eerste lid. 
+De Algemene termijnenwet is niet van toepassing op de termijnen, gesteld in de artikelen 20 en 68, eerste lid. 
 
 ### Artikel  90  
 

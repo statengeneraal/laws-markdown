@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu van 2 mei 2011, nr. BJZ2011044006, houdende nadere regels met betrekking tot energie uit hernieuwbare bronnen voor vervoer (Regeling hernieuwbare energie vervoer)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op de [artikelen 12.31, vierde en vijfde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [artikelen 3, vierde, vijfde en zesde lid](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md), [4, tweede lid](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md), [5, derde lid](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md), en [6, vijfde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md) en [artikel 2.9, vijfde lid, van het Besluit brandstoffen luchtverontreiniging](../../../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md);
+Gelet op de artikelen 12.31, vierde en vijfde lid, van de Wet milieubeheer, de artikelen 3, vierde, vijfde en zesde lid, 4, tweede lid, 5, derde lid, en 6, vijfde lid, van het Besluit hernieuwbare energie vervoer en artikel 2.9, vijfde lid, van het Besluit brandstoffen luchtverontreiniging;
 Besluit:     
 ### Paragraaf  1  
 
@@ -13,26 +13,26 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:* [Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md);  
+*besluit:* Besluit hernieuwbare energie vervoer;  
 
 *biobrandstoffenbalans:* overzicht van de op de Nederlandse markt gebrachte en geleverde biobrandstoffen en elektriciteit ten behoeve van wegvoertuigen en mobiele machines, in het kalenderjaar waarop die biobrandstoffenbalans betrekking heeft;  
 
-*broeikasgasemissies gedurende de levenscyclus:* broeikasgasemissies gedurende de levenscyclus als bedoeld in het [Besluit brandstoffen luchtverontreiniging](../../../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md);  
+*broeikasgasemissies gedurende de levenscyclus:* broeikasgasemissies gedurende de levenscyclus als bedoeld in het Besluit brandstoffen luchtverontreiniging;  
 
 *duurzaamheidssysteem:* systeem voor de beoordeling van de duurzaamheid van biobrandstoffen;  
 
-*jaarverplichting:* verplichting in een percentage over een kalenderjaar als genoemd in [artikel 3, eerste lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md);  
+*jaarverplichting:* verplichting in een percentage over een kalenderjaar als genoemd in artikel 3, eerste lid, van het besluit;  
 
 *minister:* Minister van Infrastructuur en Milieu;  
 
-*rekening:* rekening als bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md);  
+*rekening:* rekening als bedoeld in artikel 5, eerste lid, van het besluit;  
 
-*verificateur:* onafhankelijke deskundige als bedoeld in [artikel 3, derde lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md).   
+*verificateur:* onafhankelijke deskundige als bedoeld in artikel 3, derde lid, van het besluit.   
 
 ### Artikel  1a  
 
-1.  De hoeveelheid, bedoeld in [artikel 1a, eerste lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md) is: 50.000 liter.   
-2.  De brandstoffen, bedoeld in [artikel 1a, eerste en tweede lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md) zijn: 
+1.  De hoeveelheid, bedoeld in artikel 1a, eerste lid, van het besluit is: 50.000 liter.   
+2.  De brandstoffen, bedoeld in artikel 1a, eerste en tweede lid, van het besluit zijn: 
 
 a. benzine;  
 
@@ -119,7 +119,7 @@ De geregistreerde opent voor een kalenderjaar een rekening door voor de eerste k
 
 ### Artikel  16  
 
-1.  Bij de vaststelling van het percentage, bedoeld in [artikel 3, eerste lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md), telt biobrandstof die is geproduceerd uit materialen genoemd in: 
+1.  Bij de vaststelling van het percentage, bedoeld in artikel 3, eerste lid, van het besluit, telt biobrandstof die is geproduceerd uit materialen genoemd in: 
 
 a. bijlage II, tabel 1, 2 en 3: dubbel;  
 
@@ -172,7 +172,7 @@ b. geeft bij splitsing van de verklaring opnieuw een unieke code af;
 
 c. verstrekt op verzoek van het bestuur van de emissieautoriteit, binnen zes maanden na het kalenderjaar een overzicht van de door haar afgegeven en ingenomen verklaringen;  
 
-d. ziet erop toe dat te verifiëren hoeveelheden grondstoffen en biobrandstoffen zijn bepaald overeenkomstig [artikel 2 van het Meetinstrumentenbesluit I](../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md).    
+d. ziet erop toe dat te verifiëren hoeveelheden grondstoffen en biobrandstoffen zijn bepaald overeenkomstig artikel 2 van het Meetinstrumentenbesluit I.    
 
 ### Paragraaf  7  
 
@@ -180,8 +180,8 @@ d. ziet erop toe dat te verifiëren hoeveelheden grondstoffen en biobrandstoffen
 
 ### Artikel  18  
 
-1.  Het percentage van de jaarverplichting dat wordt ingevuld met biobrandstoffen als bedoeld in [artikel 3, zesde lid, onderdeel b, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md) is ten hoogste 25.   
-2.  De biobrandstoffen, bedoeld in het eerste lid, voldoen in het kalenderjaar waarin deze worden meegeteld aan de voor dat kalenderjaar geldende eisen, bedoeld in [artikel 3, derde lid, van het besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md).  
+1.  Het percentage van de jaarverplichting dat wordt ingevuld met biobrandstoffen als bedoeld in artikel 3, zesde lid, onderdeel b, van het besluit is ten hoogste 25.   
+2.  De biobrandstoffen, bedoeld in het eerste lid, voldoen in het kalenderjaar waarin deze worden meegeteld aan de voor dat kalenderjaar geldende eisen, bedoeld in artikel 3, derde lid, van het besluit.  
 
 ### Paragraaf  8  
 
@@ -197,7 +197,7 @@ Het bioticket wordt opgesteld overeenkomstig het model in bijlage IV.
 
 ### Artikel  20  
 
-Het [besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md) is niet van toepassing op diesel waarvoor vrijstelling van accijns als bedoeld in [artikel 66 van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) dan wel teruggaaf van accijns als bedoeld in [artikel 70, eerste lid, onderdeel b, van die wet](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is verleend. 
+Het besluit is niet van toepassing op diesel waarvoor vrijstelling van accijns als bedoeld in artikel 66 van de Wet op de accijns dan wel teruggaaf van accijns als bedoeld in artikel 70, eerste lid, onderdeel b, van die wet is verleend. 
 
 ### Paragraaf  10  
 
@@ -205,8 +205,8 @@ Het [besluit](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR00
 
 ### Artikel  21  
 
-1.  Als categorieën ondernemingen als bedoeld in [artikel 12.33, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen de registratieplichtigen die biobrandstoffen fysiek bijmengen in benzine of diesel.   
-2.  Het overzicht, bedoeld in [artikel 12.33, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), heeft betrekking op de biobrandstoffen, bedoeld in het eerste lid, wordt langs elektronische weg bekendgemaakt, en bestaat uit drie overzichten waarin over het laatst verstreken kalenderjaar per geregistreerde van de hoeveelheid ten behoeve van wegvoertuigen en mobiele machines op de Nederlandse markt gebrachte biobrandstoffen wordt vermeld: 
+1.  Als categorieën ondernemingen als bedoeld in artikel 12.33, eerste lid, van de Wet milieubeheer worden aangewezen de registratieplichtigen die biobrandstoffen fysiek bijmengen in benzine of diesel.   
+2.  Het overzicht, bedoeld in artikel 12.33, eerste lid, van de Wet milieubeheer, heeft betrekking op de biobrandstoffen, bedoeld in het eerste lid, wordt langs elektronische weg bekendgemaakt, en bestaat uit drie overzichten waarin over het laatst verstreken kalenderjaar per geregistreerde van de hoeveelheid ten behoeve van wegvoertuigen en mobiele machines op de Nederlandse markt gebrachte biobrandstoffen wordt vermeld: 
 
 a. de aard van de verschillende grondstoffen;  
 
@@ -262,9 +262,9 @@ Ondergetekende verklaart:
 
 – de hieronder aangegeven hoeveelheid biogas met de vermelde kenmerken aan wegvoertuigen en mobiele machines te hebben geleverd,  
 
-– dat voor het geleverde biogas ten behoeve van wegvoertuigen geen subsidie is verstrek op grond van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), 
+– dat voor het geleverde biogas ten behoeve van wegvoertuigen geen subsidie is verstrek op grond van het Besluit stimulering duurzame energieproductie, 
 
-– dat de betreffende hoeveelheid biogas voldoet aan de duurzaamheidseisen, bedoeld in [artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md). 
+– dat de betreffende hoeveelheid biogas voldoet aan de duurzaamheidseisen, bedoeld in artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer. 
 
 * Productielocatie van het biogas: 
 
@@ -328,9 +328,9 @@ Ondergetekende verklaart:
 
 – dat de geproduceerde hoeveelheid biogas in Nederland in het aardgasnet is gevoed,  
 
-– dat voor het geleverde biogas ten behoeve van wegvoertuigen geen subsidie is verstrekt op grond van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md),  
+– dat voor het geleverde biogas ten behoeve van wegvoertuigen geen subsidie is verstrekt op grond van het Besluit stimulering duurzame energieproductie,  
 
-– dat de aangegeven hoeveelheid biogas voldoet aan de duurzaamheidseisen, bedoeld in [artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md).   De kenmerken: 
+– dat de aangegeven hoeveelheid biogas voldoet aan de duurzaamheidseisen, bedoeld in artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer.   De kenmerken: 
 
 * Productielocatie van het biogas:  
 
@@ -487,19 +487,19 @@ Geregistreerde 1 verklaart:
 
 – een hoeveelheid biobrandstoffen met de hieronder vermelde kenmerken ten behoeve van wegvoertuigen en mobiele machines op de Nederlandse markt te hebben gebracht,  
 
-– dat de betreffende hoeveelheid biobrandstoffen voldoet aan de duurzaamheidseisen, bedoeld in [artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md).   Ondergetekenden, geregistreerde 1 en geregistreerde 2 verklaren: 
+– dat de betreffende hoeveelheid biobrandstoffen voldoet aan de duurzaamheidseisen, bedoeld in artikel 3, derde lid, van het Besluit hernieuwbare energie vervoer.   Ondergetekenden, geregistreerde 1 en geregistreerde 2 verklaren: 
 
-– de betreffende hoeveelheid biobrandstoffen administratief te hebben verhandeld in de vorm van een bioticket als bedoeld in [artikel 4, eerste lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md), of indien sprake is van:  
+– de betreffende hoeveelheid biobrandstoffen administratief te hebben verhandeld in de vorm van een bioticket als bedoeld in artikel 4, eerste lid, van het Besluit hernieuwbare energie vervoer, of indien sprake is van:  
 
-– biogas, als bedoeld in [artikel 6, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md),  
+– biogas, als bedoeld in artikel 6, derde lid, van het Besluit hernieuwbare energie vervoer,  
 
-– hernieuwbare brandstof geleverd aan binnenschepen, als bedoeld in [artikel 6b, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md),  
+– hernieuwbare brandstof geleverd aan binnenschepen, als bedoeld in artikel 6b, derde lid, van het Besluit hernieuwbare energie vervoer,  
 
-– biokerosine als bedoeld in [artikel 6c, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md).  Geregistreerde 2 heeft als koper van het bioticket het recht om de betreffende hoeveelheid biobrandstoffen in te zetten voor: 
+– biokerosine als bedoeld in artikel 6c, derde lid, van het Besluit hernieuwbare energie vervoer.  Geregistreerde 2 heeft als koper van het bioticket het recht om de betreffende hoeveelheid biobrandstoffen in te zetten voor: 
 
-– de verplichting, bedoeld in [artikel 3, eerste lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md),  
+– de verplichting, bedoeld in artikel 3, eerste lid, van het Besluit hernieuwbare energie vervoer,  
 
-– de verplichting, bedoeld in [artikel 2.9, eerste lid, van het Besluit brandstoffen luchtverontreiniging](../../../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md).   Geregistreerde 1 heeft als verkoper van het bioticket niet langer het recht om de betreffende hoeveelheid biobrandstoffen in te zetten voor deze beide verplichtingen. Kenmerken van de op de markt voor wegvoertuigen en mobiele machines gebrachte hoeveelheid biobrandstoffen: 
+– de verplichting, bedoeld in artikel 2.9, eerste lid, van het Besluit brandstoffen luchtverontreiniging.   Geregistreerde 1 heeft als verkoper van het bioticket niet langer het recht om de betreffende hoeveelheid biobrandstoffen in te zetten voor deze beide verplichtingen. Kenmerken van de op de markt voor wegvoertuigen en mobiele machines gebrachte hoeveelheid biobrandstoffen: 
 
 * Soort of type biobrandstof  
 
@@ -519,17 +519,17 @@ Geregistreerde 1 verklaart:
 
 ####Toelichting bij model A. Bioticket biobrandstoffen
 
-Voor aan wegvoertuigen en mobiele machines geleverd biogas wordt met biotickets de overprestatie voor de verplichting hernieuwbare energie doorverkocht. Dit betekent dat de hoeveelheid energie meetellend voor de verplichting hernieuwbare energie, die op biotickets voor biogas moet worden vermeld, gelijk is aan de hoeveelheid hernieuwbare energie van de betreffende hoeveelheid biogas verminderd met de hoeveelheid hernieuwbare energie van de eigenverplichting van het opt-in bedrijf. Voor 2011 is de doelstelling voor de verplichting hernieuwbare energie in 2011 is 4,25%. De overprestatie hernieuwbare energie, die met biotickets voor biogas wordt doorverkocht bedraagt dus: 100% – 4,25% = 95,75% van de totale energie-inhoud van het biogas. Voor dubbel tellend biogas is de overprestatie die met biotickets wordt doorverkocht 200% – 4,25% = 195,75%. Met biotickets voor biogas wordt wel de gehele prestatie ten behoeve van het [Besluit brandstoffen luchtverontreiniging](../../../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md) van de totale hoeveelheid biogas doorverkocht. 
+Voor aan wegvoertuigen en mobiele machines geleverd biogas wordt met biotickets de overprestatie voor de verplichting hernieuwbare energie doorverkocht. Dit betekent dat de hoeveelheid energie meetellend voor de verplichting hernieuwbare energie, die op biotickets voor biogas moet worden vermeld, gelijk is aan de hoeveelheid hernieuwbare energie van de betreffende hoeveelheid biogas verminderd met de hoeveelheid hernieuwbare energie van de eigenverplichting van het opt-in bedrijf. Voor 2011 is de doelstelling voor de verplichting hernieuwbare energie in 2011 is 4,25%. De overprestatie hernieuwbare energie, die met biotickets voor biogas wordt doorverkocht bedraagt dus: 100% – 4,25% = 95,75% van de totale energie-inhoud van het biogas. Voor dubbel tellend biogas is de overprestatie die met biotickets wordt doorverkocht 200% – 4,25% = 195,75%. Met biotickets voor biogas wordt wel de gehele prestatie ten behoeve van het Besluit brandstoffen luchtverontreiniging van de totale hoeveelheid biogas doorverkocht. 
 
 ### B  
 
 ####Bioticket voor elektriciteit
 
-Geregistreerde 1 verklaart een hoeveelheid elektriciteit met de hieronder vermelde kenmerken ten behoeve van wegvoertuigen en mobiele machines op de Nederlandse markt te hebben gebracht. Ondergetekenden, geregistreerde 1 en geregistreerde 2 verklaren de betreffende hoeveelheid elektriciteit administratief te hebben verhandeld in de vorm van een bioticket als bedoeld in [artikel 6, derde lid, van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md). Geregistreerde 2 heeft als koper van het bioticket het recht om de betreffende hoeveelheid elektriciteit in te zetten voor: 
+Geregistreerde 1 verklaart een hoeveelheid elektriciteit met de hieronder vermelde kenmerken ten behoeve van wegvoertuigen en mobiele machines op de Nederlandse markt te hebben gebracht. Ondergetekenden, geregistreerde 1 en geregistreerde 2 verklaren de betreffende hoeveelheid elektriciteit administratief te hebben verhandeld in de vorm van een bioticket als bedoeld in artikel 6, derde lid, van het Besluit hernieuwbare energie vervoer. Geregistreerde 2 heeft als koper van het bioticket het recht om de betreffende hoeveelheid elektriciteit in te zetten voor: 
 
-– de verplichting, bedoeld in [artikel 3, eerste lid, van de van het Besluit hernieuwbare energie vervoer](../../../../../../AMvB/besluit/hernieuwbare/energie/vervoer/BWBR0029926/README.md),  
+– de verplichting, bedoeld in artikel 3, eerste lid, van de van het Besluit hernieuwbare energie vervoer,  
 
-– de verplichting, bedoeld in [artikel 2.9, eerste lid, van het Besluit brandstoffen luchtverontreiniging](../../../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md).   Geregistreerde 1 heeft als verkoper van het bioticket niet langer het recht om de betreffende hoeveelheid elektriciteit in te zetten voor deze beide verplichtingen. Kenmerken van de op de markt voor wegvoertuigen en mobiele machines gebrachte hoeveelheid elektriciteit: 
+– de verplichting, bedoeld in artikel 2.9, eerste lid, van het Besluit brandstoffen luchtverontreiniging.   Geregistreerde 1 heeft als verkoper van het bioticket niet langer het recht om de betreffende hoeveelheid elektriciteit in te zetten voor deze beide verplichtingen. Kenmerken van de op de markt voor wegvoertuigen en mobiele machines gebrachte hoeveelheid elektriciteit: 
 
 1. Totale hoeveelheid geleverde elektriciteit [kWh]:  
 
@@ -555,5 +555,5 @@ b. indien het betreft elektriciteit uit hernieuwbare bronnen ten behoeve van mob
 
 ####Toelichting op model B. Bioticket voor elektriciteit
 
-Voor aan wegvoertuigen en mobiele machines geleverde elektriciteit wordt met biotickets de overprestatie voor de verplichting hernieuwbare energie doorverkocht. Dit betekent dat de hoeveelheid energie meetellend voor de verplichting hernieuwbare energie, die op biotickets voor elektriciteit moet worden vermeld, gelijk is aan de hoeveelheid hernieuwbare energie van de betreffende hoeveelheid elektriciteit verminderd met de hoeveelheid hernieuwbare energie van de eigenverplichting van het opt-in bedrijf. Voor 2011 wordt deze berekening als volgt. Het gemiddelde aandeel van elektriciteit uit hernieuwbare energiebronnen is een vaste waarde afhankelijk van het jaar, te weten 17,4 % voor 2011. De doelstelling voor de verplichting hernieuwbare energie in 2011 is 4,25%. De overprestatie hernieuwbare energie, die met biotickets wordt doorverkocht bedraagt dus: 17,4% – 4,25% = 13,15% van de totale energie-inhoud van de elektriciteit. Met biotickets voor elektriciteit wordt wel de gehele prestatie ten behoeve van het [Besluit brandstoffen luchtverontreiniging](../../../../../../AMvB/besluit/brandstoffen/luchtverontreiniging/BWBR0029909/README.md) van de totale hoeveelheid elektriciteit doorverkocht. 
+Voor aan wegvoertuigen en mobiele machines geleverde elektriciteit wordt met biotickets de overprestatie voor de verplichting hernieuwbare energie doorverkocht. Dit betekent dat de hoeveelheid energie meetellend voor de verplichting hernieuwbare energie, die op biotickets voor elektriciteit moet worden vermeld, gelijk is aan de hoeveelheid hernieuwbare energie van de betreffende hoeveelheid elektriciteit verminderd met de hoeveelheid hernieuwbare energie van de eigenverplichting van het opt-in bedrijf. Voor 2011 wordt deze berekening als volgt. Het gemiddelde aandeel van elektriciteit uit hernieuwbare energiebronnen is een vaste waarde afhankelijk van het jaar, te weten 17,4 % voor 2011. De doelstelling voor de verplichting hernieuwbare energie in 2011 is 4,25%. De overprestatie hernieuwbare energie, die met biotickets wordt doorverkocht bedraagt dus: 17,4% – 4,25% = 13,15% van de totale energie-inhoud van de elektriciteit. Met biotickets voor elektriciteit wordt wel de gehele prestatie ten behoeve van het Besluit brandstoffen luchtverontreiniging van de totale hoeveelheid elektriciteit doorverkocht. 
 

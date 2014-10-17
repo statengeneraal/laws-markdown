@@ -78,7 +78,7 @@ Wijzigt de Wijzigingswet Wet luchtvaart (Regelgeving burgerluchthavens en milita
 Wijzigt de Wet algemene bepalingen omgevingsrecht. 
 
 ### Artikel  2.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 Wijzigt de Wet geluidhinder. 
 
@@ -87,7 +87,7 @@ Wijzigt de Wet geluidhinder.
 Wijzigt de Wet luchtvaart. 
 
 ### Artikel  2.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 Wijzigt de Wet milieubeheer. 
 
@@ -137,7 +137,7 @@ Wijzigt de Onteigeningswet.
 2.  Een gebiedsontwikkelingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dat luidde voor het tijdstip van inwerkingtreding van hoofdstuk I, onderdeel E, van deze wet, wordt nadat het onherroepelijk is vastgesteld, in samenhang met het bestemmingsplan waarvan het deel uitmaakt, gelijkgesteld met een bestemmingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dit komt te luiden, nadat hoofdstuk I, onderdeel E, van deze wet in werking is getreden.  
 
 ### Artikel  3.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 Wijzigt de Wet milieubeheer. 
 

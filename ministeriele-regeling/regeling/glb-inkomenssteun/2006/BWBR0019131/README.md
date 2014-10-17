@@ -15,7 +15,7 @@ Overwegende dat toepassing moet worden gegeven aan de hiervoor genoemde verorden
 
 Overwegende dat de bepalingen van genoemde verordeningen rechtstreekse werking hebben in de Nederlandse rechtssfeer, zij het dat ten behoeve van de juiste uitvoering en nadere invulling van deze bepalingen regelgeving noodzakelijk is;
 
-Voorts gelet op de [artikelen 15](../../../../../wet/landbouwwet/BWBR0002252/README.md), [19](../../../../../wet/landbouwwet/BWBR0002252/README.md), [23](../../../../../wet/landbouwwet/BWBR0002252/README.md), [26](../../../../../wet/landbouwwet/BWBR0002252/README.md), [27](../../../../../wet/landbouwwet/BWBR0002252/README.md) en [28 van de Landbouwwet](../../../../../wet/landbouwwet/BWBR0002252/README.md);
+Voorts gelet op de artikelen 15, 19, 23, 26, 27 en 28 van de Landbouwwet;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -37,7 +37,7 @@ c.  *NVWA:* de Nederlandse Voedsel- en Warenautoriteit;
 
 d.  *sloot:* sloot, met inbegrip van het talud;  
 
-e.* windhaag:* windhaag op een perceel waarop fruitteelt plaatsvindt, die tevens fungeert als vanggewas als bedoeld in [artikel 1, eerste lid, onderdeel hh, van het Lozingenbesluit Open Teelt en Veehouderij](../../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md).   
+e.* windhaag:* windhaag op een perceel waarop fruitteelt plaatsvindt, die tevens fungeert als vanggewas als bedoeld in artikel 1, eerste lid, onderdeel hh, van het Lozingenbesluit Open Teelt en Veehouderij.   
 2.  Voor de toepassing van deze regeling wordt verstaan onder: 
 
 a.  *richtlijn 91/629/EEG:* Richtlijn 91/629/EEG van de Raad van 19 november 1991 tot vaststelling van minimumnormen ter bescherming van kalveren (PbEG L 340);  
@@ -80,7 +80,7 @@ t.  *verordening 1122/2009:* Verordening (EG) nr. 1122/2009 van de Commissie van
 
 u.  *verordening 784/2011:* Uitvoeringsverordening (EU) nr. 784/2011 van de Commissie van 5 augustus 2011 inzake de vanaf 16 oktober 2011 te betalen voorschotten op de rechtstreekse betalingen uit hoofde van bijlage I bij Verordening (EG) nr. 73/2009 van de Raad tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers (PbEU L 203).     
 3.  In verordening 73/2009 of de daarop gebaseerde verordeningen vastgestelde definities zijn van overeenkomstige toepassing.   
-4.  In de [Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) vastgestelde definities zijn van overeenkomstige toepassing.  
+4.  In de Regeling identificatie en registratie van dieren vastgestelde definities zijn van overeenkomstige toepassing.  
 
 ### Paragraaf  2  
 
@@ -123,11 +123,11 @@ b. de in artikel 6 van verordening 73/2009 bedoelde minimumeisen inzake de goede
 
 Met ingang van 1 januari 2011 komen niet voor verstrekking van steun ingevolge deze regeling in aanmerking: 
 
-a. rechtspersonen, bedoeld in [artikel 2:1, eerste en tweede lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md),  
+a. rechtspersonen, bedoeld in artikel 2:1, eerste en tweede lid, van het Burgerlijk Wetboek,  
 
-b. bestuursorganen, bedoeld in [artikel 1:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
+b. bestuursorganen, bedoeld in artikel 1:1, eerste lid, van de Algemene wet bestuursrecht, en  
 
-c. al dan niet als belastingplichtige aangemerkte lichamen, bedoeld in [artikel 2, zevende lid, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+c. al dan niet als belastingplichtige aangemerkte lichamen, bedoeld in artikel 2, zevende lid, van de Wet op de vennootschapsbelasting 1969.   
 
 ### Artikel  9  
 
@@ -334,13 +334,13 @@ In deze paragraaf wordt verstaan onder:
 
 a.  *open teelten:* open teelten van de sectoren akkerbouw, vollegrondsgroententeelt, bollenteelt, sierteelt, fruitteelt en boomkwekerij;  
 
-b.  *premie:* premie, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b.  *premie:* premie, bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 c.  *schade-expert:* deskundige die de gedragscode van expertiseorganisaties van het Verbond van Verzekeraars of een daarmee gelijk te stellen gedragscode in acht neemt;  
 
-d.  *verzekeraar:* verzekeraar, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+d.  *verzekeraar:* verzekeraar, bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
-e.  *verzekering:* verzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+e.  *verzekering:* verzekering als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 f.  *verzekeringspolis:* bewijs van verzekering tussen landbouwer en verzekeraar.   
 
@@ -412,7 +412,7 @@ i. de verzekering geen dekking biedt voor:
 
 i. genomen preventiemaatregelen, en  
 
-ii. bereddingsmaatregelen die genomen zijn op grond van de verzekeringspolis of [artikel 7:957 BW](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), maar waarbij geen verlies, bedoeld in onderdeel a, is opgetreden, en   
+ii. bereddingsmaatregelen die genomen zijn op grond van de verzekeringspolis of artikel 7:957 BW, maar waarbij geen verlies, bedoeld in onderdeel a, is opgetreden, en   
 
 j. de verzekeraar verklaart dat hij niet meer dan een keer dezelfde schade van de landbouwer verzekert.     
 4.  De weersomstandigheden bedoeld in het derde lid, onderdeel b, worden geacht vooraf te zijn erkend door de minister, als bedoeld in artikel 70, vierde lid, tweede alinea, van verordening 73/2009. De minister kan in aanvulling daarop, na overleg met de brancheorganisatie van verzekeraars, ook andere ongunstige weersomstandigheden erkennen.   
@@ -454,7 +454,7 @@ c. de installatie van het noodzakelijke materieel voor de werking van de integra
 ### Artikel  30  
 
 1.  De landbouwer verzoekt door middel van een aanvraag tot steunverlening om toekenning van steun op grond van artikel 29, eerste lid.   
-2.  De aanvraag tot steunverlening gaat vergezeld van de documenten, bedoeld in [bijlage 2, hoofdstuk 4, onderdeel D, eerste alinea, onderdelen a, b en c, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md).   
+2.  De aanvraag tot steunverlening gaat vergezeld van de documenten, bedoeld in bijlage 2, hoofdstuk 4, onderdeel D, eerste alinea, onderdelen a, b en c, van de Regeling LNV-subsidies.   
 3.  De landbouwer meldt bij de aanvraag tot steunverlening of hij in het bezit is van de in voorkomend geval noodzakelijke vergunningen voor de uitvoering van het investeringsplan, of dat hij deze heeft aangevraagd, en verklaart dat hij ermee bekend is dat het ontbreken van dergelijke vergunningen of de niet tijdige beschikbaarheid ervan geen grond is voor toepassing van artikel 35. 
 
 ### Artikel  31  
@@ -471,8 +471,8 @@ c. de installatie van het noodzakelijke materieel voor de werking van de integra
 a. indien deze zijn ingediend na de daarvoor gestelde periode, of  
 
 b. indien de aanvraag tijdig is ingediend maar indien de daarbij verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag.     
-2.  Een landbouwer komt niet in aanmerking voor steun op grond van deze paragraaf indien op grond van [artikel 2:38 van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) al steun is verleend voor dezelfde subsidiabele activiteit.  
-3.  De landbouwer verleent aan de minister, bij steunaanvragen op grond van artikel 29, eerste lid, toestemming om zijn gegevens, inclusief persoonsgegevens, uit te wisselen met de minister van Financiën, ten behoeve van de controle op de naleving van de steunvoorwaarden van deze regeling en van de [Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009](../../../../../ministeriele-regeling/aanwijzingsregeling/willekeurige/afschrijving/en/investeringsaftrek/etc/BWBR0025316/README.md).  
+2.  Een landbouwer komt niet in aanmerking voor steun op grond van deze paragraaf indien op grond van artikel 2:38 van de Regeling LNV-subsidies al steun is verleend voor dezelfde subsidiabele activiteit.  
+3.  De landbouwer verleent aan de minister, bij steunaanvragen op grond van artikel 29, eerste lid, toestemming om zijn gegevens, inclusief persoonsgegevens, uit te wisselen met de minister van Financiën, ten behoeve van de controle op de naleving van de steunvoorwaarden van deze regeling en van de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009.  
 4.  Indien het eerste lid, onderdeel b, van toepassing is, stelt de minister de landbouwer eerst in de gelegenheid om de ontbrekende gegevens binnen 14 werkdagen aan te vullen, alvorens op de aanvraag te beslissen.  
 
 ### Artikel  33  
@@ -500,7 +500,7 @@ f. groepshuisvesting met schuilmogelijkheden, plastic roosters en voorzieningen 
 3.  Een investering komt alleen voor steun op grond van deze paragraaf in aanmerking indien deze noodzakelijk is voor de realisatie van een integraal duurzame stal of houderijsysteem.   
 4.  Gangbare, reguliere of vervangingsinvesteringen en investeringen die gericht zijn op het voldoen aan bestaande wettelijke eisen, komen niet voor steun in aanmerking op grond van deze paragraaf.   
 5.  Een investering die al uit hoofde van andere openbare middelen is gesubsidieerd of gefinancierd komt niet voor steun in aanmerking.   
-6.  [Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is van overeenkomstige toepassing bij de verstrekking van steun op grond van artikel 29, eerste lid.  
+6.  Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies is van overeenkomstige toepassing bij de verstrekking van steun op grond van artikel 29, eerste lid.  
 7.  BTW is niet subsidiabel. 
 
 ### Artikel  34  
@@ -577,7 +577,7 @@ a. met de apparatuur, installaties of machines ten hoogste een hoeveelheid mest 
 b. ten minste 60% van de hoeveelheid stikstof in de te bewerken mest, bedoeld in onderdeel a, kan worden toegepast op de landbouwgronden die in gebruik zijn bij de landbouwonderneming die de steun heeft aangevraagd, en  
 
 c. de in aanmerking komende kosten, bedoeld in artikel 38, vierde lid, ten minste € 20.000 bedragen.     
-3.  De hoeveelheid mest, bedoeld in het tweede lid, onderdeel a, wordt berekend aan de hand van de forfaitaire normen voor stikstofproductie voor de onderscheiden diersoorten en diercategorieën, bedoeld in [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md) en de hoeveelheid stikstof, bedoeld in het tweede lid, onderdeel b, wordt berekend aan de hand van de gebruiksnorm voor stikstof van 170 kilogram per hectare landbouwgrond of, voor wat betreft bedrijven van de landbouwer, bedoeld in [artikel 25 Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md), 250 kilogram per hectare landbouwgrond.   
+3.  De hoeveelheid mest, bedoeld in het tweede lid, onderdeel a, wordt berekend aan de hand van de forfaitaire normen voor stikstofproductie voor de onderscheiden diersoorten en diercategorieën, bedoeld in bijlage D van de Uitvoeringsregeling Meststoffenwet en de hoeveelheid stikstof, bedoeld in het tweede lid, onderdeel b, wordt berekend aan de hand van de gebruiksnorm voor stikstof van 170 kilogram per hectare landbouwgrond of, voor wat betreft bedrijven van de landbouwer, bedoeld in artikel 25 Uitvoeringsregeling Meststoffenwet, 250 kilogram per hectare landbouwgrond.   
 4.  De steun bedraagt 25% van de in aanmerking komende kosten uit de offerte die zijn gerealiseerd in de periode vanaf de datum van de steunverlening tot en met 28 februari 2015, met dien verstande dat de steun ten hoogste € 50.000 bedraagt.   
 5.  Het steunplafond voor betalingen op grond van het eerste lid bedraagt voor aanvragen gedaan in de periode 1 maart 2014 tot en met 31 maart 2014 € 5.000.000.   
 6.  Indien blijkt dat het totale bedrag van de toe te kennen steun voor de steun, bedoeld in artikel 29, lager is dan het steunplafond, bedoeld in artikel 29, vierde lid, dan wordt het overblijvende bedrag zo nodig toegevoegd aan het steunplafond, in het vijfde lid.  
@@ -585,7 +585,7 @@ c. de in aanmerking komende kosten, bedoeld in artikel 38, vierde lid, ten minst
 ### Artikel  38  
 
 1.  De landbouwer verzoekt door middel van een aanvraag tot steunverlening om toekenning van steun op grond van artikel 37a, eerste lid.   
-2.  De aanvraag gaat vergezeld van de documenten, bedoeld in [bijlage 2, hoofdstuk 7, onderdeel D, eerste lid, onder a van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md).   
+2.  De aanvraag gaat vergezeld van de documenten, bedoeld in bijlage 2, hoofdstuk 7, onderdeel D, eerste lid, onder a van de Regeling LNV-subsidies.   
 3.  De landbouwer, bedoeld in het eerste lid, verleent bij de aanvraag toestemming voor het gebruik van relevante gegevens ten aanzien van de mestproductie op en mestvervoer van zijn bedrijf ten behoeve van de controle op de voorwaarden, bedoeld in artikel 37a, tweede lid.   
 4.  In aanmerking komende kosten zijn de kosten van investeringen in: 
 
@@ -593,7 +593,7 @@ a. apparatuur, installaties of machines waarvan de aanvrager de eerste gebruiker
 
 b. de kosten voor montage en installatie van het noodzakelijke materieel door een aannemer of leverancier.    
 5. De artikelen 31, 32, 33, derde tot en met vijfde lid en zevende lid, zijn van overeenkomstige toepassing op de verstrekking van steun op grond van artikel 37a, eerste lid, waarbij ‘het investeringsplan’ in artikel 31, derde lid, wordt gelezen als ‘de offerte’ en waarbij ‘een integraal duurzame stal of houderijsysteem’ in artikel 33, derde lid, wordt gelezen als: een mestbewerkingsinstallatie. 
-6. [Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is van overeenkomstige toepassing bij de verstrekking van de steun op grond van artikel 37a, eerste lid.
+6. Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies is van overeenkomstige toepassing bij de verstrekking van de steun op grond van artikel 37a, eerste lid.
 
 ### Artikel  38a  
 
@@ -637,7 +637,7 @@ b.  *vaarperceel:* perceel dat als zodanig is aangewezen in bijlage 3.
 ### Artikel  38f  
 
 1.  De minister verstrekt specifieke steun aan landbouwers in de vorm van een vaarvergoeding van € 500 per hectare per jaar voor vaarpercelen.   
-2.  Indien voor het desbetreffende perceel reeds subsidie voor het uitrijden van ruige mest uit hoofde van de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies wordt toegekend, wordt de steun, bedoeld in het eerste lid, verlaagd met het bedrag dat per hectare voor het desbetreffende perceel wordt ontvangen aan subsidie voor het uitrijden van ruige mest.  
+2.  Indien voor het desbetreffende perceel reeds subsidie voor het uitrijden van ruige mest uit hoofde van de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, de Subsidieregeling agrarisch natuurbeheer of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies wordt toegekend, wordt de steun, bedoeld in het eerste lid, verlaagd met het bedrag dat per hectare voor het desbetreffende perceel wordt ontvangen aan subsidie voor het uitrijden van ruige mest.  
 3.  De vaarvergoeding wordt evenredig verlaagd voor alle voor vaarvergoeding in aanmerking te nemen aanvragen indien het totaal van de voor steun in aanmerking te nemen aanvragen het bedrag van € 1.100.000 per kalenderjaar overstijgt.  
 
 ### Artikel  38g  
@@ -646,7 +646,7 @@ Een landbouwer komt uitsluitend in aanmerking voor steun op grond van deze parag
 
 a. de totale oppervlakte van de vaarpercelen waarvoor hij steun op grond van deze paragraaf ontvangt tenminste 0,5 hectare bedraagt;  
 
-b. hij in de verzamelaanvraag heeft aangegeven in te stemmen met de verwerking door de minister van de persoonsgegevens die betrekking hebben op de subsidie voor het uitrijden van ruige mest die de minister heeft verkregen in het kader van de subsidieaanvraag op grond van de Subsidieverordening natuur- en landschapsbeheer, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies.   
+b. hij in de verzamelaanvraag heeft aangegeven in te stemmen met de verwerking door de minister van de persoonsgegevens die betrekking hebben op de subsidie voor het uitrijden van ruige mest die de minister heeft verkregen in het kader van de subsidieaanvraag op grond van de Subsidieverordening natuur- en landschapsbeheer, de Subsidieregeling agrarisch natuurbeheer of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies.   
 
 ### Paragraaf  6  
 
@@ -734,7 +734,7 @@ a. de koop van:
 
 b. het verwijderen van asbest in een bewaarplaats, niet zijnde de herbouw van een bewaarplaats;  
 
-c. het isoleren van vloeren, wanden of plafonds van een bewaarplaats, niet inbegrepen de verwijdering van materialen, waardoor een warmteweerstand wordt bereikt als vastgesteld in [artikel 1, onderdeel A, onder 2, sub 2.1.C, punt a, van de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+c. het isoleren van vloeren, wanden of plafonds van een bewaarplaats, niet inbegrepen de verwijdering van materialen, waardoor een warmteweerstand wordt bereikt als vastgesteld in artikel 1, onderdeel A, onder 2, sub 2.1.C, punt a, van de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
 d. regulering van het klimaat in een bewaarplaats door middel van een computer, inclusief daarmee verband houdende aanpassingen aan ventilatiesystemen.   
 
@@ -743,7 +743,7 @@ d. regulering van het klimaat in een bewaarplaats door middel van een computer, 
 1.  De steun, bedoeld in artikel 38u, bedraagt 30% van de in aanmerking komende kosten met dien verstande dat zij ten hoogste € 50.000 steun per landbouwer bedraagt.   
 2.  Het steunplafond bedraagt € 12.300.000.   
 3.  De landbouwer komt alleen voor steunverlening in aanmerking indien de totale kosten voor de uitvoering van de volledige activiteit hoger zijn dan € 15.000.   
-4.  Gemaakte arbeidskosten komen voor steun in aanmerking indien deze zijn gemaakt door een aannemer of een leverancier, overeenkomstig de in [artikel 1:15, vijfde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), omschreven berekeningsmethode.   
+4.  Gemaakte arbeidskosten komen voor steun in aanmerking indien deze zijn gemaakt door een aannemer of een leverancier, overeenkomstig de in artikel 1:15, vijfde lid, van de Regeling LNV-subsidies, omschreven berekeningsmethode.   
 5.  BTW is niet subsidiabel. 
 
 ### Artikel  38w  
@@ -755,13 +755,13 @@ a. een omschrijving van de steunwaardige activiteit, inclusief een conceptfactuu
 
 b. het adres waar de landbouwer de steunwaardige activiteit realiseert, en  
 
-c. een verklaring van de landbouwer waarin hij de minister toestemming geeft om zijn gegevens, inclusief persoonsgegevens, uit te wisselen met de minister van Financiën, ten behoeve van de controle op de naleving van deze specifieke steunregeling en de [Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009](../../../../../ministeriele-regeling/aanwijzingsregeling/willekeurige/afschrijving/en/investeringsaftrek/etc/BWBR0025316/README.md).     
+c. een verklaring van de landbouwer waarin hij de minister toestemming geeft om zijn gegevens, inclusief persoonsgegevens, uit te wisselen met de minister van Financiën, ten behoeve van de controle op de naleving van deze specifieke steunregeling en de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009.     
 3.  De landbouwer kan steun aanvragen voor de aanschaf van verscheidene in artikel 38u, onderdeel a, omschreven apparaten.   
 4.  De landbouwer kan geen steun aanvragen op grond van meer dan één van de in artikel 38u onderscheiden onderdelen.   
 5.  De landbouwer kan alleen steun aanvragen voor activiteiten die verricht worden na de steunverlening.   
 6.  De minister rangschikt aanvragen tot steun als bedoeld in artikel 38u die in de periode van 1 maart 2014 tot en met 31 maart 2014 zijn ingediend in de navolgende volgorde van categorieën: 
 
-a. aanvragen, afkomstig van ondernemingen die in de drie jaren voorafgaand aan de aanvraag geen steun als bedoeld in artikel 38u of subsidie als bedoeld in [bijlage 2, hoofdstuk 7, categorie 2, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is verleend;  
+a. aanvragen, afkomstig van ondernemingen die in de drie jaren voorafgaand aan de aanvraag geen steun als bedoeld in artikel 38u of subsidie als bedoeld in bijlage 2, hoofdstuk 7, categorie 2, van de Regeling LNV-subsidies is verleend;  
 
 b. overige aanvragen.     
 7.  Indien het totaalbedrag van de ingediende aanvragen, bedoeld in het zesde lid, onderdeel a, hoger is dan het beschikbare budget, worden binnen desbetreffende categorie aanvragen door loting gerangschikt.   
@@ -773,8 +773,8 @@ b. overige aanvragen.
 
 a. verstrekt bewijsmateriaal waaruit ten genoegen van de minister blijkt dat de steunwaardige activiteiten zijn verricht, waaronder voor wat betreft de activiteiten, bedoeld in artikel 38u, onderdeel a, de levering van de desbetreffende apparatuur op het bedrijf van de landbouwer die de steun aanvraagt, en welke kosten voor de desbetreffende activiteiten zijn gemaakt;  
 
-b. bewaart het bewijsmateriaal in een administratie die voldoet aan de voorschriften, bedoeld in [artikel 1:12, derde en vierde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md).     
-2.  [Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is van overeenkomstige toepassing bij de betaling van steun op grond van artikel 38u.   
+b. bewaart het bewijsmateriaal in een administratie die voldoet aan de voorschriften, bedoeld in artikel 1:12, derde en vierde lid, van de Regeling LNV-subsidies.     
+2.  Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies is van overeenkomstige toepassing bij de betaling van steun op grond van artikel 38u.   
 3.  Indien bij de verstrekking van het bewijsmateriaal, bedoeld in het eerste lid, onderdeel a, blijkt dat de landbouwer een andere activiteit heeft verricht, dan komt deze activiteit, met inachtneming van de voorschriften van deze paragraaf, in plaats van de aangevraagde steun voor steun in aanmerking, met dien verstande dat de minister niet meer steun aan de landbouwer betaalt dan hem is verleend op grond van artikel 38w, zesde lid.  
 
 ###Paragraaf 12 
@@ -1007,7 +1007,7 @@ De steun, bedoeld in Hoofdstuk 2a, paragraaf 5, en bedoeld in Hoofdstuk 2a, para
 
 ### Artikel  71  
 
-De [Regeling GLB-inkomenssteun](../../../../../ministeriele-regeling/regeling/glb-inkomenssteun/BWBR0017558/README.md) wordt ingetrokken, maar blijft evenwel van toepassing op aanvragen ingediend vóór de inwerkingtreding van de onderhavige regeling waarop nog niet onherroepelijk is beslist en, in geval van slacht, op slachtingen en export verricht vóór de inwerkingtreding van de onderhavige regeling. 
+De Regeling GLB-inkomenssteun wordt ingetrokken, maar blijft evenwel van toepassing op aanvragen ingediend vóór de inwerkingtreding van de onderhavige regeling waarop nog niet onherroepelijk is beslist en, in geval van slacht, op slachtingen en export verricht vóór de inwerkingtreding van de onderhavige regeling. 
 
 ### Artikel  71a  
 
@@ -1099,7 +1099,7 @@ Vervallen  |
 | 4.15  | Nitraatrichtlijn (Richtlijn 91/676/EEG)  | Activiteitenbesluit milieubeheer  | artikel 3:85 in samenhang met de artikelen 3:80 en 3:81  | Het verbod op toepassing van meststoffen in de mestvrije zone of de mestvrije zone is niet gelijk aan de teeltvrije zone  | milieu  |
 | 4.16  | Nitraatrichtlijn (Richtlijn 91/676/EEG)  | Meststoffenwet  | artikel 7 in samenhang met artikel 8 onder a en b, 9 en 10 en in samenhang met artikel 24, 25, 26 en 27 van de Uitvoeringsregeling Meststoffenwet  | Het verbod in enig kalenderjaar op een bedrijf meststoffen op of in de bodem te brengen, tenzij de stikstofgebruiksnormen in acht zijn genomen  | milieu  |
 | 4.17  | Nitraatrichtlijn (Richtlijn 91/676/EEG)  | Uitvoeringsbesluit Meststoffenwet  | artikel 28 in samenhang met artikel 27, 29, 30 en in samenhang met artikel 36 van de Uitvoeringsregeling Meststoffenwet  | De verplichting voldoende opslagcapaciteit voor dierlijke mest op het bedrijf te hebben die in de periode september t/m februari wordt geproduceerd  | milieu  |
-|4.18 |Nitraatrichtlijn (Richtlijn 91/676/EEG  |Activiteitenbesluit milieubeheer  |artikel 2.1 Wabo of/in samenhang met de artikelen 3.48 en/of 3.52 Activiteitenbesluit milieubeheer in samenhang met de artikelen 3.65 en/of 3.68 Activiteitenregeling milieubeheer  |De verplichting dat de mestopslag en de opslag van kuilvoeder wordt onderhouden zodat geen verontreiniging ontstaat door het weglekken van vloeistoffen met mest en opgeslagen plantaardige materialen  |milieu |
+|4.18 |Nitraatrichtlijn (Richtlijn 91/676/EEG  |Activiteitenbesluit milieubeheer  |artikel 2.1 Wabo of/in samenhang met de artikelen 3.48 en/of 3.52 Activiteitenbesluit milieubeheer in samenhang met de artikelen 3.65 of 3.68 of 3.69 Activiteitenregeling milieubeheer  |De verplichting dat de mestopslag en de opslag van kuilvoeder wordt onderhouden zodat geen verontreiniging ontstaat door het weglekken van vloeistoffen met mest en opgeslagen plantaardige materialen  |milieu |
 | 5. Habitatrichtlijn (Richtlijn 92/43/EEG van 21 mei 1992, artikel 6 en 13, eerste lid, onder a)  |
 | 5.1  | Habitatrichtlijn (Richtlijn 92/43/EEG)  | Natuurbeschermingswet 1998  | artikel 19d  | Het verbod om zonder geldige vergunning een project of handeling uit te voeren in een aangewezen Habitatrichtlijngebied of in strijd met de vergunningvoorwaarden te handelen  | milieu  |
 | 5.2  | Habitatrichtlijn (Richtlijn 92/43/EEG)  | Flora- en faunawet  | artikel 8  | Het verbod op plukken, vernielen, in bezit hebben, verkopen, etc. van beschermde inheemse planten  | milieu  |
@@ -1129,10 +1129,10 @@ Vervallen  |
 | 9.2  | Gewasbescherming (Verordening (EG) 1107/2009)  | Verordening (EG) 1107/2009  | Artikel 55  | De verplichting om gewasbeschermingsmiddelen op juiste wijze, volgens de goede gewasbeschermingspraktijken en de gebruiksvoorschriften te gebruiken.  | Gezondheid  |
 | 9.3  | Gewasbescherming (Verordening (EG) 1107/2009)  | Besluit gewasbeschermingsmiddelen en biociden  | Artikel 26, eerste en tweede lid  | De verplichting om te beschikken over een gewasbeschermingsplan en de voorschriften met betrekking tot goede gewasbeschermingspraktijken en geïntegreerde bestrijding toe te passen. Deze verplichting geldt niet voor biologische landbouwers  | Gezondheid  |
 | 10. Hormonen & bèta-agonisten (richtlijn 96/22 van 29 april 1996, artikel 3, onder a en b, 4 en 5)   |
-|  10.1   | Hormonen & bèta-agonisten Richtlijn 96/22)   | Wet dieren  Besluit diergeneesmiddelen  | artikel 2.2, tiende lid, onder r, 2.8, eerste lid, onder c en 2.25  in samenhang met artikel 8A.9 van het Besluit diergeneesmiddelen  | Het verbod op gebruik door een houder van dieren van een diergeneesmiddel waarvoor geen vergunning voor het in de handel brengen van het diergeneesmiddel is verstrekt.  | gezondheid   |
-|  10.2   | Hormonen & bèta-agonisten Richtlijn 96/22)   | Wet dieren  Besluit diergeneesmiddelen  | artikel 2.8, eerste lid, onder c en het vierde lid onder b in samenhang met hoofdstuk 8A.2, negende lid, van het Besluit diergeneesmiddelen  | Het verbod op gebruik door een dierenarts in strijd met de voorschriften voor het in de handel brengen van het diergeneesmiddel.  | gezondheid   |
-| 10.3  | Hormonen & bèta-agonisten Richtlijn 96/22)  | Wet dieren  Besluit diergeneesmiddelen  Regeling diergeneesmiddelen  | Artikel 2.19, eerste lid, in samenhang met artikel 2.8, eerste lid, onderdeel b, van de Wet dieren, in samenhang met artikel 8A.9, tweede lid, van het Besluit diergeneesmiddelen en artikel 2.18, tweede lid, van en bijlage I bij de Regeling diergeneesmiddelen.  | Het verbod om hormonen en bèta-agonisten toe te dienen aan landbouwhuisdieren en aquacultuurdieren.  | gezondheid  |
-|  10.4   | Hormonen & bèta-agonisten Richtlijn 96/22)  | Wet dieren  Besluit diergeneesmiddelen  Regeling diergeneesmiddelen  | Artikel 2.2, tiende lid, onderdelen a, onder 2°, e en r, 2.8, eerste lid, onderdelen b en c en 2.25 van de Wet dieren in samenhang met artikel 8A.8, eerste lid, en 8A.9, tweede lid, van het Besluit diergeneesmiddelen  | De verplichting om alleen landbouwhuisdieren op het bedrijf te houden die zijn behandeld volgens de regels van de diergeneesmiddelenwetgeving  | gezondheid   |
+| 10.1  | Hormonen & bèta-agonisten Richtlijn 96/22/EEG)  | Wet dieren  Besluit houders van dieren  | artikel 2.2, tiende lid, onder r, 2.8, eerste lid, onder c en 2.25 van de Wet dieren in samenhang met artikel 1.23 van het Besluit houders van dieren  | Het verbod op gebruik door een houder van dieren van een diergeneesmiddel waarvoor geen vergunning voor het in de handel brengen van het diergeneesmiddel is verstrekt.  | gezondheid  |
+| 10.2  | Hormonen & bèta-agonisten Richtlijn 96/22/EEG)  | Wet dieren  Besluit diergeneeskundigen  | artikel 2.8, eerste lid, onder c en het vierde lid onder b, van de Wet dieren in samenhang met artikel 5.2, negende lid, van het Besluit diergeneeskundigen  | Het verbod op gebruik door een dierenarts in strijd met de voorschriften voor het in de handel brengen van het diergeneesmiddel.  | gezondheid  |
+| 10.3  | Hormonen & bèta-agonisten Richtlijn 96/22/EEG)  | Wet dieren  Besluit houders van dieren  Regeling diergeneesmiddelen  | artikel 2.19, eerste lid, van de Wet dieren in samenhang met artikel 2.8, eerste lid, onderdeel b, van de Wet dieren, in samenhang met artikel 1.23, tweede lid, van het Besluit houders van dieren en artikel 2.18, tweede lid, van en bijlage I bij de Regeling diergeneesmiddelen.  | Het verbod om hormonen en bèta-agonisten toe te dienen aan landbouwhuisdieren en aquacultuurdieren.  | gezondheid  |
+| 10.4  | Hormonen & bèta-agonisten Richtlijn 96/22/EEG)  | Wet dieren  Besluit houders van dieren  | artikel 2.2, tiende lid, onderdelen a, onder 2°, e en r, 2.8, eerste lid, onderdelen b en c en 2.25 van de Wet dieren in samenhang met artikel 1.22, eerste lid, en 1.23, tweede lid, van het Besluit houders van Dieren  | De verplichting om alleen landbouwhuisdieren op het bedrijf te houden die zijn behandeld volgens de regels van de diergeneesmiddelenwetgeving  | gezondheid  |
 |  10.5   | Hormonen & bèta-agonisten Richtlijn 96/22)  | Wet dieren  Besluit diergeneesmiddelen  Regeling diergeneesmiddelen  | Artikel 2.2, tiende lid, onderdelen e en r, 2.8, eerste lid, onderdelen b en c, en 2.25 van de Wet dieren in samenhang met artikel 8.4 van het Besluit diergeneesmiddelen en artikel 8.8, eerste lid, onderdeel a en onderdeel c met betrekking tot substanties als bedoeld in onderdeel a, van de Regeling diergeneesmiddelen  | Het verbod om landbouwhuisdieren, verwerkte producten of vlees van dieren waaraan op enigerlei wijze stoffen met thyreostatische, oestrogene, androgene of gestagene werking alsmede beta-agonisten zijn toegediend, in de handel te brengen  | gezondheid   |
 |  11. General Food Law (Verordening (EG) 178/2002 van 28 januari 2002, artikel 15, 17 lid 1, 19 en 20)   |
 |  11.1   | General Food Law (Verordening (EG) 178/2002)   | Wet dieren  Besluit diervoeders 2012  Regeling diervoeders 2012   | artikel 2.18, tweede lid en 6.4 in samenhang met artikel 2.1 van het Besluit diervoeders 2012 en artikel 20 van de Regeling diervoeders 2012   | Het verbod in strijd te handelen met de artikelen 11, 12, 15, eerste lid, 16, 17, eerste lid, 18 en 20 van Verordening (EG) nr. 178/2002.   | gezondheid  |
@@ -1144,11 +1144,11 @@ Vervallen  |
 |  11a.5   | Diervoederhygiëne (Verordening (EG) 183/2005)   | Wet dieren  Besluit diervoeders 2012  Regeling diervoeders 2012  | artikel 2.18, tweede lid en 6.4 in samenhang met artikel 2.1 van het Besluit diervoeders 2012 en artikel 13 van de Regeling diervoeders 2012 in samenhang met artikel 5 lid 6 van Verordening (EG) 183/2005   | De verplichting voor exploitanten van diervoederbedrijven en veehouders alleen diervoeders te gebruiken van veevoederbedrijven die zijn geregistreerd en/of erkend.   | gezondheid   |
 | 11b. Levensmiddelenhygiëne (Verordening (EG) 852/2004 van 29 april 2004)  |
 | 11b.1  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 1 in samenhang met artikel 4 lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder II, onder 4g, 4h en 5f van Verordening (EG) 852/2004  | De verplichting voor exploitanten van levensmiddelenbedrijven afval en gevaarlijke stoffen apart op te slaan en voorzorgsmaatregelen te nemen de insleep en verspreiding van besmettelijke, via levensmiddelen op de mens overdraagbare ziekten te voorkomen  | gezondheid  |
-| 11b.2  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | Artikel 2, lid 1 in samenhang met artikel 4, lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder II, onder 4j en 5h, m.u.v. zinsnede ‘gewasbeschermingsmiddelen en’ van Verordening (EG) 852/2004 in samenhang met artikel 2.2, tiende lid, onderdelen e en r, alsmede artikel 2.1 van het Besluit diervoeders 2012 in samenhang met de artikelen 23 en 57, eerste lid, onderdeel e, van de Regeling diervoeders 2012 en de artikelen 8A.7, 8A.9 en 8A.10 van het Besluit diergeneesmiddelen  | De verplichting voor exploitanten van levensmiddelenbedrijven toevoegingsmiddelen voor diervoeders en geneesmiddelen voor diergeneeskundig gebruik en biociden correct toe te passen  | gezondheid  |
+| 11b.2  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | Artikel 2, lid 1 in samenhang met artikel 4, lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder II, onder 4j en 5h, m.u.v. zinsnede ‘gewasbeschermingsmiddelen en’ van Verordening (EG) 852/2004 in samenhang met artikel 2.2, tiende lid, onderdelen e en r, alsmede artikel 2.1 van het Besluit diervoeders 2012 in samenhang met de artikelen 23 en 57, eerste lid, onderdeel e, van de Regeling diervoeders 2012 en de artikelen 1.21, 1.23 en 1.24 van het Besluit houders van dieren  | De verplichting voor exploitanten van levensmiddelenbedrijven toevoegingsmiddelen voor diervoeders en geneesmiddelen voor diergeneeskundig gebruik en biociden correct toe te passen  | gezondheid  |
 | 11b.3  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 1 in samenhang met artikel 4 lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder II, onder 6 van Verordening (EG) 852/2004  | De verplichting voor exploitanten van levensmiddelenbedrijven om passende herstelmaatregelen nemen als tijdens officiële controles hygiëneproblemen zijn vastgesteld  | gezondheid  |
 | 11b.4  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 1 in samenhang met artikel 4 lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder III, onder 8a, 8d en 8e van Verordening (EG) 852/2004  | De verplichting voor exploitanten van levensmiddelenbedrijven om registers bij te houden over de aard en de oorsprong van aan de dieren gevoerde diervoeders, de resultaten van analyses van bij de dieren genomen monsters of van andere monsters voor diagnosedoeleinden en alle toepasselijke controles van dieren of producten van dierlijke oorsprong  | gezondheid  |
 | 11b.5  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 1 in samenhang met artikel 4 lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder III, onder 9a en 9c van Verordening (EG) 852/2004  | De verplichting voor exploitanten van levensmiddelenbedrijven een registratie bij te houden van alle gebruik van gewasbeschermingsmiddelen en van biociden en van alle resultaten van voor de volksgezondheid relevante analyses van bij planten genomen monsters of van andere monsters  | gezondheid  |
-| 11b.6  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Wet dieren  | Artikel 2.2, tiende lid, onderdeel l, subonderdeel 4°, en onderdeel r, van de Wet dieren in samenhang met artikel 4, lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder III, onder 8b van Verordening (EG) 852/2004 in samenhang met artikel 8A.11 van het Besluit diergeneesmiddelen en in samenhang met artikel 9A.8 van de Regeling diergeneesmiddelen  | De verplichting voor exploitanten van levensmiddelenbedrijven een registratie bij te houden van de ontvangst, de toepassing of de vervoedering van diergeneesmiddelen en gemedicineerde voeders, evenals andere behandelingen die de dieren hebben ondergaan, data van toediening of behandeling en wachttijden  | gezondheid  |
+| 11b.6  | Levensmiddelenhygiëne (Verordening (EG) 852/2004)  | Wet dieren  | Artikel 2.2, tiende lid, onderdeel l, subonderdeel 4°, en onderdeel r, van de Wet dieren in samenhang met artikel 4, lid 1 van Verordening (EG) 852/2004 in samenhang met Bijlage I, deel A, onder III, onder 8b van Verordening (EG) 852/2004 in samenhang met artikel 1.25 van het Besluit houders van dieren in samenhang met artikel 3.1 van de Regeling houders van dieren  | De verplichting voor exploitanten van levensmiddelenbedrijven een registratie bij te houden van de ontvangst, de toepassing of de vervoedering van diergeneesmiddelen en gemedicineerde voeders, evenals andere behandelingen die de dieren hebben ondergaan, data van toediening of behandeling en wachttijden  | gezondheid  |
 | 11c. Specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (Verordening (EG) 853/2004 van 29 april 2004  |
 | 11c.1  | Specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (Verordening (EG) 853/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 2 in samenhang met artikel 3 lid 1 van Verordening (EG) 853/2004 in samenhang met Bijlage III, sectie IX, Hoofdstuk I, onderdeel I, 1b, 1c, 1d en 1e van Verordening (EG) 853/2004  | De verplichting bij de productie van rauwe melk de algemene gezondheidsvoorschriften in acht te nemen  | gezondheid  |
 | 11c.2  | Specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (Verordening (EG) 853/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 2 in samenhang met artikel 3 lid 1 van Verordening (EG) 853/2004 in samenhang met Bijlage III, sectie IX, Hoofdstuk I, onderdeel I, 2a, 2b en 2c en in samenhang met Bijlage III, sectie IX, Hoofdstuk I, onderdeel I, 3a, 3b en 3c van Verordening (EG) 853/2004  | De verplichting bij de productie van rauwe melk de gezondheidsvoorschriften m.b.t. tuberculose en/of brucellose in acht te nemen  | gezondheid  |
@@ -1158,11 +1158,15 @@ Vervallen  |
 | 11c.6  | Specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (Verordening (EG) 853/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 2 in samenhang met artikel 3 lid 1 van Verordening (EG) 853/2004 in samenhang met Bijlage III, sectie IX, Hoofdstuk I, onderdeel II, onder B, onder 1a, 1d, 2, 4a en 4b van Verordening (EG) 853/2004  | De verplichting het melken onder hygiënische omstandigheden te verrichten en de melk onmiddellijk gekoeld op te slaan, behalve als koeling niet noodzakelijk is i.v.m. (snelle) verwerkingsmethoden  | gezondheid  |
 | 11c.7  | Specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (Verordening (EG) 853/2004)  | Warenwetbesluit hygiëne van levensmiddelen  | artikel 2 lid 2 in samenhang met artikel 3 lid 1 van Verordening (EG) 853/2004 in samenhang met Bijlage III, sectie X, Hoofdstuk I, onder 1 m.u.v. de zinsnede ‘en tot op het moment van verkoop aan de consument’ van Verordening (EG) 853/2004  | De verplichting eieren op het bedrijf schoon, droog en vrij van vreemde geuren te houden en op afdoende wijze te beschermen tegen schokken en rechtstreeks zonlicht.  | gezondheid  |
 | 11d. Gebruik diergeneesmiddelen (verordening 37/2010 van 22 december 2009)  |
-| 11d.1  | Gebruik diergeneesmiddelen (verordening (EG) 37/2010)   |Wet dieren  Besluit diergeneesmiddelen |artikel 2.2, tiende lid, onderdelen e en r, 2.8, eerste lid, onderdelen b en c, en 2.25 van de Wet dieren in samenhang met artikel 8.5, 8A.9, eerste lid, en 8A.13 van het Besluit diergeneesmiddelen en artikel 8.8, eerste lid, onderdeel b en onderdeel c met betrekking tot substanties als bedoeld in onderdeel b, van de Regeling diergeneesmiddelen | Het verbod op gebruik door een houder van dieren van een diergeneesmiddel waarvoor geen vergunning voor het in de handel brengen van het diergeneesmiddel is verstrekt.  | gezondheid  |
+| 11d.1  | Gebruik diergeneesmiddelen (verordening (EG) 37/2010  | Wet dieren  Besluit diergeneesmiddelen  Besluit houders van dieren  | artikel 2.2, tiende lid, onderdelen e en r, 2.8, eerste lid, onderdelen b en c, en 2.25 van de Wet dieren in samenhang met artikel 8.5 van het Besluit diergeneesmiddelen, de artikelen 1.23, eerste lid en 2.8 van het Besluit houders van dieren en artikel 8.8, eerste lid, onderdeel b en onderdeel c met betrekking tot substanties als bedoeld in onderdeel b, van de Regeling diergeneesmiddelen  | Het verbod op gebruik door een houder van dieren van een diergeneesmiddel waarvoor geen vergunning voor het in de handel brengen van het diergeneesmiddel is verstrekt  | gezondheid  |
 | 11e. residuen gewasbeschermingsmiddelen (verordening 396/2005 van 23 februari 2005; art 18, eerste lid)  |
 | 11e.1  | Residuen gewasbeschermingsmiddelen (verordening (EG) 396/2005)   | Wet dieren  Regeling diervoeders 2012  | artikel 2.18, tweede lid in samenhang met de artikelen 3, eerste lid, onder c, en 4 van de Regeling diervoeders 2012   |Het verbod om diervoeders te vervoederen die te hoge residuen van gewasbeschermingsmiddelen bevatten.  | gezondheid  |
 | 12. BSE (Verordening (EG) 999/2001 van 22 mei 2001, artikel 7, eerste en tweede lid, 12 en 13 )  |
 | 12.1  | BSE (Verordening (EG) 999/2001)   | Wet dieren  Besluit diervoeders 2012  Regeling diervoeders 2012  | artikel 2.18, tweede lid en 6.4 in samenhang met artikel 2.1 van het Besluit diervoeders 2012 en artikel 7 Regeling diervoeders 2012  | Het verbod om eiwitten of daarvan afgeleide producten afkomstig van zoogdieren, aan herkauwers te voeren evenals het verbod om gesmolten vet van herkauwers aan herkauwers te voeren.   | gezondheid  |
+| 12.2  | TSE (Verordening (EG) 999/2001  | Gezondheids- en welzijnswet voor dieren  | artikel 19, eerste lid  | De verplichting (het vermoeden van) de aanwezigheid van BSE of TSE terstond te melden  | gezondheid  |
+| 12.3  | TSE (Verordening (EG) 999/2001  | Gezondheids- en welzijnswet voor dieren  | artikelen 20 en 104, eerste lid  | In geval van verdenking BSE of TSE wordt medewerking verleend aan de bevoegde ambtenaren  | gezondheid  |
+| 12.4  | TSE (Verordening (EG) 999/2001  | Gezondheids- en welzijnswet voor dieren  | artikel 29  | De verplichting om ervoor zorg te dragen dat ziek of verdacht dier het bedrijf niet verlaat  | gezondheid  |
+| 12.5  | TSE (Verordening (EG) 999/2001  | Gezondheids- en welzijnswet voor dieren  | artikel 77 van de GWWD in samenhang met artikel 2.4 van de Regeling handel levende dieren en levende producten  | Het verbod om levende dieren en levende dierlijke producten zonder gezondheidscertificaat anders dan in doorvoer buiten Nederland te brengen  | gezondheid  |
 | 13/14/15. Kennisgeving van ziekten: MKZ (Richtlijn 2003/85/EEG van 29 september 2003 (vervangt Richtlijn 85/511/EEG), artikel 3), Varkenspest (Richtlijn 92/119/EEG van 17 december 1992, artikel 3) BSE (Verordening (EG) 999/2001 van 22 mei 2001, artikel 11) en Bluetongue (Richtlijn 2000/75/EEG van 20 november 2000, artikel 3)  |
 | 13/14/15.1  | MKZ (Richtlijn 2003/85/EEG), Varkenspest (Richtlijn 92/119/EEG), BSE (Verordening (EG) 999/2001), Bluetongue (Richtlijn 2000/75/EEG)  | Gezondheids- en welzijnswet voor dieren  | artikel 19 lid 1  | De verplichting (het vermoeden van) de aanwezigheid van een besmettelijke dierzieke terstond te melden  | gezondheid  |
 |  *Dierenwelzijn*   |
@@ -1186,6 +1190,7 @@ Vervallen  |
 | 16.17  | Minimumnormen kalveren  | Besluit houders van dieren  | artikel 2.33, lid 2  | De verplichting dat kalveren naast elkaar gehouden in eenlingboxen, elkaar kunnen zien en aanraken  | dierenwelzijn  |
 | 16.18  | Minimumnormen kalveren  | Besluit houders van dieren  | artikel 2.36, lid 4  | De verplichting te voldoen aan de minimale ligruimte per kalf in andere huisvestingssystemen dan eenlingboxen  | dierenwelzijn  |
 | 16.19  | Minimumnormen kalveren  | Besluit houders van dieren  | artikel 2.37  | De verplichting te zorgen voor voldoende daglicht voor kalveren  | dierenwelzijn  |
+| 16.20  | Minimumnormen kalveren  | Besluit houders van dieren  | artikel 2.36, eerste lid  | De verplichting kalveren te houden in een stal die comfortabel en zindelijk is en over een behoorlijke afvoer beschikt  | dierenwelzijn  |
 | 17. Minimumnormen varkens (Richtlijn 2008/120/EG van de Raad van 18 december 2008, artikel 3 en artikel 4, lid 1)  |
 | 17.1  | Minimumnormen varkens  | Richtlijn 2008/120/EG  | artikel 3 lid 1 onder a  | De verplichting te voldoen aan de minimale vrije vloerruimte per gespeend varken of gebruiksvarken  | dierenwelzijn  |
 | 17.2  | Minimumnormen varkens  | Richtlijn 2008/120/EG  | artikel 3 lid 1 onder b eerste volzin in samenhang met artikel 4 lid 4 van het Varkensbesluit en in samenhang met artikel 3 lid 9 van Richtlijn 2008/120/EG  | De verplichting te voldoen aan de minimale vrije vloerruimte per gelte na dekking en per zeug wanneer gelten en/of zeugen in groep gehouden worden  | dierenwelzijn  |
@@ -1215,7 +1220,7 @@ Vervallen  |
 | 17.26  | Minimumnormen varkens (2008/120/EG)  | Besluit houders van dieren  | artikel 2.25  | De verplichting te zorgen dat bij een individueel of niet-ad libitum voersysteem alle varkens tegelijkertijd kunnen eten  | dierenwelzijn  |
 | 17.27  | Minimumnormen varkens (Richtlijn 2008/120/EG)  | Besluit houders van dieren  | artikel 2.24  | De hygiënevoorschriften voor drachtige zeugen en gelten worden nageleefd.  | dierenwelzijn  |
 | 17.28  | Minimumnormen varkens (2008/120/EG)  | Besluit houders van dieren  | artikel 2.26, lid 1  | De verplichting alle varkens ten minste eenmaal per dag te voeren  | dierenwelzijn  |
-| 17.29  | Minimumnormen varkens (2008/120/EG)  | Besluit houders van dieren  | artikel 2.62, lid 2  | De verplichting alle varkens ouder dan twee weken permanent van vers water te voorzien  | dierenwelzijn  |
+| 17.29  | Minimumnormen varkens (2008/120/EG)  | Besluit houders van dieren  | artikel 2.26, lid 2  | De verplichting alle varkens ouder dan twee weken permanent van vers water te voorzien  | dierenwelzijn  |
 | 17.30  | Minimumnormen varkens (Richtlijn 2008/120/EG)  | Besluit houders van dieren  | artikel 2.26, lid 3  | De verplichting om aan guste en drachtige zeugen en gelten voldoende bulk- of vezelrijk en energierijk voer te verstrekken  | dierenwelzijn  |
 | 17.31  | Minimumnormen varkens (Richtlijn 2008/120/EG)  | Besluit diergeneeskundigen  | artikel 2.3, onderdeel a  | De verplichting het castreren door het scheuren van weefsel van mannelijke varkens en als zij ouder zijn dan zeven dagen, uitsluitend te laten uitvoeren onder anesthesie en met aanvullende langdurige analgesie en uitsluitend door een dierenarts  | dierenwelzijn  |
 | 17.32  | Minimumnormen varkens (Richtlijn 2008/120/EG)  | Besluit houders van dieren  | artikel 1.20  | Biggen worden niet gespeend voordat zij 28 dagen oud zijn, tenzij daarvoor veterinaire redenen voor zijn, of gespecialiseerde voorzieningen zijn getroffen.  | dierenwelzijn  |
@@ -1378,7 +1383,7 @@ F. Onderdeel E is niet van toepassing op land- en tuinbouwgronden, indien de lan
 
 4°. wintergraan teelt dat voor 1 januari van het desbetreffende teeltjaar wordt ingezaaid.    
 
-G. Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens [verordening PA erosiebestrijding Zuid-Limburg 2013](../../../../../pbo/verordening/pa/erosiebestrijding/zuid-limburg/2013/BWBR0033743/README.md) en [verordening PT erosiebestrijding Zuid-Limburg 2013](../../../../../pbo/verordening/pt/erosiebestrijding/zuid-limburg/2013/BWBR0033951/README.md), worden voor zover deze paragraaf tot het doen van die meldingen verplicht, geacht te zijn gedaan op grond van deze paragraaf aan de daartoe aangewezen instantie.   
+G. Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens verordening PA erosiebestrijding Zuid-Limburg 2013 en verordening PT erosiebestrijding Zuid-Limburg 2013, worden voor zover deze paragraaf tot het doen van die meldingen verplicht, geacht te zijn gedaan op grond van deze paragraaf aan de daartoe aangewezen instantie.   
 
 ### §  3  
 
@@ -1394,9 +1399,9 @@ B. Onderdeel A is niet van toepassing indien de landbouwer beschikt over een ver
 
 De landbouwer is verplicht de volgende bepalingen in acht te nemen: 
 
-1°. de [artikelen 2](../../../../../wet/boswet/BWBR0002357/README.md), [3](../../../../../wet/boswet/BWBR0002357/README.md) en [13 van de Boswet](../../../../../wet/boswet/BWBR0002357/README.md), en  
+1°. de artikelen 2, 3 en 13 van de Boswet, en  
 
-2°. de [artikelen 2](../../../../../ministeriele-regeling/verplichting/herbeplanting/artikel/3/van/de/boswet/BWBR0002373/README.md) en 3 van het Besluit van 20 juni 1962, houdende regelen ten aanzien van de verplichting tot herbeplanting, bedoeld in artikel 3 van de Boswet.  
+2°. de artikelen 2 en 3 van het Besluit van 20 juni 1962, houdende regelen ten aanzien van de verplichting tot herbeplanting, bedoeld in artikel 3 van de Boswet.  
 
 ### §  5  
 
@@ -1434,7 +1439,7 @@ Het is de landbouwer verboden om zonder vergunning landbouwgronden te bevloeien 
 
 ####Bescherming van grondwater tegen vervuiling
 
-Het is de landbouwer verboden om in strijd te handelen met het bepaalde in [artikel 2.2 eerste en tweede lid van het Activiteitenbesluit milieubeheer](../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), voor zover de lozingen van afvalwater of andere stoffen plaatsvinden in het kader van zijn landbouwbedrijf.
+Het is de landbouwer verboden om in strijd te handelen met het bepaalde in artikel 2.2 eerste en tweede lid van het Activiteitenbesluit milieubeheer, voor zover de lozingen van afvalwater of andere stoffen plaatsvinden in het kader van zijn landbouwbedrijf.
 
 ### Bijlage 2a 
 
@@ -1687,7 +1692,7 @@ De berekening, bedoeld in artikel 13 luidt als volgt: A = B × € 0,4167 waarin
 
 ### Punt  3  
 
-De berekening, bedoeld in artikel 14 luidt als volgt: A = B × € 393,69 waarin A: de omvang vertegenwoordigt van de aanspraak van een landbouwer op verhoging van de waarde van toeslagrechten in eigendom, of op toedeling van nieuwe toeslagrechten. en B: de oppervlakte van de percelen in Nederland, uitgedrukt in hectaren, die de landbouwer heeft ingezaaid in 2008 met vezelvlas of hennep waarvoor op grond van een aan- en verkoopcontract of een verwerkingsverbintenis een verwerker van vezelvlas en hennep een directe steunbetaling heeft ontvangen van het HPA. Indien de op grond van de vorige zin bepaalde oppervlakte afwijkt van de relevante oppervlakte die de landbouwer op grond van de [Regeling landbouwtelling en gecombineerde opgave 2008](../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2008/BWBR0023696/README.md) heeft aangegeven, geldt de kleinste oppervlakte als variabele voor deze berekening.
+De berekening, bedoeld in artikel 14 luidt als volgt: A = B × € 393,69 waarin A: de omvang vertegenwoordigt van de aanspraak van een landbouwer op verhoging van de waarde van toeslagrechten in eigendom, of op toedeling van nieuwe toeslagrechten. en B: de oppervlakte van de percelen in Nederland, uitgedrukt in hectaren, die de landbouwer heeft ingezaaid in 2008 met vezelvlas of hennep waarvoor op grond van een aan- en verkoopcontract of een verwerkingsverbintenis een verwerker van vezelvlas en hennep een directe steunbetaling heeft ontvangen van het HPA. Indien de op grond van de vorige zin bepaalde oppervlakte afwijkt van de relevante oppervlakte die de landbouwer op grond van de Regeling landbouwtelling en gecombineerde opgave 2008 heeft aangegeven, geldt de kleinste oppervlakte als variabele voor deze berekening.
 
 ###Punt 4 
 
@@ -1695,7 +1700,7 @@ De berekening, bedoeld in artikel 15, luidt als volgt: A = B x € 10,81 waarin:
 
 ###Bijlage 10 
 
-Het aantal schapen of geiten, bedoeld in artikel 38b, vijfde lid, wordt als volgt berekend: A = (B – C – D) ≤ (E – F) waarin: A: het aantal voor steun in aanmerking komende schapen of geiten. Berekend op basis van: B: het aantal elektronische merken dat voldoet aan [artikel 12g, derde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), dat de landbouwer tot 30 juni 2010 heeft besteld. verminderd met: C: het aantal elektronische merken dat tot 30 juni 2010 nog niet is gebruikt voor het elektronisch merken van schapen of geiten. verminderd met: D: het aantal schapen en geiten die na 1 januari 2010 en voor 30 juni 2010 zijn geboren. en voorzover dat aantal kleiner of gelijk is aan: E: het aantal dieren dat aanwezig was op de landbouwonderneming waaraan een UBN is toegekend en geïdentificeerd op grond van [artikel 37, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zoals deze luidde op 1 november 2009. verminderd met: F: het aantal dieren dat voor 1 januari 2010 is geboren en voor 30 juni 2010 niet elektronisch gemerkt is zoals bedoeld in [artikel 12g, derde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md).
+Het aantal schapen of geiten, bedoeld in artikel 38b, vijfde lid, wordt als volgt berekend: A = (B – C – D) ≤ (E – F) waarin: A: het aantal voor steun in aanmerking komende schapen of geiten. Berekend op basis van: B: het aantal elektronische merken dat voldoet aan artikel 12g, derde lid, van de Regeling identificatie en registratie van dieren, dat de landbouwer tot 30 juni 2010 heeft besteld. verminderd met: C: het aantal elektronische merken dat tot 30 juni 2010 nog niet is gebruikt voor het elektronisch merken van schapen of geiten. verminderd met: D: het aantal schapen en geiten die na 1 januari 2010 en voor 30 juni 2010 zijn geboren. en voorzover dat aantal kleiner of gelijk is aan: E: het aantal dieren dat aanwezig was op de landbouwonderneming waaraan een UBN is toegekend en geïdentificeerd op grond van artikel 37, eerste lid, van de Regeling identificatie en registratie van dieren, zoals deze luidde op 1 november 2009. verminderd met: F: het aantal dieren dat voor 1 januari 2010 is geboren en voor 30 juni 2010 niet elektronisch gemerkt is zoals bedoeld in artikel 12g, derde lid, van de Regeling identificatie en registratie van dieren.
 
 ###Bijlage 11 
 

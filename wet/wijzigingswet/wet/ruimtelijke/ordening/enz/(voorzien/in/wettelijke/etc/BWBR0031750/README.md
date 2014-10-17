@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het voor het vorderen van medebewind van de provinciebesturen voor de behartiging van nationale ruimtelijke belangen, alsmede voor het voorzien in de mogelijkheid tot afwijking van bij algemene maatregel van bestuur of provinciale verordening gestelde regels, wenselijk is de [Wet ruimtelijke ordening](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en enige andere wetten aan te passen;
+Alzo Wij in overweging genomen hebben, dat het voor het vorderen van medebewind van de provinciebesturen voor de behartiging van nationale ruimtelijke belangen, alsmede voor het voorzien in de mogelijkheid tot afwijking van bij algemene maatregel van bestuur of provinciale verordening gestelde regels, wenselijk is de Wet ruimtelijke ordening en enige andere wetten aan te passen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -23,7 +23,7 @@ Wijzigt de Crisis- en herstelwet.
 
 ### Artikel  IV  
 
-Een besluit van gedeputeerde staten waarbij toestemming is verleend tot afwijking van een provinciale verordening als bedoeld in [artikel 4.1 van de Wet ruimtelijke ordening](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), dat is vastgesteld voor het tijdstip van inwerkingtreding van artikel I, onderdeel B, van deze wet, wordt gelijkgesteld met een ontheffing als bedoeld in [artikel 4.1a, eerste lid, van die wet](../../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). 
+Een besluit van gedeputeerde staten waarbij toestemming is verleend tot afwijking van een provinciale verordening als bedoeld in artikel 4.1 van de Wet ruimtelijke ordening, dat is vastgesteld voor het tijdstip van inwerkingtreding van artikel I, onderdeel B, van deze wet, wordt gelijkgesteld met een ontheffing als bedoeld in artikel 4.1a, eerste lid, van die wet. 
 
 ### Artikel  IVa  
 

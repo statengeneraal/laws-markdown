@@ -16,7 +16,7 @@ Overwegende, dat het van belang is dat de regels die zijn gesteld betreffende:
 – het voorkomen van betrokkenheid van advocaten bij criminele handelingen;   
 worden samengevoegd, en waar nodig aangepast, in een overzichtelijke verordening.
 
-Gelet op de [artikelen 26](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md), [28](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md) en [32 van de Advocatenwet](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op de artikelen 26, 28 en 32 van de Advocatenwet;
 
 Gezien het ontwerp met toelichting van de Algemene Raad;
 
@@ -30,19 +30,19 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a)  *Advocaat:* de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+a)  *Advocaat:* de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet;  
 
 b)  *Deken:* de deken van het arrondissement waar de advocaat kantoor houdt;  
 
 c)  *Raad van Toezicht:* de Raad van Toezicht van de Orde van Advocaten in het arrondissement waar de advocaat kantoor houdt;  
 
-d)  *Algemene Raad:* de Algemene Raad als bedoeld in [artikel 18 van de Advocatenwet](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+d)  *Algemene Raad:* de Algemene Raad als bedoeld in artikel 18 van de Advocatenwet;  
 
-e)  *Secretaris:* de secretaris van de Algemene Raad als bedoeld in [artikel 34 van de Advocatenwet](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+e)  *Secretaris:* de secretaris van de Algemene Raad als bedoeld in artikel 34 van de Advocatenwet;  
 
 f)  *Aanspraak:* de vordering tot vergoeding van schade die is ingesteld tegen de advocaat in het kader van de uitoefening van zijn beroep;  
 
-g.  *College van Afgevaardigden:* het College van Afgevaardigden bedoeld in [artikel 19 van de Advocatenwet](../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+g.  *College van Afgevaardigden:* het College van Afgevaardigden bedoeld in artikel 19 van de Advocatenwet;  
 
 h.  *Authenticatiemiddel:* het door de Algemene Raad vastgestelde en in persoon uit te reiken middel waarmee 
 
@@ -70,7 +70,7 @@ o)  *Stichting Derdengelden:* de stichting waarvan het doel blijkens de doelomsc
 
 p)  *Rechthebbende:* degene voor wie de ontvangen derdengelden zijn bestemd;  
 
-q)  *Accountant:* een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](../../../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+q)  *Accountant:* een accountant als bedoeld in artikel 1 van de Wet op het accountantsberoep.   
 
 ### Hoofdstuk  II  
 
@@ -128,7 +128,7 @@ d. bij opschorting van de stage.
 
 De Algemene Raad 
 
-1. vergewist zich ervan dat de leverancier voldoet aan de vereisten geldend voor certificatiedienstverleners als bedoeld in de [Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), in het bijzonder [Hoofdstuk 2](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+1. vergewist zich ervan dat de leverancier voldoet aan de vereisten geldend voor certificatiedienstverleners als bedoeld in de Telecommunicatiewet, in het bijzonder Hoofdstuk 2;  
 
 2. draagt zorg voor de verwerking van de aanvrage en ter beschikkingstelling van het authenticatiemiddel door de leverancier met alle daarbij behorende taken, waarbij verificatie van de identiteit van de aanvrager voorop staat;  
 
@@ -162,7 +162,7 @@ c. overeenkomstig het door de Algemene Raad bij nadere regeling bepaalde.
 ### Artikel  3  
 
 1.  De advocaat is verplicht ter zake van het risico van zijn beroepsaansprakelijkheid verzekerd te zijn.   
-2.  Uitsluitend indien een werkgever als bedoeld in [artikel 3, tweede lid van de Verordening op de praktijkuitoefening in dienstbetrekking](../../../../../../../../../../pbo/verordening/op/de/praktijkuitoefening/in/dienstbetrekking/BWBR0007830/README.md) schriftelijk en onherroepelijk te kennen heeft gegeven de advocaat in dienstbetrekking niet aansprakelijk te zullen houden voor schade, in de beroepsuitoefening als advocaat toegebracht aan hem als werkgever, behoeft de advocaat dat risico niet te verzekeren. In dat geval blijft voor de advocaat in dienstbetrekking de verplichting bestaan een aansprakelijkheidsverzekering te sluiten voor schade, als advocaat toegebracht aan derden.   
+2.  Uitsluitend indien een werkgever als bedoeld in artikel 3, tweede lid van de Verordening op de praktijkuitoefening in dienstbetrekking schriftelijk en onherroepelijk te kennen heeft gegeven de advocaat in dienstbetrekking niet aansprakelijk te zullen houden voor schade, in de beroepsuitoefening als advocaat toegebracht aan hem als werkgever, behoeft de advocaat dat risico niet te verzekeren. In dat geval blijft voor de advocaat in dienstbetrekking de verplichting bestaan een aansprakelijkheidsverzekering te sluiten voor schade, als advocaat toegebracht aan derden.   
 3.  De advocaat die de praktijk uitoefent in dienst van de Staat is niet verplicht een verzekering te sluiten als bedoeld in het eerste lid van dit artikel, indien de Staat door middel van een schriftelijke verklaring te kennen heeft gegeven de advocaat niet aansprakelijk te zullen houden voor schade, in zijn beroepsuitoefening aan de Staat toegebracht en de advocaat te vrijwaren tegen aanspraken van derden ter zake van schade hun toegebracht in zijn beroepsuitoefening als advocaat in dienst van de Staat. De verklaring dient onverkort de bepalingen te bevatten van het als bijlage F aan deze verordening gehechte model.  
 
 ### Artikel  4  
@@ -246,7 +246,7 @@ f) De verzekering dekt mede de burgerrechtelijke aansprakelijkheid van de advoca
 
 ### Artikel  11  
 
-De advocaat is verplicht met betrekking tot zijn praktijk een zodanige administratie te voeren dat daaruit te allen tijde genoegzaam blijkt van de naleving van het bepaalde in de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md). 
+De advocaat is verplicht met betrekking tot zijn praktijk een zodanige administratie te voeren dat daaruit te allen tijde genoegzaam blijkt van de naleving van het bepaalde in de Wet ter voorkoming van witwassen en financieren van terrorisme. 
 
 ###Artikel 11a 
 
@@ -257,7 +257,7 @@ De advocaat is verplicht met betrekking tot zijn praktijk een zodanige administr
 ### Artikel  12  
 
 1. De advocaat is verplicht desgevraagd aan de deken of de namens de deken optredende secretaris te verklaren dat is voldaan aan de hem in deze verordening opgelegde verplichtingen. De deken of de secretaris bepaalt de wijze waarop deze verklaring dient te geschieden.  
-2.  De advocaat is verplicht desgevraagd de deken of de namens de deken optredende secretaris de gewenste inlichtingen te verschaffen over de door hem gevoerde administratie, de hem ter beschikking staande of door hem bestuurde Stichting Derdengelden en de financiële situatie van zijn praktijk, met inbegrip van de liquiditeit en de solvabiliteit daarvan. Wanneer de deken van oordeel is dat ten aanzien van die onderwerpen een nader onderzoek noodzakelijk is, gaat hij of de namens de deken optredende secretaris, daartoe over. Daarvoor kan hij een of meer deskundigen als bedoeld in [artikel 5, eerste lid, van de Verordening op het landelijk dekenberaad toezicht](../../../../../../../../../../pbo/verordening/op/het/landelijk/dekenberaad/toezicht/BWBR0031777/README.md), aanwijzen. De advocaat is verplicht aan een dergelijk onderzoek zijn medewerking te verlenen.   
+2.  De advocaat is verplicht desgevraagd de deken of de namens de deken optredende secretaris de gewenste inlichtingen te verschaffen over de door hem gevoerde administratie, de hem ter beschikking staande of door hem bestuurde Stichting Derdengelden en de financiële situatie van zijn praktijk, met inbegrip van de liquiditeit en de solvabiliteit daarvan. Wanneer de deken van oordeel is dat ten aanzien van die onderwerpen een nader onderzoek noodzakelijk is, gaat hij of de namens de deken optredende secretaris, daartoe over. Daarvoor kan hij een of meer deskundigen als bedoeld in artikel 5, eerste lid, van de Verordening op het landelijk dekenberaad toezicht, aanwijzen. De advocaat is verplicht aan een dergelijk onderzoek zijn medewerking te verlenen.   
 3.  Van een ingevolge het voorgaande lid opgemaakt verslag ontvangt de advocaat een afschrift.   
 4.  De deken kan zich bij de uitoefening van zijn bevoegdheid uit hoofde van het eerste lid van dit artikel doen vervangen door een lid van de Raad van Toezicht.   
 5.  Ten aanzien van de deken oefent de Raad van Toezicht of een door deze aangewezen lid de bevoegdheid uit welke aan de deken in eerste lid van dit artikel ten aanzien van de andere advocaten is toegekend.  
@@ -268,7 +268,7 @@ De advocaat is verplicht met betrekking tot zijn praktijk een zodanige administr
 
 ### Artikel  13  
 
-Deze verordening wordt aangehaald als de Verordening op de administratie en de financiële integriteit en treedt in werking op een door de Algemene Raad nader te bepalen tijdstip.<sup> 2 De verordening treedt in werking op 1 juli 2009 (Besluit Algemene Raad van 6 april 2009). </sup>  Deze verordening treedt in de plaats van de [Verordening op de Beroepsaansprakelijkheid 1991](../../../../../../../../../../pbo/verordening/op/de/beroepsaansprakelijkheid/1991/BWBR0004965/README.md), de [Boekhoudverordening 1998](../../../../../../../../../../pbo/verordening/op/de/boekhoudverordening/1998/BWBR0009300/README.md), de [Verordening op de praktijkuitoefening (onderdeel Wid en Wet MOT)](../../../../../../../../../../pbo/verordening/op/de/praktijkuitoefening/(onderdeel/wid/en/wet/mot)/BWBR0019136/README.md) en de Richtlijnen ter voorkoming van betrokkenheid van de advocaat bij criminele handelingen. Verwijzingen naar de Boekhoudverordening worden vanaf inwerkingtreding van deze verordening gelezen als verwijzingen naar de Verordening op de administratie en de financiële integriteit. 
+Deze verordening wordt aangehaald als de Verordening op de administratie en de financiële integriteit en treedt in werking op een door de Algemene Raad nader te bepalen tijdstip.<sup> 2 De verordening treedt in werking op 1 juli 2009 (Besluit Algemene Raad van 6 april 2009). </sup>  Deze verordening treedt in de plaats van de Verordening op de Beroepsaansprakelijkheid 1991, de Boekhoudverordening 1998, de Verordening op de praktijkuitoefening (onderdeel Wid en Wet MOT) en de Richtlijnen ter voorkoming van betrokkenheid van de advocaat bij criminele handelingen. Verwijzingen naar de Boekhoudverordening worden vanaf inwerkingtreding van deze verordening gelezen als verwijzingen naar de Verordening op de administratie en de financiële integriteit. 
 
 Het College van Afgevaardigden van de Nederlandse Orde van Advocaten.  
 

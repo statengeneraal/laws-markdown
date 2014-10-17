@@ -5,12 +5,12 @@
 Het College van Afgevaardigden van de Nederlandse Orde van Advocaten,  
 Overwegende:
 
-– dat gebleken is dat [artikel 126aa, tweede lid Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) niet altijd correct wordt uitgevoerd, waardoor opgenomen telefoongesprekken tussen advocaten en cliënten ten onrechte niet worden vernietigd en voor derden kenbaar worden;  
+– dat gebleken is dat artikel 126aa, tweede lid Wetboek van Strafvordering niet altijd correct wordt uitgevoerd, waardoor opgenomen telefoongesprekken tussen advocaten en cliënten ten onrechte niet worden vernietigd en voor derden kenbaar worden;  
 
 – dat het gewenst is regels te stellen in verband met de invoering van nummerherkenning voor de advocatuur, waarmee kan worden voorkomen dat politie en justitie kennis nemen van de inhoud van vertrouwelijke communicatie met geheimhouders die bij communicatietaps wordt opgenomen;  
 
 – dat het in het belang van een behoorlijke uitoefening van de praktijk is dat advocaten zorgvuldigheid bij hun communicatie betrachten ter waarborging van de geheimhoudingsplicht en het verschoningsrecht;   
-Gelet op [artikel 26](../../../../../../wet/advocatenwet/BWBR0002093/README.md) en [28 Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op artikel 26 en 28 Advocatenwet;
 
 Gezien het ontwerp met toelichting van de Algemene Raad;
 
@@ -22,17 +22,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 In deze verordening wordt verstaan onder: 
 
-a.  *advocaat:* de in Nederland ingeschreven advocaat alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).  
+a.  *advocaat:* de in Nederland ingeschreven advocaat alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet.  
 
 b.  *advocaat in dienstbetrekking:* de advocaat die de praktijk uitoefent in dienstbetrekking bij een werkgever als bedoeld in artikel 3, eerste lid, onder b, e en f alsmede het tweede lid van de Verordening op de praktijkuitoefening in dienstbetrekking.  
 
-c.  *nummerherkenning:* het systeem dat het Korps Landelijke Politie Diensten bij het opnemen van communicatie met een technisch hulpmiddel, als bedoeld in de [artikelen 126m](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [126t](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [126zg Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), gebruikt om langs geautomatiseerde weg geheimhoudernummers te herkennen, zodat opname van communicatie van of naar deze nummers direct automatisch wordt verhinderd, en voor zover van deze communicatie onverhoopt (deels) toch een opname is gemaakt, deze opname direct wordt vernietigd.  
+c.  *nummerherkenning:* het systeem dat het Korps Landelijke Politie Diensten bij het opnemen van communicatie met een technisch hulpmiddel, als bedoeld in de artikelen 126m, 126t en 126zg Wetboek van Strafvordering, gebruikt om langs geautomatiseerde weg geheimhoudernummers te herkennen, zodat opname van communicatie van of naar deze nummers direct automatisch wordt verhinderd, en voor zover van deze communicatie onverhoopt (deels) toch een opname is gemaakt, deze opname direct wordt vernietigd.  
 
-d.  *geheimhoudernummer:* een nummer als bedoeld in [artikel 1.1 bb Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) dat doorgaans wordt gebruikt in de uitoefening van zijn praktijk door de advocaat zelf of een ieder met een van de advocaat afgeleid verschoningsrecht, en dat de Orde heeft verstrekt aan het Korps Landelijke Politie Diensten ten behoeve van de nummerherkenning.  
+d.  *geheimhoudernummer:* een nummer als bedoeld in artikel 1.1 bb Telecommunicatiewet dat doorgaans wordt gebruikt in de uitoefening van zijn praktijk door de advocaat zelf of een ieder met een van de advocaat afgeleid verschoningsrecht, en dat de Orde heeft verstrekt aan het Korps Landelijke Politie Diensten ten behoeve van de nummerherkenning.  
 
 e.  *bundelnummer:* het nummer dat op signaleringsniveau aan gesprekken via een uitgaande telefoonlijn wordt meegegeven en dat wordt bepaald in de telefooncentrale van het advocatenkantoor dan wel de nummercentrale van een aanbieder van een communicatiedienst.  
 
-f.  *secretaris van de Algemene Raad:* de secretaris van de Algemene Raad als bedoeld in [artikel 34 van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).  
+f.  *secretaris van de Algemene Raad:* de secretaris van de Algemene Raad als bedoeld in artikel 34 van de Advocatenwet.  
 
 g.  *niet-geheimhouder:* een beroepsbeoefenaar voor wie geen verschoningsrecht of een van een verschoningsgerechtigde afgeleid verschoningsrecht geldt.   
 

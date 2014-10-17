@@ -154,7 +154,7 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de voorbereiding
 2.  Gedeputeerde staten onderscheidenlijk Onze Minister kunnen bepalen dat onder bepaalde omstandigheden of in bepaalde gevallen geen overleg is vereist met de diensten van provincie onderscheidenlijk Rijk die betrokken zijn bij de zorg voor de ruimtelijke ordening.  
 
 ### Artikel  3.1.1a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2014 
 
 Bij de vaststelling van een bestemmingsplan kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar. 
 
