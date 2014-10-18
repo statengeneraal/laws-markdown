@@ -90,6 +90,6 @@ Who are you?
 
 This repository is connected to [Open State](http://openstate.eu/), a Dutch organization that promotes open data and the [Leibniz Center for Law](http://www.leibnizcenter.org/), a research group in the University of Amsterdam which operates at the intersection of artificial intelligence and law.
 
-Inquiries go to maartenhoedjes@gmail.com.
+This project was part of an internship at Leibniz Center for Law. Read the internship report [here](http://leibniz-internship-report.herokuapp.com/).
 
-This project was partn of an internship at Leibniz Center for Law. Read the internship report [here](http://leibniz-internship-report.herokuapp.com/).
+Inquiries go to maartenhoedjes@gmail.com.
