@@ -3,7 +3,7 @@
 ##Regeling vaststelling grondslagen IOAW
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 5, zesde en zevende lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md),
+Gelet op artikel 5, zesde en zevende lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers,
 Besluit:    
 
 ### Artikel  1  
@@ -32,7 +32,7 @@ Deze regeling treedt in werking per 1 januari 1996.
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: [Regeling vaststelling grondslagen IOAW](../../../../../../ministeriele-regeling/regeling/vaststelling/grondslagen/ioaw/BWBR0007762/README.md). 
+Deze regeling wordt aangehaald als: Regeling vaststelling grondslagen IOAW. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

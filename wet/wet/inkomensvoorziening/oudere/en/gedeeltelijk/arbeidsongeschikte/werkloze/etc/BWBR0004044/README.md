@@ -168,7 +168,8 @@ d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan
 11.  De in het vierde lid, onderdeel c en d, genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumjeugdloon wordt herzien met het percentage van deze herziening.   
 12.  Voor zover het recht op uitkering op grond van de Werkloosheidswet gedeeltelijk is geëindigd door het verrichten van werkzaamheden als bedoeld in artikel 8, tweede lid, van die wet, wordt bij de toepassing van het zesde lid voor de vaststelling van factor A uitgegaan van het bedrag aan loondervingsuitkering dat zou zijn genoten indien die werkzaamheden niet zouden zijn verricht.   
 13.  Het twaalfde lid is van overeenkomstige toepassing indien de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen, is verlaagd als gevolg van het verrichten van werkzaamheden uit hoofde waarvan de werkloze werknemer geen werknemer is als bedoeld in de artikelen 8 en 9 van die wet.  
-14.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
+14.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Wet werk en bijstand niet in aanmerking genomen.  
+15.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
 
 ### Artikel  6  
 

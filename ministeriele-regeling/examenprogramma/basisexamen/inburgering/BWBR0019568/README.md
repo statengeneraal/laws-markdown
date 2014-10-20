@@ -5,12 +5,12 @@
 De Minister voor Vreemdelingenzaken en Integratie,  
 Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
 
-Gelet op [artikel 3.98a, derde en zesde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);
+Gelet op artikel 3.98a, derde en zesde lid, van het Vreemdelingenbesluit 2000;
 Besluit:    
 
 ### Artikel  1  
 
-Het examenprogramma voor de vereiste lees-, luister- en spreekvaardigheid, bedoeld in [artikel 3.98a, derde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en het examenprogramma voor de vereiste kennis van de Nederlandse samenleving, bedoeld in [artikel 3.98a, zesde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), worden vastgesteld als in de bijlage van deze regeling is aangegeven. 
+Het examenprogramma voor de vereiste lees-, luister- en spreekvaardigheid, bedoeld in artikel 3.98a, derde lid, van het Vreemdelingenbesluit 2000, en het examenprogramma voor de vereiste kennis van de Nederlandse samenleving, bedoeld in artikel 3.98a, zesde lid, van het Vreemdelingenbesluit 2000, worden vastgesteld als in de bijlage van deze regeling is aangegeven. 
 
 ### Artikel  2  
 

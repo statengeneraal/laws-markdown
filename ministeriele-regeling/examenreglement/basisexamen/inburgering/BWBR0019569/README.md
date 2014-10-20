@@ -5,7 +5,7 @@
 De Minister voor Vreemdelingenzaken en Integratie,  
 Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
 
-Gelet op [artikel 3.98b, vierde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);
+Gelet op artikel 3.98b, vierde lid, van het Vreemdelingenbesluit 2000;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 1.  In dit reglement wordt verstaan onder: 
 
-a. basisexamen: het basisexamen inburgering, bedoeld in [artikel 3.98a, eerste lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+a. basisexamen: het basisexamen inburgering, bedoeld in artikel 3.98a, eerste lid, van het Vreemdelingenbesluit 2000;  
 
 b. deelnemer: de vreemdeling die zich voor het basisexamen heeft aangemeld;  
 
@@ -35,7 +35,7 @@ d. toezichthouder: de door het hoofd aangewezen ambtenaar, medewerker, autoritei
 
 ####Gang van zaken voor en tijdens het examen
 
-1.  De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in artikel 2, tweede lid, en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.   
+1.  De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in artikel 2, tweede lid, en het identiteitsdocument, bedoeld in artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000, ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.   
 2.  Voor de aanvang van het basisexamen draagt de toezichthouder zorg voor: 
 
 a. de controle van het referentienummer en van het identiteitsdocument;  

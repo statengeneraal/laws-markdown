@@ -3,7 +3,7 @@
 ##Regeling vaststelling grondslagen IOAZ
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 5, zesde en zevende lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md),
+Gelet op artikel 5, zesde en zevende lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen,
 Besluit:    
 
 ### Artikel  1  
@@ -20,7 +20,7 @@ Deze regeling treedt in werking per 1 januari 1996.
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: [Regeling vaststelling grondslagen IOAZ](../../../../../../ministeriele-regeling/regeling/vaststelling/grondslagen/ioaz/BWBR0007763/README.md). 
+Deze regeling wordt aangehaald als: Regeling vaststelling grondslagen IOAZ. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

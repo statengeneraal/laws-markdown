@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Provinciewet aan te passen aan de herziene Grondwet en aan de [Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) en in verband daarmee nieuwe bepalingen vast te stellen met betrekking tot de inrichting van provincies, alsmede de samenstelling en bevoegdheid van hun besturen; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Provinciewet aan te passen aan de herziene Grondwet en aan de Gemeentewet en in verband daarmee nieuwe bepalingen vast te stellen met betrekking tot de inrichting van provincies, alsmede de samenstelling en bevoegdheid van hun besturen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 
 ### Titel  I  
@@ -94,7 +94,7 @@ d.lid van de Algemene Rekenkamer;
 
 e.Nationale ombudsman;
 
-f.substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);
+f.substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;
 
 g.commissaris van de Koning;
 
@@ -109,13 +109,13 @@ k. ambtenaar, door of vanwege het provinciebestuur aangesteld of daaraan onderge
 
 a.aanvangt op de dag van de stemming voor de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge artikel 41, eerste lid, aftreden, of
 
-b.aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.
+b.aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. Artikel X 6 van de Kieswet is van overeenkomstige toepassing.
 3. In afwijking van het eerste lid, aanhef en onder k, kan een lid van provinciale staten tevens zijn vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
 
 ### Artikel  14  
 
-1. Alvorens hun functie te kunnen uitoefenen, leggen de leden van provinciale staten in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot lid van provinciale staten benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van provinciale staten naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God Almachtig!"  (Dat verklaar en beloof ik!")   
-2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta lid fan provinsjale steaten beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten neikomme sil en dat ik myn plichten as lid fan provinsjale steaten yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
+1. Alvorens hun functie te kunnen uitoefenen, leggen de leden van provinciale staten in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot lid van provinciale staten benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van provinciale staten naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God Almachtig!"  (Dat verklaar en beloof ik!")   
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta lid fan provinsjale steaten beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as lid fan provinsjale steaten yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel  15  
 
@@ -181,7 +181,7 @@ Provinciale staten vergaderen na de periodieke verkiezing van hun leden voor de 
 
 ### Artikel  22  
 
-De leden van het provinciebestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht getuigenis af te leggen als bedoeld in [artikel 165, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) over hetgeen zij in de vergadering van provinciale staten hebben gezegd of aan provinciale staten schriftelijk hebben overgelegd.  
+De leden van het provinciebestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht getuigenis af te leggen als bedoeld in artikel 165, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering over hetgeen zij in de vergadering van provinciale staten hebben gezegd of aan provinciale staten schriftelijk hebben overgelegd.  
 
 ### Artikel  23  
 
@@ -206,7 +206,7 @@ d. de benoeming en het ontslag van gedeputeerden.
 ### Artikel  25  
 
 1.  Provinciale staten kunnen op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan provinciale staten worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat provinciale staten haar opheffen.    
-2.   Op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), kan de geheimhouding eveneens worden opgelegd door gedeputeerde staten, de commissaris van de Koning en een commissie, ieder ten aanzien van stukken die zij aan provinciale staten of aan leden van provinciale staten overleggen. Daarvan wordt op de stukken melding gemaakt.    
+2.   Op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, kan de geheimhouding eveneens worden opgelegd door gedeputeerde staten, de commissaris van de Koning en een commissie, ieder ten aanzien van stukken die zij aan provinciale staten of aan leden van provinciale staten overleggen. Daarvan wordt op de stukken melding gemaakt.    
 3.   De krachtens het tweede lid opgelegde verplichting tot geheimhouding met betrekking tot aan provinciale staten overgelegde stukken vervalt, indien de oplegging niet door provinciale staten in hun eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, wordt bekrachtigd.    
 4.   De krachtens het tweede lid opgelegde verplichting tot geheimhouding met betrekking tot aan leden van provinciale staten overgelegde stukken wordt in acht genomen totdat het orgaan dat de verplichting heeft opgelegd, dan wel, indien het stuk waaromtrent geheimhouding is opgelegd aan provinciale staten is voorgelegd, totdat provinciale staten haar opheffen. Provinciale staten kunnen deze beslissing alleen nemen in een vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht.   
 
@@ -311,7 +311,7 @@ d.lid van de Algemene Rekenkamer;
 
 e.Nationale ombudsman;  
 
-f.substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f.substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g.commissaris van de Koning;  
 
@@ -342,7 +342,7 @@ s.functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het 
 
 a.aanvangt op de dag van de stemming van de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge artikel 41, eerste lid, aftreden, of  
 
-b.aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.     
+b.aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. Artikel X 6 van de Kieswet is van overeenkomstige toepassing.     
 3.  In afwijking van het eerste lid, aanhef en onder n, kan een gedeputeerde tevens zijn vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.  
 
 ### Artikel  36  
@@ -367,8 +367,8 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ### Artikel  40a  
 
-1. Alvorens hun functie te kunnen uitoefenen leggen de gedeputeerden, in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot gedeputeerde benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als gedeputeerde naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)  
-2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta deputearre beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten neikomme sil en dat ik myn plichten as deputearre yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
+1. Alvorens hun functie te kunnen uitoefenen leggen de gedeputeerden, in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot gedeputeerde benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als gedeputeerde naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)  
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta deputearre beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as deputearre yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel  40b  
 
@@ -376,7 +376,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 2.  Een gedeputeerde meldt zijn voornemen tot aanvaarding van een nevenfunctie aan provinciale staten.   
 3.  Een gedeputeerde maakt zijn nevenfuncties openbaar. Openbaarmaking geschiedt door terinzagelegging op het provinciehuis.   
 4.  Een gedeputeerde die zijn ambt niet in deeltijd vervult, maakt tevens de inkomsten uit nevenfuncties openbaar. Openbaarmaking geschiedt door terinzagelegging op het provinciehuis uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.   
-5.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+5.  Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen bedoeld in artikel 31 van die wet. 
 
 ### Artikel  40c  
 
@@ -401,7 +401,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 4.   Buiten hetgeen hun bij of krachtens de wet is toegekend genieten de gedeputeerden als zodanig geen inkomsten, in welke vorm ook, ten laste van de provincie.    
 5.   De gedeputeerden genieten geen vergoedingen, in welke vorm ook, voor werkzaamheden verricht in nevenfuncties die zij vervullen uit hoofde van het ambt van gedeputeerde, ongeacht of die vergoedingen ten laste van de provincie komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de provinciale kas.    
 6.  Tot vergoedingen als bedoeld in het vijfde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de gedeputeerde neerlegt bij beëindiging van het ambt.   
-7.  Andere inkomsten dan die bedoeld in het vijfde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
+7.  Andere inkomsten dan die bedoeld in het vijfde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer.   
 8.  Ten aanzien van de gedeputeerden die hun ambt in deeltijd vervullen, vindt onverminderd het vijfde lid geen verrekening plaats van de inkomsten, bedoeld in het zevende lid.   
 9.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de gedeputeerde gegevens over de inkomsten, bedoeld in het zevende lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens. 
 
@@ -429,7 +429,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 1.  Indien degene wiens benoeming tot gedeputeerde is ingegaan, een functie bekleedt als bedoeld in artikel 35c, eerste lid, en het tweede of derde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.   
 2.   Provinciale staten verlenen hem ontslag indien hij dit nalaat.    
 3.  Het ontslag gaat in terstond na de bekendmaking van het ontslagbesluit.   
-4.  In het geval, bedoeld in het tweede lid, is [artikel 4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.  
+4.  In het geval, bedoeld in het tweede lid, is artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing.  
 
 ### Artikel  46  
 
@@ -442,7 +442,7 @@ In zaken die aan de uitspraak van gedeputeerde staten zijn onderworpen mag een g
 
 ### Artikel  49  
 
-Indien een uitspraak van provinciale staten inhoudende de opzegging van hun vertrouwen in een gedeputeerde er niet toe leidt dat de betrokken gedeputeerde onmiddellijk ontslag neemt, kunnen provinciale staten besluiten tot ontslag. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing. 
+Indien een uitspraak van provinciale staten inhoudende de opzegging van hun vertrouwen in een gedeputeerde er niet toe leidt dat de betrokken gedeputeerde onmiddellijk ontslag neemt, kunnen provinciale staten besluiten tot ontslag. Op het ontslagbesluit is artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing. 
 
 ### Artikel  50  
 
@@ -557,9 +557,9 @@ Voor de benoembaarheid tot commissaris is het Nederlanderschap vereist.
 
 ### Artikel  64  
 
-1. Alvorens zijn ambt te aanvaarden, legt de commissaris in handen van de Koning de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot commissaris van de Koning benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als commissaris van de Koning naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God Almachtig!"  (Dat verklaar en beloof ik!")  
+1. Alvorens zijn ambt te aanvaarden, legt de commissaris in handen van de Koning de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot commissaris van de Koning benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als commissaris van de Koning naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God Almachtig!"  (Dat verklaar en beloof ik!")  
 2. In geval van herbenoeming wordt de eed (verklaring en belofte) in handen van de Koning of in handen van Onze Minister, daartoe door de Koning gemachtigd, afgelegd.  
-3. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta kommissaris fan 'e Kening beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten neikomme sil en dat ik myn plichten as kommissaris fan 'e Kening yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
+3. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta kommissaris fan 'e Kening beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as kommissaris fan 'e Kening yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel  65  
 
@@ -569,7 +569,7 @@ Voor de benoembaarheid tot commissaris is het Nederlanderschap vereist.
 4.   Buiten hetgeen hem bij of krachtens de wet is toegekend, geniet de commissaris als zodanig geen inkomsten, in welke vorm ook, ten laste van de provincie.    
 5.   De commissaris geniet geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties welke hij vervult uit hoofde van zijn ambt, ongeacht of die vergoedingen ten laste van de provincie komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de provinciale kas.    
 6.  Tot vergoedingen als bedoeld in het vijfde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de commissaris neerlegt bij beëindiging van het ambt.   
-7.  Andere inkomsten dan die bedoeld in het vijfde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
+7.  Andere inkomsten dan die bedoeld in het vijfde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer.   
 8.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de commissaris gegevens over de inkomsten, bedoeld in het zevende lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens. 
 
 ### Artikel  66  
@@ -577,7 +577,7 @@ Voor de benoembaarheid tot commissaris is het Nederlanderschap vereist.
 1.  De commissaris vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op de goede vervulling van het ambt van commissaris of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.    
 2.   De commissaris meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van het ambt van commissaris, aan provinciale staten.    
 3.  De commissaris maakt nevenfuncties, anders dan uit hoofde van zijn ambt van commissaris, en de inkomsten uit die functies openbaar. Openbaarmaking geschiedt door terinzagelegging op het provinciehuis uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.   
-4.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+4.  Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen bedoeld in artikel 31 van die wet. 
 
 ### Artikel  67  
 
@@ -593,7 +593,7 @@ d.lid van de Algemene Rekenkamer;
 
 e.Nationale ombudsman;  
 
-f.substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f.substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g.lid van provinciale staten;  
 
@@ -756,7 +756,7 @@ d. lid van de Algemene Rekenkamer;
 
 e.Nationale ombudsman;  
 
-f.substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f.substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g.lid van provinciale staten van de betrokken provincie;  
 
@@ -777,8 +777,8 @@ n.functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het 
 
 ###Artikel 79g 
 
-1. Alvorens hun functie uit te kunnen oefenen, leggen de leden van de rekenkamer in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de rekenkamer naar eer en geweten zal vervullen.Zo waarlijk helpe mij God Almachtig!(«Dat verklaar en beloof ik!»)
-2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:«Ik swar (ferklearje) dat ik, om ta lid fan 'e rekkenkeamer beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten neikomme sil en dat ik myn plichten as lid fan 'e rekkenkeamer yn alle oprjochtens ferfolje sil.Sa wier helpe my God Almachtich!»(«Dat ferklearje en ûnthjit ik!»).
+1. Alvorens hun functie uit te kunnen oefenen, leggen de leden van de rekenkamer in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de rekenkamer naar eer en geweten zal vervullen.Zo waarlijk helpe mij God Almachtig!(«Dat verklaar en beloof ik!»)
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:«Ik swar (ferklearje) dat ik, om ta lid fan 'e rekkenkeamer beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as lid fan 'e rekkenkeamer yn alle oprjochtens ferfolje sil.Sa wier helpe my God Almachtich!»(«Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel  79h  
 
@@ -806,7 +806,7 @@ De leden van de rekenkamer ontvangen een bij verordening van provinciale staten 
 
 ### Artikel  79l  
 
-In afwijking van artikel 79a kunnen provinciale staten met provinciale staten van een of meer andere provincies met toepassing van [artikel 40](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [artikel 41, eerste lid](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), of met de raad of de raden van één of meer gemeenten, al dan niet met provinciale staten van één of meer andere provincies tezamen, met toepassing van [artikel 51](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [artikel 52, eerste lid](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) een gemeenschappelijke rekenkamer instellen. De [artikelen 10, tweede en derde lid](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [10a](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [11](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [15](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [16](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [17](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [20, derde lid](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [21](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [22](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [23](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), [43](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [54 van die wet](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) zijn niet van toepassing. 
+In afwijking van artikel 79a kunnen provinciale staten met provinciale staten van een of meer andere provincies met toepassing van artikel 40 en artikel 41, eerste lid, juncto artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen, of met de raad of de raden van één of meer gemeenten, al dan niet met provinciale staten van één of meer andere provincies tezamen, met toepassing van artikel 51 en artikel 52, eerste lid, juncto artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen een gemeenschappelijke rekenkamer instellen. De artikelen 10, tweede en derde lid, 10a, 11, 15, 16, 17, 20, derde lid, 21, 22, 23, 43 en 54 van die wet zijn niet van toepassing. 
 
 ### Artikel  79m  
 
@@ -857,7 +857,7 @@ de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en
 
 ### Artikel 79q 
 
-1. Met inachtneming van het bepaalde in dit hoofdstuk kunnen provinciale staten de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), opdragen aan een provinciale ombudsman of ombudscommissie, dan wel een gezamenlijke ombudsman of ombudscommissie. 
+1. Met inachtneming van het bepaalde in dit hoofdstuk kunnen provinciale staten de behandeling van verzoekschriften als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht, opdragen aan een provinciale ombudsman of ombudscommissie, dan wel een gezamenlijke ombudsman of ombudscommissie. 
 2. Een ombudsman of ombudscommissie als bedoeld in het eerste lid kan slechts per 1 januari van enig jaar worden ingesteld. Indien provinciale staten hiertoe besluiten, zenden zij het besluit tot instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling ingaat. 
 3. De instelling van een ombudsman of ombudscommissie als bedoeld in het eerste lid kan slechts per 1 januari van enig jaar worden beëindigd. Indien provinciale staten hiertoe besluiten, zenden zij het besluit tot beëindiging van de instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling eindigt.
 
@@ -897,8 +897,8 @@ c.onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzie
 
 ### Artikel 79t 
 
-1. Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen. Zo waarlijk helpe mij God almachtig!» («Dat verklaar en beloof ik!»)
-2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta ombudsman beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten neikomme sil en dat ik myn plichten as ombudsman yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
+1. Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen. Zo waarlijk helpe mij God almachtig!» («Dat verklaar en beloof ik!»)
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta ombudsman beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as ombudsman yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel 79u 
 
@@ -942,7 +942,7 @@ De ombudsman ontvangt een bij verordening van provinciale staten vastgestelde ve
 
 ###Artikel 79aa 
 
-Indien provinciale staten een ombudsman of een ombudscommissie instellen met toepassing van de [Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de ombudsman of de ombudscommissie opgedragen taken zich daartegen niet verzet.
+Indien provinciale staten een ombudsman of een ombudscommissie instellen met toepassing van de Wet gemeenschappelijke regelingen, zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de ombudsman of de ombudscommissie opgedragen taken zich daartegen niet verzet.
 
 ### Hoofdstuk  V  
 
@@ -974,8 +974,8 @@ Indien provinciale staten een ombudsman of een ombudscommissie instellen met toe
 ### Artikel  83  
 
 1.  Provinciale staten, onderscheidenlijk gedeputeerde staten, regelen ten aanzien van de door hen ingestelde bestuurscommissies de verantwoording aan provinciale staten, onderscheidenlijk gedeputeerde staten.   
-2.  Provinciale staten, onderscheidenlijk gedeputeerde staten, kunnen besluiten en andere, niet-schriftelijke, beslissingen gericht op enig rechtsgevolg van een door provinciale staten, onderscheidenlijk gedeputeerde staten, ingestelde bestuurscommissie vernietigen. Provinciale staten kunnen hun bevoegdheid tot schorsing delegeren aan gedeputeerde staten. Ten aanzien van de vernietiging van niet-schriftelijke beslissingen gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2.](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10.2.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-3.  Voor zover zulks in verband met de aard en de omvang van de overgedragen bevoegdheden nodig is, regelen provinciale staten onderscheidenlijk gedeputeerde staten het overige toezicht op de uitoefening van de bevoegdheden door een door hen ingestelde bestuurscommissie. Dit overige toezicht kan mede de goedkeuring omvatten van beslissingen van een bestuurscommissie. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is [afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+2.  Provinciale staten, onderscheidenlijk gedeputeerde staten, kunnen besluiten en andere, niet-schriftelijke, beslissingen gericht op enig rechtsgevolg van een door provinciale staten, onderscheidenlijk gedeputeerde staten, ingestelde bestuurscommissie vernietigen. Provinciale staten kunnen hun bevoegdheid tot schorsing delegeren aan gedeputeerde staten. Ten aanzien van de vernietiging van niet-schriftelijke beslissingen gericht op enig rechtsgevolg zijn de afdelingen 10.2.2. en 10.2.3. van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
+3.  Voor zover zulks in verband met de aard en de omvang van de overgedragen bevoegdheden nodig is, regelen provinciale staten onderscheidenlijk gedeputeerde staten het overige toezicht op de uitoefening van de bevoegdheden door een door hen ingestelde bestuurscommissie. Dit overige toezicht kan mede de goedkeuring omvatten van beslissingen van een bestuurscommissie. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is afdeling 10.2.1 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  91  
 
@@ -989,7 +989,7 @@ Indien provinciale staten een ombudsman of een ombudscommissie instellen met toe
 
 ### Artikel  93  
 
-1.  De leden van provinciale staten en de leden van provinciale staten aan wie ingevolge [artikel X 10 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangen een bij verordening van provinciale staten vast te stellen vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.   
+1.  De leden van provinciale staten en de leden van provinciale staten aan wie ingevolge artikel X 10 van de Kieswet ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangen een bij verordening van provinciale staten vast te stellen vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.   
 2.  Provinciale staten kunnen bij verordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere financiële voorzieningen die verband houden met de vervulling van het lidmaatschap van provinciale staten.   
 3.  Het eerste en het tweede lid zijn niet van toepassing op een lid van provinciale staten dat met inachtneming van artikel 13, tweede lid, tevens gedeputeerde is.   
 4.  De verordeningen, bedoeld in het eerste en het tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.  
@@ -1103,7 +1103,7 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen provincie
 
 ### Artikel  107  
 
-1.  Het provinciebestuur kan bevoegdheden van regeling en bestuur, gevorderd bij of krachtens een andere dan deze wet, voor het gebied van een of meer gemeenten, van plusregio’s als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of waterschappen overdragen aan de besturen van die gemeenten, plusregio’s of waterschappen voor zover die bevoegdheden zich naar hun aard en schaal daartoe lenen en die besturen daarmee instemmen.   
+1.  Het provinciebestuur kan bevoegdheden van regeling en bestuur, gevorderd bij of krachtens een andere dan deze wet, voor het gebied van een of meer gemeenten, van plusregio’s als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen of waterschappen overdragen aan de besturen van die gemeenten, plusregio’s of waterschappen voor zover die bevoegdheden zich naar hun aard en schaal daartoe lenen en die besturen daarmee instemmen.   
 2.   Een besluit als bedoeld in het eerste lid regelt de gevolgen van intrekking van het besluit.    
 3.   Het ontwerp van een besluit als bedoeld in het eerste lid behoeft de instemming van provinciale staten en van de raden van de betrokken gemeenten onderscheidenlijk de algemene besturen van de betrokken plusregio’s en waterschappen.    
 4.   Een besluit als bedoeld in het eerste lid wordt binnen een week toegezonden aan Onze Minister wie het aangaat.    
@@ -1123,7 +1123,7 @@ a. plan: een beslissing die een samenhangend geheel van op elkaar afgestemde keu
 b. beleidsverslag: een schriftelijke rapportage betreffende het door het provinciebestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.      
 2.   Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk van het provinciebestuur slechts worden gevorderd in bij de wet te bepalen gevallen.    
 3.   Een verplichting als bedoeld in het tweede lid geldt voor ten hoogste vier jaren tenzij de wet anders bepaalt.    
-4.  Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het provinciebestuur worden gevraagd als onderdeel van de regeling van een tijdelijke specifieke uitkering als bedoeld in [artikel 17 van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md).    
+4.  Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het provinciebestuur worden gevraagd als onderdeel van de regeling van een tijdelijke specifieke uitkering als bedoeld in artikel 17 van de Financiële-verhoudingswet.    
 5.   Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt van een provinciebestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor de provincie worden gecompenseerd.    
 6.  Dit artikel is niet van toepassing op de begroting, bedoeld in artikel 193, en op de jaarrekening en het jaarverslag, bedoeld in artikel 201.  
 
@@ -1185,7 +1185,7 @@ c. de financiën van de provincies in betekenende mate zijn betrokken.
 ### Artikel  115  
 
 1.  Onze Minister bevordert de decentralisatie ten behoeve van de provincies.    
-2.   Onverminderd het bepaalde in [artikel 117, tweede lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb.* 1992, 96), worden voorstellen van maatregelen waarbij bepaalde aangelegenheden tot rijksbeleid worden gerekend slechts gedaan indien het onderwerp van zorg niet op doelmatige en doeltreffende wijze door de provinciebesturen kan worden behartigd.   
+2.   Onverminderd het bepaalde in artikel 117, tweede lid, van de Gemeentewet (*Stb.* 1992, 96), worden voorstellen van maatregelen waarbij bepaalde aangelegenheden tot rijksbeleid worden gerekend slechts gedaan indien het onderwerp van zorg niet op doelmatige en doeltreffende wijze door de provinciebesturen kan worden behartigd.   
 
 ### Artikel  116  
 
@@ -1235,18 +1235,18 @@ Onze Minister wie het aangaat kan een besluit tot indeplaatsstelling intrekken, 
 
 ### Artikel  121c  
 
-Onze Minister wie het aangaat kan ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het provinciebestuur bij of krachtens andere wet dan deze opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. 
+Onze Minister wie het aangaat kan ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het provinciebestuur bij of krachtens andere wet dan deze opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. 
 
 ### Artikel  121d  
 
-1.  Indien Onze Minister wie het aangaat bij de uitvoering van het besluit tot indeplaatsstelling namens provinciale staten, gedeputeerde staten of de commissaris van de Koning een besluit neemt, kan voor de toepassing van [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bezwaar worden gemaakt bij Onze Minister wie het aangaat. Onze Minister wie het aangaat beslist op het bezwaar.   
+1.  Indien Onze Minister wie het aangaat bij de uitvoering van het besluit tot indeplaatsstelling namens provinciale staten, gedeputeerde staten of de commissaris van de Koning een besluit neemt, kan voor de toepassing van artikel 7:1 van de Algemene wet bestuursrecht bezwaar worden gemaakt bij Onze Minister wie het aangaat. Onze Minister wie het aangaat beslist op het bezwaar.   
 2.  Onze Minister wie het aangaat is de verwerende partij inzake een beroep tegen een namens provinciale staten, gedeputeerde staten of de commissaris van de Koning genomen besluit als bedoeld in het eerste lid.   
 3.  Het provinciebestuur kan geen beroep instellen tegen een besluit als bedoeld in het eerste lid.  
 
 ### Artikel  121e  
 
 1.  Het provinciebestuur werkt mee met de uitvoering van een besluit tot indeplaatsstelling. Onze Minister wie het aangaat kan ter zake van de uitvoering van het besluit aanwijzingen geven. Het provinciebestuur stelt op eerste vordering van Onze Minister wie het aangaat de voor de uitvoering van het besluit benodigde provincieambtenaren ter beschikking en verschaft op eerste vordering van Onze Minister wie het aangaat alle informatie die nodig is voor de uitvoering van het besluit tot indeplaatsstelling.   
-2.  Onze Minister wie het aangaat kan ambtenaren aanwijzen die ten behoeve van de uitvoering van een besluit tot indeplaatsstelling beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. Het provinciebestuur verschaft de aangewezen ambtenaren desgevraagd de faciliteiten die zij nodig hebben.  
+2.  Onze Minister wie het aangaat kan ambtenaren aanwijzen die ten behoeve van de uitvoering van een besluit tot indeplaatsstelling beschikken over de bevoegdheden van de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. Het provinciebestuur verschaft de aangewezen ambtenaren desgevraagd de faciliteiten die zij nodig hebben.  
 
 ### Artikel  121f  
 
@@ -1273,7 +1273,7 @@ Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen rege
 2.  De uitgifte van het provinciaal blad geschiedt elektronisch op een algemeen toegankelijke wijze. Na de uitgifte blijft het provinciaal blad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte geheel of gedeeltelijk onmogelijk is, voorziet het provinciebestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
 3.  In afwijking van het eerste lid kan een besluit als bedoeld in dat lid bepalen dat een bij het besluit behorende bijlage wordt bekendgemaakt door terinzagelegging.   
 4.  Voor het inzien van een overeenkomstig het eerste lid bekendgemaakt besluit worden geen kosten in rekening gebracht.  
-5.   Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt de dagtekening vermeld van het besluit waarbij die goedkeuring is verleend of wordt de mededeling gedaan van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een besluit tot goedkeuring wordt geacht te zijn genomen.   
+5.   Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt de dagtekening vermeld van het besluit waarbij die goedkeuring is verleend of wordt de mededeling gedaan van de omstandigheid dat ingevolge artikel 10:31, vierde lid, van de Algemene wet bestuursrecht een besluit tot goedkeuring wordt geacht te zijn genomen.   
 
 ### Artikel  137  
 
@@ -1335,7 +1335,7 @@ Provinciale staten maken de verordeningen die zij in het belang van de provincie
 ### Artikel  147  
 
 1.  Provinciale staten stellen een verordening vast waarin regels worden gesteld met betrekking tot de wijze waarop ingezetenen en belanghebbenden bij de voorbereiding van provinciaal beleid worden betrokken.   
-2.  De in het eerste lid bedoelde inspraak wordt verleend door toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voorzover in de verordening niet anders is bepaald.  
+2.  De in het eerste lid bedoelde inspraak wordt verleend door toepassing van afdeling 3.4 van de Algemene wet bestuursrecht, voorzover in de verordening niet anders is bepaald.  
 
 ### Artikel  150  
 
@@ -1374,7 +1374,7 @@ Provinciale staten maken de verordeningen die zij in het belang van de provincie
 6.  De getuigen en deskundigen worden in een openbare zitting van de onderzoekscommissie gehoord. Plaats en tijd van de openbare zitting worden door de voorzitter tijdig ter openbare kennis gebracht.   
 7.  De onderzoekscommissie kan om gewichtige redenen besluiten een verhoor of een gedeelte daarvan niet in het openbaar af te nemen. De leden en plaatsvervangende leden van de commissie bewaren geheimhouding over hetgeen hun tijdens een besloten zitting ter kennis komt.   
 8.  Een getuige is gerechtigd zich tijdens het verhoor te laten bijstaan. Om gewichtige redenen kan de commissie besluiten, dat een getuige zonder bijstand wordt gehoord.   
-9.  Verklaringen die zijn afgelegd voor de onderzoekscommissie kunnen, behalve in het geval van [artikel 207, eerste lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), niet als bewijs in rechte gelden.  
+9.  Verklaringen die zijn afgelegd voor de onderzoekscommissie kunnen, behalve in het geval van artikel 207, eerste lid, van het Wetboek van Strafrecht, niet als bewijs in rechte gelden.  
 
 ### Artikel  151d  
 
@@ -1486,7 +1486,7 @@ Een door provinciale staten te maken verordening regelt de behandeling door gede
 
 ### Artikel  169  
 
-1.  In aanvulling op [artikel 7:22 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gelden de volgende bepalingen met betrekking tot getuigen en deskundigen die worden gehoord tijdens de behandeling van de geschillen, bedoeld in artikel 168.    
+1.  In aanvulling op artikel 7:22 van de Algemene wet bestuursrecht gelden de volgende bepalingen met betrekking tot getuigen en deskundigen die worden gehoord tijdens de behandeling van de geschillen, bedoeld in artikel 168.    
 2.   Getuigen en deskundigen kunnen al dan niet op verzoek van belanghebbenden door gedeputeerde staten worden opgeroepen.    
 3.   De opgeroepenen zijn verplicht aan de oproeping gevolg te geven. De getuigen zijn verplicht getuigenis af te leggen, de deskundigen hun diensten als zodanig te verlenen, een en ander behoudens verschoning wegens ambts- of beroepsgeheim. De getuigen leggen de eed of de belofte af dat zij de gehele waarheid en niets dan de waarheid zullen spreken, de deskundigen dat zij verslag zullen doen naar hun geweten.    
 4.   Gedeputeerde staten kunnen bevelen dat getuigen of deskundigen die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichtingen te voldoen.    
@@ -1507,7 +1507,7 @@ Artikel 169 is eveneens van toepassing in die gevallen waarvoor het provinciebes
 
 ### Artikel  172  
 
-1.  De voorzitter van een kamer als bedoeld in artikel 171, tweede lid, en het lid van een enkelvoudige kamer kunnen, zonder toepassing van de [artikelen 7:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:18 tot en met 7:22 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), uitspraak doen, indien het verzoek om voorziening kennelijk niet-ontvankelijk is, dan wel indien de verdere behandeling van de zaak hen niet nodig voorkomt, omdat:  
+1.  De voorzitter van een kamer als bedoeld in artikel 171, tweede lid, en het lid van een enkelvoudige kamer kunnen, zonder toepassing van de artikelen 7:16 en 7:18 tot en met 7:22 van de Algemene wet bestuursrecht, uitspraak doen, indien het verzoek om voorziening kennelijk niet-ontvankelijk is, dan wel indien de verdere behandeling van de zaak hen niet nodig voorkomt, omdat:  
 
 a. het verzoek kennelijk ongegrond is;   
 
@@ -1599,11 +1599,11 @@ e. de bewaring en registratie van aan hem gerichte stukken, verband houdende met
 
 1.  De rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode: 
 
-openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen waaraan de provincie deelneemt, over de jaren dat de provincie deelneemt in de regeling;  
+a.openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen waaraan de provincie deelneemt, over de jaren dat de provincie deelneemt in de regeling;  
 
-naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
+b.naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
 
-andere privaatrechtelijke rechtspersonen waaraan de provincie of een derde voor rekening en risico van de provincie rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.     
+c.andere privaatrechtelijke rechtspersonen waaraan de provincie of een derde voor rekening en risico van de provincie rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.     
 2.  De rekenkamer is bevoegd bij de betrokken instelling nadere inlichtingen in te winnen over de jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige documenten met betrekking tot die instelling die bij het provinciebestuur berusten. Indien een of meer documenten ontbreken, kan de rekenkamer van de betrokken instelling de overlegging daarvan vorderen.   
 3.  Indien de documenten, bedoeld in het tweede lid, daartoe aanleiding geven, kan de rekenkamer bij de betrokken instelling dan wel bij de derde die de administratie in opdracht van de instelling voert, een onderzoek instellen. De rekenkamer stelt provinciale staten en gedeputeerde staten van haar voornemen een dergelijk onderzoek in te stellen in kennis.  
 
@@ -1636,11 +1636,11 @@ a. door gedeputeerde staten vast te stellen documenten ten behoeve van de uitvoe
 
 b. door gedeputeerde staten aan derden te verstrekken informatie op basis van de begroting en de jaarrekening en de controle van deze informatie.     
 3.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen nadere regels worden gesteld ten aanzien van het periodiek verstrekken van informatie voor derden. In overeenstemming met Onze Minister van Economische Zaken kan worden bepaald dat de informatie voor derden wordt gezonden aan het Centraal Bureau voor de Statistiek.   
-4.  De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de artikelen 195, tweede lid, en 204. [Artikel 17a, vierde lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is van overeenkomstige toepassing.   
+4.  De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de artikelen 195, tweede lid, en 204. Artikel 17a, vierde lid, van de Financiële-verhoudingswet is van overeenkomstige toepassing.   
 5.  Indien Onze Minister vaststelt dat de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, doet hij daarvan mededeling aan gedeputeerde staten.   
 6.  Gedeputeerde staten kunnen tot twee weken voor het verstrijken van de termijnen, bedoeld in het vierde lid, schriftelijk en met redenen omkleed, aan Onze Minister verzoeken om uitstel voor de toezending van de informatie, tot uiterlijk een in dat verzoek te noemen datum. Onze Minister beslist binnen twee weken op dat verzoek.   
 7.  Indien de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, geeft Onze Minister een aanwijzing aan gedeputeerde staten om binnen tien werkdagen alsnog informatie van voldoende kwaliteit te leveren.   
-8.  Indien gedeputeerde staten nalaten de aanwijzing, bedoeld in het zevende lid, op te volgen, kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën besluiten de betalingen op grond van [artikel 15, eerste lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de betreffende provincie geheel of gedeeltelijk op te schorten gedurende ten hoogste zesentwintig weken. [Artikel 17b, vierde, vijfde en zesde lid, van de Financiële-verhoudingswet](../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) is van overeenkomstige toepassing.  
+8.  Indien gedeputeerde staten nalaten de aanwijzing, bedoeld in het zevende lid, op te volgen, kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën besluiten de betalingen op grond van artikel 15, eerste lid, van de Financiële-verhoudingswet aan de betreffende provincie geheel of gedeeltelijk op te schorten gedurende ten hoogste zesentwintig weken. Artikel 17b, vierde, vijfde en zesde lid, van de Financiële-verhoudingswet is van overeenkomstige toepassing.  
 
 ### Artikel  191  
 
@@ -1751,7 +1751,7 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ### Artikel  211  
 
-1.  Indien op de dag waarop een besluit tot wijziging van de begroting aan Onze Minister wordt aangeboden, de begroting nog niet is goedgekeurd, vangt de in [artikel 10:31, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn aan op de dag van de goedkeuring van de begroting.    
+1.  Indien op de dag waarop een besluit tot wijziging van de begroting aan Onze Minister wordt aangeboden, de begroting nog niet is goedgekeurd, vangt de in artikel 10:31, eerste lid, van de Algemene wet bestuursrecht bedoelde termijn aan op de dag van de goedkeuring van de begroting.    
 2.   Onze Minister kan bij zijn besluit omtrent goedkeuring van de begroting ten aanzien van door hem aan te geven soorten van wijzigingen daarvan bepalen dat die zijn goedkeuring niet behoeven.   
 
 ### Artikel  212  
@@ -1795,7 +1795,7 @@ c. regels inzake de algemene doelstellingen en de te hanteren richtlijnen en lim
 ### Artikel  217  
 
 1.  Provinciale staten stellen bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.   
-2.  Provinciale staten wijzen een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), belast met de controle van de in artikel 201 bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.   
+2.  Provinciale staten wijzen een of meer accountants aan als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, belast met de controle van de in artikel 201 bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.   
 3.  De accountantsverklaring geeft op grond van de uitgevoerde controle aan of: 
 
 a. de jaarrekening een getrouw beeld geeft van zowel de baten en lasten als de grootte en de samenstelling van het vermogen;  
@@ -1815,12 +1815,12 @@ b. onrechtmatigheden in de jaarrekening.
 7.  Accountants als bedoeld in het tweede lid kunnen in provinciale dienst worden aangesteld en worden in dat geval door provinciale staten benoemd, geschorst en ontslagen.  
 8. Indien provinciale staten op grond van het tweede lid accountants heeft aangewezen die in provinciale dienst zijn aangesteld, is:
 
-a.het bepaalde bij en krachtens de [artikelen 25](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [25a](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [27 van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op deze accountants;
+a.het bepaalde bij en krachtens de artikelen 25, 25a en 27 van de Wet toezicht accountantsorganisaties van overeenkomstige toepassing op deze accountants;
 
-b.het bepaalde bij en krachtens de [artikelen 14](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [18](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [19](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [20](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [21 van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op de provincie; en
+b.het bepaalde bij en krachtens de artikelen 14, 18, 19, 20 en 21 van de Wet toezicht accountantsorganisaties van overeenkomstige toepassing op de provincie; en
 
-c.het bepaalde bij en krachtens de [artikelen 15](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [16 van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op de personen die de dagelijkse leiding hebben over het onderdeel van de provincie waarbij de in de aanhef bedoelde accountants werkzaam zijn. 
-9. Indien een provincie wordt aangewezen als organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), zijn de [artikelen 22 tot en met 24 van die wet](../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op deze provincie.
+c.het bepaalde bij en krachtens de artikelen 15 en 16 van de Wet toezicht accountantsorganisaties van overeenkomstige toepassing op de personen die de dagelijkse leiding hebben over het onderdeel van de provincie waarbij de in de aanhef bedoelde accountants werkzaam zijn. 
+9. Indien een provincie wordt aangewezen als organisatie van openbaar belang als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties, zijn de artikelen 22 tot en met 24 van die wet van overeenkomstige toepassing op deze provincie.
 
 ### Artikel  217a  
 
@@ -1863,22 +1863,22 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 ### Artikel  222  
 
-1.  Er kunnen provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting worden geheven van de in de provincie wonende of gevestigde houders van personenauto’s en motorrijwielen, bedoeld in [artikel 2, onderdelen b en d](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [artikel 3 van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en van degenen op wier naam een kenteken als bedoeld in [artikel 62 van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) is gesteld.   
+1.  Er kunnen provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting worden geheven van de in de provincie wonende of gevestigde houders van personenauto’s en motorrijwielen, bedoeld in artikel 2, onderdelen b en d, en artikel 3 van de Wet op de motorrijtuigenbelasting 1994 en van degenen op wier naam een kenteken als bedoeld in artikel 62 van die wet is gesteld.   
 2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 109,1.  
-3. Voor de berekening van het aan opcenten verschuldigde bedrag wordt uitgegaan van het tarief van de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) zoals dat geldt op 1 april 1995, met dien verstande dat:
+3. Voor de berekening van het aan opcenten verschuldigde bedrag wordt uitgegaan van het tarief van de Wet op de motorrijtuigenbelasting 1994 zoals dat geldt op 1 april 1995, met dien verstande dat:
 
 a.dit tarief voor motorrijwielen wordt vermenigvuldigd met het tarief zoals dat luidt op 1 april 2007 gedeeld door het tarief zoals dat luidde op 31 maart 2007;
 
-b. dit tarief voor motorrijtuigen, bedoeld in [artikel 30, eerste lid, onderdelen b, c en f](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [artikel 23a, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), wordt gedeeld door vier; 
+b. dit tarief voor motorrijtuigen, bedoeld in artikel 30, eerste lid, onderdelen b, c en f, en artikel 23a, eerste lid, van de Wet op de motorrijtuigenbelasting 1994, wordt gedeeld door vier; 
 
-c. dit tarief voor motorrijtuigen, bedoeld in [artikel 23a, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), wordt gedeeld door twee; en 
+c. dit tarief voor motorrijtuigen, bedoeld in artikel 23a, tweede lid, van de Wet op de motorrijtuigenbelasting 1994, wordt gedeeld door twee; en 
 
-d. dit tarief voor motorrijtuigen, bedoeld in [artikel 23b van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), nihil bedraagt; 
+d. dit tarief voor motorrijtuigen, bedoeld in artikel 23b van de Wet op de motorrijtuigenbelasting 1994, nihil bedraagt; 
 
-e.buiten beschouwing blijft de verhoging van de belasting, bedoeld in [artikel 23, tweede lid, van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);
+e.buiten beschouwing blijft de verhoging van de belasting, bedoeld in artikel 23, tweede lid, van die wet;
 
-f. indien de hoofdsom en de provinciale opcenten zonder toepassing van [artikel 84a, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), samen meer bedragen dan het maximum, bedoeld in dat artikel, wordt voor de berekening van de provinciale opcenten, het maximum verminderd met de hoofdsom, waarbij het aandeel van de hoofdsom ten hoogste het genoemde maximum kan bedragen.   
-4.  Vanaf 1 januari 2013 wordt bij het begin van het kalenderjaar het aantal opcenten, genoemd in het tweede lid, bij ministeriële regeling van Onze Minister van Financiën vervangen door een ander aantal. Dit aantal wordt berekend door het te vervangen aantal te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet op de inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst, indien deze twee of meer decimalen telt, af te ronden op één decimaal. Indien het aantal opcenten in het voorafgaande jaar is afgerond, wordt de tabelcorrectiefactor toegepast op het niet afgeronde bedrag van het voorgaande jaar.   
+f. indien de hoofdsom en de provinciale opcenten zonder toepassing van artikel 84a, tweede lid, van de Wet op de motorrijtuigenbelasting 1994, samen meer bedragen dan het maximum, bedoeld in dat artikel, wordt voor de berekening van de provinciale opcenten, het maximum verminderd met de hoofdsom, waarbij het aandeel van de hoofdsom ten hoogste het genoemde maximum kan bedragen.   
+4.  Vanaf 1 januari 2013 wordt bij het begin van het kalenderjaar het aantal opcenten, genoemd in het tweede lid, bij ministeriële regeling van Onze Minister van Financiën vervangen door een ander aantal. Dit aantal wordt berekend door het te vervangen aantal te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet op de inkomstenbelasting 2001, en de uitkomst, indien deze twee of meer decimalen telt, af te ronden op één decimaal. Indien het aantal opcenten in het voorafgaande jaar is afgerond, wordt de tabelcorrectiefactor toegepast op het niet afgeronde bedrag van het voorgaande jaar.   
 5.  Het aantal opcenten is voor alle motorrijtuigen, bedoeld in het eerste lid, gelijk.   
 6.  Onze Minister van Financiën verstrekt de provinciale besturen jaarlijks vóór 1 september een naar soort, gewichtsklasse en aantal gespecificeerd overzicht van de motorrijtuigen, bedoeld in het eerste lid. Het overzicht wordt opgesteld naar de toestand per 1 juli van het lopende jaar.  
 
@@ -1886,7 +1886,7 @@ f. indien de hoofdsom en de provinciale opcenten zonder toepassing van [artikel 
 
 1.  Besluiten tot het invoeren, wijzigen of afschaffen van provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting treden in werking met ingang van 1 januari van enig jaar. Een desbetreffend besluit wordt vóór 1 december van het voorafgaande jaar in afschrift ter kennis gebracht van Onze Minister van Financiën.   
 2.  Een in het eerste lid bedoeld besluit heeft geen gevolgen voor de opcenten die verschuldigd zijn over een tijdvak dat vóór de datum van inwerkingtreding van dat besluit is aangevangen.   
-3.  Bij naheffing van belasting worden opcenten berekend volgens het hoogste aantal dat in enige provincie van toepassing was op de dag waarop de in de [artikelen 33](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [34](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [35](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [36](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [69](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [76 van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) bedoelde feiten zijn geconstateerd.   
+3.  Bij naheffing van belasting worden opcenten berekend volgens het hoogste aantal dat in enige provincie van toepassing was op de dag waarop de in de artikelen 33, 34, 35, 36, 69 en 76 van de Wet op de motorrijtuigenbelasting 1994 bedoelde feiten zijn geconstateerd.   
 4.  De houders van motorrijtuigen die niet hier te lande wonen of gevestigd zijn, maar die wel aan de heffing van motorrijtuigenbelasting zijn onderworpen, worden voor de heffing van opcenten geacht te wonen of te zijn gevestigd in een provincie die het hoogste aantal opcenten heft. In bijzondere gevallen kan Onze Minister van Financiën in overeenstemming met Onze Minister ook voor andere houders van motorrijtuigen een provincie aanwijzen waar deze houders worden geacht te wonen of te zijn gevestigd.   
 5.  De opbrengsten van de opcenten die worden geheven volgens het derde en vierde lid, worden naar evenredigheid van het aandeel van een provincie in de totale opbrengst van de ten behoeve van de provincies geheven opcenten over alle provincies verdeeld.   
 6.  Verandering van woonplaats of van plaats van vestiging van de houder van een motorrijtuig in de loop van het tijdvak waarover de motorrijtuigenbelasting verschuldigd is, vormt geen aanleiding tot het heffen van opcenten over het nog niet verstreken gedeelte van het tijdvak door een andere provincie of tot het verlenen van teruggaaf van geheven opcenten.  
@@ -1915,7 +1915,7 @@ De rechten, bedoeld in artikel 223, eerste lid, kunnen worden geheven door de pr
 
 a. bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa;  
 
-b. de omzetbelasting die ingevolge de [Wet op het BTW-compensatiefonds](../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md) recht geeft op een bijdrage uit het fonds.    
+b. de omzetbelasting die ingevolge de Wet op het BTW-compensatiefonds recht geeft op een bijdrage uit het fonds.    
 
 ### Artikel  226  
 
@@ -1929,14 +1929,14 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, be
 
 In deze paragraaf wordt verstaan onder: 
 
-a. Algemene wet: [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+a. Algemene wet: Algemene wet inzake rijksbelastingen;  
 
 b. heffing op andere wijze: heffing op andere wijze dan bij wege van aanslag of bij wege van voldoening op aangifte.   
 
 ### Artikel  227a  
 
-1.  Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van provinciale belastingen, andere dan die bedoeld in artikel 222, met toepassing van de Algemene wet, de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als waren die belastingen rijksbelastingen.   
-2.  Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) genoemde functionarissen, met betrekking tot de provinciale belastingen voor de daarachter genoemde colleges of functionarissen: 
+1.  Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van provinciale belastingen, andere dan die bedoeld in artikel 222, met toepassing van de Algemene wet, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen als waren die belastingen rijksbelastingen.   
+2.  Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de Algemene wet, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen genoemde functionarissen, met betrekking tot de provinciale belastingen voor de daarachter genoemde colleges of functionarissen: 
 
 a. Onze Minister van Financiën, het bestuur van ’s Rijksbelastingen en de directeur: het college van gedeputeerde staten;   
 
@@ -1949,8 +1949,8 @@ d. de ambtenaren van de rijksbelastingdienst: de provincieambtenaren belast met 
 e. de belastingdeurwaarder: de daartoe aangewezen provincieambtenaar;  
 
 f.de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de provinciale staten.    
-3.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot provinciale belastingen in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college van gedeputeerde staten.   
-4. Met betrekking tot provinciale belastingen wordt in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: de provincie.
+3.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot provinciale belastingen in de Algemene wet en in de Invorderingswet 1990 voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college van gedeputeerde staten.   
+4. Met betrekking tot provinciale belastingen wordt in artikel 24 van de Invorderingswet 1990 voor «de Staat» gelezen: de provincie.
 
 ### Artikel  227b  
 
@@ -1983,7 +1983,7 @@ Provinciale belastingen kunnen worden geheven bij wege van aanslag, bij wege van
 ### Artikel  227d  
 
 1.  Indien de provinciale belastingen op andere wijze worden geheven, bepaalt de belastingverordening op welke wijze deze worden geheven en de wijze waarop de belastingschuld aan de belastingplichtige wordt bekendgemaakt. De belastingverordening kan daarnaast bepalen dat het college van gedeputeerde staten omtrent de uitvoering van een en ander nadere regels geeft.   
-2.  De op andere wijze geheven belastingen worden voor de toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder: 
+2.  De op andere wijze geheven belastingen worden voor de toepassing van de Algemene wet en de Invorderingswet 1990 aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder: 
 
 a. de aanslag, de voorlopige aanslag, de navorderingsaanslag: het gevorderde, onderscheidenlijk het voorlopig gevorderde, het nagevorderde bedrag;  
 
@@ -1993,12 +1993,12 @@ c. de dagtekening van het aanslagbiljet: de dagtekening van de schriftelijke ken
 
 ### Artikel  228  
 
-Bij de heffing van provinciale belastingen blijven de [artikelen 2, vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [3](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [37 tot en met 39](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [54](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [55](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [62](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [71](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [76](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80, tweede, derde en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [82](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [87](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [90 tot en met 95 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing. Bij de heffing van provinciale belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [6 tot en met 9](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [11, tweede lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [12](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van die wet buiten toepassing. 
+Bij de heffing van provinciale belastingen blijven de artikelen 2, vierde lid, 3, 37 tot en met 39, 47a, 48, 52, 53, 54, 55, 62, 71, 76, 80, tweede, derde en vierde lid, 82, 84, 86, 87 en 90 tot en met 95 van de Algemene wet buiten toepassing. Bij de heffing van provinciale belastingen die op andere wijze worden geheven, blijven bovendien de artikelen 5, 6 tot en met 9, 11, tweede lid, en 12 van die wet buiten toepassing. 
 
 ### Artikel  228a  
 
-1.  Het uitnodigen tot het doen van aangifte, bedoeld in [artikel 6 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geschiedt door het uitreiken van een aangiftebiljet.   
-2.  Het doen van aangifte, bedoeld in [artikel 8 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.   
+1.  Het uitnodigen tot het doen van aangifte, bedoeld in artikel 6 van de Algemene wet, geschiedt door het uitreiken van een aangiftebiljet.   
+2.  Het doen van aangifte, bedoeld in artikel 8 van de Algemene wet, geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.   
 3.  In afwijking in zoverre van de vorige leden kan de in artikel 227*a*, tweede lid, onderdeel *b*, bedoelde provincieambtenaar vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij: 
 
 a. worden de door de in artikel 227*a*, tweede lid, onderdeel *b*, bedoelde provincieambtenaar gevraagde bescheiden overgelegd;  
@@ -2009,8 +2009,8 @@ b. kan de in artikel 227*a*, tweede lid, onderdeel *b*, bedoelde provincieambten
 
 ### Artikel  228b  
 
-1.  Met betrekking tot de bij wege van aanslag geheven provinciale belastingen kan in de belastingverordening voor de in [artikel 9, eerste lid en derde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) genoemde termijn van ten minste een maand een kortere termijn in de plaats worden gesteld.   
-2.  Met betrekking tot de bij wege van voldoening op aangifte geheven provinciale belastingen kan in de belastingverordening voor de termijn van een maand, genoemd in artikel 10, tweede lid, en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), een kortere termijn in de plaats worden gesteld.   
+1.  Met betrekking tot de bij wege van aanslag geheven provinciale belastingen kan in de belastingverordening voor de in artikel 9, eerste lid en derde lid, van de Algemene wet genoemde termijn van ten minste een maand een kortere termijn in de plaats worden gesteld.   
+2.  Met betrekking tot de bij wege van voldoening op aangifte geheven provinciale belastingen kan in de belastingverordening voor de termijn van een maand, genoemd in artikel 10, tweede lid, en artikel 19, eerste, derde en vierde lid, van de Algemene wet, een kortere termijn in de plaats worden gesteld.   
 
 ### Artikel  228c  
 
@@ -2035,14 +2035,14 @@ Naast een in de belastingverordening voorziene vermindering, ontheffing of terug
 
 1.  Met betrekking tot de provinciale belastingen kunnen bij algemene maatregel van bestuur: 
 
-a. regels worden gesteld waarbij de [artikelen 48](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53, eerste en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [54](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [55 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede de [artikelen 59](../../../wet/invorderingswet/1990/BWBR0004770/README.md) of [62 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) geheel of gedeeltelijk van toepassing worden verklaard, dan wel  
+a. regels worden gesteld waarbij de artikelen 48, 52, 53, eerste en vierde lid, 54 of 55 van de Algemene wet, alsmede de artikelen 59 of 62 van de Invorderingswet 1990 geheel of gedeeltelijk van toepassing worden verklaard, dan wel  
 
 b. regels worden gesteld die overeenkomen met die in de in onderdeel *a* genoemde artikelen.     
 2.  De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede van de belasting ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.  
 
 ### Artikel  232  
 
-Bij de invordering van provinciale belastingen blijven de [artikelen 5](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [20](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [21](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [62](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [69 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing. Bij de invordering van provinciale belastingen die op andere wijze worden geheven, blijft bovendien [artikel 8, eerste lid, van die wet](../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing. 
+Bij de invordering van provinciale belastingen blijven de artikelen 5, 20, 21, 59, 62 en 69 van de Invorderingswet 1990 buiten toepassing. Bij de invordering van provinciale belastingen die op andere wijze worden geheven, blijft bovendien artikel 8, eerste lid, van die wet buiten toepassing. 
 
 ### Artikel  232a  
 
@@ -2051,7 +2051,7 @@ Bij de invordering van provinciale belastingen blijven de [artikelen 5](../../..
 
 ### Artikel 232aa 
 
-Met betrekking tot het doen van een vordering als bedoeld in [artikel 19, vierde lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) zijn de krachtens het tiende lid van dat artikel door Onze minister van Financiën gestelde regels van overeenkomstige toepassing.
+Met betrekking tot het doen van een vordering als bedoeld in artikel 19, vierde lid, van de Invorderingswet 1990 zijn de krachtens het tiende lid van dat artikel door Onze minister van Financiën gestelde regels van overeenkomstige toepassing.
 
 ### Artikel  232b  
 
@@ -2062,12 +2062,12 @@ De verrekening van aan de belastingschuldige uit te betalen en van hem te innen 
 1. Indien ter zake van hetzelfde voorwerp van de belasting of hetzelfde belastbare feit twee of meer personen belastingplichtig zijn, kan de belastingaanslag ten name van een van hen worden gesteld.
 2. Indien de belastingplicht, bedoeld in het eerste lid, voortvloeit uit het genot van een onroerende zaak krachtens eigendom, bezit of beperkt recht en de aanslag ten name van één van de belastingplichtigen is gesteld, kan de met de invordering van provinciale belastingen belaste provincieambtenaar de belastingaanslag op de gehele onroerende zaak verhalen ten name van degene te wiens name de aanslag is gesteld, zonder rekening te houden met de rechten van de overige belastingplichtigen.
 3. De belastingschuldige die de belastingaanslag heeft voldaan kan hetgeen hij meer heeft voldaan dan overeenkomt met zijn belastingplicht verhalen op de overige belastingplichtigen naar evenredigheid van ieders belastingplicht. 
-4. Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede beroep bij de rechtbank worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld. [Artikel 26a, derde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing.
+4. Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede beroep bij de rechtbank worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld. Artikel 26a, derde lid, van de Algemene wet is van overeenkomstige toepassing.
 5. Van het derde lid kan bij overeenkomst worden afgeweken.
 
 ### Artikel  232d  
 
-Voor de toepassing van [artikel 66 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) met betrekking tot provinciale belastingen blijven de [artikelen 76](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80, tweede, derde en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [82](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [87 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing.  
+Voor de toepassing van artikel 66 van de Invorderingswet 1990 met betrekking tot provinciale belastingen blijven de artikelen 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87 van de Algemene wet buiten toepassing.  
 
 ### Artikel  232e  
 
@@ -2109,13 +2109,13 @@ Vervallen per 01-01-1998
 ### Artikel  253  
 
 1.  Beslissingen van provinciebesturen kunnen slechts aan goedkeuring worden onderworpen in bij de wet bepaalde gevallen.    
-2.  Ten aanzien van de goedkeuring van andere beslissingen dan besluiten zijn artikel 259 alsmede [afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Ten aanzien van de goedkeuring van andere beslissingen dan besluiten zijn artikel 259 alsmede afdeling 10.2.1 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 
 ### Artikel  259  
 
 1.  Een beslissing die aan goedkeuring bij koninklijk besluit is onderworpen, wordt toegezonden aan Onze Minister wie het aangaat.    
 2.   Een voordracht tot onthouding van goedkeuring wordt gedaan door of mede door Onze Minister.    
-3.   [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.   
+3.   Artikel 27d van de Wet op de Raad van State is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  XVIII  
 
@@ -2124,7 +2124,7 @@ Vervallen per 01-01-1998
 ### Artikel  261  
 
 1.  Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het provinciebestuur kan bij koninklijk besluit worden vernietigd.    
-2.  Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de artikelen 266 tot en met 274a alsmede de [afdelingen 10.2.2.](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10.2.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de artikelen 266 tot en met 274a alsmede de afdelingen 10.2.2. en 10.2.3. van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 
 ### Artikel  266  
 
@@ -2147,7 +2147,7 @@ Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het
 ### Artikel  271  
 
 1.  De voordracht tot vernietiging wordt gedaan door of mede door Onze Minister.    
-2.  [ Artikel 17, derde lid, van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is niet van toepassing.   
+2.   Artikel 17, derde lid, van de Wet op de Raad van State is niet van toepassing.   
 
 ### Artikel  271a  
 
@@ -2168,7 +2168,7 @@ Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing o
 
 ### Artikel  274a  
 
-In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 261, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in artikel 83, tweede lid, beroep instellen.
+In afwijking van artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 261, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in artikel 83, tweede lid, beroep instellen.
 
 ### Titel  VI  
 

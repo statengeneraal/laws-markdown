@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Ministers van Onderwijs, Cultuur en Wetenschappen, Binnenlandse Zaken, Verkeer en Waterstaat, Justitie en de Staatssecretaris van Defensie van 12 juli 1996, Directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W2/96/0407, gedaan mede namens de Minister-President, Minister van Algemene Zaken en in overeenstemming met de Minister van Economische Zaken;
 
-Gelet op de artikelen 1, 2, 4, 5, 6, 10, 20, 23a, 24, 24a, 25, 26, 27, 28, 30, 31a, 35, 36, en 41 van de Arbeidsomstandighedenwet en de [artikelen 5 en 8 van de Winkeltijdenwet](../../../wet/winkeltijdenwet/BWBR0007952/README.md);
+Gelet op de artikelen 1, 2, 4, 5, 6, 10, 20, 23a, 24, 24a, 25, 26, 27, 28, 30, 31a, 35, 36, en 41 van de Arbeidsomstandighedenwet en de artikelen 5 en 8 van de Winkeltijdenwet;
 
 Gezien het advies van de Sociaal-Economische Raad van 9 februari 1995, nr. 95/31 I en II;
 
@@ -26,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 ####Definities algemeen
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Arbeidsomstandighedenwet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: Arbeidsomstandighedenwet.   
 2.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. bouwplaats: elke tijdelijke of mobiele arbeidsplaats waar civieltechnische werken of bouwwerken tot stand worden gebracht, waarvan een niet-uitputtende lijst is opgenomen in bijlage I bij de richtlijn, bedoeld in artikel 2.23, onder a;  
@@ -37,7 +37,7 @@ c. opdrachtgever:
 
 1°. voor de toepassing van hoofdstuk 2, afdeling 5, en artikel 9.6: degene voor wiens rekening een bouwwerk tot stand wordt gebracht;  
 
-2°. voor de toepassing van artikel 9.5: degene voor wiens rekening een zelfstandige of werkgever als bedoeld in [artikel 16, zevende lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), arbeid verricht;    
+2°. voor de toepassing van artikel 9.5: degene voor wiens rekening een zelfstandige of werkgever als bedoeld in artikel 16, zevende lid, onderdeel b, van de wet, arbeid verricht;    
 
 d. opdrachtgever-consument: de natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf, voor wiens rekening een bouwwerk tot stand wordt gebracht;  
 
@@ -66,7 +66,7 @@ d. ondergrondse winningsindustrie: elke industrie die:
 
 3°. delfstoffen gereed maakt voor de verkoop, met uitzondering van werkzaamheden in verband met de verwerking van deze delfstoffen, of  
 
-4°. stoffen opslaat als bedoeld in [artikel 1, onder i, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md).    
+4°. stoffen opslaat als bedoeld in artikel 1, onder i, van de Mijnbouwwet.    
 
 e. winningsindustrie die delfstoffen wint met behulp van boringen:elke industrie die: 
 
@@ -76,11 +76,11 @@ e. winningsindustrie die delfstoffen wint met behulp van boringen:elke industrie
 
 3°. delfstoffen gereed maakt voor de verkoop, met uitzondering van werkzaamheden in verband met de verwerking van deze delfstoffen;  
 
-4°. stoffen opslaat als bedoeld in [artikel 1, onder i, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), of  
+4°. stoffen opslaat als bedoeld in artikel 1, onder i, van de Mijnbouwwet, of  
 
-5°. aardwarmte opspoort of wint als bedoeld in [artikel 1, onder g en h, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md).    
+5°. aardwarmte opspoort of wint als bedoeld in artikel 1, onder g en h, van de Mijnbouwwet.    
 
-f. mijnbouwinstallatie: een installatie als bedoeld in [artikel 1, onder o, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md).      
+f. mijnbouwinstallatie: een installatie als bedoeld in artikel 1, onder o, van de Mijnbouwwet.      
 4.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. fysieke belasting: de door een werknemer in verband met de arbeid in te nemen werkhouding, uit te voeren bewegingen of uit te oefenen krachten, onder meer bestaande uit het tillen, neerzetten, duwen, trekken, dragen of op een andere wijze verplaatsen of ondersteunen van een of meer lasten;  
@@ -103,7 +103,7 @@ a. jeugdige werknemer: een werknemer jonger dan 18 jaar;
 b. zwangere werknemer: de werknemer die zwanger is en de werkgever hiervan in kennis heeft gesteld;  
 
 c. werknemer tijdens de lactatie: de werknemer die haar kind borstvoeding geeft en haar werkgever hiervan in kennis heeft gesteld.     
-6.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder certificerende instelling: een door Onze Minister krachtens [artikel 20, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) aangewezen instelling die beslist over de afgifte van een certificaat als bedoeld in [artikel 20, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  
+6.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder certificerende instelling: een door Onze Minister krachtens artikel 20, tweede lid, van de wet aangewezen instelling die beslist over de afgifte van een certificaat als bedoeld in artikel 20, eerste lid, van de wet.  
 
 ### Artikel  1.2  
 
@@ -111,9 +111,9 @@ c. werknemer tijdens de lactatie: de werknemer die haar kind borstvoeding geeft 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *scheepsbeheerder:* scheepsbeheerder als bedoeld in [artikel 1, onderdeel l, van de Wet zeevarenden](../../../wet/wet/zeevarenden/BWBR0009124/README.md);  
+a.  *scheepsbeheerder:* scheepsbeheerder als bedoeld in artikel 1, onderdeel l, van de Wet zeevarenden;  
 
-b.  *zeevarende:* zeevarende als bedoeld in [artikel 1, onderdeel z, van de Wet zeevarenden](../../../wet/wet/zeevarenden/BWBR0009124/README.md).   
+b.  *zeevarende:* zeevarende als bedoeld in artikel 1, onderdeel z, van de Wet zeevarenden.   
 
 ### Artikel  1.3  
 
@@ -122,33 +122,33 @@ b.  *zeevarende:* zeevarende als bedoeld in [artikel 1, onderdeel z, van de Wet 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder onderwijsinrichting: een bekostigde of een aangewezen onderwijsinrichting.   
 2.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder bekostigde onderwijsinrichting: 
 
-a. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de [Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md);  
+a. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de Wet op het primair onderwijs;  
 
-b. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de [Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md);  
+b. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de Wet op de expertisecentra;  
 
-c. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school, cursus of inrichting als bedoeld in en onder de werking van de [Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school, cursus of inrichting als bedoeld in en onder de werking van de Wet op het voortgezet onderwijs;  
 
-d. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere instelling, genoemd in de bijlage behorende bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onder *a* en *b*;  
+d. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere instelling, genoemd in de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek, onder *a* en *b*;  
 
-e. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere instelling, genoemd in de bijlage behorende bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onder *c* tot en met *g*;  
+e. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere instelling, genoemd in de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek, onder *c* tot en met *g*;  
 
-f. de Open Universiteit te Heerlen, genoemd in de bijlage behorende bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onder *h*;  
+f. de Open Universiteit te Heerlen, genoemd in de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek, onder *h*;  
 
-g. een school als bedoeld in de [Experimentenwet onderwijs](../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md);  
+g. een school als bedoeld in de Experimentenwet onderwijs;  
 
-h. een openbare of een geheel of gedeeltelijk uit openbare kas bekostigde bijzondere instelling voor educatie en beroepsonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+h. een openbare of een geheel of gedeeltelijk uit openbare kas bekostigde bijzondere instelling voor educatie en beroepsonderwijs als bedoeld in de Wet educatie en beroepsonderwijs.     
 3.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder aangewezen onderwijsinrichting: 
 
-a. een school als bedoeld in [artikel 56 van de Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+a. een school als bedoeld in artikel 56 van de Wet op het voortgezet onderwijs;  
 
-b. een instelling als bedoeld in [artikel 6.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. een instelling als bedoeld in artikel 6.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-c. een instelling als bedoeld in [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+c. een instelling als bedoeld in artikel 1.4.1 van de Wet educatie en beroepsonderwijs.     
 4.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder medezeggenschapsraad: 
 
-a. een medezeggenschapsraad als bedoeld in de [Wet medezeggenschap onderwijs 1992](../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) of in [artikel 10.17 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. een medezeggenschapsraad als bedoeld in de Wet medezeggenschap onderwijs 1992 of in artikel 10.17 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-b. de studentenraad van de Open Universiteit, bedoeld in [artikel 11.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+b. de studentenraad van de Open Universiteit, bedoeld in artikel 11.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.    
 
 ### Artikel  1.4  
 
@@ -164,7 +164,7 @@ a. justitieel personeel:
 
 b. gedetineerden, verpleegden en jeugdigen: degenen, die krachtens rechterlijke uitspraak of beschikking of door het openbaar gezag rechtens van hun vrijheid zijn beroofd en verblijven in een justitiële inrichting met uitzondering van de in het Militair Penitentiair Centrum Stroe gedetineerde militairen;  
 
-c. justitiële inrichting: een gevangenis of huis van bewaring als bedoeld in de Penitentiaire beginselenwet, een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in de [Beginselenwet verpleging ter beschikking gestelden](../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) of een inrichting als bedoeld in de [Beginselenwet justitiële jeugdinrichtingen](../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).      
+c. justitiële inrichting: een gevangenis of huis van bewaring als bedoeld in de Penitentiaire beginselenwet, een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in de Beginselenwet verpleging ter beschikking gestelden of een inrichting als bedoeld in de Beginselenwet justitiële jeugdinrichtingen.      
 2.  Onder justitiële inrichting wordt mede verstaan: het vervoer van gedetineerden, verpleegden en jeugdigen van en naar de justitiële inrichting alsmede alle andere arbeid die justitieel personeel verricht met gedetineerden, verpleegden en jeugdigen buiten de justitiële inrichting.   
 
 ### Artikel  1.5  
@@ -175,9 +175,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. militair personeel: 
 
-1°. de in werkelijke dienst zijnde militaire ambtenaren in de zin van [artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);  
+1°. de in werkelijke dienst zijnde militaire ambtenaren in de zin van artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931;  
 
-2°. de in werkelijke dienst zijnde dienstplichtigen in de zin van de [artikelen 18](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md), [19](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) en [21 van de Kaderwet dienstplicht](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md);    
+2°. de in werkelijke dienst zijnde dienstplichtigen in de zin van de artikelen 18, 19 en 21 van de Kaderwet dienstplicht;    
 
 b. burgerpersoneel bij het Ministerie van Defensie: 
 
@@ -249,7 +249,7 @@ b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanv
 2.  De aanvraag wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een aanwijzing kan worden geschorst, ten nadele van de certificerende instelling worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met beperkingen of voorschriften, bedoeld in [artikel 20, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met beperkingen of voorschriften, bedoeld in artikel 20, vierde lid, van de wet, zou hebben gegeven;  
 
 b. op grond van door de certificerende instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;  
 
@@ -290,7 +290,7 @@ b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij i
 
 ####Verzoek tot afgifte van een certificaat
 
-1.  Een certificaat als bedoeld in [artikel 20, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), wordt door Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, op verzoek afgegeven indien is voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.   
+1.  Een certificaat als bedoeld in artikel 20, eerste lid, van de wet, wordt door Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, op verzoek afgegeven indien is voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.   
 2.  Bij ministeriële regeling kunnen, zonodig uitgesplitst naar werkveld, nadere regels worden gesteld met betrekking tot het doen van een verzoek als bedoeld in het eerste lid, en de behandeling ervan.   
 3.  De kosten van het afgeven van een certificaat zijn voor rekening van de verzoeker tot afgifte van het certificaat. 
 
@@ -306,7 +306,7 @@ b. ten hoogste twaalf maanden voorafgaand aan de datum van het verzoek tot afgif
 2.  Het verzoek wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een certificaat kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, bij de afgifte van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met beperkingen of voorschriften, bedoeld in [artikel 20, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, deze instelling, bij de afgifte van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met beperkingen of voorschriften, bedoeld in artikel 20, vierde lid, van de wet, zou hebben gegeven;  
 
 b. op grond van door de certificaathouder verstrekte onjuiste inlichtingen over feiten en omstandigheden, mits de onjuistheid daarvan aan de certificaathouder bekend was of kon zijn;  
 
@@ -318,7 +318,7 @@ d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het c
 
 ####Buitenlandse getuigschriften en kwalificaties van vakbekwaamheid
 
-Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, de certificerende instelling, verstrekt op aanvraag een certificaat van vakbekwaamheid aan een persoon die onderdaan is van een betrokken staat als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), indien op grond van [artikel 6 van die wet](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een krachtens dit besluit verstrekt certificaat van vakbekwaamheid. De artikelen 1.5f en 1.5g zijn van overeenkomstige toepassing. 
+Onze Minister of, indien Onze Minister een certificerende instelling heeft aangewezen, de certificerende instelling, verstrekt op aanvraag een certificaat van vakbekwaamheid aan een persoon die onderdaan is van een betrokken staat als bedoeld in artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties, indien op grond van artikel 6 van die wet is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een krachtens dit besluit verstrekt certificaat van vakbekwaamheid. De artikelen 1.5f en 1.5g zijn van overeenkomstige toepassing. 
 
 ### Artikel  1.5ha  
 
@@ -350,16 +350,16 @@ c. in verband met de veiligheid en gezondheid van werknemers en andere personen,
 
 ####Definities samenwerking en overleg
 
-1. In afwijking van de [wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), dit besluit en de daarop berustende bepalingen wordt voor de toepassing daarvan ten aanzien van arbeid verricht in bekostigde onderwijsinrichtingen als bedoeld in artikel 1.3, tweede lid, onder d en f, voor zover de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) niet van toepassing is, voor «de ondernemingsraad» en de «personeelsvertegenwoordiging» gelezen «de universiteitsraad», «de dienstraad» of de «medezeggenschapsraad», en wordt ten aanzien van arbeid verricht door defensiepersoneel, voor zover de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) niet van toepassing is, voor «de ondernemingsraad» en de «personeelvertegenwoordiging» gelezen «de medezeggenschapscommissie» of «het overlegorgaan». 
+1. In afwijking van de wet, dit besluit en de daarop berustende bepalingen wordt voor de toepassing daarvan ten aanzien van arbeid verricht in bekostigde onderwijsinrichtingen als bedoeld in artikel 1.3, tweede lid, onder d en f, voor zover de Wet op de ondernemingsraden niet van toepassing is, voor «de ondernemingsraad» en de «personeelsvertegenwoordiging» gelezen «de universiteitsraad», «de dienstraad» of de «medezeggenschapsraad», en wordt ten aanzien van arbeid verricht door defensiepersoneel, voor zover de Wet op de ondernemingsraden niet van toepassing is, voor «de ondernemingsraad» en de «personeelvertegenwoordiging» gelezen «de medezeggenschapscommissie» of «het overlegorgaan». 
 2. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-a.universiteitsraad: een universiteitsraad als bedoeld in [artikel 9.31 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+a.universiteitsraad: een universiteitsraad als bedoeld in artikel 9.31 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 
-b.dienstraad: een dienstraad als bedoeld in [artikel 9.50 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+b.dienstraad: een dienstraad als bedoeld in artikel 9.50 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 
-c.medezeggenschapscommissie: een medezeggenschapscommissie als bedoeld in [artikel 3 van het Besluit medezeggenschap defensie](../../../AMvB/besluit/medezeggenschap/defensie/BWBR0010617/README.md);
+c.medezeggenschapscommissie: een medezeggenschapscommissie als bedoeld in artikel 3 van het Besluit medezeggenschap defensie;
 
-d.overlegorgaan: een overlegorgaan ingesteld krachtens [artikel 23 van de Kaderwet dienstplicht](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md). 
+d.overlegorgaan: een overlegorgaan ingesteld krachtens artikel 23 van de Kaderwet dienstplicht. 
 
 ### Artikel  1.7  
 
@@ -367,23 +367,23 @@ d.overlegorgaan: een overlegorgaan ingesteld krachtens [artikel 23 van de Kaderw
 
 1. Ten aanzien van de aard en inhoud van het overleg en de wijze waarop het overleg wordt gevoerd met een universiteitsraad, een dienstraad of een medezeggenschapsraad respectievelijk een medezeggenschapscommissie of een overlegorgaan en ten aanzien van de bevoegdheden van een universiteitsraad, een dienstraad of een medezeggenschapsraad respectievelijk een medezeggenschapscommissie of een overlegorgaan is van toepassing:
 
-a.de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of
+a.de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of
 
-b.het [Besluit medezeggenschap defensie](../../../AMvB/besluit/medezeggenschap/defensie/BWBR0010617/README.md) of de krachtens [artikel 23 van de Kaderwet dienstplicht](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) door Onze Minister van Defensie te stellen regels. 
-2. Voor zover de [wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) bepalingen bevat omtrent rechten van de ondernemingsraad of de personeelsvertegenwoordiging of leden daarvan waaromtrent de regelingen, bedoeld in het eerste lid, geen bepalingen bevatten, is de wet van toepassing. 
+b.het Besluit medezeggenschap defensie of de krachtens artikel 23 van de Kaderwet dienstplicht door Onze Minister van Defensie te stellen regels. 
+2. Voor zover de wet bepalingen bevat omtrent rechten van de ondernemingsraad of de personeelsvertegenwoordiging of leden daarvan waaromtrent de regelingen, bedoeld in het eerste lid, geen bepalingen bevatten, is de wet van toepassing. 
 
 ### Artikel  1.8  
 
 ####Ontslagbescherming
 
-1. Ten aanzien van degene op wie het Algemeen Rijksambtenarenreglement onderscheidenlijk het Burgerlijk ambtenarenreglement defensie van toepassing is en die als deskundige werknemer als bedoeld in [artikel 13, eerste lid en tweede lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), of als deskundige persoon als bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) werkzaam is, is [artikel 95, zevende lid, van het Algemeen Rijksambtenarenreglement](../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) onderscheidenlijk [artikel 115, zesde lid, van het Burgerlijk ambtenarenreglement defensie](../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) van overeenkomstige toepassing. 
-2. Ten aanzien van degenen, bedoeld in het eerste lid, op wie een overeenkomstige regeling als het [Algemeen Rijksambtenarenreglement](../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) van toepassing is, is voor zover nodig het eerste lid van overeenkomstige toepassing. 
+1. Ten aanzien van degene op wie het Algemeen Rijksambtenarenreglement onderscheidenlijk het Burgerlijk ambtenarenreglement defensie van toepassing is en die als deskundige werknemer als bedoeld in artikel 13, eerste lid en tweede lid, of als deskundige persoon als bedoeld in artikel 14, eerste lid, van de wet werkzaam is, is artikel 95, zevende lid, van het Algemeen Rijksambtenarenreglement onderscheidenlijk artikel 115, zesde lid, van het Burgerlijk ambtenarenreglement defensie van overeenkomstige toepassing. 
+2. Ten aanzien van degenen, bedoeld in het eerste lid, op wie een overeenkomstige regeling als het Algemeen Rijksambtenarenreglement van toepassing is, is voor zover nodig het eerste lid van overeenkomstige toepassing. 
 
 ### Artikel  1.9  
 
 ####Benadelingsbescherming
 
-In afwijking van [artikel 13, vijfde lid, tweede en derde zin, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is ten aanzien van degene op wie de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van toepassing is en die als deskundige werknemer als bedoeld in [artikel 13, eerste lid en tweede lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), of als deskundige persoon als bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) werkzaam is, [artikel 9.32, achtste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van overeenkomstige toepassing. Ten aanzien van degene op wie het [Algemeen militair ambtenarenreglement](../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) of het [Burgerlijk ambtenarenreglement defensie](../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) van toepassing is en die als deskundige werknemer of persoon als bedoeld in de vorige zin werkzaam is, is [artikel 20 van het Besluit medezeggenschap defensie](../../../AMvB/besluit/medezeggenschap/defensie/BWBR0010617/README.md) van overeenkomstige toepassing. 
+In afwijking van artikel 13, vijfde lid, tweede en derde zin, van de wet is ten aanzien van degene op wie de Wet op het hoger onderwijs en wetenschappelijk onderzoek van toepassing is en die als deskundige werknemer als bedoeld in artikel 13, eerste lid en tweede lid, of als deskundige persoon als bedoeld in artikel 14, eerste lid, van de wet werkzaam is, artikel 9.32, achtste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek van overeenkomstige toepassing. Ten aanzien van degene op wie het Algemeen militair ambtenarenreglement of het Burgerlijk ambtenarenreglement defensie van toepassing is en die als deskundige werknemer of persoon als bedoeld in de vorige zin werkzaam is, is artikel 20 van het Besluit medezeggenschap defensie van overeenkomstige toepassing. 
 
 ### Afdeling  3  
 
@@ -393,28 +393,28 @@ In afwijking van [artikel 13, vijfde lid, tweede en derde zin, van de wet](../..
 
 ####Toepasselijkheid
 
-Tenzij hierna anders is bepaald, zijn de [wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en dit besluit van toepassing op werknemers in onderwijsinrichtingen en op overeenkomstige wijze van toepassing op leerlingen en studenten in onderwijsinrichtingen die handelingen verrichten die vergelijkbaar zijn met arbeid in de beroepspraktijk. 
+Tenzij hierna anders is bepaald, zijn de wet en dit besluit van toepassing op werknemers in onderwijsinrichtingen en op overeenkomstige wijze van toepassing op leerlingen en studenten in onderwijsinrichtingen die handelingen verrichten die vergelijkbaar zijn met arbeid in de beroepspraktijk. 
 
 ### Artikel  1.11  
 
 ####Samenwerking en overleg; onderwijsinrichtingen met een medezeggenschapsraad
 
-1.  Voor bekostigde onderwijsinrichtingen als bedoeld in artikel 1.3, tweede lid, onder a tot en met c, en onder g en h, komen de rechten, bedoeld in [artikel 12, vierde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), voor zover van toepassing, toe aan de leden van de medezeggenschapsraad.   
-2.  Voor de in het eerste lid genoemde bekostigde onderwijsinrichtingen treedt voor de toepassing van [artikel 12, vijfde en zesde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) de medezeggenschapsraad in de plaats van de ondernemingsraad of de personeelsvertegenwoordiging.   
+1.  Voor bekostigde onderwijsinrichtingen als bedoeld in artikel 1.3, tweede lid, onder a tot en met c, en onder g en h, komen de rechten, bedoeld in artikel 12, vierde lid, van de wet, voor zover van toepassing, toe aan de leden van de medezeggenschapsraad.   
+2.  Voor de in het eerste lid genoemde bekostigde onderwijsinrichtingen treedt voor de toepassing van artikel 12, vijfde en zesde lid, van de wet de medezeggenschapsraad in de plaats van de ondernemingsraad of de personeelsvertegenwoordiging.   
 3.  Voor de in het eerste lid genoemde bekostigde onderwijsinrichtingen worden de in de wet en dit besluit toekomende rechten en bevoegdheden met inachtneming van artikel 1.13, uitgeoefend door de leden van de medezeggenschapsraad of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling.  
 
 ### Artikel  1.12  
 
 ####Samenwerking en overleg; universiteiten en hogescholen
 
-Voor de in artikel 1.3, tweede lid, onder d tot en met f, genoemde bekostigde onderwijsinrichting worden de in de wet en dit besluit toekomende rechten en bevoegdheden, met inachtneming van artikel 1.13, uitgeoefend door de universiteitsraad, de dienstraad, de medezeggenschapsraad of de studentenraad, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling. 
+Voor de in artikel 1.3, tweede lid, onder d tot en met f, genoemde bekostigde onderwijsinrichting worden de in de wet en dit besluit toekomende rechten en bevoegdheden, met inachtneming van artikel 1.13, uitgeoefend door de universiteitsraad, de dienstraad, de medezeggenschapsraad of de studentenraad, bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling. 
 
 ### Artikel  1.13  
 
 ####Uitzonderingen arbobeleid en horen
 
-1.   [Artikel 3, eerste lid, onder c, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) met uitzondering van de ergomische aspecten van de arbeid, en d, voor zover niet betrekking hebbend op de veiligheid en de gezondheid, is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen.   
-2.   [Afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geldt niet ten aanzien van leerlingen respectievelijk studenten in onderwijsinrichtingen.  
+1.   Artikel 3, eerste lid, onder c, van de wet met uitzondering van de ergomische aspecten van de arbeid, en d, voor zover niet betrekking hebbend op de veiligheid en de gezondheid, is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen.   
+2.   Afdeling 4.1.2 van de Algemene wet bestuursrecht geldt niet ten aanzien van leerlingen respectievelijk studenten in onderwijsinrichtingen.  
 
 ### Artikel  1.14  
 
@@ -426,7 +426,7 @@ Waar in de wet bepaalde verplichtingen worden opgelegd aan werknemers, zijn deze
 
 #### Uitzondering arbeidsgezondheidskundig onderzoek
 
-[Artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen. 
+Artikel 18 van de wet is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen. 
 
 ### Afdeling  4  
 
@@ -448,13 +448,13 @@ c. verricht door burgerpersoneel, werkzaam bij het Ministerie van Defensie, met 
 
 ####Politie en brandweer
 
-Op arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van de taken, bedoeld in [artikel 3 van de Politiewet 2012](../../../wet/politiewet/2012/BWBR0031788/README.md), [artikel 141](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [142 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 3, eerste lid, van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) voor zover deze taak betrekking heeft op het repressief optreden bij brand, ongevallen en rampen, zijn de [artikelen 10](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28a](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd. 
+Op arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van de taken, bedoeld in artikel 3 van de Politiewet 2012, artikel 141 of 142 van het Wetboek van Strafvordering, of artikel 3, eerste lid, van de Wet veiligheidsregio’s voor zover deze taak betrekking heeft op het repressief optreden bij brand, ongevallen en rampen, zijn de artikelen 10, 27, 28, 28a en 29 van de wet van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd. 
 
 ### Artikel  1.18  
 
 ####Veiligheid van de staat
 
-1.  Ten aanzien van arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van taken, bedoeld in [artikel 6, tweede lid, onder a, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), zijn de [artikelen 27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28a](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd.   
+1.  Ten aanzien van arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het daadwerkelijk uitoefenen van taken, bedoeld in artikel 6, tweede lid, onder a, van de Wet op de inlichtingen- en veiligheidsdiensten 2002, zijn de artikelen 27, 28, 28a en 29 van de wet van toepassing voor zover door de toepassing van deze artikelen een goede taakuitoefening niet wordt belemmerd.   
 2.  Op arbeid verricht in rijksdienst geschiedt de toepassing van de wet met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens, waarvan de geheimhouding door het belang van de staat of van zijn bondgenoten wordt geboden.   
 3.  Op arbeid verricht in de burgerlijke openbare dienst door of ten behoeve van de inlichtingen- en veiligheidsdiensten geschiedt de toepassing van de wet bovendien met inachtneming van de aan de hoofden van deze diensten opgedragen zorg voor geheimhouding van de door hen verkregen gegevens en van de bronnen waaruit zij afkomstig zijn en voor het naar behoren waarborgen van de veiligheid van de personen van wier diensten bij het inwinnen van gegevens gebruik wordt gemaakt.  
 
@@ -466,22 +466,22 @@ Op arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het da
 
 ####Toepasselijkheid
 
-1.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een zeeschip dat niet op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren en dat zich bevindt in de exclusieve economische zone, in de territoriale zee, op een van de in [artikel 10, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) bedoelde scheepvaartwegen, op de Westerschelde, haar mondingen of op het in Nederland gelegen gedeelte van het Kanaal van Gent naar Terneuzen, of in de haven van Scheveningen.   
+1.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een zeeschip dat niet op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren en dat zich bevindt in de exclusieve economische zone, in de territoriale zee, op een van de in artikel 10, eerste lid, van de Scheepvaartverkeerswet bedoelde scheepvaartwegen, op de Westerschelde, haar mondingen of op het in Nederland gelegen gedeelte van het Kanaal van Gent naar Terneuzen, of in de haven van Scheveningen.   
 2.  Het eerste lid geldt niet ten aanzien van aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan de in het eerste lid bedoelde schepen die zich in Nederland bevinden alsmede ten aanzien van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een zeeschip als bedoeld in het eerste lid.   
-3.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een luchtvaartuig als bedoeld in [artikel 1.1, eerste lid, van de Wet Luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md), dat ter beschikking is gesteld aan een niet in Nederland gevestigde werkgever, tenzij: 
+3.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een luchtvaartuig als bedoeld in artikel 1.1, eerste lid, van de Wet Luchtvaart, dat ter beschikking is gesteld aan een niet in Nederland gevestigde werkgever, tenzij: 
 
 a. deze werkgever daarin of daarop door in meerderheid in Nederland woonachtige werknemers arbeid doet verrichten;  
 
 b. het betreft laden en lossen, aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan bedoelde luchtvaartuigen die zich in Nederland bevinden.     
-4.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een luchtvaartuig als bedoeld in [artikel 1, aanhef en onder f, van de Luchtvaartwet](../../../wet/luchtvaartwet/BWBR0002267/README.md).   
+4.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een luchtvaartuig als bedoeld in artikel 1, aanhef en onder f, van de Luchtvaartwet.   
 5.  Het vierde lid geldt niet ten aanzien van laden en lossen, aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan de in het vierde lid bedoelde luchtvaartuigen die zich in Nederland bevinden.  
 
 ### Artikel  1.20  
 
 ####Beperking recht op werkonderbreking
 
-1.  Op arbeid verricht in respectievelijk op een zeeschip of een luchtvaartuig is [artikel 29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) niet van toepassing, voor zover de toepassing van [dat artikel](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) in strijd komt met de verplichtingen die voortvloeien uit de uitoefening van de bevoegdheden van de kapitein respectievelijk de gezagvoerder, bedoeld in [artikel 341 van het Wetboek van Koophandel](../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) respectievelijk het [Besluit vluchtuitvoering](../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) dan wel een bij regeling van Onze Minister van Infrastructuur en Milieu aangewezen EG-verordening voor de luchtvaart.   
-2.  Op arbeid verricht door de kapitein respectievelijk de gezagvoerder, bedoeld in het eerste lid, in respectievelijk op een zeeschip of een luchtvaartuig, is [artikel 29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) niet van toepassing voor zover de toepassing van [dat artikel](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) in strijd komt met de verplichtingen die voortvloeien uit het [Wetboek van Koophandel](../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) respectievelijk het [Besluit vluchtuitvoering](../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) dan wel een bij regeling van Onze Minister van Infrastructuur en Milieu aangewezen EG-verordening voor de luchtvaart.  
+1.  Op arbeid verricht in respectievelijk op een zeeschip of een luchtvaartuig is artikel 29 van de wet niet van toepassing, voor zover de toepassing van dat artikel in strijd komt met de verplichtingen die voortvloeien uit de uitoefening van de bevoegdheden van de kapitein respectievelijk de gezagvoerder, bedoeld in artikel 341 van het Wetboek van Koophandel respectievelijk het Besluit vluchtuitvoering dan wel een bij regeling van Onze Minister van Infrastructuur en Milieu aangewezen EG-verordening voor de luchtvaart.   
+2.  Op arbeid verricht door de kapitein respectievelijk de gezagvoerder, bedoeld in het eerste lid, in respectievelijk op een zeeschip of een luchtvaartuig, is artikel 29 van de wet niet van toepassing voor zover de toepassing van dat artikel in strijd komt met de verplichtingen die voortvloeien uit het Wetboek van Koophandel respectievelijk het Besluit vluchtuitvoering dan wel een bij regeling van Onze Minister van Infrastructuur en Milieu aangewezen EG-verordening voor de luchtvaart.  
 
 ### Afdeling  6  
 
@@ -491,8 +491,8 @@ b. het betreft laden en lossen, aanbouw, verbouwing, herstelling of sloping dan 
 
 ####Veiligheid in justitiële inrichtingen
 
-1.  De [artikelen 10](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28a](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn van toepassing op de in de justitiële inrichting door het justitieel personeel verrichte arbeid voor zover geen inbreuk wordt gemaakt op de orde, de veiligheid of de goede gang van zaken in de inrichting of op het ongestoord verloop van de tenuitvoerlegging van de vrijheidsbeneming en andere beperkingen die krachtens enige wettelijke bepaling door de daartoe bevoegde autoriteiten zijn opgelegd.   
-2.  Het eerste lid is van overeenkomstige toepassing op gedetineerden, verpleegden en jeugdigen met dien verstande, dat in plaats van de [artikelen 10](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) wordt gelezen de [artikelen 24, zevende lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28a](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  
+1.  De artikelen 10, 27, 28, 28a en 29 van de wet zijn van toepassing op de in de justitiële inrichting door het justitieel personeel verrichte arbeid voor zover geen inbreuk wordt gemaakt op de orde, de veiligheid of de goede gang van zaken in de inrichting of op het ongestoord verloop van de tenuitvoerlegging van de vrijheidsbeneming en andere beperkingen die krachtens enige wettelijke bepaling door de daartoe bevoegde autoriteiten zijn opgelegd.   
+2.  Het eerste lid is van overeenkomstige toepassing op gedetineerden, verpleegden en jeugdigen met dien verstande, dat in plaats van de artikelen 10, 27, 28 en 29 van de wet wordt gelezen de artikelen 24, zevende lid, 27, 28, 28a en 29 van de wet.  
 
 ### Artikel  1.23  
 
@@ -504,13 +504,13 @@ Ten aanzien van arbeid verricht door het justitieel personeel in de justitiële 
 
 ####Kennisneming risico-inventarisatie en -evaluatie
 
-In afwijking van [artikel 5, zesde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) kan een gedetineerde, verpleegde of jeugdige kennisnemen van de risico-inventarisatie en -evaluatie, voor zover de orde of de veiligheid in de justitiële inrichting daardoor niet in gevaar wordt gebracht. 
+In afwijking van artikel 5, zesde lid, van de wet kan een gedetineerde, verpleegde of jeugdige kennisnemen van de risico-inventarisatie en -evaluatie, voor zover de orde of de veiligheid in de justitiële inrichting daardoor niet in gevaar wordt gebracht. 
 
 ### Artikel  1.25  
 
 ####Samenwerking
 
-In afwijking van [artikel 12, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) werken de directeur van de inrichting en de gedetineerden, verpleegden of jeugdigen zoveel mogelijk samen bij de uitvoering van het arbeidsomstandighedenbeleid van gedetineerden, verpleegden en jeugdigen binnen de justitiële inrichting. 
+In afwijking van artikel 12, eerste lid, van de wet werken de directeur van de inrichting en de gedetineerden, verpleegden of jeugdigen zoveel mogelijk samen bij de uitvoering van het arbeidsomstandighedenbeleid van gedetineerden, verpleegden en jeugdigen binnen de justitiële inrichting. 
 
 ### Afdeling  7  
 
@@ -541,15 +541,15 @@ De toepassing van de wet met betrekking tot arbeid verricht door defensiepersone
 
 De wet is niet van toepassing op arbeid verricht door defensiepersoneel: 
 
-a. ten tijde van oorlog, oorlogsgevaar of andere daaraan verwante of daarmee verband houdende buitengewone omstandigheden, waaronder begrepen de gevallen als opgesomd in [artikel 71 van het Wetboek van Militair Strafrecht](../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md);  
+a. ten tijde van oorlog, oorlogsgevaar of andere daaraan verwante of daarmee verband houdende buitengewone omstandigheden, waaronder begrepen de gevallen als opgesomd in artikel 71 van het Wetboek van Militair Strafrecht;  
 
-b. in door Onze Minister van Defensie te bepalen andere gevallen waarin de krijgsmacht wordt ingezet, waaronder begrepen de verlening van bijstand op grond van de [artikelen 57](../../../wet/politiewet/2012/BWBR0031788/README.md), [58](../../../wet/politiewet/2012/BWBR0031788/README.md) of [59 van de Politiewet 2012](../../../wet/politiewet/2012/BWBR0031788/README.md) of op grond van [artikel 146, tweede lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en de verlening van steun in het openbaar belang.   
+b. in door Onze Minister van Defensie te bepalen andere gevallen waarin de krijgsmacht wordt ingezet, waaronder begrepen de verlening van bijstand op grond van de artikelen 57, 58 of 59 van de Politiewet 2012 of op grond van artikel 146, tweede lid, van het Wetboek van Strafvordering en de verlening van steun in het openbaar belang.   
 
 ### Artikel  1.30  
 
-####Partiële uitzondering [artikelen 3](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [16 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) 
+####Partiële uitzondering artikelen 3 en 16 van de wet 
 
-[Artikel 3, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en de op [artikel 16 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) gebaseerde artikelen 1.37 en 1.41, de afdelingen 5, 6, 6A en 8 van hoofdstuk 2, en de hoofdstukken 3 tot en met 8 van dit besluit zijn niet van toepassing: 
+Artikel 3, eerste lid, van de wet en de op artikel 16 van de wet gebaseerde artikelen 1.37 en 1.41, de afdelingen 5, 6, 6A en 8 van hoofdstuk 2, en de hoofdstukken 3 tot en met 8 van dit besluit zijn niet van toepassing: 
 
 a. tijdens, direct voor en direct na oefeningen;  
 
@@ -563,9 +563,9 @@ b. ten aanzien van militaire vaartuigen, militaire luchtvaartuigen, bemande wape
 
 ### Artikel  1.31  
 
-####Partiële uitzondering [artikel 10 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) 
+####Partiële uitzondering artikel 10 van de wet 
 
-Voor zover [de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) van toepassing is op arbeid verricht door defensiepersoneel is [artikel 10 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) op arbeid verricht door defensiepersoneel: 
+Voor zover de wet van toepassing is op arbeid verricht door defensiepersoneel is artikel 10 van de wet op arbeid verricht door defensiepersoneel: 
 
 a. dat belast is met enige politietaak of met bewakings- of beveiligingstaken, of  
 
@@ -575,9 +575,9 @@ c. dat is ingezet ter verlening van de bijstand, bedoeld in artikel 1.29, onder 
 
 ### Artikel  1.32  
 
-####Partiële uitzondering [artikel 12 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) 
+####Partiële uitzondering artikel 12 van de wet 
 
-[Artikel 12 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is van toepassing behoudens: 
+Artikel 12 van de wet is van toepassing behoudens: 
 
 a. tijdens oefeningen;  
 
@@ -587,26 +587,26 @@ c. op aangelegenheden die rechtstreeks betrekking hebben op de arbeid, bedoeld i
 
 ### Artikel  1.33  
 
-####Partiële uitzondering [artikelen 27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [28a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)
+####Partiële uitzondering artikelen 27, 28 en 28a van de wet
 
-1.  De [artikelen 27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [28a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn niet van toepassing: 
+1.  De artikelen 27, 28 en 28a van de wet zijn niet van toepassing: 
 
 a. tijdens, direct voor en direct na oefeningen;  
 
 b. op eenheden met gereedstelling.     
-2.  De [artikelen 27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [28a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn niet van toepassing op militaire vaartuigen, militaire luchtvaartuigen en bemande wapensystemen: 
+2.  De artikelen 27, 28 en 28a van de wet zijn niet van toepassing op militaire vaartuigen, militaire luchtvaartuigen en bemande wapensystemen: 
 
 a. indien oorlogsschepen varen en indien militaire luchtvaartuigen en bemande wapensystemen als zodanig in gebruik zijn;  
 
 b. in de gevallen, bedoeld in artikel 1.30, onder b, sub 3°.     
-3.  De [artikelen 27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [28a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn van toepassing op het personeel van de Koninklijke Marechaussee, behoudens indien dit personeel daadwerkelijk bezig is met de uitvoering van de specifieke taken, die de Koninklijke Marechaussee in [artikel 4, eerste lid, van de Politiewet 2012](../../../wet/politiewet/2012/BWBR0031788/README.md) zijn opgedragen.   
-4.  In aanvulling op het derde lid, zijn de [artikelen 27](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [28](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [28a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) van toepassing op de arbeid verricht door personeel van de Koninklijke Marechaussee in geval van de verlening van bijstand, bedoeld in artikel 1.29, onder b, voor zover door de toepassing van die artikelen een goede uitoefening van die bijstandsverlening niet wordt belemmerd.  
+3.  De artikelen 27, 28 en 28a van de wet zijn van toepassing op het personeel van de Koninklijke Marechaussee, behoudens indien dit personeel daadwerkelijk bezig is met de uitvoering van de specifieke taken, die de Koninklijke Marechaussee in artikel 4, eerste lid, van de Politiewet 2012 zijn opgedragen.   
+4.  In aanvulling op het derde lid, zijn de artikelen 27, 28 en 28a van de wet van toepassing op de arbeid verricht door personeel van de Koninklijke Marechaussee in geval van de verlening van bijstand, bedoeld in artikel 1.29, onder b, voor zover door de toepassing van die artikelen een goede uitoefening van die bijstandsverlening niet wordt belemmerd.  
 
 ### Artikel  1.34  
 
-####Uitzondering [artikel 29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) 
+####Uitzondering artikel 29 van de wet 
 
-[Artikel 29 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is niet van toepassing op militair personeel. 
+Artikel 29 van de wet is niet van toepassing op militair personeel. 
 
 ### Afdeling  8  
 
@@ -622,7 +622,7 @@ In deze afdeling wordt verstaan onder richtlijn: Richtlijn nr. 94/33/EEG van de 
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie
 
-1.  Indien in een bedrijf of inrichting een of meer jeugdige werknemers werkzaam zijn of plegen te zijn wordt in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in het bijzonder aandacht besteed aan: 
+1.  Indien in een bedrijf of inrichting een of meer jeugdige werknemers werkzaam zijn of plegen te zijn wordt in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in het bijzonder aandacht besteed aan: 
 
 a. de specifieke gevaren op het gebied van arbeidsomstandigheden als gevolg van een gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke of lichamelijke ontwikkeling van de jeugdige werknemer; 
 
@@ -641,14 +641,14 @@ f. het opleidingsniveau van de jeugdige werknemers en de aan hen te geven voorli
 
 ####Deskundig toezicht
 
-1.  Indien in een bedrijf of inrichting jeugdige werknemers arbeid verrichten, wordt op die arbeid adequaat deskundig toezicht uitgeoefend. De inhoud en de mate van het toezicht is afhankelijk van de uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), gebleken gevaren die kunnen ontstaan, indien deskundig toezicht ontbreekt.   
+1.  Indien in een bedrijf of inrichting jeugdige werknemers arbeid verrichten, wordt op die arbeid adequaat deskundig toezicht uitgeoefend. De inhoud en de mate van het toezicht is afhankelijk van de uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, gebleken gevaren die kunnen ontstaan, indien deskundig toezicht ontbreekt.   
 2.  Indien uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 1.36, blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor arbeidsongevallen als gevolg van een gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden, mag die arbeid slechts worden verricht, indien het deskundig toezicht zodanig is georganiseerd dat die gevaren worden voorkomen. Indien dat niet mogelijk is, mag die arbeid niet door jeugdige werknemers worden verricht.  
 
 ### Artikel  1.38  
 
 ####Arbeidsgezondheidskundig onderzoek
 
-In aanvulling op [artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden jeugdige werknemers in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan, zodra uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 1.36, blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor arbeidsongevallen als gevolg van het gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden. 
+In aanvulling op artikel 18 van de wet worden jeugdige werknemers in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan, zodra uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 1.36, blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor arbeidsongevallen als gevolg van het gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden. 
 
 ### Artikel  1.39  
 
@@ -670,13 +670,13 @@ In deze afdeling wordt verstaan onder richtlijn: Richtlijn nr. 92/85/EEG van de 
 
 ####Risico-inventarisatie en -evaluatie
 
-Indien in een bedrijf of inrichting een zwangere werknemer of een werknemer tijdens de lactatie werkzaam is of pleegt te zijn, wordt in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in het bijzonder aandacht besteed aan de niet-limitatieve lijst van agentia, procédés en arbeidsomstandigheden, opgenomen in bijlage I bij de richtlijn 
+Indien in een bedrijf of inrichting een zwangere werknemer of een werknemer tijdens de lactatie werkzaam is of pleegt te zijn, wordt in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in het bijzonder aandacht besteed aan de niet-limitatieve lijst van agentia, procédés en arbeidsomstandigheden, opgenomen in bijlage I bij de richtlijn 
 
 ### Artikel  1.42  
 
 ####Organisatie van de arbeid
 
-1.  Onverminderd [artikel 4:5 van de Arbeidstijdenwet](../../../wet/arbeidstijdenwet/BWBR0007671/README.md), organiseert de werkgever de arbeid van een zwangere werknemer en een werknemer tijdens de lactatie zodanig, richt de arbeidsplaats zodanig in, past een zodanige productie- en werkmethode toe en laat zodanige arbeidsmiddelen gebruiken, dat de arbeid voor die werknemer geen gevaren met zich kan brengen voor haar veiligheid en gezondheid en geen terugslag kan veroorzaken op de zwangerschap of lactatie.   
+1.  Onverminderd artikel 4:5 van de Arbeidstijdenwet, organiseert de werkgever de arbeid van een zwangere werknemer en een werknemer tijdens de lactatie zodanig, richt de arbeidsplaats zodanig in, past een zodanige productie- en werkmethode toe en laat zodanige arbeidsmiddelen gebruiken, dat de arbeid voor die werknemer geen gevaren met zich kan brengen voor haar veiligheid en gezondheid en geen terugslag kan veroorzaken op de zwangerschap of lactatie.   
 2.  Indien nakoming van het eerste lid redelijkerwijs niet mogelijk is, wordt door een tijdelijke aanpassing van de arbeid of door een tijdelijke aanpassing van de arbeids- en rusttijden voorkomen dat gevaar voor de veiligheid en gezondheid van de zwangere werknemer en de werknemer tijdens de lactatie wordt veroorzaakt, en wordt voorkomen dat een terugslag kan worden veroorzaakt op de zwangerschap of lactatie.   
 3.  Indien nakoming van het tweede lid redelijkerwijs niet mogelijk is, wordt aan de zwangere werknemer en de werknemer tijdens de lactatie tijdelijk andere arbeid gegeven.   
 4.  Indien nakoming van het derde lid redelijkerwijs niet mogelijk is, worden de zwangere werknemer en de werknemer tijdens de lactatie tijdelijk vrijgesteld van het verrichten van arbeid.  
@@ -697,9 +697,9 @@ De werkgever zorgt voor doeltreffende voorlichting over de risico’s van de arb
 
 1.  In dit besluit en de daarop berustende bepalingen wordt onder plaatsonafhankelijke arbeid verstaan: 
 
-a. arbeid die een werkgever als bedoeld in [artikel 1, eerste lid, onderdeel a, of tweede lid, onderdeel a, sub 1°, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), door een werknemer als bedoeld in artikel 1, eerste lid, onderdeel b, van de wet, dan wel een werknemer als bedoeld in artikel 1, tweede lid, onderdeel b, van de wet voor zover die werknemer arbeid verricht voor een werkgever als bedoeld in artikel 1, tweede lid, onderdeel a, sub 1°, van de wet, doet verrichten in een woning of op een andere door die werknemer gekozen plaats buiten het bedrijf of de inrichting, die niet de arbeidsplaats van die werkgever is; of  
+a. arbeid die een werkgever als bedoeld in artikel 1, eerste lid, onderdeel a, of tweede lid, onderdeel a, sub 1°, van de wet, door een werknemer als bedoeld in artikel 1, eerste lid, onderdeel b, van de wet, dan wel een werknemer als bedoeld in artikel 1, tweede lid, onderdeel b, van de wet voor zover die werknemer arbeid verricht voor een werkgever als bedoeld in artikel 1, tweede lid, onderdeel a, sub 1°, van de wet, doet verrichten in een woning of op een andere door die werknemer gekozen plaats buiten het bedrijf of de inrichting, die niet de arbeidsplaats van die werkgever is; of  
 
-b. arbeid die een werkgever als bedoeld in [artikel 1, tweede lid, onderdeel a, sub 2°, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in het kader van de uitoefening van een beroep of bedrijf, krachtens een overeenkomst tot aanneming van werk of krachtens een overeenkomst van opdracht, door een werknemer als bedoeld in artikel 1, tweede lid, onderdeel b, van de wet, doet verrichten in een woning, tenzij die ander zelfstandig een beroep of bedrijf uitoefent waarin hij zich in de regel ook tegenover derden tot het verrichten van dergelijke arbeid verplicht.     
+b. arbeid die een werkgever als bedoeld in artikel 1, tweede lid, onderdeel a, sub 2°, van de wet, in het kader van de uitoefening van een beroep of bedrijf, krachtens een overeenkomst tot aanneming van werk of krachtens een overeenkomst van opdracht, door een werknemer als bedoeld in artikel 1, tweede lid, onderdeel b, van de wet, doet verrichten in een woning, tenzij die ander zelfstandig een beroep of bedrijf uitoefent waarin hij zich in de regel ook tegenover derden tot het verrichten van dergelijke arbeid verplicht.     
 2.  Onder plaatsonafhankelijke arbeid als bedoeld in het eerste lid, wordt niet verstaan: 
 
 a. arbeid verricht aan of ten behoeve van het vervaardigen, veranderen, herstellen, versieren, afwerken dan wel op andere wijze tot gebruik geschikt maken of meer geschikt maken of geschikt houden van de woning; of  
@@ -725,12 +725,12 @@ Op plaatsonafhankelijke arbeid zijn van overeenkomstige toepassing de afdelingen
 
 1.  Het verrichten van plaatsonafhankelijke arbeid met gevaarlijke stoffen is alleen toegestaan met de volgende stoffen: 
 
-a. stoffen die bij uitsluiting voldoen aan de krachtens [artikel 9.2.3.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor indeling in de categorieën «schadelijk», «irriterend», «ontvlambaar» en «milieugevaarlijk», tenzij deze stoffen voldoen aan de bij of krachtens die wet vastgestelde criteria voor toekenning van de R-zinnen 1, 4, 5, 6, 14, 19, 29, 30, 31, 32, 33, 40, 44, 48, 64 of 68;  
+a. stoffen die bij uitsluiting voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling in de categorieën «schadelijk», «irriterend», «ontvlambaar» en «milieugevaarlijk», tenzij deze stoffen voldoen aan de bij of krachtens die wet vastgestelde criteria voor toekenning van de R-zinnen 1, 4, 5, 6, 14, 19, 29, 30, 31, 32, 33, 40, 44, 48, 64 of 68;  
 
-b. stoffen die aan geen van de krachtens [artikel 9.2.3.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor indeling voldoen, tenzij deze stoffen de bijzondere gevaaraanduidingen dragen, genoemd in bijlage V, deel B, onderdeel 2 of 6 bij richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999 L 200).     
-2.  Met betrekking tot de in het eerste lid, onder a, genoemde stoffen, met uitzondering van stoffen die alleen voldoen aan de krachtens [artikel 9.2.3.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor indeling in de categorie «milieugevaarlijk», wordt in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in ieder geval vastgesteld aan welke stoffen de werknemers worden of kunnen worden blootgesteld en welke de gevaren zijn die aan die stoffen zijn verbonden.   
-3.  Met betrekking tot de verpakking van een stof die gevaar voor de veiligheid of gezondheid kan opleveren alsmede met betrekking tot de sluiting van die verpakking, is [artikel 9.2.3.3, eerste tot en met derde lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing.   
-4.  Op de verpakking van een stof, bedoeld in het derde lid, worden de aanduidingen die voor die stof op grond van het voldoen aan de criteria voor indeling in de categorieën, bedoeld in het eerste lid, onder a, ten behoeve van de aflevering van die stof bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn voorgeschreven, opvallend en goed leesbaar vermeld, met uitzondering van de aanduidingen die betrekking hebben op de categorie «milieugevaarlijk».   
+b. stoffen die aan geen van de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling voldoen, tenzij deze stoffen de bijzondere gevaaraanduidingen dragen, genoemd in bijlage V, deel B, onderdeel 2 of 6 bij richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999 L 200).     
+2.  Met betrekking tot de in het eerste lid, onder a, genoemde stoffen, met uitzondering van stoffen die alleen voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling in de categorie «milieugevaarlijk», wordt in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in ieder geval vastgesteld aan welke stoffen de werknemers worden of kunnen worden blootgesteld en welke de gevaren zijn die aan die stoffen zijn verbonden.   
+3.  Met betrekking tot de verpakking van een stof die gevaar voor de veiligheid of gezondheid kan opleveren alsmede met betrekking tot de sluiting van die verpakking, is artikel 9.2.3.3, eerste tot en met derde lid, van de Wet milieubeheer van overeenkomstige toepassing.   
+4.  Op de verpakking van een stof, bedoeld in het derde lid, worden de aanduidingen die voor die stof op grond van het voldoen aan de criteria voor indeling in de categorieën, bedoeld in het eerste lid, onder a, ten behoeve van de aflevering van die stof bij of krachtens de Wet milieubeheer zijn voorgeschreven, opvallend en goed leesbaar vermeld, met uitzondering van de aanduidingen die betrekking hebben op de categorie «milieugevaarlijk».   
 5.  Doeltreffende maatregelen zijn genomen om te voorkomen dat de werknemers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate dat schade kan worden toegebracht aan hun gezondheid.   
 6.  Huidcontact is voorkomen of geminimaliseerd door het dragen van doelmatige persoonlijke beschermingsmiddelen bij mogelijke blootstelling aan een enkelvoudige of samengestelde stof: 
 
@@ -741,7 +741,7 @@ b. als bedoeld in artikel 4.3, eerste of tweede lid, of 4.16, eerste of tweede l
 8.  Indien stoffen aanwezig zijn die gevaar voor de veiligheid of de gezondheid van de werknemer kunnen opleveren, zijn zodanige maatregelen getroffen dat het gevaar, dat zich met betrekking tot die stoffen een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.   
 9.  Bij het verrichten van arbeid met stoffen als bedoeld in het achtste lid, zijn zodanige maatregelen getroffen dat het gevaar, dat zich bij die arbeid een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.   
 10.  Voorts zijn zodanige maatregelen getroffen dat, in geval zich een ongewilde gebeurtenis als bedoeld in het achtste of negende lid voordoet, de gevolgen daarvan zoveel mogelijk worden beperkt.   
-11.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in overeenstemming met [artikel 8 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) voorlichting en onderricht gegeven waarbij ten minste aandacht wordt besteed aan: 
+11.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in overeenstemming met artikel 8 van de wet voorlichting en onderricht gegeven waarbij ten minste aandacht wordt besteed aan: 
 
 a. de uitkomsten van de risico-inventarisatie en -evaluatie, bedoeld in het tweede lid;  
 
@@ -795,7 +795,7 @@ In geval van het verrichten van plaatsonafhankelijke arbeid is het niet toegesta
 
 ####Melding arbeidsongevallen
 
-Indien een werknemer bij het verrichten van plaatsonafhankelijke arbeid een arbeidsongeval als bedoeld in [artikel 9, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), overkomt doet hij daarvan onverwijld mededeling aan de werkgever. 
+Indien een werknemer bij het verrichten van plaatsonafhankelijke arbeid een arbeidsongeval als bedoeld in artikel 9, eerste lid, van de wet, overkomt doet hij daarvan onverwijld mededeling aan de werkgever. 
 
 ### Hoofdstuk  2  
 
@@ -820,7 +820,7 @@ Indien een werknemer bij het verrichten van plaatsonafhankelijke arbeid een arbe
 
 ####Gegevens beroepsziekten
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens die bij de mededeling van een beroepsziekte, bedoeld in [artikel 9, derde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden verstrekt. 
+Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens die bij de mededeling van een beroepsziekte, bedoeld in artikel 9, derde lid, van de wet worden verstrekt. 
 
 ### Afdeling  2  
 
@@ -850,7 +850,7 @@ c. extreem toxische stof:
 
 d. toxische stof: een stof, niet zijnde een extreem toxische stof, die acuut giftige eigenschappen bezit en daardoor gevaar voor de gezondheid kan opleveren bij een eenmalige betrekkelijk korte blootstelling, al dan niet met uitgestelde werking, en die als kenmerk heeft dat de lethale concentratie 50 bij een blootstelling van de rat gedurende één uur, kleiner is dan of gelijk is aan 20 000 milligram per kubieke meter;  
 
-e. ontplofbare stof: een stof die op grond van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) voldoet aan de criteria voor indeling in de categorie «ontplofbaar», bedoeld in [artikel 9.2.3.1, tweede lid, onder a, van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md); 
+e. ontplofbare stof: een stof die op grond van de Wet milieubeheer voldoet aan de criteria voor indeling in de categorie «ontplofbaar», bedoeld in artikel 9.2.3.1, tweede lid, onder a, van die wet; 
 
 f. installatie: een installatie voor bewerking of een installatie voor opslag;  
 
@@ -883,7 +883,7 @@ m.scenario: de reeks van gebeurtenissen en omstandigheden die nodig zijn voor of
 ####Toepasselijkheid vervoergebonden inrichtingen
 
 1.  In dit artikel wordt verstaan onder opslag in verband met vervoer van gevaarlijke stoffen: opslag van verpakte gevaarlijke stoffen als bedoeld in artikel 2.2, onderdeel a, gedurende korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van die stoffen en de overbrenging daarvan naar of van een andere tak van vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en de betrokken gevaarlijke stoffen in hun oorspronkelijke verpakking blijven.   
-2.  Ten aanzien van een inrichting die tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie behoort en bestemd is voor de opslag in verband met vervoer van gevaarlijke stoffen, al dan niet in combinatie met andere stoffen en producten, waarin gevaarlijke stoffen krachtens omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) aanwezig mogen zijn, kan voor de toepassing van deze afdeling de berekening van de hoeveelheid gevaarlijke stoffen, bedoeld in artikel 2.3, achterwege blijven.  
+2.  Ten aanzien van een inrichting die tot een krachtens artikel 1.1, derde lid, van de Wet milieubeheer aangewezen categorie behoort en bestemd is voor de opslag in verband met vervoer van gevaarlijke stoffen, al dan niet in combinatie met andere stoffen en producten, waarin gevaarlijke stoffen krachtens omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht aanwezig mogen zijn, kan voor de toepassing van deze afdeling de berekening van de hoeveelheid gevaarlijke stoffen, bedoeld in artikel 2.3, achterwege blijven.  
 
 ### Artikel  2.3b  
 
@@ -891,12 +891,12 @@ m.scenario: de reeks van gebeurtenissen en omstandigheden die nodig zijn voor of
 
 1.  Deze afdeling is: 
 
-a. met uitzondering van artikel 2.5f, niet van toepassing op bedrijven of inrichtingen waarop [paragraaf 3 van het Besluit risico's zware ongevallen 1999](../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is;  
+a. met uitzondering van artikel 2.5f, niet van toepassing op bedrijven of inrichtingen waarop paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is;  
 
-b. niet van toepassing op bedrijven en inrichtingen waarop het [Besluit opslag- en transportbedrijven](../../../AMvB/besluit/opslag-/en/transportbedrijven/milieubeheer/BWBR0011417/README.md) van toepassing is;  
+b. niet van toepassing op bedrijven en inrichtingen waarop het Besluit opslag- en transportbedrijven van toepassing is;  
 
 c. niet van toepassing op arbeid verricht in de ondergrondse winningsindustrie en de winningsindustrie die delfstoffen wint met behulp van boringen.    
-2.  De artikelen 2.5a, eerste en tweede lid, en 2.5d, eerste lid, onder a, zijn niet van toepassing op bedrijven of inrichtingen waarop [paragraaf 2 van het Besluit risico's zware ongevallen 1999](../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is.  
+2.  De artikelen 2.5a, eerste en tweede lid, en 2.5d, eerste lid, onder a, zijn niet van toepassing op bedrijven of inrichtingen waarop paragraaf 2 van het Besluit risico's zware ongevallen 1999 van toepassing is.  
 
 ### Artikel  2.4  
 
@@ -939,7 +939,7 @@ i. voor een stof die in de vaste fase verkeert: 0,1.
 
 ####Nadere voorschriften uitwerking beleid inzake zware ongevallen
 
-1.  De algemene doelstellingen en beginselen van het beleid inzake de beheersing van de risico's van zware ongevallen, bedoeld in [artikel 6, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), worden schriftelijk vastgelegd.   
+1.  De algemene doelstellingen en beginselen van het beleid inzake de beheersing van de risico's van zware ongevallen, bedoeld in artikel 6, eerste lid, van de wet, worden schriftelijk vastgelegd.   
 2.  Voor de vaststelling en uitvoering van het beleid, bedoeld in het eerste lid, wordt een veiligheidsbeheerssysteem ingevoerd, dat mede wordt gebaseerd op de risico-inventarisatie en -evaluatie, bedoeld in artikel 2.5b.   
 3.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het veiligheidsbeheerssysteem, bedoeld in het tweede lid.  
 
@@ -947,7 +947,7 @@ i. voor een stof die in de vaste fase verkeert: 0,1.
 
 ####Aanvullende voorschriften risico-inventarisatie en -evaluatie
 
-1.  In de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), worden: 
+1.  In de risico-inventarisatie en -evaluatie, bedoeld in artikel 5, eerste lid, van de wet, worden: 
 
 a.de risico's van ongevallen met gevaarlijke stoffen systematisch geïdentificeerd en geëvalueerd aan de hand van daartoe door de werkgever vastgestelde procedures, zowel bij normale werking als bij abnormale werking van de installatie of het industrieel chemisch proces. Hierbij wordt tevens rekening gehouden met de aanwezigheid van andere stoffen die in een specifieke situatie bij kunnen dragen aan het risico van een zwaar ongeval;
 
@@ -968,7 +968,7 @@ b.alle technische en organisatorische maatregelen getroffen om de gevolgen van e
 1.  Ten behoeve van de planning voor noodsituaties wordt een intern noodplan opgesteld dat wordt gebaseerd op de risico-inventarisatie en -evaluatie, bedoeld in artikel 2.5b, eerste lid, en de op grond hiervan getroffen maatregelen, bedoeld in artikel 2.5b, tweede lid.   
 2.  Bij het opstellen of wijzigen van het intern noodplan wordt, bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, overleg gevoerd met de belanghebbende werknemers. Over het intern noodplan en de wijziging daarvan wordt tevens overleg gevoerd met de werknemers van andere werkgevers, die op basis van een langlopende overeenkomst tot aanneming van werk mede in het bedrijf of de inrichting werkzaam zijn.  
 3.  Het intern noodplan wordt ten minste eenmaal per drie jaar beproefd, geëvalueerd en indien nodig gewijzigd.  
-4. De werkgever zorgt ervoor dat de werknemers, de bedrijfshulpverleners, bedoeld in [artikel 15, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en de externe hulpverleningsorganisaties, bedoeld in [artikel 3, eerste lid, onderdeel e, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de deskundigen, genoemd in [artikel 13 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de deskundigen of arbodiensten, genoemd in de [artikelen 14](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [14a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en de werknemers van andere werkgevers, die mede in het bedrijf of de inrichting werkzaam zijn, desgewenst kennis kunnen nemen van het intern noodplan.  
+4. De werkgever zorgt ervoor dat de werknemers, de bedrijfshulpverleners, bedoeld in artikel 15, eerste lid, van de wet, en de externe hulpverleningsorganisaties, bedoeld in artikel 3, eerste lid, onderdeel e, van de wet, de deskundigen, genoemd in artikel 13 van de wet, de deskundigen of arbodiensten, genoemd in de artikelen 14 en 14a van de wet, en de werknemers van andere werkgevers, die mede in het bedrijf of de inrichting werkzaam zijn, desgewenst kennis kunnen nemen van het intern noodplan.  
 5.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de gegevens die in het noodplan worden opgenomen.  
 
 ### Artikel  2.5d  
@@ -988,7 +988,7 @@ c.de getroffen maatregelen, bedoeld in artikel 2.5b, tweede lid, en het intern n
 
 ####Deskundige bijstand
 
-1.  In aanvulling op [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) laat de werkgever zich bij de volgende taken bijstaan door de persoon, bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taak, bedoeld in [artikel 14, eerste lid, onderdeel a, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die door de werkgever is ingeschakeld of de arbodienst van de werkgever: 
+1.  In aanvulling op artikel 14, eerste lid, van de wet laat de werkgever zich bij de volgende taken bijstaan door de persoon, bedoeld in artikel 14, eerste lid, van de wet die belast is met de taak, bedoeld in artikel 14, eerste lid, onderdeel a, van de wet, die door de werkgever is ingeschakeld of de arbodienst van de werkgever: 
 
 a. de vastlegging van het beleid als bedoeld in artikel 2.5a, eerste lid;  
 
@@ -1019,11 +1019,11 @@ a.de naam en het adres van de werkgever en, indien deze anders zijn, de naam en 
 
 b.welke installaties onder de verplichting, bedoeld in artikel 2.3, eerste lid, vallen;
 
-c.de naam en het adres van de deskundige persoon, bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) of de arbodienst, die medewerking verleent bij de taken, bedoeld in artikel 2.5e, eerste lid.   
+c.de naam en het adres van de deskundige persoon, bedoeld in artikel 14, eerste lid, van de wet of de arbodienst, die medewerking verleent bij de taken, bedoeld in artikel 2.5e, eerste lid.   
 2.  Indien in het bedrijf of de inrichting of een onderdeel daarvan of in de werking van het bedrijf of de inrichting of een onderdeel daarvan een verandering van technische of organisatorische aard wordt aangebracht die voor de risico's van een zwaar ongeval met gevaarlijke stoffen belangrijke gevolgen kan hebben, wordt een nieuwe melding als bedoeld in het eerste lid gedaan.   
 3.  De toezichthouder, bedoeld in het eerste lid zendt onverwijld een kopie van de melding aan: 
 
-a.het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) te verlenen;
+a.het bestuursorgaan dat bevoegd is een vergunning krachtens artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht te verlenen;
 
 b.burgemeester en wethouders van de gemeente waarin het bedrijf of de inrichting geheel of gedeeltelijk is gelegen, tenzij burgemeester en wethouders het bestuursorgaan als bedoeld onder a zijn;
 
@@ -1033,7 +1033,7 @@ c.het bestuur van de veiligheidsregio waarin het bedrijf of de inrichting is gel
 
 ####Exploitatieverbod
 
-Het bedrijf, de inrichting of het deel daarvan waarop deze afdeling van toepassing is of is aangewezen krachtens [artikel 6, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), wordt niet in werking gebracht of gehouden en de verandering, bedoeld in artikel 2.5d, eerste lid, aanhef, wordt niet doorgevoerd, alvorens is voldaan aan de verplichtingen, bedoeld in de artikelen 2.5a, 2.5b, 2.5c, 2.5d en 2.5g. 
+Het bedrijf, de inrichting of het deel daarvan waarop deze afdeling van toepassing is of is aangewezen krachtens artikel 6, tweede lid, van de wet, wordt niet in werking gebracht of gehouden en de verandering, bedoeld in artikel 2.5d, eerste lid, aanhef, wordt niet doorgevoerd, alvorens is voldaan aan de verplichtingen, bedoeld in de artikelen 2.5a, 2.5b, 2.5c, 2.5d en 2.5g. 
 
 ### Afdeling  3  
 
@@ -1049,14 +1049,14 @@ Het bedrijf, de inrichting of het deel daarvan waarop deze afdeling van toepassi
 
 1. In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
-a.interne deskundige: deskundige persoon als bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en die binnen het bedrijf of de inrichting werkzaam is krachtens een arbeidsovereenkomst of publiekrechtelijke aanstelling;
+a.interne deskundige: deskundige persoon als bedoeld in artikel 14, eerste lid, aanhef, van de wet en die binnen het bedrijf of de inrichting werkzaam is krachtens een arbeidsovereenkomst of publiekrechtelijke aanstelling;
 
-b.externe deskundige: deskundige persoon als bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en die niet binnen het bedrijf of de inrichting werkzaam is op een wijze als bedoeld in onderdeel a;
+b.externe deskundige: deskundige persoon als bedoeld in artikel 14, eerste lid, aanhef, van de wet en die niet binnen het bedrijf of de inrichting werkzaam is op een wijze als bedoeld in onderdeel a;
 
-c.interne arbodienst: een dienst als bedoeld in [artikel 14a, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);
+c.interne arbodienst: een dienst als bedoeld in artikel 14a, tweede lid, van de wet;
 
-d.externe arbodienst: een dienst als bedoeld in [artikel 14a, derde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). 
-2. Onder een interne arbodienst wordt mede verstaan een samenwerkingsverband tussen tenminste een interne deskundige en externe deskundigen die tezamen de taken, bedoeld in [artikel 14, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) uitvoeren. 
+d.externe arbodienst: een dienst als bedoeld in artikel 14a, derde lid, van de wet. 
+2. Onder een interne arbodienst wordt mede verstaan een samenwerkingsverband tussen tenminste een interne deskundige en externe deskundigen die tezamen de taken, bedoeld in artikel 14, eerste lid, van de wet uitvoeren. 
 
 ###§ 2 
 
@@ -1128,8 +1128,8 @@ Een arbodienst beschikt over zodanige huisvesting en outillage dat de beschermin
 
 ####Taken deskundigen
 
-1. Bij de taak, bedoeld in [artikel 14, eerste lid, onderdeel a, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) wordt bijstand verleend door een deskundige die in het bezit is van tenminste een van de certificaten, bedoeld in artikel 2.7, tweede lid, of door een bedrijfsarts als bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). 
-2. Bij de taken, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) wordt bijstand verleend door een bedrijfsarts als bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). 
+1. Bij de taak, bedoeld in artikel 14, eerste lid, onderdeel a, van de wet wordt bijstand verleend door een deskundige die in het bezit is van tenminste een van de certificaten, bedoeld in artikel 2.7, tweede lid, of door een bedrijfsarts als bedoeld in artikel 14, eerste lid, aanhef, van de wet. 
+2. Bij de taken, bedoeld in artikel 14, eerste lid, onderdelen b en c, van de wet wordt bijstand verleend door een bedrijfsarts als bedoeld in artikel 14, eerste lid, aanhef, van de wet. 
 3. Ten aanzien van de deskundigen en bedrijfsartsen zijn de artikelen 2.9, 2.11 en 2.12 van overeenkomstige toepassing.
 
 ###§ 3 
@@ -1140,13 +1140,13 @@ Een arbodienst beschikt over zodanige huisvesting en outillage dat de beschermin
 
 ####Uitzondering bijstand risico-inventarisatie en -evaluatie
 
-1. Bij de toepassing van [artikel 14, twaalfde lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) wordt buiten beschouwing gelaten de tijdsduur van arbeid verricht door een directeur-grootaandeelhouder onderscheidenlijk de persoon van directeur-grootaandeelhouder als bedoeld in de [Regeling aanwijzing directeur-grootaandeelhouder](../../../ministeriele-regeling/regeling/aanwijzing/directeur-grootaandeelhouder/BWBR0009232/README.md). 
-2.  Het model, bedoeld in [artikel 14, twaalfde lid, onderdeel b, onder 1°, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) is getoetst door ten minste een deskundige die in het bezit is van een certificaat als bedoeld in artikel 2.7, tweede lid, of door een bedrijfsarts als bedoeld in artikel 14, eerste lid, aanhef, van de wet.  
-3.  Het instrument, bedoeld in [artikel 14, twaalfde lid, onderdeel b, onder 2°, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md): 
+1. Bij de toepassing van artikel 14, twaalfde lid, van de wet wordt buiten beschouwing gelaten de tijdsduur van arbeid verricht door een directeur-grootaandeelhouder onderscheidenlijk de persoon van directeur-grootaandeelhouder als bedoeld in de Regeling aanwijzing directeur-grootaandeelhouder. 
+2.  Het model, bedoeld in artikel 14, twaalfde lid, onderdeel b, onder 1°, van de wet is getoetst door ten minste een deskundige die in het bezit is van een certificaat als bedoeld in artikel 2.7, tweede lid, of door een bedrijfsarts als bedoeld in artikel 14, eerste lid, aanhef, van de wet.  
+3.  Het instrument, bedoeld in artikel 14, twaalfde lid, onderdeel b, onder 2°, van de wet: 
 
 a. is opgesteld met betrokkenheid van werkgevers- en werknemersverenigingen op ten minste brancheniveau;  
 
-b. is getoetst door ten minste een deskundige die in het bezit is van een certificaat als bedoeld in artikel 2.7, tweede lid, of een bedrijfsarts als bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+b. is getoetst door ten minste een deskundige die in het bezit is van een certificaat als bedoeld in artikel 2.7, tweede lid, of een bedrijfsarts als bedoeld in artikel 14, eerste lid, aanhef, van de wet;  
 
 c. is door de betrokken werkgevers- en werknemersverenigingen gezamenlijk aangemeld; en  
 
@@ -1157,11 +1157,11 @@ d. heeft na aanmelding een geldingsduur van ten hoogste drie jaar.
 
 ####Uitzondering bijstand ziekteverzuim
 
-De verplichting een deskundige of een arbodienst in te schakelen bij de taak, bedoeld in [artikel 14, eerste lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) geldt niet ten aanzien van de werkgever die uitsluitend:
+De verplichting een deskundige of een arbodienst in te schakelen bij de taak, bedoeld in artikel 14, eerste lid, onderdeel b, van de wet geldt niet ten aanzien van de werkgever die uitsluitend:
 
 a.personen onder zijn gezag arbeid laat verrichten zonder arbeidsovereenkomst of publiekrechtelijke aanstelling;
 
-b.personen arbeid laat verrichten op incidentele oproep, jegens wie na afloop van de oproep geen loondoorbetalingsplicht bij ziekte op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bestaat.
+b.personen arbeid laat verrichten op incidentele oproep, jegens wie na afloop van de oproep geen loondoorbetalingsplicht bij ziekte op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek bestaat.
 
 ### Afdeling  4  
 
@@ -1171,7 +1171,7 @@ b.personen arbeid laat verrichten op incidentele oproep, jegens wie na afloop va
 
 ####Maatregelen ter voorkoming of beperking van psychosociale arbeidsbelasting
 
-1. Indien werknemers worden of kunnen worden blootgesteld aan psychosociale arbeidsbelasting worden in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de risico’s ten aanzien van psychosociale arbeidsbelasting beoordeeld en worden in het plan van aanpak, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), met inachtneming van de stand van de wetenschap maatregelen vastgesteld en uitgevoerd om psychosociale arbeidsbelasting te voorkomen of indien dat niet mogelijk is te beperken. 
+1. Indien werknemers worden of kunnen worden blootgesteld aan psychosociale arbeidsbelasting worden in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, de risico’s ten aanzien van psychosociale arbeidsbelasting beoordeeld en worden in het plan van aanpak, bedoeld in artikel 5 van de wet, met inachtneming van de stand van de wetenschap maatregelen vastgesteld en uitgevoerd om psychosociale arbeidsbelasting te voorkomen of indien dat niet mogelijk is te beperken. 
 2. Aan werknemers die arbeid verrichten waarbij gevaar bestaat voor blootstelling aan psychosociale belasting wordt voorlichting en onderricht gegeven over de risico’s voor psychosociale arbeidsbelasting alsmede over de maatregelen die er op zijn gericht die belasting te voorkomen of te beperken.
 
 ### Afdeling  5  
@@ -1194,7 +1194,7 @@ c.uitvoeringsfase: de fase waarin het bouwwerk materieel tot stand wordt gebrach
 
 ####Aanwijzing
 
-Voor de toepassing van [artikel 16, achtste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden aangewezen de opdrachtgever, de ontwerpende en de uitvoerende partij. 
+Voor de toepassing van artikel 16, achtste lid, van de wet worden aangewezen de opdrachtgever, de ontwerpende en de uitvoerende partij. 
 
 ### Artikel  2.25  
 
@@ -1206,7 +1206,7 @@ Deze afdeling is niet van toepassing op arbeid verricht in de winningsindustrie 
 
 ####Algemene uitgangspunten inzake veiligheid en gezondheid bij het ontwerpen van een bouwwerk
 
-De opdrachtgever zorgt ervoor dat in de ontwerpfase rekening wordt gehouden met de verplichtingen voor de arbeidsomstandigheden die gelden in de uitvoeringsfase, in het bijzonder de verplichtingen, bedoeld in de [artikelen 3](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [5, eerste en derde lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en [8 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). 
+De opdrachtgever zorgt ervoor dat in de ontwerpfase rekening wordt gehouden met de verplichtingen voor de arbeidsomstandigheden die gelden in de uitvoeringsfase, in het bijzonder de verplichtingen, bedoeld in de artikelen 3, 5, eerste en derde lid, en 8 van de wet. 
 
 ### Artikel  2.27  
 
@@ -1315,7 +1315,7 @@ In het geval van een opdrachtgever-consument zorgt de ontwerpende partij of, ind
 
 ####Verplichtingen werkgever
 
-1. Bij de uitvoering van zijn verplichtingen op grond van de [artikelen 3](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [5](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [8](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [19, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) neemt de werkgever, die bij de totstandbrenging van een bouwwerk arbeid doet verrichten, doeltreffende maatregelen ter bescherming van de veiligheid en de gezondheid van zijn werknemers. Deze maatregelen hebben met name betrekking op:
+1. Bij de uitvoering van zijn verplichtingen op grond van de artikelen 3, 5, 8 en 19, eerste lid, van de wet neemt de werkgever, die bij de totstandbrenging van een bouwwerk arbeid doet verrichten, doeltreffende maatregelen ter bescherming van de veiligheid en de gezondheid van zijn werknemers. Deze maatregelen hebben met name betrekking op:
 
 a.het in goede orde en met voldoende bescherming van de veiligheid en gezondheid van de werknemers in stand houden van de bouwplaats;
 
@@ -1358,23 +1358,23 @@ j.de wisselwerking met exploitatiewerkzaamheden op of in de nabijheid van de bou
 2.  Werkzaamheden waaraan een bijzonder gevaar is verbonden worden uitsluitend opgedragen aan vakbekwaam personeel met voldoende ervaring en uitgevoerd overeenkomstig de verstrekte instructies.   
 3. In verband met het veilig gebruik van een helikopterdek op een mijnbouwinstallatie worden werknemers aangewezen, die belast zijn met het toezicht op dit gebruik van het helikopterdek en daartoe over de noodzakelijke vaardigheid en deskundigheid beschikken. 
 4.  Op arbeidsplaatsen in de winningsindustrie worden met regelmatige tussenpozen de nodige veiligheidsoefeningen gehouden.   
-5.  Opdat in geval van nood onmiddellijk hulp-, vlucht-, evacuatie- en reddingsmaatregelen kunnen worden genomen, worden, in aanvulling op [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de nodige alarm- of andere communicatiesystemen ter beschikking gesteld.   
+5.  Opdat in geval van nood onmiddellijk hulp-, vlucht-, evacuatie- en reddingsmaatregelen kunnen worden genomen, worden, in aanvulling op artikel 15 van de wet, de nodige alarm- of andere communicatiesystemen ter beschikking gesteld.   
 6.  Indien op een arbeidsplaats in de winningsindustrie slechts één werknemer aanwezig is, beschikt deze over telecommunicatiemiddelen om zich met anderen in verbinding te kunnen stellen.  
 
 ### Artikel  2.42  
 
 ####Samenwerking, veiligheids- en gezondheidsdocument
 
-1.  Voor de toepassing van [artikel 19, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden aangewezen de werkzaamheden verricht in de winningsindustrie in dagbouw, de ondergrondse winningsindustrie en de winningsindustrie die delfstoffen wint met behulp van boringen.    
+1.  Voor de toepassing van artikel 19, tweede lid, van de wet worden aangewezen de werkzaamheden verricht in de winningsindustrie in dagbouw, de ondergrondse winningsindustrie en de winningsindustrie die delfstoffen wint met behulp van boringen.    
 2.  Voor de aanvang van het werk wordt een veiligheids- en gezondheidsdocument opgesteld, waarin ten minste vermeld worden: 
 
-a. de risico-inventarisatie en -evaluatie van de gevaren, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+a. de risico-inventarisatie en -evaluatie van de gevaren, bedoeld in artikel 5 van de wet;  
 
-b. de maatregelen, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), waarbij met name aandacht is besteed aan de maatregelen die zijn of worden genomen om aan de voorschriften van deze afdeling en de afdelingen 1, met uitzondering van paragraaf 2a van die afdeling, 3, 3A, 3B en 3C van hoofdstuk 3 van dit besluit te voldoen;  
+b. de maatregelen, bedoeld in artikel 5 van de wet, waarbij met name aandacht is besteed aan de maatregelen die zijn of worden genomen om aan de voorschriften van deze afdeling en de afdelingen 1, met uitzondering van paragraaf 2a van die afdeling, 3, 3A, 3B en 3C van hoofdstuk 3 van dit besluit te voldoen;  
 
 c. de maatregelen die zijn genomen om herhaling van ongevallen met ernstig letsel, dodelijke ongevallen of situaties als bedoeld in artikel 2.42c, eerste lid, onder b, te voorkomen;  
 
-d. de wijze waarop voldaan is aan [artikel 19, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), indien op de arbeidsplaats in de winningsindustrie meerdere werkgevers arbeid doen verrichten;  
+d. de wijze waarop voldaan is aan artikel 19, tweede lid, van de wet, indien op de arbeidsplaats in de winningsindustrie meerdere werkgevers arbeid doen verrichten;  
 
 e. de gegevens waaruit blijkt dat het ontwerp, het gebruik en het onderhoud van de arbeidsplaats in de winningsindustrie alsmede de arbeidsmiddelen veilig zijn;  
 
@@ -1399,7 +1399,7 @@ Op doelmatige plaatsen is een register aanwezig waarin van degenen die werkzaamh
 
 a. naam, voornamen, geslacht;  
 
-b. aard, nummer en een afschrift van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md);  
+b. aard, nummer en een afschrift van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht;  
 
 c. gegevens en data betreffende indiensttreding en tewerkstelling;  
 
@@ -1407,13 +1407,13 @@ d. de onderscheiden functies, waarin zij zijn tewerkgesteld en de data van tewer
 
 e. data en aard van geneeskundige onderzoeken en geneeskundige verklaringen, voorzover deze op grond van dit besluit zijn vereist;  
 
-f. gegevens van certificaten, voorzover die voor het verrichten van de werkzaamheden op grond van dit besluit en het [Mijnbouwbesluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) zijn vereist.   
+f. gegevens van certificaten, voorzover die voor het verrichten van de werkzaamheden op grond van dit besluit en het Mijnbouwbesluit zijn vereist.   
 
 ### Artikel  2.42c  
 
 ####Melding van ongevallen en bijna-ongevallen
 
-1.  In aanvulling op [artikel 9, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) doet de werkgever tevens onverwijld melding aan een daartoe aangewezen toezichthouder: 
+1.  In aanvulling op artikel 9, eerste lid, van de wet doet de werkgever tevens onverwijld melding aan een daartoe aangewezen toezichthouder: 
 
 a. van alle belangrijke bij het verkeer of vervoer voorgekomen bijzondere gebeurtenissen die de veiligheid in gevaar hebben gebracht of hadden kunnen brengen;   
 
@@ -1436,7 +1436,7 @@ Op een arbeidsplaats in de winningsindustrie die delfstoffen wint met behulp van
 
 ####Veiligheids- en gezondheidszorgsysteem
 
-1.  Voor het uitvoeren van een zo goed mogelijk arbeidsomstandighedenbeleid, bedoeld in [artikel 3 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), is een veiligheids- en gezondheidszorgsysteem aanwezig. Dit systeem omvat het geheel van beleid, organisatie, planning, uitvoering, monitoring, evaluatie, doorlichting en verbetering, dat wordt gehanteerd voor de beheersing van de veiligheid en de gezondheid.   
+1.  Voor het uitvoeren van een zo goed mogelijk arbeidsomstandighedenbeleid, bedoeld in artikel 3 van de wet, is een veiligheids- en gezondheidszorgsysteem aanwezig. Dit systeem omvat het geheel van beleid, organisatie, planning, uitvoering, monitoring, evaluatie, doorlichting en verbetering, dat wordt gehanteerd voor de beheersing van de veiligheid en de gezondheid.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.  
 
 ### Artikel  2.42f  
@@ -1481,7 +1481,7 @@ c. na te gaan of de reddingsvaartuigen gebruiksklaar zijn.
 
 ####Raadpleging en deelneming werknemers
 
-Voor zover de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) niet van toepassing is, vindt raadpleging en deelneming van de werknemers plaats overeenkomstig artikel 11 van richtlijn 89/391/EEG van de Raad van de Europese Gemeenschappen van 12 juni 1989 betreffende de tenuitvoerlegging van maatregelen ter bevordering van de verbetering van de veiligheid en gezondheid van de werknemers op het werk (Pb EG L 183). 
+Voor zover de Wet op de ondernemingsraden niet van toepassing is, vindt raadpleging en deelneming van de werknemers plaats overeenkomstig artikel 11 van richtlijn 89/391/EEG van de Raad van de Europese Gemeenschappen van 12 juni 1989 betreffende de tenuitvoerlegging van maatregelen ter bevordering van de verbetering van de veiligheid en gezondheid van de werknemers op het werk (Pb EG L 183). 
 
 ### Afdeling  7  
 
@@ -1491,8 +1491,8 @@ Voor zover de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsr
 
 ####Arbeidsgezondheidskundig onderzoek
 
-1.  Voor de toepassing van dit artikel wordt onder nachtdienst verstaan hetgeen daaronder wordt verstaan in de [Arbeidstijdenwet](../../../wet/arbeidstijdenwet/BWBR0007671/README.md).   
-2.  Iedere werknemer die voor de eerste keer arbeid in nachtdienst gaat verrichten wordt, in aanvulling op [artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in de gelegenheid gesteld om vóór de aanvang van die arbeid een arbeidsgezondheidskundig onderzoek te ondergaan.  
+1.  Voor de toepassing van dit artikel wordt onder nachtdienst verstaan hetgeen daaronder wordt verstaan in de Arbeidstijdenwet.   
+2.  Iedere werknemer die voor de eerste keer arbeid in nachtdienst gaat verrichten wordt, in aanvulling op artikel 18 van de wet, in de gelegenheid gesteld om vóór de aanvang van die arbeid een arbeidsgezondheidskundig onderzoek te ondergaan.  
 
 ### Afdeling  8  
 
@@ -1548,7 +1548,7 @@ f. laagspanning: een spanning met een waarde lager dan hoogspanning.
 
 ####Toepasselijkheid
 
-De artikelen 3.3, eerste lid, 3.4, eerste lid, wat betreft het ontwerp en de inrichting van tot een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) behorende elektrische installaties, 3.6, tweede lid, 3.7, vijfde lid, 3.11, eerste lid, wat betreft het voorschrift dat vloeren van arbeidsplaatsen zoveel mogelijk vrij van gevaarlijke hellingen zijn en voorts zoveel mogelijk vast en stabiel, en derde lid, 3.18, tweede lid, tweede zin, en derde lid, en 3.24, eerste lid, en tweede lid, eerste zin, zijn niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md). 
+De artikelen 3.3, eerste lid, 3.4, eerste lid, wat betreft het ontwerp en de inrichting van tot een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet behorende elektrische installaties, 3.6, tweede lid, 3.7, vijfde lid, 3.11, eerste lid, wat betreft het voorschrift dat vloeren van arbeidsplaatsen zoveel mogelijk vrij van gevaarlijke hellingen zijn en voorts zoveel mogelijk vast en stabiel, en derde lid, 3.18, tweede lid, tweede zin, en derde lid, en 3.24, eerste lid, en tweede lid, eerste zin, zijn niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet. 
 
 ### §  2  
 
@@ -1558,7 +1558,7 @@ De artikelen 3.3, eerste lid, 3.4, eerste lid, wat betreft het ontwerp en de inr
 
 ####Gebruiksvoorschrift
 
-Een arbeidsplaats in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het [Bouwbesluit 2012](../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit. 
+Een arbeidsplaats in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het Bouwbesluit 2012 gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit. 
 
 ### Artikel  3.2  
 
@@ -1626,7 +1626,7 @@ Deze paragraaf is niet van toepassing op:
 
 a. gebieden die direct gebruikt worden voor en gedurende de medische behandeling van patiënten;  
 
-b. het gebruik van gastoestellen die vallen onder het [Besluit gastoestellen](../../../AMvB/besluit/gastoestellen/BWBR0005384/README.md);  
+b. het gebruik van gastoestellen die vallen onder het Besluit gastoestellen;  
 
 c. de vervaardiging, de bewerking, het gebruik, de opslag en het transport van springstoffen of chemisch instabiele stoffen;  
 
@@ -1638,14 +1638,14 @@ e. het gebruik van vervoermiddelen over land, over het water en door de lucht, m
 
 ####Samenwerking en coördinatie
 
-1.  Voor de toepassing van [artikel 19, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) worden aangewezen de werkzaamheden verricht op arbeidsplaatsen waar explosieve atmosferen heersen of kunnen optreden.   
-2.  In aanvulling op [artikel 19, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) coördineert de werkgever die verantwoordelijk is voor de arbeidsplaats, bedoeld in het eerste lid, de uitvoering van alle maatregelen inzake veiligheid en gezondheid.  
+1.  Voor de toepassing van artikel 19, tweede lid, van de wet worden aangewezen de werkzaamheden verricht op arbeidsplaatsen waar explosieve atmosferen heersen of kunnen optreden.   
+2.  In aanvulling op artikel 19, tweede lid, van de wet coördineert de werkgever die verantwoordelijk is voor de arbeidsplaats, bedoeld in het eerste lid, de uitvoering van alle maatregelen inzake veiligheid en gezondheid.  
 
 ### Artikel  3.5c  
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie; explosieveiligheidsdocument
 
-1.  De gevaren in verband met explosieve atmosferen en de bijzondere risico's die daaruit kunnen voortvloeien, worden in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), voor de aanvang van de arbeid en bij iedere belangrijke wijziging, uitbreiding of verbouwing van de arbeidsplaats, de arbeidsmiddelen of het arbeidsproces, in hun geheel beoordeeld en schriftelijk vastgelegd in een explosieveiligheidsdocument.   
+1.  De gevaren in verband met explosieve atmosferen en de bijzondere risico's die daaruit kunnen voortvloeien, worden in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, voor de aanvang van de arbeid en bij iedere belangrijke wijziging, uitbreiding of verbouwing van de arbeidsplaats, de arbeidsmiddelen of het arbeidsproces, in hun geheel beoordeeld en schriftelijk vastgelegd in een explosieveiligheidsdocument.   
 2.  Bij de beoordeling, bedoeld in het eerste lid, wordt in ieder geval rekening gehouden met: 
 
 a. de waarschijnlijkheid van het voorkomen en het voortduren van explosieve atmosferen;  
@@ -1666,7 +1666,7 @@ c. welke gebieden zijn ingedeeld in zones als bedoeld in artikel 3.5d, vijfde li
 
 d. de wijze waarop uitvoering is gegeven aan de maatregelen, bedoeld in de artikelen 3.5d, 3.5e en 3.5f;  
 
-e. indien op arbeidsplaatsen als bedoeld in artikel 3.5b, eerste lid, meerdere werkgevers arbeid doen verrichten, de wijze waarop voldaan is aan [artikel 19, tweede lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het doel, de maatregelen en de wijze van uitvoering van de coördinatie, bedoeld in artikel 3.5b, tweede lid.    
+e. indien op arbeidsplaatsen als bedoeld in artikel 3.5b, eerste lid, meerdere werkgevers arbeid doen verrichten, de wijze waarop voldaan is aan artikel 19, tweede lid, van de wet en het doel, de maatregelen en de wijze van uitvoering van de coördinatie, bedoeld in artikel 3.5b, tweede lid.    
 
 ### Artikel  3.5d  
 
@@ -1695,9 +1695,9 @@ b. indien een explosieve atmosfeer meerdere soorten ontvlambare of brandbare gas
 
 c. installaties, apparaten, beveiligingssystemen en het installatiemateriaal, worden, met inachtneming van onderdeel e, slechts in gebruik genomen indien uit het explosieveiligheidsdocument op basis van de beoordeling, bedoeld in artikel 3.5c, eerste lid, is gebleken dat aan het gebruik ervan geen explosiegevaar is verbonden;  
 
-d. onderdeel c is van overeenkomstige toepassing op arbeidsmiddelen en de verbindingsstukken ervan die geen apparaten en beveiligingssystemen zijn als bedoeld in het [Warenwetbesluit explosieveilig materieel](../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md), indien hun opneming in de installaties aanleiding kan geven tot ontstekingsgevaar;  
+d. onderdeel c is van overeenkomstige toepassing op arbeidsmiddelen en de verbindingsstukken ervan die geen apparaten en beveiligingssystemen zijn als bedoeld in het Warenwetbesluit explosieveilig materieel, indien hun opneming in de installaties aanleiding kan geven tot ontstekingsgevaar;  
 
-e. voor zover het explosieveiligheidsdocument op basis van de beoordeling, bedoeld in artikel 3.5c, eerste lid, geen andere eisen stelt, worden in de gevarenzones apparaten en beveiligingssystemen gebruikt overeenkomstig de categorieën als bedoeld in het [Warenwetbesluit explosieveilig materieel](../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md) en toegepast volgens de navolgende principes: 
+e. voor zover het explosieveiligheidsdocument op basis van de beoordeling, bedoeld in artikel 3.5c, eerste lid, geen andere eisen stelt, worden in de gevarenzones apparaten en beveiligingssystemen gebruikt overeenkomstig de categorieën als bedoeld in het Warenwetbesluit explosieveilig materieel en toegepast volgens de navolgende principes: 
 
 1°. gevarenzone 0 of 20: categorie 1-apparatuur;  
 
@@ -1797,7 +1797,7 @@ c.het geheel of gedeeltelijk slopen, waarbij gevaar bestaat voor brand, explosie
 
 ####Brandmelding en brandbestrijding
 
-1.  In aanvulling op [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn op arbeidsplaatsen, afhankelijk van de aard van de arbeid die daar wordt verricht, de daaraan verbonden gevaren en het maximum aantal werknemers en andere personen dat zich daar bevindt, voldoende passende brandbestrijdingsmiddelen aanwezig.   
+1.  In aanvulling op artikel 15 van de wet zijn op arbeidsplaatsen, afhankelijk van de aard van de arbeid die daar wordt verricht, de daaraan verbonden gevaren en het maximum aantal werknemers en andere personen dat zich daar bevindt, voldoende passende brandbestrijdingsmiddelen aanwezig.   
 2.  Indien nodig zijn, in aanvulling op het eerste lid, branddetectoren en alarmsystemen aanwezig.   
 3.  Niet-automatische brandbestrijdingsmiddelen zijn gemakkelijk bereikbaar en gemakkelijk te bedienen.   
 4.  Niet-automatische brandbestrijdingsmiddelen zijn voorzien van een signalering die voldoet aan het bij of krachtens afdeling 2 van hoofdstuk 8 bepaalde. De signalering is duurzaam en op de juiste plaats aangebracht.  
@@ -1884,7 +1884,7 @@ c. leveren zij in geopende stand geen gevaar op.
 
 1. Bij het verrichten van arbeid waarbij valgevaar bestaat is zo mogelijk een veilige steiger, stelling, bordes of werkvloer aangebracht of is het gevaar tegengegaan door het aanbrengen van doelmatige hekwerken, leuningen of andere dergelijke voorzieningen.
 2. Er is in elk geval sprake van valgevaar bij aanwezigheid van risicoverhogende omstandigheden, openingen in vloeren, of als het gevaar bestaat om 2,5 meter of meer te vallen. 
-3.  Hekwerken en leuningen worden als doelmatig aangemerkt indien zij tenminste tot 1 meter boven het werkvlak beveiliging bieden tegen vallen, dan wel voldoen aan het voor vloerafscheiding bepaalde bij of krachtens het [Bouwbesluit 2012](../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md).  
+3.  Hekwerken en leuningen worden als doelmatig aangemerkt indien zij tenminste tot 1 meter boven het werkvlak beveiliging bieden tegen vallen, dan wel voldoen aan het voor vloerafscheiding bepaalde bij of krachtens het Bouwbesluit 2012.  
 4. Het eerste lid is niet van toepassing op arbeid onder omstandigheden waarin het gebruik van ladders en trappen is toegestaan als bedoeld in artikel 7.23, tweede lid. 
 5. Indien de in het eerste lid genoemde voorzieningen niet of slechts ten dele kunnen worden aangebracht of indien het aanbrengen of wegnemen daarvan grotere gevaren meebrengt dan de arbeid ter beveiliging waarvan zij zouden moeten dienen, zijn ter voorkoming van het gevaar voldoende sterke en voldoende grote vangnetten op doelmatige plaatsen en wijze aangebracht of worden doelmatige veiligheidsgordels met vanglijnen van voldoende sterkte gebruikt dan wel worden andere technische middelen toegepast, die ten minste een zelfde mate van beveiliging van de in het eerste lid bedoelde arbeid geven. Daarbij hebben maatregelen gericht op collectieve bescherming de voorrang boven maatregelen gericht op individuele bescherming. 
 
@@ -1954,7 +1954,7 @@ Voor werknemers die gedurende de tijdsruimte, gelegen tussen het einde en het be
 
 ####Eerste-hulpposten
 
-1.  Indien de aard van de arbeid of de daaraan verbonden gevaren dit noodzakelijk maken, zijn, in aanvulling op [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in het bedrijf of de inrichting voldoende eerste-hulpposten aanwezig.   
+1.  Indien de aard van de arbeid of de daaraan verbonden gevaren dit noodzakelijk maken, zijn, in aanvulling op artikel 15 van de wet, in het bedrijf of de inrichting voldoende eerste-hulpposten aanwezig.   
 2.  In de eerste-hulpposten zijn duidelijk zichtbare instructies voor eerste hulp bij ongevallen aanwezig.   
 3.  In de eerste-hulpposten is een alarmnummer duidelijk zichtbaar aangebracht.   
 4.  De eerste-hulpposten zijn voorzien van de noodzakelijke eerste-hulpuitrusting.   
@@ -2037,7 +2037,7 @@ De maatregelen gericht op het voorkomen van gevaar voor explosie, bedoeld in art
 
 ####Reanimatie-apparatuur
 
-1.  In aanvulling op [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), zijn in zones waar gevaar voor verstikking, bedwelming of vergiftiging bestaat, doelmatige reanimatie-apparaten aanwezig.   
+1.  In aanvulling op artikel 15 van de wet, zijn in zones waar gevaar voor verstikking, bedwelming of vergiftiging bestaat, doelmatige reanimatie-apparaten aanwezig.   
 2.  Op de arbeidsplaats in de winningsindustrie zijn voldoende werknemers aanwezig die de in het eerste lid genoemde apparaten kunnen bedienen.   
 3.  De reanimatie-apparaten worden doelmatig onderhouden en opgeslagen.  
 
@@ -2291,7 +2291,7 @@ Artikel 3.20 is niet van toepassing op leerlingen respectievelijk studenten in o
 
 1.  Op luchtvaartuigen, waarvoor vóór 1 januari 1997 een Nederlands of daaraan gelijk gesteld bewijs van luchtwaardigheid is afgegeven, zijn de artikelen 3.4, 3.5, 3.7, vijfde lid, niet van toepassing, tenzij de naleving daarvan redelijkerwijs kan worden gevergd.   
 2.  Op zeeschepen en binnenvaartuigen, die vóór 1 januari 1994 zijn gebouwd, zijn de artikelen 3.7, vijfde lid, 3.20, 3.22, 3.23 en 3.24 niet van toepassing, tenzij de naleving daarvan redelijkerwijs kan worden gevergd.  
-3. De bouwdatum van een zeeschip wordt bepaald aan de hand van hetgeen dienaangaande in [artikel 2 van het Schepenbesluit 2004](../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of, indien het een zeegaand vissersvaartuig betreft, in het [Vissersvaartuigenbesluit](../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) of het [Vissersvaartuigenbesluit 2002](../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md) is bepaald.  
+3. De bouwdatum van een zeeschip wordt bepaald aan de hand van hetgeen dienaangaande in artikel 2 van het Schepenbesluit 2004 of, indien het een zeegaand vissersvaartuig betreft, in het Vissersvaartuigenbesluit of het Vissersvaartuigenbesluit 2002 is bepaald.  
 4.  Op voertuigen op een openbare weg of spoorweg, die vóór 1 januari 1994 zijn gebouwd, is artikel 3.7, vijfde lid, niet van toepassing, tenzij de naleving daarvan redelijkerwijs kan worden gevergd.   
 5.  De artikelen 3.4, 3.5 en 3.7, vijfde lid, zijn niet van toepassing op het in bedrijven of inrichtingen aanwezige rollende materieel van spoorwegondernemingen.   
 6.  De artikelen 3.20 tot en met 3.25 zijn niet van toepassing op luchtvaartuigen.   
@@ -2384,7 +2384,7 @@ c.ongewilde gebeurtenis: een plotselinge situatie, ongeval, voorval of noodsitua
 ####Toepasselijkheid
 
 1. De artikelen 4.1c, eerste lid, onderdeel h, 4.3, 4.4 en 4.10a, vijfde lid, zijn niet van toepassing op kankerverwekkende of mutagene stoffen en kankerverwekkende processen als bedoeld in afdeling 2 van dit hoofdstuk en op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
-2. Artikel 4.7 is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het [Besluit risico’s zware ongevallen 1999](../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) of afdeling 2 van hoofdstuk 2 van toepassing is. 
+2. Artikel 4.7 is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het Besluit risico’s zware ongevallen 1999 of afdeling 2 van hoofdstuk 2 van toepassing is. 
 3. Artikel 4.4 is niet van toepassing op loodwit als bedoeld in artikel 4.61b. 
 4. Artikel 4.10d is niet van toepassing op asbest of asbesthoudende producten als bedoeld in afdeling 5 van dit hoofdstuk. 
 
@@ -2399,7 +2399,7 @@ c.ongewilde gebeurtenis: een plotselinge situatie, ongeval, voorval of noodsitua
 1. In alle gevallen waarin werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, zorgt de werkgever voor een doeltreffende bescherming van de gezondheid en veiligheid van de werknemer. 
 2. Aan het bepaalde in het eerste lid wordt voldaan indien:
 
-a.in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de aard, mate en duur van de blootstelling is beoordeeld in overeenstemming met artikel 4.2;
+a.in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, de aard, mate en duur van de blootstelling is beoordeeld in overeenstemming met artikel 4.2;
 
 b.doeltreffende maatregelen zijn getroffen ter voorkoming of beperking van de blootstelling in overeenstemming met de artikelen 4.1c en 4.4 dan wel in overeenstemming met de artikelen 4.17, 4.18 en 4.19;
 
@@ -2409,7 +2409,7 @@ c.preventieve maatregelen zijn getroffen ter voorkoming van ongewilde gebeurteni
 
 ####Beperken van blootstelling; algemene preventieve maatregelen
 
-1. In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt, in het kader van [artikel 3 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de blootstelling van werknemers aan gevaarlijke stoffen voorkomen of geminimaliseerd door:
+1. In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt, in het kader van artikel 3 van de wet, de blootstelling van werknemers aan gevaarlijke stoffen voorkomen of geminimaliseerd door:
 
 a.het ontwerp en de organisatie van de arbeidssystemen op de werkplek;
 
@@ -2442,7 +2442,7 @@ k.te zorgen dat op plaatsen waar gevaarlijke stoffen aanwezig zijn, niet wordt g
 
 ####Beperking van blootstelling; werkpleketikettering
 
-1.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in het kader van [artikel 3 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) de blootstelling van werknemers aan gevaarlijke stoffen voorkomen of geminimaliseerd door op de verpakking van de gevaarlijke stof opvallend en goed leesbaar te vermelden: 
+1.  In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in het kader van artikel 3 van de wet de blootstelling van werknemers aan gevaarlijke stoffen voorkomen of geminimaliseerd door op de verpakking van de gevaarlijke stof opvallend en goed leesbaar te vermelden: 
 
 a. de officiële naam van de gevaarlijke stof en de relevante gevaarlijke bestanddelen; en  
 
@@ -2453,15 +2453,15 @@ a. voor een enkelvoudige stof: de officiële naam van de gevaarlijke stof; en
 
 b. voor een meervoudige stof: de officiële naam of namen van de relevante gevaarlijke bestanddelen.     
 3.  In het geval van opslag van gevaarlijke stoffen in grotere hoeveelheden in speciale opslagruimten wordt aan het eerste lid voldaan als de verplichte aanduidingen voor meerdere identieke verpakkingen door middel van één etiketafdruk opvallend en goed leesbaar zijn aangebracht. De aanduidingen zijn zodanig aangebracht dat voor elke afzonderlijk opgeslagen verpakking te allen tijde ter plekke duidelijk is dat de aanduidingen van toepassing zijn. Als gevaarlijke stoffen uitsluitend voor de handel zijn opgeslagen, kan worden volstaan met het aanbrengen van de bij aflevering in Nederland wettelijk verplichte aanduidingen.   
-4.  In geval van vervoer en laden en lossen van gevaarlijke stoffen wordt aan het eerste lid voldaan als de vervoerders en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens die op grond van het bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) bepaalde op het etiket zouden moeten worden vermeld.   
-5.  Het eerste en tweede lid zijn niet van toepassing voor zover de [Wet vervoer gevaarlijke stoffen](../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) of de [Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) van toepassing zijn.   
+4.  In geval van vervoer en laden en lossen van gevaarlijke stoffen wordt aan het eerste lid voldaan als de vervoerders en de laders en lossers tijdens hun werkzaamheden ter plekke beschikken over de gegevens die op grond van het bij of krachtens de Wet milieubeheer bepaalde op het etiket zouden moeten worden vermeld.   
+5.  Het eerste en tweede lid zijn niet van toepassing voor zover de Wet vervoer gevaarlijke stoffen of de Wet gewasbeschermingsmiddelen en biociden van toepassing zijn.   
 6.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste, tweede of derde lid.  
 
 ### Artikel  4.2  
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie, beoordelen
 
-1. Indien werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, ongeacht of met deze stoffen daadwerkelijk arbeid wordt of zal worden verricht, worden, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de aard, de mate en de duur van die blootstelling beoordeeld teneinde de gevaren voor de werknemers te bepalen. 
+1. Indien werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, ongeacht of met deze stoffen daadwerkelijk arbeid wordt of zal worden verricht, worden, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, de aard, de mate en de duur van die blootstelling beoordeeld teneinde de gevaren voor de werknemers te bepalen. 
 2. Met betrekking tot de aard van de blootstelling wordt in ieder geval vastgesteld aan welke gevaarlijke stoffen werknemers worden of kunnen worden blootgesteld, wat de gevaren zijn die aan die stoffen zijn verbonden, in welke situaties blootstelling zich kan voordoen en op welke wijze blootstelling kan plaatsvinden. 
 3. Met betrekking tot de mate van blootstelling aan gevaarlijke stoffen wordt in ieder geval vastgesteld wat het blootstellingniveau is. 
 4. Voor het doeltreffend vaststellen van het blootstellingniveau wordt gebruik gemaakt van geschikte, genormaliseerde meetmethodes, dan wel andere voor het doel geschikte meetmethodes of kwantitatieve evaluatiemethodes. 
@@ -2485,7 +2485,7 @@ e.voor zover van toepassing, de resultaten van de arbeidsgezondheidskundige onde
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie, aanvullende registratie
 
-Indien op de arbeidsplaats in verband met de aard van de werkzaamheden die daar worden uitgevoerd, gevaarlijke stoffen plegen voor te komen die bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden ingedeeld in de categorie «voor de voortplanting vergiftig», bedoeld in [artikel 9.2.3.1, tweede lid, onder n, van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md), alsmede stoffen als bedoeld in richtlijn nr. 67/548/EEG van de Raad van de Europese Economische Gemeenschap van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196) die met de waarschuwingszin R64 worden gekenmerkt overeenkomstig de criteria in paragraaf 3.2.8 van bijlage VI bij deze richtlijn, worden met betrekking tot die stoffen in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in aanvulling op artikel 4.2, de volgende gegevens vermeld:
+Indien op de arbeidsplaats in verband met de aard van de werkzaamheden die daar worden uitgevoerd, gevaarlijke stoffen plegen voor te komen die bij of krachtens de Wet milieubeheer worden ingedeeld in de categorie «voor de voortplanting vergiftig», bedoeld in artikel 9.2.3.1, tweede lid, onder n, van die wet, alsmede stoffen als bedoeld in richtlijn nr. 67/548/EEG van de Raad van de Europese Economische Gemeenschap van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196) die met de waarschuwingszin R64 worden gekenmerkt overeenkomstig de criteria in paragraaf 3.2.8 van bijlage VI bij deze richtlijn, worden met betrekking tot die stoffen in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, in aanvulling op artikel 4.2, de volgende gegevens vermeld:
 
 a.de hoeveelheid van de stof die per jaar pleegt te worden vervaardigd of gebruikt dan wel aanwezig pleegt te zijn in verband met opslag;
 
@@ -2530,7 +2530,7 @@ a.kankerverwekkende en mutagene stoffen als bedoeld in artikel 4.11, onderdelen 
 
 b.een stof die vrijkomt bij een kankerverwekkend proces als bedoeld in artikel 4.11, onderdeel c;
 
-c.stoffen die voldoen aan de criteria, vastgesteld op grond van [artikel 9.2.3.1, derde lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor toekenning van de R-zin «kan overgevoeligheid veroorzaken bij inademing (R42)». 
+c.stoffen die voldoen aan de criteria, vastgesteld op grond van artikel 9.2.3.1, derde lid, van de Wet milieubeheer voor toekenning van de R-zin «kan overgevoeligheid veroorzaken bij inademing (R42)». 
 
 ### §  4  
 
@@ -2548,13 +2548,13 @@ b.ervoor te zorgen dat er geen ontbrandingsbronnen aanwezig zijn die brand en ex
 
 c.de schadelijke gevolgen voor de gezondheid en de veiligheid van de werknemers als gevolg van brand en explosies ten gevolge van het ontbranden van ontvlambare stoffen, of ernstige fysieke gevolgen ten gevolge van ongelukken veroorzaakt door chemisch onstabiele stoffen of mengsels van stoffen te verminderen. 
 2. De maatregelen, bedoeld in het eerste lid, zijn afgestemd op de aard van de activiteiten, waaronder begrepen opslag, behandeling en scheiding van onverenigbare gevaarlijke stoffen, en deze maatregelen beschermen de werknemers tegen de gevaren van fysisch-chemische eigenschappen van gevaarlijke stoffen. 
-3. De maatregelen, bedoeld in het eerste lid, zijn, voor zover van toepassing, in overeenstemming met het [Warenwetbesluit explosieveilig materieel](../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md). 
+3. De maatregelen, bedoeld in het eerste lid, zijn, voor zover van toepassing, in overeenstemming met het Warenwetbesluit explosieveilig materieel. 
 
 ### Artikel  4.7  
 
 ####Maatregelen bij ongewilde gebeurtenissen
 
-1. Voor zover uit de resultaten van de beoordeling, bedoeld in artikel 4.2, blijkt dat er gevaar voor de veiligheid of de gezondheid van de werknemers bestaat, zijn in aanvulling op [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) doeltreffende procedures opgesteld die in werking treden indien zich een ongewilde gebeurtenis voordoet. 
+1. Voor zover uit de resultaten van de beoordeling, bedoeld in artikel 4.2, blijkt dat er gevaar voor de veiligheid of de gezondheid van de werknemers bestaat, zijn in aanvulling op artikel 15 van de wet doeltreffende procedures opgesteld die in werking treden indien zich een ongewilde gebeurtenis voordoet. 
 2. Op grond van de procedures, bedoeld in het eerste lid, zijn zodanige technische of organisatorische maatregelen genomen, dat wanneer zich een ongewilde gebeurtenis voordoet de gevolgen hiervan zoveel mogelijk worden beperkt. 
 3. Ter naleving van het tweede lid worden in ieder geval de volgende maatregelen genomen:
 
@@ -2566,10 +2566,10 @@ c.uitsluitend de werknemers of andere personen, belast met het uitvoeren van de 
 
 d.de werknemers en andere personen, bedoeld in onderdeel c, zijn niet langer dan strikt noodzakelijk voor het herstel van de veilige toestand in de getroffen zone aanwezig;
 
-e.er zijn in aanvulling op [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) doeltreffende waarschuwings- en andere communicatiesystemen beschikbaar ten behoeve van de signalering van een toegenomen risico voor de veiligheid en gezondheid en die voldoen aan het bepaalde bij of krachtens afdeling 2 van hoofdstuk 8;
+e.er zijn in aanvulling op artikel 15 van de wet doeltreffende waarschuwings- en andere communicatiesystemen beschikbaar ten behoeve van de signalering van een toegenomen risico voor de veiligheid en gezondheid en die voldoen aan het bepaalde bij of krachtens afdeling 2 van hoofdstuk 8;
 
 f.er wordt voorkomen dat anderen dan de werknemers en andere personen, bedoeld in onderdeel c, de getroffen zone betreden. 
-4. De werkgever zorgt ervoor dat de bedrijfshulpverleners, bedoeld in [artikel 15 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en de externe hulpverleningsorganisaties desgewenst kennis kunnen nemen van de maatregelen, bedoeld in het derde lid. 
+4. De werkgever zorgt ervoor dat de bedrijfshulpverleners, bedoeld in artikel 15 van de wet, en de externe hulpverleningsorganisaties desgewenst kennis kunnen nemen van de maatregelen, bedoeld in het derde lid. 
 5. De informatie over de maatregelen, bedoeld in het vierde lid, omvat in ieder geval:
 
 a.een beschrijving van de gevaren op grond van de beoordeling, bedoeld in artikel 4.2;
@@ -2584,7 +2584,7 @@ d.een omschrijving van de procedures, bedoeld in het eerste lid.
 
 ####Ontplofbare stoffen
 
-1. Arbeid waarbij voor demolitie, zijnde het springen van objecten of materialen, of voor onderhoud, gebruik wordt gemaakt van stoffen die op grond van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) voldoen aan de criteria voor indeling in de categorie «ontplofbaar», bedoeld in [artikel 9.2.3.1, tweede lid, onder a, van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt verricht volgens een vooraf opgesteld springplan of, bij de verkenning naar, opsporing of winning van delfstoffen, een vooraf opgesteld programma. De inhoud van het springplan of programma bevat een deugdelijke beschrijving van de uit te voeren werkzaamheden, de daaraan verbonden gevaren en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen worden. 
+1. Arbeid waarbij voor demolitie, zijnde het springen van objecten of materialen, of voor onderhoud, gebruik wordt gemaakt van stoffen die op grond van de Wet milieubeheer voldoen aan de criteria voor indeling in de categorie «ontplofbaar», bedoeld in artikel 9.2.3.1, tweede lid, onder a, van die wet, wordt verricht volgens een vooraf opgesteld springplan of, bij de verkenning naar, opsporing of winning van delfstoffen, een vooraf opgesteld programma. De inhoud van het springplan of programma bevat een deugdelijke beschrijving van de uit te voeren werkzaamheden, de daaraan verbonden gevaren en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen worden. 
 2. Demolitie- en onderhoudswerkzaamheden als bedoeld in het eerste lid worden verricht door of onder voortdurend toezicht van een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester met betrekking tot de soort arbeid die wordt verricht dat is afgegeven door Onze Minister of een certificerende instelling. 
 3. Werkzaamheden bestaande uit het springen van materialen ten behoeve van de verkenning, opsporing of winning van delfstoffen als bedoeld in het eerste lid worden verricht door personen die in het bezit zijn van een getuigschrift van schietmeester dat is afgegeven door Onze Minister of een door Onze Minister daartoe aangewezen instelling. 
 4. Het springplan of programma, bedoeld in het eerste lid, het certificaat van vakbekwaamheid springmeester, bedoeld in het tweede lid, dan wel het getuigschrift van schietmeester, bedoeld in het derde lid, of een afschrift daarvan zijn op de arbeidsplaats beschikbaar en worden desgevraagd getoond aan de toezichthouder. 
@@ -2593,8 +2593,8 @@ d.een omschrijving van de procedures, bedoeld in het eerste lid.
 
 ####Professioneel vuurwerk
 
-1.  Arbeid waarbij consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) tot ontbranding worden gebracht, ten behoeve daarvan ter plaatse worden opgebouwd, geïnstalleerd, gemonteerd, geassembleerd, dan wel na ontbranding verwijderd, wordt verricht volgens een aanvulling op de risico-inventarisatie en -evaluatie, die een deugdelijke beschrijving bevat van de uit te voeren werkzaamheden, de daaraan verbonden gevaren en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen worden.  
-2. De arbeid, bedoeld in het eerste lid, alsmede arbeid bestaande uit het bewerken van consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik in een inrichting als bedoeld in [artikel 3.2.1](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) of [3A.2.1 van het Vuurwerkbesluit](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md), wordt verricht door of onder voortdurend toezicht van een persoon, die in het bezit is van een certificaat van vakbekwaamheid consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik dat is afgegeven door Onze Minister of een certificerende instelling. 
+1.  Arbeid waarbij consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit tot ontbranding worden gebracht, ten behoeve daarvan ter plaatse worden opgebouwd, geïnstalleerd, gemonteerd, geassembleerd, dan wel na ontbranding verwijderd, wordt verricht volgens een aanvulling op de risico-inventarisatie en -evaluatie, die een deugdelijke beschrijving bevat van de uit te voeren werkzaamheden, de daaraan verbonden gevaren en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen worden.  
+2. De arbeid, bedoeld in het eerste lid, alsmede arbeid bestaande uit het bewerken van consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik in een inrichting als bedoeld in artikel 3.2.1 of 3A.2.1 van het Vuurwerkbesluit, wordt verricht door of onder voortdurend toezicht van een persoon, die in het bezit is van een certificaat van vakbekwaamheid consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik dat is afgegeven door Onze Minister of een certificerende instelling. 
 3.  De in het eerste lid bedoelde aanvulling op de risico-inventarisatie en -evaluatie en het in het tweede lid bedoelde certificaat van vakbekwaamheid, of een afschrift daarvan, zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan de toezichthouder.  
 
 ### Artikel  4.10  
@@ -2627,7 +2627,7 @@ g.overdragen: het overdragen van de conventionele explosieven aan een van de exp
 
 ####Onderzoek
 
-1. Iedere werknemer die voor de eerste keer kan worden blootgesteld aan gevaarlijke stoffen, wordt, in aanvulling op [artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in de gelegenheid gesteld om vóór de aanvang van de werkzaamheden waarbij blootstelling kan ontstaan een arbeidsgezondheidskundig onderzoek te ondergaan. 
+1. Iedere werknemer die voor de eerste keer kan worden blootgesteld aan gevaarlijke stoffen, wordt, in aanvulling op artikel 18 van de wet, in de gelegenheid gesteld om vóór de aanvang van de werkzaamheden waarbij blootstelling kan ontstaan een arbeidsgezondheidskundig onderzoek te ondergaan. 
 2. Indien bij een werknemer een schadelijke invloed op de gezondheid dan wel een aantoonbare ziekte wordt geconstateerd die het gevolg zou kunnen zijn van blootstelling aan gevaarlijke stoffen, worden werknemers, die op soortgelijke wijze zijn blootgesteld, tussentijds in de gelegenheid gesteld een arbeidsgezondheidskundig onderzoek te ondergaan. 
 3. Op verzoek van de werkgever of de betrokken werknemer wordt het arbeidsgezondheidskundig onderzoek opnieuw aangeboden, dan wel opnieuw uitgevoerd. De resultaten van het hernieuwde onderzoek treden in de plaats van het daaraan voorafgaande. 
 4. De werknemer wordt geïnformeerd over de wijze waarop hij na beëindiging van de blootstelling in de gelegenheid wordt gesteld een arbeidsgezondheidskundig onderzoek te ondergaan. 
@@ -2665,7 +2665,7 @@ b.bij het overschrijden van de biologische grenswaarde.
 
 ####Voorlichting en onderricht
 
-1. In alle gevallen waarbij arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in overeenstemming met [artikel 8 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan:
+1. In alle gevallen waarbij arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, wordt in overeenstemming met artikel 8 van de wet, voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan:
 
 a.de mogelijke gevaren voor de veiligheid en de gezondheid die zijn verbonden aan het werken met gevaarlijke stoffen op grond van de resultaten van de beoordeling, bedoeld in artikel 4.2;
 
@@ -2736,7 +2736,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunne
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie
 
-In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of aan stoffen die vrijkomen bij kankerverwekkende processen, worden, met betrekking tot deze stoffen of processen in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en in aanvulling op artikel 4.2, in ieder geval de volgende gegevens opgenomen:
+In alle gevallen waarin arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of aan stoffen die vrijkomen bij kankerverwekkende processen, worden, met betrekking tot deze stoffen of processen in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet en in aanvulling op artikel 4.2, in ieder geval de volgende gegevens opgenomen:
 
 a.de reden waarom het gebruik van een kankerverwekkende stof of het toepassen van een kankerverwekkend proces voor het verrichten van de arbeid strikt noodzakelijk is en vervanging technisch niet uitvoerbaar is;
 
@@ -2868,7 +2868,7 @@ a. asbest: stoffen die een of meer van de volgende vezelachtige silicaten bevatt
 
 b. asbesthoudende producten: producten die een of meer van de onder *a* genoemde vezelachtige silicaten bevatten;  
 
-c. vezel: een deeltje dat langer is dan 5 micrometer, een breedte heeft van minder dan 3 micrometer en een lengte/breedteverhouding van meer dan 3/1; 
+c. asbestvezel: een asbestdeeltje dat langer is dan 5 micrometer, een breedte heeft van minder dan 3 micrometer en een lengte/breedteverhouding van meer dan 3/1; 
 
 d.object: constructie, installatie, apparaat of transportmiddel, niet zijnde een bouwwerk. 
 
@@ -2891,7 +2891,7 @@ Indien arbeid wordt verricht waarbij werknemers worden of kunnen worden blootges
 
 ####Toepasselijkheid
 
-Deze afdeling is van toepassing op werkzaamheden met betrekking tot asbest of asbesthoudende producten indien de concentratie asbest hoger is dan honderd milligram per kilogram droge stof als bedoeld in [artikel 2, onderdeel b, van het Productenbesluit asbest](../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md).
+Deze afdeling is van toepassing op werkzaamheden met betrekking tot asbest of asbesthoudende producten indien de concentratie asbest hoger is dan honderd milligram per kilogram droge stof als bedoeld in artikel 2, onderdeel b, van het Productenbesluit asbest.
 
 ### §  2  
 
@@ -2907,13 +2907,13 @@ Vervallen per 08-03-2005
 
 ####Risicoklasse 1
 
-Deze paragraaf is van toepassing, indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van asbeststof in de lucht, waaraan werknemers in verband met de arbeid worden blootgesteld, lager is dan of gelijk is aan de grenswaarde, bedoeld in artikel 4.46. 
+Deze paragraaf is van toepassing, indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van asbestvezels in de lucht, waaraan werknemers in verband met de arbeid kunnen worden blootgesteld, lager is dan of gelijk is aan de grenswaarden, bedoeld in artikel 4.46. 
 
 ### Artikel  4.45  
 
 ####Preventieve maatregelen
 
-1. De concentratie van asbeststof in de lucht wordt zo laag mogelijk onder de grenswaarde, bedoeld in artikel 4.46, gehouden.  
+1. De concentratie van asbestvezels in de lucht wordt zo laag mogelijk onder de grenswaarden, bedoeld in artikel 4.46, gehouden.  
 2.  Ter naleving van het eerste lid worden de volgende maatregelen genomen: 
 
 a.de werkmethoden zijn zo ingericht dat er geen asbeststof wordt geproduceerd of indien dat technisch niet mogelijk is, dat geen asbeststof in de lucht vrijkomt;
@@ -2923,7 +2923,7 @@ b. gebouwen, installaties en uitrustingen die dienen voor het toepassen of het b
 c. asbest, een asbesthoudend product en een product waaruit asbeststof vrijkomt worden opgeborgen en vervoerd in een daartoe geschikte en gesloten verpakking;  
 
 d. afvalstoffen, ontstaan als gevolg van het toepassen of bewerken van asbest of van asbesthoudende producten, worden zo spoedig mogelijk verzameld en afgevoerd in een daartoe geschikte en gesloten verpakking, voorzien van een etiket met de duidelijke en goed leesbare vermelding dat de inhoud daarvan asbest bevat.     
-3. Artikel 4.20, vierde lid, voorzover het de beschikbaarheid van douches betreft, is niet van toepassing indien de concentratie van asbeststof in de lucht is ingedeeld in risicoklasse 1.
+3. Artikel 4.20, vierde lid, voorzover het de beschikbaarheid van douches betreft, is niet van toepassing indien de concentratie van asbestvezels in de lucht is ingedeeld in risicoklasse 1.
 
 ###Artikel 4.45a 
 
@@ -2968,37 +2968,38 @@ i.de eisen inzake medisch toezicht.
 
 ### Artikel  4.46  
 
-####Grenswaarde
+####Grenswaarden
 
-De concentratie van asbeststof in de lucht overschrijdt niet de grenswaarde van 0,01 vezel per kubieke centimeter, berekend over een referentieperiode van acht uur. 
+1.  De concentratie van asbestvezels van het type chrysotiel overschrijdt niet de grenswaarde van 2.000 vezels per kubieke meter, berekend over een referentieperiode van acht uur per dag.   
+2.  De concentratie van de amfibole asbestvezels actinoliet, amosiet, anthofylliet, tremoliet en crocidoliet overschrijdt gezamenlijk niet de grenswaarde van 10.000 vezels per kubieke meter, berekend over een referentieperiode van acht uur per dag.  
 
 ### Artikel  4.47  
 
 ####Meten en monsterneming
 
-1. Om de naleving van de grenswaarde, bedoeld in artikel 4.46, te kunnen waarborgen, wordt, in het kader van de risicobeoordeling, bedoeld in artikel 4.2, de concentratie asbeststof in de lucht waaraan de werknemers in verband met de arbeid worden blootgesteld, gemeten. 
+1.  Om de naleving van de grenswaarden, bedoeld in artikel 4.46, te kunnen waarborgen, worden, in het kader van de risicobeoordeling, bedoeld in artikel 4.2, in de lucht waaraan de werknemers in verband met de arbeid worden blootgesteld de concentraties, bedoeld in artikel 4.46, gemeten.  
 2. Het meten geschiedt op gezette tijden, afhankelijk van de resultaten van de eerste risicobeoordeling, bedoeld in artikel 4.2. 
-3. De meting wordt uitgevoerd overeenkomstig een bij ministeriële regeling vast te stellen methode of een andere methode, indien deze gelijkwaardige resultaten oplevert. 
+3.  De meting wordt uitgevoerd overeenkomstig een voor dat doel geschikte genormaliseerde methode of een andere methode, indien deze gelijkwaardige resultaten oplevert. Bij ministeriële regeling kunnen nadere regels worden gesteld over deze methodes.  
 4. De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers wordt de gelegenheid gegeven een oordeel over de wijze van monsterneming kenbaar te maken. 
-5. De monsterneming is representatief voor de individuele blootstelling van de werknemers aan asbeststof. 
-6. De monsterneming wordt zodanig uitgevoerd dat door meting, of door berekening van deze meting, gewogen in de tijd, de blootstelling van werknemers aan asbeststof kan worden vastgesteld die representatief is voor een referentieperiode van 8 uur. 
+5. De monsterneming is representatief voor de individuele blootstelling van de werknemers aan asbestvezels. 
+6. De monsterneming wordt zodanig uitgevoerd dat door meting, of door berekening van deze meting, gewogen in de tijd, de blootstelling van werknemers aan asbestvezels kan worden vastgesteld die representatief is voor een referentieperiode van 8 uur. 
 7. Het nemen van monsters wordt uitgevoerd door een persoon die de daarvoor vereiste deskundigheid bezit. 
 8. De na het nemen van monsters uit te voeren monsteranalyse wordt uitgevoerd in een laboratorium dat daarvoor adequaat is toegerust alsmede ervaring heeft met de vereiste identificatietechnieken. 
 9. De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers kunnen de resultaten van de metingen inzien en kunnen over de betekenis van deze resultaten uitleg krijgen. 
 
 ###Artikel 4.47a 
 
-####Maatregelen bij overschrijding van de grenswaarde
+####Maatregelen bij overschrijding van een grenswaarde
 
-1. Bij overschrijding van de grenswaarde, bedoeld in artikel 4.46, worden de oorzaken voor de overschrijding opgespoord en worden zo spoedig mogelijk doeltreffende maatregelen genomen om de concentratie terug te brengen tot beneden die waarde. 
+1. Bij overschrijding van een grenswaarde, bedoeld in artikel 4.46, worden de oorzaken voor de overschrijding opgespoord en worden zo spoedig mogelijk doeltreffende maatregelen genomen om de concentratie terug te brengen tot beneden die waarde. 
 2. De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers worden zo spoedig mogelijk in kennis gesteld van de overschrijding, van de oorzaak daarvan en de te nemen maatregelen. Daarnaast wordt hen de gelegenheid gegeven een oordeel kenbaar te maken over de maatregelen, bedoeld in het eerste lid, tenzij sprake is van spoedeisende redenen om zonder deze gelegenheid te bieden, deze maatregelen te nemen. In dat geval worden zij ingelicht over de getroffen maatregelen. 
-3. Zolang de in het eerste lid bedoelde maatregelen om de concentratie terug te brengen nog niet volledig ten uitvoer zijn gelegd, wordt de arbeid op de betreffende arbeidsplaats alleen voortgezet indien de betrokken werknemers doeltreffend zijn beschermd tegen blootstelling aan asbeststof. 
-4. Wanneer in de situatie, bedoeld in het derde lid, de blootstelling niet met andere middelen kan worden beperkt en de grenswaarde het dragen van individuele ademhalingsapparatuur vereist, wordt de duur van het dragen daarvan voor iedere werknemer tot het strikt noodzakelijke beperkt. 
+3. Zolang de in het eerste lid bedoelde maatregelen om de concentratie terug te brengen nog niet volledig ten uitvoer zijn gelegd, wordt de arbeid op de betreffende arbeidsplaats alleen voortgezet indien de betrokken werknemers doeltreffend zijn beschermd tegen blootstelling aan asbestvezels. 
+4. Wanneer in de situatie, bedoeld in het derde lid, de blootstelling niet met andere middelen kan worden beperkt en een grenswaarde het dragen van individuele ademhalingsapparatuur vereist, wordt de duur van het dragen daarvan voor iedere werknemer tot het strikt noodzakelijke beperkt. 
 5. Wanneer individuele ademhalingsapparatuur wordt gebruikt, wordt voorzien in rustpauzes. 
 6. Het aantal rustpauzes, bedoeld in het vijfde lid, en de duur daarvan wordt bepaald door de fysieke en klimatologische belasting waaronder de werknemer de werkzaamheden moet verrichten. 
 7. Bij het ontbreken van een ondernemingsraad of een personeelsvertegenwoordiging worden de rustpauzes, bedoeld in het vijfde lid, zo nodig vastgesteld in samenspraak met de belanghebbende werknemers. 
-8. Nadat de maatregelen, bedoeld in het eerste lid, zijn genomen wordt de concentratie van asbeststof in de lucht gemeten overeenkomstig artikel 4.47 en wordt de indeling in een risicoklasse als bedoeld in de artikelen 4.44, 4.48 of 4.53a opnieuw bepaald. 
-9. Indien uit de meting, bedoeld in het achtste lid, blijkt dat de concentratie in een hogere risicoklasse wordt ingedeeld, is tevens paragraaf 4 of 5 van deze afdeling van toepassing.
+8. Nadat de maatregelen, bedoeld in het eerste lid, zijn genomen worden de concentraties van asbestvezels in de lucht gemeten overeenkomstig artikel 4.47 en wordt de indeling in een risicoklasse als bedoeld in de artikelen 4.44, 4.48 of 4.53a opnieuw bepaald. 
+9. Indien uit de meting, bedoeld in het achtste lid, blijkt dat een concentratie in een hogere risicoklasse wordt ingedeeld, is tevens paragraaf 4 of 5 van deze afdeling van toepassing.
 
 ### Artikel 4.47b 
 
@@ -3017,7 +3018,7 @@ a.de plaats waar de werkzaamheden worden verricht;
 
 b.de soorten en hoeveelheden asbesthoudende producten;
 
-c.de werkzaamheden die met asbest of asbesthoudende producten worden verricht, de werkmethoden alsmede de indeling van de concentratie asbeststof in de lucht in een risicoklasse;
+c.de werkzaamheden die met asbest of asbesthoudende producten worden verricht, de werkmethoden alsmede de indeling van de concentraties asbestvezels in de lucht in een risicoklasse;
 
 d.het aantal betrokken werknemers;
 
@@ -3036,18 +3037,18 @@ f.de maatregelen die zullen worden getroffen om blootstelling van werknemers aan
 
 ####Risicoklasse 2
 
-Indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van asbeststof in de lucht waaraan werknemers in verband met de arbeid worden blootgesteld, hoger is dan de grenswaarde, bedoeld in artikel 4.46, maar lager is dan of gelijk is aan 1 vezel per kubieke centimeter, uitgaande van een referentieperiode van acht uur, is in aanvulling op paragraaf 3 tevens deze paragraaf van toepassing. 
+Indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentraties van asbestvezels in de lucht waaraan werknemers in verband met de arbeid kunnen worden blootgesteld, hoger is dan een grenswaarde als bedoeld in artikel 4.46, maar lager is dan of gelijk is aan 1.000.000 vezels per kubieke meter, uitgaande van een referentieperiode van acht uur, is in aanvulling op paragraaf 3 tevens deze paragraaf van toepassing. 
 
 ###Artikel 4.48a 
 
 ####Aanvullende maatregelen
 
-1. Indien, gelet op de aard van de werkzaamheden, overschrijding van de grenswaarde, bedoeld in artikel 4.46, kan worden verwacht ondanks preventieve technische maatregelen ter beperking van de asbestconcentratie in de lucht, neemt de werkgever doeltreffende maatregelen ter bescherming van de betrokken werknemers. 
+1. Indien, gelet op de aard van de werkzaamheden, overschrijding van een grenswaarde, bedoeld in artikel 4.46, kan worden verwacht ondanks preventieve technische maatregelen ter beperking van de asbestconcentratie in de lucht, neemt de werkgever doeltreffende maatregelen ter bescherming van de betrokken werknemers. 
 2. Tot de maatregelen, bedoeld in het eerste lid, behoren in ieder geval:
 
 a.het ter beschikking stellen en het verplichten te dragen van passende ademhalingsapparatuur en andere persoonlijke beschermingsmiddelen;
 
-b.het aanbrengen van waarschuwingsborden die voldoen aan het bij of krachtens afdeling 2 van hoofdstuk 8 bepaalde, ter aanduiding dat een overschrijding van de in artikel 4.46 genoemde grenswaarde kan worden verwacht;
+b.het aanbrengen van waarschuwingsborden die voldoen aan het bij of krachtens afdeling 2 van hoofdstuk 8 bepaalde, ter aanduiding dat een overschrijding van een in artikel 4.46 genoemde grenswaarde kan worden verwacht;
 
 c.het voorkomen van de verspreiding van stof afkomstig van asbest of asbesthoudende materialen buiten de ruimten waar de werkzaamheden plaatsvinden. 
 3. De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers wordt de gelegenheid gegeven een oordeel kenbaar te maken over de maatregelen, bedoeld in het eerste lid. 
@@ -3085,9 +3086,9 @@ d.de namen van de werknemers en personen, bedoeld in artikel 4.54d, vijfde en ze
 ####Eindbeoordeling
 
 1. Na de werkzaamheden wordt na reiniging van de arbeidsplaats en voordat met andere werkzaamheden een aanvang wordt gemaakt, op de betreffende arbeidsplaats in een binnenruimte een eindbeoordeling uitgevoerd waarbij de monsterneming wordt uitgevoerd door een persoon als bedoeld in artikel 4.47, zevende lid, en de monsteranalyse door een laboratorium als bedoeld in artikel 4.47, achtste lid. 
-2. De eindbeoordeling, bedoeld in het eerste lid, betreft een visuele inspectie gevolgd door een eindmeting, teneinde vast te stellen of de concentratie van asbeststof in de lucht lager is dan 0,01 vezel per kubieke centimeter, uitgaande van een referentieperiode van twee uur. 
+2. De eindbeoordeling, bedoeld in het eerste lid, betreft een visuele inspectie gevolgd door een eindmeting, teneinde vast te stellen of de concentratie van asbestvezels in de lucht lager is dan 10.000 vezels per kubieke meter, uitgaande van een referentieperiode van ten minste twee uur. 
 3. Na de werkzaamheden wordt na reiniging van de arbeidsplaats en voordat met andere werkzaamheden een aanvang wordt gemaakt, op de betreffende arbeidsplaats in de buitenlucht door een bedrijf dat daartoe adequaat is toegerust een visuele inspectie uitgevoerd, waarbij is vastgesteld dat de aanwezigheid van asbest niet meer visueel waarneembaar is. 
-4. Indien de werkzaamheden in de buitenlucht betrekking hebben op asbesthoudende grond, wordt na het beëindigen van die werkzaamheden door een bedrijf dat daartoe adequaat is toegerust, een visuele inspectie uitgevoerd op de aanwezigheid van asbest teneinde vast te stellen dat de concentratie asbest niet hoger is dan honderd milligram per kilogram droge stof als bedoeld in [artikel 2, onderdeel b, van het Productenbesluit asbest](../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md). 
+4. Indien de werkzaamheden in de buitenlucht betrekking hebben op asbesthoudende grond, wordt na het beëindigen van die werkzaamheden door een bedrijf dat daartoe adequaat is toegerust, een visuele inspectie uitgevoerd op de aanwezigheid van asbest teneinde vast te stellen dat de concentratie asbest niet hoger is dan honderd milligram per kilogram droge stof als bedoeld in artikel 2, onderdeel b, van het Productenbesluit asbest. 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de monsterneming, bedoeld in het eerste lid, de eindmeting, bedoeld in het tweede lid, en de visuele inspectie, bedoeld in het tweede, derde en vierde lid.
 
 ### Artikel  4.52  
@@ -3116,7 +3117,7 @@ d.de namen van de werknemers en personen, bedoeld in artikel 4.54d, vijfde en ze
 
 ####Risicoklasse 3
 
-Indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van asbeststof in de lucht waaraan werknemers in verband met de arbeid worden blootgesteld, hoger is dan 1 vezel per kubieke centimeter, uitgaande van een referentieperiode van acht uur, is in aanvulling op de paragrafen 3 en 4 tevens deze paragraaf van toepassing.
+Indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van asbestvezels in de lucht waaraan werknemers in verband met de arbeid kunnen worden blootgesteld, hoger is dan 1.000.000 vezels per kubieke meter, uitgaande van een referentieperiode van 8 uur, is in aanvulling op de paragrafen 3 en 4 tevens deze paragraaf van toepassing.
 
 ### Artikel  4.53b  
 
@@ -3189,13 +3190,13 @@ g.het geheel of gedeeltelijk verwijderen van asbesthoudende pakkingen uit verbra
 
 h.het geheel of gedeeltelijk verwijderen van asbesthoudende pakkingen dan wel delen daarvan uit procesinstallaties dan wel verwarmingstoestellen met een nominaal vermogen lager dan 2250 kilowatt;
 
-i.het geheel of gedeeltelijk verwijderen van asbest of asbesthoudende producten uit wegen als bedoeld in het [Besluit asbestwegen milieubeheer](../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).
+i.het geheel of gedeeltelijk verwijderen van asbest of asbesthoudende producten uit wegen als bedoeld in het Besluit asbestwegen milieubeheer.
 
 ### Artikel 4.54d 
 
 ####Deskundigheid bij het werken met asbest
 
-1. De volgende werkzaamheden, indien de concentratie van asbeststof is ingedeeld in risicoklasse 2 of 3, worden verricht door een bedrijf dat in het bezit is van een certificaat asbestverwijdering, dat is afgegeven door Onze Minister of een certificerende instelling:
+1. De volgende werkzaamheden, indien de concentratie van asbestvezels is ingedeeld in risicoklasse 2 of 3, worden verricht door een bedrijf dat in het bezit is van een certificaat asbestverwijdering, dat is afgegeven door Onze Minister of een certificerende instelling:
 
 a.de werkzaamheden, bedoeld in artikel 4.54a, eerste lid;
 
@@ -3206,7 +3207,7 @@ b.het reinigen van de arbeidsplaats nadat een handeling als bedoeld in artikel 4
 5. De werkzaamheden, bedoeld in het eerste lid, worden verricht door of onder voortdurend toezicht van een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het werken met asbest, dat is afgegeven door Onze Minister of een certificerende instelling. 
 6. Bij een bedrijf als bedoeld in het eerste lid is ten minste één persoon als bedoeld in het vijfde lid werkzaam op basis van een arbeidsovereenkomst. 
 7. Voorzover de werkzaamheden, bedoeld in het eerste lid, mede worden verricht door een andere persoon dan de persoon, bedoeld in het vijfde lid, is deze andere persoon in het bezit van een certificaat vakbekwaamheid voor het verwijderen van asbest, dat is afgegeven door Onze Minister of een certificerende instelling. 
-8. Indien de handelingen, bedoeld in [artikel 5, onderdelen e en f, van het Productenbesluit asbest](../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md) betrekking hebben op werkzaamheden met asbesthoudende grond, worden deze werkzaamheden begeleid door een persoon die in het bezit is van een certificaat van vakbekwaamheid arbeidhygiëne of veiligheidskunde als bedoeld in artikel 2.7, tweede lid. 
+8. Indien de handelingen, bedoeld in artikel 5, onderdelen e en f, van het Productenbesluit asbest betrekking hebben op werkzaamheden met asbesthoudende grond, worden deze werkzaamheden begeleid door een persoon die in het bezit is van een certificaat van vakbekwaamheid arbeidhygiëne of veiligheidskunde als bedoeld in artikel 2.7, tweede lid. 
 9. De certificaten, bedoeld in het eerste, vijfde en zevende lid, of afschriften daarvan en een afschrift van het inventarisatierapport, bedoeld in artikel 4.54a, derde lid, zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan de toezichthouder.
 
 ### §  7  
@@ -3249,7 +3250,7 @@ d. 4-nitrodifenyl (CAS-nummer 92–93–3).
 1.  Het is verboden zandsteen te bewerken of te verwerken.   
 2.  Het eerste lid is niet van toepassing: 
 
-a. op het bewerken of verwerken van zandsteen indien dit noodzakelijk is voor het behoud van monumenten als bedoeld in de [Monumentenwet 1988](../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
+a. op het bewerken of verwerken van zandsteen indien dit noodzakelijk is voor het behoud van monumenten als bedoeld in de Monumentenwet 1988;  
 
 b. op het demonteren van zandsteen of zandsteendelen uit gebouwen, constructies of installaties, en  
 
@@ -3362,7 +3363,7 @@ d.categorie 4: een agens dat bij de mens een ernstige ziekte veroorzaakt en een 
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie
 
-1. Indien een werknemer wordt of kan worden blootgesteld aan een of meer specifiek bij zijn arbeid voorkomende of naar verwachting voorkomende biologische agentia, wordt, in het kader van de in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) bedoelde risico-inventarisatie en -evaluatie, de aard, de mate en de duur van de blootstelling beoordeeld teneinde het gevaar voor de werknemer te bepalen. Deze beoordeling geschiedt met inachtneming van met name: 
+1. Indien een werknemer wordt of kan worden blootgesteld aan een of meer specifiek bij zijn arbeid voorkomende of naar verwachting voorkomende biologische agentia, wordt, in het kader van de in artikel 5 van de wet bedoelde risico-inventarisatie en -evaluatie, de aard, de mate en de duur van de blootstelling beoordeeld teneinde het gevaar voor de werknemer te bepalen. Deze beoordeling geschiedt met inachtneming van met name: 
 
 a. de categorie of categorieën,waarin de biologische agentia waaraan werknemers kunnen worden blootgesteld, zijn ingedeeld;  
 
@@ -3424,7 +3425,7 @@ g.op de arbeidsplaats is een doeltreffende schriftelijke werkinstructie voor de 
 
 a.een luchtbevochtigingsinstallatie anders dan een stoombevochtiger;
 
-b.een waterinstallatie die water in aërosolvorm in de lucht kan brengen, niet zijnde een collectieve watervoorziening of een collectief leidingnet als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);zijn de maatregelen, bedoeld in artikel 4.87a, eerste en tweede lid, ter voorkoming of beperking van de blootstelling aan legionellabacteriën, doeltreffend, indien het water in deze installaties minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat. 
+b.een waterinstallatie die water in aërosolvorm in de lucht kan brengen, niet zijnde een collectieve watervoorziening of een collectief leidingnet als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet;zijn de maatregelen, bedoeld in artikel 4.87a, eerste en tweede lid, ter voorkoming of beperking van de blootstelling aan legionellabacteriën, doeltreffend, indien het water in deze installaties minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat. 
 2. Het nemen en analyseren van monsters ter controle van de aanwezigheid van legionellabacteriën geschiedt overeenkomstig een geschikte genormaliseerde methode.
 3. Dit artikel is niet van toepassing op koeltorens.
 
@@ -3465,7 +3466,7 @@ d. ondanks behandeling steeds weer terugkeren, of
 
 e. ernstige complicaties op lange termijn hebben, wordt het in het eerste lid bedoelde register een navenant langere tijd doch niet meer dan veertig jaar na de laatste blootstelling bewaard.     
 5.  Iedere werknemer heeft recht op inzage in de hem betreffende gegevens uit het register.   
-6.  Aan de bedrijfsarts, bedoeld in [artikel 14, eerste lid, aanhef, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), of de arbodienst wordt desgevraagd inzage verschaft in het register, bedoeld in het eerste lid.  
+6.  Aan de bedrijfsarts, bedoeld in artikel 14, eerste lid, aanhef, van de wet, of de arbodienst wordt desgevraagd inzage verschaft in het register, bedoeld in het eerste lid.  
 
 ### §  4  
 
@@ -3475,7 +3476,7 @@ e. ernstige complicaties op lange termijn hebben, wordt het in het eerste lid be
 
 ####Onderzoek en vaccins
 
-1. Iedere werknemer die is of kan worden blootgesteld aan biologische agentia wordt, in aanvulling op [artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in de gelegenheid gesteld bij de aanvang van de arbeid waarbij blootstelling kan ontstaan, een arbeidsgezondheidskundig onderzoek te ondergaan.  
+1. Iedere werknemer die is of kan worden blootgesteld aan biologische agentia wordt, in aanvulling op artikel 18 van de wet, in de gelegenheid gesteld bij de aanvang van de arbeid waarbij blootstelling kan ontstaan, een arbeidsgezondheidskundig onderzoek te ondergaan.  
 2.  Iedere werknemer die een infectie of ziekte heeft opgelopen als gevolg van blootstelling aan een biologisch agens, wordt, in aanvulling op het eerste lid, tussentijds in de gelegenheid gesteld een arbeidsgezondheidskundig onderzoek te ondergaan.   
 3.  Iedere werknemer die aan een zelfde biologisch agens is blootgesteld als gevolg waarvan een andere werknemer een infectie of ziekte heeft opgelopen, wordt, in aanvulling op het eerste lid, tussentijds in de gelegenheid gesteld een arbeidsgezondheidskundig onderzoek te ondergaan.   
 4.  Het arbeidsgezondheidskundig onderzoek vindt plaats met inachtneming van de praktische aanbevelingen, opgenomen in bijlage IV bij de richtlijn.   
@@ -3510,7 +3511,7 @@ c. het aantal werknemers dat aan biologische agentia wordt of kan worden blootge
 
 d. de naam en de functie van de persoon die verantwoordelijk is voor de veiligheid en de gezondheid op het werk;  
 
-e. de genomen preventieve en beschermende maatregelen waaronder mede wordt verstaan de werkinstructie, bedoeld in artikel 4.87, vierde lid, de toegepaste arbeidsprocédés en werkmethoden.     
+e. de genomen preventieve en beschermende maatregelen bedoeld in artikel 4.87a, derde lid, waaronder mede wordt verstaan de werkinstructie, de toegepaste arbeidsprocédés en werkmethoden.     
 2.  De ondernemingsraad of de personeelsvertegenwoordiging heeft of, bij het ontbreken daarvan, de belanghebbende werknemers hebben recht op inzage in de in dit artikel bedoelde informatie in statistische, niet tot individuen herleidbare vorm.  
 
 ### §  6  
@@ -3610,7 +3611,7 @@ Indien arbeid als bedoeld in deze paragraaf wordt verricht met biologische agent
 
 ####Voorlichting en onderricht
 
-1. Aan werknemers die arbeid verrichten als bedoeld in artikel 4.86, eerste en tweede lid wordt, in aanvulling op [artikel 8 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan: 
+1. Aan werknemers die arbeid verrichten als bedoeld in artikel 4.86, eerste en tweede lid wordt, in aanvulling op artikel 8 van de wet, voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan: 
 
 a. de mogelijke gevaren voor de gezondheid die zijn verbonden aan het werken met biologische agentia;  
 
@@ -3651,7 +3652,7 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk, gelden voor jeugdi
 
 ####Arbeidsverboden voor gevaarlijke stoffen en biologische agentia
 
-1.  Jeugdige werknemers verrichten geen arbeid met of worden niet blootgesteld aan stoffen die voldoen aan de krachtens [artikel 9.2.3.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor indeling in een of meer van de categorieën «zeer vergiftig», «vergiftig», «sensibiliserend», «kankerverwekkend», «mutageen» en «voor de voortplanting vergiftig», alsmede stoffen die voldoen aan de bij of krachtens die wet vastgestelde criteria voor toekenning van de R-zinnen 33 en 48.   
+1.  Jeugdige werknemers verrichten geen arbeid met of worden niet blootgesteld aan stoffen die voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling in een of meer van de categorieën «zeer vergiftig», «vergiftig», «sensibiliserend», «kankerverwekkend», «mutageen» en «voor de voortplanting vergiftig», alsmede stoffen die voldoen aan de bij of krachtens die wet vastgestelde criteria voor toekenning van de R-zinnen 33 en 48.   
 2.  Jeugdige werknemers verrichten geen arbeid met of worden niet blootgesteld aan biologische agentia van categorie 3 of 4, bedoeld in afdeling 9 van dit hoofdstuk.   
 3.  Voorts verrichten jeugdige werknemers geen arbeid aan of met kuipen, bassins, leidingen of reservoirs waarin zich een of meer van de in het eerste of tweede lid bedoelde stoffen of biologische agentia bevinden.  
 
@@ -3661,11 +3662,11 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk, gelden voor jeugdi
 
 Artikel 1.37, tweede lid, is van overeenkomstige toepassing op jeugdige werknemers die: 
 
-a. arbeid verrichten met stoffen die voldoen aan de krachtens [artikel 9.2.3.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor indeling: 
+a. arbeid verrichten met stoffen die voldoen aan de krachtens artikel 9.2.3.1 van de Wet milieubeheer vastgestelde criteria voor indeling: 
 
 1. in een of meer van de categorieën, «ontplofbaar», «bijtend» en «irriterend»;  
 
-2. in de categorie «schadelijk», indien deze stoffen tevens voldoen aan de bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor toekenning van R-zin 40 of 68;    
+2. in de categorie «schadelijk», indien deze stoffen tevens voldoen aan de bij of krachtens de Wet milieubeheer vastgestelde criteria voor toekenning van R-zin 40 of 68;    
 
 b. arbeid verrichten met persgassen, onder druk vloeibaar gemaakte gassen, door sterke temperatuurverlaging vloeibaar gemaakte gassen en opgeloste gassen;  
 
@@ -3730,7 +3731,7 @@ Voorzover de gevaren, bedoeld in artikel 5.2, redelijkerwijs niet kunnen worden 
 
 a.wordt met inachtneming van bijlage I bij de richtlijn, de arbeid zodanig georganiseerd, de arbeidsplaats zodanig ingericht, een zodanige productie- en werkmethode toegepast of worden zodanige hulpmiddelen en persoonlijke beschermingsmiddelen gebruikt dat die gevaren zoveel als redelijkerwijs mogelijk is worden beperkt;
 
-b.worden in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), met inachtneming van bijlage I bij de richtlijn, de veiligheids- en gezondheidsaspecten van de fysieke belasting beoordeeld, waarbij met name wordt gelet op de kenmerken van de last, de vereiste lichamelijke inspanning, de kenmerken van de werkomgeving en de eisen van de taak. 
+b.worden in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, met inachtneming van bijlage I bij de richtlijn, de veiligheids- en gezondheidsaspecten van de fysieke belasting beoordeeld, waarbij met name wordt gelet op de kenmerken van de last, de vereiste lichamelijke inspanning, de kenmerken van de werkomgeving en de eisen van de taak. 
 
 ### Artikel  5.4  
 
@@ -3788,7 +3789,7 @@ d. rekenmachines, kassa’s en andere apparatuur die voorzien zijn van een klein
 
 ####Risico-inventarisatie en -evaluatie
 
-1.  In de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), wordt specifiek aandacht besteed aan de gevaren voor het gezichtsvermogen en die van de fysieke en psychische belasting als gevolg van arbeid aan een beeldscherm.   
+1.  In de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, wordt specifiek aandacht besteed aan de gevaren voor het gezichtsvermogen en die van de fysieke en psychische belasting als gevolg van arbeid aan een beeldscherm.   
 2.  Op basis van de uitkomsten van de in het eerste lid bedoelde risico-inventarisatie en -evaluatie worden doeltreffende maatregelen genomen om de desbetreffende gevaren te ondervangen, rekening houdend met de gevolgen van die gevaren en de onderlinge samenhang daartussen.  
 
 ### Artikel  5.10  
@@ -3801,7 +3802,7 @@ De arbeid aan een beeldscherm is zodanig georganiseerd dat deze arbeid telkens n
 
 ####Maatregelen met betrekking tot de bescherming van de ogen en het gezichtsvermogen van de werknemers
 
-1. Iedere werknemer die voor de eerste keer wordt belast met arbeid aan een beeldscherm wordt, in aanvulling op [artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in de gelegenheid gesteld om voor de aanvang van die arbeid en op gezette tijden daarna een passend onderzoek van de ogen en het gezichtsvermogen te ondergaan.  
+1. Iedere werknemer die voor de eerste keer wordt belast met arbeid aan een beeldscherm wordt, in aanvulling op artikel 18 van de wet, in de gelegenheid gesteld om voor de aanvang van die arbeid en op gezette tijden daarna een passend onderzoek van de ogen en het gezichtsvermogen te ondergaan.  
 2.  De werknemer wordt opnieuw in de gelegenheid gesteld een onderzoek als bedoeld in het eerste lid, te ondergaan, indien zich bij hem gezichtsstoornissen voordoen die het gevolg kunnen zijn van het verrichten van arbeid aan een beeldscherm.   
 3.  Indien de resultaten van het onderzoek, bedoeld in het eerste en het tweede lid, dit vereisen, wordt de betrokken werknemer in de gelegenheid gesteld een oftalmologisch onderzoek te ondergaan.   
 4.  Indien de resultaten van het onderzoek, bedoeld in het eerste tot en met het derde lid, dit vereisen en normale oogcorrectiemiddelen niet kunnen worden gebruikt, worden aan de betrokken werknemer speciale, met de desbetreffende arbeid verband houdende, oogcorrectiemiddelen verstrekt.  
@@ -3877,8 +3878,8 @@ Vervallen per 01-07-2012
 2.  Luchtverversingsinstallaties zijn altijd bedrijfsklaar.  
 3. Luchtverversingsinstallaties functioneren zodanig dat werknemers niet aan hinderlijke tocht worden blootgesteld. 
 4.  Luchtverversingsinstallaties zijn voorzien van een controlesysteem dat storingen in de installatie signaleert voor zover dat noodzakelijk is voor de gezondheid van de werknemers.   
-5.  Het eerste lid is niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md).   
-6.  Een arbeidsplaats in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het [Bouwbesluit 2012](../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit.  
+5.  Het eerste lid is niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet.   
+6.  Een arbeidsplaats in een gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het Bouwbesluit 2012 gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit.  
 
 ### Afdeling  2  
 
@@ -4094,7 +4095,7 @@ b.de actiewaarde voor dagelijkse blootstelling, herleid tot een standaardreferen
 
 ####Nadere voorschriften risico-inventarisatie en -evaluatie, beoordelen en meten
 
-1. In het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), worden de niveaus van de mechanische trillingen waaraan de werknemer wordt blootgesteld, beoordeeld en indien nodig gemeten. 
+1. In het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, worden de niveaus van de mechanische trillingen waaraan de werknemer wordt blootgesteld, beoordeeld en indien nodig gemeten. 
 2. De beoordeling en de meting worden op zorgvuldige wijze gepland en met passende tussenpozen uitgevoerd.
 3. De beoordeling en de meting vinden plaats voor hand-armtrillingen overeenkomstig de punten 1 en 2 van deel A en voor lichaamstrillingen overeenkomstig de punten 1 en 2 van deel B van de bijlage bij de richtlijn.
 4. De resultaten van de meting worden in een passende vorm bewaard zodat latere raadpleging mogelijk is. 
@@ -4123,7 +4124,7 @@ i.door de arbeidsgezondheidskundige onderzoeken, bedoeld in artikel 6.11e, verkr
 
 ####Voorkomen of beperken van schadelijke trillingen
 
-1. Indien de actiewaarden, bedoeld in artikel 6.11a, tweede lid, onderdeel b, en derde lid, onderdeel b, worden of kunnen worden overschreden, wordt, met inachtneming van [artikel 3, eerste lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en in het daarbij behorende plan van aanpak aandacht besteed aan:
+1. Indien de actiewaarden, bedoeld in artikel 6.11a, tweede lid, onderdeel b, en derde lid, onderdeel b, worden of kunnen worden overschreden, wordt, met inachtneming van artikel 3, eerste lid, onderdeel b, van de wet in de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, en in het daarbij behorende plan van aanpak aandacht besteed aan:
 
 a.alternatieve werkmethoden die de noodzaak van blootstelling aan mechanische trillingen verminderen;
 
@@ -4174,7 +4175,7 @@ f.veilige werkmethoden om de blootstelling aan mechanische trillingen tot een mi
 
 ####Arbeidsgezondheidskundig onderzoek inzake trillingen
 
-1. Iedere werknemer die voor de eerste keer wordt belast met werkzaamheden die blijkens de beoordeling, bedoeld in artikel 6.11b, eerste lid, gevaren kunnen opleveren voor de veiligheid of gezondheid, wordt in aanvulling op [artikel 18 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), in de gelegenheid gesteld om vóór de aanvang van de werkzaamheden een arbeidsgezondheidskundig onderzoek te ondergaan. 
+1. Iedere werknemer die voor de eerste keer wordt belast met werkzaamheden die blijkens de beoordeling, bedoeld in artikel 6.11b, eerste lid, gevaren kunnen opleveren voor de veiligheid of gezondheid, wordt in aanvulling op artikel 18 van de wet, in de gelegenheid gesteld om vóór de aanvang van de werkzaamheden een arbeidsgezondheidskundig onderzoek te ondergaan. 
 2. Indien bij een werknemer een aandoening wordt geconstateerd die het gevolg zou kunnen zijn van blootstelling aan mechanische trillingen, worden werknemers, die op soortgelijke wijze zijn blootgesteld aan mechanische trillingen, tussentijds in de gelegenheid gesteld een arbeidsgezondheidskundig onderzoek te ondergaan. 
 3. Op verzoek van de werkgever of de betrokken werknemer wordt het arbeidsgezondheidskundig onderzoek opnieuw uitgevoerd. De resultaten van het hernieuwde onderzoek treden in de plaats van het daaraan voorafgaande. 
 4. Wanneer bij een werknemer als gevolg van blootstelling aan mechanische trillingen een aantoonbare ziekte of een schadelijke invloed op de gezondheid is vastgesteld, wordt hij door de deskundige persoon, bedoeld in artikel 2.14a, tweede lid, of de arbodienst, geïnformeerd over de wijze waarop hij na beëindiging van de blootstelling in de gelegenheid wordt gesteld een arbeidsgezondheidskundig onderzoek te ondergaan.
@@ -4265,7 +4266,7 @@ b. de grenswaarden voor blootstelling aan laserstraling, bedoeld in bijlage II b
 2.  De beoordeling, meting of berekening, bedoeld in het eerste lid, geschieden volgens de normen van de Internationale Elektrotechnische Commissie met betrekking tot laserstraling en de aanbevelingen van de Internationale Commissie voor Verlichtingskunde en de Europese Commissie voor Normalisatie met betrekking tot incoherente straling.   
 3.  In blootstellingssituaties die niet door de normen en de aanbevelingen, bedoeld in het tweede lid, worden bestreken, geschiedt de beoordeling, meting of berekening overeenkomstig de bij ministeriële regeling aan te wijzen normen met een wetenschappelijke grondslag.   
 4.  In de blootstellingssituaties, bedoeld in het tweede en derde lid, mag bij de beoordeling rekening worden gehouden met door de producent van de arbeidsmiddelen opgegeven informatie, wanneer die arbeidsmiddelen onder een toepasselijke communautaire richtlijn vallen.   
-5.  De beoordeling, meting en berekening, bedoeld in het eerste lid, worden op deskundige wijze gepland en met passende frequentie uitgevoerd door de deskundigen, bedoeld in artikel 13 van de wet, of de deskundigen of arbodiensten, bedoeld in de artikelen 14 en [14a van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en in ieder geval opnieuw uitgevoerd, indien de omstandigheden ingrijpend zijn gewijzigd of wanneer de resultaten van het arbeidsgezondheidskundig onderzoek, bedoeld in artikel 6.12g, dit nodig maken.   
+5.  De beoordeling, meting en berekening, bedoeld in het eerste lid, worden op deskundige wijze gepland en met passende frequentie uitgevoerd door de deskundigen, bedoeld in artikel 13 van de wet, of de deskundigen of arbodiensten, bedoeld in de artikelen 14 en 14a van de wet, en in ieder geval opnieuw uitgevoerd, indien de omstandigheden ingrijpend zijn gewijzigd of wanneer de resultaten van het arbeidsgezondheidskundig onderzoek, bedoeld in artikel 6.12g, dit nodig maken.   
 6.  De resultaten van de op grond van dit artikel uitgevoerde beoordelingen, metingen en berekeningen worden in passende vorm geregistreerd en bewaard, zodat latere raadpleging mogelijk is.   
 7.  De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers wordt de gelegenheid gegeven een oordeel kenbaar te maken over de wijze van beoordeling, meting en berekening, bedoeld in het eerste lid.   
 8.  De resultaten, bedoeld in het zesde lid, worden voorzien van een toelichting, ter kennis gebracht van de ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers.   
@@ -4433,13 +4434,6 @@ c. nabij de plaats waar de arbeid wordt verricht een daartoe opgeleid persoon aa
 d. nabij de plaats waar de arbeid wordt verricht een adequate eerste-hulpuitrusting aanwezig.     
 2.  De in het eerste lid, onder *c*, bedoelde persoon kan terstond in contact treden met een arts als bedoeld in artikel 6.14a, derde lid.  
 
-### Artikel  6.15a  
-
-####Certificering onderhoudssysteem duik- en caissonmaterieel
-
-1. Duikarbeid, caissonarbeid en overige arbeid onder overdruk worden verricht door een werkgever die in het bezit is van een certificaat Onderhoudssysteem duik- en caissonmaterieel, dat is afgegeven door Onze Minister of een certificerende instelling. 
-2. Het certificaat, bedoeld in het eerste lid, of een afschrift daarvan is op de arbeidsplaats aanwezig en wordt desgevraagd getoond aan de toezichthouder. 
-
 ### Artikel  6.16  
 
 ####Duikarbeid
@@ -4569,7 +4563,7 @@ Verlichtingsinstallaties zijn zodanig ontworpen dat operationele bedieningsruimt
 
 1.  Op luchtvaartuigen waarvoor vóór 1 januari 1997 een Nederlands of daaraan gelijkgesteld bewijs van luchtwaardigheid is afgegeven, zijn de artikelen 6.3 en 6.4 niet van toepassing, tenzij de naleving daarvan redelijkerwijs kan worden gevergd.   
 2.  Op zeeschepen die vóór 1 januari 1994 zijn gebouwd, zijn de artikelen 6.3 en 6.4 niet van toepassing, tenzij de naleving daarvan redelijkerwijs kan worden gevergd.  
-3. De bouwdatum van een zeeschip wordt bepaald aan de hand van hetgeen dienaangaande in [artikel 2 van het Schepenbesluit 2004](../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) of, indien het een zeegaand vissersvaartuig betreft, in het [Vissersvaartuigenbesluit](../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) of het [Vissersvaartuigenbesluit 2002](../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md) is bepaald.  
+3. De bouwdatum van een zeeschip wordt bepaald aan de hand van hetgeen dienaangaande in artikel 2 van het Schepenbesluit 2004 of, indien het een zeegaand vissersvaartuig betreft, in het Vissersvaartuigenbesluit of het Vissersvaartuigenbesluit 2002 is bepaald.  
 4.  Op voertuigen op een openbare weg of spoorweg die vóór 1 januari 1994 zijn gebouwd, zijn de artikelen 6.3 en 6.4 niet van toepassing, tenzij de naleving daarvan redelijkerwijs kan worden gevergd.  
 
 ### §  2  
@@ -4699,7 +4693,7 @@ In dit hoofdstuk wordt verstaan onder keuring: een onderzoek of een beproeving.
 
 ####Geschiktheid arbeidsmiddelen
 
-1.  Bij de keuze van de arbeidsmiddelen die de werkgever ter beschikking stelt, wordt rekening gehouden met de uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), gebleken specifieke kenmerken van de arbeid, met de omstandigheden waaronder deze wordt verricht, met de op de arbeidsplaats al bestaande gevaren en met de gevaren die daaraan zouden kunnen worden toegevoegd door het gebruik van de desbetreffende arbeidsmiddelen.   
+1.  Bij de keuze van de arbeidsmiddelen die de werkgever ter beschikking stelt, wordt rekening gehouden met de uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, gebleken specifieke kenmerken van de arbeid, met de omstandigheden waaronder deze wordt verricht, met de op de arbeidsplaats al bestaande gevaren en met de gevaren die daaraan zouden kunnen worden toegevoegd door het gebruik van de desbetreffende arbeidsmiddelen.   
 2.  Om te voorkomen dat het gebruik van arbeidsmiddelen gevaren voor de veiligheid en gezondheid van de werknemers oplevert, worden de arbeidsmiddelen die op de arbeidsplaats ter beschikking van de werknemers worden gesteld, uitsluitend gebruikt voor het doel, op de wijze en op de plaats waarvoor zij zijn ingericht en bestemd.   
 3.  Arbeidsmiddelen zijn voorts geschikt voor het uit te voeren werk of zijn daartoe behoorlijk aangepast.   
 4.  Voor zover het redelijkerwijs niet mogelijk is de gevaren bij het gebruik van de arbeidsmiddelen te voorkomen, worden zodanige maatregelen getroffen dat de gevaren zoveel mogelijk worden beperkt.  
@@ -4723,26 +4717,26 @@ In dit hoofdstuk wordt verstaan onder keuring: een onderzoek of een beproeving.
 4.  Een arbeidsmiddel als bedoeld in het derde lid wordt voorts gekeurd, waarbij het zo nodig wordt beproefd, telkens wanneer zich uitzonderlijke gebeurtenissen hebben voorgedaan die schadelijke gevolgen kunnen hebben voor de veiligheid van het arbeidsmiddel. Als uitzonderlijke gebeurtenissen worden in ieder geval aangemerkt: natuurverschijnselen, veranderingen aan het arbeidsmiddel, ongevallen met het arbeidsmiddel en langdurige buitengebruikstelling van het arbeidsmiddel.    
 5.  Keuringen worden uitgevoerd door een deskundige natuurlijke persoon, rechtspersoon of instelling.    
 6.  Schriftelijke bewijsstukken van de uitgevoerde keuringen zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan de toezichthouder.   
-7.  Dit artikel is niet van toepassing op attractie- en speeltoestellen waarop het [Warenwetbesluit attractie- en speeltoestellen](../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) van toepassing is.    
+7.  Dit artikel is niet van toepassing op attractie- en speeltoestellen waarop het Warenwetbesluit attractie- en speeltoestellen van toepassing is.    
 8.  Het eerste tot en met het vijfde lid zijn niet van toepassing op steigers waarop artikel 7.34 van toepassing is.    
 9.  Het eerste tot en met derde lid zijn niet van toepassing op:  
 
 a. hijs- en hefwerktuigen en hijs- en hefgereedschappen aan boord van schepen waarop artikel 7.29 van toepassing is;   
 
-b.  liften waarop het [Warenwetbesluit liften](../../../AMvB/besluit/liften/BWBR0008212/README.md) van toepassing is.     
+b.  liften waarop het Warenwetbesluit liften van toepassing is.     
 10.   Dit lid is nog niet in werking getreden.   
-11.   Het eerste en tweede lid zijn niet van toepassing op drukapparatuur waarop [artikel 12b van het Warenwetbesluit drukapparatuur](../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) van toepassing is.   
+11.   Het eerste en tweede lid zijn niet van toepassing op drukapparatuur waarop artikel 12b van het Warenwetbesluit drukapparatuur van toepassing is.   
 12.  Het derde lid is niet van toepassing op:  
 
 a. hijs- en hefgereedschap waarop artikel 7.20 van toepassing is;   
 
-b. containers waarop het [Warenwetbesluit containers](../../../AMvB/besluit/containers/BWBR0003584/README.md) van toepassing is;   
+b. containers waarop het Warenwetbesluit containers van toepassing is;   
 
-c. hijskranen waarop de [artikelen 6d tot en met 6f van het Warenwetbesluit machines](../../../AMvB/besluit/machines/BWBR0005884/README.md) van toepassing zijn;  
+c. hijskranen waarop de artikelen 6d tot en met 6f van het Warenwetbesluit machines van toepassing zijn;  
 
-d.drukapparatuur waarop [artikel 12c van het Warenwetbesluit drukapparatuur](../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) van toepassing is.   
-13. Het vierde lid is ten aanzien van wijzigingen of reparaties niet van toepassing op drukapparatuur waarop [artikel 12c van het Warenwetbesluit](../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) drukapparatuur van toepassing is. 
-14. Het eerste tot en met het derde lid zijn niet van toepassing op hijs- en hefwerktuigen voor beroepsmatig personenvervoer waarop het [Warenwetbesluit machines](../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) van toepassing is.
+d.drukapparatuur waarop artikel 12c van het Warenwetbesluit drukapparatuur van toepassing is.   
+13. Het vierde lid is ten aanzien van wijzigingen of reparaties niet van toepassing op drukapparatuur waarop artikel 12c van het Warenwetbesluit drukapparatuur van toepassing is. 
+14. Het eerste tot en met het derde lid zijn niet van toepassing op hijs- en hefwerktuigen voor beroepsmatig personenvervoer waarop het Warenwetbesluit machines van toepassing is.
 
 ### Artikel  7.5  
 
@@ -5035,8 +5029,8 @@ e.levert het overstappen van een toegangsmiddel op platformen, vloeren of loopbr
 a.vanwege de korte gebruiksduur, of
 
 b.de bestaande kenmerken van de locaties die de werkgever niet kan veranderen.   
-3.  Toegangs- en positioneringstechnieken met lijnen worden alleen gebruikt onder omstandigheden waarin uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), blijkt dat het werk veilig kan worden uitgevoerd en waarin het gebruik van andere, veiliger arbeidsmiddelen redelijkerwijs niet mogelijk is.   
-4.  In het geval, bedoeld in het derde lid, wordt, rekening houdend met de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en met de duur van de werkzaamheden en met de ergonomische vereisten, voorzien in een zitje met geschikte toebehoren.   
+3.  Toegangs- en positioneringstechnieken met lijnen worden alleen gebruikt onder omstandigheden waarin uit de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, blijkt dat het werk veilig kan worden uitgevoerd en waarin het gebruik van andere, veiliger arbeidsmiddelen redelijkerwijs niet mogelijk is.   
+4.  In het geval, bedoeld in het derde lid, wordt, rekening houdend met de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, en met de duur van de werkzaamheden en met de ergonomische vereisten, voorzien in een zitje met geschikte toebehoren.   
 5.  Afhankelijk van het te gebruiken arbeidsmiddel worden ter minimalisering van de aan dit arbeidsmiddel verbonden risico's voor de werknemers, de nodige maatregelen genomen. Zo nodig worden valbeveiligingen aangebracht.   
 6.  De valbeveiligingen zijn van een zodanige configuratie en sterkte dat vallen van hoogte wordt voorkomen of dat een eventuele val wordt gestopt, zodanig dat letsel bij de werknemers zoveel mogelijk wordt voorkomen.   
 7.  De collectieve valbeveiligingen worden alleen onderbroken daar waar zich een toegang tot een ladder of trap bevindt.   
@@ -5115,7 +5109,7 @@ e.de gereedschappen en andere hulpstukken die de werknemer gebruikt, zijn verbon
 f.het werk wordt naar behoren gepland en er wordt toezicht gehouden opdat zo nodig de werknemer onmiddellijk hulp kan worden geboden;
 
 g.de betrokken werknemers ontvangen een adequate en specifieke opleiding voor de beoogde werkzaamheden, in het bijzonder betreffende de reddingsprocedures.   
-2.  In uitzonderlijke omstandigheden waarin het gebruik van twee lijnen, gezien de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), het werk gevaarlijker zou maken, kan het gebruik van één enkele lijn worden toegestaan mits passende maatregelen zijn genomen om de veiligheid te waarborgen.  
+2.  In uitzonderlijke omstandigheden waarin het gebruik van twee lijnen, gezien de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, het werk gevaarlijker zou maken, kan het gebruik van één enkele lijn worden toegestaan mits passende maatregelen zijn genomen om de veiligheid te waarborgen.  
 
 ###Artikel 7.23d 
 
@@ -5287,7 +5281,7 @@ In de winningsindustrie in dagbouw, ondergronds of met behulp van boringen zijn 
 
 1.  Hoofdstuk 7 is van toepassing op tewaterlatingsmiddelen voor reddingsmiddelen op zeeschepen voorzover geen afbreuk wordt gedaan aan het gebruiksdoel van deze middelen.    
 2.  Artikel 7.4a, eerste tot en met derde lid, is, voorzover het betreft tewaterlatingsmiddelen voor reddingsmiddelen en mechanische loodsladders, niet van toepassing op zeeschepen.    
-3.  Artikel 7.29 is niet van toepassing op vissersvaartuigen als bedoeld in [artikel 1 van de Schepenwet](../../../rijkswet/schepenwet/BWBR0001876/README.md).   
+3.  Artikel 7.29 is niet van toepassing op vissersvaartuigen als bedoeld in artikel 1 van de Schepenwet.   
 
 ### §  2  
 
@@ -5331,7 +5325,7 @@ Vervallen per 01-07-2012
 
 ####Algemene vereisten persoonlijk beschermingsmiddel
 
-1.  Een door de werkgever aan de werknemer ter beschikking gesteld persoonlijk beschermingsmiddel is in overeenstemming met de betreffende bepalingen inzake ontwerp en constructie op het gebied van veiligheid en gezondheid, bedoeld in het [Warenwetbesluit persoonlijke beschermingsmiddelen](../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md). De vorige volzin is slechts van toepassing voor zover bedoeld persoonlijk beschermingsmiddel onder het toepassingsgebied van genoemd besluit valt.   
+1.  Een door de werkgever aan de werknemer ter beschikking gesteld persoonlijk beschermingsmiddel is in overeenstemming met de betreffende bepalingen inzake ontwerp en constructie op het gebied van veiligheid en gezondheid, bedoeld in het Warenwetbesluit persoonlijke beschermingsmiddelen. De vorige volzin is slechts van toepassing voor zover bedoeld persoonlijk beschermingsmiddel onder het toepassingsgebied van genoemd besluit valt.   
 2.  In alle gevallen moet een persoonlijk beschermingsmiddel: 
 
 a. geschikt zijn voor de te vermijden gevaren, zonder zelf een vergroot gevaar in te houden;  
@@ -5352,7 +5346,7 @@ d. na de nodige aanpassingen geschikt zijn voor de drager.
 
 ####Keuze persoonlijk beschermingsmiddel
 
-Alvorens een persoonlijk beschermingsmiddel te kiezen maakt de werkgever, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), een beoordeling van de uitrusting die hij voornemens is ter beschikking te stellen, teneinde na te gaan in hoeverre deze voldoet aan de in artikel 8.1, eerste, tweede en derde lid gestelde voorwaarden. Deze beoordeling omvat: 
+Alvorens een persoonlijk beschermingsmiddel te kiezen maakt de werkgever, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, een beoordeling van de uitrusting die hij voornemens is ter beschikking te stellen, teneinde na te gaan in hoeverre deze voldoet aan de in artikel 8.1, eerste, tweede en derde lid gestelde voorwaarden. Deze beoordeling omvat: 
 
 a. een risico-inventarisatie en -evaluatie van de gevaren die niet met andere middelen vermeden kunnen worden;  
 
@@ -5477,7 +5471,7 @@ De werknemer die plaatsonafhankelijke arbeid verricht, is ter zake verplicht tot
 
 ####Verplichtingen van zelfstandigen en meewerkende werkgevers
 
-1. Een zelfstandige en een werkgever als bedoeld in [artikel 16, zevende lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn verplicht tot naleving van de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
+1. Een zelfstandige en een werkgever als bedoeld in artikel 16, zevende lid, onderdeel b, van de wet zijn verplicht tot naleving van de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
 
 a.van hoofdstuk 1: de artikelen 1.5ha en 1.42;
 
@@ -5485,31 +5479,31 @@ b.van hoofdstuk 3: de artikelen 3.2, eerste lid, 3.3, 3.4, 3.5, 3.5d, eerste en 
 
 c.van hoofdstuk 4: de artikelen 4.1c, 4.1d, 4.3, tweede, derde en vierde lid, 4.5, 4.8, 4.9, 4.10, tweede en derde lid, 4.16, tweede, derde en vierde lid, 4.17, 4.19, 4.45, 4.46, 4.47b, 4.47c, eerste lid, onderdelen a en e, 4.48a, tweede lid, onderdelen b en c, en vierde lid, 4.51a, eerste en derde tot en met vijfde lid, 4.54, 4.54a, met inachtneming van artikel 4.54b, 4.54d, 4.58, 4.59, 4.60, 4.61, 4.61a, 4.61b, 4.62b, 4.87, 4.87a, 4.87b, 4.89, 4.94, 4.95, 4.108, 4.109, en 9.15, onder a, sub 1° tot met 4°, en onder b;
 
-d.van hoofdstuk 6: de artikelen 6.8, negende lid, 6.14a, 6.15a, 6.16, 6.17, 6.18, 6.19, eerste lid, 6.20, 6.29 en 6.29a;
+d.van hoofdstuk 6: de artikelen 6.8, negende lid, 6.14a, 6.16, 6.17, 6.18, 6.19, eerste lid, 6.20, 6.29 en 6.29a;
 
 e.van hoofdstuk 7: de artikelen 7.3, vierde lid, 7.4, eerste en tweede lid, voor zover het betreft landbouwtrekkers die 800 kg of meer wegen, derde en vierde lid, 7.5, tweede, derde en vijfde lid, 7.7, eerste lid, 7.9, 7.11, tweede lid, 7.16, 7.17a, eerste, tweede en vijfde lid, 7.17b, tweede lid, 7.17c, tweede lid, 7.18, tweede, vierde, zesde en zevende lid, 7.18a, derde en dertiende lid, 7.18b, eerste lid, 7.20, vierde lid, 7.21, 7.23, 7.23a tot en met 7.23d, 7.25, eerste, zesde en zevende lid, 7.27, tweede lid, 7.28, 7.32, eerste en tweede lid, en 7.34, tweede en derde lid;
 
 f.van hoofdstuk 8: artikel 8.3, tweede, derde en vierde lid;
 
-g.van [de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md): de [artikelen 10](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [11](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [32](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). 
-2. In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in [artikel 16, zevende lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die een inrichting exploiteren waarop artikel 2.3 van toepassing is, tevens verplicht tot naleving van afdeling 2 van hoofdstuk 2 en [artikel 19, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). 
-3. In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in [artikel 16, zevende lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die met betrekking tot de totstandbrenging van een bouwwerk op een bouwplaats arbeid verrichten, tevens verplicht tot naleving van:
+g.van de wet: de artikelen 10, 11 en 32. 
+2. In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in artikel 16, zevende lid, onderdeel b, van de wet, die een inrichting exploiteren waarop artikel 2.3 van toepassing is, tevens verplicht tot naleving van afdeling 2 van hoofdstuk 2 en artikel 19, eerste lid, van de wet. 
+3. In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in artikel 16, zevende lid, onderdeel b, van de wet, die met betrekking tot de totstandbrenging van een bouwwerk op een bouwplaats arbeid verrichten, tevens verplicht tot naleving van:
 
-a.[artikel 19, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);
+a.artikel 19, eerste lid, van de wet;
 
 b.artikel 2.35;
 
 c.de artikelen van hoofdstuk 7, voor zover niet genoemd in het eerste lid, onderdeel e, en
 
 d.de artikelen 8.1, eerste tot en met vijfde en zevende lid, 8.2 en 8.3, eerste lid.  
-4. In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in [artikel 16, zevende lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die bij de werkzaamheden worden blootgesteld aan gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), tevens verplicht tot naleving van de volgende artikelen:
+4. In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in artikel 16, zevende lid, onderdeel b, van de wet, die bij de werkzaamheden worden blootgesteld aan gewasbeschermingsmiddelen of biociden als bedoeld in artikel 1 van de Wet gewasbeschermingsmiddelen en biociden, tevens verplicht tot naleving van de volgende artikelen:
 
 a.van hoofdstuk 3: artikel 3.23;
 
 b.van hoofdstuk 4: de artikelen 4.6 en 4.7, met dien verstande dat artikel 4.7 van overeenkomstige toepassing is op een zelfstandige;
 
 c. van hoofdstuk 8: de artikelen 8.1, zesde lid, en 8.4.  
-5.  In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in [artikel 16, zevende lid, onderdeel b, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) tevens verplicht tot naleving van de voorschriften en verboden welke zijn vastgesteld bij of krachtens de volgende artikelen, tenzij:
+5.  In aanvulling op het eerste lid zijn een zelfstandige en een werkgever als bedoeld in artikel 16, zevende lid, onderdeel b, van de wet tevens verplicht tot naleving van de voorschriften en verboden welke zijn vastgesteld bij of krachtens de volgende artikelen, tenzij:
 
 a. het arbeid betreft die hij verricht ten behoeve van een opdrachtgever, bedoeld in artikel 1.1, tweede lid, onderdeel c, sub 2°, met hem als enige opdrachtnemer;  
 
@@ -5535,7 +5529,7 @@ c. het arbeid betreft die wordt verricht ten behoeve van meerdere opdrachtgevers
 
 1. Degene bij wie vrijwilligers werkzaam zijn is verplicht tot naleving ten aanzien van die vrijwilligers van de voorschriften en verboden die zijn opgenomen in de volgende artikelen:
 
-a.van [de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md): de [artikelen 3](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [4](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [5](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [18](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), voor zover het betreft arbeid met gevaarlijke stoffen en biologische agentia waarop hoofdstuk 4 van het besluit van toepassing is, [6 tot en met 11](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [16 tot en met 44](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);
+a.van de wet: de artikelen 3, 4, 5 en 18, voor zover het betreft arbeid met gevaarlijke stoffen en biologische agentia waarop hoofdstuk 4 van het besluit van toepassing is, 6 tot en met 11, 16 tot en met 44;
 
 b.van hoofdstuk 3: de artikelen 3.2, eerste lid, 3.3, 3.4, 3.5, 3.5d, eerste lid, 3.5g, 3.5h, 3.6, eerste lid, 3.16 en 3.17;
 
@@ -5543,7 +5537,7 @@ c.van hoofdstuk 4: de artikelen 4.1b tot en met 4.10d, 4.13 tot en met 4.21, 4.2
 
 d.van hoofdstuk 5: de artikelen 5.2, 5.3, aanhef en onder a, en 5.13a;
 
-e.van hoofdstuk 6: de artikelen 6.8, eerste tot en met derde, zevende, negende, tiende en elfde lid, 6.11c, tweede lid, 6.12, eerste en tweede lid, 6.12e, eerste, tweede en vierde lid, 6.13, 6.14, 6.14a, 6.14b, 6.15, 6.15a, 6.16, 6.17, 6.18, 6.19 en 6.20;
+e.van hoofdstuk 6: de artikelen 6.8, eerste tot en met derde, zevende, negende, tiende en elfde lid, 6.11c, tweede lid, 6.12, eerste en tweede lid, 6.12e, eerste, tweede en vierde lid, 6.13, 6.14, 6.14a, 6.14b, 6.15, 6.16, 6.17, 6.18, 6.19 en 6.20;
 
 f.van hoofdstuk 7: de artikelen 7.3, tweede tot en met vierde lid, 7.4, 7.5, tweede, derde en vijfde lid, 7.7, eerste lid, 7.9, 7.11, tweede lid, 7.16, 7.17a, eerste, tweede en vijfde lid, 7.17b, eerste en tweede lid, 7.17c, eerste en tweede lid, 7.18, tweede, derde, vierde, zesde en zevende lid, 7.18a, derde en dertiende lid, 7.18b, eerste lid, 7.23, 7.23a tot en met 7.23d, en 7.32 tot en met 7.35;
 
@@ -5615,7 +5609,7 @@ d. van hoofdstuk 4: de artikelen 4.1b, 4.1c, 4.1d, 4.2, eerste tot en met achtst
 
 e. van hoofdstuk 5: de artikelen 5.2 tot en met 5.5, 5.9 tot en met 5.11, 5.13a;  
 
-f. van hoofdstuk 6: de artikelen 6.1, 6.2, eerste tot en met vier en zesde lid, 6.3, 6.4, 6.7, eerste tot en met vierde lid, zesde en achtste lid, 6.8, eerste, derde, vierde tot en met zevende, en negende tot en met elfde lid, 6.9 tot en met, 6.11, 6.11b, eerste tot en met vierde en zesde lid, 6.11c, eerste tot en met derde lid, 6.11d, 6.11e, eerste, tweede en vierde lid, 6.12, eerste tot en met vijfde lid, 6.12d, eerste tot en met zesde, negende en tiende lid, 6.12e, eerste tot en met vijfde lid, 6.12f, 6.12g, 6.14, 6.14a, eerste tot en met derde en vijfde lid, 6.15, 6.15a, 6.16, eerste tot en met derde en vijfde tot en met achtste lid, 6.17, eerste, tweede en derde lid, 6.18 tot en met 6.20, 6.20b, 6.20e, 6.27, 6.29 tot en met 6.29c;  
+f. van hoofdstuk 6: de artikelen 6.1, 6.2, eerste tot en met vier en zesde lid, 6.3, 6.4, 6.7, eerste tot en met vierde lid, zesde en achtste lid, 6.8, eerste, derde, vierde tot en met zevende, en negende tot en met elfde lid, 6.9 tot en met, 6.11, 6.11b, eerste tot en met vierde en zesde lid, 6.11c, eerste tot en met derde lid, 6.11d, 6.11e, eerste, tweede en vierde lid, 6.12, eerste tot en met vijfde lid, 6.12d, eerste tot en met zesde, negende en tiende lid, 6.12e, eerste tot en met vijfde lid, 6.12f, 6.12g, 6.14, 6.14a, eerste tot en met derde en vijfde lid, 6.15, 6.16, eerste tot en met derde en vijfde tot en met achtste lid, 6.17, eerste, tweede en derde lid, 6.18 tot en met 6.20, 6.20b, 6.20e, 6.27, 6.29 tot en met 6.29c;  
 
 g. van hoofdstuk 7: de artikelen 7.2, eerste lid, 7.3 tot en met 7.4a, eerste tot en met zesde lid, 7.5 tot en met 7.11a, 7.13, 7.14, eerste lid, 7.15 tot en met 7.17a, eerste, tweede en vierde tot en met zevende lid, 7.17b, tweede tot en met zesde lid, 7.17c tot en met 7.18a, tweede tot en met dertiende lid, 7.18b, 7.20, 7.21, 7.23 tot en met 7.23c, 7.24 tot en met 7.29, tweede tot en met achtste lid, en tiende lid, 7.30, eerste lid, 7.32, eerste en tweede lid, 7.34, 7.35, 7.36b en 7.39;  
 
@@ -5644,8 +5638,8 @@ Ter zake van de naleving van de in artikel 9.9b, eerste lid, genoemde bepalingen
 
 ####Stillegging van werk in verband met recidive
 
-1.  Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in [artikel 28a, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel van de wet, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.   
-2.  Indien een ernstige overtreding is geconstateerd, wordt in afwijking van het eerste lid, een waarschuwing als bedoeld in [artikel 28a, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) gegeven bij de eerste overtreding en wordt, indien opnieuw dezelfde of een soortgelijke overtreding is geconstateerd die eveneens ernstig is, een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.   
+1.  Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in artikel 28a, eerste lid, van de wet en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel van de wet, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.   
+2.  Indien een ernstige overtreding is geconstateerd, wordt in afwijking van het eerste lid, een waarschuwing als bedoeld in artikel 28a, eerste lid, van de wet gegeven bij de eerste overtreding en wordt, indien opnieuw dezelfde of een soortgelijke overtreding is geconstateerd die eveneens ernstig is, een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.   
 3.  Als een ernstige overtreding als bedoeld in het tweede lid wordt aangemerkt: 
 
 a. een overtreding waarbij de werkgever willens en wetens handelingen verricht of nalaat in strijd met de wet of de daarop berustende bepalingen waardoor een arbeidsongeval heeft plaatsgevonden dat de dood tot vrijwel onmiddellijk gevolg heeft gehad;  
@@ -5656,19 +5650,19 @@ b. een handelen of nalaten in strijd met de volgende artikelen:
 
 2°. van hoofdstuk 6: de artikelen 6:27, 6.29 en 6.29a.       
 4.  Indien de aard van de overtreding of de met de overtreding samenhangende omstandigheden dan wel de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van een waarschuwing als bedoeld in het eerste en tweede lid en kan worden afgezien van een bevel als bedoeld in het eerste en tweede lid.   
-5.  Een waarschuwing als bedoeld in het eerste en tweede lid wordt niet gegeven en een bevel als bedoeld in het eerste en tweede lid wordt niet opgelegd indien het boetenormbedrag voor de bestuurlijke boete voor de overtreding, bedoeld in het eerste en tweede lid, op grond van de beleidsregels, bedoeld in [artikel 34, tiende lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) lager is dan een bij ministeriële regeling vast te stellen hoogte van het boetenormbedrag.  
+5.  Een waarschuwing als bedoeld in het eerste en tweede lid wordt niet gegeven en een bevel als bedoeld in het eerste en tweede lid wordt niet opgelegd indien het boetenormbedrag voor de bestuurlijke boete voor de overtreding, bedoeld in het eerste en tweede lid, op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van de wet lager is dan een bij ministeriële regeling vast te stellen hoogte van het boetenormbedrag.  
 
 ### Artikel  9.10b  
 
 ####Aanduiding ernstige overtredingen
 
-Ernstige overtredingen in de zin van [artikel 34, zesde en negende lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) zijn de overtredingen, genoemd in artikel 9.10a, derde lid. 
+Ernstige overtredingen in de zin van artikel 34, zesde en negende lid, van de wet zijn de overtredingen, genoemd in artikel 9.10a, derde lid. 
 
 ### Artikel  9.10c  
 
 ####Aanduiding soortgelijke overtreding
 
-De soortgelijke verplichtingen en verboden, bedoeld in [artikel 34, vijfde en zevende lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en de soortgelijke overtredingen, bedoeld in artikel 9.10a, eerste en tweede lid, worden bij ministeriële regeling aangewezen. 
+De soortgelijke verplichtingen en verboden, bedoeld in artikel 34, vijfde en zevende lid, van de wet en de soortgelijke overtredingen, bedoeld in artikel 9.10a, eerste en tweede lid, worden bij ministeriële regeling aangewezen. 
 
 ###§ 2 
 
@@ -5780,7 +5774,7 @@ c.de betrokken werknemers onder verscherpt gezondheidstoezicht staan.
 
 a. ten aanzien van plaatsen waar het verkeer onregelmatig is;  
 
-b. ten aanzien van binnenvaartuigen met een lengte van minder dan 55 meter, zeeschepen kleiner dan 500 GT of vissersvaartuigen als bedoeld in [artikel 1 van de Schepenwet](../../../rijkswet/schepenwet/BWBR0001876/README.md).     
+b. ten aanzien van binnenvaartuigen met een lengte van minder dan 55 meter, zeeschepen kleiner dan 500 GT of vissersvaartuigen als bedoeld in artikel 1 van de Schepenwet.     
 2.  Vrijstelling of ontheffing van artikel 7.29 kan uitsluitend worden verleend: 
 
 a. ten aanzien van plaatsen waar het verkeer onregelmatig is;  
@@ -5799,9 +5793,9 @@ b. van hoofdstuk 2: de artikelen van de afdelingen 5, 6 en 6a;
 
 c. van hoofdstuk 3: artikel 3.1b, de artikelen van paragraaf 2a van afdeling 1 en van de afdelingen 2, 3, 3a, 3b en 3c en de paragrafen 4 en 5 van afdeling 5;  
 
-d. van hoofdstuk 4: de artikelen van afdeling 1, met uitzondering van de artikelen 4.8, 4.9 en 4.10, de artikelen van afdelingen 2, 5, 6, 7, met uitzondering van artikel 4.62b, en 9 en de artikelen van de paragrafen 2, 3 en 4 van afdeling 10;  
+d. van hoofdstuk 4: de artikelen van afdeling 1, met uitzondering van de artikelen 4.8, 4.9 en 4.10, de artikelen van afdelingen 2, 5, 6, 7, met uitzondering van artikel 4.62b, en 9 en de artikelen van de paragrafen 2 en 3 van afdeling 10;  
 
-e. van hoofdstuk 5: de artikelen van de afdelingen 1 en 2 en artikel 5.14;  
+e. van hoofdstuk 5: de artikelen van de afdelingen 1 en 2;  
 
 f. van hoofdstuk 6: de artikelen van de afdelingen 1 en 2, 3, met uitzondering van artikel 6.8, zevende lid, eerste zin, negende, tiende en elfde lid, afdeling 3a, met uitzondering van artikel 6.11c, tweede lid, afdeling 4a, afdeling 5a, en de artikelen van de paragrafen 3 en 4 van afdeling 6;  
 
@@ -5825,7 +5819,7 @@ Vrijstellingen of ontheffingen worden slechts verleend voor beperkte duur en wor
 
 ####Eis tot naleving
 
-1.  Omtrent de wijze waarop de voorschriften, gesteld krachtens de [artikelen 6, eerste lid](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en [16 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) moeten worden nageleefd kan een eis worden gesteld overeenkomstig [artikel 27, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+1.  Omtrent de wijze waarop de voorschriften, gesteld krachtens de artikelen 6, eerste lid, en 16 van de wet moeten worden nageleefd kan een eis worden gesteld overeenkomstig artikel 27, eerste lid, van de wet.   
 2.  Het eerste lid geldt niet in de gevallen, bedoeld in artikel 1.33.   
 3.  Het eerste lid geldt voorts niet ten aanzien van de volgende artikelen: 
 
@@ -5837,7 +5831,7 @@ c. van hoofdstuk 6: de artikelen 6.27, 6.29 en 6.29a.
 4.  Bij het stellen van een eis aan een werkgever of werknemer, waarop zowel afdeling 2 als afdeling 4 of 6 van hoofdstuk 1 van toepassing is, wordt het ter zake in afdeling 4 of 6 bepaalde in acht genomen.   
 5.  Een eis waarop afdeling 2 van hoofdstuk 2 van toepassing is, die met een voorschrift dat is verbonden aan een op grond van een der wetten tot bescherming van het milieu verleende vergunning tot het oprichten, in werking brengen of houden, uitbreiden of wijzigen van een bedrijf of inrichting dan wel tot het veranderen van een daarin gebezigde werkwijze één of meer zodanige raakpunten heeft dat hij met dat voorschrift in strijd kan komen, stelt de de daartoe aangewezen toezichthouder niet dan na overleg met het gezag dat de vergunning heeft verleend.  
 6.  Bij het stellen van een eis aan een werkgever of werknemer, waarop afdeling 4 of 6 van hoofdstuk 1 van toepassing is, wordt het ter zake in die afdeling bepaalde in acht genomen.   
-7.  Indien ten aanzien van een of meer bepalingen van dit besluit overeenkomstig [artikel 27, eerste lid, van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), een eis tot naleving is gesteld, kan in die situatie van het betreffende voorschrift respectievelijk de betreffende voorschriften geen ontheffing meer worden verleend.  
+7.  Indien ten aanzien van een of meer bepalingen van dit besluit overeenkomstig artikel 27, eerste lid, van de wet, een eis tot naleving is gesteld, kan in die situatie van het betreffende voorschrift respectievelijk de betreffende voorschriften geen ontheffing meer worden verleend.  
 
 ### Afdeling  4  
 
