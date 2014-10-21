@@ -186,7 +186,9 @@ b. op schriftelijke aanvraag van een persoon als bedoeld in artikel 7, eerste li
 
 a. ondersteunt bij arbeidsinschakeling personen, die algemene bijstand ontvangen, personen als bedoeld in artikel 10, tweede lid, personen met een nabestaanden- of wezenuitkering op grond van de Algemene nabestaandenwet en niet-uitkeringsgerechtigden en, indien het college daarbij het aanbieden van een voorziening, waaronder begrepen sociale activering gericht op arbeidsinschakeling, noodzakelijk acht, bepaalt en biedt deze voorziening aan, en  
 
-b. verleent bijstand aan personen hier te lande die in zodanige omstandigheden verkeren of dreigen te geraken dat zij niet over de middelen beschikken om in de noodzakelijke kosten van het bestaan te voorzien.     
+b. verleent bijstand aan personen hier te lande die in zodanige omstandigheden verkeren of dreigen te geraken dat zij niet over de middelen beschikken om in de noodzakelijke kosten van het bestaan te voorzien;  
+
+c. verstrekt een koopkrachttegemoetkoming als bedoeld in artikel 36a.    
 2.  Het college werkt bij de uitvoering van het eerste lid, onderdeel a, samen met het Uitvoeringsinstituut werknemersverzekeringen.   
 3.  Het eerste lid, aanhef en onderdeel a, is niet van toepassing op personen: 
 
@@ -780,7 +782,7 @@ u. een uitkering als bedoeld in artikel 19a van de Wet maatschappelijke onderste
 
 v. een uitkering tot levensonderhoud op grond van Boek 1 van het Burgerlijk Wetboek die de belanghebbende jonger dan 21 jaar van zijn ouder of ouders ontvangt, voor zover deze uitkering op grond van artikel 12 reeds in aanmerking is genomen bij de vaststelling van het recht op bijzondere bijstand;  
 
-w.vervallen;
+w. een koopkrachttegemoetkoming als bedoeld in artikel 36a; 
 
 x. het vrijgelaten deel van de toeslag, uitkering, kinderbijslag of ouderdomspensioen op grond van de artikelen 14h, vijfde lid, van de Toeslagenwet, 27h, vijfde lid, van de Werkloosheidswet, 54a, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 24a, vijfde lid, van de Wet inkomensvoorziening oudere werklozen, 29h,vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering, 3:44, vijfde lid, van de Wet werk en arbeidsondersteuning jonggehandicapten, 97, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen, 45h, vijfde lid, van de Ziektewet, 17h, vijfde lid, van de Algemene Kinderbijslagwet, 45a, vijfde lid, van de Algemene nabestaandenwet, 17j, vijfde lid, van de Algemene Ouderdomswet, 29, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, en 29, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.    
 3.  De middelen worden in aanmerking genomen tot het bedrag dat resteert na aftrek van: 
@@ -891,25 +893,18 @@ b. tijdens de bijstandsverlening niet in aanmerking is genomen op grond van dit 
 4.  De artikelen 12, 43, 49 en 52 zijn niet van toepassing.   
 5.  Voor de toepassing van het eerste lid wordt onder laag inkomen niet verstaan in aanmerking te nemen inkomen hoger dan 110 procent van de op de desbetreffende alleenstaande of gezin van toepassing zijnde bijstandsnorm. 
 
-###Artikel 36a 
+### Artikel  36a  
 
-####Arbeidstoeslag alleenstaande ouder
+####Koopkrachttegemoetkoming
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/650.
-1. Het college verleent op aanvraag aan de alleenstaande ouder, bedoeld in artikel 1, onderdeel a, van de Wet voorzieningen arbeid en zorg alleenstaande ouders, die op grond van artikel 2, van die wet in een kalenderjaar niet in aanmerking komt voor de Vazalo-toeslag, met betrekking tot elke kalendermaand in dat kalenderjaar waarin die alleenstaande ouder inkomsten uit arbeid in het bedrijfs- en beroepsleven als bedoeld in artikel 8 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers heeft waarvan het maandbedrag ten minste gelijk is aan 1/12 van het in artikel 2, eerste lid, van de Wet voorzieningen arbeid en zorg alleenstaande ouders genoemde bedrag, een arbeidstoeslag alleenstaande ouder tot het bedrag volgens de volgende tabel: Bij een inkomen als bedoeld in artikel 32:
+1.  Personen met een inkomen van ten hoogste 110 procent van de voor de desbetreffende alleenstaande of de desbetreffende gehuwden van toepassing zijnde bijstandsnorm hebben in 2014 recht op een koopkrachttegemoetkoming van 100 euro voor een paar, 90 euro voor een alleenstaande ouder en 70 euro voor een alleenstaande.   
+2.  Bij of krachtens algemene maatregel van bestuur worden ten minste regels gesteld met betrekking tot: 
 
-|per kalendermaand gelijk aan of meer dan  |maar minder dan |bedraagt de arbeidstoeslag alleenstaande ouder per kalendermaand ingeval het jongste kind bij het begin van het kalenderjaar nog niet de leeftijd heeft bereikt van |--- |--- |12 jaar |16 jaar |
-|---:|---:|---:|---:|---:|---:|---:|
-|€ 0 |€ 608 |€ 0 |€ 0 |
-|€ 608 |€ 669 |€ 62 |€ 0 |
-|€ 669 |€ 1 039 |€ 62 |€ 62 |
-|€ 1 039 |€ 1 221 |€ 129 |€ 129 |
-|€ 1 221 |€ 1 344 |€ 62 |€ 62 |
-|€ 1 344 | --- |€ 0 |€ 0 |
+a. de wijze waarop Onze Minister gelden beschikbaar stelt aan het college of de Sociale verzekeringsbank; en  
 
-2. De arbeidstoeslag alleenstaande ouder, bedoeld in het eerste lid, wordt verminderd met het bedrag van de middelen dat op grond van artikel 31, tweede lid, onderdelen c en o, over de betreffende kalendermaand niet tot de middelen van belanghebbende is gerekend, alsmede met het bedrag dat op grond van artikel 31, tweede lid, onderdeel j, in het betreffende kalenderjaar niet tot de middelen is gerekend en na afloop van het kalenderjaar vastgesteld en betaald. 
-3. De artikelen 40, 46, eerste, tweede, vierde en vijfde lid, en 54, paragraaf 6.4 en 6.5, alsmede artikel 63 zijn van overeenkomstige toepassing. 
-4. De in het eerste lid in de tabel genoemde bedragen worden met ingang van 1 januari van elk kalenderjaar door Onze Minister in overeenstemming met Onze Minister van Financiën bij ministeriële regeling vastgesteld.
+b. de uitvoering door het college of de Sociale verzekeringsbank.     
+3.  De artikelen 5, onderdeel a, b, d en e, 6, 8, 8a, 9 tot en met 10a, 12, 13, eerste lid, onderdeel c, d en g, 13, vierde lid, 14 tot en met 16, 18, 19, 25 tot en met 30, 35, 36, 41, 43, 44 tot en met 44a, 45, 47, 47c, 47d, 47f, 48, 50 tot en met 53, 55, 57, 59 en de hoofdstukken 7, 7a en 8 zijn niet van toepassing op de verstrekking van de koopkrachttegemoetkoming.   
+4.  Daar waar in de artikelen 5, onderdeel c, 11, 13, 17, 18a, 24, 31 tot en met 34, 40, 42, 47a, 47b, 47g, 53a, 54, 60 tot en met 60c en in paragraaf 6.5 sprake is van bijstand wordt daaronder voor de toepassing van dit artikel mede begrepen de koopkrachttegemoetkoming.  
 
 ### Artikel  36b  
 
@@ -1075,7 +1070,7 @@ b. anderszins geen recht op algemene bijstand heeft.
 ####Vervreemding, verpanding, beslag en machtiging
 
 1.  De bijstand is niet vatbaar voor vervreemding of verpanding.   
-2.  Bijzondere bijstand is niet vatbaar voor beslag.   
+2.  Bijzondere bijstand en de koopkrachttegemoetkoming, bedoeld in artikel 36a, zijn niet vatbaar voor beslag.   
 3.  Een machtiging tot het in ontvangst nemen van de bijstand, onder welke vorm of welke benaming ook verleend, is steeds herroepelijk.   
 4.  Elk beding, strijdig met dit artikel, is nietig.  
 
@@ -1107,14 +1102,16 @@ c. zij worden voorzien van de voor een adequate deelname aan het overleg benodig
 
 a. alleenstaanden en alleenstaande ouders die de pensioengerechtigde leeftijd hebben bereikt;  
 
-b. gehuwden, van wie beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt dan wel van wie één echtgenoot de pensioengerechtigde leeftijd heeft bereikt;   hier te lande die in zodanige omstandigheden verkeren of dreigen te geraken dat zij niet over de middelen beschikken om in de noodzakelijke kosten van het bestaan te voorzien.   
-2.  De artikelen 1 tot en met 6, de hoofdstukken 2 en 3, de paragrafen 5.1 en 5.2, hoofdstuk 6 en de artikelen 79, 80 en 81 zijn van toepassing op de uitvoering van de taak, bedoeld in het eerste lid, door de Sociale verzekeringsbank, tenzij in deze paragraaf anders is bepaald.  
+b. gehuwden, van wie beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt dan wel van wie één echtgenoot de pensioengerechtigde leeftijd heeft bereikt;   hier te lande die in zodanige omstandigheden verkeren of dreigen te geraken dat zij niet over de middelen beschikken om in de noodzakelijke kosten van het bestaan te voorzien.  
+2. Indien dit bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 36a, is bepaald heeft de Sociale verzekeringsbank mede tot taak het verstrekken van de koopkrachttegemoetkoming. 
+3.  De artikelen 1 tot en met 6, de hoofdstukken 2 en 3, de paragrafen 5.1 en 5.2, hoofdstuk 6 en de artikelen 79, 80 en 81 zijn van toepassing op de uitvoering van de taak, bedoeld in het eerste lid, door de Sociale verzekeringsbank, tenzij in deze paragraaf anders is bepaald.  
 
 ### Artikel  47b  
 
 ####Invulling toepassing artikelen voor Sociale verzekeringsbank
 
-Voor de toepassing van artikel 47a, eerste lid, wordt in de artikelen 9, met uitzondering van het eerste lid, onderdelen b en c, 16, eerste lid, 17, 31, tweede lid, onderdeel m, 33, vierde lid, 40, tweede tot en met zesde lid, 41, vierde, vijfde, achtste en tiende lid, 43, eerste, derde, vierde en vijfde lid, 44, eerste en derde lid, 48, derde, vierde en vijfde lid, 52, eerste lid, 53a, eerste tot en met zevende lid, 54, 55, 57, 58, eerste, tweede, vierde, vijfde, zevende en achtste lid, 60, eerste tot en met zesde lid, 60c, 62b, vierde lid, 62e, 62f, 62g, 62h, derde lid, 63, 66, 78s, derde en vierde lid, 78t, tweede lid, 78x, eerste lid, onderdeel b, 81, eerste en tweede lid, voor «het college» telkens gelezen: de Sociale verzekeringsbank. 
+1. Voor de toepassing van artikel 47a, eerste lid, wordt in de artikelen 9, met uitzondering van het eerste lid, onderdelen b en c, 16, eerste lid, 17, 31, tweede lid, onderdeel m, 33, vierde lid, 40, tweede tot en met zesde lid, 41, vierde, vijfde, achtste en tiende lid, 43, eerste, derde, vierde en vijfde lid, 44, eerste en derde lid, 48, derde, vierde en vijfde lid, 52, eerste lid, 53a, eerste tot en met zevende lid, 54, 55, 57, 58, eerste, tweede, vierde, vijfde, zevende en achtste lid, 60, eerste tot en met zesde lid, 60c, 62b, vierde lid, 62e, 62f, 62g, 62h, derde lid, 63, 66, 78s, derde en vierde lid, 78t, tweede lid, 78x, eerste lid, onderdeel b, 81, eerste en tweede lid, voor «het college» telkens gelezen: de Sociale verzekeringsbank. 
+2.  Het eerste lid is van toepassing indien bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 36a de Sociale verzekeringsbank is belast of mede is belast met het verstrekken van de koopkrachttegemoetkoming. 
 
 ### Artikel  47c  
 
@@ -1150,8 +1147,8 @@ De artikelen 64 en 67 zijn van overeenkomstige toepassing voor het kosteloos ver
 
 ####Overgang krediethypotheek
 
-1.  Rechten en verplichtingen die voortvloeien uit een door het college verstrekte geldlening of borgtocht op grond van artikel 48, 50 of 78c, die op grond van artikel 47a wordt voortgezet, gaan over op de Sociale verzekeringsbank.   
-2.  Vermogensbestanddelen die voortvloeien uit een geldlening als bedoeld in het eerste lid gaan met ingang van de datum van voortzetting van de geldlening op grond van artikel 47a over op de Sociale verzekeringsbank, zonder dat daarvoor een akte of betekening nodig is.   
+1.  Rechten en verplichtingen die voortvloeien uit een door het college verstrekte geldlening of borgtocht op grond van artikel 48, 50 of 78c, die op grond van artikel 47a, eerste lid wordt voortgezet, gaan over op de Sociale verzekeringsbank.   
+2.  Vermogensbestanddelen die voortvloeien uit een geldlening als bedoeld in het eerste lid gaan met ingang van de datum van voortzetting van de geldlening op grond van artikel 47a, eerste lid over op de Sociale verzekeringsbank, zonder dat daarvoor een akte of betekening nodig is.   
 3.  Met betrekking tot de op grond van het tweede lid overgaande vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe benodigde opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.   
 4.  Terzake van de in het tweede lid bedoelde overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.   
 5.  Indien de Sociale verzekeringsbank het bedrag van de geldlening of borgtocht invordert, betaalt de Sociale verzekeringsbank aan het college, bedoeld in het eerste lid, het bedrag van de door het college verstrekte geldlening of borgtocht, of indien de opbrengst na aftrek van kosten minder bedraagt dan het totale bedrag van de geldlening of borgtocht een evenredig deel van de geldlening of borgtocht.  

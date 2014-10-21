@@ -149,7 +149,8 @@ b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag n
 c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 926,47 per 1 juli 2014: € 951,64.      
 5.   Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.    
 6.  De in het vierde lid genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
-7.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
+7.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Wet werk en bijstand niet in aanmerking genomen.  
+8.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
 
 ### Artikel  5a  
 
