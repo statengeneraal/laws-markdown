@@ -3,7 +3,7 @@
 ##Vervanging vermiste 10-jarenklappers gemeente Westerbork 
 
 De Minister van Justitie,  
-Gelet op [artikel 18c van Boek 1 van het Burgerlijk wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);
+Gelet op artikel 18c van Boek 1 van het Burgerlijk wetboek;
 Besluit:     
 
 1.  Dat ter vervanging van de bij de gemeente Midden Drenthe vermiste tienjarenklappers van de voormalige gemeente Westerbork over de periode 1961-1990 een afschrift wordt gemaakt;  

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 24 oktober 2013, nr. IENM/BSK-2013/241455, tot vaststelling van het experiment vervroegen nachtelijke vertrek- en naderingsprocedures luchthaven Schiphol
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 8.23a van de Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op artikel 8.23a van de Wet luchtvaart;
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *LVB:* [Luchthavenverkeerbesluit Schiphol](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md);  
+a.  *LVB:* Luchthavenverkeerbesluit Schiphol;  
 
 b.  *het experiment:* het experiment waarbij het gebruik van de nachtelijke vertrek- en naderingsprocedures wordt vervroegd;  
 
@@ -28,13 +28,13 @@ De regeling heeft tot doel om het gedurende een proefperiode mogelijk te maken, 
 
 ####Luchtverkeerwegen
 
-Voor de duur van het experiment wordt voor de periode tussen 22.30 uur en 23.00 uur vrijstelling verleend van de [artikelen 3.1.1, eerste lid](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), met betrekking tot de luchtverkeerwegen die zijn aangewezen op de kaarten 5/21 en 19/21 van [bijlage 1 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md). 
+Voor de duur van het experiment wordt voor de periode tussen 22.30 uur en 23.00 uur vrijstelling verleend van de artikelen 3.1.1, eerste lid, en 3.1.3, eerste lid, van het LVB, met betrekking tot de luchtverkeerwegen die zijn aangewezen op de kaarten 5/21 en 19/21 van bijlage 1 van het LVB. 
 
 ### Artikel  4  
 
 ####Grenswaarden
 
-In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden ter uitvoering van dit experiment voor het gebruiksjaar 2014 voor in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten etmaal L<sub>den</sub> [dB(A)] 
+In plaats van de grenswaarden, genoemd in bijlage 2 van het LVB gelden ter uitvoering van dit experiment voor het gebruiksjaar 2014 voor in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten etmaal L<sub>den</sub> [dB(A)] 
 
 | Puntnummer  | X-coörd  | Y-coörd  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -102,7 +102,7 @@ De criteria voor de afweging en de beoordeling of het experiment kan worden omge
 
 * het effect op de vliegoperatie (betrouwbaarheid en capaciteit);  
 
-* het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) en op bestaande verstedelijking en nieuwbouwplannen.   
+* het effect op de ruimtelijke contouren zoals vastgelegd in het Luchthavenindelingbesluit Schiphol en op bestaande verstedelijking en nieuwbouwplannen.   
 
 ### Artikel  8  
 
@@ -121,7 +121,7 @@ De termijn van het experiment betreft het gebruiksjaar 2014.
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van 1 november 2013.   
-2.  Indien de regeling niet is verlengd op grond van [artikel 8.23a, vijfde of zesde lid, van de Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), vervalt de regeling met ingang van 1 november 2014.  
+2.  Indien de regeling niet is verlengd op grond van artikel 8.23a, vijfde of zesde lid, van de Wet luchtvaart, vervalt de regeling met ingang van 1 november 2014.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 

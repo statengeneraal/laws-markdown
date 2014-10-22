@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ter bevordering van de doelmatige voorziening van persoonsgegevens, in het bijzonder bij de vervulling van overheidstaken, de gemeentelijke basisadministratie persoonsgegevens te moderniseren, de regelgeving te vereenvoudigen en de mogelijkheid te verruimen om gegevens op te nemen over niet-ingezetenen ten aanzien van wie de Nederlandse overheid taken vervult en derhalve nieuwe regels te stellen ter zake van de basisregistratie personen, daarbij in aanmerking nemend dat uitvoering wordt gegeven aan richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281) en dat ter bescherming van de persoonlijke levenssfeer uitvoering dient te worden gegeven aan [artikel 10, tweede en derde lid, van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is ter bevordering van de doelmatige voorziening van persoonsgegevens, in het bijzonder bij de vervulling van overheidstaken, de gemeentelijke basisadministratie persoonsgegevens te moderniseren, de regelgeving te vereenvoudigen en de mogelijkheid te verruimen om gegevens op te nemen over niet-ingezetenen ten aanzien van wie de Nederlandse overheid taken vervult en derhalve nieuwe regels te stellen ter zake van de basisregistratie personen, daarbij in aanmerking nemend dat uitvoering wordt gegeven aan richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281) en dat ter bescherming van de persoonlijke levenssfeer uitvoering dient te worden gegeven aan artikel 10, tweede en derde lid, van de Grondwet;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -40,7 +40,7 @@ i.  *een vreemdeling:* degene die de Nederlandse nationaliteit niet bezit en nie
 
 j.  *de aangifte van verblijf en adres:* de aangifte, bedoeld in artikel 2.38;  
 
-k.  *een beëdigde vertaler:* een vertaler als bedoeld in [artikel 1, onder d, van de Wet beëdigde tolken en vertalers](../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md);  
+k.  *een beëdigde vertaler:* een vertaler als bedoeld in artikel 1, onder d, van de Wet beëdigde tolken en vertalers;  
 
 l.  *de aangifte van adreswijziging:* de aangifte, bedoeld in artikel 2.39;  
 
@@ -60,7 +60,7 @@ q.  *het adres:* het woonadres, dan wel bij het ontbreken hiervan of bij toepass
 
 r.  *de briefadresgever:* de natuurlijke persoon of rechtspersoon, bedoeld in artikel 2.42, die een briefadres ter beschikking stelt;  
 
-s.  *het burgerservicenummer:* het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
+s.  *het burgerservicenummer:* het nummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer;  
 
 t.*een overheidsorgaan:*
 
@@ -155,7 +155,7 @@ b. de uitwisseling van berichten tussen de centrale voorzieningen en de gemeente
 
 ### Artikel  1.13  
 
-De [artikelen 49](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [50 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 49 en 50 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing. 
 
 ### §  4  
 
@@ -265,9 +265,9 @@ a. algemene gegevens:
 
 9° gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner;  
 
-10° gegevens, noodzakelijk in verband met de uitvoering van de [Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md);  
+10° gegevens, noodzakelijk in verband met de uitvoering van de Kieswet;  
 
-11° gegevens, noodzakelijk in verband met de uitvoering van de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).    
+11° gegevens, noodzakelijk in verband met de uitvoering van de Paspoortwet.    
 
 b. administratieve gegevens: 
 
@@ -295,7 +295,7 @@ a. een akte over het desbetreffende feit, die is opgenomen in de registers van d
 
 b. een in Nederland gedane rechterlijke uitspraak over het desbetreffende feit die in kracht van gewijsde is gegaan;  
 
-c. een buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akte die ten doel heeft tot bewijs te dienen van het desbetreffende feit, of een over dat feit gedane rechterlijke uitspraak, of bij gebreke daarvan een akte van bekendheid of beëdigde verklaring, bedoeld in [artikel 45 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+c. een buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akte die ten doel heeft tot bewijs te dienen van het desbetreffende feit, of een over dat feit gedane rechterlijke uitspraak, of bij gebreke daarvan een akte van bekendheid of beëdigde verklaring, bedoeld in artikel 45 van Boek 1 van het Burgerlijk Wetboek;  
 
 d. een geschrift dat overeenkomstig de plaatselijke voorschriften is opgemaakt door een bevoegde instantie, waarin het desbetreffende feit is vermeld;  
 
@@ -304,9 +304,9 @@ e. een verklaring over het desbetreffende feit die betrokkene ten overstaan van 
 
 ### Artikel  2.9  
 
-1.  Aan een geschrift als bedoeld in artikel 2.8, tweede lid, onder c, d, of e, dan wel artikel 2.8, derde lid, worden geen gegevens ontleend over het huwelijk of het geregistreerd partnerschap dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één vreemdeling is, voordat het college van burgemeester en wethouders zich een door de korpschef in de zin van de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgegeven verklaring heeft doen overleggen.   
-2.  De verklaring is niet vereist indien voldaan is aan de eisen genoemd in [artikel 25, vierde lid, onder b, c of d, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
-3.  Op de verklaring zijn de regels in en krachtens [artikel 44, eerste lid, onder k, en derde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) van overeenkomstige toepassing.  
+1.  Aan een geschrift als bedoeld in artikel 2.8, tweede lid, onder c, d, of e, dan wel artikel 2.8, derde lid, worden geen gegevens ontleend over het huwelijk of het geregistreerd partnerschap dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één vreemdeling is, voordat het college van burgemeester en wethouders zich een door de korpschef in de zin van de Vreemdelingenwet 2000 afgegeven verklaring heeft doen overleggen.   
+2.  De verklaring is niet vereist indien voldaan is aan de eisen genoemd in artikel 25, vierde lid, onder b, c of d, van Boek 1 van het Burgerlijk Wetboek.   
+3.  Op de verklaring zijn de regels in en krachtens artikel 44, eerste lid, onder k, en derde lid, van Boek 1 van het Burgerlijk Wetboek van overeenkomstige toepassing.  
 
 ### Artikel  2.10  
 
@@ -322,7 +322,7 @@ Op de persoonslijst van een persoon worden geen gegevens over zijn kind opgenome
 ### Artikel  2.12  
 
 1.  Bij gerede twijfel over de toepassing van artikel 2.8, tweede en derde lid, en artikel 2.10, eerste en tweede lid, wordt advies ingewonnen van de ambtenaar van de burgerlijke stand in de gemeente.   
-2.  Indien bij de ontlening van gegevens over een huwelijk dat is gesloten tussen echtgenoten van wie ten minste één vreemdeling is, aan een geschrift als bedoeld in artikel 2.8, tweede lid, onder c, d, of e, dan wel artikel 2.8, derde lid, op grond van de verklaring van de korpschef in de zin van de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of anderszins het redelijke vermoeden bestaat dat het oogmerk van de echtgenoten, of een van beiden, niet was gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland, wordt in afwijking van het eerste lid, over de ontlening van de gegevens over het huwelijk advies van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage ingewonnen.   
+2.  Indien bij de ontlening van gegevens over een huwelijk dat is gesloten tussen echtgenoten van wie ten minste één vreemdeling is, aan een geschrift als bedoeld in artikel 2.8, tweede lid, onder c, d, of e, dan wel artikel 2.8, derde lid, op grond van de verklaring van de korpschef in de zin van de Vreemdelingenwet 2000 of anderszins het redelijke vermoeden bestaat dat het oogmerk van de echtgenoten, of een van beiden, niet was gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland, wordt in afwijking van het eerste lid, over de ontlening van de gegevens over het huwelijk advies van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage ingewonnen.   
 3.  Indien na het advies, bedoeld in het eerste lid, gerede twijfel blijft bestaan of het voornemen bestaat van het advies af te wijken, wordt het advies van de Commissie van advies voor de zaken betreffende de burgerlijke staat en de nationaliteit ingewonnen.  
 
 ### Artikel  2.13  
@@ -332,18 +332,18 @@ Op de persoonslijst van een persoon worden geen gegevens over zijn kind opgenome
 
 ### Artikel  2.14  
 
-1.  Gegevens over het Nederlanderschap worden opgenomen met toepassing van de [Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), van andere op het Nederlanderschap betrekking hebbende wettelijke bepalingen en van verdragen waaruit het Nederlanderschap voortvloeit.   
-2.  Indien omtrent een ingeschrevene akten als bedoeld in [artikel 22, eerste lid, onder b, c en d, van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) zijn opgenomen in het in dat lid bedoelde register, wordt aan deze akten het gegeven over het Nederlanderschap ontleend. Indien omtrent een ingeschrevene een afschrift wordt overgelegd van de in de eerste volzin bedoelde akten uit het register, bedoeld in artikel 22, tweede lid, van de genoemde wet, wordt het gegeven over het Nederlanderschap aan dit afschrift ontleend.   
+1.  Gegevens over het Nederlanderschap worden opgenomen met toepassing van de Rijkswet op het Nederlanderschap, van andere op het Nederlanderschap betrekking hebbende wettelijke bepalingen en van verdragen waaruit het Nederlanderschap voortvloeit.   
+2.  Indien omtrent een ingeschrevene akten als bedoeld in artikel 22, eerste lid, onder b, c en d, van de Rijkswet op het Nederlanderschap zijn opgenomen in het in dat lid bedoelde register, wordt aan deze akten het gegeven over het Nederlanderschap ontleend. Indien omtrent een ingeschrevene een afschrift wordt overgelegd van de in de eerste volzin bedoelde akten uit het register, bedoeld in artikel 22, tweede lid, van de genoemde wet, wordt het gegeven over het Nederlanderschap aan dit afschrift ontleend.   
 3.  Een gegeven over het Nederlanderschap wordt ontleend aan de bevestiging van de verklaring tot verkrijging van het Nederlanderschap of het uittreksel van het besluit tot verlening van het Nederlanderschap, waarvan de uitreiking of bekendmaking op andere wijze heeft plaatsgevonden in de gemeente waar de betrokkene is ingeschreven, onderscheidenlijk aan de door de betrokkene in die gemeente afgelegde verklaring van afstand van het Nederlanderschap, dan wel aan de mededeling van de burgemeester van een andere gemeente omtrent de verkrijging, de verlening of de afstand van het Nederlanderschap die betrekking heeft op de ingeschrevene, indien de uitreiking of bekendmaking van de bevestiging van de verklaring tot verkrijging van het Nederlanderschap of van het uittreksel van het besluit tot verlening van het Nederlanderschap op andere wijze, heeft plaatsgevonden, onderscheidenlijk de verklaring van afstand is afgelegd, in een andere gemeente dan de gemeente waar de betrokkene is ingeschreven. Voor zover het in deze gevallen gaat om verkrijging of verlening van het Nederlanderschap wordt daarbij afgeweken van het tweede lid.   
-4.  In de gevallen bedoeld in [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), worden de gegevens over het Nederlanderschap ontleend aan een afschrift van een in kracht van gewijsde gegane uitspraak van een rechterlijke instantie in Nederland.   
-5.  Indien een afschrift wordt overgelegd van een uitspraak van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba krachtens [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), worden de gegevens over het Nederlanderschap aan dit afschrift ontleend.   
-6.  Gegevens over de behandeling als Nederlander van een persoon die niet het Nederlanderschap bezit, worden opgenomen met toepassing van de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md).  
+4.  In de gevallen bedoeld in artikel 17 van de Rijkswet op het Nederlanderschap, worden de gegevens over het Nederlanderschap ontleend aan een afschrift van een in kracht van gewijsde gegane uitspraak van een rechterlijke instantie in Nederland.   
+5.  Indien een afschrift wordt overgelegd van een uitspraak van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba krachtens artikel 17 van de Rijkswet op het Nederlanderschap, worden de gegevens over het Nederlanderschap aan dit afschrift ontleend.   
+6.  Gegevens over de behandeling als Nederlander van een persoon die niet het Nederlanderschap bezit, worden opgenomen met toepassing van de Wet betreffende de positie van Molukkers.  
 
 ### Artikel  2.15  
 
 1.  Gegevens over een vreemde nationaliteit worden ontleend aan een beschikking of uitspraak van een daartoe volgens het ter plaatse geldend recht bevoegde administratieve of rechterlijke instantie, die tot doel heeft tot bewijs te dienen van de betreffende nationaliteit, dan wel opgenomen met toepassing van het betreffende nationaliteitsrecht.   
 2.  Indien gegevens over een vreemde nationaliteit niet overeenkomstig het eerste lid kunnen worden verkregen, kunnen deze gegevens worden ontleend aan een geschrift van een volgens het ter plaatse geldend recht bevoegde autoriteit, dat gegevens vermeldt over die nationaliteit.   
-3.  Indien de betrokkene geen nationaliteit bezit of de nationaliteit niet kan worden vastgesteld, wordt dit gegeven opgenomen. Indien een rechterlijke uitspraak op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) is gedaan, waarbij is vastgesteld dat de betrokkene niet de Nederlandse nationaliteit bezit, wordt daarvan melding gemaakt.  
+3.  Indien de betrokkene geen nationaliteit bezit of de nationaliteit niet kan worden vastgesteld, wordt dit gegeven opgenomen. Indien een rechterlijke uitspraak op grond van artikel 17 van de Rijkswet op het Nederlanderschap is gedaan, waarbij is vastgesteld dat de betrokkene niet de Nederlandse nationaliteit bezit, wordt daarvan melding gemaakt.  
 
 ### Artikel  2.16  
 
@@ -399,12 +399,12 @@ c. de dag waarop van het voornemen tot opneming aan betrokkene schriftelijk mede
 
 ### Artikel  2.24  
 
-1.  Het burgerservicenummer dat aan een persoon is toegekend overeenkomstig [artikel 8 van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) wordt opgenomen op zijn persoonslijst, voordat over de betrokken persoon voor de eerste keer gegevens worden verstrekt.   
+1.  Het burgerservicenummer dat aan een persoon is toegekend overeenkomstig artikel 8 van de Wet algemene bepalingen burgerservicenummer wordt opgenomen op zijn persoonslijst, voordat over de betrokken persoon voor de eerste keer gegevens worden verstrekt.   
 2.  De gegevens over het burgerservicenummer van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen worden ontleend aan de desbetreffende persoonslijsten.  
 
 ### Artikel  2.25  
 
-De gegevens over het gebruik van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner worden opgenomen op schriftelijk verzoek van de daartoe krachtens [artikel 9 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bevoegde ingeschrevene, dan wel op grond van een rechterlijke uitspraak als bedoeld in artikel 9 van Boek 1 van het Burgerlijk Wetboek. 
+De gegevens over het gebruik van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner worden opgenomen op schriftelijk verzoek van de daartoe krachtens artikel 9 van Boek 1 van het Burgerlijk Wetboek bevoegde ingeschrevene, dan wel op grond van een rechterlijke uitspraak als bedoeld in artikel 9 van Boek 1 van het Burgerlijk Wetboek. 
 
 ### Artikel  2.26  
 
@@ -419,7 +419,7 @@ Omtrent de beslissing dat een opgenomen algemeen gegeven onjuist is of, indien h
 1.  De ambtenaar van de burgerlijke stand die in een van de onder hem berustende registers melding heeft gemaakt van een feit dat van belang is voor de bijhouding van de basisregistratie, brengt de gegevens ter zake terstond ter kennis van zijn college van burgemeester en wethouders.   
 2.  Een hem ingevolge een verdrag inzake de internationale uitwisseling van gegevens op het gebied van de burgerlijke stand toegezonden kennisgeving doet hij terstond toekomen aan zijn college.   
 3.  Hij verstrekt aan het college van burgemeester en wethouders dat daarom vraagt, zo spoedig mogelijk alle inlichtingen die dat college nodig heeft voor de bijhouding van de basisregistratie.   
-4.  De ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, die wegens het ontbreken van een akte in de onder hem berustende registers geen latere vermelding als bedoeld in [artikel 20 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) toevoegt van een hem op grond van [artikel 20e van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) toegezonden besluit, rechterlijke uitspraak of notariële akte, brengt een afschrift van dat besluit, die uitspraak of die akte ter kennis van zijn college van burgemeester en wethouders.  
+4.  De ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, die wegens het ontbreken van een akte in de onder hem berustende registers geen latere vermelding als bedoeld in artikel 20 van Boek 1 van het Burgerlijk Wetboek toevoegt van een hem op grond van artikel 20e van Boek 1 van het Burgerlijk Wetboek toegezonden besluit, rechterlijke uitspraak of notariële akte, brengt een afschrift van dat besluit, die uitspraak of die akte ter kennis van zijn college van burgemeester en wethouders.  
 
 ### Artikel  2.28  
 
@@ -430,7 +430,7 @@ Omtrent de beslissing dat een opgenomen algemeen gegeven onjuist is of, indien h
 
 ### Artikel  2.29  
 
-1.  Indien Onze Minister van Veiligheid en Justitie in het openbaar register, bedoeld in [artikel 22, eerste lid, van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), melding heeft gemaakt van het feit dat een persoon een verklaring tot verkrijging van het Nederlanderschap of een verklaring van afstand van het Nederlanderschap heeft afgelegd, dan wel dat een persoon door verlening het Nederlanderschap heeft verkregen of door intrekking het Nederlanderschap heeft verloren, doet hij daarvan mededeling aan het college van burgemeester en wethouders van de bijhoudingsgemeente. De mededeling bevat de datum waarop de verklaring in ontvangst is genomen of de datum waarop het Nederlanderschap is verkregen of verloren.   
+1.  Indien Onze Minister van Veiligheid en Justitie in het openbaar register, bedoeld in artikel 22, eerste lid, van de Rijkswet op het Nederlanderschap, melding heeft gemaakt van het feit dat een persoon een verklaring tot verkrijging van het Nederlanderschap of een verklaring van afstand van het Nederlanderschap heeft afgelegd, dan wel dat een persoon door verlening het Nederlanderschap heeft verkregen of door intrekking het Nederlanderschap heeft verloren, doet hij daarvan mededeling aan het college van burgemeester en wethouders van de bijhoudingsgemeente. De mededeling bevat de datum waarop de verklaring in ontvangst is genomen of de datum waarop het Nederlanderschap is verkregen of verloren.   
 2.  Een mededeling als bedoeld in het eerste lid blijft achterwege indien artikel 2.14, derde lid, van toepassing is.   
 3.  De griffier van de rechtbank Den Haag dan wel de griffier van de Hoge Raad zendt een afschrift van een in kracht van gewijsde gegane rechterlijke uitspraak houdende de vaststelling van het Nederlanderschap of de vaststelling van het niet-bezitten van het Nederlanderschap, aan het college van burgemeester en wethouders van de bijhoudingsgemeente.  
 
@@ -440,11 +440,11 @@ Onze Minister van Veiligheid en Justitie doet van de gegevens in verband met het
 
 ### Artikel  2.31  
 
-Bij algemene maatregel van bestuur worden gevallen bepaald waarin het college van burgemeester en wethouders aan een korpschef als bedoeld in de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een afschrift toezendt van een beslissing als bedoeld in artikel 2.60 om op grond van artikel 2.10, tweede lid, een gegeven betreffende een vreemdeling niet in de basisregistratie op te nemen. 
+Bij algemene maatregel van bestuur worden gevallen bepaald waarin het college van burgemeester en wethouders aan een korpschef als bedoeld in de Vreemdelingenwet 2000 een afschrift toezendt van een beslissing als bedoeld in artikel 2.60 om op grond van artikel 2.10, tweede lid, een gegeven betreffende een vreemdeling niet in de basisregistratie op te nemen. 
 
 ### Artikel  2.32  
 
-De griffier van het betrokken gerecht zendt een afschrift van een in kracht van gewijsde gegane uitspraak als bedoeld in [artikel 9 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) aan het college van burgemeester en wethouders van de bijhoudingsgemeente van de onbevoegd verklaarde. 
+De griffier van het betrokken gerecht zendt een afschrift van een in kracht van gewijsde gegane uitspraak als bedoeld in artikel 9 van Boek 1 van het Burgerlijk Wetboek aan het college van burgemeester en wethouders van de bijhoudingsgemeente van de onbevoegd verklaarde. 
 
 ### Artikel  2.33  
 
@@ -508,7 +508,7 @@ a. instellingen voor gezondheidszorg;
 b. instellingen op het gebied van de kinderbescherming;  
 
 c. penitentiaire instellingen.     
-4.  Het college van burgemeester en wethouders kan een in de gemeente gevestigde instelling aanwijzen indien het betreft een instelling op het terrein van maatschappelijke opvang, bedoeld in [artikel 1, eerste lid, onderdeel g, onder 7°, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+4.  Het college van burgemeester en wethouders kan een in de gemeente gevestigde instelling aanwijzen indien het betreft een instelling op het terrein van maatschappelijke opvang, bedoeld in artikel 1, eerste lid, onderdeel g, onder 7°, van de Wet maatschappelijke ondersteuning.   
 5.  Het hoofd van een aangewezen instelling doet aan de betrokken personen tijdig schriftelijk mededeling van de mogelijkheid tot aangifte van een briefadres.  
 
 ### Artikel  2.41  
@@ -596,7 +596,7 @@ De echtgenoot, de geregistreerde partner en andere nabestaanden tot en met de tw
 
 ### Artikel  2.52  
 
-1.  Degene die ter uitvoering van ingevolge deze paragraaf op hem rustende verplichtingen in persoon bij het college van burgemeester en wethouders verschijnt, overlegt desgevraagd met het oog op de vaststelling van zijn identiteit een op hem betrekking hebbend document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+1.  Degene die ter uitvoering van ingevolge deze paragraaf op hem rustende verplichtingen in persoon bij het college van burgemeester en wethouders verschijnt, overlegt desgevraagd met het oog op de vaststelling van zijn identiteit een op hem betrekking hebbend document als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
 2.  De in artikel 2.48 bedoelde ouders, voogden, verzorgers en curatoren van minderjarigen of onder curatele gestelden, laten desgevraagd de minderjarige of de onder curatele gestelde met het oog op de vaststelling van de identiteit verschijnen bij het college van burgemeester en wethouders en overleggen desgevraagd een op hem betrekking hebbend document als bedoeld in het eerste lid.  
 
 ### §  6  
@@ -631,7 +631,7 @@ b. curatoren voor onder curatele gestelden.
 
 ### Artikel  2.56  
 
-1.  Het college van burgemeester en wethouders neemt op schriftelijk verzoek van de daartoe krachtens [artikel 9 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bevoegde ingeschrevene binnen vier weken kosteloos op zijn persoonslijst de gegevens op over het gebruik van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.   
+1.  Het college van burgemeester en wethouders neemt op schriftelijk verzoek van de daartoe krachtens artikel 9 van Boek 1 van het Burgerlijk Wetboek bevoegde ingeschrevene binnen vier weken kosteloos op zijn persoonslijst de gegevens op over het gebruik van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.   
 2.  Het college doet van de opneming van de gegevens terstond schriftelijk mededeling aan de verzoeker.  
 
 ### Artikel  2.57  
@@ -646,14 +646,14 @@ c. gegevens over de bij de adoptie verloren nationaliteit;
 
 d. gegevens over de bijhoudingsgemeente en het adres in die gemeente alsmede over het verblijf in Nederland en het vertrek uit Nederland.     
 2.  Het college verwijdert op schriftelijk verzoek van de ouder met wie door een uitspraak van adoptie de familierechtelijke betrekkingen tot een kind zijn verbroken, binnen vier weken kosteloos van de persoonslijst van die ouder de algemene gegevens over dat kind.   
-3.  Het college verwijdert op schriftelijk verzoek van de ingeschrevene binnen vier weken kosteloos van zijn persoonslijst de algemene gegevens die zijn gewijzigd in verband met een rechterlijke last tot wijziging van de vermelding van het geslacht in de geboorteakte van de ingeschrevene, voor zover deze gegevens golden vóór de wijziging en het betreft: 
+3.  Het college verwijdert op schriftelijk verzoek van de ingeschrevene binnen vier weken kosteloos van zijn persoonslijst de algemene gegevens die zijn gewijzigd in verband met een wijziging van de vermelding van het geslacht in de geboorteakte van de ingeschrevene, voor zover deze gegevens golden vóór de wijziging en het betreft: 
 
 a. gegevens over de naam;  
 
 b. gegevens over het geslacht;  
 
 c. gegevens over het gebruik van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.     
-4.  Het college verwijdert op schriftelijk verzoek van de ingeschrevene die de leeftijd van 16 jaar heeft bereikt, binnen vier weken kosteloos van zijn persoonslijst de algemene gegevens over de naam en het geslacht van een ouder, een eerdere echtgenoot of een eerdere geregistreerde partner of het algemeen gegeven over de naam van het kind van de ingeschrevene, die zijn gewijzigd in verband met een rechterlijke last tot wijziging van de vermelding van het geslacht in de geboorteakte van de ouder, eerdere echtgenoot, eerdere geregistreerde partner of het kind.   
+4.  Het college verwijdert op schriftelijk verzoek van de ingeschrevene die de leeftijd van 16 jaar heeft bereikt, binnen vier weken kosteloos van zijn persoonslijst de algemene gegevens over de naam en het geslacht van een ouder, een eerdere echtgenoot of een eerdere geregistreerde partner of het algemeen gegeven over de naam van het kind van de ingeschrevene, die zijn gewijzigd in verband met een wijziging van de vermelding van het geslacht in de geboorteakte van de ouder, eerdere echtgenoot, eerdere geregistreerde partner of het kind.   
 5.  Artikel 2.55, vierde lid, is van toepassing op een verzoek als bedoeld in het eerste tot en met vierde lid. Op een verzoek als bedoeld in het derde of vierde lid is bovendien artikel 2.55, vijfde lid, van overeenkomstige toepassing.   
 6.  Het college doet van de verwijdering terstond schriftelijk mededeling aan de verzoeker.  
 
@@ -685,12 +685,12 @@ e. ambtshalve over te gaan tot verbetering, aanvulling of verwijdering van een a
 
 f. bij een opgenomen algemeen gegeven een aantekening over de onjuistheid van dat gegeven of over de strijdigheid daarvan met de Nederlandse openbare orde te plaatsen;  
 
-g. niet te voldoen aan een verzoek als bedoeld in de artikelen 2.55 tot en met 2.59,   wordt gelijkgesteld met een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+g. niet te voldoen aan een verzoek als bedoeld in de artikelen 2.55 tot en met 2.59,   wordt gelijkgesteld met een besluit in de zin van de Algemene wet bestuursrecht. 
 
 ### Artikel  2.61  
 
-1.  Indien de rechter het beroep, ingesteld tegen een besluit als bedoeld in artikel 2.60, gegrond verklaart met toepassing van [artikel 8:72, derde lid, onderdeel b, of vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), doet hij dat met inachtneming van het bepaalde bij of krachtens deze afdeling.   
-2.  Voor zover een besluit als bedoeld in artikel 2.60 het Nederlanderschap betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank Den Haag met een verzoek als bedoeld in [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).  
+1.  Indien de rechter het beroep, ingesteld tegen een besluit als bedoeld in artikel 2.60, gegrond verklaart met toepassing van artikel 8:72, derde lid, onderdeel b, of vierde lid, van de Algemene wet bestuursrecht, doet hij dat met inachtneming van het bepaalde bij of krachtens deze afdeling.   
+2.  Voor zover een besluit als bedoeld in artikel 2.60 het Nederlanderschap betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank Den Haag met een verzoek als bedoeld in artikel 17 van de Rijkswet op het Nederlanderschap.  
 
 ### Afdeling  2  
 
@@ -842,7 +842,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ### Artikel  2.80  
 
-Indien Onze Minister in verband met het opnemen van gegevens in de basisregistratie over een persoon aan de betrokkene verzoekt om een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) met het oog op de vaststelling van diens identiteit, is de betrokkene verplicht een dergelijk op hem betrekking hebbend document over te leggen. 
+Indien Onze Minister in verband met het opnemen van gegevens in de basisregistratie over een persoon aan de betrokkene verzoekt om een document als bedoeld in artikel 1 van de Wet op de identificatieplicht met het oog op de vaststelling van diens identiteit, is de betrokkene verplicht een dergelijk op hem betrekking hebbend document over te leggen. 
 
 ### Artikel  2.81  
 
@@ -885,7 +885,7 @@ Indien Onze Minister in verband met het opnemen van gegevens in de basisregistra
 1.  Bij algemene maatregel van bestuur worden door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang aangewezen, ten behoeve waarvan gegevens uit de basisregistratie kunnen worden verstrekt. De maatregel bepaalt tevens de categorieën van derden die voor de verstrekking in aanmerking komen en bepaalt of artikel 3.21 op de verstrekking van toepassing is. De maatregel kan beperkingen bevatten ten aanzien van de gegevens die kunnen worden verstrekt.   
 2.  Bij de maatregel worden slechts werkzaamheden aangewezen die samenhangen met een overheidstaak, strekken tot het in stand houden van een voorziening voor burgers die onderwerp is van overheidszorg, of waarbij anderszins gelet op de overheidsbemoeienis met die werkzaamheden, ondersteuning daarvan door gegevensverstrekking uit de basisregistratie gerechtvaardigd is.   
 3.  Artikel 3.2 is van overeenkomstige toepassing.   
-4.  Op een verstrekking als bedoeld in het eerste lid is [artikel 76 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) van overeenkomstige toepassing.   
+4.  Op een verstrekking als bedoeld in het eerste lid is artikel 76 van de Wet bescherming persoonsgegevens van overeenkomstige toepassing.   
 5.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### §  2  
@@ -993,7 +993,7 @@ Een derde kan bij het verwerken van persoonsgegevens gebruik maken van het burge
 
 ### Artikel  3.18  
 
-Een beslissing op grond van deze afdeling omtrent het verstrekken van gegevens of het ter beschikking stellen van informatie wordt gelijkgesteld met een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Een beslissing op grond van deze afdeling omtrent het verstrekken van gegevens of het ter beschikking stellen van informatie wordt gelijkgesteld met een besluit in de zin van de Algemene wet bestuursrecht. 
 
 ### Afdeling  2  
 
@@ -1042,7 +1042,7 @@ b. dit noodzakelijk is in het belang van de veiligheid van de staat of de voorko
 
 ### Artikel  3.24  
 
-Een beslissing op een verzoek als bedoeld in deze afdeling wordt gelijkgesteld met een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Een beslissing op een verzoek als bedoeld in deze afdeling wordt gelijkgesteld met een besluit in de zin van de Algemene wet bestuursrecht. 
 
 ### Hoofdstuk  4  
 
@@ -1055,8 +1055,8 @@ Een beslissing op een verzoek als bedoeld in deze afdeling wordt gelijkgesteld m
 ### Artikel  4.1  
 
 1.  Het College bescherming persoonsgegevens ziet in het belang van de bescherming van de persoonlijke levenssfeer toe op de uitvoering van deze wet.   
-2.  De [artikelen 60](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), [61](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [65 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zijn van overeenkomstige toepassing.   
-3.  De [artikelen 124](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [268 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) blijven buiten toepassing ten aanzien van het toezicht op het college van burgemeester en wethouders inzake de uitvoering van de hoofdstukken 2 en 3.   
+2.  De artikelen 60, 61 en 65 van de Wet bescherming persoonsgegevens zijn van overeenkomstige toepassing.   
+3.  De artikelen 124 en 268 van de Gemeentewet blijven buiten toepassing ten aanzien van het toezicht op het college van burgemeester en wethouders inzake de uitvoering van de hoofdstukken 2 en 3.   
 4.  Het College wordt om advies gevraagd over voorstellen van wet tot wijziging van deze wet en ontwerpen van algemene maatregelen van bestuur op grond van deze wet die geheel of voor een belangrijk deel betrekking hebben op de verwerking van persoonsgegevens.  
 
 ### Artikel  4.2  
@@ -1136,7 +1136,7 @@ c. de data waarop de onder a en b bedoelde nummers van kracht zijn geworden of b
 a. het administratienummer van de ingeschrevene;  
 
 b. de datum waarop het nummer van kracht is geworden of beëindigd.     
-3.  Tot de laatste van de in de aanhef van het eerste en tweede lid bedoelde data blijft [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) zoals dat luidde voor de inwerkingtreding van deze wet, van toepassing. Tot dat moment wordt aan een niet-ingezetene die wordt ingeschreven in de basisregistratie een administratienummer toegekend. Daarbij is het hiervoor bedoelde artikel 50, eerste, tweede, derde en zesde lid, van overeenkomstige toepassing, met dien verstande dat het nummer wordt toegekend door Onze Minister. Onze Minister neemt de gegevens, bedoeld in het tweede lid, op in de basisregistratie.   
+3.  Tot de laatste van de in de aanhef van het eerste en tweede lid bedoelde data blijft artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens zoals dat luidde voor de inwerkingtreding van deze wet, van toepassing. Tot dat moment wordt aan een niet-ingezetene die wordt ingeschreven in de basisregistratie een administratienummer toegekend. Daarbij is het hiervoor bedoelde artikel 50, eerste, tweede, derde en zesde lid, van overeenkomstige toepassing, met dien verstande dat het nummer wordt toegekend door Onze Minister. Onze Minister neemt de gegevens, bedoeld in het tweede lid, op in de basisregistratie.   
 4.  Een overheidsorgaan kan tot de in het derde lid bedoelde datum bij het verwerken van persoonsgegevens in het kader van de uitvoering van zijn taak gebruik maken van het administratienummer.   
 5.  Een derde kan tot de in het derde lid bedoelde datum bij het verwerken van persoonsgegevens gebruik maken van het administratienummer voor zover dit noodzakelijk is in verband met de juiste verstrekking aan hem van gegevens uit de basisregistratie.   
 6.  Na de in het derde lid bedoelde datum wordt het administratienummer niet meer gebruikt.  
@@ -1147,8 +1147,8 @@ b. de datum waarop het nummer van kracht is geworden of beëindigd.
 
 ### Artikel  4.10  
 
-1.  Een besluit als bedoeld in [artikel 91, eerste lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) geldt na de inwerkingtreding van deze wet als een besluit als bedoeld in artikel 3.2.   
-2.  Een besluit als bedoeld in [artikel 99, zevende lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) geldt na de inwerkingtreding van deze wet als een besluit als bedoeld in artikel 3.3.  
+1.  Een besluit als bedoeld in artikel 91, eerste lid, van de Wet gemeentelijke basisadministratie persoonsgegevens geldt na de inwerkingtreding van deze wet als een besluit als bedoeld in artikel 3.2.   
+2.  Een besluit als bedoeld in artikel 99, zevende lid, van de Wet gemeentelijke basisadministratie persoonsgegevens geldt na de inwerkingtreding van deze wet als een besluit als bedoeld in artikel 3.3.  
 
 ### §  4  
 
@@ -1156,7 +1156,7 @@ b. de datum waarop het nummer van kracht is geworden of beëindigd.
 
 ### Artikel  4.11  
 
-Een persoonslijst als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) geldt na de inwerkingtreding van deze wet als een persoonslijst als bedoeld in artikel 1.1, onderdeel c, van deze wet. 
+Een persoonslijst als bedoeld in artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens geldt na de inwerkingtreding van deze wet als een persoonslijst als bedoeld in artikel 1.1, onderdeel c, van deze wet. 
 
 ### §  5  
 
@@ -1188,7 +1188,7 @@ De verplichting, bedoeld in artikel 2.81, eerste lid, is niet van toepassing na 
 
 ### Artikel  4.15  
 
-1.  Een college van burgemeester en wethouders geeft uitvoering aan deze wet met behulp van de gemeentelijke voorziening waarmee uitvoering werd gegeven aan de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) (de oude gemeentelijke voorziening) of met de gemeentelijke voorziening die is toegesneden op de basisregistratie personen (de nieuwe gemeentelijke voorziening).   
+1.  Een college van burgemeester en wethouders geeft uitvoering aan deze wet met behulp van de gemeentelijke voorziening waarmee uitvoering werd gegeven aan de Wet gemeentelijke basisadministratie persoonsgegevens (de oude gemeentelijke voorziening) of met de gemeentelijke voorziening die is toegesneden op de basisregistratie personen (de nieuwe gemeentelijke voorziening).   
 2.  De overgang van gemeenten van de oude naar de nieuwe voorzieningen geschiedt per gemeente of groep van gemeenten.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld in verband met de overgang, waaronder regels omtrent het tijdstip van de overgang. Bij deze regels kan worden afgeweken van de hoofdstukken 2 en 3 van deze wet, voor zover het betreft: 
 
@@ -1206,7 +1206,7 @@ f. overige aspecten inzake de bijhouding en verstrekking van gegevens, voor zove
 
 ### Artikel  4.16  
 
-1.  Een overheidsorgaan waaraan of een derde aan wie systematisch gegevens worden verstrekt wisselt berichten uit met de centrale voorzieningen op de wijze waarop de berichtuitwisseling plaats vond onder de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) (de oude berichtuitwisseling) of op de wijze die is toegesneden op de basisregistratie personen (de nieuwe berichtuitwisseling).   
+1.  Een overheidsorgaan waaraan of een derde aan wie systematisch gegevens worden verstrekt wisselt berichten uit met de centrale voorzieningen op de wijze waarop de berichtuitwisseling plaats vond onder de Wet gemeentelijke basisadministratie persoonsgegevens (de oude berichtuitwisseling) of op de wijze die is toegesneden op de basisregistratie personen (de nieuwe berichtuitwisseling).   
 2.  De overgang van de in het eerste lid bedoelde overheidsorganen of derden van de oude naar de nieuwe berichtuitwisseling geschiedt per overheidsorgaan of derde, of per groep van organen of derden. De overgang kan betrekking hebben op delen van de organisatie van het overheidsorgaan of de derde en op verschillende wijzen van systematische verstrekking.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld in verband met de overgang, waaronder regels omtrent het tijdstip van de overgang.  
 
@@ -1224,11 +1224,11 @@ b. aan degene met een woonadres in de gemeente die bewust toelaat dat een andere
 
 ### Artikel  4.18  
 
-De termijn, bedoeld in [artikel 12, eerste lid, van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) vangt aan bij degene die op de dag van zijn overlijden ingezetene is, op die dag, en bij degene die na vertrek uit Nederland op de dag vallende honderd jaar na de geboorte niet ingezetene is, op die dag. 
+De termijn, bedoeld in artikel 12, eerste lid, van de Archiefwet 1995 vangt aan bij degene die op de dag van zijn overlijden ingezetene is, op die dag, en bij degene die na vertrek uit Nederland op de dag vallende honderd jaar na de geboorte niet ingezetene is, op die dag. 
 
 ### Artikel  4.19  
 
-De [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) wordt ingetrokken. 
+De Wet gemeentelijke basisadministratie persoonsgegevens wordt ingetrokken. 
 
 ### Artikel  4.20  
 
