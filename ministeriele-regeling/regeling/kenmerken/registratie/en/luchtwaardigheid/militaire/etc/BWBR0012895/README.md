@@ -5,7 +5,7 @@
 De Staatssecretaris van Defensie;  
 Handelende in overeenstemming met de Minister van Verkeer en Waterstaat;
 
-Gelet op de [artikelen 1.2a, eerste en tweede lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.2, derde en vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.3, vijfde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.5, vijfde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.9, vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.12, vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.14, eerste lid, onder b, tweede en derde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.18, vijfde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [10.3 van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md),
+Gelet op de artikelen 1.2a, eerste en tweede lid, 3.2, derde en vierde lid, 3.3, vijfde lid, 3.5, vijfde lid, 3.9, vierde lid, 3.12, vierde lid, 3.14, eerste lid, onder b, tweede en derde lid, 3.18, vijfde lid, en 10.3 van de Wet luchtvaart,
 Besluit:      
 ### 1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a.  wet:   [Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  b.  minister:   Minister van Defensie;  c.register: Nederlandse register voor militaire luchtvaartuigen. 
+In deze regeling wordt verstaan onder: a.  wet:   Wet luchtvaart;  b.  minister:   Minister van Defensie;  c.register: Nederlandse register voor militaire luchtvaartuigen. 
 
 ### 2  
 
@@ -21,7 +21,7 @@ In deze regeling wordt verstaan onder: a.  wet:   [Wet luchtvaart](../../../../.
 
 ### Artikel  2  
 
-Militaire raketten en militaire projectielen zijn vrijgesteld van het verbod, bedoeld in [artikel 1.2a, eerste lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), voor zover deze raketten of projectielen worden gebruikt in een gebied dat voor burgerluchtverkeer is gesloten.  
+Militaire raketten en militaire projectielen zijn vrijgesteld van het verbod, bedoeld in artikel 1.2a, eerste lid, van de wet, voor zover deze raketten of projectielen worden gebruikt in een gebied dat voor burgerluchtverkeer is gesloten.  
 
 ### 3  
 
@@ -91,7 +91,7 @@ Het bewijs van inschrijving van Nederlandse militaire luchtvaartuigen wordt vast
 
 ### Artikel  11  
 
-1.  De minister geeft met betrekking tot een type-ontwerp van een militair luchtvaartuig dan wel van een voortstuwingsinrichting of propeller bestemd voor een militair luchtvaartuig, een type-certificaat als bedoeld in [artikel 3.9, vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) af indien te zijnen genoegen is aangetoond, dat: 
+1.  De minister geeft met betrekking tot een type-ontwerp van een militair luchtvaartuig dan wel van een voortstuwingsinrichting of propeller bestemd voor een militair luchtvaartuig, een type-certificaat als bedoeld in artikel 3.9, vierde lid, van de wet af indien te zijnen genoegen is aangetoond, dat: 
 
 a. het type-ontwerp voldoet aan de voor de militaire luchtvaart in Nederland van toepassing zijnde eisen; 
 

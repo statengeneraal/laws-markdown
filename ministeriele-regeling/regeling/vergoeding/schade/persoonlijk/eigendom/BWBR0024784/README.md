@@ -3,16 +3,16 @@
 ##Regeling vergoeding schade persoonlijk eigendom 
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 69, vijfde lid, van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);
+Gelet op artikel 69, vijfde lid, van het Besluit algemene rechtspositie politie;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *bevoegd gezag:* bevoegd gezag genoemd in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+a.  *bevoegd gezag:* bevoegd gezag genoemd in artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie;  
 
-b.  *ambtenaar:* ambtenaar genoemd in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+b.  *ambtenaar:* ambtenaar genoemd in artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie;  
 
 c.  *schade:* de waardevermindering van persoonlijk eigendom als gevolg van beschadiging of verlies;  
 
@@ -32,13 +32,13 @@ e.  *restwaarde:* de waarde van een product waarbij rekening is gehouden met oud
 2.  In afwijking van het eerste lid wordt bij schade aan brillenglazen, zonnebrilglazen op sterkte en duurzame lenzen de vervangingswaarde vergoed.   
 3.  Voor de volgende artikelen geldt per gebeurtenis bij schade een maximale vergoeding: 
 
-a. brilmonturen: € 209,75  
+a. brilmonturen: € 221,72  
 
-b. horloges: € 104,87  
+b. horloges: € 110,85  
 
-c. sieraden: € 104,87  
+c. sieraden: € 110,85  
 
-d. zonnebrillen: € 52,44.     
+d. zonnebrillen: € 55,43.     
 4.  Iedere drie jaar wordt de hoogte van de in het derde lid genoemde bedragen herzien.   
 5.  Indien herstel van het beschadigde eigendom mogelijk is tegen een geringer geldbedrag dan vervanging, worden ten minste de herstelkosten vergoed.  
 

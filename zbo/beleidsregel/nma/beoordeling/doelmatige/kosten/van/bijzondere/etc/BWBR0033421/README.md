@@ -3,7 +3,7 @@
 ##Beleidsregel NMa beoordeling doelmatige kosten van bijzondere investeringen
 
 De Raad van Bestuur van de Nederlandse Mededingingsautoriteit,  
-Gelet op [artikel 41b, derde lid, van de Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikelen 81b, tweede lid](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [82, tiende lid, van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), alsmede gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op artikel 41b, derde lid, van de Elektriciteitswet 1998 en artikelen 81b, tweede lid en 82, tiende lid, van de Gaswet, alsmede gelet op artikel 4:81, eerste lid, van de Algemene wet bestuursrecht,
 Besluit:     
 ### Eerste afdeling 
 
@@ -15,15 +15,15 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a.  *E-wet:* de [Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+a.  *E-wet:* de Elektriciteitswet 1998;  
 
 b.  *de Minister:* de Minister van Economische Zaken;  
 
-c.  *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+c.  *ACM:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
-d.  *aanleg of uitbreiding van het net:* aanleg of uitbreiding van het net als bedoeld in [artikel 1 van de Regeling melding aanleg- en uitbreidingsinvestering](../../../../../../../../../../ministeriele-regeling/regeling/melding/aanleg-/of/uitbreidingsinvestering/BWBR0030161/README.md);  
+d.  *aanleg of uitbreiding van het net:* aanleg of uitbreiding van het net als bedoeld in artikel 1 van de Regeling melding aanleg- en uitbreidingsinvestering;  
 
-e.  *investering:* een investering als bedoeld in [artikel 20d van de E-wet](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 39e van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) of een investering waarvan de Minister op grond van [artikel 20e van de E-wet](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 39f van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) heeft vastgesteld dat deze noodzakelijk is;  
+e.  *investering:* een investering als bedoeld in artikel 20d van de E-wet en artikel 39e van de Gaswet of een investering waarvan de Minister op grond van artikel 20e van de E-wet of artikel 39f van de Gaswet heeft vastgesteld dat deze noodzakelijk is;  
 
 f.  *kosten van een investering:* het totaal van operationele kosten, afschrijvingslasten en vermogenskosten;  
 
@@ -39,9 +39,19 @@ k.  *integrale beoordeling:* een beoordeling op de doelmatigheid van investering
 
 l.  *globale beoordeling:* niet zijnde een integrale beoordeling;  
 
-m.  *inpassingsplan:* inpassingsplan als bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+m.  *inpassingsplan:* inpassingsplan als bedoeld in artikel 3.28 van de Wet ruimtelijke ordening;  
 
-n.  *tariefvoorstel:* een voorstel als bedoeld in [artikel 41b, eerste lid, van de E-wet](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [artikel 81b, eerste lid, van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) of [artikel 82, derde lid, van de Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md).   
+n.  *tariefvoorstel:* een voorstel als bedoeld in artikel 41b, eerste lid, van de E-wet, artikel 81b, eerste lid, van de Gaswet of artikel 82, derde lid, van de Gaswet; 
+
+o.*overnamekosten:* het totaal van de verwervingskosten, de aanpassingskosten en de operationele kosten;
+
+p.*verwervingskosten:* gemaakte kosten voor verwerving van een bestaand net waarvoor nog niet eerder een netbeheerder was aangewezen door of met instemming van Onze Minister; 
+
+q.*aanpassingskosten:* gemaakte kosten tot aanpassing van een verworven net waardoor aan de bij of krachtens de Elektriciteitswet 1998 of Gaswet daaraan gestelde eisen wordt voldaan;
+
+r.*overname-inkomsten:* het totaal van de extra inkomsten die de netbeheerder krijgt als gevolg van de verwerving van een bestaand net waarvoor nog niet eerder een netbeheerder was aangewezen;
+
+s.*meerkosten:* het verschil tussen de overnamekosten en de overname-inkomsten met een minimum van een nul. 
 
 ### Tweede afdeling 
 
@@ -139,17 +149,43 @@ e. Indien een investering volledig of voor een deel is gerealiseerd zonder gebru
 
 Indien en voor zover de kosten van de investering op grond van het onderzoek als bedoeld in artikel 9, sub a, als doelmatige kosten van de investering worden aangemerkt, neemt de ACM deze doelmatige kosten in aanmerking bij het vaststellen van de jaarlijkse transporttarieven. 
 
-### Zesde afdeling 
+###Zesde afdeling 
+
+####– Beoordeling overnamekosten
+
+### Artikel  11  
+
+a. ACM beoordeelt de doelmatigheid van de overnamekosten door toepassing van een globale beoordeling, voor zover ACM de volgende stukken uiterlijk bij het voorstel voor de tarieven als bedoeld in artikel 41b, eerste lid, van de Elektriciteitswet 1998 en artikel 81b, eerste lid, van de Gaswet heeft ontvangen van de netbeheerder: 
+
+– een overzicht van de overgenomen netten die het jaar van het tariefvoorstel in gebruik zijn genomen en waarvan de investeringen zijn gerealiseerd en geactiveerd, inclusief het aantal nieuwe afnemers per tariefcategorie;  
+
+– een onderbouwing van de totstandkoming van de overnameprijs per overgenomen net;  
+
+– een toelichting op de overnamekosten per overgenomen net die gemaakt zijn met onderscheid naar de verwervingskosten, de aanpassingskosten en de operationele kosten;  
+
+– een toelichting op de overname-inkomsten per overgenomen net die hij zal krijgen uit hoofde van de overname van netten waar nog geen netbeheerder voor was aangewezen;  
+
+– een voorstel tot correctie van de totale inkomsten uit hoofde van de overname van netten waar nog geen netbeheerder voor was aangewezen;  
+
+– documenten ter onderbouwing van dit voorstel.    
+
+b. ACM beoordeelt of de netbeheerder de doelmatigheid van overnamekosten voldoende heeft onderbouwd en of hij voldoende aannemelijk heeft gemaakt dat deze kosten voorvloeien uit de overname van het net. Indien ACM dat noodzakelijk acht, kan zij de netbeheerder vragen om een beknopt rapport van een onafhankelijke partij waaruit blijkt dat de overnamekosten doelmatig zijn dan wel om een verklaring van een accountant dat de kosten die worden vermeld daadwerkelijk zijn gemaakt.  
+
+c. Indien en voor zover de onderbouwing van de overnamekosten als bedoeld onder a als toereikend kwalificeert, neemt ACM de overnamekosten in aanmerking bij het vaststellen van de tarieven.  
+
+d. Indien en voor zover de onderbouwing van (een deel van) de overnamekosten als bedoeld onder a als niet-toereikend kwalificeert, neemt ACM deze kosten (of een deel daarvan) niet in aanmerking bij het vaststellen van de tarieven.   
+
+### Zevende afdeling 
 
 ####– Slotbepalingen
 
-### Artikel  11  
+### Artikel  12  
 
 ####Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ACM beoordeling doelmatige kosten van bijzondere investeringen. 
 
-### Artikel  12  
+### Artikel  13  
 
 ####Inwerkingtreding
 

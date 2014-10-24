@@ -3,11 +3,11 @@
 ##Beschikking van de Minister van Justitie van 14 januari 2010, nr. 5637097/10/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, lotto en het cijferspel
 
 De Minister van Justitie,  
-Overwegende dat de geldigheidsduur van de [Beschikking Sporttotalisator 2009](../../../../../zbo/beschikking/sporttotalisator/2009/BWBR0029705/README.md) op 15 januari 2010 verstrijkt;
+Overwegende dat de geldigheidsduur van de Beschikking Sporttotalisator 2009 op 15 januari 2010 verstrijkt;
 
 Gelezen het verzoek van de Stichting de Nationale Sporttotalisator van 5 oktober 2009, haar opnieuw vergunning te verlenen voor het organiseren van sportprijsvragen, lotto en het cijferspel;
 
-Gelet op de [artikelen 15](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [16](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [21](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [27a](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [27b](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [27c](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [34 van de Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
+Gelet op de artikelen 15, 16, 21, 27a, 27b, 27c en 34 van de Wet op de kansspelen;
 
 Gezien het advies van het College van toezicht op de kansspelen van 29 oktober 2009 (C.793/09);
 Besluit:    
@@ -16,19 +16,19 @@ Besluit:
 
 In deze beschikking wordt verstaan onder: 
 
-a.  *de wet:* [Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+a.  *de wet:* Wet op de kansspelen;  
 
 b.  *de minister:* de Minister van Justitie;  
 
 c.  *de stichting:* de Stichting de Nationale Sporttotalisator, gevestigd te Rijswijk;  
 
-d.  *sportprijsvraag:* een kansspel als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+d.  *sportprijsvraag:* een kansspel als bedoeld in artikel 15, tweede lid, van de wet;  
 
-e.  *lotto:* een kansspel als bedoeld in [artikel 27a, tweede lid, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+e.  *lotto:* een kansspel als bedoeld in artikel 27a, tweede lid, van de wet;  
 
 f. Eurojackpot is een lotto als bedoeld in artikel 1, sub e, welke in Europees verband op gelijktijdige en gecoördineerde wijze in verschillende Europese landen wordt georganiseerd; 
 
-g.  *cijferspel:* een kansspel als bedoeld in [artikel 15, vierde lid](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en [artikel 27a, derde lid van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+g.  *cijferspel:* een kansspel als bedoeld in artikel 15, vierde lid, en artikel 27a, derde lid van de wet;  
 
 h.  *prijzenreserve:* een reservering ten behoeve van het voor uitkering aan prijzen bestemde bedrag;  
 
@@ -36,9 +36,9 @@ i.  *medewerkende verenigingen:* verenigingen en stichtingen aangesloten bij spo
 
 j.  *verkooppunten:* ondernemers bij wie de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;  
 
-k.  *het college:* het College van toezicht op de kansspelen, bedoeld in [artikel 33 van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).  
+k.  *het college:* het College van toezicht op de kansspelen, bedoeld in artikel 33 van de wet.  
 
-l.  *afdracht:* de opbrengst, bedoeld in [artikel 16, tweede lid](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en [artikel 27b, tweede lid, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).   
+l.  *afdracht:* de opbrengst, bedoeld in artikel 16, tweede lid, en artikel 27b, tweede lid, van de wet.   
 
 ### Artikel  2  
 
@@ -58,15 +58,15 @@ l.  *afdracht:* de opbrengst, bedoeld in [artikel 16, tweede lid](../../../../.
 
 ### Artikel  5  
 
-1.  De stichting ziet er op toe dat medewerkende verenigingen en verkooppunten niet in strijd handelen met [artikel 1, aanhef en onder b](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [artikel 20, eerste lid](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en [artikel 27e, eerste lid, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).   
-2.  In de door de stichting met de medewerkende verenigingen en verkooppunten te sluiten overeenkomsten neemt de stichting de bepaling op dat, indien de stichting constateert dat de medewerkende vereniging of het verkooppunt in strijd heeft gehandeld met het bepaalde in [artikel 1, aanhef en onder b](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [artikel 20, eerste lid](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), of [artikel 27e, eerste lid, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), de stichting met onmiddellijke ingang de overeenkomst beëindigt.   
-3.  Van het ingevolge het eerste lid gehouden toezicht en van de ingevolge het tweede lid genomen maatregelen wordt mededeling gedaan in het in [artikel 16, eerste lid](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), bedoelde jaarverslag.  
+1.  De stichting ziet er op toe dat medewerkende verenigingen en verkooppunten niet in strijd handelen met artikel 1, aanhef en onder b, artikel 20, eerste lid, en artikel 27e, eerste lid, van de wet.   
+2.  In de door de stichting met de medewerkende verenigingen en verkooppunten te sluiten overeenkomsten neemt de stichting de bepaling op dat, indien de stichting constateert dat de medewerkende vereniging of het verkooppunt in strijd heeft gehandeld met het bepaalde in artikel 1, aanhef en onder b, artikel 20, eerste lid, of artikel 27e, eerste lid, van de wet, de stichting met onmiddellijke ingang de overeenkomst beëindigt.   
+3.  Van het ingevolge het eerste lid gehouden toezicht en van de ingevolge het tweede lid genomen maatregelen wordt mededeling gedaan in het in artikel 16, eerste lid, bedoelde jaarverslag.  
 
 ### Artikel  6  
 
 1.  De stichting organiseert sportprijsvragen op ten hoogste 150 verschillende sportcompetities en/of sporttoernooien per week met een maximum van ten hoogste 7800 sportcompetities en of sporttoernooien per kalenderjaar.   
 2.  Aan sportprijsvragen kan worden deelgenomen door middel van online registratie via de verkooppunten en door aanmelding van de voorspellingen langs direct elektronische weg.   
-3.  De inleg per enkelvoudige speelkans bij een sportprijsvraag bedraagt ten hoogste € 22,69.   
+3.  De inleg per enkelvoudige speelkans bij een sportprijsvraag bedraagt ten hoogste € 1.000,–.   
 4.  De stichting draagt er zorg voor dat bij deelneming aan sportprijsvragen langs direct elektronische weg: 
 
 a. een deelnemer die ouder is dan 24 jaar niet meer inlegt dan € 1.000,– per week.  
@@ -75,7 +75,7 @@ b. Een deelnemer in de leeftijd van 18 tot 24 jaar niet meer inlegt dan € 100
 
 ### Artikel  7  
 
-1.  De stichting organiseert ten hoogste 422 lotto’s per kalenderjaar.   
+1.  De stichting organiseert ten hoogste 483 lotto’s per kalenderjaar   
 2.  Aan lotto kan worden deelgenomen door middel van online registratie via de verkooppunten dan wel door middel van het afsluiten van een abonnement, rechtstreeks bij de stichting of door tussenkomst van de medewerkende verenigingen of verkooppunten. Aan lotto kan eveneens worden deelgenomen door aanmelding van de voorspellingen langs direct elektronische weg.   
 3.  De trekking van een lotto geschiedt in het openbaar, onder toezicht en verantwoordelijkheid van een notaris, die het verloop van de prijsbepaling en de vaststelling van de winnaars telkens bij proces-verbaal constateert. Bij de trekking van de Eurojackpot kan hiervan worden afgeweken, waarbij geldt dat bij de trekking in ieder geval een methode wordt toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter gewaarborgd is.   
 4.  De inleg per enkelvoudige speelkans bij een lotto bedraagt ten hoogste € 22,69.   
@@ -134,9 +134,9 @@ De stichting zendt binnen één maand na het einde van elk kwartaal aan de minis
 
 ### Artikel  16  
 
-1.  De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.   
-2.  De stichting verleent aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek. Het onderzoek dient mede betrekking te hebben op de naleving door de stichting van het bepaalde in deze beschikking.   
-3.  De stichting voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) kan worden afgegeven.   
+1.  De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek. De minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.   
+2.  De stichting verleent aan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek. Het onderzoek dient mede betrekking te hebben op de naleving door de stichting van het bepaalde in deze beschikking.   
+3.  De stichting voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek kan worden afgegeven.   
 4.  Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de minister en het college.  
 
 ### Artikel  17  
@@ -152,7 +152,7 @@ De kosten verbonden aan keuring, controle en onderzoek ingevolge de artikelen 1
 
 ### Artikel  19  
 
-Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikking Sporttotalisator 2009](../../../../../zbo/beschikking/sporttotalisator/2009/BWBR0029705/README.md) vastgestelde besluiten op deze beschikking. 
+Na de inwerkingtreding van deze beschikking berusten de krachtens de Beschikking Sporttotalisator 2009 vastgestelde besluiten op deze beschikking. 
 
 ### Artikel  20  
 

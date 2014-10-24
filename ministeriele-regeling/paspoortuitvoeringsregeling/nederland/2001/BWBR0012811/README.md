@@ -17,19 +17,19 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a.*de wet:* de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+a.*de wet:* de Paspoortwet;
 
-b.*aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing:* hetgeen ingevolge [artikel 1, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) daaronder wordt verstaan;
+b.*aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing:* hetgeen ingevolge artikel 1, eerste lid, van de wet daaronder wordt verstaan;
 
-c.*aanvrager:* degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) indient of op wie een dergelijke aanvraag betrekking heeft;
+c.*aanvrager:* degene die een aanvraag als bedoeld in artikel 1, onder a, van de wet indient of op wie een dergelijke aanvraag betrekking heeft;
 
-d.*register paspoortsignaleringen:* het register, bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+d.*register paspoortsignaleringen:* het register, bedoeld in artikel 25, derde lid, van de wet;
 
-e.*signalerende autoriteit:* de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), die op grond van [artikel 25 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) een verzoek tot weigering of vervallenverklaring heeft ingediend;
+e.*signalerende autoriteit:* de autoriteit, bedoeld in de artikelen 18 tot en met 24 van de wet, die op grond van artikel 25 van de wet een verzoek tot weigering of vervallenverklaring heeft ingediend;
 
-f.*basisadministratie:* de basisregistratie personen, dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);
+f.*basisadministratie:* de basisregistratie personen, dan wel een basisadministratie als bedoeld in artikel 2 van de Wet basisadministraties persoonsgegevens BES;
 
-g.*basisregister reisdocumenten:* het register, bedoeld in [artikel 4a van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
+g.*basisregister reisdocumenten:* het register, bedoeld in artikel 4a van de wet;
 
 h. *aanvraagsysteem reisdocumenten:* het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;
 
@@ -45,9 +45,9 @@ m.*openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
 n.*aanvraagnummer:* het nummer dat voorgedrukt is op het foto- en handtekeningformulier;
 
-o.*administratienummer:* het administratienummer, bedoeld in [artikel 4.9 van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dan wel in de [artikelen 10](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en [11 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);
+o.*administratienummer:* het administratienummer, bedoeld in artikel 4.9 van de Wet basisregistratie personen, dan wel in de artikelen 10 en 11 van de Wet basisadministraties persoonsgegevens BES;
 
-p.*burgerservicenummer :* het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);
+p.*burgerservicenummer :* het nummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer;
 
 q.*spoedopdracht:* de opdracht aan de leverancier om versneld over te gaan tot vervaardiging en levering van een reisdocument;
 
@@ -67,7 +67,7 @@ x.*uitgiftelocatie:* de locatie bij een bevoegde autoriteit waar de aanvragen aa
 
 y.* transporteur:* het bedrijf dat, in voorkomende gevallen met inschakeling van tussenpersonen, zorg draagt voor de distributie van reisdocumenten, identificatiekaarten en overige materialen tussen het ministerie van Buitenlandse Zaken en de bevoegde autoriteiten in de openbare lichamen;
 
-z.*verblijfsdocument:* een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) blijkt;
+z.*verblijfsdocument:* een document waaruit het verblijfsrecht van de vreemdeling ingevolge de Vreemdelingenwet 2000 of de Wet toelating en uitzetting BES blijkt;
 
 aa.*aanvraagstation:* de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;
 
@@ -75,9 +75,9 @@ bb.*foto- en handtekeningenformulier:* het daartoe door de leverancier beschikba
 
 cc.*aanvraagstationlocatie: *de locatie waar de bevoegde autoriteit met inachtneming van artikel 91 één of meerdere aanvraagstations heeft geplaatst;
 
-dd.*mobiel vingerafdrukopname-apparaat:* de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt;
+dd.*mobiel vingerafdrukopname-apparaat:* de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van artikel 28, derde lid, van de wet niet in persoon verschijnt;
 
-ee.*ingezetene: *een ingezetene als bedoeld in [artikel 1.1, onderdeel f, van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dan wel [artikel 1, onderdeel h, van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).   
+ee.*ingezetene: *een ingezetene als bedoeld in artikel 1.1, onderdeel f, van de Wet basisregistratie personen, dan wel artikel 1, onderdeel h, van de Wet basisadministraties persoonsgegevens BES.   
 2.  Deze regeling is van toepassing op de verstrekking van reisdocumenten door de burgemeesters en de gezaghebbers.  
 
 ### § 2  
@@ -86,7 +86,7 @@ ee.*ingezetene: *een ingezetene als bedoeld in [artikel 1.1, onderdeel f, van de
 
 ### Artikel  2  
 
-Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, eerste lid, onder g, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) zijn: 
+Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge artikel 2, eerste lid, onder g, van de wet zijn: 
 
 a. faciliteitenpaspoort;  
 
@@ -98,7 +98,7 @@ b. tweede paspoort.
 
 ### Artikel  3  
 
-1.  Met betrekking tot de in [artikel 2, eerste lid, onder a tot en met e, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bedoelde reisdocumenten bestaan de navolgende modellen: 
+1.  Met betrekking tot de in artikel 2, eerste lid, onder a tot en met e, van de wet bedoelde reisdocumenten bestaan de navolgende modellen: 
 
 a. nationaal paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort);  
 
@@ -109,17 +109,17 @@ c. dienstpaspoort: model dienstpaspoort en model nationaal paspoort voorzien van
 d. reisdocument voor vluchtelingen: model reisdocument voor vluchtelingen;  
 
 e. reisdocument voor vreemdelingen: model reisdocument voor vreemdelingen.    
-2.  Met betrekking tot het in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bedoelde nooddocument bestaan de navolgende modellen: 
+2.  Met betrekking tot het in artikel 2, eerste lid, onder f, van de wet bedoelde nooddocument bestaan de navolgende modellen: 
 
 a. noodpaspoort: model noodpaspoort;  
 
 b. laissez-passer: model laissez-passer.    
-3.  Met betrekking tot de ingevolge [artikel 2, eerste lid, onder g, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) vastgestelde reisdocumenten bestaan de navolgende modellen: 
+3.  Met betrekking tot de ingevolge artikel 2, eerste lid, onder g, van de wet vastgestelde reisdocumenten bestaan de navolgende modellen: 
 
 a. faciliteitenpaspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VI;  
 
 b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII.    
-4.  Met betrekking tot de ingevolge [artikel 2, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
+4.  Met betrekking tot de ingevolge artikel 2, tweede lid, van de wet genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
 5.  In de modellen, genoemd in het eerste, derde en vierde lid, is een machineleesbare strook en een chip opgenomen.   
 6.  In het model noodpaspoort, genoemd in het tweede lid, onder a, is een machineleesbare strook opgenomen.  
 7.  De in het eerste lid, onder a, en derde lid genoemde reisdocumenten en de Nederlandse identiteitskaart, bedoeld in het vierde lid, vermelden het burgerservicenummer van de houder, tenzij aan de houder geen burgerservicenummer is toegekend.  
@@ -129,7 +129,7 @@ b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 b
 
 ####Reisdocumenten zonder vingerafdrukken
 
-Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt niet voorzien van vingerafdrukken van de houder. 
+Een nooddocument als bedoeld in artikel 2, eerste lid, onder f, van de wet wordt niet voorzien van vingerafdrukken van de houder. 
 
 ### § 4  
 
@@ -145,7 +145,7 @@ Het register paspoortsignaleringen is ondergebracht bij de Minister van Binnenla
 
 ####Administratie van kennisgevingen uit het register
 
-1.  De tot verstrekking dan wel inhouding bevoegde autoriteiten dragen er zorg voor dat de administratie, bedoeld in [artikel 25, vierde en vijfde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), te allen tijde de naam, voornamen, geboortedatum en geboorteplaats bevat van de personen ten aanzien van wie zij op grond van de wet bevoegd zijn tot verstrekking dan wel inhouding.   
+1.  De tot verstrekking dan wel inhouding bevoegde autoriteiten dragen er zorg voor dat de administratie, bedoeld in artikel 25, vierde en vijfde lid, van de wet, te allen tijde de naam, voornamen, geboortedatum en geboorteplaats bevat van de personen ten aanzien van wie zij op grond van de wet bevoegd zijn tot verstrekking dan wel inhouding.   
 2.  De in het eerste lid bedoelde administratie is op naam toegankelijk en kan desgewenst worden gevoerd door het bewaren en raadplegen van de regelmatig toegezonden signaleringslijst en de tussentijdse aanvullingen daarop.  
 
 ### § 5  
@@ -156,12 +156,12 @@ Het register paspoortsignaleringen is ondergebracht bij de Minister van Binnenla
 
 ####Burgemeester en gezaghebber
 
-1. De burgemeester of de gezaghebber neemt ten behoeve van ingezetenen van zijn gemeente, onderscheidenlijk openbaar lichaam naast de in de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde gevallen tevens de aanvragen in ontvangst voor en gaat over tot verstrekking van: 
+1. De burgemeester of de gezaghebber neemt ten behoeve van ingezetenen van zijn gemeente, onderscheidenlijk openbaar lichaam naast de in de wet genoemde gevallen tevens de aanvragen in ontvangst voor en gaat over tot verstrekking van: 
 
 a. faciliteitenpaspoorten;  
 
 b. tweede paspoorten.   
-2.  De gezaghebber neemt ten behoeve van een persoon die in aanmerking komt voor een reisdocument als bedoeld in de [artikelen 9](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [11](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [13](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [14](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), maar op het moment van vertrek uit het openbaar lichaam niet in het bezit is van een geldig nationaal paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, met inachtneming van het bepaalde in hoofdstuk XIVa, een aanvraag in ontvangst voor en gaat over tot de verstrekking van: 
+2.  De gezaghebber neemt ten behoeve van een persoon die in aanmerking komt voor een reisdocument als bedoeld in de artikelen 9, 11, 12, 13, 14 of 15, tweede lid, van de wet, maar op het moment van vertrek uit het openbaar lichaam niet in het bezit is van een geldig nationaal paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, met inachtneming van het bepaalde in hoofdstuk XIVa, een aanvraag in ontvangst voor en gaat over tot de verstrekking van: 
 
 a. een noodpaspoort, indien de aanvrager Nederlander is;  
 
@@ -171,13 +171,13 @@ b. een laissez-passer, indien verstrekking van een noodpaspoort met gebruikmakin
 
 ####De burgemeesters van aangewezen gemeenten
 
-De burgemeesters van Bergen op Zoom, Bergeijk, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland en Oldambt verrichten de handelingen ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en artikel 6, eerste lid, tevens ten behoeve van personen die geen ingezetene van een gemeente zijn.
+De burgemeesters van Bergen op Zoom, Bergeijk, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland en Oldambt verrichten de handelingen ingevolge de wet en artikel 6, eerste lid, tevens ten behoeve van personen die geen ingezetene van een gemeente zijn.
 
 ### Artikel  8  
 
 ####Verwijzing
 
-De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de burgemeester of de gezaghebber die ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en de artikelen 6 en 7 van deze regeling daartoe wel bevoegd is. 
+De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de burgemeester of de gezaghebber die ingevolge de wet en de artikelen 6 en 7 van deze regeling daartoe wel bevoegd is. 
 
 ### Hoofdstuk  II  
 
@@ -208,29 +208,29 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 ### Artikel  11  
 
-####Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 11](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en [13 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 11 en 13 van de wet
 
-1.  De vaststelling van het recht op een reisdocument voor vluchtelingen als bedoeld in [artikel 11 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt op grond van de gegevens die over het verblijfsrecht en de nationaliteit van de aanvrager in de basisadministratie zijn opgenomen, alsmede aan de hand van het door de aanvrager overgelegde verblijfsdocument waaruit diens nationaliteit blijkt, en: 
+1.  De vaststelling van het recht op een reisdocument voor vluchtelingen als bedoeld in artikel 11 van de wet geschiedt op grond van de gegevens die over het verblijfsrecht en de nationaliteit van de aanvrager in de basisadministratie zijn opgenomen, alsmede aan de hand van het door de aanvrager overgelegde verblijfsdocument waaruit diens nationaliteit blijkt, en: 
 
-a. waaruit diens verblijfsrecht ingevolge [artikel 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, of  
+a. waaruit diens verblijfsrecht ingevolge artikel 28 of 33 van de Vreemdelingenwet 2000 blijkt, of  
 
-b. waaruit diens verblijfsrecht ingevolge [artikel 12a van de Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) blijkt.     
-2.  De vaststelling van het recht op een reisdocument voor vreemdelingen als bedoeld in [artikel 13 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) geschiedt op grond van de gegevens die over het verblijfsrecht en de staatloosheid van de aanvrager in de basisadministratie zijn opgenomen, alsmede aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit het gegeven van diens staatloosheid blijkt, en: 
+b. waaruit diens verblijfsrecht ingevolge artikel 12a van de Wet toelating en uitzetting BES blijkt.     
+2.  De vaststelling van het recht op een reisdocument voor vreemdelingen als bedoeld in artikel 13 van de wet geschiedt op grond van de gegevens die over het verblijfsrecht en de staatloosheid van de aanvrager in de basisadministratie zijn opgenomen, alsmede aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit het gegeven van diens staatloosheid blijkt, en: 
 
-a. waaruit diens verblijfsrecht ingevolge [artikel 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [20 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, of  
+a. waaruit diens verblijfsrecht ingevolge artikel 14 of 20 van de Vreemdelingenwet 2000 blijkt, of  
 
 b. waaruit diens toelating als staatloze in de openbare lichamen blijkt.     
 3.  Indien de in de basisadministratie opgenomen gegevens als bedoeld in het eerste en tweede lid afwijken van de gegevens die zijn vermeld in het door de aanvrager overgelegde verblijfsdocument dan wel anderszins onzekerheid bestaat over deze gegevens, wordt daarnaar een gericht onderzoek ingesteld waarbij de gegevens die over het verblijfsrecht en de nationaliteit dan wel staatloosheid van de aanvrager in de vreemdelingenadministratie zijn opgenomen, mede worden betrokken.  
 
 ### Artikel  12  
 
-####Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [14](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 12, 14 en 15, tweede lid, van de wet
 
 1.  Behoudens het bepaalde in artikel 15a, wordt gebruik gemaakt van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier bij de vaststelling van de aanspraak op verstrekking: 
 
-a. van een reisdocument als bedoeld in [artikel 14](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de burgemeester, of  
+a. van een reisdocument als bedoeld in artikel 14 of 15, tweede lid, van de wet door de burgemeester, of  
 
-b. van een reisdocument als bedoeld in [artikel 12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), [14](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de gezaghebber.     
+b. van een reisdocument als bedoeld in artikel 12, 14 of 15, tweede lid, van de wet door de gezaghebber.     
 2.  In het formulier worden naast de geslachtsnaam, voornamen, geboortedatum en geboorteplaats van de aanvrager de navolgende gegevens vermeld: 
 
 I. met betrekking tot de nationaliteit:  
@@ -267,9 +267,9 @@ b. de reden waarom van de aanvrager niet kan worden gevergd, dat hij een reisdoc
 
 c. indien de aanvrager een verzoek om naturalisatie tot Nederlander heeft ingediend, op welke datum dit is geschied, in welk stadium de procedure zich bevindt en wat het daarop betrekking hebbende behandelingsnummer van het ministerie van Justitie is, dan wel  
 
-d. indien de aanvrager van een reisdocument als bedoeld in [artikel 12](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in het bezit is van een verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd, met welk doel hij zich wenst te begeven buiten het Europese dan wel het Caribische deel van Nederland.     
+d. indien de aanvrager van een reisdocument als bedoeld in artikel 12 of 15, tweede lid, van de wet niet in het bezit is van een verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd, met welk doel hij zich wenst te begeven buiten het Europese dan wel het Caribische deel van Nederland.     
 3.  De daartoe aangewezen ambtenaar voorziet het formulier op de bestemde plaats van zijn handtekening.   
-4.  De burgemeester of de gezaghebber verwijst een persoon die een aanvraag voor de verstrekking van een reisdocument voor vreemdelingen als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wil indienen naar de Minister van Buitenlandse Zaken, indien de betrokken persoon zich naar een land wenst te begeven waar hij met een laissez-passer toegang en verblijf kan verkrijgen.  
+4.  De burgemeester of de gezaghebber verwijst een persoon die een aanvraag voor de verstrekking van een reisdocument voor vreemdelingen als bedoeld in artikel 15, tweede lid, van de wet wil indienen naar de Minister van Buitenlandse Zaken, indien de betrokken persoon zich naar een land wenst te begeven waar hij met een laissez-passer toegang en verblijf kan verkrijgen.  
 
 ### Artikel  13  
 
@@ -291,28 +291,28 @@ d. het aan de aanvrager verstrekte verblijfsdocument met vermelding van het docu
 
 ### Artikel  13a  
 
-####Beslissing inzake de aanspraak op een reisdocument als bedoeld in [artikel 12 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), aangevraagd in de openbare lichamen
+####Beslissing inzake de aanspraak op een reisdocument als bedoeld in artikel 12 van de wet, aangevraagd in de openbare lichamen
 
-1.  De Minister van Justitie vermeldt in het formulier of tegen het verlenen van een reisdocument voor vluchtelingen als bedoeld in [artikel 12 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) op verblijfsrechtelijke gronden bedenkingen bestaan. Indien dit het geval is, vermeldt de Minister van Justitie in het formulier zijn bedenkingen.   
+1.  De Minister van Justitie vermeldt in het formulier of tegen het verlenen van een reisdocument voor vluchtelingen als bedoeld in artikel 12 van de wet op verblijfsrechtelijke gronden bedenkingen bestaan. Indien dit het geval is, vermeldt de Minister van Justitie in het formulier zijn bedenkingen.   
 2.  De daartoe aangewezen ambtenaar voorziet het formulier op de bestemde plaats van zijn handtekening en zendt het aan de Minister van Buitenlandse Zaken.   
-3.  De Minister van Buitenlandse Zaken vermeldt in het formulier of en zo ja, welke bedenkingen hij heeft tegen de verstrekking van het aangevraagde reisdocument. Het formulier wordt door de daartoe aangewezen ambtenaar op de bestemde plaats voorzien van zijn handtekening en teruggezonden aan de gezaghebber waar de aanvraag is ingediend. Het teruggezonden formulier wordt door de gezaghebber aangemerkt als de in [artikel 40, zesde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken of door de aanvrager is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vluchtelingen als bedoeld in [artikel 12 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). In dat geval is het in het teruggezonden formulier neergelegde oordeel van de Minister van Buitenlandse Zaken doorslaggevend.  
+3.  De Minister van Buitenlandse Zaken vermeldt in het formulier of en zo ja, welke bedenkingen hij heeft tegen de verstrekking van het aangevraagde reisdocument. Het formulier wordt door de daartoe aangewezen ambtenaar op de bestemde plaats voorzien van zijn handtekening en teruggezonden aan de gezaghebber waar de aanvraag is ingediend. Het teruggezonden formulier wordt door de gezaghebber aangemerkt als de in artikel 40, zesde lid, van de wet vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken of door de aanvrager is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vluchtelingen als bedoeld in artikel 12 van de wet. In dat geval is het in het teruggezonden formulier neergelegde oordeel van de Minister van Buitenlandse Zaken doorslaggevend.  
 
 ### Artikel  14  
 
-####Beslissing inzake de aanspraak op een reisdocument als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Beslissing inzake de aanspraak op een reisdocument als bedoeld in artikel 14 van de wet
 
-1.  Indien de Minister van Justitie heeft vastgesteld, dat de aanvrager niet beschikt over een geldige verblijfsvergunning voor bepaalde tijd dan wel voor onbepaalde tijd, zendt hij het formulier met deze mededeling terug aan de burgemeester of de gezaghebber waar de aanvraag is ingediend. Het teruggezonden formulier wordt door de burgemeester of de gezaghebber aangemerkt als de in [artikel 40, vijfde en zesde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken, inhoudende dat door de aanvrager niet is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+1.  Indien de Minister van Justitie heeft vastgesteld, dat de aanvrager niet beschikt over een geldige verblijfsvergunning voor bepaalde tijd dan wel voor onbepaalde tijd, zendt hij het formulier met deze mededeling terug aan de burgemeester of de gezaghebber waar de aanvraag is ingediend. Het teruggezonden formulier wordt door de burgemeester of de gezaghebber aangemerkt als de in artikel 40, vijfde en zesde lid, van de wet vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken, inhoudende dat door de aanvrager niet is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in artikel 14 van de wet.   
 2.  Indien de Minister van Justitie heeft vastgesteld, dat de aanvrager beschikt over een geldige verblijfsvergunning voor bepaalde tijd dan wel voor onbepaalde tijd, zendt hij het aanvraagformulier met deze mededeling aan de Minister van Buitenlandse Zaken, die beslist of aan de aanvrager die geen reisdocument van een ander land kan verkrijgen dan wel die kan aantonen dat van hem redelijkerwijs niet kan worden gevergd dat hij van een ander land een reisdocument aanvraagt, een reisdocument voor vreemdelingen kan worden verstrekt.   
 3.  De Minister van Buitenlandse Zaken vermeldt in het formulier zijn beslissing inzake de verstrekking van het aangevraagde reisdocument. De daartoe aangewezen ambtenaar voorziet op de bestemde plaats het formulier van zijn handtekening en zendt het terug aan de burgemeester of de gezaghebber waar de aanvraag is ingediend.   
-4.  Indien de Minister van Buitenlandse Zaken geen bedenkingen heeft tegen het verlenen van het aangevraagde reisdocument, wordt het teruggezonden formulier door de burgemeester of de gezaghebber aangemerkt als de in [artikel 40, vijfde en zesde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken, inhoudende dat door de aanvrager is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
-5.  Indien de Minister van Buitenlandse Zaken bedenkingen heeft tegen het verlenen van het aangevraagde reisdocument, legt hij deze bedenkingen vast in een beschikking die rechtstreeks aan de aanvrager wordt gezonden. Bij de terugzending van het formulier aan de burgemeester of de gezaghebber wordt een afschrift van de beschikking meegezonden. Het teruggezonden formulier wordt door de burgemeester of de gezaghebber aangemerkt als een mededeling van de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken, inhoudende dat bij beschikking van de Minister van Buitenlandse Zaken is vastgesteld, dat door de aanvrager niet is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+4.  Indien de Minister van Buitenlandse Zaken geen bedenkingen heeft tegen het verlenen van het aangevraagde reisdocument, wordt het teruggezonden formulier door de burgemeester of de gezaghebber aangemerkt als de in artikel 40, vijfde en zesde lid, van de wet vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken, inhoudende dat door de aanvrager is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in artikel 14 van de wet.   
+5.  Indien de Minister van Buitenlandse Zaken bedenkingen heeft tegen het verlenen van het aangevraagde reisdocument, legt hij deze bedenkingen vast in een beschikking die rechtstreeks aan de aanvrager wordt gezonden. Bij de terugzending van het formulier aan de burgemeester of de gezaghebber wordt een afschrift van de beschikking meegezonden. Het teruggezonden formulier wordt door de burgemeester of de gezaghebber aangemerkt als een mededeling van de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken, inhoudende dat bij beschikking van de Minister van Buitenlandse Zaken is vastgesteld, dat door de aanvrager niet is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in artikel 14 van de wet.   
 6.  De burgemeester of de gezaghebber aan wie het formulier ingevolge het vijfde lid is teruggezonden, neemt geen beslissing op de aanvraag gedurende de periode dat nog een beroepstermijn tegen de beschikking van de Minister van Buitenlandse Zaken open staat dan wel een daarop betrekking hebbende beroepsprocedure aanhangig is. Indien door de aanvrager beroep is aangetekend tegen de beschikking van de Minister van Buitenlandse Zaken, stelt deze de burgemeester of de gezaghebber hiervan en van de afloop van deze beroepsprocedure terstond in kennis.  
 
 ### Artikel  15  
 
-####Beslissing inzake de aanspraak op een reisdocument als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Beslissing inzake de aanspraak op een reisdocument als bedoeld in artikel 15, tweede lid, van de wet
 
-1.  De Minister van Justitie vermeldt in het formulier of tegen het verlenen van een reisdocument voor vreemdelingen als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) op verblijfsrechtelijke gronden bedenkingen bestaan. Indien dit het geval is, vermeldt de Minister van Justitie in het formulier als bedenkingen: 
+1.  De Minister van Justitie vermeldt in het formulier of tegen het verlenen van een reisdocument voor vreemdelingen als bedoeld in artikel 15, tweede lid, van de wet op verblijfsrechtelijke gronden bedenkingen bestaan. Indien dit het geval is, vermeldt de Minister van Justitie in het formulier als bedenkingen: 
 
 a. de aanvrager dient in het bezit te zijn van een geldig reisdocument voor grensoverschrijding, verstrekt door de autoriteiten van een ander land, dan wel  
 
@@ -322,35 +322,35 @@ c. de verblijfsvergunning van de aanvrager is of wordt ingetrokken, dan wel
 
 d. andere bedenkingen.    
 2.  De daartoe aangewezen ambtenaar voorziet het formulier op de bestemde plaats van zijn handtekening en zendt het aan de Minister van Buitenlandse Zaken.   
-3.  De Minister van Buitenlandse Zaken vermeldt in het formulier of en zo ja, welke bedenkingen hij heeft tegen de verstrekking van het aangevraagde reisdocument. Het formulier wordt door de daartoe aangewezen ambtenaar op de bestemde plaats voorzien van zijn handtekening en teruggezonden aan de burgemeester of de gezaghebber waar de aanvraag is ingediend. Het teruggezonden formulier wordt door de burgemeester of de gezaghebber aangemerkt als de in [artikel 40, vijfde en zesde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken of door de aanvrager is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). In dat geval is het in het teruggezonden formulier neergelegde oordeel van de Minister van Buitenlandse Zaken doorslaggevend.  
+3.  De Minister van Buitenlandse Zaken vermeldt in het formulier of en zo ja, welke bedenkingen hij heeft tegen de verstrekking van het aangevraagde reisdocument. Het formulier wordt door de daartoe aangewezen ambtenaar op de bestemde plaats voorzien van zijn handtekening en teruggezonden aan de burgemeester of de gezaghebber waar de aanvraag is ingediend. Het teruggezonden formulier wordt door de burgemeester of de gezaghebber aangemerkt als de in artikel 40, vijfde en zesde lid, van de wet vereiste vaststelling door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken of door de aanvrager is voldaan aan de voorwaarden voor een aanspraak op verstrekking van een reisdocument voor vreemdelingen als bedoeld in artikel 15, tweede lid, van de wet. In dat geval is het in het teruggezonden formulier neergelegde oordeel van de Minister van Buitenlandse Zaken doorslaggevend.  
 
 ### Artikel  15a  
 
-####Vaststelling aanspraken op een reisdocument als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) voor in Nederland geboren minderjarige vreemdelingen
+####Vaststelling aanspraken op een reisdocument als bedoeld in artikel 14 van de wet voor in Nederland geboren minderjarige vreemdelingen
 
-1.  Met betrekking tot de aanspraak op verstrekking van een reisdocument van een in Nederland geboren kind, dat de leeftijd van zestien jaren nog niet heeft bereikt en van wie ieder van de ouders die gezamenlijk het gezag uitoefenen dan wel van wie de ouder die alleen het gezag uitoefent, beschikt over een verblijfsrecht ingevolge [artikel 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel ingevolge [artikel 12a van de Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), wordt op voorhand aangenomen dat ingevolge [artikel 40, vijfde en zesde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken is vastgesteld dat aan de voorwaarden als bedoeld in [artikel 14 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is voldaan.  
-2.  De vaststelling van de aanspraak op verstrekking van het reisdocument dat ingevolge het eerste lid wordt aangevraagd, geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit diens verblijfsrecht ingevolge [artikel 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [20 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel ingevolge de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), en diens nationaliteit blijkt, alsmede op grond van de gegevens die over het verblijfsrecht en de nationaliteit van de aanvrager in de basisadministratie zijn opgenomen.   
+1.  Met betrekking tot de aanspraak op verstrekking van een reisdocument van een in Nederland geboren kind, dat de leeftijd van zestien jaren nog niet heeft bereikt en van wie ieder van de ouders die gezamenlijk het gezag uitoefenen dan wel van wie de ouder die alleen het gezag uitoefent, beschikt over een verblijfsrecht ingevolge artikel 28 of 33 van de Vreemdelingenwet 2000, dan wel ingevolge artikel 12a van de Wet toelating en uitzetting BES, wordt op voorhand aangenomen dat ingevolge artikel 40, vijfde en zesde lid, van de wet, door de Minister van Justitie in overeenstemming met de Minister van Buitenlandse Zaken is vastgesteld dat aan de voorwaarden als bedoeld in artikel 14 van de wet is voldaan.  
+2.  De vaststelling van de aanspraak op verstrekking van het reisdocument dat ingevolge het eerste lid wordt aangevraagd, geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit diens verblijfsrecht ingevolge artikel 14 of 20 van de Vreemdelingenwet 2000, dan wel ingevolge de Wet toelating en uitzetting BES, en diens nationaliteit blijkt, alsmede op grond van de gegevens die over het verblijfsrecht en de nationaliteit van de aanvrager in de basisadministratie zijn opgenomen.   
 3.  Artikel 11, derde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  16  
 
 ####Geldigheid
 
-1.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
-2.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel als bedoeld in [artikel 12a van de Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), is geldig: 
+1.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33 van de Vreemdelingenwet 2000, is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
+2.  Een reisdocument voor vluchtelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000, dan wel als bedoeld in artikel 12a van de Wet toelating en uitzetting BES, is geldig: 
 
 a. tot de datum waarop de geldigheidsduur van de verblijfsvergunning eindigt, met een minimale geldigheidsduur van een jaar en een maximale geldigheidsduur van drie jaren, en  
 
 b. voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.    
-3.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel als bedoeld in de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
-4.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel als bedoeld in de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), is geldig: 
+3.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20 van de Vreemdelingenwet 2000, dan wel als bedoeld in de Wet toelating en uitzetting BES, is geldig voor vijf jaren en voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.   
+4.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, dan wel als bedoeld in de Wet toelating en uitzetting BES, is geldig: 
 
 a. tot de datum waarop de geldigheidsduur van de verblijfsvergunning eindigt, met een maximale geldigheidsduur van vijf jaren, en  
 
 b. voor alle landen, met uitzondering van het land waarvan de houder de nationaliteit bezit.    
-5.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld, is geldig voor vijf jaren en voor alle landen.  
+5.  Een reisdocument voor vreemdelingen, verstrekt aan een persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld, is geldig voor vijf jaren en voor alle landen.  
 6. Op een reisdocument voor vreemdelingen, verstrekt op grond van artikel 15a, is het bepaalde in het derde en vierde lid van overeenkomstige toepassing, met dien verstande dat het reisdocument ten hoogste geldig is tot de datum waarop de houder de leeftijd van zestien jaren bereikt. 
-7.  Een reisdocument voor vreemdelingen als bedoeld in [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), is geldig: 
+7.  Een reisdocument voor vreemdelingen als bedoeld in artikel 15, tweede lid, van de wet, is geldig: 
 
 a. voor het land van bestemming en de landen waarvan de houder op zijn doorreis de grens passeert, met uitzondering van het land waarvan de houder de nationaliteit bezit;  
 
@@ -365,7 +365,7 @@ b. voor de duur van de reis, waarbij rekening wordt gehouden met de door het lan
 
 ####Aanspraken
 
-1.  Aan een staatloze persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld, wordt op zijn verzoek binnen de grenzen bij de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bepaald een faciliteitenpaspoort verstrekt.   
+1.  Aan een staatloze persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld, wordt op zijn verzoek binnen de grenzen bij de wet bepaald een faciliteitenpaspoort verstrekt.   
 2.  Indien onzekerheid bestaat over de behandeling als Nederlander van de aanvrager, wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de behandeling als Nederlander met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, en eventuele andere bewijsstukken.  
 
 ### Artikel  18  
@@ -383,7 +383,7 @@ b. voor de duur van de reis, waarbij rekening wordt gehouden met de door het lan
 
 ####Aanspraken
 
-1.  Ingevolge [artikel 30, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) kan een tweede paspoort worden verstrekt op verzoek van houders van een nationaal paspoort, die aantonen dat zij voor zakelijke of beroepsmatige redenen: 
+1.  Ingevolge artikel 30, eerste lid, van de wet kan een tweede paspoort worden verstrekt op verzoek van houders van een nationaal paspoort, die aantonen dat zij voor zakelijke of beroepsmatige redenen: 
 
 a. in een reis achtereenvolgens verschillende landen moeten bezoeken waarbij zij de gerede kans lopen dat hun toelating tot een land op problemen zal stuiten, omdat uit het daartoe over te leggen nationaal paspoort blijkt dat zij eerder in een ander land zijn geweest, dan wel  
 
@@ -424,7 +424,7 @@ b. regelmatig dringend moeten reizen op een tijdstip dat hun nationaal paspoort 
 1.  Voor het verkrijgen van de nodige zekerheid over de identiteit van de aanvrager wordt gebruik gemaakt van het door de aanvrager overgelegde Nederlandse reisdocument, alsmede van de gegevens die over de aanvrager in de basisadministratie zijn opgenomen.   
 2.  Indien de aanvrager niet in staat is een eerder uitgereikt Nederlands reisdocument over te leggen, de in het overgelegde reisdocument vermelde gegevens afwijken van de gegevens die over de aanvrager in de basisadministratie zijn opgenomen, dan wel anderszins onvoldoende zekerheid bestaat over de identiteit van de aanvrager, worden de in de reisdocumentenadministratie opgenomen gegevens behorende bij het eerder aan betrokkene uitgereikte reisdocument, niet zijnde een nooddocument, geraadpleegd. Tevens worden in dat geval nadere identificerende vragen gesteld.   
 3.  Berusten de in het tweede lid bedoelde gegevens bij een andere autoriteit, dan wordt deze verzocht om kosteloze verstrekking van een afschrift van de gevraagde gegevens uit de reisdocumentenadministratie. In de aanvraag wordt vermeld bij welke autoriteit de gegevens zijn opgevraagd.   
-4.  In afwijking van het tweede en het derde lid kan bij vermissing van een eerder uitgereikt reisdocument het raadplegen van de gegevens uit de reisdocumentenadministratie achterwege blijven, indien de identiteit van de aanvrager met voldoende zekerheid kan worden vastgesteld aan de hand van een ander op grond van [artikel 30 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) aan de aanvrager uitgereikt geldig reisdocument.   
+4.  In afwijking van het tweede en het derde lid kan bij vermissing van een eerder uitgereikt reisdocument het raadplegen van de gegevens uit de reisdocumentenadministratie achterwege blijven, indien de identiteit van de aanvrager met voldoende zekerheid kan worden vastgesteld aan de hand van een ander op grond van artikel 30 van de wet aan de aanvrager uitgereikt geldig reisdocument.   
 5.  De aanvrager aan wie niet eerder een Nederlands reisdocument is verstrekt, dient bij zijn aanvraag andere identiteitsdocumenten die voorzien zijn van zijn foto en handtekening over te leggen. Indien hij dergelijke documenten niet kan overleggen of ondanks overlegging van deze documenten twijfel blijft bestaan over zijn identiteit, wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de identiteit met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, en eventuele andere bewijsstukken.   
 6.  In de aanvraag wordt vermeld dat de identiteit van de aanvrager is vastgesteld en met welke documenten of andere bewijsstukken de identiteitsvaststelling heeft plaatsgevonden.  
 
@@ -478,12 +478,12 @@ In de aanvraag voor een reisdocument, niet zijnde een Nederlandse identiteitskaa
 
 ####Vermist of ingenomen reisdocument bij aanvraag
 
-1.  Indien een eerder uitgereikt Nederlands reisdocument is vermist of op andere gronden dan ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, in de aanvraag vermeld. Indien deze gegevens op het moment van de aanvraag niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.   
-2.  De ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde gewaarmerkte kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
-3.  De daartoe aangewezen ambtenaar maakt een kopie van de door de aanvrager over te leggen schriftelijke verklaring omtrent de inname van zijn reisdocument als bedoeld in [artikel 31, vierde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+1.  Indien een eerder uitgereikt Nederlands reisdocument is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, in de aanvraag vermeld. Indien deze gegevens op het moment van de aanvraag niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.   
+2.  De ingevolge artikel 31, eerste lid, van de wet door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in artikel 31, tweede lid, van de wet genoemde gewaarmerkte kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
+3.  De daartoe aangewezen ambtenaar maakt een kopie van de door de aanvrager over te leggen schriftelijke verklaring omtrent de inname van zijn reisdocument als bedoeld in artikel 31, vierde lid, van de wet.   
 4.  De schriftelijke verklaring omtrent de vermissing en de bijgevoegde gewaarmerkte kopie van het proces-verbaal van de politie dan wel de kopie van de schriftelijke verklaring omtrent de inname worden bewaard in de reisdocumentenadministratie.   
 5.  De datum waarop de schriftelijke verklaring omtrent de vermissing wordt afgelegd dan wel de schriftelijke verklaring omtrent de inname wordt overgelegd, alsmede het nummer van het proces-verbaal van de politie, bedoeld in het tweede lid, worden in de aanvraag vermeld.   
-6.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven terstond opgenomen in de basisadministratie.  
+6.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven terstond opgenomen in de basisadministratie.  
 
 ### Artikel  28  
 
@@ -514,7 +514,7 @@ Indien de persoon aan wie het aangevraagde reisdocument moet worden verstrekt do
 
 ####Verschijning van de aanvrager in persoon
 
-Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet persoonlijk bij het indienen van de aanvraag is verschenen, wordt dit gegeven met de reden daarvan in de aanvraag vermeld. 
+Indien de aanvrager ingevolge artikel 28, derde lid, van de wet niet persoonlijk bij het indienen van de aanvraag is verschenen, wordt dit gegeven met de reden daarvan in de aanvraag vermeld. 
 
 ### § 2  
 
@@ -524,7 +524,7 @@ Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../..
 
 ####Overleggen verklaring van toestemming
 
-1.  De verklaring van toestemming als bedoeld in de [artikelen 34 tot en met 37 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) dient schriftelijk te worden overgelegd.   
+1.  De verklaring van toestemming als bedoeld in de artikelen 34 tot en met 37 van de wet dient schriftelijk te worden overgelegd.   
 2.  In de verklaring van toestemming worden tevens de naam en de handtekening vermeld van degene die de aanvraag ten behoeve van een handelingsonbekwame indient.   
 3.  In de aanvraag wordt melding gemaakt van de overlegging van de betreffende verklaring van toestemming.  
 
@@ -556,7 +556,7 @@ Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](../../../../..
 1.  De daartoe aangewezen ambtenaar vergelijkt, behoudens in het in artikel 30 bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto op de bestemde plaats in het foto- en handtekeningformulier aan.   
 2.  De in het eerste lid bedoelde ambtenaar ziet, behoudens in het in artikel 29 bedoelde geval, er op toe dat in het foto- en handtekeningformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan.   
 3.  Het foto- en handtekeningformulier wordt door de in het eerste lid bedoelde ambtenaar met gebruikmaking van het aanvraagstation gedigitaliseerd.   
-4.  Het opnemen van de vingerafdrukken als bedoeld in artikel 28a, geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.  
+4.  Het opnemen van de vingerafdrukken als bedoeld in artikel 28a, geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van artikel 28, derde lid, van de wet niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.  
 
 ### § 5  
 
@@ -599,7 +599,7 @@ De daartoe aangewezen ambtenaar zendt, nadat is vastgesteld dat het aangevraagde
 ####In ontvangstneming van geleverde documenten in de gemeenten
 
 1.  De reisdocumenten en identificatiekaarten worden in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in artikel 81, eerste lid.   
-2.  De in het eerste lid genoemde ambtenaar toont de in artikel 81, tweede lid, bedoelde postmachtiging van de distributeur en legitimeert zich, op verzoek van de besteller, met een identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+2.  De in het eerste lid genoemde ambtenaar toont de in artikel 81, tweede lid, bedoelde postmachtiging van de distributeur en legitimeert zich, op verzoek van de besteller, met een identiteitsdocument als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
 3.  De aflevering van de zending vindt plaats op het voor de desbetreffende uitgiftelocatie afgesproken tijdstip. Bij aflevering kan de besteller worden verplicht zich te identificeren met een door de distributeur aan haar werknemers beschikbaar gestelde legitimatie.   
 4.  Indien de persoon die de zending in ontvangst neemt zich desgevraagd niet of niet voldoende kan legitimeren dan wel onvoldoende zekerheid bestaat met betrekking tot zijn bevoegdheid om de zending in ontvangst te nemen, dan wel om enige andere reden door een handelen of nalaten van de bevoegde autoriteit een veilige aflevering op de uitgiftelocatie niet mogelijk is, draagt de besteller de zending niet over.  
 
@@ -607,7 +607,7 @@ De daartoe aangewezen ambtenaar zendt, nadat is vastgesteld dat het aangevraagde
 
 ####In ontvangstneming van geleverde documenten in de openbare lichamen
 
-1.  De gepersonaliseerde reisdocumenten en identificatiekaarten die bestemd zijn voor de openbare lichamen, worden in Nederland bij het ministerie van Buitenlandse Zaken afgeleverd. De [artikelen 57 tot en met 60 van de Paspoortuitvoeringsregeling Buitenland 2001](../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/buitenland/2001/BWBR0012810/README.md) zijn van overeenkomstige toepassing.   
+1.  De gepersonaliseerde reisdocumenten en identificatiekaarten die bestemd zijn voor de openbare lichamen, worden in Nederland bij het ministerie van Buitenlandse Zaken afgeleverd. De artikelen 57 tot en met 60 van de Paspoortuitvoeringsregeling Buitenland 2001 zijn van overeenkomstige toepassing.   
 2.  De in het eerste lid bedoelde documenten worden door de transporteur afgeleverd bij de uitgiftelocatie in de openbare lichamen.   
 3.  Op de uitgiftelocatie worden de in het eerste lid bedoelde documenten in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in artikel 82, eerste lid, die zich legitimeert met een geldig identiteitsdocument.   
 4.  De aflevering van de zending vindt plaats op het voor de desbetreffende uitgiftelocatie afgesproken tijdstip.   
@@ -677,7 +677,7 @@ b. na het verwachte tijdstip zijn ontvangen en waarvan inmiddels het daarop betr
 
 ####Algemeen
 
-Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld, tenzij [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van toepassing is.
+Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld, tenzij artikel 28, derde lid, van de wet van toepassing is.
 
 ### Artikel  50a  
 
@@ -706,7 +706,7 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 ### Artikel  54  
 
 1.  Uitsluitend indien op grond van artikel 7 door een burgemeester als bedoeld in artikel 7 een reisdocument wordt verstrekt en de aanvrager bij de aanvraag aannemelijk heeft gemaakt dat van hem redelijkerwijs niet kan worden gevergd dat hij in persoon verschijnt bij de uitreiking, wordt het reisdocument per aangetekende post aan hem toegezonden.  
-2.  De inlevering van de Nederlandse reisdocumenten, bedoeld in [artikel 32 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), geschiedt in dat geval door deze reisdocumenten per aangetekende post toe te sturen aan de in het eerste lid bedoelde autoriteit.  
+2.  De inlevering van de Nederlandse reisdocumenten, bedoeld in artikel 32 van de wet, geschiedt in dat geval door deze reisdocumenten per aangetekende post toe te sturen aan de in het eerste lid bedoelde autoriteit.  
 3.  Tot toezending van het uit te reiken reisdocument wordt niet overgegaan dan na ontvangst van de ingevolge het tweede lid toegestuurde reisdocumenten.  
 
 ### Artikel  55  
@@ -738,15 +738,15 @@ Dit hoofdstuk is niet van toepassing op Nederlandse identiteitskaarten.
 
 ####Informatie over de gesignaleerde persoon
 
-1.  De burgemeester of de gezaghebber die een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon die blijkens de in artikel 5 bedoelde administratie in het register paspoortsignaleringen is opgenomen, verzoekt ingevolge [artikel 44, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) bij brief of per faxbericht aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties hem mede te delen of zulks nog steeds het geval is.   
+1.  De burgemeester of de gezaghebber die een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon die blijkens de in artikel 5 bedoelde administratie in het register paspoortsignaleringen is opgenomen, verzoekt ingevolge artikel 44, tweede lid, van de wet bij brief of per faxbericht aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties hem mede te delen of zulks nog steeds het geval is.   
 2.  In afwijking van het eerste lid kan in spoedgevallen het verzoek ook met gebruikmaking van andere communicatiemiddelen worden gedaan, mits het daarna bij brief of per faxbericht wordt bevestigd.   
-3.  De burgemeester of de gezaghebber die ingevolge [artikel 44, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet daartoe op de in het eerste en tweede lid voorgeschreven wijze een verzoek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.  
+3.  De burgemeester of de gezaghebber die ingevolge artikel 44, derde lid, van de wet de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet daartoe op de in het eerste en tweede lid voorgeschreven wijze een verzoek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.  
 
 ### Artikel  59  
 
-####Kennisgeving van de beslissing op grond van [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
+####Kennisgeving van de beslissing op grond van artikel 45, tweede lid, van de wet
 
-De burgemeester of de gezaghebber geeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md). 
+De burgemeester of de gezaghebber geeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in artikel 45, tweede lid, van de wet. 
 
 ### Hoofdstuk  VII  
 
@@ -760,9 +760,9 @@ De burgemeester of de gezaghebber geeft de Minister van Binnenlandse Zaken en Ko
 
 ####Vermist of ingenomen reisdocument anders dan bij aanvraag of uitreiking
 
-1.  Indien de houder van een uitgereikt reisdocument aan de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan hij ingezetene is buiten de gevallen, bedoeld in de artikelen 27 en 52, mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge [artikel 31, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) af te leggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
+1.  Indien de houder van een uitgereikt reisdocument aan de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan hij ingezetene is buiten de gevallen, bedoeld in de artikelen 27 en 52, mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge artikel 31, eerste lid, van de wet af te leggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in artikel 31, tweede lid, van de wet genoemde kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.   
 2.  De schriftelijke verklaring omtrent de vermissing en de bijgevoegde kopie van het proces-verbaal van de politie dan wel de overgelegde kopie van de schriftelijke verklaring die omtrent de inname is overgelegd, worden bewaard in de reisdocumentenadministratie in de gemeente of het openbaar lichaam waar de in het eerste lid bedoelde mededeling is gedaan.   
-3.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven terstond opgenomen in de basisadministratie waarin de houder als ingezetene is ingeschreven.  
+3.  Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven terstond opgenomen in de basisadministratie waarin de houder als ingezetene is ingeschreven.  
 4. De burgemeester verwijst de houder die een mededeling van vermissing van het aan hem uitgereikte reisdocument wil doen en geen ingezetene van zijn gemeente is, naar de burgemeester van de gemeente waar de houder ingezetene is dan wel naar een burgemeester als bedoeld in artikel 7, indien de houder geen ingezetene van een gemeente is. 
 5.  De gezaghebber neemt ook de verklaring van vermissing op van personen die geen ingezetene zijn van zijn openbaar lichaam. 
 
@@ -780,7 +780,7 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 ####Reisdocumenten van gesignaleerde personen
 
-1.  De burgemeester of de gezaghebber die een reisdocument heeft ingehouden dan wel bij wie een reisdocument is ingeleverd van een houder, die in verband met het bepaalde in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) in het register paspoortsignaleringen is opgenomen en ten aanzien van wie hij niet bevoegd is tot vervallenverklaring, zendt dit reisdocument per aangetekende post en met vermelding van de reden van doorzending terstond door aan: 
+1.  De burgemeester of de gezaghebber die een reisdocument heeft ingehouden dan wel bij wie een reisdocument is ingeleverd van een houder, die in verband met het bepaalde in de artikelen 18 tot en met 24 van de wet in het register paspoortsignaleringen is opgenomen en ten aanzien van wie hij niet bevoegd is tot vervallenverklaring, zendt dit reisdocument per aangetekende post en met vermelding van de reden van doorzending terstond door aan: 
 
 a. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan de houder ingezetene is, dan wel  
 
@@ -791,8 +791,8 @@ b. de burgemeester van Den Haag, indien de houder geen ingezetene van een gemeen
 
 ####Definitief aan het verkeer te onttrekken reisdocumenten
 
-1.  De burgemeester of de gezaghebber die een reisdocument heeft ingehouden of bij wie een reisdocument is ingeleverd dan wel die een gevonden reisdocument heeft ontvangen, dat blijkens artikel 67 definitief aan het verkeer moet worden onttrokken en daartoe niet bevoegd is, zendt dit reisdocument per aangetekende post en met vermelding van de reden van doorzending terstond aan de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een door de Minister van Buitenlandse Zaken op grond van [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) aan een vreemdeling verstrekt laissez-passer betreft.   
-2.  Indien het een op grond van [artikel 16, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) verstrekt nooddocument betreft, is de burgemeester of de gezaghebber bevoegd dit namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties definitief aan het verkeer te onttrekken.  
+1.  De burgemeester of de gezaghebber die een reisdocument heeft ingehouden of bij wie een reisdocument is ingeleverd dan wel die een gevonden reisdocument heeft ontvangen, dat blijkens artikel 67 definitief aan het verkeer moet worden onttrokken en daartoe niet bevoegd is, zendt dit reisdocument per aangetekende post en met vermelding van de reden van doorzending terstond aan de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een door de Minister van Buitenlandse Zaken op grond van artikel 15, tweede lid, van de wet aan een vreemdeling verstrekt laissez-passer betreft.   
+2.  Indien het een op grond van artikel 16, eerste lid, van de wet verstrekt nooddocument betreft, is de burgemeester of de gezaghebber bevoegd dit namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties definitief aan het verkeer te onttrekken.  
 
 ### Artikel  64  
 
@@ -804,7 +804,7 @@ a. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam wa
 
 b. de burgemeester of de gezaghebber ter plaatse, indien niet bekend is van welke gemeente of welk openbaar lichaam de houder ingezetene is, dan wel  
 
-c. de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een op grond van [artikel 15, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) verstrekt laissez-passer betreft.    
+c. de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een op grond van artikel 15, tweede lid, van de wet verstrekt laissez-passer betreft.    
 2.  Indien het reisdocument op grond van een daartoe strekkende vermelding in het opsporingsregister is ingehouden, wordt terstond contact opgenomen met de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten einde te vernemen aan welke autoriteit het reisdocument moet worden doorgezonden.   
 3.  Bij inhouding of inlevering wordt aan de betrokken persoon een ontvangstbewijs verstrekt.   
 4.  De in het eerste lid bedoelde begeleidende brief vermeldt de volgende gegevens: 
@@ -826,10 +826,10 @@ d. de datum en de reden van inhouding of inlevering van het reisdocument.
 
 ####Mededelingen inzake vermelding en verwijdering van de vermelding
 
-1.  De burgemeester of de gezaghebber deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) de Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.   
+1.  De burgemeester of de gezaghebber deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van artikel 47, derde lid, van de wet de Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.   
 2.  De autoriteit die het in het eerste lid bedoelde reisdocument heeft ingehouden, dan wel bij wie het desbetreffende reisdocument is ingeleverd deelt met het oog op de verwijdering van de in het eerste lid bedoelde vermelding uit het register paspoortsignaleringen de Minister van Binnenlandse Zaken en Koninkrijksrelaties zulks terstond mede.  
 3.  De in het eerste en tweede lid bedoelde mededeling geschiedt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.  
-4.   Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door verstrekking van dit gegeven uit de basisadministratie, dan wel met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier indien verstrekking van dit gegeven uit de basisadministratie niet mogelijk is.  
+4.   Van het van rechtswege vervallen van een reisdocument ingevolge artikel 47, eerste lid, onder a, b, c, e, f of h van de wet wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door verstrekking van dit gegeven uit de basisadministratie, dan wel met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier indien verstrekking van dit gegeven uit de basisadministratie niet mogelijk is.  
 
 ### § 4  
 
@@ -851,23 +851,23 @@ De burgemeester of de gezaghebber geeft van een gevonden reisdocument, niet zijn
 
 ####Redenen en wijze van onttrekking
 
-1.  De burgemeester of de gezaghebber onttrekt een nationaal paspoort, een Nederlandse identiteitskaart, een faciliteitenpaspoort, een tweede paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen of een op grond van [artikel 16, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) verstrekt nooddocument dat hij onder zich heeft terstond definitief aan het verkeer, indien: 
+1.  De burgemeester of de gezaghebber onttrekt een nationaal paspoort, een Nederlandse identiteitskaart, een faciliteitenpaspoort, een tweede paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen of een op grond van artikel 16, eerste lid, van de wet verstrekt nooddocument dat hij onder zich heeft terstond definitief aan het verkeer, indien: 
 
 a. het niet binnen drie maanden, nadat het voor uitreiking beschikbaar is gesteld, door de aanvrager in ontvangst is genomen;  
 
 b. het daartoe, al dan niet bij de uitreiking van een nieuw reisdocument, is ingeleverd;  
 
-c. het vervallen is verklaard dan wel ingevolge [artikel 54, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;  
+c. het vervallen is verklaard dan wel ingevolge artikel 54, eerste lid, van de wet is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;  
 
 d.  het na uitreiking als onbruikbaar is beschouwd ten gevolge van misdruk of verkeerde personalisatie en dientengevolge is ingehouden of ingeleverd;  
 
-e. het als gevonden reisdocument is ontvangen, tenzij hij in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn gemeente of openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in [artikel 31 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) heeft afgelegd.     
+e. het als gevonden reisdocument is ontvangen, tenzij hij in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn gemeente of openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in artikel 31 van de wet heeft afgelegd.     
 2.  Het reisdocument wordt definitief aan het verkeer onttrokken door het deugdelijk te vernietigen, dan wel het geheel of gedeeltelijk onbruikbaar gemaakt aan de houder terug te geven ingevolge het derde lid. De vernietiging geschiedt door het reisdocument op gecontroleerde wijze te verbranden of te versnipperen, zodat reconstructie van het reisdocument niet meer mogelijk is.   
 3.  Op verzoek van de houder wordt diens nationaal paspoort, Nederlandse identiteitskaart, faciliteitenpaspoort, tweede paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, na inlevering, onbruikbaar gemaakt aan hem teruggegeven.   
 4.  Het onbruikbaar maken geschiedt door het aanbrengen van drie ponsgaten (elk van ten minste 12 mm) door het gehele reisdocument op zodanige wijze dat het in het reisdocument aangebrachte kinegram gedeeltelijk en de aangebrachte chip geheel onbruikbaar worden gemaakt. Voordat het reisdocument wordt teruggegeven aan de houder, wordt gecontroleerd of de chip onbruikbaar is.   
 5.  Indien het ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in artikel 26, derde lid, worden de desbetreffende bladzijden en het documentnummer intact gelaten.   
 6.  In afwijking van het tweede lid wordt een reisdocument, dat ingevolge het eerste lid, onder d, tengevolge van misdruk of verkeerde personalisatie is ingehouden of ingeleverd, definitief aan het verkeer onttrokken door het per aangetekende post, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, terug te sturen aan de leverancier.  
-7.   De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) is ingehouden, dan wel artikel 97, tweede lid, of artikel 98, tweede lid, van toepassing is.  
+7.   De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van artikel 47, eerste lid, onder a, b, c, g of h, van de wet van rechtswege is vervallen, op grond van 54, eerste lid, onder b, c en e, van de wet is ingehouden, dan wel artikel 97, tweede lid, of artikel 98, tweede lid, van toepassing is.  
 
 ### Artikel  68  
 
@@ -902,7 +902,7 @@ d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam wa
 1.  Van elk verstrekt reisdocument wordt een administratie bijgehouden.   
 2.  De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de artikelen 40 en 55 opgenomen gegevens betreft.   
 3.  De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de reisdocumentenadministratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.  
-4. De in de reisdocumentenadministratie opgenomen gegevens, met uitzondering van de gegevens, bedoeld in [artikel 3, negende lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) worden na de datum van verstrekking bewaard gedurende een periode van:
+4. De in de reisdocumentenadministratie opgenomen gegevens, met uitzondering van de gegevens, bedoeld in artikel 3, negende lid, van de wet worden na de datum van verstrekking bewaard gedurende een periode van:
 
 a. 11 jaar indien de geldigheidsduur van het verstrekte document 5 jaar of korter is of indien het verstrekte document niet wordt uitgereikt;  
 
@@ -912,25 +912,25 @@ b. 16 jaar indien de geldigheidsduur van het verstrekte document langer dan 5 ja
 
 ####Verstrekking van gegevens
 
-Onverminderd het bepaald in [artikel 3, negende lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), wordt de verstrekking van gegevens uit de in artikel 72 bedoelde reisdocumentenadministratie uitsluitend toegestaan aan: 
+Onverminderd het bepaald in artikel 3, negende lid, van de wet, wordt de verstrekking van gegevens uit de in artikel 72 bedoelde reisdocumentenadministratie uitsluitend toegestaan aan: 
 
-a. degenen die bij of krachtens de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) belast zijn met de uitvoering daarvan, voor zover die gegevens noodzakelijk zijn voor het verrichten van werkzaamheden met betrekking tot reisdocumenten;  
+a. degenen die bij of krachtens de wet belast zijn met de uitvoering daarvan, voor zover die gegevens noodzakelijk zijn voor het verrichten van werkzaamheden met betrekking tot reisdocumenten;  
 
 b. de ambtenaren, werkzaam bij het ministerie van Buitenlandse Zaken, een Nederlandse consulaire vertegenwoordiging in het buitenland onderscheidenlijk het Kabinet van de Gouverneur van Aruba, Curaçao of Sint Maarten, voor zover die gegevens noodzakelijk zijn voor consulaire handelingen waarbij de identiteit van de betrokken persoon moet worden vastgesteld;  
 
-c. de opsporingsambtenaren bedoeld in [artikel 141](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [142 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [artikel 184](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en [185 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), voor zover die gegevens noodzakelijk zijn voor de opsporing van strafbare feiten in het kader van het onderzoek waarbij zij zijn betrokken of voor zover die noodzakelijk zijn voor de identificatie van slachtoffers;  
+c. de opsporingsambtenaren bedoeld in artikel 141 en 142 van het Wetboek van Strafvordering en artikel 184 en 185 van het Wetboek van Strafvordering BES, voor zover die gegevens noodzakelijk zijn voor de opsporing van strafbare feiten in het kader van het onderzoek waarbij zij zijn betrokken of voor zover die noodzakelijk zijn voor de identificatie van slachtoffers;  
 
 d. de ambtenaren van het openbaar ministerie van het Europese deel van Nederland en het openbaar ministerie van Bonaire, Sint Eustatius en Saba, voor zover die gegevens noodzakelijk zijn voor de uitoefening van de hun opgedragen werkzaamheden;  
 
-e. de ambtenaren werkzaam bij de autoriteiten, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), voor zover die gegevens noodzakelijk zijn voor het verzoek tot weigering of vervallenverklaring en de daarmee verband houdende vermelding van deze gegevens in het register paspoortsignaleringen als bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+e. de ambtenaren werkzaam bij de autoriteiten, bedoeld in de artikelen 18 tot en met 24 van de wet, voor zover die gegevens noodzakelijk zijn voor het verzoek tot weigering of vervallenverklaring en de daarmee verband houdende vermelding van deze gegevens in het register paspoortsignaleringen als bedoeld in artikel 25, derde lid, van de wet;  
 
-f. de ambtenaren werkzaam bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden in verband met de verwerking van gegevens in het basisregister reisdocumenten, in verband met de uitoefening van hun taak als bedoeld in [artikel 58 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), alsmede in verband met onderzoek naar onregelmatigheden met reisdocumenten;  
+f. de ambtenaren werkzaam bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden in verband met de verwerking van gegevens in het basisregister reisdocumenten, in verband met de uitoefening van hun taak als bedoeld in artikel 58 van de wet, alsmede in verband met onderzoek naar onregelmatigheden met reisdocumenten;  
 
-g. degene die in opdracht van het college van burgemeester en wethouders of het bestuurscollege belast is met de controle op de uitvoering van de bij of krachtens de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) gestelde regels, de toepassing van de beveiligingsmaatregelen, de werking van het aanvraagsysteem reisdocumenten of de opneming van reisdocumentengegevens in de basisadministratie, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden;  
+g. degene die in opdracht van het college van burgemeester en wethouders of het bestuurscollege belast is met de controle op de uitvoering van de bij of krachtens de wet gestelde regels, de toepassing van de beveiligingsmaatregelen, de werking van het aanvraagsysteem reisdocumenten of de opneming van reisdocumentengegevens in de basisadministratie, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden;  
 
 h. de houder, beheerder, bewerker en degene die belast is met de invoer, wijziging, of verwijdering van gegevens, voor zover die gegevens, de rechtstreekse toegang daaronder begrepen, noodzakelijk zijn voor de uitoefening van de hun in verband daarmee opgedragen werkzaamheden; 
 
-i.de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst, voor zover die gegevens noodzakelijk zijn voor de uitvoering van hun taken als bedoeld in [artikel 6, tweede lid](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), en [artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md). 
+i.de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst, voor zover die gegevens noodzakelijk zijn voor de uitvoering van hun taken als bedoeld in artikel 6, tweede lid, en artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002. 
 
 ### Artikel  74  
 
@@ -993,7 +993,7 @@ c.de Minister van Buitenlandse Zaken indien het definitief aan het verkeer onttr
 
 ####Aanwijzing en registratie algemeen
 
-1.  De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) zijn voorgeschreven.   
+1.  De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens de wet zijn voorgeschreven.   
 2.  De in het eerste lid bedoelde aanwijzing van personen, alsmede de registratie van hun bevoegdheden geschiedt met inachtneming van de functionele beschrijvingen met betrekking tot het aanvraagsysteem reisdocumenten en overeenkomstig de beveiligingsprocedure, bedoeld in artikel 93.   
 3.  De burgemeester of de gezaghebber draagt er zorg voor dat de handelingen, bedoeld in het eerste lid, die plaatsvinden in een niet tot de gemeentelijke organisatie, onderscheidenlijk de organisatie van het openbaar lichaam, behorende uitgiftelocatie uitsluitend worden verricht door bezoldigde ambtenaren van de gemeente onderscheidenlijk het openbaar lichaam.  
 
@@ -1172,12 +1172,12 @@ b. de periode waarin niet aan de eis van functiescheiding wordt voldaan;
 
 c. de namen van de ambtenaren die in de onder b bedoelde periode zijn belast met de verstrekking, het beheer en de uitreiking van de reisdocumenten.    
 4.  Na afloop van de periode, bedoeld in het derde lid, controleert de daartoe aangewezen ambtenaar, die in de desbetreffende periode niet betrokken is geweest bij de verstrekking, het beheer en de uitreiking van de reisdocumenten, of de schriftelijke vastlegging, bedoeld in het derde lid, aanwezig is en de verstrekking, het beheer en de uitreiking op de voorgeschreven wijze hebben plaatsgevonden. In het geval er sprake is van onregelmatigheden wordt gehandeld overeenkomstig artikel 95.   
-5.  De burgemeester of de gezaghebber draagt zorg, dat de bij de uitvoering van de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) betrokken ambtenaren regelmatig worden geïnformeerd over ontvreemdingsrisico's en ten minste één maal per jaar worden geïnstrueerd met betrekking tot risicobeperkende afspraken en maatregelen terzake.   
+5.  De burgemeester of de gezaghebber draagt zorg, dat de bij de uitvoering van de wet betrokken ambtenaren regelmatig worden geïnformeerd over ontvreemdingsrisico's en ten minste één maal per jaar worden geïnstrueerd met betrekking tot risicobeperkende afspraken en maatregelen terzake.   
 6.  De beveiligingsprocedure wordt jaarlijks geëvalueerd en zo nodig aangepast.   
 7.  Ten behoeve van het opstellen en evalueren van de beveiligingsprocedure wordt gebruik gemaakt van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvoor beschikbaar gestelde hulpmiddelen. Afwijkingen van de beveiligingsvoorschriften worden schriftelijk vastgelegd en ten minste vijf jaren naast de beveiligingsprocedure bewaard.   
 8.  De burgemeester of de gezaghebber wijst een beveiligingsfunctionaris aan die belast is met het beheer van en het toezicht op de naleving van de beveiligingsprocedure.   
 9.  Van de aanwijzing of de vervanging van de beveiligingsfunctionaris wordt terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.   
-10.  De functie van beveiligingsfunctionaris is niet verenigbaar met het verrichten van andere handelingen ter uitvoering van de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md).   
+10.  De functie van beveiligingsfunctionaris is niet verenigbaar met het verrichten van andere handelingen ter uitvoering van de wet.   
 11.  De taken en verantwoordelijkheden van de beveiligingsfunctionaris worden vastgelegd in een functieomschrijving.   
 12.  De burgemeester of de gezaghebber draagt er zorg voor dat de beveiligingsfunctionaris in staat wordt gesteld alle handelingen te verrichten die uit zijn taak voortvloeien.   
 13.  De beveiligingsfunctionaris is rechtstreeks verantwoording verschuldigd aan de burgemeester of de gezaghebber.  
@@ -1194,7 +1194,7 @@ c. de namen van de ambtenaren die in de onder b bedoelde periode zijn belast met
 
 ####Ontvreemding of vernietiging
 
-1.  In het geval van ontvreemding dan wel vernietiging van reisdocumenten, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins dient de met de uitvoering van de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) belaste autoriteit daarvan terstond aangifte te doen bij de plaatselijke politie en tevens terstond de Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan in kennis te stellen.   
+1.  In het geval van ontvreemding dan wel vernietiging van reisdocumenten, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins dient de met de uitvoering van de wet belaste autoriteit daarvan terstond aangifte te doen bij de plaatselijke politie en tevens terstond de Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan in kennis te stellen.   
 2.  De in het eerste lid bedoelde autoriteit zendt de Minister van Binnenlandse Zaken en Koninkrijksrelaties vervolgens binnen één werkdag, eventueel per fax, een schriftelijke kennisgeving waarin de navolgende gegevens zijn opgenomen: 
 
 a. het tijdstip en de exacte toedracht van de ontvreemding of vernietiging;  
@@ -1212,7 +1212,7 @@ c. de ontvreemde of vernietigde apparatuur, programmatuur, opslagmedia, document
 
 ####Aanschrijving tot inlevering van reisdocumenten
 
-Onverminderd de eigen verantwoordelijkheid van de houder van een reisdocument ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), draagt de burgemeester of de gezaghebber er bij wijze van faciliteit zorg voor dat de persoon die ingezetene van zijn gemeente of openbaar lichaam is, en houder is van een reisdocument, waarvan de geldigheidsduur binnenkort zal verlopen, schriftelijk wordt gewezen op het verstrijken van de geldigheidstermijn, de verplichting het reisdocument in te leveren en de mogelijkheid om een nieuw reisdocument aan te vragen. 
+Onverminderd de eigen verantwoordelijkheid van de houder van een reisdocument ingevolge de wet, draagt de burgemeester of de gezaghebber er bij wijze van faciliteit zorg voor dat de persoon die ingezetene van zijn gemeente of openbaar lichaam is, en houder is van een reisdocument, waarvan de geldigheidsduur binnenkort zal verlopen, schriftelijk wordt gewezen op het verstrijken van de geldigheidstermijn, de verplichting het reisdocument in te leveren en de mogelijkheid om een nieuw reisdocument aan te vragen. 
 
 ### Artikel  97  
 
@@ -1237,16 +1237,16 @@ Onverminderd de eigen verantwoordelijkheid van de houder van een reisdocument in
 1.  De aan het Rijk verschuldigde kosten worden vastgesteld aan de hand van de aanvraagbestanden die met gebruikmaking van het reisdocumentenstation aan de leverancier zijn verzonden.   
 2.  Het college van burgemeester en wethouders stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties op de hoogte van: 
 
-a. het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in [artikel 2, tweede lid, van het Besluit paspoortgelden](../../../../../rijksKB/besluit/paspoortgelden/BWBR0005264/README.md), door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend;  
+a. het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in artikel 2, tweede lid, van het Besluit paspoortgelden, door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend;  
 
 b. een situatie waarin een spoedlevering niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten niet op de juiste wijze blijken te zijn vervaardigd, door het zenden van een daarop betrekking hebbende en door de leverancier geverifieerde mededeling.     
-3.  Het bestuurscollege stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties op de hoogte van het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in in [artikel 2a, tweede lid, van het Besluit paspoortgelden](../../../../../rijksKB/besluit/paspoortgelden/BWBR0005264/README.md), door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend. 
+3.  Het bestuurscollege stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties op de hoogte van het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in in artikel 2a, tweede lid, van het Besluit paspoortgelden, door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend. 
 
 ### Artikel  100  
 
 ####Reviewrecht accountant
 
-Ten behoeve van de controle op de juistheid en volledigheid van de bedragen die terzake van de verschuldigde kosten als bedoeld in [artikel 7, eerste lid, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) aan het Rijk zijn afgedragen, is het college van burgemeester en wethouders of het bestuurscollege verplicht desgevraagd aan de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens [artikel 66 van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) daartoe aangewezen ambtenaren de voor deze controle benodigde informatie te verschaffen. Deze ambtenaren kunnen tevens informatie inwinnen bij de in [artikel 213, tweede lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) bedoelde registeraccountants. 
+Ten behoeve van de controle op de juistheid en volledigheid van de bedragen die terzake van de verschuldigde kosten als bedoeld in artikel 7, eerste lid, onder a, van de wet aan het Rijk zijn afgedragen, is het college van burgemeester en wethouders of het bestuurscollege verplicht desgevraagd aan de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens artikel 66 van de Comptabiliteitswet 2001 daartoe aangewezen ambtenaren de voor deze controle benodigde informatie te verschaffen. Deze ambtenaren kunnen tevens informatie inwinnen bij de in artikel 213, tweede lid, van de Gemeentewet en artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba bedoelde registeraccountants. 
 
 ### Hoofdstuk  XIVa 
 
@@ -1295,7 +1295,7 @@ Ten behoeve van de controle op de juistheid en volledigheid van de bedragen die 
 
 ####Beslissing op de aanvraag en machtiging tot verstrekking
 
-1.  Indien de aanvraag voor een nooddocument betrekking heeft op een Nederlander dan wel op een als ingezetene in de basisadministratie van een openbaar lichaam ingeschreven vreemdeling die recht heeft op verstrekking van een reisdocument als bedoeld in [artikel 11](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [13 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), beslist de gezaghebber of het aangevraagde nooddocument kan worden uitgereikt, onverminderd het bepaalde in het derde lid.   
+1.  Indien de aanvraag voor een nooddocument betrekking heeft op een Nederlander dan wel op een als ingezetene in de basisadministratie van een openbaar lichaam ingeschreven vreemdeling die recht heeft op verstrekking van een reisdocument als bedoeld in artikel 11 of 13 van de wet, beslist de gezaghebber of het aangevraagde nooddocument kan worden uitgereikt, onverminderd het bepaalde in het derde lid.   
 2.  In alle andere dan de in het eerste lid bedoelde gevallen vindt verstrekking van een nooddocument door de gezaghebber slechts plaats na machtiging van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, aan wie daartoe per fax of op een andere beveiligde wijze een kopie van de aanvraaggegevens, waaronder het het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, ter beschikking wordt gesteld.   
 3.  De gezaghebber die een aanvraag in behandeling neemt betreffende een persoon die blijkens de in artikel 5 bedoelde administratie in het register paspoortsignaleringen is vermeld, legt deze aanvraag onverwijld voor aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties die beslist of hij de gezaghebber machtigt om tot verstrekking van een nooddocument over te gaan.  
 
@@ -1355,7 +1355,7 @@ d. het hoofd van de Nederlandse consulaire post in het buitenland, waar de houde
 
 ####Uitreiking en registratie in het reisdocumentenstation
 
-1.  Tot uitreiking van het aangevraagde nooddocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld en de aanvrager de in het document weergegeven persoonsgegevens op juistheid heeft gecontroleerd, tenzij [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) van toepassing is.   
+1.  Tot uitreiking van het aangevraagde nooddocument wordt slechts overgegaan, nadat de identiteit van de aanvrager in zijn aanwezigheid is vastgesteld en de aanvrager de in het document weergegeven persoonsgegevens op juistheid heeft gecontroleerd, tenzij artikel 28, derde lid, van de wet van toepassing is.   
 2.  De daartoe aangewezen ambtenaar registreert de uitreiking van het nooddocument in het reisdocumentenstation.   
 3.  Indien bij de uitreiking blijkt dat het nooddocument is beschadigd, onjuist is geproduceerd of gepersonaliseerd dan wel uit de opslag is verdwenen, wordt dit in het reisdocumentenstation geregistreerd.   
 4.  Indien het nooddocument niet binnen drie maanden, nadat het voor uitreiking beschikbaar is gesteld, door de aanvrager in ontvangst is genomen, wordt dit geregistreerd in het reisdocumentenstation.  

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 december 2006, nr. DJZ 2006339319, Directie Juridische Zaken, Afdeling Wetgeving, tot vaststelling van nadere voorschriften voor de energieprestatie van gebouwen (Regeling energieprestatie gebouwen)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 3.1 van het Besluit energieprestatie gebouwen](../../../../../AMvB/besluit/energieprestatie/gebouwen/BWBR0023734/README.md);
+Gelet op artikel 3.1 van het Besluit energieprestatie gebouwen;
 Besluit:     
 ### §  1  
 
@@ -19,7 +19,7 @@ adviseur: verstrekker van een energielabel;
 
 BRL: door het Centraal College van Deskundigen van de Stichting Kwaliteitsborging Installatiesector vastgestelde Nationale Beoordelingsrichtlijn;
 
-besluit: [Besluit energieprestatie gebouwen](../../../../../AMvB/besluit/energieprestatie/gebouwen/BWBR0023734/README.md);
+besluit: Besluit energieprestatie gebouwen;
 
 deelnemer: deelnemer aan het examen om een diploma EPBD A-airconditioningsystemen of een diploma EPBD B-airconditioningsystemen te behalen;  
 
@@ -31,7 +31,9 @@ diploma EPBD B-airconditioningsystemen: diploma dat wordt afgegeven aan degene d
 
 energie-index: cijfer dat het energiegebruik aangeeft op basis van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van een gebouw;
 
-energielabel: energieprestatiecertificaat als bedoeld in het [Besluit energieprestatie gebouwen](../../../../../AMvB/besluit/energieprestatie/gebouwen/BWBR0023734/README.md);
+energielabel: energieprestatiecertificaat als bedoeld in het Besluit energieprestatie gebouwen;
+
+*EPC:* energieprestatiecoëfficiënt als bedoeld in artikel 5.2 van het Bouwbesluit 2012; 
 
 examen: examen om een diploma EPBD A-airconditioningsystemen of diploma EPBD B-airconditioningsystemen te behalen;  
 
@@ -43,7 +45,11 @@ klasse 2 airconditioningsystemen: airconditioningsystemen met een totaal, op geb
 
 klasse 3 airconditioningsystemen: airconditioningsystemen met een totaal, op gebouwniveau, opgesteld nominaal koelvermogen van meer dan 270 kW; 
 
-Minister: Minister voor Wonen en Rijksdienst. 
+Minister: Minister voor Wonen en Rijksdienst;
+
+*utiliteitsgebouw:* een gebouw of gedeelte daarvan met een gebruiksfunctie als bedoeld in artikel 1.1, tweede en derde lid, van het Bouwbesluit 2012, niet zijnde een woonfunctie als bedoeld in artikel 1.1, tweede en derde lid van dat besluit met uitzondering van de woonfunctie voor zorg;  
+
+*woning:* een gebouw of gedeelte daarvan met een woonfunctie als bedoeld in artikel 1.1, tweede en derde lid, van het Bouwbesluit 2012 met uitzondering van de woonfunctie voor zorg.  
 
 ### §  2  
 
@@ -53,10 +59,32 @@ Minister: Minister voor Wonen en Rijksdienst.
 
 ####Eisen aan het energielabel
 
-1. Een energielabel wordt afgegeven door een adviseur met een geldig NL-EPBD procescertificaat als bedoeld in BRL 9500, delen 00, 01 en 03, zoals vastgesteld op 31 augustus 2011 en volgens de bepalingsmethode zoals vastgelegd in de ISSO 75 en 82 publicaties, uitgave oktober 2011.
-2. Een energielabel voor een woning wordt opgesteld volgens het als bijlage 1 bij deze regeling opgenomen model ‘energielabel woning’. Een energielabel voor een ander gebouw wordt opgesteld volgens het als bijlage II bij deze regeling opgenomen model ‘energielabel gebouw’.
-3. De bij de bepaling van de energie-index gebruikte rekenmethodiek voldoet aan BRL 9501, zoals vastgesteld op 6 december 2006, inclusief het wijzigingsblad, zoals vastgesteld op 23 september 2011. 
-4.  De energie-index wordt met behulp van de als bijlage III bij deze regeling opgenomen tabel omgezet in een als onderdeel van het energielabel opgenomen energieklasse.  
+1. Een energielabel wordt afgegeven door een adviseur met een geldig NL-EPBD procescertificaat en volgens de voorschriften, bedoeld in BRL 9500, delen 00 en 01, zoals vastgesteld op 31 augustus 2011 en volgens de bepalingsmethode zoals vastgesteld in de ISSO 82 publicaties, uitgave oktober 2011.
+2. Een energielabel voor een woning wordt opgesteld volgens het als bijlage 1 bij deze regeling opgenomen model ‘energielabel woning’.
+3. De bij de bepaling van de energie-index gebruikte rekenmethodiek voor een energielabel voor een woning voldoet aan BRL 9501, zoals vastgesteld op 6 december 2006, inclusief het wijzigingsblad, zoals vastgesteld op 23 september 2011. 
+4.  De energie-index bij een energielabel voor een woning wordt met behulp van de als bijlage III bij deze regeling opgenomen tabel omgezet in een als onderdeel van het energielabel opgenomen energieklasse.  
+
+### Artikel  2a  
+
+1.  Een energielabel voor een utiliteitsgebouw wordt vastgesteld en afgegeven door een energielabeladviseur met een geldig NL-EPBD procescertificaat en volgens de voorschriften, bedoeld in BRL 9500, delen 00, 03 en 06, zoals vastgesteld op 31 augustus 2011, inclusief het wijzigingsblad, zoals vastgesteld op 12 september 2013.   
+2.  Een energielabel voor een utiliteitsgebouw wordt opgesteld volgens het in bijlage II bij deze regeling opgenomen model ‘energielabel gebouw’.  
+
+### Artikel  2b  
+
+1.  Een energielabel voor een utiliteitsgebouw wordt bepaald volgens het opnameprotocol, bedoeld in de hoofdstukken 6 en 7 van de ISSO 75.1 publicaties, zoals vastgesteld op 12 september 2013, en de methode, bedoeld in de ISSO 75.3 publicatie, versie 2013.   
+2.  De bij de bepaling van de energie-index gebruikte rekenmethodieksoftware voor een energielabel voor een utiliteitsgebouw voldoet aan BRL 9501, zoals vastgesteld op 6 december 2006, inclusief het wijzigingsblad, zoals vastgesteld op 27 september 2012.   
+3.  De energie-index bij een energielabel voor een utiliteitsgebouw wordt met behulp van de als bijlage III bij deze regeling opgenomen tabel omgezet in een als onderdeel van het energielabel opgenomen energieklasse.  
+
+### Artikel  2c  
+
+1.  Voor een nieuw utiliteitsgebouw of een utiliteitsgebouw dat op basis van de bepalingsmethode, bedoeld in artikel 2b, eerste lid, een energielabel met energielabelklasse A heeft, kan in afwijking van artikel 2b, eerste lid, een energielabel worden bepaald volgens: 
+
+a. het opnameprotocol, bedoeld in hoofdstuk 8 van de ISSO 75.1 publicaties, zoals vastgesteld op 12 september 2013, en  
+
+b. NEN 7120, uitgave als opgenomen in bijlage I bij de Regeling Bouwbesluit 2012.     
+2.  Voor een utiliteitsgebouw waarvoor de berekening Q<sub>pres;tot</sub>/Q<sub>pres;toel</sub> ten hoogste 1,35 is en die berekening heeft plaatsgevonden ten behoeve van een bouwaanvraag van voor 1 juli 2012, kan in afwijking van artikel 2b, eerste lid, een energielabel worden bepaald volgens het opnameprotocol, bedoeld in het eerste lid, onder a.   
+3.  De bij de bepaling van de EPC gebruikte rekenmethodieksoftware voor een energielabel voor een utiliteitsgebouw dat wordt bepaald volgens de methodiek, bedoeld in het eerste en tweede lid, voldoet aan BRL 9501, zoals vastgesteld op 6 december 2006, inclusief het wijzigingsblad, zoals vastgesteld op 27 september 2012.   
+4.  De EPC bij een energielabel voor een utiliteitsgebouw die wordt bepaald volgens de methodiek, bedoeld in het eerste en tweede lid, wordt met behulp van de als bijlage IIIa bij deze regeling opgenomen tabel omgezet in een energielabelklasse.  
 
 ### Artikel  3  
 
@@ -78,7 +106,7 @@ c. beschikt over een kwaliteitssysteem dat op schrift is gesteld.
 
 ####Zichtbaar ophangen energielabel
 
-Bij toepassing van [artikel 2.4 van het besluit](../../../../../AMvB/besluit/energieprestatie/gebouwen/BWBR0023734/README.md) wordt tenminste het onderdeel van het energielabel waarin de energieklasse is vermeld, opgehangen op een voor het publiek duidelijk zichtbare plaats in het gebouw. 
+Bij toepassing van artikel 2.4 van het besluit wordt tenminste het onderdeel van het energielabel waarin de energieklasse is vermeld, opgehangen op een voor het publiek duidelijk zichtbare plaats in het gebouw. 
 
 ### Artikel  5  
 
@@ -91,8 +119,8 @@ Bij toepassing van [artikel 2.4 van het besluit](../../../../../AMvB/besluit/ene
 
 ####Gelijkwaardigheid
 
-1.  Aan de verplichting als bedoeld in [artikel 2.1, eerste lid, van het besluit](../../../../../AMvB/besluit/energieprestatie/gebouwen/BWBR0023734/README.md), tot het hebben van een energielabel kan worden voldaan door het hebben van de bij de aanvraag om bouwvergunning of omgevingsvergunning gevoegde berekening of een gewaarmerkt afschrift van die berekening waaruit blijkt dat het gebouw wordt gebouwd met inachtneming van een energieprestatiecoëfficiënt als bedoeld in het [Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md).   
-2.  Aan de verplichting als bedoeld in [artikel 2.1, tweede tot en met vierde lid, van het besluit](../../../../../AMvB/besluit/energieprestatie/gebouwen/BWBR0023734/README.md), tot het verstrekken van een energielabel kan worden voldaan door het overleggen van de bij de aanvraag om bouwvergunning of omgevingsvergunning gevoegde berekening of een gewaarmerkt afschrift van die berekening waaruit blijkt dat het gebouw is gebouwd met inachtneming van de energieprestatiecoëfficiënt als bedoeld in het [Bouwbesluit 2003](../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) of daarvoor het Bouwbesluit. Deze gewaarmerkte berekening is niet ouder dan 10 jaar.  
+1.  Bij een woning kan aan de verplichting, bedoeld in artikel 2.1, eerste lid, van het besluit, worden voldaan door het hebben van de bij de aanvraag om een omgevingsvergunning voor het bouwen van een bouwwerk gevoegde berekening of een gewaarmerkt afschrift van die berekening waaruit blijkt dat de woning zal voldoen aan de EPC.   
+2.  Bij een woning kan aan de verplichting, bedoeld in artikel 2.1, tweede tot en met vierde lid, van het besluit, worden voldaan door het verstrekken van de bij de aanvraag om een omgevingsvergunning voor het bouwen van een bouwwerk gevoegde berekening of een gewaarmerkt afschrift van die berekening waaruit blijkt dat de woning voldoet aan de EPC, die van toepassing was op het moment van aanvraag om die omgevingsvergunning. De berekening is niet ouder dan 10 jaar, gerekend vanaf het moment van aanvraag om die omgevingsvergunning. 
 
 ### Artikel  7  
 
@@ -212,7 +240,7 @@ b. de datum van afgifte van het diploma, bedoeld in onderdeel a;
 
 c. de geldigheidsduur van het diploma.     
 2.  De Minister beheert de registratie, bedoeld in het eerste lid.   
-3.  De Minister is verantwoordelijke in de zin van [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor de registratie.   
+3.  De Minister is verantwoordelijke in de zin van artikel 1, onder d, van de Wet bescherming persoonsgegevens voor de registratie.   
 4.  De gegevens uit de registratie worden desgevraagd kosteloos aan eenieder verstrekt voor zover dit noodzakelijk is voor het laten uitvoeren van de keuring, bedoeld in artikel 7a, eerste lid.   
 5.  De gegevens in de registratie worden vijf jaar bewaard.  
 
@@ -234,7 +262,7 @@ c. de geldigheidsduur van het diploma.
 
 1.  Elk energielabel dat op of na 31 augustus 2011 is afgegeven door een adviseur met een geldig NL-EPBD procescertificaat als bedoeld in BRL 9500, delen 00, 01 en 03, zoals vastgesteld op 31 augustus 2011 wordt aangemerkt als een geldig energielabel als bedoeld in artikel 2, eerste lid.   
 2.  Elk energielabel dat op of na 1 oktober 2011 is afgegeven door een adviseur met een geldig NL-EPBD procescertificaat als bedoeld in BRL 9500, delen 00, 01 en 03, zoals vastgesteld op 31 augustus 2011 en volgens de bepalingsmethode zoals vastgelegd in de ISSO 75 en 82 publicaties, uitgave oktober 2011, wordt aangemerkt als een geldig energielabel als bedoeld in artikel 2, eerste lid.   
-3.  Een diploma als bedoeld in [artikel 2, tweede lid, onderdeel a, van de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties](../../../../../ministeriele-regeling/regeling/gefluoreerde/broeikasgassen/en/gereguleerde/stoffen/etc/BWBR0026453/README.md), dat tussen 1 januari 2010 en het tijdstip van inwerkingtreding van dit artikel is verstrekt op grond van [artikel 14, eerste lid, van die regeling](../../../../../ministeriele-regeling/regeling/gefluoreerde/broeikasgassen/en/gereguleerde/stoffen/etc/BWBR0026453/README.md), geldt als een diploma EPBD A-airconditioningsystemen als bedoeld in artikel 7i, tweede lid, tot uiterlijk vijf jaar na de datum van afgifte van dat diploma. 
+3.  Een diploma als bedoeld in artikel 2, tweede lid, onderdeel a, van de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties, dat tussen 1 januari 2010 en het tijdstip van inwerkingtreding van dit artikel is verstrekt op grond van artikel 14, eerste lid, van die regeling, geldt als een diploma EPBD A-airconditioningsystemen als bedoeld in artikel 7i, tweede lid, tot uiterlijk vijf jaar na de datum van afgifte van dat diploma. 
 
 ### Artikel  9  
 
@@ -271,32 +299,34 @@ P.L.B.A. van  Geel
 
 ### Bijlage II  
 
-![246142](http://wetten.overheid.nl/Illustration/246142)
-![246143](http://wetten.overheid.nl/Illustration/246143)
-![246144](http://wetten.overheid.nl/Illustration/246144)
-![246145](http://wetten.overheid.nl/Illustration/246145)
-![246146](http://wetten.overheid.nl/Illustration/246146)
-![246147](http://wetten.overheid.nl/Illustration/246147)
-![246148](http://wetten.overheid.nl/Illustration/246148)
-![246149](http://wetten.overheid.nl/Illustration/246149)
-![246150](http://wetten.overheid.nl/Illustration/246150)
-![246151](http://wetten.overheid.nl/Illustration/246151)
-![246152](http://wetten.overheid.nl/Illustration/246152)
-![246153](http://wetten.overheid.nl/Illustration/246153)
+####bij artikel 2a  van de Regeling energieprestatie gebouwen
+
+![253158](http://wetten.overheid.nl/Illustration/253158)
+![253159](http://wetten.overheid.nl/Illustration/253159)
+![253160](http://wetten.overheid.nl/Illustration/253160)
+![253161](http://wetten.overheid.nl/Illustration/253161)
+![253162](http://wetten.overheid.nl/Illustration/253162)
+![253163](http://wetten.overheid.nl/Illustration/253163)
+![253164](http://wetten.overheid.nl/Illustration/253164)
+![253165](http://wetten.overheid.nl/Illustration/253165)
+![253166](http://wetten.overheid.nl/Illustration/253166)
+![253167](http://wetten.overheid.nl/Illustration/253167)
 
 ### Bijlage III  
+
+####bij de artikelen 2  en 2b  van de Regeling energieprestatie gebouwen
 
 ####Inijkingstabel voor de energieklassen
 
 Tabel voor energieklassen voor woningen 
 
-| Energieklasse  | Grenswaarden Energie-Index (EI)  energieprestatie woningen  |
+| Energieklasse  | Grenswaarden Energie-Index (EI) Energieprestatie woningen  |
 |:---|:---|
 | A++  | Kleiner of gelijk aan 0,50  |
 | A+  | 0,51–0,70  |
 | A  | 0,71–1,05  |
 | B  | 1,06–1,30  |
-| C  | 1,31–1,60  |
+| C  | 1,31-1,60  |
 | D  | 1,61–2,00  |
 | E  | 2,01–2,40  |
 | F  | 2,41–2,90  |
@@ -304,14 +334,12 @@ Tabel voor energieklassen voor woningen
 
 Tabel voor energieklassen voor utiliteitsgebouwen 
 
-| Energieklasse  | Grenswaarden Energie-Index (EI)  energieprestatie utiliteitsgebouwen  |
+| Energieklasse  | Grenswaarden Energie-Index (EI) Energieprestatie utiliteitsgebouwen  |
 |:---|:---|
-| A++  | Kleiner of gelijk aan 0,50  |
-| A+  | 0,51–0,70  |
-| A  | 0,71–1,05  |
+| A  | Kleiner of gelijk aan 1,05  |
 | B  | 1,06–1,15  |
 | C  | 1,16–1,30  |
-| D  | 1,31–1,45  |
+| D  | 1,31-1,45  |
 | E  | 1,46–1,60  |
 | F  | 1,61–1,75  |
 | G  | Groter dan 1,75  |
@@ -319,8 +347,6 @@ Tabel voor energieklassen voor utiliteitsgebouwen
 ### Bijlage  IIIa  
 
 ####bij artikel 2c  van de Regeling energieprestatie gebouwen
-
-Treedt in werking per 01-07-2014 
 
 ###Inijkingstabel voor de energieklassen
 

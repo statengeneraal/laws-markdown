@@ -516,11 +516,13 @@ b.gebruikers van het gastransportnet of de installatie alle gegevens die zij nod
 c. de netbeheerder van het landelijk gastransportnet informatie over de actuele gasstromen op zijn net.    
 3.  Een netbeheerder heeft, in aanvulling op de taken, genoemd in het eerste lid, tevens tot taak: 
 
-a.koppelingen met andere gastransportnetten te realiseren en reparaties aan zijn gastransportnet uit te voeren, en
+a.koppelingen met andere gastransportnetten te realiseren en reparaties aan zijn gastransportnet uit te voeren;
 
 b.onverminderd artikel 37, op geschikte wijze gegevens te publiceren over koppelingen tussen gastransportnetten, het gebruik van die netten en de toewijzing van transportcapaciteit;
 
-c.voorzieningen te treffen in geval van faillissement van een leverancier van gas aan afnemers als bedoeld in artikel 43, eerste lid.   
+c.voorzieningen te treffen in geval van faillissement van een leverancier van gas aan afnemers als bedoeld in artikel 43, eerste lid;
+
+d. onverminderd artikel 54a, gas te weren dat niet voldoet aan de invoedspecificaties, opgenomen in de ministeriële regeling, bedoeld in artikel 11.    
 4.  Bij de toepassing van het eerste tot en met het derde lid onthouden gasbedrijven als bedoeld in het eerste lid zich van iedere vorm van discriminatie tussen gebruikers van de gastransportnetten of de installaties.   
 5.  Een netbeheerder heeft met betrekking tot zijn netten, in aanvulling op de in het eerste en derde lid genoemde taken, tevens tot taak: 
 
@@ -548,9 +550,7 @@ c. ten behoeve van gebruikers van het door hem beheerde gastransportnet:
 
 1°. indien noodzakelijk gelet op het verschil tussen de kwaliteit van het op het gastransportnet ingevoede gas en het aan het gastransportnet onttrokken gas, gas met een hogere energie-inhoud naar een lagere energie-inhoud administratief of fysiek om te zetten;  
 
-2°. indien noodzakelijk gelet op het verschil tussen de kwaliteit van het op het gastransportnet ingevoede gas en het aan het gastransportnet onttrokken gas, gas met een lagere energie-inhoud naar een hogere energie-inhoud administratief om te zetten, voor zover er gas met een hogere energie-inhoud voor omzetting beschikbaar is;  
-
-3°. gas in de gewenste samenstelling te brengen, tenzij deze taken redelijkerwijs niet van de netbeheerder van het landelijk gastransportnet kunnen worden gevergd;   
+2°. indien noodzakelijk gelet op het verschil tussen de kwaliteit van het op het gastransportnet ingevoede gas en het aan het gastransportnet onttrokken gas, gas met een lagere energie-inhoud naar een hogere energie-inhoud administratief om te zetten, voor zover er gas met een hogere energie-inhoud voor omzetting beschikbaar is;   
 
 d. in aanvulling op artikel 10, zesde lid, het in werking hebben en onderhouden van aansluitingen op het landelijk gastransportnet die voor 1 april 2011 in gebruik zijn genomen; 
 
@@ -574,7 +574,13 @@ k. het voorzien in voldoende grensoverschrijdende capaciteit om te komen tot een
 
 l. de taken te vervullen die voortvloeien uit verordening 715/2009;  
 
-m. samen te werken met het Agentschap.    
+m. samen te werken met het Agentschap; 
+
+n. gas dat op het door hem beheerde gastransportnet wordt ingevoed te bewerken, te behandelen of te mengen teneinde te voldoen aan de afleverspecificaties, opgenomen in de ministeriële regeling, bedoeld in artikel 11;  
+
+o. gas te weren dat voldoet aan de invoedspecificaties, opgenomen in de ministeriële regeling, bedoeld in artikel 11, maar waarvoor de uitvoering van de taak, bedoeld in onderdeel n, redelijkerwijs niet van de netbeheerder van het landelijk gastransportnet kan worden gevergd;  
+
+p. in afwijking van onderdeel o en artikel 10, derde lid, onderdeel d, op verzoek van een afnemer het gas dat door die afnemer wordt ingevoed met gebruikmaking van het gastransportnet te bewerken, te behandelen of te mengen teneinde te voldoen aan de afleverspecificaties, opgenomen in de ministeriële regeling, bedoeld in artikel 11, tegen een tarief dat de doelmatige kosten dekt.    
 2.  Indien de netbeheerder van het landelijk gastransportnet bij de uitvoering van zijn wettelijke taken energie inkoopt, doet hij dit op basis van een transparante, niet-discriminatoire en marktconforme procedure.   
 3.  De rechtspersoon, bedoeld in artikel 54, eerste lid, is verplicht de netbeheerder van het landelijk gastransportnet een aanbod met redelijke tarieven en voorwaarden te doen tot levering aan de door de netbeheerder van het landelijk gastransportnet ter uitvoering van zijn wettelijke taken benodigde hoeveelheden gas in de door hem gevraagde hoeveelheden en op de door hem gewenste tijdstippen.   
 4.  Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van de taak, bedoeld in het eerste lid, onderdeel a en artikel 10, derde lid, onderdeel c. Deze regels hebben mede betrekking op de wijze waarop enerzijds de netbeheerder van het landelijk gastransportnet, en anderzijds gasproductiebedrijven, gasopslagbedrijven, LNG-bedrijven, andere netbeheerders, leveranciers en afnemers zich jegens elkaar gedragen.   
@@ -667,9 +673,14 @@ c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.
 
 ####Transport van gas
 
-### Paragraaf  2.1  
+### Paragraaf   2.1  
 
-####Technische eisen voor aansluiting op een gastransportnet
+#### Technische eisen voor het transport van gas 
+
+### Artikel  11  
+
+1.  Gas dat op het gastransportnet wordt ingevoed of door netbeheerders op exit-punten wordt afgeleverd, voldoet aan bij ministeriële regeling te stellen eisen, welke eisen kunnen verschillen voor invoed- en exitpunten en naar energie-inhoud, drukniveau en regio.   
+2.  De in het eerste lid bedoelde eisen hebben in ieder geval betrekking op de veiligheid, doelmatigheid, waaronder in ieder geval wordt verstaan minimalisatie van maatschappelijke kosten, betrouwbaarheid en de duurzaamheid van het transport en de toepassing van gas.  
 
 ### Paragraaf  2.2  
 
@@ -685,11 +696,11 @@ c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.
 
 Met inachtneming van de in artikel 12 bedoelde regels en de in artikel 6 van verordening 715/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel met betrekking tot de door hen jegens netgebruikers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van: 
 
-a. het tarief voor transport van gas, met inbegrip van invoer, uitvoer en doorvoer van gas en de het transport ondersteunende diensten ten behoeve van netgebruikers en met inbegrip van de in artikel 10a, eerste lid, met uitzondering van onderdeel d, omschreven wettelijke taken,  
+a. het tarief voor transport van gas, met inbegrip van invoer, uitvoer en doorvoer van gas en de het transport ondersteunende diensten ten behoeve van netgebruikers en met inbegrip van de in artikel 10a, eerste lid, met uitzondering van onderdelen d en p, omschreven wettelijke taken,  
 
-b. het tarief waarvoor de netbeheerder van het landelijk gastransportnet uitvoering zal geven aan zijn in artikel 10a, eerste lid, onderdeel d, omschreven taak en  
+b. de tarieven waarvoor de netbeheerder van het landelijk gastransportnet uitvoering zal geven aan zijn in artikel 10a, eerste lid, onderdeel p, omschreven taak en  
 
-c. de tarieven voor meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, voor het verzorgen van een aansluiting als bedoeld in artikel 10, zesde lid, onder a, of een aansluitpunt als bedoeld in artikel 10, zesde lid, onderdeel b.   
+c. de tarieven voor meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, voor het verzorgen van een aansluiting als bedoeld in artikel 10, zesde lid, onder a, een aansluitpunt als bedoeld in artikel 10, zesde lid, onderdeel b, of een aansluiting als bedoeld in artikel 10a, eerste lid, onderdeel d.   
 
 ### Artikel  12b  
 
@@ -1905,7 +1916,7 @@ b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 13b, twee
 ### Artikel  82  
 
 1.  In afwijking van artikel 80 worden de tarieven ter uitvoering van de taken door de netbeheerder van het landelijk gastransportnet, genoemd in de artikelen 10 en 10a, eerste lid, onderdeel b, c, d en e, alsmede de tarieven voor de transport ondersteunende diensten vastgesteld overeenkomstig dit artikel.   
-2.  Voor de taken van de netbeheerder van het landelijk gastransportnet, bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt , met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van de uitvoering van deze taken worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen.   
+2.  Voor de taken van de netbeheerder van het landelijk gastransportnet, bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt, met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van de uitvoering van deze taken worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen.   
 3.  De netbeheerder van het landelijk gastransportnet zendt jaarlijks voor 1 september aan de Autoriteit Consument en Markt een voorstel voor de tarieven voor uitvoering van de taken genoemd in de artikelen 10 en 10a, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 12f of 12g en met inachtneming van de gemaakte kosten voor investeringen, bedoeld in artikel 39e, 39f, derde lid, of 54a, derde lid, voor zover deze kosten doelmatig zijn.   
 4.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties een doelmatigheidskorting vast. Dit besluit geldt voor dezelfde periode als het besluit op grond van het tweede lid. De doelmatigheidskorting heeft tot doel om een doelmatige bedrijfsvoering te bevorderen.   
 5.  De Autoriteit Consument en Markt stelt jaarlijks de tarieven vast die kunnen verschillen voor de onderscheiden tariefdragers.   
@@ -1914,12 +1925,13 @@ b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 13b, twee
 8.  Artikel 81c, tweede en vijfde lid, zijn van overeenkomstige toepassing.   
 9.  De netbeheerder van het landelijk gastransportnet publiceert de voor hem geldende tarieven op een geschikte wijze. Tevens legt de netbeheerder van het landelijk gastransportnet de voor hem geldende tarieven voor een ieder ter inzage in al zijn vestigingen.   
 10.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het derde lid.  
-10.  Het derde tot en met negende lid is niet van toepassing op de taak van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 10, eerste lid, voor zover: 
+11.  Het derde tot en met negende lid is niet van toepassing op de taak van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 10, eerste lid, voor zover: 
 
 a. die taak betrekking heeft op het transport van gas dat de landsgrens overschrijdt, en  
 
 b. de toedeling van die transportcapaciteit plaatsvindt door middel van een veiling of een andere marktconforme methode.     
-11.  De Autoriteit Consument en Markt houdt bij het vaststellen van de methode van regulering van de tarieven rekening met de opbrengsten uit een veiling of een andere marktconforme methode. 
+12.  De Autoriteit Consument en Markt houdt bij het vaststellen van de methode van regulering van de tarieven rekening met de opbrengsten uit een veiling of een andere marktconforme methode.  
+13.  Het derde tot en met negende lid is niet van toepassing op de taak van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 10a, eerste lid, onderdeel p. De Autoriteit Consument en Markt houdt bij het vaststellen van de methode van regulering van de tarieven rekening met de opbrengsten uit de taak van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 10a, eerste lid, onderdeel p. 
 
 ### Artikel  83  
 

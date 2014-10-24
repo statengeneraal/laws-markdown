@@ -5,22 +5,22 @@ Directoraat-Generaal voor Fiscale Zaken Directie Wetgeving Directe Belastingen
 De Staatssecretaris van Financiën;  
 Handelende na overleg met de Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op de [artikelen 1.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.10](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.13](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.27](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.48](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.49](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.86](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.87](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.104](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.138](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.140](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.141](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.143](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.145](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.152](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.154](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.51](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.14,](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) [5.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.18](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.8](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.23](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.26](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.37](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [7.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md),
+Gelet op de artikelen 1.5, 2.2, 2.5, 2.14, 3.10, 3.13, 3.16, 3.17, 3.20, 3.27, 3.48, 3.49, 3.63, 3.83, 3.86, 3.87, 3.104, 3.138, 3.140, 3.141, 3.143, 3.145, 3.152, 3.154, 4.7, 4.14, 4.51, 5.14, 5.15, 5.17, 5.18, 6.8, 6.14, 6.15, 6.17, 6.23, 6.26, 6.37 en 7.2 van de Wet inkomstenbelasting 2001,
 Besluit:  Uitvoeringsregeling inkomstenbelasting 2001     
 ###Hoofdstuk 1 
 
-####Algemene bepalingen ([hoofdstuk 1 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Algemene bepalingen (hoofdstuk 1 van de wet) 
 
 ### Artikel  1  
 
 ####Reikwijdte en definitie
 
-1.   Deze regeling geeft uitvoering aan de [artikelen 1.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [1.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [2.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.10](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.13](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.16](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.20](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.22](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.27](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.55](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.57](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.83](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.87](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.104](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119aa](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119e](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.119g](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.138](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.152](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.154](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.7](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.17c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.41](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [4.51](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [5.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.14](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.15](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.17](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.18](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.26](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [6.38](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [7.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.9a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14a](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [8.14b](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.2](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.4](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [9.6](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10bis.1](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [10bis.5](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10a.9 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [artikelen 14](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) en [artikel XXXIII van het Belastingplan 2010](../../../../../wet/belastingplan/2010/BWBR0026958/README.md).   
+1.   Deze regeling geeft uitvoering aan de artikelen 1.5, 1.7, 2.2, 2.5, 2.14a, 3.10, 3.13, 3.16, 3.17, 3.20, 3.22, 3.27, 3.55, 3.56, 3.57, 3.63, 3.83, 3.87, 3.104, 3.119aa, 3.119c, 3.119e, 3.119g, 3.138, 3.152, 3.154, 4.7, 4.14, 4.17a, 4.17b, 4.17c, 4.41, 4.51, 5.14, 6.14, 6.15, 6.17, 6.18, 6.26, 6.38, 7.2, 8.9a, 8.14a, 8.14b, 9.2, 9.4, 9.6, 10bis.1, 10bis.5 en 10a.9 van de Wet inkomstenbelasting 2001, de artikelen 14 en 14a van het Uitvoeringsbesluit inkomstenbelasting 2001 en artikel XXXIII van het Belastingplan 2010.   
 2.   Deze regeling verstaat onder: 
 
-a. wet:[ Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. wet: Wet inkomstenbelasting 2001;  
 
-b. inhoudingsplichtige: de inhoudingsplichtige als bedoeld in de [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+b. inhoudingsplichtige: de inhoudingsplichtige als bedoeld in de Wet op de loonbelasting 1964;  
 
 c. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, tram, metro, veerpont of een via een geleidesysteem voortbewogen voertuig.    
 
@@ -28,18 +28,18 @@ c. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een diens
 
 ####In belangrijke mate onderhouden van kinderen
 
-Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 416 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) overeenkomende buitenlandse regeling.  
+Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 416 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de Algemene Kinderbijslagwet of op een tegemoetkoming volgens een naar aard en strekking met de Algemene Kinderbijslagwet overeenkomende buitenlandse regeling.  
 
 ###Artikel 2a 
 
 ####Ingegane lijfrenten waarvan de termijnen niet in geldeenheden, maar in units zijn vastgesteld
 
-1.  Een aanspraak op periodieke uitkeringen waarvan de uitkeringen zijn ingegaan en waarvan de hoogte van de uitkeringen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, wordt op grond van [artikel 1.7, derde lid, van de wet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) gelijkgesteld met een aanspraak op vaste en gelijkmatige periodieke uitkeringen indien wordt voldaan aan de hierna opgenomen regels.   
+1.  Een aanspraak op periodieke uitkeringen waarvan de uitkeringen zijn ingegaan en waarvan de hoogte van de uitkeringen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, wordt op grond van artikel 1.7, derde lid, van de wet gelijkgesteld met een aanspraak op vaste en gelijkmatige periodieke uitkeringen indien wordt voldaan aan de hierna opgenomen regels.   
 2.  Met betrekking tot de uitkeringen en de administratieve vormgeving daarvan gelden de volgende regels: 
 
-a. de termijnen van een oudedagslijfrente of een tijdelijke oudedagslijfrente als bedoeld in [artikel 3.125, eerste lid, onderdeel a, respectievelijk onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden op de ingangsdatum uitgedrukt in een vast aantal beleggingseenheden (units) per jaar;  
+a. de termijnen van een oudedagslijfrente of een tijdelijke oudedagslijfrente als bedoeld in artikel 3.125, eerste lid, onderdeel a, respectievelijk onderdeel c, van de wet worden op de ingangsdatum uitgedrukt in een vast aantal beleggingseenheden (units) per jaar;  
 
-b. indien bij een of meer van de onder a genoemde lijfrenten een nabestaandenlijfrente als bedoeld in [artikel 3.125, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is meeverzekerd, dient deze op de ingangsdatum van de lijfrente waarbij deze is meeverzekerd te worden uitgedrukt in een vast aantal beleggingseenheden per jaar; in plaats daarvan kan op die ingangsdatum voor de nabestaandenlijfrente een kapitaal worden bepaald dat dient als rekengrootheid voor de vaststelling van de hoogte van de termijnen van de nabestaandenlijfrente in beleggingseenheden of euro’s; indien de nabestaandenlijfrente niet een lijfrente in beleggingseenheden of een gerichte lijfrente is, maar is verzekerd als een recht op uitkeringen in euro’s, wordt de nabestaandenlijfrente geadministreerd als een zelfstandig recht ten opzichte van de in onderdeel a genoemde lijfrenten;  
+b. indien bij een of meer van de onder a genoemde lijfrenten een nabestaandenlijfrente als bedoeld in artikel 3.125, onderdeel b, van de wet is meeverzekerd, dient deze op de ingangsdatum van de lijfrente waarbij deze is meeverzekerd te worden uitgedrukt in een vast aantal beleggingseenheden per jaar; in plaats daarvan kan op die ingangsdatum voor de nabestaandenlijfrente een kapitaal worden bepaald dat dient als rekengrootheid voor de vaststelling van de hoogte van de termijnen van de nabestaandenlijfrente in beleggingseenheden of euro’s; indien de nabestaandenlijfrente niet een lijfrente in beleggingseenheden of een gerichte lijfrente is, maar is verzekerd als een recht op uitkeringen in euro’s, wordt de nabestaandenlijfrente geadministreerd als een zelfstandig recht ten opzichte van de in onderdeel a genoemde lijfrenten;  
 
 c. de hoogte van de uiteindelijk in euro’s uit te keren termijnen van lijfrente dient uitsluitend te worden beïnvloed door het verschil tussen het feitelijk behaalde beleggingsrendement en de rekenrente die ten tijde van het ingaan van de lijfrente als rekenrendement is gehanteerd. Daartoe wordt de contante waarde van de termijnen in beleggingseenheden actuarieel bijgehouden overeenkomstig de wijze waarop dat geschiedt voor termijnen van lijfrenten in euro’s.     
 3.  Met betrekking tot de tariefgrondslagen voor het berekenen van de uitkeringen gelden de volgende regels: 
@@ -65,7 +65,7 @@ b. indien een meeverzekerde nabestaandenlijfrente op de ingangsdatum van een van
 
 ####Ingegane lijfrentespaarrekeningtermijnen of lijfrentebeleggingsrechttermijnen waarvan de omvang niet in geldeenheden, maar in units is vastgesteld
 
-1.  Een aanspraak op termijnen als bedoeld in [artikel 3.126a, vierde en zesde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) waarvan de termijnen zijn ingegaan en waarvan de hoogte van de termijnen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, wordt op grond van artikel 3.126a, zevende lid, in verbinding met [artikel 1.7, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) gelijkgesteld met een aanspraak op vaste en gelijkmatige termijnen indien wordt voldaan aan de hierna opgenomen regels.  
+1.  Een aanspraak op termijnen als bedoeld in artikel 3.126a, vierde en zesde lid, van de wet waarvan de termijnen zijn ingegaan en waarvan de hoogte van de termijnen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, wordt op grond van artikel 3.126a, zevende lid, in verbinding met artikel 1.7, derde lid, van de wet gelijkgesteld met een aanspraak op vaste en gelijkmatige termijnen indien wordt voldaan aan de hierna opgenomen regels.  
 2.  Met betrekking tot de termijnen en de administratieve vormgeving daarvan gelden de volgende regels: 
 
 a. de termijnen worden op de ingangsdatum uitgedrukt in een vast aantal beleggingseenheden (units) per jaar;  
@@ -73,7 +73,7 @@ a. de termijnen worden op de ingangsdatum uitgedrukt in een vast aantal beleggin
 b. de hoogte van de uiteindelijk in euro’s uit te keren termijnen dient uitsluitend te worden beïnvloed door het verschil tussen het feitelijk behaalde beleggingsrendement en de rekenrente die ten tijde van het ingaan van de termijnen als rekenrendement is gehanteerd.    
 3.  Met betrekking tot de grondslagen voor het berekenen van de termijnen gelden de volgende regels: 
 
-a. de bank of beheerder, bedoeld in [artikel 3.126a, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), gaat ter berekening van het op jaarbasis uit te keren vaste aantal beleggingseenheden uit van ten hoogste het netto rekenrendement dat hij op de ingangsdatum hanteert voor soortgelijke termijnen in euro’s of van het op de ingangsdatum van de termijnen geldende u-rendement zoals dat periodiek wordt gepubliceerd door het Centrum voor Verzekeringstatistiek van het Verbond van Verzekeraars; gedurende de looptijd vindt geen herberekening plaats van het aantal jaarlijks uit te keren beleggingseenheden;  
+a. de bank of beheerder, bedoeld in artikel 3.126a, eerste lid, van de wet, gaat ter berekening van het op jaarbasis uit te keren vaste aantal beleggingseenheden uit van ten hoogste het netto rekenrendement dat hij op de ingangsdatum hanteert voor soortgelijke termijnen in euro’s of van het op de ingangsdatum van de termijnen geldende u-rendement zoals dat periodiek wordt gepubliceerd door het Centrum voor Verzekeringstatistiek van het Verbond van Verzekeraars; gedurende de looptijd vindt geen herberekening plaats van het aantal jaarlijks uit te keren beleggingseenheden;  
 
 b. in de hoogte van de termijnen in beleggingseenheden wordt geen inflatie-element verdisconteerd.    
 4.  Met betrekking tot de peildatum en de periode van vaststellen van de termijnen in euro’s gelden de volgende regels: 
@@ -84,30 +84,30 @@ b. gedurende een periode van ten hoogste 12 maanden (herrekenperiode) kunnen de 
 
 ### Hoofdstuk  2  
 
-####Raamwerk ([hoofdstuk 2 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Raamwerk (hoofdstuk 2 van de wet) 
 
 ### Artikel  3  
 
 ####Woonplaatsfictie; keuzerecht voor buitenlandse belastingplichtigen; aanwijzing mogendheid
 
-Voor de toepassing van [artikelen 2.2, eerste lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [2.5, eerste lid van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.  
+Voor de toepassing van artikelen 2.2, eerste lid, en 2.5, eerste lid van de wet, worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.  
 
 ### Artikel  4a  
 
 ####Toerekening afgezonderd particulier vermogen
 
 1.  Degene die als begunstigde een juridisch afdwingbaar recht heeft ten laste van een afgezonderd particulier vermogen, wordt in zoverre in de belastingheffing betrokken.   
-2.  Indien aan twee of meer personen de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen worden toegerekend, wordt bij deze toerekening aangesloten bij de waarde van hetgeen ten tijde van de afzondering door ieder van de bedoelde personen of hun rechtsvoorgangers is afgezonderd in de zin van [artikel 2.14a, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Met uitkeringen uit het vermogen van het afgezonderd particulier vermogen wordt op overeenkomstige wijze rekening gehouden.   
+2.  Indien aan twee of meer personen de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen worden toegerekend, wordt bij deze toerekening aangesloten bij de waarde van hetgeen ten tijde van de afzondering door ieder van de bedoelde personen of hun rechtsvoorgangers is afgezonderd in de zin van artikel 2.14a, derde lid, van de wet. Met uitkeringen uit het vermogen van het afgezonderd particulier vermogen wordt op overeenkomstige wijze rekening gehouden.   
 3.  Ingeval bij een afzondering van vermogen in een afgezonderd particulier vermogen niet bekend is welk vermogen door iemand is afgezonderd, vindt toerekening van dit vermogen plaats naar rato van het aantal personen dat vermogen daarin heeft afgezonderd.   
-4.  Onder het onder in het maatschappelijk verkeer ongebruikelijke voorwaarden rechtens dan wel in feite, direct of indirect, afzonderen van vermogensbestanddelen in een afgezonderd particulier vermogen, bedoeld in [artikel 2.14a, derde lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt mede verstaan: 
+4.  Onder het onder in het maatschappelijk verkeer ongebruikelijke voorwaarden rechtens dan wel in feite, direct of indirect, afzonderen van vermogensbestanddelen in een afgezonderd particulier vermogen, bedoeld in artikel 2.14a, derde lid, onderdeel a, van de wet, wordt mede verstaan: 
 
 a. het vervreemden van vermogensbestanddelen aan een afgezonderd particulier vermogen tegen een prijs die afwijkt van de waarde in het economische verkeer;  
 
 b. het bedingen van voorwaarden bij het vervreemden van vermogensbestanddelen aan een afgezonderd particulier vermogen die niet overeenkomen met voorwaarden die in het maatschappelijk verkeer gebruikelijk zijn;  
 
-c. het inbrengen van vermogensbestanddelen in een afgezonderd particulier vermogen waarbij de inbreng en daarmee samenhangende rechtshandelingen gericht zijn op of direct of indirect verband houden met het ontgaan of uitstellen van de toerekening, bedoeld in [artikel 2.14a, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
+c. het inbrengen van vermogensbestanddelen in een afgezonderd particulier vermogen waarbij de inbreng en daarmee samenhangende rechtshandelingen gericht zijn op of direct of indirect verband houden met het ontgaan of uitstellen van de toerekening, bedoeld in artikel 2.14a, eerste lid, van de wet.     
 5.  Bezittingen en schulden van een afgezonderd particulier vermogen worden in aanmerking genomen naar de waarde in het economisch verkeer die zou gelden als deze bezittingen en schulden deel zouden uitmaken van het vermogen van degene aan wie de bezittingen en schulden van het afgezonderd particulier vermogen worden toegerekend.   
-6.  De erfgenaam die gebruik wil maken van de tegenbewijsregeling, bedoeld in [artikel 2.14a, zesde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dient ten minste de volgende gegevens aan de inspecteur over te leggen: 
+6.  De erfgenaam die gebruik wil maken van de tegenbewijsregeling, bedoeld in artikel 2.14a, zesde lid, van de wet, dient ten minste de volgende gegevens aan de inspecteur over te leggen: 
 
 a. een beschrijving van het soort afgezonderd particulier vermogen en land van vestiging;  
 
@@ -121,7 +121,7 @@ e. alle overige stukken waaruit blijkt dat de bedoelde erfgenaam geen begunstigd
 
 ### Hoofdstuk  3  
 
-####Heffingsgrondslag bij werk en woning ([hoofdstuk 3 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Heffingsgrondslag bij werk en woning (hoofdstuk 3 van de wet) 
 
 ### Artikel  5  
 
@@ -137,15 +137,15 @@ b. zij niet ten laste van het belastbaar inkomen uit werk en woning kunnen of ko
 
 ####Belastbare winst uit onderneming; overige vrijstellingen; gedeeltelijke vrijstelling van bos en natuur
 
-1.  Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur of overeenkomsten die op die regelingen vooruitlopen als bedoeld in [artikel 3.13, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+1.  Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur of overeenkomsten die op die regelingen vooruitlopen als bedoeld in artikel 3.13, eerste lid, onderdeel g, van de wet worden aangewezen: 
 
 a. de Tijdelijke regeling particulier natuurbeheer zoals die luidde tot 1 januari 2000;  
 
-b. de [Subsidieregeling natuurbeheer 2000](../../../../../ministeriele-regeling/subsidieregeling/natuurbeheer/2000/BWBR0010999/README.md) zoals die luidde tot 1 januari 2007;  
+b. de Subsidieregeling natuurbeheer 2000 zoals die luidde tot 1 januari 2007;  
 
 c. de Subsidieregeling natuurbeheer van de onderscheiden provincies;  
 
-d. de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) zoals die luidde tot 1 januari 2007, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md);  
+d. de Subsidieregeling agrarisch natuurbeheer zoals die luidde tot 1 januari 2007, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in artikel 2, aanhef en onderdeel b, van die regeling;  
 
 e. de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in artikel 2, eerste lid, aanhef en onderdeel b, van die regeling;  
 
@@ -170,7 +170,7 @@ i. de beschikkingen van de Minister van Economische Zaken van 18 april 1998 met
 
 ####Belastbare winst uit onderneming; overige vrijstellingen; vrijstelling mobiliteitsprojecten
 
-Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit of het programma Beter Benutten als bedoeld in [artikel 3.13, eerste lid, onderdeel i, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit of het programma Beter Benutten als bedoeld in artikel 3.13, eerste lid, onderdeel i, van de wet worden aangewezen: 
 
 a. Spitsmijden A15 als bedoeld in het Uitvoeringsconvenant Spitsmijden A15 (Stcrt. 2009, 14);  
 
@@ -198,20 +198,20 @@ k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014,
 
 ####Belastbare winst uit onderneming; van aftrek uitgesloten kosten ten behoeve van de belastingplichtige; werkkleding
 
-Voor de toepassing van [artikel 3.16, tweede lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt kleding die niet uitsluitend of nagenoeg uitsluitend geschikt is om bij het behalen van de winst te dragen, slechts als werkkleding aangemerkt indien zij is voorzien van een of meer duidelijk zichtbare, aan de onderneming gebonden beeldmerken met een oppervlakte van tezamen ten minste 70 cm<sup>2</sup>.  
+Voor de toepassing van artikel 3.16, tweede lid, onderdeel c, van de wet wordt kleding die niet uitsluitend of nagenoeg uitsluitend geschikt is om bij het behalen van de winst te dragen, slechts als werkkleding aangemerkt indien zij is voorzien van een of meer duidelijk zichtbare, aan de onderneming gebonden beeldmerken met een oppervlakte van tezamen ten minste 70 cm<sup>2</sup>.  
 
 ### Artikel  8  
 
 ####Belastbare winst uit onderneming; in aftrek beperkte kosten ten behoeve van de belastingplichtige; verhuizing in kader van onderneming
 
-1.  Voor de toepassing van [artikel 3.17, eerste lid, onderdeel a, onder 1°, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) verhuist de ondernemer in ieder geval in het kader van de onderneming ingeval hij binnen twee jaar na de verplaatsing van de onderneming door verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming met ten minste 60% verkleint terwijl tot die verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming ten minste 25 kilometer bedroeg.   
+1.  Voor de toepassing van artikel 3.17, eerste lid, onderdeel a, onder 1°, van de wet verhuist de ondernemer in ieder geval in het kader van de onderneming ingeval hij binnen twee jaar na de verplaatsing van de onderneming door verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming met ten minste 60% verkleint terwijl tot die verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming ten minste 25 kilometer bedroeg.   
 2.   Onder afstand als bedoeld in het eerste lid wordt verstaan de afstand gemeten langs de meest gebruikelijke weg.   
 
 ### Artikel  9  
 
 ####Belastbare winst uit onderneming; bijtelling privé-gebruik auto
 
-De rittenregistratie als bedoeld in [artikel 3.20 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bevat ten minste de volgende gegevens: 
+De rittenregistratie als bedoeld in artikel 3.20 van de wet bevat ten minste de volgende gegevens: 
 
 a. merk, type en kenteken van de auto;  
 
@@ -223,27 +223,27 @@ c. per rit: 10. datum; 20. beginstand en eindstand van de kilometerteller; 30. b
 
 ####Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Met betrekking tot het kalenderjaar 2014 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2010 tot en met 2012 ten opzichte van de periode 2009 tot en met 2011 niet is afgenomen. 
+Met betrekking tot het kalenderjaar 2014 wordt voor de toepassing van artikel 3.22, zesde lid, onderdeel c, van de wet vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2010 tot en met 2012 ten opzichte van de periode 2009 tot en met 2011 niet is afgenomen. 
 
 ### Artikel  10  
 
 ####Belastbare winst uit onderneming; loon- en prijswijzigingen na afloop jaar en betaling
 
-1.   In afwijking van [artikel 3.27, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is het eerste lid van dat artikel mede van toepassing op de betaling van premies voor risicoverzekeringen voor weduwen- en wezenpensioenen, voorzover het in de premies begrepen bestanddeel voor toekomstige wijzigingen in de hoogte van lonen of prijzen niet meer bedraagt dan nodig is voor een aanpassing aan een zodanige wijziging van 4% per jaar.   
-2.   In afwijking van [artikel 3.27, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is het eerste lid van dat artikel mede van toepassing op de betaling van premies of koopsommen aan een pensioenlichaam waarvan het doel en de feitelijke werkzaamheden overeenkomen met die van een pensioenfonds als bedoeld in de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) en waarvan de winst uitsluitend kan worden aangewend ten bate van de verzekerden, een ander pensioenfonds met overeenkomstige doelstelling, of een algemeen maatschappelijk belang.   
+1.   In afwijking van artikel 3.27, tweede lid, van de wet is het eerste lid van dat artikel mede van toepassing op de betaling van premies voor risicoverzekeringen voor weduwen- en wezenpensioenen, voorzover het in de premies begrepen bestanddeel voor toekomstige wijzigingen in de hoogte van lonen of prijzen niet meer bedraagt dan nodig is voor een aanpassing aan een zodanige wijziging van 4% per jaar.   
+2.   In afwijking van artikel 3.27, derde lid, van de wet is het eerste lid van dat artikel mede van toepassing op de betaling van premies of koopsommen aan een pensioenlichaam waarvan het doel en de feitelijke werkzaamheden overeenkomen met die van een pensioenfonds als bedoeld in de Pensioenwet en waarvan de winst uitsluitend kan worden aangewend ten bate van de verzekerden, een ander pensioenfonds met overeenkomstige doelstelling, of een algemeen maatschappelijk belang.   
 3.   Het eerste en tweede lid zijn slechts van toepassing voorzover de betalingen het vermogen van de onderneming onherroepelijk hebben verlaten.   
 
 ### Artikel  11  
 
 ####Aangewezen staten bij de Overeenkomst betreffende de Europese Economische Ruimte
 
-Voor de toepassing van de [artikelen 3.55, tweede en vijfde lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.56, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.57, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [4.41, tweede en derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de [artikelen 14, derde lid](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md), en [14a, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](../../../../../AMvB/uitvoeringsbesluit/inkomstenbelasting/2001/BWBR0012066/README.md) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein. 
+Voor de toepassing van de artikelen 3.55, tweede en vijfde lid, 3.56, tweede lid, 3.57, tweede lid, en 4.41, tweede en derde lid, van de wet en de artikelen 14, derde lid, en 14a, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein. 
 
 ###Artikel 13a 
 
 ####Belastbare winst uit onderneming; verkorting driejaarstermijn bij doorschuiving naar ondernemers of werknemers
 
-1.  Aan de in [artikel 3.63, vierde lid en vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.
+1.  Aan de in artikel 3.63, vierde lid en vijfde lid, van de wet bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.
 2. Het eerste lid is van toepassing indien de belastingplichtige:
 
 a.door ziekte of gebreken gedurende ten minste één jaar niet in staat is, of vermoedelijk niet in staat zal zijn, om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde personen die overigens in gelijke omstandigheden verkeren, kunnen verdienen;
@@ -256,7 +256,7 @@ d.onder curatele wordt gesteld;
 
 e.vóór het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking met degene die de onderneming gaat voortzetten nog wel, maar vanaf enig moment daarna niet meer kan kiezen voor kwalificatie als partner van de voortzetter, of
 
-f.overlijdt en de onderneming spoedig daarna aan de in [artikel 3.63, vierde lid respectievelijk vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), bedoelde voortzetter wordt overgedragen. 
+f.overlijdt en de onderneming spoedig daarna aan de in artikel 3.63, vierde lid respectievelijk vijfde lid, van de wet, bedoelde voortzetter wordt overgedragen. 
 
 ### Artikel  14  
 
@@ -268,14 +268,14 @@ f.overlijdt en de onderneming spoedig daarna aan de in [artikel 3.63, vierde lid
 
 ####Belastbaar loon; reisaftrek
 
-1.   De openbaar-vervoerverklaring, bedoeld in [artikel 3.87, negende lid van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), is gedagtekend en bevat ten minste de volgende gegevens: 
+1.   De openbaar-vervoerverklaring, bedoeld in artikel 3.87, negende lid van de wet, is gedagtekend en bevat ten minste de volgende gegevens: 
 
 a. naam en adres van de belastingplichtige;  
 
 b. de route waarvoor de plaatsbewijzen geldig zijn;  
 
 c. het tijdvak van geldigheid van de plaatsbewijzen.     
-2.   De verklaring, bedoeld in [artikel 3.87, negende lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) (de reisverklaring) bevat ten minste de volgende gegevens: 
+2.   De verklaring, bedoeld in artikel 3.87, negende lid, van de wet (de reisverklaring) bevat ten minste de volgende gegevens: 
 
 a. naam en adres van de inhoudingsplichtige;  
 
@@ -287,48 +287,48 @@ c. een door de inhoudingsplichtige ondertekende verklaring, die vermeldt het aan
 
 ####Belastbare periodieke uitkeringen en verstrekkingen; vrijstellingen publiekrechtelijke uitkeringen
 
-1.  Als uitkeringen welke niet tot de inkomsten in de vorm van bepaalde periodieke uitkeringen en verstrekkingen behoren, bedoeld in [artikel 3.104, onderdeel h, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+1.  Als uitkeringen welke niet tot de inkomsten in de vorm van bepaalde periodieke uitkeringen en verstrekkingen behoren, bedoeld in artikel 3.104, onderdeel h, van de wet worden aangewezen: 
 
-a. uitkeringen ingevolge de [Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md);  
+a. uitkeringen ingevolge de Wet op de huurtoeslag;  
 
-b. uitkeringen ingevolge de [Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md);  
+b. uitkeringen ingevolge de Wet bevordering eigenwoningbezit;  
 
-c. uitkeringen ingevolge de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md);  
+c. uitkeringen ingevolge de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;  
 
-d. uitkeringen en verstrekkingen ingevolge de [Regeling opvang asielzoekers](../../../../../ministeriele-regeling/regeling/opvang/asielzoekers/BWBR0005366/README.md);  
+d. uitkeringen en verstrekkingen ingevolge de Regeling opvang asielzoekers;  
 
-e. uitkeringen en verstrekkingen ingevolge de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md);  
+e. uitkeringen en verstrekkingen ingevolge de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005;  
 
 f. uitkeringen en verstrekkingen ingevolge de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf;  
 
 g. uitkeringen als bedoeld in artikel 5 van het Besluit taakverlichting alleenstaande werkenden/AAW;  
 
-h. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten;  
+h. inkomensondersteunende uitkeringen ingevolge artikel 108, eerste lid, van de Gemeentewet, die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten;  
 
-i.uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling verstrekkingen gerepatrieerden Libanon](../../../../../ministeriele-regeling/tijdelijke/regeling/verstrekkingen/gerepatrieerden/libanon/BWBR0020126/README.md);
+i.uitkeringen en verstrekkingen ingevolge de Tijdelijke regeling verstrekkingen gerepatrieerden Libanon;
 
-j.uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling voortzetting verstrekkingen gerepatrieerden Libanon](../../../../../ministeriele-regeling/tijdelijke/regeling/voortzetting/verstrekkingen/gerepatrieerden/libanon/BWBR0020553/README.md).   
-2.   Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](../../../../../ministeriele-regeling/regeling/tegemoetkoming/ouders/van/thuiswonende/gehandicapte/kinderen/BWBR0010997/README.md).    
-3.  Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in [artikel 3.104, onderdeel o, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: voorzieningen in de zin van de [Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers](../../../../../ministeriele-regeling/voorzieningenregeling/voor/militaire/oorlogs-/en/dienstslachtoffers/BWBR0008406/README.md). 
+j.uitkeringen en verstrekkingen ingevolge de Tijdelijke regeling voortzetting verstrekkingen gerepatrieerden Libanon.   
+2.   Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in artikel 3.104, onderdeel i, van de wet, worden aangewezen: uitkeringen ingevolge de Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000.    
+3.  Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in artikel 3.104, onderdeel o, van de wet worden aangewezen: voorzieningen in de zin van de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers. 
 
 ### Artikel 17a 
 
 ####Aanvullende bepalingen met betrekking tot de eigenwoningreserve
 
-Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet-nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat ter zake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning, bedoeld in [artikel 3.119aa, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
+Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet-nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat ter zake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning, bedoeld in artikel 3.119aa, eerste lid, van de wet. 
 
 ### Artikel  17aa 
 
 ####Nadere regeling aflossingsmoment eigenwoningschuld
 
-1.  Indien de over een kalendermaand verschuldigde aflossing van een tot de eigenwoningschuld behorende schuld in de eerste vijf werkdagen van de daaropvolgende kalendermaand wordt gedaan, wordt voor de toepassing van de [artikelen 3.119c](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.119e van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) het bedrag van deze schuld op de laatste dag van de kalendermaand waarover de aflossing verschuldigd was, verminderd met die aflossing.   
-2.  Onder werkdagen als bedoeld in het eerste lid worden verstaan alle dagen van het jaar met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md), de Goede Vrijdag en 1 mei.  
+1.  Indien de over een kalendermaand verschuldigde aflossing van een tot de eigenwoningschuld behorende schuld in de eerste vijf werkdagen van de daaropvolgende kalendermaand wordt gedaan, wordt voor de toepassing van de artikelen 3.119c en 3.119e van de wet het bedrag van deze schuld op de laatste dag van de kalendermaand waarover de aflossing verschuldigd was, verminderd met die aflossing.   
+2.  Onder werkdagen als bedoeld in het eerste lid worden verstaan alle dagen van het jaar met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen als bedoeld in artikel 3, eerste lid, van de Algemene termijnenwet, de Goede Vrijdag en 1 mei.  
 
 ### Artikel  17b  
 
 ####Informatieplicht bij schulden bij niet-administratieplichtigen; te verstrekken gegevens
 
-Als gegevens als bedoeld in [artikel 3.119g van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+Als gegevens als bedoeld in artikel 3.119g van de wet worden aangewezen: 
 
 a. de datum van aangaan van de schuld;  
 
@@ -342,7 +342,7 @@ e. de contractueel vastgelegde wijze van aflossing;
 
 f. indien de leningverstrekker een natuurlijk persoon is: de naam, het adres en het burgerservicenummer of, bij het ontbreken van het burgerservicenummer, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker;  
 
-g. indien de leningverstrekker een rechtspersoon is: de naam, het adres en een uniek nummer als bedoeld in de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) of, bij het ontbreken van een dergelijk nummer en indien dat bestaat, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker.   
+g. indien de leningverstrekker een rechtspersoon is: de naam, het adres en een uniek nummer als bedoeld in de Handelsregisterwet 2007 of, bij het ontbreken van een dergelijk nummer en indien dat bestaat, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker.   
 
 ### Artikel  18  
 
@@ -354,61 +354,61 @@ g. indien de leningverstrekker een rechtspersoon is: de naam, het adres en een u
 
 ####Verliesverrekening; formalisering achterwaartse verliesverrekening
 
-1.  Een voorlopige verliesverrekening als bedoeld in [artikel 3.152, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.   
+1.  Een voorlopige verliesverrekening als bedoeld in artikel 3.152, vijfde lid, van de wet kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.   
 2.  Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.   
 
 ### Artikel  24  
 
 ####Middeling
 
-Bij het in [artikel 3.154, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde verzoek om middeling wordt een berekening gevoegd van de middelingsteruggaaf.  
+Bij het in artikel 3.154, eerste lid, van de wet bedoelde verzoek om middeling wordt een berekening gevoegd van de middelingsteruggaaf.  
 
 ### Hoofdstuk  4  
 
-####Heffingsgrondslag bij aanmerkelijk belang ([hoofdstuk 4 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet) 
 
 ### Artikel  25  
 
 ####Aanmerkelijk belang; soortbenadering; aandelen verkregen in het kader van een premiespaarregeling of spaarloonregeling
 
-Ten aanzien van de belastingplichtige die geen andere aandelen in een vennootschap houdt dan die welke hij heeft verkregen in het kader van een spaarloonregeling als bedoeld in [artikel 32 van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) zoals dat artikel luidde op 31 december 2011, worden die aandelen voor de toepassing van [artikel 4.7 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) aangemerkt als aandelen van dezelfde soort als die waarin het grootste gedeelte van het geplaatste kapitaal van de vennootschap is uitgedrukt.  
+Ten aanzien van de belastingplichtige die geen andere aandelen in een vennootschap houdt dan die welke hij heeft verkregen in het kader van een spaarloonregeling als bedoeld in artikel 32 van de Wet op de loonbelasting 1964 zoals dat artikel luidde op 31 december 2011, worden die aandelen voor de toepassing van artikel 4.7 van de wet aangemerkt als aandelen van dezelfde soort als die waarin het grootste gedeelte van het geplaatste kapitaal van de vennootschap is uitgedrukt.  
 
 ### Artikel  26  
 
 ####Reguliere voordelen; forfaitair voordeel uit buitenlandse beleggingslichamen; aanwijzing effectenbeurzen
 
-De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) aan te wijzen effectenbeurzen zijn de effectenbeurzen in de lidstaten van de Europese Gemeenschappen, alsmede de effectenbeurzen te Zürich, New York en Tokio.  
+De ingevolge artikel 4.14, achtste lid, onderdeel a, van de wet aan te wijzen effectenbeurzen zijn de effectenbeurzen in de lidstaten van de Europese Gemeenschappen, alsmede de effectenbeurzen te Zürich, New York en Tokio.  
 
 ### Artikel  26a  
 
 ####Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
 
-1.  Een verzoek als bedoeld in [artikel 4.17a, eerste lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [artikel 4.17b, tweede lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of artikel 4.17b, derde lid, van de wet wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de erflater.   
-2.  Een verzoek als bedoeld in [artikel 4.17b, eerste lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 4.17c, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de vervreemder.  
+1.  Een verzoek als bedoeld in artikel 4.17a, eerste lid, artikel 4.17b, tweede lid, of artikel 4.17b, derde lid, van de wet wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de erflater.   
+2.  Een verzoek als bedoeld in artikel 4.17b, eerste lid, of artikel 4.17c, eerste lid, van de wet wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de vervreemder.  
 
 ### Artikel  26b  
 
 ####In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
 
-1.  Onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in [artikel 4.17a, derde lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een juridische splitsing als bedoeld in [artikel 3.56 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of een juridische fusie als bedoeld in [artikel 3.57 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-2.  Aan het gestelde in [artikel 4.17a, derde lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt ook geacht te zijn voldaan indien de daar bedoelde preferente aandelen worden verkregen van een rechtsopvolger krachtens erfrecht of huwelijksvermogensrecht van degene die de aandelen heeft omgezet als bedoeld in genoemd onderdeel.   
-3.  Indirect gehouden preferente aandelen zijn uitgegeven in het kader van een bedrijfsoverdracht als bedoeld in [artikel 4.17a, vijfde lid, laatste volzin, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) indien: 
+1.  Onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in artikel 4.17a, derde lid, onderdeel a, van de wet wordt ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in artikel 3.55 van de wet, een juridische splitsing als bedoeld in artikel 3.56 van de wet of een juridische fusie als bedoeld in artikel 3.57 van de wet.   
+2.  Aan het gestelde in artikel 4.17a, derde lid, onderdeel a, van de wet wordt ook geacht te zijn voldaan indien de daar bedoelde preferente aandelen worden verkregen van een rechtsopvolger krachtens erfrecht of huwelijksvermogensrecht van degene die de aandelen heeft omgezet als bedoeld in genoemd onderdeel.   
+3.  Indirect gehouden preferente aandelen zijn uitgegeven in het kader van een bedrijfsoverdracht als bedoeld in artikel 4.17a, vijfde lid, laatste volzin, van de wet indien: 
 
-a. de preferente aandelen een omzetting vormen van een eerder door de erflater gehouden indirect belang van gewone aandelen als bedoeld in [artikel 4.17a, vijfde lid, onderdelen a en b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. de preferente aandelen een omzetting vormen van een eerder door de erflater gehouden indirect belang van gewone aandelen als bedoeld in artikel 4.17a, vijfde lid, onderdelen a en b, van de wet;  
 
 b. de omzetting in preferente aandelen gepaard is gegaan met het toekennen van gewone aandelen aan een ander;  
 
-c. ten tijde van de omzetting in preferente aandelen de vennootschap waarop de omgezette aandelen betrekking hadden een onderneming dreef als bedoeld in [artikel 4.17a, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of een medegerechtigdheid hield als bedoeld in artikel 4.17a, eerste lid, onderdeel b, van de wet, en  
+c. ten tijde van de omzetting in preferente aandelen de vennootschap waarop de omgezette aandelen betrekking hadden een onderneming dreef als bedoeld in artikel 4.17a, eerste lid, onderdeel a, van de wet, of een medegerechtigdheid hield als bedoeld in artikel 4.17a, eerste lid, onderdeel b, van de wet, en  
 
-d. de verkrijger van de indirect gehouden preferente aandelen reeds voor ten minste 5% van het geplaatste kapitaal direct of indirect aandeelhouder is van gewone aandelen als bedoeld in onderdeel b.   Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in de eerste volzin ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een juridische splitsing als bedoeld in [artikel 3.56 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of een juridische fusie als bedoeld in [artikel 3.57 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Voorts wordt daaronder ook begrepen een uitgifte van preferente aandelen in het kader van een bedrijfsfusie als bedoeld in [artikel 14 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
-4.  Indien preferente aandelen zijn ontstaan in het kader van een gefaseerde bedrijfsoverdracht als bedoeld in [artikel 4.17a, derde lid of vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), dan behouden deze aandelen het karakter dat zij in aanmerking worden genomen voor de toepassing van artikel 4.17a, eerste lid, onderdeel c, van die wet voor zover de houder van deze preferente aandelen ook houder is van de gewone aandelen die bij het ontstaan van de preferente aandelen zijn toegekend aan de bedrijfsopvolger.   
-5.  Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van [artikel 4.17a, derde lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.  
+d. de verkrijger van de indirect gehouden preferente aandelen reeds voor ten minste 5% van het geplaatste kapitaal direct of indirect aandeelhouder is van gewone aandelen als bedoeld in onderdeel b.   Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in de eerste volzin ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in artikel 3.55 van de wet, een juridische splitsing als bedoeld in artikel 3.56 van de wet of een juridische fusie als bedoeld in artikel 3.57 van de wet. Voorts wordt daaronder ook begrepen een uitgifte van preferente aandelen in het kader van een bedrijfsfusie als bedoeld in artikel 14 van de Wet op de vennootschapsbelasting 1969.   
+4.  Indien preferente aandelen zijn ontstaan in het kader van een gefaseerde bedrijfsoverdracht als bedoeld in artikel 4.17a, derde lid of vijfde lid, van de wet, dan behouden deze aandelen het karakter dat zij in aanmerking worden genomen voor de toepassing van artikel 4.17a, eerste lid, onderdeel c, van die wet voor zover de houder van deze preferente aandelen ook houder is van de gewone aandelen die bij het ontstaan van de preferente aandelen zijn toegekend aan de bedrijfsopvolger.   
+5.  Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van artikel 4.17a, derde lid, onderdeel d, van de wet worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.  
 
 ### Artikel  26c  
 
 ####Verkorting termijn 36 maanden uit de doorschuifregeling bij schenking
 
-1.  Aan de in [artikel 4.17c, eerste lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van de aldaar bedoelde dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.   
+1.  Aan de in artikel 4.17c, eerste lid, onderdeel d, van de wet bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van de aldaar bedoelde dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.   
 2.  Het eerste lid is van toepassing indien de vervreemder: 
 
 a. door ziekte of gebreken gedurende ten minste één jaar niet in staat is, of vermoedelijk niet in staat zal zijn, om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde personen die overigens in gelijke omstandigheden verkeren, kunnen verdienen;  
@@ -423,11 +423,11 @@ d. onder curatele is gesteld.
 
 ####Werknemer bij een werkmaatschappij in geval van schenking van aandelen in een holding
 
-Aan de in [artikel 4.17c, eerste lid, onderdeel d, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde voorwaarde wordt geacht ook te zijn voldaan indien: 
+Aan de in artikel 4.17c, eerste lid, onderdeel d, van de wet bedoelde voorwaarde wordt geacht ook te zijn voldaan indien: 
 
 a. de vennootschap waarop de aandelen of winstbewijzen betrekking hebben, een belang heeft in een ander lichaam;  
 
-b. dat andere lichaam een onderneming drijft of een medegerechtigdheid houdt, een en ander als bedoeld in [artikel 4.17c, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+b. dat andere lichaam een onderneming drijft of een medegerechtigdheid houdt, een en ander als bedoeld in artikel 4.17c, eerste lid, onderdeel a, van de wet, en  
 
 c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de vervreemding in dienstbetrekking is van dat andere lichaam.   
 
@@ -435,12 +435,12 @@ c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan h
 
 ####Verliesverrekening; formalisering achterwaartse verliesverrekening
 
-1.   Een voorlopige verliesverrekening als bedoeld in [artikel 4.51, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.   
+1.   Een voorlopige verliesverrekening als bedoeld in artikel 4.51, vijfde lid, van de wet kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.   
 2.   Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.   
 
 ### Hoofdstuk  5  
 
-####Heffingsgrondslag bij sparen en beleggen ([hoofdstuk 5 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Heffingsgrondslag bij sparen en beleggen (hoofdstuk 5 van de wet) 
 
 ### Artikel  28  
 
@@ -448,15 +448,15 @@ c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan h
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
 
-a. *project:* groenproject, zijnde een project waarvoor ingevolge de [Regeling groenprojecten 2010](../../../../../ministeriele-regeling/regeling/groenprojecten/2010/BWBR0027439/README.md), de [Regeling groenprojecten buitenland 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/buitenland/2002/BWBR0013272/README.md) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/nederlandse/antillen/en/aruba/2002/BWBR0013273/README.md) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
+a. *project:* groenproject, zijnde een project waarvoor ingevolge de Regeling groenprojecten 2010, de Regeling groenprojecten buitenland 2002 dan wel de Regeling groenprojecten Nederlandse Antillen en Aruba 2002 een verklaring als bedoeld in artikel 5.14, derde lid, van de wet is afgegeven;  
 
-b. *fonds:* groenfonds, zijnde een bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
+b. *fonds:* groenfonds, zijnde een bank of beleggingsinstelling die voldoet aan de voorwaarden van artikel 5.14, tweede lid, van de wet en die door de inspecteur ingevolge artikel 5.14, eerste lid, van de wet is aangewezen;  
 
-c. *hoofdzakelijkheidscriterium:* de voorwaarde inzake hoofdzakelijk als bedoeld in [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+c. *hoofdzakelijkheidscriterium:* de voorwaarde inzake hoofdzakelijk als bedoeld in artikel 5.14, tweede lid, van de wet;  
 
-d. *aanloopperiode:* de periode, bedoeld in [artikel 5.14, vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+d. *aanloopperiode:* de periode, bedoeld in artikel 5.14, vierde lid, van de wet;  
 
-e. *ingroeiperiode:* de periode, bedoeld in [artikel 5.14, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+e. *ingroeiperiode:* de periode, bedoeld in artikel 5.14, vijfde lid, van de wet.   
 
 ### Artikel  29  
 
@@ -466,7 +466,7 @@ e. *ingroeiperiode:* de periode, bedoeld in [artikel 5.14, vijfde lid, van de we
 
 a. de statuten van het fonds;  
 
-b. een afschrift van de inschrijving in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel, ingeval [artikel 3:2, eerste lid, onderdeel c, van die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is, een afschrift van de in dat lid bedoelde bankgarantie, en  
+b. een afschrift van de inschrijving in het register, bedoeld in artikel 1:107 van de Wet op het financieel toezicht, dan wel, ingeval artikel 3:2, eerste lid, onderdeel c, van die wet van toepassing is, een afschrift van de in dat lid bedoelde bankgarantie, en  
 
 c. een opgave van de feitelijke werkzaamheden en voorgenomen werkzaamheden van het fonds.  
 2. Bij een verzoek om aanwijzing als fonds met een ingroeiperiode worden tevens overgelegd:
@@ -512,7 +512,7 @@ c. indien het fonds de in dit hoofdstuk opgenomen informatieverplichtingen jegen
 
 ####Aanwijzing prijscourant
 
-Als prijscourant als bedoeld in [artikel 5.21 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangewezen de Officiële Prijscourant uitgegeven door Euronext Amsterdam N.V. 
+Als prijscourant als bedoeld in artikel 5.21 van de wet wordt aangewezen de Officiële Prijscourant uitgegeven door Euronext Amsterdam N.V. 
 
 ### Hoofdstuk  6  
 
@@ -522,23 +522,23 @@ Als prijscourant als bedoeld in [artikel 5.21 van de wet](../../../../../wet/wet
 
 ####Uitgaven voor levensonderhoud van kinderen; beperkingen
 
-1.   [Artikel 6.14, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geldt niet voor: 
+1.   Artikel 6.14, eerste lid, onderdeel a, van de wet geldt niet voor: 
 
-a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in [artikel 64 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) geldend maakt;  
+a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in artikel 64 van de Wet financiering sociale verzekeringen, ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de Algemene Kinderbijslagwet geldend maakt;  
 
-b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.     
+b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de Algemene Kinderbijslagwet zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.     
 2.  Voor de toepassing van het eerste lid, onderdeel b, geldt dat: 
 
 a. de in artikel 10 van het Besluit uitvoering kinderbijslag bedoelde persoon wiens recht op kinderbijslag niet wordt uitbetaald, zijn recht op kinderbijslag niet geldend maakt, en  
 
 b. de in artikel 10 van het Besluit uitvoering kinderbijslag bedoelde persoon wiens recht op kinderbijslag aan hem geheel of gedeeltelijk wordt uitbetaald, zijn recht op kinderbijslag geheel geldend maakt.    
-3.   Het eerste lid, onderdeel b, is van overeenkomstige toepassing indien de belastingplichtige recht heeft op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) overeenkomende buitenlandse regeling.   
+3.   Het eerste lid, onderdeel b, is van overeenkomstige toepassing indien de belastingplichtige recht heeft op een tegemoetkoming volgens een naar aard en strekking met de Algemene Kinderbijslagwet overeenkomende buitenlandse regeling.   
 
 ### Artikel  36  
 
 ####Uitgaven voor levensonderhoud van kinderen; omvang in aanmerking te nemen uitgaven
 
-1.  De in [artikel 6.15 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van: 
+1.  De in artikel 6.15 van de wet bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van: 
 
 a. € 205 per kalenderkwartaal indien het kind jonger dan 6 jaar is;  
 
@@ -559,7 +559,7 @@ b. € 750, indien het kind niet tot het huishouden van de belastingplichtige b
 
 ####Uitgaven voor specifieke zorgkosten; dieetkosten
 
-1.  De extra kosten van een op voorschrift van een arts of een diëtist gehouden dieet als bedoeld in [artikel 6.17, eerste lid, onderdeel f, en zevende lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden bepaald aan de hand van de navolgende tabel: 
+1.  De extra kosten van een op voorschrift van een arts of een diëtist gehouden dieet als bedoeld in artikel 6.17, eerste lid, onderdeel f, en zevende lid, van de wet, worden bepaald aan de hand van de navolgende tabel: 
 
 | Voor het dieet bij het ziektebeeld en de aandoening  | op welk dieet de in deze kolom genoemde typering van toepassing is  | bedragen de extra uitgaven  |
 |:---|:---|:---|
@@ -651,7 +651,7 @@ b. verschillende dieettyperingen die in aanmerking zouden komen bij eenzelfde zi
 
 c. deels overeenkomende dieettyperingen bij eenzelfde ziektebeeld en aandoening, alleen het hoogste van de voor het van toepassing zijnde ziektebeeld en aandoening geldende bedragen.     
 4.  Ingeval extra uitgaven voor een op voorschrift van een arts of diëtist gehouden dieet niet gedurende het gehele kalenderjaar worden gedaan, worden de met toepassing van het eerste lid bepaalde bedragen naar tijdsgelang herrekend.   
-5.  Een voorschrift als bedoeld in [artikel 6.17, achtste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bevat ten minste: 
+5.  Een voorschrift als bedoeld in artikel 6.17, achtste lid, van de wet bevat ten minste: 
 
 a. gegevens waaruit blijkt dat degene die het voorschrift afgeeft medicus of diëtist is;  
 
@@ -667,9 +667,9 @@ e. de dagtekening van het voorschrift, de ingangsdatum van het te volgen dieet e
 
 ####Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
-1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden in aanmerking genomen voor een bedrag van € 310 dan wel, indien blijkt dat die uitgaven € 620 te boven gaan, voor een bedrag van € 775, indien:
+1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in artikel 6.17, eerste lid, onderdeel g, van de wet worden in aanmerking genomen voor een bedrag van € 310 dan wel, indien blijkt dat die uitgaven € 620 te boven gaan, voor een bedrag van € 775, indien:
 
-a. de genoemde uitgaven voortvloeien uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) die tot het huishouden van de belastingplichtige behoort; en  
+a. de genoemde uitgaven voortvloeien uit ziekte of invaliditeit van een persoon als bedoeld in artikel 6.16 van de wet die tot het huishouden van de belastingplichtige behoort; en  
 
 b. de ziekte of invaliditeit ten minste een jaar heeft geduurd of vermoedelijk zal duren.    
 2.   Ingeval aan de in het eerste lid gestelde voorwaarden niet gedurende het gehele kalenderjaar is voldaan, wordt dat lid naar tijdsgelang toegepast.   
@@ -678,7 +678,7 @@ b. de ziekte of invaliditeit ten minste een jaar heeft geduurd of vermoedelijk z
 
 ####Uitgaven voor specifieke zorgkosten; paramedici met directe toegang
 
-1.  Als paramedicus als bedoeld in [artikel 6.17, negende lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt aangewezen de persoon die bevoegd is tot het voeren van de titel: 
+1.  Als paramedicus als bedoeld in artikel 6.17, negende lid, onderdeel c, van de wet wordt aangewezen de persoon die bevoegd is tot het voeren van de titel: 
 
 a. fysiotherapeut;  
 
@@ -697,7 +697,7 @@ g. podotherapeut;
 h. mondhygiënist; of  
 
 i. huidtherapeut.     
-2.  Een verklaring als bedoeld in [artikel 6.17, negende lid, onderdeel c, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bevat ten minste: 
+2.  Een verklaring als bedoeld in artikel 6.17, negende lid, onderdeel c, van de wet bevat ten minste: 
 
 a. gegevens waaruit blijkt dat degene die de verklaring afgeeft een paramedicus als bedoeld in het eerste lid is;  
 
@@ -715,7 +715,7 @@ f. de dagtekening van de verklaring.
 
 ####Uitgaven voor specifieke zorgkosten; van aftrek uitgesloten aangewezen uitgaven
 
-Als uitgaven als bedoeld in [artikel 6.18, eerste lid, onderdeel h, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen: 
+Als uitgaven als bedoeld in artikel 6.18, eerste lid, onderdeel h, van de wet worden aangewezen: 
 
 a. uitgaven voor in-vitrofertilisatie voor een vrouw die ten tijde van de behandeling 43 jaar of ouder is;  
 
@@ -727,7 +727,7 @@ c. uitgaven voor een elleboogkruk, een gipssteun, een looprek, een okselkruk, ee
 
 ####Weekenduitgaven voor gehandicapten; het in aanmerking te nemen bedrag
 
-1.  De ingevolge [artikel 6.26 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde weekenduitgaven voor gehandicapten worden gesteld op: 
+1.  De ingevolge artikel 6.26 van de wet bedoelde weekenduitgaven voor gehandicapten worden gesteld op: 
 
 a. € 10 per dag van verzorging van de gehandicapte door de belastingplichtige, alsmede  
 
@@ -738,17 +738,17 @@ b. € 0,19 per kilometer voor het vervoer per auto van de gehandicapte door de
 
 ####Scholingsuitgaven; afgifte EVC-verklaringen
 
-De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt afgegeven door de Minister van Onderwijs, Cultuur en Wetenschap. 
+De verklaring, bedoeld in artikel 6.27, tweede lid, van de wet, wordt afgegeven door de Minister van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  41  
 
 ####Aftrekbare giften; voorwaarden onderhandse akte van schenking
 
-1.  In de onderhandse akte van schenking, bedoeld in [artikel 6.38 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), worden ten minste de volgende gegevens vermeld: 
+1.  In de onderhandse akte van schenking, bedoeld in artikel 6.38 van de wet, worden ten minste de volgende gegevens vermeld: 
 
 a. de naam, het adres en het burgerservicenummer van de belastingplichtige; 
 
-b. de naam en het nummer, bedoeld in [artikel 1a, zevende lid, onderdeel b, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](../../../../../ministeriele-regeling/uitvoeringsregeling/algemene/wet/inzake/rijksbelastingen/1994/BWBR0006736/README.md), van de begiftigde instelling of vereniging, dan wel, ingeval het een buitenlandse vereniging is, een door de vestigingsstaat aan de begiftigde vereniging toegekend identificatienummer dat vergelijkbaar is met het nummer, bedoeld in [artikel 12, onderdeel a, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+b. de naam en het nummer, bedoeld in artikel 1a, zevende lid, onderdeel b, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994, van de begiftigde instelling of vereniging, dan wel, ingeval het een buitenlandse vereniging is, een door de vestigingsstaat aan de begiftigde vereniging toegekend identificatienummer dat vergelijkbaar is met het nummer, bedoeld in artikel 12, onderdeel a, van de Handelsregisterwet 2007;  
 
 c. het startjaar en de looptijd van de uitkeringen of verstrekkingen;  
 
@@ -758,7 +758,7 @@ e. een door de instelling of vereniging aan de schenking toe te kennen uniek tra
 
 ### Hoofdstuk  7  
 
-####Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Belastingheffing van buitenlandse belastingplichtigen (hoofdstuk 7 van de wet) 
 
 ### Artikel  42  
 
@@ -786,27 +786,27 @@ e. een door de instelling of vereniging aan de schenking toe te kennen uniek tra
 
 ####Bijzondere verhoging heffingskorting voor niet inwoners; aanwijzing mogendheid
 
-Voor de toepassing van [artikel 8.9a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn. 
+Voor de toepassing van artikel 8.9a van de wet worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn. 
 
 ###Artikel 44b 
 
 ####Inkomensafhankelijke combinatiekorting voor co-ouders
 
-Voor de toepassing van [artikel 8.14a, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft. 
+Voor de toepassing van artikel 8.14a, eerste lid, onderdeel b, van de wet, wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft. 
 
 ### Artikel 44c 
 
 ####Bedrag ouderschapsverlofkorting
 
-1.  De ouderschapsverlofkorting bedraagt per uur ouderschapsverlof 1/8 van 50% van het wettelijke minimumloon per werkdag, zoals bepaald bij of krachtens [artikel 8 van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md). Eerst nadat voor het totaal aantal uren ouderschapsverlof in het kalenderjaar aldus het bedrag aan korting is bepaald, wordt de regel toegepast dat de korting niet meer kan bedragen dan het in het voorafgaande kalenderjaar genoten belastbare loon verminderd met het in het kalenderjaar genoten belastbare loon.   
+1.  De ouderschapsverlofkorting bedraagt per uur ouderschapsverlof 1/8 van 50% van het wettelijke minimumloon per werkdag, zoals bepaald bij of krachtens artikel 8 van de Wet minimumloon en minimumvakantiebijslag. Eerst nadat voor het totaal aantal uren ouderschapsverlof in het kalenderjaar aldus het bedrag aan korting is bepaald, wordt de regel toegepast dat de korting niet meer kan bedragen dan het in het voorafgaande kalenderjaar genoten belastbare loon verminderd met het in het kalenderjaar genoten belastbare loon.   
 2.  Voor de toepassing van de wet en het eerste lid wordt uitgegaan van het wettelijke minimumloon zoals dat per 1 januari van het kalenderjaar waarin de ouderschapsverlofkorting geldt, is vastgesteld.   
-3.  Indien de belastingplichtige in het voorafgaande kalenderjaar eveneens gebruik heeft gemaakt van zijn recht op ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), kan voor de toepassing van [artikel 8.14b, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in plaats van het in het voorafgaande kalenderjaar genoten belastbare loon worden uitgegaan van het in het kalenderjaar voorafgaand aan het ouderschapsverlof genoten belastbare loon.  
+3.  Indien de belastingplichtige in het voorafgaande kalenderjaar eveneens gebruik heeft gemaakt van zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg, kan voor de toepassing van artikel 8.14b, tweede lid, van de wet in plaats van het in het voorafgaande kalenderjaar genoten belastbare loon worden uitgegaan van het in het kalenderjaar voorafgaand aan het ouderschapsverlof genoten belastbare loon.  
 
 ### Artikel 44d 
 
 ####Verklaring ouderschapsverlof
 
-1.  Voor de toepassing van de ouderschapsverlofkorting beschikt de werknemer over een door de werkgever ondertekende verklaring dat ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) is opgenomen.   
+1.  Voor de toepassing van de ouderschapsverlofkorting beschikt de werknemer over een door de werkgever ondertekende verklaring dat ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg is opgenomen.   
 2.  Deze verklaring bevat ten minste: 
 
 a. naam, adres en woonplaats van de werkgever;  
@@ -821,26 +821,26 @@ e. het totaal aantal uren in het kalenderjaar waarin de belastingplichtige gebru
 
 ### Hoofdstuk  9  
 
-####Wijze van heffing ([hoofdstuk 9 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md))
+####Wijze van heffing (hoofdstuk 9 van de wet)
 
 ### Artikel  45  
 
 #### Termijn voor het doen van niet-verplichte aangifte
 
-1.  De aangifte, bedoeld in [artikel 9.4, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt gedaan binnen vijf jaren na afloop van het kalenderjaar.   
-2.  Indien binnen de in het eerste lid bedoelde termijn een uitnodiging tot het doen van aangifte is uitgereikt of toegezonden, hetzij de inspecteur is verzocht om een uitnodiging tot het doen van aangifte, wordt die termijn verlengd tot het einde van de door de inspecteur ingevolge [artikel 9, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gestelde of verleende termijn.   
+1.  De aangifte, bedoeld in artikel 9.4, eerste lid, onderdeel b, van de wet, wordt gedaan binnen vijf jaren na afloop van het kalenderjaar.   
+2.  Indien binnen de in het eerste lid bedoelde termijn een uitnodiging tot het doen van aangifte is uitgereikt of toegezonden, hetzij de inspecteur is verzocht om een uitnodiging tot het doen van aangifte, wordt die termijn verlengd tot het einde van de door de inspecteur ingevolge artikel 9, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen gestelde of verleende termijn.   
 
 ### Artikel  45a  
 
 #### Voorheffingen; vaststelling hoogte van bedrag aan te verrekenen loonbelasting ingevolge compensatieregeling uit het Verdrag met België
 
-1.  Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in artikel [9.2 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel [8.9 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.   
-2.  Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 2, van het in het eerste lid bedoelde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting dat de belastingplichtige verschuldigd zou zijn geweest indien de in artikel 27, paragraaf 2, van dat verdrag bedoelde beloningen uitsluitend in Nederland zouden zijn belast, verminderd met de verhoging, bedoeld in [artikel 8.9 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van de gecombineerde heffingskorting, waarop zijn partner recht zou hebben gehad indien uitsluitend in Nederland over de bedoelde beloningen belasting zou zijn geheven.   
+1.  Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in artikel 8.8 van de wet bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in artikel 9.2 van de wet genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de Wet financiering sociale verzekeringen dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel 8.9 van de wet, van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.   
+2.  Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in artikel 8.8 van de wet bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 2, van het in het eerste lid bedoelde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting dat de belastingplichtige verschuldigd zou zijn geweest indien de in artikel 27, paragraaf 2, van dat verdrag bedoelde beloningen uitsluitend in Nederland zouden zijn belast, verminderd met de verhoging, bedoeld in artikel 8.9 van de wet, van de gecombineerde heffingskorting, waarop zijn partner recht zou hebben gehad indien uitsluitend in Nederland over de bedoelde beloningen belasting zou zijn geheven.   
 3.  De in het eerste en het tweede lid bedoelde verminderingen zijn niet van toepassing voorzover de partner van de belastingplichtige: 
 
-a. uit hoofde van [hoofdstuk 8 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) recht heeft op verhoging van de gecombineerde heffingskorting; of  
+a. uit hoofde van hoofdstuk 8 van de wet recht heeft op verhoging van de gecombineerde heffingskorting; of  
 
-b. recht zou hebben gehad op de gecombineerde heffingskorting als bedoeld in [hoofdstuk 8 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) indien beloningen die hij heeft genoten krachtens regelen als bedoeld in [hoofdstuk VII van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) niet zouden zijn vrijgesteld van de heffing van inkomstenbelasting of premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).    
+b. recht zou hebben gehad op de gecombineerde heffingskorting als bedoeld in hoofdstuk 8 van de wet indien beloningen die hij heeft genoten krachtens regelen als bedoeld in hoofdstuk VII van de Algemene wet inzake rijksbelastingen niet zouden zijn vrijgesteld van de heffing van inkomstenbelasting of premie voor de volksverzekeringen als bedoeld in de Wet financiering sociale verzekeringen.    
 
 ### Artikel  45aa  
 
@@ -876,35 +876,35 @@ Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
 ####Continuering na 1 januari 2008 van aanwijzingen als fonds van vóór die datum
 
-Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in [artikel 5.14 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt. 
+Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in artikel 5.14 van de wet, zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt. 
 
 ### Artikel  45d  
 
 ####Overgangsrecht eigenwoningregeling en leegstaande woning
 
-Met betrekking tot gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning bedoeld in [artikel 3.111, tweede lid, tweede volzin, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) reeds is aangevangen vóór 1 januari 2010, blijft artikel 3.111, tweede lid, van de wet, zoals dit luidde op 31 december 2009, van toepassing, tenzij de belastingplichtige ermee instemt dat: 
+Met betrekking tot gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning bedoeld in artikel 3.111, tweede lid, tweede volzin, van de wet reeds is aangevangen vóór 1 januari 2010, blijft artikel 3.111, tweede lid, van de wet, zoals dit luidde op 31 december 2009, van toepassing, tenzij de belastingplichtige ermee instemt dat: 
 
-a. het gaan genereren van inkomsten uit sparen en beleggen, bedoeld in [artikel 3.111, tweede lid, tweede volzin, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) niet wordt aangemerkt als een vervreemding als bedoeld in [artikel 3.119a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. het gaan genereren van inkomsten uit sparen en beleggen, bedoeld in artikel 3.111, tweede lid, tweede volzin, van de wet niet wordt aangemerkt als een vervreemding als bedoeld in artikel 3.119a van de wet;  
 
-b. indien op grond van [artikel 3.119b, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) een beschikking eigenwoningreserve is of wordt afgegeven, die beschikking wordt herzien;  
+b. indien op grond van artikel 3.119b, eerste lid, van de wet een beschikking eigenwoningreserve is of wordt afgegeven, die beschikking wordt herzien;  
 
-c. indien de woning vanaf enig moment weer belastbare inkomsten uit eigen woning genereert, dit niet wordt aangemerkt als een verwerving als bedoeld in [artikel 3.119a van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+c. indien de woning vanaf enig moment weer belastbare inkomsten uit eigen woning genereert, dit niet wordt aangemerkt als een verwerving als bedoeld in artikel 3.119a van de wet.   
 
 ###Artikel 45e 
 
 ####Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-Artikel 34, zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), van de wet, zoals dat lid op 31 december 2010 luidde.
+Artikel 34, zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in artikel 6.8, eerste lid, van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk  10bis  
 
-####Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](../../../../../wet/wet/herziening/fiscale/behandeling/eigen/woning/BWBR0032676/README.md)
+####Overgangsrecht ten gevolge van Wet herziening fiscale behandeling eigen woning
 
 ### Artikel  45f  
 
 ####Definitie starterslening
 
-Onder een starterslening als bedoeld in [artikel 10bis.1, tweede lid, onderdeel f, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) wordt verstaan een lening ter verwerving van een eigen woning als bedoeld in [artikel 3.111 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), mits aan de volgende voorwaarden wordt voldaan: 
+Onder een starterslening als bedoeld in artikel 10bis.1, tweede lid, onderdeel f, van de wet wordt verstaan een lening ter verwerving van een eigen woning als bedoeld in artikel 3.111 van de wet, mits aan de volgende voorwaarden wordt voldaan: 
 
 a. de belastingplichtige koopt voor de eerste maal een eigen woning;  
 
@@ -931,7 +931,7 @@ h. de hertoetsing, bedoeld in onderdeel g, vindt volgens het contract in ieder g
 
 ### Hoofdstuk  11  
 
-####Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)) 
+####Overgangs- en slotbepalingen (hoofdstuk 11 van de wet) 
 
 ### Artikel  46  
 
