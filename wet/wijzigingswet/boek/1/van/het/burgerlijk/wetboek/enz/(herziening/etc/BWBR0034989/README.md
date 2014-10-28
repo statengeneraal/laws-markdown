@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het recht van het kind op een gezonde en evenwichtige ontwikkeling en groei naar zelfstandigheid ook in de regeling van de maatregelen van kinderbescherming meer centraal te stellen, en voorts te verduidelijken dat bij alle beslissingen het belang van het kind een eerste overweging dient te zijn, en dat daartoe [Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), de [Wet op de jeugdzorg](../../../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en de [Pleegkinderenwet](../../../../../../../../../../../../wet/pleegkinderenwet/BWBR0002084/README.md) dienen te worden gewijzigd;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is het recht van het kind op een gezonde en evenwichtige ontwikkeling en groei naar zelfstandigheid ook in de regeling van de maatregelen van kinderbescherming meer centraal te stellen, en voorts te verduidelijken dat bij alle beslissingen het belang van het kind een eerste overweging dient te zijn, en dat daartoe Boek 1 van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, de Wet op de jeugdzorg en de Pleegkinderenwet dienen te worden gewijzigd;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  

@@ -213,7 +213,7 @@ Degene die tot betaling van de in artikel 15c, eerste lid, bedoelde vergoeding v
 
 ### Artikel  15h  
 
-Tenzij anders overeengekomen, wordt niet als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst beschouwd het door middel van een besloten netwerk beschikbaar stellen van een werk dat onderdeel uitmaakt van verzamelingen van voor het publiek toegankelijke bibliotheken en musea of archieven die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, door middel van daarvoor bestemde terminals in de gebouwen van die instellingen aan individuele leden van het publiek voor onderzoek of privé-studie. 
+Tenzij anders overeengekomen, wordt niet als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst beschouwd het door middel van een besloten netwerk beschikbaar stellen van een werk dat onderdeel uitmaakt van verzamelingen van voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea of archieven die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, door middel van daarvoor bestemde terminals in de gebouwen van die instellingen aan individuele leden van het publiek voor onderzoek of privé-studie. 
 
 ### Artikel  15i  
 
@@ -319,7 +319,7 @@ Degene die de vergoeding, bedoeld in artikel 16h, dient te betalen aan de rechts
 
 ### Artikel  16n  
 
-1.  Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd de verveelvoudiging door voor het publiek toegankelijke bibliotheken en musea of archieven die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, indien die verveelvoudiging geschiedt met als enig doel: 
+1.  Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd de verveelvoudiging door voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea of archieven die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, indien die verveelvoudiging geschiedt met als enig doel: 
 
 1°.het exemplaar van het werk te restaureren;
 
@@ -328,13 +328,51 @@ Degene die de vergoeding, bedoeld in artikel 16h, dient te betalen aan de rechts
 3°.het werk raadpleegbaar te houden als de technologie waarmee het toegankelijk gemaakt kan worden in onbruik raakt.   
 2.  De in het eerste lid bedoelde verveelvoudigingen zijn slechts geoorloofd indien: 
 
-1°.de exemplaren van het werk deel uitmaken van de verzameling van de voor het publiek toegankelijke bibliotheken en musea of archieven die een beroep op deze beperking doen; en
+1°.de exemplaren van het werk deel uitmaken van de verzameling van de voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea of archieven die een beroep op deze beperking doen; en
 
 2°.artikel 25 in acht wordt genomen.  
 
+### Artikel  16o  
+
+1.  Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst als bedoeld in artikel 10, eerste lid, onder 1, 5 of 10, wordt niet beschouwd de reproductie of beschikbaarstelling door voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea, alsmede archieven en instellingen voor cinematografisch of audiovisueel erfgoed die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, van een voor het eerst in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte openbaar gemaakt werk mits: 
+
+a. het werk deel uitmaakt van de eigen verzameling van de hiervoor bedoelde organisaties;  
+
+b. de rechthebbende op het werk na een zorgvuldig onderzoek als bedoeld in artikel 16p niet is geïdentificeerd en opgespoord; en  
+
+c. de reproductie en beschikbaarstelling geschiedt in het kader van de uitoefening van een publieke taak, in het bijzonder het behouden en restaureren van de werken en het verstrekken van voor culturele en onderwijsdoeleinden bestemde toegang tot de werken uit de eigen verzameling van de hiervoor bedoelde organisaties.     
+2.  Indien aan twee of meer personen het auteursrecht toekomt op het werk en na een zorgvuldige onderzoek niet alle rechthebbenden zijn geïdentificeerd en opgespoord, kan het werk alleen worden gereproduceerd en beschikbaar gesteld indien de opgespoorde rechthebbende met betrekking tot de rechten waarover hij beschikt daarvoor toestemming verleent. De organisaties, genoemd in het eerste lid, vermelden bij de beschikbaarstelling de geïdentificeerde, maar niet opgespoorde rechthebbende(n).   
+3.  Een werk dat niet eerder is openbaar gemaakt, kan worden gereproduceerd en beschikbaar gesteld, overeenkomstig het eerste lid, indien het werk met toestemming van de rechthebbende in de in het eerste lid onder a bedoelde verzameling is opgenomen en redelijkerwijs aannemelijk is dat de rechthebbende zich niet tegen de reproductie en beschikbaarstelling zou verzetten.   
+4.  De organisaties, genoemd in het eerste lid, mogen met de reproductie en beschikbaarstelling inkomsten generen op voorwaarde dat deze inkomsten uitsluitend dienen ter vergoeding van de kosten van de digitalisering en beschikbaarstelling van de in het eerste lid bedoelde werken.  
+
+### Artikel  16p  
+
+1.  Het zorgvuldig onderzoek naar de rechthebbende, als bedoeld in artikel 16o, eerste lid, onder b, wordt uitgevoerd door voor ieder werk als bedoeld in artikel 16o, eerste lid, en voor ieder daarin opgenomen werk van letterkunde, wetenschap of kunst de voor de desbetreffende categorie van werken geschikte bronnen voor het opsporen van rechthebbenden te raadplegen. Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij algemene maatregel van bestuur regels gegeven ten aanzien van de bij het onderzoek te raadplegen bronnen.   
+2.  Het onderzoek vindt plaats in de lidstaat waarin het werk voor het eerst is openbaar gemaakt. Voor filmwerken vindt het onderzoek plaats in de lidstaat waar de producent zijn zetel of gewone woonplaats heeft.   
+3.  Voor een werk als bedoeld in artikel 16o, derde lid, vindt het onderzoek plaats in de lidstaat waar de organisatie die het werk met toestemming van de rechthebbende in de eigen verzameling heeft opgenomen, is gevestigd.   
+4.  Indien er aanwijzingen zijn dat informatie over de rechthebbende aanwezig is in een andere lidstaat, worden ook de in die lidstaat voor een zorgvuldig onderzoek voorgeschreven bronnen geraadpleegd.   
+5.  De organisaties, bedoeld in artikel 16o, eerste lid, houden bij welke bronnen in het kader van het onderzoek zijn geraadpleegd en welke informatie hieruit is voortgekomen. De organisaties verstrekken de volgende gegevens aan een op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap bij of krachtens algemene maatregel van bestuur aan te wijzen instantie, ten behoeve van doorgeleiding aan het Harmonisatiebureau voor de Interne Markt: 
+
+a. de resultaten van het zorgvuldig onderzoek dat door de organisaties is verricht en dat tot de conclusie heeft geleid dat het werk verweesd is;  
+
+b. de wijze waarop het werk zal worden gebruikt;  
+
+c. de contactgegevens van de organisaties; en  
+
+d. voor zover van toepassing, iedere wijziging in de status van het werk.   Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld over de aan te leveren gegevens en de wijze van aanleveren.   
+6.  Voor verweesde werken opgenomen in de databank van het Harmonisatiebureau, genoemd in het vijfde lid, is voor de reproductie en beschikbaarstelling als bedoeld in artikel 16o, eerste lid, een zorgvuldig onderzoek als bedoeld in artikel 16o, eerste lid, onder b, niet noodzakelijk.  
+
+### Artikel  16q  
+
+Het gebruik van een werk van letterkunde, wetenschap of kunst overeenkomstig artikel 16o, eerste lid, wordt beëindigd indien een rechthebbende met betrekking tot de rechten waar hij over beschikt, gebruik maakt van de mogelijkheid om de status van verweesd werk te beëindigen. De organisaties bedoeld in artikel 16o, eerste lid, zijn aan de rechthebbende een billijke vergoeding verschuldigd voor het gebruik dat op grond van artikel 16o van het werk is gemaakt. 
+
+### Artikel  16r  
+
+Voor de toepassing van de artikelen 16o, 16p, 16q en 17 wordt onder beschikbaarstelling verstaan het, per draad of draadloos, beschikbaar stellen van een werk van letterkunde, wetenschap of kunst voor het publiek op zodanige wijze dat de leden van het publiek op een door hen gekozen individuele plaats en tijd toegang hebben tot het werk. 
+
 ### Artikel  17  
 
-Vervallen.  
+Als inbreuk op een werk van letterkunde, wetenschap of kunst als bedoeld in artikel 10, eerste lid, onder 5 of 10, wordt niet beschouwd de reproductie of beschikbaarstelling door een publieke media-instelling als bedoeld in Hoofdstuk 2 van de Mediawet 2008 van een in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte openbaar gemaakt werk als bedoeld in artikel 16o, eerste lid, onder b, dat door de publieke media-instelling is geproduceerd vóór 1 januari 2003 en is gearchiveerd. De artikelen 16o tot en met 16r zijn van overeenkomstige toepassing. 
 
 ### Artikel  17a  
 

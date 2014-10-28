@@ -78,5 +78,5 @@ De tekst van de oorkonde luidt als volgt:
 
 ####Herinneringsmedaille buitenlandse bezoeken
 
-De Minister van Buitenlandse Zaken heeft vanwege HARE MAJESTEIT DE KONINGIN bij besluit van .................... <sup>1</sup>  de Herinneringsmedaille Buitenlandse Bezoeken verleend aan .................... <sup>2</sup>  als blijk van waardering voor de betoonde inzet De Minister van Buitenlandse Zaken  <sup>1</sup> Datum en nummer van het besluit.  <sup>2</sup> Naam van begiftigde, plaats en datum van geboorte.  
+De Minister van Buitenlandse Zaken heeft vanwege ZIJNE MAJESTEIT DE KONING bij besluit van .................... <sup>1</sup>  de Herinneringsmedaille Buitenlandse Bezoeken verleend aan .................... <sup>2</sup>  als blijk van waardering voor de betoonde inzet De Minister van Buitenlandse Zaken  <sup>1</sup> Datum en nummer van het besluit.  <sup>2</sup> Naam van begiftigde, plaats en datum van geboorte.  
 

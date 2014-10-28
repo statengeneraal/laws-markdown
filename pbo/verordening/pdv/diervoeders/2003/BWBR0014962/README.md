@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 11 april 2003 houdende bepalingen met betrekking tot diervoeders (Verordening PDV diervoeders 2003)
 
 Het bestuur van het Productschap Diervoeder;
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [96 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de artikelen 2, 3 en 4 van de Instellingsverordening akkerbouwproductschappen 1997, [artikel 20, tweede lid van het Besluit gemedicineerd voeder](../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md), [artikel 4 van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md);
+Gelet op de artikelen 93 en 96 van de Wet op de Bedrijfsorganisatie, de artikelen 2, 3 en 4 van de Instellingsverordening akkerbouwproductschappen 1997, artikel 20, tweede lid van het Besluit gemedicineerd voeder, artikel 4 van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten;
 
 In aanmerking nemende Richtlijn 70/524/EEG, Richtlijn 79/373/EEG, Richtlijn 80/511/EEG, Richtlijn 82/471/EEG, Richtlijn 92/117/EEG, Richtlijn 93/74/ EEG, Richtlijn 95/69/EG, Richtlijn 96/25/EG en Richtlijn 1999/29/EG;
 Besluit:
@@ -93,7 +93,7 @@ O.Micro-organismen (voorzover kolonievormend)
 
 P.Stoffen die complexen vormen met radio-nucliden
 
-15.voormengsels:mengsels van toevoegingsmiddelen onderling of mengsels van een of meer toevoegingsmiddelen met stoffen die dragers vormen, die als zodanig bestemd zijn voor de rechtstreekse verwerking in die moeders, alsmede halffabrikaten als bedoeld in het [Besluit uitzonderingen registratieregime diergeneesmiddelen](../../../../../../AMvB/besluit/uitzonderingen/registratieregime/diergeneesmiddelen/BWBR0003929/README.md);
+15.voormengsels:mengsels van toevoegingsmiddelen onderling of mengsels van een of meer toevoegingsmiddelen met stoffen die dragers vormen, die als zodanig bestemd zijn voor de rechtstreekse verwerking in die moeders, alsmede halffabrikaten als bedoeld in het Besluit uitzonderingen registratieregime diergeneesmiddelen;
 
 16.mengvoeders:mengsels van voedermiddelen, met of zonder toevoegingsmiddelen, bestemd voor vervoedering in de vorm van volledige diervoeders of aanvullende diervoeders;
 
@@ -363,23 +363,23 @@ h.de vermeldingen genoemd in kolom 2, bij combinatie van de kolommen 1 en 4 van 
 
 i.de naam van de bereider en de plaats van vestiging van de bedrijfseenheid waarin het mengvoeder is bereid, indien de bereider niet verantwoordelijk is voor de in dit artikel bedoelde aanduidingen.
 
-###Artikel 7:3:2 
+### Artikel  7:3:2  
 
-1. De ondernemer is verplicht bij het in het verkeer brengen van mengvoeders bestemd voor andere dieren dan gezelschapsdieren, bij de vermelding van voedermiddelen het volgende in acht te nemen:
+1.  De ondernemer is verplicht bij het in het verkeer brengen van mengvoeders bestemd voor andere dieren dan gezelschapsdieren, bij de vermelding van voedermiddelen het volgende in acht te nemen: 
 
-a.opsomming van de voedermiddelen met specifieke naam als opgenomen in Bijlage II met vermelding, in afnemende volgorde van belangrijkheid, van de gewichtspercentages die in de mengvoeders voorkomen;
+a. opsomming van de voedermiddelen met specifieke naam als opgenomen in Bijlage II met vermelding, in afnemende volgorde van belangrijkheid, van de gewichtspercentages die in de mengvoeders voorkomen;  
 
-b.voor deze gewichtspercentages wordt een marge van +/- 15% van de aangegeven waarde getolereerd.
-2. De ondernemer is verplicht bij het in het verkeer brengen van mengvoeders bestemd voor gezelschapsdieren het volgende in acht te nemen:
+b. voor deze gewichtspercentages wordt een marge van +/- 15% van de aangegeven waarde getolereerd.     
+2.  De ondernemer is verplicht bij het in het verkeer brengen van mengvoeders bestemd voor gezelschapsdieren het volgende in acht te nemen: 
 
-a.vermelding van de specifieke naam van alle voedermiddelen als opgenomen in Bijlage II, hetzij onder opgave van het gehalte, hetzij in afnemende volgorde van belangrijkheid van hun gewichtspercentages, dan wel
+a. vermelding van de specifieke naam van alle voedermiddelen als opgenomen in Bijlage II, hetzij onder opgave van het gehalte, hetzij in afnemende volgorde van belangrijkheid van hun gewichtspercentages, dan wel  
 
-b.vermelding van de categorieën, genoemd in bijlage VI, waartoe de betreffende voedermiddelen behoren, hetzij onder opgave van het gehalte hetzij in afnemende volgorde van belangrijkheid van hun gewichtspercentages. Indien van deze mogelijkheid gebruik wordt gemaakt. mag geen enkel voedermiddel worden vermeld behalve in de gevallen bedoeld in het vierde en vijfde lid.
-3. In afwijking van het bepaalde in het tweede lid, mogen ten aanzien van dieetvoeders de voedermiddelen worden vermeld als categorieën als genoemd in bijlage VI, zelfs wanneer de vermelding van bepaalde voedermiddelen met hun specifieke naam vereist is ter staving van de voedingskenmerken van het voeder.
-4. Wanneer een voedermiddel tot geen enkele van de in bijlage VI vermelde categorieën behoort, geschiedt vermelding van het voedermiddel door vermelding van de specifieke naam in de volgorde die wordt bepaald op basis van het gewichtspercentage van het voedermiddel ten opzichte van de categorieën.
-5. Het is de ondernemer toegestaan op de etikettering van mengvoeders voor gezelschapsdieren de aandacht te vestigen op de aanwezigheid van of op het lage gehalte aan een of meer voedermiddelen die voor de eigenschappen van dat voeder van wezenlijk belang zijn. In dat geval moet het minimum- of maximumgehalte uitgedrukt in gewichtspercentages van de gebruikte voedermiddel(en) duidelijk worden aangegeven naast de vermelding van de voedermiddelen of de categorieën ingevolge dit artikel.
-6. Het is de ondernemer toegestaan op de etikettering van dieetvoeders bestemd voor andere dieren dan gezelschapsdieren de aandacht te vestigen op de aanwezigheid van of op het lage gehalte aan een of meer voedermiddelen die voor de eigenschappen van dat voeder van wezenlijk belang zijn.
-7. Voor de toepassing van dit artikel worden niet als voedermiddel beschouwd toevoegingsmiddelen en bijzondere eiwit houdende producten als bedoeld in hoofdstuk 4.
+b. vermelding van de categorieën, genoemd in bijlage VI, waartoe de betreffende voedermiddelen behoren, hetzij onder opgave van het gehalte hetzij in afnemende volgorde van belangrijkheid van hun gewichtspercentages. Indien van deze mogelijkheid gebruik wordt gemaakt. mag geen enkel voedermiddel worden vermeld behalve in de gevallen bedoeld in het vierde en vijfde lid.     
+3.  In afwijking van het bepaalde in het tweede lid, mogen ten aanzien van dieetvoeders de voedermiddelen worden vermeld als categorieën als genoemd in bijlage VI, zelfs wanneer de vermelding van bepaalde voedermiddelen met hun specifieke naam vereist is ter staving van de voedingskenmerken van het voeder.   
+4.  Wanneer een voedermiddel tot geen enkele van de in bijlage VI vermelde categorieën behoort, geschiedt vermelding van het voedermiddel door vermelding van de specifieke naam in de volgorde die wordt bepaald op basis van het gewichtspercentage van het voedermiddel ten opzichte van de categorieën.   
+5.  Het is de ondernemer toegestaan op de etikettering van mengvoeders voor gezelschapsdieren de aandacht te vestigen op de aanwezigheid van of op het lage gehalte aan een of meer voedermiddelen die voor de eigenschappen van dat voeder van wezenlijk belang zijn. In dat geval moet het minimum- of maximumgehalte uitgedrukt in gewichtspercentages van de gebruikte voedermiddel(en) duidelijk worden aangegeven naast de vermelding van de voedermiddelen of de categorieën ingevolge dit artikel.   
+6.  Het is de ondernemer toegestaan op de etikettering van dieetvoeders bestemd voor andere dieren dan gezelschapsdieren de aandacht te vestigen op de aanwezigheid van of op het lage gehalte aan een of meer voedermiddelen die voor de eigenschappen van dat voeder van wezenlijk belang zijn.   
+7.  Voor de toepassing van dit artikel worden niet als voedermiddel beschouwd toevoegingsmiddelen en bijzondere eiwit houdende producten als bedoeld in hoofdstuk 4.  
 
 ###Artikel 7:3:3 
 
@@ -485,7 +485,7 @@ Indien een ondernemer onderzoek heeft laten uitvoeren naar de aanwezigheid van S
 
 ###Artikel 9:3 
 
-1. De in artikel 9:1 bedoelde monsters worden onderzocht door een door het productschap erkend laboratorium dan wel een ingevolge [artikel 3, eerste lid van Besluit bescherming tegen bepaalde zoönose en bestrijding besmettelijke dierziekten](../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) aangewezen laboratorium.
+1. De in artikel 9:1 bedoelde monsters worden onderzocht door een door het productschap erkend laboratorium dan wel een ingevolge artikel 3, eerste lid van Besluit bescherming tegen bepaalde zoönose en bestrijding besmettelijke dierziekten aangewezen laboratorium.
 2. De procedure en voorwaarden voor erkenning voor laboratoria als bedoeld in het eerste lid, worden door de voorzitter in overeenstemming met de Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Volksgezondheid, Welzijn en Sport bij besluit vastgesteld.
 3. De namen, adressen en vestigingsplaatsen van erkende laboratoria worden vastgelegd in een openbaar register.
 
@@ -540,7 +540,7 @@ Overtredingen van het bepaalde bij of krachtens deze verordening worden aangemer
 ###Artikel 11:3 
 
 1. Toezicht op de naleving van het bepaalde bij of krachtens deze verordening vindt plaats overeenkomstig een door het bestuur vast te stelten verordening.
-2. Toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk 9 vindt plaats door medewerkers van het productschap, die hiertoe in het kader van [artikel 114, eerste lid van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) zijn aangewezen.
+2. Toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk 9 vindt plaats door medewerkers van het productschap, die hiertoe in het kader van artikel 114, eerste lid van de Gezondheids- en welzijnswet voor dieren zijn aangewezen.
 
 ###Artikel 11:4 
 
@@ -1029,428 +1029,428 @@ aard en hoeveelheid van de geproduceerde voeders, met productiedatum.
 
 Wanneer de fabrikant toevoegingsmiddelen levert aan een andere persoon dan een fabrikant of veehouder, dan wel voormengsels aan een andere persoon dan een fabrikant, gelden voor die persoon en volgende tussenpersonen die deze toevoegingsmiddelen of voormengsels voorzien van een onmiddellijke of een eindverpakking, opslaan en in het verkeer brengen, naar gelang van het geval de verplichtingen van de punten 4, 5, 6.2, en - in geval van onmiddellijke verpakking - de verplichtingen van punt 3.
 
-###Bijlage II 
+### Bijlage  II  
 
 ####bij Hoofdstuk 3 , Verkeer voedermiddelen
 
-###Deel A 
+### Deel A  
 
 ####Algemeen
 
-###I 
+### I  
 
 ####Verklarende aantekeningen
 
-1.De voedermiddelen zijn in de lijst van deel B opgenomen en benoemd met inachtneming van de volgende criteria:
+1. De voedermiddelen zijn in de lijst van deel B opgenomen en benoemd met inachtneming van de volgende criteria: 
 
-de oorsprong van het product/bijproduct, bijvoorbeeld plantaardig, dierlijk, mineraat;
+de oorsprong van het product/bijproduct, bijvoorbeeld plantaardig, dierlijk, mineraat;  
 
-het deel van het product/bijproduct dat wordt gebruikt, bijvoorbeeld geheel, zaden, knollen, beenderen;
+het deel van het product/bijproduct dat wordt gebruikt, bijvoorbeeld geheel, zaden, knollen, beenderen;  
 
-de bewerking die het product/bijproduct heeft ondergaan, bijvoorbeeld ontdopping, extractie, verhitting en/of het daarbij verkregen product/ bijproduct, bijvoorbeeld vlokken, zemelen, pulp, vet;
+de bewerking die het product/bijproduct heeft ondergaan, bijvoorbeeld ontdopping, extractie, verhitting en/of het daarbij verkregen product/ bijproduct, bijvoorbeeld vlokken, zemelen, pulp, vet;  
 
-de rijpheid van het product/bijproduct en/of de kwaliteit van het product/ bijproduct, bijvoorbeeld "met een laag glucosinolaatgehalte", "vetrijk", "suiker arm".
+de rijpheid van het product/bijproduct en/of de kwaliteit van het product/ bijproduct, bijvoorbeeld "met een laag glucosinolaatgehalte", "vetrijk", "suiker arm".    
 
-2.De lijst in deel B is onderverdeeld in twaalf hoofdstukken:
+2. De lijst in deel B is onderverdeeld in twaalf hoofdstukken: 
 
-1.Granen en daarvan afgeleide producten en bijproducten
+1. Granen en daarvan afgeleide producten en bijproducten  
 
-2.Oliehoudende zaden, oliehoudende vruchten en daarvan afgeleide producten en bijproducten
+2. Oliehoudende zaden, oliehoudende vruchten en daarvan afgeleide producten en bijproducten  
 
-3.Zaden van peulvruchten en daarvan afgeleide producten en bijproducten
+3. Zaden van peulvruchten en daarvan afgeleide producten en bijproducten  
 
-4.Knollen, wortels en daarvan afgeleide producten en bijproducten
+4. Knollen, wortels en daarvan afgeleide producten en bijproducten  
 
-5.Overige zaden en vruchten en daarvan afgeleide producten en bijproducten
+5. Overige zaden en vruchten en daarvan afgeleide producten en bijproducten  
 
-6.Voedergewassen en ruwvoedergewassen
+6. Voedergewassen en ruwvoedergewassen  
 
-7.Overige planten en daarvan afgeleide producten en bijproducten
+7. Overige planten en daarvan afgeleide producten en bijproducten  
 
-8. Melkproducten
+8. Melkproducten  
 
-9.Producten van landdieren
+9. Producten van landdieren  
 
-10.Vis, andere zeedieren en daarvan afgeleide producten en bijproducten
+10. Vis, andere zeedieren en daarvan afgeleide producten en bijproducten  
 
-11.Mineralen
+11. Mineralen  
 
-12.DiversenDeze onderverdeling in hoofdstukken kan niet gebruikt worden bij de vermelding van categorieën van voedermiddelen als bedoeld in artikel 7:3:2 van de Verordening. Vermelding van categorieën van voedermiddelen in het kader van de etikettering dient te geschieden conform de uitgebreidere indelingen van bijlage Vla respectievelijk VIb.
+12. Diversen     Deze onderverdeling in hoofdstukken kan niet gebruikt worden bij de vermelding van categorieën van voedermiddelen als bedoeld in artikel 7:3:2 van de Verordening. Vermelding van categorieën van voedermiddelen in het kader van de etikettering dient te geschieden conform de uitgebreidere indelingen van bijlage Vla respectievelijk VIb. 
 
-###II 
+### II  
 
 ####Bepalingen met betrekking tot de botanische zuiverheid
 
-1.Onverminderd het bepaalde in artikel 3, moeten voedermiddelen, voorzover dat in verband met "good manufacturing practices" mogelijk is, vrij zijn van chemische onzuiverheden die direct verband houden met het gebruik, tijdens het fabricageproces, van technische hulpmiddelen als bedoeld in Richtlijn 70/524/EEG, tenzij voor een bepaald voedermiddel een maximumgehalte is vastgesteld in deel B van Bijlage II.
+1. Onverminderd het bepaalde in artikel 3, moeten voedermiddelen, voorzover dat in verband met "good manufacturing practices" mogelijk is, vrij zijn van chemische onzuiverheden die direct verband houden met het gebruik, tijdens het fabricageproces, van technische hulpmiddelen als bedoeld in Richtlijn 70/524/EEG, tenzij voor een bepaald voedermiddel een maximumgehalte is vastgesteld in deel B van Bijlage II.  
 
-2.Voor in deel B en deel C vermelde producten en bijproducten moet de botanische zuiverheid ten minste 95% bedragen voorzover in deel B of deel C geen andere waarde is vastgesteld. Als botanische onzuiverheden worden beschouwd:
+2. Voor in deel B en deel C vermelde producten en bijproducten moet de botanische zuiverheid ten minste 95% bedragen voorzover in deel B of deel C geen andere waarde is vastgesteld. Als botanische onzuiverheden worden beschouwd: 
 
-a)natuurlijke maar onschadelijke vreemde bestanddelen (bijvoorbeeld stro- en kafdeeltjes, zaden van andere geteelde soorten, onkruidzaden);
+a) natuurlijke maar onschadelijke vreemde bestanddelen (bijvoorbeeld stro- en kafdeeltjes, zaden van andere geteelde soorten, onkruidzaden);  
 
-b)onschadelijke resten van andere oliehoudende zaden of vruchten, afkomstig van een eerdere be- of verwerking, voor zover de hoeveelheid van deze resten 0,5 % niet overschrijdt.
+b) onschadelijke resten van andere oliehoudende zaden of vruchten, afkomstig van een eerdere be- of verwerking, voor zover de hoeveelheid van deze resten 0,5 % niet overschrijdt.    
 
-3.De voornoemde gehalten hebben betrekking op het gewicht van het product of bijproduct als zodanig.
+3. De voornoemde gehalten hebben betrekking op het gewicht van het product of bijproduct als zodanig.   
 
-###III 
+### III  
 
 ####Bepalingen inzake de benamingen
 
-Wanneer bij de benaming van een in deel B vermeld voedermiddel één of meer woorden tussen haakjes zijn opgenomen, mag het gedeelte tussen haakjes naar believen worden toegevoegd of weggelaten; bijvoorbeeld voor "soja(bonen)olie" mag zowel de benaming "sojabonenolie" als de benaming "sojaolie" worden gebruikt.
+Wanneer bij de benaming van een in deel B vermeld voedermiddel één of meer woorden tussen haakjes zijn opgenomen, mag het gedeelte tussen haakjes naar believen worden toegevoegd of weggelaten; bijvoorbeeld voor "soja(bonen)olie" mag zowel de benaming "sojabonenolie" als de benaming "sojaolie" worden gebruikt. 
 
-###IV 
+### IV  
 
 ####Bepalingen betreffende het glossarium
 
-In het hierna volgende glossarium wordt verwezen naar de belangrijkste procédés die worden gebruikt voor de vervaardiging van de voedermiddelen die zijn vermeld in deel B en deel C van deze bijlage. Wanneer in de namen van deze voedermiddelen een naam of term uit dit glossarium voorkomt, moet het te gebruiken procédé in overeenstemming zijn met de gegeven definitie.
+In het hierna volgende glossarium wordt verwezen naar de belangrijkste procédés die worden gebruikt voor de vervaardiging van de voedermiddelen die zijn vermeld in deel B en deel C van deze bijlage. Wanneer in de namen van deze voedermiddelen een naam of term uit dit glossarium voorkomt, moet het te gebruiken procédé in overeenstemming zijn met de gegeven definitie.  
 
-|Procédé |Definitie |Gebruikelijke naam/ Benaming |
+| Procédé  | Definitie  | Gebruikelijke naam/ Benaming  |
 |:---|:---|:---|
-|Concentreren |Verhogen van het gehalte aan bepaalde stoffen door het onttrekken van water of andere bestanddelen |Concentraat |
-|Ontdoppen<sup>1 "Ontdoppen" kan, in voorkomend geval, worden vervangen door "schillen" of "pellen". De gebruikelijke naam of benaming is dan "geschild" of "gepeld". </sup> |Het geheel of gedeeltelijk verwijderen van de buitenste lagen van graankorrels, zaden, vruchten, noten, enz. |Ontdopt, gedeeltelijk ontdopt |
-|Drogen |Het onttrekken van water door middel van een kunstmatig of een natuurlijk procédé |Gedroogd (zon of kunstmatig) |
-|Extraheren |Het onttrekken, met behulp van een organisch oplosmiddel, van vet of olie aan bepaalde voedermiddelen, dan wel met behulp van een waterig oplosmiddel, van suiker of andere in water oplosbare componenten. Bij gebruik van een organisch oplosmiddel moet het daarbij verkregen product technisch vrij zijn van dat oplosmiddel |Schroot (voor oliehoudend materiaal)  Melasse, pulp (voor suikerhoudend materiaal of andere in water oplosbare componenten) |
-|Extruderen |Het onder druk door gaatjes persen of duwen van stoffen. Zie ook voorverstijfselen |Geëxtrudeerd |
-|Vlokken |Het walsen van vochtig materiaal dat een hittebehandeling heeft ondergaan |Vlokken |
-|Malen |Fysische bewerking van graankorrels met het doel de grootte van de partikels te verminderen en de scheiding in afzonderlijke fracties te vergemakkelijken (hoofdzakelijk meel, zemelgrint en gries) |Meel, zemelgrint, nameel, gries  |
-|Verhitten |Algemene term voor een aantal hittebehandelingen die onder specifieke omstandigheden worden toegepast om effect uit te oefenen op de voederwaarde of op de structuur van het materiaal |Geroosterd, gekookt, hitte behandeld |
-|Harden |Het omzetten van onverzadigde glyceriden in verzadigde glyceriden (harden van oliën en vetten) |Gehard, gedeeltelijk gehard |
-|Hydrolyseren |Het splitsen in eenvoudiger chemische bestanddelen door een passende behandeling met water en eventueel enzymen of zuur/base |Gehydrolyseerd |
-|Persen |Onttrekken door mechanisch extraheren (met een schroef- of andere pers) en eventueel warmte, van vet/olie aan oliehoudende producten of sap uit vruchten of andere plantaardige producten |Schilfers<sup>2 Het woord "schilfers" kan, in voorkomen geval, worden vervangen door "koek". </sup> (bij oliehoudende producten)  Pulp, draf (bij vruchten, enz .)  Geperste bietenpulp (bij suikerbieten) |
-|Pelletiseren |Samenpersen met behulp van een matrijs |Pellet, gepelletiseerd |
-|Voor-verstijfselen |Het modificeren van zetmeel om het zwelvermogen in koud water aanzienlijk te verhogen |Voorverstijfseld, gezwollen |
-|Raffineren |Het geheel of gedeeltelijk verwijderen van onzuiverheden uit suikers, oliën, vetten en andere natuurlijke producten door middel van een chemische of fysische behandeling |Geraffineerd, gedeeltelijk geraffineerd |
-|Nat malen |Het langs mechanische weg scheiden van de afzonderlijke delen van de pit/korrel na inweken met water, waaraan mogelijk zwaveldioxide is toegevoegd ten behoeve van extractie van zetmeel |Kiem, gluten, zetmeel |
-|Breken |Het langs mechanische weg transformeren van graankorrels of andere voedermiddelen teneinde de grootte ervan te verminderen |Gebroken, het breken |
-|Ontsuikeren |Het geheel of gedeeltelijk onttrekken van mono- en disachariden aan melasse of andere suikerhoudende stoffen door middel van een chemisch of een fysisch procédé |Ontsuikerd, gedeeltelijk ontsuikerd |
+| Concentreren  | Verhogen van het gehalte aan bepaalde stoffen door het onttrekken van water of andere bestanddelen  | Concentraat  |
+| Ontdoppen<sup>1 "Ontdoppen" kan, in voorkomend geval, worden vervangen door "schillen" of "pellen". De gebruikelijke naam of benaming is dan "geschild" of "gepeld". </sup>  | Het geheel of gedeeltelijk verwijderen van de buitenste lagen van graankorrels, zaden, vruchten, noten, enz.  | Ontdopt, gedeeltelijk ontdopt  |
+| Drogen  | Het onttrekken van water door middel van een kunstmatig of een natuurlijk procédé  | Gedroogd (zon of kunstmatig)  |
+| Extraheren  | Het onttrekken, met behulp van een organisch oplosmiddel, van vet of olie aan bepaalde voedermiddelen, dan wel met behulp van een waterig oplosmiddel, van suiker of andere in water oplosbare componenten. Bij gebruik van een organisch oplosmiddel moet het daarbij verkregen product technisch vrij zijn van dat oplosmiddel  | Schroot (voor oliehoudend materiaal)  Melasse, pulp (voor suikerhoudend materiaal of andere in water oplosbare componenten)  |
+| Extruderen  | Het onder druk door gaatjes persen of duwen van stoffen. Zie ook voorverstijfselen  | Geëxtrudeerd  |
+| Vlokken  | Het walsen van vochtig materiaal dat een hittebehandeling heeft ondergaan  | Vlokken  |
+| Malen  | Fysische bewerking van graankorrels met het doel de grootte van de partikels te verminderen en de scheiding in afzonderlijke fracties te vergemakkelijken (hoofdzakelijk meel, zemelgrint en gries)  | Meel, zemelgrint, nameel, gries   |
+| Verhitten  | Algemene term voor een aantal hittebehandelingen die onder specifieke omstandigheden worden toegepast om effect uit te oefenen op de voederwaarde of op de structuur van het materiaal  | Geroosterd, gekookt, hitte behandeld  |
+| Harden  | Het omzetten van onverzadigde glyceriden in verzadigde glyceriden (harden van oliën en vetten)  | Gehard, gedeeltelijk gehard  |
+| Hydrolyseren  | Het splitsen in eenvoudiger chemische bestanddelen door een passende behandeling met water en eventueel enzymen of zuur/base  | Gehydrolyseerd  |
+| Persen  | Onttrekken door mechanisch extraheren (met een schroef- of andere pers) en eventueel warmte, van vet/olie aan oliehoudende producten of sap uit vruchten of andere plantaardige producten  | Schilfers<sup>2 Het woord "schilfers" kan, in voorkomen geval, worden vervangen door "koek". </sup> (bij oliehoudende producten)  Pulp, draf (bij vruchten, enz .)  Geperste bietenpulp (bij suikerbieten)  |
+| Pelletiseren  | Samenpersen met behulp van een matrijs  | Pellet, gepelletiseerd  |
+| Voor-verstijfselen | Het modificeren van zetmeel om het zwelvermogen in koud water aanzienlijk te verhogen  | Voorverstijfseld, gezwollen  |
+| Raffineren  | Het geheel of gedeeltelijk verwijderen van onzuiverheden uit suikers, oliën, vetten en andere natuurlijke producten door middel van een chemische of fysische behandeling  | Geraffineerd, gedeeltelijk geraffineerd  |
+| Nat malen  | Het langs mechanische weg scheiden van de afzonderlijke delen van de pit/korrel na inweken met water, waaraan mogelijk zwaveldioxide is toegevoegd ten behoeve van extractie van zetmeel  | Kiem, gluten, zetmeel  |
+| Breken  | Het langs mechanische weg transformeren van graankorrels of andere voedermiddelen teneinde de grootte ervan te verminderen  | Gebroken, het breken  |
+| Ontsuikeren  | Het geheel of gedeeltelijk onttrekken van mono- en disachariden aan melasse of andere suikerhoudende stoffen door middel van een chemisch of een fysisch procédé  | Ontsuikerd, gedeeltelijk ontsuikerd  |
 
-###V 
+### V  
 
 ####Bepalingen inzake de overeenkomstig deel B en deel C aan te geven of te vermelden gehalten
 
-1.De aangegeven of de te vermelden gehalten hebben betrekking op het gewicht van het voedermiddel als zodanig, tenzij anders is vermeld.
+1. De aangegeven of de te vermelden gehalten hebben betrekking op het gewicht van het voedermiddel als zodanig, tenzij anders is vermeld.  
 
-2.Behoudens de bepalingen van artikel 3 en artikel 6, lid 3, onder b), van de richtlijn en voor zover in deel B of deel C van deze bijlage geen ander gehalte is vastgesteld, moet het watergehalte van het voedermiddel worden aangegeven als het hoger is dan 14% van het gewicht van het voedermiddel. Bij voedermiddelen waarvan het vochtgehalte het bovenstaande maximum niet overschrijdt, moet dat gehalte op verzoek van de koper worden aangegeven.
+2. Behoudens de bepalingen van artikel 3 en artikel 6, lid 3, onder b), van de richtlijn en voor zover in deel B of deel C van deze bijlage geen ander gehalte is vastgesteld, moet het watergehalte van het voedermiddel worden aangegeven als het hoger is dan 14% van het gewicht van het voedermiddel. Bij voedermiddelen waarvan het vochtgehalte het bovenstaande maximum niet overschrijdt, moet dat gehalte op verzoek van de koper worden aangegeven.  
 
-3.Behoudens de bepalingen van artikel 3 van de richtlijn en voor zover in deel B of deel C van deze bijlage geen ander gehalte is vastgesteld, moet het gehalte aan in zoutzuur onoplosbare as worden aangegeven als het hoger is dan 2,2 % ten opzichte van de droge stof.
+3. Behoudens de bepalingen van artikel 3 van de richtlijn en voor zover in deel B of deel C van deze bijlage geen ander gehalte is vastgesteld, moet het gehalte aan in zoutzuur onoplosbare as worden aangegeven als het hoger is dan 2,2 % ten opzichte van de droge stof.   
 
-###VI 
+### VI  
 
 ####Bepalingen inzake denaturerende middelen en bindmiddelen
 
-Wanneer producten als bedoeld in deel B, kolom 2, of in deel C, kolom 1, worden gebruikt om voedermiddelen te denatureren of te binden, moet het volgende worden vermeld:
+Wanneer producten als bedoeld in deel B, kolom 2, of in deel C, kolom 1, worden gebruikt om voedermiddelen te denatureren of te binden, moet het volgende worden vermeld: 
 
-denaturerende middelen: aard en hoeveelheid van de gebruikte producten,
+denaturerende middelen: aard en hoeveelheid van de gebruikte producten,  
 
-bindmiddelen: aard van de gebruikte producten.In het geval van bindmiddelen mag de hoeveelheid van de gebruikte producten 3% van het totaalgewicht niet overschrijden.
+bindmiddelen: aard van de gebruikte producten.   In het geval van bindmiddelen mag de hoeveelheid van de gebruikte producten 3% van het totaalgewicht niet overschrijden. 
 
-###VII 
+### VII  
 
 ####Bepalingen inzake de etikettering van voedermiddelen die bestaan uit van weefsel van zoogdieren afkomstig eiwit
 
-1.Bij voedermiddelen die bestaan uit van weefsel van zoogdieren afkomstig eiwit, dient in de etikettering de volgende vermelding te worden aangebracht: "Dit voedermiddel bestaat uit van weefsel van zoogdieren afkomstig eiwit dat niet aan herkauwers mag worden vervoederd.''Deze bepaling geldt niet voor:
+1. Bij voedermiddelen die bestaan uit van weefsel van zoogdieren afkomstig eiwit, dient in de etikettering de volgende vermelding te worden aangebracht: "Dit voedermiddel bestaat uit van weefsel van zoogdieren afkomstig eiwit dat niet aan herkauwers mag worden vervoederd.'' Deze bepaling geldt niet voor: 
 
-melk en melkproducten,
+melk en melkproducten,  
 
-gelatine,
+gelatine,  
 
-gehydroliseerd eiwit met een molecuulgewicht van minder dan 10.000 dalton, dat:
+gehydroliseerd eiwit met een molecuulgewicht van minder dan 10.000 dalton, dat: 
 
-a)is verkregen uit huiden, afkomstig van dieren die in een slachthuis zijn geslacht, waarbij door een officiële dierenarts een antemortemkeuring is verricht overeenkomstig hoofdstuk VI van bijlage I bij Richtlijn 64/433/EEG, en op grond van die keuring geschikt zijn bevonden om overeenkomstig die richtlijn te worden geslacht; en
+a) is verkregen uit huiden, afkomstig van dieren die in een slachthuis zijn geslacht, waarbij door een officiële dierenarts een antemortemkeuring is verricht overeenkomstig hoofdstuk VI van bijlage I bij Richtlijn 64/433/EEG, en op grond van die keuring geschikt zijn bevonden om overeenkomstig die richtlijn te worden geslacht; en  
 
-b)is vervaardigd met gebruikmaking van een productieprocédé waarbij de nodige maatregelen worden getroffen om verontreiniging van de huiden zoveel mogelijk te voorkomen, de huiden worden gepekeld, gekalkt en intensief gewassen en het materiaal vervolgens wordt blootgesteld aan een pH van meer dan 11 gedurende meer dan drie uur bij een temperatuur van meer dan 80°C en de huiden vervolgens een hittebehandeling ondergaan bij meer dan 140°C gedurende 30 minuten bij een druk van meer dan 3,6 bar, of, met gebruikmaking van een gelijkwaardig, door de Commissie, na raadpleging van het terzake bevoegde Wetenschappelijk Comité, goedgekeurd procédé; en
+b) is vervaardigd met gebruikmaking van een productieprocédé waarbij de nodige maatregelen worden getroffen om verontreiniging van de huiden zoveel mogelijk te voorkomen, de huiden worden gepekeld, gekalkt en intensief gewassen en het materiaal vervolgens wordt blootgesteld aan een pH van meer dan 11 gedurende meer dan drie uur bij een temperatuur van meer dan 80°C en de huiden vervolgens een hittebehandeling ondergaan bij meer dan 140°C gedurende 30 minuten bij een druk van meer dan 3,6 bar, of, met gebruikmaking van een gelijkwaardig, door de Commissie, na raadpleging van het terzake bevoegde Wetenschappelijk Comité, goedgekeurd procédé; en  
 
-c)komt uit inrichtingen die een programma inzake interne controles (HACCP) uitvoeren.
+c) komt uit inrichtingen die een programma inzake interne controles (HACCP) uitvoeren. 
 
-dicalciumfosfaat uit ontvette beenderen,
+dicalciumfosfaat uit ontvette beenderen,  
 
-gedroogd plasma en andere bloedproducten.
+gedroogd plasma en andere bloedproducten.         
 
-###Deel B 
+### Deel B  
 
 ####Niet-exclusieve lijst van de belangrijkste voedermiddelen
 
-###1 
+### 1  
 
 ####GRANEN EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  |
 |:---|:---|:---|:---|
-|1 |2 |3 |4 |
-|1.01 |Haver |Korrels van Avena sativa L. en andere gecultiveerde haversoorten | --- |
-|1.02 |Havervlokken |Product verkregen door het stomen en het pletten van gepelde havervlokken |Zetmeel |
-|1.03 |Havergries |Bijproduct dat wordt verkregen bij verwerking van geschoonde, gepelde haver tot havergrutten en meel. Het bestaat hoofdzakelijk uit haverzemelen en een geringe hoeveelheid endosperm |Ruwe celstof |
-|1.04 |Haverschillen en -zemelen |Bijproduct dat wordt verkregen bij de verwerking van geschoonde haver tot havergrutten. Het bestaat hoofzakelijk uit haverschillers en zemelen |Ruwe celstof |
-|1.05 |Gerst |Korrels van Hordeum vulgare L. | --- |
-|1.06 |Gerstepelmeel |Bijproduct dat wordt verkregen bij de verwerking van geschoonde en gepelde gerst tot gort, grutten of bloem |Ruwe celstof |
-|1.07 |Gersteiwit |Gedroogd bijproduct van de bereiding van gerstzetmeel. Het bestaat hoofdzakelijk uit bij de afscheiding van het zetmeel verkregen eiwitbestanddelen |Ruw eiwit Zetmeel |
-|1.08 |Rijst, gebroken |Bijproduct van de bereiding van gepolijste of geglansde rijst Oryza sativa L.; bestaat in hoofdzaak uit kleine en/of gebroken korrels |Zetmeel |
-|1.09 |Rijstvoermeel (bruin) |Bijproduct verkregen bij de eerste slijping van gepelde rijst, dat in hoofdzaak bestaat uit zilverhuidjes en deeltjes van de aleuronlaan, het endosperm en de kiem |Ruwe celstof |
-|1.10 |Rijstvoermeel (wit) |Bijproduct verkregen bij de tweede slijping van gepelde rijst, dat in hoofdzaak bestaat uit deeltjes van de aleuronlaan, het endosperm en de kiem |Ruwe celstof |
-|1 11 |Calciumcarbonaat- houdend rijstevoermeel |Bijproduct verkregen bij het slijpen van rijst, dat in hoofdzaak bestaat uit zilverhuidjes, deeltjes van de aleuronlaag, het endosperm en de kiem en een veranderlijke hoeveelheid calciumcarbonaat dat tijdens de bewerking is toegevoegd |Ruwe celstof Calciumcarbonaat |
-|1.12 |Voermeel van voorgekookte rijst |Bijproduct verkregen bij het slijpen van voorgekookte rijst, dat in hoofdzaak bestaat uit zilverhuidjes, deeltjes van de aleuronlaag, het endosperm en de kiem en een veranderlijke hoeveelheid calciumcarbonaat dat tijdens de bewerking is toegevoegd |Ruwe celstof Calciumcarbonaat |
-|1.13 |Gemalen voederrijst |Product verkregen door het malen van voederrijst die bestaat uit hetzij groene onrijpe dan wel krijtachtige korrels die door zeven bij de bereiding van gepelde rijst zijn verkregen, hetzij normaal gevormde gepelde, gevlekte of gele rijstkorrels |Zetmeel |
-|1.14 |Rijstkiemschilfers |Bijproduct van de winning van olie door persing uit de kiemen van rijst, waaraan nog delen van het endosperm en de zaadhuid hechten |Ruw eiwit Ruw vet Ruwe celstof |
-|1.15 |Rijstkiemschroot |Bijproduct van de winning van olie door extractie uit de kiemen van rijst, waaraan nog delen van het endosperm en de zaadhuid hechten |Ruw eiwit |
-|1.16 |Rijstzetmeel |Technisch zuiver uit rijst verkregen zetmeel |Zetmeel |
-|1.17 |Millet (gierst) |Graankorrels van Panicum millaceum L. | --- |
-|1.18 |Rogge |Graankorrels van Secale cereale L. | --- |
-|1.19 |Roggevoerbloem<sup>1) Producten met een zetmeelgehalte van meer dan 40% mogen "rijk aan zetmeel" worden genoemd. </sup> |Bijproduct van de bereiding van bloem uit geschoonde rogge, dat overwegend bestaat uit deeltjes van het endosperm, en ook fijne schildelen en een geringe hoeveelheid andere bestanddelen van de korrel bevat |Zetmeel |
-|1.20 |Roggegries |Bijproduct van de bereiding van bloem uit geschoonde rogge, dat overwegend bestaat uit deeltjes van de schil, voor het overige uit bestanddelen van de korrel, die niet zo vergaand van endosperm ontdaan zijn als bij de roggezemelgrint |Ruwe celstof |
-|1.21 |Roggezemelgrint |Bijproduct van de bereiding van bloem uit geschoonde rogge, dat overwegend bestaat uit deeltjes van de schil en uit korreldeeltjes waaruit het endesperm grotendeels is verwijderd |Ruwe celstof |
-|1.22 |Sorghum |Graankorrels van Sorghum bicolor (L.) Moench s.l. | --- |
-|1.23 |Tarwe |Graankorrels van Triticum aestivurn L., Triticum durum Dosf. en andere gecultiveerde tarwesoorten | --- |
-|1.24 |Tarwevoerbloem<sup>2) Producten met een zetmeelgehalte van meer an 40% mogen "ruik aan zetmeel" worden genoemd. </sup> |Bijproduct van de bereiding van bloem uit geschoonde tarwekorrels of ontdopte spelt, dat overwegend bestaat uit deeltjes van het endosperm en voorts uit fijne schildelen en enkele andere delen van de korrel |Zetmeel |
-|1.25 |Tarwegries |Bijproduct van de bereiding van bloem uit geschoonde tarwekorrels of ontdopte spelt, dat overwegend bestaat uit delen van de schil en voorts uit korreldeeltjes waaruit minder endesperm is verwijderd dan bij tarwezemelgrint |Ruwe celstof |
-|1.26 |Tarwezemelgrint<sup>3) Wanneer dit ingrediënt fijner is gemalen, mag aan de naam het woord "fijn"worden toegevoegd of mag de naam door een overeenkomstige benaming worden vervangen. </sup> |Bijproduct van de bereiding van bloem uit geschoonde tarwekorrels of ontdopte spelt, dat overwegend bestaat uit delen van de schil en uit korreldeeltjes waaruit het endosperm grotendeels is verwijderd |Ruwe celstof |
-|1.27 |Tarwekiemen |Bijproduct van de bereiding van bloem, dat overwegend bestaat uit al dan niet geplette tarwekiemen, waaraan eventueel nog delen van het endosperm en van de schil hechten |Ruw eiwit Ruw vet |
-|1.28 |Tarwegluten |Gedroogd bijproduct van de bereiding van tarwezetmeel, dat overwegend bestaat uit glutenbestanddelen die verkregen worden bij het afscheiden van het zetmeel |Ruw eiwit |
-|1.29 |Tarweglutenvoer |Bijproduct van de bereiding van tarwezetmeel en tarwegluten. Het bestaat uit zemelen waarvan de kiem al dan niet gedeeltelijk verwijderd is, en gluten, waaraan zeer geringe hoeveelheden na het zeven overblijvende breukkorrels en zeer geringe hoeveelheden residuen van de zetmeelhydrolyse toegevoegd mogen zijn |Ruw eiwit Zetmeel |
-|1.30 |Tarwezetmeel |Technisch zuiver, uit tarwe verkregen zetmeel |Zetmeel |
-|1.31 |Tarwezetmeel, voorverstijfseld |Tarwezetmeel dat door een hittebehandeling sterk voorverstijfseld is |Zetmeel |
-|1.32 |Spelt |Korrels van spelt Triticum spelta L., Tritcium dioccum Schrank, Triticum monococcum | --- |
-|1.33 |Triticale |Graankorrels van de Triticum X Secale hybride | --- |
-|1.34 |Mais |Korrels van Zea Mays L. | --- |
-|1.35 |Maïsgries <sup>4) Producten met een zetmeelgehalte van meer dan 40% mogen "rijk aan zetmeel" worden genoemd. </sup> |Bijproduct van de bereiding van bloem of griesmeel uit maïs, dat hoofdzakelijk bestaat uit delen van de schil en uit korreldeeltjes, waaruit minder endosperm is verwijderd dan bij maïszemelgrint |Ruwe celstof |
-|1.36 |Maïszemelgrint |Bijproduct van de bereiding van bloem of griesmeel uit maïs, dat hoofdzakelijk bestaat uit delen van de schil en uit een geringe hoeveelheid maïskiemdeeltjes en aanhechtende deeltjes van het endosperm |Ruwe celstof |
-|1.37 |Maïskiemschilfers |Bijproduct van de winning van olie door persing uit door droge of natte verwerking verkregen maïskiemen, en waaraan eventueel nog delen van het endosperm en de zaadhuid hechten |Ruw eiwit  Ruw vet |
-|1.38 |Maïskiemschroot |Bijproduct van de winning van olie door extractie uit door droge of natte verwerking verkregen maïskiemen, en waaraan eventueel nog delen van het endosperm en de zaadhuid hechten |Ruw eiwit |
-|1.39 |Maïsglutenvoer<sup>5) Deze benaming mag worden vervangen door "maïsgluten feed". </sup> |Bijproduct van de bereiding van maiszetmeel door middel van de natte methode. Het bestaat uit zemelen en gluten, waaraan na het zeven van de maïs overblijvende residuen, tot ten hoogste 15 gewichtsprocent, en/of residuen van het zwelwater van maïs dat is gebruikt bij de vervaardiging van alcohol of andere zetmeelderivaten, zijn toegevoegd. Het product mag bovendien residuen bevatten van de extractie van olie uit maïskiemen door middel van de natte methode. |Ruw eiwit Zetmeel  Ruw vet, wanneer >4,5% |
-|1.40 |Maïsgluten |Gedroogd bijproduct van de bereiding ban maiszetmeel. dat in hoofdzaak bestaat uit gluten Verkregen bij het afscheiden van het zetmeel |Ruw eiwit |
-|1.41 |Maiszetmeel |Technisch zuiver, uit maïs verkregen zetmeel |Zetmeel |
-|1.42 |Maïszetmeel, voorverstijfseld <sup>6) Deze benaming mag worden vervangen door "maïszetmeel geëxtrudeerd. </sup> |Maïszetmeel dat door een hittebehandeling is voorverstijfseld |Zetmeel |
-|1.43 |Moutkiemen |Bijproduct van de mouterij, dat voornamelijk bestaat uit de gedroogde kiemwortels van gekiemde granen |Ruw eiwit |
-|1.44 |Gedroogde bierbostel |Bijproduct van de brouwerij, verkregen door het drogen van de residuen van gemoute en ongemoute granen en andere zetmeelhoudende producten |Ruw eiwit |
-|1.45 |Gedroogde spoeling<sup>7) De graansoort mag bij de benaming worden vermeld. </sup> |Bijproduct van de alcoholdistilleerderij, verkregen door het drogen van de vaste residuen van gegiste granen |Ruw eiwit |
-|1.43 |Donkere gedroogde spoeling<sup>8) Wordt soms ook vermeld als "distillers, dried grains and solubles". </sup> |Bijproduct van de distilleerderij, verkregen door drogen van de vaste residuen van gegiste granen, waaraan een deel van de spoelingsiroop of de geëvaporeerde draf is toegevoegd |Ruw eiwit |
+| 1  | 2  | 3  | 4  |
+| 1.01  | Haver  | Korrels van Avena sativa L. en andere gecultiveerde haversoorten  | --- |
+| 1.02  | Havervlokken  | Product verkregen door het stomen en het pletten van gepelde havervlokken  | Zetmeel  |
+| 1.03  | Havergries  | Bijproduct dat wordt verkregen bij verwerking van geschoonde, gepelde haver tot havergrutten en meel. Het bestaat hoofdzakelijk uit haverzemelen en een geringe hoeveelheid endosperm  | Ruwe celstof  |
+| 1.04  | Haverschillen en -zemelen  | Bijproduct dat wordt verkregen bij de verwerking van geschoonde haver tot havergrutten. Het bestaat hoofzakelijk uit haverschillers en zemelen  | Ruwe celstof  |
+| 1.05  | Gerst  | Korrels van Hordeum vulgare L.  | --- |
+| 1.06  | Gerstepelmeel  | Bijproduct dat wordt verkregen bij de verwerking van geschoonde en gepelde gerst tot gort, grutten of bloem  | Ruwe celstof  |
+| 1.07  | Gersteiwit  | Gedroogd bijproduct van de bereiding van gerstzetmeel. Het bestaat hoofdzakelijk uit bij de afscheiding van het zetmeel verkregen eiwitbestanddelen  | Ruw eiwit Zetmeel  |
+| 1.08  | Rijst, gebroken  | Bijproduct van de bereiding van gepolijste of geglansde rijst Oryza sativa L.; bestaat in hoofdzaak uit kleine en/of gebroken korrels  | Zetmeel  |
+| 1.09  | Rijstvoermeel (bruin)  | Bijproduct verkregen bij de eerste slijping van gepelde rijst, dat in hoofdzaak bestaat uit zilverhuidjes en deeltjes van de aleuronlaan, het endosperm en de kiem  | Ruwe celstof  |
+| 1.10  | Rijstvoermeel (wit)  | Bijproduct verkregen bij de tweede slijping van gepelde rijst, dat in hoofdzaak bestaat uit deeltjes van de aleuronlaan, het endosperm en de kiem  | Ruwe celstof  |
+| 1 11  | Calciumcarbonaat- houdend rijstevoermeel  | Bijproduct verkregen bij het slijpen van rijst, dat in hoofdzaak bestaat uit zilverhuidjes, deeltjes van de aleuronlaag, het endosperm en de kiem en een veranderlijke hoeveelheid calciumcarbonaat dat tijdens de bewerking is toegevoegd  | Ruwe celstof Calciumcarbonaat  |
+| 1.12  | Voermeel van voorgekookte rijst  | Bijproduct verkregen bij het slijpen van voorgekookte rijst, dat in hoofdzaak bestaat uit zilverhuidjes, deeltjes van de aleuronlaag, het endosperm en de kiem en een veranderlijke hoeveelheid calciumcarbonaat dat tijdens de bewerking is toegevoegd  | Ruwe celstof Calciumcarbonaat  |
+| 1.13  | Gemalen voederrijst  | Product verkregen door het malen van voederrijst die bestaat uit hetzij groene onrijpe dan wel krijtachtige korrels die door zeven bij de bereiding van gepelde rijst zijn verkregen, hetzij normaal gevormde gepelde, gevlekte of gele rijstkorrels  | Zetmeel  |
+| 1.14  | Rijstkiemschilfers  | Bijproduct van de winning van olie door persing uit de kiemen van rijst, waaraan nog delen van het endosperm en de zaadhuid hechten  | Ruw eiwit Ruw vet Ruwe celstof  |
+| 1.15  | Rijstkiemschroot  | Bijproduct van de winning van olie door extractie uit de kiemen van rijst, waaraan nog delen van het endosperm en de zaadhuid hechten  | Ruw eiwit  |
+| 1.16  | Rijstzetmeel  | Technisch zuiver uit rijst verkregen zetmeel  | Zetmeel  |
+| 1.17  | Millet (gierst)  | Graankorrels van Panicum millaceum L.  | --- |
+| 1.18  | Rogge  | Graankorrels van Secale cereale L.  | --- |
+| 1.19  | Roggevoerbloem<sup>1) Producten met een zetmeelgehalte van meer dan 40% mogen "rijk aan zetmeel" worden genoemd. </sup>  | Bijproduct van de bereiding van bloem uit geschoonde rogge, dat overwegend bestaat uit deeltjes van het endosperm, en ook fijne schildelen en een geringe hoeveelheid andere bestanddelen van de korrel bevat  | Zetmeel  |
+| 1.20  | Roggegries  | Bijproduct van de bereiding van bloem uit geschoonde rogge, dat overwegend bestaat uit deeltjes van de schil, voor het overige uit bestanddelen van de korrel, die niet zo vergaand van endosperm ontdaan zijn als bij de roggezemelgrint  | Ruwe celstof  |
+| 1.21  | Roggezemelgrint  | Bijproduct van de bereiding van bloem uit geschoonde rogge, dat overwegend bestaat uit deeltjes van de schil en uit korreldeeltjes waaruit het endesperm grotendeels is verwijderd  | Ruwe celstof  |
+| 1.22  | Sorghum  | Graankorrels van Sorghum bicolor (L.) Moench s.l.  | --- |
+| 1.23  | Tarwe  | Graankorrels van Triticum aestivurn L., Triticum durum Dosf. en andere gecultiveerde tarwesoorten  | --- |
+| 1.24  | Tarwevoerbloem<sup>2) Producten met een zetmeelgehalte van meer an 40% mogen "ruik aan zetmeel" worden genoemd. </sup>   | Bijproduct van de bereiding van bloem uit geschoonde tarwekorrels of ontdopte spelt, dat overwegend bestaat uit deeltjes van het endosperm en voorts uit fijne schildelen en enkele andere delen van de korrel  | Zetmeel  |
+| 1.25  | Tarwegries  | Bijproduct van de bereiding van bloem uit geschoonde tarwekorrels of ontdopte spelt, dat overwegend bestaat uit delen van de schil en voorts uit korreldeeltjes waaruit minder endesperm is verwijderd dan bij tarwezemelgrint  | Ruwe celstof  |
+| 1.26  | Tarwezemelgrint<sup>3) Wanneer dit ingrediënt fijner is gemalen, mag aan de naam het woord "fijn"worden toegevoegd of mag de naam door een overeenkomstige benaming worden vervangen. </sup>   | Bijproduct van de bereiding van bloem uit geschoonde tarwekorrels of ontdopte spelt, dat overwegend bestaat uit delen van de schil en uit korreldeeltjes waaruit het endosperm grotendeels is verwijderd  | Ruwe celstof  |
+| 1.27  | Tarwekiemen  | Bijproduct van de bereiding van bloem, dat overwegend bestaat uit al dan niet geplette tarwekiemen, waaraan eventueel nog delen van het endosperm en van de schil hechten  | Ruw eiwit Ruw vet  |
+| 1.28  | Tarwegluten  | Gedroogd bijproduct van de bereiding van tarwezetmeel, dat overwegend bestaat uit glutenbestanddelen die verkregen worden bij het afscheiden van het zetmeel  | Ruw eiwit  |
+| 1.29  | Tarweglutenvoer  | Bijproduct van de bereiding van tarwezetmeel en tarwegluten. Het bestaat uit zemelen waarvan de kiem al dan niet gedeeltelijk verwijderd is, en gluten, waaraan zeer geringe hoeveelheden na het zeven overblijvende breukkorrels en zeer geringe hoeveelheden residuen van de zetmeelhydrolyse toegevoegd mogen zijn  | Ruw eiwit Zetmeel  |
+| 1.30  | Tarwezetmeel  | Technisch zuiver, uit tarwe verkregen zetmeel  | Zetmeel  |
+| 1.31  | Tarwezetmeel, voorverstijfseld | Tarwezetmeel dat door een hittebehandeling sterk voorverstijfseld is | Zetmeel  |
+| 1.32  | Spelt  | Korrels van spelt Triticum spelta L., Tritcium dioccum Schrank, Triticum monococcum  | --- |
+| 1.33  | Triticale  | Graankorrels van de Triticum X Secale hybride  | --- |
+| 1.34  | Mais  | Korrels van Zea Mays L.  | --- |
+| 1.35  | Maïsgries <sup>4) Producten met een zetmeelgehalte van meer dan 40% mogen "rijk aan zetmeel" worden genoemd. </sup>   | Bijproduct van de bereiding van bloem of griesmeel uit maïs, dat hoofdzakelijk bestaat uit delen van de schil en uit korreldeeltjes, waaruit minder endosperm is verwijderd dan bij maïszemelgrint  | Ruwe celstof  |
+| 1.36  | Maïszemelgrint  | Bijproduct van de bereiding van bloem of griesmeel uit maïs, dat hoofdzakelijk bestaat uit delen van de schil en uit een geringe hoeveelheid maïskiemdeeltjes en aanhechtende deeltjes van het endosperm  | Ruwe celstof  |
+| 1.37  | Maïskiemschilfers  | Bijproduct van de winning van olie door persing uit door droge of natte verwerking verkregen maïskiemen, en waaraan eventueel nog delen van het endosperm en de zaadhuid hechten  | Ruw eiwit  Ruw vet  |
+| 1.38  | Maïskiemschroot  | Bijproduct van de winning van olie door extractie uit door droge of natte verwerking verkregen maïskiemen, en waaraan eventueel nog delen van het endosperm en de zaadhuid hechten  | Ruw eiwit  |
+| 1.39  | Maïsglutenvoer<sup>5) Deze benaming mag worden vervangen door "maïsgluten feed". </sup>   | Bijproduct van de bereiding van maiszetmeel door middel van de natte methode. Het bestaat uit zemelen en gluten, waaraan na het zeven van de maïs overblijvende residuen, tot ten hoogste 15 gewichtsprocent, en/of residuen van het zwelwater van maïs dat is gebruikt bij de vervaardiging van alcohol of andere zetmeelderivaten, zijn toegevoegd. Het product mag bovendien residuen bevatten van de extractie van olie uit maïskiemen door middel van de natte methode.  | Ruw eiwit Zetmeel  Ruw vet, wanneer >4,5%  |
+| 1.40  | Maïsgluten  | Gedroogd bijproduct van de bereiding ban maiszetmeel. dat in hoofdzaak bestaat uit gluten Verkregen bij het afscheiden van het zetmeel  | Ruw eiwit  |
+| 1.41  | Maiszetmeel  | Technisch zuiver, uit maïs verkregen zetmeel  | Zetmeel  |
+| 1.42  | Maïszetmeel, voorverstijfseld <sup>6) Deze benaming mag worden vervangen door "maïszetmeel geëxtrudeerd. </sup>  | Maïszetmeel dat door een hittebehandeling is voorverstijfseld  | Zetmeel  |
+| 1.43  | Moutkiemen  | Bijproduct van de mouterij, dat voornamelijk bestaat uit de gedroogde kiemwortels van gekiemde granen  | Ruw eiwit  |
+| 1.44  | Gedroogde bierbostel  | Bijproduct van de brouwerij, verkregen door het drogen van de residuen van gemoute en ongemoute granen en andere zetmeelhoudende producten  | Ruw eiwit  |
+| 1.45  | Gedroogde spoeling<sup>7) De graansoort mag bij de benaming worden vermeld. </sup>   | Bijproduct van de alcoholdistilleerderij, verkregen door het drogen van de vaste residuen van gegiste granen  | Ruw eiwit  |
+| 1.43  | Donkere gedroogde spoeling<sup>8) Wordt soms ook vermeld als "distillers, dried grains and solubles". </sup>   | Bijproduct van de distilleerderij, verkregen door drogen van de vaste residuen van gegiste granen, waaraan een deel van de spoelingsiroop of de geëvaporeerde draf is toegevoegd  | Ruw eiwit  |
 
-###2 
+### 2  
 
 ####OLIEHOUDENDE ZADEN, OLIEHOUDENDE VRUCHTEN EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  |
 |:---|:---|:---|:---|
-|1 |2 |3 |4 |
-|2.01 |Grandnotenschilfers van gedeeltelijk ontdopt zaad |Bijproduct van de winning van olie door persing uit de gedeeltelijk ontdopte vruchten van de grondnoot Arachis hypogaea L. en andere Arachis-soorten (maximumgehalte aan ruwe celstof: 16% in de droge stof) |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.02 |Grondnotenschroot van gedeeltelijk ontdopt zaad |Bijproduct van de winning van olie door extractie uit de gedeeltelijk ontdopte vruchten van de grondnoot (maximumgehalte aan ruwe celstof: 16% in de droge stof) |Ruw eiwit  Ruwe celstof |
-|2.03 |Grondnotenschilfers van ontdopt zaad |Bijproduct van de winning van die door persing uit de ontdopte vruchten van de grondnoot |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.04 |Grondnotenschroot van ontdopt zaad |Bijproduct van de winning van olie door extractie uit de ontdopte vruchten van de grondnoot |Ruw eiwit  Ruwe celstof |
-|2.05 |Kool- en raapzaad <sup>1) In voorkomend geval mag de benaming vergezeld gaan van de vermelding "met een laag glusinolaatgehalte" (zoals gedefineerd in de communautaire wetgeving) </sup> |Zaden van koolzaad Brassica napus L. ssp. oeifera (Metzg.) Sinsk., van Indische sarson Brassica napus L. var. glauca (Roxb.) O.E. Schulz en van raapzaad Brassica campestris L. ssp. oleifera (Mtzg.) Sinsk. (botanische zuiverheidsgraad minimaal 94%) | --- |
-|2.06 |Kool- en raapzaadschilfers<sup>1) In voorkomend geval mag de benaming vergezeld gaan van de vermelding "met een laag glusinolaatgehalte" (zoals gedefineerd in de communautaire wetgeving) </sup> |Bijproduct van de winning van olie door persing van kool- en raapzaad (botanische zuiverheidsgraad minimaal 94%) |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.07 |Kool- en raapzaadschroot <sup>1) In voorkomend geval mag de benaming vergezeld gaan van de vermelding "met een laag glusinolaatgehalte" (zoals gedefineerd in de communautaire wetgeving) </sup> |Bijproduct van de winning van olie door extractie van kool- en raapzaad (botanische zuiverheidsgraad minimaal 94%) |Ruw eiwit |
-|2.08 |Kool- en raapzaadschillen |Bijproduct verkregen bij het schillen van kool- en raapzaad |Ruw celstof |
-|2.09 |Saffloerzaadschroot gedeeltelijk ontdopt |Bijproduct van de winning van olie door extractie uit gedeelterijk ontdopt saffloerzaad Cartharnus thclorius L |Ruw eiwit  Ruwe celstof |
-|2.10 |Kokosschilfers |Bijproduct van de winning van olie door extractie uit gedroogde, door de zaadhuid bedekte endospern van het zaad van de kokospalm Coccs nucifera L |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.11 |Kokosschroot |Bijproduct van de winning van olie door extractie uit het gedroogde door de zaadhuid bedekte endosperm van het zaad van de kokospalm |Ruw eiwit |
-|2.12 |Palmpitschilfers |Bijproduct van de winning van olie door persing uit het de zoveel mogelijk van de steenschaal ontdane zaden van de volgende soorten oliepalm: Elaeis guineensis Jacq., Corozo oleifera (H.B.K.) - L.H. Balley (Elaeis malanoccocca auct.) |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.13 |Palmpitschroot |Bijproduct van de winning van die door extractie uit de zoveel mogelijk van de steenschaal ontdane zaden van de olie palm |Ruw eiwit Ruwe celstof |
-|2.14 |Sojabonen, getoast |Sojabonen Glycine max. (L.) Merr., die een passende hittebehandeling hebben ondergaan (ureasewerkzaamheid: maximaal 0.4 ma N/g x min.) | --- |
-|2.15 |Sojaschroot, getoast |Bijproduct van de winning van olie door extractie uit sojabonen die een adequate hittebehandeling hebben ondergaan (ureasewerkzaamheid: maximaal 0,4 mg N/g x min.) |Ruw eiwit  Ruwe celstof, wanneer > 8% |
-|2.16 |Sojaschroot, geschild, getoast |Bijproduct van de winning van olie door extractie uit geschilde sojabonen die een passende hittebehandeling hebben ondergaan (maximumgehalte van ruwe celstof: 8% in de droge stof ) (ureasewerkzaamheid maximaal 0,5 mg N/g x min.) |Ruw eiwit |
-|2.17 |Soja-eiwitconcentraat |Product dat wordt verkregen uit geschilde sojabonen waaruit het vet is geëxtraheerd en dat verder is geëxtraheerd om het gehalte aan andere oplosbare bestanddelen dan eiwitten te verlagen |Ruw eiwit |
-|2.18 |Plantaardige olie<sup>2) Bij de benaming moet ook de plantensoort worden vermeld. </sup> |Olie uit gewassen |Vochtgehalte, wanneer > 1% |
-|2.19 |Soja(bonen)schillen |Bijproduct verkregen bij het schillen van de sojaboon |Ruwe celstof |
-|2.20 |Katoenzaad |Zaden van de katoenplan Gossypium spp. die van zaadpluis zijn ontdaan |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.21 |Katoenzaadschroot van gedeeltelijk ontdopt zaad |Bijproduct van de winning van olie door extractie uit de van zaadpluis ontdane en gedeeltelijk ontdopte zaden van de katoenplant (maximum gehalte aan ruwe celstof: 22,5% in de droge stof) |Ruw eiwit  Ruwe celstof |
-|2.22 |Katoenzaadschilfers |Bijproduct van de winning van olie door persing uit de van zaadpluis ontdane zaden van de kantoenplant |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.23 |Nigerzaadschilfers |Bijproduct van de winning van olie door persing uit nigerzaad Guizotia abyssinica (L.f) Cass.  (in HCI onoplosbare as: max. 3,4%) |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.24 |Zonnebloemzaad |Zaad van de zonnebloem Helianthus annuus L. | --- |
-|2.25 |Zonnebloemzaadschroot |Bijproduct van de winning van olie door extractie uit zaad van zonnebloem |Ruw eiwit |
-|2.26 |Zonnebloemzaadschroot van gedeeltelijk ontdopt |Bijproduct van de winning van olie door extractie uit gedeeltelijk ontdopt zaad van zonnebloemen (maximumgehalte aan ruwe celstof: 27,5% in de droge stof |Ruw eiwit  Ruwe celstof |
-|2.27 |Lijnzaad |Zaad van lijnzaad Linum usitatkimum L. (botanische zuiverheidsgraad minimaal 93%) | --- |
-|2.28 |Lijnzaadschillfers |Bijproduct van de winning van olie door persing uit lijnzaad (botanische zuiverheidsgraad minimaal 93%) |Ruw eiwit  Ruw vet  Ruw celstof |
-|2.29 |Lijnzaadschroot |Bijproduct van de winning van olie door extractie uit lijnzaad (botanische zuiverheidsgraad minimaal 93%) |Ruw eiwit |
-|2.30 |Olijfschroot |Bijproduct van de winning van olie door extractie van uitgeperste olijven Olea europaea L., waaruit delen van de pit zoveel mogelijk zijn verwijderd |Ruw eiwit  Ruwe celstof |
-|2.31 |Sesamschilfers |Bijproduct van de winning van olie door persing uit sesamzaad Sesamum indicum L. (in HCI onoplosbare as: max. 5%) |Ruw eiwit  Ruw vet  Ruwe celstof |
-|2.32 |Cacaoschroot van gedeeltelijk ontdopte bonen |Bijproduct van de winning van olie, verkregen door extractie uit gedroogde en geroosterde gedeeltelijk ontdopte cacaobonen Theobma cacao L. |Ruw eiwit  Ruw celstof |
-|2.33 |Cacaodoppen |Zaadhuiden van de gedroogde en geroosterde cacaobonen Theobma cacao L. |Ruwe celstof |
+| 1  | 2  | 3  | 4  |
+| 2.01  | Grandnotenschilfers van gedeeltelijk ontdopt zaad  | Bijproduct van de winning van olie door persing uit de gedeeltelijk ontdopte vruchten van de grondnoot Arachis hypogaea L. en andere Arachis-soorten (maximumgehalte aan ruwe celstof: 16% in de droge stof)  |Ruw eiwit  Ruw vet  Ruwe celstof |
+| 2.02  | Grondnotenschroot van gedeeltelijk ontdopt zaad  | Bijproduct van de winning van olie door extractie uit de gedeeltelijk ontdopte vruchten van de grondnoot (maximumgehalte aan ruwe celstof: 16% in de droge stof)  |Ruw eiwit  Ruwe celstof |
+| 2.03  | Grondnotenschilfers van ontdopt zaad  | Bijproduct van de winning van die door persing uit de ontdopte vruchten van de grondnoot  |Ruw eiwit  Ruw vet  Ruwe celstof |
+| 2.04  | Grondnotenschroot van ontdopt zaad  | Bijproduct van de winning van olie door extractie uit de ontdopte vruchten van de grondnoot  |Ruw eiwit  Ruwe celstof |
+| 2.05  | Kool- en raapzaad <sup>1) In voorkomend geval mag de benaming vergezeld gaan van de vermelding "met een laag glusinolaatgehalte" (zoals gedefineerd in de communautaire wetgeving) </sup>  | Zaden van koolzaad Brassica napus L. ssp. oeifera (Metzg.) Sinsk., van Indische sarson Brassica napus L. var. glauca (Roxb.) O.E. Schulz en van raapzaad Brassica campestris L. ssp. oleifera (Mtzg.) Sinsk. (botanische zuiverheidsgraad minimaal 94%)  | --- |
+| 2.06  | Kool- en raapzaadschilfers<sup>1) In voorkomend geval mag de benaming vergezeld gaan van de vermelding "met een laag glusinolaatgehalte" (zoals gedefineerd in de communautaire wetgeving) </sup>   | Bijproduct van de winning van olie door persing van kool- en raapzaad (botanische zuiverheidsgraad minimaal 94%)  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.07  | Kool- en raapzaadschroot <sup>1) In voorkomend geval mag de benaming vergezeld gaan van de vermelding "met een laag glusinolaatgehalte" (zoals gedefineerd in de communautaire wetgeving) </sup>   | Bijproduct van de winning van olie door extractie van kool- en raapzaad (botanische zuiverheidsgraad minimaal 94%)  | Ruw eiwit  |
+| 2.08  | Kool- en raapzaadschillen  | Bijproduct verkregen bij het schillen van kool- en raapzaad  | Ruw celstof  |
+| 2.09  | Saffloerzaadschroot gedeeltelijk ontdopt  | Bijproduct van de winning van olie door extractie uit gedeelterijk ontdopt saffloerzaad Cartharnus thclorius L  | Ruw eiwit  Ruwe celstof  |
+| 2.10  | Kokosschilfers  | Bijproduct van de winning van olie door extractie uit gedroogde, door de zaadhuid bedekte endospern van het zaad van de kokospalm Coccs nucifera L  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.11  | Kokosschroot  | Bijproduct van de winning van olie door extractie uit het gedroogde door de zaadhuid bedekte endosperm van het zaad van de kokospalm  | Ruw eiwit  |
+| 2.12  | Palmpitschilfers  | Bijproduct van de winning van olie door persing uit het de zoveel mogelijk van de steenschaal ontdane zaden van de volgende soorten oliepalm: Elaeis guineensis Jacq., Corozo oleifera (H.B.K.) - L.H. Balley (Elaeis malanoccocca auct.)  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.13  | Palmpitschroot  | Bijproduct van de winning van die door extractie uit de zoveel mogelijk van de steenschaal ontdane zaden van de olie palm  | Ruw eiwit Ruwe celstof  |
+| 2.14  | Sojabonen, getoast  | Sojabonen Glycine max. (L.) Merr., die een passende hittebehandeling hebben ondergaan (ureasewerkzaamheid: maximaal 0.4 ma N/g x min.)  | --- |
+| 2.15  | Sojaschroot, getoast  | Bijproduct van de winning van olie door extractie uit sojabonen die een adequate hittebehandeling hebben ondergaan (ureasewerkzaamheid: maximaal 0,4 mg N/g x min.)  | Ruw eiwit  Ruwe celstof, wanneer > 8%  |
+| 2.16  | Sojaschroot, geschild, getoast  | Bijproduct van de winning van olie door extractie uit geschilde sojabonen die een passende hittebehandeling hebben ondergaan (maximumgehalte van ruwe celstof: 8% in de droge stof ) (ureasewerkzaamheid maximaal 0,5 mg N/g x min.)  | Ruw eiwit  |
+| 2.17  | Soja-eiwitconcentraat  | Product dat wordt verkregen uit geschilde sojabonen waaruit het vet is geëxtraheerd en dat verder is geëxtraheerd om het gehalte aan andere oplosbare bestanddelen dan eiwitten te verlagen  | Ruw eiwit  |
+| 2.18  | Plantaardige olie<sup>2) Bij de benaming moet ook de plantensoort worden vermeld. </sup>  | Olie uit gewassen  | Vochtgehalte, wanneer > 1%  |
+| 2.19  | Soja(bonen)schillen  | Bijproduct verkregen bij het schillen van de sojaboon  | Ruwe celstof  |
+| 2.20  | Katoenzaad  | Zaden van de katoenplan Gossypium spp. die van zaadpluis zijn ontdaan  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.21  | Katoenzaadschroot van gedeeltelijk ontdopt zaad  | Bijproduct van de winning van olie door extractie uit de van zaadpluis ontdane en gedeeltelijk ontdopte zaden van de katoenplant (maximum gehalte aan ruwe celstof: 22,5% in de droge stof)  | Ruw eiwit  Ruwe celstof  |
+| 2.22  | Katoenzaadschilfers  | Bijproduct van de winning van olie door persing uit de van zaadpluis ontdane zaden van de kantoenplant  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.23  | Nigerzaadschilfers  | Bijproduct van de winning van olie door persing uit nigerzaad Guizotia abyssinica (L.f) Cass.  (in HCI onoplosbare as: max. 3,4%)  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.24  | Zonnebloemzaad  | Zaad van de zonnebloem Helianthus annuus L.  | --- |
+| 2.25  | Zonnebloemzaadschroot  | Bijproduct van de winning van olie door extractie uit zaad van zonnebloem  | Ruw eiwit  |
+| 2.26  | Zonnebloemzaadschroot van gedeeltelijk ontdopt  | Bijproduct van de winning van olie door extractie uit gedeeltelijk ontdopt zaad van zonnebloemen (maximumgehalte aan ruwe celstof: 27,5% in de droge stof  | Ruw eiwit  Ruwe celstof  |
+| 2.27  | Lijnzaad  | Zaad van lijnzaad Linum usitatkimum L. (botanische zuiverheidsgraad minimaal 93%)  | --- |
+| 2.28  | Lijnzaadschillfers  | Bijproduct van de winning van olie door persing uit lijnzaad (botanische zuiverheidsgraad minimaal 93%)  | Ruw eiwit  Ruw vet  Ruw celstof  |
+| 2.29  | Lijnzaadschroot  | Bijproduct van de winning van olie door extractie uit lijnzaad (botanische zuiverheidsgraad minimaal 93%)  | Ruw eiwit  |
+| 2.30  | Olijfschroot  | Bijproduct van de winning van olie door extractie van uitgeperste olijven Olea europaea L., waaruit delen van de pit zoveel mogelijk zijn verwijderd  | Ruw eiwit  Ruwe celstof  |
+| 2.31  | Sesamschilfers  | Bijproduct van de winning van olie door persing uit sesamzaad Sesamum indicum L. (in HCI onoplosbare as: max. 5%)  | Ruw eiwit  Ruw vet  Ruwe celstof  |
+| 2.32  | Cacaoschroot van gedeeltelijk ontdopte bonen  | Bijproduct van de winning van olie, verkregen door extractie uit gedroogde en geroosterde gedeeltelijk ontdopte cacaobonen Theobma cacao L.  | Ruw eiwit  Ruw celstof  |
+| 2.33  | Cacaodoppen  | Zaadhuiden van de gedroogde en geroosterde cacaobonen Theobma cacao L.  | Ruwe celstof  |
 
-###3 
+### 3  
 
 ####ZADEN VAN PEULVRUCHTEN EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|3.01 |Sissererwten |Zaden van Cicer arietinum L. | --- |
-|3.02 |Guarschroot |Bijproduct verkregen na extractie van het bindmiddel uit de zaden van Cyamopsis tetragonoloba (L.) Taub. |Ruw eiwit |
-|3.03 |Linzenwikke |Zaden van Ervum ervlia L. | --- |
-|3.04 |Zaailathyrus<sup>1) Deze benaming moet worden aangevuld met de aard van de hittebehandeling. </sup> |Zaden van Lathyrus sativus L. die een gepaste hittebehandeling hebben ondergaan | --- |
-|3.05 |Linzen |Zaden van Lens culinarus a.o. Modik | --- |
-|3.06 |Niet-bittere lupinen |Zaden van Lupinus spp. met een laag bitterstofgehalte | --- |
-|3.07 |Bonen, getoast |Zaden van Phaseolus of Vigna spp. die een gepaste hittebehandeling hebben ondergaan om de giftige lecitinen te vernietigen | --- |
-|3.08 |Erwten |Zaden van Pisum spp. | --- |
-|3.09 |Erwtenslijpmeel |Bijproduct van de bereiding van erwtenbloem dat overwegend bestaat uit deeltjes van de zaadlob en in mindere mate uit de schillen van erwten |Ruw eiwit Ruwe celstof |
-|3.10 |Erwtenzemelen |Bijproduct van de bereiding van erwtenbloem dat overwegend bestaat uit de schillen die afgescheiden worden bij het schillen en schonen van de erwten |Ruwe celstof |
-|3.11 |Paardebonen |Zaden van Vicia faba L. ssp. faba var. equina Pers. en var. minute (Alef.) Mansf. | --- |
-|3.12 |Vicia articulata |Zaden van Vicia monanthos Dosf. | --- |
-|3.13 |Wikken |Zaden van Vicia sativa L. var. sativa en andere variëteiten | --- |
+| 3.01  | Sissererwten  | Zaden van Cicer arietinum L.  | --- |
+| 3.02  | Guarschroot  | Bijproduct verkregen na extractie van het bindmiddel uit de zaden van Cyamopsis tetragonoloba (L.) Taub.  | Ruw eiwit  |
+| 3.03  | Linzenwikke  | Zaden van Ervum ervlia L.  | --- |
+| 3.04  | Zaailathyrus<sup>1) Deze benaming moet worden aangevuld met de aard van de hittebehandeling. </sup>   | Zaden van Lathyrus sativus L. die een gepaste hittebehandeling hebben ondergaan  | --- |
+| 3.05  | Linzen  | Zaden van Lens culinarus a.o. Modik  | --- |
+| 3.06  | Niet-bittere lupinen  | Zaden van Lupinus spp. met een laag bitterstofgehalte  | --- |
+| 3.07  | Bonen, getoast  | Zaden van Phaseolus of Vigna spp. die een gepaste hittebehandeling hebben ondergaan om de giftige lecitinen te vernietigen  | --- |
+| 3.08  | Erwten  | Zaden van Pisum spp.  | --- |
+| 3.09  | Erwtenslijpmeel  | Bijproduct van de bereiding van erwtenbloem dat overwegend bestaat uit deeltjes van de zaadlob en in mindere mate uit de schillen van erwten  | Ruw eiwit Ruwe celstof  |
+| 3.10  | Erwtenzemelen  | Bijproduct van de bereiding van erwtenbloem dat overwegend bestaat uit de schillen die afgescheiden worden bij het schillen en schonen van de erwten  | Ruwe celstof  |
+| 3.11  | Paardebonen  | Zaden van Vicia faba L. ssp. faba var. equina Pers. en var. minute (Alef.) Mansf.  | --- |
+| 3.12  | Vicia articulata  | Zaden van Vicia monanthos Dosf.  | --- |
+| 3.13  | Wikken  | Zaden van Vicia sativa L. var. sativa en andere variëteiten  | --- |
 
 ###4 
 
 ####KNOLLEN EN WORTELS EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|4.01 |(Suiker)bieten-pulp |Bijproduct van de suikerbereiding, dat bestaat uit de na extractie overgebleven gedroogde delen van suikerbieten Bete vulgaris L. ssp. vulgaris var. altissima Doell (maximumgehalte aan in HCI onoplosbare as: 4,5% van de droge stof) |In HCI onoplosbare as, wanneer > 33% van de droge stof Totaal suikers (sacharose), wanneer > 10,5% |
-|4.02 |(Suiker)bieten-melasse |Bijproduct, bestaande uit het stroopachtige residu dat wordt verkregen bij de bereiding of het raffineren van bietsuiker |Totaal suikers (sacharose)  Vochtgehalte wanneer > 28% |
-|4.03 |(Suiker)bieten-pulp (gemelasseerd) |Bijproduct van de bereiding van suiker, bestaande uit gedroogde suikerbietenpulp, waaraan melasse is toegevoegd (maximumgehalte aan in HCI onoplosbare as: 4,5% in de droge stof) |Totaal suikers (sacharose) In HCI onoplosbare as, wanneer > 3,5 in de |
-|4.04 |(Suiker)biet-vinasse  |Bijproduct verkregen na de fermentatie van bietmelasse bij de productie van alcohol, gist, citroenzuur of andere organische stoffen |Ruw eiwit  Vochtgehalte, wanneer > 35% |
-|4.05 |(Biet)suiker <sup>1) Deze benaming mag worden vervangen door "sacharose". </sup> |Uit suikerbieten gewonnen suiker |Saccharose |
-|4.06 |Bataten (zoete aardappelen) |Knollen van lpomoea batates (L.) Poir, ongeacht hun aanbiedingsvorm |Zetmeel |
-|4.07 |Maniok<sup>2) Deze benaming mag worden vervangen door "tapioca". </sup> |Wortelknollen van Manihot esculenta Crantz, ongeacht hun aanbiedingsvorm (maximumgehalte aan in HCI onoplosbare as: 4,5% (in de droge stof) |Zetme 1 januari 1999  In HCI 3,5 % |
-|4.08 |Maniokzetmeel, <sup>3) Deze benaming mag worden vervangen door "tapiocazetmeel". </sup> voorverstijfseld |Uit maniokwortels verkregen zetmeel dat door een gepaste hittebehandeling vergaand is verstijfseld |Zetmeel |
-|4.09 |Aardappelvezels |Bijproduct van de bereiding van aardappelzetmeel Solanum tubersum L | --- |
-|4.10 |Aardappelzetmeel |Technisch zuiver, uit aardappelen verkregen zetmeel |Zetmeel |
-|4.11 |Aardappeleiwit |Gedroogd bijproduct van de bereiding van aardappelzetmeel, dat hoofdzakelijk bestaat uit eiwitbestanddelen die verkregen worden bij het afscheiden van het zetmeel |Ruw eiwit |
-|4.12 |Aardappelvlokken |Product verkregen door het drogen op walsen van gewassen, al dan niet geschilde en gestoomde aardappelen |Zetmeel  Ruwe celstof |
-|4.13 |Ingedikt aardappelsap |Residu van de aardappelbereiding waaraan een deel van de eiwitten en van het water onttrokken zijn |Ruw eiwit  Ruwe as |
-|4.14 |Voorverstijfseld aardappelzetmeel |Sterk voorverstijfseld aardappelzetmeelproduct |Zetmeel |
+| 4.01  | (Suiker)bieten-pulp  | Bijproduct van de suikerbereiding, dat bestaat uit de na extractie overgebleven gedroogde delen van suikerbieten Bete vulgaris L. ssp. vulgaris var. altissima Doell (maximumgehalte aan in HCI onoplosbare as: 4,5% van de droge stof)  | In HCI onoplosbare as, wanneer > 33% van de droge stof Totaal suikers (sacharose), wanneer > 10,5%  |
+| 4.02  | (Suiker)bieten-melasse  | Bijproduct, bestaande uit het stroopachtige residu dat wordt verkregen bij de bereiding of het raffineren van bietsuiker  | Totaal suikers (sacharose)  Vochtgehalte wanneer > 28%  |
+| 4.03  | (Suiker)bieten-pulp (gemelasseerd)  | Bijproduct van de bereiding van suiker, bestaande uit gedroogde suikerbietenpulp, waaraan melasse is toegevoegd (maximumgehalte aan in HCI onoplosbare as: 4,5% in de droge stof)  | Totaal suikers (sacharose) In HCI onoplosbare as, wanneer > 3,5 in de  |
+| 4.04  | (Suiker)biet-vinasse   | Bijproduct verkregen na de fermentatie van bietmelasse bij de productie van alcohol, gist, citroenzuur of andere organische stoffen  | Ruw eiwit  Vochtgehalte, wanneer > 35%  |
+| 4.05  | (Biet)suiker <sup>1) Deze benaming mag worden vervangen door "sacharose". </sup>   | Uit suikerbieten gewonnen suiker  | Saccharose  |
+| 4.06  | Bataten (zoete aardappelen)  | Knollen van lpomoea batates (L.) Poir, ongeacht hun aanbiedingsvorm  | Zetmeel  |
+| 4.07  | Maniok<sup>2) Deze benaming mag worden vervangen door "tapioca". </sup>  | Wortelknollen van Manihot esculenta Crantz, ongeacht hun aanbiedingsvorm (maximumgehalte aan in HCI onoplosbare as: 4,5% (in de droge stof)  | Zetme 1 januari 1999  In HCI 3,5 %  |
+| 4.08  | Maniokzetmeel, <sup>3) Deze benaming mag worden vervangen door "tapiocazetmeel". </sup> voorverstijfseld  | Uit maniokwortels verkregen zetmeel dat door een gepaste hittebehandeling vergaand is verstijfseld  | Zetmeel  |
+| 4.09  | Aardappelvezels  | Bijproduct van de bereiding van aardappelzetmeel Solanum tubersum L  | --- |
+| 4.10  | Aardappelzetmeel  | Technisch zuiver, uit aardappelen verkregen zetmeel  | Zetmeel  |
+| 4.11  | Aardappeleiwit  | Gedroogd bijproduct van de bereiding van aardappelzetmeel, dat hoofdzakelijk bestaat uit eiwitbestanddelen die verkregen worden bij het afscheiden van het zetmeel  | Ruw eiwit  |
+| 4.12  | Aardappelvlokken  | Product verkregen door het drogen op walsen van gewassen, al dan niet geschilde en gestoomde aardappelen  | Zetmeel  Ruwe celstof  |
+| 4.13  | Ingedikt aardappelsap  | Residu van de aardappelbereiding waaraan een deel van de eiwitten en van het water onttrokken zijn  | Ruw eiwit  Ruwe as  |
+| 4.14  | Voorverstijfseld aardappelzetmeel  | Sterk voorverstijfseld aardappelzetmeelproduct  | Zetmeel  |
 
 ###5 
 
 ####OVERIGE ZADEN EN VRUCHTEN EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|5.01 |Johannesbrood-meel |Product verkregen door het malen van gedroogde, van de zaden ontdane vruchten (peulen) van de Johannesbroodboom Ceratonia siliqua L. |Ruwe celstof |
-|5.02 |Citruspulp |Bijproduct dat overblijft na het persen van citrusvruchten Citrus ssp. bij de bereiding van citrussap |Ruwe celstof |
-|5.03 |Vruchtenpulp<sup>1) De vruchtensoort mag bij de benaming worden vermeld. </sup> |Bijproduct dat overblijft na het persen van pit- of steenvruchten bij de bereiding van vruchtensap |Ruwe celstof |
-|5.04 |Tomatenpulp |Bijproduct dat overblijft na het persen van tomaten Solanum lycopersicum Karst. bij de bereiding van tomatensap |Ruwe celstof |
-|5.05 |Druivenpitten-schroot |Bijproduct verkregen bij het extraheren van de olie uit de druivenpitten |Ruwe celstof, wanneer > 45% |
-|5.06 |Druivenpulp |Na het extraheren van de alcohol snel gedroogde draf van druiven, die zoveel mogelijk van steeltjes en pitten ontdaan is |Ruwe celstof, wanneer > 25% |
-|5.07 |Druivenpitten |Uit druivendraf geëxtraheerde, niet ontoliede pitten |Ruw vet  Ruwe celstof, wanneer 45% |
+| 5.01  | Johannesbrood-meel  | Product verkregen door het malen van gedroogde, van de zaden ontdane vruchten (peulen) van de Johannesbroodboom Ceratonia siliqua L.  | Ruwe celstof  |
+| 5.02  | Citruspulp  | Bijproduct dat overblijft na het persen van citrusvruchten Citrus ssp. bij de bereiding van citrussap  | Ruwe celstof  |
+| 5.03  | Vruchtenpulp<sup>1) De vruchtensoort mag bij de benaming worden vermeld. </sup>   | Bijproduct dat overblijft na het persen van pit- of steenvruchten bij de bereiding van vruchtensap  | Ruwe celstof  |
+| 5.04  | Tomatenpulp  | Bijproduct dat overblijft na het persen van tomaten Solanum lycopersicum Karst. bij de bereiding van tomatensap  | Ruwe celstof  |
+| 5.05  | Druivenpitten-schroot  | Bijproduct verkregen bij het extraheren van de olie uit de druivenpitten  | Ruwe celstof, wanneer > 45%  |
+| 5.06  | Druivenpulp  | Na het extraheren van de alcohol snel gedroogde draf van druiven, die zoveel mogelijk van steeltjes en pitten ontdaan is  | Ruwe celstof, wanneer > 25%  |
+| 5.07  | Druivenpitten  | Uit druivendraf geëxtraheerde, niet ontoliede pitten  | Ruw vet  Ruwe celstof, wanneer 45%  |
 
 ###6 
 
 ####VOEDERGEWASSEN EN RUWVOEDERGEWASSEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|6.01 |Luzernemeel<sup>1) De term "meel" mag worden vervangen door "pellets". Bij de benaming mag ook de droogmethode worden vermeld. </sup> |Product verkregen door het drogen en malen van jonge luzerne Medicago sativa L.en Medicago varia Martyn Het mag echter maximaal 20% jong klaver of andere voedergewassen bevatten, die gelijktijdig met de luzerne gedroogd en gemalen zijn |Ruw eiwit  Ruwe celstof In HCI onoplosbare as, wanneer > 3,5% van de droge stof |
-|6.02 |Luzernepulp |Gedroogd bijproduct verkregen door het persen van sap uit luzerne |Ruw eiwit |
-|6.03 |Luzerne-eiwitconcentraat |Product verkregen door kunstmatig drogen van fracties van geperst luzernesap, dat is gecentrifugeerd en dat een hittebehandeling heeft ondergaan om de eiwitten neer te slaan |Caroteen  Ruw eiwit |
-|6.04 |Klavermeel <sup>1) De term "meel" mag worden vervangen door "pellets". Bij de benaming mag ook de droogmethode worden vermeld. </sup> |Product verkregen door het drogen en malen van jonge klaver Trifolium spp. Het mag echter maximaal 20% jonge luzerne of andere voedergewassen bevatten, die gelijktijdig met de klaver gedroogd en gemalen zijn |Ruw eiwit  Ruwe celstof  In HCI onoplosbare as, wanneer > 3,5% van de droge stof |
-|6.05 |Grasmeel <sup>1) De term "meel" mag worden vervangen door "pellets". Bij de benaming mag ook de droogmethode worden vermeld. </sup><sup>2) Het voedergewas mag bij de benaming worden vermeld. </sup> |Product verkregen door het drogen en malen van jong weidegras |Ruw eiwit  Ruwe celstof In HCI onoplosbare as, wanneer > 3,5% van de droge stof |
-|6.06 |Stro <sup>3) De graansoort moet bij de benaming worden genoemd. </sup> |Stro van granen | --- |
-|6.07 |Behandeld stro <sup>4) Deze benaming moet worden aangevuld met de aard van de toegepaste chemische behandeling. </sup> |Product verkregen door een passende behandeling van stro |Natrium, indien behandeld met NaOH |
+| 6.01  | Luzernemeel<sup>1) De term "meel" mag worden vervangen door "pellets". Bij de benaming mag ook de droogmethode worden vermeld. </sup>   | Product verkregen door het drogen en malen van jonge luzerne Medicago sativa L.en Medicago varia Martyn Het mag echter maximaal 20% jong klaver of andere voedergewassen bevatten, die gelijktijdig met de luzerne gedroogd en gemalen zijn  | Ruw eiwit  Ruwe celstof In HCI onoplosbare as, wanneer > 3,5% van de droge stof  |
+| 6.02  | Luzernepulp  | Gedroogd bijproduct verkregen door het persen van sap uit luzerne  | Ruw eiwit  |
+| 6.03  | Luzerne-eiwitconcentraat  | Product verkregen door kunstmatig drogen van fracties van geperst luzernesap, dat is gecentrifugeerd en dat een hittebehandeling heeft ondergaan om de eiwitten neer te slaan  | Caroteen  Ruw eiwit  |
+| 6.04  | Klavermeel <sup>1) De term "meel" mag worden vervangen door "pellets". Bij de benaming mag ook de droogmethode worden vermeld. </sup>   | Product verkregen door het drogen en malen van jonge klaver Trifolium spp. Het mag echter maximaal 20% jonge luzerne of andere voedergewassen bevatten, die gelijktijdig met de klaver gedroogd en gemalen zijn  | Ruw eiwit  Ruwe celstof  In HCI onoplosbare as, wanneer > 3,5% van de droge stof  |
+| 6.05  | Grasmeel <sup>1) De term "meel" mag worden vervangen door "pellets". Bij de benaming mag ook de droogmethode worden vermeld. </sup><sup>2) Het voedergewas mag bij de benaming worden vermeld. </sup>  | Product verkregen door het drogen en malen van jong weidegras  | Ruw eiwit  Ruwe celstof In HCI onoplosbare as, wanneer > 3,5% van de droge stof  |
+| 6.06  | Stro <sup>3) De graansoort moet bij de benaming worden genoemd. </sup>   | Stro van granen  | --- |
+| 6.07  | Behandeld stro <sup>4) Deze benaming moet worden aangevuld met de aard van de toegepaste chemische behandeling. </sup>   | Product verkregen door een passende behandeling van stro  | Natrium, indien behandeld met NaOH  |
 
 ###7 
 
 ####OVERIGE PLANTEN EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|7.01 |(Suiker)riet-melasse |Bijproduct bestaande uit het stroopachtige residu van het bereiden of raffineren van suiker uit suikerriet Saccharum officinarum L. |Totaal suikers (Sacharose) Vochtgehalte, wanneer > 30% |
-|7.02 |(Suiker)riet-vinasse |Bijproduct verkregen na fermentatie van suikerrietmelasse bij de bereiding van alcohol, gist, citroenzuur of andere organische stoffen |Ruw eiwit  Vochtgehalte, wanneer > 35% |
-|7.03 |(Riet)suiker <sup>1)  Deze benaming mag worden vervangen door "sacharose". </sup> |Uit suikerriet gewonnen suiker |Sacharose |
-|7.04 |Zeewier, gedroogd |Product verkregen door het drogen en malen van zeewier, vooral bruinwieren. Het product kan zijn gewassen om het jodiumgehalte te verlagen |Ruwe as |
+| 7.01  | (Suiker)riet-melasse  | Bijproduct bestaande uit het stroopachtige residu van het bereiden of raffineren van suiker uit suikerriet Saccharum officinarum L.  | Totaal suikers (Sacharose) Vochtgehalte, wanneer > 30%  |
+| 7.02  | (Suiker)riet-vinasse  | Bijproduct verkregen na fermentatie van suikerrietmelasse bij de bereiding van alcohol, gist, citroenzuur of andere organische stoffen  | Ruw eiwit  Vochtgehalte, wanneer > 35%  |
+| 7.03  | (Riet)suiker <sup>1)  Deze benaming mag worden vervangen door "sacharose". </sup>  | Uit suikerriet gewonnen suiker  | Sacharose  |
+| 7.04  | Zeewier, gedroogd  | Product verkregen door het drogen en malen van zeewier, vooral bruinwieren. Het product kan zijn gewassen om het jodiumgehalte te verlagen  | Ruwe as  |
 
 ###8 
 
 ####MELKPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|8.01 |Magere-melkpoeder |Product verkregen door hel onttrekken van vocht aan ontvette melk |Ruwe eiwit  Vochtgehalte, wanneer > 5% |
-|8.02 |Karnemelk-poeder |Product verkregen door het onttrekken van vocht aan de vloeistof die overblijft na het karnen van boter |Ruw eiwit  Ruw vet  Lactose  Vochtgehalte, wanneer > 6% |
-|8.03 |Weipoeder |Product verkregen door het drogen van de vloeistof die overblijft na de bereiding van kaas, kwark of caseïne, of na een ander soortgelijk proces |Ruw eiwit  Lactose  Vochtgehalte, wanneer > 8% |
-|8.04 |Weipoeder, melksuikerarm |Product verkregen door het drogen van wei waaraan een deel van de melksuiker is onttrokken |Ruw eiwit  Lactose  Vochtgehalte, wanneer > 8% |
-|8.05 |Gedroogd melkeiwit<sup>1) Deze benaming mag worden vervangen door "gedroogde melkalbumine" </sup> |Product verkregen door het drogen van uit wei of melk langs chemische of fysische weg afgescheiden eiwitverbindingen |Ruw eiwit  Vochtgehalte, wanneer > 8% |
-|8.06 |Caseïnepoeder |Product verkregen uit magere melk of karnemelk door het drogen van caseïne, die door middel van zuren of stremsel is neergeslagen |Ruw eiwit  Vochtgehalte, wanneer > 10% |
-|5.07 |Lactosepoeder |Door middel van zuiveren en drogen aan melk of wei onttrokken suiker |Lactose  Vochtgehalte, wanneer > 5% |
+| 8.01  | Magere-melkpoeder  | Product verkregen door hel onttrekken van vocht aan ontvette melk  | Ruwe eiwit  Vochtgehalte, wanneer > 5%  |
+| 8.02  | Karnemelk-poeder  | Product verkregen door het onttrekken van vocht aan de vloeistof die overblijft na het karnen van boter  | Ruw eiwit  Ruw vet  Lactose  Vochtgehalte, wanneer > 6%  |
+| 8.03  | Weipoeder  | Product verkregen door het drogen van de vloeistof die overblijft na de bereiding van kaas, kwark of caseïne, of na een ander soortgelijk proces  | Ruw eiwit  Lactose  Vochtgehalte, wanneer > 8%  |
+| 8.04  | Weipoeder, melksuikerarm  | Product verkregen door het drogen van wei waaraan een deel van de melksuiker is onttrokken  | Ruw eiwit  Lactose  Vochtgehalte, wanneer > 8%  |
+| 8.05  | Gedroogd melkeiwit<sup>1) Deze benaming mag worden vervangen door "gedroogde melkalbumine" </sup>   | Product verkregen door het drogen van uit wei of melk langs chemische of fysische weg afgescheiden eiwitverbindingen  | Ruw eiwit  Vochtgehalte, wanneer > 8%  |
+| 8.06  | Caseïnepoeder  | Product verkregen uit magere melk of karnemelk door het drogen van caseïne, die door middel van zuren of stremsel is neergeslagen  | Ruw eiwit  Vochtgehalte, wanneer > 10%  |
+| 5.07  | Lactosepoeder  | Door middel van zuiveren en drogen aan melk of wei onttrokken suiker  | Lactose  Vochtgehalte, wanneer > 5%  |
 
-###9 
+### 9  
 
 ####PRODUCTEN VAN LANDDIEREN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |1 |2 |3 |4 |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  | 1  | 2  | 3  | 4  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|9.01 |Diermeel<sup>1) Producten met een vetgehalte van meer dan 13% in de droge stof moeten "vetrijk" worden genoemd. </sup> |Product verkregen door het verhitten, drogen en malen van warmbloedige landdieren of delen daarvan, al dan niet gedeeltelijk ontvet door middel van extractie of langs fysische weg. Het product moet nagenoeg vrij zijn van hoeven en hoorn, borstels, haren en veren, alsmede van maag- en darminhoud (minimumgehalte aan ruw eiwit: 50% in de droge stof) (totaal fosforgehalte: max. 8%) |Ruw eiwit  Ruw vet  Ruwe as  Vochtgehalte, wanneer > 8% |
-|9.02 |Vleesbeendermeel <sup>1) Producten met een vetgehalte van meer dan 13% in de droge stof moeten "vetrijk" worden genoemd. </sup> |Product verkregen door het verhitten, drogen en malen van warmbloedige landdieren of delen daarvan, al dan niet gedeeltelijk ontvet door middel van extractie of langs fysische weg. Het product moet nagenoeg vrij zijn van hoorn en hoeven, borstels, haren en veren, alsmede van maag- en darminhoud |Ruw eiwit  Ruw vet Ruw as  Vochtgehalte, wanneer > 8% |
-|9.03 |Beendermeel |Product verkregen door het drogen, verhitten en fijnmalen van - door middel van extractie of langs fysische weg - vergaand ontvette beenderen van warmbloedige landdieren. Het product moet nagenoeg vrij zijn van haren, borstels, veren, hoorn en hoeven, alsmede van maag- en darminhoud |Ruw eiwit  Ruwe as  Vochtgehalte, wanneer > 8% |
-|9.04 |Vetkanen |Product dat overblijft na de winning van talg, reuzel en andere, door middel van extractie of langs fysische weg verkregen vetten van dierlijke oorsprong |Ruw eiwit  Ruwe vet  Vochtgehalte, wanneer > 8% |
-|9.05 |Pluimveemeel<sup>1) Producten met een vetgehalte van meer dan 13% in de droge stof moeten "vetrijk" worden genoemd. </sup> |Product verkregen door het verhitten, drogen en malen van bijproducten van geslacht pluimvee. Het product moet nagenoeg vrij zijn van veren. |Ruw eiwit  Ruw vet  Ruwe as  In HCI onoplosbare as, wanneer * 3.3%  Vochtgehalte, wanneer > 8% |
-|9.06 |Verenmeel, gehydrolyseerd |Product verkregen door hydrolyseren, drogen en malen van veren van pluimvee |Ruw eiwit In HCI onoplosbare as, wanneer > 3,4%  Vochtgehalte, wanneer > 8% |
-|9.07 |Bloedmeel |Product verkregen door het drogen van bloed van geslachte warmbloedige dieren. Het product moet nagenoeg vrij zijn van vreemde bestanddelen |Ruw eiwit Vochtgehalte, wanneer > 8% |
-|9.08 |Dierlijk vet<sup>2) Daarnaast mag ook de soort dierlijk vet worden vermeld naargelang van de oorsprong of de wijze waarop het verkregen is (talg, reuzel, bendervet, enz.) </sup> |Product dat bestaat uit vet van warmbloedige landdieren |Vochtgehalte, wanneer >1% |
+| 9.01  | Diermeel<sup>1) Producten met een vetgehalte van meer dan 13% in de droge stof moeten "vetrijk" worden genoemd. </sup>   | Product verkregen door het verhitten, drogen en malen van warmbloedige landdieren of delen daarvan, al dan niet gedeeltelijk ontvet door middel van extractie of langs fysische weg. Het product moet nagenoeg vrij zijn van hoeven en hoorn, borstels, haren en veren, alsmede van maag- en darminhoud (minimumgehalte aan ruw eiwit: 50% in de droge stof) (totaal fosforgehalte: max. 8%)  | Ruw eiwit  Ruw vet  Ruwe as  Vochtgehalte, wanneer > 8%  |
+| 9.02  | Vleesbeendermeel <sup>1) Producten met een vetgehalte van meer dan 13% in de droge stof moeten "vetrijk" worden genoemd. </sup>   | Product verkregen door het verhitten, drogen en malen van warmbloedige landdieren of delen daarvan, al dan niet gedeeltelijk ontvet door middel van extractie of langs fysische weg. Het product moet nagenoeg vrij zijn van hoorn en hoeven, borstels, haren en veren, alsmede van maag- en darminhoud | Ruw eiwit  Ruw vet  Ruw as  Vochtgehalte, wanneer > 8% |
+| 9.03  | Beendermeel  | Product verkregen door het drogen, verhitten en fijnmalen van - door middel van extractie of langs fysische weg - vergaand ontvette beenderen van warmbloedige landdieren. Het product moet nagenoeg vrij zijn van haren, borstels, veren, hoorn en hoeven, alsmede van maag- en darminhoud  | Ruw eiwit  Ruwe as  Vochtgehalte, wanneer > 8%  |
+| 9.04  | Vetkanen  | Product dat overblijft na de winning van talg, reuzel en andere, door middel van extractie of langs fysische weg verkregen vetten van dierlijke oorsprong  | Ruw eiwit  Ruwe vet  Vochtgehalte, wanneer > 8%  |
+| 9.05  | Pluimveemeel<sup>1) Producten met een vetgehalte van meer dan 13% in de droge stof moeten "vetrijk" worden genoemd. </sup>   | Product verkregen door het verhitten, drogen en malen van bijproducten van geslacht pluimvee. Het product moet nagenoeg vrij zijn van veren.  | Ruw eiwit  Ruw vet  Ruwe as  In HCI onoplosbare as, wanneer * 3.3%  Vochtgehalte, wanneer > 8%  |
+| 9.06  | Verenmeel, gehydrolyseerd  | Product verkregen door hydrolyseren, drogen en malen van veren van pluimvee  | Ruw eiwit In HCI onoplosbare as, wanneer > 3,4%  Vochtgehalte, wanneer > 8%  |
+| 9.07  | Bloedmeel  | Product verkregen door het drogen van bloed van geslachte warmbloedige dieren. Het product moet nagenoeg vrij zijn van vreemde bestanddelen  | Ruw eiwit Vochtgehalte, wanneer > 8%  |
+| 9.08  | Dierlijk vet<sup>2) Daarnaast mag ook de soort dierlijk vet worden vermeld naargelang van de oorsprong of de wijze waarop het verkregen is (talg, reuzel, bendervet, enz.) </sup>  | Product dat bestaat uit vet van warmbloedige landdieren  | Vochtgehalte, wanneer >1%  |
 
 ###10 
 
 ####VIS EN ANDERE ZEEDIEREN EN DAARVAN AFGELEIDE PRODUCTEN EN BIJPRODUCTEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  |
 |:---|:---|:---|:---|
-|1 |2 |3 |4 |
-|10.01 |Vismeel <sup>1) Producten met een ruw eiwitgehalte van meer dan 75% in de droge stof mogen "eiwitrijk" genoemd worden. </sup> |Product verkregen door de bewerking van vissen of delen van vissen, waaraan een deel van de olie kan zijn onttrokken, maar waaraan het visperssap weer kan zijn toegevoegd  (in HCI onoplosbare as: max 2,2%) |Ruw eiwit  Ruw vet  Ruwe as, wanneer > 20%  Vochtgehalte, wanneer > 8% |
-|10.02 |Visperssap, ingedikt |Bij de vervaardiging van vismeel verkregen product dat door drogen of verzuren afgescheiden en gestabiliseerd is |Ruw eiwit  Ruw vet  Vochtgehalte, wanneer > 5% |
-|10.03 |Visolie |Uit vis of delen van vis verkregen olie |Vochtgehalte, wanneer > 1% |
-|10.04 |Visolie, geraffineerd, gehard |Uit vis of delen van vis verkregen olie die is geraffineerd en gehydrogeneerd |Joodgetal  Vochtgehalte, wanneer > 1% |
+| 1  | 2  | 3  | 4  |
+| 10.01  | Vismeel <sup>1) Producten met een ruw eiwitgehalte van meer dan 75% in de droge stof mogen "eiwitrijk" genoemd worden. </sup>   | Product verkregen door de bewerking van vissen of delen van vissen, waaraan een deel van de olie kan zijn onttrokken, maar waaraan het visperssap weer kan zijn toegevoegd  (in HCI onoplosbare as: max 2,2%)  | Ruw eiwit  Ruw vet  Ruwe as, wanneer > 20%  Vochtgehalte, wanneer > 8%  |
+| 10.02  | Visperssap, ingedikt  | Bij de vervaardiging van vismeel verkregen product dat door drogen of verzuren afgescheiden en gestabiliseerd is  | Ruw eiwit  Ruw vet  Vochtgehalte, wanneer > 5%  |
+| 10.03  | Visolie  | Uit vis of delen van vis verkregen olie  | Vochtgehalte, wanneer > 1%  |
+| 10.04  | Visolie, geraffineerd, gehard  | Uit vis of delen van vis verkregen olie die is geraffineerd en gehydrogeneerd  | Joodgetal  Vochtgehalte, wanneer > 1%  |
 
 ###11 
 
 ####MINERALEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  |
 |:---|:---|:---|:---|
-|1 |2 |3 |4 |
-|11.01 |Koolzure voederkalk (calciumcarbonaat)<sup>1) De aard van de herkomst mag bij of in plaats van de benaming worden vermeld. </sup> |Product verkregen door het malen van stoffen die calciumcarbonaat opleveren, bijvoorbeeld kalksteen, krijt, schelpen van mosselen of oesters, of door precipitatie uit een zuuroplossing |Calcium  In HC onoplosbare as, wanneer > 5% |
-|11.02 |Koolzure magnesiavoederkalk (calcium-magnesium-carbonaat) |Natuurlijk mengsel van calciumcarbonaat en magnesiumcarbonaat |Calcium  Magnesium |
-|11.03 |Koolzure algenkalk |In de uit voorkomend, uit kalkalgen ontstaan product, gemalen of gekorreld |Calcium  In HC onoplosbare as, wanneer > 5% |
-|11.04 |Magnesiumoxide |Technisch zuiver magnesiumoxide (MgO) |Magnesium |
-|11.05 |Magnesium-sulfaat |Technischzuiver magnesiumsulfaat (MgS0<sub>4</sub>.7H<sub>2</sub>0) |Magnesium  Zwavel |
-|11.06 |Dicalcium-fosfaat<sup>2) De bereidingswijze mag in de benaming worden aangegeven. </sup> |Geprecipiteerd calciummonowaterstoffosfaat uit beenderen of anorganisch materiaal (CaHPO<sub>4</sub>.XH<sub>2</sub>O) |Calcium  Totaal fosfor |
-|11.07 |Mono-dicalciumfosfaat |Langs chemische weg verkregen product dat is samengesteld uit gelijke delen dicalciumfosfaat en monocalciumfosfaat CaHPO<sub>4</sub>-Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>H<sub>2</sub>O |Totaal fosfor  Calcium |
-|11.08 |Natuurlijk voederfosfaat, gedefluoreerd |Product verkregen door het malen van in de natuur voorkomende fosfaten die zijn gezuiverd en op gepaste wijze gedefluoreerd |Totaal fosfor  Calcium |
-|11.09 |Beendermeel, ontlijmd |Ontvette, ontlijmde, gesteriliseerde, gemalen beenderen |Totaal fosfor  Calcium |
-|11.10 |Monocalcium-fosfaat |Technisch zuiver calcium-bis (diwaterstoffosfaat) (Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>XH<sub>2</sub>O) |Totaal fosfor  Calcium |
-|11.11 |Calcium-magnesium-fosfaat |Technisch zuiver calcium-magnesiumfosfaat |Calcium  Magnesium  Totaal fosfor |
-|11.12 |Monoammonium-fosfaat |Technischzuiver monoammoniumfosfaat (NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>) |Totaal stikstof  Totaalfosfor |
-|11.13 |Natriumchloride<sup>1) De aard van de herkomst mag bij of in plaats van de benaming worden vermeld. </sup> |Technisch zuiver natriumchloride of product verkregen door het malen van natuurlijke natriumchloridebronnen, bijvoorbeeld steenzout en zeezout |Natrium |
-|11.14 |Magnesium-propionaat |Technisch zuiver magnesiumproprionaat |Magnesium |
-|11.15 |Magnesium-fosfaat |Technisch zuiver dimagnesiumfosfaat (MgHPO<sub>4</sub>.xH<sub>2</sub>) |Totaal fosfor  Magnesium |
-|11.16 |Natriumcalcium- magnesium-fosfaat |Product dat bestaat uit natriumcalciummagnesiumfosfaat |Totaal fosfor  Magnesium  Calcium  Natrium |
-|11.17 |Mono-natriumfosfaat |Technisch zuiver mononatriumfosfaat (MaH<sub>2</sub>PO.H<sub>2</sub>O) |Totaal fosfor  Natrium |
-|11.18 |Natrium-bicarbonaat |Technisch zuiver natriumbicarbonaat (NaHCO<sub>3</sub>) |Natrium |
+| 1  | 2  | 3  | 4  |
+| 11.01  | Koolzure voederkalk (calciumcarbonaat)<sup>1) De aard van de herkomst mag bij of in plaats van de benaming worden vermeld. </sup>  | Product verkregen door het malen van stoffen die calciumcarbonaat opleveren, bijvoorbeeld kalksteen, krijt, schelpen van mosselen of oesters, of door precipitatie uit een zuuroplossing  | Calcium  In HC onoplosbare as, wanneer > 5%  |
+| 11.02  | Koolzure magnesiavoederkalk (calcium-magnesium-carbonaat)  | Natuurlijk mengsel van calciumcarbonaat en magnesiumcarbonaat  | Calcium  Magnesium  |
+| 11.03  | Koolzure algenkalk  | In de uit voorkomend, uit kalkalgen ontstaan product, gemalen of gekorreld  | Calcium  In HC onoplosbare as, wanneer > 5%  |
+| 11.04  | Magnesiumoxide  | Technisch zuiver magnesiumoxide (MgO)  | Magnesium  |
+| 11.05  | Magnesium-sulfaat  | Technischzuiver magnesiumsulfaat (MgS0<sub>4</sub>.7H<sub>2</sub>0)  | Magnesium  Zwavel  |
+| 11.06  | Dicalcium-fosfaat<sup>2) De bereidingswijze mag in de benaming worden aangegeven. </sup>  | Geprecipiteerd calciummonowaterstoffosfaat uit beenderen of anorganisch materiaal (CaHPO<sub>4</sub>.XH<sub>2</sub>O)  | Calcium  Totaal fosfor  |
+| 11.07  | Mono-dicalciumfosfaat  | Langs chemische weg verkregen product dat is samengesteld uit gelijke delen dicalciumfosfaat en monocalciumfosfaat CaHPO<sub>4</sub>-Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>H<sub>2</sub>O  | Totaal fosfor  Calcium  |
+| 11.08  | Natuurlijk voederfosfaat, gedefluoreerd  | Product verkregen door het malen van in de natuur voorkomende fosfaten die zijn gezuiverd en op gepaste wijze gedefluoreerd  | Totaal fosfor  Calcium  |
+| 11.09  | Beendermeel, ontlijmd  | Ontvette, ontlijmde, gesteriliseerde, gemalen beenderen  | Totaal fosfor  Calcium  |
+| 11.10  | Monocalcium-fosfaat  | Technisch zuiver calcium-bis (diwaterstoffosfaat) (Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>XH<sub>2</sub>O)  | Totaal fosfor  Calcium  |
+| 11.11  | Calcium-magnesium-fosfaat  | Technisch zuiver calcium-magnesiumfosfaat  | Calcium  Magnesium  Totaal fosfor  |
+| 11.12  | Monoammonium-fosfaat  | Technischzuiver monoammoniumfosfaat (NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>)  | Totaal stikstof  Totaalfosfor  |
+| 11.13  | Natriumchloride<sup>1) De aard van de herkomst mag bij of in plaats van de benaming worden vermeld. </sup>   | Technisch zuiver natriumchloride of product verkregen door het malen van natuurlijke natriumchloridebronnen, bijvoorbeeld steenzout en zeezout  | Natrium  |
+| 11.14  | Magnesium-propionaat  | Technisch zuiver magnesiumproprionaat  | Magnesium  |
+| 11.15  | Magnesium-fosfaat  | Technisch zuiver dimagnesiumfosfaat (MgHPO<sub>4</sub>.xH<sub>2</sub>)  | Totaal fosfor  Magnesium  |
+| 11.16  | Natriumcalcium- magnesium-fosfaat  | Product dat bestaat uit natriumcalciummagnesiumfosfaat  | Totaal fosfor  Magnesium  Calcium  Natrium  |
+| 11.17  | Mono-natriumfosfaat  | Technisch zuiver mononatriumfosfaat (MaH<sub>2</sub>PO.H<sub>2</sub>O)  | Totaal fosfor  Natrium  |
+| 11.18  | Natrium-bicarbonaat  | Technisch zuiver natriumbicarbonaat (NaHCO<sub>3</sub>)  | Natrium  |
 
 ###12 
 
 ####DIVERSEN
 
-|Nr. |Benaming |Omschrijving |Verplichte vermeldingen |
+| Nr.  | Benaming  | Omschrijving  | Verplichte vermeldingen  |
 |:---|:---|:---|:---|
-|1 |2 |3 |4 |
-|12.01 |Bakkerij- en deegwarenproducten en bijproducten |Product of bijproduct verkregen bij de bereiding van brood, met inbegrip van fijn bakkerswerk, biscuits en deegwaren |Zetmeel  Totaal suikers (sacharose) |
-|12.02 |Producten en bijproducten van de zoetwarenindustrie |Product of bijproduct verkregen bij de bereiding van suikerwerk, inclusief chocolade |Totaal suikers (sacharose) |
-|12.03 |Product en bijproducten van de banketbakkerij en consumptie-ijs bereiding<sup>1) De benaming moet gewijzigd of aangevuld worden met de vermelding van het levensmiddelenbereidingsprocédé waarmee het voedermiddel verkregen is. </sup> |Bij de vervaardiging van gebak, taarten of consumptie-ijs verkregen product of bijproduct |Zetmeel  Totaal suikers (sacharose) Ruw vet |
-|12.04 |Vetzuren |Bijproduct verkregen bij het ontzuren, door middel van loog of door distillatie, van oliën en vetten van onbepaalde plantaardige of dierlijke oorsprong |Ruw vet  Vochtgehalte, wanneer > 1% |
-|12.05 |Vetzuurzouten<sup>2) In de benaming mag het betreffende zout aangegeven worden. </sup> |Product verkregen door vetzuren in zout om is zeven met calciumnatrium- of kaliumhydroxide |Ruw vet  Ca (of Na of K, naar gelang van het geval) |
+| 1  | 2  | 3  | 4  |
+| 12.01  | Bakkerij- en deegwarenproducten en bijproducten  | Product of bijproduct verkregen bij de bereiding van brood, met inbegrip van fijn bakkerswerk, biscuits en deegwaren  | Zetmeel  Totaal suikers (sacharose)  |
+| 12.02  | Producten en bijproducten van de zoetwarenindustrie  | Product of bijproduct verkregen bij de bereiding van suikerwerk, inclusief chocolade  | Totaal suikers (sacharose)  |
+| 12.03  | Product en bijproducten van de banketbakkerij en consumptie-ijs bereiding<sup>1) De benaming moet gewijzigd of aangevuld worden met de vermelding van het levensmiddelenbereidingsprocédé waarmee het voedermiddel verkregen is. </sup>  | Bij de vervaardiging van gebak, taarten of consumptie-ijs verkregen product of bijproduct  | Zetmeel  Totaal suikers (sacharose) Ruw vet  |
+| 12.04  | Vetzuren  | Bijproduct verkregen bij het ontzuren, door middel van loog of door distillatie, van oliën en vetten van onbepaalde plantaardige of dierlijke oorsprong  | Ruw vet  Vochtgehalte, wanneer > 1%  |
+| 12.05  | Vetzuurzouten<sup>2) In de benaming mag het betreffende zout aangegeven worden. </sup>  | Product verkregen door vetzuren in zout om is zeven met calciumnatrium- of kaliumhydroxide  | Ruw vet  Ca (of Na of K, naar gelang van het geval)  |
 
-###Deel C 
+### Deel C  
 
 ####Bepalingen inzake de benaming en vermelding van bepaalde bestanddelen van niet in de lijst opgenomen voedermiddelen
 
-Wanneer voedermiddelen in het verkeer worden gebracht die niet zijn opgenomen in de lijst in deel B van deze bijlage, moeten de in kolom 2 van de onderstaande tabel genoemde bestanddelen worden vermeld overeenkomstig artikel 3:2, lid 1, onder d) van de verordening. Niet in de lijst van deel B opgenomen voedermiddelen moeten worden benoemd overeenkomstig de in deel A.l.1 van deze bijlage vermelde criteria.
+Wanneer voedermiddelen in het verkeer worden gebracht die niet zijn opgenomen in de lijst in deel B van deze bijlage, moeten de in kolom 2 van de onderstaande tabel genoemde bestanddelen worden vermeld overeenkomstig artikel 3:2, lid 1, onder d) van de verordening. Niet in de lijst van deel B opgenomen voedermiddelen moeten worden benoemd overeenkomstig de in deel A.l.1 van deze bijlage vermelde criteria. 
 
-|Voedermiddel uit de volgende categorie |Verplichte vermelding |
+| Voedermiddel uit de volgende categorie  | Verplichte vermelding  |
 |:---|:---|
-|1 |2 |
-|Granen | --- |
-|Van granen afgeleide productenen bijproduct en |Zetmeel indien > 20%  Ruw eiwit, indien > 10%  Ruw vet, indien > 5%  Ruwe celstof |
-|Oliehoudende zaden, oliehoudende vruchten | --- |
-|Van oliehoudende zaden en oliehoudende vruchten afgeleide producten en bijproducten |Ruw eiwit  Ruw vet, indien > 5%  Ruwe celstof |
-|Zaden en peulvruchten | --- |
-|Van zaden van peulvruchten afgeleide producten en bijproducten |Ruw eiwit, indien > 10%  Ruwe celstof |
-|Knollen, wortels | --- |
-|Van knollen en wortels afgeleide producten en bijproducten |Zetmeel Ruwe celstof In HCI onoplosbare as, indien > 3,5% |
-|Overige producten en bijproducten van de suikerbietverwerkende suikerindustrie |Ruwe celstof, indien > 15%  Totaal suikers (sacharose)  In HCI onoplosbare as, indien > 3,5% |
-|Overigezaden en vruchten en daarvan afgeleide producten en bijproducten |Ruw eiwit  Ruwe celstof  Ruw vet, indien > 10% |
-|Voedergewassen en ruwvoedergewassen |Ruw eiwit, indien > 10%  Ruwe celstof |
-|Overige planten en daarvan afgeleide producten en bijproducten |Ruw eiwit, indien > 10%  Ruwe celstof |
-|Productenen bijproducten van de suikerrietverwerkende suikerindustrie |Ruwe celstof, indien> 15% Totaal suikers (saccharose) |
-|Melkproducten en bijproducten |Ruw eiwit  Vochtgehalte, indien > 5%  Lactose, indien > 10% |
-|Producten van landdieren |Ruw eiwit indien > 10%  Ruw vet, indien > 5%  Vochtgehalte, indien > 8% |
-|Vis, andere zeedieren en daarvan afgeleide producten en bijproducten |Ruw eiwit indie n> 10%  Ruw vet, indien > 5%  Vochtgehalte, indien > 8% |
-|Mineralen |Desbetreffende mineralen |
-|Diversen |Ruw eiwit, indien > 10%  Ruwe celstof  Ruw vet, indien > 10%  Zetmeel, indien > 30%  Totaal suikers (sacharose), indien > 10% |
+| 1  | 2  |
+| Granen  | --- |
+| Van granen afgeleide productenen bijproduct en  | Zetmeel indien > 20%  Ruw eiwit, indien > 10%  Ruw vet, indien > 5%  Ruwe celstof  |
+| Oliehoudende zaden, oliehoudende vruchten  | --- |
+| Van oliehoudende zaden en oliehoudende vruchten afgeleide producten en bijproducten  | Ruw eiwit  Ruw vet, indien > 5%  Ruwe celstof  |
+| Zaden en peulvruchten  | --- |
+| Van zaden van peulvruchten afgeleide producten en bijproducten  | Ruw eiwit, indien > 10%  Ruwe celstof  |
+| Knollen, wortels  | --- |
+| Van knollen en wortels afgeleide producten en bijproducten  | Zetmeel Ruwe celstof In HCI onoplosbare as, indien > 3,5%  |
+| Overige producten en bijproducten van de suikerbietverwerkende suikerindustrie  | Ruwe celstof, indien > 15%  Totaal suikers (sacharose)  In HCI onoplosbare as, indien > 3,5%  |
+| Overigezaden en vruchten en daarvan afgeleide producten en bijproducten  | Ruw eiwit  Ruwe celstof  Ruw vet, indien > 10%  |
+| Voedergewassen en ruwvoedergewassen  | Ruw eiwit, indien > 10%  Ruwe celstof  |
+| Overige planten en daarvan afgeleide producten en bijproducten  | Ruw eiwit, indien > 10%  Ruwe celstof  |
+| Productenen bijproducten van de suikerrietverwerkende suikerindustrie  | Ruwe celstof, indien> 15% Totaal suikers (saccharose)  |
+| Melkproducten en bijproducten  | Ruw eiwit  Vochtgehalte, indien > 5%  Lactose, indien > 10%  |
+| Producten van landdieren  | Ruw eiwit indien > 10%  Ruw vet, indien > 5%  Vochtgehalte, indien > 8%  |
+| Vis, andere zeedieren en daarvan afgeleide producten en bijproducten  | Ruw eiwit indie n> 10%  Ruw vet, indien > 5%  Vochtgehalte, indien > 8%  |
+| Mineralen  | Desbetreffende mineralen  |
+| Diversen  | Ruw eiwit, indien > 10%  Ruwe celstof  Ruw vet, indien > 10%  Zetmeel, indien > 30%  Totaal suikers (sacharose), indien > 10%  |
 
 ###Bijlage III 
 
@@ -1500,313 +1500,313 @@ Wanneer voedermiddelen in het verkeer worden gebracht die niet zijn opgenomen in
 | --- |4.1.2 Calciumzout van het hydroxy- analoog van methionine |[CH3-S-(CH2)2-CH(OH)-COO]2Ca |- |Monomeerzuur Min. 83% Calcium: Min. 12% |
 | --- |4.1.3 isopropylester van de hydroxyanaloog van methionine. |CH<sub>3</sub>-S-(CH<sub>2</sub>)<sub>2</sub>-CH(OH)-COO-CH-(CH<sub>3</sub>)<sub>2</sub> |- |- Monomere esters: minstens 90% - Vocht: hoogstens 1% |Melkkoeien |Verplichte vermelding op het etiket of de verpakking van het product - Isopropylester van 2-hydroxy-4-methylthiobutaanzuur   Verplichte vermeldingen op het etiket of de verpakking van het mengvoeder: - Methionine-analoog: isopropylester van 2-hydroxy-4-methylthiobutaanzuur  - Procentueel aandeel van het methionine-analoog in het voeder   |
 
-###Bijlage IV 
+### Bijlage  IV  
 
 ####bij Hoofdstuk 5 , Toevoegingsmiddelen
 
-###1 
+### 1  
 
 ####Vergunningverlening
 
-Voor een toevoegingsmiddel wordt slechts een communautaire vergunning afgegeven voor zover het:
+Voor een toevoegingsmiddel wordt slechts een communautaire vergunning afgegeven voor zover het: 
 
-a)bij gebruik in diervoeders één of meer van de in artikel 2, onder a), bedoelde gevolgen heeft, zoals gesteld in de definitie van "toevoegingsmiddel";
+a) bij gebruik in diervoeders één of meer van de in artikel 2, onder a), bedoelde gevolgen heeft, zoals gesteld in de definitie van "toevoegingsmiddel";  
 
-b)gelet op de gebruiksvoorwaarden geen ongunstige gevolgen heeft voor de gezondheid van mens of dier of voor het milieu, en de verbruiker niet schaadt doordat het de eigenschappen van de dierlijke producten wijzigt;
+b) gelet op de gebruiksvoorwaarden geen ongunstige gevolgen heeft voor de gezondheid van mens of dier of voor het milieu, en de verbruiker niet schaadt doordat het de eigenschappen van de dierlijke producten wijzigt;  
 
-c)controleerbaar is:
+c) controleerbaar is: 
 
-als toevoegingsmiddel zelf,
+als toevoegingsmiddel zelf,  
 
-in de voormengsels,
+in de voormengsels,  
 
-in de diervoeders, of, in voorkomend geval, in de voedermiddelen;
+in de diervoeders, of, in voorkomend geval, in de voedermiddelen;    
 
-d)bij het toegestane gehalte niet kan dienen voor het genezen of voorkomen van dierziekten; dit geldt niet voor toevoegingsmiddelen van de groep "coccidiostatica en andere geneeskrachtige stoffen";
+d) bij het toegestane gehalte niet kan dienen voor het genezen of voorkomen van dierziekten; dit geldt niet voor toevoegingsmiddelen van de groep "coccidiostatica en andere geneeskrachtige stoffen";  
 
-e)om gegronde redenen in verband met de gezondheid van mens of dier, niet moet worden gereserveerd voor medisch of diergeneeskundig gebruik.
+e) om gegronde redenen in verband met de gezondheid van mens of dier, niet moet worden gereserveerd voor medisch of diergeneeskundig gebruik.   
 
-###2 
+### 2  
 
 ####Rapporteurschap
 
-2.1Teneinde de communautaire vergunning voor een stof of een bereiding als toevoegingsmiddel te verkrijgen of, wanneer het een reeds toegelaten toevoegingsmiddel betreft, voor elke nieuwe vorm van gebruik daarvan, kiest de aanvrager van de vergunning een lidstaat uit om gedurende de onderzoeksprocedure inzake het dossier dat hij overeenkomstig het bepaalde in Richtlijn 87/153/EEG van de Raad van 16 februari 1987 tot vaststelling van richtsnoeren voor de beoordeling van toevoegingsmiddelen in diervoeding heeft samengesteld, te rapporteren. In een derde land gevestigde aanvragers moeten een vertegenwoordiger in de Gemeenschap hebben.
+2.1 Teneinde de communautaire vergunning voor een stof of een bereiding als toevoegingsmiddel te verkrijgen of, wanneer het een reeds toegelaten toevoegingsmiddel betreft, voor elke nieuwe vorm van gebruik daarvan, kiest de aanvrager van de vergunning een lidstaat uit om gedurende de onderzoeksprocedure inzake het dossier dat hij overeenkomstig het bepaalde in Richtlijn 87/153/EEG van de Raad van 16 februari 1987 tot vaststelling van richtsnoeren voor de beoordeling van toevoegingsmiddelen in diervoeding heeft samengesteld, te rapporteren. In een derde land gevestigde aanvragers moeten een vertegenwoordiger in de Gemeenschap hebben.  
 
-2.2De rapporterende lidstaat onderzoekt of:
+2.2 De rapporterende lidstaat onderzoekt of: 
 
-a.het dossier is samengesteld overeenkomstig het bepaalde in Richtlijn 87/153/EEG;
+a. het dossier is samengesteld overeenkomstig het bepaalde in Richtlijn 87/153/EEG;  
 
-b.de stof of de bereiding, op grond van de verstrekte gegevens, lijkt te beantwoorden aan de vastgestelde voorwaarden.
+b. de stof of de bereiding, op grond van de verstrekte gegevens, lijkt te beantwoorden aan de vastgestelde voorwaarden.    
 
-2.3De aanvrager van de communautaire vergunning zendt de Europese Commissie door bemiddeling van de rapporterende lidstaat een aanvraag toe, vergezeld van het dossier, en doet daarvan afschriften toekomen aan de andere lidstaten, die de ontvangst onverwijld bevestigen. Deze toezending geschiedt uiterlijk één jaar na de datum van indiening van het dossier van de aanvrager in de rapporterende lidstaat, tenzij de aanvraag voorlopig of definitief wordt afgewezen. De rapporterende lidstaat stelt de andere lidstaten en de Europese Commissie in kennis van de redenen voor de voorlopige of definitieve afwijzing van het dossier.
+2.3 De aanvrager van de communautaire vergunning zendt de Europese Commissie door bemiddeling van de rapporterende lidstaat een aanvraag toe, vergezeld van het dossier, en doet daarvan afschriften toekomen aan de andere lidstaten, die de ontvangst onverwijld bevestigen. Deze toezending geschiedt uiterlijk één jaar na de datum van indiening van het dossier van de aanvrager in de rapporterende lidstaat, tenzij de aanvraag voorlopig of definitief wordt afgewezen. De rapporterende lidstaat stelt de andere lidstaten en de Europese Commissie in kennis van de redenen voor de voorlopige of definitieve afwijzing van het dossier.  
 
-2.4De lidstaten beschikken over een termijn van 60 dagen te rekenen vanaf de datum waarop het dossier hun is toegezonden, om te onderzoeken of het dossier is samengesteld overeenkomstig het bepaalde in Richtlijn 87/153/EEG en om, in voorkomend geval, hun schriftelijke opmerkingen mee te delen aan de Europese Commissie en aan de andere lidstaten.Indien bij het verstrijken van de genoemde termijn van 60 dagen geen enkel bezwaar is gemaakt, beschikt de vertegenwoordiger van de Europese Commissie over een termijn van 30 dagen om de aanvraag voor een vergunning op de agenda van het Permanent Comité voor diervoeders te plaatsen.
+2.4 De lidstaten beschikken over een termijn van 60 dagen te rekenen vanaf de datum waarop het dossier hun is toegezonden, om te onderzoeken of het dossier is samengesteld overeenkomstig het bepaalde in Richtlijn 87/153/EEG en om, in voorkomend geval, hun schriftelijke opmerkingen mee te delen aan de Europese Commissie en aan de andere lidstaten. Indien bij het verstrijken van de genoemde termijn van 60 dagen geen enkel bezwaar is gemaakt, beschikt de vertegenwoordiger van de Europese Commissie over een termijn van 30 dagen om de aanvraag voor een vergunning op de agenda van het Permanent Comité voor diervoeders te plaatsen.  
 
-2.5Indien na raadpleging van het Permanent Comité voor diervoeders, wordt geoordeeld dat de voorschriften met betrekking tot het indienen van het dossier niet zijn nageleefd, stelt een vertegenwoordiger van de Europese Commissie de aanvrager van de communautaire vergunning voor het in het verkeer brengen en de rapporterende lidstaat daarvan in kennis; in voorkomend geval moet overeenkomstig de leden 2.1, 2.2 en 2.3 een nieuwe aanvraag worden ingediend.
+2.5 Indien na raadpleging van het Permanent Comité voor diervoeders, wordt geoordeeld dat de voorschriften met betrekking tot het indienen van het dossier niet zijn nageleefd, stelt een vertegenwoordiger van de Europese Commissie de aanvrager van de communautaire vergunning voor het in het verkeer brengen en de rapporterende lidstaat daarvan in kennis; in voorkomend geval moet overeenkomstig de leden 2.1, 2.2 en 2.3 een nieuwe aanvraag worden ingediend.  
 
-2.6De Europese Commissie ziet erop toe dat het besluit betreffende de communautaire vergunning om het toevoegingsmiddel in het verkeer te brengen, wordt genomen binnen een termijn van 320 dagen na de datum waarop de vergunningsaanvraag overeenkomstig lid 2.4, tweede alinea, voor een eerste onderzoek op de agenda van het Permanent Comité voor diervoeders is geplaatst. Deze termijn wordt evenwel onderbroken wanneer aanvullende gegevens worden gevraagd aan een lidstaat in het Permanent Comité voor diervoeders of op verzoek van het Wetenschappelijk Comité voor de diervoeding.Indien de aanvraag om een communautaire vergunning voor een toevoegingsmiddel wordt afgewezen of is opgeschort, stelt een vertegenwoordiger van de Europese Commissie degene die de vergunning heeft aangevraagd, alsmede de rapporterende lidstaat in kennis van de redenen waarom de aanvraag is afgewezen of opgeschort.
+2.6 De Europese Commissie ziet erop toe dat het besluit betreffende de communautaire vergunning om het toevoegingsmiddel in het verkeer te brengen, wordt genomen binnen een termijn van 320 dagen na de datum waarop de vergunningsaanvraag overeenkomstig lid 2.4, tweede alinea, voor een eerste onderzoek op de agenda van het Permanent Comité voor diervoeders is geplaatst. Deze termijn wordt evenwel onderbroken wanneer aanvullende gegevens worden gevraagd aan een lidstaat in het Permanent Comité voor diervoeders of op verzoek van het Wetenschappelijk Comité voor de diervoeding. Indien de aanvraag om een communautaire vergunning voor een toevoegingsmiddel wordt afgewezen of is opgeschort, stelt een vertegenwoordiger van de Europese Commissie degene die de vergunning heeft aangevraagd, alsmede de rapporterende lidstaat in kennis van de redenen waarom de aanvraag is afgewezen of opgeschort.   
 
-###3 
+### 3  
 
 #### Retributie
 
-3.1.De rapporterende lidstaat kan een retributie heffen, naar gelang van de groepen toevoegingsmiddelen en de aard van de aangevraagde communautaire vergunning, voor het onderzoek van de dossiers die worden ingediend bedoelde verplichtingen. Deze retributie moet worden betaald op het ogenblik dat het dossier wordt ingediend.
+3.1. De rapporterende lidstaat kan een retributie heffen, naar gelang van de groepen toevoegingsmiddelen en de aard van de aangevraagde communautaire vergunning, voor het onderzoek van de dossiers die worden ingediend bedoelde verplichtingen. Deze retributie moet worden betaald op het ogenblik dat het dossier wordt ingediend.  
 
-3.2.De Raad stelt, op voorstel van de Europese Commissie en met gekwalificeerde meerderheid van stemmen, vóór 1 oktober 1999 het bedrag van de in lid 1 bedoelde retributie vast.
+3.2. De Raad stelt, op voorstel van de Europese Commissie en met gekwalificeerde meerderheid van stemmen, vóór 1 oktober 1999 het bedrag van de in lid 1 bedoelde retributie vast.   
 
-###4 
+### 4  
 
 #### Vertrouwelijkheid van dossiers
 
-4.1.De lidstaten en de Europese Commissie zien erop toe dat de gegevens waarvan de bekendmaking een schending zou kunnen betekenen van het industriële- en het commerciële eigendomsrecht, vertrouwelijk worden behandeld.
+4.1. De lidstaten en de Europese Commissie zien erop toe dat de gegevens waarvan de bekendmaking een schending zou kunnen betekenen van het industriële- en het commerciële eigendomsrecht, vertrouwelijk worden behandeld.  
 
-4.2.Er kan geen aanspraak worden gemaakt op vertrouwelijke behandeling voor:
+4.2. Er kan geen aanspraak worden gemaakt op vertrouwelijke behandeling voor: 
 
-de benamingen en de samenstelling van het toevoegingsmiddel,
+de benamingen en de samenstelling van het toevoegingsmiddel,  
 
-de fysisch-chemische en biologische eigenschappen van het toevoegingsmiddel,
+de fysisch-chemische en biologische eigenschappen van het toevoegingsmiddel,  
 
-de interpretatie van de farmacologische, toxicologische en ecotoxicologische gegevens van het toevoegingsmiddel,
+de interpretatie van de farmacologische, toxicologische en ecotoxicologische gegevens van het toevoegingsmiddel,  
 
-de analysemethoden voor de controle van het toevoegingsmiddel zelf, van het toevoegingsmiddel in de voormengsels en in de voeders, en in voorkomend geval in de voedermiddelen,
+de analysemethoden voor de controle van het toevoegingsmiddel zelf, van het toevoegingsmiddel in de voormengsels en in de voeders, en in voorkomend geval in de voedermiddelen,  
 
-de methoden voor de controle op residuen van het toevoegingsmiddel of metabolieten daarvan in dierlijke producten.
+de methoden voor de controle op residuen van het toevoegingsmiddel of metabolieten daarvan in dierlijke producten.     
 
-###5 
+### 5  
 
 ####Nadere bepalingen i.v.m. GMO
 
-Indien een toevoegingsmiddel bestaat uit genetisch gemodificeerde organismen of dergelijke organismen bevat in de zin van artikel 2, punten 1 en 2, van Richtlijn 90/220/EEG van de Raad van 23 april 1990 inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu, wordt er eenzelfde specifieke milieurisicobeoordeling uitgevoerd als bedoeld in genoemde richtlijn; daartoe moeten de volgende documenten worden opgenomen in het dossier, om ervoor te zorgen dat de beginselen als bedoeld in paragraaf 1. Vergunningverlening worden nageleefd:
+Indien een toevoegingsmiddel bestaat uit genetisch gemodificeerde organismen of dergelijke organismen bevat in de zin van artikel 2, punten 1 en 2, van Richtlijn 90/220/EEG van de Raad van 23 april 1990 inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu, wordt er eenzelfde specifieke milieurisicobeoordeling uitgevoerd als bedoeld in genoemde richtlijn; daartoe moeten de volgende documenten worden opgenomen in het dossier, om ervoor te zorgen dat de beginselen als bedoeld in paragraaf 1. Vergunningverlening worden nageleefd: 
 
-een kopie van de schriftelijke toestemming(en) van de bevoegde instantie betreffende de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu, voor onderzoeks- en ontwikkelingsdoeleinden, overeenkomstig artikel 6, lid 4, van Richtlijn 90/220/EEG, evenals de resultaten van de introductie(s), rekening houdend met het eventuele risico voor mens en milieu;
+een kopie van de schriftelijke toestemming(en) van de bevoegde instantie betreffende de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu, voor onderzoeks- en ontwikkelingsdoeleinden, overeenkomstig artikel 6, lid 4, van Richtlijn 90/220/EEG, evenals de resultaten van de introductie(s), rekening houdend met het eventuele risico voor mens en milieu;  
 
-het volledige technische dossier met de gegevens die vereist zijn uit hoofde van de bijlagen II en III van Richtlijn 90/220/EEG, alsmede de uit die gegevens resulterende milieurisicobeoordeling; het resultaat van elke voor onderzoeks- of ontwikkelingsdoeleinden verrichte studie.De artikelen 11 tot en met 18 van Richtlijn 90/220/EG zijn niet van toepassing op toevoegingsmiddelen die uit genetisch gemodificeerde organismen bestaan of deze bevatten.
+het volledige technische dossier met de gegevens die vereist zijn uit hoofde van de bijlagen II en III van Richtlijn 90/220/EEG, alsmede de uit die gegevens resulterende milieurisicobeoordeling; het resultaat van elke voor onderzoeks- of ontwikkelingsdoeleinden verrichte studie.   De artikelen 11 tot en met 18 van Richtlijn 90/220/EG zijn niet van toepassing op toevoegingsmiddelen die uit genetisch gemodificeerde organismen bestaan of deze bevatten. 
 
-###6 
+### 6  
 
 ####Taakstelling SCAN (=Wetenschappelijk Comité voor de diervoeding)
 
-6.1.Het bij Besluit 76/791/EEG van de Europese Commissie ingestelde Wetenschappelijk Comité voor de diervoeding heeft tot taak de Europese Commissie, wanneer die daarom verzoekt, bij te staan voor elk wetenschappelijk vraagstuk met betrekking tot de toevoegingsmiddelen die in diervoeding worden gebruikt.
+6.1. Het bij Besluit 76/791/EEG van de Europese Commissie ingestelde Wetenschappelijk Comité voor de diervoeding heeft tot taak de Europese Commissie, wanneer die daarom verzoekt, bij te staan voor elk wetenschappelijk vraagstuk met betrekking tot de toevoegingsmiddelen die in diervoeding worden gebruikt.  
 
-6.2.De rapporterende lidstaat zorgt ervoor dat het in artikel 4 bedoelde dossier geheel of gedeeltelijk officieel aan de leden van het wetenschappelijk Comité voor de diervoeding wordt toegezonden wanneer de Europese Commissie daarom verzoekt.
+6.2. De rapporterende lidstaat zorgt ervoor dat het in artikel 4 bedoelde dossier geheel of gedeeltelijk officieel aan de leden van het wetenschappelijk Comité voor de diervoeding wordt toegezonden wanneer de Europese Commissie daarom verzoekt.   
 
-###7 
+### 7  
 
 ####Regeling van toepassing op vergunningen voor toevoegingsmiddelen die met een persoonsgebonden vergunning in het verkeer worden gebracht
 
-###7A 
+### 7A  
 
 ####Vergunning voor tien jaar
 
-De A, D en J toevoegingsmiddelen die voldoen aart de voorwaarden zoals vermeld onder paragraaf 1. vergunningverlening, worden toegelaten en opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST 1).
+De A, D en J toevoegingsmiddelen die voldoen aart de voorwaarden zoals vermeld onder paragraaf 1. vergunningverlening, worden toegelaten en opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST 1). 
 
-###7B 
+### 7B  
 
 ####Voorlopige vergunning voor maximaal vier jaar
 
-7B.1Wat de A, D en J toevoegingsmiddelen betreft kan er een voorlopige vergunning op communautair niveau worden verleend voor het gebruik van een nieuw toevoegingsmiddel of een nieuw toepassing van een reeds toegelaten toevoegingsmiddel, mits aan de onder b ), c), d) en e) van paragraaf 1. Vergunningverlening vastgestelde voorwaarden wordt voldaan. Deze toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST 2).
+7B.1 Wat de A, D en J toevoegingsmiddelen betreft kan er een voorlopige vergunning op communautair niveau worden verleend voor het gebruik van een nieuw toevoegingsmiddel of een nieuw toepassing van een reeds toegelaten toevoegingsmiddel, mits aan de onder b ), c), d) en e) van paragraaf 1. Vergunningverlening vastgestelde voorwaarden wordt voldaan. Deze toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST 2).  
 
-7B.2De in lid 7B. f bedoelde voorlopige vergunning geldt voor ten hoogste vier jaar, vanaf de datum waarop zij van kracht wordt.
+7B.2 De in lid 7B. f bedoelde voorlopige vergunning geldt voor ten hoogste vier jaar, vanaf de datum waarop zij van kracht wordt.   
 
-###7C 
+### 7C  
 
 ####Verlenging van de vergunning na tien jaar
 
-7C.1De communautaire vergunning voor de A, D en J toevoegingsmiddelen is geldig gedurende tien jaar, te rekenen vanaf de datum waarop de vergunning definitief van kracht wordt, maar de geldigheidsduur kan telkens met tien jaar worden verlengd. Ter verkrijging van een verlenging dient de houder van de vergunning door bemiddeling van de rapporterende lidstaat bij de Europese Commissie een verzoek in, vergezeld van een dossier dat voldoet aan de bij Richtlijn 87/153/EEG voor verlenging van de vergunningen voor toevoegingsmiddelen vast te stellen bepalingen. Dit verzoek en het dossier worden ten minste één jaar vóór de datum waarop de vergunning verstrijkt bij de Europese Commissie ingediend, die de ontvangst ervan zo spoedig mogelijk bevestigt. Een kopie van het verzoek om verlenging, vergezeld van het dossier, wordt door de houder van de vergunning door bemiddeling van de rapporterende lidstaat officieel toegezonden aan de andere lidstaten, die de ontvangst ervan zo spoedig mogelijk bevestigen.
+7C.1 De communautaire vergunning voor de A, D en J toevoegingsmiddelen is geldig gedurende tien jaar, te rekenen vanaf de datum waarop de vergunning definitief van kracht wordt, maar de geldigheidsduur kan telkens met tien jaar worden verlengd. Ter verkrijging van een verlenging dient de houder van de vergunning door bemiddeling van de rapporterende lidstaat bij de Europese Commissie een verzoek in, vergezeld van een dossier dat voldoet aan de bij Richtlijn 87/153/EEG voor verlenging van de vergunningen voor toevoegingsmiddelen vast te stellen bepalingen. Dit verzoek en het dossier worden ten minste één jaar vóór de datum waarop de vergunning verstrijkt bij de Europese Commissie ingediend, die de ontvangst ervan zo spoedig mogelijk bevestigt. Een kopie van het verzoek om verlenging, vergezeld van het dossier, wordt door de houder van de vergunning door bemiddeling van de rapporterende lidstaat officieel toegezonden aan de andere lidstaten, die de ontvangst ervan zo spoedig mogelijk bevestigen.  
 
-7C.2Indien om redenen die niet verwijtbaar zijn aan de houder van de vergunning, geen uitspraak over het verzoek om verlenging kan worden gedaan vóór het verstrijken daarvan, wordt de geldigheidsduur van de vergunning voor het toevoegingsmiddel automatisch verlengd tot het moment waarop de Europese Commissie een uitspraak doet.
+7C.2 Indien om redenen die niet verwijtbaar zijn aan de houder van de vergunning, geen uitspraak over het verzoek om verlenging kan worden gedaan vóór het verstrijken daarvan, wordt de geldigheidsduur van de vergunning voor het toevoegingsmiddel automatisch verlengd tot het moment waarop de Europese Commissie een uitspraak doet.   
 
-###7D 
+### 7D  
 
 ####Bescherming van de gegevens
 
-7D.1Wat A, D en J toevoegingsmiddelen betreft, mogen de wetenschappelijke gegevens en de informatie in het ter verkrijging van de eerste vergunningingediende oorspronkelijke dossier niet ten behoeve van andere aanvragers gebruikt worden gedurende een periode van tien jaar: 
+7D.1 Wat A, D en J toevoegingsmiddelen betreft, mogen de wetenschappelijke gegevens en de informatie in het ter verkrijging van de eerste vergunning ingediende oorspronkelijke dossier niet ten behoeve van andere aanvragers gebruikt worden gedurende een periode van tien jaar:  
 
-a)vanaf de datum waarop de eerste via een verordening verleende vergunning voor de A, D en J toevoegingsmiddelen van kracht wordt, of
+a) vanaf de datum waarop de eerste via een verordening verleende vergunning voor de A, D en J toevoegingsmiddelen van kracht wordt, of  
 
-b)voor de andere toevoegingsmiddelen vanaf de datum waarop de eerste via een verordening verleende vergunning van kracht wordt, of vanaf 1 oktober 1999 indien deze datum eerder valt, tenzij de aanvrager met de houder van de vergunning is overeengekomen dat die gegevens en die informatie wel mogen worden gebruikt.Gedurende deze periode mogen echter vergunningen voor het in het verkeer brengen worden verleend aan andere personen dan diegene die verantwoordelijk is voor het de eerste keer in het verkeer brengen van het toevoegingsmiddel, mits aan de voorwaarden van de paragraaf 1. Vergunningverlening wordt voldaan.
+b) voor de andere toevoegingsmiddelen vanaf de datum waarop de eerste via een verordening verleende vergunning van kracht wordt, of vanaf 1 oktober 1999 indien deze datum eerder valt, tenzij de aanvrager met de houder van de vergunning is overeengekomen dat die gegevens en die informatie wel mogen worden gebruikt.   Gedurende deze periode mogen echter vergunningen voor het in het verkeer brengen worden verleend aan andere personen dan diegene die verantwoordelijk is voor het de eerste keer in het verkeer brengen van het toevoegingsmiddel, mits aan de voorwaarden van de paragraaf 1. Vergunningverlening wordt voldaan.  
 
-7D.2Wanneer over een toevoegingsmiddel waarvoor overeenkomstig paragraaf 7B. Voorlopige vergunning voor maximaal 4 jaar een voorlopige vergunning is afgegeven, aanvullende gegevens worden verstrekt ter verkrijging van een vergunning overeenkomstig paragraaf 1 , worden deze gegevens geacht een integrerend onderdeel uit te maken van het oorspronkelijke dossier, zodat de bescherming van deze gegevens komt te vervallen op hetzelfde tijdstip als die van de gegevens van het oorspronkelijk dossier.
+7D.2 Wanneer over een toevoegingsmiddel waarvoor overeenkomstig paragraaf 7B. Voorlopige vergunning voor maximaal 4 jaar een voorlopige vergunning is afgegeven, aanvullende gegevens worden verstrekt ter verkrijging van een vergunning overeenkomstig paragraaf 1 , worden deze gegevens geacht een integrerend onderdeel uit te maken van het oorspronkelijke dossier, zodat de bescherming van deze gegevens komt te vervallen op hetzelfde tijdstip als die van de gegevens van het oorspronkelijk dossier.  
 
-7D.3Na het verstrijken van de termijn van tien jaar van lid 7D.1, mag de Europese Commissie of een lidstaat de resultaten van de evaluatie aan de hand van de wetenschappelijke gegevens en de informatie in het dossier waarop de vergunning voor het toevoegingsmiddel berust, geheel of gedeeltelijk gebruiken ten behoeve van een andere aanvrager van een vergunning voor het al toegelaten toevoegingsmiddel.In dat geval zendt de nieuwe aanvrager via een rapporterende lidstaat een aanvraag, vergezeld van een dossier dat beantwoordt aan de in dit verband in Richtlijn 87/153/EEG vast te stellen bepalingen, aan de Europese Commissie, die de ontvangst ervan zo spoedig mogelijk bevestigt. Een afschrift van aanvraag en dossier wordt door de nieuwe aanvrager via een rapporterende lidstaat officieel toegezonden aan de andere lidstaten die de ontvangst ervan zo spoedig mogelijk bevestigen.
+7D.3 Na het verstrijken van de termijn van tien jaar van lid 7D.1, mag de Europese Commissie of een lidstaat de resultaten van de evaluatie aan de hand van de wetenschappelijke gegevens en de informatie in het dossier waarop de vergunning voor het toevoegingsmiddel berust, geheel of gedeeltelijk gebruiken ten behoeve van een andere aanvrager van een vergunning voor het al toegelaten toevoegingsmiddel. In dat geval zendt de nieuwe aanvrager via een rapporterende lidstaat een aanvraag, vergezeld van een dossier dat beantwoordt aan de in dit verband in Richtlijn 87/153/EEG vast te stellen bepalingen, aan de Europese Commissie, die de ontvangst ervan zo spoedig mogelijk bevestigt. Een afschrift van aanvraag en dossier wordt door de nieuwe aanvrager via een rapporterende lidstaat officieel toegezonden aan de andere lidstaten die de ontvangst ervan zo spoedig mogelijk bevestigen.  
 
-7D.4De bepalingen van lid 7D.3 zijn eveneens van toepassing voor het gebruik van de gegevens van een dossier betreffende een toevoegingsmiddel waarvoor de vergunning, op verzoek van de houder van deze vergunning, is ingetrokken.
+7D.4 De bepalingen van lid 7D.3 zijn eveneens van toepassing voor het gebruik van de gegevens van een dossier betreffende een toevoegingsmiddel waarvoor de vergunning, op verzoek van de houder van deze vergunning, is ingetrokken.  
 
-7D.5De aanvullende wetenschappelijke gegevens en informatie die nodig zijn om de voorwaarden voor de inschrijving van het toevoegingsmiddel te wijzigen of om de vergunning overeenkomstig paragraaf 7C lid 1 te verlengen, of elk nieuw wetenschappelijk gegeven of informatie die verstrekt is tijdens de periode waarvoor de vergunning voor het toevoegingsmiddel is verleend, mogen de eerste vijf jaar vanaf de datum waarop de vergunning voor een nieuwe vorm van gebruik, of voor verlenging, van kracht wordt, of waarop de nieuwe wetenschappelijke gegevens of informatie zijn ingediend, niet door de Europese Commissie of een lidstaat ten behoeve van een andere aanvrager worden gebruikt.Indien de periode voor de bescherming van de gegevens die is toegekend als gevolg van een wijziging van de inschrijvingsvoorwaarden van een toevoegingsmiddel, vóór het einde van de in lid 7D.1 bedoelde periode verstrijkt, wordt bovenbedoelde periode van vijf jaar verlengd zodat het einde van beide periodes samenvalt.
+7D.5 De aanvullende wetenschappelijke gegevens en informatie die nodig zijn om de voorwaarden voor de inschrijving van het toevoegingsmiddel te wijzigen of om de vergunning overeenkomstig paragraaf 7C lid 1 te verlengen, of elk nieuw wetenschappelijk gegeven of informatie die verstrekt is tijdens de periode waarvoor de vergunning voor het toevoegingsmiddel is verleend, mogen de eerste vijf jaar vanaf de datum waarop de vergunning voor een nieuwe vorm van gebruik, of voor verlenging, van kracht wordt, of waarop de nieuwe wetenschappelijke gegevens of informatie zijn ingediend, niet door de Europese Commissie of een lidstaat ten behoeve van een andere aanvrager worden gebruikt. Indien de periode voor de bescherming van de gegevens die is toegekend als gevolg van een wijziging van de inschrijvingsvoorwaarden van een toevoegingsmiddel, vóór het einde van de in lid 7D.1 bedoelde periode verstrijkt, wordt bovenbedoelde periode van vijf jaar verlengd zodat het einde van beide periodes samenvalt.  
 
-7D.6Onverminderd lid 7D.1 moet de aanvrager van een vergunning voor een A, D en J toevoegingsmiddel alvorens toxicologische proeven op gewervelde dieren uit te voeren, nagaan of voor het product of de werkzame stof daarin niet reeds een vergunning is afgegeven. Zo nodig informeert hij bij de bevoegde instanties van een lidstaat of het om hetzelfde product of dezelfde werkzame stof gaat als waarvoor reeds vergunning is verleend.Indien het een reeds toegelaten product of werkzame stof betreft, nemen de aanvrager en de eerdere vergunninghouder(s) de nodige stappen om tot een vergelijk over een gezamenlijk gebruik van de informatie te komen, zodat een herhaling van toxicologische proeven op gewervelde dieren wordt voorkomen.Indien niettemin de aanvrager en de houder(s) van eerdere vergunningen van hetzelfde product niet tot een vergelijk over de verdeling van de informatie komen, kunnen de lidstaten nationale maatregelen nemen waarbij de aanvrager en de eerdere vergunninghouder(s) die op hun grondgebied zijn gevestigd, worden verplicht de informatie te delen, ter vermijding van herhaling van toxicologische proeven op gewervelde dieren op hun grondgebied; de lidstaten stellen ook de voorwaarden voor het gebruik van de informatie vast waarbij zij met de belangen van de betrokkenen rekening houden.
+7D.6 Onverminderd lid 7D.1 moet de aanvrager van een vergunning voor een A, D en J toevoegingsmiddel alvorens toxicologische proeven op gewervelde dieren uit te voeren, nagaan of voor het product of de werkzame stof daarin niet reeds een vergunning is afgegeven. Zo nodig informeert hij bij de bevoegde instanties van een lidstaat of het om hetzelfde product of dezelfde werkzame stof gaat als waarvoor reeds vergunning is verleend. Indien het een reeds toegelaten product of werkzame stof betreft, nemen de aanvrager en de eerdere vergunninghouder(s) de nodige stappen om tot een vergelijk over een gezamenlijk gebruik van de informatie te komen, zodat een herhaling van toxicologische proeven op gewervelde dieren wordt voorkomen. Indien niettemin de aanvrager en de houder(s) van eerdere vergunningen van hetzelfde product niet tot een vergelijk over de verdeling van de informatie komen, kunnen de lidstaten nationale maatregelen nemen waarbij de aanvrager en de eerdere vergunninghouder(s) die op hun grondgebied zijn gevestigd, worden verplicht de informatie te delen, ter vermijding van herhaling van toxicologische proeven op gewervelde dieren op hun grondgebied; de lidstaten stellen ook de voorwaarden voor het gebruik van de informatie vast waarbij zij met de belangen van de betrokkenen rekening houden.   
 
-###8 
+### 8  
 
 ####Regeling van toepassing op de vergunning voor de overige toevoegingsmiddelen
 
-###8A 
+### 8A  
 
 ####Vergunning zonder tijdsbeperking
 
-8A.1De "niet A, D en J" toevoegingsmiddelen die voldoen aan de in paragraaf 1. Vergunningverlening genoemde voorwaarden, worden toegelaten en opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST III). 
+8A.1 De "niet A, D en J" toevoegingsmiddelen die voldoen aan de in paragraaf 1. Vergunningverlening genoemde voorwaarden, worden toegelaten en opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST III).   
 
-8A.2De "niet A, D en J" toevoegingsmiddelen die vóór 1 april 1998 in bijlage II zijn opgenomen, worden toegelaten en opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST III). 
+8A.2 De "niet A, D en J" toevoegingsmiddelen die vóór 1 april 1998 in bijlage II zijn opgenomen, worden toegelaten en opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST III).    
 
-###8B 
+### 8B  
 
 ####Voorlopige Vergunning voor maximaal vier af vijf jaar
 
-8B.1Wat de "niet A, D en J" toevoegingsmiddelen betreft, kan er een voorlopige vergunning op communautair niveau worden verleend voor het gebruik van een nieuw toevoegingsmiddel of een nieuwe toepassing van een reeds toegelaten toevoegingsmiddel, mits aan de onder b), c), d) en e) van paragraaf 1. Vergunningverlening vastgestelde voorwaarden wordt voldaan en mag worden aan-genomen dat ook aan de onder a) van paragraaf 1. Vergunningverlening vastgestelde voorwaarde is voldaan. Deze toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST IV). 
+8B.1 Wat de "niet A, D en J" toevoegingsmiddelen betreft, kan er een voorlopige vergunning op communautair niveau worden verleend voor het gebruik van een nieuw toevoegingsmiddel of een nieuwe toepassing van een reeds toegelaten toevoegingsmiddel, mits aan de onder b), c), d) en e) van paragraaf 1. Vergunningverlening vastgestelde voorwaarden wordt voldaan en mag worden aan-genomen dat ook aan de onder a) van paragraaf 1. Vergunningverlening vastgestelde voorwaarde is voldaan. Deze toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST IV).   
 
-8B.2De in lid 8B.1 bedoelde voorlopige vergunning geldt voor ten hoogste vier jaar, vanaf de datum waarop zij van kracht wordt.
+8B.2 De in lid 8B.1 bedoelde voorlopige vergunning geldt voor ten hoogste vier jaar, vanaf de datum waarop zij van kracht wordt.  
 
-8B.3De "niet A, D en J" toevoegingsmiddelen, die vóór 1 april 1998 in bijlage II zijn opgenomen kunnen in aanmerking blijven komen voor nationale voorlopige ver- gunningen; zij worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST IV). De duur van de voorlopige vergunning voor deze toevoegingsmiddelen mag niet langer zijn dan vijf jaar, met inachtneming van de hierboven bedoelde periode van opneming in bijlage II. 
+8B.3 De "niet A, D en J" toevoegingsmiddelen, die vóór 1 april 1998 in bijlage II zijn opgenomen kunnen in aanmerking blijven komen voor nationale voorlopige ver- gunningen; zij worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST IV). De duur van de voorlopige vergunning voor deze toevoegingsmiddelen mag niet langer zijn dan vijf jaar, met inachtneming van de hierboven bedoelde periode van opneming in bijlage II.    
 
-###9 
+### 9  
 
 ####Voorlopige regeling van toepassing op vergunningen voor toevoegingsmiddelen die met een persoonsgebonden vergunning in het verkeer worden gebracht
 
-In afwijking van artikel 5:1:1. lid 1 staan de lidstaten toe dat de toevoegingsmiddelen die opgenomen zijn op de door de Europese Commissie opgestelde lijsten (LIJST I , II, III IV) in het verkeer worden gebracht.
+In afwijking van artikel 5:1:1. lid 1 staan de lidstaten toe dat de toevoegingsmiddelen die opgenomen zijn op de door de Europese Commissie opgestelde lijsten (LIJST I , II, III IV) in het verkeer worden gebracht. 
 
-###10 
+### 10  
 
 ####Toevoegingsmiddelen in bijlage I voor 1 januari 1988
 
-10.1De A, D en J toevoegingsmiddelen die vóór 1 januari 1988 in bijlage I zijn opgenomen, worden vanaf 1 april 1998 voorlopig toegelaten en naar de hiertoe door de Europese Commissie opgestelde lijst (LIJST I), overgebracht om opnieuw te worden geëvalueerd als toevoegingsmiddel waarvoor een persoonsgebonden vergunning wordt afgegeven aan diegene die verantwoordelijk is voor het in het verkeer brengen.
+10.1 De A, D en J toevoegingsmiddelen die vóór 1 januari 1988 in bijlage I zijn opgenomen, worden vanaf 1 april 1998 voorlopig toegelaten en naar de hiertoe door de Europese Commissie opgestelde lijst (LIJST I), overgebracht om opnieuw te worden geëvalueerd als toevoegingsmiddel waarvoor een persoonsgebonden vergunning wordt afgegeven aan diegene die verantwoordelijk is voor het in het verkeer brengen.  
 
-10.2Met het oog op de nieuwe evaluatie moet voor de in lid 10.1 bedoelde toevoegingsmiddelen vóór 1 oktober 1998 een nieuwe vergunning worden aangevraagd. Deze aanvraag moet door de verantwoordelijke van het dossier op basis van de oude vergunning of door zijn rechthebbende(n), te zamen met de monografie, respectievelijk het signalement, via de rapporterende lidstaat bij de Europese Commissie worden ingediend; een afschrift wordt toegezonden aan de andere lidstaten, die de ontvangst ervan bevestigen.
+10.2 Met het oog op de nieuwe evaluatie moet voor de in lid 10.1 bedoelde toevoegingsmiddelen vóór 1 oktober 1998 een nieuwe vergunning worden aangevraagd. Deze aanvraag moet door de verantwoordelijke van het dossier op basis van de oude vergunning of door zijn rechthebbende(n), te zamen met de monografie, respectievelijk het signalement, via de rapporterende lidstaat bij de Europese Commissie worden ingediend; een afschrift wordt toegezonden aan de andere lidstaten, die de ontvangst ervan bevestigen.  
 
-10.3Overeenkomstig de hiertoe door de Europese Commissie vastgestelde procedure wordt de voorlopige vergunning voor het toevoegingsmiddel bij verordening ingetrokken en de vermelding ervan in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I), vóór 1 oktober 1999 geschrapt:
+10.3 Overeenkomstig de hiertoe door de Europese Commissie vastgestelde procedure wordt de voorlopige vergunning voor het toevoegingsmiddel bij verordening ingetrokken en de vermelding ervan in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I), vóór 1 oktober 1999 geschrapt: 
 
-a)indien de in lid 10.2 vereiste documenten niet binnen de gestelde termijn zijn toegezonden, of
+a) indien de in lid 10.2 vereiste documenten niet binnen de gestelde termijn zijn toegezonden, of  
 
-b)indien na verificatie van de documenten blijkt dat de monografie of het signalement niet in overeenstemming zijn met de gegevens van het dossier op basis waarvan de oorspronkelijke vergunning is verleend.
+b) indien na verificatie van de documenten blijkt dat de monografie of het signalement niet in overeenstemming zijn met de gegevens van het dossier op basis waarvan de oorspronkelijke vergunning is verleend.    
 
-10.4De lidstaten zien erop toe dat de persoon die verantwoordelijk is voor het in het verkeer brengen van een in lid 10.1 bedoeld toevoegingsmiddel, uiterlijk op 30 september 2000, overeenkomstig paragraaf 2. Rapporteurschap, het dossier indient met het oog op een nieuwe evaluatie. Wanneer geen dossier wordt ingediend, wordt de vergunning voor het betrokken toevoegingsmiddel bij verordening, overeenkomstig de hiertoe door de Europese Commissie vastgestelde procedure ingetrokken en wordt de vermelding ervan in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I), geschrapt.
+10.4 De lidstaten zien erop toe dat de persoon die verantwoordelijk is voor het in het verkeer brengen van een in lid 10.1 bedoeld toevoegingsmiddel, uiterlijk op 30 september 2000, overeenkomstig paragraaf 2. Rapporteurschap, het dossier indient met het oog op een nieuwe evaluatie. Wanneer geen dossier wordt ingediend, wordt de vergunning voor het betrokken toevoegingsmiddel bij verordening, overeenkomstig de hiertoe door de Europese Commissie vastgestelde procedure ingetrokken en wordt de vermelding ervan in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I), geschrapt.  
 
-10.5De Europese Commissie doet al het nodige om te bereiken dat de nieuwe evaluatie van de in lid 10.4 bedoelde dossiers uiterlijk drie jaar na de datum waarop het dossier is ingediend, is voltooid. Volgens de door de Europese Commissie vastgestelde procedure van worden de vergunningen voor de in lid 10.1 bedoelde toevoegingsmiddelen:
+10.5 De Europese Commissie doet al het nodige om te bereiken dat de nieuwe evaluatie van de in lid 10.4 bedoelde dossiers uiterlijk drie jaar na de datum waarop het dossier is ingediend, is voltooid. Volgens de door de Europese Commissie vastgestelde procedure van worden de vergunningen voor de in lid 10.1 bedoelde toevoegingsmiddelen: 
 
-a)ingetrokken en worden de vermeldingen de hiertoe door de Europese Commissie opgestelde lijst (LIJST I) bij verordening geschrapt, of
+a) ingetrokken en worden de vermeldingen de hiertoe door de Europese Commissie opgestelde lijst (LIJST I) bij verordening geschrapt, of  
 
-b)voor een periode van tien jaar bij verordening die uiterlijk op 1 oktober 2003 van kracht wordt, vervangen door persoonsgebonden vergunningen en de toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I).
+b) voor een periode van tien jaar bij verordening die uiterlijk op 1 oktober 2003 van kracht wordt, vervangen door persoonsgebonden vergunningen en de toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I).     
 
-###11 
+### 11  
 
 ####Toevoegingsmiddelen in bijlage I voor 1 april 1998
 
-11.1De A, D en J toevoegingsmiddelen die na 31 december 1987 in bijlage I zijn opgenomen, worden vanaf 1 april 1998 voorlopig toegelaten en naar de hiertoe door de Europese Commissie opgestelde lijst (LIJST II), overgebracht met het oog op de toelating ervan voor een periode van tien jaar als toevoegingsmiddel dat met een persoonsgebonden vergunning in het verkeer wordt gebracht, overeenkomstig de bepalingen van de leden 11.2 en 11.3.
+11.1 De A, D en J toevoegingsmiddelen die na 31 december 1987 in bijlage I zijn opgenomen, worden vanaf 1 april 1998 voorlopig toegelaten en naar de hiertoe door de Europese Commissie opgestelde lijst (LIJST II), overgebracht met het oog op de toelating ervan voor een periode van tien jaar als toevoegingsmiddel dat met een persoonsgebonden vergunning in het verkeer wordt gebracht, overeenkomstig de bepalingen van de leden 11.2 en 11.3.  
 
-11.2Voor de in lid 11.1 bedoelde toevoegingsmiddelen moet vóór 1 oktober 1998 een nieuwe vergunning worden aangevraagd. Deze aanvraag moet door de verantwoordelijke van het dossier op basis van de oude vergunning of door zijn rechthebbende(n), te zamen met de monografie, respectievelijk het signalement, via de rapporterende lidstaat bij de Commissie worden ingediend; een afschrift wordt toegezonden aan de andere lidstaten, die de ontvangst ervan bevestigen.
+11.2 Voor de in lid 11.1 bedoelde toevoegingsmiddelen moet vóór 1 oktober 1998 een nieuwe vergunning worden aangevraagd. Deze aanvraag moet door de verantwoordelijke van het dossier op basis van de oude vergunning of door zijn rechthebbende(n), te zamen met de monografie, respectievelijk het signalement, via de rapporterende lidstaat bij de Commissie worden ingediend; een afschrift wordt toegezonden aan de andere lidstaten, die de ontvangst ervan bevestigen.  
 
-11.3De voorlopige vergunningen voor de in lid 11.1 bedoelde toevoegingsmiddelen worden:
+11.3 De voorlopige vergunningen voor de in lid 11.1 bedoelde toevoegingsmiddelen worden: 
 
-a)ingetrokken en de vermeldingen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST II), worden bij verordening geschrapt, indien de volgens lid 11.2 vereiste documenten niet binnen de gestelde termijn zijn toegezonden of indien, na verificatie van deze documenten, blijkt dat de monografie of het signalement niet overeenstemmen met de gegevens in het dossier op basis waarvan de oorspronkelijke vergunning werd verleend, of
+a) ingetrokken en de vermeldingen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST II), worden bij verordening geschrapt, indien de volgens lid 11.2 vereiste documenten niet binnen de gestelde termijn zijn toegezonden of indien, na verificatie van deze documenten, blijkt dat de monografie of het signalement niet overeenstemmen met de gegevens in het dossier op basis waarvan de oorspronkelijke vergunning werd verleend, of  
 
-b)bij een verordening die uiterlijk op 1 oktober 1999 van kracht wordt, vervangen door persoonsgebonden vergunningen die voor een periode van tien jaar worden verleend, en de toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I).
+b) bij een verordening die uiterlijk op 1 oktober 1999 van kracht wordt, vervangen door persoonsgebonden vergunningen die voor een periode van tien jaar worden verleend, en de toevoegingsmiddelen worden opgenomen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST I).     
 
-###12 
+### 12  
 
 ####Toevoegingsmiddelen in bijlage II  voor 1 april 1998
 
-12.1Voor de A, D en J toevoegingsmiddelen die vóór 1 april 1998 in bijlage II zijn opgenomen, mag de voorlopige nationale vergunning blijven gelden; deze toevoegingsmiddelen worden naar de hiertoe door de Europese Commissie opgestelde lijst (LIJST III), overgebracht met het oog op de toelating ervan als toevoegingsmiddel dat met een persoonsgebonden vergunning in het verkeer wordt gebracht. De geldigheidsduur van de voorlopige vergunning van deze toevoegingsmiddelen mag de vijf jaar niet overschrijden, rekening houdend met de periode van opname in bijlage II. 
+12.1 Voor de A, D en J toevoegingsmiddelen die vóór 1 april 1998 in bijlage II zijn opgenomen, mag de voorlopige nationale vergunning blijven gelden; deze toevoegingsmiddelen worden naar de hiertoe door de Europese Commissie opgestelde lijst (LIJST III), overgebracht met het oog op de toelating ervan als toevoegingsmiddel dat met een persoonsgebonden vergunning in het verkeer wordt gebracht. De geldigheidsduur van de voorlopige vergunning van deze toevoegingsmiddelen mag de vijf jaar niet overschrijden, rekening houdend met de periode van opname in bijlage II.   
 
-12.2Voor de in lid 12.1 bedoelde toevoegingsmiddelen moet vóór 1 oktober 1998 een nieuwe vergunning worden aangevraagd. Deze aanvraag moet door de verantwoordelijke van het dossier op basis van de oude vergunning of door zijn rechthebbende(n), te zamen met de monografie, respectievelijk het signalement, via de rapporterende lidstaat bij de Commissie worden ingediend; een afschrift wordt toegezonden aan de andere lidstaten, die de ontvangst ervan bevestigen.
+12.2 Voor de in lid 12.1 bedoelde toevoegingsmiddelen moet vóór 1 oktober 1998 een nieuwe vergunning worden aangevraagd. Deze aanvraag moet door de verantwoordelijke van het dossier op basis van de oude vergunning of door zijn rechthebbende(n), te zamen met de monografie, respectievelijk het signalement, via de rapporterende lidstaat bij de Commissie worden ingediend; een afschrift wordt toegezonden aan de andere lidstaten, die de ontvangst ervan bevestigen.  
 
-12.3De voorlopige vergunningen voor de in lid 12.1 bedoelde toevoegingsmiddelen worden:
+12.3 De voorlopige vergunningen voor de in lid 12.1 bedoelde toevoegingsmiddelen worden: 
 
-a)ingetrokken en de vermeldingen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST III), worden bij verordening geschrapt, indien de volgens lid 12.2 vereiste documenten niet binnen de gestelde termijn zijn toegezonden of inoien, na verificatie van deze documenten, blijkt dat de monografie of het signalement niet Overeenstemmen met de gegevens in het dossier op basis waarvan de oorspronkelijke vergunning werd verleend, of
+a) ingetrokken en de vermeldingen in de hiertoe door de Europese Commissie opgestelde lijst (LIJST III), worden bij verordening geschrapt, indien de volgens lid 12.2 vereiste documenten niet binnen de gestelde termijn zijn toegezonden of inoien, na verificatie van deze documenten, blijkt dat de monografie of het signalement niet Overeenstemmen met de gegevens in het dossier op basis waarvan de oorspronkelijke vergunning werd verleend, of  
 
-b) bij een verordening die uiterlijk op 1 oktober 1999 van kracht wordt, vervangen door persoonsgebonden vergunningen die voor een periode van tien jaar worden ver-leend, en opgenomen in de hiertoe door de Europese Commissie ongestelde lijst (LIJST II). Vergunningsaanvragen voor het in het verkeer brengen die zijn ingediend tussen 1 april 1998 en 30 september 1999 en waarover de Commissie op die datum nog geen besluit heft genomen, worden, naar gelang van het geval, onderzocht overeenkomstig de krachtens de geldende procedure.
+b)  bij een verordening die uiterlijk op 1 oktober 1999 van kracht wordt, vervangen door persoonsgebonden vergunningen die voor een periode van tien jaar worden ver-leend, en opgenomen in de hiertoe door de Europese Commissie ongestelde lijst (LIJST II).      Vergunningsaanvragen voor het in het verkeer brengen die zijn ingediend tussen 1 april 1998 en 30 september 1999 en waarover de Commissie op die datum nog geen besluit heft genomen, worden, naar gelang van het geval, onderzocht overeenkomstig de krachtens de geldende procedure. 
 
-###13 
+### 13  
 
 ####Distributie en gebruik van toevoegingsmiddelen
 
-13.1De lidstaten bepalen dat voor diervoeding uitsluitend de toevoegingsmiddelen waarvoor overeenkomstig deze richtlijn een vergunning is afgegeven, in het verkeer mogen worden gebracht en dat deze uitsluitend onder de in de communautaire vergunningsverordening aangegeven voorwaarden mogen worden gebruikt wanneer zij zijn verwerkt in de diervoeding.
+13.1 De lidstaten bepalen dat voor diervoeding uitsluitend de toevoegingsmiddelen waarvoor overeenkomstig deze richtlijn een vergunning is afgegeven, in het verkeer mogen worden gebracht en dat deze uitsluitend onder de in de communautaire vergunningsverordening aangegeven voorwaarden mogen worden gebruikt wanneer zij zijn verwerkt in de diervoeding.  
 
-13.2In afwijking van lid 13.1 mogen toevoegingsmiddelen die niet behoren tot een van de A, D en J toevoegingsmiddelen, worden gebruikt zonder te zijn verwerkt in de diervoeding, op voorwaarde dat zulks in de vergunning is vermeld.
+13.2 In afwijking van lid 13.1 mogen toevoegingsmiddelen die niet behoren tot een van de A, D en J toevoegingsmiddelen, worden gebruikt zonder te zijn verwerkt in de diervoeding, op voorwaarde dat zulks in de vergunning is vermeld.  
 
-13.3De lidstaten zien er met name op toe dat de toevoegingsmiddelen alleen aan voedermiddelen toegevoegd voor zover het gebruik ervan voor dat doel uitdrukkelijk in de vergunning is genoemd.
+13.3 De lidstaten zien er met name op toe dat de toevoegingsmiddelen alleen aan voedermiddelen toegevoegd voor zover het gebruik ervan voor dat doel uitdrukkelijk in de vergunning is genoemd.   
 
-###14 
+### 14  
 
 ####Registratie
 
-14.1Bij het verlenen van een vergunning voor de A, D en J toevoegingsmiddelen wordt (worden) aan de voor het in het verkeer brengen verantwoordelijke persoon (personen) (een) inschrijvingsnummer(s) en aan het toevoegingsmiddel een EG-registratienummer toegekend.
+14.1 Bij het verlenen van een vergunning voor de A, D en J toevoegingsmiddelen wordt (worden) aan de voor het in het verkeer brengen verantwoordelijke persoon (personen) (een) inschrijvingsnummer(s) en aan het toevoegingsmiddel een EG-registratienummer toegekend.  
 
-14.2Bij het verlenen van een vergunning voor de "niet A, D en J" toevoegingsmiddelen wordt een EG- registratienummer toegekend.
+14.2 Bij het verlenen van een vergunning voor de "niet A, D en J" toevoegingsmiddelen wordt een EG- registratienummer toegekend.   
 
-###15 
+### 15  
 
 ####Intrekking van vergunningen voor toevoegingsmiddelen
 
-De vergunning voor een toevoegingsmiddel wordt bij verordening ingetrokken:
+De vergunning voor een toevoegingsmiddel wordt bij verordening ingetrokken: 
 
-op verzoek van de voor het in het verkeer brengen van het toevoegingsmiddel verantwoordelijke persoon, indien het gaat om een A, D en J toevoegingsmiddel;
+op verzoek van de voor het in het verkeer brengen van het toevoegingsmiddel verantwoordelijke persoon, indien het gaat om een A, D en J toevoegingsmiddel;  
 
-indien aan een of meer van de aan de vergunning voor het betrokken toevoegingsmiddel verbonden en in paragraaf 1. Vergunningverlening bedoelde voorwaarden niet langer wordt voldaan;
+indien aan een of meer van de aan de vergunning voor het betrokken toevoegingsmiddel verbonden en in paragraaf 1. Vergunningverlening bedoelde voorwaarden niet langer wordt voldaan;  
 
-indien er geen standaardmonster van het toevoegingsmiddel is verstrekt aan de officiële autoriteiten die daarom verzocht hebben, of het in het verkeer gebrachte toevoegingsmiddel niet overeenkomt met het standaardmonster van het toevoegingsmiddel waarvoor een vergunning is verleend;
+indien er geen standaardmonster van het toevoegingsmiddel is verstrekt aan de officiële autoriteiten die daarom verzocht hebben, of het in het verkeer gebrachte toevoegingsmiddel niet overeenkomt met het standaardmonster van het toevoegingsmiddel waarvoor een vergunning is verleend;  
 
-indien er geen referentiemonster van de werkzame stof is verstrekt aan de officiële autoriteiten die daarom verzocht hebben;
+indien er geen referentiemonster van de werkzame stof is verstrekt aan de officiële autoriteiten die daarom verzocht hebben;  
 
-indien de voor het in het verkeer brengen van het toevoegingsmiddel verantwoordelijke persoon niet binnen een bepaalde termijn de door een bevoegd persoon van de Europese Commissie gevraagde informatie verstrekt.Dit toevoegingsmiddel kan evenwel nag voor een periode van ten hoogste een jaar voor afzetdoeleinden worden toegelaten indien nog ten minste aan de in paragraaf 1 Vergunningverlening, onder b) en e), genoemde voorwaarden wordt voldaan.
+indien de voor het in het verkeer brengen van het toevoegingsmiddel verantwoordelijke persoon niet binnen een bepaalde termijn de door een bevoegd persoon van de Europese Commissie gevraagde informatie verstrekt.   Dit toevoegingsmiddel kan evenwel nag voor een periode van ten hoogste een jaar voor afzetdoeleinden worden toegelaten indien nog ten minste aan de in paragraaf 1 Vergunningverlening, onder b) en e), genoemde voorwaarden wordt voldaan. 
 
-###16 
+### 16  
 
 ####Monografie
 
-16.1Overeenkomstig Richtlijn 87/153/EEG zien de lidstaten erop toe dat de aanvrager voor de A, D en J toevoegingsmiddelen een monografie indient.
+16.1 Overeenkomstig Richtlijn 87/153/EEG zien de lidstaten erop toe dat de aanvrager voor de A, D en J toevoegingsmiddelen een monografie indient.  
 
-16.2In het kader van de procedure voor het verlenen van een vergunning voor de A, D en J toevoegingsmiddelen brengt het Permanent Comité voor diervoeders advies uit over de ingediende monografie van het toevoegingsmiddel, eventueel nadat het Comité hierin de nodige wijzigingen heeft laten aanbrengen. De Europese Commissie keurt het door het Permanent Comité voor diervoeders over de monografie en de daarin aangebrachte wijzigingen uitgebrachte advies goed volgens de geldende procedure.
+16.2 In het kader van de procedure voor het verlenen van een vergunning voor de A, D en J toevoegingsmiddelen brengt het Permanent Comité voor diervoeders advies uit over de ingediende monografie van het toevoegingsmiddel, eventueel nadat het Comité hierin de nodige wijzigingen heeft laten aanbrengen.  De Europese Commissie keurt het door het Permanent Comité voor diervoeders over de monografie en de daarin aangebrachte wijzigingen uitgebrachte advies goed volgens de geldende procedure.  
 
-16.3Er kunnen volgens de procedure van lid 16.2 eveneens monografieën worden goedgekeurd voor andere dan de in lid 16.1 bedoelde toevoegingsmiddelen.
+16.3 Er kunnen volgens de procedure van lid 16.2 eveneens monografieën worden goedgekeurd voor andere dan de in lid 16.1 bedoelde toevoegingsmiddelen.  
 
-16.4De bevoegde instanties van de lidstaten mogen de monografie gebruiken om:
+16.4 De bevoegde instanties van de lidstaten mogen de monografie gebruiken om: 
 
-a)te bepalen of een toevoegingsmiddel waarvoor een vergunning voor het in het verkeer brengen wordt gevraagd, een nieuw product is dan wel als een imitatie moet worden beschouwd,
+a) te bepalen of een toevoegingsmiddel waarvoor een vergunning voor het in het verkeer brengen wordt gevraagd, een nieuw product is dan wel als een imitatie moet worden beschouwd,  
 
-b)na te gaan of het in het verkeer gebrachte toevoegingsmiddel werkelijk overeenstemt met het toevoegingsmiddel dat is omschreven in het dossier op grond waarvan de communautaire vergunning is verleend.
+b) na te gaan of het in het verkeer gebrachte toevoegingsmiddel werkelijk overeenstemt met het toevoegingsmiddel dat is omschreven in het dossier op grond waarvan de communautaire vergunning is verleend.    
 
-16.5Wijzigingen die achteraf in de monografieën moeten worden aangebracht op grond van technische en wetenschappelijke ontwikkelingen worden volgens de geldende procedure voor advies voorgelegd aan het Permanent Comité voor diervoeders.
+16.5 Wijzigingen die achteraf in de monografieën moeten worden aangebracht op grond van technische en wetenschappelijke ontwikkelingen worden volgens de geldende procedure voor advies voorgelegd aan het Permanent Comité voor diervoeders.   
 
-###17 
+### 17  
 
 ####Signalement
 
-17.1Overeenkomstig het bepaalde in Richtlijn 87/153/EEG zien de lidstaten erop toe dat de aanvrager een signalement indient met een samenvatting van de kenmerken en eigenschappen van het toevoegingsmiddel. In het geval van de A, D en J toevoegingsmiddelen of wanneer paragraaf 16.3 wordt toegepast, staat in het signalement een samenvatting van de voornaamste kenmerken en eigenschappen die in de monografie zijn vermeld.
+17.1 Overeenkomstig het bepaalde in Richtlijn 87/153/EEG zien de lidstaten erop toe dat de aanvrager een signalement indient met een samenvatting van de kenmerken en eigenschappen van het toevoegingsmiddel. In het geval van de A, D en J toevoegingsmiddelen of wanneer paragraaf 16.3 wordt toegepast, staat in het signalement een samenvatting van de voornaamste kenmerken en eigenschappen die in de monografie zijn vermeld.  
 
-17.2Voor de vaststelling van:
+17.2 Voor de vaststelling van: 
 
-het signalement,
+het signalement,  
 
-de wijzigingen die daarin achteraf worden aangebracht op grond van de wetenschappelijke en technische ontwikkelingen, wordt de geldende procedure gevolgd.
+de wijzigingen die daarin achteraf worden aangebracht op grond van de wetenschappelijke en technische ontwikkelingen, wordt de geldende procedure gevolgd.    
 
-17.3Het signalement wordt gepubliceerd in het Publikatieblad van de Europese Gemeenschappen opdat de in dat lid bedoelde toevoegingsmiddelen tijdens een officiële controle gemakkelijker kunnen worden geïdentificeerd.
+17.3 Het signalement wordt gepubliceerd in het Publikatieblad van de Europese Gemeenschappen opdat de in dat lid bedoelde toevoegingsmiddelen tijdens een officiële controle gemakkelijker kunnen worden geïdentificeerd.   
 
-###18 
+### 18  
 
 ####Standaardmonster
 
-18.1Wat betreft de A, D en J toevoegingsmiddelen, moet degene die verantwoordelijk is voor het in het verkeer brengen, een standaardmonster van de toevoegingsmiddelen met de in de monografie beschreven kenmerken en eigenschappen, alsmede een referentiemonster van de werkzame stof, ter beschikking stellen van de nationale controle-instanties van de lidstaten die daarom verzoeken.
+18.1 Wat betreft de A, D en J toevoegingsmiddelen, moet degene die verantwoordelijk is voor het in het verkeer brengen, een standaardmonster van de toevoegingsmiddelen met de in de monografie beschreven kenmerken en eigenschappen, alsmede een referentiemonster van de werkzame stof, ter beschikking stellen van de nationale controle-instanties van de lidstaten die daarom verzoeken.  
 
-18.2Bij wijziging van de kenmerken of de eigenschappen van een toevoegingsmiddel wordt een nieuw standaardmonster gedeponeerd dat beantwoordt aan de nieuwe monografie van het toevoegingsmiddel.
+18.2 Bij wijziging van de kenmerken of de eigenschappen van een toevoegingsmiddel wordt een nieuw standaardmonster gedeponeerd dat beantwoordt aan de nieuwe monografie van het toevoegingsmiddel.  
 
-18.3De bepalingen met betrekking tot het deponeren en de bewaring van het standaardmonster worden vastgesteld volgens de geldende procedure.
+18.3 De bepalingen met betrekking tot het deponeren en de bewaring van het standaardmonster worden vastgesteld volgens de geldende procedure.   
 
-###19 
+### 19  
 
 ####Bekendmaking in het publikatieblad
 
-De Europese Commissie publiceert jaarlijks uiterlijk op 30 november in het Publikatieblad van de Europese Gemeenschappen, reeks C:
+De Europese Commissie publiceert jaarlijks uiterlijk op 30 november in het Publikatieblad van de Europese Gemeenschappen, reeks C: 
 
-a)de lijst van de personen die verantwoordelijk zijn voor het in het verkeer brengen, de naam van de producenten aan wie zij een licentie gegeven hebben voor de productie van toevoegingsmiddelen en ook van hun vertegenwoordigers in de Gemeenschap wanneer het producenten in een derde land betreft;
+a) de lijst van de personen die verantwoordelijk zijn voor het in het verkeer brengen, de naam van de producenten aan wie zij een licentie gegeven hebben voor de productie van toevoegingsmiddelen en ook van hun vertegenwoordigers in de Gemeenschap wanneer het producenten in een derde land betreft;  
 
-b)de als volgt onderverdeelde lijst van toegestane toevoegingsmiddelen:
+b) de als volgt onderverdeelde lijst van toegestane toevoegingsmiddelen: 
 
-LIJST I: lijst van toevoegingsmiddelen die gebonden zijn aan de persoon die verantwoordelijk is voor het in het verkeer brengen en waarvoor een vergunning wordt verleend voor een periode van tien jaar;
+LIJST I: lijst van toevoegingsmiddelen die gebonden zijn aan de persoon die verantwoordelijk is voor het in het verkeer brengen en waarvoor een vergunning wordt verleend voor een periode van tien jaar;  
 
-LIJST lI: lijst van toevoegingsmiddelen die gebonden zijn aan de persoon die verantwoordelijk is voor het in het verkeer brengen en waarvoor een voorlopige vergunning wordt verleend (voor een periode van ten hoogste vier jaar of vijf jaar voor de toevoegingsmiddelen waarvoor vóór 1 april 1998 een voorlopige vergunning is verleend);
+LIJST lI: lijst van toevoegingsmiddelen die gebonden zijn aan de persoon die verantwoordelijk is voor het in het verkeer brengen en waarvoor een voorlopige vergunning wordt verleend (voor een periode van ten hoogste vier jaar of vijf jaar voor de toevoegingsmiddelen waarvoor vóór 1 april 1998 een voorlopige vergunning is verleend);  
 
-LIJST III: lijst van overige toevoegingsmiddelen waarvoor een vergunning van onbeperkte duur wordt verleend;
+LIJST III: lijst van overige toevoegingsmiddelen waarvoor een vergunning van onbeperkte duur wordt verleend;  
 
-LIJST IV: lijst van overige toevoegingsmiddelen waarvoor een voorlopige vergunning wordt verleend (voor een periode van maximaal vier jaar of vijf jaar voor de toevoegingsmiddelen waarvoor vóór 1 april 1998 een voorlopige vergunning is verleend).
+LIJST IV: lijst van overige toevoegingsmiddelen waarvoor een voorlopige vergunning wordt verleend (voor een periode van maximaal vier jaar of vijf jaar voor de toevoegingsmiddelen waarvoor vóór 1 april 1998 een voorlopige vergunning is verleend).     
 
 ###Bijlage V 
 

@@ -83,8 +83,8 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ### Artikel  XIX  
 
-1.  Op 1 januari 2013 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) van overeenkomstige toepassing op de artikelen XVII en XVIII.   
-2.  Artikel XVIII vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) bij het begin van het kalenderjaar 2015 is toegepast.  
+1.  Op 1 januari 2013 is artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992 van overeenkomstige toepassing op de artikelen XVII en XVIII.   
+2.  Artikel XVIII vindt eerst toepassing nadat artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992 bij het begin van het kalenderjaar 2015 is toegepast.  
 
 ### Artikel  XX  
 
@@ -140,9 +140,9 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ### Artikel  XXVIII  
 
-1.  [Artikel 27a van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing bij het begin van de kalenderjaren 2012 tot en met 2015 op de bedragen genoemd in [artikel 27, eerste lid, onderdeel d, van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
-2.  [Artikel 84a van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing bij het begin van de kalenderjaren 2012 tot en met 2015 voor zover het betreft de verhoging van de accijns, bedoeld in [artikel 27, eerste lid, onderdeel d, van de Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
-3.  [Artikel 90 van de Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) vindt geen toepassing bij het begin van de kalenderjaren 2012 tot en met 2015 op de bedragen, genoemd in [artikel 59, eerste lid, onderdeel b, van de Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).  
+1.  Artikel 27a van de Wet op de accijns vindt geen toepassing bij het begin van de kalenderjaren 2012 tot en met 2015 op de bedragen genoemd in artikel 27, eerste lid, onderdeel d, van de Wet op de accijns.   
+2.  Artikel 84a van de Wet op de accijns vindt geen toepassing bij het begin van de kalenderjaren 2012 tot en met 2015 voor zover het betreft de verhoging van de accijns, bedoeld in artikel 27, eerste lid, onderdeel d, van de Wet op de accijns.   
+3.  Artikel 90 van de Wet belastingen op milieugrondslag vindt geen toepassing bij het begin van de kalenderjaren 2012 tot en met 2015 op de bedragen, genoemd in artikel 59, eerste lid, onderdeel b, van de Wet belastingen op milieugrondslag.  
 
 ### Artikel  XXIX  
 

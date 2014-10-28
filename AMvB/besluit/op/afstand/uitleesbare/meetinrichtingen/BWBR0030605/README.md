@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 11 juli 2011, nr. WJZ / 11099592;
 
-Gelet op richtlijn nr. 2006/32/EG van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 betreffende energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van Richtlijn 93/76/EEG van de Raad (PbEU L 114), de [artikelen 26ad, tweede lid](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95la, eerste en derde lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [artikelen 13d, tweede lid](../../../../../../../wet/gaswet/BWBR0011440/README.md), [42a, eerste en derde lid, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md);
+Gelet op richtlijn nr. 2006/32/EG van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 betreffende energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van Richtlijn 93/76/EEG van de Raad (PbEU L 114), de artikelen 26ad, tweede lid, 95la, eerste en derde lid, van de Elektriciteitswet 1998 en de artikelen 13d, tweede lid, 42a, eerste en derde lid, van de Gaswet;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 7 september 2011, nr. WI5.11.0277/IV);
 
@@ -34,8 +34,8 @@ d.  *communicatieonderdeel:* onderdeel van de meetinrichting dat de uitwisseling
 
 ### Artikel  2  
 
-1.  Als een andere situatie, bedoeld in [artikel 26ad, tweede lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), wordt aangemerkt de situatie dat de overeenkomstig de [Regeling energieprestatie gebouwen](../../../../../../../ministeriele-regeling/regeling/energieprestatie/gebouwen/BWBR0020921/README.md) bepaalde energieklasse van een onroerende zaak is verbeterd naar energieklasse B of beter, of is verbeterd met minimaal twee energieklassen.   
-2.  Als een andere situatie, bedoeld in [artikel 13d, tweede lid, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md) wordt aangemerkt de situatie dat de overeenkomstig de [Regeling energieprestatie gebouwen](../../../../../../../ministeriele-regeling/regeling/energieprestatie/gebouwen/BWBR0020921/README.md) bepaalde energieklasse van een onroerende zaak is verbeterd naar energieklasse B of beter, of is verbeterd met minimaal twee energieklassen.  
+1.  Als een andere situatie, bedoeld in artikel 26ad, tweede lid, van de Elektriciteitswet 1998, wordt aangemerkt de situatie dat de overeenkomstig de Regeling energieprestatie gebouwen bepaalde energieklasse van een onroerende zaak is verbeterd naar energieklasse B of beter, of is verbeterd met minimaal twee energieklassen.   
+2.  Als een andere situatie, bedoeld in artikel 13d, tweede lid, van de Gaswet wordt aangemerkt de situatie dat de overeenkomstig de Regeling energieprestatie gebouwen bepaalde energieklasse van een onroerende zaak is verbeterd naar energieklasse B of beter, of is verbeterd met minimaal twee energieklassen.  
 
 ### Hoofdstuk  3  
 
@@ -43,7 +43,7 @@ d.  *communicatieonderdeel:* onderdeel van de meetinrichting dat de uitwisseling
 
 ### Artikel  3  
 
-Dit hoofdstuk is van toepassing op meetinrichtingen voor elektriciteit als bedoeld in [artikel 95la, eerste lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en op meetinrichtingen voor gas als bedoeld in [artikel 42a van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md). 
+Dit hoofdstuk is van toepassing op meetinrichtingen voor elektriciteit als bedoeld in artikel 95la, eerste lid, van de Elektriciteitswet 1998 en op meetinrichtingen voor gas als bedoeld in artikel 42a van de Gaswet. 
 
 ### Artikel  4  
 
@@ -116,7 +116,7 @@ b. tussen een meetinrichting voor gas en een meetinrichting voor elektriciteit, 
 
 1.  Een meetinrichting is zodanig beveiligd tegen fraude met, misbruik van of inbreuk op de meetinrichting dat een passend beveiligingsniveau is gegarandeerd, rekening houdend met de internationale stand van de techniek en de kosten van de tenuitvoerlegging, mede gelet op de risico’s die de aanwezigheid van de functionaliteiten bestaande uit het op afstand onderbreken, beperken en hervatten van de levering van elektriciteit of het op afstand onderbreken en hervatten van de levering van gas met zich mee brengt.   
 2.  Een meetinrichting voor gas is beveiligd tegen veiligheidsrisico’s als gevolg van het opnieuw opbouwen van gasdruk bij het op afstand hervatten van de gaslevering na een onderbreking. De eerste volzin is niet van toepassing op een meetinrichting voor gas die niet beschikt over de functionaliteit bestaande uit het op afstand onderbreken en hervatten van de gaslevering.   
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de beveiliging van een meetinrichting als bedoeld in het eerste lid. Deze regels kunnen betrekking hebben op het nemen van technische en organisatorische beveiligingsmaatregelen ter bescherming van persoonsgegevens als bedoeld in [artikel 13 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de beveiliging van een meetinrichting als bedoeld in het eerste lid. Deze regels kunnen betrekking hebben op het nemen van technische en organisatorische beveiligingsmaatregelen ter bescherming van persoonsgegevens als bedoeld in artikel 13 van de Wet bescherming persoonsgegevens.  
 
 ### Artikel  7  
 
@@ -124,18 +124,18 @@ Bij ministeriële regeling kunnen eisen worden gesteld aan de kwaliteit van meet
 
 ### Artikel  8  
 
-1.  Indien een ander dan een netbeheerder een meetinrichting installeert in een geval als bedoeld in [artikel 26ad, zesde lid](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), of [26ae, zevende lid, Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) onderscheidenlijk [artikel 13d, zesde lid](../../../../../../../wet/gaswet/BWBR0011440/README.md), of [13e, zevende lid, Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md), draagt die ander er zorg voor dat de meetinrichting die wordt geïnstalleerd aansluit bij het communicatiesysteem dat door de desbetreffende netbeheerder wordt gehanteerd, zodat de netbeheerder geen aanpassingen hoeft te verrichten om met de meetinrichting informatie te kunnen uitwisselen.   
+1.  Indien een ander dan een netbeheerder een meetinrichting installeert in een geval als bedoeld in artikel 26ad, zesde lid, of 26ae, zevende lid, Elektriciteitswet 1998 onderscheidenlijk artikel 13d, zesde lid, of 13e, zevende lid, Gaswet, draagt die ander er zorg voor dat de meetinrichting die wordt geïnstalleerd aansluit bij het communicatiesysteem dat door de desbetreffende netbeheerder wordt gehanteerd, zodat de netbeheerder geen aanpassingen hoeft te verrichten om met de meetinrichting informatie te kunnen uitwisselen.   
 2.  Een meetinrichting wordt zodanig geïnstalleerd dat het functioneren ervan veilig is voor de afnemer, de aangesloten applicaties en de met de meetinrichting in verbinding staande apparaten.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de installatie en verzegeling van meetinrichtingen en de administratie in verband met het vervangen, installeren of verwijderen van meetinrichtingen.  
 
 ### Artikel  9  
 
-1.  Met meetinrichtingen voor elektriciteit als bedoeld in [artikel 95la, eerste lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en meetinrichtingen voor gas als bedoeld in [artikel 42a van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md) worden gelijkgesteld meetinrichtingen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd, met name op het gebied van de beveiliging tegen fraude met, misbruik van of inbreuk op de meetinrichting, en in wezen dezelfde functionaliteiten voorschrijven, waaronder in ieder geval de functionaliteit bestaande uit het op afstand kunnen uitwisselen van de actuele meterstanden.   
+1.  Met meetinrichtingen voor elektriciteit als bedoeld in artikel 95la, eerste lid, van de Elektriciteitswet 1998 en meetinrichtingen voor gas als bedoeld in artikel 42a van de Gaswet worden gelijkgesteld meetinrichtingen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd, met name op het gebied van de beveiliging tegen fraude met, misbruik van of inbreuk op de meetinrichting, en in wezen dezelfde functionaliteiten voorschrijven, waaronder in ieder geval de functionaliteit bestaande uit het op afstand kunnen uitwisselen van de actuele meterstanden.   
 2.  De bij of krachtens dit besluit gestelde eisen gelden voor de meetinrichting met uitzondering van de tot de meetinrichting behorende elektriciteitsmeter of gasmeter.  
 
 ### Hoofdstuk  4  
 
-####Wijziging van [Besluit kostenoverzicht energie](../../../../../../../AMvB/besluit/kostenoverzicht/energie/BWBR0029673/README.md)
+####Wijziging van Besluit kostenoverzicht energie
 
 ### Artikel  10  
 

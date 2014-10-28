@@ -5,7 +5,7 @@
 De Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën,  
 Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport;
 
-Gelet op de [artikelen 13](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [17, vijfde en zesde lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [34, tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [40, derde lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [41, eerste lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [55](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [63](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [67](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [81](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [95, eerste lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [96, derde lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [102, derde lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [110, derde lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [119, zesde en zevende lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [120, tweede, zevende en achtste lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [121](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [122 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en de [artikelen 2.2, achtste lid](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), en [2.3, eerste en derde lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md);
+Gelet op de artikelen 13, 17, vijfde en zesde lid, 34, tweede lid, 40, derde lid, 41, eerste lid, 55, 63, 67, 81, 95, eerste lid, 96, derde lid, 102, derde lid, 110, derde lid, 119, zesde en zevende lid, 120, tweede, zevende en achtste lid, 121 en 122 van de Wet financiering sociale verzekeringen, en de artikelen 2.2, achtste lid, en 2.3, eerste en derde lid, van het Besluit Wfsv;
 Besluiten:     
 ### Hoofdstuk  1  
 
@@ -17,33 +17,33 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-– AKW: de [Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
+– AKW: de Algemene Kinderbijslagwet;  
 
-– ANW: de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+– ANW: de Algemene nabestaandenwet;  
 
-– AOW: [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+– AOW: Algemene Ouderdomswet;  
 
-– AWBZ: de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+– AWBZ: de Algemene Wet Bijzondere Ziektekosten;  
 
-*IOW:* de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md); 
+*IOW:* de Wet inkomensvoorziening oudere werklozen; 
 
-– Tijdelijke wet BIA: de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md);  
+– Tijdelijke wet BIA: de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria;  
 
-– TW: de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+– TW: de Toeslagenwet;  
 
-– Wet Wajong: de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+– Wet Wajong: de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-– WAO: de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+– WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
 
-– Wet SUWI: de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+– Wet SUWI: de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-– Wfsv: de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+– Wfsv: de Wet financiering sociale verzekeringen;  
 
-– WW: de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+– WW: de Werkloosheidswet;  
 
-– Wet WIA: de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+– Wet WIA: de Wet werk en inkomen naar arbeidsvermogen;  
 
-– ZW: de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md).   
+– ZW: de Ziektewet.   
 
 ### Hoofdstuk  2  
 
@@ -59,7 +59,7 @@ Voor de toepassing van dit hoofdstuk worden de landen van het Koninkrijk der Ned
 
 ####Partnerbegrip voor vaststelling premie-inkomen
 
-Voor de toepassing van [artikel 8, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt verstaan onder partner: degene, die partner is in de zin van [artikel 5a van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en degene, die gelet op artikel 1.2, vierde lid, onderdeel b, van de laatstgenoemde wet geen keuze voor behandeling als binnenlandse belastingplichtige heeft gedaan of heeft kunnen doen. 
+Voor de toepassing van artikel 8, eerste lid, van de Wfsv wordt verstaan onder partner: degene, die partner is in de zin van artikel 5a van de Algemene wet inzake rijksbelastingen en artikel 1.2 van de Wet inkomstenbelasting 2001 en degene, die gelet op artikel 1.2, vierde lid, onderdeel b, van de laatstgenoemde wet geen keuze voor behandeling als binnenlandse belastingplichtige heeft gedaan of heeft kunnen doen. 
 
 ### Artikel  2.3  
 
@@ -77,7 +77,7 @@ b. ten aanzien van degene die verzekerd is en die tevens werkzaamheden verricht 
 
 3°. het gedeelte van het premie-inkomen, dat, bij gebreke van een internationale regeling, is onderworpen aan premieheffing krachtens een wettelijke regeling inzake uitkeringen bij ouderdom en overlijden van een andere mogendheid;    
 
-c. ten aanzien van degene die niet is uitgezonderd van de verplichte verzekering voor de volksverzekeringen op grond van de [artikelen 13, eerste lid, onderdeel a](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [13, tweede lid, onderdeel c](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [13, derde lid, onderdeel a](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [13, vierde lid, onderdeel c](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [14, eerste lid, onderdeel a](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), [15, eerste lid, onderdelen a, b of c, subonderdeel 1°](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md), of [16, eerste lid, onderdeel a, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) in verband met het verrichten van de in die artikelen bedoelde andere werkzaamheden: het belastbare loon uit de dienstbetrekking uit hoofde waarvan hij zou zijn uitgezonderd van de verplichte verzekering voor de volksverzekeringen indien hij die andere werkzaamheden niet zou hebben verricht.   
+c. ten aanzien van degene die niet is uitgezonderd van de verplichte verzekering voor de volksverzekeringen op grond van de artikelen 13, eerste lid, onderdeel a, 13, tweede lid, onderdeel c, 13, derde lid, onderdeel a, 13, vierde lid, onderdeel c, 14, eerste lid, onderdeel a, 15, eerste lid, onderdelen a, b of c, subonderdeel 1°, of 16, eerste lid, onderdeel a, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 in verband met het verrichten van de in die artikelen bedoelde andere werkzaamheden: het belastbare loon uit de dienstbetrekking uit hoofde waarvan hij zou zijn uitgezonderd van de verplichte verzekering voor de volksverzekeringen indien hij die andere werkzaamheden niet zou hebben verricht.   
 
 ### Artikel  2.4  
 
@@ -89,19 +89,19 @@ Ten aanzien van degene die gedurende een gedeelte van het kalenderjaar niet prem
 
 ####Aanpassing maximum premie-inkomen bij gedeeltelijke premieplicht anders dan door overlijden
 
-Ten aanzien van degene die gedurende een deel van het kalenderjaar anders dan door overlijden niet premieplichtig is, wordt voor de premieheffing bij wege van aanslag als premie-inkomen in aanmerking genomen het bedrag dat naar tijdsevenredigheid is afgeleid van het in [artikel 8, derde lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) vermelde premie-inkomen dat maximaal in aanmerking zou zijn genomen indien gedurende het gehele kalenderjaar sprake zou zijn geweest van premieplicht, tenzij toepassing van de bepalingen in [die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) of van de overige bepalingen in deze regeling tot een lager premie-inkomen leidt. 
+Ten aanzien van degene die gedurende een deel van het kalenderjaar anders dan door overlijden niet premieplichtig is, wordt voor de premieheffing bij wege van aanslag als premie-inkomen in aanmerking genomen het bedrag dat naar tijdsevenredigheid is afgeleid van het in artikel 8, derde lid, van de Wfsv vermelde premie-inkomen dat maximaal in aanmerking zou zijn genomen indien gedurende het gehele kalenderjaar sprake zou zijn geweest van premieplicht, tenzij toepassing van de bepalingen in die wet of van de overige bepalingen in deze regeling tot een lager premie-inkomen leidt. 
 
 ### Artikel  2.6  
 
 ####Heffingspercentage bij verschillende premiepercentages
 
-Ingeval zich ten aanzien van een verzekerde die in de premieheffing bij wege van aanslag wordt betrokken in het kalenderjaar tijdvakken voordoen waarin anders dan ingevolge [artikel 11, vierde lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) verschillende premiepercentages gelden, wordt van hem de premie geheven naar een percentage (heffingspercentage) dat is samengesteld uit tijdsevenredige delen van die verschillende premiepercentages. Het heffingspercentage wordt afgerond op honderdsten naar beneden. 
+Ingeval zich ten aanzien van een verzekerde die in de premieheffing bij wege van aanslag wordt betrokken in het kalenderjaar tijdvakken voordoen waarin anders dan ingevolge artikel 11, vierde lid, van de Wfsv verschillende premiepercentages gelden, wordt van hem de premie geheven naar een percentage (heffingspercentage) dat is samengesteld uit tijdsevenredige delen van die verschillende premiepercentages. Het heffingspercentage wordt afgerond op honderdsten naar beneden. 
 
 ### Artikel  2.6a  
 
 ####Heffingskorting bij premieplichtigheid over gedeelte kalenderjaar
 
-Ten aanzien van degene die gedurende een gedeelte van het kalenderjaar anders dan door overlijden niet premieplichtig is, wordt de heffingskorting, bedoeld in [artikel 12, eerste lid, onderdelen a, b en c, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), tijdsevenredig verminderd naar rato van de periode van premieplicht in het kalenderjaar. 
+Ten aanzien van degene die gedurende een gedeelte van het kalenderjaar anders dan door overlijden niet premieplichtig is, wordt de heffingskorting, bedoeld in artikel 12, eerste lid, onderdelen a, b en c, van de Wfsv, tijdsevenredig verminderd naar rato van de periode van premieplicht in het kalenderjaar. 
 
 ### Artikel  2.7  
 
@@ -133,7 +133,7 @@ d. de dag waarop het tijdvak eindigt niet in aanmerking genomen.
 
 ####Bepaling loontijdvak bij twee kalenderjaren
 
-Voor de toepassing van [artikel 17, eerste en tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt een loontijdvak dat zich uitstrekt over twee kalenderjaren, geacht te behoren tot het kalenderjaar waarin het loon over dat loontijdvak wordt genoten. 
+Voor de toepassing van artikel 17, eerste en tweede lid, van de Wfsv wordt een loontijdvak dat zich uitstrekt over twee kalenderjaren, geacht te behoren tot het kalenderjaar waarin het loon over dat loontijdvak wordt genoten. 
 
 ### §  2  
 
@@ -147,7 +147,7 @@ In deze paragraaf wordt verstaan onder:
 
 a. arbeidsloon: loon uit een dienstbetrekking;  
 
-b. uitkering: een uitkering krachtens de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+b. uitkering: een uitkering krachtens de ZW, hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg, de WAO, de Wet WIA of de WW;  
 
 c. aanvulling: arbeidsloon dat naar aard en strekking overeenkomt met een uitkering en door de werkgever, op grond van een aan zijn werknemer toegekende aanspraak, over dezelfde periode als waarover de uitkering wordt verstrekt aan de werknemer wordt betaald.   
 
@@ -155,14 +155,14 @@ c. aanvulling: arbeidsloon dat naar aard en strekking overeenkomt met een uitker
 
 ####Uitkering bij dezelfde werkgever
 
-1.  Indien een werknemer die van één of meerdere werkgevers arbeidsloon ontvangt, vervolgens in plaats van één of elk van die lonen uitkering en aanvulling ontvangt, wordt het totaalbedrag van die uitkering en aanvulling voor de toepassing van [artikel 17 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) geacht bij dezelfde werkgever te zijn genoten.   
-2.  Indien het eerste lid toepassing vindt, blijft bij de berekening van het loon waarnaar de premies op grond van [hoofdstuk 3 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) worden geheven de aanvulling buiten aanmerking voorzover de aanvulling en uitkering tezamen meer bedragen dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).  
+1.  Indien een werknemer die van één of meerdere werkgevers arbeidsloon ontvangt, vervolgens in plaats van één of elk van die lonen uitkering en aanvulling ontvangt, wordt het totaalbedrag van die uitkering en aanvulling voor de toepassing van artikel 17 van de Wfsv geacht bij dezelfde werkgever te zijn genoten.   
+2.  Indien het eerste lid toepassing vindt, blijft bij de berekening van het loon waarnaar de premies op grond van hoofdstuk 3 van de Wfsv worden geheven de aanvulling buiten aanmerking voorzover de aanvulling en uitkering tezamen meer bedragen dan het bedrag, bedoeld in artikel 17, eerste lid, van de Wfsv.  
 
 ### Artikel  3.4  
 
 ####Samenloop
 
-Indien een werknemer van twee of meer werkgevers arbeidsloon ontvangt en vervolgens in plaats van één van die lonen een uitkering op grond van de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) of op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) ontvangt en in plaats van het overige loon of één of meer van de overige lonen een uitkering ontvangt, worden deze uitkeringen, in afwijking van [artikel 17, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) geacht niet bij dezelfde werkgever te zijn genoten. 
+Indien een werknemer van twee of meer werkgevers arbeidsloon ontvangt en vervolgens in plaats van één van die lonen een uitkering op grond van de ZW of op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg ontvangt en in plaats van het overige loon of één of meer van de overige lonen een uitkering ontvangt, worden deze uitkeringen, in afwijking van artikel 17, eerste lid, van de Wfsv geacht niet bij dezelfde werkgever te zijn genoten. 
 
 ### §  3  
 
@@ -172,7 +172,7 @@ Indien een werknemer van twee of meer werkgevers arbeidsloon ontvangt en vervolg
 
 ####Berekening premies werknemersverzekeringen
 
-Indien voor de werknemer gedurende een loontijdvak verschillende premiepercentages gelden, wordt het op grond van [artikel 17, derde lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) berekende verschil naar evenredigheid van de lonen waarvoor die verschillende premiepercentages gelden, aan die lonen toegerekend. 
+Indien voor de werknemer gedurende een loontijdvak verschillende premiepercentages gelden, wordt het op grond van artikel 17, derde lid, van de Wfsv berekende verschil naar evenredigheid van de lonen waarvoor die verschillende premiepercentages gelden, aan die lonen toegerekend. 
 
 ### Afdeling  2  
 
@@ -186,22 +186,22 @@ Indien voor de werknemer gedurende een loontijdvak verschillende premiepercentag
 
 ####Bijdrage sector uitzendbedrijven
 
-1.  De bijdrage, bedoeld in [artikel 2.2a van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), wordt in aanmerking genomen bij het voor de sector uitzendbedrijven vaststellen van het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) bedoelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten, bedoeld in artikel 3.8.   
+1.  De bijdrage, bedoeld in artikel 2.2a van het Besluit Wfsv, wordt in aanmerking genomen bij het voor de sector uitzendbedrijven vaststellen van het op grond van artikel 2.2, eerste lid, van het Besluit Wfsv bedoelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten, bedoeld in artikel 3.8.   
 2.  De bijdrage bedraagt € 85.000.000.  
 
 ### Artikel  3.6  
 
 ####Sectoronderdelen in de sector uitzendbedrijven
 
-De sector uitzendbedrijven wordt ingedeeld in de volgende sectoronderdelen, bedoeld in [artikel 95, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md): 
+De sector uitzendbedrijven wordt ingedeeld in de volgende sectoronderdelen, bedoeld in artikel 95, eerste lid, van de Wfsv: 
 
-a. uitzendbedrijven IA: groepen uitzendkrachten met administratieve of (para)medische functies krachtens een uitzendovereenkomst in de zin van [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en op wier uitzendovereenkomst een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is, werkzaam bij uitzendbedrijven;  
+a. uitzendbedrijven IA: groepen uitzendkrachten met administratieve of (para)medische functies krachtens een uitzendovereenkomst in de zin van artikel 690 van Boek 7 van het Burgerlijk Wetboek en op wier uitzendovereenkomst een beding als bedoeld in artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek van toepassing is, werkzaam bij uitzendbedrijven;  
 
-b. uitzendbedrijven IIA: groepen uitzendkrachten met technische of overige functies krachtens een uitzendovereenkomst in de zin van [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en op wier uitzendovereenkomst een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is, werkzaam bij uitzendbedrijven;  
+b. uitzendbedrijven IIA: groepen uitzendkrachten met technische of overige functies krachtens een uitzendovereenkomst in de zin van artikel 690 van Boek 7 van het Burgerlijk Wetboek en op wier uitzendovereenkomst een beding als bedoeld in artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek van toepassing is, werkzaam bij uitzendbedrijven;  
 
 c. intermediaire diensten: intercedenten en consulenten; filiaalhouders en vestigingsmanagers; administratief personeel; directie en stafleden; operationele stafmedewerkers; boekhouding en uitzendadministratie; al het personeel waarvan de werkzaamheden zijn terug te voeren op het ter beschikking stellen van arbeidskrachten aan derden, werkzaam bij uitzendbedrijven;  
 
-d. uitzendbedrijven IB en IIB: groepen uitzendkrachten met administratieve, (para)medische functies, technische of overige functies krachtens een uitzendovereenkomst in de zin van [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en op wier uitzendovereenkomst niet een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is, werkzaam bij uitzendbedrijven;  
+d. uitzendbedrijven IB en IIB: groepen uitzendkrachten met administratieve, (para)medische functies, technische of overige functies krachtens een uitzendovereenkomst in de zin van artikel 690 van Boek 7 van het Burgerlijk Wetboek en op wier uitzendovereenkomst niet een beding als bedoeld in artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek van toepassing is, werkzaam bij uitzendbedrijven;  
 
 e. detachering: overige werknemers die niet vallen onder de uitzendbedrijven, genoemd in de onderdelen a tot en met d, werkzaam bij uitzendbedrijven.   
 
@@ -209,15 +209,15 @@ e. detachering: overige werknemers die niet vallen onder de uitzendbedrijven, ge
 
 ####Vaststelling WW-deel van het sectorpremiepercentage
 
-1.  Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in artikel 3.6.   
+1.  Het op grond van artikel 2.2, eerste lid, van het Besluit Wfsv vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in artikel 3.6.   
 2.  Per sectoronderdeel wordt het gewogen gemiddelde vastgesteld van het percentage, bedoeld in het eerste lid.  
 
 ### Artikel  3.9  
 
 ####Maximum gedifferentieerde premie Werkhervattingskas sector uitzendbedrijven
 
-1.  Voor de sector uitzendbedrijven wordt voor de premiecomponent voor de WGA-lasten flexibele dienstbetrekkingen van de gedifferentieerde premie Werkhervattingskas, bedoeld in [artikel 2.6, vierde of vijfde lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), een maximum vastgesteld, dat vier maal het voor die lasten in die sector met toepassing van [artikel 2.10, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) vastgestelde percentage bedraagt.   
-2.  Voor de sector uitzendbedrijven wordt voor de premiecomponent voor de ZW-lasten van de gedifferentieerde premie Werkhervattingskas, bedoeld in [artikel 2.6, vierde of vijfde lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) een maximum vastgesteld, dat 1,75 maal het voor die lasten in die sector met toepassing van [artikel 2.10, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) vastgestelde percentage bedraagt.  
+1.  Voor de sector uitzendbedrijven wordt voor de premiecomponent voor de WGA-lasten flexibele dienstbetrekkingen van de gedifferentieerde premie Werkhervattingskas, bedoeld in artikel 2.6, vierde of vijfde lid, van het Besluit Wfsv, een maximum vastgesteld, dat vier maal het voor die lasten in die sector met toepassing van artikel 2.10, eerste lid, van het Besluit Wfsv vastgestelde percentage bedraagt.   
+2.  Voor de sector uitzendbedrijven wordt voor de premiecomponent voor de ZW-lasten van de gedifferentieerde premie Werkhervattingskas, bedoeld in artikel 2.6, vierde of vijfde lid, van het Besluit Wfsv een maximum vastgesteld, dat 1,75 maal het voor die lasten in die sector met toepassing van artikel 2.10, eerste lid, van het Besluit Wfsv vastgestelde percentage bedraagt.  
 
 ### §  2  
 
@@ -227,7 +227,7 @@ e. detachering: overige werknemers die niet vallen onder de uitzendbedrijven, ge
 
 ####Sectoronderdelen in de sector grafische industrie
 
-De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, bedoeld in [artikel 95, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md): 
+De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, bedoeld in artikel 95, eerste lid, van de Wfsv: 
 
 a. de grafische industrie exclusief het fotografisch bedrijf, bedoeld in onderdeel b;  
 
@@ -237,7 +237,7 @@ b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoar
 
 ####Vaststelling WW-deel en ZW-deel van het sectorpremiepercentage
 
-1.  Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) vastgestelde opslagpercentage voor de dekking van de daar bedoelde overige ziekengeld- en WGA-lasten en WGA-staartlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in artikel 3.10.   
+1.  Het op grond van artikel 2.2, eerste lid, van het Besluit Wfsv vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van artikel 2.2, tweede lid, van het Besluit Wfsv vastgestelde opslagpercentage voor de dekking van de daar bedoelde overige ziekengeld- en WGA-lasten en WGA-staartlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in artikel 3.10.   
 2.  Het deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten wordt per sectoronderdeel berekend aan de hand van het gemiddelde risico per sectoronderdeel over de laatste vier jaar.   
 3.  Het opslagpercentage ter dekking van overige ziekengeld- en WGA-lasten en WGA-staartlasten wordt per sectoronderdeel berekend aan de hand van het gemiddelde risico per sectoronderdeel over de laatste vier jaar.  
 
@@ -249,29 +249,29 @@ b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoar
 
 ####Vaststelling verschillende sectorpremiepercentages
 
-1.  Het sectorpremiepercentage voor de werknemer op wie [artikel 2.3, tweede lid, onderdeel a, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) van toepassing is, verhoudt zich: 
+1.  Het sectorpremiepercentage voor de werknemer op wie artikel 2.3, tweede lid, onderdeel a, van het Besluit Wfsv van toepassing is, verhoudt zich: 
 
-a. voor de sectoren, bedoeld in [artikel 2.3, eerste lid, onderdelen b tot en met e, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) als ten minste 1 staat tot 5 tot het sectorpremiepercentage voor de werknemer op wie [artikel 2.3, tweede lid, onderdeel b, van dat besluit](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) van toepassing is;  
+a. voor de sectoren, bedoeld in artikel 2.3, eerste lid, onderdelen b tot en met e, van het Besluit Wfsv als ten minste 1 staat tot 5 tot het sectorpremiepercentage voor de werknemer op wie artikel 2.3, tweede lid, onderdeel b, van dat besluit van toepassing is;  
 
-b. voor de sector, bedoeld in [artikel 2.3, eerste lid, onderdeel a, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) als ten minste 1 staat tot 7 tot het sectorpremiepercentage voor de werknemer op wie [artikel 2.3, tweede lid, onderdeel b, van dat besluit](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) van toepassing is.    
-2. Het UWV kan, gehoord de sectorfondsen, bedoeld in [artikel 2.3, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), in afwijking van het eerste lid, het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de werknemer op wie artikel 2.3, tweede lid, onderdeel b, van het Besluit Wfsv van toepassing is, ten hoogste vaststellen op 12,5 procent. 
+b. voor de sector, bedoeld in artikel 2.3, eerste lid, onderdeel a, van het Besluit Wfsv als ten minste 1 staat tot 7 tot het sectorpremiepercentage voor de werknemer op wie artikel 2.3, tweede lid, onderdeel b, van dat besluit van toepassing is.    
+2. Het UWV kan, gehoord de sectorfondsen, bedoeld in artikel 2.3, eerste lid, van het Besluit Wfsv, in afwijking van het eerste lid, het op grond van artikel 2.2, eerste lid, van het Besluit Wfsv vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de werknemer op wie artikel 2.3, tweede lid, onderdeel b, van het Besluit Wfsv van toepassing is, ten hoogste vaststellen op 12,5 procent. 
 
 ### Artikel  3.13  
 
 ####Gelijkstelling vaststelling sectorpremiepercentage
 
-1.  Voor de vaststelling van het sectorpremiepercentage worden met de werknemer op wie [artikel 2.3, tweede lid, onderdeel a, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) van toepassing is, gelijkgesteld: 
+1.  Voor de vaststelling van het sectorpremiepercentage worden met de werknemer op wie artikel 2.3, tweede lid, onderdeel a, van het Besluit Wfsv van toepassing is, gelijkgesteld: 
 
 a. scholieren en studenten die blijkens een schriftelijke overeenkomst ten hoogste acht aaneengesloten weken per kalenderjaar in dienstbetrekking zullen staan tot dezelfde werkgever;  
 
-b. de werknemer die de beroepspraktijkvorming volgt van de beroepsbegeleidende leerweg van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), op de grondslag van een overeenkomst als bedoeld in [artikel 7.2.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), gesloten door de partijen, genoemd in [artikel 7.2.9 van die wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en mede ondertekend door het bestuur van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven.     
+b. de werknemer die de beroepspraktijkvorming volgt van de beroepsbegeleidende leerweg van een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs, op de grondslag van een overeenkomst als bedoeld in artikel 7.2.8, gesloten door de partijen, genoemd in artikel 7.2.9 van die wet en mede ondertekend door het bestuur van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven.     
 2.  Voor de toepassing van het eerste lid, onderdeel a wordt onder scholieren en studenten verstaan: 
 
-a. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs op grond van de [Wet studiefinanciering 2000](../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs op grond van de Wet studiefinanciering 2000 of de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-b. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een tegemoetkoming op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md);  
+b. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;  
 
-c. de werknemer voor wie bij het begin van het kalenderkwartaal recht bestaat op kinderbijslag op grond van de [Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);
+c. de werknemer voor wie bij het begin van het kalenderkwartaal recht bestaat op kinderbijslag op grond van de Algemene Kinderbijslagwet;
 
 d. de werknemer die bij het begin van het kalenderkwartaal staat ingeschreven bij een onderwijsinstelling waar hij een voltijdse opleiding volgt en die inwoner is van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van Zwitserland.   
 3.  Voor de toepassing van het eerste lid, onderdeel a, bewaart de werkgever bij zijn loonadministratie een schriftelijke door de werknemer gedagtekende en ondertekende verklaring dat ten zijnen aanzien het kalenderkwartaal als loontijdvak kan worden aangemerkt alsmede: 
@@ -282,7 +282,7 @@ b.ingeval het tweede lid, onderdeel b van toepassing is, het onderwijsnummer;
 
 c.ingeval het tweede lid, onderdeel c van toepassing is, het burgerservicenummer en bij het ontbreken daarvan het sociaal-fiscaal nummer;
 
-d. ingeval het tweede lid, onderdeel d van toepassing is, een kopie van een internationale studentenkaart als bedoeld in [artikel 6.3, tweede lid, onderdeel d, van de Uitvoeringsregeling loonbelasting 2011](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md).   
+d. ingeval het tweede lid, onderdeel d van toepassing is, een kopie van een internationale studentenkaart als bedoeld in artikel 6.3, tweede lid, onderdeel d, van de Uitvoeringsregeling loonbelasting 2011.   
 4.  Voor de toepassing van het eerste lid, onderdeel b, bewaart de werkgever een afschrift van de in dat onderdeel genoemde overeenkomst bij de loonadministratie.  
 
 ### §  4  
@@ -293,7 +293,7 @@ d. ingeval het tweede lid, onderdeel d van toepassing is, een kopie van een inte
 
 ####Bepaling sectorale premiepercentages
 
-De sectorale premiecomponent voor de WGA-lasten vaste dienstbetrekkingen van de sectorale premiepercentages bedoeld in [artikel 2.10, tweede lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), voor de sectoren 26 en 27, bedoeld in bijlage 1 bij deze regeling, is gelijk aan het gemiddelde van deze premiecomponent van de sectorale premiepercentages voor de sectoren 25 tot en met 32.
+De sectorale premiecomponent voor de WGA-lasten vaste dienstbetrekkingen van de sectorale premiepercentages bedoeld in artikel 2.10, tweede lid, van het Besluit Wfsv, voor de sectoren 26 en 27, bedoeld in bijlage 1 bij deze regeling, is gelijk aan het gemiddelde van deze premiecomponent van de sectorale premiepercentages voor de sectoren 25 tot en met 32.
 
 ### Afdeling  3  
 
@@ -303,7 +303,7 @@ De sectorale premiecomponent voor de WGA-lasten vaste dienstbetrekkingen van de 
 
 ####Ontheffing garantieplicht overheidswerkgevers
 
-Als overheidswerkgever als bedoeld in [artikel 40, derde lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) worden aangewezen: 
+Als overheidswerkgever als bedoeld in artikel 40, derde lid, van de Wfsv worden aangewezen: 
 
 a. de Koning, ten aanzien van door hem in dienst genomen overheidswerknemers die bij de Koninklijke Hofhouding werkzaam zijn en uit dien hoofde onder de Pensioenregeling van de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau vallen;  
 
@@ -323,23 +323,23 @@ c. rechtspersonen, anders dan bedoeld in onderdeel b, die:
 
 ####Definities
 
-In deze afdeling wordt verstaan onder eigenrisicodrager: de werkgever aan wie op grond van [artikel 40 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) toestemming is verleend het risico te dragen van de betalingen, bedoeld in [artikel 40, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). 
+In deze afdeling wordt verstaan onder eigenrisicodrager: de werkgever aan wie op grond van artikel 40 van de Wfsv toestemming is verleend het risico te dragen van de betalingen, bedoeld in artikel 40, eerste lid, van de Wfsv. 
 
 ### Artikel  3.17  
 
 ####Bepaling kosten verhaal eigenrisicodrager
 
-1.  Voor de eigenrisicodrager die ter dekking van het risico, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), een verzekering heeft gesloten, bedragen de kosten, die op grond van [artikel 41, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voor verhaal op de werknemer in aanmerking komen de door hem verschuldigde premie, voor zover die premie betrekking heeft op verzekering van dat risico.  
-2.  Voor de werkgever die ter dekking van het risico, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), geen verzekering heeft gesloten worden de kosten, die op grond van [artikel 41, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voor verhaal op een werknemer in aanmerking komen, vastgesteld op een percentage van het loon van de werknemer.  
-3.  Het percentage, bedoeld in het tweede lid, wordt bepaald door het totaal van de in het kalenderjaar waarvoor de premie wordt vastgesteld te verwachten betalingen van WGA-uitkeringen of in het voorgaande kalenderjaar betaalde WGA-uitkeringen overeenkomstig [artikel 82 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) te delen door het totaal van het premieplichtig loon dat in dat kalenderjaar ten laste komt of is gekomen van de eigenrisicodrager. Dit percentage bedraagt ten hoogste 1,5 maal de gedifferentieerde premie, bedoeld in [artikel 2.6, derde, vierde, vijfde en zesde lid, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), waarbij de premiecomponent ZW-lasten niet in aanmerking wordt genomen, die ten hoogste op de werkgever van toepassing zou zijn indien hij geen eigenrisicodrager zou zijn.  
-4.  Indien na afloop van het kalenderjaar blijkt, dat de te verwachten bedragen in een kalenderjaar afwijken van de gerealiseerde bedragen, kan indien dit zou leiden tot een ander bedrag van de kosten voor het verhaal, het bedrag van het verhaal in het kalenderjaar volgend op dat kalenderjaar worden herzien tot ten hoogste het bedrag, bedoeld in [artikel 41, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).  
+1.  Voor de eigenrisicodrager die ter dekking van het risico, bedoeld in artikel 40, eerste lid, onderdeel b, van de Wfsv, een verzekering heeft gesloten, bedragen de kosten, die op grond van artikel 41, eerste lid, van de Wfsv voor verhaal op de werknemer in aanmerking komen de door hem verschuldigde premie, voor zover die premie betrekking heeft op verzekering van dat risico.  
+2.  Voor de werkgever die ter dekking van het risico, bedoeld in artikel 40, eerste lid, onderdeel b, van de Wfsv, geen verzekering heeft gesloten worden de kosten, die op grond van artikel 41, eerste lid, van de Wfsv voor verhaal op een werknemer in aanmerking komen, vastgesteld op een percentage van het loon van de werknemer.  
+3.  Het percentage, bedoeld in het tweede lid, wordt bepaald door het totaal van de in het kalenderjaar waarvoor de premie wordt vastgesteld te verwachten betalingen van WGA-uitkeringen of in het voorgaande kalenderjaar betaalde WGA-uitkeringen overeenkomstig artikel 82 van de Wet WIA te delen door het totaal van het premieplichtig loon dat in dat kalenderjaar ten laste komt of is gekomen van de eigenrisicodrager. Dit percentage bedraagt ten hoogste 1,5 maal de gedifferentieerde premie, bedoeld in artikel 2.6, derde, vierde, vijfde en zesde lid, van het Besluit Wfsv, waarbij de premiecomponent ZW-lasten niet in aanmerking wordt genomen, die ten hoogste op de werkgever van toepassing zou zijn indien hij geen eigenrisicodrager zou zijn.  
+4.  Indien na afloop van het kalenderjaar blijkt, dat de te verwachten bedragen in een kalenderjaar afwijken van de gerealiseerde bedragen, kan indien dit zou leiden tot een ander bedrag van de kosten voor het verhaal, het bedrag van het verhaal in het kalenderjaar volgend op dat kalenderjaar worden herzien tot ten hoogste het bedrag, bedoeld in artikel 41, eerste lid, van de Wfsv.  
 5. Tot 1 januari 2016 wordt voor de toepassing van het derde lid, tweede zin, alleen de premiecomponent WGA-lasten vaste dienstbetrekkingen in aanmerking genomen.
 
 ### Artikel  3.18  
 
 ####Verhaal gedifferentieerde premie Werkhervattingskas
 
-De werkgever kan de met betrekking tot een werknemer door hem verschuldigde premie Werkhervattingskas die betrekking heeft op de premiecomponent WGA-lasten vaste dienstbetrekkingen en WGA-lasten flexibele dienstbetrekkingen, bedoeld in [artikel 2.5, eerste lid, onderdeel g, onderscheidenlijk h, van het Besluit Wfsv](../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), tot ten hoogste de helft verhalen op de werknemer. 
+De werkgever kan de met betrekking tot een werknemer door hem verschuldigde premie Werkhervattingskas die betrekking heeft op de premiecomponent WGA-lasten vaste dienstbetrekkingen en WGA-lasten flexibele dienstbetrekkingen, bedoeld in artikel 2.5, eerste lid, onderdeel g, onderscheidenlijk h, van het Besluit Wfsv, tot ten hoogste de helft verhalen op de werknemer. 
 
 ### Afdeling  5  
 
@@ -349,20 +349,20 @@ De werkgever kan de met betrekking tot een werknemer door hem verschuldigde prem
 
 ####Aangiftetijdvak
 
-In deze afdeling wordt onder aangiftetijdvak verstaan: het tijdvak, waarover premies werknemersverzekeringen worden betaald. 
+In deze afdeling wordt onder aangiftetijdvak verstaan: het tijdvak, waarover premies werknemersverzekeringen worden betaald. De premiekorting, bedoeld in artikel 47, eerste of tweede lid, en 49, eerste lid, van de Wfsv, wordt berekend en toegepast per aangiftetijdvak. 
 
 ### Artikel  3.20  
 
 ####Nieuwe dienstbetrekking bij dezelfde werkgever na volledig genoten premiekortingsperioden
 
-1.  De werkgever kan de premiekorting, bedoeld in de [artikel 47, eerste of tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en [49, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) niet toepassen, indien de werknemer binnen drie jaar na ommekomst van de in die artikelleden bedoelde periode van drie jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.   
-2.  De werkgever kan de premiekorting, bedoeld in [artikel 49, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) niet toepassen, indien de werknemer binnen één jaar na ommekomst van de in [artikel 49, tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde periode van één jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.  
+1.  De werkgever kan de premiekorting, bedoeld in de artikel 47, eerste of tweede lid, en 49, eerste lid, van de Wfsv niet toepassen, indien de werknemer binnen drie jaar na ommekomst van de in die artikelleden bedoelde periode van drie jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.   
+2.  De werkgever kan de premiekorting, bedoeld in artikel 49, eerste lid, van de Wfsv niet toepassen, indien de werknemer binnen één jaar na ommekomst van de in artikel 49, tweede lid bedoelde periode van één jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.  
 
 ### Artikel  3.21  
 
 ####Nieuwe dienstbetrekking bij dezelfde werkgever na niet volledig genoten premiekortingsperiode
 
-1.  Indien een werkgever niet gedurende een periode van in totaal drie respectievelijk één jaar premiekorting als bedoeld in [artikel 47, eerste of tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en [49, eerste lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), respectievelijk [artikel 49, tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) heeft toegepast: 
+1.  Indien een werkgever niet gedurende een periode van in totaal drie respectievelijk één jaar premiekorting als bedoeld in artikel 47, eerste of tweede lid, en 49, eerste lid, respectievelijk artikel 49, tweede lid, van de Wfsv heeft toegepast: 
 
 a. worden dienstbetrekkingen bij dezelfde werkgever die elkaar met tussenpozen van minder dan drie maanden opvolgen, geacht niet te zijn onderbroken en worden de perioden waarin de premiekorting wordt toegepast opgeteld totdat in totaal drie respectievelijk één jaar premiekorting is toegepast;  
 
@@ -373,67 +373,66 @@ b. kan indien dienstbetrekkingen bij dezelfde werkgever elkaar met tussenpozen v
 
 ####Premiekortingsperioden bij overgang van ondernemingen
 
-1.  In geval van overgang van een onderneming als bedoeld in [Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), waarbij door de werkgever die de onderneming overdraagt een premiekorting als bedoeld in [artikel 47, eerste of tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), of [artikel 49 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), is toegepast, wordt voor de toepassing van genoemde artikelen de premiekorting aangemerkt als een premiekorting toegepast door de werkgever die de onderneming overneemt.   
+1.  In geval van overgang van een onderneming als bedoeld in Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek, waarbij door de werkgever die de onderneming overdraagt een premiekorting als bedoeld in artikel 47, eerste of tweede lid, of artikel 49 van de Wfsv, is toegepast, wordt voor de toepassing van genoemde artikelen de premiekorting aangemerkt als een premiekorting toegepast door de werkgever die de onderneming overneemt.   
 2.  Indien slechts een deel van de onderneming overgaat als bedoeld in het eerste lid, vindt het eerste lid uitsluitend toepassing, indien de werknemers voor wie premiekortingen zijn toegepast als bedoeld in het eerste lid, hun werkzaamheden uitoefenen bij het deel van de onderneming dat wordt overgenomen. 
 
 ### Artikel  3.24  
 
 ####Evenredige vermindering premiekorting
 
-1.  Indien de dienstbetrekking met de werknemer niet aanvangt respectievelijk eindigt op de eerste dag respectievelijk laatste dag van het aangiftetijdvak, wordt het bedrag van de premiekorting, bedoeld in [artikel 48](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [50 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), over dat aangiftetijdvak vermenigvuldigd met de factor A/B waarbij A staat voor: het aantal kalenderdagen in dat aangiftetijdvak dat de werknemer in dienstbetrekking heeft gestaan tot de werkgever; B staat voor: het totale aantal kalenderdagen in dat aangiftetijdvak.   
-2.  Indien een werknemer in het aangiftetijdvak werkzaam is in een dienstbetrekking waarin de beloning voor de arbeid niet is gebaseerd op overeengekomen arbeidsduur, wordt voor de toepassing van [artikel 48](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [50 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bij een loon van ten minste het voor hem geldende wettelijk minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld, de werknemer geacht ten minste 36 uur per week te hebben gewerkt. Indien het loon in dat aangiftetijdvak minder is dan het voor hem geldende wettelijk minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld, dan wordt het in de eerste zin bedoelde aantal uren per week naar evenredigheid verminderd met een factor C/D waarbij C staat voor: het loon dat uit de dienstbetrekking wordt genoten in het aangiftetijdvak; D staat voor: het voor de werknemer geldende wettelijke minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld.  
+1.  Indien de dienstbetrekking met de werknemer niet aanvangt respectievelijk eindigt op de eerste dag respectievelijk laatste dag van het aangiftetijdvak, wordt het bedrag van de premiekorting, bedoeld in artikel 48 en 50 van de Wfsv, over dat aangiftetijdvak vermenigvuldigd met de factor A/B waarbij A staat voor: het aantal kalenderdagen in dat aangiftetijdvak dat de werknemer in dienstbetrekking heeft gestaan tot de werkgever; B staat voor: het totale aantal kalenderdagen in dat aangiftetijdvak.   
+2.  Indien een werknemer in het aangiftetijdvak werkzaam is in een dienstbetrekking waarin de beloning voor de arbeid niet is gebaseerd op overeengekomen arbeidsduur, wordt voor de toepassing van artikel 48 en 50 van de Wfsv bij een loon van ten minste het voor hem geldende wettelijk minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld, de werknemer geacht ten minste 36 uur per week te hebben gewerkt. Indien het loon in dat aangiftetijdvak minder is dan het voor hem geldende wettelijk minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld, dan wordt het in de eerste zin bedoelde aantal uren per week naar evenredigheid verminderd met een factor C/D waarbij C staat voor: het loon dat uit de dienstbetrekking wordt genoten in het aangiftetijdvak; D staat voor: het voor de werknemer geldende wettelijke minimumloon per 1 januari van het kalenderjaar waarvoor de premie wordt vastgesteld.   
+3.  Het eerste lid is van overeenkomstige toepassing in het aangiftetijdvak waarin de maximale duur voor de toepassing van de premiekorting is bereikt, dan wel indien de betrokkene niet langer werknemer is als bedoeld in artikel 1 van de Wfsv. 
 
 ### Artikel  3.24a  
 
 ####Verrekening premiekorting
 
-De werkgever kan de premiekorting, bedoeld in de [artikelen 47, eerste of tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en [49, eerste of tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) uitsluitend verrekenen met het totaal van de verschuldigde premies, bedoeld in artikel 47, eerste lid, onderscheidenlijk 49, eerste lid, van de Wfsv in het kalenderjaar waarin recht bestaat op de premiekorting. 
+De werkgever kan de premiekorting, bedoeld in de artikelen 47, eerste of tweede lid, en 49, eerste of tweede lid, van de Wfsv uitsluitend verrekenen met het totaal van de verschuldigde premies, bedoeld in artikel 47, eerste lid, onderscheidenlijk 49, eerste lid, van de Wfsv in het kalenderjaar waarin recht bestaat op de premiekorting. 
 
 ### Artikel  3.25  
 
 ####Nadere regels overgangsrecht premievrijstelling oudere werknemers
 
-1.  In geval van overgang van een onderneming als bedoeld in [Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), waarbij de werkgever die de onderneming overdraagt, de premievrijstelling, bedoeld in [artikel 122c van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), toepast, wordt de toepassing van [artikel 122c van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) voortgezet door de werkgever die de onderneming overneemt, voor zover de werknemer voor wie [artikel 122c van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) werd toegepast de werkzaamheden uitoefent in de onderneming, die wordt overgenomen.   
-2.   De toepassing van de premievrijstelling op grond van [artikel 122c van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) eindigt met ingang van de eerste dag van het loontijdvak, waarin de werknemer 62 jaar wordt.  
+1.  In geval van overgang van een onderneming als bedoeld in Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek, waarbij de werkgever die de onderneming overdraagt, de premievrijstelling, bedoeld in artikel 122c van de Wfsv, toepast, wordt de toepassing van artikel 122c van de Wfsv voortgezet door de werkgever die de onderneming overneemt, voor zover de werknemer voor wie artikel 122c van de Wfsv werd toegepast de werkzaamheden uitoefent in de onderneming, die wordt overgenomen.   
+2.   De toepassing van de premievrijstelling op grond van artikel 122c van de Wfsv eindigt met ingang van de eerste dag van het loontijdvak, waarin de werknemer 62 jaar wordt.  
 
 ### Afdeling  6  
 
 ####Premiekorting jongere werknemer
 
-Treedt in werking per 01-07-2014 
+### Artikel  3.26  
+
+####Nieuwe dienstbetrekking bij dezelfde werkgever
+
+Voor de toepassing van artikel 48a van de Wfsv wordt een dienstbetrekking die is aangevangen vóór 1 januari 2014 en wordt beëindigd vóór, op of na die datum maar binnen drie maanden wordt opgevolgd door een dienstbetrekking bij dezelfde werkgever geacht niet te zijn onderbroken. 
 
 ### Artikel  3.27  
 
 ####Nieuwe dienstbetrekking bij dezelfde werkgever na niet volledig genoten premiekortingsperiode
 
-Treedt in werking per 01-07-2014 
+1.  Indien een werkgever niet gedurende een periode van in totaal twee jaar premiekorting als bedoeld in artikel 48a, tweede lid, van de Wfsv heeft toegepast: 
 
-1.  Indien een werkgever niet gedurende een periode van in totaal twee jaar premiekorting als bedoeld in [artikel 48a, tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) heeft toegepast: 
+a. worden dienstbetrekkingen bij dezelfde werkgever die elkaar met tussenpozen van minder dan drie maanden opvolgen, geacht niet te zijn onderbroken en worden de perioden waarin de premiekorting kan worden toegepast opgeteld totdat in totaal twee jaar premiekorting is toegepast, met inachtneming van artikel 48a, tweede lid, onderdeel c, van de Wfsv;  
 
-a. worden dienstbetrekkingen bij dezelfde werkgever die elkaar met tussenpozen van minder dan drie maanden opvolgen, geacht niet te zijn onderbroken en worden de perioden waarin de premiekorting kan worden toegepast opgeteld totdat in totaal twee jaar premiekorting is toegepast, met inachtneming van [artikel 48a, tweede lid, onderdeel c, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
-
-b. kan indien dienstbetrekkingen bij dezelfde werkgever elkaar met tussenpozen van drie maanden of meer doch ten hoogste zes maanden opvolgen, de premiekorting niet opnieuw worden toegepast en beslaat de premiekortingsperiode de periode vanaf het moment dat de eerdere premiekortingsperiode een aanvang nam totdat twee jaar zijn verstreken, zonder dat over de tussenliggende periode premiekorting is toegepast, met inachtneming van [artikel 48a, tweede lid, onderdeel c, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).     
+b. kan indien dienstbetrekkingen bij dezelfde werkgever elkaar met tussenpozen van drie maanden of meer doch ten hoogste zes maanden opvolgen, de premiekorting niet opnieuw worden toegepast en beslaat de premiekortingsperiode de periode vanaf het moment dat de eerdere premiekortingsperiode een aanvang nam totdat twee jaar zijn verstreken, zonder dat over de tussenliggende periode premiekorting is toegepast, met inachtneming van artikel 48a, tweede lid, onderdeel c, van de Wfsv.     
 2.  Het eerste lid is van overeenkomstige toepassing indien de dienstbetrekking in de periode, bedoeld in de onderdelen a of b, van dat lid, niet is onderbroken maar in de genoemde periode geen premiekorting kon worden toegepast.  
 
 ### Artikel  3.28  
 
 ####Afwijkend aangiftetijdvak
 
-Treedt in werking per 01-07-2014 
-
-Voor de toepassing van [artikel 48b van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt bij de vaststelling van de door een werkgever met een ander aangiftetijdvak dan een maand de premiekorting voor het jaar 2014 als volgt berekend: bij een aangiftetijdvak van vier aaneengesloten weken wordt van de over het zevende aangiftetijdvak toe te passen premiekorting 13/28 in aanmerking genomen. 
+Voor de toepassing van artikel 48b van de Wfsv wordt bij de vaststelling van de door een werkgever met een ander aangiftetijdvak dan een maand de premiekorting voor het jaar 2014 als volgt berekend: bij een aangiftetijdvak van vier aaneengesloten weken wordt van de over het zevende aangiftetijdvak toe te passen premiekorting 13/28 in aanmerking genomen. 
 
 ### Artikel  3.29  
 
 ####Overige Uitvoeringsbepalingen
 
-Treedt in werking per 01-07-2014 
-
-Ten aanzien van de toepassing van de [artikelen 48a](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [48b van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md): 
+Ten aanzien van de toepassing van de artikelen 48a en 48b van de Wfsv: 
 
 a. zijn de artikelen 3.19, 3.22 en 3.24, eerste en derde lid, van overeenkomstige toepassing;  
 
-b. is artikel 3.24a van overeenkomstige toepassing met dien verstande dat voor het kalenderjaar 2014 geldt dat de premiekorting, bedoeld in [artikel 48a van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), door de werkgever verrekend kan worden in de aangiftetijdvakken die betrekking hebben op de periode vanaf 1 juli 2014.   
+b. is artikel 3.24a van overeenkomstige toepassing met dien verstande dat voor het kalenderjaar 2014 geldt dat de premiekorting, bedoeld in artikel 48a van de Wfsv, door de werkgever verrekend kan worden in de aangiftetijdvakken die betrekking hebben op de periode vanaf 1 juli 2014.   
 
 ### Hoofdstuk  4  
 
@@ -443,8 +442,8 @@ b. is artikel 3.24a van overeenkomstige toepassing met dien verstande dat voor h
 
 ####Gemoedsbezwaarden
 
-1.  De persoon, die gemoedsbezwaren heeft tegen één van de verzekeringen, geregeld in de [AOW](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [ANW](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [AWBZ](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), alsmede de rechtspersoon, waarbij natuurlijke personen betrokken zijn, die zodanige gemoedsbezwaren hebben, kan op zijn verzoek door de SVB worden ontheven van verplichtingen hem bij de [Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), of één van de andere, in dit artikel genoemde wetten opgelegd.   
-2.  In afwijking van het eerste lid kan geen ontheffing worden verleend van de verplichtingen, bedoeld in [artikel 54 van de AWBZ](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), de [artikelen 13](../../../../wet/ziektewet/BWBR0001888/README.md) en [49 van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md), de [artikelen 12](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [80 van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [artikelen 27](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [33 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en de [artikelen 13](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [25 van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md).  
+1.  De persoon, die gemoedsbezwaren heeft tegen één van de verzekeringen, geregeld in de AOW, de ANW, de AWBZ, de ZW, de WAO, de Wet WIA en de WW, alsmede de rechtspersoon, waarbij natuurlijke personen betrokken zijn, die zodanige gemoedsbezwaren hebben, kan op zijn verzoek door de SVB worden ontheven van verplichtingen hem bij de Wfsv, of één van de andere, in dit artikel genoemde wetten opgelegd.   
+2.  In afwijking van het eerste lid kan geen ontheffing worden verleend van de verplichtingen, bedoeld in artikel 54 van de AWBZ, de artikelen 13 en 49 van de ZW, de artikelen 12 en 80 van de WAO, de artikelen 27 en 33 van de Wet WIA en de artikelen 13 en 25 van de WW.  
 
 ### Artikel  4.2  
 
@@ -521,7 +520,7 @@ b. indien naar het oordeel van de SVB de gemoedsbezwaren, op grond waarvan de on
 
 ####Weigering uitkering
 
-In geval van intrekking van een ontheffing van verplichtingen als werknemer, is het UWV bevoegd [artikel 44 van de Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) toe te passen indien ongeschiktheid tot werken wegens ziekte, anders dan wegens zwangerschap en bevalling, bestond op de dag van intrekking van de ontheffing, dan wel is ingetreden binnen vier weken na die dag. Op deze termijnen is de [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) niet van toepassing. 
+In geval van intrekking van een ontheffing van verplichtingen als werknemer, is het UWV bevoegd artikel 44 van de Ziektewet toe te passen indien ongeschiktheid tot werken wegens ziekte, anders dan wegens zwangerschap en bevalling, bestond op de dag van intrekking van de ontheffing, dan wel is ingetreden binnen vier weken na die dag. Op deze termijnen is de Algemene termijnenwet niet van toepassing. 
 
 ### Hoofdstuk  5  
 
@@ -539,7 +538,7 @@ In geval van intrekking van een ontheffing van verplichtingen als werknemer, is 
 
 ####Indeling in sectoren
 
-Het bedrijfs- en beroepsleven wordt ingedeeld in de volgende genummerde sectoren, bedoeld in [artikel 95, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md): 
+Het bedrijfs- en beroepsleven wordt ingedeeld in de volgende genummerde sectoren, bedoeld in artikel 95, van de Wfsv: 
 
 1. Agrarisch bedrijf  
 
@@ -750,8 +749,8 @@ c. die werkzaamheden niet uitsluitend of in hoofdzaak ten behoeve van dat bedrij
 
 ####Vergoeding remigratiebijdragen
 
-1.  Het UWV vergoedt met inachtneming van de [artikelen 102, eerste en tweede lid](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en [110, eerste en tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), per kalenderjaar aan de Minister van Sociale Zaken en Werkgelegenheid de door de SVB in dat jaar aan werknemers toegekende remigratiebijdragen, doch ten hoogste tot een bedrag gelijk aan het totaal van de uitkeringen die op grond van de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) in dat kalenderjaar waarin remigratiebijdragen zijn verstrekt, aan deze werknemers hadden moeten worden betaald, indien zij werkloos waren gebleven en niet naar een bestemmingsland als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md) waren vertrokken.   
-2.  Onder remigratiebijdrage als bedoeld in het eerste lid wordt verstaan: een periodieke uitkering als bedoeld in [artikel 4, eerste lid, van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md) of een tegemoetkoming als bedoeld in [artikel 4, derde lid, van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md).  
+1.  Het UWV vergoedt met inachtneming van de artikelen 102, eerste en tweede lid, en 110, eerste en tweede lid, van de Wfsv, per kalenderjaar aan de Minister van Sociale Zaken en Werkgelegenheid de door de SVB in dat jaar aan werknemers toegekende remigratiebijdragen, doch ten hoogste tot een bedrag gelijk aan het totaal van de uitkeringen die op grond van de WW in dat kalenderjaar waarin remigratiebijdragen zijn verstrekt, aan deze werknemers hadden moeten worden betaald, indien zij werkloos waren gebleven en niet naar een bestemmingsland als bedoeld in artikel 1, eerste lid, onderdeel e, van de Remigratiewet waren vertrokken.   
+2.  Onder remigratiebijdrage als bedoeld in het eerste lid wordt verstaan: een periodieke uitkering als bedoeld in artikel 4, eerste lid, van de Remigratiewet of een tegemoetkoming als bedoeld in artikel 4, derde lid, van de Remigratiewet.  
 
 ### Artikel  5.10  
 
@@ -775,16 +774,16 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in artikel 5.10, beta
 
 1.  In artikel 5.13 wordt verstaan onder: 
 
-a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), waarover het UWV in een kalenderjaar de premies ten gunste van het Algemeen Werkloosheidsfonds zou ontvangen, indien [artikel 17, tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) buiten toepassing zou blijven;  
+a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in artikel 26 van de Wfsv, waarover het UWV in een kalenderjaar de premies ten gunste van het Algemeen Werkloosheidsfonds zou ontvangen, indien artikel 17, tweede lid, van de Wfsv buiten toepassing zou blijven;  
 
-b. de werkloosheidslasten: hetgeen op grond van [artikel 100, onderdeel a, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) ten laste van het Algemeen werkloosheidsfonds komt;  
+b. de werkloosheidslasten: hetgeen op grond van artikel 100, onderdeel a, van de Wfsv ten laste van het Algemeen werkloosheidsfonds komt;  
 
 c. de drempelwaarde: 0,2 procentpunt.     
 2.  In artikel 5.14 wordt verstaan onder:
 
-a. *de verzekerde loonsom:* het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), waarover het UWV in een kalenderjaar de premies ten gunste van een sectorfonds ontvangt, met uitzondering van het loon, waarop [artikel 28, tweede lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) van toepassing is;
+a. *de verzekerde loonsom:* het totaalbedrag van het loon, bedoeld in artikel 26 van de Wfsv, waarover het UWV in een kalenderjaar de premies ten gunste van een sectorfonds ontvangt, met uitzondering van het loon, waarop artikel 28, tweede lid, van de Wfsv van toepassing is;
 
-b.*werkloosheidslasten:* hetgeen op grond van [artikel 104, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) ten laste van een sectorfonds komt en hetgeen op grond van artikel 104, vierde lid, van de Wfsv ten laste van het Algemeen Werkloosheidsfonds komt;
+b.*werkloosheidslasten:* hetgeen op grond van artikel 104, eerste lid, van de Wfsv ten laste van een sectorfonds komt en hetgeen op grond van artikel 104, vierde lid, van de Wfsv ten laste van het Algemeen Werkloosheidsfonds komt;
 
 c.*de drempelwaarde:* 0,4 procentpunt.   
 3.  In de artikelen 5.13 en 5.14 wordt verstaan onder: 
@@ -797,7 +796,7 @@ b. de wijziging van het lastenpercentage in een kalenderjaar: het verschil tusse
 
 ####De reserve voor het algemeen werkloosheidsfonds
 
-1.  De reserve voor het Algemeen Werkloosheidsfonds, bedoeld in [artikel 23, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), wordt niet gevormd of instandgehouden, indien in het tweede kalenderjaar voorafgaande aan het kalenderjaar waarin de reserve zou worden gevormd of instandgehouden, of in de 14 aan dat tweede kalenderjaar voorafgaande kalenderjaren, het lastenpercentage van de werkloosheidslasten niet ten minste éénmaal een wijziging van minimaal de drempelwaarde heeft gekend.   
+1.  De reserve voor het Algemeen Werkloosheidsfonds, bedoeld in artikel 23, eerste lid, van de Wfsv, wordt niet gevormd of instandgehouden, indien in het tweede kalenderjaar voorafgaande aan het kalenderjaar waarin de reserve zou worden gevormd of instandgehouden, of in de 14 aan dat tweede kalenderjaar voorafgaande kalenderjaren, het lastenpercentage van de werkloosheidslasten niet ten minste éénmaal een wijziging van minimaal de drempelwaarde heeft gekend.   
 2.  De reserve heeft aan het einde van elk kalenderjaar een omvang van ten hoogste 2,5 maal de verzekerde loonsom in dat kalenderjaar maal het verschil tussen de grootste wijziging van het lastenpercentage van de werkloosheidslasten en de drempelwaarde in het jaar van de grootste wijziging.  
 
 ### Artikel 5.14  
@@ -868,7 +867,7 @@ d. de afschrijvingen van het tegoed van ’s Rijks schatkist bij een bankinstell
 3.  De Minister van Financiën sluit met de SVB en het UWV overeenkomsten ter uitwerking van het gebruik van de rekeningen-courant.   
 4.  In een overeenkomst als bedoeld in het derde lid worden afspraken vastgelegd over de wederzijdse informatievoorziening tussen enerzijds de Minister van Financiën en anderzijds respectievelijk de SVB en het UWV.   
 5.  De boekingen, bedoeld in het eerste lid, onderdeel b, worden door de Minister van Financiën van valutadata voorzien, zodanig dat deze data overeenkomen met de gemiddelde data waarop de premies door de rijksbelastingdienst worden geïnd.   
-6.  De [artikelen 4.3](../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [4.4 van de Regeling zorgverzekering](../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zijn van overeenkomstige toepassing op de rekeningen-courant op naam van het Zorginstituut ten behoeve van de financiële middelen van het Algemeen Fonds Bijzondere Ziektekosten.  
+6.  De artikelen 4.3 en 4.4 van de Regeling zorgverzekering zijn van overeenkomstige toepassing op de rekeningen-courant op naam van het Zorginstituut ten behoeve van de financiële middelen van het Algemeen Fonds Bijzondere Ziektekosten.  
 
 ### Artikel  5.18  
 
@@ -926,21 +925,21 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen
 
 In deze afdeling wordt verstaan onder: 
 
-a. Algemeen Kinderbijslagfonds: het Algemeen Kinderbijslagfonds, genoemd in [artikel 29a van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
+a. Algemeen Kinderbijslagfonds: het Algemeen Kinderbijslagfonds, genoemd in artikel 29a van de AKW;  
 
-b. lasten met betrekking tot het Algemeen Kinderbijslagfonds: de op grond van de [AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) uit te keren kinderbijslagen, alsmede de aan de uitvoering van de [AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) verbonden kosten;  
+b. lasten met betrekking tot het Algemeen Kinderbijslagfonds: de op grond van de AKW uit te keren kinderbijslagen, alsmede de aan de uitvoering van de AKW verbonden kosten;  
 
-c.  overige baten en lasten met betrekking tot het Algemeen Kinderbijslagfonds: de baten verkregen met toepassing van [artikel 17a van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), de baten verkregen met toepassing van [artikel 17 van de AKW](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en de baten en lasten verkregen door interesten en diversen;  
+c.  overige baten en lasten met betrekking tot het Algemeen Kinderbijslagfonds: de baten verkregen met toepassing van artikel 17a van de AKW, de baten verkregen met toepassing van artikel 17 van de AKW en de baten en lasten verkregen door interesten en diversen;  
 
-d. Wajong-fonds: het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in [artikel 5:1 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+d. Wajong-fonds: het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in artikel 5:1 van de Wet Wajong;  
 
-e. Toeslagenfonds: het Toeslagenfonds, genoemd in [artikel 31 van de Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+e. Toeslagenfonds: het Toeslagenfonds, genoemd in artikel 31 van de Toeslagenwet;  
 
-f. overige baten en lasten met betrekking tot het Wajong-fonds: wettelijke rente, proceskosten, rentelasten, baten op grond van [artikel 4:2 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en de vereveningsbijdrage, bedoeld in [artikel 2:54](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:46 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+f. overige baten en lasten met betrekking tot het Wajong-fonds: wettelijke rente, proceskosten, rentelasten, baten op grond van artikel 4:2 van de Wet Wajong, en de vereveningsbijdrage, bedoeld in artikel 2:54 of 3:46 van de Wet Wajong;  
 
 g. valutadag: de op de rekening-courantafschriften aangegeven dag van betaling;  
 
-h. overige baten en lasten met betrekking tot het Toeslagenfonds: wettelijke rente, proceskosten, rentelasten en de baten verkregen met toepassing van [artikel 14a van de TW](../../../../wet/toeslagenwet/BWBR0004043/README.md).  
+h. overige baten en lasten met betrekking tot het Toeslagenfonds: wettelijke rente, proceskosten, rentelasten en de baten verkregen met toepassing van artikel 14a van de TW.  
 
 ### §  2  
 
@@ -951,7 +950,7 @@ h. overige baten en lasten met betrekking tot het Toeslagenfonds: wettelijke ren
 ####Raming baten en lasten
 
 1.  Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Algemeen Kinderbijslagfonds, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
-2.  De bedragen in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar het aantal kinderbijslaggerechtigden en het aantal kinderen naar leeftijdsklassen en naar rangorde uitgesplitst naar toepassing van [artikel 12 van de Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).  
+2.  De bedragen in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar het aantal kinderbijslaggerechtigden en het aantal kinderen naar leeftijdsklassen en naar rangorde uitgesplitst naar toepassing van artikel 12 van de Algemene Kinderbijslagwet.  
 
 ### Artikel  5.25  
 
@@ -968,8 +967,8 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten opgenomen, alsmede de ontvangen voorschotten, bedoeld in artikel 5.25, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten opgenomen, alsmede de ontvangen voorschotten, bedoeld in artikel 5.25, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### §  3  
 
@@ -983,13 +982,13 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 2.  De middelen voor Arbeidsondersteuningsfonds jonggehandicapten dienen ter dekking van lasten die op grond van enige wettelijk voorschrift ten laste van het Arbeidsondersteuningsfonds jonggehandicapten komen.   
 3.  De middelen voor het Toeslagenfonds dienen ter dekking van lasten van het UWV voor: 
 
-a. toeslagen op grond van de [TW](../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+a. toeslagen op grond van de TW;  
 
-b. uitkeringen op grond van de [Tijdelijke wet BIA](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md);  
+b. uitkeringen op grond van de Tijdelijke wet BIA;  
 
-c. tegemoetkomingen op grond van [artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
+c. tegemoetkomingen op grond van de artikelen 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-d. uitkeringen op grond van de [IOW](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).   
+d. uitkeringen op grond van de IOW.   
 
 ### Artikel  5.29b  
 
@@ -997,11 +996,11 @@ d. uitkeringen op grond van de [IOW](../../../../wet/wet/inkomensvoorziening/oud
 
 In deze paragraaf wordt verstaan onder: 
 
-a.  *toeslagen:* toeslagen op grond van de [TW](../../../../wet/toeslagenwet/BWBR0004043/README.md), inclusief de op grond van enige wet over de toeslagen door het UWV verschuldigde premies die niet op deze toeslagen in mindering kunnen worden gebracht en de door het UWV verschuldigde vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Onder toeslagen wordt mede begrepen de uitkeringen op grond van de [Tijdelijke wet BIA](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md);  
+a.  *toeslagen:* toeslagen op grond van de TW, inclusief de op grond van enige wet over de toeslagen door het UWV verschuldigde premies die niet op deze toeslagen in mindering kunnen worden gebracht en de door het UWV verschuldigde vergoedingen, bedoeld in artikel 46 van de Zorgverzekeringswet. Onder toeslagen wordt mede begrepen de uitkeringen op grond van de Tijdelijke wet BIA;  
 
-b.  *uitkeringen:* uitkeringen op grond van de [IOW](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), inclusief de op grond van enige wet over de uitkeringen door het UWV verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, de door het UWV verschuldigde vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en de tegemoetkomingen op grond van de [artikelen 2:52](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:10 van de Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+b.  *uitkeringen:* uitkeringen op grond van de IOW en de Wet Wajong, inclusief de op grond van enige wet over de uitkeringen door het UWV verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, de door het UWV verschuldigde vergoedingen, bedoeld in artikel 46 van de Zorgverzekeringswet, en de tegemoetkomingen op grond van de artikelen 2:52 en 3:10 van de Wet Wajong;  
 
-c.  *tegemoetkomingen:* tegemoetkomingen op grond van [artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
+c.  *tegemoetkomingen:* tegemoetkomingen op grond van de artikelen 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
 d.  *overige baten en lasten:* de overige baten en lasten met betrekking tot het Wajong-fonds en de overige baten en lasten met betrekking tot het Toeslagenfonds.  
 
@@ -1027,9 +1026,9 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.31, eerste lid, met betrekking tot hetToeslagenfonds en het Wajong-fonds opgenomen, waarbij de gegevens met betrekking tot het Toeslagenfonds tevens worden gespecificeerd naar de in artikel 5.29a, derde lid, genoemde wetten, met uitzondering van onderdeel b.   
-2.  De overige baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds kunnen in de jaarrekening, bedoeld in het eerste lid, worden toegerekend aan respectievelijk de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md) en de [Wet Wajong](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).   
-3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.31, eerste lid, met betrekking tot hetToeslagenfonds en het Wajong-fonds opgenomen, waarbij de gegevens met betrekking tot het Toeslagenfonds tevens worden gespecificeerd naar de in artikel 5.29a, derde lid, genoemde wetten, met uitzondering van onderdeel b.   
+2.  De overige baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds kunnen in de jaarrekening, bedoeld in het eerste lid, worden toegerekend aan respectievelijk de Toeslagenwet en de Wet Wajong.   
+3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### §  4  
 
@@ -1039,8 +1038,8 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Raming baten en lasten
 
-1.  Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Arbeidsongeschiktheidsfonds, op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), en [artikel 3.30 van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
-2.  In deze paragraaf wordt onder uitkeringen verstaan de uitkeringslasten inclusief de door het UWV over die uitkeringen verschuldigde premies en vergoedingen, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die niet op deze uitkeringen in mindering kunnen worden gebracht.  
+1.  Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Arbeidsongeschiktheidsfonds, op grond van hoofdstuk 3, afdeling 2, paragraaf 2, en artikel 3.30 van de Wet arbeid en zorg, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.   
+2.  In deze paragraaf wordt onder uitkeringen verstaan de uitkeringslasten inclusief de door het UWV over die uitkeringen verschuldigde premies en vergoedingen, bedoeld in artikel 46 van de Zorgverzekeringswet, die niet op deze uitkeringen in mindering kunnen worden gebracht.  
 
 ### Artikel  5.37  
 
@@ -1057,14 +1056,14 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.37, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot hetArbeidsongeschiktheidsfonds opgenomen.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.37, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot hetArbeidsongeschiktheidsfonds opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### Artikel 5.39  
 
 ####Vaststelling rijksbijdrage
 
-De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober het bedrag vast dat over het afgelopen kalenderjaar als rijksbijdrage als bedoeld in [artikel 114, onderdeel f, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), ten gunste komt van het Arbeidsongeschiktheidsfonds. 
+De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober het bedrag vast dat over het afgelopen kalenderjaar als rijksbijdrage als bedoeld in artikel 114, onderdeel f, van de Wet financiering sociale verzekeringen, ten gunste komt van het Arbeidsongeschiktheidsfonds. 
 
 ### Afdeling  4  
 
@@ -1078,15 +1077,15 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktobe
 
 ####Rijksbijdrage voor UWV
 
-1.  In verband met het middelenbeheer wordt de rijksbijdrage, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) beschouwd als middelen die deel uitmaken van het Algemeen Werkloosheidsfonds.   
-2.  De Minister van Sociale Zaken en Werkgelegenheid bepaalt dat bepaalde kosten, die ten laste komen van de rijksbijdrage aan het UWV, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) in afwijking van het eerste lid niet als uitgaven ten laste van de fondsen, bedoeld in [artikel 45, eerste lid, onderdelen a tot en met d, van die wet](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) komen.  
+1.  In verband met het middelenbeheer wordt de rijksbijdrage, bedoeld in artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen beschouwd als middelen die deel uitmaken van het Algemeen Werkloosheidsfonds.   
+2.  De Minister van Sociale Zaken en Werkgelegenheid bepaalt dat bepaalde kosten, die ten laste komen van de rijksbijdrage aan het UWV, bedoeld in artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen in afwijking van het eerste lid niet als uitgaven ten laste van de fondsen, bedoeld in artikel 45, eerste lid, onderdelen a tot en met d, van die wet komen.  
 
 ### Artikel  5.41  
 
 ####Kosten BKWI
 
-1. De kosten van het in [artikel 5.21, tweede lid, van het Besluit SUWI](../../../../AMvB/besluit/suwi/BWBR0013267/README.md) bedoelde organisatieonderdeel dat in het bijzonder is belast met het beheer van de elektronische voorzieningen, komen als bedoeld in artikel 5.40, tweede lid, direct ten laste van de rijksbijdrage aan het UWV, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).  
-2.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant van het UWV, bedoeld in [artikel 120, eerste lid, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), een periodiek voorschot ter hoogte van 1/12<sup>de</sup> deel van de in het eerste lid bedoelde kosten, met als valutadag de vijftiende dag van elke maand. De Minister kan na overleg met het UWV voor het in [artikel 5.21, tweede lid, van het Besluit SUWI](../../../../AMvB/besluit/suwi/BWBR0013267/README.md) bedoelde organisatieonderdeel van het in de eerste zin genoemde bedrag afwijken. 
+1. De kosten van het in artikel 5.21, tweede lid, van het Besluit SUWI bedoelde organisatieonderdeel dat in het bijzonder is belast met het beheer van de elektronische voorzieningen, komen als bedoeld in artikel 5.40, tweede lid, direct ten laste van de rijksbijdrage aan het UWV, bedoeld in artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen.  
+2.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant van het UWV, bedoeld in artikel 120, eerste lid, van de Wfsv, een periodiek voorschot ter hoogte van 1/12<sup>de</sup> deel van de in het eerste lid bedoelde kosten, met als valutadag de vijftiende dag van elke maand. De Minister kan na overleg met het UWV voor het in artikel 5.21, tweede lid, van het Besluit SUWI bedoelde organisatieonderdeel van het in de eerste zin genoemde bedrag afwijken. 
 
 ### §  2  
 
@@ -1096,7 +1095,7 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktobe
 
 ####Begripsbepaling
 
-In deze paragraaf wordt verstaan onder AIO: algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen, bedoeld in [artikel 47a, eerste lid, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md). 
+In deze paragraaf wordt verstaan onder AIO: algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen, bedoeld in artikel 47a, eerste lid, van de Wet werk en bijstand. 
 
 ### Artikel  5.43  
 
@@ -1119,8 +1118,8 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.44, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot de toekenning van AIO opgenomen.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.44, eerste lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot de toekenning van AIO opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### §  3  
 
@@ -1132,9 +1131,9 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 In deze paragraaf wordt verstaan onder: 
 
-a.  *WKB:* het totaalbedrag van de kindgebonden budgetten die door tussenkomst van de SVB worden uitbetaald en waarbij sprake is van toepassing van de [Regeling samenloop met buitenlandse tegemoetkomingen 2008](../../../../ministeriele-regeling/regeling/samenloop/met/buitenlandse/tegemoetkomingen/2008/BWBR0025183/README.md) of van uitbetaling van kindgebonden budget aan degenen die in Marokko zijn belast met de zorg voor in Marokko woonachtige kinderen;  
+a.  *WKB:* het totaalbedrag van de kindgebonden budgetten die door tussenkomst van de SVB worden uitbetaald en waarbij sprake is van toepassing van de Regeling samenloop met buitenlandse tegemoetkomingen 2008 of van uitbetaling van kindgebonden budget aan degenen die in Marokko zijn belast met de zorg voor in Marokko woonachtige kinderen;  
 
-b.  *uitvoeringskosten:* het totaalbedrag van de kosten die de SVB maakt bij de uitvoering, bedoeld in [artikel 34, derde lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) voor zover het betreft de [Wet op het kindgebonden budget](../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md), de uitvoering van de [Regeling samenloop met buitenlandse tegemoetkomingen 2008](../../../../ministeriele-regeling/regeling/samenloop/met/buitenlandse/tegemoetkomingen/2008/BWBR0025183/README.md) en de uitvoering van de uitbetaling van kindgebonden budget aan degenen die in Marokko zijn belast met de zorg voor in Marokko woonachtige kinderen van een aanspraak op het kindgebonden budget.  
+b.  *uitvoeringskosten:* het totaalbedrag van de kosten die de SVB maakt bij de uitvoering, bedoeld in artikel 34, derde lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen voor zover het betreft de Wet op het kindgebonden budget, de uitvoering van de Regeling samenloop met buitenlandse tegemoetkomingen 2008 en de uitvoering van de uitbetaling van kindgebonden budget aan degenen die in Marokko zijn belast met de zorg voor in Marokko woonachtige kinderen van een aanspraak op het kindgebonden budget.  
 
 ### Artikel  5.50  
 
@@ -1157,18 +1156,18 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.51, eerste lid, met betrekking tot de WKB opgenomen.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.51, eerste lid, met betrekking tot de WKB opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### §  4  
 
-####Rijksbijdrage [Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md)
+####Rijksbijdrage Remigratiewet
 
 ### Artikel  5.53  
 
 ####Begripsbepaling
 
-In deze paragraaf wordt verstaan onder remigratiekosten: De kosten voor remigratievoorzieningen op grond van de [Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md), en de daarmee samenhangende uitvoeringskosten. 
+In deze paragraaf wordt verstaan onder remigratiekosten: De kosten voor remigratievoorzieningen op grond van de Remigratiewet, en de daarmee samenhangende uitvoeringskosten. 
 
 ### Artikel  5.54  
 
@@ -1191,8 +1190,8 @@ b. 1/12de deel van de geraamde uitvoeringskosten met als valutadatum de vijftien
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.55, eerste lid, uitgesplitst naar kosten voor remigratievoorzieningen en uitvoeringskosten, met betrekking tot de remigratiekosten opgenomen.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.55, eerste lid, uitgesplitst naar kosten voor remigratievoorzieningen en uitvoeringskosten, met betrekking tot de remigratiekosten opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### Hoofdstuk  6  
 
@@ -1202,17 +1201,17 @@ b. 1/12de deel van de geraamde uitvoeringskosten met als valutadatum de vijftien
 
 ####Intrekking regelingen
 
-1.  De [Regeling vergoeding bijdragen Remigratiewet](../../../../ministeriele-regeling/regeling/vergoeding/bijdragen/remigratiewet/BWBR0011263/README.md) wordt ingetrokken.   
-2.  De [Regeling rekening-courantverhouding sociale verzekeringen](../../../../ministeriele-regeling/regeling/rekening-courantverhouding/sociale/verzekeringen/BWBR0009109/README.md) wordt ingetrokken.   
-3.  De [Regeling indeling bedrijfs- en beroepsleven in sectoren](../../../../ministeriele-regeling/regeling/indeling/van/het/bedrijfs-/en/beroepsleven/in/sectoren/BWBR0008570/README.md) wordt ingetrokken.   
-4.  De [Regeling reservevorming Algemeen werkloosheidsfonds 2002](../../../../ministeriele-regeling/regeling/reservevorming/algemeen/werkloosheidsfonds/2002/BWBR0013828/README.md) wordt ingetrokken.   
-5.  De [Regeling reservevorming wachtgeldfondsen 2002](../../../../ministeriele-regeling/regeling/reservevorming/wachtgeldfondsen/2002/BWBR0013822/README.md) wordt ingetrokken.   
-6.  De [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 december 2003 houdende nadere regels met betrekking tot de vrijstelling van de basispremie op grond van de Wet op de arbeidsongeschiktheidsverzekering voor oudere werknemers](../../../../ministeriele-regeling/vrijstellingsregeling/basispremie/wet/op/de/etc/BWBR0016200/README.md) (Stcrt. 2003, 250) wordt ingetrokken.   
-7.  De [Uitvoeringsregeling premieheffing volksverzekeringen 2002](../../../../ministeriele-regeling/uitvoeringsregeling/premieheffing/volksverzekeringen/2002/BWBR0013980/README.md) wordt ingetrokken.   
-8.  De [Regeling verdeling premiekorting WAO](../../../../ministeriele-regeling/regeling/verdeling/premiekorting/wao/BWBR0013962/README.md) wordt ingetrokken.   
-9.  De [Financieringsregeling Algemene Kinderbijslagfonds 2005](../../../../ministeriele-regeling/financieringsregeling/algemeen/kinderbijslagfonds/2005/BWBR0018522/README.md) wordt ingetrokken.   
-10.  De [Financieringsregeling Toeslagenfonds en Arbeidsongeschiktheidsfonds jonggehandicapten](../../../../ministeriele-regeling/financieringsregeling/toeslagenfonds/en/arbeidsongeschiktheidsfonds/etc/BWBR0016020/README.md) wordt ingetrokken.   
-11.  De [Financieringsregeling rijksbijdrage Arbeidsongeschiktheidsfonds](../../../../ministeriele-regeling/financieringsregeling/rijksbijdrage/arbeidsongeschiktheidsfonds/BWBR0017784/README.md) wordt ingetrokken.  
+1.  De Regeling vergoeding bijdragen Remigratiewet wordt ingetrokken.   
+2.  De Regeling rekening-courantverhouding sociale verzekeringen wordt ingetrokken.   
+3.  De Regeling indeling bedrijfs- en beroepsleven in sectoren wordt ingetrokken.   
+4.  De Regeling reservevorming Algemeen werkloosheidsfonds 2002 wordt ingetrokken.   
+5.  De Regeling reservevorming wachtgeldfondsen 2002 wordt ingetrokken.   
+6.  De Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 december 2003 houdende nadere regels met betrekking tot de vrijstelling van de basispremie op grond van de Wet op de arbeidsongeschiktheidsverzekering voor oudere werknemers (Stcrt. 2003, 250) wordt ingetrokken.   
+7.  De Uitvoeringsregeling premieheffing volksverzekeringen 2002 wordt ingetrokken.   
+8.  De Regeling verdeling premiekorting WAO wordt ingetrokken.   
+9.  De Financieringsregeling Algemene Kinderbijslagfonds 2005 wordt ingetrokken.   
+10.  De Financieringsregeling Toeslagenfonds en Arbeidsongeschiktheidsfonds jonggehandicapten wordt ingetrokken.   
+11.  De Financieringsregeling rijksbijdrage Arbeidsongeschiktheidsfonds wordt ingetrokken.  
 
 ### Artikel  6.2  
 
@@ -1797,7 +1796,7 @@ Scheepsonderhoud- en classificeerdersbedrijven.
 
 #### *27. Vervoer posterijen, omvattende:* 
 
-Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md). 
+Postvervoerbedrijven als bedoeld in artikel 2, onderdeel e, van de Postwet 2009. 
 
 #### *28. Taxivervoer* 
 
@@ -2545,13 +2544,13 @@ G. Leder- en lederverwerkende industrie:
 
 #### *52. Uitzendbedrijven, omvattende:*
 
-1. De werkgever, die zich in het kader van de uitoefening van zijn bedrijf of beroep bezighoudt met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die arbeidskrachten werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) waarin tevens een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is opgenomen, wordt ingedeeld in sector 52, mits met dit ter beschikking stellen van arbeidskrachten meer dan 50% van het totale premieplichtige loon op jaarbasis is gemoeid.  
+1. De werkgever, die zich in het kader van de uitoefening van zijn bedrijf of beroep bezighoudt met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die arbeidskrachten werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek waarin tevens een beding als bedoeld in artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek is opgenomen, wordt ingedeeld in sector 52, mits met dit ter beschikking stellen van arbeidskrachten meer dan 50% van het totale premieplichtige loon op jaarbasis is gemoeid.  
 
-2. Met de arbeidskrachten, bedoeld in onderdeel 1, worden voor de toepassing daarvan gelijkgesteld arbeidskrachten ten aanzien van wie het beding, bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), ingevolge het bepaalde in het derde lid van dat artikel, al dan niet met toepassing van het zevende lid van dat artikel, (inmiddels) is beëindigd.  
+2. Met de arbeidskrachten, bedoeld in onderdeel 1, worden voor de toepassing daarvan gelijkgesteld arbeidskrachten ten aanzien van wie het beding, bedoeld in artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek, ingevolge het bepaalde in het derde lid van dat artikel, al dan niet met toepassing van het zevende lid van dat artikel, (inmiddels) is beëindigd.  
 
 3. De werkgever die zich bezighoudt met het ter beschikking stellen van arbeidskrachten, bedoeld in onderdeel 1, wordt wanneer met dat ter beschikking stellen meer dan 15% doch niet meer dan 50% van het totale premieplichtige loon op jaarbasis is gemoeid, voorzover het die werkzaamheden betreft, ingedeeld in sector 52.  
 
-4. Met de werkgever, bedoeld in de vorige onderdelen, wordt gelijkgesteld de werkgever, die op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) arbeidskrachten ter beschikking stelt – niet zijnde arbeidskrachten als bedoeld in onderdeel 1, mits door die arbeidskrachten geen werkzaamheden worden verricht die sec functioneel bezien voor meer dan 50% van het totale premieplichtige loon op jaarbasis aan één sector kunnen worden toegerekend.  
+4. Met de werkgever, bedoeld in de vorige onderdelen, wordt gelijkgesteld de werkgever, die op basis van een uitzendovereenkomst als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek arbeidskrachten ter beschikking stelt – niet zijnde arbeidskrachten als bedoeld in onderdeel 1, mits door die arbeidskrachten geen werkzaamheden worden verricht die sec functioneel bezien voor meer dan 50% van het totale premieplichtige loon op jaarbasis aan één sector kunnen worden toegerekend.  
 
 5. In afwijking van de voorgaande onderdelen kan de inspecteur bij voor bezwaar vatbare beschikking beslissen dat een werkgever wordt ingedeeld in een andere sector dan sector 52.   
 
@@ -2663,9 +2662,9 @@ Overheidsinstellingen, welke qua activiteiten niet zijn te rangschikken onder de
 
 Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van: 
 
-– de [Wet sociale werkvoorziening](../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) (Wsw);  
+– de Wet sociale werkvoorziening (Wsw);  
 
-– voorzieningen, gericht op arbeidsinschakeling, als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
+– voorzieningen, gericht op arbeidsinschakeling, als bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand.   
 
 #### *68. Railbouw, omvattende:*
 

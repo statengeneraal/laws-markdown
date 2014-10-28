@@ -4,7 +4,7 @@
 
 ####European Patent Convention
 
-Preamble The Contracting States, Desiring to strengthen co-operation between the States of Europe in respect of the protection of inventions, Desiring that such protection may be obtained in those States by a single procedure for the grant of patents, and by the establishment of certain standard rules governing patents so granted, Desiring, for this purpose, to conclude a Convention which establishes a European Patent Organisation and which constitutes a special agreement within the meaning of [Article 19 of the Convention for the Protection of Industrial Property](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md), signed in Paris on 20 March 1883 and last revised on 14 July 1967, and a regional patent treaty within the meaning of [Article 45, paragraph 1, of the Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) of 19 June 1970,   Have agreed on the following provisions:     
+Preamble The Contracting States, Desiring to strengthen co-operation between the States of Europe in respect of the protection of inventions, Desiring that such protection may be obtained in those States by a single procedure for the grant of patents, and by the establishment of certain standard rules governing patents so granted, Desiring, for this purpose, to conclude a Convention which establishes a European Patent Organisation and which constitutes a special agreement within the meaning of Article 19 of the Convention for the Protection of Industrial Property, signed in Paris on 20 March 1883 and last revised on 14 July 1967, and a regional patent treaty within the meaning of Article 45, paragraph 1, of the Patent Cooperation Treaty of 19 June 1970,   Have agreed on the following provisions:     
 ### PART  I  
 
 ####GENERAL AND INSTITUTIONAL PROVISIONS
@@ -879,13 +879,13 @@ The abstract shall serve the purpose of technical information only; it may not b
 
 1.  Any person who has duly filed, in or for 
 
-a) any State party to the [Paris Convention for the Protection of Industrial Property](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) or  
+a) any State party to the Paris Convention for the Protection of Industrial Property or  
 
 b) any Member of the World Trade Organization,   an application for a patent, a utility model or a utility certificate, or his successor in title, shall enjoy, for the purpose of filing a European patent application in respect of the same invention, a right of priority during a period of twelve months from the date of filing of the first application.  
 2.  Every filing that is equivalent to a regular national filing under the national law of the State where it was made or under bilateral or multilateral agreements, including this Convention, shall be recognised as giving rise to a right of priority.   
 3.  A regular national filing shall mean any filing that is sufficient to establish the date on which the application was filed, whatever the outcome of the application may be.   
 4.  A subsequent application in respect of the same subject-matter as a previous first application and filed in or for the same State shall be considered as the first application for the purposes of determining priority, provided that, at the date of filing the subsequent application, the previous application has been withdrawn, abandoned or refused, without being open to public inspection and without leaving any rights outstanding, and has not served as a basis for claiming a right of priority. The previous application may not thereafter serve as a basis for claiming a right of priority.   
-5.  If the first filing has been made with an industrial property authority which is not subject to the [Paris Convention for the Protection of Industrial Property](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) or the [Agreement Establishing the World Trade Organization](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), paragraphs 1 to 4 shall apply if that authority, according to a communication issued by the President of the European Patent Office, recognises that a first filing made with the European Patent Office gives rise to a right of priority under conditions and with effects equivalent to those laid down in the Paris Convention.  
+5.  If the first filing has been made with an industrial property authority which is not subject to the Paris Convention for the Protection of Industrial Property or the Agreement Establishing the World Trade Organization, paragraphs 1 to 4 shall apply if that authority, according to a communication issued by the President of the European Patent Office, recognises that a first filing made with the European Patent Office gives rise to a right of priority under conditions and with effects equivalent to those laid down in the Paris Convention.  
 
 ### Article  88  
 
@@ -1517,20 +1517,20 @@ b) the European Patent Office shall provide a common entity with such support st
 
 ####Application of the Patent Cooperation Treaty
 
-1.  The [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) of 19 June 1970, hereinafter referred to as the PCT, shall be applied in accordance with the provisions of this Part.   
-2.  International applications filed under the [PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) may be the subject of proceedings before the European Patent Office. In such proceedings, the provisions of the PCT and its [Regulations](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) shall be applied, supplemented by the provisions of this Convention. In case of conflict, the provisions of the PCT or its Regulations shall prevail. 
+1.  The Patent Cooperation Treaty of 19 June 1970, hereinafter referred to as the PCT, shall be applied in accordance with the provisions of this Part.   
+2.  International applications filed under the PCT may be the subject of proceedings before the European Patent Office. In such proceedings, the provisions of the PCT and its Regulations shall be applied, supplemented by the provisions of this Convention. In case of conflict, the provisions of the PCT or its Regulations shall prevail. 
 
 ### Article  151  
 
 ####The European Patent Office as a receiving Office
 
-The European Patent Office shall act as a receiving Office within the meaning of the [PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), in accordance with the Implementing Regulations. Article 75, paragraph 2, shall apply. 
+The European Patent Office shall act as a receiving Office within the meaning of the PCT, in accordance with the Implementing Regulations. Article 75, paragraph 2, shall apply. 
 
 ### Article  152  
 
 ####The European Patent Office as an International Searching Authority or International Preliminary Examining Authority
 
-The European Patent Office shall act as an International Searching Authority and International Preliminary Examining Authority within the meaning of the [PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), in accordance with an agreement between the Organisation and the International Bureau of the World Intellectual Property Organization, for applicants who are residents or nationals of a State party to this Convention. This agreement may provide that the European Patent Office shall also act for other applicants. 
+The European Patent Office shall act as an International Searching Authority and International Preliminary Examining Authority within the meaning of the PCT, in accordance with an agreement between the Organisation and the International Bureau of the World Intellectual Property Organization, for applicants who are residents or nationals of a State party to this Convention. This agreement may provide that the European Patent Office shall also act for other applicants. 
 
 ### Article  153  
 
@@ -1538,7 +1538,7 @@ The European Patent Office shall act as an International Searching Authority and
 
 1.   The European Patent Office shall be 
 
-a) a designated Office for any State party to this Convention in respect of which the [PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) is in force, which is designated in the international application and for which the applicant wishes to obtain a European patent, and  
+a) a designated Office for any State party to this Convention in respect of which the PCT is in force, which is designated in the international application and for which the applicant wishes to obtain a European patent, and  
 
 b) an elected Office, if the applicant has elected a State designated pursuant to letter (a).     
 2.  An international application for which the European Patent Office is a designated or elected Office, and which has been accorded an international date of filing, shall be equivalent to a regular European application (Euro-PCT application).   
@@ -1756,7 +1756,7 @@ Unless evidence is provided to the contrary, the European Patent Office shall as
 
 ####Patent classification
 
-The European Patent Office shall use the classification referred to in [Article 1 of the Strasbourg Agreement concerning the International Patent Classification of 24 March 1971](../../../../../../../../../../../../verdrag/strasbourg/agreement/concerning/the/international/patent/classification/of/etc/BWBV0003481/README.md), hereinafter referred to as the international classification. 
+The European Patent Office shall use the classification referred to in Article 1 of the Strasbourg Agreement concerning the International Patent Classification of 24 March 1971, hereinafter referred to as the international classification. 
 
 ### Rule  9  
 
@@ -2007,7 +2007,7 @@ d) processes for modifying the genetic identity of animals which are likely to c
 
 1. If an invention involves the use of or concerns biological material which is not available to the public and which cannot be described in the European patent application in such a manner as to enable the invention to be carried out by a person skilled in the art, the invention shall only be regarded as being disclosed as prescribed in Article 83 if:
 
-a) a sample of the biological material has been deposited with a recognised depositary institution on the same terms as those laid down in the [Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure](../../../../../../../../../../../../verdrag/budapest/treaty/on/the/international/recognition/of/the/deposit/of/etc/BWBV0004052/README.md) of 28 April 1977 not later than the date of filing of the application;  
+a) a sample of the biological material has been deposited with a recognised depositary institution on the same terms as those laid down in the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure of 28 April 1977 not later than the date of filing of the application;  
 
 b) the application as filed gives such relevant information as is available to the applicant on the characteristics of the biological material;  
 
@@ -2052,7 +2052,7 @@ b) any natural person recognised as an expert by the President of the European P
 
 ####New deposit of biological material
 
-If biological material deposited in accordance with Rule 31 ceases to be available from the recognised depositary institution, an interruption in availability shall be deemed not to have occurred if a new deposit of that material is made with a recognised depositary institution on the same terms as those laid down in the [Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure](../../../../../../../../../../../../verdrag/budapest/treaty/on/the/international/recognition/of/the/deposit/of/etc/BWBV0004052/README.md) of 28 April 1977, and if a copy of the receipt of the new deposit issued by the depositary institution is forwarded to the European Patent Office within four months of the date of the new deposit, stating the number of the European patent application or of the European patent. 
+If biological material deposited in accordance with Rule 31 ceases to be available from the recognised depositary institution, an interruption in availability shall be deemed not to have occurred if a new deposit of that material is made with a recognised depositary institution on the same terms as those laid down in the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure of 28 April 1977, and if a copy of the receipt of the new deposit issued by the depositary institution is forwarded to the European Patent Office within four months of the date of the new deposit, stating the number of the European patent application or of the European patent. 
 
 ### PART  III  
 
@@ -2343,7 +2343,7 @@ b) which, on the day on which the decision of the Board of Appeal was taken, was
 
 ####Declaration of priority
 
-1.  The declaration of priority referred to in Article 88, paragraph 1, shall indicate the date of the previous filing, the State party to the [Paris Convention](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) or Member of the World Trade Organization in or for which it was made and the file number. In the case referred to in Article 87, paragraph 5, the first sentence shall apply *mutatis mutandis*.   
+1.  The declaration of priority referred to in Article 88, paragraph 1, shall indicate the date of the previous filing, the State party to the Paris Convention or Member of the World Trade Organization in or for which it was made and the file number. In the case referred to in Article 87, paragraph 5, the first sentence shall apply *mutatis mutandis*.   
 2.  The declaration of priority shall preferably be made on filing the European patent application. It may still be made within sixteen months from the earliest priority date claimed.   
 3.  The applicant may correct the declaration of priority within sixteen months from the earliest priority date claimed, or, where the correction would cause a change in the earliest priority date claimed, within sixteen months from the corrected earliest priority date, whichever sixteen-month period expires first, provided that such a correction may be submitted until the expiry of four months from the date of filing accorded to the European patent application.   
 4.  However, a declaration of priority may not be made or corrected after a request under Article 93, paragraph 1(b), has been filed.   
@@ -3486,8 +3486,8 @@ c) where he no longer has his place of business or employment within one of the 
 
 ####The European Patent Office as a receiving Office
 
-1.  The European Patent Office shall be competent to act as a receiving Office within the meaning of the [PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) if the applicant is a resident or national of a Contracting State to this Convention and to the PCT. Without prejudice to paragraph 3, if the applicant chooses the European Patent Office as a receiving Office, the international application shall be filed directly with the European Patent Office. Article 75, paragraph 2, shall apply *mutatis mutandis*.   
-2.  Where the European Patent Office acts as a receiving Office under the [PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), the international application shall be filed in English, French or German. The President of the European Patent Office may determine that the international application and any related item shall be filed in more than one copy.   
+1.  The European Patent Office shall be competent to act as a receiving Office within the meaning of the PCT if the applicant is a resident or national of a Contracting State to this Convention and to the PCT. Without prejudice to paragraph 3, if the applicant chooses the European Patent Office as a receiving Office, the international application shall be filed directly with the European Patent Office. Article 75, paragraph 2, shall apply *mutatis mutandis*.   
+2.  Where the European Patent Office acts as a receiving Office under the PCT, the international application shall be filed in English, French or German. The President of the European Patent Office may determine that the international application and any related item shall be filed in more than one copy.   
 3.  If an international application is filed with an authority of a Contracting State for transmittal to the European Patent Office as the receiving Office, the Contracting State shall ensure that the application reaches the European Patent Office not later than two weeks before the end of the thirteenth month from filing or, if priority is claimed, from the date of priority.   
 4.  The transmittal fee for the international application shall be paid within one month of filing the application.  
 
@@ -3495,9 +3495,9 @@ c) where he no longer has his place of business or employment within one of the 
 
 ####The European Patent Office as an International Searching Authority or International Preliminary Examining Authority
 
-1.  In the case of [Article 17, paragraph 3(a) PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), an additional international search fee shall be paid for each further invention for which an international search is to be carried out.   
-2.  In the case of [Article 34, paragraph 3(a) PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), an additional fee for international preliminary examination shall be paid for each further invention for which the international preliminary examination is to be carried out.   
-3.  Where an additional fee has been paid under protest, the European Patent Office shall examine the protest in accordance with [Rule 40.2(c) to (e)](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) or [Rule 68.3(c) to (e) PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), subject to payment of the prescribed protest fee. Further details concerning the procedure shall be determined by the President of the European Patent Office. 
+1.  In the case of Article 17, paragraph 3(a) PCT, an additional international search fee shall be paid for each further invention for which an international search is to be carried out.   
+2.  In the case of Article 34, paragraph 3(a) PCT, an additional fee for international preliminary examination shall be paid for each further invention for which the international preliminary examination is to be carried out.   
+3.  Where an additional fee has been paid under protest, the European Patent Office shall examine the protest in accordance with Rule 40.2(c) to (e) or Rule 68.3(c) to (e) PCT, subject to payment of the prescribed protest fee. Further details concerning the procedure shall be determined by the President of the European Patent Office. 
 
 ###Rule 159 
 
@@ -3520,7 +3520,7 @@ f) file the request for examination provided for in Article 94, if the period un
 g) pay the renewal fee in respect of the third year provided for in Article 86, paragraph 1, if the fee has fallen due earlier under Rule 51, paragraph 1;  
 
 h) file, where applicable, the certificate of exhibition referred to in Article 55, paragraph 2, and Rule 25.   
-2.  The Examining Division shall be competent to take decisions of the European Patent Office under [Article 25, paragraph 2(a) PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md). 
+2.  The Examining Division shall be competent to take decisions of the European Patent Office under Article 25, paragraph 2(a) PCT. 
 
 ###Rule 160 
 
@@ -3533,7 +3533,7 @@ h) file, where applicable, the certificate of exhibition referred to in Article 
 
 ####Amendment of the application
 
-1.  If the European Patent Office has acted as the International Searching Authority and, where a demand under [Article 31 PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) was filed, also as the International Preliminary Examining Authority for a Euro-PCT application, it shall give the applicant the opportunity to comment on the written opinion of the International Searching Authority or the International Preliminary Examination Report and, where appropriate, invite him to correct any deficiencies noted in the written opinion or in the International Preliminary Examination Report and to amend the description, claims and drawings within a period of six months from the respective communication. If the European Patent Office has drawn up a supplementary international search report, an invitation in accordance with the first sentence shall be issued in respect of the explanations given in accordance with [Rule 45bis.7(e) PCT](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md). If the applicant does not comply with or comment on an invitation in accordance with the first or second sentence, the application shall be deemed to be withdrawn.   
+1.  If the European Patent Office has acted as the International Searching Authority and, where a demand under Article 31 PCT was filed, also as the International Preliminary Examining Authority for a Euro-PCT application, it shall give the applicant the opportunity to comment on the written opinion of the International Searching Authority or the International Preliminary Examination Report and, where appropriate, invite him to correct any deficiencies noted in the written opinion or in the International Preliminary Examination Report and to amend the description, claims and drawings within a period of six months from the respective communication. If the European Patent Office has drawn up a supplementary international search report, an invitation in accordance with the first sentence shall be issued in respect of the explanations given in accordance with Rule 45bis.7(e) PCT. If the applicant does not comply with or comment on an invitation in accordance with the first or second sentence, the application shall be deemed to be withdrawn.   
 2.  Where the European Patent Office draws up a supplementary European search report on a Euro-PCT application, the application may be amended once within a period of six months from a communication informing the applicant accordingly. The application as amended shall serve as the basis for the supplementary European search. 
 
 ###Rule 162 
@@ -3717,7 +3717,7 @@ The Contracting States shall take all appropriate measures to facilitate the ent
 
 ### Article  13  
 
-(1).  Subject to the provisions of Article 6, the President of the European Patent Office shall enjoy the privileges and immunities accorded to diplomatic agents under the [Vienna Convention on Diplomatic Relations](../../../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md) of 18 April 1961.   
+(1).  Subject to the provisions of Article 6, the President of the European Patent Office shall enjoy the privileges and immunities accorded to diplomatic agents under the Vienna Convention on Diplomatic Relations of 18 April 1961.   
 (2).  However, immunity from jurisdiction shall not apply in the case of a motor traffic offence committed by the President of the European Patent Office or damage caused by a motor vehicle belonging to or driven by him.  
 
 ### Article  14  
@@ -3814,7 +3814,7 @@ b) The States parties to the Convention shall take all necessary steps to ensure
 
 c) The above obligations shall also apply mutatis mutandis to the suboffice set up under the Hague Agreement under the conditions set out in the agreement between the International Patent Institute and the Government of the Contracting State concerned. This Government hereby undertakes to make a new agreement with the European Patent Organisation in place of the one already made with the International Patent Institute to harmonise the clauses concerning the organisation, operation and financing of the sub-office with the provisions of this Protocol.    
 
-2. Subject to the provisions of Section III, the States parties to the Convention shall, on behalf of their central industrial property offices, renounce in favour of the European Patent Office any activities as International Searching Authorities under the [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) as from the date referred to in *Article 162, paragraph 1*, of the Convention.  
+2. Subject to the provisions of Section III, the States parties to the Convention shall, on behalf of their central industrial property offices, renounce in favour of the European Patent Office any activities as International Searching Authorities under the Patent Cooperation Treaty as from the date referred to in *Article 162, paragraph 1*, of the Convention.  
 
 3. 
 
@@ -3828,13 +3828,13 @@ d) The Federal Republic of Germany shall bear any additional costs incurred by t
 
 ###SECTION II  
 
-Subject to the provisions of Sections III and IV, the States parties to the Convention shall, on behalf of their central industrial property offices, renounce in favour of the European Patent Office any activities as International Preliminary Examining Authorities under the [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md). This obligation shall apply only to the extent to which the European Patent Office may examine European patent applications in accordance with Article 162, paragraph 2, of the Convention and shall not apply until two years after the date on which the European Patent Office has begun examining activities in the areas of technology concerned, on the basis of a five-year plan which shall progressively extend the activities of the European Patent Office to all areas of technology and which may be amended only by decision of the Administrative Council. The procedures for implementing this obligation shall be determined by decision of the Administrative Council. 
+Subject to the provisions of Sections III and IV, the States parties to the Convention shall, on behalf of their central industrial property offices, renounce in favour of the European Patent Office any activities as International Preliminary Examining Authorities under the Patent Cooperation Treaty. This obligation shall apply only to the extent to which the European Patent Office may examine European patent applications in accordance with Article 162, paragraph 2, of the Convention and shall not apply until two years after the date on which the European Patent Office has begun examining activities in the areas of technology concerned, on the basis of a five-year plan which shall progressively extend the activities of the European Patent Office to all areas of technology and which may be amended only by decision of the Administrative Council. The procedures for implementing this obligation shall be determined by decision of the Administrative Council. 
 
 ###SECTION III  
 
-1. The central industrial property office of any State party to the Convention in which the official language is not one of the official languages of the European Patent Office, shall be authorised to act as an International Searching Authority and as an International Preliminary Examining Authority under the [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md). Such authorisation shall be subject to an undertaking by the State concerned to restrict such activities to international applications filed by nationals or residents of such State and by nationals or residents of States parties to the Convention which are adjacent to that State. The Administrative Council may decide to authorise the central industrial property office of any State party to the Convention to extend such activities to cover such international applications as may be filed by nationals or residents of any non-Contracting State having the same official language as the Contracting State in question and drawn up in that language.  
+1. The central industrial property office of any State party to the Convention in which the official language is not one of the official languages of the European Patent Office, shall be authorised to act as an International Searching Authority and as an International Preliminary Examining Authority under the Patent Cooperation Treaty. Such authorisation shall be subject to an undertaking by the State concerned to restrict such activities to international applications filed by nationals or residents of such State and by nationals or residents of States parties to the Convention which are adjacent to that State. The Administrative Council may decide to authorise the central industrial property office of any State party to the Convention to extend such activities to cover such international applications as may be filed by nationals or residents of any non-Contracting State having the same official language as the Contracting State in question and drawn up in that language.  
 
-2. For the purpose of harmonising search activities under the [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) within the framework of the European system for the grant of patents, co-operation shall be established between the European Patent Office and any central industrial property office authorised under this Section. Such co-operation shall be based on a special agreement which may cover e.g. search procedures and methods, qualifications required for the recruitment and training of examiners, guidelines for the exchange of search and other services between the offices as well as other measures needed to establish the required control and supervision.   
+2. For the purpose of harmonising search activities under the Patent Cooperation Treaty within the framework of the European system for the grant of patents, co-operation shall be established between the European Patent Office and any central industrial property office authorised under this Section. Such co-operation shall be based on a special agreement which may cover e.g. search procedures and methods, qualifications required for the recruitment and training of examiners, guidelines for the exchange of search and other services between the offices as well as other measures needed to establish the required control and supervision.   
 
 ###SECTION IV  
 
@@ -3848,11 +3848,11 @@ c) The Administrative Council shall decide, while taking into account the provis
 
 d) The above implementing procedures shall be set out in a special agreement between the central industrial property office of the Contracting State concerned and the European Patent Organisation.  
 
-e) An office with which such a special agreement has been concluded may act as an International Preliminary Examining Authority under the [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md), until the expiry of the period of 15 years.    
+e) An office with which such a special agreement has been concluded may act as an International Preliminary Examining Authority under the Patent Cooperation Treaty, until the expiry of the period of 15 years.    
 
 2. 
 
-a) If the Administrative Council considers that it is compatible with the proper functioning of the European Patent Office, and in order to alleviate the difficulties which may arise for certain Contracting States from the application of Section I, paragraph 2, it may entrust searching in respect of European patent applications to the central industrial property offices of those States in which the official language is one of the official languages of the European Patent Office, provided that these offices possess the necessary qualifications for appointment as an International Searching Authority in accordance with the conditions laid down in the [Patent Cooperation Treaty](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md).  
+a) If the Administrative Council considers that it is compatible with the proper functioning of the European Patent Office, and in order to alleviate the difficulties which may arise for certain Contracting States from the application of Section I, paragraph 2, it may entrust searching in respect of European patent applications to the central industrial property offices of those States in which the official language is one of the official languages of the European Patent Office, provided that these offices possess the necessary qualifications for appointment as an International Searching Authority in accordance with the conditions laid down in the Patent Cooperation Treaty.  
 
 b) In carrying out such work, undertaken under the responsibility of the European Patent Office, the central industrial property offices concerned shall adhere to the guidelines applicable to the drawing up of the European search report.  
 
@@ -3936,7 +3936,7 @@ The Conference for the setting up of a European System for the Grant of Patents,
 
 ####Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag)
 
-Preambule De Verdragsluitende Staten, Geleid door de wens de samenwerking tussen de Europese Staten op het gebied van de bescherming van uitvindingen te bevorderen, Geleid door de wens een dergelijke bescherming in die Staten te verwezenlijken door een eenvormige procedure voor het verlenen van octrooien en door het opstellen van bepaalde eenvormige regels inzake de aldus verleende octrooien, Geleid door de wens daartoe een Verdrag te sluiten waarbij een Europese Octrooiorganisatie wordt opgericht en welk Verdrag een bijzondere overeenkomst vormt in de zin van [artikel 19 van het Verdrag tot Bescherming van de Industriële Eigendom](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md), ondertekend te Parijs op 20 maart 1883 en laatstelijk herzien op 14 juli 1967, benevens een regionaal octrooiverdrag in de zin van [artikel 45, eerste lid, van het Verdrag tot Samenwerking inzake Octrooien](../../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) van 19 juni 1970,   Zijn het volgende overeengekomen:     
+Preambule De Verdragsluitende Staten, Geleid door de wens de samenwerking tussen de Europese Staten op het gebied van de bescherming van uitvindingen te bevorderen, Geleid door de wens een dergelijke bescherming in die Staten te verwezenlijken door een eenvormige procedure voor het verlenen van octrooien en door het opstellen van bepaalde eenvormige regels inzake de aldus verleende octrooien, Geleid door de wens daartoe een Verdrag te sluiten waarbij een Europese Octrooiorganisatie wordt opgericht en welk Verdrag een bijzondere overeenkomst vormt in de zin van artikel 19 van het Verdrag tot Bescherming van de Industriële Eigendom, ondertekend te Parijs op 20 maart 1883 en laatstelijk herzien op 14 juli 1967, benevens een regionaal octrooiverdrag in de zin van artikel 45, eerste lid, van het Verdrag tot Samenwerking inzake Octrooien van 19 juni 1970,   Zijn het volgende overeengekomen:     
 ### DEEL  I 
 
 ####ALGEMENE EN INSTITUTIONELE BEPALINGEN
@@ -7651,7 +7651,7 @@ f) dezelfde faciliteiten ter zake van valuta- en deviezenbepalingen als die welk
 
 ###Artikel  13  
 
-1.  Behoudens artikel 6 geniet de Voorzitter van het Europees Octrooibureau de voorrechten en immuniteiten die zijn toegekend aan diplomatieke functionarissen krachtens het [Verdrag van Wenen inzake diplomatiek verkeer](../../../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md) van 18 april 1961.  
+1.  Behoudens artikel 6 geniet de Voorzitter van het Europees Octrooibureau de voorrechten en immuniteiten die zijn toegekend aan diplomatieke functionarissen krachtens het Verdrag van Wenen inzake diplomatiek verkeer van 18 april 1961.  
 2.  De vrijstelling van rechtsvordering geldt echter niet in geval van een door de Voorzitter van het Europees Octrooibureau begane verkeersovertreding of in geval van schade veroorzaakt door een motorvoertuig dat hem toebehoort of dat door hem werd bestuurd.   
 
 ### Artikel 14  

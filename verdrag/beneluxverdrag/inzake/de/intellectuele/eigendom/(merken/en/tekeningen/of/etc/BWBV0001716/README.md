@@ -28,23 +28,23 @@ Het Koninkrijk België, Het Groothertogdom Luxemburg, Het Koninkrijk der Nederla
 
 In dit verdrag wordt verstaan onder: 
 
-– [Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md): het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883;  
+– Verdrag van Parijs: het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883;  
 
-– [Overeenkomst van Madrid](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md): de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891;  
+– Overeenkomst van Madrid: de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891;  
 
-– [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md): het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989;  
+– Protocol van Madrid: het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989;  
 
-– [Overeenkomst van Nice](../../../../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md): de Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken;  
+– Overeenkomst van Nice: de Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken;  
 
-– [Overeenkomst van 's-Gravenhage](../../../../../../../../../../../../verdrag/arrangement/de/la/haye/concernant/le/dépôt/international/des/dessins/ou/etc/BWBV0002034/README.md): de Overeenkomst van 's-Gravenhage betreffende het internationale depot van tekeningen of modellen van nijverheid van 6 november 1925;  
+– Overeenkomst van 's-Gravenhage: de Overeenkomst van 's-Gravenhage betreffende het internationale depot van tekeningen of modellen van nijverheid van 6 november 1925;  
 
 – Gemeenschapsmerkenverordening: de Verordening (EG) nr. 207/2009 van de Raad van 26 februari 2009 inzake het Gemeenschapsmerk;  
 
 – Gemeenschapsmodellenverordening: de Verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen;  
 
-– [TRIPS verdrag](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md): de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1C bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie;  
+– TRIPS verdrag: de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1C bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie;  
 
-– Internationaal Bureau: het Internationaal Bureau voor de intellectuele eigendom, zoals opgericht bij het [Verdrag van 14 juli 1967 tot oprichting van de Wereldorganisatie voor de intellectuele eigendom](../../../../../../../../../../../../verdrag/convention/establishing/the/world/intellectual/property/organization/etc/BWBV0004328/README.md).   
+– Internationaal Bureau: het Internationaal Bureau voor de intellectuele eigendom, zoals opgericht bij het Verdrag van 14 juli 1967 tot oprichting van de Wereldorganisatie voor de intellectuele eigendom.   
 
 ### Artikel  1.2  
 
@@ -171,7 +171,7 @@ b. de beslissing niet meer vatbaar is voor verzet, noch hoger beroep, noch voor 
 
 ####Benelux-Gerechtshof
 
-Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/instelling/en/het/statuut/van/een/etc/BWBV0004117/README.md), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in artikel 1.6, eerste lid, bedoelde protocol inzake voorrechten en immuniteiten. 
+Het Benelux-Gerechtshof als bedoeld in artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in artikel 1.6, eerste lid, bedoelde protocol inzake voorrechten en immuniteiten. 
 
 ### Artikel  1.16  
 
@@ -199,7 +199,7 @@ De toepassing van dit verdrag is beperkt tot het grondgebied van het Koninkrijk 
 
 ####Verkrijging van het recht
 
-Onverminderd het uit het [Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) of het [TRIPS verdrag](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) voortvloeiende recht van voorrang, wordt het uitsluitend recht op een merk verkregen door de inschrijving van het merk, waarvan het depot is verricht binnen het Benelux-gebied (Benelux-depot) of voortvloeiend uit een inschrijving bij het Internationaal Bureau (internationaal depot). 
+Onverminderd het uit het Verdrag van Parijs of het TRIPS verdrag voortvloeiende recht van voorrang, wordt het uitsluitend recht op een merk verkregen door de inschrijving van het merk, waarvan het depot is verricht binnen het Benelux-gebied (Benelux-depot) of voortvloeiend uit een inschrijving bij het Internationaal Bureau (internationaal depot). 
 
 ### Artikel  2.3  
 
@@ -219,7 +219,7 @@ c. overeenstemmende, voor niet-soortgelijke waren of diensten gedeponeerde merke
 
 Er wordt geen recht op een merk verkregen door: 
 
-a. de inschrijving van een merk dat, ongeacht het gebruik dat er van wordt gemaakt, in strijd is met de goede zeden of de openbare orde van één van de Benelux-landen, of ten aanzien waarvan artikel 6*ter* van het [Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) in weigering of nietigverklaring voorziet;  
+a. de inschrijving van een merk dat, ongeacht het gebruik dat er van wordt gemaakt, in strijd is met de goede zeden of de openbare orde van één van de Benelux-landen, of ten aanzien waarvan artikel 6*ter* van het Verdrag van Parijs in weigering of nietigverklaring voorziet;  
 
 b. de inschrijving van een merk dat tot misleiding van het publiek kan leiden, bijvoorbeeld ten aanzien van aard, hoedanigheid of plaats van herkomst van de waren of diensten;  
 
@@ -227,7 +227,7 @@ c. de inschrijving van een merk dat overeenstemt met een voor soortgelijke waren
 
 d. de inschrijving van een merk dat overeenstemt met een door een derde voor soortgelijke waren of diensten ingeschreven individueel merk, waaraan een recht was verbonden, dat in de loop van de twee jaren voorafgaande aan het depot vervallen is door het verstrijken van de geldigheidsduur van de inschrijving, tenzij die derde heeft toegestemd of overeenkomstig artikel 2.26, lid 2, sub a, geen gebruik van dit merk is gemaakt;  
 
-e. de inschrijving van een merk dat verwarring kan stichten met een algemeen bekend merk in de zin van [artikel 6 *bis* van het Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) dat toebehoort aan een derde die zijn toestemming niet heeft verleend;  
+e. de inschrijving van een merk dat verwarring kan stichten met een algemeen bekend merk in de zin van artikel 6 *bis* van het Verdrag van Parijs dat toebehoort aan een derde die zijn toestemming niet heeft verleend;  
 
 f. de inschrijving van een merk, waarvan het depot te kwader trouw is verricht, met name: 
 
@@ -255,8 +255,8 @@ g. de inschrijving van merken voor wijnen die geografische aanduidingen ter beno
 
 ####Beroep op voorrang
 
-1.   Het beroep op een recht van voorrang voortvloeiend uit het [Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) of het [TRIPS verdrag](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) wordt gedaan bij het depot.   
-2.   Het recht van voorrang als bedoeld in [artikel 4 van het Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) is eveneens van toepassing op dienstmerken.   
+1.   Het beroep op een recht van voorrang voortvloeiend uit het Verdrag van Parijs of het TRIPS verdrag wordt gedaan bij het depot.   
+2.   Het recht van voorrang als bedoeld in artikel 4 van het Verdrag van Parijs is eveneens van toepassing op dienstmerken.   
 3.   Het beroep op een recht van voorrang kan tevens worden gedaan bij een bijzondere verklaring af te leggen bij het Bureau, in de maand volgende op het depot, met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde rechten.   
 4.   Het ontbreken van een dergelijk beroep doet het recht op voorrang vervallen.  
 
@@ -290,7 +290,7 @@ g. de inschrijving van merken voor wijnen die geografische aanduidingen ter beno
 
 ####Internationaal depot
 
-1.   De internationale depots van merken geschieden volgens de bepalingen van de [Overeenkomst van Madrid](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en het Protocol van Madrid. De nationale rechten, bedoeld in [artikel 8, onder (1), van de Overeenkomst van Madrid](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md), alsmede de rechten bedoeld in [artikel 8, onder 7 (a), van het Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md), worden bij uitvoeringsreglement bepaald.   
+1.   De internationale depots van merken geschieden volgens de bepalingen van de Overeenkomst van Madrid en het Protocol van Madrid. De nationale rechten, bedoeld in artikel 8, onder (1), van de Overeenkomst van Madrid en het Protocol van Madrid, alsmede de rechten bedoeld in artikel 8, onder 7 (a), van het Protocol van Madrid, worden bij uitvoeringsreglement bepaald.   
 2.   Onverminderd de toepassing van de artikelen 2.13 en 2.18 schrijft het Bureau de internationale depots in ten aanzien waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied.   
 3.   De deposant kan het Bureau verzoeken, overeenkomstig de bepalingen van het uitvoeringsreglement, om onverwijld tot inschrijving over te gaan. Op de aldus ingeschreven merken zijn de artikelen 2.11, 2.12, 2.14, 2.16 en 2.17 van toepassing, met dien verstande dat het Bureau bevoegd is tot de doorhaling van de inschrijving te besluiten, en de merkhouder in beroep kan verzoeken om handhaving van de inschrijving.  
 
@@ -348,7 +348,7 @@ e. het een merk betreft als bedoeld in artikel 2.4, sub a, b of g.
 
 a. in rangorde na het zijne komt, overeenkomstig de bepalingen in artikel 2.3, sub a en b, of  
 
-b. verwarring kan stichten met zijn algemeen bekend merk in de zin van [artikel 6*bis* van het Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).     
+b. verwarring kan stichten met zijn algemeen bekend merk in de zin van artikel 6*bis* van het Verdrag van Parijs.     
 2.   De licentiehouder beschikt over hetzelfde recht indien hij daartoe van de merkhouder toestemming heeft verkregen.   
 3.   Oppositie kan op een of meer oudere merken berusten.   
 4.   De oppositie wordt pas geacht te zijn ingesteld, nadat de verschuldigde rechten zijn betaald.  
@@ -403,7 +403,7 @@ d. wanneer het oudere merk niet meer geldig is. In deze gevallen wordt een deel 
 
 ####Registratieplicht
 
-1.   Behoudens de houder van een algemeen bekend merk in de zin van [artikel 6*bis* van het Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) kan niemand, welke vordering hij ook instelt, in rechte bescherming inroepen voor een teken, dat als merk wordt beschouwd in de zin van artikel 2.1, lid 1 en 2, tenzij hij zich kan beroepen op een inschrijving van het door hem gedeponeerde merk.   
+1.   Behoudens de houder van een algemeen bekend merk in de zin van artikel 6*bis* van het Verdrag van Parijs kan niemand, welke vordering hij ook instelt, in rechte bescherming inroepen voor een teken, dat als merk wordt beschouwd in de zin van artikel 2.1, lid 1 en 2, tenzij hij zich kan beroepen op een inschrijving van het door hem gedeponeerde merk.   
 2.   In voorkomend geval wordt de niet-ontvankelijkheid ambtshalve door de rechter uitgesproken.   
 3.   De bepalingen van deze titel laten onverlet het recht van gebruikers van een teken, dat niet als merk wordt beschouwd in de zin van artikel 2.1, lid 1 en 2, om de bepalingen van het gemene recht in te roepen voor zover dit toestaat zich te verzetten tegen onrechtmatig gebruik van dit teken.  
 
@@ -429,7 +429,7 @@ b. het aanbieden, in de handel brengen of daartoe in voorraad hebben van waren o
 c. het invoeren of uitvoeren van waren onder het teken;  
 
 d. het gebruik van het teken in stukken voor zakelijk gebruik en in de reclame.      
-3.   Met de voor de inschrijving der merken toegepaste rangschikking in klassen conform de [Overeenkomst van Nice](../../../../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md) wordt geen rekening gehouden bij de beoordeling van de soortgelijkheid der waren of diensten.   
+3.   Met de voor de inschrijving der merken toegepaste rangschikking in klassen conform de Overeenkomst van Nice wordt geen rekening gehouden bij de beoordeling van de soortgelijkheid der waren of diensten.   
 4.   Het uitsluitend recht op een merk luidende in één der nationale of streektalen van het Benelux-gebied, strekt zich van rechtswege uit over zijn vertaling in een andere dezer talen. De beoordeling van de overeenstemming voortvloeiende uit vertalingen in een of meer aan het genoemde gebied vreemde talen geschiedt door de rechter.  
 
 ### Artikel  2.21  
@@ -626,7 +626,7 @@ Behoudens bepaling van het tegendeel zijn individuele en collectieve merken aan 
 ####Depot
 
 1.   Het uitsluitend recht op een collectief merk wordt slechts verkregen, indien het depot van het merk vergezeld gaat van een reglement op het gebruik en het toezicht.   
-2.   Indien het evenwel gaat om een internationaal depot kan de deposant dit reglement nog deponeren gedurende een termijn van zes maanden te rekenen van de in de [Overeenkomst](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en het [Protocol van Madrid in artikel 3, sub (4)](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md), bedoelde kennisgeving van de internationale inschrijving.  
+2.   Indien het evenwel gaat om een internationaal depot kan de deposant dit reglement nog deponeren gedurende een termijn van zes maanden te rekenen van de in de Overeenkomst en het Protocol van Madrid in artikel 3, sub (4), bedoelde kennisgeving van de internationale inschrijving.  
 
 ### Artikel  2.37  
 
@@ -747,7 +747,7 @@ b. de uiterlijke kenmerken van een voortbrengsel die noodzakelijkerwijs in preci
 a. de beschikbaarstelling is geschied door de ontwerper, zijn rechtverkrijgende of een derde op grond van door de ontwerper of diens rechtverkrijgende verstrekte informatie of genomen maatregelen, of  
 
 b. de beschikbaarstelling is geschied ten gevolge van misbruik jegens de ontwerper of diens rechtverkrijgende.     
-5.   Onder het recht van voorrang wordt verstaan het recht als bedoeld in [artikel 4 van het Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md). Hierop kan een beroep gedaan worden door degene die op regelmatige wijze een aanvraag om een tekening of model of een gebruiksmodel heeft ingediend in een der landen die partij zijn bij genoemd verdrag of bij het [TRIPS verdrag](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).  
+5.   Onder het recht van voorrang wordt verstaan het recht als bedoeld in artikel 4 van het Verdrag van Parijs. Hierop kan een beroep gedaan worden door degene die op regelmatige wijze een aanvraag om een tekening of model of een gebruiksmodel heeft ingediend in een der landen die partij zijn bij genoemd verdrag of bij het TRIPS verdrag.  
 
 ### Artikel  3.4  
 
@@ -766,7 +766,7 @@ b. voor zover deze zichtbare kenmerken van het onderdeel als zodanig aan de voor
 ####Verkrijging van het recht
 
 1.   Onverminderd het recht van voorrang wordt het uitsluitend recht op een tekening of model verkregen door de inschrijving van het depot, verricht binnen het Benelux-gebied bij het Bureau (Benelux-depot), of verricht bij het Internationaal Bureau (internationaal depot).   
-2.   Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in artikel 3.11, lid 2, van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](../../../../../../../../../../../../verdrag/arrangement/de/la/haye/concernant/le/dépôt/international/des/dessins/ou/etc/BWBV0002034/README.md), verkrijgt het latere depot de rang van eerste depot.  
+2.   Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in artikel 3.11, lid 2, van dit verdrag of in artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage, verkrijgt het latere depot de rang van eerste depot.  
 
 ### Artikel  3.6  
 
@@ -780,7 +780,7 @@ b. in de tekening of het model gebruik gemaakt wordt van een ouder merk zonder t
 
 c. in de tekening of het model gebruik gemaakt wordt van een reeds bestaand auteursrechtelijk beschermd werk zonder toestemming van de houder van dit auteursrecht;  
 
-d. de tekening of het model oneigenlijk gebruik vormt van een van de in [artikel 6*ter* van het Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) genoemde zaken;  
+d. de tekening of het model oneigenlijk gebruik vormt van een van de in artikel 6*ter* van het Verdrag van Parijs genoemde zaken;  
 
 e. de tekening of het model in strijd is met de goede zeden of de openbare orde van één der Benelux-landen;  
 
@@ -863,7 +863,7 @@ f. de kenmerkende eigenschappen van de tekening of het model onvoldoende uit het
 
 ####Internationale depots
 
-De internationale depots geschieden volgens de bepalingen van de [Overeenkomst van 's-Gravenhage](../../../../../../../../../../../../verdrag/arrangement/de/la/haye/concernant/le/dépôt/international/des/dessins/ou/etc/BWBV0002034/README.md).  
+De internationale depots geschieden volgens de bepalingen van de Overeenkomst van 's-Gravenhage.  
 
 ### HOOFDSTUK  3  
 
@@ -963,7 +963,7 @@ Behoudens het bepaalde in artikel 3.7, lid 2, vervalt het uitsluitend recht op e
 
 a. door vrijwillige doorhaling of door het verstrijken van de geldigheidsduur van de inschrijving van het Benelux-depot;  
 
-b. door het verstrijken van de geldigheidsduur van de inschrijving van het internationaal depot of door afstand van rechten, die voor het Benelux-gebied uit het internationaal depot voortvloeien of door ambtshalve doorhaling van het internationaal depot, bedoeld in [artikel 6, vierde lid, onder c, van de Overeenkomst van 's-Gravenhage](../../../../../../../../../../../../verdrag/arrangement/de/la/haye/concernant/le/dépôt/international/des/dessins/ou/etc/BWBV0002034/README.md).   
+b. door het verstrijken van de geldigheidsduur van de inschrijving van het internationaal depot of door afstand van rechten, die voor het Benelux-gebied uit het internationaal depot voortvloeien of door ambtshalve doorhaling van het internationaal depot, bedoeld in artikel 6, vierde lid, onder c, van de Overeenkomst van 's-Gravenhage.   
 
 ### Artikel  3.23  
 
@@ -1106,13 +1106,13 @@ c. het verstrekken op verzoek van iedere belanghebbende van afschriften van insc
 
 ####Rechtstreekse werking
 
-Onderdanen van Benelux-landen, alsmede onderdanen van landen welke geen deel uitmaken van de door het [Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) opgerichte Unie, die woonplaats hebben in het Benelux-gebied of aldaar een daadwerkelijke en wezenlijke nijverheids- of handelsonderneming hebben, kunnen ingevolge dit verdrag, voor dit gehele gebied, de toepassing te hunnen voordele inroepen van de bepalingen van het Verdrag van Parijs, van de [Overeenkomst](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md), van de [Overeenkomst van 's-Gravenhage](../../../../../../../../../../../../verdrag/arrangement/de/la/haye/concernant/le/dépôt/international/des/dessins/ou/etc/BWBV0002034/README.md) en het [TRIPS verdrag](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md). 
+Onderdanen van Benelux-landen, alsmede onderdanen van landen welke geen deel uitmaken van de door het Verdrag van Parijs opgerichte Unie, die woonplaats hebben in het Benelux-gebied of aldaar een daadwerkelijke en wezenlijke nijverheids- of handelsonderneming hebben, kunnen ingevolge dit verdrag, voor dit gehele gebied, de toepassing te hunnen voordele inroepen van de bepalingen van het Verdrag van Parijs, van de Overeenkomst en het Protocol van Madrid, van de Overeenkomst van 's-Gravenhage en het TRIPS verdrag. 
 
 ### Artikel  4.8  
 
 ####Ander toepasselijk recht
 
-De bepalingen van dit verdrag doen geen afbreuk aan de toepassing van het [Verdrag van Parijs](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md), het [TRIPS verdrag](../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), de [Overeenkomst](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md), de [Overeenkomst van 's-Gravenhage](../../../../../../../../../../../../verdrag/arrangement/de/la/haye/concernant/le/dépôt/international/des/dessins/ou/etc/BWBV0002034/README.md) alsmede de bepalingen van Belgisch, Luxemburgs of Nederlands recht, waaruit een verbod een merk te gebruiken voortvloeit. 
+De bepalingen van dit verdrag doen geen afbreuk aan de toepassing van het Verdrag van Parijs, het TRIPS verdrag, de Overeenkomst en het Protocol van Madrid, de Overeenkomst van 's-Gravenhage alsmede de bepalingen van Belgisch, Luxemburgs of Nederlands recht, waaruit een verbod een merk te gebruiken voortvloeit. 
 
 ### Artikel  4.9  
 
@@ -1275,7 +1275,7 @@ e. ontvangen voor henzelf, hun samenwonende echtgeno(o)t(e) of geregistreerde pa
 
 ### Artikel  8  
 
-1.   Naast de in artikel 7 vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](../../../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md).    
+1.   Naast de in artikel 7 vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer.    
 2.   De immuniteit van rechtsmacht geldt niet met betrekking tot civiele vorderingen die voortvloeien uit door de Directeur-generaal in de privé-sfeer veroorzaakte schade dan wel uit door hem in de privé-sfeer afgesloten contracten.   
 3.   Niettegenstaande het eerste lid zijn voor de toepassing van de belastingen naar het inkomen en naar het vermogen de inkomsten en vermogensbestanddelen van de Directeur-generaal belastbaar in de Staat waarvan hij geacht wordt inwoner te zijn in overeenstemming met de bepalingen van de verdragen ter voorkoming van dubbele belasting.  
 
@@ -1347,7 +1347,7 @@ b. in voorkomend geval, naam en adres van de gemachtigde, of het in regel 3.6 be
 
 c. het merk;  
 
-d. de opgave van de waren en diensten, waarvoor het merk is bestemd. Dit zoveel mogelijk met vermelding van de nummers van de klassen waarin deze waren en diensten volgens de [Overeenkomst van Nice](../../../../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md) vallen;  
+d. de opgave van de waren en diensten, waarvoor het merk is bestemd. Dit zoveel mogelijk met vermelding van de nummers van de klassen waarin deze waren en diensten volgens de Overeenkomst van Nice vallen;  
 
 e. de aanduiding of het merk een woordmerk, een beeldmerk, een gecombineerd woord-beeldmerk, een vormmerk danwel een ander type merk is. In dit laatste geval dient eveneens te worden aangeduid welk type merk het betreft;  
 
@@ -1393,13 +1393,13 @@ c. in voorkomend geval, naam en adres van de gemachtigde;
 
 d. het merk;  
 
-e. de waren en diensten, ingedeeld in klassen volgens de in de [Overeenkomst van Nice](../../../../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md) bedoelde classificatie;  
+e. de waren en diensten, ingedeeld in klassen volgens de in de Overeenkomst van Nice bedoelde classificatie;  
 
 f. het type merk;  
 
 g. in voorkomend geval de vermelding dat het een collectief merk betreft;  
 
-h. in voorkomend geval, de gegevens van de beeldmerkclassificatie zoals bedoeld in de [Overeenkomst van Wenen](../../../../../../../../../../../../verdrag/vienna/agreement/establishing/an/international/classification/of/the/etc/BWBV0003767/README.md) van 12 juni 1973 tot instelling van een internationale classificatie van beeldbestanddelen van merken;  
+h. in voorkomend geval, de gegevens van de beeldmerkclassificatie zoals bedoeld in de Overeenkomst van Wenen van 12 juni 1973 tot instelling van een internationale classificatie van beeldbestanddelen van merken;  
 
 i. in voorkomend geval de door deposant opgegeven omschrijving van onderscheidende elementen;  
 
@@ -1440,9 +1440,9 @@ d. de datum van inschrijving van het merk.
 
 ####Internationaal depot
 
-1.   Als datum van inschrijving van internationale depots van merken waarbij de Benelux wordt aangeduid geldt de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring bedoeld in regel 17, lid 6, a, i van het gemeenschappelijk uitvoeringsreglement bij de [Overeenkomst](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md).   
+1.   Als datum van inschrijving van internationale depots van merken waarbij de Benelux wordt aangeduid geldt de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring bedoeld in regel 17, lid 6, a, i van het gemeenschappelijk uitvoeringsreglement bij de Overeenkomst en het Protocol van Madrid.   
 2.   In uitzondering op het in het vorige lid bepaalde geldt, indien de houder van het internationale depot het Bureau verzoekt om ingevolge artikel 2.10, lid 3, van het Verdrag zijn depot onverwijld in te schrijven, de dag waarop het verzoek tot inschrijving aan het Bureau werd gedaan als datum van inschrijving. Het Bureau publiceert deze.   
-3.   Indien het Bureau het Internationaal Bureau een kennisgeving op basis van artikel 2.13 lid 2, 2.18 lid 2 of 2.36 lid 2 van het Verdrag heeft toegezonden geldt als datum van inschrijving de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring van op opheffing van de weigering, als bedoeld in regel 17, lid 5, a, i of ii van het van het gemeenschappelijk uitvoeringsreglement bij [Overeenkomst](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) en [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md). Indien er verschillende gronden voor weigering van toepassing zijn geweest en indien deze op verschillende tijdstippen werden opgeheven geldt de datum van de laatste publicatie door het Internationaal Bureau van een door het Bureau toegestuurde verklaring van opheffing van de weigering als datum van inschrijving.  
+3.   Indien het Bureau het Internationaal Bureau een kennisgeving op basis van artikel 2.13 lid 2, 2.18 lid 2 of 2.36 lid 2 van het Verdrag heeft toegezonden geldt als datum van inschrijving de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring van op opheffing van de weigering, als bedoeld in regel 17, lid 5, a, i of ii van het van het gemeenschappelijk uitvoeringsreglement bij Overeenkomst en Protocol van Madrid. Indien er verschillende gronden voor weigering van toepassing zijn geweest en indien deze op verschillende tijdstippen werden opgeheven geldt de datum van de laatste publicatie door het Internationaal Bureau van een door het Bureau toegestuurde verklaring van opheffing van de weigering als datum van inschrijving.  
 
 ### Regel  1.9  
 
@@ -1460,20 +1460,20 @@ d. de datum van inschrijving van het merk.
 
 ####Internationale aanvragen en vernieuwingen
 
-1.   Ieder die de voorwaarden vervult van de [Overeenkomst ](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md)of het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) kan bescherming van zijn merk verkrijgen in daarbij aangesloten landen. Daartoe moet bij het Bureau een aanvraag ingediend worden voor een internationale inschrijving of tot uitbreiding van de bescherming tot andere landen. De vernieuwing van de internationale inschrijving kan worden gevraagd door tussenkomst van het Bureau, of rechtstreeks bij het Internationaal Bureau.    
-2.   De aanvraag geschiedt door het indienen van een document, dat de aanduidingen bevat voorgeschreven in het gemeenschappelijk uitvoeringsreglement van de [Overeenkomst ](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md)en het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md), zo nodig met toevoeging van de stukken voorgeschreven in bedoeld uitvoeringsreglement.   
+1.   Ieder die de voorwaarden vervult van de Overeenkomst of het Protocol van Madrid kan bescherming van zijn merk verkrijgen in daarbij aangesloten landen. Daartoe moet bij het Bureau een aanvraag ingediend worden voor een internationale inschrijving of tot uitbreiding van de bescherming tot andere landen. De vernieuwing van de internationale inschrijving kan worden gevraagd door tussenkomst van het Bureau, of rechtstreeks bij het Internationaal Bureau.    
+2.   De aanvraag geschiedt door het indienen van een document, dat de aanduidingen bevat voorgeschreven in het gemeenschappelijk uitvoeringsreglement van de Overeenkomst en het Protocol van Madrid, zo nodig met toevoeging van de stukken voorgeschreven in bedoeld uitvoeringsreglement.   
 3.   Ten aanzien van deze aanvragen en van verzoeken tot wijziging van de internationale inschrijving vinden de regels 3.1, 3.3, 3.6 en 3.7 overeenkomstige toepassing.   
-4.   Bij deze aanvragen en verzoeken dient betaling van de ingevolge de [Overeenkomst ](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md)en het [Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) verschuldigde rechten te worden verricht, voor zover deze niet rechtstreeks aan het Internationaal Bureau worden voldaan, alsmede betaling van het bemiddelingsrecht voor het Bureau, indien dit verschuldigd is.   
+4.   Bij deze aanvragen en verzoeken dient betaling van de ingevolge de Overeenkomst en het Protocol van Madrid verschuldigde rechten te worden verricht, voor zover deze niet rechtstreeks aan het Internationaal Bureau worden voldaan, alsmede betaling van het bemiddelingsrecht voor het Bureau, indien dit verschuldigd is.   
 5.   Het Bureau zendt de in deze regel bedoelde aanvragen en verzoeken, die aan de in deze regel bedoelde vereisten voldoen, onverwijld door aan het Internationaal Bureau.   
 6.   De datum van de aanvraag is de datum van ontvangst van de aanvraag door het Bureau.   
-7.   Onverminderd het bepaalde in lid 6 kan de datum van een aanvraag gebaseerd op de [Overeenkomst van Madrid](../../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) geen eerdere zijn dan de datum van inschrijving van het Beneluxmerk. Het Bureau verschuift in dat geval de datum van de aanvraag naar de datum van inschrijving van het Beneluxmerk.   
+7.   Onverminderd het bepaalde in lid 6 kan de datum van een aanvraag gebaseerd op de Overeenkomst van Madrid geen eerdere zijn dan de datum van inschrijving van het Beneluxmerk. Het Bureau verschuift in dat geval de datum van de aanvraag naar de datum van inschrijving van het Beneluxmerk.   
 8.   Onverminderd het bepaalde in lid 6 en 7 stelt het Internationaal Bureau de datum van de aanvraag vast op het moment van ontvangst van de aanvraag bij het Internationaal Bureau indien er tussen het moment van ontvangst door het Internationaal Bureau en ontvangst door het Bureau meer dan twee maanden zijn verstreken.  
 
 ### Regel  1.14  
 
 ####Omzetting
 
-De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) moet vergezeld zijn van een bewijs van de doorhaling van de internationale inschrijving.  
+De aanvraag om inschrijving zoals bedoeld in artikel 9quinquies van het Protocol van Madrid moet vergezeld zijn van een bewijs van de doorhaling van de internationale inschrijving.  
 
 ### HOOFSTUK  3  
 
@@ -1939,7 +1939,7 @@ Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het 
 
 1.   Het Bureau verschaft afschriften en inlichtingen op grondslag van het Benelux-register. De nationale diensten verschaffen uit naam en voor rekening van het Bureau dezelfde inlichtingen en afschriften voor zover zij daarover beschikken.   
 2.   Het register kan worden geraadpleegd op door de Directeur-Generaal vastgestelde wijze of in de vorm van een abonnement waarvan de modaliteiten door de Directeur-Generaal worden vastgesteld.   
-3.   De bewijsstukken van het recht van voorrang, bedoeld in [artikel 4, onder D, derde lid, van het Verdrag van Parijs ](../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md)worden door het Bureau, of in voorkomend geval de nationale diensten, verschaft. Een dergelijk document kan slechts worden afgegeven, nadat conform het bepaalde in de regels 1.3, lid 1, en 2.3, lid 1, de depotdatum is vastgesteld.  
+3.   De bewijsstukken van het recht van voorrang, bedoeld in artikel 4, onder D, derde lid, van het Verdrag van Parijs worden door het Bureau, of in voorkomend geval de nationale diensten, verschaft. Een dergelijk document kan slechts worden afgegeven, nadat conform het bepaalde in de regels 1.3, lid 1, en 2.3, lid 1, de depotdatum is vastgesteld.  
 
 ### Regel  3.11  
 
@@ -2211,7 +2211,7 @@ Op de in de regels 4.3 en 4.7 bedoelde termijnen is regel 3.9 van overeenkomstig
 
 ####Individuele rechten internationale merken
 
-Het bedrag van de individuele rechten zoals bedoeld in [artikel 8, 7), a) van het Protocol van Madrid](../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) is als volgt: 
+Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het Protocol van Madrid is als volgt: 
 ### 1. Internationaal depot:
 
 | --- | --- |

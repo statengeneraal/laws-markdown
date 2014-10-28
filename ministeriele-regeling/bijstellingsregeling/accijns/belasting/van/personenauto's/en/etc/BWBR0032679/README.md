@@ -3,7 +3,7 @@
 ##Bijstellingsregeling accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting, belastingen op milieugrondslag, Provinciewet en Wet uitwerking autobrief 2013
 
 De Staatssecretaris van Financiën,  
-Gelet op de [artikelen 27a](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [84c van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [artikel 90 van de Wet belastingen op milieugrondslag](../../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [artikel 222 van de Provincewet](../../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [artikel XIX van de Wet uitwerking autobrief](../../../../../../../../../wet/wet/uitwerking/autobrief/BWBR0030923/README.md) in samenhang met de [artikelen 10.1](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
+Gelet op de artikelen 27a en 84c van de Wet op de accijns, artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992, artikel 81a van de Wet op de motorrijtuigenbelasting 1994, artikel 90 van de Wet belastingen op milieugrondslag, artikel 222 van de Provincewet en artikel XIX van de Wet uitwerking autobrief in samenhang met de artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001;
 Besluit:    
 
 ### Artikel  I  
@@ -32,7 +32,7 @@ Wijzigt de Provinciewet.
 
 ### Artikel  VII  
 
-[Artikel 84a van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing op de in artikel I, onderdeel A, opgenomen verhogingen van de accijns. 
+Artikel 84a van de Wet op de accijns vindt geen toepassing op de in artikel I, onderdeel A, opgenomen verhogingen van de accijns. 
 
 ### Artikel  VIII  
 

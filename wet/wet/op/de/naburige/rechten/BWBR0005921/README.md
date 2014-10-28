@@ -203,9 +203,11 @@ h. de incidentele verwerking van op grond van deze wet beschermd materiaal als o
 
 i. de reproductie, het openbaar maken of het in het verkeer brengen van op grond van deze wet beschermd materiaal voor zover dat uitsluitend voor mensen met een handicap bestemd is, met de handicap direct verband houdt, van niet commerciële aard is en wegens die handicap noodzakelijk is; de artikelen 15i, tweede lid, en 16g van de Auteurswet zijn van overeenkomstige toepassing; 
 
-j. een karikatuur, parodie of pastiche mits het gebruik in overeenstemming is met hetgeen naar de regels van het maatschappelijk verkeer redelijkerwijs geoorloofd is; en 
+j. een karikatuur, parodie of pastiche mits het gebruik in overeenstemming is met hetgeen naar de regels van het maatschappelijk verkeer redelijkerwijs geoorloofd is; 
 
-k. het overnemen van op grond van deze wet beschermd materiaal ten behoeve van de opsporing van strafbare feiten, de openbare veiligheid of om het goede verloop van een bestuurlijke, parlementaire of gerechtelijke procedure of de berichtgeving daarover te waarborgen.  
+k. het overnemen van op grond van deze wet beschermd materiaal ten behoeve van de opsporing van strafbare feiten, de openbare veiligheid of om het goede verloop van een bestuurlijke, parlementaire of gerechtelijke procedure of de berichtgeving daarover te waarborgen; en 
+
+l. het reproduceren en het beschikbaar stellen voor het publiek van een voor het eerst in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer gebracht of openbaar gemaakte opname van een uitvoering, fonogram of eerste vastlegging van een film, of een reproductie daarvan, deel uitmakende van de verzameling van voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea, alsmede archieven en instellingen voor cinematografisch of audiovisueel erfgoed die niet het behalen van direct of indirect economisch of commercieel voordeel nastreven en publieke media-instellingen als bedoeld in hoofdstuk 2 van de Mediawet 2008, indien de rechthebbende na een zorgvuldige zoektocht niet is geïdentificeerd en opgespoord. De artikelen 16o tot en met 16q en 17 van de Auteurswet zijn van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
