@@ -144,7 +144,7 @@ An endorsement must be unconditional. Any condition to which it is made subject 
 
 ###Article 16 
 
-An endorsement must be written on the cheque or on a slip affixed thereto (*allonge*). It must be signed by the endorser. The endorsement may leave the beneficiary unspecified or may consist simply of the signature of the endorser (endorsement in blank). In. the latter case the endorsement, to be valid, must be written on the back of the cheque or on the slip attached thereto (*allonge*).
+An endorsement must be written on the cheque or on a slip affixed thereto (*allonge*). It must be signed by the endorser. The endorsement may leave the beneficiary unspecified or may consist simply of the signature of the endorser (endorsement in blank). In the latter case the endorsement, to be valid, must be written on the back of the cheque or on the slip attached thereto (*allonge*).
 
 ###Article 17 
 

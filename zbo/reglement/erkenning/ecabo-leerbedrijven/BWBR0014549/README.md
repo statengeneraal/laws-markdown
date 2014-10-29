@@ -9,17 +9,17 @@
 In dit reglement wordt verstaan onder 
 
 | --- | --- |
-|---|---|
-|ECABO  |Het bestuur van de te Amersfoort gevestigde Stichting ECABO, landelijk orgaan als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  |
+|:---|:---|
+|ECABO  |Het bestuur van de te Amersfoort gevestigde Stichting ECABO, landelijk orgaan als bedoeld in de Wet educatie en beroepsonderwijs.  |
 |Beroepspraktijk  |Bedrijfsprocessen en omstandigheden binnen een bedrijf of organisatie, die de context vormen waarin beroepsidentificatie mogelijk is.  |
 |Beroepspraktijkvorming  |Verwerving in de beroepspraktijk van de kennis, de houding en de vaardigheden die eigen zijn aan de gekwalificeerde uitoefening van een beroep.  |
-|Leerbedrijf  |Vestiging van een bedrijf dat -of organisatie die- op grond van gunstige beoordeling door ECABO, bevoegd is om beroepspraktijkvorming te verzorgen voor een mbo-opleiding of een groep van mbo-opleidingen, zoals bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  |
-|Simulatie-leerbedrijf  |Vestiging van een organisatie, niet zijnde een onderwijsinstelling, die in staat is bedrijfsprocessen en omstandigheden zodanig na te bootsen dat een context ontstaat waarin beroepsidentificatie mogelijk is en op grond van gunstige beoordeling door ECABO, bevoegd is om beroepspraktijkvorming te verzorgen voor een mbo-opleiding of een groep van mbo-opleidingen, zoals bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  |
+|Leerbedrijf  |Vestiging van een bedrijf dat -of organisatie die- op grond van gunstige beoordeling door ECABO, bevoegd is om beroepspraktijkvorming te verzorgen voor een mbo-opleiding of een groep van mbo-opleidingen, zoals bedoeld in de Wet educatie en beroepsonderwijs.  |
+|Simulatie-leerbedrijf  |Vestiging van een organisatie, niet zijnde een onderwijsinstelling, die in staat is bedrijfsprocessen en omstandigheden zodanig na te bootsen dat een context ontstaat waarin beroepsidentificatie mogelijk is en op grond van gunstige beoordeling door ECABO, bevoegd is om beroepspraktijkvorming te verzorgen voor een mbo-opleiding of een groep van mbo-opleidingen, zoals bedoeld in de Wet educatie en beroepsonderwijs.  |
 |Onderwijsinstelling  |Instelling als bedoeld in titel 3 of titel 4 van de Wet educatie en beroepsonderwijs.  |
 |Reglement  |Reglement erkenning ECABO-leerbedrijven met bijbehorende criteria opgesteld ingevolge artikel 7.2.10 lid 1 Wet educatie en beroepsonderwijs.  |
 |Eindtermen  |Als zodanig omschreven kwaliteiten (competenties) op het gebied van kennis, inzicht, vaardigheden en in voorkomende gevallen beroepshoudingen, waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken en in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs.  |
-|Deelnemer mbo  |Een ingeschrevene in een opleiding als bedoeld in [artikel 7.2.2 eerste lid WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in [artikel 7.2.4 WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), eindtermen zijn vastgesteld.  |
-|Praktijkopleider  |Een door het leerbedrijf aangewezen persoon, die belast is met de in [artikel 7.2.8 derde lid WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), bedoelde begeleiding van deelnemers mbo binnen het bedrijf. |
+|Deelnemer mbo  |Een ingeschrevene in een opleiding als bedoeld in artikel 7.2.2 eerste lid WEB, waarvoor in het kader van de landelijke kwalificatiestructuur, bedoeld in artikel 7.2.4 WEB, eindtermen zijn vastgesteld.  |
+|Praktijkopleider  |Een door het leerbedrijf aangewezen persoon, die belast is met de in artikel 7.2.8 derde lid WEB, bedoelde begeleiding van deelnemers mbo binnen het bedrijf. |
 
 ###Artikel 2 
 
@@ -100,7 +100,7 @@ c. andere zwaar wegende omstandigheden optreden, waardoor de erkenning in redeli
 
 ####Bezwaar en beroep
 
-Een besluit van ECABO om een verzoek tot erkenning af te wijzen, een verlenging van de erkenning te weigeren of een verleende erkenning in te trekken is vatbaar voor bezwaar en beroep conform de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+Een besluit van ECABO om een verzoek tot erkenning af te wijzen, een verlenging van de erkenning te weigeren of een verleende erkenning in te trekken is vatbaar voor bezwaar en beroep conform de Algemene wet bestuursrecht.
 
 ###Artikel 10 
 

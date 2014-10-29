@@ -3,18 +3,18 @@
 ##Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 7 augustus 2003, nr. SIOD/2003/50024, houdende de instelling van de criminele inlichtingen eenheid bij de Sociale Inlichtingen- en Opsporingsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid en de vaststelling van de werkzaamheden van deze eenheid (Besluit instelling criminele inlichtingen eenheid SIOD)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op artikel 2, eerste lid, van het Coördinatiebesluit inrichting organisatie en formatie rijksdienst en de [artikelen 1, onder d](../../../../../../../../AMvB/besluit/politieregisters/BWBR0004996/README.md), en [18a van het Besluit politieregisters](../../../../../../../../AMvB/besluit/politieregisters/BWBR0004996/README.md);
+Gelet op artikel 2, eerste lid, van het Coördinatiebesluit inrichting organisatie en formatie rijksdienst en de artikelen 1, onder d, en 18a van het Besluit politieregisters;
 Besluit:    
 
 ### Artikel  1  
 
 1.  In dit besluit wordt verstaan onder: 
 
-a.  *nationale criminele inlichtingen eenheid:* eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](../../../../../../../../AMvB/besluit/verplichte/politiegegevens/BWBR0032083/README.md);  
+a.  *nationale criminele inlichtingen eenheid:* eenheid, genoemd in artikel 1, onderdeel d, van het Besluit verplichte politiegegevens;  
 
-b.  *informantgegevens:* gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+b.  *informantgegevens:* gegevens omtrent een persoon, bedoeld in artikel 12, zevende lid, van de Wet politiegegevens;  
 
-c.  *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+c.  *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens;  
 
 d. *Inspectie SZW-DO:* de Directie Opsporing van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid; 
 
@@ -26,8 +26,8 @@ f.  *verantwoordelijke:* de Minister van Sociale Zaken en Werkgelegenheid.
 ### Artikel  2  
 
 1.  Bij de Inspectie SZW-DO is een criminele inlichtingen eenheid Inspectie SZW-DO.   
-2.  De criminele inlichtingen eenheid Inspectie SZW-DO is belast met de informatievoorziening in het kader van de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).   
-3.  Met het oog op de uitvoering van de taak, bedoeld in het tweede lid, worden criminele inlichtingen verwerkt overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde.  
+2.  De criminele inlichtingen eenheid Inspectie SZW-DO is belast met de informatievoorziening in het kader van de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens.   
+3.  Met het oog op de uitvoering van de taak, bedoeld in het tweede lid, worden criminele inlichtingen verwerkt overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde.  
 
 ### Artikel  3  
 
@@ -35,19 +35,19 @@ f.  *verantwoordelijke:* de Minister van Sociale Zaken en Werkgelegenheid.
 
 a. het verzamelen en verifiëren van criminele inlichtingen;  
 
-b. het verwerken van criminele inlichtingen in een bestand, als bedoeld in [artikel 2, eerste lid, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+b. het verwerken van criminele inlichtingen in een bestand, als bedoeld in artikel 2, eerste lid, van de Wet politiegegevens;  
 
-c. het bevorderen van het gericht inwinnen en aanvullen van criminele inlichtingen en andere gegevens die in het kader van de strafrechtelijke handhaving van de rechtsorde in aanmerking komen voor verwerking op grond van de [Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+c. het bevorderen van het gericht inwinnen en aanvullen van criminele inlichtingen en andere gegevens die in het kader van de strafrechtelijke handhaving van de rechtsorde in aanmerking komen voor verwerking op grond van de Wet politiegegevens;  
 
 d. het analyseren van criminele inlichtingen en het aan de hand daarvan: 
 
-1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens;  
 
 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;    
 
-e. het ter beschikking stellen van criminele inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+e. het ter beschikking stellen van criminele inlichtingen overeenkomstig artikel 10, vijfde lid, van de Wet politiegegevens;  
 
-f. het verwerken van gegevens over informanten, overeenkomstig [artikel 12 van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), onder gelijktijdige codetoekenning.   
+f. het verwerken van gegevens over informanten, overeenkomstig artikel 12 van de Wet politiegegevens, onder gelijktijdige codetoekenning.   
 2.  Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, maakt de criminele inlichtingen eenheid Inspectie SZW-DO gebruik van de door de Minister van Veiligheid en Justitie aangewezen geautomatiseerde verwijsindex.   
 3.  De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onder c, met medewerking van personen als omschreven in artikel 1, onder c, wordt binnen de Inspectie SZW-DO uitsluitend verricht door de criminele inlichtingen eenheid Inspectie SZW-DO.  
 
@@ -57,9 +57,9 @@ De criminele inlichtingen eenheid Inspectie SZW-DO streeft naar een zo doelmatig
 
 ### Artikel  5  
 
-1.  De criminele inlichtingen eenheid Inspectie SZW-DO verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in bijlage I van deze regeling.   
-2.  Van de overeenkomstig [artikel 46, tweede lid, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) aangewezen ambtenaren van de criminele inlichtingen eenheid Inspectie SZW-DO worden door de verantwoordelijke twee ambtenaren voorgedragen met het oog op de autorisatie, bedoeld in [artikel 2:5, eerste lid, van het Besluit politiegegevens](../../../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md), ten aanzien van het bestand met criminele inlichtingen bij de overige criminele inlichtingen eenheden.   
-3.  De verantwoordelijke draagt ervoor zorg dat aan de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](../../../../../../../../AMvB/besluit/verplichte/politiegegevens/BWBR0032083/README.md) bekendgemaakte ambtenaren van elke criminele inlichtingen eenheid alsmede de twee geautoriseerde ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde autorisatie wordt verleend.  
+1.  De criminele inlichtingen eenheid Inspectie SZW-DO verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens. Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in bijlage I van deze regeling.   
+2.  Van de overeenkomstig artikel 46, tweede lid, van de Wet politiegegevens aangewezen ambtenaren van de criminele inlichtingen eenheid Inspectie SZW-DO worden door de verantwoordelijke twee ambtenaren voorgedragen met het oog op de autorisatie, bedoeld in artikel 2:5, eerste lid, van het Besluit politiegegevens, ten aanzien van het bestand met criminele inlichtingen bij de overige criminele inlichtingen eenheden.   
+3.  De verantwoordelijke draagt ervoor zorg dat aan de op grond van artikel 7, tweede lid, van het Besluit verplichte politiegegevens bekendgemaakte ambtenaren van elke criminele inlichtingen eenheid alsmede de twee geautoriseerde ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde autorisatie wordt verleend.  
 
 ### Artikel  6  
 
@@ -67,7 +67,7 @@ De criminele inlichtingen eenheid Inspectie SZW-DO streeft naar een zo doelmatig
 
 a. criminele inlichtingen die van nationale of internationale betekenis zijn;  
 
-b. personalia of bedrijfsgegevens van overeenkomstig [artikel 10, tweede lid, onderdelen a en b, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) geregistreerde personen;  
+b. personalia of bedrijfsgegevens van overeenkomstig artikel 10, tweede lid, onderdelen a en b, van de Wet politiegegevens geregistreerde personen;  
 
 c. de informantgegevens door middel van het Informanten Codering Systeem;  
 
@@ -76,7 +76,7 @@ d. overige informatie die van belang kan zijn voor de landelijke en internationa
 
 ### Artikel  7  
 
-1.  De verantwoordelijke van de Inspectie SZW-DO draagt er zorg voor dat de kennis en vaardigheden van de ambtenaren, die deel uitmaken van de criminele inlichtingen eenheid Inspectie SZW-DO, worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](../../../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md).   
+1.  De verantwoordelijke van de Inspectie SZW-DO draagt er zorg voor dat de kennis en vaardigheden van de ambtenaren, die deel uitmaken van de criminele inlichtingen eenheid Inspectie SZW-DO, worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in artikel 2:9 van het Besluit politiegegevens.   
 2.  De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in artikel 3, eerste lid, onder c, ononderbroken deel uitmaakt van een criminele inlichtingen eenheid Inspectie SZW-DO.   
 3.  De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met twee jaar worden verlengd.  
 
@@ -88,7 +88,7 @@ d. overige informatie die van belang kan zijn voor de landelijke en internationa
 
 ### Artikel  9  
 
-De verantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij de criminele inlichtingen eenheid Inspectie SZW-DO gehouden criminele inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan kunnen worden getroffen opdat het bij of krachtens de [Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde kan worden nageleefd. 
+De verantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij de criminele inlichtingen eenheid Inspectie SZW-DO gehouden criminele inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan kunnen worden getroffen opdat het bij of krachtens de Wet politiegegevens bepaalde kan worden nageleefd. 
 
 ### Artikel  10  
 

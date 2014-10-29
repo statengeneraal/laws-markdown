@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 september 2001, nr. DGG/J-01/003872, Directoraat-Generaal Goederenvervoer, Stafafdeling Wetgeving, bestuurlijke en juridische zaken;
 
-Gelet op richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), richtlijn nr. 93/103/EG van de Raad van de Europese Gemeenschappen van 23 november 1993 betreffende de minimumvoorschriften inzake veiligheid en gezondheid bij het werk aan boord van vissersvaartuigen (PbEG L 307), richtlijn nr. 97/70/EG van de Raad van de Europese Unie van 11 december 1997 betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt (PbEG 1998, L 34) en richtlijn nr. 1999/19/EG van de Commissie van de Europese Gemeenschappen van 18 maart 1999 (PbEG L 83) tot wijziging van Richtlijn 97/70/EG van de Raad betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt, alsmede op de [artikelen 3](../../../../rijkswet/schepenwet/BWBR0001876/README.md), [3a](../../../../rijkswet/schepenwet/BWBR0001876/README.md), [5](../../../../rijkswet/schepenwet/BWBR0001876/README.md) en [9 van de Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);
+Gelet op richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), richtlijn nr. 93/103/EG van de Raad van de Europese Gemeenschappen van 23 november 1993 betreffende de minimumvoorschriften inzake veiligheid en gezondheid bij het werk aan boord van vissersvaartuigen (PbEG L 307), richtlijn nr. 97/70/EG van de Raad van de Europese Unie van 11 december 1997 betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt (PbEG 1998, L 34) en richtlijn nr. 1999/19/EG van de Commissie van de Europese Gemeenschappen van 18 maart 1999 (PbEG L 83) tot wijziging van Richtlijn 97/70/EG van de Raad betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt, alsmede op de artikelen 3, 3a, 5 en 9 van de Schepenwet;
 
 De Raad van State van het Koninkrijk gehoord (advies van 7 december 2001, nr. W09.01.0493/V/K);
 
@@ -24,13 +24,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt, tenzij anders is bepaald, verstaan onder: 
 
-a.  *wet*: de [Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+a.  *wet*: de Schepenwet;  
 
 b.  *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-c.  *Nederlands vissersvaartuig:* een vissersvaartuig dat ingevolge [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md) als Nederlands geldt; 
+c.  *Nederlands vissersvaartuig:* een vissersvaartuig dat ingevolge artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967 als Nederlands geldt; 
 
-d.  *vissersvaartuig*: een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+d.  *vissersvaartuig*: een vissersvaartuig als bedoeld in artikel 1, eerste lid, van de wet;  
 
 e.  *nieuw vissersvaartuig*: een vissersvaartuig waarvoor 
 
@@ -100,7 +100,7 @@ s.  *aanvaringsschot:* een waterdicht schot dat in het voorste deel van het viss
 
 3°. indien het aanvaringsschot is voorzien van trapsgewijze sprongen of nissen, vallen deze binnen de beperkingen, bedoeld onder 1°;    
 
-t.  *klassebureau:* een natuurlijke persoon of rechtspersoon, aangewezen krachtens [artikel 6, tweede lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+t.  *klassebureau:* een natuurlijke persoon of rechtspersoon, aangewezen krachtens artikel 6, tweede lid, van de wet;  
 
 u.  *IMO:* de Internationale Maritieme Organisatie van de Verenigde Naties;  
 
@@ -143,7 +143,7 @@ Met een goedkeuring door het Hoofd van de Scheepvaartinspectie wordt gelijkgeste
 
 ####Klassenregels
 
-1.  Onze Minister wijst instanties aan waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a, eerste lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md).   
+1.  Onze Minister wijst instanties aan waarvan de regels kunnen gelden als eisen als bedoeld in artikel 3a, eerste lid, van de wet.   
 2.  Voordat een eerste onderzoek als bedoeld in artikel 1.12, eerste lid, plaatsvindt, kiest de eigenaar of de bouwer van een vissersvaartuig voor de regels van een ingevolge het eerste lid aangewezen instantie of voor de regels die door de Scheepvaartinspectie worden gebruikt.   
 3.  Bij onderzoeken als bedoeld in artikel 1.12 voldoet een vissersvaartuig met betrekking tot het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen alsmede de elektrische en automatische systemen, aan de regels van een ingevolge het eerste lid aangewezen instantie, of aan de regels die door de Scheepvaartinspectie worden gebruikt, voor zover deze regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.  
 
@@ -168,7 +168,7 @@ Met een goedkeuring door het Hoofd van de Scheepvaartinspectie wordt gelijkgeste
 
 ####Certificaat van vrijstelling
 
-Een certificaat van vrijstelling wordt afgegeven naast een certificaat van overeenstemming indien voor een vissersvaartuig op grond van een vrijstellingsregeling krachtens [artikel 5, eerste lid, van de Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md) afwijking is toegestaan van enig voorschrift, gesteld bij of krachtens dit besluit. Het certificaat komt overeen met het model, opgenomen in de bijlage bij dit besluit. 
+Een certificaat van vrijstelling wordt afgegeven naast een certificaat van overeenstemming indien voor een vissersvaartuig op grond van een vrijstellingsregeling krachtens artikel 5, eerste lid, van de Schepenwet afwijking is toegestaan van enig voorschrift, gesteld bij of krachtens dit besluit. Het certificaat komt overeen met het model, opgenomen in de bijlage bij dit besluit. 
 
 ###Artikel 1.10 
 
@@ -577,60 +577,73 @@ Dit hoofdstuk is van toepassing op vissersvaartuigen met een lengte van 45 meter
 
 ####Omschrijvingen
 
-.  Voor de toepassing van dit hoofdstuk wordt verstaan onder:   
-1.   *hoofdstuurinrichting:* het werktuig, de krachtwerktuigen voor de stuurinrichting, indien aanwezig, en de bijbehorende inrichtingen en de middelen om het koppel op de roerkoning over te brengen, met inbegrip van de helmstok of het kwadrant, benodigd om de roeruitslag te bewerkstelligen met het doel het vaartuig onder normale bedrijfsomstandigheden te kunnen besturen;   
-2.   *hulpstuurinrichting:* de uitrusting, benodigd om de roeruitslag te bewerkstelligen met het doel het vaartuig te kunnen besturen in het geval de hoofdstuurinrichting is uitgevallen;   
-3.   *krachtwerktuig voor de stuurinrichting:*  
+Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
+
+1. *hoofdstuurinrichting:* het werktuig, de krachtwerktuigen voor de stuurinrichting, indien aanwezig, en de bijbehorende inrichtingen en de middelen om het koppel op de roerkoning over te brengen, met inbegrip van de helmstok of het kwadrant, benodigd om de roeruitslag te bewerkstelligen met het doel het vaartuig onder normale bedrijfsomstandigheden te kunnen besturen;
+
+2. *hulpstuurinrichting:* de uitrusting, benodigd om de roeruitslag te bewerkstelligen met het doel het vaartuig te kunnen besturen in het geval de hoofdstuurinrichting is uitgevallen;
+
+3. *krachtwerktuig voor de stuurinrichting:*  
 
 a. bij een elektrische stuurinrichting: een elektromotor met de bijbehorende elektrische apparatuur;  
 
 b. bij een elektrisch-hydraulische stuurinrichting: een elektromotor met de daarbij behorende elektrische apparatuur en de door de motor aangedreven pomp;  
 
-c. bij een ander type hydraulische stuurinrichting: een pomp en het werktuig voor de aandrijving ervan;     
-4.   *maximum dienstsnelheid vooruit:* de hoogste snelheid waarvoor het vaartuig is ontworpen om deze op zee, bij de grootst toegestane diepgang in zeewater, te kunnen handhaven;   
-5.   *maximum dienstsnelheid achteruit:* de snelheid die het vaartuig naar verwachting zal kunnen bereiken bij het maximale ontwerp-achteruitvermogen en bij de grootst toegestane diepgang in zeewater;   
-6.   *oliestookinrichting:* de installatie, gebruikt voor de toebereiding van brandstofolie voor levering aan een met olie gestookte ketel, of de installatie, gebruikt voor de toebereiding van olie voor levering aan een verbrandingsmotor, met inbegrip van alle oliedrukpompen, filters en verhitters die olie behandelen onder een druk van meer dan 0,18 N/mm<sup>2</sup>;   
-7.   *normale toestand van bedrijfsvoering en leefbaarheid:* een toestand waaronder het vaartuig als geheel, de werktuigen, diensten, middelen van hoofd- en hulpvoortstuwing, stuurinrichting en bijbehorende apparatuur, hulpmiddelen voor veilige navigatie en het beperken van de gevaren van brand en vervuld raken, interne en externe communicatiemiddelen en seinen, voorzieningen voor ontsnapping en lieren voor hulpverleningsboten goed functioneren en waarbij aan de minimumeisen van comfort en leefbaarheid aan boord wordt voldaan;   
-8.   *doodschip toestand:* die toestand waarbij de hoofdvoortstuwingsinstallatie, ketels en hulpwerktuigen niet werken als gevolg van het ontbreken van vermogen;   
-9.   *hoofdschakelbord:* een schakelbord dat rechtstreeks gevoed wordt door de elektrische hoofdkrachtbron en bestemd is om de elektrische energie te verdelen;   
-10.   *tijdelijk onbemande machinekamers:* die ruimten waarin zich de hoofdvoortstuwingswerktuigen en bijbehorende installaties, alsmede alle elektrische hoofdkrachtbronnen bevinden en die niet te allen tijde bij alle werkzaamheden, met inbegrip van het manoeuvreren, bemand behoeven te zijn.  
+c. bij een ander type hydraulische stuurinrichting: een pomp en het werktuig voor de aandrijving ervan;  
 
-###Artikel 4.3 
+4. *maximum dienstsnelheid vooruit:* de hoogste snelheid waarvoor het vaartuig is ontworpen om deze op zee, bij de grootst toegestane diepgang in zeewater, te kunnen handhaven;
+
+5. *maximum dienstsnelheid achteruit:* de snelheid die het vaartuig naar verwachting zal kunnen bereiken bij het maximale ontwerp-achteruitvermogen en bij de grootst toegestane diepgang in zeewater;
+
+6. *oliestookinrichting:* de installatie, gebruikt voor de toebereiding van brandstofolie voor levering aan een met olie gestookte ketel, of de installatie, gebruikt voor de toebereiding van olie voor levering aan een verbrandingsmotor, met inbegrip van alle oliedrukpompen, filters en verhitters die olie behandelen onder een druk van meer dan 0,18 N/mm<sup>2</sup>;
+
+7. *normale toestand van bedrijfsvoering en leefbaarheid:* een toestand waaronder het vaartuig als geheel, de werktuigen, diensten, middelen van hoofd- en hulpvoortstuwing, stuurinrichting en bijbehorende apparatuur, hulpmiddelen voor veilige navigatie en het beperken van de gevaren van brand en vervuld raken, interne en externe communicatiemiddelen en seinen, voorzieningen voor ontsnapping en lieren voor hulpverleningsboten goed functioneren en waarbij aan de minimumeisen van comfort en leefbaarheid aan boord wordt voldaan;
+
+8. *doodschip toestand:* die toestand waarbij de hoofdvoortstuwingsinstallatie, ketels en hulpwerktuigen niet werken als gevolg van het ontbreken van vermogen;
+
+9. *hoofdschakelbord:* een schakelbord dat rechtstreeks gevoed wordt door de elektrische hoofdkrachtbron en bestemd is om de elektrische energie te verdelen;
+
+10. *tijdelijk onbemande machinekamers:* die ruimten waarin zich de hoofdvoortstuwingswerktuigen en bijbehorende installaties, alsmede alle elektrische hoofdkrachtbronnen bevinden en die niet te allen tijde bij alle werkzaamheden, met inbegrip van het manoeuvreren, bemand behoeven te zijn. 
+
+### Artikel  4.3  
 
 ####Algemeen
 
-. *Machine-installaties*
-1. Hoofdvoortstuwingsinstallaties, bedieningssystemen, stoomleidingsystemen, brandstofsystemen, drukluchtsystemen, elektrische installaties, koelsystemen, hulpwerktuigen, ketels en andere drukvaten, pijpleidingen en pompinstallaties, stuurmachines en toebehoren, assen en koppelingen, bestemd voor de overdracht van vermogen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie ontworpen, geconstrueerd, beproefd, ingericht en onderhouden. De uitvoering en de opstelling van deze machine-installaties, met inbegrip van hefwerktuigen, lieren en uitrusting voor de behandeling en verwerking van vis, zijn zodanig, dat de veiligheid en de gezondheid van in de nabijheid aanwezige personen zoveel mogelijk is gewaarborgd. Waar nodig zijn ter beveiliging tegen bewegende delen, hete oppervlakken en andere gevaren, schermplaten, handgrepen of hekwerk aangebracht.
-2. Ruimten voor machines zijn zodanig ontworpen dat alle werktuigen en de daarbij behorende bedieningsinstallaties, alsmede alle andere onderdelen die onderhoud kunnen vereisen, veilig en gemakkelijk toegankelijk zijn. De betreffende ruimten kunnen voldoende worden geventileerd.
+###Machine-installaties
+
+1.  Hoofdvoortstuwingsinstallaties, bedieningssystemen, stoomleidingsystemen, brandstofsystemen, drukluchtsystemen, elektrische installaties, koelsystemen, hulpwerktuigen, ketels en andere drukvaten, pijpleidingen en pompinstallaties, stuurmachines en toebehoren, assen en koppelingen, bestemd voor de overdracht van vermogen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie ontworpen, geconstrueerd, beproefd, ingericht en onderhouden. De uitvoering en de opstelling van deze machine-installaties, met inbegrip van hefwerktuigen, lieren en uitrusting voor de behandeling en verwerking van vis, zijn zodanig, dat de veiligheid en de gezondheid van in de nabijheid aanwezige personen zoveel mogelijk is gewaarborgd. Waar nodig zijn ter beveiliging tegen bewegende delen, hete oppervlakken en andere gevaren, schermplaten, handgrepen of hekwerk aangebracht.   
+2.  Ruimten voor machines zijn zodanig ontworpen dat alle werktuigen en de daarbij behorende bedieningsinstallaties, alsmede alle andere onderdelen die onderhoud kunnen vereisen, veilig en gemakkelijk toegankelijk zijn. De betreffende ruimten kunnen voldoende worden geventileerd.   
 3. 
-a.Er zijn voorzieningen aangebracht die de goede werking van de voortstuwingsinstallatie kunnen handhaven of herstellen, zelfs indien één van de essentiële hulpinstallaties uitvalt. Bijzondere aandacht wordt daarbij gegeven aan de goede werking van:
+a. Er zijn voorzieningen aangebracht die de goede werking van de voortstuwingsinstallatie kunnen handhaven of herstellen, zelfs indien één van de essentiële hulpinstallaties uitvalt. Bijzondere aandacht wordt daarbij gegeven aan de goede werking van: 
 
-1°.de inrichtingen die de brandstoftoevoer naar de hoofdvoortstuwingsinstallatie verzorgen,
+1°. de inrichtingen die de brandstoftoevoer naar de hoofdvoortstuwingsinstallatie verzorgen,  
 
-2°.de normale middelen die de smeeroliedruk verzorgen,
+2°. de normale middelen die de smeeroliedruk verzorgen,  
 
-3°.de hydraulische, pneumatische en elektrische middelen voor de bediening van de hoofdvoortstuwingsinstallatie, met inbegrip van de verstelbare schroeven,
+3°. de hydraulische, pneumatische en elektrische middelen voor de bediening van de hoofdvoortstuwingsinstallatie, met inbegrip van de verstelbare schroeven,  
 
-4°.de middelen om de koelwaterdruk ten behoeve van de koelsystemen van de hoofdvoortstuwingsinstallatie te verzorgen, en
+4°. de middelen om de koelwaterdruk ten behoeve van de koelsystemen van de hoofdvoortstuwingsinstallatie te verzorgen, en  
 
-5°.de luchtcompressoren en de luchtvaten voor aanzet- of bedieningsdoeleinden, waarbij het Hoofd van de Scheepvaartinspectie een gedeeltelijke vermindering van het vermogen kan accepteren, rekening houdend met de algehele veiligheid, in plaats van een bedrijfstoestand onder volle belasting.
+5°. de luchtcompressoren en de luchtvaten voor aanzet- of bedieningsdoeleinden, waarbij het Hoofd van de Scheepvaartinspectie een gedeeltelijke vermindering van het vermogen kan accepteren, rekening houdend met de algehele veiligheid, in plaats van een bedrijfstoestand onder volle belasting.    
 
-b.Er zijn voorzieningen aangebracht met behulp waarvan de machine-installatie in werking kan worden gesteld vanuit een doodschip toestand zonder dat hulp van buitenaf wordt geboden.
-4. Hoofdvoortstuwingsinstallaties en alle hulpinstallaties die noodzakelijk zijn voor de voortstuwing en de veiligheid van het vaartuig, kunnen, zoals zij zijn geïnstalleerd, functioneren ongeacht of het vaartuig recht ligt dan wel een slagzij maakt tot 15° naar beide zijden onder statische omstandigheden of een slagzij tot 22,5° naar beide zijden onder dynamische omstandigheden, waarbij het vaartuig over beide zijden slingert en gelijktijdig een dynamische stampbeweging tot 7,5° over de boeg of achtersteven maakt. Het Hoofd van de Scheepvaartinspectie kan, rekening houdende met het type, de afmetingen en het gebruik van het vaartuig, toestaan dat van deze criteria wordt afgeweken.
-5. Het ontwerp, de constructie en de installatie van voortstuwingssystemen zijn zodanig, dat binnen de normale bedrijfsgebieden op geen enkele wijze door trillingen abnormale spanningen in deze voortstuwingssystemen worden veroorzaakt.
-. *Elektrische installaties*
-6. Het ontwerp en de bouw van elektrische installaties zijn zodanig uitgevoerd dat:
+b. Er zijn voorzieningen aangebracht met behulp waarvan de machine-installatie in werking kan worden gesteld vanuit een doodschip toestand zonder dat hulp van buitenaf wordt geboden.     
+4.  Hoofdvoortstuwingsinstallaties en alle hulpinstallaties die noodzakelijk zijn voor de voortstuwing en de veiligheid van het vaartuig, kunnen, zoals zij zijn geïnstalleerd, functioneren ongeacht of het vaartuig recht ligt dan wel een slagzij maakt tot 15° naar beide zijden onder statische omstandigheden of een slagzij tot 22,5° naar beide zijden onder dynamische omstandigheden, waarbij het vaartuig over beide zijden slingert en gelijktijdig een dynamische stampbeweging tot 7,5° over de boeg of achtersteven maakt. Het Hoofd van de Scheepvaartinspectie kan, rekening houdende met het type, de afmetingen en het gebruik van het vaartuig, toestaan dat van deze criteria wordt afgeweken.   
+5.  Het ontwerp, de constructie en de installatie van voortstuwingssystemen zijn zodanig, dat binnen de normale bedrijfsgebieden op geen enkele wijze door trillingen abnormale spanningen in deze voortstuwingssystemen worden veroorzaakt.  
+###Elektrische installaties
 
-a.de diensten die nodig zijn om de normale toestand van bedrijfsvoering en leefbaarheid te handhaven, zijn verzekerd zonder dat behoeft te worden teruggevallen op de noodkrachtbron,
+6.  Het ontwerp en de bouw van elektrische installaties zijn zodanig uitgevoerd dat: 
 
-b.de diensten die essentieel zijn voor de veiligheid tijdens verschillende noodtoestanden, zijn verzekerd, en
+a. de diensten die nodig zijn om de normale toestand van bedrijfsvoering en leefbaarheid te handhaven, zijn verzekerd zonder dat behoeft te worden teruggevallen op de noodkrachtbron,  
 
-c.de veiligheid van bemanning en vaartuig tegen gevaren van elektrische aard is gewaarborgd.
-7. Ter uitvoering van het bepaalde in de artikelen 4.16 tot en met 4.18 kunnen bij ministeriële regeling nadere regels worden gesteld ten aanzien van elektrische installaties.
-. *Tijdelijk onbemande machinekamers*
-8. De artikelen 4.19 tot en met 4.24 zijn van toepassing op vissersvaartuigen met tijdelijk onbemande machinekamers, in aanvulling op het bepaalde in de artikelen 4.3 tot en met 4.18 en 5.1 tot en met 5.44.
-9. Er zijn zodanige voorzieningen getroffen, ten genoegen van het Hoofd van de Scheepvaartinspectie, dat verzekerd is dat de gehele machine-installatie onder alle omstandigheden, manoeuvreren inbegrepen, op betrouwbare wijze functioneert. In elk geval omvatten deze voorzieningen regelmatige inspecties en ronden teneinde de voortdurende betrouwbare werking van de machine-installatie te verzekeren.
-10. Er is een verklaring aan boord waaruit ten genoegen van het Hoofd van de Scheepvaartinspectie blijkt dat het vaartuig is ingericht om met tijdelijk onbemande machinekamers te varen.
+b. de diensten die essentieel zijn voor de veiligheid tijdens verschillende noodtoestanden, zijn verzekerd, en  
+
+c. de veiligheid van bemanning en vaartuig tegen gevaren van elektrische aard is gewaarborgd.     
+7.  Ter uitvoering van het bepaalde in de artikelen 4.16 tot en met 4.18 kunnen bij ministeriële regeling nadere regels worden gesteld ten aanzien van elektrische installaties.  
+###Tijdelijk onbemande machinekamers
+
+8.  De artikelen 4.19 tot en met 4.24 zijn van toepassing op vissersvaartuigen met tijdelijk onbemande machinekamers, in aanvulling op het bepaalde in de artikelen 4.3 tot en met 4.18 en 5.1 tot en met 5.44.   
+9.  Er zijn zodanige voorzieningen getroffen, ten genoegen van het Hoofd van de Scheepvaartinspectie, dat verzekerd is dat de gehele machine-installatie onder alle omstandigheden, manoeuvreren inbegrepen, op betrouwbare wijze functioneert. In elk geval omvatten deze voorzieningen regelmatige inspecties en ronden teneinde de voortdurende betrouwbare werking van de machine-installatie te verzekeren.   
+10.  Er is een verklaring aan boord waaruit ten genoegen van het Hoofd van de Scheepvaartinspectie blijkt dat het vaartuig is ingericht om met tijdelijk onbemande machinekamers te varen.  
 
 ### §  2  
 
@@ -1944,7 +1957,7 @@ Ten behoeve van het gebruik van de medische uitrusting is aan boord een bijgehou
 
 ####Vervoer van gevaarlijke stoffen
 
-Indien aan boord van een vaartuig gevaarlijke stoffen als bedoeld in [artikel 130 van het Schepenbesluit 1965](../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) worden meegevoerd, zijn tevens bij ministeriële regeling voorgeschreven antidota en een zuurstofbeademingskoffer met onderhoudsset, met de daarbij behorende controlelijst en handleiding aanwezig. 
+Indien aan boord van een vaartuig gevaarlijke stoffen als bedoeld in artikel 130 van het Schepenbesluit 1965 worden meegevoerd, zijn tevens bij ministeriële regeling voorgeschreven antidota en een zuurstofbeademingskoffer met onderhoudsset, met de daarbij behorende controlelijst en handleiding aanwezig. 
 
 ### Artikel  6.13  
 
@@ -2530,138 +2543,138 @@ c.Luchtgekoelde motoren zijn voorzien van een systeem om koellucht aan te zuigen
 5. * Constructie en stootdempers*Onverminderd het bepaalde in artikel 7.17, eerste lid, onder f, is een geheel overdekte reddingsboot zo gebouwd en van stootdempers voorzien dat deze aan inzittenden bescherming biedt tegen schadelijke versnellingen als gevolg van een slag van de reddingsboot, beladen met volle bezetting en volledige uitrusting, tegen de scheepszijde met een stootsnelheid van ten minste 3,5 m/s.
 6. *Reddingsboten die door middel van vrije val te water worden gelaten*Een vrije-val reddingsboot is zodanig geconstrueerd dat hij bescherming biedt tegen schadelijke versnellingen als gevolg van het te water laten, beladen met volle bezetting en volledige uitrusting, vanaf ten minste zijn opstelplaats boven de waterlijn tot de laagst gelegen lastlijn onder ongunstige trimomstandigheden tot maximaal 10° en met een minimale slagzij van 20° over elke zijde.
 
-###Artikel 7.20 
+### Artikel  7.20  
 
 ####Algemene eisen voor reddingsvlotten
 
-1. *Constructie van reddingsvlotten*
+1.   *Constructie van reddingsvlotten*  
 
-a.Een reddingsvlot is zo vervaardigd dat het in zee gedurende 30 dagen bestand is tegen blootstelling aan invloeden van weer en zee in alle toestanden van zeegang.
+a. Een reddingsvlot is zo vervaardigd dat het in zee gedurende 30 dagen bestand is tegen blootstelling aan invloeden van weer en zee in alle toestanden van zeegang.  
 
-b.Een reddingsvlot is zo vervaardigd dat het, indien het van een hoogte van 18 m in het water wordt geworpen, het vlot en de uitrusting naar behoren blijven werken. Wanneer het reddingsvlot op een hoogte van meer dan 18 m boven de laagst gelegen lastlijn van het vaartuig in zeewater wordt geplaatst, is het van een type dat een valproef van ten minste die hoogte met goed gevolg heeft doorstaan.
+b. Een reddingsvlot is zo vervaardigd dat het, indien het van een hoogte van 18 m in het water wordt geworpen, het vlot en de uitrusting naar behoren blijven werken. Wanneer het reddingsvlot op een hoogte van meer dan 18 m boven de laagst gelegen lastlijn van het vaartuig in zeewater wordt geplaatst, is het van een type dat een valproef van ten minste die hoogte met goed gevolg heeft doorstaan.  
 
-c.Het drijvende reddingsvlot is bestand tegen herhaalde sprongen daarop vanaf een hoogte van ten minste 4,5 m boven de vloer van het vlot, zowel met als zonder opstaande overkapping.
+c. Het drijvende reddingsvlot is bestand tegen herhaalde sprongen daarop vanaf een hoogte van ten minste 4,5 m boven de vloer van het vlot, zowel met als zonder opstaande overkapping.  
 
-d.Een reddingsvlot met toebehoren is zo vervaardigd dat het met zijn volle bezetting en volledige uitrusting en met een van de drijfankers uitgebracht, in kalm water met een vaart van 3 zeemijl per uur kan worden gesleept.
+d. Een reddingsvlot met toebehoren is zo vervaardigd dat het met zijn volle bezetting en volledige uitrusting en met een van de drijfankers uitgebracht, in kalm water met een vaart van 3 zeemijl per uur kan worden gesleept.  
 
-e.Het reddingsvlot heeft een overkapping die automatisch wordt opgezet wanneer het vlot te water wordt gelaten teneinde de inzittenden te beschermen tegen weersinvloeden. De overkapping voldoet aan de volgende eisen:
+e. Het reddingsvlot heeft een overkapping die automatisch wordt opgezet wanneer het vlot te water wordt gelaten teneinde de inzittenden te beschermen tegen weersinvloeden. De overkapping voldoet aan de volgende eisen: 
 
-1°.zij biedt bescherming tegen hitte en koude door middel van twee lagen materiaal, gescheiden door een luchtlaag, of door andere, even doeltreffende middelen. Er zijn voorzieningen getroffen om het binnendringen van water in de luchtlaag te voorkomen;
+1°. zij biedt bescherming tegen hitte en koude door middel van twee lagen materiaal, gescheiden door een luchtlaag, of door andere, even doeltreffende middelen. Er zijn voorzieningen getroffen om het binnendringen van water in de luchtlaag te voorkomen;  
 
-2°.de binnenkant heeft een kleur die voor de inzittenden van het reddingsvlot niet hinderlijk is;
+2°. de binnenkant heeft een kleur die voor de inzittenden van het reddingsvlot niet hinderlijk is;  
 
-3°.elke ingang is duidelijk aangegeven en is voorzien van doeltreffende, verstelbare afsluitingen die zeewater, wind en kou buitensluiten, en die gemakkelijk en snel van binnenuit en van buitenaf geopend kunnen worden zodat ventilatie mogelijk is. Reddingsvlotten bestemd voor meer dan 8 personen hebben ten minste twee tegenover elkaar gelegen ingangen;
+3°. elke ingang is duidelijk aangegeven en is voorzien van doeltreffende, verstelbare afsluitingen die zeewater, wind en kou buitensluiten, en die gemakkelijk en snel van binnenuit en van buitenaf geopend kunnen worden zodat ventilatie mogelijk is. Reddingsvlotten bestemd voor meer dan 8 personen hebben ten minste twee tegenover elkaar gelegen ingangen;  
 
-4°.zij laten te allen tijde, zelfs met afgesloten ingangen, voldoende lucht voor de inzittenden toe;
+4°. zij laten te allen tijde, zelfs met afgesloten ingangen, voldoende lucht voor de inzittenden toe;  
 
-5°.zij zijn voorzien van ten minste één uitkijkopening;
+5°. zij zijn voorzien van ten minste één uitkijkopening;  
 
-6°.zij zijn voorzien van middelen voor het opvangen van regenwater;
+6°. zij zijn voorzien van middelen voor het opvangen van regenwater;  
 
-7°.onder alle delen van de overkapping wordt voldoende hoofdruimte geboden aan de inzittenden in zittende houding.
-2. *Minimum draagvermogen en massa van reddingsvlotten*
+7°. onder alle delen van de overkapping wordt voldoende hoofdruimte geboden aan de inzittenden in zittende houding.       
+2.   *Minimum draagvermogen en massa van reddingsvlotten*  
 
-a.Een reddingsvlot, geschikt voor minder dan zes personen, berekend met gebruik van het bepaalde in artikel 7.21, derde lid, of 7.22, derde lid, wordt niet goedgekeurd.
+a. Een reddingsvlot, geschikt voor minder dan zes personen, berekend met gebruik van het bepaalde in artikel 7.21, derde lid, of 7.22, derde lid, wordt niet goedgekeurd.  
 
-b.Tenzij een reddingsvlot te water gelaten wordt door een goedgekeurd tewaterlatingsmiddel dat voldoet aan het bepaalde in artikel 7.32, en zulk een reddingsvlot bovendien niet draagbaar behoeft te zijn, mag de totale massa van een reddingsvlot, de verpakking en de uitrusting niet meer dan 185 kg bedragen.
-3. *Voorzieningen voor reddingsvlotten*
+b. Tenzij een reddingsvlot te water gelaten wordt door een goedgekeurd tewaterlatingsmiddel dat voldoet aan het bepaalde in artikel 7.32, en zulk een reddingsvlot bovendien niet draagbaar behoeft te zijn, mag de totale massa van een reddingsvlot, de verpakking en de uitrusting niet meer dan 185 kg bedragen.     
+3.   *Voorzieningen voor reddingsvlotten*  
 
-a.Langs de binnen- en buitenzijde van het reddingsvlot zijn stevig vastgezette grijplijnen aangebracht.
+a. Langs de binnen- en buitenzijde van het reddingsvlot zijn stevig vastgezette grijplijnen aangebracht.  
 
-b.Het reddingsvlot is uitgerust met een doelmatige vanglijn met een lengte van niet minder dan 15 m of van tweemaal de afstand vanaf de opstellingsplaats tot de laagst gelegen lastlijn van het vaartuig in zeewater, welke van beide het grootste is.
-4. *Strijkbare reddingsvlotten*
+b. Het reddingsvlot is uitgerust met een doelmatige vanglijn met een lengte van niet minder dan 15 m of van tweemaal de afstand vanaf de opstellingsplaats tot de laagst gelegen lastlijn van het vaartuig in zeewater, welke van beide het grootste is.     
+4.   *Strijkbare reddingsvlotten*  
 
-a.In aanvulling op de bovenstaande bepalingen voldoet een reddingsvlot van het strijkbare type aan de volgende eisen:
+a. In aanvulling op de bovenstaande bepalingen voldoet een reddingsvlot van het strijkbare type aan de volgende eisen: 
 
-1°.wanneer het reddingsvlot beladen is met de volle bezetting en volledige uitrusting kan het een zijdelingse slag tegen de scheepshuid met een stootsnelheid van ten minste 3,5 m/s en tevens een val op het water van een hoogte van ten minste 3 m doorstaan, zonder dat schade ontstaat waardoor de goede werking wordt aangetast, en
+1°. wanneer het reddingsvlot beladen is met de volle bezetting en volledige uitrusting kan het een zijdelingse slag tegen de scheepshuid met een stootsnelheid van ten minste 3,5 m/s en tevens een val op het water van een hoogte van ten minste 3 m doorstaan, zonder dat schade ontstaat waardoor de goede werking wordt aangetast, en  
 
-2°.het is voorzien van middelen om het reddingsvlot langs het inschepingsdek te brengen en daar te houden gedurende de inscheping.
+2°. het is voorzien van middelen om het reddingsvlot langs het inschepingsdek te brengen en daar te houden gedurende de inscheping.    
 
-b.Ieder reddingsvlot van het strijkbare type is zo ingericht dat het volledige aantal personen waarvoor het vlot is bestemd, zich kan inschepen in niet meer dan 3 minuten vanaf het moment dat het bevel tot inscheping wordt gegeven.
-5. *Uitrusting*
+b. Ieder reddingsvlot van het strijkbare type is zo ingericht dat het volledige aantal personen waarvoor het vlot is bestemd, zich kan inschepen in niet meer dan 3 minuten vanaf het moment dat het bevel tot inscheping wordt gegeven.     
+5.   *Uitrusting*  
 
-a.De standaarduitrusting van ieder reddingsvlot bestaat uit:
+a. De standaarduitrusting van ieder reddingsvlot bestaat uit: 
 
-1°.een drijvende werplijn van ten minste 30 m lengte waarvan het ene uiteinde is voorzien van een drijvende werpring;
+1°. een drijvende werplijn van ten minste 30 m lengte waarvan het ene uiteinde is voorzien van een drijvende werpring;  
 
-2°.een mes van een niet vouwbaar type met een heft dat blijft drijven, verbonden aan het vlot met een lijn en geborgen in een zak op de buitenkant van de overkapping nabij de plaats waar de vanglijn aan het reddingsvlot is bevestigd. Daarnaast is een reddingsvlot dat is bestemd voor 13 of meer personen voorzien van een tweede mes dat van een opvouwbaar type mag zijn;
+2°. een mes van een niet vouwbaar type met een heft dat blijft drijven, verbonden aan het vlot met een lijn en geborgen in een zak op de buitenkant van de overkapping nabij de plaats waar de vanglijn aan het reddingsvlot is bevestigd. Daarnaast is een reddingsvlot dat is bestemd voor 13 of meer personen voorzien van een tweede mes dat van een opvouwbaar type mag zijn;  
 
-3°.een drijvend hoosvat. Een reddingsvlot dat is bestemd voor 13 of meer personen is uitgerust met twee drijvende hoosvaten;
+3°. een drijvend hoosvat. Een reddingsvlot dat is bestemd voor 13 of meer personen is uitgerust met twee drijvende hoosvaten;  
 
-4°.twee sponzen;
+4°. twee sponzen;  
 
-5°.twee drijfankers, ieder met een schokbestendige sleeplijn en kaailijn, waarvan er één dient als reserve en één blijvend aan het reddingsvlot is bevestigd en wel op een zodanige manier dat wanneer het reddingsvlot opgeblazen wordt of in het water ligt, het drijfanker er automatisch voor zorgt dat het reddingsvlot op de meest stabiele wijze met de kop op de wind komt te liggen. De sterkte van het drijfanker, de sleeplijn en de kaailijn is geschikt voor elke toestand van de zee. De drijfankers zijn voorzien van een lijn met aan beide zijden een wartel en zijn zodanig geconstrueerd dat het onwaarschijnlijk is dat zij zich tussen de tuiglijnen binnenstebuiten keren;
+5°. twee drijfankers, ieder met een schokbestendige sleeplijn en kaailijn, waarvan er één dient als reserve en één blijvend aan het reddingsvlot is bevestigd en wel op een zodanige manier dat wanneer het reddingsvlot opgeblazen wordt of in het water ligt, het drijfanker er automatisch voor zorgt dat het reddingsvlot op de meest stabiele wijze met de kop op de wind komt te liggen. De sterkte van het drijfanker, de sleeplijn en de kaailijn is geschikt voor elke toestand van de zee. De drijfankers zijn voorzien van een lijn met aan beide zijden een wartel en zijn zodanig geconstrueerd dat het onwaarschijnlijk is dat zij zich tussen de tuiglijnen binnenstebuiten keren;  
 
-6°.twee drijvende peddels;
+6°. twee drijvende peddels;  
 
-7°.drie blikopeners of drie veiligheidsmessen die voorzien zijn van een blikopener;
+7°. drie blikopeners of drie veiligheidsmessen die voorzien zijn van een blikopener;  
 
-8°.een waterdichte medicijnkist die na gebruik weer goed gesloten kan worden, met een bij ministeriële regeling vast te stellen inhoud, met de daarbij behorende controlelijst en handleidingen;
+8°. een waterdichte medicijnkist die na gebruik weer goed gesloten kan worden, met een bij ministeriële regeling vast te stellen inhoud, met de daarbij behorende controlelijst en handleidingen;  
 
-9°.een fluit of een gelijkwaardig middel voor het geven van geluidssignalen;
+9°. een fluit of een gelijkwaardig middel voor het geven van geluidssignalen;  
 
-10°.vier valschermsignalen die voldoen aan het bepaalde in artikel 7.29;
+10°. vier valschermsignalen die voldoen aan het bepaalde in artikel 7.29;  
 
-11°.zes handstakellichten die voldoen aan het bepaalde in artikel 7.30;
+11°. zes handstakellichten die voldoen aan het bepaalde in artikel 7.30;  
 
-12°.twee drijvende rooksignalen die voldoen aan het bepaalde in artikel 7.31;
+12°. twee drijvende rooksignalen die voldoen aan het bepaalde in artikel 7.31;  
 
-13°.een waterdichte elektrische lantaarn geschikt voor het geven van morseseinen, alsmede een stel reservebatterijen en een reservelamp, verpakt in een waterdichte houder;
+13°. een waterdichte elektrische lantaarn geschikt voor het geven van morseseinen, alsmede een stel reservebatterijen en een reservelamp, verpakt in een waterdichte houder;  
 
-14°.een doelmatige radarreflector of radartransponder;
+14°. een doelmatige radarreflector of radartransponder;  
 
-15°.een dagseinspiegel met gebruiksaanwijzingen voor het seinen naar vaartuigen, schepen en vliegtuigen;
+15°. een dagseinspiegel met gebruiksaanwijzingen voor het seinen naar vaartuigen, schepen en vliegtuigen;  
 
-16°.een exemplaar van een door het Hoofd van de Scheepvaartinspectie vastgestelde lijst van reddingsseinen, afgedrukt op een waterbestendige kaart of opgeborgen in een waterdichte verpakking;
+16°. een exemplaar van een door het Hoofd van de Scheepvaartinspectie vastgestelde lijst van reddingsseinen, afgedrukt op een waterbestendige kaart of opgeborgen in een waterdichte verpakking;  
 
-17°.een vislijn met haken;
+17°. een vislijn met haken;  
 
-18°.een noodrantsoen met een voedingswaarde van ten minste 10 000 kJ voor elk van de personen waarvoor het reddingsvlot is bestemd; deze noodrantsoenen worden bewaard in een luchtdichte verpakking en zijn geborgen in een waterdichte houder;
+18°. een noodrantsoen met een voedingswaarde van ten minste 10 000 kJ voor elk van de personen waarvoor het reddingsvlot is bestemd; deze noodrantsoenen worden bewaard in een luchtdichte verpakking en zijn geborgen in een waterdichte houder;  
 
-19°.waterdichte houders die samen 1,5 liter zoet water bevatten voor elk van de personen waarvoor het reddingsvlot is bestemd; hiervan mag 0,5 liter per persoon vervangen worden door een ontziltingsapparaat dat in 2 etmalen een gelijke hoeveelheid zoet water kan produceren;
+19°. waterdichte houders die samen 1,5 liter zoet water bevatten voor elk van de personen waarvoor het reddingsvlot is bestemd; hiervan mag 0,5 liter per persoon vervangen worden door een ontziltingsapparaat dat in 2 etmalen een gelijke hoeveelheid zoet water kan produceren;  
 
-20°.een roestvrije drinkbeker met maatverdeling;
+20°. een roestvrije drinkbeker met maatverdeling;  
 
-21°.voor elk van de personen waarvoor het reddingsvlot is bestemd, zes doses van een middel tegen zeeziekte en een zak voor overgeven bij zeeziekte;
+21°. voor elk van de personen waarvoor het reddingsvlot is bestemd, zes doses van een middel tegen zeeziekte en een zak voor overgeven bij zeeziekte;  
 
-22°.aanwijzingen voor het overleven op zee;
+22°. aanwijzingen voor het overleven op zee;  
 
-23°.instructies omtrent maatregelen die onmiddellijk na inscheping in het vlot worden genomen;
+23°. instructies omtrent maatregelen die onmiddellijk na inscheping in het vlot worden genomen;  
 
-24°.hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in artikel 26, voldoende voor 2 personen of 10% van het aantal personen waarvoor het reddingsvlot is bestemd, welke van beide het grootste is.
+24°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in artikel 26, voldoende voor 2 personen of 10% van het aantal personen waarvoor het reddingsvlot is bestemd, welke van beide het grootste is.    
 
-b.De aanduiding betreffende het bij het reddingsvlot verpakte type noodpakket, voorgeschreven in artikel 7.21, zevende lid, onder c, 5° en 7.22, zevende lid, 7°, op reddingsvlotten die overeenkomstig het voorgaande lid zijn uitgerust, is: «SOLAS-A-PACK» in blokletters.
+b. De aanduiding betreffende het bij het reddingsvlot verpakte type noodpakket, voorgeschreven in artikel 7.21, zevende lid, onder c, 5° en 7.22, zevende lid, 7°, op reddingsvlotten die overeenkomstig het voorgaande lid zijn uitgerust, is: «SOLAS-A-PACK» in blokletters.  
 
-c.De daartoe geschikte onderdelen van de uitrusting worden geborgen in een verpakking die, wanneer deze geen volledig onderdeel is van of blijvend bevestigd is aan het reddingsvlot, wordt geborgen en vastgezet binnen het reddingsvlot, en die ten minste 30 minuten in het water kan drijven zonder dat de inhoud wordt beschadigd.
-6. *Voorzieningen voor het vrij opdrijven van reddingsvlotten*
+c. De daartoe geschikte onderdelen van de uitrusting worden geborgen in een verpakking die, wanneer deze geen volledig onderdeel is van of blijvend bevestigd is aan het reddingsvlot, wordt geborgen en vastgezet binnen het reddingsvlot, en die ten minste 30 minuten in het water kan drijven zonder dat de inhoud wordt beschadigd.     
+6.   *Voorzieningen voor het vrij opdrijven van reddingsvlotten*  
 
-a.*Vanglijnsysteem*Het vanglijnsysteem van een reddingsvlot vormt een verbinding tussen het vaartuig en het reddingsvlot, en is zo ingericht dat het reddingsvlot, wanneer het ontkoppeld is en, in het geval van een opblaasbaar reddingsvlot, wanneer het opgeblazen is, niet door het zinkende vaartuig onder water getrokken kan worden.
+a.  *Vanglijnsysteem*  Het vanglijnsysteem van een reddingsvlot vormt een verbinding tussen het vaartuig en het reddingsvlot, en is zo ingericht dat het reddingsvlot, wanneer het ontkoppeld is en, in het geval van een opblaasbaar reddingsvlot, wanneer het opgeblazen is, niet door het zinkende vaartuig onder water getrokken kan worden.  
 
-b.*Breekdraad*Indien in de voorziening voor vrij opdrijven een breekdraad wordt toegepast, voldoet deze aan de volgende eisen:
+b.  *Breekdraad*  Indien in de voorziening voor vrij opdrijven een breekdraad wordt toegepast, voldoet deze aan de volgende eisen: 
 
-1°.hij mag niet breken bij de kracht die nodig is om de vanglijn uit de verpakking van het reddingsvlot te trekken;
+1°. hij mag niet breken bij de kracht die nodig is om de vanglijn uit de verpakking van het reddingsvlot te trekken;  
 
-2°.indien van toepassing, mag hij niet breken bij het opblazen van het reddingsvlot; en
+2°. indien van toepassing, mag hij niet breken bij het opblazen van het reddingsvlot; en  
 
-3°.hij breekt bij een kracht van 2,2 kN ± 0,4 kN.
+3°. hij breekt bij een kracht van 2,2 kN ± 0,4 kN.    
 
-c.*Hydrostatisch ontkoppelingssysteem*Indien in de voorziening voor vrij opdrijven een hydrostatisch ontkoppelingssysteem wordt toegepast, voldoet dit aan de volgende eisen:
+c.  *Hydrostatisch ontkoppelingssysteem*  Indien in de voorziening voor vrij opdrijven een hydrostatisch ontkoppelingssysteem wordt toegepast, voldoet dit aan de volgende eisen: 
 
-1°.het is vervaardigd uit niet op elkaar inwerkende materialen, om te voorkomen dat het systeem onklaar raakt. Gegalvaniseerde of op andere wijze met metaal bedekte delen mogen niet worden gebruikt als onderdelen van het systeem;
+1°. het is vervaardigd uit niet op elkaar inwerkende materialen, om te voorkomen dat het systeem onklaar raakt. Gegalvaniseerde of op andere wijze met metaal bedekte delen mogen niet worden gebruikt als onderdelen van het systeem;  
 
-2°.het reddingsvlot wordt automatisch ontkoppeld op een diepte onder water van niet meer dan 4 m;
+2°. het reddingsvlot wordt automatisch ontkoppeld op een diepte onder water van niet meer dan 4 m;  
 
-3°.het heeft afvoergaten om te voorkomen dat een opeenhoping van water in de hydrostatische ruimte ontstaat, wanneer de inrichting normaal is opgesteld;
+3°. het heeft afvoergaten om te voorkomen dat een opeenhoping van water in de hydrostatische ruimte ontstaat, wanneer de inrichting normaal is opgesteld;  
 
-4°.het is zo vervaardigd dat ontkoppeling bij overkomend water wordt voorkomen;
+4°. het is zo vervaardigd dat ontkoppeling bij overkomend water wordt voorkomen;  
 
-5°.het is op de buitenkant onuitwisbaar gemerkt met type en serienummer;
+5°. het is op de buitenkant onuitwisbaar gemerkt met type en serienummer;  
 
-6°.aan boord van een vaartuig dat voorzien is van een dergelijk systeem, is een document aanwezig waarop de datum van fabricage, het type en het serienummer vermeld zijn;
+6°. aan boord van een vaartuig dat voorzien is van een dergelijk systeem, is een document aanwezig waarop de datum van fabricage, het type en het serienummer vermeld zijn;  
 
-7°.het is zo ontworpen dat ieder onderdeel dat is verbonden met het vanglijnsysteem, een sterkte heeft die niet minder is dan die, vereist voor de vanglijn;
+7°. het is zo ontworpen dat ieder onderdeel dat is verbonden met het vanglijnsysteem, een sterkte heeft die niet minder is dan die, vereist voor de vanglijn;  
 
-8°.indien het van het wegwerptype is dan zijn instructies aanwezig aangaande de vaststelling van de verloopdatum en middelen om deze datum op het mechanisme aan te geven.
+8°. indien het van het wegwerptype is dan zijn instructies aanwezig aangaande de vaststelling van de verloopdatum en middelen om deze datum op het mechanisme aan te geven.      
 
 ###Artikel 7.21 
 
@@ -4331,10 +4344,10 @@ Overtreding van de artikelen 11.4, 11.6, 11.7, 11.8, 11.21, 11.22, 11.23 en 11.2
 
 ### Artikel  13.3  
 
-####Intrekking [Vissersvaartuigenbesluit](../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) 
+####Intrekking Vissersvaartuigenbesluit 
 
-1.  Het [Vissersvaartuigenbesluit](../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) wordt ingetrokken.   
-2.  In afwijking van het eerste lid blijven ten aanzien van vissersvaartuigen met een lengte van minder dan 24 m de bepalingen van het [Vissersvaartuigenbesluit](../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) zoals deze voor die vaartuigen golden voor de inwerkingtreding van dit besluit, van toepassing.  
+1.  Het Vissersvaartuigenbesluit wordt ingetrokken.   
+2.  In afwijking van het eerste lid blijven ten aanzien van vissersvaartuigen met een lengte van minder dan 24 m de bepalingen van het Vissersvaartuigenbesluit zoals deze voor die vaartuigen golden voor de inwerkingtreding van dit besluit, van toepassing.  
 
 ###Artikel 13.4 
 

@@ -107,7 +107,7 @@ Bepalingen ter uitvoering van artikel 7b, eerste en vijfde lid, van de wet
 
 ####Hoogte bedrag en consumentenprijsindexcijfer
 
-De bedragen, bedoeld in [artikel 7b, vierde lid, van de wet](../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md), worden vastgesteld op: 
+De bedragen, bedoeld in artikel 7b, vierde lid, van de wet, worden vastgesteld op: 
 
 1. USD 1506, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;  
 
@@ -459,31 +459,31 @@ Onder strafrechtelijke antecedenten worden in ieder geval verstaan:
 
 1. Veroordelingen bij overtreding van strafbepalingen binnen en buiten de openbare lichamen   De betrokkene is bij rechterlijke uitspraak veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokken van medeplegen van en/of medeplichtigheid aan een of meer van de hieronder opgesomde strafbare feiten uit: 
 
-– [Pensioenwet BES](../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md);  
+– Pensioenwet BES;  
 
-– [Wet financiële markten BES](../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+– Wet financiële markten BES;  
 
-– [Wetboek van Strafrecht BES (tweede Boek)](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+– Wetboek van Strafrecht BES (tweede Boek);  
 
-– [Wetboek van Strafrecht BES (derde Boek)](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+– Wetboek van Strafrecht BES (derde Boek);  
 
-– [Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md);  
+– Wet inkomstenbelasting BES;  
 
-– [Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+– Wet loonbelasting BES;  
 
-– [Opiumwet 1960 BES](../../../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md);  
+– Opiumwet 1960 BES;  
 
-– [Vuurwapenwet BES](../../../../../wet-BES/vuurwapenwet/bes/BWBR0028251/README.md);  
+– Vuurwapenwet BES;  
 
-– [Wapenwet BES](../../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md);  
+– Wapenwet BES;  
 
 – Wet van 20 april 1932, betreffende botsing, aan- of overrijding met motorrijtuigen en ontzegging van de rijbevoegdheid BES;  
 
-– [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md);  
+– Wet ter voorkoming van witwassen en financieren van terrorisme BES;  
 
-– [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
+– Belastingwet BES.   Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
-2. Transacties met de Officier van Justitie bij overtreding van strafbepalingen binnen en buiten de openbare lichamen.   De betrokkene heeft een vrijwillige betaling als bedoeld in [artikel 76 van het Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties wordt ook verstaan in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
+2. Transacties met de Officier van Justitie bij overtreding van strafbepalingen binnen en buiten de openbare lichamen.   De betrokkene heeft een vrijwillige betaling als bedoeld in artikel 76 van het Wetboek van Strafrecht BES gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties wordt ook verstaan in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
 3. Voorwaardelijk of onvoorwaardelijk sepot, vrijspraak of ontslag van rechtsvervolging binnen en buiten in de openbare lichamen.   De betrokkene wordt terzake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet of niet verder vervolgd, dan wel vrijgesproken of ontslagen van rechtsvervolging. Onder voorwaardelijke of onvoorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging wordt ook verstaan soortgelijke uitspraken en maatregelen buiten de openbare lichamen ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
@@ -501,13 +501,13 @@ Onder strafrechtelijke antecedenten worden in ieder geval verstaan:
 
 Veroordelingen binnen of buiten de openbare lichamen De betrokkene is bij onherroepelijke rechterlijke uitspraak veroordeeld voor (poging tot, voorbereiding van, doen plegen van, uitlokken van en/of medeplichtigheid aan) een of meer van de hieronder opgesomde strafbare feiten: 
 
-– ernstige diefstal, verduistering, valsheid in geschrifte, meineed, benadeling van schuldeisers of rechthebbenden, witwassen ([Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– ernstige diefstal, verduistering, valsheid in geschrifte, meineed, benadeling van schuldeisers of rechthebbenden, witwassen (Wetboek van Strafrecht BES);  
 
-– overtreding [Pensioenwet BES](../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md);  
+– overtreding Pensioenwet BES;  
 
-– overtreding [Wet financiële markten BES](../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+– overtreding Wet financiële markten BES;  
 
-– overtreding [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md).   
+– overtreding Wet ter voorkoming van witwassen en financieren van terrorisme BES.   
 
 ### Bijlage  2.B:  
 
@@ -531,7 +531,7 @@ Onder financiële antecedenten, van belang voor de beoordeling van de daaraan te
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon beleidsbepaler of medebeleidsbepaler bekleedt/bekleedde, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is surséance van betaling of faillissement aangevraagd of uitgesproken;  
 
-– betrokkene is veroordeeld tot het voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) ([artikelen 16](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) en [19, zevende lid](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md)).    
+– betrokkene is veroordeeld tot het voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van Boek 2 van het Burgerlijk Wetboek BES (artikelen 16 en 19, zevende lid).    
 
 3. Andere feiten of omstandigheden   Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid. 
 
@@ -559,7 +559,7 @@ Onder toezichtsantecedenten, van belang voor de beoordeling van de daaraan ten g
 
 ####Fiscaal bestuursrechtelijke antecedenten
 
-Onder fiscaal bestuurlijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden voor de betrokkene in ieder geval verstaan: Aan betrokkene is op grond van de [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) een straf opgelegd ter zake van één of meer van de hierna genoemde strafbare feiten: 
+Onder fiscaal bestuurlijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden voor de betrokkene in ieder geval verstaan: Aan betrokkene is op grond van de Belastingwet BES een straf opgelegd ter zake van één of meer van de hierna genoemde strafbare feiten: 
 
 – het niet, onjuist of onvolledig verstrekken van inlichtingen, gegevens of aanwijzingen;  
 

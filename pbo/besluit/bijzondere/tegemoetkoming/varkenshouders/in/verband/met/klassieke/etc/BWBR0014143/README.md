@@ -16,19 +16,19 @@ Dit besluit neemt over de terminologie omschreven in artikel 1 van de Verordenin
 |Dagelijks bestuur |: |dagelijks bestuur van het productschap |
 |Ondernemer |: |ondernemer die een aanvraag heeft ingediend, bedoeld in artikel 2 onder c . |
 
-###Artikel 2 
+### Artikel  2  
 
-Het dagelijks bestuur besluit, met inachtneming van het bepaalde in de artikelen 4, 5 en 8, tot een bijzondere tegemoetkoming voor varkenshouders in verband met klassieke varkenspest 1997, onder de navolgende voorwaarden:
+Het dagelijks bestuur besluit, met inachtneming van het bepaalde in de artikelen 4, 5 en 8, tot een bijzondere tegemoetkoming voor varkenshouders in verband met klassieke varkenspest 1997, onder de navolgende voorwaarden: 
 
-a)dat de Ondernemer schade heeft geleden als gevolg van de uitbraak van kvp en daarvoor een tegemoetkoming heeft ontvangen op basis van artikel 86 van de Gezondheids- en welzijnswet voor dieren;
+a) dat de Ondernemer schade heeft geleden als gevolg van de uitbraak van kvp en daarvoor een tegemoetkoming heeft ontvangen op basis van artikel 86 van de Gezondheids- en welzijnswet voor dieren;  
 
-b)dat de tegemoetkoming van de Ondernemer op basis van het [Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) is verlaagd en dat deze verlaging het gevolg is van een overtreding of van overtredingen met betrekking tot het niet merken van dieren, bedoeld in artikel 3 van de Verordening identificatie en registratie varkens 1995 van het Landbouwschap, of het niet melden van mutaties, dan wel het niet tijdig melden van mutaties, bedoeld in artikel 9 van de Verordening identificatie en registratie varkens 1995 van het Landbouwschap;
+b) dat de tegemoetkoming van de Ondernemer op basis van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten is verlaagd en dat deze verlaging het gevolg is van een overtreding of van overtredingen met betrekking tot het niet merken van dieren, bedoeld in artikel 3 van de Verordening identificatie en registratie varkens 1995 van het Landbouwschap, of het niet melden van mutaties, dan wel het niet tijdig melden van mutaties, bedoeld in artikel 9 van de Verordening identificatie en registratie varkens 1995 van het Landbouwschap;  
 
-c)dat de Ondernemer bij het Productschap een schriftelijke aanvraag voor de bijzondere tegemoetkoming heeft ingediend;
+c) dat de Ondernemer bij het Productschap een schriftelijke aanvraag voor de bijzondere tegemoetkoming heeft ingediend;  
 
-d)dat de Ondernemer tijdig een bezwaarschrift heeft ingediend tegen de beslissing betreffende de onder a) bedoelde tegemoetkoming;
+d) dat de Ondernemer tijdig een bezwaarschrift heeft ingediend tegen de beslissing betreffende de onder a) bedoelde tegemoetkoming;  
 
-e)dat de Ondernemer het Productschap machtigt het dossier waarop de onderhavige aanvraag betrekking heeft bij het Ministerie van Landbouw, Natuurbeheer en Visserij op te vragen, teneinde het betreffende dossier voor de beoordeling in het kader van dit besluit in te zien.
+e) dat de Ondernemer het Productschap machtigt het dossier waarop de onderhavige aanvraag betrekking heeft bij het Ministerie van Landbouw, Natuurbeheer en Visserij op te vragen, teneinde het betreffende dossier voor de beoordeling in het kader van dit besluit in te zien.   
 
 ###Artikel 3 
 
