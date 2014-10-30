@@ -868,7 +868,7 @@ a)is dit Verdrag niet van toepassing op de Faeröer. Dit verdrag is niet van toe
 
 b)Is dit Verdrag niet van toepassing op de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen.
 
-c)Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage IV van het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie.
+c)Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage II van het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie.
 
 d)Zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voor zover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe Lid-Staten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
 

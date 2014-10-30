@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 7 december 2012, nr. WJZ/12346914, houdende regels met betrekking tot dierlijke producten (Regeling dierlijke producten)
 
 De Minister van Economische Zaken;  
-Gelet op richtlijn nr. 92/52/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1992 inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding die voor de uitvoer naar derde landen is bestemd (PbEG 1992 L 179), verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Gemeenschappen van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van Verordening (EG) nr. 820/97 van de Raad (PbEG 2000 L 204), verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001 L 147), verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsvoorschriften (PbEG 2002 L 31), verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake levensmiddelenhygiëne (PbEU 2004 L 139), verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004 L 139), verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004 L 139), verordening (EG) nr. 2073/2005 van de Commissie van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU 2005 L 338), verordening (EG) nr. 2074/2005 van de Commissie van 5 december 2005 tot vaststelling van uitvoeringsmaatregelen voor bepaalde producten die onder Verordening (EG) nr. 853/2004 vallen en voor de organisatie van officiële controles overeenkomstig de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004, tot afwijking van Verordening (EG) nr. 852/2004 en tot wijziging van Verordeningen (EG) nr. 853/2004 en (EG) nr. 854/2004 (PbEG 2005 L 338), verordening (EG) nr. 2075/2005 van de Commissie van 5 december 2005 tot vaststelling van specifieke voorschriften voor de officiële controles op Trichinella in vlees (PbEU 2005 L 338), verordening (EG) nr. 509/2006 van de Raad van 20 maart 2006 inzake gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen (PbEU 2006 L 93), verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU 2006 L 93), verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007 L 189), verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU 2007 L 299), verordening (EG) nr. 1523/2007 van het Europees Parlement en de Raad van 11 december 2007 houdende een verbod op het in de handel brengen, de invoer naar en de uitvoer uit de Gemeenschap van katten- en hondenbont en van producten die dergelijk bont bevatten (PbEG 2007 L 343), verordening (EG) nr. 543/2008 van de Commissie van 16 juni 2008 houdende uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de handelsnormen voor vlees van pluimvee (PbEU 2008 L 157), verordening (EG) nr. 566/2008 van de Commissie van 18 juni 2008 tot vaststelling van de uitvoeringsbesluiten voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de afzet van vlees van runderen die niet ouder zijn dan twaalf maanden (PbEU 2008 L 160), verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren (PbEU 2008 L 163), verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU 2008 L 250), verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU 2008 L 334), verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU 2009 L 300), verordening (EU) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van Richtlijn 97/78/EG van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn (PbEU 2011 L 54), de [artikelen 3.3, eerste lid](../../../../../wet/wet/dieren/BWBR0030250/README.md), [3.4, derde lid](../../../../../wet/wet/dieren/BWBR0030250/README.md), [6.2, eerste lid](../../../../../wet/wet/dieren/BWBR0030250/README.md), [6.4, eerste lid](../../../../../wet/wet/dieren/BWBR0030250/README.md), en [7.6 van de Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md), [artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [artikelen 2.1](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), [2.6](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), [2.7](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), [2.8](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), [2.10](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md) en [3.1 van het Besluit dierlijke producten](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md) en [artikel 4.4 van het Besluit handhaving en overige zaken Wet dieren](../../../../../AMvB/besluit/handhaving/en/overige/zaken/wet/dieren/BWBR0032334/README.md);
+Gelet op richtlijn nr. 92/52/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1992 inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding die voor de uitvoer naar derde landen is bestemd (PbEG 1992 L 179), verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Gemeenschappen van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van Verordening (EG) nr. 820/97 van de Raad (PbEG 2000 L 204), verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001 L 147), verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsvoorschriften (PbEG 2002 L 31), verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake levensmiddelenhygiëne (PbEU 2004 L 139), verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004 L 139), verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004 L 139), verordening (EG) nr. 2073/2005 van de Commissie van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU 2005 L 338), verordening (EG) nr. 2074/2005 van de Commissie van 5 december 2005 tot vaststelling van uitvoeringsmaatregelen voor bepaalde producten die onder Verordening (EG) nr. 853/2004 vallen en voor de organisatie van officiële controles overeenkomstig de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004, tot afwijking van Verordening (EG) nr. 852/2004 en tot wijziging van Verordeningen (EG) nr. 853/2004 en (EG) nr. 854/2004 (PbEG 2005 L 338), verordening (EG) nr. 2075/2005 van de Commissie van 5 december 2005 tot vaststelling van specifieke voorschriften voor de officiële controles op Trichinella in vlees (PbEU 2005 L 338), verordening (EG) nr. 509/2006 van de Raad van 20 maart 2006 inzake gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen (PbEU 2006 L 93), verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU 2006 L 93), verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007 L 189), verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU 2007 L 299), verordening (EG) nr. 1523/2007 van het Europees Parlement en de Raad van 11 december 2007 houdende een verbod op het in de handel brengen, de invoer naar en de uitvoer uit de Gemeenschap van katten- en hondenbont en van producten die dergelijk bont bevatten (PbEG 2007 L 343), verordening (EG) nr. 543/2008 van de Commissie van 16 juni 2008 houdende uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de handelsnormen voor vlees van pluimvee (PbEU 2008 L 157), verordening (EG) nr. 566/2008 van de Commissie van 18 juni 2008 tot vaststelling van de uitvoeringsbesluiten voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de afzet van vlees van runderen die niet ouder zijn dan twaalf maanden (PbEU 2008 L 160), verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren (PbEU 2008 L 163), verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU 2008 L 250), verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU 2008 L 334), verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU 2009 L 300), verordening (EU) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van Richtlijn 97/78/EG van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn (PbEU 2011 L 54), de artikelen 3.3, eerste lid, 3.4, derde lid, 6.2, eerste lid, 6.4, eerste lid, en 7.6 van de Wet dieren, artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994, de artikelen 2.1, 2.6, 2.7, 2.8, 2.10 en 3.1 van het Besluit dierlijke producten en artikel 4.4 van het Besluit handhaving en overige zaken Wet dieren;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-–  *besluit:* [Besluit dierlijke producten](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md);  
+–  *besluit:* Besluit dierlijke producten;  
 
 –  *minister:* Minister van Economische Zaken;  
 
@@ -51,20 +51,21 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Deze paragraaf is van toepassing op exploitanten van levensmiddelenbedrijven als bedoeld in sectie I tot en met IV van bijlage III bij verordening (EG) nr. 853/2004. 
+1.  Deze paragraaf is van toepassing op exploitanten van levensmiddelenbedrijven als bedoeld in sectie I tot en met IV van bijlage III bij verordening (EG) nr. 853/2004.   
+2.  Artikel 2.4, eerste lid, onderdelen b tot en met e, zijn eveneens van toepassing op primaire bedrijven.  
 
 ### Artikel  2.3  
 
 ####NVWA
 
-1.  Indien in een EU-verordening over de productie van vlees na het doden van dieren als bedoeld in [artikel 3.2, eerste en derde lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md) een taak wordt opgedragen aan de officiële dierenarts is een dierenarts, verbonden aan de NVWA, daartoe bevoegd, voor zover die taak niet bestaat uit het nemen van besluiten.   
+1.  Indien in een EU-verordening over de productie van vlees na het doden van dieren als bedoeld in artikel 3.2, eerste en derde lid, van de wet een taak wordt opgedragen aan de officiële dierenarts is een dierenarts, verbonden aan de NVWA, daartoe bevoegd, voor zover die taak niet bestaat uit het nemen van besluiten.   
 2.  Een aanvraag tot verlening van een erkenning als bedoeld in artikel 4 van verordening (EG) nr. 853/2004 en de onderdelen 4.3, onder a, 8.1 en 9, aanhef en onder e, van bijlage V bij verordening (EG) nr. 999/2001 wordt ingediend bij de NVWA.  
 
 ### Artikel  2.4  
 
 ####Verbodsbepalingen EU-verordeningen
 
-1.  Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md) zijn: 
+1.  Voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet zijn: 
 
 a. artikel 8, derde lid, en bijlage V, punten 7, 8.1 en 11.3, bij verordening (EG) nr. 999/2001;  
 
@@ -111,21 +112,21 @@ c. artikel 5, zesde lid, onderdeel a, van verordening (EG) nr. 854/2004, dat per
 
 ####Keuring vervoermiddel
 
-1.  Indien voor de toepassing van bijlage III, sectie I, hoofdstuk VII, punt 3, van verordening (EG) nr. 853/2004 gebruik wordt gemaakt van een goedgekeurd vervoermiddel, wordt de keuring van het vervoermiddel verricht door de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
-2.  Ter vergoeding van de kosten voor keuring als bedoeld in het eerste lid wordt bij de aanvrager van een keuring een bedrag in rekening gebracht overeenkomstig de door de Dienst Wegverkeer vastgestelde tarieven voor de keuring van koelvoertuigen op grond van de [Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](../../../../../wet/wet/grensoverschrijdend/vervoer/van/aan/bederf/onderhevige/levensmiddelen/BWBR0003186/README.md).  
+1.  Indien voor de toepassing van bijlage III, sectie I, hoofdstuk VII, punt 3, van verordening (EG) nr. 853/2004 gebruik wordt gemaakt van een goedgekeurd vervoermiddel, wordt de keuring van het vervoermiddel verricht door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994.   
+2.  Ter vergoeding van de kosten voor keuring als bedoeld in het eerste lid wordt bij de aanvrager van een keuring een bedrag in rekening gebracht overeenkomstig de door de Dienst Wegverkeer vastgestelde tarieven voor de keuring van koelvoertuigen op grond van de Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen.  
 
 ### Artikel  2.9  
 
 ####Herkeuring
 
-1.  De minister beslist op een aanvraag tot herkeuring als bedoeld in [artikel 2.5, eerste lid, van het besluit](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md).   
+1.  De minister beslist op een aanvraag tot herkeuring als bedoeld in artikel 2.5, eerste lid, van het besluit.   
 2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij de NVWA: 
 
-a. binnen 12 uur na afloop van de dag waarop de beslissing met betrekking tot het vlees, bedoeld in [artikel 2.5, eerste lid, van het besluit](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md) is genomen;  
+a. binnen 12 uur na afloop van de dag waarop de beslissing met betrekking tot het vlees, bedoeld in artikel 2.5, eerste lid, van het besluit is genomen;  
 
 b. indien op de dag, bedoeld in onderdeel a, een zondag of een of meer erkende feestdagen volgt of volgen, binnen 12 uur na afloop daarvan, of  
 
-c. onmiddellijk na de beslissing met betrekking tot het vlees, bedoeld in [artikel 2.5, eerste lid, van het besluit](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), indien het organen of delen van organen betreft.     
+c. onmiddellijk na de beslissing met betrekking tot het vlees, bedoeld in artikel 2.5, eerste lid, van het besluit, indien het organen of delen van organen betreft.     
 3.  Herkeuring wordt verricht door een andere officiële dierenarts dan degene die de oorspronkelijke keuring heeft uitgevoerd.  
 
 ### §  2  
@@ -172,7 +173,7 @@ In hoofdstuk 2, paragraaf 2, wordt verstaan onder:
 
 ####Bevoegdheid Stichting COKZ en Stichting Skal
 
-De onderwerpen, bedoeld in [artikel 2.10 van het besluit](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), zijn: 
+De onderwerpen, bedoeld in artikel 2.10 van het besluit, zijn: 
 
 a. voor Stichting COKZ: de bescherming van kwaliteitsaanduidingen van landbouwproducten en levensmiddelen van dierlijke oorsprong, handelsnormen voor eieren en vlees van pluimvee, zuigelingenvoeding bestemd voor derde landen en nationale kwaliteitsvoorschriften voor kaas;  
 
@@ -219,7 +220,7 @@ Het is verboden bij het in de handel brengen of etiketteren van of reclame maken
 
 ####Veebezetting
 
-De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van verordening (EG) nr. 889/2008, bedraagt de hoeveelheid stikstof zoals opgenomen in de bijlage bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md). 
+De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van verordening (EG) nr. 889/2008, bedraagt de hoeveelheid stikstof zoals opgenomen in de bijlage bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in bijlage D van de Uitvoeringsregeling Meststoffenwet. 
 
 ### Artikel  2.18  
 
@@ -245,7 +246,7 @@ De Stichting COKZ is ten aanzien van nationale productdossiers voor zuivelproduc
 
 ####Verbodsbepalingen EU-verordeningen
 
-Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md) zijn de bij of krachtens de artikelen 12, 13, 14, 15, 23, 24 en 33 van verordening (EU) nr. 1151/2012 gestelde voorschriften. 
+Voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet zijn de bij of krachtens de artikelen 12, 13, 14, 15, 23, 24 en 33 van verordening (EU) nr. 1151/2012 gestelde voorschriften. 
 
 ### Artikel  2.21  
 
@@ -286,7 +287,7 @@ De Stichting COKZ is bevoegd de besluiten te nemen waartoe voorschriften van ver
 
 ####Verbodsbepalingen
 
-1.  Voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md), zijn: 
+1.  Voorschriften als bedoeld in artikel 6.2, eerste lid, van de wet, zijn: 
 
 a. artikel 113 ter en bijlage XI bis, punten II, III, IV, VI en VIII van verordening (EG) nr. 1234/2007 en de artikelen 3, 4 en 5 van verordening (EG) nr. 566/2008;  
 
@@ -319,7 +320,7 @@ b. de fabriek tijdens de productie van bereidingen op basis van vers vlees van p
 
 Het is verboden volledige zuigelingenvoeding en opvolgzuigelingenvoeding uit Nederland uit te voeren naar een staat die geen lid van de Europese Unie is en geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, tenzij is voldaan aan: 
 
-a. de [Warenwetregeling zuigelingenvoeding 2007](../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/2007/BWBR0021907/README.md);  
+a. de Warenwetregeling zuigelingenvoeding 2007;  
 
 b. de Codex Alimentarius, voor zover deze betrekking heeft op volledige zuigelingenvoeding of opvolgzuigelingenvoeding, of  
 
@@ -452,7 +453,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 –  *aangewezen dierlijke bijproducten:* dierlijke bijproducten als bedoeld in artikel 3.20;  
 
-–  *ondernemer:* de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md);  
+–  *ondernemer:* de ondernemer, bedoeld in artikel 3.3, eerste lid, van de wet;  
 
 –  *verordening (EG) nr. 1069/2009:* verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU 2009 L 300);  
 
@@ -485,7 +486,7 @@ c. de ontvangst van een zending producten als bedoeld in artikel 48, derde lid, 
 
 ####Verbodsbepalingen EU-verordeningen
 
-1.  Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md) zijn: 
+1.  Voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet zijn: 
 
 a. de artikelen 4, eerste en tweede lid, 6, eerste lid, 11, eerste lid, 12, 13 en 14, 21, eerste tot en met derde lid, 22, eerste en tweede lid, 23, eerste en tweede lid, 24, 25, 26, eerste en tweede lid, 28, 29, eerste tot en met derde lid, 31, eerste lid, 32, eerste lid, 35, 36, 41, eerste en tweede lid, onderdelen c en d, 43, eerste tot en met derde lid, 44, derde lid, en 48, eerste, vierde en vijfde lid van verordening (EG) nr. 1069/2009;  
 
@@ -520,7 +521,7 @@ b. voor onderzoek en diagnose bestemde monsters voor educatieve doeleinden hante
 
 a. rechtstreeks wordt vervoerd tussen twee locaties van hetzelfde agrarische bedrijf, of  
 
-b. wordt vervoerd tussen agrarische bedrijven en gebruikers die de mest op het land uitrijden overeenkomstig de bij of krachtens het [Uitvoeringsbesluit Meststoffenwet](../../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) gestelde regels.    
+b. wordt vervoerd tussen agrarische bedrijven en gebruikers die de mest op het land uitrijden overeenkomstig de bij of krachtens het Uitvoeringsbesluit Meststoffenwet gestelde regels.    
 
 ### Artikel  3.7  
 
@@ -540,7 +541,7 @@ c. de blaas, alsmede van de schedel en darmen voor zover dit niet gespecificeerd
 
 1.  Met toepassing van artikel 17, eerste lid, van verordening (EG) nr. 1069/2009 is het toegestaan: 
 
-a. categorie 3-materiaal als bedoeld in artikel 10 van verordening (EG) nr. 1069/2009 te gebruiken voor onderzoek en onderwijs in het voortgezet onderwijs als bedoeld in [artikel 2 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+a. categorie 3-materiaal als bedoeld in artikel 10 van verordening (EG) nr. 1069/2009 te gebruiken voor onderzoek en onderwijs in het voortgezet onderwijs als bedoeld in artikel 2 van de Wet op het voortgezet onderwijs;  
 
 b. dat een dierenarts sectie verricht op kadavers of delen daarvan in de praktijkruimte van de dierenarts.     
 2.  Met toepassing van bijlage VI, hoofdstuk I, afdeling 1, punt zes, van verordening (EU) nr. 142/2011 zijn de punten 1, 4 en 5 van die afdeling niet van toepassing op het gebruik, bedoeld in het eerste lid, onderdeel a, en vindt verwijdering van die bijproducten plaats overeenkomstig artikel 14, onderdeel a, b of f van verordening (EG) nr. 1069/2009.  
@@ -572,8 +573,19 @@ Met toepassing van bijlage V, hoofdstuk I, afdeling 1, punt 2, onderdeel f, van 
 
 ####Grondstoffen in biogas- en composteerinstallaties
 
-1.  Wanneer de in bijlage V, hoofdstuk III, afdeling 2, punt 2, onderdeel b, van verordening (EU) nr. 142/2011 of in artikel 10, onderdeel g, van verordening (EG) nr. 1069/2009 genoemde producten de enige grondstoffen van dierlijke oorsprong zijn die in een biogas- of composteerinstallatie worden behandeld, is het met toepassing van bijlage V, hoofdstuk III, afdeling 2, punt 3, van verordening (EU) nr. 142/2011 toegestaan om die producten te verweken, indien is voldaan aan de voorschriften, bedoeld in bijlage V, hoofdstuk II en hoofdstuk I, afdeling 1, punt 3, respectievelijk afdeling 2, punt 3, van die verordening.   
-2.  De vergistingsresiduen en de compost die het resultaat zijn van de behandeling, bedoeld in het eerste lid, worden beschouwd als niet-verwerkt materiaal, dat overeenkomstig verordening (EG) nr. 1069/2009 en verordening (EU) nr. 142/2011 wordt behandeld.  
+1.  Wanneer de in bijlage V, hoofdstuk III, afdeling 2, punt 2, onderdeel b, van verordening (EU) nr. 142/2011 of in artikel 10, onderdeel g, van verordening (EG) nr. 1069/2009 genoemde producten de enige grondstoffen van dierlijke oorsprong zijn die in een biogas- of composteerinstallatie worden behandeld, is het met toepassing van bijlage V, hoofdstuk III, afdeling 2, punt 3, van verordening (EU) nr. 142/2011 toegestaan om die producten te verwerken, indien is voldaan aan de voorschriften, bedoeld in bijlage V, hoofdstuk II en hoofdstuk I, afdeling 1, punt 3, respectievelijk afdeling 2, punt 3, van die verordening.   
+2.  De vergistingsresiduen en de compost die het resultaat zijn van de behandeling, bedoeld in het eerste lid, worden beschouwd als niet-verwerkt materiaal, dat overeenkomstig verordening (EG) nr. 1069/2009 en verordening (EU) nr. 142/2011 wordt behandeld. 
+3. Het is met toepassing van Bijlage V, hoofdstuk III, afdeling 2, punt 2, van verordening (EU) nr. 142/2011 toegestaan de hierin genoemde dierlijke bijproducten om te zetten in biogas of compost als wordt voldaan aan de volgende parameters: 
+
+a. bij thermofiele vergisting: 
+
+1° bedraagt de temperatuur van het materiaal in de vergister ten minste 55°C, bij een minimale verblijftijd in de vergister van 6 opeenvolgende uren;  
+
+2° bedraagt de temperatuur van het materiaal in de vergister ten minste 53,5°C, bij een minimale verblijftijd in de vergister van 8 opeenvolgende uren, of  
+
+3° bedraagt de temperatuur van het materiaal in de vergister ten minste 52°C, bij een minimale verblijftijd in de vergister van 10 opeenvolgende uren;    
+
+b. bij compostering bedraagt de temperatuur van het materiaal ten minste 50°C tijdens een aaneengesloten periode, waarbinnen de temperatuur ten minste 55°C bedraagt voor ten minste 72 uren.   
 
 ### Artikel  3.13  
 
@@ -636,7 +648,7 @@ d. anorganische meststoffen.
 
 ####Aanwijzing dierlijke bijproducten
 
-Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md) zijn kadavers en delen daarvan als bedoeld in de artikelen 8 en 9 van verordening (EG) nr. 1069/2009, met uitzondering van: 
+Dierlijke bijproducten als bedoeld in artikel 3.3, eerste lid, van de wet zijn kadavers en delen daarvan als bedoeld in de artikelen 8 en 9 van verordening (EG) nr. 1069/2009, met uitzondering van: 
 
 a. dode gezelschapsdieren die worden begraven overeenkomstig artikel 3.10, eerste lid of overeenkomstig artikel 12, onderdeel a, subonderdeel i of onderdeel b, subonderdeel i, van verordening (EG) nr. 1069/2009 worden verbrand of meeverbrand in een dierencrematorium;  
 
@@ -654,7 +666,7 @@ f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die
 
 ####Werkgebied
 
-1.  Het werkgebied, bedoeld in [artikel 3.3, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md), omvat Nederland.   
+1.  Het werkgebied, bedoeld in artikel 3.3, eerste lid, van de wet, omvat Nederland.   
 2.  De ondernemer is Rendac Son B.V.  
 
 ### Artikel  3.22  
@@ -710,7 +722,7 @@ d. van elkaar gescheiden worden gehouden en van ander materiaal te onderscheiden
 
 ####Registratie kadavers runderen door ondernemer
 
-1.  De ondernemer registreert de identificatiecode van het merk, bedoeld in [artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) van een door hem opgehaalde kadaver van een rund.   
+1.  De ondernemer registreert de identificatiecode van het merk, bedoeld in artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren van een door hem opgehaalde kadaver van een rund.   
 2.  Binnen drie werkdagen nadat het kadaver is opgehaald meldt de ondernemer de identificatiecode van het merk aan de Minister.   
 3.  De ondernemer bewaart de registratie, bedoeld in het eerste lid, ten minste twee jaar.  
 
@@ -722,7 +734,7 @@ d. van elkaar gescheiden worden gehouden en van ander materiaal te onderscheiden
 
 ####Handel in honden- en kattenbont
 
-Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../wet/wet/dieren/BWBR0030250/README.md). 
+Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in artikel 6.2, eerste lid, van de wet. 
 
 ### Hoofdstuk  4  
 
@@ -732,7 +744,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ####Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in artikel 2.11. 
+Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007 is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in artikel 2.11. 
 
 ### Artikel  4.2  
 
@@ -752,7 +764,7 @@ De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductscha
 
 ### Artikel  4.3  
 
-####Wijziging [Landbouwkwaliteitsregeling 2007](../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md) 
+####Wijziging Landbouwkwaliteitsregeling 2007 
 
 Wijzigt de Landbouwkwaliteitsregeling 2007.  
 
@@ -760,7 +772,7 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de artikelen 2.11, onderdeel b, en 2.12 tot en met 2.18, 4.2 en 4.3, eerste en derde lid, die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md) in werking treedt. 
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de artikelen 2.11, onderdeel b, en 2.12 tot en met 2.18, 4.2 en 4.3, eerste en derde lid, die inwerking treden op het tijdstip dat artikel 2.6, onderdeel a, van het Besluit dierlijke producten in werking treedt. 
 
 ### Artikel  4.5  
 

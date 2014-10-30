@@ -4,12 +4,8 @@
 
 ####Agreement in the form of an exchange of letters on the taxation of savings income and the provisional application thereof
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 A. Letter from the Republic of Croatia Madam/Sir, I have the honour to refer to the texts of respectively the “Convention between the Kingdom of the Netherlands in respect of the Netherlands Antilles and (Belgium, Austria and Luxembourg) concerning the automatic exchange of information regarding savings income in the form of interest payments”, the “Convention between the Kingdom of the Netherlands in respect of the Netherlands Antilles and (the EU Member State, other than Belgium, Austria and Luxembourg) concerning the automatic exchange of information regarding savings income in the form of interest payments”, the “Convention between the Kingdom of the Netherlands in respect of Aruba and (the EU Member State, other than Belgium, Austria and Luxembourg) concerning the automatic exchange of information regarding savings income in the form of interest payments” and the “Convention between the Kingdom of the Netherlands in respect of Aruba and (Belgium, Austria and Luxembourg) concerning the automatic exchange of information regarding savings income in the form of interest payments”, that resulted from the negotiations with the Netherlands Antilles and Aruba on a Savings Tax Agreement, and that were annexed, respectively as Annex I, II, III and IV, to the Outcome of Proceedings of the High Level Working Party of the Council of Ministers of the European Union of 12 March 2004 (doc. 7660/1/04 REV 1 FISC 68 + COR 1). In view of the above mentioned texts I have the honour to propose to you the “Convention concerning the automatic exchange of information regarding savings income in the form of interest payments” as contained in Appendix 1 to this letter, and our mutual undertaking to comply at the earliest possible date with our internal constitutional formalities for the entry into force of this Convention and to notify each other without delay when such formalities are completed. Pending the completion of these internal procedures and the entry into force of this “Convention concerning the automatic exchange of information regarding savings income in the form of interest payments”, I have the honour to propose to you that the Republic of Croatia and the Kingdom of the Netherlands, in respect of Curaçao, apply this Convention provisionally, within the framework of our respective domestic constitutional requirements, as from the date of accession of the Republic of Croatia to the European Union. I have the honour to propose that, if the above is acceptable to your Government, this letter and your confirmation shall together constitute an Agreement between the Republic of Croatia and the Kingdom of the Netherlands, in respect of Curaçao. Please accept, Madam/Sir, the assurance of our highest consideration,*For the Republic of Croatia,*S. LINIĆMinister of Finance
 DONE at Zagreb, on 3.6.2013, in the English language in three copies.  
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 B. Letter from the Kingdom of the Netherlands, in respect of CuraçaoSir, I have the honour to acknowledge receipt of your letter of 3 June 2013, which reads as follows:  (zoals in A)  I am able to confirm that Curaçao is in agreement with the contents of your letter. Please accept, Sir, the assurance of my highest consideration,*For the Kingdom of the Netherlands, in respect of Curaçao,*J.M.N. JARDIM
 DONE at Willemstad, on 27-6-2013, in the English language in three copies.  
@@ -17,8 +13,6 @@ DONE at Willemstad, on 27-6-2013, in the English language in three copies.
 ### Appendix  1  
 
 ####Convention between the Kingdom of the Netherlands, in respect of Curaçao, and the Republic of Croatia concerning the automatic exchange of information regarding savings income in the form of interest payments
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 Whereas: 
 
@@ -48,8 +42,6 @@ Whereas:
 
 ####General Scope
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 1.  This Convention shall apply to interest paid by a Paying Agent established within the territory of one of the Contracting States with a view to enable savings income in the form of Interest Payments made in one Contracting State to Beneficial Owners who are individuals resident for tax purposes in the other Contracting State to be made subject to effective taxation in accordance with the laws of the latter Contracting State.   
 2.  The scope of this Convention shall be limited to taxation of savings income in the form of Interest Payments on debt claims, to the exclusion, inter alia, of the issues relating to the taxation of pension and insurance benefits.   
 3.  As regards the Kingdom of the Netherlands, this Agreement shall apply only to Curaçao.  
@@ -57,8 +49,6 @@ Wordt voorlopig toegepast per 01-07-2013
 ### Article  2  
 
 ####Definitions
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1.  For the purposes of this Convention, unless the context otherwise requires: 
 
@@ -89,15 +79,11 @@ i) any term not otherwise defined herein shall have the meaning given to it in t
 
 ####Identity and residence of beneficial owners
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 Each Contracting State shall, within its territory, adopt and ensure the application of the procedures necessary to allow the Paying Agent to identify the Beneficial Owners and their residence for the purpose of the Articles 4 to 6. These procedures shall comply with the minimum standards established in Article 3, paragraph 2 and 3 of the Directive, with the provision, that, in relation to subparagraphs 2.a) and 3.a) of that Article, the identity and residence of the Beneficial Owner shall be established on the basis of the information which is available to the Paying Agent by virtue of the application of the relevant provisions of the law and regulations of the Contracting State where the Paying Agent is established. However, existing exemptions or dispensations, if any, provided on request to Beneficial Owners resident in the Republic of Croatia under these provisions shall cease to apply and no further exemptions or dispensations of this nature shall be provided to such Beneficial Owners. 
 
 ### Article  4  
 
 ####Automatic exchange of information
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1.  The Competent Authority of the Contracting State where the Paying Agent is established, shall communicate the information referred to in Article 8 of the Directive to the Competent Authority of the other Contracting State of residence of the Beneficial Owner.   
 2.  The communication of information shall be automatic and shall take place at least once a year, within six months following the end of the tax year of the Contracting State of the Paying Agent, for all Interest Payments made during that year.   
@@ -106,8 +92,6 @@ Wordt voorlopig toegepast per 01-07-2013
 ### Article  5  
 
 ####Transitional provisions
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1.  During the transitional period referred to in Article 10 of the Directive, where the Beneficial Owner is resident in the Republic of Croatia and the Paying Agent is resident in Curaçao, Curaçao shall levy a withholding tax on Interest Payments at a rate of 35%. During this period, Curaçao shall not be required to apply the provisions of Article 4. It shall, however, receive information from the Republic of Croatia in accordance with that Article.   
 2.  The Paying Agent shall levy the withholding tax in the manner as described in Article 11, paragraphs 2 and 3 of the Directive.   
@@ -119,8 +103,6 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Revenue sharing
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 1.  Curaçao shall retain 25% of the revenue of the withholding tax mentioned in Article 5, paragraph 1, and transfer 75% of the revenue to the Republic of Croatia.   
 2.  If Curaçao levies withholding tax in accordance with Article 5, paragraph 4, it shall retain 25% of the revenue and transfer 75% to the Republic of Croatia of the revenue of the withholding tax levied on interest payments made to entities referred to in Article 4, paragraph 2, of the Directive, established in the Republic of Croatia.   
 3.  Such transfers shall take place at the latest within a period of six months following the end of the tax year of Curaçao.   
@@ -130,8 +112,6 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Exceptions to the withholding procedure
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 1.  Curaçao shall provide for one or both of the procedures of Article 13, paragraph 1, of the Directive in order to ensure that the Beneficial Owners may request that no tax be withheld.   
 2.  At the request of the Beneficial Owner, the Competent Authority of his Contracting State of residence for tax purposes shall issue a certificate in accordance with Article 13, paragraph 2, of the Directive.  
 
@@ -139,15 +119,11 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Elimination of double taxation
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 The Republic of Croatia shall ensure the elimination of any double taxation which might result from the imposition of the withholding tax referred to in Article 5, in accordance with the provisions of Article 14, paragraphs 2 and 3, of the Directive or will provide a refund of the withholding tax. 
 
 ### Article  9  
 
 ####Other withholding taxes
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 The Convention shall not preclude the Contracting States from levying other types of withholding tax than that referred to in Article 5 in accordance with their national laws or double-taxation conventions. 
 
@@ -155,15 +131,11 @@ The Convention shall not preclude the Contracting States from levying other type
 
 ####Transposition
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 Before the date of accession of the Republic of Croatia to the European Union the Contracting States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Convention. 
 
 ### Article  11  
 
 ####Annex
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 The text of Article 16 of Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC, to which this Convention refers, is appended as Annex to this Convention, of which it forms an integral part. 
 
@@ -171,29 +143,21 @@ The text of Article 16 of Council Directive 2011/16/EU of 15 February 2011 on ad
 
 ####Entry Into Force
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 This Convention shall enter into force on the last day of the first month following the later of the dates on which the respective Governments have notified each other in writing that the formalities constitutionally required in their respective States have been complied with, and its provisions shall have effect from the date of accession of the Republic of Croatia to the European Union. 
 
 ### Article  13  
 
 ####Termination
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 This Convention shall remain in force until terminated by one of the Contracting States. Either State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year after the expiration of a period of three years from the date of its entry into force. In such event the Convention shall cease to have effect for periods beginning after the end of the calendar year in which the notice of termination has been given. 
 
-DONE in the English language.  *For the Republic of Croatia,*  S. LINIĆ  *For the Republic of Croatia For the Kingdom of the Netherlands, in respect of Curaçao,*  J.M.N. JARDIM  
+DONE in the English language.  *For the Republic of Croatia,*  S. LINIĆ  *For the Kingdom of the Netherlands, in respect of Curaçao,*  J.M.N. JARDIM  
 
 ### Annex  
 
 ####Article 16 of Directive 2011/16/EU
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 ####“Disclosure of information and documents
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1. Information communicated between Member States in any form pursuant to this Directive shall be covered by the obligation of official secrecy and enjoy the protection extended to similar information under the national law of the Member State which received it. Such information may be used for the administration and enforcement of the domestic laws of the Member States concerning the taxes referred to in Article 2. Such information may also be used for the assessment and enforcement of other taxes and duties covered by Article 2 of Council Directive 2010/24/EU of 16 March 2010 concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures<sup> 1) OJ L 84, 31.3.2010, p. 1. </sup>, or for the assessment and enforcement of compulsory social security contributions. In addition, it may be used in connection with judicial and administrative proceedings that may involve penalties, initiated as a result of infringements of tax law, without prejudice to the general rules and provisions governing the rights of defendants and witnesses in such proceedings.  
 
@@ -207,12 +171,8 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Overeenkomst in de vorm van een briefwisseling betreffende belastingheffing op inkomsten uit spaargelden en de voorlopige toepassing ervan
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 A. Brief van de Republiek Kroatië Mevrouw/Mijnheer, Ik heb de eer te verwijzen naar de teksten van respectievelijk de „Overeenkomst tussen het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en (België, Oostenrijk en Luxemburg) betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling”, de „Overeenkomst tussen het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en (andere EU-lidstaat dan België, Oostenrijk en Luxemburg) betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling”, de „Overeenkomst tussen het Koninkrijk der Nederlanden ten behoeve van Aruba en (andere EU-lidstaat dan België, Oostenrijk en Luxemburg) betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling” en de „Overeenkomst tussen het Koninkrijk der Nederlanden ten behoeve van Aruba en (België, Oostenrijk en Luxemburg) betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling”. Deze teksten, die het resultaat zijn van de onderhandelingen die met de Nederlandse Antillen en Aruba zijn gevoerd over een overeenkomst inzake belastingheffing op inkomsten uit spaargelden, zijn respectievelijk als bijlage I, II, III en IV toegevoegd aan het resultaat van de besprekingen van de Groep op hoog niveau van de Raad van Ministers van de Europese Unie van 12 maart 2004 (doc. 7660/1/04 REV 1 FISC 68 + COR 1). In het licht van de bovengenoemde teksten heb ik de eer u de „Overeenkomst betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling” in aanhangsel 1 bij deze brief voor te stellen, en in overweging te geven dat wij er ons wederzijds toe verbinden zo spoedig mogelijk de interne grondwettelijke formaliteiten voor de inwerkingtreding van deze Overeenkomst te vervullen en elkaar onverwijld van de voltooiing daarvan in kennis te stellen. In afwachting van de voltooiing van deze interne procedures en van de inwerkingtreding van deze „Overeenkomst betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling”, stel ik u voor dat de Republiek Kroatië en het Koninkrijk der Nederlanden ten behoeve van Curaçao deze Overeenkomst, binnen de grenzen van onze respectieve binnenlandse grondwettelijke voorschriften, voorlopig toepassen vanaf de datum van toetreding van de Republiek Kroatië tot de Europese Unie. Ik heb de eer voor te stellen dat, indien het bovenstaande voor uw regering aanvaardbaar is, deze brief en uw bevestiging tezamen een Overeenkomst vormen tussen de Republiek Kroatië en het Koninkrijk der Nederlanden ten behoeve van Curaçao. Gelieve, Mevrouw, Mijnheer, de verzekering van onze zeer bijzondere hoogachting wel te willen aanvaarden.*Voor de Republiek Kroatië,*S. LINIĆ Minister van Financiën   
 GEDAAN te Zagreb op 3.6.2013, in de Engelse taal in drie exemplaren.  
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 B. Brief van het Koninkrijk der Nederlanden, ten behoeve van Curaçao Mijnheer,  Ik heb de eer de ontvangst te bevestigen van uw brief van 3 juni 2013, die als volgt luidt:  (zoals in A)  Ik kan bevestigen dat de inhoud van deze brief voor Curaçao aanvaardbaar is. Gelieve, Mijnheer, de verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden.*Voor het Koninkrijk der Nederlanden, ten behoeve van Curaçao,*J.M.N. JARDIM   
 GEDAAN te Willemstad op 27-6-2013, in de Engelse taal in drie exemplaren.  
@@ -220,8 +180,6 @@ GEDAAN te Willemstad op 27-6-2013, in de Engelse taal in drie exemplaren.
 ### Aanhangsel  1  
 
 ####Overeenkomst tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Kroatië betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 Overwegende hetgeen volgt: 
 
@@ -251,8 +209,6 @@ Overwegende hetgeen volgt:
 
 ####Algemene werkingssfeer
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 1.  Deze Overeenkomst is van toepassing op rentebetalingen die door een op het grondgebied van een van de overeenkomstsluitende staten gevestigde uitbetalende instantie worden verricht teneinde het mogelijk te maken dat inkomsten uit spaargelden in de vorm van rentebetaling die in een overeenkomstsluitende staat worden verricht aan uiteindelijk gerechtigden die een natuurlijke persoon zijn en hun fiscale woonplaats in de andere overeenkomstsluitende staat hebben, effectief worden belast overeenkomstig de wetgeving van de laatstgenoemde overeenkomstsluitende staat.   
 2.  De werkingssfeer van deze Overeenkomst is beperkt tot belastingheffing op inkomsten uit spaargelden in de vorm van rentebetalingen uit hoofde van schuldvorderingen; vraagstukken in verband met de belastingheffing op onder meer pensioenen en verzekeringsuitkeringen vallen buiten de werkingssfeer van deze Overeenkomst.   
 3.  Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst uitsluitend van toepassing op Curaçao.  
@@ -260,8 +216,6 @@ Wordt voorlopig toegepast per 01-07-2013
 ### Artikel  2  
 
 ####Begripsomschrijvingen
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1.  Voor de toepassing van deze Overeenkomst wordt, tenzij de context anders vereist: 
 
@@ -292,15 +246,11 @@ i. aan niet anderszins omschreven termen de betekenis gehecht die daaraan in de 
 
 ####Identiteit en woonplaats van de uiteindelijk gerechtigden
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 Voor de toepassing van de artikelen 4 tot en met 6 neemt elke overeenkomstsluitende staat de procedures aan die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigden vast te stellen en draagt zorg voor de toepassing van deze procedures binnen zijn grondgebied. Deze procedures voldoen aan de minimumnormen van artikel 3, leden 2 en 3, van de richtlijn, met dien verstande dat, wat betreft het bepaalde in lid 2, onder a), en in lid 3, onder a), de identiteit en de woonplaats van de uiteindelijk gerechtigde worden vastgesteld op grond van de informatie waarover de uitbetalende instantie beschikt krachtens de toepassing van de desbetreffende wet- en regelgeving van de overeenkomstsluitende staat waar de uitbetalende instantie is gevestigd. De bestaande vrijstellingen of ontheffingen die in voorkomend geval op verzoek aan uiteindelijk gerechtigden met woonplaats in de Republiek Kroatië zijn verleend, zijn evenwel niet langer van toepassing en aan die uiteindelijk gerechtigden worden geen verdere vrijstellingen of ontheffingen van dien aard verleend. 
 
 ### Artikel  4  
 
 ####Automatische gegevensuitwisseling
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1.  De bevoegde autoriteit van de overeenkomstsluitende staat waar de uitbetalende instantie is gevestigd verstrekt de in artikel 8 van de richtlijn bedoelde gegevens aan de bevoegde autoriteit van de andere overeenkomstsluitende staat waar de uiteindelijk gerechtigde zijn woonplaats heeft.   
 2.  De gegevensverstrekking gebeurt automatisch en ten minste eenmaal per jaar, binnen zes maanden na afloop van het belastingjaar van de overeenkomstsluitende staat van de uitbetalende instantie, voor alle gedurende dat jaar verrichte rentebetalingen.   
@@ -309,8 +259,6 @@ Wordt voorlopig toegepast per 01-07-2013
 ### Artikel  5  
 
 ####Overgangsbepalingen
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1.  Indien de uiteindelijk gerechtigde tot de rente zijn woonplaats in de Republiek Kroatië en de uitbetalende instantie zijn woonplaats in Curaçao heeft, heft Curaçao gedurende de in artikel 10 van de richtlijn bedoelde overgangsperiode bronbelasting op rentebetalingen tegen een tarief van 35%. Gedurende deze periode is Curaçao niet gehouden de bepalingen van artikel 4 toe te passen. Curaçao ontvangt echter gegevens van de Republiek Kroatië overeenkomstig dat artikel.   
 2.  De uitbetalende instantie houdt de bronbelasting in op de wijze als omschreven in artikel 11, leden 2 en 3, van de richtlijn.   
@@ -322,8 +270,6 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Verdeling van belastingopbrengsten
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 1.  Curaçao behoudt 25% van de opbrengsten van de bronbelasting als bedoeld artikel 5, lid 1, en draagt 75% van de opbrengsten over aan de Republiek Kroatië.   
 2.  Indien Curaçao overeenkomstig artikel 5, lid 4, bronbelasting heft, behoudt Curaçao 25% van de opbrengsten van de bronbelasting geheven op rentebetalingen aan in de Republiek Kroatië gevestigde entiteiten als bedoeld in artikel 4, lid 2, van de richtlijn en draagt 75% over aan de Republiek Kroatië.   
 3.  Deze overdrachten vinden uiterlijk plaats in de zes maanden die volgen op het eind van het belastingjaar van Curaçao.   
@@ -333,8 +279,6 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Uitzonderingen op de procedure van bronbelasting
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 1.  Curaçao voorziet in één van beide of beide procedures van artikel 13, lid 1, van de richtlijn om te verzekeren dat uiteindelijk gerechtigden een verzoek kunnen indienen tot het niet-inhouden van bronbelasting.   
 2.  Op verzoek van de uiteindelijk gerechtigde geeft de bevoegde autoriteit van de overeenkomstsluitende staat waar deze zijn fiscale woonplaats heeft een verklaring af overeenkomstig artikel 13, lid 2, van de richtlijn.  
 
@@ -342,15 +286,11 @@ Wordt voorlopig toegepast per 01-07-2013
 
 ####Vermijden van dubbele belasting
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 De Republiek Kroatië zorgt ervoor dat dubbele belasting wordt vermeden die zou kunnen voortvloeien uit het heffen van bronbelasting als bedoeld in artikel 5, overeenkomstig het bepaalde in artikel 14, leden 2 en 3, van de richtlijn, of zorgt voor restitutie van de bronbelasting. 
 
 ### Artikel  9  
 
 ####Andere bronbelastingen
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 De Overeenkomst belet de overeenkomstsluitende staten niet, naast de bronbelasting als bedoeld in artikel 5, overeenkomstig hun nationale wetten en verdragen tot voorkoming van dubbele belasting, ook andere bronbelastingen te heffen. 
 
@@ -358,15 +298,11 @@ De Overeenkomst belet de overeenkomstsluitende staten niet, naast de bronbelasti
 
 ####Omzetting
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 De overeenkomstsluitende staten dienen voor de datum van toetreding van de Republiek Kroatië tot de Europese Unie de wet- en regelgeving en bestuursrechtelijke bepalingen aan te nemen en bekend te maken die nodig zijn om aan deze Overeenkomst te voldoen. 
 
 ### Artikel  11  
 
 ####Bijlage
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 De tekst van artikel 16 van Richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van belastingen en tot intrekking van Richtlijn 77/799/EEG, waarnaar deze Overeenkomst verwijst, is opgenomen als Bijlage bij en vormt een integrerend onderdeel van deze Overeenkomst. 
 
@@ -374,15 +310,11 @@ De tekst van artikel 16 van Richtlijn 2011/16/EU van de Raad van 15 februari 20
 
 ####Inwerkingtreding
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 Deze Overeenkomst treedt in werking op de laatste dag van de eerste maand die volgt op de laatste van de data waarop de respectieve regeringen elkaar er schriftelijk van in kennis hebben gesteld dat de in hun respectieve staten voorgeschreven grondwettelijke formaliteiten zijn vervuld en de bepalingen ervan vinden toepassing op de datum van toetreding van de Republiek Kroatië tot de Europese Unie. 
 
 ### Artikel  13  
 
 ####Beëindiging
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 Deze Overeenkomst blijft van kracht totdat zij door een van beide overeenkomstsluitende staten wordt beëindigd. Elke overeenkomstsluitende staat kan de Overeenkomst langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een tijdvak van drie jaar na de datum van inwerkingtreding van de Overeenkomst kennis te geven van beëindiging. In dat geval houdt de Overeenkomst op van toepassing te zijn voor tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gegeven. 
 
@@ -392,11 +324,7 @@ GEDAAN in de Engelse taal.  *Voor de Republiek Kroatië,*  S. LINIĆ  *Voor het 
 
 ####Artikel 16 van Richtlijn 2011/16/EU van de Raad
 
-Wordt voorlopig toegepast per 01-07-2013 
-
 ####„Openbaarmaking van inlichtingen en bescheiden
-
-Wordt voorlopig toegepast per 01-07-2013 
 
 1. De inlichtingen die de lidstaten elkaar krachtens deze richtlijn in enigerlei vorm verstrekken, vallen onder de geheimhoudingsplicht en genieten de bescherming waarin het nationale recht van de ontvangende lidstaat met betrekking tot soortgelijke inlichtingen voorziet. Deze inlichtingen kunnen worden gebruikt voor de administratie en de handhaving van de nationale wetgeving van de lidstaten met betrekking tot de in artikel 2 bedoelde belastingen. De inlichtingen kunnen tevens worden gebruikt voor de vaststelling en invordering van andere belastingen en rechten vallend onder artikel 2 van Richtlijn 2010/24/EU van de Raad van 16 maart 2010 betreffende de wederzĳdse bĳstand inzake de invordering van schuldvorderingen die voortvloeien uit bepaalde belastingen, rechten en andere maatregelen<sup>1)*PbEU* L 84, 31.3.2010, p. 1</sup>, en voor de vaststelling en invordering van verplichte socialezekerheidsbijdragen. De inlichtingen kunnen voorts worden gebruikt in mogelijk tot bestraffing leidende gerechtelijke en administratieve procedures wegens overtreding van de belastingwetgeving, onverminderd de algemene regels en de bepalingen betreffende de rechten van de verdachten en getuigen in dergelijke procedures.  
 

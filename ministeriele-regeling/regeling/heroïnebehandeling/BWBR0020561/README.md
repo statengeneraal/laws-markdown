@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2006, nr. VGP/ADT 2728896, houdende een specifieke uitkering voor heroïnebehandeling (Regeling heroïnebehandeling)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van de Kaderwet volksgezondheidssubsidies](../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op artikel 3 van de Kaderwet volksgezondheidssubsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -49,9 +49,9 @@ De uitkering wordt slechts verstrekt voor zover:
 
 a. de behandelend arts voorafgaand aan de heroïnebehandeling heeft vastgesteld dat voor de cliënten die worden behandeld op een behandelplaats van de behandeleenheid geldt dat de cliënt: 
 
-1º. de Nederlandse nationaliteit bezit, op grond van een wettelijke bepaling als Nederlander wordt behandeld of vreemdeling is en rechtmatig verblijf geniet als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+1º. de Nederlandse nationaliteit bezit, op grond van een wettelijke bepaling als Nederlander wordt behandeld of vreemdeling is en rechtmatig verblijf geniet als bedoeld in artikel 8 van de Vreemdelingenwet 2000;  
 
-2º. volgens de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), ten minste 3 jaar als ingezetene is ingeschreven met een adres in de gemeente of een adres in een gemeente in het maatschappelijk zorggebied, bedoeld in [artikel 1, onder e, van de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid](../../../../ministeriele-regeling/uitvoeringsregeling/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018516/README.md).  
+2º. volgens de basisregistratie personen, bedoeld in artikel 1.2 van de Wet basisregistratie personen, ten minste 3 jaar als ingezetene is ingeschreven met een adres in de gemeente of een adres in een gemeente in het maatschappelijk zorggebied, bedoeld in artikel 1, onder e, van de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid.  
 
 3º. de leeftijd van 35 jaar heeft bereikt tenzij de cliënt voor 2006 is gestart met de heroïnebehandeling;  
 
@@ -76,8 +76,8 @@ d maatregelen zijn getroffen om te waarborgen dat er uitsluitend heroïne wordt 
 1.  De Minister geeft uiterlijk vóór de aanvang van het desbetreffende kalenderjaar een beschikking tot verlening van de uitkering.   
 2.  In de beschikking tot verlening van de uitkering wordt het bedrag van de uitkering vermeld dan wel de wijze waarop dit wordt bepaald en welk bedrag ten hoogste zal worden verleend.   
 3.  De Minister kan bij de beschikking tot verlening van de uitkering verplichtingen opleggen die strekken tot verwezenlijking van het doel van de uitkering.   
-4.  De [artikelen 4:48](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
-5.  Een uitkering ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+4.  De artikelen 4:48 en 4:50 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
+5.  Een uitkering ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  6  
 
@@ -112,7 +112,7 @@ b.  het aantal gerealiseerde behandelplaatsen in de behandeleenheid.
 
 ### Artikel  11  
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in artikel 10, een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:52](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:56](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. 
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in artikel 10, een beschikking tot vaststelling van de uitkering. De artikelen 4:46, 4:49, 4:52, 4:56 en 4:57 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. 
 
 ### Artikel  12  
 

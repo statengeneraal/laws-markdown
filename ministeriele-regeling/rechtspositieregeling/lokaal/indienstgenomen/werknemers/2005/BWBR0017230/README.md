@@ -3,7 +3,7 @@
 ##Ministeriële regeling van 23 september 2004, nr. HDPO/RR/AR-750/04, houdende regels ter nadere bepaling van de rechtspositie van lokaal indienstgenomen werknemers bij vertegenwoordigingen van het Koninkrijk in het buitenland (Rechtspositieregeling lokaal indienstgenomen werknemers 2005)
 
 De Minister van Buitenlandse Zaken,
-Gelet op [artikel 121, eerste lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);
+Gelet op artikel 121, eerste lid, van het Reglement Dienst Buitenlandse Zaken;
 
 In overeenstemming met de centrales van verenigingen van ambtenaren bij het Ministerie van Buitenlandse Zaken;
 Besluit:
@@ -17,9 +17,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. RDBZ: het [Reglement Dienst Buitenlandse Zaken](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+a. RDBZ: het Reglement Dienst Buitenlandse Zaken;  
 
-b. post: een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in [artikel 7 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+b. post: een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in artikel 7 van het RDBZ;  
 
 c. CdP: het hoofd van de post;  
 
@@ -27,7 +27,7 @@ d. HDPO: de Hoofddirecteur Personeel en Organisatie van het Ministerie van Buite
 
 e. werkgever: de Staat der Nederlanden;  
 
-f. werknemer: degene die krachtens [artikel 114 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) voor werkzaamheden bij een post op arbeidsovereenkomst naar burgerlijk recht in dienst is genomen;  
+f. werknemer: degene die krachtens artikel 114 van het RDBZ voor werkzaamheden bij een post op arbeidsovereenkomst naar burgerlijk recht in dienst is genomen;  
 
 g. gezinsleden: de partner en afhankelijke kinderen van de werknemer;  
 
@@ -41,7 +41,7 @@ h. partner:
 
 i. afhankelijke kinderen: kinderen, adoptief- of stiefkinderen jonger dan 18 jaar van de werknemer of van diens partner die financieel geheel of voor meer dan de helft ten laste van de werknemer komen;  
 
-j. postuitwerking: de in [artikel 123, eerste lid, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) bedoelde nadere uitwerking van [hoofdstuk XVIII van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) dan wel van deze regeling;  
+j. postuitwerking: de in artikel 123, eerste lid, van het RDBZ bedoelde nadere uitwerking van hoofdstuk XVIII van het RDBZ dan wel van deze regeling;  
 
 k. bedrijfsgeneeskundige dienst: de geneeskundige of geneeskundige dienst die in de postuitwerking is aangewezen teneinde de CdP bij te staan bij de uitvoering van de bedrijfsgeneeskundige begeleiding van de werknemer;  
 
@@ -59,7 +59,7 @@ p. lokaal gebruik: hetgeen lokaal gebruikelijk is bij de buitenlandse vertegenwo
 
 ####Volmacht en machtiging
 
-1. Tenzij in deze regeling anders is bepaald, wordt aan de CdP, voor zover het op zijn post werkzame werknemers betreft, volmacht en machtiging verleend tot het verrichten van handelingen op grond van het [RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), deze regeling en de postuitwerking.
+1. Tenzij in deze regeling anders is bepaald, wordt aan de CdP, voor zover het op zijn post werkzame werknemers betreft, volmacht en machtiging verleend tot het verrichten van handelingen op grond van het RDBZ, deze regeling en de postuitwerking.
 2. De CdP kan voor het verrichten van de in het eerste lid bedoelde handelingen schriftelijk volmacht en machtiging verlenen aan onder zijn gezag werkzame functionarissen. Deze volmacht en machtiging kunnen te allen tijde worden ingetrokken.
 3. HDPO kan de CdP omtrent het verrichten van de in het eerste lid bedoelde privaatrechtelijke rechtshandelingen aanwijzingen geven.
 
@@ -81,21 +81,21 @@ Bepalingen in of krachtens deze regeling die strijdig zijn met lokaal gebruik ku
 ####Postuitwerking
 
 1. De CdP van een ambassade stelt, in samenwerking met HDPO en na overleg met de CdP’s van eventuele andere posten binnen zijn ambtsgebied, voor zijn post en de eventuele andere posten binnen zijn ambtsgebied een postuitwerking op.
-2. In de postuitwerking worden zodanige arbeidsvoorwaarden en daarmee verbandhoudende voorzieningen opgenomen, dat deze, tezamen met de op grond van deze regeling en [hoofdstuk XVIII van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) geldende arbeidsvoorwaarden en voorzieningen, een geheel opleveren van arbeidsvoorwaarden en daarmee verbandhoudende voorzieningen overeenkomstig lokaal gebruik.
+2. In de postuitwerking worden zodanige arbeidsvoorwaarden en daarmee verbandhoudende voorzieningen opgenomen, dat deze, tezamen met de op grond van deze regeling en hoofdstuk XVIII van het RDBZ geldende arbeidsvoorwaarden en voorzieningen, een geheel opleveren van arbeidsvoorwaarden en daarmee verbandhoudende voorzieningen overeenkomstig lokaal gebruik.
 3. De CdP van een ambassade kan, na overleg met de CdP’s van eventuele andere posten binnen zijn ambtsgebied, aan HDPO een wijzigingsvoorstel voor de postuitwerking doen zodra de omstandigheden daartoe aanleiding geven.
 4. Vaststelling van de postuitwerking of van een wijziging van de postuitwerking geschiedt door HDPO. HDPO stelt de postuitwerking of wijziging pas vast nadat:
 
 a.het medezeggenschapsorgaan van de post dan wel posten door de desbetreffende CdP dan wel CdP’s in de gelegenheid is gesteld een advies uit te brengen; en
 
-b. er overeenstemming is bereikt met de in [artikel 142 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) bedoelde centrales van verenigingen van ambtenaren.
+b. er overeenstemming is bereikt met de in artikel 142 van het RDBZ bedoelde centrales van verenigingen van ambtenaren.
 5. HDPO kan de CdP van een ambassade omtrent het opstellen van de postuitwerking of een wijziging daarvan aanwijzingen geven.
 
 ###Artikel 1.6 
 
 ####Bezwaar, beroep en forumkeuze
 
-1. De werknemer kan tegen een mondelinge of schriftelijke beslissing van de werkgever, voortvloeiende uit de arbeidsovereenkomst, binnen een termijn van zes weken na de dag dat de beslissing aan de werknemer is verzonden, uitgereikt of meegedeeld, schriftelijk bezwaar maken. De [hoofdstukken 6](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.
-2. De beslissing op een bezwaarschrift als bedoeld in het eerste lid wordt genomen door de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken. Hij laat zich terzake adviseren door de Commissie van Bezwaar Dienst Buitenlandse Zaken, overeenkomstig de [artikelen 144 tot en met 146 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md).
+1. De werknemer kan tegen een mondelinge of schriftelijke beslissing van de werkgever, voortvloeiende uit de arbeidsovereenkomst, binnen een termijn van zes weken na de dag dat de beslissing aan de werknemer is verzonden, uitgereikt of meegedeeld, schriftelijk bezwaar maken. De hoofdstukken 6 en 7 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
+2. De beslissing op een bezwaarschrift als bedoeld in het eerste lid wordt genomen door de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken. Hij laat zich terzake adviseren door de Commissie van Bezwaar Dienst Buitenlandse Zaken, overeenkomstig de artikelen 144 tot en met 146 van het RDBZ.
 3. Voor de toepassing van het eerste lid wordt onder een beslissing van de werkgever niet verstaan het vaststellen, wijzigen of intrekken van een beleidsregel dan wel een postuitwerking of een andere regeling vastgesteld door Onze Minister of een ander publiekrechtelijk orgaan.
 4. Voor de kennisneming van geschillen tussen de werknemer en de werkgever, voortvloeiende uit de arbeidsovereenkomst, is met uitsluiting van enige buitenlandse rechter de Nederlandse rechter bevoegd.
 
@@ -154,9 +154,9 @@ b.de in het eerste lid bedoelde personen die binnen de in het eerste lid bedoeld
 
 ####Onderzoek naar betrouwbaarheid en geschiktheid
 
-1. De CdP kan, met uitzondering van de in het tweede en vierde lid bedoelde gevallen, van een kandidaat-werknemer vergen dat deze een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële gegevens](../../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) overlegt, dan wel een gelijkwaardige verklaring, afgegeven door de autoriteiten van een ander land dan Nederland.
-2. Indien een functie, niet zijnde een vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), bijzondere eisen stelt aan de integriteit of de verantwoordelijkheid van degene die deze functie vervult en indien een zwaarwegend algemeen belang dit vordert, kunnen door de directeur Veiligheidsdienst Buitenlandse Zaken van het Ministerie van Buitenlandse Zaken of een door hem aangewezen persoon bij de Minister van Justitie justitiële gegevens worden opgevraagd voor het verrichten van een onderzoek naar de betrouwbaarheid en de geschiktheid van een kandidaat voor die functie. Benoeming in een zodanige functie is slechts mogelijk, nadat op grond van het onderzoek tegen de vervulling door betrokkene van de desbetreffende functie geen bezwaar blijkt te bestaan. Bij de uitvoering van het in de vorige volzin bedoelde onderzoek wordt gezorgd voor voldoende bescherming van de persoonlijke levenssfeer van de betrokkene.
-3. Benoeming in een vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) is slechts mogelijk indien ten aanzien van de betrokkene een verklaring als bedoeld in [artikel 1, eerste lid, onderdeel b, van die wet](../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) is afgegeven.
+1. De CdP kan, met uitzondering van de in het tweede en vierde lid bedoelde gevallen, van een kandidaat-werknemer vergen dat deze een verklaring omtrent het gedrag als bedoeld in de Wet justitiële gegevens overlegt, dan wel een gelijkwaardige verklaring, afgegeven door de autoriteiten van een ander land dan Nederland.
+2. Indien een functie, niet zijnde een vertrouwensfunctie als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken, bijzondere eisen stelt aan de integriteit of de verantwoordelijkheid van degene die deze functie vervult en indien een zwaarwegend algemeen belang dit vordert, kunnen door de directeur Veiligheidsdienst Buitenlandse Zaken van het Ministerie van Buitenlandse Zaken of een door hem aangewezen persoon bij de Minister van Justitie justitiële gegevens worden opgevraagd voor het verrichten van een onderzoek naar de betrouwbaarheid en de geschiktheid van een kandidaat voor die functie. Benoeming in een zodanige functie is slechts mogelijk, nadat op grond van het onderzoek tegen de vervulling door betrokkene van de desbetreffende functie geen bezwaar blijkt te bestaan. Bij de uitvoering van het in de vorige volzin bedoelde onderzoek wordt gezorgd voor voldoende bescherming van de persoonlijke levenssfeer van de betrokkene.
+3. Benoeming in een vertrouwensfunctie als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken is slechts mogelijk indien ten aanzien van de betrokkene een verklaring als bedoeld in artikel 1, eerste lid, onderdeel b, van die wet is afgegeven.
 4. Een onderzoek als bedoeld in het tweede of derde lid wordt slechts ingesteld indien naar het oordeel van de CdP de betrokkene bekwaam en geschikt is voor de desbetreffende functie.
 
 ###Artikel 2.5 
@@ -261,7 +261,7 @@ c.van genoten vakantie.
 3. Aan de werknemer aan wie nog niet het hoogste loonnummer in zijn loonschaal is toegekend, kan ten hoogste eenmaal per jaar het naasthogere loonnummer in zijn loonschaal worden toegekend indien hij naar het oordeel van de CdP zijn werkzaamheden op een goede wijze verricht.
 4. In afwijking van het derde lid kan de CdP in bijzondere gevallen besluiten dat de werknemer een hoger loonnummer in zijn loonschaal wordt toegekend dan het naasthogere loonnummer.
 
-###§ 2 
+### §  2  
 
 ####Toeslagen
 
@@ -271,6 +271,21 @@ c.van genoten vakantie.
 
 1. Indien de omstandigheden op de lokale arbeidsmarkt, gezien de specifieke functievereisten, dit wenselijk maken, kan HDPO, na overleg met de CdP, als aanvulling op het loonbedrag een individuele arbeidsmarkttoeslag aan een werknemer toekennen.
 2. Toekenning van de arbeidsmarkttoeslag geschiedt voor een periode van ten hoogste drie jaren. Indien daarvoor naar het oordeel van HDPO, na overleg met de CdP, redenen aanwezig zijn, kan HDPO besluiten tot verlenging met telkens een periode van ten hoogste drie jaren.
+
+### Artikel  4.4a  
+
+####Bereikbaarheids- en beschikbaarheidstoeslag
+
+Treedt in werking per 01-01-2015 
+
+1.  Aan de werknemer die zich om redenen van dienstbelang buiten de voor hem vastgestelde werktijden ingevolge een schriftelijke aanwijzing van de CdP regelmatig of vrij regelmatig bereikbaar en beschikbaar dient te houden teneinde bij eerste oproep arbeid te gaan verrichten, wordt voor ieder uur bereikbaarheid en beschikbaarheid een toeslag toegekend.   
+2.  De toeslag bedraagt per uur bereikbaarheid en beschikbaarheid een percentage van het voor de werknemer geldende loon per uur en wel: 
+
+a. 5% op de doordeweekse uren, en  
+
+b. 10% op de uren in het weekend of op een feestdag,   met dien verstande dat genoemde percentages worden berekend over ten hoogste het loon per uur, behorende bij loonnummer 15 van loonschaal 7.  
+3. In afwijking van het eerste en tweede lid kan de CdP, na overleg met de werknemer, ervoor kiezen de dienst met vrije tijd te compenseren, waarbij een beschikbaarheidsdienst van 24 uur op een doordeweekse dag gecompenseerd wordt met 1,5 uur verlof en in het weekend of op een feestdag met 2,5 uur verlof. Een dienst van minder dan 24 uur wordt naar evenredigheid gecompenseerd.
+4. De in het derde lid bedoelde vrije tijd kan worden opgenomen binnen een periode van 6 maanden nadat de CdP de vrije tijd heeft toegekend. Niet opgenomen vrije tijd vervalt na afloop van die periode, tenzij die vrije tijd vanwege dienstredenen niet kon worden opgenomen, in welk geval de niet opgenomen tijd alsnog wordt uitbetaald. 
 
 ###Artikel 4.5 
 
@@ -376,21 +391,21 @@ c.19% na vijftien jaren en daarna iedere vijf jaren.
 ####Reiskosten bij dienstreizen
 
 1.  Dienstreizen worden zoveel mogelijk per openbaar vervoer gemaakt. Kosten van openbaar vervoer worden onder overlegging van originele bewijsstukken vergoed.   
-2.  Indien de dienstreis per vliegtuig wordt gemaakt, geldt de overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md) vastgestelde reisklasse.   
+2.  Indien de dienstreis per vliegtuig wordt gemaakt, geldt de overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ vastgestelde reisklasse.   
 3.  Indien de dienstreis naar het oordeel van de CdP niet of niet op doelmatige wijze per openbaar vervoer kan worden ondernomen, kan de CdP aan de werknemer toestemming verlenen om voor de dienstreis gebruik te maken van eigen vervoer. De hoogte van de in dat geval te verstrekken vergoeding wordt in de postuitwerking opgenomen.  
 
 ###Artikel 4.14 
 
 ####Verblijfkosten bij dienstreizen naar Nederland
 
-Werknemers hebben bij verblijf om dienstredenen in Nederland recht op een vergoeding voor verblijfkosten overeenkomstig [artikel 5 van de Reisregeling binnenland](../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md).
+Werknemers hebben bij verblijf om dienstredenen in Nederland recht op een vergoeding voor verblijfkosten overeenkomstig artikel 5 van de Reisregeling binnenland.
 
 ###Artikel 4.15 
 
 ####Verblijfkosten bij dienstreizen anders dan naar Nederland
 
 1. Werknemers hebben bij dienstreizen buiten Nederland recht op een vergoeding voor verblijfkosten op de in dit artikel genoemde voorwaarden. De vergoeding voor verblijfkosten bestaat uit een bedrag voor logieskosten en een bedrag voor overige kosten.
-2. Logieskosten die blijkens overgelegde originele bewijsstukken zijn gemaakt, worden vergoed op basis van de werkelijk gemaakte kosten tot een maximum van het bedrag dat voor het desbetreffende land is opgenomen in de tarieflijst logies- en overige kosten bij dienstreizen buitenland, [bijlage I van de Reisregeling buitenland](../../../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md).
+2. Logieskosten die blijkens overgelegde originele bewijsstukken zijn gemaakt, worden vergoed op basis van de werkelijk gemaakte kosten tot een maximum van het bedrag dat voor het desbetreffende land is opgenomen in de tarieflijst logies- en overige kosten bij dienstreizen buitenland, bijlage I van de Reisregeling buitenland.
 3. Het bedrag voor overige kosten bestaat uit een percentage van het voor het desbetreffende land geldende bedrag overige kosten, zoals opgenomen in de in het tweede lid genoemde tarieflijst. Het percentage bedraagt:
 
 a.1,5% voor elk uur van de dienstreis voor vergoeding kleine uitgaven;
@@ -448,7 +463,7 @@ Geen loon of andere betalingen zijn verschuldigd over de tijd dat de werknemer d
 
 1. Financiële rechten van de werknemer op grond van deze regeling, worden in de lokaal gebruikelijke valuta vastgesteld en uitbetaald.
 2. In afwijking van het eerste lid kunnen, indien daartoe naar het oordeel van HDPO redenen aanwezig zijn, financiële rechten geheel of gedeeltelijk in een andere valuta worden vastgesteld of uitbetaald.
-3. In afwijking van het eerste lid worden financiële rechten op grond van de artikelen 4.14 en 4.15 vastgesteld in de in [artikel 5 van de Reisregeling binnenland](../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md) respectievelijk [bijlage I van de Reisregeling buitenland](../../../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md) opgenomen munteenheden. De uitbetaling vindt plaats in de munteenheid waarin het loon wordt uitbetaald.
+3. In afwijking van het eerste lid worden financiële rechten op grond van de artikelen 4.14 en 4.15 vastgesteld in de in artikel 5 van de Reisregeling binnenland respectievelijk bijlage I van de Reisregeling buitenland opgenomen munteenheden. De uitbetaling vindt plaats in de munteenheid waarin het loon wordt uitbetaald.
 4. Indien de vaststelling plaatsvindt in een andere valuta dan die waarin de uitbetaling geschiedt, vindt de omrekening plaats op basis van de op het moment van uitbetaling door de directeur Financieel Economische Zaken van het Ministerie van Buitenlandse Zaken gehanteerde koers voor betalingen aan derden.
 5. Betalingen op grond van deze regeling vinden plaats in het land van vestiging van de post.
 6. Betaling van het in artikel 4.3, tweede lid, bedoelde loonbedrag vindt per maand plaats. De frequentie en tijdstippen van de overige betalingen, zoals toeslagen, worden in de postuitwerking opgenomen.
@@ -836,7 +851,7 @@ HDPO stelt na overleg met de CdP het plan van aanpak vast nadat overleg is gevoe
 
 a.de CdP met het medezeggenschapsorgaan van de post overeenkomstig de artikelen 22, 23 en 32, vierde lid, van de Medezeggenschapsregeling posten BZ; en
 
-b.HDPO met de in [artikel 142 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) bedoelde centrales van verenigingen van ambtenaren over de personele gevolgen van de reorganisatie en de voorgenomen maatregelen ter beperking van de personele gevolgen.
+b.HDPO met de in artikel 142 van het RDBZ bedoelde centrales van verenigingen van ambtenaren over de personele gevolgen van de reorganisatie en de voorgenomen maatregelen ter beperking van de personele gevolgen.
 
 ###Hoofdstuk 7 
 
@@ -1230,7 +1245,7 @@ De Rechtspositieregeling lokaal indienstgenomen werknemers wordt ingetrokken.
 
 ####Overgangsrecht afhankelijke kinderen
 
-Voor de werknemer die op 31 december 2004 recht had op een vergoeding omdat hij een kind had dat op grond van artikel 1.1, onderdeel h, van de Rechtspositieregeling lokaal indienstgenomen werknemers j° [artikel 2 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) werd aangemerkt als afhankelijk kind, terwijl op grond van deze regeling dat kind niet wordt aangemerkt als afhankelijk kind, geldt met betrekking tot de desbetreffende vergoeding voor dat afhankelijke kind de volgende overgangsregeling:
+Voor de werknemer die op 31 december 2004 recht had op een vergoeding omdat hij een kind had dat op grond van artikel 1.1, onderdeel h, van de Rechtspositieregeling lokaal indienstgenomen werknemers j° artikel 2 van het RDBZ werd aangemerkt als afhankelijk kind, terwijl op grond van deze regeling dat kind niet wordt aangemerkt als afhankelijk kind, geldt met betrekking tot de desbetreffende vergoeding voor dat afhankelijke kind de volgende overgangsregeling:
 
 a.tot 1 januari 2006 wordt de vergoeding toegekend overeenkomstig de regeling zoals deze luidde op 31 december 2004;
 
@@ -1248,7 +1263,7 @@ b.over de periode van 1 januari 2006 tot 1 januari 2007 wordt de helft van de v
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2005, met uitzondering van de artikelen 1.7, 2.4, 2.5, tweede tot en met vijfde lid, 8.6, eerste lid, 8.8 en 8.9. De in de vorige volzin genoemde artikelen treden in werking met ingang van de dag van inwerkingtreding van de eerstvolgende wijziging van de [artikelen 119](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [120 van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) na vaststelling van deze regeling.
+Deze regeling treedt in werking met ingang van 1 januari 2005, met uitzondering van de artikelen 1.7, 2.4, 2.5, tweede tot en met vijfde lid, 8.6, eerste lid, 8.8 en 8.9. De in de vorige volzin genoemde artikelen treden in werking met ingang van de dag van inwerkingtreding van de eerstvolgende wijziging van de artikelen 119 en 120 van het RDBZ na vaststelling van deze regeling.
 
 ###Artikel 10.7 
 

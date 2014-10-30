@@ -8953,7 +8953,7 @@ b. in het geval dat een bedrijfsauto met een technisch toegestane maximummassa v
 
 3°. 3.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het voertuig uitsluitend bestemd is voor het trekken van aanhangwagens die zijn voorzien van een oploopreminrichting;  
 
-4°. 1,5 maal de technisch toegestane maximummassa van het voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt wanneer deze bestemd is voor het trekken van aanhangwagens met een continureminrichting;  
+4°. de toegestane maximummassa van het samenstel van een bedrijfsauto met een aanhangwagen verminderd met de massa in rijklare toestand van het trekkende voertuig;  
 
 5°. 24.000 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt in het geval van een middenasaanhangwagen of een aanhangwagen met stijve dissel met een continureminrichting,    
 
@@ -8979,7 +8979,7 @@ d. in het geval van een dolly:
 
 – 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg met een aantekening ‘G’ op de kentekencard, het kentekenbewijs of in het kentekenregister is of;  
 
-– 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van meer dan 3.500 kg is.        
+– de toegestane maximummassa van het samenstel van een bedrijfsauto, dolly en oplegger met een aanhangwagen verminderd met de massa in rijklare toestand van het trekkende voertuig.        
 
 ### Artikel  5.18.17h  
 
