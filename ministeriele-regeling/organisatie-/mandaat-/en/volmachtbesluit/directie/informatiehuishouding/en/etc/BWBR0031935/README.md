@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 augustus 2012, INSP/2012/11435, houdende de inrichting van de directie Informatiehuishouding en Inspectieondersteuning, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatiehuishouding en Inspectieondersteuning 2012)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 4, onderdeel l](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), en [14, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md);
+Gelet op de artikelen 4, onderdeel l, en 14, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012;
 Besluit:     
 ### §  1  
 
@@ -69,7 +69,7 @@ b. het afleggen van verantwoording en het rapporteren aan de directeur over bijd
 
 c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;  
 
-d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 5, eerste lid, onderdelen a, e, f, h en j](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen.   
+d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in artikel 5, eerste lid, onderdelen a, e, f, h en j, en artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012, binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen.   
 
 ### Artikel  4  
 
@@ -81,11 +81,13 @@ a. het toetsen van boeterapporten, alsmede het vaststellen en uitvoeren van boet
 
 b. het bewaken van de kwaliteit en consistentie van de boetebeschikkingen en toepassing van bestuursdwang en het zorg dragen voor de voortgang en bewaking van termijnen;  
 
-c. het scheppen van condities waaronder andere toezichthoudende en opsporingsdiensten, die mede zijn belast met handhaving van de [Arbeidsomstandighedenwet](../../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de [Warenwet](../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), de [Arbeidstijdenwet](../../../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en de [Wet arbeid vreemdelingen](../../../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), kunnen functioneren wat betreft de bestuurlijke handhaving;  
+c. het scheppen van condities waaronder andere toezichthoudende en opsporingsdiensten, die mede zijn belast met handhaving van de Arbeidsomstandighedenwet, de Warenwet, de Arbeidstijdenwet en de Wet arbeid vreemdelingen, kunnen functioneren wat betreft de bestuurlijke handhaving;  
 
 d. de communicatie met de directie Arbeidsomstandigheden, de directie Arbeidsmarktfraude en de directie Major Hazard Control ter zake van de inrichting van boeterapporten, onder meer op grond van de eisen die voortvloeien uit jurisprudentie;  
 
-e. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive.  
+e. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive; 
+
+f. de actieve openbaarmaking op grond van artikel 8 van de Wet openbaarheid van bestuur van inspectiegegevens bij zware of ernstige asbestovertredingen binnen de kaders van het daaromtrent vastgestelde beleid.  
 
 ### Artikel  5  
 
@@ -125,7 +127,7 @@ b. het zorgdragen voor een effectieve en efficiënte bedrijfsvoering van de insp
 
 c. het voorbereiden van de begroting, het jaarplan, het inspectieplan en het jaarverslag van de inspectie, in samenwerking en afstemming met de directies van de inspectie;  
 
-d. het adviseren over en het uitvoeren van de planning, administratie en control van de inspectie, waaronder mede begrepen het financiële beheer en het contractbeheer, van welk beheer het afzonderlijke financiële beheer van de baten-lastendienst directie Werk en Inkomen deel uitmaakt.   
+d. het adviseren over en het uitvoeren van de planning, administratie en control van de inspectie, waaronder mede begrepen het financiële beheer en het contractbeheer.   
 
 ### Artikel  8  
 
@@ -143,7 +145,7 @@ d. het dynamisch archiefbeheer van de inspectie, te weten postbehandeling, regis
 
 e. het facilitymanagement en het relatiemanagement met leveranciers van de inspectie, en de afstemming daarover met de directie Bedrijfsvoering van het ministerie, alsmede de huisvesting van de inspectie en de beveiliging van personen en gebouwen;  
 
-f. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).   
+f. het materieel beheer overeenkomstig de Regeling materieelbeheer rijksoverheid 2006 en de Regeling materieelbeheer museale voorwerpen.   
 
 ### §  4  
 

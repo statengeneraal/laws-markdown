@@ -160,7 +160,11 @@ De gegevens, bedoeld in artikel 2, derde lid, worden in het gecomputeriseerde ge
 1.  Het merk waarmee runderen ingevolge artikel 4 van verordening 1760/2000 worden geïdentificeerd, is een oormerk dat voldoet aan de artikelen 1, 2 en 3 en in voorkomend geval artikel 4 van verordening 911/2004 en voor zover het rund in Nederland is geboren, aan de eisen, bedoeld in artikel 12a.   
 2.  Het merk waarmee varkens worden geïdentificeerd, is het door de minister toegelaten oormerk, bedoeld in artikel 12k, dat voldoet aan de eisen van artikel 12l, tweede lid.   
 3.  In afwijking van het tweede lid, is het merk waarmee varkens als bedoeld in artikel 1, onderdeel a of b, van richtlijn 88/661/EEG worden geïdentificeerd het merk, bedoeld in het tweede lid, of een tatoeage die voldoet aan de eisen van artikel 12m.  
-4.  Het merk waarmee slachtvarkens worden gemerkt, is het door de minister toegelaten slachtmerk als bedoeld in artikel 12k, dat voldoet aan de eisen van artikel 12l, tweede lid.   
+4.  Het merk waarmee slachtvarkens worden gemerkt, is: 
+
+a. het door de minister toegelaten slachtmerk, bedoeld in artikel 12k, dat voldoet aan de eisen van artikel 12l, tweede lid, of  
+
+b. het handmatige merk dat voldoet aan de eisen, bedoeld in artikel 12o, met dien verstande dat dit merk uitsluitend aangebracht mag worden op slachtvarkens die rechtstreeks van een bedrijf, niet zijnde een verzamelcentrum, naar een slachthuis in Duitsland worden afgevoerd.     
 5.  Het merk waarmee schapen en geiten ingevolge artikel 4 van verordening 21/2004 worden geïdentificeerd voldoet aan artikel 12e.  
 
 ### Artikel  9  
@@ -421,6 +425,17 @@ a. de leverancier aan een houder van varkens een merk of slachtmerk heeft geleve
 b. de leverancier niet voldoet aan artikel 9, derde lid, onderdelen a en c.     
 3.  De doorhaling van de registratie, bedoeld in het tweede lid, wordt ongedaan gemaakt, indien de desbetreffende leverancier ten genoegen van de minister heeft aangetoond dat hij overeenkomstig de bepalingen van deze regeling zal handelen.  
 
+### Artikel  12o  
+
+1.  Het handmatige merk, bedoeld in artikel 8, vierde lid, onderdeel b, voldoet aan de volgende eisen: 
+
+a. het merk wordt op een van de schouders van het slachtvarken aangebracht in de kleuren zwart of groen op een zodanige wijze dat de tekens goed leesbaar blijven;  
+
+b. het merk wordt aangebracht door middel van een instrument, bestaande uit een steel met daaraan gekoppeld een plaat waarop maximaal twee rijen van vijf posities voor tekens opgenomen kunnen worden om het dier te identificeren, waarbij de afmeting van een teken maximaal 30 mm hoog is en 15 mm breed en de pinlengte voor de tekens maximaal 12 mm lang is, en  
+
+c. het merk bestaat uit het UBN van het bedrijf waarvan het varken voor de slacht wordt afgevoerd.     
+2.  Het handmatige merk wordt door middel van een slag op het varken aangebracht op een wijze dat het welzijn van het varken niet meer wordt geschaad dan redelijkerwijs noodzakelijk is voor het leesbaar aanbrengen van het handmatige merk.  
+
 ### § 4 
 
 ####Identificatie en registratie: algemeen 
@@ -574,8 +589,9 @@ In deze paragraaf wordt verstaan onder spenen: het blijvend onttrekken van bigge
 1.  Op een bedrijf geboren varkens worden gemerkt binnen één week nadat zij zijn gespeend, of uiterlijk binnen 3 maanden na de geboorte, of zoveel eerder als zij van het bedrijf worden afgevoerd.   
 2.  Uit een derde land ingevoerde varkens worden op het bestemmingsadres gemerkt binnen 3 werkdagen vanaf de dag van aanvoer op het bestemmingsadres.   
 3.  Het tweede lid geldt niet indien het bestemmingsadres een slachthuis is, mits betrokken varkens op dit slachthuis binnen 3 werkdagen na aanvoer worden geslacht.   
-4.  Onverminderd het eerste lid, worden slachtvarkens voordat ze van een bedrijf worden afgevoerd naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum, gemerkt met een slachtmerk als bedoeld in artikel 8, vierde lid.   
-5.  Varkens, waarbij merkverlies is opgetreden, worden binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop het merkverlies is opgetreden, hermerkt met een merk met daarop het UBN van het bedrijf waarop het varken op dat moment verblijft, met uitzondering van slachthuizen of verzamelcentra.  
+4.  Onverminderd het eerste lid, worden slachtvarkens voordat ze van een bedrijf worden afgevoerd naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum, gemerkt met een slachtmerk als bedoeld in artikel 8, vierde lid, onderdeel a.   
+5.  In afwijking van het vierde lid, is het toegestaan slachtvarkens te merken met een merk als bedoeld in artikel 8, vierde lid, onderdeel b, in het geval van rechtstreeks vervoer van een bedrijf, niet zijnde een verzamelcentrum, naar een slachthuis in Duitsland.  
+6.  Varkens, waarbij merkverlies is opgetreden, worden binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop het merkverlies is opgetreden, hermerkt met een merk met daarop het UBN van het bedrijf waarop het varken op dat moment verblijft, met uitzondering van slachthuizen of verzamelcentra.  
 
 ### Artikel  30  
 

@@ -104,11 +104,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. *annulering van een visum:* intrekking van een visum met terugwerkende kracht tot en met het tijdstip van de verlening;  
 
-b. *machtiging tot voorlopig verblijf:* visum voor de toegang tot Nederland voor verblijf van meer dan drie maanden;  
+b. *machtiging tot voorlopig verblijf:* visum voor de toegang tot Nederland voor verblijf van meer dan 90 dagen;  
 
 c. *terugkeervisum:* visum voor de toegang tot Nederland van een vreemdeling die Nederland tijdelijk zal verlaten;  
 
-d. *visum:* elk der visa voor toegang tot Nederland met het oog op verblijf van niet langer dan drie maanden, afgegeven door of vanwege een bevoegde autoriteit als bedoeld in een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen, alsmede de onder b en c bedoelde visa.   
+d. *visum:* elk der visa voor toegang tot Nederland met het oog op verblijf van niet langer dan 90 dagen, afgegeven door of vanwege een bevoegde autoriteit als bedoeld in een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen, alsmede de onder b en c bedoelde visa.   
 
 ###Afdeling 2 
 
@@ -137,7 +137,7 @@ d. *visum:* elk der visa voor toegang tot Nederland met het oog op verblijf van 
 
 a. een Nederlander, die in Nederland verblijft of met die vreemdeling in Nederland gaat verblijven;  
 
-b. een vreemdeling, die rechtmatig in Nederland verblijft op grond van artikel 8, onder a tot en met e of l, of die voor verblijf langer dan drie maanden in Nederland mag verblijven en met die vreemdeling in Nederland gaat verblijven;  
+b. een vreemdeling, die rechtmatig in Nederland verblijft op grond van artikel 8, onder a tot en met e of l, of die voor verblijf langer dan 90 dagen in Nederland mag verblijven en met die vreemdeling in Nederland gaat verblijven;  
 
 c. een onderneming of rechtspersoon, dan wel een vestiging daarvan, die is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007,   die ten behoeve van het voorgenomen verblijf op grond van een machtiging tot voorlopig verblijf of het verblijf op grond van een verblijfsvergunning als bedoeld in artikel 14 van een vreemdeling een schriftelijke verklaring heeft afgelegd, of die door Onze Minister als referent is aangewezen.   
 2.  Bij of krachtens algemene maatregel van bestuur: 
@@ -339,7 +339,7 @@ Indien Onze Minister overeenkomstig de aanvraag besluit, kan hij in afwijking va
 ### Artikel  2r  
 
 1.  Indien Onze Minister besluit tot verlening van een machtiging tot voorlopig verblijf stelt hij de aanvrager daarvan schriftelijk in kennis. Een machtiging tot voorlopig verblijf kan tot uiterlijk drie maanden na de dagtekening van die kennisgeving worden afgegeven. In geval de machtiging tot voorlopig verblijf niet kan worden afgegeven in het land van herkomst of bestendig verblijf, op grond dat de Nederlandse vertegenwoordiging is gesloten of zich daar niet of niet langer een Nederlandse vertegenwoordiging bevindt, kan de Onze Minister de termijn, bedoeld in de tweede volzin, eenmaal met ten hoogste drie maanden verlengen.   
-2.  De geldigheidsduur van een machtiging tot voorlopig verblijf bedraagt ten hoogste drie maanden vanaf de datum van afgifte, met dien verstande dat een machtiging tot voorlopig verblijf slechts een maal kan worden benut voor het verkrijgen van toegang tot Nederland. De geldigheid van een machtiging tot voorlopig verblijf vervalt in elk geval met ingang van het tijdstip waarop ten behoeve van de vreemdeling een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 is ingediend of een dergelijke verblijfsvergunning ambtshalve is verleend. De geldigheidsduur van een machtiging tot voorlopig verblijf kan niet worden verlengd.   
+2.  De geldigheidsduur van een machtiging tot voorlopig verblijf bedraagt ten hoogste 90 dagen vanaf de datum van afgifte, met dien verstande dat een machtiging tot voorlopig verblijf meermalen kan worden benut voor het verkrijgen van toegang tot Nederland. De geldigheid van een machtiging tot voorlopig verblijf vervalt in elk geval met ingang van het tijdstip waarop ten behoeve van de vreemdeling een verblijfsvergunning als bedoeld in artikel 14 ambtshalve is verleend. De geldigheidsduur van een machtiging tot voorlopig verblijf kan niet worden verlengd.   
 3.  De geldigheidsduur van een machtiging tot voorlopig verblijf kan de geldigheidsduur van het document voor grensoverschrijding van de vreemdeling niet overschrijden, met dien verstande dat het document voor grensoverschrijding na verloop van de machtiging tot voorlopig verblijf nog tenminste drie maanden geldig moet zijn. Onze Minister kan in bijzondere gevallen ontheffing verlenen van het bepaalde in de eerste volzin.  
 
 ### Paragraaf  2  
@@ -575,7 +575,7 @@ b. beschikt over voldoende middelen om te voorzien zowel in de kosten van zijn v
 c. geen arbeid voor een werkgever verricht in strijd met de Wet arbeid vreemdelingen;  
 
 d. geen gevaar oplevert voor de openbare orde of de nationale veiligheid.     
-2.  De termijn, bedoeld in het eerste lid, wordt ten hoogste op zes maanden bepaald. Voor bij algemene maatregel van bestuur te onderscheiden categorieën van vreemdelingen kunnen verschillende termijnen worden vastgesteld.  
+2.  De termijn, bedoeld in het eerste lid, wordt ten hoogste op 180 dagen bepaald. Voor bij algemene maatregel van bestuur te onderscheiden categorieën van vreemdelingen kunnen verschillende termijnen worden vastgesteld.  
 
 ### Afdeling  2  
 
@@ -1795,7 +1795,7 @@ In afwijking van artikel 8:104, eerste lid, van de Algemene wet bestuursrecht st
 
 a. over een besluit of handeling op grond van artikel 6, eerste lid, artikel 6a, eerste lid, hoofdstuk 4 of hoofdstuk 5;  
 
-b. over een visum voor een verblijf van drie maanden of minder;  
+b. over een visum voor een verblijf van 90 dagen of minder;  
 
 c. na toepassing van artikel 78, of  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 december 2011, nr. AI/Alg.Dir/2011/22265, houdende de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 8, eerste lid, van het Besluit taakuitoefening Inspectie Werk en Inkomen](../../../../../../../../../AMvB/besluit/taakuitoefening/inspectie/werk/en/inkomen/BWBR0013179/README.md), en de [artikelen 2, onderdeel e](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), [8, derde lid, aanhef en onderdeel a](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
+Gelet op artikel 8, eerste lid, van het Besluit taakuitoefening Inspectie Werk en Inkomen, en de artikelen 2, onderdeel e, 8, derde lid, aanhef en onderdeel a, en 23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;
 Besluit:     
 ### §  1  
 
@@ -27,7 +27,7 @@ e. *IG-team:* de inspecteur-generaal en de directeuren van de directies die ress
 
 f. *portefeuille:* de lijnverantwoordelijkheid voor een directie dan wel een door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in artikel 3, tweede lid, of een samenstel daarvan;  
 
-g. *jaarplan:* het jaarplan voor de gehele inspectie, genoemd in [artikel 8, tweede lid, tweede zin, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);  
+g. *jaarplan:* het jaarplan voor de gehele inspectie, genoemd in artikel 8, tweede lid, tweede zin, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;  
 
 h. *inspectieplan:* het door de inspecteur-generaal vastgestelde plan waarin de doelen en de inzet van de capaciteit van de inspectie, aangegeven in het jaarplan, zijn uitgedrukt in werkzaamheden en producten van de inspectie met inachtneming van de door de secretaris-generaal vastgestelde kaders.   
 
@@ -96,7 +96,7 @@ k. het na overeenstemming daarover met de inspecteur-generaal aanwijzen van een 
 
 l. het zorgdragen voor de vastlegging van de organisatie van de eigen directie en de daarbinnen geldende mandaten, volmachten en machtigingen in een organisatie-, mandaat- en volmachtbesluit voor de eigen directie;  
 
-m. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op de gedragingen van de onder hen ressorterende functionarissen;  
+m. het behandelen van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht voor zover deze betrekking hebben op de gedragingen van de onder hen ressorterende functionarissen;  
 
 n. het bijdragen aan de ontwikkeling van de inspectie.   
 
@@ -114,9 +114,9 @@ c. het verrichten van de inspectiebrede risicoanalyse en risicoanalyses voor ond
 
 d. het uitvoeren van de taken van het verbindingsbureau detacheringsarbeid, bedoeld in artikel 4, eerste lid, van Richtlijn 96/71/EG;  
 
-e. het coördineren en opstellen van het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);  
+e. het coördineren en opstellen van het handhavingsarrangement, genoemd in artikel 11 van de Wet op de bijzondere opsporingsdiensten;  
 
-f. het bijdragen aan de Integrale Rapportage Handhaving van het ministerie over de realisatie van de afspraken uit het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);  
+f. het bijdragen aan de Integrale Rapportage Handhaving van het ministerie over de realisatie van de afspraken uit het handhavingsarrangement, genoemd in artikel 11 van de Wet op de bijzondere opsporingsdiensten;  
 
 g. het verrichten van het programma- en projectmanagement;  
 
@@ -129,7 +129,7 @@ j. het verzorgen van de beleidsondersteuning en beleidsmatige signalering;
 k. het verrichten van de effectmeting betreffende de inspectie en haar activiteiten;  
 
 l. het bijdragen aan de inspectiebrede producten, genoemd in artikel 8, onderdeel d.     
-2.  Bij de in het eerste lid, onderdeel a, genoemde verantwoordelijkheid ten aanzien van de directie Opsporing wordt rekening gehouden met de [Wet op de bijzondere opsporingsdiensten](../../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md), met name waar het betreft de taken en bevoegdheden van de Minister van Veiligheid en Justitie en het College van procureurs-generaal.  
+2.  Bij de in het eerste lid, onderdeel a, genoemde verantwoordelijkheid ten aanzien van de directie Opsporing wordt rekening gehouden met de Wet op de bijzondere opsporingsdiensten, met name waar het betreft de taken en bevoegdheden van de Minister van Veiligheid en Justitie en het College van procureurs-generaal.  
 
 ### Artikel  6  
 
@@ -153,7 +153,7 @@ a. het toezicht op de naleving door werkgevers en werknemers van wet- en regelge
 
 b. de aan de minister opgedragen toezichtswerkzaamheden op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid aangewezen certificatie- en keuringsinstellingen die zijn belast met het verstrekken van certificaten dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid;  
 
-c. het toezicht op de naleving van wet- en regelgeving ten aanzien van het in de handel brengen van producten, genoemd in [artikel 1, eerste lid, onderdeel d, onder 2°, van de Warenwet](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), die bestemd zijn voor de Europese Economische Ruimte alsmede het in verband daarmee opsporen van strafbare feiten;  
+c. het toezicht op de naleving van wet- en regelgeving ten aanzien van het in de handel brengen van producten, genoemd in artikel 1, eerste lid, onderdeel d, onder 2°, van de Warenwet, die bestemd zijn voor de Europese Economische Ruimte alsmede het in verband daarmee opsporen van strafbare feiten;  
 
 d. het behandelen van klachten, signalen en verzoeken om onderzoek aangaande het niet naleven van wetgeving betreffende haar werkterrein;  
 
@@ -171,7 +171,7 @@ a. het zorgdragen voor een effectieve en efficiënte bedrijfsvoering van de insp
 
 b. het dynamisch archiefbeheer van de inspectie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering van het ministerie, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de inspectie;  
 
-c. de planning, administratie en control, waaronder mede begrepen het financiële beheer, van de inspectie, van welk beheer het afzonderlijke financiële beheer van de baten-lastendienst directie Werk en Inkomen deel uitmaakt;  
+c. de planning, administratie en control, waaronder mede begrepen het financiële beheer, van de inspectie;  
 
 d. het voorbereiden van het jaarplan, het inspectieplan en het jaarverslag van de inspectie, in samenwerking en afstemming met de overige directies van de inspectie;  
 
@@ -181,7 +181,7 @@ f. de ondersteuning van de organisatieontwikkeling van de inspectie;
 
 g. het facilitymanagement en het relatiemanagement met leveranciers van de inspectie, en de afstemming daarover met de directie Bedrijfsvoering van het ministerie, alsmede de beveiliging van personen en gebouwen;  
 
-h. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md);  
+h. het materieel beheer overeenkomstig de Regeling materieelbeheer rijksoverheid 2006 en de Regeling materieelbeheer museale voorwerpen;  
 
 i. het binnen de door de inspecteur-generaal gestelde kaders verzorgen van het informatiemanagement en de informatievoorziening van de inspectie in brede zin, waaronder mede begrepen de specifieke (beveiligings)eisen aan apparatuur voor, toegang tot de gebruiksruimten door en gebruik van informatie door medewerkers, betrokken bij de opsporing, bedoeld in artikel 10;  
 
@@ -193,7 +193,9 @@ l. het ontvangen, beoordelen en doorgeleiden van ongevalsmeldingen en overige me
 
 m. het opstellen van boete- en bestuursdwangbeschikkingen van de inspectie in het kader van toezicht en handhaving, en de executie van die beschikkingen;  
 
-n. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive.  
+n. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive; 
+
+o. de actieve openbaarmaking op grond van artikel 8 van de Wet openbaarheid van bestuur van inspectiegegevens bij zware of ernstige asbestovertredingen binnen de kaders van het daaromtrent vastgestelde beleid.  
 
 ### Artikel  9  
 
@@ -230,9 +232,9 @@ d. het bijdragen aan de totstandkoming van inspectiebrede producten als genoemd 
 
 De directie Werk en Inkomen is verantwoordelijk voor: 
 
-a. de uitvoering van de taken, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), met uitzondering van de taken, genoemd in [artikel 38, eerste en tweede lid](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en [artikelen 40](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [41 van voornoemde wet](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), voor zover zij behoren tot de verantwoordelijkheden van de directies Analyse, Programmering en Signalering en Informatiehuishouding en Inspectieondersteuning;  
+a. de uitvoering van de taken, genoemd in hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen, met uitzondering van de taken, genoemd in artikel 38, eerste en tweede lid, en artikelen 40 en 41 van voornoemde wet, voor zover zij behoren tot de verantwoordelijkheden van de directies Analyse, Programmering en Signalering en Informatiehuishouding en Inspectieondersteuning;  
 
-b. het bijdragen aan inspectiebrede producten als genoemd in [artikel 5, eerste lid](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en [artikel 8, onderdeel d](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en aan de strategie en de beleidsontwikkeling van het toezicht op het terrein van werk en inkomen, bedoeld in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
+b. het bijdragen aan inspectiebrede producten als genoemd in artikel 5, eerste lid, en artikel 8, onderdeel d, en aan de strategie en de beleidsontwikkeling van het toezicht op het terrein van werk en inkomen, bedoeld in hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
 
 ### §  4  
 
@@ -245,7 +247,7 @@ b. het bijdragen aan inspectiebrede producten als genoemd in [artikel 5, eerste 
 
 a. de in artikel 4, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;  
 
-b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
+b. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
 3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.   
 4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.   
 5.  De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst: 
@@ -263,7 +265,7 @@ e. overeenkomsten met betrekking tot raden en commissies;
 f. overeenkomsten met betrekking tot onderzoek;  
 
 g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.     
-6.  De in het eerste lid genoemde bevoegdheid omvat voor de directeur van de directie Werk en Inkomen mede de bevoegdheid tot het maken van werkafspraken met de directeur van de Auditdienst van het ministerie over de uitvoering van door de inspecteur-generaal vastgestelde plannen betreffende de door de Auditdienst van het ministerie in opdracht van de directie Werk en Inkomen in enig jaar uit te voeren werkzaamheden ten behoeve van het rechtmatigheids- en doelmatigheidstoezicht (exclusief doeltreffendheid) van de directie Werk en Inkomen, voor zover dat is gericht op het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, genoemd in [artikel 2](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), respectievelijk [artikel 3 van de Wet structuur uitvoering werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en over afzonderlijk door de inspecteur-generaal in bovengenoemde functie aan de directeur van de Auditdienst opgedragen werkzaamheden.   
+6.  De in het eerste lid genoemde bevoegdheid omvat voor de directeur van de directie Werk en Inkomen mede de bevoegdheid tot het maken van werkafspraken met de directeur van de Auditdienst van het ministerie over de uitvoering van door de inspecteur-generaal vastgestelde plannen betreffende de door de Auditdienst van het ministerie in opdracht van de directie Werk en Inkomen in enig jaar uit te voeren werkzaamheden ten behoeve van het rechtmatigheids- en doelmatigheidstoezicht (exclusief doeltreffendheid) van de directie Werk en Inkomen, voor zover dat is gericht op het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, genoemd in artikel 2, respectievelijk artikel 3 van de Wet structuur uitvoering werk en inkomen, en over afzonderlijk door de inspecteur-generaal in bovengenoemde functie aan de directeur van de Auditdienst opgedragen werkzaamheden.   
 7.  Het mandaat, bedoeld in het eerste lid, omvat niet het nemen van besluiten in bezwaar- en beroepsprocedures, welke bevoegdheid is voorbehouden aan de inspecteur-generaal, onverminderd mandatering daarvan aan een andere functionaris.  
 
 ### Artikel  13  
@@ -299,18 +301,18 @@ d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling 
 
 ####Intrekking en wijziging grondslag regelingen
 
-1.  Het [Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Sociale Zaken en Werkgelegenheid 2010](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md) wordt ingetrokken.   
-2.  Na de inwerkingtreding van deze regeling berusten de volgende regelingen die zijn genomen op grond van [artikel 3, eerste lid, onderdeel k](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md), en [18 van het Organisatie- mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md), op artikel 4, onderdeel k, en 14 van deze regeling: 
+1.  Het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Sociale Zaken en Werkgelegenheid 2010 wordt ingetrokken.   
+2.  Na de inwerkingtreding van deze regeling berusten de volgende regelingen die zijn genomen op grond van artikel 3, eerste lid, onderdeel k, en 18 van het Organisatie- mandaat- en volmachtbesluit inspecteur-generaal SZW 2010, op artikel 4, onderdeel k, en 14 van deze regeling: 
 
-a. het [Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsmarktfraude 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/ai/arbeidsmarktfraude/etc/BWBR0025764/README.md);  
+a. het Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsmarktfraude 2009;  
 
-b. het [Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsomstandigheden 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/ai/arbeidsomstandigheden/etc/BWBR0025606/README.md);  
+b. het Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsomstandigheden 2009;  
 
-c. het [Organisatie-, mandaat- en volmachtbesluit directie AI Major Hazard Control 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/ai/major/hazard/control/etc/BWBR0025757/README.md);  
+c. het Organisatie-, mandaat- en volmachtbesluit directie AI Major Hazard Control 2009;  
 
-d. het [Organisatie-, mandaat- en volmachtbesluit SIOD 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/siod/2009/BWBR0025372/README.md);  
+d. het Organisatie-, mandaat- en volmachtbesluit SIOD 2009;  
 
-e. het [Organisatie-, mandaat- en volmachtbesluit Inspectie Werk en Inkomen 2010](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspectie/werk/en/inkomen/2010/BWBR0028438/README.md).    
+e. het Organisatie-, mandaat- en volmachtbesluit Inspectie Werk en Inkomen 2010.    
 
 ### Artikel  16  
 

@@ -50,7 +50,7 @@ richtlijn 2005/71/EG: richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betre
 
 richtlijn 2009/50/EG: Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);  
 
-Schengen Informatiesysteem: het in titel IV van de Schengen Uitvoeringsovereenkomst bedoelde gemeenschappelijke informatiesysteem;  
+Schengeninformatiesysteem: het in artikel 1, eerste lid, van de Verordening (EG) nr. 1987/2006 van het Europees parlement en de Raad van 20 december 2006 betreffende de instelling, de werking en het gebruik van het Schengensysteem van de tweede generatie (SIS II) bedoelde informatiesysteem (PbEU 2006, L 381);  
 
 Schengen Uitvoeringsovereenkomst: de op 19 juni 1990 te Schengen tot stand gekomen Overeenkomst ter uitvoering van het tussen de regeringen van de staten van de Benelux Economische Unie, de bondsrepubliek Duitsland en de Franse republiek op 14 juni 1985 te Schengen gesloten akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen (Trb. 1990, 145), alsmede de daarop gebaseerde Protocollen;  
 
@@ -449,11 +449,11 @@ De ambtenaar belast met de grensbewaking vernietigt de op grond van artikel 2.2a
 
 1. Onverminderd de overige terzake bij de Wet gestelde vereisten, wordt toegang tot Nederland niet geweigerd op grond van artikel 3, eerste lid, onder a, van de Wet, indien de vreemdeling in het bezit is van:
 
-a.een geldig document voor grensoverschrijding dat is voorzien van een geldige machtiging tot voorlopig verblijf, indien hij zich naar Nederland begeeft voor een verblijf aldaar van langer dan drie maanden, of
+a.een geldig document voor grensoverschrijding dat is voorzien van een geldige machtiging tot voorlopig verblijf, indien hij zich naar Nederland begeeft voor een verblijf aldaar van langer dan 90 dagen, of
 
 b.een door Onze Minister afgegeven verklaring die aan hem recht geeft op terugkeer naar Nederland. 
 2. Een afzonderlijke geldige machtiging tot voorlopig verblijf wordt gelijkgesteld met een geldig document voor grensoverschrijding, indien de vreemdeling tevens in het bezit is van het in deze machtiging vermelde document. 
-3. In afwijking van het eerste lid wordt toegang niet geweigerd indien de vreemdeling zich naar Nederland begeeft voor een verblijf van langer dan drie maanden en hij in het bezit is van een geldig document voor grensoverschrijding waarin de benodigde machtiging tot voorlopig verblijf ontbreekt, mits de vreemdeling:
+3. In afwijking van het eerste lid wordt toegang niet geweigerd indien de vreemdeling zich naar Nederland begeeft voor een verblijf van langer dan 90 dagen en hij in het bezit is van een geldig document voor grensoverschrijding waarin de benodigde machtiging tot voorlopig verblijf ontbreekt, mits de vreemdeling:
 
 a.de nationaliteit bezit van één van bij ministeriële regeling aan te wijzen staten, of
 
@@ -508,11 +508,13 @@ b. de vreemdeling in het opsporingsregister of het Schengen Informatiesysteem te
 
 a. het deponeren van een retour-passagebiljet;  
 
-b. het deponeren van een garantiesom, of  
+b. het deponeren van een garantiesom,  
 
-c. het stellen van een bankgarantie.    
+c. het stellen van een bankgarantie, of 
+
+d. een garantstelling door een derde die daartoe solvabel is.    
 3. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in artikel 8, onder e, dan wel l, van de Wet, het familielid, bedoeld in artikel 8.7, tweede en derde lid, en de vreemdeling, bedoeld in artikel 8.7, vierde lid. 
-4. De in het eerste lid bedoeld voorwaarde om zekerheid te stellen voor de kosten van verblijf in Nederland en voor de kosten van zijn reis naar een plaats buiten Nederland waar zijn toegang is gewaarborgd, kan, op grond van artikel 5, derde lid, van de Schengengrenscode, ook worden gesteld ten aanzien van een onderdaan van een derde land die toegang vraagt voor een verblijf van ten hoogste drie maanden per periode van zes maanden. 
+4. De in het eerste lid bedoeld voorwaarde om zekerheid te stellen voor de kosten van verblijf in Nederland en voor de kosten van zijn reis naar een plaats buiten Nederland waar zijn toegang is gewaarborgd, kan, op grond van artikel 5, derde lid, van de Schengengrenscode, ook worden gesteld ten aanzien van een onderdaan van een derde land die toegang vraagt voor een verblijf voor ten hoogste 90 dagen binnen een periode van 180 dagen. 
 5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de zekerheidstelling. 
 
 ### Hoofdstuk  3  
@@ -588,17 +590,17 @@ a. voor houders van een doorreisvisum en voor vreemdelingen aan wie uitsluitend 
 
 b. voor houders van een doorreisvisum met bevoegdheid tot oponthoud of van een reisvisum: de duur waarvoor het visum is afgegeven of verlengd dan wel, voorzover het een visum voor meer reizen betreft, de in het visum aangegeven duur waarvoor ononderbroken verblijf is toegestaan;  
 
-c. voor vreemdelingen die voor een verblijf van niet langer dan drie maanden naar Nederland zijn gekomen: drie maanden of, in geval van verlenging door Onze Minister van de termijn wegens bijzondere omstandigheden, zes maanden;  
+c. voor vreemdelingen die voor een verblijf van niet langer dan 90 dagen naar Nederland zijn gekomen: 90 dagen of, in geval van verlenging door Onze Minister van de termijn wegens bijzondere omstandigheden, 180 dagen;  
 
-d. voor houders van een visum voor verblijf van langere duur of een verblijfstitel als bedoeld in artikel 18, eerste lid, onderscheidenlijk artikel 21, eerste lid, van de Schengen Uitvoeringsovereenkomst: drie maanden of, in geval van verlenging door Onze Minister van de termijn wegens bijzondere omstandigheden, zes maanden; 
+d. voor houders van een visum voor verblijf van langere duur of een verblijfstitel als bedoeld in artikel 18, eerste lid, onderscheidenlijk artikel 21, eerste lid, van de Schengen Uitvoeringsovereenkomst: 90 dagen of, in geval van verlenging door Onze Minister van de termijn wegens bijzondere omstandigheden, 180 dagen; 
 
 e. voor houders van een geldige machtiging tot voorlopig verblijf: de tijd tot de vreemdeling rechtmatig verblijf in de zin van artikel 8, onder a, van de Wet verkrijgt, maar niet langer dan de geldigheidsduur van de machtiging; 
 
-f.voor de houder van een EU-verblijfsvergunning voor langdurig ingezetenen die is afgegeven door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie, dan wel voor de echtgenoot of het minderjarig kind van die houder in geval het gezin reeds was gevormd in die staat: drie maanden;
+f.voor de houder van een EU-verblijfsvergunning voor langdurig ingezetenen die is afgegeven door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie, dan wel voor de echtgenoot of het minderjarig kind van die houder in geval het gezin reeds was gevormd in die staat: 90 dagen;
 
 g. voor andere vreemdelingen: acht dagen.     
-2.  De in het eerste lid, onder b en c, bedoelde termijn verstrijkt in geen geval later dan op de achtste dag nadat zich omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan drie maanden binnen een tijdvak van zes maanden in Nederland te verblijven.   
-3.  In afwijking van het tweede lid verstrijkt de termijn, bedoeld in het eerste lid, onderdeel c, in geval van verlenging wegens bijzondere omstandigheden, niet later dan op de achtste dag nadat zich feiten of omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan zes maanden in Nederland te verblijven. 
+2.  De in het eerste lid, onder b en c, bedoelde termijn verstrijkt in geen geval later dan op de achtste dag nadat zich omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan 90 dagen binnen een tijdvak van 180 dagen in Nederland te verblijven.   
+3.  In afwijking van het tweede lid verstrijkt de termijn, bedoeld in het eerste lid, onderdeel c, in geval van verlenging wegens bijzondere omstandigheden, niet later dan op de achtste dag nadat zich feiten of omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan 180 dagen in Nederland te verblijven. 
 
 ### Afdeling  2  
 
@@ -2638,9 +2640,9 @@ a. voor vreemdelingen die rechtmatig verblijven als bedoeld in artikel 8, onder 
 
 b. voor vreemdelingen die rechtmatig verblijven als bedoeld in artikel 8 onder e, van de Wet: een geldig nationaal paspoort of geldige identiteitskaart, indien zij de nationaliteit van een staat bezitten als bedoeld in artikel 8.7, eerste lid, of, indien zij een zodanige nationaliteit niet bezitten:
 
-1°.een geldig nationaal paspoort met een voor inreis benodigd visum, indien na inreis nog geen drie maanden zijn verstreken;
+1°.een geldig nationaal paspoort met een voor inreis benodigd visum, indien na inreis nog geen 90 dagen zijn verstreken;
 
-2°.een geldig nationaal paspoort met een stempel van de inreis, indien voor inreis geen visum benodigd is en na inreis nog geen drie maanden zijn verstreken;
+2°.een geldig nationaal paspoort met een stempel van de inreis, indien voor inreis geen visum benodigd is en na inreis nog geen 90 dagen zijn verstreken;
 
 3°.een geldig nationaal paspoort met een door de bevoegde autoriteiten afgegeven verklaring als bedoeld in artikel 8.13, vierde lid, indien na afgifte van de verklaring nog geen zes maanden zijn verstreken; of
 
@@ -2907,7 +2909,7 @@ b. het zich laten fotograferen en het laten afnemen van vingerafdrukken.
 
 ### Artikel  4.46  
 
-1.  De vreemdeling die naar Nederland is gekomen voor een verblijf van langer dan drie maanden, werkt op grond van artikel 54, eerste lid, onderdeel d, van de Wet mee aan een onderzoek naar tuberculose.   
+1.  De vreemdeling die naar Nederland is gekomen voor een verblijf van langer dan 90 dagen, werkt op grond van artikel 54, eerste lid, onderdeel d, van de Wet mee aan een onderzoek naar tuberculose.   
 2.  Het eerste lid geldt niet voor onderdanen van een staat die partij is bij het Verdrag betreffende de werking van de Europese Unie, onderdanen van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, Australië, Canada, Israël, Japan, Monaco, Nieuw Zeeland, Suriname, de Verenigde Staten van Amerika en Zwitserland. Het eerste lid is evenmin van toepassing op familieleden als bedoeld in artikel 8.7, tweede, derde en vierde lid, die voor hun komst naar Nederland reeds rechtmatig verblijf hebben verkregen in een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte dan wel Zwitserland en die zich vanuit die staat dan wel Zwitserland naar Nederland verplaatsen. 
 
 ### Paragraaf  5  
@@ -2916,13 +2918,13 @@ b. het zich laten fotograferen en het laten afnemen van vingerafdrukken.
 
 ### Artikel  4.47  
 
-1.  De vreemdeling die rechtmatig verblijft als bedoeld in artikel 8, onder i, van de Wet en die naar Nederland is gekomen voor een verblijf van langer dan drie maanden, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij Onze Minister.   
-2.  Voor de berekening van de in het eerste lid bedoelde termijn van drie maanden wordt eerder verblijf in Nederland binnen een tijdvak van zes maanden, onmiddellijk voorafgaande aan de binnenkomst, mede in aanmerking genomen.   
+1.  De vreemdeling die rechtmatig verblijft als bedoeld in artikel 8, onder i, van de Wet en die naar Nederland is gekomen voor een verblijf van langer dan 90 dagen, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij Onze Minister.   
+2.  Voor de berekening van de in het eerste lid bedoelde termijn van 90 dagen wordt eerder verblijf in Nederland binnen een tijdvak van 180 dagen, onmiddellijk voorafgaande aan de binnenkomst, mede in aanmerking genomen.   
 3.  Indien de vreemdeling jonger is dan twaalf jaar, doet degene bij wie de vreemdeling woont of verblijft de melding.  
 
 ### Artikel  4.48  
 
-1.  De vreemdeling die rechtmatig verblijft als bedoeld in artikel 8, onder i, van de Wet en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef.   
+1.  De vreemdeling die rechtmatig verblijft als bedoeld in artikel 8, onder i, van de Wet en die naar Nederland is gekomen voor een verblijf van ten hoogste 90 dagen, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef.   
 2.  Een verplichting tot aanmelding krachtens het voorgaande lid rust ten aanzien van de vreemdeling beneden de leeftijd van twaalf jaar op degene bij wie de vreemdeling woont of verblijft.   
 3.  Het eerste lid is niet van toepassing op de vreemdeling die zijn intrek neemt in een hotel of in een inrichting, waarvan de eigenaar, houder of beheerder bij of krachtens gemeentelijke verordening verplicht is aan de daartoe aangewezen autoriteit kennis te geven van het verschaffen van nachtverblijf aan personen.  
 
@@ -3246,7 +3248,7 @@ g. in aanmerking komt voor een verblijfsvergunning op grond van Besluit 1/80 van
 ### Artikel  6.5a  
 
 1.  De duur van het inreisverbod bedraagt ten hoogste twee jaren.   
-2.  In afwijking van het eerste lid, bedraagt de duur van het inreisverbod ten hoogste één jaar, indien het betreft de vreemdeling die de vrije termijn, bedoeld in artikel 3.3, heeft overschreden met meer dan drie dagen maar niet meer dan drie maanden.   
+2.  In afwijking van het eerste lid, bedraagt de duur van het inreisverbod ten hoogste één jaar, indien het betreft de vreemdeling die de vrije termijn, bedoeld in artikel 3.3, heeft overschreden met meer dan drie dagen maar niet meer dan 90 dagen.   
 3.  In afwijking van het eerste en tweede lid, bedraagt de duur van het inreisverbod ten hoogste drie jaren, indien het betreft een vreemdeling die is veroordeeld tot een vrijheidsstraf van minder dan zes maanden.   
 4.  In afwijking van het eerste tot en met derde lid, bedraagt de duur van het inreisverbod ten hoogste vijf jaren, indien het betreft een vreemdeling die: 
 

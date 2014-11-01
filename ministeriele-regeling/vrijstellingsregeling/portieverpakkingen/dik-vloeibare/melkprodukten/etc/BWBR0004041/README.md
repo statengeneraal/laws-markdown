@@ -3,12 +3,12 @@
 ##Vrijstellingsregeling Portieverpakkingen dik-vloeibare melkprodukten (Warenwet)
 
 De staatssecretaris van Welzijn, Volksgezondheid en Cultuur, de minister van Landbouw en Visserij en de staatssecretaris van Economische Zaken, A. J. Evenhuis,  
-Gelet op [artikel 14, vierde lid, van de Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (Stb. 1935, 793);
+Gelet op artikel 14, vierde lid, van de Warenwet (Stb. 1935, 793);
 Besluiten    
 
 ### Artikel  1  
 
-Vrijstelling wordt verleend van het bepaalde in [artikel 9, derde lid, onder a, van het Hoeveelheidsaanduidingenbesluit (Warenwet)](../../../../../../../AMvB/hoeveelheidsaanduidingenbesluit/(warenwet)/BWBR0003310/README.md) (Stb. 1980, 223) ten aanzien van voorverpakte dik-vloeibare melkprodukten, krachtens welke bepaling de hoeveelheid van bedoelde waren moet zijn uitgedrukt in liter, centiliter of milliliter, onder de volgende voorwaarden: 
+Vrijstelling wordt verleend van het bepaalde in artikel 9, derde lid, onder a, van het Hoeveelheidsaanduidingenbesluit (Warenwet) (Stb. 1980, 223) ten aanzien van voorverpakte dik-vloeibare melkprodukten, krachtens welke bepaling de hoeveelheid van bedoelde waren moet zijn uitgedrukt in liter, centiliter of milliliter, onder de volgende voorwaarden: 
 
 a. de hoeveelheid moet zijn uitgedrukt in grammen; 
 

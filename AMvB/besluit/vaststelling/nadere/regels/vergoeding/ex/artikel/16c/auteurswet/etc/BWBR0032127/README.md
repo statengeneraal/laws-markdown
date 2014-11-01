@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 5 oktober 2012, nr. 309523;
 
-Gelet op [artikel 16c, zesde lid, van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), en [artikel 10, onderdeel e, van de Wet op de naburige rechten](../../../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md);
+Gelet op artikel 16c, zesde lid, van de Auteurswet, en artikel 10, onderdeel e, van de Wet op de naburige rechten;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 19 oktober 2012, nr. W03.12.0398/II);
 
@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De vergoeding en de voorwerpen waarop deze rust, bedoeld in [artikel 16c van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), zijn opgenomen in de bijlage bij dit besluit. De stichting die is aangewezen overeenkomstig [artikel 16e van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) kan Onze Minister van Veiligheid en Justitie voorstellen doen tot wijziging van deze bijlage. 
+De vergoeding en de voorwerpen waarop deze rust, bedoeld in artikel 16c van de Auteurswet, zijn opgenomen in de bijlage bij dit besluit. De stichting die is aangewezen overeenkomstig artikel 16e van de Auteurswet kan Onze Minister van Veiligheid en Justitie voorstellen doen tot wijziging van deze bijlage. 
 
 ### Artikel  2  
 
-1.  Het totaal van de geïnde vergoedingen, bedoeld in [artikel 16c van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), dat door de in [artikel 16d van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde rechtspersoon niet in de drie kalenderjaren volgend op het kalenderjaar van inning onder de rechthebbenden is verdeeld, wordt in het daarop volgende kalenderjaar, vermeerderd met de daarover ontvangen rente en andere baten, als zijnde niet verschuldigd in mindering gebracht op de door fabrikanten en importeurs, bedoeld in artikel 16c, tweede lid, van de Auteurswet, voor dat kalenderjaar verschuldigde vergoedingen. Indien er in het laatstgenoemde kalenderjaar geen vergoedingen van kracht zijn, wordt het in de vorige zin bedoelde totaal van de geïnde vergoedingen, vermeerderd met de daarover ontvangen rente en andere baten, als zijnde niet verschuldigd terugbetaald aan de fabrikanten en importeurs die een vergoeding hebben betaald in het kalenderjaar van inning.   
-2.  Dit artikel is van overeenkomstige toepassing op vergoedingen voor het reproduceren van beschermd materiaal, als bedoeld in [artikel 10, onderdeel e, van de Wet op de naburige rechten](../../../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md).  
+1.  Het totaal van de geïnde vergoedingen, bedoeld in artikel 16c van de Auteurswet, dat door de in artikel 16d van de Auteurswet bedoelde rechtspersoon niet in de drie kalenderjaren volgend op het kalenderjaar van inning onder de rechthebbenden is verdeeld, wordt in het daarop volgende kalenderjaar, vermeerderd met de daarover ontvangen rente en andere baten, als zijnde niet verschuldigd in mindering gebracht op de door fabrikanten en importeurs, bedoeld in artikel 16c, tweede lid, van de Auteurswet, voor dat kalenderjaar verschuldigde vergoedingen. Indien er in het laatstgenoemde kalenderjaar geen vergoedingen van kracht zijn, wordt het in de vorige zin bedoelde totaal van de geïnde vergoedingen, vermeerderd met de daarover ontvangen rente en andere baten, als zijnde niet verschuldigd terugbetaald aan de fabrikanten en importeurs die een vergoeding hebben betaald in het kalenderjaar van inning.   
+2.  Dit artikel is van overeenkomstige toepassing op vergoedingen voor het reproduceren van beschermd materiaal, als bedoeld in artikel 10, onderdeel e, van de Wet op de naburige rechten.  
 
 ### Artikel  3  
 
-Het [Besluit van 5 november 2007, houdende aanwijzing van de voorwerpen, bedoeld in artikel 16c van de Auteurswet 1912, en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet 1912](../../../../../../../../../../../../AMvB/besluit/vaststelling/nadere/regels/vergoeding/ex/artikel/16c/auteurswet/etc/BWBR0022785/README.md) (Stb. 435) vervalt. 
+Het Besluit van 5 november 2007, houdende aanwijzing van de voorwerpen, bedoeld in artikel 16c van de Auteurswet 1912, en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet 1912 (Stb. 435) vervalt. 
 
 ### Artikel  4  
 
@@ -47,9 +47,9 @@ I. W. Opstelten
 
 ### Bijlage 
 
-#### bij het Besluit van 23 oktober 2012, houdende aanwijzing van de voorwerpen, bedoeld in [artikel 16c van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet
+#### bij het Besluit van 23 oktober 2012, houdende aanwijzing van de voorwerpen, bedoeld in artikel 16c van de Auteurswet, en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet
 
-Op de volgende voorwerpen, bestemd om een werk ten gehore te brengen, te vertonen of weer te geven, rust de volgende vergoeding, als bedoeld in [artikel 16c van de Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md):  
+Op de volgende voorwerpen, bestemd om een werk ten gehore te brengen, te vertonen of weer te geven, rust de volgende vergoeding, als bedoeld in artikel 16c van de Auteurswet:  
 
 | --- | --- | --- |
 |:---|:---|:---|

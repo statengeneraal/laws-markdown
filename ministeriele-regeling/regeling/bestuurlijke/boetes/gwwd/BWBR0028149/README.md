@@ -31,7 +31,7 @@ In deze regeling wordt verstaan onder:
 
 ####(hoogte bestuurlijke boetes)
 
-1.  De hoogte van de bestuurlijke boetes die de Minister op grond van artikel 120b van de wet voor overtredingen als bedoeld in artikel 120a, eerste lid, onderdeel a, van de wet kan opleggen, wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlagen 1 of 2 voor de desbetreffende overtredingen zijn vastgelegd.   
+1.  De hoogte van de bestuurlijke boetes die de Minister op grond van artikel 120b van de wet voor overtredingen als bedoeld in artikel 120a, eerste lid, onderdeel a, van de wet kan opleggen, wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlagen 1, 2 of 3 voor de desbetreffende overtredingen zijn vastgelegd.   
 2.  De bedragen bij de boetecategorieën, bedoeld in het eerste lid, zijn: 
 
 a. voor de categorie geringe overtredingen: € 500,−;  
@@ -239,4 +239,21 @@ In deze bijlage worden de definities gebruikt van de Regeling preventie, bestrij
 | regeling preventie  | artikel 34, tweede lid  | vervoerder  | evenhoevigen  | bewijs van R&O van vervoermiddel, gebruikt voor transport van dieren uit lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z is bevestigd, wordt niet overgelegd  | overtreding  |
 | regeling preventie  | artikel 35  | vervoerder  | evenhoevigen  | bewijs van R&O van leeg vervoermiddel, gebruikt voor transport van dieren in lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van d Regeling preventie is bevestigd of in derde land, wordt niet of niet tijdig overgelegd  | overtreding  |
 | Regeling Preventie  | 35  | Vervoerder  |    | leeg vervoermiddel, gebruikt voor transport van dieren in lidstaat waar uitbraak van een besmettelijke ziekte als bedoeld in artikel 2, onderdelen a, b, c, d, l, s, t, u, v, x, y of z van de Regeling preventie is bevestigd of in derde land, wordt niet onmiddellijk gereinigd en ontsmet op een erkende R&O-plaats  | ernstige overtreding  |
+
+### Bijlage  3  
+
+– In deze bijlage worden de definities gebruikt van de Regeling identificatie en registratie van dieren en de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s.  
+
+– Overtreding van de norm is verboden op grond van artikel 39 van de Regeling identificatie en registratie van dieren.    
+
+| Titel  | Artikel  | Normadressaat  | Omschrijving normoverschrijding  | Categorieindeling overtreding  |
+|:---|:---|:---|:---|:---|
+| Regeling identificatie en registratie van dieren  | Artikel 8, vierde lid  | Houder, vervoerder, exploitant verzamelcentrum  | Varken is gemerkt met een slachtmerk als bedoeld in artikel 12k en een merk als bedoeld in artikel 12o  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 8, vierde lid  | Houder, vervoerder, exploitant verzamelcentrum  | Varken bevindt zich op een verzamelcentrum en is gemerkt met een merk als bedoeld in artikel 12o  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 8, vierde lid  | Houder, vervoerder  | Varken bevindt zich op een bedrijf waarvandaan de varkens niet rechtstreeks voor de slacht naar een slachterij in Duitsland worden afgevoerd en is gemerkt met een merk als bedoeld in artikel 12o  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 8, vierde lid  | Houder, vervoerder  | Varken bevindt zich in een vervoersmiddel op weg naar een verzamelcentrum, een bestemming niet gelegen in Duitsland of een bestemming in Duitsland niet zijnde een slachthuis en is gemerkt met een merk als bedoeld in artikel 12o  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 12o, eerste lid  | Houder, vervoerder, exploitant verzamelcentrum  | Varken is gemerkt met een merk, dat niet bestaat uit het UBN van het bedrijf waarvan het varken voor de slacht wordt afgevoerd  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 12o, eerste lid  | Houder, vervoerder  | Varken is gemerkt met een merkteken dat niet is aangebracht op een van de schouders van het slachtvarken, of het merkteken is niet in de kleuren zwart of groen aangebracht, of het merkteken is meerdere keren op het varken aangebracht, of het merkenteken is niet goed leesbaar  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 12o, eerste lid  | Houder, vervoerder  | Het aanbrengen van het merk heeft plaatsgevonden met een instrument dat niet voldoet aan de eisen, bedoeld in artikel 12o, eerste lid, onderdeel c  | Overtreding  |
+| Regeling identificatie en registratie van dieren  | Artikel 12o, tweede lid  | Houder, vervoerder  | Het aanbrengen van het merk komt niet overeen met de handelswijze, bedoeld in artikel 12o, tweede lid  | Overtreding  |
 
