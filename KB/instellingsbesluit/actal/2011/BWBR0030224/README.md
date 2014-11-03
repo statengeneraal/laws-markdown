@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 10 juni 2011, nr. WJZ / 11073496, gedaan mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op [artikel 5, eerste lid, van de Kaderwet adviescolleges](../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md);
+Gelet op artikel 5, eerste lid, van de Kaderwet adviescolleges;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
@@ -23,6 +23,15 @@ b. over de gevolgen van voorgenomen wet- en regelgeving voor de regeldruk voor b
 
 c. over strategische vraagstukken op het terrein van regeldruk, mede op basis van signalen uit het bedrijfsleven en georganiseerde verbanden van burgers en beroepsbeoefenaren in de sectoren zorg, onderwijs, veiligheid en sociale zekerheid.   
 
+### Artikel  2a  
+
+1.  Het college heeft tevens tot taak het op verzoek van gemeenten adviseren van die gemeenten: 
+
+a. over de gevolgen van voorgenomen verordeningen en andere gemeentelijke regels voor de regeldruk voor bedrijfsleven, burgers en beroepsbeoefenaren in de sectoren zorg, onderwijs, veiligheid en sociale zekerheid;  
+
+b. over strategische vraagstukken op het terrein van regeldruk.     
+2.  Het eerste lid is van overeenkomstige toepassing op een verzoek dat wordt ingediend door het bestuur van de Vereniging van Nederlandse Gemeenten.  
+
 ### Artikel  3  
 
 Voor zover het college dat nodig acht voor het uitoefenen van de taak, bedoeld in artikel 2, eerste lid, aanhef en onder a, heeft het college toegang tot de kwantitatieve en kwalitatieve onderbouwing die ten grondslag ligt aan de in een individueel dossier berekende effecten op de regeldruk. 
@@ -30,7 +39,8 @@ Voor zover het college dat nodig acht voor het uitoefenen van de taak, bedoeld i
 ### Artikel  4  
 
 1.  Bij het uitoefenen van de taak, bedoeld in artikel 2, aanhef en onder b, brengt het college zijn advies uit binnen vier weken na ontvangst van de relevante stukken.   
-2.  Indien de regelgeving inhoudelijk zodanig complex is dat het college zich niet in redelijkheid binnen de termijn van het eerste lid een afgewogen oordeel kan vormen, kan het college besluiten zijn advies ten hoogste vier weken later uit te brengen.  
+2.  Indien de regelgeving inhoudelijk zodanig complex is dat het college zich niet in redelijkheid binnen de termijn van het eerste lid een afgewogen oordeel kan vormen, kan het college besluiten zijn advies ten hoogste vier weken later uit te brengen.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op de uitvoering van de taak, bedoeld in artikel 2a, met dien verstande dat, in afwijking van die leden, het college bij het uitoefenen van de taak, bedoeld in artikel 2a, prioriteiten kan aanbrengen bij de behandeling van de verzoeken die worden ontvangen, op basis van de omvang van de achterliggende problematiek en het aantal gemeenten dat een adviesverzoek indient. 
 
 ### Artikel  5  
 
@@ -38,11 +48,11 @@ Het college bestaat uit een voorzitter en ten hoogste drie andere leden.
 
 ### Artikel  6  
 
-Na beëindiging van de werkzaamheden draagt het college het archief over aan Onze Minister van Economische Zaken, Landbouw en Innovatie. 
+Na beëindiging van de werkzaamheden draagt het college het archief over aan Onze Minister van Economische Zaken. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2011. Dit besluit vervalt met ingang van 1 juni 2015. 
+Dit besluit vervalt met ingang van 1 juni 2017. 
 
 ### Artikel  8  
 

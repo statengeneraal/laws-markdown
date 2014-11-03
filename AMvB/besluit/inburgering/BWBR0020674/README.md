@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister voor Vreemdelingenzaken en Integratie van 10 juli 2006, Directie Wetgeving, nr. 5430382/06/6;
 
-Gelet op de [artikelen 3, tweede en derde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [5, eerste lid, onderdeel c, derde en vierde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [6, tweede lid, onderdeel b](../../../../wet/wet/inburgering/BWBR0020611/README.md), [7, tweede lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [13, vierde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [15, vierde, vijfde en zesde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [16, eerste, derde, vierde en vijfde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [18, eerste, derde en vierde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [19, eerste lid, onderdeel a, en tweede lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [23, vijfde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [28](../../../../wet/wet/inburgering/BWBR0020611/README.md), [31, derde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [47, tweede lid, onderdeel a, en derde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [48, tweede lid, onderdelen a en b, en derde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [52, derde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), [64, vierde lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), en [73 van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) en de [artikelen 16a, tweede lid](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [21, zesde lid](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [34, tweede lid, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), de [artikelen 64, negende lid](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en [67, derde lid, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 17, derde lid, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op de artikelen 3, tweede en derde lid, 5, eerste lid, onderdeel c, derde en vierde lid, 6, tweede lid, onderdeel b, 7, tweede lid, 13, vierde lid, 15, vierde, vijfde en zesde lid, 16, eerste, derde, vierde en vijfde lid, 18, eerste, derde en vierde lid, 19, eerste lid, onderdeel a, en tweede lid, 23, vijfde lid, 28, 31, derde lid, 47, tweede lid, onderdeel a, en derde lid, 48, tweede lid, onderdelen a en b, en derde lid, 52, derde lid, 64, vierde lid, en 73 van de Wet inburgering en de artikelen 16a, tweede lid, 21, zesde lid, en 34, tweede lid, van de Vreemdelingenwet 2000, de artikelen 64, negende lid, en 67, derde lid, van de Wet werk en bijstand en artikel 17, derde lid, van de Financiële-verhoudingswet;
 
 De Raad van State gehoord (advies van 23 oktober 2006, nr. W03.06.0323/I);
 
@@ -20,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: de [Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+a. wet: de Wet inburgering;  
 
-b. inburgeringsdiploma: het diploma, bedoeld in [artikel 7, vierde lid, onderdeel g, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), ten bewijze waarvan het inburgeringsexamen is behaald;  
+b. inburgeringsdiploma: het diploma, bedoeld in artikel 7, vierde lid, onderdeel g, van de wet, ten bewijze waarvan het inburgeringsexamen is behaald;  
 
-c. Informatiesysteem Inburgering: het informatiesysteem, bedoeld in [artikel 47 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+c. Informatiesysteem Inburgering: het informatiesysteem, bedoeld in artikel 47 van de wet;  
 
-d. rijksbijdrage: de rijksbijdrage, bedoeld in [artikel 52 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals dat artikel luidde voor de datum van inwerkingtreding van de [Wet participatiebudget](../../../../wet/wet/participatiebudget/BWBR0025039/README.md);  
+d. rijksbijdrage: de rijksbijdrage, bedoeld in artikel 52 van de wet, zoals dat artikel luidde voor de datum van inwerkingtreding van de Wet participatiebudget;  
 
-e. lening: de lening, bedoeld in [artikel 16 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+e. lening: de lening, bedoeld in artikel 16 van de wet;  
 
-f.Wet inburgering nieuwkomers: [Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) zoals die luidde op 31 december 2006. 
+f.Wet inburgering nieuwkomers: Wet inburgering nieuwkomers zoals die luidde op 31 december 2006. 
 
 ### Hoofdstuk  2  
 
@@ -42,7 +42,7 @@ f.Wet inburgering nieuwkomers: [Wet inburgering nieuwkomers](../../../../wet/wet
 
 ### Artikel  2.1  
 
-1.  Het doel van het verblijf in Nederland van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien die verblijfsvergunning is verleend onder een beperking verband houdend met: 
+1.  Het doel van het verblijf in Nederland van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000 is tijdelijk in de zin van artikel 3, eerste lid, onderdeel a, van de wet, indien die verblijfsvergunning is verleend onder een beperking verband houdend met: 
 
 a. uitwisseling, al dan niet in het kader van een verdrag;  
 
@@ -72,25 +72,25 @@ m. verblijf als familie- of gezinslid bij een persoon die voor een tijdelijk doe
 
 n. medische behandeling;  
 
-o. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+o. het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap;  
 
 p. tijdelijke humanitaire gronden;  
 
-q. verblijf als vermogende vreemdeling als bedoeld in [artikel 3.29a van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).    
-2.  Het doel van het verblijf van een houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verleend onder een andere beperking dan bedoeld in het eerste lid, is tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien zulks met toepassing van [artikel 3.5, vierde lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is bepaald.   
-3.  Het doel van het verblijf van de houder van een verblijfsvergunning als bedoeld in [artikel 8, onder b, c en d van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is niet tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
+q. verblijf als vermogende vreemdeling als bedoeld in artikel 3.29a van het Vreemdelingenbesluit 2000.    
+2.  Het doel van het verblijf van een houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, verleend onder een andere beperking dan bedoeld in het eerste lid, is tijdelijk in de zin van artikel 3, eerste lid, onderdeel a, van de wet, indien zulks met toepassing van artikel 3.5, vierde lid, van het Vreemdelingenbesluit 2000 is bepaald.   
+3.  Het doel van het verblijf van de houder van een verblijfsvergunning als bedoeld in artikel 8, onder b, c en d van de Vreemdelingenwet 2000 is niet tijdelijk in de zin van artikel 3, eerste lid, onderdeel a, van de wet.   
 4.  Bij regeling van Onze Minister kunnen de beperkingen, bedoeld in het eerste en tweede lid, nader worden uitgewerkt.  
 
 ### Artikel  2.2  
 
-1.  De inburgeringsplicht eindigt niet, indien de vreemdeling direct aansluitend op de periode waarin hij op grond van [artikel 3, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) inburgeringsplichtig was of op de termijn, bedoeld in [artikel 3.82, eerste lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), rechtmatig verblijf in de zin van [artikel 8, onderdeel g of h, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft verkregen. In deze gevallen wordt de inburgeringsplicht tijdens de termijn, bedoeld in [artikel 3.82, eerste lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), geacht niet te zijn geëindigd.   
-2.  De inburgeringsplicht wordt geacht niet te zijn geëindigd, indien de vreemdeling tussen twee tijdvakken waarin hij op grond van [artikel 3, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) inburgeringsplichtig was, gedurende een tijdvak van maximaal een jaar: 
+1.  De inburgeringsplicht eindigt niet, indien de vreemdeling direct aansluitend op de periode waarin hij op grond van artikel 3, eerste lid, van de wet inburgeringsplichtig was of op de termijn, bedoeld in artikel 3.82, eerste lid, van het Vreemdelingenbesluit 2000, rechtmatig verblijf in de zin van artikel 8, onderdeel g of h, van de Vreemdelingenwet 2000 heeft verkregen. In deze gevallen wordt de inburgeringsplicht tijdens de termijn, bedoeld in artikel 3.82, eerste lid, van het Vreemdelingenbesluit 2000, geacht niet te zijn geëindigd.   
+2.  De inburgeringsplicht wordt geacht niet te zijn geëindigd, indien de vreemdeling tussen twee tijdvakken waarin hij op grond van artikel 3, eerste lid, van de wet inburgeringsplichtig was, gedurende een tijdvak van maximaal een jaar: 
 
-a. geen ingezetene in de zin van de [Wet basisregistratie personen](../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) was;  
+a. geen ingezetene in de zin van de Wet basisregistratie personen was;  
 
 b. in Nederland verbleef voor een tijdelijk doel, of  
 
-c. zijn werkzaamheden als geestelijke bedienaar, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) heeft onderbroken.    
+c. zijn werkzaamheden als geestelijke bedienaar, bedoeld in artikel 3, eerste lid, onderdeel b, van de wet heeft onderbroken.    
 
 ### Afdeling  2  
 
@@ -104,7 +104,7 @@ a. het inburgeringsdiploma;
 
 b. een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger beroepsonderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen, na onderwijs te hebben gevolgd in de Nederlandse taal;  
 
-c. een diploma staatsexamen Nederlands als tweede taal I of II als bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. een diploma staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
 d. een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of ander document, behaald in het Nederlandstalig onderwijs in België, mits een voldoende is behaald voor het vak Nederlandse taal;  
 
@@ -116,36 +116,36 @@ g. het diploma van het Europees baccalaureaat van de Europese school, bedoeld in
 
 h. het getuigschrift International Baccalaureate Middle Years Certificate, International General Certificate of Secondary Education of Internationaal Baccalaureaat, indien daartoe een cursus Engels-Nederlandstalig onderwijs of een cursus Internationaal Baccalaureaat met daarin het vak Nederlands is gevolgd en voor dat vak een voldoende is behaald;  
 
-i. het certificaat, bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat ten minste de volgende niveaus zijn behaald: 
+i. het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering nieuwkomers alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat ten minste de volgende niveaus zijn behaald: 
 
 1°. niveau 2 voor de onderdelen Luisteren, Spreken, Lezen en Schrijven, en  
 
 2°. voor het onderdeel Maatschappij Oriëntatie:
 
-–het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), of
+–het niveau van artikel 11, eerste lid, onderdeel b, van die wet, of
 
 –een score van de MO-Profieltoets van ten minste: 85%, indien die toets is afgelegd voor 1 september 2001, respectievelijk 80%, indien die toets is afgelegd na 31 augustus 2001;    
 
-j. het certificaat, bedoeld in de [Regeling certificaat inburgering oudkomers](../../../../ministeriele-regeling/regeling/certificaat/inburgering/oudkomers/BWBR0018730/README.md), indien uit de vermelding daarop blijkt dat ten minste het niveau NT2 2 voor de onderdelen Luisteren, Spreken, Lezen en Schrijven is behaald;  
+j. het certificaat, bedoeld in de Regeling certificaat inburgering oudkomers, indien uit de vermelding daarop blijkt dat ten minste het niveau NT2 2 voor de onderdelen Luisteren, Spreken, Lezen en Schrijven is behaald;  
 
-k. het document, bedoeld in artikel 2.7, tweede lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432);  
+k. het document, bedoeld in artikel 2.7, tweede lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432);  
 
-l. het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../wet/wijzigingswet/wet/inburgering/enz./(versterking/eigen/verantwoordelijkheid/etc/BWBR0032031/README.md) (Stb. 2012, 430).     
+l. het inburgeringsdiploma, bedoeld in artikel 14, tweede lid, van de Wet inburgering zoals die wet luidde voor de inwerkingtreding van de wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 430).     
 2.  Bij regeling van Onze Minister kan worden voorzien in vrijstelling van de inburgeringsplicht op grond van andere diploma’s, certificaten of documenten dan genoemd in het eerste lid.  
 
 ### Artikel  2.4  
 
-1.  Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en de betreffende onderdelen van het inburgeringsexamen te behalen, is vrijgesteld de inburgeringsplichtige die beschikt over het certificaat, bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Nederlands als tweede taal ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal is behaald.   
-2.  Van de verplichting om kennis van de Nederlandse samenleving te verwerven en het betreffende onderdeel van het inburgeringsexamen te behalen, is vrijgesteld de inburgeringsplichtige die beschikt over het certificaat, bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Maatschappij Oriëntatie is behaald: 
+1.  Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en de betreffende onderdelen van het inburgeringsexamen te behalen, is vrijgesteld de inburgeringsplichtige die beschikt over het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering nieuwkomers, alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Nederlands als tweede taal ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal is behaald.   
+2.  Van de verplichting om kennis van de Nederlandse samenleving te verwerven en het betreffende onderdeel van het inburgeringsexamen te behalen, is vrijgesteld de inburgeringsplichtige die beschikt over het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering nieuwkomers, alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Maatschappij Oriëntatie is behaald: 
 
-a. het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), of  
+a. het niveau van artikel 11, eerste lid, onderdeel b, van die wet, of  
 
 b. een score van de MO-Profieltoets van ten minste: 85%, indien die toets is afgelegd voor 1 september 2001, respectievelijk 80%, indien die toets is afgelegd na 31 augustus 2001.   
 3. Bij regeling van Onze Minister kan worden voorzien in gedeeltelijke vrijstelling van de inburgeringsplicht op grond van andere diploma’s, certificaten of documenten dan genoemd in het eerste of tweede lid. 
 
 ### Artikel  2.5  
 
-Geheel vrijgesteld van de inburgeringsplicht is degene die een toets als bedoeld in [artikel 5, vierde lid, van de Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) met goed gevolg heeft afgelegd, als gevolg waarvan hij beschikt over een besluit inhoudende dat de vaststelling van een inburgeringsprogramma achterwege wordt gelaten, 
+Geheel vrijgesteld van de inburgeringsplicht is degene die een toets als bedoeld in artikel 5, vierde lid, van de Wet inburgering nieuwkomers met goed gevolg heeft afgelegd, als gevolg waarvan hij beschikt over een besluit inhoudende dat de vaststelling van een inburgeringsprogramma achterwege wordt gelaten, 
 
 ### Afdeling  3  
 
@@ -153,7 +153,7 @@ Geheel vrijgesteld van de inburgeringsplicht is degene die een toets als bedoeld
 
 ### Artikel  2.6  
 
-1.  Het verblijf in Nederland tijdens de leerplichtige leeftijd, bedoeld in [artikel 5, eerste lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), blijkt uit inschrijving als ingezetene in de basisregistratie personen.   
+1.  Het verblijf in Nederland tijdens de leerplichtige leeftijd, bedoeld in artikel 5, eerste lid, onderdeel b, van de wet, blijkt uit inschrijving als ingezetene in de basisregistratie personen.   
 2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste lid en kan van het eerste lid worden afgeweken op grond van concrete aanwijzingen dat de inschrijving kennelijk onjuist was.  
 
 ### Afdeling  4  
@@ -168,7 +168,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  2.8  
 
-1.  Bij de aanvraag tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in [artikel 6, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), legt de inburgeringsplichtige een advies over van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het betreffende register, bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).   
+1.  Bij de aanvraag tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in artikel 6, eerste lid, onderdeel a, van de wet, legt de inburgeringsplichtige een advies over van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het betreffende register, bedoeld in artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg.   
 2.  Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.   
 3.  Indien Onze Minister, op grond van het advies, bedoeld in het eerste lid, van oordeel is dat de inburgeringsplichtige het inburgeringsexamen slechts kan afleggen onder bijzondere examenomstandigheden die zijn aangepast aan de mogelijkheden van die inburgeringsplichtige, wordt in de beschikking vermeld welke bijzondere examenomstandigheden het betreft.   
 4.  De ontheffing kan worden verleend indien redelijkerwijs verwacht mag worden dat de aard en de ernst van de psychische of lichamelijke belemmering dan wel verstandelijke handicap zodanig zijn dat niet binnen vijf jaar na de aanvraag van de ontheffing aan de inburgeringsplicht kan worden voldaan.   
@@ -181,7 +181,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  2.8b  
 
-1.  Een aanvraag tot ontheffing van de inburgeringsplicht op grond van door de inburgeringsplichtige aantoonbaar geleverde inspanningen als bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), kan niet eerder worden ingediend dan zes maanden voor het verstrijken van de voor de inburgeringsplichtige geldende termijn, bedoeld in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md). Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.   
+1.  Een aanvraag tot ontheffing van de inburgeringsplicht op grond van door de inburgeringsplichtige aantoonbaar geleverde inspanningen als bedoeld in artikel 6, eerste lid, onderdeel b, van de wet, kan niet eerder worden ingediend dan zes maanden voor het verstrijken van de voor de inburgeringsplichtige geldende termijn, bedoeld in artikel 7, eerste lid, van de wet. Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.   
 2.  In bijzondere gevallen die de inburgeringsplichtige betreffen, kan Onze Minister ambtshalve besluiten tot het verlenen van de ontheffing.   
 3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent het verlenen van de ontheffing.  
 
@@ -203,7 +203,12 @@ d. leesvaardigheid.
 
 ### Artikel  2.10  
 
-De inburgeringsplichtige verwerft kennis van de Nederlandse samenleving op het niveau van de bij regeling van Onze Minister vast te stellen eindtermen. 
+1.  De inburgeringsplichtige verwerft kennis van de Nederlandse samenleving op het niveau van de bij regeling van Onze Minister vast te stellen eindtermen met betrekking tot de volgende onderdelen: 
+
+a. kennis van de Nederlandse maatschappij;  
+
+b. oriëntatie op de Nederlandse arbeidsmarkt.     
+2.  Van de in het eerste lid, onderdeel b, bedoelde te verwerven kennis is vrijgesteld de persoon die inburgeringsplichtig is geworden voor 1 januari 2015.  
 
 ### Afdeling  7  
 
@@ -211,12 +216,12 @@ De inburgeringsplichtige verwerft kennis van de Nederlandse samenleving op het n
 
 ### Artikel  2.11  
 
-De termijn, genoemd in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) wordt verlengd met de duur van de periode, bedoeld in artikel 2.2, tweede lid. 
+De termijn, genoemd in artikel 7, eerste lid, van de wet wordt verlengd met de duur van de periode, bedoeld in artikel 2.2, tweede lid. 
 
 ### Artikel  2.12  
 
-1.  Een aanvraag tot verlenging van de voor de inburgeringsplichtige geldende termijn, bedoeld in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), kan niet eerder worden ingediend dan zes maanden voor het verstrijken van die termijn. Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.   
-2.  In bijzondere gevallen die de inburgeringsplichtige betreffen, kan Onze Minister ambtshalve besluiten tot verlenging van de voor de inburgeringsplichtige geldende termijn, bedoeld in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md). De beschikking wordt niet eerder gegeven dan zes maanden voor het verstrijken van die termijn.   
+1.  Een aanvraag tot verlenging van de voor de inburgeringsplichtige geldende termijn, bedoeld in artikel 7, eerste lid, van de wet, kan niet eerder worden ingediend dan zes maanden voor het verstrijken van die termijn. Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.   
+2.  In bijzondere gevallen die de inburgeringsplichtige betreffen, kan Onze Minister ambtshalve besluiten tot verlenging van de voor de inburgeringsplichtige geldende termijn, bedoeld in artikel 7, eerste lid, van de wet. De beschikking wordt niet eerder gegeven dan zes maanden voor het verstrijken van die termijn.   
 3.  In de beschikking wordt de duur van de verlenging vermeld.   
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de verlenging van de termijn.  
 
@@ -245,13 +250,13 @@ De termijn, genoemd in [artikel 7, eerste lid, van de wet](../../../../wet/wet/i
 
 ### Artikel  3.4  
 
-Op verzoek van degene die het examen afneemt of daarop toezicht houdt, identificeert de kandidaat zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). 
+Op verzoek van degene die het examen afneemt of daarop toezicht houdt, identificeert de kandidaat zich met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. 
 
 ### Artikel  3.5  
 
 1.  Onze Minister stelt de kandidaat met een psychische of lichamelijke belemmering of verstandelijke handicap op diens verzoek in de gelegenheid het inburgeringsexamen dan wel een onderdeel daarvan af te leggen op een wijze die is aangepast aan zijn mogelijkheden.   
 2.  Indien Onze Minister bij de toepassing van artikel 2.8 heeft geoordeeld dat de inburgeringsplichtige het inburgeringsexamen dan wel een onderdeel daarvan slechts kan afleggen op een wijze die is aangepast aan de mogelijkheden van die inburgeringsplichtige, legt de kandidaat bij de aanvraag de beschikking, bedoeld in het derde lid van dat artikel over.   
-3.  In de overige gevallen legt de kandidaat een advies over van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het betreffende register, bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), waaruit blijkt dat hij het inburgeringsexamen dan wel een onderdeel daarvan slechts kan afleggen op een wijze die is aangepast aan zijn mogelijkheden.   
+3.  In de overige gevallen legt de kandidaat een advies over van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het betreffende register, bedoeld in artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg, waaruit blijkt dat hij het inburgeringsexamen dan wel een onderdeel daarvan slechts kan afleggen op een wijze die is aangepast aan zijn mogelijkheden.   
 4.  Bij regeling van Onze Minister worden regels gesteld over de toepassing van dit artikel.  
 
 ### Artikel  3.6  
@@ -265,7 +270,7 @@ Op verzoek van degene die het examen afneemt of daarop toezicht houdt, identific
 
 ### Artikel  3.9  
 
-1.  Het inburgeringsexamen bestaat uit de volgende onderdelen: 
+1.  Het inburgeringsexamen bestaat voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal, bedoeld in artikel 7, eerste lid, van de wet, uit de volgende onderdelen: 
 
 a. leesvaardigheid;  
 
@@ -273,13 +278,27 @@ b. luistervaardigheid;
 
 c. schrijfvaardigheid;  
 
-d. spreekvaardigheid;  
+d. spreekvaardigheid.     
+2.  Het inburgeringsexamen bestaat voor wat betreft de examinering van de kennis van de Nederlandse samenleving, bedoeld in artikel 7, eerste lid, van de wet, uit de volgende onderdelen: 
 
-e. kennis van de Nederlandse samenleving.     
-2.  De in het eerste lid genoemde onderdelen van het inburgeringsexamen, onder a, b, d en e worden afgelegd door middel van een door Onze Minister beheerd geautomatiseerd systeem. Het in het eerste lid, onder c, genoemde onderdeel van het inburgeringsexamen wordt schriftelijk afgelegd.   
-3.  De resultaten van de in het eerste lid genoemde onderdelen van het inburgeringsexamen, onder a, b, d en e worden door Onze Minister beoordeeld door middel van het geautomatiseerde systeem, bedoeld in het tweede lid. Het in het eerste lid, onder c, genoemde onderdeel van het inburgeringsexamen wordt beoordeeld door door Onze Minister aan te wijzen examinatoren. De resultaten worden uitgedrukt in «geslaagd» of «niet geslaagd». De resultaten worden niet herbeoordeeld.  
-4. De resultaten van de in het eerste lid, onder a, b, d en e, genoemde onderdelen van het inburgeringsexamen waarbij het geautomatiseerde systeem niet tot een beoordeling heeft kunnen komen, worden beoordeeld door de in het derde lid bedoelde examinatoren. In afwijking van het derde lid kan de betrokken examenkandidaat binnen zes weken na de bekendmaking van de beoordeling een herbeoordeling aanvragen van het onderdeel spreekvaardigheid door door Onze Minister aan te wijzen beoordelaars nadat de uitslag van dat onderdeel voor de vierde maal of vaker «niet geslaagd» heeft geluid. 
-5.  Bij regeling van Onze Minister worden nadere regels gesteld omtrent de onderdelen van het inburgeringsexamen, genoemd in het eerste lid.  
+a. kennis van de Nederlandse maatschappij;  
+
+b. oriëntatie op de Nederlandse arbeidsmarkt.     
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de onderdelen van het inburgeringsexamen, genoemd in het eerste en tweede lid. 
+
+### Artikel  3.9a  
+
+1.  De onderdelen leesvaardigheid, luistervaardigheid en spreekvaardigheid van het inburgeringsexamen worden afgelegd door middel van een door Onze Minister beheerd geautomatiseerd systeem.   
+2.  Het onderdeel schrijfvaardigheid van het inburgeringsexamen wordt schriftelijk afgelegd.   
+3.  Het onderdeel kennis van de Nederlandse samenleving van het inburgeringsexamen wordt voor wat betreft het onderdeel oriëntatie op de Nederlandse arbeidsmarkt afgelegd door middel van een praktijkexamen en voor wat betreft het onderwerp kennis van de Nederlandse maatschappij door middel van een door Onze Minister beheerd geautomatiseerd systeem.   
+4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze van examineren.  
+
+### Artikel  3.9b  
+
+1.  De resultaten van de onderdelen leesvaardigheid en luistervaardigheid van het inburgeringsexamen worden beoordeeld door Onze Minister door middel van het geautomatiseerde systeem, bedoeld in artikel 3.9a, eerste lid. Het onderdeel spreekvaardigheid van het inburgeringsexamen wordt voor een deel beoordeeld door middel van het geautomatiseerde systeem, bedoeld in artikel 3.9a, eerste lid, en voor het overige deel door de door Onze Minister aan te wijzen beoordelaars.   
+2.  Het onderdeel schrijfvaardigheid wordt beoordeeld door de door Onze Minister aan te wijzen beoordelaars.   
+3.  Het onderdeel kennis van de Nederlandse samenleving van het inburgeringsexamen, bedoeld in artikel 3.9a, derde lid, wordt voor wat betreft het onderdeel kennis van de Nederlandse maatschappij door middel van een geautomatiseerd systeem beoordeeld en het praktijkexamen van het onderdeel oriëntatie op de Nederlandse arbeidsmarkt wordt door examinatoren beoordeeld.   
+4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de beoordeling van het examen.  
 
 ### Artikel  3.10  
 
@@ -305,7 +324,7 @@ a. de afname van de onderdelen van het inburgeringsexamen;
 
 b. de voorwaarden voor toelating tot de onderdelen van het inburgeringsexamen;  
 
-c. de deskundigheid van de examinatoren;  
+c. de deskundigheid van de examinatoren en beoordelaars;  
 
 d. het vaststellen van de uitslag van de onderdelen van het inburgeringsexamen;  
 
@@ -321,11 +340,11 @@ e. de waarborging van de kwaliteit van de examinering.
 
 ### Artikel  4.1  
 
-Tenzij uitdrukkelijk anders is bepaald, zijn de bepalingen in dit hoofdstuk van overeenkomstige toepassing op de persoon, bedoeld in [artikel 5, tweede lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), die rechtmatig verblijf verkrijgt als bedoeld in [artikel 8, onderdeel e of l, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die: 
+Tenzij uitdrukkelijk anders is bepaald, zijn de bepalingen in dit hoofdstuk van overeenkomstige toepassing op de persoon, bedoeld in artikel 5, tweede lid, van de wet, die rechtmatig verblijf verkrijgt als bedoeld in artikel 8, onderdeel e of l, van de Vreemdelingenwet 2000 en die: 
 
 a. anders dan voor een tijdelijk doel als bedoeld in artikel 2.1 in Nederland verblijft;  
 
-b. ouder dan 16 jaar is dan wel de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) nog niet heeft bereikt;  
+b. ouder dan 16 jaar is dan wel de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt;  
 
 c. minder dan acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven;  
 
@@ -337,28 +356,28 @@ e. niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waa
 
 1.  Aan de inburgeringsplichtige kan eenmalig op aanvraag een lening van ten hoogste € 5.000,– worden verstrekt ten behoeve van: 
 
-a. het volgen bij een cursusinstelling van een cursus die opleidt tot het inburgeringsexamen of het staatsexamen Nederlands als tweede taal I of II als bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. het volgen bij een cursusinstelling van een cursus die opleidt tot het inburgeringsexamen of het staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
 b. het afleggen van een examen als bedoeld onder a.     
-2.  De hoogte van de lening wordt bepaald aan de hand van de hoogte van het overeenkomstig [artikel 8, eerste tot en met derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) te berekenen toetsingsinkomen van de inburgeringsplichtige en diens partner als bedoeld in artikel 3 van die wet.   
+2.  De hoogte van de lening wordt bepaald aan de hand van de hoogte van het overeenkomstig artikel 8, eerste tot en met derde lid, van de Algemene wet inkomensafhankelijke regelingen te berekenen toetsingsinkomen van de inburgeringsplichtige en diens partner als bedoeld in artikel 3 van die wet.   
 3.  In afwijking van het eerste lid kan een lening worden verstrekt van ten hoogste € 10.000,–, aan de inburgeringsplichtige en kan hij de lening tevens aanwenden voor het volgen van een alfabetiseringscursus, indien hij: 
 
-a. rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of  
+a. rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000, of  
 
-b. als gezinslid van een houder van een verblijfsvergunning als bedoeld in [artikel 28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf houdt als bedoeld in [artikel 8, onderdeel a, van die wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
+b. als gezinslid van een houder van een verblijfsvergunning als bedoeld in artikel 28 of 33 van de Vreemdelingenwet 2000 rechtmatig verblijf houdt als bedoeld in artikel 8, onderdeel a, van die wet.     
 4.  Het tweede lid is niet van toepassing op de inburgeringsplichtige, bedoeld in het derde lid.   
-5.  De lening ten behoeve van het volgen van een cursus wordt slechts verstrekt indien de inburgeringsplichtige een cursus volgt bij een cursusinstelling die in het bezit is van een bij regeling van Onze Minister aan te wijzen keurmerk of van het in [artikel 9, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) bedoelde certificaat.   
-6.  De lening wordt niet verstrekt, indien de inburgeringsplichtige op grond van artikel 4.1 zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432) een lening is verstrekt en deze nog niet geheel is terugbetaald of kwijtgescholden.   
+5.  De lening ten behoeve van het volgen van een cursus wordt slechts verstrekt indien de inburgeringsplichtige een cursus volgt bij een cursusinstelling die in het bezit is van een bij regeling van Onze Minister aan te wijzen keurmerk of van het in artikel 9, eerste lid, van de wet bedoelde certificaat.   
+6.  De lening wordt niet verstrekt, indien de inburgeringsplichtige op grond van artikel 4.1 zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432) een lening is verstrekt en deze nog niet geheel is terugbetaald of kwijtgescholden.   
 7.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste, tweede, derde en vijfde lid.  
 
 ### Artikel  4.2  
 
-1.  De inburgeringsplichtige heeft aanspraak op de lening gedurende de termijn, bedoeld in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), gedurende de verlengde termijn, bedoeld in artikel 7, derde en vierde lid, aanhef en onderdeel a, van de wet en gedurende de termijn, genoemd in de boetebeschikking, bedoeld in [artikel 32 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md). Een persoon als bedoeld in artikel 4.1 heeft aanspraak op de lening gedurende drie jaar nadat hij rechtmatig verblijf verkrijgt.   
+1.  De inburgeringsplichtige heeft aanspraak op de lening gedurende de termijn, bedoeld in artikel 7, eerste lid, van de wet, gedurende de verlengde termijn, bedoeld in artikel 7, derde en vierde lid, aanhef en onderdeel a, van de wet en gedurende de termijn, genoemd in de boetebeschikking, bedoeld in artikel 32 van de wet. Een persoon als bedoeld in artikel 4.1 heeft aanspraak op de lening gedurende drie jaar nadat hij rechtmatig verblijf verkrijgt.   
 2.  Het geleende bedrag wordt niet uitbetaald, indien de inburgeringsplichtige: 
 
-a. niet langer ingezetene is in de zin van de [Wet basisregistratie personen](../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+a. niet langer ingezetene is in de zin van de Wet basisregistratie personen;  
 
-b. als vreemdeling geen rechtmatig verblijf meer heeft in de zin van [artikel 8, onderdelen a, c, e en l van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel, in de in artikel 2.2, eerste lid, bedoelde gevallen, in de zin van artikel 8, onderdelen g of h, van de Vreemdelingenwet 2000.     
+b. als vreemdeling geen rechtmatig verblijf meer heeft in de zin van artikel 8, onderdelen a, c, e en l van de Vreemdelingenwet 2000, dan wel, in de in artikel 2.2, eerste lid, bedoelde gevallen, in de zin van artikel 8, onderdelen g of h, van de Vreemdelingenwet 2000.     
 3.  Bij regeling van Onze Minister worden regels gesteld over de betaling van de lening.  
 
 ### Artikel  4.3  
@@ -382,8 +401,8 @@ Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikki
 ### Artikel  4.6  
 
 1.  De terugbetalingsperiode beslaat ten hoogste tien jaren.   
-2.  De terugbetalingsperiode vangt aan op de eerste dag van de maand volgend op het in [artikel 17, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) bedoelde tijdstip. De terugbetalingsperiode kan op schriftelijk verzoek van de debiteur aanvangen op een eerder tijdstip, in welk geval de aanspraak op de lening vervalt.   
-3.  Gedurende de in [artikel 17, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) bedoelde aanloopfase van zes maanden bestaat geen verplichting tot terugbetaling, doch is wel rente verschuldigd over het bedrag van de lening.   
+2.  De terugbetalingsperiode vangt aan op de eerste dag van de maand volgend op het in artikel 17, eerste lid, van de wet bedoelde tijdstip. De terugbetalingsperiode kan op schriftelijk verzoek van de debiteur aanvangen op een eerder tijdstip, in welk geval de aanspraak op de lening vervalt.   
+3.  Gedurende de in artikel 17, eerste lid, van de wet bedoelde aanloopfase van zes maanden bestaat geen verplichting tot terugbetaling, doch is wel rente verschuldigd over het bedrag van de lening.   
 4.  In afwijking van het tweede lid, vangt de terugbetalingsperiode voor een persoon als bedoeld in artikel 4.1 aan zes maanden nadat drie jaar zijn verstreken sedert de verstrekking van de lening of, indien dat eerder is, zes maanden nadat aan de inburgeringsplicht is voldaan. 
 
 ### Artikel  4.7  
@@ -403,8 +422,8 @@ Indien de debiteur niet in staat is het overeenkomstig artikel 4.8 vastgestelde 
 
 ### Artikel  4.10  
 
-1.  Ter bepaling van de draagkracht van de debiteur wordt het toetsingsinkomen van de debiteur en dat van zijn partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) in aanmerking genomen.   
-2.  Het toetsingsinkomen wordt berekend overeenkomstig [artikel 8, eerste tot en met derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md).   
+1.  Ter bepaling van de draagkracht van de debiteur wordt het toetsingsinkomen van de debiteur en dat van zijn partner als bedoeld in artikel 3 van de Algemene wet inkomensafhankelijke regelingen in aanmerking genomen.   
+2.  Het toetsingsinkomen wordt berekend overeenkomstig artikel 8, eerste tot en met derde lid, van de Algemene wet inkomensafhankelijke regelingen.   
 3.  Bij regeling van Onze Minister worden nadere regels gesteld ten aanzien van de wijze waarop de draagkracht van de debiteur wordt vastgesteld.  
 
 ### Artikel  4.11  
@@ -420,13 +439,13 @@ Bij regeling van Onze Minister worden regels gesteld omtrent verzuim, aanmaning 
 
 1.  De schuld kan op verzoek van de inburgeringsplichtige door Onze Minister in bij regeling van Onze Minister aan te wijzen gevallen geheel of gedeeltelijk worden kwijtgescholden.   
 2.  Onze Minister geeft binnen acht weken na ontvangst van de aanvraag van een debiteur om gehele of gedeeltelijke kwijtschelding een beschikking.   
-3.  Aan vreemdelingen die rechtmatig verblijf in Nederland hebben verkregen op grond van [artikel 8, onderdeel c, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en op of na 1 januari 2013 inburgeringsplichtig zijn geworden, wordt volledige kwijtschelding van de opgebouwde schuld ambtshalve verleend indien:
+3.  Aan vreemdelingen die rechtmatig verblijf in Nederland hebben verkregen op grond van artikel 8, onderdeel c, van de Vreemdelingenwet 2000 en op of na 1 januari 2013 inburgeringsplichtig zijn geworden, wordt volledige kwijtschelding van de opgebouwde schuld ambtshalve verleend indien:
 
-a. voldaan is aan de inburgeringsplicht binnen de termijn, bedoeld in [artikel 7, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) of gedurende de verlengde termijn, bedoeld in artikel 7, derde en vierde lid, aanhef en onderdeel a, van de wet; of  
+a. voldaan is aan de inburgeringsplicht binnen de termijn, bedoeld in artikel 7, eerste lid, van de wet of gedurende de verlengde termijn, bedoeld in artikel 7, derde en vierde lid, aanhef en onderdeel a, van de wet; of  
 
-b. een vrijstelling van de inburgeringsplicht van toepassing is op grond van [artikel 5 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md); of  
+b. een vrijstelling van de inburgeringsplicht van toepassing is op grond van artikel 5 van de wet; of  
 
-c. ontheffing is verleend van de inburgeringsplicht als bedoeld in [artikel 6, eerste en tweede lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
+c. ontheffing is verleend van de inburgeringsplicht als bedoeld in artikel 6, eerste en tweede lid, van de wet.   
 
 ### Artikel  4.14  
 
@@ -435,7 +454,7 @@ c. ontheffing is verleend van de inburgeringsplicht als bedoeld in [artikel 6, e
 
 ### Artikel  4.15  
 
-De termijnen, bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) en artikel 4.2, eerste lid, worden verlengd met de duur van de periode, bedoeld in artikel 2.2, tweede lid. 
+De termijnen, bedoeld in artikel 17, eerste lid, van de wet en artikel 4.2, eerste lid, worden verlengd met de duur van de periode, bedoeld in artikel 2.2, tweede lid. 
 
 ### §  3  
 
@@ -443,7 +462,7 @@ De termijnen, bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/we
 
 ### Artikel  4.16  
 
-De [artikelen 3](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [4](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [6, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 3, 4 en 6, eerste lid, van de Algemene wet inkomensafhankelijke regelingen zijn van overeenkomstige toepassing. 
 
 ### Hoofdstuk  5  
 
@@ -481,7 +500,7 @@ b. andere dan de in onderdeel a bedoelde personen, die deelnemen aan het inburge
 
 c. partners van inburgeringsplichtigen, indien overeenkomstig artikel 4.1a, tweede lid, de hoogte van de lening wordt bepaald of overeenkomstig artikel 4.10 de draagkracht van de debiteur wordt bepaald;  
 
-d. personen ten aanzien van wie is gebleken dat zij aansluitend op de leerplicht of kwalificatieplicht een opleiding volgen als bedoeld in [artikel 5, eerste lid, onderdeel e, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+d. personen ten aanzien van wie is gebleken dat zij aansluitend op de leerplicht of kwalificatieplicht een opleiding volgen als bedoeld in artikel 5, eerste lid, onderdeel e, van de wet;  
 
 e. personen ten aanzien van wie op redelijke gronden kan worden vermoed dat zij inburgeringsplichtig zijn of kunnen worden.     
 2.  Het Informatiesysteem Inburgering bevat de in de bijlage bij dit besluit opgenomen gegevens. Persoonsgegevens worden opgenomen zoals deze zijn opgenomen in de basisregistratie personen.   
@@ -489,7 +508,7 @@ e. personen ten aanzien van wie op redelijke gronden kan worden vermoed dat zij 
 
 ### Artikel  6.2  
 
-1.  De volgende instanties verstrekken ten behoeve van opneming in het Informatiesysteem Inburgering aan de beheerder daarvan uit eigen beweging of op verzoek alle gegevens die noodzakelijk zijn voor de uitvoering van de taken die bij of krachtens de [wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) aan die instanties zijn opgedragen: 
+1.  De volgende instanties verstrekken ten behoeve van opneming in het Informatiesysteem Inburgering aan de beheerder daarvan uit eigen beweging of op verzoek alle gegevens die noodzakelijk zijn voor de uitvoering van de taken die bij of krachtens de wet aan die instanties zijn opgedragen: 
 
 a. Onze Minister;  
 
@@ -499,19 +518,19 @@ c. de cursusinstellingen, bedoeld in artikel 4.1a, vijfde lid;
 
 d. de organisatie die belast is met het beheer van het in artikel 4.1a, vijfde lid bedoelde keurmerk;  
 
-e. het College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](../../../../wet/wet/college/voor/examens/BWBR0025364/README.md); 
+e. het College voor examens, genoemd in artikel 2, eerste lid, van de Wet College voor examens; 
 
 f. Onze Minister van Onderwijs, Cultuur en Wetenschap; 
 
 g. het Centraal Orgaan opvang asielzoekers.    
-2.  Onverminderd de gegevensverstrekking, bedoeld in [artikel 47, tweede lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) aan Onze Minister, Onze Minister van Veiligheid en Justitie en de rijksbelastingdienst worden gegevens die zijn opgenomen in het Informatiesysteem Inburgering slechts ter beschikking gesteld aan: 
+2.  Onverminderd de gegevensverstrekking, bedoeld in artikel 47, tweede lid, van de wet aan Onze Minister, Onze Minister van Veiligheid en Justitie en de rijksbelastingdienst worden gegevens die zijn opgenomen in het Informatiesysteem Inburgering slechts ter beschikking gesteld aan: 
 
 a. Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
 b. de cursusinstellingen, bedoeld in artikel 4.1a, vijfde lid;  
 
-c. de organisatie die belast is met het beheer van het in artikel 4.1a, vijfde lid, bedoelde keurmerk.   Deze gegevens worden niet gebruikt voor een ander doel dan genoemd in [artikel 47, tweede lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
-3.  De verstrekking van gegevens met het oog op de evaluatie van bestaand beleid en de voorbereiding van toekomstig beleid, bedoeld in [artikel 47, tweede lid, onderdeel b, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), geschiedt zodanig dat de gegevens niet kunnen worden herleid tot een natuurlijk persoon.   
+c. de organisatie die belast is met het beheer van het in artikel 4.1a, vijfde lid, bedoelde keurmerk.   Deze gegevens worden niet gebruikt voor een ander doel dan genoemd in artikel 47, tweede lid, van de wet.   
+3.  De verstrekking van gegevens met het oog op de evaluatie van bestaand beleid en de voorbereiding van toekomstig beleid, bedoeld in artikel 47, tweede lid, onderdeel b, van de wet, geschiedt zodanig dat de gegevens niet kunnen worden herleid tot een natuurlijk persoon.   
 4.  De instanties, genoemd in het eerste lid, verstrekken de gegevens zo spoedig mogelijk doch uiterlijk binnen twee weken na het ontstaan van de noodzaak tot opneming in het Informatiesysteem Inburgering.   
 5.  Bij regeling van Onze Minister kunnen andere instanties worden aangewezen ten aanzien waarvan de in het eerste lid bedoelde verplichting eveneens geldt of waaraan eveneens gegevens uit het Informatiesysteem Inburgering worden verstrekt.   
 6.  In opdracht van Onze Minister kunnen ten behoeve van het verrichten van rechtmatigheids- en doelmatigheidsonderzoeken gegevens uit het Informatiesysteem Inburgering worden verstrekt die kunnen worden herleid tot een natuurlijk persoon. In de rapportages over deze onderzoeken worden geen tot die persoon herleidbare gegevens opgenomen.  
@@ -569,7 +588,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  6.8  
 
-Met betrekking tot het Informatiesysteem Inburgering is Onze Minister de verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). 
+Met betrekking tot het Informatiesysteem Inburgering is Onze Minister de verantwoordelijke in de zin van de Wet bescherming persoonsgegevens. 
 
 ### Hoofdstuk  7  
 
@@ -585,36 +604,36 @@ Met betrekking tot het Informatiesysteem Inburgering is Onze Minister de verantw
 2.  Het vaste deel, bedoeld in het eerste lid, wordt vastgesteld met behulp van de verdeelsleutel, bedoeld in artikel 7.2, tweede lid, zoals dat artikel luidde op 31 december 2008.   
 3.  Het prestatie-afhankelijke deel, bedoeld in het eerste lid, wordt berekend op de grondslag van: 
 
-a. het aantal inburgeringsplichtigen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+a. het aantal inburgeringsplichtigen, bedoeld in artikel 19, eerste lid, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
 b. het aantal in onderdeel a bedoelde inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen;  
 
-c. het aantal inburgeringsplichtigen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+c. het aantal inburgeringsplichtigen, bedoeld in artikel 19, eerste lid, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
 d. het aantal in onderdeel c bedoelde inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de gecombineerde inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen;  
 
-e. het aantal inburgeringsplichtigen, bedoeld in [artikel 19, tweede lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+e. het aantal inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
 f. het aantal in onderdeel g bedoelde inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen;  
 
-g. het aantal inburgeringsplichtigen, bedoeld in [artikel 19, tweede lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+g. het aantal inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
 h. het aantal in onderdeel i bedoelde inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de gecombineerde inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen;  
 
 i. het aantal inburgeringsplichtigen ten behoeve van wie het college voor de eerste keer een duale inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald; 
 
-j. het aantal inburgeringsplichtigen ten behoeve van wie het college voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008 heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald.    
+j. het aantal inburgeringsplichtigen ten behoeve van wie het college voor de eerste keer een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de wet, zoals die luidde op 31 december 2008 heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald.    
 4.  Het variabele deel, bedoeld in het eerste lid, wordt vastgesteld op de grondslag van: 
 
 a. het aantal inburgeringsplichtigen aan wie het college een handhavingsbeschikking bekend heeft gemaakt;  
 
-b. het aantal inburgeringsplichtigen aan wie het college een kennisgeving als bedoeld in artikel 5.3, derde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432), heeft verstrekt;  
+b. het aantal inburgeringsplichtigen aan wie het college een kennisgeving als bedoeld in artikel 5.3, derde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432), heeft verstrekt;  
 
 c. het aantal geestelijke bedienaren ten behoeve van wie het college een inburgeringsvoorziening heeft vastgesteld;  
 
 d. het aantal geestelijke bedienaren dat heeft deelgenomen aan het inburgeringsexamen;  
 
-e. het aantal geestelijke bedienaren dat heeft deelgenomen aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432).    
+e. het aantal geestelijke bedienaren dat heeft deelgenomen aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432).    
 
 ###Artikel 7.1a 
 
@@ -626,21 +645,21 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 – met de letter A: het prestatie-afhankelijke deel van de rijksbijdrage;  
 
-– met de letter B: het aantal inburgeringsplichtigen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+– met de letter B: het aantal inburgeringsplichtigen, bedoeld in artikel 19, eerste lid, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
-– met de letter C: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008;  
+– met de letter C: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in artikel 19, eerste lid, van de wet, zoals die luidde op 31 december 2008;  
 
-– met de letter D: het aantal inburgeringsplichtigen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+– met de letter D: het aantal inburgeringsplichtigen, bedoeld in artikel 19, eerste lid, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
-– met de letter E: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008;  
+– met de letter E: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in artikel 19, eerste lid, van de wet, zoals die luidde op 31 december 2008;  
 
-– met de letter H: het aantal inburgeringsplichtigen, bedoeld in [artikel 19, tweede lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+– met de letter H: het aantal inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
-– met de letter I: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in [artikel 19, tweede lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008;  
+– met de letter I: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008;  
 
-– met de letter J: het aantal inburgeringsplichtigen, bedoeld in [artikel 19, tweede lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+– met de letter J: het aantal inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
-– met de letter K: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in [artikel 19, tweede lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008;  
+– met de letter K: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008;  
 
 – met de letter L: het aantal in de letter B bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
 
@@ -662,24 +681,24 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 – met de letter W: de bijdragevergoeding ten aanzien van de vaststelling van de duale inburgeringsvoorziening;  
 
-– met de letter X: het aantal inburgeringsplichtigen, niet zijnde geestelijke bedienaar, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2008, heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+– met de letter X: het aantal inburgeringsplichtigen, niet zijnde geestelijke bedienaar, ten behoeve van wie het college in het jaar waarop de prognose betrekking heeft voor de eerste keer een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de wet, zoals die luidde op 31 december 2008, heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
 – met de letter Y: de bijdragevergoeding ten aanzien van de vaststelling van de taalkennisvoorziening;  
 
-– met de letter Z: het aantal door het college in 2007 op grond van de [Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) genomen beschikkingen omtrent een inburgeringsprogramma;  
+– met de letter Z: het aantal door het college in 2007 op grond van de Wet inburgering nieuwkomers genomen beschikkingen omtrent een inburgeringsprogramma;  
 
 – met de letters AA: de door Onze Minister vast te stellen vergoeding met betrekking tot een inburgeringsprogramma als bedoeld in de letter Z;  
 
-– met de letters BB: het aantal door het college in 2007 en 2008 ontvangen afschriften, welke betrekking hebben op in 2007 aangevangen inburgeringsprogramma’s, van door het bevoegd gezag van een instelling ingevolge de [Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) uitgereikte verklaringen als bedoeld in [artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), zoals [dat artikel](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) luidde op 31 december 2006;  
+– met de letters BB: het aantal door het college in 2007 en 2008 ontvangen afschriften, welke betrekking hebben op in 2007 aangevangen inburgeringsprogramma’s, van door het bevoegd gezag van een instelling ingevolge de Wet inburgering nieuwkomers uitgereikte verklaringen als bedoeld in artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs, zoals dat artikel luidde op 31 december 2006;  
 
 – met de letters CC: de door Onze Minister vast te stellen vergoeding met betrekking tot een verklaring als bedoeld in de letters BB;  
 
 – met de letters DD: het bedrag, bedoeld in artikel 9.3, derde lid;  
 
 – met de letters EE: de door Onze Minister vast te stellen correctiefactor.     
-2.  Het college verstrekt de gegevens, bedoeld in de letters B, D, H, J, L, N, R, T, V en X van het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), welke betrekking heeft op het jaar 2011. Het college verstrekt de gegevens, bedoeld in de letters Z en BB van het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), welke betrekking heeft op het jaar 2008. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md). Het college vergewist zich ervan dat de gegevens zijn opgenomen in het Informatiesysteem Inburgering.   
-3.  Indien Onze Minister de gegevens en de accountantsverklaring niet voor binnen zesentwintig weken na het verstrijken van de termijn, bedoeld in [artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) heeft ontvangen, stelt Onze Minister de hoogte van de letters B, D, H, J, L, N, R, T, V en X, respectievelijk de letters Z en BB in de formule, bedoeld in het eerste lid, vast op nul.   
-4.  Onze Minister stelt het prestatie-afhankelijke deel van de rijksbijdrage uiterlijk dertig weken na het verstrijken van de termijn, bedoeld in [artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), welke betrekking heeft op de jaarrekening van het jaar 2011, vast.   
+2.  Het college verstrekt de gegevens, bedoeld in de letters B, D, H, J, L, N, R, T, V en X van het eerste lid, tezamen met de jaarrekening, bedoeld in artikel 186 van de Gemeentewet, welke betrekking heeft op het jaar 2011. Het college verstrekt de gegevens, bedoeld in de letters Z en BB van het eerste lid, tezamen met de jaarrekening, bedoeld in artikel 186 van de Gemeentewet, welke betrekking heeft op het jaar 2008. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in artikel 213, derde lid, van de Gemeentewet. Het college vergewist zich ervan dat de gegevens zijn opgenomen in het Informatiesysteem Inburgering.   
+3.  Indien Onze Minister de gegevens en de accountantsverklaring niet voor binnen zesentwintig weken na het verstrijken van de termijn, bedoeld in artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet heeft ontvangen, stelt Onze Minister de hoogte van de letters B, D, H, J, L, N, R, T, V en X, respectievelijk de letters Z en BB in de formule, bedoeld in het eerste lid, vast op nul.   
+4.  Onze Minister stelt het prestatie-afhankelijke deel van de rijksbijdrage uiterlijk dertig weken na het verstrijken van de termijn, bedoeld in artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet, welke betrekking heeft op de jaarrekening van het jaar 2011, vast.   
 5.  Het prestatie-afhankelijke deel van de rijksbijdrage wordt vastgesteld onder voorbehoud van goedkeuring van de beschikbare middelen door de begrotingswetgever en kan worden verlaagd in verband met wijzigingen van de rijksbegroting voor het jaar 2012 dan wel het jaar 2013.   
 6.  Het prestatie-afhankelijke deel van de rijksbijdrage wordt verrekend met het voorschot dat is verleend ten behoeve van de jaren 2007 en 2008. Het uit de verrekening resulterende positieve of negatieve saldo wordt uiterlijk zes maanden na de vaststelling ervan aan een gemeente betaald.  
 
@@ -695,9 +714,9 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 – met de letter D: de bijdragevergoeding ten aanzien van de bekendmaking van een handhavingsbeschikking;  
 
-– met de letter E: het aantal inburgeringsplichtigen aan wie het college in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben een kennisgeving als bedoeld in artikel 5.3, derde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432), heeft verstrekt;  
+– met de letter E: het aantal inburgeringsplichtigen aan wie het college in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben een kennisgeving als bedoeld in artikel 5.3, derde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432), heeft verstrekt;  
 
-– met de letter F: de bijdragevergoeding ten aanzien van de verstrekking van een kennisgeving als bedoeld in artikel 5.3, derde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het [Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432);  
+– met de letter F: de bijdragevergoeding ten aanzien van de verstrekking van een kennisgeving als bedoeld in artikel 5.3, derde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432);  
 
 – met de letter G: het aantal geestelijke bedienaren ten behoeve van wie het college in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben een inburgeringsvoorziening heeft vastgesteld;  
 
@@ -707,12 +726,12 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 – met de letter J: de bijdragevergoeding ten aanzien van de deelname door een geestelijke bedienaar aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
 
-– met de letter K: het aantal geestelijke bedienaren dat in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben, heeft deelgenomen aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432);  
+– met de letter K: het aantal geestelijke bedienaren dat in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben, heeft deelgenomen aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432);  
 
-– met de letter L: de bijdragevergoeding ten aanzien van de deelname door een geestelijke bedienaar aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432).     
-2.  Het college verstrekt de gegevens bedoeld in de letters C, E, G, I en K van het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), welke betrekking heeft op het jaar waarop het variabele deel van de rijksbijdrage betrekking heeft. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md). Het college vergewist zich ervan dat de gegevens zijn opgenomen in het Informatiesysteem Inburgering.   
-3.  Indien Onze Minister de gegevens en de accountantsverklaring niet binnen zesentwintig weken na het verstrijken van de termijn, bedoeld in [artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) heeft ontvangen stelt Onze Minister de hoogte van de letters C, E, G, I en K in de formule, bedoeld in het eerste lid, vast op nul.   
-4.  Onze Minister stelt het vaste en variabele deel van de rijksbijdrage uiterlijk dertig weken na het verstrijken van de termijn, bedoeld in [artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vast.   
+– met de letter L: de bijdragevergoeding ten aanzien van de deelname door een geestelijke bedienaar aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432).     
+2.  Het college verstrekt de gegevens bedoeld in de letters C, E, G, I en K van het eerste lid, tezamen met de jaarrekening, bedoeld in artikel 186 van de Gemeentewet, welke betrekking heeft op het jaar waarop het variabele deel van de rijksbijdrage betrekking heeft. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in artikel 213, derde lid, van de Gemeentewet. Het college vergewist zich ervan dat de gegevens zijn opgenomen in het Informatiesysteem Inburgering.   
+3.  Indien Onze Minister de gegevens en de accountantsverklaring niet binnen zesentwintig weken na het verstrijken van de termijn, bedoeld in artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet heeft ontvangen stelt Onze Minister de hoogte van de letters C, E, G, I en K in de formule, bedoeld in het eerste lid, vast op nul.   
+4.  Onze Minister stelt het vaste en variabele deel van de rijksbijdrage uiterlijk dertig weken na het verstrijken van de termijn, bedoeld in artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet, vast.   
 5.  Het vaste en variabele deel van de rijksbijdrage worden vastgesteld onder voorbehoud van goedkeuring van de beschikbare middelen door de begrotingswetgever en kunnen worden verlaagd in verband met wijzigingen van de rijksbegroting.   
 6.  Het vaste en variabele deel van de rijksbijdrage worden verrekend met het voorschot dat is verleend ten behoeve van de jaren 2007 en 2008. Het uit de verrekening resulterende positieve of negatieve saldo wordt uiterlijk zes maanden na de vaststelling ervan aan de gemeente betaald.  
 
@@ -720,13 +739,13 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 1.  Onze Minister stelt ten behoeve van de vaststelling van de rijksbijdrage jaarlijks de bijdragevergoedingen, bedoeld in artikel 7.5 en 7.6, vast.   
 2.  Onze Minister stelt ten behoeve van de vast te stellen hoogte van de bijdragevergoedingen jaarlijks de onderlinge verhouding vast tussen de indicatoren, bedoeld in artikel 7.1, derde lid, onderdelen a, c, e en g, en artikel 7.1, vierde lid, onderdeel c, enerzijds en de indicatoren, bedoeld in artikel 7.1, derde lid, onderdelen b, d, f en h, en artikel 7.1, vierde lid, onderdelen d en e, anderzijds.  
-3.  Onze Minister stelt de bijdragevergoedingen vast aan de hand van de verhouding, bedoeld in het tweede lid, de hoogte van de eigen bijdrage, bedoeld in [artikel 23, tweede lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals deze luidde voor het tijdstip van inwerkingtreding van [artikel I van de wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../wet/wijzigingswet/wet/inburgering/enz./(versterking/eigen/verantwoordelijkheid/etc/BWBR0032031/README.md) (Stb. 430) en een uitvalpercentage ter hoogte van 10%.   
+3.  Onze Minister stelt de bijdragevergoedingen vast aan de hand van de verhouding, bedoeld in het tweede lid, de hoogte van de eigen bijdrage, bedoeld in artikel 23, tweede lid, van de wet zoals deze luidde voor het tijdstip van inwerkingtreding van artikel I van de wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 430) en een uitvalpercentage ter hoogte van 10%.   
 4.  Onze Minister maakt de hoogte van de bijdragevergoedingen jaarlijks voor 15 september bekend.  
 
 ### Artikel  7.8  
 
 1.  Gemeenten kunnen in onderling overleg besluiten tot een gezamenlijke aanwending van de aan hen te verstrekken rijksbijdragen.   
-2.  In geval van samenwerking als bedoeld in het eerste lid dragen de deelnemende gemeenten de hen bij of krachtens dit hoofdstuk toekomende rechten en de bij of krachtens dit hoofdstuk op hen rustende verplichtingen over aan een van hen, dan wel aan een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md).   
+2.  In geval van samenwerking als bedoeld in het eerste lid dragen de deelnemende gemeenten de hen bij of krachtens dit hoofdstuk toekomende rechten en de bij of krachtens dit hoofdstuk op hen rustende verplichtingen over aan een van hen, dan wel aan een openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen.   
 3.  De colleges wie het betreft stellen Onze Minister voor 1 september, voorafgaand aan het jaar waarop de samenwerking betrekking heeft, in kennis van de samenwerking. Deze kennisgeving bevat in ieder geval: 
 
 a. de namen van de deelnemende gemeenten;  
@@ -774,7 +793,7 @@ In deze afdeling wordt verstaan onder:nieuwe inburgeringsplichtigen: inburgering
 
 De rijksbijdrage voor een gemeente ten behoeve van nieuwe inburgeringsplichtigen wordt berekend op de grondslag van:
 
-a.het aantal nieuwe inburgeringsplichtigen, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening, een duale inburgeringsvoorziening of een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde voor de inwerkingtreding van de [Wet participatiebudget](../../../../wet/wet/participatiebudget/BWBR0025039/README.md) heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
+a.het aantal nieuwe inburgeringsplichtigen, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening, een duale inburgeringsvoorziening of een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de wet, zoals die luidde voor de inwerkingtreding van de Wet participatiebudget heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
 
 b.het aantal in onderdeel a bedoelde nieuwe inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c.
 
@@ -796,12 +815,12 @@ b.het aantal in onderdeel a bedoelde nieuwe inburgeringsplichtigen dat binnen dr
 
 – met de letter G: de bijdragevergoeding ten aanzien van de vaststelling van de duale inburgeringsvoorziening ten behoeve van nieuwe inburgeringsplichtigen; 
 
-– met de letter H: het aantal nieuwe inburgeringsplichtigen ten behoeve van wie het college voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde voor de inwerkingtreding van de [Wet participatiebudget](../../../../wet/wet/participatiebudget/BWBR0025039/README.md) heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+– met de letter H: het aantal nieuwe inburgeringsplichtigen ten behoeve van wie het college voor de eerste keer een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de wet, zoals die luidde voor de inwerkingtreding van de Wet participatiebudget heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
 – met de letter I: de bijdragevergoeding ten aanzien van de vaststelling van de taalkennisvoorziening ten behoeve van nieuwe inburgeringsplichtigen. 
-2. Het college verstrekt de gegevens, bedoeld in de letters B, D, F en H van het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), welke betrekking heeft op het jaar 2011. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md). Het college vergewist zich ervan dat de gegevens zijn opgenomen in het Informatiesysteem Inburgering.
-3. Indien Onze Minister de gegevens en de accountantsverklaring niet binnen zesentwintig weken na het verstrijken van de termijn, bedoeld in [artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), heeft ontvangen, stelt Onze Minister de rijksbijdrage vast op nul.
-4. Onze Minister stelt de rijksbijdrage ten behoeve van nieuwe inburgeringsplichtigen uiterlijk dertig weken na het verstrijken van de termijn, bedoeld in [artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vast.
+2. Het college verstrekt de gegevens, bedoeld in de letters B, D, F en H van het eerste lid, tezamen met de jaarrekening, bedoeld in artikel 186 van de Gemeentewet, welke betrekking heeft op het jaar 2011. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in artikel 213, derde lid, van de Gemeentewet. Het college vergewist zich ervan dat de gegevens zijn opgenomen in het Informatiesysteem Inburgering.
+3. Indien Onze Minister de gegevens en de accountantsverklaring niet binnen zesentwintig weken na het verstrijken van de termijn, bedoeld in artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet, heeft ontvangen, stelt Onze Minister de rijksbijdrage vast op nul.
+4. Onze Minister stelt de rijksbijdrage ten behoeve van nieuwe inburgeringsplichtigen uiterlijk dertig weken na het verstrijken van de termijn, bedoeld in artikel 17b, derde lid, aanhef en onderdeel a, van de Financiële-verhoudingswet, vast.
 5. De rijksbijdrage wordt vastgesteld onder voorbehoud van goedkeuring van de beschikbare middelen door de begrotingswetgever en kan worden verlaagd in verband met wijzigingen van de rijksbegroting voor het jaar 2012 dan wel het jaar 2013.
 6. De rijksbijdrage wordt verrekend met het voorschot dat is verleend ten behoeve van de jaren 2007 en 2008. Het uit de verrekening resulterende positieve of negatieve saldo wordt uiterlijk zes maanden na de vaststelling ervan aan een gemeente betaald.
 
@@ -826,9 +845,9 @@ Vervallen per 01-01-2013
 
 ### Artikel  9.3  
 
-1.  De inburgeringsplichtige die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), blijft toegelaten tot deze opleiding.   
+1.  De inburgeringsplichtige die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs, blijft toegelaten tot deze opleiding.   
 2.  Het college kan de opleidingen educatie, bedoeld in het eerste lid, bekostigen uit het prestatie-afhankelijke deel van de rijksbijdrage dat betrekking heeft op het jaar 2007.   
-3.  Indien het college toepassing geeft aan het tweede lid, doet het college opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), welke betrekking heeft op het jaar 2007. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md).  
+3.  Indien het college toepassing geeft aan het tweede lid, doet het college opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in het eerste lid, tezamen met de jaarrekening, bedoeld in artikel 186 van de Gemeentewet, welke betrekking heeft op het jaar 2007. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in artikel 213, derde lid, van de Gemeentewet.  
 
 ### Afdeling  2  
 
@@ -837,7 +856,7 @@ Vervallen per 01-01-2013
 ### Artikel  9.8  
 
 1.  De wet en dit besluit treden in werking op 1 januari 2007.   
-2.  [Artikel 65 van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) werkt terug tot en met 1 januari 2006.  
+2.  Artikel 65 van de wet werkt terug tot en met 1 januari 2006.  
 
 ### Artikel  9.9  
 
@@ -899,7 +918,7 @@ p. V-nummer.   Voorts worden gegevens opgenomen die betrekking hebben op de admi
 
 a. de vaststelling dat de betrokkene wel of niet inburgeringsplichtig is;  
 
-b. het resultaat van het basisexamen inburgering, bedoeld in [artikel 16, eerste lid, onder h, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+b. het resultaat van het basisexamen inburgering, bedoeld in artikel 16, eerste lid, onder h, van de Vreemdelingenwet 2000;  
 
 c. de vaststelling dat de betrokkene geestelijke bedienaar is;  
 
@@ -909,11 +928,11 @@ e. de aanwezigheid van een andere vrijstelling van de inburgeringsplicht;
 
 f. de aanwezigheid van een ontheffing van de inburgeringsplicht;  
 
-g. een verlenging van de termijn, bedoeld in [artikel 7, eerste lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), krachtens artikel 7, derde lid of vierde lid, onderdeel a, van de wet;  
+g. een verlenging van de termijn, bedoeld in artikel 7, eerste lid, krachtens artikel 7, derde lid of vierde lid, onderdeel a, van de wet;  
 
-h. een krachtens [hoofdstuk 6, paragraaf 2, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md) opgelegde bestuurlijke boete;  
+h. een krachtens hoofdstuk 6, paragraaf 2, van de wet opgelegde bestuurlijke boete;  
 
-i. de termijn bedoeld in [artikel 32](../../../../wet/wet/inburgering/BWBR0020611/README.md) en [33, tweede lid](../../../../wet/wet/inburgering/BWBR0020611/README.md), waarbinnen de inburgeringsplichtige na het bekendmaken van een boetebeschikking alsnog het inburgeringsexamen moet behalen;  
+i. de termijn bedoeld in artikel 32 en 33, tweede lid, waarbinnen de inburgeringsplichtige na het bekendmaken van een boetebeschikking alsnog het inburgeringsexamen moet behalen;  
 
 j. een lening;  
 
@@ -927,13 +946,15 @@ n. wettelijke vertegenwoordiging;
 
 o. het inburgeringsexamen en de daarop betrekking hebbende geheimhoudingsverklaring;  
 
-p. het staatsexamen Nederlands als tweede taal I of II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+p. het staatsexamen Nederlands als tweede taal I of II, bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
 q. de deelname aan het voorbereidingsprogramma in de opvang van het Centraal Orgaan opvang asielzoekers;  
 
-r. de deelname aan de maatschappelijke begeleiding van vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onderdeel c, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), waarvoor gemeenten een subsidie van het Centraal Orgaan opvang asielzoekers ontvangen; 
+r. de deelname aan de maatschappelijke begeleiding van vreemdelingen met rechtmatig verblijf als bedoeld in artikel 8, onderdeel c, van de Vreemdelingenwet 2000, waarvoor gemeenten een subsidie van het Centraal Orgaan opvang asielzoekers ontvangen; 
 
-s. overige contactgegevens, waaronder in ieder geval emailadressen en telefoonnummers.   
+s. overige contactgegevens, waaronder in ieder geval emailadressen en telefoonnummers;  
+
+t. factuurgegevens ten behoeve van Onze Minister betreffende de kosten voor een internationale diplomawaardering of indicatie van het onderwijsniveau in het kader van de in artikel 2.10, eerste lid, onderdeel b, bedoelde oriëntatie op de Nederlandse arbeidsmarkt.  
 
 ### 4  
 
@@ -959,11 +980,13 @@ h. draagkrachtgegevens.   Verder worden gegevens opgenomen die betrekking hebben
 
 a. het inburgeringsexamen en de daarop betrekking hebbende geheimhoudingsverklaring;  
 
-b. het staatsexamen Nederlands als tweede taal I of II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. het staatsexamen Nederlands als tweede taal I of II, bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
 c. gegevens inzake de inburgeringscursus, zoals de cursusinstelling en de inschrijfgegevens;  
 
-d. overige contactgegevens, waaronder in ieder geval emailadressen en telefoonnummers.    
+d. overige contactgegevens, waaronder in ieder geval emailadressen en telefoonnummers;  
+
+e. factuurgegevens ten behoeve van Onze Minister betreffende de kosten voor een internationale diplomawaardering of indicatie van het onderwijsniveau in het kader van de in artikel 2.10, eerste lid, onderdeel b, bedoelde oriëntatie op de Nederlandse arbeidsmarkt.  
 
 ####Onderdeel c (partners van debiteuren als bedoeld in artikel 4.1a, tweede lid  en artikel 4.10  indien overeenkomstig die artikelen de hoogte van de lening en de draagkracht van de debiteur wordt bepaald)
 
@@ -983,7 +1006,7 @@ f. woonplaats;
 
 g. geboortedatum.   
 
-####Onderdeel d (personen waarvan is gebleken dat zij aansluitend op de leerplicht of kwalificatieplicht een opleiding volgen als bedoeld in [artikel 5, eerste lid, onderdeel e, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md))
+####Onderdeel d (personen waarvan is gebleken dat zij aansluitend op de leerplicht of kwalificatieplicht een opleiding volgen als bedoeld in artikel 5, eerste lid, onderdeel e, van de wet)
 
 Ten aanzien van de in artikel 6.1, eerste lid, onderdeel d, bedoelde personen worden de volgende gegevens opgenomen: 
 

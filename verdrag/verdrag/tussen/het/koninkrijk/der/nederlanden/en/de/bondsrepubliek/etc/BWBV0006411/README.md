@@ -94,13 +94,12 @@ c. niet-levende natuurlijke rijkdommen, ongeacht het feit dat beide Verdragsluit
 Wordt voorlopig toegepast per 24-10-2014 
 
 1.  De lijn verloopt vanaf het noordelijke eindpunt c” van de in de Aanvullende Overeenkomst van 14 mei 1962 bij het Eems-Dollardverdrag overeengekomen lijn, die het grensgebied van de Eemsmonding in de lengterichting splitst, tot aan punt E1 zoals vastgelegd in het Verdrag van 1 december 1964 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust. De lijn valt samen met de begrenzing zoals vastgelegd in het Verdrag van 1 december 1964 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust.   
-2.  Deze lijn wordt gevormd door een geodetische lijn die de in geografische coördinaten uitgedrukte punten c” en E1 verbindt:  
+2.  Deze lijn wordt gevormd door een geodetische lijn die de in geografische coördinaten uitgedrukte punten c” en E1 verbindt: 
 
-|--- | Breedte (Noord)  | Lengte (Oost)  |
+|--- |Breedte (Noord) |Lengte (Oost) |
 |:---|:---|:---|
-| --- | --- | --- |
-| Punt c”  | 53° 36’ 15,4”  | 6° 24’ 45,4”  |
-| Punt E1  | 53° 45’ 0,3”  | 6° 19’ 53,4”  |
+|Punt c” |53° 36’ 15,4” |6° 24’ 45,4” |
+|Punt E1 |53° 45’ 0,3” |6° 19’ 53,4” |
 
 De ligging van de in dit artikel genoemde punten is bepaald in lengte en breedte volgens het World Geodetic System 1984 (WGS84).  
 

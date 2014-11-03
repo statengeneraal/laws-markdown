@@ -95,7 +95,7 @@ Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de
 
 ### Artikel  10  
 
-Wijzigt de Akte betreffende de verkiezing van de vertegenwoordigers in de Vergadering door middel van rechtstreekse algemene verkiezingen, Brussel, 20 september 1976. 
+Wijzigt de Akte betreffende de verkiezing van de vertegenwoordigers in de Vergadering door middel van rechtstreekse algemene verkiezingen; Brussel, 20 september 1976. 
 
 ### Hoofdstuk  2  
 
@@ -103,19 +103,19 @@ Wijzigt de Akte betreffende de verkiezing van de vertegenwoordigers in de Vergad
 
 ### Artikel  11  
 
-Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben, Brussel, 8 april 1965. 
+Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965. 
 
 ### Artikel  12  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951.
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
 ### Artikel  13  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951. 
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951. 
 
 ### Artikel  14  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957. 
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957. 
 
 ### Hoofdstuk  3  
 
@@ -123,11 +123,11 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Sta
 
 ### Artikel  15  
 
-Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben, Brussel, 8 april 1965. 
+Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965. 
 
 ### Artikel  16  
 
-Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben, Brussel, 8 april 1965. 
+Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965. 
 
 ### Hoofdstuk  4  
 
@@ -135,15 +135,15 @@ Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Eu
 
 ### Artikel  17  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957.
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome; 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Artikel  18  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957. 
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957. 
 
 ### Artikel  19  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957.
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome; 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Hoofdstuk  5  
 
@@ -151,7 +151,7 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Sta
 
 ### Artikel  20  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957.
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Hoofdstuk  6  
 
@@ -159,7 +159,7 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Sta
 
 ### Artikel  21  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957. 
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957. 
 
 ### Hoofdstuk  7  
 
@@ -167,7 +167,7 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1
 
 ### Artikel  22  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, Parijs, 18 april 1951.
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
 ### Hoofdstuk  8  
 
@@ -175,7 +175,7 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Sta
 
 ### Artikel  23  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM), Rome, 25 maart 1957.
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### TITEL  II  
 
@@ -183,7 +183,7 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie
 
 ### Artikel  24  
 
-Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap, Rome, 25 maart 1957. 
+Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957. 
 
 ### Artikel  25  
 
@@ -5358,31 +5358,31 @@ Eerste Richtlijn 67/227/EEG van de Raad van 11 april 1967 (PB nr. 71 van 14.4.19
 
 ### Artikel  1  
 
-Wijzigt het Protocol betreffende de statuten van de Bank.
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ### Artikel 2  
 
-Wijzigt het Protocol betreffende de statuten van de Bank. 
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992. 
 
 ### Artikel  3  
 
-Wijzigt het Protocol betreffende de statuten van de Bank.
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ### Artikel  4  
 
-Wijzigt het Protocol betreffende de statuten van de Bank. 
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992. 
 
 ### Artikel  5  
 
-Wijzigt het Protocol betreffende de statuten van de Bank. 
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992. 
 
 ### Artikel  6  
 
-Wijzigt het Protocol betreffende de statuten van de Bank.
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ### Artikel  7  
 
-Wijzigt het Protocol betreffende de statuten van de Bank.
+Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ### TWEEDE  DEEL  
 
@@ -6056,9 +6056,9 @@ De Hoge Verdragsluitende Partijen, Verlangende bepaalde bijzondere vraagstukken 
 
 De Hoge Verdragsluitende Partijen, overwegende het bestaan van een katoenproduktie in Spanje, zijn overeengekomen Protocol nr. 4 betreffende katoen dat is gehecht aan de Akte betreffende de voorwaarden voor de toetreding van de Helleense Republiek en de aanpassing der Verdragen als volgt te wijzigen, ten einde daarin de in Spanje geproduceerde hoeveelheid katoen op te nemen en daarin regels op te nemen voor de aanpassing van de Spaanse prijzen aan de gemeenschappelijke prijzen, de afschaffing van de intracommunautaire douanerechten en de overname van het gemeenschappelijk douanetarief: 
 
-1. Wijzigt het Protocol nr. 4 betreffende katoen dat is gehecht aan de Akte betreffende de voorwaarden voor de toetreding van de Helleense Republiek en de aanpassing der Verdragen.  
+1. Wijzigt het Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten der Europese Gemeenschappen) en de Helleense Republiek betreffende de toetreding van de Helleense Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie; Athene, 28 mei 1979.  
 
-2. Wijzigt het Protocol nr. 4 betreffende katoen dat is gehecht aan de Akte betreffende de voorwaarden voor de toetreding van de Helleense Republiek en de aanpassing der Verdragen.     
+2. Wijzigt het Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten der Europese Gemeenschappen) en de Helleense Republiek betreffende de toetreding van de Helleense Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie; Athene, 28 mei 1979.     
 
 ### PROTOCOL Nr. 15 
 

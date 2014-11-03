@@ -44,15 +44,15 @@ a. dit onderdeel is nog niet in werking getreden.
 
 b. dit onderdeel is nog niet in werking getreden,  
 
-c. het ontwikkelen van de rekentoets, bedoeld in [artikel 29, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+c. het ontwikkelen van de rekentoets, bedoeld in artikel 29, vijfde lid, van de Wet op het voortgezet onderwijs,  
 
-d. het ontwikkelen van de centrale examens, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet op het voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) en de [Wet educatie en beroepsonderwijs BES](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md),  
+d. het ontwikkelen van de centrale examens, bedoeld in de Wet op het voortgezet onderwijs, de Wet op het voortgezet onderwijs BES, de Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES,  
 
 e. het uitvoeren van onderzoek ter ondersteuning van de taken, genoemd in dit artikel, of  
 
 f. het uitvoeren van aanvullende activiteiten die samenhangen met de taken, genoemd in dit artikel.     
 2.  Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor de taken, genoemd in dit artikel.   
-3.  Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor het ontwikkelen van de toetsen, bedoeld in [artikel 11, zevende lid, van de Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+3.  Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor het ontwikkelen van de toetsen, bedoeld in artikel 11, zevende lid, van de Wet op de expertisecentra.  
 
 ### Artikel  4  
 
@@ -70,7 +70,7 @@ Onze Minister maakt eenmaal per twee jaar voor 1 april een Kaderbrief SLOA beke
 
 #### *Weigeringsgronden* 
 
-Onverminderd de mogelijkheden tot weigering van subsidieverlening ingevolge de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een subsidieverlening worden geweigerd indien Onze Minister van oordeel is dat: 
+Onverminderd de mogelijkheden tot weigering van subsidieverlening ingevolge de Algemene wet bestuursrecht kan een subsidieverlening worden geweigerd indien Onze Minister van oordeel is dat: 
 
 a. de aanvraag niet past binnen de Kaderbrief SLOA, of  
 
@@ -98,7 +98,7 @@ g. intrekking en wijziging van de subsidieverlening of subsidievaststelling,
 
 h. de betaling van de subsidie en het verlenen van voorschotten,  
 
-i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of  
+i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht, of  
 
 j. andere criteria voor de verstrekking van subsidie.     
 2.  Bij de regels, bedoeld in het eerste lid, wordt voor zover nodig onderscheid gemaakt tussen subsidie voor: 
@@ -124,7 +124,7 @@ De voor de taken, genoemd in artikel 2 en 3, gebruikte gegevens en de resultate
 
 #### *Intellectueel eigendom* 
 
-1.  Tenzij anders overeengekomen werkt de instelling mee aan het overdragen van intellectuele eigendomsrechten ten behoeve van Onze Minister ter zake van de taken, genoemd in artikel 2 en 3, en doet voor zover de [Auteurswet](../../../../../../../../wet/auteurswet/BWBR0001886/README.md) dit toestaat, tevens afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.   
+1.  Tenzij anders overeengekomen werkt de instelling mee aan het overdragen van intellectuele eigendomsrechten ten behoeve van Onze Minister ter zake van de taken, genoemd in artikel 2 en 3, en doet voor zover de Auteurswet dit toestaat, tevens afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.   
 2.  Voor zover de taken, genoemd in artikel 2 en 3, tot stand komen met gebruikmaking van reeds bestaande, niet aan de instelling toekomende intellectuele eigendomsrechten, draagt de instelling zorg voor het verlenen van adequate gebruiksrechten aan Onze Minister.  
 
 ### Artikel  11  
@@ -133,7 +133,7 @@ De voor de taken, genoemd in artikel 2 en 3, gebruikte gegevens en de resultate
 
 1.  Met het toezicht op de naleving van de aan de instelling opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aan te wijzen personen.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  De toezichthouder beschikt niet over de bevoegdheden, bedoeld in de [artikelen 5:18](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3.  De toezichthouder beschikt niet over de bevoegdheden, bedoeld in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.  
 
 ### Artikel  12  
 
@@ -152,8 +152,8 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 #### *Overgangsbepalingen* 
 
-1.  Na de inwerkingtreding van deze wet berust de [Regeling OCW-subsidies](../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) mede op artikel 7 van deze wet.   
-2.  De [Wet subsidiëring landelijke onderwijsondersteunende activiteiten](../../../../../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/BWBR0008725/README.md) wordt ingetrokken.  
+1.  Na de inwerkingtreding van deze wet berust de Regeling OCW-subsidies mede op artikel 7 van deze wet.   
+2.  De Wet subsidiëring landelijke onderwijsondersteunende activiteiten wordt ingetrokken.  
 
 ### Artikel  14  
 

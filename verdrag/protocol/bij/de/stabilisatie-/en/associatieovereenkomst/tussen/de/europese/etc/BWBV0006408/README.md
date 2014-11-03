@@ -47,7 +47,7 @@ Wordt voorlopig toegepast per 01-07-2013
 
 Wijzigt de Stabilisatie- en Associatie-Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 9 april 2001.
 
-###Arikel 3 
+###Artikel 3 
 
 ####Visserijproducten
 
@@ -55,7 +55,7 @@ Wordt voorlopig toegepast per 01-07-2013
 
 Wijzigt de Stabilisatie- en Associatie-Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 9 april 2001.
 
-###Arikel 4 
+###Artikel 4 
 
 ####Bewerkte landbouwproducten
 

@@ -1194,8 +1194,9 @@ d. het toezicht op de naleving van artikel 9 van de Wet Centraal Orgaan opvang a
 7.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder c, uit eigen beweging of op verzoek van Onze Minister van Veiligheid en Justitie.   
 8.  De inspectie brengt van haar bevindingen verslag uit aan degene bij wie het onderzoek is uitgevoerd en kan daarbij voorstellen doen tot verbetering van de kwaliteit. De inspectie stelt het betrokken overheidsorgaan schriftelijk op de hoogte van haar bevindingen.   
 9.  De inspectie stelt gedeputeerde staten van haar bevindingen ten aanzien van bureaus jeugdzorg en zorgaanbieders op de hoogte indien zij van oordeel is, dat toepassing moet worden gegeven aan artikel 16, eerste of zevende lid.   
-10.  De inspectie stelt jaarlijks een verslag op van haar werkzaamheden. In het verslag doet zij de voorstellen die zij in het belang van de jeugdzorg nodig acht. Het verslag wordt gezonden aan de provinciebesturen, Onze Ministers en de Tweede Kamer der Staten-Generaal.   
-11.  Onze Ministers kunnen regels stellen omtrent de organisatie van de inspectie.  
+10.  Indien een organisatie van beoefenaren van een beroep in de jeugdzorg, een systeem van tuchtrecht heeft georganiseerd, zijn de ambtenaren van de Inspectie jeugdzorg bevoegd in het kader van dat systeem een tuchtklacht in te dienen. Bij algemene maatregel van bestuur kunnen ter zake nadere regels worden gesteld.  
+11. De inspectie stelt jaarlijks een verslag op van haar werkzaamheden. In het verslag doet zij de voorstellen die zij in het belang van de jeugdzorg nodig acht. Het verslag wordt gezonden aan de provinciebesturen, Onze Ministers en de Tweede Kamer der Staten-Generaal.  
+12.  Onze Ministers kunnen regels stellen omtrent de organisatie van de inspectie.  
 
 ### Artikel  48  
 

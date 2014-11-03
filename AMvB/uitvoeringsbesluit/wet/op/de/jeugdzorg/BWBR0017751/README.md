@@ -26,11 +26,15 @@ advies- en meldpunt kindermishandeling: de stichting bij de uitvoering van de ta
 
 autorisatielijst: autorisatielijst van jeugdzorgaanbieders, bedoeld in artikel 2y van de wet; 
 
+beroepsregister voor jeugdzorg: register waarin beoefenaren van beroepen werkzaam op het terrein van de jeugdzorg worden ingeschreven en dat tot doel heeft de kwaliteit van de beroepsbeoefening in het belang van de jeugdzorg, alsmede de handhaving van die kwaliteit te bevorderen; 
+
 de wet: de Wet op de jeugdzorg;  
 
 geautoriseerde: in de autorisatielijst opgenomen zorgaanbieder; 
 
-gekwalificeerde gedragswetenschapper: degene die lid is van het Nederlands Instituut voor Psychologen en is opgenomen in het Register Klinisch Psychologen of het register Kinder- en Jeugdpsychologen en beschikt over de Basisaantekening Psychodiagnostiek van dit instituut of degene die lid is van de Nederlandse Vereniging van Orthopedagogen en Onderwijskundigen en geregistreerd is als Orthopedagoog-Generalist dan wel een BIG-geregistreerde gezondheidszorgpsycholoog; 
+gekwalificeerde gedragswetenschapper: degene die is opgenomen in het register Kinder- en Jeugdpsychologen van het Nederlands Instituut van Psychologen of degene die lid is van de Nederlandse Vereniging van Pedagogen en Onderwijskundigen en geregistreerd is als Orthopedagoog-Generalist, dan wel een gezondheidszorgpsycholoog; 
+
+geregistreerde jeugdprofessional: een beroepsbeoefenaar die is ingeschreven in het kwaliteitsregister jeugd;  
 
 gezinsvoogdijwerker: medewerker van de stichting die belast is met de uitoefening van de taak, bedoeld in artikel 10, eerste lid, onder b, van de wet; 
 
@@ -46,9 +50,13 @@ jeugdreclassering: de stichting bij de uitvoering van de taken, bedoeld in artik
 
 jeugdreclasseringswerker: medewerker van de stichting die belast is met de uitvoering van de taak, bedoeld in artikel 10, eerste lid, onder c en d, van de wet. 
 
+kwaliteitsregister jeugd: het door Onze Ministers op grond van artikel 68a, eerste lid, erkende register;  
+
 melding: een melding van kindermishandeling of van een vermoeden daarvan; 
 
 observatiediagnostiek: observatiediagnostiek als bedoeld in artikel 5; 
+
+registerstichting: de rechtspersoon bedoeld in artikel 68a, tweede lid;  
 
 SBV-Z: sectorale berichtenvoorziening in de zorg, bedoeld in artikel 11 van het Besluit gebruik burgerservicenummer in de zorg; 
 
@@ -436,6 +444,87 @@ Zorgaanbieders kunnen uitsluitend gebruik maken van de voorzieningen, bedoeld in
 
 Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De artikelen 18 tot en met 25 en 33 van het Besluit gebruik burgerservicenummer in de zorg zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde. 
 
+### Hoofdstuk  8b  
+
+####Burgerservicenummer
+
+Treedt in werking per 15-11-2014 
+
+### §  1  
+
+####De autorisatielijst
+
+### Artikel  24  
+
+Bij regeling van Onze Minister wordt bepaald welke gegevens en bescheiden worden verstrekt bij de aanvraag om te worden opgenomen in de autorisatielijst. 
+
+### Artikel  24a  
+
+1.  Onze Minister stelt, aan de hand van bij of krachtens de wet gestelde vereisten voor de hoedanigheid van de zorgaanbieder, vast of de aanvraag, bedoeld in artikel 24, is gedaan door een zorgaanbieder.   
+2.  De aanvraag wordt in ieder geval afgewezen indien deze niet is gedaan door een zorgaanbieder.  
+
+### Artikel  24b  
+
+1.  In de autorisatielijst wordt per inschrijving opgenomen: 
+
+a. indien de geautoriseerde een natuurlijke persoon is: 
+
+1°. geslachtsnaam;  
+
+2°. voornamen;  
+
+3°. geboortedatum;  
+
+4°. geboorteplaats;  
+
+5°. titel in de zin van de Wet op de beroepen in de individuele gezondheidszorg;    
+
+b. indien de geautoriseerde een rechtspersoon is: de naam.     
+2.  In de autorisatielijst wordt voorts per inschrijving opgenomen: 
+
+a. aard van de gegevens en bescheiden aan de hand waarvan is vastgesteld dat de geautoriseerde een zorgaanbieder is;  
+
+b. datum van opname in de autorisatielijst;  
+
+c. adres van vestiging;  
+
+d. gegevens met betrekking tot verstrekte en ingetrokken toegangsmiddelen.     
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de opname en verwerking van gegevens in de autorisatielijst.  
+
+### Artikel  24c  
+
+De geautoriseerde stelt Onze Minister onmiddellijk op de hoogte van een wijziging van de in de autorisatielijst opgenomen gegevens en van omstandigheden die van belang kunnen zijn voor het schorsen of doorhalen van de opname. 
+
+### Artikel  24d  
+
+1.  Verwijdering van de autorisatielijst vindt slechts plaats: 
+
+a. op verzoek van de geautoriseerde, of  
+
+b. indien de geautoriseerde geen zorgaanbieder meer is.     
+2.  Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg, is geschorst, is zijn opname in de autorisatielijst van jeugdzorgaanbieders geschorst.  
+
+### Artikel  24e  
+
+1.  Onze Minister deelt aan een ieder die daarom verzoekt mede of: 
+
+a. een zorgaanbieder is opgenomen op de autorisatielijst;  
+
+b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.     
+2.  Indien het verzoek wordt gedaan door de voorzieningen als bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer, wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.  
+
+### §  2  
+
+####SBV-Z en toegangsmiddelen
+
+### Artikel  24f  
+
+Zorgaanbieders kunnen uitsluitend gebruik maken van de voorzieningen, bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer uitsluitend door tussenkomst van de SBV-Z. 
+
+### Artikel  24g  
+
+Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De artikelen 18 tot en met 25 en 33 van het Besluit gebruik burgerservicenummer in de zorg zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde. 
+
 ###Hoofdstuk 9 
 
 ####Kwaliteit en werkwijze bureaus jeugdzorg
@@ -472,27 +561,30 @@ De stichting stuurt, onverminderd artikel 51 van de wet, aan de huisarts van de 
 
 ####Deskundigheden bureau jeugdzorg
 
-###Artikel 29 
+### Artikel  29  
 
-1. Ten behoeve van een verantwoorde uitvoering door de stichting van de aan haar bij de wet opgedragen taken, beschikt de stichting over deskundigheid met betrekking tot:
+1.  Onverminderd het derde, vierde en vijfde lid, beschikt de stichting ten behoeve van een verantwoorde uitvoering van de aan haar bij de wet opgedragen taken over deskundigheid met betrekking tot: 
 
-a.de beoordeling en aanpak van psychosociale, psychische of gedragsproblemen, dan wel een psychiatrische aandoening van jeugdigen;
+a. de beoordeling en aanpak van psychosociale, psychische of gedragsproblemen, dan wel een psychiatrische aandoening van jeugdigen;  
 
-b.de beoordeling en aanpak van opvoedingssituaties die het onbedreigd opgroeien van jeugdigen kunnen belemmeren;
+b. de beoordeling en aanpak van opvoedingssituaties die het onbedreigd opgroeien van jeugdigen kunnen belemmeren;  
 
-c.de herkenning van taal- en leerproblemen;
+c. de herkenning van taal- en leerproblemen;  
 
-d.de herkenning van somatische aandoeningen;
+d. de herkenning van somatische aandoeningen;  
 
-e.de herkenning van lichamelijke of verstandelijke handicaps;
+e. de herkenning van lichamelijke of verstandelijke handicaps;  
 
-f.de beoordeling en aanpak van kindermishandeling;
+f. de beoordeling en aanpak van kindermishandeling;  
 
-g.de aanpak van jeugdige delinquenten;
+g. de aanpak van jeugdige delinquenten;  
 
-h.de juridische aspecten van de haar opgedragen taken.
-2. De stichting heeft kennis van het aanbod van zorg.
-3. Bij regeling van Onze Ministers kunnen regels worden gesteld over de opleidings- of deskundigheidseisen van medewerkers van de stichting, van beroepskrachten werkzaam bij de stichting alsmede van de deskundigen, bedoeld in artikel 35.
+h. de juridische aspecten van de haar opgedragen taken.     
+2.  De stichting heeft kennis van het aanbod van zorg.   
+3.  Indien toepassing is gegeven aan artikel 68a, eerste lid, worden de taken waarmee de stichting bij de wet is belast, verricht door of onder verantwoordelijkheid van een geregistreerde jeugdprofessional. De stichting houdt bij de toedeling van taken rekening met de specifieke kennis en vaardigheden op basis waarvan de geregistreerde jeugdprofessional is ingeschreven in het kwaliteitsregister jeugd.   
+4.  In afwijking van het derde lid, kan de stichting anderen dan geregistreerde jeugdprofessionals met de uitvoering van taken belasten indien zij aannemelijk kan maken dat de kwaliteit van de taakuitoefening daardoor niet nadelig wordt beïnvloed. Zij belast anderen met die taken indien dit noodzakelijk is voor de kwaliteit van de uitvoering van haar taken.   
+5.  De stichting draagt er zorg voor dat geregistreerde jeugdprofessionals hun taken kunnen verrichten met inachtneming van de professionele standaarden waaraan zij door de inschrijving in het kwaliteitsregister jeugd zijn gebonden.  
+6.  Bij regeling van Onze Ministers kunnen regels worden gesteld over de opleidings- of deskundigheidseisen van medewerkers van de stichting, van beroepskrachten werkzaam bij de stichting alsmede van de deskundigen, bedoeld in artikel 35.  
 
 ###Paragraaf 3 
 
@@ -522,7 +614,7 @@ Bij regeling van Onze Ministers kunnen nadere regels worden gesteld omtrent de w
 
 ### Artikel  35  
 
-De stichting kan, alvorens het indicatiebesluit te nemen, een ontwerp daarvan ter advisering aan een gekwalificeerde gedragswetenschapper voorleggen. 
+In afwijking van artikel 29, derde lid, kan de stichting, alvorens het indicatiebesluit te nemen, een ontwerp daarvan ter advisering aan een gekwalificeerde gedragswetenschapper voorleggen. 
 
 ###Artikel 36 
 
@@ -761,7 +853,7 @@ Van de klachtencommissie maken in ieder geval deel uit:
 
 a. een jurist,  
 
-b. een gekwalificeerde gedragswetenschapper, alsmede  
+b. een gekwalificeerde gedragswetenschapper of, indien toepassing is gegeven aan artikel 68a, eerste lid, een gedragswetenschapper die is opgenomen in het kwaliteitsregister jeugd, alsmede  
 
 c. een arts, indien het een klacht betreft tegen een geneeskundige behandelingsmethode als bedoeld in artikel 29p, derde lid, van de wet, niet zijnde een behandeling van een stoornis van de geestvermogens of een psychiater, indien het een klacht betreft tegen een geneeskundige behandelingsmethode als bedoeld in artikel 29p, derde lid, van de wet indien het gaat om een behandeling van een stoornis van de geestvermogens.   
 
@@ -866,6 +958,158 @@ Aan de vertrouwenspersoon worden door de stichting of de zorgaanbieder de facili
 ###Artikel 68 
 
 De vertrouwenspersoon die ondersteuning verleent aan een cliënt, onthoudt zich van ondersteuning van anderen indien zulks een onafhankelijke taakuitoefening jegens die cliënt in gevaar kan brengen.
+
+### Hoofdstuk  12a  
+
+####Voorwaarden voor erkenning als kwaliteitsregister jeugd
+
+### Paragraaf  1  
+
+####De erkenning
+
+### Artikel  68a  
+
+1.  Onze Ministers kunnen op aanvraag van de beheerder van een beroepsregister voor jeugdzorg dat register als enig kwaliteitsregister jeugd erkennen.   
+2.  De beheerder van het kwaliteitsregister jeugd heeft de rechtsvorm, bedoeld in artikel 285, eerste lid, van Boek 2 van het Burgerlijk Wetboek.  
+
+### Artikel  68b  
+
+De erkenning, bedoeld in artikel 68a, eerste lid, vindt slechts plaats indien het beroepsregister voor jeugdzorg onderscheidenlijk de beheerder van die stichting voldoen aan de in de artikelen 68d tot en met 68l gestelde voorwaarden. 
+
+### Artikel  68c  
+
+1.  Een erkenning als bedoeld in artikel 68a, eerste lid, kan door Onze Ministers worden ingetrokken: 
+
+a. indien de registerstichting niet of niet langer voldoet aan de bij dit besluit gestelde eisen;  
+
+b. indien de registerstichting handelt in strijd met de in dit hoofdstuk neergelegde erkenningsvoorwaarden;  
+
+c. indien de registerstichting niet naar behoren functioneert;  
+
+d. op verzoek van de registerstichting.     
+2.  Onze Ministers kunnen in het belang van de jeugdzorg een termijn vaststellen waarop de intrekking zal plaatsvinden.  
+
+### Paragraaf  2  
+
+####Het bestuur en de organen van de registerstichting
+
+### Artikel  68d  
+
+1.  De leden van het bestuur van de registerstichting worden benoemd op voordracht van beroepsverenigingen waarbij beroepsbeoefenaren zijn aangesloten die van relevant belang zijn voor de beroepsuitoefening binnen de jeugdzorg.   
+2.  De statuten van de registerstichting regelen de mogelijkheid tot aanwijzing van andere beroepsverenigingen van relevant belang voor de beroepsuitoefening binnen de jeugdzorg, die gerechtigd zijn tot een voordracht van leden van het bestuur.  
+
+### Artikel  68e  
+
+De statuten van de registerstichting regelen op afdoende wijze dat de leden van het bestuur, dan wel leden van andere organen van de registerstichting geen functies vervullen die onverenigbaar, strijdig zijn of strijdig kunnen zijn met de belangen of doelstellingen van de registerstichting. 
+
+### Artikel  68f  
+
+1.  De statuten van de registerstichting voorzien in een raad van advies, bestaande uit leden die in ieder geval organisaties van werkgevers en cliënten vertegenwoordigen.   
+2.  De raad van advies heeft in ieder geval het recht advies uit te brengen over: 
+
+a. de voorwaarden voor registratie en herregistratie;  
+
+b. een aanwijzing als bedoeld in artikel 68d, tweede lid;  
+
+c. de samenstelling van de raad van advies.     
+3.  De statuten voorzien erin dat van een door de raad van advies uitgebracht advies slechts schriftelijk en gemotiveerd kan worden afgeweken nadat over het advies een op overeenstemming gericht overleg heeft plaatsgevonden.  
+
+### Paragraaf  3  
+
+####De registratievoorwaarden
+
+### Artikel  68g  
+
+De registerstichting: 
+
+a. regelt dat het kwaliteitsregister jeugd slechts toegankelijk is voor beroepsbeoefenaren die behoren tot bij een van de voordragende beroepsverenigingen aangesloten categorieën van beroepsbeoefenaren;  
+
+b. hanteert niet het vereiste van lidmaatschap van een beroepsvereniging voor opname in het kwaliteitsregister jeugd.   
+
+### Artikel  68h  
+
+De registerstichting stelt het register open voor de inschrijving van beroepsbeoefenaren die minimaal op het niveau van een hogere beroepsopleiding scholing hebben afgerond die is gericht op het vervullen van een beroep in de jeugdzorg. 
+
+### Artikel  68i  
+
+1.  De registerstichting regelt dat: 
+
+a. registratie en herregistratie op zorgvuldige wijze plaatsvinden;  
+
+b. de registratie een geldigheid heeft van een door de registerstichting vast te stellen, bepaalde duur;  
+
+c. herregistratie plaatsvindt op voorwaarde dat de betrokkene in de periode, bedoeld onder b, heeft voldaan aan door de registerstichting te stellen eisen van werkervaring en van na- en bijscholing.     
+2.  De registerstichting regelt voorts dat voorafgaand aan de wijziging van de eisen van registratie aan een beroepsbeoefenaar overleg wordt gevoerd met de beroepsverenigingen, bedoeld in artikel 68d, eerste lid.  
+
+### Paragraaf  4  
+
+####De binding aan en handhaving van professionele standaarden
+
+### Artikel  68j  
+
+1.  De registerstichting waarborgt dat de in het kwaliteitsregister jeugd opgenomen beroepsbeoefenaren dienen te handelen volgens voor hen geldende professionele standaarden.   
+2.  De statuten van de registerstichting voorzien in de binding van de geregistreerde beroepsbeoefenaren aan een adequaat systeem van normhandhaving op grond waarvan passende maatregelen kunnen worden genomen tegen beroepsbeoefenaren die niet voldoen aan professionele standaarden, bedoeld in het eerste lid.  
+
+### Paragraaf  5  
+
+####De registratiekosten
+
+### Artikel  68k  
+
+De door de registerstichting in rekening te brengen kosten voor de registratie worden zodanig vastgesteld dat de baten niet uitgaan boven de kosten die redelijkerwijs noodzakelijk zijn voor de verwezenlijking van de doelstellingen van de registerstichting. 
+
+### Paragraaf  6  
+
+####De openbaarheid
+
+### Artikel  68l  
+
+De registerstichting regelt dat het register voor een ieder kosteloos raadpleegbaar is. Zij regelt voorts dat maatregelen als bedoeld in artikel 68j, tweede lid, gedurende een door haar vast te stellen periode voor het publiek kenbaar zijn. Zij houdt daarbij rekening met de aard van de maatregelen, de verwijtbaarheid van het handelen en met het belang van degenen die daarvan kennis kunnen nemen. 
+
+### Paragraaf  7  
+
+####Overige bepalingen
+
+### Artikel  68m  
+
+Na de beëindiging van de erkenning verleent de registerstichting alle medewerking die noodzakelijk is voor de overdracht van taken aan een andere, door Onze Ministers aan te wijzen organisatie. 
+
+### Artikel  68n  
+
+1.  De registerstichting verstrekt aan Onze Ministers kosteloos op verzoek alle in haar bezit zijnde, op de op het functioneren van de registerstichting of het kwaliteitsregister jeugd betrekking hebbende informatie die redelijkerwijs noodzakelijk is om te beoordelen of de registerstichting of het kwaliteitsregister jeugd voldoet aan de bij dit besluit gestelde eisen, dan wel de informatie die redelijkerwijs noodzakelijk is om ten minste inzicht te krijgen in de aantallen registraties, de aard van de registraties en de ontwikkelingen rond het systeem van normhandhaving, bedoeld in artikel 68j, tweede lid.   
+2.  De registerstichting meldt voorgenomen wijzingen van haar statuten aan Onze Ministers.  
+
+### Artikel  68o  
+
+1.  De registerstichting stelt jaarlijks een verslag op met betrekking tot de uitvoering van de met dit besluit samenhangende werkzaamheden.   
+2.  Het jaarverslag bevat in ieder geval een beschrijving van de werkzaamheden, bedoeld in het eerste lid, en geven inzicht in: 
+
+a. de voorbereiding en uitvoering van de werkzaamheden;  
+
+b. de kwaliteit van de daarbij gevolgde procedures;  
+
+c. de behandeling van personen en instellingen die met de registerstichting in aanraking komen; en  
+
+d. de werkzaamheden, samenhangend met 68j, tweede lid.     
+3.  Het jaarverslag geeft tevens cijfermatig inzicht in de gegevens, bedoeld in het tweede lid, onder a, c en d.   
+4.  De registerstichting zendt het jaarverslag voor 1 april aan Onze Ministers en de beroepsverenigingen, bedoeld in artikel 68d, eerste lid.   
+5.  Het jaarverslag gaat vergezeld van een verklaring van een accountant die is ingeschreven in het register, bedoeld in artikel 36, eerste lid, van de Wet toezicht accountantsorganisaties. In de verklaring: 
+
+a. wordt mededeling gedaan omtrent de getrouwheid van het jaarverslag; en  
+
+b. wordt er blijk van gegeven dat de accountant heeft onderzocht of de registerstichting, onderscheidenlijk het kwaliteitsregister, heeft voldaan aan de bij dit besluit gestelde verplichtingen en wat daarvan de bevindingen zijn.    
+
+### Artikel  68p  
+
+Van de erkenning, bedoeld in artikel 68a, eerste lid, en de intrekking van de erkenning, bedoeld in artikel 68c, eerste lid, wordt mededeling gedaan in de Staatscourant. 
+
+### Hoofdstuk  12b  
+
+####Het indienen van een tuchtklacht door de Inspectie jeugdzorg
+
+### Artikel  68q  
+
+De bevoegdheid van de Inspectie jeugdzorg, bedoeld in artikel 47, tiende lid, van de wet, is beperkt tot het kwaliteitsregister jeugd. 
 
 ### Hoofdstuk  13  
 
@@ -1039,13 +1283,29 @@ Wijzigt het Besluit tenuitvoerlegging jeugdstrafrecht 1994.
 
 Wijzigt het Reglement justitiële jeugdinrichtingen.
 
-###Hoofdstuk 15 
+### Hoofdstuk  15  
 
 ####Overgangs- en slotbepalingen
 
 ###Artikel 77 
 
 Tot het tijdstip, bedoeld in artikel 104, eerste lid, van de wet, kan de stichting een medewerker van een instelling met een landelijk bereik, die op het moment van inwerkingtreding van de Wet op de jeugdzorg als voogdij-instelling op grond van artikel 60, eerste lid, onder a, van de Wet op de jeugdhulpverlening of als gezinsvoogdij-instelling op grond van artikel 60, eerste lid, onder b, van die wet aanvaard was, aanwijzen als voogdij- onderscheidenlijk gezinsvoogdij- of jeugdreclasseringswerker.
+
+### Artikel  77a  
+
+Gedurende een periode van een jaar na het tijdstip van inwerkingtreding van de artikelen 23a, eerste tot en met derde lid, en 29, derde tot en met vijfde lid, zijn die bepalingen niet van toepassing op werktoedelingen waarvan de zorgaanbieder onderscheidenlijk de stichting, aannemelijk kan maken dat die toedeling plaatsvindt aan een beroepsbeoefenaar die reeds op dat tijdstip van inwerkingtreding binnen de betreffende organisatie werkzaam was. 
+
+### Artikel  77b  
+
+Gedurende een periode van vijf jaar en drie maanden na inwerkingtreding van artikel 68h kan in afwijking van dat artikel een beroepsbeoefenaar in het kwaliteitsregister jeugd zijn ingeschreven indien: 
+
+a. die beroepsbeoefenaar op het tijdstip van inwerkingtreding van artikel 68h binnen de jeugdzorg werkzaam is in een functie waarvoor scholing is vereist op het niveau van een hogere beroepsopleiding;  
+
+b. de aan de registratie van de beroepsbeoefenaar ten grondslag liggende aanvraag is ingediend binnen drie maanden na inwerkingtreding van artikel 68h;  
+
+c. de beroepsbeoefenaar deelneemt aan een scholingstraject, dat erop gericht is uiterlijk bij de eerste herregistratie de scholing op het niveau van hoger beroepsonderwijs te voltooien; en  
+
+d. in het kader van de raadpleegbaarheid, bedoeld in artikel 68l, voor een ieder kenbaar is dat de inschrijving van de beroepsbeoefenaar valt onder de werking van dit artikel.   
 
 ###Artikel 78 
 

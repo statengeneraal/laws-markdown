@@ -1886,7 +1886,7 @@ c.de maatregelen die in geval van onregelmatigheden of ordeverstoring kunnen wor
 
 1. Het basisexamen inburgering wordt onder toezicht van een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aan te wijzen ambtenaar, medewerker, autoriteit of instelling afgelegd op een door dat hoofd vast te stellen tijdstip en in een door dat hoofd aan te wijzen ruimte. 
 2. Het basisexamen inburgering wordt afgelegd door middel van een telefonische of digitale verbinding met een geautomatiseerd systeem, dat door een door Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen instantie volgens door Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels wordt beheerd. 
-3. Onze Minister van Sociale Zaken en Werkgelegenheid beoordeelt de resultaten van het basisexamen inburgering door middel van het geautomatiseerde systeem, bedoeld in het tweede lid.
+3. Onze Minister van Sociale Zaken en Werkgelegenheid beoordeelt de resultaten van het basisexamen inburgering door middel van het geautomatiseerde systeem, bedoeld in het tweede lid, met uitzondering van het onderdeel spreekvaardigheid, dat wordt beoordeeld door beoordelaars.
 4. Het resultaat van het basisexamen inburgering wordt in de gevallen waarin Onze Minister van Sociale Zaken en Werkgelegenheid niet door middel van het geautomatiseerde systeem, bedoeld in het tweede lid, tot een beoordeling daarvan heeft kunnen komen, alsmede in het in artikel 3.98d, derde lid, bedoelde geval, beoordeeld door examinatoren.
 
 ### Artikel 3.98d 
