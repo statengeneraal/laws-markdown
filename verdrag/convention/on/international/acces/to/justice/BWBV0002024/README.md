@@ -2,7 +2,7 @@
 
 ##Verdrag inzake de toegang tot de rechter in internationale gevallen
 
-####Convention on International Acces to Justice
+####Convention on International Access to Justice
 
 The States signatory to this Convention, Desiring to facilitate international access to justice, Have resolved to conclude a Convention for this purpose and have agreed upon the following provisions -     
 ### CHAPTER  I  
@@ -59,7 +59,8 @@ Applications for legal aid shall be handled expeditiously.
 
 ### Article  13  
 
-Where legal aid has been granted in accordance with Article 1, service of documents in any other Contracting State in pursuance of the legally aided person's proceedings shall not give rise to any charges regardless of the manner in which service is effected. The same applies to Letters of Request and social enquiry reports, except for fees paid to experts and interpreters. Where a person has received legal aid in accordance with Article 1 for proceedings in a Contracting State and a decision has been given in those proceedings, he shall, without any further examination of his circumstances, be entitled to legal aid in any other Contracting State in which he seeks to secure the recognition or enforcement of that decision. 
+1. Where legal aid has been granted in accordance with Article 1, service of documents in any other Contracting State in pursuance of the legally aided person's proceedings shall not give rise to any charges regardless of the manner in which service is effected. The same applies to Letters of Request and social enquiry reports, except for fees paid to experts and interpreters. 
+2. Dit lid is nog niet in werking getreden.
 
 ### CHAPTER  II  
 
@@ -117,11 +118,11 @@ Without prejudice to the provisions of Article 22, nothing in this Convention sh
 
 ### Article  22  
 
-Between Parties to this Convention who are also Parties to one or both of the Conventions on civil procedure signed at The Hague on the 17th of July 1905 and the [1st of March 1954](../../../../../../../../verdrag/convention/relative/À/la/procÉdure/civile/BWBV0002016/README.md), this Convention shall replace Articles 17 to 24 of the Convention of 1905 or [Articles 17 to 26 of the Convention](../../../../../../../../verdrag/convention/relative/À/la/procÉdure/civile/BWBV0002016/README.md) of 1954 even if the reservation provided for under paragraph 2c of Article 28 of this Convention has been made. 
+Between Parties to this Convention who are also Parties to one or both of the Conventions on civil procedure signed at The Hague on the 17th of July 1905 and the 1st of March 1954, this Convention shall replace Articles 17 to 24 of the Convention of 1905 or Articles 17 to 26 of the Convention of 1954 even if the reservation provided for under paragraph 2c of Article 28 of this Convention has been made. 
 
 ### Article  23  
 
-Supplementary agreements between Parties to the Conventions of 1905 and [1954](../../../../../../../../verdrag/convention/relative/À/la/procÉdure/civile/BWBV0002016/README.md) shall be considered as equally applicable to the present Convention, to the extent that they are compatible therewith, unless the Parties otherwise agree. 
+Supplementary agreements between Parties to the Conventions of 1905 and 1954 shall be considered as equally applicable to the present Convention, to the extent that they are compatible therewith, unless the Parties otherwise agree. 
 
 ### Article  24  
 
@@ -285,7 +286,8 @@ Verzoeken om rechtsbijstand dienen met spoed te worden behandeld.
 
 ### Artikel  13  
 
-In de gevallen waarin met toepassing van artikel 1 rechtsbijstand is verleend, worden voor de betekening van processtukken in een andere Verdragsluitende Staat, welke verband houden met het geding van degene aan wie rechtsbijstand is verleend, geen kosten in rekening gebracht, ongeacht de wijze waarop de betekening heeft plaatsgevonden. Dit geldt eveneens voor rogatoire commissies en rapporten van maatschappelijk werkers, met uitzondering van vergoeding voor deskundigen en tolken. Wanneer aan een persoon in verband met een geding in een Verdragsluitende Staat rechtsbijstand is verleend met toepassing van artikel 1 en de rechter uitspraak heeft gedaan, heeft de betrokkene, zonder nader onderzoek, recht op rechtsbijstand in elke andere Verdragsluitende Staat waar hij verzoekt om erkenning of tenuitvoerlegging van deze uitspraak. 
+1. In de gevallen waarin met toepassing van artikel 1 rechtsbijstand is verleend, worden voor de betekening van processtukken in een andere Verdragsluitende Staat, welke verband houden met het geding van degene aan wie rechtsbijstand is verleend, geen kosten in rekening gebracht, ongeacht de wijze waarop de betekening heeft plaatsgevonden. Dit geldt eveneens voor rogatoire commissies en rapporten van maatschappelijk werkers, met uitzondering van vergoeding voor deskundigen en tolken.
+2. Dit lid is nog niet in werking getreden. 
 
 ### HOOFDSTUK  II  
 
@@ -343,11 +345,11 @@ Onverminderd het bepaalde in artikel 22 kan geen bepaling van dit Verdrag worden
 
 ### Artikel  22  
 
-Tussen Partijen bij dit Verdrag die tevens Partij zijn bij het Verdrag betreffende de burgerlijke rechtsvordering, ondertekend op 17 juli 1905 te 's-Gravenhage, en/of het [Verdrag betreffende burgerlijke rechtsvordering](../../../../../../../../verdrag/convention/relative/À/la/procÉdure/civile/BWBV0002016/README.md), ondertekend op 1 maart 1954 te 's-Gravenhage, vervangt dit Verdrag de artikelen 17 t/m 24 van het Verdrag van 1905 of de [artikelen 17 t/m 26 van het Verdrag van 1954](../../../../../../../../verdrag/convention/relative/À/la/procÉdure/civile/BWBV0002016/README.md), zelfs indien het in het tweede lid, onder c, van artikel 28 van dit Verdrag bedoelde voorbehoud is gemaakt. 
+Tussen Partijen bij dit Verdrag die tevens Partij zijn bij het Verdrag betreffende de burgerlijke rechtsvordering, ondertekend op 17 juli 1905 te 's-Gravenhage, en/of het Verdrag betreffende burgerlijke rechtsvordering, ondertekend op 1 maart 1954 te 's-Gravenhage, vervangt dit Verdrag de artikelen 17 t/m 24 van het Verdrag van 1905 of de artikelen 17 t/m 26 van het Verdrag van 1954, zelfs indien het in het tweede lid, onder c, van artikel 28 van dit Verdrag bedoelde voorbehoud is gemaakt. 
 
 ### Artikel  23  
 
-Aanvullende overeenkomsten tussen de Partijen bij de Verdragen van 1905 en [1954](../../../../../../../../verdrag/convention/relative/À/la/procÉdure/civile/BWBV0002016/README.md) worden, voor zover zij daarmee verenigbaar zijn, eveneens geacht van toepassing te zijn op dit Verdrag, tenzij de Partijen anders overeenkomen. 
+Aanvullende overeenkomsten tussen de Partijen bij de Verdragen van 1905 en 1954 worden, voor zover zij daarmee verenigbaar zijn, eveneens geacht van toepassing te zijn op dit Verdrag, tenzij de Partijen anders overeenkomen. 
 
 ### Artikel  24  
 

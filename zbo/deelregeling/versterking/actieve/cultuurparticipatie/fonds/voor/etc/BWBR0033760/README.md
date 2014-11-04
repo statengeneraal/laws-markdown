@@ -3,7 +3,7 @@
 ##Deelregeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016
 
 Het bestuur van het Fonds voor Cultuurparticipatie,  
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid;
 Besluit tot vaststelling van onderstaande regeling:     
 ### Paragraaf  1  
 
@@ -23,7 +23,7 @@ In deze regeling wordt verstaan onder:
 
 *Versterking Actieve Cultuurparticipatie* beleidsprogramma gericht op het ondersteunen van projecten om waardevolle vormen van actieve cultuurparticipatie inhoudelijk of organisatorisch toekomstbestendig te maken;  
 
-*culturele activiteiten:* activiteiten die plaatsvinden op het gebied van kunst of op het gebied van erfgoed;  
+*culturele activiteiten:* activiteiten die plaatsvinden op het gebied van kunst of op het gebied van immaterieel erfgoed;  
 
 *culturele instellingen:* verenigingen en stichtingen met een culturele doelstelling;  
 
@@ -53,19 +53,19 @@ Het bestuur kan aan rechtspersonen zonder winstoogmerk met een culturele doelste
 ####Weigeringsgronden
 
 1.  Subsidie wordt in ieder geval geweigerd indien een aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangt.   
-2.  Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), subsidie weigeren indien: 
+2.  Het bestuur kan, onverminderd het bepaalde in artikel 4:35 van de Algemene wet bestuursrecht, subsidie weigeren indien: 
 
 a) de aanvrager voor dezelfde activiteiten reeds een subsidie ontvangt van een van de rijkscultuurfondsen.  
 
 b) de aanvrager in de voorgaande twee jaar niet heeft voldaan aan één of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;  
 
-c) de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot bestuur, toezicht en transparante verantwoording als bedoeld in de Code Cultural Governance, welke voor het eerst is vastgesteld in 2006;  
+c) de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot bestuur, toezicht en transparante verantwoording als bedoeld in de Governance Code Cultuur, welke voor het eerst is vastgesteld in 2006 en herzien in 2013;  
 
 d) de aanvraag afkomstig is van een onderwijsinstelling, uitgeverij of omroep organisatie;  
 
 e) de aanvraag onvoldoende aantoonbaar maakt dat er sprake zal zijn van inhoudelijke of organisatorische ontwikkeling danwel onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;  
 
-f) de aanvraag redelijkerwijs gefinancierd kan worden uit het reguliere taakstellingbudget van de aanvrager danwel het activiteiten betreft die tot de reguliere doelstelling van de aanvrager horen;  
+f) de aanvraag redelijkerwijs gefinancierd kan worden uit het reguliere (taakstelling)budget van de aanvrager danwel tot de reguliere activiteiten van de aanvrager behoort;  
 
 g) de aanvraag overwegend receptieve of journalistieke activiteiten bevat;  
 
@@ -73,13 +73,13 @@ h) de aanvraag primair gericht is op het realiseren van een beeld- of geluid reg
 
 i) als de activiteit waarvoor wordt aangevraagd eerder start dan drie maanden na sluiting van de aanvraagronde overeenkomstig artikel 2.2 lid 1 of als de aanvraag afkomstig is van een aanvrager aan wie het in artikel 4.5 en 5.5 gemaximeerde aantal keren projectsubsidie is toegekend;  
 
-j) de aanvraag niet aansluit bij de thema’s die in een specifieke aanvraagronde gebruikt worden;  
+j) de aanvraag niet aansluit bij de doelstelling van de regeling of de thema’s die in een specifieke aanvraagronde gebruikt worden;  
 
-k) de aanvraag op een termijn van meer dan zes maanden voor de start van het project wordt ingediend;  
+k) de activiteit waarvoor wordt aangevraagd later start dan twaalf maanden na de sluiting van de aanvraagronde zoals omschreven in artikel 2.2 lid 1; 
 
-l) de aanvraag een hoger bedrag dan beschreven in artikel 2.3 kent;  
+l) de aanvraag een hoger of een lager bedrag dan beschreven in artikel 2.3 kent; 
 
-m) de aanvraag een sluitend dekkingsplan mist.    
+m) de aanvraag een sluitende begroting mist.   
 
 ### Artikel  1.5  
 
@@ -102,8 +102,8 @@ Een instelling kan nooit over enige periode tegelijkertijd meerdere subsidies vo
 
 ####Termijn voor indiening aanvraag
 
-1.  Een aanvraag in een van de aanvraagrondes dient uiterlijk om 17:00 uur te zijn ontvangen op de dag waarop de aanvraagronde voor een van de projecten zoals omschreven in de artikelen 4.4 en 5.4 sluit.   
-2.  Indien een aanvraag, na een gehele of gedeeltelijke afwijzende beslissing, in de daarop volgende aanvraagronde nogmaals wordt ingediend, wordt die aanvraag binnen een periode van zes maanden na ontvangst van de eerste aanvraag zonder nader onderzoek afgewezen, tenzij nieuw gebleken feiten of veranderde omstandigheden worden vermeld. Worden nieuwe feiten of veranderde omstandigheden bij de aanvraag vermeld, dan volgt nader onderzoek.  
+1.  Een aanvraag in een van de aanvraagrondes dient uiterlijk om 13:00 uur te zijn ontvangen op de dag waarop de aanvraagronde voor een van de projecten zoals omschreven in de artikelen 4.4 en 5.4 sluit.   
+2.  Indien een aanvraag, na een gehele of gedeeltelijke afwijzende beslissing, in de daarop volgende aanvraagronde nogmaals wordt ingediend, wordt die aanvraag binnen een periode van zes maanden na dat besluit zonder nader onderzoek afgewezen, tenzij de aanvrager nadrukkelijk nieuw gebleken feiten of veranderde omstandigheden vermeldt. Worden nieuwe feiten of veranderde omstandigheden bij de aanvraag vermeld, dan volgt nader onderzoek.  
 
 ### Artikel  2.3  
 
@@ -121,11 +121,9 @@ Een instelling kan nooit over enige periode tegelijkertijd meerdere subsidies vo
 
 A: honoreren;  
 
-B: honoreren voor zover het budget dat toelaat; en  
-
-C: niet honoreren.     
-2.  Als een subsidieplafond ontoereikend is om alle aanvragen met het advies ’honoreren voor zover het budget dat toelaat’ te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de van toepassing zijnde criteria.   
-3.  Het bestuur honoreert eerst de aanvragen met het advies ’honoreren’. Vervolgens worden de aanvragen met het advies ’honoreren voor zover het budget dat toelaat’ in rangorde geplaatst. Het bestuur verdeelt het beschikbare budget volgens de rangorde, waarbij aanvragen worden toegewezen of gedeeltelijk toegewezen totdat het van toepassing zijnde subsidieplafond is bereikt. De resterende aanvragen worden afgewezen.   
+B: niet honoreren.     
+2.  Als een subsidieplafond ontoereikend is om alle aanvragen te honoreren, worden de aanvragen met het advies ‘honoreren’ in een rangorde geplaatst op basis van de van toepassing zijnde criteria.   
+3.  Het bestuur verdeelt het beschikbare budget volgens de rangorde, waarbij aanvragen worden toegewezen of gedeeltelijk toegewezen totdat het van toepassing zijnde subsidieplafond is bereikt. De resterende aanvragen worden afgewezen.   
 4.  De subsidie van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk is toegewezen wordt alsnog verhoogd tot het geadviseerde bedrag, indien en zodra het bestuur het desbetreffende subsidieplafond verhoogt. Vervolgens wordt steeds de eerst daaropvolgende aanvraag toegewezen totdat het verhoogde subsidieplafond is bereikt.  
 
 ### Artikel  2.5  
@@ -148,7 +146,7 @@ a) versterking van de organisatiestructuur of vernieuwing van het aanbod van act
 
 b) versterking actieve cultuurparticipatie onder de doelgroep ouderen;  
 
-c) het levend houden van immaterieel erfgoed;   
+c) het levend houden van immaterieel erfgoed in de vrije tijd;   
 
 ### Artikel  3.2  
 
@@ -230,7 +228,7 @@ Gedurende de subsidieperiode 2013–2016 kan een aanvrager maximaal één keer s
 
 ####Waarvoor
 
-Een aanvraag kan worden ingediend voor een project dat een voorbeeldwerking heeft ten behoeve van de in artikel 3.1 beschreven programmaonderdelen en bijdraagt aan de inhoudelijke of organisatorische versterking van de actieve cultuurparticipatie. 
+Een aanvraag kan worden ingediend voor een project dat op landelijke schaal een voorbeeldwerking heeft ten behoeve van de in artikel 3.1 beschreven programmaonderdelen en bijdraagt aan de inhoudelijke of organisatorische versterking van de actieve cultuurparticipatie. 
 
 ### Artikel  5.2  
 
@@ -281,7 +279,7 @@ c) er aanzienlijke inhoudelijke, artistieke, organisatorische of zakelijke wijzi
 
 ####Verantwoording, voorschotten,vaststelling en betaling
 
-De verantwoording, bevoorschotting,vaststelling en betaling van de subsidie geschiedt overeenkomstig het daarover bepaalde in [hoofdstuk 8](../../../../../../../../../zbo/algemeen/reglement/van/het/fonds/voor/cultuurparticipatie/BWBR0030858/README.md), [9](../../../../../../../../../zbo/algemeen/reglement/van/het/fonds/voor/cultuurparticipatie/BWBR0030858/README.md), [10](../../../../../../../../../zbo/algemeen/reglement/van/het/fonds/voor/cultuurparticipatie/BWBR0030858/README.md) en [11 van het Algemeen reglement van de Stichting Fonds voor Cultuurparticipatie](../../../../../../../../../zbo/algemeen/reglement/van/het/fonds/voor/cultuurparticipatie/BWBR0030858/README.md). 
+De verantwoording, bevoorschotting,vaststelling en betaling van de subsidie geschiedt overeenkomstig het daarover bepaalde in hoofdstuk 8, 9, 10 en 11 van het Algemeen reglement van de Stichting Fonds voor Cultuurparticipatie. 
 
 ### Paragraaf  7  
 
@@ -301,7 +299,7 @@ Activiteiten als bedoeld in artikel 3.2 en die in het kader van deze regeling wo
 
 ####Inwerkingtreding
 
-1.  Met de publicatie van de Deelregeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016 in de Staatscourant vervalt de [Deelregeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016](../../../../../../../../../zbo/regeling/versterking/actieve/cultuurparticipatie/fonds/voor/etc/BWBR0032859/README.md) zoals gepubliceerd in de Staatscourant van 23 januari 2013.   
+1.  Met de publicatie van de Deelregeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016 in de Staatscourant vervalt de Deelregeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016 zoals gepubliceerd in de Staatscourant van 23 januari 2013.   
 2.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst   
 3.  Deze regeling vervalt met ingang van 1 januari 2017. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.  
 

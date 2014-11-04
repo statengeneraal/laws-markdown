@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 15 december 2000, nr. WJZ 00079040;
 
-Gelet op de [artikelen 85 van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [64 van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);
+Gelet op de artikelen 85 van de Elektriciteitswet 1998 en 64 van de Gaswet;
 
 De Raad van State gehoord (advies van 25 januari 2001, nr. W10.00.0620/II);
 
@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-1.  De bedragen die verschuldigd zijn op grond van [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) zijn vaste bedragen.   
-2.  De bedragen, bedoeld in het eerste lid, kunnen verschillen voor de verschillende in [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) bedoelde beschikkingen.   
+1.  De bedragen die verschuldigd zijn op grond van artikel 85, eerste lid, van de Elektriciteitswet 1998 of artikel 64, eerste lid, van de Gaswet zijn vaste bedragen.   
+2.  De bedragen, bedoeld in het eerste lid, kunnen verschillen voor de verschillende in artikel 85, eerste lid, van de Elektriciteitswet 1998 of artikel 64, eerste lid, van de Gaswet bedoelde beschikkingen.   
 3.  De bedragen, bedoeld in het eerste lid, worden bij ministeriële regeling vastgesteld.   
-4.  Onze Minister brengt de bedragen, bedoeld in het eerste lid, in rekening en verzendt een beschikking daartoe tegelijk met de bekendmaking van de betreffende in [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) bedoelde beschikking.   
-5.  In afwijking van het vierde lid brengt de Autoriteit Consument en Markt de bedragen in rekening, voor zover zij namens Onze Minister beschikkingen neemt als bedoeld in [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md). 
+4.  Onze Minister brengt de bedragen, bedoeld in het eerste lid, in rekening en verzendt een beschikking daartoe tegelijk met de bekendmaking van de betreffende in artikel 85, eerste lid, van de Elektriciteitswet 1998 of artikel 64, eerste lid, van de Gaswet bedoelde beschikking.   
+5.  In afwijking van het vierde lid brengt de Autoriteit Consument en Markt de bedragen in rekening, voor zover zij namens Onze Minister beschikkingen neemt als bedoeld in artikel 85, eerste lid, van de Elektriciteitswet 1998 of artikel 64, eerste lid, van de Gaswet. 
 
 ### Artikel  3  
 
-1.  De bedragen die netbeheerders, LNG-bedrijven en gasopslagbedrijven verschuldigd zijn op grond van de [artikelen 85, tweede lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [64, tweede lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md), worden zodanig berekend dat daarmee de kosten die voor de Autoriteit Consument en Markt zijn verbonden aan de uitvoering van de desbetreffende taken en de uitoefening van de desbetreffende bevoegdheden worden gedekt.   
-2.  De bedragen die netbeheerders, LNG-bedrijven en gasopslagbedrijven verschuldigd zijn op grond van de [artikelen 85, tweede lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [64, tweede lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md), betreffen een vast bedrag. Het door netbeheerders verschuldigde vaste bedrag wordt vermeerderd met een bedrag dat jaarlijks wordt vastgesteld naar rato van het aantal aanwezige aansluitingen op het door een netbeheerder beheerde net.  
+1.  De bedragen die netbeheerders, LNG-bedrijven en gasopslagbedrijven verschuldigd zijn op grond van de artikelen 85, tweede lid, van de Elektriciteitswet 1998 en 64, tweede lid, van de Gaswet, worden zodanig berekend dat daarmee de kosten die voor de Autoriteit Consument en Markt zijn verbonden aan de uitvoering van de desbetreffende taken en de uitoefening van de desbetreffende bevoegdheden worden gedekt.   
+2.  De bedragen die netbeheerders, LNG-bedrijven en gasopslagbedrijven verschuldigd zijn op grond van de artikelen 85, tweede lid, van de Elektriciteitswet 1998 en 64, tweede lid, van de Gaswet, betreffen een vast bedrag. Het door netbeheerders verschuldigde vaste bedrag wordt vermeerderd met een bedrag dat jaarlijks wordt vastgesteld naar rato van het aantal aanwezige aansluitingen op het door een netbeheerder beheerde net.  
 3.  Het vaste bedrag, bedoeld in het tweede lid, kan verschillen voor de verschillende netbeheerders, LNG-bedrijven en gasopslagbedrijven.  
 
 ### Artikel  4  

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 juli 2003, nr. MJZ2003067536, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op richtlijn nr. 94/62/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 1994 betreffende verpakking en verpakkingsafval (PbEG L 365), zoals laatstelijk gewijzigd bij richtlijn nr. 2004/12/EG van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 (PbEU L 47) en de [artikelen 10.15 tot en met 10.18](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.64, tweede lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [15.32 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 94/62/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 1994 betreffende verpakking en verpakkingsafval (PbEG L 365), zoals laatstelijk gewijzigd bij richtlijn nr. 2004/12/EG van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 (PbEU L 47) en de artikelen 10.15 tot en met 10.18, 10.64, tweede lid, en 15.32 van de Wet milieubeheer;
 
 De Raad van State gehoord (advies van 10 december 2003, nr. W08.03.0325/V);
 
@@ -52,11 +52,11 @@ g. hergebruiken als materiaal: na een be- of verwerking opnieuw gebruiken van ma
 
 h. drank: vloeistof bestemd voor menselijke consumptie en primair bedoeld om te worden gedronken;  
 
-i. medicinale drank: drank zijnde een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](../../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+i. medicinale drank: drank zijnde een geneesmiddel als bedoeld in artikel 1, eerste lid, onder b, van de Geneesmiddelenwet;  
 
-j. wijn: wijn als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), alsmede drank die door alcoholische gisting is verkregen uit het sap van vruchten anders dan van druiven en uitsluitend of ten dele bestanddelen bevat afkomstig van die vruchten;  
+j. wijn: wijn als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet, alsmede drank die door alcoholische gisting is verkregen uit het sap van vruchten anders dan van druiven en uitsluitend of ten dele bestanddelen bevat afkomstig van die vruchten;  
 
-k. sterke drank: sterke drank als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
+k. sterke drank: sterke drank als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet;  
 
 l. matig-alcoholhoudende drank: alcoholhoudende drank die bij een temperatuur van twintig graden Celsius voor meer dan twaalf en minder dan vijftien volumeprocenten uit alcohol bestaat;  
 
@@ -109,13 +109,8 @@ b. van de overige materiaalsoorten, ten minste de volgende gewichtspercentages n
 ### Artikel  4a  
 
 1.  De producenten en importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in de artikelen 2, eerste lid en tweede lid, 3, aanhef en onderdeel d, 4, eerste en tweede lid, en 7, eerste lid.   
-2.  De in het eerste lid bedoelde verplichtingen, met uitzondering van artikel 3, aanhef en onderdeel d, zijn niet van toepassing op een producent of importeur die een afvalbeheersbijdrage als bedoeld in de op grond van [artikel 15.36, eerste lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), algemeen verbindend verklaarde overeenkomst inzake verpakkingen, afdraagt aan een daarbij genoemde rechtspersoon.   
+2.  De in het eerste lid bedoelde verplichtingen, met uitzondering van artikel 3, aanhef en onderdeel d, zijn niet van toepassing op een producent of importeur die een afvalbeheersbijdrage als bedoeld in de op grond van artikel 15.36, eerste lid, van de Wet milieubeheer, algemeen verbindend verklaarde overeenkomst inzake verpakkingen, afdraagt aan een daarbij genoemde rechtspersoon.   
 3.  In gevallen waarin het tweede lid van toepassing is, berusten de verplichtingen, bedoeld in het eerste lid, met uitzondering van artikel 3, aanhef en onderdeel d, op de rechtspersoon aan wie de in het tweede lid bedoelde afvalbeheersbijdrage is afgedragen.  
-
-### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
-
-De producent of importeur draagt er zorg voor dat per kalenderjaar, van de door hem in Nederland in het voorafgaande kalenderjaar aan een ander ter beschikking gestelde hoeveelheid papier en karton, ten minste 75 gewichtsprocent als materiaal wordt hergebruikt. 
 
 ### §  3  
 
@@ -132,55 +127,13 @@ De producent of importeur draagt er zorg voor dat per kalenderjaar, van de door 
 
 ### Artikel  7a  
 
-De rijksbelastingdienst is verplicht desgevraagd, kosteloos, de naam en adresgegevens van een producent, importeur, producent/importeur, concern, opdrachtgever van een loonverpakker of afnemer van deze opdrachtgever, als bedoeld in [artikel 83 van de Wet belastingen op milieugrondslag](../../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals dat artikel luidde vóór 1 januari 2013, waarvan in het kalenderjaar 2012 verpakkingenbelasting wordt geheven, of had moeten worden geheven, te verstrekken aan een organisatie die belast is met de uitvoering van een op grond van [artikel 15.36, eerste lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), algemeen verbindend verklaarde overeenkomst over een afvalbeheersbijdrage inzake verpakkingen. 
+De rijksbelastingdienst is verplicht desgevraagd, kosteloos, de naam en adresgegevens van een producent, importeur, producent/importeur, concern, opdrachtgever van een loonverpakker of afnemer van deze opdrachtgever, als bedoeld in artikel 83 van de Wet belastingen op milieugrondslag, zoals dat artikel luidde vóór 1 januari 2013, waarvan in het kalenderjaar 2012 verpakkingenbelasting wordt geheven, of had moeten worden geheven, te verstrekken aan een organisatie die belast is met de uitvoering van een op grond van artikel 15.36, eerste lid, van de Wet milieubeheer, algemeen verbindend verklaarde overeenkomst over een afvalbeheersbijdrage inzake verpakkingen. 
 
 ###§ 4 
 
 ####Statiegeld op drankverpakkingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Een ieder die in de uitoefening van zijn beroep of bedrijf een drank in een verpakking aan een ander ter beschikking stelt, heft op die verpakking statiegeld.   
-2.  De in het eerste lid bedoelde verpakking wordt na gebruik met terugbetaling van het statiegeld in ieder geval ingenomen door degene die in de uitoefening van zijn beroep of bedrijf een verpakking van dezelfde materiaalsoort aan een ander ter beschikking stelt. De inname geschiedt op de plaats waar een dergelijke verpakking ter beschikking wordt gesteld of in de onmiddellijke omgeving.   
-3.  Degene die een drank aan een ander ter beschikking stelt vanuit een plaats van verkoop met een verkoopoppervlakte van minder dan 200 m<sup>2</sup>, kan de inname, bedoeld in het tweede lid, beperken tot verpakkingen die vanuit die plaats van verkoop zelf aan een ander ter beschikking zijn gesteld.  
-
-### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
-
-De verplichting, bedoeld in artikel 8, eerste lid, is niet van toepassing op: 
-
-a. verpakkingen van: 
-
-1°. medicinale dranken,  
-
-2°. wijn,  
-
-3°. sterke dranken,  
-
-4°. matig-alcoholhoudende dranken;    
-
-b.  drankenkartons, die zijn bestemd voor dranken en die voor ten minste 80% bestaan uit papier of karton;  
-
-c. verpakkingen die direct voor verkoop met een drank worden gevuld;  
-
-d. verpakkingen van dranken met een inhoud van 1 deciliter of minder;  
-
-e. verpakkingen van dranken waarbij de producent of importeur kan aantonen dat er op jaarbasis minder dan 500.000 eenheden consumentenverpakkingen in Nederland aan consumenten ter beschikking worden gesteld.   
-
-### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Het statiegeld, bedoeld in artikel 8, eerste lid, bedraagt voor meermalige verpakkingen: € 0,10 per verpakking.   
-2.  Het statiegeld, bedoeld in artikel 8, eerste lid, bedraagt voor eenmalige verpakkingen: € 0,25 per verpakking.  
-
-### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Indien de verplichting, bedoeld in artikel 8, eerste lid, van toepassing is, voorziet de producent of importeur de verpakking van een aanduiding omtrent het statiegeld. Onze Minister kan vorm en inhoud van deze aanduiding vaststellen.   
-2.  De aanduiding, bedoeld in het eerste lid, wordt duidelijk en onuitwisbaar op de verpakking aangebracht.  
+Vervalt per 01-01-2015 
 
 ###§ 5 
 
@@ -210,21 +163,11 @@ Een wijziging van de beschikking, genoemd in artikel 12, eerste lid, of van bijl
 
 ####Ontheffing
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-### Artikel  16  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Indien op grond van [artikel 10.63, vierde lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ontheffing wordt gevraagd van de verplichting, bedoeld in artikel 8, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing. 
+Vervalt per 01-01-2015 
 
 ### §  7  
 
 ####Overgangs- en slotbepalingen
-
-### Artikel  17  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Dit besluit is eerst een maand na het in werking treden van artikel 8 van toepassing op verpakkingen die, op het moment van in werking treden van dat artikel, aan een ander in Nederland ter beschikking waren gesteld. 
 
 ### Artikel  17a  
 
@@ -236,7 +179,7 @@ Wijzigt dit besluit.
 
 ### Artikel  19  
 
-De [Regeling verpakking en verpakkingsafval](../../../../../../../../../ministeriele-regeling/regeling/verpakking/en/verpakkingsafval/BWBR0008775/README.md) wordt ingetrokken.
+De Regeling verpakking en verpakkingsafval wordt ingetrokken.
 
 ###Artikel 20 
 

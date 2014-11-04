@@ -50,9 +50,9 @@ n. Natura 2000-gebied:
 
 3°. gebied dat voorkomt op de lijst van gebieden van communautair belang, bedoeld in artikel 4, tweede lid, van richtlijn 92/43/EEG;   
 
-o. omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); 
+o. omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht; 
 
-p. exclusieve economische zone: exclusieve economische zone van Nederland als bedoeld in de [Rijkswet instelling exclusieve economische zone](../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md).  
+p. exclusieve economische zone: exclusieve economische zone van Nederland als bedoeld in de Rijkswet instelling exclusieve economische zone.  
 
 ### Artikel  1a  
 
@@ -106,13 +106,13 @@ b. de redelijkerwijze te verwachten financiële en economische gevolgen van het 
 
 ### Artikel  6  
 
-1.  In het plan geven Onze Ministers voorts aan in hoeverre het voorgenomen beleid inzake natuur en landschap is afgestemd op, dan wel leidt tot aanpassing van het nationale milieubeleid en het nationale waterbeleid en in hoeverre en binnen welke termijn zij voornemens zijn het nationaal milieubeleidsplan, bedoeld in [artikel 4.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en het nationale waterplan, bedoeld in [artikel 4.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), te herzien.    
+1.  In het plan geven Onze Ministers voorts aan in hoeverre het voorgenomen beleid inzake natuur en landschap is afgestemd op, dan wel leidt tot aanpassing van het nationale milieubeleid en het nationale waterbeleid en in hoeverre en binnen welke termijn zij voornemens zijn het nationaal milieubeleidsplan, bedoeld in artikel 4.3 van de Wet milieubeheer, en het nationale waterplan, bedoeld in artikel 4.1 van de Waterwet, te herzien.    
 2.  Met het geldende natuurbeleidsplan wordt tevens rekening gehouden bij de vaststelling van rijksbeleid op andere terreinen van beleid dan bedoeld in het eerste lid, voorzover daarbij het belang van duurzame instandhouding, herstel en ontwikkeling van natuurlijke en landschappelijke waarden wordt geraakt.   
 
 ### Artikel  7  
 
 1. Onze Ministers betrekken bij de voorbereiding van het natuurbeleidsplan de naar hun oordeel bij de te behandelen onderwerpen meest belanghebbende bestuursorganen, instellingen en organisaties. Daartoe behoren in elk geval gedeputeerde staten van de provincies.  
-2. Op de voorbereiding van het nationale natuurbeleidsplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+2. Op de voorbereiding van het nationale natuurbeleidsplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
 ### Artikel  8  
 
@@ -125,7 +125,7 @@ b. de redelijkerwijze te verwachten financiële en economische gevolgen van het 
 
 1. Er is een Structuurvisie Natuur en Landschap.
 2. De structuurvisie geeft inzicht in de ruimtelijke aspecten van het rijksbeleid inzake natuur en landschap.
-3. De structuurvisie is een structuurvisie als bedoeld in [artikel 2.3, tweede lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).
+3. De structuurvisie is een structuurvisie als bedoeld in artikel 2.3, tweede lid, van de Wet ruimtelijke ordening.
 
 ### Artikel  9a  
 
@@ -178,9 +178,9 @@ b.de doelstellingen ten aanzien van de instandhouding van de natuurlijke habitat
 
 ### Artikel  11  
 
-1.  Op de voorbereiding van een besluit als bedoeld in de artikelen 10, eerste lid, en 10a, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+1.  Op de voorbereiding van een besluit als bedoeld in de artikelen 10, eerste lid, en 10a, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 2.  Zienswijzen met betrekking tot de voorbereiding van een besluit als bedoeld in artikel 10, eerste lid, worden naar voren gebracht bij gedeputeerde staten.  
-3.  Binnen vier maanden na afloop van de in [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn zenden gedeputeerde staten de naar voren gebrachte zienswijzen, vergezeld van hun beschouwingen, aan Onze Minister. Op verzoek van gedeputeerde staten kan Onze Minister de in de eerste volzin bedoelde termijn met acht weken verlengen.   
+3.  Binnen vier maanden na afloop van de in artikel 3:16, eerste lid, van de Algemene wet bestuursrecht bedoelde termijn zenden gedeputeerde staten de naar voren gebrachte zienswijzen, vergezeld van hun beschouwingen, aan Onze Minister. Op verzoek van gedeputeerde staten kan Onze Minister de in de eerste volzin bedoelde termijn met acht weken verlengen.   
 
 ### Artikel  12  
 
@@ -196,7 +196,7 @@ Binnen een jaar nadat het ontwerp-besluit tot aanwijzing als beschermd natuurmon
 
 1. Van een besluit tot voorlopige aanwijzing als bedoeld in artikel 12 wordt mededeling gedaan aan de eigenaren en hypothecaire schuldeisers.
 2. Onze Minister maakt een besluit tot voorlopige aanwijzing als bedoeld in artikel 12, bekend in de Staatscourant. 
-3.  Indien Onze Minister niet tot aanwijzing als beschermd natuurmonument of als gebied als bedoeld in artikel 10a, eerste lid, overgaat, maakt hij dit bekend en doet daarvan mededeling overeenkomstig het eerste en tweede lid en de [artikelen 3:42](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:43 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Indien Onze Minister niet tot aanwijzing als beschermd natuurmonument of als gebied als bedoeld in artikel 10a, eerste lid, overgaat, maakt hij dit bekend en doet daarvan mededeling overeenkomstig het eerste en tweede lid en de artikelen 3:42 en 3:43 van de Algemene wet bestuursrecht.   
 
 ### Artikel  15  
 
@@ -213,7 +213,7 @@ Binnen een jaar nadat het ontwerp-besluit tot aanwijzing als beschermd natuurmon
 ### Artikel  15b  
 
 1.  Onze Minister zendt een voorstel voor een lijst van gebieden, geheel of gedeeltelijk gelegen in de exclusieve economische zone, of een voorstel tot aanpassing daarvan, als bedoeld in artikel 4, eerste lid, van richtlijn 92/43/EEG, niet eerder aan de Europese Commissie toe dan vier weken nadat het ontwerp van dat voorstel aan beide kamers der Staten-Generaal is overgelegd.   
-2.  Het eerste lid is niet van toepassing op voorstellen die op het tijdstip van inwerkingtreding van de wet tot wijziging van de Natuurbeschermingswet 1998 en de [Flora en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) in verband met de uitbreiding van de werkingssfeer van beide wetten naar de exclusieve zone aan de Europese Commissie zijn toegezonden.  
+2.  Het eerste lid is niet van toepassing op voorstellen die op het tijdstip van inwerkingtreding van de wet tot wijziging van de Natuurbeschermingswet 1998 en de Flora en faunawet in verband met de uitbreiding van de werkingssfeer van beide wetten naar de exclusieve zone aan de Europese Commissie zijn toegezonden.  
 
 ### Titel  2  
 
@@ -273,7 +273,7 @@ a.een beschrijving van de beoogde resultaten met het oog op het behoud of herste
 
 b.een overzicht op hoofdlijnen van de in de door het plan bestreken periode noodzakelijke maatregelen met het oog op de onder a bedoelde resultaten. 
 4.  Bij de noodzakelijke maatregelen, bedoeld in het derde lid, onderdeel b, wordt rekening gehouden met vereisten op economisch, sociaal en cultureel gebied, alsmede met regionale en lokale bijzonderheden.  
-5. Op de voorbereiding van een beheerplan als bedoeld in het eerste lid is de in [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde procedure van toepassing. 
+5. Op de voorbereiding van een beheerplan als bedoeld in het eerste lid is de in afdeling 3.4 van de Algemene wet bestuursrecht geregelde procedure van toepassing. 
 6. Beheerplannen worden niet vastgesteld dan na overleg met de besturen van gemeenten en waterschappen op het grondgebied waarvan die beheerplannen betrekking hebben. 
 7. Een beheerplan als bedoeld in het eerste lid wordt uiterlijk drie jaar na dagtekening van het in artikel 10a, eerste lid, genoemde besluit voor het eerst vastgesteld. 
 8.  Indien een gebied voorlopig is aangewezen op grond van artikel 12, derde lid, wordt in afwijking van het zevende lid, een beheerplan als bedoeld in het eerste lid uiterlijk drie jaar na dagtekening van het besluit tot voorlopige aanwijzing voor het eerst vastgesteld.  
@@ -327,7 +327,7 @@ b. gedeputeerde staten, in andere gevallen dan die, bedoeld in onderdeel a.
 
 ### Artikel  19db 
 
-1.  Een bestemmingsplan dat betrekking heeft op een ontwikkelingsgebied als bedoeld in [artikel 2.3 van de Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), kan de voorwaarden, voorschriften en beperkingen bevatten waaronder een vergunning als bedoeld in artikel 19d, eerste lid, wordt verleend, indien op grond van een voor dat plan opgestelde passende beoordeling de zekerheid is verkregen dat projecten die aan deze voorwaarden, voorschriften en beperkingen voldoen de natuurlijke kenmerken van Natura 2000-gebieden niet kunnen aantasten, dan wel is voldaan aan de artikelen 19g, tweede, derde en vierde lid, en 19h, onderscheidenlijk op grond van artikel 19e een beoordeling is uitgevoerd van andere handelingen.   
+1.  Een bestemmingsplan dat betrekking heeft op een ontwikkelingsgebied als bedoeld in artikel 2.3 van de Crisis- en herstelwet, kan de voorwaarden, voorschriften en beperkingen bevatten waaronder een vergunning als bedoeld in artikel 19d, eerste lid, wordt verleend, indien op grond van een voor dat plan opgestelde passende beoordeling de zekerheid is verkregen dat projecten die aan deze voorwaarden, voorschriften en beperkingen voldoen de natuurlijke kenmerken van Natura 2000-gebieden niet kunnen aantasten, dan wel is voldaan aan de artikelen 19g, tweede, derde en vierde lid, en 19h, onderscheidenlijk op grond van artikel 19e een beoordeling is uitgevoerd van andere handelingen.   
 2.  Het bestuursorgaan dat bevoegd is voor de verlening van vergunningen als bedoeld in artikel 19d, eerste lid, voor projecten of andere handelingen in een ontwikkelingsgebied, kan voorafgaand aan de vaststelling van een daarop betrekking hebbend bestemmingsplan instemming verlenen aan de in het eerste lid genoemde voorwaarden, voorschriften en beperkingen.   
 3.  Een vergunning als bedoeld in artikel 19d, eerste lid, wordt verleend indien: 
 
@@ -401,7 +401,7 @@ b. met het op grond van artikel 19a of artikel 19b voor dat gebied vastgestelde 
 3.  In de gevallen, bedoeld in het tweede lid, wordt het besluit, bedoeld in het eerste lid, alleen genomen indien is voldaan aan de voorwaarden, genoemd in de artikelen 19g en 19h.   
 4.  De passende beoordeling van deze plannen maakt deel uit van de ter zake van die plannen voorgeschreven milieueffectrapportage.   
 5.  De verplichting tot het maken van een passende beoordeling bij de voorbereiding van een plan als bedoeld in het tweede lid geldt niet in gevallen waarin het plan een herhaling of voortzetting is van een plan of project ten aanzien waarvan reeds eerder een passende beoordeling is gemaakt, voor zover de passende beoordeling redelijkerwijs geen nieuwe gegevens en inzichten kan opleveren omtrent de significante gevolgen van dat plan.   
-6.  Het eerste tot en met derde lid en het vijfde lid zijn van overeenkomstige toepassing op projectbesluiten als bedoeld in [artikel 1.1, eerste lid, onderdeel f, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). 
+6.  Het eerste tot en met derde lid en het vijfde lid zijn van overeenkomstige toepassing op projectbesluiten als bedoeld in artikel 1.1, eerste lid, onderdeel f, van de Wet ruimtelijke ordening. 
 
 ### Artikel  19k  
 
@@ -476,7 +476,7 @@ c. informatie over de handeling te verstrekken.
 
 – afzonderlijke gevallen bij beschikking, dan wel  
 
-– categorieën van gevallen bij algemeen verbindend voorschrift, voor zover de verplichting betrekking heeft op inrichtingen als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of het drijven daarvan, en zij geen betrekking heeft op handelingen waarvoor Onze Minister het bevoegd gezag is.     
+– categorieën van gevallen bij algemeen verbindend voorschrift, voor zover de verplichting betrekking heeft op inrichtingen als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer, of het drijven daarvan, en zij geen betrekking heeft op handelingen waarvoor Onze Minister het bevoegd gezag is.     
 4.  Het bevoegd gezag stelt belanghebbenden in de gelegenheid hun zienswijze uit te brengen over een voornemen tot het opleggen van een verplichting als bedoeld in het derde lid, tenzij de verslechtering het opleggen van een verplichting terstond noodzakelijk maakt.   
 5.  Het is verboden in strijd te handelen met een verplichting als bedoeld in het tweede lid.   
 6.  Onder «bevoegd gezag» als bedoeld in het eerste, tweede, derde en vierde lid, wordt verstaan: 
@@ -551,7 +551,7 @@ Bij ministeriële regeling van Onze Minister en Onze Minister van Infrastructuur
 
 ### Artikel  19kl  
 
-1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen uiterlijk vier maanden na inwerkingtreding van de [Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) een voorlopig programma vast ter vermindering van de stikstofdepositie.  
+1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen uiterlijk vier maanden na inwerkingtreding van de Crisis- en herstelwet een voorlopig programma vast ter vermindering van de stikstofdepositie.  
 2.  In het voorlopige programma, bedoeld in het eerste lid, worden in elk geval beschreven of genoemd de maatregelen en effecten, bedoeld in artikel 19kh, eerste lid, onderdeel c, in samenhang met het derde lid, onderdeel a.   
 3.  Het voorlopige programma vervalt op het moment dat een eerste programma als bedoeld in artikel 19kg, eerste lid, wordt vastgesteld.   
 4.  De artikelen 19kh, eerste lid, onderdeel f, 19ki en 19kj zijn van overeenkomstige toepassing.  
@@ -629,7 +629,7 @@ b. een aanduiding van handelingen die de kenmerken, bedoeld in onderdeel a, kunn
 
 ### Artikel  26  
 
-1.  De gemeenteraad van de gemeenten waarin het beschermd landschapsgezicht is gelegen, stelt ter bescherming van een beschermd landschapsgezicht een bestemmingsplan vast als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Bij het besluit tot aanwijzing van een beschermd landschapsgezicht kan hiertoe door gedeputeerde staten een termijn worden gesteld.    
+1.  De gemeenteraad van de gemeenten waarin het beschermd landschapsgezicht is gelegen, stelt ter bescherming van een beschermd landschapsgezicht een bestemmingsplan vast als bedoeld in de Wet ruimtelijke ordening. Bij het besluit tot aanwijzing van een beschermd landschapsgezicht kan hiertoe door gedeputeerde staten een termijn worden gesteld.    
 2.  Bij het besluit tot aanwijzing van een beschermd landschapsgezicht wordt bepaald of en zo ja in hoeverre geldende bestemmingsplannen als beschermend plan in de zin van het eerste lid kunnen worden aangemerkt.   
 
 ###Hoofdstuk V 
@@ -732,7 +732,7 @@ De kosten van de schadebeoordelingscommissie worden de verzoeker niet in rekenin
 
 ### Artikel  40  
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag tot een vergunning als bedoeld in de artikelen 16 en 19d. 
+Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag tot een vergunning als bedoeld in de artikelen 16 en 19d. 
 
 ### Artikel  41  
 
@@ -784,19 +784,19 @@ b. die tevens zijn aan te merken als handelingen waarvoor het verbod, bedoeld in
 ### Artikel  46a  
 
 1.  De aanvrager van een omgevingsvergunning draagt er zorg voor dat de aanvraag tevens betrekking heeft op de handelingen die voldoen aan de criteria, bedoeld in artikel 46, eerste lid.   
-2.  Op een beschikking op een aanvraag om een omgevingsvergunning als bedoeld in het eerste lid zijn de [artikelen 4.2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [4.3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
-3.  Indien toepassing wordt gegeven aan [artikel 2.5 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), zijn het tweede lid en de artikelen 46b en 46c van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.  
+2.  Op een beschikking op een aanvraag om een omgevingsvergunning als bedoeld in het eerste lid zijn de artikelen 4.2 en 4.3 van de Wet algemene bepalingen omgevingsrecht van toepassing.   
+3.  Indien toepassing wordt gegeven aan artikel 2.5 van de Wet algemene bepalingen omgevingsrecht, zijn het tweede lid en de artikelen 46b en 46c van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.  
 
 ### Artikel  46b  
 
-1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 46, eerste lid, wordt niet verleend dan nadat het bestuursorgaan dat ten aanzien van de betrokken handelingen bevoegd is te beslissen op een aanvraag om een vergunning als bedoeld in artikel 16, eerste lid, heeft verklaard dat het daartegen geen bedenkingen heeft als bedoeld in [artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
-2.  Het eerste lid is niet van toepassing indien gedeputeerde staten zowel bevoegd gezag zijn om te beslissen op een aanvraag om een omgevingsvergunning als ten aanzien van de betrokken handelingen bevoegd zijn te beslissen op een aanvraag om een vergunning als bedoeld in artikel 16, eerste lid. In dit geval zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning.   
+1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 46, eerste lid, wordt niet verleend dan nadat het bestuursorgaan dat ten aanzien van de betrokken handelingen bevoegd is te beslissen op een aanvraag om een vergunning als bedoeld in artikel 16, eerste lid, heeft verklaard dat het daartegen geen bedenkingen heeft als bedoeld in artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht.   
+2.  Het eerste lid is niet van toepassing indien gedeputeerde staten zowel bevoegd gezag zijn om te beslissen op een aanvraag om een omgevingsvergunning als ten aanzien van de betrokken handelingen bevoegd zijn te beslissen op een aanvraag om een vergunning als bedoeld in artikel 16, eerste lid. In dit geval zijn afdeling 3.4 van de Algemene wet bestuursrecht en paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning.   
 3.  De verklaring onderscheidenlijk, in het in het tweede lid bedoelde geval, de omgevingsvergunning kan slechts worden geweigerd indien de betrokken handelingen schade kunnen toebrengen aan de belangen, omschreven in artikel 16, eerste lid. Artikel 16, tweede lid, is van overeenkomstige toepassing met betrekking tot de verklaring onderscheidenlijk de omgevingsvergunning.  
 
 ### Artikel  46c  
 
-1.  Het bestuursorgaan, bedoeld in artikel 46b, eerste lid, kan een verzoek als bedoeld in [artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) slechts doen indien de omstandigheden sinds het tijdstip waarop de in artikel 46b, eerste lid, bedoelde verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het bedoelde tijdstip zouden hebben bestaan.   
-2.  Onverminderd de [artikelen 2.31](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [2.33 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), kunnen gedeputeerde staten in een geval als bedoeld in artikel 46b, tweede lid, de omgevingsvergunning intrekken of de voorschriften die aan de omgevingsvergunning zijn verbonden wijzigen, aanvullen of intrekken dan wel alsnog aan de omgevingsvergunning verbinden indien de omstandigheden sinds het tijdstip waarop de omgevingsvergunning is verleend, zodanig zijn gewijzigd dat deze niet zou zijn verleend of niet zonder daaraan te verbinden voorschriften, indien deze omstandigheden op het genoemde tijdstip zouden hebben bestaan.  
+1.  Het bestuursorgaan, bedoeld in artikel 46b, eerste lid, kan een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht slechts doen indien de omstandigheden sinds het tijdstip waarop de in artikel 46b, eerste lid, bedoelde verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het bedoelde tijdstip zouden hebben bestaan.   
+2.  Onverminderd de artikelen 2.31 en 2.33 van de Wet algemene bepalingen omgevingsrecht, kunnen gedeputeerde staten in een geval als bedoeld in artikel 46b, tweede lid, de omgevingsvergunning intrekken of de voorschriften die aan de omgevingsvergunning zijn verbonden wijzigen, aanvullen of intrekken dan wel alsnog aan de omgevingsvergunning verbinden indien de omstandigheden sinds het tijdstip waarop de omgevingsvergunning is verleend, zodanig zijn gewijzigd dat deze niet zou zijn verleend of niet zonder daaraan te verbinden voorschriften, indien deze omstandigheden op het genoemde tijdstip zouden hebben bestaan.  
 
 ### Artikel  46d  
 
@@ -818,13 +818,13 @@ b. die tevens zijn aan te merken als projecten of andere handelingen waarvoor he
 ### Artikel  47a  
 
 1.  De aanvrager van een omgevingsvergunning draagt er zorg voor dat de aanvraag tevens betrekking heeft op de handelingen die voldoen aan de criteria, bedoeld in artikel 47, eerste lid.   
-2.  Op een beschikking op een aanvraag om een omgevingsvergunning als bedoeld in het eerste lid zijn de [artikelen 4.2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [4.3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
-3.  Indien toepassing wordt gegeven aan [artikel 2.5 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), zijn het tweede lid en de artikelen 47b en 47c van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.  
+2.  Op een beschikking op een aanvraag om een omgevingsvergunning als bedoeld in het eerste lid zijn de artikelen 4.2 en 4.3 van de Wet algemene bepalingen omgevingsrecht van toepassing.   
+3.  Indien toepassing wordt gegeven aan artikel 2.5 van de Wet algemene bepalingen omgevingsrecht, zijn het tweede lid en de artikelen 47b en 47c van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.  
 
 ### Artikel  47b  
 
-1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 47, eerste lid, wordt niet verleend dan nadat het bestuursorgaan dat ten aanzien van de betrokken handelingen bevoegd is te beslissen op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid, heeft verklaard dat het daartegen geen bedenkingen heeft als bedoeld in [artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
-2.  Het eerste lid is niet van toepassing indien gedeputeerde staten zowel bevoegd gezag zijn om te beslissen op een aanvraag om een omgevingsvergunning als ten aanzien van de betrokken handelingen bevoegd zijn te beslissen op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid. In dit geval zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning.   
+1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 47, eerste lid, wordt niet verleend dan nadat het bestuursorgaan dat ten aanzien van de betrokken handelingen bevoegd is te beslissen op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid, heeft verklaard dat het daartegen geen bedenkingen heeft als bedoeld in artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht.   
+2.  Het eerste lid is niet van toepassing indien gedeputeerde staten zowel bevoegd gezag zijn om te beslissen op een aanvraag om een omgevingsvergunning als ten aanzien van de betrokken handelingen bevoegd zijn te beslissen op een aanvraag om een vergunning als bedoeld in artikel 19d, eerste lid. In dit geval zijn afdeling 3.4 van de Algemene wet bestuursrecht en paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht van toepassing op de voorbereiding van de beschikking op een aanvraag om een omgevingsvergunning.   
 3.  Met betrekking tot de verklaring onderscheidenlijk, in het in het tweede lid bedoelde geval, de beschikking op de aanvraag voor zover deze betrekking heeft op handelingen als bedoeld in artikel 47a, eerste lid, zijn de artikelen 19e tot en met 19g, 19ia en 19kd, en 19k, eerste en derde lid en het bepaalde krachtens artikel 19kb, van overeenkomstige toepassing.   
 4.  Indien een omgevingsvergunning om dwingende redenen van groot openbaar belang wordt verleend voor het realiseren van projecten als bedoeld in artikel 19h, eerste lid, bepaalt het bestuursorgaan dat de verklaring geeft, dat aan de omgevingsvergunning in ieder geval het voorschrift wordt verbonden inhoudende de verplichting compenserende maatregelen te treffen. In het in het tweede lid bedoelde geval verbindt het bevoegd gezag dit voorschrift aan de omgevingsvergunning.   
 5.  Met betrekking tot de compenserende maatregelen is artikel 19h, tweede tot en met vijfde lid, van toepassing, met dien verstande dat in het in het eerste lid bedoelde geval de krachtens artikel 19h, tweede lid, gestelde verplichting geldt voor het bestuursorgaan dat de verklaring geeft.   
@@ -832,8 +832,8 @@ b. die tevens zijn aan te merken als projecten of andere handelingen waarvoor he
 
 ### Artikel  47c  
 
-1.  Het bestuursorgaan, bedoeld in artikel 47b, eerste lid, kan een verzoek als bedoeld in [artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) slechts doen indien de omstandigheden sinds het tijdstip waarop de verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het genoemde tijdstip zouden hebben bestaan.   
-2.  Onverminderd de [artikelen 2.31](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [2.33 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), kunnen gedeputeerde staten in een geval als bedoeld in artikel 47b, tweede lid, de omgevingsvergunning intrekken of de voorschriften die aan de omgevingsvergunning zijn verbonden wijzigen, aanvullen of intrekken dan wel alsnog aan de omgevingsvergunning verbinden indien de omstandigheden sinds het tijdstip waarop de omgevingsvergunning is verleend, zodanig zijn gewijzigd dat deze niet zou zijn verleend of niet zonder daaraan te verbinden voorschriften, indien deze omstandigheden op het genoemde tijdstip zouden hebben bestaan.  
+1.  Het bestuursorgaan, bedoeld in artikel 47b, eerste lid, kan een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht slechts doen indien de omstandigheden sinds het tijdstip waarop de verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het genoemde tijdstip zouden hebben bestaan.   
+2.  Onverminderd de artikelen 2.31 en 2.33 van de Wet algemene bepalingen omgevingsrecht, kunnen gedeputeerde staten in een geval als bedoeld in artikel 47b, tweede lid, de omgevingsvergunning intrekken of de voorschriften die aan de omgevingsvergunning zijn verbonden wijzigen, aanvullen of intrekken dan wel alsnog aan de omgevingsvergunning verbinden indien de omstandigheden sinds het tijdstip waarop de omgevingsvergunning is verleend, zodanig zijn gewijzigd dat deze niet zou zijn verleend of niet zonder daaraan te verbinden voorschriften, indien deze omstandigheden op het genoemde tijdstip zouden hebben bestaan.  
 
 ### Artikel  47d  
 
@@ -849,7 +849,7 @@ Het is verboden in strijd te handelen met een voorschrift van een omgevingsvergu
 
 a. de bij besluit van Onze Minister aangewezen ambtenaren;   
 
-b. de door Onze Minister van Veiligheid en Justitie op grond van [artikel 17 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten belaste ambtenaren, en   
+b. de door Onze Minister van Veiligheid en Justitie op grond van artikel 17 van de Wet op de economische delicten met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten belaste ambtenaren, en   
 
 c. de bij besluit van gedeputeerde staten aangewezen ambtenaren.      
 2.  Van een besluit als bedoeld in het eerste lid, onderdeel a, wordt mededeling gedaan door plaatsing in de Staatscourant.   
@@ -861,8 +861,8 @@ c. de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 
 ### Artikel  57a  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens hoofdstuk IX bepaalde zijn de [artikelen 5.3 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
-2.  Het in [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van hoofdstuk IX voor degene die de betrokken activiteit verricht, geldende voorschriften.  
+1.  Met betrekking tot de handhaving van het bij of krachtens hoofdstuk IX bepaalde zijn de artikelen 5.3 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht van toepassing.   
+2.  Het in artikel 5.2 van de Wet algemene bepalingen omgevingsrecht bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van hoofdstuk IX voor degene die de betrokken activiteit verricht, geldende voorschriften.  
 
 ### Hoofdstuk  XI  
 
@@ -870,24 +870,24 @@ c. de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 
 ### Artikel  58  
 
-1.  Bij het bestaan van een voornemen tot onteigening in het belang der natuurbescherming krachtens [titel VIII der onteigeningswet](../../../../wet/onteigeningswet/BWBR0001842/README.md) kan Onze Minister met name genoemde handelingen verbieden, die schadelijk zijn voor het natuurschoon of voor de natuurwetenschappelijke betekenis van de bij de voorgenomen onteigening betrokken onroerende zaak.    
-2.  Het verbod vervalt door de overgang van de eigendom van de zaak op de onteigenende partij alsmede indien het niet binnen twee jaar is gevolgd door een zodanige eigendomsovergang, tenzij alsdan een geding aanhangig is als bedoeld in [hoofdstuk III van titel I der onteigeningswet](../../../../wet/onteigeningswet/BWBR0001842/README.md). De termijn kan bij een in de Staatscourant te plaatsen koninklijk besluit met ten hoogste een jaar verlengd worden.    
+1.  Bij het bestaan van een voornemen tot onteigening in het belang der natuurbescherming krachtens titel VIII der onteigeningswet kan Onze Minister met name genoemde handelingen verbieden, die schadelijk zijn voor het natuurschoon of voor de natuurwetenschappelijke betekenis van de bij de voorgenomen onteigening betrokken onroerende zaak.    
+2.  Het verbod vervalt door de overgang van de eigendom van de zaak op de onteigenende partij alsmede indien het niet binnen twee jaar is gevolgd door een zodanige eigendomsovergang, tenzij alsdan een geding aanhangig is als bedoeld in hoofdstuk III van titel I der onteigeningswet. De termijn kan bij een in de Staatscourant te plaatsen koninklijk besluit met ten hoogste een jaar verlengd worden.    
 3.  Onze Minister is te allen tijde bevoegd het verbod geheel of gedeeltelijk in te trekken dan wel daarvan ontheffing te verlenen.    
 4.  Onze Minister maakt het verbod bekend in de Staatscourant.   
 
 ### Artikel  60  
 
-Besluiten die zijn genomen op grond van de [artikelen 7](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [11](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [12](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [14](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [18](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [21, eerste lid](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [28, eerste lid](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), [29](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), en [31 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) gelden als besluiten die zijn genomen op grond van onderscheidenlijk de artikelen 10, 15, 16, 17, 31, 10, 49, eerste lid, 57 en 58 van deze wet. 
+Besluiten die zijn genomen op grond van de artikelen 7, 11, 12, 14, 18, 21, eerste lid, 28, eerste lid, 29, en 31 van de Natuurbeschermingswet gelden als besluiten die zijn genomen op grond van onderscheidenlijk de artikelen 10, 15, 16, 17, 31, 10, 49, eerste lid, 57 en 58 van deze wet. 
 
 ### Artikel  60a  
 
-1.  Besluiten die zijn genomen op grond van [artikel 12 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) voor projecten of andere handelingen als bedoeld in artikel 19d, eerste lid, gelden ter zake van een Natura 2000-gebied als besluiten die zijn genomen op grond van artikel 19d.   
-2.  Besluiten die zijn genomen op grond van [artikel 16, tweede lid, onderdeel c, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) gelden als besluiten die zijn genomen op grond van artikel 16 of artikel 19d van deze wet.   
+1.  Besluiten die zijn genomen op grond van artikel 12 van de Natuurbeschermingswet voor projecten of andere handelingen als bedoeld in artikel 19d, eerste lid, gelden ter zake van een Natura 2000-gebied als besluiten die zijn genomen op grond van artikel 19d.   
+2.  Besluiten die zijn genomen op grond van artikel 16, tweede lid, onderdeel c, van de Natuurbeschermingswet gelden als besluiten die zijn genomen op grond van artikel 16 of artikel 19d van deze wet.   
 3.  Het eerste en het tweede lid gelden niet met betrekking tot de toepassing van artikel 31 van deze wet.   
 4.  De besluiten van Onze Minister houdende de aanwijzing van gebieden ter uitvoering van richtlijn 2009/147/EG gelden als besluiten als bedoeld in artikel 10a.   
 5.  Voor zover een beschermd natuurmonument als bedoeld in artikel 10 geheel of gedeeltelijk deel uitmaakt van een gebied als bedoeld in het vierde lid, vervalt in afwijking van artikel 15a, tweede lid, een besluit houdende de aanwijzing van dat beschermde natuurmonument geheel of gedeeltelijk met ingang van 1 oktober 2005. Artikel 15a, derde lid, is van overeenkomstige toepassing.   
 6.  Op besluiten, waarbij artikel 6 van de richtlijn 92/43/EEG aan de orde is, op voor 1 oktober 2005 ingediende aanvragen om vergunning of ontheffing en ingediende verzoeken om toestemming anderszins blijft deze wet buiten toepassing, totdat de bezwaar- of beroepstermijn is verstreken dan wel, indien beroep is ingesteld, onherroepelijk op het beroep is beslist.   
-7.  Een beheerplan dat is vastgesteld op grond van [artikel 14 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), behoudt zijn gelding gedurende de periode waarvoor het plan is aangegaan.   
+7.  Een beheerplan dat is vastgesteld op grond van artikel 14 van de Natuurbeschermingswet, behoudt zijn gelding gedurende de periode waarvoor het plan is aangegaan.   
 8.  Een beheerplan als bedoeld in artikel 19a voor een gebied dat ter uitvoering van richtlijn 2009/147/EG voor 1 oktober 2005 is aangewezen, wordt uiterlijk drie jaar na het vaststellen van de instandhoudingsdoelstelling voor het gebied voor het eerst vastgesteld.   
 9.  Besluiten die zijn genomen op basis van artikel 19d, derde lid, (oud) gelden als besluiten die zijn genomen op basis van artikel 19d, vierde lid (nieuw).  
 10.  Artikel 19d is niet van toepassing op handelingen in de exclusieve economische zone waarvoor op grond van andere wetten en met inachtneming van artikel 6, derde en vierde lid, van richtlijn 92/43/EEG, een vergunning is of zal worden verleend.   
@@ -900,30 +900,30 @@ Gebieden die voor de inwerkingtreding van deze wet door Onze Minister zijn aange
 
 ### Artikel  62  
 
-1.  Besluiten, die voor de datum van inwerkingtreding van deze wet zijn genomen op grond van [artikel 8, eerste lid, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) worden afgehandeld overeenkomstig [artikel 9 van genoemde wet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md).    
-2.  Besluiten die voor de datum van inwerkingtreding van deze wet zijn genomen op grond van [artikel 8, tweede lid, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) gelden als besluiten die zijn genomen op grond van artikel 12, eerste lid, van deze wet, met dien verstande dat zodanige besluiten worden afgehandeld overeenkomstig [artikel 9 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md).    
+1.  Besluiten, die voor de datum van inwerkingtreding van deze wet zijn genomen op grond van artikel 8, eerste lid, van de Natuurbeschermingswet worden afgehandeld overeenkomstig artikel 9 van genoemde wet.    
+2.  Besluiten die voor de datum van inwerkingtreding van deze wet zijn genomen op grond van artikel 8, tweede lid, van de Natuurbeschermingswet gelden als besluiten die zijn genomen op grond van artikel 12, eerste lid, van deze wet, met dien verstande dat zodanige besluiten worden afgehandeld overeenkomstig artikel 9 van de Natuurbeschermingswet.    
 3.  Besluiten als bedoeld in artikel 10, die met inachtneming van het eerste lid worden genomen vermelden de in artikel 16, vierde lid, van deze wet bedoelde handelingen.   
 
 ### Artikel  63  
 
-1.  Ten aanzien van het nemen van besluiten omtrent voor de datum van inwerkingtreding van deze wet ingediende verzoeken om vergunning of ontheffing als bedoeld in [artikel 12](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) onderscheidenlijk [16, tweede lid, onderdeel c, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), blijft genoemde wet van toepassing totdat de bezwaar- of beroepstermijn is verstreken dan wel, indien beroep is ingesteld, onherroepelijk op het beroep is beslist.    
-2.  Het eerste lid is van overeenkomstige toepassing op voor de datum van inwerkingtreding van deze wet ingediende verzoeken om vergunning voor het verrichten van handelingen in een staatsnatuurmonument als bedoeld in [artikel 21, eerste lid, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md).   
+1.  Ten aanzien van het nemen van besluiten omtrent voor de datum van inwerkingtreding van deze wet ingediende verzoeken om vergunning of ontheffing als bedoeld in artikel 12 onderscheidenlijk 16, tweede lid, onderdeel c, van de Natuurbeschermingswet, blijft genoemde wet van toepassing totdat de bezwaar- of beroepstermijn is verstreken dan wel, indien beroep is ingesteld, onherroepelijk op het beroep is beslist.    
+2.  Het eerste lid is van overeenkomstige toepassing op voor de datum van inwerkingtreding van deze wet ingediende verzoeken om vergunning voor het verrichten van handelingen in een staatsnatuurmonument als bedoeld in artikel 21, eerste lid, van de Natuurbeschermingswet.   
 
 ### Artikel  64  
 
-Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat voor de datum van inwerkingtreding van deze wet is bekendgemaakt, alsmede ten aanzien van de behandeling van bezwaar of beroep dat voor de datum van inwerkingtreding van deze wet is gemaakt onderscheidenlijk is ingesteld, blijft de [Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) van toepassing.  
+Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat voor de datum van inwerkingtreding van deze wet is bekendgemaakt, alsmede ten aanzien van de behandeling van bezwaar of beroep dat voor de datum van inwerkingtreding van deze wet is gemaakt onderscheidenlijk is ingesteld, blijft de Natuurbeschermingswet van toepassing.  
 
 ### Artikel  65  
 
-Ten aanzien van beschermde natuurmonumenten en staatsnatuurmonumenten, als bedoeld in [artikel 7, eerste lid](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), respectievelijk [artikel 21, eerste lid, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), die voor de datum van inwerkingtreding van deze wet als zodanig zijn aangewezen op grond van de [Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), geldt in afwijking van artikel 16, vierde lid, van deze wet het verbod van artikel 16, eerste lid, van deze wet voor in dat artikellid bedoelde schadelijke handelingen die buiten het beschermde natuurmonument of staatsnatuurmonument worden verricht zonder dat deze handelingen vermeld zijn in het besluit tot aanwijzing.  
+Ten aanzien van beschermde natuurmonumenten en staatsnatuurmonumenten, als bedoeld in artikel 7, eerste lid, respectievelijk artikel 21, eerste lid, van de Natuurbeschermingswet, die voor de datum van inwerkingtreding van deze wet als zodanig zijn aangewezen op grond van de Natuurbeschermingswet, geldt in afwijking van artikel 16, vierde lid, van deze wet het verbod van artikel 16, eerste lid, van deze wet voor in dat artikellid bedoelde schadelijke handelingen die buiten het beschermde natuurmonument of staatsnatuurmonument worden verricht zonder dat deze handelingen vermeld zijn in het besluit tot aanwijzing.  
 
 ### Artikel  66  
 
-De eigenaar en gebruiker zijn verplicht de kentekenen die op grond van [artikel 15 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) in een beschermd natuurmonument zijn aangebracht na intrekking van die wet te gedogen.  
+De eigenaar en gebruiker zijn verplicht de kentekenen die op grond van artikel 15 van de Natuurbeschermingswet in een beschermd natuurmonument zijn aangebracht na intrekking van die wet te gedogen.  
 
 ### Artikel  67  
 
-Ten aanzien van voor de datum van inwerkingtreding van deze wet genomen besluiten tot toepassing van bestuursdwang en de daaruit voortvloeiende uitvoering van werken als bedoeld in [artikel 29, eerste en tweede lid, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), blijft genoemde wet van toepassing.  
+Ten aanzien van voor de datum van inwerkingtreding van deze wet genomen besluiten tot toepassing van bestuursdwang en de daaruit voortvloeiende uitvoering van werken als bedoeld in artikel 29, eerste en tweede lid, van de Natuurbeschermingswet, blijft genoemde wet van toepassing.  
 
 ### Artikel  68  
 
@@ -931,7 +931,7 @@ Wijzigt de Wet op de economische delicten.
 
 ### Artikel  68a  
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van de [wet van 20 januari 2005 tot wijziging van de Natuurbeschermingswet 1998 in verband met Europeesrechtelijke verplichtingen](../../../../wet/wijzigingswet/natuurbeschermingswet/1998/(europeesrechtelijke/etc/BWBR0017924/README.md) (Stb. 2005, 195) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet. 
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van de wet van 20 januari 2005 tot wijziging van de Natuurbeschermingswet 1998 in verband met Europeesrechtelijke verplichtingen (Stb. 2005, 195) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet. 
 
 ### Artikel  68b  
 
@@ -948,7 +948,7 @@ Wijzigt de Wet milieubeheer.
 ### Artikel  71  
 
 1.   Wijzigt de Natuurbeschermingswet.    
-2.  De [Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) wordt ingetrokken.   
+2.  De Natuurbeschermingswet wordt ingetrokken.   
 
 ### Artikel  72  
 
@@ -960,7 +960,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ###Artikel 73a 
 
-1. De [Wet deelneming Grevelingen](../../../../wet/wet/deelneming/grevelingen/BWBR0003806/README.md) wordt ingetrokken. 
+1. De Wet deelneming Grevelingen wordt ingetrokken. 
 2. Het Natuur- en Recreatieschap De Grevelingen ontvangt ter zake van de uittreding van het Rijk uit de gemeenschappelijke regeling Natuur- en Recreatiegebied De Grevelingen een vergoeding van het Rijk van 9,75 miljoen euro, onder de voorwaarde dat de vergoeding door het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger wordt besteed aan de behartiging van de belangen van natuur, landschap en openluchtrecreatie in De Grevelingen. 
 3. Het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger legt aan Onze Minister verantwoording af over de besteding van de afkoopsom en overlegt daartoe jaarlijks aan Onze Minister een jaarrekening tezamen met een accountantsverklaring. De eerste volzin is van toepassing tot 1 januari 2030 of, als dit eerder is, tot 1 januari van het jaar volgend op het jaar waarin het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger is opgehouden te bestaan. 
 4. Ingeval niet is voldaan aan de voorwaarde, bedoeld in het tweede lid, of aan de verplichtingen, bedoeld in het derde lid, eerste volzin, kan Onze Minister de vergoeding geheel of gedeeltelijk terugvorderen.

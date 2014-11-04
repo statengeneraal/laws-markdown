@@ -5,7 +5,7 @@
 De Minister van Economische Zaken;  
 Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op de [artikelen 3, tweede lid](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [4, derde lid](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [5](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [6](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) en [7 van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [artikel 4:93 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 6:23, tweede lid, van de Mediawet 2008](../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);
+Gelet op de artikelen 3, tweede lid, 4, derde lid, 5, 6 en 7 van het Besluit vergoedingen Telecommunicatiewet, artikel 4:93 van de Algemene wet bestuursrecht en artikel 6:23, tweede lid, van de Mediawet 2008;
 Besluit:    
 
 ### Artikel  1  
@@ -16,13 +16,13 @@ a.  *minister:* de Minister van Economische Zaken;
 
 b.  *agentschap:* Agentschap Telecom van het ministerie van Economische Zaken;  
 
-c.  *categorieën:* categorieën van gelijksoortige werkzaamheden of diensten, bedoeld in [artikel 4, eerste lid, van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md);  
+c.  *categorieën:* categorieën van gelijksoortige werkzaamheden of diensten, bedoeld in artikel 4, eerste lid, van het Besluit vergoedingen Telecommunicatiewet;  
 
-d.  *subcategorieën:* subcategorieën van gelijksoortige werkzaamheden of diensten, bedoeld in [artikel 4, derde lid, van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md);  
+d.  *subcategorieën:* subcategorieën van gelijksoortige werkzaamheden of diensten, bedoeld in artikel 4, derde lid, van het Besluit vergoedingen Telecommunicatiewet;  
 
-e.  *jaarlijkse bijdrage:* bijdrage, bedoeld in [artikel 16.1, vierde lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+e.  *jaarlijkse bijdrage:* bijdrage, bedoeld in artikel 16.1, vierde lid, van de wet;  
 
-f.  *vergunning:* een op grond van de [artikelen 3.6](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [3.10](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [3.12 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) verleende vergunning voor het gebruik van frequentieruimte;  
+f.  *vergunning:* een op grond van de artikelen 3.6, 3.10 en 3.12 van de wet verleende vergunning voor het gebruik van frequentieruimte;  
 
 g.  *uurtarieven:* tarieven, bedoeld in bijlage II bij deze regeling.   
 
@@ -72,7 +72,7 @@ c. het ministerie van Binnenlandse Zaken en Koninkrijksrelaties: € 45.760.
 3.  In afwijking van het eerste en tweede lid is voor de wijziging van een vergunning die het wijzigen van een of meer individueel geplande frequenties inhoudt een vergoeding verschuldigd van € 618 bij de subcategorieën I.A.1, I.A.2, I.A.4, I.B.1, I.B.3, I.B.6, I.B.14, I.B.15, I.B.18 en I.D.2,.   
 4.  In afwijking van het eerste lid is voor de wijziging van een vergunning die het wijzigen van een of meer algemeen geplande frequenties inhoudt een vergoeding verschuldigd van € 153 bij de subcategorieën: I.B.1, I.B.5, I.B.6, I.B.14, I.D.2 en I.E.2.   
 5.  In afwijking van het tweede lid is voor wijziging van een vergunning in de subcategorie I.F.2, inhoudende het omzetten van een *allotment* in een *assignment*, een vergoeding verschuldigd van € 618 per opstelplaats.   
-6.  In afwijking van het eerste en tweede lid is geen vergoeding verschuldigd voor een verlenging van rechtswege als bedoeld in [artikel 3.17, tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
+6.  In afwijking van het eerste en tweede lid is geen vergoeding verschuldigd voor een verlenging van rechtswege als bedoeld in artikel 3.17, tweede lid, van de wet.  
 
 ### Artikel  6  
 
@@ -80,12 +80,12 @@ Voor de kosten van de door het agentschap te verrichten werkzaamheden of dienste
 
 ### Artikel  7  
 
-1.  Een vergoeding voor de kosten van behandeling van een storingsmelding, bedoeld in de [Regeling storingsmeldingen](../../../../../../../ministeriele-regeling/regeling/storingsmeldingen/BWBR0026550/README.md), is verschuldigd door degene die de storing heeft gemeld, indien uit het onderzoek is gebleken dat zijn uitrusting niet voldoet aan [artikel 4, eerste lid, onder b of c, van de Regeling storingsmeldingen](../../../../../../../ministeriele-regeling/regeling/storingsmeldingen/BWBR0026550/README.md) of als de uitrusting niet wordt gebruikt conform artikel 4, eerste lid, onder d of e, van die regeling.   
+1.  Een vergoeding voor de kosten van behandeling van een storingsmelding, bedoeld in de Regeling storingsmeldingen, is verschuldigd door degene die de storing heeft gemeld, indien uit het onderzoek is gebleken dat zijn uitrusting niet voldoet aan artikel 4, eerste lid, onder b of c, van de Regeling storingsmeldingen of als de uitrusting niet wordt gebruikt conform artikel 4, eerste lid, onder d of e, van die regeling.   
 2.  De in het eerste lid bedoelde vergoeding wordt vastgesteld op grond van de uurtarieven, bedoeld in bijlage II.  
 
 ### Artikel  8  
 
-De vergoeding voor het afnemen van een bijzonder examen door de minister als bedoeld in [artikel 5 van de Examenregeling frequentiegebruik 2008](../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/2008/BWBR0024285/README.md) wordt vastgesteld op grond van de uurtarieven, bedoeld in bijlage II. 
+De vergoeding voor het afnemen van een bijzonder examen door de minister als bedoeld in artikel 5 van de Examenregeling frequentiegebruik 2008 wordt vastgesteld op grond van de uurtarieven, bedoeld in bijlage II. 
 
 ### Artikel  9  
 
@@ -98,15 +98,15 @@ Voor de kosten van andere werkzaamheden of diensten die door het agentschap in h
 
 ### Artikel  11  
 
-De minister kan overeenkomstig [artikel 4:93 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit, verrekenen met een vordering op grond van deze regeling. 
+De minister kan overeenkomstig artikel 4:93 van de Algemene wet bestuursrecht een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens hoofdstuk 3 van de Telecommunicatiewet genomen besluit, verrekenen met een vordering op grond van deze regeling. 
 
 ### Artikel  12  
 
-Het kostencalculatiemodel, bedoeld in [artikel 3, eerste lid, onder d, van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) wordt bekendgemaakt door middel van ter inzagelegging ten kantore van het agentschap te Groningen. 
+Het kostencalculatiemodel, bedoeld in artikel 3, eerste lid, onder d, van het Besluit vergoedingen Telecommunicatiewet wordt bekendgemaakt door middel van ter inzagelegging ten kantore van het agentschap te Groningen. 
 
 ### Artikel  13  
 
-De [Regeling vergoedingen Agentschap Telecom 2013](../../../../../../../ministeriele-regeling/regeling/vergoedingen/agentschap/telecom/2013/BWBR0032252/README.md) wordt ingetrokken, met dien verstande dat voor werkzaamheden of diensten die zijn verricht vóór het kalenderjaar 2014 het recht van toepassing blijft zoals dat ten tijde van verrichting van die werkzaamheden of diensten gold. 
+De Regeling vergoedingen Agentschap Telecom 2013 wordt ingetrokken, met dien verstande dat voor werkzaamheden of diensten die zijn verricht vóór het kalenderjaar 2014 het recht van toepassing blijft zoals dat ten tijde van verrichting van die werkzaamheden of diensten gold. 
 
 ### Artikel  14  
 
@@ -210,7 +210,7 @@ Over het kalenderjaar 2014 zijn de volgende bedragen verschuldigd:
 |  *G.*   |  *IMMUNITEITSBEPROEVINGEN*   | --- |  *I*   |  *II*   |  *III*   |
 | 1.  | Immuniteitsbeproevingen  | Per vergunning  | € 153  | € 280  | --- |
 
-<sup>1</sup>Indien [artikel 3.21 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) van toepassing is, worden de bedragen in subcategorie I.F.2 bepaald door toepassing van de formule A x B, waarbij:
+<sup>1</sup>Indien artikel 3.21 van de wet van toepassing is, worden de bedragen in subcategorie I.F.2 bepaald door toepassing van de formule A x B, waarbij:
 
 A voorstelt: het minimaal vergunde percentage van de in de vergunning genoemde capaciteit van de frequentieruimte;
 
@@ -227,15 +227,15 @@ B voorstelt: het van toepassing zijnde bedrag dat genoemd is in subcategorie I.F
 | 2.  | Examens ter verkrijging van een registratie voor frequentieruimte voor het doen van onderzoekingen:  | Per examen  | --- |
 | – examen voor de categorie N;  | --- | € 61  |
 | – examen voor de categorie F.  | --- | € 61  |
-| 3.  | Erkenning als bedoeld in [artikel 18 van de Examenregeling frequentiegebruik 2008](../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/2008/BWBR0024285/README.md)  | Per erkenning  | € 65  |
+| 3.  | Erkenning als bedoeld in artikel 18 van de Examenregeling frequentiegebruik 2008  | Per erkenning  | € 65  |
 | 4.  | Afgifte van een certificaat van bediening voor radiozendapparaten ten behoeve van de scheepvaart  | Per certificaat  | € 27  |
 | Afgifte van een certificaat ter verkrijging van een vergunning van een buitenlandse administratie voor radiozendapparaten voor het doen van proeven  | --- | € 27  |
-| 5.  | Aanwijzing van een examinerende instelling als bedoeld in [artikel 19, eerste lid van de Examenregeling frequentiegebruik 2008](../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/2008/BWBR0024285/README.md)  | Per aanwijzing  | € 473  |
+| 5.  | Aanwijzing van een examinerende instelling als bedoeld in artikel 19, eerste lid van de Examenregeling frequentiegebruik 2008  | Per aanwijzing  | € 473  |
 |  *B.*   |  *VERKLARINGEN EN ERKENNINGEN*   |  *I*   |  *II*   |  *III*   |
-| 1.  | Aanwijzen van een aangemelde instantie als bedoeld in [artikel 17 van het Besluit elektromagnetische compatibiliteit 2007](../../../../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md), aanwijzen van een aangemelde instantie als bedoeld in [artikel 11 van het Besluit randapparaten en radioapparaten 2007](../../../../../../../AMvB/besluit/randapparaten/en/radioapparaten/2007/BWBR0021037/README.md), alsmede het toezicht op de naleving door eerdergenoemde instanties van de met betrekking tot de aanwijzing gestelde regels  Aanwijzen van een overeenstemmingsbeoordelingsorgaan als bedoeld in [artikel 19a van het Besluit elektromagnetische compatibiliteit](../../../../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md), aanwijzen van een overeenstemmingsbeoordelingsorgaan als bedoeld in [artikel 12a van het Besluit randapparaten en radioapparaten 2007](../../../../../../../AMvB/besluit/randapparaten/en/radioapparaten/2007/BWBR0021037/README.md), alsmede het toezicht op de naleving door eerdergenoemde instanties van de met betrekking tot de aanwijzing gestelde regels  | Per aanwijzing  | € 1.440  | € 270  | --- |
+| 1.  | Aanwijzen van een aangemelde instantie als bedoeld in artikel 17 van het Besluit elektromagnetische compatibiliteit 2007, aanwijzen van een aangemelde instantie als bedoeld in artikel 11 van het Besluit randapparaten en radioapparaten 2007, alsmede het toezicht op de naleving door eerdergenoemde instanties van de met betrekking tot de aanwijzing gestelde regels  Aanwijzen van een overeenstemmingsbeoordelingsorgaan als bedoeld in artikel 19a van het Besluit elektromagnetische compatibiliteit, aanwijzen van een overeenstemmingsbeoordelingsorgaan als bedoeld in artikel 12a van het Besluit randapparaten en radioapparaten 2007, alsmede het toezicht op de naleving door eerdergenoemde instanties van de met betrekking tot de aanwijzing gestelde regels  | Per aanwijzing  | € 1.440  | € 270  | --- |
 | 2.  | Vergunning voor de aanleg van radiozendapparaten zonder gebruik van frequentieruimte  | Per vergunning  | € 45  | --- | --- |
 |  *C.*   |  *RANDAPPARATEN*   | --- |  *I*   |
-| 1.  | Werkzaamheden die voor de overheid voortvloeien uit de toepassing van het bij of krachtens de [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) terzake van randapparatuur bepaalde  | Per op 1 november 2013 volgens het nummerregister telefoon en ISDN-diensten door de OPTA toegekend nummer  | € 0,013  |
+| 1.  | Werkzaamheden die voor de overheid voortvloeien uit de toepassing van het bij of krachtens de Telecommunicatiewet terzake van randapparatuur bepaalde  | Per op 1 november 2013 volgens het nummerregister telefoon en ISDN-diensten door de OPTA toegekend nummer  | € 0,013  |
 
 <sup>1</sup> Voor het toezicht op point-point-straalverbindingen gelden per bandbreedte en frequentieband de volgende bedragen: 
 

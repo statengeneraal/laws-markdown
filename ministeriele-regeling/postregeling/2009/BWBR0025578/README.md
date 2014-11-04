@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 22 maart 2009, nr. WJZ/9055290, houdende regels betreffende de universele postdienst (Postregeling 2009)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op de [artikelen 20, eerste lid](../../../../wet/postwet/2009/BWBR0025572/README.md), [22, tweede lid](../../../../wet/postwet/2009/BWBR0025572/README.md), [23, tweede lid](../../../../wet/postwet/2009/BWBR0025572/README.md), [25, eerste, tweede, derde en zesde lid](../../../../wet/postwet/2009/BWBR0025572/README.md), en [27, tweede lid, van de Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md), en [artikelen 4](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md), [7, derde lid](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md), [10, eerste lid](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md), en [15, derde lid, van het Postbesluit 2009](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md);
+Gelet op de artikelen 20, eerste lid, 22, tweede lid, 23, tweede lid, 25, eerste, tweede, derde en zesde lid, en 27, tweede lid, van de Postwet 2009, en artikelen 4, 7, derde lid, 10, eerste lid, en 15, derde lid, van het Postbesluit 2009;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,11 +15,11 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* de Minister van Economische Zaken;  
 
-b.  *besluit:* het [Postbesluit 2009](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md);  
+b.  *besluit:* het Postbesluit 2009;  
 
-c.  *dienstverleningspunt:* een dienstverleningspunt als bedoeld in [artikel 16, zevende lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+c.  *dienstverleningspunt:* een dienstverleningspunt als bedoeld in artikel 16, zevende lid, van de wet;  
 
-d.  *jaarlijkse rapportage:* de jaarlijkse rapportage, bedoeld in [artikel 23, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+d.  *jaarlijkse rapportage:* de jaarlijkse rapportage, bedoeld in artikel 23, eerste lid, van de wet.   
 
 ### Hoofdstuk  2  
 
@@ -34,7 +34,7 @@ d.  *jaarlijkse rapportage:* de jaarlijkse rapportage, bedoeld in [artikel 23, e
 
 ### Artikel  3  
 
-1.  Poststukken die overeenkomstig [artikel 7, eerste lid, van het besluit](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md), zijn gedeponeerd of afgegeven voor postvervoer binnen Nederland, worden in elk geval vervoerd met de standaard overnight service, bedoeld in [artikel 16, zesde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+1.  Poststukken die overeenkomstig artikel 7, eerste lid, van het besluit, zijn gedeponeerd of afgegeven voor postvervoer binnen Nederland, worden in elk geval vervoerd met de standaard overnight service, bedoeld in artikel 16, zesde lid, van de wet.   
 2.  In afwijking van het eerste lid, kan de verlener van de universele postdienst in de algemene voorwaarden bepalen dat gedurende een aaneengesloten periode van ten hoogste 21 dagen in de maand december de poststukken zijnde losse brieven enkel worden vervoerd met de standaard overnight service indien deze brieven tijdig op een dienstverleningspunt zijn aangeboden en voldoende gefrankeerd zijn.   
 3.  De verlener van de universele postdienst maakt jaarlijks voor 1 november de periode, bedoeld in het tweede lid, aan de Autoriteit Consument en Markt bekend.   
 4.  De verlener van de universele postdienst kondigt de periode, bedoeld in het tweede lid, op genoegzame wijze aan het publiek aan.   
@@ -42,7 +42,7 @@ d.  *jaarlijkse rapportage:* de jaarlijkse rapportage, bedoeld in [artikel 23, e
 
 ### Artikel  4  
 
-1.  Een volledig assortiment van diensten als bedoeld in [artikel 16, zevende lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende bijlage 1.   
+1.  Een volledig assortiment van diensten als bedoeld in artikel 16, zevende lid, van de wet, bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende bijlage 1.   
 2.  Een nagenoeg volledig assortiment van diensten bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende bijlage 2.   
 3.  De verlener van de universele postdienst kan een dienstverleningspunt in een woonkern met minder dan 5000 inwoners zonder winkelgebied sluiten indien: 
 
@@ -52,7 +52,7 @@ b. voor de inwoners van de woonkern binnen een straal van vijf kilometer een and
 
 ### Artikel  5  
 
-1.  Een voor aflevering van poststukken bestemde brievenbus als bedoeld in [artikel 20, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), is zo dicht mogelijk bij de rijbaan van een voor motorrijtuigen op meer dan twee wielen berijdbare openbare weg aangebracht. Deze brievenbussen zijn van de weg af zonder belemmering bereikbaar.   
+1.  Een voor aflevering van poststukken bestemde brievenbus als bedoeld in artikel 20, eerste lid, van de wet, is zo dicht mogelijk bij de rijbaan van een voor motorrijtuigen op meer dan twee wielen berijdbare openbare weg aangebracht. Deze brievenbussen zijn van de weg af zonder belemmering bereikbaar.   
 2.  Met een openbare weg als bedoeld in het eerste lid, wordt gelijkgesteld een weg die: 
 
 a. gedurende het gehele jaar onbelemmerd kan worden bereden door een motorvoertuig op meer dan twee wielen met een snelheid van ten minste 40 kilometer per uur;  
@@ -84,7 +84,7 @@ b. ten dienste van alle overige collectieve gebouwen zo dicht mogelijk bij de in
 
 ### Artikel  7  
 
-1.  De verlener van de universele postdienst rekent alleen de daadwerkelijke kosten, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), van de universele postdienst overeenkomstig de artikelen 7a tot en met 7d, toe aan de universele postdienst, met dien verstande dat hij daartoe in ieder geval: 
+1.  De verlener van de universele postdienst rekent alleen de daadwerkelijke kosten, bedoeld in artikel 25, derde lid, van de wet, van de universele postdienst overeenkomstig de artikelen 7a tot en met 7d, toe aan de universele postdienst, met dien verstande dat hij daartoe in ieder geval: 
 
 a. alleen kosten die voor de universele postdienst zijn gerealiseerd, toerekent aan de universele postdienst;  
 
@@ -141,7 +141,7 @@ c. voor zover toerekening van deze kosten niet mogelijk is op basis van onderdee
 1°. alle uitgaven die direct of indirect aan de universele postdienst worden toegerekend, en  
 
 2°. alle uitgaven die direct of indirect aan de andere activiteiten worden toegerekend.       
-2.  In de rechtstreekse analyse, bedoeld in het eerste lid, aanhef en onderdeel a, worden de kosten die uitsluitend gemaakt worden op grond van de eisen die bij of krachtens de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) aan de universele postdienst worden gesteld, toegerekend aan de universele postdienst, voor zover: 
+2.  In de rechtstreekse analyse, bedoeld in het eerste lid, aanhef en onderdeel a, worden de kosten die uitsluitend gemaakt worden op grond van de eisen die bij of krachtens de wet aan de universele postdienst worden gesteld, toegerekend aan de universele postdienst, voor zover: 
 
 a. de aldus berekende kosten niet gemaakt zouden worden zonder universele postdienst;  
 
@@ -161,7 +161,7 @@ De verlener van de universele postdienst rekent de gemeenschappelijke kosten die
 
 ### Artikel  8  
 
-1.  De boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 22, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), wordt ingericht overeenkomstig consequent toegepaste, objectief gerechtvaardigde en algemeen aanvaardbare normen voor bedrijfsadministratie.   
+1.  De boekhouding van de verlener van de universele postdienst, bedoeld in artikel 22, derde lid, van de wet, wordt ingericht overeenkomstig consequent toegepaste, objectief gerechtvaardigde en algemeen aanvaardbare normen voor bedrijfsadministratie.   
 2.  De boekhouding van de verlener van universele postdienst geeft de kosten, zoals toegerekend op grond van het kostentoerekeningssysteem bedoeld in artikel 7a, en de opbrengsten van de universele postdienst weer.  
 
 ### Artikel  9  
@@ -172,19 +172,19 @@ a. het aantal dienstverleningspunten, uitgesplitst naar soort, aan het einde van
 
 b. de verspreiding van de dienstverleningspunten over Nederland;  
 
-c. de verantwoording van de meetmethodiek voor de bepaling van de straal van vijf kilometer, bedoeld in [artikel 16, zevende lid, onderdeel a en b, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+c. de verantwoording van de meetmethodiek voor de bepaling van de straal van vijf kilometer, bedoeld in artikel 16, zevende lid, onderdeel a en b, van de wet;  
 
-d. de verantwoording van de bepaling van het inwoneraantal van een woonkern als bedoeld in [artikel 16, zevende lid, onderdeel b, en achtste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+d. de verantwoording van de bepaling van het inwoneraantal van een woonkern als bedoeld in artikel 16, zevende lid, onderdeel b, en achtste lid, van de wet;  
 
-e. een verantwoording van de systematiek ter vaststelling of is voldaan aan de spreidingsnormen van [artikel 16, zevende lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+e. een verantwoording van de systematiek ter vaststelling of is voldaan aan de spreidingsnormen van artikel 16, zevende lid, van de wet;  
 
 f. de datering van de gehanteerde bronnen;  
 
-g. een definitie van gehanteerde begrippen, voor zover die afwijken van de begrippen van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md), het [besluit](../../../../AMvB/postbesluit/2009/BWBR0025577/README.md) of deze regeling.   
+g. een definitie van gehanteerde begrippen, voor zover die afwijken van de begrippen van de wet, het besluit of deze regeling.   
 
 ### Artikel  10  
 
-1.  De jaarlijkse rapportage gaat vergezeld van het resultaat van een meting van de verlener van de universele postdienst over het voorafgaande kalenderjaar van de kwaliteit van het postvervoer binnen Nederland van brieven met de standard overnight service, bedoeld in [artikel 16, zesde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+1.  De jaarlijkse rapportage gaat vergezeld van het resultaat van een meting van de verlener van de universele postdienst over het voorafgaande kalenderjaar van de kwaliteit van het postvervoer binnen Nederland van brieven met de standard overnight service, bedoeld in artikel 16, zesde lid, van de wet.   
 2.  De verlener van de universele postdienst laat de meting, bedoeld in het eerste lid, maandelijks uitvoeren door een onafhankelijke en deskundige instelling.   
 3.  De verlener van de universele postdienst legt aan de Autoriteit Consument en Markt voor 1 juni van het kalenderjaar na de meting over: 
 
@@ -285,7 +285,7 @@ d. een functionele beschrijving van het kostentoerekeningsysteem, dat wordt geha
 
 ### Artikel  14  
 
-1.  Het percentage waarmee alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), tezamen jaarlijks gemiddeld mogen stijgen is het verschil tussen de enkelstukstarieven die de verlener van de universele dienst voor dit postvervoer hanteert en de totale tariefruimte.   
+1.  Het percentage waarmee alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet, tezamen jaarlijks gemiddeld mogen stijgen is het verschil tussen de enkelstukstarieven die de verlener van de universele dienst voor dit postvervoer hanteert en de totale tariefruimte.   
 2.  De totale tariefruimte bestaat uit de basis tariefruimte en de aanvullende tariefruimte.   
 3.  De totale tariefruimte wordt door de Autoriteit Consument en Markt berekend overeenkomstig de formule in onderdeel A van bijlage 3 en wordt uitgedrukt in een maximaal gemiddeld tarief per eenheid volume voor alle in het eerste lid genoemde postdiensten tezamen.   
 4.  Zodra de Autoriteit Consument en Markt opnieuw de basis tariefruimte heeft berekend, vervallen de eerder berekende basis tariefruimte en aanvullende tariefruimten.  
@@ -297,14 +297,14 @@ d. een functionele beschrijving van het kostentoerekeningsysteem, dat wordt geha
 a. de Autoriteit Consument en Markt heeft vastgesteld dat het kostentoerekeningsysteem van de verlener van de universele postdienst niet voldoet aan de in de artikelen 7 tot en met 7d gestelde eisen, of  
 
 b. de verlener van de universele postdienst zijn kostentoerekeningsysteem wijzigt of heeft gewijzigd.     
-2.  De basis tariefruimte wordt berekend voor alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), tezamen.   
+2.  De basis tariefruimte wordt berekend voor alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet, tezamen.   
 3.  De basis tariefruimte wordt berekend overeenkomstig de formule in onderdeel B van bijlage 3.   
 4.  In afwijking van het eerste lid, onderdeel b, kan de Autoriteit Consument en Markt afzien van het opnieuw bepalen van de basis tariefruimte indien de wijziging beperkt van aard is.  
 
 ### Artikel  14b  
 
 1.  De aanvullende tariefruimte voor het komende kalenderjaar wordt jaarlijks uiterlijk op 1 september bepaald.   
-2.  De aanvullende tariefruimte wordt berekend voor alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), tezamen.   
+2.  De aanvullende tariefruimte wordt berekend voor alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet, tezamen.   
 3.  De aanvullende tariefruimte wordt berekend overeenkomstig de formule in onderdeel C van bijlage 3 en wordt weergegeven in een factor waarin de ontwikkeling van het maximaal gemiddelde tarief wordt uitgedrukt.  
 
 ### Artikel  14c  
@@ -340,8 +340,8 @@ b. de inrichting van het gewijzigde kostentoerekeningsysteem van de verlener van
 
 ### Artikel  15  
 
-1.  De verlener van de universele postdienst kan in een kalenderjaar de tarieven, bedoeld in [artikel 24, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), of een wijziging hiervan vaststellen voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), tegen enkelstukstarief, voor zover daarmee de gemiddelde omzet per eenheid volume van de voorgenoemde postdiensten ten hoogste gelijk is aan het door de Autoriteit Consument en Markt berekende maximaal gemiddeld tarief, bedoeld in artikel 14.   
-2.  De gemiddelde omzet per eenheid volume, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de postdiensten, waarvoor de verlener van de universele postdienst de tarieven, bedoeld in [artikel 24, eerste lid](../../../../wet/postwet/2009/BWBR0025572/README.md), vaststelt, die zijn gerealiseerd in het kalenderjaar voorgaand aan het jaar waarin laatstelijk de aanvullende tariefruimte is bepaald.   
+1.  De verlener van de universele postdienst kan in een kalenderjaar de tarieven, bedoeld in artikel 24, eerste lid, van de wet, of een wijziging hiervan vaststellen voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet, tegen enkelstukstarief, voor zover daarmee de gemiddelde omzet per eenheid volume van de voorgenoemde postdiensten ten hoogste gelijk is aan het door de Autoriteit Consument en Markt berekende maximaal gemiddeld tarief, bedoeld in artikel 14.   
+2.  De gemiddelde omzet per eenheid volume, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de postdiensten, waarvoor de verlener van de universele postdienst de tarieven, bedoeld in artikel 24, eerste lid, vaststelt, die zijn gerealiseerd in het kalenderjaar voorgaand aan het jaar waarin laatstelijk de aanvullende tariefruimte is bepaald.   
 3.  In afwijking van het tweede lid, kunnen de omzetaandelen, bedoeld in het tweede lid, gebaseerd worden op de omzetaandelen van een later kalenderjaar: 
 
 a. op verzoek van de verlener van de universele postdienst;  
@@ -371,7 +371,7 @@ c. de omzetaandelen, bedoeld in artikel 15, tweede of derde lid.
 
 ### Artikel  20  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Postwet 2009](../../../../wet/postwet/2009/BWBR0025572/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Postwet 2009 in werking treedt. 
 
 ### Artikel  21  
 
@@ -415,7 +415,7 @@ c. de distributie van:
 
 4°. poststukken met aangegeven waarde;    
 
-d. de uitreiking van het gerechtelijk schrijven, bedoeld in de [artikelen 585, tweede lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [587, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+d. de uitreiking van het gerechtelijk schrijven, bedoeld in de artikelen 585, tweede lid, en 587, eerste lid, van het Wetboek van Strafvordering.   
 
 ### Bijlage  2  
 

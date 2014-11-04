@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9182058, houdende regels voor het behandelen van meldingen over storing in uitrusting (Regeling storingsmeldingen)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op de [artikelen 20](../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md) en [22 van het Besluit elektromagnetische compatibiliteit 2007](../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md) en [artikel 20 van het Besluit randapparaten en radioapparaten 2007](../../../../AMvB/besluit/randapparaten/en/radioapparaten/2007/BWBR0021037/README.md) en de [artikelen 4, derde lid](../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), en [5 van het Besluit vergoedingen Telecommunicatiewet](../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md);
+Gelet op de artikelen 20 en 22 van het Besluit elektromagnetische compatibiliteit 2007 en artikel 20 van het Besluit randapparaten en radioapparaten 2007 en de artikelen 4, derde lid, en 5 van het Besluit vergoedingen Telecommunicatiewet;
 Besluit:     
 ### §  1  
 
@@ -17,7 +17,7 @@ a.  *minister:* Minister van Economische Zaken;
 
 b.  *storing:* elektromagnetische storing, ondervonden in uitrusting als gevolg van het gebruik van uitrusting;  
 
-c.  *beschermingseisen:* de beschermingseisen, bedoeld in [artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007](../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md) of de beschermingseisen, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007](../../../../AMvB/besluit/randapparaten/en/radioapparaten/2007/BWBR0021037/README.md);  
+c.  *beschermingseisen:* de beschermingseisen, bedoeld in artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007 of de beschermingseisen, bedoeld in artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007;  
 
 d.  *Radioreglement:* Radioreglement (Trb. 1981, 78), behorende bij het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138);  
 
@@ -69,7 +69,7 @@ b. de uitrusting geen constructiefouten of andere gebreken vertoont die probleme
 
 c. de uitrusting aan de beschermingseisen voldoet;  
 
-d. het gebruik van de uitrusting geschiedt in overeenstemming met de gebruiksaanwijzing en de bij of krachtens de [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) gestelde regels;  
+d. het gebruik van de uitrusting geschiedt in overeenstemming met de gebruiksaanwijzing en de bij of krachtens de Telecommunicatiewet gestelde regels;  
 
 e. in geval de uitrusting voorzien is van een (richt)antenne of een geïntegreerde antenne, deze antenne onderscheidenlijk de uitrusting zodanig is opgesteld dat een optimale ontvangst mogelijk is.     
 2.  Bij het onderzoek, bedoeld in het eerste lid, onder c, worden zoveel mogelijk de meetmethodes gehanteerd die onderdeel uitmaken van de geharmoniseerde normen.   
@@ -114,7 +114,7 @@ Wijzigt de Regeling elektromagnetische compatibiliteit 2007.
 
 ### Artikel  8  
 
-De [Regeling storingsklachten](../../../../ministeriele-regeling/regeling/storingsklachten/BWBR0007511/README.md) wordt ingetrokken.
+De Regeling storingsklachten wordt ingetrokken.
 
 ### Artikel  9  
 

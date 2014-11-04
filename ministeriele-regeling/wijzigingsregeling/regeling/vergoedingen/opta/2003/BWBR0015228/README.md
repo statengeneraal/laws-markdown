@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Economische Zaken van 13 juni 2003, nr. WJZ/03/02524, houdende wijziging van de Regeling vergoedingen OPTA 2003 
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 4, vierde lid](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md), [5](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) en [7 van het Besluit vergoedingen Telecommunicatiewet](../../../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md);
+Gelet op de artikelen 4, vierde lid, 5 en 7 van het Besluit vergoedingen Telecommunicatiewet;
 Besluit:     
 
 ### Artikel  I  
 
-Wijzigt de [Regeling vergoedingen OPTA 2003](../../../../../../../ministeriele-regeling/regeling/vergoedingen/opta/2003/BWBR0014509/README.md). 
+Wijzigt de Regeling vergoedingen OPTA 2003. 
 
 ### Artikel  II  
 
