@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 12 juli 2007, nr. TRCJZ/2007/2246, Directie Juridische Zaken, gedaan mede namens Onze Minister van Justitie;
 
-Gelet op de [artikelen 327, eerste lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [393, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), op [artikel 60, derde lid, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md), op de [artikelen 1](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [9](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [15](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [16](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [42](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) en [44, eerste lid, van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), op [artikel 15, tweede lid, van de Vorderingswet](../../../../wet/vorderingswet/BWBR0002393/README.md), op [artikel 57, eerste lid, van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md), op [artikel 63 van de Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md), alsmede op de [artikelen 48b, tweede en derde lid](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [69a van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);
+Gelet op de artikelen 327, eerste lid, en 393, derde lid, van Boek 7 van het Burgerlijk Wetboek, op artikel 60, derde lid, van de Luchtvaartwet, op de artikelen 1, 9, 15, 16, 42 en 44, eerste lid, van de Uitvoeringswet grondkamers, op artikel 15, tweede lid, van de Vorderingswet, op artikel 57, eerste lid, van de Wet agrarisch grondverkeer, op artikel 63 van de Wet inrichting landelijk gebied, alsmede op de artikelen 48b, tweede en derde lid, en 69a van de Wet op de rechterlijke organisatie;
 
 De Raad van State gehoord (advies van 9 augustus 2007, no. W11.07.0259/IV);
 
@@ -14,15 +14,15 @@ Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwalit
 Hebben goedgevonden en verstaan:     
 ### Hoofdstuk  1  
 
-####Uitvoering van [artikel 393, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)
+####Uitvoering van artikel 393, derde lid, van Boek 7 van het Burgerlijk Wetboek
 
 ### Artikel  1  
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. verplichting: verplichting als bedoeld in [artikel 389, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+a. verplichting: verplichting als bedoeld in artikel 389, tweede lid, van Boek 7 van het Burgerlijk Wetboek;  
 
-b. hoogst toelaatbare vergoeding: hoogst toelaatbare vergoeding als bedoeld in [artikel 393, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+b. hoogst toelaatbare vergoeding: hoogst toelaatbare vergoeding als bedoeld in artikel 393, derde lid, van Boek 7 van het Burgerlijk Wetboek.   
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ De hoogst toelaatbare vergoeding is die welke de grondkamer voor elk geval afzon
 
 ### Artikel  3  
 
-De hoogst toelaatbare vergoeding voor een verplichting als bedoeld in de artikelen 4, 5 en 6 is de uitkomst van de vermenigvuldiging van de in de onderscheiden artikelen bij die verplichting aangegeven factor, met de voor elk geval afzonderlijk van toepassing zijnde hoogst toelaatbare pachtprijs van het land zonder woningen of andere opstallen, vastgesteld volgens het [Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md). 
+De hoogst toelaatbare vergoeding voor een verplichting als bedoeld in de artikelen 4, 5 en 6 is de uitkomst van de vermenigvuldiging van de in de onderscheiden artikelen bij die verplichting aangegeven factor, met de voor elk geval afzonderlijk van toepassing zijnde hoogst toelaatbare pachtprijs van het land zonder woningen of andere opstallen, vastgesteld volgens het Pachtprijzenbesluit 2007. 
 
 ### Artikel  4  
 
@@ -64,7 +64,7 @@ In geval van opname in een pachtovereenkomst van meerdere verplichtingen als bed
 
 ### Hoofdstuk  2  
 
-####Uitvoering van de [artikelen 1](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [9](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [15](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [16](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), [42](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) en [44, eerste lid, van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md)
+####Uitvoering van de artikelen 1, 9, 15, 16, 42 en 44, eerste lid, van de Uitvoeringswet grondkamers
 
 ### Paragraaf  1  
 
@@ -88,7 +88,7 @@ De grondkamers hebben als standplaats Deventer.
 
 ### Artikel  11  
 
-1.  Voor de benoeming van een lid of plaatsvervangend lid van de grondkamers maken gedeputeerde staten van de binnen het rechtsgebied van de grondkamer gelegen provincies gezamenlijk de aanbeveling, bedoeld in [artikel 3, derde lid, van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), op.   
+1.  Voor de benoeming van een lid of plaatsvervangend lid van de grondkamers maken gedeputeerde staten van de binnen het rechtsgebied van de grondkamer gelegen provincies gezamenlijk de aanbeveling, bedoeld in artikel 3, derde lid, van de Uitvoeringswet grondkamers, op.   
 2.  Indien gedeputeerde staten van de binnen het rechtsgebied van de grondkamer gelegen provincies niet tot een gezamenlijke aanbeveling kunnen komen, maken zij elk een afzonderlijke aanbeveling op.  
 
 ### Paragraaf  2  
@@ -104,7 +104,7 @@ a. goedkeuring van een pachtovereenkomst of ontwerp-pachtovereenkomst,
 b. goedkeuring van een overeenkomst tot wijziging van een pachtovereenkomst, waarbij de tegenprestatie wordt gewijzigd, of een ontwerp van zodanige overeenkomst, of  
 
 c. herziening van de tegenprestatie,   wordt een recht geheven van 5% van de jaarlijkse door de grondkamer goedgekeurde, gewijzigde of herziene tegenprestatie, met een minimum van € 89,– per 1 januari 2014: € 100,– en een maximum van € 380,– per 1 januari 2014: € 421,–.   
-2.  Onder «tegenprestatie» wordt in het eerste lid verstaan de tegenprestatie, bedoeld in [artikel 333 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
+2.  Onder «tegenprestatie» wordt in het eerste lid verstaan de tegenprestatie, bedoeld in artikel 333 van Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  13  
 
@@ -112,19 +112,24 @@ Indien binnen twee maanden nadat een ontwerp-pachtovereenkomst of een ontwerp-ov
 
 ### Artikel  14  
 
-In geval van toetsing van een pachtovereenkomst of van een overeenkomst tot wijziging van een pachtovereenkomst op grond van [artikel 321, vierde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is artikel 12 van overeenkomstige toepassing, met dien verstande, dat het recht verschuldigd is door degene, die de schriftelijke vastlegging, bedoeld in [artikel 317, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), heeft gevorderd. 
+In geval van toetsing van een pachtovereenkomst of van een overeenkomst tot wijziging van een pachtovereenkomst op grond van artikel 321, vierde lid, van Boek 7 van het Burgerlijk Wetboek, is artikel 12 van overeenkomstige toepassing, met dien verstande, dat het recht verschuldigd is door degene, die de schriftelijke vastlegging, bedoeld in artikel 317, tweede lid, van Boek 7 van het Burgerlijk Wetboek, heeft gevorderd. 
 
 ### Artikel  15  
 
-Voor de behandeling van een verzoek als bedoeld in [artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt een recht geheven van € 579,– per 1 januari 2014: € 642,–. 
+Voor de behandeling van een verzoek als bedoeld in artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 579,– per 1 januari 2014: € 642,–. 
 
 ### Artikel  16  
 
-Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de [artikelen 348, tweede lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [354, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), van verzoeken als bedoeld in de [artikelen 380, tweede lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede van een verzoek tot goedkeuring als bedoeld in [artikel 399e van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt een recht geheven van € 133,– per 1 januari 2014: € 148,–. 
+Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de artikelen 348, tweede lid, en 354, derde lid, van Boek 7 van het Burgerlijk Wetboek, van verzoeken als bedoeld in de artikelen 380, tweede lid, en 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek, alsmede van een verzoek tot goedkeuring als bedoeld in artikel 399e van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 133,– per 1 januari 2014: € 148,–. 
 
 ### Artikel  17  
 
-Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in [artikel 323 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt een recht geheven van € 89,– per 1 januari 2014: € 100,–. 
+Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in artikel 323 van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 89,– per 1 januari 2014: € 100,–. 
+
+### Artikel  17a  
+Treedt in werking per 01-01-2015 
+
+Indien een verzoek tot goedkeuring van een overeenkomst als bedoeld in artikel 397, eerste lid, van Boek 7 van het Burgerlijk Wetboek, langs elektronische weg op de door de grondkamers aangegeven wijze wordt ingediend, wordt een recht geheven van € 100,–. 
 
 ### Artikel  18  
 
@@ -137,7 +142,7 @@ Worden met betrekking tot dezelfde pachtovereenkomst verscheidene verzoeken geli
 ### Artikel  20  
 
 1.  Voor het instellen van beroep bij de Centrale Grondkamer wordt een recht geheven van € 100,– per 1 januari 2014: € 111,–.   
-2.  Voor het instellen van beroep bij de Centrale Grondkamer op grond van [artikel 40 van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) wordt geen recht geheven.  
+2.  Voor het instellen van beroep bij de Centrale Grondkamer op grond van artikel 40 van de Uitvoeringswet grondkamers wordt geen recht geheven.  
 
 ### Artikel  21  
 
@@ -154,7 +159,7 @@ Afschriften van ter goedkeuring ingediende overeenkomsten en van beschikkingen d
 
 ### Artikel  22  
 
-De voorzitters, de plaatsvervangende voorzitters, de leden, de plaatsvervangende leden, de secretarissen en de plaatsvervangende secretarissen van de grondkamers alsmede de griffier en de plaatsvervangende griffiers van de Centrale Grondkamer zullen, elk naar de wijze van zijn godsdienstige gezindheid, alvorens in dienst te treden de eed of belofte afleggen: «Ik zweer/beloof dat ik trouw zal zijn aan de Koning en dat ik de [Grondwet](../../../../wet/grondwet/BWBR0001840/README.md) en alle overige wetten van ons land zal eerbiedigen; Ik zweer/verklaar dat ik noch direct, noch indirect in welke vorm dan ook valse informatie heb verstrekt in verband met het verkrijgen van mijn aanstelling; Ik zweer/verklaar dat ik tot het verkrijgen van mijn aanstelling aan niemand iets heb geschonken of beloofd en dat ik dit ook niet zal gaan doen; Ik zweer/verklaar dat ik tot het verkrijgen van mijn aanstelling van niemand giften heb aanvaard en aan niemand beloften heb gedaan en dat ik dit ook niet zal gaan doen; Ik zweer/beloof dat ik plichtsgetrouw en nauwgezet de mij opgedragen taken zal vervullen en zaken die mij uit hoofde van mijn functie vertrouwelijk ter kennis komen of waarvan ik het vertrouwelijke karakter moet inzien, geheim zal houden voor anderen dan die personen aan wie ik ambtshalve tot mededeling verplicht ben; Ik zweer/beloof dat ik mij zal gedragen zoals een goed ambtenaar betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden. Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!». 
+De voorzitters, de plaatsvervangende voorzitters, de leden, de plaatsvervangende leden, de secretarissen en de plaatsvervangende secretarissen van de grondkamers alsmede de griffier en de plaatsvervangende griffiers van de Centrale Grondkamer zullen, elk naar de wijze van zijn godsdienstige gezindheid, alvorens in dienst te treden de eed of belofte afleggen: «Ik zweer/beloof dat ik trouw zal zijn aan de Koning en dat ik de Grondwet en alle overige wetten van ons land zal eerbiedigen; Ik zweer/verklaar dat ik noch direct, noch indirect in welke vorm dan ook valse informatie heb verstrekt in verband met het verkrijgen van mijn aanstelling; Ik zweer/verklaar dat ik tot het verkrijgen van mijn aanstelling aan niemand iets heb geschonken of beloofd en dat ik dit ook niet zal gaan doen; Ik zweer/verklaar dat ik tot het verkrijgen van mijn aanstelling van niemand giften heb aanvaard en aan niemand beloften heb gedaan en dat ik dit ook niet zal gaan doen; Ik zweer/beloof dat ik plichtsgetrouw en nauwgezet de mij opgedragen taken zal vervullen en zaken die mij uit hoofde van mijn functie vertrouwelijk ter kennis komen of waarvan ik het vertrouwelijke karakter moet inzien, geheim zal houden voor anderen dan die personen aan wie ik ambtshalve tot mededeling verplicht ben; Ik zweer/beloof dat ik mij zal gedragen zoals een goed ambtenaar betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden. Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!». 
 
 ### Artikel  23  
 
@@ -193,7 +198,7 @@ De voorzitter en de leden van de grondkamer en hun plaatsvervangers alsmede de l
 ### Artikel  28  
 
 1.  Elke kennisgeving en elke toezending van stukken geschiedt door de secretaris van de grondkamer en door de griffier van de Centrale Grondkamer bij gewone brief.   
-2.  In afwijking van het bepaalde in het eerste lid, geschiedt de verzending van beschikkingen van de grondkamer aan degenen die daarvan op grond van [artikel 36, eerste lid, van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md) beroep kunnen instellen bij aangetekende brief.  
+2.  In afwijking van het bepaalde in het eerste lid, geschiedt de verzending van beschikkingen van de grondkamer aan degenen die daarvan op grond van artikel 36, eerste lid, van de Uitvoeringswet grondkamers beroep kunnen instellen bij aangetekende brief.  
 
 ### Artikel  29  
 
@@ -225,11 +230,11 @@ Ieder lid of plaatsvervangend lid van een grondkamer of van de Centrale Grondkam
 
 ### Artikel  35  
 
-De twee leden, bedoeld in [artikel 8 van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), worden door de voorzitter van de grondkamer aangewezen. 
+De twee leden, bedoeld in artikel 8 van de Uitvoeringswet grondkamers, worden door de voorzitter van de grondkamer aangewezen. 
 
 ### Artikel  36  
 
-1.  Aan de tafel van de grondkamer nemen slechts plaats de voorzitter, de twee leden, bedoeld in [artikel 8 van de Uitvoeringswet grondkamers](../../../../wet/uitvoeringswet/grondkamers/BWBR0021912/README.md), en de secretaris.   
+1.  Aan de tafel van de grondkamer nemen slechts plaats de voorzitter, de twee leden, bedoeld in artikel 8 van de Uitvoeringswet grondkamers, en de secretaris.   
 2.  Aan de tafel van de Centrale Grondkamer nemen slechts plaats de voorzitter, de overige twee tot de rechterlijke macht behorende leden, de twee deskundige leden en de griffier.  
 
 ### Artikel  37  
@@ -295,7 +300,7 @@ Indien geen bezichtiging als bedoeld in artikel 46, eerste en tweede lid, plaats
 
 ### Artikel  48  
 
-De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterlijk ambtenaar een bezoldigd ambt bekleden genieten in verband met de in de vorige artikelen genoemde werkzaamheden een vergoeding voor reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
+De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterlijk ambtenaar een bezoldigd ambt bekleden genieten in verband met de in de vorige artikelen genoemde werkzaamheden een vergoeding voor reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het Reisbesluit binnenland. 
 
 ### Artikel  49  
 
@@ -311,7 +316,7 @@ De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterli
 
 ### Hoofdstuk  3  
 
-####Uitvoering van de [artikelen 48b, tweede en derde lid](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [69a van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md)
+####Uitvoering van de artikelen 48b, tweede en derde lid, en 69a van de Wet op de rechterlijke organisatie
 
 ### Paragraaf  1  
 
@@ -319,9 +324,9 @@ De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterli
 
 ### Artikel  50  
 
-1.  De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers en de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerecht waarbij zij zijn benoemd.   
+1.  De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in artikel 48, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers en de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in artikel 69, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerecht waarbij zij zijn benoemd.   
 2.  De eed of belofte wordt afgenomen op requisitoir van het openbaar ministerie.   
-3.  Het formulier, bedoeld in [artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), wordt ondertekend door degene die de eed of belofte aflegt en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.  
+3.  Het formulier, bedoeld in artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie, wordt ondertekend door degene die de eed of belofte aflegt en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.  
 
 ### Artikel  51  
 
@@ -330,7 +335,7 @@ De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterli
 
 ### Artikel  52  
 
-De installatie van de personen, bedoeld in artikel 50, eerste lid, geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md). 
+De installatie van de personen, bedoeld in artikel 50, eerste lid, geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie. 
 
 ### Paragraaf  2  
 
@@ -338,21 +343,21 @@ De installatie van de personen, bedoeld in artikel 50, eerste lid, geschiedt doo
 
 ### Artikel  53  
 
-Aan de deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers wordt een vergoeding toegekend overeenkomstig de regels die gelden voor de rechters-plaatsvervangers. 
+Aan de deskundige leden van de pachtkamers van de rechtbanken, bedoeld in artikel 48, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers wordt een vergoeding toegekend overeenkomstig de regels die gelden voor de rechters-plaatsvervangers. 
 
 ### Artikel  54  
 
-Aan de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers wordt een vergoeding toegekend overeenkomstig de regels die gelden voor de raadsheren-plaatsvervangers. 
+Aan de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in artikel 69, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers wordt een vergoeding toegekend overeenkomstig de regels die gelden voor de raadsheren-plaatsvervangers. 
 
 ### Artikel  55  
 
-1.  Voor een plaatselijke bezichtiging, waaraan wordt deelgenomen krachtens opdracht van de pachtkamer, wordt aan de deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers, een vergoeding toegekend van € 20,45 per uur en aan de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers een vergoeding van € 22,73 per uur.   
+1.  Voor een plaatselijke bezichtiging, waaraan wordt deelgenomen krachtens opdracht van de pachtkamer, wordt aan de deskundige leden van de pachtkamers van de rechtbanken, bedoeld in artikel 48, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers, een vergoeding toegekend van € 20,45 per uur en aan de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in artikel 69, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers een vergoeding van € 22,73 per uur.   
 2.  Bij de berekening van deze vergoeding wordt de tijdsduur van de reis mede in aanmerking genomen.   
 3.  Bij de berekening van het totale aantal uren waarover een vergoeding volgens de voorgaande leden wordt toegekend, vindt afronding naar boven plaats tot een half uur.  
 
 ### Artikel  56  
 
-1.  De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers en de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en hun plaatsvervangers genieten, zowel voor het bijwonen van de bijeenkomsten van de pachtkamer, als voor het volbrengen van verrichtingen, welke hen, ook buiten eigenlijk rechtsgeding door de pachtkamer worden opgedragen, reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).   
+1.  De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in artikel 48, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers en de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in artikel 69, tweede lid, van de Wet op de rechterlijke organisatie, en hun plaatsvervangers genieten, zowel voor het bijwonen van de bijeenkomsten van de pachtkamer, als voor het volbrengen van verrichtingen, welke hen, ook buiten eigenlijk rechtsgeding door de pachtkamer worden opgedragen, reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het Reisbesluit binnenland.   
 2.  Reis- en verblijfkosten als bedoeld in het vorige lid worden ook genoten in de gevallen, dat een titularis wordt beëdigd of geïnstalleerd.  
 
 ### Hoofdstuk  4  
@@ -387,21 +392,21 @@ Wijzigt het Pachtprijzenbesluit 2007.
 
 Ingetrokken worden: 
 
-a. het [Besluit aanwijzing rechtsgebied grondkamers](../../../../AMvB/besluit/aanwijzing/rechtsgebied/grondkamers/BWBR0008908/README.md);  
+a. het Besluit aanwijzing rechtsgebied grondkamers;  
 
-b. het [Besluit van 19 mei 1962, houdende vaststelling van de vergoedingen voor de leden enz. van de Grondkamers en de Centrale Grondkamer](../../../../AMvB/vergoedingen/voor/de/leden/enz./van/de/grondkamers/en/de/centrale/etc/BWBR0002369/README.md);  
+b. het Besluit van 19 mei 1962, houdende vaststelling van de vergoedingen voor de leden enz. van de Grondkamers en de Centrale Grondkamer;  
 
-c. het [Besluit van 14 februari 1963, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 124 en 125, vijfde lid, van de Pachtwet](../../../../AMvB/besluit/ex/artikelen/124/en/125/pachtwet/BWBR0002400/README.md);  
+c. het Besluit van 14 februari 1963, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 124 en 125, vijfde lid, van de Pachtwet;  
 
-d. het [Besluit van 21 oktober 1985, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van artikel 112 van de Pachtwet](../../../../AMvB/uitvoeringsbesluit/ex/artikel/112/pachtwet/BWBR0003863/README.md);  
+d. het Besluit van 21 oktober 1985, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van artikel 112 van de Pachtwet;  
 
-e. het [Besluit van 16 december 1992, houdende nadere regelen ten aanzien van de hoogst toelaatbare vergoeding als bedoeld in artikel 4a, derde lid, en de aanwijzing van een instantie als bedoeld in artikel 5, tiende lid, van de Pachtwet](../../../../AMvB/besluit/nadere/regelen/ten/aanzien/van/de/hoogst/toelaatbare/vergoeding/ex/etc/BWBR0005770/README.md);  
+e. het Besluit van 16 december 1992, houdende nadere regelen ten aanzien van de hoogst toelaatbare vergoeding als bedoeld in artikel 4a, derde lid, en de aanwijzing van een instantie als bedoeld in artikel 5, tiende lid, van de Pachtwet;  
 
-f. het [Reglement voor de grondkamers en de Centrale Grondkamer](../../../../AMvB/reglement/voor/de/grondkamers/en/de/centrale/grondkamer/BWBR0002280/README.md);  
+f. het Reglement voor de grondkamers en de Centrale Grondkamer;  
 
-g. het [Reglement voor de pachtkamers](../../../../AMvB/reglement/voor/de/pachtkamers/BWBR0002281/README.md);  
+g. het Reglement voor de pachtkamers;  
 
-h. het [Tariefbesluit Pachtwet 1995](../../../../AMvB/tariefbesluit/pachtwet/1995/BWBR0007560/README.md).   
+h. het Tariefbesluit Pachtwet 1995.   
 
 ### Artikel  63  
 

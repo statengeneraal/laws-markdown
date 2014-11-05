@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 16 november 1993, Stafafdeling Wetgeving Publiekrecht, nr. 407324/93/6, gedaan mede namens Onze Minister van Binnenlandse Zaken;
 
-Gelet op [artikel 8:75 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 8:75 van de Algemene wet bestuursrecht;
 
 De Raad van State gehoord (advies van 15 december 1993, nr. W03.93.0753);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Een veroordeling in de kosten als bedoeld in [artikel 8:75](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk een vergoeding van de kosten als bedoeld in [artikel 7:15, tweede lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of [7:28, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan uitsluitend betrekking hebben op:  
+Een veroordeling in de kosten als bedoeld in artikel 8:75 onderscheidenlijk een vergoeding van de kosten als bedoeld in artikel 7:15, tweede lid, of 7:28, tweede lid, van de Algemene wet bestuursrecht kan uitsluitend betrekking hebben op:  
 
 a. kosten van door een derde beroepsmatig verleende rechtsbijstand,  
 
@@ -35,9 +35,9 @@ f. kosten van het als gemachtigde optreden van een arts in zaken waarin enig wet
 
 a. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel a: overeenkomstig het in de bijlage opgenomen tarief;  
 
-b. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel b: op de vergoeding die ingevolge [artikel 8:36, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is verschuldigd indien de kosten zijn gemaakt in bezwaar of administratief beroep wordt deze vergoeding vastgesteld met overeenkomstige toepassing van het bepaalde bij en krachtens de [Wet tarieven in strafzaken](../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md);  
+b. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel b: op de vergoeding die ingevolge artikel 8:36, tweede lid, van de Algemene wet bestuursrecht is verschuldigd indien de kosten zijn gemaakt in bezwaar of administratief beroep wordt deze vergoeding vastgesteld met overeenkomstige toepassing van het bepaalde bij en krachtens de Wet tarieven in strafzaken;  
 
-c. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel c: overeenkomstig [artikel 11, eerste lid, onderdeel c, van het Besluit tarieven in strafzaken 2003](../../../../../AMvB/besluit/tarieven/in/strafzaken/2003/BWBR0015481/README.md);  
+c. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel c: overeenkomstig artikel 11, eerste lid, onderdeel c, van het Besluit tarieven in strafzaken 2003;  
 
 d. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel d: overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen € 7 en € 78 per 1 januari 2014: € 80 per uur bedraagt;  
 
@@ -91,7 +91,7 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 
 ### A1  
 
-####procedures waarop [hoofdstuk 8 Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing of van overeenkomstige toepassing is
+####procedures waarop hoofdstuk 8 Algemene wet bestuursrecht van toepassing of van overeenkomstige toepassing is
 
 |--- |--- |  *punten*   |
 |:---|:---|:---|
@@ -166,7 +166,7 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 
 ####Waarde per punt
 
-*B1. Beroep en hoger beroep*  1 punt = € 472 Per 1 januari 2014: € 487.  *B2. Bezwaar en administratief beroep*  1. 1 punt = € 235 Per 1 januari 2014: € 243 voor besluiten genomen op grond van een wettelijk voorschrift inzake belastingen of de heffing van premies, dan wel premievervangende belasting voor de sociale verzekeringen, bedoeld in [artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). Dit geldt tevens voor besluiten genomen op grond van een wettelijk voorschrift inzake de heffing van de inkomensafhankelijke bijdragen, dan wel een bijdragevervangende belasting, ingevolge de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 2. 1 punt = € 472 Per 1 januari 2014: € 487 in de overige gevallen. 
+*B1. Beroep en hoger beroep*  1 punt = € 472 Per 1 januari 2014: € 487.  *B2. Bezwaar en administratief beroep*  1. 1 punt = € 235 Per 1 januari 2014: € 243 voor besluiten genomen op grond van een wettelijk voorschrift inzake belastingen of de heffing van premies, dan wel premievervangende belasting voor de sociale verzekeringen, bedoeld in artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen. Dit geldt tevens voor besluiten genomen op grond van een wettelijk voorschrift inzake de heffing van de inkomensafhankelijke bijdragen, dan wel een bijdragevervangende belasting, ingevolge de Zorgverzekeringswet. 2. 1 punt = € 472 Per 1 januari 2014: € 487 in de overige gevallen. 
 
 ### C  
 

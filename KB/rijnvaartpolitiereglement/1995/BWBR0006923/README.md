@@ -88,9 +88,9 @@ ab.*snel schip:* een motorschip, met uitzondering van een klein schip, dat met e
 
 a. een Rijnpatent voor het riviergedeelte waarop hij vaart en voor het soort schip dat hij voert,  
 
-b. een ander bewijs van vaarbekwaamheid, erkend volgens het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of  
+b. een ander bewijs van vaarbekwaamheid, erkend volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn of  
 
-c. een als gelijkwaardig erkend bewijs volgens het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md),   voor het soort schip dat hij voert. Bij als gelijkwaardig erkende bevoegdheidsbewijzen moet hij bovendien het volgens het [Patentreglement Rijn](../../../../KB/patentreglement/rijn/BWBR0023698/README.md) vereiste bewijs voor riviergedeelten bezitten.   
+c. een als gelijkwaardig erkend bewijs volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn,   voor het soort schip dat hij voert. Bij als gelijkwaardig erkende bevoegdheidsbewijzen moet hij bovendien het volgens het Patentreglement Rijn vereiste bewijs voor riviergedeelten bezitten.   
 2.  Een samenstel moet eveneens onder het gezag van een schipper zijn gesteld, die de daartoe vereiste bekwaamheid bezit.  De schipper van het motorschip dat hoofdzakelijk voor het voortbewegen zorgt is de schipper van het samenstel.  Wanneer meer dan één schip hoofdzakelijk voor het voortbewegen dient, moet de schipper van het samenstel tijdig worden aangewezen.  Indien een duwstel door twee duwboten naast elkaar wordt voortbewogen, is de schipper van de duwboot aan stuurboord de schipper van het samenstel.    
 3.  Schepen van een duwstel, met uitzondering van de duwboot, behoeven geen schipper te hebben, maar zij zijn gesteld onder het gezag van de schipper van de duwboot. Wanneer zich in een gekoppeld samenstel een duwbak bevindt, kan de schipper van dit samenstel tegelijkertijd de functie van schipper van de duwbak vervullen.    
 4.  Tijdens de vaart moet de schipper aan boord zijn; de schipper van een drijvend werktuig moet tevens aan boord zijn wanneer het werktuig in bedrijf is.    
@@ -160,7 +160,7 @@ c.schepen met een breedte van 11 m of meer,
 1.  Een schip moet zodanig zijn gebouwd en uitgerust, dat de veiligheid van de opvarenden en die van de scheepvaart zijn verzekerd en dat aan dit reglement kan worden voldaan.    
 2.  Ieder schip moet een bemanning hebben, voldoende in aantal en geschiktheid om de veiligheid van de opvarenden en die van de scheepvaart te verzekeren.    
 3.  Aan deze voorwaarden wordt geacht te zijn voldaan wanneer het schip krachtens het Reglement Onderzoek Schepen op de Rijn van een certificaat of van een volgens dit reglement als gelijkwaardig erkend certificaat is voorzien, en de bouw en de uitrusting overeenstemmen met de in dat certificaat vermelde gegevens en wanneer de bemanning en de bedrijfsuitoefening in overeenstemming zijn met de voorschriften van het Reglement betreffende het Scheepvaartpersoneel op de Rijn.   
-4.  Onverminderd het derde lid, moeten de in onderdeel 44 van het certificaat van onderzoek vermelde individuele reddingsmiddelen voor passagiers geschikt zijn, qua aantal en verdeling per type overeenkomen met het aantal aan boord zijnde volwassenen en kinderen en aan boord beschikbaar zijn, waarbij voor kinderen met een lichaamsgewicht tot en met 30 kg of maximaal 6 jaar oud uitsluitend harde zwemvesten als bedoeld in [artikel 10.05, tweede lid, van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) zijn toegestaan. 
+4.  Onverminderd het derde lid, moeten de in onderdeel 44 van het certificaat van onderzoek vermelde individuele reddingsmiddelen voor passagiers geschikt zijn, qua aantal en verdeling per type overeenkomen met het aantal aan boord zijnde volwassenen en kinderen en aan boord beschikbaar zijn, waarbij voor kinderen met een lichaamsgewicht tot en met 30 kg of maximaal 6 jaar oud uitsluitend harde zwemvesten als bedoeld in artikel 10.05, tweede lid, van het Reglement onderzoek schepen op de Rijn zijn toegestaan. 
 
 ### Artikel  1.09  
 
@@ -178,11 +178,11 @@ c.schepen met een breedte van 11 m of meer,
 
 1.  Aan boord van een schip moeten de volgende bescheiden en andere documenten, voor zover deze door de daartoe gestelde bijzondere bepalingen voorgeschreven worden, aanwezig zijn:  
 
-a. het certificaat van onderzoek voor het schip of het document dat hiervoor in de plaats treedt, of een krachtens het [Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) als gelijkwaardig erkend certificaat;  
+a. het certificaat van onderzoek voor het schip of het document dat hiervoor in de plaats treedt, of een krachtens het Reglement onderzoek schepen op de Rijn als gelijkwaardig erkend certificaat;  
 
-b. een Rijnpatent of een volgens het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) als gelijkwaardig erkend of toegelaten vaarbevoegdheidsbewijs voor het te bevaren riviergedeelte, en voor de overige leden van de bemanning het naar behoren bijgehouden dienstboekje of een volgens dit reglement afgegeven groot patent of als gelijkwaardig erkend vaarbevoegdheidsbewijs; bij de als gelijkwaardig erkende vaarbevoegdheidsbewijzen moet de schipper bovendien voor bepaalde riviergedeelten het volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn vereiste bewijs voor riviergedeelten bezitten;  
+b. een Rijnpatent of een volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn als gelijkwaardig erkend of toegelaten vaarbevoegdheidsbewijs voor het te bevaren riviergedeelte, en voor de overige leden van de bemanning het naar behoren bijgehouden dienstboekje of een volgens dit reglement afgegeven groot patent of als gelijkwaardig erkend vaarbevoegdheidsbewijs; bij de als gelijkwaardig erkende vaarbevoegdheidsbewijzen moet de schipper bovendien voor bepaalde riviergedeelten het volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn vereiste bewijs voor riviergedeelten bezitten;  
 
-c. het naar behoren bijgehouden vaartijdenboek met inbegrip van de verklaring overeenkomstig [bijlage A4 van het Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of een kopie van de bladzijde met de aantekeningen van de vaar- en rusttijden uit het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden;  
+c. het naar behoren bijgehouden vaartijdenboek met inbegrip van de verklaring overeenkomstig bijlage A4 van het Reglement betreffende het scheepvaartpersoneel op de Rijn of een kopie van de bladzijde met de aantekeningen van de vaar- en rusttijden uit het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden;  
 
 d. de verklaring inzake de afgifte van het vaartijdenboek;   
 
@@ -192,9 +192,9 @@ f. de meetbrief van het schip;
 
 g. de verklaring betreffende de inbouw en het functioneren van de tachograaf, alsmede de voorgeschreven registratiebladen van de tachograaf;   
 
-h. een radargetuigschrift dat is afgegeven of als gelijkwaardig erkend volgens het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md); dit document hoeft niet aan boord te zijn, indien de patentkaart de vermelding «radar» bevat of een ander volgens dit reglement toegelaten vaarbevoegdheidsbewijs de overeenkomstige vermelding bevat. Indien de Centrale Commissie voor de Rijnvaart het vaarbevoegdheidsbewijs en het radargetuigschrift van een staat als gelijkwaardig heeft erkend, is het radargetuigschrift niet vereist, wanneer het vaarbevoegdheidsbewijs een overeenkomstige vermelding bevat;  
+h. een radargetuigschrift dat is afgegeven of als gelijkwaardig erkend volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn; dit document hoeft niet aan boord te zijn, indien de patentkaart de vermelding «radar» bevat of een ander volgens dit reglement toegelaten vaarbevoegdheidsbewijs de overeenkomstige vermelding bevat. Indien de Centrale Commissie voor de Rijnvaart het vaarbevoegdheidsbewijs en het radargetuigschrift van een staat als gelijkwaardig heeft erkend, is het radargetuigschrift niet vereist, wanneer het vaarbevoegdheidsbewijs een overeenkomstige vermelding bevat;  
 
-i. de volgens [artikel 7.06, eerste lid, van het Reglement onderzoek schepen op de Rijn](../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) vereiste verklaring betreffende de inbouw en het functioneren van de radarinstallatie en de bochtaanwijzer;   
+i. de volgens artikel 7.06, eerste lid, van het Reglement onderzoek schepen op de Rijn vereiste verklaring betreffende de inbouw en het functioneren van de radarinstallatie en de bochtaanwijzer;   
 
 k.het marifoon bedieningscertificaat, bedoeld in de bijlage 5 van de Regionale regeling betreffende de marifoondienst in de binnenvaart;
 
@@ -222,9 +222,9 @@ v. de verklaring betreffende de duur en de geografische begrenzing van de bouwwe
 
 w.op het riviergedeelte tussen Basel en Mannheim voor schepen met een lengte van meer dan 110 m het bewijs bedoeld in artikel 22a.05, tweede lid, onderdeel b, van het Reglement onderzoek schepen op de Rijn;
 
-x. de overeenkomstig [artikel 8a.02, derde lid, van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) vereiste kopieën van het certificaat van typegoedkeuring en van het proces-verbaal van de motorkenmerken van iedere motor;  
+x. de overeenkomstig artikel 8a.02, derde lid, van het Reglement onderzoek schepen op de Rijn vereiste kopieën van het certificaat van typegoedkeuring en van het proces-verbaal van de motorkenmerken van iedere motor;  
 
-y. de verklaring voor de volgens [artikel 10.02, tweede lid, onderdeel a, van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) voorgeschreven stalen trossen; 
+y. de verklaring voor de volgens artikel 10.02, tweede lid, onderdeel a, van het Reglement onderzoek schepen op de Rijn voorgeschreven stalen trossen; 
 
 z. de verklaring betreffende de inbouw en het functioneren van het Inland AIS-apparaat;  
 
@@ -239,8 +239,8 @@ ac.de bij artikel 15.07, tweede lid, voorgeschreven losverklaring.
 
 – COMMISSIE VAN DESKUNDIGEN:.....................  
 
-– GELDIG TOT:........................   waarbij uit een hoofdletter R, aangebracht achter het uniek Europees scheepsidentificatienummer, blijkt dat er een verklaring inzake het behoren tot de Rijnvaart is afgegeven. Indien de duwbak over een officieel scheepsnummer beschikt, moet dat begrip en het officiële scheepsnummer op de metalen plaat worden aangebracht. De gevraagde gegevens moeten, in goed leesbare letters met een hoogte van ten minste 6 mm, ingehakt of ingeslagen zijn. De metalen plaat moet een hoogte van ten minste 60 mm en een lengte van ten minste 120 mm hebben. Zij moet op het achterschip aan stuurboordzijde op een goed zichtbare plaats zijn bevestigd. De overeenstemming tussen de gegevens op de plaat, met uitzondering van de letter R, met die in het certificaat van onderzoek van de duwbak moet worden bevestigd door een Commissie van Deskundigen door middel van het aanbrengen op de plaat van een stempel. De in het eerste lid, onderdelen a, e en f, genoemde bescheiden moeten worden bewaard door de eigenaar van de duwbak. De aanwezigheid van de in het eerste lid, onderdeel x, bedoelde bescheiden is evenwel niet vereist, wanneer op de metalen plaat tevens het nummer van de typegoedkeuring, bedoeld in [Bijlage J, deel I, onderdeel 1.1.3, van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) wordt vermeld.   
-3.  Op schepen bestemd voor bouwwerkzaamheden, bedoeld in het [Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md), waar een stuurhut of een woning ontbreekt, is de aanwezigheid van de in het eerste lid, onder *a*, *e* en *f*, bedoelde bescheiden niet vereist. Deze bescheiden moeten echter in ieder geval steeds in de nabijheid van de bouwwerkzaamheden voor handen zijn. Op schepen bestemd voor bouwwerkzaamheden moet een door de bevoegde autoriteit afgegeven verklaring betreffende de duur en de geografische begrenzing van de bouwwerkzaamheden, waar het schip mag worden gebruikt, aanwezig zijn.    
+– GELDIG TOT:........................   waarbij uit een hoofdletter R, aangebracht achter het uniek Europees scheepsidentificatienummer, blijkt dat er een verklaring inzake het behoren tot de Rijnvaart is afgegeven. Indien de duwbak over een officieel scheepsnummer beschikt, moet dat begrip en het officiële scheepsnummer op de metalen plaat worden aangebracht. De gevraagde gegevens moeten, in goed leesbare letters met een hoogte van ten minste 6 mm, ingehakt of ingeslagen zijn. De metalen plaat moet een hoogte van ten minste 60 mm en een lengte van ten minste 120 mm hebben. Zij moet op het achterschip aan stuurboordzijde op een goed zichtbare plaats zijn bevestigd. De overeenstemming tussen de gegevens op de plaat, met uitzondering van de letter R, met die in het certificaat van onderzoek van de duwbak moet worden bevestigd door een Commissie van Deskundigen door middel van het aanbrengen op de plaat van een stempel. De in het eerste lid, onderdelen a, e en f, genoemde bescheiden moeten worden bewaard door de eigenaar van de duwbak. De aanwezigheid van de in het eerste lid, onderdeel x, bedoelde bescheiden is evenwel niet vereist, wanneer op de metalen plaat tevens het nummer van de typegoedkeuring, bedoeld in Bijlage J, deel I, onderdeel 1.1.3, van het Reglement onderzoek schepen op de Rijn wordt vermeld.   
+3.  Op schepen bestemd voor bouwwerkzaamheden, bedoeld in het Reglement onderzoek schepen op de Rijn, waar een stuurhut of een woning ontbreekt, is de aanwezigheid van de in het eerste lid, onder *a*, *e* en *f*, bedoelde bescheiden niet vereist. Deze bescheiden moeten echter in ieder geval steeds in de nabijheid van de bouwwerkzaamheden voor handen zijn. Op schepen bestemd voor bouwwerkzaamheden moet een door de bevoegde autoriteit afgegeven verklaring betreffende de duur en de geografische begrenzing van de bouwwerkzaamheden, waar het schip mag worden gebruikt, aanwezig zijn.    
 4.  De bescheiden en andere documenten als bedoeld in het eerste lid moeten op verzoek van de ambtenaren van de bevoegde autoriteit worden overhandigd.   
 
 ### Artikel  1.11  
@@ -931,11 +931,78 @@ b. aan boord van een schip, niet zijnde een motorschip, en een klein schip, door
 
 1.   Een schip mag slechts gebruik maken van radar indien:  
 
-a. het is uitgerust met een radarinstallatie en een aanwijzer van de snelheid van de draaiing van het schip overeenkomstig [artikel 7.06, eerste lid, van het Reglement onderzoek schepen op de Rijn](../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md). 
+a. het is uitgerust met een radarinstallatie en een aanwijzer van de snelheid van de draaiing van het schip overeenkomstig artikel 7.06, eerste lid, van het Reglement onderzoek schepen op de Rijn. 
 
-b.zich aan boord een persoon bevindt die houder is van een radargetuigschrift, dan wel van een ander volgens het [Reglement betreffende het scheepvaartpersoneel op de Rijn ](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md)afgegeven of als gelijkwaardig erkend diploma. Bij goed zicht mag echter van radar gebruik worden gemaakt teneinde hiermede te oefenen, ook zonder dat zich een zodanig persoon aan boord bevindt.  Een klein schip moet bovendien zijn uitgerust met een marifooninstallatie voor het schip--schip verkeer, die goed functioneert.  
+b.zich aan boord een persoon bevindt die houder is van een radargetuigschrift, dan wel van een ander volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn afgegeven of als gelijkwaardig erkend diploma. Bij goed zicht mag echter van radar gebruik worden gemaakt teneinde hiermede te oefenen, ook zonder dat zich een zodanig persoon aan boord bevindt.  Een klein schip moet bovendien zijn uitgerust met een marifooninstallatie voor het schip--schip verkeer, die goed functioneert.  
 2.  Voor een duwstel en voor een gekoppeld samenstel is het eerste lid slechts van toepassing op het schip aan boord waarvan zich de schipper van het duwstel of van het gekoppeld samenstel bevindt.    
 3. Een varend snel schip moet gebruik maken van radar.
+
+### Artikel  4.07  
+
+####Inland AIS en Inland ECDIS
+
+Treedt in werking per 01-12-2014 
+
+1.  Een schip moet zijn uitgerust met een Inland AIS-apparaat als bedoeld in artikel 7.06, derde lid, van het Reglement onderzoek schepen op de Rijn. Het Inland AIS-apparaat moet goed functioneren. De eerste volzin geldt niet voor de volgende schepen: 
+
+a. schepen van duwstellen en gekoppelde samenstellen, met uitzondering van het schip dat hoofdzakelijk voor het voortbewegen zorgt;  
+
+b. kleine schepen, met uitzondering van: 
+
+1°. schepen van de politie die met een radarapparaat zijn uitgerust; en  
+
+2°. schepen, die van een certificaat overeenkomstig het Reglement Onderzoek schepen op de Rijn of een krachtens dit reglement als gelijkwaardig erkend certificaat zijn voorzien;    
+
+c. duwbakken zonder eigen mechanische middelen tot voortbeweging;  
+
+d. drijvende werktuigen zonder eigen mechanische middelen tot voortbeweging.     
+2.  Het Inland AIS-apparaat moet permanent ingeschakeld zijn en de ingevoerde gegevens moeten op ieder moment met de werkelijke gegevens van het schip of samenstel overeenkomen. De eerste volzin geldt niet: 
+
+a. indien de schepen zich in een overnachtingshaven als bedoeld in artikel 14.11, eerste lid, bevinden;  
+
+b. indien de bevoegde autoriteit een uitzondering voor vaarwateren die bouwkundig van de vaargeul zijn gescheiden, heeft toegestaan;  
+
+c. voor schepen van de politie, ingeval het verzenden van AIS-gegevens het uitvoeren van politieopdrachten in gevaar kan brengen.   Schepen als bedoeld in het eerste lid, derde volzin, onderdeel a, moeten aan boord aanwezige Inland AIS-apparatuur uitschakelen, zolang deze schepen deel van het samenstel zijn.   
+3.  Schepen, die met een Inland AIS-apparaat moeten zijn uitgerust, uitgezonderd veerponten, dienen aanvullend te zijn uitgerust met een Inland ECDIS-apparaat in de informatiemodus of een daarmee vergelijkbaar visualiseringssysteem dat met het Inland AIS-apparaat moet zijn verbonden en dienen dit samen met een actuele elektronische binnenvaartkaart te gebruiken.   
+4.  Er moeten minstens de volgende gegevens overeenkomstig hoofdstuk 2 van de Standaard Tracking & Tracing van schepen in de binnenvaart worden gezonden: 
+
+a. User Identifier (Maritime Mobile Service Identity, MMSI);  
+
+b. naam van het schip;  
+
+c. scheeps- of samensteltype;  
+
+d. Uniek Europees scheepsidentificatienummer (ENI) of, voor zeeschepen voor zover geen ENI werd toegekend, het IMO-nummer;  
+
+e. lengte over alles van het schip of het samenstel met een nauwkeurigheid van 0,1 m;  
+
+f. breedte over alles van het schip of het samenstel met de nauwkeurigheid van 0,1 m;  
+
+g. positie (WGS 84);  
+
+h. snelheid over de grond;  
+
+i. koers over de grond;  
+
+j. tijd van de elektronische positiebepaling;  
+
+k. vaarstatus overeenkomstig bijlage 11;  
+
+l. referentiepunt voor de positie-informatie op het schip met de nauwkeurigheid van 1 m overeenkomstig bijlage 11.    
+5.  De schipper moet de volgende gegevens bij wijzigingen onmiddellijk actualiseren: 
+
+a. lengte over alles met de nauwkeurigheid van 0,1 m overeenkomstig bijlage 11;  
+
+b. breedte over alles met de nauwkeurigheid van 0,1 m overeenkomstig bijlage 11;  
+
+c. samensteltype;  
+
+d. vaarstatus overeenkomstig bijlage 11;  
+
+e. referentiepunt voor de positie-informatie op het schip met de nauwkeurigheid van 1 m overeenkomstig bijlage 11.     
+6.  Een klein schip dat AIS gebruikt, mag uitsluitend een Inland AIS-apparaat als bedoeld in artikel 7.06, derde lid, van het Reglement onderzoek schepen op de Rijn, een krachtens de IMO-voorschriften typegoedgekeurd AIS-apparaat van klasse A of een AIS-apparaat van klasse B gebruiken. AIS-apparatuur van klasse B moet aan de dienovereenkomstige eisen van Aanbeveling ITU-R.M 1371, aan Richtlijn 1999/5/EG (R&TTE-richtlijn) en aan de internationale norm IEC 62287-1 of 2 (inclusief DSC kanaalmanagement) voldoen. Het AIS-apparaat moet goed functioneren en de in het AIS-apparaat ingevoerde gegevens moeten op ieder moment met de werkelijke gegevens van het schip of samenstel overeenkomen.   
+7.  Een klein schip waaraan geen uniek Europees scheepsidentificatienummer (ENI) is toegekend, hoeft de gegevens, bedoeld in het vierde lid, onderdeel d, niet over te dragen.   
+8.  Een klein schip dat AIS gebruikt, moet bovendien zijn uitgerust met een marifooninstallatie voor het schip-schip verkeer, die goed functioneert en voor ontvangst is ingeschakeld.  
 
 ### Hoofdstuk  5  
 
@@ -1398,7 +1465,7 @@ b.schepen waaraan de bevoegde autoriteit dat recht uitdrukkelijk heeft verleend.
 
 ####Op radar varende schepen
 
-1. Een schip mag slechts op radar varen indien een persoon die houder is van een Rijnpatent of een vaarbevoegdheidsbewijs dat volgens het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) is afgegeven, toegelaten of als gelijkwaardig erkend en dit geldt voor het te bevaren riviergedeelte, alsmede van een radargetuigschrift dat is afgegeven of als gelijkwaardig erkend volgens dit reglement, en een tweede persoon die met deze wijze van varen voldoende op de hoogte is, zich voortdurend in de stuurhut bevinden. Indien in het certificaat van onderzoek is aangetekend dat het schip is uitgerust met een éénmansstuurstelling voor het varen op radar, behoeft de tweede persoon zich niet voortdurend in de stuurhut te bevinden. 
+1. Een schip mag slechts op radar varen indien een persoon die houder is van een Rijnpatent of een vaarbevoegdheidsbewijs dat volgens het Reglement betreffende het scheepvaartpersoneel op de Rijn is afgegeven, toegelaten of als gelijkwaardig erkend en dit geldt voor het te bevaren riviergedeelte, alsmede van een radargetuigschrift dat is afgegeven of als gelijkwaardig erkend volgens dit reglement, en een tweede persoon die met deze wijze van varen voldoende op de hoogte is, zich voortdurend in de stuurhut bevinden. Indien in het certificaat van onderzoek is aangetekend dat het schip is uitgerust met een éénmansstuurstelling voor het varen op radar, behoeft de tweede persoon zich niet voortdurend in de stuurhut te bevinden. 
 2. Bij het ontmoeten en het voorbijvaren moeten de volgende bepalingen in acht worden genomen:
 
 a.een in opvaart op radar varend schip moet, zodra het op het scherm tegemoet komende schepen bemerkt dan wel het een vak van de vaarweg nadert waar zich schepen zouden kunnen bevinden die nog niet op het scherm te zien zijn, per marifoon aan die schepen zijn categorie, zijn naam, zijn vaarrichting en zijn positie opgeven en met hen het voorbijvaren afspreken;
@@ -2480,10 +2547,10 @@ b.ingeval van afzonderlijk vullen van de tanks de afsluiters in de verbindingsle
 
 c.het bunkeren onder toezicht geschiedt; en,
 
-d.een inrichting overeenkomstig [artikel 8.05, tiende lid, van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) wordt gebruikt.
+d.een inrichting overeenkomstig artikel 8.05, tiende lid, van het Reglement onderzoek schepen op de Rijn wordt gebruikt.
 2. De schipper moet er voorts voor zorgen, dat de personen van het bunkerstation en van het schip die voor het bunkeren verantwoordelijk zijn, voordat zij met het bunkeren beginnen, de volgende punten zijn overeengekomen:
 
-a. het verzekerd zijn van het goede functioneren van het systeem, bedoeld in [artikel 8.05, elfde lid van het Reglement onderzoek schepen op de Rijn](../../../../KB/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0007858/README.md) alsmede het aanwezig zijn van een spreekverbinding tussen het schip en het bunkerstation;
+a. het verzekerd zijn van het goede functioneren van het systeem, bedoeld in artikel 8.05, elfde lid van het Reglement onderzoek schepen op de Rijn alsmede het aanwezig zijn van een spreekverbinding tussen het schip en het bunkerstation;
 
 b.de te bunkeren hoeveelheid per tank en de vulsnelheid, vooral met het oog op mogelijke problemen met het ontluchten van de tank;
 

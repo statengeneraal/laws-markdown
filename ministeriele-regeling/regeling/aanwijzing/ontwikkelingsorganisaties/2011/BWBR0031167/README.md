@@ -5,7 +5,7 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Staatssecretaris van Buitenlandse Zaken;
 
-Gelet op de [artikelen 35, derde lid, onderdeel b, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), [63a, derde lid, onderdeel b, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en [1, onderdeel b, van het Besluit afwijkende regels beperking export uitkeringen](../../../../../../AMvB/besluit/regels/export/uitkeringen/BWBR0011049/README.md);
+Gelet op de artikelen 35, derde lid, onderdeel b, van de Algemene Ouderdomswet, 63a, derde lid, onderdeel b, van de Algemene nabestaandenwet en 1, onderdeel b, van het Besluit afwijkende regels beperking export uitkeringen;
 Besluit:    
 
 ### Artikel  1  
@@ -172,7 +172,7 @@ b. overige uitzendende organisaties:
 
 ####Intrekking
 
-De [Regeling aanwijzing ontwikkelingsorganisaties 2005](../../../../../../ministeriele-regeling/regeling/aanwijzing/ontwikkelingsorganisaties/2005/BWBR0019191/README.md) wordt ingetrokken. 
+De Regeling aanwijzing ontwikkelingsorganisaties 2005 wordt ingetrokken. 
 
 ### Artikel  3  
 

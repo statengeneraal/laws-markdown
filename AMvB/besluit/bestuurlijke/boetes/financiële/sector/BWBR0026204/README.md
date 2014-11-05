@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid, van 19 mei 2009, nr. FM/2009/1037 M, Generale Thesaurie, Directie Financiële Markten;
 
-Gelet op de [artikelen 176, tweede lid](../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [179, eerste lid, van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [artikelen 10d, vijfde lid](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) en [10e van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), [artikelen 9b, tweede lid](../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md) en [9c, eerste lid, van de Wet financiële betrekkingen buitenland 1994](../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md), [artikelen 21, tweede lid](../../../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md) en [22, eerste lid, van de Wet inzake de geldtransactiekantoren](../../../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md), [artikelen 1:80, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:81, eerste lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 28, eerste en tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [artikelen 54, tweede lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [55, eerste lid, van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [artikelen 21, tweede lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) en [22, eerste lid, van de Wet toezicht trustkantoren](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), [artikelen 171, tweede lid](../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [174, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [artikelen 19, tweede lid](../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) en [20, eerste lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);
+Gelet op de artikelen 176, tweede lid en 179, eerste lid, van de Pensioenwet, artikelen 10d, vijfde lid en 10e van de Sanctiewet 1977, artikelen 9b, tweede lid en 9c, eerste lid, van de Wet financiële betrekkingen buitenland 1994, artikelen 21, tweede lid en 22, eerste lid, van de Wet inzake de geldtransactiekantoren, artikelen 1:80, tweede lid en 1:81, eerste lid, van de Wet op het financieel toezicht, artikel 28, eerste en tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme, artikelen 54, tweede lid en 55, eerste lid, van de Wet toezicht accountantsorganisaties, artikelen 21, tweede lid en 22, eerste lid, van de Wet toezicht trustkantoren, artikelen 171, tweede lid en 174, eerste lid, van de Wet verplichte beroepspensioenregeling en artikelen 19, tweede lid en 20, eerste lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000;
 
 De Raad van State gehoord (advies van 2 april 2009, nr. W06.09.0076/III);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [artikel 10e, tweede lid, van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), [artikel 9c, tweede lid, van de Wet financiële betrekkingen buitenland 1994](../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md), [artikel 22, tweede lid, van de Wet inzake de geldtransactiekantoren](../../../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md), [artikel 1:81, tweede lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 28, tweede lid van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [artikel 55, tweede lid, van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [artikel 22, tweede lid, van de Wet toezicht trustkantoren](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md). 
+In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in artikel 10e, tweede lid, van de Sanctiewet 1977, artikel 9c, tweede lid, van de Wet financiële betrekkingen buitenland 1994, artikel 22, tweede lid, van de Wet inzake de geldtransactiekantoren, artikel 1:81, tweede lid, van de Wet op het financieel toezicht, artikel 28, tweede lid van de Wet ter voorkoming van witwassen en financieren van terrorisme, artikel 55, tweede lid, van de Wet toezicht accountantsorganisaties, artikel 22, tweede lid, van de Wet toezicht trustkantoren. 
 
 ### Artikel  2  
 
@@ -35,39 +35,43 @@ De door de toezichthouder met toepassing van artikel 2 vast te stellen bestuurli
 1.  De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.   
 2.  De toezichthouder kan op basis van het eerste lid de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.  
 
+### Artikel  4a  
+
+Onverminderd de artikelen 2, 3 en 4 houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten. 
+
 ### §  2  
 
 ####Indeling van overtredingen in categorieën
 
 ### Artikel  5  
 
-Overtreding van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is beboetbaar volgens de tweede categorie. 
+Overtreding van artikel 5:20 van de Algemene wet bestuursrecht is beboetbaar volgens de tweede categorie. 
 
 ### Artikel  6  
 
-Overtreding van [artikel 10b van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) is beboetbaar volgens de eerste categorie. 
+Overtreding van artikel 10b van de Sanctiewet 1977 is beboetbaar volgens de eerste categorie. 
 
 ### Artikel  7  
 
-Overtreding van [artikel 1 van het Besluit financieel verkeer strategische goederen 1996](../../../../../../../AMvB/besluit/financieel/verkeer/strategische/goederen/1996/BWBR0008298/README.md) is beboetbaar volgens de derde categorie 
+Overtreding van artikel 1 van het Besluit financieel verkeer strategische goederen 1996 is beboetbaar volgens de derde categorie 
 
 ### Artikel  8  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet financiële betrekkingen buitenland 1994](../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md), is als volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet financiële betrekkingen buitenland 1994, is als volgt beboetbaar:  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
-| [6, derde lid](../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md)  | 2  |
-| [7, eerste tot en met het vierde lid](../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md)  | 1  |
+| 6, derde lid  | 2  |
+| 7, eerste tot en met het vierde lid  | 1  |
 
 ### Artikel  10  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of in een hierna genoemd artikel van een op die wet gebaseerde algemene maatregel van bestuur, is als volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet op het financieel toezicht of in een hierna genoemd artikel van een op die wet gebaseerde algemene maatregel van bestuur, is als volgt beboetbaar:  
 
 |--- | Boetecategorie  |
 |:---|:---|
 |  *Wet op het financieel toezicht*   | --- |
-|  [Algemeen deel](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)   | --- |
+|  Algemeen deel   | --- |
 | 1:10  | 2  |
 | 1:28, tweede en derde lid  | 3  |
 | 1:58, tweede lid  | 3  |
@@ -80,7 +84,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 1:76, zesde lid, aanhef en onderdeel a  | 2  |
 | 1:77, eerste lid  | 3  |
 | --- | --- |
-|  [Deel Markttoegang financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)   | --- |
+|  Deel Markttoegang financiële ondernemingen   | --- |
 | 2:3.0a, eerste lid  | 2  |
 | 2:3.0a, vierde lid  | 1  |
 | 2:3.0b, eerste lid  | 3  |
@@ -206,20 +210,22 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 |5:19a  |2 |
 |5:25c, zesde lid |2 |
 | --- | --- |
-| [ Deel Prudentieel toezicht financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | --- |
+|  Deel Prudentieel toezicht financiële ondernemingen  | --- |
 | 3:5, eerste lid  | 3  |
 | 3:5, vierde lid  | 2  |
 | 3:6, eerste lid  | 3  |
 | 3:6, vierde lid  | 2  |
 | 3:7, eerste lid  | 3  |
 | 3:7, vierde lid  | 2  |
-| 3:8  | 2  |
-| 3:9, eerste lid  | 2  |
-| 3:10, eerste lid  | 2  |
+| 3:8, eerste en derde lid  |3 |
+| 3:8, tweede, vierde en vijfde lid  |2 |
+| 3:9, eerste lid  | 3  |
+| 3:10, eerste lid  | 3  |
 | 3:10, derde lid  | 1  |
 | 3:15, eerste en tweede lid  | 2  |
 | 3:16, eerste tot en met derde lid  | 2  |
-| 3:17, eerste lid  | 2  |
+| 3:17, eerste lid  | 3  |
+| 3:17a  |2 |
 | 3:18, eerste en tweede lid  | 2  |
 |3:18b, eerste lid |3  |
 | 3:19, eerste en tweede lid  | 2  |
@@ -260,9 +266,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:57, eerste, tweede, vijfde en zevende lid  | 3  |
 | 3:59, tweede lid  | 3  |
 | 3:62, tweede lid  | 3  |
+| 3:62a, derde lid  |2 |
 | 3:62a, derde en vierde lid  | 2  |
 | 3:62a, vijfde lid  | 3  |
+| 3:62b, eerste en tweede lid  |3 |
 | 3:63, eerste en tweede lid  | 3  |
+| 3:66  |2 |
 | 3:67, eerste lid  | 3  |
 | 3:67, tweede en derde lid  | 2  |
 | 3:67, vierde lid  | 3  |
@@ -280,8 +289,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:73a  | 3  |
 | 3:73b  | 2  |
 | 3:74, eerste lid  | 1  |
+| 3:74a  |2 |
 | 3:74a, eerste, tweede, derde en vijfde lid  | 2  |
-| 3:74a, derde lid  | 1  |
 |3:74b, eerste en tweede lid |2 |
 |3:74c |2 |
 | 3:75  | 2  |
@@ -299,7 +308,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:96, eerste lid  | 3  |
 | 3:96, vierde lid  | 2  |
 | 3:99, eerste lid  | 2  |
-| 3:103, eerste en tweede lid  | 1  |
+| 3:103  |3 |
 | 3:104, eerste en derde lid  | 2  |
 | 3:105, vierde lid  | 2  |
 | 3:106, eerste lid  | 2  |
@@ -336,6 +345,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:155, eerste en derde lid  | 2  |
 | 3:156, zesde lid  | 2  |
 | 3:158, derde en vierde lid  | 2  |
+| 3:159ai, tweede lid  |2  |
 | 3:175 derde lid  | 2  |
 | 3:196  | 3  |
 | 3:259, eerste en tweede lid  | 3  |
@@ -353,9 +363,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:272, eerste lid  | 2  |
 | 3:273, eerste lid  | 1  |
 | 3:277a, eerste lid  | 2  |
-| 3:279, eerste en vierde lid  | 2  |
-| 3:280, tweede en derde lid  | 2  |
-| 3:280a, tweede lid  | 1  |
 | 3:284, tweede lid  | 2  |
 | 3:285, eerste en tweede lid  | 3  |
 | 3:286, eerste en tweede lid  | 3  |
@@ -368,7 +375,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:299, eerste lid  | 3  |
 | 3:299, eerste en tweede lid  | 2  |
 | --- | --- |
-|  [Deel Gedragstoezicht financiële ondernemingen](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)   | --- |
+|  Deel Gedragstoezicht financiële ondernemingen   | --- |
 | 4:3, eerste lid  | 3  |
 | 4:3, vierde lid  | 2  |
 | 4:4, eerste lid  | 3  |
@@ -376,12 +383,14 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:5, tweede lid  | 1  |
 | 4:6, eerste lid  | 2  |
 | 4:6a, eerste lid  | 1  |
-| 4:9, eerste en tweede lid  | 2  |
-| 4:10, eerste lid  | 2  |
-| 4:11, eerste en tweede lid  | 2  |
+| 4:9, eerste lid |3 |
+| 4:9, tweede lid |2 |
+| 4:9b, eerste lid  |3 |
+| 4:10, eerste lid  | 3  |
+| 4:11, eerste en tweede lid  | 3  |
 | 4:11, vierde lid  | 1  |
 | 4:13, eerste en tweede lid  | 2  |
-| 4:14, eerste lid  | 2  |
+| 4:14, eerste lid  | 3  |
 | 4:15, eerste lid  | 2  |
 | 4:16, eerste lid  | 2  |
 | 4:17, eerste lid  | 2  |
@@ -537,7 +546,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:103, eerste en vierde lid  | 2  |
 | 4:104, eerste en derde lid  | 1  |
 | --- | --- |
-|  [Deel Gedragstoezicht financiële markten](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)   | --- |
+|  Deel Gedragstoezicht financiële markten   | --- |
 | 5:2  | 3  |
 | 5:16, tweede lid  | 2  |
 | 5:18, tweede lid  | 2  |
@@ -612,7 +621,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:86, tweede lid  | 1  |
 |5:88, eerste en tweede lid |3 |
 | --- | --- |
-| [ Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](../../../../../../../AMvB/besluit/bijzondere/prudentiële/maatregelen/beleggerscompensatie/en/etc/BWBR0020414/README.md)   | --- |
+|  Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft   | --- |
 | 4, eerste en tweede lid  | 2  |
 | 6, eerste lid  | 1  |
 | 11, eerste lid  | 2  |
@@ -624,7 +633,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 22, tweede lid  | 2  |
 | 30, derde lid  | 2  |
 | --- | --- |
-|  [Besluit reikwijdtebepalingen Wft](../../../../../../../AMvB/besluit/reikwijdtebepalingen/wft/BWBR0020419/README.md)   | --- |
+|  Besluit reikwijdtebepalingen Wft   | --- |
 | 5, eerste lid,  | 1  |
 | 6, eerste en tweede lid  | 1  |
 | 7, tweede lid  | 1  |
@@ -640,7 +649,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 28, eerste lid  | 2  |
 | 34, eerste en tweede lid  | 2  |
 | --- | --- |
-|  [Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md)   | --- |
+|  Besluit prudentiële regels Wft   | --- |
 | 10, eerste tot en met zesde lid  | 2  |
 | 11, eerste tot en met vijfde lid  | 2  |
 | 12, eerste tot en met derde lid  | 2  |
@@ -651,6 +660,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 16, eerste en tweede lid  | 2  |
 | 17, eerste tot en met vierde lid  | 2  |
 | 17a  | 2  |
+|  17c, eerste en tweede lid  | 2  |
 | 18  | 2  |
 | 19, eerste en tweede lid  | 2  |
 |19, eerste en tweede lid |2 |
@@ -658,14 +668,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 21, eerste tot en met derde lid  | 2  |
 | 22  | 2  |
 | 22a  | 2  |
-| 23, eerste tot en met vijfde lid  | 2  |
-| 23a, eerste tot en met derde lid  | 2  |
-| 23b, tweede lid  | 2  |
-| 23c, tweede lid  | 2  |
-| 23d  | 2  |
-| 23e, tweede lid  | 2  |
-|23f |3 |
-|23g, eerste tot en met derde lid |2 |
+| 23, eerste tot en met vijfde lid  | 3  |
+|  23a  |2  |
+|  23b, eerste en tweede lid  |2  |
+|  23c, eerste lid  |2  |
+|  23d  |2  |
+|  23e  |3  |
+|  23f, eerste tot en met derde lid  |2  |
 | 24  | 2  |
 | 24a, eerste en tweede lid  | 2  |
 | 24b, eerste tot en met vijfde lid  | 2  |
@@ -701,13 +710,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 56, tweede tot en met het vierde lid  | 2  |
 | 59, eerste en tweede lid  | 2  |
 |60a, eerste en tweede lid |2 |
-| 61a, eerste en tweede lid  | 2  |
-| 62, tweede en derde lid  | 2  |
-| 62, vierde lid  | 3  |
-| 62a, derde lid  | 3  |
-| 62b, eerste lid  | 3  |
-| 62c, tweede lid  | 2  |
-| 62e, eerste lid  | 3  |
 | 63, eerste en tweede lid  | 2  |
 |63a, eerste, tweede en vierde lid |2 |
 |63b, eerste en tweede lid  |2 |
@@ -720,24 +722,14 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 66, eerste lid  | 2  |
 | 67, eerste tot en met zevende lid  | 2  |
 | 68, eerste en tweede lid  | 2  |
-| 69, tweede, zesde en zevende lid  | 2  |
-| 70, derde tot en met vijfde lid  | 2  |
-| 71, eerste lid  | 2  |
-| 74, eerste tot en met derde lid  | 2  |
-| 79, eerste lid  | 3  |
-| 80  | 2  |
-| 81, eerste tot en met vijfde lid  | 2  |
-| 82, eerste lid  | 2  |
-| 83  | 2  |
-| 84, derde lid  | 2  |
-| 86, eerste lid  | 2  |
-| 87, eerste tot en met derde lid  | 2  |
 | 89, eerste lid  | 2  |
-| 94, vierde lid  | 2  |
 | 101, eerste en tweede lid  | 2  |
-| 102, eerste, tweede en vierde lid  | 2  |
-| 103, eerste, tweede en vierde lid  | 2  |
 | 104, eerste tot en met derde lid  | 3  |
+|  105b, eerste en derde lid  |2 |
+|  105e  |2 |
+|  105g, eerste en derde lid  |2 |
+|  105h  |2 |
+|  105i  |2 |
 | 106  | 2  |
 | 107, tweede lid  | 2  |
 | 111, tweede, vierde en vijfde lid  | 2  |
@@ -762,12 +754,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 133, tweede lid  | 1  |
 | 134, eerste lid  | 1  |
 | 134, tweede lid  | 2  |
+| 134b |1 |
 | 135, eerste tot en met vierde lid  | 2  |
 |135a, eerste lid   |1 |
 | 136, eerste en tweede lid  | 2  |
 | 138  | 2  |
 | --- | --- |
-| [ Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)   | --- |
+|  Besluit Gedragstoezicht financiële ondernemingen Wft   | --- |
 | 2, eerste lid  | 2  |
 | 3, eerste en tweede lid  | 2  |
 | 3. vierde lid  | 1  |
@@ -791,6 +784,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 31a  | 2  |
 | 31c, eerste tot en met derde lid  | 2  |
 |31d, eerste en tweede lid |2 |
+|  31e, eerste en tweede lid  | 2  |
+|  31g  | 1  |
 |32, eerste lid |2 |
 |32, eerste tot en met derde lid en vijfde lid |1 |
 | 32, derde lid | 1 |
@@ -1084,7 +1079,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 168a, eerste lid  | 3  |
 | 174, tweede lid  | 2  |
 | --- | --- |
-|  [Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft](../../../../../../../AMvB/besluit/melding/zeggenschap/en/kapitaalbelang/in/uitgevende/instellingen/BWBR0020416/README.md)   | --- |
+|  Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft   | --- |
 | 2  | 2  |
 | 3, eerste tot en met zevende lid  | 2  |
 | 4  | 2  |
@@ -1096,7 +1091,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 8d, eerste tot en met derde lid  | 2  |
 | 9, eerste tot en met vierde lid  | 2  |
 | --- | --- |
-| [ Besluit prudentieel toezicht financiële groepen Wft](../../../../../../../AMvB/besluit/prudentieel/toezicht/financiële/groepen/wft/BWBR0020415/README.md)   | --- |
+|  Besluit prudentieel toezicht financiële groepen Wft   | --- |
 | 2  | 2  |
 |2a, eerste en tweede lid  |2 |
 | 4, eerste lid  | 2  |
@@ -1122,13 +1117,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 26, eerste en vijfde lid  | 2  |
 | 27, eerste en vijfde lid  | 2  |
 | --- | --- |
-| [ Besluit implementatie kapitaalakkoord Bazel 2](../../../../../../../AMvB/besluit/implementatie/kapitaalakkoord/bazel/2/BWBR0020750/README.md)   | --- |
+|  Besluit implementatie kapitaalakkoord Bazel 2   | --- |
 | VII, eerste en derde lid  | 3  |
 | X, derde en vierde lid  | 2  |
 | XI, tweede lid  | 3  |
 | XI, derde lid  | 2  |
 | --- | --- |
-|  [Besluit marktmisbruik Wft](../../../../../../../AMvB/besluit/marktmisbruik/wft/BWBR0020417/README.md)   | --- |
+|  Besluit marktmisbruik Wft   | --- |
 | 6,  | 2  |
 | 9, eerste en tweede lid  | 2  |
 | 10, eerste tot en met vierde lid  | 1  |
@@ -1146,7 +1141,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 26  | 2  |
 | 27, eerste lid  | 2  |
 | --- | --- |
-| [ Besluit openbare biedingen Wft](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md)   | --- |
+|  Besluit openbare biedingen Wft   | --- |
 |2a, eerste, tweede, vijfde en achtste lid |3 |
 | 3,  | 2  |
 | 4, eerste en derde lid  | 3  |
@@ -1180,175 +1175,175 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 25, eerste lid  | 2  |
 | 27,  | 2  |
 | --- | --- |
-| [ Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft](../../../../../../../AMvB/besluit/transparantie/uitgevende/instellingen/wft/BWBR0024950/README.md)   | --- |
+|  Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft   | --- |
 | 5, eerste, tweede, vierde tot en met zesde lid  | 2  |
 | 6  | 2  |
 | 11, tweede lid  | 2  |
 
 ### Artikel  10a  
 
-De toezichthouder maakt een besluit tot het opleggen van een bestuurlijke boete ingevolge een op de [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gebaseerde algemene maatregel van bestuur openbaar, indien de bestuurlijke boete is opgelegd ter zake van overtreding van: 
+De toezichthouder maakt een besluit tot het opleggen van een bestuurlijke boete ingevolge een op de Wet op het financieel toezicht gebaseerde algemene maatregel van bestuur openbaar, indien de bestuurlijke boete is opgelegd ter zake van overtreding van: 
 
-a. [artikel 14, vijfde lid](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), [81, vijfde lid](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), of [103, vierde lid van het Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);  
+a. artikel 14, vijfde lid, 81, vijfde lid, of 103, vierde lid van het Besluit prudentiële regels Wft;  
 
-b. [artikel 19, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [22, eerste en tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [24, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [26, eerste tot en met derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [27, eerste en tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [29, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35, tweede, derde en vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35a, eerste, derde en vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35b](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [39](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [40](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [51a, vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58b, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80a, eerste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [80b, eerste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [81, eerste tot en met derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [130](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [132](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133, tweede tot en met vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134, eerste tot en met vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [135, eerste en tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [136, eerste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [137, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [138, eerste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [139, eerste en tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [140, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [156](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [159, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [160, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [164, eerste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), of [164b, eerste en tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md); of  
+b. artikel 19, derde lid, 22, eerste en tweede lid, 24, derde lid, 26, eerste tot en met derde lid, 27, eerste en tweede lid, 29, derde lid, 35, tweede, derde en vijfde lid, 35a, eerste, derde en vierde lid, 35b, 39, 40, 51a, vijfde lid, 58b, tweede lid, 80a, eerste lid, 80b, eerste lid, 81, eerste tot en met derde lid, 130, 132, 133, tweede tot en met vierde lid, 134, eerste tot en met vierde lid, 135, eerste en tweede lid, 136, eerste lid, 137, tweede lid, 138, eerste lid, 139, eerste en tweede lid, 140, tweede lid, 156, 159, tweede lid, 160, tweede lid, 164, eerste lid, of 164b, eerste en tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft; of  
 
-c. [artikel 3](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [5, eerste, vierde en vijfde lid](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [6](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [7](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [10 tot en met 14](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [15, eerste tot en met vierde lid](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [16, eerste, tweede en vierde lid](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [17](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [18, eerste tot en met derde lid](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [19 tot en met 24](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), [25, eerste lid](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md), of [27 van het Besluit openbare biedingen](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md).   
+c. artikel 3, 5, eerste, vierde en vijfde lid, 6, 7, 10 tot en met 14, 15, eerste tot en met vierde lid, 16, eerste, tweede en vierde lid, 17, 18, eerste tot en met derde lid, 19 tot en met 24, 25, eerste lid, of 27 van het Besluit openbare biedingen.   
 
 ### Artikel  11  
 
-Overtreding van een op grond van [artikel 54](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [56](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58, vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [66, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [67, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [110, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [112, zesde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [118, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [123, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md),. [124, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133, achtste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134, vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [149b, vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [165, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) in de [Nadere regeling gedragstoezicht financiële ondernemingen Wft](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md) gesteld voorschrift is als volgt beboetbaar.  
+Overtreding van een op grond van artikel 54, 56, 58, vierde lid, 66, derde lid, 67, derde lid, 110, derde lid, 112, zesde lid, 118, derde lid, 123, derde lid,. 124, tweede lid, 133, achtste lid, 134, vijfde lid, 149b, vierde lid, 165, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft in de Nadere regeling gedragstoezicht financiële ondernemingen Wft gesteld voorschrift is als volgt beboetbaar.  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
-| [2:1, eerste tot en met vijfde lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [2:2, eerste tot en met elfde lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [2:3, eerste tot en met zesde lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [2:4](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [2:5](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [3:1](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [3:12](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [4:4, eerste lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 1  |
-| [5:1](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [5:2, eerste en tweede lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [5:3](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [6:2](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
-| [6:3, eerste lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)  | 2  |
+| 2:1, eerste tot en met vijfde lid  | 2  |
+| 2:2, eerste tot en met elfde lid  | 2  |
+| 2:3, eerste tot en met zesde lid  | 2  |
+| 2:4  | 2  |
+| 2:5  | 2  |
+| 3:1  | 2  |
+| 3:12  | 2  |
+| 4:4, eerste lid  | 1  |
+| 5:1  | 2  |
+| 5:2, eerste en tweede lid  | 2  |
+| 5:3  | 2  |
+| 6:2  | 2  |
+| 6:3, eerste lid  | 2  |
 
 ### Artikel  13  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), is als volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet ter voorkoming van witwassen en financieren van terrorisme, is als volgt beboetbaar:  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
-| [2, eerste lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [2, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [3, eerste lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [3, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [3, derde lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [3, zevende lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [4, eerste tot en met vierde lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [5, eerste en derde lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [6, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [7, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [8, eerste tot en met vierde lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [11, eerste tot en met derde lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [16, eerste lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [16, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [17, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [23, eerste lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [23, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 2  |
-| [33, eerste en tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [34](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [35](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
-| [41](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)  | 1  |
+| 2, eerste lid  | 2  |
+| 2, tweede lid  | 1  |
+| 3, eerste lid  | 2  |
+| 3, tweede lid  | 2  |
+| 3, derde lid  | 2  |
+| 3, zevende lid  | 1  |
+| 4, eerste tot en met vierde lid  | 1  |
+| 5, eerste en derde lid  | 2  |
+| 6, tweede lid  | 1  |
+| 7, tweede lid  | 1  |
+| 8, eerste tot en met vierde lid  | 2  |
+| 11, eerste tot en met derde lid  | 1  |
+| 16, eerste lid  | 2  |
+| 16, tweede lid  | 1  |
+| 17, tweede lid  | 2  |
+| 23, eerste lid  | 2  |
+| 23, tweede lid  | 2  |
+| 33, eerste en tweede lid  | 1  |
+| 34  | 1  |
+| 35  | 1  |
+| 41  | 1  |
 
 ### Artikel  14  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), is als volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet toezicht accountantsorganisaties, is als volgt beboetbaar:  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
-| [5, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [6, derde lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
-| [14](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [15, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
-| [16a](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
-| [18, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [18, tweede lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
-| [19, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [19, tweede lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
-| [20, eerste en derde lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
-| [21, eerste lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [23](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [24, eerste en tweede lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 3  |
-| [24a, eerste tot en met derde lid](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)  | 2  |
+| 5, eerste lid  | 3  |
+| 6, derde lid  | 2  |
+| 14  | 3  |
+| 15, eerste lid  | 2  |
+| 16a  | 2  |
+| 18, eerste lid  | 3  |
+| 18, tweede lid  | 2  |
+| 19, eerste lid  | 3  |
+| 19, tweede lid  | 2  |
+| 20, eerste en derde lid  | 2  |
+| 21, eerste lid  | 3  |
+| 23  | 3  |
+| 24, eerste en tweede lid  | 3  |
+| 24a, eerste tot en met derde lid  | 2  |
 
 ### Artikel  15  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [Besluit toezicht accountantsorganisaties](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md) is als volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het Besluit toezicht accountantsorganisaties is als volgt beboetbaar:  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
-| [3, eerste tot en met derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [5](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [7](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [8, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [8, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [8, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [8, vierde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [8, vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [9](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [10, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [10, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [11, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [11, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [11, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [11, vierde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [11, vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-|[11, zesde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md) |1 |
-| [12, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [12, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [12, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [13, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [13, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [14](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [15](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [15a, eerste tot en met vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [16](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [17, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [17, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [18, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [18, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [19, eerste tot en met vijfde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [20, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [20, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [20, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [21](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [22, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [22, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [23, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [23, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [23, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [24, eerste lid, onderdeel a tot en met c](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [24, tweede en derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [25](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [26, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [27](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [28](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [29, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 3  |
-| [29, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [30, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [30, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [31](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [32, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [32, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [32, derde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [32, vierde lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 2  |
-| [33, eerste lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [33, tweede lid](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
-| [34](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)  | 1  |
+| 3, eerste tot en met derde lid  | 2  |
+| 5  | 1  |
+| 7  | 1  |
+| 8, eerste lid  | 3  |
+| 8, tweede lid  | 2  |
+| 8, derde lid  | 2  |
+| 8, vierde lid  | 1  |
+| 8, vijfde lid  | 1  |
+| 9  | 1  |
+| 10, eerste lid  | 1  |
+| 10, tweede lid  | 1  |
+| 11, eerste lid  | 2  |
+| 11, tweede lid  | 1  |
+| 11, derde lid  | 3  |
+| 11, vierde lid  | 2  |
+| 11, vijfde lid  | 2  |
+|11, zesde lid |1 |
+| 12, eerste lid  | 3  |
+| 12, tweede lid  | 1  |
+| 12, derde lid  | 2  |
+| 13, eerste lid  | 2  |
+| 13, tweede lid  | 2  |
+| 14  | 1  |
+| 15  | 3  |
+| 15a, eerste tot en met vijfde lid  | 2  |
+| 16  | 1  |
+| 17, eerste lid  | 1  |
+| 17, tweede lid  | 2  |
+| 18, eerste lid  | 3  |
+| 18, tweede lid  | 2  |
+| 19, eerste tot en met vijfde lid  | 1  |
+| 20, eerste lid  | 2  |
+| 20, tweede lid  | 2  |
+| 20, derde lid  | 2  |
+| 21  | 3  |
+| 22, eerste lid  | 3  |
+| 22, tweede lid  | 3  |
+| 23, eerste lid  | 3  |
+| 23, tweede lid  | 1  |
+| 23, derde lid  | 1  |
+| 24, eerste lid, onderdeel a tot en met c  | 2  |
+| 24, tweede en derde lid  | 1  |
+| 25  | 1  |
+| 26, eerste lid  | 1  |
+| 27  | 3  |
+| 28  | 1  |
+| 29, eerste lid  | 3  |
+| 29, tweede lid  | 2  |
+| 30, eerste lid  | 1  |
+| 30, tweede lid  | 1  |
+| 31  | 1  |
+| 32, eerste lid  | 2  |
+| 32, tweede lid  | 1  |
+| 32, derde lid  | 2  |
+| 32, vierde lid  | 2  |
+| 33, eerste lid  | 1  |
+| 33, tweede lid  | 1  |
+| 34  | 1  |
 
 ### Artikel  16  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet toezicht trustkantoren](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), is volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet toezicht trustkantoren, is volgt beboetbaar:  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
-| [2, eerste lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 3  |
-|[2, tweede lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) |3 |
-| [2, derde lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [2a, eerste lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [2a, tweede lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [2a, derde lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [3, derde lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [5](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 1  |
-| [9, tweede lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [9, derde lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [10](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [11](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [14, tweede lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
-| [16, tweede lid](../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md)  | 2  |
+| 2, eerste lid  | 3  |
+|2, tweede lid |3 |
+| 2, derde lid  | 2  |
+| 2a, eerste lid  | 2  |
+| 2a, tweede lid  | 2  |
+| 2a, derde lid  | 2  |
+| 3, derde lid  | 2  |
+| 5  | 1  |
+| 9, tweede lid  | 2  |
+| 9, derde lid  | 2  |
+| 10  | 2  |
+| 11  | 2  |
+| 14, tweede lid  | 2  |
+| 16, tweede lid  | 2  |
 
 ### §  3  
 
@@ -1368,11 +1363,11 @@ Wijzigt het Besluit toezicht accountantsorganisaties.
 
 ###Artikel  20  
 
-Het [Besluit boetes Wft](../../../../../../../AMvB/besluit/boetes/wft/BWBR0020418/README.md) wordt ingetrokken.
+Het Besluit boetes Wft wordt ingetrokken.
 
 ### Artikel  21  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet wijziging boetestelsel financiële wetgeving](../../../../../../../wet/wet/wijziging/boetestelsel/financiële/wetgeving/BWBR0026196/README.md) in werking treedt. 
+Dit besluit treedt in werking met ingang van het tijdstip waarop de Wet wijziging boetestelsel financiële wetgeving in werking treedt. 
 
 ### Artikel  22  
 

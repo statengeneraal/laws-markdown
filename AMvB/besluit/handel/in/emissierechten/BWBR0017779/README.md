@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 juni 2004, nr. MJZ2004065798, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de[ artikelen 16.1, tweede lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.6, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.12, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.14, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.21](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [16.22 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op de artikelen 16.1, tweede lid, 16.6, eerste lid, 16.12, derde lid, 16.14, derde lid, 16.21 en 16.22 van de Wet milieubeheer;
 
 De Raad van State gehoord (advies van 15 juli 2004, nr. W08.04.0315/V);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  accreditatie-instantie: nationale accreditatie-instantie, als bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en marktoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);brandstof: gasvormige, vloeibare of vaste stof, met inbegrip van alle daaraan toegevoegde stoffen, dienende voor verbranding;CEN-norm: norm die door het CEN, het Europese Comité voor Standaardisatie, is vastgesteld; CO<sub>2</sub>: kooldioxide; N<sub>2</sub>O: distikstofoxide (lachgas); verbrandingseenheid: vaste technische eenheid waarin activiteiten als bedoeld in artikel 3, onder t, van de EG-richtlijn handel in broeikasgasemissierechten plaatsvinden;wet: [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  accreditatie-instantie: nationale accreditatie-instantie, als bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en marktoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);brandstof: gasvormige, vloeibare of vaste stof, met inbegrip van alle daaraan toegevoegde stoffen, dienende voor verbranding;CEN-norm: norm die door het CEN, het Europese Comité voor Standaardisatie, is vastgesteld; CO<sub>2</sub>: kooldioxide; N<sub>2</sub>O: distikstofoxide (lachgas); verbrandingseenheid: vaste technische eenheid waarin activiteiten als bedoeld in artikel 3, onder t, van de EG-richtlijn handel in broeikasgasemissierechten plaatsvinden;wet: Wet milieubeheer.
 
 ### Hoofdstuk  2  
 
@@ -30,11 +30,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  accredi
 
 ### Artikel  1a  
 
-Deze paragraaf heeft het toepassingsgebied van [afdeling 16.2.1 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Deze paragraaf heeft het toepassingsgebied van afdeling 16.2.1 van de wet. 
 
 ### Artikel  2  
 
-1. Als categorieën van activiteiten als bedoeld in [artikel 16.1, tweede lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen:
+1. Als categorieën van activiteiten als bedoeld in artikel 16.1, tweede lid, van de wet worden aangewezen:
 
 a. de categorieën van activiteiten die in de bij dit besluit behorende bijlage I zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;  
 
@@ -57,7 +57,7 @@ d. in de broeikasgasinstallatie uitsluitend biomassa wordt gebruikt.
 
 ### Artikel  5  
 
-1. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een vergunning krachtens [artikel 16.5](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en de aanvraag krachtens [artikel 16.20a, eerste lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) moeten geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen. Bij de aanvraag om een vergunning wordt een monitoringsplan ingediend.  
+1. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een vergunning krachtens artikel 16.5, en de aanvraag krachtens artikel 16.20a, eerste lid, van de wet moeten geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen. Bij de aanvraag om een vergunning wordt een monitoringsplan ingediend.  
 2.  Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen en met inachtneming van bij die regeling te stellen eisen: 
 
 a. bij het bepalen van de jaarvracht van een inrichting tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende bijlage I is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;  
@@ -67,7 +67,7 @@ b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt geho
 
 ### Artikel  12  
 
-1.  Het afgeven van een verklaring als bedoeld in [artikel 16.12, eerste lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geschiedt door een verificateur die werkzaam is bij een verificatie-instelling die ter zake is geaccrediteerd door een accreditatie-instantie. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.  
+1.  Het afgeven van een verklaring als bedoeld in artikel 16.12, eerste lid, van de wet geschiedt door een verificateur die werkzaam is bij een verificatie-instelling die ter zake is geaccrediteerd door een accreditatie-instantie. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.  
 2. In afwijking van het eerste lid kan een dergelijke verklaring tevens worden afgegeven door een verificatie-instelling ten aanzien waarvan de Raad voor Accreditatie het vooronderzoek heeft afgerond, en ten aanzien waarvan het accreditatieproces nog niet is geëindigd. 
 
 ### Paragraaf  2.2  
@@ -76,11 +76,11 @@ b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt geho
 
 ### Artikel  12b  
 
-Deze paragraaf heeft het toepassingsgebied van [afdeling 16.2.2 van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Deze paragraaf heeft het toepassingsgebied van afdeling 16.2.2 van de wet. 
 
 ### Artikel  12c  
 
-Als broeikasgas, als bedoeld in [artikel 16.39a, eerste lid, onder b, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt CO<sub>2</sub> aangewezen. 
+Als broeikasgas, als bedoeld in artikel 16.39a, eerste lid, onder b, van de wet, wordt CO<sub>2</sub> aangewezen. 
 
 ### Artikel  12d  
 
@@ -88,7 +88,7 @@ Artikel 5, vierde lid, is van overeenkomstige toepassing op personen die met de 
 
 ### Artikel  12g  
 
-Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [16.39j, tweede lid, van de wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), is artikel 12 van overeenkomstige toepassing. 
+Op het afgeven van een verklaring, als bedoeld in de artikelen 16.39f, tweede lid, en 16.39j, tweede lid, van de wet, is artikel 12 van overeenkomstige toepassing. 
 
 ###Hoofdstuk 3 
 
