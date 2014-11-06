@@ -90,8 +90,8 @@ Met ingang van 30 september 2003 is het verboden op de verpakking van tabaksprod
 ### Artikel  5  
 
 1.  Elke vorm van reclame of sponsoring is verboden.   
-2.  Onder het verbod, bedoeld in het eerste lid, worden eveneens begrepen onder de reikwijdte van de [Mediawet 2008](../../../wet/mediawet/2008/BWBR0025028/README.md) vallende reclameboodschappen, telewinkelboodschappen, sponsoring en productplaatsing voor tabaksproducten. Het gebruik maken van namen, (beeld)merken of andere onderscheidende tekens die door hun sterke gelijkenis bij het publiek redelijkerwijs de indruk geven dat het sponsoring door een producent of verkoper van tabaksproducten betreft, is evenmin toegestaan in het media-aanbod. In afwijking van het eerste lid is sponsoring van radioprogramma’s toegestaan, indien dit geschiedt door ondernemingen waarvan de hoofdactiviteit niet wordt gevormd door de vervaardiging of de verkoop van tabaksproducten.  
-3.  Het verbod, bedoeld in het eerste lid, anders dan met betrekking tot onder de reikwijdte van de [Mediawet 2008](../../../wet/mediawet/2008/BWBR0025028/README.md) vallende reclameboodschappen, telewinkelboodschappen, sponsoring en productplaatsing voor tabaksproducten, geldt niet, indien een naam die reeds te goeder trouw wordt gebruikt voor zowel tabaksproducten als andere producten of diensten welke door een zelfde onderneming of door verschillende ondernemingen in de handel zijn gebracht of worden aangeboden, voor reclame voor die andere producten of diensten wordt gebruikt en die naam gebruikt wordt in een duidelijk andere presentatievorm dan die waarin hij voor het tabaksproduct wordt gebruikt, met uitsluiting van enig ander onderscheidend teken dat reeds voor een tabaksproduct gebruikt wordt.   
+2.  Onder het verbod, bedoeld in het eerste lid, worden eveneens begrepen onder de reikwijdte van de Mediawet 2008 vallende reclameboodschappen, telewinkelboodschappen, sponsoring en productplaatsing voor tabaksproducten. Het gebruik maken van namen, (beeld)merken of andere onderscheidende tekens die door hun sterke gelijkenis bij het publiek redelijkerwijs de indruk geven dat het sponsoring door een producent of verkoper van tabaksproducten betreft, is evenmin toegestaan in het media-aanbod. In afwijking van het eerste lid is sponsoring van radioprogramma’s toegestaan, indien dit geschiedt door ondernemingen waarvan de hoofdactiviteit niet wordt gevormd door de vervaardiging of de verkoop van tabaksproducten.  
+3.  Het verbod, bedoeld in het eerste lid, anders dan met betrekking tot onder de reikwijdte van de Mediawet 2008 vallende reclameboodschappen, telewinkelboodschappen, sponsoring en productplaatsing voor tabaksproducten, geldt niet, indien een naam die reeds te goeder trouw wordt gebruikt voor zowel tabaksproducten als andere producten of diensten welke door een zelfde onderneming of door verschillende ondernemingen in de handel zijn gebracht of worden aangeboden, voor reclame voor die andere producten of diensten wordt gebruikt en die naam gebruikt wordt in een duidelijk andere presentatievorm dan die waarin hij voor het tabaksproduct wordt gebruikt, met uitsluiting van enig ander onderscheidend teken dat reeds voor een tabaksproduct gebruikt wordt.   
 4.  Het eerste lid geldt evenmin voor: 
 
 a. commerciële mededelingen in de pers en andere gedrukte publicaties, alsmede in diensten van de informatiemaatschappij, die de aanprijzing van een tabaksproduct tot doel dan wel rechtstreeks of onrechtstreeks tot gevolg hebben, en die: 
@@ -127,7 +127,7 @@ c. uitsluitend voor de koper van tabaksproducten bestemde reclame in een tabakss
 ### Artikel  5c  
 
 1.  De rechtbank Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in artikel 5b.   
-2.  De in artikel 5b bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [376 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md); artikel [379 van dat wetboek](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is niet van toepassing.    
+2.  De in artikel 5b bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de artikelen 285 en 376 van het Wetboek van Burgerlijke Rechtsvordering; artikel 379 van dat wetboek is niet van toepassing.    
 3.  Op vordering van de eiser kan aan de uitspraak worden verbonden: 
 
 a. een verbod van de reclame of de sponsoring;  
@@ -151,7 +151,7 @@ c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspr
 ### Artikel  8  
 
 1.  Het is verboden bedrijfsmatig of anders dan om niet tabaksproducten te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt. Onder verstrekken wordt eveneens begrepen het verstrekken van een tabaksproduct aan een persoon van wie is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, welk tabaksproduct echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.   
-2.  De vaststelling, bedoeld in het eerste lid, blijft achterwege, indien het een persoon betreft die onmiskenbaar de leeftijd van 18 jaar heeft bereikt. De vaststelling geschiedt aan de hand van een document als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), dan wel een bij of krachtens algemene maatregel van bestuur aangewezen document.   
+2.  De vaststelling, bedoeld in het eerste lid, blijft achterwege, indien het een persoon betreft die onmiskenbaar de leeftijd van 18 jaar heeft bereikt. De vaststelling geschiedt aan de hand van een document als bedoeld in artikel 1, eerste lid, van de Wet op de identificatieplicht, dan wel een bij of krachtens algemene maatregel van bestuur aangewezen document.   
 3.  Op plaatsen waar bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren plegen te worden verstrekt, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven dat aan personen jonger dan 18 jaar geen tabaksproducten worden verstrekt. Onze Minister kan daaromtrent nadere regels stellen en een model voorschrijven.  
 
 ### Artikel  8a  
@@ -195,6 +195,10 @@ b. ruimten in gebouwen;
 
 c. andere plaatsen waar werkzaamheden worden verricht.   Daarbij kunnen nadere regels worden gesteld.  
 
+### §  6  
+
+####Bestuurlijke boeten
+
 ### Artikel  11b  
 
 1.  Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 2, 3, 3a, 3b, 3c, 3e, 4, 5, 5a, 7, 8, 9, 10, 11, 11a of 18.   
@@ -212,7 +216,7 @@ b. € 4 500 bedraagt in andere dan de onder a bedoelde gevallen.
 3.  Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
 4.  Een algemene maatregel van bestuur als bedoeld in het tweede lid wordt vastgesteld op voordracht van Onze Minister, in overeenstemming met Onze Minister van Justitie.  
 
-### §  6  
+### §  7  
 
 ####Verdere bepalingen 
 
@@ -227,7 +231,7 @@ De voordracht voor een algemene maatregel van bestuur krachtens artikel 7, artik
 
 ### Artikel  15  
 
-Van elke krachtens [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderzochte zaak wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd.  
+Van elke krachtens artikel 5:18 van de Algemene wet bestuursrecht onderzochte zaak wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd.  
 
 ### Artikel  17  
 

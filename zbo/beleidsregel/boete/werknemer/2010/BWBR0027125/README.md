@@ -3,7 +3,7 @@
 ##Beleidsregel Boete werknemer 2010
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 27a van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 45a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 29a van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 48 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikelen 2:69](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:40 Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 91 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [artikelen 3:16](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:27 van de Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [artikel 14a van de Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en het [Boetebesluit socialezekerheidswetten](../../../../../../AMvB/boetebesluit/socialezekerheidswetten/BWBR0011708/README.md);
+Gelet op artikel 27a van de Werkloosheidswet, artikel 45a van de Ziektewet, artikel 29a van de Wet op de arbeidsongeschiktheidsverzekering, artikel 48 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikelen 2:69 en 3:40 Wet werk en arbeidsondersteuning jonggehandicapten, artikel 91 van de Wet werk en inkomen naar arbeidsvermogen, de artikelen 3:16 en 3:27 van de Wet arbeid en zorg, artikel 14a van de Toeslagenwet en het Boetebesluit socialezekerheidswetten;
 Besluit:    
 
 ### Artikel  1  
@@ -12,43 +12,43 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *WW:* [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+a.  *WW:* Werkloosheidswet;  
 
-b.  *ZW:* [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+b.  *ZW:* Ziektewet;  
 
-c.  *WAO:* [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+c.  *WAO:* Wet op de arbeidsongeschiktheidsverzekering;  
 
-d.  *WAZ:* [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+d.  *WAZ:* Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-e.  *Wet Wajong:* [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+e.  *Wet Wajong:* Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-f.  *Wet WIA:* [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+f.  *Wet WIA:* Wet werk en inkomen naar arbeidsvermogen;  
 
-g.  *Wazo:* [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+g.  *Wazo:* Wet arbeid en zorg;  
 
-h.  *TW:* [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+h.  *TW:* Toeslagenwet;  
 
-i. *Wet IOW:* [Wet inkomensvoorziening oudere werklozen](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md); 
+i. *Wet IOW:* Wet inkomensvoorziening oudere werklozen; 
 
-j.  *Awb:* [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+j.  *Awb:* Algemene wet bestuursrecht;  
 
 k.  *UWV:* Uitvoeringsinstituut werknemersverzekeringen;  
 
-l.  *basis boetebedrag:* het boetebedrag vastgesteld volgens [artikel 2 van het Boetebesluit socialezekerheidswetten](../../../../../../AMvB/boetebesluit/socialezekerheidswetten/BWBR0011708/README.md);  
+l.  *basis boetebedrag:* het boetebedrag vastgesteld volgens artikel 2 van het Boetebesluit socialezekerheidswetten;  
 
-m.  *afstemming:* de verplichting om in elk individueel geval het boetebedrag vast te stellen in evenredigheid tot de ernst van de gedraging, de mate van verwijtbaarheid en de omstandigheden waarin de belanghebbende verkeert, bedoeld in [artikel 5:46, tweede lid Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+m.  *afstemming:* de verplichting om in elk individueel geval het boetebedrag vast te stellen in evenredigheid tot de ernst van de gedraging, de mate van verwijtbaarheid en de omstandigheden waarin de belanghebbende verkeert, bedoeld in artikel 5:46, tweede lid Awb;  
 
-n.  *inlichtingenverplichting:* de verplichting, genoemd in [artikel 25 van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [artikelen 31, eerste lid](../../../../../../wet/ziektewet/BWBR0001888/README.md), en [49 van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 80 van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 70 van de WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikelen 2:7](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:74 van de Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 27, eerste lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 12 van de Wet IOW](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en [artikel 12 van de TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+n.  *inlichtingenverplichting:* de verplichting, genoemd in artikel 25 van de WW, de artikelen 31, eerste lid, en 49 van de ZW, artikel 80 van de WAO, artikel 70 van de WAZ, artikelen 2:7 en 3:74 van de Wet Wajong, artikel 27, eerste lid, van de Wet WIA, artikel 12 van de Wet IOW en artikel 12 van de TW;  
 
-o.  *boete:* de boete, genoemd in [artikel 27a, eerste lid van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 45a, eerste lid, van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 29a, eerste lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 48, eerste lid, van de WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikel 2:69, eerste lid](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [artikel 3:40, eerste lid, van de Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 91, eerste lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 21, eerste lid, van de Wet IOW](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en [artikel 14a, eerste lid, van de TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
+o.  *boete:* de boete, genoemd in artikel 27a, eerste lid van de WW, artikel 45a, eerste lid, van de ZW, artikel 29a, eerste lid, van de WAO, artikel 48, eerste lid, van de WAZ, artikel 2:69, eerste lid en artikel 3:40, eerste lid, van de Wet Wajong, artikel 91, eerste lid, van de Wet WIA, artikel 21, eerste lid, van de Wet IOW en artikel 14a, eerste lid, van de TW;  
 
-p.  *waarschuwing:* de waarschuwing, genoemd in [artikel 27a, tweede lid, van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 45a, tweede lid, van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 29a, tweede lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 48, tweede lid, van de WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikelen 2:69, tweede lid](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:40, tweede lid, van de Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 91, tweede lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 21, tweede lid, van de Wet IOW](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en [artikel 14a, tweede lid, van de TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md).   
+p.  *waarschuwing:* de waarschuwing, genoemd in artikel 27a, tweede lid, van de WW, artikel 45a, tweede lid, van de ZW, artikel 29a, tweede lid, van de WAO, artikel 48, tweede lid, van de WAZ, artikelen 2:69, tweede lid en 3:40, tweede lid, van de Wet Wajong, artikel 91, tweede lid, van de Wet WIA, artikel 21, tweede lid, van de Wet IOW en artikel 14a, tweede lid, van de TW.   
 
 ### Artikel  2  
 
 ####Afstemming
 
-Bij de verhoging of verlaging van de boete, als bedoeld in [artikel 5:46, tweede en derde lid Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), hanteert het UWV dit besluit. 
+Bij de verhoging of verlaging van de boete, als bedoeld in artikel 5:46, tweede en derde lid Awb, hanteert het UWV dit besluit. 
 
 ### Artikel  3  
 
@@ -88,7 +88,7 @@ b. de belanghebbende de inlichtingenverplichting heeft overtreden, maar uit eige
 
 ####Geen verwijtbaarheid
 
-Indien loonsverhogingen die een rechtstreeks gevolg zijn van een collectieve afspraak in het bedrijf of de bedrijfstak, niet of niet tijdig worden doorgegeven, wordt de overtreding van de spontane inlichtingenverplichting genoemd in [artikel 80 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 70 WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of [artikel 3:74 Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), niet verwijtbaar geacht. 
+Indien loonsverhogingen die een rechtstreeks gevolg zijn van een collectieve afspraak in het bedrijf of de bedrijfstak, niet of niet tijdig worden doorgegeven, wordt de overtreding van de spontane inlichtingenverplichting genoemd in artikel 80 WAO, artikel 70 WAZ of artikel 3:74 Wet Wajong, niet verwijtbaar geacht. 
 
 ### Artikel  8  
 
@@ -101,13 +101,13 @@ Indien loonsverhogingen die een rechtstreeks gevolg zijn van een collectieve afs
 
 ####Spontane inlichtingenverplichting
 
-De spontane inlichtingenverplichting, genoemd in [artikel 25 van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 49 van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 80 van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 70, eerste lid, van de WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikel 2:7 eerste lid](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en [artikel 3:74 van de Wet Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 27, eerste lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 12, eerste lid, van de Wet IOW](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en [artikel 12 van de TW](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) moet onmiddellijk worden nagekomen. Onder ‘onmiddellijk’ wordt verstaan: op het moment dat het te melden feit of omstandigheid zich voordoet of bekend is geworden of redelijkerwijs bekend had kunnen zijn aan de belanghebbende. 
+De spontane inlichtingenverplichting, genoemd in artikel 25 van de WW, artikel 49 van de ZW, artikel 80 van de WAO, artikel 70, eerste lid, van de WAZ, artikel 2:7 eerste lid, en artikel 3:74 van de Wet Wajong, artikel 27, eerste lid, van de Wet WIA, artikel 12, eerste lid, van de Wet IOW en artikel 12 van de TW moet onmiddellijk worden nagekomen. Onder ‘onmiddellijk’ wordt verstaan: op het moment dat het te melden feit of omstandigheid zich voordoet of bekend is geworden of redelijkerwijs bekend had kunnen zijn aan de belanghebbende. 
 
 ### Artikel  10  
 
 ####Minimale boete
 
-De boete bedraagt minimaal de helft van het basisbedrag dat genoemd is in het [Boetebesluit socialezekerheidswetten](../../../../../../AMvB/boetebesluit/socialezekerheidswetten/BWBR0011708/README.md). 
+De boete bedraagt minimaal de helft van het basisbedrag dat genoemd is in het Boetebesluit socialezekerheidswetten. 
 
 ### Artikel  11  
 
@@ -119,8 +119,8 @@ Indien de inlichtingenverplichting opzettelijk is overtreden wordt niet volstaan
 
 ####Intrekking Besluit
 
-1. De [Beleidsregel boete werknemer 2010](../../../../../../zbo/beleidsregel/boete/werknemer/2010/BWBR0026987/README.md) zoals gepubliceerd in Staatscourant van 30 december 2009 (20454) wordt ingetrokken. 
-2. De [Beleidsregel boete werknemer](../../../../../../zbo/beleidsregel/boete/werknemer/BWBR0021864/README.md) zoals gepubliceerd in de Staatscourant van 6 november (Stcrt. 2007 nr. 93) wordt ingetrokken.
+1. De Beleidsregel boete werknemer 2010 zoals gepubliceerd in Staatscourant van 30 december 2009 (20454) wordt ingetrokken. 
+2. De Beleidsregel boete werknemer zoals gepubliceerd in de Staatscourant van 6 november (Stcrt. 2007 nr. 93) wordt ingetrokken.
 
 ### Artikel  13  
 
@@ -130,7 +130,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 ### Artikel  13a  
 
-Met ingang van 1 januari 2013 geldt deze beleidsregel alleen nog maar voor gevallen die, op grond van het in de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](../../../../../../wet/wet/aanscherping/handhaving/en/sanctiebeleid/szw-wetgeving/BWBR0032087/README.md) van 4 oktober 2012 (Staatsblad 462, 2012) opgenomen overgangsrecht, nog onder het recht, geldend op 31 december 2012, vallen. 
+Met ingang van 1 januari 2013 geldt deze beleidsregel alleen nog maar voor gevallen die, op grond van het in de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving van 4 oktober 2012 (Staatsblad 462, 2012) opgenomen overgangsrecht, nog onder het recht, geldend op 31 december 2012, vallen. 
 
 ### Artikel  14  
 

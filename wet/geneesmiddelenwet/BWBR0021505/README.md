@@ -607,15 +607,8 @@ b. bij beslissing van het College, de bevoegde autoriteit van een andere lidstaa
 3.  Bij ministeriële regeling worden, met het oog op de volgtijdelijke of de gelijktijdige verlening van een handelsvergunning voor hetzelfde geneesmiddel in meer dan één lidstaat, regels gesteld met betrekking tot de door de aanvrager en het College te volgen procedure. De termijn van 210 dagen, bedoeld in het tweede lid, is niet van toepassing.   
 4.  Indien bij het College een aanvraag om een handelsvergunning is ingediend en het College constateert dat in een andere lidstaat reeds een aanvraag om een handelsvergunning voor hetzelfde geneesmiddel in behandeling is, staakt hij de behandeling en deelt de aanvrager mede dat de procedure, bedoeld in het derde lid, van toepassing is.   
 5.  Indien de aanvraag een geneesmiddel betreft waarvoor in een andere lidstaat reeds een handelsvergunning is verleend en de aanvraag niet overeenkomstig de procedure, bedoeld in het derde lid, is ingediend, wijst het College de aanvraag af.   
-6.  Het College maakt bij het Comité de arbitrageprocedure, bedoeld in de artikelen 32, 33 en 34 van richtlijn 2001/83, aanhangig: 
-
-a. indien voor hetzelfde geneesmiddel in verschillende lidstaten aanvragen om een handelsvergunning zijn ingediend en de betrokken bevoegde instanties op de aanvragen onderscheidenlijk met betrekking tot de op de aanvragen verleende vergunning onderling afwijkende besluiten hebben genomen omtrent het verlenen onderscheidenlijk het schorsen of intrekken van de handelsvergunning;  
-
-b. in bijzondere gevallen, wanneer de belangen van de Gemeenschap in het geding zijn en in de Coördinatiegroep, bedoeld in artikel 27 van richtlijn 2001/83, geen overeenstemming is bereikt, voordat het College een besluit neemt over het verlenen, schorsen, intrekken of wijzigen van een handelsvergunning.     
-7.  De aanvrager of houder van een handelsvergunning kan eveneens de arbitrageprocedure, bedoeld in zesde lid, aanhangig maken indien hij van oordeel is dat ten aanzien van het geneesmiddel waarvoor die handelsvergunning is verleend een situatie als bedoeld in dat lid van toepassing is.   
-8.  Binnen dertig dagen na de kennisgeving van de beslissing van de Commissie in de arbitrageprocedure geeft het College aan die beslissing uitvoering. Het College stelt de Commissie en het Bureau hiervan in kennis.   
-9.  Ingeval de arbitrageprocedure, bedoeld in het zesde lid, verband houdt met de beoordeling van gegevens met betrekking tot geneesmiddelenbewaking van het geneesmiddel, wordt de zaak verwezen naar het Risicobeoordelingscomité en kan artikel 107undecies, tweede lid, van richtlijn 2001/83 worden toegepast, in welk geval artikel 107duodecies van richtlijn 2001/83 tevens van toepassing is.   
-10.  Indien echter dringend optreden noodzakelijk is, zijn, in afwijking van het negende lid, de artikelen 107decies tot en met 107duodecies van richtlijn 2001/83 van toepassing. 
+6.  Behoudens gevallen waarin artikel 79 van toepassing is, maakt het College in gevallen als bedoeld in artikelen 30, eerste lid, en 31, eerste lid, van richtlijn 2001/83 een arbitrageprocedure aanhangig bij het Geneesmiddelencomité. Het College neemt daarbij artikelen 31 tot en met 34 van deze richtlijn in acht.   
+7.  De aanvrager of houder van een handelsvergunning kan eveneens de arbitrageprocedure, bedoeld in zesde lid, aanhangig maken indien hij van oordeel is dat ten aanzien van het geneesmiddel waarvoor die handelsvergunning is verleend een situatie als bedoeld in dat lid van toepassing is.  
 
 ### Artikel  45  
 
@@ -692,7 +685,15 @@ b. beoordeling van meldingen van vermoedelijke bijwerkingen en periodieke veilig
 4.  De houder van de handelsvergunning stelt het College onverwijld in kennis van alle door de bevoegde autoriteiten van andere lidstaten opgelegde verboden en beperkingen alsmede van alle andere nieuwe gegevens die op de afweging van de voordelen en risico’s van het geneesmiddel van invloed kunnen zijn. De informatie betreft zowel positieve als negatieve resultaten van klinische proeven of andere onderzoeken voor indicaties en populaties, ongeacht of deze in de handelsvergunning zijn opgenomen, alsmede gegevens over gebruik van het geneesmiddel in afwijking van de voorschriften van de handelsvergunning.   
 5.  De houder van de handelsvergunning verstrekt te allen tijde op verzoek van het College gegevens waaruit blijkt dat de afweging van voordelen en risico’s van het geneesmiddel gunstig blijft uitvallen. Op verzoek van het College of het Staatstoezicht op de volksgezondheid verstrekt de houder van de handelsvergunning binnen zeven dagen een kopie van het basisdossier geneesmiddelenbewakingssysteem.   
 6.  De houder van de handelsvergunning deelt het College de datum mee waarop het geneesmiddel daadwerkelijk in de handel wordt gebracht.   
-7.  De houder van de handelsvergunning deelt het College mee wanneer de handel in een geneesmiddel tijdelijk of blijvend wordt stopgezet. Behoudens uitzonderlijke omstandigheden, vindt deze mededeling plaats uiterlijk twee maanden voor de onderbreking of stopzetting.   
+7.  Met inachtneming van artikel 123, leden 2 tot en met 2ter, van richtlijn 2001/83 stelt de houder van de handelsvergunning het College en de bevoegde autoriteiten van betrokken lidstaten onverwijld, maar in elk geval twee maanden voordat het in de handel brengen van een geneesmiddel wordt onderbroken, en onder opgaaf van redenen, in kennis van: 
+
+a. het opschorten van de handel in een geneesmiddel;  
+
+b. het uit de handel nemen van een geneesmiddel;  
+
+c. het verzoek om intrekking van een handelsvergunning; of  
+
+d. het achterwege laten van de aanvraag tot verlenging van een handelsvergunning.     
 8.  Onverminderd artikel 77, eerste lid, onder d, verstrekt de houder van de handelsvergunning voor een geneesmiddel desgevraagd aan het College gegevens over het afzetvolume van het geneesmiddel en de in zijn bezit zijnde gegevens betreffende het aantal recepten.   
 9.  De houder van een handelsvergunning draagt ervoor zorg dat het geneesmiddel waarop de handelsvergunning betrekking heeft, in voldoende mate voorradig is voor groothandelaren of apothekers teneinde in de behoeften van patiënten te kunnen voorzien.  
 
@@ -700,8 +701,7 @@ b. beoordeling van meldingen van vermoedelijke bijwerkingen en periodieke veilig
 
 1.  De houder van een handelsvergunning brengt zonder voorafgaande toestemming van het College geen wijziging aan in een geneesmiddel indien die wijziging noodzaakt tot aanpassing van de bij de aanvraag overgelegde gegevens en bescheiden. Indien het een handelsvergunning voor een traditioneel kruidengeneesmiddel betreft, verzoekt de houder daarvan het College tevens om toestemming gegevens of bescheiden die bij de aanvraag zijn overgelegd, te wijzigen indien door het Comité voor kruidengeneesmiddelen een nieuwe communautaire kruidenmonografie is vastgesteld waarvan redelijkerwijs mag worden aangenomen dat deze noodzaakt tot aanpassing van zodanige gegevens of bescheiden.   
 2.  De houder van een handelsvergunning legt voorgenomen wijzigingen van de buitenverpakking, de primaire verpakking of de tekst van de bijsluiter voor aan het College.   
-3.  De houder van een handelsvergunning stelt het College in kennis van een wijziging van de methoden van bereiding en van een wijziging van de niet-werkzame bestanddelen van een geneesmiddel, voorzover deze wijzigingen naar redelijkerwijs mag worden aangenomen geen invloed hebben op de werking van het geneesmiddel. Indien het College van oordeel is dat een wijziging als bedoeld in de eerste volzin, wel van invloed is op de werking van een geneesmiddel, deelt hij dit onverwijld mede en behandelt hij deze mededeling als een verzoek om toestemming voor een wijziging als bedoeld in het eerste lid.   
-4.  De houder van een handelsvergunning stelt het College terstond in kennis van elke stap die door hem is gezet om het in de handel brengen van een geneesmiddel op te schorten of een geneesmiddel uit de handel te nemen, onder opgave van de redenen van die stap indien deze betrekking heeft op de werkzaamheid van het geneesmiddel of op de bescherming van de volksgezondheid. Het College draagt ervoor zorg dat deze informatie ter kennis van het Bureau wordt gebracht. Indien de informatie een weerslag kan hebben op de volksgezondheid in een derde land, brengt het College die informatie ook ter kennis van de Wereldgezondheidsorganisatie.  
+3.  De houder van een handelsvergunning stelt het College in kennis van een wijziging van de methoden van bereiding en van een wijziging van de niet-werkzame bestanddelen van een geneesmiddel, voorzover deze wijzigingen naar redelijkerwijs mag worden aangenomen geen invloed hebben op de werking van het geneesmiddel. Indien het College van oordeel is dat een wijziging als bedoeld in de eerste volzin, wel van invloed is op de werking van een geneesmiddel, deelt hij dit onverwijld mede en behandelt hij deze mededeling als een verzoek om toestemming voor een wijziging als bedoeld in het eerste lid.  
 
 ### §  3  
 
@@ -733,7 +733,8 @@ j. indien de bereiding of kwaliteitscontrole door de fabrikant niet in overeenst
 2.  Indien werkzame bestanddelen van een kruidengeneesmiddel als bedoeld in artikel 42, achtste lid, worden afgevoerd van de door het Comité voor kruidengeneesmiddelen opgestelde lijst van zodanige bestanddelen, trekt het College de desbetreffende handelsvergunning voor een traditioneel kruidengeneesmiddel in.   
 3.  Het College trekt een handelsvergunning in op schriftelijk verzoek van de houder.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het verlenen, wijzigen, schorsen en intrekken van een handelsvergunning.   
-5.  Het College maakt een besluit tot schorsing of intrekking van een handelsvergunning toegankelijk voor het publiek.  
+5.  Het College maakt een besluit tot schorsing of intrekking van een handelsvergunning toegankelijk voor het publiek.   
+6.  Bij de toepassing van dit artikel neemt het College artikel 31, derde lid, van richtlijn 2001/83 in acht. 
 
 ### Artikel  52  
 
@@ -1001,7 +1002,7 @@ b. wanneer wordt overwogen de verstrekking van een geneesmiddel te verbieden;
 
 c. wanneer wordt overwogen de verlenging van een handelsvergunning te weigeren;  
 
-d. wanneer de houder van de handelsvergunning mededeling doet van onderbreking van het in de handel brengen van een geneesmiddel, of maatregelen heeft getroffen tot intrekking van een handelsvergunning, althans voornemens is dergelijke maatregelen te treffen wegens risico’s omtrent de veiligheid van een geneesmiddel;  
+d. wanneer de houder van de handelsvergunning mededeling doet van onderbreking van het in de handel brengen van een geneesmiddel, of maatregelen heeft getroffen tot intrekking van een handelsvergunning, althans voornemens is dergelijke maatregelen te treffen wegens risico’s omtrent de veiligheid van een geneesmiddel, dan wel geen aanvraag tot verlenging van een handelsvergunning heeft ingediend;  
 
 e. wanneer een nieuwe contraindicatie, een verlaging van de aanbevolen dosering of een beperking van de indicaties noodzakelijk wordt geacht.   
 
@@ -1287,7 +1288,8 @@ a. de bereiding, aflevering, handel, invoer, uitvoer of terhandstelling van een 
 b. een geneesmiddel of een substantie die kennelijk bestemd is ter bereiding van geneesmiddelen, uit de handel te laten nemen;  
 
 c. een apotheek te sluiten indien in die apotheek, naar hun oordeel, niet de nodige waarborgen aanwezig zijn voor een veilige bereiding, opslag of terhandstelling van geneesmiddelen.   
-2.  Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat een besluit tot het uit de handel nemen of het verbieden van de aflevering van een geneesmiddel terstond ter kennis wordt gebracht van het Bureau. Indien zodanig besluit gevolgen kan hebben voor de volksgezondheid in een derdeland, wordt tevens de Wereldgezondheidsorganisatie ter zake ingelicht. 
+2.  Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat een besluit tot het uit de handel nemen of het verbieden van de aflevering van een geneesmiddel terstond ter kennis wordt gebracht van het Bureau. Indien zodanig besluit gevolgen kan hebben voor de volksgezondheid in een derdeland, wordt tevens de Wereldgezondheidsorganisatie ter zake ingelicht.  
+3.  Bij de toepassing van dit artikel neemt het Staatstoezicht op de volksgezondheid artikel 31, derde lid, van richtlijn 2001/83 in acht. 
 
 ### Artikel  116  
 

@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 ### Artikel  2  
 
 1.  De personen, werkzaam in de functie van teleservicemedewerker in dienst van de regionale eenheid Oost-Nederland, zijn aangewezen als buitengewoon opsporingsambtenaar.   
-2.  Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van bijlage B-VI van de Circulaire Buitengewoon opsporingsambtenaar, ontheffing verleend van het bepaalde in artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar, onder de voorwaarde dat een certificaat is overgelegd, waaruit blijkt dat betrokkene met goed gevolg binnen een periode van vijf jaar voorafgaande aan de aanvraag heeft deelgenomen aan een op deze functie gerichte interne opleiding.  
+2.    Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van bijlage B-IV van de Circulaire Buitengewoon opsporingsambtenaar, ontheffing verleend van het bepaalde in artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar, onder de voorwaarde dat een certificaat is overgelegd, waaruit blijkt dat betrokkene met goed gevolg binnen een periode van vijf jaar voorafgaande aan de aanvraag heeft deelgenomen aan een op deze functie gerichte interne opleiding.
 
 ### Artikel  3  
 

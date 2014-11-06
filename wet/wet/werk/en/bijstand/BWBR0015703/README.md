@@ -615,7 +615,7 @@ b. een alleenstaande ouder: € 1 291,99 per 1 juli 2014: € 1.313,82;
 
 c. gehuwden waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1 413,13 per 1 juli 2014: € 1.437,02;  
 
-d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 januari 2014: € 1.437,02.  
+d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 juli 2014: € 1.437,02.  
 
 ### Artikel  22a  
 

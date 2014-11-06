@@ -5,11 +5,10 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
 
-Gelet op [artikel 7.2.4, tweede lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 7.2.4a, vierde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) alsmede [artikel 2.2.2, vijfde lid](../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [artikel 2.2.3, vierde lid, van het Uitvoeringsbesluit WEB](../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);
+Gelet op artikel 7.2.4, tweede lid, en artikel 7.2.4a, vierde lid, van de Wet educatie en beroepsonderwijs alsmede artikel 2.2.2, vijfde lid en artikel 2.2.3, vierde lid, van het Uitvoeringsbesluit WEB;
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 01-08-2014 
 
 Voor de middenkaderopleidingen, opgenomen in bijlage 1 bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren. 
 
@@ -18,7 +17,6 @@ Voor de middenkaderopleidingen, opgenomen in bijlage 1 bij deze regeling, kan do
 Wijzigt de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012. 
 
 ### Artikel  3  
-Treedt in werking per 01-08-2014 
 
 1.  Deze regeling treedt in werking met ingang van 1 augustus 2014, met uitzondering van artikel 2, onderdeel B, sub 3.   
 2.  Artikel 2, onderdeel B, sub 3, treedt in werking de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 augustus 2013.  
@@ -26,8 +24,6 @@ Treedt in werking per 01-08-2014
 ### Artikel  4  
 
 ####Citeertitel
-
-Treedt in werking per 01-08-2014 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling vierjarige beroepsopleidingen. 
 Deze regeling zal met bijlage 1 en 2 alsmede de toelichting in de Staatscourant worden geplaatst. De bijlagen 1, 2, 4 en 5 worden gepubliceerd op www.duo.nl.  
@@ -39,8 +35,6 @@ M. Bussemaker
 ### Bijlage   1  
 
 ####Vierjarige middenkaderopleidingen, geldig vanaf 1 augustus 2014
-
-Treedt in werking per 01-08-2014 
 
 *(gebaseerd op kwalificatiedossiers geldig vanaf 2013)*   
 
@@ -119,8 +113,6 @@ Treedt in werking per 01-08-2014
 
 ####Totstandkoming van het advies
 
-Treedt in werking per 01-08-2014 
-
 Het advies is tot stand gekomen middels een nauwkeurig doorlopen proces. Uitgangspunt was de lijst van advies van februari 2012. Vervolgens zijn de kwalificaties bekeken waarover nog aanvullend advies uitgebracht zou worden. Dit zijn: 
 
 – Technisch specialist verbrandingsmotoren  
@@ -169,7 +161,7 @@ De kwalificaties zijn vervolgens, na het succesvol doorlopen van de stappen, toe
 | --- | --- | 95768  | Assistent logistiek  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
 | --- | --- | 95769  | Assistent dienstverlening en zorg  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
 | --- | --- | 95770  | Assistent procestechniek  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
-| --- | --- | 95771  | Assistent bouwen, wonen en comfort  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
+| --- | --- | 95771  | Assistent bouwen, wonen en onderhoud  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
 | --- | --- | 95772  | Assistent verkoop/retail  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
 | --- | --- | 95773  | Assistent mobiliteitsbranche  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
 | --- | --- | 95774  | Assistent horeca, voeding of voedingsindustrie  | assistentopleiding  | BOL/BBL  | 1  | 1600  | --- | 1,0  | 02PR  |
