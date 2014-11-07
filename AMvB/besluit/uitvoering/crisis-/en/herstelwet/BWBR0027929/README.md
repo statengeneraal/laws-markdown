@@ -92,7 +92,7 @@ De bepalingen, bedoeld in artikel 2.3, zevende lid, van de wet, zijn:
 
 a. artikel 16 van de Natuurbeschermingwet 1998;  
 
-b. artikel 5.18, eerste lid, van het Besluit omgevingsrecht, met dien verstande dat de termijn, bedoeld in dat lid, op ten hoogste vijftien jaar wordt gesteld;  
+b. artikel 2.14, eerste lid, aanhef en onder c, onder 2°, van de Wet algemene bepalingen omgevingsrecht, voor zover het de geldende grenswaarden betreft die voortvloeien uit de in dat onderdeel genoemde artikelen van de Wet geluidhinder;  
 
 c. onderstaande bepalingen van de Wet bodembescherming voor zover de afwijking van die bepalingen geen gevaar voor de gezondheid van mens of dier oplevert: 
 
@@ -150,15 +150,7 @@ b. met als doel (drink)water te winnen uit de lucht.
 
 ### Artikel  6  
 
-1.  In een omgevingsvergunning ten behoeve van het bevorderen van duurzame en innovatieve toepassingen binnen: 
-
-a. het plangebied Spoorzone in de gemeente Eindhoven,  
-
-b. het CHV-terrein in de gemeente Veghel of  
-
-c. het project Dijckerwaal in de gemeente Westland,   die met toepassing van artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht kan worden verleend, wordt in afwijking van artikel 5.18, eerste lid, van het Besluit omgevingsrecht bepaald dat zij geldt voor een in de vergunning opgenomen termijn van ten hoogste vijftien jaar.   
-2.  In het plangebied Spoorzone in de gemeente Eindhoven en het project Dijckerwaal in de gemeente Westland is op de aanvraag om een omgevingsvergunning waarbij toepassing wordt gegeven aan artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht, artikel 3.10, eerste lid, onderdeel a, van die wet niet van toepassing.  
-3.  Een omgevingsvergunning voor een windturbine in de provincie Flevoland, die met toepassing van artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht wordt verleend, geldt in afwijking van artikel 5.18, eerste lid, van het Besluit omgevingsrecht voor een daarin aangegeven termijn van ten hoogste vijfentwintig jaar. 
+In het plangebied Spoorzone in de gemeente Eindhoven en het project Dijckerwaal in de gemeente Westland is op de aanvraag om een omgevingsvergunning waarbij ten behoeve van het bevorderen van duurzame en innovatieve toepassingen voor een activiteit voor een bepaalde termijn toepassing wordt gegeven aan artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht, artikel 3.10, eerste lid, onderdeel a, van die wet niet van toepassing.
 
 ### Artikel  6a  
 

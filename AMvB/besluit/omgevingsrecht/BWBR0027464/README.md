@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk  2  
 
-####Aanwijzing van categorieën inrichtingen, vergunningplichtige en vergunningvrije activiteiten en planologische gebruiksactiviteiten
+####Aanwijzing van categorieën inrichtingen, vergunningplichtige en vergunningvrije activiteiten en planologische gebruiksactiviteiten en nadere regels over planologische gebruiksactiviteiten
 
 ### §  2.1  
 
@@ -160,7 +160,7 @@ c. veranderen van de manier van verwerking van polyesterhars.
 ####Bouwen en planologische gebruiksactiviteiten
 
 1.  In afwijking van artikel 2.1, eerste lid, aanhef en onder a, van de wet is geen omgevingsvergunning vereist voor de categorieën gevallen in artikel 3 in samenhang met artikel 5 van bijlage II.   
-2.  In afwijking van artikel 2.1, eerste lid, aanhef en onder a en c, van de wet is geen omgevingsvergunning vereist voor de categorieën gevallen in artikel 2 in samenhang met artikel 5 en artikel 8 van bijlage II.  
+2.  In afwijking van artikel 2.1, eerste lid, aanhef en onder a of c, van de wet is geen omgevingsvergunning vereist voor de categorieën gevallen in artikel 2 in samenhang met artikel 5 en artikel 8 van bijlage II.  
 
 ### Artikel  2.4  
 
@@ -197,7 +197,7 @@ b. seizoensgebonden bouwwerken.
 
 ### §  2.3  
 
-####Aanwijzing van categorieën planologische gebruiksactiviteiten waarvoor een omgevingsvergunning kan worden verleend als bedoeld in artikel 2.12, eerste lid, onder a, onder 2°, van de wet
+####Aanwijzing van categorieën planologische gebruiksactiviteiten waarvoor een omgevingsvergunning kan worden verleend als bedoeld in artikel 2.12, eerste lid, onder a, onder 2°, van de wet en waarvoor een beoordeling van de gevolgen voor de luchtkwaliteit is vereist
 
 ### Artikel  2.7  
 
@@ -209,21 +209,15 @@ Als categorieën gevallen als bedoeld in artikel 2.12, eerste lid, onder a, onde
 
 ####Luchtkwaliteit
 
-Treedt in werking per 01-11-2014 
-
 Als categorieën gevallen als bedoeld in artikel 5.16, tweede lid, onder g, van de Wet milieubeheer waarbij bij het verlenen van een omgevingsvergunning met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet een beoordeling van de gevolgen voor de luchtkwaliteit als bedoeld in artikel 5.16, eerste lid, van de Wet milieubeheer is vereist, worden aangewezen de categorieën gevallen, bedoeld in artikel 4, onderdelen 9 en 11, van bijlage II. 
 
 ### §  2.4  
 
 ####Nadere regels over planologische gebruiksactiviteiten
 
-Treedt in werking per 01-11-2014 
-
 ### Artikel  2.9  
 
 ####Strijdige planologische gebruiksactiviteiten bij bouw bijbehorend bouwwerk
-
-Treedt in werking per 01-11-2014 
 
 Bij de vaststelling of het bouwen van een bijbehorend bouwwerk als bedoeld in artikel 1, eerste lid, van bijlage II in achtererfgebied als bedoeld in dat artikellid al dan niet in strijd is met het bestemmingsplan of de beheersverordening, worden reeds aanwezige bijbehorende bouwwerken in het bebouwingsgebied, bedoeld in dat artikellid, in mindering gebracht op het door het bestemmingsplan of de beheersverordening toegestane maximum van die bouwwerken. 
 
@@ -577,18 +571,10 @@ b. tot het bewaren van de geregistreerde gegevens gedurende ten minste vijf jare
 
 ### Artikel  5.9  
 
-####Afwijkende inwerkingtreding en geldingsduur van de voorschriften
+####Afwijkende geldingsduur voorschriften
 
-1. In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften: 
-
-a. eerst in werking treden op een daarbij aangegeven tijdstip, dan wel wanneer een daarbij aangegeven omstandigheid zich voordoet;  
-
-b. slechts gelden tot een daarbij aangegeven tijdstip, dan wel omstandigheid;  
-
-c. niet gelden gedurende een termijn van ten hoogste negen maanden voor het testen of gebruiken van technieken in opkomst; 
-
-d. nadat de omgevingsvergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven.    
-2.  In het eerste lid, onderdeel c, wordt onder techniek in opkomst verstaan: nieuwe techniek die, als zij commercieel zou worden ontwikkeld, hetzij een hoger algemeen beschermingsniveau voor het milieu, hetzij ten minste hetzelfde beschermingsniveau voor het milieu, en grotere kostenbesparingen kan opleveren dan de voor de desbetreffende activiteit bestaande beste beschikbare technieken. 
+1.  In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften niet gelden gedurende een termijn van ten hoogste negen maanden voor het testen of gebruiken van technieken in opkomst.   
+2.  Onder techniek in opkomst wordt verstaan: nieuwe techniek die, als zij commercieel zou worden ontwikkeld, hetzij een hoger algemeen beschermingsniveau voor het milieu, hetzij ten minste hetzelfde beschermingsniveau voor het milieu, en grotere kostenbesparingen kan opleveren dan de voor de desbetreffende activiteit bestaande best beschikbare technieken. 
 
 ### Artikel  5.10  
 
@@ -690,47 +676,22 @@ Indien de omgevingsvergunning betrekking heeft op een activiteit als bedoeld in 
 
 ### §  5.4  
 
-####Aanwijzing van categorieën gevallen waarin een tijdelijke of een persoonsgebonden omgevingsvergunning wordt verleend
+####Aanwijzing van categorieën gevallen waarin:
+
+– een termijn met daaraan gekoppeld een herstelplicht aan de omgevingsvergunning wordt verbonden; – een persoonsgebonden omgevingsvergunning wordt verleend 
 
 ### Artikel  5.16  
 
 ####Bouwen
 
-1.  In een omgevingsvergunning voor het bouwen, bedoeld in artikel 2.1, eerste lid, onder a, van de wet: 
-
-a. van een bouwwerk, bestemd om in een tijdelijke behoefte te voorzien;  
-
-b. van een bouwwerk dat slechts toelaatbaar is ingevolge een voorlopige bestemming,   wordt bepaald dat zij slechts geldt voor een daarin aangegeven termijn.   
-2.  In de categorie gevallen, bedoeld in het eerste lid, aanhef en onder a, is de termijn ten hoogste vijf jaar.   
-3.  In de categorie gevallen, bedoeld in het eerste lid, aanhef en onder b, wordt de termijn bepaald overeenkomstig hetgeen bij het bestemmingsplan omtrent de duur van de bestemming is bepaald.   
-4.  De in de omgevingsvergunning aangegeven termijn kan worden verlengd, met dien verstande dat: 
-
-a. de termijn ten aanzien van een bouwwerk als bedoeld in het eerste lid, onder a, voor zover het betreft een woning, slechts kan worden verlengd, indien een kortere termijn dan vijf jaar is gesteld, en wel tot ten hoogste vijf jaar;  
-
-b. de termijn ten aanzien van een bouwwerk als bedoeld in het eerste lid, onder b, slechts kan worden verlengd, indien de duur van de voorlopige bestemming inmiddels is verlengd.     
-5.  In de categorieën gevallen, bedoeld in het eerste lid, is de vergunninghouder na het verstrijken van de in de omgevingsvergunning aangegeven termijn gehouden het bouwwerk terstond te zijner keuze hetzij te slopen, hetzij in overeenstemming te brengen met de van toepassing zijnde voorschriften.  
-
-### Artikel  5.17  
-
-####Werken
-
-1.  In een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder b, van de wet, wordt, indien het werk of de werkzaamheid slechts toelaatbaar is ingevolge een voorlopige bestemming of voorlopige gebruiksregel, bepaald dat zij slechts geldt voor een daarin aangegeven termijn. Die termijn wordt bepaald overeenkomstig hetgeen bij het bestemmingsplan omtrent de duur van de bestemming is bepaald.   
-2.  Na het verstrijken van de in de omgevingsvergunning, bedoeld in het eerste lid, aangegeven termijn is de vergunninghouder gehouden terstond te zijner keuze hetzij de voor de verlening van de omgevingsvergunning bestaande toestand te herstellen, hetzij die met de van toepassing zijnde voorschriften van het bestemmingsplan of de beheersverordening in overeenstemming te brengen.  
+1.  In een omgevingsvergunning voor het bouwen, bedoeld in artikel 2.1, eerste lid, onder a, van de wet, van een tijdelijk bouwwerk als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012, wordt bepaald dat de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn van ten hoogste vijftien jaar verplicht is de voor de verlening van de omgevingsvergunning bestaande toestand hersteld te hebben.   
+2.  Indien de in de omgevingsvergunning aangegeven termijn korter is dan vijftien jaar, kan die termijn worden verlengd tot ten hoogste vijftien jaar.  
 
 ### Artikel  5.18  
 
 ####Planologische gebruiksactiviteiten
 
-1.  In een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet, die voorziet in een tijdelijke behoefte, wordt bepaald dat zij slechts geldt voor een daarin aangegeven termijn van ten hoogste vijf jaar.   
-2.  Na het verstrijken van de in de omgevingsvergunning, bedoeld in het eerste lid, aangegeven termijn is de vergunninghouder gehouden terstond te zijner keuze hetzij de voor de verlening van de omgevingsvergunning bestaande toestand te herstellen, hetzij die met de van toepassing zijnde voorschriften van het bestemmingsplan of de beheersverordening in overeenstemming te brengen.   
-3.  Voor zover de activiteit waarop de omgevingsvergunning, bedoeld in het eerste lid, betrekking heeft tevens een activiteit is als bedoeld in artikel 2.1, eerste lid, onder a, van de wet, geeft de vergunninghouder uitvoering aan het tweede lid door het bouwwerk terstond te zijner keuze hetzij te slopen, hetzij in overeenstemming te brengen met de van toepassing zijnde voorschriften.   
-4.  Als geval als bedoeld in artikel 2.25, derde lid, van de wet waarin de omgevingsvergunning slechts geldt voor degene aan wie zij is verleend, wordt aangewezen de omgevingsvergunning voor het bewonen van een recreatiewoning die met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet in samenhang met artikel 4, onderdeel 10, van bijlage II is verleend. In een omgevingsvergunning als bedoeld in de eerste volzin wordt bepaald dat zij slechts geldt voor de termijn gedurende welke degene aan wie de vergunning is verleend de desbetreffende recreatiewoning onafgebroken bewoont.  
-
-### Artikel  5.19  
-
-####Relatie met Grondwaterrichtlijn
-
-In een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de wet voor een inrichting waar activiteiten worden verricht als bedoeld in artikel 4 of 5 van richtlijn nr. 80/68/EEG van de Raad van de Europese Gemeenschappen van 17 december 1979 betreffende de bescherming van het grondwater tegen verontreiniging veroorzaakt door de lozing van bepaalde gevaarlijke stoffen (PbEG 1980, L 20) wordt bepaald dat zij geldt voor een daarin aangegeven termijn van ten hoogste vijf jaar. 
+Als geval als bedoeld in artikel 2.25, derde lid, van de wet waarin de omgevingsvergunning slechts geldt voor degene aan wie zij is verleend, wordt aangewezen de omgevingsvergunning voor het bewonen van een recreatiewoning die met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet in samenhang met artikel 4, onderdeel 10, van bijlage II is verleend. In een omgevingsvergunning als bedoeld in de eerste volzin wordt bepaald dat zij slechts geldt voor de termijn gedurende welke degene aan wie de vergunning is verleend de desbetreffende recreatiewoning onafgebroken bewoont. 
 
 ### §  5.5  
 
@@ -847,11 +808,22 @@ De artikelen 6.8 en 6.9 zijn niet van toepassing in gevallen als bedoeld in 3.10
 ####Aanvraag
 
 1.  Indien een inrichting belangrijke nadelige gevolgen voor het milieu in een andere lidstaat van de Europese Unie kan veroorzaken, dan wel indien een andere lidstaat van de Europese Unie die belangrijke nadelige gevolgen voor het milieu van een inrichting kan ondervinden, daarom verzoekt, verstrekt het bevoegd gezag een afschrift van de aanvraag met de daarbij behorende gegevens en bescheiden aan die lidstaat op het tijdstip waarop daarvan in Nederland kennis wordt gegeven dan wel de aanvraag met de daarbij behorende gegevens en bescheiden in Nederland ter inzage wordt gelegd.   
-2.  Indien een aanvraag met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet betreft: 
+2.  In gevallen als bedoeld in het derde lid verstrekt het bevoegd gezag een afschrift van de aanvraag met de daarbij behorende gegevens en bescheiden aan Onze Minister van Defensie op het tijdstip waarop: 
 
-a. een antenne-installatie als bedoeld in artikel 4, onderdeel 5, van bijlage II in een in het bestemmingsplan of de beheersverordening opgenomen obstakelbeheergebied rondom een militaire luchthaven, of  
+a. kennis wordt gegeven van de aanvraag, of  
 
-b. het gebruiken van gronden of bouwwerken ten behoeve van evenementen, bedoeld in artikel 4, onderdeel 8, van bijlage II, in een A- of B-veiligheidszone rondom een munitieopslag,   verstrekt het bevoegd gezag een afschrift van de aanvraag met de daarbij behorende gegevens en bescheiden aan Onze Minister van Defensie op het tijdstip waarop kennis wordt gegeven van de aanvraag dan wel de aanvraag met de daarbij behorende gegevens en bescheiden ter inzage wordt gelegd.  
+b. de aanvraag met de daarbij behorende gegevens en bescheiden ter inzage wordt gelegd.     
+3.  Het tweede lid is van toepassing op een aanvraag voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet: 
+
+a. die plaatsvindt in een in het bestemmingsplan of de beheersverordening opgenomen obstakelbeheergebied rondom een militaire luchthaven en betrekking heeft op een antenne-installatie als bedoeld in artikel 4, onderdeel 5, van bijlage II;  
+
+b. die plaatsvindt in een A- of B-veiligheidszone rondom een munitieopslag en betrekking heeft op: 
+
+1°. een bijbehorend bouwwerk of uitbreiding daarvan als bedoeld in artikel 4, onderdeel 1, van bijlage II, voor zover het betreft huisvesting in verband met mantelzorg als bedoeld in artikel 1, eerste lid, van die bijlage;  
+
+2°. het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, bedoeld in artikel 4, onderdeel 9, van bijlage II, voor zover het betreft een buiten de bebouwde kom gelegen logiesfunctie voor werknemers;  
+
+3°. ander gebruik van gronden of bouwwerken voor een termijn van ten hoogste tien jaar als bedoeld in artikel 4, onderdeel 11, van bijlage II, voor zover dat gebruik strekt tot het mogelijk maken van het verblijf van personen.     
 
 ### Artikel  6.12  
 
@@ -2455,11 +2427,13 @@ c. 40 dB(A) tussen 23.00 en 07.00 uur.
 
 1. In deze bijlage wordt verstaan onder: 
 
-*achtererfgebied:* erf aan de achterkant en de niet naar openbaar toegankelijk gebied gekeerde zijkant, op meer dan 1 m van de voorkant, van het hoofdgebouw;  
+*achtererfgebied:* erf achter de lijn die het hoofdgebouw doorkruist op 1 m achter de voorkant en van daaruit evenwijdig loopt met het aangrenzend openbaar toegankelijk gebied, zonder het hoofdgebouw opnieuw te doorkruisen of in het erf achter het hoofdgebouw te komen;  
 
 *antennedrager:* antennemast of andere constructie bedoeld voor de bevestiging van een antenne;  
 
 *antenne-installatie:* installatie bestaande uit een antenne, een antennedrager, de bedrading en de al dan niet in een of meer techniekkasten opgenomen apparatuur, met de daarbij behorende bevestigingsconstructie;  
+
+*bebouwingsgebied:* achtererfgebied alsmede de grond onder het hoofdgebouw, uitgezonderd de grond onder het oorspronkelijk hoofdgebouw; 
 
 *bijbehorend bouwwerk:* uitbreiding van een hoofdgebouw dan wel functioneel met een zich op hetzelfde perceel bevindend hoofdgebouw verbonden, daar al dan niet tegen aangebouwd gebouw, of ander bouwwerk, met een dak;  
 
@@ -2471,7 +2445,11 @@ c. 40 dB(A) tussen 23.00 en 07.00 uur.
 
 *hoofdgebouw:* gebouw, of gedeelte daarvan, dat noodzakelijk is voor de verwezenlijking van de geldende of toekomstige bestemming van een perceel en, indien meer gebouwen op het perceel aanwezig zijn, gelet op die bestemming het belangrijkst is;  
 
-*openbaar toegankelijk gebied:* weg als bedoeld in artikel 1, eerste lid, onder b, van de Wegenverkeerswet 1994, alsmede pleinen, parken, plantsoenen, openbaar water en ander openbaar gebied dat voor publiek algemeen toegankelijk is, met uitzondering van wegen uitsluitend bedoeld voor de ontsluiting van percelen door langzaam verkeer;  
+*huisvesting in verband met mantelzorg:* huisvesting in of bij een woning van één huishouden van maximaal twee personen, van wie ten minste één persoon mantelzorg verleent aan of ontvangt van een bewoner van de woning; 
+
+*mantelzorg:* intensieve zorg of ondersteuning, die niet in het kader van een hulpverlenend beroep wordt geboden aan een hulpbehoevende, ten behoeve van zelfredzaamheid of participatie, rechtstreeks voortvloeiend uit een tussen personen bestaande sociale relatie, die de gebruikelijke hulp van huisgenoten voor elkaar overstijgt, en waarvan de behoefte met een verklaring van een huisarts, wijkverpleegkundige of andere door de gemeente aangewezen sociaal-medisch adviseur kan worden aangetoond; 
+
+*openbaar toegankelijk gebied:* weg als bedoeld in artikel 1, eerste lid, onder b, van de Wegenverkeerswet 1994, alsmede pleinen, parken, plantsoenen, openbaar vaarwater en ander openbaar gebied dat voor publiek algemeen toegankelijk is, met uitzondering van wegen uitsluitend bedoeld voor de ontsluiting van percelen door langzaam verkeer;  
 
 *voorerfgebied:* erf dat geen onderdeel is van het achtererfgebied;  
 
@@ -2487,7 +2465,9 @@ b. hoogten vanaf het aansluitend afgewerkt terrein, waarbij plaatselijke, niet b
 
 c. maten buitenwerks, waarbij uitstekende delen van ondergeschikte aard tot maximaal 0,5 m buiten beschouwing blijven.    
 
-3. Bij de toepassing van het tweede lid, aanhef en onderdeel b, wordt een bouwwerk, voor zover dit zich bevindt op een erf- of perceelgrens, gemeten aan de kant waar het aansluitend afgewerkt terrein het hoogst is.   
+3. Bij de toepassing van het tweede lid, aanhef en onderdeel b, wordt een bouwwerk, voor zover dit zich bevindt op een erf- of perceelgrens, gemeten aan de kant waar het aansluitend afgewerkt terrein het hoogst is.  
+
+4.Voor de toepassing van deze bijlage wordt huisvesting in verband met mantelzorg aangemerkt als functioneel verbonden met het hoofdgebouw. 
 
 ### Hoofdstuk  II  
 
@@ -2495,43 +2475,47 @@ c. maten buitenwerks, waarbij uitstekende delen van ondergeschikte aard tot maxi
 
 ### Artikel  2  
 
-Een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.1, eerste lid, onder a en c, van de wet is niet vereist, indien deze activiteiten betrekking hebben op: 
+Een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.1, eerste lid, onder a of c, van de wet is niet vereist, indien deze activiteiten betrekking hebben op: 
 
-1. gewoon onderhoud, voor zover detaillering, profilering en vormgeving niet wijzigen;  
+1. gewoon onderhoud van een bouwwerk, voor zover detaillering, profilering en vormgeving van dat bouwwerk niet wijzigen;  
 
 2. werkzaamheden ingevolge een besluit als bedoeld in artikel 13, 13a of 14 van de Woningwet;  
 
-3. een op de grond staand bijbehorend bouwwerk in achtererfgebied, mits wordt voldaan aan de volgende eisen: 
+3. een op de grond staand bijbehorend bouwwerk of uitbreiding daarvan in achtererfgebied, mits wordt voldaan aan de volgende eisen: 
 
-a. voor zover op een afstand van niet meer dan 2,5 m van het oorspronkelijk hoofdgebouw, niet hoger dan: 
+a. voor zover op een afstand van niet meer dan 4 m van het oorspronkelijk hoofdgebouw, niet hoger dan: 
 
-1°. 4 m,  
+1°. 5 m,  
 
 2°. 0,3 m boven de bovenkant van de scheidingsconstructie met de tweede bouwlaag van het hoofdgebouw, en  
 
 3°. het hoofdgebouw,    
 
-b. voor zover op een afstand van meer dan 2,5 m van het oorspronkelijk hoofdgebouw: 
+b. voor zover op een afstand van meer dan 4 m van het oorspronkelijk hoofdgebouw: 
 
-1°. niet hoger dan 3 m,  
+1°. indien hoger dan 3 m: voorzien van een schuin dak, de dakvoet niet hoger dan 3 m, de daknok gevormd door twee of meer schuine dakvlakken, met een hellingshoek van niet meer dan 55°, en waarbij de hoogte van de daknok niet meer is dan 5 m en verder wordt begrensd door de volgende formule: maximale daknokhoogte [m] = (afstand daknok tot de perceelsgrens [m] x 0,47) + 3;  
 
-2°. de oppervlakte van vergunningvrije bijbehorende bouwwerken binnen een afstand van 1 m van een naburig erf niet meer dan 10 m<sup>2</sup>,  
-
-3°. als gevolg van het bijbehorende bouwwerk de totale oppervlakte van vergunningvrije bijbehorende bouwwerken op een afstand van meer dan 2,5 m van het oorspronkelijk hoofdgebouw niet meer dan 30 m<sup>2</sup>, en  
-
-4°. functioneel ondergeschikt aan het hoofdgebouw,    
+2°. functioneel ondergeschikt aan het hoofdgebouw, tenzij het betreft huisvesting in verband met mantelzorg,    
 
 c. op een afstand van meer dan 1 m vanaf openbaar toegankelijk gebied, tenzij geen redelijke eisen van welstand van toepassing zijn,  
 
-d. niet voorzien van een dakterras, balkon of andere niet op de grond gelegen buitenruimte,  
+d. de ligging van een verblijfsgebied als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012, in geval van meer dan een bouwlaag, uitsluitend op de eerste bouwlaag,  
 
-e. het bij het oorspronkelijk hoofdgebouw behorende achtererfgebied als gevolg van het bijbehorende bouwwerk voor niet meer dan 50% bebouwd, en  
+e. niet voorzien van een dakterras, balkon of andere niet op de grond gelegen buitenruimte,  
 
-f. niet aan of bij: 
+f. de oppervlakte van al dan niet met vergunning gebouwde bijbehorende bouwwerken in het bebouwingsgebied bedraagt niet meer dan: 
+
+1°. in geval van een bebouwingsgebied kleiner dan of gelijk aan 100 m<sup>2</sup>: 50% van dat bebouwingsgebied,  
+
+2°. in geval van een bebouwingsgebied groter dan 100 m<sup>2</sup> en kleiner dan of gelijk aan 300 m<sup>2</sup>: 50 m<sup>2</sup>, vermeerderd met 20% van het deel van het bebouwingsgebied dat groter is dan 100 m<sup>2</sup>,  
+
+3°. in geval van een bebouwingsgebied groter dan 300 m<sup>2</sup>: 90 m<sup>2</sup>, vermeerderd met 10% van het deel van het bebouwingsgebied dat groter is dan 300 m<sup>2</sup>, tot een maximum van in totaal 150 m<sup>2</sup>,    
+
+g. niet aan of bij: 
 
 1°. een woonwagen,  
 
-2°. een hoofdgebouw waarvoor in de omgevingsvergunning voor het bouwen daarvan is bepaald dat het slechts voor een bepaalde periode in stand mag worden gehouden, of  
+2°. een hoofdgebouw waarvoor in de omgevingsvergunning voor het bouwen daarvan is bepaald dat de vergunninghouder na het verstrijken van een bij die vergunning aangegeven termijn verplicht is de voor de verlening van de vergunning bestaande toestand hersteld te hebben,  
 
 3°. een bouwwerk ten behoeve van recreatief nachtverblijf door één huishouden;      
 
@@ -2565,7 +2549,7 @@ b. indien in een ander dakvlak dan bedoeld in onderdeel a,
 
 2°. ingeval geen redelijke eisen van welstand van toepassing zijn, de constructie niet meer dan 0,6 m buiten het dakvlak uitsteekt, en    
 
-c. zijkanten meer dan 0,5 m van de randen van het dakvlak of het platte dak;    
+c. zijkanten, onder- en bovenzijde meer dan 0,5 m van de randen van het dakvlak of het platte dak;    
 
 6. een collector voor warmteopwekking of een paneel voor elektriciteitsopwekking op een dak, mits wordt voldaan aan de volgende eisen: 
 
@@ -2581,7 +2565,7 @@ b. indien op een plat dak: afstand tot de zijkanten van het dak ten minste gelij
 
 c. indien de collector of het paneel niet één geheel vormt met de installatie voor het opslaan van het water of het omzetten van de opgewekte elektriciteit: die installatie aan de binnenzijde van een bouwwerk is geplaatst;    
 
-7. een kozijn, kozijninvulling of gevelpaneel, mits in de achtergevel, of een niet naar openbaar toegankelijk gebied gekeerde zijgevel van een hoofdgebouw, dan wel in een gevel van een bijbehorend bouwwerk;  
+7. een kozijn, kozijninvulling of gevelpaneel, mits in de achtergevel, of een niet naar openbaar toegankelijk gebied gekeerde zijgevel van een hoofdgebouw, dan wel in een gevel van een bijbehorend bouwwerk, voor zover die gevel is gelegen in achtererfgebied op een afstand van meer dan 1 m vanaf openbaar toegankelijk gebied, tenzij geen redelijke eisen van welstand van toepassing zijn;  
 
 8. een zonwering, rolhek, luik of rolluik aan of in een gebouw, mits bij een rolhek, luik of rolluik in een voorgevel of een naar openbaar toegankelijk gebied gekeerde zijgevel van een ander hoofdgebouw dan een woning of woongebouw, wordt voldaan aan de volgende eisen: 
 
@@ -2649,7 +2633,7 @@ c. de antennedrager bij plaatsing op het dak van een gebouw:
 
 17. een andere antenne-installatie dan bedoeld in de onderdelen 15 en 16, mits wordt voldaan aan de volgende eisen: 
 
-a. de antenne-installatie achter de voorgevelrooilijn geplaatst,  
+a. de antenne-installatie achter het voorerfgebied geplaatst,  
 
 b. indien het een schotelantenne betreft: 
 
@@ -2667,7 +2651,7 @@ a. een bouwwerk ten behoeve van een nutsvoorziening, de waterhuishouding, het me
 
 2°. de oppervlakte niet meer dan 15 m<sup>2</sup>,    
 
-b. een bouwwerk, geen gebouw zijnde, ten behoeve van het weren van voorwerpen die de veiligheid van het weg-, spoorweg-, water- of luchtverkeer in gevaar kunnen brengen, ten behoeve van de beveiliging van een weg, spoor- of waterweg of een spoorweg- of luchtvaartterrein, of ten behoeve van verkeersregeling, verkeersgeleiding, wegaanduiding, het opladen van accu’s van voertuigen met een elektromotor als hoofdmotor, verlichting of tolheffing,  
+b. een bouwwerk, geen gebouw zijnde, ten behoeve van het weren van voorwerpen die de veiligheid van het weg-, spoorweg-, water- of luchtverkeer in gevaar kunnen brengen, ten behoeve van de beveiliging van een weg, spoor- of waterweg of een spoorweg- of luchtvaartterrein, of ten behoeve van verkeersregeling, verkeersgeleiding, handhaving van de verkeersregels, wegaanduiding, het opladen van accu’s van voertuigen, verlichting, tolheffing of het verschaffen van toegang tot het openbaar vervoer of openbaar vervoersgebouwen,  
 
 c. bovenleidingen met de bijbehorende draagconstructies of seinpalen,  
 
@@ -2693,11 +2677,11 @@ b. de magazijnstelling niet is voorzien van een verdiepingsvloer of loopbrug;
 
 21. een ander bouwwerk in voor- of achtererfgebied, mits wordt voldaan aan de volgende eisen: 
 
-a. niet hoger dan 1 m,  
+a. niet hoger dan 1 m, en  
 
-b. de oppervlakte niet meer dan 2 m<sup>2</sup>, en  
+b. de oppervlakte niet meer dan 2 m<sup>2</sup>;    
 
-c. het voor- of achtererfgebied als gevolg van het bouwwerk voor niet meer dan 50% bebouwd.     
+22. het gebruiken van een bestaand bouwwerk voor huisvesting in verband met mantelzorg.  
 
 ### Hoofdstuk  III  
 
@@ -2707,7 +2691,15 @@ c. het voor- of achtererfgebied als gevolg van het bouwwerk voor niet meer dan 5
 
 Een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, van de wet is niet vereist, indien deze activiteit betrekking heeft op: 
 
-1. een op de grond staand bijbehorend bouwwerk in achtererfgebied, mits niet hoger dan 5 m;  
+1. een op de grond staand bijbehorend bouwwerk of uitbreiding daarvan in achtererfgebied, mits wordt voldaan aan de volgende eisen: 
+
+a. niet hoger dan 5 m,  
+
+b. op een afstand van meer dan 1 m vanaf openbaar toegankelijk gebied, tenzij geen redelijke eisen van welstand van toepassing zijn,  
+
+c. de ligging van een verblijfsgebied als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012, in geval van meer dan een bouwlaag, uitsluitend op de eerste bouwlaag, en  
+
+d. niet voorzien van een dakterras, balkon of andere niet op de grond gelegen buitenruimte;    
 
 2. een op de grond staand bouwwerk ten behoeve van recreatief nachtverblijf, mits wordt voldaan aan de volgende eisen: 
 
@@ -2715,7 +2707,7 @@ a. niet hoger dan 5 m, en
 
 b. de oppervlakte niet meer dan 70 m<sup>2</sup>;    
 
-3. een dakkapel in het voordakvlak of een naar openbaar toegankelijk gebied gekeerd zijdakvlak, mits wordt voldaan aan de volgende eisen: 
+3. een dakkapel in het voordakvlak, een naar openbaar toegankelijk gebied gekeerd zijdakvlak of, voor zover het betreft een bouwwerk als bedoeld in artikel 2, onderdeel 4, onder f, het achterdakvlak, mits wordt voldaan aan de volgende eisen: 
 
 a. redelijke eisen van welstand zijn niet van toepassing;  
 
@@ -2739,11 +2731,11 @@ b. uitsluitend functionerend met behulp van de zwaartekracht of de fysieke krach
 
 6. een bouwwerk, geen gebouw zijnde, in achtererfgebied ten behoeve van agrarische bedrijfsvoering, voor zover het betreft: 
 
-a. een voeder- of mestsilo, of  
+a. een silo, of  
 
 b. een ander bouwwerk niet hoger dan 2 m;   
 
-7. een buisleiding als bedoeld in artikel 1, eerste lid, van het Besluit externe veiligheid buisleidingen;  
+7. een buisleiding waarop artikel 2, onderdeel 18, niet van toepassing is;  
 
 8. een verandering van een bouwwerk, mits wordt voldaan aan de volgende eisen: 
 
@@ -2773,19 +2765,13 @@ Een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste l
 
 ### Artikel  4  
 
-Voor verlening van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet van het bestemmingsplan of de beheersverordening wordt afgeweken, komen in aanmerking: 
+Voor verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet van het bestemmingsplan of de beheersverordening wordt afgeweken, komen in aanmerking: 
 
-1. een bijbehorend bouwwerk: 
+1. een bijbehorend bouwwerk of uitbreiding daarvan, mits, voor zover gelegen buiten de bebouwde kom, wordt voldaan aan de volgende eisen: 
 
-a. binnen de bebouwde kom,  
+a. niet hoger dan 5 m, tenzij sprake is van een kas of bedrijfsgebouw van lichte constructie ten dienste van een agrarisch bedrijf,  
 
-b. buiten de bebouwde kom, mits wordt voldaan aan de volgende eisen: 
-
-1°. niet hoger dan 5 m, tenzij sprake is van een kas of bedrijfsgebouw van lichte constructie ten dienste van een agrarisch bedrijf,  
-
-2°. de oppervlakte niet meer dan 150 m<sup>2</sup>, en  
-
-3°. het bouwen niet tot gevolg heeft dat het aansluitend terrein voor meer dan 50% wordt bebouwd dan wel dat de oppervlakte die op grond van het bestemmingsplan of de beheersverordening voor bebouwing in aanmerking komt voor meer dan 50% wordt overschreden;      
+b. de oppervlakte niet meer dan 150 m<sup>2</sup>;    
 
 2. een gebouw ten behoeve van een infrastructurele of openbare voorziening als bedoeld in artikel 2, onderdeel 18, onder a, dat niet voldoet aan de in dat subonderdeel genoemd eisen, mits wordt voldaan aan de volgende eisen: 
 
@@ -2793,13 +2779,13 @@ a. niet hoger dan 5 m, en
 
 b. de oppervlakte niet meer dan 50 m²;    
 
-3. een bouwwerk, geen gebouw zijnde, mits wordt voldaan aan de volgende eisen: 
+3. een bouwwerk, geen gebouw zijnde, of een gedeelte van een dergelijk bouwwerk, mits wordt voldaan aan de volgende eisen: 
 
 a. niet hoger dan 10 m, en  
 
 b. de oppervlakte niet meer dan 50 m²;    
 
-4. een dakkapel, dakopbouw of gelijksoortige uitbreiding van een gebouw;  
+4. een dakkapel, dakopbouw of gelijksoortige uitbreiding van een gebouw dan wel de uitbreiding van een bouwwerk met een bouwdeel van ondergeschikte aard;  
 
 5. een antenne-installatie, mits niet hoger dan 40 m;  
 
@@ -2807,13 +2793,9 @@ b. de oppervlakte niet meer dan 50 m²;
 
 7. een installatie bij een agrarisch bedrijf waarmee duurzame energie wordt geproduceerd door het bewerken van uitwerpselen van dieren tot krachtens artikel 5, tweede lid, van het Uitvoeringsbesluit Meststoffenwet aangewezen eindproducten van een krachtens dat artikellid omschreven bewerkingsprocedé dat ziet op het vergisten van ten minste 50 gewichtsprocenten uitwerpselen van dieren met in de omschrijving van dat procedé genoemde nevenbestanddelen;  
 
-8. het gebruiken van gronden of bouwwerken ten behoeve van evenementen met een maximum van drie per jaar en een duur van ten hoogste vijftien dagen per evenement, het opbouwen en afbreken van voorzieningen ten behoeve van het evenement hieronder begrepen;  
+8. het gebruiken van gronden voor een niet-ingrijpende herinrichting van openbaar gebied;  
 
-9. het gebruiken van bouwwerken, al dan niet in samenhang met inpandige bouwactiviteiten, mits wordt voldaan aan de volgende eisen: 
-
-a. binnen de bebouwde kom, en  
-
-b. de oppervlakte niet meer dan 1500 m²;    
+9. het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers;  
 
 10. het gebruiken van een recreatiewoning voor bewoning, mits wordt voldaan aan de volgende eisen: 
 
@@ -2823,7 +2805,9 @@ b. de bewoning niet in strijd is met de bij of krachtens de Wet milieubeheer, de
 
 c. de bewoner op 31 oktober 2003 de recreatiewoning als woning in gebruik had en deze sedertdien onafgebroken bewoont, en  
 
-d. de bewoner op 31 oktober 2003 meerderjarig was.     
+d. de bewoner op 31 oktober 2003 meerderjarig was;    
+
+11. ander gebruik van gronden of bouwwerken dan bedoeld in de onderdelen 1 tot en met 10, voor een termijn van ten hoogste tien jaar.  
 
 ### Hoofdstuk  V  
 
@@ -2845,7 +2829,7 @@ b. artikel 2, onderdelen 4 tot en met 21, of artikel 3, onderdelen 4 tot en met 
 
 a. artikel 2, onderdelen 1 en 2, of  
 
-b. artikel 2, onderdelen 3 tot en met 21, of artikel 3 voor zover het betreft: 
+b. artikel 2, onderdelen 4 tot en met 21, of artikel 3 voor zover het betreft: 
 
 1°. inpandige veranderingen,  
 
@@ -2857,7 +2841,13 @@ b. artikel 2, onderdelen 3 tot en met 21, of artikel 3 voor zover het betreft:
 
 ### Artikel  5  
 
-1. Bij de toepassing van de artikelen 2, 3 en 4 blijft het aantal woningen gelijk.  
+1. Bij de toepassing van de artikelen 2, 3 en 4 blijft het aantal woningen gelijk. Deze eis is niet van toepassing op de gevallen, bedoeld in: 
+
+a. de artikelen 2, onderdelen 3 en 22, en 3, onderdeel 1, voor zover het betreft huisvesting in verband met mantelzorg,  
+
+b. artikel 4, onderdeel 1, voor zover het betreft huisvesting in verband met mantelzorg,  
+
+c. artikel 4, onderdelen 9 en 11.   
 
 2. De artikelen 2 en 3 zijn niet van toepassing op een activiteit die plaatsvindt in, aan, op of bij een bouwwerk dat in strijd met artikel 2.1 van de wet is gebouwd of wordt gebruikt.  
 
@@ -2865,23 +2855,31 @@ b. artikel 2, onderdelen 3 tot en met 21, of artikel 3 voor zover het betreft:
 
 a. een in het bestemmingsplan of de beheersverordening opgenomen veiligheidszone, getypeerd als A-zone of B-zone, rondom een munitieopslag of een inrichting voor activiteiten met ontplofbare stoffen;  
 
-b. een ander gebied waarin die activiteit op grond van het bestemmingsplan of de beheersverordening niet is toegestaan vanwege het overschrijden van het plaatsgebonden risico van 10<sup>-6</sup> per jaar als gevolg van de aanwezigheid van een inrichting, transportroute of buisleiding dan wel vanwege de ligging in een belemmeringenstrook ten behoeve van het onderhoud van een buisleiding.    
+b. een gebied waarin die activiteit op grond van het bestemmingsplan of de beheersverordening niet is toegestaan vanwege het overschrijden van het plaatsgebonden risico van 10<sup>-6</sup> per jaar als gevolg van de aanwezigheid van een inrichting, transportroute of buisleiding dan wel vanwege de ligging in een belemmeringenstrook ten behoeve van het onderhoud van een buisleiding;  
+
+c. een gebied dat is gelegen binnen een van toepassing zijnde afstand als bedoeld in artikel 3.12, 3.18, 3.28, 3.30a, 4.3, 4.4, 4.5, 4.5a, 4.5b, 4.77 of 4.81 van het Activiteitenbesluit milieubeheer.   
 
 4. Artikel 3, onderdelen 1 en 2, is evenmin van toepassing voor zover voor het bouwwerk waarop de activiteit betrekking heeft krachtens het bestemmingsplan regels gelden die met toepassing van artikel 40 van de Monumentenwet 1988 in het belang van de archeologische monumentenzorg zijn gesteld, tenzij de oppervlakte van het bouwwerk minder dan 50 m<sup>2</sup> bedraagt.  
 
-5. Artikel 3, onderdeel 8, is evenmin van toepassing op een activiteit die tevens een activiteit is als bedoeld in artikel 2 of 3, onderdelen 1 tot en met 7, maar niet voldoet aan de in die artikelen ten aanzien van die activiteit gestelde eisen.   
+5. Artikel 3, onderdeel 8, is evenmin van toepassing op een activiteit die tevens een activiteit is als bedoeld in artikel 2, onderdelen 2 tot en met 21, of 3, onderdelen 1 tot en met 7, maar niet voldoet aan de in die artikelen ten aanzien van die activiteit gestelde eisen.  
+
+6.Artikel 4, onderdelen 9 en 11, is niet van toepassing op een activiteit als bedoeld in onderdeel C of D van de bijlage bij het Besluit milieueffectrapportage. 
 
 ### Artikel  6  
 
-Indien het hoofdgebouw geen woning is, maar op het perceel wel een of meer op de grond staande woningen aanwezig zijn, wordt: 
-
-a. bij de toepassing van artikel 2, onderdeel 3, en artikel 3, onderdelen 1 en 6, het achtererfgebied bepaald door het gebouw waarvan de voorkant het dichtst is gelegen bij openbaar toegankelijk gebied;  
-
-b. een op het perceel aanwezige woning voor de toepassing van artikel 2, onderdeel 3, onder a, tevens als hoofdgebouw aangemerkt.   
+Indien op een perceel meer gebouwen aanwezig zijn die noodzakelijk zijn voor de verwezenlijking van de geldende of toekomstige bestemming of indien het hoofdgebouw geen woning is, maar op het perceel wel een of meer op de grond staande woningen aanwezig zijn, wordt het achtererfgebied bepaald door het hoofdgebouw, de woning of een van de andere hiervoor bedoelde gebouwen, waarvan de voorkant het dichtst is gelegen bij openbaar toegankelijk gebied. 
 
 ### Artikel  7  
 
-Indien een bijbehorend bouwwerk als bedoeld in artikel 2, onderdeel 3, bestaat uit een deel dat op meer, en een deel dat op minder dan 2,5 m van het oorspronkelijk hoofdgebouw is gelegen en zich geen inwendige scheidingsconstructie bevindt tussen beide delen, is op het deel dat op minder dan 2,5 m van het oorspronkelijk hoofdgebouw is gelegen artikel 2, onderdeel 3, onder b, onderdeel 4°, van overeenkomstige toepassing. 
+1.Indien een bijbehorend bouwwerk als bedoeld in artikel 2, onderdeel 3, bestaat uit een deel dat op meer, en een deel dat op minder dan 4 m van het oorspronkelijk hoofdgebouw is gelegen en zich geen inwendige scheidingsconstructie bevindt tussen beide delen, is op het deel dat op minder dan 4 m van het oorspronkelijk hoofdgebouw is gelegen artikel 2, onderdeel 3, onder b, onderdeel 2°, van overeenkomstige toepassing.
+
+2.Als een bijbehorend bouwwerk als bedoeld in artikel 2, onderdeel 3, wordt gebruikt voor huisvesting in verband met mantelzorg, is onderdeel f van artikel 2, onderdeel 3, niet van toepassing, mits wordt voldaan aan de volgende eisen: 
+
+a. in zijn geheel of in delen verplaatsbaar,  
+
+b. de oppervlakte niet meer dan 100 m<sup>2</sup>, en  
+
+c. buiten de bebouwde kom.   
 
 ### Hoofdstuk  VI  
 
@@ -2889,7 +2887,11 @@ Indien een bijbehorend bouwwerk als bedoeld in artikel 2, onderdeel 3, bestaat u
 
 ### Artikel  8  
 
-Een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.1, eerste lid, onder a en c, van de wet is niet vereist, indien die activiteiten betrekking hebben op het bouwen van een bouwwerk dat reeds was aangevangen voor de inwerkingtreding van de wet en op het tijdstip waarop met dat bouwen is begonnen daarvoor krachtens de Woningwet geen bouwvergunning was vereist. 
+1.Een omgevingsvergunning voor activiteiten als bedoeld in artikel 2.1, eerste lid, onder a en c, van de wet is niet vereist, indien die activiteiten betrekking hebben op het bouwen van een bouwwerk dat reeds was aangevangen voor de inwerkingtreding van de wet en op het tijdstip waarop met dat bouwen is begonnen daarvoor krachtens de Woningwet geen bouwvergunning was vereist.
+
+2.Een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, c of f, van de wet is niet vereist, indien met die activiteit reeds was aangevangen voor het tijdstip van inwerkingtreding van een besluit tot wijziging van dit besluit en op het tijdstip van die aanvang geen omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onder a, c of f, voor die activiteit was vereist.
+
+3.Op een aanvraag om een omgevingsvergunning voor een activiteit waarvoor met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de wet een omgevingsvergunning kan worden verleend die is ingediend voor het tijdstip van inwerkingtreding van een besluit tot wijziging van dit besluit, waarop op dat tijdstip nog niet onherroepelijk is beslist, en betrekking heeft op een activiteit die bij die wijziging als activiteit als bedoeld in artikel 4 van deze bijlage is aangewezen, blijft het recht zoals dat voor dat tijdstip gold van toepassing. 
 
 ### Bijlage  III  
 

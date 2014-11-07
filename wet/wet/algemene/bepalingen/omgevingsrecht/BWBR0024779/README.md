@@ -246,7 +246,7 @@ e. de activiteit een wegtunnel als bedoeld in de Wet aanvullende regels veilighe
 
 ### Artikel  2.12  
 
-1.  Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, kan de omgevingsvergunning slechts worden verleend: 
+1.  Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, kan de omgevingsvergunning slechts worden verleend indien de activiteit niet in strijd is met een goede ruimtelijke ordening en: 
 
 a. indien de activiteit in strijd is met het bestemmingsplan of de beheersverordening: 
 
@@ -254,15 +254,14 @@ a. indien de activiteit in strijd is met het bestemmingsplan of de beheersverord
 
 2°. in de bij algemene maatregel van bestuur aangewezen gevallen, of  
 
-3°. indien de activiteit niet in strijd is met een goede ruimtelijke ordening en de motivering van het besluit een goede ruimtelijke onderbouwing bevat;    
+3°. in overige gevallen, indien de motivering van het besluit een goede ruimtelijke onderbouwing bevat;    
 
 b. indien de activiteit in strijd is met het exploitatieplan: met toepassing van de daarin opgenomen regels inzake afwijking; 
 
 c. indien de activiteit in strijd is met de regels die zijn gesteld krachtens artikel 4.1, derde lid, of 4.3, derde lid, van de Wet ruimtelijke ordening: voor zover de betrokken regels afwijking daarvan toestaan;  
 
 d. indien de activiteit in strijd is met een voorbereidingsbesluit: met toepassing van de in het voorbereidingsbesluit opgenomen regels inzake afwijking.     
-2.  In afwijking van het eerste lid, aanhef en onder a, onder 3°, kan de vergunning, voor zover zij betrekking heeft op een activiteit voor een bepaalde termijn, worden verleend, indien de activiteit niet in strijd is met een goede ruimtelijke ordening.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de inhoud van de ruimtelijke onderbouwing, bedoeld in het eerste lid, onder a, onder 3°.  
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de inhoud van de ruimtelijke onderbouwing, bedoeld in het eerste lid, onder a, onder 3°.  
 
 ### Artikel  2.13  
 
@@ -371,28 +370,26 @@ e. voorschriften die niet aan de omgevingsvergunning kunnen worden verbonden.
 
 ### Artikel  2.23  
 
-1.  In een omgevingsvergunning kan worden bepaald dat zij geheel of gedeeltelijk geldt voor een daarin aangegeven termijn.   
-2.  Bij algemene maatregel van bestuur kunnen categorieën gevallen worden aangewezen, waarin in de omgevingsvergunning wordt bepaald dat zij slechts geldt voor een daarbij aangegeven termijn. Bij de maatregel kan worden bepaald: 
+1.  In een omgevingsvergunning voor een voortdurende activiteit kan worden bepaald dat zij, voor zover zij betrekking heeft op die activiteit, geldt voor een daarbij aangegeven termijn.   
+2.  Bij algemene maatregel van bestuur kunnen ten aanzien van activiteiten als bedoeld in het eerste lid categorieën gevallen worden aangewezen waarin in de omgevingsvergunning wordt bepaald dat zij slechts geldt voor een daarbij aangegeven termijn. Bij de maatregel kan ten aanzien van die termijn worden bepaald: 
 
-a. dat de omgevingsvergunning voor ten hoogste een daarbij aangegeven termijn kan gelden of  
+a. een maximum gedurende welke deze kan gelden, of  
 
-b. in welke categorieën gevallen een bij de omgevingsvergunning aangegeven termijn kan worden verlengd.    
+b. in welke categorieën gevallen deze kan worden verlengd.    
 
 ### Artikel  2.23a  
-Treedt in werking per 01-11-2014 
 
 1.  In een omgevingsvergunning voor een aflopende activiteit kan worden bepaald dat, voor zover zij betrekking heeft op die activiteit, de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn, verplicht is de voor de verlening van de omgevingsvergunning bestaande toestand hersteld te hebben.   
 2.  Bij algemene maatregel van bestuur kunnen ten aanzien van activiteiten als bedoeld in het eerste lid categorieën gevallen worden aangewezen waarin in de omgevingsvergunning wordt bepaald dat op de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn, een plicht rust als bedoeld in het eerste lid. Ten aanzien van die termijn is artikel 2.23, tweede lid, laatste volzin, van overeenkomstige toepassing.  
 
 ### Artikel  2.23b  
-Treedt in werking per 01-11-2014 
 
 In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften nadat de vergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven. 
 
 ### Artikel  2.24  
 
-1.  Bij algemene maatregel van bestuur kan worden bepaald dat in daarbij aangewezen categorieën gevallen de vergunninghouder verplicht is te zijner keuze hetzij de voor de verlening van de omgevingsvergunning bestaande toestand te herstellen, hetzij die met de wettelijk voorgeschreven toestand in overeenstemming te brengen.   
-2.  In een omgevingsvergunning met betrekking tot een seizoensgebonden bouwwerk wordt bepaald binnen welke opeenvolgende tijdvakken van een kalenderjaar dat bouwwerk wordt opgericht, gebruikt en gesloopt.  
+1.  In een omgevingsvergunning met betrekking tot een seizoensgebonden bouwwerk kan worden bepaald dat het desbetreffende bouwwerk op grond van die vergunning gedurende opeenvolgende kalenderjaren kan worden gebouwd, gebruikt en gesloopt.   
+2.  In een omgevingsvergunning met betrekking tot een seizoensgebonden bouwwerk wordt bepaald binnen welke opeenvolgende tijdvakken van een kalenderjaar het bouwen, gebruiken en slopen van het desbetreffende bouwwerk plaatsvindt.  
 
 ### Artikel  2.25  
 
@@ -652,7 +649,7 @@ b. zendt het in bij algemene maatregel van bestuur aangewezen categorieën geval
 
 1.  Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van de beschikking op de aanvraag om een omgevingsvergunning, indien de aanvraag geheel of gedeeltelijk betrekking heeft op: 
 
-a. een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, voor zover er strijd is met het bestemmingsplan of een beheersverordening en slechts vergunning kan worden verleend met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, of artikel 2.12, tweede lid;  
+a. een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, voor zover er strijd is met het bestemmingsplan of een beheersverordening en slechts vergunning kan worden verleend met toepassing van artikel 2.12, eerste lid, onder a, onder 3°;  
 
 b. een activiteit als bedoeld in artikel 2.1, eerste lid, onder d;  
 

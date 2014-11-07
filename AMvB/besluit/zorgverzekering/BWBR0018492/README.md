@@ -84,11 +84,9 @@ aa.  *nominale rekenpremie:* een bij de berekening van de vereveningsbijdrage in
 
 bb.  *geraamde kosten:* de bij de ministeriële regeling, bedoeld in artikel 3.1, derde lid, bepaalde macro-deelbedragen, vermeerderd of verminderd met na vaststelling van deze deelbedragen maar voor 1 januari van het vereveningsjaar geraamde, bij ministeriële regeling te bepalen kosten die het gevolg zijn van wijzigingen in de over het vereveningsjaar op grond van een zorgverzekering te verzekeren prestaties waarmee bij het opstellen van de ministeriële regeling, bedoeld in artikel 3.1, derde lid, nog geen rekening kon worden gehouden;  
 
-cc.  *hogekostencompensatie:* het verrekenen met het Zorgverzekeringsfonds van een bij ministeriële regeling te bepalen percentage van de kosten van verzekerden met betrekking tot in dit besluit aangewezen deelbedragen, voor zover zij uitgaan boven een bij ministeriële regeling te omschrijven drempel;  
+cc.  *nacalculatie:* bijstelling van het deelbedrag op basis van het verschil tussen gerealiseerde kosten en het herberekende deelbedrag per zorgverzekeraar, per onderscheiden cluster van prestaties;  
 
-dd.  *nacalculatie:* bijstelling van het deelbedrag op basis van het verschil tussen gerealiseerde kosten en het herberekende deelbedrag per zorgverzekeraar, per onderscheiden cluster van prestaties;  
-
-ee.  *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunnen worden nagecalculeerd.   
+dd.  *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunnen worden nagecalculeerd.   
 
 ### Hoofdstuk  2  
 
@@ -545,11 +543,11 @@ Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte 
 ### Artikel  3.17  
 
 1.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan € 40,00 afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent na.   
-2.  Indien voor een zorgverzekeraar het verschil tussen het deelbedrag, bedoeld in artikel 3.16, tweede lid, en de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.  
+2.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «geneeskundige geestelijke gezondheidszorg» en anderzijds de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.  
 
 ###Artikel 3.18 
 
-Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen voor de clusters «variabele kosten van medisch-specialistische zorg» en «overige prestaties», de op grond van de artikelen 3.15 en 3.16 berekende nieuwe deelbedragen en, voor zover van toepassing, de op grond van artikel 3.17 berekende bedragen, tot één normatief bedrag per zorgverzekeraar.
+Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen voor de clusters «variabele kosten van medisch-specialistische zorg», «geneeskundige geestelijke gezondheidszorg» en «overige prestaties», het op grond van artikel 3.15 berekende nieuwe deelbedrag en, voor zover van toepassing, de op grond van artikel 3.17 berekende bedragen, tot één normatief bedrag per zorgverzekeraar.
 
 ### Artikel  3.19  
 
@@ -565,7 +563,7 @@ Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen v
 ### Artikel  3.20  
 
 1.  Het Zorginstituut kan het normatieve bedrag, bedoeld in artikel 3.18, en de vereveningsbijdrage, bedoeld in artikel 3.19, ten behoeve van een zorgverzekeraar voorlopig vaststellen.   
-2.  Het Zorginstituut kan bij een voorlopige vaststelling als bedoeld in het eerste lid de hogekostencompensatie, bedoeld in artikel 3.16, of de nacalculatie, bedoeld in de artikelen 3.15, 3.16 of 3.17, achterwege laten.  
+2.  Het Zorginstituut kan bij een voorlopige vaststelling als bedoeld in het eerste lid de nacalculatie, bedoeld in artikel 3.15 of 3.17, achterwege laten.  
 3.  Artikel 3.19, vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  3.21  

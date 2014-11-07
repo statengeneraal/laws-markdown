@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 november 2010, kenmerk Z/VV-3020244;
 
-Gelet op de [artikelen 18.4.1](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) en [18.4.3. van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md);
+Gelet op de artikelen 18.4.1 en 18.4.3. van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 6 december 2010, nummer  W13.10.0526/III);
 
@@ -22,7 +22,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a.  *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
-b.  *RCN:* de Rijksdienst Caribisch Nederland, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit BZK-BES](../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/BWBR0028832/README.md);  
+b.  *RCN:* de Rijksdienst Caribisch Nederland, genoemd in artikel 2 van het Organisatie- en mandaatbesluit BZK-BES;  
 
 c.  *Zorgverzekeringskantoor BES:* het onderdeel van het RCN dat ten behoeve van Onze Minister ten dienste staat aan de uitvoering van dit besluit;  
 
@@ -36,11 +36,11 @@ e. *instelling:*
 
 f.  *zorgaanbieder:* een instelling of persoon die zorg als bedoeld in artikel 6 verleent;  
 
-g.  *loon:* het loon, bedoeld in de [hoofdstukken II](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [III, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+g.  *loon:* het loon, bedoeld in de hoofdstukken II en III, van de Wet loonbelasting BES;  
 
-h.  *inkomen:* de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md);  
+h.  *inkomen:* de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES;  
 
-i.  *identificatiedocument:* de identiteitskaart, bedoeld in de [Wet identiteitskaarten BES](../../../../../wet-BES/wet/identiteitskaarten/bes/BWBR0028279/README.md);  
+i.  *identificatiedocument:* de identiteitskaart, bedoeld in de Wet identiteitskaarten BES;  
 
 j.  *identificatienummer:* het ID-nummer op het identificatiedocument;  
 
@@ -50,11 +50,11 @@ l.  *BZV:* Bureau Ziektekostenvoorzieningen;
 
 m.  *SVB:* Sociale Verzekeringsbank Nederlandse Antillen;  
 
-n.  *het College voor zorgverzekeringen:* het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+n.  *het College voor zorgverzekeringen:* het College voor zorgverzekeringen, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet;  
 
 o.  *inspecteur:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;  
 
-p.  *basisadministratie BES:* de basisadministratie, bedoeld in de [Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).   
+p.  *basisadministratie BES:* de basisadministratie, bedoeld in de Wet basisadministraties persoonsgegevens BES.   
 
 ### Artikel  2  
 
@@ -76,9 +76,9 @@ Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebie
 
 a. ingezetene is;  
 
-b. geen ingezetene is, doch op het grondgebied van de BES-eilanden in dienstbetrekking arbeid verricht ter zake waarvan het loon is onderworpen aan de [Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+b. geen ingezetene is, doch op het grondgebied van de BES-eilanden in dienstbetrekking arbeid verricht ter zake waarvan het loon is onderworpen aan de Wet loonbelasting BES;  
 
-c. voor zover deze niet reeds is begrepen in onderdeel a en b, op grond van de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) een verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd heeft gekregen dan wel die op grond van een Verklaring van Rechtswege op het grondgebied van de BES verblijft;  
+c. voor zover deze niet reeds is begrepen in onderdeel a en b, op grond van de Wet toelating en uitzetting BES een verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd heeft gekregen dan wel die op grond van een Verklaring van Rechtswege op het grondgebied van de BES verblijft;  
 
 d. degene die na afloop van een verleende vergunning voor bepaalde tijd tijdig een aanvraag heeft ingediend voor voortzetting daarvan of voor omzetting in een vergunning voor onbepaalde tijd, tot op die aanvraag onherroepelijk is beslist;  
 
@@ -97,7 +97,7 @@ e. de persoon die op het grondgebied van de BES-eilanden woont en aldaar arbeid 
 
 f. de Rijksvertegenwoordiger, diens echtgenoot en andere inwonende gezinsleden;  
 
-g. de persoon die niet beschikt over een verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd op grond van de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) dan wel die niet op grond van een Verklaring van Rechtswege op het grondgebied van de BES verblijft.     
+g. de persoon die niet beschikt over een verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd op grond van de Wet toelating en uitzetting BES dan wel die niet op grond van een Verklaring van Rechtswege op het grondgebied van de BES verblijft.     
 3.  Bij ministeriële regeling kan, zo nodig in afwijking van het eerste en tweede lid, verdere uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden.  
 
 ### Artikel  5  
@@ -147,7 +147,7 @@ k. langdurige zorg in verband met ouderdom, een ziekte of handicap, al dan niet 
 
 ### Artikel  7  
 
-Onze Minister beslist, na advies van het Zorgverzekeringskantoor BES, of de wijzigingen van de aard, inhoud en omvang van de prestaties die ingevolge een daartoe strekkend advies van het College voor zorgverzekeringen worden aangebracht in het wettelijk aansprakenpakket, bedoeld in [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [artikel 11 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), worden doorgevoerd in de aanspraken bedoeld in artikel 6 van dit besluit. 
+Onze Minister beslist, na advies van het Zorgverzekeringskantoor BES, of de wijzigingen van de aard, inhoud en omvang van de prestaties die ingevolge een daartoe strekkend advies van het College voor zorgverzekeringen worden aangebracht in het wettelijk aansprakenpakket, bedoeld in artikel 6 van de Algemene Wet Bijzondere Ziektekosten en artikel 11 van de Zorgverzekeringswet, worden doorgevoerd in de aanspraken bedoeld in artikel 6 van dit besluit. 
 
 ### §  3.2  
 
@@ -207,14 +207,14 @@ d. kan worden bepaald in welke gevallen geen toestemming wordt verleend.
 ### Artikel  11  
 
 1.  De verzekerde is een inkomensafhankelijke premie verschuldigd.   
-2.  De premie ten behoeve van dit besluit wordt geheven over het inkomen, met overeenkomstige toepassing van de [hoofdstukken V](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VI](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VII](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en [IX van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), de [hoofdstukken III](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [VI van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en de [hoofdstukken I](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [VII](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
-3.  Indien het inkomen meer bedraagt dan het in [artikel 24A, zevende lid, van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) genoemde bedrag, wordt over dat meerdere geen premie geheven.   
+2.  De premie ten behoeve van dit besluit wordt geheven over het inkomen, met overeenkomstige toepassing van de hoofdstukken V, VI, VII en IX van de Wet inkomstenbelasting BES, de hoofdstukken III en VI van de Wet loonbelasting BES en de hoofdstukken I, VII en VIII van de Belastingwet BES.   
+3.  Indien het inkomen meer bedraagt dan het in artikel 24A, zevende lid, van de Wet inkomstenbelasting BES genoemde bedrag, wordt over dat meerdere geen premie geheven.   
 4.  Het percentage van de premie, bedoeld in het eerste lid, wordt met ingang van elk kalenderjaar voor de periode van één jaar vastgesteld door Onze Minister in overeenstemming met Onze Minister van Financiën.  
 
 ### Artikel  12  
 
 1.  Ter zake van de kosten verbonden aan de geneeskundige verzorging, bedoeld in artikel 6, eerste lid, onderdelen a tot en met j, van dit besluit is de werkgever een premie verschuldigd.   
-2.  De door de werkgever verschuldigde premie ten behoeve van dit besluit wordt door de rijksbelastingdienst geheven over het inkomen, met overeenkomstige toepassing van de [hoofdstukken II](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [III, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md), met dien verstande dat in plaats van «inhoudingsplichtige» telkens wordt gelezen «werkgever».   
+2.  De door de werkgever verschuldigde premie ten behoeve van dit besluit wordt door de rijksbelastingdienst geheven over het inkomen, met overeenkomstige toepassing van de hoofdstukken II en III, van de Wet loonbelasting BES, met dien verstande dat in plaats van «inhoudingsplichtige» telkens wordt gelezen «werkgever».   
 3.  Het premiepercentage, bedoeld in het tweede lid, wordt met ingang van elk kalenderjaar voor de periode van één jaar vastgesteld door Onze Minister in overeenstemming met Onze Minister van Financiën.   
 4.  De premie wordt door de inspecteur geheven door middel van afdracht op aangifte.  
 
@@ -280,7 +280,7 @@ b. de bij de gegevensuitwisseling, bedoeld in het eerste en tweede lid, te verwe
 ### Artikel  20  
 
 1.  De zorgaanbieder raadpleegt de verzekerdenadministratie van het Zorgverzekeringskantoor BES met het uitsluitende doel te verifiëren of sprake is van een verzekerde in de zin van dit besluit.   
-2.  Een zorgaanbieder die aan een verzekerde zorg of andere diensten als bedoeld in artikel 6 heeft verleend, en die de kosten daarvan krachtens een door hem met Onze Minister gesloten overeenkomst rechtstreeks bij Onze Minister in rekening brengt, verstrekt Onze Minister of een door hem aan te wijzen persoon, kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens BES](../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md), die noodzakelijk zijn voor de uitvoering van dit besluit, dan wel stelt Onze Minister deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
+2.  Een zorgaanbieder die aan een verzekerde zorg of andere diensten als bedoeld in artikel 6 heeft verleend, en die de kosten daarvan krachtens een door hem met Onze Minister gesloten overeenkomst rechtstreeks bij Onze Minister in rekening brengt, verstrekt Onze Minister of een door hem aan te wijzen persoon, kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens BES, die noodzakelijk zijn voor de uitvoering van dit besluit, dan wel stelt Onze Minister deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
 3.  Personen werkzaam ten behoeve van een zorgaanbieder als bedoeld in het tweede lid, verstrekken die zorgaanbieder de persoonsgegevens die hij nodig heeft om te kunnen voldoen aan zijn verplichtingen als bedoeld in het eerste en tweede lid.   
 4.  Personen werkzaam bij het Zorgverzekeringskantoor BES, of bij een door Onze Minister aangewezen persoon als bedoeld in het tweede lid, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingplicht geldt, zijn verplicht tot geheimhouding van de gegevens, bedoeld in het eerste of tweede lid, behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat.   
 5.  Bij ministeriële regeling kan worden bepaald: 
@@ -295,14 +295,14 @@ d. aan welke beveiligingseisen gegevensverwerking voldoet.
 
 ### Artikel  21  
 
-1.  Een ieder verstrekt op verzoek aan Onze Minister, het Zorgverzekeringskantoor BES, de rijksbelastingdienst, of aan een daartoe door of vanwege een van deze personen en instanties aangewezen persoon, kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens BES](../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md), die noodzakelijk zijn voor de uitvoering van dit besluit.   
+1.  Een ieder verstrekt op verzoek aan Onze Minister, het Zorgverzekeringskantoor BES, de rijksbelastingdienst, of aan een daartoe door of vanwege een van deze personen en instanties aangewezen persoon, kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens BES, die noodzakelijk zijn voor de uitvoering van dit besluit.   
 2.  De in het eerste lid bedoelde gegevens en inlichtingen worden op verzoek verstrekt in schriftelijke vorm of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een termijn die schriftelijk wordt gesteld bij het in het eerste lid bedoelde verzoek.   
 3.  Een ieder geeft op verzoek van een rechtspersoon als bedoeld in het eerste lid, inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de ter zake verlangde medewerking, voor zover dit noodzakelijk is voor de uitvoering van dit besluit.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede en derde lid.  
 
 ### Artikel  22  
 
-1.  De in artikel 21, eerste lid, bedoelde instanties zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens BES](../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md), te verstrekken die noodzakelijk zijn voor de uitvoering van dit besluit.   
+1.  De in artikel 21, eerste lid, bedoelde instanties zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens BES, te verstrekken die noodzakelijk zijn voor de uitvoering van dit besluit.   
 2.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 21, eerste lid, bedoelde instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de verstrekking van gegevens door de rijksbelastingdienst aan Onze Minister of aan het hoofd Zorgverzekeringskantoor BES.  
 

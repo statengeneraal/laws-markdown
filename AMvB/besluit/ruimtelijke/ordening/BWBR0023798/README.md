@@ -154,14 +154,17 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de voorbereiding
 2.  Gedeputeerde staten onderscheidenlijk Onze Minister kunnen bepalen dat onder bepaalde omstandigheden of in bepaalde gevallen geen overleg is vereist met de diensten van provincie onderscheidenlijk Rijk die betrokken zijn bij de zorg voor de ruimtelijke ordening.  
 
 ### Artikel  3.1.1a  
-Treedt in werking per 01-11-2014 
 
 Bij de vaststelling van een bestemmingsplan kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar. 
 
 ### Artikel  3.1.2  
 
 1.  Ten behoeve van de uitvoerbaarheid kan een bestemmingsplan regels bevatten met betrekking tot sociale huurwoningen, sociale koopwoningen of particulier opdrachtgeverschap.   
-2.  Ten behoeve van een goede ruimtelijke ordening kan een bestemmingsplan regels bevatten met betrekking tot branches van detailhandel en horeca.   
+2.  Ten behoeve van een goede ruimtelijke ordening kan een bestemmingsplan regels bevatten: 
+
+a. waarvan de uitleg bij de uitoefening van een daarbij aangegeven bevoegdheid, afhankelijk wordt gesteld van beleidsregels;  
+
+b. met betrekking tot branches van detailhandel en horeca.     
 3.  Een bestemmingsplan kan voorts regels bevatten ter wering van dreigende en tot stuiting van reeds ingetreden achteruitgang van de woon- of werkomstandigheden in en het uiterlijk aanzien van het in het plan begrepen gebied.   
 4.  Indien een bestemmingsplan regels bevat ten aanzien van sociale koopwoningen kan de gemeenteraad na regionale afstemming een lagere koopprijsgrens vaststellen dan het bedrag, genoemd in artikel 26, tweede lid, onder g, van het Besluit beheer sociale huursector.  
 
@@ -303,7 +306,11 @@ Vervallen per 01-10-2010
 
 ### Artikel  5.1.1  
 
-Indien bij een beheersverordening onder het beheer van het in de verordening begrepen gebied overeenkomstig het bestaande gebruik mede wordt begrepen het beheer van het in de verordening begrepen gebied overeenkomstig het onder het voorafgaande bestemmingsplan toegestane gebruik, wordt in de beheersverordening voorzien in overgangsrecht voor feitelijk bestaand gebruik dat in strijd is met de verordening. 
+Indien in een gebied waarvoor een beheersverordening wordt vastgesteld een gebruik bestaat of een bouwwerk aanwezig is dat onder de toepassing van het in het voorafgaande bestemmingsplan opgenomen overgangsrecht valt, wordt in de beheersverordening: 
+
+a. dat gebruik of bouwwerk mede begrepen onder het beheer overeenkomstig het bestaande gebruik, of  
+
+b. met betrekking tot dat bouwwerk of gebruik op overeenkomstige wijze als bedoeld in de artikelen 3.2.1 en 3.2.2 of in artikel 3.2.3 in overgangsrecht voorzien.   
 
 ### Hoofdstuk  6  
 

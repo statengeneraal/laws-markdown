@@ -52,7 +52,11 @@ c. beheersverordening als bedoeld in artikel 3.38 van de wet;
 d. projectuitvoeringsbesluit als bedoeld in artikel 2.10 van de Crisis- en herstelwet.     
 3.  In dit besluit en de daarop berustende bepalingen wordt onder toelichting bij een bestemmingsplan mede verstaan de ruimtelijke onderbouwing, bedoeld in artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht.   
 4.  In dit besluit en de daarop berustende bepalingen wordt onder bestemming mede verstaan regels met het oog op de bestemming, tenzij anders is bepaald.   
-5.  Een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, of tweede lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken, voldoet aan dit besluit, tenzij in dit besluit anders is bepaald. 
+5.  Een omgevingsvergunning waarbij van het bestemmingsplan wordt afgeweken: 
+
+a. met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 2°, van de Wet algemene bepalingen omgevingsrecht voor een geval als bedoeld in artikel 4, onderdeel 11, van bijlage II bij het Besluit omgevingsrecht, of  
+
+b. met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht,   voldoet aan dit besluit, tenzij in dit besluit anders is bepaald. 
 
 ### Artikel  1.2  
 
@@ -60,7 +64,7 @@ d. projectuitvoeringsbesluit als bedoeld in artikel 2.10 van de Crisis- en herst
 
 Dit besluit is niet van toepassing op: 
 
-a. een omgevingsvergunning als bedoeld in de artikelen 2.12, eerste lid, onderdeel a, onder 3°, en 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht die wordt verleend door Onze Minister, Onze Minister wie het aangaat of Onze Minister wie het aangaat in overeenstemming met Onze Minister;  
+a. een omgevingsvergunning als bedoeld in artikel 2.12, eerste lid, onderdeel a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht die wordt verleend door Onze Minister, Onze Minister wie het aangaat of Onze Minister wie het aangaat in overeenstemming met Onze Minister;  
 
 b. een bestemmingsplan, voor zover dat strekt ter uitvoering van een tracébesluit als bedoeld in de Tracéwet, dan wel ter uitvoering van een wegaanpassingsbesluit als bedoeld in artikel 9, eerste lid, van de Spoedwet wegverbreding, dan wel een plan als bedoeld in artikel 6, vijfde lid, van die wet.  
 
@@ -533,7 +537,7 @@ b. het winnen van schelpen beneden het peil van NAP –5 meter.
 
 ####(omgevingsvergunning voor bepaalde termijn)
 
-In afwijking van artikel 1.1, vijfde lid, kan met een omgevingsvergunning als bedoeld in artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht worden afgeweken: 
+In afwijking van artikel 1.1, vijfde lid, kan voor een geval als bedoeld in artikel 4, onderdeel 11, van bijlage II bij het Besluit omgevingsrecht met een omgevingsvergunning met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 2°, van de Wet algemene bepalingen omgevingsrecht worden afgeweken: 
 
 a. van een bestemmingsplan als bedoeld in de artikelen 2.5.7 tot en met 2.5.16 ten behoeve van tijdelijke bebouwing voor wetenschappelijk onderzoek en monitoring;  
 
@@ -718,13 +722,14 @@ d. 45 meter aan weerszijden van de hoofdweg ten behoeve van de mogelijke verbred
 
 ####(aanwijzing belemmerende activiteiten)
 
-Een bestemmingsplan dat betrekking heeft op een reserveringsgebied, aangewezen krachtens artikel 2.7.2, eerste lid, of artikel 2.7.3, eerste lid, bevat geen wijzigingen ten opzichte van het op het moment van aanwijzing van dat reserveringsgebied geldende bestemmingsplan, die de volgende activiteiten of bestemmingen mogelijk maken: 
+1. Een bestemmingsplan dat betrekking heeft op een reserveringsgebied, aangewezen krachtens artikel 2.7.2, eerste lid, of artikel 2.7.3, eerste lid, bevat geen wijzigingen ten opzichte van het op het moment van aanwijzing van dat reserveringsgebied geldende bestemmingsplan, die de volgende activiteiten of bestemmingen mogelijk maken: 
 
-a. het bouwen van een bouwwerk waarvoor een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht is vereist, uitgezonderd een tijdelijk bouwwerk als bedoeld in artikel 5.16, eerste lid, onder a, van die wet of een bijbehorend bouwwerk als bedoeld in bijlage II, artikel 1, eerste lid, bij het Besluit omgevingsrecht;  
+a. het bouwen van een bouwwerk waarvoor een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht is vereist;  
 
 b. stortplaats voor afvalstoffen;  
 
 c. bergingsgebied als bedoeld in artikel 1.1 van de Waterwet.   
+2.  In afwijking van artikel 1.1, vijfde lid, kan met een omgevingsvergunning als bedoeld in de onderdelen a en b van dat lid, van een bestemmingsplan dat betrekking heeft op een reserveringsgebied worden afgeweken voor een termijn van ten hoogste vijf jaar.
 
 ### Titel  2.8  
 
@@ -1015,7 +1020,7 @@ g. het gebruik als stortplaats voor afvalstoffen of permanente opslag van grond,
 ####(wezenlijke kenmerken en waarden)
 
 1.  Bij provinciale verordening worden de wezenlijke kenmerken en waarden van de gebieden, bedoeld in artikel 2.10.2, eerste lid, aangewezen.   
-2.  Bij provinciale verordening worden in het belang van de bescherming, instandhouding en ontwikkeling van de wezenlijke kenmerken en waarden regels gesteld omtrent de inhoud van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken.  
+2.  Bij provinciale verordening worden in het belang van de bescherming, instandhouding en ontwikkeling van de wezenlijke kenmerken en waarden regels gesteld omtrent de inhoud van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken. Bij de verordening kunnen in het hiervoor genoemde belang tevens regels worden gesteld omtrent de inhoud van omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 2°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken.  
 
 ### Artikel  2.10.4  
 
@@ -1028,7 +1033,8 @@ a. er sprake is van een groot openbaar belang,
 b. er geen reële alternatieven zijn, en  
 
 c. de negatieve effecten op de wezenlijke kenmerken en waarden, oppervlakte en samenhang worden beperkt en de overblijvende effecten gelijkwaardig worden gecompenseerd.     
-2.  Ten aanzien van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken die ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan nieuwe bebouwing of terreinverharding binnen omheinde militaire terreinen mogelijk maken, stelt de verordening uitsluitend de voorwaarde, bedoeld in het eerste lid, onderdeel c.  
+2.  De regels, bedoeld in het eerste lid, kunnen tevens betrekking hebben op omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 2°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken.  
+3.  Ten aanzien van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken die ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan nieuwe bebouwing of terreinverharding binnen omheinde militaire terreinen mogelijk maken, stelt de verordening uitsluitend de voorwaarde, bedoeld in het eerste lid, onderdeel c.  
 
 ### Artikel  2.10.5  
 
@@ -1172,7 +1178,7 @@ In bijlage 8 zijn voor ieder erfgoed van uitzonderlijke universele waarde de ker
 ####(provinciale verordening)
 
 1.  Bij provinciale verordening worden de kernkwaliteiten uitgewerkt en geobjectiveerd.   
-2.  Bij provinciale verordening worden in het belang van de instandhouding en versterking van de kernkwaliteiten regels gesteld omtrent de inhoud van of de toelichting bij bestemmingsplannen en de inhoud van omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken.   
+2.  Bij provinciale verordening worden in het belang van de instandhouding en versterking van de kernkwaliteiten regels gesteld omtrent de inhoud van of de toelichting bij bestemmingsplannen en de inhoud van omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken. Bij de verordening kunnen in het hiervoor genoemde belang tevens regels worden gesteld omtrent de inhoud van omgevingsvergunningen waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 2°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken.   
 3.  Bij de verordening worden in ieder geval regels gesteld die bewerkstelligen dat een bestemmingsplan of omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken geen activiteiten mogelijk maakt ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan die de kernkwaliteiten, bedoeld in het eerste lid, aantasten.  
 
 ###Titel  2.14  

@@ -3,7 +3,7 @@
 ##Besluit vaststelling selectielijst neerslag handelingen Nederlands Fonds voor de Podiumkunsten+ vanaf 2007
 
 De staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 11 oktober 2010, nr. bca 2010.05919/2);
 Besluit:    
@@ -14,7 +14,7 @@ De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen
 
 ### Artikel  2  
 
-De selectielijsten voor de neerslag van de handelingen van het Fonds voor de Amateurkunst en Podiumkunsten en voorgangers, het Fonds voor Podiumprogrammering en Marketing en het Fonds voor de Scheppende Toonkunst op het beleidsterrein Kunsten over de periode vanaf 1945 (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap, nrs. [C/S&A/07/1032](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021951/README.md), [C/S&A/07/1033](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021952/README.md) en [C/S&A/07/1045](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021935/README.md), alle d.d. 19-4-2007 en gepubliceerd in de Staatscourant nr. 101 d.d. 30-5-2007) worden vanaf 2007 ingetrokken. 
+De selectielijsten voor de neerslag van de handelingen van het Fonds voor de Amateurkunst en Podiumkunsten en voorgangers, het Fonds voor Podiumprogrammering en Marketing en het Fonds voor de Scheppende Toonkunst op het beleidsterrein Kunsten over de periode vanaf 1945 (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap, nrs. C/S&A/07/1032, C/S&A/07/1033 en C/S&A/07/1045, alle d.d. 19-4-2007 en gepubliceerd in de Staatscourant nr. 101 d.d. 30-5-2007) worden vanaf 2007 ingetrokken. 
 
 ### Artikel  3  
 
