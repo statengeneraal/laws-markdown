@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2005, 2005-0000244367, CZW;
 
-Gelet op [artikel 1c, tweede lid, van de Wet Nationale ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);
+Gelet op artikel 1c, tweede lid, van de Wet Nationale ombudsman;
 
 De Raad van State gehoord (advies van 20 oktober 2005, nr. W04.05.0452/I);
 
@@ -19,27 +19,27 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b. verzoekschrift: schriftelijk verzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b. verzoekschrift: schriftelijk verzoek als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht;  
 
 c.openbare lichamen: de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  2  
 
-1.  De vergoeding, bedoeld in [artikel 1c, eerste lid, van de Wet Nationale ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), bedraagt: 
+1.  De vergoeding, bedoeld in artikel 1c, eerste lid, van de Wet Nationale ombudsman, bedraagt: 
 
-a. voor provincies: € 0,0055 per 1 januari 2013: € 0,0060 per inwoner per jaar;  
+a. voor provincies: € 0,0055 per 1 januari 2014: € 0,060 per inwoner per jaar;  
 
-b. voor gemeenten: € 0,1772 per 1 januari 2013:€ 0,1945 per inwoner per jaar;  
+b. voor gemeenten: € 0,1772 per 1 januari 2014: € 0,1947 per inwoner per jaar;  
 
-c. voor waterschappen: € 0,0104 per 1 januari 2013:€ 0,0115 per ingezetene per jaar;  
+c. voor waterschappen: € 0,0104 per 1 januari 2014: € 0,0115 per ingezetene per jaar;  
 
-d.voor openbare lichamen: USD 0,1821 per 1 januari 2013: USD 0,1940 per inwoner per jaar.   
+d.voor openbare lichamen: USD 0,1821 per 1 januari 2014: USD 0,1942 per inwoner per jaar.   
 2.  Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder a en b, wordt uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari van het jaar waarover de vergoeding is verschuldigd.   
-3.  Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder c, doen de waterschappen uiterlijk op 1 juli van het jaar waarover de vergoeding is verschuldigd, aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties opgaaf van de aantallen ingezetenen, bedoeld in [artikel 118, derde lid, onder a, van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md).  
+3.  Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder c, doen de waterschappen uiterlijk op 1 juli van het jaar waarover de vergoeding is verschuldigd, aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties opgaaf van de aantallen ingezetenen, bedoeld in artikel 118, derde lid, onder a, van de Waterschapswet.  
 
 ### Artikel  3  
 
-1.  De vergoeding, bedoeld in [artikel 1c, eerste lid, van de Wet Nationale ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), bedraagt voor gemeenschappelijke regelingen € 1004 per 1 januari 2013: € 1.118 per verzoekschrift dat door de Nationale ombudsman wordt ontvangen over gedragingen van een bestuursorgaan dat tot de gemeenschappelijke regeling behoort.   
+1.  De vergoeding, bedoeld in artikel 1c, eerste lid, van de Wet Nationale ombudsman, bedraagt voor gemeenschappelijke regelingen € 1004 per 1 januari 2014: € 1.119 per verzoekschrift dat door de Nationale ombudsman wordt ontvangen over gedragingen van een bestuursorgaan dat tot de gemeenschappelijke regeling behoort.   
 2.  In afwijking van het eerste lid, bepaalt Onze Minister, de Nationale ombudsman gehoord, in het geval dat twee of meer verzoekschriften dezelfde gedraging betreffen, dat eenmaal de voor een dergelijk verzoekschrift geldende vergoeding is verschuldigd.  
 
 ### Artikel  4  
@@ -58,7 +58,7 @@ Bij ministeriële regeling worden de bedragen, genoemd in artikel 2, eerste lid,
 
 ### Artikel  7  
 
-Het [Vergoedingenbesluit Wet Nationale ombudsman](../../../../../../../AMvB/vergoedingenbesluit/wet/nationale/ombudsman/BWBR0009885/README.md) wordt ingetrokken. 
+Het Vergoedingenbesluit Wet Nationale ombudsman wordt ingetrokken. 
 
 ### Artikel  8  
 

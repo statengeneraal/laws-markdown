@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juli 1997, kenmerk DBO/PBO/971311; 
 
-Gelet op de [artikelen 9*a*, eerste en tweede lid, 9*b*, tweede lid](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [artikel 11 van de Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [artikel 60, tweede en derde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md); 
+Gelet op de artikelen 9*a*, eerste en tweede lid, 9*b*, tweede lid, en artikel 11 van de Algemene Wet Bijzondere Ziektekosten, en artikel 60, tweede en derde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen; 
 
 De Raad van State gehoord (advies van 24 september 1997, nr. W.13.97.0470); 
 
@@ -20,39 +20,39 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. de AWBZ: de [Algemene Wet Bijzondere Ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);   
+a. de AWBZ: de Algemene Wet Bijzondere Ziektekosten;   
 
-b. indicatieorgaan: een indicatieorgaan als bedoeld in [artikel 9a van de AWBZ](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);   
+b. indicatieorgaan: een indicatieorgaan als bedoeld in artikel 9a van de AWBZ;   
 
 c. zorgvrager: degene ten behoeve van wie een aanvraag om een indicatiebesluit is ingediend;   
 
 d. indicatiebesluit: het besluit van een indicatieorgaan waarbij beoordeeld wordt of en in welke omvang een zorgvrager in aanmerking komt voor een of meer vormen van zorg als bedoeld in artikel 2;  
 
-e. het besluit: het [Besluit zorgaanspraken AWBZ](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+e. het besluit: het Besluit zorgaanspraken AWBZ;  
 
-f. cliëntprofiel: een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op verblijf als bedoeld in [artikel 9, eerste en tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [artikel 13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) zijn aangewezen; 
+f. cliëntprofiel: een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op verblijf als bedoeld in artikel 9, eerste en tweede lid, of artikel 13, tweede lid, van het besluit zijn aangewezen; 
 
 h. zorgzwaarte pakket: naar aard, inhoud en omvang bij een cliëntprofiel passende, samenhangende zorg als omschreven op grond van het besluit.  
 
 ### Artikel  2  
 
-Als vormen van zorg als bedoeld in [artikel 9a, eerste lid, van de AWBZ](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) worden aangewezen de vormen van zorg, bedoeld in de [artikelen 4 tot en met 6](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9, eerste en tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [10](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [13, tweede lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), en [34 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met uitzondering van: 
+Als vormen van zorg als bedoeld in artikel 9a, eerste lid, van de AWBZ worden aangewezen de vormen van zorg, bedoeld in de artikelen 4 tot en met 6, 8, 9, eerste en tweede lid, 9a, 10, 13, tweede lid, en 34 van het besluit, met uitzondering van: 
 
-a. de zorg, bedoeld in [artikel 5 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voor zover het betreft advies, instructie en voorlichting door een aan de instelling verbonden gespecialiseerde verpleegkundige ten behoeve van een niet in de instelling verblijvende verzekerde;  
+a. de zorg, bedoeld in artikel 5 van het besluit, voor zover het betreft advies, instructie en voorlichting door een aan de instelling verbonden gespecialiseerde verpleegkundige ten behoeve van een niet in de instelling verblijvende verzekerde;  
 
-b. de zorg, bedoeld in [artikel 8 van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): 
+b. de zorg, bedoeld in artikel 8 van het besluit: 
 
 1°. voor zover het betreft consultatie van een aan de instelling verbonden verpleeghuisarts of arts voor verstandelijk gehandicapten ten behoeve van een niet in de instelling verblijvende verzekerde, of  
 
 2°. die in verband met een zintuiglijke handicap wordt verleend;   
 
-c. de zorg, bedoeld in [artikel 9](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of [13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voor zover het meer zorg betreft dan is begrepen in het voor de zorgdrager geïndiceerde zwaartepakket; 
+c. de zorg, bedoeld in artikel 9 of 13, tweede lid, van het besluit, voor zover het meer zorg betreft dan is begrepen in het voor de zorgdrager geïndiceerde zwaartepakket; 
 
-d.forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md). 
+d.forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg. 
 
 ###Artikel 3 
 
-Het indicatieorgaan wordt, voor zover het betreft opneming en verder verblijf in een verpleeg- of zwakzinnigeninrichting als bedoeld in [artikel 1, eerste lid, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), aangewezen als commissie als bedoeld in [artikel 60, derde lid, van die wet](../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).
+Het indicatieorgaan wordt, voor zover het betreft opneming en verder verblijf in een verpleeg- of zwakzinnigeninrichting als bedoeld in artikel 1, eerste lid, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, aangewezen als commissie als bedoeld in artikel 60, derde lid, van die wet.
 
 ### Artikel  4  
 
@@ -112,7 +112,7 @@ Het onderzoek wordt verricht door personen dan wel organisaties die over voldoen
 ### Artikel  9  
 
 1.  Indien uit de aanvraag blijkt dat de zorgvrager die jonger is dan tachtig jaar langdurig verblijf of langdurige intensieve zorg thuis wenst, dan wel na het indienen van de aanvraag blijkt dat redelijkerwijs te verwachten is dat een indicatiebesluit zal worden genomen, waaruit blijkt dat een zorgvrager die jonger is dan tachtig jaar voor zodanig verblijf of zodanige zorg in aanmerking komt, wordt de aanvraag onderzocht door een team van deskundigen.    
-2.  In een team als bedoeld in het eerste lid is, voor zover dat voor de beoordeling van de aanvraag van belang kan zijn, deskundigheid aanwezig op de terreinen van de zorg, bedoeld in artikel 2, alsmede op de terreinen van woningaanpassing en voorzieningen die op grond van de [Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) verstrekt kunnen worden.   
+2.  In een team als bedoeld in het eerste lid is, voor zover dat voor de beoordeling van de aanvraag van belang kan zijn, deskundigheid aanwezig op de terreinen van de zorg, bedoeld in artikel 2, alsmede op de terreinen van woningaanpassing en voorzieningen die op grond van de Wet maatschappelijke ondersteuning verstrekt kunnen worden.   
 
 ### Artikel  9a  
 
@@ -144,7 +144,7 @@ a. de vorm van zorg of vormen van zorg waarop de zorgvrager is aangewezen,
 b. de aandoening, beperking of handicap als gevolg waarvan de zorgvrager op de vorm van zorg of vormen van zorg is aangewezen, en  
 
 c. de hoeveelheid zorg in tijd per zorgvorm.     
-2.  In afwijking van het eerste lid worden indien een zorgvrager is aangewezen op verblijf als bedoeld in [artikel 9, eerste lid](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of voortgezet verblijf als bedoeld in [artikel 13, tweede lid, van het besluit](../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) in het indicatiebesluit aangegeven: 
+2.  In afwijking van het eerste lid worden indien een zorgvrager is aangewezen op verblijf als bedoeld in artikel 9, eerste lid, of voortgezet verblijf als bedoeld in artikel 13, tweede lid, van het besluit in het indicatiebesluit aangegeven: 
 
 a. het verblijf of voortgezet verblijf met de daarbij behorende samenhangende zorg waarop de zorgvrager is aangewezen,  
 
@@ -159,7 +159,7 @@ d. het daarbij behorende zorgzwaartepakket.
 ### Artikel  14  
 
 1.  Indien de geldigheidsduur van het indicatiebesluit korter is dan een jaar, geeft het indicatieorgaan in het indicatiebesluit aan of de zorgbehoefte van de zorgvrager naar haar oordeel ten minste een jaar zal bestaan vanaf het moment dat de zorgvrager volgens dat besluit op zorg is aangewezen.   
-2.  Het indicatieorgaan laat de toepassing van het eerste lid achterwege indien de zorgvrager bij de aanvraag van een indicatiebesluit heeft aangegeven voornemens te zijn het indicatiebesluit niet met een subsidie op grond van [artikel 44, eerste lid, onder b, van de AWBZ](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) tot gelding te brengen.  
+2.  Het indicatieorgaan laat de toepassing van het eerste lid achterwege indien de zorgvrager bij de aanvraag van een indicatiebesluit heeft aangegeven voornemens te zijn het indicatiebesluit niet met een subsidie op grond van artikel 44, eerste lid, onder b, van de AWBZ tot gelding te brengen.  
 
 ###Artikel 15 
 
@@ -176,7 +176,7 @@ Het indicatieorgaan draagt er zorg voor dat gedurende de geldigheid van het indi
 
 ### Paragraaf  7  
 
-####Bijzondere bepalingen in verband met de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) 
+####Bijzondere bepalingen in verband met de Wet bijzondere opnemingen in psychiatrische ziekenhuizen 
 
 ###Artikel 17 
 
@@ -212,11 +212,11 @@ c.de functionele beveiligingseisen voor het bewerken en vastleggen van gegevens.
 
 1.  Dit besluit is niet van toepassing ten aanzien van diegenen die:  
 
-a. onmiddellijk vóór 1 januari 1997 zorg als bedoeld in de [artikelen 10](../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) en [14 van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) zoals dat besluit tot dat tijdstip luidde verleend werd en aan wie die zorg onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit nog steeds verleend werd;  
+a. onmiddellijk vóór 1 januari 1997 zorg als bedoeld in de artikelen 10 en 14 van het Besluit zorgaanspraken bijzondere ziektekostenverzekering zoals dat besluit tot dat tijdstip luidde verleend werd en aan wie die zorg onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit nog steeds verleend werd;  
 
-b. in het bezit zijn van een advies op grond van het [Besluit indicatie-advisering bejaardenoorden en verpleeginrichtingen](../../../AMvB/besluit/indicatie-advisering/bejaardenoorden/en/verpleeginrichtingen/BWBR0004408/README.md), zoals dat besluit luidde tot de intrekking van de Wet op de bejaardenoorden, waaruit blijkt dat zij voor zorg als bedoeld in de [artikelen 10](../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) en [14 van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) zoals dat besluit tot dat tijdstip luidde in aanmerking komen, en mits aan hen binnen twee jaar na inwerkingtreding van dit besluit die zorg ook verleend wordt.  
+b. in het bezit zijn van een advies op grond van het Besluit indicatie-advisering bejaardenoorden en verpleeginrichtingen, zoals dat besluit luidde tot de intrekking van de Wet op de bejaardenoorden, waaruit blijkt dat zij voor zorg als bedoeld in de artikelen 10 en 14 van het Besluit zorgaanspraken bijzondere ziektekostenverzekering zoals dat besluit tot dat tijdstip luidde in aanmerking komen, en mits aan hen binnen twee jaar na inwerkingtreding van dit besluit die zorg ook verleend wordt.  
 
-c. onmiddellijk vóór 1 januari 1997 zorg als bedoeld in [artikel 15, eerste lid, onder *a* en *b*, van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md), zoals dat besluit luidde tot dat tijdstip, verleend werd, bestaande uit verpleging of verzorging door of vanwege een kruisorganisatie en mits aan hen die zorg op het tijdstip van inwerkingtreding van dit besluit nog verleend wordt.      
+c. onmiddellijk vóór 1 januari 1997 zorg als bedoeld in artikel 15, eerste lid, onder *a* en *b*, van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, zoals dat besluit luidde tot dat tijdstip, verleend werd, bestaande uit verpleging of verzorging door of vanwege een kruisorganisatie en mits aan hen die zorg op het tijdstip van inwerkingtreding van dit besluit nog verleend wordt.      
 2.  Onze Minister kan bij ministeriële regeling een tijdstip bepalen met ingang waarvan dit besluit van toepassing is op personen dan wel categorieën van personen, bedoeld in het eerste lid.   
 
 ###Artikel 21 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 19 februari 1999, nr. P/99000777;
 
-Gelet op [artikel 2, vijfde lid, van de Kaderwet militaire pensioenen](../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md);
+Gelet op artikel 2, vijfde lid, van de Kaderwet militaire pensioenen;
 
 De Raad van State gehoord (advies van 27 april 1999, No. W07.99.0081/II);
 
@@ -22,23 +22,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Besluit AO/IV: het [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md);  
+a. Besluit AO/IV: het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen;  
 
-b. militair, berekeningsgrondslag: hetgeen in het [Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) onder die begrippen wordt verstaan;  
+b. militair, berekeningsgrondslag: hetgeen in het Besluit AO/IV onder die begrippen wordt verstaan;  
 
 c. pensioenreglement: het pensioenreglement van de Stichting Pensioenfonds ABP;  
 
 d. nabestaande, partner, wees: hetgeen in het pensioenreglement onder die begrippen wordt verstaan;  
 
-e. invaliditeit met dienstverband: invaliditeit als bedoeld in [artikel 2, derde lid, van het Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md);  
+e. invaliditeit met dienstverband: invaliditeit als bedoeld in artikel 2, derde lid, van het Besluit AO/IV;  
 
-f. AOW: de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);   
+f. AOW: de Algemene Ouderdomswet;   
 
-g. Anw: de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+g. Anw: de Algemene nabestaandenwet;  
 
-h. AOW-pensioen: het tot een jaarbedrag herleid en met de vakantie-uitkering verhoogd pensioen ingevolge de [AOW](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) dat de rechthebbende naast zijn pensioen ingevolge dit besluit geniet, in relatie tot het invaliditeitspensioen inclusief het AOW-pensioen van zijn partner en in relatie tot het partnerpensioen tot ten hoogste het AOW-pensioen voor een ongehuwde;  
+h. AOW-pensioen: het tot een jaarbedrag herleid en met de vakantie-uitkering verhoogd pensioen ingevolge de AOW dat de rechthebbende naast zijn pensioen ingevolge dit besluit geniet, in relatie tot het invaliditeitspensioen inclusief het AOW-pensioen van zijn partner en in relatie tot het partnerpensioen tot ten hoogste het AOW-pensioen voor een ongehuwde;  
 
-i. Anw-uitkering: de tot een jaarbedrag herleide en met de vakantie-uitkering verhoogde uitkering ingevolge de [Anw](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) die een rechthebbende naast zijn pensioen ingevolge dit besluit geniet.   
+i. Anw-uitkering: de tot een jaarbedrag herleide en met de vakantie-uitkering verhoogde uitkering ingevolge de Anw die een rechthebbende naast zijn pensioen ingevolge dit besluit geniet.   
 
 ### Paragraaf  2  
 
@@ -118,7 +118,7 @@ c. onbruikbaarheid van twee of meer ledematen dan wel uit een toestand, welke me
 
 a. het totaal van de werkelijke militaire dienst en   
 
-b. de diensttijd die voor de beroepsmilitair aan het genot van de in [artikel 10 van het besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) bedoelde arbeidsongeschiktheidsverhoging zou zijn verbonden.     
+b. de diensttijd die voor de beroepsmilitair aan het genot van de in artikel 10 van het besluit AO/IV bedoelde arbeidsongeschiktheidsverhoging zou zijn verbonden.     
 3.  Bij de berekening van het in het eerste lid bedoelde garantiepensioen wordt van de daar bedoelde tijd het deel dat kan worden vergolden met een ander pensioen buiten beschouwing gelaten.  
 
 ### Artikel  5  
@@ -139,7 +139,7 @@ b. de diensttijd die voor de beroepsmilitair aan het genot van de in [artikel 10
 
 ####Het recht op voortdurend partner- of wezenpensioen
 
-1.  De nabestaanden van de militair die is overleden tengevolge van verwonding, ziekten of gebreken als bedoeld in artikel 2, derde lid, van het besluit AO/IP, de nabestaanden van een rechthebbende op invaliditeitspensioen krachtens dit besluit of krachtens de artikelen [7](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) of [11 van het besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) of van een militair of gewezen militair die, ware hij niet overleden, recht op een zodanig pensioen zou hebben kunnen doen gelden, hebben te rekenen van de dag volgende op diens overlijden recht op partner- of wezenpensioen.   
+1.  De nabestaanden van de militair die is overleden tengevolge van verwonding, ziekten of gebreken als bedoeld in artikel 2, derde lid, van het besluit AO/IP, de nabestaanden van een rechthebbende op invaliditeitspensioen krachtens dit besluit of krachtens de artikelen 7 of 11 van het besluit AO/IV of van een militair of gewezen militair die, ware hij niet overleden, recht op een zodanig pensioen zou hebben kunnen doen gelden, hebben te rekenen van de dag volgende op diens overlijden recht op partner- of wezenpensioen.   
 2.  De in het eerste lid bedoelde pensioenen worden afgeleid van een invaliditeitspensioen zoals dat, zonder toepassing van de in het tweede en derde lid van artikel 2 bedoelde kortingen en zonder de bijzondere invaliditeitsverhoging, bedoeld in artikel 3, ingevolge dit besluit kan worden vastgesteld, 
 
 a. naar een mate van invaliditeit met dienstverband van 100 procent indien er verband bestaat tussen het overlijden en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen hebben of zouden hebben geleid, of  
@@ -152,7 +152,7 @@ b. naar de mate van invaliditeit met dienstverband die op het overlijdensmoment 
 
 ####Het recht op tijdelijk verhoogd partner- of wezenpensioen
 
-1.  De nabestaanden van de militair die is overleden tengevolge van verwonding, ziekten of gebreken als bedoeld in [artikel 2, eerste lid, van het Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md), de nabestaanden van een rechthebbende op verhoogd arbeidsongeschiktheidspensioen ingevolge [artikel 3, vijfde lid, van dat besluit](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) of van een militair of gewezen militair die, ware hij niet overleden, recht op een zodanig pensioen zou hebben kunnen doen gelden, hebben, indien diens overlijden in overwegende mate zijn oorzaak vindt in de aard van de hem opgedragen werkzaamheden of in de bijzondere omstandigheden waaronder deze moesten worden verricht, te rekenen van de dag volgende op dat overlijden recht op tijdelijk partner- of wezenpensioen.   
+1.  De nabestaanden van de militair die is overleden tengevolge van verwonding, ziekten of gebreken als bedoeld in artikel 2, eerste lid, van het Besluit AO/IV, de nabestaanden van een rechthebbende op verhoogd arbeidsongeschiktheidspensioen ingevolge artikel 3, vijfde lid, van dat besluit of van een militair of gewezen militair die, ware hij niet overleden, recht op een zodanig pensioen zou hebben kunnen doen gelden, hebben, indien diens overlijden in overwegende mate zijn oorzaak vindt in de aard van de hem opgedragen werkzaamheden of in de bijzondere omstandigheden waaronder deze moesten worden verricht, te rekenen van de dag volgende op dat overlijden recht op tijdelijk partner- of wezenpensioen.   
 2.  De in het eerste lid bedoelde tijdelijke pensioenen worden afgeleid van een invaliditeitspensioen zoals dat, zonder toepassing van de in het tweede en derde lid van artikel 2 bedoelde kortingen en zonder de bijzondere invaliditeitsverhoging, bedoeld in artikel 3, naar een mate van invaliditeit met dienstverband van 90,02 procent ingevolge dit besluit kan worden vastgesteld.   
 3.  Het recht op pensioen ingevolge dit artikel vervalt: 
 
@@ -164,7 +164,7 @@ b. met ingang van de dag waarop de militair aan wiens overlijden het wordt ontle
 
 ####Onderzoek naar toepasselijkheid
 
-1.  De vraag of er verband bestaat tussen het overlijden en de verwonding, ziekten of gebreken als bedoeld in [artikel 2, derde lid, van het Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) en de vraag of het overlijden in overwegende mate zijn oorzaak vindt in de ziekten of gebreken, bedoeld in [artikel 2, eerste lid, van dat besluit](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md), worden beantwoord met inachtneming van de resultaten van een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van die verwonding, ziekten of gebreken. Onze Minister regelt de voor dat onderzoek geldende procedure.    
+1.  De vraag of er verband bestaat tussen het overlijden en de verwonding, ziekten of gebreken als bedoeld in artikel 2, derde lid, van het Besluit AO/IV en de vraag of het overlijden in overwegende mate zijn oorzaak vindt in de ziekten of gebreken, bedoeld in artikel 2, eerste lid, van dat besluit, worden beantwoord met inachtneming van de resultaten van een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van die verwonding, ziekten of gebreken. Onze Minister regelt de voor dat onderzoek geldende procedure.    
 2.  Indien ter zake van hetzelfde overlijden voor dezelfde nabestaande recht bestaat op meerdere militaire pensioenen, kunnen de in het eerste lid bedoelde vragen uitsluitend positief worden beantwoord voor dat pensioen dat is gekoppeld aan de periode van werkelijke dienst waarin de daar bedoelde verwonding, ziekten of gebreken zijn ontstaan.   
 3.  Indien er op het moment van overlijden een invaliditeit met dienstverband bestond van ten minste 60 procent, wordt die invaliditeit, tenzij het tegendeel kan worden aangetoond, beschouwd als oorzaak van het overlijden.   
 4.  Een nog bij leven van de militair aangevangen onderzoek naar de mate van zijn invaliditeit met dienstverband leidt niet tot een lager percentage dan het laatstelijk voor hem vastgestelde.   
@@ -207,7 +207,7 @@ Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de artik
 ####Volledige schadevergoeding
 
 1.  De nabestaanden van de militair, die op of na 1 juli 2007 overleden is, die als gevolg van dat overlijden aanspraak hebben op een voortdurend partner- of wezenpensioen als bedoeld in artikel 6, eerste lid, hebben recht op een volledige vergoeding van hun schade indien er verband bestaat tussen het overlijden van de militair en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen zouden hebben geleid.   
-2.  De aanspraak van de nabestaanden van de militair op een volledige schadevergoeding vervalt als aan de militair zelf reeds een volledige schadevergoeding als bedoeld in de [artikelen 8a](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) en [11 a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) is toegekend.   
+2.  De aanspraak van de nabestaanden van de militair op een volledige schadevergoeding vervalt als aan de militair zelf reeds een volledige schadevergoeding als bedoeld in de artikelen 8a en 11 a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen is toegekend.   
 3.  Bij de vaststelling van de omvang van de in het eerste lid bedoelde schadevergoeding wordt rekening gehouden met het totaal van de aanspraken van en uitkeringen aan de nabestaanden ingevolge het overlijden van de militair.   
 4.  Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.  
 
@@ -221,7 +221,7 @@ Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de artik
 
 1.  De berekeningsgrondslagen worden overeenkomstig hoofdstuk 12 van het pensioenreglement aangepast aan de algemene bezoldigingswijzigingen van het overheidspersoneel. De invaliditeitspensioenen, bijzondere invaliditeitsverhogingen en de van de invaliditeitspensioenen af te leiden nabestaandenpensioenen worden aan de hand van die aangepaste berekeningsgrondslagen nader vastgesteld.   
 2.  Het eerste lid is van overeenkomstige toepassing op de bedragen, bedoeld in artikel 2, vierde lid, artikel 9, vierde lid, en artikel 10, vijfde lid.   
-3.  Indien de bedragen aan AOW-pensioen of Anw-uitkering worden gewijzigd als gevolg van een wijziging van het netto-minimumloon, zoals voorzien in [artikel 9 van de AOW](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de artikelen [17](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [25](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [29](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en [31 van de Anw](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), worden de kortingen die van dat pensioen of die uitkering afhankelijk zijn aan de gewijzigde bedragen aangepast.  
+3.  Indien de bedragen aan AOW-pensioen of Anw-uitkering worden gewijzigd als gevolg van een wijziging van het netto-minimumloon, zoals voorzien in artikel 9 van de AOW en de artikelen 17, 25, 29 en 31 van de Anw, worden de kortingen die van dat pensioen of die uitkering afhankelijk zijn aan de gewijzigde bedragen aangepast.  
 
 ### Artikel  13  
 
@@ -290,7 +290,7 @@ In afwijking van dit besluit wordt:
 
 9e indien de artikelen 4 en 11 worden toegepast op grond van de onder 8e bedoelde uitzondering, gerekend met de diensttijd die voor de vaststelling van het daar bedoelde recht in aanmerking werd genomen;  
 
-10e indien de belanghebbende op de dag waarop hij de leeftijd van 65 jaar bereikt uitsluitend recht heeft op het pensioen, bedoeld in [artikel 19, onder 5e, van het Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md), dat pensioen tot hetzelfde bedrag toegekend, waarbij het voor de korting, bedoeld in artikel 2, tweede lid, alsmede de toepassing van het onder 2e, 3e en 4e gestelde, geacht wordt te zijn berekend naar 4 voor 1 januari 1986 liggende dienstjaren en het in verband met de toepassing van artikel 12 geacht wordt te zijn berekend naar de in artikel 2, vierde lid, bedoelde minimumpensioengrondslag;   
+10e indien de belanghebbende op de dag waarop hij de leeftijd van 65 jaar bereikt uitsluitend recht heeft op het pensioen, bedoeld in artikel 19, onder 5e, van het Besluit AO/IV, dat pensioen tot hetzelfde bedrag toegekend, waarbij het voor de korting, bedoeld in artikel 2, tweede lid, alsmede de toepassing van het onder 2e, 3e en 4e gestelde, geacht wordt te zijn berekend naar 4 voor 1 januari 1986 liggende dienstjaren en het in verband met de toepassing van artikel 12 geacht wordt te zijn berekend naar de in artikel 2, vierde lid, bedoelde minimumpensioengrondslag;   
 
 11e bij overlijden van een onder 10e bedoelde pensioengerechtigde zijn pensioen beschouwd als het invaliditeitspensioen, bedoeld in artikel 9, eerste lid, en artikel 10, eerste lid, waarbij voor de vaststelling van de korting, bedoeld in artikel 9, tweede lid, en artikel 10, vierde lid, wordt gehandeld overeenkomstig het onder 2e, 3e en 4e gestelde.   
 
@@ -302,7 +302,7 @@ In afwijking van dit besluit wordt:
 
 ### Artikel  19  
 
-In afwijking van artikel 2, eerste lid, wordt het invaliditeitspensioen dat wordt ontleend aan een periode van werkelijke dienst die voor 1 januari 1966 met een ontslag is beëindigd berekend naar de mate van invaliditeit met dienstverband die voor de betrokkene laatstelijk is vastgesteld. Op aanvraag van de belanghebbende vindt herkeuring plaats naar de in het [Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) daaromtrent gegeven regels. De uitslag van die herkeuring leidt niet tot een lager invaliditeitspercentage dan het percentage waarnaar het pensioen op het moment van indienen van het verzoek wordt berekend. De invaliditeitspercentages worden daarbij naar boven afgerond op veelvouden van 10. Het invaliditeitspensioen en de bijzondere invaliditeitsverhoging worden met ingang van de dag waarop de aanvraag om herkeuring is ontvangen zo nodig aangepast aan de nieuwe situatie. 
+In afwijking van artikel 2, eerste lid, wordt het invaliditeitspensioen dat wordt ontleend aan een periode van werkelijke dienst die voor 1 januari 1966 met een ontslag is beëindigd berekend naar de mate van invaliditeit met dienstverband die voor de betrokkene laatstelijk is vastgesteld. Op aanvraag van de belanghebbende vindt herkeuring plaats naar de in het Besluit AO/IV daaromtrent gegeven regels. De uitslag van die herkeuring leidt niet tot een lager invaliditeitspercentage dan het percentage waarnaar het pensioen op het moment van indienen van het verzoek wordt berekend. De invaliditeitspercentages worden daarbij naar boven afgerond op veelvouden van 10. Het invaliditeitspensioen en de bijzondere invaliditeitsverhoging worden met ingang van de dag waarop de aanvraag om herkeuring is ontvangen zo nodig aangepast aan de nieuwe situatie. 
 
 ### Artikel  20  
 
@@ -316,7 +316,7 @@ Indien een lopend invaliditeits- of nabestaandenpensioen krachtens een vroegere 
 
 ####Voorzieningen en verstrekkingen
 
-In aanvulling op de bij of krachtens de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid, van het Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden. 
+In aanvulling op de bij of krachtens de Wet maatschappelijke ondersteuning en de Algemene Wet Bijzondere Ziektekosten gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van artikel 2, derde lid, van het Besluit AO/IV, verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden. 
 
 ### Artikel  21a  
 
@@ -328,11 +328,11 @@ In aanvulling op de bij of krachtens de [Wet maatschappelijke ondersteuning](../
 4.  Op aanvraag van de rechthebbende wordt in afwijking van het tweede en derde lid het bedrag van de bijzondere uitkering vastgesteld op een percentage van de grondslag overeenkomend met de mate van arbeidsongeschiktheid met dienstverband zoals dat voor de rechthebbende voordat hij 65 jaar werd laatstelijk heeft gegolden, indien deze mate van arbeidsongeschiktheid hoger is dan de mate van invaliditeit met dienstverband.   
 5.  Voor de vaststelling van de bijzondere uitkering wordt de definitieve mate van invaliditeit of arbeidsongeschiktheid met dienstverband gehanteerd die op de peildatum, 1 juni 2012, na het bereiken van een medische eindtoestand is vastgesteld.   
 6.  De bijzondere uitkering wordt eenmalig vastgesteld. In afwijking van artikel 19 leidt een latere wijziging in de mate van invaliditeit niet tot aanpassing van een toegekende bijzondere uitkering.   
-7.  In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in [artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
+7.  In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering.   
 8.  De grondslag van de bijzondere uitkering is € 125.000,–.   
 9.  In afwijking van artikel 15 wordt de bijzondere uitkering in een keer uitbetaald.   
 10.  In het geval dat de gewezen militair een schadevergoeding heeft ontvangen voor zijn invaliditeit met dienstverband als bedoeld in het eerste lid bedraagt de bijzondere uitkering slechts het meerdere boven het totaal van de reeds ontvangen materiële schadevergoeding.   
-11.  De over de bijzondere uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) komen ten laste van het Rijk.  
+11.  De over de bijzondere uitkering verschuldigde belasting ingevolge de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964 en premie voor de volksverzekeringen ingevolge de Wet financiering sociale verzekeringen komen ten laste van het Rijk.  
 
 ### Paragraaf  7  
 
@@ -485,4 +485,4 @@ A. H. Korthals
 | --- | --- | --- |
 | bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d)  | besl. IP-65+ (art. 17, onder 11e)  |
 
-N.B. – de artt. 2 van de Pensioenwet voor de landmacht 1922 en de Pensioenwet voor het reserve-personeel der landmacht 1923 geven ook voor de andere wetten een inzicht in de pensioensoorten die voor de Algemene militaire pensioenwet (AMPW) bestonden – in het pensioenreglement wordt in verband met de toetreding van het militair personeel een hoofdstuk 18c opgenomen, inhoudende het overgangsrecht in verband met die toetreding; art. 18c.3 regelt meer in het bijzonder de omzetting van het oude naar het nieuwe recht – besl. AO/IV: het [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md)  – besl. IP-65+: het Besluit bijzondere militaire pensioen  
+N.B. – de artt. 2 van de Pensioenwet voor de landmacht 1922 en de Pensioenwet voor het reserve-personeel der landmacht 1923 geven ook voor de andere wetten een inzicht in de pensioensoorten die voor de Algemene militaire pensioenwet (AMPW) bestonden – in het pensioenreglement wordt in verband met de toetreding van het militair personeel een hoofdstuk 18c opgenomen, inhoudende het overgangsrecht in verband met die toetreding; art. 18c.3 regelt meer in het bijzonder de omzetting van het oude naar het nieuwe recht – besl. AO/IV: het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen  – besl. IP-65+: het Besluit bijzondere militaire pensioen  

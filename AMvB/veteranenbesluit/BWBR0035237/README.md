@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van onze Minister van Defensie, van 12 maart 2014 gedaan mede namens onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de [artikelen 2 tot en met 5](../../../wet/veteranenwet/BWBR0031401/README.md) en [7 tot en met 10 van de Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md) en de [artikelen 12](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en [12h van de Militaire ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md);
+Gelet op de artikelen 2 tot en met 5 en 7 tot en met 10 van de Veteranenwet en de artikelen 12 en 12h van de Militaire ambtenarenwet 1931;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 7 mei 2014, No.W07.14.0070/II);
 
@@ -16,13 +16,9 @@ Hebben goedgevonden en verstaan:
 
 ####Erkenning en waardering voor veteranen
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  1  
 
 ####Erkenning en waardering
-
-Treedt in werking per 28-06-2014 
 
 1.  Onze minister stelt een Inspecteur der Veteranen aan die tot taak heeft Onze Minister te adviseren over veteranenaangelegenheden en te bemiddelen in individuele aangelegenheden ten behoeve van veteranen.   
 2.  Onze minister bevordert initiatieven op het gebied van erkenning van en waardering voor veteranen door het instellen van een veteranenloket voor informatie en aanvragen betreffende erkenning en waardering. Het veteranenloket heeft tevens tot taak het ondersteunen en begeleiden van veteranen en hun relaties als bedoeld in artikel 10 en door het faciliteren, subsidiëren of door het beschikbaar stellen van personeel, materieel of infrastructuur aan of voor: 
@@ -39,16 +35,12 @@ d. een verzorgingshuisfunctie voor veteranen.
 
 ####Onderscheidingstekens
 
-Treedt in werking per 28-06-2014 
-
 1.  Aan de veteraan wordt zo spoedig mogelijk na terugkeer van de missie het draaginsigne veteranen en de veteranenpas uitgereikt om zich als veteraan te onderscheiden;   
 2.  Over toekenning van eventuele andere onderscheidingstekens worden bij ministeriële regeling regels gesteld.  
 
 ### Artikel  3  
 
 ####Bijeenkomsten en faciliteiten
-
-Treedt in werking per 28-06-2014 
 
 Het deelnemen van veteranen en hun relaties aan bijeenkomsten en reünies van militaire eenheden wordt volgens bij ministeriële regeling te stellen regels bevorderd door: 
 
@@ -62,13 +54,9 @@ c. het op militaire locaties beschikbaar stellen van sportaccommodaties, vergade
 
 ####Zorgplicht voor en tijdens inzet
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  4  
 
 ####Bepalen van de uitzendgeschiktheid van de militair
-
-Treedt in werking per 28-06-2014 
 
 1.  Alvorens een militair wordt aangewezen voor deelnemen aan een uitzending stelt de commandant van de organieke eenheid van de militair vast of de militair uitzendgeschikt is.   
 2.  De commandant raadpleegt hiertoe het sociaal medisch team, waarbij hij over de medische, psychische en sociale geschiktheid van de militair wordt geadviseerd. Het advies van de verantwoordelijk militair arts over de uitzendgeschiktheid is bindend.   
@@ -78,8 +66,6 @@ Treedt in werking per 28-06-2014
 ### Artikel  5  
 
 ####Voorbereiden van militairen op daadwerkelijke inzet
-
-Treedt in werking per 28-06-2014 
 
 1.  De Commandant der Strijdkrachten draagt er zorg voor dat militairen die zijn aangewezen voor uitzending deelnemen aan een opwerkprogramma, dat ten minste bestaat uit een opleiding gericht op de specifieke kenmerken van de missie en het uitzendgebied en een training gericht op de algemene kenmerken van een uitzending.   
 2.  De Commandant der Strijdkrachten draagt er zorg voor dat militairen tijdig worden opgeleid in het herkennen van en omgaan met gevechtsstress en worden geïnformeerd over hygiëne en preventieve gezondheidszorg in het operatiegebied.   
@@ -96,15 +82,11 @@ b. de bevoegdheden en verantwoordelijkheden op het gebied van zorg van de comman
 
 ####Informeren van militairen en hun relaties
 
-Treedt in werking per 28-06-2014 
-
 Tijdens de voorbereiding, bedoeld in artikel 5, worden de militair en diens relaties door de Commandant der Strijdkrachten geïnformeerd over de gezondheidsrisico’s van de inzet en over het veteranenloket bedoeld in artikel 10 en de zorg die in dit verband voor de militair en voor diens relaties beschikbaar is. 
 
 ### Artikel  7  
 
 ####Sociaal medische begeleiding en geestelijke verzorging
-
-Treedt in werking per 28-06-2014 
 
 1.  Tijdens inzet zijn medische zorg en sociaal-medische begeleiding beschikbaar voor het verlenen van zorg aan de militair.   
 2.  Door de commandant van de uitgezonden eenheid wordt daarnaast een zorg- en hulpverleningsteam samengesteld.   
@@ -114,8 +96,6 @@ Treedt in werking per 28-06-2014
 ### Artikel  8  
 
 ####Begeleiden van de relaties van militairen tijdens de inzet
-
-Treedt in werking per 28-06-2014 
 
 1.  Gedurende de uitzending van de militair worden diens relaties door de zorg van de Commandant der Strijdkrachten geïnformeerd en begeleid door middel van het organiseren van bijeenkomsten waar contact kan worden gelegd met relaties van andere militairen en waarbij voorlichting wordt gegeven.   
 2.  De Commandant der Strijdkrachten draagt er zorg voor dat in geval van calamiteiten de relaties van de militair gerichte informatievoorziening en ondersteuning ontvangen.   
@@ -132,13 +112,9 @@ b. bij andere dan onder a. bedoelde incidenten in het uitzendgebied door bedrijf
 
 ####Zorgplicht na inzet
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  9  
 
 ####Het voorzien in sociaal medische begeleiding na afloop van de inzet
-
-Treedt in werking per 28-06-2014 
 
 1.  Gedurende de eerste 18 maanden na terugkeer van de veteraan worden de veteraan en zijn relaties door de zorg van de Commandant der Strijdkrachten proactief begeleid.   
 2.  Proactieve begeleiding van de veteraan geschiedt ten minste door middel van een adaptatieprocedure die bestaat uit: 
@@ -162,13 +138,9 @@ b. terugkeerdagen, die na terugkeer van de militair worden gehouden en waarop re
 
 ####Bijzondere zorgplicht voor veteranen
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  10  
 
 ####Veteranenloket
-
-Treedt in werking per 28-06-2014 
 
 1.  Het veteranenloket bedoeld in artikel 1 fungeert als zorgloket voor de veteraan en zijn relaties teneinde hen te ondersteunen en begeleiden.   
 2.  Het veteranenloket kan door de veteraan en zijn relaties worden benaderd voor alle vragen die verband houden met de veteranenstatus.   
@@ -178,8 +150,6 @@ Treedt in werking per 28-06-2014
 ### Artikel  11  
 
 ####Landelijk Zorgsysteem voor Veteranen
-
-Treedt in werking per 28-06-2014 
 
 1.  Er is een Landelijk Zorgsysteem voor Veteranen waarbij instellingen zijn aangesloten op het gebied van de geestelijke gezondheidszorg, waaronder wordt verstaan: psychische en psychosociale zorg voor veteranen.   
 2.  Het Landelijk Zorgsysteem voor Veteranen bevordert de samenwerking tussen de aangesloten instellingen.   
@@ -191,17 +161,13 @@ Treedt in werking per 28-06-2014
 
 ####Sociale zekerheidswetgeving en Kaderwet militaire pensioenen
 
-Treedt in werking per 28-06-2014 
-
-1.  Het veteranenloket ondersteunt de veteraan en zijn relaties op verzoek bij de aanvraag van een uitkering op grond van de sociale zekerheidswetgeving, een voorziening op grond van de [Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), de [militaire ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) of enige aanspraak op grond van de [Kaderwet militaire pensioenen](../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
+1.  Het veteranenloket ondersteunt de veteraan en zijn relaties op verzoek bij de aanvraag van een uitkering op grond van de sociale zekerheidswetgeving, een voorziening op grond van de Wet maatschappelijke ondersteuning, de militaire ambtenarenwet 1931 of enige aanspraak op grond van de Kaderwet militaire pensioenen.   
 2.  De voor de uitkerings- dan wel pensioentoekenning noodzakelijke geneeskundige onderzoeken worden zoveel mogelijk gelijktijdig uitgevoerd.   
-3.  De arbeidsongeschiktheidsuitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsvoorziening voor militairen](../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md) en het militair invaliditeitspensioen worden door zorg van Onze minister gecombineerd betaald.  
+3.  De arbeidsongeschiktheidsuitkering op grond van de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening voor militairen en het militair invaliditeitspensioen worden door zorg van Onze minister gecombineerd betaald.  
 
 ### Artikel  13  
 
 ####Re-integratie
-
-Treedt in werking per 28-06-2014 
 
 1.  De veteraan die niet meer in militaire dienst is en die ten gevolge van een aandoening waarvoor een vermoeden van verband met de dienst als bedoeld in artikel 19 is aangenomen, geen werk meer heeft dan wel zijn werk dreigt te verliezen, heeft recht op begeleiding bij het vinden van werk overeenkomstig het re-integratiebeleid dat geldt binnen het ministerie van Defensie, indien en voor zover hij daarvoor geen beroep kan doen op een werkgever.   
 2.  De veteraan krijgt ondersteuning door tussenkomst van het veteranenloket bij het effectueren van de in het eerste lid bedoelde re-integratieaanspraak.   
@@ -212,15 +178,11 @@ Treedt in werking per 28-06-2014
 
 ####Revalidatie
 
-Treedt in werking per 28-06-2014 
-
 De veteraan en zijn relaties krijgen ondersteuning door tussenkomst van het veteranenloket bij de revalidatie van de veteraan, door het bieden van bemiddeling bij het verkrijgen van de medische zorg binnen, of buiten het militair revalidatiecentrum en door het bieden van de psychosociale begeleiding, zorg en opvang die zij daarbij nodig hebben. 
 
 ### Artikel  15  
 
 ####Maatschappelijke ondersteuning
-
-Treedt in werking per 28-06-2014 
 
 De veteraan en zijn relaties krijgen de noodzakelijke maatschappelijke ondersteuning door tussenkomst van het veteranenloket. 
 
@@ -228,16 +190,12 @@ De veteraan en zijn relaties krijgen de noodzakelijke maatschappelijke ondersteu
 
 ####Wetenschappelijk onderzoek
 
-Treedt in werking per 28-06-2014 
-
-1.  Onze minister bevordert het onderzoek, bedoeld in [artikel 10 van de Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md) onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in artikel 11, derde lid van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.   
-2.  Onze minister rapporteert jaarlijks aan de Staten-Generaal over de uitkomsten van wetenschappelijk onderzoek als bedoeld in [artikel 10 van de Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md).  
+1.  Onze minister bevordert het onderzoek, bedoeld in artikel 10 van de Veteranenwet onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in artikel 11, derde lid van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.   
+2.  Onze minister rapporteert jaarlijks aan de Staten-Generaal over de uitkomsten van wetenschappelijk onderzoek als bedoeld in artikel 10 van de Veteranenwet.  
 
 ### Artikel  17  
 
 ####Taken Raad van Toezicht en advisering
-
-Treedt in werking per 28-06-2014 
 
 1.  De Raad van toezicht en advisering ten behoeve van het civiel-militaire zorgsysteem voor de hulpverlening aan veteranen en het wetenschappelijk onderzoek naar aandoeningen gerelateerd aan uitzendingen adviseert Onze minister van Defensie ten aanzien van wetenschappelijk onderzoek op het gebied van aandoeningen gerelateerd aan uitzendingen.   
 2.  De Raad van toezicht en advisering houdt toezicht op het civiel-militaire zorgsysteem voor de hulpverlening aan veteranen, bevordert samenwerking tussen alle in het zorgsysteem betrokken partijen en velden en adviseert de minister terzake.   
@@ -247,62 +205,50 @@ Treedt in werking per 28-06-2014
 
 ####Militaire dienstslachtoffers
 
-Treedt in werking per 28-06-2014 
-
 Hoofdstuk 4 is van overeenkomstige toepassing op militaire dienstslachtoffers voor zover die niet als veteraan kunnen worden aangemerkt. 
 
 ### Hoofdstuk  5  
 
 ####Inkomensvoorziening in verband met zorg
 
-Treedt in werking per 28-06-2014 
-
 ### Paragraaf  1  
 
 ####Algemeen
-
-Treedt in werking per 28-06-2014 
 
 ### Artikel  19  
 
 ####Begripsbepalingen
 
-Treedt in werking per 28-06-2014 
-
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-*arbeidsongeschiktheid:* arbeidsongeschiktheid als bedoeld in [artikel 4](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) dan wel [artikel 5 van de Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), dan wel [artikel 18, eerste lid van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+*arbeidsongeschiktheid:* arbeidsongeschiktheid als bedoeld in artikel 4 dan wel artikel 5 van de Wet werk en inkomen naar arbeidsvermogen, dan wel artikel 18, eerste lid van de Wet op de arbeidsongeschiktheidsverzekering;  
 
-*belanghebbende:* een gewezen militair als bedoeld in [artikel 1, onder c, van de Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md) die de leeftijd als bedoeld in [artikel 7 van de Algemene ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) nog niet heeft bereikt;  
+*belanghebbende:* een gewezen militair als bedoeld in artikel 1, onder c, van de Veteranenwet die de leeftijd als bedoeld in artikel 7 van de Algemene ouderdomswet nog niet heeft bereikt;  
 
-*berekeningsgrondslag van de inkomensvoorziening:* het bedrag van de inkomsten die de veteraan in het jaar voorafgaande aan zijn aanmelding bij het loket als bedoeld in artikel 11 van dit Besluit, gebruikelijk zou hebben kunnen genieten indien hij niet ziek dan wel arbeidsongeschikt zou zijn, en dat niet minder bedraagt dan het in [artikel 7 vierde lid van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) genoemde bedrag verhoogd met 8% vakantietoeslag;  
+*berekeningsgrondslag van de inkomensvoorziening:* het bedrag van de inkomsten die de veteraan in het jaar voorafgaande aan zijn aanmelding bij het loket als bedoeld in artikel 11 van dit Besluit, gebruikelijk zou hebben kunnen genieten indien hij niet ziek dan wel arbeidsongeschikt zou zijn, en dat niet minder bedraagt dan het in artikel 7 vierde lid van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen genoemde bedrag verhoogd met 8% vakantietoeslag;  
 
-*medische eindtoestand:* de medische eindtoestand als bedoeld in de regeling van onze minister vastgesteld op basis van [artikel 2, zesde lid van de Kaderwet Militaire Pensioenen](../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md);  
+*medische eindtoestand:* de medische eindtoestand als bedoeld in de regeling van onze minister vastgesteld op basis van artikel 2, zesde lid van de Kaderwet Militaire Pensioenen;  
 
-*sociale zekerheidswetgeving:* de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de [Algemene wet bijzondere ziektekosten](../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), de [Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), dan wel een (inkomens-)voorziening die naar aard en strekking overeenkomt met de hiervoor genoemde wetten;  
+*sociale zekerheidswetgeving:* de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Zorgverzekeringswet, de Algemene wet bijzondere ziektekosten, de Wet maatschappelijke ondersteuning, dan wel een (inkomens-)voorziening die naar aard en strekking overeenkomt met de hiervoor genoemde wetten;  
 
-*vermoeden van verband met de dienst:* een redelijk en objectiveerbaar vermoeden dat de ziekte dan wel arbeidsongeschiktheid is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in [artikel 1, onder d, van de Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md);  
+*vermoeden van verband met de dienst:* een redelijk en objectiveerbaar vermoeden dat de ziekte dan wel arbeidsongeschiktheid is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in artikel 1, onder d, van de Veteranenwet;  
 
-*ziekte:* ziekte als bedoeld in [artikel 19, eerste lid van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md).   
+*ziekte:* ziekte als bedoeld in artikel 19, eerste lid van de Ziektewet.   
 
 ### Paragraaf  2  
 
 ####Recht op Inkomensvoorziening
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  20  
 
 ####Inkomensvoorziening
-
-Treedt in werking per 28-06-2014 
 
 1.  Onze minister kent op aanvraag een inkomensvoorziening toe aan de belanghebbende die ziek dan wel arbeidsongeschikt is en waarbij sprake is van een door Onze minister vastgesteld vermoeden van verband met de dienst.   
 2.  De inkomensvoorziening bedraagt 80% van de berekeningsgrondslag en wordt in maandelijkse termijnen uitbetaald.   
 3.  De inkomensvoorziening wordt verminderd met inkomsten uit beroep dan wel bedrijf dan wel een uitkering op grond van de sociale zekerheidswetgeving.   
 4.  In afwijking van het derde lid worden inkomsten verkregen tijdens de duur van de inkomensvoorziening tengevolge van een stage dan wel proefplaatsing niet in mindering gebracht op de inkomensvoorziening.   
 5.  De duur van de inkomensvoorziening bedraagt twee jaar, gerekend vanaf de datum van toekenning.   
-6.  De inkomensvoorziening wordt beëindigd indien is komen vast te staan dat geen sprake is van een ziekte dan wel arbeidsongeschiktheid die is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in [artikel 1, onder d, van de Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md) of wanneer het re-integratietraject is afgerond. De tot op de datum van deze vaststelling genoten inkomensvoorziening wordt niet teruggevorderd.   
+6.  De inkomensvoorziening wordt beëindigd indien is komen vast te staan dat geen sprake is van een ziekte dan wel arbeidsongeschiktheid die is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in artikel 1, onder d, van de Veteranenwet of wanneer het re-integratietraject is afgerond. De tot op de datum van deze vaststelling genoten inkomensvoorziening wordt niet teruggevorderd.   
 7.  De inkomensvoorziening wordt beëindigd wanneer door of namens Onze minister is vastgesteld dat de medische eindtoestand van belanghebbende is bereikt.   
 8.  In afwijking van het vijfde lid en het zevende lid wordt de duur van de inkomensvoorziening met ten hoogste 12 maanden verlengd als het re-integratietraject nog niet is afgerond.   
 9.  In afwijking van het vijfde lid wordt de inkomensvoorziening verlengd als er nog geen sprake is van een medische eindtoestand.   
@@ -312,21 +258,15 @@ Treedt in werking per 28-06-2014
 
 ####Verrekening
 
-Treedt in werking per 28-06-2014 
-
 Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd, geweigerd of in duur beperkt als gevolg van verwijtbaar handelen van de belanghebbende wordt voor de toepassing van artikel 20, derde lid, de uitkering geacht steeds onverminderd te zijn genoten. 
 
 ### Paragraaf  3  
 
 ####Verplichtingen gedurende de duur van de inkomensvoorziening
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  22  
 
 ####Voorwaarden verbonden aan de inkomensvoorziening
-
-Treedt in werking per 28-06-2014 
 
 1.  De belanghebbende die een aanvraag voor een inkomensvoorziening heeft ingediend of een inkomensvoorziening geniet verstrekt op verzoek of uit eigen beweging zo spoedig mogelijk aan onze minister alle informatie, waaronder mede begrepen informatie in het kader van behandeling en re-integratie, waarvan het hem in de gegeven omstandigheden redelijkerwijs duidelijk moet zijn dat die van invloed kan zijn op het recht op inkomensvoorziening dan wel op de hoogte of de betaling van de inkomensvoorziening.   
 2.  De belanghebbende die een aanvraag voor een inkomensvoorziening heeft ingediend of een inkomensvoorziening geniet is verplicht: 
@@ -339,7 +279,7 @@ c. mee te werken aan een geneeskundig onderzoek door of vanwege onze minister;
 
 d. tot naleving van de door onze minister vastgestelde controlevoorschriften die noodzakelijk zijn voor een juiste uitvoering van de inkomensvoorziening;  
 
-e. op verzoek onverwijld inzage te geven in een op hem betrekking hebbend document als bedoeld in [artikel 1, eerste lid, onder 1 tot en met 3 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md);  
+e. op verzoek onverwijld inzage te geven in een op hem betrekking hebbend document als bedoeld in artikel 1, eerste lid, onder 1 tot en met 3 van de Wet op de identificatieplicht;  
 
 f. een naar algemeen medische maatstaven adequate behandeling te ondergaan voor zijn ziekte of arbeidsongeschiktheid;  
 
@@ -353,13 +293,9 @@ h. mee te werken aan door onze minister gegeven voorschriften of getroffen maatr
 
 ####Rechten gedurende de duur van de inkomensvoorziening
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  23  
 
 ####Begeleiding en aanvullende voorzieningen
-
-Treedt in werking per 28-06-2014 
 
 1.  De belanghebbende heeft gedurende de duur van de inkomensvoorziening recht op: 
 
@@ -374,13 +310,9 @@ c. voorzieningen die strekken tot verbetering van de leefomstandigheden en genee
 
 ####Uitkering bij overlijden
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  24  
 
 ####Uitkering
-
-Treedt in werking per 28-06-2014 
 
 1.  In geval van overlijden van de belanghebbende die in het genot is van een inkomensvoorziening wordt een uitkering verstrekt: 
 
@@ -396,13 +328,9 @@ c. bij ontstentenis van onder a of b bedoelde personen aan ouders, broers, zuste
 
 ####Stimuleringspremie
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  25  
 
 ####Aanspraak op stimuleringspremie
-
-Treedt in werking per 28-06-2014 
 
 1.  De belanghebbende die bij het beëindigen van de inkomensvoorziening geheel of gedeeltelijk is gere-integreerd in een dienstbetrekking dan wel in arbeid als zelfstandige ontvangt eenmalig een stimuleringspremie gelijk aan het bedrag van de aan de belanghebbende toegekende inkomensvoorziening over een periode van drie maanden.   
 2.  Van gehele of gedeeltelijke re-integratie in een dienstbetrekking dan wel in arbeid als zelfstandige is sprake indien de belanghebbende een aanstelling of arbeidsovereenkomst heeft voor de duur van ten minste zes maanden dan wel als zelfstandige gedurende tenminste zes maanden opdrachten heeft.   
@@ -412,21 +340,15 @@ Treedt in werking per 28-06-2014
 
 ####Nadere regels
 
-Treedt in werking per 28-06-2014 
-
 Bij regeling van onze minister worden nadere regels gesteld ter uitvoering van dit hoofdstuk. 
 
 ### Hoofdstuk  6  
 
 ####Veteranenregistratiesysteem
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  27  
 
 ####Inrichting
-
-Treedt in werking per 28-06-2014 
 
 1.  Onze minister houdt een veteranenregistratiesysteem bij waarin persoonsgegevens betreffende veteranen worden verwerkt.   
 2.  In het veteranenregistratiesysteem worden persoonsgegevens verwerkt in het kader van het veteranenbeleid van het ministerie van Defensie ten behoeve van: 
@@ -445,8 +367,6 @@ d. wetenschappelijk onderzoek;
 
 ####Opgenomen gegevens
 
-Treedt in werking per 28-06-2014 
-
 In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffende veteranen opgenomen: 
 
 a. achternaam, voorletters, voorvoegsels, geslacht, titulatuur, adres, postcode en woonplaats, geboortedatum, geboorteplaats en geboorteland en overlijdensdatum;  
@@ -461,16 +381,12 @@ d. administratieve gegevens, zoals een indicatie betreffende de uitvoering van h
 
 ####Bescherming privacy
 
-Treedt in werking per 28-06-2014 
-
 1.  Onze Minister houdt aantekening van verstrekking van gegevens overeenkomstig het bepaalde in artikel 27, tweede lid, onder c en d.   
 2.  Aan het bewerken van gegevens kunnen nadere voorwaarden worden verbonden ter naleving van de Wet bescherming persoonsgegevens en dit besluit.  
 
 ### Artikel  30  
 
 ####Verstrekking gegevens
-
-Treedt in werking per 28-06-2014 
 
 1.  In het veteranenregistratiesysteem opgenomen persoonsgegevens worden slechts verstrekt: 
 
@@ -483,21 +399,15 @@ b. ingevolge een wettelijke verplichting.
 
 ####Wijziging andere regelingen
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  31  
 
-####Intrekking [Regeling veteranenregistratie Defensie](../../../ministeriele-regeling/regeling/veteranenregistratie/defensie/BWBR0019956/README.md)
+####Intrekking Regeling veteranenregistratie Defensie
 
-Treedt in werking per 28-06-2014 
-
-De [Regeling veteranenregistratie Defensie](../../../ministeriele-regeling/regeling/veteranenregistratie/defensie/BWBR0019956/README.md) nr.: C/2006019485 d.d. 13 juni 2006 wordt ingetrokken.
+De Regeling veteranenregistratie Defensie nr.: C/2006019485 d.d. 13 juni 2006 wordt ingetrokken.
 
 ### Artikel  32  
 
 ####Wijziging van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen
-
-Treedt in werking per 28-06-2014 
 
 Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen. 
 
@@ -505,37 +415,27 @@ Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzien
 
 ####Slotbepalingen
 
-Treedt in werking per 28-06-2014 
-
 ### Artikel  33  
 
 ####Hardheidsclausule
-
-Treedt in werking per 28-06-2014 
 
 Onze Minister kan termijnen, bedragen en percentages, genoemd in dit besluit buiten toepassing laten of daarvan afwijken indien toepassing gelet op het belang van een goede zorgverlening aan de veteraan of zijn relaties zal leiden tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  34  
 
-####Inwerkingtreden [Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md)
+####Inwerkingtreden Veteranenwet
 
-Treedt in werking per 28-06-2014 
-
-De [Veteranenwet](../../../wet/veteranenwet/BWBR0031401/README.md) treedt in werking op 28 juni 2014. 
+De Veteranenwet treedt in werking op 28 juni 2014. 
 
 ### Artikel  35  
 
 ####Inwerkingtreden
-
-Treedt in werking per 28-06-2014 
 
 Dit besluit treedt in werking op 28 juni 2014. 
 
 ### Artikel  36  
 
 ####Citeertitel
-
-Treedt in werking per 28-06-2014 
 
 Dit besluit wordt aangehaald als: Veteranenbesluit 
 

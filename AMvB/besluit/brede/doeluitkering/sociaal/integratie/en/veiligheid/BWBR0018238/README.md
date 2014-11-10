@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 15 december 2004, nr. 2004-0000041290, Directie Grotestedenbeleid en Interbestuurlijke Betrekkingen, gedaan mede namens Onze Ministers van Justitie, voor Vreemdelingenzaken en Integratie, van Binnenlandse Zaken en Koninkrijksrelaties en van Onderwijs, Cultuur en Wetenschap, alsmede de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, drs. M. Rutte, en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-Gelet op [artikel 89 van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), [artikel 17, derde lid, van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), [artikel 10a, eerste en tweede lid, van de Welzijnswet 1994](../../../../../../../../../wet/welzijnswet/1994/BWBR0006705/README.md), [artikel 16 van de Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) en [artikel 2.3.1, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 89 van de Grondwet, artikel 17, derde lid, van de Financiële-verhoudingswet, artikel 10a, eerste en tweede lid, van de Welzijnswet 1994, artikel 16 van de Wet inburgering nieuwkomers en artikel 2.3.1, tweede lid, van de Wet educatie en beroepsonderwijs;
 
 De Raad van State gehoord (advies van 21 februari 2005, nr. W04.04.0608/I);
 
@@ -31,17 +31,17 @@ f. centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid: de G31 me
 
 g. centrumgemeenten voor vrouwenopvang: de G31 met uitzondering van de gemeenten Almelo, Deventer, Hengelo (Overijssel), Lelystad, Schiedam en Sittard-Geleen;  
 
-h. nieuwkomer: de vreemdeling, bedoeld in [artikel 1, eerste lid, onderdeel a, ten eerste](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), en de Nederlander, bedoeld in [artikel 1, eerste lid, onderdeel a, ten tweede van de Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md);  
+h. nieuwkomer: de vreemdeling, bedoeld in artikel 1, eerste lid, onderdeel a, ten eerste, en de Nederlander, bedoeld in artikel 1, eerste lid, onderdeel a, ten tweede van de Wet inburgering nieuwkomers;  
 
 i. oudkomer: 
 
-1. persoon die 18 jaar of ouder is, die buiten Nederland is geboren en behoort tot een etnische minderheidsgroep, die rechtmatig in Nederland verblijft anders dan voor een tijdelijk doel als bepaald bij of krachtens de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), en die niet verplicht is om op grond van de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) een inburgeringsprogramma te volgen;  
+1. persoon die 18 jaar of ouder is, die buiten Nederland is geboren en behoort tot een etnische minderheidsgroep, die rechtmatig in Nederland verblijft anders dan voor een tijdelijk doel als bepaald bij of krachtens de Wet inburgering nieuwkomers, en die niet verplicht is om op grond van de Wet inburgering nieuwkomers een inburgeringsprogramma te volgen;  
 
-2. geestelijke bedienaar als bedoeld in de [Regeling aanwijzing bijzondere categorieën vreemdelingen ten behoeve van inburgering](../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/bijzondere/categorieën/vreemdelingen/ten/behoeve/van/etc/BWBR0013218/README.md), die niet verplicht is om op grond van de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) een inburgerings-programma te volgen;    
+2. geestelijke bedienaar als bedoeld in de Regeling aanwijzing bijzondere categorieën vreemdelingen ten behoeve van inburgering, die niet verplicht is om op grond van de Wet inburgering nieuwkomers een inburgerings-programma te volgen;    
 
 j. inburgeringsprogramma voor oudkomers: een inburgeringsprogramma dat oudkomers volgen en waarin het onderdeel Nederlands als tweede taal kan worden gekoppeld aan onderdelen voor het bereiken van werk, toegang tot beroepsonderwijs, opvoedingsondersteuning of sociale activering;  
 
-k. volwasseneneducatie: onderwijs als bedoeld in [artikel 7.3.1., eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+k. volwasseneneducatie: onderwijs als bedoeld in artikel 7.3.1., eerste lid, van de Wet educatie en beroepsonderwijs;  
 
 l. ontwikkelingsprogramma: het meerjaren ontwikkelingsprogramma, bedoeld in artikel 5, tweede lid;  
 
@@ -53,37 +53,37 @@ o. inburgeringsdeel: het deel van de uitkering dat afkomstig is uit de middelen 
 
 p. programmadeel: het andere deel van de uitkering dan het inburgeringsdeel;  
 
-q.inburgeringsplichtige: de inburgeringsplichtige, bedoeld in de [artikelen 1, eerste lid, onderdeel b](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), en [20 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), die niet behoort tot de inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie een persoonsvolgend budget is verstrekt;
+q.inburgeringsplichtige: de inburgeringsplichtige, bedoeld in de artikelen 1, eerste lid, onderdeel b, en 20 van de Wet inburgering, die niet behoort tot de inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie een persoonsvolgend budget is verstrekt;
 
-r.vrijwillige inburgeraar: de Nederlander of de rechtmatig in Nederland verblijvende vreemdeling, bedoeld in [artikel 5, tweede lid, onderdeel a, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), het rechtmatig in Nederland verblijvende familielid van voornoemde vreemdeling of de rechtmatig in Nederland verblijvende vreemdeling die onderdaan is van een staat wiens onderdanen op grond van bepalingen van verdragen of besluiten van volkenrechtelijke organisaties geen inburgeringsplicht als bedoeld in [artikel 7 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) kan worden opgelegd, en die
+r.vrijwillige inburgeraar: de Nederlander of de rechtmatig in Nederland verblijvende vreemdeling, bedoeld in artikel 5, tweede lid, onderdeel a, van de Wet inburgering, het rechtmatig in Nederland verblijvende familielid van voornoemde vreemdeling of de rechtmatig in Nederland verblijvende vreemdeling die onderdaan is van een staat wiens onderdanen op grond van bepalingen van verdragen of besluiten van volkenrechtelijke organisaties geen inburgeringsplicht als bedoeld in artikel 7 van de Wet inburgering kan worden opgelegd, en die
 
 1°.ouder is dan 15 jaar;
 
 2°.minder dan acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven, en;
 
-3°.niet beschikt over een diploma, certificaat of document als bedoeld in [artikel 2.3 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+3°.niet beschikt over een diploma, certificaat of document als bedoeld in artikel 2.3 van het Besluit inburgering;
 
-4°.niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waarvan de afronding leidt tot uitreiking van een diploma, certificaat of document als bedoeld in [artikel 2.3 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+4°.niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waarvan de afronding leidt tot uitreiking van een diploma, certificaat of document als bedoeld in artikel 2.3 van het Besluit inburgering;
 
-5°.geen overeenkomst heeft afgesloten op grond van de [Regeling inburgering allochtone vrouwen niet-G31](../../../../../../../../../ministeriele-regeling/regeling/inburgering/allochtone/vrouwen/niet-g31/BWBR0019949/README.md), de [Regeling inburgering allochtone vrouwen G31](../../../../../../../../../ministeriele-regeling/regeling/inburgering/allochtone/vrouwen/g31/BWBR0020127/README.md), dan wel het extensieve deel van de Pilot inburgering allochtone vrouwen Taal Totaal;
+5°.geen overeenkomst heeft afgesloten op grond van de Regeling inburgering allochtone vrouwen niet-G31, de Regeling inburgering allochtone vrouwen G31, dan wel het extensieve deel van de Pilot inburgering allochtone vrouwen Taal Totaal;
 
-s.geestelijke bedienaar: de persoon, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);
+s.geestelijke bedienaar: de persoon, bedoeld in artikel 1, eerste lid, onderdeel g, van de Wet inburgering;
 
-t.inburgeringsvoorziening: hetgeen daaronder wordt verstaan in [artikel 1.1, onderdeel j, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+t.inburgeringsvoorziening: hetgeen daaronder wordt verstaan in artikel 1.1, onderdeel j, van het Besluit inburgering;
 
-u.gecombineerde inburgeringsvoorziening: hetgeen daaronder wordt verstaan in [artikel 1.1, onderdeel k, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+u.gecombineerde inburgeringsvoorziening: hetgeen daaronder wordt verstaan in artikel 1.1, onderdeel k, van het Besluit inburgering;
 
-v.handhavingsbeschikking: de beschikking, bedoeld in [artikel 26 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), die niet tevens is gegeven op grond van [artikel 19a, tweede lid, onderdeel c](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), of [artikel 22, tweede lid, van die wet](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);
+v.handhavingsbeschikking: de beschikking, bedoeld in artikel 26 van de Wet inburgering, die niet tevens is gegeven op grond van artikel 19a, tweede lid, onderdeel c, of artikel 22, tweede lid, van die wet;
 
-w.kennisgeving: de schriftelijke informatieverstrekking op grond van [artikel 5.3, derde lid, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+w.kennisgeving: de schriftelijke informatieverstrekking op grond van artikel 5.3, derde lid, van het Besluit inburgering;
 
-x.Wet inburgering nieuwkomers: [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) zoals die luidde op 31 december 2006;
+x.Wet inburgering nieuwkomers: Wet inburgering nieuwkomers zoals die luidde op 31 december 2006;
 
-y. persoonsvolgend budget: budget dat ter beschikking wordt gesteld ten behoeve van de inburgering van een persoon als bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000 (Stcrt. 2007, 111), die inburgeringsplichtig is op grond van de [artikelen 3 tot en met 6 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en die op 1 januari 2008 in een opvangvoorziening als bedoeld in [artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) verblijft; 
+y. persoonsvolgend budget: budget dat ter beschikking wordt gesteld ten behoeve van de inburgering van een persoon als bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000 (Stcrt. 2007, 111), die inburgeringsplichtig is op grond van de artikelen 3 tot en met 6 van de Wet inburgering en die op 1 januari 2008 in een opvangvoorziening als bedoeld in artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers verblijft; 
 
-z. Wet inburgering: [Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../../../../../../wet/wijzigingswet/wet/inburgering/enz./(versterking/eigen/verantwoordelijkheid/etc/BWBR0032031/README.md) (Stb. 2012, 430).  
+z. Wet inburgering: Wet inburgering zoals die luidde voor de inwerkingtreding van de wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 430).  
 
-aa. Besluit inburgering: [Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dat luidde voor het tijdstip van de inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../../../../../../AMvB/wijzigingsbesluit/besluit/inburgering/enz./(versterking/eigen/etc/BWBR0032034/README.md) (Stb. 2012, 432).   
+aa. Besluit inburgering: Besluit inburgering zoals dat luidde voor het tijdstip van de inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432).   
 2. In afwijking van het eerste lid, aanhef en onderdeel d, loopt de GSB III periode voor de gemeente Sittard-Geleen van 1 januari 2006 tot en met 31 december 2009. 
 
 ###Artikel 2 
@@ -96,23 +96,23 @@ Onze Minister verstrekt voor de GSB III periode aan een gemeente een brede doelu
 
 a. de uitvoering van het ontwikkelingsprogramma;  
 
-b. de uitvoering van de [artikelen 4](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), [5](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), [6, eerste lid](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), en [15 van de Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) en het aanbieden van inburgeringsprogramma’s voor oudkomers in 2005 en 2006, en  
+b. de uitvoering van de artikelen 4, 5, 6, eerste lid, en 15 van de Wet inburgering nieuwkomers en het aanbieden van inburgeringsprogramma’s voor oudkomers in 2005 en 2006, en  
 
-c. het in 2009 aanbieden aan de doelgroep, bedoeld in [artikel 1 van de Wet participatiebudget](../../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md), van re-integratievoorzieningen als bedoeld in [dat artikel](../../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md), overeenkomstig [artikel 3 van die wet](../../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md).  
+c. het in 2009 aanbieden aan de doelgroep, bedoeld in artikel 1 van de Wet participatiebudget, van re-integratievoorzieningen als bedoeld in dat artikel, overeenkomstig artikel 3 van die wet.  
 
 ### Artikel  4  
 
 1.  De uitkering wordt berekend volgens de formule: A x I + B x J + C x K + D x L + E x M + F x N + G x O + H x P + Q + R in welke formule voorstelt: A: het procentuele aandeel van de gemeente in de middelen voor leefbaarheid en veiligheid, die gedurende de GSB III periode vanuit hoofdstuk VII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; B: het procentuele aandeel van de gemeente in de middelen voor het terugdringen van voortijdig schoolverlaten, die gedurende de GSB III periode vanuit hoofdstuk VIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; C: het procentuele aandeel van de gemeente in de middelen voor de bestrijding van gezondheidsachterstanden, die gedurende de GSB III periode vanuit hoofdstuk XVI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; D: het procentuele aandeel van de gemeente die behoort tot de centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid in de middelen voor maatschappelijke opvang en verslavingsbeleid, die gedurende de GSB III periode vanuit hoofdstuk XVI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; E: het procentuele aandeel van de gemeente die behoort tot de centrumgemeenten voor vrouwenopvang in de middelen voor vrouwenopvang, die gedurende de GSB III periode vanuit hoofdstuk XVI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; F: het procentuele aandeel van de gemeente in de middelen voor de inburgering van nieuwkomers, die in 2005 en in 2006 vanuit hoofdstuk VI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; G: het procentuele aandeel van de gemeente in de middelen voor de inburgering van oudkomers, die in 2005 en in 2006 vanuit hoofdstuk VI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; H: het procentuele aandeel van de gemeente in de extra middelen voor veiligheid, die gedurende de GSB III periode vanuit hoofdstuk VII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; I: de middelen voor leefbaarheid en veiligheid die gedurende de GSB III periode vanuit hoofdstuk VII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; J: de middelen voor het terugdringen van voortijdig schoolverlaten die gedurende de GSB III periode vanuit hoofdstuk VIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; K: de middelen voor de bestrijding van gezondheidsachterstanden die gedurende de GSB III periode vanuit hoofdstuk XVI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; L: de middelen voor maatschappelijke opvang en verslavingsbeleid die gedurende de GSB III periode vanuit hoofdstuk XVI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; M: de middelen voor vrouwenopvang die gedurende de GSB III periode vanuit hoofdstuk XVI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; N: de middelen voor de inburgering van nieuwkomers die in 2005 en in 2006 vanuit hoofdstuk VI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; O: de middelen voor de inburgering van oudkomers die in 2005 en in 2006 vanuit hoofdstuk VI van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; P: de extra middelen voor veiligheid die gedurende de GSB III periode vanuit hoofdstuk VII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld; Q: het aandeel van de gemeente in de middelen ten behoeve van:
 
-a. inburgeringsplichtigen, niet bedoeld in [artikel 7.1a van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, die gedurende 2007 en 2008 vanuit hoofdstuk XI, respectievelijk hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  
+a. inburgeringsplichtigen, niet bedoeld in artikel 7.1a van het Besluit inburgering en aan wie geen lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, die gedurende 2007 en 2008 vanuit hoofdstuk XI, respectievelijk hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  
 
-b. inburgeringsplichtigen, niet bedoeld in [artikel 7.1a van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), die gedurende 2009 vanuit hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  
+b. inburgeringsplichtigen, niet bedoeld in artikel 7.1a van het Besluit inburgering, die gedurende 2009 vanuit hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  
 
 c. vrijwillige inburgeraars, die gedurende 2007, 2008 en 2009 vanuit hoofdstuk XI, respectievelijk hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  R: het aandeel van de gemeente in de middelen ten behoeve van:
 
-a. inburgeringsplichtigen als bedoeld in [artikel 7.1a van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) aan wie geen persoonsvolgend budget dan wel lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, die gedurende 2007 en 2008 vanuit hoofdstuk XI, respectievelijk hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  
+a. inburgeringsplichtigen als bedoeld in artikel 7.1a van het Besluit inburgering aan wie geen persoonsvolgend budget dan wel lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, die gedurende 2007 en 2008 vanuit hoofdstuk XI, respectievelijk hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld;  
 
-b. inburgeringsplichtigen als bedoeld in [artikel 7.1a van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) aan wie geen persoonsvolgend budget is verstrekt, en die gedurende 2009 vanuit hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld.    
+b. inburgeringsplichtigen als bedoeld in artikel 7.1a van het Besluit inburgering aan wie geen persoonsvolgend budget is verstrekt, en die gedurende 2009 vanuit hoofdstuk XVIII van de Rijksbegroting voor de uitkering ter beschikking worden gesteld.    
 2. Bij of krachtens regeling van Onze Minister wordt de berekeningswijze vastgesteld volgens welke:
 
 a.de procentuele aandelen van de gemeenten, bedoeld in het eerste lid, onder de letters A tot en met H, worden bepaald;
@@ -155,9 +155,9 @@ e. het verbeteren van de veiligheid anders dan bedoeld onder a tot en met d;
 
 f. de aanpak van onderwijsachterstanden;  
 
-g. het aantal personen onder de drieëntwintig jaar dat een startkwalificatie behaalt van tenminste het niveau van de basisberoepsopleiding, bedoeld in [artikel 7.2.2., eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+g. het aantal personen onder de drieëntwintig jaar dat een startkwalificatie behaalt van tenminste het niveau van de basisberoepsopleiding, bedoeld in artikel 7.2.2., eerste lid, onder b, van de Wet educatie en beroepsonderwijs;  
 
-h. het aantal deelnemers aan een traject voor volwasseneneducatie, uitgesplitst naar activiteit als bedoeld in [artikel 7.3.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+h. het aantal deelnemers aan een traject voor volwasseneneducatie, uitgesplitst naar activiteit als bedoeld in artikel 7.3.1, eerste lid, van de Wet educatie en beroepsonderwijs;  
 
 i. de aanpak van overgewicht onder personen van 0 tot 19 jaar;  
 
@@ -173,31 +173,31 @@ n. de maatschappelijke opvang anders dan bedoeld onder k tot en met m, indien de
 
 o. inburgering van inburgeringsplichtigen en vrijwillige inburgeraars, te weten: 
 
-1°. het aantal inburgeringsplichtigen aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;  
+1°. het aantal inburgeringsplichtigen aan wie geen lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;  
 
 2°. het aantal inburgeringsplichtigen en het aantal vrijwillige inburgeraars ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;  
 
 3°. het aantal inburgeringsplichtigen aan wie een handhavingsbeschikking zal worden bekendgemaakt dan wel een kennisgeving zal worden verstrekt;  
 
-4°. het aantal inburgeringsplichtigen, tevens zijnde geestelijke bedienaar, aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;  
+4°. het aantal inburgeringsplichtigen, tevens zijnde geestelijke bedienaar, aan wie geen lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;  
 
 5°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;  
 
-6°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars dat op 1 januari 2007 deelneemt aan opleidingen educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), alsmede de omvang van het bedrag dat benodigd is om deze opleidingen educatie gedurende het jaar 2007 te bekostigen;  
+6°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars dat op 1 januari 2007 deelneemt aan opleidingen educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs, alsmede de omvang van het bedrag dat benodigd is om deze opleidingen educatie gedurende het jaar 2007 te bekostigen;  
 
-7°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget of een lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, ten behoeve van wie in 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;  
+7°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget of een lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, ten behoeve van wie in 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;  
 
 8°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt, ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;  
 
 9°. het aantal inburgeringsplichtigen, inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt en vrijwillige inburgeraars: 
 
-a. ten behoeve van wie in 2008 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel r, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zal worden vastgesteld en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+a. ten behoeve van wie in 2008 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in artikel 1.1, onderdeel r, van het Besluit inburgering zal worden vastgesteld en aan wie geen lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
-b. ten behoeve van wie in 2009 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel r, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zal worden vastgesteld;  
+b. ten behoeve van wie in 2009 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in artikel 1.1, onderdeel r, van het Besluit inburgering zal worden vastgesteld;  
 
-c. ten behoeve van wie in 2008 voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zal worden vastgesteld en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
+c. ten behoeve van wie in 2008 voor de eerste keer een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de Wet inburgering zal worden vastgesteld en aan wie geen lening als bedoeld in artikel 16 van de Wet inburgering is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;  
 
-d. ten behoeve van wie in 2009 voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zal worden vastgesteld.        
+d. ten behoeve van wie in 2009 voor de eerste keer een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de Wet inburgering zal worden vastgesteld.        
 2.  De resultaten ten aanzien van de onderwerpen, genoemd in het eerste lid, onder a tot en met o, worden geformuleerd met inachtneming van de bij regeling van Onze Minister vast te stellen indicatoren. Bij de regeling van Onze Minister worden de categorieën van middelen van het programmadeel, percentsgewijs toegedeeld aan één of meer indicatoren.   
 3.  Indien ten aanzien van een of meer onderdelen geen resultaten worden vastgesteld, bevat het ontwikkelingsprogramma daarvoor een motivering en worden de krachtens het tweede lid aan de desbetreffende indicatoren toegedeelde percentages naar rato toegedeeld aan de overige indicatoren.   
 4.  Bij regeling van Onze Minister worden indicatoren vastgesteld voor de maatschappelijke effecten die zijn bereikt met de uitvoering van het ontwikkelingsprogramma en voor het periodiek verschaffen van gegevens daarover aan Onze Minister. Deze indicatoren hebben betrekking op: 
@@ -212,7 +212,7 @@ d. sociale kwaliteit.
 
 ### Artikel  8  
 
-1.  De resultaten, bedoeld in artikel 7, eerste lid, onderdelen a tot en met e, worden afgestemd met het driehoeksoverleg, bedoeld in [artikel 13 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+1.  De resultaten, bedoeld in artikel 7, eerste lid, onderdelen a tot en met e, worden afgestemd met het driehoeksoverleg, bedoeld in artikel 13 van de Politiewet 2012.   
 2.  In het ontwikkelingsprogramma worden de uitkomsten van de afstemming vermeld.  
 
 ### Artikel  9  
@@ -227,9 +227,9 @@ a.het deel, bedoeld in artikel 4, tweede lid, onderdeel b, onder 1°, een vast b
 
 1°.het bedrag, bedoeld in artikel 7, eerste lid, onderdeel o, onder 4°;
 
-2°.een door Onze Minister te bepalen bedrag ten behoeve van de door de gemeente te verstrekken informatie aan (potentiële) inburgeringsplichtigen omtrent het inburgeringsstelsel van de [Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);
+2°.een door Onze Minister te bepalen bedrag ten behoeve van de door de gemeente te verstrekken informatie aan (potentiële) inburgeringsplichtigen omtrent het inburgeringsstelsel van de Wet inburgering;
 
-b.het deel, bedoeld in artikel 4, tweede lid, onderdeel b, onder 2°, voor zover betrekking hebbende op prestaties op grond van de [Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), in plaats van van de bijdragevergoedingen, bedoeld in artikel 4, tweede lid, onderdeel b, onder 2°, uitgegaan van voorschotvergoedingen, waarvan de hoogte wordt bepaald volgens bij regeling van Onze Minister te stellen regels. 
+b.het deel, bedoeld in artikel 4, tweede lid, onderdeel b, onder 2°, voor zover betrekking hebbende op prestaties op grond van de Wet inburgering, in plaats van van de bijdragevergoedingen, bedoeld in artikel 4, tweede lid, onderdeel b, onder 2°, uitgegaan van voorschotvergoedingen, waarvan de hoogte wordt bepaald volgens bij regeling van Onze Minister te stellen regels. 
 6. Voor het bepalen van de hoogte van onderdeel R, bedoeld in artikel 4, eerste lid, van de uitkering wordt uitgegaan van voorschotvergoedingen, waarvan de hoogte wordt bepaald volgens bij regeling van Onze Minister te stellen regels. 
 7.  De uitkering wordt verleend onder de voorwaarde dat door de begrotingswetgever voldoende middelen ter beschikking worden gesteld.  
 
@@ -252,7 +252,7 @@ b.de verstrekking van gegevens aan Onze Minister over de uitvoering van het ontw
 
 ### Artikel  13  
 
-1.  [Artikel 20, vierde lid, van de Wet maatschappelijke ondersteuning](../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), en de krachtens dat artikellid vastgestelde ministeriële regelingen zijn van toepassing met dien verstande dat in dat artikellid voor «Een gemeente waaraan een uitkering als bedoeld in het eerste en tweede lid wordt verstrekt» wordt gelezen: Een gemeente die behoort tot de centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid of voor vrouwenopvang, bedoeld in artikel 1, onderdelen f en g, van het Besluit brede doeluitkering sociaal, integratie en veiligheid.   
+1.  Artikel 20, vierde lid, van de Wet maatschappelijke ondersteuning, en de krachtens dat artikellid vastgestelde ministeriële regelingen zijn van toepassing met dien verstande dat in dat artikellid voor «Een gemeente waaraan een uitkering als bedoeld in het eerste en tweede lid wordt verstrekt» wordt gelezen: Een gemeente die behoort tot de centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid of voor vrouwenopvang, bedoeld in artikel 1, onderdelen f en g, van het Besluit brede doeluitkering sociaal, integratie en veiligheid.   
 2.  Het college van burgemeester en wethouders van een gemeente die behoort tot de centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid of tot de centrumgemeenten voor vrouwenopvang overlegt over de aanwending van de uitkering met de colleges van burgemeester en wethouders van de omringende gemeenten.   
 3.  De door de gemeente uit de uitkering bekostigde voorzieningen op het terrein van maatschappelijke opvang en verslavingsbeleid en van vrouwenopvang zijn toegankelijk voor iedereen die in Nederland woont.  
 
@@ -268,12 +268,12 @@ c. de van de oudkomer af te nemen toetsen.
 
 ### Artikel  15  
 
-1.  Het college van burgemeester en wethouders zendt tot en met 2009 voor 1 april van elk jaar aan Onze Minister een verslag over de uitvoering van de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) en over de door het gemeentebestuur aangeboden inburgeringsprogramma’s voor oudkomers in 2005 en 2006.   
+1.  Het college van burgemeester en wethouders zendt tot en met 2009 voor 1 april van elk jaar aan Onze Minister een verslag over de uitvoering van de Wet inburgering nieuwkomers en over de door het gemeentebestuur aangeboden inburgeringsprogramma’s voor oudkomers in 2005 en 2006.   
 2.  Het verslag bevat de bij regeling van Onze Minister vastgestelde gegevens waartoe in ieder geval behoren: 
 
-a. het aantal beschikkingen omtrent een inburgeringsprogramma, bedoeld in [artikel 1, onderdeel e, van het Bekostigingsbesluit inburgering nieuwkomers](../../../../../../../../../AMvB/bekostigingsbesluit/inburgering/nieuwkomers/BWBR0009768/README.md), zoals dat artikel luidde op 31 december 2006;  
+a. het aantal beschikkingen omtrent een inburgeringsprogramma, bedoeld in artikel 1, onderdeel e, van het Bekostigingsbesluit inburgering nieuwkomers, zoals dat artikel luidde op 31 december 2006;  
 
-b. het aantal door het bevoegd gezag van een instelling uitgereikte verklaringen als bedoeld in [artikel 7.4.15., eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), zoals dat artikel luidde op 31 december 2006;  
+b. het aantal door het bevoegd gezag van een instelling uitgereikte verklaringen als bedoeld in artikel 7.4.15., eerste lid, van de Wet educatie en beroepsonderwijs, zoals dat artikel luidde op 31 december 2006;  
 
 c. het aantal oudkomers dat een inburgeringsprogramma voor oudkomers is gestart, en met wie het gemeentebestuur een overeenkomst heeft gesloten, en  
 
@@ -320,12 +320,12 @@ Onze Minister kan ingeval van majeure wijzigingen van de financieel-economische 
 4.  Voorschotten worden overeenkomstig de voorschotverlening betaald.   
 5.  Voorschotten worden binnen een bij de voorschotverlening te bepalen termijn betaald.   
 6.  De gemeente besteedt de ontvangen voorschotten uitsluitend aan activiteiten ten behoeve van de doeleinden als bedoeld in artikel 3 die in de GSB III periode worden verricht.   
-7.  De gemeente kan de betaalde voorschotten in de jaren 2005 tot en met 2007 mede besteden aan omzetbelasting ter zake van de in het zesde lid bedoelde activiteiten die ingevolge de [Wet op het BTW-compensatiefonds](../../../../../../../../../wet/wet/op/het/btw-compensatiefonds/BWBR0013817/README.md) recht geeft op een bijdrage uit het fonds.  
+7.  De gemeente kan de betaalde voorschotten in de jaren 2005 tot en met 2007 mede besteden aan omzetbelasting ter zake van de in het zesde lid bedoelde activiteiten die ingevolge de Wet op het BTW-compensatiefonds recht geeft op een bijdrage uit het fonds.  
 
 ### Artikel  21  
 
 1. Het college van burgemeester en wethouders dient voor 15 juli 2010 bij Onze Minister een aanvraag in tot vaststelling van het inburgeringsdeel.  
-2.  Bij de beoordeling van de aanvraag wordt gebruik gemaakt van de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md). 
+2.  Bij de beoordeling van de aanvraag wordt gebruik gemaakt van de verantwoordingsinformatie, bedoeld in artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten. 
 
 ### Artikel  22  
 
@@ -345,7 +345,7 @@ Onze Minister kan ingeval van majeure wijzigingen van de financieel-economische 
 ### Artikel  24  
 
 1.  Het college van burgemeester en wethouders dient voor 15 juli 2010 bij Onze Minister een aanvraag in tot vaststelling van het programmadeel.   
-2. Bij de beoordeling van de aanvraag wordt gebruik gemaakt van de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md).  
+2. Bij de beoordeling van de aanvraag wordt gebruik gemaakt van de verantwoordingsinformatie, bedoeld in artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten.  
 3.  Indien de in het ontwikkelingsprogramma opgenomen resultaten niet volledig zijn behaald en het gemeentebestuur een verzoek doet als bedoeld in artikel 27, vijfde lid, neemt zij in de verantwoordingsinformatie, bedoeld in het tweede lid, de verdeling van de besteding van de verleende voorschotten over die resultaten op.   
 4.  Onze Minister stelt binnen vier maanden na ontvangst van de aanvraag het bedrag van het programmadeel vast.  
 
@@ -357,7 +357,7 @@ Onze Minister kan ingeval van majeure wijzigingen van de financieel-economische 
 ### Artikel  26  
 
 1.  Indien uit de verantwoordingsinformatie, bedoeld in artikel 24, tweede lid, blijkt dat de in het ontwikkelingsprogramma opgenomen resultaten niet volledig zijn bereikt, kan Onze Minister een periode voor het gemeentebestuur vaststellen om de ontbrekende resultaten alsnog te realiseren.   
-2.  Het college van burgemeester en wethouders zendt aan Onze Minister na afloop van de periode, bedoeld in het eerste lid, binnen een door hem te bepalen termijn de verantwoordingsinformatie over de realisatie van de ontbrekende resultaten, bedoeld in het eerste lid. Die verantwoordingsinformatie wordt vormgegeven volgens het model, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md).   
+2.  Het college van burgemeester en wethouders zendt aan Onze Minister na afloop van de periode, bedoeld in het eerste lid, binnen een door hem te bepalen termijn de verantwoordingsinformatie over de realisatie van de ontbrekende resultaten, bedoeld in het eerste lid. Die verantwoordingsinformatie wordt vormgegeven volgens het model, bedoeld in artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten.   
 3. Indien een deel van de verleende voorschotten niet is besteed aan de bestedingsdoeleinden, bedoeld in artikel 3, wordt bij de verantwoordingsinformatie, bedoeld in artikel 24, tweede lid, tevens verantwoordingsinformatie gevoegd over de besteding van dat deel.  
 4.  Indien Onze Minister toepassing heeft gegeven aan het eerste lid stelt hij, in afwijking van artikel 24, vierde lid, binnen de termijn, genoemd in dat lid, het deel van het bedrag van het programmadeel vast dat overeenkomt met de resultaten die volledig zijn bereikt. Voor het deel van het bedrag van het programmadeel dat overeenkomt met de niet volledig bereikte resultaten, bedoeld in het eerste lid, wordt de termijn, bedoeld in artikel 24, vierde lid, opgeschort met ingang van de dag waarop Onze Minister het college van burgemeester en wethouders mededeelt dat hij voornemens is om toepassing te geven aan het eerste lid tot de dag waarop hij het verslag, bedoeld in het tweede lid, heeft ontvangen. 
 
@@ -395,7 +395,7 @@ Onverschuldigd betaalde voorschotten op het programmadeel kunnen worden teruggev
 ### Artikel  29  
 
 1.  Het college van burgemeester en wethouders van een gemeente verstrekt desgevraagd inlichtingen omtrent de besteding van de verleende voorschotten en de realisatie van de in het ontwikkelingsplan opgenomen doelstellingen aan de door Onze Minister aangewezen ambtenaren.  
-2. De ambtenaren, bedoeld in het eerste lid, kunnen ten aanzien van de verantwoordingsinformatie, bedoeld in artikel 24, tweede lid, en artikel 26, tweede lid, tevens informatie inwinnen bij de in [artikel 213, tweede lid, van de Gemeentewet](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde accountants. 
+2. De ambtenaren, bedoeld in het eerste lid, kunnen ten aanzien van de verantwoordingsinformatie, bedoeld in artikel 24, tweede lid, en artikel 26, tweede lid, tevens informatie inwinnen bij de in artikel 213, tweede lid, van de Gemeentewet bedoelde accountants. 
 
 ###Artikel 31 
 
@@ -407,8 +407,8 @@ Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverl
 
 ###Artikel 33 
 
-1. De specifieke uitkeringen die krachtens het [Besluit specifieke uitkeringen maatschappelijke opvang, vrouwenopvang en verslavingsbeleid](../../../../../../../../../AMvB/besluit/specifieke/uitkeringen/maatschappelijke/opvang/vrouwenopvang/en/etc/BWBR0009936/README.md) door Onze Minister van Volksgezondheid, Welzijn en Sport voor 2005 aan een gemeente worden verleend. bedragen nihil.
-2. De door Onze Minister van Volksgezondheid, Welzijn en Sport in 2005 aan een gemeente onverschuldigde ingevolge [artikel 5, tweede lid, van het Besluit specifieke uitkeringen maatschappelijke opvang, vrouwenopvang en verslavingsbeleid](../../../../../../../../../AMvB/besluit/specifieke/uitkeringen/maatschappelijke/opvang/vrouwenopvang/en/etc/BWBR0009936/README.md) betaalde voorschotten, worden verrekend met in 2005 door Onze Minister verleende voorschotten op het programmadeel.
+1. De specifieke uitkeringen die krachtens het Besluit specifieke uitkeringen maatschappelijke opvang, vrouwenopvang en verslavingsbeleid door Onze Minister van Volksgezondheid, Welzijn en Sport voor 2005 aan een gemeente worden verleend. bedragen nihil.
+2. De door Onze Minister van Volksgezondheid, Welzijn en Sport in 2005 aan een gemeente onverschuldigde ingevolge artikel 5, tweede lid, van het Besluit specifieke uitkeringen maatschappelijke opvang, vrouwenopvang en verslavingsbeleid betaalde voorschotten, worden verrekend met in 2005 door Onze Minister verleende voorschotten op het programmadeel.
 
 ###Artikel 34 
 

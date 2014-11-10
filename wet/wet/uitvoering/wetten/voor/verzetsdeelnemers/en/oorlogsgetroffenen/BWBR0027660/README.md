@@ -17,25 +17,25 @@ a.  *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b.  *Raad:* de Pensioen- en Uitkeringsraad, bedoeld in artikel 3;  
 
-c.  *Sociale verzekeringsbank:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+c.  *Sociale verzekeringsbank:* de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 d.  *Cliëntenraad:* de Cliëntenraad verzetsdeelnemers en oorlogsgetroffenen, genoemd in artikel 10;  
 
-e.  *wetten voor verzetsdeelnemers en oorlogsgetroffenen:* de [Wet buitengewoon pensioen 1940–1945](../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), de [Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md).   
+e.  *wetten voor verzetsdeelnemers en oorlogsgetroffenen:* de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.   
 
 ### Artikel  2  
 
-1.  De [artikelen 18 tot en met 20](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [22](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [26 tot en met 30](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [33 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn van toepassing op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.   
-2.  De bevoegdheden, bedoeld in de [artikelen 20](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), worden door Onze Minister toegepast in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.   
-3.  In afwijking van [artikel 36, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), wordt het toezicht op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen uitgeoefend door Onze Minister.   
-4.  [Artikel 84 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is ten aanzien van de uitvoering van deze wet door de Sociale verzekeringsbank niet van toepassing.  
+1.  De artikelen 18 tot en met 20, 22, 26 tot en met 30 en 33 tot en met 35 van de Kaderwet zelfstandige bestuursorganen zijn van toepassing op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.   
+2.  De bevoegdheden, bedoeld in de artikelen 20 en 22, van de Kaderwet zelfstandige bestuursorganen, worden door Onze Minister toegepast in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.   
+3.  In afwijking van artikel 36, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, wordt het toezicht op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen uitgeoefend door Onze Minister.   
+4.  Artikel 84 van de Wet structuur uitvoeringsorganisatie werk en inkomen is ten aanzien van de uitvoering van deze wet door de Sociale verzekeringsbank niet van toepassing.  
 
 ### Artikel  3  
 
 1.  Er is een Raad, die is belast met de taken, genoemd in artikel 4.   
 2.  De Raad is gevestigd op een door Onze Minister te bepalen plaats.   
 3.  De Raad bezit rechtspersoonlijkheid.   
-4.  De [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op de Raad.  
+4.  De Kaderwet zelfstandige bestuursorganen is van toepassing op de Raad.  
 
 ### Artikel  4  
 
@@ -65,7 +65,7 @@ De Sociale verzekeringsbank heeft tot taak:
 
 a. het geven van de beschikkingen op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen die niet op grond van artikel 4 aan de Raad zijn opgedragen;  
 
-b. het geven van beschikkingen op aanvragen voor een vergoeding in de kosten van een behandeling, als bedoeld in [artikel 2 van de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie](../../../../../../../../../ministeriele-regeling/tijdelijke/vergoedingsregeling/psychotherapie/na-oorlogse/generatie/BWBR0006957/README.md);  
+b. het geven van beschikkingen op aanvragen voor een vergoeding in de kosten van een behandeling, als bedoeld in artikel 2 van de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie;  
 
 c. de voorbereiding en de uitvoering van de beschikkingen, bedoeld in artikel 4, onderdelen a en b, en  
 
@@ -110,21 +110,21 @@ c. de openbaarheid van zijn bijeenkomsten.
 
 ### Artikel  11  
 
-1.  Aan de voorzitter en de leden van het bestuur, bedoeld in [artikel 5 van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), wordt met ingang van de datum van inwerkingtreding van deze wet ontslag verleend.   
-2.  Aan de voorzitters, de leden en de plaatsvervangende leden van de Kamers, bedoeld in [artikel 11 van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), wordt met ingang van de datum van inwerkingtreding van deze wet ontslag verleend.  
+1.  Aan de voorzitter en de leden van het bestuur, bedoeld in artikel 5 van de Wet op de Pensioen- en Uitkeringsraad, wordt met ingang van de datum van inwerkingtreding van deze wet ontslag verleend.   
+2.  Aan de voorzitters, de leden en de plaatsvervangende leden van de Kamers, bedoeld in artikel 11 van de Wet op de Pensioen- en Uitkeringsraad, wordt met ingang van de datum van inwerkingtreding van deze wet ontslag verleend.  
 
 ### Artikel  12  
 
-1.  Op het tijdstip van inwerkingtreding van deze wet zijn de personeelsleden van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), van wie naam en functie zijn vermeld op een door deze Raad in overleg met de Sociale verzekeringsbank vastgestelde lijst, van rechtswege ontslagen en in dienst genomen door de Sociale verzekeringsbank krachtens een arbeidsovereenkomst.   
-2.  De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md).  
+1.  Op het tijdstip van inwerkingtreding van deze wet zijn de personeelsleden van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, van wie naam en functie zijn vermeld op een door deze Raad in overleg met de Sociale verzekeringsbank vastgestelde lijst, van rechtswege ontslagen en in dienst genomen door de Sociale verzekeringsbank krachtens een arbeidsovereenkomst.   
+2.  De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad.  
 
 ### Artikel  13  
 
-Op het tijdstip van inwerkingtreding van deze wet worden de archiefbescheiden van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), overgedragen aan de Sociale verzekeringsbank, met uitzondering van de bescheiden die betrekking hebben op de personeelsleden van deze Raad die niet in dienst zijn genomen door de Sociale verzekeringsbank. 
+Op het tijdstip van inwerkingtreding van deze wet worden de archiefbescheiden van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, overgedragen aan de Sociale verzekeringsbank, met uitzondering van de bescheiden die betrekking hebben op de personeelsleden van deze Raad die niet in dienst zijn genomen door de Sociale verzekeringsbank. 
 
 ### Artikel  14  
 
-1.  Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), worden toebedeeld aan de Sociale verzekeringsbank.   
+1.  Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, worden toebedeeld aan de Sociale verzekeringsbank.   
 2.  De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de Sociale verzekeringsbank tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.   
 3.  Bij ministeriële regeling worden regels gesteld ten aanzien van de besteding van de vermogensbestanddelen, bedoeld in het eerste lid.  
 
@@ -150,7 +150,7 @@ Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
 ### Artikel  20  
 
-De [Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md) wordt ingetrokken.
+De Wet op de Pensioen- en Uitkeringsraad wordt ingetrokken.
 
 ### Artikel  21  
 
@@ -158,9 +158,9 @@ Onze Minister zendt in overeenstemming met Onze Minister van Sociale Zaken en We
 
 ### Artikel  22  
 
-1.  De publiekrechtelijke rechten en verplichtingen van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), ten aanzien van gerechtigden die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontlenen aan de wetten voor verzetsdeelnemers en oorlogsgetroffenen of aan de [Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie](../../../../../../../../../ministeriele-regeling/tijdelijke/vergoedingsregeling/psychotherapie/na-oorlogse/generatie/BWBR0006957/README.md), gaan over op de Sociale verzekeringsbank.   
-2.  Een tot de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet geen financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert en waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Raad, bedoeld in artikel 3.   
-3.  Een tot de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md), gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert, of op basis van de [Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie](../../../../../../../../../ministeriele-regeling/tijdelijke/vergoedingsregeling/psychotherapie/na-oorlogse/generatie/BWBR0006957/README.md), waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Sociale verzekeringsbank.  
+1.  De publiekrechtelijke rechten en verplichtingen van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, ten aanzien van gerechtigden die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontlenen aan de wetten voor verzetsdeelnemers en oorlogsgetroffenen of aan de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie, gaan over op de Sociale verzekeringsbank.   
+2.  Een tot de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet geen financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert en waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Raad, bedoeld in artikel 3.   
+3.  Een tot de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert, of op basis van de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie, waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Sociale verzekeringsbank.  
 
 ### Artikel  23  
 

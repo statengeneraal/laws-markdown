@@ -17,95 +17,91 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-–  *minister:* Minister van Economische Zaken;  
+a.  *minister:* Minister van Economische Zaken;  
 
-–  *verordening 1234/2007:* Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PBEU 2007, L 299);  
+b.  *verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PBEU 2013, L 347);  
 
-–  *verordening 543/2011:* Verordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PBEU 2007, L 157);  
+c.  *verordening 543/2011:* Verordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PBEU 2011, L 157);  
 
-–  *verordening 2100/94:* Verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PBEU 1994, L 227);  
+d.  *verordening 2100/94:* Verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PBEU 1994, L 227);  
 
-–  *verordening 874/2009:* Verordening (EG) nr. 874/2009 van de Commissie van 17 september 2009 houdende uitvoeringsbepalingen van Verordening (EG) nr. 2100/94 van de Raad wat betreft de procedures voor het Communautair Bureau voor plantenrassen (PBEU 2009, L 251);  
+e.  *verordening 874/2009:* Verordening (EG) nr. 874/2009 van de Commissie van 17 september 2009 houdende uitvoeringsbepalingen van Verordening (EG) nr. 2100/94 van de Raad wat betreft de procedures voor het Communautair Bureau voor plantenrassen (PBEU 2009, L 251);  
 
-–  *verordening 834/2007:* Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PBEU 2007, L 189);  
+f.  *verordening 834/2007:* Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PBEU 2007, L 189);  
 
-–  *verordening 889/2008:* Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PBEU 2008, L 250);  
+g.  *verordening 889/2008:* Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PBEU 2008, L 250);  
 
-–  *verordening 1857/2006:* Verordening (EG) nr. 1857/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van Verordening (EG) nr. 70/2001 (PBEU 2006, L 358);  
+h.  *verordening 1857/2006:* Verordening (EG) nr. 1857/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van Verordening (EG) nr. 70/2001 (PBEU 2006, L 358);  
 
-–  *verordening 1698/2005:* Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (PBEU 2005, L 277);  
+i.  *richtlijn 2000/29:* Richtlijn 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PBEU 2000, L 169);  
 
-–  *richtlijn 2000/29:* Richtlijn 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PBEU 2000, L 169);  
+j.  *richtlijn 2002/63:* Richtlijn 2002/63/EG van de Commissie van 11 juli 2002 houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van Richtlijn 79/700/EEG (PBEU 2002, L 187);  
 
-–  *richtlijn 2002/63:* Richtlijn 2002/63/EG van de Commissie van 11 juli 2002 houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van Richtlijn 79/700/EEG (PBEU 2002, L 187);  
+k.  *operationeel programma:* het programma, bedoeld in artikel 33 van verordening 1308/2013;  
 
-–  *operationeel programma:* het programma, bedoeld in artikel 103 quater lid 1 van verordening 1234/2007;  
+l.  *uitvoeringsjaar:* een jaar van uitvoering van een operationeel programma;  
 
-–  *uitvoeringsjaar:* een jaar van uitvoering van een operationeel programma;  
+m.  *tussentijdse wijziging:* een wijziging van het operationeel programma in de loop van het jaar als bedoeld in artikel 66, eerste lid, van verordening 543/2011;  
 
-–  *tussentijdse wijziging:* een wijziging van het operationeel programma in de loop van het jaar als bedoeld in artikel 66, eerste lid, van verordening 543/2011;  
+n.  *waarde afgezette productie:* de waarde van de afgezette productie van een producentenorganisatie als bedoeld in artikel 34, tweede lid, van verordening 1308/2013;  
 
-–  *waarde afgezette productie:* de waarde van de afgezette productie van een producentenorganisatie als bedoeld in artikel 103 quinquies, tweede lid, van verordening 1234/2007;  
+o.  *erkenningsaanvraag:* een verzoek als bedoeld in artikel 154, eerste lid, van verordening 1308/2013;  
 
-–  *erkenningsaanvraag:* een verzoek als bedoeld in artikel 125 ter, eerste lid, van verordening 1234/2007;  
+p.  *erkenningsbesluit:* een besluit van de minister op een verzoek als bedoeld in artikel 154, eerste lid, van verordening 1308/2013;  
 
-–  *erkenningsbesluit:* een besluit van de minister op een verzoek als bedoeld in artikel 125 ter van Verordening 1234/2007;  
+q.  *actiefonds:* actiefonds als bedoeld in artikel 32 van verordening 1308/2013;  
 
-–  *actiefonds:* actiefonds als bedoeld in artikel 103 ter van verordening 1234/2007;  
+r.  *producentenorganisatie:* door de minister erkende producentenorganisatie als bedoeld in artikel 152 van verordening 1308/2013;  
 
-–  *producentenorganisatie:* door de minister erkende producentenorganisatie als bedoeld in artikel 122 van Verordening 1234/2007;  
+s.  *unie van erkende producentenorganisaties:* unie van erkende producentenorganisaties als bedoeld in artikel 156 van verordening 1308/2013;  
 
-–  *unie van erkende producentenorganisaties:* unie van erkende producentenorganisaties als bedoeld in artikel 125 quater van verordening 1234/2007;  
+t.  *subsidie:* financiële steun van de Unie als bedoeld in artikel 34 van verordening 1308/2013;  
 
-–  *subsidie:* communautaire financiële steun als bedoeld in artikel 103 quinquies van Verordening 1234/2007;  
+u.  *steunaanvraag:* een aanvraag om subsidie als bedoeld in artikel 69, eerste lid, van verordening 543/2011;  
 
-–  *steunaanvraag:* een aanvraag om subsidie als bedoeld in artikel 69, eerste lid, van verordening 543/2011;  
+v.  *gedeeltelijke betaling:* gedeeltelijke betaling als bedoeld in artikel 72 van verordening 543/2011;  
 
-–  *gedeeltelijke betaling:* gedeeltelijke betaling als bedoeld in artikel 72 van verordening 543/2011;  
+w.  *voorschotaanvraag:* aanvraag als bedoeld in artikel 71, eerste lid, van verordening 543/2011;  
 
-–  *voorschotaanvraag:* aanvraag als bedoeld in artikel 71, eerste lid, van verordening 543/2011;  
+x.  *nationale strategie:* nationale strategie als bedoeld in artikel 36, tweede lid, van verordening 1308/2013;  
 
-–  *nationale strategie:* nationale strategie als bedoeld in artikel 103 septies, tweede lid, van Verordening 1234/2007;  
+y.  *nationaal kader:* nationaal kader als bedoeld in artikel 36, tweede lid, van verordening 1308/2013;  
 
-–  *nationaal kader:* nationaal kader als bedoeld in artikel 103 septies, eerste lid, van Verordening 1234/2007;  
+z.  *lid:* een aangesloten producent als bedoeld in artikel 19, eerste lid, onder b) van Verordening (EG) nr. 543/2011;  
 
-–  *lid:* een aangesloten producent als bedoeld in artikel 19, eerste lid, onder b) van Verordening (EG) nr. 543/2011;  
+aa.  *niet-producerend lid:* een lid van een producentenorganisatie dat meer dan één teeltseizoen geen producten teelt waarvoor de producentenorganisatie is erkend;  
 
-–  *niet-producerend lid:* een lid van een producentenorganisatie dat meer dan één teeltseizoen geen producten teelt waarvoor de producentenorganisatie is erkend;  
-
-–*verkoper:*
+bb. *verkoper:*
 
 1° natuurlijke persoon die binnen een producentenorganisatie is belast met de verkoop van producten van de leden van de producentenorganisatie waarvoor de producentenorganisatie is erkend, of  
 
 2° natuurlijke of rechtspersoon die door een producentenorganisatie is belast met de verkoop van producten van de leden van de producentenorganisatie waarvoor de producentenorganisatie is erkend;    
 
-–  *areaalenquête:* inventarisatie van een door een lid van de producentenorganisatie beteeld areaal en de door dit lid geteelde producten;  
+cc.  *areaalenquête:* inventarisatie van een door een lid van de producentenorganisatie beteeld areaal en de door dit lid geteelde producten;  
 
-–  *aanvoerprognose:* opgave door een lid van een producentenorganisatie van de hoeveelheid en aard van de producten die het lid in een door de producentenorganisatie te bepalen tijdvak bij de producentenorganisatie verwacht aan te voeren;  
+dd.  *aanvoerprognose:* opgave door een lid van een producentenorganisatie van de hoeveelheid en aard van de producten die het lid in een door de producentenorganisatie te bepalen tijdvak bij de producentenorganisatie verwacht aan te voeren;  
 
-–  *actie:* een actie ter uitvoering van een maatregel als bedoeld in artikel 19, eerste lid, onderdeel g, van verordening 543/2011 of een doelstelling als bedoeld in artikel 103quater, eerste lid, van verordening 1234/2007;  
+ee.  *actie:* een actie ter uitvoering van een maatregel als bedoeld in artikel 19, eerste lid, onderdeel g, van verordening 543/2011 of een doelstelling als bedoeld in artikel 152, eerste lid, onderdeel c, van verordening 1308/2013;  
 
-–  *activiteit:* een activiteit ter uitvoering van een maatregel als bedoeld in artikel 19, eerste lid, onderdeel g, van verordening 543/2011 of een doelstelling als bedoeld in artikel 103quater, eerste lid, van verordening 1234/2007;  
+ff.  *activiteit:* een activiteit ter uitvoering van een maatregel als bedoeld in artikel 19, eerste lid, onderdeel g, van verordening 543/2011 of een doelstelling als bedoeld in artikel 152, eerste lid, onderdeel c, van verordening 1308/2013;  
 
-–  *subactiviteit:* een subactiviteit ter uitvoering van een actie of activiteit ter uitvoering van een maatregel als bedoeld in artikel 19, eerste lid, onderdeel g, van verordening 543/2011 of een doelstelling als bedoeld in artikel 103 quater, eerste lid, van verordening 1234/2007;  
+gg.  *subactiviteit:* een subactiviteit ter uitvoering van een actie of activiteit ter uitvoering van een maatregel als bedoeld in artikel 19, eerste lid, onderdeel g, van verordening 543/2011 of een doelstelling als bedoeld in artikel 152, eerste lid, onderdeel c, van verordening 1308/2013;  
 
-–  *goederenlogistiek:* het verzamelen, ophalen, sorteren, opslaan, verpakken, transporteren en distribueren van het product;  
+hh.  *goederenlogistiek:* het verzamelen, ophalen, sorteren, opslaan, verpakken, transporteren en distribueren van het product;  
 
-–  *forfaitair standaardtarief:* een vast of maximaal bedrag per eenheid dat wordt gebruikt om de te declareren bedragen vast te stellen;  
+ii.  *forfaitair standaardtarief:* een vast of maximaal bedrag per eenheid dat wordt gebruikt om de te declareren bedragen vast te stellen;  
 
-–  *accountant:* een accountant die is ingeschreven in het accountantsregister, bedoeld in artikel 36, eerste lid, van de Wet op het Accountantsberoep;  
+jj.  *accountant:* een accountant die is ingeschreven in het accountantsregister, bedoeld in artikel 36, eerste lid, van de Wet op het Accountantsberoep;  
 
-–  *stadium af producentenorganisatie:* het moment waarop er een verkooptransactie plaatsvindt door of namens de producentenorganisatie met een derde partij of een minder dan 90 procent dochteronderneming;  
+kk.  *stadium af producentenorganisatie:* het moment waarop er een verkooptransactie plaatsvindt door of namens de producentenorganisatie met een derde partij of een minder dan 90 procent dochteronderneming;  
 
-–  *denatureren:* het ongeschikt maken voor menselijke consumptie;  
-
-–  *verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad.  
+ll.  *denatureren:* het ongeschikt maken voor menselijke consumptie.   
 
 ### Artikel  2  
 
-1.  De minister wordt aangewezen als bevoegde nationale autoriteit als bedoeld in artikel 103 octies, eerste lid, van verordening 1234/2007.   
+1.  De minister wordt aangewezen als bevoegde nationale autoriteit als bedoeld in artikel 38, onder b, van verordening 1308/2013.   
 2.  De minister wordt aangewezen als bevoegde autoriteit als bedoeld in de artikelen 51, vierde lid, 63, eerste lid, 64, 65, derde lid, 66, tweede tot en met vierde lid, 69, eerste en vierde lid, 78, eerste lid, 85, tweede lid, 96, eerste lid, 98, eerste en derde lid, 104, tweede lid, 108, tweede en derde lid, 109, zesde lid, 143, onderdeel b, 146, eerste lid, 147, 148 en bijlage IX, onderdeel 1, vijfde gedachtestreepje, van verordening 543/2011.   
-3.  De minister wordt aangewezen als lidstaat als bedoeld in de artikelen 103, ter, tweede lid, 103 quater, derde lid, 103 quinquies, vierde lid, 103 septies, eerste en tweede lid, 103 octies, tweede, derde en vijfde lid, 122, eerste lid, aanhef en onderdeel a, onder iii, 123, derde lid, 125 bis, tweede lid, onder a, 125 ter, 125 quater, 125 quinquies en artikel 125 duodecies van verordening 1234/2007 en de artikelen 20, 21, 22, eerste lid, 23, 28, tweede lid, 29, tweede lid, 30, 31, 33, eerste lid, 34, 35, tweede lid, 50, vierde lid, 51, tweede en zesde lid, 52, 54, eerste lid, 55, vierde lid, 56, eerste lid, 57, 60, tweede en zesde lid, 62, eerste en derde lid, 63, eerste lid, 65, eerste lid, 66, eerste en vierde lid, 68 eerste en tweede lid, 70, 71, eerste tot en met derde en zesde lid, 72, 73, 78, tweede en derde lid, 80, 83, eerste lid, 85, eerste en vierde lid, 86, eerste lid, 87, 89, eerste en tweede lid, 90, eerste en vierde lid, 96, vijfde lid, 97, 98, tweede lid, 99, 100, 101, 104, eerste lid, 105, eerste en derde lid, 106, eerste, derde en vierde lid, 107, eerste, tot en met derde lid, 108, eerste en derde lid, 109, eerste lid, 110 tot en met 115, 117, tweede lid, 125, derde lid,127, tweede lid, 132, tweede lid, 143, 144, 146, tweede, vierde en vijfde lid en bijlage IX, onderdelen 1 en 2, van verordening 543/2011.  
+3.  De minister wordt aangewezen als lidstaat als bedoeld in de artikelen 32, tweede lid, 33, 34, vierde lid, 36, eerste en tweede lid, artikel 152, eerste en derde lid, artikel 154, eerste, tweede en derde lid van verordening 1308/2013 en de artikelen 20, 21, 22, eerste lid, 23, 28, tweede lid, 29, tweede lid, 30, 31, 33, eerste lid, 34, 35, tweede lid, 50, vierde lid, 51, tweede en zesde lid, 52, 54, eerste lid, 55, vierde lid, 56, eerste lid, 57, 60, tweede en zesde lid, 62, eerste en derde lid, 63, eerste lid, 65, eerste lid, 66, eerste en vierde lid, 68 eerste en tweede lid, 70, 71, eerste tot en met derde en zesde lid, 72, 73, 78, tweede en derde lid, 80, 83, eerste lid, 85, eerste en vierde lid, 86, eerste lid, 87, 89, eerste en tweede lid, 90, eerste en vierde lid, 96, vijfde lid, 97, 98, tweede lid, 99, 100, 101, 104, eerste lid, 105, eerste en derde lid, 106, eerste, derde en vierde lid, 107, eerste, tot en met derde lid, 108, eerste en derde lid, 109, eerste lid, 110 tot en met 115, 117, tweede lid, 125, derde lid,127, tweede lid, 132, tweede lid, 143, 144, 146, tweede, vierde en vijfde lid en bijlage IX, onderdelen 1 en 2, van verordening 543/2011.  
 
 ### Hoofdstuk  2  
 
@@ -125,7 +121,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  3  
 
-De rechtspersoonlijkheid van een producentenorganisatie als bedoeld in artikel 125 ter, eerste lid, van verordening 1234/2007 blijkt uit: 
+De rechtspersoonlijkheid van een producentenorganisatie als bedoeld in artikel 154, eerste lid, van verordening 1308/2013 blijkt uit: 
 
 a. een in het handelsregister neergelegd authentiek afschrift van de oprichtingsakte van de producentenorganisatie, of  
 
@@ -149,7 +145,7 @@ c. een in het Handelsregister van de Kamer van Koophandel ingeschreven maatschap
 
 ### Artikel  5  
 
-1.  Het minimumaantal leden en de minimale waarde afgezette productie, bedoeld in artikel 125 ter, eerste lid, onderdeel b, van verordening 1234/2007 bedraagt: 
+1.  Het minimumaantal leden en de minimale waarde afgezette productie, bedoeld in artikel 154, eerste lid, onderdeel b, van verordening 1308/2013 bedraagt: 
 
 a. voor producentenorganisaties die zijn erkend voor 1 januari 2008 tenminste vijf leden, met een gezamenlijke waarde van de afgezette productie van € 100.000;  
 
@@ -178,7 +174,7 @@ b. faillissement van het lid;
 
 c. toepassing van het sanctiereglement van de producentenorganisatie inzake royement, en  
 
-d. indien dit redelijkerwijs niet van het lid gevergd kan worden.    
+d. indien dit redelijkerwijs niet van het lid of coöperatie gevergd kan worden.    
 
 ### Artikel  7  
 
@@ -196,29 +192,29 @@ c. niet mogen deelnemen aan de stemming van de algemene vergadering over besluit
 
 ### Artikel  8  
 
-1.  Producentenorganisaties tonen aan dat zij voldoen aan artikel 122, onderdeel b, van verordening 1234/2007 aan de hand van: 
+1.  Producentenorganisaties tonen aan dat zij voldoen aan artikel 152, onderdeel b, van verordening 1308/2013 aan de hand van: 
 
 a. de oprichtingsakte van de producentenorganisatie, en  
 
 b. de notulen van de eerste vergadering of oprichtingsvergadering van de producentenorganisatie.     
-2.  Het eerste lid is niet van toepassing op producentenorganisaties die zijn erkend voor 1 januari 2007.   
-3.  De producentenorganisaties, bedoeld in het tweede lid, worden geacht te voldoen aan het vereiste van artikel 122, onderdeel b, van verordening 1234/2007.  
+2.  Het eerste lid is niet van toepassing op producentenorganisaties die zijn erkend voor 1 januari 2008.   
+3.  De producentenorganisaties, bedoeld in het tweede lid, worden geacht te voldoen aan het vereiste van artikel 152, onderdeel b, van verordening 1308/2013.  
 
 ### Artikel  9  
 
-Een afnemer van producten waarvoor de producentenorganisatie is erkend is ingevolge artikel 122, onderdeel c, onder ii, van verordening 1234/2007 geen lid van het bestuur of de Raad van Commissarissen van de producentenorganisatie. 
+Een afnemer van producten waarvoor de producentenorganisatie is erkend is ingevolge artikel 152, eerste lid, onderdeel c, onder ii, van verordening 1308/2013 geen lid van het bestuur of de Raad van Commissarissen van de producentenorganisatie. 
 
 ### Artikel  10  
 
-Producentenorganisaties verbieden hun leden op grond van artikel 122, onderdeel c, onder ii, van verordening 1234/2007 om activiteiten te ontplooien die het vermoeden doen ontstaan dat de verkoop van het product waarvoor zij bij de producentenorganisatie zijn aangesloten niet uitsluitend via de producentenorganisatie verloopt. 
+Producentenorganisaties verbieden hun leden op grond van artikel 152, eerste lid, onderdeel c, onder ii, van verordening 1308/2013 om activiteiten te ontplooien die het vermoeden doen ontstaan dat de verkoop van het product waarvoor zij bij de producentenorganisatie zijn aangesloten niet uitsluitend via de producentenorganisatie verloopt. 
 
 ### Artikel  11  
 
-Producentenorganisaties bepalen op grond van artikel 122, onderdeel c, onder ii, van verordening 1234/2007 op welke moment leden hun product aan de producentenorganisatie ter verkoop aanbieden. 
+Producentenorganisaties bepalen op grond van artikel 152, eerste lid, onderdeel c, onder ii, van verordening 1308/2013 op welke moment leden hun product aan de producentenorganisatie ter verkoop aanbieden. 
 
 ### Artikel  12  
 
-1.  Producentenorganisaties verplichten hun leden op grond van artikel 122, onderdeel c, onder ii, van verordening 1234/2007 om aan de producentenorganisatie: 
+1.  Producentenorganisaties verplichten hun leden op grond van artikel 152, eerste lid, onderdeel c, onder ii, van verordening 1308/2013 om aan de producentenorganisatie: 
 
 a. melding te doen van eigendomsbelangen in ondernemingen die door het lid geproduceerde producten verkopen, indien het lid voor deze producten is aangesloten bij de producentenorganisatie, en  
 
@@ -233,7 +229,7 @@ b. aan de hand van schriftelijke bewijsstukken aan te tonen dat binnen de in het
 ### Artikel  13  
 
 1.  Producentenorganisaties stellen voorschriften vast voor de controle op de naleving van hun statuten door hun leden.   
-2.  De in het eerste lid bedoelde voorschriften bevatten ten aanzien van de controle op de naleving door hun leden van artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 voor de door de producentenorganisatie gedurende het jaar uit te voeren controles tenminste: 
+2.  De in het eerste lid bedoelde voorschriften bevatten ten aanzien van de controle op de naleving door hun leden van artikel 160 van verordening 1308/2013 voor de door de producentenorganisatie gedurende het jaar uit te voeren controles tenminste: 
 
 a. een systematische vergelijking per producent van areaalenquêtes en aanvoerprognoses met de daadwerkelijk aan de producentenorganisatie geleverde hoeveelheden gedurende het kalenderjaar;  
 
@@ -254,11 +250,11 @@ a. een verplichting voor ieder lid om uiterlijk voor 1 juni na afloop van het k
 
 3° hoeveel product hij via de producentenorganisatie verkocht heeft;  
 
-4° hoeveel product hij op grond van artikel 125 bis, tweede lid, van verordening 1234/2007 buiten de producentenorganisatie om verkocht heeft;  
+4° hoeveel product hij op grond van artikel 26 bis van verordening 543/2011 buiten de producentenorganisatie om verkocht heeft;  
 
-5° dat hij, uitgezonderd de verkoop op grond van artikel 125 bis, tweede lid, van verordening 1234/2007, geen door hem geteelde producten waarvoor hij bij de producentenorganisatie is aangesloten buiten de producentenorganisatie verkocht heeft, en  
+5° dat hij, uitgezonderd de verkoop op grond van artikel 26 bis van verordening 543/2011, geen door hem geteelde producten waarvoor hij bij de producentenorganisatie is aangesloten buiten de producentenorganisatie verkocht heeft, en  
 
-6° dat hij bij verkoop op grond van artikel 125 bis, tweede lid, van verordening 1234/2007 de daaraan door de producentenorganisatie gestelde voorwaarden heeft nageleefd;    
+6° dat hij bij verkoop op grond van artikel 26 bis van verordening 543/2011 de daaraan door de producentenorganisatie gestelde voorwaarden heeft nageleefd;    
 
 b. een vergelijking van informatie uit de in onderdeel a bedoelde verklaringen met de omzetgegevens van het lid;  
 
@@ -274,13 +270,13 @@ f. een registratie van de opvolging van de uitkomsten van het in onderdeel e bed
 
 a. de leden die verzuimd hebben voor 1 juni na afloop van het kalenderjaar de in het derde lid, onderdeel a, bedoelde eigen verklaring te verstrekken;  
 
-b. de leden waarbij door de producentenorganisatie of door controle-instanties in het jaar voorafgaand aan het controlejaar is vastgesteld dat zij artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 niet hebben nageleefd;  
+b. de leden waarbij door de producentenorganisatie of door controle-instanties in het jaar voorafgaand aan het controlejaar is vastgesteld dat zij artikel 160 van verordening 1308/2013 niet hebben nageleefd;  
 
 c. de leden waarbij door de producentenorganisatie in het voorafgaande kalenderjaar is vastgesteld dat verschillen tussen areaalgegevens en omzetgegevens onvoldoende konden worden verklaard, en  
 
 d. minimaal 2 procent van de leden van de producentenorganisatie, met een minimum van één lid, die niet reeds op grond van onderdelen a tot en met c deel uit maken van het onderzoek.     
 6.  Indien de accountant bij meerdere leden in deze deelwaarneming afwijkende bevindingen constateert treft de producentenorganisatie afhankelijk van de aard van de afwijkingen passende maatregelen.   
-7.  De in het eerste lid bedoelde voorschriften bevatten een verplichting voor de producentenorganisatie om jaarlijks de betrouwbaarheid van het door haar opgezette systeem van controle op de naleving door hun leden van het vereiste van artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 te evalueren aan de hand van de uitkomsten van het in het vierde lid bedoelde onderzoek.   
+7.  De in het eerste lid bedoelde voorschriften bevatten een verplichting voor de producentenorganisatie om jaarlijks de betrouwbaarheid van het door haar opgezette systeem van controle op de naleving door hun leden van het vereiste van artikel 160 van verordening 1308/2013 te evalueren aan de hand van de uitkomsten van het in het vierde lid bedoelde onderzoek.   
 8.  Producentenorganisaties die zijn erkend voor 1 januari 2014 nemen de in het eerste lid genoemde verplichting uiterlijk op 1 januari 2015 op in hun statuten.   
 9.  Producentenorganisaties die zijn erkend na 1 januari 2014 nemen de in het eerste lid genoemde verplichting op in hun statuten.  
 
@@ -303,7 +299,7 @@ Producentenorganisaties beschikken op grond van artikel 23, onderdeel a, van ver
 
 ### Artikel  16  
 
-Producentenorganisaties beschikken op grond van artikel 125 ter, eerste lid, onderdeel c, van verordening 1234/2007 tenminste over een volledige beschrijving van de interne organisatie en van de administratieve en interne beheersing van: 
+Producentenorganisaties beschikken op grond van artikel 154, eerste lid, onderdeel c, van verordening 1308/2013 tenminste over een volledige beschrijving van de interne organisatie en van de administratieve en interne beheersing van: 
 
 a. de verkoop en prijsbepaling;  
 
@@ -319,20 +315,20 @@ f. het vergaren van informatie van de leden en de verwerking van mutaties daarin
 
 g. de beoordeling van areaalenquêtes en aanvoerprognoses, waaronder de vergelijking met realisaties;  
 
-h. de controle op naleving van artikel 125 bis, eerste lid onderdeel c, van verordening 1234/2007 door de leden waaronder het verlenen van toestemming als bedoeld in artikel 125 bis, tweede lid, van verordening 1234/2007;  
+h. de controle op naleving van artikel 160 van verordening 1308/2013 door de leden waaronder het verlenen van toestemming als bedoeld in artikel 26 bis van verordening 543/2011;  
 
 i. het opleggen van sancties, en  
 
-j. het uitbesteden van activiteiten als bedoeld in artikel 125 quinquies van verordening 1234/2007.   
+j. het uitbesteden van activiteiten als bedoeld in artikel 155 van verordening 1308/2013.   
 
 ### Artikel  17  
 
-1.  De producentenorganisatie beschikt op grond van artikel 125 ter, eerste lid, onderdeel c, van verordening 1234/2007 over een redelijk niveau van vermogen en liquiditeit.   
-2.  Een negatief vermogen wordt door de producentenorganisatie, op grond van artikel 125 ter, eerste lid, onderdeel c, van verordening 1234/2007 binnen één kalenderjaar aangevuld.  
+1.  De producentenorganisatie beschikt op grond van artikel 154, eerste lid, onderdeel c, van verordening 1308/2013 over een redelijk niveau van vermogen en liquiditeit.   
+2.  Een negatief vermogen wordt door de producentenorganisatie, op grond van artikel 154, eerste lid, onderdeel c, van verordening 1308/2013 binnen één kalenderjaar aangevuld.  
 
 ### Artikel  18  
 
-1.  De producentenorganisatie beschikt ten behoeve van het commercieel en budgettair beheer van hun activiteiten, bedoeld in artikel 125 ter, eerste lid, onderdeel f, van verordening 1234/2007, met ingang van 1 januari 2013 op grond van artikel 23 van verordening 543/2011 over een eigen, als zodanig kenbare, kantoorruimte die beschikt over een eigen opgang, welke niet door ruimtes van een afnemer of een lid van de producentenorganisatie leidt.   
+1.  De producentenorganisatie beschikt ten behoeve van het commercieel en budgettair beheer van hun activiteiten, bedoeld in artikel 153, tweede lid, onderdeel f, van verordening 1308/2013, met ingang van 1 januari 2013 op grond van artikel 23 van verordening 543/2011 over een eigen, als zodanig kenbare, kantoorruimte die beschikt over een eigen opgang, welke niet door ruimtes van een afnemer of een lid van de producentenorganisatie leidt.   
 2.  De in het eerste lid bedoelde kantoorruimte is eigendom van de producentenorganisatie of wordt door de producentenorganisatie gehuurd.  
 
 ### Artikel  19  
@@ -342,7 +338,7 @@ j. het uitbesteden van activiteiten als bedoeld in artikel 125 quinquies van ver
 
 ### Artikel  20  
 
-1.  Producentenorganisaties tonen op grond van artikel 122, onderdeel c, onder ii, van verordening 1234/2007 aan de hand van schriftelijke bewijsstukken aan dat zij de verkoopvoorwaarden, en meer in het bijzonder de verkoopprijzen, voor de producten van haar leden waarvoor zij is erkend daadwerkelijk kan bepalen.   
+1.  Producentenorganisaties tonen op grond van artikel 152, eerste lid, onderdeel c, onder ii, van verordening 1308/2013 aan de hand van schriftelijke bewijsstukken aan dat zij de verkoopvoorwaarden, en meer in het bijzonder de verkoopprijzen, voor de producten van haar leden waarvoor zij is erkend daadwerkelijk kan bepalen.   
 2.  De in het eerste lid bedoelde schriftelijke bewijsstukken tonen aan: 
 
 a. welke verkoper er binnen of door de producentenorganisatie belast is met de verkoop van de producten van de leden waarvoor de producentenorganisatie is erkend;  
@@ -362,8 +358,8 @@ f. dat de in onderdeel e bedoelde verantwoording daadwerkelijk wordt afgelegd.
 
 ### Artikel  21  
 
-1.  Artikel 125 quinquies van verordening 1234/2007 is van toepassing op de activiteiten van de producentenorganisatie die bijdragen aan het realiseren van de doelstellingen van de producentenorganisatie, bedoeld in artikel 122, onderdeel c, en 125 ter, eerste lid, onderdeel a, van verordening 1234/2007.   
-2.  Wanneer een producentenorganisatie de in het eerste lid bedoelde activiteiten uitbesteed toont de producentenorganisatie op grond van artikel 125 quinquies van verordening 1234/2007 door middel van door het bestuur en de algemene vergadering geaccordeerde schriftelijke bewijsstukken aan: 
+1.  Artikel 155 van verordening 1308/2013 is van toepassing op de activiteiten van de producentenorganisatie die bijdragen aan het realiseren van de doelstellingen van de producentenorganisatie, bedoeld in artikel 122, onderdeel c, en 125 ter, eerste lid, onderdeel a, van verordening 1234/2007.   
+2.  Wanneer een producentenorganisatie de in het eerste lid bedoelde activiteiten uitbesteed toont de producentenorganisatie op grond van artikel 155 van verordening 1308/2013 door middel van door het bestuur en de algemene vergadering geaccordeerde schriftelijke bewijsstukken aan: 
 
 a. welke activiteiten worden uitbesteed;  
 
@@ -406,11 +402,11 @@ c. kennis van productie van de leden.
 
 ### Artikel  22  
 
-Producentenorganisaties nemen in hun statuten op dat zij alle in artikel 122, onderdeel c, en 125ter, eerste lid, onderdeel a, van verordening 1234/2007 genoemde doelstellingen nastreven en tonen aan dat zij uitvoering geven aan deze doelstellingen. 
+Producentenorganisaties nemen in hun statuten op dat zij alle in artikel 152, eerste lid, onderdeel c, van verordening 1308/2013 genoemde doelstellingen nastreven en tonen aan dat zij uitvoering geven aan deze doelstellingen. 
 
 ### Artikel  23  
 
-1.  De statuten van producentenorganisaties bepalen op grond van artikel 125 bis, derde lid, onderdeel c, van verordening 1234/2007 dat: 
+1.  De statuten van producentenorganisaties bepalen op grond van artikel 153, tweede lid, onderdeel c, van verordening 1308/2013 dat: 
 
 a. bij een producentenorganisatie met meer dan 10 leden een lid niet meer dan 10 procent van de stemmen van de algemene vergadering van de producentenorganisatie heeft, en  
 
@@ -420,28 +416,28 @@ b. bij een producentenorganisatie met minder dan 10 leden een lid maximaal 20 pr
 
 ### Artikel  24  
 
-1.  Een producentenorganisatie kan haar leden slechts toestemming als bedoeld in artikel 125 bis, tweede lid, van verordening 1234/2007 verlenen indien deze mogelijkheid in haar statuten is opgenomen.   
-2.  Indien een producentenorganisatie haar leden toestaat gebruik te maken van de uitzondering, bedoeld in artikel 125 bis, tweede lid, van verordening 1234/2007, stelt de producentenorganisatie voorschriften vast inzake: 
+1.  Een producentenorganisatie kan haar leden slechts toestemming als bedoeld in artikel 26 bis van verordening 543/2011 verlenen indien deze mogelijkheid in haar statuten is opgenomen.   
+2.  Indien een producentenorganisatie haar leden toestaat gebruik te maken van de uitzondering, bedoeld in artikel 26 bis van verordening 543/2011, stelt de producentenorganisatie voorschriften vast inzake: 
 
 a. de procedure voor verlening van de toestemming;  
 
-b. de algemene voorwaarden voor verlening van de toestemming, bedoeld in artikel 125 bis, tweede lid, van verordening 1234/2007, en  
+b. de algemene voorwaarden voor verlening van de toestemming, bedoeld in artikel 26 bis van verordening 543/2011, en  
 
 c. de rapportageverplichtingen bij het gebruik van de toestemming.     
-3.  Een producentenorganisatie verleent toestemming als bedoeld in het eerste lid schriftelijk en per individueel geval voordat gebruik wordt gemaakt van de uitzondering, bedoeld in artikel 125 bis, tweede lid, van verordening 1234/2007.   
+3.  Een producentenorganisatie verleent toestemming als bedoeld in het eerste lid schriftelijk en per individueel geval voordat gebruik wordt gemaakt van de uitzondering, bedoeld in artikel 26 bis van verordening 543/2011.   
 4.  Indien een producentenorganisatie aan een toestemming als bedoeld in het eerste lid specifieke voorwaarden verbindt, worden deze voorwaarden in de toestemming vermeld.   
-5.  Het percentage, bedoeld in artikel 125bis, eerste lid, onderdeel a, van verordening 1234/2007 wordt vastgesteld op maximaal 25 procent.   
-6.  Een marginaal deel van het volume van de verhandelbare productie, bedoeld in artikel 125 bis, tweede lid, onderdeel b, van verordening 1234/2007, bedraagt: 
+5.  Het percentage, bedoeld in artikel 26 bis van verordening 543/2011 wordt vastgesteld op maximaal 25 procent.   
+6.  Een marginaal deel van het volume van de verhandelbare productie, bedoeld in artikel 26 bis van verordening 543/2011, bedraagt: 
 
 a. maximaal 5 procent van het volume van de verhandelbare productie van de producentenorganisatie, en  
 
 b. maximaal 25 procent van het volume van de verhandelbare productie van het lid waar de toestemming aan wordt verleend.     
-7.  Producten die normaliter niet onder de handelsactiviteiten van de producentenorganisatie vallen, bedoeld in artikel 125 bis, tweede lid, onderdeel c, van verordening 1234/2007, zijn: 
+7.  Producten die normaliter niet onder de handelsactiviteiten van de producentenorganisatie vallen, bedoeld in artikel 26 bis van verordening 543/2011, zijn: 
 
 a. producten die niet onder het gebruikelijke productassortiment van de producentenorganisatie vallen, terwijl deze producten wel onderwerp zijn van de erkenning, of  
 
 b. producten welke gewoonlijk wel door de producentenorganisatie worden verkocht, maar door teeltmethode of variëteit afwijken van het gangbare productenpakket.     
-8.  Toestemming als bedoeld in artikel 125 bis, tweede lid, onderdelen b en c, die wordt verleend na 19 november 2012 wordt per keer voor maximaal twee jaar verleend.  
+8.  Toestemming als bedoeld in artikel 26 bis, onderdelen 2 en 3, van verordening 543/2011 die wordt verleend na 19 november 2012 kan telkens voor twee jaar worden verlengd.  
 
 ### Afdeling  2  
 
@@ -449,11 +445,11 @@ b. producten welke gewoonlijk wel door de producentenorganisatie worden verkocht
 
 ### Artikel  25  
 
-Een erkenning als bedoeld in artikel 125 ter, eerste lid, van verordening 1234/2007 wordt verleend indien de aanvrager kan aantonen dat hij voldoet aan de op grond van de artikelen 122, 125bis, 125ter en 125 quinquies van verordening 1234/2007, titel III, sectie 2, van verordening 543/2011 en afdeling 1 van deze paragraaf gestelde eisen. 
+Een erkenning als bedoeld in artikel 154, eerste lid, van verordening 1308/2013 wordt verleend indien de aanvrager kan aantonen dat hij voldoet aan de op grond van de artikelen 152, 153, 154 en 155 van verordening 1308/2013 en afdeling 1 van deze paragraaf gestelde eisen. 
 
 ### Artikel  26  
 
-1.  Een verzoek om erkenning omvat ter uitvoering van artikel 125 ter, tweede lid, onderdeel a, van verordening 1234/2007 de volgende stukken: 
+1.  Een verzoek om erkenning omvat ter uitvoering van artikel 154, vierde lid, van verordening 1308/2013 de volgende stukken: 
 
 a. de oprichtingsakte en statuten;  
 
@@ -488,11 +484,11 @@ o. de bevoegdhedenmatrix en parafenlijst;
 p. een beschrijving van de ondernemingsstructuur en dochterondernemingen, en  
 
 q. een beschrijving van de goederenlogistiek.     
-2.  Indien dit nodig is voor de beoordeling van het verzoek om erkenning, bedoeld in artikel 125 ter, eerste lid, van verordening 1234/2007 kan de minister de producentenorganisatie verzoeken om aanvullende schriftelijke bewijsstukken.  
+2.  Indien dit nodig is voor de beoordeling van het verzoek om erkenning, bedoeld in artikel 154, vierde lid, van verordening 1308/2013 kan de minister de producentenorganisatie verzoeken om aanvullende schriftelijke bewijsstukken.  
 
 ### Artikel  27  
 
-Indien de minister op grond van artikel 26, tweede lid, aanvullende bewijsstukken opvraagt wordt de in artikel 125 ter, eerste lid, van verordening 1234/2007 bedoelde termijn opgeschort tot de op grond van artikel 26, tweede lid, verzochte aanvullende bewijsstukken door de producentenorganisatie aan de minister zijn overlegd. 
+Indien de minister op grond van artikel 26, tweede lid, aanvullende bewijsstukken opvraagt wordt de in artikel 154, vierde lid, van verordening 1308/2013 bedoelde termijn opgeschort tot de op grond van artikel 26, tweede lid, verzochte aanvullende bewijsstukken door de producentenorganisatie aan de minister zijn overlegd. 
 
 ### Afdeling  3  
 
@@ -533,9 +529,9 @@ a. de namen van bij de producentenorganisatie aangesloten leden die weigeren om 
 
 b. de namen van bij de producentenorganisatie uitgetreden leden die weigeren om de verklaring, bedoeld in artikel 13, derde lid, onderdeel a, te overleggen;  
 
-c. de voorlopige bevindingen van de producentenorganisatie over de naleving van artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 door haar leden, en  
+c. de voorlopige bevindingen van de producentenorganisatie over de naleving van artikel 160 van verordening 1308/2013 door haar leden, en  
 
-d. de door de producentenorganisatie opgelegde sancties wegens niet naleving van artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 door haar leden.     
+d. de door de producentenorganisatie opgelegde sancties wegens niet naleving van artikel 160 van verordening 1308/2013 door haar leden.     
 3.  De producentenorganisatie rapporteert jaarlijks uiterlijk op 1 mei van het tweede jaar na het jaar waarop het in artikel 13, vierde lid, bedoelde onderzoek betrekking heeft aan de minister: 
 
 a. de aantallen producenten per productgroep die aan een onderzoek door een accountant als bedoeld in artikel 13, vierde lid, zijn onderworpen, alsmede hun afzonderlijke omzetcijfers;  
@@ -561,7 +557,7 @@ De artikelen 6, 16, 17 en 24 zijn van overeenkomstige toepassing op unies van pr
 
 ### Artikel  32  
 
-Een erkenning als bedoeld in artikel 125 quater van verordening 1234/2007 wordt slechts verleend indien wordt voldaan aan de op grond van artikel 125 quater van verordening 1234/2007, titel III, sectie 3, van verordening 543/2011 en de in artikelen 30 en 31 gestelde eisen. 
+Een erkenning als bedoeld in artikel 156 van verordening 1308/2013 wordt slechts verleend indien wordt voldaan aan de op grond van artikel 156 van verordening 1308/2013, titel III, sectie 3, van verordening 543/2011 en de in artikelen 30 en 31 gestelde eisen. 
 
 ### Hoofdstuk  3  
 
@@ -577,13 +573,13 @@ De referentieperiode voor het bepalen van de waarde van de afgezette productie, 
 
 ### Artikel  34  
 
-1.  Bij het bepalen van de waarde van de afgezette productie mogen de producten worden meegenomen, voor zover het producten betreft waarvoor de producentenorganisatie is erkend, die in de referentieperiode, bedoeld in artikel 33, eerste lid, op het grondgebied van de Europese Unie zijn geproduceerd door: 
+1.  Bij het bepalen van de waarde van de afgezette productie mogen de producten worden meegenomen, voor zover het producten betreft waarvoor de producentenorganisatie is erkend, die in de referentieperiode, bedoeld in artikel 33, op het grondgebied van de Europese Unie zijn geproduceerd door: 
 
 a. de producentenorganisatie, of  
 
 b. leden die op 1 januari van het jaar van uitvoering van het operationeel programma bij de producentenorganisatie zijn aangesloten.     
 2.  Producten zijn geproduceerd door de producentenorganisatie of een lid van de producentenorganisatie als bedoeld in het eerste lid, wanneer de productie voor eigen rekening en risico van de producentenorganisatie of haar lid heeft plaatsgevonden.   
-3.  Producten die op grond van artikel 125 bis, tweede lid, onderdelen b en c, van verordening 1234/2007, gedurende het referentiejaar verkocht worden door een andere producentenorganisatie, worden in aanmerking genomen bij de bepaling van de waarde van de afgezette productie van de producentenorganisatie waar de producent bij is aangesloten indien: 
+3.  Producten die op grond van artikel artikel 26bis van verordening 543/2011, gedurende het referentiejaar verkocht worden door een andere producentenorganisatie, worden in aanmerking genomen bij de bepaling van de waarde van de afgezette productie van de producentenorganisatie waar de producent bij is aangesloten indien: 
 
 a. de eerstgenoemde producentenorganisatie de producten daadwerkelijk verkocht heeft en aan de producent gefactureerd heeft, en  
 
@@ -593,7 +589,8 @@ b. de laatstgenoemde producentenorganisatie voor deze verkoop schriftelijk toest
 a. worden de kosten voor collectietransport en interlocatietransport buiten een zone van 50 kilometer vanaf de Nederlandse grens niet in aanmerking genomen bij de bepaling van de waarde van de afgezette productie, en  
 
 b. geeft de producentenorganisatie bij de indiening van het operationeel programma bij de minister aan op welke wijze zij transportkosten in mindering brengt op de waarde van de afgezette productie.     
-5.  De producentenorganisatie controleert de naleving van het tweede lid en evalueert jaarlijks haar controlebeleid.  
+5.  In de waarde van de afgezette productie worden geen kosten voor transport naar de afnemer opgenomen, ongeacht of deze op de verkoopfactuur zijn vermeld.  
+6.  De producentenorganisatie controleert de naleving van het tweede lid en evalueert jaarlijks haar controlebeleid.  
 
 ### Artikel  35  
 
@@ -669,7 +666,7 @@ b. de in het eerste lid bedoelde controleverklaring.
 
 ### Artikel  41  
 
-1.  De financiële bijdragen van de leden, bedoeld in artikel 103 ter, eerste lid, onderdeel a, van verordening 1234/2007, kunnen worden onderscheiden in: 
+1.  De financiële bijdragen van de leden, bedoeld in artikel 32, eerste lid, onderdeel a, van verordening 1308/2013, kunnen worden onderscheiden in: 
 
 a. bijdragen naar rato van waarde of hoeveelheid van de door het lid binnen het grondgebied van de Europese Unie geproduceerde en via de producentenorganisatie afgezette producten waarvoor de producentenorganisatie is erkend, en  
 
@@ -705,14 +702,14 @@ b. de naleving van de voorschriften inzake het beheer van het actiefonds, bedoel
 
 1.  Producentenorganisaties nemen minimaal in hun operationeel programma op: 
 
-a. twee van de doelstellingen genoemd in artikel 122, onderdeel c, van verordening 1234/2007;  
+a. twee van de doelstellingen genoemd in artikel 154, eerste lid, onderdeel c, van verordening 1308/2013;  
 
-b. één van de doelen genoemd in artikel 103 quater, eerste lid, onderdelen a tot en met d en f, van verordening 1234/2007, en  
+b. één van de doelen genoemd in artikel 33, eerste lid, onderdelen a tot en met d en f, van verordening 1308/2013, en  
 
-c. het doel genoemd in artikel 103 quater, eerste lid, onderdeel e, van verordening 1234/2007.     
+c. het doel genoemd in artikel 33 van verordening 1308/2013.     
 2.  Ter realisatie van de in het eerste lid bedoelde doelstellingen en doelen kunnen producentenorganisaties gebruik maken van alle maatregelen genoemd in artikel 19, eerste lid, onderdeel g, van verordening 543/2011.   
-3.  Ter realisatie van de doelstelling bedoeld in artikel 103 quater, tweede lid, onderdeel f, van verordening 1234/2007 kunnen producentenorganisaties de acties genoemd in artikel 103 quater, tweede lid, onderdelen c tot en met f, van verordening 1234/2007 opnemen in hun operationeel programma.   
-4.  De minister kan besluiten dat producentenorganisaties de acties genoemd in artikel 103 quater, tweede lid, onderdelen a en b, van verordening 1234/2007 tijdelijk in hun operationeel programma op kunnen nemen.  
+3.  Ter realisatie van de doelstelling bedoeld in artikel 33, eerste lid, onderdeel f van verordening 1308/2013 kunnen producentenorganisaties de acties genoemd in artikel 33, tweede lid, onderdelen b tot en met d en h, van verordening 1308/2013 opnemen in hun operationeel programma.   
+4.  De minister kan besluiten dat producentenorganisaties de acties genoemd in artikel 33, tweede lid, onderdelen g en h, van verordening 1308/2013 tijdelijk in hun operationeel programma op kunnen nemen.  
 
 ### Artikel  44  
 
@@ -721,15 +718,15 @@ c. het doel genoemd in artikel 103 quater, eerste lid, onderdeel e, van verorden
 a. artikel 19, eerste lid, onderdeel g, onder i tot en met v en viii, van verordening 543/2011 maximaal 50 procent van het totale operationele programma, en  
 
 b. artikel 19, eerste lid, onderdeel g, onder vi, van verordening 543/2011 maximaal één derde van het totale operationele programma.     
-2.  Ter uitvoering van artikel 103 quater, derde lid, van verordening 1234/2007 en artikel 55, vijfde lid, van verordening 543/2011: 
+2.  Ter uitvoering van artikel 33, vijfde lid, van verordening 1308/2013 en artikel 55, vijfde lid, van verordening 543/2011: 
 
-a. omvatten operationele programma’s van producentenorganisaties minimaal twee acties ter realisatie van de doelstelling genoemd in artikel 103 quater, eerste lid, onderdeel e, van verordening 1234/2007, of  
+a. omvatten operationele programma’s van producentenorganisaties minimaal twee acties ter realisatie van de doelstelling genoemd in artikel 33, eerste lid, onderdeel e, van verordening 1308/2013, of  
 
-b. betreft minimaal 10 procent van de uitgaven voor de uitvoering van het operationeel programma van de producentenorganisatie acties ter realisatie van de doelstelling genoemd in artikel 103 quater, eerste lid, onderdeel e, van verordening 1234/2007.    
+b. betreft minimaal 10 procent van de uitgaven voor de uitvoering van het operationeel programma van de producentenorganisatie acties ter realisatie van de doelstelling genoemd in artikel 33, eerste lid, onderdeel e, van verordening 1308/2013.    
 
 ### Artikel  45  
 
-1.  Ter realisatie van artikel 103 quater, eerste lid, onderdeel d, van verordening 1234/2007 streven producentenorganisaties er naar tenminste 10 procent van de totale uitgaven waarvoor subsidie wordt aangevraagd te besteden aan activiteiten ten behoeve van afzetbevordering.   
+1.  Ter realisatie van artikel 33, eerste lid, onderdeel d, van verordening 1308/2013 streven producentenorganisaties er naar tenminste 10 procent van de totale uitgaven waarvoor subsidie wordt aangevraagd te besteden aan activiteiten ten behoeve van afzetbevordering.   
 2.  Producentenorganisaties stellen jaarlijks een jaarplan afzetbevordering vast waarin per organisatieonderdeel de activiteiten gericht op afzetbevordering worden beschreven en de kosten voor deze activiteiten worden begroot.  
 
 ### Titel  2  
@@ -820,7 +817,7 @@ b. de projectleider of leidinggevende.
 2.  De medewerker, bedoeld in het eerste lid onderdeel a, mag niet dezelfde persoon zijn als de projectleider of leidinggevende, bedoeld in het eerste lid onderdeel b.   
 3.  De urenadministratie, bedoeld in het eerste lid: 
 
-a. wordt gedurende het hele kalenderjaar waarin de inzet van de medewerker wordt toegerekend aan een subsidiabele activiteit bijgehouden;  
+a. wordt bijgehouden gedurende het hele kalenderjaar of voor de duur van de arbeidsovereenkomst van de medewerker wiens inzet wordt toegerekend aan een subsidiabele activiteit;  
 
 b. omvat alle uren waarvoor de betreffende medewerker een arbeidscontract heeft, waaronder de uren die niet worden toegerekend aan subsidiabele activiteiten;  
 
@@ -870,7 +867,7 @@ b. de maatregelen genoemd in artikel 19, eerste lid, onderdeel g, onder ii, iii 
 
 ### Artikel  54  
 
-Personeelskosten voor uren besteed aan deelname aan cursussen, symposia, seminars, studiereizen en excursies zijn niet subsidiabel, tenzij het een opleidingsmaatregel als bedoeld in artikel 103 quater, tweede lid, onderdeel d, van verordening 1234/2007 betreft. 
+Personeelskosten voor uren besteed aan deelname aan cursussen, symposia, seminars, studiereizen en excursies zijn niet subsidiabel, tenzij het een opleidingsmaatregel als bedoeld in artikel 33, derde lid, onderdeel b, van verordening 1308/2013 betreft. 
 
 ### Afdeling  3  
 
@@ -923,19 +920,19 @@ b. 50% subsidiabel boven een afstand van vijfhonderd meter van de erfgrens.
 
 ### Artikel  60  
 
-1.  Indien een producentenorganisatie het eigendom van een duurzaam productiemiddel, dat is gefinancierd of mede is gefinancierd door middel van het actiefonds, gedurende de periode, bedoeld in artikel 57, eerste tot en met derde lid, verliest, wordt de restwaarde van de investering gerecupereerd.   
+1.  Indien een producentenorganisatie het eigendom van een duurzaam productiemiddel, dat is gefinancierd of mede is gefinancierd door middel van het actiefonds, gedurende de periode, bedoeld in artikel 57, eerste tot en met derde lid, verliest, wordt de gesubsidieerde restwaarde van de investering gerecupereerd.   
 2.  De restwaarde, bedoeld in het eerste lid, wordt forfaitair bepaald door een afschrijving van: 
 
 a. 20% per jaar voor duurzame roerende productiemiddelen, en  
 
-b. 10% per jaar voor duurzame onroerende productiemiddelen.     
+b. 10% per jaar voor duurzame onroerende productiemiddelen.   Voor het begrip onroerend wordt verwezen naar artikel 3, eerste lid, van boek 3 van het Burgerlijk Wetboek.  
 3.  De forfaitaire percentages, bedoeld in het tweede lid, worden naar rato van het aantal maanden dat een investering daadwerkelijk eigendom is geweest van de producentenorganisatie toegepast.   
 4.  In afwijking van het tweede lid wordt de restwaarde, indien een producentenorganisatie minder subsidie heeft aangevraagd dan er op grond van de berekening op basis van het tweede lid moet worden terugbetaald, vastgesteld op het bedrag waarvoor subsidie is aangevraagd.   
-5.  In afwijking van het tweede lid wordt de restwaarde, indien het eigendom van een investering tenietgaat als gevolg van een oorzaak waarvoor de producentenorganisatie een uitkering van een verzekeraar ontvangt, vastgesteld op het bedrag aan ontvangen verzekeringspenningen.  
+5.  In afwijking van het tweede lid wordt de restwaarde, indien het eigendom van een investering tenietgaat als gevolg van een oorzaak waarvoor de producentenorganisatie een uitkering van een verzekeraar ontvangt, vastgesteld op het bedrag aan ontvangen verzekeringspenningen, voor zover de verzekeringspenningen de ontvangen subsidie niet te boven gaan.  
 
 ### Artikel  61  
 
-1.  Ter uitvoering van artikel 60, vijfde lid van verordening 543/2011, wordt een duurzaam productiemiddel dat is geplaatst op het terrein van een aangesloten producent, herplaatst op een locatie van: 
+1.  Ter uitvoering van artikel 60, zesde lid van verordening 543/2011, wordt een duurzaam productiemiddel dat is geplaatst op het terrein van een aangesloten producent, herplaatst op een locatie van: 
 
 a. de producentenorganisatie, of  
 
@@ -1024,10 +1021,10 @@ a. nieuwbouw of verbouw van gebouwen die eigendom zijn van de producentenorganis
 
 b. het gedeelte van deze gebouwen dat wordt gebruikt voor producten waarvoor de producentenorganisaties is erkend;  
 
-c. ruimtes die zijn aangemerkt als subsidiabel in bijlage I, en  
+c. ruimtes die zijn aangemerkt als subsidiabel in bijlage II, en  
 
-d. elementen die zijn aangemerkt als subsidiabel in bijlage II.     
-2.  Uitgaven als bedoeld in deel 2 van bijlage I en kolom 2 van bijlage II zijn niet subsidiabel.   
+d. elementen die zijn aangemerkt als subsidiabel in bijlage III.     
+2.  Uitgaven als bedoeld in deel 2 van bijlage II en kolom 2 van bijlage III zijn niet subsidiabel.   
 3.  De producentenorganisatie onderbouwt bij de indiening van het operationeel programma de subsidiabele uitgaven, bedoeld in het eerste lid, aan de hand van: 
 
 a. bouwtekeningen, waarin wordt aangegeven welk deel van de uitgaven subsidiabele ruimten en subsidiabele elementen betreft;  
@@ -1046,7 +1043,7 @@ c. een uitsplitsing, met gebruikmaking van een model vastgesteld door de ministe
 ### Artikel  68  
 
 1.  De aankoop van onbebouwde grond, bedoeld in punt 6 van bijlage IX van verordening 543/2011, is subsidiabel indien deze grond daadwerkelijk wordt aangewend voor de realisatie van in het operationeel programma opgenomen investeringen.   
-2.  De aankoop van grond die wordt gebruikt voor onderdelen van investeringen die op grond van deel 2 van bijlage I en kolom 2 van bijlage II niet subsidiabel zijn, is niet subsidiabel.   
+2.  De aankoop van grond die wordt gebruikt voor onderdelen van investeringen die op grond van deel 2 van bijlage II en kolom 2 van bijlage III niet subsidiabel zijn, is niet subsidiabel.   
 3.  De producentenorganisatie toont bij de indiening van het operationeel programma aan de hand van bouwtekeningen of plattegronden aan welke delen van de grond, bedoeld in het eerste lid, worden aangewend voor in het operationeel programma opgenomen subsidiabele investeringen.   
 4.  Een producentenorganisatie die de aankoop van onbebouwde grond als bedoeld in het eerste lid opneemt in haar operationeel programma onderbouwt de noodzaak van deze investering voor het operationeel programma bij de indiening van het operationeel programma.   
 5.  De producentenorganisatie gebruikt de grond, bedoeld in het eerste lid, binnen de looptijd van het operationeel programma voor realisatie van de investering waarvoor de grond is aangekocht.  
@@ -1064,7 +1061,7 @@ a. die mede zijn gefinancierd door rechtspersonen waarin bij de producentenorgan
 
 b. die mede worden gefinancierd door rechtspersonen die een dochteronderneming zijn van meerdere erkende producentenorganisaties zijn subsidiabel naar rato van de aandelenverhoudingen tussen de betreffende producentenorganisaties;  
 
-c. worden geplaatst op een locatie die eigendom is van de producentenorganisatie of haar leden en waar zij bijdragen aan de toegevoegde waarde en de waarde van de afgezette productie van de producentenorganisatie.    
+c. worden geplaatst op een locatie die eigendom is van de producentenorganisatie of haar leden of die door de producentenorganisatie of haar leden wordt gehuurd of geleased en waar zij bijdragen aan de toegevoegde waarde en de waarde van de afgezette productie van de producentenorganisatie.    
 
 ### Artikel  71  
 
@@ -1136,7 +1133,7 @@ Producentenorganisaties houden voor alle duurzame productiemiddelen die zijn opg
 
 ### Paragraaf  2  
 
-####Duurzame productiemiddelen voor energiebesparende en waterbesparende maatregelen
+####Duurzame productiemiddelen voor maatregelen op het gebied van energiebesparing, verbetering van de waterkwaliteit, waterbesparing en mineralenbesparing
 
 ### Artikel  77  
 
@@ -1155,11 +1152,11 @@ c. een energiebalans, op basis van een door een deskundige:
 
 ### Artikel  78  
 
-De minister beoordeelt, aan de hand van het projectplan en de energiebelans, bedoeld in artikel 77, tweede lid, onderdelen b en c, de realiteit van de verwachte energiebesparing of reductie van het energiegebruik uit fossiele brandstoffen per energiesysteem bij de jaarlijkse indiening van het geraamde bedrag, bedoeld in artikel 54, eerste lid van verordening 543/2011. 
+De minister beoordeelt bij de indiening van het operationeel programma aan de hand van het projectplan en de energiebalans, bedoeld in artikel 77, tweede lid, onderdelen b en c, de realiteit van de energiebesparing of reductie van het energiegebruik uit fossiele brandstoffen per energiesysteem. 
 
 ### Artikel  79  
 
-Ter verantwoording van de gerealiseerde energiebesparing overlegt de producentenorganisatie één jaar na de inbedrijfstelling van de installaties, bedoeld in artikel 77, eerste lid, doch uiterlijk bij de indiening van de eerstvolgende steunaanvraag, aan de minister: 
+Ter verantwoording van de gerealiseerde energiebesparing overlegt de producentenorganisatie bij de steunaanvraag die wordt ingediend nadat de installaties, bedoeld in artikel 77, één jaar in bedrijf zijn gesteld, het volgende: 
 
 a. het declaratieformulier energiebesparende investeringen;  
 
@@ -1175,7 +1172,9 @@ De minister kan uitgaven voor investeringen in energiebesparingen niet subsidiab
 
 1.  Uitgaven voor investeringen in energiebesparende apparatuur worden vanaf het moment van investeren lineair over een periode van vijf jaar ten laste van het actiefonds gebracht.   
 2.  De opbrengst van het leveren aan derden van energie die wordt opgewekt met de in het eerste lid bedoelde apparatuur wordt lineair over een periode van vijf jaar in mindering gebracht op de in het eerste lid bedoelde uitgaven.   
-3.  Wanneer de energie die wordt opgewekt met de in het eerste lid bedoelde apparatuur uitsluitend op het teeltbedrijf zelf gebruikt wordt, overlegt de producentenorganisatie aan de minister bij het indienen van de steunaanvraag de energiebalans waaruit blijkt dat er geen warmte is geleverd aan derden.  
+3.  Wanneer de energie die wordt opgewekt met de in het eerste lid bedoelde apparatuur uitsluitend op het teeltbedrijf zelf gebruikt wordt, overlegt de producentenorganisatie aan de minister bij het indienen van de steunaanvraag de energiebalans waaruit blijkt dat er geen warmte is geleverd aan derden.   
+4.  In afwijking van het eerste lid, is het toegestaan om de uitgaven voor investeringen in energiebesparende installaties in één keer ten laste van het actiefonds te brengen, indien de producentenorganisatie aan de minister aantoont dat de investering niet leidt tot het leveren van energie aan derden.   
+5.  Dit artikel is van toepassing op investeringen gedaan op of na 10 september 2011. 
 
 ### Artikel  82  
 
@@ -1195,11 +1194,11 @@ b. de verwachte waterbesparing per systeem.
 
 ### Artikel  84  
 
-De minister beoordeelt aan de hand van een technische specificatie van de leverancier of deskundige per systeem de realiteit van de verwachte verbeterde waterkwaliteit, waterbesparing of besparing op het watergebruik bij de jaarlijkse indiening van het geraamde bedrag, bedoeld in artikel 54, eerste lid van verordening 543/2011. 
+De minister beoordeelt bij de indiening van het operationeel programma aan de hand van een technische specificatie van de leverancier of deskundige per installatie de realiteit van de verwachte verbetering van de waterkwaliteit of de waterzuivering, of de verwachte waterbesparing of mineralenbesparing. 
 
 ### Artikel  85  
 
-1.  Ter verantwoording van de gerealiseerde verbeterde waterkwaliteit of besparing op het watergebruik overlegt de producentenorganisatie één jaar na de inbedrijfstelling van de waterbesparende investering, bedoeld in artikel 83, eerste lid, doch uiterlijk bij de indiening van de eerstvolgende steunaanvraag, met gebruikmaking van een door de minister vastgesteld formulier, aan de minister: 
+1.  Ter verantwoording van de gerealiseerde verbetering van de waterkwaliteit of de waterzuivering, of de gerealiseerde besparing op het waterverbruik of het mineralenverbruik overlegt de producentenorganisatie bij de steunaanvraag die wordt ingediend nadat de installaties, bedoeld in artikel 83, eerste lid, één jaar in bedrijf zijn gesteld, het volgende: 
 
 a. het declaratieformulier investeringen waterkwaliteit;  
 
@@ -1274,11 +1273,12 @@ d. de vergoeding maximaal € 0,37 per kilometer bedraagt, en
 
 e. er een deugdelijke kilometeradministratie is bijgehouden die is geaccordeerd door de projectleider of leidinggevende die verantwoordelijk is voor de uitvoering van de activiteit.     
 2.  Kosten voor auto’s van de zaak of bedrijfsauto’s zijn niet subsidiabel.   
-3.  De reiskostencomponent van het uurloon van medewerkers in dienst van de producentenorganisatie, dochterondernemingen of kleindochterondernemingen die voor meer dan 90% eigendom zijn van de producentenorganisatie is niet subsidiabel.  
+3.  De reiskostencomponent van het uurloon van medewerkers in dienst van de producentenorganisatie, dochterondernemingen of kleindochterondernemingen die voor meer dan 90% eigendom zijn van de producentenorganisatie is niet subsidiabel.   
+4.  Kosten voor uitgaven van plaatsbewijzen voor het openbaar vervoer en vliegtickets zijn subsidiabel. 
 
 ### Artikel  91  
 
-1.  Producentenorganisaties kunnen voor uitgaven voor reiskosten en verblijfkosten voor dienstreizen en excursies door medewerkers en aangesloten leden forfaitaire vergoedingen verstrekken binnen de maxima van de Reisregeling Binnenland.   
+1.  Producentenorganisaties kunnen voor uitgaven voor reiskosten en verblijfkosten voor dienstreizen en excursies in binnenland en EU-lidstaten door medewerkers en aangesloten leden forfaitaire vergoedingen verstrekken binnen de maxima van de Reisregeling Binnenland.   
 2.  De in het eerste lid bedoelde uitgaven worden, met uitzondering van de vergoeding toegekend voor dagkosten, bij indiening van de steunaanvraag onderbouwd aan de hand van: 
 
 a. facturen;  
@@ -1340,7 +1340,7 @@ a. de aanschaf van plantgoed;
 b. de op bedrijven van leden opgekweekte planten, of  
 
 c. de aanschaf van kruisbestuivers die nodig zijn voor de aanplant van een nieuw in het operationeel programma op te nemen aanplant.     
-2.  De producentenorganisatie verzekert dat de opbrengst van de in het eerste lid, onderdeel a, bedoelde plant door de producent aan de producentenorganisatie geleverd wordt gedurende: 
+2.  In afwijking van artikel 57, eerste lid, verzekert de producentenorganisatie dat de opbrengst van de in het eerste lid, onderdeel a, bedoelde plant door de producent aan de producentenorganisatie geleverd wordt gedurende: 
 
 a. minimaal vijf jaar, wanneer de plant vijf jaar of meer vruchten levert, of  
 
@@ -1430,7 +1430,7 @@ b. de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie.
 ### Artikel  102  
 
 1.  Uitgaven van de producentenorganisatie voor het ontwikkelen en verbeteren van systemen voor aanvoerprognose en areaalenquêtes zijn subsidiabel.   
-2.  Uitgaven als bedoeld in het eerste lid voor jaarlijkse licenties voor aanvoermodules zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007 voor maximaal 50% subsidiabel.  
+2.  Uitgaven als bedoeld in het eerste lid voor jaarlijkse licenties voor aanvoermodules zijn, in afwijking van artikel 34, derde lid, van verordening 1308/2013 voor maximaal 50% subsidiabel.  
 
 ### Artikel  103  
 
@@ -1621,43 +1621,42 @@ Uitgaven van de producentenorganisatie in droogsystemen voor aanzuiging van buit
 
 ### Artikel  117  
 
-1.  Uitgaven van de producentenorganisatie voor de eerste aanschaf van voorzieningen voor gekoeld- of geconditioneerd transport zijn subsidiabel, indien het gaat om investeringen in: 
+1.  Ter uitvoering van punt 11, onder b, van bijlage IX van verordening 543/2011 zijn subsidiabel: 
 
 a. koelinstallaties;  
 
 b. koelvoorzieningen voor laadruimte of container, of  
 
 c. meet- en regelapparatuur voor sturing, monitoring en bewaking.     
-2.  In geval van collectietransport of interlocatie transport binnen Nederland en binnen een zone van 50 km vanaf de Nederlandse grens zijn de uitgaven, bedoeld in het eerste lid, voor de gehele vrachtauto subsidiabel.   
-3.  Bij de indiening van de steunaanvraag vermeldt de producentenorganisatie in de detailstaat betalingen en afschrijvingen het kentekennummer van de vrachtauto, bedoeld in het derde lid.  
+2.  Ter uitvoering van punt 11, onder a, van bijlage IX van verordening 543/2011 wordt onder intern vervoer verstaan: collectietransport of interlocatietransport binnen Nederland en binnen een zone van 50 km vanaf de Nederlandse grens.   
+3.  Bij de indiening van de steunaanvraag vermeldt de producentenorganisatie in de detailstaat betalingen en afschrijvingen het kentekennummer van de vrachtauto, bedoeld in het tweede lid.  
+4.  Indien vrachtauto’s worden gehuurd, omvat de huur geen algemene productiekosten.  
 
 ### Artikel  118  
 
-Uitgaven van de producentenorganisatie voor kwaliteitsbehoud en optimalisering van producten zijn subsidiabel, indien het onder meer gaat om investeringen in: 
+Uitgaven van de producentenorganisatie voor sorteer- en verpakkingslijnen in het kader van behoud en optimalisering van producten, met uitzondering van het vervangen van onderdelen, zijn subsidiabel indien het onder meer gaat om investeringen in: 
 
-a. sorteer- en verpakkingslijnen met uitzondering van het vervangen van onderdelen;  
+a. sorteer- en verpakkingsapparatuur;  
 
-b. sorteer- en verpakkingsapparatuur;  
+b. weegunits of weegbruggen bestemd voor in- en uitgaand product;  
 
-c. weegunits of weegbruggen bestemd voor in- en uitgaand product;  
+c. ontstapelaars;  
 
-d. ontstapelaars;  
+d. opvoerbanden;  
 
-e. opvoerbanden;  
+e. ontnesters;  
 
-f. ontnesters;  
+f. ombindmachines;  
 
-g. ombindmachines;  
+g. snij- en wasapparatuur met uitzondering van oogstmachines voor champignons;  
 
-h. snij- en wasapparatuur voor zover niet bestemd voor de champignonteelt;  
+h. sorteerdermachines van witlofpennen met uitzondering van vulstations;  
 
-i. sorteerdermachines van witlofpennen met uitzondering van vulstations;  
+i. verenkelingsrekken bestemd voor witlof;  
 
-j. verenkelingsrekken bestemd voor witlof;  
+j. kantelsystemen, of  
 
-k. kantelsystemen, of  
-
-l. waterdumpers.   
+k. waterdumpers.   
 
 ### Artikel  119  
 
@@ -1695,21 +1694,15 @@ b. de investeringen gebruikt worden in het veld direct na de oogstfase.
 
 1.  Uitgaven van de producentenorganisatie voor de champignonteelt zijn subsidiabel indien het gaat om: 
 
-a. hydraulische plukliften, indien mede sorteer- of verpakkingsactiviteiten plaatsvinden;  
+a. hydraulische plukliften, indien mede sorteer- of verpakkingsactiviteiten in de eindverpakking plaatsvinden;  
 
-b. pluklorries: 
+b. pluklorries en plukkarren: 
 
-1° indien mede sorteer- of verpakkingsactiviteiten plaatsvinden;  
+1° indien mede sorteer- of verpakkingsactiviteiten in de eindverpakking plaatsvinden;  
 
 2° in combinatie met een geïntegreerde weegunit, en  
 
-3° indien de combinatie gelijktijdig is aangeschaft, of    
-
-c. plukkarren: 
-
-1° in combinatie met een geïntegreerde weegunit, en  
-
-2° indien de combinatie gelijktijdig is aangeschaft.       
+3° indien de combinatie gelijktijdig is aangeschaft.       
 2.  Uitgaven voor het vervangen van onderdelen van hydraulische plukliften als bedoeld in het eerste lid, onderdeel a, en pluklorries als bedoeld in het eerste lid, onderdeel b, zijn niet subsidiabel.  
 
 ### Artikel  122  
@@ -1719,7 +1712,7 @@ c. plukkarren:
 a. meet- en regelapparatuur indien het gaat om een nieuwe investering in volledige conditioneringsinstallaties of conditioneringsapparatuur of vervanging van een volledige installatie in overeenstemming met artikel 60, vijfde lid, tweede alinea, van verordening 543/2011, of  
 
 b. energiebesparende apparatuur ten behoeve van conditionering.     
-2.  Onder een volledige installatie in conditioneringsinstallaties als bedoeld in het tweede lid wordt de complete unit met toebehoren verstaan.  
+2.  Onder een volledige installatie in conditioneringsinstallaties als bedoeld in het eerste lid wordt de complete unit met toebehoren verstaan.  
 
 ### Artikel  123  
 
@@ -1736,7 +1729,7 @@ d. beweegbare bodems ter beperking van de valhoogte in paprikacontainers, of
 e. oogsttransportwagens, indien de containers, bakken, dozen of Euro Pool System of eenmalig fust kisten bevestigd zijn op de oogsttransportwagens op de buisrails en deze in hun geheel worden overgebracht naar de sorteer- of verpakkingsinstallatie.     
 2.  De aanvoersystemen, bedoeld in het eerste lid, zijn geïntegreerd indien de te sorteren of te verpakken producten in containers, bakken, dozen of kisten, waaronder het Euro Pool System fust, of eenmalig fust kisten zijn opgenomen van de lorries in de sorteer- of verpakkingsinstallatie via een kantel, afschuif- of hefsysteem en een aaneengesloten keten vormen.   
 3.  In geval van een combinatie van oogsttransportwagens en transportlorries op de buisrails zijn uitsluitend de uitgaven, bedoeld in het eerste lid, van de transportlorries met de containers, bakken, dozen of kisten, waaronder het Euro Pool System fust, subsidiabel.   
-4.  Boordcomputers als onderdeel van de oogsttransportwagens, bedoeld in het eerste lid, onderdeel e, zijn, in afwijking van artikel 103 quinquies, eerste lid, verordening 1234/2007, voor maximaal 50% subsidiabel.   
+4.  Boordcomputers als onderdeel van de oogsttransportwagens, bedoeld in het eerste lid, onderdeel e, zijn, in afwijking van artikel 34, derde lid, van verordening 1308/2013, voor maximaal 50% subsidiabel.   
 5.  Hydraulische scharen als onderdeel van de oogsttransportwagens, bedoeld in het eerste lid, onderdeel e, zijn niet subsidiabel.  
 
 ### Artikel  124  
@@ -1780,11 +1773,11 @@ d. hoge drukreinigers.
 
 ### Artikel  128  
 
-Uitgaven van de producentenorganisatie in duurzame productiemiddelen voor tracking & tracing systemen in het kader van voedselveiligheid bestemd voor de registratie van productherkomst, registratie van ziekten, plagen, middelen en meststoffen zijn subsidiabel. 
+Uitgaven van de producentenorganisatie voor benodigde hardware voor tracking & tracing systemen in het kader van voedselveiligheid bestemd voor de registratie van productherkomst, registratie van ziekten, plagen, middelen en meststoffen zijn subsidiabel. 
 
 ### Artikel  129  
 
-Uitgaven van de producentenorganisatie voor benodigde hardware bestemd voor oogstkarren, weeginstallaties of kantelinstallaties in het kader van voedselveiligheid is, in afwijking van artikel 103 quinquies, eerste lid, verordening 1234/2007, voor maximaal 50% van de aanschafwaarde subsidiabel. 
+Uitgaven van de producentenorganisatie voor benodigde hardware bestemd voor oogstkarren, weeginstallaties of kantelinstallaties in het kader van voedselveiligheid is, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor maximaal 50% van de aanschafwaarde subsidiabel. 
 
 ### Artikel  130  
 
@@ -1814,7 +1807,7 @@ c. hardheidsmeters, brix- of zuurmeters bestemd voor de fruitteelt.
 
 ### Artikel  133  
 
-Uitgaven van de producentenorganisatie in software met betrekking tot de investeringen, bedoeld in artikel 114, tweede lid, aanhef en onderdeel h en artikel 117, eerste lid, aanhef en onderdeel c, zijn subsidiabel. 
+Uitgaven van de producentenorganisatie in software met betrekking tot de investeringen, bedoeld in artikel 115, tweede lid, aanhef en onderdeel h en artikel 117, eerste lid, aanhef en onderdeel c, zijn subsidiabel. 
 
 ### Artikel  134  
 
@@ -1876,9 +1869,9 @@ Uitgaven van de producentenorganisatie voor het ontwikkelen van materialen beste
 ### Artikel  139  
 
 1.  Uitgaven van de producentenorganisatie in software voor tracking & tracing systemen bestemd voor de registratie van productherkomst, registratie van ziekten, plagen, middelen en meststoffen zijn subsidiabel.   
-2.  Uitgaven voor software als bedoeld in het eerste lid zijn, in afwijking van artikel 103 quinquies, eerste lid, verordening 1234/2007, voor maximaal 50% subsidiabel indien de producentenorganisatie aan de minister op basis van een offerte niet kan aantonen dat de software uitsluitend bestemd is voor de functionaliteiten, genoemd in het eerste lid.   
-3.  Uitgaven voor jaarlijkse abonnementen van de subsidiabele software, bedoeld in het eerste lid, zijn, in afwijking van artikel 103 quinquies, eerste lid, verordening 1234/2007, voor 50% subsidiabel.   
-4.  Uitgaven als bedoeld in het eerste lid voor punnets en radio frequency identification zijn, in afwijking van artikel 103 quinquies, eerste lid, verordening 1234/2007, voor maximaal 50% subsidiabel.   
+2.  Uitgaven voor software als bedoeld in het eerste lid zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor maximaal 50% subsidiabel indien de producentenorganisatie aan de minister op basis van een offerte niet kan aantonen dat de software uitsluitend bestemd is voor de functionaliteiten, genoemd in het eerste lid.   
+3.  Uitgaven voor jaarlijkse abonnementen van de subsidiabele software, bedoeld in het eerste lid, zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel.   
+4.  Uitgaven als bedoeld in het eerste lid voor punnets en radio frequency identification zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor maximaal 50% subsidiabel.   
 5.  Onderhoudsabonnementen en kosten van Global Location Number zijn niet subsidiabel.  
 
 ### Artikel  140  
@@ -1901,7 +1894,7 @@ d. een interne auditor.
 
 ### Artikel  141  
 
-Uitgaven van de producentenorganisatie voor externe diensten bestemd voor begeleiding en audits van kwaliteitscontrolesystemen zijn subsidiabel. 
+Uitgaven van de producentenorganisatie voor gekwalificeerde externe diensten bestemd voor productcontroles en begeleiding en audits van kwaliteitscontrolesystemen zijn subsidiabel. 
 
 ### Artikel  142  
 
@@ -1937,10 +1930,6 @@ m. mede bepalen van het kwaliteitsbeleid van de afzetorganisatie en het concreti
 
 n. fungeren als aanspreekpunt voor controles door Stichting Kwaliteits-Controle-Bureau.     
 4.  Uitgaven voor de kosten van een keurmeester als bedoeld in artikel 140, tweede lid, op het gebied van de taken die afzet gerelateerd zijn niet subsidiabel.  
-
-### Artikel  143  
-
-Uitgaven van de producentenorganisatie voor gekwalificeerde externe diensten ten behoeve van productcontrole inclusief begeleiding en audits zijn subsidiabel. 
 
 ### Artikel  144  
 
@@ -2214,7 +2203,7 @@ c. indien zij bestaan uit één van de volgende systemen of installaties:
 11° gevelscherm, waarbij de energiebesparing met het scherm dicht minimaal 40% bedraagt;  
 
 12° rookgascondensors bestemd voor warmte terugwinning, waarbij de besparing van het energieverbruik uit fossiele brandstoffen minimaal 15% bedraagt.       
-2.  Het scherm, bedoeld in het eerste lid, onderdeel c, onder 9° tot en met 11°, is geen scherm voor lichtafscherming of een lichtdoorlatend gevelscherm.   
+2.  Het scherm, bedoeld in het eerste lid, onderdeel c, onder 9° tot en met 11°, is geen scherm voor lichtafscherming.   
 3.  De vervanging van bestaande schermen als bedoeld in het eerste lid, onderdeel c, onder 9° tot en met 11°, is niet subsidiabel.  
 
 ### Artikel  164  
@@ -2281,7 +2270,7 @@ d. een orderregistratiesysteem, of
 
 e. een facturatiesysteem.     
 4.  De benodigde aanpassingen van de systemen, bedoeld in het derde lid, aanhef en onderdelen a tot en met d, in het kader van de interface is eveneens subsidiabel als uitgaven als bedoeld in het eerste lid.   
-5.  De uitgaven, bedoeld in het eerste lid, voor scanners, touchscreens, tags, punnets en RIFD zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor maximaal 50% subsidiabel.   
+5.  De uitgaven, bedoeld in het eerste lid, voor scanners, touchscreens, tags, punnets en RIFD zijn, in afwijking van artikel 34, derde lid, van verordening 1308/2013, voor maximaal 50% subsidiabel.   
 6.  Uitgaven voor het verder uitrollen van een bestaand geautomatiseerde systemen voor warehouse management zijn niet subsidiabel.   
 7.  In geval van de uitgaven, bedoeld in het eerste lid, wordt door de producentenorganisatie aan de minister bij de indiening van het operationeel programma een onderbouwd plan overlegd met daarin: 
 
@@ -2294,7 +2283,7 @@ c. een definiëring van de onderdelen van de investeringskosten;
 d. een verdeling van de subsidiabele en niet-subsidiabele kosten met bijbehorende begrote bedragen, en  
 
 e. een gedetailleerde beschrijving van de functionaliteit van de verschillende onderdelen door de leverancier.     
-8.  Uitgaven voor hardware of software van het in het eerste lid bedoelde systeem zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor maximaal 50% subsidiabel, indien de producentenorganisatie aan de minister op basis van een offerte niet kan aantonen dat deze hardware of software uitsluitend bestemd is voor de functionaliteiten, genoemd in het eerste lid.  
+8.  Uitgaven voor hardware of software van het in het eerste lid bedoelde systeem zijn, in afwijking van artikel 34, derde lid, van verordening 1308/2013, voor maximaal 50% subsidiabel, indien de producentenorganisatie aan de minister op basis van een offerte niet kan aantonen dat deze hardware of software uitsluitend bestemd is voor de functionaliteiten, genoemd in het eerste lid.  
 
 ### Paragraaf  2  
 
@@ -2306,7 +2295,7 @@ Uitgaven van de producentenorganisatie voor personeel en de inhuur van externe d
 
 ### Artikel  169  
 
-Uitgaven van de producentenorganisatie voor software ten behoeve van het ontwerpen, bouwen en implementeren van geautomatiseerde systemen voor warehouse management zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor maximaal 50% subsidiabel, indien de producentenorganisatie aan de minister op basis van een offerte niet kan aantonen dat deze software uitsluitend bestemd is voor de functionaliteiten, genoemd in artikel 167, onderdelen a tot en met d. 
+Uitgaven van de producentenorganisatie voor software ten behoeve van het ontwerpen, bouwen en implementeren van geautomatiseerde systemen voor warehouse management zijn voor maximaal 50% subsidiabel, indien de producentenorganisatie aan de minister op basis van een offerte niet kan aantonen dat deze software uitsluitend bestemd is voor de functionaliteiten, genoemd in artikel 167, eerste lid, onderdelen a tot en met d. 
 
 ### Artikel  170  
 
@@ -2381,7 +2370,7 @@ c. de tegenprestatie van de gesponsorde partij gericht op het realiseren van de 
 
 ### Artikel  175  
 
-1.  De netto uitgaven van de producentenorganisatie voor magazines in het kader van promotie zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel, indien het magazine: 
+1.  De netto uitgaven van de producentenorganisatie voor magazines in het kader van promotie zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel, indien het magazine: 
 
 1. niet gericht is op de aangesloten leden, en  
 
@@ -2435,19 +2424,16 @@ e. marketingmanagers, of
 f. marktonderzoekers.     
 4.  De activiteiten van het personeel en externe diensten, bedoeld in het derde lid, hebben in ieder geval betrekking op het: 
 
-a. uitvoeren van keuringen en opstellen van een keurrapport;  
+a. samenstellen van een innovatief, concurrerend en formulegericht assortiment per productgroep;  
 
-b. bewaken van de kwaliteit tijdens de periode van overslag;  
+b. behouden van klanten of nieuwe klanten werven door acquisitieactiviteiten;  
 
-c. uitvoeren van metingen aan het product;  
+c. bepalen van de ontwikkeling, de productie, de marketing en het in de markt zetten van een product en het analyseren van de resultaten met het oog op de commerciële lange termijn doelen;  
 
-d. monitoren van de houdbaarheid en het uitstalleven van producten;  
+d. bepalen van de marktstrategie door middel van marketingplannen en het ervoor zorgen dat deze strategie wordt geïmplementeerd en nageleefd;  
 
-e. uitvoeren van specifieke keuringen op basis van klantspecificaties;  
-
-f. onderhouden van contact met het lid van een producentenorganisatie over keurresultaten en in voorkomende gevallen binnengekomen klachten, en  
-
-g. geven van een instructie aan het lid om de kwaliteit te verbeteren.    
+e. onderzoek naar alle factoren op alle verschillende (potentiële) markten die de vraag naar een product beïnvloeden, onder meer wat betreft trends, klanttevredenheid, de onderliggende behoeften van klanten en het imago van de sector.     
+5.  Activiteiten van het personeel en van externe diensten op het gebied van het verkopen van producten op welke manier dan ook, het opnemen van bestellingen, het leveren en de allocatie van het product, het maken van prijsafspraken ten aanzien van producten van niet leden of waarvoor de producentenorganisatie niet is erkend, zijn niet subsidiabel. 
 
 ### Artikel  181  
 
@@ -2674,7 +2660,7 @@ b. energiebesparing;
 c. alternatieve energiebronnen, of  
 
 d. biologische grondontsmetting voor zover betreft een langer bestaande, perspectiefvolle innovatie die nog niet of nauwelijks is ingevoerd.     
-2.  De uitgaven voor onderzoek naar biologische grondontsmetting, bedoeld in het eerste lid, aanhef en onderdeel d, zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007 voor 50% subsidiabel en betreffen slechts uitgaven voor: 
+2.  De uitgaven voor onderzoek naar biologische grondontsmetting, bedoeld in het eerste lid, aanhef en onderdeel d, zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013 voor 50% subsidiabel en betreffen slechts uitgaven voor: 
 
 a. materialen;  
 
@@ -2684,14 +2670,14 @@ c. begeleiding.
 
 ### Artikel  203  
 
-1.  Uitgaven van de producentenorganisatie op het gebied van milieu bestemd voor onderzoeken en experimentele productie zijn subsidiabel de uitgaven, indien het gaat om: 
+1.  Uitgaven van de producentenorganisatie op het gebied van milieu bestemd voor onderzoeken en experimentele productie zijn subsidiabel, indien het onder meer gaat om: 
 
 a. milieu analyses;  
 
 b. onderzoek naar nieuwe teeltconcepten, of  
 
 c. onderzoek naar problemen met bacterieziekte Agrobacterium tumefaciëns.     
-2.  Onder de uitgaven voor onderzoek naar nieuwe teeltconcepten, bedoeld in het eerste lid, aanhef en onderdeel a, vallen de kosten van gewasbeschermingsmiddelen en bodemverbeterende middelen, indien deze middelen een integraal onderdeel uitmaken van het onderzoek.   
+2.  Onder de uitgaven voor onderzoek naar nieuwe teeltconcepten, bedoeld in het eerste lid, aanhef en onderdeel b, vallen de kosten van gewasbeschermingsmiddelen en bodemverbeterende middelen, indien deze middelen een integraal onderdeel uitmaken van het onderzoek.   
 3.  Het onderzoek, bedoeld in het eerste lid, aanhef en onderdeel b, is per gewas slechts subsidiabel: 
 
 a. voor maximaal drie jaar, en  
@@ -2737,7 +2723,7 @@ b. een aanwezigheidsregistratie per bijeenkomst per deelnemer voorzien van een h
 
 ### Artikel  206  
 
-1.  Bij de uitgaven voor advies en begeleiding ten behoeve van de teelt, bedoeld in de artikelen 208, 209, 211, 212, 214 en 222, stellen voorlichters jaarlijks per deelnemend lid van de producentenorganisatie, met gebruikmaking van een door de minister vastgesteld model, evaluatierapporten op.   
+1.  Bij de uitgaven voor advies en begeleiding ten behoeve van de teelt, bedoeld in de artikelen 208, 209, 211, 212 en 222, stellen voorlichters jaarlijks per deelnemend lid van de producentenorganisatie, met gebruikmaking van een door de minister vastgesteld model, evaluatierapporten op.   
 2.  De evaluatierapporten, bedoeld in het eerste lid, bevatten: 
 
 a. een samenvatting van de concreet gegeven adviezen;  
@@ -2750,7 +2736,7 @@ c. de resultaten met betrekking tot de onderdelen kwaliteitsverbetering en milie
 
 ### Artikel  207  
 
-Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie in geval van de uitgaven voor advies en begeleiding ten behoeve van de teelt, bedoeld in de artikelen 208, 209, 211, 212, 214 en 222, met gebruikmaking van een door de minister vastgesteld model, aan de minister: 
+Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie in geval van de uitgaven voor advies en begeleiding ten behoeve van de teelt, bedoeld in de artikelen 208, 209, 211, 212, 213 en 222, per lid per gewas, met gebruikmaking van een door de minister vastgesteld model, aan de minister: 
 
 a. de naam en aanvoernummer of nummer van het lid;  
 
@@ -2820,13 +2806,11 @@ a. biologische of geïntegreerde bestrijding;
 
 b. geleide bestrijding;  
 
-c. het voorkomen van ziekten en plagen met inbegrip van gewas-, water- of bodemanalyses gericht op het vaststellen van ziekten en plagen, of  
-
-d. scouting   
+c. het voorkomen van ziekten en plagen met inbegrip van gewas-, water- of bodemanalyses gericht op het vaststellen van ziekten en plagen.   
 
 ### Artikel  212  
 
-1.  Uitgaven van de producentenorganisatie voor algemeen advies en begeleiding ten behoeve van de teelt bestemd voor geïntegreerde productie betreffende kwaliteit en milieu zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel indien het onder meer gaat om: 
+1.  Uitgaven van de producentenorganisatie voor algemeen advies en begeleiding ten behoeve van de teelt bestemd voor geïntegreerde productie betreffende kwaliteit en milieu zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel indien het onder meer gaat om: 
 
 a. gewasbeoordeling;  
 
@@ -2843,7 +2827,7 @@ f. energiereductie.
 
 ### Artikel  213  
 
-1.  Uitgaven van de producentenorganisatie voor algemeen advies en begeleiding ten behoeve van de teelt bestemd voor geïntegreerde productie of geïntegreerde plaagbestrijding betreffende kwaliteit en milieu zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor maximaal 50% subsidiabel als het gaat om: 
+1.  Uitgaven van de producentenorganisatie voor algemeen advies en begeleiding ten behoeve van de teelt bestemd voor geïntegreerde productie of geïntegreerde plaagbestrijding betreffende kwaliteit en milieu zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor maximaal 50% subsidiabel als het gaat om: 
 
 a. ICT modules bestemd voor advies en begeleiding;  
 
@@ -2884,7 +2868,7 @@ Uitgaven van de producentenorganisatie voor educatieve bijeenkomsten op het gebi
 
 ### Artikel  217  
 
-Uitgaven van de producentenorganisatie voor algemeen educatieve bijeenkomsten op het gebied van kwaliteit en milieu zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel. 
+Uitgaven van de producentenorganisatie voor algemeen educatieve bijeenkomsten op het gebied van kwaliteit en milieu zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel. 
 
 ### Paragraaf  4  
 
@@ -2959,7 +2943,7 @@ e. een evaluatie.
 
 ### Artikel  224  
 
-Uitgaven van de producentenorganisatie voor algemene op de voedingstuinbouw gerichte educatieve bijeenkomsten zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel. 
+Uitgaven van de producentenorganisatie voor algemene op de voedingstuinbouw gerichte educatieve bijeenkomsten zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel. 
 
 ### Artikel  225  
 
@@ -2981,7 +2965,7 @@ b.  *structurele crisis:* een crisis met een langdurige periode van lage prijzen
 
 Uitgaven van de producentenorganisatie voor activiteiten en subactiviteiten ter uitvoering van de maatregel, bedoeld in artikel 19, eerste lid, onderdeel g, onder vi, van verordening 543/2011, zijn subsidiabel, indien wordt voldaan aan: 
 
-a. artikel 103 quater, tweede lid, van verordening 1234/2007;  
+a. artikel 34, derde lid, van verordening 1308/2013;  
 
 b. artikelen 60, 86, 88 tot en met 90 van verordening 543/2011;  
 
@@ -3007,7 +2991,7 @@ b. witlof;
 c. bloemkool, en  
 
 d. champignons.     
-5.  De uitgaven van de producentenorganisatie, bedoeld in het eerste lid voor de premies betaald in het kader van oogstverzekering als bedoeld in artikel 232, eerste lid, zijn niet subsidiabel.  
+5.   Dit artikel is niet van toepassing op uitgaven voor premies ten behoeve van een oogstverzekering.  
 
 ### Paragraaf  2  
 
@@ -3015,7 +2999,7 @@ d. champignons.
 
 ### Artikel  229  
 
-1.  Uitgaven van de producentenorganisatie voor personeelskosten en externe diensten in het kader van afzetbevorderings- en communicatieacties als bedoeld in artikel 103 quater, tweede lid, onderdeel c, van verordening 1234/2007 zijn subsidiabel indien het gaat om: 
+1.  Uitgaven van de producentenorganisatie voor personeelskosten en externe diensten in het kader van afzetbevorderings- en communicatieacties als bedoeld in artikel 34, derde lid, onderdeel c, van verordening 1308/2013 zijn subsidiabel indien het gaat om: 
 
 a. marktonderzoek;  
 
@@ -3229,7 +3213,7 @@ b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kal
 
 ### Artikel  231  
 
-1.  Uitgaven van de producentenorganisatie voor opleidingsacties als bedoeld in artikel 103 quater, tweede lid, onderdeel d, van verordening 1234/2007 in het kader van crisispreventie zijn subsidiabel indien het om bijeenkomsten gaat van: 
+1.  Uitgaven van de producentenorganisatie voor opleidingsacties als bedoeld in artikel 34, derde lid, van verordening 1308/2013 in het kader van crisispreventie zijn subsidiabel indien het om bijeenkomsten gaat van: 
 
 a. cursussen;  
 
@@ -3278,9 +3262,9 @@ e. een evaluatie.
 
 ### Artikel  232  
 
-1.  Uitgaven voor premies ten behoeve van een oogstverzekering als bedoeld in artikel 103 quater, tweede lid, onderdeel e, van verordening 1234/2007 en de artikelen 88 en 89 van verordening 543/2011 zijn als actie subsidiabel voor zover de producentenorganisatie deze actie heeft opengesteld aan al haar leden.   
-2.  De uitgaven van de producentenorganisatie voor premies, bedoeld in het eerste lid, zijn uitsluiten subsidiabel indien zij daadwerkelijk betaald zijn, met uitzondering van assurantiebelasting en polis- of andere soortgelijke kosten onder aftrek van kortingen en retributies op pro rato basis van de betaalde premies.   
-3.  Indien de oogstverzekering, bedoeld in het eerste lid, uitsluitend dekking biedt tegen ongunstige weersomstandigheden die met een natuurramp kunnen worden gelijkgesteld als bedoeld in artikel 2, lid acht, van verordening 1857/2006 vindt artikel 103 quinquies, het derde lid, van verordening 1234/2007 geen toepassing.   
+1.  Uitgaven voor premies ten behoeve van een oogstverzekering als bedoeld in artikel 33, derde lid, onderdeel h, van verordening 1308/2013 en de artikelen 88 en 89 van verordening 543/2011 zijn als actie subsidiabel voor zover de producentenorganisatie deze actie heeft opengesteld aan al haar leden.   
+2.  De uitgaven van de producentenorganisatie voor premies, bedoeld in het eerste lid, zijn uitsluitend subsidiabel indien zij daadwerkelijk betaald zijn, met uitzondering van assurantiebelasting en polis- of andere soortgelijke kosten onder aftrek van kortingen en retributies op pro rato basis van de betaalde premies.   
+3.  Indien de oogstverzekering, bedoeld in het eerste lid, uitsluitend dekking biedt tegen ongunstige weersomstandigheden vindt artikel 34, derde lid, van verordening 1308/2013 geen toepassing.   
 4.  Bij de indiening van de steunaanvraag wordt door de producentenorganisatie aan de minister, met gebruikmaking van een model vastgesteld door de minister, in geval van de uitgaven, bedoeld in het eerste lid, een lijst van de deelnemers overlegd onder vermelding van: 
 
 a. de naam, adres en woonplaats gegevens;  
@@ -3311,8 +3295,8 @@ k. het percentage subsidiabel deel ten opzichte van het verzekerd bedrag.
 
 ### Artikel  233  
 
-1.  In geval van administratieve kosten ten behoeve de oprichting van onderlinge fondsen, bedoeld in artikel 103 quater, lid 2, onderdeel f, van verordening 1234/2007 en artikel 90 van verordening 543/2007, treden deze fondsen in de plaats van de oogstverzekeringsacties, bedoeld in artikel 103 quater, lid 2, onderdeel e, van verordening 1234/2007.   
-2.  Onder de administratieve kosten, bedoeld in artikel 103 quater, lid 2, onderdeel f, van verordening 1234/2007 en artikel 90 van verordening 543/2007, vallen de kosten voor externe adviesdiensten op juridisch en administratief gebied voor de oprichting van de onderlinge fondsen.   
+1.  In geval van administratieve kosten ten behoeve de oprichting van onderlinge fondsen, bedoeld in artikel 33, derde lid, onderdeel d, van verordening 1308/2013, en artikel 90 van verordening 543/2007, treden deze fondsen in de plaats van de oogstverzekeringsacties, bedoeld in artikel 33, derde lid, onderdeel h, van verordening 1308/2013.   
+2.  Onder de administratieve kosten, bedoeld in artikel 33, derde lid, onderdeel d, van verordening 1308/2013 en artikel 90 van verordening 543/2007, vallen de kosten voor externe adviesdiensten op juridisch en administratief gebied voor de oprichting van de onderlinge fondsen.   
 3.  Voor zover van toepassing zijn de bepalingen opgenomen in artikel 232 van overeenkomstige toepassing op de uitgaven van de producentenorganisatie voor de administratieve kosten ten behoeve van de oprichting van onderlinge fondsen, bedoeld in dit artikel.  
 
 ### Paragraaf  6  
@@ -3333,7 +3317,7 @@ Indien de producentenorganisatie, met inachtneming van artikel 74 van verordenin
 
 ### Artikel  235  
 
-Uitgaven van de producentenorganisatie voor activiteiten en subactiviteiten ter uitvoering van de doelstelling, bedoeld in artikel 103 quater, eerste lid onderdeel e, van verordening 1234/2007, zijn subsidiabel, indien wordt voldaan aan: 
+Uitgaven van de producentenorganisatie voor activiteiten en subactiviteiten ter uitvoering van de doelstelling, bedoeld in artikel 33, eerste lid, onderdeel e, van verordening 1308/2013, zijn subsidiabel, indien wordt voldaan aan: 
 
 a. artikel 60 van verordening 543/2011;  
 
@@ -3349,9 +3333,9 @@ De minister kan subsidie voor in het operationeel programma opgenomen milieuacti
 
 ### Artikel  237  
 
-1.  De producentenorganisatie voert acties ter realisatie van de doelstellingen, bedoeld in artikel 103 quater, eerste lid, onderdeel e, van verordening 1234/2007 uit gedurende de gehele looptijd van het operationeel programma.   
+1.  De producentenorganisatie voert acties ter realisatie van de doelstellingen, bedoeld in artikel 33, eerste lid, onderdeel e, van verordening 1308/2013 uit gedurende de gehele looptijd van het operationeel programma.   
 2.  De acties, bedoeld in het eerste lid, worden tevens in een volgend operationeel programma opgenomen, indien dit noodzakelijk is om de looptijd te bereiken die van toepassing is op grond van artikel 39, derde lid, van verordening 1698/2005.   
-3.  De producentenorganisatie gebruikt de technische middelen, met uitzondering van vaste activa, waarvoor subsidie wordt verstrekt voor uitvoering van acties ter realisatie van de doelstellingen, bedoeld in artikel 103 quater, eerste lid, onderdeel e, van verordening 1234/2007, gedurende de hele periode, bedoeld in artikel 39, derde lid van verordening 1698/2005, voor de doeleinden zoals goedgekeurd in het operationeel programma.  
+3.  De producentenorganisatie gebruikt de technische middelen, met uitzondering van vaste activa, waarvoor subsidie wordt verstrekt voor uitvoering van acties ter realisatie van de doelstellingen, bedoeld in artikel 33, eerste lid, onderdeel e, van verordening 1308/2013, gedurende de hele periode, bedoeld in artikel 39, derde lid van verordening 1698/2005, voor de doeleinden zoals goedgekeurd in het operationeel programma.  
 
 ### Artikel  238  
 
@@ -3364,7 +3348,7 @@ Duurzame productiemiddelen die op grond deze afdeling subsidiabel zijn kunnen ge
 ### Artikel  239  
 
 1.  Uitgaven voor investeringen in innovatieve en emissiebeperkende gewasbeschermingsapparatuur zijn subsidiabel indien deze investeringen tot doel hebben om het gebruik van chemische bestrijdingsmiddelen te verminderen.   
-2.  Innovatieve en emissiebeperkende gewasbeschermingsapparatuur als bedoeld in het eerste lid zijn: 
+2.  Gewasbeschermingsapparatuur als bedoeld in het eerste lid, voor zover innovatief en emissiebeperkend, is: 
 
 a. spuitapparatuur;  
 
@@ -3387,7 +3371,7 @@ f. apparatuur voor het elektrochemisch activeren van een zwakke oplossing van na
 g. apparatuur om looftrekdoeken te ontsmetten.     
 3.  Spuitleidingen en het transportsysteem voor het verplaatsen naar de volgende rij of afdeling van spuitrobots en UV belichtingswagens zijn niet subsidiabel.   
 4.  In geval van opgebouwde zelfrijdende landbouwspuitmachines is uitsluitend het spuitsysteem subsidiabel.   
-5.  De uitgaven van de producentenorganisatie voor GPS systemen in het kader van de precisielandbouwtechnieken, bedoeld in het eerste lid, onderdeel e, zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, 50% subsidiabel.  
+5.  De uitgaven van de producentenorganisatie voor GPS systemen in het kader van de precisielandbouwtechnieken, bedoeld in het eerste lid, onderdeel e, zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013 voor 50% subsidiabel.  
 
 ### Artikel  240  
 
@@ -3439,7 +3423,7 @@ b. het gaat om onder meer:
 
 a. 100% tot een afstand van 500 meter van de erfgrens, en  
 
-b. 50% vanaf 500 meter van de erfgrens, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007.    
+b. 50% vanaf 500 meter van de erfgrens, in afwijking van artikel 34, eerste lid, van verordening 1308/2013.    
 
 ### Artikel  246  
 
@@ -3455,13 +3439,13 @@ b. bij de indiening van de steunaanvraag aan de hand van de metingen van de emis
 a. een stookinstallatie geplaatst en in gebruik genomen vóór 1 april 2010, of  
 
 b. een stookinstallatie geplaatst en in gebruik genomen op of na 1 april 2010.     
-5.  De meetapparatuur, bedoeld in het eerste lid, voor metingen in de kas ter voorkoming van schade aan gewassen is subsidiabel indien deze apparatuur extreem gevoelig is voor NO, NO<sub>2</sub>, C2H4 en CO en waarden kleiner dan 5.000 microgram per liter meet.   
+5.  Aanvullende meetapparatuur voor metingen in de kas ter voorkoming van schade aan gewassen is subsidiabel indien deze apparatuur extreem gevoelig is voor NO, NO<sub>2</sub>, C2H4 en CO en waarden kleiner dan 5.000 microgram per liter meet.   
 6.  Uitgaven van de producentenorganisatie voor voorzieningen voor distributie en regeling van CO<sub>2</sub> in de kas zijn niet subsidiabel.  
 
 ### Artikel  247  
 
 1.  Uitgaven voor investeringen in aansluitingen op een CO<sub>2</sub> netwerk en voorzieningen voor CO<sub>2</sub> opslag zijn subsidiabel.   
-2.  Uitgaven voor aansluitingen, bedoeld in het eerste lid, zijn in geval van participatie in een samenwerkingsverband van agrarische bedrijven met CO<sub>2</sub> clustering subsidiabel.   
+2.  Uitgaven voor aansluitingen, bedoeld in het eerste lid, zijn in geval van participatie in een samenwerkingsverband van agrarische bedrijven met CO<sub>2</sub> clustering in afwijking van artikel 34 van verordening 1308/2013 voor 50% subsidiabel.   
 3.  Uitgaven van de producentenorganisatie voor voorzieningen voor distributie en regeling van CO<sub>2</sub> in de kas zijn niet subsidiabel.  
 
 ### Artikel  248  
@@ -3501,9 +3485,9 @@ b. het gaat om installaties ten behoeve van semi-gesloten kassen die een combina
 
 2. In afwijking van het eerste lid kan de minister in uitzonderlijke gevallen een reductie van het energieverbruik uit fossiele brandstoffen van minimaal 10% toestaan, indien de actie andere milieuvoordelen waarborgt.  
 
-3. Het scherm, bedoeld in het eerste lid, onderdeel c, onder ix tot en met xi, is geen scherm voor lichtafscherming.  
+3. Het scherm, bedoeld in het eerste lid, onderdeel b, onder 9 tot en met 11, is geen scherm voor lichtafscherming.  
 
-4. De vervanging van bestaande schermen, bedoeld in het eerste lid, onderdeel c, onder ix tot en met xi, is niet subsidiabel.   
+4. De vervanging van bestaande schermen, bedoeld in het eerste lid, onderdeel b, onder 9 tot en met 11, is niet subsidiabel.   
 
 ### Artikel  250  
 
@@ -3526,8 +3510,9 @@ c. het gaat om:
 
 ### Artikel  252  
 
-1.  Uitgaven voor investeringen in installaties ten behoeve van het zuiveren van water voorafgaand aan lozing zijn subsidiabel indien de specificatie van de investering een reductie van het waterverbruik van minimaal 25% geeft.   
-2.  In afwijking van het eerste lid kan de minister in uitzonderlijke gevallen een reductie van het waterverbruik van minimaal 10% toestaan, indien de actie andere milieuvoordelen waarborgt.  
+1.  Uitgaven voor investeringen in installaties ten behoeve van het zuiveren van water voorafgaand aan lozing zijn subsidiabel indien de specificatie van de investering een reductie van de emissie van afvalstoffen in het geloosde afvalwater van minimaal 25% geeft.   
+2.  In afwijking van het eerste lid kan de minister in uitzonderlijke gevallen een reductie van het waterverbruik van minimaal 10% toestaan, indien de actie andere milieuvoordelen waarborgt.   
+3.  In geval van waterzuivering als bedoeld in het eerste lid, overlegt de producentenorganisatie, bij indiening van de steunaanvraag aan de minister, een opgave van de emissiereductie van afvalstoffen in het geloosde afvalwater. De reductie wordt vastgesteld aan de hand van een vergelijking van de metingen voor inbedrijfstelling van de investering en direct na inbedrijfstelling van de investering. 
 
 ### Paragraaf  3  
 
@@ -3535,7 +3520,7 @@ c. het gaat om:
 
 ### Artikel  253  
 
-In het operationeel programma kunnen, ter realisatie van de doelstelling, bedoeld in artikel 103 quater, eerste lid onderdeel e, van verordening 1234/2007, acties ten behoeve van biologische productie worden opgenomen, indien wordt voldaan aan de vereisten voor biologische productie zoals opgenomen in verordeningen 834/2007 en 889/2008. 
+In het operationeel programma kunnen, ter realisatie van de doelstelling, bedoeld in artikel 33, eerste lid, onderdeel e, van verordening 1308/2013, acties ten behoeve van biologische productie worden opgenomen, indien wordt voldaan aan de vereisten voor biologische productie zoals opgenomen in verordeningen 834/2007 en 889/2008. 
 
 ### Artikel  254  
 
@@ -3576,39 +3561,15 @@ c. een opgave per deelnemende producent van:
 ### Artikel  258  
 
 1.  Uitgaven voor biologische vermeerdering en opkweek van uitgangsmateriaal en de niet-chemische behandeling bij zaden van gangbare oorsprong zijn subsidiabel indien zij Skal gecertificeerd zijn.   
-2.  Voor de uitgaven, bedoeld in het eerste lid, gelden de volgende forfaitaire tarieven:  
-
-| Soort  | Percentage van de kale aankoopprijs  |
-|:---|:---|
-| a  | biologisch vermeerderd zaaizaad  | --- |
-| --- | 1°  | Glas (vruchtgroenten)  | 25%  |
-| --- | 2°  | Vollegrond en glas (overige gewassen)  | 45%  |
-| --- | 3°  | industrieteelten  | 40%  |
-| b.  | niet-chemisch behandeld zaaizaad, exclusief glas (vruchtgroenten)en industrieteelten  | 12%  |
-| c.  | biologisch opgekweekt poot- en plantgoed, exclusief enten  | 25%  |
-| d.  | biologisch geteelde witlofpennen  | 50%  |
-
-3.  De producentenorganisatie onderbouwt de uitgaven aan de hand van de tarieven, bedoeld in het tweede lid, bij de indiening van de steunaanvraag, met gebruikmaking van een door de minister vastgesteld model.   
-4.  Vervallen.   
-5.  Uitgaven voor uitgangsmateriaal van rassen en proefrassen zijn niet subsidiabel, indien de rassen of proefrassen niet: 
-
-a. in het Nederlandse rassenregister zijn ingeschreven, of  
-
-b. officieel zijn toegelaten op de lijst van autorisaties voor het in het verkeer brengen van rassen.    
+2.  De producentenorganisatie onderbouwt bij de indiening van de steunaanvraag, met gebruikmaking van een door de minister beschikbaar gesteld middel, in geval van plantgoed van gewassen of zaadgoed van rassen de werkelijke meerkosten door middel van schriftelijke bewijsstukken. Het tarief van de meerkosten wordt vastgesteld op basis van een vergelijking tussen de kosten van het biologisch plantgoed van een gewas of het biologisch dan wel niet chemisch behandeld zaadgoed van een ras en de kosten van het overeenkomstige plantgoed of zaaizaad van gangbare oorsprong.  
 
 ### Artikel  259  
 
 1.  De producentenorganisatie toont de biologische oorsprong van de uitgangsmaterialen, bedoeld in artikel 258, eerste lid, bij de indiening van de steunaanvraag aan door middel van: 
 
-a. een factuur en een afleverbon of een plantenpaspoort met vermelding van Skalnummer en ‘*eko*’ of ‘*bio*’;  
+a. een factuur en een afleverbon met vermelding van Skalnummer en ‘eko’ of ‘bio’ en, indien van toepassing, ‘niet chemisch behandeld’, en  
 
-b. het Skal certificaat van de leverancier, en  
-
-c. een opgave per deelnemende producent van: 
-
-1° het areaal GMO waardige gewassen, en  
-
-2° de opgevoerde kosten.       
+b. het Skal certificaat van de leverancier.     
 2.  In afwijking van het eerste lid, onderdeel b, kan de producentenorganisatie in plaats van Skal certificaten een lijst van Skal gecertificeerde leveranciers en Skalnummers overleggen.  
 
 ### Paragraaf  4  
@@ -3633,7 +3594,7 @@ b. officieel zijn toegelaten op de lijst van autorisaties voor het in het verkee
 ### Artikel  261  
 
 1.  Voor de rassen, bedoeld in artikel 260, eerste lid, zijn de meerkosten ten opzichte van een standaardras zonder extra resistentie subsidiabel.   
-2.  In afwijking van het eerste lid, gelden voor de uitgaven voor de in dit lid genoemde rassen de volgende forfaitaire tarieven:  
+2.  In afwijking van het eerste lid, gelden voor de uitgaven voor rassen met de in dit lid genoemde extra resistentie de volgende forfaitaire tarieven:  
 
 | Soort  | tarief  |
 |:---|:---|
@@ -3643,11 +3604,7 @@ b. officieel zijn toegelaten op de lijst van autorisaties voor het in het verkee
 | d.  | tomaat resistentie echte meeldauw On (Oïdium neolycopersici)  | € 70 per 1.000 zaden  |
 | e.  | ijsbergsla resistentie bladluis Nr (Nasanovia ribisnigri)  | € 4,50 per 1.000 zaden  |
 
-3.  De producentenorganisatie onderbouwt door middel van schriftelijke bewijsstukken bij de indiening van de steunaanvraag, met gebruikmaking van een model vastgesteld door de minister: 
-
-a. de meerkosten, bedoeld in het eerste lid, door middel van een vergelijking tussen de kosten van de belangrijkste standaardrassen en het ras met de extra resistentie, bedoeld in artikel 260, eerste lid, of  
-
-b. de uitgaven, bedoeld in het tweede lid.     
+3.  De producentenorganisatie onderbouwt voor rassen met andere dan in het tweede lid genoemde resistenties, door middel van schriftelijke bewijsstukken, uiterlijk bij indiening van de steunaanvraag, met gebruikmaking van een door de minister beschikbaar gesteld middel, de meerkosten, bedoeld in het eerste lid, door middel van een vergelijking tussen de kosten van de belangrijkste standaardrassen en het ras met de extra resistentie, bedoel in artikel 260, eerste lid.   
 4.  De kosten van gecoat zaad worden bij de prijsvergelijking, bedoeld in het derde lid, onderdeel a, buiten beschouwing gelaten.   
 5.  De producentenorganisatie beschikt over de afleverbonnen of plantenpaspoorten van het zaad, bedoeld in artikel 260, eerste lid.  
 
@@ -3705,7 +3662,7 @@ e. feromonen als lokstof in vallen of op rollertraps en vangplaten;
 f. kalkmelk voor de fruitteelt, en  
 
 g. organismen, voeding en middelen voor dosering ter ondersteuning van biologische gewasbescherming.     
-2.  Bijlage V bevat een overzicht van de gewasbeschermingsmiddelen, bedoeld in het eerste lid, onderdeel c, d en e. Deze bijlage bevat niet de gewasbeschermingsmiddelen waarvoor een tijdelijke vrijstelling is verleend.  
+2.  Bijlage V bevat een overzicht van de gewasbeschermingsmiddelen, bedoeld in het eerste lid, onderdeel b, c en d. Deze bijlage bevat niet de gewasbeschermingsmiddelen waarvoor een tijdelijke vrijstelling is verleend.  
 
 ### Artikel  267  
 
@@ -3723,7 +3680,7 @@ a. afdichtingsmateriaal ten behoeve van het afdichten van champignonnencellen;
 b. messen ter voorkoming van verspreiding van virussen, en  
 
 c. grondstomen en stomen van materialen in de kas.     
-3.  Uitgaven voor een softwarelicentie voor een scoutbox als bedoeld in het eerste lid onderdeel b, zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel.  
+3.  Uitgaven voor een softwarelicentie voor een scoutbox als bedoeld in het eerste lid onderdeel b, zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel.  
 
 ### Artikel  268  
 
@@ -3731,7 +3688,7 @@ Voor de uitgaven, bedoeld in artikel 266 en 267, eerste lid, geldt een forfaitai
 
 ### Artikel  269  
 
-1.  De producentenorganisatie verzoekt de minister bij het meedelen van de raming van de middelen, bedoeld in artikel 103 octies, tweede lid, van verordening 1234/2007 om goedkeuring van de lijst van overige biologische gewasbeschermingsmiddelen als bedoeld in artikel 266.   
+1.  De producentenorganisatie verzoekt de minister bij het meedelen van de raming van de middelen, bedoeld in artikel 33, eerste lid, van verordening 1308/2013 om goedkeuring van de lijst van overige biologische gewasbeschermingsmiddelen als bedoeld in artikel 266.   
 2.  De producentenorganisatie onderbouwt het effect van biologische en geïntegreerde bestrijding als bedoeld in artikel 266 en artikel 267, eerste lid, op het terugdringen van het gebruik van werkzame stof uit chemische gewasbeschermingsmiddelen, met gebruikmaking van een door de minister vastgesteld model, aan de hand van een jaarlijkse opgave van het totale gebruik aan werkzame stof in kilogram per hectare opgeven, uitgesplitst naar gewas(groep) aan de hand van registraties van de teeltbedrijven.  
 
 ### Artikel  270  
@@ -3740,7 +3697,7 @@ De producentenorganisatie onderbouwt bij de indiening van de steunaanvraag de ui
 
 ### Artikel  271  
 
-Uitgaven voor materialen, monitoring en begeleiding van biologische grondontsmetting zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel. 
+Uitgaven voor materialen, monitoring en begeleiding van biologische grondontsmetting zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel. 
 
 ### Paragraaf  5  
 
@@ -3820,7 +3777,7 @@ Uitgaven voor personeelskosten voor milieuzorgsystemen zijn subsidiabel indien z
 ### Artikel  279  
 
 1.  Uitgaven voor het ontwikkelen en verbeteren van ICT en registratiemodules ten behoeve van milieuzorgsystemen als bedoeld in artikel 275, eerste lid, zijn subsidiabel.   
-2.  Uitgaven als bedoeld in het eerste lid voor jaarlijkse abonnementen of licenties voor registratiemodules zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor maximaal 50% subsidiabel.  
+2.  Uitgaven als bedoeld in het eerste lid voor jaarlijkse abonnementen of licenties voor registratiemodules zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor maximaal 50% subsidiabel.  
 
 ### Afdeling  8  
 
@@ -3861,7 +3818,7 @@ b. A8;
 c. K4, of  
 
 d. Dutch Produce Association.     
-2.  De uitgaven voor het lidmaatschap van de Dutch Produce organisation, bedoeld in het eerste lid, onderdeel d, zijn, in afwijking van artikel 103 quinquies, eerste lid, van verordening 1234/2007, voor 50% subsidiabel.   
+2.  De uitgaven voor het lidmaatschap van de Dutch Produce organisation, bedoeld in het eerste lid, onderdeel d, zijn, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% subsidiabel.   
 3.  Bij de indiening van het operationeel programma wordt door de producentenorganisatie in het kader van de uitgaven, bedoeld in het eerste lid, voor elke lidmaatschap een onderbouwd jaarplan voorzien van een begroting aan de minister voorgelegd.  
 
 ### Artikel  283  
@@ -3879,16 +3836,20 @@ Uitgaven van de producentenorganisatie ten behoeve van sectorale activiteiten zi
 
 ### Artikel  285  
 
-1.  Uitgaven van de producentenorganisatie voor acties in het kader van samenwerking met in andere Europese lidstaten gevestigde erkende producentenorganisaties als bedoeld in artikel 122 van Verordening 1234/2007 zijn subsidiabel, indien: 
+1.  Uitgaven van de producentenorganisatie voor acties in het kader van samenwerking met in andere Europese lidstaten gevestigde erkende producentenorganisaties als bedoeld in artikel 152 van verordening 1308/2013 zijn subsidiabel, indien: 
 
 a. er sprake is van een wederzijds voordeel, en  
 
 b. de producentenorganisatie bij de indiening van het operationeel programma een voorstel met betrekking tot internationale samenwerking ter goedkeuring aan de minister zendt.     
-2.  Het wederzijds voordeel, bedoeld in het eerste lid, is aanwezig als de producentenorganisaties zich gezamenlijk inzetten om een bepaald doel in het kader van het bepaalde bij of krachtens verordening 1234/2007 te bereiken.  
+2.  Het wederzijds voordeel, bedoeld in het eerste lid, is aanwezig als de producentenorganisaties zich gezamenlijk inzetten om een bepaald doel in het kader van het bepaalde bij of krachtens verordening 1308/2013 te bereiken.  
 
 ### Titel  4  
 
 ####Indienen en wijzigingen operationeel programma
+
+### Artikel  285a  
+
+De producentenorganisatie dient het operationele programma als bedoeld in artikel 63, eerste lid, van verordening 543/2011 in voor 1 oktober. 
 
 ### Artikel  286  
 
@@ -3904,7 +3865,7 @@ d. het laten vervallen van maatregelen in het operationele programma voor de vol
 
 e. het wijzigen van de looptijd van het operationele programma.     
 2.  De wijziging, bedoeld in het eerste lid, heeft geen betrekking op het lopende jaar.   
-3.  De producentenorganisatie dient het verzoek, bedoeld in het eerste lid, uiterlijk op 15 september voor het uitvoeringsjaar in bij de minister.  
+3.  De producentenorganisatie dient het verzoek, bedoeld in het eerste lid, uiterlijk op 1 oktober voor het uitvoeringsjaar in bij de minister.  
 
 ### Artikel  287  
 
@@ -3956,12 +3917,12 @@ b. in geval van nieuwe investeringen en aanvullende acties gemotiveerd aan de ha
 
 ### Artikel  289  
 
-1.  Als bewijsstuk als bedoeld in artikel 69, tweede lid, onderdelen a en d, van verordening 1234/2007, gelden: 
+1.  Als bewijsstuk als bedoeld in artikel 69, tweede lid, onderdelen a en d, van verordening 543/2011, gelden: 
 
 a. een overzicht van de per maatregel, activiteit en subactiviteit aangevraagde subsidie, en  
 
 b. een detailstaat van de verrichte uitbetalingen en afschrijvingen.     
-2.  Als bewijsstuk als bedoeld in artikel 69, tweede lid, onderdeel i, van verordening 1234/2007, geldt de detailstaat betalingen en afschrijvingen van de producentenorganisatie waarin de facturen voor de betreffende acties zijn opgenomen.  
+2.  Als bewijsstuk als bedoeld in artikel 69, tweede lid, onderdeel i, van verordening 543/2011, geldt de detailstaat betalingen en afschrijvingen van de producentenorganisatie waarin de facturen voor de betreffende acties zijn opgenomen.  
 
 ### Artikel  290  
 
@@ -4017,8 +3978,7 @@ b. de detailstaat betalingen en afschrijvingen.
 
 a. eerste rapportage: 1 juli van het jaar waarop het verstrekte voorschot betrekking heeft, en  
 
-b. tweede rapportage: 31 oktober van het jaar waarop het verstrekte voorschot betrekking heeft.     
-8.  Het model, bedoeld in het zesde lid, is verkrijgbaar bij Dienst Regelingen.  
+b. tweede rapportage: 31 oktober van het jaar waarop het verstrekte voorschot betrekking heeft.    
 
 ### Artikel  294  
 
@@ -4035,18 +3995,16 @@ b. tweede rapportage: 31 oktober.
 
 a. eerste kwartaal: 1 mei;  
 
-b. tweede kwartaal: 1 juli, of  
+b. tweede kwartaal: 1 augustus, of  
 
 c. derde kwartaal: 31 oktober.     
 2.  Ter onderbouwing van het verzoek om gedeeltelijke betaling als bedoeld in het eerst lid, overlegt de producentenorganisatie de volgende bewijsstukken aan de minister: 
 
-a. een steunaanvraag;  
+a. een kwartaalrapportage, en  
 
-b. een kwartaalrapportage, en  
-
-c. een detailstaat betalingen en afschrijvingen.     
-3.  De producentenorganisatie laat een extern accountant een controle uitvoeren op de juistheid van de bedragen opgenomen in de bewijsstukken, bedoeld in het tweede lid, onderdeel b en c.   
-4.  De accountant, bedoeld in het derde lid, stelt op basis van de door hem uitgevoerde controle een controleverklaring op, met gebruikmaking van een door de minister vastgesteld model, en waarmerkt de bewijsstukken, bedoeld in het tweede lid, onderdeel b en c.   
+b. een detailstaat betalingen en afschrijvingen.     
+3.  De producentenorganisatie laat een extern accountant een controle uitvoeren op de juistheid van de bedragen opgenomen in de bewijsstukken, bedoeld in het tweede lid.   
+4.  De accountant, bedoeld in het derde lid, stelt op basis van de door hem uitgevoerde controle een controleverklaring op, met gebruikmaking van een door de minister vastgesteld model, en waarmerkt de bewijsstukken, bedoeld in het tweede lid.   
 5.  De bewijsstukken, bedoeld in het tweede en vierde lid, worden uiterlijk op de volgende data aan de minister overlegd: 
 
 a. eerste rapportage: 15 mei van het jaar waarop het verzoek om gedeeltelijke betaling betrekking heeft;  
@@ -4083,7 +4041,7 @@ f. een beschrijving van de, als gevolg van de afwijkingen, bedoeld in onderdeel 
 
 g. een beschrijving en onderbouwing van de geplande en daadwerkelijke bijdrage die de gerealiseerde werkzaamheden in het betreffende jaar per actie hebben geleverd aan de realisatie van: 
 
-i. de doelstellingen, bedoeld in artikel 103 septies, tweede lid, onderdeel c, van verordening 1234/2007, en  
+i. de doelstellingen, bedoeld in artikel 33, eerste lid, van verordening 1308/2013, en  
 
 ii. de gekwantificeerde streefdoelen, bedoeld in artikel 55, derde lid, van verordening 543/2011, en    
 
@@ -4121,7 +4079,7 @@ b. de producentenorganisatie onjuiste gegevens heeft verstrekt met betrekking to
 
 ### Artikel  303  
 
-1.  Indien blijkt dat het operationeel programma of enig onderdeel daarvan, in strijd met de voorwaarden waaronder het is goedgekeurd of in strijd met de op grond van verordening 1234/2007 gestelde voorschriften is uitgevoerd, wordt, behoudens overmacht, de subsidie verlaagd met een percentage van 20 procent, berekend over: 
+1.  Indien blijkt dat het operationeel programma of enig onderdeel daarvan, in strijd met de voorwaarden waaronder het is goedgekeurd of in strijd met de op grond van verordening 1308/2013 gestelde voorschriften is uitgevoerd, wordt, behoudens overmacht, de subsidie verlaagd met een percentage van 20 procent, berekend over: 
 
 a. de totale waarde van de onjuist uitgevoerde onderdelen van het operationeel programma, of  
 
@@ -4145,7 +4103,7 @@ b. een extra verlaging van 50 procent op het bedrag dat volgt uit de toepassing 
 
 ### Artikel  306  
 
-1.  Indien aan de administratie van de producentenorganisatie, haar leden of van ondernemingen aan wie de producentenorganisatie activiteiten heeft uitbesteed op grond van verordening 1234/2007 eisen zijn gesteld en blijkt dat aan deze eisen niet is voldaan, wordt de aan de desbetreffende actie gerelateerde subsidie, behoudens overmacht, verlaagd met 20 procent.   
+1.  Indien aan de administratie van de producentenorganisatie, haar leden of van ondernemingen aan wie de producentenorganisatie activiteiten heeft uitbesteed op grond van verordening 1308/2013 eisen zijn gesteld en blijkt dat aan deze eisen niet is voldaan, wordt de aan de desbetreffende actie gerelateerde subsidie, behoudens overmacht, verlaagd met 20 procent.   
 2.  Indien de subsidie reeds daadwerkelijk is vastgesteld wordt de subsidie overeenkomstig het eerste lid ten nadele van de producentenorganisatie gewijzigd.  
 
 ### Artikel  307  
@@ -4159,7 +4117,7 @@ b. aan verzoeken van de minister geen gevolg heeft gegeven.
 
 ### Artikel  308  
 
-Indien een aanvraag op grond van artikel 103 octies, eerste lid, van verordening 1234/2007 of de artikelen 65, eerste lid, 66, eerste lid, 69, eerste lid, 71, eerste lid, of 72, eerste lid, van verordening 543/2011 onvolledig is en niet binnen een redelijke termijn wordt aangevuld, wordt de aan de desbetreffende aanvraag gerelateerde subsidie, behoudens overmacht, met 5 procent verlaagd. 
+Indien een aanvraag op grond van de artikelen 65, eerste lid, 66, eerste lid, 69, eerste lid, 71, eerste lid, of 72, eerste lid, van verordening 543/2011 onvolledig is en niet binnen een redelijke termijn wordt aangevuld, wordt de aan de desbetreffende aanvraag gerelateerde subsidie, behoudens overmacht, met 5 procent verlaagd. 
 
 ### Artikel  309  
 
@@ -4200,7 +4158,7 @@ S.A.M. Dijksma
 
 ### Bijlage  I  
 
-####Niet limitatieve lijst van subsidiabele uitgaven en investeringen
+####Niet limitatieve lijst van niet subsidiabele uitgaven en investeringen
 
 1. investeringen in kassen en tunnels;  
 
@@ -4526,6 +4484,7 @@ c. de producentenorganisatie voor deze ruimte beschikt over:
 | Climstar  | Syngenta  | tros grof  | 150–170  | --- | x  | --- | T409057  |
 | Conchita  | DRS  | cherry  | 20  | --- | --- | x  | --- |
 | Confetto  | RZ  | minipruim (Santatype)  | 14–18  | --- | --- | x  | --- |
+|Cortez | Enza  | Pruim los  | 85  | x  | --- | --- | --- |
 | Delioso  | RZ  | cocktail  | 35–45  | --- | --- | x  | --- |
 | Diamantino  | Enza  | tros middel  | 120–140  | --- | x  | --- | --- |
 | Dometica  | RZ  | rond (los)  | 80  | x  | --- | --- | --- |
@@ -4597,6 +4556,7 @@ c. de producentenorganisatie voor deze ruimte beschikt over:
 | Tourance  | DRS  | tros middel  | 120–140  | --- | x  | --- | --- |
 | Tovale  | RZ  | pruim (tros fijn)  | 30–40  | --- | --- | x  | --- |
 | Tricia  | DRS  | tros grof  | 140–150  | --- | x  | --- | --- |
+|Zezarr | Monsanto  | Tros grof  | --- | --- | x  | --- | --- |
 | Zouk  | S&G  | rond grof  | 170–180  | x  | --- | --- | --- |
 | 72-389 RZ  | RZ  | rond (los)  | 100–110  | x  | --- | --- | --- |
 
@@ -4626,72 +4586,65 @@ De lijst kan door de minister uitgebreid worden met nog niet beoordeelde rassen.
 
 Tabel 1: Toegelaten GNO’s op basis van microörganismen 
 
-| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
+| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expira-  tie-  datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
-| Carpovirusine Plus  | 11819 N  | 1997  | 09-09-9999<sup>*</sup>   | Cydia pomonella-granulosevirus  | insecticide  | appels en peren  |
-| BIO 1020  | 12589N  | 2004  | 30-04-2014  | Metarhizium anisopliae  | insecticide  | aardbeien, houtiig kleinfruit, druiven  |
-| Boni Protect  | 13789 N  | 2012 (27-09)  | 01-09-2015  | Aureobasidium pullulans stammen DSM 14940 en DSM 14941  | fungicide  | bewaarziekten in appels, vanaf 5 weken vóór de oogst, max. 3 x  |
-| BOTANIGARD WP  | 12612N  | 2004  | 30-04-2014  | Beauveria bassiana  | insecticide  | glasteelten: aarbei, aubergine, courgette, komkommer, meloen, paprika  |
-| BOTANIGARD VLOEIBAAR  | 12611N  | 2004  | 30-04-2014  | Beauveria bassiana  | insecticide  |
-| Contans WG  | 12423 N  | 2003  | 31-12-2013  | Coniothyrium minitans  | Fungicide  | grondbehandeling vs Sclerotina,  pennenbehandeling witlof, direct na het rooien  |
+| Carpovirusine Plus  | 11819 N  | 1997  | 31-12-2014  | Cydia pomonella-granulosevirus  | insecticide  | appels en peren  |
+| BIO 1020  | 12589N  | 2004  | 31-03-2015  | Metarhizium anisopliae  | insecticide  | aardbeien, houtig kleinfruit, druiven  |
+| Boni Protect  | 13789 N  | 2012 (27-09)  | 01-09-2015  | Aureobasidium pullulans stammen DSM 14940 en DSM 14941  | fungicide  | bewaarziekten in appels, vanaf 5 weken vóór de oogst, max. 3x  |
+| BOTANIGARD WP  | 12612N  | 2004  | 31-10-2014  | Beauveria bassiana  | insecticide  | glasteelten: aardbei, aubergine, courgette, komkommer, meloen, paprika  |
+| BOTANIGARD VLOEIBAAR  | 12611N  | 2004  | 31-10-2014  | Beauveria bassiana  | insecticide  |
+| Contans WG  | 12423 N  | 2003  | 31-10-2016  | Coniothyrium minitans  | Fungicide  | grondbehandeling vs Sclerotina,  pennenbehande-ling witlof, direct na het rooien  |
 | Cyd-X  | 13248 N  | 2009  | 01-10-2019  | Cydia pomonella-granulosevirus  | insecticide  | appels en peren  |
 | Cyd-X Xtra  | 13329 N  | 11-05-2010  | 01-06-2020  | Cydia pomonella-granulosevirus  | insecticide  |
-| Delfin  | 10944 N  | 1991  | 09-09-9999<sup>*</sup>   | Bacillus thuringiensis ssp. kurstaki  | insecticide  | appels en peren, diverse kool,  diverse vrucht-groenten onder glas  |
-| Madex  | 12202 N  | 2001  | 09-09-9999<sup>*</sup>   | Cydia pomonella granulose virus  | insecticide  | appels en peren  |
-| Madex plus  | 13302 N  | 2010  | 01-04-2020  | Cydia pomonella granulose virus  | insecticide  |
+| Delfin  | 10944 N  | 1991  | 30-04-2015  | Bacillus thuringiensis ssp. kurstaki  | insecticide  | appels en peren, diverse kool,  diverse vrucht-groenten onder glas  |
+| Madex plus  | 13302 N  | 2010  | 01-04-2020  | Cydia pomonella granulose virus  | insecticide  | appels en peren  |
 | Milbeknock  | 12364 N  | 2002  | 30-11-2015  | Milbemectine  | insecticide  | aardbeien vs insecten en spint vollegrond en vermeerdering  |
-| Mycostop  | 11708 N  | 1996  | 09-09-9999<sup>*</sup>   | Streptomyces griseoviridis  | fungicide  | vs bodemschimmels  |
-| Mycotal  | 10980 N  | 1992  | 30-04-2014  | Verticillium lecanii  | insecticide  | vruchtgroenten onder glas  |
-| Naturalis-L  | 13857 N  | 2012 (02-11)  | 30-04-2020  | Beauveria bassiana ATCC74040  | insecticide  | bedekte teelt van goenten vs kaswittevlieg en tabakswittevlieg  |
-| Prestop  | 13413 N  | 04-03-2011  | 15-04-2015  | Gliocladium catenulatum stam J1446  | fungicide  | bedekte teelt van goenten en kruiden vs wortelziekten bedekte teelt van goenten en kruiden vs wortelziekten en botrytis  tomaat, komkommer, paprika vs botrytis  |
-| Prestop Mix  | 13414 N  | 04-03-2011  | 15-04-2015  | Gliocladium catenulatum stam J1446  | fungicide  | bedekte teelt van goenten en kruiden vs wortelziekten  |
+| Mycostop  | 11708 N  | 1996  | 30-04-2015  | Streptomyces griseoviridis  | fungicide  | vs bodemschimmels  |
+| Mycotal  | 10980 N  | 1992  | 31-12-2014  | Verticillium lecanii  | insecticide  | vruchtgroenten onder glas  |
+| Naturalis-L  | 13857 N  | 2012 (02-11)  | 30-04-2020  | Beauveria bassiana ATCC74040  | insecticide  | bedekte teelt van groenten vs kaswittevlieg en tabakswittevlieg  |
+| Prestop  | 13413 N  | 04-03-2011  | 15-04-2015  | Gliocladium catenulatum stam J1446  | fungicide  | bedekte teelt van groenten en kruiden vs wortelziekten bedekte teelt van groenten en kruiden vs wortelziekten en botrytis  tomaat, komkommer, paprika vs botrytis  |
+| Prestop Mix  | 13414 N  | 04-03-2011  | 15-04-2015  | Gliocladium catenulatum stam J1446  | fungicide  | bedekte teelt van groenten en kruiden vs wortelziekten  |
 | Pomonellix  | 13054 N  | 2008  | 09-09-9999<sup>*</sup>   | Cydia pomonella-granulosevirus  | insecticide  | appels en peren  |
 | PreFeRal  | 12694N  | 2005  | 31-12-2015  | Paecilomyces fumosoroseus  | insecticide  | tomaat en komkommer  |
-| Scutello  | 11420 N  | 1994  | 09-09-9999<sup>*</sup>   | Bacillus thuringiensis ssp. kurstaki  | insecticide  | appels en peren, diverse kool, diverse vrucht-groenten onder glas  |
-| Scutello L  | 11695 N  | 1996  | 09-09-9999<sup>*</sup>   | Bacillus thuringiensis ssp. kurstaki  | insecticide  |
-| Tracer  | 12567 N  | 2004  | 01-05-2020  | Spinosad  | insecticide  | bedekte teelt van:  – aardbeien  – sla, andijvie, rucola, tuinkers, veldsla  – vruchtgroenten  vollegrond: kool, prei m.u.v. opkweek  trayplaatbehandel  ing koolsoorten  |
-| Trianum-P  | 12699N  | 2005  | 30-04-2014  | Trichoderma harzianum Rifai T-22  | groeiregulator  | aangietbehandeling  |
-| Trianum-G  | 12841 N  | 2006  | 30-04-2014  | Trichoderma harzianum Rifai T-22  | groeiregulator  | mengen door het teeltmedium  |
-| Turex 50 WP  | 11702 N  | 1996  | 09-09-9999<sup>*</sup>   | Bacillus thuringiensis ssp. aizawai  | insecticide  | brede toepassing  |
-| Xen Tari WG  | 12437 N  | 2003  | 30-04-2014  | Bacillus thuringiensis ssp. aizawai  | insecticide  | brede toepassing  |
+| Tracer  | 12567 N  | 2004  | 01-05-2020  | Spinosad  | insecticide  | bedekte teelt van:  – aardbeien  – sla, andijvie, rucola, tuinkers, veldsla  – vruchtgroenten  vollegrond: kool, prei m.u.v. opkweek  trayplaatbehande-ling koolsoorten  |
+| Trianum-P  | 12699N  | 2005  | 30-04-2015  | Trichoderma harzianum Rifai T-22  | groeiregulator  | Aangietbehande-ling  |
+| Trianum-G  | 12841 N  | 2006  | 30-04-2015  | Trichoderma harzianum Rifai T-22  | groeiregulator  | mengen door het teeltmedium  |
+| Turex 50 WP  | 11702 N  | 1996  | 31-12-2014  | Bacillus thuringiensis ssp. aizawai  | insecticide  | brede toepassing  |
+| Xen Tari WG  | 12437 N  | 2003  | 30-04-2015  | Bacillus thuringiensis ssp. aizawai  | insecticide  | brede toepassing  |
 
 * De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb). Tabel 2: Toegelaten GNO’s op basis van feromonen 
 
-| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum (d.d. 31 jan. 2013 CTGB-site)  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
+| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expira-  tie-  datum (d.d. 31 jan. 2013 CTGB-site)  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
-| Exomone  | 13309 N  | 05-03-2010  | 01-03-2020  | Codlemon  | insecticide (lokstof)  | appels en peren feromoonverwarring  |
+| Exomone  | 13309 N  | 05-03-2010  | 01-03-2020  | Codlemon  | insecticide (lokstof)  | appels en peren feromoonverwar-ring  |
 | Isomate CLR  | 13415 N  | 04--03-2011  | 26-11-2019  | Codlemon  | insecticide (lokstof)  |
-| RAK 3  | 11815 N  | 1997  | 09-09-9999<sup>*</sup>   | Codlemon  | insecticide (lokstof)  | appels en peren feromoonverwarring  |
 | RAK 3+4  | 12467 N  | 2003  | 01-08-2013  | Codlemon en (Z)-11-tetradecenylacetaat  | insecticide (lokstof)  |
-| RAK 4  | 12469 N  | 2003  | 01-08-2013  | (Z)-11-tetradecenylacetaat  | insecticide (lokstof)  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb). Tabel 3: Toegelaten GNO’s op basis van plantextracten of planteigen-verbindingen 
+Tabel 3: Toegelaten GNO’s op basis van plantextracten of planteigen-verbindingen 
 
-| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
+| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startda-tum  | Expira-  tie-  datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
-| Spruzit vloeibaar  | 7229 N  | 1988  | 09-09-9999<sup>*</sup>   | pyrethrinen/piperonylbutoxide  | insecticide  | groenten en kleinfruit  |
+| Spruzit vloeibaar  | 7229 N  | 1988  | 31-08-2015<sup>*</sup>   | pyrethrinen/piperonylbutoxide  | insecticide  | groenten en kleinfruit  |
 | NeemAzal T/S  | 12455 N  | 2003  | 31-05-2015  | azadirachtine  | Insecticide  | appel vs spint en larven van diverse insecten  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb). Tabel 4: Toegelaten overige GNO’s  
+Tabel 4: Toegelaten overige GNO’s  
 
-| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expiratie-datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
+| Naam middel  | Toelatingsnr  | Startjaar en i.v.t. startdatum  | Expira-  tie-  datum  | Werkzame stof  | Werking  | Toegelaten  Toepassing*<sup>3</sup>   |
 |:---|:---|:---|:---|:---|:---|:---|
 | Armicarb  | 13856  | 2012 (02-11)  | 01-09-2019  | kaliumbicarbonaat (kaliumwaterstofcarbonaat)  | fungicide  | appel vs schurft  |
+| Atilla  | 14121N  | 05*-07-2013  | 05-01-2015  | kaliumbicarbonaat (kaliumwaterstofcarbonaat)  | fungicide  | Peren vs perenbladvlo  |
 | Enzicur  | 12940 N  | 2007  | 01-07-2014  | kalium jodide en kaliumthiocyanaat  | fungicide  | bedekte teelt van aardbei, tomaat, komkommer, aubergine en paprika  |
-| Escar-Go tegen slakken ferramol  | 12167N  | 2000  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs naaktslakken  |
+| Escar-Go tegen slakken ferramol  | 12167N  | 2000  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs naaktslak-ken  |
 | Ferramol Ecostyle slakkenkorrels  | 12118 N  | 2000  | 31-12-2015  | ferri fosfaat  | molluscicide  |
-| Luxan spuitzwavel  | 4960 N  | 1969  | 09-09-9999*  | zwavel  | fungicide, acaricide  | vs mijten:  peren, bramen  vs schimmels:  appels, peren, kersen, perziken, pruimen, aardbeien, bessen, druiven (vollegrond),  schorseneren  |
-| Kumulus S  | 6147 N  | 1973  | 09-09-9999<sup>*</sup>   | zwavel  | fungicide, acaricide  |
+| Luxan spuitzwavel  | 4960 N  | 1969  | 30-06-2014  | zwavel  | fungicide, acaricide  | vs mijten:  peren, bramen  vs schimmels:  appels, peren, kersen, perziken, pruimen, aardbeien, bessen, druiven (vollegrond),  schorsene-ren  |
+| Kumulus S  | 6147 N  | 1973  | 30-06-2014  | zwavel  | fungicide, acaricide  |
 | Karma  | 13854 N  | 2012 (02-11)  | 01-09-2019  | kaliumbicarbonaat (kaliumwaterstofcarbonaat)  | fungicide  | appel vs schurft  |
-| NEU 1181 M  | 13318 N  | 2010  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs naaktslakken  |
+| NEU 1181 M  | 13318 N  | 2010  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs naaktslak-ken  |
 | Roxasect slakkenkorrels  | 12410 N  | 2003  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs wegslakken in sla (m.u.v. veldsla), andijvie.  diverse kool  |
-| Sluxx  | 13316 N  | 2010  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs naaktslakken  |
-| Smart Bayt  | 13107 N  | 2008  | 01-10-2018  | ferri fosfaat  | molluscicide  | vs huisjesslakken, naaktslakken  |
-| Thiovit Jet  | 5395 N  | 1970  | 09-09-9999*  | zwavel  | fungicide, acaricide  | vs mijten:  peren, bramen  vs schimmels:  appels, peren, kersen, perziken, pruimen, aardbeien, bessen, druiven (vollegrond), schorseneren  |
+| Sluxx  | 13316 N  | 2010  | 31-12-2015  | ferri fosfaat  | molluscicide  | vs naaktslak-ken  |
+| Smart Bayt  | 13107 N  | 2008  | 01-10-2018  | ferri fosfaat  | molluscicide  | vs huisjesslak-ken, naaktslak-ken  |
+| Thiovit Jet  | 5395 N  | 1970  | 30-06-2014  | zwavel  | fungicide, acaricide  | vs mijten:  peren, bramen  vs schimmels:  appels, peren, kersen, perziken, pruimen, aardbeien, bessen, druiven (vollegrond), schorsene-ren  |
 
-* De expiratiedatum 09-09-9999 betreft een ‘van rechtswege toelating’ waarvan de duur wordt bepaald door besluitvorming in de EU (artikel 122, lid 1 Wgb).
-
-####Toegelaten toepassingen
+###Toegelaten toepassingen
 
 Plaatsing op deze lijst is onder voorbehoud van toegelaten toepassingen en de gebruiksvoorschriften. In de toegevoegde kolom zijn de belangrijkste toepassingen (belangrijkste gewassen of gewasgroepen) vermeld. Check voor individuele gewassen altijd de actuele gebruiksvoorschriften in de ‘Bestrijdingsmiddelen databank’ op www.ctgb.nl/toelatingen/Bestrijdingsmiddelendatabank. 
-

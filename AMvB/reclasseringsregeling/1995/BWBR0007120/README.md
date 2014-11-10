@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie a.i. van 7 september 1994, Stafafdeling Wetgeving Publiekrecht, nr. 455985/94/6; 
 
-Gelet op de [artikelen 14*d* ](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), tweede lid, [16](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [22*e* van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), de [artikelen 147](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [177](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), tweede lid, en [310 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [artikel 19, eerste lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) en [artikel 15, eerste lid, van de Gratiewet](../../../../wet/gratiewet/BWBR0004257/README.md); 
+Gelet op de artikelen 14*d* , tweede lid, 16 en 22*e* van het Wetboek van Strafrecht, de artikelen 147, 177, tweede lid, en 310 van het Wetboek van Strafvordering, artikel 19, eerste lid, van de Wet overdracht tenuitvoerlegging strafvonnissen en artikel 15, eerste lid, van de Gratiewet; 
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing (advies van 24 juni 1994, nr. SR 45/94); 
 
@@ -28,7 +28,7 @@ b. reclasseringsinstelling: een erkende instelling als bedoeld in artikel 4;
 
 c. penitentiaire inrichting: een gevangenis, huis van bewaring of inrichting voor de opvang van verslaafden;  
 
-d. taakstraf: de taakstraf, bedoeld in [artikel 9, eerste lid, onderdeel a, onder 3°, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+d. taakstraf: de taakstraf, bedoeld in artikel 9, eerste lid, onderdeel a, onder 3°, van het Wetboek van Strafrecht;  
 
 e. klachtencommissie: de commissie, bedoeld in artikel 29.    
 
@@ -49,10 +49,10 @@ d. ter bevordering van een goede uitvoering van reclasseringswerkzaamheden.
 ### Artikel  3  
 
 1.  Een reclasseringsinstelling stelt voor haar personeelsleden een meldcode huiselijk geweld en kindermishandeling vast.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1 van de Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1 van de Wet maatschappelijke ondersteuning.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
 4.  Een reclasseringsinstelling bevordert de kennis en het gebruik van de meldcode.   
-5.  De meldcode, bedoeld in het eerste lid, bevat in ieder geval de bij [artikel 2 van het Besluit verplichte meldcode huiselijk geweld en kindermishandeling](../../../../AMvB/besluit/verplichte/meldcode/huiselijk/geweld/en/kindermishandeling/BWBR0033723/README.md) vastgestelde elementen.  
+5.  De meldcode, bedoeld in het eerste lid, bevat in ieder geval de bij artikel 2 van het Besluit verplichte meldcode huiselijk geweld en kindermishandeling vastgestelde elementen.  
 
 ### Hoofdstuk  2  
 
@@ -97,23 +97,23 @@ b. in penitentiaire inrichtingen, met inachtneming van de aldaar geldende huisre
 
 a. het uit eigen beweging, in opdracht van de bevoegde autoriteiten of op verzoek van betrokkenen zelf verlenen van hulp en steun - rechtsbijstand uitgezonderd - aan personen die worden verdacht van of die zijn veroordeeld wegens een strafbaar feit;   
 
-b. het doen van onderzoek naar zodanige personen, waaronder begrepen het opstellen van een indicatiestellingsadvies, als bedoeld in [artikel 5, tweede lid, van het Interimbesluit forensische zorg](../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md), ten behoeve van de beslissingen die te hunnen aanzien moeten worden genomen over de vervolging, de berechting of de tenuitvoerlegging van straffen of maatregelen, en het geven van voorlichting daarover;   
+b. het doen van onderzoek naar zodanige personen, waaronder begrepen het opstellen van een indicatiestellingsadvies, als bedoeld in artikel 5, tweede lid, van het Interimbesluit forensische zorg, ten behoeve van de beslissingen die te hunnen aanzien moeten worden genomen over de vervolging, de berechting of de tenuitvoerlegging van straffen of maatregelen, en het geven van voorlichting daarover;   
 
 c. het voorbereiden en begeleiden van de uitvoering van de taakstraf en, voor zover daarvoor in aanmerking komend, van de uitvoering van andere rechterlijke beslissingen, waaronder begrepen het namens Onze Minister toeleiden naar forensische zorg als bedoeld in artikel 6, eerste lid, tweede volzin, ten aanzien van personen die worden verdacht van of die zijn veroordeeld wegens een strafbaar feit, alsmede het houden van toezicht daarop en het verschaffen van inlichtingen daarover aan de bevoegde autoriteiten.      
 2.   Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten van advies omtrent onderwerpen die voor de reclassering van belang zijn.   
 
 ### Artikel  9  
 
-1.  Voorlichtingsrapporten, waartoe met toepassing van de [artikelen 147](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [177, tweede lid](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [310 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [artikel 12 van de Gratiewet](../../../../wet/gratiewet/BWBR0004257/README.md) of [artikel 19, eerste lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) opdracht is gegeven, worden aangevraagd bij en uitgebracht door een reclasseringsinstelling.    
+1.  Voorlichtingsrapporten, waartoe met toepassing van de artikelen 147, 177, tweede lid, en 310 van het Wetboek van Strafvordering, artikel 12 van de Gratiewet of artikel 19, eerste lid, van de Wet overdracht tenuitvoerlegging strafvonnissen opdracht is gegeven, worden aangevraagd bij en uitgebracht door een reclasseringsinstelling.    
 2.   Een reclasseringsinstelling kan ook uit eigen beweging of op verzoek van anderen, onder wie de betrokkene, een voorlichtingsrapport als bedoeld in het eerste lid uitbrengen of doen uitbrengen.   
 
 ### Artikel  10  
 
-Nadat overeenkomstig [artikel 59, vijfde lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bericht is ontvangen van het bevel tot inverzekeringstelling van een verdachte beslist een reclasseringsinstelling zo spoedig mogelijk:  
+Nadat overeenkomstig artikel 59, vijfde lid, van het Wetboek van Strafvordering bericht is ontvangen van het bevel tot inverzekeringstelling van een verdachte beslist een reclasseringsinstelling zo spoedig mogelijk:  
 
 a. of de verdachte door een reclasseringswerker wordt bezocht, en   
 
-b. of een rapport wordt uitgebracht als bedoeld in [artikel 62, vierde lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), mede met het oog op alternatieven voor een eventuele voorlopige hechtenis.    
+b. of een rapport wordt uitgebracht als bedoeld in artikel 62, vierde lid, van het Wetboek van Strafvordering, mede met het oog op alternatieven voor een eventuele voorlopige hechtenis.    
 
 ### Artikel  11  
 
@@ -125,7 +125,7 @@ b. of een rapport wordt uitgebracht als bedoeld in [artikel 62, vierde lid, van 
 1.  Een reclasseringsinstelling brengt, indien opdracht is gegeven tot het verlenen van hulp en steun terzake van de naleving van bijzondere voorwaarden, een rapport over de daarmee verband houdende bemoeiingen uit aan Onze Minister, de rechter of de officier van justitie.   
 2.   Aan het rapport wordt door de reclasseringsinstelling een advies terzake toegevoegd, indien het rapport naar haar oordeel aanleiding zou kunnen geven tot een van de navolgende maatregelen:  
 
-a. het instellen van een vordering als bedoeld in [artikel 14f](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [14g van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);   
+a. het instellen van een vordering als bedoeld in artikel 14f of 14g van het Wetboek van Strafrecht;   
 
 b. het intrekken of wijzigen van het koninklijk besluit, waarbij onder voorwaarden gratie is verleend;   
 
@@ -133,7 +133,7 @@ c. het intrekken van een voorwaardelijke beslissing door een vreemde staat, van 
 
 ### Artikel  13  
 
-De in de [hoofdstukken 14](../../../../AMvB/reglement/verpleging/ter/beschikking/gestelden/BWBR0008690/README.md), [16](../../../../AMvB/reglement/verpleging/ter/beschikking/gestelden/BWBR0008690/README.md) en [17 van het Reglement verpleging ter beschikking gestelden](../../../../AMvB/reglement/verpleging/ter/beschikking/gestelden/BWBR0008690/README.md) aan de reclassering opgedragen werkzaamheden worden door een reclasseringsinstelling verricht. 
+De in de hoofdstukken 14, 16 en 17 van het Reglement verpleging ter beschikking gestelden aan de reclassering opgedragen werkzaamheden worden door een reclasseringsinstelling verricht. 
 
 ### Hoofdstuk  4  
 
@@ -240,7 +240,7 @@ a. een jaarrekening,
 
 b. een verslag van de in dat jaar verrichte activiteiten en   
 
-c. een verklaring omtrent de getrouwheid van de jaarrekening en het verslag, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
+c. een verklaring omtrent de getrouwheid van de jaarrekening en het verslag, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.     
 
 ### Artikel  27  
 

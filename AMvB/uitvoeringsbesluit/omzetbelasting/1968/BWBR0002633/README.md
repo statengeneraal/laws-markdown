@@ -105,6 +105,36 @@ e. andere bij ministeriële regeling in verband met het voorkomen van een ernsti
 7.  Tot de in het tweede lid bedoelde leveringen en diensten behoren in elk geval niet de in het zesde lid opgenomen leveringen en diensten.  
 8. Bij wijzigingen in de aard en samenstelling van de leveringen en diensten van een instelling stelt de instelling de inspecteur daarvan in kennis.
 
+### Artikel  7a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Als diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 3°, van de wet worden aangewezen de diensten die gefinancierd worden op grond van de Wet maatschappelijke ondersteuning 2015, mits deze diensten: 
+
+a. worden verricht door de gemeente zelf of ter uitvoering van een overeenkomst die door de gemeente daartoe is gesloten;  
+
+b. worden verleend aan personen die op grond van de artikelen 1.2.1. en 2.2.3. van de Wet maatschappelijke ondersteuning 2015 ondersteund worden, en  
+
+c. bestaan uit: 
+
+1°. het schoonhouden van de woonruimte;  
+
+2°. het schoonhouden van kleding en huishoudlinnen behorende tot het huishouden van de cliënt;  
+
+3°. het ondersteunen bij of het overnemen van activiteiten op het gebied van de verzorging van de cliënt;  
+
+4°. ondersteunende activiteiten gericht op de bevordering van participatie en zelfredzaamheid.       
+2.  Het vereiste, genoemd in het eerste lid, onderdeel a, geldt niet ten aanzien van diensten verricht voor de cliënt aan wie een persoonsgebonden budget is verstrekt als bedoeld in artikel 2.3.6, eerste lid, van de Wet maatschappelijke ondersteuning 2015.   
+3.  Tot de diensten, bedoeld in het eerste lid, behoren in ieder geval niet: 
+
+a. het doen van aanpassingen aan, op of in de woonruimte;  
+
+b. het verrichten van onderhoud of herstelwerkzaamheden aan, op of in de woonruimte;  
+
+c. hovenierswerkzaamheden;  
+
+d. vervoersdiensten.     
+4.  Het eerste lid geldt niet voor bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen diensten.  
+
 ### Artikel  8  
 
 1.  Als onderwijs als bedoeld in artikel 11, eerste lid, onderdeel o, 2°, van de wet, wordt aangewezen:  

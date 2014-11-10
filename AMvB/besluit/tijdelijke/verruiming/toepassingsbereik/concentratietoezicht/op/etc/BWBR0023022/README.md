@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 15 juni 2007, nr. WJZ 7070387;
 
-Gelet op [artikel 29, derde lid, van de Mededingingswet](../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);
+Gelet op artikel 29, derde lid, van de Mededingingswet;
 
 De Raad van State gehoord (advies van 16 juli 2007, nr. W10.07.0176/III);
 
@@ -15,18 +15,18 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Bij concentraties waarbij ten minste twee van de betrokken ondernemingen in het voorafgaande kalenderjaar met het verlenen van zorg, als bedoeld in het tweede lid, ieder afzonderlijk een omzet hebben behaald van meer dan € 5 500 000, worden de bedragen, bedoeld in [artikel 29, eerste lid, van de Mededingingswet](../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), als volgt verlaagd: 
+1.  Bij concentraties waarbij ten minste twee van de betrokken ondernemingen in het voorafgaande kalenderjaar met het verlenen van zorg, als bedoeld in het tweede lid, ieder afzonderlijk een omzet hebben behaald van meer dan € 5 500 000, worden de bedragen, bedoeld in artikel 29, eerste lid, van de Mededingingswet, als volgt verlaagd: 
 
-a. het bedrag van € 113 450 000 wordt verlaagd tot € 55 000 000;  
+a. het bedrag van € 150.000.000 wordt verlaagd tot € 55 000 000;  
 
 b. het bedrag van € 30 000 000 wordt verlaagd tot € 10 000 000.     
 2.  Als zorg, bedoeld in het eerste lid, wordt aangemerkt: 
 
-a. zorg als bedoeld in [artikel 2, eerste lid, onderdeel a tot en met l, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+a. zorg als bedoeld in artikel 2, eerste lid, onderdeel a tot en met l, van het Besluit zorgaanspraken AWBZ;  
 
-b. zorg als bedoeld in [artikel 10 van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+b. zorg als bedoeld in artikel 10 van de Zorgverzekeringswet;  
 
-c. zorg als bedoeld in [artikel 1, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).    
+c. zorg als bedoeld in artikel 1, onderdeel h, van de Wet maatschappelijke ondersteuning.    
 
 ### Artikel  2  
 

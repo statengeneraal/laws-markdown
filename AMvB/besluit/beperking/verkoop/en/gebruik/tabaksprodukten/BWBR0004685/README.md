@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, van 15 augustus 1989, DG Vgz/ADT/ nr. 736.185, gedaan in overeenstemming met Onze Ministers van Economische Zaken, van Onderwijs en Wetenschappen en van Landbouw en Visserij;
 
-Gelet op de [artikelen 9](../../../../../../../../wet/tabakswet/BWBR0004302/README.md), [10](../../../../../../../../wet/tabakswet/BWBR0004302/README.md), [11](../../../../../../../../wet/tabakswet/BWBR0004302/README.md), eerste lid, en [12 van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) (*Stb.* 1988, 342);
+Gelet op de artikelen 9, 10, 11, eerste lid, en 12 van de Tabakswet (*Stb.* 1988, 342);
 
 Gehoord de Nationale Raad voor de Volksgezondheid (advies van 21 april 1989);
 
@@ -21,7 +21,7 @@ Waar in dit besluit sprake is van een ruimte of van een inrichting worden daaron
 
 ### Artikel  2  
 
-1.  Als categorieën van ruimten waarin ingevolge [artikel 10, tweede lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md), een rookverbod ingesteld en gehandhaafd dient te worden, worden aangewezen:  
+1.  Als categorieën van ruimten waarin ingevolge artikel 10, tweede lid, van de Tabakswet, een rookverbod ingesteld en gehandhaafd dient te worden, worden aangewezen:  
 
 a. ruimten waarin zich loketten bevinden;  
 
@@ -47,41 +47,41 @@ j. overige ruimten, voor zover deze voor het publiek toegankelijk zijn.
 
 ### Artikel  3  
 
-1.  Degenen die - anders dan in een hoedanigheid als bedoeld in [artikel 10 van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) - het beheer hebben over inrichtingen voor gezondheidszorg, maatschappelijke dienstverlening of -ondersteuning, welzijn, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs, voor zover die inrichtingen behoren tot de in het tweede lid aangewezen categorieën, zijn verplicht maatregelen te treffen als bedoeld in [artikel 10, eerste lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md).  
+1.  Degenen die - anders dan in een hoedanigheid als bedoeld in artikel 10 van de Tabakswet - het beheer hebben over inrichtingen voor gezondheidszorg, maatschappelijke dienstverlening of -ondersteuning, welzijn, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs, voor zover die inrichtingen behoren tot de in het tweede lid aangewezen categorieën, zijn verplicht maatregelen te treffen als bedoeld in artikel 10, eerste lid, van de Tabakswet.  
 2. De in het eerste lid bedoelde categorieën zijn:
 
-a.instellingen waarin zorg wordt verleend als bedoeld in de [Kwaliteitswet zorginstellingen](../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md);
+a.instellingen waarin zorg wordt verleend als bedoeld in de Kwaliteitswet zorginstellingen;
 
-b.inrichtingen waarin voorzieningen worden aangeboden op de terreinen van maatschappelijke ondersteuning als bedoeld in [artikel 1, eerste lid, onder g, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);
+b.inrichtingen waarin voorzieningen worden aangeboden op de terreinen van maatschappelijke ondersteuning als bedoeld in artikel 1, eerste lid, onder g, van de Wet maatschappelijke ondersteuning;
 
 c.inrichtingen voor kunst en cultuur;
 
 d.inrichtingen op het terrein van de sport;
 
-e.gebouwen en inrichtingen van stichtingen als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), gebouwen en inrichtingen van zorgaanbieders als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, alsmede gebouwen van justitiële jeugdinrichtingen als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) die niet door de Staat of openbare lichamen worden beheerd;
+e.gebouwen en inrichtingen van stichtingen als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, gebouwen en inrichtingen van zorgaanbieders als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, alsmede gebouwen van justitiële jeugdinrichtingen als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen die niet door de Staat of openbare lichamen worden beheerd;
 
 f.openbare en bijzondere onderwijsinstellingen als bedoeld in:
 
-1°.de [Wet op het basisonderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md);
+1°.de Wet op het basisonderwijs;
 
-2°.de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](../../../../../../../../wet/isovso/BWBR0003549/README.md);
+2°.de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs;
 
-3°.de [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+3°.de Wet op het voortgezet onderwijs;
 
-4°.de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+4°.de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 
-5°.de [Experimentenwet onderwijs](../../../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md);
+5°.de Experimentenwet onderwijs;
 
-6°.de [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+6°.de Wet educatie en beroepsonderwijs.  
 3.   Met betrekking tot de in het eerste lid bedoelde verplichting is artikel 2 van overeenkomstige toepassing.  
 
 ###Artikel 3a 
 
-Het bevoegde orgaan binnen een instelling, dienst of bedrijf als bedoeld in [artikel 10 van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) of een gebouw of inrichting als bedoeld in [artikel 11 van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) kan besluiten één of meer ruimten van het rookverbod uit te zonderen, mits die ruimten afsluitbaar zijn, voor het roken van tabaksproducten zijn aangewezen en als zodanig zijn aangeduid.
+Het bevoegde orgaan binnen een instelling, dienst of bedrijf als bedoeld in artikel 10 van de Tabakswet of een gebouw of inrichting als bedoeld in artikel 11 van de Tabakswet kan besluiten één of meer ruimten van het rookverbod uit te zonderen, mits die ruimten afsluitbaar zijn, voor het roken van tabaksproducten zijn aangewezen en als zodanig zijn aangeduid.
 
 ### Artikel  4  
 
-Als categorieën van inrichtingen als bedoeld in [artikel 7, tweede lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) worden aangewezen de categorieën van inrichtingen als bedoeld in artikel 3 met uitzondering van de verpleeghuizen, revalidatiecentra, psychiatrische ziekenhuizen, zwakzinnigeninrichtingen, gezinsvervangende tehuizen voor gehandicapten, verzorgingshuizen en inrichtingen voor kunst en cultuur.  
+Als categorieën van inrichtingen als bedoeld in artikel 7, tweede lid, van de Tabakswet worden aangewezen de categorieën van inrichtingen als bedoeld in artikel 3 met uitzondering van de verpleeghuizen, revalidatiecentra, psychiatrische ziekenhuizen, zwakzinnigeninrichtingen, gezinsvervangende tehuizen voor gehandicapten, verzorgingshuizen en inrichtingen voor kunst en cultuur.  
 
 ### Artikel  5  
 
