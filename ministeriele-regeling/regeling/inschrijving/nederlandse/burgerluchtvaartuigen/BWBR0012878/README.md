@@ -3,15 +3,23 @@
 ##Regeling inschrijving Nederlandse burgerluchtvaartuigen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3.2, tweede lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.3, vijfde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.5, vijfde lid van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 3 van het Besluit luchtwaardigheid](../../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md);
+Gelet op de artikelen 3.2, tweede lid, 3.3, vijfde lid, 3.5, vijfde lid van de Wet luchtvaart en artikel 3 van het Besluit luchtwaardigheid;
 Besluit:      
 ### § 1  
 
 ####Algemene bepalingen
 
-### Artikel 1  
+### Artikel  1  
 
-In deze regeling wordt verstaan onder: a.minister: minister van Verkeer en Waterstaat;b.register: Nederlandse register voor burgerluchtvaartuigen;c.aanvrager: degene op wiens naam de minister een luchtvaartuig zal inschrijven indien deze aan de hier gestelde regels voldoet.  
+In deze regeling wordt verstaan onder: 
+
+*aanvrager:* degene op wiens naam de minister een luchtvaartuig zal inschrijven indien deze aan de hier gestelde regels voldoet;  
+
+*CAMO:* ingevolge bijlage I bij verordening (EG) nr. 2042/2003 erkende management organisatie voor blijvende luchtwaardigheid (Continuing Airworthiness Management Organisation);  
+
+*minister:* minister van Infrastructuur en Milieu;  
+
+*register:* Nederlandse register voor burgerluchtvaartuigen.   
 
 ### Artikel 2  
 
@@ -31,11 +39,11 @@ c.  het luchtvaartuig in het buitenland is ingeschreven;
 
 d.  het bewijs van inschrijving verloren is gegaan; 
 
-e.hij vrijwillig het beheer van het luchtvaartuig uitbesteedt aan een CAMO als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), door middel van het overleggen van in ieder geval een kopie van de pagina’s van het contract waaruit de namen van de partijen, de ondertekening, de reikwijdte en de geldigheidsduur van het contract blijkt;
+e.hij vrijwillig het beheer van het luchtvaartuig uitbesteedt aan een CAMO door middel van het overleggen van in ieder geval een kopie van de pagina’s van het contract waaruit de namen van de partijen, de ondertekening, de reikwijdte en de geldigheidsduur van het contract blijkt;
 
 f.het contract, bedoeld onder e en in artikel 7, onderdeel d, en de overeenkomst bedoeld in artikel 8, eerste lid, is beëindigd;
 
-g.  de houder, de eigenaar of de vertegenwoordiger bedoeld in [artikel 3, vierde lid, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) niet meer voldoet aan de eisen voor het verkrijgen van een inschrijving, of 
+g.  de houder, de eigenaar of de vertegenwoordiger bedoeld in artikel 3, vierde lid, van het Besluit luchtvaartuigen 2008 niet meer voldoet aan de eisen voor het verkrijgen van een inschrijving, of 
 
 h.  de gegevens, bedoeld in paragraaf 8, zijn gewijzigd.   
 
@@ -72,7 +80,7 @@ b.  op verzoek van de minister een afschrift van de statuten of vergelijkbare do
 
 ### Artikel 7  
 
-Een aanvrager, bedoeld in [artikel 3, vierde lid, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), dient naast de gegevens volgens artikel 5 of 6, de volgende gegevens in: 
+Een aanvrager, bedoeld in artikel 3, vierde lid, van het Besluit luchtvaartuigen 2008, dient naast de gegevens volgens artikel 5 of 6, de volgende gegevens in: 
 
 a.  een schriftelijke verklaring, dat het beheer van het luchtvaartuig zal worden uitgevoerd vanuit Nederland door een vertegenwoordiger van de aanvrager. Een formulier voor deze verklaring is kosteloos te verkrijgen bij de minister; 
 
@@ -80,7 +88,7 @@ b.  indien het beheer wordt gevoerd door een natuurlijke persoon gaat de verklar
 
 c.  indien het beheer wordt gevoerd door een rechtspersoon gaat de verklaring, bedoeld in onderdeel a, vergezeld van een niet ouder dan 6 maanden, gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel, waaruit blijkt dat de vestigingsplaats van de vertegenwoordiger, bedoeld in onderdeel a, in Nederland is gelegen;  
 
-d. indien de aanvrager verplicht is het beheer van het luchtvaartuig uit te besteden aan een CAMO als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), wordt in ieder geval een kopie van de pagina’s van het contract overgelegd waaruit de namen van de partijen, de ondertekening, de reikwijdte en de geldigheidsduur van het contract blijkt.  
+d. indien de aanvrager verplicht is het beheer van het luchtvaartuig uit te besteden aan een CAMO wordt in ieder geval een kopie van de pagina’s van het contract overgelegd waaruit de namen van de partijen, de ondertekening, de reikwijdte en de geldigheidsduur van het contract blijkt.  
 
 ### Artikel 8  
 
@@ -125,7 +133,7 @@ a.  bij natuurlijke personen: alle eigenaren van het luchtvaartuig;
 b.  bij rechtspersonen: alle eigenaren die de rechtspersoon in en buiten rechte vertegenwoordigen zoals bedoeld in artikel 5, eerste lid, onder b.    
 4.  De minister stelt de houder van het luchtvaartuig schriftelijk op de hoogte van de doorhaling van de inschrijving, tenzij er bijzondere redenen zijn om de houder van het luchtvaartuig niet op de hoogte te stellen van de doorhaling van de inschrijving.   
 5.  In geval van gewenste inschrijving in een buitenlands luchtvaartuigenregister kan de minister de betreffende buitenlandse autoriteit op de hoogte stellen van de doorhaling van de inschrijving in het register.   
-6.  Ingeval van een niet-ambtshalve doorhaling van de inschrijving, vindt de doorhaling slechts plaats, indien blijkt, dat het luchtvaartuig niet is teboekgesteld, als bedoeld in de [titel 15 van Boek 8 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), of dat, zo het is teboekgesteld, de houders van ingeschreven rechten en de beslagleggers zijn voldaan of hun toestemming tot de doorhaling verlenen.   
+6.  Ingeval van een niet-ambtshalve doorhaling van de inschrijving, vindt de doorhaling slechts plaats, indien blijkt, dat het luchtvaartuig niet is teboekgesteld, als bedoeld in de titel 15 van Boek 8 van het Burgerlijk Wetboek, of dat, zo het is teboekgesteld, de houders van ingeschreven rechten en de beslagleggers zijn voldaan of hun toestemming tot de doorhaling verlenen.   
 
 ### § 7  
 
@@ -159,7 +167,7 @@ g.  Indien de houder van het luchtvaartuig niet tegelijkertijd de eigenaar is wo
 
 h.  Indien de houder van het luchtvaartuig geen woonplaats dan wel statutaire zetel, hoofdbestuur of hoofdvestiging in Nederland heeft, wordt eveneens aantekening gehouden van de gegevens van de vertegenwoordiger van de houder, bedoeld in artikel 5; 
 
-i. Indien het luchtvaartuig is teboekgesteld, als bedoeld in de [titel 15 van Boek 8 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) wordt eveneens aantekening gehouden van het nummer van de teboekstelling als genoemd in de `Maatregel te boek gestelde luchtvaartuigen 1996'.  
+i. Indien het luchtvaartuig is teboekgesteld, als bedoeld in de titel 15 van Boek 8 van het Burgerlijk Wetboek wordt eveneens aantekening gehouden van het nummer van de teboekstelling als genoemd in de `Maatregel te boek gestelde luchtvaartuigen 1996'.  
 
 ### § 9  
 

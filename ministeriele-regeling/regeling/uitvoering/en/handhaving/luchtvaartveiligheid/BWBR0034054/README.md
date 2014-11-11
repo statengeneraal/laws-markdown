@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 oktober 2013, nr. IENM/BSK-2013/176947, houdende regels in verband met de uitvoering en de handhaving van verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en diverse uitvoeringsverordeningen omtrent luchtvaartveiligheid (Regeling uitvoering en handhaving luchtvaartveiligheid)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 1.5 van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op artikel 1.5 van de Wet luchtvaart;
 Besluit:     
 ### §  1  
 
@@ -21,7 +21,9 @@ In deze regeling wordt verstaan onder:
 
 *verordening (EU) nr. 1178/2011:* verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad;  
 
-*verordening (EU) nr. 748/2012:* verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224). 
+*verordening (EU) nr. 748/2012:* verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224);
+
+*verordening (EU) nr. 965/2012:* verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad.  
 
 ### §  2  
 
@@ -44,6 +46,12 @@ a. voor luchtvaartmaatschappijen: het personeelsnummer voorafgegaan door een dri
 
 b. voor trainings- en andere organisaties: het nummer van de cursist bij de organisatie, voorafgegaan door een drielettercode voor de naam van de organisatie.   
 
+### Artikel  2.3  
+
+####(aanvraag AOC)
+
+Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU) nr. 965/2012 wordt ingediend bij de bevoegde autoriteit door middel van een volledig ingevuld en ondertekend aanvraagformulier waarvan exemplaren bij de bevoegde autoriteit te verkrijgen zijn. 
+
 ### §  3  
 
 ####Handhaving
@@ -52,7 +60,7 @@ b. voor trainings- en andere organisaties: het nummer van de cursist bij de orga
 
 ####(aanwijzing overtredingen)
 
-1.  Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) zijn: 
+1.  Voorschriften als bedoeld in artikel 1.6 van de Wet luchtvaart zijn: 
 
 a. artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, 3, 4, 5, bijlage 1, paragrafen 21.A.177, 21.A.181, 21.A.209, 21.B.345 van verordening (EU) nr. 748/2012 of artikel 5 en bijlage I, paragrafen M.A.201, van verordening (EG) nr. 2042/2003;  
 
@@ -67,7 +75,7 @@ d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening junct
 
 ####(aanwijzing misdrijven)
 
-1.  Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) zijn artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.B.320 of subdeel H, van verordening (EU) nr. 748/2012.   
+1.  Voorschriften als bedoeld in artikel 1.6 van de Wet luchtvaart zijn artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.B.320 of subdeel H, van verordening (EU) nr. 748/2012.   
 2.  Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.  
 
 ### §  4  

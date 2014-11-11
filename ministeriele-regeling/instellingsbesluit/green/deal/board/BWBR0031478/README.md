@@ -5,14 +5,14 @@
 De Minister van Economische Zaken, Landbouw en Innovatie,  
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Infrastructuur en Milieu;
 
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
+Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
 
 In dit besluit wordt verstaan onder: 
 
-a.  *de minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
+a.  *de minister:* de Minister van Economische Zaken;  
 
 b.  *de board:* de Green Deal Board;  
 
@@ -35,60 +35,66 @@ d. relevante maatschappelijke organisaties en geledingen bij de Green Deal te be
 
 ### Artikel  3  
 
-1.  De board bestaat uit een voorzitter en ten hoogste tien andere leden.   
+1.  De board bestaat uit een voorzitter en ten hoogste twaalf andere leden.   
 2.  De voorzitter en de andere leden worden door de minister benoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.   
 3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
 
 ### Artikel  4  
 
-1.  De board vergadert minimaal vier keer per jaar.   
+1.  De board vergadert minimaal twee keer per jaar.   
 2.  De board stelt zijn eigen werkwijze schriftelijk vast.   
 3.  De minister voorziet in het secretariaat van de board.   
-4.  Het beheer van de bescheiden betreffende de werkzaamheden van de board geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken, Landbouw en Innovatie. De bescheiden worden na beëindiging van de werkzaamheden van de board opgeborgen in het archief van dat ministerie.   
+4.  Het beheer van de bescheiden betreffende de werkzaamheden van de board geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de board opgeborgen in het archief van dat ministerie.   
 5.  De board kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van zijn taak nodig is, waaronder ambtelijke deskundigen.  
 
 ### Artikel  5  
 
-1.  Ter gelegenheid van de instelling van de board worden voor de periode van 1 januari 2012 tot 1  juni 2015 tot leden van de board benoemd: 
+1.  Te rekenen vanaf 1 november 2014 worden tot lid van de Green Deal Board benoemd: 
 
 a. mevrouw M.R. Milz, te Putten, tevens voorzitter;  
 
-b. mevrouw mr. E.F. van Galen, te Amsterdam;  
+b. mevrouw L.C.A. Declercq, MSc, te Hooge Zwaluwe;  
 
-c. de heer J.A.M. Huijbers te Wintelre;  
+c. de heer drs. J. Dura MRE, te Rotterdam;  
 
-d. mevrouw M.M.A.A. Janssen MM, te Brussel, België;  
+d. mevrouw mr. E.F. van Galen, te Amsterdam;  
 
-e. mevrouw drs. T. Klip-Martin, te Dalen;  
+e. de heer mr. M.M. Goote, te Voorburg;  
 
-f. de heer M. van Poelgeest, te Amsterdam;  
+f. de heer J.A.M. Huijbers, te Wintelre;  
 
-g. de heer ir. B. Romeijn, te Papendrecht;  
+g. mevrouw drs. T. Klip-Martin, te Dalen;  
 
-h. de heer drs. A.F. van der Touw, te Wassenaar;  
+h. de heer M. van Poelgeest, te Amsterdam;  
 
-i. de heer ir. T.J.A. Wagenaar, te Bilthoven.     
+i. de heer ir. B. Romeijn, te Papendrecht;  
+
+j. de heer drs. A.F. van der Touw, te Wassenaar;  
+
+k. de heer ir. T.J.A. Wagenaar, te Bilthoven;  
+
+l. mevrouw dr.ir. A.P.H. Westenbroek, te Wageningen.     
 2.  Als toehoorder bij de vergadering van de board worden uitgenodigd: 
 
 a. een directielid van het gemeenschappelijk bureau van Vereniging VNO-NCW en Koninklijke Vereniging MKB-Nederland;  
 
-b. een directeur-generaal of plaatsvervangend directeur-generaal van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+b. een directeur-generaal of plaatsvervangend directeur-generaal van het Ministerie van Economische Zaken;  
 
 c. de directeur-generaal Milieu en Internationaal van het Ministerie van Infrastructuur en Milieu;  
 
 d. de directeur-generaal Wonen, Bouwen en Integratie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-e. de programmamanager van het interdepartementale programma Green Deals van het Ministerie van Economische Zaken, Landbouw en Innovatie.    
+e. de programmamanager van het interdepartementale programma Green Deals van het Ministerie van Economische Zaken.    
 
 ### Artikel  6  
 
-1.  Aan de voorzitter van de board wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,2.   
+1.  Aan de voorzitter van de board wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,2.   
 2.  De leden van de board ontvangen voor het bijwonen van een vergadering een vergoeding van € 255,00.  
 
 ### Artikel  7  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2012.   
-2.  Dit besluit vervalt met ingang van 1 juni 2015.  
+2.  Dit besluit vervalt met ingang van 1 juni 2017.  
 
 ### Artikel  8  
 

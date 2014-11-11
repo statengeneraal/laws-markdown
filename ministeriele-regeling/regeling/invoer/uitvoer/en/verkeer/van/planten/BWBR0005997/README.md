@@ -252,6 +252,22 @@ c. zij voldoen aan artikel 3, eerste lid, onderdeel c, van uitvoeringsbesluit n
 
 Onverminderd de artikelen 10, tweede lid, en 12, mogen planten of delen van planten van het geslacht Castanea Mill., bestemd voor opplant, met uitzondering van vruchten en zaden, afkomstig uit derde landen, slechts in de Gemeenschap worden binnengebracht indien zij voldoen aan bijlage I, onderdeel 1, bij beschikking 2006/464/EG en indien ze bij binnenkomst in de Gemeenschap overeenkomstig artikel 13bis, lid 1, van richtlijn nr. 2000/29/EG zijn gecontroleerd op de aanwezigheid van Dryocosmus kuriphilus Yasumatsu en daarvan vrij zijn bevonden.
 
+### Artikel  12k  
+
+1.  Onverminderd artikel 1 wordt voor de toepassing van dit artikel verstaan onder: 
+
+a. *schadelijk organisme:* Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) of Epitrix tuberis (Gentner);  
+
+b. *uitvoeringsbesluit 2012/270/EU:* uitvoeringsbesluit 2012/270/EU van de Commissie van 16 mei 2012 betreffende noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) en Epitrix tuberis (Gentner) te voorkomen (PbEU 2012, L132).     
+2.  Het is verboden het schadelijke organisme in te voeren en binnen Nederland te verspreiden.   
+3.  Knollen van Solanum tuberosum L. van oorsprong uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts in de Europese Unie worden binnengebracht als: 
+
+a. zij voldoen aan de specifieke invoervoorschriften van punt 1 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU en  
+
+b. zij, onverminderd de artikelen 12 en 12a, bij binnenkomst in de Europese Unie overeenkomstig punt 5 van sectie 1 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU zijn geïnspecteerd.     
+4.  Knollen van Solanum tuberosum L. van oorsprong uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt en die zijn ingevoerd overeenkomstig het derde lid, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden van punt 3 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU.   
+5.  Knollen van Solanum tuberosum L. van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit nr. 2012/270/EU zijn afgebakend, mogen alleen binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/270/EU.  
+
 ### Artikel  12l  
 
 1.  Voor de toepassing van dit artikel verstaan onder: 
@@ -430,7 +446,7 @@ De Regeling invoer, uitvoer en vervoer van planten wordt ingetrokken.
 ### Artikel  23  
 
 1.  Deze regeling treedt in werking met ingang van 1 juni 1993.   
-2.  Artikel 12k vervalt met ingang van 1 oktober 2014.   
+2.  Vervallen.   
 3.  Artikel 12m vervalt met ingang van 1 april 2016.   
 4.  Artikel 12n vervalt met ingang van 1 april 2015.  
 5.  Artikel 12p vervalt met ingang van 1 november 2015.  

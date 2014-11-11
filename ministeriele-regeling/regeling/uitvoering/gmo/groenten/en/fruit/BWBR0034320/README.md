@@ -3740,9 +3740,7 @@ b. wat de verhouding is tussen ingaande en uitgaande fuststromen.
 
 a. het milieuzorgsysteem bindende voorwaarden omvat met betrekking tot productiemethoden;  
 
-b. voor wat betreft de milieubescherming verder gaat dan wat is beschreven in artikel 30, derde lid, van verordening 1698/2005, en  
-
-c. de naleving van de voorwaarden, bedoeld in onderdeel a, het onderwerp zijn van een onafhankelijke controle door gekwalificeerde personen of organen.     
+b. de naleving van de voorwaarden, bedoeld in onderdeel a, het onderwerp zijn van een onafhankelijke controle door gekwalificeerde personen of organen.     
 2.  Milieuzorgsystemen, bedoeld in het eerste lid, op het teeltbedrijf van aangesloten leden zijn: 
 
 a. GlobalGAP;  

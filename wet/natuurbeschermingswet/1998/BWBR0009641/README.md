@@ -925,6 +925,17 @@ De eigenaar en gebruiker zijn verplicht de kentekenen die op grond van artikel 1
 
 Ten aanzien van voor de datum van inwerkingtreding van deze wet genomen besluiten tot toepassing van bestuursdwang en de daaruit voortvloeiende uitvoering van werken als bedoeld in artikel 29, eerste en tweede lid, van de Natuurbeschermingswet, blijft genoemde wet van toepassing.  
 
+### Artikel  67a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De artikelen 19km, 19kn en 19ko zijn niet van toepassing op projecten, plannen en andere handelingen die stikstofdepositie op voor stikstof gevoelige habitats in een Natura 2000-gebied veroorzaken indien: 
+
+– voor het project, plan of de andere handeling voor het tijdstip van inwerkingtreding van het programma een besluit als bedoeld in artikel 19km, eerste lid, in voorbereiding is bij het desbetreffende bestuursorgaan;  
+
+– de voor het nemen van het desbetreffende besluit beschikbare gegevens en bescheiden naar het oordeel van het desbetreffende bestuursorgaan voldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van het desbetreffende besluit en bovendien, ingeval het besluit betrekking heeft op een project als bedoeld in artikel 19f, eerste lid, een volledige passende beoordeling als bedoeld in dat artikellid is gemaakt, en  
+
+– degene die het desbetreffende project zal realiseren, onderscheidenlijk de andere handeling zal verrichten, heeft een tijdige uitvoering verzekerd van de maatregelen die in het kader van de realisering van het project, onderscheidenlijk het verrichten van de andere handeling worden getroffen om te verzekeren dat de natuurlijke kenmerken van Natura 2000-gebied niet zullen worden aangetast als gevolg van het project, onderscheidenlijk om verslechteringen of significant verstorende effecten als gevolg van de andere handeling te voorkomen.   
+
 ### Artikel  68  
 
 Wijzigt de Wet op de economische delicten.  

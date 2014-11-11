@@ -16,7 +16,7 @@ B. Dit lid is nog niet in werking getreden.
 
 ### Artikel  II  
 
-Voor de beroepsopleidingen opgenomen in bijlage 2 behorende bij deze regeling wordt de prijsfactor van de kwalificatiedossiers 2011–2012 die op grond van artikel V van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 2 behorende bij deze regeling. 
+Voor de beroepsopleidingen opgenomen in bijlage 2 en 3 behorende bij deze regeling wordt de prijsfactor van de kwalificatiedossiers 2011–2012 die op grond van artikel V van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 2 en 3 behorende bij deze regeling. 
 
 ### Artikel  III  
 
@@ -907,4 +907,36 @@ M. Bussemaker
 | 95110  | Tweewielertechniek (Eerste Fietstechnicus)  | T  | 1,30  | 1,4  |
 | 95190  | Orthopedisch Technisch Medewerker  | T  | 1,30  | 1,4  |
 | 95410  | Printmedia (Basismedewerker Printmedia)  | T  | 1,30  | 1,4  |
+
+### Bijlage  3  
+
+####van de Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2014, nr. MBO/642399, houdende de wijziging van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012 in verband met de aanpassing van enkele prijsfactoren
+
+Opleidingen op het gebied van landbouw, natuurlijke omgeving en voedsel 
+
+| Crebo-code  | kwalificatie  | sector  | prijsfactor  |--- |--- |--- | was  | wordt  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 97010  | Manager vershandel, logistiek en transport  | G  | 1  | 1,1  |
+| 97033  | Teelt en ondernemerschap (Manager binnenteelt)  | G  | 1  | 1,5  |
+| 97034  | Teelt en ondernemerschap (Manager buitenteelt)  | G  | 1  | 1,5  |
+| 97040  | Dierenassistent paraveterinair  | G  | 1,03  | 1,5  |
+| 97050  | Dierenhouderij  | G  | 1  | 1,5  |
+| 97051  | Dierenhouderij (Dierenhouder graasdieren)  | G  | 1  | 1,5  |
+| 97052  | Dierenhouderij (Dierenhouder hokdieren)  | G  | 1  | 1,5  |
+| 97053  | Dierenhouderij (Manager dierverzorging)  | G  | 1  | 1,3  |
+| 97054  | Dierenhouderij (Melkveehouder)  | G  | 1  | 1,5  |
+| 97110  | Binnenteelt (Vakbekwaam medewerker binnenteelt)  | G  | 1  | 1,5  |
+| 97160  | Vershandel, logistiek en transport (Medewerker vershandel, logistiek en transport)  | G  | 1  | 1,1  |
+| 97170  | Vershandel, logistiek en transport (Vakbekwaam medewerker vershandel, logistiek en transport)  | G  | 1  | 1,1  |
+| 97300  | Groene detailhandel (Medewerker groene detailhandel)  | G  | 1,05  | 1,3  |
+| 97310  | Groene detailhandel (Vakbekwaam medewerker groene detailhandel)  | G  | 1,05  | 1,4  |
+| 97363  | Dierverzorging 3/4 (Dierverzorger melkvee)  | G  | 1  | 1,5  |
+| 97364  | Dierverzorging 3/4 (Dierverzorger recreatiedieren)  | G  | 1,03  | 1,3  |
+| 97370  | Milieu en ruimte  | G  | 1  | 1,4  |
+| 97400  | Gezelschapsdierenbranche (Ondernemer gezelschapsdieren)  | G  | 1  | 1,3  |
+| 97410  | Gezelschapsdierenbranche (Vakbekwaam verkoper gezelschapsdieren)  | G  | 1,03  | 1,3  |
+| 97450  | Groene detailhandel (Manager groene detailhandel)  | G  | 1,05  | 1,3  |
+| 97560  | Zorg, natuur en gezondheid  | G  | 1,03  | 1,5  |
+| 97700  | Productiedieren  | G  | 1  | 1,5  |
+| 97710  | Productiedieren  | G  | 1  | 1,5  |
 

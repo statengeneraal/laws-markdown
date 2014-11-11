@@ -481,6 +481,20 @@ f. het doen van een verzoek als bedoeld in het derde lid.
 2.  De gevraagde gegevens gaan vergezeld van een verificatierapport van een verificateur.   
 3.  De artikelen 38 tot en met 41 zijn van overeenkomstige toepassing.  
 
+### §  3.4a  
+
+####Toepassing artikel 16.35c, vijfde lid, van de wet
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  43a  
+
+####De wijze waarop de gemiddelde marktprijs van een broeikasgasemissierecht wordt bepaald
+
+Treedt in werking per 01-01-2015 
+
+De gemiddelde marktprijs van een broeikasgasemissierecht, bedoeld in artikel 16.35c, vijfde lid, van de wet, wordt bepaald door de hoeveelheid terug te vorderen broeikasgasemissierechten te vermenigvuldigen met het gemiddelde van de veilingprijs van de tien veilingen waarin de vraag naar broeikasemissierechten in ieder geval leidt tot een veilingprijs boven de reserveprijs, onmiddellijk voorafgaand aan de dagtekening van het dwangbevel, bedoeld in artikel 16.35c, tweede lid, van de wet, waarin Nederland broeikasgasemissierechten heeft aangeboden. 
+
 ### §  3.5  
 
 #### *Wijzigingen broeikasgasinstallatie* 

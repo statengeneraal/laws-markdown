@@ -3,7 +3,7 @@
 ##Regeling tarieven luchtvaart 2008
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 6.55, zesde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [6.58, zesde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.12, vijfde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [11.2a, derde lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), op de [artikelen 159, eerste lid](../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), en [160, tweede lid van de Regeling Toezicht Luchtvaart](../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md), op de [artikelen 8, derde lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [13, tweede lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [20, derde lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [30, derde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [artikel 46, tweede en derde lid, van het Besluit luchtvaartuigen](../../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md);
+Gelet op de artikelen 6.55, zesde lid, 6.58, zesde lid, 8.12, vijfde lid, en 11.2a, derde lid, van de Wet luchtvaart, op de artikelen 159, eerste lid, en 160, tweede lid van de Regeling Toezicht Luchtvaart, op de artikelen 8, derde lid, 13, tweede lid, 20, derde lid en 30, derde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart en artikel 46, tweede en derde lid, van het Besluit luchtvaartuigen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -27,7 +27,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel 1a  
 
-Deze regeling berust op de [artikelen 1.7, tweede lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [6.55, zesde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [6.58, zesde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.12, vijfde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8a.4, vijfde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [10.11, eerste lid, onderdeel b](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [11.2a, derde lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 8, derde lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [13, tweede lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [20, derde lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [30, derde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [artikel 22, tweede en derde lid, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) en [artikel 5 van het Besluit vluchtuitvoering](../../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md).
+Deze regeling berust op de artikelen 1.7, tweede lid, 6.55, zesde lid, 6.58, zesde lid, 8.12, vijfde lid, 8a.4, vijfde lid, 10.11, eerste lid, onderdeel b, en 11.2a, derde lid, van de Wet luchtvaart, de artikelen 8, derde lid, 13, tweede lid, 20, derde lid, en 30, derde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart, artikel 22, tweede en derde lid, van het Besluit luchtvaartuigen 2008 en artikel 5 van het Besluit vluchtuitvoering.
 
 ### Artikel  2  
 
@@ -53,7 +53,13 @@ Deze regeling berust op de [artikelen 1.7, tweede lid](../../../../../../wet/wet
 
 ### Artikel  5  
 
-Voor het afleggen van praktijkexamens en proeven van bekwaamheid als bedoeld in het [Examenreglement voor luchtvarenden 2004](../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2004/BWBR0017237/README.md) is voor kandidaten die zich een examinator laten toedelen door de Minister van Infrastructuur en Milieu een vast tarief van € 234 verschuldigd. 
+Voor het afleggen van praktijkexamens en proeven van bekwaamheid als bedoeld in het Examenreglement voor luchtvarenden 2004 is voor kandidaten die zich een examinator laten toedelen door de Minister van Infrastructuur en Milieu een vast tarief van € 234 verschuldigd. 
+
+### Artikel  5a  
+
+1.  Voor de behandeling van een aanvraag voor de afgifte van een certificaat voor examinator als bedoeld in verordening (EU) nr. 1178/2011, is een vast tarief verschuldigd van € 290.   
+2.  Voor de behandeling van een aanvraag voor de verlenging van de geldigheidsduur van een certificaat als bedoeld in het eerste lid, is een vast tarief verschuldigd van € 230.   
+3.  Voor de behandeling van een aanvraag voor bijschrijving op een certificaat als bedoeld in het eerste lid, is een vast tarief verschuldigd van € 70.  
 
 ### Artikel  6  
 
@@ -61,19 +67,29 @@ Voor het afleggen van praktijkexamens en proeven van bekwaamheid als bedoeld in 
 
 a. ATPL;  
 
-b. CPL (uitgezonderd CPL (FB));  
+b. CPL;  
 
-c. CFEL;  
+c. MPL (A), met daarop weergegeven een of meerdere bevoegdverklaringen als bedoeld in verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 516.     
+2.  Voor de behandeling van een aanvraag voor de afgifte van een: 
 
-d. MPL (A), met daarop weergegeven een of meerdere bevoegdverklaringen is een vast tarief verschuldigd van € 516.     
-2.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van bevoegdheid PPL en CPL (FB) met daarop weergegeven een of meerdere bevoegdverklaringen is een vast tarief verschuldigd van € 497.   
-3.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van bevoegdheid RPL met daarop weergegeven een of meerdere bevoegdverklaringen is een vast tarief verschuldigd van € 497.   
-4.  Voor de behandeling van een aanvraag voor de afgifte, verlenging of hernieuwde afgifte van een algemene bevoegdverklaring als bedoeld in het [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), niet zijnde de algemene bevoegdverklaring RT of LPE, is een vast tarief verschuldigd van € 104.   
-5.  Voor de behandeling van een aanvraag voor de afgifte, verlenging of hernieuwde afgifte van een bijzondere bevoegdverklaring voor luchtvarenden als bedoeld in het [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) is een vast tarief verschuldigd van € 104.   
-6.  Voor de behandeling van een aanvraag voor de afgifte dan wel voor de verlenging of hernieuwde afgifte van een instructeurs bevoegdverklaring voor luchtvarenden als bedoeld in het [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) is een vast tarief verschuldigd van € 134.   
-7.  Voor de behandeling van een aanvraag voor de afgifte, verlenging of hernieuwde afgifte van een RT bevoegdverklaring en de bevoegdverklaring LPE met de bijbehorende taalvaardigheid als bedoeld in het [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) is een vast tarief verschuldigd van € 53.   
-8.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van gelijkstelling als bedoeld in de [Regeling gelijkstelling buitenlandse bewijzen van bevoegdheid](../../../../../../ministeriele-regeling/regeling/gelijkstelling/buitenlandse/bewijzen/van/bevoegdheid/BWBR0006099/README.md) is een vast tarief verschuldigd van € 61.   
-9.  Voor de vernieuwing van een document als bedoeld in het [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) is een vast tarief verschuldigd van € 61.  
+a. PPL;  
+
+b. BPL, met daarop weergegeven een of meerdere bevoegdverklaringen als bedoeld in de verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 497.     
+3.  Voor de behandeling van een aanvraag voor de afgifte van een: 
+
+a. RPL;  
+
+b. CPL FB, met daarop weergegeven een of meerdere bevoegdverklaringen als bedoeld in het Besluit bewijzen van bevoegdheid voor de luchtvaart, of  
+
+c. LAPL(A);  
+
+d. LAPL(H), met daarop weergegeven een of meerdere bevoegdverklaringen als bedoeld in de verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 497.     
+4.  Voor de behandeling van een aanvraag voor de afgifte, verlenging of hernieuwde afgifte van een bevoegdverklaring als bedoeld in het Besluit bewijzen van bevoegdheid voor de luchtvaart en in verordening (EU) nr. 1178/2011, niet zijnde de bevoegdverklaring RT of LPE, is een vast tarief verschuldigd van € 104.   
+5.  Voor de behandeling van een aanvraag voor de afgifte dan wel voor de verlenging of hernieuwde afgifte van een instructeurbevoegdverklaring voor luchtvarenden als bedoeld in het Besluit bewijzen van bevoegdheid voor de luchtvaart of een certificaat als instructeur als bedoeld in verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 134.   
+6.  Voor de behandeling van een aanvraag voor de afgifte, verlenging of hernieuwde afgifte van een bevoegdverklaring RT en een bevoegdverklaring LPE met de bijbehorende taalvaardigheid als bedoeld in het Besluit bewijzen van bevoegdheid voor de luchtvaart en in verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 53.   
+7.  Voor de behandeling van een aanvraag voor validatie, conversie van bewijzen van bevoegdheid en aanvaarding van klasse en typebevoegdverklaringen als bedoeld in bijlage 3 van verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 61.   
+8.  Voor de vernieuwing van een document als bedoeld in het Besluit bewijzen van bevoegdheid voor de luchtvaart en in verordening (EU) nr. 1178/2011 is een vast tarief verschuldigd van € 61.   
+9.  Voor de behandeling van een aanvraag voor de conversie van een door de Koninklijke Nederlandse Vereniging voor Luchtvaart afgegeven LAPL in het eenmalige bulkproces tussen de Koninklijke Nederlandse Vereniging voor Luchtvaart en de minister geldt een vast tarief van € 12 voor de LAPL (S) en de LAPL (B).  
 
 ### Artikel  7  
 
@@ -83,7 +99,7 @@ a. de behandeling van een aanvraag voor een medisch certificaat als bedoeld in v
 
 b. de afgifte van een duplicaat van een medisch certificaat, een medische verklaring of een medisch dossier, en  
 
-c. het doorsturen van een medisch dossier naar een andere bevoegde autoriteit.    Tabel 1 
+c. het doorsturen van een medisch dossier, in verband met conversie van een bewijs van bevoegdheid, door of naar een andere bevoegde autoriteit.    Tabel 1 
 
 | Omschrijving  | Afgifte  |
 |:---|:---|
@@ -107,7 +123,7 @@ c. het doorsturen van een medisch dossier naar een andere bevoegde autoriteit.  
 | Goedkeuring wijziging toepassingsgebied certificaat of goedkeuringsvoorwaarden zelfstandig AME of AME (per wijzigingsaanvraag)  | --- | --- | € 79  | € 79  |
 | Goedkeuring wijziging(en) in organisatie AeMC voor welke vooraf goedkeuring is vereist (per wijzigingsaanvraag)  | --- | --- | € 269  | € 269  |
 
-2.  Voor de behandeling van een aanvraag om autorisatie van een geneeskundige instantie of geneeskundige als bedoeld in de [Regeling geneeskundige instanties, geneeskundigen en medische verklaringen voor de luchtvaart](../../../../../../ministeriele-regeling/regeling/geneeskundige/instanties/geneeskundigen/en/medische/verklaringen/etc/BWBR0010686/README.md) zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
+2.  Voor de behandeling van een aanvraag om autorisatie van een geneeskundige instantie of geneeskundige als bedoeld in de Regeling geneeskundige instanties, geneeskundigen en medische verklaringen voor de luchtvaart zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
 
 | Omschrijving  | Eerste afgifte  | Herafgifte  |
 |:---|:---|:---|
@@ -122,7 +138,7 @@ c. het doorsturen van een medisch dossier naar een andere bevoegde autoriteit.  
 
 ### Artikel  9  
 
-1.  Voor het afleggen van theorie-examens voor de volgende bewijzen van bevoegdheid is een vast tarief van € 123 per module, als bedoeld in de [Regeling opleiding en examen bevoegdverklaringen AML en Part-66-AML](../../../../../../ministeriele-regeling/regeling/opleiding/en/examen/bevoegdverklaringen/aml/en/part-66/aml/BWBR0024639/README.md), verschuldigd: 
+1.  Voor het afleggen van theorie-examens voor de volgende bewijzen van bevoegdheid is een vast tarief van € 123 per module, als bedoeld in de Regeling opleiding en examen bevoegdverklaringen AML en Part-66-AML, verschuldigd: 
 
 a. AML;  
 
@@ -161,7 +177,7 @@ b. Part-66-AML € 140.
 
 ### Artikel  11  
 
-1.  Voor de behandeling van een aanvraag voor de eerste afgifte en herafgifte van een registratie van een opleidings- en trainingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/opleidingsinstellingen/voor/luchtvarenden/2001/BWBR0012923/README.md), zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
+1.  Voor de behandeling van een aanvraag voor de eerste afgifte en herafgifte van een registratie van een opleidings- en trainingsinstelling als bedoeld in de Regeling opleidingsinstellingen voor luchtvarenden 2001, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
 
 | Omschrijving  | Eerste afgifte  | Herafgifte  |
 |:---|:---|:---|
@@ -178,14 +194,15 @@ b. Part-66-AML € 140.
 | Opleidingsmodule MPL  | € 5.383  |
 | Opleidingsmodule integrated ATP, integrated ATP/IR, integrated CPL, integrated CPL/IR, per module  | € 2.691  |
 | Opleidingsmodule praktijk IR  | € 1.346  |
-| Variant op opleidingsmodule IR  | € 405  |
+|Opleidingsmodule praktijk EIR |€ 1.077 |
+| Variant op opleidingsmodule IR, EIR  | € 415  |
 | Opleidingsmodule RFI  | € 1.346  |
 | Opleidingsmodule FI  | € 1.346  |
 | Opleidingsmodule FI-refresher seminar  | € 807  |
 | Opleidingsmodule RFI-refresher seminar  | € 807  |
 | Overige opleidingsmodule instructeurs  | € 921  |
 | Opleidingsmodule praktijk CPL  | € 1.077  |
-| Opleidingsmodule theorie CPL, IR, ATP, per module  | € 942  |
+| Opleidingsmodule theorie CPL, IR, EIR/CB-IR, ATP, per module  | € 942  |
 | Opleidingsmodule theorie LAPL, PPL, BPL, SPL, per module  | € 807  |
 | Opleidingsmodule class/type rating Multi pilot aircraft, per module  | € 942  |
 | Variant op opleidingsmodule type rating Multi pilot aircraft  | € 405  |
@@ -215,11 +232,11 @@ b. Part-66-AML € 140.
 | Naamwijziging (waarbij de rechtspersoon niet wijzigt)  | € 129  |
 | Wijziging principal place of business (waarbij de rechtspersoon, de trainingsactiviteiten en/of locaties niet wijzigen)  | € 129  |
 | Goedkeuring gewijzigd trainingsprogramma of type kwalificatieprogramma, per type, geregistreerde opleidingsinstelling, per deel of subdeel  | € 135  |
-| Goedkeuring gewijzigd handboek (OM, TM per opleidingsmodule, SMM), per deel of subdeel  | € 424  |
+| Goedkeuring gewijzigd handboek, per deel of subdeel  | € 415  |
 | Wijziging gebruik van een simulator per aanvraag per simulator  | € 269  |
 | Beoordeling nieuwe functionaris (AM, HT, CM, SM)  | € 269  |
 | Indelingsprotocol Examinatoren (IPEX)  | € 269  |
-| Overige aanvragen (zoals inzetten van een simulator voor een ander type training dan waarvoor het bedoeld is, of goedkeuring van een eigen ontwerp van een logboek), per besluit  | € 404  |
+| Overige aanvragen (zoals inzetten van een simulator voor een ander type training dan waarvoor het bedoeld is, of goedkeuring van een eigen ontwerp van een logboek), per besluit  | € 415  |
 | Verwijderen van een simulator van de erkenning  | € 129  |
 | Verwijderen van een opleidingsmodule (inclusief wijziging handboeken)  | € 404  |
 | Verzoek tot ontheffing per besluit < 2 maanden  | € 293  |
@@ -260,7 +277,7 @@ b. Part-66-AML € 140.
 
 ### Artikel  12  
 
-1.  Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning van een opleidingsinstelling voor onderhoudstechnici als bedoeld in [artikel 13, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [artikel 17, eerste lid, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 1) en een aanvullend tarief (tabel 2):  Tabel 1 
+1.  Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning van een opleidingsinstelling voor onderhoudstechnici als bedoeld in artikel 13, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart en artikel 17, eerste lid, van het Besluit luchtvaartuigen 2008, zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 1) en een aanvullend tarief (tabel 2):  Tabel 1 
 
 | Omschrijving  | Eerste afgifte  |
 |:---|:---|
@@ -305,9 +322,9 @@ b. Part-66-AML € 140.
 
 ### Artikel  13  
 
-1.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van inschrijving als bedoeld in [artikel 3.5 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), alsmede voor het wijzigen of het doorhalen van de inschrijving als bedoeld in [artikel 3.4, eerste en derde lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is een vast tarief van € 140 verschuldigd, met dien verstande dat aanvragen van doorhaling alleen in rekening worden gebracht in geval van uitvoer naar het buitenland van een luchtvaartuig.  
+1.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van inschrijving als bedoeld in artikel 3.5 van de Wet luchtvaart, alsmede voor het wijzigen of het doorhalen van de inschrijving als bedoeld in artikel 3.4, eerste en derde lid, van de Wet luchtvaart is een vast tarief van € 140 verschuldigd, met dien verstande dat aanvragen van doorhaling alleen in rekening worden gebracht in geval van uitvoer naar het buitenland van een luchtvaartuig.  
 2.  In afwijking van het eerste lid, is voor de behandeling van een aanvraag voor de afgifte van een bewijs van inschrijving, alsmede voor het wijzigen of het doorhalen van de inschrijving voor luchtvaartuigen ≤ 2.000 kg een vast tarief van € 71 verschuldigd.   
-3.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van luchtwaardigheid als bedoeld in [artikel 3.13 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), alsmede voor het verlengen daarvan, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
+3.  Voor de behandeling van een aanvraag voor de afgifte van een bewijs van luchtwaardigheid als bedoeld in artikel 3.13 van de Wet luchtvaart, alsmede voor het verlengen daarvan, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
 
 | MTOM  | Afgifte  | Verlenging  |
 |:---|:---|:---|
@@ -315,10 +332,10 @@ b. Part-66-AML € 140.
 | Luchtvaartuig > 2.000 kg en ≤ 5.700 kg  | € 1.350  | € 177  |
 | Luchtvaartuig > 5.700 kg  | € 4.136  | € 607  |
 
-4.  Voor het afgeven van een Airworthiness Review Certificate als bedoeld in het [Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) geldt hetzelfde tarief als voor het verlengen van een bewijs van luchtwaardigheid. Indien de aanvraag voor het afgeven of verlengen gelijktijdig vergezeld gaat met de aanvraag voor het afgeven van een Airworthiness Review Certificate wordt geen tarief geheven voor het Airworthiness Review Certificate.   
+4.  Voor het afgeven van een Airworthiness Review Certificate als bedoeld in het Besluit luchtvaartuigen 2008 geldt hetzelfde tarief als voor het verlengen van een bewijs van luchtwaardigheid. Indien de aanvraag voor het afgeven of verlengen gelijktijdig vergezeld gaat met de aanvraag voor het afgeven van een Airworthiness Review Certificate wordt geen tarief geheven voor het Airworthiness Review Certificate.   
 5.  Voor de behandeling van de afgifte van een bewijs van luchtwaardigheid voor (motor)zweefvliegtuigen, MLA’s, MLH’s, gemotoriseerde schermvliegtuigen alsmede amateurbouwluchtvaartuigen ≤ 2.000 kg is een tarief verschuldigd van € 366.   
 6.  Voor de behandeling van een aanvraag voor het vernieuwen van een bewijs van inschrijving, een bewijs van luchtwaardigheid, een Airworthiness Review Certificate of een geluidsdocument is een vast tarief van € 96 verschuldigd.   
-7.  Voor de behandeling van een aanvraag voor de afgifte van een geluidscertificaat, een geluidsverklaring of een aanvullende geluidsverklaring als bedoeld in [Hoofdstuk 5 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) is een vast tarief van € 284 verschuldigd.   
+7.  Voor de behandeling van een aanvraag voor de afgifte van een geluidscertificaat, een geluidsverklaring of een aanvullende geluidsverklaring als bedoeld in Hoofdstuk 5 van het Besluit luchtvaartuigen 2008 is een vast tarief van € 284 verschuldigd.   
 8.  Voor de behandeling van een aanvraag voor de vernieuwing van een geluidscertificaat is een vast tarief van € 96 verschuldigd.   
 9.  Voor de behandeling van een aanvraag voor de initiële goedkeuring van een onderhoudsprogramma voor luchtvaartuigen, zijn de volgende tarieven verschuldigd:  Tabel 2 
 
@@ -339,13 +356,13 @@ b. Part-66-AML € 140.
 
 ### Artikel  14  
 
-1.  Voor de behandeling van een aanvraag voor de afgifte, de wijziging en de overdracht van een type-certificaat, of een aanvullend type-certificaat van een luchtvaartuig, onderdelen of uitrustingsstukken daarvan, als bedoeld in [Hoofdstuk 3 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), ten behoeve van een luchtvaartuig dat wordt ingezet voor niet-militaire staatsactiviteiten of diensten of een luchtvaartuig zoals vermeld in onderdeel b van bijlage II, van de basisverordening, is een uurtarief van € 135 verschuldigd. Tevens wordt een vast tarief van € 140 in rekening gebracht voor het bewijs van afgifte, wijziging, overdracht type certificaat, of aanvullend type-certificaat.   
-2.  Voor de behandeling van een aanvraag voor wijziging van een luchtvaartuig, onderdelen of uitrustingsstukken daarvan, als bedoeld in [artikel 14 van de Regeling onderhoud luchtvaartuigen](../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md), ten behoeve van een luchtvaartuig dat wordt ingezet voor niet-militaire staatsactiviteiten of diensten of een luchtvaartuig zoals vermeld in onderdeel b van bijlage II, van de basisverordening, is een vast tarief van € 582 verschuldigd.   
-3.  Voor de behandeling van een aanvraag voor wijziging van een luchtvaartuig, onderdelen of uitrustingsstukken daarvan, als bedoeld in [artikel 7 van de Regeling amateurbouwluchtvaartuigen](../../../../../../ministeriele-regeling/regeling/amateurbouwluchtvaartuigen/BWBR0013494/README.md) is een vast tarief van € 582 verschuldigd.  
+1.  Voor de behandeling van een aanvraag voor de afgifte, de wijziging en de overdracht van een type-certificaat, of een aanvullend type-certificaat van een luchtvaartuig, onderdelen of uitrustingsstukken daarvan, als bedoeld in Hoofdstuk 3 van het Besluit luchtvaartuigen 2008, ten behoeve van een luchtvaartuig dat wordt ingezet voor niet-militaire staatsactiviteiten of diensten of een luchtvaartuig zoals vermeld in onderdeel b van bijlage II, van de basisverordening, is een uurtarief van € 135 verschuldigd. Tevens wordt een vast tarief van € 140 in rekening gebracht voor het bewijs van afgifte, wijziging, overdracht type certificaat, of aanvullend type-certificaat.   
+2.  Voor de behandeling van een aanvraag voor wijziging van een luchtvaartuig, onderdelen of uitrustingsstukken daarvan, als bedoeld in artikel 14 van de Regeling onderhoud luchtvaartuigen, ten behoeve van een luchtvaartuig dat wordt ingezet voor niet-militaire staatsactiviteiten of diensten of een luchtvaartuig zoals vermeld in onderdeel b van bijlage II, van de basisverordening, is een vast tarief van € 582 verschuldigd.   
+3.  Voor de behandeling van een aanvraag voor wijziging van een luchtvaartuig, onderdelen of uitrustingsstukken daarvan, als bedoeld in artikel 7 van de Regeling amateurbouwluchtvaartuigen is een vast tarief van € 582 verschuldigd.  
 
 ### Artikel  15  
 
-Voor inspecties uitgevoerd ten behoeve van een onderzoek naar de luchtwaardigheid als bedoeld in [artikel 17, derde lid, van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md) of onderzoeken ten behoeve van de afgifte van een Airworthiness Review Certificate, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
+Voor inspecties uitgevoerd ten behoeve van een onderzoek naar de luchtwaardigheid als bedoeld in artikel 17, derde lid, van de Regeling bewijzen van luchtwaardigheid of onderzoeken ten behoeve van de afgifte van een Airworthiness Review Certificate, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
 
 | MTOM  | Afgifte  |
 |:---|:---|
@@ -354,7 +371,7 @@ Voor inspecties uitgevoerd ten behoeve van een onderzoek naar de luchtwaardighei
 
 ###Artikel 16 
 
-1. Voor de behandeling van een aanvraag voor de eerste afgifte van een MOA ingevolge [artikel 17 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 1) en een aanvullend tarief (tabellen 2 en 3): Tabel 1 
+1. Voor de behandeling van een aanvraag voor de eerste afgifte van een MOA ingevolge artikel 17 van het Besluit luchtvaartuigen 2008 zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 1) en een aanvullend tarief (tabellen 2 en 3): Tabel 1 
 
 | Omschrijving  | Eerste afgifte  |
 |:---|:---|
@@ -428,13 +445,14 @@ Tabel 6
 
 | Omschrijving  | Part 145 MOA erkenning gebaseerd op een A1 classificatie  | Part 145 MOA erkenning niet gebaseerd op een A1 classificatie  | Part MAF erkenning  |
 |:---|:---|:---|:---|
-| Bijschrijving aanvullende classificatie  | € 2.120  | € 1. 427  | € 1.047  |
+| Bijschrijving aanvullende classificatie<sup>1</sup>  | € 2.120  | € 1. 427  | € 1.047  |
 | Bijschrijving type luchtvaartuig, motortype of component (Part 145, beperkingen)  | € 2.120  | € 1.427  | € 1.047  |
 | Bijschrijving nieuwe of wijziging onderhoudslocatie buiten het postcodegebied waar het onderhoudsbedrijf is gevestigd.  | € 3.505  | € 2.536  | € 1.878  |
 | Aanpassing limitations van een van de ratings als vermeld op de erkenning.  Bijschrijving nieuwe of wijziging onderhoudslocatie binnen het postcodegebied waar het onderhoudsbedrijf is gevestigd.  Bijschrijven line station (per line station).  Alle overige wijzingen als vermeld op de erkenning en wijzigingen in de scope of work als vastgelegd in het goedgekeurde handboek.  | € 1.011  | € 734  | € 526  |
 | Goedkeuring wijziging bedrijfshandboek  | € 645  | € 471  | € 342  |
 | Alle overige acceptaties en goedkeuringen (‘acceptances and approvals’, zoals accepteren sleutelfunctionarissen, doorhalingen op de vergunning).  | € 115  | € 115  | € 115  |
 
+<sup>1</sup> Voor de overgang naar een hogere klasse wordt het verschil in basistarief als bedoeld in de tabellen 1 en 4 van dit artikel getarifeerd.
 3. Voor de behandeling van een aanvraag voor een 14 CFR Part 145 Repair Station Approval en een CAR 573 Maintenance Organization Approval zijn de volgende vaste tarieven verschuldigd:Tabel 7a
 
 | Omschrijving  |--- |--- |
@@ -450,16 +468,16 @@ Tabel 7b
 |:---|:---|:---|
 | Aanvraag CAR 573 Maintenance Organization Approval:  | Tarief A1-classificatie  | Tarief non A1-classificatie  |
 | – Initiële afgifte, alle handelingen tezamen (inclusief beoordeling TCCA-supplement)  | Gelijk aan de som van de in tabel 7 vermelde tarieven voor aanpassing limitations en goedkeuring wijziging bedrijfshandboek  | Gelijk aan de som van de in tabel 7 vermelde tarieven voor aanpassing limitations en goedkeuring wijziging bedrijfshandboek  |
-| – Verlenging, exclusief beoordeling TCCA-supplement  | € 264  | € 264  |
+| – Wijziging en verlenging, exclusief beoordeling TCCA-supplement  | € 264  | € 264  |
 | – Beoordeling TCCA-supplement only  | Gelijk aan het in tabel 7 vermelde tarief voor goedkeuring wijziging bedrijfshandboek  | Gelijk aan het in tabel 7 vermelde tarief voor goedkeuring wijziging bedrijfshandboek  |
 
-4. Voor de behandeling van een aanvraag voor de eerste afgifte en de herafgifte van een erkenning voor een onderhoudsbedrijf of geluidmeetbedrijf ingevolge [artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) zijn de volgende vaste tarieven verschuldigd: Tabel 8 
+4. Voor de behandeling van een aanvraag voor de eerste afgifte en de herafgifte van een erkenning voor een onderhoudsbedrijf of geluidmeetbedrijf ingevolge artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008 zijn de volgende vaste tarieven verschuldigd: Tabel 8 
 
 | Omschrijving  | Eerste afgifte  | Herafgifte  |
 |:---|:---|:---|
 | Nationale erkenning  | € 13.714  | € 269  |
 
-5.  Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning voor een onderhoudsbedrijf ingevolge [artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) gebaseerd op een reeds in bezit zijnde MOA of onderhoudserkenning op grond van subpart F van Part M van verordening (EG) nr. 2042/2003 zijn de volgende vaste tarieven verschuldigd:  Tabel 8a 
+5.  Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning voor een onderhoudsbedrijf ingevolge artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008 gebaseerd op een reeds in bezit zijnde MOA of onderhoudserkenning op grond van subpart F van Part M van verordening (EG) nr. 2042/2003 zijn de volgende vaste tarieven verschuldigd:  Tabel 8a 
 
 | Omschrijving  | Part 145 MOA erkenning gebaseerd op een A1 classificatie  | Part 145 MOA erkenning niet gebaseerd op een A1 classificatie  | Part MAF erkenning  |
 |:---|:---|:---|:---|
@@ -475,7 +493,7 @@ Tabel 7b
 | Goedkeuring wijziging bedrijfshandboek  | € 471  |
 | Alle overige acceptaties en goedkeuringen (‘acceptances and approvals’, zoals accepteren sleutelfunctionarissen, doorhalingen op de vergunning).  | € 115  |
 
-7. Voor de behandeling van de aanvraag voor het bijschrijven van een BvL-V-bevoegdheid tot het uitvoeren van een BvL-verlengingsinspectie, als bedoeld in de [Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md), verbonden aan een MOA ingevolge [artikel 17 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), de nationale erkenning voor een onderhoudsbedrijf of een AOC, zijn de volgende vaste tarieven verschuldigd: Tabel 10 
+7. Voor de behandeling van de aanvraag voor het bijschrijven van een BvL-V-bevoegdheid tot het uitvoeren van een BvL-verlengingsinspectie, als bedoeld in de Regeling bewijzen van luchtwaardigheid, verbonden aan een MOA ingevolge artikel 17 van het Besluit luchtvaartuigen 2008, de nationale erkenning voor een onderhoudsbedrijf of een AOC, zijn de volgende vaste tarieven verschuldigd: Tabel 10 
 
 | Omschrijving  |--- |
 |:---|:---|
@@ -483,7 +501,7 @@ Tabel 7b
 | – Luchtvaartuigen MTOM > 5.700kg  | € 4.337  |
 | – Luchtvaartuigen MTOM ≤ 5.700kg  | € 1.288  |
 
-8.  Voor de behandeling van een aanvraag voor de eerste afgifte van een POA overeenkomstig Part 21, subpart G, van verordening (EU) 748/2012 of een accoordverklaring voor het aantonen van de conformiteit van individuele producten, onderdelen en uitrustingsstukken overeenkomstig Part 21, subpart F, van verordening (EU) 748/2012 ingevolge [artikel 17 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 11) en een aanvullend tarief (tabel 12). Voor een productiebedrijf dat voor componenten in dezelfde classificatie een MOA nodig heeft, zal indien er sprake is van een hoge mate van gemeenschappelijke processen geen vergoeding voor de MOA verschuldigd zijn, zulks ter beoordeling aan de minister van Infrastructuur en Milieu.  Tabel 11 
+8.  Voor de behandeling van een aanvraag voor de eerste afgifte van een POA overeenkomstig Part 21, subpart G, van verordening (EU) 748/2012 of een accoordverklaring voor het aantonen van de conformiteit van individuele producten, onderdelen en uitrustingsstukken overeenkomstig Part 21, subpart F, van verordening (EU) 748/2012 ingevolge artikel 17 van het Besluit luchtvaartuigen 2008 zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 11) en een aanvullend tarief (tabel 12). Voor een productiebedrijf dat voor componenten in dezelfde classificatie een MOA nodig heeft, zal indien er sprake is van een hoge mate van gemeenschappelijke processen geen vergoeding voor de MOA verschuldigd zijn, zulks ter beoordeling aan de minister van Infrastructuur en Milieu.  Tabel 11 
 
 | Omschrijving  | Eerste afgifte  POA  (Subpart G)  | Eerste afgifte  akkoordverklaring  (Subpart F)  |
 |:---|:---|:---|
@@ -511,7 +529,7 @@ Tabel 7b
 | Goedkeuring wijziging bedrijfshandboek  | € 645  | € 315  |
 | Alle overige acceptaties en goedkeuringen (‘acceptances and approvals’, zoals accepteren sleutelfunctionarissen, doorhalingen op de vergunning)  | € 115  | € 107  |
 
-10. Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning ingevolge [hoofdstuk 3, Erkend Inspecteur, van de Regeling erkenningen luchtwaardigheid 2008](../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md) zijn de volgende vaste tarieven verschuldigd: Tabel 14 
+10. Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning ingevolge hoofdstuk 3, Erkend Inspecteur, van de Regeling erkenningen luchtwaardigheid 2008 zijn de volgende vaste tarieven verschuldigd: Tabel 14 
 
 | Omschrijving  | Eerste afgifte  | Herafgifte  |
 |:---|:---|:---|
@@ -528,99 +546,101 @@ Tabel 7b
 
 1.  Voor de behandeling van een aanvraag voor eerste afgifte van een vergunning tot vluchtuitvoering (AOC) inclusief de documenten die daartoe behoren, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
 
-| Producten eerste afgifte AOC  | SP/SE vliegtuigen en SP/SE helikopters: AtoA, VFR day only  | SP/SE vliegtuigen en SP/SE helikopters: AtoB, VFR day only<sup>1</sup>  | ME vliegtuigen (class A of C, AtoB, < 19 pax, inclusief zelfde vliegtuigtype, alleen geschikt voor vracht) en ME helikopters<sup>1</sup>  | ME vliegtuigen (class A of C, AtoB, >19 pax, inclusief zelfde vliegtuigtype, alleen geschikt voor vracht<sup>1</sup>  |
+| Producten eerste afgifte AOC  | SP/SE vliegtuigen en SP/SE helikopters: AtoA, VFR day only  | SP/SE vliegtuigen en SP/SE helikopters: AtoB, VFR day only<sup>1</sup>   | ME vliegtuigen (class A of C, AtoB, < 19 pax, inclusief zelfde vliegtuigtype, alleen geschikt voor vracht) en ME helikopters<sup>1</sup>   | ME vliegtuigen (class A of C, AtoB, >19 pax, inclusief zelfde vliegtuigtype, alleen geschikt voor vracht<sup>1</sup>   |
 |:---|:---|:---|:---|:---|
-| Basistarief <sup>2</sup>  | € 3.095<sup>3</sup>  | € 3.767<sup>4</sup>  | € 23.548  | € 24.489  |
+| Basistarief<sup>2</sup>   | € 3.095<sup>3</sup>   | € 3.767<sup>4</sup>   | € 23.548  | € 24.489  |
 | Plus:  |
 | Pax (A1)  | € 538  | € 538  | € 538  | € 538  |
 | Cargo (A2)  | --- | € 404  | € 538  | € 807  |
-| Emergency  Medical Service (A3)  | --- | € 807  | € 1.614  | € 1.614  |
-| Helicopter Emergency Medical Service (A3)  | --- | --- | € 1.796  | --- |
+| Emergency Medical Service per type (A3)  | --- | € 807  | € 1.614  | € 1.614  |
+| Helicopter Emergency Medical Service per type (A3)  | --- | --- | € 1.796  | --- |
 | VFR night per class/type (D2)  | --- | € 269  | € 269  | --- |
 | IFR per class/type  | --- | € 538  | € 538  | --- |
 | Bijschrijving:  | --- | --- | --- | --- |
-| – Extra class/type<sup>5</sup>  | € 807  | € 807  | € 4.037  | € 8.073  |
+| – Extra class/type<sup>5</sup>   | € 807  | € 807  | € 4.037  | € 8.073  |
 | – Extra luchtvaartuig registratie van aanvraagde class/type  | € 67  | € 67  | € 135  | € 135  |
-| – Area of operation (per area)<sup>6</sup>  | --- | € 538  | € 538  | € 538  |
-| – Area of operation worldwide in 1 aanvraag <sup>6</sup>  | --- | € 2.691  | € 2.691  | € 2.691  |
-| Special approval:<sup>6</sup>  – Per Low visibility procedure per type per approval:  ° CAT II (E1)  ° CAT III A or B or  C (E2 t/m E4)  ° Take off below  specified minima  (E5)  ° Lower than CAT  I  ° Other than  Standard CAT II  ° Approaches  utilising EVS  | --- | --- | € 1.198  | € 1.198  |
+| – Area of operation (per area)<sup>6</sup>   | --- | € 538  | € 538  | € 538  |
+| – Area of operation worldwide in 1 aanvraag<sup>6</sup>   | --- | € 2.691  | € 2.691  | € 2.691  |
+| Special approval:<sup>6</sup>   – Per Low visibility procedure per type per approval:  ° CAT II (E1)  ° CAT III A or B or C (E2 t/m E4)  ° Take off below specified minima (E5)  ° Lower than CAT I  ° Other than Standard CAT II  ° Approaches utilising EVS  | --- | --- | € 1.198  | € 1.198  |
 | – MNPS (E6) per type  | --- | --- | € 1.614  | € 1.614  |
 | – RNP (E10) per type  | --- | --- | € 1.614  | € 1.614  |
 | – RNAV<sup>7</sup>(E8) per type  | --- | --- | € 1.198  | € 1.198  |
 | – ETOPS (E7) per type  | --- | --- | € 1.796  | € 1.796  |
 | – RVSM (E9) per type  | --- | --- | € 599  | € 599  |
 | – Gevaarlijke stoffen (E11)  | --- | --- | € 1.087  | € 1.087  |
-| – Helicopter offshore operations (E12)  | --- | --- | € 1.796  | --- |
-| – Helicopter Hoist operations (E13)  | --- | --- | € 1.196  | --- |
+| – Helicopter offshore operations per type (E12)  | --- | --- | € 1.796  | --- |
+| – Helicopter Hoist operations per type (E13)  | --- | --- | € 1.196  | --- |
+| – Helicopter night vision imaging system operation (NVIS)  | --- | --- | € 1.796  | --- |
 | – Cabin crew initial training authorisation per type (delivering of attestation) (E14)  | --- | --- | € 1.856  | € 1.856  |
 | Overige acceptaties en goedkeuringen (‘acceptances and approvals’):  |
-| – Approval & Acceptance process  | --- | € 538  | € 1.077  | € 1.077  |
+| – Approval & Acceptance process or process for changes not requiring prior approval  | --- | € 538  | € 1.077  | € 1.077  |
 | – Electronic Flight Bag per type  | --- | --- | € 2.153  | € 2.153  |
 | – Steep approach per type/runway  | --- | --- | € 1.614  | € 1.614  |
 | User approval per synthetisch trainingstoestel  | --- | --- | € 428  | € 428  |
-| Alternative training and qualification programme  | --- | --- | € 4.306  | € 4.306  |
+| Alternative training and qualification programme per type  | --- | --- | € 4.306  | € 4.306  |
 | – Other self-supporting operational control than home base<sup>8</sup>:  ° binnen Nederland  ° binnen Europa  ° buiten Europa  | --- | € 1.077  € 2.153  € 3.229  | € 1.077  € 2.153  € 3.229  | € 1.077  € 2.153  € 3.229  |
-| Ontheffing / afwijking per besluit < 2 maanden<sup>9</sup>  | € 299  | € 299  | € 299  | € 299  |
-| Ontheffing / afwijking per besluit > 2 maanden<sup>9</sup>  | € 1.428  | € 1.428  | € 1.428  | € 1.428  |
-| Goedkeuring wet lease-out<sup>10</sup>  | --- | --- | € 404  | € 404  |
+| Ontheffing/afwijking per besluit < 2 maanden<sup>9</sup>   | € 299  | € 299  | € 299  | € 299  |
+| Ontheffing/afwijking per besluit > 2 maanden<sup>9</sup>   | € 1.428  | € 1.428  | € 1.428  | € 1.428  |
+| Goedkeuring wet lease-out<sup>10</sup>   | --- | --- | € 404  | € 404  |
 
-<sup>1</sup>Voor een AtoB operatie is de vliegmaatschappij ook in het bezit van een CAMO als bedoeld in artikel 18 en een exploitatievergunning als bedoeld in artikel 19.<sup>2</sup> Voor de 'eerste afgifte AOC' is inbegrepen: beoordeling en goedkeuring van de managementorganisatie en veiligheids- en kwaliteitsorganisatie; beoordeling en goedkeuring van het Operations Manual (OM) (Part A, B, C en D); bijschrijving van 1 vliegtuig/helikopter (class/type) inclusief bijbehorende trainingsprogramma's en 1 registratie luchtvaartuig; beoordeling en goedkeuring van kwalificatie van management- en overige stafleden; 1 area of operation (voor ‘AtoA/VFR only’ geldt: AMS FIR only). Special approvals en Overige approvals & acceptances, als benoemd in bovenstaande tabel, zijn niet inbegrepen.<sup>3</sup> Het tarief geldt bij gebruik van het ILT specimen handboek. Indien geen gebruik wordt gemaakt van het ILT specimen handboek dan geldt een tarief van € 7.896.<sup>4</sup> Het tarief geldt bij gebruik van het ILT specimen handboek. Indien geen gebruik wordt gemaakt van het ILT specimen handboek dan geldt een tarief van € 8.554.<sup>5</sup> Inclusief: bijschrijven van 1 registratie luchtvaartuig en de beoordeling en goedkeuring van relevante paragrafen in het Operations Manual en trainingsprogramma.Onder ‘class’ wordt verstaan een luchtvaartuig per manufacturer/model/series. <sup>6</sup> Het gaat hier om de beoordeling en goedkeuring van relevante paragrafen in het OM en waar van toepassing het trainingsprogramma (mede indien van toepassing een praktijkcheck). Waar gesproken wordt over Area of Operation, wordt bedoeld de regio's waar de aanvrager voornemens is te gaan vliegen.<sup>7</sup> Onder RNAV wordt verstaan PRNAV of BRNAV.<sup>8</sup> Onder 'self-supporting operational control' wordt verstaan een station waar vanaf de volledige vluchtvoorbereiding en begeleiding plaatsvindt.<sup>9</sup> Voor verzoeken tot ontheffing en/of afwijking wordt het proces gevolgd zoals vastgelegd in artikel 8, tweede en derde lid, van verordening (EG) nr. 3922/91.<sup> 10</sup> Het tarief is van toepassing op afwijkende wet-lease out operaties zoals beschreven in de AIC-B inzake het leasebeleid.  
+<sup>1</sup> Voor een AtoB operatie is de vliegmaatschappij ook in het bezit van een CAMO als bedoeld in artikel 18 en een exploitatievergunning als bedoeld in artikel 19.  <sup>2</sup> Voor de ‘eerste afgifte AOC’ is inbegrepen: beoordeling en goedkeuring van de managementorganisatie en veiligheids- en kwaliteitsorganisatie; beoordeling en goedkeuring van het Operations Manual (OM) (Part A, B, C en D); bijschrijving van 1 vliegtuig/helikopter (class/type) inclusief bijbehorende trainingsprogramma’s en 1 registratie luchtvaartuig; beoordeling en goedkeuring van kwalificatie van management- en overige stafleden; 1 area of operation (voor ‘AtoA/VFR only’ geldt: AMS FIR only). Special approvals en Overige approvals & acceptances, als benoemd in bovenstaande tabel, zijn niet inbegrepen.  <sup>3</sup> Het tarief geldt bij gebruik van het ILT specimen handboek. Indien geen gebruik wordt gemaakt van het ILT specimen handboek dan geldt een tarief van € 7.896.  <sup>4</sup> Het tarief geldt bij gebruik van het ILT specimen handboek. Indien geen gebruik wordt gemaakt van het ILT specimen handboek dan geldt een tarief van € 8.554.  <sup>5</sup> Inclusief: bijschrijven van 1 registratie luchtvaartuig en de beoordeling en goedkeuring van relevante paragrafen in het Operations Manual en trainingsprogramma. Onder ‘class’ wordt verstaan een luchtvaartuig per manufacturer/model/series.  <sup>6</sup> Het gaat hier om de beoordeling en goedkeuring van relevante paragrafen in het OM en waar van toepassing het trainingsprogramma (mede indien van toepassing een praktijkcheck). Waar gesproken wordt over Area of Operation, wordt bedoeld de regio’s waar de aanvrager voornemens is te gaan vliegen.  <sup>7</sup> Onder RNAV wordt verstaan PRNAV of BRNAV.  <sup>8</sup> Onder ‘self-supporting operational control’ wordt verstaan een station waar vanaf de volledige vluchtvoorbereiding en begeleiding plaatsvindt.  <sup>9</sup> Voor verzoeken tot ontheffing en/of afwijking wordt het proces gevolgd zoals vastgelegd in artikel 8, tweede en derde lid, van verordening (EG) nr. 3922/91.  <sup>10</sup> Het tarief is van toepassing op afwijkende wet-lease out operaties zoals beschreven in de AIC-B inzake het leasebeleid.  
 2.  Voor de behandeling van een aanvraag wijziging van een vergunning tot vluchtuitvoering (AOC) inclusief de documenten die daartoe behoren, zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
 
-| Wijzigingen  | SP/SE vliegtuigen en SP/SE helikopters: AtoA, VFR day only  | SP/SE vliegtuigen en SP/SE helikopters: AtoB, VFR day only<sup>1</sup>  | ME vliegtuigen (class A of C, AtoB, < 19 pax, inclusief zelfde vliegtuigtype, maar dan alleen geschikt voor vracht) en ME helikopters<sup>1</sup>  | ME vliegtuigen (class A of C, AtoB, > 19 pax, inclusief zelfde vliegtuigtype, maar dan alleen geschikt voor vracht<sup>1</sup>  |
+| Wijzigingen  | SP/SE vliegtuigen en SP/SE helikopters: AtoA, VFR day only  | SP/SE vliegtuigen en SP/SE helikopters: AtoB, VFR day only<sup>1</sup>   | ME vliegtuigen (class A of C, AtoB, < 19 pax, inclusief zelfde vliegtuigtype, maar dan alleen geschikt voor vracht) en ME helikopters<sup>1</sup>   | ME vliegtuigen (class A of C, AtoB, > 19 pax, inclusief zelfde vliegtuigtype, maar dan alleen geschikt voor vracht<sup>1</sup>   |
 |:---|:---|:---|:---|:---|
 | Pax (A1)  | € 538  | € 538  | € 538  | € 2.253  |
-| Overgang van AOC AtoA naar een AOC AtoB (9)  | --- | --- | --- | --- |
+| Overgang van AOC AtoA naar een AOC AtoB<sup>9</sup>   | --- | --- | --- | --- |
 | Cargo (A2)  | --- | € 404  | € 538  | € 807  |
-| Emergency Medical Service (A3)  | --- | € 807  | € 1.614  | € 1.614  |
-| Helicopter Emergency Medical Service (A3)  | --- | --- | € 1.796  | --- |
+| Emergency Medical Service per type (A3)  | --- | € 807  | € 1.614  | € 1.614  |
+| Helicopter Emergency Medical Service per type (A3)  | --- | --- | € 1.796  | --- |
 | VFR night per class/type (D2)  | --- | € 269  | € 269  | --- |
 | IFR per class/type  | --- | € 538  | € 538  | --- |
 | Bijschrijving:  | --- | --- | --- | --- |
-| – Extra class / type<sup>2</sup>  | € 807  | € 807  | € 4.037  | € 8.073  |
+| – Extra class/type<sup>2</sup>   | € 807  | € 807  | € 4.037  | € 8.073  |
 | – Extra luchtvaartuig: Registratie van aangevraagde class/type per dag  | € 67  | € 67  | € 141  | € 141  |
-| – Bijschrijving luchtvaartuig:  registratie per dag, binnen bestaand type<sup>2</sup>  | € 141  | € 141  | € 404  | € 404  |
+| – Bijschrijving luchtvaartuig: registratie per dag, binnen bestaand type<sup>2</sup>   | € 141  | € 141  | € 404  | € 404  |
 | – Extra registratie per dag  | € 67  | € 67  | € 141  | € 141  |
-| Afschrijving class / type<sup>3</sup>  | € 269  | € 269  | € 571  | € 571  |
-| Afschrijving luchtvaartuig:  Registratie per dag  | € 141  | € 141  | € 269  | € 269  |
+| Afschrijving class/type<sup>3</sup>   | € 269  | € 269  | € 571  | € 571  |
+| Afschrijving luchtvaartuig: Registratie per dag  | € 141  | € 141  | € 269  | € 269  |
 | Dry lease out per dag  | --- | --- | € 428  | € 428  |
 | Toeslag dry lease in (goedkeuring)  | --- | --- | € 142  | € 142  |
-| – Area of operation (per area)<sup>4</sup>  | --- | € 538  | € 538  | € 538  |
-| – Area of operation world wide in 1 aanvraag<sup>4</sup>  | --- | € 2.691  | € 2.691  | € 2.691  |
-| Special approval:<sup>4</sup>  – Per Low visibility  procedure per type per approval:  ° CAT II (E1)  ° CAT III A or B or C  (E2 t/m E4)  ° Take Off below  specified minima (E5)  ° Lower than CAT I  ° Other than Standard  CAT II  ° Approaches utilising  EVS  | --- | --- | € 1.198  | € 1.198  |
+| – Area of operation (per area)<sup>4</sup>   | --- | € 538  | € 538  | € 538  |
+| – Area of operation world wide in 1 aanvraag<sup>4</sup>   | --- | € 2.691  | € 2.691  | € 2.691  |
+| Special approval:<sup>4</sup>   – Per Low visibility procedure per type per approval:  º CAT II (E1)  º CAT III A or B or C (E2 t/m E4)  º Take Off below specified minima (E5)  º Lower than CAT I  º Other than Standard CAT II  º Approaches utilising EVS  | --- | --- | € 1.198  | € 1.198  |
 | – MNPS (E6), per type  | --- | --- | € 1.614  | € 1.614  |
 | – RNP (E10), per type  | --- | --- | € 1.614  | € 1.614  |
-| – RNAV<sup>5</sup> (E8), per type  | --- | --- | € 1.198  | € 1.198  |
+| – RNAV<sup>5</sup>(E8), per type  | --- | --- | € 1.198  | € 1.198  |
 | – ETOPS (E7), per type  | --- | --- | € 1.796  | € 1.796  |
 | – RVSM (E9), per type  | --- | --- | € 599  | € 599  |
 | – Gevaarlijke stoffen (E11)  | --- | --- | € 599  | € 599  |
-| – Helicopter Offshore operations (E12)  | --- | --- | € 1.713  | --- |
-| – Helicopter Hoist operations (E13)  | --- | --- | € 1.198  | --- |
+| – Helicopter Offshore operations per type (E12)  | --- | --- | € 1.713  | --- |
+| – Helicopter Hoist operations per type (E13)  | --- | --- | € 1.198  | --- |
+| – Helicopter night vision imaging system operation (NVIS)  | --- | --- | € 1.796  | --- |
 | – Cabin crew initial training authorisation per type (delivering of attestation) (E14)  | --- | --- | € 1.856  | € 1.856  |
-| Acceptaties en goedkeuringen (‘acceptances and approvals’)<sup>4</sup>  |
-| – Approval & Acceptance process  | --- | € 538  | € 1.077  | € 1.077  |
+| Acceptaties en goedkeuringen (‘acceptances and approvals’)<sup>4</sup>   |
+| – Approval & Acceptance process or process for changes not requiring prior approval  | --- | € 538  | € 1.077  | € 1.077  |
 | – MEL revisie per type  | € 135  | € 135  | € 672  | € 672  |
 | – Electronic Flight Bag per type, inclusief handboekwijziging  | --- | --- | € 2.153  | € 2.153  |
 | – Steep approach per type/runway, inclusief handboekwijziging  | --- | --- | € 1.614  | € 1.614  |
 | – User approval per synthetisch trainingstoestel  | --- | --- | € 428  | € 428  |
-| – Alternative training and qualification programme  | --- | --- | € 4.306  | € 4.306  |
-| – Other self-supporting  operational control than home base<sup>6</sup>  ° binnen Nederland  ° binnen Europa  ° buiten Europa  | --- | € 1.077  € 2.153  € 3.230  | € 1.077  € 2.153  € 3.230  | € 1.077  € 2.153  € 3.230  |
-| Organisaties met goedgekeurd Approval & Acceptance process:  Goedkeuring / acceptatie handboekrevisie per sub deel van het OM (per wijzigingsaanvraag)<sup>7</sup>  | --- | --- | € 283  | € 424  |
-| Organisaties zonder goedgekeurd Approval & Acceptance process:  Goedkeuring / acceptatie handboekrevisie per sub deel van het OM (per wijzigingsaanvraag)<sup>7</sup>  | € 141  | € 141  | € 424  | € 749  |
-| Goedkeuring / acceptatie trainingsprogramma, of type kwalificatie programma per class/ type, per programma  | € 135  | € 135  | € 404  | € 404  |
-| Goedkeuring / acceptatie personen (AM, QM en PH’s), per persoon  | € 135  | € 135  | € 404  | € 404  |
-| Goedkeuring / acceptatie overige stafleden, per persoon  | € 135  | € 135  | € 135  | € 135  |
-| Wijziging operator naam en / of principal place of business  | € 135  | € 135  | € 135  | € 135  |
-| Goedkeuring wet lease (in- en out)<sup>10</sup>  | --- | --- | € 404  | € 404  |
-| Ontheffing / afwijking per besluit < 2 maanden<sup>8</sup>  | € 299  | € 299  | € 299  | € 299  |
-| Ontheffing / afwijking per besluit > 2 maanden<sup>8</sup>  | € 1.428  | € 1.428  | € 1.428  | € 1.428  |
+| – Alternative training and qualification programme per type  | --- | --- | € 4.306  | € 4.306  |
+| – Other self-supporting operational control than home base<sup>6</sup>   º binnen Nederland  º binnen Europa  º buiten Europa  | --- | € 1.077  € 2.153  € 3.230  | € 1.077  € 2.153  € 3.230  | € 1.077  € 2.153  € 3.230  |
+| Organisaties met goedgekeurd Approval & Acceptance process or process for changes not requiring prior approval:  Goedkeuring/acceptatie handboekrevisie per sub deel van het OM (per wijzigingsaanvraag)<sup>7</sup>   | --- | --- | € 283  | € 424  |
+| Organisaties zonder goedgekeurd Approval & Acceptance process or process for changes not requiring prior approval:  Goedkeuring/acceptatie handboekrevisie per sub deel van het OM (per wijzigingsaanvraag)<sup>7</sup>   | € 141  | € 141  | € 424  | € 749  |
+| Goedkeuring/acceptatie trainingsprogramma, of type kwalificatie programma per class/type, per programma  | € 135  | € 135  | € 404  | € 404  |
+| Goedkeuring/acceptatie personen (AM, QM of CM, en PH’s of nominated persons), per persoon  | € 135  | € 135  | € 404  | € 404  |
+| Goedkeuring/acceptatie overige stafleden, per persoon  | € 135  | € 135  | € 135  | € 135  |
+| Wijziging operator naam en/of principal place of business  | € 135  | € 135  | € 135  | € 135  |
+| Goedkeuring wet lease (in- en out)<sup>10</sup>   | --- | --- | € 404  | € 404  |
+| Ontheffing/afwijking per besluit < 2 maanden<sup>8</sup>   | € 299  | € 299  | € 299  | € 299  |
+| Ontheffing/afwijking per besluit > 2 maanden<sup>8</sup>   | € 1.428  | € 1.428  | € 1.428  | € 1.428  |
 | Overige wijzigingen, per besluit  | € 269  | € 269  | € 269  | € 269  |
 
-<sup>1</sup> Voor een AtoB operatie is de vliegmaatschappij ook in het bezit van een CAMO als bedoeld in artikel 18 en een exploitatievergunning als bedoeld in artikel 19.<sup>2</sup> Inclusief: bijschrijven van 1 registratie luchtvaartuig en de beoordeling en goedkeuring van relevante paragrafen in het Operations Manual (OM) en trainingsprogramma.<sup>3</sup> Inclusief: afschrijven van laatste luchtvaartuig(en) registratie(s) en de beoordeling en goedkeuring van relevante paragrafen in het OM.<sup>4</sup> Het gaat hier om de beoordeling en goedkeuring van relevante paragrafen in het OM en waar van toepassing het trainingsprogramma (mede indien van toepassing een praktijkcheck). Waar gesproken wordt over Area of Operation, wordt bedoeld de regio's waar de aanvrager voornemens is te gaan vliegen.<sup> 5</sup> Onder RNAV wordt verstaan PRNAV of BRNAV.<sup> 6</sup> Onder 'self-supporting operational control' wordt verstaan een station waar vanaf de volledige vluchtvoorbereiding en begeleiding plaatsvindt.<sup> 7</sup> Hieronder wordt verstaan alle operationele boekwerken die een afgeleide zijn van het OM (bv. OM A, OM A 1, OM B, OM C, OM D, Cabin Crew Manual, Station Manual, Quality Manual, etc) met uitzondering van de beoordeling en goedkeuring van MEL, Electronic Flight Bag, Steep approach, user approval process, Alternative Training and Qualification Programme and other self-supporting operational control than home.<sup>8</sup> Voor verzoeken tot ontheffing en/of afwijking wordt het proces gevolgd als vastgelegd in artikel 8, tweede en derde lid, van verordening (EG) nr. 3922/91.<sup> 9</sup> Voor de overgang naar een hogere klasse wordt het verschil in basistarief getarifeerd. Verder geldt dan de toelichting als gesteld in artikel 17, eerste lid, onder noot 2.<sup>10</sup> Het tarief geldt voor wet lease-in waarvoor voorafgaande goedkeuring is vereist en voor afwijkende wet-lease out operaties zoals beschreven in de AIC-B 05/10 inzake het leasebeleid. 
+<sup>1</sup> Voor een AtoB operatie is de vliegmaatschappij ook in het bezit van een CAMO als bedoeld in artikel 18 en een exploitatievergunning als bedoeld in artikel 19.  <sup>2</sup> Inclusief: bijschrijven van 1 registratie luchtvaartuig en de beoordeling en goedkeuring van relevante paragrafen in het Operations Manual (OM) en trainingsprogramma.  <sup>3</sup> Inclusief: afschrijven van laatste luchtvaartuig(en) registratie(s) en de beoordeling en goedkeuring van relevante paragrafen in het OM.  <sup>4</sup> Het gaat hier om de beoordeling en goedkeuring van relevante paragrafen in het OM en waar van toepassing het trainingsprogramma (mede indien van toepassing een praktijkcheck). Waar gesproken wordt over Area of Operation, wordt bedoeld de regio’s waar de aanvrager voornemens is te gaan vliegen.  <sup>5</sup> Onder RNAV wordt verstaan PRNAV of BRNAV.  <sup>6</sup> Onder ‘self-supporting operational control’ wordt verstaan een station waar vanaf de volledige vluchtvoorbereiding en begeleiding plaatsvindt.  <sup>7</sup> Hieronder wordt verstaan alle operationele boekwerken die een afgeleide zijn van het OM (bv. OM A, OM A 1, OM B, OM C, OM D, Cabin Crew Manual, Station Manual, Quality Manual, etc) met uitzondering van de beoordeling en goedkeuring van MEL, Electronic Flight Bag, Steep approach, user approval process, Alternative Training and Qualification Programme and other self-supporting operational control than home.  <sup>8</sup> Voor verzoeken tot ontheffing en/of afwijking wordt het proces gevolgd als vastgelegd in artikel 8, tweede en derde lid, van verordening (EG) nr. 3922/91.  <sup>9</sup> Voor de overgang naar een hogere klasse wordt het verschil in basistarief getarifeerd. Verder geldt dan de toelichting als gesteld in artikel 17, eerste lid, onder noot 2.  <sup>10</sup> Het tarief geldt voor wet lease-in waarvoor voorafgaande goedkeuring is vereist en voor afwijkende wet-lease out operaties zoals beschreven in de AIC-B 05/10 inzake het leasebeleid. 
 
 ### Artikel  18  
 
-1.  Voor de behandeling van een aanvraag voor de eerste afgifte van een CAMO-erkenning als bedoeld in [artikel 17, eerste lid, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), al dan niet behorende bij een vergunning tot vluchtuitvoering/AOC, zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 1) en een aanvullend tarief (tabel 2):  Tabel 1 
+1.  Voor de behandeling van een aanvraag voor de eerste afgifte van een CAMO-erkenning als bedoeld in artikel 17, eerste lid, van het Besluit luchtvaartuigen 2008, al dan niet behorende bij een vergunning tot vluchtuitvoering/AOC, zijn de volgende vaste tarieven verschuldigd, bestaande uit een basistarief (tabel 1) en een aanvullend tarief (tabel 2):  Tabel 1 
 
 | Omschrijving  | Eerste afgifte  |
 |:---|:---|
@@ -667,13 +687,13 @@ Tabel 2
 | Goedkeuring wijziging bedrijfshandboek CAMO luchtvaartuigen ≤ 5.700 kg.  Bijschrijven van een type luchtvaartuig binnen een ’group-rating’.  | € 471  |
 | Alle overige acceptaties en goedkeuringen (‘acceptances and approvals’, zoals accepteren sleutelfunctionarissen, doorhalingen op de vergunning)  | € 115  |
 
-3.  Voor de behandeling van een aanvraag voor de eerste afgifte en de herafgifte van een erkenning voor een onderhoudsmanagement bedrijf ingevolge [artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) zijn de volgende vaste tarieven verschuldigd:  Tabel 4 
+3.  Voor de behandeling van een aanvraag voor de eerste afgifte en de herafgifte van een erkenning voor een onderhoudsmanagement bedrijf ingevolge artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008 zijn de volgende vaste tarieven verschuldigd:  Tabel 4 
 
 | Omschrijving  | Eerste afgifte  | Herafgifte  |
 |:---|:---|:---|
 | Nationale erkenning  | € 13.714  | € 269  |
 
-4.  Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning voor een onderhoudsmanagement bedrijf ingevolge [artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) gebaseerd op een reeds in bezit zijnde CAMO-erkenning zijn de volgende vaste tarieven verschuldigd:  Tabel 5 
+4.  Voor de behandeling van een aanvraag voor de eerste afgifte van een erkenning voor een onderhoudsmanagement bedrijf ingevolge artikel 17, eerste lid, onderdeel f, van het Besluit luchtvaartuigen 2008 gebaseerd op een reeds in bezit zijnde CAMO-erkenning zijn de volgende vaste tarieven verschuldigd:  Tabel 5 
 
 | Omschrijving  | Vaste bedragen afhankelijk van het gewicht  |
 |:---|:---|
@@ -682,14 +702,14 @@ Tabel 2
 
 ###Artikel 19 
 
-Voor de behandeling van een aanvraag voor de eerste afgifte (tabel 1) en de wijziging (tabel 2) van een vergunning tot luchtvervoer ingevolge [artikel 16 van de Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), betreffende de exploitatievergunning, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
+Voor de behandeling van een aanvraag voor de eerste afgifte (tabel 1) en de wijziging (tabel 2) van een vergunning tot luchtvervoer ingevolge artikel 16 van de Luchtvaartwet, betreffende de exploitatievergunning, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
 
 | Omschrijving  | Eerste afgifte  |
 |:---|:---|
-| Exploitatievergunning ([artikel 16a Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md)):  | --- |
+| Exploitatievergunning (artikel 16a Luchtvaartwet):  | --- |
 | – Kleine typen luchtvaartuigen (minder dan 10 ton maximale startmassa en/of minder dan 20 stoelen aanwezig)  | € 2.854  |
 | – Grote typen luchtvaartuigen (vanaf 10 ton maximale startmassa en/of vanaf 20 stoelen aanwezig)  | € 7.486  |
-| – Exploitatievergunning ([artikel 16b Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md))  | € 142  |
+| – Exploitatievergunning (artikel 16b Luchtvaartwet)  | € 142  |
 
 Tabel 2 
 
@@ -706,15 +726,15 @@ Tabel 2
 ### Artikel  20  
 
 1. 
-a.Voor de behandeling van een aanvraag voor de afgifte of de verlenging van een erkenning ingevolge [artikel 2 van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht](../../../../../../ministeriele-regeling/regeling/erkenningen/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0014764/README.md) is een vast tarief van € 603 verschuldigd.
+a.Voor de behandeling van een aanvraag voor de afgifte of de verlenging van een erkenning ingevolge artikel 2 van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht is een vast tarief van € 603 verschuldigd.
 
-b.Voor de behandeling van de wijziging van een erkenning ingevolge [artikel 2 van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht](../../../../../../ministeriele-regeling/regeling/erkenningen/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0014764/README.md) is een vast tarief van € 288 verschuldigd.  
-2.  Voor de behandeling van een aanvraag voor de erkenning ingevolge [artikel 2 van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](../../../../../../ministeriele-regeling/regeling/erkenning/opleidingsinstellingen/en/examinering/vervoer/etc/BWBR0014765/README.md) is een vast tarief van € 3.216 verschuldigd.   
-3.  Voor de behandeling van de wijziging van een erkenning ingevolge [artikel 7 van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](../../../../../../ministeriele-regeling/regeling/erkenning/opleidingsinstellingen/en/examinering/vervoer/etc/BWBR0014765/README.md) is een vast tarief van € 288 verschuldigd.  
+b.Voor de behandeling van de wijziging van een erkenning ingevolge artikel 2 van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht is een vast tarief van € 288 verschuldigd.  
+2.  Voor de behandeling van een aanvraag voor de erkenning ingevolge artikel 2 van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht is een vast tarief van € 3.216 verschuldigd.   
+3.  Voor de behandeling van de wijziging van een erkenning ingevolge artikel 7 van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht is een vast tarief van € 288 verschuldigd.  
 
 ### Artikel  22  
 
-1. Voor de behandeling van een aanvraag voor de eerste afgifte van een certificaat als bedoeld in [artikel 8a.2, eerste lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) zijn de volgende vaste tarieven verschuldigd, met uitzondering van de eerste afgifte van een certificaat voor de luchthaven Schiphol: Tabel 1 
+1. Voor de behandeling van een aanvraag voor de eerste afgifte van een certificaat als bedoeld in artikel 8a.2, eerste lid, van de Wet luchtvaart zijn de volgende vaste tarieven verschuldigd, met uitzondering van de eerste afgifte van een certificaat voor de luchthaven Schiphol: Tabel 1 
 
 | Omschrijving  | Afgifte (verschuldigd in het jaar van afgifte of herafgifte)  |
 |:---|:---|
@@ -723,7 +743,15 @@ b.Voor de behandeling van de wijziging van een erkenning ingevolge [artikel 2 v
 | – Certificaat voor kleine luchthavens van regionaal belang  | € 5.387  |
 | – Certificaat voor burgermedegebruik van de militaire luchthavens Eindhoven en Den Helder door tussenkomst van een burgerexploitant  | € 24.937  |
 
-2.  Voor de behandeling van een aanvraag voor wijziging van een certificaat als bedoeld in het eerste lid zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
+2.  Voor de behandeling van een aanvraag voor de afgifte van een certificaat als bedoeld in artikel 8a van de basisverordening zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
+
+| Omschrijving  | Afgifte (verschuldigd in het jaar van afgifte)  |
+|:---|:---|
+| – Certificaat voor luchthaven Schiphol  | € 122.976  |
+| – Certificaat voor de luchthavens Rotterdam Airport, Groningen Eelde Airport, Maastricht Aachen Airport en Lelystad Airport  | € 24.937  |
+| – Certificaat voor luchthavens van regionale betekenis  | € 5.387  |
+
+3.  Voor de behandeling van een aanvraag voor wijziging van een certificaat als bedoeld in het eerste en tweede lid zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
 
 | Omschrijving  |--- |
 |:---|:---|
@@ -740,27 +768,41 @@ b.Voor de behandeling van de wijziging van een erkenning ingevolge [artikel 2 v
 
 1.  Voor de behandeling van een aanvraag om ontheffing te verlenen van het verbod als bedoeld in: 
 
-a. [artikel 3.8, eerste lid, onderdeel a, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) om de luchtvaart uit te oefenen met een luchtvaartuig, dat niet luchtwaardig is, is een vast tarief verschuldigd € 206 voor luchtvaartuigen lichter dan 5700 kg en € 845 voor luchtvaartuigen zwaarder dan 5700 kg ;  
+a. artikel 3.8, eerste lid, onderdeel a, van de Wet luchtvaart om de luchtvaart uit te oefenen met een luchtvaartuig, dat niet luchtwaardig is, zijn de volgende vaste tarieven verschuldigd: 
 
-b. [artikel 3.8, eerste lid, onderdeel b, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) om de luchtvaart uit te oefenen met een luchtvaartuig dat niet is voorzien van een geldig bewijs van luchtwaardigheid, is een vast tarief verschuldigd van € 61;  
+1° € 206 voor helikopters ≤ 2.700 kg en voor overige luchtvaartuigen ≤ 5.700 kg; en  
 
-c. [artikel 16d, van de Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) om luchtvervoer te mogen uitvoeren zonder vergunning is een vast tarief verschuldigd van € 571;  
+2° € 845 voor helikopters > 2.700 kg en voor overige luchtvaartuigen > 5.700 kg;    
 
-d. de bij of krachtens [titel 6.5 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) gegeven regels inzake het vervoer van gevaarlijke stoffen of een wijziging van zulk een ontheffing als bedoeld in [artikel 6.58, eerste respectievelijk zesde lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is een vast tarief verschuldigd van € 1.608;  
+b. artikel 3.8, eerste lid, onderdeel b, van de Wet luchtvaart om de luchtvaart uit te oefenen met een luchtvaartuig dat niet is voorzien van een geldig bewijs van luchtwaardigheid, is een vast tarief verschuldigd van € 61;  
 
-e. [artikel 8.12 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) om objecten op te richten of te plaatsen waarvoor geen omgevingsvergunning voor een bouw- of aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a of b, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is vereist, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
+c. artikel 16d, van de Luchtvaartwet om luchtvervoer te mogen uitvoeren zonder vergunning is een vast tarief verschuldigd van € 571;  
+
+d. de bij of krachtens titel 6.5 van de Wet luchtvaart gegeven regels inzake het vervoer van gevaarlijke stoffen of een wijziging van zulk een ontheffing als bedoeld in artikel 6.58, eerste respectievelijk zesde lid, van de Wet luchtvaart is een vast tarief verschuldigd van € 1.608;  
+
+e. artikel 8.12 van de Wet luchtvaart om objecten op te richten of te plaatsen waarvoor geen omgevingsvergunning voor een bouw- of aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onder a of b, van de Wet algemene bepalingen omgevingsrecht is vereist, zijn de volgende vaste tarieven verschuldigd:  Tabel 1 
 
 | --- | --- |
 |:---|:---|
 | – Obstakel(s) beneden LIB veiligheidsvlakken (geen luchtvaarttechnische studie nodig)  | € 482  |
 | – Obstakel(s) door LIB veiligheidsvlakken (luchtvaarttechnische studie nodig) Certificaat voor luchthaven Schiphol  | € 1.423  |
 
-f. [artikel 1 van de Regeling modelvliegen](../../../../../../ministeriele-regeling/regeling/modelvliegen/BWBR0019147/README.md) is een vast tarief verschuldigd van € 60.    
-2.  Voor de behandeling van een aanvraag voor de afgifte van een vergunning ingevolge [artikel 17 van de Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) is een vast tarief verschuldigd van: 
+f. artikel 1 van de Regeling modelvliegen is een vast tarief verschuldigd van € 60.    
+2.  Voor de behandeling van een aanvraag voor de afgifte van een vergunning ingevolge artikel 17 van de Luchtvaartwet is een vast tarief verschuldigd van: 
 
 a. € 599 voor het houden van een luchtvaartvertoning,  
 
-b. € 14.274 voor het houden van een luchtvaartwedstrijd.    
+b. € 14.274 voor het houden van een luchtvaartwedstrijd.     
+3.  Voor de behandeling van een aanvraag voor de afgifte van een ontheffing als bedoeld in artikel 14, vierde lid, van de basisverordening, zijn de volgende vaste tarieven verschuldigd:  Tabel 2 
+
+| Omschrijving  |--- |--- |
+|:---|:---|:---|
+| Behandelingsduur aanvraag  | ≤ 5 uren  | > 5 uren additioneel per uur  |
+| t.a.v. luchtvaartuigen  – voor helikopters ≤ 2.700 kg en voor overige luchtvaartuigen ≤ 5.700 kg  – voor helikopters > 2.700 kg en voor overige luchtvaartuigen > 5.700 kg  | € 206  € 845  | € 135  € 135  |
+| t.a.v. overig  | € 845  | € 135  |
+
+4.  Voor de behandeling van een aanvraag tot afwijking als bedoeld in artikel 14, zesde lid, van de basisverordening is een vast tarief verschuldigd van € 845, tenzij de behandeling van de aanvraag meer dan 5 uur in beslag neemt. Voor elk volgend uur zal dan een uurprijs van € 135 gerekend worden additioneel aan het vaste tarief.   
+5.  Voor de behandeling van een aanvraag om gebruik te maken van een Alternative Acceptable Means of Compliance op grond van ORA.GEN.120 of ARA.GEN.120 van verordening (EU) nr. 1178/2011 en ORO.GEN.120 of ARO.GEN.120 van verordening (EU) nr. 965/2012 is een vast tarief verschuldigd van € 845, tenzij de behandeling van de aanvraag meer dan 5 uur in beslag neemt. Voor elk volgend uur zal dan een uurprijs van € 135 gerekend worden additioneel aan het vaste tarief. 
 
 ### Artikel  25  
 
@@ -784,7 +826,7 @@ f.ontheffing om luchtvervoer te mogen uitvoeren: 100%.
 
 ### Artikel  26  
 
-De [Regeling tarieven luchtvaart 2007](../../../../../../ministeriele-regeling/regeling/tarieven/luchtvaart/2007/BWBR0020735/README.md) wordt ingetrokken. 
+De Regeling tarieven luchtvaart 2007 wordt ingetrokken. 
 
 ### Artikel  27  
 
