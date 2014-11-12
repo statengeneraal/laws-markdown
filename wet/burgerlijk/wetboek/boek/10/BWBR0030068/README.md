@@ -85,7 +85,7 @@ Of een recht of rechtsvordering is verjaard of vervallen, wordt bepaald door het
 
 ### Artikel  17  
 
-1.  De persoonlijke staat van een vreemdeling aan wie een verblijfsvergunning als bedoeld in [artikel 28](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [artikel 33 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, van een vreemdeling aan wie een verblijfsdocument is afgegeven waarop een aantekening als bedoeld in [artikel 45c van die wet](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geplaatst, alsmede van een vreemdeling die een overeenkomstige verblijfsstatus in het buitenland heeft verkregen, wordt beheerst door het recht van zijn woonplaats, of, indien hij geen woonplaats heeft, door het recht van zijn verblijfplaats.   
+1.  De persoonlijke staat van een vreemdeling aan wie een verblijfsvergunning als bedoeld in artikel 28 of artikel 33 van de Vreemdelingenwet 2000 is verleend, van een vreemdeling aan wie een verblijfsdocument is afgegeven waarop een aantekening als bedoeld in artikel 45c van die wet is geplaatst, alsmede van een vreemdeling die een overeenkomstige verblijfsstatus in het buitenland heeft verkregen, wordt beheerst door het recht van zijn woonplaats, of, indien hij geen woonplaats heeft, door het recht van zijn verblijfplaats.   
 2.  De rechten welke deze vreemdeling vroeger heeft verkregen en welke uit de persoonlijke staat voortvloeien, in het bijzonder de rechten voortvloeiende uit het huwelijk, worden geëerbiedigd.  
 
 ### Titel  2  
@@ -112,12 +112,12 @@ Een persoon die de nationaliteit van meer dan een staat bezit, kan de ambtenaar 
 ### Artikel  22  
 
 1.  In geval van verandering van nationaliteit is het recht van de staat van de nieuwe nationaliteit van toepassing, daaronder begrepen de regels van dat recht betreffende de gevolgen van de nationaliteitsverandering voor de naam.   
-2.  De verkrijging van de Nederlandse nationaliteit door een vreemdeling brengt geen wijziging in diens geslachtsnaam en voornamen, behoudens artikel 25, onder b, van dit Boek en de [artikelen 6 lid 5](../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en [12 van de Rijkswet op het Nederlanderschap](../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).  
+2.  De verkrijging van de Nederlandse nationaliteit door een vreemdeling brengt geen wijziging in diens geslachtsnaam en voornamen, behoudens artikel 25, onder b, van dit Boek en de artikelen 6 lid 5 en 12 van de Rijkswet op het Nederlanderschap.  
 
 ### Artikel  23  
 
 1.  Indien de ambtenaar van de burgerlijke stand bij het opstellen van een akte waarin de geslachtsnaam en de voornamen van een vreemdeling moeten worden opgenomen het Nederlandse recht toepast omdat hij de inhoud van het recht dat op de vaststelling van die namen toepasselijk is niet kan vaststellen, deelt hij zijn beslissing onverwijld mede aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar de akte in de registers van de burgerlijke stand is opgenomen.   
-2.  De aldus opgemaakte akte kan met overeenkomstige toepassing van [artikel 24 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) op verzoek van iedere belanghebbende of op vordering van het openbaar ministerie worden verbeterd. Het verzoek van een belanghebbende wordt met toepassing van de Wet op de rechtsbijstand van rechtswege kosteloos behandeld.  
+2.  De aldus opgemaakte akte kan met overeenkomstige toepassing van artikel 24 van Boek 1 op verzoek van iedere belanghebbende of op vordering van het openbaar ministerie worden verbeterd. Het verzoek van een belanghebbende wordt met toepassing van de Wet op de rechtsbijstand van rechtswege kosteloos behandeld.  
 
 ### Artikel  24  
 
@@ -126,19 +126,19 @@ Een persoon die de nationaliteit van meer dan een staat bezit, kan de ambtenaar 
 
 ### Artikel  25  
 
-1.  Ter zake van de toepassing van [artikel 5 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) geldt het volgende: 
+1.  Ter zake van de toepassing van artikel 5 van Boek 1 geldt het volgende: 
 
-a. Indien een kind buiten Nederland rechtsgeldig is erkend of gewettigd, door deze erkenning of wettiging in familierechtelijke betrekkingen tot de erkenner is komen te staan en daarbij het Nederlanderschap heeft verkregen of behouden, en indien de geslachtsnaam van dat kind niet is bepaald met inachtneming van een naamskeuze in de zin van [artikel 5 lid 2 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), kunnen de moeder en de erkenner gezamenlijk alsnog, tot twee jaar na de erkenning of de wettiging, verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip van de erkenning of de wettiging de leeftijd van zestien jaren bereikt, dan kan het, tot twee jaar na de erkenning of de wettiging, zelf alsnog verklaren van wie van beide ouders het de geslachtsnaam zal hebben.  
+a. Indien een kind buiten Nederland rechtsgeldig is erkend of gewettigd, door deze erkenning of wettiging in familierechtelijke betrekkingen tot de erkenner is komen te staan en daarbij het Nederlanderschap heeft verkregen of behouden, en indien de geslachtsnaam van dat kind niet is bepaald met inachtneming van een naamskeuze in de zin van artikel 5 lid 2 van Boek 1, kunnen de moeder en de erkenner gezamenlijk alsnog, tot twee jaar na de erkenning of de wettiging, verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip van de erkenning of de wettiging de leeftijd van zestien jaren bereikt, dan kan het, tot twee jaar na de erkenning of de wettiging, zelf alsnog verklaren van wie van beide ouders het de geslachtsnaam zal hebben.  
 
 b. Indien een kind dat tijdens zijn minderjarigheid door een Nederlander is erkend of zonder erkenning door wettiging het kind van een Nederlander is geworden, door optie het Nederlanderschap verkrijgt en op het tijdstip van de optie tot zijn beide ouders in familierechtelijke betrekkingen staat, kunnen de ouders ter gelegenheid van de optie gezamenlijk verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip van de optie de leeftijd van zestien jaren bereikt, dan verklaart het zelf of het de geslachtsnaam van de vader of moeder zal hebben.  
 
-c. Indien een kind als gevolg van een buiten Nederland uitgesproken adoptie het Nederlanderschap heeft verkregen en indien de geslachtsnaam van dat kind na de adoptie niet is bepaald met inachtneming van een naamskeuze in de zin van [artikel 5 lid 3 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), kunnen de ouders alsnog, tot twee jaar nadat de uitspraak in kracht van gewijsde is gegaan, gezamenlijk verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip waarop de uitspraak in kracht van gewijsde gaat de leeftijd van zestien jaren bereikt, dan kan het, tot twee jaar na dat tijdstip, zelf alsnog verklaren of het de geslachtsnaam van de vader of de moeder zal hebben.  
+c. Indien een kind als gevolg van een buiten Nederland uitgesproken adoptie het Nederlanderschap heeft verkregen en indien de geslachtsnaam van dat kind na de adoptie niet is bepaald met inachtneming van een naamskeuze in de zin van artikel 5 lid 3 van Boek 1, kunnen de ouders alsnog, tot twee jaar nadat de uitspraak in kracht van gewijsde is gegaan, gezamenlijk verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip waarop de uitspraak in kracht van gewijsde gaat de leeftijd van zestien jaren bereikt, dan kan het, tot twee jaar na dat tijdstip, zelf alsnog verklaren of het de geslachtsnaam van de vader of de moeder zal hebben.  
 
-d. De in [artikel 5 lid 4 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde verklaring houdende naamskeuze kan voor de geboorte van het kind worden afgelegd indien ten minste een van de ouders op het tijdstip van de verklaring het Nederlanderschap bezit.  
+d. De in artikel 5 lid 4 van Boek 1 bedoelde verklaring houdende naamskeuze kan voor de geboorte van het kind worden afgelegd indien ten minste een van de ouders op het tijdstip van de verklaring het Nederlanderschap bezit.  
 
-e. Indien een buiten Nederland geboren kind door geboorte in familierechtelijke betrekking tot de beide ouders staat en het Nederlanderschap bezit, en indien de geslachtsnaam van dat kind in de geboorteakte niet is bepaald met inachtneming van een naamskeuze in de zin van [artikel 5 lid 4 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), kunnen de ouders gezamenlijk alsnog, tot twee jaar na de geboorte, verklaren welke van hun beider geslachtsnamen het kind zal hebben.  
+e. Indien een buiten Nederland geboren kind door geboorte in familierechtelijke betrekking tot de beide ouders staat en het Nederlanderschap bezit, en indien de geslachtsnaam van dat kind in de geboorteakte niet is bepaald met inachtneming van een naamskeuze in de zin van artikel 5 lid 4 van Boek 1, kunnen de ouders gezamenlijk alsnog, tot twee jaar na de geboorte, verklaren welke van hun beider geslachtsnamen het kind zal hebben.  
 
-f. Indien het ouderschap van een kind buiten Nederland rechtsgeldig is vastgesteld en dat kind daardoor het Nederlanderschap heeft verkregen of behouden, en indien de geslachtsnaam van dat kind na de vaststelling van het ouderschap niet is bepaald met inachtneming van een naamskeuze in de zin van [artikel 5, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), kunnen de moeder en de persoon wiens ouderschap gerechtelijk is vastgesteld alsnog, tot twee jaar na het tijdstip waarop de gerechtelijke beslissing houdende vaststelling van het ouderschap in kracht van gewijsde gaat, gezamenlijk verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip waarop de beslissing houdende vaststelling van het ouderschap in kracht van gewijsde gaat, de leeftijd van zestien jaar bereikt, dan kan het, tot twee jaar na dat tijdstip, zelf alsnog verklaren van wie van beide ouders het de geslachtsnaam zal hebben.  
+f. Indien het ouderschap van een kind buiten Nederland rechtsgeldig is vastgesteld en dat kind daardoor het Nederlanderschap heeft verkregen of behouden, en indien de geslachtsnaam van dat kind na de vaststelling van het ouderschap niet is bepaald met inachtneming van een naamskeuze in de zin van artikel 5, tweede lid, van Boek 1 van het Burgerlijk Wetboek, kunnen de moeder en de persoon wiens ouderschap gerechtelijk is vastgesteld alsnog, tot twee jaar na het tijdstip waarop de gerechtelijke beslissing houdende vaststelling van het ouderschap in kracht van gewijsde gaat, gezamenlijk verklaren welke van hun beider geslachtsnamen het kind zal hebben. Heeft het kind op het tijdstip waarop de beslissing houdende vaststelling van het ouderschap in kracht van gewijsde gaat, de leeftijd van zestien jaar bereikt, dan kan het, tot twee jaar na dat tijdstip, zelf alsnog verklaren van wie van beide ouders het de geslachtsnaam zal hebben.  
 
 g. Voor de in dit lid onder a – f bedoelde mogelijkheden tot naamskeuze is het onverschillig of het kind naast de Nederlandse nog een andere nationaliteit bezit.     
 2.  In het geval onder b wordt de verklaring houdende naamskeuze afgelegd ten overstaan van de ambtenaar van de burgerlijke stand van de gemeente waar de optie voor het Nederlanderschap in ontvangst wordt genomen. In de overige gevallen kan de verklaring houdende naamskeuze worden afgelegd ten overstaan van iedere ambtenaar van de burgerlijke stand.  
@@ -269,7 +269,7 @@ De gevolgen van het huwelijksvermogensregime ten aanzien van een rechtsbetrekkin
 
 ### Artikel  45  
 
-Een echtgenoot wiens huwelijksvermogensregime wordt beheerst door vreemd recht kan in het in [artikel 116 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde register een notariële akte doen inschrijven, inhoudende een verklaring dat het huwelijksvermogensregime niet wordt beheerst door het Nederlandse recht. 
+Een echtgenoot wiens huwelijksvermogensregime wordt beheerst door vreemd recht kan in het in artikel 116 van Boek 1 bedoelde register een notariële akte doen inschrijven, inhoudende een verklaring dat het huwelijksvermogensregime niet wordt beheerst door het Nederlandse recht. 
 
 ### Artikel  46  
 
@@ -282,7 +282,7 @@ Heeft een der echtgenoten door de toepassing op een buitenslands gelegen vermoge
 
 ### Artikel  48  
 
-[Artikel 92 lid 3 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op 
+Artikel 92 lid 3 van Boek 1 is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op 
 
 a. een echtgenoot wiens huwelijksvermogensregime wordt beheerst door Nederlands recht, of  
 
@@ -290,11 +290,11 @@ b. een echtgenoot op wie ingevolge artikel 46 van dit Boek verhaal mogelijk is.
 
 ### Artikel  50  
 
-[Artikel 131 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is ook van toepassing indien het huwelijksvermogensregime van de echtgenoten door een vreemd recht wordt beheerst. 
+Artikel 131 van Boek 1 is ook van toepassing indien het huwelijksvermogensregime van de echtgenoten door een vreemd recht wordt beheerst. 
 
 ### Artikel  51  
 
-Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens [artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding](../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md). 
+Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding. 
 
 ### Artikel  52  
 
@@ -361,7 +361,7 @@ Ongeacht de artikelen 57 en 58 van dit Boek wordt aan een in het buitenland tot 
 
 ### Artikel  60  
 
-1.  Het aangaan van een geregistreerd partnerschap in Nederland is onderworpen aan de bepalingen van [artikel 80a van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+1.  Het aangaan van een geregistreerd partnerschap in Nederland is onderworpen aan de bepalingen van artikel 80a van Boek 1.   
 2.  De bevoegdheid van elk van de partners om in Nederland een geregistreerd partnerschap aan te gaan wordt beheerst door het Nederlandse recht.   
 3.  Wat de vorm betreft kan een geregistreerd partnerschap in Nederland slechts rechtsgeldig worden aangegaan ten overstaan van de ambtenaar van de burgerlijke stand met inachtneming van het Nederlandse recht, behoudens de bevoegdheid van buitenlandse diplomatieke en consulaire ambtenaren om, in overeenstemming met de voorschriften van het recht van de door hen vertegenwoordigde staat, aan het aangaan van geregistreerde partnerschappen mede te werken indien geen der partijen uitsluitend of mede de Nederlandse nationaliteit bezit.  
 
@@ -467,7 +467,7 @@ De gevolgen van het partnerschapsvermogensregime ten aanzien van een rechtsbetre
 
 ### Artikel  79  
 
-Een partner wiens partnerschapsvermogensregime wordt beheerst door vreemd recht, kan in het in [artikel 116 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde register een notariële akte doen inschrijven, inhoudende een verklaring dat het partnerschapsvermogensregime niet wordt beheerst door het Nederlandse recht. 
+Een partner wiens partnerschapsvermogensregime wordt beheerst door vreemd recht, kan in het in artikel 116 van Boek 1 bedoelde register een notariële akte doen inschrijven, inhoudende een verklaring dat het partnerschapsvermogensregime niet wordt beheerst door het Nederlandse recht. 
 
 ### Artikel  80  
 
@@ -480,7 +480,7 @@ Heeft een der partners, door de toepassing op een buitenslands gelegen vermogens
 
 ### Artikel  82  
 
-[Artikel 92 lid 3 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op: 
+Artikel 92 lid 3 van Boek 1 is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op: 
 
 a. een partner wiens partnerschapsvermogensregime wordt beheerst door het Nederlandse recht, of  
 
@@ -488,11 +488,11 @@ b. een partner op wie ingevolge artikel 80 van dit Boek verhaal mogelijk is.
 
 ### Artikel  84  
 
-[Artikel 131 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is ook van toepassing indien het partnerschapsvermogensregime van de partners door een vreemd recht wordt beheerst. 
+Artikel 131 van Boek 1 is ook van toepassing indien het partnerschapsvermogensregime van de partners door een vreemd recht wordt beheerst. 
 
 ### Artikel  85  
 
-Of een partner bij beëindiging van het geregistreerd partnerschap met wederzijds goedvinden of door ontbinding recht heeft op een gedeelte van de door de andere partner opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het partnerschapsvermogensregime van de partners, behoudens het bepaalde in [artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding](../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md). 
+Of een partner bij beëindiging van het geregistreerd partnerschap met wederzijds goedvinden of door ontbinding recht heeft op een gedeelte van de door de andere partner opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het partnerschapsvermogensregime van de partners, behoudens het bepaalde in artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding. 
 
 ###Afdeling  5  
 
@@ -566,7 +566,7 @@ b. het op 2 oktober 1973 te ’s-Gravenhage tot stand gekomen Verdrag inzake de
 
 1.  Of familierechtelijke betrekkingen als bedoeld in artikel 92 van dit Boek in een gerechtelijke procedure tot gegrondverklaring van een ontkenning kunnen worden tenietgedaan, wordt bepaald door het recht dat ingevolge dat artikel op het bestaan van die betrekkingen toepasselijk is.   
 2.  Is volgens het in lid 1 bedoelde recht ontkenning niet of niet meer mogelijk, dan kan de rechter, indien zulks in het belang is van het kind en de ouders en het kind een daartoe strekkend gezamenlijk verzoek doen, een ander in artikel 92 van dit Boek genoemd recht toepassen, dan wel het recht toepassen van de staat van de gewone verblijfplaats van het kind ten tijde van de ontkenning of het Nederlandse recht.   
-3.  Ongeacht het ingevolge lid 1 of lid 2 toepasselijke recht is in de daar bedoelde gerechtelijke procedure [artikel 212 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) van toepassing.   
+3.  Ongeacht het ingevolge lid 1 of lid 2 toepasselijke recht is in de daar bedoelde gerechtelijke procedure artikel 212 van Boek 1 van toepassing.   
 4.  Of familierechtelijke betrekkingen tussen een kind en de met zijn moeder gehuwd of gehuwd geweest zijnde persoon of de persoon met wie zijn moeder door een geregistreerd partnerschap is verbonden of verbonden is geweest door een verklaring houdende ontkenning door de moeder ten overstaan van de ambtenaar van de burgerlijke stand kunnen worden tenietgedaan, wordt bepaald door het recht dat ingevolge artikel 92 van dit Boek op het bestaan van die betrekkingen toepasselijk is. Onverminderd de leden 1 en 2 kan een zodanige verklaring slechts worden afgelegd indien de met de moeder gehuwde of gehuwd geweest zijnde nog levende persoon respectievelijk de persoon met wie de moeder door een geregistreerd partnerschap is verbonden of de nog in levende zijn persoon met wie zij door een partnerschap verbonden is geweest erin toestemt en indien tegelijkertijd familierechtelijke betrekkingen tussen het kind en een andere persoon ontstaan of worden gevestigd.  
 
 ### Artikel  94  
@@ -668,7 +668,7 @@ Voor de toepassing van deze titel wordt onder het Haags Adoptieverdrag 1993 vers
 
 ### Artikel  104  
 
-Onverminderd het Haags Adoptieverdrag 1993, de Wet van 14 mei 1998 tot uitvoering van het op 29 mei 1993 te ’s-Gravenhage tot stand gekomen Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de inderlandelijke adoptie (Stb. 1998, 302) en de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md), wordt in deze titel onder adoptie verstaan de beslissing van een bevoegde autoriteit waarbij familierechtelijke betrekkingen tussen een minderjarig kind en twee personen tezamen of een persoon alleen tot stand worden gebracht. 
+Onverminderd het Haags Adoptieverdrag 1993, de Wet van 14 mei 1998 tot uitvoering van het op 29 mei 1993 te ’s-Gravenhage tot stand gekomen Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de inderlandelijke adoptie (Stb. 1998, 302) en de Wet opneming buitenlandse kinderen ter adoptie, wordt in deze titel onder adoptie verstaan de beslissing van een bevoegde autoriteit waarbij familierechtelijke betrekkingen tussen een minderjarig kind en twee personen tezamen of een persoon alleen tot stand worden gebracht. 
 
 ###Afdeling  2  
 
@@ -714,13 +714,13 @@ c. de erkenning van die beslissing kennelijk onverenigbaar is met de openbare or
 
 1.  Een buitenslands gegeven beslissing waarbij een adoptie tot stand is gekomen en die is uitgesproken door een ter plaatse bevoegde autoriteit van de staat waar het kind zowel ten tijde van het verzoek tot adoptie als ten tijde van de uitspraak zijn gewone verblijfplaats had, terwijl de adoptiefouders hun gewone verblijfplaats in Nederland hadden, wordt erkend indien: 
 
-a. de bepalingen van de [Wet opneming buitenlandse kinderen ter adoptie in acht](../../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) zijn genomen,  
+a. de bepalingen van de Wet opneming buitenlandse kinderen ter adoptie in acht zijn genomen,  
 
 b. de erkenning van de adoptie in het kennelijk belang van het kind is, en  
 
 c. erkenning niet op een grond, bedoeld in artikel 108 lid 2 of lid 3 van dit Boek, zou worden onthouden.     
-2.  Een adoptie als bedoeld in lid 1 wordt slechts erkend indien de rechter heeft vastgesteld dat aan de in dat lid genoemde voorwaarden voor erkenning is voldaan. Toepasselijk is de procedure van [artikel 26 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) .   
-3.  De rechter die vaststelt dat aan de voorwaarden voor erkenning van de adoptie is voldaan, geeft ambtshalve een last tot toevoeging van een latere vermelding van de adoptie aan de daarvoor in aanmerking komende akte van de burgerlijke stand. De [artikelen 25 lid 6](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [25c lid 3](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [25g lid 2 van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn van overeenkomstige toepassing.  
+2.  Een adoptie als bedoeld in lid 1 wordt slechts erkend indien de rechter heeft vastgesteld dat aan de in dat lid genoemde voorwaarden voor erkenning is voldaan. Toepasselijk is de procedure van artikel 26 van Boek 1 .   
+3.  De rechter die vaststelt dat aan de voorwaarden voor erkenning van de adoptie is voldaan, geeft ambtshalve een last tot toevoeging van een latere vermelding van de adoptie aan de daarvoor in aanmerking komende akte van de burgerlijke stand. De artikelen 25 lid 6, 25c lid 3 en 25g lid 2 van Boek 1 zijn van overeenkomstige toepassing.  
 
 ### Artikel  110  
 
@@ -735,7 +735,7 @@ c. de verbreking van de voordien bestaande familierechtelijke betrekkingen tusse
 
 ### Artikel  111  
 
-In het in artikel 110 lid 2 van dit Boek bedoelde geval kan, indien het kind in Nederland gewone verblijfplaats heeft en daar voor permanent verblijf bij de adoptiefouders is toegelaten, een verzoek tot omzetting in een adoptie naar Nederlands recht worden ingediend. [Artikel 11 lid 2 van de Wet tot uitvoering van het op 29 mei 1993 te ’s-Gravenhage tot stand gekomen Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie](../../../../../../wet/uitvoeringswet/verdrag/inzake/de/bescherming/van/kinderen/en/de/etc/BWBR0009614/README.md), is van overeenkomstige toepassing. Artikel 105 lid 2 van dit Boek is van overeenkomstige toepassing op de toestemming van de ouders wier toestemming tot de adoptie vereist was. 
+In het in artikel 110 lid 2 van dit Boek bedoelde geval kan, indien het kind in Nederland gewone verblijfplaats heeft en daar voor permanent verblijf bij de adoptiefouders is toegelaten, een verzoek tot omzetting in een adoptie naar Nederlands recht worden ingediend. Artikel 11 lid 2 van de Wet tot uitvoering van het op 29 mei 1993 te ’s-Gravenhage tot stand gekomen Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, is van overeenkomstige toepassing. Artikel 105 lid 2 van dit Boek is van overeenkomstige toepassing op de toestemming van de ouders wier toestemming tot de adoptie vereist was. 
 
 ###Afdeling  4  
 
@@ -761,7 +761,7 @@ a. het op 5 oktober 1961 te ’s-Gravenhage tot stand gekomen Verdrag betreffen
 
 b. de Verordening (EG) nr. 2201/2003 van de Raad van de Europese Unie van 27 november 2003 betreffende de bevoegdheid en de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van verordening (EG) nr. 1347/2000 (PbEU L 338), en  
 
-c. de [Uitvoeringswet internationale kinderbescherming](../../../../../../wet/uitvoeringswet/internationale/kinderbescherming/BWBR0019574/README.md).   
+c. de Uitvoeringswet internationale kinderbescherming.   
 
 ###Afdeling  2  
 
@@ -777,7 +777,7 @@ b. het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake d
 
 c. de in artikel 113, onder b, van dit Boek genoemde verordening, en  
 
-d. de [Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan](../../../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) (Stb. 1990, 202).   
+d. de Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan (Stb. 1990, 202).   
 
 ###Afdeling  3  
 
@@ -834,15 +834,15 @@ Indien een rechtspersoonlijkheid bezittende corporatie haar statutaire zetel ver
 
 ### Artikel  121  
 
-1.  In afwijking van de artikelen 118 en 119 van dit Boek zijn de [artikelen 138](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [149 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van toepassing dan wel van overeenkomstige toepassing op de aansprakelijkheid van bestuurders en commissarissen van een ingevolge artikel 118 of artikel 120 van dit Boek door buitenlands recht beheerste corporatie die in Nederland aan de heffing van vennootschapsbelasting onderworpen is, indien de corporatie in Nederland failliet wordt verklaard. Als bestuurders zijn eveneens aansprakelijk degenen die met de leiding van de in Nederland verrichte werkzaamheden zijn belast.   
+1.  In afwijking van de artikelen 118 en 119 van dit Boek zijn de artikelen 138 en 149 van Boek 2 van toepassing dan wel van overeenkomstige toepassing op de aansprakelijkheid van bestuurders en commissarissen van een ingevolge artikel 118 of artikel 120 van dit Boek door buitenlands recht beheerste corporatie die in Nederland aan de heffing van vennootschapsbelasting onderworpen is, indien de corporatie in Nederland failliet wordt verklaard. Als bestuurders zijn eveneens aansprakelijk degenen die met de leiding van de in Nederland verrichte werkzaamheden zijn belast.   
 2.  De rechtbank die het faillissement heeft uitgesproken is bevoegd tot de kennisneming van alle vorderingen uit hoofde van lid 1.  
 
 ### Artikel  122  
 
-1.  Het openbaar ministerie kan de rechtbank te Utrecht verzoeken voor recht te verklaren dat het doel of de werkzaamheid van een corporatie die niet is een Nederlandse rechtspersoon in strijd is met de openbare orde als bedoeld in [artikel 20 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Het openbaar ministerie kan de rechtbank te Utrecht verzoeken voor recht te verklaren dat het doel of de werkzaamheid van een corporatie die niet is een Nederlandse rechtspersoon in strijd is met de openbare orde als bedoeld in artikel 20 van Boek 2.   
 2.  De verklaring werkt voor en tegen een ieder met ingang van de eerste dag na de dag van de uitspraak. De verklaring wordt door de zorg van de griffier geplaatst in de Staatscourant. Is de corporatie in het handelsregister ingeschreven, dan wordt de verklaring aldaar eveneens ingeschreven.   
-3.  De rechter kan de in Nederland gelegen goederen van de corporatie desverlangd onder bewind stellen. [Artikel 22 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van overeenkomstige toepassing.   
-4.  De in Nederland gelegen goederen van een corporatie ten aanzien waarvan de rechter een verklaring voor recht als bedoeld in lid 1 heeft gegeven, worden vereffend door een of meer door hem te benoemen vereffenaars. De [artikelen 23 tot en met 24 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing.  
+3.  De rechter kan de in Nederland gelegen goederen van de corporatie desverlangd onder bewind stellen. Artikel 22 van Boek 2 is van overeenkomstige toepassing.   
+4.  De in Nederland gelegen goederen van een corporatie ten aanzien waarvan de rechter een verklaring voor recht als bedoeld in lid 1 heeft gegeven, worden vereffend door een of meer door hem te benoemen vereffenaars. De artikelen 23 tot en met 24 van Boek 2 zijn van overeenkomstige toepassing.  
 
 ### Artikel  123  
 
@@ -850,7 +850,7 @@ Een corporatie die niet is een Nederlandse rechtspersoon en is vermeld in de lij
 
 ### Artikel  124  
 
-Deze titel laat onverlet hetgeen bepaald is bij de [Wet op de formeel buitenlandse vennootschappen](../../../../../../wet/wet/op/de/formeel/buitenlandse/vennootschappen/BWBR0009191/README.md). 
+Deze titel laat onverlet hetgeen bepaald is bij de Wet op de formeel buitenlandse vennootschappen. 
 
 ###Titel  9  
 
@@ -1147,15 +1147,15 @@ Voor zover de aansprakelijkheid ter zake van een aanvaring in volle zee niet wor
 
 ####Arbitrage
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  166  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 In afwijking van artikel 154 is een overeenkomst tot arbitrage materieel geldig als zij geldig is naar het recht dat partijen hebben gekozen of naar het recht van de plaats van arbitrage of, indien partijen geen rechtskeuze hebben gedaan, naar het recht dat van toepassing is op de rechtsbetrekking waarop de arbitrageovereenkomst betrekking heeft. 
 
 ### Artikel  167  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Indien een Staat, andere publiekrechtelijke rechtspersoon of staatsonderneming partij is bij een overeenkomst tot arbitrage, kan hij geen beroep doen op zijn wet of regelgeving teneinde zijn bekwaamheid of bevoegdheid tot het aangaan van de overeenkomst tot arbitrage of de vatbaarheid van het geschil voor beslissing door arbitrage te betwisten, indien de wederpartij deze regeling kende noch behoorde te kennen. 
 

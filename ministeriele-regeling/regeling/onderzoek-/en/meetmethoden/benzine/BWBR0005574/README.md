@@ -3,16 +3,16 @@
 ##Regeling onderzoek- en meetmethoden benzine
 
 De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, de Minister van Economische Zaken en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 5, tweede lid, van het Warenwetbesluit benzine](../../../../../../../AMvB/warenwetbesluit/benzine/BWBR0005540/README.md) (Stb. 1992, 339) en artikel 3 van het Besluit loodgehalte benzine (Stb. 1977, 588);
+Gelet op artikel 5, tweede lid, van het Warenwetbesluit benzine (Stb. 1992, 339) en artikel 3 van het Besluit loodgehalte benzine (Stb. 1977, 588);
 Besluiten:    
 
 ### Artikel  1  
 
-Als methoden van onderzoek voor de vaststelling of aan het in [artikel 3 van het Warenwetbesluit benzine](../../../../../../../AMvB/warenwetbesluit/benzine/BWBR0005540/README.md) (Stb. 1992, 339) en artikel 1 van de Warenwetregeling vervangingscomponenten benzine (Stcrt. 1992, 128) bepaalde is voldaan, worden aangewezen de methoden die zijn aangewezen in richtlijn 87/441/EEG van de Commissie van de Europese Gemeenschappen van 29 juli 1987, betreffende de besparing van ruwe olie door het gebruik van vervangingscomponenten in benzine (PbEG L 238). 
+Als methoden van onderzoek voor de vaststelling of aan het in artikel 3 van het Warenwetbesluit benzine (Stb. 1992, 339) en artikel 1 van de Warenwetregeling vervangingscomponenten benzine (Stcrt. 1992, 128) bepaalde is voldaan, worden aangewezen de methoden die zijn aangewezen in richtlijn 87/441/EEG van de Commissie van de Europese Gemeenschappen van 29 juli 1987, betreffende de besparing van ruwe olie door het gebruik van vervangingscomponenten in benzine (PbEG L 238). 
 
 ### Artikel  2  
 
-Als methoden voor de vaststelling of aan het in [artikel 4 van het Warenwetbesluit benzine](../../../../../../../AMvB/warenwetbesluit/benzine/BWBR0005540/README.md) is voldaan, worden aangewezen: 
+Als methoden voor de vaststelling of aan het in artikel 4 van het Warenwetbesluit benzine is voldaan, worden aangewezen: 
 
 a. wat betreft het loodgehalte: de methode van de American Society for Testing and Materials ASTIM D 3237; (goedgekeurde uitgave van 31 augustus 1979); 
 
@@ -42,7 +42,7 @@ De regeling bepalingsmethoden lood- en benzeengehalte benzine (Stcrt. 1991, 35) 
 
 ### Artikel  6  
 
-Deze regeling, die met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking op het tijdstip waarop het [warenwetbesluit benzine](../../../../../../../AMvB/warenwetbesluit/benzine/BWBR0005540/README.md) in werking treedt. 
+Deze regeling, die met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking op het tijdstip waarop het warenwetbesluit benzine in werking treedt. 
 
 ### Artikel  7  
 
