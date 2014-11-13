@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 19 augustus 1993, nr. DGVgz/VVP/L 931301, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op [artikelen 9](../../../../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op artikelen 9, 13 en 14 van de Warenwet;
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) van 9 juni 1993, nummer 14678/(4/6)5;
+Gezien het advies van de Adviescommissie Warenwet van 9 juni 1993, nummer 14678/(4/6)5;
 
 De Raad van State gehoord (advies van 19 oktober 1993, nr. W13.93.0571);
 
@@ -34,7 +34,8 @@ c.  *Richtlijn 92/118/EEG* : Richtlijn 92/118/EEG van de Raad van de Europese Ge
 
 1.  Het is verboden krachtens artikel 4 aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.   
 2.   Het is verboden eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.   
-3.   Het is verboden te handelen in strijd met een bepaling uit een bindend EG-besluit, voor zover het een verordening betreft en overtreding van die bepaling door Onze Minister is aangeduid als strafbaar feit.  
+3.   Het is verboden te handelen in strijd met een bepaling uit een bindend EG-besluit, voor zover het een verordening betreft en overtreding van die bepaling door Onze Minister is aangeduid als strafbaar feit.   
+4.  Het is verboden te handelen in strijd met artikel 6 van verordening (EG) nr. 669/2009 van de Commissie van 24 juli 2009 ter uitvoering van Verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad wat betreft meer uitgebreide officiële controles op de invoer van bepaalde diervoeders en levensmiddelen van niet-dierlijke oorsprong en tot wijziging van Beschikking 2006/504/EG (PbEU 2006, L 194). 
 
 ### Artikel  3  
 
@@ -42,7 +43,7 @@ Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht of verh
 
 ### Artikel  4  
 
-Onze Minister stelt, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, ter uitvoering van:  
+Onze Minister stelt ter uitvoering van:  
 
 a. Richtlijn 97/78/EG;  
 

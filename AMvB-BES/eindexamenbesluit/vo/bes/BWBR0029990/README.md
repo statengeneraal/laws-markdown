@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 21 september 2010, nr. WJZ/236451 (3844), directie Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de artikelen 72, 74, 75, 116 en 206, derde lid, van de Wet voortgezet onderwijs BES en de [artikelen 7.3.3, tweede lid](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en [7.4.13, derde en vijfde lid, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);
+Gelet op de artikelen 72, 74, 75, 116 en 206, derde lid, van de Wet voortgezet onderwijs BES en de artikelen 7.3.3, tweede lid, en 7.4.13, derde en vijfde lid, van de Wet educatie en beroepsonderwijs BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0454/I);
 
@@ -22,15 +22,15 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-*algemene vakken:* vakken niet zijnde afdelingsvakken genoemd in [artikel 25, eerste lid](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), respectievelijk bedoeld in [artikel 26, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), en niet zijnde intrasectorale of intersectorale programma’s als bedoeld in [artikel 27, eerste lid](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), of [artikel 28, eerste lid, van dat besluit](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md);  
+*algemene vakken:* vakken niet zijnde afdelingsvakken genoemd in artikel 25, eerste lid, respectievelijk bedoeld in artikel 26, eerste lid, van het Inrichtingsbesluit WVO BES, en niet zijnde intrasectorale of intersectorale programma’s als bedoeld in artikel 27, eerste lid, of artikel 28, eerste lid, van dat besluit;  
 
-*bevoegd gezag:* het bevoegd gezag, bedoeld in [artikel 1 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), indien het een school voor voortgezet onderwijs betreft, en het bevoegd gezag, bedoeld in [artikel 1.1.1, onder 1 en 2, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), indien het een instelling voor educatie en beroepsonderwijs betreft;  
+*bevoegd gezag:* het bevoegd gezag, bedoeld in artikel 1 van de wet, indien het een school voor voortgezet onderwijs betreft, en het bevoegd gezag, bedoeld in artikel 1.1.1, onder 1 en 2, van de Wet educatie en beroepsonderwijs BES, indien het een instelling voor educatie en beroepsonderwijs betreft;  
 
-*College voor examens:* College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);  
+*College voor examens:* College voor examens, genoemd in artikel 2, eerste lid, van de Wet College voor examens;  
 
 *cspe:* centraal schriftelijk en praktisch examen in een beroepsgericht programma;  
 
-*deeleindexamen:* een examen in één of meer van de voor het eindexamen voorgeschreven vakken aan een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*deeleindexamen:* een examen in één of meer van de voor het eindexamen voorgeschreven vakken aan een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs;  
 
 *directeur:* de rector of directeur van een school voor voortgezet onderwijs;  
 
@@ -38,7 +38,7 @@ Hebben goedgevonden en verstaan:
 
 *eindexamen vmbo:* een eindexamen dat leidt tot een diploma vmbo voor zover het betreft de theoretische leerweg, de basisberoepsgerichte leerweg, de kaderberoepsgerichte leerweg of de gemengde leerweg;  
 
-*examencommissie vavo:* de in [artikel 7.4.13, tweede lid](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), juncto [artikel 7.4.7 van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) bedoelde examencommissie voor een opleiding vavo;  
+*examencommissie vavo:* de in artikel 7.4.13, tweede lid, juncto artikel 7.4.7 van de Wet educatie en beroepsonderwijs BES bedoelde examencommissie voor een opleiding vavo;  
 
 *examenstof:* de aan de kandidaat te stellen eisen;  
 
@@ -46,13 +46,13 @@ Hebben goedgevonden en verstaan:
 
 *gecommitteerde:* een gecommitteerde als bedoeld in artikel 24 van dit besluit;  
 
-*havo:* hoger algemeen voortgezet onderwijs als bedoeld in [artikel 14 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*havo:* hoger algemeen voortgezet onderwijs als bedoeld in artikel 14 van de wet;  
 
 *herkansing:* het opnieuw deelnemen aan een toets van het centraal examen of het schoolexamen;  
 
-*inspectie:* de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+*inspectie:* de inspectie, bedoeld in artikel 1 van de Wet op het onderwijstoezicht;  
 
-*instelling voor educatie en beroepsonderwijs:* een instelling als bedoeld in [artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), voor zover het betreft door die instelling verzorgde opleidingen vavo;  
+*instelling voor educatie en beroepsonderwijs:* een instelling als bedoeld in artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES, voor zover het betreft door die instelling verzorgde opleidingen vavo;  
 
 *kandidaat:* ieder die door het bevoegd gezag tot het eindexamen of deeleindexamen wordt toegelaten;  
 
@@ -60,21 +60,21 @@ Hebben goedgevonden en verstaan:
 
 *leerling:* een leerling aan een school voor voortgezet onderwijs of een deelnemer aan een opleiding vavo;  
 
-*leerweg:* de basisberoepsgerichte leerweg, bedoeld in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), de kaderberoepsgerichte leerweg, bedoeld in artikel 18 van de wet, de gemengde leerweg, bedoeld in [artikel 29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en de theoretische leerweg, bedoeld in [artikel 16 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*leerweg:* de basisberoepsgerichte leerweg, bedoeld in artikel 18 van de wet, de kaderberoepsgerichte leerweg, bedoeld in artikel 18 van de wet, de gemengde leerweg, bedoeld in artikel 29 van de wet en de theoretische leerweg, bedoeld in artikel 16 van de wet;  
 
-*mavo:* middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*mavo:* middelbaar algemeen voortgezet onderwijs als bedoeld in artikel 15 van de wet;  
 
 *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
-*opleiding vavo:* een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
+*opleiding vavo:* een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs BES;  
 
 *profielwerkstuk:* het in artikel 4 bedoelde profielwerkstuk;  
 
-*sector:* een in [artikel 16, derde lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [artikel 18, derde lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of [artikel 29, derde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bedoelde sector;  
+*sector:* een in artikel 16, derde lid, artikel 18, derde lid, of artikel 29, derde lid, van de wet bedoelde sector;  
 
 *school:* een school voor vwo, een school voor havo, een school voor mavo, een school voor vbo of een instelling voor educatie en beroepsonderwijs, tenzij anders blijkt;  
 
-*schooljaar:* het tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar, daaronder mede begrepen het studiejaar, bedoeld in [artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
+*schooljaar:* het tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar, daaronder mede begrepen het studiejaar, bedoeld in artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES;  
 
 *school voor voortgezet onderwijs:* een school voor vwo, een school voor havo, een school voor mavo, een school voor vbo;  
 
@@ -86,13 +86,13 @@ Hebben goedgevonden en verstaan:
 
 *vakken behorende tot de beeldende vorming:* tekenen, handvaardigheid, textiele vormgeving, fotografie, film, audio-visuele vorming;  
 
-*vbo:* voorbereidend beroepsonderwijs als bedoeld in [artikel 17 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*vbo:* voorbereidend beroepsonderwijs als bedoeld in artikel 17 van de wet;  
 
-*vmbo:* voorbereidend middelbaar beroepsonderwijs als bedoeld in [artikel 44 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*vmbo:* voorbereidend middelbaar beroepsonderwijs als bedoeld in artikel 44 van de wet;  
 
-*vwo:* voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 13 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*vwo:* voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 13 van de wet;  
 
-*wet:* [Wet voortgezet onderwijs BES](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
+*wet:* Wet voortgezet onderwijs BES.     
 2.  Waar in dit besluit wordt gesproken van «directeur» en van «directeur en de secretaris», wordt daaronder wat instellingen voor educatie en beroepsonderwijs betreft verstaan, de examencommissie vavo, tenzij anders blijkt.  
 
 ### Artikel  2  
@@ -121,7 +121,7 @@ Hebben goedgevonden en verstaan:
 1.  Het eindexamen kan voor ieder vak bestaan uit een schoolexamen, uit een centraal examen dan wel uit beide.   
 2.  Het schoolexamen vwo en havo omvat mede een profielwerkstuk. Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn in het desbetreffende profiel.   
 3.  Het profielwerkstuk heeft betrekking op één of meer vakken van het eindexamen. Ten minste één van deze vakken heeft een omvang van 400 uur of meer voor vwo en 320 uur of meer voor havo.   
-4.  Het schoolexamen vmbo voor zover het betreft de theoretische leerweg, genoemd in [artikel 16 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en de gemengde leerweg, genoemd in [artikel 29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat mede een sectorwerkstuk. De tweede volzin van het tweede lid is van overeenkomstige toepassing. Het sectorwerkstuk heeft betrekking op een thema uit de sector waarin de leerling het onderwijs volgt.  
+4.  Het schoolexamen vmbo voor zover het betreft de theoretische leerweg, genoemd in artikel 16 van de wet, en de gemengde leerweg, genoemd in artikel 29 van de wet, omvat mede een sectorwerkstuk. De tweede volzin van het tweede lid is van overeenkomstige toepassing. Het sectorwerkstuk heeft betrekking op een thema uit de sector waarin de leerling het onderwijs volgt.  
 
 ### Artikel  5  
 
@@ -161,7 +161,7 @@ b. welk deel van de examenstof centraal zal worden geëxamineerd en over welke e
 
 ####Begrenzing mogelijkheden vakkenkeuze kandidaten
 
-1.  De kandidaten kiezen, met inachtneming van dit hoofdstuk, in welke vakken zij examen willen afleggen. Voor leerlingen geldt deze keuze voorzover het bevoegd gezag, al dan niet in samenwerking met het bevoegd gezag van een of meer andere scholen, hen in de gelegenheid heeft gesteld zich op het examen in die vakken voor te bereiden. Indien sprake is van samenwerking tussen scholen, is [artikel 2 van het Besluit samenwerking VO-BVE BES](../../../../../AMvB-BES/besluit/samenwerking/vo-bve/bes/BWBR0029591/README.md) van toepassing.   
+1.  De kandidaten kiezen, met inachtneming van dit hoofdstuk, in welke vakken zij examen willen afleggen. Voor leerlingen geldt deze keuze voorzover het bevoegd gezag, al dan niet in samenwerking met het bevoegd gezag van een of meer andere scholen, hen in de gelegenheid heeft gesteld zich op het examen in die vakken voor te bereiden. Indien sprake is van samenwerking tussen scholen, is artikel 2 van het Besluit samenwerking VO-BVE BES van toepassing.   
 2.  De kandidaten kunnen, voor zover het bevoegd gezag hun dat toestaat, in meer vakken examen afleggen dan in de vakken die ten minste tezamen een eindexamen vormen. Een examen als bedoeld in de eerste volzin heeft geen betrekking op vakken die overeenkomen met vakken die onderdeel zijn van dat eindexamen.   
 3.  Het bevoegd gezag beslist, welke in artikel 6, derde lid, bedoelde differentiaties worden aangeboden.   
 4.  Het eerste lid is van overeenkomstige toepassing op kandidaten die deeleindexamen afleggen.  
@@ -211,23 +211,23 @@ Een verzoek om ontheffing als bedoeld in artikel 9 wordt schriftelijk ingediend 
 
 1.  Het eindexamen vwo (atheneum) omvat: 
 
-a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 20, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), daaronder tevens begrepen een profielwerkstuk,  
+a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in artikel 20, eerste lid, van het Inrichtingsbesluit WVO BES, daaronder tevens begrepen een profielwerkstuk,  
 
-b. de vakken van het profieldeel van één van de profielen, genoemd in [artikel 20, derde tot en met zesde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en voor zover nodig wegens de in onderdeel c genoemde normatieve studielast, vakken van het vrije deel genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES, en  
+b. de vakken van het profieldeel van één van de profielen, genoemd in artikel 20, derde tot en met zesde lid, van het Inrichtingsbesluit WVO BES en voor zover nodig wegens de in onderdeel c genoemde normatieve studielast, vakken van het vrije deel genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES, en  
 
-c. ten minste één vak met een normatieve studielast van ten minste 440 uren van het vrije deel van elk profiel, genoemd in [artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) zoals geldend voor de scholen voor vwo, met dien verstande dat door het bevoegd gezag vast te stellen vakken onderdeel zijn van het eindexamen uitsluitend voor zover Onze Minister daarvoor goedkeuring heeft verleend.     
-2.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vwo, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling of ontheffing is verleend van het volgen van onderwijs op grond van [artikel 23, eerste tot en met vierde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md). Bij een ontheffing op grond van artikel 23, vierde lid, van het Inrichtingsbesluit WVO BES wordt de taal vervangen door een ander vak als bedoeld in het vijfde lid van dat artikel.   
+c. ten minste één vak met een normatieve studielast van ten minste 440 uren van het vrije deel van elk profiel, genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES zoals geldend voor de scholen voor vwo, met dien verstande dat door het bevoegd gezag vast te stellen vakken onderdeel zijn van het eindexamen uitsluitend voor zover Onze Minister daarvoor goedkeuring heeft verleend.     
+2.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vwo, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling of ontheffing is verleend van het volgen van onderwijs op grond van artikel 23, eerste tot en met vierde lid, van het Inrichtingsbesluit WVO BES. Bij een ontheffing op grond van artikel 23, vierde lid, van het Inrichtingsbesluit WVO BES wordt de taal vervangen door een ander vak als bedoeld in het vijfde lid van dat artikel.   
 3.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs, bij het eindexamen vrijgesteld van de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel.   
 4.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs, en in het bezit is van het diploma havo, bij het eindexamen vrijgesteld van de volgende vakken van het gemeenschappelijk deel: algemene natuurwetenschappen en maatschappijleer.   
-5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs en in het bezit is van het diploma havo, en die in plaats van de vakken, genoemd in [artikel 21 van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) examen heeft afgelegd in een of meer overeenkomstige vakken van [artikel 20 van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), bij het eindexamen vrijgesteld van dit vak of deze vakken.   
-6.  In afwijking van het eerste lid kan de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs bij het eindexamen ontheffing worden verleend van de taal, genoemd in [artikel 20, eerste lid onder c, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), in de volgende gevallen: 
+5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs en in het bezit is van het diploma havo, en die in plaats van de vakken, genoemd in artikel 21 van het Inrichtingsbesluit WVO BES examen heeft afgelegd in een of meer overeenkomstige vakken van artikel 20 van het Inrichtingsbesluit WVO BES, bij het eindexamen vrijgesteld van dit vak of deze vakken.   
+6.  In afwijking van het eerste lid kan de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs bij het eindexamen ontheffing worden verleend van de taal, genoemd in artikel 20, eerste lid onder c, van het Inrichtingsbesluit WVO BES, in de volgende gevallen: 
 
 a. de leerling heeft een stoornis die specifiek betrekking heeft op taal of een zintuiglijke stoornis die effect heeft op taal,  
 
 b. de leerling heeft een andere moedertaal dan de Nederlandse taal, of  
 
 c. de leerling volgt onderwijs in het profiel natuur en techniek of het profiel natuur en gezondheid en de taal verhindert naar verwachting een succesvolle afronding van de opleiding.     
-7.  Bij ontheffing op grond van het zesde lid wordt de taal vervangen door een van de vakken, genoemd in [artikel 20, derde tot en met zesde lid, of in het zevende lid, onder c of d, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) met een normatieve studielast van ten minste 440 uren, naar keuze van de leerling, voor zover het bevoegd gezag deze als zodanig aanbiedt.  
+7.  Bij ontheffing op grond van het zesde lid wordt de taal vervangen door een van de vakken, genoemd in artikel 20, derde tot en met zesde lid, of in het zevende lid, onder c of d, van het Inrichtingsbesluit WVO BES met een normatieve studielast van ten minste 440 uren, naar keuze van de leerling, voor zover het bevoegd gezag deze als zodanig aanbiedt.  
 
 ### Artikel  12  
 
@@ -235,15 +235,15 @@ c. de leerling volgt onderwijs in het profiel natuur en techniek of het profiel 
 
 1.  Het eindexamen vwo (gymnasium) omvat: 
 
-a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 20, tweede lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), daaronder tevens begrepen een profielwerkstuk,  
+a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in artikel 20, tweede lid, van het Inrichtingsbesluit WVO BES, daaronder tevens begrepen een profielwerkstuk,  
 
-b. de vakken van het profieldeel, genoemd in [artikel 20, derde tot en met zesde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en voor zover nodig wegens de in onderdeel c genoemde normatieve studielast, vakken van het vrije deel genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES, en  
+b. de vakken van het profieldeel, genoemd in artikel 20, derde tot en met zesde lid, van het Inrichtingsbesluit WVO BES en voor zover nodig wegens de in onderdeel c genoemde normatieve studielast, vakken van het vrije deel genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES, en  
 
-c. ten minste één vak met een normatieve studielast van ten minste 440 uur van het vrije deel van elk profiel, genoemd in [artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) zoals geldend voor de scholen voor vwo, met dien verstande dat door het bevoegd gezag vast te stellen vakken onderdeel zijn van het eindexamen uitsluitend voor zover Onze Minister daarvoor goedkeuring heeft verleend.     
-2.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vwo, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling of ontheffing is verleend van het volgen van onderwijs op grond van [artikel 23, eerste tot en met derde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md).   
+c. ten minste één vak met een normatieve studielast van ten minste 440 uur van het vrije deel van elk profiel, genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES zoals geldend voor de scholen voor vwo, met dien verstande dat door het bevoegd gezag vast te stellen vakken onderdeel zijn van het eindexamen uitsluitend voor zover Onze Minister daarvoor goedkeuring heeft verleend.     
+2.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vwo, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling of ontheffing is verleend van het volgen van onderwijs op grond van artikel 23, eerste tot en met derde lid, van het Inrichtingsbesluit WVO BES.   
 3.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs, bij het eindexamen vrijgesteld van het vak lichamelijke opvoeding van het gemeenschappelijk deel.   
 4.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs, en die in het bezit is van het diploma havo, bij het eindexamen vrijgesteld van de volgende vakken van het gemeenschappelijk deel: algemene natuurwetenschappen en maatschappijleer.   
-5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs en in het bezit is van het diploma havo, en die in plaats van de vakken, genoemd in [artikel 21 van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) examen heeft afgelegd in een of meer overeenkomstige vakken van [artikel 20 van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), bij het eindexamen vrijgesteld van dit vak of deze vakken.  
+5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs en in het bezit is van het diploma havo, en die in plaats van de vakken, genoemd in artikel 21 van het Inrichtingsbesluit WVO BES examen heeft afgelegd in een of meer overeenkomstige vakken van artikel 20 van het Inrichtingsbesluit WVO BES, bij het eindexamen vrijgesteld van dit vak of deze vakken.  
 
 ### Artikel  13  
 
@@ -251,104 +251,104 @@ c. ten minste één vak met een normatieve studielast van ten minste 440 uur van
 
 1.  Het eindexamen havo omvat: 
 
-a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 21, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), daaronder tevens begrepen een profielwerkstuk,  
+a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in artikel 21, eerste lid, van het Inrichtingsbesluit WVO BES, daaronder tevens begrepen een profielwerkstuk,  
 
-b. de vakken van het profieldeel, genoemd in [artikel 21, tweede tot en met vijfde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en voor zover het nodig is wegens de in onderdeel c genoemde normatieve studielast, vakken van het vrije deel genoemd in [artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), en  
+b. de vakken van het profieldeel, genoemd in artikel 21, tweede tot en met vijfde lid, van het Inrichtingsbesluit WVO BES en voor zover het nodig is wegens de in onderdeel c genoemde normatieve studielast, vakken van het vrije deel genoemd in artikel 20, zevende lid, van het Inrichtingsbesluit WVO BES, en  
 
-c. ten minste één vak met een normatieve studielast van ten minste 320 uur van het vrije deel van elk profiel, genoemd in [artikel 21, zesde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), met dien verstande dat door het bevoegd gezag vast te stellen vakken onderdeel zijn van het eindexamen uitsluitend voor zover Onze Minister daarvoor goedkeuring heeft verleend.     
-2.  Ingeval van toepassing van [artikel 40, achtste lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) is het eerste lid van overeenkomstige toepassing.   
-3.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor havo bij het eindexamen vrijgesteld van de vakken waarvoor ontheffing of vrijstelling is verleend van het volgen van onderwijs op grond van [artikel 23, eerste lid, respectievelijk zesde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md).   
+c. ten minste één vak met een normatieve studielast van ten minste 320 uur van het vrije deel van elk profiel, genoemd in artikel 21, zesde lid, van het Inrichtingsbesluit WVO BES, met dien verstande dat door het bevoegd gezag vast te stellen vakken onderdeel zijn van het eindexamen uitsluitend voor zover Onze Minister daarvoor goedkeuring heeft verleend.     
+2.  Ingeval van toepassing van artikel 40, achtste lid, van de wet is het eerste lid van overeenkomstige toepassing.   
+3.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor havo bij het eindexamen vrijgesteld van de vakken waarvoor ontheffing of vrijstelling is verleend van het volgen van onderwijs op grond van artikel 23, eerste lid, respectievelijk zesde lid, van het Inrichtingsbesluit WVO BES.   
 4.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs, bij het eindexamen vrijgesteld van de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel.  
 
 ### Artikel  14  
 
 ####Eindexamen vmbo theoretische leerweg
 
-1.  Het eindexamen vmbo voor zover het betreft de theoretische leerweg, genoemd in [artikel 16 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat in elk geval: 
+1.  Het eindexamen vmbo voor zover het betreft de theoretische leerweg, genoemd in artikel 16 van de wet, omvat in elk geval: 
 
-a. de vakken die het gemeenschappelijk deel ingevolge [artikel 16, vijfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat,  
+a. de vakken die het gemeenschappelijk deel ingevolge artikel 16, vijfde lid, van de wet, omvat,  
 
-b. de twee vakken die het sectordeel ingevolge [artikel 16, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) omvat, waaronder tevens begrepen een sectorwerkstuk, en  
+b. de twee vakken die het sectordeel ingevolge artikel 16, zesde lid, van de wet omvat, waaronder tevens begrepen een sectorwerkstuk, en  
 
-c. in het vrije deel twee nog niet in het sectordeel gekozen vakken, bedoeld onderscheidenlijk genoemd in [artikel 16, zevende lid, onderdelen a en b, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), met dien verstande dat het sectordeel en het vrije deel tezamen ten minste twee vakken omvatten die geen moderne taal zijn.     
-2.  In afwijking van het eerste lid is de kandidaat in de sector economie of leerwegondersteunend onderwijs ten aanzien van wie toepassing is gegeven aan [artikel 29, tweede lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), bij het eindexamen vrijgesteld van het vak Franse taal of het vak Spaanse taal, genoemd artikel 29, tweede lid. In plaats van het vak waarvoor vrijstelling is verleend, doet de kandidaat eindexamen in het vak Arabisch, het vak Turks, het vak Duitse taal, het vak Papiaments, het vak maatschappijleer II, het vak aardrijkskunde of het vak geschiedenis en staatsinrichting.   
+c. in het vrije deel twee nog niet in het sectordeel gekozen vakken, bedoeld onderscheidenlijk genoemd in artikel 16, zevende lid, onderdelen a en b, van de wet, met dien verstande dat het sectordeel en het vrije deel tezamen ten minste twee vakken omvatten die geen moderne taal zijn.     
+2.  In afwijking van het eerste lid is de kandidaat in de sector economie of leerwegondersteunend onderwijs ten aanzien van wie toepassing is gegeven aan artikel 29, tweede lid, van het Inrichtingsbesluit WVO BES, bij het eindexamen vrijgesteld van het vak Franse taal of het vak Spaanse taal, genoemd artikel 29, tweede lid. In plaats van het vak waarvoor vrijstelling is verleend, doet de kandidaat eindexamen in het vak Arabisch, het vak Turks, het vak Duitse taal, het vak Papiaments, het vak maatschappijleer II, het vak aardrijkskunde of het vak geschiedenis en staatsinrichting.   
 3.  Indien de kandidaat in het vrije deel twee kunstvakken kiest, wordt één kunstvak gekozen uit de vakken behorende tot de beeldende vorming en één kunstvak uit de vakken muziek, dans en drama.   
-4.  In geval van toepassing van [artikel 16, negende lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), zijn het eerste tot en met het derde lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het zevende lid, gekozen kan worden.   
+4.  In geval van toepassing van artikel 16, negende lid, van de wet, zijn het eerste tot en met het derde lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het zevende lid, gekozen kan worden.   
 5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs vrijgesteld van de vakken lichamelijke opvoeding en de vakken behorende tot de beeldende vorming, muziek, dans of drama van het gemeenschappelijk deel.   
 6.  In afwijking van het eerste lid kan de kandidaat die het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs, op zijn verzoek bij het eindexamen ontheffing worden verleend van de vakken Franse taal of Spaanse taal van het sectordeel of van beide. Artikel 11, zesde en zevende lid, is van overeenkomstige toepassing.   
 7.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen: 
 
-a. een vak als bedoeld in [artikel 16, zevende lid, onderdelen a en b, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
+a. een vak als bedoeld in artikel 16, zevende lid, onderdelen a en b, van de wet,  
 
-b. een vak dat behoort tot het eindexamen van de gemengde leerweg als bedoeld in [artikel 29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of  
+b. een vak dat behoort tot het eindexamen van de gemengde leerweg als bedoeld in artikel 29 van de wet, of  
 
-c. een vak genoemd in, dan wel aangewezen op grond van, [artikel 39](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of [40 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
-8.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vmbo, voor zover het betreft de theoretische leerweg, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling is verleend van het volgen van onderwijs op grond van [artikel 29, vierde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md).  
+c. een vak genoemd in, dan wel aangewezen op grond van, artikel 39 of 40 van de wet.     
+8.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vmbo, voor zover het betreft de theoretische leerweg, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling is verleend van het volgen van onderwijs op grond van artikel 29, vierde lid, van het Inrichtingsbesluit WVO BES.  
 
 ### Artikel  15  
 
 ####Eindexamen vmbo basisberoepsgerichte leerweg
 
-1.  Het eindexamen vmbo voor zover het betreft de basisberoepsgerichte leerweg, genoemd in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat in elk geval: 
+1.  Het eindexamen vmbo voor zover het betreft de basisberoepsgerichte leerweg, genoemd in artikel 18 van de wet, omvat in elk geval: 
 
-a. de vakken die het gemeenschappelijk deel ingevolge in [artikel 18, vijfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat,  
+a. de vakken die het gemeenschappelijk deel ingevolge in artikel 18, vijfde lid, van de wet, omvat,  
 
-b. de twee vakken die het sectordeel ingevolge [artikel 18, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat, en  
+b. de twee vakken die het sectordeel ingevolge artikel 18, zesde lid, van de wet, omvat, en  
 
-c. in het vrije deel een tot de sector behorend afdelingsvak, genoemd in [artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) of een intrasectoraal of intersectoraal programma als bedoeld in [artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md).     
-2.  In afwijking van het eerste lid is de kandidaat in de sector economie ten aanzien van wie toepassing is gegeven aan [artikel 29, tweede en derde lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), bij het eindexamen vrijgesteld van het vak Franse taal of het vak Spaanse taal. In plaats hiervan omvat het eindexamen één van de vakken gekozen op grond van artikel 29, tweede en derde lid, van het Inrichtingsbesluit WVO BES   
-3.  Voor zover het betreft een leer-werktraject als bedoeld in [artikel 19 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat het eindexamen voor de leerling die dat traject heeft gevolgd, het vak Nederlandse taal en het beroepsgerichte programma dat onderdeel is van het leerwerktraject. Bovendien kan de leerling eindexamen afleggen in de andere vakken van de basisberoepsgerichte leerweg, bedoeld in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), waarvan het bevoegd gezag op grond van artikel 19, derde lid, van de wet in voorkomend geval heeft beslist dat zij behoren tot het leer-werktraject van de leerling.   
-4.  In geval van toepassing van [artikel 18, negende lid, onderdelen a en c, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), dan wel artikel 18, negende lid, onderdeel d, van de wet juncto [artikel 25, tweede lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), zijn het eerste tot en met het derde lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vijfde lid, kan dienen.   
+c. in het vrije deel een tot de sector behorend afdelingsvak, genoemd in artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES of een intrasectoraal of intersectoraal programma als bedoeld in artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES.     
+2.  In afwijking van het eerste lid is de kandidaat in de sector economie ten aanzien van wie toepassing is gegeven aan artikel 29, tweede en derde lid, van het Inrichtingsbesluit WVO BES, bij het eindexamen vrijgesteld van het vak Franse taal of het vak Spaanse taal. In plaats hiervan omvat het eindexamen één van de vakken gekozen op grond van artikel 29, tweede en derde lid, van het Inrichtingsbesluit WVO BES   
+3.  Voor zover het betreft een leer-werktraject als bedoeld in artikel 19 van de wet, omvat het eindexamen voor de leerling die dat traject heeft gevolgd, het vak Nederlandse taal en het beroepsgerichte programma dat onderdeel is van het leerwerktraject. Bovendien kan de leerling eindexamen afleggen in de andere vakken van de basisberoepsgerichte leerweg, bedoeld in artikel 18 van de wet, waarvan het bevoegd gezag op grond van artikel 19, derde lid, van de wet in voorkomend geval heeft beslist dat zij behoren tot het leer-werktraject van de leerling.   
+4.  In geval van toepassing van artikel 18, negende lid, onderdelen a en c, van de wet, dan wel artikel 18, negende lid, onderdeel d, van de wet juncto artikel 25, tweede lid, van het Inrichtingsbesluit WVO BES, zijn het eerste tot en met het derde lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vijfde lid, kan dienen.   
 5.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen: 
 
-a. een vak als bedoeld in [artikel 18, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
+a. een vak als bedoeld in artikel 18, zesde lid, van de wet,  
 
 b. een vak dat op grond van het tweede lid onderdeel kan zijn van de basisberoepsgerichte leerweg,  
 
-c. een algemeen vak dat behoort tot het eindexamen van de theoretische leerweg, de kaderberoepsgerichte leerweg of de gemengde leerweg, genoemd in respectievelijk de [artikelen 16](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [18](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of [29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of  
+c. een algemeen vak dat behoort tot het eindexamen van de theoretische leerweg, de kaderberoepsgerichte leerweg of de gemengde leerweg, genoemd in respectievelijk de artikelen 16, 18 of 29 van de wet, of  
 
-d. een vak als bedoeld in de [artikelen 39](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of [40 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
+d. een vak als bedoeld in de artikelen 39 of 40 van de wet.     
 6.  Artikel 14, tweede lid, is van overeenkomstige toepassing.  
 
 ### Artikel  16  
 
 ####Eindexamen vmbo kaderberoepsgerichte leerweg
 
-1.  Het eindexamen vmbo voor zover het betreft de kaderberoepsgerichte leerweg, genoemd in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat in elk geval: 
+1.  Het eindexamen vmbo voor zover het betreft de kaderberoepsgerichte leerweg, genoemd in artikel 18 van de wet, omvat in elk geval: 
 
-a. de vakken die het gemeenschappelijk deel ingevolge in [artikel 18, vijfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat,  
+a. de vakken die het gemeenschappelijk deel ingevolge in artikel 18, vijfde lid, van de wet, omvat,  
 
-b. de twee vakken die het sectordeel ingevolge [artikel 18, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat, en  
+b. de twee vakken die het sectordeel ingevolge artikel 18, zesde lid, van de wet, omvat, en  
 
-c. in het vrije deel een tot de sector behorend afdelingsvak, genoemd in [artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) of een intrasectoraal of intersectoraal programma als bedoeld in [artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md).     
+c. in het vrije deel een tot de sector behorend afdelingsvak, genoemd in artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES of een intrasectoraal of intersectoraal programma als bedoeld in artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES.     
 2.  Artikel 14, tweede lid, is van overeenkomstige toepassing.   
-3.  In geval van toepassing van [artikel 18, negende lid, onderdeel b, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) dan wel artikel 18, negende lid, onderdeel d, van de wet juncto [artikel 25, tweede lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), zijn het eerste en tweede lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vierde lid, kan dienen.   
+3.  In geval van toepassing van artikel 18, negende lid, onderdeel b, van de wet dan wel artikel 18, negende lid, onderdeel d, van de wet juncto artikel 25, tweede lid, van het Inrichtingsbesluit WVO BES, zijn het eerste en tweede lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vierde lid, kan dienen.   
 4.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen: 
 
-a. een vak als bedoeld in [artikel 18, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
+a. een vak als bedoeld in artikel 18, zesde lid, van de wet,  
 
 b. een vak dat op grond van het tweede lid onderdeel kan zijn van de kaderberoepsgerichte leerweg,  
 
-c. een algemeen vak dat behoort tot het eindexamen van de theoretische leerweg of de gemengde leerweg, genoemd in respectievelijk [artikel 16](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) of [artikel 29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of  
+c. een algemeen vak dat behoort tot het eindexamen van de theoretische leerweg of de gemengde leerweg, genoemd in respectievelijk artikel 16 of artikel 29 van de wet, of  
 
-d. een vak als bedoeld in de [artikelen 39](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of [40 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).    
+d. een vak als bedoeld in de artikelen 39 of 40 van de wet.    
 
 ### Artikel  17  
 
 ####Eindexamen vmbo gemengde leerweg
 
-1.  Het eindexamen vmbo voor zover het betreft de gemengde leerweg, genoemd in [artikel 29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat in elk geval: 
+1.  Het eindexamen vmbo voor zover het betreft de gemengde leerweg, genoemd in artikel 29 van de wet, omvat in elk geval: 
 
-a. de vakken die het gemeenschappelijk deel ingevolge [artikel 29, vijfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat,  
+a. de vakken die het gemeenschappelijk deel ingevolge artikel 29, vijfde lid, van de wet, omvat,  
 
-b. de twee vakken die het sectordeel ingevolge [artikel 29, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), omvat waaronder tevens begrepen een sectorwerkstuk,  
+b. de twee vakken die het sectordeel ingevolge artikel 29, zesde lid, van de wet, omvat waaronder tevens begrepen een sectorwerkstuk,  
 
-c. in het vrije deel een nog niet in het sectordeel gekozen algemeen vak, bedoeld onderscheidenlijk genoemd in [artikel 29, zevende lid, onderdelen a en c, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en  
+c. in het vrije deel een nog niet in het sectordeel gekozen algemeen vak, bedoeld onderscheidenlijk genoemd in artikel 29, zevende lid, onderdelen a en c, van de wet, en  
 
-d. een tot de sector behorend afdelingsvak, genoemd in [artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) of een intrasectoraal of intersectoraal programma als bedoeld in [artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md)     
+d. een tot de sector behorend afdelingsvak, genoemd in artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES of een intrasectoraal of intersectoraal programma als bedoeld in artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES     
 2.  Artikel 14, tweede lid, is van overeenkomstige toepassing.   
-3.  In geval van toepassing van [artikel 29, negende lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), zijn het eerste en tweede lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vierde lid, kan dienen.   
-4.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen, een vak als bedoeld in [artikel 29, zevende lid, onderdelen a, b en c, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of als bedoeld in [artikel 39](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of [40 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).  
+3.  In geval van toepassing van artikel 29, negende lid, van de wet, zijn het eerste en tweede lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vierde lid, kan dienen.   
+4.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen, een vak als bedoeld in artikel 29, zevende lid, onderdelen a, b en c, van de wet, of als bedoeld in artikel 39 of 40 van de wet.  
 
 ### Hoofdstuk  III  
 
@@ -421,7 +421,7 @@ c. de beoordeling van het sectorwerkstuk.
 
 ####Examendossier
 
-Het schoolexamen bestaat uit een examendossier. Het examendossier is het geheel van de onderdelen van het schoolexamen zoals gedocumenteerd in een door het bevoegd gezag gekozen vorm. Het examendossier voor het vmbo omvat tevens de resultaten die de leerling heeft behaald voor de vakken, bedoeld in [artikel 24, eerste lid](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), of [artikel 26, tweede lid, van het Inrichtingsbesluit WVO BES](../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md), voor zover in die vakken geen eindexamen is afgelegd. 
+Het schoolexamen bestaat uit een examendossier. Het examendossier is het geheel van de onderdelen van het schoolexamen zoals gedocumenteerd in een door het bevoegd gezag gekozen vorm. Het examendossier voor het vmbo omvat tevens de resultaten die de leerling heeft behaald voor de vakken, bedoeld in artikel 24, eerste lid, of artikel 26, tweede lid, van het Inrichtingsbesluit WVO BES, voor zover in die vakken geen eindexamen is afgelegd. 
 
 ### Hoofdstuk  IV  
 
@@ -474,7 +474,7 @@ c. het College voor examens deelt het door de kandidaat behaalde cijfer voor het
 
 ####Regels omtrent het centraal examen
 
-1.  Onze Minister zorgt ervoor dat de opgaven, bedoeld in [artikel 2, onderdeel c, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) tijdig beschikbaar worden gesteld aan de directeur van de school.   
+1.  Onze Minister zorgt ervoor dat de opgaven, bedoeld in artikel 2, onderdeel c, van de Wet College voor examens tijdig beschikbaar worden gesteld aan de directeur van de school.   
 2.  De directeur zorgt ervoor, dat de opgaven voor het centraal examen geheim blijven tot de aanvang van de toets waarbij deze opgaven aan de kandidaten worden voorgelegd. Het College voor examens kan opgaven aanwijzen waarop de eerste volzin niet van toepassing is.   
 3.  Tijdens een toets van het centraal examen worden aan de kandidaten geen mededelingen van welke aard ook, aangaande de opgaven gedaan, uitgezonderd mededelingen van het College voor examens.   
 4.  De directeur draagt er zorg voor dat het nodige toezicht bij het centraal examen wordt uitgeoefend.   
@@ -486,16 +486,16 @@ c. het College voor examens deelt het door de kandidaat behaalde cijfer voor het
 
 ####Beoordeling centraal examen
 
-1.  De directeur doet het gemaakte werk van het centraal examen met een exemplaar van de opgaven, de beoordelingsnormen en met het proces-verbaal van het examen toekomen aan de examinator in het desbetreffende vak. De examinator beoordeelt het werk zo spoedig mogelijk en past daarbij de beoordelingsnormen, bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) toe. De examinator drukt zijn beoordeling uit in de score, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens. De examinator zendt de score en het beoordeelde werk aan de directeur.   
+1.  De directeur doet het gemaakte werk van het centraal examen met een exemplaar van de opgaven, de beoordelingsnormen en met het proces-verbaal van het examen toekomen aan de examinator in het desbetreffende vak. De examinator beoordeelt het werk zo spoedig mogelijk en past daarbij de beoordelingsnormen, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens toe. De examinator drukt zijn beoordeling uit in de score, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens. De examinator zendt de score en het beoordeelde werk aan de directeur.   
 2.  De directeur doet de van de examinator ontvangen stukken met een exemplaar van de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het bepalen van de score, bedoeld in het eerste lid, onverwijld aan de directeur van de school, bedoeld in artikel 24, tweede lid, toekomen. Deze stelt het ter hand aan de gecommitteerde.   
-3.  De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past daarbij toe de beoordelingsnormen en de daarbij behorende scores, bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md). Daarnaast voegt de gecommitteerde bij het gecorrigeerde werk, de in artikel 24, derde lid, bedoelde verklaring.   
+3.  De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past daarbij toe de beoordelingsnormen en de daarbij behorende scores, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens. Daarnaast voegt de gecommitteerde bij het gecorrigeerde werk, de in artikel 24, derde lid, bedoelde verklaring.   
 4.  Bij ministeriële regeling kunnen nadere voorschriften worden gegeven voor de toepassing van het eerste tot en met derde lid.  
 
 ### Artikel  30  
 
 ####Beoordeling centraal examen cspe
 
-1.  De directeur draagt er zorg voor dat bij het maken van het cspe van een eindexamen vmbo, de examinator in het desbetreffende vak of programma aanwezig is. De examinator beoordeelt de prestaties tijdens het maken van de opgaven en legt zijn bevindingen van de verrichtingen van de kandidaat schriftelijk vast, volgens daartoe door het College voor examens gegeven richtlijnen. De examinator beoordeelt het werk zo spoedig mogelijk en past daarbij toe de beoordelingsnormen, bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md). De examinator drukt zijn beoordeling uit in de score, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens. De examinator zendt de score en voor zover mogelijk het beoordeelde werk aan de directeur.   
+1.  De directeur draagt er zorg voor dat bij het maken van het cspe van een eindexamen vmbo, de examinator in het desbetreffende vak of programma aanwezig is. De examinator beoordeelt de prestaties tijdens het maken van de opgaven en legt zijn bevindingen van de verrichtingen van de kandidaat schriftelijk vast, volgens daartoe door het College voor examens gegeven richtlijnen. De examinator beoordeelt het werk zo spoedig mogelijk en past daarbij toe de beoordelingsnormen, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens. De examinator drukt zijn beoordeling uit in de score, bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet College voor examens. De examinator zendt de score en voor zover mogelijk het beoordeelde werk aan de directeur.   
 2.  Voor het cspe vmbo vindt de beoordeling tevens plaats door een tweede examinator. De tweede examinator kan een deskundige als bedoeld in artikel 72, tweede lid, van de wet of een andere examinator van de school zijn. De tweede examinator beoordeelt het resultaat van de opgaven, alsmede de verrichtingen van de kandidaat zoals blijkend uit de in het eerste lid bedoelde schriftelijke vastlegging daarvan. De directeur overhandigt de tweede examinator daartoe een exemplaar van de opgaven, de beoordelingsnormen, het proces-verbaal, alsmede de regels voor het bepalen van de score, bedoeld in het eerste lid. Artikel 29, vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  31  
@@ -503,7 +503,7 @@ c. het College voor examens deelt het door de kandidaat behaalde cijfer voor het
 ####Vaststelling score en cijfer centraal examen
 
 1.  De examinator en de gecommitteerde stellen in onderling overleg de score voor het centraal examen vast. Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming komen, wordt het geschil voorgelegd aan het bevoegd gezag van de gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt hiervan melding gemaakt aan de inspectie. De inspectie kan een onafhankelijke corrector aanwijzen. De beoordeling van deze corrector komt in de plaats van de eerdere beoordelingen.   
-2.  De directeur stelt het cijfer voor het centraal examen in een vak vast op grond van de score, bedoeld in het eerste lid, en met inachtneming van de regels, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md).  
+2.  De directeur stelt het cijfer voor het centraal examen in een vak vast op grond van de score, bedoeld in het eerste lid, en met inachtneming van de regels, bedoeld in artikel 2, tweede lid, onderdeel e, van de Wet College voor examens.  
 
 ### Artikel  32  
 
@@ -552,11 +552,11 @@ a. één in artikel 39, eerste lid, of artikel 40, bedoelde cijferlijst van een 
 
 b. één in artikel 39, eerste lid, bedoelde cijferlijst, of een in artikel 41, tweede lid, bedoeld certificaat, afgegeven door een andere instelling voor educatie en beroepsonderwijs;  
 
-c. één cijferlijst als bedoeld in [artikel 28, eerste of tweede lid](../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), of [artikel 29, eerste lid, van het Staatsexamenbesluit VO BES](../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md);  
+c. één cijferlijst als bedoeld in artikel 28, eerste of tweede lid, of artikel 29, eerste lid, van het Staatsexamenbesluit VO BES;  
 
-d. een of meer bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van dit besluit, of als bedoeld in [artikel 10, vierde lid, van het Staatsexamenbesluit VO BES](../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md).     
+d. een of meer bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van dit besluit, of als bedoeld in artikel 10, vierde lid, van het Staatsexamenbesluit VO BES.     
 5.  Cijferlijsten worden uitsluitend bij de vaststelling van de uitslag betrokken, indien na het jaar waarin zij zijn vastgesteld, nog geen 10 jaren zijn verstreken. Bewijzen van ontheffing worden uitsluitend bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen 10 jaren zijn verstreken.   
-6.  De kandidaat toont in voorkomend geval ten genoegen van de directeur aan dat hij recht heeft op een vrijstelling of ontheffing ingevolge de artikelen 11, 12, 13, 14, 15, 16 of 17, of ingevolge artikel 8, van dit besluit, dan wel als bedoeld in [artikel 9 van het Staatsexamenbesluit VO BES](../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md).   
+6.  De kandidaat toont in voorkomend geval ten genoegen van de directeur aan dat hij recht heeft op een vrijstelling of ontheffing ingevolge de artikelen 11, 12, 13, 14, 15, 16 of 17, of ingevolge artikel 8, van dit besluit, dan wel als bedoeld in artikel 9 van het Staatsexamenbesluit VO BES.   
 7.  De directeur vergewist zich ervan dat het eindexamen de in de artikelen 11, 12, 13, 14, 15, 16 of 17 voorgeschreven vakken omvat.   
 8.  Indien de kandidaat eindexamen heeft afgelegd en in datzelfde jaar deelstaatsexamen heeft afgelegd of deeleindexamen aan een instelling voor educatie en beroepsonderwijs, worden de met het deelstaatsexamen respectievelijk deeleindexamen behaalde cijfers, indien de kandidaat daarom tijdig en schriftelijk heeft verzocht, betrokken bij de uitslagbepaling.  
 
@@ -580,7 +580,7 @@ c. hij voor de vakken lichamelijke opvoeding en het kunstvak uit het gemeenschap
 
 d. als het een eindexamen gemengde of theoretische leerweg betreft: hij voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald.     
 2.  Voor de toepassing van het eerste lid, onderdeel b, wordt het eindcijfer van het afdelingsvak of het intrasectorale of intersectorale programma in de basisberoepsgerichte en de kaderberoepsgerichte leerweg meegerekend als twee eindcijfers.   
-3.  In afwijking van het eerste lid, is de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd ter afsluiting van een leerwerktraject als bedoeld in [artikel 19 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) geslaagd indien hij voor het beroepsgerichte programma ten minste het eindcijfer 6 en voor het vak Nederlandse taal ten minste het eindcijfer 5 heeft behaald. Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de basisberoepsgerichte leerweg, bedoeld in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), zijn het eerste en tweede lid van overeenkomstige toepassing.   
+3.  In afwijking van het eerste lid, is de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd ter afsluiting van een leerwerktraject als bedoeld in artikel 19 van de wet geslaagd indien hij voor het beroepsgerichte programma ten minste het eindcijfer 6 en voor het vak Nederlandse taal ten minste het eindcijfer 5 heeft behaald. Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de basisberoepsgerichte leerweg, bedoeld in artikel 18 van de wet, zijn het eerste en tweede lid van overeenkomstige toepassing.   
 4.  Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de directeur deze schriftelijk aan de kandidaat bekend, onder mededeling van het in artikel 38 bepaalde. De uitslag is de definitieve uitslag indien artikel 38, eerste lid, geen toepassing vindt.  
 
 ### Artikel  37a  
@@ -610,11 +610,9 @@ e. hij voor de vakken culturele en kunstzinnige vorming en lichamelijke opvoedin
 
 a. literatuur, als onderdeel van alle afzonderlijke moderne talen, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, literatuur voor de bepaling van de eindcijfers een onderdeel is van het schoolexamen van de desbetreffende taal en literatuur;  
 
-b. klassieke culturele vorming, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, klassieke culturele vorming voor de bepaling van de eindcijfers een onderdeel is van het schoolexamen van Latijnse taal en literatuur en Griekse taal en literatuur;  
+b. algemene natuurwetenschappen in het havo;  
 
-c. algemene natuurwetenschappen in het havo;  
-
-d. bij bijzondere scholen: godsdienst of levensbeschouwelijk vormingsonderwijs, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, godsdienst of levensbeschouwelijk vormingsonderwijs geen onderdeel is van het eindexamen, tenzij Onze Minister daarvoor goedkeuring heeft verleend met toepassing van artikel 11, eerste lid, onder c, artikel 12, eerste lid, onder c, of artikel 13, eerste lid, onder c.     
+c. bij bijzondere scholen: godsdienst of levensbeschouwelijk vormingsonderwijs, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, godsdienst of levensbeschouwelijk vormingsonderwijs geen onderdeel is van het eindexamen, tenzij Onze Minister daarvoor goedkeuring heeft verleend met toepassing van artikel 11, eerste lid, onder c, artikel 12, eerste lid, onder c, of artikel 13, eerste lid, onder c.     
 3.  Indien het bevoegd gezag toepassing geeft aan de tweede volzin van het tweede lid, wordt in het examenreglement, bedoeld in artikel 18, vermeld welk onderdeel of welke onderdelen worden toegevoegd.   
 4.  De directeur bepaalt het eindcijfer, bedoeld in het tweede lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende onderdelen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
 5.  Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de directeur deze schriftelijk aan de kandidaat bekend, onder mededeling van het in artikel 38 bepaalde. De uitslag is de definitieve uitslag indien artikel 38, eerste lid, geen toepassing vindt.  
@@ -662,11 +660,11 @@ a. indien het betreft het eindexamen vwo of het eindexamen havo:
 
 2°. de vakken algemene natuurwetenschappen en maatschappijleer waarvoor de kandidaat bij het eindexamen vwo is vrijgesteld op grond van het bezit van een diploma havo, worden niet vermeld op de cijferlijst;  
 
-3°. vakken waarvoor de kandidaat is vrijgesteld op grond van artikel 8 van dit besluit of [artikel 9 van het Staatsexamenbesluit VO BES](../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+3°. vakken waarvoor de kandidaat is vrijgesteld op grond van artikel 8 van dit besluit of artikel 9 van het Staatsexamenbesluit VO BES, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
 4°. vakken waarvoor de kandidaat bij het eindexamen vwo is vrijgesteld op grond van een eerder afgelegd eindexamen havo of eindexamen vmbo waarvan deze vwo-vakken deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
-5°. vakken waarvoor de kandidaat bij het eindexamen havo is vrijgesteld op grond van een eerder afgelegd eindexamen vmbo waarvan deze vakken dan wel de overeenkomstige vakken, bedoeld in [artikel 40, achtste lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+5°. vakken waarvoor de kandidaat bij het eindexamen havo is vrijgesteld op grond van een eerder afgelegd eindexamen vmbo waarvan deze vakken dan wel de overeenkomstige vakken, bedoeld in artikel 40, achtste lid, van de wet, deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
 6°. andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer;    
 
@@ -674,9 +672,9 @@ b. indien het betreft het eindexamen vmbo:
 
 1°. de vakken behorende tot de beeldende vorming, muziek, dans, drama en lichamelijke opvoeding van het gemeenschappelijk deel worden niet vermeld op de cijferlijst indien de kandidaat het eindexamen aflegt aan een instelling voor educatie en beroepsonderwijs;  
 
-2°. vakken waarvoor de kandidaat is vrijgesteld op grond van artikel 8 van dit besluit of [artikel 9 van het Staatsexamenbesluit VO BES](../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md), worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+2°. vakken waarvoor de kandidaat is vrijgesteld op grond van artikel 8 van dit besluit of artikel 9 van het Staatsexamenbesluit VO BES, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
-3°. vakken waarvoor de kandidaat bij het eindexamen vmbo voor zover het betreft de theoretische leerweg, is vrijgesteld op grond van een eerder afgelegd eindexamen vmbo voor zover het betreft de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg waarvan deze vakken dan wel de overeenkomstige vakken, bedoeld in [artikel 16, negende lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+3°. vakken waarvoor de kandidaat bij het eindexamen vmbo voor zover het betreft de theoretische leerweg, is vrijgesteld op grond van een eerder afgelegd eindexamen vmbo voor zover het betreft de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg waarvan deze vakken dan wel de overeenkomstige vakken, bedoeld in artikel 16, negende lid, van de wet, deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
 4°. andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.       
 6.  De directeur en de secretaris van het eindexamen ondertekenen de diploma’s en de cijferlijsten.   
@@ -691,7 +689,7 @@ De directeur van een scholengemeenschap of school voor vwo die gymnasium verzorg
 
 a. de scholengemeenschap of school voor vwo atheneum onderwijs verzorgt;  
 
-b. de scholengemeenschap of school voor vwo overeenkomstig [artikel 44 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) kenbaar heeft gemaakt dat het behalen van een diploma atheneum en het volgen van atheneumonderwijs mogelijk is; en  
+b. de scholengemeenschap of school voor vwo overeenkomstig artikel 44 van de wet kenbaar heeft gemaakt dat het behalen van een diploma atheneum en het volgen van atheneumonderwijs mogelijk is; en  
 
 c. de kandidaat staat ingeschreven voor atheneum onderwijs.   
 
@@ -781,7 +779,7 @@ d. de cijfers van het centraal examen;
 e. de eindcijfers;  
 
 f. de uitslag van het eindexamen.     
-2.  Het eerste lid is niet van toepassing op een bevoegd gezag dat op grond van artikel 179, tweede lid, van de wet of op grond van [artikel 2.3.4, tweede lid van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) examengegevens samen met het persoonsgebonden nummer verstrekt aan Onze Minister.  
+2.  Het eerste lid is niet van toepassing op een bevoegd gezag dat op grond van artikel 179, tweede lid, van de wet of op grond van artikel 2.3.4, tweede lid van de Wet educatie en beroepsonderwijs BES examengegevens samen met het persoonsgebonden nummer verstrekt aan Onze Minister.  
 
 ### Artikel  45  
 

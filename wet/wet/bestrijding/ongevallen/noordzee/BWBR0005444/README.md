@@ -31,7 +31,7 @@ b. elke andere zaak in drijvende of gezonken staat.
 5.   Het bij of krachtens deze wet ten aanzien van de kapitein bepaalde is van overeenkomstige toepassing op degene die ter plaatse de leiding of het opzicht heeft over een installatie of een andere zaak, bedoeld in het vierde lid.   
 6.   Van de toepassing van deze wet en de daarop berustende bepalingen zijn uitgezonderd:  
 
-a. mijnbouwinstallaties als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
+a. mijnbouwinstallaties als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet;  
 
 b. installaties of schepen, die tot opsporing of winning van delfstoffen in gebruik zijn op een ander dan het Nederlandse deel van het continentaal plat.    
 
@@ -71,7 +71,7 @@ c. de gezondheid van de kustbevolking en het welzijn van het betrokken gebied, m
 2.   In een situatie als bedoeld in het eerste lid zijn de kapitein en de exploitant van het desbetreffende schip en de eigenaar van gevaarlijke of verontreinigende stoffen aan boord van het desbetreffende schip verder verplicht om alle in verband met het ongeval gevraagde gegevens terstond te verstrekken en om desgevraagd terstond mededeling te doen van alle maatregelen die vanwege het schip in verband met het ongeval zijn genomen.   
 3.  Indien zich een ongeval heeft voorgedaan ten gevolge waarvan schadelijke gevolgen als bedoeld in artikel 3, eerste lid, onderdeel a, ontstaan of, naar redelijkerwijs is te voorzien, zullen ontstaan, zijn het eerste en tweede lid ook van toepassing als het desbetreffende schip zich buiten de Nederlandse territoriale zee in de Noordzee bevindt.   
 4.  Bij ministeriële regeling worden regels gesteld met betrekking tot de inhoud van de melding en van de te verstrekken informatie, en de wijze waarop de melding geschiedt en de informatie wordt verstrekt.   
-5.   Indien de kapitein in een situatie als bedoeld in het eerste lid van het ongeval melding heeft gemaakt overeenkomstig de daartoe geregelde verplichtingen in en krachtens [artikel 12 van de Wet voorkoming verontreiniging door schepen](../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) (*Stb.* 1983, 683), geldt de in het eerste lid bedoelde verplichting niet.  
+5.   Indien de kapitein in een situatie als bedoeld in het eerste lid van het ongeval melding heeft gemaakt overeenkomstig de daartoe geregelde verplichtingen in en krachtens artikel 12 van de Wet voorkoming verontreiniging door schepen (*Stb.* 1983, 683), geldt de in het eerste lid bedoelde verplichting niet.  
 
 ### Hoofdstuk  3  
 
@@ -108,7 +108,7 @@ c. het overnemen van het gezag over het schip;
 d. het brengen van het schip naar een Nederlandse haven, in beheer bij het Rijk of een andere openbaar lichaam, indien het schip een ongeval is overkomen dat schadelijke gevolgen heeft als bedoeld in artikel 3, eerste lid, onderdeel a.     
 3.   Bij een maatregel als bedoeld in het tweede lid, onderdeel *d*, kunnen aan de kapitein of de scheepseigenaar met betrekking tot de toegang van het schip tot of het verblijf van het schip in de haven beperkende voorschriften worden opgelegd in het belang van de openbare veiligheid van het gebied waarin de haven is gelegen.   
 4.   Ten aanzien van de in het eerste en tweede lid bedoelde maatregelen is artikel 5, vierde, vijfde en zesde lid, van overeenkomstige toepassing.   
-5.  Ingeval van maatregelen tot het voorkomen, beperken of ongedaan maken van schadelijke gevolgen van het ongeval, bedoeld in artikel 3, eerste lid, onderdeel b, waarbij het schip is gestrand, gezonken of aan de grond geraakt, zijn de [artikelen 5 tot en met 10 van de Wrakkenwet](../../../../../../wet/wrakkenwet/BWBR0001963/README.md) van overeenkomstige toepassing. 
+5.  Ingeval van maatregelen tot het voorkomen, beperken of ongedaan maken van schadelijke gevolgen van het ongeval, bedoeld in artikel 3, eerste lid, onderdeel b, waarbij het schip is gestrand, gezonken of aan de grond geraakt, zijn de artikelen 5 tot en met 10 van de Wrakkenwet van overeenkomstige toepassing. 
 
 ### Artikel  7  
 
@@ -124,8 +124,8 @@ Onze Minister oefent zijn bevoegdheid om op grond van artikel 5 aanwijzingen te 
 
 ### Artikel  9  
 
-1.  Indien zich schadelijke gevolgen van een ongeval voordoen die van invloed zijn voor het gebied van een gemeente, verstrekt Onze Minister de nodige inlichtingen aan de burgemeester, aan de commissaris van de Koning en, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), aan de voorzitter van de veiligheidsregio.   
-2.   Indien de tenuitvoerlegging van de ingevolge artikel 5 gegeven aanwijzingen of de uitvoering van de ingevolge artikel 6 genomen maatregelen van invloed zal zijn voor het gebied van de gemeente, dient over de gevolgen van de aanwijzingen of maatregelen vooraf overleg te worden gevoerd met de burgemeester, dan wel, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), de voorzitter van de veiligheidsregio, tenzij zich een situatie voordoet die onmiddellijk ingrijpen noodzakelijk maakt. In dat geval wordt dit overleg zo spoedig mogelijk gevoerd. Onze Minister verstrekt de commissaris van de Koning de nodige inlichtingen.  
+1.  Indien zich schadelijke gevolgen van een ongeval voordoen die van invloed zijn voor het gebied van een gemeente, verstrekt Onze Minister de nodige inlichtingen aan de burgemeester, aan de commissaris van de Koning en, in geval van een situatie als bedoeld in artikel 39 van de Wet veiligheidsregio’s, aan de voorzitter van de veiligheidsregio.   
+2.   Indien de tenuitvoerlegging van de ingevolge artikel 5 gegeven aanwijzingen of de uitvoering van de ingevolge artikel 6 genomen maatregelen van invloed zal zijn voor het gebied van de gemeente, dient over de gevolgen van de aanwijzingen of maatregelen vooraf overleg te worden gevoerd met de burgemeester, dan wel, in geval van een situatie als bedoeld in artikel 39 van de Wet veiligheidsregio’s, de voorzitter van de veiligheidsregio, tenzij zich een situatie voordoet die onmiddellijk ingrijpen noodzakelijk maakt. In dat geval wordt dit overleg zo spoedig mogelijk gevoerd. Onze Minister verstrekt de commissaris van de Koning de nodige inlichtingen.  
 
 ### Artikel  10  
 
@@ -187,7 +187,7 @@ De kapitein of de scheepseigenaar neemt, nadat een ongeval heeft plaatsgevonden,
 
 ### Artikel  18  
 
-De [Wrakkenwet](../../../../../../wet/wrakkenwet/BWBR0001963/README.md) (Stb. 1934, 401) is niet van toepassing in de Nederlandse territoriale zee met betrekking tot een ongeval dat schadelijke gevolgen heeft als bedoeld in artikel 3, eerste lid, onderdelen a en b. 
+De Wrakkenwet (Stb. 1934, 401) is niet van toepassing in de Nederlandse territoriale zee met betrekking tot een ongeval dat schadelijke gevolgen heeft als bedoeld in artikel 3, eerste lid, onderdelen a en b. 
 
 ### Artikel  19  
 

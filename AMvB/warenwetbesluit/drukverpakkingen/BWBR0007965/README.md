@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 juli 1995, nr. DGVgz/VVP/P 951612, gedaan in overeenstemming met Onze Minister van Economische Zaken;
 
-Gelet op Richtlijn nr. 94/1/EG van de Commissie van de Europese Gemeenschappen van 6 januari 1994, houdende technische aanpassing van richtlijn 75/324/EEG van de Raad inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende aërosols (*PbEG* L 23), op de [artikelen 1, vierde lid](../../../../wet/warenwet/BWBR0001969/README.md), [4, eerste lid](../../../../wet/warenwet/BWBR0001969/README.md), [6, onder d ](../../../../wet/warenwet/BWBR0001969/README.md), [8, onder d ](../../../../wet/warenwet/BWBR0001969/README.md), [11](../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md), op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op de [artikelen 34, derde lid](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), [36, tweede lid](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), [37](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), [39, tweede, derde en vierde lid](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md), en [60, derde lid, van de Wet milieugevaarlijke stoffen](../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md);
+Gelet op Richtlijn nr. 94/1/EG van de Commissie van de Europese Gemeenschappen van 6 januari 1994, houdende technische aanpassing van richtlijn 75/324/EEG van de Raad inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende aërosols (*PbEG* L 23), op de artikelen 1, vierde lid, 4, eerste lid, 6, onder d , 8, onder d , 11, 12, 13 en 14 van de Warenwet, op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op de artikelen 34, derde lid, 36, tweede lid, 37, 39, tweede, derde en vierde lid, en 60, derde lid, van de Wet milieugevaarlijke stoffen;
 
 Gezien het advies van de Adviescommissie Warenwet van 30 maart 1995, no. 14854/(32)5;
 
@@ -28,7 +28,7 @@ b. aërosol: een eenheid bestaande uit een éénmaal te gebruiken houder, die ee
 
 c. totale capaciteit: het volume van een open houder die tot aan de rand van de opening is gevuld, uitgedrukt in milliliters;  
 
-d. ontvlambare bestanddelen: stoffen of preparaten die krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) moeten worden ingedeeld in de categorieën zeer licht ontvlambaar, licht ontvlambaar en ontvlambaar;  
+d. ontvlambare bestanddelen: stoffen of preparaten die krachtens het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten moeten worden ingedeeld in de categorieën zeer licht ontvlambaar, licht ontvlambaar en ontvlambaar;  
 
 e. koolzuur: het kooldioxide (E290) zoals omschreven in het Conserveermiddelenbesluit (Warenwet);  
 
@@ -83,7 +83,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ### Artikel  8  
 
-1.  Een verpakking die een koolzuur houdende drinkwaar als bedoeld in het [Warenwetbesluit Frisdranken](../../../../AMvB/warenwetbesluit/frisdranken/BWBR0007501/README.md) bevat dan wel daarvoor is bestemd, moet: 
+1.  Een verpakking die een koolzuur houdende drinkwaar bevat dan wel daarvoor is bestemd, moet: 
 
 a. zodanig zijn voor wat betreft aard en samenstelling en andere eigenschappen van materiaal, vorm, afmetingen, gewicht, volume en barstdruk,  
 
@@ -98,7 +98,7 @@ c. in een zodanige staat verkeren, dat bij normaal gebruik geen gevaar voor uite
 
 ### Artikel  9  
 
-Dit besluit berust mede op de [artikelen 9.2.3.1, derde en vierde lid](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.3.2](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.3.3](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.5 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Dit besluit berust mede op de artikelen 9.2.3.1, derde en vierde lid, 9.2.3.2, 9.2.3.3 en 9.2.3.5 van de Wet milieubeheer. 
 
 ### Artikel  10  
 

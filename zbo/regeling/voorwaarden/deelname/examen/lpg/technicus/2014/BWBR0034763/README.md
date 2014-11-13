@@ -3,7 +3,7 @@
 ##Regeling voorwaarden deelname examen LPG technicus 2014
 
 De directie van de Dienst Wegverkeer (RDW),  
-Gelet op [artikel 12, derde lid van de Regeling houdende eisen met betrekking tot een erkenning voor het uitvoeren van een wijziging in de constructie van een voertuig](../../../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) (Regeling aanpassing voertuigen);
+Gelet op artikel 12, derde lid van de Regeling houdende eisen met betrekking tot een erkenning voor het uitvoeren van een wijziging in de constructie van een voertuig (Regeling aanpassing voertuigen);
 Besluit:     
 ### §  1  
 

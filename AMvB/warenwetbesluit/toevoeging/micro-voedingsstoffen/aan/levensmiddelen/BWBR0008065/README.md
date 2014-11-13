@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 25 september 1995, nr DGVgz/VVP/L 952051, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op [artikel 4, eerste lid, onder a en b](../../../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 5, eerste lid, onder c](../../../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 8, onder *a* en *c*, van de Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op artikel 4, eerste lid, onder a en b, artikel 5, eerste lid, onder c, en artikel 8, onder *a* en *c*, van de Warenwet;
 
 Gezien het advies van de Voedingsraad van 11 november 1993, nummer 931111/01 en het advies van de Adviescommissie Warenwet van 27 juni 1995 met nummer 14877/(2/3)5;
 
@@ -44,7 +44,7 @@ f.  *redelijk geachte dagconsumptie*: de totale hoeveelheid van een eet- of drin
 
 g.*verordening (EG) 1925/2006*: verordening (EG) nr. 1925/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende de toevoeging van vitaminen en mineralen en bepaalde andere stoffen aan levensmiddelen (PbEU L 404);
 
-h.*brood*: brood, bedoeld in het [Warenwetbesluit Meel en brood](../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md);
+h.*brood*: brood, bedoeld in het Warenwetbesluit Meel en brood;
 
 i.*bakkerszout*: gejodeerd keukenzout dat gebruikt wordt bij de bereiding van brood en andere bakkerijproducten.   
 2.  Dit besluit is niet van toepassing op eet- of drinkwaren waaraan uitsluitend uit technologische overwegingen één of meer micro-voedingsstoffen zijn toegevoegd.  
@@ -72,7 +72,7 @@ De micro-voedingsstoffen vitamine A in de vorm van retinoïden, vitamine D, foli
 
 ### Artikel  5a  
 
-Aan de in de bijlage, bij verordening (EG) nr. 2991/94 van de Raad van de Europese Unie van 5 december 1994 tot vaststelling van normen voor smeerbare vetprodukten (Pb EG L 316), onder B en C, bedoelde vetten, aan vloeibare producten die een zelfde gebruiksdoel hebben, en aan bak- en braadproducten, is het toegestaan vitamine A en D toe te voegen, waarbij het gehalte aan vitamine A ten hoogste 8 µg RE, en het gehalte aan vitamine D ten hoogste 0,075 µg per gram bedraagt. 
+Aan de in in aanhangsel II bij bijlage VII, onder B en C, van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013, tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347), bedoelde vetten, aan vloeibare producten die een zelfde gebruiksdoel hebben, en aan bak- en braadproducten, is het toegestaan vitamine A en D toe te voegen, waarbij het gehalte aan vitamine A ten hoogste 8 µg RE, en het gehalte aan vitamine D ten hoogste 0,075 µg per gram bedraagt. 
 
 ### Artikel  6  
 

@@ -22,9 +22,9 @@ op Richtlijn nr 92/46/EEG van de Raad van de Europese Gemeenschappen van 16 juni
 
 op Richtlijn nr 92/47/EEG van de Raad van de Europese Gemeenschappen van 16 juni 1992 houdende vaststelling van de voorschriften voor het toestaan van tijdelijke en beperkte afwijkingen op de specifieke communautaire gezondheidsvoorschriften voor de produktie en het in de handel brengen van melk en produkten op basis van melk (*PbEG* L 268);
 
-op artikel II van de Wijzigingswet 1988 Warenwet jo. de [artikelen 14](../../../../wet/warenwet/BWBR0001969/README.md), 14*a*, [15](../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../wet/warenwet/BWBR0001969/README.md) en 16*a* van de Warenwet (*Stb.* 1935, 793);
+op artikel II van de Wijzigingswet 1988 Warenwet jo. de artikelen 14, 14*a*, 15, 16 en 16*a* van de Warenwet (*Stb.* 1935, 793);
 
-alsmede op [artikel 1, vierde lid](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 4, eerste lid](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 5, eerste lid, onder a en b, en zesde lid](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 6, onder d](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 8, onder a, b, c en d](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 9, onder b](../../../../wet/warenwet/BWBR0001969/README.md), en de [artikelen 12](../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360);
+alsmede op artikel 1, vierde lid, artikel 4, eerste lid, artikel 5, eerste lid, onder a en b, en zesde lid, artikel 6, onder d, artikel 8, onder a, b, c en d, artikel 9, onder b, en de artikelen 12, 13 en 14 van de Warenwet (*Stb.* 1988, 360);
 
 Gezien het advies van de Adviescommissie Warenwet van 8 april 1994 met nummer 14 721/(21)5;
 
@@ -78,7 +78,7 @@ m.  *produkten op basis van melk*:
 
 2°. samengestelde zuivelprodukten, dat wil zeggen produkten waarvan geen enkel element in de plaats komt van een melkbestanddeel of bedoeld is om daarvoor in de plaats te komen en waarvan de melk of een zuivelprodukt een essentieel bestanddeel is, hetzij door de hoeveelheid, hetzij omdat het effect kenmerkend is voor deze produkten;    
 
-n.  *micro-organismen van yoghurt-cultuur*: micro-organismen van de soorten Lactobacillus del-brueckii ssp. bulgaricus en Lactococcus salivarius ssp. thermophilus;  
+n.  *micro-organismen van yoghurt-cultuur*: micro-organismen van de soorten Lactobacillus del-brueckii ssp. bulgaricus en Streptococcus thermophilus;  
 
 o.  *Conventie van Stresa*: de internationale overeenkomst nopens het gebruik van aanduidingen van herkomst en benamingen van kaassoorten, tot stand gekomen te Stresa op 1 juni 1951 (*Trb.* 1952, 61)  
 
@@ -186,7 +186,7 @@ c. heeft een nitraatgehalte, berekend als nitraation NO3, van ten hoogste 50 mg 
 
 d. heeft een nitrietgehalte, berekend als nitrietion NO2, van ten hoogste 2 mg per kg in de droge stof.     
 3.   Indien aan een op de voet van dit artikel aangeduide waar caseïnaat onderscheidenlijk wei-eiwitconcentraat is toegevoegd, wordt een vermelding gebezigd, die aangeeft welk percentage van deze stoffen is toegevoegd.   
-4.   In aanvulling op [artikel 9, onder *d*, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), behoeft de daar bedoelde lijst van ingrediënten ook niet te worden gebezigd voor de als yoghurt, halfvolle yoghurt of magere yoghurt aangeduide waar, voor zover ter zake geen andere ingrediënten zijn gebruikt dan koemelkbestanddelen, enzymen en culturen van micro-organismen.  
+4.   In aanvulling op artikel 9, onder *d*, van het Warenwetbesluit Etikettering van levensmiddelen, behoeft de daar bedoelde lijst van ingrediënten ook niet te worden gebezigd voor de als yoghurt, halfvolle yoghurt of magere yoghurt aangeduide waar, voor zover ter zake geen andere ingrediënten zijn gebruikt dan koemelkbestanddelen, enzymen en culturen van micro-organismen.  
 
 ### Artikel  9  
 
@@ -197,11 +197,11 @@ d. heeft een nitrietgehalte, berekend als nitrietion NO2, van ten hoogste 2 mg p
 2°. verwijdering van wei; en  
 
 3°. rijping tot de waar gereed is voor consumptie.     
-2.  Voor kaas mag een van de namen, bedoeld in de bijlage en [hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md) worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan: 
+2.  Voor kaas mag een van de namen, bedoeld in de bijlage en hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan: 
 
 a. de desbetreffende kaasstandaard; of  
 
-b. [hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md).    
+b. hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten.    
 
 ### Artikel  10  
 
@@ -245,7 +245,7 @@ b. voorkomt in de Landbouwkwaliteitsregeling en bereid is in Nederland.
 a. aanwezig is in winkels of in enige andere voor het publiek toegankelijke verkoopplaats; en  
 
 b. geen rijksmerk draagt zoals bedoeld in de Landbouwkwaliteitsregeling kaasprodukten;   is voorzien van de desbetreffende aanduiding en van een vermelding, aangevende het vetgehalte van de droge stof van die kaas.   
-2.   In afwijking van [artikel 27 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) worden de in het eerste lid bedoelde aanduiding en vermeldingen aangebracht op:  
+2.   In afwijking van artikel 27 van het Warenwetbesluit Etikettering van levensmiddelen worden de in het eerste lid bedoelde aanduiding en vermeldingen aangebracht op:  
 
 a. de korst van de kaas;  
 

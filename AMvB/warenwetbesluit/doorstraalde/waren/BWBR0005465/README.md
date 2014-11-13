@@ -12,11 +12,11 @@ Overwegende, dat het evenwel als ongewenst moet worden beschouwd dat eet- en dri
 
 Overwegende, dat bovendien voorkomen moet worden dat voor de bereiding van eet- en drinkwaren gebruik zou worden gemaakt van oorspronkelijk ondeugdelijke grondstoffen die evenwel na een behandeling met ioniserende stralen alsnog in overeenstemming zijn gebracht met de van toepassing zijnde eisen;
 
-Overwegende, dat het Algemeen Aanduidingenbesluit (Warenwet) (*Stb.* 1981, 621) en het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) (*Stb.* 1992, 14) moeten worden aangevuld met specifieke voorschriften ten behoeve van de informatie aan eindverbruikers, betreffende de vermelding van een eventuele behandeling met ioniserende stralen van eet- en drinkwaren en ingrediënten daarvan;
+Overwegende, dat het Algemeen Aanduidingenbesluit (Warenwet) (*Stb.* 1981, 621) en het Warenwetbesluit Etikettering van levensmiddelen (*Stb.* 1992, 14) moeten worden aangevuld met specifieke voorschriften ten behoeve van de informatie aan eindverbruikers, betreffende de vermelding van een eventuele behandeling met ioniserende stralen van eet- en drinkwaren en ingrediënten daarvan;
 
 Overwegende, dat daarnaast ook bereiders van eet- en drinkwaren moeten worden ingelicht over een eventuele behandeling van grondstoffen met ioniserende stralen;
 
-Gelet op de [artikelen 1, vijfde lid](../../../../../wet/warenwet/BWBR0001969/README.md), [4, eerste lid,](../../../../../wet/warenwet/BWBR0001969/README.md) [5, eerste lid, onderdelen a, 1°, en b, vierde en zesde lid](../../../../../wet/warenwet/BWBR0001969/README.md), [6, onderdeel d](../../../../../wet/warenwet/BWBR0001969/README.md), [8, onderdeel c](../../../../../wet/warenwet/BWBR0001969/README.md), [9](../../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../../wet/warenwet/BWBR0001969/README.md) en [16 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) (Stb. 1988, 360) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358), jo [artikel 14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) (Stb. 1935, 793);
+Gelet op de artikelen 1, vijfde lid, 4, eerste lid, 5, eerste lid, onderdelen a, 1°, en b, vierde en zesde lid, 6, onderdeel d, 8, onderdeel c, 9, 12 en 16 van de Warenwet (Stb. 1988, 360) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358), jo artikel 14 van de Warenwet (Stb. 1935, 793);
 
 Gehoord de Adviescommissie Warenwet (advies van 12 juli 1985, nr. 13516/115);
 
@@ -34,9 +34,9 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. ioniserende stralen: hetgeen daaronder in de [Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) (*Stb.* 1963, 82) wordt verstaan;  
+a. ioniserende stralen: hetgeen daaronder in de Kernenergiewet (*Stb.* 1963, 82) wordt verstaan;  
 
-b. installatie: een onderneming waaraan krachtens de [Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) een vergunning is verleend voor het voorhanden hebben en toepassen van radioactieve stoffen, of voor het gebruiken van een ioniserende stralen uitzendend toestel, waarmee een behandeling van waren met ioniserende stralen kan worden uitgevoerd;  
+b. installatie: een onderneming waaraan krachtens de Kernenergiewet een vergunning is verleend voor het voorhanden hebben en toepassen van radioactieve stoffen, of voor het gebruiken van een ioniserende stralen uitzendend toestel, waarmee een behandeling van waren met ioniserende stralen kan worden uitgevoerd;  
 
 c. doorstraalde waren: waren die met ioniserende stralen zijn behandeld;  
 
@@ -66,7 +66,7 @@ c. elektronen opgewekt door machinale bronnen, met een energieniveau van ten hoo
 2.   De behandeling van waren met ioniserende stralen mag uitsluitend plaatsvinden in een installatie als bedoeld in artikel 1, eerste lid, onder b, waarvoor een erkenning voor het mogen uitvoeren van die behandeling door Onze Minister is afgegeven.   
 3.   Onverminderd het bepaalde in het vierde lid wordt, voor zover het betreft het behandelen met ioniserende stralen van eet- en drinkwaren en grondstoffen de in het tweede lid bedoelde erkenning verleend indien de installatie voldoet aan de Recommended International Code of Practice for the Operation of Irradiation Facilities Used for the Treatment of Foods (FAO/WHO CAC/Vol. XV, Ed.1.CAC/RCP 10-1979 (Rev. 1) van de Codex Alimentarius, en een persoon is aangewezen die instaat voor de naleving van alle eisen die met betrekking tot dit procédé noodzakelijk zijn.   
 4.   Onze Minister kan nadere eisen vaststellen met betrekking tot de voorwaarden voor het verlenen van een erkenning als bedoeld in het tweede lid.   
-5.   Aanvragen voor een erkenning als bedoeld in het tweede lid moeten worden ingediend bij Onze Minister. Deel van zodanige aanvraag moet in elk geval uitmaken een afschrift van de krachtens [artikel 29](../../../../../wet/kernenergiewet/BWBR0002402/README.md) of [34 van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) verleende vergunning.  
+5.   Aanvragen voor een erkenning als bedoeld in het tweede lid moeten worden ingediend bij Onze Minister. Deel van zodanige aanvraag moet in elk geval uitmaken een afschrift van de krachtens artikel 29 of 34 van de Kernenergiewet verleende vergunning.  
 
 ### Artikel  4  
 
@@ -142,7 +142,7 @@ d. eet- of drinkwaren of grondstoffen te ontdoen van organismen die schadelijk z
 
 ### Artikel  7  
 
-De tweede volzin van [artikel 1, derde lid, van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360), voor zover het betreft het afleveren van eet- en drinkwaren en grondstoffen om deze door middel van een behandeling met ioniserende stralen kennelijk in overeenstemming te brengen met het bepaalde in of krachtens die wet, is niet van toepassing op eet- en drinkwaren en grondstoffen die niet in overeenstemming zijn met [artikel 18](../../../../../wet/warenwet/BWBR0001969/README.md) van die wet. 
+De tweede volzin van artikel 1, derde lid, van de Warenwet (*Stb.* 1988, 360), voor zover het betreft het afleveren van eet- en drinkwaren en grondstoffen om deze door middel van een behandeling met ioniserende stralen kennelijk in overeenstemming te brengen met het bepaalde in of krachtens die wet, is niet van toepassing op eet- en drinkwaren en grondstoffen die niet in overeenstemming zijn met artikel 18 van die wet. 
 
 ### Artikel  8  
 
@@ -180,13 +180,13 @@ b. bij iedere zending moeten de gegevens, bedoeld in artikel 4, eerste lid, zijn
 ### Artikel  10  
 
 1.  Bij de verhandeling van doorstraalde eet- en drinkwaren en grondstoffen die niet zijn bestemd voor de eindverbruiker of een instelling, moet worden gebezigd de vermelding van de naam en het adres van de installatie waar de behandeling met ioniserende stralen is uitgevoerd.   
-2.   De volgende onderdelen van het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde verhandeling:  
+2.   De volgende onderdelen van het Warenwetbesluit Etikettering van levensmiddelen zijn van overeenkomstige toepassing op de in het eerste lid bedoelde verhandeling:  
 
-a.  [artikel 5, eerste lid, onder i](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), betreffende de aanduiding van de produktiepartij;  
+a.  artikel 5, eerste lid, onder i, betreffende de aanduiding van de produktiepartij;  
 
-b.  [artikel 4, vijfde en zesde lid](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), betreffende de aanduiding van de behandeling van de waar, indien zij met ioniserende stralen is behandeld; en  
+b.  artikel 4, vijfde en zesde lid, betreffende de aanduiding van de behandeling van de waar, indien zij met ioniserende stralen is behandeld; en  
 
-c.  [artikel 7, zesde lid](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), betreffende de aanduiding van bij de bereiding van de waar gebruikte, met ioniserende stralen behandelde ingrediënten.    
+c.  artikel 7, zesde lid, betreffende de aanduiding van bij de bereiding van de waar gebruikte, met ioniserende stralen behandelde ingrediënten.    
 
 ### §  7  
 
@@ -195,7 +195,7 @@ c.  [artikel 7, zesde lid](../../../../../AMvB/warenwetbesluit/etikettering/van/
 ### Artikel  11  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, alsmede detectiemethoden.   
-2.   Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie omtrent de in het eerste lid bedoelde methoden nadere regels stellen.  
+2.  Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.  
 
 ### Artikel  12  
 

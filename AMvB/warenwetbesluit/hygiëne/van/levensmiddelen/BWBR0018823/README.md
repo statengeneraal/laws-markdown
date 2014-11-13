@@ -22,7 +22,7 @@ Gelet op:
 
 – verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en L 191); en
 
-– de [artikelen 4, eerste en tweede lid, ](../../../../../../wet/warenwet/BWBR0001969/README.md)[5](../../../../../../wet/warenwet/BWBR0001969/README.md), [6](../../../../../../wet/warenwet/BWBR0001969/README.md), [8, eerste lid](../../../../../../wet/warenwet/BWBR0001969/README.md),[ 9](../../../../../../wet/warenwet/BWBR0001969/README.md), [11](../../../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../../../wet/warenwet/BWBR0001969/README.md), [13, onder a, 14](../../../../../../wet/warenwet/BWBR0001969/README.md) en [22, eerste lid, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md);
+– de artikelen 4, eerste en tweede lid, 5, 6, 8, eerste lid, 9, 11, 12, 13, onder a, 14 en 22, eerste lid, van de Warenwet;
 
 De Raad van State gehoord (advies van 2 september 2005, no. W13.05.0264/III);
 
@@ -40,17 +40,15 @@ a.  *verordening (EG) 852/2004*: verordening (EG) nr. 852/2004 van het Europees 
 
 b.  *hygiënecode*: een in Nederland opgestelde nationale gids voor goede praktijken inzake hygiëne en de toepassing van HACCP-beginselen als bedoeld in artikel 7 van verordening (EG) 852/2004;  
 
-c.  *richtlijn 96/3/Euratom, EGKS, EG*: richtlijn nr. 96/3/Euratom, EGKS, EG van de Commissie van de Europese Gemeenschappen van 26 januari 1996 (PbEG L 21) inzake een afwijking van enkele bepalingen van richtlijn 93/43/EEG van de Raad inzake levensmiddelenhygiëne voor het bulkvervoer van vloeibare oliën en vetten over zee;  
+c.  *richtlijn 98/28/EG*: richtlijn nr. 98/28/EG van de Commissie van de Europese Gemeenschappen van 29 april 1998 (PbEG L 140) inzake een afwijking van enkele bepalingen van richtlijn 93/43/EEG van de Raad inzake levensmiddelenhygiëne voor het bulkvervoer over zee van ruwe suiker;  
 
-d.  *richtlijn 98/28/EG*: richtlijn nr. 98/28/EG van de Commissie van de Europese Gemeenschappen van 29 april 1998 (PbEG L 140) inzake een afwijking van enkele bepalingen van richtlijn 93/43/EEG van de Raad inzake levensmiddelenhygiëne voor het bulkvervoer over zee van ruwe suiker;  
+d.  *verordening (EG) 853/2004*: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);  
 
-e.  *verordening (EG) 853/2004*: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);  
+e.  *verordening (EG) 854/2004*: verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU L 139 en L 226);  
 
-f.  *verordening (EG) 854/2004*: verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU L 139 en L 226);  
+f.  *verordening (EG) 882/2004*: verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en L 191); 
 
-g.  *verordening (EG) 882/2004*: verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en L 191); 
-
-h.  *verordening (EG) 2073/2005*: verordening (EG) nr. 2073/2005 van de Commissie van de Europese Gemeenschappen van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU L 338).    
+g.  *verordening (EG) 2073/2005*: verordening (EG) nr. 2073/2005 van de Commissie van de Europese Gemeenschappen van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU L 338).    
 2.  Dit besluit is niet van toepassing op: 
 
 a. de exploitanten van slachthuizen, bedoeld in bijlage II, secties II en III, van verordening (EG) 853/2004;  
@@ -83,7 +81,7 @@ d. de officiële controles op de naleving van de wetgeving inzake diervoeders, d
 
 a. bedoeld in artikel 2, eerste lid, onder d, van verordening (EG) 852/2004, en in artikel 2, eerste lid, onder c, van verordening (EG) 854/2004, is de Nederlandse Voedsel- en Warenautoriteit;  
 
-b. bedoeld in artikel 2, vierde lid, van verordening (EG) 882/2004, zijn de diensten waarbij de krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) aangewezen ambtenaren, belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften, werkzaam zijn.     
+b. bedoeld in artikel 2, vierde lid, van verordening (EG) 882/2004, zijn de diensten waarbij de krachtens de Warenwet aangewezen ambtenaren, belast met het toezicht op de naleving van de bij of krachtens de Warenwet gestelde voorschriften, werkzaam zijn.     
 2.  In afwijking van het eerste lid is Onze Minister de bevoegde autoriteit: 
 
 a. inzake de verlening van erkenningen van inrichtingen als bedoeld in: 
@@ -140,7 +138,7 @@ c. bruikbaar is voor de sector waarop die code betrekking heeft; en
 d. als leidraad kan dienen voor de naleving van artikel 3, artikel 4, en artikel 5, van verordening (EG) 852/2004 in de betrokken sector of voor de betrokken levensmiddelen.     
 4.  Een in het tweede lid bedoelde goedkeuring kan, voor zover die goedkeuring betrekking heeft op één of meer van de permanente procedures, bedoeld in artikel 5, eerste lid, van verordening (EG) 852/2004, worden ingetrokken indien de desbetreffende procedure niet is herzien en waar nodig aangepast overeenkomstig artikel 5, tweede lid, laatste alinea, van verordening (EG) 852/2004.   
 5.  Onze Minister of Onze Minister van Economische Zaken, Landbouw en Innovatie, neemt een in het tweede en vierde lid onderscheidenlijk het derde en vierde lid bedoeld besluit, gehoord het advies van de Nederlandse Voedsel- en Warenautoriteit.   
-6.  Het vierde en vijfde lid zijn van overeenkomstige toepassing op een hygiënecode die vóór de inwerkingtreding van dit besluit is opgesteld en goedgekeurd op de voet van [artikel 31, eerste, tweede en derde lid, van de Warenwetregeling Hygiëne van levensmiddelen](../../../../../../ministeriele-regeling/warenwetregeling/hygiëne/van/levensmiddelen/BWBR0007080/README.md).  
+6.  Het vierde en vijfde lid zijn van overeenkomstige toepassing op een hygiënecode die vóór de inwerkingtreding van dit besluit is opgesteld en goedgekeurd op de voet van artikel 31, eerste, tweede en derde lid, van de Warenwetregeling Hygiëne van levensmiddelen.  
 
 ### Artikel  5  
 
@@ -152,7 +150,7 @@ a. voldoet aan de artikelen 3, 4 of 5 van verordening (EG) 852/2004, bedoeld in 
 b. voldoet niet aan de artikelen 3, 4 of 5 van verordening (EG) 852/2004, bedoeld in artikel 4, tweede lid, onder d, indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.     
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op het gebruik van: 
 
-a. een hygiënecode die vóór de inwerkingtreding van dit besluit is opgesteld en goedgekeurd op de voet van [artikel 31, eerste, tweede en derde lid, van de Warenwetregeling Hygiëne van levensmiddelen](../../../../../../ministeriele-regeling/warenwetregeling/hygiëne/van/levensmiddelen/BWBR0007080/README.md);  
+a. een hygiënecode die vóór de inwerkingtreding van dit besluit is opgesteld en goedgekeurd op de voet van artikel 31, eerste, tweede en derde lid, van de Warenwetregeling Hygiëne van levensmiddelen;  
 
 b. communautaire gidsen als bedoeld in artikel 9 van verordening (EG) 852/2004.    
 
@@ -164,7 +162,7 @@ b. communautaire gidsen als bedoeld in artikel 9 van verordening (EG) 852/2004.
 
 In afwijking van artikel 4, tweede lid, van verordening (EG) 852/2004: 
 
-a. mag het bulkvervoer in zeeschepen van vloeibare oliën of vetten die zullen worden gebruikt voor menselijke consumptie, geschieden met inachtneming van richtlijn 96/3/Euratom, EGKS, EG;  
+a. mag het bulkvervoer in zeeschepen van vloeibare oliën of vetten die zullen worden gebruikt voor menselijke consumptie, geschieden met inachtneming van Verordening (EU) nr. 579/2014 van de Commissie van 28 mei 2014 inzake een afwijking van enkele bepalingen van bijlage II bij Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad wat betreft het vervoer van vloeibare oliën en vetten over zee (PbEU 2014, L 160);  
 
 b. mag het bulkvervoer over zee van ruwe suiker die zonder een volledig en effectief raffinageproces te hebben ondergaan niet bestemd is voor gebruik als eetwaar of ingrediënt van een levensmiddel, geschieden met inachtneming van richtlijn 98/28/EG.   
 
@@ -219,11 +217,7 @@ Onze Minister stelt nadere regels inzake de artikelen 1 tot en met 9, voor zover
 
 ### Artikel  11  
 
-Een wijziging van: 
-
-a. richtlijn 96/3/Euratom, EGKS, EG; of  
-
-b. richtlijn 98/28/EG;   gaat voor de toepassing van artikel 6 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. 
+Een wijziging van richtlijn 98/28/EG gaat voor de toepassing van artikel 6 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. 
 
 ### §  6  
 

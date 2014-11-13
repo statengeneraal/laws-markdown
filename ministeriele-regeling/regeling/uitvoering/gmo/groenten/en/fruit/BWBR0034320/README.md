@@ -3072,7 +3072,7 @@ c. Gratis uitreiking, als bedoeld in artikel 80, tweede lid, van verordening 543
 3.  Ten behoeve van de in het eerste lid bedoelde melding maakt de producentenorganisatie of unie van producentenorganisaties gebruik van een formulier dat door de minister ter beschikking is gesteld.   
 4.  Indien de melding bedoeld in het eerste lid plaats vindt voor 0:00 uur, vindt de controle als bedoeld in artikel 108, eerste lid, van verordening 543/2011 uiterlijk de derde werkdag plaats;   
 5.  De uit de markt genomen producten worden bij controle in dusdanige verpakking aangeboden dat controle mogelijk is en in elk geval niet in verpakking met een omvang groter dan 1 kubieke meter.  
-6.  Een producent of producentenorganisatie overlegt bij het indienen van een melding, als bedoeld in het eerste lid, van het uit de markt nemen van ten behoeve van gratis uitreiking, als bedoeld in artikel 230a, vierde lid, onderdeel c, een leveringscontract met de liefdadigheidsinstelling of -organisatie. 
+6.  Een producentenorganisatie toont aan dat bij het indienen van een melding, als bedoeld in het eerste lid, van het uit de markt nemen ten behoeve van gratis uitreiking, als bedoeld in artikel 230a, vierde lid, onderdeel c, de afname door de liefdadigheidsinstelling of -organisatie verzekerd is. Op verzoek van de minister overlegt de producentenorganisatie hiertoe schriftelijke bewijsstukken. 
 
 ### Artikel  230c  
 
@@ -3110,7 +3110,7 @@ i. de normale afzet van de betrokken productie niet in de weg staat, en
 ii. geen negatieve milieu-impact of negatieve fytosanitaire gevolgen heeft als bedoeld in artikel 80, eerste lid, van verordening 543/2011, en    
 
 b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.     
-4.  Indien voor gratis uitreiking, als bedoeld in artikel 230a, vierde lid, onderdeel c, bestemd product door de verwerkende industrie wordt verwerkt toont de afnemer ten genoegen van de minister aan de hand van bewijsstukken aan dat het product niet opnieuw in het commerciële handelscircuit terecht komt. 
+3.  Indien voor gratis uitreiking, als bedoeld in artikel 230a, vierde lid, onderdeel c, bestemd product door de verwerkende industrie wordt verwerkt toont de afnemer ten genoegen van de minister aan de hand van bewijsstukken aan dat het product niet opnieuw in het commerciële handelscircuit terecht komt. 
 
 ### Artikel  230f  
 
@@ -4140,7 +4140,8 @@ Archiefbescheiden van Productschap Tuinbouw betreffende zaken die op basis van d
 
 ### Artikel  313  
 
-Deze regeling treedt in werking met ingang van 1 januari 2014. 
+1. Deze regeling treedt in werking met ingang van 1 januari 2014.  
+2.  De paragrafen 2a en 2b van afdeling 6 van titel 3 van hoofdstuk 4 vervallen met ingang van 1 januari 2015. 
 
 ### Artikel  314  
 

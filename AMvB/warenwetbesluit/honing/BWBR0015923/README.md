@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 5 september 2003, VGB/VL 2405520, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuur en Voedselkwaliteit, van Economische Zaken, en van Justitie;
 
-Gelet op richtlijn nr. 2001/110/EG van de Raad van de Europese Unie van 20 december 2001 inzake honing (PbEG 2002, L 10), alsmede op [artikel 8, onder a, en c](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 12](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 13, onder a](../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 32b, eerste lid, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op richtlijn nr. 2001/110/EG van de Raad van de Europese Unie van 20 december 2001 inzake honing (PbEG 2002, L 10), alsmede op artikel 8, onder a, en c, artikel 12, artikel 13, onder a, en artikel 32b, eerste lid, van de Warenwet;
 
 De Raad van State gehoord (advies van 20 oktober 2003, nummer W13.03.0376/III);
 
@@ -188,8 +188,8 @@ c. niet in water oplosbare stoffen van ten hoogste 0,1 g/100 g; en
 
 d. vrije zuren van ten hoogste 80 milli-equivalenten zuur per 1000 gram.     
 4.  De in het eerste lid bedoelde aanduiding wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.   
-5.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.   
-6.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.  
+5.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.   
+6.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.  
 
 ### Artikel  14  
 
@@ -198,7 +198,7 @@ d. vrije zuren van ten hoogste 80 milli-equivalenten zuur per 1000 gram.
 
 ### Artikel  15  
 
-1.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md): 
+1.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen: 
 
 a. mogen de in deze paragraaf bedoelde aanduidingen worden aangevuld met een vermelding van de bloemen of planten waarvan de waar voor het geheel of voor het grootste deel van afkomstig is, voor zover de waar daaraan zijn organoleptische, fysisch-chemische en microscopische kenmerken ontleent;  
 
@@ -218,7 +218,7 @@ d. worden de landen van oorsprong waar de honing is vergaard op het etiket verme
 
 1.  Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen internationaal erkende gevalideerde methoden.   
 2.  Voor zover internationaal erkende gevalideerde methoden ontbreken, worden voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels worden aangewezen microbiologische onderzoekingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lidstaat van de Europese Unie aangewezen methoden.   
-3.  Onze Minister kan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie omtrent de in het tweede lid bedoelde methoden nadere regels stellen.  
+3.  Onze Minister kan omtrent de in het tweede lid bedoelde methoden nadere regels stellen.  
 
 ### Artikel  17  
 
@@ -226,15 +226,15 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Artikel  18  
 
-Waren die voor 1 augustus 2004 rechtmatig zijn geëtiketteerd overeenkomstig het [Honingbesluit (Warenwet)](../../../../AMvB/honingbesluit/(warenwet)/BWBR0003204/README.md) mogen verhandeld worden totdat de voorraden daarvan zijn opgebruikt. 
+Waren die voor 1 augustus 2004 rechtmatig zijn geëtiketteerd overeenkomstig het Honingbesluit (Warenwet) mogen verhandeld worden totdat de voorraden daarvan zijn opgebruikt. 
 
 ### Artikel  19  
 
-Het [Honingbesluit (Warenwet)](../../../../AMvB/honingbesluit/(warenwet)/BWBR0003204/README.md) wordt ingetrokken. 
+Het Honingbesluit (Warenwet) wordt ingetrokken. 
 
 ### Artikel  20  
 
-Eet- en drinkwaren die voor 1 augustus 2004 zijn geëtiketteerd en voldoen aan het [Honingbesluit (Warenwet)](../../../../AMvB/honingbesluit/(warenwet)/BWBR0003204/README.md) mogen nog verhandeld worden totdat de voorraden daarvan zijn uitverkocht. 
+Eet- en drinkwaren die voor 1 augustus 2004 zijn geëtiketteerd en voldoen aan het Honingbesluit (Warenwet) mogen nog verhandeld worden totdat de voorraden daarvan zijn uitverkocht. 
 
 ### Artikel  21  
 

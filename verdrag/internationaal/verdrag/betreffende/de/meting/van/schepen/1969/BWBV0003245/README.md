@@ -249,7 +249,7 @@ b.The present Convention shall cease to extend to any territory mentioned in suc
 ####Deposit and Registration
 
 1. The present Convention shall be deposited with the Organization and the Secretary-General of the Organization shall transmit certified true copies thereof to all Signatory Grovernments and to all Governments which accede to the present Convention.
-2. As soon as the present Convention comes into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication, in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+2. As soon as the present Convention comes into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
 
 ### Article  22  
 
@@ -338,11 +338,11 @@ D = moulded depth amidships in metres as defined in Regulation 2(2),d = moulded 
 
 2.The moulded draught *d* referred to in paragraph 1 of this Regulation shall be one of the following draughts:
 
-a.for ships to which the [International Convention on Load Lines](../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) in force applies, the draught corresponding to the Summer Load Line (other than timber load lines) assigned in accordance with that Convention;
+a.for ships to which the International Convention on Load Lines in force applies, the draught corresponding to the Summer Load Line (other than timber load lines) assigned in accordance with that Convention;
 
 b.for passenger ships, the draught corresponding to the deepest subdivision load line assigned in accordance with the International Convention for the Safety of Life at Sea In force or other international agreement where applicable;
 
-c.for ships to which the [International Convention on Load Lines](../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) does not apply but which have been assigned a load line in compliance with national requirements, the draught corresponding to the summer load line so assigned;
+c.for ships to which the International Convention on Load Lines does not apply but which have been assigned a load line in compliance with national requirements, the draught corresponding to the summer load line so assigned;
 
 d.for ships to which no load line has been assigned but the draught of which is restricted in compliance with national requirements, the maximum permitted draught;
 
@@ -685,7 +685,7 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 ####Nederlegging en registratie
 
 (1). Dit Verdrag wordt nedergelegd bij de Organisatie en de Secretaris-Generaal van de Organisatie doet hiervan voor eensluidend gewaarmerkte afschriften toekomen aan alle ondertekenende Regeringen en aan alle Regeringen dit tot dit Verdrag toetreden.
-(2). Zodra dit Verdrag in werking treedt wordt de tekst daarvan door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+(2). Zodra dit Verdrag in werking treedt wordt de tekst daarvan door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.
 
 ### Artikel  22  
 
@@ -773,11 +773,11 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 
 (2)De diepgang naar de mal (d) bedoeld in paragraaf 1 van dit Voorschrift is een van de volgende diepgangen:
 
-(a)voor schepen waarop het [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) van toepassing is: de diepgang, overeenkomende met de lijn voor zomeruitwatering (anders dan de lijn voor houtvaartuitwatering) zoals die overeenkomstig het genoemde Internationale Verdrag is toegekend;
+(a)voor schepen waarop het Internationaal Verdrag betreffende de uitwatering van schepen van toepassing is: de diepgang, overeenkomende met de lijn voor zomeruitwatering (anders dan de lijn voor houtvaartuitwatering) zoals die overeenkomstig het genoemde Internationale Verdrag is toegekend;
 
 (b)voor passagiersschepen de diepgang overeenkomende met de hoogstgelegen indelingslastlijn, toegekend overeenkomstig het van kracht zijnde Internationale Verdrag voor de beveiliging van mensenlevens op zee of een andere van toepassing zijnde internationale overeenkomst;
 
-(c)voor schepen waarop het [Internationaal Verdrag betreffende de uitwatering van schepen](../../../../../../../../../../verdrag/international/convention/on/load/lines/1966/BWBV0003267/README.md) niet van toepassing is, maar waaraan ter voldoening aan de nationale wettelijke vereisten een uitwateringslijn is toegekend: de diepgang overeenkomende met de aldus toegekende lijn voor zomeruitwatering;
+(c)voor schepen waarop het Internationaal Verdrag betreffende de uitwatering van schepen niet van toepassing is, maar waaraan ter voldoening aan de nationale wettelijke vereisten een uitwateringslijn is toegekend: de diepgang overeenkomende met de aldus toegekende lijn voor zomeruitwatering;
 
 (d)voor schepen waaraan geen uitwateringslijn is toegekend, maar waarvan de diepgang ter voldoening aan de nationale wettelijke vereisten is beperkt: de maximaal toegestane diepgang;
 

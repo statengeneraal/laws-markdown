@@ -57,7 +57,7 @@ b. het groen oogsten en het niet oogsten de artikelen 230i, 230j en 230k, alsmed
 
 ### Artikel  4a  
 
-1.  Het vrij in te zetten productvolume van 3.000 ton, bedoeld in artikel 2, eerste lid, van verordening 1031/2014 wordt aangewend ten behoeve van meldingen voor producten als bedoeld in artikel 1, tweede lid, onderdelen c, e en h, van verordening 1031/2014.   
+1.  Het vrij in te zetten productvolume van 3.000 ton, bedoeld in artikel 2, eerste lid, van verordening 1031/2014 wordt aangewend ten behoeve van meldingen voor producten als bedoeld in artikel 1, tweede lid, onderdelen c, e, h en k, van verordening 1031/2014.   
 2.  Voor zover het vrij in te zetten productvolume, bedoeld in artikel 2, eerste lid, van verordening 1031/2014, niet volledig wordt benut ten behoeve van meldingen als bedoeld in het eerste lid, wordt het ingezet ten behoeve van meldingen voor de producten waarvoor aan Nederland een maximum hoeveelheid is toegewezen in tabel I van verordening 1031/2014.  
 
 ### Artikel  5  
@@ -72,21 +72,20 @@ De minister stelt de voor groen oogsten en niet oogsten te betalen bijstand per 
 
 ### Artikel  7  
 
-1. Meldingen van producenten voor verrichtingen van het uit de markt nemen, groen oogsten of niet oogsten, gedaan in afwachting van de publicatie van verordening 932/2014, alsmede meldingen op basis van de artikelen 230b, eerste lid, of 230 i, eerste lid, van de Regeling uitvoering GMO groenten en fruit die zijn gedaan van 18 augustus tot de dag waarop Europese Commissie de mededeling aan de lidstaten doet dat zij geen meldingen meer in ontvangst zal nemen, zoals bedoeld in artikel 9, tweede alinea, van verordening 932/2014, worden geacht te zijn gedaan op basis van verordening 932/2014.  
+1. Meldingen van producenten en producentenorganisaties voor verrichtingen van het uit de markt nemen, groen oogsten of niet oogsten, gedaan in afwachting van de publicatie van verordening 932/2014, alsmede meldingen op basis van de artikelen 230b, eerste lid, of 230 i, eerste lid, van de Regeling uitvoering GMO groenten en fruit die zijn gedaan van 18 augustus tot de dag waarop Europese Commissie de mededeling aan de lidstaten doet dat zij geen meldingen meer in ontvangst zal nemen, zoals bedoeld in artikel 9, tweede alinea, van verordening 932/2014, worden geacht te zijn gedaan op basis van verordening 932/2014.  
 2.  Meldingen van producenten en producentenorganisaties voor verrichtingen van het uit de markt nemen, groen oogsten of niet oogsten gedaan tussen 4 september 2014 en de datum van inwerkingtreding van deze regeling voor producten, als bedoeld in artikel 1, tweede lid, van verordening 1031/2014, worden geacht te zijn gedaan op basis van verordening 1031/2014, voor zover de in de melding omschreven activiteiten niet zijn verricht voor 30 september 2014.   
 3.  Meldingen, als bedoeld in artikel 4a, eerste lid, worden aangemerkt als meldingen op grond van verordening 1031/2014. 
 
 ### Artikel  7a  
 
-1.  Wanneer het plafond genoemd in artikel 2, eerste lid, van verordening 1031/2014 bereikt is, beëindigt de minister de mogelijkheid om aanvragen om bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, in te dienen met ingang van het moment waarop het plafond is bereikt.   
+1.  Wanneer het plafond genoemd in artikel 2, eerste lid, van verordening 1031/2014 bereikt is, beëindigt de minister de mogelijkheid om voorafgaande meldingen, als bedoeld in artikelen 78, eerste lid, en 85, tweede lid, van verordening 543/2011, voor verrichtingen, bedoeld in artikel 2, eerste lid, onderdeel b, in te dienen met ingang van het moment waarop het plafond is bereikt.   
 2.  Na de beëindiging, bedoeld in het eerste lid, gedane meldingen komen niet meer in aanmerking voor de verstrekking van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b.  
 
 ### Artikel  7b  
 
 1.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel a, worden ingediend van 6 oktober 2014 tot en met 15 oktober 2014 met gebruikmaking van een door de minister beschikbaar gesteld formulier.   
-2.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, worden ingediend van 1 januari 2015 tot en met 15 januari 2015 met gebruikmaking van een door de minister beschikbaar gesteld formulier.   
-3.  In afwijking van het tweede lid worden aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, wanneer de minister besluit tot beëindiging van de openstelling, bedoeld in artikel 7a, vanaf de dertigste dag tot uiterlijk de vijfenveertigste dag, of tot uiterlijk 15 januari 2015 indien deze datum eerder ligt, na het besluit tot beëindiging van de openstelling ingediend met gebruikmaking van een door de minister beschikbaar gesteld formulier.   
-4.  Voor iedere afzonderlijke melding voor het uit de markt nemen, groen oogsten of niet oogsten op grond van deze regeling wordt een afzonderlijke aanvraag als bedoeld in het eerste of tweede lid ingediend.  
+2.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, worden ingediend van 7 november 2014 tot en met de datum genoemd in artikel 9, eerste lid, van verordening 1031/2014 met gebruikmaking van een door de minister beschikbaar gesteld formulier.   
+3.  Voor iedere afzonderlijke melding voor het uit de markt nemen, groen oogsten of niet oogsten op grond van deze regeling wordt een afzonderlijke aanvraag als bedoeld in het eerste of tweede lid ingediend.  
 
 ### Artikel  7c  
 

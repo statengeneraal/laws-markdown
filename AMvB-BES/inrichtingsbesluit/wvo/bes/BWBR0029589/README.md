@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 september 2010, nr. WJZ/236456 (3843), directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit en mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de [artikelen 16, tiende lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [18, negende en tiende lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [29, tiende lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [31, zesde lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [39](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [40](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [41](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [45](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [64, twaalfde en dertiende lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en [65, eerste lid van de Wet voortgezet onderwijs BES](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);
+Gelet op de artikelen 16, tiende lid, 18, negende en tiende lid, 29, tiende lid, 31, zesde lid, 39, 40, 41, 45, 64, twaalfde en dertiende lid, en 65, eerste lid van de Wet voortgezet onderwijs BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0466/I);
 
@@ -22,41 +22,41 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*basisberoepsgerichte leerweg:* de basisberoepsgerichte leerweg, genoemd in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*basisberoepsgerichte leerweg:* de basisberoepsgerichte leerweg, genoemd in artikel 18 van de wet;  
 
-*bevoegd gezag:* het bevoegd gezag, bedoeld in [artikel 1 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*bevoegd gezag:* het bevoegd gezag, bedoeld in artikel 1 van de wet;  
 
 *de vakken behorende tot de beeldende vorming:* tekenen, handvaardigheid, textiele vormgeving, fotografie, film, audio-visuele vorming;  
 
-*gemeenschappelijk deel:* het in [artikel 38, vierde lid, onderdeel a, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bedoelde onderdeel van het profiel;  
+*gemeenschappelijk deel:* het in artikel 38, vierde lid, onderdeel a, van de wet bedoelde onderdeel van het profiel;  
 
-*gemengde leerweg:* de gemengde leerweg, genoemd in [artikel 29 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*gemengde leerweg:* de gemengde leerweg, genoemd in artikel 29 van de wet;  
 
 *havo:* hoger algemeen voortgezet onderwijs;  
 
-*intersectoraal programma:* een intersectoraal programma als bedoeld in [artikel 18, vierde lid, onderdeel c](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en [artikel 29, vierde lid, onderdeel c, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*intersectoraal programma:* een intersectoraal programma als bedoeld in artikel 18, vierde lid, onderdeel c, en artikel 29, vierde lid, onderdeel c, van de wet;  
 
-*inspectie:* de inspectie, als bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+*inspectie:* de inspectie, als bedoeld in artikel 1 van de Wet op het onderwijstoezicht;  
 
-*intrasectoraal programma:* een intrasectoraal programma als bedoeld in [artikel 18, vierde lid, onderdeel c](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en [artikel 29, vierde lid, onderdeel c, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*intrasectoraal programma:* een intrasectoraal programma als bedoeld in artikel 18, vierde lid, onderdeel c, en artikel 29, vierde lid, onderdeel c, van de wet;  
 
-*kaderberoepsgerichte leerweg:* de kaderberoepsgerichte leerweg, genoemd in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*kaderberoepsgerichte leerweg:* de kaderberoepsgerichte leerweg, genoemd in artikel 18 van de wet;  
 
 *mavo:* middelbaar algemeen voortgezet onderwijs;  
 
-*normatieve studielast:* de normatieve studielast, bedoeld in [artikel 38, vijfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*normatieve studielast:* de normatieve studielast, bedoeld in artikel 38, vijfde lid, van de wet;  
 
 *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
-*praktijkonderwijs:* het praktijkonderwijs, bedoeld in [artikel 31 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*praktijkonderwijs:* het praktijkonderwijs, bedoeld in artikel 31 van de wet;  
 
-*profiel:* het profiel, bedoeld in [artikel 38, tweede lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*profiel:* het profiel, bedoeld in artikel 38, tweede lid, van de wet;  
 
-*profieldeel:* het in [artikel 38, vierde lid, onderdeel b, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bedoelde onderdeel van het profiel;  
+*profieldeel:* het in artikel 38, vierde lid, onderdeel b, van de wet bedoelde onderdeel van het profiel;  
 
 *school:* een school voor vwo, een school voor havo, een school voor mavo, een school voor vbo of een school voor praktijkonderwijs;  
 
-*stage:* de stage, bedoeld in [artikel 45, derde lid, onderdeel b, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*stage:* de stage, bedoeld in artikel 45, derde lid, onderdeel b, van de wet;  
 
 *stagebegeleider:* degene die is belast met de begeleiding van de leerling en werkzaam is bij de stagegever;  
 
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 *stageleraar:* de leraar van de school waarop de leerling is ingeschreven, belast met het toezicht op de leerling tijdens het verloop van de stage;  
 
-*theoretische leerweg:* de theoretische leerweg, genoemd in [artikel 16 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+*theoretische leerweg:* de theoretische leerweg, genoemd in artikel 16 van de wet;  
 
 *vbo:* voorbereidend beroepsonderwijs;  
 
@@ -72,9 +72,9 @@ In dit besluit wordt verstaan onder:
 
 *vwo:* voorbereidend wetenschappelijk onderwijs;  
 
-*vrij deel:* het in [artikel 38, vierde lid, onderdeel c, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bedoelde onderdeel van het profiel;  
+*vrij deel:* het in artikel 38, vierde lid, onderdeel c, van de wet bedoelde onderdeel van het profiel;  
 
-*wet:*[ Wet voortgezet onderwijs BES](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).   
+*wet:* Wet voortgezet onderwijs BES.   
 
 ### Hoofdstuk  II  
 
@@ -94,10 +94,10 @@ In dit besluit wordt verstaan onder:
 
 1.  Tot het eerste leerjaar van een school, behalve voor zover het betreft een school voor praktijkonderwijs, kan als leerling slechts worden toegelaten degene die: 
 
-a. afkomstig is van een school als bedoeld in de [Wet primair onderwijs BES](../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) of de [Wet primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) en bij wie naar het oordeel van de directeur van de school voor basisonderwijs de grondslag voor het volgen van aansluitend voortgezet onderwijs in voldoende mate is gelegd, of  
+a. afkomstig is van een school als bedoeld in de Wet primair onderwijs BES of de Wet primair onderwijs en bij wie naar het oordeel van de directeur van de school voor basisonderwijs de grondslag voor het volgen van aansluitend voortgezet onderwijs in voldoende mate is gelegd, of  
 
-b. afkomstig is van een school als bedoeld in de [Wet primair onderwijs BES](../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) of de [Wet primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) en aan het einde van het schooljaar de leeftijd van 14 jaar heeft bereikt.     
-2.  Bij beslissingen over de toelating op grond van het eerste lid betrekt het bevoegd gezag het onderwijskundig rapport dat ingevolge [artikel 48 van de Wet primair onderwijs BES](../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) is opgesteld.   
+b. afkomstig is van een school als bedoeld in de Wet primair onderwijs BES of de Wet primair onderwijs en aan het einde van het schooljaar de leeftijd van 14 jaar heeft bereikt.     
+2.  Bij beslissingen over de toelating op grond van het eerste lid betrekt het bevoegd gezag het onderwijskundig rapport dat ingevolge artikel 48 van de Wet primair onderwijs BES is opgesteld.   
 3.  De toelating tot het eerste leerjaar van een school kan niet voorwaardelijk geschieden.   
 4.  In gevallen waarin toepassing van het eerste of tweede lid niet mogelijk is, kan de inspectie afwijking van het eerste of tweede lid toestaan.  
 
@@ -150,9 +150,9 @@ Tot een school voor praktijkonderwijs kan als leerling worden toegelaten degene 
 
 ### Artikel  8  
 
-####Bijzondere toelatingsvoorwaarden scholen en afdelingen vbo, aangewezen op grond van [artikel 50, vijfde lid, WVO BES](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)
+####Bijzondere toelatingsvoorwaarden scholen en afdelingen vbo, aangewezen op grond van artikel 50, vijfde lid, WVO BES
 
-Onverminderd het bepaalde in de artikelen 3 en 7 wordt een kandidaat-leerling niet toegelaten tot een school of afdeling, aangewezen op grond van [artikel 50, vijfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), dan nadat het bevoegd gezag zich ervan heeft vergewist dat dit onderwijs voor hem het meest aangewezen is, gelet op de bijzondere aard en doelstelling van het desbetreffende onderwijs. 
+Onverminderd het bepaalde in de artikelen 3 en 7 wordt een kandidaat-leerling niet toegelaten tot een school of afdeling, aangewezen op grond van artikel 50, vijfde lid, van de wet, dan nadat het bevoegd gezag zich ervan heeft vergewist dat dit onderwijs voor hem het meest aangewezen is, gelet op de bijzondere aard en doelstelling van het desbetreffende onderwijs. 
 
 ### Artikel  9  
 
@@ -164,7 +164,7 @@ Een leerling, komende van een gelijksoortige school, wordt bij toelating geplaat
 
 ####Verlenging verblijfsduur in verband met onbillijkheden
 
-Alvorens toepassing te geven aan [artikel 64, twaalfde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), vergewist de inspectie zich ervan, dat het bevoegd gezag de ouders van de betrokken leerling in de gelegenheid heeft gesteld te worden gehoord over het verzoek van het bevoegd gezag. De inspectie betrekt bij haar beslissing in elk geval de zienswijze van de ouders. 
+Alvorens toepassing te geven aan artikel 64, twaalfde lid, van de wet, vergewist de inspectie zich ervan, dat het bevoegd gezag de ouders van de betrokken leerling in de gelegenheid heeft gesteld te worden gehoord over het verzoek van het bevoegd gezag. De inspectie betrekt bij haar beslissing in elk geval de zienswijze van de ouders. 
 
 ### Artikel  11  
 
@@ -195,7 +195,7 @@ Alvorens toepassing te geven aan [artikel 64, twaalfde lid, van de wet](../../..
 
 1.  De besluiten tot weigering van de toelating van een kandidaat-leerling of tot definitieve verwijdering van een leerling worden schriftelijk en met opgave van redenen aan de leerling en, indien deze nog niet meerderjarig is, ook aan diens ouders, voogden of verzorgers, bekendgemaakt, waarbij tevens de inhoud van het tweede lid wordt vermeld.   
 2.  Binnen zes weken na de bekendmaking kunnen belanghebbenden bezwaar maken bij het bevoegd gezag.   
-3.  Het bevoegd gezag beslist in overeenstemming met [artikel 64 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) binnen vier weken na ontvangst van het bezwaarschrift, doch niet eerder dan nadat de kandidaat-leerling, onderscheidenlijk de leerling en, indien deze nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is, onderscheidenlijk zijn gesteld, te worden gehoord en kennis heeft onderscheidenlijk hebben kunnen nemen van de op die besluiten betrekking hebbende adviezen of rapporten.   
+3.  Het bevoegd gezag beslist in overeenstemming met artikel 64 van de wet binnen vier weken na ontvangst van het bezwaarschrift, doch niet eerder dan nadat de kandidaat-leerling, onderscheidenlijk de leerling en, indien deze nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is, onderscheidenlijk zijn gesteld, te worden gehoord en kennis heeft onderscheidenlijk hebben kunnen nemen van de op die besluiten betrekking hebbende adviezen of rapporten.   
 4.  Het bevoegd gezag kan de desbetreffende leerling, gedurende de behandeling van het bezwaar tegen een besluit tot definitieve verwijdering de toegang tot de school ontzeggen.  
 
 ### Hoofdstuk  III  
@@ -210,21 +210,21 @@ Alvorens toepassing te geven aan [artikel 64, twaalfde lid, van de wet](../../..
 
 ####Vakanties en andere dagen waarop geen onderwijs wordt verzorgd
 
-1.  Het aantal dagen dat per schooljaar ten hoogste voor vakanties op grond van [artikel 45, tweede lid, tweede volzin, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), mag worden besteed, bedraagt 66 bij een zesdaagse schoolweek en 55 bij een vijfdaagse schoolweek.   
+1.  Het aantal dagen dat per schooljaar ten hoogste voor vakanties op grond van artikel 45, tweede lid, tweede volzin, van de wet, mag worden besteed, bedraagt 66 bij een zesdaagse schoolweek en 55 bij een vijfdaagse schoolweek.   
 2.  Onder dagen in het eerste lid wordt verstaan elke dag van de week met uitzondering van de zondag bij een zesdaagse schoolweek en met uitzondering van de zaterdag en de zondag bij een vijfdaagse schoolweek. Op die zondagen respectievelijk zaterdagen en zondagen wordt geen onderwijs verzorgd.   
-3.  Tenzij vallend binnen een op grond van [artikel 45, tweede lid, tweede volzin, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) vastgestelde vakantie, worden de volgende dagen, waarop eveneens geen onderwijs wordt verzorgd, niet meegeteld bij het aantal dagen, bedoeld in het eerste lid: 
+3.  Tenzij vallend binnen een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie, worden de volgende dagen, waarop eveneens geen onderwijs wordt verzorgd, niet meegeteld bij het aantal dagen, bedoeld in het eerste lid: 
 
 a. nieuwjaarsdag, tweede paasdag, Hemelvaartsdag, tweede pinksterdag en de beide kerstdagen, alsmede  
 
 b. Koningsdag en Koninkrijksdag.     
-4.  Indien aan een bijzondere school onderwijs wordt gegeven gebaseerd op een levensbeschouwing volgens welke andere dan de in het derde lid, onderdeel a, genoemde dagen als feestdagen worden aangemerkt, kan in plaats van op de dagen, bedoeld in het derde lid, onderdeel a, die vallen buiten een op grond van [artikel 45, tweede lid, tweede volzin, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) vastgestelde vakantie, geen onderwijs worden verzorgd op andere dagen. Bij toepassing van de eerste volzin worden laatstgenoemde dagen niet meegeteld bij het aantal dagen, bedoeld in het eerste lid. De eerste volzin kan per schooljaar worden toegepast voor ten hoogste het aantal dagen als bedoeld in het derde lid, onderdeel a, dat buiten een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie valt.   
-5.  Indien na aftrek van het aantal dagen dat wordt besteed voor vakanties op grond van [artikel 45, tweede lid, tweede volzin, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), dagen resteren van de in het eerste lid bedoelde aantallen, kan het bevoegd gezag voor het betreffende schooljaar een of meer vakanties vaststellen waarvoor ten hoogste dat resterend aantal dagen mag worden besteed. 
+4.  Indien aan een bijzondere school onderwijs wordt gegeven gebaseerd op een levensbeschouwing volgens welke andere dan de in het derde lid, onderdeel a, genoemde dagen als feestdagen worden aangemerkt, kan in plaats van op de dagen, bedoeld in het derde lid, onderdeel a, die vallen buiten een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie, geen onderwijs worden verzorgd op andere dagen. Bij toepassing van de eerste volzin worden laatstgenoemde dagen niet meegeteld bij het aantal dagen, bedoeld in het eerste lid. De eerste volzin kan per schooljaar worden toegepast voor ten hoogste het aantal dagen als bedoeld in het derde lid, onderdeel a, dat buiten een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie valt.   
+5.  Indien na aftrek van het aantal dagen dat wordt besteed voor vakanties op grond van artikel 45, tweede lid, tweede volzin, van de wet, dagen resteren van de in het eerste lid bedoelde aantallen, kan het bevoegd gezag voor het betreffende schooljaar een of meer vakanties vaststellen waarvoor ten hoogste dat resterend aantal dagen mag worden besteed. 
 
 ### Artikel  15a  
 
 ####Aanwijzing overige dagen waarop geen onderwijs wordt verzorgd
 
-Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd ingevolge [artikel 12a, vierde lid](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en [artikel 45, tweede lid, tweede volzin, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en artikel 15, tweede tot en met vijfde lid, wijst het bevoegd gezag bij een zesdaagse schoolweek vier dagen en bij een vijfdaagse schoolweek drie dagen per schooljaar aan waarop geen onderwijs wordt verzorgd. 
+Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd ingevolge artikel 12a, vierde lid, en artikel 45, tweede lid, tweede volzin, van de wet en artikel 15, tweede tot en met vijfde lid, wijst het bevoegd gezag bij een zesdaagse schoolweek vier dagen en bij een vijfdaagse schoolweek drie dagen per schooljaar aan waarop geen onderwijs wordt verzorgd. 
 
 ### §  2  
 
@@ -234,8 +234,8 @@ Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd inge
 
 ####Afwijkingen delen onderwijsprogramma
 
-1.  Voor afwijkingen als bedoeld in [artikel 36, tweede lid, eerste volzin, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.   
-2.  Het bevoegd gezag stelt een commissie in die adviseert ten aanzien van welke leerlingen [artikel 36, tweede lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) toepassing kan vinden. Het bevoegd gezag regelt de omvang en samenstelling van de commissie.   
+1.  Voor afwijkingen als bedoeld in artikel 36, tweede lid, eerste volzin, van de wet kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.   
+2.  Het bevoegd gezag stelt een commissie in die adviseert ten aanzien van welke leerlingen artikel 36, tweede lid, van de wet toepassing kan vinden. Het bevoegd gezag regelt de omvang en samenstelling van de commissie.   
 3.  In haar advies doet de commissie aan het bevoegd gezag voorstellen ten aanzien van de aard van de in het tweede lid bedoelde afwijkingen. Daarbij geeft zij aan waarop deze voorstellen zijn gegrond.   
 4.  De commissie betrekt in elk geval bij haar oordeelsvorming: 
 
@@ -267,13 +267,13 @@ b. is geplaatst in een hoger leerjaar dan het eerste,
 c. voordien buiten Nederland vergelijkbaar onderwijs heeft gevolgd, en  
 
 d. daarbij geen of te weinig onderwijs in de desbetreffende taal of talen heeft gevolgd.     
-4.  In de eerste drie leerjaren van een gymnasium wordt tevens onderwijs verzorgd in Latijnse taal en literatuur en Griekse taal en literatuur.  
+4.  In de eerste drie leerjaren van een gymnasium wordt tevens onderwijs verzorgd in Latijnse taal en cultuur en Griekse taal en cultuur.  
 
 ### Artikel  18  
 
 ####Aanvullende bepalingen eerste twee leerjaren vmbo
 
-1.  Het onderwijsprogramma in de eerste twee leerjaren aan een school voor mavo en een school voor vbo omvat tevens onderwijs in Franse taal of Spaanse taal. Deze verplichting geldt niet voor leerlingen voor wie naar de verwachting van het bevoegd gezag het onderwijs in de basisberoepsgerichte leerweg als bedoeld in [artikel 18, eerste lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) het meest geschikt is.   
+1.  Het onderwijsprogramma in de eerste twee leerjaren aan een school voor mavo en een school voor vbo omvat tevens onderwijs in Franse taal of Spaanse taal. Deze verplichting geldt niet voor leerlingen voor wie naar de verwachting van het bevoegd gezag het onderwijs in de basisberoepsgerichte leerweg als bedoeld in artikel 18, eerste lid, van de wet het meest geschikt is.   
 2.  Het bevoegd gezag kan een leerling van een school als bedoeld in het eerste lid ontheffing verlenen van het volgen van onderwijs in Franse taal of Spaanse taal: 
 
 a. indien de leerling onderwijs volgt in Papiaments, Duitse taal, Arabische taal of Turkse taal, of  
@@ -311,7 +311,9 @@ d. maatschappijleer: 120,
 
 e. algemene natuurwetenschappen: 120,  
 
-f. culturele en kunstzinnige vorming of ter keuze van de leerling klassieke culturele vorming, voor zover het bevoegd gezag dit aanbiedt, met dien verstande dat het vak klassieke culturele vorming in elk geval deel uitmaakt van het profiel indien ook Latijnse taal en literatuur of Griekse taal en literatuur, dan wel beide, deel uitmaken van het profiel: 160, en  
+e. culturele en kunstzinnige vorming: 160, en  
+
+f. vervallen door vernummering, 
 
 g. lichamelijke opvoeding : 160.     
 2.  Het gemeenschappelijk deel van elk profiel in het gymnasium omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren: 
@@ -320,15 +322,15 @@ a. Nederlandse taal en literatuur: 480,
 
 b. Engelse taal en literatuur: 400,  
 
-c. Latijnse taal en literatuur of Griekse taal en literatuur: 600,  
+c. Latijnse taal en cultuur of Griekse taal en cultuur: 760,  
 
 d. maatschappijleer: 120,  
 
 e. algemene natuurwetenschappen: 120,  
 
-f. klassieke culturele vorming: 160, en  
+f. vervallen,  
 
-g. lichamelijke opvoeding: 160.     
+g. lichamelijke opvoeding: 160.    
 3.  Het profieldeel van het profiel natuur en techniek in het gymnasium en atheneum omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren: 
 
 a. wiskunde B: 600,  
@@ -390,7 +392,7 @@ c. een van de volgende culturele profielkeuzevakken ter keuze van de leerling, v
 
 2°. filosofie: 480;  
 
-3°. Papiaments, Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur met een normatieve studielast van 480 uren, Latijnse taal en literatuur of Griekse taal en literatuur met een normatieve studielast van 600 uren;    
+3°. Papiaments, Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur met een normatieve studielast van 480 uren, Latijnse taal en cultuur of Griekse taal en cultuur met een normatieve studielast van 760 uren;    
 
 d. een van de volgende maatschappelijke profielkeuzevakken ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt: 
 
@@ -558,7 +560,7 @@ d. door het bevoegd gezag vast te stellen vakken en andere programma-onderdelen.
 
 ####Nadere voorschriften vrij deel
 
-Indien het bevoegd gezag bij de vaststelling van vakken en andere programma-onderdelen van het vrije deel andere instellingen of deskundige personen van buiten de school betrekt, kan het onderwijs in die vakken en andere programma-onderdelen van het vrije deel, onverminderd de verantwoordelijkheid van het bevoegd gezag voor het onderwijs aan de school, mede worden verzorgd door die andere instellingen of deskundige personen. Daarbij stelt het bevoegd gezag als voorwaarde dat die instellingen of deskundige personen voldoen aan de met betrekking tot hun geldende wettelijke voorschriften en voorzover die voorschriften ontbreken, aan de binnen de beroepsgroep algemeen erkende normen. [Artikel 80, eerste lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) is ten aanzien van degenen die dit onderwijs verzorgen van overeenkomstige toepassing, met dien verstande dat als getuigschrift als bedoeld in onderdeel b. 1° van dat lid geldt een kwalificatie die, gelet op de eerste en tweede volzin, passend is. Het bevoegd gezag stelt de inspectie in kennis van de kwalificatie. 
+Indien het bevoegd gezag bij de vaststelling van vakken en andere programma-onderdelen van het vrije deel andere instellingen of deskundige personen van buiten de school betrekt, kan het onderwijs in die vakken en andere programma-onderdelen van het vrije deel, onverminderd de verantwoordelijkheid van het bevoegd gezag voor het onderwijs aan de school, mede worden verzorgd door die andere instellingen of deskundige personen. Daarbij stelt het bevoegd gezag als voorwaarde dat die instellingen of deskundige personen voldoen aan de met betrekking tot hun geldende wettelijke voorschriften en voorzover die voorschriften ontbreken, aan de binnen de beroepsgroep algemeen erkende normen. Artikel 80, eerste lid, van de wet is ten aanzien van degenen die dit onderwijs verzorgen van overeenkomstige toepassing, met dien verstande dat als getuigschrift als bedoeld in onderdeel b. 1° van dat lid geldt een kwalificatie die, gelet op de eerste en tweede volzin, passend is. Het bevoegd gezag stelt de inspectie in kennis van de kwalificatie. 
 
 ### Artikel  23  
 
@@ -566,7 +568,7 @@ Indien het bevoegd gezag bij de vaststelling van vakken en andere programma-onde
 
 1.  Het bevoegd gezag van een school voor vwo of havo kan een leerling ontheffing verlenen van het volgen van het onderwijs in het vak lichamelijke opvoeding indien de leerling vanwege diens lichamelijke gesteldheid niet in staat is dit onderwijs te volgen. Het bevoegd gezag geeft de inspectie kennis van de verleende ontheffing en vermeldt daarbij de gronden waarop deze ontheffing berust.   
 2.  De leerling van een school voor vwo die in het bezit is van het diploma havo is vrijgesteld van het volgen van onderwijs in de volgende vakken van het gemeenschappelijk deel: algemene natuurwetenschappen en maatschappijleer. Indien het betreft het atheneum is deze leerling tevens vrijgesteld van het volgen van onderwijs in het vak culturele en kunstzinnige vorming.   
-3.  De leerling van een school voor vwo die in het bezit is van het diploma havo of het diploma vmbo en die in plaats van de vakken, genoemd in [artikel 22](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), respectievelijk [artikel 16 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), of als extra vak examen heeft afgelegd in één of meer vakken van artikel 20, is vrijgesteld van het volgen van onderwijs in dit vak respectievelijk deze vakken.   
+3.  De leerling van een school voor vwo die in het bezit is van het diploma havo of het diploma vmbo en die in plaats van de vakken, genoemd in artikel 22, respectievelijk artikel 16 van de wet, of als extra vak examen heeft afgelegd in één of meer vakken van artikel 20, is vrijgesteld van het volgen van onderwijs in dit vak respectievelijk deze vakken.   
 4.  Het bevoegd gezag van een atheneum kan een leerling ontheffing verlenen van het volgen van onderwijs in de taal genoemd in artikel 20, eerste lid, onder c, in de volgende gevallen: 
 
 a. de leerling heeft een stoornis die specifiek betrekking heeft op taal of een zintuiglijke stoornis die effect heeft op taal;  
@@ -588,14 +590,14 @@ c. de leerling volgt onderwijs in het profiel natuur en techniek of het profiel 
 
 ####Nadere voorschriften vrije deel vmbo beroepsgerichte leerwegen
 
-1.  De afdelingsvakken, bedoeld in [artikel 18, zevende lid, onderdeel a, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), zijn bouwtechniek, metaaltechniek, elektrotechniek, voertuigentechniek, installatietechniek, grafimedia, transport en logistiek, verzorging, uiterlijke verzorging, administratie, handel en verkoop, mode en commercie, consumptief, en landbouw en natuurlijke omgeving.   
-2.  Het extra vak bedoeld in [artikel 18, negende lid, onderdeel d, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), is Papiaments.  
+1.  De afdelingsvakken, bedoeld in artikel 18, zevende lid, onderdeel a, van de wet, zijn bouwtechniek, metaaltechniek, elektrotechniek, voertuigentechniek, installatietechniek, grafimedia, transport en logistiek, verzorging, uiterlijke verzorging, administratie, handel en verkoop, mode en commercie, consumptief, en landbouw en natuurlijke omgeving.   
+2.  Het extra vak bedoeld in artikel 18, negende lid, onderdeel d, van de wet, is Papiaments.  
 
 ### Artikel  26  
 
 ####Nadere voorschriften vrije deel vmbo gemengde leerweg
 
-1.  De afdelingsvakken, bedoeld in [artikel 29, zevende lid, onderdeel b, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), zijn de vakken, genoemd in artikel 25.   
+1.  De afdelingsvakken, bedoeld in artikel 29, zevende lid, onderdeel b, van de wet, zijn de vakken, genoemd in artikel 25.   
 2.  In het derde leerjaar volgt de leerling in de gemengde leerweg ten minste onderwijs in zes vakken waarin eindexamen kan worden afgelegd, niet behorend tot het gemeenschappelijk deel. Indien de leerling onderwijs in een derde moderne vreemde taal volgt of heeft gevolgd in enig voorafgaand leerjaar, is het aantal vakken, bedoeld in de eerste volzin, vijf.  
 
 ### Artikel  27  
@@ -605,7 +607,7 @@ c. de leerling volgt onderwijs in het profiel natuur en techniek of het profiel 
 1.  Het bevoegd gezag van een school voor vbo of een scholengemeenschap waarvan ten minste een school voor vbo deel uitmaakt kan een bij ministeriële regeling aangewezen intrasectoraal of intersectoraal programma verzorgen voor zover dat bevoegd gezag gerechtigd is onderwijs te verzorgen in de afdelingen onderliggend aan het bijbehorende intrasectorale of intersectorale programma en overigens wordt voldaan aan het tweede tot en met vierde lid. Bij ministeriële regeling worden de afdelingen, bedoeld in de vorige volzin, aangewezen.   
 2.  Een intrasectoraal of intersectoraal programma als bedoeld in het eerste lid wordt niet verzorgd voordat 
 
-a. het bevoegd gezag van de meest nabij gelegen instelling als bedoeld in [artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) heeft verklaard dat het programma in voldoende mate aansluit op het onderwijs dat door de desbetreffende instelling wordt verzorgd, en  
+a. het bevoegd gezag van de meest nabij gelegen instelling als bedoeld in artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES heeft verklaard dat het programma in voldoende mate aansluit op het onderwijs dat door de desbetreffende instelling wordt verzorgd, en  
 
 b. uit overleg met werkgevers die werkzaam zijn op de regionale arbeidsmarkt is gebleken dat er voor leerlingen die het programma zullen volgen naar verwachting voldoende stageplaatsen beschikbaar zullen zijn.     
 3.  Indien het de gemengde leerweg betreft, kan het bevoegd gezag op iedere vestiging waar afsluitend onderwijs vbo of mavo kan worden verzorgd, een intrasectoraal of intersectoraal programma als bedoeld in het eerste lid verzorgen.   
@@ -613,9 +615,9 @@ b. uit overleg met werkgevers die werkzaam zijn op de regionale arbeidsmarkt is 
 
 ### Artikel  28  
 
-####Gevolgen van het verzorgen van intrasectorale en intersectorale programma’s vmbo in relatie tot [artikel 18, eerste lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)
+####Gevolgen van het verzorgen van intrasectorale en intersectorale programma’s vmbo in relatie tot artikel 18, eerste lid, van de wet
 
-Een bevoegd gezag dat een intrasectoraal of intersectoraal programma verzorgt als bedoeld in artikel 27, voldoet aan de voorschriften van [artikel 18, eerste lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), indien dat programma wordt aangeboden: 
+Een bevoegd gezag dat een intrasectoraal of intersectoraal programma verzorgt als bedoeld in artikel 27, voldoet aan de voorschriften van artikel 18, eerste lid, van de wet, indien dat programma wordt aangeboden: 
 
 a. in de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg,  
 
@@ -636,7 +638,7 @@ b. in de periode van de eerste twee leerjaren onderwijs in de Arabische taal, de
 
 c. onderwijs gaan volgen in de basisberoepsgerichte leerweg en die in het schooljaar voorafgaand aan het betrokken schooljaar leerwegondersteunend onderwijs volgden.     
 3.  Dit artikel geldt tevens voor leerlingen die in een hoger leerjaar voor de eerste maal in Nederland tot een school zijn toegelaten.   
-4.  De leerling van een school voor vmbo, voor zover het betreft de theoretische leerweg, die in het bezit is van het diploma vmbo in de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg en die in plaats van de vakken, als bedoeld in artikel 18 van de wet, of als extra vak examen heeft afgelegd in één of meer vakken van [artikel 16 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of artikel 21 dan wel 20, is vrijgesteld van het volgen van onderwijs in dit vak respectievelijk deze vakken.  
+4.  De leerling van een school voor vmbo, voor zover het betreft de theoretische leerweg, die in het bezit is van het diploma vmbo in de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg en die in plaats van de vakken, als bedoeld in artikel 18 van de wet, of als extra vak examen heeft afgelegd in één of meer vakken van artikel 16 van de wet of artikel 21 dan wel 20, is vrijgesteld van het volgen van onderwijs in dit vak respectievelijk deze vakken.  
 
 ### §  4  
 
@@ -647,14 +649,14 @@ c. onderwijs gaan volgen in de basisberoepsgerichte leerweg en die in het school
 ####Reikwijdte
 
 1.  Deze paragraaf is van toepassing op scholen voor mavo voor zover daaraan onderwijs in de gemengde leerweg wordt verzorgd, en op scholen voor vbo   
-2.  Deze paragraaf is van overeenkomstige toepassing op arbeidstraining. Onder arbeidstraining wordt verstaan het onderricht in de praktijk van de uitoefening van een vak of beroep aan scholen voor praktijkonderwijs, bedoeld in [artikel 31, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), voor zover dat onderricht plaatsvindt buiten de school voor praktijkonderwijs.  
+2.  Deze paragraaf is van overeenkomstige toepassing op arbeidstraining. Onder arbeidstraining wordt verstaan het onderricht in de praktijk van de uitoefening van een vak of beroep aan scholen voor praktijkonderwijs, bedoeld in artikel 31, zesde lid, van de wet, voor zover dat onderricht plaatsvindt buiten de school voor praktijkonderwijs.  
 
 ### Artikel  31  
 
 ####Stages
 
 1.  In het derde en vierde leerjaar kunnen de lessen in afdelingsvakken of intrasectorale of intersectorale programma’s worden besteed aan stage.   
-2.  Voor een school voor praktijkonderwijs bedraagt het in [artikel 31, zesde lid, van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) bedoelde aantal uren stage of arbeidstraining gedurende de cursusduur gemiddeld ten hoogste 50% van het aantal uren waarin onderwijs wordt verzorgd, met dien verstande dat voor leerlingen voor wie de partiële leerplicht nog niet is geëindigd, tot het einde van die leerplicht de stage of arbeidstraining per schoolweek ten hoogste 80% bedraagt van het aantal uren waarin in die week onderwijs wordt verzorgd.  
+2.  Voor een school voor praktijkonderwijs bedraagt het in artikel 31, zesde lid, van de wet bedoelde aantal uren stage of arbeidstraining gedurende de cursusduur gemiddeld ten hoogste 50% van het aantal uren waarin onderwijs wordt verzorgd, met dien verstande dat voor leerlingen voor wie de partiële leerplicht nog niet is geëindigd, tot het einde van die leerplicht de stage of arbeidstraining per schoolweek ten hoogste 80% bedraagt van het aantal uren waarin in die week onderwijs wordt verzorgd.  
 
 ### Artikel  32  
 

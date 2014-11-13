@@ -10,7 +10,7 @@ Gelet op:
 
 – verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de richtlijnen 80/590/EEG en 89/109/EEG (PbEU L 338);
 
-– [artikel 1](../../../../../../wet/warenwet/BWBR0001969/README.md), [4, eerste lid](../../../../../../wet/warenwet/BWBR0001969/README.md), [8, eerste lid, onder c](../../../../../../wet/warenwet/BWBR0001969/README.md), [13, onder a](../../../../../../wet/warenwet/BWBR0001969/README.md), en [32b van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md);
+– artikel 1, 4, eerste lid, 8, eerste lid, onder c, 13, onder a, en 32b van de Warenwet;
 
 De Raad van State gehoord (advies van 6 april 2005, nr. W13.05.0080/III);
 
@@ -23,15 +23,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 a. verpakking: artikel dat 
 
-1°. wordt gebruikt voor het verpakken, het anderszins geheel of gedeeltelijk omhullen dan wel het op enige wijze aanbieden van eet- of drinkwaren, hetzij in rechtstreekse aanraking met die waren, hetzij zodanig dat onder normale omstandigheden stoffen aan die waren kunnen worden afgegeven; of  
+1°. wordt gebruikt voor het verpakken, het anderszins geheel of gedeeltelijk omhullen dan wel het op enige wijze aanbieden van eet- of drinkwaren, hetzij in rechtstreekse aanraking met die waren, hetzij zodanig dat onder normale omstandigheden stoffen aan die waren kunnen worden afgegeven;   
 
-2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde;    
+2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde; of  
+
+3°. redelijkerwijs kan worden geacht bij normaal of te verwachten gebruik met levensmiddelen in contact te komen of aan levensmiddelen hun bestanddelen af te geven;   
 
 b. gebruiksartikel: technisch voortbrengsel dat 
 
-1°. wordt gebruikt in rechtstreekse aanraking met eet- of drinkwaren; of  
+1°. wordt gebruikt in rechtstreekse aanraking met eet- of drinkwaren;   
 
-2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde;    
+2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde; of  
+
+3°. redelijkerwijs kan worden geacht bij normaal of te verwachten gebruik met levensmiddelen in contact te komen of aan levensmiddelen hun bestanddelen af te geven;   
 
 c. verordening (EG) 1935/2004: verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de richtlijnen 80/590/EEG en 89/109/EEG (PbEU L 338);  
 
@@ -96,7 +100,7 @@ e. antiquiteiten.
 
 ### Artikel  8  
 
-Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](../../../../../../ministeriele-regeling/regeling/verpakkingen-/en/gebruiksartikelen/(warenwet)/BWBR0003276/README.md) op artikel 3, eerste lid, onder a en artikel 4 van dit besluit. 
+Na de inwerkingtreding van dit besluit, berust de Regeling Verpakkingen- en gebruiksartikelen (Warenwet) op artikel 3, eerste lid, onder a en artikel 4 van dit besluit. 
 
 ### Artikel  9  
 
@@ -112,7 +116,7 @@ Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 ### Artikel  12  
 
-Het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](../../../../../../AMvB/verpakkingen-/en/gebruiksartikelenbesluit/(warenwet)/BWBR0003267/README.md) wordt ingetrokken.
+Het Verpakkingen- en gebruiksartikelenbesluit (Warenwet) wordt ingetrokken.
 
 ### Artikel  13  
 

@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur
 
 Overwegende, dat uitvoering moet worden gegeven aan de Richtlijn van de Raad van de Europese Gemeenschappen van 3 mei 1989 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake voor bijzondere voeding bestemde levensmiddelen (89/398/EEG) (*PbEG* L 186); 
 
-Gelet op de [artikelen 1, vijfde lid](../../../../../../../wet/warenwet/BWBR0001969/README.md), [4, eerste lid, onder a en b](../../../../../../../wet/warenwet/BWBR0001969/README.md), [5, eerste lid, onder c](../../../../../../../wet/warenwet/BWBR0001969/README.md), [6, onder d](../../../../../../../wet/warenwet/BWBR0001969/README.md), [8, onder a, b en c](../../../../../../../wet/warenwet/BWBR0001969/README.md), [12](../../../../../../../wet/warenwet/BWBR0001969/README.md) en [14 van de Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358); 
+Gelet op de artikelen 1, vijfde lid, 4, eerste lid, onder a en b, 5, eerste lid, onder c, 6, onder d, 8, onder a, b en c, 12 en 14 van de Warenwet (*Stb.* 1988, 360) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358); 
 
 Gehoord de Adviescommissie Warenwet (advies van 19 maart 1991, nr. 14359/(3)5); 
 
@@ -66,7 +66,7 @@ c. van zuigelingen, peuters of kleuters, in goede gezondheid.
 
 ### Artikel  5  
 
-producten voor bijzondere voeding mogen uitsluitend voorverpakt in de zin van [artikel 1, onder c juncto onder b, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) (Stb. 1992, 14) worden verhandeld. De verpakking moet de waar volledig omsluiten.  
+producten voor bijzondere voeding mogen uitsluitend voorverpakt in de zin van artikel 1, onder c juncto onder b, van het Warenwetbesluit Etikettering van levensmiddelen (Stb. 1992, 14) worden verhandeld. De verpakking moet de waar volledig omsluiten.  
 
 ### §  3  
 
@@ -79,9 +79,9 @@ producten voor bijzondere voeding mogen uitsluitend voorverpakt in de zin van [a
 
 ### Artikel  7  
 
-1.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder a en b, een vermelding worden gebezigd betreffende de bijzondere voedingskenmerken van de betrokken waar.    
-2.   Onverminderd het [Warenwetbesluit Etikettering van Levensmiddelen](../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder c, een vermelding worden gebezigd betreffende de bestemming van de waar.    
-3.   De [artikelen 19, eerste lid, onderdeel a](../../../../../../../wet/warenwet/BWBR0001969/README.md), en [20, tweede lid, onder a, van de Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (Stb. 1988, 360), zijn niet van toepassing, voor zover het betreft het verstrekken van nuttige inlichtingen en aanbevelingen met betrekking tot de in dit besluit bedoelde waren, die uitsluitend zijn bestemd voor personen die bevoegd zijn op het gebied van geneeskunde, voeding of farmacie.   
+1.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder a en b, een vermelding worden gebezigd betreffende de bijzondere voedingskenmerken van de betrokken waar.    
+2.   Onverminderd het Warenwetbesluit Etikettering van Levensmiddelen moet bij de verhandeling van producten voor bijzondere voeding, bedoeld in artikel 1, tweede lid, onder c, een vermelding worden gebezigd betreffende de bestemming van de waar.    
+3.   De artikelen 19, eerste lid, onderdeel a, en 20, tweede lid, onder a, van de Warenwet (Stb. 1988, 360), zijn niet van toepassing, voor zover het betreft het verstrekken van nuttige inlichtingen en aanbevelingen met betrekking tot de in dit besluit bedoelde waren, die uitsluitend zijn bestemd voor personen die bevoegd zijn op het gebied van geneeskunde, voeding of farmacie.   
 
 ### Artikel  8  
 
@@ -123,7 +123,7 @@ Onze Minister stelt ter uitvoering van krachtens richtlijn 89/398/EEG getroffen 
 ### Artikel  12  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de in dit besluit bedoelde producten voor bijzondere voeding al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen chromatografische, fysische, chemische en andere scheidingsmethoden.    
-2.   Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
+2.  Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.  
 
 ### Artikel  13  
 
@@ -135,7 +135,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  15  
 
-Waar in een algemene maatregel van bestuur op grond van de [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) de verwijzing "Aanduidingenbesluit waren voor bijzondere voeding (Warenwet)" voorkomt wordt deze telkens vervangen door: Warenwetbesluit producten voor bijzondere voeding.  
+Waar in een algemene maatregel van bestuur op grond van de Warenwet de verwijzing "Aanduidingenbesluit waren voor bijzondere voeding (Warenwet)" voorkomt wordt deze telkens vervangen door: Warenwetbesluit producten voor bijzondere voeding.  
 
 ### Artikel  16  
 
