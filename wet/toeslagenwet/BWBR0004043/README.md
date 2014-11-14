@@ -555,6 +555,18 @@ b.niet in Nederland woont maar wel in een andere lidstaat van de Europese Unie, 
 
 Artikel 1, achtste en negende lid, is niet van toepassing indien voor de inwerkingtreding van deze artikelleden op grond van artikel 2 recht bestaat op toeslag omdat de ongehuwde toeslaggerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere toeslag. 
 
+### Artikel  44d  
+Treedt in werking per 01-01-2015 
+
+1.  Aan de persoon op wie artikel 4a van toepassing wordt als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, wordt, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op toeslag, in afwijking van artikel 4a: 
+
+1°. vanaf de datum van die opzegging of beëindiging tot en met een jaar na het tijdstip hiervan het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen;  
+
+2°. gedurende het tweede jaar na de datum van die opzegging of beëindiging twee derden van het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen; en  
+
+3°. gedurende het derde jaar na de datum van die opzegging of beëindiging een derde van het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen.     
+2.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid buitenwerking is getreden dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
+
 ### Artikel  44d*  
 Treedt in werking per 01-07-2016 
 
@@ -590,18 +602,6 @@ d. in 2018
 4.  Het eerste lid, onderdeel c, vervalt met ingang van 1 januari 2018.   
 5.  In artikel 9 wordt «de artikelen 2, 8 en 44d» met ingang van 1 januari 2019 vervangen door: de artikelen 2 en 8.   
 6.  Dit artikel vervalt met ingang van 1 januari 2019.  
-
-### Artikel  44d  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  Aan de persoon op wie artikel 4a van toepassing wordt als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, wordt, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op toeslag, in afwijking van artikel 4a: 
-
-1°. vanaf de datum van die opzegging of beëindiging tot en met een jaar na het tijdstip hiervan het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen;  
-
-2°. gedurende het tweede jaar na de datum van die opzegging of beëindiging twee derden van het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen; en  
-
-3°. gedurende het derde jaar na de datum van die opzegging of beëindiging een derde van het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen.     
-2.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid buitenwerking is getreden dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
 
 ### Artikel  45  
 

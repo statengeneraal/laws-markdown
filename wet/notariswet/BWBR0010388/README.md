@@ -488,7 +488,7 @@ e. de hoogte van de cursus- en examengelden en te wiens laste deze komen.
 
 De commissie van toezicht brengt elk jaar aan Onze Minister en aan het bestuur van de KNB verslag uit over haar werkzaamheden. Dit verslag wordt door de KNB algemeen verkrijgbaar gesteld.  
 
-###Titel V 
+### Titel  V  
 
 ####De akten, minuten, grossen en afschriften 
 
@@ -627,6 +627,12 @@ De erflater kan bij uiterste wilsbeschikking bepalen dat de in artikel 49, eerst
 
 1. De notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desverlangd afschriften uit aan degenen die daarbij belang hebben in verband met een rechtsverhouding waarin zij tot de erflater stonden. Eveneens geeft de notaris van tot zijn protocol behorende notariële akten, houdende uiterste wilsbeschikkingen, desverlangd uittreksels uit aan personen als bedoeld in de eerste zin, doch alleen voor wat betreft dat gedeelte van de akte dat betrekking heeft op feiten als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek.
 2. Artikel 49a is van overeenkomstige toepassing.
+
+### Artikel  49c  
+Treedt in werking per 17-08-2015 
+
+1.  De notaris geeft desverlangd van de tot zijn protocol behorende Europese erfrechtverklaringen, bedoeld in artikel 188a van Boek 4 Burgerlijk Wetboek, gewaarmerkte afschriften af.   
+2.  Artikel 49a is van overeenkomstige toepassing.  
 
 ### Artikel  50  
 

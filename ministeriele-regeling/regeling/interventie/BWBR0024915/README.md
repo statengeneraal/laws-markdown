@@ -500,7 +500,7 @@ Een aanvraag om de in artikel 74 bedoelde steun wordt ingediend bij de minister.
 
 1.  Op de verpakking van de boter worden de volgende gegevens vermeld: 
 
-a. het erkenningsnummer van de fabriek van de fabriek;  
+a. het erkenningsnummer van de fabriek;  
 
 b. de lidstaat van productie;  
 
@@ -546,7 +546,7 @@ De op de inslagopgave, bedoeld in artikel 82, eerste lid, vermelde opslagpartije
 
 ### Artikel  82  
 
-1.  Degene die boter in het kader van dit hoofdstuk opslaat, verstrekt aan de minister binnen uiterlijk zestig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of elektronisch of schriftelijk met gebruikmaking van een door de Mnister ter beschikking gesteld formulier.   
+1.  Degene die boter in het kader van dit hoofdstuk opslaat, verstrekt aan de minister binnen uiterlijk zestig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of elektronisch of schriftelijk met gebruikmaking van een door de Minister ter beschikking gesteld formulier.   
 2.  De in het eerste lid bedoelde inslagopgave is tevens de aanvraag tot sluiting van een contract in het kader van dit hoofdstuk.  
 
 ### Artikel  83  
@@ -558,7 +558,7 @@ a. de inslagdatum;
 
 b. het opslagpartijnummer;  
 
-c. het EG-erkenningsnummer;  
+c. het erkenningsnummer van de fabriek;  
 
 d. het productiepartijnummer of in voorkomend geval de productiepartijnummers;  
 

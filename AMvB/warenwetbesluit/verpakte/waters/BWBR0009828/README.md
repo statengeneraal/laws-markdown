@@ -10,7 +10,7 @@ Gelet op richtlijn nr. 96/70/EG van het Europees Parlement en de Raad van 28 okt
 
 op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet; 
 
-alsmede op [artikel 4, eerste lid](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 5, eerste lid](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 6](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 8, onder a en c](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 9, onder b](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 12](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 13](../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md); 
+alsmede op artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 8, onder a en c, artikel 9, onder b, artikel 12, artikel 13, en artikel 14 van de Warenwet; 
 
 De Raad van State gehoord (advies van 3 november 1997, no. W13.97.0417); 
 
@@ -24,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a.  *richtlijn 80/777/EEG:* richtlijn nr. 80/777/EEG van de Raad van 15 juli 1980 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake de exploitatie en het in de handel brengen van natuurlijk mineraalwater (PbEG L 229);   
+a.  *richtlijn 2009/54/EG:* Richtlijn 2009/54/EG van het Europees Parlement en de Raad van 18 juni 2009 betreffende de exploitatie en het in de handel brengen van natuurlijk mineraalwater (Herschikking) (PbEU 2009, L 164);  
 
 b.  *richtlijn 98/83/EG:* richtlijn nr. 98/83/EG van de Raad van de Europese Unie van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330);  
 
@@ -36,14 +36,14 @@ c.  *natuurlijk mineraalwater:* bacteriologisch gezond water met als oorsprong e
 
 d.  *bronwater:* in zijn natuurlijke staat voor consumptie door de mens bestemd water;   
 
-e.  *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md);  
+e.  *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van het Warenwetbesluit Etikettering van levensmiddelen;  
 
 f.*richtlijn 2003/40/EG:* richtlijn nr. 2003/40/EG van de Commissie van de Europese Gemeenschappen van 16 mei 2003 tot vaststelling van de lijst, de grenswaarden voor de concentratie en de vermelding op het etiket van bestanddelen van natuurlijk mineraalwater en van de voorwaarden voor het gebruik van met ozon verrijkte lucht bij de behandeling van natuurlijk mineraalwater en bronwater (PbEU L 126);
 
 g. *verordening (EU) 115/2010:* verordening (EU) nr. 115/2010 van de Commissie van de Europese Unie van 9 februari 2010 tot vaststelling van de voorwaarden voor het gebruik van geactiveerd aluminiumoxide om fluoride uit natuurlijk mineraalwater en bronwater te verwijderen (PbEU L 37).    
 2.  Dit besluit is niet van toepassing op:  
 
-a. geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+a. geneesmiddelen als bedoeld in artikel 1, eerste lid, onder b, van de Geneesmiddelenwet;  
 
 b. natuurlijk mineraalwater dat met het oog op genezing aan de bron in thermale of hydrominerale inrichtingen wordt gebruikt.     
 
@@ -67,10 +67,10 @@ b. natuurlijk mineraalwater dat met het oog op genezing aan de bron in thermale 
 
 1.  Onze Minister erkent op verzoek natuurlijk mineraalwater dat voldoet aan: 
 
-a.bijlage I bij richtlijn 80/777/EEG; en
+a.bijlage I bij richtlijn 2009/54/EG; en
 
-b.artikel 8, derde lid; doch niet dan nadat hij, voor zover het een in Nederland gelegen bron betreft, op de voet van bijlage II van richtlijn 80/777/EEG een vergunning heeft gegeven voor de exploitatie van de desbetreffende bron.   
-2.  Een in het eerste lid bedoelde erkenning wordt ingetrokken indien het desbetreffende mineraalwater niet meer voldoet aan bijlage I bij richtlijn 80/777/EEG.    
+b.artikel 8, derde lid; doch niet dan nadat hij, voor zover het een in Nederland gelegen bron betreft, op de voet van bijlage II van richtlijn 2009/54/EG een vergunning heeft gegeven voor de exploitatie van de desbetreffende bron.   
+2.  Een in het eerste lid bedoelde erkenning wordt ingetrokken indien het desbetreffende mineraalwater niet meer voldoet aan bijlage I bij richtlijn 2009/54/EG.    
 3.  Van de in dit artikel bedoelde erkenning en de intrekking daarvan wordt mededeling gedaan in de Staatscourant.   
 4. In afwijking van het eerste lid, onder b, kan Onze Minister bij het verlenen van een in dat lid bedoelde erkenning lagere richtwaarden hanteren dan ten hoogste 50 mg/l nitraat en ten hoogste 0,1 mg/l nitriet, voor zover die lagere richtwaarden worden gehanteerd voor alle bij hem ingediende verzoeken tot erkenning van natuurlijk mineraalwater.
 
@@ -85,12 +85,12 @@ b. de afscheiding van ijzer-, mangaan- en zwavelverbindingen en arseen van bepaa
 c.  dit onderdeel is nog niet in werking getreden;   
 
 d. de totale of gedeeltelijke verwijdering van vrij koolzuurgas via uitsluitend natuurkundige procédés; voor zover de onder a, b en c bedoelde behandeling geen invloed heeft op de samenstelling van het behandelde mineraalwater, wat betreft de essentiële bestanddelen waaraan dat water zijn eigenschappen te danken heeft.      
-2.  Een in het eerste lid, onder b en c, bedoelde behandeling wordt door de exploitant van de desbetreffende bron gemeld aan de Voedsel en Waren Autoriteit.    
-3.  Onverminderd het eerste lid, onder b, en in afwijking van het tweede lid wordt een behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, vooraf door de exploitant van de desbetreffende bron gemeld aan de Voedsel en Waren Autoriteit. Deze behandeling is slechts toegestaan indien: 
+2.  Een in het eerste lid, onder b en c, bedoelde behandeling wordt door de exploitant van de desbetreffende bron gemeld aan de Nederlandse Voedsel- en Warenautoriteit.    
+3.  Onverminderd het eerste lid, onder b, en in afwijking van het tweede lid wordt een behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, vooraf door de exploitant van de desbetreffende bron gemeld aan de Nederlandse Voedsel- en Warenautoriteit. Deze behandeling is slechts toegestaan indien: 
 
 a. de toepassing van die behandeling gerechtvaardigd is gezien het gehalte aan ijzer-, mangaan-, zwavel- en arseenverbindingen in het water;  
 
-b. de exploitant ervoor zorgt dat de behandeling doeltreffend en onschadelijk is en door de Voedsel en Waren Autoriteit kan worden gecontroleerd;  
+b. de exploitant ervoor zorgt dat de behandeling doeltreffend en onschadelijk is en door de Nederlandse Voedsel- en Warenautoriteitautoriteit kan worden gecontroleerd;  
 
 c. de fysisch-chemische samenstelling van het natuurlijk mineraalwater wat betreft de kenmerkende bestanddelen door de behandeling niet wordt gewijzigd;  
 
@@ -199,7 +199,7 @@ Bij de vaststelling of al dan niet is voldaan aan artikel 8, derde lid, worden d
 a.artikel 3, eerste lid, onder b, en vierde lid; en
 
 b.artikel 10, eerste lid, onder a, en vijfde lid; zijn van overeenkomstige toepassing op bronwater.   
-2.  Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van richtlijn 98/83/EG bij of krachtens de [Drinkwaterwet](../../../../../wet/drinkwaterwet/BWBR0026338/README.md) aan drinkwater gestelde eisen.   
+2.  Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van richtlijn 98/83/EG bij of krachtens de Drinkwaterwet aan drinkwater gestelde eisen.   
 3.  Bronwater dat rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, wordt gelijkgesteld met bronwater dat is erkend op de voet van het eerste lid.   
 
 ### §  4  
@@ -208,7 +208,7 @@ b.artikel 10, eerste lid, onder a, en vijfde lid; zijn van overeenkomstige toepa
 
 ### Artikel  13  
 
-1.  Natuurlijk mineraalwater en bronwater, dat gewonnen is uit de bodem van een derde land, wordt door Onze Minister slechts erkend indien de desbetreffende bevoegde autoriteit in het land van winning heeft verklaard dat dit water voldoet aan bijlage I, deel I, van richtlijn 80/777/EEG, en dat permanent wordt gecontroleerd of bijlage II, punt 2, van richtlijn 80/777/EEG wordt nageleefd.    
+1.  Natuurlijk mineraalwater en bronwater, dat gewonnen is uit de bodem van een derde land, wordt door Onze Minister slechts erkend indien de desbetreffende bevoegde autoriteit in het land van winning heeft verklaard dat dit water voldoet aan bijlage I, deel I, van richtlijn 2009/54/EG, en dat permanent wordt gecontroleerd of bijlage II, punt 2, van richtlijn 2009/54/EG wordt nageleefd.    
 2.  De geldigheidsduur van een verklaring als bedoeld in het eerste lid, bedraagt ten hoogste vijf jaar. Indien deze verklaring voor het einde van die periode wordt vernieuwd, behoeft niet opnieuw tot erkenning van het desbetreffende natuurlijk mineraalwater of bronwater te worden overgegaan.   
 
 ### §  5  
@@ -217,7 +217,7 @@ b.artikel 10, eerste lid, onder a, en vijfde lid; zijn van overeenkomstige toepa
 
 ### Artikel  14  
 
-1.  Water voldoet op het punt waar flessen of verpakkingen worden gevuld ten minste aan de bij of krachtens de [Drinkwaterwet](../../../../../wet/drinkwaterwet/BWBR0026338/README.md) aan voor drinkwater gestelde eisen.   
+1.  Water voldoet op het punt waar flessen of verpakkingen worden gevuld ten minste aan de bij of krachtens de Drinkwaterwet aan voor drinkwater gestelde eisen.   
 2.  Onverminderd het eerste lid: a. voldoet water aan de volgende microbiologische parameters:   
 
 | --- | --- |
@@ -258,7 +258,7 @@ Wijzigt het Warenwetbesluit Frisdranken.
 – met uitzondering van artikel 4, eerste lid, onder b en c, en tweede lid, dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip,   
 
 – met dien verstande dat natuurlijk mineraalwater of bronwater dat voldoet aan het Natuurlijk mineraal- en bronwaterbesluit (Warenwet) zoals dat tot het in de aanhef genoemde tijdstip luidde, en dat voor dat tijdstip rechtmatig in het verkeer is gebracht of is geëtiketteerd, nog verhandeld mag worden zolang de voorraad strekt.      
-2.  Een wijziging van richtlijn 80/777/EEG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.    
+2.  Een wijziging van richtlijn 2009/54/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.    
 3.  Een wijziging van bijlage III van richtlijn 98/83/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
 4. Een wijziging van bijlage II van richtlijn 2003/40/EG gaat voor de toepassing van artikel 11a gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 

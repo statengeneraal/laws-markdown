@@ -150,7 +150,7 @@ c. Zeeland-West-Brabant.
 
 ### Artikel  18  
 
-Indien een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) leidt tot een wijziging van het grondgebied van een arrondissement of ressort, heeft die wijziging geen gevolgen voor de rechterlijke bevoegdheid in zaken die op de datum van herindeling bij een rechtbank of gerechtshof aanhangig zijn. 
+Indien een herindelingsregeling als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet algemene regels herindeling leidt tot een wijziging van het grondgebied van een arrondissement of ressort, heeft die wijziging geen gevolgen voor de rechterlijke bevoegdheid in zaken die op de datum van herindeling bij een rechtbank of gerechtshof aanhangig zijn. 
 
 ### Artikel  19  
 

@@ -7,7 +7,7 @@ Gelet op richtlijn nr. 96/8/EG van de Commissie van de Europese Gemeenschappen v
 
 op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet jo. artikel 10bis van het Algemeen Besluit (Warenwet);
 
-alsmede op [artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md);
+alsmede op artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding;
 Besluit:     
 ### §  1 
 
@@ -60,7 +60,7 @@ Bij de in deze regeling bedoelde eet- of drinkwaren wordt geen vermelding gebezi
 
 ###Artikel 6 
 
-Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) worden bij de verhandeling van de in deze regeling bedoelde eet- of drinkwaren de volgende vermeldingen gebezigd:
+Onverminderd het Warenwetbesluit Etikettering van levensmiddelen worden bij de verhandeling van de in deze regeling bedoelde eet- of drinkwaren de volgende vermeldingen gebezigd:
 
 a. de in kJ en kcal uitgedrukte energie-inhoud en het in numerieke vorm uitgedrukte gehalte aan eiwitten, koolhydraten en vetten per aangegeven hoeveelheid van de voor consumptie gerede waar;
 
@@ -98,7 +98,7 @@ Wijzigt de Toestemmingsregeling Produkten voor gewichtsbeheersing (Warenwet).
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de in deze regeling bedoelde eet- of drinkwaren, voor zover zij voldoen aan de Toestemmingsregeling Produkten voor gewichtsbeheersing ([Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md)), nog verhandeld mogen worden tot 31 maart 1999. 
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de in deze regeling bedoelde eet- of drinkwaren, voor zover zij voldoen aan de Toestemmingsregeling Produkten voor gewichtsbeheersing (Warenwet), nog verhandeld mogen worden tot 31 maart 1999. 
 
 ### Artikel  11  
 

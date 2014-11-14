@@ -8,9 +8,9 @@ Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur
 
 Overwegende, dat het, gelet op richtlijn 90/396/EEG van de Raad van de Europese Gemeenschappen van 29 juni 1990 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake gastoestellen (*PbEG* L 196), noodzakelijk is regels te stellen ten aanzien van de veiligheid en het energiegebruik van gastoestellen en hun toebehoren;
 
-Gelet op de artikelen 1, vierde lid, 4, eerste lid, onderdelen *a* en *b*, 8, onderdelen *a, b* en *c*, 11, 12, 13 en 14 van de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1988, 360) en de [artikelen 2](../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md), 3, 4, 5, 6, 7 en [21 van de Wet energiebesparing toestellen](../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md) (*Stb.* 1986, 59);
+Gelet op de artikelen 1, vierde lid, 4, eerste lid, onderdelen *a* en *b*, 8, onderdelen *a, b* en *c*, 11, 12, 13 en 14 van de Warenwet (*Stb.* 1988, 360) en de artikelen 2, 3, 4, 5, 6, 7 en 21 van de Wet energiebesparing toestellen (*Stb.* 1986, 59);
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) van 18 september 1991, nr. 14 398/(50) 5;
+Gezien het advies van de Adviescommissie Warenwet van 18 september 1991, nr. 14 398/(50) 5;
 
 De Raad van State gehoord (advies van 13 december 1991, Nr. W13.91.0595);
 
@@ -35,7 +35,7 @@ d. normaal gebruik: gebruik waarbij gastoestellen,
 
 3. overeenkomstig hun bestemming of op een redelijkerwijs te verwachten manier worden aangewend.       
 2.   In afwijking van het eerste lid, wordt in dit besluit onder gastoestellen niet verstaan gastoestellen specifiek bestemd voor gebruik in industriële processen.   
-3.   In dit besluit wordt, voor zover het berust op de [Wet energiebesparing toestellen](../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md) (*Stb.* 1986, 59), onder verhandelen verstaan: ten verkoop voorhanden hebben, ten verkoop aanbieden, verkopen, verhuren of afleveren.  
+3.   In dit besluit wordt, voor zover het berust op de Wet implementatie EU-richtlijnen energie-efficiëntie, onder verhandelen verstaan: ten verkoop voorhanden hebben, ten verkoop aanbieden, verkopen, verhuren of afleveren.  
 
 ### Artikel  2  
 
@@ -50,7 +50,7 @@ d. normaal gebruik: gebruik waarbij gastoestellen,
 
 ### Artikel  4  
 
-Gastoestellen en toebehoren worden vermoed te voldoen aan het in artikel 3, tweede lid bepaalde, indien zij voldoen aan de door Onze Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie daartoe aangewezen normen. 
+Gastoestellen en toebehoren worden vermoed te voldoen aan het in artikel 3, tweede lid bepaalde, indien zij voldoen aan de door Onze Minister van Volksgezondheid, Welzijn en Sport daartoe aangewezen normen. 
 
 ### Artikel  5  
 
@@ -72,13 +72,24 @@ b. na inachtneming van de in onderdeel C van bijlage III genoemde procedure inza
 
 ### Artikel  7  
 
-1.  Onze Minister van Volksgezondheid, Welzijn en Sport wijst tezamen met Onze Minister van Economische Zaken, Landbouw en Innovatie de instellingen aan die:  
+1.  Onze Minister van Volksgezondheid, Welzijn en Sport wijst de instellingen aan die:  
 
 a. bevoegd zijn het in artikel 5, tweede lid, onder a, bedoelde EG-type-onderzoek te verrichten;  
 
 b. bevoegd zijn tot het verrichten van steekproeven, EG-toezicht en EG-keuring zoals omschreven in de in artikel 5, tweede lid, onder a en b, bedoelde procedures.     
 2.   Voor een aanwijzing als bedoeld in het eerste lid, komen in aanmerking instanties die tenminste voldoen aan de in bijlage V genoemde voorwaarden.   
-3.   Aan de krachtens het eerste lid aangewezen instellingen worden gelijkgesteld de door de daartoe bevoegde autoriteiten van de lid-staten van de Europese Gemeenschappen dan wel die van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, in het kader van de richtlijn 90/396/EEG (*PbEG* L 196) aangewezen instellingen.  
+3.   Aan de krachtens het eerste lid aangewezen instellingen worden gelijkgesteld de door de daartoe bevoegde autoriteiten van de lid-staten van de Europese Gemeenschappen dan wel die van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, in het kader van de richtlijn 90/396/EEG (*PbEG* L 196) aangewezen instellingen.   
+4.  Onze Minister kan een aanwijzing schorsen, wijzigen of intrekken: 
+
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet zou hebben gegeven;  
+
+b. op grond van door de aangewezen instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, tenzij de onjuistheid daarvan aan de instelling onbekend was of kon zijn;  
+
+c. indien de aangewezen instelling niet meer voldoet aan de in bijlage V genoemde voorwaarden;  
+
+d. indien de aangewezen instelling gedurende een aaneengesloten periode van twee jaren geen werkzaamheden waarvoor zij is aangewezen, heeft uitgevoerd; of  
+
+e. indien de aangewezen instelling haar wettelijke verplichtingen niet naar behoren nakomt of de taken waarvoor zij is aangewezen, niet naar behoren uitvoert.   
 
 ### Artikel  8  
 
@@ -157,7 +168,7 @@ Opmerking vooraf De in de fundamentele voorschriften van deze bijlage vervatte v
 
 #### Algemeen
 
-3.1.1. De constructie van het toestel moet zodanig zijn dat zich bij normaal gebruik geen onstabiliteit, vervorming, breuk of slijtage voordoet die de veiligheid in gevaar kan brengen. 3.1.2. Condensvorming bij het opwarmen en/of tijdens bedrijf mag niet van invloed zijn op de veiligheid van het toestel. 3.1.3. Het ontwerp en de constructie van het toestel moeten zodanig zijn dat bij aanwezigheid van vuur buiten het toestel het ontploffingsgevaar minimaal is. 3.1.4. De constructie van het toestel moet zodanig zijn dat ongewenst binnendringen van water en lucht in de gasleiding onmogelijk is. 3.1.5. Bij een normale variatie van de hulpenergie moet het toestel veilig blijven functioneren. 3.1.6. Abnormale variatie of het uitvallen van de hulpenergie of terugkomst ervan mogen niet tot een onveilige situatie leiden. 3.1.7. Het ontwerp en de constructie van het toestel moeten zodanig zijn dat gevaren van elektrische aard uitgesloten worden. Het terzake bepaalde in het [Warenwetbesluit elektrotechnische produkten](../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md), is van toepassing. 3.1.8. Onder druk staande delen van een toestel moeten bestand zijn tegen de mechanische en thermische belasting waaraan ze blootstaan zonder dat er vervormingen optreden die de veiligheid in gevaar brengen. 3.1.9. Een toestel moet zodanig zijn ontworpen en geconstrueerd dat een defect aan een beveiligings-, controle- of afstellingsinrichting niet tot een onveilige situatie leidt. 3.1.10. Indien een toestel is uitgerust met beveiligings- en afstellingsinrichtingen, mag de werking van de beveiligingsinrichtingen niet worden beïnvloed door die van de afstellingsinrichtingen. 3.1.11. Alle onderdelen van een toestel die bij de fabricage zijn aangebracht of afgesteld en die door de gebruiker en de installateur ongemoeid moeten worden gelaten, moeten afdoende worden beschermd. 3.1.12. De bedienings- en afstellingshendels of -organen dienen duidelijk te zijn aangegeven en te zijn voorzien van passende instructies om een foutieve bediening te voorkomen. Zij dienen zodanig te zijn ontworpen dat bij toeval hanteren uitgesloten is. 
+3.1.1. De constructie van het toestel moet zodanig zijn dat zich bij normaal gebruik geen onstabiliteit, vervorming, breuk of slijtage voordoet die de veiligheid in gevaar kan brengen. 3.1.2. Condensvorming bij het opwarmen en/of tijdens bedrijf mag niet van invloed zijn op de veiligheid van het toestel. 3.1.3. Het ontwerp en de constructie van het toestel moeten zodanig zijn dat bij aanwezigheid van vuur buiten het toestel het ontploffingsgevaar minimaal is. 3.1.4. De constructie van het toestel moet zodanig zijn dat ongewenst binnendringen van water en lucht in de gasleiding onmogelijk is. 3.1.5. Bij een normale variatie van de hulpenergie moet het toestel veilig blijven functioneren. 3.1.6. Abnormale variatie of het uitvallen van de hulpenergie of terugkomst ervan mogen niet tot een onveilige situatie leiden. 3.1.7. Het ontwerp en de constructie van het toestel moeten zodanig zijn dat gevaren van elektrische aard uitgesloten worden. Het terzake bepaalde in het Warenwetbesluit elektrotechnische produkten, is van toepassing. 3.1.8. Onder druk staande delen van een toestel moeten bestand zijn tegen de mechanische en thermische belasting waaraan ze blootstaan zonder dat er vervormingen optreden die de veiligheid in gevaar brengen. 3.1.9. Een toestel moet zodanig zijn ontworpen en geconstrueerd dat een defect aan een beveiligings-, controle- of afstellingsinrichting niet tot een onveilige situatie leidt. 3.1.10. Indien een toestel is uitgerust met beveiligings- en afstellingsinrichtingen, mag de werking van de beveiligingsinrichtingen niet worden beïnvloed door die van de afstellingsinrichtingen. 3.1.11. Alle onderdelen van een toestel die bij de fabricage zijn aangebracht of afgesteld en die door de gebruiker en de installateur ongemoeid moeten worden gelaten, moeten afdoende worden beschermd. 3.1.12. De bedienings- en afstellingshendels of -organen dienen duidelijk te zijn aangegeven en te zijn voorzien van passende instructies om een foutieve bediening te voorkomen. Zij dienen zodanig te zijn ontworpen dat bij toeval hanteren uitgesloten is. 
 
 ### 3.2  
 

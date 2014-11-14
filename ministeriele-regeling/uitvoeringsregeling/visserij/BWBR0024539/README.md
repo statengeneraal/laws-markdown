@@ -71,13 +71,15 @@ z. mosselkweekperceel: perceel dat zich bevindt in een kustwater en dat bestemd 
 
 aa. wet: Visserijwet 1963; 
 
-bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in bijlage I, tabel 3, van verordening (EG) nr. 26/2004 van de Commissie van de Europese Gemeenschappen van 30 december 2003 betreffende de communautaire gegevensbestand over de vissersvloot (PbEU L5).  
+bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in bijlage I, tabel 3, van verordening (EG) nr. 26/2004 van de Commissie van de Europese Gemeenschappen van 30 december 2003 betreffende de communautaire gegevensbestand over de vissersvloot (PbEU L5); 
+
+cc.  haven: het water dat begrensd wordt door havendammen en de uiteinden van deze dammen met daarop het groene, respectievelijk rode havenlicht. De grens tussen het open water en de haven wordt gevormd door de lijn tussen deze havenlichten.  
 
 ### Artikel  1a  
 
 Deze regeling berust op: 
 
-a. de artikelen 1, tweede lid, onderdelen a en b, 2c, eerste lid, 3a, 17, eerste en derde lid, 24 en 54c van de wet;  
+a. de artikelen 1, tweede lid, onderdelen a en b, 2c, eerste lid, 3a, 17, eerste en derde lid, en 24 van de wet;  
 
 b. de artikelen 3, 4 en 6d van het Reglement zee- en kustvisserij 1977, en  
 
@@ -112,10 +114,6 @@ e. andere vergiftigende, bedwelmende en ontplofbare stoffen.
 ### Artikel  5  
 
 Als water waarvoor de bepalingen van paragraaf 5 van de wet betreffende de huur en verhuur van visrecht niet gelden, wordt aangewezen: het Grevelingenmeer. 
-
-### Artikel  5a  
-
-Als vissoort als bedoeld in artikel 54c, derde lid, onderdeel a, van de wet, worden aangewezen: de aal en de wolhandkrab. 
 
 ### Artikel  5b  
 
@@ -460,6 +458,8 @@ f. de aaskuil in de periode van 1 november tot en met 11 april, en
 g. de zegen in de periode van 16 maart tot en met 31 oktober.     
 2.  Het is verboden te vissen in het IJsselmeer met het staand net, het aalhoekwant of het aalkistje van vrijdagmiddag 16.00 uur tot de daaropvolgende maandagmorgen 8.00 uur.   
 3.  Het is verboden te vissen in het IJsselmeer met de aaskuil van donderdag zonsondergang tot de daaropvolgende maandag 8.00 uur en voorts dagelijks van zonsondergang tot de daaropvolgende morgen 8.00 uur.  
+4. Het is buiten de periode, bedoeld in het eerste lid onder g, eveneens verboden met de zegen te vissen in het IJsselmeer op acht of meer dagen.
+5. Het is verboden met de zegen te vissen in het IJsselmeer op een dag waarvoor door de vergunninghouder niet ten minste twee werkdagen daarvoor melding is gedaan aan de minister.
 
 ### Artikel  30  
 
@@ -468,6 +468,14 @@ Het is verboden te vissen met de schietfuik binnenvisserij in de gebieden in het
 ### Artikel  31  
 
 Het is verboden te vissen met de aaskuil in de gebieden in het IJsselmeer, genoemd in bijlage 9. 
+
+### Artikel  31a  
+
+Het is verboden om te vissen met de zegen in de havens van het IJsselmeer. 
+
+### Artikel  31b  
+
+Het is verboden bij het vissen met de zegen in de gebieden in het IJsselmeer om meerdere zegennetten aan elkaar te binden. 
 
 ### Artikel  32  
 
@@ -873,8 +881,7 @@ d. aanwezig blijven en in deugdelijke staat te worden gehouden zolang de graskar
 
 ### Artikel  65  
 
-1.  In afwijking van het bepaalde in artikel 29, eerste lid, onderdelen a en b, is het toegestaan te vissen met de grote fuik en de schietfuik binnenvisserij ten behoeve van de vangst van spiering gedurende een periode die de Minister daartoe jaarlijks kan vaststellen, welke periode maximaal drie weken duurt en een aanvang neemt na 1 maart.   
-2.  In afwijking van het bepaalde in artikel 29, eerste lid, onderdeel a, is het toegestaan in de periode van 1 januari tot en met 30 april te vissen met de grote fuik mits in het achterste deel van de fuik een netwerk, bestaande uit tenminste 80 mazen met een maaswijdte van tenminste 40 mm is aangebracht achter de laatste inkeling zodanig dat deze mazen in de te water staande fuik vierkant van vorm zijn en vis via deze mazen uit de fuik kan ontsnappen.  
+1.  In afwijking van het bepaalde in artikel 29, eerste lid, onderdelen a en b, is het toegestaan te vissen met de grote fuik en de schietfuik binnenvisserij ten behoeve van de vangst van spiering gedurende een periode die de Minister daartoe jaarlijks kan vaststellen, welke periode maximaal drie weken duurt en een aanvang neemt na 1 maart.  
 
 ### Artikel  66  
 

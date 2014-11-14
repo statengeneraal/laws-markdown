@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Ministers van Landbouw, Natuur en Voedselkwaliteit, en van Economische Zaken;
 
-Gelet op richtlijn nr. 2006/141/EG van de Commissie van de Europese Gemeenschappen van 22 december 2006 (PbEU L 401) inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding en tot wijziging van richtlijn 1999/21/EG, alsmede op [artikel 10, eerste lid, van het Warenwetbesluit Producten voor bijzondere voeding](../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md);
+Gelet op richtlijn nr. 2006/141/EG van de Commissie van de Europese Gemeenschappen van 22 december 2006 (PbEU L 401) inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding en tot wijziging van richtlijn 1999/21/EG, alsmede op artikel 10, eerste lid, van het Warenwetbesluit Producten voor bijzondere voeding;
 Besluit:    
 
 ### Artikel  1  
@@ -55,8 +55,8 @@ b. opvolgzuigelingenvoeding   geschiedt met inachtneming van de artikelen 2, 3, 
 
 ### Artikel  6  
 
-1.  Handelen in strijd met de artikelen 2, 3 of 4, van deze regeling, is toegestaan tot 31 december 2009, voor zover ter zake de voorschriften in acht zijn genomen, gesteld bij de [Warenwetregeling Zuigelingenvoeding](../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/BWBR0006126/README.md) zoals die luidde onmiddellijk vóór de inwerkingtreding van deze regeling.   
-2.  In afwijking van artikel 2 mag tot 1 januari 2012 dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, bedoeld in [artikel 5, tweede lid, van de Warenwetregeling Dieetvoeding voor medisch gebruik](../../../../../ministeriele-regeling/warenwetregeling/dieetvoeding/voor/medisch/gebruik/BWBR0010600/README.md), bereid en verhandeld worden zonder daarbij artikel 7, eerste en tweede lid, van richtlijn 2006/141/EG, in acht te nemen.  
+1.  Handelen in strijd met de artikelen 2, 3 of 4, van deze regeling, is toegestaan tot 31 december 2009, voor zover ter zake de voorschriften in acht zijn genomen, gesteld bij de Warenwetregeling Zuigelingenvoeding zoals die luidde onmiddellijk vóór de inwerkingtreding van deze regeling.   
+2.  In afwijking van artikel 2 mag tot 1 januari 2012 dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, bedoeld in artikel 5, tweede lid, van de Warenwetregeling Dieetvoeding voor medisch gebruik, bereid en verhandeld worden zonder daarbij artikel 7, eerste en tweede lid, van richtlijn 2006/141/EG, in acht te nemen.  
 
 ### Artikel  7  
 
@@ -68,7 +68,7 @@ Wijzigt de Warenwetregeling Dieetvoeding voor medisch gebruik.
 
 ### Artikel  9  
 
-De[ Warenwetregeling Zuigelingenvoeding](../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/BWBR0006126/README.md) wordt ingetrokken. 
+De Warenwetregeling Zuigelingenvoeding wordt ingetrokken. 
 
 ### Artikel  10  
 

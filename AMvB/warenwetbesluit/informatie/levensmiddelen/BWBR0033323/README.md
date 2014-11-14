@@ -22,11 +22,11 @@ Gelet op:
 
 –  Richtlijn 2011/91/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende de vermeldingen of merktekens die het mogelijk maken de partij waartoe een levensmiddel behoort te identificeren (PbEU 2011, L 334);  
 
-– de [artikelen 8, eerste lid](../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md);  
+– de artikelen 8, eerste lid, 13, 14 en 32b, eerste lid, van de Warenwet;  
 
 – artikel II van de Wijzigingswet (1988) Warenwet; en  
 
-– [artikel 2b, eerste lid, onder a en b, van de Prijzenwet](../../../../../wet/prijzenwet/BWBR0002353/README.md);   
+– artikel 2b, eerste lid, onder a en b, van de Prijzenwet;   
 De Afdeling advisering van de Raad van State gehoord (advies van 6 maart 2013, No. W13.13.0031/III);
 
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 22 maart 2013, VGP/3159537, uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
@@ -210,13 +210,13 @@ a. het logo wordt niet gebezigd bij:
 
 1° alcoholhoudende dranken;  
 
-2° zuigelingenvoeding en opvolgzuigelingenvoeding als bedoeld in de [Warenwetregeling zuigelingenvoeding 2007](../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/2007/BWBR0021907/README.md);  
+2° zuigelingenvoeding en opvolgzuigelingenvoeding als bedoeld in de Warenwetregeling zuigelingenvoeding 2007;  
 
-3° bewerkte eet- of drinkwaren op basis van granen en babyvoeding als bedoeld in de [Warenwetregeling Babyvoeding](../../../../../ministeriele-regeling/warenwetregeling/babyvoeding/BWBR0008503/README.md);  
+3° bewerkte eet- of drinkwaren op basis van granen en babyvoeding als bedoeld in de Warenwetregeling Babyvoeding;  
 
-4° dieetvoeding voor medisch gebruik als bedoeld in de [Warenwetregeling Dieetvoeding voor medisch gebruik](../../../../../ministeriele-regeling/warenwetregeling/dieetvoeding/voor/medisch/gebruik/BWBR0010600/README.md); en  
+4° dieetvoeding voor medisch gebruik als bedoeld in de Warenwetregeling Dieetvoeding voor medisch gebruik; en  
 
-5° voedingssupplementen als bedoeld in het [Warenwetbesluit voedingssupplementen](../../../../../AMvB/warenwetbesluit/voedingssupplementen/BWBR0014814/README.md);    
+5° voedingssupplementen als bedoeld in het Warenwetbesluit voedingssupplementen;    
 
 b. het logo is begrijpelijk voor de consument;  
 
@@ -345,9 +345,9 @@ Treedt in werking per 13-12-2014
 
 De volgende besluiten worden ingetrokken: 
 
-a. het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md);  
+a. het Warenwetbesluit Etikettering van levensmiddelen;  
 
-b. het [Warenwetbesluit Voedingswaarde-informatie levensmiddelen](../../../../../AMvB/warenwetbesluit/voedingswaarde-informatie/levensmiddelen/BWBR0006135/README.md). 
+b. het Warenwetbesluit Voedingswaarde-informatie levensmiddelen. 
 
 ### Artikel  32  
 Treedt in werking per 13-12-2014 

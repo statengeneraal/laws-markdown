@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 
 
 Gelet op de verordening (EG) nr. 2991/94 van de Raad van de Europese Unie van 5 december 1994 tot vaststelling van normen voor smeerbare vetprodukten (PbEG L 316);
 
-Gelet op [artikel 4, eerste lid](../../../../../wet/warenwet/BWBR0001969/README.md), [artikel 8, onder a en b](../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 13 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) alsmede op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet jo. [artikel 14 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) (Stb. 1935. 795);
+Gelet op artikel 4, eerste lid, artikel 8, onder a en b, en artikel 13 van de Warenwet alsmede op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet jo. artikel 14 van de Warenwet (Stb. 1935. 795);
 
 Gezien het advies van de Adviescommissie Warenwet (19-9-95, 14 907/(13)5), het advies van het Regulier Overleg Warenwet (16-11-1998, GZB/ROW/985449) en de brief van de Voedingsraad van 12 oktober 1995 (951012/01);
 
@@ -21,18 +21,18 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-1. verordening (EG) 2991/94: verordening (EG) nr. 2991/94 van de Raad van de Europese Unie van 5 december 1994 tot vaststelling van normen voor smeerbare vetprodukten (Pb EG L 316).  
+*bak- en braadproducten:* waren die voornamelijk bestaan uit een mengsel van niet of slechts ten dele van melk afkomstige oliën en vetten, en aangeduid als geschikt of bestemd voor bakken en braden, met een vetgehalte van ten minste 90%, met uitzondering van oliën en vetten als zodanig;  
 
-2. bak- en braadproducten: waren die voornamelijk bestaan uit een mengsel van niet of slechts ten dele van melk afkomstige oliën en vetten, en aangeduid als geschikt of bestemd voor bakken en braden, met een vetgehalte van ten minste 90%, met uitzondering van oliën en vetten als zodanig.    
+*verordening (EU) 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013, tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347).   
 
 ### Artikel  2  
 
-1.  Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens de artikelen 2, 3, 4, 5 en 8, van verordening (EG) 2991/94.   
-2.  Het is verboden de in de bijlage bij verordening (EG) 2991/94, onder B en C, bedoelde vetten te bereiden of te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling.  
+1.  Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens artikel 91, onder a en d, en bijlage VII, deel VII en aanhangsel II van verordening (EU) 1308/2013.   
+2.  Het is verboden de in aanhangsel II bij bijlage VII, van verordening (EU) 1308/2013, onder B en C, bedoelde vetten te bereiden of te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling.  
 
 ### Artikel  3  
 
-In de in de bijlage bij de verordening (EG) 2991/94, onder B en C, bedoelde vetten is het gehalte aan erucazuur niet hoger dan 5% en het gehalte aan erucazuur en zijn isomeren niet hoger dan 6,5%, een en ander berekend op het totale gehalte aan vetzuren in de vetfase. 
+In de in aanhangsel II bij bijlage VII, van verordening (EU) 1308/2013, onder B en C, bedoelde vetten is het gehalte aan erucazuur niet hoger dan 5% en het gehalte aan erucazuur en zijn isomeren niet hoger dan 6,5%, een en ander berekend op het totale gehalte aan vetzuren in de vetfase. 
 
 ### Artikel  4  
 

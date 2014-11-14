@@ -1361,6 +1361,11 @@ d. dat al dan niet het beheer van de nalatenschap aan executeurs, bewindvoerders
 e. dat een of meer in de verklaring genoemde personen executeur, bewindvoerder of vereffenaar zijn.     
 2.  Bij algemene maatregel van bestuur kunnen nadere voorschriften omtrent de inhoud en de opstelling van deze verklaringen worden vastgesteld.  
 
+### Artikel  188a  
+Treedt in werking per 17-08-2015 
+
+De notaris geeft op verzoek een Europese erfrechtverklaring af als bedoeld in artikel 62 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201). De aanvraag kan worden gedaan met behulp van het formulier als bedoeld in artikel 65 lid 2 van de verordening in de Nederlandse taal of in een andere officiële taal van de EU, mits de notaris die taal begrijpt. 
+
 ### Artikel  189  
 
 Indien en voor zover een erflater geen erfgenamen heeft, worden de goederen der nalatenschap op het ogenblik van zijn overlijden door de Staat onder algemene titel verkregen. 

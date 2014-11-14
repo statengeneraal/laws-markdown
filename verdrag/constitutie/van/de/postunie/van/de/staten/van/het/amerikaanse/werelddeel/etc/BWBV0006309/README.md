@@ -193,8 +193,13 @@ b)determinar, en su caso, la acción conjunta a seguir en el Congreso para alcan
 
 ####Resoluciones y Recomendaciones del Congreso
 
-1. ResolucionesLas Resoluciones expresarán la voluntad del Congreso y se referirán a la Estrategia, a las actividades de la Unión o a ciertos aspectos de la prestación de los servicios postales de la región.Las Resoluciones que contengan un mandato tendrán carácter obligatorio, y deberán establecer, según el caso, el período de vigencia o el plazo para su cumplimiento.Las Resoluciones serán anexadas a las Actas de la Unión. 
-2. RecomendacionesLas Recomendaciones expresarán la opinión del Congreso respecto a iniciativas o mejores prácticas que se consideren aconsejables para el desarrollo de los servicios postales en los países o territorios miembros, que las aplicarán en la medida de lo posible.Las Recomendaciones serán anexadas a las Actas de la Unión. 
+1. ###Resoluciones
+
+Las Resoluciones expresarán la voluntad del Congreso y se referirán a la Estrategia, a las actividades de la Unión o a ciertos aspectos de la prestación de los servicios postales de la región.Las Resoluciones que contengan un mandato tendrán carácter obligatorio, y deberán establecer, según el caso, el período de vigencia o el plazo para su cumplimiento.Las Resoluciones serán anexadas a las Actas de la Unión. 
+2. 
+###Recomendaciones
+
+Las Recomendaciones expresarán la opinión del Congreso respecto a iniciativas o mejores prácticas que se consideren aconsejables para el desarrollo de los servicios postales en los países o territorios miembros, que las aplicarán en la medida de lo posible.Las Recomendaciones serán anexadas a las Actas de la Unión. 
 3. El Protocolo Final, anexado eventualmente a las Resoluciones del Congreso relativas a la explotación postal, contiene las reservas a éstas. 
 
 ### CAPÍTULO  VI  
@@ -493,7 +498,10 @@ e) el cierre del debate sobre la cuestión en discusión.   Las mociones de proc
 5.  Convocado por su Presidente, por conducto de la Secretaría General, el Consejo celebrará una sesión anual en la sede de la Unión. En casos excepcionales y sin que signifique mayor costo para la Unión, el Consejo podrá celebrar su reunión anual en otra ciudad de algún país o territorio miembro. En todas sus sesiones el Secretario General tomará parte en los debates sin derecho de voto. El Consejo dictará el Reglamento Interno que norme su funcionamiento. Se aplicarán supletoriamente, y en lo que resulten compatibles, las normas previstas en los artículos anteriores y referidas al funcionamiento del Congreso, siendo el Presidente del Consejo o, en su caso, la Vicepresidencia, los responsables de su correcta interpretación y aplicación.   
 6.  En caso de necesidad el Presidente a propuesta de cualquier miembro y con el asentimiento de las dos terceras partes de los miembros del Consejo con derecho de voto, convocará una reunión extraordinaria, en el plazo máximo de dos meses.   
 7.  Las funciones de miembros del Consejo serán gratuitas. Los gastos de funcionamiento estarán a cargo de la Unión. Con excepción de las reuniones que se realicen durante el Congreso, los países y territorios miembros podrán solicitar el financiamiento para la participación de un delegado, con cargo a su alícuota de Cooperación Técnica, que consistirá en la provisión de un pasaje aéreo de ida y vuelta, clase económica, el pago del 80% del monto del viático estipulado por el PNUD para la sede del Consejo y la provisión de una tarjeta asistencial.   
-8.  Observadores La participación de observadores en las reuniones del Consejo se regirá, por analogía, conforme lo dispuesto en el artículo 107 del presente Reglamento.   
+8.  
+###Observadores
+
+La participación de observadores en las reuniones del Consejo se regirá, por analogía, conforme lo dispuesto en el artículo 107 del presente Reglamento.   
 9.  La Secretaría General en consulta con el Presidente del Consejo y con el Comité de Gestión analizará y procederá a realizar las invitaciones correspondientes en los términos que se acuerden.   
 10.  Los observadores podrán tomar la palabra cuando sean autorizados por el Presidente del Consejo, pero no tendrán derecho de voto.   
 11.  El Consejo dirigirá las actividades de la Unión con las siguientes atribuciones en particular: 
@@ -580,7 +588,10 @@ e) el cierre del debate sobre la cuestión en discusión.   Las mociones de proc
 
 ####Comité de Gestión
 
-1.  Funciones El Comité de Gestión reporta al Consejo y lo asiste en el seguimiento, análisis y evaluación de la actividad de la Unión, con las siguientes atribuciones en particular: 
+1.  
+###Funciones
+
+El Comité de Gestión reporta al Consejo y lo asiste en el seguimiento, análisis y evaluación de la actividad de la Unión, con las siguientes atribuciones en particular: 
 
 a) informar sobre el seguimiento e indicadores del Plan Estratégico y el establecimiento de prioridades;  
 
@@ -1143,8 +1154,14 @@ b) where applicable, determine the forms of joint action to be taken at the Cong
 
 ####Resolutions and Recommendations of the Congress
 
-1.  Resolutions Resolutions shall express the will of the Congress and shall relate to the strategy or activities of the Union or certain aspects of the provision of postal services in the region. Any Resolution containing an order shall be binding, and shall establish, as applicable, the period in which it shall be in effect or within which it should be implemented. The Resolutions shall be appended to the Union Acts.   
-2.  Recommendations The Recommendations shall state the opinion of the Congress with respect to initiatives or practical improvements considered advisable for the development of postal services in the member countries or territories, which they shall apply to the extent possible. The Recommendations shall be appended to the Union Acts.   
+1.  
+###Resolutions
+
+Resolutions shall express the will of the Congress and shall relate to the strategy or activities of the Union or certain aspects of the provision of postal services in the region. Any Resolution containing an order shall be binding, and shall establish, as applicable, the period in which it shall be in effect or within which it should be implemented. The Resolutions shall be appended to the Union Acts.   
+2.  
+###Recommendations
+
+The Recommendations shall state the opinion of the Congress with respect to initiatives or practical improvements considered advisable for the development of postal services in the member countries or territories, which they shall apply to the extent possible. The Recommendations shall be appended to the Union Acts.   
 3.  Any Final Protocol that may be attached to Resolutions of the Congress referring to postal operations shall contain the reservations to such resolutions. 
 
 ### CHAPTER  V  
@@ -1538,7 +1555,10 @@ e) the closure of the debate on the question under discussion. Procedural motion
 
 ####Management Committee
 
-1. Duties The Management Committee shall report to the Council and assist it in monitoring, analyzing and evaluating the Union’s work, with the following specific duties:
+1. 
+###Duties
+
+The Management Committee shall report to the Council and assist it in monitoring, analyzing and evaluating the Union’s work, with the following specific duties:
 
 a) To review the monitoring and indicators of the implementation of the strategic plan and the setting of priorities;  
 
